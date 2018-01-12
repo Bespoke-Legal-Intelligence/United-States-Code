@@ -42,7 +42,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (3) Solar thermal
 
-&emsp;(A) In general, the goal of the Solar Thermal Energy Systems Program shall be to advance research and development to a point where solar thermal technology is cost-competitive with conventional energy sources, and to promote the integration of this technology into the production of industrial process heat and the conventional utility network. Research and development shall emphasize development of a thermal storage technology to provide capacity for shifting power to periods of demand when full insolation is not available; improvement in receivers, energy conversion devices, and innovative concentrators using stretch membranes, lenses, and other materials; and exploration of advanced manufacturing techniques.
+&emsp;(A) In general, the goal of the Solar Thermal Energy Systems Program shall be to advance research and development to a point wheresolar thermal technology is cost-competitive with conventional energy sources, and to promote the integration of this technology into the production of industrial process heat and the conventional utility network. Research and development shall emphasize development of a thermal storage technology to provide capacity for shifting power to periods of demand when full insolation is not available; improvement in receivers, energy conversion devices, and innovative concentrators using stretch membranes, lenses, and other materials; and exploration of advanced manufacturing techniques.
 
 &emsp;(B) Specific goals of the Solar Thermal Energy Systems Program shall be to—
 
@@ -52,7 +52,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (4) Alcohol from biomass
 
-&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of thistechnology into the transportation fuel sector of the economy.
+&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
 
 &emsp;(B)(i) Specific goals for producing ethanol from biomass shall be to—
 

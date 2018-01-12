@@ -22,7 +22,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) Qualifications
 
-&emsp;&emsp;Members of the Oversight Board described in paragraph (1)(A) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas:
+&emsp;&emsp;Members of the Oversight Board described in paragraph (1)(A) shall be appointed without regard to political affiliation and solelyon the basis of their professional experience and expertise in one or more of the following areas:
 
 &emsp;&emsp;&emsp;(i) Management of large service organizations.
 
@@ -222,7 +222,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (A) In general
 
-&emsp;&emsp;The members of the Oversight Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, to attend meetings of the Oversight Board and, with the advance approval of the Chairperson of the Oversight Board, while otherwise away from their homes or regular places of business for purposes of duties as a member of the Oversight Board.
+&emsp;&emsp;The members of the Oversight Board shall be allowed travel expenses, including perdiem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, to attend meetings of the Oversight Board and, with the advance approval of the Chairperson of the Oversight Board, while otherwise away from their homes or regular places of business for purposes of duties as a member of the Oversight Board.
 
 #### (B) Report
 

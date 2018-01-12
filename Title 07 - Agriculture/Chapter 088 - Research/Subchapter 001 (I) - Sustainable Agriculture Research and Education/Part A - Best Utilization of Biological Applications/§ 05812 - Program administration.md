@@ -74,7 +74,7 @@ Subsec. (b)(1)(B) to (L). Pub. L. 110–246, §7511(c)(15)(B), added subpar. (B)
 
 <b>1996</b>—Subsec. (a)(2) to (4). Pub. L. 104–127, §860(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted "subsection (b)" for "subsection (e)" in par. (2), and struck out former par. (2) which read as follows: "establish the Advisory Council in accordance with subsection (c) of this section;".
 
-Subsec. (b). Pub. L. 104–127, §860(a), (b)(3), redesignated subsec. (e) as (b) and struck out former subsec. (b) which required Secretary, not later than Apr. 1, 1991, and each April 1 thereafter, to prepare and submit to congressional committees and to Advisory Councilreport describing results of programs carried out under sections 5811, 5813, and 5821 of this title and report describing progress of projects conducted under this subchapter.
+Subsec. (b). Pub. L. 104–127, §860(a), (b)(3), redesignated subsec. (e) as (b) and struck out former subsec. (b) which required Secretary, not later than Apr. 1, 1991, and each April 1 thereafter, to prepare and submit to congressional committees and to Advisory Council report describing results of programs carried out under sections 5811, 5813, and 5821 of this title and report describing progress of projects conducted under this subchapter.
 
 Subsec. (b)(2). Pub. L. 104–127, §860(b)(4), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: "make recommendations to the Advisory Council concerning research and extension projects that merit funding under sections 5811 and 5813 of this title;".
 

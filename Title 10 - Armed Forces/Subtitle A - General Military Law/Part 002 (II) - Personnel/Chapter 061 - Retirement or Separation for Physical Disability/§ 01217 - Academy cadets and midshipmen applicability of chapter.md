@@ -32,7 +32,7 @@ Aviation cadets were omitted from chapter 61 because Title IV of the Career Comp
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted "October 28, 2004" for "the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005".
 
-<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: "This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy."
+<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: "This chapter does not apply to cadets at the United States Military Academy, the United States AirForce Academy, or the Coast Guard Academy, or to midshipmen of the Navy."
 
 <b>1958</b>—Pub. L. 85–861 struck out provisions which made chapter inapplicable to aviation cadets.
 

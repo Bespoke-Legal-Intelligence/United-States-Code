@@ -40,7 +40,7 @@ Each employee to be transferred under subsection (a)(1) shall—
 
 &emsp;(1) be transferred not later than 90 days after the transfer date; and
 
-&emsp;(2) receive notice of the position assignment of the employee not later than 120 days after the effective date of the transfer of the employee.
+&emsp;(2) receive notice of the position assignment of the employee not later than 120 days afterthe effective date of the transfer of the employee.
 
 #### (c) Transfer of functions
 
@@ -126,7 +126,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (i) Continuation of existing retirement plan
 
-&emsp;&emsp;&emsp;Each transferred employee shall remain enrolled in the retirement plan of thetransferred employee, for as long as the transferred employee is employed by the Office of the Comptroller of the Currency or the Corporation.
+&emsp;&emsp;&emsp;Each transferred employee shall remain enrolled in the retirement plan of the transferred employee, for as long as the transferred employee is employed by the Office of the Comptroller of the Currency or the Corporation.
 
 #### (ii) Employer's contribution
 
@@ -180,7 +180,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
+&emsp;&emsp;&emsp;An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b),8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
 
 #### (ii) Contribution of transferred employee
 
@@ -230,7 +230,7 @@ In administering the provisions of this section, the Comptroller of the Currency
 
 #### References in Text
 
-This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
+This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, section 41501 of Title 34, Crime Control and Law Enforcement, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
 
 #### Effective Date
 

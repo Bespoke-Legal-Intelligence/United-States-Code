@@ -104,7 +104,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L.91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(l), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(l), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723; Pub. L. 114–136, §2(c)(5), Mar. 18, 2016, 130 Stat. 305.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L.95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(l), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(l), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723; Pub. L. 114–136, §2(c)(5), Mar. 18, 2016, 130 Stat. 305.)
 
 Historical and Revision Notes<br>1966
 
@@ -222,7 +222,7 @@ Par. (8). Pub. L. 95–454 substituted "Office" for "Commission".
 
 Pub. L. 95–368 substituted "after December 31, 1978, and before January 1, 1980" for "before January 1, 1964".
 
-<b>1973</b>—Par. (1)(ii). Pub. L. 93–160 excluded from definition of "employee" persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
+<b>1973</b>—Par. (1)(ii). Pub. L. 93–160 excluded from definition of "employee" persons who are not nationals ofUnited States and whose permanent duty station is outside United States and Panama Canal Zone.
 
 <b>1970</b>—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of "employee" a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
@@ -390,7 +390,7 @@ Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Hea
 
 "(d)
 
-Transfers to the Employees Health Benefits Fund.—The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System shall transfer to the Employees Health Benefits Fund under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
+Transfers to the Employees Health Benefits Fund.—The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System shall transfer to the Employees Health Benefits Fund under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts sotransferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
 
 "(e)
 

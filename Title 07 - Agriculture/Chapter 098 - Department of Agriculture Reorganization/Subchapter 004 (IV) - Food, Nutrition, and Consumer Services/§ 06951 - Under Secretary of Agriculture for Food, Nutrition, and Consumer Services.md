@@ -16,7 +16,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (2) Additional functions
 
-&emsp;The Under Secretary of Agriculture for Food, Nutrition, and Consumer Services shall perform such other functions as may be required by law or prescribed by the Secretary.
+&emsp;The Under Secretary of Agriculture for Food, Nutrition, and Consumer Services shallperform such other functions as may be required by law or prescribed by the Secretary.
 
 #### (d) Succession
 

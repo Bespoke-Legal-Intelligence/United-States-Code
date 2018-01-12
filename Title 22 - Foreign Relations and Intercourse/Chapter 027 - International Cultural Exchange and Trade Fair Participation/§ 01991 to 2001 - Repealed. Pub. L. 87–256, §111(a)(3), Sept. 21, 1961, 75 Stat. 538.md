@@ -18,7 +18,7 @@ Section 1997 related to performance of functions without regard to other laws.
 
 Section 1998 required reports to Congress.
 
-Section 1999 created Advisory Committee on Arts; prescribed qualifications, duties, terms of office and compensation of members; and provided for staff and secretarial services.
+Section 1999 created Advisory Committee on Arts; prescribed qualifications, duties, terms of office andcompensation of members; and provided for staff and secretarial services.
 
 Section 2000 authorized creation of interagency committees.
 

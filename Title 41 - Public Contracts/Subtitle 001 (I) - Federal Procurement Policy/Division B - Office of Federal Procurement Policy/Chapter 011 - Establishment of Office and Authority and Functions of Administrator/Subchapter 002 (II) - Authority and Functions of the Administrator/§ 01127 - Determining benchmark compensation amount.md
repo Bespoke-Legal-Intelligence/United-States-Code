@@ -40,9 +40,9 @@ Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16)
 
 #### Repeal of Section
 
-<i>Pub. L. 113–67, div. A, title VII, §702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
+<i>Pub. L. 113–67, div. A, title VII, §702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, repealed this section applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.</i>
 
-<i>Pub. L. 113–66, div. A, title VIII, §811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
+<i>Pub. L. 113–66, div. A, title VIII, §811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, repealed this section applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013.</i>
 
 Historical and Revision Notes
 

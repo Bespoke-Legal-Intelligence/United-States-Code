@@ -34,9 +34,9 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
 
-&emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
+&emsp;(6) provide a strategy for the comprehensive coordination of the mental health servicesprovided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 
-&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, theBureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
+&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
 
 &emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
 
@@ -94,7 +94,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (5) Plan
 
-&emsp;Not later than 90 days after March 23, 2010, the Secretary shall develop a plan under whichthe Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010, with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title.
+&emsp;Not later than 90 days after March 23, 2010, the Secretary shall develop a plan under which the Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010, with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title.
 
 #### (e) Staffing
 
@@ -222,7 +222,7 @@ This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "th
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally tosubchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

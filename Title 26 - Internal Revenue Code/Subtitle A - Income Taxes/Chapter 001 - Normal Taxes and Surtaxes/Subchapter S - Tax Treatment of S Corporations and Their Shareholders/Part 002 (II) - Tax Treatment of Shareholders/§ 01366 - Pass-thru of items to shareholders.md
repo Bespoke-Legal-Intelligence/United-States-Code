@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year ofa shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -38,7 +38,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
+&emsp;&emsp;Except as provided in subparagraph (B), any loss or deduction which is disallowed forany taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
 
 #### (B) Transfers of stock between spouses or incident to divorce
 
@@ -158,7 +158,7 @@ Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable year
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 735(c)(16) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 

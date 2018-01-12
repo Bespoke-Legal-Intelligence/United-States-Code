@@ -64,13 +64,13 @@
 
 &emsp;(1) The military end strength and civilian full-time equivalents assigned to major Department of Defense headquarters activities for the preceding fiscal year and estimates of such numbers for the current fiscal year and subsequent fiscal years.
 
-&emsp;(2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-timeequivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
+&emsp;(2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-time equivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
 
 &emsp;(3) The plan for the continued review of contract personnel supporting major Department of Defense headquarters activities for possible conversion to military or civilian performance in accordance with section 2463 of this title.
 
 &emsp;(4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
 
-(g) In each report submitted under subsection (a) during fiscal years 2013 through 2017, the Secretary shall also include a detailed discussion of the following:
+(g) In each report submitted under subsection (a), the Secretary shall also include a detailed discussion of the following:
 
 &emsp;(1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560.)
 
 #### References in Text
 
@@ -105,6 +105,8 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–91 struck out "during fiscal years 2013 through 2017" after "subsection (a)" in introductory provisions.
 
 <b>2013</b>—Subsec. (g). Pub. L. 112–239 added subsec. (g).
 
@@ -120,13 +122,13 @@ Subsec. (f). Pub. L. 111–84, §1109(b)(1), added subsec. (f).
 
 <b>1997</b>—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted "(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)" after "of the following" in introductory provisions.
 
-Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: "Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called 'single-status' technicians), with a further display of such numbers as specified in paragraph (2)."
+Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: "Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reservecomponent (so-called 'single-status' technicians), with a further display of such numbers as specified in paragraph (2)."
 
 <b>1996</b>—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: "Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas."
 
 Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) and struck out pars. (4) and (5) which read as follows:
 
-"(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade inwhich serving and years of active commissioned service:
+"(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
 
 &emsp;"(A) Regular officers.
 

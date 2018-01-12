@@ -66,7 +66,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 &emsp;&emsp;&emsp;(iii) the adjusted basis (for determining loss) of such property immediately before the exchange exceeded its fair market value at such time,
 
-> &emsp;&emsp;then in computing the amount of the loss on such stock for purposes of this section thebasis of such stock shall be reduced by an amount equal to the excess described in clause (iii).
+> &emsp;&emsp;then in computing the amount of the loss on such stock for purposes of this section the basis of such stock shall be reduced by an amount equal to the excess described in clause (iii).
 
 #### (B) Increases in basis
 

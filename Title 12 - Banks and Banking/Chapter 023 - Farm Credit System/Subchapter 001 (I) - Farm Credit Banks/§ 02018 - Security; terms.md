@@ -40,7 +40,7 @@ Loans, other than real estate loans, and discounts made under the provisions of 
 
 #### Prior Provisions
 
-A prior section 2018, Pub. L. 92–181, title I, §1.10, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, §107, Dec. 24, 1980, 94 Stat. 3438, related to purposes, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2018, Pub. L. 92–181, title I, §1.10, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, §107, Dec. 24,1980, 94 Stat. 3438, related to purposes, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

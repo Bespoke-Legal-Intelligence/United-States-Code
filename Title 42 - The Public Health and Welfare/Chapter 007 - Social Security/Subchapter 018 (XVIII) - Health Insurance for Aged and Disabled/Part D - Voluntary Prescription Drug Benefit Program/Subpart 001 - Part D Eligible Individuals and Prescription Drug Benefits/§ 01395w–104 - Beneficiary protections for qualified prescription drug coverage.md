@@ -20,6 +20,8 @@
 
 &emsp;&emsp;&emsp;(iv) The medication therapy management program required under subsection (c).
 
+&emsp;&emsp;&emsp;(v) The drug management program for at-risk beneficiaries under subsection (c)(5).
+
 #### (2) Disclosure upon request of general coverage, utilization, and grievance information
 
 &emsp;Upon request of a part D eligible individual who is eligible to enroll in a prescription drug plan, the PDP sponsor offering such plan shall provide information similar (as determined by the Secretary) to the information described in subparagraphs (A), (B), and (C) of section 1395w–22(c)(2) of this title to such individual.
@@ -100,11 +102,11 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with theNational Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with the National Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
 
 #### (iii) Implementation
 
-&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDP sponsors utilize such standards beginning January 1, 2006.
+&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDPsponsors utilize such standards beginning January 1, 2006.
 
 #### (3) Requirements on development and application of formularies
 
@@ -222,6 +224,8 @@
 
 &emsp;&emsp;(D) A program to control fraud, abuse, and waste.
 
+&emsp;&emsp;(E) A utilization management tool to prevent drug abuse (as described in paragraph (6)(A)).
+
 > &emsp;Nothing in this section shall be construed as impairing a PDP sponsor from utilizing cost management tools (including differential payments) under all methods of operation.
 
 #### (2) Medication therapy management program
@@ -314,6 +318,220 @@
 
 &emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
 
+#### (5) Drug management program for at-risk beneficiaries
+
+#### (A) Authority to establish
+
+&emsp;&emsp;A PDP sponsor may establish a drug management program for at-risk beneficiaries under which, subject to subparagraph (B), the PDP sponsor may, in the case of an at-risk beneficiary for prescription drug abuse who is an enrollee in a prescription drug plan of such PDP sponsor, limit such beneficiary's access to coverage for frequently abused drugs under such plan to frequently abused drugs that are prescribed for such beneficiary by one or more prescribers selected under subparagraph (D), and dispensed for such beneficiary by one or more pharmacies selected under such subparagraph.
+
+#### (B) Requirement for notices
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A PDP sponsor may not limit the access of an at-risk beneficiary for prescriptiondrug abuse to coverage for frequently abused drugs under a prescription drug plan until such sponsor—
+
+&emsp;&emsp;&emsp;&emsp;(I) provides to the beneficiary an initial notice described in clause (ii) and a second notice described in clause (iii); and
+
+&emsp;&emsp;&emsp;&emsp;(II) verifies with the providers of the beneficiary that the beneficiary is an at-risk beneficiary for prescription drug abuse.
+
+#### (ii) Initial notice
+
+&emsp;&emsp;&emsp;An initial notice described in this clause is a notice that provides to the beneficiary—
+
+&emsp;&emsp;&emsp;&emsp;(I) notice that the PDP sponsor has identified the beneficiary as potentially being an at-risk beneficiary for prescription drug abuse;
+
+&emsp;&emsp;&emsp;&emsp;(II) information describing all State and Federal public health resources that are designed to address prescription drug abuse to which the beneficiary has access, including mental health services and other counseling services;
+
+&emsp;&emsp;&emsp;&emsp;(III) notice of, and information about, the right of the beneficiary to appeal such identification under subsection (h) and the option of an automatic escalation to external review;
+
+&emsp;&emsp;&emsp;&emsp;(IV) a request for the beneficiary to submit to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor to select under subparagraph (D) in the case that the beneficiary is identified as an at-risk beneficiary for prescription drug abuse as described in clause (iii)(I);
+
+&emsp;&emsp;&emsp;&emsp;(V) an explanation of the meaning and consequences of the identification of the beneficiary as potentially being an at-risk beneficiary for prescription drug abuse, including an explanation of the drug management program established by the PDP sponsor pursuant to subparagraph (A);
+
+&emsp;&emsp;&emsp;&emsp;(VI) clear instructions that explain how the beneficiary can contact the PDP sponsor in order to submit to the PDP sponsor the preferences described in subclause (IV) and any other communications relating to the drug management program for at-risk beneficiaries established by the PDP sponsor; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) contact information for other organizations that can provide the beneficiary with assistance regarding such drug management program (similar to the information provided by the Secretary in other standardized notices provided to part D eligible individuals enrolled in prescription drug plans under this part).
+
+#### (iii) Second notice
+
+&emsp;&emsp;&emsp;A second notice described in this clause is a notice that provides to the beneficiary notice—
+
+&emsp;&emsp;&emsp;&emsp;(I) that the PDP sponsor has identified the beneficiary as an at-risk beneficiary for prescription drug abuse;
+
+&emsp;&emsp;&emsp;&emsp;(II) that such beneficiary is subject to the requirements of the drug management program for at-risk beneficiaries established by such PDP sponsor for such plan;
+
+&emsp;&emsp;&emsp;&emsp;(III) of the prescriber (or prescribers) and pharmacy (or pharmacies) selected for such individual under subparagraph (D);
+
+&emsp;&emsp;&emsp;&emsp;(IV) of, and information about, the beneficiary's right to appeal such identification under subsection (h) and the option of an automatic escalation to external review;
+
+&emsp;&emsp;&emsp;&emsp;(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) that includes clear instructions that explain how the beneficiary can contact the PDP sponsor.
+
+#### (iv) Timing of notices
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), a second notice described in clause (iii) shall be provided to the beneficiary on a date that is not less than 30 days after an initial notice described in clause (ii) is provided to the beneficiary.
+
+#### (II) Exception
+
+&emsp;&emsp;&emsp;&emsp;In the case that the PDP sponsor, in conjunction with the Secretary, determines that concerns identified through rulemaking by the Secretary regarding the health or safety of the beneficiary or regarding significant drug diversion activities require the PDP sponsor to provide a second notice described in clause (iii) to the beneficiary on a date that is earlier than the date described in subclause (I), the PDP sponsor may provide such second notice on such earlier date.
+
+#### (C) At-risk beneficiary for prescription drug abuse
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "at-risk beneficiary for prescription drug abuse" means a part D eligible individual who is not an exempted individual described in clause (ii) and—
+
+&emsp;&emsp;&emsp;&emsp;(I) who is identified as such an at-risk beneficiary through the use of clinical guidelines that indicate misuse or abuse of prescription drugs described in subparagraph (G) and that are developed by the Secretary in consultation with PDP sponsors and other stakeholders, including individuals entitled to benefits under part A or enrolled under part B, advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plan sponsors, and biopharmaceutical manufacturers; or
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to whom the PDP sponsor of a prescription drug plan, upon enrolling such individual in such plan, received notice from the Secretary that such individual was identified under this paragraph to be an at-risk beneficiary for prescription drug abuse under the prescription drug plan in which such individual was most recently previously enrolled and such identification has not been terminated under subparagraph (F).
+
+#### (ii) Exempted individual described
+
+&emsp;&emsp;&emsp;An exempted individual described in this clause is an individual who—
+
+&emsp;&emsp;&emsp;&emsp;(I) receives hospice care under this subchapter;
+
+&emsp;&emsp;&emsp;&emsp;(II) is a resident of a long-term care facility, of a facility described in section 1396d(d) of this title, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary elects to treat as an exempted individual for purposes of clause (i).
+
+#### (iii) Program size
+
+&emsp;&emsp;&emsp;The Secretary shall establish policies, including the guidelines developed under clause (i)(I) and the exemptions under clause (ii)(III), to ensure that the population of enrollees in a drug management program for at-risk beneficiaries operated by a prescription drug plan can be effectively managed by such plans.
+
+#### (iv) Clinical contact
+
+&emsp;&emsp;&emsp;With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by a PDP sponsor, the PDP sponsor shall contact the beneficiary's providers who have prescribed frequently abused drugs regarding whether prescribed medications are appropriate for such beneficiary's medical conditions.
+
+#### (D) Selection of prescribers and pharmacies
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by such sponsor, a PDP sponsor shall, based on the preferences submitted to the PDP sponsor by the beneficiary pursuant to clauses (ii)(IV) and (iii)(V) of subparagraph (B) (except as otherwise provided in this subparagraph) select—
+
+&emsp;&emsp;&emsp;&emsp;(I) one, or, if the PDP sponsor reasonably determines it necessary to provide the beneficiary with reasonable access under clause (ii), more than one, individual who is authorized to prescribe frequently abused drugs (referred to in this paragraph as a "prescriber") who may write prescriptions for such drugs for such beneficiary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) one, or, if the PDP sponsor reasonably determines it necessary to provide the beneficiary with reasonable access under clause (ii), more than one, pharmacy that may dispense such drugs to such beneficiary.
+
+&emsp;&emsp;&nbsp;For purposes of subclause (II), in the case of a pharmacy that has multiple locations that share real-time electronic data, all such locations of the pharmacy shall collectively be treated as one pharmacy.
+
+#### (ii) Reasonable access
+
+&emsp;&emsp;&emsp;In making the selections under this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) a PDP sponsor shall ensure that the beneficiary continues to have reasonable access to frequently abused drugs (as defined in subparagraph (G)), taking into account geographic location, beneficiary preference, impact on costsharing, and reasonable travel time; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a PDP sponsor shall ensure such access (including access to prescribers and pharmacies with respect to frequently abused drugs) in the case of individuals with multiple residences, in the case of natural disasters and similar situations, and in the case of the provision of emergency services.
+
+#### (iii) Beneficiary preferences
+
+&emsp;&emsp;&emsp;If an at-risk beneficiary for prescription drug abuse submits preferences for which in-network prescribers and pharmacies the beneficiary would prefer the PDP sponsor select in response to a notice under subparagraph (B), the PDP sponsor shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) review such preferences;
+
+&emsp;&emsp;&emsp;&emsp;(II) select or change the selection of prescribers and pharmacies for the beneficiary based on such preferences; and
+
+&emsp;&emsp;&emsp;&emsp;(III) inform the beneficiary of such selection or change of selection.
+
+#### (iv) Exception regarding beneficiary preferences
+
+&emsp;&emsp;&emsp;In the case that the PDP sponsor determines that a change to the selection of prescriber or pharmacy under clause (iii)(II) by the PDP sponsor is contributing or would contribute to prescription drug abuse or drug diversion by the beneficiary, the PDP sponsor may change the selection of prescriber or pharmacy for the beneficiary without regard to the preferences of the beneficiary described in clause (iii). If the PDP sponsor changes the selection pursuant to the preceding sentence, the PDP sponsor shall provide the beneficiary with—
+
+&emsp;&emsp;&emsp;&emsp;(I) at least 30 days written notice of the change of selection; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a rationale for the change.
+
+#### (v) Confirmation
+
+&emsp;&emsp;&emsp;Before selecting a prescriber or pharmacy under this subparagraph, a PDP sponsor must notify the prescriber and pharmacy that the beneficiary involved has been identified for inclusion in the drug management program for at-risk beneficiaries and that the prescriber and pharmacy has been selected as the beneficiary's designated prescriber and pharmacy.
+
+#### (E) Terminations and appeals
+
+&emsp;&emsp;The identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph, a coverage determination made under a drug management program for at-risk beneficiaries, the selection of prescriber or pharmacy under subparagraph (D), and information to be shared under subparagraph (I), with respect to such individual, shall be subject to reconsideration and appeal under subsection (h) and the option of an automatic escalation to external review to the extent provided by the Secretary.
+
+#### (F) Termination of identification
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall develop standards for the termination of identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph. Under such standards such identification shall terminate as of the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-risk beneficiary for prescription drug abuse described in subparagraph (C)(i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the end of such maximum period of identification as the Secretary may specify.
+
+#### (ii) Rule of construction
+
+&emsp;&emsp;&emsp;Nothing in clause (i) shall be construed as preventing a plan from identifying an individual as an at-risk beneficiary for prescription drug abuse under subparagraph (C)(i) after such termination on the basis of additional information on drug use occurring after the date of notice of such termination.
+
+#### (G) Frequently abused drug
+
+&emsp;&emsp;For purposes of this subsection, the term "frequently abused drug" means a drug that is a controlled substance that the Secretary determines to be frequently abused or diverted.
+
+#### (H) Data disclosure
+
+#### (i) Data on decision to impose limitation
+
+&emsp;&emsp;&emsp;In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary for prescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules and procedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
+
+#### (ii) Data to reduce fraud, abuse, and waste
+
+&emsp;&emsp;&emsp;The Secretary shall establish rules and procedures to require PDP sponsors operating a drug management program for at-risk beneficiaries under this paragraph to provide the Secretary with such data as the Secretary determines appropriate for purposes of identifying patterns of prescription drug utilization for plan enrollees that are outside normal patterns and that may indicate fraudulent, medically unnecessary, or unsafe use.
+
+#### (I) Sharing of information for subsequent plan enrollments
+
+&emsp;&emsp;The Secretary shall establish procedures under which PDP sponsors who offer prescription drug plans shall share information with respect to individuals who are at-risk beneficiaries for prescription drug abuse (or individuals who are potentially at-risk beneficiaries for prescription drug abuse) and enrolled in a prescription drug plan and who subsequently disenroll from such plan and enroll in another prescription drug plan offered by another PDP sponsor.
+
+#### (J) Privacy issues
+
+&emsp;&emsp;Prior to the implementation of the rules and procedures under this paragraph, the Secretary shall clarify privacy requirements, including requirements under the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note), related to the sharing of data under subparagraphs (H) and (I) by PDP sponsors. Such clarification shall provide that the sharing of such data shall be considered to be protected health information in accordance with the requirements of the regulations promulgated pursuant to such section 264(c).
+
+#### (K) Education
+
+&emsp;&emsp;The Secretary shall provide education to enrollees in prescription drug plans of PDP sponsors and providers regarding the drug management program for at-risk beneficiaries described in this paragraph, including education—
+
+&emsp;&emsp;&emsp;(i) provided by Medicare administrative contractors through the improper payment outreach and education program described in section 1395kk–1(h) of this title; and
+
+&emsp;&emsp;&emsp;(ii) through current education efforts (such as State health insurance assistance programs described in subsection (a)(1)(A) of section 119 of the Medicare Improvements for Patients and Providers Act of 2008 (42 U.S.C. 1395b–3 note)) and materials directed toward such enrollees.
+
+#### (L) Application under MA–PD plans
+
+&emsp;&emsp;Pursuant to section 1395w–131(c)(1) of this title, the provisions of this paragraph apply under part D to MA organizations offering MA–PD plans to MA eligible individuals in the same manner as such provisions apply under this part to a PDP sponsor offering a prescription drug plan to a part D eligible individual.
+
+#### (M) CMS compliance review
+
+&emsp;&emsp;The Secretary shall ensure that existing plan sponsor compliance reviews and auditprocesses include the drug management programs for at-risk beneficiaries under this paragraph, including appeals processes under such programs.
+
+#### (6) Utilization management tool to prevent drug abuse
+
+#### (A) In general
+
+&emsp;&emsp;A tool described in this paragraph is any of the following:
+
+&emsp;&emsp;&emsp;(i) A utilization tool designed to prevent the abuse of frequently abused drugs by individuals and to prevent the diversion of such drugs at pharmacies.
+
+&emsp;&emsp;&emsp;(ii) Retrospective utilization review to identify—
+
+&emsp;&emsp;&emsp;&emsp;(I) individuals that receive frequently abused drugs at a frequency or in amounts that are not clinically appropriate; and
+
+&emsp;&emsp;&emsp;&emsp;(II) providers of services or suppliers that may facilitate the abuse or diversion of frequently abused drugs by beneficiaries.
+
+&emsp;&emsp;&emsp;(iii) Consultation with the contractor described in subparagraph (B) to verify if an individual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).
+
+#### (B) Reporting
+
+&emsp;&emsp;A PDP sponsor offering a prescription drug plan (and an MA organization offering an MA–PD plan) in a State shall submit to the Secretary and the Medicare drug integrity contractor with which the Secretary has entered into a contract under section 1395ddd of this title with respect to such State a report, on a monthly basis, containing information on—
+
+&emsp;&emsp;&emsp;(i) any provider of services or supplier described in subparagraph (A)(ii)(II) that is identified by such plan sponsor (or organization) during the 30-day period before such report is submitted; and
+
+&emsp;&emsp;&emsp;(ii) the name and prescription records of individuals described in paragraph (5)(C).
+
+#### (C) CMS compliance review
+
+&emsp;&emsp;The Secretary shall ensure that plan sponsor compliance reviews and program audits biennially include a certification that utilization management tools under this paragraph are in compliance with the requirements for such tools.
+
 #### (d) Consumer satisfaction surveys
 
 In order to provide for comparative information under section 1395w–101(c)(3)(A)(v) of this title, the Secretary shall conduct consumer satisfaction surveys with respect to PDP sponsors and prescription drug plans in a manner similar to the manner such surveys are conducted for MA organizations and MA plans under part C.
@@ -322,7 +540,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (1) Application of standards
 
-&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronicallyshall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
+&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
 
 #### (2) Program requirements
 
@@ -456,7 +674,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;(A) is contrary to the standards or restricts the ability to carry out this part; and
 
-&emsp;&emsp;(B) pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered part D drugs under this part.
+&emsp;&emsp;(B) pertains to the electronic transmission of medication history and of information oneligibility, benefits, and prescriptions with respect to covered part D drugs under this part.
 
 #### (6) Establishment of safe harbor
 
@@ -540,241 +758,15 @@ The following provisions shall apply to a PDP sponsor (and the agents, brokers, 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964; Pub. L. 114–10, title V, §507, Apr. 16, 2015, 129 Stat. 168; Pub. L. 114–198, title VII, §704(a)(1), (2), (b), July 22, 2016, 130 Stat. 742–748.)
 
-#### Amendment of Subsections (a)(1)(B) and (c)
+#### Applicability of Amendment
 
-<i>Pub. L. 114–198, title VII, §704(a)(1), (2), (b), (g)(1), July 22, 2016, 130 Stat. 742–748, 751, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1)(B), by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(v) The drug management program for at-risk beneficiaries under subsection (c)(5)."; and</i>
-
-<i>(2) in subsection (c)—</i>
-
-<i>(A) in paragraph (1), by inserting after subparagraph (D) the following new subparagraph:</i>
-
-&emsp;&emsp;<i>"(E) A utilization management tool to prevent drug abuse (as described in paragraph (6)(A))."; and</i>
-
-<i>(B) by adding at the end the following:</i>
-
-#### <i>(5) Drug management program for at-risk beneficiaries</i>
-
-#### <i>(A) Authority to establish</i>
-
-&emsp;&emsp;<i>A PDP sponsor may establish a drug management program for at-risk beneficiaries under which, subject to subparagraph (B), the PDP sponsor may, in the case of an at-risk beneficiary for prescription drug abuse who is an enrollee in a prescription drug plan of such PDP sponsor, limit such beneficiary's access to coverage for frequently abused drugs under such plan to frequently abused drugs that are prescribed for such beneficiary by one or more prescribers selected under subparagraph (D), and dispensed for such beneficiary by one or more pharmacies selected under such subparagraph.</i>
-
-#### <i>(B) Requirement for notices</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>A PDP sponsor may not limit the access of an at-risk beneficiary for prescription drug abuse to coverage for frequently abused drugs under a prescription drug plan until such sponsor—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) provides to the beneficiary an initial notice described in clause (ii) and a second notice described in clause (iii); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) verifies with the providers of the beneficiary that the beneficiary is an at-risk beneficiary for prescription drug abuse.</i>
-
-#### <i>(ii) Initial notice</i>
-
-&emsp;&emsp;&emsp;<i>An initial notice described in this clause is a notice that provides to the beneficiary—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) notice that the PDP sponsor has identified the beneficiary as potentially being an at-risk beneficiary for prescription drug abuse;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) information describing all State and Federal public health resources that are designed to address prescription drug abuse to which the beneficiary has access, including mental health services and other counseling services;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) notice of, and information about, the right of the beneficiary to appeal such identification under subsection (h) and the option of an automatic escalation to external review;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) a request for the beneficiary to submit to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor to select under subparagraph (D) in the case that the beneficiary is identified as an at-risk beneficiary for prescription drug abuse as described in clause (iii)(I);</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(V) an explanation of the meaning and consequences of the identification of the beneficiary as potentially being an at-risk beneficiary for prescription drug abuse, including an explanation of the drug management program established by the PDP sponsor pursuant to subparagraph (A);</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(VI) clear instructions that explain how the beneficiary can contact the PDP sponsor in order to submit to the PDP sponsor the preferences described in subclause (IV) and any other communications relating to the drug management program for at-risk beneficiaries established by the PDP sponsor; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(VII) contact information for other organizations that can provide the beneficiary with assistance regarding such drug management program (similar to the information provided by the Secretary in other standardized notices provided to part D eligible individuals enrolled in prescription drug plans under this part).</i>
-
-#### <i>(iii) Second notice</i>
-
-&emsp;&emsp;&emsp;<i>A second notice described in this clause is a notice that provides to the beneficiary notice—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) that the PDP sponsor has identified the beneficiary as an at-risk beneficiary for prescription drug abuse;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) that such beneficiary is subject to the requirements of the drug management program for at-risk beneficiaries established by such PDP sponsor for such plan;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) of the prescriber (or prescribers) and pharmacy (or pharmacies) selected for such individual under subparagraph (D);</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) of, and information about, the beneficiary's right to appeal such identification under subsection (h) and the option of an automatic escalation to external review;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(VI) that includes clear instructions that explain how the beneficiary can contact the PDP sponsor.</i>
-
-#### <i>(iv) Timing of notices</i>
-
-#### <i>(I) In general</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>Subject to subclause (II), a second notice described in clause (iii) shall be provided to the beneficiary on a date that is not less than 30 days after an initial notice described in clause (ii) is provided to the beneficiary.</i>
-
-#### <i>(II) Exception</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>In the case that the PDP sponsor, in conjunction with the Secretary, determines that concerns identified through rulemaking by the Secretary regarding the health or safety of the beneficiary or regarding significant drug diversion activities require the PDP sponsor to provide a second notice described in clause (iii) to the beneficiary on a date that is earlier than the date described in subclause (I), the PDP sponsor may provide such second notice on such earlier date.</i>
-
-#### <i>(C) At-risk beneficiary for prescription drug abuse</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>For purposes of this paragraph, the term "at-risk beneficiary for prescription drug abuse" means a part D eligible individual</i><i>who is not an exempted individual described in clause (ii) and—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) who is identified as such an at-risk beneficiary through the use of clinical guidelines that indicate misuse or abuse of prescription drugs described in subparagraph (G) and that are developed by the Secretary in consultation with PDP sponsors and other stakeholders, including individuals entitled to benefits under part A or enrolled under part B, advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plan sponsors, and biopharmaceutical manufacturers; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) with respect to whom the PDP sponsor of a prescription drug plan, upon enrolling such individual in such plan, received notice from the Secretary that such individual was identified under this paragraph to be an at-risk beneficiary for prescription drug abuse under the prescription drug plan in which such individual was most recently previously enrolled and such identification has not been terminated under subparagraph (F).</i>
-
-#### <i>(ii) Exempted individual described</i>
-
-&emsp;&emsp;&emsp;<i>An exempted individual described in this clause is an individual who—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) receives hospice care under this subchapter;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) is a resident of a long-term care facility, of a facility described in section 1396d(d) of this title, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) the Secretary elects to treat as an exempted individual for purposes of clause (i).</i>
-
-#### <i>(iii) Program size</i>
-
-&emsp;&emsp;&emsp;<i>The Secretary shall establish policies, including the guidelines developed under clause (i)(I) and the exemptions under clause (ii)(III), to ensure that the population of enrollees in a drug management program for at-risk beneficiaries operated by a prescription drug plan can be effectively managed by such plans.</i>
-
-#### <i>(iv) Clinical contact</i>
-
-&emsp;&emsp;&emsp;<i>With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by a PDP sponsor, the PDP sponsor shall contact the beneficiary's providers who have prescribed frequently abused drugs regarding whether prescribed medications are appropriate for such beneficiary's medical conditions.</i>
-
-#### <i>(D) Selection of prescribers and pharmacies</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription drug plan offered by such sponsor, a PDP sponsor shall, based on the preferences submitted to the PDP sponsor by the beneficiary pursuant to clauses (ii)(IV) and (iii)(V) of subparagraph (B) (except as otherwise provided in this subparagraph) select—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) one, or, if the PDP sponsor reasonably determines it necessary to provide the beneficiary with reasonable access under clause (ii), more than one, individual who is authorized to prescribe frequently abused drugs (referred to in this paragraph as a "prescriber") who may write prescriptions for such drugs for such beneficiary; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) one, or, if the PDP sponsor reasonably determines it necessary to provide the beneficiary with reasonable access under clause (ii), more than one, pharmacy that may dispense such drugs to such beneficiary.</i>
-
-&emsp;&emsp;<i> For purposes of subclause (II), in the case of a pharmacy that has multiple locations that share real-time electronic data, all such locations of the pharmacy shall collectively be treated as one pharmacy.</i>
-
-#### <i>(ii) Reasonable access</i>
-
-&emsp;&emsp;&emsp;<i>In making the selections under this subparagraph—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) a PDP sponsor shall ensure that the beneficiary continues to have reasonable access to frequently abused drugs (as defined in subparagraph (G)), taking into account geographic location, beneficiary preference, impact on costsharing, and reasonable travel time; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a PDP sponsor shall ensure such access (including access to prescribers and pharmacies with respect to frequently abused drugs) in the case of individuals with multiple residences, in the case of natural disasters and similar situations, and in the case of the provision of emergency services.</i>
-
-#### <i>(iii) Beneficiary preferences</i>
-
-&emsp;&emsp;&emsp;<i>If an at-risk beneficiary for prescription drug abuse submits preferences for which in-network prescribers and pharmacies the beneficiary would prefer the PDP sponsor select in response to a notice under subparagraph (B), the PDP sponsor shall—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) review such preferences;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) select or change the selection of prescribers and pharmacies for the beneficiary based on such preferences; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) inform the beneficiary of such selection or change of selection.</i>
-
-#### <i>(iv) Exception regarding beneficiary preferences</i>
-
-&emsp;&emsp;&emsp;<i>In the case that the PDP sponsor determines that a change to the selection of prescriber or pharmacy under clause (iii)(II) by the PDP sponsor is contributing or would contribute to prescription drug abuse or drug diversion by the beneficiary, the PDP sponsor may change the selection of prescriber or pharmacy for the beneficiary without regard to the preferences of the beneficiary described in clause (iii). If the PDP sponsor changes the selection pursuant to the preceding sentence, the PDP sponsor shall provide the beneficiary with—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) at least 30 days written notice of the change of selection; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) a rationale for the change.</i>
-
-#### <i>(v) Confirmation</i>
-
-&emsp;&emsp;&emsp;<i>Before selecting a prescriber or pharmacy under this subparagraph, a PDP sponsor must notify the prescriber and pharmacy that the beneficiary involved has been identified for inclusion in the drug management program for at-risk beneficiaries and that the prescriber and pharmacy has been selected as the beneficiary's designated prescriber and pharmacy.</i>
-
-#### <i>(E) Terminations and appeals</i>
-
-&emsp;&emsp;<i>The identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph, a coverage determination made under a drug management program for at-risk beneficiaries, the selection of prescriber or pharmacy under subparagraph (D), and information to be shared under subparagraph (I), with respect to such individual, shall be subject to reconsideration and appeal under subsection (h) and the option of an automatic escalation to external review to the extent provided by the Secretary.</i>
-
-#### <i>(F) Termination of identification</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>The Secretary shall develop standards for the termination of identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph. Under such standards such identification shall terminate as of the earlier of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-risk beneficiary for prescription drug abuse described in subparagraph (C)(i); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the end of such maximum period of identification as the Secretary may specify.</i>
-
-#### <i>(ii) Rule of construction</i>
-
-&emsp;&emsp;&emsp;<i>Nothing in clause (i) shall be construed as preventing a plan from identifying an individual as an at-risk beneficiary for prescription drug abuse under subparagraph (C)(i) after such termination on the basis of additional information on drug use occurring after the date of notice of such termination.</i>
-
-#### <i>(G) Frequently abused drug</i>
-
-&emsp;&emsp;<i>For purposes of this subsection, the term "frequently abused drug" means a drug that is a controlled substance that the Secretary determines to be frequently abused or diverted.</i>
-
-#### <i>(H) Data disclosure</i>
-
-#### <i>(i) Data on decision to impose limitation</i>
-
-&emsp;&emsp;&emsp;<i>In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary for prescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules and procedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.</i>
-
-#### <i>(ii) Data to reduce fraud, abuse, and waste</i>
-
-&emsp;&emsp;&emsp;<i>The Secretary shall establish rules and procedures to require PDP sponsors operating a drug management program for at-risk beneficiaries under this paragraph to provide the Secretary with such data as the Secretary determines appropriate for purposes of identifying patterns of prescription drug utilization for plan enrollees that are outside normal patterns and that may indicate fraudulent, medically unnecessary, or unsafe use.</i>
-
-#### <i>(I) Sharing of information for subsequent plan enrollments</i>
-
-&emsp;&emsp;<i>The Secretary shall establish procedures under which PDP sponsors who offer prescription drug plans shall share information with respect to individuals who are at-risk beneficiaries for prescription drug abuse (or individuals who are potentially at-risk beneficiaries for prescription drug abuse) and enrolled in a prescription drug plan and who subsequently disenroll from such plan and enroll in another prescription drug plan offered by another PDP sponsor.</i>
-
-#### <i>(J) Privacy issues</i>
-
-&emsp;&emsp;<i>Prior to the implementation of the rules and procedures under this paragraph, the Secretary shall clarify privacy requirements, including requirements under the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note), related to the sharing of data under subparagraphs (H) and (I) by PDP sponsors. Such clarification shall provide that the sharing of such data shall be considered to be protected health information in accordance with the requirements of the regulations promulgated pursuant to such section 264(c).</i>
-
-#### <i>(K) Education</i>
-
-&emsp;&emsp;<i>The Secretary shall provide education to enrollees in prescription drug plans of PDP sponsors and providers regarding the drug management program for at-risk beneficiaries described in this paragraph, including education—</i>
-
-&emsp;&emsp;&emsp;<i>(i) provided by Medicare administrative contractors through the improper payment outreach and education program described in section 1395kk–1(h) of this title; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) through current education efforts (such as State health insurance assistance programs described in subsection (a)(1)(A) of section 119 of the Medicare Improvements for Patients and Providers Act of 2008 (42 U.S.C. 1395b–3 note)) and materials directed toward such enrollees.</i>
-
-#### <i>(L) Application under MA–PD plans</i>
-
-&emsp;&emsp;<i>Pursuant to section 1395w–131(c)(1) of this title, the provisions of this paragraph apply under part D to MA organizations offering MA–PD plans to MA eligible individuals in the same manner as such provisions apply under this part to a PDP sponsor offering a prescription drug plan to a part D eligible individual.</i>
-
-#### <i>(M) CMS compliance review</i>
-
-&emsp;&emsp;<i>The Secretary shall ensure that existing plan sponsor compliance reviews and audit processes</i><i>include the drug management programs for at-risk beneficiaries under this paragraph, including appeals processes under such programs.</i>
-
-#### <i>(6) Utilization management tool to prevent drug abuse</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>A tool described in this paragraph is any of the following:</i>
-
-&emsp;&emsp;&emsp;<i>(i) A utilization tool designed to prevent the abuse of frequently abused drugs by individuals and to prevent the diversion of such drugs at pharmacies.</i>
-
-&emsp;&emsp;&emsp;<i>(ii) Retrospective utilization review to identify—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) individuals that receive frequently abused drugs at a frequency or in amounts that are not clinically appropriate; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) providers of services or suppliers that may facilitate the abuse or diversion of frequently abused drugs by beneficiaries.</i>
-
-&emsp;&emsp;&emsp;<i>(iii) Consultation with the contractor described in subparagraph (B) to verify if an individual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).</i>
-
-#### <i>(B) Reporting</i>
-
-&emsp;&emsp;<i>A PDP sponsor offering a prescription drug plan (and an MA organization offering an MA–PD plan) in a State shall submit to the Secretary and the Medicare drug integrity contractor with which the Secretary has entered into a contract under section 1395ddd of this title with respect to such State a report, on a monthly basis, containing information on—</i>
-
-&emsp;&emsp;&emsp;<i>(i) any provider of services or supplier described in subparagraph (A)(ii)(II) that is identified by such plan sponsor (or organization) during the 30-day period before such report is submitted; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the name and prescription records of individuals described in paragraph (5)(C).</i>
-
-#### <i>(C) CMS compliance review</i>
-
-&emsp;&emsp;<i>The Secretary shall ensure that plan sponsor compliance reviews and program audits biennially include a certification that utilization management tools under this paragraph are in compliance with the requirements for such tools.</i>
-
-<i>See 2016 Amendment notes below.</i>
+<i>Amendment of section by section 704(a)(1), (2), (b) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment notes below.</i>
 
 #### References in Text
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(5)(J) and (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+
+Section 119 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (c)(5)(K)(ii), is section 119 of Pub. L. 110–275, which is set out as a note under section 1395b–3 of this title.
 
 #### Amendments
 
@@ -830,7 +822,7 @@ Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beg
 
 #### Rule of Construction
 
-Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: "Nothing in this section \[amending this section\] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\]."
+Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: "Nothing in this section \[amending this section\] shall limit the authority of theSecretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\]."
 
 #### Grants to Physicians To Implement Electronic Prescription Drug Programs
 
@@ -846,7 +838,7 @@ Awarding of Grants.—
 
 &emsp;"(1)
 
-Application.—No grant may be made under this section except pursuant to a grant applicationthat is submitted and approved in a time, manner, and form specified by the Secretary.
+Application.—No grant may be made under this section except pursuant to a grant application that is submitted and approved in a time, manner, and form specified by the Secretary.
 
 &emsp;"(2)
 

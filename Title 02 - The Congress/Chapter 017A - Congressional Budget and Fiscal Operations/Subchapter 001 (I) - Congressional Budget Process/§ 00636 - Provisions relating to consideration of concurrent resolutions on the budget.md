@@ -18,7 +18,7 @@
 
 #### (b) Procedure in Senate after report of Committee; debate; amendments
 
-(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635 of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals inconnection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635 of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
 (2) Debate in the Senate on any amendment to a concurrent resolution on the budget shall be limited to 2 hours, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, except that in the event the manager of the concurrent resolution is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. No amendment that is not germane to the provisions of such concurrent resolution shall be received. Such leaders, or either of them, may, from the time under their control on the passage of the concurrent resolution, allot additional time to any Senator during the consideration of any amendment, debatable motion, or appeal.
 
@@ -48,7 +48,7 @@ It shall not be in order in the Senate to vote on the question of agreeing to—
 
 &emsp;(2) a conference report on a concurrent resolution on the budget unless the figures contained in such resolution, as recommended in such conference report, are mathematically consistent.
 
-(Pub. L. 93–344, title III, §305, July 12, 1974, 88 Stat. 310; Pub. L. 95–523, title III, §303(b), (c), Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, §209, Sept. 29, 1987, 101 Stat. 787; Pub. L. 100–203, title VIII, §8003(d), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13209, 13210(1), Nov. 5, 1990, 104 Stat. 1388–619, 1388–620; Pub. L. 105–33, title X, §10109(a), Aug. 5, 1997, 111 Stat. 684; Pub. L. 113–67, div. A, title I, §122(4)–(6), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, §305, July 12, 1974, 88 Stat. 310; Pub. L. 95–523, title III, §303(b), (c), Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, §209, Sept. 29, 1987, 101 Stat. 787; Pub. L. 100–203, title VIII, §8003(d), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13209, 13210(1), Nov. 5, 1990, 104 Stat. 1388–619, 1388–620; Pub. L. 105–33, title X, §10109(a), Aug. 5,1997, 111 Stat. 684; Pub. L. 113–67, div. A, title I, §122(4)–(6), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text
 

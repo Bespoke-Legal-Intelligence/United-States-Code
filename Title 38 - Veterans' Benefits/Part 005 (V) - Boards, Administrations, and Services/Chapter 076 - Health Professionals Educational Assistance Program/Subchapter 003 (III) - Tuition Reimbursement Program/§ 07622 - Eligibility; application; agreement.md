@@ -48,7 +48,7 @@ Pub. L. 102–40, §402(d)(1), substituted "7604" for "4304" in introductory pro
 
 Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration" in two places in par. (2)(A).
 
-Subsec. (d). Pub. L. 102–54 amended subsec. (d) as in effect immediately before the enactment of Pub. L. 102–40 by inserting an open parenthesis before "adjusted in".
+Subsec. (d). Pub. L. 102–54 amended subsec. (d) as in effect immediately before the enactment of Pub. L.102–40 by inserting an open parenthesis before "adjusted in".
 
 Pub. L. 102–40, §402(d)(1), substituted "7631" for "4331".
 

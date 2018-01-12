@@ -1,6 +1,6 @@
 ### §3118. Regulations
 
-Except as otherwise provided by this chapter, the Secretary is directed to promulgate final regulations for the implementation of the <sup>1</sup>chapter within eighteen months from November 28, 1990. All regulations promulgated pursuant to this chapter shall be developed by the Secretary with the participation of the affected Indian tribes.
+Except as otherwise provided by this chapter, the Secretary is directed to promulgate final regulations for the implementation of the <sup>1</sup> chapter within eighteen months from November 28, 1990. All regulations promulgated pursuant to this chapter shall be developed by the Secretary with the participation of the affected Indian tribes.
 
 (Pub. L. 101–630, title III, §319, Nov. 28, 1990, 104 Stat. 4544.)
 

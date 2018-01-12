@@ -10,7 +10,7 @@ The Bureau shall prescribe such regulations as may be necessary to carry out the
 
 &emsp;Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], compliance with the requirements of this chapter shall be enforced—
 
-&emsp;&emsp;(A) under section 1818 of this title, the appropriate Federal banking agency, as definedin section 1813(q) of this title, with respect to—
+&emsp;&emsp;(A) under section 1818 of this title, the appropriate Federal banking agency, as defined in section 1813(q) of this title, with respect to—
 
 &emsp;&emsp;&emsp;(i) any national bank or Federal savings association, and any Federal branch or Federal agency of a foreign bank;
 
@@ -72,7 +72,7 @@ Subsec. (b)(4). Pub. L. 101–73, §1211(g), added par. (4).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment
 

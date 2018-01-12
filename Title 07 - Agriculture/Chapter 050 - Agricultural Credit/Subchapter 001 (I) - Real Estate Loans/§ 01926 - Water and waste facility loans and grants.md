@@ -22,7 +22,7 @@ Amount.—The amount of any grant made under the authority of this subparagraph 
 
 &emsp;&emsp;(iii)
 
-Grant rate.—The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretary that shall provide for a graduated scale of grant rates establishing higher rates forprojects in communities that have lower community population and income levels.
+Grant rate.—The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretary that shall provide for a graduated scale of grant rates establishing higher rates for projects in communities that have lower community population and income levels.
 
 &emsp;(B)
 
@@ -82,7 +82,7 @@ Documentation.—With respect to grants made under this subparagraph, the Secret
 
 &emsp;&emsp;&emsp;(II)
 
-Matching.—Notwithstanding any other provisions in this subsection, the Secretary may fund up to 100 percent of the eligible costs of grants provided under this subparagraph, as determined by the Secretary.
+Matching.—Notwithstanding any other provisions in this subsection, theSecretary may fund up to 100 percent of the eligible costs of grants provided under this subparagraph, as determined by the Secretary.
 
 &emsp;&emsp;(iii)
 
@@ -110,7 +110,7 @@ Application requirements.—Not earlier than 60 days before a preliminary applic
 
 (9)
 
-Conformity with state drinking water standards.—No Federal funds shall be madeavailable under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the "Safe Drinking Water Act") (42 U.S.C. 300f et seq.).
+Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the "Safe Drinking Water Act") (42 U.S.C. 300f et seq.).
 
 (10)
 
@@ -126,7 +126,7 @@ Conformity with federal and state water pollution control standards.—No Federa
 
 (D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, not more than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
 
-(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
+(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrencesthe system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
 
 (14)
 
@@ -206,7 +206,7 @@ Federal share.—Paragraph (19)(B) shall apply to a grant made under this paragr
 
 &emsp;(D)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary foreach subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
 
 &emsp;(E)
 
@@ -254,7 +254,7 @@ In general.—The Secretary shall continue a national rural water and wastewater
 
 &emsp;(B)
 
-Authorization of appropriations.—There is authorized to be appropriated tocarry out this paragraph $20,000,000 for fiscal year 2014 and each fiscal year thereafter.
+Authorization of appropriations.—There is authorized to be appropriated to carry out this paragraph $20,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
 (23)
 
@@ -354,7 +354,7 @@ Funding.—Not less than 3 nor more than 5 percent of any funds appropriated to 
 
 #### (b) Curtailment or limitation of service prohibited
 
-The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, orby the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
+The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 
 #### (c) Repealed. Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759
 
@@ -524,7 +524,7 @@ Subsec. (a)(2). Pub. L. 92–419, §105, substituted "$300,000,000" for "$100,00
 
 Subsec. (a)(3). Pub. L. 92–419, §§106, 107, substituted "project" for "facility" where first appearing; in item (i), substituted "project" for "facility" and inserted in such text ", if such project is carried out,"; in item (ii), substituted "will or can be" for "will be or can be"; substituted "and (iii)" for "or (iii)" and in such item (iii), substituted "an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan" and "development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority" for "orderly community development consistent with a comprehensive community water or sewer development plan" and "development under State, county, or municipal plans approved as official plans by competent authority", substituted "Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government" for "Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time"; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
 
-Subsec. (a)(5). Pub. L. 92–419, §110, struck out provisions of former par. (5) which prohibited any loan orgrant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
+Subsec. (a)(5). Pub. L. 92–419, §110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
 
 Subsec. (a)(6). Pub. L. 92–419, §108, substituted "$30,000,000" for "$15,000,000", struck out "official" before "comprehensive plans", and substituted "waste disposal systems" for "sewer systems".
 

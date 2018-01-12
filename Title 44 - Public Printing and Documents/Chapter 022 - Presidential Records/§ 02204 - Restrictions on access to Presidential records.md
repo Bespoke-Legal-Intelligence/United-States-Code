@@ -2,7 +2,7 @@
 
 (a) Prior to the conclusion of a President's term of office or last consecutive term of office, as the case may be, the President shall specify durations, not to exceed 12 years, for which access shall be restricted with respect to information, in a Presidential record, within one or more of the following categories:
 
-&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be keptsecret in the interest of national defense or foreign policy and (B) in fact properly classified pursuant to such Executive order;
+&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and (B) in fact properly classified pursuant to such Executive order;
 
 &emsp;(2) relating to appointments to Federal office;
 
@@ -38,7 +38,7 @@
 
 (e) The United States District Court for the District of Columbia shall have jurisdiction over any action initiated by the former President asserting that a determination made by the Archivist violates the former President's rights or privileges.
 
-(f) The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under section 2205(3) of this title if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
+(f) The Archivist shall not make available any original Presidential records to any individualclaiming access to any Presidential record as a designated representative under section 2205(3) of this title if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
 
 (Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2525; amended Pub. L. 98–497, title I, §107(b)(7), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 113–187, §§2(a)(2)(A), (d), 8(4), Nov. 26, 2014, 128 Stat. 2005, 2006, 2011.)
 
@@ -65,6 +65,10 @@ Subsec. (f). Pub. L. 113–187, §2(d), added subsec. (f).
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+#### Effective Date
+
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
 
 #### Executive Order No. 12667
 

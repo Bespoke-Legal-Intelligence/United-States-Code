@@ -68,7 +68,7 @@ Section 238 of this title shall be applicable to the acceptance and administrati
 
 For purposes of this part, the terms "medicine" and "medical", except when used in section 286a of this title, include preventive and therapeutic medicine, dentistry, pharmacy, hospitalization, nursing, public health, and the fundamental sciences related thereto, and other related fields of study, research, or activity.
 
-(July 1, 1944, ch. 373, title IV, §465, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 857; amended Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779; Pub. L. 100–202, §101(h) \[title II, §215\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–275; Pub. L. 100–607, title II, §204(2), Nov. 4, 1988, 102 Stat. 3079; Pub. L. 100–690, title II, §2620(b)(1), Nov. 18, 1988, 102 Stat. 4244; Pub. L. 101–381, titleI, §102(2), Aug. 18, 1990, 104 Stat. 585; Pub. L. 103–43, title XIV, §1401(a), (c)(1), title XX, §2010(b)(3), June 10, 1993, 107 Stat. 170, 214.)
+(July 1, 1944, ch. 373, title IV, §465, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 857; amended Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779; Pub. L. 100–202, §101(h) \[title II, §215\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–275; Pub. L. 100–607, title II, §204(2), Nov. 4, 1988, 102 Stat. 3079; Pub. L. 100–690, title II, §2620(b)(1), Nov. 18, 1988, 102 Stat. 4244; Pub. L. 101–381, title I, §102(2), Aug. 18, 1990, 104 Stat. 585; Pub. L. 103–43, title XIV, §1401(a), (c)(1), title XX, §2010(b)(3), June 10, 1993, 107 Stat. 170, 214.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (f). Pub. L. 103–43, §2010(b)(3), substituted "Section 238" for "Sect
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this titleto reflect renumbering of corresponding section of original act.
 
 Pub. L. 100–607 substituted "300aaa" for "300cc".
 

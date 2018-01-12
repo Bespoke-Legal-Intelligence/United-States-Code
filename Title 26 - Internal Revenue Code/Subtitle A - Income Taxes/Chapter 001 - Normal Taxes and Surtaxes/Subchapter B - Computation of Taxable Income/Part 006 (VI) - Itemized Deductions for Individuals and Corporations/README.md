@@ -48,12 +48,20 @@
 | [196\.](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md) | Deduction for certain unused business credits. |
 | [197\.](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md) | Amortization of goodwill and certain other intangibles. |
 | [198\.](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md) | Expensing of environmental remediation costs. |
-| \[198A. | Repealed.\] |
-| [199\.](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md) | Income attributable to domestic production activities. |
+| \[198A, 199. Repealed.\] |  |
+| [199A.](%C2%A7%2000199A%20-%20Qualified%20business%20income.md) | Qualified business income. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applica</i><i>ble to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.</i>
+
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§11011(d)(6), 13305(a), Dec. 22, 2017, 131 Stat. 2071, 2126, struck out item 199 "Income attributable to domestic production activities" and added item 199A.
+
+Pub. L. 115–97, title I, §13206(c), Dec. 22, 2017, 131 Stat. 2112, substituted "Amortization of research and experimental expenditures" for "Research and experimental expenditures" in item 174.
 
 <b>2015</b>—Pub. L. 114–113, div. Q, title I, §169(b)(3), Dec. 18, 2015, 129 Stat. 3068, substituted "Treatment of certain qualified film and television and live theatrical productions" for "Treatment of certain qualified film and television productions" in item 181.
 
@@ -169,4 +177,5 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00197 - Amortization of goodwill and certain other intangibles](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md)
 - [&sect; 00198 - Expensing of environmental remediation costs](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md)
 - [&sect; 00198A - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(35), Dec. 19, 2014, 128 Stat. 4042](%C2%A7%2000198A%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2835%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204042.md)
-- [&sect; 00199 - Income attributable to domestic production activities](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md)
+- [&sect; 00199 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13305(a), Dec. 22, 2017, 131 Stat. 2126](%C2%A7%2000199%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713305%28a%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202126.md)
+- [&sect; 00199A - Qualified business income](%C2%A7%2000199A%20-%20Qualified%20business%20income.md)

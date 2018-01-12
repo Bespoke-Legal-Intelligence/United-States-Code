@@ -20,7 +20,7 @@ The Secretary may enter into contracts, grants, or cooperative agreements, for p
 
 #### (d) Vesting of title
 
-The Secretary may vest title to expendable and nonexpendable equipment and supplies and other tangible personal property in the contractor or recipient when the contractor or recipient purchases such equipment, supplies, and property with contract, grant, or cooperative agreement funds and the Secretary deems such vesting of title a furtherance of the agricultural research, extension, or teaching objectives of the Department of Agriculture.
+The Secretary may vest title to expendable and nonexpendable equipment and supplies andother tangible personal property in the contractor or recipient when the contractor or recipient purchases such equipment, supplies, and property with contract, grant, or cooperative agreement funds and the Secretary deems such vesting of title a furtherance of the agricultural research, extension, or teaching objectives of the Department of Agriculture.
 
 #### (e) Applicable requirements
 

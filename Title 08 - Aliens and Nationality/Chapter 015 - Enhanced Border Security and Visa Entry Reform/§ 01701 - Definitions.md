@@ -116,7 +116,7 @@ Operational Control Defined.—In this section, the term 'operational control' m
 
 "(c)
 
-Report.—Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section."
+Report.—Not later than one year after the date of the enactment of this Act and annually thereafter,the Secretary shall submit to Congress a report on the progress made toward achieving and maintaining operational control over the entire international land and maritime borders of the United States in accordance with this section."
 
 #### Border Surveillance
 

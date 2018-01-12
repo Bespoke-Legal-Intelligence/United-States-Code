@@ -48,7 +48,7 @@
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 1419B of Pub. L. 95–113 and madeidentical amendments to this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 1419B of Pub. L. 95–113 and made identical amendments to this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 3242 of this title.
 

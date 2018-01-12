@@ -74,7 +74,7 @@ Encouragement of self-sufficiency.—The rental policy developed by each public 
 
 &emsp;(E)
 
-Income reviews.—Notwithstanding the second sentence of paragraph (1), in the case of families that are paying rent in the amount determined under subparagraph (B)(i), the agency shall review the income of such family not less than once every 3 years.
+Income reviews.—Notwithstanding the second sentence of paragraph (1), in the case offamilies that are paying rent in the amount determined under subparagraph (B)(i), the agency shall review the income of such family not less than once every 3 years.
 
 (3)
 
@@ -92,7 +92,7 @@ Requirement.—Notwithstanding paragraph (1) of this subsection, the method for 
 
 &emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
 
-&emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthlyrental amount, which amount shall be determined by the Secretary.
+&emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthly rental amount, which amount shall be determined by the Secretary.
 
 &emsp;(B)
 
@@ -136,7 +136,7 @@ Terms and conditions.—The number and location of dwelling units of a public ho
 
 &emsp;&emsp;(i) notwithstanding paragraph (2), rent for a unit shall be in an amount that is not less than the costs to operate the unit;
 
-&emsp;&emsp;(ii) if an eligible family applies for residence after an over-income family moves in to the last available unit, the over-income family shall vacate the unit in accordance with notice of termination of tenancy provided by the agency, which shall be provided not less than 30 days before such termination; and
+&emsp;&emsp;(ii) if an eligible family applies for residence after an over-income family moves in to the last available unit, the over-income family shall vacate the unit in accordancewith notice of termination of tenancy provided by the agency, which shall be provided not less than 30 days before such termination; and
 
 &emsp;&emsp;(iii) if a unit is vacant and there is no one on the waiting list, the public housing agency may allow an over-income family to gain immediate occupancy in the unit, while simultaneously providing reasonable public notice and outreach with regard to availability of the unit.
 
@@ -294,7 +294,7 @@ program.—For purposes of the program for tenant-based assistance under section
 
 &emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>5</sup> section 1437f of this title, or is not performing effectively—
 
-&emsp;&emsp;&emsp;(I) the Secretary or another public or private nonprofit entity that by contractagrees to receive assistance amounts under section 1437f of this title and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under section 1437f of this title; or
+&emsp;&emsp;&emsp;(I) the Secretary or another public or private nonprofit entity that by contract agrees to receive assistance amounts under section 1437f of this title and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under section 1437f of this title; or
 
 &emsp;&emsp;&emsp;(II) notwithstanding any provision of State or local law, a public housing agency for another area that contracts with the Secretary to administer a program for housing assistance under section 1437f of this title, without regard to any otherwise applicable limitations on its area of operation.
 
@@ -332,7 +332,7 @@ When used in reference to public housing:
 
 (3) The term "acquisition cost" means the amount prudently required to be expended by a public housing agency in acquiring property for a low-income housing project.
 
-(4) The term "congregate housing" means low-rent housing with which there is connected a central dining facility where wholesome and economical meals can be served to occupants. Expenditures incurred by a public housing agency in the operation of a central dining facility in connection with congregate housing (other than the cost of providing food and service) shall be considered a cost of operation of the project.
+(4) The term "congregate housing" means low-rent housing with which there is connected acentral dining facility where wholesome and economical meals can be served to occupants. Expenditures incurred by a public housing agency in the operation of a central dining facility in connection with congregate housing (other than the cost of providing food and service) shall be considered a cost of operation of the project.
 
 (5) The terms "group home" and "independent living facility" have the meanings given such terms in section 8013(k) of this title.
 
@@ -404,7 +404,7 @@ When used in reference to public housing:
 
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>8</sup> of this title, or section 811.<sup>8</sup>
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788.)
+(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788.)
 
 #### Amendment of Section
 
@@ -632,7 +632,7 @@ Subsec. (b)(6). Pub. L. 105–276, §546, amended par. (6) generally. Prior to a
 
 Subsec. (b)(9) to (13). Pub. L. 105–276, §506(4), added pars. (9) to (13).
 
-Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: "The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Actof 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
+Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: "The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
 
 &emsp;"(1) the period that the resident participates in such program; and
 
@@ -778,7 +778,7 @@ Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income 
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
-Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" of such amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
+Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" ofsuch amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
 
 <b>1981</b>—Pub. L. 97–35 added subsecs. (a) and (c) and designated provisions constituting former section as subsec. (b), and in subsec. (b) as so designated, substituted provisions defining "lower income housing", "lower income families", "families", "income", "adjusted income", "public housing agency", "State", and "Secretary" for provisions defining "low-income housing", "low-income families", "development", "operation", "acquisition cost", "public housing agency", "State", "Secretary", and "low-income housing project".
 
@@ -851,6 +851,8 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 The Department of Housing and Urban Development adopted an interim rule, 24 CFR 860.409, Sept. 26, 1975, 40 F.R. 44326, which provided: "The effective date of section 3(1) of the United States Housing Act of 1937, as amended \[par. (1) of this section\], shall be the date that these regulations \[sections 860.401 to 860.409 of Title 24, CFR\] are published in the Federal Register (September 26, 1975)."
 
 #### Regulations
+
+Pub. L. 115–31, div. K, title II, §240, May 5, 2017, 131 Stat. 789, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement section 78001 of title LXXVIII of the Fixing America's Surface Transportation Act (Public Law 114–94) \[amending this section and section 1437f of this title\], and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
 Pub. L. 113–76, div. L, title II, §243, Jan. 17, 2014, 128 Stat. 637, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under section 1437f of this title\] under this title and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
@@ -930,7 +932,7 @@ Prohibition Against Recovery of Value of Excessive Benefits or Services Provided
 
 "(d)
 
-Notice to Individuals Who May Have Been Denied Eligibility for Benefits or Services Due to the Failure to Disregard Certain Payments Made to Victims of Nazi Persecution.—Any agency of government that has not disregarded payments referred to in subsection (a) in determining eligibility for a program referred to in subsection (a) shall make a good faith effort to notify any individual who may have been denied eligibility for benefits or services under the program ofthe potential eligibility of the individual for such benefits or services.
+Notice to Individuals Who May Have Been Denied Eligibility for Benefits or Services Due to the Failure to Disregard Certain Payments Made to Victims of Nazi Persecution.—Any agency of government that has not disregarded payments referred to in subsection (a) in determining eligibility for a program referred to in subsection (a) shall make a good faith effort to notify any individual who may have been denied eligibility for benefits or services under the program of the potential eligibility of the individual for such benefits or services.
 
 "(e)
 

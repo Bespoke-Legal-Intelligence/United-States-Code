@@ -26,7 +26,7 @@ Assignment of Personnel.—(1) Pursuant to an international defense personnel ex
 
 (c)
 
-Reciprocity of Personnel Qualifications Required.—In the case of an international defense personnel exchange agreement that provides for reciprocal exchanges, each government shall be required to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
+Reciprocity of Personnel Qualifications Required.—In the case of an international defense personnel exchange agreement that provides for reciprocal exchanges, each governmentshall be required to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
 
 (d)
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 100–580, §7, Oct. 31, 1988, 102 Stat. 2931, which related to division of remaining funds after Settlement Fund payments have been made, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–580, §7, Oct. 31, 1988, 102 Stat. 2931, which related to division of remaining funds afterSettlement Fund payments have been made, was omitted from the Code as being of special and not general application.
 

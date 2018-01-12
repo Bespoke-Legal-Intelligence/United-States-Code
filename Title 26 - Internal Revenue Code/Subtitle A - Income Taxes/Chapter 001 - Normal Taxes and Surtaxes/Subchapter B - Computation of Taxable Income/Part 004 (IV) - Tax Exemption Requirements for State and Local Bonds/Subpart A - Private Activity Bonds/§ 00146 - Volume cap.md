@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2001" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2001" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $5 ($5,000 in the case of the dollar amount in paragraph (1)(B)), such increase shall be rounded to the nearest multiple thereof.
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The volume cap for any constitutional home rule city for any calendar year shall be determined under paragraph (1) of subsection (c) by substituting "100 percent" for "50 percent".
+&emsp;&emsp;The volume cap for any constitutional home rule city for any calendar year shall bedetermined under paragraph (1) of subsection (c) by substituting "100 percent" for "50 percent".
 
 #### (B) Coordination with other allocations
 
@@ -210,7 +210,7 @@ Only for purposes of this section, the term "private activity bond" shall not in
 
 #### (1) In general
 
-&emsp;Only for purposes of this section, the term "private activity bond" shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the netproceeds of such issue is to be owned by a governmental unit.
+&emsp;Only for purposes of this section, the term "private activity bond" shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
 
 #### (2) Safe harbor for determination of government ownership
 
@@ -310,13 +310,15 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892; Pub. L. 115–97, title I, §11002(d)(1)(O), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(2)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2008</b>—Subsec. (d)(5). Pub. L. 110–289, §3021(a)(1), added par. (5).
 
@@ -369,6 +371,10 @@ Subsec. (k)(1). Pub. L. 100–647, §1013(a)(10)(A), substituted "paragraphs (2)
 Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
 <b>1987</b>—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2008 Amendment
 

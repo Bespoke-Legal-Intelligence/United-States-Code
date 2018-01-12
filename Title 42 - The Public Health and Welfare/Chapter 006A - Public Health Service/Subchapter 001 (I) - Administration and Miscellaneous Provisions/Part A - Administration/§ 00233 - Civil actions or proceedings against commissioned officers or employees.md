@@ -60,9 +60,9 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(ii) Upon taking effect, the election terminates the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity.
 
-&emsp;(iii) Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) apply to the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
+&emsp;(iii) Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) applyto the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
 
-&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractorof the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
+&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
 
 (2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
 
@@ -110,11 +110,11 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (k) Estimate of annual claims by Attorney General; criteria; establishment of fund; transfer of funds to Treasury accounts
 
-(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) and of officers, employees, or contractors (subject to subsection (g)(5)) of such entities.
+(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that beginsduring that fiscal year, of entities described in subsection (g)(4) and of officers, employees, or contractors (subject to subsection (g)(5)) of such entities.
 
 (B) The estimate under subparagraph (A) shall take into account—
 
-&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) or by officers, employees, or contractors (subject tosubsection (g)(5)) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
+&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) or by officers, employees, or contractors (subject to subsection (g)(5)) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
 
 &emsp;(ii) the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
 
@@ -250,7 +250,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (1) In general
 
-&emsp;For purposes of this section, and subject to other provisions of this subsection, a covered person shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
+&emsp;For purposes of this section, and subject to other provisions of this subsection, a coveredperson shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
 
 #### (2) Declaration by Secretary concerning countermeasure against smallpox
 
@@ -328,7 +328,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (ii) Tolling of statute of limitations
 
-&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an action based on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
+&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an actionbased on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
 
 #### (iii) Construction
 
@@ -470,7 +470,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) With respect to an entity described in subsection (g)(4), a health care practitioner is not a health professional volunteer at such entity unless the entity sponsors the health care practitioner. For purposes of this subsection, the entity shall be considered to be sponsoring the health care practitioner if—
 
-&emsp;&emsp;(i) with respect to the health care practitioner, the entity submits to the Secretaryan application meeting the requirements of subsection (g)(1)(D); and
+&emsp;&emsp;(i) with respect to the health care practitioner, the entity submits to the Secretary an application meeting the requirements of subsection (g)(1)(D); and
 
 &emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E), determines that the health care practitioner is deemed to be an employee of the Public Health Service.
 
@@ -536,7 +536,7 @@ Subsec. (p)(7)(B). Pub. L. 108–20, §3(f)(1), substituted "means a person" for
 
 Subsec. (p)(7)(B)(ii). Pub. L. 108–20, §3(f)(2), substituted "auspices—" for "auspices", designated "such countermeasure was administered;" as subcl. (I), and added subcls. (II) to (IV).
 
-Subsec. (p)(7)(B)(iv) to (viii). Pub. L. 108–20, §3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv)which read as follows: "an official, agent, or employee of a person described in clause (i), (ii), or (iii)."
+Subsec. (p)(7)(B)(iv) to (viii). Pub. L. 108–20, §3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv) which read as follows: "an official, agent, or employee of a person described in clause (i), (ii), or (iii)."
 
 Subsec. (p)(7)(C). Pub. L. 108–20, §3(g), substituted "individual who—" for "individual who", designated "is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered." as cl. (i), substituted "; or" for period at end of cl. (i), and added cl. (ii).
 
@@ -612,7 +612,7 @@ Pub. L. 104–299, §5, Oct. 11, 1996, 110 Stat. 3645, as amended by Pub. L. 104
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–73, §5(c), Dec. 26, 1995, 109 Stat. 779, provided that: "If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\], the condition under paragraph (1)(D)of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date."
+Pub. L. 104–73, §5(c), Dec. 26, 1995, 109 Stat. 779, provided that: "If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date."
 
 #### Effective Date of 1992 Amendment
 

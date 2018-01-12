@@ -16,7 +16,7 @@ In this subchapter, the term "development area" means the area to be developed, 
 
 &emsp;thence west along the northern side of E Street to the northeast corner of the intersection of E Street and Seventh Street Northwest;
 
-&emsp;thence north along the eastern side of Seventh Street to the northeast corner of theintersection of Seventh Street and F Street Northwest;
+&emsp;thence north along the eastern side of Seventh Street to the northeast corner of the intersection of Seventh Street and F Street Northwest;
 
 &emsp;thence west along the northern side of F Street to the northwest corner of the intersection of F Street and Ninth Street Northwest;
 

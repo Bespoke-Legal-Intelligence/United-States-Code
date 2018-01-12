@@ -57,7 +57,7 @@ Pub. L. 97–414, §4(c)(1), Jan. 4, 1983, 96 Stat. 2056, added item 44H.
 
 <b>1975</b>—Pub. L. 94–164, §3(a)(2), Dec. 23, 1975, 89 Stat. 973, substituted "Taxable income credit" for "Credit for personal exemptions" in item 42.
 
-Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 Stat. 30, 32, 35, renumbered item 42 as 45 and added item 42 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply to taxable years ending after Dec. 31, 1975, item 43 applicable to taxable years beginning after Dec. 31, 1974, but before Jan. 1, 1976, and item 44.
+Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 Stat. 30, 32, 35, renumbered item 42 as 45 andadded item 42 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply to taxable years ending after Dec. 31, 1975, item 43 applicable to taxable years beginning after Dec. 31, 1974, but before Jan. 1, 1976, and item 44.
 
 <b>1971</b>—Pub. L. 92–178, title VI, §601(c)(2), Dec. 10, 1971, 85 Stat. 557, added items 40 and 41, and redesignated former item 40 as 42.
 

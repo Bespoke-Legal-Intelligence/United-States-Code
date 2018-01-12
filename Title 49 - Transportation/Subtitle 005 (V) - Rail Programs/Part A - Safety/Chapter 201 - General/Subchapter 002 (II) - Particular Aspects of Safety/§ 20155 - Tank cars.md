@@ -88,7 +88,7 @@ Pub. L. 114–94, div. A, title VII, §7305, Dec. 4, 2015, 129 Stat. 1597, provi
 
 "(a)
 
-Requirements.—Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall issue such regulations as are necessary to require that each tank car built to meet the DOT–117 specification and each non-jacketed tank car modified to meet the DOT–117R specification be equipped with an insulating blanket with at least ½-inch-thick material that has been approved by the Secretary pursuant to section 179.18(c) of title 49, Code of Federal Regulations.
+Requirements.—Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall issue such regulations as are necessary to require that each tank car built tomeet the DOT–117 specification and each non-jacketed tank car modified to meet the DOT–117R specification be equipped with an insulating blanket with at least ½-inch-thick material that has been approved by the Secretary pursuant to section 179.18(c) of title 49, Code of Federal Regulations.
 
 "(b)
 

@@ -54,7 +54,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;(ii) to capture information that may be used in establishing whether rule violations have occurred; and
 
-&emsp;&emsp;(C) establish rules governing the operation of the facility, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the facility, including block trades.
+&emsp;&emsp;(C) establish rules governing the operation of the facility, including rules specifyingtrading procedures to be used in entering and executing orders traded or posted on the facility, including block trades.
 
 #### (3) Security-based swaps not readily susceptible to manipulation
 
@@ -98,7 +98,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 #### (B) Capacity of security-based swap execution facility
 
-&emsp;&emsp;The security-based swap execution facility shall be required to have the capacity toelectronically capture and transmit and disseminate trade information with respect to transactions executed on or through the facility.
+&emsp;&emsp;The security-based swap execution facility shall be required to have the capacity to electronically capture and transmit and disseminate trade information with respect to transactions executed on or through the facility.
 
 #### (9) Recordkeeping and reporting
 
@@ -140,7 +140,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;The financial resources of a security-based swap execution facility shall be considered to be adequate if the value of the financial resources—
 
-&emsp;&emsp;&emsp;(i) enables the organization to meet its financial obligations to its members and participants notwithstanding a default by the member or participant creating the largest financial exposure for that organization in extreme but plausible market conditions; and
+&emsp;&emsp;&emsp;(i) enables the organization to meet its financial obligations to its members andparticipants notwithstanding a default by the member or participant creating the largest financial exposure for that organization in extreme but plausible market conditions; and
 
 &emsp;&emsp;&emsp;(ii) exceeds the total amount that would enable the security-based swap execution facility to cover the operating costs of the security-based swap execution facility for a 1-year period, as calculated on a rolling basis.
 
@@ -202,7 +202,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;&emsp;(V) through validated complaints; and
 
-&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, managementresponse, remediation, retesting, and closing of noncompliance issues.
+&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.
 
 #### (C) Annual reports
 

@@ -32,7 +32,7 @@ This section does not affect the authority of the Metropolitan Police force of t
 
 As used in this section, the term "crime of violence" has the meaning given that term in section 16 of title 18.
 
-(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug.20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, §1003(a), Sept. 30, 2003, 117 Stat. 1021.)
+(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, §1003(a), Sept. 30, 2003, 117 Stat. 1021.)
 
 #### Codification
 

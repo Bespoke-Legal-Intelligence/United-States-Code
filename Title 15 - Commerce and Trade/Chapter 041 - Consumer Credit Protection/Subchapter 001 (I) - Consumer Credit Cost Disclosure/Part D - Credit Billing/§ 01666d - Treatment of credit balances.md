@@ -6,7 +6,7 @@ Whenever a credit balance in excess of $1 is created in connection with a consum
 
 &emsp;(B) refund any part of the amount of the remaining credit balance, upon request of the consumer; and
 
-&emsp;(C) make a good faith effort to refund to the consumer by cash, check, or money order anypart of the amount of the credit balance remaining in the account for more than six months, except that no further action is required in any case in which the consumer's current location is not known by the creditor and cannot be traced through the consumer's last known address or telephone number.
+&emsp;(C) make a good faith effort to refund to the consumer by cash, check, or money order any part of the amount of the credit balance remaining in the account for more than six months, except that no further action is required in any case in which the consumer's current location is not known by the creditor and cannot be traced through the consumer's last known address or telephone number.
 
 (Pub. L. 90–321, title I, §165, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 96–221, title VI, §621(a), Mar. 31, 1980, 94 Stat. 184.)
 

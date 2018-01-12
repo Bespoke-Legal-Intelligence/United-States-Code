@@ -162,7 +162,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 512(d) of Pub. L. 99–499, set out as a note under section 4611 of this title.
 

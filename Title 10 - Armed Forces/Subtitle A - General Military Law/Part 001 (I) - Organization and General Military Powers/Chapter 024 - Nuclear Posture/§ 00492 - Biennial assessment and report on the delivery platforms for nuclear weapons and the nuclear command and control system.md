@@ -34,7 +34,7 @@ Report to President and Congress.—(1) Not later than March 1 of each year foll
 
 &emsp;(B) any comments that the Secretary considers appropriate with respect to each such report;
 
-&emsp;(C) any conclusions that the Secretary considers appropriate with respect to the safety, security, reliability, sustainability, performance, or military effectiveness of the systems described in subsection (a)(2); and
+&emsp;(C) any conclusions that the Secretary considers appropriate with respect to the safety,security, reliability, sustainability, performance, or military effectiveness of the systems described in subsection (a)(2); and
 
 &emsp;(D) any other information that the Secretary considers appropriate.
 

@@ -4,7 +4,7 @@
 
 (1) The President may enter into an agreement with the Bank that facilitates implementation by the President of a program for community adjustment and investment in support of the Agreement pursuant to chapter II of the Cooperation Agreement (hereafter in this section referred to as the "community adjustment and investment program").
 
-(2) The President may receive from the Bank 10 percent of the paid-in capital actually paid to the Bank by the United States for the President to carry out, without further appropriations,through Federal agencies and their loan and loan guarantee programs, the community adjustment and investment program, pursuant to an agreement between the President and the Bank.
+(2) The President may receive from the Bank 10 percent of the paid-in capital actually paid to the Bank by the United States for the President to carry out, without further appropriations, through Federal agencies and their loan and loan guarantee programs, the community adjustment and investment program, pursuant to an agreement between the President and the Bank.
 
 (3) The President may select one or more Federal agencies that make loans or guarantee the repayment of loans to assist in carrying out the community adjustment and investment program, and may transfer the funds received from the Bank to such agency or agencies for the purpose of assisting in carrying out the community adjustment and investment program.
 
@@ -84,7 +84,7 @@ The President shall appoint an ombudsman to provide the public with an opportuni
 
 &emsp;&emsp;(A) to establish procedures for receiving comments from the general public on the operation of the community adjustment and investment program, to receive such comments, and to provide the President with summaries of the public comments; and
 
-&emsp;&emsp;(B) to perform an independent inspection and programmatic audit of the operation ofthe community adjustment and investment program and to provide the President with the conclusions of its investigation and audit.
+&emsp;&emsp;(B) to perform an independent inspection and programmatic audit of the operation of the community adjustment and investment program and to provide the President with the conclusions of its investigation and audit.
 
 #### (2) Authorization of appropriations
 
@@ -98,7 +98,7 @@ The President shall submit to the appropriate congressional committees an annual
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

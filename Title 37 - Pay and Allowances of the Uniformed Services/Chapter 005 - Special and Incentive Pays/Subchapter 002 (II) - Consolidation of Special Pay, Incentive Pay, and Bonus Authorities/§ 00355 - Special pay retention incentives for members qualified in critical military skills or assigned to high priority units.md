@@ -22,7 +22,7 @@ Payment Methods.—A bonus under this section may be paid in a single lump sum o
 
 (d)
 
-Maximum Bonus Amount.—(1) A member may enter into an agreement under this section, or reenlist or voluntarily extend the member's enlistment, more than once to receive a bonus under this section. However, a member may not receive a total of more than $200,000 (or $100,000 in the case of a reserve component member) in payments under this section.
+Maximum Bonus Amount.—(1) A member may enter into an agreement under this section, or reenlist or voluntarily extend the member's enlistment, more than once to receive a bonus under this section. However, a member may notreceive a total of more than $200,000 (or $100,000 in the case of a reserve component member) in payments under this section.
 
 (2) The limitation in paragraph (1) on the total bonus payments that a member may receive under this section does not apply with respect to an officer who is assigned duties as a health care professional.
 
@@ -42,7 +42,7 @@ Certain Members Ineligible.—(1) A retention bonus may not be provided under su
 
 &emsp;(B) is qualified for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the CoastGuard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
+(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
 
 (f)
 
@@ -54,11 +54,13 @@ Repayment.—A member paid a bonus under this section who fails, during the peri
 
 (h)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2017, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2018, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(9), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(9), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(9), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(10), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(10), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(10), Dec. 23, 2016, 130 Stat. 2159.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, §323; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064; Pub. L. 109–163, div. A, title VI, §§624(e), 640(a)–(f)(1), 687(b)(31), Jan. 6, 2006, 119 Stat. 3295, 3302, 3303, 3332; Pub. L. 109–364, div. A, title VI, §614(e), Oct. 17, 2006, 120 Stat. 2248; renumbered §355 and amended Pub. L. 110–181, div. A, title VI, §§614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178; Pub. L. 110–417, \[div. A\], title VI, §614(h), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §614(9), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–207, §4(a)(4), July 27, 2010, 124 Stat. 2251; Pub. L. 111–383, div. A, title VI, §614(9), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(9), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(9), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(9), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(10), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(10), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(10), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(10), Dec. 12, 2017, 131 Stat. 1422.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2016</b>—Subsec. (h). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
@@ -88,7 +90,7 @@ Subsec. (i). Pub. L. 110–417 substituted "December 31, 2009" for "December 31,
 
 Pub. L. 110–181, §614(d), substituted "December 31, 2008" for "December 31, 2007".
 
-<b>2006</b>—Pub. L. 109–163, §640(f)(1), substituted "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in section catchline.
+<b>2006</b>—Pub. L. 109–163, §640(f)(1), substituted "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units"for "Special pay: retention incentives for members qualified in a critical military skill" in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §640(a)(1)(A), (b)(1), in introductory provisions, substituted "who is serving on active duty in a regular component or in an active status in a reserve component and who" for "who is serving on active duty and" and "critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection" for "designated critical military skill".
 

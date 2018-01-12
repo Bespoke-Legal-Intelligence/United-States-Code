@@ -348,7 +348,7 @@ Visiting Scholar Program.—(1) The Secretary of the Army shall establish a visi
 
 "(b)
 
-Lecture Series.—(1) The Secretary of Defense shall establish a lecture series at the National Defense University to be known as the 'Thomas Hawkins Johnson Lecture Series'. The Secretary shall use the lecture series to bring prominent persons to the National Defense University to deliver lectures on topics relating to public policy, national security, and science.
+Lecture Series.—(1) The Secretary of Defense shall establish a lecture series at the National DefenseUniversity to be known as the 'Thomas Hawkins Johnson Lecture Series'. The Secretary shall use the lecture series to bring prominent persons to the National Defense University to deliver lectures on topics relating to public policy, national security, and science.
 
 "(2) There is authorized to be appropriated to the Secretary of Defense $25,000 for each fiscal year to carry out this subsection."
 

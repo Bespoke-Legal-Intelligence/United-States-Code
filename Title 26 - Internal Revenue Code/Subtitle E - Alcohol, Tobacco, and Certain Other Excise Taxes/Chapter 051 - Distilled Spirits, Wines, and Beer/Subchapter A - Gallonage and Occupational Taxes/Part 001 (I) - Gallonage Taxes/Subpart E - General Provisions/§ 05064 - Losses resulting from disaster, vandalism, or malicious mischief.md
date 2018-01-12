@@ -112,5 +112,5 @@ Pub. L. 85–859, title II, §207, Sept. 2, 1958, 72 Stat. 1432, provided for pa
 
 #### Losses of Alcoholic Liquors Caused by Disaster
 
-Pub. L. 85–859, title II, §208, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes and customs duties paid on distilledspirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
+Pub. L. 85–859, title II, §208, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes and customs duties paid on distilled spirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
 

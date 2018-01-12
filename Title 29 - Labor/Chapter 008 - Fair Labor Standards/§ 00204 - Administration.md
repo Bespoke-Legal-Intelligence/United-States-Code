@@ -6,7 +6,7 @@ There is created in the Department of Labor a Wage and Hour Division which shall
 
 #### (b) Appointment, selection, classification, and promotion of employees by Administrator
 
-The Administrator may, subject to the civil-service laws, appoint such employees as he deems necessary to carry out his functions and duties under this chapter and shall fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5. The Administrator may establish and utilize such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed. Attorneys appointed under this section may appear for and represent the Administrator in any litigation, but all such litigation shall be subject to the direction and control of the Attorney General. In the appointment, selection, classification, and promotion of officers and employees of the Administrator, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency.
+The Administrator may, subject to the civil-service laws, appoint such employees as he deems necessary to carry out his functions and duties under this chapter and shall fix their compensation in accordance with chapter 51 andsubchapter III of chapter 53 of title 5. The Administrator may establish and utilize such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed. Attorneys appointed under this section may appear for and represent the Administrator in any litigation, but all such litigation shall be subject to the direction and control of the Attorney General. In the appointment, selection, classification, and promotion of officers and employees of the Administrator, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency.
 
 #### (c) Principal office of Administrator; jurisdiction
 
@@ -18,7 +18,7 @@ The principal office of the Administrator shall be in the District of Columbia, 
 
 (2) The Secretary shall conduct studies on the justification or lack thereof for each of the special exemptions set forth in section 213 of this title, and the extent to which such exemptions apply to employees of establishments described in subsection (g) of such section and the economic effects of the application of such exemptions to such employees. The Secretary shall submit a report of his findings and recommendations to the Congress with respect to the studies conducted under this paragraph not later than January 1, 1976.
 
-(3) The Secretary shall conduct a continuing study on means to prevent curtailment of employment opportunities for manpower groups which have had historically high incidences of unemployment (such as disadvantaged minorities, youth, elderly, and such other groups as the Secretary may designate). The first report of the results of such study shall be transmitted to the Congress not later than one year after the effective date of the Fair Labor Standards Amendments of 1974. Subsequent reports on such study shall be transmitted to the Congress at two-year intervals after such effective date.Each such report shall include suggestions respecting the Secretary's authority under section 214 of this title.
+(3) The Secretary shall conduct a continuing study on means to prevent curtailment of employment opportunities for manpower groups which have had historically high incidences of unemployment (such as disadvantaged minorities, youth, elderly, and such other groups as the Secretary may designate). The first report of the results of such study shall be transmitted to the Congress not later than one year after the effective date of the Fair Labor Standards Amendments of 1974. Subsequent reports on such study shall be transmitted to the Congress at two-year intervals after such effective date. Each such report shall include suggestions respecting the Secretary's authority under section 214 of this title.
 
 #### (e) Study of effects of foreign production on unemployment; report to President and Congress
 
@@ -36,7 +36,7 @@ The effective date of the Fair Labor Standards Amendments of 1974, referred to i
 
 #### Codification
 
-In subsec. (a), provisions that prescribed the compensation of the Administrator were omitted to conform to the provisions of the Executive Schedule. See section 5316 of Title 5, Government Organization and Employees.
+In subsec. (a), provisions that prescribed the compensation of the Administrator were omitted to conform to the provisions of the Executive Schedule. Seesection 5316 of Title 5, Government Organization and Employees.
 
 In subsec. (b), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 

@@ -74,7 +74,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (B) The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a contract market or derivatives transaction execution facility or other self-regulatory organization with primary responsibility for examining the registered futures commission merchant's financial and operational condition.
 
-(4)(A) in <sup>2</sup> developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
+(4)(A) in <sup>2</sup> developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has beenpublished for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
 
 (B)(i) Except as provided in clause (ii), a registered futures commission merchant shall be considered to have complied with a recordkeeping or reporting requirement adopted pursuant to paragraph (2) concerning an affiliated person that is subject to examination by, or reporting requirements of, a Federal banking agency if the futures commission merchant utilizes for the recordkeeping or reporting requirement copies of reports filed by the affiliated person with the Federal banking agency pursuant to section 161 of title 12, section 9 of the Federal Reserve Act (12 U.S.C. 321 et seq.), section 1817(a) of title 12, section 1467a(b) of title 12, or section 1844 of title 12.
 
@@ -112,7 +112,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 #### References in Text
 
-Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch.6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 #### Codification
 

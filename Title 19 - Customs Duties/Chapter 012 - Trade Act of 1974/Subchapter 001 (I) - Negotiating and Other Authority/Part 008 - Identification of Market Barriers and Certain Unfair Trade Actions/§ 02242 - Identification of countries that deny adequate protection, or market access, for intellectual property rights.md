@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) constitute discriminatory nontariff trade barriers.
 
-&emsp;(4) A foreign country may be determined to deny adequate and effective protection of intellectual property rights, notwithstanding the fact that the foreign country may be incompliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title.
+&emsp;(4) A foreign country may be determined to deny adequate and effective protection of intellectual property rights, notwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title.
 
 #### (e) Publication
 
@@ -158,7 +158,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (h) Annual report
 
-Not later than 30 days after the date on which the Trade Representative submits the National Trade Estimate under section 2241(b) of thistitle, the Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including—
+Not later than 30 days after the date on which the Trade Representative submits the National Trade Estimate under section 2241(b) of this title, the Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including—
 
 &emsp;(1) a list of any foreign countries identified under subsection (a);
 
@@ -208,7 +208,7 @@ Pub. L. 114–125, title VI, §610(b)(2), Feb. 24, 2016, 130 Stat. 192, provided
 
 "(A)
 
-In general.—Amounts from the Trade Enforcement Trust Fund established under section 611 \[19 U.S.C. 4405\] may be expended by the United States Trade Representative, only as provided by appropriations Acts, to provide assistance to any developing country to which an action plan applies under section 182(g) of the Trade Act of 1974 \[19 U.S.C. 2242(g)\], as amended by paragraph (1), to facilitate the efforts of the developing country to comply with the benchmarks contained in the action plan. Such assistance may include capacity building, activities designed to increase awareness of intellectual property rights, and training for officials responsible for enforcing intellectual property rights in the developing country.
+In general.—Amounts from the Trade Enforcement Trust Fund established under section 611 \[19U.S.C. 4405\] may be expended by the United States Trade Representative, only as provided by appropriations Acts, to provide assistance to any developing country to which an action plan applies under section 182(g) of the Trade Act of 1974 \[19 U.S.C. 2242(g)\], as amended by paragraph (1), to facilitate the efforts of the developing country to comply with the benchmarks contained in the action plan. Such assistance may include capacity building, activities designed to increase awareness of intellectual property rights, and training for officials responsible for enforcing intellectual property rights in the developing country.
 
 "(B)
 

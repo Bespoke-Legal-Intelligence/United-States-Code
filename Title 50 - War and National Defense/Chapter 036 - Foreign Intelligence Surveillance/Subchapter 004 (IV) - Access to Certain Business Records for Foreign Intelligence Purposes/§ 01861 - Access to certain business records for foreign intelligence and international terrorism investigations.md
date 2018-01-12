@@ -104,7 +104,7 @@ Each application under this section—
 
 &emsp;(B) otherwise provides technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
 
-(2) A production or provision of information, facilities, or technical assistance described in paragraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
+(2) A production or provision of information, facilities, or technical assistance described inparagraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
 
 #### (f) Judicial review of FISA orders
 
@@ -118,7 +118,7 @@ Each application under this section—
 
 (ii) The presiding judge shall immediately assign a petition under clause (i) to 1 of the judges serving in the pool established by section 1803(e)(1) of this title. Not later than 72 hours after the assignment of such petition, the assigned judge shall conduct an initial review of the petition. If the assigned judge determines that the petition is frivolous, the assigned judge shall immediately deny the petition and affirm the production order or nondisclosure order. If the assigned judge determines the petition is not frivolous, the assigned judge shall promptly consider the petition in accordance with the procedures established under section 1803(e)(2) of this title.
 
-(iii) The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government,any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
+(iii) The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government, any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
 
 (B) A judge considering a petition to modify or set aside a production order may grant such petition only if the judge finds that such order does not meet the requirements of this section or is otherwise unlawful. If the judge does not modify or set aside the production order, the judge shall immediately affirm such order, and order the recipient to comply therewith.
 
@@ -152,7 +152,7 @@ Each application under this section—
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall limit the authority of the court established under section 1803(a) of this title to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United States persons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
+&emsp;Nothing in this subsection shall limit the authority of the court established under section 1803(a) of this title to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United Statespersons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
 
 #### (h) Use of information
 
@@ -366,7 +366,7 @@ Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–23, title I, §109(a), June 2, 2015, 129 Stat. 276, provided that: "The amendments made by sections 101 through 103 \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[June 2, 2015\]."
+Pub. L. 114–23, title I, §109(a), June 2, 2015, 129 Stat. 276, provided that: "The amendments made by sections101 through 103 \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[June 2, 2015\]."
 
 #### Effective Date of 2006 Amendment
 

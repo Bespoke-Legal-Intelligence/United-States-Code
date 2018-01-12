@@ -8,7 +8,7 @@ If an extraordinary challenge committee (hereafter in this section referred to a
 
 &emsp;(2) may summon witnesses, take testimony, and administer oaths;
 
-&emsp;(3) may require any individual, partnership, corporation, association, organization, orother entity to produce documents, books, or records relating to the matter in question; and
+&emsp;(3) may require any individual, partnership, corporation, association, organization, or other entity to produce documents, books, or records relating to the matter in question; and
 
 &emsp;(4) may require any individual, partnership, corporation, association, organization, or other entity to furnish in writing, in such detail and in such form as the committee may prescribe, information in its possession pertaining to the matter.
 

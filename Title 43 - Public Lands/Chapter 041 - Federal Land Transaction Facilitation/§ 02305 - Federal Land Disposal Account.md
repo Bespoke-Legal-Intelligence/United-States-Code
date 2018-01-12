@@ -2,7 +2,7 @@
 
 #### (a) Deposit of proceeds
 
-Notwithstanding any other law (except a law that specifically provides for a proportion of the proceeds to be distributed to any trust funds of any States), the gross proceeds of the sale or exchange of public land under this chapter <sup>1</sup> shall be deposited in a separate account in the Treasury of the United States to be known as the "Federal Land Disposal Account".
+Notwithstanding any other law (except a law that specifically provides for a proportion of theproceeds to be distributed to any trust funds of any States), the gross proceeds of the sale or exchange of public land under this chapter <sup>1</sup> shall be deposited in a separate account in the Treasury of the United States to be known as the "Federal Land Disposal Account".
 
 #### (b) Availability
 
@@ -90,7 +90,7 @@ Section 2304 of this title, referred to in subsecs. (c)(2)(C) and (f), related t
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–287, §5(l)(9)(A), substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act (16 U.S.C. 460l–4 et seq.)".
 
-Subsec. (f)(2). Pub. L. 113–287, §5(l)(9)(B), which directed substitution of "section 200303 of title 54" for"section 3 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6)", was executed by making the substitution for "section 3 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–6)" to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 113–287, §5(l)(9)(B), which directed substitution of "section 200303 of title 54" for "section 3 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6)", was executed by making the substitution for "section 3 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–6)" to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

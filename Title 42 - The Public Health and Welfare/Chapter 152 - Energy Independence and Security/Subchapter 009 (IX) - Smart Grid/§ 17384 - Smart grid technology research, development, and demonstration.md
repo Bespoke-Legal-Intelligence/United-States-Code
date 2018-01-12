@@ -46,7 +46,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall provide financial support to smart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas whereelectric system assets are controlled by investor-owned utilities.
+&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall provide financial support to smart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas where electric system assets are controlled by investor-owned utilities.
 
 #### (B) Cooperation
 
@@ -80,13 +80,17 @@ There are authorized to be appropriated—
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(3)(A). Pub. L. 111–5, §405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity."
+<b>2009</b>—Subsec. (b)(3)(A). Pub. L. 111–5, §405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "In carrying out the initiative, the Secretaryshall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity."
 
 Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: "The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project."
 
 Subsec. (b)(3)(E), (F). Pub. L. 111–5, §405(3), added subpars. (E) and (F).
 
 Subsec. (c)(2). Pub. L. 111–5, §405(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012."
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

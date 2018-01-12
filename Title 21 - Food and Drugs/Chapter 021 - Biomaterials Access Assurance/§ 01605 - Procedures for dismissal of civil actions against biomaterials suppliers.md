@@ -42,7 +42,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Defendant
 
-&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
+&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal containedin its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
 
 #### (B) Claimant
 
@@ -70,7 +70,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (4) Treatment of motion as motion for summary judgment
 
-&emsp;The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts ofthe implant that failed to meet applicable contractual requirements or specifications as provided in section 1604(d) of this title.
+&emsp;The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts of the implant that failed to meet applicable contractual requirements or specifications as provided in section 1604(d) of this title.
 
 #### (d) Summary judgment
 
@@ -101,4 +101,8 @@ An order granting a motion to dismiss or for summary judgment pursuant to this s
 The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
 (Pub. L. 105–230, §6, Aug. 13, 1998, 112 Stat. 1526.)
+
+#### Effective Date
+
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,
 
-> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
+> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section 1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
 
 #### (B) Adjustment
 

@@ -22,5 +22,5 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Review of Disease Research Programs of the National Institute of Diabetes and Digestive and Kidney Diseases
 
-Pub. L. 99–158, §10, Nov. 20, 1985, 99 Stat. 883, provided that: "The Secretary of Health and Human Services shall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act \[Nov. 20, 1985\]."
+Pub. L. 99–158, §10, Nov. 20, 1985, 99 Stat. 883, provided that: "The Secretary of Health and Human Servicesshall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act \[Nov. 20, 1985\]."
 

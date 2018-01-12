@@ -14,7 +14,7 @@ The Director shall establish a Green Chemistry Basic Research program to award c
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as theAmerica Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Coordination of Sustainable Chemistry Research and Development
 

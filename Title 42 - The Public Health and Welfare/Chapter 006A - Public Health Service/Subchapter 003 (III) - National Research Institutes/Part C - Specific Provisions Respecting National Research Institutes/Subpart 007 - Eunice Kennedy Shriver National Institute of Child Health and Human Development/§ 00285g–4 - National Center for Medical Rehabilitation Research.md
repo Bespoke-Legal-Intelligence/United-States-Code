@@ -108,7 +108,7 @@ The general purpose of the Center is the conduct, support, and coordination of r
 
 For purposes of this section, the term "medical rehabilitation research" means the science of mechanisms and interventions that prevent, improve, restore, or replace lost, underdeveloped, or deteriorating function.
 
-(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L.114–255, div. A, title II, §2040(a), (b)(1), Dec. 13, 2016, 130 Stat. 1069, 1070.)
+(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §2040(a), (b)(1), Dec. 13, 2016, 130 Stat. 1069, 1070.)
 
 #### References in Text
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 114–255, §2040(a)(1), substituted "conduct, support, and
 
 Subsec. (c)(1)(C). Pub. L. 114–255, §2040(a)(2), substituted "within the Center" for "of the Center".
 
-Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read as follows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
+Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read asfollows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
 
 Subsec. (d)(2)(C). Pub. L. 114–255, §2040(a)(3)(B), added subpar. (C).
 

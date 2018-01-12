@@ -1,0 +1,28 @@
+### §8519. Authorization of appropriations
+
+#### (a) Fiscal years 2017 and 2018
+
+For each of fiscal years 2017 and 2018, there are authorized to be appropriated to Office of Oceanic and Atmospheric Research—
+
+&emsp;(1) $111,516,000 to carry out this subchapter, of which—
+
+&emsp;&emsp;(A) $85,758,000 is authorized for weather laboratories and cooperative institutes; and
+
+&emsp;&emsp;(B) $25,758,000 is authorized for weather and air chemistry research programs; and
+
+&emsp;(2) an additional amount of $20,000,000 for the joint technology transfer initiative described in section 8512(b)(4) of this title.
+
+#### (b) Limitation
+
+No additional funds are authorized to carry out this subchapter and the amendments made by this title.<sup>1</sup>
+
+(Pub. L. 115–25, title I, §110, Apr. 18, 2017, 131 Stat. 98.)
+
+#### References in Text
+
+This subchapter, referred to in subsecs. (a)(1) and (b), was in the original "this title", meaning title I of Pub. L. 115–25, which enacted this subchapter and amended provisions formerly set out as a note under section 313 of this title, which is now classified to section 8520 of this title. For complete classification of title I to the Code, see Tables.
+
+The amendments made by this title, referred to in subsec. (b), mean the amendments made by title I of Pub. L. 115–25, which amended provisions formerly set out as a note under section 313 of this title and which is now classified to section 8520 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

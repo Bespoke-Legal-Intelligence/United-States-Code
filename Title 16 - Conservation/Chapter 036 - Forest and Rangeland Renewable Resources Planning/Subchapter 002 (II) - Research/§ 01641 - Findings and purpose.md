@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(4) At the same time that pressures are building for the removal of even more land from commercial production, the Federal Government is significantly reducing its commitment to productivity-related research regarding forests and rangeland, which is critically needed by the private sector for the sustained management of remaining available timber and forage resources for the benefit of all species.
 
-&emsp;(5) Uncertainty over the availability of the United States timber supply, increasing regulatory burdens, and the lack of Federal Government support for research is causing domestic wood and paper producers to move outside the United States to find reliable sourcesof wood supplies, which in turn results in a worsening of the United States trade balance, the loss of employment and infrastructure investments, and an increased risk of infestations of exotic pests and diseases from imported wood products.
+&emsp;(5) Uncertainty over the availability of the United States timber supply, increasing regulatory burdens, and the lack of Federal Government support for research is causing domestic wood and paper producers to move outside the United States to find reliable sources of wood supplies, which in turn results in a worsening of the United States trade balance, the loss of employment and infrastructure investments, and an increased risk of infestations of exotic pests and diseases from imported wood products.
 
 &emsp;(6) Wood and paper producers in the United States are being challenged not only by shifts in Federal Government policy, but also by international competition from tropical countries where growth rates of trees far exceed those in the United States. Wood production per acre will need to quadruple from 1996 levels for the United States forestry sector to remain internationally competitive on an ever decreasing forest land base.
 
@@ -30,7 +30,7 @@ It is the purpose of this subchapter to authorize the Secretary to expand resear
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–307, June 2, 1978, 92 Stat. 353, as amended, known as the Forest and Rangeland Renewable Resources Research Act of 1978, which enacted this subchapter, repealed sections 581 to 581i of this title, and enacted provisions set out as a note under section 1641 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–307, June 2, 1978, 92 Stat. 353, as amended, known as the Forest and Rangeland Renewable Resources Research Act of 1978, which enacted this subchapter, repealed sections 581 to 581i of this title, and enacted provisions set out as a noteunder section 1641 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 

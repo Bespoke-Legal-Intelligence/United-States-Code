@@ -44,7 +44,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;(B) A statement, the accuracy of which is sworn to by a responsible official of the agency (by notarization or other means of certification), that includes the following with respect to each school for which a deferral is sought in the request:
 
-&emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency hasmade a good faith effort to meet the deadline for submission of a management plan under subsection (a), the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
+&emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a), the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
 
 &emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is sought in the request, at least one of the following documents:
 

@@ -80,7 +80,7 @@ Judicial Review.—(1)(A) A court of the United States may review a determinatio
 
 Limitations of Other Jurisdiction.—No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
 
-&emsp;(1) consider the claim unless the person has first been referred by the Secretary concernedto a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
+&emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
 
 &emsp;(2) except as provided in subsection (g), grant any relief on the claim unless the person has been selected for promotion by a special selection board convened under this section to consider the person for recommendation for promotion and the report of the board has been approved by the President.
 

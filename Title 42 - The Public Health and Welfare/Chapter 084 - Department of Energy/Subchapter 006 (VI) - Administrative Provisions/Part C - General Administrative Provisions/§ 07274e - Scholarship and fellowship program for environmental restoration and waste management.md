@@ -12,7 +12,7 @@ To be eligible to participate in the scholarship and fellowship program, an indi
 
 &emsp;(2) be pursuing a program of education that leads to an appropriate higher education degree in a qualifying field of study, as determined by the Secretary;
 
-&emsp;(3) sign an agreement described in subsection (c) of this section;
+&emsp;(3) sign an agreement described in subsection (c);
 
 &emsp;(4) be a citizen or national of the United States or be an alien lawfully admitted to the United States for permanent residence; and
 
@@ -30,7 +30,7 @@ An agreement between the Secretary and a participant in the scholarship and fell
 
 (1) Any person participating in a scholarship or fellowship program established under this section shall agree to pay to the United States the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), if the person—
 
-&emsp;(A) does not complete the course of education as agreed to pursuant to subsection (c) of this section, or completes the course of education but declines to serve in a position in the Department of Energy as agreed to pursuant to subsection (c) of this section; or
+&emsp;(A) does not complete the course of education as agreed to pursuant to subsection (c), or completes the course of education but declines to serve in a position in the Department of Energy as agreed to pursuant to subsection (c); or
 
 &emsp;(B) is voluntarily separated from service or involuntarily separated for cause from the Department of Energy before the end of the period for which the person has agreed to continue in the service of the Department of Energy.
 
@@ -70,7 +70,7 @@ Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,00
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. TitleIV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 3101(9)(B), referred to in subsec. (i), is section 3101(9)(B) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
 

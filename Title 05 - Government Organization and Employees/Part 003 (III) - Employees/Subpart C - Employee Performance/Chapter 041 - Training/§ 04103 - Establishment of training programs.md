@@ -94,7 +94,7 @@ Exception from provisions of subsec. (a)(1) of this section of those elements of
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from certain provisions of subsec. (a)(1) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from certain provisions of subsec. (a)(1) of this section, see Ex.Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Ex. Ord. No. 11348. Further Training of Government Employees
 
@@ -104,7 +104,7 @@ By virtue of the authority vested in me by section 301 of Title 3 of the United 
 
 #### Part I—General
 
-Section 101. (a) As used in this order, the terms "agency", "employee", "Government", and "training",have meanings given to those terms, respectively, by section 4101 of Title 5, United States Code.
+Section 101. (a) As used in this order, the terms "agency", "employee", "Government", and "training", have meanings given to those terms, respectively, by section 4101 of Title 5, United States Code.
 
 (b) "Interagency training" means training provided by one agency for other agencies or shared by two or more agencies.
 
@@ -182,7 +182,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice ofthe Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 
@@ -194,7 +194,7 @@ Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107
 
 #### Executive Order No. 12136
 
-Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, which continued the President's Commission on PersonnelInterchange and renamed it the President's Commission on Executive Exchange, was revoked by Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, formerly set out below.
+Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, which continued the President's Commission on Personnel Interchange and renamed it the President's Commission on Executive Exchange, was revoked by Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, formerly set out below.
 
 #### Executive Order No. 12493
 

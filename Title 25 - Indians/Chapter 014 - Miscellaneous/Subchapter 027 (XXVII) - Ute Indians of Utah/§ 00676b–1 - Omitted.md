@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 91–420, §2, Sept. 25, 1970, 84 Stat. 871, which exempted distributed funds from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–420, §2, Sept. 25, 1970, 84 Stat. 871, which exempted distributed funds from Federal andState income taxes, was omitted from the Code as being of special and not general application.
 

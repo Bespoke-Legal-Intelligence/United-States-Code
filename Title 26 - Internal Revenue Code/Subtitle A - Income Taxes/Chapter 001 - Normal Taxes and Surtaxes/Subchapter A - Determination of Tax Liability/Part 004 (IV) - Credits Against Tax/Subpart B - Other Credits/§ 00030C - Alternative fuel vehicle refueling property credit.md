@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Reduction in basis
 
-&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d)).
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowableunder subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d)).
 
 #### (2) Property used by tax-exempt entity
 

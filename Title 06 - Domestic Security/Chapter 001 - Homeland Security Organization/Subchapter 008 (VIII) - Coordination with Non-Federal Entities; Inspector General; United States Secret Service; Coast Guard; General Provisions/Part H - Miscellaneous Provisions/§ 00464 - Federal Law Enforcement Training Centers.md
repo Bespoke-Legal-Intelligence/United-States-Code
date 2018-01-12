@@ -96,7 +96,7 @@ The Director shall—
 
 #### (B) Excess basic and advanced Federal training
 
-&emsp;&emsp;All hours of advanced training and hours of basic training provided in excess of the training for which appropriations were madeavailable shall be paid by the partner organizations and provided to FLETC on a reimbursable basis in accordance with section 4104 of title 5.
+&emsp;&emsp;All hours of advanced training and hours of basic training provided in excess of the training for which appropriations were made available shall be paid by the partner organizations and provided to FLETC on a reimbursable basis in accordance with section 4104 of title 5.
 
 #### (8) Provision of non-Federal training
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (2) Detailed instructors
 
-&emsp;The term "detailed instructors" means personnel who are assigned to the Federal LawEnforcement Training Centers for a period of time to serve as instructors for the purpose of conducting basic and advanced training.
+&emsp;The term "detailed instructors" means personnel who are assigned to the Federal Law Enforcement Training Centers for a period of time to serve as instructors for the purpose of conducting basic and advanced training.
 
 #### (3) Director
 

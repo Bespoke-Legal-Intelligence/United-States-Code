@@ -8,7 +8,7 @@
 
 &emsp;(3) together with increasing import dependence, the Nation's industrial base, including the capacity to process minerals and materials, is deteriorating—both in terms of facilities and in terms of a trained labor force;
 
-&emsp;(4) research, development, and technological innovation, especially related to improved materials and new processing technologies, are important factors which affect our long-term capability for economic competitiveness, as well as for adjustment to interruptions in supply of critical minerals and materials;
+&emsp;(4) research, development, and technological innovation, especially related to improved materials and new processing technologies, are important factors which affect our long-term capability for economic competitiveness, aswell as for adjustment to interruptions in supply of critical minerals and materials;
 
 &emsp;(5) while other nations have developed and implemented specific long-term research and technology programs to develop high-performance materials, no such policy and program evolution has occurred in the United States;
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) bring to the attention of the President, the Congress, and the general public such materials issues and concerns, including research and development, as are deemed critical to the economic and strategic health of the Nation; and
 
-&emsp;&emsp;(C) ensure adequate and continuing consultation with the private sector concerningcritical materials, materials research and development, use of materials, Federal materials policies, and related matters;
+&emsp;&emsp;(C) ensure adequate and continuing consultation with the private sector concerning critical materials, materials research and development, use of materials, Federal materials policies, and related matters;
 
 &emsp;(2) to establish a national Federal program for advanced materials research and technology, including basic phenomena through processing and manufacturing technology; and
 

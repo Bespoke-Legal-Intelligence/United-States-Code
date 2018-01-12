@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than 1 year after December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing steps to be taken by the Administration to protect from retaliation Administration employees who raise concerns about substantial and specific dangers to public health and safety or about substantial and specific factors that could threaten the success of a mission. The plan shall be designed to ensure that Administration employees have the full protection required by law. The Administrator shall implement the plan not more than 1 year after its transmittal.
+In General.—Not later than 1 year after December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing steps to be taken by the Administration to protect from retaliation Administration employeeswho raise concerns about substantial and specific dangers to public health and safety or about substantial and specific factors that could threaten the success of a mission. The plan shall be designed to ensure that Administration employees have the full protection required by law. The Administrator shall implement the plan not more than 1 year after its transmittal.
 
 (b)
 
@@ -28,7 +28,7 @@ Plan.—At a minimum, the plan shall include, consistent with Federal law—
 
 Report.—Not later than February 15 of each year beginning February 15, 2007, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the concerns described in subsection (a) that were raised during the previous fiscal year. At a minimum, the report shall provide—
 
-&emsp;(1) the number of concerns that were raised, divided into the categories of safety andhealth, mission assurance, and mismanagement, and the disposition of those concerns, including whether any employee was disciplined as a result of a concern having been raised; and
+&emsp;(1) the number of concerns that were raised, divided into the categories of safety and health, mission assurance, and mismanagement, and the disposition of those concerns, including whether any employee was disciplined as a result of a concern having been raised; and
 
 &emsp;(2) any recommendations for reforms to further prevent retribution against employees who raise concerns.
 

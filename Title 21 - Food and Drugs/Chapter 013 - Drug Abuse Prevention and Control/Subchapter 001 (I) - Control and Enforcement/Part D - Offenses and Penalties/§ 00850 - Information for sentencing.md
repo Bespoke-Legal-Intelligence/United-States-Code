@@ -8,5 +8,9 @@ Except as otherwise provided in this subchapter or section 242a(a) <sup>1</sup>
 
 Section 242a of title 42, referred to in text, was repealed by Pub. L. 106–310, div. B, title XXXII, §3201(b)(1), Oct. 17, 2000, 114 Stat. 1190.
 
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

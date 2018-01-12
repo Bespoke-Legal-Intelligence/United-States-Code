@@ -90,7 +90,7 @@ Definitions.—In this section:
 
 &emsp;(3)(A) The term "to stabilize" means—
 
-&emsp;&emsp;(i) with respect to an emergency medical condition described in paragraph (2)(A), toprovide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer of the individual from a facility; or
+&emsp;&emsp;(i) with respect to an emergency medical condition described in paragraph (2)(A), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer of the individual from a facility; or
 
 &emsp;&emsp;(ii) with respect to an emergency medical condition described in paragraph (2)(B), to deliver (including the placenta).
 

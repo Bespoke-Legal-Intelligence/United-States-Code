@@ -22,7 +22,7 @@ R.S. §347 (last sentence).
 
 1953 Reorg. Plan No. 4, §1, eff. June 20, 1953, 67 Stat. 636.
 
-The last sentence of R.S. §347 is cited as authority inasmuch as the function contained therein was the function transferred to the Deputy Attorney General by1953 Reorg. Plan No. 4. The word "may" is substituted for "have the power". The words "During any period of time" are omitted as unnecessary.
+The last sentence of R.S. §347 is cited as authority inasmuch as the function contained therein was the function transferred to the Deputy Attorney General by 1953 Reorg. Plan No. 4. The word "may" is substituted for "have the power". The words "During any period of time" are omitted as unnecessary.
 
 #### Prior Provisions
 

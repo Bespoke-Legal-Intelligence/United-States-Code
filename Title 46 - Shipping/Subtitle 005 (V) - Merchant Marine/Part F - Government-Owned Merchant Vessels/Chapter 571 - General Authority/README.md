@@ -2,6 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [57100\.](%C2%A7%2057100%20-%20National%20Defense%20Reserve%20Fleet.md) | National Defense Reserve Fleet. |
 | [57101\.](%C2%A7%2057101%20-%20Placement%20of%20vessels%20in%20National%20Defense%20Reserve%20Fleet.md) | Placement of vessels in National Defense Reserve Fleet. |
 | [57102\.](%C2%A7%2057102%20-%20Disposition%20of%20vessels%20not%20worth%20preserving.md) | Disposition of vessels not worth preserving. |
 | [57103\.](%C2%A7%2057103%20-%20Donation%20of%20nonretention%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md) | Donation of nonretention vessels in the National Defense Reserve Fleet. |
@@ -16,6 +17,8 @@
 
 #### Amendments
 
+<b>2017</b>—Pub. L. 115–91, div. C, title XXXV, §3502(b)(9), Dec. 12, 2017, 131 Stat. 1911, added item 57100.
+
 <b>2012</b>—Pub. L. 112–213, title IV, §408(b), Dec. 20, 2012, 126 Stat. 1571, substituted "Donation of nonretention vessels in the National Defense Reserve Fleet" for "Sale of obsolete vessels in National Defense Reserve Fleet" in item 57103.
 
 
@@ -23,6 +26,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
+- [&sect; 57100 - National Defense Reserve Fleet](%C2%A7%2057100%20-%20National%20Defense%20Reserve%20Fleet.md)
 - [&sect; 57101 - Placement of vessels in National Defense Reserve Fleet](%C2%A7%2057101%20-%20Placement%20of%20vessels%20in%20National%20Defense%20Reserve%20Fleet.md)
 - [&sect; 57102 - Disposition of vessels not worth preserving](%C2%A7%2057102%20-%20Disposition%20of%20vessels%20not%20worth%20preserving.md)
 - [&sect; 57103 - Donation of nonretention vessels in the National Defense Reserve Fleet](%C2%A7%2057103%20-%20Donation%20of%20nonretention%20vessels%20in%20the%20National%20Defense%20Reserve%20Fleet.md)

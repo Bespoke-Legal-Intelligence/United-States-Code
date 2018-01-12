@@ -52,6 +52,10 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–91, div. C, title XXXV, §3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: "This section \[amending sections 1321, 2701, and 2715 of this title\] may be cited as the 'Foreign Spill Protection Act of 2017'."
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–365, §1, Oct. 8, 2008, 122 Stat. 4021, provided that: "This Act \[amending sections 1268 and 1271a of this title\] may be cited as the 'Great Lakes Legacy Reauthorization Act of 2008'."
@@ -74,7 +78,7 @@ Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that:
 
 Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: "This title \[enacting section 1273 of this title\] may be cited as the 'Lake Pontchartrain Basin Restoration Act of 2000'."
 
-Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 of this title\] may be cited as the 'Alternative Water Sources Act of 2000'."
+Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 ofthis title\] may be cited as the 'Alternative Water Sources Act of 2000'."
 
 Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
 
@@ -96,7 +100,7 @@ Pub. L. 100–653, title X, §1001, Nov. 14, 1988, 102 Stat. 3835, provided that
 
 #### Short Title of 1987 Amendment
 
-Section 1(a) of Pub. L. 100–4 provided that: "This Act \[enacting sections 1254a, 1267, 1268, 1281b, 1329, 1330, 1377, 1381 to 1387, and 1414a of this title, amending this section and sections 1254, 1256, 1262, 1281, 1282 to 1285, 1287, 1288, 1291, 1311 to 1313, 1314, 1317 to 1322, 1324, 1342, 1344, 1345, 1361, 1362, 1365, 1369, 1375, and 1376 of this title, and enacting provisions set out as notes under this section, sections 1284, 1311, 1317, 1319, 1330, 1342, 1345, 1362, 1375, and 1414a of this title, and section 1962d–20 of Title 42, The Public Health and Welfare\] may be cited as the 'Water Quality Act of 1987'."
+Pub. L. 100–4, §1(a), Feb. 4, 1987, 101 Stat. 7, provided that: "This Act \[enacting sections 1254a, 1267, 1268, 1281b, 1329, 1330, 1377, 1381 to 1387, and 1414a of this title, amending this section and sections 1254, 1256, 1262, 1281, 1282 to 1285, 1287, 1288, 1291, 1311 to 1313, 1314, 1317 to 1322, 1324, 1342, 1344, 1345, 1361, 1362, 1365, 1369, 1375, and 1376 of this title, and enacting provisions set out as notes under this section, sections 1284, 1311, 1317, 1319, 1330, 1342, 1345, 1362, 1375, and 1414a of this title, and section 1962d–20 of Title 42, The Public Health and Welfare\] may be cited as the 'Water Quality Act of 1987'."
 
 #### Short Title of 1981 Amendment
 
@@ -104,13 +108,13 @@ Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: "This Act \[
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–217 provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
+Pub. L. 95–217, §1, Dec. 27, 1977, 91 Stat. 1566, provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
 
 #### Short Title
 
-Section 1 of Pub. L. 92–500 provided that: "That this Act \[enacting this chapter, amending section 24 of Title12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1972'."
+Pub. L. 92–500, §1, Oct. 18, 1972, 86 Stat. 816, provided that: "That this Act \[enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1972'."
 
-Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 896, and amended Dec. 27, 1977, Pub. L. 95–217, §2, 91 Stat. 1566, and renumbered §519, Feb. 4, 1987, Pub. L. 100–4, title V, §506, 101 Stat. 76, provided that: "This Act \[this chapter\] may be cited as the 'Federal Water Pollution Control Act' (commonly referred to as the Clean Water Act)."
+Act June 30, 1948, ch. 758, title V, §519, formerly §518, as added by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, §2, Dec. 27, 1977, 91 Stat. 1566, renumbered §519, Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76, provided that: "This Act \[this chapter\] may be cited as the 'Federal Water Pollution Control Act' (commonly referred to as the Clean Water Act)."
 
 #### Savings Provision
 
@@ -132,7 +136,7 @@ Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286; as amended b
 
 "(a)
 
-Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
+Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existingclassification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
 &emsp;"(1) an environmental assessment of commercial shellfish growing areas in the United States, including an evaluation of the relationships between indicators of fecal contamination and human enteric pathogens;
 
@@ -174,7 +178,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 "(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A).
 
-"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice,assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
+"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
 
 "(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by section 5703 of title 5, United States Code.
 
@@ -210,7 +214,7 @@ Definitions.—As used in this section, the term—
 
 #### Limitation on Payments
 
-Section 2 of Pub. L. 100–4 provided that: "No payments may be made under this Act \[see Short Title of 1987 Amendment note above\] except to the extent provided in advance in appropriation Acts."
+Pub. L. 100–4, §2, Feb. 4, 1987, 101 Stat. 8, provided that: "No payments may be made under this Act \[see Short Title of 1987 Amendment note above\] except to the extent provided in advance in appropriation Acts."
 
 #### Seafood Processing Study; Submittal of Results to Congress not Later Than January 1, 1979
 

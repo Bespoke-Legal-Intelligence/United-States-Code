@@ -8,19 +8,19 @@
 
 #### (2) Relationship to other assistance
 
-&emsp;Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) of this section solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
+&emsp;Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
 
 #### (b) Housing assistance
 
 #### (1) Eligibility
 
-&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendereduninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
+&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
 
 #### (2) Determination of appropriate types of assistance
 
 #### (A) In general
 
-&emsp;&emsp;The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) of this section based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+&emsp;&emsp;The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
 
 #### (B) Multiple types of assistance
 
@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
+&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance mayinclude the payment of the cost of utilities, excluding telephone service.
 
 #### (ii) Amount
 
@@ -98,7 +98,7 @@
 
 #### (4) Permanent housing construction
 
-&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outsidethe continental United States and in other locations in cases in which—
+&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
 
 &emsp;&emsp;(A) no alternative housing resources are available; and
 
@@ -128,7 +128,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, a temporary housing unit purchased under this section by the President for the purpose of housing disaster victims may be sold directly to the individual or household who is occupying the unit if the individual or household lacks permanent housing.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, a temporary housing unit purchasedunder this section by the President for the purpose of housing disaster victims may be sold directly to the individual or household who is occupying the unit if the individual or household lacks permanent housing.
 
 #### (ii) Sale price
 
@@ -174,11 +174,11 @@
 
 #### (A) Grant to State
 
-&emsp;&emsp;Subject to subsection (g) of this section, a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e) of this section.
+&emsp;&emsp;Subject to subsection (g), a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e).
 
 #### (B) Administrative costs
 
-&emsp;&emsp;A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e) of this section.
+&emsp;&emsp;A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e).
 
 #### (2) Access to records
 
@@ -188,11 +188,11 @@
 
 #### (1) Federal share
 
-&emsp;Except as provided in paragraph (2), the Federal share of the costs eligible to be paid usingassistance provided under this section shall be 100 percent.
+&emsp;Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
 
 #### (2) Financial assistance to address other needs
 
-&emsp;In the case of financial assistance provided under subsection (e) of this section—
+&emsp;In the case of financial assistance provided under subsection (e)—
 
 &emsp;&emsp;(A) the Federal share shall be 75 percent; and
 
@@ -216,7 +216,7 @@ In carrying out this section, the President shall develop a system, including an
 
 &emsp;(2) minimize the risk of making duplicative payments or payments for fraudulent claims under this section;
 
-&emsp;(3) collect any duplicate payment on a claim under this section, or reduce the amount of subsequent payments to offset the amount of any such duplicate payment;
+&emsp;(3) collect any duplicate payment on a claim under this section, or reduce the amount ofsubsequent payments to offset the amount of any such duplicate payment;
 
 &emsp;(4) provide instructions to recipients of assistance under this section regarding the proper use of any such assistance, regardless of how such assistance is distributed; and
 

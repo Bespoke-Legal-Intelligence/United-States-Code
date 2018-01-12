@@ -6,7 +6,7 @@ The purpose of this subchapter is to demonstrate the effectiveness of authorizin
 
 &emsp;(2) to design creative approaches for providing and administering Federal housing assistance based on the particular needs of the jurisdictions that—
 
-&emsp;&emsp;(A) provide incentives to low-income families with children whose head of the household is employed, seeking employment, or preparing for employment by participating in a job training or educational program, or any program that otherwise assists individuals in obtaining employment and attaining economic self-sufficiency;
+&emsp;&emsp;(A) provide incentives to low-income families with children whose head of the household is employed, seeking employment, or preparing for employment by participating in a job training or educational program, orany program that otherwise assists individuals in obtaining employment and attaining economic self-sufficiency;
 
 &emsp;&emsp;(B) reduce costs of Federal housing assistance and achieve greater cost-effectiveness in Federal housing assistance expenditures;
 

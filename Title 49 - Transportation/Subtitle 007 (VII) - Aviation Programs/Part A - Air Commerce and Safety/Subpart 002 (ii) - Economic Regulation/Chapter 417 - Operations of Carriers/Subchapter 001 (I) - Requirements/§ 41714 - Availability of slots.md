@@ -98,7 +98,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;(F) the fairness of such process to air carriers and the extent to which air carriers are provided equivalent rights of access to the air transportation market in the countries of which foreign air carriers holding slots are citizens;
 
-&emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and internationalair service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
+&emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and international air service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
 
 &emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and the impact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
 
@@ -146,7 +146,7 @@ Limited incumbent air carrier.—The term "limited incumbent air carrier" has th
 
 &emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operating such slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
 
-&emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under the marketing control of the other air carrier; and
+&emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under themarketing control of the other air carrier; and
 
 &emsp;&emsp;(C) for Ronald Reagan Washington National Airport, the Administrator shall not count, for the purposes of section 93.213(a)(5), slots currently held by an air carrier but leased out on a long-term basis by that carrier for use in foreign air transportation and renounced by the carrier for return to the Department of Transportation or the Federal Aviation Administration.
 
@@ -226,7 +226,7 @@ Subsec. (j). Pub. L. 112–95, §414(d), substituted ", except through an air c
 
 Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
 
-Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective."
+Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to bein effect when the final rules issued under subsection (f) become effective."
 
 Subsec. (c). Pub. L. 106–181, §231(a)(4), reenacted subsec. heading and struck out "(1)
 

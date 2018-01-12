@@ -74,7 +74,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revokedin accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based on provisions of law repealed and not substantively reenacted by this Act.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based on provisions of law repealed and not substantively reenacted by this Act.
 
 "(b)
 
@@ -128,11 +128,11 @@ To Board.—Except as otherwise provided in this Act \[see Tables for classifica
 
 "(b)
 
-To Secretary.—Except as otherwise provided in this Act and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Secretary by this Act shall be transferred to the Secretary for use in connection with the functions transferred.
+To Secretary.—Except as otherwise provided in this Act and the amendments made by this Act, thosepersonnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Secretary by this Act shall be transferred to the Secretary for use in connection with the functions transferred.
 
 "(c)
 
-Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list\(competitive service) or the priority employment list (excepted service)."
+Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list (competitive service) or the priority employment list (excepted service)."
 
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 

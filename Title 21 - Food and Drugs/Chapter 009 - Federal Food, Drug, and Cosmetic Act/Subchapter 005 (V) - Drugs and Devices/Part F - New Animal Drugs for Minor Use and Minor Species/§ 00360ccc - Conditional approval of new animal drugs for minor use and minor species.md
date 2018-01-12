@@ -68,7 +68,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approval should not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
 
-&emsp;(4)(A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], conditional approval ofsuch application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+&emsp;(4)(A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], conditional approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 &emsp;(B) For purposes of this section, with respect to an application described in subparagraph (A), the term "date of approval" shall mean the later of—
 
@@ -78,7 +78,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 #### (e) Withdrawal of conditional approval
 
-(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
+(1) The Secretary shall issue an order withdrawing conditional approval of an applicationfiled pursuant to subsection (a) if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
 
 (2) The Secretary shall, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) if the Secretary finds that—
 
@@ -142,7 +142,7 @@ Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that
 
 &emsp;"(4) Because the populations for which such new animal drugs are intended may be small and conditions of animal management may vary widely, it is often difficult to design and conduct studies to establish drug safety and effectiveness under traditional new animal drug approval processes.
 
-&emsp;"(5) It is in the public interest and in the interest of animal welfare to provide for special procedures to allow the lawful use and marketing of certain new animal drugs for minor species and minor uses that take into account these special circumstances and that ensure that such drugs do not endanger animal or public health.
+&emsp;"(5) It is in the public interest and in the interest of animal welfare to provide for special procedures to allow the lawful use and marketing of certain newanimal drugs for minor species and minor uses that take into account these special circumstances and that ensure that such drugs do not endanger animal or public health.
 
 &emsp;"(6) Exclusive marketing rights for clinical testing expenses have helped encourage the development of 'orphan' drugs for human use, and comparable incentives should encourage the development of new animal drugs for minor species and minor uses."
 

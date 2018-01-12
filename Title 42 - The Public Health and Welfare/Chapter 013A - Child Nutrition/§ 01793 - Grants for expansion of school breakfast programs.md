@@ -70,7 +70,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (2) Preference
 
-&emsp;In awarding subgrants under this section, a State educational agency shall give preference to local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
+&emsp;In awarding subgrants under this section, a State educational agency shall give preferenceto local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
 
 #### (f) Use of funds
 

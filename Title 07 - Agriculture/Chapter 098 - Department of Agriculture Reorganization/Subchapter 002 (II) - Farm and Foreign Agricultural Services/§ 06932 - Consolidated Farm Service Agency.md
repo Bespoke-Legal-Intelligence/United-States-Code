@@ -22,7 +22,7 @@ If the Secretary establishes the Consolidated Farm Service Agency under subsecti
 
 In carrying out the programs specified in subsection (b)(4), the Secretary shall—
 
-&emsp;(1) acting on the recommendations of the Consolidated Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
+&emsp;(1) acting on the recommendations of the Consolidated Farm Service Agency, with theconcurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
 
 &emsp;(2) ensure that the Consolidated Farm Service Agency, in establishing policies, priorities, and guidelines for such programs, does so with the concurrence of the Natural Resources Conservation Service at national, State, and local levels;
 
@@ -46,7 +46,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (B) Economic hardship
 
-&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county orarea committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
+&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
 #### (3) Reinstatement of program benefits
 
@@ -86,7 +86,7 @@ For purposes of subsections (c) through (f) of this section:
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 

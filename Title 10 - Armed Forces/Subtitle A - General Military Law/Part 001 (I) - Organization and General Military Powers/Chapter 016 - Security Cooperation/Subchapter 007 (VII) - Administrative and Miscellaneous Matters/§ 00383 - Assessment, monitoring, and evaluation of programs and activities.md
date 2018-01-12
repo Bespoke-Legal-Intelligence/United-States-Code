@@ -2,7 +2,7 @@
 
 (a)
 
-Program Required.—The Secretary of Defense shall maintain a program of assessment,monitoring, and evaluation in support of the security cooperation programs and activities of the Department of Defense.
+Program Required.—The Secretary of Defense shall maintain a program of assessment, monitoring, and evaluation in support of the security cooperation programs and activities of the Department of Defense.
 
 (b)
 

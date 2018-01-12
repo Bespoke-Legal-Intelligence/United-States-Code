@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 108–357, §420(b), designated existing provisions as par.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "871(h)(3) or (4)" for "871(h)(3)" and "881(c)(3) or (4)" for "881(c)(3)".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out "and" after "to section 881(a)(3)," and inserted before periodat end ", and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)".
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out "and" after "to section 881(a)(3)," and inserted before period at end ", and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1810(d)(3)(E), substituted "871(h)" for "871(h)(2)", "881(c)" for "881(c)(2)", and "1441(c)(9)" for "1449(c)(9)".
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(d)(3)(E) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

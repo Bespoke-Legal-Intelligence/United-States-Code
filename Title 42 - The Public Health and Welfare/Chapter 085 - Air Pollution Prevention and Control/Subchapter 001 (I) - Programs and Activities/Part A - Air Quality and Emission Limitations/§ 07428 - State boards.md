@@ -2,7 +2,7 @@
 
 (a) <sup>1</sup> Not later than the date one year after August 7, 1977, each applicable implementation plan shall contain requirements that—
 
-&emsp;(1) any board or body which approves permits or enforcement orders under this chapter shall have at least a majority of members who represent the public interest and do not derive any significant portion of their income from persons subject to permits or enforcement orders under this chapter, and
+&emsp;(1) any board or body which approves permits or enforcement orders under this chaptershall have at least a majority of members who represent the public interest and do not derive any significant portion of their income from persons subject to permits or enforcement orders under this chapter, and
 
 &emsp;(2) any potential conflicts of interest by members of such board or body or the head of an executive agency with similar powers be adequately disclosed.
 

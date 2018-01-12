@@ -26,7 +26,7 @@ The Secretary may make peer-reviewed grants to, or enter into peer-reviewed cont
 
 #### (3) Use of funds
 
-&emsp;Funds received under this subsection may be used by the State, or in partnership with other public agencies or private sector institutions, for education and awareness efforts, information dissemination, activities pertaining to the State donor registry, and other innovative donation specific initiatives, including living donation.
+&emsp;Funds received under this subsection may be used by the State, or in partnership with other public agencies or private sector institutions,for education and awareness efforts, information dissemination, activities pertaining to the State donor registry, and other innovative donation specific initiatives, including living donation.
 
 #### (d) Educational activities
 

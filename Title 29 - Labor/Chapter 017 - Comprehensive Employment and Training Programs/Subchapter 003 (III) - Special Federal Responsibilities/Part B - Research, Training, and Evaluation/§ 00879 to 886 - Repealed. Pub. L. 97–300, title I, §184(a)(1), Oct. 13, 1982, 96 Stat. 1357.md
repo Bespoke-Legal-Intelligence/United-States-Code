@@ -2,7 +2,7 @@
 
 Section 879, Pub. L. 93–203, title III, §311, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1968; amended Pub. L. 96–88, title V, §508(h)(4), Oct. 17, 1979, 93 Stat. 693; Pub. L. 96–583, §3(c), Dec. 23, 1980, 94 Stat. 3376, related to establishment of various employment and training research programs.
 
-A prior section 311 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 860; Pub. L. 94–444, §10, Oct. 1, 1976, 90 Stat.1483, which related to establishment of a comprehensive program of manpower research, was classified to former section 881 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 311 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 860; Pub. L. 94–444, §10, Oct. 1, 1976, 90 Stat. 1483, which related to establishment of a comprehensive program of manpower research, was classified to former section 881 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 880, Pub. L. 93–203, title III, §312, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1970, provided for a labor market information and job bank program.
 

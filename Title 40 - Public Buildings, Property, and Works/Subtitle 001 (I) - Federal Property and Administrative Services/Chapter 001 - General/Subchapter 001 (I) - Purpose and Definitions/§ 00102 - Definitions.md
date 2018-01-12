@@ -14,7 +14,7 @@ Care and handling.—The term "care and handling" includes—
 
 Contractor inventory.—The term "contractor inventory" means—
 
-&emsp;&emsp;(A) property, in excess of amounts needed to complete full performance, that is acquired by and in possession of a contractoror subcontractor under a contract pursuant to which title is vested in the Federal Government; and
+&emsp;&emsp;(A) property, in excess of amounts needed to complete full performance, that is acquired by and in possession of a contractor or subcontractor under a contract pursuant to which title is vested in the Federal Government; and
 
 &emsp;&emsp;(B) property that the Government is obligated or has the option to take over, under any type of contract, as a result of changes in specifications or plans under the contract, or as a result of termination of the contract (or a subcontract), prior to completion of the work, for the convenience or at the option of the Government.
 

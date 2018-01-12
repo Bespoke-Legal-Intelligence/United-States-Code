@@ -8,11 +8,11 @@ In this chapter:
 
 #### (2) Dating violence
 
-&emsp;The term "dating violence" has the meaning given such term in section 13925(a) of this title.
+&emsp;The term "dating violence" has the meaning given such term in section 12291(a) of this title.
 
 #### (3) Domestic violence
 
-&emsp;The term "domestic violence" has the meaning given such term in section 13925(a) of this title.
+&emsp;The term "domestic violence" has the meaning given such term in section 12291(a) of this title.
 
 #### (4) Family violence
 
@@ -38,7 +38,7 @@ In this chapter:
 
 #### (7) Personally identifying information
 
-&emsp;The term "personally identifying information" has the meaning given the term in section 13925(a) of this title.
+&emsp;The term "personally identifying information" has the meaning given the term in section 12291(a) of this title.
 
 #### (8) Secretary
 
@@ -46,7 +46,7 @@ In this chapter:
 
 #### (9) Shelter
 
-&emsp;The term "shelter" means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
+&emsp;The term "shelter" means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals,and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
 
 #### (10) State
 
@@ -78,7 +78,7 @@ In this chapter:
 
 #### (14) Underserved populations
 
-&emsp;The term "underserved populations" has the meaning given the term in section 13925(a) of this title. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) <sup>1</sup> of this title.
+&emsp;The term "underserved populations" has the meaning given the term in section 12291(a) of this title. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 12291(a) <sup>1</sup> of this title.
 
 (Pub. L. 98–457, title III, §302, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484; amended Pub. L. 114–95, title IX, §9215(ii), Dec. 10, 2015, 129 Stat. 2175.)
 

@@ -12,7 +12,7 @@
 
 #### (2) Direct processing
 
-&emsp;The order shall provide that any person processing canola or rapeseed of that person's own production and marketing the canola orrapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under section 7444(b)(6) of this title, in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d).
+&emsp;The order shall provide that any person processing canola or rapeseed of that person's own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under section 7444(b)(6) of this title, in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d).
 
 #### (b) Limitation on assessments
 

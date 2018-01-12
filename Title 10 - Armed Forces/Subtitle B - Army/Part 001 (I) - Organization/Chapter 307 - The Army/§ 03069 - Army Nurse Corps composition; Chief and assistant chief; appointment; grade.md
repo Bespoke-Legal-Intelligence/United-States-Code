@@ -6,7 +6,7 @@
 
 (c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, §504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, §502(o), Dec. 23, 2016, 130 Stat. 2103.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375;Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, §504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, §502(o), Dec. 23, 2016, 130 Stat. 2103.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,7 @@ Pub. L. 85–155, title I, §105, Aug. 21, 1957, 71 Stat. 381, provided that: "T
 
 Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
-"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888,3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
+"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
 
 "(b) This Act does not affect the retired status or retired pay of a person retired under section 108, Army-Navy Nurses Act of 1947, as amended, or any other law.
 

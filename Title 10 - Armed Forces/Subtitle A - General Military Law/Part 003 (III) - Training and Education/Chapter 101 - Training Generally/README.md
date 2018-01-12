@@ -63,6 +63,10 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 <b>1965</b>—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Annual Training Regarding the Influence Campaign of the Russian Federation
+
+Pub. L. 115–91, div. A, title X, §1048, Dec. 12, 2017, 131 Stat. 1558, provided that: "In addition to any currently mandated training, the Secretary of Defense may furnish annual training to all members of the Armed Forces and all civilian employees of the Department of Defense, regarding attempts by the Russian Federation and its proxies and agents to influence and recruit members of the Armed Forces as part of its influence campaign."
+
 #### Policy on Active Shooter Training for Certain Law Enforcement Personnel
 
 Pub. L. 112–81, div. A, title III, §367, Dec. 31, 2011, 125 Stat. 1381, provided that: "The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled 'Protecting the Force: Lessons From Fort Hood'."
@@ -89,7 +93,7 @@ Elements.—Each language training center established under the program authoriz
 
 &emsp;"(5) Training and education programs to expand the pool of qualified instructors and educators on critical and strategic languages and regional area studies under the program for the Armed Forces.
 
-&emsp;"(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
+&emsp;"(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of criticaland strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
 "(c)
 

@@ -20,7 +20,7 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 &emsp;The Comptroller General may, at the Comptroller General's discretion, relieve such certifying officer or employee of liability for any payment otherwise proper if the Comptroller General finds—
 
-&emsp;&emsp;(A) that the certification was based on official records and that the certifying officeror employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts; or
+&emsp;&emsp;(A) that the certification was based on official records and that the certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts; or
 
 &emsp;&emsp;(B) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment.
 

@@ -1,0 +1,6 @@
+### §3789g. Transferred
+
+#### Codification
+
+Section 3789g was editorially reclassified as section 10231 of Title 34, Crime Control and Law Enforcement.
+

@@ -32,7 +32,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Department of Homeland Security
 
-Exception from provisions of this section of those elements of the Department of Homeland Security thatare supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Central Intelligence Agency
 

@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(3) more efficient utilization and marketing of renewable resources extend available supplies of such resources, provide products to consumers at prices less than they would otherwise be, and promote reasonable returns on the investments of landowners, processors, and users;
 
-&emsp;(4) trees and forests in urban areas improve the esthetic quality, reduce noise, filter impurities from the air and add oxygen to it, save energy by moderating temperature extremes, control wind and water erosion, and provide habitat for wildlife; and
+&emsp;(4) trees and forests in urban areas improve the esthetic quality, reduce noise, filter impurities from the air and add oxygen to it, saveenergy by moderating temperature extremes, control wind and water erosion, and provide habitat for wildlife; and
 
 &emsp;(5) trees and shrubs used as shelterbelts protect farm lands from wind and water erosion, promote moisture accumulation in the soil, and provide habitat for wildlife.
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1031\.](%C2%A7%2001031%20-%20Exchange%20of%20property%20held%20for%20productive%20use%20or%20investment.md) | Exchange of property held for productive use or investment. |
+| [1031\.](%C2%A7%2001031%20-%20Exchange%20of%20real%20property%20held%20for%20productive%20use%20or%20investment.md) | Exchange of real property held for productive use or investment. |
 | [1032\.](%C2%A7%2001032%20-%20Exchange%20of%20stock%20for%20property.md) | Exchange of stock for property. |
 | [1033\.](%C2%A7%2001033%20-%20Involuntary%20conversions.md) | Involuntary conversions. |
 | \[1034. | Repealed.\] |
@@ -15,12 +15,14 @@
 | [1041\.](%C2%A7%2001041%20-%20Transfers%20of%20property%20between%20spouses%20or%20incident%20to%20divorce.md) | Transfers of property between spouses or incident to divorce. |
 | [1042\.](%C2%A7%2001042%20-%20Sales%20of%20stock%20to%20employee%20stock%20ownership%20plans%20or%20certain%20cooperatives.md) | Sales of stock to employee stock ownership plans or certain cooperatives. |
 | [1043\.](%C2%A7%2001043%20-%20Sale%20of%20property%20to%20comply%20with%20conflict-of-interest%20requirements.md) | Sale of property to comply with conflict-of-interest requirements. |
-| [1044\.](%C2%A7%2001044%20-%20Rollover%20of%20publicly%20traded%20securities%20gain%20into%20specialized%20small%20business%20investment%20companies.md) | Rollover of publicly traded securities gain into specialized small business investment companies. |
+| \[1044. | Repealed.\] |
 | [1045\.](%C2%A7%2001045%20-%20Rollover%20of%20gain%20from%20qualified%20small%20business%20stock%20to%20another%20qualified%20small%20business%20stock.md) | Rollover of gain from qualified small business stock to another qualified small business stock. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§13303(b)(6), 13313(a), Dec. 22, 2017, 131 Stat. 2124, 2133, substituted "Exchange of real property held for productive use or investment" for "Exchange of property held for productive use or investment" in item 1031 and struck out item 1044 "Rollover of publicly traded securities gain into specialized small business investment companies".
 
 <b>2010</b>—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(d)(2), had never been enacted. See 2001 Amendment note below.
 
@@ -57,7 +59,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01031 - Exchange of property held for productive use or investment](%C2%A7%2001031%20-%20Exchange%20of%20property%20held%20for%20productive%20use%20or%20investment.md)
+- [&sect; 01031 - Exchange of real property held for productive use or investment](%C2%A7%2001031%20-%20Exchange%20of%20real%20property%20held%20for%20productive%20use%20or%20investment.md)
 - [&sect; 01032 - Exchange of stock for property](%C2%A7%2001032%20-%20Exchange%20of%20stock%20for%20property.md)
 - [&sect; 01033 - Involuntary conversions](%C2%A7%2001033%20-%20Involuntary%20conversions.md)
 - [&sect; 01034 - Repealed. Pub. L. 105&#8211;34, title III, &sect;312(b), Aug. 5, 1997, 111 Stat. 839](%C2%A7%2001034%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9334%2C%20title%20III%2C%20%C2%A7312%28b%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20839.md)
@@ -70,5 +72,5 @@
 - [&sect; 01041 - Transfers of property between spouses or incident to divorce](%C2%A7%2001041%20-%20Transfers%20of%20property%20between%20spouses%20or%20incident%20to%20divorce.md)
 - [&sect; 01042 - Sales of stock to employee stock ownership plans or certain cooperatives](%C2%A7%2001042%20-%20Sales%20of%20stock%20to%20employee%20stock%20ownership%20plans%20or%20certain%20cooperatives.md)
 - [&sect; 01043 - Sale of property to comply with conflict-of-interest requirements](%C2%A7%2001043%20-%20Sale%20of%20property%20to%20comply%20with%20conflict-of-interest%20requirements.md)
-- [&sect; 01044 - Rollover of publicly traded securities gain into specialized small business investment companies](%C2%A7%2001044%20-%20Rollover%20of%20publicly%20traded%20securities%20gain%20into%20specialized%20small%20business%20investment%20companies.md)
+- [&sect; 01044 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13313(a), Dec. 22, 2017, 131 Stat. 2133](%C2%A7%2001044%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713313%28a%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202133.md)
 - [&sect; 01045 - Rollover of gain from qualified small business stock to another qualified small business stock](%C2%A7%2001045%20-%20Rollover%20of%20gain%20from%20qualified%20small%20business%20stock%20to%20another%20qualified%20small%20business%20stock.md)

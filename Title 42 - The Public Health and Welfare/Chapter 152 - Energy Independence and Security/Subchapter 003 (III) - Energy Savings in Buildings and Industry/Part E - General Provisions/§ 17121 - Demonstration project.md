@@ -72,7 +72,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(vii) the demonstrated capacity of at least 1 university to have been recognized by similar institutions as a national leader in sustainability education and curriculum for students of the university; and
 
-&emsp;&emsp;(B) each university shall be located in a different climatic region of the United States, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
+&emsp;&emsp;(B) each university shall be located in a different climatic region of the UnitedStates, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
 
 &emsp;&emsp;&emsp;(i) a hot, dry climate;
 
@@ -105,6 +105,10 @@ There is authorized to be appropriated to carry out the demonstration project de
 This title, referred to in subsec. (b), is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§2695 et seq.) of chapter 53 of Title 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

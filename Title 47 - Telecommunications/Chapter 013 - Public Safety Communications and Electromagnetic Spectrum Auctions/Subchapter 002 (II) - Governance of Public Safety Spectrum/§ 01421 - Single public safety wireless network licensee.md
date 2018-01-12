@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, and subject to the provisions of thi
 
 #### (2) Renewal of license
 
-&emsp;Prior to expiration of the term of the initial license granted under subsection (a) or the expiration of any subsequent renewal of such license, the First Responder Network Authority shall submit to the Commission an application for the renewal of such license. Such renewal application shall demonstrate that, during the preceding license term, the First Responder Network Authority has met the duties and obligations set forth under this chapter. A renewal license granted under this paragraph shall be for a term of not to exceed 10 years.
+&emsp;Prior to expiration of the term of the initial license granted under subsection (a) or the expiration of any subsequent renewal of such license, the First Responder Network Authority shall submit to the Commission an application for the renewal of such license. Such renewal application shall demonstrate that, during thepreceding license term, the First Responder Network Authority has met the duties and obligations set forth under this chapter. A renewal license granted under this paragraph shall be for a term of not to exceed 10 years.
 
 #### (c) Facilitation of transition
 

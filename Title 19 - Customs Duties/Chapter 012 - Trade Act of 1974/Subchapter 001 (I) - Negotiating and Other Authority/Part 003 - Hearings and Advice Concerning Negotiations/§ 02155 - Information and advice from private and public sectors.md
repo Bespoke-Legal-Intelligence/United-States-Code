@@ -66,7 +66,7 @@
 
 #### (d) Policy, technical, and other advice and information
 
-Committees established under subsection (c) shall meet at the call of the United States Trade Representative and the Secretaries of Agriculture, Commerce, Labor, Defense, or other executive departments, as appropriate, to provide policy advice, technical advice and information,and advice on other factors relevant to the matters referred to in subsection (a).
+Committees established under subsection (c) shall meet at the call of the United States Trade Representative and the Secretaries of Agriculture, Commerce, Labor, Defense, or other executive departments, as appropriate, to provide policy advice, technical advice and information, and advice on other factors relevant to the matters referred to in subsection (a).
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
@@ -206,7 +206,7 @@ Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also
 
 Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted "each sector or functional advisory committee, if the sector or area" for "each sector advisory committee, if the sector", "appropriate sector or functional area" for "appropriate sector", and "within the sector or within the functional area" for "within the sector", and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
-Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted "committees" for "groups" and "with respectto matters referred to in subsection (a) of this section" for "on the negotiation of any trade agreement".
+Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted "committees" for "groups" and "with respect to matters referred to in subsection (a) of this section" for "on the negotiation of any trade agreement".
 
 Subsec. (g). Pub. L. 96–39, §1103(16), (17)(A), (B), substituted in par. (1)(A) "matters referred to in subsection (a) of this section" for "a trade agreement referred to in section 2111 or 2112 of this title", in par. (1)(B) "matters referred to in subsection (a) of this section" for "trade negotiations", and in par. (2) "matters referred to in subsection (a) of this title" for "proposed trade agreements".
 
@@ -262,7 +262,7 @@ Sec. 3. <i>Functions</i>. (a) The Committee shall provide the Trade Representati
 
 (d) The Committee shall report its activities to the Trade Representative, or his designee.
 
-Sec. 4. <i>Administration</i>. (a) The Trade Representative, or his designee, with the advice of the Chairman, shall be responsible for prior approval of the agendas for all Committee meetings.
+Sec. 4. <i>Administration</i>. (a) The Trade Representative, or his designee, with the advice of the Chairman, shallbe responsible for prior approval of the agendas for all Committee meetings.
 
 (b) The Trade Representative, or his designee, shall be responsible for determinations, filings, and other administrative requirements of the Federal Advisory Committee Act.
 
@@ -280,9 +280,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord.No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Trade and Environment Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 
-Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, as amended by Pub. L. 102–25, title VII, §704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that the Secretaries of the military departments were to make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after Nov. 5, 1990, and that for each of the firstthree years after Nov. 5, 1990, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under section 1762 of this title was to include the number of critical acquisition positions filled by Acquisition Corps members.
+Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, as amended by Pub. L. 102–25, title VII, §704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that the Secretaries of the military departments were to make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after Nov. 5, 1990, and that for each of the first three years after Nov. 5, 1990, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under section 1762 of this title was to include the number of critical acquisition positions filled by Acquisition Corps members.
 
 #### Publication of List of Critical Acquisition Positions
 

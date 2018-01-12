@@ -20,3 +20,7 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 <b>1981</b>—Par. (3). Pub. L. 97–58 substituted "contracts or agreements with, or provide such grants to, other organizations" for "contracts or agreements with other organizations".
 
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
+

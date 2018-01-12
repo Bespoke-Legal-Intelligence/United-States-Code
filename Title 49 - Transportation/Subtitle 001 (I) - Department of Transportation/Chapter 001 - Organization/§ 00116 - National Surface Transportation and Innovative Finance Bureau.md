@@ -96,7 +96,7 @@ Review.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Comptroller General of the United States shall review the compliance of the Executive Director with the requirements of this paragraph.
+In general.—The Comptroller General of the United States shall review thecompliance of the Executive Director with the requirements of this paragraph.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -190,7 +190,7 @@ Project Procurement.—
 
 &emsp;(1)
 
-In general.—The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within the Department as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
+In general.—The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within theDepartment as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
 
 &emsp;(2)
 
@@ -208,7 +208,7 @@ Data collection.—The Bureau shall—
 
 &emsp;&emsp;(A) collect information related to procurement benchmarks developed under paragraph (1), including project specific information detailed under paragraph (2); and
 
-&emsp;&emsp;(B) provide on a publicly accessible Internet Web site of the Department a report onthe information collected under subparagraph (A).
+&emsp;&emsp;(B) provide on a publicly accessible Internet Web site of the Department a report on the information collected under subparagraph (A).
 
 (h)
 

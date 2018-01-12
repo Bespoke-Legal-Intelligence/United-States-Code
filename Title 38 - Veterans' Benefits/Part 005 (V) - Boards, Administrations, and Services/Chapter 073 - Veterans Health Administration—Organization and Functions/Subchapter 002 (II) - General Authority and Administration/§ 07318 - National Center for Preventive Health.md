@@ -8,7 +8,7 @@
 
 (b) The purposes of the Center are the following:
 
-&emsp;(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to the provision, evaluation, and improvement of preventive health services.
+&emsp;(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to theprovision, evaluation, and improvement of preventive health services.
 
 &emsp;(2) To promote the expansion and improvement of clinical, research, and educational activities of the Veterans Health Administration with respect to such services.
 
@@ -30,7 +30,7 @@
 
 &emsp;(4) Facilitate the optimal use of the unique resources of the Department for cooperative research into health outcomes by initiating recommendations, and responding to requests of the Under Secretary for Health and the Director of the Medical and Prosthetic Research Service, for such research into preventive health services.
 
-&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respectto the planning or furnishing of preventive health services by such personnel.
+&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respect to the planning or furnishing of preventive health services by such personnel.
 
 (d) There is authorized to be appropriated $1,500,000 to the Medical Care General and Special Fund of the Department of Veterans Affairs for each fiscal year for the purpose of permitting the National Center for Preventive Health to carry out research, clinical, educational, and administrative activities under this section. Such activities shall be considered to be part of the operation of health-care facilities of the Department without regard to the location at which such activities are carried out.
 

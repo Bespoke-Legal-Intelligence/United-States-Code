@@ -162,7 +162,7 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 #### (l) Authorization of appropriations
 
-(1) There are authorized to be appropriated to the Department of the Interior, for the purposes of carrying out this section, not to exceed $400,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
+(1) There are authorized to be appropriated to the Department of the Interior, for the purposesof carrying out this section, not to exceed $400,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
 (2) There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
@@ -209,6 +209,10 @@ Subsecs. (e) to (j). Pub. L. 97–58, §4(a)(2), added subsecs. (e) to (j).
 Subsecs. (k), (l). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) and (d) as (k) and (l), respectively.
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–316 added subsec. (d).
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 #### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
 

@@ -12,7 +12,7 @@ Not later than 30 days after the date of cancellation or termination of a privat
 
 #### (1) In general
 
-&emsp;If a servicer determines that a mortgage did not meet the requirements for termination or cancellation of private mortgage insurance under subsection (a) or (b) of section 4902 of this title, the servicer shall provide written notice to the mortgagor of the grounds relied on to make the determination (including the results of any appraisal used to make the determination).
+&emsp;If a servicer determines that a mortgage did not meet the requirements for termination or cancellation of private mortgage insurance under subsection (a) or (b) of section 4902 of this title, the servicer shall provide writtennotice to the mortgagor of the grounds relied on to make the determination (including the results of any appraisal used to make the determination).
 
 #### (2) Timing
 

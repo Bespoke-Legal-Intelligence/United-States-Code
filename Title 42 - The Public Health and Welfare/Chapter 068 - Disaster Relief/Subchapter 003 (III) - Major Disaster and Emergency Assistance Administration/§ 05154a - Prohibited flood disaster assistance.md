@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 For purposes of this section, the term "flood disaster area" means an area with respect to which—
 
-&emsp;(1) the Secretary of Agriculture finds, or has found, to have been substantially affected by anatural disaster in the United States pursuant to section 1961(a) of title 7; or
+&emsp;(1) the Secretary of Agriculture finds, or has found, to have been substantially affected by a natural disaster in the United States pursuant to section 1961(a) of title 7; or
 
 &emsp;(2) the President declares, or has declared, the existence of a major disaster or emergency pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), as a result of flood conditions existing in or affecting that area.
 
@@ -58,5 +58,5 @@ The amendments made by this section, referred to in subsec. (e), means the amend
 
 Section is comprised of section 582 of Pub. L. 103–325. Subsec. (c) of section 582 of Pub. L. 103–325 amended section 4012a of this title.
 
-Section was enacted as part of the National Flood Insurance Reform Act of 1994 and as part of the Riegle Community Development and Regulatory Improvement Act of 1994, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as part of the National Flood Insurance Reform Act of 1994 and as part of the RiegleCommunity Development and Regulatory Improvement Act of 1994, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 

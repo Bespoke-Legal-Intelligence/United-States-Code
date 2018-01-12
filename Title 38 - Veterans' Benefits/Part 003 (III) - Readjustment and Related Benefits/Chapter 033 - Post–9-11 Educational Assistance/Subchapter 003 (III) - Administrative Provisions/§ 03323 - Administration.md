@@ -58,3 +58,7 @@ Uniformity.—Any regulations prescribed by the Secretary of Defense for purpose
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–377 substituted "sections 3034(a)(1) and 3680(c)" for "section 3034(a)(1)".
 
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+

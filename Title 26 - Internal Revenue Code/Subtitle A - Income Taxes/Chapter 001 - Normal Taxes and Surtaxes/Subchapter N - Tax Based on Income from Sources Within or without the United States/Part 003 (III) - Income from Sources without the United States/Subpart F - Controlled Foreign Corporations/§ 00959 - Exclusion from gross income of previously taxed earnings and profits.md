@@ -26,7 +26,7 @@ For purposes of subsections (a) and (b), section 316(a) shall be applied by appl
 
 > &emsp;with any distribution being allocated between earnings and profits described in subparagraph (A) and earnings and profits described in subparagraph (B) proportionately on the basis of the respective amounts of such earnings and profits,
 
-&emsp;(2) then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under subparagraph (B) or (C) of section 951(a)(1) because of the exclusions in paragraphs (2) and (3) of subsection (a) of this section), and
+&emsp;(2) then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under subparagraph (B) or (C) of section 951(a)(1) because of the exclusions inparagraphs (2) and (3) of subsection (a) of this section), and
 
 &emsp;(3) then to other earnings and profits.
 
@@ -34,11 +34,11 @@ For purposes of subsections (a) and (b), section 316(a) shall be applied by appl
 
 #### (d) Distributions excluded from gross income not to be treated as dividends
 
-Except as provided in section 960(a)(3), any distribution excluded from gross income under subsection (a) shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distributions shall immediately reduce earnings and profits.
+Any distribution excluded from gross income under subsection (a) shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distributions shall immediately reduce earnings and profits.
 
 #### (e) Coordination with amounts previously taxed under section 1248
 
-For purposes of this section and section 960(b), any amount included in the gross income of any person as a dividend by reason of subsection (a) or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
+For purposes of this section and section 960(c), any amount included in the gross income of any person as a dividend by reason of subsection (a) or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
 
 #### (f) Allocation rules for certain inclusions
 
@@ -50,7 +50,7 @@ For purposes of this section and section 960(b), any amount included in the gros
 
 &emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 115–97, title I, §14301(c)(32), (33), Dec. 22, 2017, 131 Stat. 2224.)
 
 #### References in Text
 
@@ -58,13 +58,17 @@ The date of the enactment of the Small Business Job Protection Act of 1996, refe
 
 #### Amendments
 
+<b>2017</b>—Subsec. (d). Pub. L. 115–97, §14301(c)(32), substituted "Any" for "Except as provided in section 960(a)(3), any".
+
+Subsec. (e). Pub. L. 115–97, §14301(c)(33), substituted "section 960(c)" for "section 960(b)".
+
 <b>1996</b>—Subsec. (a). Pub. L. 104–188, §1501(b)(4), (5), substituted "paragraph (2)" for "paragraphs (2) and (3)" in closing provisions, inserted "or" at end of par. (1), struck out "or" at end of par. (2), and struck out par. (3) which read as follows: "such amounts would, but for this subsection, be included under section 951(a)(1)(C) in the gross income of,".
 
 Subsec. (c). Pub. L. 104–188, §1501(b)(6), inserted at end "References in this subsection to section 951(a)(1)(C) and subsection (a)(3) shall be treated as references to such provisions as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996."
 
 Subsec. (f)(1). Pub. L. 104–188, §1501(b)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this section—
 
-&emsp;"(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined withoutregard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
+&emsp;"(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
 
 &emsp;"(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3)."
 
@@ -90,9 +94,13 @@ Subsec. (f). Pub. L. 103–66, §13231(c)(2)(B), added subsec. (f).
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31,1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 

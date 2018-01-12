@@ -6,7 +6,7 @@ Whoever, being an officer or employee of the United States or of any department 
 
 #### Historical and Revision Notes
 
-Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
+Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.;section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
 
 Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
 
@@ -20,7 +20,7 @@ Minor changes were made in translations and phraseology.
 
 #### References in Text
 
-The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 #### Amendments
 

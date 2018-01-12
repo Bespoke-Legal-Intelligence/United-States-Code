@@ -74,7 +74,7 @@
 
 > &emsp;&emsp;and the President promptly furnishes a copy of such determination to the Senate and House of Representatives.
 
-&emsp;&emsp;(E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens,which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
+&emsp;&emsp;(E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
 
 &emsp;&emsp;(F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
 
@@ -118,7 +118,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (3) Advice to Congress
 
-&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
+&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 ofthis title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
 
 #### (e) Mandatory graduation of beneficiary developing countries
 
@@ -138,7 +138,7 @@ If the President determines that a beneficiary developing country has become a "
 
 #### (2) Notification of termination
 
-&emsp;If the President has designated any country as a beneficiary developing country under thissubchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
+&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
 
 (Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538; Pub. L. 106–200, title IV, §412(a), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(a), Aug. 6, 2002, 116 Stat. 1040.)
 
@@ -159,6 +159,10 @@ Subsec. (b)(2)(H). Pub. L. 106–200, §412(a)(1), added subpar. (H).
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–295, §35(b), Oct. 11, 1996, 110 Stat. 3538, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1996."
+
+#### Effective Date
+
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under section 2461 of this title.
 
 #### Delegation of Functions
 

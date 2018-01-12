@@ -54,7 +54,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (C) Forbearance
 
-&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligationfor the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
+&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
 
 #### (2) Subrogation
 
@@ -90,7 +90,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
+&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretarydetermines are sufficient to cover applicable administrative expenses.
 
 #### (2) Availability
 
@@ -186,7 +186,7 @@ In this section:
 
 #### (3) Innovative technology
 
-&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
+&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the UnitedStates at the time the loan guarantee is issued.
 
 #### (4) Loan guarantee
 

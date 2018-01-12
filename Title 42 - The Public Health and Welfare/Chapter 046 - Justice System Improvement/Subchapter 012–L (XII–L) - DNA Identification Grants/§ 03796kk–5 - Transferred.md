@@ -1,0 +1,6 @@
+### §3796kk–5. Transferred
+
+#### Codification
+
+Section 3796kk–5 was editorially reclassified as section 10516 of Title 34, Crime Control and Law Enforcement.
+

@@ -1,6 +1,6 @@
 ### §8163. Hearing and notice requirements regarding proposed leases
 
-(a) If the Secretary proposes to enter into an enhanced-use lease with respect to certain property, the Secretary shall conduct a public hearing before entering into the lease. The hearing shall be conducted in the community in which the property is located. At the hearing, the Secretary shall receive the views of veterans service organizations and other interested parties regarding the proposed lease of the property and the possible effects of the uses to be made of the property under a lease of the general character then contemplated. The possible effects to be addressed at the hearing shall include effects on—
+(a) If the Secretary proposes to enter into an enhanced-use lease with respect to certain property, the Secretary shall conduct a public hearing before entering into the lease. The hearing shall be conducted in the community in which the property is located. At the hearing, the Secretary shall receive the views of veterans serviceorganizations and other interested parties regarding the proposed lease of the property and the possible effects of the uses to be made of the property under a lease of the general character then contemplated. The possible effects to be addressed at the hearing shall include effects on—
 
 &emsp;(1) local commerce and other aspects of the local community;
 
@@ -76,7 +76,7 @@ Subsec. (a). Pub. L. 108–170, §202(a)(1), in first sentence, substituted "ent
 
 Subsec. (b). Pub. L. 108–170, §202(a)(2), substituted "to the congressional veterans' affairs committees and to the public of the proposed lease" for "of the proposed designation" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 108–170, §202(a)(3)(A), substituted "enter into an enhanced-use lease of the property involved" for "designate the property involved" and "to enter into such lease" for "to so designate the property".
+Subsec. (c)(1). Pub. L. 108–170, §202(a)(3)(A), substituted "enter into an enhanced-use lease of the property involved" for "designate the property involved"and "to enter into such lease" for "to so designate the property".
 
 Subsec. (c)(2). Pub. L. 108–170, §202(a)(3)(B), substituted "45-day period" for "90-day period".
 

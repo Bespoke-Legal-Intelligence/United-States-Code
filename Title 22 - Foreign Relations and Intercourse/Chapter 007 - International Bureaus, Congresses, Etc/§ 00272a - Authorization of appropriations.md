@@ -2,7 +2,7 @@
 
 There is hereby authorized to be appropriated annually to the Department of State—
 
-&emsp;(a) such sums as may be necessary for the payments by the United States of its share of the expenses of the Organization, but not to exceed 25 per centum of such expenses, as apportioned by the International Labour Conference in accordance with article 13(2)(c) and 13(3) of the constitution of the Organization; and
+&emsp;(a) such sums as may be necessary for the payments by the United States of its share of the expenses of the Organization, but not toexceed 25 per centum of such expenses, as apportioned by the International Labour Conference in accordance with article 13(2)(c) and 13(3) of the constitution of the Organization; and
 
 &emsp;(b) such additional sums as may be necessary to pay the expenses incident to participation by the United States in the activities of the Organization, including—
 

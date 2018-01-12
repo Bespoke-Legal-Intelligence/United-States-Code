@@ -2,7 +2,7 @@
 
 #### (a) Eligibility generally
 
-A participant in a national service program carried out using assistance provided to an applicant under section 12571 of this title shall be eligible for the national service educationalaward described in division D if the participant—
+A participant in a national service program carried out using assistance provided to an applicant under section 12571 of this title shall be eligible for the national service educational award described in division D if the participant—
 
 &emsp;(1) serves in an approved national service position; and
 

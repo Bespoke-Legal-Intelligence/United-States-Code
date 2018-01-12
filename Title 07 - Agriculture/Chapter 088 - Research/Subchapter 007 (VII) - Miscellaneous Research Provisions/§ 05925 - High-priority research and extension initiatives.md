@@ -8,7 +8,7 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") ma
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+&emsp;Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of grants under this section.
 
 #### (2) Use of task forces
 
@@ -22,7 +22,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (1) Dairy financial risk management research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of providingresearch, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
+&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
 #### (2) Potato research and extension
 
@@ -112,7 +112,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (3) Administration
 
-&emsp;Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a competitive grant under this subsection.
+&emsp;Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of a competitive grant under this subsection.
 
 #### (4) Priorities
 
@@ -130,7 +130,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (1) In general
 
-&emsp;The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the "Comprehensive Food Safety Training Network" (referred to in this subsection as the "Network").
+&emsp;The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the "Comprehensive Food Safety TrainingNetwork" (referred to in this subsection as the "Network").
 
 #### (2) Eligibility
 
@@ -220,7 +220,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
-&emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
+&emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System landswhere compatible with other natural resource management priorities; and
 
 &emsp;&emsp;(B) planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
 
@@ -382,7 +382,7 @@ Pub. L. 108–465, title III, §301, Dec. 21, 2004, 118 Stat. 3885, provided tha
 
 "(a)
 
-Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to thegrower or processor associated with any alternatives proposed.
+Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to the grower or processor associated with any alternatives proposed.
 
 "(b)
 
@@ -458,7 +458,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to road and other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
 
-(b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline,utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
+(b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline, utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
 
 (c) Task Force member agencies shall incorporate pollinator health as a component of all future restoration and reclamation projects, as appropriate, including all annual restoration plans.
 
@@ -468,7 +468,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (f) The Departments of Agriculture and the Interior shall establish a reserve of native seed mixes, including pollinator-friendly plants, for use on post-fire rehabilitation projects and other restoration activities.
 
-(g) The Department of Agriculture shall, as appropriate and consistent with applicable law, substantially increase both the acreage and forage value of pollinator habitat in the Department's conservation programs, including the Conservation Reserve Program, and provide technical assistance, through collaboration with the land-grant university-based cooperative extension services, to executive departments and agencies, State, local, and tribal governments, and other entities and individuals, including farmers and ranchers, in planting the most suitable pollinator-friendly habitats.
+(g) The Department of Agriculture shall, as appropriate and consistent with applicable law, substantially increase both the acreage and forage value of pollinator habitat in the Department's conservation programs, including the Conservation Reserve Program, and provide technical assistance, through collaboration with the land-grant university-based cooperative extension services, to executive departments and agencies, State,local, and tribal governments, and other entities and individuals, including farmers and ranchers, in planting the most suitable pollinator-friendly habitats.
 
 (h) The Department of the Interior shall assist States and State wildlife organizations, as appropriate, in identifying and implementing projects to conserve pollinators at risk of endangerment and further pollinator conservation through the revision and implementation of individual State Wildlife Action Plans. The Department of the Interior shall, upon request, provide technical support for these efforts, and keep the Task Force apprised of such collaborations.
 

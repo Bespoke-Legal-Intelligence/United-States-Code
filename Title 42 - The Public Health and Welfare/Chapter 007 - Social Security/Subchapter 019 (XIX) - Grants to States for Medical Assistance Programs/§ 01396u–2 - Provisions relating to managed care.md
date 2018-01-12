@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements described in the succeeding paragraphs of this subsection are met; and
 
-&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entities under the State plan if such restriction does not substantially impair access to services.
+&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entitiesunder the State plan if such restriction does not substantially impair access to services.
 
 #### (B) "Managed care entity" defined
 
@@ -140,7 +140,7 @@
 
 #### (iv) Information on covered items and services
 
-&emsp;&emsp;&emsp;All items and services that are available to enrollees under the contract betweenthe State and the organization that are covered either directly or through a method of referral and prior authorization. Each managed care entity that is a primary care case manager shall, upon request, make available to enrollees and potential enrollees in the organization's service area the information described in clause (iii).
+&emsp;&emsp;&emsp;All items and services that are available to enrollees under the contract between the State and the organization that are covered either directly or through a method of referral and prior authorization. Each managed care entity that is a primary care case manager shall, upon request, make available to enrollees and potential enrollees in the organization's service area the information described in clause (iii).
 
 #### (C) Comparative information
 
@@ -206,7 +206,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), under a contract under section 1396b(m) of this title a medicaid managed care organization (in relation to an individual enrolledunder the contract) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the contract, if the professional is acting within the lawful scope of practice.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), under a contract under section 1396b(m) of this title a medicaid managed care organization (in relation to an individual enrolled under the contract) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the contract, if the professional is acting within the lawful scope of practice.
 
 #### (B) Construction
 
@@ -262,7 +262,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a State provides for contracts with medicaid managed care organizations under section 1396b(m) of this title, the State shall develop and implement a quality assessmentand improvement strategy consistent with this paragraph. Such strategy shall include the following:
+&emsp;&emsp;If a State provides for contracts with medicaid managed care organizations under section 1396b(m) of this title, the State shall develop and implement a quality assessment and improvement strategy consistent with this paragraph. Such strategy shall include the following:
 
 #### (i) Access standards
 
@@ -330,7 +330,7 @@
 
 &emsp;&emsp;&emsp;(i) have a person described in subparagraph (C) as a director, officer, partner, or person with beneficial ownership of more than 5 percent of the entity's equity, or
 
-&emsp;&emsp;&emsp;(ii) have an employment, consulting, or other agreement with a person describedin such subparagraph for the provision of items and services that are significant and material to the entity's obligations under its contract with the State.
+&emsp;&emsp;&emsp;(ii) have an employment, consulting, or other agreement with a person described in such subparagraph for the provision of items and services that are significant and material to the entity's obligations under its contract with the State.
 
 #### (B) Effect of noncompliance
 
@@ -494,7 +494,7 @@
 
 #### (f) Timeliness of payment; adequacy of payment for primary care services
 
-A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
+A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which suchpayments are made, including in the form of capitation or partial capitation).
 
 #### (g) Identification of patients for purposes of making DSH payments
 
@@ -526,7 +526,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;&emsp;(i) demonstrate that the number of Indian health care providers that are participating providers with respect to such entity are sufficient to ensure timely access to covered Medicaid managed care services for those Indian enrollees who are eligible to receive services from such providers; and
 
-&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to thoseIndian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
+&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
 
 > &emsp;&emsp;The Secretary shall establish procedures for applying the requirements of clause (i) in States where there are no or few Indian health providers.
 
@@ -548,7 +548,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (ii) Payment rate for services provided by certain Indian health care providers
 
-&emsp;&emsp;&emsp;If the amount paid by a managed care entity to an Indian health care provider that is not a federally-qualified health center for services provided by the provider to an Indian enrollee with the managed care entity is less than the rate that applies to the provision of such services by the provider under the State plan, the plan shall provide for payment to the Indian health care provider, whether the provider is a participating or nonparticipating provider with respect to the entity, of the difference between such applicable rate and the amount paid by the managed care entity to the provider for such services.
+&emsp;&emsp;&emsp;If the amount paid by a managed care entity to an Indian health care provider that is not a federally-qualified health center for services provided by the provider to an Indian enrollee with the managed care entity is less than the rate thatapplies to the provision of such services by the provider under the State plan, the plan shall provide for payment to the Indian health care provider, whether the provider is a participating or nonparticipating provider with respect to the entity, of the difference between such applicable rate and the amount paid by the managed care entity to the provider for such services.
 
 #### (D) Construction
 
@@ -582,7 +582,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;The term "Medicaid managed care program" means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a),4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193.)
 
 #### References in Text
 

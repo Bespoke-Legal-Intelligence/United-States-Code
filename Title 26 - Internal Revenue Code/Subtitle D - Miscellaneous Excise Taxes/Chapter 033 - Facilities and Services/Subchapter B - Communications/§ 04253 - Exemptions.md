@@ -18,7 +18,7 @@ No tax shall be imposed under section 4251 on any payment received for any toll 
 
 #### (e) Items otherwise taxed
 
-Only one payment of tax under section 4251 shall be required with respect to the tax on anyservice, notwithstanding the lines or stations of one or more persons are used in furnishing such service.
+Only one payment of tax under section 4251 shall be required with respect to the tax on any service, notwithstanding the lines or stations of one or more persons are used in furnishing such service.
 
 #### (f) Common carriers and communications companies
 
@@ -36,9 +36,9 @@ No tax shall be imposed under section 4251 on any amount paid by a nonprofit hos
 
 Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 upon any payment received for services or facilities furnished to the government of any State, or any political subdivision thereof, or the District of Columbia.
 
-#### (j) Exception for nonprofit educational organizations
+#### (j) Exemption for nonprofit educational organizations
 
-Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax undersection 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 #### (k) Exemption for qualified blood collector organizations
 
@@ -62,13 +62,11 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
 
-#### Repeal
-
-<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
-
 #### Codification
 
 Section 1207(c) of Pub. L. 109–280, which directed the amendment of section 4253 without specifying the act to be amended, was executed to this section, which is section 4253 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+
+This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 #### Amendments
 
@@ -114,7 +112,7 @@ Subsec. (b). Pub. L. 85–859 substituted "general telephone service, on any pay
 
 Subsec. (c). Pub. L. 85–859 substituted "on any payment received for services furnished to an international organization, or to the American National Red Cross" for "upon any payment received for services or facilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864".
 
-Subsec. (d). Pub. L. 85–859 substituted "on any payment received for any toll telephone service" for "with respect to long distance telephone service upon any payment received for any telephone or radio telephone message".
+Subsec. (d). Pub. L. 85–859 substituted "on any payment received for any toll telephone service" for "with respect to long distance telephone service upon anypayment received for any telephone or radio telephone message".
 
 Subsec. (e). Pub. L. 85–859 substituted "toll telephone service, telegraph service, or teletypewriter exchange service" for "long distance telephone service or telegraph service" and "in furnishing such service" for "in the transmission of such dispatch, message or conversation".
 
@@ -164,7 +162,7 @@ Pub. L. 86–344, §4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L. 99
 
 "(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 
-"(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as wererendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
+"(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
 
 #### Effective Date of 1958 Amendment
 

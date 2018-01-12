@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services may designate a priority countermeasure as a fast-track product pursuant to section 356 ofthis title or as a device granted review priority pursuant to section 360e(d)(5) <sup>1</sup> of this title. Such a designation may be made prior to the submission of—
+The Secretary of Health and Human Services may designate a priority countermeasure as a fast-track product pursuant to section 356 of this title or as a device granted review priority pursuant to section 360e(d)(5) <sup>1</sup> of this title. Such a designation may be made prior to the submission of—
 
 &emsp;(1) a request for designation by the sponsor or applicant; or
 
@@ -16,7 +16,7 @@ A drug for which approval is sought under section 355(b) of this title or sectio
 
 #### (c) Priority review of drugs and biological products
 
-A priority countermeasure that is a drug or biological product shall be considered a priority drug or biological product for purposes of performance goals for priority drugs or biological products agreed to by the Commissioner of Food and Drugs.
+A priority countermeasure that is a drug or biological product shall be considered a prioritydrug or biological product for purposes of performance goals for priority drugs or biological products agreed to by the Commissioner of Food and Drugs.
 
 #### (d) Definitions
 

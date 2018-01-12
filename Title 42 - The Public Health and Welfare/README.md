@@ -72,7 +72,7 @@
 | [<b>43.</b>](Chapter%20043%20-%20Department%20of%20Health%20and%20Human%20Services/README.md) | <b>Department of Health and Human Services</b> | <b>3501</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Department%20of%20Housing%20and%20Urban%20Development/README.md) | <b>Department of Housing and Urban Development</b> | <b>3531</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Fair%20Housing/README.md) | <b>Fair Housing</b> | <b>3601</b> |
-| [<b>46.</b>](Chapter%20046%20-%20Justice%20System%20Improvement/README.md) | <b>Justice System Improvement</b> | <b>3701</b> |
+| [<b>46.</b>](Chapter%20046%20-%20Justice%20System%20Improvement/README.md) | <b>Justice System Improvement \[Repealed, Transferred, or Omitted\]</b> | <b>3701</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Juvenile%20Delinquency%20Prevention%20and%20Control/README.md) | <b>Juvenile Delinquency Prevention and Control \[Omitted or Repealed\]</b> | <b>3801</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Guarantees%20for%20Financing%20New%20Community%20Land%20Development/README.md) | <b>Guarantees for Financing New Community Land Development \[Repealed or Omitted\]</b> | <b>3901</b> |
 | [<b>49.</b>](Chapter%20049%20-%20National%20Housing%20Partnerships/README.md) | <b>National Housing Partnerships</b> | <b>3931</b> |
@@ -100,7 +100,7 @@
 | [<b>69.</b>](Chapter%20069%20-%20Community%20Development/README.md) | <b>Community Development</b> | <b>5301</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Manufactured%20Home%20Construction%20and%20Safety%20Standards/README.md) | <b>Manufactured Home Construction and Safety Standards</b> | <b>5401</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Solar%20Energy/README.md) | <b>Solar Energy</b> | <b>5501</b> |
-| [<b>72.</b>](Chapter%20072%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention/README.md) | <b>Juvenile Justice and Delinquency Prevention</b> | <b>5601</b> |
+| [<b>72.</b>](Chapter%20072%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention/README.md) | <b>Juvenile Justice and Delinquency Prevention \[Repealed or Transferred\]</b> | <b>5601</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Development%20of%20Energy%20Sources/README.md) | <b>Development of Energy Sources</b> | <b>5801</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Nonnuclear%20Energy%20Research%20and%20Development/README.md) | <b>Nonnuclear Energy Research and Development</b> | <b>5901</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Programs%20for%20Individuals%20with%20Developmental%20Disabilities/README.md) | <b>Programs for Individuals With Developmental Disabilities \[Repealed\]</b> | <b>6000</b> |
@@ -141,8 +141,8 @@
 | [<b>109A.</b>](Chapter%20109A%20-%20Membrane%20Processes%20Research/README.md) | <b>Membrane Processes Research</b> | <b>10341</b> |
 | [<b>109B.</b>](Chapter%20109B%20-%20Secure%20Water/README.md) | <b>Secure Water</b> | <b>10361</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Family%20Violence%20Prevention%20and%20Services/README.md) | <b>Family Violence Prevention and Services</b> | <b>10401</b> |
-| [<b>111.</b>](Chapter%20111%20-%20Emergency%20Federal%20Law%20Enforcement%20Assistance/README.md) | <b>Emergency Federal Law Enforcement Assistance</b> | <b>10501</b> |
-| [<b>112.</b>](Chapter%20112%20-%20Victim%20Compensation%20and%20Assistance/README.md) | <b>Victim Compensation and Assistance</b> | <b>10601</b> |
+| [<b>111.</b>](Chapter%20111%20-%20Emergency%20Federal%20Law%20Enforcement%20Assistance/README.md) | <b>Emergency Federal Law Enforcement Assistance \[Repealed or Transferred\]</b> | <b>10501</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Victim%20Compensation%20and%20Assistance/README.md) | <b>Victim Compensation and Assistance \[Repealed or Transferred\]</b> | <b>10601</b> |
 | [<b>113.</b>](Chapter%20113%20-%20State%20Justice%20Institute/README.md) | <b>State Justice Institute</b> | <b>10701</b> |
 | [<b>114.</b>](Chapter%20114%20-%20Protection%20and%20Advocacy%20for%20Individuals%20with%20Mental%20Illness/README.md) | <b>Protection and Advocacy for Individuals With Mental Illness</b> | <b>10801</b> |
 | [<b>115.</b>](Chapter%20115%20-%20Child%20Development%20Associate%20Scholarship%20Assistance%20Program/README.md) | <b>Child Development Associate Scholarship Assistance Program</b> | <b>10901</b> |
@@ -162,31 +162,31 @@
 | [<b>129.</b>](Chapter%20129%20-%20National%20and%20Community%20Service/README.md) | <b>National and Community Service</b> | <b>12501</b> |
 | [<b>130.</b>](Chapter%20130%20-%20National%20Affordable%20Housing/README.md) | <b>National Affordable Housing</b> | <b>12701</b> |
 | [<b>131.</b>](Chapter%20131%20-%20Housing%20Opportunities%20for%20Persons%20with%20AIDS/README.md) | <b>Housing Opportunities for Persons With AIDS</b> | <b>12901</b> |
-| [<b>132.</b>](Chapter%20132%20-%20Victims%20of%20Child%20Abuse/README.md) | <b>Victims of Child Abuse</b> | <b>13001</b> |
+| [<b>132.</b>](Chapter%20132%20-%20Victims%20of%20Child%20Abuse/README.md) | <b>Victims of Child Abuse \[Repealed, Transferred, or Omitted\]</b> | <b>13001</b> |
 | [<b>133.</b>](Chapter%20133%20-%20Pollution%20Prevention/README.md) | <b>Pollution Prevention</b> | <b>13101</b> |
 | [<b>134.</b>](Chapter%20134%20-%20Energy%20Policy/README.md) | <b>Energy Policy</b> | <b>13201</b> |
 | [<b>135.</b>](Chapter%20135%20-%20Residency%20and%20Service%20Requirements%20in%20Federally%20Assisted%20Housing/README.md) | <b>Residency and Service Requirements in Federally Assisted Housing</b> | <b>13601</b> |
-| [<b>136.</b>](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md) | <b>Violent Crime Control and Law Enforcement</b> | <b>13701</b> |
+| [<b>136.</b>](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md) | <b>Violent Crime Control and Law Enforcement \[Repealed, Transferred, or Omitted\]</b> | <b>13701</b> |
 | [<b>137.</b>](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md) | <b>Management of Rechargeable Batteries and Batteries Containing Mercury</b> | <b>14301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md) | <b>Assisted Suicide Funding Restriction</b> | <b>14401</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Volunteer%20Protection/README.md) | <b>Volunteer Protection</b> | <b>14501</b> |
-| [<b>140.</b>](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md) | <b>Criminal Justice Identification, Information, and Communication</b> | <b>14601</b> |
-| [<b>140A.</b>](Chapter%20140A%20-%20Jennifer%27s%20Law/README.md) | <b>Jennifer's Law</b> | <b>14661</b> |
+| [<b>140.</b>](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md) | <b>Criminal Justice Identification, Information, and Communication \[Transferred\]</b> | <b>14601</b> |
+| [<b>140A.</b>](Chapter%20140A%20-%20Jennifer%27s%20Law/README.md) | <b>Jennifer's Law \[Transferred or Omitted\]</b> | <b>14661</b> |
 | [<b>141.</b>](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md) | <b>Commercial Space Opportunities and Transportation Services \[Repealed or Transferred\]</b> | <b>14701</b> |
 | [<b>142.</b>](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md) | <b>Poison Control Center Enhancement and Awareness \[Repealed\]</b> | <b>14801</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Intercountry%20Adoptions/README.md) | <b>Intercountry Adoptions</b> | <b>14901</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor%20and%20Tributes/README.md) | <b>Public Safety Officer Medal of Valor and Tributes</b> | <b>15201</b> |
-| [<b>145A.</b>](Chapter%20145A%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery</b> | <b>15231</b> |
+| [<b>145A.</b>](Chapter%20145A%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery \[Transferred\]</b> | <b>15231</b> |
 | [<b>146.</b>](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md) | <b>Election Administration Improvement \[Transferred\]</b> | <b>15301</b> |
-| [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination</b> | <b>15601</b> |
+| [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination \[Transferred\]</b> | <b>15601</b> |
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
 | [<b>149.</b>](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md) | <b>National Energy Policy and Programs</b> | <b>15801</b> |
 | [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005 \[Repealed, Omitted, or Transferred\]</b> | <b>16601</b> |
-| [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety</b> | <b>16901</b> |
+| [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety \[Transferred\]</b> | <b>16901</b> |
 | [<b>152.</b>](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md) | <b>Energy Independence and Security</b> | <b>17001</b> |
-| [<b>153.</b>](Chapter%20153%20-%20Community%20Safety%20Through%20Recidivism%20Prevention/README.md) | <b>Community Safety Through Recidivism Prevention</b> | <b>17501</b> |
-| [<b>154.</b>](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md) | <b>Combating Child Exploitation</b> | <b>17601</b> |
+| [<b>153.</b>](Chapter%20153%20-%20Community%20Safety%20Through%20Recidivism%20Prevention/README.md) | <b>Community Safety Through Recidivism Prevention \[Transferred or Omitted\]</b> | <b>17501</b> |
+| [<b>154.</b>](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md) | <b>Combating Child Exploitation \[Transferred\]</b> | <b>17601</b> |
 | [<b>155.</b>](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md) | <b>Aeronautics and Space Activities \[Repealed, Omitted, or Transferred\]</b> | <b>17701</b> |
 | [<b>156.</b>](Chapter%20156%20-%20Health%20Information%20Technology/README.md) | <b>Health Information Technology</b> | <b>17901</b> |
 | [<b>157.</b>](Chapter%20157%20-%20Quality%2C%20Affordable%20Health%20Care%20for%20All%20Americans/README.md) | <b>Quality, Affordable Health Care for All Americans</b> | <b>18001</b> |

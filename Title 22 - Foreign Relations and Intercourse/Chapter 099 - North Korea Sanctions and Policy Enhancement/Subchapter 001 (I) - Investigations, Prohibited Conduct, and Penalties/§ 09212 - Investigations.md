@@ -16,7 +16,7 @@ The President may direct the Secretary of State, the Secretary of the Treasury, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 #### Delegation of Certain Functions and Authorities Under the North Korea Sanctions and Policy Enhancement Act of 2016
 

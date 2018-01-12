@@ -10,7 +10,7 @@ In any fiscal year in which the Administrator has available for obligation at le
 
 #### (b) Prioritization
 
-In selecting from among municipalities applying for grants under subsection (a), a State or the Administrator shall give priority to an applicant that—
+In selecting from among municipalities applying for grants under subsection (a), a State orthe Administrator shall give priority to an applicant that—
 
 &emsp;(1) is a municipality that is a financially distressed community under subsection (c);
 

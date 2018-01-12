@@ -54,7 +54,7 @@
 
 &emsp;&emsp;For a product that entered the pharmaceutical distribution supply chain prior to January 1, 2015—
 
-&emsp;&emsp;&emsp;(i) authorized trading partners shall be exempt from providing transaction information as required under subsections\(b)(1)(A)(i), (c)(1)(A)(ii), (d)(1)(A)(ii), and (e)(1)(A)(ii);
+&emsp;&emsp;&emsp;(i) authorized trading partners shall be exempt from providing transaction information as required under subsections (b)(1)(A)(i), (c)(1)(A)(ii), (d)(1)(A)(ii), and (e)(1)(A)(ii);
 
 &emsp;&emsp;&emsp;(ii) transaction history required under this section shall begin with the owner of such product on such date; and
 
@@ -62,7 +62,7 @@
 
 #### (6) Wholesale distributor licenses
 
-&emsp;Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesale distributor licensing regulations under section 360eee–2 of this title, the term "licensed" or "authorized", as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
+&emsp;Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesaledistributor licensing regulations under section 360eee–2 of this title, the term "licensed" or "authorized", as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
 
 #### (7) Third-party logistics provider licenses
 
@@ -126,7 +126,7 @@
 
 #### (4) Verification
 
-&emsp;Beginning not later than January 1, 2015, a manufacturer shall have systems in place toenable the manufacturer to comply with the following requirements:
+&emsp;Beginning not later than January 1, 2015, a manufacturer shall have systems in place to enable the manufacturer to comply with the following requirements:
 
 #### (A) Suspect product
 
@@ -278,7 +278,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) quarantine such product within the possession or control of the wholesale distributor from product intended for distribution until such product is cleared or dispositioned; and
 
-&emsp;&emsp;&emsp;&emsp;(II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the wholesale distributor and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 6 years after November 27, 2013\(except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
+&emsp;&emsp;&emsp;&emsp;(II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the wholesale distributor and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
 
 #### (ii) Cleared product
 
@@ -338,7 +338,7 @@
 
 &emsp;&emsp;&emsp;(ii) prior to, or at the time of, each transaction in which the dispenser transfers ownership of a product (but not including dispensing to a patient or returns) shall provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product, except that the requirements of this clause shall not apply to sales by a dispenser to another dispenser to fulfill a specific patient need; and
 
-&emsp;&emsp;&emsp;(iii) shall capture transaction information (including lot level information, ifprovided), transaction history, and transaction statements, as necessary to investigate a suspect product, and maintain such information, history, and statements for not less than 6 years after the transaction.
+&emsp;&emsp;&emsp;(iii) shall capture transaction information (including lot level information, if provided), transaction history, and transaction statements, as necessary to investigate a suspect product, and maintain such information, history, and statements for not less than 6 years after the transaction.
 
 #### (B) Agreements with third parties
 
@@ -462,7 +462,7 @@
 
 #### (C) Requests for information
 
-&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in theevent of a recall or for the purpose of investigating a suspect product or an illegitimate product, a repackager described in section 360eee(16)(A) of this title shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statement for the product.
+&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a repackager described in section 360eee(16)(A) of this title shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statement for the product.
 
 #### (2) Product identifier
 
@@ -528,7 +528,7 @@
 
 #### (iii) Responding to a notification
 
-&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner, a repackager shall identify all illegitimateproduct subject to such notification that is in the possession or control of the repackager, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner, a repackager shall identify all illegitimate product subject to such notification that is in the possession or control of the repackager, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
 
 #### (iv) Terminating a notification
 
@@ -702,7 +702,7 @@
 
 &emsp;&emsp;In order to enhance secure tracing of a product at the package level, the Secretary, not later than 18 months after conducting a public meeting on the interoperable standards necessary to enhance the security of the pharmaceutical distribution supply chain, shall update the guidance issued pursuant to subsection (a)(2), as necessary and appropriate, and finalize such guidance document so that the guidance document—
 
-&emsp;&emsp;&emsp;(i) identifies and makes recommendations with respect to the standards necessary for adoption in order to support thesecure, interoperable electronic data exchange among the pharmaceutical distribution supply chain that comply with a form and format developed by a widely recognized international standards development organization;
+&emsp;&emsp;&emsp;(i) identifies and makes recommendations with respect to the standards necessary for adoption in order to support the secure, interoperable electronic data exchange among the pharmaceutical distribution supply chain that comply with a form and format developed by a widely recognized international standards development organization;
 
 &emsp;&emsp;&emsp;(ii) takes into consideration standards established pursuant to subsection (a)(2) and section 355e of this title;
 

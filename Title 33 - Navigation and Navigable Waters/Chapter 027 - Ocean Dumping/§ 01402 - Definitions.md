@@ -44,7 +44,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Au
 
 <b>1988</b>—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted "sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping." for "oil within the meaning ofsection 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act."
+<b>1974</b>—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted "sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping." for "oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act."
 
 Subsec. (l). Pub. L. 93–254, §1(2)(C), added subsec. (l).
 

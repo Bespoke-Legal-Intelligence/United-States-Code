@@ -36,9 +36,9 @@ Each contract and each amendment to a contract for which an implementing bill is
 
 #### (d) Rules of Senate
 
-Subsections (e) through (h) of this section are enacted by the Congress—
+Subsections (e) through (h) are enacted by the Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate but applicable only with respect to the procedure to be followed in the Senate in the case of implementing bills and implementing revenue bills described in subsection (a) of this section, and they supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate but applicable only with respect to the procedure to be followed in the Senate in the case of implementing bills and implementing revenue bills described in subsection (a), and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;(2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -62,7 +62,7 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 
 (2) A vote on final passage of the bill shall be taken in the Senate on or before the close of the 15th day after the bill is reported by the committee or committees to which it was referred or after such committee or committees have been discharged from further consideration of the bill.
 
-(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1) of this section, referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committee or committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
+(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1), referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committee or committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
 
 (4) For purposes of this subsection, in computing a number of days in the Senate, there shall be excluded any day on which the Senate is not in session.
 
@@ -72,7 +72,7 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 
 (2) Debate in the Senate on an implementing bill, and all debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-(3) Debate in the Senate on any debatable motion or appeal in connection with an implementing bill shall be limited to not more than one hour to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such motion or appeal, the time in opposition thereto shall be controlled bythe minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of an implementing bill, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+(3) Debate in the Senate on any debatable motion or appeal in connection with an implementing bill shall be limited to not more than one hour to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of an implementing bill, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
 (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill is not in order.
 

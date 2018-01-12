@@ -6,7 +6,7 @@ Rules and Regulations.—In the performance of its functions, the Administration
 
 (b)
 
-Officers and Employees.—In the performance of its functions, the Administration is authorized to appoint and fix the compensation of officers and employees as may be necessary to carry out such functions. The officers and employees shall be appointed in accordance with the civil service laws and their compensationfixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that—
+Officers and Employees.—In the performance of its functions, the Administration is authorized to appoint and fix the compensation of officers and employees as may be necessary to carry out such functions. The officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that—
 
 &emsp;(1) to the extent the Administrator deems such action necessary to the discharge of the Administrator's responsibilities, the Administrator may appoint not more than 425 of the scientific, engineering, and administrative personnel of the Administration without regard to such laws, and may fix the compensation of such personnel not in excess of the rate of basic pay payable for level III of the Executive Schedule; and
 
@@ -60,7 +60,7 @@ Concessions for Visitors' Facilities.—
 
 &emsp;(1)
 
-In general.—In the performance of its functions, the Administration is authorized to provide by concession, without regard to section 1302 of title 40, on such terms as the Administrator may deem to be appropriate and necessary to protect the concessioner against loss of the concessioner's investment in property (but not anticipated profits) resultingfrom the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority that the Administration may have to provide facilities, equipment, and services for visitors to its installations).
+In general.—In the performance of its functions, the Administration is authorized to provide by concession, without regard to section 1302 of title 40, on such terms as the Administrator may deem to be appropriate and necessary to protect the concessioner against loss of the concessioner's investment in property (but not anticipated profits) resulting from the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority that the Administration may have to provide facilities, equipment, and services for visitors to its installations).
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Claims Against the United States.—In the performance of its functions, the Adm
 
 Identification of Government Astronauts.—For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333; Pub. L. 114–90, title I, §112(d), Nov. 25, 2015, 129 Stat. 712.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333; Pub. L. 114–90, title I, §112(d), Nov. 25, 2015, 129 Stat. 712; Pub. L. 115–10, title VIII, §835(d), Mar. 21, 2017, 131 Stat. 69.)
 
 Historical and Revision Notes
 
@@ -132,7 +132,113 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
+<b>2017</b>—Subsec. (g). Pub. L. 115–10, §835(d)(2), struck out "and Congress" after "advice to the Administration".
+
+Pub. L. 115–10, §835(d)(1), inserted "and Congress" after "advice to the Administration".
+
 <b>2015</b>—Subsec. (n). Pub. L. 114–90 added subsec. (n).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–10, title VIII, §835(d)(2), Mar. 21, 2017, 131 Stat. 69, provided that the amendment by section 835(d)(2) is effective Sept. 30, 2017.
+
+#### Collaboration
+
+Pub. L. 115–10, title V, §517, Mar. 21, 2017, 131 Stat. 54, provided that: "The Administration \[National Aeronautics and Space Administration\] shall continue to develop first-of-a-kind instruments that, once proved, can be transitioned to other agencies for operations. Whenever responsibilities for the development of sensors or for measurements are transferred to the Administration from another agency, the Administration shall seek, to the extent possible, to be reimbursed for the assumption of such responsibilities."
+
+#### Space Act Agreements
+
+Pub. L. 115–10, title VIII, §841, Mar. 21, 2017, 131 Stat. 72, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that, when used appropriately, Space Act Agreements can provide significant value in furtherance of NASA \[National Aeronautics and Space Administration\]'s mission.
+
+"(b)
+
+Funded Space Act Agreements.—To the extent appropriate, the Administrator \[of the National Aeronautics and Space Administration\] shall seek to maximize the value of contributions provided by other parties under a funded Space Act Agreement in order to advance NASA's mission.
+
+"(c)
+
+Non-exclusivity.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall, to the greatest extent practicable, issue each Space Act Agreement—
+
+&emsp;&emsp;"(A) except as provided in paragraph (2), on a nonexclusive basis;
+
+&emsp;&emsp;"(B) in a manner that ensures all non-government parties have equal access to NASA resources; and
+
+&emsp;&emsp;"(C) exercising reasonable care not to reveal unique or proprietary information.
+
+&emsp;"(2)
+
+Exclusivity.—If the Administrator determines an exclusive arrangement is necessary, the Administrator shall, to the greatest extent practicable, issue the Space Act Agreement—
+
+&emsp;&emsp;"(A) utilizing a competitive selection process when exclusive arrangements are necessary; and
+
+&emsp;&emsp;"(B) pursuant to public announcements when exclusive arrangements are necessary.
+
+"(d)
+
+Transparency.—The Administrator shall publicly disclose on the Administration's website and make available in a searchable format each Space Act Agreement, including an estimate of committed NASA resources and the expected benefits to agency objectives for each agreement, with appropriate redactions for proprietary, sensitive, or classified information, not later than 60 days after such agreement is signed by the parties.
+
+"(e)
+
+Annual Reports.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 90 days after the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress \[Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate\] a report on the use of Space Act Agreement authority by the Administration during the previous fiscal year.
+
+&emsp;"(2)
+
+Contents.—The report shall include for each Space Act Agreement in effect at the time of the report—
+
+&emsp;&emsp;"(A) an indication of whether the agreement is a reimbursable, non-reimbursable, or funded Space Act Agreement;
+
+&emsp;&emsp;"(B) a description of—
+
+&emsp;&emsp;&emsp;"(i) the subject and terms;
+
+&emsp;&emsp;&emsp;"(ii) the parties;
+
+&emsp;&emsp;&emsp;"(iii) the responsible—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Mission Directorate;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Center; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) headquarters element;
+
+&emsp;&emsp;&emsp;"(iv) the value;
+
+&emsp;&emsp;&emsp;"(v) the extent of the cost sharing among Federal Government and non-Federal sources;
+
+&emsp;&emsp;&emsp;"(vi) the time period or schedule; and
+
+&emsp;&emsp;&emsp;"(vii) all milestones; and
+
+&emsp;&emsp;"(C) an indication of whether the agreement was renewed during the previous fiscal year.
+
+&emsp;"(3)
+
+Anticipated agreements.—The report shall include a list of all anticipated reimbursable, non-reimbursable, and funded Space Act Agreements for the upcoming fiscal year.
+
+&emsp;"(4)
+
+Cumulative program benefits.—The report shall include, with respect to each Space Act Agreement covered by the report, a summary of—
+
+&emsp;&emsp;"(A) the technology areas in which research projects were conducted under that agreement;
+
+&emsp;&emsp;"(B) the extent to which the use of that agreement—
+
+&emsp;&emsp;&emsp;"(i) has contributed to a broadening of the technology and industrial base available for meeting Administration needs; and
+
+&emsp;&emsp;&emsp;"(ii) has fostered within the technology and industrial base new relationships and practices that support the United States; and
+
+&emsp;&emsp;"(C) the total amount of value received by the Federal Government during the fiscal year under that agreement."
 
 #### Sense of Congress
 

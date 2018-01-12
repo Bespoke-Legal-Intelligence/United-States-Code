@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) there has been a payee certification failure described in subsection (d),
 
-> &emsp;then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment.
+> &emsp;then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) <sup>1</sup> and such payment.
 
 #### (2) Subparagraphs (C) and (D) of paragraph (1) apply only to interest and dividend payments
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
 
-&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
+&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for thepreceding calendar year with respect to payments to the payee, or
 
 &emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
 
-#### (3) Determination by secretary to stop (or not to start) withholding
+#### (3) Determination by Secretary to stop (or not to start) withholding
 
 #### (A) In general
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) during 1983, such broker bought or sold instruments for the payee (or acted as a nominee for the payee) through such account.
 
-> &emsp;The preceding sentence shall not apply with respect to any readily tradable instrument acquired through such account after the brokerwas notified by the Secretary that the payee is subject to withholding under subsection (a)(1)(C).
+> &emsp;The preceding sentence shall not apply with respect to any readily tradable instrument acquired through such account after the broker was notified by the Secretary that the payee is subject to withholding under subsection (a)(1)(C).
 
 #### (e) Period for which withholding is in effect
 
@@ -358,7 +358,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term "payor" means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term "payor" means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
@@ -407,6 +407,10 @@ For purposes of this section—
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
+
+#### References in Text
+
+Section 1(c), referred to in subsec. (a)(1), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
 #### Amendments
 
@@ -487,4 +491,6 @@ Section applicable with respect to payments made after Dec. 31, 1983, see sectio
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -160,7 +160,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 Amendment by sections 7(b), 9(a), (b)(1), (c), 10, 12, and 13 of Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-Pub. L. 95–222, §17(a)(1), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 11 of this Act \[amending this section\] shall be effective six months after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\]."
+Pub. L. 95–222, §17(a)(1), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 11 of this Act \[amending this section\] shall be effective sixmonths after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\]."
 
 #### Implementation of System for Competitive Award of Grants and Contracts
 

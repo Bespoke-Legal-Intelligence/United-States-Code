@@ -12,7 +12,7 @@
 
 #### (b) Duties of panel
 
-Each review panel appointed under subsection (a)(2) of this section that reviews any application for financial assistance shall—
+Each review panel appointed under subsection (a)(2) that reviews any application for financial assistance shall—
 
 &emsp;(1) determine the merit of each project described in such application;
 
@@ -26,7 +26,7 @@ Upon the request of the chairman of the Committee on Indian Affairs of the Senat
 
 &emsp;(1) identifying such application;
 
-&emsp;(2) containing a copy of the list submitted to the Commissioner under subsection (b)(3) of this section in which such application is ranked;
+&emsp;(2) containing a copy of the list submitted to the Commissioner under subsection (b)(3) in which such application is ranked;
 
 &emsp;(3) specifying which other applications ranked in such list have been approved by the Commissioner under sections 2991b and 2991d of this title; and
 

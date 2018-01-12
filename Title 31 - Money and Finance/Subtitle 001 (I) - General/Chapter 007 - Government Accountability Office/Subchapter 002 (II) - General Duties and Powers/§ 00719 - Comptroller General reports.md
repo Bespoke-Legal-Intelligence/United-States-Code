@@ -160,7 +160,7 @@ In subsection (b)(1), before clause (A), the words "under subsection (a) of this
 
 In subsection (b)(2), the words "at any time" are omitted as surplus.
 
-In subsection (c), the word "agency" is substituted for "department or establishment" and "departmentsand establishments" because of section 701 of the revised title. In clause (1), the words "in any year" are omitted as surplus. In clause (2)(A), the word "audits" is substituted for "examination" for consistency. In clause (2)(B), the words "by an agency" are substituted for "departmental" because of the restatement. The word "officials" is substituted for "officers" for consistency.
+In subsection (c), the word "agency" is substituted for "department or establishment" and "departments and establishments" because of section 701 of the revised title. In clause (1), the words "in any year" are omitted as surplus. In clause (2)(A), the word "audits" is substituted for "examination" for consistency. In clause (2)(B), the words "by an agency" are substituted for "departmental" because of the restatement. The word "officials" is substituted for "officers" for consistency.
 
 In subsection (d), before clause (1), the word "written" is omitted as surplus. In clause (1), the words "Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms" are substituted for "General Accounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms" for consistency. In clauses (2) and (3), the words "or other examination or review" are omitted as surplus.
 
@@ -216,7 +216,7 @@ Pub. L. 108–271, §11, July 7, 2004, 118 Stat. 815, provided that:
 
 Annual Reports.—The Comptroller General shall include—
 
-&emsp;"(1) in each report submitted to Congress under section 719(a) of title 31, United States Code, during the 5-year period beginning on the date of enactment of this Act \[July 7, 2004\], a summary review of all actions taken under sections 2, 3, 4, 6, 7, 9, and 10 of this Act \[amending sections 731, 732, and 733 of this title, enacting provisions set out as notes under section 731of this title, and amending provisions set out as notes under sections 5597 and 8336 of Title 5, Government Organization and Employees\] during the period covered by such report, including—
+&emsp;"(1) in each report submitted to Congress under section 719(a) of title 31, United States Code, during the 5-year period beginning on the date of enactment of this Act \[July 7, 2004\], a summary review of all actions taken under sections 2, 3, 4, 6, 7, 9, and 10 of this Act \[amending sections 731, 732, and 733 of this title, enacting provisions set out as notes under section 731 of this title, and amending provisions set out as notes under sections 5597 and 8336 of Title 5, Government Organization and Employees\] during the period covered by such report, including—
 
 &emsp;&emsp;"(A) the respective numbers of officers and employees—
 

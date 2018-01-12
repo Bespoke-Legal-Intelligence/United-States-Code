@@ -42,7 +42,7 @@ Accrued Joint Experience.—For the purposes of subsection (d)(2), the Secretary
 
 (f)
 
-Constructive Credit.—The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
+Constructive Credit.—The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 
 (Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110.)
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 114–328, §510(g)(1), redesignated subsec. (g) as (e).
 
 Subsec. (h). Pub. L. 114–328, §510(g)(1), redesignated subsec. (h) as (f).
 
-Pub. L. 114–328, §510(f), struck out par. (1) designation before "The Secretary of Defense may", substituted "award" for "accord", and struck out par. (2) which read as follows: "For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded."
+Pub. L. 114–328, §510(f), struck out par. (1) designation before "The Secretary of Defense may", substituted "award" for "accord", and struck out par. (2) which read as follows: "For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respectto a joint duty assignment to be counted in that computation shall be excluded."
 
 <b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
 
@@ -126,7 +126,7 @@ Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out forme
 
 &emsp;"(C) Service described in subsection (f)(6), except that no more than 10 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year."
 
-Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulativeservice", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
+Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
 
 Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to cumulative service of an officer in joint duty assignments.
 
@@ -206,13 +206,13 @@ Pub. L. 109–364, div. A, title V, §519(e), Oct. 17, 2006, 120 Stat. 2191, pro
 
 #### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
 
-Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i) of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i)of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
 
 #### Joint Duty Credit for Certain Duty Performed During Operations Desert Shield and Desert Storm
 
 Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided extension of authority until the end of the 90-day period beginning on Nov. 30, 1993, to give certain officers joint duty credit pursuant to Pub. L. 102–484, §933, formerly set out below.
 
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of "joint duty assignment" in section 668 of this title, andprovided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of "joint duty assignment" in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
 
 #### Length of Joint Duty Assignments
 

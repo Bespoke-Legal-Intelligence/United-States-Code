@@ -48,7 +48,7 @@ A person shall be considered to have a power described in this subpart even thou
 
 &emsp;&emsp;Paragraph (1) shall not apply to any portion of a trust if—
 
-&emsp;&emsp;&emsp;(i) the power to revest absolutely in the grantor title to the trust property to which such portion is attributable is exercisable solely by the grantor without theapproval or consent of any other person or with the consent of a related or subordinate party who is subservient to the grantor, or
+&emsp;&emsp;&emsp;(i) the power to revest absolutely in the grantor title to the trust property to which such portion is attributable is exercisable solely by the grantor without the approval or consent of any other person or with the consent of a related or subordinate party who is subservient to the grantor, or
 
 &emsp;&emsp;&emsp;(ii) the only amounts distributable from such portion (whether income or corpus) during the lifetime of the grantor are amounts distributable to the grantor or the spouse of the grantor.
 

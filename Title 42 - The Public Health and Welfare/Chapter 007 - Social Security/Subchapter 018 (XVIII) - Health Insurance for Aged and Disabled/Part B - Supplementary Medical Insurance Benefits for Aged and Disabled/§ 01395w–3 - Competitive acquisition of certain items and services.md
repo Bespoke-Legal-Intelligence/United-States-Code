@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) additional areas after 2011 (or, in the case of national mail order for items and services, after 2010); and
 
-&emsp;&emsp;&emsp;(ii) may be phased in first among the highest cost and highest volume items and services or those items and services that the Secretary determines have the largest savings potential.
+&emsp;&emsp;&emsp;(ii) may be phased in first among the highest cost and highest volume items and services or those items and services thatthe Secretary determines have the largest savings potential.
 
 #### (C) Waiver of certain provisions
 
@@ -146,7 +146,7 @@
 
 #### (4) Special rule for certain rented items of durable medical equipment and oxygen
 
-&emsp;In the case of a covered item for which payment is made on a rental basis under section 1395m(a) of this title and in the case of payment for oxygen under section 1395m(a)(5) of this title, the Secretary shall establish a process by which rental agreements for the covered items and supply arrangements with oxygen suppliers entered into before the application of the competitive acquisition program under this section for the item may be continued notwithstanding this section. In the case of any such continuation, the supplier involved shall provide for appropriate servicing and replacement, as required under section 1395m(a) of this title.
+&emsp;In the case of a covered item for which payment is made on a rental basis under section 1395m(a) of this title and in the case of payment for oxygen under section 1395m(a)(5) of this title, the Secretary shall establish a process by which rental agreements for the covered items and supply arrangements with oxygen suppliers entered into before the application of the competitive acquisition program under this section for the item may be continued notwithstanding this section. In the case of any such continuation, the supplier involved shall provide for appropriate servicingand replacement, as required under section 1395m(a) of this title.
 
 #### (5) Physician authorization
 
@@ -192,7 +192,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in an <sup>1</sup> competitive acquisition area pursuant to paragraph (1) to furnish suchitems or services unless the Secretary finds all of the following:
+&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in an <sup>1</sup> competitive acquisition area pursuant to paragraph (1) to furnish such items or services unless the Secretary finds all of the following:
 
 &emsp;&emsp;&emsp;(i) The entity meets applicable quality standards specified by the Secretary under section 1395m(a)(20) of this title.
 
@@ -236,7 +236,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may limit the number of contractors in a competitive acquisition area to the number needed to meet projected demand for items and services covered under the contracts. In awarding contracts, the Secretary shall take into account the ability of bidding entities to furnish items or services in sufficient quantities to meet the anticipated needs of individuals for such items or services in the geographic area covered under the contract on a timely basis.
+&emsp;&emsp;The Secretary may limit the number of contractors in a competitive acquisitionarea to the number needed to meet projected demand for items and services covered under the contracts. In awarding contracts, the Secretary shall take into account the ability of bidding entities to furnish items or services in sufficient quantities to meet the anticipated needs of individuals for such items or services in the geographic area covered under the contract on a timely basis.
 
 #### (B) Multiple winners
 
@@ -282,7 +282,7 @@
 
 #### (C) Rules for mergers and acquisitions
 
-&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successorentity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
+&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
 
 #### (D) Protection of small suppliers
 
@@ -368,7 +368,7 @@
 
 #### (d) Report
 
-Not later than July 1, 2011, the Secretary shall submit to Congress a report on the programsunder this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
+Not later than July 1, 2011, the Secretary shall submit to Congress a report on the programs under this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
 
 #### (e) Repealed. Pub. L. 110–275, title I, §145(a)(1), July 15, 2008, 122 Stat. 2547
 
@@ -490,7 +490,7 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended
 
 #### Study by GAO
 
-Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

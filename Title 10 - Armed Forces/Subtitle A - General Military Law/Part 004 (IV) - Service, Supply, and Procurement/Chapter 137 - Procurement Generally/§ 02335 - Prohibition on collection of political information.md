@@ -16,7 +16,7 @@ Scope.—The prohibition under this section applies to the procurement of commer
 
 Rule of Construction.—Nothing in this section shall be construed as—
 
-&emsp;(1) waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) <sup>1</sup> or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
+&emsp;(1) waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
 
 &emsp;(2) precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to section 2324 of this title.
 
@@ -34,15 +34,17 @@ Political information.—The term "political information" means information rela
 
 &emsp;(3)
 
-Other terms.—Each of the terms "contribution", "expenditure", "independent expenditure", "candidate", "election", "electioneering communication", and "Federal office" has the meaning given that term in the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.).<sup>1</sup>
+Other terms.—Each of the terms "contribution", "expenditure", "independent expenditure", "candidate", "election", "electioneering communication", and "Federal office" has the meaning given that term in the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.).
 
-(Added Pub. L. 112–81, div. A, title VIII, §823(a), Dec. 31, 2011, 125 Stat. 1502; amended Pub. L. 113–291, div. A, title X, §1071(f)(17), Dec. 19, 2014, 128 Stat. 3511.)
+(Added Pub. L. 112–81, div. A, title VIII, §823(a), Dec. 31, 2011, 125 Stat. 1502; amended Pub. L. 113–291, div. A, title X, §1071(f)(17), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, §1081(a)(32), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### References in Text
 
-The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§30101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§30101 et seq.) of Title 52, Voting and Elections. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (c)(1), (d)(3). Pub. L. 115–91 substituted "(52 U.S.C. 30101 et seq.)" for "(2 U.S.C. 431 et seq.)".
 
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–291, §1071(f)(17)(A), redesignated last sentence as par. (3).
 
@@ -53,6 +55,4 @@ Pub. L. 113–291, §1071(f)(17)(B)(i), which directed amendment of par. (3) by 
 Other terms.—" before "each of", was executed by making the insertion before "Each of" to reflect the probable intent of Congress.
 
 Pub. L. 113–291, §1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@
 
 &emsp;(A) The certification of the Director with respect to each review, evaluation, and cost estimate conducted under subparagraph (B), (D), or (E) of paragraph (1).
 
-&emsp;(B) A statement of the confidence level of the Director with respect to each such review,evaluation, and cost estimate, including an identification of areas of uncertainty, risk, and opportunity discovered in conducting each such review, evaluation, and cost estimate.
+&emsp;(B) A statement of the confidence level of the Director with respect to each such review, evaluation, and cost estimate, including an identification of areas of uncertainty, risk, and opportunity discovered in conducting each such review, evaluation, and cost estimate.
 
 #### (d) Activities for program evaluation
 
@@ -100,5 +100,5 @@ In this section:
 
 #### Amendments
 
-Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2014</b>—Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 

@@ -16,7 +16,7 @@ Office and Director.—(1) There is an Office of Corrosion Policy and Oversight 
 
 (b)
 
-Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the "Director") shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the militaryequipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
+Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the "Director") shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
 
 (2) The Director shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.
 
@@ -52,7 +52,7 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 &emsp;(A) Expansion of the emphasis on corrosion prevention and mitigation within the Department of Defense to include coverage of infrastructure.
 
-&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similar characteristics, similar missions, or similar operating environments.
+&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification ofnew corrosion-prevention technologies for equipment and infrastructure with similar characteristics, similar missions, or similar operating environments.
 
 &emsp;(C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
 
@@ -84,7 +84,7 @@ Report.—(1) For each budget for a fiscal year, beginning with the budget for f
 
 (2)(A) Each report under this section shall include, in an annex to the report, a summary of the most recent report required by subparagraph (B).
 
-(B) Not later than December 31 of each year, through December 31, 2020, the corrosion control and prevention executive of a military department shall submit to the Director of CorrosionPolicy and Oversight a report containing recommendations pertaining to the corrosion control and prevention program of the military department. Such report shall include recommendations for the funding levels necessary for the executive to carry out the duties of the executive under this section. The report required under this subparagraph shall—
+(B) Not later than December 31 of each year, through December 31, 2020, the corrosion control and prevention executive of a military department shall submit to the Director of Corrosion Policy and Oversight a report containing recommendations pertaining to the corrosion control and prevention program of the military department. Such report shall include recommendations for the funding levels necessary for the executive to carry out the duties of the executive under this section. The report required under this subparagraph shall—
 
 &emsp;(i) provide a summary of key accomplishments, goals, and objectives of the corrosion control and prevention program of the military department; and
 
@@ -158,7 +158,7 @@ Subsec. (f)(4), (5). Pub. L. 110–181, §371(e), added pars. (4) and (5).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note undersection 6382 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
 
 #### Implementation of Corrective Actions Resulting From Corrosion Study of the F–22 and F–35 Aircraft
 
@@ -208,13 +208,23 @@ In General.—Not later than 90 days after the date of the enactment of this Act
 
 Corrosion Control and Prevention Executive Defined.—In this section, the term 'corrosion control and prevention executive' means the employee of a military department designated as the corrosion control and prevention executive of the department under section 903(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2228 note)."
 
-Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, §334, title X, §1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871; Pub. L. 114–328, div. A, title IX, §954(c), Dec. 23, 2016, 130 Stat. 2377, provided that:
+Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, §334, title X, §1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871; Pub. L. 114–328, div. A, title IX, §954(c), Dec. 23, 2016, 130 Stat. 2377; Pub. L. 115–91, div. A, title IX, §924, Dec. 12, 2017, 131 Stat. 1526, provided that:
 
 "(a)
 
-Requirement to Designate Corrosion Control and Prevention Executive.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be the senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office of the Secretary of Defense, the program executive officers of the military departments, and relevant major subordinate commands of the military departments.
+Requirement to Designate Corrosion Control and Prevention Executive.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be a senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office of the Secretary of Defense, the program executive officers of the military departments, and relevant major subordinate commands of the military departments. Each individual so designated shall be a senior civilian employee of the military department concerned in pay grade GS–15 or higher.
 
 "(b)
+
+Qualifications.—Any individual designated as a corrosion control and prevention executive of a military department pursuant to subsection (a) shall—
+
+&emsp;"(1) have a working knowledge of corrosion prevention and control;
+
+&emsp;"(2) have strong program management and communication skills; and
+
+&emsp;"(3) understand the acquisition, research, development, test, and evaluation, and sustainment policies and procedures of the military department, including for the sustainment of infrastructure.
+
+"(c)
 
 Duties.—(1) The corrosion control and prevention executive of a military department shall ensure that corrosion control and prevention is maintained in the department's policy and guidance for management of each of the following:
 
@@ -232,7 +242,7 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 
 "(2) The corrosion control and prevention executive of a military department shall be responsible for identifying the funding levels necessary to accomplish the items listed in subparagraphs (A) through (F) of paragraph (1).
 
-"(3) The corrosion control and prevention executive of a military department shall, in cooperation with theappropriate staff of the department, develop, support, and provide the rationale for resources—
+"(3) The corrosion control and prevention executive of a military department shall, in cooperation with the appropriate staff of the department, develop, support, and provide the rationale for resources—
 
 &emsp;"(A) to initiate and sustain an effective corrosion control and prevention program in the department;
 

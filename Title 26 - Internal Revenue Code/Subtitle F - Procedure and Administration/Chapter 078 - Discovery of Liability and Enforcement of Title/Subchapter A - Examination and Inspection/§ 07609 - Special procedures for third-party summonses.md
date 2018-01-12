@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of thesummons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
+&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
 
 #### (2) Sufficiency of notice
 
@@ -130,13 +130,13 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (4) Notice of suspension of statute of limitations in the case of a John Doe summons
 
-&emsp;In the case of a summons described in subsection (f) with respect to which any period of limitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
+&emsp;In the case of a summons described in subsection (f) with respect to which any period oflimitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
 
 #### (j) Use of summons not required
 
 Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b),title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Prior Provisions
 

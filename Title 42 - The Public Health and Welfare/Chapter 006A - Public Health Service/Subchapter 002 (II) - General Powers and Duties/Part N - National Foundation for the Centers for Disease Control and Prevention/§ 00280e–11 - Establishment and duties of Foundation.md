@@ -84,7 +84,7 @@ In carrying out subsection (b), the Foundation may provide for the following wit
 
 #### (3) Chair
 
-&emsp;The Board shall, from among the members of the Board, designate an individual to serve as the chair of the Board (in this subsection referred to as the "Chair").
+&emsp;The Board shall, from among the members of the Board, designate an individual to serveas the chair of the Board (in this subsection referred to as the "Chair").
 
 #### (4) Appointments, vacancies, and terms
 
@@ -128,7 +128,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### (2) Authority for acceptance of voluntary services
 
-&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence bythe individual until such time as the private funding for such individual ends.
+&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.
 
 &emsp;(B) The limitation established in subparagraph (A) regarding the period of time in which services may be accepted applies to each individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation.
 
@@ -200,7 +200,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;(D) For the purposes described in subparagraph (B)—
 
-&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 thatremains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
+&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 that remains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
 
 &emsp;&emsp;(ii) any portion of a grant under subparagraph (A) made for fiscal year 1993 or 1994 that remains unobligated after such committee completes the duties established in such subsection for the committee shall be available to the Foundation.
 
@@ -290,7 +290,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### References in Text
 
-The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 ofPub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 

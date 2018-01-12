@@ -10,7 +10,7 @@
 
 (c)(1) Except as provided in paragraphs (2), (3), (4), and (5) of this subsection, the Court of International Trade may, in addition to the orders specified in subsections (a) and (b) of this section, order any other form of relief that is appropriate in a civil action, including, but not limited to, declaratory judgments, orders of remand, injunctions, and writs of mandamus and prohibition.
 
-(2) The Court of International Trade may not grant an injunction or issue a writ of mandamusin any civil action commenced to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974, or any final determination of the Secretary of Commerce under section 251 or section 271 of such Act.
+(2) The Court of International Trade may not grant an injunction or issue a writ of mandamus in any civil action commenced to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974, or any final determination of the Secretary of Commerce under section 251 or section 271 of such Act.
 
 (3) In any civil action involving an application for the issuance of an order directing the administering authority or the International Trade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930, the Court of International Trade may issue an order of disclosure only with respect to the information specified in such section.
 

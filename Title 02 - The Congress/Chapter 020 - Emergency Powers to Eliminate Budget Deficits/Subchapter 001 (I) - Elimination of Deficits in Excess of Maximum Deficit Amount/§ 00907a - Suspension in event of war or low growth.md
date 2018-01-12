@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) the vote on final passage shall be on the joint resolution of the other House.
 
-> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in thecase of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
+> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
 
 &emsp;(B)(i) In the Senate, a joint resolution under this paragraph shall be privileged. It shall not be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 

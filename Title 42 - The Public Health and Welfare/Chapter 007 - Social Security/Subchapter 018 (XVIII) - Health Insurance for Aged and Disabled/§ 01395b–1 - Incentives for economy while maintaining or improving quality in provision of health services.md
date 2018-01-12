@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) covering the services of homemakers for a maximum of 21 days, if institutional services are not medically appropriate,
 
-&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducingthe lengths of stay in hospitals and skilled nursing facilities, and
+&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducing the lengths of stay in hospitals and skilled nursing facilities, and
 
 &emsp;&emsp;(iv) establishing alternative eligibility requirements and determining the probable cost of applying each alternative, if the project suggests that such extension of coverage would be desirable;
 
@@ -218,7 +218,7 @@ Waiver Authority.—The Secretary may waive such requirements of titles XI and X
 
 "(f)
 
-Funding.—For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare \& Medicaid Services Program Management Account for the period of fiscal years 2011 through 2015. Amounts transferred under the preceding sentence shall remain available until expended."
+Funding.—For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare \& Medicaid Services Program Management Account for the period of fiscal years 2011through 2015. Amounts transferred under the preceding sentence shall remain available until expended."
 
 #### Pilot Testing Pay-for-Performance Programs for Certain Medicare Providers
 
@@ -664,7 +664,7 @@ Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 
 
 In General.—The Secretary of Health and Human Services shall carry out the demonstration project known as the Lifestyle Modification Program Demonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the 'project') in accordance with the following requirements:
 
-&emsp;"(1) The project shall include no fewer than 1,800 medicare beneficiaries who complete under theproject the entire course of treatment under the Lifestyle Modification Program.
+&emsp;"(1) The project shall include no fewer than 1,800 medicare beneficiaries who complete under the project the entire course of treatment under the Lifestyle Modification Program.
 
 &emsp;"(2) The project shall be conducted over a course of 4 years.
 
@@ -706,7 +706,7 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 &emsp;"(2)
 
-Target individual defined.—In this section, the term 'target individual' means an individual that has a chronic illness, as defined and identified by the Secretary, and is enrolled under the fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.; 1395j et seq.).
+Target individual defined.—In this section, the term 'target individual' means an individual that has a chronic illness, as defined and identified by theSecretary, and is enrolled under the fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.; 1395j et seq.).
 
 "(b)
 
@@ -802,7 +802,7 @@ Evaluation and report.—There are authorized to be appropriated such sums as ar
 
 #### Informatics, Telemedicine, and Education Demonstration Project
 
-Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, as amended by Pub. L. 106–113, div. B, §1000(a)(6)\[title IV, §413\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377; Pub. L. 108–173, title IV, §417, Dec. 8, 2003, 117 Stat. 2282, provided that:
+Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §413\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377; Pub. L. 108–173, title IV, §417, Dec. 8, 2003, 117 Stat. 2282, provided that:
 
 "(a)
 
@@ -946,7 +946,7 @@ Consideration of applications.—The Secretary of Health and Human Services (in 
 
 &emsp;"(2)
 
-Approval of certain applications.—The Secretary shall approve not more than 10 applications to conduct projects which appear likely to contribute significantly to the achievement of the purpose of this section.
+Approval of certain applications.—The Secretary shall approve not more than 10 applications toconduct projects which appear likely to contribute significantly to the achievement of the purpose of this section.
 
 &emsp;"(3)
 
@@ -998,7 +998,7 @@ Joint Undergraduate Education Program.—In the case of a hospital which (1) was
 
 #### Research on Long-Term Care Services for Medicare Beneficiaries
 
-Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to the delivery and financing of long-term care services formedicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to the delivery and financing of long-term care services for medicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Adjustment of Contracts With Prepaid Health Plans
 
@@ -1062,7 +1062,7 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
 
-"(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval offour municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+"(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 "(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
@@ -1146,7 +1146,7 @@ Pub. L. 92–603, title II, §222(a), Oct. 30, 1972, 86 Stat. 1390, as amended b
 
 "(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
 
-"(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[42 U.S.C. 1395i\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[42 U.S.C. 1395t\]) and from funds appropriated under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+"(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[42 U.S.C. 1395i\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section1841 of the Social Security Act \[42 U.S.C. 1395t\]) and from funds appropriated under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 "(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved."
 

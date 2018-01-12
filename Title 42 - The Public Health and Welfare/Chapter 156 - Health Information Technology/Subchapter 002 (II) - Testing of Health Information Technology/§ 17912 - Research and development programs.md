@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) the research projects that will be undertaken by the Center established pursuant to assistance under paragraph (1) and the respective contributions of the participating entities;
 
-&emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as information technology, biologic sciences,management, social sciences, and other appropriate disciplines;
+&emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as information technology, biologic sciences, management, social sciences, and other appropriate disciplines;
 
 &emsp;&emsp;(C) technology transfer activities to demonstrate and diffuse the research results, technologies, and knowledge; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation; deposits; transfers from Treasury
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Hospital Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consistof such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part. There are hereby appropriated to the Trust Fund for the fiscal year ending June 30, 1966, and for each fiscal year thereafter, out of any moneys in the Treasury not otherwise appropriated, amounts equivalent to 100 per centum of—
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Hospital Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part. There are hereby appropriated to the Trust Fund for the fiscal year ending June 30, 1966, and for each fiscal year thereafter, out of any moneys in the Treasury not otherwise appropriated, amounts equivalent to 100 per centum of—
 
 &emsp;(1) the taxes imposed by sections 3101(b) and 3111(b) of the Internal Revenue Code of 1986 with respect to wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of such Code after December 31, 1965, as determined by the Secretary of the Treasury by applying the applicable rates of tax under such sections to such wages, which wages shall be certified by the Commissioner of Social Security on the basis of records of wages established and maintained by the Commissioner of Social Security in accordance with such reports; and
 
@@ -26,7 +26,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
-It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued underchapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
 
 #### (d) Authority of Managing Trustee to sell obligations
 
@@ -56,7 +56,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (j) Loans from other Funds; interest; repayment; report to Congress
 
-(1) If at any time prior to January 1988 the Managing Trustee determines that borrowingauthorized under this subsection is appropriate in order to best meet the need for financing the benefit payments from the Federal Hospital Insurance Trust Fund, the Managing Trustee may, subject to paragraph (5), borrow such amounts as he determines to be appropriate from either the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund for transfer to and deposit in the Federal Hospital Insurance Trust Fund.
+(1) If at any time prior to January 1988 the Managing Trustee determines that borrowing authorized under this subsection is appropriate in order to best meet the need for financing the benefit payments from the Federal Hospital Insurance Trust Fund, the Managing Trustee may, subject to paragraph (5), borrow such amounts as he determines to be appropriate from either the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund for transfer to and deposit in the Federal Hospital Insurance Trust Fund.
 
 (2) In any case where a loan has been made to the Federal Hospital Insurance Trust Fund under paragraph (1), there shall be transferred on the last day of each month after such loan is made, from such Trust Fund to the lending Trust Fund, the total interest accrued to such day with respect to the unrepaid balance of such loan at a rate equal to the rate which the lending Trust Fund would earn on the amount involved if the loan were an investment under subsection (c) (even if such an investment would earn interest at a rate different than the rate earned by investments redeemed by the lending fund in order to make the loan).
 
@@ -134,7 +134,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation until expended, in an amount not to exceed—
+&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to beavailable without further appropriation until expended, in an amount not to exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000;
 
@@ -272,7 +272,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (7) Additional funding
 
-&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3) and (4) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated an additional $10,000,000 to such Account from such Trust Fund for each of fiscal years 2011 through 2020. The funds appropriated under this paragraphshall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
+&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3) and (4) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated an additional $10,000,000 to such Account from such Trust Fund for each of fiscal years 2011 through 2020. The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
 
 #### (8) Additional funding
 
@@ -376,7 +376,7 @@ Subsec. (f)(1). Pub. L. 103–296, §108(c)(1)(C), substituted "Commissioner of 
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 inserted after first sentence "A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term."
 
-Pub. L. 100–360 inserted after sixth sentence "Such report shall also identify (and treat separately) those outlays from the Trust Fund which are also outlays from the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title and those outlays for which there are amounts transferred into the Federal Hospital Insurance Catastrophic Coverage Reserve Fund."
+Pub. L. 100–360 inserted after sixth sentence "Such report shall also identify (and treat separately) those outlays from the Trust Fund which are also outlays from the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title and those outlays for which there are amounts transferred into theFederal Hospital Insurance Catastrophic Coverage Reserve Fund."
 
 <b>1986</b>—Subsec. (a)(1), (2). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
@@ -398,7 +398,7 @@ Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding p
 
 Pub. L. 98–21, §154(b), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
-Pub. L. 98–21, §341(b)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personallyliable for actions taken in such capacity with respect to the Trust Fund.
+Pub. L. 98–21, §341(b)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
 Subsec. (j)(1). Pub. L. 98–21, §142(b)(1), substituted reference to January 1988 for reference to January 1983 and inserted ", subject to paragraph (5)," after "may".
 
@@ -636,7 +636,7 @@ Gifts.—Amounts received by the medicare trust funds under section 201(i) of th
 
 Total medicare outlays.—The term 'total medicare outlays' means total outlays from the medicare trust funds and shall—
 
-&emsp;&emsp;"(A) include payments made to plans under part C of title XVIII of the Social Security Act \[42U.S.C. 1395w–21 et seq.\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act (42 U.S.C. 1395w–24(b)(1)(C)), as amended by section 222(b)(1);
+&emsp;&emsp;"(A) include payments made to plans under part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act (42 U.S.C. 1395w–24(b)(1)(C)), as amended by section 222(b)(1);
 
 &emsp;&emsp;"(B) include administrative expenditures made in carrying out title XVIII of such Act \[42 U.S.C. 1395 et seq.\] and Federal outlays under section 1935(b) of such Act \[42 U.S.C. 1396u–5(b)\], as added by section 103(a)(2); and
 
@@ -690,7 +690,7 @@ Costs of asset forfeiture.—For purposes of paragraph (1), the term 'payment of
 
 &emsp;&emsp;"(iii) reimbursement of any Federal, State, or local agency for any expenditures made to perform the functions described in this subparagraph;
 
-&emsp;"(B) at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Health Care Fraud and Abuse Control Account;
+&emsp;"(B) at the discretion of the Attorney General, the payment of awards for information or assistanceleading to a civil or criminal forfeiture involving any Federal agency participating in the Health Care Fraud and Abuse Control Account;
 
 &emsp;"(C) the compromise and payment of valid liens and mortgages against property that has been forfeited, subject to the discretion of the Attorney General to determine the validity of any such lien or mortgage and the amount of payment to be made, and the employment of attorneys and other personnel skilled in State real estate law as necessary;
 

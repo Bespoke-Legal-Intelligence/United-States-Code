@@ -6,7 +6,7 @@ Any person who, in such person's domestic manufacturing process or other domesti
 
 #### (b) Decision of Secretary
 
-Not later than 30 days after receipt of any petition under subsection (a), the Secretary shall transmit a written decision to the petitioner granting or denying the requested relief. Such decision shall contain a statement setting forth the Secretary's basis for the grant or denial. Any exemption granted may be subject to such conditions as the Secretary considers appropriate.
+Not later than 30 days after receipt of any petition under subsection (a), the Secretary shalltransmit a written decision to the petitioner granting or denying the requested relief. Such decision shall contain a statement setting forth the Secretary's basis for the grant or denial. Any exemption granted may be subject to such conditions as the Secretary considers appropriate.
 
 #### (c) Factors to be considered
 

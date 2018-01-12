@@ -30,7 +30,7 @@ The Secretary may approve a plan of action that provides for termination of the 
 
 #### (c) Disapproval
 
-If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
+If the Secretary determines a plan of action to prepay a mortgage or terminate an insurancecontract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
 
 (Pub. L. 100–242, title II, §218, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, §305, Oct. 28, 1992, 106 Stat. 3763.)
 

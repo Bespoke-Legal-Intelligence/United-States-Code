@@ -24,7 +24,7 @@
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294 made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §280005(c)(1), (2), in second sentence, substituted "Chair" for "Chairman" and in fifth sentence, substituted "the Attorney General's designee" for "his designee".
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §280005(c)(1), (2), in second sentence, substituted "Chair" for "Chairman"and in fifth sentence, substituted "the Attorney General's designee" for "his designee".
 
 Pub. L. 103–322, §280005(a), as amended by Pub. L. 104–294, in second sentence, substituted "and three of whom shall be designated by the President as Vice Chairs." for the period at end, in fourth sentence, substituted ", and of the three Vice Chairs, no more than two shall be members of the same political party." for the period at end, and in last sentence, substituted "Chair, Vice Chairs," for "Chairman".
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Chapter effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as a note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Composition of Members of Commission During First Five-Year Period
 

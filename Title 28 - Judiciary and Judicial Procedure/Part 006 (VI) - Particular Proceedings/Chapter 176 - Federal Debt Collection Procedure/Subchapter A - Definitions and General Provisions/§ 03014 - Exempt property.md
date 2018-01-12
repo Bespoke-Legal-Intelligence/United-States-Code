@@ -16,7 +16,7 @@ Effect on Assertion and Manner of Determination.—
 
 &emsp;(1)
 
-Statement.—A court may order the debtor to file a statement with regard to any claimed exemption. A copy of such statement shall be served on counsel for the UnitedStates. Such statement shall be under oath and shall describe each item of property for which exemption is claimed, the value and the basis for such valuation, and the nature of the debtor's ownership interest.
+Statement.—A court may order the debtor to file a statement with regard to any claimed exemption. A copy of such statement shall be served on counsel for the United States. Such statement shall be under oath and shall describe each item of property for which exemption is claimed, the value and the basis for such valuation, and the nature of the debtor's ownership interest.
 
 &emsp;(2)
 
@@ -31,4 +31,8 @@ Stay of Disposition.—Assertion of an exemption shall prevent the United States
 Debtors in Joint Cases.—Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4938.)
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 

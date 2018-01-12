@@ -8,7 +8,7 @@ A regulated investment company—
 
 &emsp;(2) which meets the requirements of section 852(a) for the taxable year (determined after the application of this section),
 
-> may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) to the investment company during such taxable year with respect to such bonds.
+> may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) <sup>1</sup> to the investment company during such taxable year with respect to such bonds.
 
 #### (b) Effect of election
 
@@ -30,7 +30,7 @@ If the election provided in subsection (a) is in effect with respect to any cred
 
 &emsp;&emsp;(B) be allowed credits against the tax imposed by this chapter equal to the amount of such distribution, subject to the provisions of this title applicable to the credit involved.
 
-#### (c) Statements <sup>1</sup> to shareholders
+#### (c) Statements <sup>2</sup> to shareholders
 
 The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
@@ -48,19 +48,19 @@ The election provided in subsection (a) shall be made in such manner as the Secr
 
 &emsp;&emsp;The term "tax credit bond" means—
 
-&emsp;&emsp;&emsp;(i) a qualified tax credit bond (as defined in section 54A(d)),
+&emsp;&emsp;&emsp;(i) a qualified tax credit bond (as defined in section 54A(d)),<sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) a build America bond (as defined in section 54AA(d)) other than a qualified bond described in section 54AA(g), and
+&emsp;&emsp;&emsp;(ii) a build America bond (as defined in section 54AA(d)) <sup>1</sup> other than a qualified bond described in section 54AA(g),<sup>1</sup> and
 
-&emsp;&emsp;&emsp;(iii) any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
+&emsp;&emsp;&emsp;(iii) any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.<sup>1</sup>
 
 #### (B) Applicable date
 
 &emsp;&emsp;The term "applicable date" means—
 
-&emsp;&emsp;&emsp;(i) in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), and
+&emsp;&emsp;&emsp;(i) in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)),<sup>1</sup> and
 
-&emsp;&emsp;&emsp;(ii) in the case of a build America bond (as defined in section 54AA(d)), any interest payment date (as defined in section 54AA(e)).
+&emsp;&emsp;&emsp;(ii) in the case of a build America bond (as defined in section 54AA(d)),<sup>1</sup> any interest payment date (as defined in section 54AA(e)).<sup>1</sup>
 
 #### (2) Stripped tax credit bonds
 
@@ -72,6 +72,14 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, §301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, §209(h), Dec. 19, 2014, 128 Stat. 4029.)
 
+#### References in Text
+
+Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
+
+Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
+
+Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to some or all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
@@ -80,7 +88,7 @@ Subsec. (a)(2). Pub. L. 113–295, §209(h)(1), inserted "(determined after the 
 
 Subsec. (b). Pub. L. 113–295, §209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
 
-Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recoveryand Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, §1541(a), subsec. (c) read as follows: "
+Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, §1541(a), subsec. (c) read as follows: "
 
 Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder's proportionate share of—
 
@@ -106,7 +114,9 @@ Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section applicable to taxable years ending after Feb. 17, 2009, see section 1541(c) of Pub. L. 111–5, set out as an Effective Date of 2009 Amendment note under section 54 of this title.
+Pub. L. 111–5, div. B, title I, §1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: "The amendments made by this section \[enacting this section and amending sections 54 and 54A of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-<i><sup>1</sup></i><i> See 2010 Amendment note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See 2010 Amendment note below.</i>
 

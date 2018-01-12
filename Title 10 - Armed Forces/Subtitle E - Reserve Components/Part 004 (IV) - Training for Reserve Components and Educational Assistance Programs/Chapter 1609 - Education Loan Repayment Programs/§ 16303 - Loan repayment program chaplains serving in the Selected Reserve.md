@@ -22,15 +22,17 @@ Loan Repayment Process; Maximum Amount.—(1) Subject to paragraph (2), the repa
 
 (d)
 
-Effect of Failure to Complete Obligation.—A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) of title 37.
+Effect of Failure to Complete Obligation.—A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (e)
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§684(a), 687(c)(14), Jan. 6, 2006, 119 Stat. 3324, 3335.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§684(a), 687(c)(14), Jan. 6, 2006, 119 Stat. 3324, 3335; Pub. L. 115–91, div. A, title VI, §618(a)(1)(Q), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement."
 

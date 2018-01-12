@@ -10,7 +10,7 @@
 
 &emsp;The report required by paragraph (1) may include such recommendations as the heads of the appropriate Federal entities may have for improvements or modifications to the authorities, policies, procedures, and guidelines under this subchapter and shall include the following:
 
-&emsp;&emsp;(A) An evaluation of the effectiveness of real-time information sharing through the capability and process developed under section 1504(c) of this title, including any impediments to such real-time sharing.
+&emsp;&emsp;(A) An evaluation of the effectiveness of real-time information sharing through thecapability and process developed under section 1504(c) of this title, including any impediments to such real-time sharing.
 
 &emsp;&emsp;(B) An assessment of whether cyber threat indicators or defensive measures have been properly classified and an accounting of the number of security clearances authorized by the Federal Government for the purpose of sharing cyber threat indicators or defensive measures with the private sector.
 

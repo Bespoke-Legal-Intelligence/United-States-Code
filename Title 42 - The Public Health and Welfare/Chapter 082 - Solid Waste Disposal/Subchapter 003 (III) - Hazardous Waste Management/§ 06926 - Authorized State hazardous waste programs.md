@@ -10,13 +10,13 @@ Any State which seeks to administer and enforce a hazardous waste program pursua
 
 #### (c) Interim authorization
 
-(1) Any State which has in existence a hazardous waste program pursuant to State law before the date ninety days after the date of promulgation of regulations under sections 6922, 6923, 6924, and 6925 of this title, may submit to the Administrator evidence of such existing program and may request a temporary authorization to carry out such program under this subchapter. The Administrator shall, if the evidence submittedshows the existing State program to be substantially equivalent to the Federal program under this subchapter, grant an interim authorization to the State to carry out such program in lieu of the Federal program pursuant to this subchapter for a period ending no later than January 31, 1986.
+(1) Any State which has in existence a hazardous waste program pursuant to State law before the date ninety days after the date of promulgation of regulations under sections 6922, 6923, 6924, and 6925 of this title, may submit to the Administrator evidence of such existing program and may request a temporary authorization to carry out such program under this subchapter. The Administrator shall, if the evidence submitted shows the existing State program to be substantially equivalent to the Federal program under this subchapter, grant an interim authorization to the State to carry out such program in lieu of the Federal program pursuant to this subchapter for a period ending no later than January 31, 1986.
 
 (2) The Administrator shall, by rule, establish a date for the expiration of interim authorization under this subsection.
 
 (3) Pending interim or final authorization of a State program for any State which reflects the amendments made by the Hazardous and Solid Waste Amendments of 1984, the State may enter into an agreement with the Administrator under which the State may assist in the administration of the requirements and prohibitions which take effect pursuant to such Amendments.
 
-(4) In the case of a State permit program for any State which is authorized under subsection (b) of this section or under this subsection, until such program is amended to reflect the amendments made by the Hazardous and Solid Waste Amendments of 1984 and such program amendments receive interim or final authorization, the Administrator shall have the authority in such State to issue or deny permits or those portions of permits affected by the requirements and prohibitions established by the Hazardous and Solid Waste Amendments of 1984. The Administrator shall coordinate with States the procedures for issuing such permits.
+(4) In the case of a State permit program for any State which is authorized under subsection (b) or under this subsection, until such program is amended to reflect the amendments made by the Hazardous and Solid Waste Amendments of 1984 and such program amendments receive interim or final authorization, the Administrator shall have the authority in such State to issue or deny permits or those portions of permits affected by the requirements and prohibitions established by the Hazardous and Solid Waste Amendments of 1984. The Administrator shall coordinate with States the procedures for issuing such permits.
 
 #### (d) Effect of State permit
 
@@ -58,7 +58,7 @@ The Hazardous and Solid Waste Amendments of 1984, referred to in subsecs. (c)(3)
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–616, §§225, 241(b)(2), inserted "(and to enforce permits deemed to have been issued under section 6935(d)(1) of this title)", and inserted provision at end that in authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State's application or in effect on January 26, 1983, whichever is later.
 
-Subsec. (c)(1). Pub. L. 98–616, §227(1), (2), designated existing provisions as par. (1) and substituted "periodending no later than January 31, 1986" for "twenty-four month period beginning on the date six months after the date of promulgation of regulations under sections 6922 through 6925 of this title".
+Subsec. (c)(1). Pub. L. 98–616, §227(1), (2), designated existing provisions as par. (1) and substituted "period ending no later than January 31, 1986" for "twenty-four month period beginning on the date six months after the date of promulgation of regulations under sections 6922 through 6925 of this title".
 
 Subsec. (c)(2) to (4). Pub. L. 98–616, §227(3), added pars. (2) to (4).
 

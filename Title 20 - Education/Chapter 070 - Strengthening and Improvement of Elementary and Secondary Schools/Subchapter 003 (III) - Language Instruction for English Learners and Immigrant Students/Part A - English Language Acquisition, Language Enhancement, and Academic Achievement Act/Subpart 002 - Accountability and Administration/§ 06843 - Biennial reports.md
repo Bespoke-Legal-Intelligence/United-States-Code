@@ -16,7 +16,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(4) containing a description of technical assistance and other assistance provided by State educational agencies under section 6821(b)(2)(D) of this title;
 
-&emsp;(5) containing an estimate of the number of certified or licensed teachers working in language instruction educational programs and educating English learners, and an estimate of the number of such teachers that will be needed for the succeeding 5 fiscal years;
+&emsp;(5) containing an estimate of the number of certified or licensed teachers working in language instruction educational programs and educating English learners, and an estimate ofthe number of such teachers that will be needed for the succeeding 5 fiscal years;
 
 &emsp;(6) containing the findings of the most recent evaluation related to English learners carried out under section 7981 of this title;
 

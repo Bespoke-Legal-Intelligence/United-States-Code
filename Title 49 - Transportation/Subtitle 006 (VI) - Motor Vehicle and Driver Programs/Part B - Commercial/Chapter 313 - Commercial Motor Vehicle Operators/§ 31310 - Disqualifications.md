@@ -6,7 +6,7 @@ Blood Alcohol Concentration Level.—In this section, the blood alcohol concentr
 
 (b)
 
-First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualifyfrom operating a commercial motor vehicle for at least one year an individual—
+First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualify from operating a commercial motor vehicle for at least one year an individual—
 
 &emsp;(A) committing a first violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
@@ -40,7 +40,15 @@ Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsectio
 
 (d)
 
-Controlled Substance Violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+Lifetime Disqualification Without Reinstatement.—
+
+&emsp;(1)
+
+Controlled substance violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+
+&emsp;(2)
+
+Human trafficking violations.—The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)).
 
 (e)
 
@@ -116,7 +124,7 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 Foreign Commercial Drivers.—A foreign commercial driver shall be subject to disqualification under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759; Pub. L. 109–59, title IV, §4102(b), Aug. 10, 2005, 119 Stat. 1715; Pub. L. 112–141, div. C, title II, §§32204, 32507, 32931(d), July 6, 2012, 126 Stat. 785, 804, 829.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759; Pub. L. 109–59, title IV, §4102(b), Aug. 10, 2005, 119 Stat. 1715; Pub. L. 112–141, div. C, title II, §§32204, 32507, 32931(d), July 6, 2012, 126 Stat. 785, 804, 829; Pub. L. 115–106, §2, Jan. 8, 2018, 131 Stat. 2265.)
 
 Historical and Revision Notes
 
@@ -175,6 +183,8 @@ In subsection (g)(1)(A), the words "Not later than 1 year after October 27, 1986
 In subsection (g)(2), before clause (A), the words "Not later than December 18, 1992, the Secretary shall prescribe regulations" are substituted for "The Secretary shall issue regulations" and 49 App.:2718(c) to eliminate executed words. The word "individuals" is substituted for "persons" for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words "permits, authorizes" are omitted as being included in "allows".
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–106 substituted "Lifetime Disqualification Without Reinstatement" for "Controlled Substance Violations" in heading, inserted par. (1) designation and heading, and added par. (2).
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–141, §32507, inserted "section 521 or" before "section 5102" in pars. (1) and (2).
 

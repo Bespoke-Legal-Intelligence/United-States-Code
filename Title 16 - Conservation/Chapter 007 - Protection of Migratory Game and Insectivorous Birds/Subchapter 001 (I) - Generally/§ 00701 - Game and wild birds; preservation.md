@@ -24,7 +24,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Migratory birds are of great ecological and economic value to this country and to other countries. They contribute to biological diversity and bring tremendous enjoyment to millions of Americans who study, watch, feed, or hunt these birds throughout the United States and other countries. The United States has recognized the critical importance of this shared resource by ratifying international, bilateral conventions for the conservation of migratory birds. Such conventions include the Convention for the Protection of Migratory Birds with Great Britain on behalf of Canada 1916, the Convention for the Protection of Migratory Birds and Game Mammals-Mexico 1936, the Convention for the Protection of Birds and Their Environment-Japan 1972, and the Convention for the Conservation of Migratory Birds and Their Environment-Union of Soviet Socialist Republics 1978.
 
-These migratory bird conventions impose substantive obligations on the United States for the conservation of migratory birds and their habitats, and through the Migratory Bird Treaty Act (Act), the United States has implemented these migratory bird conventions with respect to the United States. This Executive Order directs executive departments and agencies to take certain actions to further implement the Act.
+These migratory bird conventions impose substantive obligations on the United States for the conservation of migratory birds and their habitats, and through theMigratory Bird Treaty Act (Act), the United States has implemented these migratory bird conventions with respect to the United States. This Executive Order directs executive departments and agencies to take certain actions to further implement the Act.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 
@@ -80,7 +80,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (12) provide training and information to appropriate employees on methods and means of avoiding or minimizing the take of migratory birds and conserving and restoring migratory bird habitat;
 
-(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Departmentof State, as appropriate or relevant to the agency's authorities;
+(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Department of State, as appropriate or relevant to the agency's authorities;
 
 (14) recognize and promote economic and recreational values of birds, as appropriate; and
 

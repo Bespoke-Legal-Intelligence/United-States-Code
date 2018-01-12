@@ -26,7 +26,7 @@ In addition to continuing bilateral and multilateral economic and development as
 
 &emsp;(5) increasing trade in services; and
 
-&emsp;(6) encouraging greater sub-Saharan African participation in future negotiations in theWorld Trade Organization on services and making further commitments in their schedules to the General Agreement on Trade in Services in order to encourage the removal of tariff and nontariff barriers.
+&emsp;(6) encouraging greater sub-Saharan African participation in future negotiations in the World Trade Organization on services and making further commitments in their schedules to the General Agreement on Trade in Services in order to encourage the removal of tariff and nontariff barriers.
 
 (Pub. L. 106–200, title I, §122, May 18, 2000, 114 Stat. 268.)
 

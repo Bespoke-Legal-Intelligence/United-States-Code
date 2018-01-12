@@ -80,7 +80,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### (2) Access
 
-&emsp;The exemption provided under this subsection shall not apply if the test is administered to a prospective employee who would not be employed to protect facilities, materials, operations, or assets referred to in paragraph (1).
+&emsp;The exemption provided under this subsection shall not apply if the test is administered to a prospective employee who would notbe employed to protect facilities, materials, operations, or assets referred to in paragraph (1).
 
 #### (f) Exemption for drug security, drug theft, or drug diversion investigations
 
@@ -117,4 +117,8 @@ Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356,
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+
+#### Effective Date
+
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 

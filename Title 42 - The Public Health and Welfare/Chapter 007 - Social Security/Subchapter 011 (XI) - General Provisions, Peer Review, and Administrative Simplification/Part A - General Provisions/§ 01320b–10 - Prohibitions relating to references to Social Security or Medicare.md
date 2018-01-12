@@ -36,7 +36,7 @@ The Commissioner or the Secretary (as applicable) may, pursuant to regulations, 
 
 &emsp;(2) in the case of a violation consisting of a broadcast or telecast, $25,000,
 
-> against any person for each violation by such person of subsection (a). In the case of any items referred to in subsection (a)(1) consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation. In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation <sup>2</sup> In the case of any item referred to in subsection (a)(2), the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
+> against any person for each violation by such person of subsection (a). In the case of any items referred to in subsection (a)(1) consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation. In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing ofsuch a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation <sup>2</sup> In the case of any item referred to in subsection (a)(2), the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
 
 #### (c) Application of other law; compromise, recovery, and deposit into Treasury of civil money penalties
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 114–74, §814(b), in concluding provisions, inserted "In 
 
 Subsec. (a)(1). Pub. L. 108–203, §207(a)(3), which directed the substitution of "the Centers for Medicare \& Medicaid Services," for "the Health Care Financing Administration," wherever appearing in concluding provisions, could not be executed because "the Health Care Financing Administration," did not appear subsequent to amendment by Pub. L. 108–173, §900(e)(1)(B)(i). See 2003 Amendment note below.
 
-Subsec. (a)(1)(A). Pub. L. 108–203, §207(a)(1), which directed the insertion of " 'Centers for Medicare \& Medicaid Services'," after " 'Health Care Financing Administration'," and " 'CMS'," after " 'HCFA',", could not beexecuted because of the prior amendment by Pub. L. 108–173, §900(e)(1)(B)(ii). See 2003 Amendment note below.
+Subsec. (a)(1)(A). Pub. L. 108–203, §207(a)(1), which directed the insertion of " 'Centers for Medicare \& Medicaid Services'," after " 'Health Care Financing Administration'," and " 'CMS'," after " 'HCFA',", could not be executed because of the prior amendment by Pub. L. 108–173, §900(e)(1)(B)(ii). See 2003 Amendment note below.
 
 Pub. L. 108–203, §207(a)(1), substituted " 'Medicaid', 'Death Benefits Update', 'Federal Benefit Information', 'Funeral Expenses', or 'Final Supplemental Plan'," for "or 'Medicaid',".
 
@@ -142,7 +142,7 @@ In general.—The Secretary of Health and Human Services and the Commissioner of
 
 &emsp;"(D) the total amount of civil money penalties assessed by the Social Security Administration or the Department under this section during the period,
 
-&emsp;"(E) the number of requests for hearings filed during the period by the Social Security Administration or the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
+&emsp;"(E) the number of requests for hearings filed during the period by the Social Security Administrationor the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
 
 &emsp;"(F) the disposition during the period of hearings filed pursuant to sections 1140(c)(1) and 1128A(c)(2) of the Social Security Act, and
 

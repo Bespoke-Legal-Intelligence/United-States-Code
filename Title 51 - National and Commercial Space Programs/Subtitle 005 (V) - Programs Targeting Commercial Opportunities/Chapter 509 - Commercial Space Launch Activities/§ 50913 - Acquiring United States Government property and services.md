@@ -26,11 +26,11 @@ Price.—(1) In this subsection, "direct costs" means the actual costs that—
 
 &emsp;(C) launch services or reentry services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
 
-(3) The Secretary shall ensure the establishment of uniform guidelines for, and consistentimplementation of, this section by all Federal agencies.
+(3) The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
 
 (c)
 
-Collection by Secretary.—The Secretary may collect a payment under this section with the consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
+Collection by Secretary.—The Secretary may collect a payment under this section withthe consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
 
 (d)
 

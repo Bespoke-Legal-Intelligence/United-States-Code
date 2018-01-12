@@ -44,7 +44,7 @@ For purposes of this section—
 
 > &emsp;&emsp;For purposes of clause (iii), equity interests owned by a member (or the spouse of a member) of a qualified Indian tribe shall be treated as owned by the tribe.
 
-#### (B) Qualified indian tribe
+#### (B) Qualified Indian tribe
 
 &emsp;&emsp;For purposes of subparagraph (A), an Indian tribe is a qualified Indian tribe with respect to an entity if such entity is engaged in a fishing rights-related activity of such tribe.
 

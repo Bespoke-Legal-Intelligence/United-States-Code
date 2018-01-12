@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;(C) attended a public or nonprofit private secondary school that—
 
-&emsp;&emsp;&emsp;(i) is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
+&emsp;&emsp;&emsp;(i) is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
 
 &emsp;&emsp;&emsp;(ii) for the purpose of this paragraph and for such year of attendance, was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children meeting a measure of poverty under section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (2) Graduates basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretaryshall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
 
 #### (3) Graduates seeking a higher degree basis
 

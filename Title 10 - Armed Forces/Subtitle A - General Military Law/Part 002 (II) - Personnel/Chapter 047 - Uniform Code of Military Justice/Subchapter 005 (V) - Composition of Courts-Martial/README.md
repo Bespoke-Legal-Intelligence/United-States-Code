@@ -17,20 +17,24 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 114–328, div. E, title LXIII, §§5541(2)(A), (C), 5542, Dec. 23, 2016, 130 Stat. 2965, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 825a and 829 and inserting the following new items:</i>
+<i>Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1599, amended Pub. L. 114–328, §5541(2), set out in part below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.</i>
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(2)(A), (C), 5542, Dec. 23, 2016, 130 Stat. 2965, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 825a and 829 and inserting the following new items:</i>
 
 &nbsp;
 
 | Sec. | Art. | &nbsp; |
 | :--- | :---: | ---: |
-| [825\.](%C2%A7%2000825%20-%20Art.%2025.%20Who%20may%20serve%20on%20courts-martial.md) | 25a. | Number of court-martial members in capital cases. |
+| [825a.](%C2%A7%2000825a%20-%20Art.%2025a.%20Number%20of%20members%20in%20capital%20cases.md) | 25a. | Number of court-martial members in capital cases. |
 | [829\.](%C2%A7%2000829%20-%20Art.%2029.%20Absent%20and%20additional%20members.md) | 29\. | Assembly and impaneling of members; detail of new members and military judges. |
 
 <i>See 2016 Amendment note below.</i>
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, added item 825 relating to number of court-martial members in capital cases and item 826a, substituted "Assembly and impaneling of members; detail of new members and military judges" for "Absent and additional members" in item 829, and struck out former item 825a "Art. 25a. Number of members in capital cases".
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, §5541(2). See 2016 Amendment note below.
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a "Art. 25a. Number of members in capital cases" and 829 "Art. 29. Absent and additional members".
 
 <b>2001</b>—Pub. L. 107–107, div. A, title V, §582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
 

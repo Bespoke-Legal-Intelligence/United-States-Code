@@ -20,7 +20,7 @@ The Secretary may not make a grant to an institution of higher education under t
 
 &emsp;(6) Supporting the training of students, faculty, and staff to respond effectively to students with mental and substance use disorders.
 
-&emsp;(7) Creating a network infrastructure to link institutions of higher education with healthcare providers who treat mental and substance use disorders.
+&emsp;(7) Creating a network infrastructure to link institutions of higher education with health care providers who treat mental and substance use disorders.
 
 &emsp;(8) Providing mental and substance use disorders prevention and treatment services to students, which may include recovery support services and programming and early intervention, treatment, and management, including through the use of telehealth services.
 
@@ -30,7 +30,7 @@ The Secretary may not make a grant to an institution of higher education under t
 
 &emsp;(11) Employing appropriately trained staff.
 
-&emsp;(12) Developing and supporting evidence-based and emerging best practices, including a focus on culturally and linguistically appropriate best practices.
+&emsp;(12) Developing and supporting evidence-based and emerging best practices, including afocus on culturally and linguistically appropriate best practices.
 
 #### (c) Eligible grant recipients
 
@@ -186,7 +186,7 @@ Duties.—The Task Force shall—
 
 &emsp;&emsp;"(H) provide a description of evidence-based practices, model programs, effective guidelines, and other strategies for promoting mental and behavioral health on campuses of institutions of higher education;
 
-&emsp;&emsp;"(I) make recommendations to improve Federal efforts relating to mental and behavioral health promotion on campuses of institutions of higher education and to ensure Federal efforts are consistent with available standards, evidence, and otherprograms in existence as of the date of enactment of this Act \[Dec. 13, 2016\];
+&emsp;&emsp;"(I) make recommendations to improve Federal efforts relating to mental and behavioral health promotion on campuses of institutions of higher education and to ensure Federal efforts are consistent with available standards, evidence, and other programs in existence as of the date of enactment of this Act \[Dec. 13, 2016\];
 
 &emsp;&emsp;"(J) monitor Federal progress in meeting specific mental and behavioral health promotion goals as they relate to settings of institutions of higher education; and
 
@@ -210,7 +210,7 @@ Annual conference.—The Secretary shall sponsor an annual conference on mental 
 
 "(f)
 
-Definition.—In this section, the term 'institution of higher education' has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+Definition.—In this section, the term 'institution of higher education' has the meaning given suchterm in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 "(g)
 

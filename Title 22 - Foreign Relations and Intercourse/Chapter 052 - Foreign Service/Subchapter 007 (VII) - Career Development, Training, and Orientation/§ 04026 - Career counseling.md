@@ -24,7 +24,7 @@ In order to facilitate their transition from the Service, the Secretary may prov
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2314(b), Oct. 21, 1998, 112 Stat. 2681–828, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective 180 days after the date of the enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2314(b), Oct. 21, 1998, 112 Stat. 2681–828, provided that: "Theamendment made by subsection (a) \[amending this section\] shall be effective 180 days after the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Authority of Secretary of State
 

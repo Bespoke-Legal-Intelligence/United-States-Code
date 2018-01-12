@@ -34,7 +34,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the biennial resubmittal of the program plan to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and the 2nd item on page 86 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the biennial resubmittal of the program plan to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 86 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

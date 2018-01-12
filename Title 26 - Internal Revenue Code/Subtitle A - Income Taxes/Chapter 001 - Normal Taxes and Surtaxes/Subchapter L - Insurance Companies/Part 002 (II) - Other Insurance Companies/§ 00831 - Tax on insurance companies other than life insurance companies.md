@@ -8,7 +8,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (1) In general
 
-&emsp;In lieu of the tax otherwise applicable under subsection (a), there is hereby imposed for each taxable year on the income of every insurance company to which this subsection applies a tax computed by multiplying the taxable investment income of such company forsuch taxable year by the rates provided in section 11(b).
+&emsp;In lieu of the tax otherwise applicable under subsection (a), there is hereby imposed for each taxable year on the income of every insurance company to which this subsection applies a tax computed by multiplying the taxable investment income of such company for such taxable year by the rates provided in section 11(b).
 
 #### (2) Companies to which this subsection applies
 
@@ -78,13 +78,13 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;If the amount as adjusted under the preceding sentence is not a multiple of $50,000, such amount shall be rounded to the next lowest multiple of $50,000.
 
 #### (3) Limitation on use of net operating losses
 
-&emsp;For purposes of this part, except as provided in section 844, a net operating loss (as defined in section 172) shall not be carried—
+&emsp;For purposes of this part, a net operating loss (as defined in section 172) shall not be carried—
 
 &emsp;&emsp;(A) to or from any taxable year for which the insurance company is not subject to the tax imposed by subsection (a), or
 
@@ -100,19 +100,23 @@ Every insurance company for which an election is in effect under subsection (b) 
 
 #### (e) Cross references
 
-&emsp;&emsp;<b>(1) For alternative tax in case of capital gains, see section 1201(a).</b>
+&emsp;&emsp;<b>(1) For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.</b>
 
-&emsp;&emsp;<b>(2) For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.</b>
+&emsp;&emsp;<b>(2) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-&emsp;&emsp;<b>(3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(D)(ii). Pub. L. 115–97, §11002(d)(1)(AA), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (b)(3). Pub. L. 115–97, §13511(b)(2)(B), struck out "except as provided in section 844," after "part," in introductory provisions.
+
+Subsec. (e). Pub. L. 115–97, §13001(b)(2)(H), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "For alternative tax in case of capital gains, see section 1201(a)."
 
 <b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–113, §333(a)(1)(A), (C), (b)(1), struck out "(including interinsurers and reciprocal underwriters)" after "other than life" in introductory provisions, substituted "$2,200,000" for "$1,200,000" in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted "clause (iii)" for "clause (ii)" and "clauses (i) and (ii)" for "clause (i)".
 
@@ -148,6 +152,14 @@ Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, an
 
 Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(AA) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 13001(b)(2)(H) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Amendment by section 13511(b)(2)(B) of Pub. L. 115–97 applicable to losses arising in taxable years beginning after Dec. 31, 2017, see section 13511(c) of Pub. L. 115–97, set out as a note under section 381 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title III, §333(c), Dec. 18, 2015, 129 Stat. 3108, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
@@ -162,11 +174,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by thissection \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(107) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(107) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -192,7 +204,7 @@ Transitional rule for unused loss carryover under section 825.—Any unused loss
 
 &emsp;"(B) could have been carried under such section to a taxable year beginning after December 31, 1986, but for the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
 
-> shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of section 844(b) of such Code."
+> shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of \[former\] section 844(b) of such Code."
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

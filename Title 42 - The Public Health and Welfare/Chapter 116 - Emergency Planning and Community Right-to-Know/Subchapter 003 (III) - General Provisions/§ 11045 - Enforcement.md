@@ -46,7 +46,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 &emsp;&emsp;(B) that the trade secret claim is frivolous,
 
-> &emsp;the trade secret claimant is liable for a penalty of $25,000 per claim. The Administrator may assess the penalty by administrative order or may bring an action in the appropriate district court of the United States to assess and collect the penalty.
+> &emsp;the trade secret claimant is liable for a penalty of $25,000 per claim. The Administratormay assess the penalty by administrative order or may bring an action in the appropriate district court of the United States to assess and collect the penalty.
 
 #### (2) Criminal penalty for disclosure of trade secret information
 

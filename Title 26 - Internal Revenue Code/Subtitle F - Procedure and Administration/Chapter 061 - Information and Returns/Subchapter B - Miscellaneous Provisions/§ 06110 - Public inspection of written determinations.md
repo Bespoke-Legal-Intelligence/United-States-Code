@@ -50,7 +50,7 @@ Before making any written determination or background file document open or avai
 
 &emsp;(7) geological and geophysical information and data, including maps, concerning wells.
 
-> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in aproceeding under subsection (f)(3)) to make such deletions.
+> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in a proceeding under subsection (f)(3)) to make such deletions.
 
 #### (d) Procedures with regard to third party contacts
 
@@ -78,7 +78,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) Notice of intention to disclose
 
-&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
+&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of anywritten determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
 
 #### (2) Administrative remedies
 
@@ -110,7 +110,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (A) Creation of remedy
 
-&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant toparagraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
+&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant to paragraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
 
 #### (B) Intervention
 
@@ -128,7 +128,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified under subsection (c)) shall be open or available to public inspection—
+&emsp;Except as otherwise provided in this section, the text of any written determination or anybackground file document (as modified under subsection (c)) shall be open or available to public inspection—
 
 &emsp;&emsp;(A) no earlier than 75 days, and no later than 90 days, after the notice provided in subsection (f)(1) is mailed, or, if later,
 
@@ -168,7 +168,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;&emsp;&emsp;(iv) a partnership's or partner's taxable year under section 706,
 
-> &emsp;&emsp;but the Secretary shall make any such written determination and related backgroundfile document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
+> &emsp;&emsp;but the Secretary shall make any such written determination and related background file document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
 
 #### (h) Disclosure of prior written determinations and related background file documents
 
@@ -394,7 +394,7 @@ Documents treated as chief counsel advice.—If the Secretary of the Treasury by
 
 "(4)
 
-Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days afterthe date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
+Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
 
 #### Effective Date of 1992 Amendment
 

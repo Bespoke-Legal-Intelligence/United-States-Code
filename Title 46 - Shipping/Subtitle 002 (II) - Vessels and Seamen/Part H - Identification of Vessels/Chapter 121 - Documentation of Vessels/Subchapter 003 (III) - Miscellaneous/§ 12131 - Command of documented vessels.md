@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), a documented vessel may be placedunder the command only of a citizen of the United States.
+In General.—Except as provided in subsection (b), a documented vessel may be placed under the command only of a citizen of the United States.
 
 (b)
 

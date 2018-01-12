@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration
 
-It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collectivejudgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
+It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collective judgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
 
 #### (b) Congressional legislative power under necessary and proper clause
 
@@ -28,7 +28,7 @@ Pub. L. 111–84, div. A, title XII, §1227, Oct. 28, 2009, 123 Stat. 2525, as a
 
 "(a)
 
-Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
+Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submitto the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
 
 "(b)
 
@@ -196,7 +196,7 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 "Whereas, on September 11, 2001, acts of treacherous violence were committed against the United States and its citizens; and
 
-"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights toself-defense and to protect United States citizens both at home and abroad; and
+"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights to self-defense and to protect United States citizens both at home and abroad; and
 
 "Whereas, in light of the threat to the national security and foreign policy of the United States posed by these grave acts of violence; and
 
@@ -382,7 +382,7 @@ Pub. L. 103–139, title VIII, §8151, Nov. 11, 1993, 107 Stat. 1475, provided t
 
 &emsp;&emsp;"(A) United States military logistical support services to United Nations forces; and
 
-&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, That United States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the securitymissions of United States Armed Forces: <i>Provided further</i>, That—
+&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, That United States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the security missions of United States Armed Forces: <i>Provided further</i>, That—
 
 &emsp;&emsp;&emsp;"(i) captured United States personnel in Somalia should be treated humanely and fairly; and
 
@@ -474,7 +474,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8101\], Oct. 12, 1984, 98 St
 
 &emsp;"(1) United States Armed Forces should not be introduced into or over the countries of Central America for combat; and
 
-&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consultwith Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
+&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consult with Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
 
 #### Multinational Force in Lebanon Resolution
 
@@ -510,7 +510,7 @@ Sec. 2. (a) The Congress finds that—
 
 "
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon,subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### "reports to the congress
 
@@ -574,7 +574,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 #### Adherence to War Powers Resolution
 
-Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: "Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution."
+Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: "Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is thereforethe sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution."
 
 #### Delegation of Certain Reporting Authority
 

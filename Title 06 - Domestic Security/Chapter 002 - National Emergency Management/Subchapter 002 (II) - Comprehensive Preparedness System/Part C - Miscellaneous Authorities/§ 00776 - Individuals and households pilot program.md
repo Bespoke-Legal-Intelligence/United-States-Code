@@ -12,7 +12,7 @@
 
 &emsp;&emsp;For the purposes of the pilot program under this section, the Administrator may—
 
-&emsp;&emsp;&emsp;(i) enter into lease agreements with owners of multi-family rental property located in areas covered by a major disaster declaration to house individuals and households eligible for assistance under section 5174 of title 42;
+&emsp;&emsp;&emsp;(i) enter into lease agreements with owners of multi-family rental property locatedin areas covered by a major disaster declaration to house individuals and households eligible for assistance under section 5174 of title 42;
 
 &emsp;&emsp;&emsp;(ii) make improvements to properties under such lease agreements;
 

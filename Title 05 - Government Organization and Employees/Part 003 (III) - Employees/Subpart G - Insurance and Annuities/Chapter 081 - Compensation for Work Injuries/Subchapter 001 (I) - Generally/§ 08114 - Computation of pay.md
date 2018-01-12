@@ -24,7 +24,7 @@
 
 &emsp;(4) If the employee served without pay or at nominal pay, paragraphs (1), (2), and (3) of this subsection apply as far as practicable, but the average annual earnings of the employee may not exceed the minimum rate of basic pay for GS–15. If the average annual earnings cannot be determined reasonably and fairly in the manner otherwise provided by this section, the average annual earnings shall be determined at the reasonable value of the service performed but not in excess of $3,600 a year.
 
-(e) The value of subsistence and quarters, and of any other form of remuneration in kind for services if its value can be estimated in money, and premium pay under section 5545(c)(1) of thistitle are included as part of the pay, but account is not taken of—
+(e) The value of subsistence and quarters, and of any other form of remuneration in kind for services if its value can be estimated in money, and premium pay under section 5545(c)(1) of this title are included as part of the pay, but account is not taken of—
 
 &emsp;(1) overtime pay;
 

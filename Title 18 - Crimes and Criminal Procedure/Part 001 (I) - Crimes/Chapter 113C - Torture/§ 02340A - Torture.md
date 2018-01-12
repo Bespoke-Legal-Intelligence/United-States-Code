@@ -24,3 +24,7 @@ Conspiracy.—A person who conspires to commit an offense under this section sha
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 inserted "punished by death or" before "imprisoned for any term of years or for life".
 
+#### Effective Date
+
+Section effective on the later of Apr. 30, 1994, or the date on which the United States has become a party to the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Nov. 20, 1994), see section 506(c) of Pub. L. 103–236, set out as a note under section 2340 of this title.
+

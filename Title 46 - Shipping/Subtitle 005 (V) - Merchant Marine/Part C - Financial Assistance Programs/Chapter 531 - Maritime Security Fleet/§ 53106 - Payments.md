@@ -28,7 +28,7 @@ Timing.—The amount shall be paid in equal monthly installments at the end of e
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractorfor the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 
@@ -48,11 +48,11 @@ General Limitations.—The Secretary of Transportation shall not make any paymen
 
 Reductions in Payments.—With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
 
-&emsp;(1) except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
+&emsp;(1) except as provided in paragraph (2), shall not reduce any payment for the operation ofthe vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
 
 &emsp;(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
-&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 
 (e)
 
@@ -70,9 +70,13 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–91, §3503(b)(1), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel," for "section 53105(a)(1)".
+
+Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel" for "section 53105(a)(1)".
 
 <b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for "; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
 

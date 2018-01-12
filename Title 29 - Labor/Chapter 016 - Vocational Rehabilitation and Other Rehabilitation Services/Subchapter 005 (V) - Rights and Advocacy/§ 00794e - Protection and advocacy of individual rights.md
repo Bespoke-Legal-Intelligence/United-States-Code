@@ -58,7 +58,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (5) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the totalamount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (d) Proportional reduction
 
@@ -80,7 +80,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;(4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
 
-&emsp;(5) develop a statement of objectives and priorities on an annual basis, and provide to thepublic, including individuals with disabilities and, as appropriate, the individuals' representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
+&emsp;(5) develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, the individuals' representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
 
 &emsp;&emsp;(A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
@@ -106,7 +106,7 @@ For purposes of any audit, report, or evaluation of the performance of the progr
 
 #### (i) Administrative cost
 
-In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
+In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the systemrequired by this section. Such portion may not exceed 5 percent of the allotment.
 
 #### (j) Delegation
 
@@ -176,7 +176,7 @@ Allotments.—For any fiscal year in which the amount appropriated to carry out 
 
 "(2)
 
-Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
+Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United StatesVirgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
 
 Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted "paragraph (3)(B)" for "this subsection".
 

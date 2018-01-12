@@ -40,7 +40,7 @@ For the purposes of assisting in the planning and evaluation of reclamation proj
 
 Subsec. (a)(2). Pub. L. 109–432, §203(1)(B), designated existing provisions as subpar. (A), substituted "health and safety" for "health, safety, and general welfare", and added subpar. (B).
 
-Subsec. (a)(3). Pub. L. 109–432, §203(1)(C), which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
+Subsec. (a)(3). Pub. L. 109–432, §203(1)(C), which directed that a period be substituted for the semicolon atend, could not be executed because a period already appeared at end.
 
 Subsec. (a)(4), (5). Pub. L. 109–432, §203(1)(D), struck out pars. (4) and (5) which read as follows:
 

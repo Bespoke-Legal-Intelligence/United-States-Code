@@ -62,7 +62,7 @@ The purpose of this section is to support the participation of low-income parent
 
 #### (8) Publicity
 
-&emsp;The Secretary shall publicize the availability of grants under this section in appropriate periodicals, in addition to publication in theFederal Register, and shall inform appropriate educational organizations of such availability.
+&emsp;The Secretary shall publicize the availability of grants under this section in appropriate periodicals, in addition to publication in the Federal Register, and shall inform appropriate educational organizations of such availability.
 
 #### (c) Applications
 
@@ -86,7 +86,7 @@ An institution of higher education desiring a grant under this section shall sub
 
 &emsp;(4) contain a description of the activities to be assisted, including whether the grant funds will support an existing child care program or a new child care program;
 
-&emsp;(5) identify the resources, including technical expertise and financial support, the institution will draw upon to support the child care program and the participation of low-income students in the program, such as accessing social services funding, using student activity fees to help pay the costs of child care, using resources obtained by meeting the needs of parents who are not low-income students, and accessing foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
+&emsp;(5) identify the resources, including technical expertise and financial support, the institution will draw upon to support the child care program and the participation of low-income students in the program, such as accessing social services funding, using student activity fees to help pay the costs of child care,using resources obtained by meeting the needs of parents who are not low-income students, and accessing foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
 
 &emsp;(6) contain an assurance that the institution will meet the child care needs of low-income students through the provision of services, or through a contract for the provision of services;
 

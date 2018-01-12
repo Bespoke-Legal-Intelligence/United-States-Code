@@ -20,7 +20,7 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 #### (1) In general
 
-&emsp;The Secretary shall establish standards, including data requirements, for investigations of petitions filed under section 2271 of this title and criteria for making determinations under subsection (a).
+&emsp;The Secretary shall establish standards, including data requirements, for investigationsof petitions filed under section 2271 of this title and criteria for making determinations under subsection (a).
 
 #### (2) Consultations
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
 
 #### Termination Date
 

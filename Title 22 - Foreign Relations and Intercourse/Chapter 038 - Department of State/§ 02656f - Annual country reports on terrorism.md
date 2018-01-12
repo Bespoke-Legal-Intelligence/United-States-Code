@@ -2,7 +2,7 @@
 
 #### (a) Requirement of annual country reports on terrorism
 
-The Secretary of State shall transmit to the Speaker of the House of Representatives and theCommittee on Foreign Relations of the Senate, by April 30 of each year, a full and complete report providing—
+The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by April 30 of each year, a full and complete report providing—
 
 &emsp;(1)(A) detailed assessments with respect to each foreign country—
 
@@ -74,7 +74,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 &emsp;(4) <sup>2</sup> a strategy for addressing, and where possible eliminating, terrorist sanctuaries that shall include—
 
-&emsp;&emsp;(A) a description of terrorist sanctuaries, together with an assessment of the prioritiesof addressing and eliminating such sanctuaries;
+&emsp;&emsp;(A) a description of terrorist sanctuaries, together with an assessment of the priorities of addressing and eliminating such sanctuaries;
 
 &emsp;&emsp;(B) an outline of strategies for disrupting or eliminating the security provided to terrorists by such sanctuaries;
 
@@ -136,7 +136,7 @@ As used in this section—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignatedformer subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 108–487, §701(a)(1), inserted "any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction," after "during the preceding five years," and "any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8," after "section 2405(j) of the Appendix to title 50".
 
@@ -152,7 +152,7 @@ Pub. L. 108–487, §701(a)(2)(B)(iii), which directed amendment of subsec. (b)(
 
 Pub. L. 108–458, §7102(d)(2)(B), (D), redesignated par. (2), relating to report provisions with respect to subsec. (a)(2), as (3) and substituted a semicolon for the period at end.
 
-Subsec. (b)(3)(C) to (F). Pub. L. 108–487, §701(a)(2)(B)(i), (ii), which directed amendment of subsec. (b)(2) by adding subpar. (C) and redesignatingformer subpars. (C) to (E) as (D) to (F), respectively, was executed by making the amendment to subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2) to reflect the probable intent of Congress and the redesignation of subsec. (b)(2) as (b)(3) by Pub. L. 108–458. See above.
+Subsec. (b)(3)(C) to (F). Pub. L. 108–487, §701(a)(2)(B)(i), (ii), which directed amendment of subsec. (b)(2) by adding subpar. (C) and redesignating former subpars. (C) to (E) as (D) to (F), respectively, was executed by making the amendment to subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2) to reflect the probable intent of Congress and the redesignation of subsec. (b)(2) as (b)(3) by Pub. L. 108–458. See above.
 
 Subsec. (b)(4). Pub. L. 108–487, §701(a)(2)(C), added par. (4) relating to analysis of trends in international terrorism.
 
@@ -246,7 +246,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 &emsp;"(4) The policy of the Department of State with respect to offering rewards for information on terrorist suspects, including any information on whether a reward has been posted for suspects involved in terrorist attacks listed in the report.
 
-&emsp;"(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United Statesfor the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
+&emsp;"(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United States for the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
 
 &emsp;"(6) A description of efforts made by United States officials since September 13, 1993 to bring to justice perpetrators of terrorist acts against United States citizens as listed in the report.
 

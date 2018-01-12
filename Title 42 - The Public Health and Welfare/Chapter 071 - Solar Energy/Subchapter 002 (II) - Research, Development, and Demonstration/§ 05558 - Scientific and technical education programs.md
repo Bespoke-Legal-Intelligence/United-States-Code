@@ -1,6 +1,6 @@
 ### §5558. Scientific and technical education programs
 
-The Chairman, acting through the National Science Foundation, is authorized and directed to support programs of education in the sciences and engineering to provide the necessary trained personnel to perform the solar energy research, development, and demonstration activities required under this subchapter. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
+The Chairman, acting through the National Science Foundation, is authorized and directedto support programs of education in the sciences and engineering to provide the necessary trained personnel to perform the solar energy research, development, and demonstration activities required under this subchapter. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
 
 (Pub. L. 93–473, §9, Oct. 26, 1974, 88 Stat. 1436.)
 

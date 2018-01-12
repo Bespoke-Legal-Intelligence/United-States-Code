@@ -6,7 +6,7 @@ The Secretary of Energy, in cooperation with other interested Federal agencies a
 
 #### (b) Report to Congress on appropriation and staffing needs
 
-The Secretary of Energy, in cooperation with other interested Federal agencies and departments, is authorized and directed to report tothe Congress within 60 days after August 3, 1980, on appropriations and staffing needed to monitor submarine electric transmission cables and equipment subject to the jurisdiction of the United States so as to assure that they meet all applicable standards for construction, operation, and maintenance.
+The Secretary of Energy, in cooperation with other interested Federal agencies and departments, is authorized and directed to report to the Congress within 60 days after August 3, 1980, on appropriations and staffing needed to monitor submarine electric transmission cables and equipment subject to the jurisdiction of the United States so as to assure that they meet all applicable standards for construction, operation, and maintenance.
 
 (Pub. L. 96–320, title IV, §404, Aug. 3, 1980, 94 Stat. 999.)
 

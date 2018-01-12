@@ -4,7 +4,7 @@ It is the purpose of this chapter to promote the policies set forth above by—
 
 &emsp;(a) establishing a more effective framework for international cooperation to meet the energy needs of all nations and to ensure that the worldwide development of peaceful nuclear activities and the export by any nation of nuclear materials and equipment and nuclear technology intended for use in peaceful nuclear activities do not contribute to proliferation;
 
-&emsp;(b) authorizing the United States to take such actions as are required to ensure that it will act reliably in meeting its commitment to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies;
+&emsp;(b) authorizing the United States to take such actions as are required to ensure that it will act reliably in meeting its commitment tosupply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies;
 
 &emsp;(c) providing incentives to the other nations of the world to join in such international cooperative efforts and to ratify the Treaty; and
 
@@ -15,4 +15,8 @@ It is the purpose of this chapter to promote the policies set forth above by—
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+
+#### Effective Date
+
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 

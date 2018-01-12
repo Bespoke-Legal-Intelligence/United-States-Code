@@ -50,13 +50,13 @@ The Director of the Institute shall act as the primary Federal official with res
 
 &emsp;Subject to the provisions of this section and other applicable law, the Director of NIH, the Director of the Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall—
 
-&emsp;&emsp;(A) establish a comprehensive plan and budget for the conduct and support of all minority health disparities research and other health disparities research activities of theagencies of the National Institutes of Health (which plan and budget shall be first established under this subsection not later than 12 months after November 22, 2000);
+&emsp;&emsp;(A) establish a comprehensive plan and budget for the conduct and support of all minority health disparities research and other health disparities research activities of the agencies of the National Institutes of Health (which plan and budget shall be first established under this subsection not later than 12 months after November 22, 2000);
 
 &emsp;&emsp;(B) ensure that the plan and budget establish priorities among the health disparities research activities that such agencies are authorized to carry out;
 
 &emsp;&emsp;(C) ensure that the plan and budget establish objectives regarding such activities, describes the means for achieving the objectives, and designates the date by which the objectives are expected to be achieved;
 
-&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute, the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
+&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute,the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
 
 &emsp;&emsp;(E) ensure that all amounts appropriated for such activities are expended in accordance with the plan and budget;
 
@@ -124,11 +124,11 @@ In carrying out subsection (a), the Director of the Institute—
 
 #### (2) Membership
 
-&emsp;With respect to the membership of the advisory council under paragraph (1), a majority ofthe members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
+&emsp;With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
 
 #### (k) Intra-National Institutes of Health coordination
 
-The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
+The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted orsupported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
 
 (July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066.)
 
@@ -190,7 +190,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: "The Congr
 
 &emsp;"(1) Despite notable progress in the overall health of the Nation, there are continuing disparities in the burden of illness and death experienced by African Americans, Hispanics, Native Americans, Alaska Natives, and Asian Pacific Islanders, compared to the United States population as a whole.
 
-&emsp;"(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do members of minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia,where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
+&emsp;"(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do members of minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia, where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
 
 &emsp;"(3) There is a national need for minority scientists in the fields of biomedical, clinical, behavioral, and health services research. Ninety percent of minority physicians educated at Historically Black Medical Colleges live and serve in minority communities.
 

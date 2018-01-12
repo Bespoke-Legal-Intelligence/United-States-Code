@@ -12,7 +12,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
 
-&emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document requiredunder this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
+&emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document required under this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
 
 &emsp;(6)(A) to present before boarding a common carrier for the purpose of coming to the United States a document which relates to the alien's eligibility to enter the United States, and (B) to fail to present such document to an immigration officer upon arrival at a United States port of entry.
 
@@ -46,7 +46,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (B) Conduct of hearing
 
-&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
+&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge.The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
 
 #### (C) Issuance of orders
 
@@ -72,7 +72,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (6) Enforcement of orders
 
-&emsp;If a person or entity fails to comply with a final order issued under this section againstthe person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
+&emsp;If a person or entity fails to comply with a final order issued under this section against the person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
 #### (7) Waiver by Attorney General
 

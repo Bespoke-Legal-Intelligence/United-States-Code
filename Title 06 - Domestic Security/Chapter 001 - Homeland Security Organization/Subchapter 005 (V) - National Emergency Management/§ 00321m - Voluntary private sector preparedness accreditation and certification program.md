@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the officer designated under paragraph (2), shall establish and implement the voluntary private sector preparedness accreditation and certification program in accordance with this section.
+&emsp;The Secretary, acting through the officer designated under paragraph (2), shall establishand implement the voluntary private sector preparedness accreditation and certification program in accordance with this section.
 
 #### (2) Designation of officer
 
@@ -74,7 +74,7 @@
 
 #### (D) Small business concerns
 
-&emsp;&emsp;The designated officer and any entity with which the designated officer enters into an agreement under paragraph (3)(A) shall establish separate classifications and methods of certification for small business concerns (under the meaning given that term in section 632 of title 15) for the program under this subsection.
+&emsp;&emsp;The designated officer and any entity with which the designated officer enters into anagreement under paragraph (3)(A) shall establish separate classifications and methods of certification for small business concerns (under the meaning given that term in section 632 of title 15) for the program under this subsection.
 
 #### (E) Considerations
 
@@ -108,7 +108,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements forthe accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements for the accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
 
 #### (ii) Contents and use
 

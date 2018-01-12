@@ -26,7 +26,7 @@ Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals fr
 
 Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more than thirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
 
-Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provision which required that foreign nationals be subject to the same rules and regulations as cadets.
+Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provisionwhich required that foreign nationals be subject to the same rules and regulations as cadets.
 
 Subsec. (d). Pub. L. 94–468 added subsec. (d).
 

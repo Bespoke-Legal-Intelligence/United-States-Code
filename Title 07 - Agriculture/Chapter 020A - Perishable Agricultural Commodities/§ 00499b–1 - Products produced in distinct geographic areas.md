@@ -22,7 +22,7 @@ A person bringing a complaint under this section shall reimburse the Secretary o
 
 #### (d) Prohibition
 
-The Secretary of Agriculture shall not increase any fees charged under the PerishableAgricultural Commodities Act \[7 U.S.C. 499a et seq.\] to offset costs associated with the operation of this section.
+The Secretary of Agriculture shall not increase any fees charged under the Perishable Agricultural Commodities Act \[7 U.S.C. 499a et seq.\] to offset costs associated with the operation of this section.
 
 #### (e) Regulations
 

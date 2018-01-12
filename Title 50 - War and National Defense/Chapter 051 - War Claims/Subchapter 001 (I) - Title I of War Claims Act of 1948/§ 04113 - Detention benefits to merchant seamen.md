@@ -20,7 +20,7 @@ Claims for benefits under this section must be filed within one year after Augus
 
 Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title.
 
-(July 3, 1948, ch. 826, title I, §16, as added Aug. 31, 1954, ch. 1162, title I, §103, 68 Stat. 1034; amended Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107.)
+(July 3, 1948, ch. 826, title I, §16, as added Aug. 31, 1954, ch. 1162, title I, §103, 68 Stat. 1034;amended Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107.)
 
 #### Codification
 
@@ -32,5 +32,5 @@ Section was formerly classified to section 2015 of the former Appendix to this t
 
 #### Transfer of Functions
 
-For provisions transferring Foreign Claims Settlement Commission of the United States to Departmentof Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 

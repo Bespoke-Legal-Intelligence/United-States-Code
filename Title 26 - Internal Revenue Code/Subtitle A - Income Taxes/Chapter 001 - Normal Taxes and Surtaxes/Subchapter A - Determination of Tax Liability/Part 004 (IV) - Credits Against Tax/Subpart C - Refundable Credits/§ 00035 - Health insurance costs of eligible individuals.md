@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) is receiving a benefit for such month under section 246(a)(2) of such Act.
 
-> &emsp;An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual wouldotherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.
+> &emsp;An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual would otherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.
 
 #### (4) Eligible PBGC pension recipient
 
@@ -302,7 +302,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (B) Coordination with advance payments of premium tax credit
 
-&emsp;&emsp;In the case of a taxpayer who makes the election under paragraph (11) with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
+&emsp;&emsp;In the case of a taxpayer who makes the election under paragraph (11) with respect toany eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
 
 &emsp;&emsp;&emsp;(i) the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
 
@@ -362,7 +362,7 @@ Subsec. (g)(11) to (13). Pub. L. 114–27, §407(b), added pars. (11) and (12) a
 
 <b>2014</b>—Subsec. (g)(9) to (11). Pub. L. 113–295, §209(j)(3), amended directory language of Pub. L. 111–5, §3001(a)(14)(A). See 2009 Amendment notes below.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)".
+<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent inthe case of eligible coverage months beginning before February 13, 2011)".
 
 Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted ", and before January 1, 2014" after "2002".
 
@@ -448,7 +448,7 @@ Pub. L. 111–344, title I, §115(c), Dec. 29, 2010, 124 Stat. 3615, provided th
 
 Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010."
 
-Amendment by Pub. L. 111–144 effective as if included in the provisions of section 3001 of Pub. L. 111–5 to which it relates, see section 3(c) of Pub. L. 111–144, set out as a note under section 6432 of this title.
+Amendment by Pub. L. 111–144 effective as if included in the provisions of section 3001 of Pub. L. 111–5 towhich it relates, see section 3(c) of Pub. L. 111–144, set out as a note under section 6432 of this title.
 
 #### Effective Date of 2009 Amendment
 

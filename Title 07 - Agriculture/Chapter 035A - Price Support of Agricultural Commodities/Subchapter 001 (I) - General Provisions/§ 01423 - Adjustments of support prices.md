@@ -12,7 +12,7 @@ The Secretary may make appropriate adjustments in the support price for cotton f
 
 Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 3 percent.
 
-(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Pub. L. 85–835, title I, §§108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, §802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, §507,Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, §1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, §1128, title XX, §2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
+(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Pub. L. 85–835, title I, §§108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, §802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, §507, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, §1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, §1128, title XX, §2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
 
 #### References in Text
 

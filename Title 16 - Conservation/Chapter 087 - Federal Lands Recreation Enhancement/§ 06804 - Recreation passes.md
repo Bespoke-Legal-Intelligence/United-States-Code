@@ -62,7 +62,7 @@
 
 #### (2) Disability discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Passavailable, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
 
 #### (c) Site-specific agency passes
 

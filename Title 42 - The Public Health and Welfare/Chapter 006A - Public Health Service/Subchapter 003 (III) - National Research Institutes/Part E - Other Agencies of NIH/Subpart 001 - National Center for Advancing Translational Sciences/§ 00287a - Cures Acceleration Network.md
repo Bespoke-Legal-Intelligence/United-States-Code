@@ -120,7 +120,7 @@ The functions of the CAN are to—
 
 &emsp;&emsp;&emsp;(i) a representative of the National Institutes of Health, recommended by the Secretary of the Department of Health and Human Services;
 
-&emsp;&emsp;&emsp;(ii) a representative of the Office of the Assistant Secretary of Defense for HealthAffairs, recommended by the Secretary of Defense;
+&emsp;&emsp;&emsp;(ii) a representative of the Office of the Assistant Secretary of Defense for Health Affairs, recommended by the Secretary of Defense;
 
 &emsp;&emsp;&emsp;(iii) a representative of the Office of the Under Secretary for Health for the Veterans Health Administration, recommended by the Secretary of Veterans Affairs;
 
@@ -130,7 +130,7 @@ The functions of the CAN are to—
 
 #### (B) Terms
 
-&emsp;&emsp;Each ex-officio member shall serve a 3-year term on the Board, except that the Chairperson may adjust the terms of the initial ex-officio members in order to provide for a staggered term of appointment for all such members.
+&emsp;&emsp;Each ex-officio member shall serve a 3-year term on the Board, except that theChairperson may adjust the terms of the initial ex-officio members in order to provide for a staggered term of appointment for all such members.
 
 #### (4) Responsibilities of the Board and the Director of the Center
 

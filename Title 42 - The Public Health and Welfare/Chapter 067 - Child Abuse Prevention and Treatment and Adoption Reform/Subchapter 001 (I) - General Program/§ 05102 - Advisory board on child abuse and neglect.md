@@ -6,11 +6,11 @@ The Secretary may appoint an advisory board to make recommendations to the Secre
 
 #### (b) Solicitation of nominations
 
-The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a) of this section.
+The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a).
 
 #### (c) Composition
 
-In establishing the board under subsection (a) of this section, the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+In establishing the board under subsection (a), the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
 
 &emsp;(1) law (including the judiciary);
 
@@ -50,7 +50,7 @@ The board shall elect a chairperson and vice-chairperson at its first meeting fr
 
 #### (f) Duties
 
-Not later than 1 year after the establishment of the board under subsection (a) of this section, the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
+Not later than 1 year after the establishment of the board under subsection (a), the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
 
 &emsp;(1) recommendations on coordinating Federal, State, tribal, and local child abuse and neglect activities with similar activities at the Federal, State, tribal, and local level pertaining to family violence prevention;
 
@@ -110,7 +110,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### Limitations on Use of Appropriated Funds
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on ChildAbuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\]."
+Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on Child Abuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\]."
 
 Similar provisions were contained in the following prior appropriation acts:
 

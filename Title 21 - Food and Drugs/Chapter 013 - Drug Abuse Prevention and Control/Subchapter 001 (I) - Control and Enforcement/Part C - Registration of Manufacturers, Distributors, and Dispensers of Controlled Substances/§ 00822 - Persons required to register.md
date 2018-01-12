@@ -28,7 +28,7 @@ The Attorney General may, by regulation, waive the requirement for registration 
 
 (1) A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
 
-(2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant's registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
+(2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required tohave a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant's registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 
 #### (f) Inspection
 
@@ -76,6 +76,10 @@ Subsec. (e). Pub. L. 103–200, §3(b)(4), inserted "or list I chemicals" after 
 
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
 
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
+
 #### Findings
 
 Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress finds the following:
@@ -100,7 +104,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress 
 
 &emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
-&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
+&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs toaccept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 
 &emsp;"(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
 

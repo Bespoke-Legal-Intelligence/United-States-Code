@@ -14,7 +14,7 @@ A person violating this title,<sup>1</sup> or a regulation prescribed under this
 
 #### (d) In rem liability
 
-Any vessel that is used in violation of this title,<sup>1</sup> or of any regulation issued under this title,<sup>1</sup> shall be liable in rem for any civil penalty assessed pursuant to subsection (c) and may be proceeded against in the United States district court for any district in which such vessel may be found.
+Any vessel that is used in violation of this title,<sup>1</sup> or of any regulation issued under thistitle,<sup>1</sup> shall be liable in rem for any civil penalty assessed pursuant to subsection (c) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
 #### (e) Withholding of clearance
 

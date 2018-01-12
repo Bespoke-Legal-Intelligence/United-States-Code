@@ -32,7 +32,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Committee
 
 #### References in Text
 
-The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28,1990, 104 Stat. 3935, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Codification
 

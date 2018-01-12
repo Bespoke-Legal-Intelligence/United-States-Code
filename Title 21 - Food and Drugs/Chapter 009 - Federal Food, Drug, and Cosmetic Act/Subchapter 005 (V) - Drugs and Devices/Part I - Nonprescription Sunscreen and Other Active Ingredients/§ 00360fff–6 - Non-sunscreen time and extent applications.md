@@ -48,7 +48,7 @@
 
 #### (4) Letter regarding pending applications
 
-&emsp;Not later than 18 months after November 26, 2014, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, in writing, regarding all pending applications subject to paragraph (1). In such letter, the Secretary shall provide a report on the review of such applications, including the timelines, in calendar days, for the review and GRASE determination for each application. Such timelines shall account for the considerations under paragraph (5).
+&emsp;Not later than 18 months after November 26, 2014, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, in writing, regarding all pending applications subject to paragraph (1). In such letter, the Secretary shall provide a report on the review of such applications, including thetimelines, in calendar days, for the review and GRASE determination for each application. Such timelines shall account for the considerations under paragraph (5).
 
 #### (5) Timelines
 

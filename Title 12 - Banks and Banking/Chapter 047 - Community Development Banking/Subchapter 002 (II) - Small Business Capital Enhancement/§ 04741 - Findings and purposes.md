@@ -136,7 +136,7 @@ Fund.—The term 'Fund' means the Small Business Lending Fund established under 
 
 &emsp;"(13)
 
-Insured depository institution.—The term 'insured depository institution' has the meaning given such term under section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2)).
+Insured depository institution.—The term 'insured depository institution' has the meaninggiven such term under section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2)).
 
 &emsp;"(14)
 
@@ -424,7 +424,7 @@ In general.—The Secretary shall, in a manner that the Secretary determines to 
 
 &emsp;&emsp;"(B)
 
-Prohibition on participation by non-paying cpp participants.—Subparagraph (A) shall not apply to any eligible institution that has missedmore than one dividend payment due under the CPP. For purposes of this subparagraph, a CPP dividend payment that is submitted within 60 days of the due date of such payment shall not be considered a missed dividend payment.
+Prohibition on participation by non-paying cpp participants.—Subparagraph (A) shall not apply to any eligible institution that has missed more than one dividend payment due under the CPP. For purposes of this subparagraph, a CPP dividend payment that is submitted within 60 days of the due date of such payment shall not be considered a missed dividend payment.
 
 &emsp;"(8)
 
@@ -558,11 +558,11 @@ Required Certifications.—
 
 &emsp;"(1)
 
-Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency.
+Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terroristorganizations provided to the financial institution by any government agency.
 
 &emsp;"(2)
 
-Loan recipients.—With respect to funds received by an eligible institution under the Program, any business receiving a loan from the eligible institution using such funds after the date of the enactment of this Act \[Sept. 27, 2010\] shall certify to such eligible institution that the principals of such business have not been convicted of a sex offense against a minor (as such terms are defined in section 111 of the Sex Offender Registration and Notification Act (42 U.S.C. 16911)).
+Loan recipients.—With respect to funds received by an eligible institution under the Program, any business receiving a loan from the eligible institution using such funds after the date of the enactment of this Act \[Sept. 27, 2010\] shall certify to such eligible institution that the principals of such business have not been convicted of a sex offense against a minor (as such terms are defined in section 111 of the Sex Offender Registration and Notification Act (42 U.S.C. 16911) \[now 34 U.S.C. 20911\]).
 
 "(d)
 

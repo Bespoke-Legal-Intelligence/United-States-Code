@@ -6,5 +6,5 @@ None of the funds authorized to be appropriated by this Act may be obligated or 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, known as the Omnibus Diplomatic Security and Antiterrorism Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of this title and Tables.
+This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, known as the Omnibus DiplomaticSecurity and Antiterrorism Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of this title and Tables.
 

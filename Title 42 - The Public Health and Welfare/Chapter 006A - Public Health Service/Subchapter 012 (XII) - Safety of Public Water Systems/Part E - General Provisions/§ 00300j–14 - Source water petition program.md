@@ -6,11 +6,11 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water qualityprotection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
-&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishmentof a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
+&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
 &emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a), the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
+&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a), the State shall approveor disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
 
 #### (2) Approval
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State will provide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
 
-&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petitionwith respect to the other water quality needs identified by the State;
+&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petition with respect to the other water quality needs identified by the State;
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
@@ -158,7 +158,7 @@ Nothing in this section—
 
 &emsp;(B) limits any authority of a State, political subdivision, or community water system; or
 
-&emsp;(2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
+&emsp;(2) precludes a community water system, municipal or local government, or politicalsubdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
 (July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675.)
 

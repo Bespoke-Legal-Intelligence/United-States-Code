@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (iii) Independence
 
-&emsp;&emsp;&emsp;Each report required under this paragraph shall be provided directly to theCommittees listed in clause (i) without any prior review or comment from the Commission, any commissioner, any other officer or employee of the Commission, or the Office of Management and Budget.
+&emsp;&emsp;&emsp;Each report required under this paragraph shall be provided directly to the Committees listed in clause (i) without any prior review or comment from the Commission, any commissioner, any other officer or employee of the Commission, or the Office of Management and Budget.
 
 #### (iv) Confidentiality
 
@@ -168,7 +168,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (1) Division of Trading and Markets
 
-&emsp;The Division of Trading and Markets of the Commission, or any successor organizational unit, shall have a staff of examiners who shall—
+&emsp;The Division of Trading and Markets of the Commission, or any successor organizationalunit, shall have a staff of examiners who shall—
 
 &emsp;&emsp;(A) perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
 
@@ -218,7 +218,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (1) Office established
 
-&emsp;There is established within the Commission the Office of the Advocate for Small BusinessCapital Formation (hereafter in this subsection referred to as the "Office").
+&emsp;There is established within the Commission the Office of the Advocate for Small Business Capital Formation (hereafter in this subsection referred to as the "Office").
 
 #### (2) Advocate for Small Business Capital Formation
 
@@ -292,7 +292,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;&emsp;(II) the length of time that each item has remained on such inventory; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for items on which no action has been taken, the reasons for inaction, andan identification of any official who is responsible for such action;
+&emsp;&emsp;&emsp;&emsp;(III) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
 
 &emsp;&emsp;&emsp;(v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actions as may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". SeeReferences in Text note set out under section 78a of this title.
 
 #### Amendments
 
@@ -420,7 +420,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons fortransmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

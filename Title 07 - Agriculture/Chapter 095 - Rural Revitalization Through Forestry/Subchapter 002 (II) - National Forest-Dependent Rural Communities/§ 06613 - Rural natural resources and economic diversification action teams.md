@@ -28,7 +28,7 @@ After reviewing requests under this section for financial and economic feasibili
 
 In this section, the term "designated rural development program" means a program carried out under section 1924(b), 1926(a), or 1932(e) of this title for which funds are available at any time during the fiscal year.
 
-(Pub. L. 101–624, title XXIII, §2375, Nov. 28, 1990, 104 Stat. 4047; Pub. L. 104–127, title VII, §753(b)(1), Apr. 4, 1996, 110 Stat. 1131; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, §2375, Nov. 28, 1990, 104 Stat. 4047; Pub. L. 104–127, title VII,§753(b)(1), Apr. 4, 1996, 110 Stat. 1131; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 
 #### Amendments
 

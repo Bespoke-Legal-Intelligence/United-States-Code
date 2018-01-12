@@ -6,7 +6,7 @@
 
 (c)(1) Any person receiving an original appointment under this section is entitled to service credit as authorized under section 533 of this title.
 
-(2) An appointment under this section of a person who is not on active duty becomes effective when that person begins active duty under that appointment.
+(2) An appointment under this section of a person who is not on active duty becomes effectivewhen that person begins active duty under that appointment.
 
 (d) An appointment under this section does not change the permanent status of a member of the armed forces so appointed. A member who is appointed under this section shall not incur any reduction in the pay and allowances to which the member was entitled, by virtue of his permanent status, at the time of his appointment under this section.
 
@@ -30,7 +30,7 @@
 
 Subsec. (a). Pub. L. 102–190, §1113(b), struck out "commissioned" before "officer grade in the Army" and "in warrant officer grades or" before "in grades above major general" and inserted before period at end ", except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned".
 
-<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted "terminates on the earliest of the following:" for "terminates—" in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: "Unless soonerterminated, an appointment under this section terminates—
+<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted "terminates on the earliest of the following:" for "terminates—" in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: "Unless sooner terminated, an appointment under this section terminates—
 
 &emsp;"(1) on the second anniversary of the appointment;
 

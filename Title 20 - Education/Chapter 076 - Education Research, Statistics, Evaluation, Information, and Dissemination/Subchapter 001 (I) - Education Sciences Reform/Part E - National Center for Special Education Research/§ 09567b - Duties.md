@@ -10,7 +10,7 @@ The Special Education Research Center shall carry out research activities under 
 
 &emsp;&emsp;(B) developmental outcomes for infants or toddlers with disabilities;
 
-&emsp;(2) identify scientifically based educational practices that support learning and improve academic achievement, functional outcomes,and educational results for all students with disabilities;
+&emsp;(2) identify scientifically based educational practices that support learning and improve academic achievement, functional outcomes, and educational results for all students with disabilities;
 
 &emsp;(3) examine the special needs of preschool aged children, infants, and toddlers with disabilities, including factors that may result in developmental delays;
 
@@ -50,7 +50,7 @@ The Special Education Research Commissioner shall ensure that activities assiste
 
 &emsp;(2) are carried out in accordance with the standards for the conduct and evaluation of all research and development established by the National Center for Education Research; and
 
-&emsp;(3) are objective, secular, neutral, and nonideological, and are free of partisan political influence, and racial, cultural, gender, regional, or disability bias.
+&emsp;(3) are objective, secular, neutral, and nonideological, and are free of partisan politicalinfluence, and racial, cultural, gender, regional, or disability bias.
 
 #### (c) Plan
 
@@ -98,7 +98,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub.L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Effective Date
 

@@ -120,9 +120,9 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (B) Increases added to gross income
 
-&emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxableyear, an amount equal to such increase shall be included in gross income for such taxable year.
+&emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year.
 
-> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
+> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to suchpreceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
 
 #### (5) Subchapter C transactions
 

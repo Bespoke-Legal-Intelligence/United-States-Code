@@ -30,7 +30,7 @@ Programs under this subpart shall be carried out so as to—
 
 &emsp;(2) take into account the value to United States agriculture of such programs, integrating to the extent practicable the programs and financing authorized under this subpart with those supported by other Federal or State resources, including resources of the private sector, so as to maximize the contribution to the development of agriculture in the United States and in agriculturally developing nations; and
 
-&emsp;(3) whenever practicable, build on existing programs and institutions including those of the universities, the Department of Agriculture, State agricultural agencies, the Department of Commerce, the Department of the Interior, the Environmental Protection Agency, the Office of the United States Trade Representative, the Food and Drug Administration, other appropriate Federal agencies, and appropriate nongovernmental and business organizations.
+&emsp;(3) whenever practicable, build on existing programs and institutions including those ofthe universities, the Department of Agriculture, State agricultural agencies, the Department of Commerce, the Department of the Interior, the Environmental Protection Agency, the Office of the United States Trade Representative, the Food and Drug Administration, other appropriate Federal agencies, and appropriate nongovernmental and business organizations.
 
 #### (c) Activity objectives
 

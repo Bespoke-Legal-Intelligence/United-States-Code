@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever the United States is a party before a dispute settlement panel established pursuantto Article 6 of the Dispute Settlement Understanding, the Trade Representative shall, at each stage of the proceeding before the panel or the Appellate Body, consult with the appropriate congressional committees, the petitioner (if any) under section 2412(a) of this title with respect to the matter that is the subject of the proceeding, and relevant private sector advisory committees established under section 2155 of this title, and shall consider the views of representatives of appropriate interested private sector and nongovernmental organizations concerning the matter.
+Whenever the United States is a party before a dispute settlement panel established pursuant to Article 6 of the Dispute Settlement Understanding, the Trade Representative shall, at each stage of the proceeding before the panel or the Appellate Body, consult with the appropriate congressional committees, the petitioner (if any) under section 2412(a) of this title with respect to the matter that is the subject of the proceeding, and relevant private sector advisory committees established under section 2155 of this title, and shall consider the views of representatives of appropriate interested private sector and nongovernmental organizations concerning the matter.
 
 #### (b) Notice and public comment
 
@@ -36,11 +36,15 @@ In any dispute settlement proceeding conducted pursuant to the Dispute Settlemen
 
 #### (e) Public file
 
-The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report of the dispute settlement panel and the report of the Appellate Body.
+The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report ofthe dispute settlement panel and the report of the Appellate Body.
 
 (Pub. L. 103–465, title I, §127, Dec. 8, 1994, 108 Stat. 4835.)
 
 #### Codification
 
 Section is comprised of section 127 of Pub. L. 103–465. Subsec. (f) of section 127 of Pub. L. 103–465 amended section 2155 of this title.
+
+#### Effective Date
+
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

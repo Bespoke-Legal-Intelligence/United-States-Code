@@ -28,7 +28,7 @@ Once during each 5-year period (the 1st such period beginning on September 23, 1
 
 The Administrator shall revise and update any floodplain areas and flood-risk zones—
 
-&emsp;(1) upon the determination of the Administrator, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
+&emsp;(1) upon the determination of the Administrator, according to the assessment under subsection (e), that revision and updating are necessary for the areas and zones; or
 
 &emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Administrator.
 
@@ -107,6 +107,10 @@ Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Se
 Subsec. (d). Pub. L. 98–181, §451(d)(7), added subsec. (d).
 
 <b>1973</b>—Pub. L. 93–234 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

@@ -36,7 +36,7 @@ In subsec. (b), "section 3114(a) to (d) of title 40" substituted for "the first 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) ofPub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 

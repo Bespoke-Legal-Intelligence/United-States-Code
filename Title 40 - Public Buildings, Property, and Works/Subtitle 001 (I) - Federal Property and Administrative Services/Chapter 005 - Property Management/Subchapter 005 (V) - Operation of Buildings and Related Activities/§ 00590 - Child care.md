@@ -74,7 +74,7 @@ Definition.—In this subsection, the term "executive facility" means a facility
 
 &emsp;(2)
 
-In general.—All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 (42 U.S.C. 13041).
+In general.—All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 (42 U.S.C. 13041).<sup>1</sup>
 
 &emsp;(3)
 
@@ -166,7 +166,13 @@ In subsection (g)(4), the words "as appropriate" are omitted as unnecessary.
 
 In subsection (g)(5), the words "in this or any other Act" are omitted as unnecessary. The words "of the House of Representatives and the Senate" are added for consistency in the revised title.
 
+#### References in Text
+
+Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is section 231 of Pub. L. 101–647, which was classified to section 13041 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20351 of Title 34, Crime Control and Law Enforcement.
+
 #### Amendments
 
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

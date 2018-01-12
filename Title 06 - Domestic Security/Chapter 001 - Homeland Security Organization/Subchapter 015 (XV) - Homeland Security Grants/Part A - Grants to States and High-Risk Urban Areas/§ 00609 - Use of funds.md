@@ -24,7 +24,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(10) supporting public safety answering points;
 
-&emsp;(11) paying salaries and benefits for personnel, including individuals employed by thegrant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
+&emsp;(11) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
 
 &emsp;(12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
@@ -38,7 +38,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;Funds provided under section 604 or 605 of this title may not be used—
 
-&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
+&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibitthe use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
 
 &emsp;&emsp;(B) for any State or local government cost-sharing contribution.
 
@@ -112,7 +112,7 @@ Upon request by the recipient of a grant under section 604 or 605 of this title,
 
 #### (f) Equipment standards
 
-If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase,with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
 (Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665.)
 

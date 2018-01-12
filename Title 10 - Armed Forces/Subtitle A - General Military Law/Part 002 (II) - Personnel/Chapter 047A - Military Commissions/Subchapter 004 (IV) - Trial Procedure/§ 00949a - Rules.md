@@ -16,7 +16,7 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;(C)(i) When none of the charges sworn against the accused are capital, to be represented before a military commission by civilian counsel if provided at no expense to the Government, and by either the defense counsel detailed or the military counsel of the accused's own selection, if reasonably available.
 
-&emsp;(ii) When any of the charges sworn against the accused are capital, to be represented before a military commission in accordance with clause (i) and, to the greatest extent practicable, by at least one additional counsel who is learned in applicable law relating to capitalcases and who, if necessary, may be a civilian and compensated in accordance with regulations prescribed by the Secretary of Defense.
+&emsp;(ii) When any of the charges sworn against the accused are capital, to be represented before a military commission in accordance with clause (i) and, to the greatest extent practicable, by at least one additional counsel who is learned in applicable law relating to capital cases and who, if necessary, may be a civilian and compensated in accordance with regulations prescribed by the Secretary of Defense.
 
 &emsp;(D) To self-representation, if the accused knowingly and competently waives the assistance of counsel, subject to the provisions of paragraph (4).
 
@@ -52,7 +52,7 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;&emsp;&emsp;(III) direct testimony from the witness is not available as a practical matter, taking into consideration the physical location of the witness, the unique circumstances of military and intelligence operations during hostilities, and the adverse impacts on military or intelligence operations that would likely result from the production of the witness; and
 
-&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice will best be served by admission of the statement into evidence.
+&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice willbest be served by admission of the statement into evidence.
 
 (4)(A) The accused in a military commission under this chapter who exercises the right to self-representation under paragraph (2)(D) shall conform the accused's deportment and the conduct of the defense to the rules of evidence, procedure, and decorum applicable to trials by military commission.
 

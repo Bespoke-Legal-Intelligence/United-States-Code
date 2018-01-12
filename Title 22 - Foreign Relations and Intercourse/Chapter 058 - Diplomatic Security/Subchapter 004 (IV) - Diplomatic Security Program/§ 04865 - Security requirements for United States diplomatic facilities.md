@@ -8,7 +8,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (A) Emergency Action Plan
 
-&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
+&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address thethreat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
 
 #### (B) Security Environment Threat List
 
@@ -64,7 +64,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Report to Congress
 
-&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annualreport of all waivers under this subparagraph.
+&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
 
 #### (4) Crisis management training
 
@@ -94,7 +94,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;&emsp;(ii) providing personnel identified to serve on the FEST as a collateral duty;
 
-&emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief, public affairs, engineering, and building safety; and
+&emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief,public affairs, engineering, and building safety; and
 
 &emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST to provide support in a post-crisis environment involving mass casualties and physical damage.
 
@@ -198,7 +198,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 #### Capital Security Cost Sharing
 
-Pub. L. 109–364, div. A, title III, §357, Oct. 17, 2006, 120 Stat. 2163, provided that:
+Pub. L. 109–364, div. A, title III, §357, Oct. 17, 2006, 120 Stat. 2163, as amended by Pub. L. 115–91, div. A, title X, §1051(l), Dec. 12, 2017, 131 Stat. 1564, provided that:
 
 "(a)
 
@@ -206,7 +206,7 @@ Reconciliation Required.—For each fiscal year, the Secretary of Defense shall 
 
 "(b)
 
-Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
+Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
 
 #### Findings
 
@@ -234,7 +234,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 &emsp;"(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs.
 
-&emsp;"(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United Statesemployees in diplomatic facilities will continue to be at risk from further terrorist attacks.
+&emsp;"(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks.
 
 &emsp;"(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks."
 
@@ -280,7 +280,7 @@ Capital Security Cost Sharing.—
 
 &emsp;"(1)
 
-Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
+Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927)shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
 
 &emsp;"(2)
 

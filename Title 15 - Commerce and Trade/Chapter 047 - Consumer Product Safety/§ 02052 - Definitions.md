@@ -48,7 +48,7 @@ In this chapter:
 
 &emsp;&emsp;(F) aircraft, aircraft engines, propellers, or appliances (as defined in section 40102(a) of title 49),
 
-&emsp;&emsp;(G) boats which could be subjected to safety regulation under chapter 43 of title 46; vessels, and appurtenances to vessels (other than such boats), which could be subjected to safety regulation under title 52 of the Revised Statutes or other marine safety statutes administered by the department in which the Coast Guard is operating; and equipment (including associated equipment, as defined in section 2101(1) of title 46) to the extent that a risk of injury associated with the use of such equipment on boats or vessels could be eliminated or reduced by actions taken under any statute referred to in this subparagraph,
+&emsp;&emsp;(G) boats which could be subjected to safety regulation under chapter 43 of title 46; vessels, and appurtenances to vessels (other than such boats), which could be subjected to safety regulation under title 52 of the Revised Statutes or other marine safety statutes administered by the department in which the Coast Guard is operating; and equipment (including associated equipment, as defined in section 2101(1) of title 46) to theextent that a risk of injury associated with the use of such equipment on boats or vessels could be eliminated or reduced by actions taken under any statute referred to in this subparagraph,
 
 &emsp;&emsp;(H) drugs, devices, or cosmetics (as such terms are defined in sections 201(g), (h), and (i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(g), (h), and (i)\]), or
 
@@ -110,7 +110,7 @@ In this chapter:
 
 A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
-(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
+(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ For definition of Canal Zone, referred to in subsec. (a)(15), see section 3602(b
 
 #### Codification
 
-In subsec. (a)(5)(C), (F), "section 30102(a)(6) and (7) of title 49" substituted for "sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]" and "section 40102(a) of title 49" substituted for "section 101 of the Federal AviationAct of 1958 \[49 App. U.S.C. 1301\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(5)(C), (F), "section 30102(a)(6) and (7) of title 49" substituted for "sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]" and "section 40102(a) of title 49" substituted for "section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 In subsec. (a)(5)(G), "chapter 43 of title 46" and "section 2101(1) of title 46" substituted for "the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)" and "section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]", respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 

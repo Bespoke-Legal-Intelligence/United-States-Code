@@ -66,5 +66,5 @@ Pub. L. 99–514, title XV, §1552(b), Oct. 22, 1986, 100 Stat. 2753, provided t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to any action or proceeding in the Tax Court commenced after Dec. 31, 1982, or pending in the Tax Court on the day 120 days after July 18, 1984, see section 292(e)(2) of Pub. L.97–248, as amended, set out as an Effective Date note under section 7430 of this title.
+Amendment by Pub. L. 97–248 applicable to any action or proceeding in the Tax Court commenced after Dec. 31, 1982, or pending in the Tax Court on the day 120 days after July 18, 1984, see section 292(e)(2) of Pub. L. 97–248, as amended, set out as an Effective Date note under section 7430 of this title.
 

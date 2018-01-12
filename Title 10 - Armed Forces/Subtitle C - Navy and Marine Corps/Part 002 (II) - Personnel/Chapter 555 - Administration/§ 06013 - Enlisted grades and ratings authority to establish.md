@@ -1,6 +1,6 @@
 ### §6013. Enlisted grades and ratings: authority to establish
 
-The Secretary of the Navy may establish such enlisted grades and ratings as are necessary forthe proper administration of the Navy and the Marine Corps.
+The Secretary of the Navy may establish such enlisted grades and ratings as are necessary for the proper administration of the Navy and the Marine Corps.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 375.)
 

@@ -45,6 +45,8 @@
 | [20145\.](Subchapter%20003%20%28III%29%20-%20General%20Administrative%20Provisions/%C2%A7%2020145%20-%20Lease%20of%20non-excess%20property.md) | Lease of non-excess property. |
 | [20146\.](Subchapter%20003%20%28III%29%20-%20General%20Administrative%20Provisions/%C2%A7%2020146%20-%20Retrocession%20of%20jurisdiction.md) | Retrocession of jurisdiction. |
 | [20147\.](Subchapter%20003%20%28III%29%20-%20General%20Administrative%20Provisions/%C2%A7%2020147%20-%20Recovery%20and%20disposition%20authority.md) | Recovery and disposition authority. |
+| [20148\.](Subchapter%20003%20%28III%29%20-%20General%20Administrative%20Provisions/%C2%A7%2020148%20-%20Indemnification%3B%20NASA%20launch%20services%20and%20reentry%20services.md) | Indemnification; NASA launch services and reentry services. |
+| [20149\.](Subchapter%20003%20%28III%29%20-%20General%20Administrative%20Provisions/%C2%A7%2020149%20-%20Medical%20monitoring%20and%20research%20relating%20to%20human%20space%20flight.md) | Medical monitoring and research relating to human space flight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +60,10 @@
 | [20164\.](Subchapter%20004%20%28IV%29%20-%20Upper%20Atmosphere%20Research/%C2%A7%2020164%20-%20International%20cooperation.md) | International cooperation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2017</b>—Pub. L. 115–10, title III, §305(b), title IV, §443(b), Mar. 21, 2017, 131 Stat. 32, 47, added items 20148 and 20149.
 
 
 ---

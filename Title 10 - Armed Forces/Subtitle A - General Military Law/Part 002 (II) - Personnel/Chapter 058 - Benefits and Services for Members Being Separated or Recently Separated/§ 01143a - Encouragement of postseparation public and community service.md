@@ -26,7 +26,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 (e)
 
-Consultation Requirement.—In carrying out this section, the Secretary shall consult closely with the Secretary of Labor, the Secretary of Veterans Affairs, the Secretary of Education, the Director of the Office of PersonnelManagement, appropriate representatives of State and local governments, and appropriate representatives of businesses and nonprofit organizations in the private sector.
+Consultation Requirement.—In carrying out this section, the Secretary shall consult closely with the Secretary of Labor, the Secretary of Veterans Affairs, the Secretary of Education, the Director of the Office of Personnel Management, appropriate representatives of State and local governments, and appropriate representatives of businesses and nonprofit organizations in the private sector.
 
 (f)
 
@@ -86,7 +86,7 @@ Pub. L. 102–484, div. D, title XLIV, §4464, Oct. 23, 1992, 106 Stat. 2741, pr
 
 "(a)
 
-Recomputation of Retired Pay.—(1) If a member or former member of the Armed Forces retired under section 4403(a) \[10 U.S.C. 1293 note\] or any other provision of law authorizing retirement from the Armed Forces (other than for disability) before the completion of at least 20 years of active duty service (as computed under the applicable provision of law) is employed by a public service or community service organization listed on the registry maintained under section 1143a(c) of title 10, United States Code (as added by section 4462(a)), within the period of the member's enhanced retirement qualification period, the member's or former member's retired or retainer pay shall be recomputed effective on the first day of the first month beginning after the date on which the member or former member attains 62 years of age.
+Recomputation of Retired Pay.—(1) If a member or former member of the Armed Forces retired under section 4403(a) \[10 U.S.C. 1293 note\] or any other provision of law authorizing retirement from the Armed Forces (other than for disability) before thecompletion of at least 20 years of active duty service (as computed under the applicable provision of law) is employed by a public service or community service organization listed on the registry maintained under section 1143a(c) of title 10, United States Code (as added by section 4462(a)), within the period of the member's enhanced retirement qualification period, the member's or former member's retired or retainer pay shall be recomputed effective on the first day of the first month beginning after the date on which the member or former member attains 62 years of age.
 
 "(2) For purposes of recomputing a member's or former member's retired pay—
 

@@ -46,7 +46,7 @@ A prior section 13104 was renumbered section 13105 of this title.
 
 Subsec. (c). Pub. L. 98–369, §1011(d)(1), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 98–369, §1011(d)(1), struck out subsec. (d) which provided that an allocation or distribution of amounts under this section may not be made to a State to maintain boating facilities under that State's approved recreational boating safety and facilities improvement program.
+Subsec. (d). Pub. L. 98–369, §1011(d)(1), struck out subsec. (d) which provided that an allocation or distribution of amounts under this section may not be made to a State to maintain boating facilities under thatState's approved recreational boating safety and facilities improvement program.
 
 Subsec. (e). Pub. L. 98–369, §1011(d)(1), redesignated subsec. (e) as (c).
 

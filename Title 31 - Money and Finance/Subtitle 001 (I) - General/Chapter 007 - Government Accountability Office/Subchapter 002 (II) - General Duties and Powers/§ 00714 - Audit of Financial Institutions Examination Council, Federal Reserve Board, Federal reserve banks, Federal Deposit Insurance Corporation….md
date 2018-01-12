@@ -10,7 +10,7 @@
 
 &emsp;(3) transactions made under the direction of the Federal Open Market Committee; or
 
-&emsp;(4) a part of a discussion or communication among or between members of the Board andofficers and employees of the Federal Reserve System related to clauses (1)–(3) of this subsection.
+&emsp;(4) a part of a discussion or communication among or between members of the Board and officers and employees of the Federal Reserve System related to clauses (1)–(3) of this subsection.
 
 (c)(1) Except as provided in this subsection, an officer or employee of the Government Accountability Office may not disclose information identifying an open bank, an open bank holding company, or a customer of an open or closed bank or bank holding company. The Comptroller General may disclose information related to the affairs of a closed bank or closed bank holding company identifying a customer of the closed bank or closed bank holding company only if the Comptroller General believes the customer had a controlling influence in the management of the closed bank or closed bank holding company or was related to or affiliated with a person or group having a controlling influence.
 
@@ -138,7 +138,7 @@ In subsection (a), the words "Financial Institutions Examination Council, the Fe
 
 In subsections (b) and (c), the words "Comptroller General" are substituted for "General Accounting Office" and "Office" for consistency.
 
-In subsection (b), before clause (1), the words "rules and" are omitted as surplus. The word "agency" is substituted for 31:67(e)(1)(A)–(D) because of subsection (a). The words "(hereinafter in this subsection referred to as the Office)" are omitted because of the restatement.In clause (1), the words "government of a foreign country" are substituted for "foreign governments" for consistency. In clause (3), the words "including transactions of the Federal Reserve System Open Market Account" are omitted as surplus. In clause (4), the words "oral, written, telegraphic, or telephonic" are omitted as surplus.
+In subsection (b), before clause (1), the words "rules and" are omitted as surplus. The word "agency" is substituted for 31:67(e)(1)(A)–(D) because of subsection (a). The words "(hereinafter in this subsection referred to as the Office)" are omitted because of the restatement. In clause (1), the words "government of a foreign country" are substituted for "foreign governments" for consistency. In clause (3), the words "including transactions of the Federal Reserve System Open Market Account" are omitted as surplus. In clause (4), the words "oral, written, telegraphic, or telephonic" are omitted as surplus.
 
 In subsection (c)(1), the words "otherwise", "to any person, nor shall the Office disclose in its report or otherwise outside of the Office", "in a form", and "specific" are omitted as surplus.
 

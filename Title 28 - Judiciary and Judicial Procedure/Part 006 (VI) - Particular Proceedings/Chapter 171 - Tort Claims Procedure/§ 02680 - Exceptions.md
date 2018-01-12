@@ -8,7 +8,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 (c) Any claim arising in respect of the assessment or collection of any tax or customs duty, or the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—
 
-&emsp;(1) the property was seized for the purpose of forfeiture under any provision of Federal law providing for the forfeiture of property other than as a sentence imposed upon conviction of a criminal offense;
+&emsp;(1) the property was seized for the purpose of forfeiture under any provision of Federal lawproviding for the forfeiture of property other than as a sentence imposed upon conviction of a criminal offense;
 
 &emsp;(2) the interest of the claimant was not forfeited;
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 86–168 effective Jan. 1, 1960, see section 203(c) of Pub.
 
 #### Effective Date of 1950 Amendment
 
-Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilities and appurtenances related thereto, see section 14 of act Sept. 26, 1950.
+Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilitiesand appurtenances related thereto, see section 14 of act Sept. 26, 1950.
 
 #### Transfer of Functions
 
@@ -98,7 +98,7 @@ For transfer of certain functions relating to claims and litigation, insofar as 
 
 #### Northern Mariana Islands—Applicability of Subsec. (k)
 
-Pub. L. 97–357, title II, §204, Oct. 19, 1982, 96 Stat. 1708, provided: "That the Northern Mariana Islands shall notbe considered a foreign country for purposes of subsection (k) of section 2680 of title 28, United States Code, with respect to claims which accrued no more than two years prior to the effective date of this Act \[Oct. 19, 1982\]."
+Pub. L. 97–357, title II, §204, Oct. 19, 1982, 96 Stat. 1708, provided: "That the Northern Mariana Islands shall not be considered a foreign country for purposes of subsection (k) of section 2680 of title 28, United States Code, with respect to claims which accrued no more than two years prior to the effective date of this Act \[Oct. 19, 1982\]."
 
 #### Termination of National Emergency
 

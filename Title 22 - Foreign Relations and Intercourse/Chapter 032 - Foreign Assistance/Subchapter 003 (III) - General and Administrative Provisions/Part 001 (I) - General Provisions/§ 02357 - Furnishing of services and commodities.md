@@ -26,7 +26,7 @@ When any agency of the United States Government provides services on an advance-
 
 #### (d) Transfer of Government-owned excess property to enhance environmental protection in foreign countries
 
-The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit reliefagency described in subsection (a), Government-owned excess property made available under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
+The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a), Government-owned excess property made available under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
 
 &emsp;(1) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -100,7 +100,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 (A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
 
-(B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing,and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
+(B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
 
 The delegations of authority described in subparagraph (A) are in addition to other delegations of such authority to the International Development Cooperation Agency.
 

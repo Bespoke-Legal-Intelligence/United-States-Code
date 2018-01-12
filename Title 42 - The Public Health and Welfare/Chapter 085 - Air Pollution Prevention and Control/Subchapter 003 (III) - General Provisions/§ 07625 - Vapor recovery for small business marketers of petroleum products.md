@@ -2,7 +2,7 @@
 
 #### (a) Marketers of gasoline
 
-The regulations under this chapter applicable to vapor recovery from fueling of motor vehicles at retail outlets of gasoline shall not apply to any outlet owned by an independent small business marketer of gasoline having monthly sales of less than 50,000 gallons. In the case of any other outlet owned by an independent small business marketer, such regulations shall provide, with respect to independent small businessmarketers of gasoline, for a three-year phase-in period for the installation of such vapor recovery equipment at such outlets under which such marketers shall have—
+The regulations under this chapter applicable to vapor recovery from fueling of motor vehicles at retail outlets of gasoline shall not apply to any outlet owned by an independent small business marketer of gasoline having monthly sales of less than 50,000 gallons. In the case of any other outlet owned by an independent small business marketer, such regulations shall provide, with respect to independent small business marketers of gasoline, for a three-year phase-in period for the installation of such vapor recovery equipment at such outlets under which such marketers shall have—
 
 &emsp;(1) 33 percent of such outlets in compliance at the end of the first year during which such regulations apply to such marketers,
 
@@ -12,11 +12,11 @@ The regulations under this chapter applicable to vapor recovery from fueling of 
 
 #### (b) State requirements
 
-Nothing in subsection (a) of this section shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
+Nothing in subsection (a) shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
 
 #### (c) Refiners
 
-For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 <sup>1</sup> of this title or under regulations of the Administrator, unless such person—
+For purposes of this section, an independent small business marketer of gasoline is a personengaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 <sup>1</sup> of this title or under regulations of the Administrator, unless such person—
 
 &emsp;(1)(A) is a refiner, or <sup>2</sup>
 

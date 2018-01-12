@@ -12,7 +12,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 #### (c) Allotment of additional sums
 
-Any sums made available by the Congress in addition to those provided for in subsection (b) of this section for State agricultural experiment station work shall be distributed as follows:
+Any sums made available by the Congress in addition to those provided for in subsection (b)of this section for State agricultural experiment station work shall be distributed as follows:
 
 &emsp;(1) Twenty per centum shall be allotted equally to each State;
 
@@ -76,7 +76,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (2) Plan of work
 
-&emsp;The State shall include in the plan of work of the State required under section 361g of thistitle a description of the manner in which the State will meet the requirements of subsection (c)(3).
+&emsp;The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3).
 
 #### (i) Integration of research and extension
 
@@ -146,7 +146,7 @@ Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted "or the District of
 
 Subsec. (c)(1), (2). Pub. L. 105–185, §104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
 
-Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection\(b) of this section for like purpose shall be designated as the 'Regional research fund, State agricultural experiment stations';".
+Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the 'Regional research fund, State agricultural experiment stations';".
 
 Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 

@@ -22,5 +22,5 @@ The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, th
 
 #### Codification
 
-Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year2009, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 

@@ -12,7 +12,7 @@ Nothing in this section shall be construed to prohibit the sharing of informatio
 
 #### (1) Requirement
 
-&emsp;The Secretary shall provide to State, local, and regional fusion centers (as that term is defined in section 124h(j)(1) of this title) and State and local government officials, as theSecretary determines appropriate, such information as is necessary to help ensure that first responders are properly prepared and provided with the situational awareness needed to respond to security incidents at covered chemical facilities.
+&emsp;The Secretary shall provide to State, local, and regional fusion centers (as that term is defined in section 124h(j)(1) of this title) and State and local government officials, as the Secretary determines appropriate, such information as is necessary to help ensure that first responders are properly prepared and provided with the situational awareness needed to respond to security incidents at covered chemical facilities.
 
 #### (2) Dissemination
 

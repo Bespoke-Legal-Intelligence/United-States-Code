@@ -32,7 +32,7 @@ Section was enacted as part of the Energy Policy and Conservation Amendments Act
 
 #### Short Title
 
-Pub. L. 99–58, title II, §201, July 2, 1985, 99 Stat. 107, provided that: "This title \[enacting this section and provisions set out as a note below\] may be cited as the 'National Coal Imports Reporting Act of 1985'."
+Pub. L. 99–58, title II, §201, July 2, 1985, 99 Stat. 107, provided that: "This title \[enacting this section andprovisions set out as a note below\] may be cited as the 'National Coal Imports Reporting Act of 1985'."
 
 #### Termination of Reporting Requirements
 

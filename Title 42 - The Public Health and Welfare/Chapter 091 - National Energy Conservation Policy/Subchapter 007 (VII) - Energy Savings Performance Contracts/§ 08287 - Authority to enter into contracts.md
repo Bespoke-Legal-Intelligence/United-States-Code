@@ -12,7 +12,7 @@
 
 (D) A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years beginning on the date of the delivery order, without funding of cancellation charges before cancellation, if—
 
-&emsp;(i) such contract was awarded in a competitive manner pursuant to subsection (b)(2) of this section, using procedures and methods established under this subchapter;
+&emsp;(i) such contract was awarded in a competitive manner pursuant to subsection (b)(2), using procedures and methods established under this subchapter;
 
 &emsp;(ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
 
@@ -140,7 +140,7 @@ Subsec. (c). Pub. L. 110–140, §514, struck out subsec. (c). Text read as foll
 
 <b>2000</b>—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting "$10,000,000" for "$750,000".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–388 substituted "on October 1, 2003" for "five years after the date procedures and methods are established under subsection (b) of this section".
+<b>1998</b>—Subsec. (c). Pub. L. 105–388 substituted "on October 1, 2003" for "five years after the date procedures and methods are established under subsection (b)".
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 struck out at end "Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40."
 

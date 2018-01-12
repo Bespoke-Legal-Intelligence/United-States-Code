@@ -24,7 +24,7 @@
 
 #### (b) State plans
 
-If the Administrator rejects a plan submitted under subsection (a)(2), the Administrator shall afford the State submitting the plan due notice and opportunity for hearing before so doing. If the Administrator approves a plan submitted under subsection (a)(2), then such State shall certify applicators of pesticides with respect to such State. Whenever the Administrator determines that a State is not administering the certification program in accordance with the plan approved under this section, the Administrator shall so notify the State and provide for a hearing at the request of the State, and, if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such plan.
+If the Administrator rejects a plan submitted under subsection (a)(2), the Administrator shallafford the State submitting the plan due notice and opportunity for hearing before so doing. If the Administrator approves a plan submitted under subsection (a)(2), then such State shall certify applicators of pesticides with respect to such State. Whenever the Administrator determines that a State is not administering the certification program in accordance with the plan approved under this section, the Administrator shall so notify the State and provide for a hearing at the request of the State, and, if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such plan.
 
 #### (c) Instruction in integrated pest management techniques
 
@@ -38,7 +38,7 @@ No regulations prescribed by the Administrator for carrying out the provisions o
 
 When establishing or approving standards for licensing or certification, the Administrator shall establish separate standards for commercial and private applicators.
 
-(June 25, 1947, ch. 125, §11, formerly §§4, 11, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, §9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, §801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681,2683; Pub. L. 102–237, title X, §1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, §11, formerly §§4, 11, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, §9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, §801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 #### Codification
 

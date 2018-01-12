@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term "Secretary" means the Secretary of Agriculture.
 
-&emsp;(3) The term "interstate or foreign commerce" means commerce between any State orTerritory, or the District of Columbia and any place outside thereof; or between points within the same State or Territory, or the District of Columbia but through any place outside thereof; or within the District of Columbia.
+&emsp;(3) The term "interstate or foreign commerce" means commerce between any State or Territory, or the District of Columbia and any place outside thereof; or between points within the same State or Territory, or the District of Columbia but through any place outside thereof; or within the District of Columbia.
 
 &emsp;(4) The term "perishable agricultural commodity"—
 
@@ -26,7 +26,7 @@ For purposes of this chapter:
 
 &emsp;(7) The term "broker" means any person engaged in the business of negotiating sales and purchases of any perishable agricultural commodity in interstate or foreign commerce for or on behalf of the vendor or the purchaser, respectively, except that no person shall be deemed to be a "broker" if such person is an independent agent negotiating sales for and on behalf of the vendor and if the only sales of such commodities negotiated by such person are sales of frozen fruits and vegetables having an invoice value not in excess of $230,000 in any calendar year.
 
-&emsp;(8) A transaction in respect of any perishable agricultural commodity shall be considered in interstate or foreign commerce if such commodity is part of that current of commerce usual in the trade in that commodity whereby such commodity and/or the products of such commodity are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where sale is either for shipment to another State, or for processing within the State and the shipment outside the State of the products resulting from such processing. Commodities normally in such current of commerce shall not be considered out of such commerce through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
+&emsp;(8) A transaction in respect of any perishable agricultural commodity shall be considered in interstate or foreign commerce if such commodity is part of that current of commerce usual in the trade in that commodity whereby such commodity and/or the products of suchcommodity are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where sale is either for shipment to another State, or for processing within the State and the shipment outside the State of the products resulting from such processing. Commodities normally in such current of commerce shall not be considered out of such commerce through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
 
 &emsp;(9) The term "responsibly connected" means affiliated or connected with a commission merchant, dealer, or broker as (A) partner in a partnership, or (B) officer, director, or holder of more than 10 per centum of the outstanding stock of a corporation or association. A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.
 
@@ -46,7 +46,7 @@ Section was formerly classified to section 551 of this title.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b)(9). Pub. L. 104–48, §12(a), inserted at end "A person shall not be deemed to be responsiblyconnected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners."
+<b>1995</b>—Subsec. (b)(9). Pub. L. 104–48, §12(a), inserted at end "A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners."
 
 Subsec. (b)(11), (12). Pub. L. 104–48, §2, added pars. (11) and (12).
 
@@ -148,7 +148,7 @@ Contents.—The study conducted under paragraph (1) shall include—
 
 Report.—Not later than 18 months after the date of enactment of this title \[Nov. 28, 1990\], the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the results of the study described in subsection (a). Such report shall include—
 
-&emsp;"(1) the recommendations of the Secretary concerning the manner in which producers of domestic fruitand vegetable commodities that are not receiving assistance under the programs that provide market enhancement assistance (such as the export enhancement program under subtitle B of title XI of the Food Security Act of 1985 (7 U.S.C. 1736p et seq.) to producers of domestic fruit and vegetable commodities, could participate in such programs; and
+&emsp;"(1) the recommendations of the Secretary concerning the manner in which producers of domestic fruit and vegetable commodities that are not receiving assistance under the programs that provide market enhancement assistance (such as the export enhancement program under subtitle B of title XI of the Food Security Act of 1985 (7 U.S.C. 1736p et seq.) to producers of domestic fruit and vegetable commodities, could participate in such programs; and
 
 &emsp;"(2) the recommendations to the Secretary concerning the establishment of additional programs of the type described in paragraph (1) to assist producers of domestic fruit and vegetable commodities in increasing their production and in expanding domestic and foreign markets for the products of such producers.
 

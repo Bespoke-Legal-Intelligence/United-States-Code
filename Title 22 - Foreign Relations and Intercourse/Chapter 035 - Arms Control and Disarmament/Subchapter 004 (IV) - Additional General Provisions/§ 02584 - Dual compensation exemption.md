@@ -1,6 +1,6 @@
 ### §2584. Dual compensation exemption
 
-Members of advisory boards and consultants may serve as such without regard to any Federal law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities, subject to section 5532 <sup>1</sup> of title 5. This section shall apply only to individuals carrying out activities related to arms control, nonproliferation, and disarmament.
+Members of advisory boards and consultants may serve as such without regard to any Federallaw limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities, subject to section 5532 <sup>1</sup> of title 5. This section shall apply only to individuals carrying out activities related to arms control, nonproliferation, and disarmament.
 
 (Pub. L. 87–297, title IV, §402, formerly §44, Sept. 26, 1961, 75 Stat. 636; Pub. L. 88–448, title IV, §401(d), Aug. 19, 1964, 78 Stat. 490; renumbered §402 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(14), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772.)
 

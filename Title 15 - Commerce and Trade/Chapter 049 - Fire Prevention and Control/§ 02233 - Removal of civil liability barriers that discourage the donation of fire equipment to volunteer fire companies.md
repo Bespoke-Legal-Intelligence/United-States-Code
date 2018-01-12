@@ -32,7 +32,7 @@ In this section:
 
 #### (3) Qualified fire control or rescue equipment
 
-&emsp;The term "qualified fire control or rescue equipment" means fire control or fire rescueequipment that has been recertified by an authorized technician as meeting the manufacturer's specifications.
+&emsp;The term "qualified fire control or rescue equipment" means fire control or fire rescue equipment that has been recertified by an authorized technician as meeting the manufacturer's specifications.
 
 #### (4) State
 

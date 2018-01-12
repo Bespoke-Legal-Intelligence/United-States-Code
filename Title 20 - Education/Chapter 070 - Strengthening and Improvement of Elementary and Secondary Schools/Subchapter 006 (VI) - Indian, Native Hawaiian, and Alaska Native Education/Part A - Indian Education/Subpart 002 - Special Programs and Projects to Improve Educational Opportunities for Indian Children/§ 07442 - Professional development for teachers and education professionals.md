@@ -36,7 +36,7 @@ The Secretary is authorized to award grants to eligible entities having applicat
 
 &emsp;&emsp;(A) continuing education programs, symposia, workshops, and conferences;
 
-&emsp;&emsp;(B) teacher mentoring programs, professional guidance, and instructional support provided by educators, local traditional leaders, or cultural experts, as appropriate for teachers during their first 3 years of employment as teachers;
+&emsp;&emsp;(B) teacher mentoring programs, professional guidance, and instructional support provided by educators, local traditionalleaders, or cultural experts, as appropriate for teachers during their first 3 years of employment as teachers;
 
 &emsp;&emsp;(C) direct financial support; and
 

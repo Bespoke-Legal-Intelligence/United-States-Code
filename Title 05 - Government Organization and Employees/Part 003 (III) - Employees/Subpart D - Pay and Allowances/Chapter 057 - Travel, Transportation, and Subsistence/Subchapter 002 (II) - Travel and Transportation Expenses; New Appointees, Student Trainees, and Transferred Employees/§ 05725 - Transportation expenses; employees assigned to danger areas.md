@@ -6,7 +6,7 @@
 
 &emsp;(2) to which they are not permitted to accompany him;
 
-> because of military or other reasons which create imminent danger to life or property, or adverse living conditions which seriously affectthe health, safety, or accommodations of the immediate family, Government funds may be used to transport his immediate family and household goods, personal effects, and family household pets, under regulations prescribed by the head of the agency, to a location designated by the employee. When circumstances prevent the employee from designating a location, or it is administratively impracticable to determine his intent, the immediate family may designate the location. When the designated location is inside a zone to which movement of families is prohibited under this subsection, the employee or his immediate family may designate an alternate location.
+> because of military or other reasons which create imminent danger to life or property, or adverse living conditions which seriously affect the health, safety, or accommodations of the immediate family, Government funds may be used to transport his immediate family and household goods, personal effects, and family household pets, under regulations prescribed by the head of the agency, to a location designated by the employee. When circumstances prevent the employee from designating a location, or it is administratively impracticable to determine his intent, the immediate family may designate the location. When the designated location is inside a zone to which movement of families is prohibited under this subsection, the employee or his immediate family may designate an alternate location.
 
 (b) When the employee is assigned to a duty station from which his immediate family is not excluded by the restrictions in subsection (a) of this section, Government funds may be used to transport his immediate family and household goods and personal effects from the designated or alternate location to the duty station.
 
@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 5 U.S.C. 73b–1(d).
 
-Sept. 23, 1960, ch. 1010, §1(c), 64 Stat. 985.
+Sept. 23, 1950, ch. 1010, §1(c), 64 Stat. 985.
 
 The word "employee" is substituted for "civilian officers and employees" in view of the definition of "employee" in sections 5721 and 2105.
 

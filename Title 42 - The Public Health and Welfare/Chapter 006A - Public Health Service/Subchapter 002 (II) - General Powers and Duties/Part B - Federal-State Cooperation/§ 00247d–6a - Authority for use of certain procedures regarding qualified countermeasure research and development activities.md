@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;In conducting and supporting research and development activities regarding countermeasures under section 247d–6(h) of this title, the Secretary may conduct and support such activities in accordance with this section and,in consultation with the Director of the National Institutes of Health, as part of the program under section 285f of this title, if the activities concern qualified countermeasures.
+&emsp;In conducting and supporting research and development activities regarding countermeasures under section 247d–6(h) of this title, the Secretary may conduct and support such activities in accordance with this section and, in consultation with the Director of the National Institutes of Health, as part of the program under section 285f of this title, if the activities concern qualified countermeasures.
 
 #### (2) Definitions
 
@@ -78,7 +78,7 @@
 
 #### (D) Authority to limit competition
 
-&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use the authority provided for under subparagraph\(A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
+&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use theauthority provided for under subparagraph (A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
 
 #### (2) Procedures other than full and open competition
 

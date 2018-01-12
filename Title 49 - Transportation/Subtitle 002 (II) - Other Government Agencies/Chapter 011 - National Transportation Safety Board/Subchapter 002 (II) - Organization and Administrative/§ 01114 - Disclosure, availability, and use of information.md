@@ -16,7 +16,7 @@ Trade Secrets.—(1) The Board may disclose information related to a trade secre
 
 &emsp;(C) in a judicial proceeding under a court order that preserves the confidentiality of the information without impairing the proceeding; and
 
-&emsp;(D) to the public to protect health and safety after giving notice to any interested person to whom the information is related and an opportunity for that person to comment in writing, or orally in closed session, on the proposeddisclosure, if the delay resulting from notice and opportunity for comment would not be detrimental to health and safety.
+&emsp;(D) to the public to protect health and safety after giving notice to any interested person to whom the information is related and an opportunity for that person to comment in writing, or orally in closed session, on the proposed disclosure, if the delay resulting from notice and opportunity for comment would not be detrimental to health and safety.
 
 (2) Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
 

@@ -2,9 +2,9 @@
 
 (a)
 
-Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
+Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary alsomay require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
-(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A planrequired under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
+(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
 &emsp;(A) relevant available pipeline safety information;
 
@@ -70,7 +70,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose ahazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -328,7 +328,7 @@ Other Waters" for "
 
 Navigable Waters" in heading.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: "any other pipeline facility crossing under, over, orthrough navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety."
+Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: "any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety."
 
 Subsec. (c)(2)(B). Pub. L. 104–304, §20(h)(1), substituted "standards" for "regulations" in introductory provisions.
 
@@ -420,7 +420,7 @@ Establishment of Database.—The Secretary may establish, if appropriate, a nati
 
 &emsp;"(1) after submission of the report required under subsection (a); or
 
-&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
+&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee onEnergy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
 
 #### Report on Natural Gas Leak Reporting
 
@@ -434,7 +434,7 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 
 Elements.—The report required under subsection (a) shall include the following elements:
 
-&emsp;"(1) An examination of different reporting requirements or standards for lost and unaccounted for natural gas to different agencies, the reasons for anysuch discrepancies, and recommendations for harmonizing and improving the accuracy of reporting.
+&emsp;"(1) An examination of different reporting requirements or standards for lost and unaccounted for natural gas to different agencies, the reasons for any such discrepancies, and recommendations for harmonizing and improving the accuracy of reporting.
 
 &emsp;"(2) An analysis of whether separate or alternative reporting could better measure the amounts and identify the location of lost and unaccounted for natural gas from natural gas distribution systems.
 

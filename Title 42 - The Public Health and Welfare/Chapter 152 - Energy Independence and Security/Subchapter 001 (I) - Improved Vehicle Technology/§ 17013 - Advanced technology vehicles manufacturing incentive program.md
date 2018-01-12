@@ -112,7 +112,7 @@ An award under subsection (b) shall apply to—
 
 #### (e) Improvement
 
-Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. Inorder to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
+Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
 
 #### (f) Fees
 
@@ -181,6 +181,10 @@ Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted "ultra efficient v
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted "Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that," for "The Secretary shall issue regulations that require that,".
 
 Subsec. (j). Pub. L. 110–329, §129(c)(3), added subsec. (j).
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 #### Reconsideration of Prior Applications
 

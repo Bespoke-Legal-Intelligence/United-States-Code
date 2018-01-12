@@ -122,7 +122,7 @@ Pub. L. 102–54, §9(b), June 13, 1991, 105 Stat. 273, added item 1835.
 
 Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item 1829.
 
-<b>1981</b>—Pub. L. 97–72, title III, §302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted "HOUSING AND SMALL BUSINESS LOANS" for "HOME, CONDOMINIUM, AND MOBILE HOME LOANS" in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
+<b>1981</b>—Pub. L. 97–72, title III, §302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted "HOUSING AND SMALLBUSINESS LOANS" for "HOME, CONDOMINIUM, AND MOBILE HOME LOANS" in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
 
 <b>1979</b>—Pub. L. 96–128, title IV, §401(b), Nov. 28, 1979, 93 Stat. 987, added item 1828.
 

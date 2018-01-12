@@ -72,7 +72,11 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 2002 Amendment
 
-Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d)of Pub. L. 107–273, set out as a note under section 134 of this title.
+Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
+
+#### Effective Date
+
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
 #### Estoppel Effect of Reexamination
 

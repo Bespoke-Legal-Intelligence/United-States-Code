@@ -68,7 +68,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(22)(A) assurances that—
 
-&emsp;&emsp;(i) except as provided in subparagraph (B) and subject to clause (ii), the applicant willnotify the parents or guardians of any unemancipated minor requesting services from the applicant and, except as provided in subparagraph (C), will obtain the permission of such parents or guardians with respect to the provision of such services; and
+&emsp;&emsp;(i) except as provided in subparagraph (B) and subject to clause (ii), the applicant will notify the parents or guardians of any unemancipated minor requesting services from the applicant and, except as provided in subparagraph (C), will obtain the permission of such parents or guardians with respect to the provision of such services; and
 
 &emsp;&emsp;(ii) in the case of a pregnant unemancipated minor requesting services from the applicant, the applicant will notify the parents or guardians of such minor under clause (i) within a reasonable period of time;
 

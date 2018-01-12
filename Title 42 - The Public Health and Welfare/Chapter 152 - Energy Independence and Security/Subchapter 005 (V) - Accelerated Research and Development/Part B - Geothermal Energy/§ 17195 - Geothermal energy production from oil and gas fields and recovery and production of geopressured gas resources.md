@@ -6,7 +6,7 @@ The Secretary shall establish a program of research, development, demonstration,
 
 #### (b) Geothermal energy production from oil and gas fields
 
-The Secretary shall implement a grant program in support of geothermal energy production from oil and gas fields. The program shall include grants for a total of not less than three demonstration projects of the use of geothermal techniques such as advanced organic rankine cycle systems at marginal, unproductive, andproductive oil and gas wells. The Secretary shall, to the extent practicable and in the public interest, make awards that—
+The Secretary shall implement a grant program in support of geothermal energy production from oil and gas fields. The program shall include grants for a total of not less than three demonstration projects of the use of geothermal techniques such as advanced organic rankine cycle systems at marginal, unproductive, and productive oil and gas wells. The Secretary shall, to the extent practicable and in the public interest, make awards that—
 
 &emsp;(1) include not less than five oil or gas well sites per project award;
 
@@ -63,4 +63,8 @@ Not less than 90 days after December 19, 2007, the Secretary shall conduct a nat
 No funds may be used under this section for the purpose of drilling new wells.
 
 (Pub. L. 110–140, title VI, §616, Dec. 19, 2007, 121 Stat. 1681.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

@@ -170,7 +170,7 @@ Pub. L. 112–141, §20030(a)(3), substituted "section 5338(a)(2)(A) for a fisca
 
 Pub. L. 112–140, §§1(c), 301, temporarily substituted "ending on July 6, 2012" for "ending on June 30, 2012" in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102 substituted "2011 and for the period beginning on October 1, 2011, and ending on June 30,2012" for "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012" in introductory provisions.
+Pub. L. 112–102 substituted "2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012" for "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012" in introductory provisions.
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–30 substituted "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012" for "2011".
 

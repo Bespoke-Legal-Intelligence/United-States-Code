@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) the number of nondeployable items in the inventory as a substitute for a required major item of equipment.
 
-&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipmentneeded to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
+&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
 
 &emsp;(7) For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
 

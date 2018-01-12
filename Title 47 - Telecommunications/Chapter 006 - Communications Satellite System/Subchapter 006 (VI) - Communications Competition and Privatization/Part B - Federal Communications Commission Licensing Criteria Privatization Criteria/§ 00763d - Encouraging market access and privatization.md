@@ -12,7 +12,7 @@
 
 #### (2) Consultation
 
-&emsp;The Secretary's determinations under paragraph (1) shall be made in consultation with the Federal Communications Commission, the Secretary of State, and the United States Trade Representative, and shall take into account the totality of a country's actions in all relevant fora, including the Assemblies of Parties of INTELSAT and Inmarsat.
+&emsp;The Secretary's determinations under paragraph (1) shall be made in consultation withthe Federal Communications Commission, the Secretary of State, and the United States Trade Representative, and shall take into account the totality of a country's actions in all relevant fora, including the Assemblies of Parties of INTELSAT and Inmarsat.
 
 #### (b) Imposition of cost-based settlement rate
 

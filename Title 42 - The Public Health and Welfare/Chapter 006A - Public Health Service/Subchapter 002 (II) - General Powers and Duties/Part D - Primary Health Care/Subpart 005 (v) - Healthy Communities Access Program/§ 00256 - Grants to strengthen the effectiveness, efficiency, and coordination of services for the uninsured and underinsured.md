@@ -228,7 +228,7 @@ Pub. L. 111–148, title X, §10504, Mar. 23, 2010, 124 Stat. 1004, provided tha
 
 "(a)
 
-In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
+In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
 
 "(b)
 
@@ -240,7 +240,7 @@ Authorization.—There is authorized to be appropriated such sums as may be nece
 
 #### Purpose
 
-Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enactingthis subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
 &emsp;"(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
 

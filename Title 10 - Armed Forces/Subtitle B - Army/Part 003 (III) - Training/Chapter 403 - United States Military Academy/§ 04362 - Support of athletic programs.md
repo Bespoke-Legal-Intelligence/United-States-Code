@@ -74,7 +74,7 @@ Limitations.—No licensing, marketing, or sponsorship agreement may be entered 
 
 &emsp;&emsp;(A) such agreement would reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
 
-&emsp;&emsp;(B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Departmentof the Army, or any individual involved in such a program.
+&emsp;&emsp;(B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
 
 (e)
 

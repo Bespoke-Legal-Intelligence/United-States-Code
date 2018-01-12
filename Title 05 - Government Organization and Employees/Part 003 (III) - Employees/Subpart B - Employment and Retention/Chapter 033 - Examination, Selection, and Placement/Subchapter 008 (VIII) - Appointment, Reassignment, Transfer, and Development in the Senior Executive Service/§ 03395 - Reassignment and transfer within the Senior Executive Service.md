@@ -2,7 +2,7 @@
 
 (a)(1) A career appointee in an agency—
 
-&emsp;(A) may, subject to paragraph (2) of this subsection, be reassigned to any Senior ExecutiveService position in the same agency for which the appointee is qualified; and
+&emsp;(A) may, subject to paragraph (2) of this subsection, be reassigned to any Senior Executive Service position in the same agency for which the appointee is qualified; and
 
 &emsp;(B) may transfer to a Senior Executive Service position in another agency for which the appointee is qualified, with the approval of the agency to which the appointee transfers.
 

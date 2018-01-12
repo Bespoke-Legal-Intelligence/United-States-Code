@@ -66,7 +66,7 @@ This section corrects typographical errors in section 1346(a)(1) of title 28, U.
 
 #### References in Text
 
-Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code.
+Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 1986, referred to in subsec. (e), are classified to sections 6226, 6228(a), 7426, 7428, and 7429, respectively, of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, §1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 of Title 26 was repealed by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
 
@@ -116,21 +116,21 @@ Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. 
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978 and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978 and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as anEffective Date note under section 601 of former Title 41, Public Contracts.
 
 #### Effective Date of 1970 Amendment
 
 Pub. L. 91–350, §2, July 23, 1970, 84 Stat. 449, provided that:
 
-"(a) In addition to granting jurisdiction over suits brought after the date of enactment of this Act \[July23, 1970\], the provisions of this Act \[amending this section and section 1491 of this title and section 724a of former Title 31, Money and Finance\] shall also apply to claims and civil actions dismissed before or pending on the date of enactment of this Act if the claim or civil action is based upon a transaction, omission, or breach that occurred not more than six years prior to the date of enactment of this Act \[July 23, 1970\].
+"(a) In addition to granting jurisdiction over suits brought after the date of enactment of this Act \[July 23, 1970\], the provisions of this Act \[amending this section and section 1491 of this title and section 724a of former Title 31, Money and Finance\] shall also apply to claims and civil actions dismissed before or pending on the date of enactment of this Act if the claim or civil action is based upon a transaction, omission, or breach that occurred not more than six years prior to the date of enactment of this Act \[July 23, 1970\].
 
 "(b) The provisions of subsection (a) of this section shall apply notwithstanding a determination or judgment made prior to the date of enactment of this Act that the United States district courts or the United States Court of Claims did not have jurisdiction to entertain a suit on an express or implied contract with a nonappropriated fund instrumentality of the United States described in section 1 of this Act."
 

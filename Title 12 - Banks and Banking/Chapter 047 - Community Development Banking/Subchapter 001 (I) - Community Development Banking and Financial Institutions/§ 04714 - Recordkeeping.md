@@ -10,7 +10,7 @@ The Fund shall require each community development financial institution or other
 
 #### (c) Access to records
 
-The Fund shall have access on demand, for the purpose of determining compliance with this subchapter, to any records of a community development financial institution or other organization that receives assistance from the Fund.
+The Fund shall have access on demand, for the purpose of determining compliance with thissubchapter, to any records of a community development financial institution or other organization that receives assistance from the Fund.
 
 #### (d) Review
 

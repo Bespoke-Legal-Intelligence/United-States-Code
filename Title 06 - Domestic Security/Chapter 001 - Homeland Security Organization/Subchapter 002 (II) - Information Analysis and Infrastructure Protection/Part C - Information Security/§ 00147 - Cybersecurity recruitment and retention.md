@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;The Secretary may—
 
-&emsp;&emsp;&emsp;(i) establish, as positions in the excepted service, such qualified positions in the Department as the Secretary determines necessary to carry out the responsibilities ofthe Department relating to cybersecurity, including positions formerly identified as—
+&emsp;&emsp;&emsp;(i) establish, as positions in the excepted service, such qualified positions in the Department as the Secretary determines necessary to carry out the responsibilities of the Department relating to cybersecurity, including positions formerly identified as—
 
 &emsp;&emsp;&emsp;&emsp;(I) senior level positions designated under section 5376 of title 5; and
 
@@ -110,7 +110,7 @@ Not later than 1 year after December 18, 2014, and every year thereafter for 4 y
 
 &emsp;&emsp;(E) the number of retirements of employees in qualified positions by occupation and grade and level or pay band; and
 
-&emsp;&emsp;(F) the number and amounts of recruitment, relocation, and retention incentives paid to employees in qualified positions by occupation and grade and level or pay band; and
+&emsp;&emsp;(F) the number and amounts of recruitment, relocation, and retention incentives paid to employees in qualified positions byoccupation and grade and level or pay band; and
 
 &emsp;(5) describes the training provided to supervisors of employees in qualified positions at the Department on the use of the new authorities.
 

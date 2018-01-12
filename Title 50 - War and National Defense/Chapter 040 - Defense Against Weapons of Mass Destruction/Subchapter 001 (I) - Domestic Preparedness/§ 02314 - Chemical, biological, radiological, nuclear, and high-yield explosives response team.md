@@ -20,7 +20,7 @@ Section 502(6) of the Homeland Security Act of 2002, referred to in subsec. (b),
 
 Subsec. (a). Pub. L. 109–163, §1033(2), substituted "radiological, nuclear, and high-yield explosives" for "or related materials".
 
-Subsec. (b). Pub. L. 109–163, §1033(3), in heading, substituted "plans" for "plan" and, in text, substituted "The Secretary of Homeland Security shall incorporate into the National Response Plan prepared pursuant to section 312(6) of title 6, other existing Federal emergency response plans, and" for "Not later than December 31, 1997, the Director of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and" in first sentence and "Secretary of Homeland Security" for"Director" and "coordination" for "consultation" in second sentence.
+Subsec. (b). Pub. L. 109–163, §1033(3), in heading, substituted "plans" for "plan" and, in text, substituted "The Secretary of Homeland Security shall incorporate into the National Response Plan prepared pursuant to section 312(6) of title 6, other existing Federal emergency response plans, and" for "Not later than December 31, 1997, the Director of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and" in first sentence and "Secretary of Homeland Security" for "Director" and "coordination" for "consultation" in second sentence.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

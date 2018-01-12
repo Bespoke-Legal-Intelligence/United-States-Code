@@ -14,7 +14,7 @@ The amount of funds apportioned to each State shall be determined by the Secreta
 
 (2) For any fiscal year after fiscal year 1988, no State that, under the apportionment formula in subsection (b), has a ratio of one-third of one percent or higher may receive an apportionment for any fiscal year which is less than one percent of the total amount of funds available for that fiscal year.
 
-(3) For any fiscal year after fiscal year 1988, no State may receive an apportionment under this section for any fiscal year if that State's ratio under the apportionment formula in subsection (b) is less than one-third of one percent, unless the State—
+(3) For any fiscal year after fiscal year 1988, no State may receive an apportionment under this section for any fiscal year if that State's ratiounder the apportionment formula in subsection (b) is less than one-third of one percent, unless the State—
 
 &emsp;(A) is signatory to an interstate fishery compact;
 
@@ -45,4 +45,8 @@ Any part of an apportionment for any fiscal year to any State—
 #### Amendments
 
 <b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–627 inserted "which are managed under an interstate fishery management plan" before semicolon at end.
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
 

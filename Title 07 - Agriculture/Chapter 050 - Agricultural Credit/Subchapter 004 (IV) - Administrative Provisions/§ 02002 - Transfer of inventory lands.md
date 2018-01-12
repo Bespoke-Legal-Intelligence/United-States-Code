@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
+Subject to subsection (b), the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interesttherein, administered by the Secretary under this Act—
 
 &emsp;(1) with respect to which the rights of all prior owners and operators have expired;
 

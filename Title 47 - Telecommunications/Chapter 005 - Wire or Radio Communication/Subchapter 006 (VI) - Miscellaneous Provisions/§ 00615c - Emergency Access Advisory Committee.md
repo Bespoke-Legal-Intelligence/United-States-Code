@@ -86,7 +86,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Adviso
 
 #### (g) Implementing recommendations
 
-The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperable communication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
+The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperablecommunication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
 
 #### (h) Definitions
 

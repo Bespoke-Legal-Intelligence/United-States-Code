@@ -6,7 +6,7 @@ The Secretary shall promote and strengthen higher education in the food and agri
 
 #### (b) Grants
 
-The Secretary may make competitive grants (or grants without regard to any requirement for competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teachingof food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
+The Secretary may make competitive grants (or grants without regard to any requirement for competition) to land-grant colleges and universities (including the University of the District of Columbia), to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
 
 &emsp;(1) to strengthen institutional capacities, including curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences, or in rural economic, community, and business development;
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated for carrying out this section—
 
 #### References in Text
 
-The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. Forcomplete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
+The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -162,7 +162,7 @@ Subsec. (d)(2). Pub. L. 110–246, §7106(2), inserted "(including the Universit
 
 Subsec. (i). Pub. L. 110–246, §7108(1), substituted "Teaching, Extension, and Research Awards" for "Teaching Awards" in heading.
 
-Subsec. (i)(1). Pub. L. 110–246, §7108(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary shall establish a National Food and Agricultural Sciences Teaching Awards program to recognize and promote excellence in teaching food and agricultural sciences at a college or university. The Secretary shall make at least one cash award in each fiscal year to a nominee selected by the Secretary for excellence in teaching a food and agricultural science at a college or university."
+Subsec. (i)(1). Pub. L. 110–246, §7108(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary shall establish aNational Food and Agricultural Sciences Teaching Awards program to recognize and promote excellence in teaching food and agricultural sciences at a college or university. The Secretary shall make at least one cash award in each fiscal year to a nominee selected by the Secretary for excellence in teaching a food and agricultural science at a college or university."
 
 Subsec. (j). Pub. L. 110–246, §7109(a)(1), substituted "Secondary education, 2-year postsecondary education, and agriculture in the K–12 classroom" for "Secondary education and 2-year postsecondary education teaching programs" in heading.
 
@@ -228,7 +228,7 @@ Subsec. (j). Pub. L. 104–127, §805(d)(1), redesignated subsec. (i) as (j).
 
 Subsec. (a)(3). Pub. L. 99–198, §1412(a)(2), substituted "Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used." for "Such grants shall be made without regard to matching funds provided by recipients."
 
-Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisionsof this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
+Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year."
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 

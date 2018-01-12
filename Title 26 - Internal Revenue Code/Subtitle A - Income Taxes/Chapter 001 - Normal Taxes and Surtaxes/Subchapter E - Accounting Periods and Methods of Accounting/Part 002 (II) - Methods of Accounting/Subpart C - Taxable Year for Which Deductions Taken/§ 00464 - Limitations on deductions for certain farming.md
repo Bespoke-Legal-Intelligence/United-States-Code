@@ -70,7 +70,7 @@ Subsection (a) shall not apply to any amount paid for supplies which are on hand
 
 For purposes of this section, the term "farming" means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
 
-(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub.L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047.)
+(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (g). Pub. L. 113–295, §221(a)(58)(C)(i), struck out subsec. (g). Text
 
 <b>1986</b>—Pub. L. 99–514, §404(b)(1), substituted "for certain farming" for "in case of farming syndicates" in section catchline.
 
-Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted "Exception" for "Exceptions" as heading and amended text generally. Prior to amendment, text read as follows: "Subsection (a) shall not apply to—
+Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted "Exception" for "Exceptions" as heading and amended textgenerally. Prior to amendment, text read as follows: "Subsection (a) shall not apply to—
 
 &emsp;"(1) any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, flood, or other casualty or on account of disease or drought, or
 

@@ -34,7 +34,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (A) Prior experience
 
-&emsp;&emsp;In making grants under this division, the Secretary shall consider each applicant'sprior experience of high quality service delivery, as determined under subsection (f), under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
+&emsp;&emsp;In making grants under this division, the Secretary shall consider each applicant's prior experience of high quality service delivery, as determined under subsection (f), under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
 
 #### (B) Participant need
 
@@ -76,7 +76,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;(iii) steps the Secretary will take to ensure that prior experience points for high quality service delivery are awarded in an accurate and transparent manner;
 
-&emsp;&emsp;&emsp;(iv) steps the Secretary will take to ensure the quality and integrity of the peerreview process, including assurances that peer reviewers will consider applications for grants under this division in a thorough and complete manner consistent with applicable Federal law; and
+&emsp;&emsp;&emsp;(iv) steps the Secretary will take to ensure the quality and integrity of the peer review process, including assurances that peer reviewers will consider applications for grants under this division in a thorough and complete manner consistent with applicable Federal law; and
 
 &emsp;&emsp;&emsp;(v) steps the Secretary will take to ensure that the final score of an application, including prior experience points for high quality service delivery and points awarded through the peer review process, is determined in an accurate and transparent manner.
 
@@ -164,7 +164,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Technical assistance
 
-&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underserved by the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, the application process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to be conducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
+&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underserved by the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, the application process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to beconducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
 
 #### (4) Special rule
 
@@ -224,7 +224,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;(B) For programs authorized under section 1070a–13 of this title, the extent to which the eligible entity met or exceeded the entity's objectives for such program regarding—
 
-&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, asagreed upon by the entity and the Secretary for the period;
+&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, as agreed upon by the entity and the Secretary for the period;
 
 &emsp;&emsp;&emsp;(ii) such students' school performance, as measured by the grade point average, or its equivalent;
 
@@ -404,7 +404,7 @@ Subsec. (h)(6). Pub. L. 110–315, §403(a)(7)(D), substituted "subparagraph (A)
 
 Subsec. (b)(3). Pub. L. 105–244, §402(a)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995."
 
-Subsec. (c). Pub. L. 105–244, §402(a)(3), amended subsec. (c) generally, revising and restating former pars. (1) to (6), relating to procedures for awarding grants and contracts, as pars. (1) to (7).
+Subsec. (c). Pub. L. 105–244, §402(a)(3), amended subsec. (c) generally, revising and restating former pars.\(1) to (6), relating to procedures for awarding grants and contracts, as pars. (1) to (7).
 
 Subsec. (c)(2). Pub. L. 105–244, §102(b)(1), substituted "section 1011g" for "section 1145d–1".
 

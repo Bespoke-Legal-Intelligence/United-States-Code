@@ -122,11 +122,13 @@ Health Profession Defined.—In this section, the term "health profession" means
 
 (k)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2017.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2018.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(5), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(5), Dec. 23, 2016, 130 Stat. 2158.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237;Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(5), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(5), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(5), Dec. 12, 2017, 131 Stat. 1422.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (k). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2016</b>—Subsec. (k). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
@@ -152,7 +154,7 @@ Pub. L. 110–417, \[div. A\], title VI, §620(a), Oct. 14, 2008, 122 Stat. 4489
 
 "(1)
 
-Designation of critically short wartime health specialties.—For purposes of section 335 of title 37, United States Code, as added by section 661 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 169), the followinghealth professions are designated as a critically short wartime specialty under subsection (a)(2) of such section:
+Designation of critically short wartime health specialties.—For purposes of section 335 of title 37, United States Code, as added by section 661 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 169), the following health professions are designated as a critically short wartime specialty under subsection (a)(2) of such section:
 
 &emsp;"(A) Psychologists who have been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology and are fully licensed and such other mental health practitioners as the Secretary concerned determines to be necessary.
 

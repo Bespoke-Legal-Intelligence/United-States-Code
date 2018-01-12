@@ -16,7 +16,7 @@ Funds Available for Account.—The Defense Modernization Account shall consist o
 
 Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts, of the availability and source of funds described in subparagraph (B), the Secretary concerned may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
 
-(B) This subsection applies to the following funds that have been appropriated for fiscalyears after fiscal year 2016 and are available to the Secretary concerned:
+(B) This subsection applies to the following funds that have been appropriated for fiscal years after fiscal year 2016 and are available to the Secretary concerned:
 
 &emsp;(i) Unexpired funds in appropriations accounts that are available for new obligations and that, as a result of economies, efficiencies, and other savings achieved in carrying out an acquisition program, are excess to the requirements of that program.
 

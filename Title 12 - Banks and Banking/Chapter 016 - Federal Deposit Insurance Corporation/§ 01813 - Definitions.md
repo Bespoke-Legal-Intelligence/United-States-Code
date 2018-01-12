@@ -64,7 +64,7 @@ As used in this chapter—
 
 #### (3) Institutions included for certain purposes
 
-&emsp;&emsp;The term "insured depository institution" includes any uninsured branch or agency of a foreign bank or a commercial lending company owned or controlled by a foreign bank for purposes of section 1818 of this title.
+&emsp;&emsp;The term "insured depository institution" includes any uninsured branch or agency ofa foreign bank or a commercial lending company owned or controlled by a foreign bank for purposes of section 1818 of this title.
 
 #### (4) Federal depository institution
 
@@ -248,7 +248,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (2) Federal branch
 
-&emsp;&emsp;The term "Federal branch" has the meaning given to such term by section 1(b)(6) ofthe International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
+&emsp;&emsp;The term "Federal branch" has the meaning given to such term by section 1(b)(6) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
 
 #### (3) Insured branch
 
@@ -362,7 +362,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 &emsp;The term "Federal banking agency" means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI,§1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
 
 #### References in Text
 
@@ -600,7 +600,7 @@ Amendment by section 363(1) of Pub. L. 111–203 effective on the transfer date,
 
 Pub. L. 109–173, §4(b), Feb. 15, 2006, 119 Stat. 3606, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(1) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, set out as a Regulations note under section 1817 of this title\] take effect \[Jan. 1, 2007, see 71 F.R. 69323\]."
 
-Pub. L. 109–173, §8(b), Feb. 15, 2006, 119 Stat. 3616, provided that: "This section \[amending this section and sections 1815 to 1818, 1821 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831n, and 1831o of this title and repealing section 1831h of this title\] and the amendments made by this section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund \[Mar. 31, 2006, see 71 F.R. 20524\] pursuant to the Federal Deposit Insurance Reform Act of 2005 \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\]."
+Pub. L. 109–173, §8(b), Feb. 15, 2006, 119 Stat. 3616, provided that: "This section \[amending this section and sections 1815 to 1818, 1821 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831n, and 1831o of this title and repealing section 1831h of this title\] and the amendments made bythis section shall take effect on the day of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund \[Mar. 31, 2006, see 71 F.R. 20524\] pursuant to the Federal Deposit Insurance Reform Act of 2005 \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\]."
 
 Amendment by section 2102(b) of Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
@@ -638,7 +638,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–495, title I, §101(g), Oct. 28, 1974, 88 Stat. 1502, provided that: "This section and the amendmentsmade by it \[amending this section and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\]."
+Pub. L. 93–495, title I, §101(g), Oct. 28, 1974, 88 Stat. 1502, provided that: "This section and the amendments made by it \[amending this section and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\]."
 
 Pub. L. 93–495, title I, §102(b), (c), Oct. 28, 1974, 88 Stat. 1502, provided that:
 

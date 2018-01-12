@@ -42,7 +42,7 @@ Section 1. It is the policy of the United States that Federal records, books, an
 
 Sec. 2. The Congress of the United States urgently recommends that—
 
-&emsp;"(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
+&emsp;"(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using thespecifications for such paper established by the Joint Committee on Printing;
 
 &emsp;"(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality;
 
@@ -54,5 +54,5 @@ Sec. 2. The Congress of the United States urgently recommends that—
 
 "
 
-Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office shall jointly monitor the Federal Government's progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoringand reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers."
+Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office shall jointly monitor the Federal Government's progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers."
 

@@ -34,7 +34,7 @@ General Requirements.—(1) When a launch or reentry license is issued or transf
 
 (b)
 
-Reciprocal Waiver of Claims.—(1)(A) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable parties involved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.
+Reciprocal Waiver of Claims.—(1)(A) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable partiesinvolved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.
 
 (B) In this paragraph, the term "applicable parties" means—
 
@@ -130,7 +130,7 @@ Oct. 30, 1984, Pub. L. 98–575, §15(c), 98 Stat. 3061; restated Nov. 15, 1988,
 
 In subsection (a), the word "particular" is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word "sufficient" is omitted as surplus. In clauses (A) and (B), the words "in connection with any particular launch" are omitted as surplus.
+In subsection (a)(1), before clause (A), the word "sufficient" is omitted as surplus. In clauses (A) and (B),the words "in connection with any particular launch" are omitted as surplus.
 
 In subsection (a)(4), before clause (A), the words "made . . . a requirement described in" are omitted as surplus.
 

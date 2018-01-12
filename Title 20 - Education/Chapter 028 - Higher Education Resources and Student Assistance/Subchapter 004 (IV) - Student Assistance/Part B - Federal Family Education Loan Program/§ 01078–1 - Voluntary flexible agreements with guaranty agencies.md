@@ -14,7 +14,7 @@
 
 #### (2) Eligibility
 
-&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexibleagreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
+&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexible agreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
 
 #### (3) Report required
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;Each report described in subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
+&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goalsestablished by the Secretary for each agreement;
 
 &emsp;&emsp;&emsp;(ii) a list of—
 
@@ -118,7 +118,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (3) Waiver notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
 
 #### (4) Public availability
 

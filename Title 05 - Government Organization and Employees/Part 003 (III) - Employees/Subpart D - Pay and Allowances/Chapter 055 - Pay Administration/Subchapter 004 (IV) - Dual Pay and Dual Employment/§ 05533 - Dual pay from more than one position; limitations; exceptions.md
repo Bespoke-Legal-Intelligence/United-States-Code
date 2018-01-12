@@ -146,11 +146,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-<b>2010</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure "$33,003", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under section 4571 of Title 2, The Congress.
+<b>2017</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2017, to the figure "$35,144", see section 9 of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under section 4571 of Title 2, The Congress.
 
-<b>2009</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure "$32,515", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under section 4571 of Title 2.
+<b>2015</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2016, to the figure "$34,160", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under section 4571 of Title 2.
 
-<b>2008</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure "$31,906", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under section 4571 of Title 2.
+<b>2014</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure "$33,668", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, formerly set out as a note under section 4571 of Title 2.
+
+The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2014, to the figure "$33,334", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under section 4571 of Title 2.
+
+<b>2010</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure "$33,003", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under section 4571 of Title 2.
+
+<b>2009</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure "$32,515", see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under section 4571 of Title 2.
+
+<b>2008</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure "$31,906", see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, formerly set out as a note under section 4571 of Title 2.
 
 <b>2007</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure "$30,827", see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under section 4571 of Title 2.
 
@@ -172,7 +180,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <b>1998</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure "$23,698", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under section 4571 of Title 2.
 
-<b>1997</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure "$23,165", see section 9 of Salary Directive ofPresident pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 4571 of Title 2.
+<b>1997</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure "$23,165", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 4571 of Title 2.
 
 <b>1995</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure "$22,200", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under section 4571 of Title 2.
 

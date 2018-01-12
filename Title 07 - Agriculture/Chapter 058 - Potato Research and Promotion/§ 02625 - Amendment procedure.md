@@ -50,7 +50,7 @@ Refunds.—The board shall—
 
 &emsp;"(5) require such refund to be made on submission of proof satisfactory to the board that such producer or importer paid the assessment for which refund is demanded; and
 
-&emsp;"(6) if the amount in the escrow account required to be established by paragraph (1) is not sufficient to refund the total amount of assessments demanded by all eligible producers and importers under this subsection, prorate the amount of such refunds among all eligible producers and importers who demand such refund.
+&emsp;"(6) if the amount in the escrow account required to be established by paragraph (1) is not sufficient torefund the total amount of assessments demanded by all eligible producers and importers under this subsection, prorate the amount of such refunds among all eligible producers and importers who demand such refund.
 
 "(f)
 

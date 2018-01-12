@@ -4,7 +4,7 @@
 
 &emsp;(1) for the period he is in that status, entitled to receive or have credited to his account the same pay and allowances, as defined in this chapter, to which he was entitled at the beginning of that period or may thereafter become entitled; and
 
-&emsp;(2) for the period, not to exceed one year, required for his hospitalization and rehabilitation after termination of that status, under regulations prescribed by the Secretaries concerned, with respect to incentive pay, considered to have satisfied the requirements of section 301 of this title so as to entitle him to a continuance of that pay.
+&emsp;(2) for the period, not to exceed one year, required for his hospitalization and rehabilitation after termination of that status, under regulations prescribed by the Secretaries concerned, with respect to incentive pay, considered to have satisfied the requirements of section 301 or section 351(a)(2) of this title so as to entitle him to a continuance of that pay.
 
 > However, a member who is performing full-time training duty or other full-time duty without pay, or inactive-duty training with or without pay, is entitled to the pay and allowances to which he would have been entitled if he had been on active duty with pay. Notwithstanding section 1523 of title 10 or any other provision of law, the promotion of a member while he is in a missing status is fully effective for all purposes.
 
@@ -20,7 +20,7 @@
 
 (e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351; Pub. L. 115–91, div. A, title VI, §618(g), Dec. 12, 2017, 131 Stat. 1427.)
 
 Historical and Revision Notes
 
@@ -70,13 +70,15 @@ In subsection (a), the first 22 words are substituted for 50 App. U.S.C. 1002(a)
 
 In subsection (b), the first sentence is substituted for 50 App. U.S.C. 1002(a) (1st 21 words of 2d sentence). The words "or employment" are omitted as inapplicable to members of the uniformed services. The words "entitlement to pay and allowances under subsection (a) of this section" are substituted for "Such entitlement to pay and allowances" for clarity. The words "Notwithstanding the death of a member while in a missing status" are substituted for 50 App. U.S.C. 1002(a) (2d sentence, less 1st 21 words). The word "member" is substituted for "person" and the word "Secretary" is substituted for "department" to conform to the definitions in 37 U.S.C. 101(5) and (23).
 
-In subsection (c), the words "A member" are substituted for "such person". The words "under subsection (a) of this section" are inserted for clarity. The words "United States" are substituted for "Government" to conform to the style of title 37.
+In subsection (c), the words "A member" are substituted for "such person". The words "under subsection (a) of this section" are inserted for clarity. Thewords "United States" are substituted for "Government" to conform to the style of title 37.
 
 In subsection (d), the words "A member . . . he . . . in a missing status" are substituted for "Persons", "such persons", and the enumerated absent stata to conform to the definitions in 37 U.S.C. 101(23) and revised section 551(2) of this chapter.
 
 In subsection (e), the words "A member in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conform to the definition in revised section 551(2) of this chapter. The words "under subsection (a) of this section" are substituted for "as provided in section 2 of this Act".
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(2). Pub. L. 115–91 inserted "or section 351(a)(2)" after "section 301".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106, §569(c)(2)(A), substituted "for all purposes" for "for all purposes, even though the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made".
 

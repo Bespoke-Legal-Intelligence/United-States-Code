@@ -10,7 +10,7 @@ Complete Record Required.—A complete record of the proceedings and testimony s
 
 (c)
 
-Provision of Copy to Accused.—A copy of the record of the proceedings of the military commission under this chapter shall be giventhe accused as soon as it is authenticated. If the record contains classified information, or a classified annex, the accused shall receive a redacted version of the record consistent with the requirements of subchapter V of this chapter. Defense counsel shall have access to the unredacted record, as provided in regulations prescribed by the Secretary of Defense.
+Provision of Copy to Accused.—A copy of the record of the proceedings of the military commission under this chapter shall be given the accused as soon as it is authenticated. If the record contains classified information, or a classified annex, the accused shall receive a redacted version of the record consistent with the requirements of subchapter V of this chapter. Defense counsel shall have access to the unredacted record, as provided in regulations prescribed by the Secretary of Defense.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2590.)
 

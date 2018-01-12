@@ -32,7 +32,7 @@ If—
 
 #### (B) Deposit-commission basis
 
-&emsp;&emsp;A transaction is on a deposit-commission basis if the buyer performing the services is entitled to retain part or all of a purchase deposit paid by the consumer in connection with the transaction as part or all of the buyer's remuneration for the services.
+&emsp;&emsp;A transaction is on a deposit-commission basis if the buyer performing the services isentitled to retain part or all of a purchase deposit paid by the consumer in connection with the transaction as part or all of the buyer's remuneration for the services.
 
 #### (c) Certain services not included
 

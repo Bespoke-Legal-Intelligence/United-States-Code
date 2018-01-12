@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subtitle, the term "adjusted gross income" means, in the case of an individual, gross income minus the following deductions:
+For purposes of this subtitle, the term "adjusted gross income" means, in the case of anindividual, gross income minus the following deductions:
 
 #### (1) Trade and business deductions
 
@@ -60,7 +60,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 &emsp;The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
 
-#### (10) Alimony
+#### (10) <sup>1</sup> Alimony
 
 &emsp;The deduction allowed by section 215.
 
@@ -70,7 +70,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (12) Certain required repayments of supplemental unemployment compensation benefits
 
-&emsp;The deduction allowed by section 165 for the repayment to a trust described in paragraph (9) or (17) of section 501(c) of supplemental unemployment compensation benefits received from such trust if such repayment is required because of the receipt of trade readjustment allowances under section 231 or 232 of the Trade Act of 1974 (19 U.S.C. 2291 and 2292).
+&emsp;The deduction allowed by section 165 for the repayment to a trust described in paragraph (9) or (17) of section 501(c) of supplemental unemployment compensation benefits received from such trust if such repayment is required because of the receipt of trade readjustmentallowances under section 231 or 232 of the Trade Act of 1974 (19 U.S.C. 2291 and 2292).
 
 #### (13) Jury duty pay remitted to employer
 
@@ -100,13 +100,13 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (20) Costs involving discrimination suits, etc.
 
-&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code <sup>1</sup> or a claim made under section 1862(b)(3)(A) of the Social Security Act (42 U.S.C. 1395y(b)(3)(A)). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
+&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code <sup>2</sup> or a claim made under section 1862(b)(3)(A) of the Social Security Act (42 U.S.C. 1395y(b)(3)(A)). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
 
 #### (21) Attorneys fees relating to awards to whistleblowers
 
 &emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
 
-> Nothing in this section shall permit the same item to be deducted more than once.
+> Nothing in this section shall permit the same item to be deducted more than once. The deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection.
 
 #### (b) Qualified performing artist
 
@@ -150,11 +150,11 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 For purposes of subsection (a)(2)(A), an arrangement shall in no event be treated as a reimbursement or other expense allowance arrangement if—
 
-&emsp;(1) such arrangement does not require the employee to substantiate the expenses coveredby the arrangement to the person providing the reimbursement, or
+&emsp;(1) such arrangement does not require the employee to substantiate the expenses covered by the arrangement to the person providing the reimbursement, or
 
 &emsp;(2) such arrangement provides the employee the right to retain any amount in excess of the substantiated expenses covered under the arrangement.
 
-> The substantiation requirements of the preceding sentence shall not apply to any expense to the extent that substantiation is not required under section 274(d) for such expense by reason of the regulations prescribed under the 2nd sentence thereof.
+> The substantiation requirements of the preceding sentence shall not apply to any expense to the extent that substantiation is not required under section 274(d) for such expense by reasonof the regulations prescribed under the 2nd sentence thereof.
 
 #### (d) Definition; special rules
 
@@ -178,7 +178,7 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2014" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2014" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
@@ -186,7 +186,7 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 For purposes of subsection (a)(20), the term "unlawful discrimination" means an act that is unlawful under any of the following:
 
-&emsp;(1) Section 302 of the Civil Rights Act of 1991 (2 U.S.C. 1202).<sup>2</sup>
+&emsp;(1) Section 302 of the Civil Rights Act of 1991 (2 U.S.C. 1202).<sup>3</sup>
 
 &emsp;(2) Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 (2 U.S.C. 1311, 1312, 1313, 1314, 1315, 1316, or 1317).
 
@@ -226,7 +226,11 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 &emsp;&emsp;(ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V,§521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV,§431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045; Pub. L. 115–97, title I, §§11002(d)(1)(J), 11011(b)(1), 11051(b)(2)(A), Dec. 22, 2017, 131 Stat. 2060, 2070, 2089.)
+
+#### Repeal of Subsection (a)(10)
+
+<i>Pub. L. 115–97, title I, §11051(b)(2)(A), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, subsection (a) of this section is amended by striking paragraph (10). See 2017 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -247,6 +251,12 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–97, §11011(b)(1), inserted at end of concluding provisions "The deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection."
+
+Subsec. (a)(10). Pub. L. 115–97, §11051(b)(2)(A), struck out par. (10). Text read as follows: "The deduction allowed by section 215."
+
+Subsec. (d)(3)(B). Pub. L. 115–97, §11002(d)(1)(J), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2015</b>—Subsec. (a)(2)(D). Pub. L. 114–113, §104(c), substituted "educator—" for "educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom." and added cls. (i) and (ii).
 
@@ -316,7 +326,7 @@ Subsec. (c). Pub. L. 100–485 added subsec. (c).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §132(b)(2)(A), designated existing provisions as subsec. (a) and added heading.
 
-Subsec. (a)(2). Pub. L. 99–514, §132(b)(1), amended par. (2) generally, substituting "Certain trade" for "Trade" in heading and inserting "of employees" in subpar. (A) heading, substituting provision relating to deduction ofcertain expenses of performing artists for provision relating to deduction of expenses for travel away from home in subpar. (B), and striking out subpar. (C) relating to deduction of travel expenses and subpar. (D) relating to deduction of expenses of outside salesmen.
+Subsec. (a)(2). Pub. L. 99–514, §132(b)(1), amended par. (2) generally, substituting "Certain trade" for "Trade" in heading and inserting "of employees" in subpar. (A) heading, substituting provision relating to deduction of certain expenses of performing artists for provision relating to deduction of expenses for travel away from home in subpar. (B), and striking out subpar. (C) relating to deduction of travel expenses and subpar. (D) relating to deduction of expenses of outside salesmen.
 
 Subsec. (a)(3) to (5). Pub. L. 99–514, §301(b)(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to long-term capital gains and read as follows: "The deduction allowed by section 1202."
 
@@ -370,6 +380,14 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 <b>1962</b>—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(J) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §11011(e), Dec. 22, 2017, 131 Stat. 2071, provided that: "The amendments made by this section \[enacting section 199A of this title and amending this section and sections 63, 170, 172, 246, 613, 613A, 3402, and 6662 of this title\] shall apply to taxable years beginning after December 31, 2017."
+
+Amendment by section 11051(b)(2)(A) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §104(d), Dec. 18, 2015, 129 Stat. 3046, provided that:
@@ -402,7 +420,7 @@ Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, pro
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
+Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 Pub. L. 109–432, div. A, title IV, §406(d), Dec. 20, 2006, 120 Stat. 2960, provided that: "The amendments made by subsection (a) \[amending this section and sections 7443A and 7623 of this title\] shall apply to information provided on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
@@ -496,7 +514,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 94–455, title V, §502(c), Oct. 4, 1976, 90 Stat. 1559, provided that: "The amendments made by this section \[amending this section and section 3402 of this title\] shall apply to taxable years beginning after December 31, 1976."
 
-Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by thissection \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
+Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
 
 Amendment by section 1901(a)(8), (9) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -540,9 +558,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–167, §2, Dec. 29, 1979, 93 Stat. 1275, provided that with respect to transportation costs paid or incurred after December 31, 1976, and on or before May 31, 1981, the application of sections 62, 162, and 262 and of chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling, or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling.
 
-Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
+Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, theapplication of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See Repeal of Subsection (a)(10) note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

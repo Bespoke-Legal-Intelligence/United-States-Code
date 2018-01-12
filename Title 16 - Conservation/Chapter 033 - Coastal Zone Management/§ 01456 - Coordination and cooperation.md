@@ -78,7 +78,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act 
 
 The Federal Water Pollution Control Act, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which isclassified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Codification
 
@@ -106,7 +106,7 @@ Subsec. (i). Pub. L. 101–508, §6208(c), added subsec. (i).
 
 <b>1978</b>—Subsec. (c)(3)(B)(ii). Pub. L. 95–372 inserted ", except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed" after "as provided for in subparagraph (A)".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–370, §6(2), struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
+<b>1976</b>—Subsec. (b). Pub. L. 94–370, §6(2), struck out provisions requiring that in case of serious disagreementbetween Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
 
 Subsec. (c)(3). Pub. L. 94–370, §6(3), designated existing provisions as subpar. (A) and added subpar. (B).
 

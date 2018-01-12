@@ -40,7 +40,7 @@
 
 &emsp;(C) "agency" means an Executive agency and the Government Publishing Office, but does not include—
 
-&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnelpractice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
+&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
 
 &emsp;&emsp;(ii)(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
 
@@ -108,11 +108,11 @@
 
 &emsp;&emsp;&emsp;(ii) other than with regard to remedying a violation of paragraph (8);
 
-&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of anyright referred to in subparagraph (A)(i) or (ii);
+&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A)(i) or (ii);
 
-&emsp;&emsp;(C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
+&emsp;&emsp;(C) cooperating with or disclosing information to the Inspector General (or any other component responsible for internal investigation or review) of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
 
-&emsp;&emsp;(D) for <sup>1</sup> refusing to obey an order that would require the individual to violate a law;
+&emsp;&emsp;(D) refusing to obey an order that would require the individual to violate a law, rule, or regulation;
 
 &emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
@@ -120,13 +120,51 @@
 
 &emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans' preference requirement;
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title; or
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title;
 
-&emsp;(13) implement or enforce any nondisclosure policy, form, or agreement, if such policy, form, or agreement does not contain the following statement: "These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.".
+&emsp;(13) implement or enforce any nondisclosure policy, form, or agreement, if such policy, form, or agreement does not contain the following statement: "These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling."; or
+
+&emsp;(14) access the medical record of another employee or an applicant for employment as a part of, or otherwise in furtherance of, any conduct described in paragraphs (1) through (13).
 
 > This subsection shall not be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who discloses information to Congress. For purposes of paragraph (8), (i) any presumption relating to the performance of a duty by an employee whose conduct is the subject of a disclosure as defined under subsection (a)(2)(D) may be rebutted by substantial evidence, and (ii) a determination as to whether an employee or applicant reasonably believes that such employee or applicant has disclosed information that evidences any violation of law, rule, regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety shall be made by determining whether a disinterested observer with knowledge of the essential facts known to and readily ascertainable by the employee or applicant could reasonably conclude that the actions of the Government evidence such violations, mismanagement, waste, abuse, or danger.
 
-(c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
+(c)(1) In this subsection—
+
+&emsp;(A) the term "new employee" means an individual—
+
+&emsp;&emsp;(i) appointed to a position as an employee on or after the date of enactment of this subsection; and
+
+&emsp;&emsp;(ii) who has not previously served as an employee; and
+
+&emsp;(B) the term "whistleblower protections" means the protections against and remedies for a prohibited personnel practice described in paragraph (8) or subparagraph (A)(i), (B), (C), or (D) of paragraph (9) of subsection (b).
+
+(2) The head of each agency shall be responsible for—
+
+&emsp;(A) preventing prohibited personnel practices;
+
+&emsp;(B) complying with and enforcing applicable civil service laws, rules, and regulations and other aspects of personnel management; and
+
+&emsp;(C) ensuring, in consultation with the Special Counsel and the Inspector General of the agency, that employees of the agency are informed of the rights and remedies available to the employees under this chapter and chapter 12, including—
+
+&emsp;&emsp;(i) information with respect to whistleblower protections available to new employees during a probationary period;
+
+&emsp;&emsp;(ii) the role of the Office of Special Counsel and the Merit Systems Protection Board with respect to whistleblower protections; and
+
+&emsp;&emsp;(iii) the means by which, with respect to information that is otherwise required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, an employee may make a lawful disclosure of the information to—
+
+&emsp;&emsp;&emsp;(I) the Special Counsel;
+
+&emsp;&emsp;&emsp;(II) the Inspector General of an agency;
+
+&emsp;&emsp;&emsp;(III) Congress; or
+
+&emsp;&emsp;&emsp;(IV) another employee of the agency who is designated to receive such a disclosure.
+
+(3) The head of each agency shall ensure that the information described in paragraph (2) is provided to each new employee of the agency not later than 180 days after the date on which the new employee is appointed.
+
+(4) The head of each agency shall make available information regarding whistleblower protections applicable to employees of the agency on the public website of the agency and on any online portal that is made available only to employees of the agency, if such portal exists.
+
+(5) Any employee to whom the head of an agency delegates authority for any aspect of personnel management shall, within the limits of the scope of the delegation, be responsible for the activities described in paragraph (2).
 
 (d) This section shall not be construed to extinguish or lessen any effort to achieve equal employment opportunity through affirmative action or any right or remedy available to any employee or applicant for employment in the civil service under—
 
@@ -150,7 +188,7 @@
 
 &emsp;(D) Section 301(c) of the Foreign Service Act of 1980.
 
-&emsp;(E) Sections 106(f),<sup>2</sup> 7281(e), and 7802(5) <sup>2</sup> of title 38.
+&emsp;(E) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) <sup>1</sup> of title 38.
 
 &emsp;(F) Section 1005(a) of title 39.
 
@@ -170,13 +208,15 @@
 
 &emsp;(D) the disclosure was not made in writing;
 
-&emsp;(E) the disclosure was made while the employee was off duty; or
+&emsp;(E) the disclosure was made while the employee was off duty;
 
-&emsp;(F) of the amount of time which has passed since the occurrence of the events described in the disclosure.
+&emsp;(F) the disclosure was made before the date on which the individual was appointed or applied for appointment to a position; or
 
-(2) If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+&emsp;(G) of the amount of time which has passed since the occurrence of the events described in the disclosure.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700.)
+(2) If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigateand disclose wrongdoing (referred to in this paragraph as the "disclosing employee"), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
+
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, §2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, §1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618.)
 
 #### References in Text
 
@@ -189,6 +229,20 @@ Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subseq
 Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, §304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(9)(C). Pub. L. 115–91, §1097(c)(1)(A), inserted "(or any other component responsible for internal investigation or review)" after "Inspector General".
+
+Subsec. (b)(9)(D). Pub. L. 115–40 struck out "for" after "(D)" and inserted ", rule, or regulation" after "a law".
+
+Subsec. (b)(14). Pub. L. 115–73, §103, added par. (14).
+
+Subsecs. (c) to (f). Pub. L. 115–91, §1097(b)(1)(B), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+Pub. L. 115–73, §107(a)(1), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: "The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation."
+
+Subsec. (f)(1)(F), (G). Pub. L. 115–91, §1097(c)(1)(B)(i), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (f)(2). Pub. L. 115–91, §1097(c)(1)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: "If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure."
 
 <b>2015</b>—Subsec. (a)(2)(A)(viii). Pub. L. 114–113 inserted "or under title 38" after "chapter 43 of this title".
 
@@ -314,7 +368,7 @@ Pub. L. 112–199, title I, §104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided
 
 #### Disclosure of Censorship Related to Research, Analysis, or Technical Information
 
-Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, provided that:
+Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, §107(a)(2)(C), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
 
 "(a)
 
@@ -394,7 +448,7 @@ In general.—Any nondisclosure policy, form, or agreement described under parag
 
 &emsp;&emsp;"(B)
 
-Nondisclosure policy, form, or agreement in effect before the effective date.—With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
+Nondisclosure policy, form, or agreement in effect before the effective date.—With respect to a nondisclosure policy, form, or agreementthat was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
 
 &emsp;&emsp;&emsp;"(i) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement with regard to a current employee if the agency gives such employee notice of the statement; and
 
@@ -488,7 +542,5 @@ Sec. 6. <i>Publication</i>. The Director of OPM is hereby authorized and directe
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. The word "for" probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

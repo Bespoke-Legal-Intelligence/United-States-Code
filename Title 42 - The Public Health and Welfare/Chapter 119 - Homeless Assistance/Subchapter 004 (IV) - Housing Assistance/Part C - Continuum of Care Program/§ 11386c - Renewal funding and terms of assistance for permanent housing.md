@@ -24,7 +24,7 @@ Nothing in this section shall be construed as prohibiting the Secretary from ren
 
 #### References in Text
 
-The effective date of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (b), probably means the general effective date under section 1503 of Pub. L. 111–22, which is set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+The effective date of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (b), probably means the general effective date under section 1503 of Pub. L. 111–22, whichis set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Prior Provisions
 
@@ -32,5 +32,5 @@ A prior section 429 of Pub. L. 100–77 was classified to section 11389 of this 
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certainfinal regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 

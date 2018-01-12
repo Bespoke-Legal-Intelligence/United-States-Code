@@ -14,7 +14,7 @@
 
 &emsp;(C) the assessment, evaluation, demonstration, and improvement of the performance of existing municipal waste-to-energy recovery technologies with respect to capital costs, operating and maintenance costs, total project financing, recovery efficiency, and the quality of recovered energy and energy intensive materials;
 
-&emsp;(D) the evaluation of municipal waste energy projects for the purpose of developing abase of engineering data that can be used in the design of future municipal waste energy projects to recover energy from municipal wastes; and
+&emsp;(D) the evaluation of municipal waste energy projects for the purpose of developing a base of engineering data that can be used in the design of future municipal waste energy projects to recover energy from municipal wastes; and
 
 &emsp;(E) research studies on the size and other significant characteristics of potential markets for municipal waste-to-energy recovery technologies, and recovered energy, and energy intensive materials.
 
@@ -24,7 +24,7 @@ Under such program, the Secretary of Energy may provide financial assistance con
 
 #### (c) Priority for funding
 
-Priority for funding of activities under subsection (a) of this section and financial assistance under subsection (b) of this section shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
+Priority for funding of activities under subsection (a) and financial assistance under subsection (b) shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
 
 #### (d) Obligation and expenditure of funds
 

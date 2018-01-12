@@ -1,0 +1,6 @@
+### §14194. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–322, title XXVII, §270004, Sept. 13, 1994, 108 Stat. 2092, which related to responsibilities of the Commission, was omitted as obsolete.
+

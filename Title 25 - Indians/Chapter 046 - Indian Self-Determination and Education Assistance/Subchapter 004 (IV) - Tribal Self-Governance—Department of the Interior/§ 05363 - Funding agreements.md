@@ -116,7 +116,7 @@ At the option of a participating tribe or tribes, any or all provisions of subch
 
 Act of April 16, 1934 (25 U.S.C. 452 et seq.), referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), isPub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This chapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

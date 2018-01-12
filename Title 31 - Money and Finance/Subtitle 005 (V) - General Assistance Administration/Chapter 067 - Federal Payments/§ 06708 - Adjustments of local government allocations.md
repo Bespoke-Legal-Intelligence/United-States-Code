@@ -10,7 +10,7 @@ De Minimis Allocations to Units of General Local Government.—If the amount all
 
 (c)
 
-Use of Payments to States.—The Governor of a State shall use all amounts paid tothe Governor under subsections (a) and (b) for programs described in section 6701(a)(2) in areas of the State where are located the units of general local government with respect to which amounts are paid under subsection (b).
+Use of Payments to States.—The Governor of a State shall use all amounts paid to the Governor under subsections (a) and (b) for programs described in section 6701(a)(2) in areas of the State where are located the units of general local government with respect to which amounts are paid under subsection (b).
 
 (d)
 

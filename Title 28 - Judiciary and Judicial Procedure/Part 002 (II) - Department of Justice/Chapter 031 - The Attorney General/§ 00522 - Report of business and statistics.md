@@ -44,55 +44,7 @@ The date of enactment of 21st Century Department of Justice Appropriations Autho
 
 #### Report to Congress on Banking Law Offenses
 
-Pub. L. 101–647, title XXV, §2546, Nov. 29, 1990, 104 Stat. 4885, provided that:
-
-"(a)
-
-In General.—
-
-&emsp;"(1)
-
-Data collection.—The Attorney General shall compile and collect data concerning—
-
-&emsp;&emsp;"(A) the nature and number of civil and criminal investigations, prosecutions, and related proceedings, and civil enforcement and recovery proceedings, in progress with respect to banking law offenses under sections 981, 1008, 1032, and 3322(d) of title 18, United States Code, and section 951 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[12 U.S.C. 1833a\] and conspiracies to commit any such offense, including inactive investigations of such offenses;
-
-&emsp;&emsp;"(B) the number of—
-
-&emsp;&emsp;&emsp;"(i) investigations, prosecutions, and related proceedings described in subparagraph (A) which are inactive as of the close of the reporting period but have not been closed or declined; and
-
-&emsp;&emsp;&emsp;"(ii) unaddressed referrals which allege criminal misconduct involving offenses described in subparagraph (A),
-
-&nbsp;&nbsp;and the reasons such matters are inactive and the referrals unaddressed;
-
-&emsp;&emsp;"(C) the nature and number of such matters closed, settled, or litigated to conclusion; and
-
-&emsp;&emsp;"(D) the results achieved, including convictions and pretrial diversions, fines and penalties levied, restitution assessed and collected, and damages recovered, in such matters.
-
-&emsp;"(2)
-
-Analysis and report.—The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 2539(c)(2) \[probably means section 2539(c)(3) of Pub. L. 101–647, set out as a note under section 509 of this title\] and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
-
-"(b)
-
-Specifics of Report.—The report required by subsection (a) shall—
-
-&emsp;"(1) categorize data as to various types of financial institutions and appropriate dollar loss categories;
-
-&emsp;"(2) disclose data for each Federal judicial district;
-
-&emsp;"(3) describe the activities of the Financial Institution Fraud Unit; and
-
-&emsp;"(4) list—
-
-&emsp;&emsp;"(A) the number of institutions, categorized by failed and open institutions, in which evidence of significant fraud, unlawful activity, insider abuse or serious misconduct has been alleged or detected;
-
-&emsp;&emsp;"(B) civil, criminal, and administrative enforcement actions, including those of the Federal financial institutions regulatory agencies, brought against offenders;
-
-&emsp;&emsp;"(C) any settlements or judgments obtained against offenders;
-
-&emsp;&emsp;"(D) indictments, guilty pleas, or verdicts obtained against offenders; and
-
-&emsp;&emsp;"(E) the resources allocated in pursuit of investigations, prosecutions, and sentencings (including indictments, guilty pleas, or verdicts obtained against offenders) and related proceedings."
+Pub. L. 101–647, title XXV, §2546, Nov. 29, 1990, 104 Stat. 4885, which requires the Attorney General to report to Congress quarterly, after Dec. 31, 1991, on the nature and number of proceedings in progress with respect to banking law offenses, was editorially reclassified as section 41306 of Title 34, Crime Control and Law Enforcement.
 
 #### Congressional Oversight
 
@@ -100,11 +52,11 @@ Pub. L. 100–700, §6, Nov. 19, 1988, 102 Stat. 4634, which required the Attorn
 
 #### Report to Congress on Robberies and Burglaries Involving Controlled Substances
 
-Pub. L. 98–305, §4, May 31, 1984, 98 Stat. 222, provided that: "For each of the first three years after the dateof enactment of this Act \[May 31, 1984\], the Attorney General of the United States shall submit an annual report to the Congress with respect to the enforcement activities of the Attorney General relating to the offenses created by the amendment made by section 2 of this Act \[enacting section 2118 of Title 18, Crimes and Criminal Procedure\]."
+Pub. L. 98–305, §4, May 31, 1984, 98 Stat. 222, provided that: "For each of the first three years after the date of enactment of this Act \[May 31, 1984\], the Attorney General of the United States shall submit an annual report to the Congress with respect to the enforcement activities of the Attorney General relating to the offenses created by the amendment made by section 2 of this Act \[enacting section 2118 of Title 18, Crimes and Criminal Procedure\]."
 
 #### Report to Congress on Sexual Exploitation of Children
 
-Pub. L. 98–292, §9, May 21, 1984, 98 Stat. 206, provided that: "Beginning one hundred and twenty days after the date of enactment of this Act \[May 21, 1984\], and every year thereafter, the Attorney General shall report to the Congress on prosecutions, convictions, and forfeitures under chapter 110 of title 18 of the United States Code."
+Pub. L. 98–292, §9, May 21, 1984, 98 Stat. 206, which requires the Attorney General to report to Congress annually on prosecutions, convictions, and forfeitures under chapter 110 of Title 18, Crimes and Criminal Procedure, relating to sexual exploitation and other abuse of children, was editorially reclassified as section 41301 of Title 34, Crime Control and Law Enforcement.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 

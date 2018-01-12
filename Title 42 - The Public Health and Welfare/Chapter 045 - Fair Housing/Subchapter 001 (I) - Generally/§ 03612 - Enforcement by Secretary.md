@@ -2,11 +2,11 @@
 
 #### (a) Election of judicial determination
 
-When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action undersubsection (o) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
+When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) in lieu of a hearing under subsection (b). The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
 
 #### (b) Administrative law judge hearing in absence of election
 
-If an election is not made under subsection (a) of this section with respect to a charge filed under section 3610 of this title, the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under section 3610 of this title. The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under section 3105 of title 5. The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
+If an election is not made under subsection (a) with respect to a charge filed under section 3610 of this title, the Secretary shall provide an opportunity for a hearing on the record with respect to a charge issued under section 3610 of this title. The Secretary shall delegate the conduct of a hearing under this section to an administrative law judge appointed under section 3105 of title 5. The administrative law judge shall conduct the hearing at a place in the vicinity in which the discriminatory housing practice is alleged to have occurred or to be about to occur.
 
 #### (c) Rights of parties
 
@@ -14,7 +14,7 @@ At a hearing under this section, each party may appear in person, be represented
 
 #### (d) Expedited discovery and hearing
 
-(1) Discovery in administrative proceedings under this section shall be conducted as expeditiously and inexpensively as possible, consistent with the need of all parties to obtain relevant evidence.
+(1) Discovery in administrative proceedings under this section shall be conducted as expeditiously and inexpensively as possible, consistentwith the need of all parties to obtain relevant evidence.
 
 (2) A hearing under this section shall be conducted as expeditiously and inexpensively as possible, consistent with the needs and rights of the parties to obtain a fair hearing and a complete record.
 
@@ -58,7 +58,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (h) Review by Secretary; service of final order
 
-(1) The Secretary may review any finding, conclusion, or order issued under subsection (g) of this section. Such review shall be completed not later than 30 days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.
+(1) The Secretary may review any finding, conclusion, or order issued under subsection (g). Such review shall be completed not later than 30 days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.
 
 (2) The Secretary shall cause the findings of fact and conclusions of law made with respect to any final order for relief under this section, together with a copy of such order, to be served on each aggrieved person and each respondent in the proceeding.
 
@@ -66,7 +66,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (1) Any party aggrieved by a final order for relief under this section granting or denying in whole or in part the relief sought may obtain a review of such order under chapter 158 of title 28.
 
-(2) Notwithstanding such chapter, venue of the proceeding shall be in the judicial circuit in which the discriminatory housing practice is alleged to have occurred, and filing of the petition for review shall be not later than 30 days after the order is entered.
+(2) Notwithstanding such chapter, venue of the proceeding shall be in the judicial circuit in which the discriminatory housing practice is alleged to have occurred, and filing of the petitionfor review shall be not later than 30 days after the order is entered.
 
 #### (j) Court enforcement of administrative order upon petition by Secretary
 
@@ -76,7 +76,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (k) Relief which may be granted
 
-(1) Upon the filing of a petition under subsection (i) or (j) of this section, the court may—
+(1) Upon the filing of a petition under subsection (i) or (j), the court may—
 
 &emsp;(A) grant to the petitioner, or any other party, such temporary relief, restraining order, or other order as the court deems just and proper;
 
@@ -90,23 +90,23 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (l) Enforcement decree in absence of petition for review
 
-If no petition for review is filed under subsection (i) of this section before the expiration of 45 days after the date the administrative law judge's order is entered, the administrative law judge's findings of fact and order shall be conclusive in connection with any petition for enforcement—
+If no petition for review is filed under subsection (i) before the expiration of 45 days after the date the administrative law judge's order is entered, the administrative law judge's findings of fact and order shall be conclusive in connection with any petition for enforcement—
 
-&emsp;(1) which is filed by the Secretary under subsection (j) of this section after the end of such day; or
+&emsp;(1) which is filed by the Secretary under subsection (j) after the end of such day; or
 
-&emsp;(2) under subsection (m) of this section.
+&emsp;(2) under subsection (m).
 
 #### (m) Court enforcement of administrative order upon petition of any person entitled to relief
 
-If before the expiration of 60 days after the date the administrative law judge's order is entered, no petition for review has been filed under subsection (i) of this section, and the Secretary has not sought enforcement of the order under subsection (j) of this section, any person entitled to relief under the order may petition for a decree enforcing the order in the United States court of appeals for the circuit in which the discriminatory housing practice is alleged to have occurred.
+If before the expiration of 60 days after the date the administrative law judge's order is entered, no petition for review has been filed under subsection (i), and the Secretary has not sought enforcement of the order under subsection (j), any person entitled to relief under the order may petition for a decree enforcing the order in the United States court of appeals for the circuit in which the discriminatory housing practice is alleged to have occurred.
 
 #### (n) Entry of decree
 
-The clerk of the court of appeals in which a petition for enforcement is filed under subsection (l) or (m) of this section shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
+The clerk of the court of appeals in which a petition for enforcement is filed under subsection (l) or (m) shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
 
 #### (o) Civil action for enforcement when election is made for such civil action
 
-(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
+(1) If an election is made under subsection (a), the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 
 (2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 

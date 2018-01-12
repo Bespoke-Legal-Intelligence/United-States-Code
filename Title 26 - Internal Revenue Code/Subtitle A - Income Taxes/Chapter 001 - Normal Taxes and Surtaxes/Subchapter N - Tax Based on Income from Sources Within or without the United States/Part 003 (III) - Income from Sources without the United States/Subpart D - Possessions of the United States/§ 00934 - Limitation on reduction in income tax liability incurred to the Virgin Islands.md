@@ -60,7 +60,7 @@ Pub. L. 99–514, §1876(f)(2), struck out subsec. (f) which provided that subse
 
 Subsec. (e). Pub. L. 97–248, §213(b)(2), added subsec. (e).
 
-Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which provided that in applying subsec. (b)(2) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, "55 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1983 and "60 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1984.
+Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which provided that in applying subsec. (b)(2) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, "55 percent" shall be substituted for "65 percent" for taxableyears beginning in calendar year 1983 and "60 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1984.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455, §1901(a)(118), struck out "For the purposes of this subsection, all amounts received by such corporation within the United States, whether derived from sources within or without the United States, shall be considered as being derived from sources within the United States".
 

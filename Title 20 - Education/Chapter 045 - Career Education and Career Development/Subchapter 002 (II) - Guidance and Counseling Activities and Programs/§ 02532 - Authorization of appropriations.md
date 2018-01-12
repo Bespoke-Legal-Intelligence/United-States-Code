@@ -14,7 +14,7 @@ There are authorized to be appropriated $20,000,000 for each of the fiscal years
 
 (B) From the amounts appropriated to carry out this subsection, the Secretary of Education shall allot to each State from such amounts an amount which bears the same ratio to such amounts as the number of children aged five to seventeen, inclusive, in the State bears to the number of such children in all the States. For the purposes of this subparagraph, the term "State" shall not include Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands. The number of children aged five to seventeen, inclusive, in a State and in all the States shall be determined by the Secretary of Education on the basis of the most recent satisfactory data available to him.
 
-(C) The amount of any State's allotment under subparagraph (A) or subparagraph (B) to carry out this subsection which the Secretary of Education determines will not be required tocarry out this subsection shall be available for reallotment from time to time, on such dates as the Secretary of Education may fix, to other States in proportion to the original allotments to such States under subparagraph (A) or subparagraph (B) but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary of Education estimates such State needs and will be able to use. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amounts reallotted to a State under this subparagraph from funds appropriated under this subsection shall be deemed a part of its allotment under subparagraph (A) or subparagraph (B).
+(C) The amount of any State's allotment under subparagraph (A) or subparagraph (B) to carry out this subsection which the Secretary of Education determines will not be required to carry out this subsection shall be available for reallotment from time to time, on such dates as the Secretary of Education may fix, to other States in proportion to the original allotments to such States under subparagraph (A) or subparagraph (B) but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary of Education estimates such State needs and will be able to use. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amounts reallotted to a State under this subparagraph from funds appropriated under this subsection shall be deemed a part of its allotment under subparagraph (A) or subparagraph (B).
 
 (Pub. L. 94–482, title III, §342, Oct. 12, 1976, 90 Stat. 2224; Pub. L. 95–561, title XIII, §1351, Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
@@ -29,6 +29,10 @@ Title IV of the Elementary and Secondary Education Act of 1965, referred to in s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as a note under section 1221e–3 of this title.
+
+#### Effective Date
+
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under section 1001 of this title.
 
 #### Transfer of Functions
 

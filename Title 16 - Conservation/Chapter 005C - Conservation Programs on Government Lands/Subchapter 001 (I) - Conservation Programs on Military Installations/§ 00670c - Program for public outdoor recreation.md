@@ -34,7 +34,7 @@ A volunteer under subsection (c) shall not be considered to be a Federal employe
 
 &emsp;(2) for the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, the volunteer shall be considered to be an employee, as defined in section 8101(1)(B) of title 5, and the provisions of such subchapter shall apply.
 
-(Pub. L. 86–797, title I, §103, formerly §3, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 90–465, §1, Aug. 8,1968, 82 Stat. 661; renumbered title I, §103, Pub. L. 93–452, §3(1), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§2904(b)(6), 2913(6), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 105–261, div. B, title XXVIII, §2813, Oct. 17, 1998, 112 Stat. 2206.)
+(Pub. L. 86–797, title I, §103, formerly §3, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 90–465, §1, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §103, Pub. L. 93–452, §3(1), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§2904(b)(6), 2913(6), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 105–261, div. B, title XXVIII, §2813, Oct. 17, 1998, 112 Stat. 2206.)
 
 #### Amendments
 

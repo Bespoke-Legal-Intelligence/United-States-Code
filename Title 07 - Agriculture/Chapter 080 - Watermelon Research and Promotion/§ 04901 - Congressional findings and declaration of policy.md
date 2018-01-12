@@ -10,7 +10,7 @@
 
 &emsp;(4) watermelons move in the channels of interstate commerce, and watermelons that do not move in such channels directly affect interstate commerce;
 
-&emsp;(5) the maintenance and expansion of existing markets and the establishment of new or improved markets and uses for watermelons are vital to the welfare of watermelon growers and those concerned with marketing, using, handling, and importing watermelons, as well as the general economic welfare of the Nation; and
+&emsp;(5) the maintenance and expansion of existing markets and the establishment of new or improved markets and uses for watermelonsare vital to the welfare of watermelon growers and those concerned with marketing, using, handling, and importing watermelons, as well as the general economic welfare of the Nation; and
 
 &emsp;(6) the development and implementation of coordinated programs of research, development, advertising, and promotion are necessary to maintain and expand existing markets and establish new or improved markets and uses for watermelons.
 

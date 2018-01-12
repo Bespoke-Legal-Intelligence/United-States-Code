@@ -4,3 +4,11 @@ The activities of the Foundation under this chapter may be audited by the Comptr
 
 (Pub. L. 102–281, title IV, §427, May 13, 1992, 106 Stat. 144.)
 
+#### Repeal of Section
+
+<i>Pub. L. 115–31, div. E, title VI, §631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under section 5701 of this title.
+

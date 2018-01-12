@@ -6,7 +6,7 @@ The Secretary may make a planning performance award in connection with a grant m
 
 #### (b) Eligibility
 
-The Secretary may make a planning performance award to an eligible recipient under subsection (a) of this section in connection with a grant for a project if the Secretary determines before closeout of the project that—
+The Secretary may make a planning performance award to an eligible recipient under subsection (a) in connection with a grant for a project if the Secretary determines before closeout of the project that—
 
 &emsp;(1) the recipient actively participated in the economic development activities of the economic development district in which the project is located;
 
@@ -18,15 +18,15 @@ The Secretary may make a planning performance award to an eligible recipient und
 
 #### (c) Maximum amount
 
-The amount of a planning performance award made under subsection (a) of this section in connection with a grant may not exceed 5 percent of the amount of the grant.
+The amount of a planning performance award made under subsection (a) in connection with a grant may not exceed 5 percent of the amount of the grant.
 
 #### (d) Use of awards
 
-A recipient of a planning performance award under subsection (a) of this section shall use the award to increase the Federal share of the cost of a project under this subchapter.
+A recipient of a planning performance award under subsection (a) shall use the award to increase the Federal share of the cost of a project under this subchapter.
 
 #### (e) Federal share
 
-Notwithstanding section 3144 of this title, the funds of a planning performance award may be used to pay up to 100 percent of the cost of a project under this subchapter.
+Notwithstanding section 3144 of this title, the funds of a planning performance award may beused to pay up to 100 percent of the cost of a project under this subchapter.
 
 #### (f) Funding
 

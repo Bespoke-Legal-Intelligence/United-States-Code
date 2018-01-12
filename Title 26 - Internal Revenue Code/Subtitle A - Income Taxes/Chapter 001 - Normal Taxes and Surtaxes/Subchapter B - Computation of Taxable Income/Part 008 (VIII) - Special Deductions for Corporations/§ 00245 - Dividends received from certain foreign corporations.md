@@ -20,13 +20,17 @@
 
 #### (4) Post-1986 undistributed earnings
 
-&emsp;For purposes of this subsection, the term "post-1986 undistributed earnings" has the meaning given to such term by section 902(c)(1).
+&emsp;The term "post-1986 undistributed earnings" means the amount of the earnings and profits of the foreign corporation (computed in accordance with sections 964(a) and 986) accumulated in taxable years beginning after December 31, 1986—
+
+&emsp;&emsp;(A) as of the close of the taxable year of the foreign corporation in which the dividend is distributed, and
+
+&emsp;&emsp;(B) without diminution by reason of dividends distributed during such taxable year.
 
 #### (5) Post-1986 undistributed U.S. earnings
 
 &emsp;For purposes of this subsection, the term "post-1986 undistributed U.S. earnings" means the portion of the post-1986 undistributed earnings which is attributable to—
 
-&emsp;&emsp;(A) income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a trade or business within the United States and subject to tax under this chapter, or
+&emsp;&emsp;(A) income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a tradeor business within the United States and subject to tax under this chapter, or
 
 &emsp;&emsp;(B) any dividend received (directly or through a wholly owned foreign corporation) from a domestic corporation at least 80 percent of the stock of which (by vote and value) is owned (directly or through such wholly owned foreign corporation) by the qualified 10-percent owned foreign corporation.
 
@@ -56,7 +60,7 @@
 
 &emsp;&emsp;(C) the taxpayer chooses the benefits of this paragraph,
 
-> &emsp;this subsection shall not apply to such dividend (but subsections (a), (b), and (c) of section 904 and sections 902, 907, and 960 shall be applied separately with respect to such portion of such dividend).
+> &emsp;this subsection shall not apply to such dividend (but subsections (a), (b), and (c) of section 904 and sections 907 and 960 shall be applied separately with respect to such portion of such dividend).
 
 #### (11) Coordination with section 1248
 
@@ -96,7 +100,7 @@
 
 &emsp;&emsp;(A) 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC, and
 
-&emsp;&emsp;(B) 70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
+&emsp;&emsp;(B) 50 percent (65 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
 
 #### (2) Exception for certain dividends
 
@@ -130,7 +134,7 @@
 
 &emsp;Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 114–113, div. Q, title III, §326(a), Dec. 18, 2015, 129 Stat. 3103.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 114–113, div. Q, title III, §326(a), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, §§13002(b), 14301(c)(2), (3), Dec. 22, 2017, 131 Stat. 2100, 2222.)
 
 #### References in Text
 
@@ -139,6 +143,12 @@ Section 1562, referred to in subsec. (b)(3), was repealed by Pub. L. 91–172, t
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(5), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(4). Pub. L. 115–97, §14301(c)(2), amended par. (4) generally. Prior to amendment, text read as follows: "For purposes of this subsection, the term 'post-1986 undistributed earnings' has the meaning given to such term by section 902(c)(1)."
+
+Subsec. (a)(10). Pub. L. 115–97, §14301(c)(3), which directed amendment of subsec. (a)(10)(C) by substituting "907 and 960" for "902, 907, and 960", was executed by making the substitution in concluding provisions of subsec. (a)(10) to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(B). Pub. L. 115–97, §13002(b), substituted "50 percent" for "70 percent" and "65 percent" for "80 percent".
 
 <b>2015</b>—Subsec. (a)(12). Pub. L. 114–113 added par. (12).
 
@@ -162,7 +172,7 @@ Property distributions.—For purposes of this section, the amount of any distri
 
 <b>1987</b>—Subsec. (c)(1)(B). Pub. L. 100–203 substituted "70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2))" for "85 percent".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted "Dividends from 10-percent owned foreign corporations" for "General rule"as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as "10-percent owned foreign corporations" for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted "Dividends from 10-percent owned foreign corporations" for "General rule" as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as "10-percent owned foreign corporations" for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
 
 Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend."
 
@@ -179,6 +189,12 @@ Subsec. (c)(4). Pub. L. 99–514, §1876(j), redesignated former par. (3) as (4)
 Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein "subsections (a) and (b)" for "subsection (a)".
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–834 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13002(b) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13002(f) of Pub. L. 115–97, set out as a note under section 243 of this title.
+
+Amendment by section 14301(c)(2), (3) of Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -224,7 +240,7 @@ Special rule for certain contracts.—To the extent provided in regulations pres
 
 &emsp;"(B) any contract with respect to which the taxpayer uses the completed contract method of accounting which was entered into before January 1, 1985, or
 
-&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending afterJanuary 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
+&emsp;"(C) in the case of any contract other than a lease or contract described in subparagraph (A) or (B), any contract which was entered into before January 1, 1985; except that this subparagraph shall only apply to the first 3 taxable years of the FSC ending after January 1, 1985, or such later taxable years as the Secretary of the Treasury or his delegate may prescribe.
 
 "(3)
 

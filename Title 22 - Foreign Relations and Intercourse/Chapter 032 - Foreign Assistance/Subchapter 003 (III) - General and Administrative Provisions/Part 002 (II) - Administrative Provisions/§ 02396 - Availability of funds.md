@@ -6,7 +6,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(1) rent of buildings and space in buildings in the United States, and for repair, alteration, and improvement of such leased properties;
 
-&emsp;(2) expenses of attendance at meetings concerned with the purposes of such appropriations or of this chapter, including (notwithstanding the provisions of section 1346(a) and (c) of title 31) expenses in connection withmeetings of persons whose employment is authorized by section 2386 of this title;
+&emsp;(2) expenses of attendance at meetings concerned with the purposes of such appropriations or of this chapter, including (notwithstanding the provisions of section 1346(a) and (c) of title 31) expenses in connection with meetings of persons whose employment is authorized by section 2386 of this title;
 
 &emsp;(3) contracting with individuals for personal services abroad: <i>Provided</i>, That such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Civil Service Commission;
 
@@ -54,7 +54,7 @@ Funds available under this chapter may be used to pay costs of training United S
 
 #### (f) Assistance in carrying out functions under certain laws
 
-Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Food for Peace Act, as amended.
+Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Food for Peace Act, asamended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Food for Peace Act, as amended.
 
 #### (g) Administrative, extraordinary, and operating expenses; reimbursement of military officers; training of foreign military personnel
 
@@ -74,7 +74,7 @@ In carrying out programs under this chapter, the President shall take all approp
 
 Notwithstanding section 2399a <sup>4</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1),Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ Section 2399a of this title, referred to in subsec. (i), was repealed by Pub. L.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 

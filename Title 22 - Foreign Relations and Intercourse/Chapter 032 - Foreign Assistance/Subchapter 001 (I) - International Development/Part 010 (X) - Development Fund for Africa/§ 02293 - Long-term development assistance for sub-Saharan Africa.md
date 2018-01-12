@@ -426,7 +426,7 @@ In General.—Not later than three years after the date of the enactment of this
 
 &emsp;&emsp;"(C) the amount of financing provided or guaranteed by the United States Government for the project;
 
-&emsp;&emsp;"(D) an estimate of United States Government resources for the project, itemized by funding source,including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
+&emsp;&emsp;"(D) an estimate of United States Government resources for the project, itemized by funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
 
 &emsp;&emsp;"(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
 

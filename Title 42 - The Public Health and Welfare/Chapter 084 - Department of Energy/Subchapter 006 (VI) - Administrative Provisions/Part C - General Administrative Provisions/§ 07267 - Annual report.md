@@ -8,7 +8,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;&emsp;(B) areas within such areas which are unincorporated or are specified by the Bureau of the Census, Department of Commerce, as rural areas;
 
-&emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) thequantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
+&emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) the quantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
 
 &emsp;(3) current and foreseeable trends in the price, quality, management, and utilization of energy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
 
@@ -28,7 +28,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 Section 5914 of this title, referred to in text, was omitted from the Code.
 
-This chapter, referred to in par. (5), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in par. (5), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 

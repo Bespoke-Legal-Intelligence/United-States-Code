@@ -6,7 +6,7 @@ At the time that the President submits to Congress the budget for a fiscal year 
 
 #### (b) Amounts appropriated each fiscal year
 
-Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
+Not later than 30 days after the end of each fiscal year, the Director of National Intelligenceshall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
 
 #### (c) Waiver
 

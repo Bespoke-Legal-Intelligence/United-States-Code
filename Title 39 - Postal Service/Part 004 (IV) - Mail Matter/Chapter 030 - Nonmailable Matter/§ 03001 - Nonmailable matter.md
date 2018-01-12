@@ -20,7 +20,7 @@
 
 &emsp;(2) constitutes, in fact, a solicitation for the order by the addressee of goods or services, or both;
 
-> is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as thePostal Service directs, unless such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe—
+> is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe—
 
 &emsp;(A) the following notice: "This is a solicitation for the order of goods or services, or both, and not a bill, invoice, or statement of account due. You are under no obligation to make any payments on account of this offer unless you accept this offer."; or
 
@@ -56,7 +56,7 @@
 
 (2) In the case of matter bearing the term "census" on the envelope or outside cover or wrapper or matter on which the term "census" is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
-(i)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by anongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(i)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -130,7 +130,7 @@
 
 &emsp;(VIII) represents that an individual is a winner of a prize unless that individual has won such prize; or
 
-&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including any statement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
+&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including anystatement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
 
 &emsp;(B)(i) includes entry materials for a skill contest or a promotion that purports to be a skill contest; and
 
@@ -204,7 +204,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89�
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub. L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub.L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -274,7 +274,7 @@ Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1999 Amendment
 
@@ -282,7 +282,7 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–524, §6, Nov. 6, 1990, 104 Stat. 2304, provided that: "The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act."
+Pub. L. 101–524, §6, Nov. 6, 1990, 104 Stat. 2304, provided that: "The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendmentsmade by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act."
 
 Pub. L. 101–493, §3, Oct. 31, 1990, 104 Stat. 1184, provided that: "The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date."
 
@@ -294,7 +294,7 @@ Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment 
 
 #### Effective Date
 
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Short Title of 1999 Amendment
 

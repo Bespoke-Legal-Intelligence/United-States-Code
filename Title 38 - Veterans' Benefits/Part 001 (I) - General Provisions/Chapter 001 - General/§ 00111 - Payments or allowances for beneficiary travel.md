@@ -10,7 +10,7 @@
 
 &emsp;(C) A veteran receiving pension under section 1521 of this title.
 
-&emsp;(D) A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
+&emsp;(D) A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title, or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
 
 &emsp;(E) Subject to paragraph (3) of this subsection, a veteran or other person whose travel to or from a Department facility is medically required to be performed by a special mode of travel and who is determined under such regulations to be unable to defray the expenses of the travel for which payment under this section is claimed.
 
@@ -52,7 +52,7 @@
 
 (2)(A) Without regard to whether an eligible veteran entitled to mileage under this section for travel to a Department facility for the purpose of medical examination, treatment, or care requires an attendant in order to perform such travel, an attendant of such veteran described in subparagraph (B) may be allowed expenses of travel (including lodging and subsistence) upon the same basis as such veteran during—
 
-&emsp;(i) the period of time in which such veteran is traveling to and from a Department facilityfor the purpose of medical examination, treatment, or care; and
+&emsp;(i) the period of time in which such veteran is traveling to and from a Department facility for the purpose of medical examination, treatment, or care; and
 
 &emsp;(ii) the duration of the medical examination, treatment, or care episode for such veteran.
 

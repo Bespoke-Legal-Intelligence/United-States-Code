@@ -6,7 +6,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(A) formally compares the cost of performance of the function by Department of Defense civilian employees with the cost of performance by a contractor;
 
-&emsp;(B) creates an agency tender, including a most efficient organization plan, in accordance with Office of Management and Budget Circular A–76, as implemented on May 29, 2003, or any successor circular;
+&emsp;(B) creates an agency tender, including a most efficient organization plan, in accordance with Office of Management and BudgetCircular A–76, as implemented on May 29, 2003, or any successor circular;
 
 &emsp;(C) includes the issuance of a solicitation;
 
@@ -66,7 +66,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
-(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the finaldecision and shall be binding on the Department.
+(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
 
 (E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
@@ -116,13 +116,13 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(B) the local community and the Government, if more than 50 Department of Defense civilian employees perform the function.
 
-(3)(A) A representative individual or entity at a facility where a public-private competition is conducted may submit to the Secretary of Defense an objection to the public-private competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public-private competition. The objection shall be in writing and shall be submitted within 90 days after the following date:
+(3)(A) A representative individual or entity at a facility where a public-private competition isconducted may submit to the Secretary of Defense an objection to the public-private competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public-private competition. The objection shall be in writing and shall be submitted within 90 days after the following date:
 
 &emsp;(i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
 
 &emsp;(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
 
-(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not includedin the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (d)
 
@@ -250,7 +250,7 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted "20 or fewer" for "45 or fe
 
 Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-private competition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\]."
 
-Pub. L. 111–84, div. A, title III, §322(b), Oct. 28, 2009, 123 Stat. 2252, provided that: "Paragraph (5) of section 2461(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiated on or after the date of the enactment of this Act \[Oct. 28, 2009\]."
+Pub. L. 111–84, div. A, title III, §322(b), Oct. 28, 2009, 123 Stat. 2252, provided that: "Paragraph (5) of section 2461(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiatedon or after the date of the enactment of this Act \[Oct. 28, 2009\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -366,7 +366,7 @@ Annual Report.—The Secretary of the Air Force shall provide to the congression
 
 #### Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program
 
-Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, providedthat: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
+Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
 
 #### Performance of Certain Work by Federal Government Employees
 
@@ -508,7 +508,7 @@ Incentive for Use.—Beginning not later than October 1, 1998, if a standard per
 
 "(e)
 
-Exclusion of Multifunction Conversion.—If a commercial service or function for which a standard form is developed under subsection (a) is combined with another service or function (for which such a form has not yet been developed) for purposes of considering the services and functions at the military installation for conversion to contractor performance, a standard performance work statement or a standard request for a proposal developed under subsection (a) may not be used in the conversion process in lieu of the procedures and requirements of Office of Management and Budget Circular A–76.
+Exclusion of Multifunction Conversion.—If a commercial service or function for which a standard form is developed under subsection (a) is combined with another service or function (for which such a form has not yet been developed) for purposes of considering the services and functions at the military installation for conversion to contractor performance, a standard performance work statement or a standard request for aproposal developed under subsection (a) may not be used in the conversion process in lieu of the procedures and requirements of Office of Management and Budget Circular A–76.
 
 "(f)
 
@@ -522,7 +522,7 @@ GAO Report.—Not later than June 1, 1999, the Comptroller General shall submit 
 
 Military Installation Defined.—For purposes of this section, the term 'military installation' means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility."
 
-\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by section 1069(b)(1) to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if includedin the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
+\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by section 1069(b)(1) to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
@@ -678,7 +678,7 @@ Pub. L. 104–106, div. A, title III, §357, Feb. 10, 1996, 110 Stat. 271, provi
 
 "(a)
 
-In General.—The Secretary of Defense shall endeavor to carry out through a private-sector source any activity to provide a commercial product or service for the Department of Defense if—
+In General.—The Secretary of Defense shall endeavor to carry out through a private-sector source anyactivity to provide a commercial product or service for the Department of Defense if—
 
 &emsp;"(1) the product or service can be provided adequately through such a source; and
 

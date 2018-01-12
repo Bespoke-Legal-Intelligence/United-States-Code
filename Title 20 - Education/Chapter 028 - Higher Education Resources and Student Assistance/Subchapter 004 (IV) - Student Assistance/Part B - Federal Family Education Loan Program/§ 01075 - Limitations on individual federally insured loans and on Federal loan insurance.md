@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(I) $3,500, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
 
-&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which isless than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
-> &emsp;except that the Secretary may increase the limit applicable to students who are pursuingprograms which the Secretary determines are exceptionally expensive.
+> &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
 &emsp;(B) The Secretary may increase the aggregate insurable limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
@@ -138,7 +138,7 @@ Subsec. (a)(1)(C). Pub. L. 103–208, §2(c)(3), added subpar. (C).
 
 Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and concluding provision and struck out former cls. (i) and (ii) which read as follows:
 
-"(i) $17,250, in the case of any student who has not successfully completed a program of undergraduate education, excluding loans made under section 1078–1 or 1078–2 of this title; and
+"(i) $17,250, in the case of any student who has not successfully completed a program of undergraduateeducation, excluding loans made under section 1078–1 or 1078–2 of this title; and
 
 "(ii) $54,750, in the case of any graduate or professional student (as defined by regulations of the Secretary and including any loans which are insured by the Secretary under this part, or by a guaranty agency, made to such person before he or she became a graduate or professional student), excluding loans made under section 1078–1 or 1078–2 of this title."
 

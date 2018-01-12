@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 91–172, §101(j)(10), (14), redesignated subsec. (g) as (
 
 Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: "Special rules", substituted "subsection (b)(1)" for "subsection (c)(1)" in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out "acquired by a trust described in section 401(a) or section 501(c)(17)". Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
 
-Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted "Subsection\(b)(1)" for "Subsection (c)(1)" and "subsection (e)" for "subsection (h)". Former subsec. (f), defining "gift or bequest", was struck out.
+Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted "Subsection (b)(1)" for "Subsection (c)(1)" and "subsection (e)" for "subsection (h)". Former subsec. (f), defining "gift or bequest", was struck out.
 
 Subsec. (g). Pub. L. 91–172, §101(j)(13), (14), redesignated subsec. (j) as (g) and substituted "subsection (b)" for "subsection (c)" in par. (1). Former subsec. (g) redesignated (d).
 
@@ -162,7 +162,7 @@ Pub. L. 85–866, title I, §30(c), Sept. 2, 1958, 72 Stat. 1631, as amended by 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending thissection\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
 
 "(2)
 

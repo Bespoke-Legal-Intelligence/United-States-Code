@@ -44,7 +44,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 #### Mandatory Advanced Electronic Information for Cargo and Other Improved Customs Reporting Procedures
 
-Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L.109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140, provided that:
+Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140, provided that:
 
 "(a)
 
@@ -104,7 +104,7 @@ Transmission of data.—Pursuant to paragraph (2), not later than 1 year after t
 
 "(c)
 
-Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term'Secretary' means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located."
+Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term 'Secretary' means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located."
 
 \[Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending section 343(a) of Pub. L. 107–210, set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."\]
 
@@ -148,31 +148,7 @@ Pub. L. 101–207, §3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: "The 
 
 #### Advisory Committee on Commercial Operations of United States Customs Service
 
-Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, provided that:
-
-"(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the 'Advisory Committee on Commercial Operations of the United States Customs Service' (hereafter in this subsection referred to as the 'Advisory Committee').
-
-"(2)(A) The Advisory Committee shall consist of 20 members appointed by the Secretary of the Treasury.
-
-"(B) In making appointments under subparagraph (A), the Secretary of the Treasury shall ensure that—
-
-&emsp;"(i) the membership of the Advisory Committee is representative of the individuals and firms affected by the commercial operations of the United States Customs Service; and
-
-&emsp;"(ii) a majority of the members of the Advisory Committee do not belong to the same political party.
-
-"(3) The Advisory Committee shall—
-
-&emsp;"(A) provide advice to the Secretary of the Treasury on all matters involving the commercial operations of the United States Customs Service; and
-
-&emsp;"(B) submit an annual report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives that shall—
-
-&emsp;&emsp;"(i) describe the operations of the Advisory Committee during the preceding year, and
-
-&emsp;&emsp;"(ii) set forth any recommendations of the Advisory Committee regarding the commercial operations of the United States Customs Service.
-
-"(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee."
-
-\[Pub. L. 114–125, title I, §109(g)(1), Feb. 24, 2016, 130 Stat. 137, provided that, effective on the date on which the Advisory Committee is established under section 4316(a) of this title, section 9503(c) of Pub. L. 100–203, set out above, is repealed.\]
+Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, which directed the Secretary of the Treasury to establish an Advisory Committee on Commercial Operations of the United States Customs Service to advise the Secretary and prepare annual reports relating to commercial operations of the United States Customs Service, was repealed, effective on the date on which the Advisory Committee was established under section 4316(a) of this title \[Mar. 29, 2016, see 81 F.R. 18865\], by Pub. L. 114–125, title I, §109(g)(1), Feb. 24, 2016, 130 Stat. 137.
 
 Pub. L. 99–272, title XIII, §13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, §9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
 

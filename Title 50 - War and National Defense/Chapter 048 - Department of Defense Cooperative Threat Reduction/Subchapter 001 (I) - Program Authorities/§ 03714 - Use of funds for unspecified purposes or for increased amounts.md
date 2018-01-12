@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) a complete discussion of the purpose and justification for such obligation or expenditure, including the amount of funds to be obligated or expended; and
 
-&emsp;&emsp;(C) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
+&emsp;&emsp;(C) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
 
 #### (2) Construction with other laws
 
@@ -32,11 +32,13 @@ For any fiscal year for which Cooperative Threat Reduction funds are specificall
 
 &emsp;&emsp;(B) a complete discussion of the justification for exceeding such specified amounts, including the amount by which the Secretary will exceed such specified amounts; and
 
-&emsp;(3) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+&emsp;(3) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
 
-(Pub. L. 113–291, div. A, title XIII, §1324, Dec. 19, 2014, 128 Stat. 3599; Pub. L. 114–328, div. A, title XIII, §1302(b)(4), Dec. 23, 2016, 130 Stat. 2566.)
+(Pub. L. 113–291, div. A, title XIII, §1324, Dec. 19, 2014, 128 Stat. 3599; Pub. L. 114–328, div. A, title XIII, §1302(b)(4), Dec. 23, 2016, 130 Stat. 2566; Pub. L. 115–91, div. A, title XIII, §1302(b)(2), Dec. 12, 2017, 131 Stat. 1705.)
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (a)(1)(C), (b)(3). Pub. L. 115–91 substituted "15 days" for "45 days".
 
 <b>2016</b>—Subsecs. (a)(1)(C), (b)(3). Pub. L. 114–328 substituted "45 days" for "15 days".
 

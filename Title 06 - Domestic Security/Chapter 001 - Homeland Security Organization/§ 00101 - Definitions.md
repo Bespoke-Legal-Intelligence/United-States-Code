@@ -92,6 +92,14 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–79, §1, Nov. 2, 2017, 131 Stat. 1258, provided that: "This Act \[enacting section 218 of this title, amending section 211 of this title, enacting provisions set out as notes under section 218 of this title and section 1185 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under section 1185 of Title 8\] may be cited as the 'Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017'."
+
+Pub. L. 115–43, §1, June 30, 2017, 131 Stat. 884, provided that: "This Act \[enacting section 321q of this title\] may be cited as the 'Securing our Agriculture and Food Act'."
+
+Pub. L. 115–38, §1, June 6, 2017, 131 Stat. 855, provided that: "This Act \[amending section 341 of this title\] may be cited as the 'DHS Stop Asset and Vehicle Excess Act' or the 'DHS SAVE Act'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–321, §1, Dec. 16, 2016, 130 Stat. 1623, provided that: "This Act \[amending section 318 of this title\] may be cited as the 'RESPONSE Act of 2016'."
@@ -118,7 +126,7 @@ Pub. L. 113–284, §1, Dec. 18, 2014, 128 Stat. 3089, provided that: "This Act 
 
 Pub. L. 113–282, §1, Dec. 18, 2014, 128 Stat. 3066, provided that: "This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under section 3543 of Title 44, Public Printing and Documents\] may be cited as the 'National Cybersecurity Protection Act of 2014'."
 
-Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
+Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set outas notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
 
 Pub. L. 113–246, §1, Dec. 18, 2014, 128 Stat. 2880, provided that: "This Act \[enacting section 146 of this title and provisions set out as a note under section 146 of this title\] may be cited as the 'Cybersecurity Workforce Assessment Act'."
 
@@ -194,7 +202,7 @@ Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L
 
 #### "SEC. 601. ESTABLISHMENT OF COMMISSION.
 
-"There is established in the legislative branch the National Commission on Terrorist Attacks Upon theUnited States (in this title referred to as the 'Commission').
+"There is established in the legislative branch the National Commission on Terrorist Attacks Upon the United States (in this title referred to as the 'Commission').
 
 #### "SEC. 602. PURPOSES.
 
@@ -440,7 +448,7 @@ Consultant Services.—The Commission is authorized to procure the services of e
 
 "(a)
 
-Compensation.—Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
+Compensation.—Each member of the Commission may be compensated at not to exceed the dailyequivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
 
 "(b)
 

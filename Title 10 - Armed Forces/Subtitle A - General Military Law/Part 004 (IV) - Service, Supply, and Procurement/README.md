@@ -15,7 +15,7 @@
 | [<b>142.</b>](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Major Defense Acquisition Programs</b> | <b>2430</b> |
-| [<b>144A.</b>](Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md) | <b>Major Automated Information System Programs</b> | <b>2445a</b> |
+| <b>\[144A.</b> | <b>Repealed.\]</b> |  |
 | [<b>144B.</b>](Chapter%20144B%20-%20Weapon%20Systems%20Development%20and%20Related%20Matters/README.md) | <b>Weapon Systems Development and Related Matters</b> | <b>2446a</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md) | <b>Cataloging and Standardization</b> | <b>2451</b> |
 | [<b>146.</b>](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
@@ -40,15 +40,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided that, effective Sept. 30, 2017, this analysis is amended by striking the item for chapter 144A. See 2016 Amendment note below.</i>
-
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item for chapter 144A "Major Automated Information System Programs".
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 
-Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, added item for chapter 144B.
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §846(2), Dec. 23, 2016, 130 Stat. 2292, struck out item for chapter 144A "Major Automated Information System Programs".
+
+Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title VIII, §861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
 
@@ -116,7 +114,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 - [Chapter 142 - Procurement Technical Assistance Cooperative Agreement Program](Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md)
 - [Chapter 143 - Production by Military Agencies](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md)
 - [Chapter 144 - Major Defense Acquisition Programs](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md)
-- [Chapter 144A - Major Automated Information System Programs](Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md)
+- [Chapter 144A - Repealed](Chapter%20144A%20-%20Repealed/README.md)
 - [Chapter 144B - Weapon Systems Development and Related Matters](Chapter%20144B%20-%20Weapon%20Systems%20Development%20and%20Related%20Matters/README.md)
 - [Chapter 145 - Cataloging and Standardization](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md)
 - [Chapter 146 - Contracting for Performance of Civilian Commercial or Industrial Type Functions](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md)

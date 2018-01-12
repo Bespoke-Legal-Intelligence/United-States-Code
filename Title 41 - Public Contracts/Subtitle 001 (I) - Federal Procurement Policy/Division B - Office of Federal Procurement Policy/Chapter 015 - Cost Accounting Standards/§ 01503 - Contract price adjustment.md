@@ -2,11 +2,11 @@
 
 (a)
 
-Disagreement Constitutes a Dispute.—If the Federal Government and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.
+Disagreement Constitutes a Dispute.—If the Federal Government and a contractor orsubcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.
 
 (b)
 
-Amount of Adjustment.—A contract price adjustment undertaken under section 1502(f)(2) of this title shall be made, where applicable, on relevant contracts between the Federal Government and the contractor that are subject to the cost accounting standards so as to protect the Federal Government from payment, in the aggregate, of increased costs, as defined by the Cost Accounting Standards Board. The Federal Government may not recover costs greater than the aggregate increased cost to the Federal Government, as defined by the Board, on the relevant contracts subject to the price adjustment unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the pricenegotiation and which it failed to disclose to the Federal Government.
+Amount of Adjustment.—A contract price adjustment undertaken under section 1502(f)(2) of this title shall be made, where applicable, on relevant contracts between the Federal Government and the contractor that are subject to the cost accounting standards so as to protect the Federal Government from payment, in the aggregate, of increased costs, as defined by the Cost Accounting Standards Board. The Federal Government may not recover costs greater than the aggregate increased cost to the Federal Government, as defined by the Board, on the relevant contracts subject to the price adjustment unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Federal Government.
 
 (c)
 

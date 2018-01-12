@@ -126,7 +126,7 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
-Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section,which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 
@@ -185,4 +185,8 @@ Amendment by section 1219(c)(2) of Pub. L. 109–280 applicable to appraisals pr
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, with special rule for application of subsec. (d)(3)(B) \[now (d)(4)(B)\] of this section, see section 812(f) of Pub. L. 108–357, as amended, set out as a note under section 6662 of this title.
+
+#### Effective Date
+
+Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
 

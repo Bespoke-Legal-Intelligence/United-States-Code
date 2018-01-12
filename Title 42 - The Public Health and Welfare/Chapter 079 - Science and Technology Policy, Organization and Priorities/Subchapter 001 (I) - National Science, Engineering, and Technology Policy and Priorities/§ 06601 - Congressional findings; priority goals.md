@@ -166,11 +166,11 @@ Sec. 3. The Federal science, engineering, and technology functions under Section
 
 Sec. 4. The science, engineering, and technology and related activities functions under Section 401(e) of the Act (42 U.S.C. 6651(e)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy.
 
-Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. Thehead of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
+Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
 Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
-Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
+Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate toeffectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
 Sec. 8. This Order shall be effective on February 26, 1978.
 
@@ -404,9 +404,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -460,7 +462,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB "include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution." For classified research, the agencies shall define "not otherwise affiliated with the institution," as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specificproject should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 

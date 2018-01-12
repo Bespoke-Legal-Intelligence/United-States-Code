@@ -10,13 +10,13 @@ In the case of a grant to a recipient for a construction project under section 3
 
 #### (b) Other uses of excess funds
 
-Any amount of excess funds remaining after application of subsection (a) of this section may be used by the Secretary for providing assistance under this chapter.
+Any amount of excess funds remaining after application of subsection (a) may be used by the Secretary for providing assistance under this chapter.
 
 #### (c) Transferred funds
 
-In the case of excess funds described in subsection (a) of this section in projects using funds transferred from other Federal agencies pursuant to section 3214 of this title, the Secretary shall—
+In the case of excess funds described in subsection (a) in projects using funds transferred from other Federal agencies pursuant to section 3214 of this title, the Secretary shall—
 
-&emsp;(1) use the funds in accordance with subsection (a) of this section, with the approval of the originating agency; or
+&emsp;(1) use the funds in accordance with subsection (a), with the approval of the originating agency; or
 
 &emsp;(2) return the funds to the originating agency.
 
@@ -41,4 +41,8 @@ Pub. L. 111–8 added subsec. (d) and struck out former subsec. (d) which requir
 &emsp;"(1) the Secretary may approve, subject to the availability of appropriations, the use of the excess funds or a portion of the funds to improve the project; and
 
 &emsp;"(2) any amount of excess funds remaining after application of paragraph (1) shall be deposited in the general fund of the Treasury."
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

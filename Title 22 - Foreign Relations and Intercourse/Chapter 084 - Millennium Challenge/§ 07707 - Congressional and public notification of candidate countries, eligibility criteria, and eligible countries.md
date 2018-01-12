@@ -10,7 +10,7 @@ Not later than 90 days prior to the date on which the Board determines eligible 
 
 #### (b) Identification of eligibility criteria and methodology
 
-Not later than 60 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
+Not later than 60 days prior to the date on which the Board determines eligible countriesunder section 7706 of this title for a fiscal year, the Chief Executive Officer—
 
 &emsp;(1) shall prepare and submit to the appropriate congressional committees a report that contains a list of the criteria and methodology described in subsections (a) and (b) of section 7706 of this title that will be used to determine eligibility for each candidate country identified under subsection (a);
 

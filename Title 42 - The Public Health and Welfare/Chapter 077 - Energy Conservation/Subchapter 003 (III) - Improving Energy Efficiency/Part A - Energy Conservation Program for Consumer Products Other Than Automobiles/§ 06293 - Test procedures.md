@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987, shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b) of this section.
+All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987, shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b).
 
 #### (b) Amended and new procedures
 
@@ -26,7 +26,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
 
-(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
+(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during suchcycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
 
 (5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
 
@@ -74,7 +74,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (17)
 
-Class a external power supplies.—Test procedures for class A external power supplies shall be based on the "Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies" published by the Environmental Protection Agency on August 11, 2004, except that the test voltage specified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
+Class a external power supplies.—Test procedures for class A external power supplies shall be based on the "Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies" published by the Environmental Protection Agency on August 11, 2004, except that the test voltagespecified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
 
 (18)
 
@@ -88,9 +88,9 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 &emsp;(B) in any broadcast advertisement,
 
-> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) of this section or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
+> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b) of this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
+(2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
 
 &emsp;(A) in writing (including a representation on a label); or
 
@@ -102,7 +102,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### (d) Case in which test procedure is not required
 
-(1) The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) of this section and publishes such determination in the Federal Register, together with the reasons therefor.
+(1) The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) and publishes such determination in the Federal Register, together with the reasons therefor.
 
 (2) For purposes of section 6297 of this title, a determination under paragraph (1) with respect to any covered product or class shall have the same effect as would a standard prescribed for a covered product (or class).
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
+Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department ofDefense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
 
 (b)
 
@@ -33,6 +33,66 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 #### National Action Plan on Advanced Superconductivity Research and Development
 
 Superconductivity research and development activities by Secretary of Defense and by Defense Advanced Research Projects Agency, see section 5207 of Title 15, Commerce and Trade.
+
+#### Pilot Program To Improve Incentives for Technology Transfer From Department of Defense Laboratories
+
+Pub. L. 115–91, div. A, title II, §233, Dec. 12, 2017, 131 Stat. 1339, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish a pilot program to assess the feasibility and advisability of distributing royalties and other payments as described in this section. Under the pilot program, except as provided in subsections (b) and (d), any royalties or other payments received by a Federal agency from the licensing and assignment of inventions under agreements entered into by Department of Defense laboratories, and from the licensing of inventions of Department of Defense laboratories, shall be retained by the laboratory which produced the invention and shall be disposed of as follows:
+
+&emsp;"(1)(A) The laboratory director shall pay each year the first $2,000, and thereafter at least 20 percent, of the royalties or other payments, other than payments of patent costs as delineated by a license or assignment agreement, to the inventor or coinventors, if the inventor's or coinventor's rights are directly assigned to the United States.
+
+&emsp;"(B) A laboratory director may provide appropriate incentives, from royalties or other payments, to laboratory employees who are not an inventor of such inventions but who substantially increased the technical value of the inventions.
+
+&emsp;"(C) The laboratory shall retain the royalties and other payments received from an invention until the laboratory makes payments to employees of a laboratory under subparagraph (A) or (B).
+
+&emsp;"(2) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—
+
+&emsp;&emsp;"(A) to reward scientific, engineering, and technical employees of the laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications;
+
+&emsp;&emsp;"(B) to further scientific exchange among the laboratories of the agency;
+
+&emsp;&emsp;"(C) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
+
+&emsp;&emsp;"(D) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or
+
+&emsp;&emsp;"(E) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
+
+&emsp;"(3) All royalties or other payments retained by the laboratory after payments have been made pursuant to paragraphs (1) and (2) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States.
+
+"(b)
+
+Treatment of Payments to Employees.—
+
+&emsp;"(1)
+
+In general.—Any payment made to an employee under the pilot program shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory.
+
+&emsp;"(2)
+
+Cumulative payments.—(A) Cumulative payments made under the pilot program while the inventor is still employed at the laboratory shall not exceed $500,000 per year to any one person, unless the Secretary concerned (as defined in section 101(a) of title 10, United States Code) approves a larger award.
+
+&emsp;"(B) Cumulative payments made under the pilot program after the inventor leaves the laboratory shall not exceed $150,000 per year to any one person, unless the head of the agency approves a larger award (with the excess over $150,000 being treated as an agency award to a former employee under section 4505 of title 5, United States Code).
+
+"(c)
+
+Invention Management Services.—Under the pilot program, a laboratory receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under section 207 of title 35, United States Code, may retain such royalties or payments to the extent required to offset payments to inventors under subparagraph (A) of subsection (a)(1), costs and expenses incurred under subparagraph (D) of subsection (a)(2), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with subsection (a)(2).
+
+"(d)
+
+Certain Assignments.—Under the pilot program, if the invention involved was one assigned to the laboratory—
+
+&emsp;"(1) by a contractor, grantee, or participant, or an employee of a contractor, grantee, or participant, in an agreement or other arrangement with the agency; or
+
+&emsp;"(2) by an employee of the agency who was not working in the laboratory at the time the invention was made,
+
+> the agency unit that was involved in such assignment shall be considered to be a laboratory for purposes of this section.
+
+"(e)
+
+Sunset.—The pilot program under this section shall terminate 5 years after the date of the enactment of this Act \[Dec. 12, 2017\]."
 
 #### Enhanced Transfer of Technology Developed at Department of Defense Laboratories
 
@@ -120,7 +180,7 @@ Expiration.—The authority provided in this section shall expire on December 31
 
 Pub. L. 100–180, div. A, title II, §218(c), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
-"(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance withsection 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
+"(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance with section 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
 
 "(2) The Secretary of Energy, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that the national laboratories of the Department of Energy participate, to the maximum appropriate extent, in the transfer to the private sector of technology developed under the Department of Defense superconductivity program in the national laboratories."
 

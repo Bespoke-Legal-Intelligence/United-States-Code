@@ -28,11 +28,11 @@ As used in this section—
 
 #### (c) Agreements for equitable share of costs; limiting nature of agreements
 
-Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
+Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperativeproject. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
 
 #### (d) Contractual or other obligation; preconditions
 
-The President may enter into contracts or incur other obligations for a cooperative project on behalf of the other participants, without charge to any appropriation or contract authorization, if each of the other participants in the cooperative project agrees (1) to pay its equitable share of the contract or other obligation, and (2) to make such funds available in suchamounts and at such times as may be required by the contract or other obligation and to pay any damages and costs that may accrue from the performance of or cancellation of the contract or other obligation in advance of the time such payments, damages, or costs are due.
+The President may enter into contracts or incur other obligations for a cooperative project on behalf of the other participants, without charge to any appropriation or contract authorization, if each of the other participants in the cooperative project agrees (1) to pay its equitable share of the contract or other obligation, and (2) to make such funds available in such amounts and at such times as may be required by the contract or other obligation and to pay any damages and costs that may accrue from the performance of or cancellation of the contract or other obligation in advance of the time such payments, damages, or costs are due.
 
 #### (e) Waiver of charges; administrative surcharges
 
@@ -78,7 +78,7 @@ The authority under this section is in addition to the authority under sections 
 
 (2) Omitted.
 
-(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199;Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ In general.—Not later than two days after the President transmits a certificat
 
 &emsp;"(2)
 
-Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
+Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultationwith the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
 
 "(b)
 

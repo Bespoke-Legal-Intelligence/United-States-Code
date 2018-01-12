@@ -26,7 +26,7 @@ The President shall designate a Chairman and a Vice Chairman from among the memb
 
 Each member of the Board of Trustees appointed under subsection (b) shall serve for a term of 6 years from the expiration of the term of such member's predecessor, except that—
 
-&emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which such member's predecessor was appointed shall be appointed for the remainder of such term; and
+&emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the termfor which such member's predecessor was appointed shall be appointed for the remainder of such term; and
 
 &emsp;(2) of the members first appointed—
 
@@ -43,4 +43,12 @@ Each member of the Board of Trustees appointed under subsection (b) shall serve 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
 
 (Pub. L. 102–281, title IV, §423, May 13, 1992, 106 Stat. 142.)
+
+#### Repeal of Section
+
+<i>Pub. L. 115–31, div. E, title VI, §631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under section 5701 of this title.
 

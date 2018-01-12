@@ -15,6 +15,7 @@
 | [1911\.](%C2%A7%2001911%20-%20Additional%20annual%20authorization%20of%20appropriations.md) | Additional annual authorization of appropriations. |
 | [1912\.](%C2%A7%2001912%20-%20Funding%20for%20scholarship%20program%20for%20advanced%20English%20language%20studies%20by%20heritage%20community%20citizens.md) | Funding for scholarship program for advanced English language studies by heritage community citizens. |
 | [1913\.](%C2%A7%2001913%20-%20National%20Language%20Service%20Corps.md) | National Language Service Corps. |
+| [1914\.](%C2%A7%2001914%20-%20Department%20of%20Defense%20program%20to%20protect%20United%20States%20students%20against%20foreign%20agents.md) | Department of Defense program to protect United States students against foreign agents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,3 +37,4 @@
 - [&sect; 01911 - Additional annual authorization of appropriations](%C2%A7%2001911%20-%20Additional%20annual%20authorization%20of%20appropriations.md)
 - [&sect; 01912 - Funding for scholarship program for advanced English language studies by heritage community citizens](%C2%A7%2001912%20-%20Funding%20for%20scholarship%20program%20for%20advanced%20English%20language%20studies%20by%20heritage%20community%20citizens.md)
 - [&sect; 01913 - National Language Service Corps](%C2%A7%2001913%20-%20National%20Language%20Service%20Corps.md)
+- [&sect; 01914 - Department of Defense program to protect United States students against foreign agents](%C2%A7%2001914%20-%20Department%20of%20Defense%20program%20to%20protect%20United%20States%20students%20against%20foreign%20agents.md)

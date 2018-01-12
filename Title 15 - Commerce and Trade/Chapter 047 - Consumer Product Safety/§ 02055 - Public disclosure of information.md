@@ -104,7 +104,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted "A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer." after "paragraph (2)."
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted "A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date onwhich it receives the Commission's offer." after "paragraph (2)."
 
 Subsec. (b)(1). Pub. L. 110–314, §211(2)–(4), substituted "15 days" for "30 days", "publishes a finding that the public" for "finds that the public", and "notice)," for "notice and publishes such a finding in the Federal Register),".
 

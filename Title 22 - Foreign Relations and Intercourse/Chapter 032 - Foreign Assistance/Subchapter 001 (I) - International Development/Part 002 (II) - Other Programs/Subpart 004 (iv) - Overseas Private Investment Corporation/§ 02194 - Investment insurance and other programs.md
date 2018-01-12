@@ -26,9 +26,9 @@ To issue to eligible investors guaranties of loans and other investments made by
 
 #### (c) Direct investment
 
-To make loans in United States dollars repayable in dollars or loans in foreign currencies (including, without regard to section 1306 of title31, such foreign currencies which the Secretary of the Treasury may determine to be excess to the normal requirements of the United States and the Director of the Office of Management and Budget may allocate) to firms privately owned or of mixed private and public ownership upon such terms and conditions as the Corporation may determine. Loans may be made under this subsection only for projects that are sponsored by or significantly involve United States small business or cooperatives.
+To make loans in United States dollars repayable in dollars or loans in foreign currencies (including, without regard to section 1306 of title 31, such foreign currencies which the Secretary of the Treasury may determine to be excess to the normal requirements of the United States and the Director of the Office of Management and Budget may allocate) to firms privately owned or of mixed private and public ownership upon such terms and conditions as the Corporation may determine. Loans may be made under this subsection only for projects that are sponsored by or significantly involve United States small business or cooperatives.
 
-The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products or services that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
+The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products orservices that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
 
 No loan may be made under this subsection to finance any operation for the extraction of oil or gas. The aggregate amount of loans under this subsection to finance operations for the mining or other extraction of any deposit of ore or other nonfuel minerals may not in any fiscal year exceed $4,000,000.
 
@@ -126,7 +126,7 @@ Subsec. (g)(5). Pub. L. 106–31, §6001(3), added par. (5).
 
 <b>1992</b>—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation "(c)" for "(5)". Prior to amendment, par. (5) read as follows: "
 
-Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues."
+Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and tomake a one-time transfer to the fund of $10,000,000 from its income and revenues."
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–218 inserted "and including the initiation of incentives, grants, and studies for renewable energy and other small business activities" after "cooperatives" and inserted at end "Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities."
 
@@ -188,9 +188,11 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 #### Extension of OPIC Authority
 
-Pub. L. 114–113, div. K, title VII, §7061(b), Dec. 18, 2015, 129 Stat. 2810, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C.2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2016."
+Pub. L. 115–31, div. J, title VII, §7061(b), May 5, 2017, 131 Stat. 702, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2017."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 114–113, div. K, title VII, §7061(b), Dec. 18, 2015, 129 Stat. 2810.
 
 Pub. L. 113–235, div. J, title VII, §7073(b), Dec. 16, 2014, 128 Stat. 2679.
 

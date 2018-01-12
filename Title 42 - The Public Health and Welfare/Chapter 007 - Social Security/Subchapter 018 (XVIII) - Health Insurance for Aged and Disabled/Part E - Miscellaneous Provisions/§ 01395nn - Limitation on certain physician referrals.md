@@ -168,7 +168,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;(C) the remuneration is provided pursuant to an agreement which would be commercially reasonable even if no referrals were made to the employer, and
 
-&emsp;&emsp;(D) the employment meets such other requirements as the Secretary may impose byregulation as needed to protect against program or patient abuse.
+&emsp;&emsp;(D) the employment meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
 > &emsp;Subparagraph (B)(ii) shall not prohibit the payment of remuneration in the form of a productivity bonus based on services performed personally by the physician (or an immediate family member of such physician).
 
@@ -280,7 +280,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made underparagraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -294,7 +294,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibitedunder this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
+&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
 
 #### (B) Application of certain rules
 
@@ -344,7 +344,7 @@ For purposes of this section:
 
 #### (3) Fair market value
 
-&emsp;The term "fair market value" means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term "fair market value" means the value in arms length transactions, consistentwith the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -502,7 +502,7 @@ For purposes of this section:
 
 &emsp;&emsp;(vi) Physician owners and investors do not receive, directly or indirectly, any guaranteed receipt of or right to purchase other business interests related to the hospital, including the purchase or lease of any property under the control of other owners or investors in the hospital or located near the premises of the hospital.
 
-&emsp;&emsp;(vii) The hospital does not offer a physician owner or investor the opportunity to purchase or lease any property under the control of the hospital or any other owner or investor in the hospital on more favorable terms than the terms offered to an individual who is not a physician owner or investor.
+&emsp;&emsp;(vii) The hospital does not offer a physician owner or investor the opportunity to purchase or lease any property under the control of the hospital or any other owner or investor in the hospital on more favorableterms than the terms offered to an individual who is not a physician owner or investor.
 
 #### (E) Patient safety
 
@@ -536,7 +536,7 @@ For purposes of this section:
 
 #### (ii) Opportunity for community input
 
-&emsp;&emsp;&emsp;The process under clause (i) shall provide individuals and entities in the communityin which the applicable hospital applying for an exception is located with the opportunity to provide input with respect to the application.
+&emsp;&emsp;&emsp;The process under clause (i) shall provide individuals and entities in the community in which the applicable hospital applying for an exception is located with the opportunity to provide input with respect to the application.
 
 #### (iii) Timing for implementation
 
@@ -576,7 +576,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) whose annual percent of total inpatient admissions that represent inpatient admissions under the program under subchapter XIX is equal to or greater than the average percent with respect to such admissions for all hospitals located in the county in which the hospital is located;
 
-&emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicians practicing at the hospital to discriminate against such beneficiaries;
+&emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicianspracticing at the hospital to discriminate against such beneficiaries;
 
 &emsp;&emsp;&emsp;(iv) that is located in a State in which the average bed capacity in the State is less than the national average bed capacity; and
 
@@ -690,7 +690,7 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 <b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in second sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in third sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors."
 
@@ -698,7 +698,7 @@ Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renum
 
 Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
-Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service," for "in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service," in subpar. (A) and struck out "in the case of another clinical laboratory service," after "subparagraph (C)," in subpar. (B).
+Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item orservice," for "in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service," in subpar. (A) and struck out "in the case of another clinical laboratory service," after "subparagraph (C)," in subpar. (B).
 
 Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), redesignated par. (6) as (7).
 
@@ -738,7 +738,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Exceptions.—With respect to referrals made for clinical laboratory services on or before December 31, 1994—
 
-&emsp;"(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of theSocial Security Act \[42 U.S.C. 1395nn(a)(2), (b)(2)(B), (d)(2)\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
+&emsp;"(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of the Social Security Act \[42 U.S.C. 1395nn(a)(2), (b)(2)(B), (d)(2)\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
 
 &emsp;"(B) section 1877(b)(4) of the Social Security Act \[42 U.S.C. 1395nn(b)(4)\] (as in effect on the day before the date of the enactment of this Act) shall apply;
 
@@ -790,7 +790,7 @@ Development of Self-Referral Disclosure Protocol.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers of services and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act (42 U.S.C. 1395nn) pursuant to a self-referral disclosure protocol (in this section referred to as an 'SRDP'). The SRDP shall include direction to health care providers of services and suppliers on—
+In general.—The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers ofservices and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act (42 U.S.C. 1395nn) pursuant to a self-referral disclosure protocol (in this section referred to as an 'SRDP'). The SRDP shall include direction to health care providers of services and suppliers on—
 
 &emsp;&emsp;"(A) a specific person, official, or office to whom such disclosures shall be made; and
 

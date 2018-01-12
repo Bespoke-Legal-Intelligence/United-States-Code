@@ -204,6 +204,10 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
+
 #### Government Paperwork Elimination
 
 Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, provided that:
@@ -220,7 +224,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions ofthis title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration andnot later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 

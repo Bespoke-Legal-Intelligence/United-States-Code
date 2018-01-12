@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) Internet technologies; and
 
-&emsp;(9) any workforce-related reforms required to resolve the findings and recommendations of the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasons why any of those recommendations were not accepted.
+&emsp;(9) any workforce-related reforms required to resolve the findings and recommendationsof the Columbia Accident Investigation Board, the extent to which those recommendations were accepted, and, if necessary, the reasons why any of those recommendations were not accepted.
 
 (c) Not later than 60 days before first exercising any of the workforce authorities made available under this chapter, the Administrator shall provide to all employees the workforce plan and any additional information which the Administrator considers appropriate.
 
@@ -64,7 +64,7 @@
 
 &emsp;(3) recommendations for how the Administration could address any remaining critical need and could prevent those that have been addressed from recurring.
 
-(i) The budget request for the Administration for the first fiscal year beginning after the date of enactment of this chapter and for each fiscalyear thereafter shall include a statement of the total amount of appropriations requested for such fiscal year to carry out this chapter.
+(i) The budget request for the Administration for the first fiscal year beginning after the date of enactment of this chapter and for each fiscal year thereafter shall include a statement of the total amount of appropriations requested for such fiscal year to carry out this chapter.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 462.)
 

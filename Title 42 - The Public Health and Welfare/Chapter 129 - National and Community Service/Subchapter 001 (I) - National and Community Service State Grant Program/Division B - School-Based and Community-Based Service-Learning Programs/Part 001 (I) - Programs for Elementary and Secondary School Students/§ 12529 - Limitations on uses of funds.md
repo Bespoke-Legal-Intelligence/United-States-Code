@@ -68,3 +68,7 @@ A prior section 12555, Pub. L. 101–610, title I, §135, Nov. 16, 1990, 104 Sta
 
 A prior section 12556, Pub. L. 101–610, title I, §136, Nov. 16, 1990, 104 Stat. 3150, directed Commission on National and Community Service to promulgate regulations implementing American Conservation Youth Corps program and established procedures for promulgation, prior to repeal by Pub. L. 102–10, §5(7), Mar. 12, 1991, 105 Stat. 31.
 
+#### Effective Date
+
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+

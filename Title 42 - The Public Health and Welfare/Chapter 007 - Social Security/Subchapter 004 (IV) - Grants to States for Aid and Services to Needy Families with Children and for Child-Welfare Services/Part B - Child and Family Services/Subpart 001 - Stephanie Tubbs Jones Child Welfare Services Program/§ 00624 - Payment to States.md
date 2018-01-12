@@ -42,7 +42,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 &emsp;(i) 1, if the number of full percentage points by which the State fell short of the percentage specified in subparagraph (A) is less than 10;
 
-&emsp;(ii) 3, if the number of full percentage points by which the State fell short, as described inclause (i), is not less than 10 and less than 20; or
+&emsp;(ii) 3, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 10 and less than 20; or
 
 &emsp;(iii) 5, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 20.
 

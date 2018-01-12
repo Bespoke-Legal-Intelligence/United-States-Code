@@ -22,7 +22,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
-&emsp;&emsp;(iii) with respect to such participant, such plan is not a direct or indirect transferee (in a transfer after December 31, 1984) of a plan which is described in subparagraph (A) or (B) or to which this clause applied with respect to the participant.
+&emsp;&emsp;(iii) with respect to such participant, such plan is not a direct or indirect transferee (ina transfer after December 31, 1984) of a plan which is described in subparagraph (A) or (B) or to which this clause applied with respect to the participant.
 
 > Clause (iii) of subparagraph (C) shall apply only with respect to the transferred assets (and income therefrom) if the plan separately accounts for such assets and any income therefrom.
 
@@ -92,7 +92,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(B) requirements comparable to the requirements of paragraph (2) are met with respect to such consent.
 
-(5)(A) The requirements of this subsection shall not apply with respect to the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
+(5)(A) The requirements of this subsection shall not apply with respect to the qualifiedjoint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
 
 (B) For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
 
@@ -262,7 +262,7 @@ Subsec. (c)(7)(A). Pub. L. 109–280, §1102(a)(2)(A), substituted "180-day" for
 
 Subsec. (d). Pub. L. 109–280, §1004(b)(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsec. (g)(3). Pub. L. 109–280, §302(a), struck out heading and amended text of par. (3) generally. Prior toamendment, par. (3) stated general rule for determination of present value, defined "applicable mortality table" and "applicable interest rate", and set forth exception from general rule in the case of a distribution from a plan that was adopted and in effect prior to Dec. 8, 1994.
+Subsec. (g)(3). Pub. L. 109–280, §302(a), struck out heading and amended text of par. (3) generally. Prior to amendment, par. (3) stated general rule for determination of present value, defined "applicable mortality table" and "applicable interest rate", and set forth exception from general rule in the case of a distribution from a plan that was adopted and in effect prior to Dec. 8, 1994.
 
 <b>2002</b>—Subsec. (g)(1). Pub. L. 107–147, §411(r)(2)(A), substituted "exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title" for "exceed the dollar limit under section 1053(e)(1) of this title".
 
@@ -426,7 +426,7 @@ Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: "The amendment made by
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall notapply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1145(b) of Pub. L. 99–514 applicable as if included in the amendments made by the Retirement Equity Act of 1984, Pub. L. 98–397, see section 1145(d) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 

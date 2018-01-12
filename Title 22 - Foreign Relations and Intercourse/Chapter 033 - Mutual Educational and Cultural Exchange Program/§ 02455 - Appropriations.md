@@ -78,7 +78,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 
-Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would atleast double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

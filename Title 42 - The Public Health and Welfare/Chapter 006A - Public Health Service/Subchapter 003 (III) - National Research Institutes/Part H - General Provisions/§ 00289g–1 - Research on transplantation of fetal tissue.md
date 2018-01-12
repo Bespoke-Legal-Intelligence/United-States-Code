@@ -64,7 +64,7 @@ In research carried out under subsection (a), human fetal tissue may be used onl
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the head of the agency or other entity conductingthe research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) will be available for audit by the Secretary.
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the head of the agency or other entity conducting the research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) will be available for audit by the Secretary.
 
 #### (2) Confidentiality of audit
 
@@ -74,7 +74,7 @@ In research carried out under subsection (a), human fetal tissue may be used onl
 
 &emsp;&emsp;(B) not disclose or publish such material or information, except where required by Federal law, in which case such material or information shall be coded in a manner such that the identities of such individuals and entities are protected; and
 
-&emsp;&emsp;(C) not maintain such material or information after completion of such audit, except where necessary for the purposes of such audit.
+&emsp;&emsp;(C) not maintain such material or information after completion of such audit, exceptwhere necessary for the purposes of such audit.
 
 #### (e) Applicability of State and local law
 
@@ -142,5 +142,5 @@ Definition.—For purposes of this section, the term 'human fetal tissue' has th
 
 #### Report by General Accounting Office on Adequacy of Requirements
 
-Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Serviceshad been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
+Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 

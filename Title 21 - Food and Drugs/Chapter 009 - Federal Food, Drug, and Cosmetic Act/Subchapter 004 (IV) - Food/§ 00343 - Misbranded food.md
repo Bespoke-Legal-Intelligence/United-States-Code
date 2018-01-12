@@ -66,7 +66,7 @@ If it purports to be or is represented for special dietary uses, unless its labe
 
 #### (k) Artificial flavoring, artificial coloring, or chemical preservatives
 
-If it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact, except that to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary. The provisions of this paragraph and paragraphs (g) and (i) with respect to artificial coloring shall not apply in the case of butter, cheese, or ice cream. The provisions of this paragraph with respect to chemical preservatives shall not apply to a pesticide chemical when used in or on a raw agricultural commodity which is the produce of the soil.
+If it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact, except that to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary. The provisions of this paragraph and paragraphs (g) and (i) with respect to artificial coloring shall not apply inthe case of butter, cheese, or ice cream. The provisions of this paragraph with respect to chemical preservatives shall not apply to a pesticide chemical when used in or on a raw agricultural commodity which is the produce of the soil.
 
 #### (l) Pesticide chemicals on raw agricultural commodities
 
@@ -88,7 +88,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (1) Except as provided in subparagraphs (3), (4), and (5), if it is a food intended for human consumption and is offered for sale, unless its label or labeling bears nutrition information that provides—
 
-&emsp;(A)(i) the serving size which is an amount customarily consumed and which is expressedin a common household measure that is appropriate to the food, or
+&emsp;(A)(i) the serving size which is an amount customarily consumed and which is expressed in a common household measure that is appropriate to the food, or
 
 &emsp;(ii) if the use of the food is not typically expressed in a serving size, the common household unit of measure that expresses the serving size of the food,
 
@@ -124,7 +124,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 > The vegetables, fruits, and raw fish to which such guidelines apply shall be determined by the Secretary by regulation and the Secretary may apply such guidelines regionally.
 
-(ii) Upon the expiration of 12 months after November 8, 1990, the Secretary shall issue a final regulation defining the circumstances that constitute substantial compliance by food retailers with the guidelines issued under subclause (i). The regulation shall provide that there is not substantial compliance if a significant number of retailers have failed to comply with the guidelines. The size of the retailers and the portion of the market served by retailers in compliance with the guidelines shall be considered in determining whether the substantial-compliance standard has been met.
+(ii) Upon the expiration of 12 months after November 8, 1990, the Secretary shall issue a final regulation defining the circumstances that constitute substantial compliance by food retailers with the guidelines issued under subclause (i).The regulation shall provide that there is not substantial compliance if a significant number of retailers have failed to comply with the guidelines. The size of the retailers and the portion of the market served by retailers in compliance with the guidelines shall be considered in determining whether the substantial-compliance standard has been met.
 
 (C)(i) Upon the expiration of 30 months after November 8, 1990, the Secretary shall issue a report on actions taken by food retailers to provide consumers with nutrition information for raw agricultural commodities and raw fish under the guidelines issued under clause (A). Such report shall include a determination of whether there is substantial compliance with the guidelines.
 
@@ -132,7 +132,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall at the time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed by regulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
 
-(ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that informationshall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
+(ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that information shall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
 
 (iii) Regulations issued under subclause (i) shall permit the required information to be provided in each area of an establishment in which raw agricultural commodities and raw fish are offered for sale. The regulations shall permit food retailers to display the required information by supplying copies of the information provided by the Secretary, by making the information available in brochure, notebook or leaflet form, or by posting a sign disclosing the information. Such regulations shall also permit presentation of the required information to be supplemented by a video, live demonstration, or other media which the Secretary approves.
 
@@ -226,7 +226,7 @@ Information required to be disclosed by restaurants and retail food establishmen
 
 &emsp;&emsp;(I)(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu listing the item for sale, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
 
-&emsp;&emsp;(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu and designed to enable the public to understand, in the context of a total daily diet, the significance ofthe caloric information that is provided on the menu;
+&emsp;&emsp;(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu and designed to enable the public to understand, in the context of a total daily diet, the significance of the caloric information that is provided on the menu;
 
 &emsp;&emsp;(II)(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu board, including a drive-through menu board, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
 
@@ -278,7 +278,7 @@ Vending machines.—
 
 In general.—In the case of an article of food sold from a vending machine that—
 
-&emsp;&emsp;&emsp;(aa) does not permit a prospective purchaser to examine the Nutrition Facts Panel before purchasing the article or does not otherwise provide visible nutrition information at the point of purchase; and
+&emsp;&emsp;&emsp;(aa) does not permit a prospective purchaser to examine the Nutrition FactsPanel before purchasing the article or does not otherwise provide visible nutrition information at the point of purchase; and
 
 &emsp;&emsp;&emsp;(bb) is operated by a person who is engaged in the business of owning or operating 20 or more vending machines,
 
@@ -312,7 +312,7 @@ Proposed regulation.—Not later than 1 year after March 23, 2010, the Secretary
 
 Contents.—In promulgating regulations, the Secretary shall—
 
-&emsp;&emsp;&emsp;(aa) consider standardization of recipes and methods of preparation, reasonable variation in serving size and formulation of menu items, space on menus and menu boards, inadvertent human error, trainingof food service workers, variations in ingredients, and other factors, as the Secretary determines; and
+&emsp;&emsp;&emsp;(aa) consider standardization of recipes and methods of preparation, reasonable variation in serving size and formulation of menu items, space on menus and menu boards, inadvertent human error, training of food service workers, variations in ingredients, and other factors, as the Secretary determines; and
 
 &emsp;&emsp;&emsp;(bb) specify the format and manner of the nutrient content disclosure requirements under this subclause.
 
@@ -350,7 +350,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;&emsp;(II) the label or labeling of the food discloses the level of such fat or saturated fat in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of cholesterol,
 
-&emsp;(iv) may not be made with respect to the level of saturated fat in the food if the food contains cholesterol unless the label or labeling of the food discloses the level of cholesterol in the food in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of saturated fat,
+&emsp;(iv) may not be made with respect to the level of saturated fat in the food if the foodcontains cholesterol unless the label or labeling of the food discloses the level of cholesterol in the food in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of saturated fat,
 
 &emsp;(v) may not state that a food is high in dietary fiber unless the food is low in total fat as defined by the Secretary or the label or labeling discloses the level of total fat in the food in immediate proximity to such statement and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of dietary fiber, and
 
@@ -404,7 +404,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 (iii) A regulation described in subclause (i) shall require such claim to be stated in a manner so that the claim is an accurate representation of the matters set out in subclause (ii) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
 
-(C) Notwithstanding the provisions of clauses (A)(i) and (B), a claim of the type described insubparagraph (1)(B) which is not authorized by the Secretary in a regulation promulgated in accordance with clause (B) shall be authorized and may be made with respect to a food if—
+(C) Notwithstanding the provisions of clauses (A)(i) and (B), a claim of the type described in subparagraph (1)(B) which is not authorized by the Secretary in a regulation promulgated in accordance with clause (B) shall be authorized and may be made with respect to a food if—
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
@@ -520,7 +520,7 @@ If—
 
 &emsp;(2) the Secretary finds that the food presents a threat of serious adverse health consequences or death to humans or animals; and
 
-&emsp;(3) upon or after notifying the owner or consignee involved that the label is requiredunder section 381 of this title, the Secretary informs the owner or consignee that the food presents such a threat.
+&emsp;(3) upon or after notifying the owner or consignee involved that the label is required under section 381 of this title, the Secretary informs the owner or consignee that the food presents such a threat.
 
 #### (w) Major food allergen labeling requirements
 
@@ -570,7 +570,7 @@ Notwithstanding subsection (g), (i), or (k), or any other law, a spice, flavorin
 
 If it is a dietary supplement that is marketed in the United States, unless the label of such dietary supplement includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa–1 of this title) may receive a report of a serious adverse event with such dietary supplement.
 
-(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L.86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat. 411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub. L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 111–148, title IV, §4205(a), (b), Mar. 23, 2010, 124 Stat. 573.)
+(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L. 86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat. 411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub. L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 111–148, title IV, §4205(a), (b), Mar. 23, 2010, 124 Stat. 573.)
 
 #### Amendments
 
@@ -718,7 +718,7 @@ Pub. L. 101–535, §10(a), Nov. 8, 1990, 104 Stat. 2365, as amended by Pub. L. 
 
 &emsp;"(C) the amendments made by section 4 \[amending section 337 of this title\] shall take effect 24 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that such amendments shall take effect with respect to such dietary supplements \[probably means dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances, see section 202(a)(1) of Pub. L. 102–571, set out below\] on December 31, 1993, and
 
-&emsp;"(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect on the date the amendments made by section 3 take effect.
+&emsp;"(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect onthe date the amendments made by section 3 take effect.
 
 "(2) Section 403(q) of the Federal Food, Drug, and Cosmetic Act (as added by section 2) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 2 and section 403(r) of the Federal Food, Drug, and Cosmetic Act (as added by section 3) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 3.
 
@@ -740,7 +740,7 @@ Pub. L. 101–535, §10(c), Nov. 8, 1990, 104 Stat. 2367, as amended by Pub. L. 
 
 > such food shall not be subject to the amendments made by section 7(1) and section 7(3) \[amending this section\].
 
-"(3) A food purported to be a beverage containing a vegetable or fruit juice which bears a label attached tothe food before May 8, 1993, shall not be subject to the amendments made by section 7(2) \[amending this section\]."
+"(3) A food purported to be a beverage containing a vegetable or fruit juice which bears a label attached to the food before May 8, 1993, shall not be subject to the amendments made by section 7(2) \[amending this section\]."
 
 #### Effective Date of 1977 Amendment
 
@@ -784,7 +784,7 @@ Nothing in amendment by Pub. L. 107–188 to be construed to limit authority of 
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Pub. L. 101–535, §9, Nov. 8, 1990, 104 Stat. 2365, provided that: "The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\]."
+Pub. L. 101–535, §9, Nov. 8, 1990, 104 Stat. 2365, provided that: "The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary ofHealth and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\]."
 
 #### Findings
 
@@ -880,7 +880,7 @@ Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 1
 
 "(B) Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement section 403(r) of the Federal Food, Drug, and Cosmetic Act, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\]
 
-"(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall bepromptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\]."
+"(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\]."
 
 \[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
 

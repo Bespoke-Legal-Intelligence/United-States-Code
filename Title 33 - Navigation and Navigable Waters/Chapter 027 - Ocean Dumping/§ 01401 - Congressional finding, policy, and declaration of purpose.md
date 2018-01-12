@@ -6,7 +6,7 @@ Unregulated dumping of material into ocean waters endangers human health, welfar
 
 #### (b) Policy of regulation and prevention or limitation
 
-The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adversely affect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
+The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adverselyaffect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
 
 #### (c) Regulation of dumping and transportation for dumping purposes
 
@@ -42,7 +42,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 #### Environmental Effects Abroad of Major Federal Actions
 
-For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114,Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Federal Compliance With Pollution Control Standards
 

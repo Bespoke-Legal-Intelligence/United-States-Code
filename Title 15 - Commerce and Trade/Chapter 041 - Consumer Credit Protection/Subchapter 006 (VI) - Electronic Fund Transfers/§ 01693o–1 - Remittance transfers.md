@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) paragraph (2)(A) orally, if the transaction is conducted entirely by telephone;
 
-&emsp;&emsp;(B) paragraph (2)(B), in the case of a transaction conducted entirely by telephone, bymailing the disclosures required under such subparagraph to the sender, not later than 1 business day after the date on which the transaction is conducted, or by including such documents in the next periodic statement, if the telephone transaction is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with the remittance transfer provider;
+&emsp;&emsp;(B) paragraph (2)(B), in the case of a transaction conducted entirely by telephone, by mailing the disclosures required under such subparagraph to the sender, not later than 1 business day after the date on which the transaction is conducted, or by including such documents in the next periodic statement, if the telephone transaction is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with the remittance transfer provider;
 
 &emsp;&emsp;(C) subparagraphs (A) and (B) of paragraph (2) together in one written disclosure, but only to the extent that the information provided in accordance with paragraph (3)(A) is accurate at the time at which payment is made in connection with the subject remittance transfer; and
 
@@ -178,7 +178,7 @@ As used in this section—
 
 &emsp;(2) the term "remittance transfer"—
 
-&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
+&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures inGlobal and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
 
 &emsp;&emsp;(B) does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title;
 
@@ -192,7 +192,7 @@ As used in this section—
 
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
 
-Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§121–129) of title I ofPub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
+Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
 
 #### Prior Provisions
 

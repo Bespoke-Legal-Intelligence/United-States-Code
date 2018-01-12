@@ -2,7 +2,7 @@
 
 (a)
 
-Effect of Transfer to Inactive Status or Retired Status.—If a reserve officer on the reserve active-status list is transferred to an inactive status or to a retired status after having been recommended for promotion to a higher grade under this chapter or chapter 36 of this title, or after having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer—
+Effect of Transfer to Inactive Status or Retired Status.—If a reserve officer on the reserve active-status list is transferred to an inactive status or to a retired status after havingbeen recommended for promotion to a higher grade under this chapter or chapter 36 of this title, or after having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer—
 
 &emsp;(1) shall be treated as if the officer had not been considered and recommended for promotion by the selection board or examined and been found qualified for Federal recognition; and
 

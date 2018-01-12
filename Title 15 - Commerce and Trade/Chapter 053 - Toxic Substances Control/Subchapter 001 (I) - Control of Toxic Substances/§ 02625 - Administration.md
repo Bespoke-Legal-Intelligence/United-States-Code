@@ -110,7 +110,7 @@ Termination.—The authority provided by this subsection shall terminate at the 
 
 (2) For purposes of paragraph (1):
 
-&emsp;(A) The term "category of chemical substances" means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
+&emsp;(A) The term "category of chemical substances" means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely onthe basis of their being new chemical substances.
 
 &emsp;(B) The term "category of mixtures" means a group of mixtures the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in the mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter.
 
@@ -214,7 +214,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, the Administrator s
 
 #### (4) Chemical substances with completed risk assessments
 
-&emsp;With respect to a chemical substance listed in the 2014 update to the TSCA Work Plan for Chemical Assessments for which the Administrator has published a completed risk assessment prior to June 22, 2016, the Administrator may publish proposed and final rules under section 2605(a) of this title that are consistentwith the scope of the completed risk assessment for the chemical substance and consistent with other applicable requirements of section 2605 of this title.
+&emsp;With respect to a chemical substance listed in the 2014 update to the TSCA Work Plan for Chemical Assessments for which the Administrator has published a completed risk assessment prior to June 22, 2016, the Administrator may publish proposed and final rules under section 2605(a) of this title that are consistent with the scope of the completed risk assessment for the chemical substance and consistent with other applicable requirements of section 2605 of this title.
 
 #### (5) Guidance
 
@@ -286,7 +286,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, the Administrator s
 
 &emsp;Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
-(Pub. L. 94–469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519,§3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§17, 19(q), June 22, 2016, 130 Stat. 499, 510.)
+(Pub. L. 94–469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§17, 19(q), June 22, 2016, 130 Stat. 499, 510.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture shall establish a fellowship program for,<sup>1</sup> to be known as the "Cochran Fellowship Program", to provide fellowships to individuals from eligible countries (as determined under subsection (b)) who specialize in agriculture for study in the United States.
+The Secretary of Agriculture shall establish a fellowship program for,<sup>1</sup> to be known as the"Cochran Fellowship Program", to provide fellowships to individuals from eligible countries (as determined under subsection (b)) who specialize in agriculture for study in the United States.
 
 #### (b) Eligible countries
 

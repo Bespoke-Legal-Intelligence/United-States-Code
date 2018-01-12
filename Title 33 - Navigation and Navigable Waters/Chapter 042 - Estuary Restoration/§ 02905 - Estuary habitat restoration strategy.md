@@ -14,7 +14,7 @@ In developing the estuary habitat restoration strategy, the Council shall—
 
 &emsp;(1) conduct a review of estuary management or habitat restoration plans and Federal programs established under other laws that authorize funding for estuary habitat restoration activities; and
 
-&emsp;(2) ensure that the estuary habitat restoration strategy is developed in a manner that is consistent with the estuary management or habitat restoration plans.
+&emsp;(2) ensure that the estuary habitat restoration strategy is developed in a manner that isconsistent with the estuary management or habitat restoration plans.
 
 #### (d) Elements of the strategy
 
@@ -28,7 +28,7 @@ The estuary habitat restoration strategy shall include proposals, methods, and g
 
 &emsp;&emsp;(A) provide healthy ecosystems in order to support—
 
-&emsp;&emsp;&emsp;(i) wildlife, including endangered and threatened species, migratory birds, andresident species of an estuary watershed; and
+&emsp;&emsp;&emsp;(i) wildlife, including endangered and threatened species, migratory birds, and resident species of an estuary watershed; and
 
 &emsp;&emsp;&emsp;(ii) fish and shellfish, including commercial and recreational fisheries;
 

@@ -1,6 +1,6 @@
 ### §5842. Licensing and related regulatory functions respecting selected Administration facilities
 
-Notwithstanding the exclusions provided for in section 110a. \[42 U.S.C. 2140(a)\] or any other provisions of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], the Nuclear Regulatory Commission shall, except as otherwise specifically provided by section 110b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2140(b)), or other law, have licensing and related regulatory authority pursuant to chapters 6, 7, 8, and 10 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2071 et seq., 2091 et seq., 2111 et seq., 2131 et seq.\], as to the following facilities of the Administration:
+Notwithstanding the exclusions provided for in section 110a. \[42 U.S.C. 2140(a)\] or any other provisions of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], the Nuclear Regulatory Commission shall, except as otherwise specifically provided by section 110b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2140(b)), or other law, have licensing and related regulatory authority pursuant to chapters 6, 7, 8, and 10 of the Atomic Energy Act of1954, as amended \[42 U.S.C. 2071 et seq., 2091 et seq., 2111 et seq., 2131 et seq.\], as to the following facilities of the Administration:
 
 &emsp;(1) Demonstration Liquid Metal Fast Breeder reactors when operated as part of the power generation facilities of an electric utility system, or when operated in any other manner for the purpose of demonstrating the suitability for commercial application of such a reactor.
 
@@ -30,7 +30,7 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 #### Availability of Funds for Licensing by NRC
 
-Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: "Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not applyto any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a)."
+Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: "Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272 \[now 50 U.S.C. 2513\]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a)."
 
 #### Applicability of Occupational Safety and Health Requirements to Activities Under License
 

@@ -70,7 +70,7 @@ A civil action under this section may not be commenced later than 10 years after
 
 #### Codification
 
-Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989,and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
 

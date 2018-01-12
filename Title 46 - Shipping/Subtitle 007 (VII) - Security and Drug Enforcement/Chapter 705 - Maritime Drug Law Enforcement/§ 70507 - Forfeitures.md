@@ -6,7 +6,7 @@ In General.—Property described in section 511(a) of the Comprehensive Drug Abu
 
 (b)
 
-Prima Facie Evidence of Violation.—Practices commonly recognized as smugglingtactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under section 70503 of this title, and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
+Prima Facie Evidence of Violation.—Practices commonly recognized as smuggling tactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under section 70503 of this title, and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
 
 &emsp;(1) The construction or adaptation of the vessel in a manner that facilitates smuggling, including—
 

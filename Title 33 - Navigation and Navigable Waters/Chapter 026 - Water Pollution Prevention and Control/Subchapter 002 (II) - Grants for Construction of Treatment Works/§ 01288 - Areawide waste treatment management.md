@@ -10,7 +10,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide waste treatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
 
-&emsp;(4) If a Governor does not act, either by designating or determining not to make a designation under paragraph (2) of this subsection, within the time required by such paragraph, or if, in the case of an interstate area, the Governors of the States involved do not designate a planning organization within the time required by paragraph (3) of this subsection, the chief elected officials of local governments within an area may by agreement designate (A) the boundaries for such an area, and (B) a single representative organization including elected officials from such local governments, or their designees, capable of developing an areawide waste treatment management plan for such area.
+&emsp;(4) If a Governor does not act, either by designating or determining not to make a designation under paragraph (2) of this subsection, within the time required by such paragraph, or if, in the case of an interstate area, the Governors of the States involved do not designate a planning organization within the time required by paragraph (3) of this subsection, the chief elected officials of local governments within an area may by agreement designate (A) the boundaries for such an area, and (B) a single representative organizationincluding elected officials from such local governments, or their designees, capable of developing an areawide waste treatment management plan for such area.
 
 &emsp;(5) Existing regional agencies may be designated under paragraphs (2), (3), and (4) of this subsection.
 
@@ -114,7 +114,7 @@ No permit under section 1342 of this title shall be issued for any point source 
 
 #### (f) Grants
 
-(1) The Administrator shall make grants to any agency designated under subsection (a) of this section for payment of the reasonable costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
+(1) The Administrator shall make grants to any agency designated under subsection (a) of this section for payment of the reasonable costsof developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
 (2) For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period. In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 
@@ -144,7 +144,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 &emsp;(ii) to forfeit all rights to further payments or grants under the contract and refund to the United States all payments and grants received thereunder, with interest, upon his violation of the contract at any stage during the time he has control of the land if the Secretary, after considering the recommendations of the soil conservation district, where one exists, and the Administrator, determines that such violation is of such a nature as to warrant termination of the contract, or to make refunds or accept such payment adjustments as the Secretary may deem appropriate if he determines that the violation by the owner or operator does not warrant termination of the contract;
 
-&emsp;(iii) upon transfer of his right and interest in the farm, ranch, or other land during the contract period to forfeit all rights to further payments or grants under the contract and refund to the United States all payments or grants received thereunder, with interest, unless the transferee of any such land agrees with the Secretary to assume all obligations of the contract;
+&emsp;(iii) upon transfer of his right and interest in the farm, ranch, or other land during the contract period to forfeit all rights to furtherpayments or grants under the contract and refund to the United States all payments or grants received thereunder, with interest, unless the transferee of any such land agrees with the Secretary to assume all obligations of the contract;
 
 &emsp;(iv) not to adopt any practice specified by the Secretary on the advice of the Administrator in the contract as a practice which would tend to defeat the purposes of the contract;
 

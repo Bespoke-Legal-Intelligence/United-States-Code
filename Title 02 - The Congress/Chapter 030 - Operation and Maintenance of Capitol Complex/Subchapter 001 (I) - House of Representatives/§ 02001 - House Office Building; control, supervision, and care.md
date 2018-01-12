@@ -32,7 +32,7 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 Pub. L. 104–197, title III, §307, Sept. 16, 1996, 110 Stat. 2413, provided that:
 
-"(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee onHouse Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading '
+"(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading '
 
 capitol buildings' to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading '
 
@@ -174,7 +174,7 @@ Local zoning and occupancy requirements.—Until such date as the purchaser of t
 
 &emsp;"(9)
 
-Property description.—The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part of Reservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south.
+Property description.—The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part ofReservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south.
 
 "(b)
 
@@ -232,7 +232,7 @@ Pub. L. 104–53, title III, §306, Nov. 19, 1995, 109 Stat. 536, provided that:
 
 "(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House parking activities and related funding shall be transferred from the appropriation 'Architect of the Capitol, Capitol buildings and grounds, House office buildings' to the appropriation 'House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms': <i>Provided</i>, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
 
-"(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the creditof any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
+"(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
 
 "(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a) the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation."
 

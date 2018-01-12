@@ -44,7 +44,7 @@ The Technical Working Group shall be responsible for the following:
 
 &emsp;Technical Working Group shall include in the report the following assessments:
 
-&emsp;&emsp;(A) An assessment of current funding shortfalls and future funding needs to support Federal, State, territorial, and local government efforts to control, interdict, eradicate, or conduct research on the brown tree snake.
+&emsp;&emsp;(A) An assessment of current funding shortfalls and future funding needs to support Federal, State, territorial, and local government efforts to control, interdict,eradicate, or conduct research on the brown tree snake.
 
 &emsp;&emsp;(B) An assessment of regulatory limitations that hinder Federal, State, territorial, and local government efforts to control, interdict, eradicate or conduct research on the brown tree snake.
 

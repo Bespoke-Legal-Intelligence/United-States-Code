@@ -76,7 +76,7 @@ A prior section 4 of act March 3, 1927, was classified to section 281c of Title 
 
 #### Continuation in Office
 
-Pub. L. 114–125, title VIII, §802(h)(2), Feb. 24, 2016, 130 Stat. 215, provided that: "The individual serving as the Assistant Commissioner of the Office of International Trade on the day before the date of the enactment ofthis Act \[Feb. 24, 2016\] may serve as the Executive Assistant Commissioner of Trade on and after such date of enactment, at the discretion of the Commissioner of U.S. Customs and Border Protection."
+Pub. L. 114–125, title VIII, §802(h)(2), Feb. 24, 2016, 130 Stat. 215, provided that: "The individual serving as the Assistant Commissioner of the Office of International Trade on the day before the date of the enactment of this Act \[Feb. 24, 2016\] may serve as the Executive Assistant Commissioner of Trade on and after such date of enactment, at the discretion of the Commissioner of U.S. Customs and Border Protection."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)."</i>
 

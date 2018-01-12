@@ -74,7 +74,7 @@ In general.—The Secretary \[of Transportation\] shall establish, within the Na
 
 &emsp;"(2)
 
-Implementation of roadmap.—The Council shall research the inclusion of emerging lightweight plastic and composite technologies in motor vehicles to increase fuel efficiency, lower emissions, meet fuel economy standards, and enhance passenger motor vehicle safety through continued utilization of the Administration's Plastic and Composite Intensive Vehicle Safety Roadmap (Report No. DOT HS 810 863).
+Implementation of roadmap.—The Council shall research the inclusion of emerging lightweightplastic and composite technologies in motor vehicles to increase fuel efficiency, lower emissions, meet fuel economy standards, and enhance passenger motor vehicle safety through continued utilization of the Administration's Plastic and Composite Intensive Vehicle Safety Roadmap (Report No. DOT HS 810 863).
 
 &emsp;"(3)
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury shall hold in the Alaska Native Fund, from the app
 
 #### (b) Claims; submission
 
-A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Court of Claims for services rendered before December 18, 1971, to any Native tribe, band, group, village, or association in connection with:
+A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Court of Claims for services rendered before December18, 1971, to any Native tribe, band, group, village, or association in connection with:
 
 &emsp;(1) the preparation of this chapter and previously proposed Federal legislation to settle Native claims based on aboriginal title, and
 
@@ -36,7 +36,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (8) Each trial commissioner and each review panel shall have authority to do and perform any acts which may be necessary or proper for the efficient performance of their duties, and shall have the power of subpena, the power to order audit of books and records, and the power to administer oaths and affirmations. Any sanction authorized by the rules of practice of the Court of Claims, except contempt, may be imposed on any claimant, witness, or attorney by the trial commissioner, review panel, or Chief Commissioner. None of the rules, regulations, rulings, findings, or conclusions authorized by this section shall be subject to judicial review.
 
-(9) The findings and conclusions of the trial commissioner shall be submitted by him, together with the record in the case, to the review panel of commissioners for review by it pursuant to such rules as may be provided for the purpose, which shall include provision for submitting the decision of the trial commissioner tothe claimant and any party contesting the claim for consideration, exception, and argument before the panel. The panel, by majority vote, shall adopt or modify the findings or the conclusions of the trial commissioner.
+(9) The findings and conclusions of the trial commissioner shall be submitted by him, together with the record in the case, to the review panel of commissioners for review by it pursuant to such rules as may be provided for the purpose, which shall include provision for submitting the decision of the trial commissioner to the claimant and any party contesting the claim for consideration, exception, and argument before the panel. The panel, by majority vote, shall adopt or modify the findings or the conclusions of the trial commissioner.
 
 (10) The Court of Claims is hereby authorized and directed, under such conditions as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of claims made pursuant to this section and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of its auditors and the commissioners serving as trial commissioners and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries, reporters, auditors, and law clerks).
 
@@ -48,7 +48,7 @@ The Chief Commissioner shall certify to the Secretary of the Treasury, and repor
 
 (1) No remuneration on account of any services or expenses for which a claim is made or could be made pursuant to this section shall be received by any person for such services and expenses in addition to the amount paid in accordance with this section, and any contract or agreement to the contrary shall be void.
 
-(2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remuneration in addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
+(2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remunerationin addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
 
 #### (g) Claims for costs in performance of certain services: submission, form, information, reasonableness, pro rata reductions; report to Congress; payment of claims; interest restriction
 

@@ -15,7 +15,7 @@
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
 | [2362\.](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md) | Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education. |
-| \[2363. | Repealed.\] |
+| [2363\.](%C2%A7%2002363%20-%20Mechanisms%20to%20provide%20funds%20for%20defense%20laboratories%20for%20research%20and%20development%20of%20technologies%20for%20military%20missions.md) | Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions. |
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md) | Coordination and communication of defense research activities and technology domain awareness. |
 | [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
@@ -28,13 +28,8 @@
 | [2371\.](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects: transactions other than contracts and grants. |
 | [2371a.](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md) | Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980. |
 | [2371b.](%C2%A7%2002371b%20-%20Authority%20of%20the%20Department%20of%20Defense%20to%20carry%20out%20certain%20prototype%20projects.md) | Authority of the Department of Defense to carry out certain prototype projects. |
-| [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20costs%20allowable%20costs.md) | Independent research and development costs: allowable costs <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [2372a.](%C2%A7%2002372a%20-%20Bid%20and%20proposal%20costs%20allowable%20costs.md) | Bid and proposal costs: allowable costs <sup>1</sup> |
+| [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20costs%20allowable%20costs.md) | Independent research and development costs: allowable costs. |
+| [2372a.](%C2%A7%2002372a%20-%20Bid%20and%20proposal%20costs%20allowable%20costs.md) | Bid and proposal costs: allowable costs. |
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
 | [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
@@ -43,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title II, §220(b), title X, §1081(a)(33), Dec. 12, 2017, 131 Stat. 1333, 1596, added item 2363 and inserted a period at end of items 2372 and 2372a.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VIII, §§808(c)(2), 824(a)(2), (b)(2), title XI, §1122(a)(2), Dec. 23, 2016, 130 Stat. 2266, 2277, 2279, 2455, added items 2358a, 2366c, 2372, and 2372a and struck out former item 2372 "Independent research and development and bid and proposal costs: payments to contractors".
 
@@ -116,8 +113,6 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 
 <b>1958</b>—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
 
 ---
 
@@ -138,7 +133,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
 - [&sect; 02362 - Research and educational programs and activities historically black colleges and universities and minority-serving institutions of higher&#8230;](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md)
-- [&sect; 02363 - Repealed. Pub. L. 102&#8211;484, div. D, title XLII, &sect;&sect;4224(c), 4271(a)(2), Oct. 23, 1992, 106 Stat. 2683, 2695](%C2%A7%2002363%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20D%2C%20title%20XLII%2C%20%C2%A7%C2%A74224%28c%29%2C%204271%28a%29%282%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202683%2C%202695.md)
+- [&sect; 02363 - Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions](%C2%A7%2002363%20-%20Mechanisms%20to%20provide%20funds%20for%20defense%20laboratories%20for%20research%20and%20development%20of%20technologies%20for%20military%20missions.md)
 - [&sect; 02364 - Coordination and communication of defense research activities and technology domain awareness](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md)
 - [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)

@@ -54,7 +54,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;From the amount made available for allocation under this subparagraph by subparagraph (A)(ii) for any fiscal year—
 
-&emsp;&emsp;&emsp;(i) 85 percent shall be available to eligible institutions described in subsection (a)(1) and shall be made available as grants under section 1062 of this title and allotted among such institutions under section 1063 of this title, treating such amount, plus the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out part B of this subchapter, as the amount appropriated to carry out part B of this subchapter for purposes of allotments under section 1063 of this title, for use by such institutions with a priority for—
+&emsp;&emsp;&emsp;(i) 85 percent shall be available to eligible institutions described in subsection (a)(1) and shall be made available as grants under section 1062 of this title and allottedamong such institutions under section 1063 of this title, treating such amount, plus the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out part B of this subchapter, as the amount appropriated to carry out part B of this subchapter for purposes of allotments under section 1063 of this title, for use by such institutions with a priority for—
 
 &emsp;&emsp;&emsp;&emsp;(I) activities described in paragraphs (1), (2), (4), (5), and (10) of section 1062(a) of this title; and
 
@@ -76,7 +76,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;From the amount made available for allocation under this subparagraph by subparagraph (A)(iii) for any fiscal year—
 
-&emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions describedin subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
+&emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
 
 &emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section and using such $15,000,000 for purposes described in subsection (c) of such section;
 
@@ -196,7 +196,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C)(i), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Act of March 2, 1867, referred to in subsec. (c)(9)(F)(iii), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 

@@ -12,7 +12,7 @@ The Congress hereby finds and declares that:
 
 (c) The Congress further finds that:
 
-&emsp;(1) the Federal agencies presently responsible directly to the Congress are not designed to provide the legislative branch with adequate and timely information, independently developed, relating to the potential impact of technological applications, and
+&emsp;(1) the Federal agencies presently responsible directly to the Congress are not designedto provide the legislative branch with adequate and timely information, independently developed, relating to the potential impact of technological applications, and
 
 &emsp;(2) the present mechanisms of the Congress do not and are not designed to provide the legislative branch with such information.
 

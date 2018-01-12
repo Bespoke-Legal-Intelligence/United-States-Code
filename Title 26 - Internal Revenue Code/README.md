@@ -15616,7 +15616,7 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 #### Table of Contents
 
-<i>This Table of Contents is inserted for convenience of users and was not enacted as part of the Internal Revenue Code of 1986.</i>
+This Table of Contents is inserted for the convenience of users and was not enacted as part of the Internal Revenue Code of 1986.
 
 ## Subtitle A—Income Taxes
 
@@ -15666,7 +15666,7 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | [<b>33.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20033%20-%20Facilities%20and%20Services/README.md) | <b>Facilities and services</b> | <b>4231</b> |
 | [<b>34.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20034%20-%20Taxes%20on%20Certain%20Insurance%20Policies/README.md) | <b>Taxes on certain insurance policies</b> | <b>4371</b> |
 | [<b>35.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20035%20-%20Taxes%20on%20Wagering/README.md) | <b>Taxes on wagering</b> | <b>4401</b> |
-| [<b>36.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4451</b> |
+| [<b>36.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4461</b> |
 | <b>\[37.</b> | <b>Repealed.\]</b> |  |
 | <b>38.</b> | <b>Environmental taxes</b> | <b>4611</b> |
 | [<b>39.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20039%20-%20Registration-Required%20Obligations/README.md) | <b>Registration-required obligations</b> | <b>4701</b> |

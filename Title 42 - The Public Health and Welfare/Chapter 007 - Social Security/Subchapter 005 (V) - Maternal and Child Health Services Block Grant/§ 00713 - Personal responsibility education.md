@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
 
-&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
+&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State foryouth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
 
 &emsp;&emsp;&emsp;&emsp;(II) State-established goals for reducing the pregnancy rates and birth rates for such youth populations.
 
@@ -66,7 +66,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall solicit applications to award 3-year grants in each of fiscalyears 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
 
 #### (ii) Faith-based organizations or consortia
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;The requirements of this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
+&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to changebehavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
 
 &emsp;&emsp;&emsp;(ii) The program is medically-accurate and complete.
 
@@ -222,7 +222,7 @@ For the purpose of carrying out this section, there is appropriated, out of any 
 
 A prior section 713, act Aug. 14, 1935, ch. 531, title V, §513, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 928, which related to administration, was omitted in the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818.
 
-Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat. 632; Aug. 10, 1939, ch. 666, title V, §506, 53 Stat. 1381; 1946 Reorg. Plan No. 2, §§1, 4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558; July 30, 1965,Pub. L. 89–97, title II, §204(b), 79 Stat. 354, related to contents of State plans for services for crippled children and their approval by the Administrator prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 705 of this title.
+Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat. 632; Aug. 10, 1939, ch. 666, title V, §506, 53 Stat. 1381; 1946 Reorg. Plan No. 2, §§1, 4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558; July 30, 1965, Pub. L. 89–97, title II, §204(b), 79 Stat. 354, related to contents of State plans for services for crippled children and their approval by the Administrator prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 705 of this title.
 
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 

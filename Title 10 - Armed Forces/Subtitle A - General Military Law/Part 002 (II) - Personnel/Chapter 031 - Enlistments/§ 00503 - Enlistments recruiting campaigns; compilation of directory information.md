@@ -78,7 +78,7 @@ Directory Information Defined.—In this section, the term "directory informatio
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification ofthis Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which isclassified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Termination.—All pilot programs under this section shall terminate no later th
 
 "(e)
 
-Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
+Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and theHouse of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 
@@ -400,7 +400,7 @@ Pub. L. 108–375, div. A, title V, §593, Oct. 28, 2004, 118 Stat. 1934, as ame
 
 Enhanced Screening Methods and Process Improvements.—(1) The Secretary of the Army shall carry out an initiative—
 
-&emsp;"(A) to develop screening methods and process improvements for recruiting specified GED recipients so as to achieve attrition patterns, among the GED recipients so recruited, that match attrition patterns for Army recruits who are high school diploma graduates; and
+&emsp;"(A) to develop screening methods and process improvements for recruiting specified GED recipients soas to achieve attrition patterns, among the GED recipients so recruited, that match attrition patterns for Army recruits who are high school diploma graduates; and
 
 &emsp;"(B) subject to subsection (b), to implement such screening methods and process improvements on a test basis.
 
@@ -482,11 +482,11 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 "(c)
 
-Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates of those institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
+Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates ofthose institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
 
 "(2) The Secretary of the Army shall select the institutions and colleges to be invited to participate in the pilot program.
 
-"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing bodyor authorized official of the institution or college, as the case may be.
+"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing body or authorized official of the institution or college, as the case may be.
 
 "(4) Under the pilot program, the Secretary shall provide for the following:
 

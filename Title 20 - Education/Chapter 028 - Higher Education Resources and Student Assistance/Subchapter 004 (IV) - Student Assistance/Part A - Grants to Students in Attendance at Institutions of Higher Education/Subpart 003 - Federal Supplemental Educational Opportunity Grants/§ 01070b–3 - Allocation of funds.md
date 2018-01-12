@@ -2,7 +2,7 @@
 
 #### (a) Allocation based on previous allocation
 
-(1) From the amount appropriated pursuant to section 1070b(b) of this title for each fiscal year,the Secretary shall first allocate to each eligible institution an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
+(1) From the amount appropriated pursuant to section 1070b(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
 
 (2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 

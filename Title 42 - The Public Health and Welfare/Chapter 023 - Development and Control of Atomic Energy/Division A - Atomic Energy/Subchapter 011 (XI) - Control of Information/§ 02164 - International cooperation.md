@@ -34,7 +34,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 #### (c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors
 
-In addition to the cooperation authorized in subsections (a) and (b), the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
+In addition to the cooperation authorized in subsections (a) and (b), the President may authorize the Commission, with the assistance ofthe Department of Defense, to cooperate with another nation and—
 
 &emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
@@ -44,7 +44,7 @@ In addition to the cooperation authorized in subsections (a) and (b), the Presid
 
 #### (d) By Department of Energy
 
-(1) In addition to the cooperation authorized in subsections (a), (b), and (c), the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making suchdetermination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
+(1) In addition to the cooperation authorized in subsections (a), (b), and (c), the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
 
 &emsp;(A) the support of a program for the control of and accounting for fissile material and other weapons material;
 

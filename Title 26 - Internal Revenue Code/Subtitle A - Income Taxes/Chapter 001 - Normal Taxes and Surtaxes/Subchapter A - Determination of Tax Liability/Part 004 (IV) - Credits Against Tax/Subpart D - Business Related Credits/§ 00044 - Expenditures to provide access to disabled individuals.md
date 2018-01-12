@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, in the case of an eligible small business, the amount of the disabled access credit determined under this section for any taxable year shall be an amount equal to 50 percent of so much of the eligible access expenditures for the taxable year as exceed $250 but do not exceed $10,250.
+For purposes of section 38, in the case of an eligible small business, the amount of the disabled access credit determined under this section for any taxable year shall be an amount equal to 50percent of so much of the eligible access expenditures for the taxable year as exceed $250 but do not exceed $10,250.
 
 #### (b) Eligible small business
 
@@ -16,7 +16,7 @@ For purposes of this section, the term "eligible small business" means any perso
 
 &emsp;(2) such person elects the application of this section for the taxable year.
 
-> For purposes of paragraph (1)(B), an employee shall be considered full-time if such employee isemployed at least 30 hours per week for 20 or more calendar weeks in the taxable year.
+> For purposes of paragraph (1)(B), an employee shall be considered full-time if such employee is employed at least 30 hours per week for 20 or more calendar weeks in the taxable year.
 
 #### (c) Eligible access expenditures
 
@@ -102,13 +102,13 @@ The Secretary shall prescribe regulations necessary to carry out the purposes of
 
 #### References in Text
 
-The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26,1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (c)(1), (4) and (d)(1), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Prior Provisions
 
-A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV,§474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 Another prior section 44 was renumbered section 37 of this title.
 

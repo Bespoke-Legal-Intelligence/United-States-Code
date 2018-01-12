@@ -16,7 +16,7 @@
 
 #### (2) Limitation
 
-&emsp;In the case of any taxable year ending after the date of the enactment of this section, paragraph (1) shall not apply to the extent that it would (but for this paragraph) operate to create (or increase) a net operating loss for the terminal railroad corporation for the taxable year.
+&emsp;In the case of any taxable year ending after the date of the enactment of this section,paragraph (1) shall not apply to the extent that it would (but for this paragraph) operate to create (or increase) a net operating loss for the terminal railroad corporation for the taxable year.
 
 #### (b) Computation of taxable income of shareholders
 
@@ -24,7 +24,7 @@ Subject to the limitation in subsection (a)(2), in computing the taxable income 
 
 #### (c) Agreement required
 
-In the case of any taxable year, subsections (a) and (b) shall apply with respect to any discharge of liability described in subsection (a)(1)(A)(i), and to any computation of charges in the manner described in subsection (a)(1)(A)(ii), only if such discharge or computation (as in the case may be) was provided for in a written agreement, to which all of the shareholders of the terminal railroad corporation were parties, entered into before the beginning of such taxable year.
+In the case of any taxable year, subsections (a) and (b) shall apply with respect to any discharge of liability described in subsection (a)(1)(A)(i), and to any computation of charges in the manner described in subsection (a)(1)(A)(ii), only if such discharge or computation (as the case may be) was provided for in a written agreement, to which all of the shareholders of the terminal railroad corporation were parties, entered into before the beginning of such taxable year.
 
 #### (d) Definitions
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) from services or facilities of a character ordinarily and regularly provided by terminal railroad corporations for railroad corporations or for the employees, passengers, or shippers of railroad corporations;
 
-&emsp;&emsp;(B) from the use by persons other than railroad corporations of portions of a facility, or a service which is used primarily for railroad purposes;
+&emsp;&emsp;(B) from the use by persons other than railroad corporations of portions of a facility, or a service, which is used primarily for railroad purposes;
 
 &emsp;&emsp;(C) from any railroad corporation for services or facilities provided by such terminal railroad corporation in connection with railroad operations; and
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17,1978, 92 Stat. 1464; Pub. L. 104–88, title III, §304(b), Dec. 29, 1995, 109 Stat. 943.)
+(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 104–88, title III, §304(b), Dec. 29, 1995, 109 Stat. 943.)
 
 #### References in Text
 

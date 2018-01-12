@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Special rule for 1st year of election
 
-&emsp;A corporation meets the shipping activity requirement of this subsection for the firsttaxable year for which the election under section 1354(a) is in effect only if the requirement of paragraph (4) is met for the preceding taxable year.
+&emsp;A corporation meets the shipping activity requirement of this subsection for the first taxable year for which the election under section 1354(a) is in effect only if the requirement of paragraph (4) is met for the preceding taxable year.
 
 #### (3) Controlled groups
 
@@ -228,7 +228,7 @@ Subsec. (c)(3). Pub. L. 109–135, §403(g)(2), substituted "determined by treat
 
 &emsp;"(B) by disregarding vessel charters between members of such group."
 
-Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
+Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
 
 #### Effective Date of 2006 Amendment
 
@@ -241,6 +241,10 @@ Pub. L. 109–222, title II, §205(b), May 17, 2006, 120 Stat. 350, provided tha
 #### Effective Date of 2005 Amendment
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date
+
+Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

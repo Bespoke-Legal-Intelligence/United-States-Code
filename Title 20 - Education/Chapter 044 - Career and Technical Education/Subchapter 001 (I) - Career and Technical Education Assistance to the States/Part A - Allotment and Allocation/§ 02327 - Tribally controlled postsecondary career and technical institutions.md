@@ -106,7 +106,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A credit earned at a tribally controlled postsecondary career and technical institution by any Indian student that hasnot obtained a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count if the institution at which the student is enrolled has established criteria for the admission of the student on the basis of the ability of the student to benefit from the education or training of the institution.
+&emsp;&emsp;&emsp;&emsp;A credit earned at a tribally controlled postsecondary career and technical institution by any Indian student that has not obtained a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count if the institution at which the student is enrolled has established criteria for the admission of the student on the basis of the ability of the student to benefit from the education or training of the institution.
 
 #### (II) Presumption
 

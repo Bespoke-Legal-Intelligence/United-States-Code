@@ -28,7 +28,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;&emsp;(i) a specific list of intermodal equipment components or items be identified for the visual or audible inspection of which a driver is responsible before operating the equipment over the road; and
 
-&emsp;&emsp;&emsp;(ii) the inspection under clause (i) be conducted as part of the Federal requirement in effect on the date of enactment of this section that a driver be satisfied that the intermodal equipment components arein good working order before the equipment is operated over the road;
+&emsp;&emsp;&emsp;(ii) the inspection under clause (i) be conducted as part of the Federal requirement in effect on the date of enactment of this section that a driver be satisfied that the intermodal equipment components are in good working order before the equipment is operated over the road;
 
 &emsp;&emsp;(F) a requirement that a facility at which an intermodal equipment provider regularly makes intermodal equipment available for interchange have an operational process and space readily available for a motor carrier to have an equipment defect identified pursuant to subparagraph (E) repaired or the equipment replaced prior to departure;
 
@@ -112,7 +112,7 @@ Interchange.—The term "interchange"—
 
 &emsp;&emsp;(B) does not include the leasing of equipment to a motor carrier for primary use in the motor carrier's freight hauling operations.
 
-(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
+(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, titleIII, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
 
 #### References in Text
 

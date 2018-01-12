@@ -18,7 +18,7 @@ Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828, provided that: "Any re
 
 #### Eunice Kennedy Shriver National Institute of Child Health and Human Development; Findings
 
-Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, as amended by Pub. L. 111–256, §2(h), Oct. 5, 2010, 124 Stat.2644, provided that: "Congress makes the following findings:
+Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, as amended by Pub. L. 111–256, §2(h), Oct. 5, 2010, 124 Stat. 2644, provided that: "Congress makes the following findings:
 
 &emsp;"(1) Since it was established by Congress in 1962 at the request of President John F. Kennedy, the National Institute of Child Health and Human Development has achieved an outstanding record of achievement in catalyzing a concentrated attack on the unsolved health problems of children and of mother-infant relationships by fulfilling its mission to—
 

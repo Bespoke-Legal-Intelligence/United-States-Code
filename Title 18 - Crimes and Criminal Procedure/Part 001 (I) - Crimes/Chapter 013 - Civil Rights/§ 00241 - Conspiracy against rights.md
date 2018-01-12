@@ -6,7 +6,7 @@ If two or more persons go in disguise on the highway, or on the premises of anot
 
 They shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death.
 
-(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, §103(a), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, §7018(a), (b)(1), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, §60006(a), title XXXII, §§320103(a), 320201(a), title XXXIII,§330016(1)(L), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§604(b)(14)(A), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, §103(a), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, §7018(a), (b)(1), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, §60006(a), title XXXII, §§320103(a), 320201(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§604(b)(14)(A), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Pub. L. 104–294, §604(b)(14)(A), repealed Pub. L. 103–322, §320103(a)(1). 
 
 Pub. L. 103–322, §320201(a), substituted "person in any State" for "inhabitant of any State" in first par.
 
-Pub. L. 103–322, §320103(a)(2)–(4), in third par., substituted "results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both" for "results, they shall be subject to imprisonment for any term of years or for life".
+Pub. L. 103–322, §320103(a)(2)–(4), in third par., substituted "results from the acts committed in violation of this section or if such acts include kidnapping or anattempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both" for "results, they shall be subject to imprisonment for any term of years or for life".
 
 Pub. L. 103–322, §320103(a)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(14)(A).
 

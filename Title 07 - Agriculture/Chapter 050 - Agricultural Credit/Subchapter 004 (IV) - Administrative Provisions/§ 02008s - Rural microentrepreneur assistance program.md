@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry outthis section, to remain available until expended—
 
 &emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011;
 

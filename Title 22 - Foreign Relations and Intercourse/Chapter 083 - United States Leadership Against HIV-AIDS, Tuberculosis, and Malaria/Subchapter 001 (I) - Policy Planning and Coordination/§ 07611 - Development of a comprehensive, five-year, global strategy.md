@@ -136,7 +136,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(C) promote responsible male behavior; and
 
-&emsp;&emsp;(D) promote male participation and leadership at the community level in efforts to promote HIV prevention, reduce stigma, promote participation in voluntary counseling and testing, and provide care, treatment, and support for persons with HIV/AIDS;
+&emsp;&emsp;(D) promote male participation and leadership at the community level in efforts to promote HIV prevention, reduce stigma, promote participation in voluntary counselingand testing, and provide care, treatment, and support for persons with HIV/AIDS;
 
 &emsp;(22) provide a plan to address the vulnerabilities and needs of orphans and children who are vulnerable to, or affected by, HIV/AIDS;
 
@@ -196,7 +196,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(H) A description of how the strategy will seek to achieve the specific targets described in subsection (a) and other targets, as appropriate.
 
-&emsp;&emsp;(I) A description of, and rationale for, the timetable for annual global treatment targets with country-level estimates of numbers of persons in need of antiretroviral treatment, country-level benchmarks for United States support for assistance for antiretroviral treatment, and numbers of persons enrolled in antiretroviral treatment programs receiving United States support. If global benchmarks are not achieved within the reporting period, the report shall include a description of steps being taken to ensure that global benchmarks will be achieved and a detailed breakdown and justification of spending priorities in countries in whichbenchmarks are not being met, including a description of other donor or national support for antiretroviral treatment in the country, if appropriate.
+&emsp;&emsp;(I) A description of, and rationale for, the timetable for annual global treatment targets with country-level estimates of numbers of persons in need of antiretroviral treatment, country-level benchmarks for United States support for assistance for antiretroviral treatment, and numbers of persons enrolled in antiretroviral treatment programs receiving United States support. If global benchmarks are not achieved within the reporting period, the report shall include a description of steps being taken to ensure that global benchmarks will be achieved and a detailed breakdown and justification of spending priorities in countries in which benchmarks are not being met, including a description of other donor or national support for antiretroviral treatment in the country, if appropriate.
 
 &emsp;&emsp;(J) A description of how operations research is addressed in the strategy and how such research can most effectively be integrated into care, treatment, and prevention activities in order to—
 
@@ -296,7 +296,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(i) an assessment of the performance of United States-assisted global HIV/AIDS programs; and
 
-&emsp;&emsp;&emsp;(ii) an evaluation of the impact on health of prevention, treatment, and care efforts that are supported by United States funding, including multilateral and bilateral programs involving joint operations.
+&emsp;&emsp;&emsp;(ii) an evaluation of the impact on health of prevention, treatment, and care efforts that are supported by United Statesfunding, including multilateral and bilateral programs involving joint operations.
 
 #### (B) Content
 
@@ -366,7 +366,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (B) Dissemination guidance
 
-&emsp;&emsp;The Global AIDS Coordinator shall develop guidance to ensure timely submissionand dissemination of significant information regarding best practices with respect to global AIDS programs.
+&emsp;&emsp;The Global AIDS Coordinator shall develop guidance to ensure timely submission and dissemination of significant information regarding best practices with respect to global AIDS programs.
 
 #### (f) Inspectors General
 

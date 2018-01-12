@@ -12,7 +12,7 @@ There is established within the Foundation a National Endowment for the Arts.
 
 #### (c) Program of contracts, grants-in-aid, or loans to groups and individuals for projects and productions; traditionally underrepresented recipients of financial assistance
 
-The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, inappropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
+The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, in appropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
 
 &emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversity and to the maintenance and encouragement of professional excellence;
 
@@ -44,7 +44,7 @@ No payment shall be made under this section except upon application therefor whi
 
 &emsp;(2) applications are consistent with the purposes of this section. Such regulations and procedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
 
-> The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
+> The disapproval or approval of an application by the Chairperson shall not be construed to mean,and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
 
 #### (e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts
 
@@ -60,7 +60,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (2) In order to receive assistance under this subsection in any fiscal year, a State shall submit an application for such grants at such time as shall be specified by the Chairperson and accompany such application with a plan which the Chairperson finds—
 
-&emsp;(A) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") asthe sole agency for the administration of the State plan;
+&emsp;(A) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") as the sole agency for the administration of the State plan;
 
 &emsp;(B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c);
 
@@ -228,7 +228,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 (3) The total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
 
-(4) In carrying out the program authorized by this subsection, the Chairperson of the NationalEndowment for the Arts shall have the same authority as is established in subsection (c) and section 959 of this title.
+(4) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) and section 959 of this title.
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
@@ -360,7 +360,7 @@ Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
 
-Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting astudy and establishing a State agency under paragraph (2)(B) of this subsection."
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection."
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted "All amounts allotted or made available" for "All amounts allotted".
 
@@ -410,7 +410,7 @@ Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrennially submitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrenniallysubmitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
 

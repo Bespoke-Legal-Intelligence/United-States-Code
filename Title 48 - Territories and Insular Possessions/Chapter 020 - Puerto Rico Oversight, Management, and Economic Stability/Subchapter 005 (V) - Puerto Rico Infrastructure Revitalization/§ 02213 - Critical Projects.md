@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(vi) support the Energy Commission of Puerto Rico in achievement of its goal of reducing energy costs and ensuring affordable energy rates for consumers and business; or
 
-&emsp;&emsp;&emsp;(vii) achieve in whole or in part the recommendations, if feasible, of the study in section 505(d) of this title <sup>1</sup> to the extentsuch study is completed and not inconsistent with studies or plans otherwise required under Puerto Rico laws.
+&emsp;&emsp;&emsp;(vii) achieve in whole or in part the recommendations, if feasible, of the study in section 505(d) of this title <sup>1</sup> to the extent such study is completed and not inconsistent with studies or plans otherwise required under Puerto Rico laws.
 
 #### (2) Identification of relevant Puerto Rico Agencies
 
@@ -48,7 +48,7 @@
 
 #### (C) Implementation and prioritization
 
-&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implement the Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of any agreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
+&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implement the Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of anyagreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
 
 #### (b) Critical Project Report
 

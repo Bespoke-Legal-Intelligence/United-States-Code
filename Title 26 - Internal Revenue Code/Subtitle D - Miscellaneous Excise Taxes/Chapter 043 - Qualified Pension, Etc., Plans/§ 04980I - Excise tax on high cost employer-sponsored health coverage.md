@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount as so determined, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for "1992" in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for suchyear (determined by substituting the calendar year that is 2 years before such year for "2016" in subparagraph (A)(ii) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 
 &emsp;&emsp;&nbsp;If any amount determined under this clause is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50.
 
@@ -294,19 +294,21 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 114–255, div. C, title XVIII, §18001(a)(4), Dec. 13, 2016, 130 Stat. 1342.)
+(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 114–255, div. C, title XVIII, §18001(a)(4), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §11002(d)(12), Dec. 22, 2017, 131 Stat. 2062.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (f)(3), is classified to section 3796b of Title 42, The Public Health and Welfare.
+Section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (f)(3), is classified to section 10284 of Title 34, Crime Control and Law Enforcement.
 
 Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)(3), is classified to section 203(y) of Title 29, Labor.
 
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to section 1002(16)(B) of Title 29, Labor.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(3)(C)(v)(II). Pub. L. 115–97 substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
 <b>2016</b>—Subsec. (d)(2)(D), (E). Pub. L. 114–255, §18001(a)(4)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -351,6 +353,10 @@ Subsec. (d)(1)(B)(ii), (iii). Pub. L. 111–152, §1401(a)(4), added cl. (ii) an
 Subsec. (d)(3). Pub. L. 111–152, §1401(a)(5), added par. (3).
 
 Subsec. (f)(3). Pub. L. 111–148, §10901(a), inserted "individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof)," before "and individuals engaged in the construction, mining".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2016 Amendment
 

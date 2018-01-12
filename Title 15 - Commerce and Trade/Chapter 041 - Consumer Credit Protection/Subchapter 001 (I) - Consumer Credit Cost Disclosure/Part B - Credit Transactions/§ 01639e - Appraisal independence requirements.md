@@ -32,7 +32,7 @@ No certified or licensed appraiser conducting, and no appraisal management compa
 
 #### (e) Mandatory reporting
 
-Any mortgage lender, mortgage broker, mortgage banker, real estate broker, appraisal management company, employee of an appraisal management company, or any other person involved in a real estate transaction involving an appraisal in connection with a consumer credit transaction secured by the principal dwelling of a consumer who has a reasonable basis to believe an appraiser is failing to comply with the Uniform Standards of Professional Appraisal Practice, is violating applicable laws, or is otherwise engaging in unethical or unprofessional conduct, shall refer the matter to theapplicable State appraiser certifying and licensing agency.
+Any mortgage lender, mortgage broker, mortgage banker, real estate broker, appraisal management company, employee of an appraisal management company, or any other person involved in a real estate transaction involving an appraisal in connection with a consumer credit transaction secured by the principal dwelling of a consumer who has a reasonable basis to believe an appraiser is failing to comply with the Uniform Standards of Professional Appraisal Practice, is violating applicable laws, or is otherwise engaging in unethical or unprofessional conduct, shall refer the matter to the applicable State appraiser certifying and licensing agency.
 
 #### (f) No extension of credit
 
@@ -92,7 +92,7 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on thedate that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

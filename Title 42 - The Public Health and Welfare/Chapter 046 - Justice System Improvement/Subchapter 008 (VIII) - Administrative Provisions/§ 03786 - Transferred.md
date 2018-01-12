@@ -1,0 +1,10 @@
+### §3786. Transferred
+
+#### Codification
+
+Section 3786 was editorially reclassified as section 10224 of Title 34, Crime Control and Law Enforcement.
+
+#### Prior Provisions
+
+A prior section 3786, Pub. L. 90–351, title I, §806, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204, contained provisions similar to those in section 10224 of Title 34, Crime Control and Law Enforcement, prior to repeal by section 609B(e) of Pub. L. 98–473.
+

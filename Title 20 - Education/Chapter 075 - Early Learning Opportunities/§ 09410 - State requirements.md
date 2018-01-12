@@ -10,7 +10,7 @@ To be eligible for a grant under this chapter, a State shall—
 
 &emsp;(3) submit to the Secretary an application at such time, in such manner, and accompanied by such information as the Secretary may require;
 
-&emsp;(4) ensure that funds made available under this chapter are distributed on a competitivebasis throughout the State to Local Councils serving rural, urban, and suburban areas of the State; and
+&emsp;(4) ensure that funds made available under this chapter are distributed on a competitive basis throughout the State to Local Councils serving rural, urban, and suburban areas of the State; and
 
 &emsp;(5) assist the Secretary in developing mechanisms to ensure that Local Councils receiving funds under this chapter comply with the requirements of this chapter.
 

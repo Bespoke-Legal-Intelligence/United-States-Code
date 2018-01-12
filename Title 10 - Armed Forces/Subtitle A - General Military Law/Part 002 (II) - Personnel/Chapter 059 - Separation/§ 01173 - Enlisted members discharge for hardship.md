@@ -1,6 +1,6 @@
 ### §1173. Enlisted members: discharge for hardship
 
-Under regulations prescribed by the Secretary concerned, a regular enlisted member of anarmed force who has dependents may be discharged for hardship.
+Under regulations prescribed by the Secretary concerned, a regular enlisted member of an armed force who has dependents may be discharged for hardship.
 
 (Added Pub. L. 93–64, title I, §102, July 9, 1973, 87 Stat. 147.)
 

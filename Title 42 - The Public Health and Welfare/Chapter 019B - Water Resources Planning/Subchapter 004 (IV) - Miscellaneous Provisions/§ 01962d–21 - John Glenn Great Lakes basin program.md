@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(ii) analyze the information for consistency and gaps; and
 
-&emsp;&emsp;&emsp;(iii) submit to Congress, the International Joint Commission, and the GreatLakes States a report that includes recommendations on ways to improve the information base on the biohydrological dynamics of the Great Lakes ecosystem as a whole, so as to support environmentally sound decisions regarding diversions and consumptive uses of Great Lakes water.
+&emsp;&emsp;&emsp;(iii) submit to Congress, the International Joint Commission, and the Great Lakes States a report that includes recommendations on ways to improve the information base on the biohydrological dynamics of the Great Lakes ecosystem as a whole, so as to support environmentally sound decisions regarding diversions and consumptive uses of Great Lakes water.
 
 #### (B) Recommendations
 

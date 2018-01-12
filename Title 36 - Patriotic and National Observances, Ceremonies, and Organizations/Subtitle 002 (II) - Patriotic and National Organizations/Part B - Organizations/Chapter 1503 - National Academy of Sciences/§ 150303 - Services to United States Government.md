@@ -188,7 +188,7 @@ Construction.—Nothing in this section shall be construed to limit the ability 
 
 &emsp;&emsp;"(D)
 
-Annual report.—As part of the arrangement under subparagraph (A), the National Academy of Sciences shall, not later than 270 days afterthe date of enactment of this Act \[Mar. 23, 2010\], and annually thereafter, submit to the Co-Chairpersons of the Commission a report that contains the findings and recommendations of the Academy.
+Annual report.—As part of the arrangement under subparagraph (A), the National Academy of Sciences shall, not later than 270 days after the date of enactment of this Act \[Mar. 23, 2010\], and annually thereafter, submit to the Co-Chairpersons of the Commission a report that contains the findings and recommendations of the Academy.
 
 "(d)
 
@@ -256,5 +256,5 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 3\. To the extent permitted by law and regulation, and in accordance with the congressional charter of the Academy, the actual expense of investigations, examinations, experiments, and reports by the Academy for the executive branch of the Government shall be paid to the Academy through one or more of the following: private gifts and bequests; appropriations for the benefit of the Academy; grants-in-aid, contracts, and other forms of financial agreement with executive departments and agencies. The Academy shall receive no compensation whatever for any services to the Government of the United States. Further, the Academy shall be subject to all provisions of OMB Circular A–122, "Cost Principles for Non-Profit Organizations," and to such other requirements regarding or limiting the Academy's recovery of costs as the Director of the Office of Management and Budget may specify from time to time in writing to the Academy and to agencies and departments of the Government.
 
-4\. When a department or agency of the executive branch of the Government determines that the Academy, because of its unique qualifications, is the only source that can provide the measure of expertise, independence, objectivity, and audience acceptance necessary to meet the department's or agency's programrequirements, acquisition of services by the Academy may be obtained on a noncompetitive basis if otherwise in accordance with applicable law and regulations.
+4\. When a department or agency of the executive branch of the Government determines that the Academy, because of its unique qualifications, is the only source that can provide the measure of expertise, independence, objectivity, and audience acceptance necessary to meet the department's or agency's program requirements, acquisition of services by the Academy may be obtained on a noncompetitive basis if otherwise in accordance with applicable law and regulations.
 

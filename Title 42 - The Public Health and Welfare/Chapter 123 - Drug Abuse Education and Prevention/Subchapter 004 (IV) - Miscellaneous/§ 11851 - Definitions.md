@@ -2,7 +2,7 @@
 
 Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purposes of this title <sup>1</sup> and the amendments made by this title— <sup>1</sup>
 
-&emsp;(1) the term "community based" has the meaning given it in section 5603(1) of this title,
+&emsp;(1) the term "community based" has the meaning given it in section 11103(1) of title 34,
 
 &emsp;(2) the term "controlled substance" has the meaning given it in section 802(6) of title 21,
 
@@ -22,7 +22,7 @@ Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purpos
 
 &emsp;(7) the term "institution of higher education" has the meaning given it in section 1001 of title 20,
 
-&emsp;(8) the term "public agency" has the meaning given it in section 5603(11) of this title,
+&emsp;(8) the term "public agency" has the meaning given it in section 11103(11) of title 34,
 
 &emsp;(9) the term "Secretary" means—
 
@@ -32,11 +32,11 @@ Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purpos
 
 &emsp;&emsp;(C) the Secretary of Health and Human Services for purposes of subtitle B,
 
-&emsp;(10) the term "State" has the meaning given it in section 5603(7) of this title,
+&emsp;(10) the term "State" has the meaning given it in section 11103(7) of title 34,
 
-&emsp;(11) the term "treatment" has the meaning given it in section 5603(15) of this title, and
+&emsp;(11) the term "treatment" has the meaning given it in section 11103(15) of title 34, and
 
-&emsp;(12) the term "unit of general local government" has the meaning given it in section 5603(8) <sup>1</sup> of this title.
+&emsp;(12) the term "unit of general local government" has the meaning given it in section 11103(8) <sup>1</sup> of title 34.
 
 (Pub. L. 100–690, title III, §3601, Nov. 18, 1988, 102 Stat. 4260; Pub. L. 101–204, title X, §1001(c)(2), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 103–82, title IV, §405(n), Sept. 21, 1993, 107 Stat. 922; Pub. L. 105–244, title I, §102(a)(13)(J), Oct. 7, 1998, 112 Stat. 1621.)
 
@@ -50,7 +50,7 @@ Section 3201, referred to in par. (9)(A), (B), is section 3201 of Pub. L. 100–
 
 Subtitle B, referred to in par. (9)(C), is subtitle B (§§3501–3522) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4254, which enacted subchapters I to III of this chapter. For complete classification of subtitle B to the Code, see Tables.
 
-Section 5603(8) of this title, referred to in par. (12), was subsequently amended, and no longer defines "unit of general local government". However, it now defines "unit of local government".
+Section 11103(8) of title 34, referred to in par. (12), was subsequently amended, and no longer defines "unit of general local government". However, it now defines "unit of local government".
 
 #### Amendments
 

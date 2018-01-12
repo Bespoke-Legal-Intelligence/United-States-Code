@@ -2,7 +2,7 @@
 
 (a)
 
-Motion To Determine Present Mental Condition of Imprisoned Person.—If a person serving a sentence of imprisonment objects either in writing or through his attorney to being transferred to a suitable facility for care or treatment, an attorney for the Government, at the request of the director of the facility in which the person is imprisoned, may file a motion with the court for the district in which the facility is located for a hearing on the present mental condition of the person. The court shall grant the motion if there is reasonable cause to believe that the person may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. A motion filed under this subsection shall stay the transfer of the person pending completion of procedures contained in this section.
+Motion To Determine Present Mental Condition of Imprisoned Person.—If a person serving a sentence of imprisonment objects either in writing or through his attorney to being transferred to a suitable facility for care or treatment, an attorney for the Government, at the request of the director of the facility in which the person is imprisoned, may file a motion with the court for the district in which the facility is located for a hearing on the present mental condition of the person. The court shall grant the motion if there is reasonable cause tobelieve that the person may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. A motion filed under this subsection shall stay the transfer of the person pending completion of procedures contained in this section.
 
 (b)
 
@@ -18,7 +18,7 @@ Determination and Disposition.—If, after the hearing, the court finds by a pre
 
 (e)
 
-Discharge.—When the director of the facility in which the person is hospitalized pursuantto subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
+Discharge.—When the director of the facility in which the person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
 
 (Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2062.)
 

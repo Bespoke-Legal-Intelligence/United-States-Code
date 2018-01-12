@@ -182,7 +182,7 @@
 
 &emsp;&emsp;(A) all extensions of credit to the company, including loans, deposits, and lines of credit;
 
-&emsp;&emsp;(B) all repurchase agreements and reverse repurchase agreements with the company, and all securities borrowing and lending transactions with the company, to the extent that such transactions create credit exposure for the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a);
+&emsp;&emsp;(B) all repurchase agreements and reverse repurchase agreements with the company,and all securities borrowing and lending transactions with the company, to the extent that such transactions create credit exposure for the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a);
 
 &emsp;&emsp;(C) all guarantees, acceptances, or letters of credit (including endorsement or standby letters of credit) issued on behalf of the company;
 

@@ -16,7 +16,7 @@ Any person who with respect to any tax payable by stamps—
 
 &emsp;&emsp;(A) Transfers or receives (whether by sale, gift, or otherwise) such container knowing it to be empty or to contain such other contents; or
 
-&emsp;&emsp;(B) Stamps, brands, or marks such container, or otherwise produces such as stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
+&emsp;&emsp;(B) Stamps, brands, or marks such container, or otherwise produces such a stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
 
 > &emsp;shall be liable for each such offense to a penalty of $50.
 

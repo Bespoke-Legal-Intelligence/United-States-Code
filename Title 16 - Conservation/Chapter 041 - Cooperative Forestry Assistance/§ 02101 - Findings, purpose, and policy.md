@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;(11) forest landowners are being faced with increased pressure to convert their forest land to development and other purposes;
 
-&emsp;(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fishand wildlife habitat, aesthetic quality, and recreational opportunities;
+&emsp;(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fish and wildlife habitat, aesthetic quality, and recreational opportunities;
 
 &emsp;(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
 
@@ -78,7 +78,7 @@ Not later than September 30, 2011, the Secretary shall submit to Congress a repo
 
 #### (e) Policy
 
-It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters, or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
+It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters,or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
 
 #### (f) Construction
 
@@ -90,7 +90,7 @@ This chapter shall be construed to complement the policies and direction under t
 
 This chapter, referred to in subsecs. (b) to (d) and (f), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Codification
 

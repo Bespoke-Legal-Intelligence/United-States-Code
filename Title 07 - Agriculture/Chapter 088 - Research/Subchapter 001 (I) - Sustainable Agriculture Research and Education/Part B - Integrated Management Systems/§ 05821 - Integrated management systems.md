@@ -16,7 +16,7 @@ The Secretary shall establish a research and education program concerning integr
 
 #### (b) Development and adoption of integrated crop management practices
 
-The Secretary shall encourage agricultural producers to adopt and develop individual, site-specific integrated crop management practices. On a priority basis, the Secretary shall develop and disseminate information on integrated crop management systems for agricultural producers in specific localities or crop producing regions where the Secretary determines—
+The Secretary shall encourage agricultural producers to adopt and develop individual, site-specific integrated crop management practices. On a priority basis, the Secretary shall develop and disseminate information on integrated cropmanagement systems for agricultural producers in specific localities or crop producing regions where the Secretary determines—
 
 &emsp;(1) water quality is impaired as a result of local or regional agricultural production practices; or
 

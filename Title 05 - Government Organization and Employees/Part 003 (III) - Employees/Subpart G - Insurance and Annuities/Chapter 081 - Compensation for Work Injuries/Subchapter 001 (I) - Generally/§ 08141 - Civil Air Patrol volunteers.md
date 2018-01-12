@@ -1,6 +1,6 @@
 ### §8141. Civil Air Patrol volunteers
 
-(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilian member of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
+(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilianmember of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
 
 (b) In administering this subchapter for a member of the Civil Air Patrol covered by this section—
 

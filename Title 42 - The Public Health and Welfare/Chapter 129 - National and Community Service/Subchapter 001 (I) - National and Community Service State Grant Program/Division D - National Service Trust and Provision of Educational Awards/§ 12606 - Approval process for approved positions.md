@@ -60,7 +60,7 @@ The accounts of the Corporation relating to the appropriated funds for approved 
 
 #### (d) Availability of amounts
 
-Except as provided in subsection (b), all amounts included in the National Service Trust under paragraphs (1), (2), and (3) of section 12601(a) of this title shall be available for payments of national service educational awards, summer of service educational awards, or silverscholar educational awards under section 12604 of this title.
+Except as provided in subsection (b), all amounts included in the National Service Trust under paragraphs (1), (2), and (3) of section 12601(a) of this title shall be available for payments of national service educational awards, summer of service educational awards, or silver scholar educational awards under section 12604 of this title.
 
 (Pub. L. 101–610, title I, §149, as added Pub. L. 111–13, title I, §1406(a), Apr. 21, 2009, 123 Stat. 1519.)
 

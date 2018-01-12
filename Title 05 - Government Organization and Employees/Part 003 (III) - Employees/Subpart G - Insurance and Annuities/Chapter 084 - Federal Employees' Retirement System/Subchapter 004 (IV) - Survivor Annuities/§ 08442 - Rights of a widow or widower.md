@@ -32,7 +32,7 @@
 
 (3) An amount payable under paragraph (1)(A) shall not be considered to be part of an annuity for purposes of this chapter.
 
-(c)(1) If a former employee or Member dies after having separated from the service withtitle to a deferred annuity under section 8413 but before having established a valid claim for an annuity, and is survived by a widow or widower to whom married on the date of separation, the widow or widower may elect to receive—
+(c)(1) If a former employee or Member dies after having separated from the service with title to a deferred annuity under section 8413 but before having established a valid claim for an annuity, and is survived by a widow or widower to whom married on the date of separation, the widow or widower may elect to receive—
 
 &emsp;(A) an annuity under paragraph (2); or
 
@@ -96,7 +96,7 @@
 
 &emsp;(A) shall be payable to a survivor only for calendar months ending before the calendar month in which such survivor first satisfies the minimum age requirement under section 202(e)(1)(B)(i) or 202(f)(1)(B)(i) of the Social Security Act, as the case may be;
 
-&emsp;(B) shall not be payable to a survivor who would not be entitled to benefits under subsection (e) or (f) of section 202 of the Social Security Act based on the wages and self-employment income of the deceased annuitant (determined, as of the date of the annuitant's death, as if the survivor had attained age 60 and made appropriate application for benefits, but without regard to any restriction under either such subsection relating to remarriage); and
+&emsp;(B) shall not be payable to a survivor who would not be entitled to benefits under subsection (e) or (f) of section 202 of the Social Security Act based on the wages and self-employment income of the deceased annuitant (determined, as of the date of the annuitant'sdeath, as if the survivor had attained age 60 and made appropriate application for benefits, but without regard to any restriction under either such subsection relating to remarriage); and
 
 &emsp;(C) shall not be payable to a survivor for any calendar month in which such survivor is entitled (or would, on proper application, be entitled) to benefits under section 202(g) of the Social Security Act (relating to mother's and father's insurance benefits), or under section 202(e) or (f) of such Act by reason of having become disabled, based on the wages and self-employment income of the deceased annuitant.
 
@@ -152,7 +152,7 @@ Subsec. (d)(3). Pub. L. 105–61, §518(b)(1)(A), added par. (3).
 
 Subsec. (g)(1). Pub. L. 100–238, §131(b)(2), inserted "(or one-half thereof if designated for this purpose under section 8419 of this title)" after "paragraph (2)".
 
-<b>1986</b>—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: "on the day after the date on which the former employee or Member would have attained age 62; or".
+<b>1986</b>—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section beamended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: "on the day after the date on which the former employee or Member would have attained age 62; or".
 
 #### Effective Date of 1997 Amendment
 

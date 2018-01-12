@@ -30,7 +30,7 @@ Any funds in the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of 
 
 #### References in Text
 
-Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, §612(a), Oct. 22, 2004, 118 Stat. 1523.
+Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, §612(a), Oct. 22, 2004, 118 Stat. 1523.
 
 #### Effective Date
 

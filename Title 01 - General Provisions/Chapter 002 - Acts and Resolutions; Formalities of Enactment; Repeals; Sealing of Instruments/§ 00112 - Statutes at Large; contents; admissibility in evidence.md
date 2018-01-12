@@ -16,6 +16,10 @@ The Archivist of the United States shall cause to be compiled, edited, indexed, 
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
+#### Publishing Pub. L. 115–31 in Statutes at Large
+
+Pub. L. 115–31, div. G, title IV, §431(b), May 5, 2017, 131 Stat. 502, provided that: "In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bills referred to in subsection (a) \[enacting into law from the 115th Congress H.R. 2104, as introduced on Apr. 20, 2017; S. 131, as ordered to be reported on Mar. 30, 2017, by the Committee on Energy and Natural Resources of the Senate; and S. 847, as introduced on Apr. 5, 2017\]."
+
 #### Publishing Pub. L. 107–206 in Statutes at Large
 
 Pub. L. 107–206, title III, §3002(h), Aug. 2, 2002, 116 Stat. 924, provided that: "In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) \[set out as a Short Title of 2002 Amendment note under section 101 of Title 39, Postal Service\]."
@@ -30,7 +34,7 @@ Pub. L. 106–429, §101(a) \[title V, §595(b)\], Nov. 6, 2000, 114 Stat. 1900,
 
 Pub. L. 106–429, §101(b), Nov. 6, 2000, 114 Stat. 1900, provided that: "In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) of this section \[enacting into law H.R. 5526 of the 106th Congress, as introduced on Oct. 24, 2000\]."
 
-Pub. L. 106–398, §2, Oct. 30, 2000, 114 Stat. 1654, provided that: "In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval an appendix setting forth the text of the bill referred to in section 1 \[enacting into law H.R. 5408 of the 106th Congress, as introduced on Oct. 6, 2000\]."
+Pub. L. 106–398, §2, Oct. 30, 2000, 114 Stat. 1654, provided that: "In publishing this Act in slip form and inthe United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval an appendix setting forth the text of the bill referred to in section 1 \[enacting into law H.R. 5408 of the 106th Congress, as introduced on Oct. 6, 2000\]."
 
 Pub. L. 106–387, §1(b), Oct. 28, 2000, 114 Stat. 1549, provided that: "In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) of this section \[enacting into law H.R. 5426 of the 106th Congress, as introduced on Oct. 6, 2000\]."
 
@@ -38,7 +42,7 @@ Pub. L. 106–377, §1(b), Oct. 27, 2000, 114 Stat. 1441, provided that: "In pub
 
 Pub. L. 106–346, §101(b), Oct. 23, 2000, 114 Stat. 1356, provided that: "In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) of this section \[enacting into law H.R. 5394 of the 106th Congress, as introduced on Oct. 5, 2000\]."
 
-Pub. L. 106–113, div. B, §1000(b), Nov. 29, 1999, 113 Stat. 1536, provided that: "In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section\[enacting into law H.R. 3421, H.R. 3422, H.R. 3423, H.R. 3424, H.R. 3425, H.R. 3426, H.R. 3427 (as amended), H.R. 3428, and S. 1948 of the 106th Congress, as introduced on Nov. 17, 1999\]."
+Pub. L. 106–113, div. B, §1000(b), Nov. 29, 1999, 113 Stat. 1536, provided that: "In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section \[enacting into law H.R. 3421, H.R. 3422, H.R. 3423, H.R. 3424, H.R. 3425, H.R. 3426, H.R. 3427 (as amended), H.R. 3428, and S. 1948 of the 106th Congress, as introduced on Nov. 17, 1999\]."
 
 #### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 

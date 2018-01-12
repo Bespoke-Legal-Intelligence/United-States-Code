@@ -66,7 +66,7 @@ The Secretary may approve an Indian trust asset management plan that includes a 
 
 #### (2) Indian Self-Determination and Education Assistance Act
 
-&emsp;The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
+&emsp;The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under theIndian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 #### (e) Federal environmental review
 
@@ -102,7 +102,7 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 #### (2) Violations
 
-&emsp;If the Secretary determines under paragraph (1) that a violation of tribal regulations hasoccurred, the Secretary may take any action the Secretary determines to be necessary to remedy the violation, including rescinding the approval of the tribal regulations and reassuming responsibility for the approval of leases of tribal trust land.
+&emsp;If the Secretary determines under paragraph (1) that a violation of tribal regulations has occurred, the Secretary may take any action the Secretary determines to be necessary to remedy the violation, including rescinding the approval of the tribal regulations and reassuming responsibility for the approval of leases of tribal trust land.
 
 #### (3) Documentation
 

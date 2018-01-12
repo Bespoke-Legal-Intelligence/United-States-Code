@@ -4,7 +4,7 @@
 
 The Commission shall—
 
-&emsp;(1) undertake a review and study of the activities of the United States pursuant to existing laws and international conventions relating to marine mammals, including, but not limited to, the International Convention for the Regulation of Whaling, the Whaling Convention Act of 1949 \[16 U.S.C. 916 et seq.\], theInterim Convention on the Conservation of North Pacific Fur Seals, and the Fur Seal Act of 1966 \[16 U.S.C. 1151 et seq.\];
+&emsp;(1) undertake a review and study of the activities of the United States pursuant to existing laws and international conventions relating to marine mammals, including, but not limited to, the International Convention for the Regulation of Whaling, the Whaling Convention Act of 1949 \[16 U.S.C. 916 et seq.\], the Interim Convention on the Conservation of North Pacific Fur Seals, and the Fur Seal Act of 1966 \[16 U.S.C. 1151 et seq.\];
 
 &emsp;(2) conduct a continuing review of the condition of the stocks of marine mammals, of methods for their protection and conservation, of humane means of taking marine mammals, of research programs conducted or proposed to be conducted under the authority of this chapter, and of all applications for permits for scientific research, public display, or enhancing the survival or recovery of a species or stock;
 
@@ -34,7 +34,7 @@ Any recommendations made by the Commission to the Secretary and other Federal of
 
 #### References in Text
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
 The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
@@ -51,6 +51,10 @@ Section 1404 of this title, referred to in subsec. (b), was omitted from the Cod
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

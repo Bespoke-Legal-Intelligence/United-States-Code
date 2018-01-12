@@ -1,0 +1,6 @@
+### §1181j. Transferred
+
+#### Codification
+
+Section 1181j was editorially reclassified as section 2634 of this title.
+

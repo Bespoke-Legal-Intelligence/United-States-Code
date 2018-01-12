@@ -1,6 +1,6 @@
 ### §2409a. Real property quiet title actions
 
-(a) The United States may be named as a party defendant in a civil action under this section to adjudicate a disputed title to real property in which the United States claims an interest, other than a security interest or water rights. This section does not apply to trust or restricted Indian lands, nor does it apply to oraffect actions which may be or could have been brought under sections 1346, 1347, 1491, or 2410 of this title, sections 7424, 7425, or 7426 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 7424, 7425, and 7426), or section 208 of the Act of July 10, 1952 (43 U.S.C. 666).
+(a) The United States may be named as a party defendant in a civil action under this section to adjudicate a disputed title to real property in which the United States claims an interest, other than a security interest or water rights. This section does not apply to trust or restricted Indian lands, nor does it apply to or affect actions which may be or could have been brought under sections 1346, 1347, 1491, or 2410 of this title, sections 7424, 7425, or 7426 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 7424, 7425, and 7426), or section 208 of the Act of July 10, 1952 (43 U.S.C. 666).
 
 (b) The United States shall not be disturbed in possession or control of any real property involved in any action under this section pending a final judgment or decree, the conclusion of any appeal therefrom, and sixty days; and if the final determination shall be adverse to the United States, the United States nevertheless may retain such possession or control of the real property or of any part thereof as it may elect, upon payment to the person determined to be entitled thereto of an amount which upon such election the district court in the same action shall determine to be just compensation for such possession or control.
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 208(a) to (d) of act July 10, 1952, ch. 651, 66 Stat. 560. Section 208(a) to (c) is classified to section 666 of Title 43, Public Lands. Section 208(d) is not classified to the Code.
+Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 208(a) to (d) of act July 10, 1952,ch. 651, 66 Stat. 560. Section 208(a) to (c) is classified to section 666 of Title 43, Public Lands. Section 208(d) is not classified to the Code.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 The Secretary of Agriculture (hereinafter in this section referred to as the "Secretary") shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
 
-&emsp;(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)) and the national pesticide resistance monitoring program established under section 1651 <sup>1</sup> of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
+&emsp;(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)) <sup>1</sup> and the national pesticide resistance monitoring program established under section 1651 <sup>1</sup> of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
 
 &emsp;(2) supporting integrated pest management research;
 
@@ -18,7 +18,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the "Se
 
 #### (A) Grant authority
 
-&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program to make grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed ½ of the cost of the project for which the grant is made.
+&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program tomake grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed ½ of the cost of the project for which the grant is made.
 
 #### (B) Applicants
 
@@ -49,6 +49,8 @@ The Secretary of Agriculture (hereinafter in this section referred to as the "Se
 (June 25, 1947, ch. 125, §32, as added Pub. L. 104–170, title II, §210(j), Aug. 3, 1996, 110 Stat. 1501.)
 
 #### References in Text
+
+Section 2 of Public Law 89–106, referred to in subsec. (a)(1), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.
 
 Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (a)(1), was classified to section 5882 of this title prior to repeal by Pub. L. 104–127, title VIII, §862(a), Apr. 4, 1996, 110 Stat. 1174.
 

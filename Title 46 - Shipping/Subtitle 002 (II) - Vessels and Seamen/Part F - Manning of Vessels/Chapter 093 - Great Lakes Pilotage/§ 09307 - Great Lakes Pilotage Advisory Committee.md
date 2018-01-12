@@ -40,7 +40,7 @@
 
 (2) The Secretary shall consider the information, advice, and recommendations of the Committee in formulating policy regarding matters affecting Great Lakes pilotage.
 
-(3) Any recommendations to the Secretary under subsection (a)(2) must have been approvedby at least all but one of the members then serving on the committee.
+(3) Any recommendations to the Secretary under subsection (a)(2) must have been approved by at least all but one of the members then serving on the committee.
 
 (e)(1) A member of the Committee, when attending meetings of the Committee or when otherwise engaged in the business of the Committee, is entitled to receive—
 

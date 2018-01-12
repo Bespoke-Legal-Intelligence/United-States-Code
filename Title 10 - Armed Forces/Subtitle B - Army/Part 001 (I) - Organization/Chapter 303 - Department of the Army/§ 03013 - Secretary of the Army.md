@@ -70,11 +70,47 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328 inserted "The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience." after first sentence.
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328 inserted "The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified forthe position by reason of background and experience, including persons with appropriate management or leadership experience." after first sentence.
 
 <b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out "(to the maximum extent practicable)" after "fulfill".
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted "five years" for "10 years".
+
+#### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
+
+Pub. L. 115–91, div. A, title V, §514, Dec. 12, 2017, 131 Stat. 1378, provided that:
+
+"(a)
+
+Pilot Program Authorized.—The Secretary of the Army may carry out a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard.
+
+"(b)
+
+Objectives of Pilot Program.—The Secretary of the Army shall design any pilot program conducted under this section to determine the following:
+
+&emsp;"(1) The feasibility and effectiveness of hiring retired senior enlisted members of the Army National Guard who have retired within the previous two years to serve as recruiters.
+
+&emsp;"(2) The merits of hiring such retired senior enlisted members as contractors or as employees of the Department of Defense.
+
+&emsp;"(3) The best method of providing a competitive compensation package for such retired senior enlisted members.
+
+&emsp;"(4) The merits of requiring such retired senior enlisted members to wear a military uniform while performing recruiting duties under the pilot program.
+
+"(c)
+
+Consultation.—In developing a pilot program under this section, the Secretary of the Army shall consult with the operators of a previous pilot program carried out by the Army involving the use of contract recruiters.
+
+"(d)
+
+Commencement and Duration.—The Secretary of the Army may commence a pilot program under this section on or after January 1, 2018, and all activities under such a pilot program shall terminate no later than December 31, 2020.
+
+"(e)
+
+Funding Source.—If a pilot program is conducted under this section, the Secretary of the Army shall use funds otherwise available for the National Guard Bureau to carry out the program.
+
+"(f)
+
+Reporting Requirement.—If a pilot program is conducted under this section, the Secretary of the Army shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing an evaluation of the success of the pilot program, including the determinations described in subsection (b). The report shall be submitted not later than January 1, 2019."
 
 #### Restructuring of the Distributed Common Ground System of the Army
 
@@ -130,13 +166,13 @@ Interim report on pilot program.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than one year after the date on which the pilot program under subsection (b) commences, the Secretary shall submitto the congressional committees specified in paragraph (1) a report on the pilot program.
+In general.—Not later than one year after the date on which the pilot program under subsection (b) commences, the Secretary shall submit to the congressional committees specified in paragraph (1) a report on the pilot program.
 
 &emsp;&emsp;"(B)
 
 Elements.—The report under subparagraph (A) shall include each of the following:
 
-&emsp;&emsp;&emsp;"(i) An analysis of the effects that consolidated \[sic\] recruiting efforts has \[sic\] on the overall ability of recruiters to attract and place qualified candidates.
+&emsp;&emsp;&emsp;"(i) An analysis of the effects that consolidated recruiting efforts has \[sic\] on the overall ability of recruiters to attract and place qualified candidates.
 
 &emsp;&emsp;&emsp;"(ii) A determination of the extent to which consolidating recruiting efforts affects efficiency and recruiting costs.
 
@@ -246,7 +282,7 @@ Progress Reports.—Not later than February 15, 2010, and February 15, 2011, the
 
 #### Selection of Military Installations To Serve as Locations of Brigade Combat Teams
 
-Pub. L. 111–84, div. B, title XXVIII, §2825, Oct. 28, 2009, 123 Stat. 2668, provided that: "In selecting the militaryinstallations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units."
+Pub. L. 111–84, div. B, title XXVIII, §2825, Oct. 28, 2009, 123 Stat. 2668, provided that: "In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units."
 
 #### Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades
 
@@ -344,7 +380,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 "(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training exceptto the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
+&emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
 &emsp;"(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 

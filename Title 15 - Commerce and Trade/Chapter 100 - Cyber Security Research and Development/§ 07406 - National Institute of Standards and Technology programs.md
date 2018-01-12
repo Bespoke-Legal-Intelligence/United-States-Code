@@ -28,7 +28,7 @@
 
 #### (4) Dissemination of standards and related materials
 
-&emsp;The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.
+&emsp;The Director of the National Institute of Standards and Technology shall ensure thatFederal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.
 
 #### (5) Agency use requirements
 

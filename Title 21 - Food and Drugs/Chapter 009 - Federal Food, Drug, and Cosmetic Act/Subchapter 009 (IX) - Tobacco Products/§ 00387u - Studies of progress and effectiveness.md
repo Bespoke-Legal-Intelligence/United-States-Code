@@ -22,7 +22,7 @@ Not later than 5 years after June 22, 2009, the Comptroller General of the Unite
 
 #### (c) Public availability
 
-The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection <sup>1</sup> (a) and (b) available to the public, including by posting such reports on the respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
+The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection <sup>1</sup> (a) and (b) available to the public, including by posting such reports onthe respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
 
 (Pub. L. 111–31, div. A, title I, §106, June 22, 2009, 123 Stat. 1841.)
 

@@ -28,7 +28,7 @@ Elements of training.—Any training conducted pursuant to paragraph (1) shall, 
 
 Authority To Pay Training and Exercise Expenses.—Under regulations prescribed pursuant to subsection (e), the Secretary of a military department or the commander of a combatant command may pay, or authorize payment for, any of the following expenses:
 
-&emsp;(1) Expenses of training forces assigned or allocated to that command in conjunctionwith training, and training with, the military forces or other security forces of a friendly foreign country under subsection (a).
+&emsp;(1) Expenses of training forces assigned or allocated to that command in conjunction with training, and training with, the military forces or other security forces of a friendly foreign country under subsection (a).
 
 &emsp;(2) Expenses of deploying such forces for that training.
 
@@ -70,7 +70,7 @@ In general.—The Secretary of Defense shall prescribe regulations for the admin
 
 Elements.—The regulations required under this section shall provide the following:
 
-&emsp;&emsp;(A) A requirement that training and exercise activities may be carried out under this section only with the prior approval of the Secretary.
+&emsp;&emsp;(A) A requirement that training and exercise activities may be carried out under thissection only with the prior approval of the Secretary.
 
 &emsp;&emsp;(B) Accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
 

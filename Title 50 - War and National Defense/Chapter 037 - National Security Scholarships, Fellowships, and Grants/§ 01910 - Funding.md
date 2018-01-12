@@ -12,7 +12,7 @@ There is authorized to be appropriated from, and may be obligated from, the Fund
 
 In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
 
-(Pub. L. 102–183, title VIII, §810, as added Pub. L. 103–178, title III, §311(c), Dec. 3, 1993, 107 Stat.2037; amended Pub. L. 108–487, title VI, §601(a), Dec. 23, 2004, 118 Stat. 3951.)
+(Pub. L. 102–183, title VIII, §810, as added Pub. L. 103–178, title III, §311(c), Dec. 3, 1993, 107 Stat. 2037; amended Pub. L. 108–487, title VI, §601(a), Dec. 23, 2004, 118 Stat. 3951.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Defense.—A good faith reliance on a court order under this chapter, a request 
 
 (f)
 
-Communications Assistance Enforcement Orders.—Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
+Communications Assistance Enforcement Orders.—Pursuant to section 2522, an order maybe issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
 (Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
 
@@ -45,6 +45,10 @@ Subsec. (d). Pub. L. 107–56, §216(c)(5), struck out "the terms of" before "a 
 Subsec. (d). Pub. L. 100–690, §7092(b)(1), inserted "or request pursuant to section 3125 of this title" after "this chapter".
 
 Subsec. (e). Pub. L. 100–690, §7092(b)(2), inserted "under this chapter, a request pursuant to section 3125 of this title" after "court order".
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.
 
 #### Assistance to Law Enforcement Agencies
 

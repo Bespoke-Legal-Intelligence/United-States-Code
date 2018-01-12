@@ -26,7 +26,7 @@ Each futures commission merchant shall designate an individual to serve as its C
 
 #### (e) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof), involving the application of—
+Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable toany futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof), involving the application of—
 
 &emsp;(1) section 78h, section 78o(c)(3), and section 78q of title 15 and the rules and regulations thereunder related to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting or other financial responsibility rules (as defined in section 78c(a)(40) of title 15), involving security futures products; and
 
@@ -88,7 +88,7 @@ Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and p
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale ofany commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
 
 Subsec. (a)(1). Pub. L. 111–203, §749(a)(1)(B), struck out "or introducing broker" after "merchant".
 

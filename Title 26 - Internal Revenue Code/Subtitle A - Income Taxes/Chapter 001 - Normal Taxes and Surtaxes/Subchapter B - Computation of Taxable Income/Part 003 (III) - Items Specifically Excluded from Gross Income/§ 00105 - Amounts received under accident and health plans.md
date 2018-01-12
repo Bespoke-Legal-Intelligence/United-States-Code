@@ -34,7 +34,7 @@ For purposes of section 213(a) (relating to medical, dental, etc., expenses) amo
 
 #### (g) Self-employed individual not considered an employee
 
-For purposes of this section, the term "employee" does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
+For purposes of this section, the term "employee" does not include an individual who is anemployee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 
 #### (h) Amount paid to highly compensated individuals under a discriminatory self-insured medical expense reimbursement plan
 
@@ -188,7 +188,7 @@ Subsec. (h)(3)(B)(v). Pub. L. 97–34, §111(b)(4), substituted "section 911(d)(
 
 <b>1980</b>—Subsec. (h)(3)(A). Pub. L. 96–222, §103(a)(13)(B), substituted "highly compensated individuals" for "highly compensated participants".
 
-Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
+Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to all other participants (or which otherwise fails to satisfythe requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
 
 Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments by substituting in heading "controlled groups, etc." for "controlled groups", and by substituting in text "subsection (b), (c), or (m) of section 414" for "subsection (b) or (c) of section 414".
 
@@ -316,7 +316,7 @@ Pub. L. 94–455, title V, §505(c), Oct. 4, 1976, 90 Stat. 1567, as amended by 
 
 #### Special Rule for Coordination With Section 72 of This Title
 
-Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III,§301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
+Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
 
 &emsp;"(1) retired on disability before January 1, 1977, and
 

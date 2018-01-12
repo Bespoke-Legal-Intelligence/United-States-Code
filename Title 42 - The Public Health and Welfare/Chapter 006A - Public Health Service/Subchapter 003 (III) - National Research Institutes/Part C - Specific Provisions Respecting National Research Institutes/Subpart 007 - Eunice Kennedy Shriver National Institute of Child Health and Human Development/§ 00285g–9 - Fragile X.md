@@ -18,7 +18,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (B) Peer review requirement
 
-&emsp;&emsp;The Director of the Institute shall make a grant to, or enter into a contract with, an entity for purposes of establishing a center under paragraph (1) only if the grant or contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title.
+&emsp;&emsp;The Director of the Institute shall make a grant to, or enter into a contract with, an entity for purposes of establishing a centerunder paragraph (1) only if the grant or contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title.
 
 #### (3) Activities
 

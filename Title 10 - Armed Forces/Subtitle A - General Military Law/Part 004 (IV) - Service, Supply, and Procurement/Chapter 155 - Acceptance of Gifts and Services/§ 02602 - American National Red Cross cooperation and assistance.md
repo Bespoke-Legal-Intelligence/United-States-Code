@@ -1,6 +1,6 @@
 ### §2602. American National Red Cross: cooperation and assistance
 
-(a) Whenever the President finds it necessary, he may accept the cooperation and assistance of the American National Red Cross, and employ it under the armed forces under regulations to be prescribed by the Secretary of Defense.
+(a) Whenever the President finds it necessary, he may accept the cooperation and assistance ofthe American National Red Cross, and employ it under the armed forces under regulations to be prescribed by the Secretary of Defense.
 
 (b) Personnel of the American National Red Cross who are performing duties in connection with its cooperation and assistance under subsection (a) may be furnished—
 

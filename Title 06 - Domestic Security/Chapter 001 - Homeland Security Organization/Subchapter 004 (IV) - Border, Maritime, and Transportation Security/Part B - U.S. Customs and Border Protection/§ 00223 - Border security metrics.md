@@ -218,7 +218,7 @@ In this section:
 
 &emsp;&emsp;(E) A response rate, which compares the ability of the maritime security components of the Department of Homeland Security to respond to and resolve known maritime threats, whether inside or outside a transit zone, by placing assets on-scene, to the total number of events with respect to which the Department has known threat information.
 
-&emsp;&emsp;(F) An intergovernmental response rate, which compares the ability of the maritime security components of the Department of Homeland Security or other United StatesGovernment entities to respond to and resolve actionable maritime threats, whether inside or outside a transit zone, with the number of such threats detected.
+&emsp;&emsp;(F) An intergovernmental response rate, which compares the ability of the maritime security components of the Department of Homeland Security or other United States Government entities to respond to and resolve actionable maritime threats, whether inside or outside a transit zone, with the number of such threats detected.
 
 #### (2) Metrics consultation
 

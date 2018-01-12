@@ -24,7 +24,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold the other individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
 
-&emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) thebenefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
+&emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) the benefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
 
 > &emsp;then the other individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxable year to the extent such liability is attributable to such understatement.
 
@@ -44,7 +44,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (2) Burden of proof
 
-&emsp;Except as provided in subparagraph (A)(ii) or (C) of paragraph (3), each individual who elects the application of this subsection shall have the burden of proof with respect to establishing the portion of any deficiency allocable to such individual.
+&emsp;Except as provided in subparagraph (A)(ii) or (C) of paragraph (3), each individual who electsthe application of this subsection shall have the burden of proof with respect to establishing the portion of any deficiency allocable to such individual.
 
 #### (3) Election
 
@@ -122,7 +122,7 @@ For purposes of subsection (c)—
 
 #### (B) Exception where other spouse benefits
 
-&emsp;&emsp;Under rules prescribed by the Secretary, an item otherwise allocable to an individual under subparagraph (A) shall be allocated to the other individual filing the joint return to the extent the item gave rise to a tax benefit on the joint return to the other individual.
+&emsp;&emsp;Under rules prescribed by the Secretary, an item otherwise allocable to an individualunder subparagraph (A) shall be allocated to the other individual filing the joint return to the extent the item gave rise to a tax benefit on the joint return to the other individual.
 
 #### (C) Exception for fraud
 
@@ -168,7 +168,7 @@ For purposes of subsection (c)—
 
 &emsp;The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended—
 
-&emsp;&emsp;(A) for the period during which the Secretary is prohibited by paragraph (1)(B) fromcollecting by levy or a proceeding in court and for 60 days thereafter, and
+&emsp;&emsp;(A) for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter, and
 
 &emsp;&emsp;(B) if a waiver under paragraph (5) is made, from the date the claim for relief was filed until 60 days after the waiver is filed with the Secretary.
 
@@ -190,7 +190,7 @@ For purposes of subsection (c)—
 
 #### (6) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United StatesCode, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
 
 #### (f) Equitable relief
 
@@ -256,7 +256,7 @@ Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(A)\], inse
 
 Subsec. (e)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(B)\], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "The individual may petition the Tax Court (and the Tax Court shall have jurisdiction) to determine the appropriate relief available to the individual under this section if such petition is filed during the 90-day period beginning on the date on which the Secretary mails by certified or registered mail a notice to such individual of the Secretary's determination of relief available to the individual. Notwithstanding the preceding sentence, an individual may file such petition at any time after the date which is 6 months after the date such election is filed with the Secretary and before the close of such 90-day period."
 
-Subsec. (e)(1)(B)(i). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(C)\], substituted "until the close of the 90th day referred to in subparagraph (A)(ii)" for "until the expiration of the 90-day period described in subparagraph (A)" and inserted "under subparagraph (A)" after "filed with the Tax Court".
+Subsec. (e)(1)(B)(i). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(C)\], substituted "until the close of the 90thday referred to in subparagraph (A)(ii)" for "until the expiration of the 90-day period described in subparagraph (A)" and inserted "under subparagraph (A)" after "filed with the Tax Court".
 
 Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(ii)\], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter."
 

@@ -124,7 +124,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 > The owner or operator of the establishment, or such accredited person, as the case may be, shall respond to such a request not later than 60 days after receiving such request.
 
-(iii)(I) The compliance data to be submitted by the owner or operator of a device establishment in response to a request under clause (ii)(I) are data describing whether the quality controls of the establishment have been sufficient for ensuring consistent compliance with current good manufacturing practice within the meaning of section 351(h) of this title and with other applicable provisions of this chapter. Such data shall include complete reports of inspectional findings regarding good manufacturing practice or other quality control audits that, during the preceding 2-year period, were conducted at the establishment by persons other than the owner or operator of the establishment, together with all other compliance data the Secretary deems necessary. Data under the preceding sentence shall demonstrate to the Secretary whether the establishment has facilitated consistent compliance by promptly correcting any compliance problems identified in such inspections.
+(iii)(I) The compliance data to be submitted by the owner or operator of a device establishment in response to a request under clause (ii)(I) are data describing whether the quality controls of the establishment have been sufficient for ensuring consistent compliance with current good manufacturing practice within the meaning of section 351(h) of this title and with other applicable provisions of this chapter. Such data shall include complete reports of inspectional findings regarding good manufacturing practice or other quality control audits that, during the preceding 2-year period, were conducted at the establishment by persons other than the owner or operator of the establishment, together with all other compliance data the Secretary deems necessary. Data under the preceding sentenceshall demonstrate to the Secretary whether the establishment has facilitated consistent compliance by promptly correcting any compliance problems identified in such inspections.
 
 (II) A request to an accredited person under clause (ii)(II) may not seek any information that is not required to be maintained by such person in records under subsection (f)(1).
 
@@ -152,7 +152,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (F) For the purpose of setting risk-based inspectional priorities, the Secretary shall accept voluntary submissions of reports of audits assessing conformance with appropriate quality systems standards set by the International Organization for Standardization (ISO) and identified by the Secretary in public notice. If the owner or operator of an establishment elects to submit audit reports under this subparagraph, the owner or operator shall submit all such audit reports with respect to the establishment during the preceding 2-year periods.
 
-(8) Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engagesthe services of the accredited person, and shall be paid by the person who engages such services.
+(8) Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
 
 (9) Nothing in this subsection affects the authority of the Secretary to inspect any device establishment pursuant to this chapter.
 
@@ -176,7 +176,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(iii) The term "adjusted base amount", with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
 
-(11) The authority provided by this subsection terminates on October 1, 2017.
+(11) The authority provided by this subsection terminates on October 1, 2022.
 
 (12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
 
@@ -198,9 +198,49 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section 383(b) of this title between the Secretary and a foreign country.
 
-(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067.)
+(15)(A) Notwithstanding any other provision of this subsection, the Secretary may recognize auditing organizations that are recognized by organizations established by governments to facilitate international harmonization for purposes of conducting inspections of—
+
+&emsp;(i) establishments that manufacture, prepare, propagate, compound, or process devices (other than types of devices licensed under section 262 of title 42), as required under section 360(h) of this title; or
+
+&emsp;(ii) establishments required to register pursuant to section 360(i) of this title.
+
+(B) Nothing in this paragraph affects—
+
+&emsp;(i) the authority of the Secretary to inspect any device establishment pursuant to this chapter; or
+
+&emsp;(ii) the authority of the Secretary to determine the official classification of an inspection.
+
+#### (h) Improvements to inspections process for device establishments
+
+(1) In the case of inspections other than for-cause inspections, the Secretary shall review processes and standards applicable to inspections of domestic and foreign device establishments in effect as of August 18, 2017, and update such processes and standards through the adoption of uniform processes and standards applicable to such inspections. Such uniform processes and standards shall provide for—
+
+&emsp;(A) exceptions to such processes and standards, as appropriate;
+
+&emsp;(B) announcing the inspection of the establishment within a reasonable time before such inspection occurs, including by providing to the owner, operator, or agent in charge of the establishment a notification regarding the type and nature of the inspection;
+
+&emsp;(C) a reasonable estimate of the timeframe for the inspection, an opportunity for advance communications between the officers or employees carrying out the inspection under subsection (a)(1) and the owner, operator, or agent in charge of the establishment concerning appropriate working hours during the inspection, and, to the extent feasible, advance notice of some records that will be requested; and
+
+&emsp;(D) regular communications during the inspection with the owner, operator, or agent in charge of the establishment regarding inspection status, which may be recorded by either party with advance notice and mutual consent.
+
+(2)(A) The Secretary shall, with respect to a request described in subparagraph (B), provide nonbinding feedback with respect to such request not later than 45 days after the Secretary receives such request.
+
+(B) A request described in this subparagraph is a request for feedback—
+
+&emsp;(i) that is made by the owner, operator, or agent in charge of such establishment in a timely manner; and
+
+&emsp;(ii) with respect to actions proposed to be taken by a device establishment in a response to a report received by such establishment pursuant to subsection (b) that involve a public health priority, that implicate systemic or major actions, or relate to emerging safety issues (as determined by the Secretary).
+
+(3) Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+
+(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067; Pub. L. 115–52, title VII, §§702(a), 703, 705, Aug. 18, 2017, 131 Stat. 1055–1057.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g)(11). Pub. L. 115–52, §703, substituted "October 1, 2022" for "October 1, 2017".
+
+Subsec. (g)(15). Pub. L. 115–52, §705, added par. (15).
+
+Subsec. (h). Pub. L. 115–52, §702(a), added subsec. (h).
 
 <b>2012</b>—Subsec. (a)(4). Pub. L. 112–144, §706, added par. (4).
 
@@ -315,6 +355,52 @@ Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain al
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Guidance
+
+Pub. L. 115–52, title VII, §702(b), Aug. 18, 2017, 131 Stat. 1055, provided that:
+
+"(1)
+
+Draft guidance.—Not later than 18 months after the date of enactment of this Act \[Aug. 18, 2017\], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue draft guidance that—
+
+&emsp;"(A) specifies how the Food and Drug Administration will implement the processes and standards described in paragraph (1) of subsection (h) of section 704 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374), as added by subsection (a), and the requirements described in paragraph (2) of such subsection (h);
+
+&emsp;"(B) provides for standardized methods for communications described in such paragraphs;
+
+&emsp;"(C) establishes, with respect to inspections of both domestic and foreign device establishments (as referred to in section 510(h)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360(h)(2)\], as amended by subsection (a) \[of section 701 of Pub. L. 115–52\]), a standard timeframe for such inspections—
+
+&emsp;&emsp;"(i) that occurs over consecutive days; and
+
+&emsp;&emsp;"(ii) to which each investigator conducting such an inspection shall adhere unless the investigator identifies to the establishment involved a reason that more time is needed to conduct such investigation; and
+
+&emsp;"(D) identifies practices for investigators and device establishments to facilitate the continuity of inspections of such establishments.
+
+"(2)
+
+Final guidance.—Not later than 1 year after providing notice and opportunity for public comment on the draft guidance issued under paragraph (1), the Secretary of Health and Human Services shall issue final guidance to implement subsection (h) of section 704 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374), as added by subsection (a)."
+
+#### Inspections
+
+Pub. L. 115–52, title VIII, §806, Aug. 18, 2017, 131 Stat. 1073, provided that:
+
+"Within 6 months of the date of enactment of this Act \[Aug. 18, 2017\], the Secretary of Health and Human Services shall develop and implement a protocol for expediting review of timely responses to reports of observations from an inspection under section 704 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374). Such protocol shall—
+
+&emsp;"(1) apply to responses to such reports pertaining to applications submitted under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355)—
+
+&emsp;&emsp;"(A) for which the approval is dependent upon remediation of conditions identified in the report;
+
+&emsp;&emsp;"(B) for which concerns related to observations from an inspection under such section 704 are the only barrier to approval; and
+
+&emsp;&emsp;"(C) where the drug that is the subject of the application is a drug—
+
+&emsp;&emsp;&emsp;"(i) for which there are not more than 3 other approved applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that reference the same listed drug and for which there are less than 6 abbreviated new drug applications tentatively approved; or
+
+&emsp;&emsp;&emsp;"(ii) that is included on the list under section 506E of such Act (21 U.S.C. 356e);
+
+&emsp;"(2) address expedited re-inspection of facilities, as appropriate; and
+
+&emsp;"(3) establish a 6-month timeline for completion of review of such responses to such reports."
 
 #### Authority of Secretary Prior to October 10, 1962
 

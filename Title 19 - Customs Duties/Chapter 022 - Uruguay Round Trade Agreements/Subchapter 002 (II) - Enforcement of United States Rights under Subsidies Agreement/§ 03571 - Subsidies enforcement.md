@@ -30,7 +30,7 @@ The administering authority shall provide information to the public upon request
 
 #### (d) Initiation of section 2411 investigation
 
-On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c), such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2), the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 (19 U.S.C. 2412(b)(1)),whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
+On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c), such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2), the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 (19 U.S.C. 2412(b)(1)), whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
 
 #### (e) Nonactionable subsidies
 
@@ -46,7 +46,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (C) Action by Trade Representative
 
-&emsp;&emsp;(i) If the Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (A) or (B), and such other information as the Trade Representative may have or obtain, and after consulting with the interested party referred to in subparagraph (B) and appropriate domestic industries, determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the Trade Representative shall invoke the procedures of Article 8.4 or 8.5 of the Subsidies Agreement.
+&emsp;&emsp;(i) If the Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (A) or (B), and such other information as the Trade Representative may have or obtain, and afterconsulting with the interested party referred to in subparagraph (B) and appropriate domestic industries, determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the Trade Representative shall invoke the procedures of Article 8.4 or 8.5 of the Subsidies Agreement.
 
 &emsp;&emsp;(ii) For purposes of clause (i), the Trade Representative shall determine that there is reason to believe that a violation of Article 8 exists in any case in which the Trade Representative determines that a notified subsidy program or a subsidy granted pursuant to a notified subsidy program does not satisfy the conditions and criteria required for a nonactionable subsidy program under this Act, the Subsidies Agreement, and the statement of administrative action approved under section 3511(a) of this title.
 
@@ -66,7 +66,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (C) Action by Trade Representative
 
-&emsp;&emsp;The Trade Representative, on the basis of the notification and information provided bythe administering authority pursuant to subparagraph (B), and such other information as the Trade Representative may have or obtain, shall determine as expeditiously as possible, but not later than 30 days after receipt of the notification provided by the administering authority, if there is reason to believe that serious adverse effects exist resulting from the subsidy program which is the subject of the administering authority's notification. The Trade Representative shall make an affirmative determination regarding the existence of such serious adverse effects unless the Trade Representative finds that the notification of the administering authority is not supported by the facts.
+&emsp;&emsp;The Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (B), and such other information as the Trade Representative may have or obtain, shall determine as expeditiously as possible, but not later than 30 days after receipt of the notification provided by the administering authority, if there is reason to believe that serious adverse effects exist resulting from the subsidy program which is the subject of the administering authority's notification. The Trade Representative shall make an affirmative determination regarding the existence of such serious adverse effects unless the Trade Representative finds that the notification of the administering authority is not supported by the facts.
 
 #### (D) Consultations
 
@@ -88,7 +88,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (F) Noncompliance with Committee recommendation
 
-&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
+&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
 
 #### (f) Notification, consultation, and publication
 

@@ -18,5 +18,5 @@ Definitions.—In this section, the terms "assistive technology", "assistive tec
 
 #### Prior Provisions
 
-A prior section 1582, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, §1(35), 72 Stat. 1456; Sept. 23, 1959, Pub. L. 86–377, §3, 73 Stat. 701, directed Secretary of Defense to report annually to Congress on civilian research and development personnel employed by Department of Defense under former section 1581 of this title, prior to repeal by Pub. L. 97–295, §1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
+A prior section 1582, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, §1(35), 72 Stat.1456; Sept. 23, 1959, Pub. L. 86–377, §3, 73 Stat. 701, directed Secretary of Defense to report annually to Congress on civilian research and development personnel employed by Department of Defense under former section 1581 of this title, prior to repeal by Pub. L. 97–295, §1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
 

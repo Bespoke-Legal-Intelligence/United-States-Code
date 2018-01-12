@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 
@@ -214,7 +214,7 @@ Subsec. (b)(1). Pub. L. 110–343, §512(a)(8), substituted "mental health or su
 
 Subsec. (b)(2). Pub. L. 110–343, §512(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits)."
 
-Subsec. (c)(1)(B). Pub. L. 110–343, §512(a)(3)(A), inserted "(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)" after "of at least 2" and struck out "and whoemploys at least 2 employees on the first day of the plan year" after "preceding calendar year".
+Subsec. (c)(1)(B). Pub. L. 110–343, §512(a)(3)(A), inserted "(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)" after "of at least 2" and struck out "and who employs at least 2 employees on the first day of the plan year" after "preceding calendar year".
 
 Subsec. (c)(2). Pub. L. 110–343, §512(a)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent."
 

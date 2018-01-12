@@ -54,7 +54,7 @@ In making or guaranteeing a loan under this subchapter for purchase of a farm or
 
 &emsp;Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriate level of insurance to be required under paragraph (1).
 
-(Pub. L. 87–128, title III, §303, Aug. 8, 1961, 75 Stat. 307; Pub. L. 87–703, title IV, §401(1), Sept. 27, 1962, 76 Stat. 631; Pub. L. 90–488, §1, Aug. 15, 1968, 82 Stat. 770; Pub. L. 95–113, title XIV, §1448(a), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–438, §1(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L.97–98, title XVI, §1602, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 104–127, title VI, §602(a), Apr. 4, 1996, 110 Stat. 1085; Pub. L. 107–171, title V, §5002, May 13, 2002, 116 Stat. 341.)
+(Pub. L. 87–128, title III, §303, Aug. 8, 1961, 75 Stat. 307; Pub. L. 87–703, title IV, §401(1), Sept. 27, 1962, 76 Stat. 631; Pub. L. 90–488, §1, Aug. 15, 1968, 82 Stat. 770; Pub. L. 95–113, title XIV, §1448(a), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–438, §1(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–98, title XVI, §1602, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 104–127, title VI, §602(a), Apr. 4, 1996, 110 Stat. 1085; Pub. L. 107–171, title V, §5002, May 13, 2002, 116 Stat. 341.)
 
 #### Amendments
 

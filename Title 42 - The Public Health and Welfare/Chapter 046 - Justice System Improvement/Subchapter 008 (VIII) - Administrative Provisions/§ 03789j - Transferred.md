@@ -1,0 +1,6 @@
+### §3789j. Transferred
+
+#### Codification
+
+Section 3789j was editorially reclassified as section 10233 of Title 34, Crime Control and Law Enforcement.
+

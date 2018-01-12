@@ -36,7 +36,7 @@
 
 (d)(1) The Secretary may assess a charge for any storage or disposal provided under this section. Any such charge shall be on a reimbursable cost basis.
 
-(2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shallcease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
+(2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
 
 (Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, §1066(a)(25), Oct. 5, 1999, 113 Stat. 772; Pub. L. 109–364, div. A, title X, §1071(a)(21), Oct. 17, 2006, 120 Stat. 2399.)
 
@@ -44,7 +44,7 @@
 
 <b>2006</b>—Subsec. (b)(9). Pub. L. 109–364 substituted "testing material" for "testing materiel".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "apply to the following:" for "apply to—" in introductory provisions, "The" for "the" at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for "; and" at the end of par. (10).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "apply to the following:" for "apply to—" in introductory provisions, "The" for "the" at the beginning of each of pars.\(1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for "; and" at the end of par. (10).
 
 <b>1997</b>—Pub. L. 105–85, §343(g)(2), substituted "Storage, treatment, and" for "Storage and" in section catchline.
 

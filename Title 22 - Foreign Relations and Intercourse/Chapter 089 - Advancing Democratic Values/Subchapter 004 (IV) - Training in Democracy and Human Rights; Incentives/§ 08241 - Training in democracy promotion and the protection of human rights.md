@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the National Foreign Affairs Train
 
 #### (c) Report
 
-Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing adescription of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
+Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
 
 (Pub. L. 110–53, title XXI, §2141, Aug. 3, 2007, 121 Stat. 534.)
 

@@ -116,7 +116,7 @@ Management of Security Information.—In consultation with the Transportation Se
 
 &emsp;(3) in consultation with other appropriate Federal agencies and air carriers, establish policies and procedures requiring air carriers—
 
-&emsp;&emsp;(A) to use information from government agencies to identify individuals on passengerlists who may be a threat to civil aviation or national security; and
+&emsp;&emsp;(A) to use information from government agencies to identify individuals on passenger lists who may be a threat to civil aviation or national security; and
 
 &emsp;&emsp;(B) if such an individual is identified, notify appropriate law enforcement agencies, prevent the individual from boarding an aircraft, or take other appropriate action with respect to that individual; and
 
@@ -186,7 +186,7 @@ In general.—The Under Secretary shall not take an aviation security action und
 
 &emsp;&emsp;(B)
 
-Review by secretary.—Notwithstanding subparagraph (A), the Under Secretary may take such an action, after receiving a notification concerning the action from the Administrator under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
+Review by secretary.—Notwithstanding subparagraph (A), the Under Secretarymay take such an action, after receiving a notification concerning the action from the Administrator under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
 
 (m)
 
@@ -202,7 +202,7 @@ Authority of agency heads.—The head of a Federal agency shall have the same au
 
 (n)
 
-Personnel Management System.—The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may makesuch modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
+Personnel Management System.—The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
 
 (o)
 
@@ -294,7 +294,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
-&emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendationsof the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
+&emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
 &emsp;&emsp;(C) The most appropriate, practical, and cost-effective means of defending those assets against threats to their security.
 
@@ -340,7 +340,7 @@ Content.—Each progress report submitted under this subparagraph shall include,
 
 &emsp;&emsp;&emsp;&emsp;(III) An accounting of all—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) funds requested in the President's budget submitted pursuant to section 1105 of title 31 for the most recent fiscal year for transportation security, by mode;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) funds requested in the President's budget submitted pursuant tosection 1105 of title 31 for the most recent fiscal year for transportation security, by mode;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) personnel working on transportation security by mode, including the number of contractors; and
 
@@ -348,7 +348,7 @@ Content.—Each progress report submitted under this subparagraph shall include,
 
 &emsp;&emsp;&emsp;(iii)
 
-Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportationsecurity activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
+Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
 
 &emsp;&emsp;(D)
 
@@ -430,7 +430,7 @@ Content of plan.—The Plan shall include—
 
 &emsp;&emsp;(A) a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
 
-&emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees ifthe point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
+&emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
 
 &emsp;&emsp;(C) a reasonable deadline by which the Plan will be implemented; and
 
@@ -728,7 +728,7 @@ Pub. L. 114–4, title V, §536, Mar. 4, 2015, 129 Stat. 67, provided that:
 
 "(b) The airport authority or air carrier operator that sponsors the company under the Registered Traveler program shall hereafter be known as the 'Sponsoring Entity'.
 
-"(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the proceduresused by the company to comply with such requirements."
+"(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the procedures used by the company to comply with such requirements."
 
 #### Registered Traveler Programs and Biometrically-Secure Cards
 
@@ -790,7 +790,7 @@ Pub. L. 108–334, title V, §517, Oct. 18, 2004, 118 Stat. 1318.
 
 #### Registered Traveler Program Fee
 
-Pub. L. 109–90, title V, §540, Oct. 18, 2005, 119 Stat. 2088, provided that: "For fiscal year 2006 and thereafter, notwithstanding section 553 of title 5, United States Code, the Secretary of Homeland Security shall impose a fee for any registered traveler program undertaken by the Department of Homeland Security by notice in the Federal Register, and may modify the fee from time to time by notice in the Federal Register: <i>Provided</i>, That such fees shall not exceed the aggregate costs associated with the program and shall be credited to the Transportation Security Administration registered traveler fee account, to be available until expended."
+Pub. L. 109–90, title V, §540, Oct. 18, 2005, 119 Stat. 2088, provided that: "For fiscal year 2006 and thereafter, notwithstanding section 553 of title 5, United States Code, the Secretary of Homeland Security shall imposea fee for any registered traveler program undertaken by the Department of Homeland Security by notice in the Federal Register, and may modify the fee from time to time by notice in the Federal Register: <i>Provided</i>, That such fees shall not exceed the aggregate costs associated with the program and shall be credited to the Transportation Security Administration registered traveler fee account, to be available until expended."
 
 #### Enhanced Security Measures
 

@@ -6,7 +6,7 @@ There shall be an Executive Committee of the Board (referred to in this chapter 
 
 #### (b) Election to membership; term of office; eligibility for reelection
 
-At each of its annual meetings the Board shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person, other than the Director, who has been a member of the Executive Committee for six consecutive years shall thereafter be ineligible forservice as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
+At each of its annual meetings the Board shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person, other than the Director, who has been a member of the Executive Committee for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
 #### (c) Term of vacancy appointment
 
@@ -34,7 +34,7 @@ Subsec. (b)(1). Pub. L. 86–232 authorized Board to have an Executive Committee
 
 #### Transfer of Functions
 
-Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and 23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
+Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and 23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

@@ -16,7 +16,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (b) Development of periodic Renewable Resource Assessment through survey and analysis of conditions; implementation; authorization of appropriations
 
-(1) To ensure the availability of adequate data and scientific information for development of the periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other facts as may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
+(1) To ensure the availability of adequate data and scientific information for development of the periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other factsas may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
 
 (2) In implementing this subsection, the Secretary is authorized to develop and implement improved methods of survey and analysis of forest inventory information, for which purposes there are hereby authorized to be appropriated annually $10,000,000.
 
@@ -70,7 +70,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) reviewing existing information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) reviewing the nature and findings of all research and monitoring efforts conducted under the Program and any other relevant research and monitoring efforts related to the effects of atmospheric pollution on forest ecosystem; and
+&emsp;&emsp;(ii) reviewing the nature and findings of all research and monitoring efforts conducted under the Program and any other relevant research and monitoring efforts related tothe effects of atmospheric pollution on forest ecosystem; and
 
 &emsp;&emsp;(iii) making final recommendations for solving or mitigating problems stemming from the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems.
 
@@ -126,7 +126,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (C) Compilation of inventory
 
-&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to the public a compilation of all data collected for that year from measurements of sampleplots as well as any analysis made of the samples.
+&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to the public a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
 
 #### (3) 5-year reports
 
@@ -144,7 +144,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (5) Protection for private property rights
 
-&emsp;The Secretary shall obtain authorization from property owners prior to collecting data from sample plots located on private property pursuant to paragraphs (2) and (3).
+&emsp;The Secretary shall obtain authorization from property owners prior to collecting datafrom sample plots located on private property pursuant to paragraphs (2) and (3).
 
 #### (6) Strategic plan
 
@@ -204,7 +204,7 @@ Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, provided that
 
 "(a)
 
-Revision Required.—Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\],the Secretary \[of Agriculture\] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)) to address the requirements imposed by subsection (b).
+Revision Required.—Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)) to address the requirements imposed by subsection (b).
 
 "(b)
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) require each chemical facility of interest to submit a Top-Screen and any other information the Secretary determines necessary to enable the Department to assess the security risks associated with the facility;
 
-&emsp;&emsp;(C) establish risk-based performance standards designed to address high levels ofsecurity risk at covered chemical facilities; and
+&emsp;&emsp;(C) establish risk-based performance standards designed to address high levels of security risk at covered chemical facilities; and
 
 &emsp;&emsp;(D) require each covered chemical facility to—
 
@@ -34,7 +34,7 @@
 
 #### (2) Employee input
 
-&emsp;To the greatest extent practicable, a facility's security vulnerability assessment and site security plan shall include input from at least 1 facility employee and, where applicable, 1 employee representative from the bargaining agent at that facility, each of whom possesses, in the determination of the facility's security officer, relevant knowledge, experience, training, or education as pertains to matters of site security.
+&emsp;To the greatest extent practicable, a facility's security vulnerability assessment and site security plan shall include input from at least 1 facility employee and, where applicable, 1 employee representative from the bargaining agent at that facility, each of whom possesses,in the determination of the facility's security officer, relevant knowledge, experience, training, or education as pertains to matters of site security.
 
 #### (c) Approval or disapproval of site security plans
 
@@ -114,7 +114,7 @@
 
 #### (C) Certification
 
-&emsp;&emsp;The owner or operator of an expedited approval facility shall submit to the Secretarya certification, signed under penalty of perjury, that—
+&emsp;&emsp;The owner or operator of an expedited approval facility shall submit to the Secretary a certification, signed under penalty of perjury, that—
 
 &emsp;&emsp;&emsp;(i) the owner or operator is familiar with the requirements of this subchapter and part 27 of title 6, Code of Federal Regulations, or any successor thereto, and the site security plan being submitted;
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(III) the owner or operator has provided an explanation of how the site security plan meets the risk-based performance standards for any material deviation;
 
-&emsp;&emsp;&emsp;(iv) the owner or operator has visited, examined, documented, and verified that the expedited approval facility meets the criteria set forth in the site security plan;
+&emsp;&emsp;&emsp;(iv) the owner or operator has visited, examined, documented, and verified thatthe expedited approval facility meets the criteria set forth in the site security plan;
 
 &emsp;&emsp;&emsp;(v) the expedited approval facility has implemented all of the required performance measures outlined in the site security plan or set out planned measures that will be implemented within a reasonable time period stated in the site security plan;
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of the Secretary requiring additional security measures or suspending a certification and recommending additional security measures under subparagraph (G), not later than 120 days after the date on which the owner or operator receives notice of the requirement for additional security measures or suspension of the certification and recommendation of additional security measures; and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a change in tiering, not later than 120 days after the date on which the owner or operator receives notice under subsection (e)(3).
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a change in tiering, not later than 120 days after the date onwhich the owner or operator receives notice under subsection (e)(3).
 
 #### (G) Facially deficient site security plans
 

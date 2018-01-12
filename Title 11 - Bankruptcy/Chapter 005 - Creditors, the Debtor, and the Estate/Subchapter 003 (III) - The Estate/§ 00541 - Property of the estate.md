@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not excess contributions (as described in section 4973(e) of the Internal Revenue Code of 1986); and
 
-&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; <sup>2</sup>
 
 &emsp;(6) funds used to purchase a tuition credit or certificate or contributed to an account in accordance with section 529(b)(1)(A) of the Internal Revenue Code of 1986 under a qualified State tuition program (as defined in section 529(b)(1) of such Code) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(6) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
 
-&emsp;&emsp;(C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+&emsp;&emsp;(C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; <sup>2</sup>
 
 &emsp;(7) any amount—
 
@@ -128,7 +128,7 @@
 
 &emsp;(A) that restricts or conditions transfer of such interest by the debtor; or
 
-&emsp;(B) that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title, or on the appointment of or taking possession by a trustee in a case under this title or a custodian before such commencement, and that effects or gives an option to effect a forfeiture, modification, or termination of the debtor's interest in property.
+&emsp;(B) that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title, or on theappointment of or taking possession by a trustee in a case under this title or a custodian before such commencement, and that effects or gives an option to effect a forfeiture, modification, or termination of the debtor's interest in property.
 
 (2) A restriction on the transfer of a beneficial interest of the debtor in a trust that is enforceable under applicable nonbankruptcy law is enforceable in a case under this title.
 
@@ -140,10 +140,6 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, §104(a), Dec. 19, 2014, 128 Stat. 4063.)
 
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -154,7 +150,7 @@ Section 541(c)(2) follows the position taken in the House bill and rejects the p
 
 Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
 
-The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interestsin mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
+The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
 
 The purpose of section 541(d) as applied to the secondary mortgage market is therefore to make certain that secondary mortgage market sales as they are currently structured are not subject to challenge by bankruptcy trustees and that purchasers of mortgages will be able to obtain the mortgages or interests in mortgages which they have purchased from trustees without the trustees asserting that a sale of mortgages is a loan from the purchaser to the seller.
 
@@ -180,13 +176,13 @@ Situations occasionally arise where property ostensibly belonging to the debtor 
 
 Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
-The estate also includes the interests of the debtor and the debtor's spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor's spouse, or as the beneficiary of a life insurance policy within 180 daysafter the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
+The estate also includes the interests of the debtor and the debtor's spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor's spouse, or as the beneficiary of a life insurance policy within 180 days after the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
 
 Subsection (b) excludes from property of the estate any power, such as a power of appointment, that the debtor may exercise solely for the benefit of an entity other than the debtor. This changes present law which excludes powers solely benefiting other persons but not other entities.
 
 Subsection (c) invalidates restrictions on the transfer of property of the debtor, in order that all of the interests of the debtor in property will become property of the estate. The provisions invalidated are those that restrict or condition transfer of the debtor's interest, and those that are conditioned on the insolvency or financial condition of the debtor, on the commencement of a bankruptcy case, or on the appointment of a custodian of the debtor's property. Paragraph (2) of subsection (c), however, preserves restrictions on a transfer of a spendthrift trust that the restriction is enforceable nonbankruptcy law to the extent of the income reasonably necessary for the support of a debtor and his dependents.
 
-Subsection (d) \[enacted as (e)\], derived from section 70c of the Bankruptcy Act \[section 110(c) of former title 11\], gives the estate the benefit of all defenses available to the debtor as against an entity other than the estate, including such defenses as statutes of limitations, statutes of frauds, usury, and other personal defenses, and makes waiver by the debtor after the commencement of the case ineffective to bind the estate.
+Subsection (d) \[enacted as (e)\], derived from section 70c of the Bankruptcy Act \[section 110(c) of former title11\], gives the estate the benefit of all defenses available to the debtor as against an entity other than the estate, including such defenses as statutes of limitations, statutes of frauds, usury, and other personal defenses, and makes waiver by the debtor after the commencement of the case ineffective to bind the estate.
 
 Section 541(e) \[enacted as (d)\] confirms the current status under the Bankruptcy Act \[former title 11\] of bona fide secondary mortgage market transactions as the purchase and sale of assets. Mortgages or interests in mortgages sold in the secondary market should not be considered as part of the debtor's estate. To permit the efficient servicing of mortgages or interests in mortgages the seller often retains the original mortgage notes and related documents, and the purchaser records under State recording statutes the purchaser's ownership of the mortgages or interests in mortgages purchased. Section 541(e) makes clear that the seller's retention of the mortgage documents and the purchaser's decision not to record do not impair the asset sale character of secondary mortgage market transactions. The committee notes that in secondary mortgage market transactions the parties may characterize their relationship as one of trust, agency, or independent contractor. The characterization adopted by the parties should not affect the statutes in bankruptcy on bona fide secondary mortgage market purchases and sales.
 
@@ -272,7 +268,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of theUnited States pursuant to section 104 of this title as follows:
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount "6,225" was adjusted to "6,425". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
 
@@ -283,4 +279,6 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(5)(C), (6)(C), dollar amount "5,000" was adjusted to "5,475".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

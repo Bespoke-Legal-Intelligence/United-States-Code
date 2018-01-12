@@ -46,7 +46,7 @@ Pub. L. 110–26, §1, May 11, 2007, 121 Stat. 103, provided that: "This Act \[e
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–9, title III, §311, Apr. 27, 2005, 119 Stat. 226, provided that: "This subtitle \[subtitle B (§§311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title\] may be cited as the 'National Film Preservation Foundation Reauthorization Act of 2005'."
+Pub. L. 109–9, title III, §311, Apr. 27, 2005, 119 Stat. 226, provided that: "This subtitle \[subtitle B (§§311, 312) oftitle III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title\] may be cited as the 'National Film Preservation Foundation Reauthorization Act of 2005'."
 
 #### Short Title of 2002 Amendment
 

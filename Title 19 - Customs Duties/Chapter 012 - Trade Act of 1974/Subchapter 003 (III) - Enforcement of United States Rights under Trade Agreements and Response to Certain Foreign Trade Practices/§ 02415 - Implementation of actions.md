@@ -36,7 +36,7 @@
 
 (B) By no later than the date that is 6 months after the date on which an advisory panel is established under paragraph (1)(A), the advisory panel shall submit to the Trade Representative and to the Congress a report on measures that the advisory panel recommends be taken by the United States to promote the competitiveness of the domestic industry affected by the export targeting that is the subject of the affirmative determination made under section 2414(a)(1)(A) of this title.
 
-(Pub. L. 93–618, title III, §305, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 98–573, title III, §304(g), Oct. 30, 1984, 98 Stat. 3006; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1172; Pub. L. 108–429, title II, §2201(c), Dec. 3, 2004, 118 Stat. 2599.)
+(Pub. L. 93–618, title III, §305, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 98–573, title III, §304(g), Oct. 30, 1984, 98 Stat. 3006; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1172; Pub. L.108–429, title II, §2201(c), Dec. 3, 2004, 118 Stat. 2599.)
 
 #### Amendments
 

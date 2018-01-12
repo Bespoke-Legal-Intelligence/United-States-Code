@@ -38,7 +38,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 42,000 | 2,837 | 1,655 | 505&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
 | Marine Corps Reserve: |  |  |  |
-| 1,000 | 99 | 63 | 20   |
+| 1,000 | 99 | 63 | 20&nbsp;&nbsp; |
 | 1,200 | 103 | 67 | 21&nbsp;&nbsp; |
 | 1,300 | 107 | 70 | 22&nbsp;&nbsp; |
 | 1,400 | 111 | 73 | 23&nbsp;&nbsp; |
@@ -79,7 +79,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 8,000 | 539 | 512 | 278&nbsp;&nbsp; |
 | 9,000 | 606 | 571 | 287&nbsp;&nbsp; |
 | 10,000 | 673 | 665 | 313&nbsp;&nbsp; |
-| 11,000 | 740 | 759 | 339&nbsp;&nbsp; |
+| 11,000 | 740 | 759 | 339   |
 | 12,000 | 807 | 827 | 353&nbsp;&nbsp; |
 | 13,000 | 873 | 886 | 363&nbsp;&nbsp; |
 | 14,000 | 939 | 945 | 374&nbsp;&nbsp; |
@@ -133,7 +133,7 @@ Full-Time Reserve Component Duty Defined.—In this section, the term "full-time
 
 &emsp;(1) Active duty described in sections 10211, 10302, 10303, 10304, 10305, 12310, or 12402 of this title.
 
-&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32, except for duty under section 115(b)(1)(B)and (C) of this title and section 115(i)(9) of this title.
+&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
 
 &emsp;(3) Active duty described in section 708 of title 32.
 

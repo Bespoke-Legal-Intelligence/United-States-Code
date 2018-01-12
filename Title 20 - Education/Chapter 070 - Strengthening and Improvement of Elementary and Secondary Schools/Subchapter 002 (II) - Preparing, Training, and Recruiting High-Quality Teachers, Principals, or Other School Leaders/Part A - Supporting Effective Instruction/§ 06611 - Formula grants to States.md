@@ -32,7 +32,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for any fiscal year for which the funds appropriated undersection 6603(a) of this title and not reserved under subsection (a) exceed the total amount required to make allotments under paragraph (1), the Secretary shall allot to each State the sum of—
+&emsp;&emsp;Subject to subparagraph (B), for any fiscal year for which the funds appropriated under section 6603(a) of this title and not reserved under subsection (a) exceed the total amount required to make allotments under paragraph (1), the Secretary shall allot to each State the sum of—
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2017—
 
@@ -44,7 +44,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 30 percent of the excess amount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 70 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined;
+&emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 70 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in theState, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined;
 
 &emsp;&emsp;&emsp;(iii) for fiscal year 2019—
 
@@ -92,7 +92,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 #### (A) In general
 
-&emsp;&emsp;The State educational agency for a State that receives an allotment under subsection (b) may use funds not reserved under paragraph (1) to carry out 1 or more of the activities described in subparagraph (B), which may be implemented in conjunction with aState agency of higher education (if such agencies are separate) and carried out through a grant or contract with a for-profit or nonprofit entity, including an institution of higher education.
+&emsp;&emsp;The State educational agency for a State that receives an allotment under subsection (b) may use funds not reserved under paragraph (1) to carry out 1 or more of the activities described in subparagraph (B), which may be implemented in conjunction with a State agency of higher education (if such agencies are separate) and carried out through a grant or contract with a for-profit or nonprofit entity, including an institution of higher education.
 
 #### (B) Types of State activities
 

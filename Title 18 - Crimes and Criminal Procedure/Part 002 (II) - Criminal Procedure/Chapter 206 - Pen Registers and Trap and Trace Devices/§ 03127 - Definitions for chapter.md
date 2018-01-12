@@ -40,9 +40,13 @@ The Federal Rules of Criminal Procedure, referred to in par. (5), are set out in
 
 Par. (2)(A). Pub. L. 107–56, §216(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or".
 
-Par. (3). Pub. L. 107–56, §216(c)(2), substituted "dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication" for "electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to whichsuch device is attached" and inserted "or process" after "device" wherever appearing.
+Par. (3). Pub. L. 107–56, §216(c)(2), substituted "dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication" for "electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached" and inserted "or process" after "device" wherever appearing.
 
 Par. (4). Pub. L. 107–56, §216(c)(3), inserted "or process" after "means a device" and substituted "or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;" for "of an instrument or device from which a wire or electronic communication was transmitted;".
 
 <b>1988</b>—Pub. L. 100–690 renumbered section 3126 of this title as this section.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.
 

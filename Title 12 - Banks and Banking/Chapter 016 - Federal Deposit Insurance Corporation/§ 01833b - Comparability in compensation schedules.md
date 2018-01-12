@@ -38,7 +38,7 @@ Oversight Board redesignated Thrift Depositor Protection Oversight Board, effect
 
 Amendment by section 152(d)(3)of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-Amendment by section 367(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 367(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

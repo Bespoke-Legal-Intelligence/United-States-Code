@@ -18,7 +18,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer may make an election under this paragraph to have section 1281 apply to all short-term obligations acquired by thetaxpayer on or after the 1st day of the 1st taxable year to which such election applies.
+&emsp;&emsp;A taxpayer may make an election under this paragraph to have section 1281 apply to all short-term obligations acquired by the taxpayer on or after the 1st day of the 1st taxable year to which such election applies.
 
 #### (B) Period to which election applies
 

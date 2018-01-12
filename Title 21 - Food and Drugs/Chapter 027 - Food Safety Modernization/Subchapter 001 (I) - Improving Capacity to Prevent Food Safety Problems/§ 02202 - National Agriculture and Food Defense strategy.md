@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal governments;
 
-&emsp;&emsp;&emsp;(iv) designing, developing, and evaluating training and exercises carried outunder agriculture and food defense plans; and
+&emsp;&emsp;&emsp;(iv) designing, developing, and evaluating training and exercises carried out under agriculture and food defense plans; and
 
 &emsp;&emsp;&emsp;(v) ensuring consistent and organized risk communication to the public by—
 

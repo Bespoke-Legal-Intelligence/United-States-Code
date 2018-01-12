@@ -12,7 +12,7 @@
 
 (c) A State whose recreational boating safety program has been approved by the Secretary is eligible for allocation and distribution of amounts under this chapter to assist that State in developing, carrying out, and financing its program. Matching amounts shall be allocated and distributed among eligible States by the Secretary as provided by section 13104 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592, §13101; Pub. L. 98–369, div. A, title X, §1011(b), July 18,1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(a), Nov. 16, 1990, 104 Stat. 2987; renumbered §13102 and amended Pub. L. 109–304, §16(b)(1), (c)(3), Oct. 6, 2006, 120 Stat. 1705, 1706; Pub. L. 113–287, §5(n), Dec. 19, 2014, 128 Stat. 3272.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592, §13101; Pub. L. 98–369, div. A, title X, §1011(b), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III,§312(a), Nov. 16, 1990, 104 Stat. 2987; renumbered §13102 and amended Pub. L. 109–304, §16(b)(1), (c)(3), Oct. 6, 2006, 120 Stat. 1705, 1706; Pub. L. 113–287, §5(n), Dec. 19, 2014, 128 Stat. 3272.)
 
 Historical and Revision Notes
 

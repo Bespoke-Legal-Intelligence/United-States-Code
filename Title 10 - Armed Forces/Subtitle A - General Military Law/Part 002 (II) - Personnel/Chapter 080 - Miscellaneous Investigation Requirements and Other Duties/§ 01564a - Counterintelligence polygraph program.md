@@ -82,7 +82,7 @@ Standards.—(1) Polygraph examinations conducted under this section shall compl
 
 Oversight.—(1) The Secretary shall establish a process to monitor responsible and effective application of polygraph examinations within the Department of Defense.
 
-(2) The Secretary shall make information on the use of polygraphs within the Department ofDefense available to the congressional defense committees.
+(2) The Secretary shall make information on the use of polygraphs within the Department of Defense available to the congressional defense committees.
 
 (g)
 
@@ -94,7 +94,7 @@ Polygraph Research Program.—The Secretary shall carry out a continuing researc
 
 &emsp;(3) Developmental research on polygraph techniques, instrumentation, and analytic methods.
 
-(Added Pub. L. 108–136, div. A, title X, §1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amended Pub. L. 109–163, div. A, title X, §1054(a), Jan. 6, 2006, 119 Stat. 3436.)
+(Added Pub. L. 108–136, div. A, title X, §1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amendedPub. L. 109–163, div. A, title X, §1054(a), Jan. 6, 2006, 119 Stat. 3436.)
 
 #### References in Text
 

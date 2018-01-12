@@ -10,7 +10,7 @@ Such agreements shall specify—
 
 &emsp;(1) the terms and conditions under which risk capital will be available for the adjustment and payment of claims,
 
-&emsp;(2) the terms and conditions under which the pool (and the companies and other insurersparticipating therein) shall participate in premiums received and profits or losses realized or sustained,
+&emsp;(2) the terms and conditions under which the pool (and the companies and other insurers participating therein) shall participate in premiums received and profits or losses realized or sustained,
 
 &emsp;(3) the maximum amount of profit, established by the Administrator and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 
@@ -41,6 +41,10 @@ This chapter, referred to in subsec. (a), was in the original a reference to "th
 Subsec. (c)(2). Pub. L. 112–141, §100232(d)(2), inserted "or reinsurance" after "flood insurance coverage".
 
 <b>1983</b>—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted "Director" for "Secretary".
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

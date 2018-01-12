@@ -1,6 +1,6 @@
 ### §1502. Balances available
 
-(a) The balance of an appropriation or fund limited for obligation to a definite period is available only for payment of expenses properly incurred during the period of availability or to complete contracts properly made within that period of availability and obligated consistentwith section 1501 of this title. However, the appropriation or fund is not available for expenditure for a period beyond the period otherwise authorized by law.
+(a) The balance of an appropriation or fund limited for obligation to a definite period is available only for payment of expenses properly incurred during the period of availability or to complete contracts properly made within that period of availability and obligated consistent with section 1501 of this title. However, the appropriation or fund is not available for expenditure for a period beyond the period otherwise authorized by law.
 
 (b) A provision of law requiring that the balance of an appropriation or fund be returned to the general fund of the Treasury at the end of a definite period does not affect the status of lawsuits or rights of action involving the right to an amount payable from the balance.
 
@@ -38,9 +38,13 @@ In subsection (b), the words "balance of an appropriation or fund" are substitut
 
 #### Quarterly Reports
 
-Pub. L. 114–113, div. H, title V, §526, Dec. 18, 2015, 129 Stat. 2653, provided that: "Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: <i>Provided</i>, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived."
+Pub. L. 115–31, div. H, title V, §526, May 5, 2017, 131 Stat. 566, provided that: "Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: <i>Provided</i>, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived."
 
-Similar provisions were contained in the following prior appropriation acts:Pub. L. 113–235, div. G, title V, §523, Dec. 16, 2014, 128 Stat. 2518.
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. H, title V, §526, Dec. 18, 2015, 129 Stat. 2653.
+
+Pub. L. 113–235, div. G, title V, §523, Dec. 16, 2014, 128 Stat. 2518.
 
 Pub. L. 113–76, div. H, title V, §524, Jan. 17, 2014, 128 Stat. 413.
 

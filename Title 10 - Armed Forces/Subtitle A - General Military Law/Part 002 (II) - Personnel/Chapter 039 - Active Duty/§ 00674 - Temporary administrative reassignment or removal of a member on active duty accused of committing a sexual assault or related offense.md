@@ -8,7 +8,17 @@ Guidance for Timely Consideration and Action.—The Secretary concerned may prov
 
 Time for Determination.—A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1713(a), Dec. 26, 2013, 127 Stat. 963; amended Pub. L. 113–291, div. A, title X, §1071(f)(8), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 113–66, div. A, title XVII, §1713(a), Dec. 26, 2013, 127 Stat. 963; amended Pub. L. 113–291, div. A, title X, §1071(f)(8), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 115–91, div. A, title X, §1081(c)(2)(B), Dec. 12, 2017, 131 Stat. 1599.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 115–91, div. A, title X, §1081(c)(2)(B), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 (see Tables for classification) take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (a) of this section is amended—</i>
+
+<i>(1) by striking "920a, 920b, 920c, or 925" and inserting "920b, 920c, or 930"; and</i>
+
+<i>(2) by striking "120a, 120b, 120c, or 125" and inserting "120b, 120c, or 130".</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -16,5 +26,11 @@ A prior section 674 was renumbered section 12306 of this title.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "920b, 920c, or 930" for "920a, 920b, 920c, or 925" and "120b, 120c, or 130" for "120a, 120b, 120c, or 125".
+
 <b>2014</b>—Subsec. (b). Pub. L. 113–291 substituted "after receipt" for "afer receipt".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 

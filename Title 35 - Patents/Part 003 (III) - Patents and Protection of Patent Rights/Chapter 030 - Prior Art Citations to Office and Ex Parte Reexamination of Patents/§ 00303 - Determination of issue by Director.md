@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to d
 
 Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 
-Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273,§13206(b)(1)(A), substituted "Director's" for "Commissioner's".
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273, §13206(b)(1)(A), substituted "Director's" for "Commissioner's".
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 
@@ -45,4 +45,8 @@ Pub. L. 107–273, div. C, title III, §13105(b), Nov. 2, 2002, 116 Stat. 1900, 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
+#### Effective Date
+
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 

@@ -8,7 +8,7 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 #### (1) Managers, promoters, matchmakers, and licensees
 
-&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter, other than section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
+&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter, other than section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
 
 #### (2) Violation of antiexploitation, sanctioning organization, or disclosure provisions
 
@@ -28,7 +28,7 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 #### (c) Actions by States
 
-Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State,as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
+Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
 
 &emsp;(1) to enjoin the holding of any professional boxing match which the practice involves;
 

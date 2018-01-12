@@ -44,7 +44,7 @@ Sec. 3. <i>Coordination</i>. (a) The Director of the Office of Science and Techn
 
 Sec. 4. <i>Roles and Responsibilities</i>. To the extent permitted by law, the agencies below shall adopt the following roles and responsibilities, which are key to ensuring enhanced space weather forecasting, situational awareness, space weather preparedness, and continuous Federal Government operations during and after space weather events.
 
-(a) The Secretary of Defense shall ensure the timely provision of operational space weather observations,analyses, forecasts, and other products to support the mission of the Department of Defense and coalition partners, including the provision of alerts and warnings for space weather phenomena that may affect weapons systems, military operations, or the defense of the United States.
+(a) The Secretary of Defense shall ensure the timely provision of operational space weather observations, analyses, forecasts, and other products to support the mission of the Department of Defense and coalition partners, including the provision of alerts and warnings for space weather phenomena that may affect weapons systems, military operations, or the defense of the United States.
 
 (b) The Secretary of the Interior shall support the research, development, deployment, and operation of capabilities that enhance the understanding of variations of the Earth's magnetic field associated with solar-terrestrial interactions.
 
@@ -96,7 +96,7 @@ Sec. 6. <i>Stakeholder Engagement</i>. The agencies identified in this order sha
 
 Sec. 7. <i>Definitions</i>. As used in this order:
 
-(a) "Prepare" and "preparedness" have the same meaning they have in PPD–8. They refer to the actionstaken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the Nation. This includes the prediction and notification of space weather events.
+(a) "Prepare" and "preparedness" have the same meaning they have in PPD–8. They refer to the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the Nation. This includes the prediction and notification of space weather events.
 
 (b) "Space weather" means variations in the space environment between the Sun and Earth (and throughout the solar system) that can affect technologies in space and on Earth. The primary types of space weather events are solar flares, solar energetic particles, and geomagnetic disturbances.
 

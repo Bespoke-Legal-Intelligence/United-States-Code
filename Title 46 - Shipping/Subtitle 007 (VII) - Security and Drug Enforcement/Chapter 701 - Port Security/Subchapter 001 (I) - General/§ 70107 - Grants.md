@@ -8,7 +8,7 @@ In General.—The Secretary shall establish a grant program for the allocation o
 
 Eligible Costs.—The following costs of funding the correction of Coast Guard identified vulnerabilities in port security and ensuring compliance with Area Maritime Transportation Security Plans and facility security plans are eligible to be funded:
 
-&emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
+&emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs ofadditional Coast Guard mandated security personnel.
 
 &emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
@@ -184,7 +184,7 @@ In general.—The Secretary shall conduct investigations, fund pilot programs, a
 
 &emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, and transmit that information to the appropriate law enforcement authorities;
 
-&emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potential transportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
+&emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potentialtransportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
 
 &emsp;&emsp;(F) tools to mitigate the consequences of a transportation security incident on, adjacent to, or under navigable waters of the United States, including sensor equipment, and other tools to help coordinate effective response to a transportation security incident;
 
@@ -218,7 +218,7 @@ National port security centers.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higherlearning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
+In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higher learning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
 
 &emsp;&emsp;(B)
 
@@ -296,7 +296,7 @@ Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted "Secretary shall req
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read asfollows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
 
 Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 

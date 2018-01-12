@@ -1,6 +1,6 @@
 ### §1862<i>o</i>–1. Responsible conduct of research
 
-The Director shall require that each institution that applies for financial assistance from the Foundation for science and engineering research or education describe in its grant proposal a plan to provide appropriate training and oversight in the responsible and ethical conduct of research to undergraduate students, graduate students, and postdoctoral researchers participating in the proposed research project.
+The Director shall require that each institution that applies for financial assistance from the Foundation for science and engineering research or education describe in its grant proposal a plan to provide appropriate training and oversight in the responsible and ethical conduct of research to undergraduate students, graduatestudents, and postdoctoral researchers participating in the proposed research project.
 
 (Pub. L. 110–69, title VII, §7009, Aug. 9, 2007, 121 Stat. 680.)
 

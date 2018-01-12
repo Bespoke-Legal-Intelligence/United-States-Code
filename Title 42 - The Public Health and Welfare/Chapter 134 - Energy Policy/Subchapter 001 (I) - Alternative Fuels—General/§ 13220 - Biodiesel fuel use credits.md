@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
 
-(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct.21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
+(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ The date of the enactment of this section, referred to in subsec. (a)(1), probab
 
 This subchapter, referred to in subsec. (b), was in the original "this title", meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
 
-Subchapter II, referred to in subsec. (b), was in the original "title IV", meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
+Subchapter II, referred to in subsec. (b), was in the original "title IV", meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717cof Title 15. For complete classification of title IV to the Code, see Tables.
 
 #### Codification
 

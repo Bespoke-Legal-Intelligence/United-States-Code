@@ -10,7 +10,7 @@ The Secretary is authorized to prescribe regulations providing for the crediting
 
 #### (c) Offset of past-due support against overpayments
 
-The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of <sup>2</sup> such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by theState as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of <sup>2</sup> such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
 
 #### (d) Collection of debts owed to Federal agencies
 
@@ -152,7 +152,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;&emsp;(iii) subsection (d) with respect to any past-due, legally enforceable debt owed to a Federal agency; and
 
-&emsp;&emsp;(B) before such overpayment is credited to the future liability for any Federal internalrevenue tax of such person pursuant to subsection (b).
+&emsp;&emsp;(B) before such overpayment is credited to the future liability for any Federal internal revenue tax of such person pursuant to subsection (b).
 
 > &emsp;If the Secretary receives notice from a State or States of more than one debt subject to paragraph (1) or subsection (e) that is owed by a person to such State or States, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
@@ -214,7 +214,7 @@ For procedures relating to agency notification of the Secretary, see section 372
 
 #### (k) Refunds to certain fiduciaries of insolvent members of affiliated groups
 
-Notwithstanding any other provision of law, in the case of an insolvent corporation which is amember of an affiliated group of corporations filing a consolidated return for any taxable year and which is subject to a statutory or court-appointed fiduciary, the Secretary may by regulation provide that any refund for such taxable year may be paid on behalf of such insolvent corporation to such fiduciary to the extent that the Secretary determines that the refund is attributable to losses or credits of such insolvent corporation.
+Notwithstanding any other provision of law, in the case of an insolvent corporation which is a member of an affiliated group of corporations filing a consolidated return for any taxable year and which is subject to a statutory or court-appointed fiduciary, the Secretary may by regulation provide that any refund for such taxable year may be paid on behalf of such insolvent corporation to such fiduciary to the extent that the Secretary determines that the refund is attributable to losses or credits of such insolvent corporation.
 
 #### (l) Explanation of reason for refund disallowance
 
@@ -224,7 +224,7 @@ In the case of a disallowance of a claim for refund, the Secretary shall provide
 
 No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006,120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076.)
 
 #### References in Text
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5129(d), Nov. 5, 1990, 104 Stat. 1388–289, provided that: "The amendments made by thissection \[amending this section, section 3720A of Title 31, Money and Finance, and section 404 of Title 42, The Public Health and Welfare\]—
+Pub. L. 101–508, title V, §5129(d), Nov. 5, 1990, 104 Stat. 1388–289, provided that: "The amendments made by this section \[amending this section, section 3720A of Title 31, Money and Finance, and section 404 of Title 42, The Public Health and Welfare\]—
 
 &emsp;"(1) shall take effect January 1, 1991, and
 
@@ -396,7 +396,7 @@ Pub. L. 104–191, title III, §371, Aug. 21, 1996, 110 Stat. 2072, provided tha
 
 "(a)
 
-In General.—The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income tax made during the period beginning on February 1, 1997, and ending on June 30, 1997, a copy of the document described in subsection (b).
+In General.—The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income taxmade during the period beginning on February 1, 1997, and ending on June 30, 1997, a copy of the document described in subsection (b).
 
 "(b)
 

@@ -30,7 +30,7 @@ The Secretary shall provide for adequate participation by the various Indian tri
 
 #### (h) Jurisdictional status
 
-The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing in this chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
+The Secretary shall analyze and make recommendations regarding the jurisdictional statusof Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing in this chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
 
 #### (i) Grants
 
@@ -74,7 +74,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under atribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
+&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under a tribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
 
 #### (ii) Scope of review
 

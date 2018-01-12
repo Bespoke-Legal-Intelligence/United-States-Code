@@ -84,7 +84,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
@@ -106,7 +106,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the ageof 18 shall be attributed to the parents of the child.
+&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the age of 18 shall be attributed to the parents of the child.
 
 #### (B) Regulations
 
@@ -244,7 +244,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 A prior section 1308, Pub. L. 97–98, title XI, §1101, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 98–88, §6, Aug. 26, 1983, 97 Stat. 499, related to programs for 1982 through 1985 crops.
 
-Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
+Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18,1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
 
 #### Amendments
 
@@ -262,7 +262,7 @@ Subsec. (f)(6)(A). Pub. L. 113–79, §1603(b)(2)(B), substituted ", title I of
 
 Subsec. (a)(1). Pub. L. 110–246, §1603(a), substituted "Food, Conservation, and Energy Act of 2008" for "Farm Security and Rural Investment Act of 2002".
 
-Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of2002, except that the term does not include wool, mohair, or honey."
+Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey."
 
 Subsec. (a)(3) to (5). Pub. L. 110–246, §1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
 

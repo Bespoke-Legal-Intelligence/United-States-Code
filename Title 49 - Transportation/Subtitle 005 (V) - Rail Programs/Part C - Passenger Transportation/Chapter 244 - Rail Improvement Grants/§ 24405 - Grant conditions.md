@@ -30,7 +30,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 &emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
-(7) A person is ineligible to receive a contract or subcontract made with amounts authorizedunder this chapter if a court or department, agency, or instrumentality of the Government decides the person intentionally—
+(7) A person is ineligible to receive a contract or subcontract made with amounts authorized under this chapter if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
 &emsp;(A) affixed a "Made in America" label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
 
@@ -146,7 +146,7 @@ Section 5302 of this title, referred to in subsec. (e)(1), was amended generally
 
 Subsec. (c)(2)(B). Pub. L. 114–94, §11303(b)(1)(D)(ii), substituted "protective arrangements that are equivalent to the protective arrangements established" for "protective arrangements established".
 
-Subsec. (d)(1). Pub. L. 114–94, §11303(b)(1)(D)(iii), in introductory provisions, inserted "or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years beforethe commencement of new service" after "unless such service was provided solely by Amtrak to another entity".
+Subsec. (d)(1). Pub. L. 114–94, §11303(b)(1)(D)(iii), in introductory provisions, inserted "or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service" after "unless such service was provided solely by Amtrak to another entity".
 
 Subsec. (f). Pub. L. 114–94, §11303(b)(1)(D)(iv), substituted "under this chapter for commuter rail passenger transportation (as defined in section 24102(3))." for "under this chapter for commuter rail passenger transportation, as defined in section 24102(4) of this title."
 

@@ -42,7 +42,7 @@ A group health plan, and a health insurance issuer offering group health insuran
 
 (2) This section shall not apply with respect to any group health plan, or any group health insurance coverage offered by a health insurance issuer, which does not provide benefits for hospital lengths of stay in connection with childbirth for a mother or her newborn child.
 
-(3) Nothing in this section shall be construed as preventing a group health plan or issuer from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths of stay in connection with childbirth for a mother or newborn child under the plan (or under health insurance coverage offered in connection with a group health plan), except that such coinsurance or other cost-sharing for any portion of a period within a hospital length ofstay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
+(3) Nothing in this section shall be construed as preventing a group health plan or issuer from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths of stay in connection with childbirth for a mother or newborn child under the plan (or under health insurance coverage offered in connection with a group health plan), except that such coinsurance or other cost-sharing for any portion of a period within a hospital length of stay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
 
 #### (d) Notice under group health plan
 
@@ -76,7 +76,7 @@ Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated s
 
 #### Effective Date
 
-Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
+Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, seesection 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

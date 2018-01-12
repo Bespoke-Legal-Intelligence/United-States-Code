@@ -6,7 +6,7 @@ Establishment of Program.—The Under Secretary shall establish a pilot program 
 
 (b)
 
-Period of Pilot Program.—The pilot program under this section shall begin on the last day of the 1-year period beginning on the date of enactment of this section and end on the last day of the 3-year period beginning on such date of enactment.
+Period of Pilot Program.—The pilot program under this section shall begin on the lastday of the 1-year period beginning on the date of enactment of this section and end on the last day of the 3-year period beginning on such date of enactment.
 
 (c)
 
@@ -18,7 +18,7 @@ Selection of Airports.—From among applications submitted under subsection (c),
 
 (e)
 
-Supervision of Screened Personnel.—The Under Secretary shall provide Federal Government supervisors to oversee all screening ateach airport participating in the pilot program under this section and provide Federal Government law enforcement officers at the airport pursuant to this chapter.
+Supervision of Screened Personnel.—The Under Secretary shall provide Federal Government supervisors to oversee all screening at each airport participating in the pilot program under this section and provide Federal Government law enforcement officers at the airport pursuant to this chapter.
 
 (f)
 

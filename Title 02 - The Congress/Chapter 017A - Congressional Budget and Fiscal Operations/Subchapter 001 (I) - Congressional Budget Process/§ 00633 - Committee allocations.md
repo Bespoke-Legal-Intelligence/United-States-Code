@@ -50,7 +50,7 @@ After the Committee on Appropriations has received an allocation pursuant to sub
 
 #### (d) Subsequent concurrent resolutions
 
-In the case of a concurrent resolution on the budget referred to in section 635 of this title, theallocations under subsection (a) and the subdivisions under subsection (b) shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
+In the case of a concurrent resolution on the budget referred to in section 635 of this title, the allocations under subsection (a) and the subdivisions under subsection (b) shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
 
 #### (e) Alteration of allocations
 
@@ -116,7 +116,7 @@ This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 197
 
 #### Codification
 
-Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 

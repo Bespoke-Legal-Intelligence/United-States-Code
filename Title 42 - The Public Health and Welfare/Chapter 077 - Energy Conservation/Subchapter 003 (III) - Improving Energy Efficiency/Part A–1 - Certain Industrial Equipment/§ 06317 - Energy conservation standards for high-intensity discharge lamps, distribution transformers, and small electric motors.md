@@ -2,7 +2,7 @@
 
 #### (a) High-intensity discharge lamps and distribution transformers
 
-(1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirementsfor those high-intensity discharge lamps and distribution transformers for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
+(1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirements for those high-intensity discharge lamps and distribution transformers for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
 
 (2) The Secretary shall, within 18 months after the date on which testing requirements are prescribed by the Secretary pursuant to paragraph (1), prescribe, by rule, energy conservation standards for those high-intensity discharge lamps and distribution transformers for which the Secretary prescribed testing requirements under paragraph (1).
 
@@ -22,19 +22,19 @@ In establishing any standard under this section, the Secretary shall take into c
 
 #### (d) Prescription of labeling requirements by Secretary
 
-The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) of this section and small electric motors pursuant to subsection (b)(2) of this section, prescribe labeling requirements for such lamps, transformers, and small electric motors.
+The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) and small electric motors pursuant to subsection (b)(2), prescribe labeling requirements for such lamps, transformers, and small electric motors.
 
 #### (e) Compliance by manufacturers with labeling requirements
 
-Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d) of this section, each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
+Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d), each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
 
 #### (f) New covered products; distribution of non-conforming products prohibited; construction with other law
 
-(1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e) of this section—
+(1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e)—
 
 &emsp;(A) each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title, a new covered product to which a rule under section 6294 of this title applies; and
 
-&emsp;(B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) of this section which is not in conformity with the applicable energy conservation standard.
+&emsp;(B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
 
 (2) For purposes of section 6303(a) of this title, paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title.
 

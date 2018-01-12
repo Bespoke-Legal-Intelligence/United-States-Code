@@ -6,7 +6,7 @@ Major Generals and Rear Admirals Serving in Grade.—Except as provided in subse
 
 (b)
 
-Lieutenant Generals and Vice Admirals.—In the administration of subsection (a) inthe case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
+Lieutenant Generals and Vice Admirals.—In the administration of subsection (a) in the case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
 
 (c)
 

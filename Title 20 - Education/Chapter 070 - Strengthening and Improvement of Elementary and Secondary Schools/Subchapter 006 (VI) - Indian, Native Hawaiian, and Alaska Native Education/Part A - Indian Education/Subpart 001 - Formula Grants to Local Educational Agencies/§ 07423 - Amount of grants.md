@@ -82,7 +82,7 @@ A prior section 6113 of Pub. L. 89–10 was classified to section 7301b of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–95, §6001(b)(3)(A), made technical amendment to reference in original actwhich appears in text as reference to section 7427 of this title.
+<b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–95, §6001(b)(3)(A), made technical amendment to reference in original act which appears in text as reference to section 7427 of this title.
 
 Subsec. (b)(1). Pub. L. 114–95, §6002(e)(1), substituted "Bureau of Indian Education" for "Bureau of Indian Affairs".
 

@@ -60,13 +60,13 @@ Sec. 2. <i>Response and Related Authorities</i>. (a) The functions vested in the
 
 (h) The functions vested in the President by Section 104(c)(3) of the Act \[42 U.S.C. 9604(c)(3)\] are delegated to the Administrator, with respect to providing assurances for Indian tribes, to be exercised in consultation with the Secretary of the Interior.
 
-(i) Subject to subsections (d), (e), (f), (g) and (h) of this Section, the functions vested in the President bySection 104(c) and (d) of the Act are delegated to the Coast Guard, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and the Administrator in order to carry out the functions delegated to them by this Section.
+(i) Subject to subsections (d), (e), (f), (g) and (h) of this Section, the functions vested in the President by Section 104(c) and (d) of the Act are delegated to the Coast Guard, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and the Administrator in order to carry out the functions delegated to them by this Section.
 
 (j)(1) The functions vested in the President by Section 104(e)(5)(A) are delegated to the heads of Executive departments and agencies, with respect to releases or threatened releases where either the release is on or the sole source of the release is from any facility or vessel under the jurisdiction, custody or control of those departments and agencies, to be exercised with the concurrence of the Attorney General.
 
 (2) Subject to subsection (b) of this Section and paragraph (1) of this subsection, the functions vested in the President by Section 104(e) are delegated to the heads of Executive departments and agencies in order to carry out their functions under this Order or the Act.
 
-(k) The functions vested in the President by Section 104(f), (g), (h), (i)(11), and (j) of the Act are delegated to the heads of Executive departments and agencies in order to carry out the functions delegated to them by this Section. The exercise of authority under Section 104(h) of the Act shall be subject to the approval of the Administrator of the Office of Federal Procurement Policy.
+(k) The functions vested in the President by Section 104(f), (g), (h), (i)(11), and (j) of the Act are delegated tothe heads of Executive departments and agencies in order to carry out the functions delegated to them by this Section. The exercise of authority under Section 104(h) of the Act shall be subject to the approval of the Administrator of the Office of Federal Procurement Policy.
 
 Sec. 3. <i>Cleanup Schedules</i>. (a) The functions vested in the President by Sections 116(a) and the first two sentences of 105(d) of the Act \[42 U.S.C. 9616(a), 9605(d)\] are delegated to the heads of Executive departments and agencies with respect to facilities under the jurisdiction, custody or control of those departments and agencies.
 
@@ -104,7 +104,7 @@ Sec. 5. <i>Liability</i>. (a) The function vested in the President by Section 10
 
 (f) The functions vested in the President by Section 107(o) and (p) of the Act are delegated to the heads of the Executive departments and agencies, to be exercised in consultation with the Administrator, with respect to releases or threatened releases where either the release is on or the sole source of the release is from any facility under the jurisdiction, custody, or control of those departments and agencies.
 
-(g) Subject to subsection (f) of this Section, the functions vested in the President by Section 107(o) and (p) of the Act are delegated to the Administrator except that, with respect to determinations regarding natural resource restoration, the Administrator shall make such determinations in consultation with the appropriate Federal natural resource trustee.
+(g) Subject to subsection (f) of this Section, the functions vested in the President by Section 107(o) and (p)of the Act are delegated to the Administrator except that, with respect to determinations regarding natural resource restoration, the Administrator shall make such determinations in consultation with the appropriate Federal natural resource trustee.
 
 Sec. 6. <i>Litigation</i>. (a) Notwithstanding any other provision of this Order, any representation pursuant to or under this Order in any judicial proceedings shall be by or through the Attorney General. The conduct and control of all litigation arising under the Act shall be the responsibility of the Attorney General.
 
@@ -154,7 +154,7 @@ Sec. 9. <i>Management of the Hazardous Substance Superfund and Claims</i>. (a) T
 
 (i) Funds from the Hazardous Substance Superfund may be used, at the discretion of the Administrator or the Coast Guard, to pay for removal actions for releases or threatened releases from facilities or vessels under the jurisdiction, custody or control of Executive departments and agencies but must be reimbursed to the Hazardous Substance Superfund by such Executive department or agency.
 
-Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administratorafter using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutually acceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
+Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administrator after using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutually acceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
 
 (b) Executive Order No. 12088 of October 13, 1978, is amended by renumbering the current Section 1–802 as Section 1–803 and inserting the following new Section 1–802.
 
@@ -162,7 +162,7 @@ Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a 
 
 Sec. 11. <i>General Provisions</i>. (a) The function vested in the President by Section 101(37) of the Act \[42 U.S.C. 9601(37)\] is delegated to the Administrator.
 
-(b)(1) The function vested in the President by Section 105(f) of the Act \[42 U.S.C. 9605(f)\], relating to reporting on minority participation in contracts, is delegated to the Administrator.
+(b)(1) The function vested in the President by Section 105(f) of the Act \[42 U.S.C. 9605(f)\], relating to reportingon minority participation in contracts, is delegated to the Administrator.
 
 (2) Subject to paragraph 1 of this subsection, the functions vested in the President by Section 105(f) of the Act are delegated to the heads of Executive departments and agencies in order to carry out the functions delegated to them by this Order. Each Executive department and agency shall provide to the Administrator any requested information on minority contracting for inclusion in the Section 105(f) annual report.
 

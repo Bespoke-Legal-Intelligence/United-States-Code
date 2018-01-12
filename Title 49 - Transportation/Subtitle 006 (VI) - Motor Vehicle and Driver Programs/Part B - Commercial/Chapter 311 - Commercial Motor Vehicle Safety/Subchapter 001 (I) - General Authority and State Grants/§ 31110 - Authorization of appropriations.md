@@ -2,7 +2,7 @@
 
 (a)
 
-Administrative Expenses.—There is authorized to be appropriated from the HighwayTrust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+Administrative Expenses.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
 
 &emsp;(1) $267,400,000 for fiscal year 2016;
 
@@ -42,7 +42,7 @@ Outreach and Education Program.—
 
 &emsp;(1)
 
-In general.—The Secretary may conduct, through any combination of grants, contracts, cooperative agreements, and other activities, an internal and external outreach and education program to be administered by the Administrator of the Federal Motor Carrier Safety Administration.
+In general.—The Secretary may conduct, through any combination of grants, contracts, cooperative agreements, and other activities, an internal and external outreach and education program to be administered by the Administrator of the Federal Motor Carrier Safety Administration. The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking, while deferring to existing resources, as practicable.
 
 &emsp;(2)
 
@@ -64,7 +64,11 @@ Funding Availability.—Amounts made available under this section shall remain a
 
 Contractual Obligation.—The approval of funds by the Secretary under this section is a contractual obligation of the Federal Government for payment of the Federal Government's share of costs.
 
-(Added Pub. L. 114–94, div. A, title V, §5103(a), Dec. 4, 2015, 129 Stat. 1526.)
+(Added Pub. L. 114–94, div. A, title V, §5103(a), Dec. 4, 2015, 129 Stat. 1526; amended Pub. L. 115–99, §3, Jan. 3, 2018, 131 Stat. 2242.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–99 inserted at end "The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking, while deferring to existing resources, as practicable."
 
 #### Effective Date
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) provisions respecting the construction, components, ingredients, and properties of the device and its compatibility with power systems and connections to such systems,
 
-&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are available to the Secretary to assure the conformity of the device to the standard, provisions for thetesting (on a sample basis or, if necessary, on an individual basis) by the Secretary or by another person at the direction of the Secretary,
+&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are available to the Secretary to assure the conformity of the device to the standard, provisions for the testing (on a sample basis or, if necessary, on an individual basis) by the Secretary or by another person at the direction of the Secretary,
 
 &emsp;&emsp;(iii) provisions for the measurement of the performance characteristics of the device,
 
@@ -68,7 +68,7 @@
 
 > to an advisory committee of experts, established pursuant to subparagraph (B), for a report and recommendation with respect to any matter involved in the proposed regulation which requires the exercise of scientific judgment. If a proposed regulation is referred under this subparagraph to an advisory committee, the Secretary shall provide the advisory committee with the data and information on which such proposed regulation is based. The advisory committee shall, within sixty days of the referral of a proposed regulation and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation. A copy of such report and recommendation shall be made public by the Secretary.
 
-(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
+(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall byregulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 
 #### (c) Recognition of standard
 
@@ -92,7 +92,7 @@
 
 (2) The Secretary may withdraw such recognition of a standard through publication of a notice in the Federal Register if the Secretary determines that the standard is no longer appropriate for meeting a requirement regarding devices under this chapter.
 
-(3)(A) Subject to subparagraph (B), the Secretary shall accept a declaration of conformity that a device is in conformity with a standardrecognized under paragraph (1) unless the Secretary finds—
+(3)(A) Subject to subparagraph (B), the Secretary shall accept a declaration of conformity that a device is in conformity with a standard recognized under paragraph (1) unless the Secretary finds—
 
 &emsp;(i) that the data or information submitted to support such declaration does not demonstrate that the device is in conformity with the standard identified in the declaration of conformity; or
 
@@ -104,9 +104,67 @@
 
 (4) The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee's area of device review.
 
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125.)
+#### (d) Pilot accreditation scheme for conformity assessment
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a pilot program under which—
+
+&emsp;&emsp;(A) testing laboratories may be accredited, by accreditation bodies meeting criteria specified by the Secretary, to assess the conformance of a device with certain standards recognized under this section; and
+
+&emsp;&emsp;(B) subject to paragraph (2), determinations by testing laboratories so accredited that a device conforms with such standard or standards shall be accepted by the Secretary for purposes of demonstrating such conformity under this section unless the Secretary finds that a particular such determination shall not be so accepted.
+
+#### (2) Secretarial review of accredited laboratory determinations
+
+&emsp;The Secretary may—
+
+&emsp;&emsp;(A) review determinations by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such determinations or processes of accredited bodies or testing laboratories and, following such review, taking additional measures under this chapter, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A) or requesting additional information with respect to such device, as the Secretary determines appropriate; and
+
+&emsp;&emsp;(B) if the Secretary becomes aware of information materially bearing on safety or effectiveness of a device assessed for conformity by a testing laboratory so accredited, take such additional measures under this chapter as the Secretary determines appropriate, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A), or requesting additional information with regard to such device.
+
+#### (3) Implementation and reporting
+
+#### (A) Public meeting
+
+&emsp;&emsp;The Secretary shall publish in the Federal Register a notice of a public meeting to be held no later than September 30, 2018, to discuss and obtain input and recommendations from stakeholders regarding the goals and scope of, and a suitable framework and procedures and requirements for, the pilot program under this subsection.
+
+#### (B) Pilot program guidance
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) not later than September 30, 2019, issue draft guidance regarding the goals and implementation of the pilot program under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) not later than September 30, 2021, issue final guidance with respect to the implementation of such program.
+
+#### (C) Pilot program initiation
+
+&emsp;&emsp;Not later than September 30, 2020, the Secretary shall initiate the pilot program under this subsection.
+
+#### (D) Report
+
+&emsp;&emsp;The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the pilot program under this subsection.
+
+#### (4) Sunset
+
+&emsp;As of October 1, 2022—
+
+&emsp;&emsp;(A) the authority for accreditation bodies to accredit testing laboratories pursuant to paragraph (1)(A) shall cease to have force or effect;
+
+&emsp;&emsp;(B) the Secretary—
+
+&emsp;&emsp;&emsp;(i) may not accept a determination pursuant to paragraph (1)(B) made by a testing laboratory after such date; and
+
+&emsp;&emsp;&emsp;(ii) may accept such a determination made prior to such date;
+
+&emsp;&emsp;(C) except for purposes of accepting a determination described in subparagraph (B)(ii), the Secretary shall not continue to recognize the accreditation of testing laboratories accredited under paragraph (1)(A); and
+
+&emsp;&emsp;(D) the Secretary may take actions in accordance with paragraph (2) with respect to the determinations made prior to such date and recognition of the accreditation of testing laboratories pursuant to determinations made prior to such date.
+
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d). Pub. L. 115–52 added subsec. (d).
 
 <b>2016</b>—Subsec. (c)(1)(A). Pub. L. 114–255, §3044(b)(3), inserted "(or, with respect to a susceptibility test interpretive criteria standard under section 360a–2 of this title, by posting on the Interpretive Criteria Website in accordance with such section)" after "the Secretary shall, by publication in the Federal Register".
 
@@ -156,13 +214,17 @@ Subsec. (b)(4)(A). Pub. L. 101–629, §6(b)(1)(B), substituted "paragraphs (1),
 
 Subsec. (b)(4)(B). Pub. L. 101–629, §18(b)(1), as amended by Pub. L. 102–300, §6(g)(1), (2), and Pub. L. 103–80, §4(a)(1), struck out ", after affording all interested persons an opportunity for an informal hearing," after "if he determines".
 
-Subsec. (b)(5)(A)(ii). Pub. L. 101–629, §18(b)(2), as amended by Pub. L. 102–300, §6(g)(1), (3), and Pub. L.103–80, §4(a)(1), substituted "which demonstrates good cause for referral and which is made before the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation," for "unless the Secretary finds the request to be without good cause or the request is made after the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,".
+Subsec. (b)(5)(A)(ii). Pub. L. 101–629, §18(b)(2), as amended by Pub. L. 102–300, §6(g)(1), (3), and Pub. L. 103–80, §4(a)(1), substituted "which demonstrates good cause for referral and which is made before the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation," for "unless the Secretary finds the request to be without good cause or the request is made after the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,".
 
 Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relating to invitations for standards, subsec. (d) relating to acceptance of certain existing standards, subsec. (e) relating to acceptance of offers to develop standards, and subsec. (f) relating to development of standards by the Secretary after publication of notice inviting submissions or offers of standards.
 
 Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 1997 Amendment
 

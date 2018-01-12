@@ -1,0 +1,34 @@
+### §8501. Definitions
+
+In this chapter:
+
+#### (1) Seasonal
+
+&emsp;The term "seasonal" means the time range between 3 months and 2 years.
+
+#### (2) State
+
+&emsp;The term "State" means a State, a territory, or possession of the United States, including a Commonwealth, or the District of Columbia.
+
+#### (3) Subseasonal
+
+&emsp;The term "subseasonal" means the time range between 2 weeks and 3 months.
+
+#### (4) Under Secretary
+
+&emsp;The term "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+#### (5) Weather industry and weather enterprise
+
+&emsp;The terms "weather industry" and "weather enterprise" are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectorsthat contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
+
+(Pub. L. 115–25, §2, Apr. 18, 2017, 131 Stat. 92.)
+
+#### References in Text
+
+This chapter, referred to in text, is Pub. L. 115–25, April 18, 2017, 131 Stat. 91, known as the Weather Research and Forecasting Innovation Act of 2017, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title
+
+Pub. L. 115–25, §1(a), Apr. 18, 2017, 131 Stat. 91, provided that: "This Act \[enacting this chapter and sections 3206a and 3208 of Title 33, Navigation and Navigable Waters, amending sections 3201 to 3207 of Title 33, and enacting and repealing provisions set out as notes under section 3201 of Title 33\] may be cited as the 'Weather Research and Forecasting Innovation Act of 2017'."
+

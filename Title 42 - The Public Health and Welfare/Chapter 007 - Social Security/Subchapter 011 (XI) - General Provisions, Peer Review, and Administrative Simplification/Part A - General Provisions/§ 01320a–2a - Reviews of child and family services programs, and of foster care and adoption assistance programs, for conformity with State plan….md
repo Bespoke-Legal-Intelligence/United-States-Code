@@ -28,7 +28,7 @@ The regulations referred to in subsection (a) shall—
 
 &emsp;&emsp;(A) such funds will not be withheld with respect to a program, unless it is determined that the program fails substantially to so conform;
 
-&emsp;&emsp;(B) such funds will not be withheld for a failure to so conform resulting from the State's reliance upon and correct use of formal written statements of Federal law or policy provided to the State by the Secretary; and
+&emsp;&emsp;(B) such funds will not be withheld for a failure to so conform resulting from the State's reliance upon and correct use of formal written statements of Federal law orpolicy provided to the State by the Secretary; and
 
 &emsp;&emsp;(C) the amount of such funds withheld is related to the extent of the failure to so conform; and
 

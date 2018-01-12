@@ -2,7 +2,7 @@
 
 (a) The taxes imposed by section 3101 of chapter 21, and by sections 3201 and 3211 of chapter 22 shall not be allowed as a deduction to the taxpayer in computing taxable income under subtitle A.
 
-(b) The tax deducted and withheld under chapter 24 shall not be allowed as a deduction eitherto the employer or to the recipient of the income in computing taxable income under subtitle A.
+(b) The tax deducted and withheld under chapter 24 shall not be allowed as a deduction either to the employer or to the recipient of the income in computing taxable income under subtitle A.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 97–248, title III, §§305(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369.)
 

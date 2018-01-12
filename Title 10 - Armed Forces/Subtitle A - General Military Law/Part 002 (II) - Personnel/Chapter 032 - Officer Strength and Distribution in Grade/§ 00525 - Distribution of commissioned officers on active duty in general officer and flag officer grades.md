@@ -46,7 +46,7 @@
 
 &emsp;(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under this section if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
-(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force, or Marine Corps in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
+(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force,or Marine Corps in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
 
 (3)(A) The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15.
 
@@ -210,7 +210,7 @@ Pub. L. 100–180, div. A, title V, §511(b), Dec. 4, 1987, 101 Stat. 1088, prov
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers
 
@@ -318,7 +318,7 @@ Related to relief from chief of staff duty.—For purposes of complying with sub
 
 Related to retirement, separation, release, or relief.—For purposes of complying with subsection (a), the Secretary of Defense may exclude the following officers:
 
-&emsp;&emsp;"(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty,but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
+&emsp;&emsp;"(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
 
 &emsp;&emsp;"(B) An officer of an Armed Force who has been relieved from a position designated under section 601(a) of title 10, United States Code, or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 
@@ -366,7 +366,7 @@ Implementation.—Not later than 120 days after the date of the submission of th
 
 &emsp;&emsp;"(B) to the extent practicable, the resulting grades for general and flag officer positions are uniformly applied to positions of similar duties and responsibilities across the military departments and the joint pool; and
 
-&emsp;&emsp;"(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate with the achievement of the reductions required pursuant to subsection (a)."
+&emsp;&emsp;"(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate withthe achievement of the reductions required pursuant to subsection (a)."
 
 #### Delayed Authority To Alter Distribution Requirements for Commissioned Officers on Active Duty in General Officer and Flag Officer Grades and Limitations on Authorized Strengths of General and Flag Officers on Active Duty
 

@@ -18,6 +18,7 @@
 | [1232\.](%C2%A7%2001232%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [1232a.](%C2%A7%2001232a%20-%20Navigational%20hazards.md) | Navigational hazards. |
 | [1232b.](%C2%A7%2001232b%20-%20Requirement%20to%20notify%20Coast%20Guard%20of%20release%20of%20objects%20into%20the%20navigable%20waters%20of%20the%20United%20States.md) | Requirement to notify Coast Guard of release of objects into the navigable waters of the United States. |
+| [1232c.](%C2%A7%2001232c%20-%20Prohibition%20on%20entry%20and%20operation.md) | Prohibition on entry and operation. |
 | [1233\.](%C2%A7%2001233%20-%20Regulations%20as%20to%20regattas%20or%20marine%20parades.md) | Regulations as to regattas or marine parades. |
 | [1234\.](%C2%A7%2001234%20-%20Enforcement%20of%20regulations%3B%20use%20of%20public%20or%20private%20vessels.md) | Enforcement of regulations; use of public or private vessels. |
 | [1235\.](%C2%A7%2001235%20-%20Transfer%20of%20authority%20to%20regulate%20to%20head%20of%20other%20department.md) | Transfer of authority to regulate to head of other department. |
@@ -46,6 +47,7 @@
 - [&sect; 01232 - Enforcement provisions](%C2%A7%2001232%20-%20Enforcement%20provisions.md)
 - [&sect; 01232a - Navigational hazards](%C2%A7%2001232a%20-%20Navigational%20hazards.md)
 - [&sect; 01232b - Requirement to notify Coast Guard of release of objects into the navigable waters of the United States](%C2%A7%2001232b%20-%20Requirement%20to%20notify%20Coast%20Guard%20of%20release%20of%20objects%20into%20the%20navigable%20waters%20of%20the%20United%20States.md)
+- [&sect; 01232c - Prohibition on entry and operation](%C2%A7%2001232c%20-%20Prohibition%20on%20entry%20and%20operation.md)
 - [&sect; 01233 - Regulations as to regattas or marine parades](%C2%A7%2001233%20-%20Regulations%20as%20to%20regattas%20or%20marine%20parades.md)
 - [&sect; 01234 - Enforcement of regulations; use of public or private vessels](%C2%A7%2001234%20-%20Enforcement%20of%20regulations%3B%20use%20of%20public%20or%20private%20vessels.md)
 - [&sect; 01235 - Transfer of authority to regulate to head of other department](%C2%A7%2001235%20-%20Transfer%20of%20authority%20to%20regulate%20to%20head%20of%20other%20department.md)

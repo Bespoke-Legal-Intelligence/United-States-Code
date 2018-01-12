@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(i) Not later than March 30 of each year, the Commissioner shall submit to the Congress an annual report regarding all waivers granted under subparagraph (B) during the preceding fiscal year.
 
-&emsp;&emsp;(ii) Notwithstanding any other provision of law, the authority of the Attorney General under subparagraph (B) shall be suspended during any period in which an annual report under clause (i) is past due and has not been submitted.
+&emsp;&emsp;(ii) Notwithstanding any other provision of law, the authority of the Attorney Generalunder subparagraph (B) shall be suspended during any period in which an annual report under clause (i) is past due and has not been submitted.
 
 #### (3) Bond
 
@@ -120,7 +120,7 @@ Section 1254 of this title, referred to in subsec. (d)(2), was repealed by Pub. 
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection."
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days."
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, textread as follows: "Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days."
 
 #### Effective Date
 

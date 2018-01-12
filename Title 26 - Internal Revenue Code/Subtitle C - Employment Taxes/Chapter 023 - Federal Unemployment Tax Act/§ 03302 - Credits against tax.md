@@ -78,7 +78,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;For purposes of subparagraph (C) of subsection (c)(2), the 5-year benefit cost rate applicable to any State for any taxable year is that percentage obtained by dividing—
 
-&emsp;&emsp;(A) one-fifth of the total of the compensation paid under the State unemploymentcompensation law during the 5-year period ending at the close of the second calendar year preceding such taxable year, by
+&emsp;&emsp;(A) one-fifth of the total of the compensation paid under the State unemployment compensation law during the 5-year period ending at the close of the second calendar year preceding such taxable year, by
 
 &emsp;&emsp;(B) the total of the remuneration subject to contributions under the State unemployment compensation law with respect to the first calendar year preceding such taxable year.
 
@@ -206,7 +206,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (A) Potential additional taxes
 
-&emsp;&emsp;The term "potential additional taxes" means, with respect to any State for any taxable year, the aggregate amount of the additional tax which would be payable under this chapter for such taxable year by all taxpayers subject to the unemployment compensation law of such State for such taxableyear if paragraph (2) of subsection (c) had applied to such taxable year and any preceding taxable year without regard to this subsection but with regard to subsection (f).
+&emsp;&emsp;The term "potential additional taxes" means, with respect to any State for any taxable year, the aggregate amount of the additional tax which would be payable under this chapter for such taxable year by all taxpayers subject to the unemployment compensation law of such State for such taxable year if paragraph (2) of subsection (c) had applied to such taxable year and any preceding taxable year without regard to this subsection but with regard to subsection (f).
 
 #### (B) Treatment of certain reductions
 
@@ -220,7 +220,7 @@ Subject to the limits provided by subsection (c), if—
 
 If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State's unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, §221(a)(101), div. B, title II, §206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub.L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, §221(a)(101), div. B, title II, §206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070.)
 
 #### References in Text
 
@@ -392,7 +392,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule for Certain Employees and Small Businesses
 
-Pub. L. 97–248, title II, §271(d)(3), (4), formerly §271(b)(3), Sept. 3, 1982, 96 Stat. 555, as redesignated and amended by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §271(d)(3), (4), formerly §271(b)(3), Sept. 3, 1982, 96 Stat. 555, as redesignated andamended by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(3)
 
@@ -472,7 +472,7 @@ Pub. L. 95–19, title II, §201(b), Apr. 12, 1977, 91 Stat. 43, provided that e
 
 Pub. L. 94–45, title I, §110(b), June 30, 1975, 89 Stat. 239, provided that:
 
-"(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemploymentaccount in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
+"(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
 
 "(2) The Secretary of Labor shall promptly prescribe and publish in the Federal Register regulations setting forth the criteria according to which he will determine the requirements of the preceding paragraph.
 

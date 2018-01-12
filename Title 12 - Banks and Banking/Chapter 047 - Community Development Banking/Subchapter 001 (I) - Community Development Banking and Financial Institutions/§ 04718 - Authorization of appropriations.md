@@ -28,7 +28,7 @@
 
 #### (3) Capitalization assistance
 
-&emsp;Not more than 5 percent of the amounts authorized to be appropriated under paragraph\(1) may be used as provided in section 4712 of this title.
+&emsp;Not more than 5 percent of the amounts authorized to be appropriated under paragraph (1) may be used as provided in section 4712 of this title.
 
 #### (4) Availability for funding section 4713 of this title
 

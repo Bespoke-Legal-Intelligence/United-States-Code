@@ -76,7 +76,7 @@ The Secretary may approve study projects concerning the national and regional ec
 
 #### (2) Sequence planting
 
-&emsp;In the case of a research project conducted under this section that involves the plantingof a sequence of crops or crop rotations, the Secretary shall approve such projects for a term that is appropriate to the sequence or rotation being studied.
+&emsp;In the case of a research project conducted under this section that involves the planting of a sequence of crops or crop rotations, the Secretary shall approve such projects for a term that is appropriate to the sequence or rotation being studied.
 
 #### (h) Public access
 

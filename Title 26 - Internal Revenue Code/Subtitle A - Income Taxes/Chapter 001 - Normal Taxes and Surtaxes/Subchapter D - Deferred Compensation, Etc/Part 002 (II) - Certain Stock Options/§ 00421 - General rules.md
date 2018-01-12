@@ -12,7 +12,7 @@ If a share of stock is transferred to an individual in a transfer in respect of 
 
 #### (b) Effect of disqualifying disposition
 
-If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or ofsuch employer corporation in which such disposition occurred. No amount shall be required to be deducted and withheld under chapter 24 with respect to any increase in income attributable to a disposition described in the preceding sentence.
+If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred. No amount shall be required to be deducted and withheld under chapter 24 with respect to any increase in income attributable to a disposition described in the preceding sentence.
 
 #### (c) Exercise by estate
 
@@ -72,7 +72,7 @@ Subsec. (c)(3)(B). Pub. L. 101–508, §11801(c)(9)(B)(iii)(IV), (V), substitute
 
 <b>1981</b>—Subsecs. (a), (b), (c)(1)(A). Pub. L. 97–34 inserted references to section 422A(a) in subsecs. (a), (b), and (c)(1)(A) and to section 422A(a)(1) in subsec. (b).
 
-<b>1964</b>—Pub. L. 88–272 amended section generally, and among other changes, inserted provisions relating to the effect of a qualifying transfer, and to the basis of shares acquired when an option is exercised by an estate, and omitted provisions relating to treatment of restricted stock options, a special rule where option price was between 85 percent and 95 percent of value of stock, acquisition of new stock, definitions, modification, extension, or renewal of option, and corporate reorganizations, liquidations, etc. See sections 421 to 425 of this title.
+<b>1964</b>—Pub. L. 88–272 amended section generally, and among other changes, inserted provisions relating to the effect of a qualifying transfer, and to the basis of shares acquired when an option is exercised by an estate, and omitted provisions relating to treatment of restricted stock options, a special rule where option price was between 85 percent and 95 percent of value ofstock, acquisition of new stock, definitions, modification, extension, or renewal of option, and corporate reorganizations, liquidations, etc. See sections 421 to 425 of this title.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866, §25, inserted sentence authorizing substitution of "grantor corporation" or "corporation issuing or assuming a stock option in a transaction to which subsection (g) is applicable" for "employer corporation".
 

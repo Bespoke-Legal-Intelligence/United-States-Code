@@ -22,7 +22,7 @@
 
 #### (b) Seizure
 
-Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
+Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation ofsuch substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
 (Pub. L. 94–469, title I, §17, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(6), (7), Oct. 28, 1992, 106 Stat. 3923.)
 

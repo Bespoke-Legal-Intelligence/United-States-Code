@@ -26,7 +26,7 @@ Based on the information obtained during the evaluation referred to in subsectio
 
 #### (d) Reports to Executive Directors; elimination or mitigation of adverse impacts
 
-The Secretary of the Treasury shall forward reports concerning information received under subsection (a) to the Executive Director representing the United States in the appropriate bank with instructions to seek to eliminate ormitigate adverse impacts which may result from the proposal.
+The Secretary of the Treasury shall forward reports concerning information received under subsection (a) to the Executive Director representing the United States in the appropriate bank with instructions to seek to eliminate or mitigate adverse impacts which may result from the proposal.
 
 (Pub. L. 95–118, title XIII, §1303, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; amended Pub. L. 108–447, div. D, title V, §593(b), Dec. 8, 2004, 118 Stat. 3037.)
 

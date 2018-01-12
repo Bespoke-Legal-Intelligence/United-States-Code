@@ -42,7 +42,7 @@
 
 (h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
 
-(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+(i) The Secretary shall establish appropriate structural fire protection, manning, operating,and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
 
 (j) The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
 
@@ -178,6 +178,10 @@ Subsec. (i). Pub. L. 104–324, §712(2), inserted "as measured under section 14
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–364 added subsec. (g).
 
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+
 #### Regulations
 
 Pub. L. 103–206, title V, §512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provided that:
@@ -190,7 +194,7 @@ Pub. L. 103–206, title V, §512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provid
 
 Pub. L. 111–281, title VII, §701(c), Oct. 15, 2010, 124 Stat. 2980, provided that: "No later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under section 3306(j) of title 46, United States Code. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act."
 
-\["Secretary" as used in section 701(c) of Pub. L. 111–281, set out above, probably means the Secretary of the department in which the Coast Guard is operating, see section 701(a)(1) of Pub. L. 111–281, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.\]
+\["Secretary" as used in section 701(c) of Pub. L. 111–281, set out above, probably means the Secretary of the department in which the Coast Guard is operating, see section 701(a)(1) of Pub. L. 111–281, set out as a noteunder section 1321 of Title 33, Navigation and Navigable Waters.\]
 
 #### Foreign Approvals
 

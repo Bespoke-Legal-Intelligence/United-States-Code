@@ -14,7 +14,7 @@
 
 &emsp;(6) All other veterans eligible for hospital care, medical services, and nursing home care under section 1710(a)(2) of this title.
 
-&emsp;(7) Veterans described in section 1710(a)(3) of this title who are eligible for treatment as a low-income family under section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)) for the area in which such veterans reside, regardless of whether such veterans aretreated as single person families under paragraph (3)(A) of such section 3(b) or as families under paragraph (3)(B) of such section 3(b).
+&emsp;(7) Veterans described in section 1710(a)(3) of this title who are eligible for treatment as a low-income family under section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)) for the area in which such veterans reside, regardless of whether such veterans are treated as single person families under paragraph (3)(A) of such section 3(b) or as families under paragraph (3)(B) of such section 3(b).
 
 &emsp;(8) Veterans described in section 1710(a)(3) of this title who are not covered by paragraph (7).
 

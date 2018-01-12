@@ -68,7 +68,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent thatthe amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
@@ -180,7 +180,7 @@ Contractor To Have Burden of Proof.—In a proceeding before the Armed Services 
 
 (k)
 
-Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, or personal services contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
+Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, orpersonal services contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
@@ -238,9 +238,9 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or anyfirm fixed-price contract for the purchase of commercial items.
 
-&emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
+&emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted in accordance with section 1908 of title 41.
 
 &emsp;(2) The term "head of the agency" or "agency head" does not include the Secretary of a military department.
 
@@ -252,7 +252,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term "fiscal year" means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460.)
 
 #### Historical and Revision Notes
 
@@ -271,6 +271,8 @@ Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Tr
 Another section 2324 of this title was contained in chapter 138 and was renumbered section 2344 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (l)(1)(B). Pub. L. 115–91 substituted "in accordance with section 1908 of title 41." for "to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
 
 <b>2016</b>—Subsec. (k). Pub. L. 114–261, §1(b)(1)(A), (B), inserted "or subcontractor, or personal services contractor" after "contractor" and ", subcontract, or personal services contract" after "contract" wherever appearing.
 
@@ -296,7 +298,7 @@ Subsec. (e)(2)(C). Pub. L. 111–350, §5(b)(19)(D), substituted "(as added by s
 
 Subsec. (l)(5). Pub. L. 112–81, §803(b), struck out par. (5) which read as follows: "The term 'senior executives', with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor."
 
-<b>1998</b>—Subsec. (l)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows:"The term 'senior executive', with respect to a contractor, means—
+<b>1998</b>—Subsec. (l)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'senior executive', with respect to a contractor, means—
 
 &emsp;"(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
 
@@ -382,7 +384,7 @@ Subsec. (m). Pub. L. 103–355, §2101(d), struck out subsec. (m) which read as 
 
 Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductory provisions struck out "by clear and convincing evidence" after "Secretary determines" and substituted "expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs" for "unallowable under paragraph (1)", and in subpar. (A), substituted "cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted" for "costs". Former subsec. (b) redesignated subsec. (b)(2).
 
-Subsec. (b)(2). Pub. L. 102–484, §818(a)(2), redesignated subsec. (b) as subsec. (b)(2), struck out ", in addition tothe penalty assessed under subsection (a)," after "against the contractor", and substituted "the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted" for "the amount of such cost".
+Subsec. (b)(2). Pub. L. 102–484, §818(a)(2), redesignated subsec. (b) as subsec. (b)(2), struck out ", in addition to the penalty assessed under subsection (a)," after "against the contractor", and substituted "the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted" for "the amount of such cost".
 
 Subsec. (c). Pub. L. 102–484, §818(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -442,7 +444,7 @@ Subsec. (e)(2), (3). Pub. L. 100–700, §8(b)(1)(B), (C), redesignated par. (3)
 
 Pub. L. 100–456, §832(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), amended section identically, temporarily adding par. (5). Pub. L. 100–526 provided that Pub. L. 100–463, §8105, and amendment made by that section shall cease to be effective. See Effective and Termination Dates of 1988 Amendment note below.
+Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), amended section identically, temporarily adding par. (5). Pub. L. 100–526 provided that Pub.L. 100–463, §8105, and amendment made by that section shall cease to be effective. See Effective and Termination Dates of 1988 Amendment note below.
 
 Subsec. (j). Pub. L. 100–370, §1(f)(3)(A)(ii), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -466,7 +468,7 @@ Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–67, div. A, title VII, §702(c), Dec. 26, 2013, 127 Stat. 1189, provided that: "This section \[amending this section and section 4304 of Title 41, Public Contracts, repealing section 1127 of Title 41, and enacting provisions set out as a note under section 4304 of Title41\] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–67, div. A, title VII, §702(c), Dec. 26, 2013, 127 Stat. 1189, provided that: "This section \[amending this section and section 4304 of Title 41, Public Contracts, repealing section 1127 of Title 41, and enacting provisions set out as a note under section 4304 of Title 41\] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 Pub. L. 113–66, div. A, title VIII, §811(d), Dec. 26, 2013, 127 Stat. 806, provided that: "The amendments made by this section \[amending this section and section 4304 of Title 41, Public Contracts, and repealing section 1127 of Title 41\] shall apply with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
@@ -584,7 +586,7 @@ Pub. L. 112–239, div. A, title VIII, §827(h), Jan. 2, 2013, 126 Stat. 1836, p
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Inclusion of Contract Clause in Contracts Awarded Before Effective Date
 
@@ -712,7 +714,7 @@ Pub. L. 103–160, div. A, title VIII, §841, Nov. 30, 1993, 107 Stat. 1719, as 
 
 "(a)
 
-Prohibition.—The Secretary of Defense may not by regulation place a limitation on the amount that the Department of Defense may reimburse an institution of higher education for allowable indirect costs incurred by the institution for work performed for theDepartment of Defense under a Department of Defense contract unless that same limitation is applied uniformly to all other organizations performing similar work for the Department of Defense under Department of Defense contracts.
+Prohibition.—The Secretary of Defense may not by regulation place a limitation on the amount that the Department of Defense may reimburse an institution of higher education for allowable indirect costs incurred by the institution for work performed for the Department of Defense under a Department of Defense contract unless that same limitation is applied uniformly to all other organizations performing similar work for the Department of Defense under Department of Defense contracts.
 
 "(b)
 

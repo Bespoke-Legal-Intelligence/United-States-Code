@@ -14,7 +14,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (f) The term "State" means any State of the United States and the Commonwealth of Puerto Rico.
 
-(g) The term "Territory" means Guam, the Virgin Islands of the United States, AmericanSamoa, and any other territory or possession of the United States, excluding the Canal Zone.
+(g) The term "Territory" means Guam, the Virgin Islands of the United States, American Samoa, and any other territory or possession of the United States, excluding the Canal Zone.
 
 (h) The term "commerce" means commerce between any State, any Territory, or the District of Columbia, and any place outside thereof; or within any Territory not organized with a legislative body, or the District of Columbia.
 
@@ -64,7 +64,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
 
-&emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon withsuch conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
@@ -88,7 +88,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (s) The term "official mark" means the official inspection legend or any other symbol prescribed by regulations of the Secretary to identify the status of any article or animal under this chapter.
 
-(t) The term "official inspection legend" means any symbol prescribed by regulations of the Secretary showing that an article was inspected and passed in accordance with this chapter.
+(t) The term "official inspection legend" means any symbol prescribed by regulations ofthe Secretary showing that an article was inspected and passed in accordance with this chapter.
 
 (u) The term "official certificate" means any certificate prescribed by regulations of the Secretary for issuance by an inspector or other person performing official functions under this chapter.
 
@@ -160,7 +160,7 @@ Pub. L. 99–641, title IV, §401, Nov. 10, 1986, 100 Stat. 3567, provided that:
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: "That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title\] may be cited as the 'Humane Methods of Slaughter Act of 1978'."
+Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: "That this Act \[amending sections 603, 610, and 620 ofthis title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title\] may be cited as the 'Humane Methods of Slaughter Act of 1978'."
 
 #### Short Title
 

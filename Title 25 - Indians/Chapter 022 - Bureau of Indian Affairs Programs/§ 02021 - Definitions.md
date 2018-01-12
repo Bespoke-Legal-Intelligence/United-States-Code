@@ -86,7 +86,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (14) Local school board
 
-&emsp;The term "local school board", when used with respect to a Bureau school, means a body chosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
+&emsp;The term "local school board", when used with respect to a Bureau school, means a bodychosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
 
 &emsp;&emsp;(A) the members of the body shall be appointed by the tribal governing bodies of the tribes affected; and
 
@@ -140,7 +140,7 @@ A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103�
 
 Another prior section 2021, Pub. L. 95–561, title XI, §1140A, formerly §1141, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140A and amended Pub. L. 99–89, §9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-A prior section 2022, Pub. L. 95–561, title XI, §1142, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2022, Pub. L. 95–561, title XI, §1142, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2022 and prior sections 2022a and 2022b were omitted in the general amendment of this chapter by Pub. L. 103–382.
 
@@ -169,4 +169,8 @@ Section 2026, Pub. L. 95–561, title XI, §1146, as added Pub. L. 103–382, ti
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 

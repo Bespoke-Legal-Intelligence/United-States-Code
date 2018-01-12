@@ -104,7 +104,7 @@ The leadership activities described in subsection (a) may include—
 
 &emsp;&emsp;(A) for exemplary performance in carrying out programs under this chapter, which awards shall be based on—
 
-&emsp;&emsp;&emsp;(i) eligible recipients exceeding the local adjusted levels of performance established under section 2323(b) of this title in a manner that reflects sustained or significant improvement;
+&emsp;&emsp;&emsp;(i) eligible recipients exceeding the local adjusted levels of performance establishedunder section 2323(b) of this title in a manner that reflects sustained or significant improvement;
 
 &emsp;&emsp;&emsp;(ii) eligible recipients effectively developing connections between secondary education and postsecondary education and training;
 

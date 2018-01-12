@@ -10,7 +10,7 @@ With respect to the delegation of any of its functions, as provided in subsectio
 
 #### (c) Finality of delegated action
 
-If the right to exercise such review is declined, or if no such review is sought within the time stated in the rules promulgated by the Commission, then the action of any such division of theCommission, individual Commissioner, administrative law judge, employee, or employee board, shall, for all purposes, including appeal or review thereof, be deemed the action of the Commission.
+If the right to exercise such review is declined, or if no such review is sought within the time stated in the rules promulgated by the Commission, then the action of any such division of the Commission, individual Commissioner, administrative law judge, employee, or employee board, shall, for all purposes, including appeal or review thereof, be deemed the action of the Commission.
 
 (June 6, 1934, ch. 404, title I, §4A, as added Pub. L. 100–181, title III, §308(a), Dec. 4, 1987, 101 Stat. 1254.)
 

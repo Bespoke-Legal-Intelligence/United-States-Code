@@ -94,7 +94,7 @@ Pub. L. 108–482, title II, §205, Dec. 23, 2004, 118 Stat. 3917, provided that
 
 "(a)
 
-Free Speech and Press.—Nothing in this title \[see Short Title of 2004 Amendment note set out under section 1051 of this title\] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
+Free Speech and Press.—Nothing in this title \[see Short Title of 2004 Amendment note set out undersection 1051 of this title\] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
 
 "(b)
 

@@ -26,7 +26,7 @@ Definition.—In this paragraph, the term "subcontract" includes a transfer of c
 
 &emsp;&emsp;(B)
 
-When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
+When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiatedprime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
 
 &emsp;&emsp;(C)
 
@@ -54,7 +54,7 @@ Waiver by head of executive agency.—
 
 &emsp;&emsp;(A)
 
-In general.—The head of an executive agency may waive the applicability of thecost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+In general.—The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
 &emsp;&emsp;&emsp;(i) is primarily engaged in the sale of commercial items; and
 
@@ -116,7 +116,7 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 
 &emsp;(1) disclose in writing their cost accounting practices, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs; and
 
-&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid to the contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
+&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid tothe contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
 
 (g)
 

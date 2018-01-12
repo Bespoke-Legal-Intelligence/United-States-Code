@@ -24,7 +24,7 @@ The Secretary of Health and Human Services shall—
 
 #### (d) Report
 
-Not later than one year after August 23, 1988, the Secretary of Health and Human Services shall report to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives on the activities undertaken by the Secretary to implement this section. The report shall be made available to appropriate Federal and State agencies and to interested persons.
+Not later than one year after August 23, 1988, the Secretary of Health and Human Services shall report to the Committee on Agriculture, Nutrition, and Forestry and the Committee onLabor and Human Resources of the Senate and the House of Representatives on the activities undertaken by the Secretary to implement this section. The report shall be made available to appropriate Federal and State agencies and to interested persons.
 
 (Pub. L. 100–418, title IV, §4703, Aug. 23, 1988, 102 Stat. 1413.)
 

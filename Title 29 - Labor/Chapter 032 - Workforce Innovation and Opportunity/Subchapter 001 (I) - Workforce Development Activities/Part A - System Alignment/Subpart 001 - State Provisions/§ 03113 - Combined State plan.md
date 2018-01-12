@@ -30,13 +30,13 @@
 
 &emsp;&emsp;(J) Employment and training activities carried out under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.).
 
-&emsp;&emsp;(K) Programs authorized under section 17532 of title 42.
+&emsp;&emsp;(K) Programs authorized under section 60532 of title 34.
 
 #### (b) Requirements
 
 #### (1) In general
 
-&emsp;The portion of a combined plan covering the core programs shall be subject to the requirements of section 3112 of this title (including section 3112(c)(3) of this title). The portion of such plan covering a program or activity described in subsection (a)(2) shall be subject to the requirements, if any, applicable to a plan or application for assistance for that program or activity, under the Federal law authorizing the program or activity. At the election of the State, section 3112(c)(3) of this title may apply to that portion.
+&emsp;The portion of a combined plan covering the core programs shall be subject to the requirements of section 3112 of this title (including section 3112(c)(3) of this title). The portion of such plan covering a program or activity described in subsection (a)(2) shall be subject to the requirements, if any, applicable to a plan or application for assistance for that program or activity, under the Federal law authorizingthe program or activity. At the election of the State, section 3112(c)(3) of this title may apply to that portion.
 
 #### (2) Additional submission not required
 
@@ -84,7 +84,7 @@ In this section, the term "appropriate Secretary" means—
 
 &emsp;(1) with respect to the portion of a combined plan relating to any of the core programs (including a description, and an assurance concerning that program, specified in subsection (b)(3)), the Secretary of Labor and the Secretary of Education; and
 
-&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federallaw authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
+&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federal law authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
 
 (Pub. L. 113–128, title I, §103, July 22, 2014, 128 Stat. 1450.)
 
@@ -96,7 +96,7 @@ The Social Security Act, referred to in subsec. (a)(2)(B), is act Aug. 14, 1935,
 
 The Trade Act of 1974, referred to in subsec. (a)(2)(E), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42. For completeclassification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 

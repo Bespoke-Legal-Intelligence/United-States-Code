@@ -10,7 +10,7 @@ Any State which, at any time, desires to assume responsibility for enforcement o
 
 #### (c) Criteria for approval of State plan by Secretary
 
-The Secretary shall approve the plan submitted by a State under subsection (b) of this section, or any modification thereof, if such plan in his judgment—
+The Secretary shall approve the plan submitted by a State under subsection (b), or any modification thereof, if such plan in his judgment—
 
 &emsp;(1) designates a State agency or agencies as the agency or agencies responsible for administering the plan throughout the State;
 
@@ -40,11 +40,11 @@ The Secretary shall approve the plan submitted by a State under subsection (b) o
 
 #### (d) Notice and hearing prior to rejection by Secretary of State plan
 
-If the Secretary rejects a plan submitted under subsection (b) of this section, he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
+If the Secretary rejects a plan submitted under subsection (b), he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
 
 #### (e) Discretionary enforcement by Secretary of standards in State having approved plan
 
-After the Secretary approves a State plan submitted under subsection (b) of this section, he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
+After the Secretary approves a State plan submitted under subsection (b), he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
 
 #### (f) Annual evaluation by Secretary of execution of State plan; basis of evaluation; submission of evaluation and data to Congress; determination by Secretary of improper administration, etc., of State plan; procedure; effect of determination
 
@@ -54,11 +54,11 @@ The Secretary shall, on the basis of reports submitted by the designated State a
 
 #### (1) Establishment of dispute resolution program
 
-&emsp;Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) of this section for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5.
+&emsp;Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in eachState described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5.
 
 #### (2) Implementation of dispute resolution program
 
-&emsp;Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12) of this section.
+&emsp;Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12).
 
 #### (3) Contracting out of implementation
 
@@ -87,4 +87,8 @@ Subsec. (g). Pub. L. 106–569, §610(2), added subsec. (g).
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

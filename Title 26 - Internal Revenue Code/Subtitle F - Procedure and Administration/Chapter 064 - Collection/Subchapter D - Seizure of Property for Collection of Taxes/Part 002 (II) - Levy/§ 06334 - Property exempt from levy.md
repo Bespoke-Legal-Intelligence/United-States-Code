@@ -110,6 +110,34 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 &emsp;In the case of any individual not described in paragraph (1), the amount of the wages, salary, and other income payable to or received by him during any applicable pay period or other fiscal period (as determined under regulations prescribed by the Secretary) which is exempt from levy under subsection (a)(9) shall be an amount (determined under such regulations) which as nearly as possible will result in the same total exemption from levy for such individual over a period of time as he would have under paragraph (1) if (during such period of time) he were paid or received such wages, salary, and other income on a regular weekly basis.
 
+#### (4) Years when personal exemption amount is zero
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any taxable year in which the exemption amount under section 151(d) is zero, paragraph (2) shall not apply and for purposes of paragraph (1) the term "exempt amount" means an amount equal to—
+
+&emsp;&emsp;&emsp;(i) the sum of the amount determined under subparagraph (B) and the standard deduction, divided by
+
+&emsp;&emsp;&emsp;(ii) 52.
+
+#### (B) Amount determined
+
+&emsp;&emsp;For purposes of subparagraph (A), the amount determined under this subparagraph is $4,150 multiplied by the number of the taxpayer's dependents for the taxable year in which the levy occurs.
+
+#### (C) Inflation adjustment
+
+&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2018, the $4,150 amount in subparagraph (B) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
+
+> &emsp;&emsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
+
+#### (D) Verified statement
+
+&emsp;&emsp;Unless the taxpayer submits to the Secretary a written and properly verified statement specifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with no dependents.
+
 #### (e) Levy allowed on principal residences and certain business assets in certain circumstances
 
 #### (1) Principal residences
@@ -144,13 +172,13 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting "calendar year 1998" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting "calendar year 1998" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (2) Rounding
 
 &emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(o)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(o), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(l)(3), formerly §110(l)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(o)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(o), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(l)(3), formerly §110(l)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763; Pub. L. 115–97, title I, §§11002(d)(1)(II), 11041(d), Dec. 22, 2017, 131 Stat. 2060, 2084.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -167,6 +195,10 @@ The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug.
 The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(4). Pub. L. 115–97, §11041(d), added par. (4).
+
+Subsec. (g)(1)(B). Pub. L. 115–97, §11002(d)(1)(II), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §3431(a), substituted "$6,250" for "$2,500".
 
@@ -218,7 +250,7 @@ Subsec. (d)(1). Pub. L. 100–647, §6236(c)(3)(A), amended par. (1) generally, 
 
 &emsp;&emsp;"(i) over half of whose support for the payroll period was received from the taxpayer,
 
-&emsp;&emsp;"(ii) who is the spouse of the taxpayer, or who bears a relationship to the taxpayer specified inparagraphs (1) through (9) of section 152(a) (relating to definition of dependents), and
+&emsp;&emsp;"(ii) who is the spouse of the taxpayer, or who bears a relationship to the taxpayer specified in paragraphs (1) through (9) of section 152(a) (relating to definition of dependents), and
 
 &emsp;&emsp;"(iii) who is not a minor child of the taxpayer with respect to whom amounts are exempt from levy under subsection (a)(8) for the payroll period.
 
@@ -262,6 +294,12 @@ Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(II) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 11041(d) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under section 151 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\]."
@@ -278,7 +316,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 110 of the Per
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts forterminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 Pub. L. 104–168, title V, §502(d), July 30, 1996, 110 Stat. 1461, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996."
 

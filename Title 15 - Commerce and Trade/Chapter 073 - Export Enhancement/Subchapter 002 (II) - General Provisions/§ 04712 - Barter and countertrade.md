@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The President shall establish an interagency group on countertrade, to be composed of representatives of such departments and agencies of the United States as the President considersappropriate. The Secretary of Commerce shall be the chairman of the interagency group.
+&emsp;The President shall establish an interagency group on countertrade, to be composed of representatives of such departments and agencies of the United States as the President considers appropriate. The Secretary of Commerce shall be the chairman of the interagency group.
 
 #### (2) Functions
 

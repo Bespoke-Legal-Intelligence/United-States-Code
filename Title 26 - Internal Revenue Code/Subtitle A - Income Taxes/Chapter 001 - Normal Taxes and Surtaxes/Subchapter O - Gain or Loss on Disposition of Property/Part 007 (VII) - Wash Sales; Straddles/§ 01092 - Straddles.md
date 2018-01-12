@@ -52,7 +52,7 @@
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, the rules for the application of this section to a position which is orhas been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii), and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, the rules for the application of this section to a position which is or has been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii), and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
 
 #### (3) Unrecognized gain
 
@@ -618,7 +618,7 @@ Commodities Dealer.—For purposes of this section, the term 'commodities dealer
 
 "(g)
 
-Regulated Futures Contracts.—For purposes of this section, the term 'regulated futures contracts' has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
+Regulated Futures Contracts.—For purposes of this section, the term 'regulated futures contracts'has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
 
 "(h)
 

@@ -42,7 +42,7 @@ The Commission shall monitor the acts of the People's Republic of China which re
 
 #### (b) Victims lists
 
-The Commission shall compile and maintain lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government ofthe People's Republic of China due to their pursuit of the rights described in subsection (a). In compiling such lists, the Commission shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families.
+The Commission shall compile and maintain lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of the People's Republic of China due to their pursuit of the rights described in subsection (a). In compiling such lists, the Commission shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families.
 
 #### (c) Monitoring development of rule of law
 
@@ -52,7 +52,7 @@ The Commission shall monitor the development of the rule of law in the People's 
 
 &emsp;(2) processes by which statutes, regulations, rules, and other legal acts of the Government of the People's Republic of China are developed and become binding within the People's Republic of China;
 
-&emsp;(3) the extent to which statutes, regulations, rules, administrative and judicial decisions, and other legal acts of the Government of the People's Republic of China are published and are made accessible to the public;
+&emsp;(3) the extent to which statutes, regulations, rules, administrative and judicial decisions,and other legal acts of the Government of the People's Republic of China are published and are made accessible to the public;
 
 &emsp;(4) the extent to which administrative and judicial decisions are supported by statements of reasons that are based upon written statutes, regulations, rules, and other legal acts of the Government of the People's Republic of China;
 

@@ -64,7 +64,7 @@ Gift or Donation Defined.—In this section, the term "gift or donation" means a
 
 Subsec. (a). Pub. L. 108–136, §931(b)(1)(A), struck out "Foreign" before "Gifts" in heading.
 
-Subsec. (a)(1). Pub. L. 108–136, §931(a)(1), as amended by Pub. L. 108–375, substituted "gifts and donations from sources described in paragraph (2)" for "foreign gifts or donations".
+Subsec. (a)(1). Pub. L. 108–136, §931(a)(1), as amended by Pub. L. 108–375, substituted "gifts and donationsfrom sources described in paragraph (2)" for "foreign gifts or donations".
 
 Subsec. (a)(2), (3). Pub. L. 108–136, §931(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 108–136, §931(b)(1)(B), struck out "foreign" before "gif
 
 Subsec. (f). Pub. L. 108–136, §931(b)(1)(A), (C), in heading, struck out "Foreign" before "Gift" and in text, struck out "foreign" after "section, a" and "from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country" before period at end.
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: "If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shallnotify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year."
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: "If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shall notify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year."
 
 #### Effective Date of 2004 Amendment
 

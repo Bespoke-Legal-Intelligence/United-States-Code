@@ -14,7 +14,7 @@ A unique partnership arrangement exists in food and agricultural research, exten
 
 &emsp;&emsp;(D) subchapter VI of this chapter;
 
-&emsp;(2) extension programs under subchapter VI of this chapter and the Act of May 8, 1914 (7 U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
+&emsp;(2) extension programs under subchapter VI of this chapter and the Act of May 8, 1914 (7U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
 
 &emsp;(3) teaching programs under—
 
@@ -76,7 +76,7 @@ To address more effectively the critical need for reducing farm input costs, imp
 
 #### References in Text
 
-Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 361a of this title and Tables.
+Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
 Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
@@ -86,7 +86,7 @@ Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 
 
 Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
+Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 

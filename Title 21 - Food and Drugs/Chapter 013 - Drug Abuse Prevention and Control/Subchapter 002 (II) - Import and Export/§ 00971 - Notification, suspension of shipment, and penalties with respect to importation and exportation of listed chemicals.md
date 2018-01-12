@@ -58,7 +58,7 @@ A person located in the United States who is a broker or trader for an internati
 
 #### (g) Return declaration
 
-Within 30 days after a transaction covered by this section is completed, the importer or exporter shall send the Attorney General a return declaration containing particulars of the transaction, including the date, quantity, chemical, container, name of transferees, and such other information as the Attorney General may specify in regulations. For importers, a single return declaration may include the particulars of both the importation and distribution. If the importer has not distributed all chemicals imported by the end of the initial 30-day period, the importer shall file supplemental return declarations no later than 30 days from the date of any further distribution, until the distribution or other disposition of all chemicals imported pursuant to the import notification or any update are accounted for.
+Within 30 days after a transaction covered by this section is completed, the importer or exporter shall send the Attorney General a return declaration containing particulars of the transaction, including the date, quantity, chemical, container, name of transferees, and such other information as the Attorney General may specify in regulations. For importers, a single return declaration may include the particulars of both the importation and distribution. If the importer has not distributed all chemicals imported by the end of the initial 30-day period,the importer shall file supplemental return declarations no later than 30 days from the date of any further distribution, until the distribution or other disposition of all chemicals imported pursuant to the import notification or any update are accounted for.
 
 #### (h) Importation and distribution of ephedrine, pseudoephedrine, or phenylpropanolamine
 
@@ -82,7 +82,7 @@ Subsec. (g). Pub. L. 109–177, §716(a)(4), added subsec. (g).
 
 Subsec. (h). Pub. L. 109–177, §721, added subsec. (h).
 
-<b>1994</b>—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, §330024(c)(2), made technical amendment to directorylanguage of Pub. L. 103–200, §9(b). See 1993 Amendment notes below.
+<b>1994</b>—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, §330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, §9(b). See 1993 Amendment notes below.
 
 Subsec. (e). Pub. L. 103–322, §330024(c)(1), made technical amendment to directory language of Pub. L. 103–200, §5(a). See 1993 Amendment note below.
 

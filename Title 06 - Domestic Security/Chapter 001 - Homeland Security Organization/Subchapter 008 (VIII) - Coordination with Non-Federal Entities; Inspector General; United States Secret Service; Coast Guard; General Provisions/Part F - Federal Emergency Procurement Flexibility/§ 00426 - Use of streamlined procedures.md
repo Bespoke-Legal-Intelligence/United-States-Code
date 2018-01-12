@@ -26,7 +26,7 @@ The head of an executive agency shall, when appropriate, use streamlined acquisi
 
 #### (b) Waiver of certain small business threshold requirements
 
-Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) of title 15 shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in section 422 of this title.
+Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) of title15 shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in section 422 of this title.
 
 (Pub. L. 107–296, title VIII, §856, Nov. 25, 2002, 116 Stat. 2237.)
 

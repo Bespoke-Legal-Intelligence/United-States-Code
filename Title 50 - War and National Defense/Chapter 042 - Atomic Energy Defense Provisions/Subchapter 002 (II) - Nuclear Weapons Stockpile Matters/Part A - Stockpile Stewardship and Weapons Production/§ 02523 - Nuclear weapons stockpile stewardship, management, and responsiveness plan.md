@@ -26,9 +26,13 @@ Each summary of the plan submitted under subsection (b)(1) shall include, at a m
 
 &emsp;(5) A summary of the status, plans, and budgets for carrying out the stockpile responsiveness program under section 2538b of this title.
 
-&emsp;(6) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+&emsp;(6) A summary of the plan regarding the research and development, deployment, and lifecycle sustainment of technologies described in subsection (d)(7).
 
-&emsp;(7) Such other information as the Administrator considers appropriate.
+&emsp;(7) A summary of the assessment under subsection (d)(8) regarding the execution of programs with current and projected budgets and any associated risks.
+
+&emsp;(8) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+
+&emsp;(9) Such other information as the Administrator considers appropriate.
 
 #### (d) Elements of biennial detailed report
 
@@ -36,7 +40,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;(1) With respect to stockpile stewardship, stockpile management, and stockpile responsiveness—
 
-&emsp;&emsp;(A) the status of the nuclear weapons stockpile, including the number and age of warheads (including both active and inactive) for each warhead type;
+&emsp;&emsp;(A) the status of the nuclear weapons stockpile, including the number and age ofwarheads (including both active and inactive) for each warhead type;
 
 &emsp;&emsp;(B) for each five-year period occurring during the period beginning on the date of the report and ending on the date that is 20 years after the date of the report—
 
@@ -64,9 +68,11 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(L) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under section 2524 of this title;
 
-&emsp;&emsp;(M) the status, plans, activities, budgets, and schedules for carrying out the stockpile responsiveness program under section 2538b of this title; and
+&emsp;&emsp;(M) the status, plans, activities, budgets, and schedules for carrying out the stockpile responsiveness program under section 2538b of this title;
 
-&emsp;&emsp;(N) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under section 2538b of this title.
+&emsp;&emsp;(N) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under section 2538b of this title; and
+
+&emsp;&emsp;(O) as required, when assessing and developing prototype nuclear weapons of foreign countries, a report from the directors of the national security laboratories on the need and plan for such assessment and development that includes separate comments on the plan from the Secretary of Energy and the Director of National Intelligence.
 
 &emsp;(2) With respect to science-based tools—
 
@@ -84,7 +90,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;&emsp;(ii) the strategies to address such challenges without the use of nuclear testing;
 
-&emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation andcomputing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
+&emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
 
 &emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
@@ -104,9 +110,17 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;&emsp;(iii) the most recent Nuclear Posture Review as of the date of the plan;
 
-&emsp;&emsp;(B) a schedule for implementing the measures described under subparagraph (A) during the 10-year period following the date of the plan; and
+&emsp;&emsp;(B) a schedule for implementing the measures described under subparagraph (A) during the 10-year period following the date of the plan;
 
-&emsp;&emsp;(C) the estimated levels of annual funds the Administrator determines necessary to carry out the measures described under subparagraph (A), including a discussion of the criteria, evidence, and strategies on which such estimated levels of annual funds are based.
+&emsp;&emsp;(C) the estimated levels of annual funds the Administrator determines necessary to carry out the measures described under subparagraph (A), including a discussion of the criteria, evidence, and strategies on which such estimated levels of annual funds are based; and
+
+&emsp;&emsp;(D)(i) a description of—
+
+&emsp;&emsp;&emsp;(I) the metrics (based on industry best practices) used by the Administrator to determine the infrastructure deferred maintenance and repair needs of the nuclear security enterprise; and
+
+&emsp;&emsp;&emsp;(II) the percentage of replacement plant value being spent on maintenance and repair needs of the nuclear security enterprise; and
+
+&emsp;&emsp;(ii) an explanation of whether the annual spending on such needs complies with the recommendation of the National Research Council of the National Academies of Sciences, Engineering, and Medicine that such spending be in an amount equal to four percent of the replacement plant value, and, if not, the reasons for such noncompliance and a plan for how the Administrator will ensure facilities of the nuclear security enterprise are being properly sustained.
 
 &emsp;(5) With respect to the nuclear test readiness of the United States—
 
@@ -138,7 +152,17 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(H) Such other items as the Administrator considers important for the integrated management of plutonium for stockpile and stockpile stewardship needs.
 
-&emsp;(7) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+&emsp;(7) A plan for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the five fiscal years following the date of the report, together with—
+
+&emsp;&emsp;(A) for each site in the nuclear security enterprise, a description of the technologies deployed to address the physical and cybersecurity threats posed to that site;
+
+&emsp;&emsp;(B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cybersecurity technologies; and
+
+&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
+
+&emsp;(8) An assessment of whether the programs described by the report can be executed with current and projected budgets and any associated risks.
+
+&emsp;(9) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
 
 #### (e) Nuclear Weapons Council assessment
 
@@ -150,7 +174,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements; and
 
-&emsp;&emsp;(iii) whether the plan supports the stockpile responsiveness program under section2538b of this title in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
+&emsp;&emsp;(iii) whether the plan supports the stockpile responsiveness program under section 2538b of this title in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
 
 &emsp;(B) An analysis of whether the plan adequately addresses the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
 
@@ -188,7 +212,7 @@ In this section:
 
 &emsp;&emsp;(E) nuclear incident response.
 
-(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190.)
+(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190; Pub. L. 115–91, div. C, title XXXI, §§3111(c), 3133(c)(1), 3134, 3135(a), Dec. 12, 2017, 131 Stat. 1882, 1896, 1898.)
 
 #### References in Text
 
@@ -205,6 +229,22 @@ Provisions similar to those in this section were contained in the following prio
 Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; repealed Pub. L. 105–85, div. C, title XXXI, §3152(c), Nov. 18, 1997, 111 Stat. 2042.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(6). Pub. L. 115–91, §3133(c)(1)(A)(ii), added par. (6). Former par. (6) redesignated (8).
+
+Subsec. (c)(7). Pub. L. 115–91, §3134(1)(B), added par. (7). Former par. (7) redesignated (9).
+
+Subsec. (c)(8), (9). Pub. L. 115–91, §§3133(c)(1)(A)(i), 3134(1)(A), redesignated pars. (6) and (7) first as (7) and (8) and then as (8) and (9), respectively.
+
+Subsec. (d)(1)(O). Pub. L. 115–91, §3135(a), added subpar. (O).
+
+Subsec. (d)(4)(D). Pub. L. 115–91, §3111(c), added subpar. (D).
+
+Subsec. (d)(7). Pub. L. 115–91, §3133(c)(1)(B)(ii), added par. (7). Former par. (7) redesignated (9).
+
+Subsec. (d)(8). Pub. L. 115–91, §3134(2)(B), added par. (8).
+
+Subsec. (d)(9). Pub. L. 115–91, §§3133(c)(1)(B)(i), 3134(2)(A), redesignated par. (7) first as (8) and then as (9).
 
 <b>2015</b>—Pub. L. 114–92, §3112(c)(1)(A), substituted "responsiveness" for "infrastructure" in section catchline.
 
@@ -238,7 +278,7 @@ Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, a
 
 &emsp;"(1)
 
-Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senateand the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
+Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
 
 &emsp;&emsp;"(A) enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States;
 

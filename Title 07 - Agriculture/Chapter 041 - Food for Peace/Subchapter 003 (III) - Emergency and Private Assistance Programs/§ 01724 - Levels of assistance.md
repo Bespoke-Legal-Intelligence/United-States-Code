@@ -8,7 +8,7 @@
 
 #### (2) Minimum non-emergency assistance
 
-&emsp;Of the amounts specified in paragraph (1), and except as provided in paragraph (3), theAdministrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under section 1722 of this title in an amount that for each of fiscal years 2008 through 2018 is not less than 1,875,000 metric tons.
+&emsp;Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under section 1722 of this title in an amount that for each of fiscal years 2008 through 2018 is not less than 1,875,000 metric tons.
 
 #### (3) Exception
 

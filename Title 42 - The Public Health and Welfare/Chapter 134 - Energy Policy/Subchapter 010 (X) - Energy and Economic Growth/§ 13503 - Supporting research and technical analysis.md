@@ -4,7 +4,7 @@
 
 #### (1) Program direction
 
-&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences to provide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
+&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences to provide basic research support for the development of energy technologies. Such program shall focus on the efficient production and useof energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
 
 #### (2) User facilities
 

@@ -34,7 +34,7 @@ Special rule for members who receive sole survivorship discharge.—(A) If a mem
 
 &emsp;&emsp;(i) shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
 
-&emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+&emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the paymentof the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
 &emsp;(B) In this paragraph, the term "sole survivorship discharge" means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "bonus, incentive pay, or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
 
-&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services,in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
+&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
 
 &emsp;&emsp;(A) to a member in a regular or reserve component who remains on active duty or in an active status;
 

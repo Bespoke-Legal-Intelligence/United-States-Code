@@ -2,7 +2,7 @@
 
 (a)
 
-Form, Contents, and Proof of Service.—To be issued a certificate of public convenience and necessity under section 41102 of this title, a citizen of the United States must apply to the Secretary of Transportation. The application must—
+Form, Contents, and Proof of Service.—To be issued a certificate of public convenience and necessity under section 41102 of this title, a citizen of the United States must apply to theSecretary of Transportation. The application must—
 
 &emsp;(1) be in the form and contain information required by regulations of the Secretary; and
 
@@ -94,5 +94,5 @@ In subsection (b)(5), the word "particular" is omitted as surplus. The words "by
 
 In subsection (c)(1), the words "In any determination as to whether or not" are omitted as surplus. The word "provide" is substituted for "perform" for consistency in the revised title. The word "properly" is omitted as surplus. The word "comply" is substituted for "conform" for consistency in the revised title.
 
-In subsection (c)(2), the words "In any determination as to whether" are omitted as surplus. The reference is to section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
+In subsection (c)(2), the words "In any determination as to whether" are omitted as surplus. The reference isto section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
 

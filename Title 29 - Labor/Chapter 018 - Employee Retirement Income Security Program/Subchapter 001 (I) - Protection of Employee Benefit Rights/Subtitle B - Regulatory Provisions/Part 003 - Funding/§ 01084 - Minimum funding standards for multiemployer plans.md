@@ -26,7 +26,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(iv) separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 15 plan years,
 
-&emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for eachprior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
+&emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for each prior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
 
 &emsp;&emsp;(D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under section 1082(b)(3)(D) of this title (as in effect on the day before August 17, 2006), and
 
@@ -56,7 +56,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (5) Combining and offsetting amounts to be amortized
 
-&emsp;Under regulations prescribed by the Secretary of the Treasury, amounts required to be amortized under paragraph (2) or paragraph (3), as the case may be—
+&emsp;Under regulations prescribed by the Secretary of the Treasury, amounts required to beamortized under paragraph (2) or paragraph (3), as the case may be—
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
@@ -86,7 +86,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (C) Plan payments to supplemental program or withdrawal liability payment fund
 
-&emsp;&emsp;Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 1402 of this title or to a fund exempt under section 501(c)(22) of title 26 pursuant to section 1403of this title shall reduce the amount of contributions considered received by the plan for the plan year.
+&emsp;&emsp;Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 1402 of this title or to a fund exempt under section 501(c)(22) of title 26 pursuant to section 1403 of this title shall reduce the amount of contributions considered received by the plan for the plan year.
 
 #### (D) Interim withdrawal liability payments
 
@@ -160,7 +160,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (iii) Amortization of reduction in unfunded accrued liability
 
-&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the planshall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
 
 #### (C) Solvency test
 
@@ -286,7 +286,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) Commissioners' standard table
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners' standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on January 1, 1993.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners' standard table (described in section 807(d)(5)(A) of title 26) <sup>1</sup> used to determine reserves for group annuity contracts issued on January 1, 1993.
 
 #### (II) Secretarial authority
 
@@ -322,7 +322,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period endingon the last day before the beginning of the plan year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 #### (II) Secretarial authority
 
@@ -362,7 +362,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (8) Time when certain contributions deemed made
 
-&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary of the Treasury.
+&emsp;For purposes of this section, any contributions for a plan year made by an employerafter the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary of the Treasury.
 
 #### (d) Extension of amortization periods for multiemployer plans
 
@@ -430,6 +430,8 @@ Section 1423(a) of this title, referred to in subsec. (b)(7)(B), was repealed by
 
 The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+Section 807(d)(5) of title 26, referred to in subsec. (c)(6)(D)(iv)(I), was repealed by Pub. L. 115–97, title I, §13517(a)(2)(A), Dec. 22, 2017, 131 Stat. 2144.
+
 This chapter, referred to in subsec. (d)(2)(B)(i), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
@@ -474,7 +476,7 @@ Criteria.—A multiemployer pension plan meets the criteria of this clause if—
 
 &emsp;"(A) the plan has not adopted, or ceased using, the shortfall funding method during the 5-year period ending on the day before the date the plan is to use the method under paragraph (1); and
 
-&emsp;"(B) the plan is not operating under an amortization period extension under section 304(d) of such Act\[29 U.S.C. 1084(d)\] and did not operate under such an extension during such 5-year period.
+&emsp;"(B) the plan is not operating under an amortization period extension under section 304(d) of such Act \[29 U.S.C. 1084(d)\] and did not operate under such an extension during such 5-year period.
 
 "(3)
 

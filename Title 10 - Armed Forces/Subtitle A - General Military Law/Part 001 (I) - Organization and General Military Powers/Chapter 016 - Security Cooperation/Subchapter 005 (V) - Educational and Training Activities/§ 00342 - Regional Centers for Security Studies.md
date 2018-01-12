@@ -58,7 +58,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (5) Funds available for the payment of personnel expenses under section 312 of this title are also available for the costs of the operation of the Regional Centers.
 
-(6) Funds available to carry out this section, including funds accepted under paragraph (4)and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
 (g)
 
@@ -88,11 +88,13 @@ Authorities Specific to Inouye Center.—(1) The Secretary of Defense may waive 
 
 Annual Review of Program Structure and Programs of Centers.—(1) The Secretary shall on an annual basis review the program and structure of each Regional Center in order to determine whether such Regional Center is appropriately aligned with the strategic priorities of the Department of Defense and the applicable geographic combatant commands.
 
-(2) The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph..<sup>1</sup>
+(2) The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, §184; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, §1061(2), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(1), Jan. 2, 2013, 126 Stat. 2161; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(1), Dec. 19, 2014, 128 Stat. 3715; renumbered §342 and amended Pub. L. 114–328, div. A, title XII, §1241(e)(1)–(4), Dec. 23, 2016, 130 Stat. 2505, 2506.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, §184; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, §1061(2), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(1), Jan. 2, 2013, 126 Stat. 2161; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(1), Dec. 19, 2014, 128 Stat. 3715; renumbered §342 and amended Pub. L. 114–328, div. A, title XII, §1241(e)(1)–(4), Dec. 23, 2016, 130 Stat. 2505, 2506; Pub. L. 115–91, div. A, title X, §1081(a)(17), Dec. 12, 2017, 131 Stat. 1595.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (j)(2). Pub. L. 115–91 struck out second period at end.
 
 <b>2016</b>—Pub. L. 114–328, §1241(e)(1), renumbered section 184 of this title as this section.
 
@@ -157,6 +159,4 @@ Pub. L. 112–239, div. B, title XXVIII, §2854(c), Jan. 2, 2013, 126 Stat. 2162
 #### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
 
 Pub. L. 110–417, \[div. A\], title IX, §941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, §941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, §953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, §1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, §913, Dec. 19, 2014, 128 Stat. 3474, provided a temporary waiver of reimbursement of costs of activities for nongovernmental personnel, prior to repeal by Pub. L. 114–328, div. A, title XII, §1241(e)(5)(A), Dec. 23, 2016, 130 Stat. 2507.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

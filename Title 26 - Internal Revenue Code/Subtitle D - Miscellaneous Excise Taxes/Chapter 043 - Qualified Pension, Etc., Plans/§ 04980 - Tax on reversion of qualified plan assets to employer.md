@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
+&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount istransferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if the requirements of subparagraphs (B), (C), and (D) are met.
 
 #### (B) Investment in employer securities
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) no additional employer contributions shall be permitted to an employee stock ownership plan described in subparagraph (A) of the employer before the allocation of such amount.
 
-> &emsp;&emsp;The amount allocated in the year of transfer shall not be less than the lesser of the maximum amount allowable under section 415 or 1/8 of the amount attributable to the securities acquired. In the case of dividends on securities held in the suspense account, the requirements of this subparagraph are met only if the dividends are allocated to accounts of participants or paid to participants in proportion to their accounts, orused to repay loans used to purchase employer securities.
+> &emsp;&emsp;The amount allocated in the year of transfer shall not be less than the lesser of the maximum amount allowable under section 415 or 1/8 of the amount attributable to the securities acquired. In the case of dividends on securities held in the suspense account, the requirements of this subparagraph are met only if the dividends are allocated to accounts of participants or paid to participants in proportion to their accounts, or used to repay loans used to purchase employer securities.
 
 #### (D) Participants
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (6) Subsection not to apply to employer in bankruptcy
 
-&emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United StatesCode or in similar proceedings under State law.
+&emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
 
 (Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L. 104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–280, title IX, §901(a)(2)(C), Aug. 17, 2006, 120 Stat. 1029; Pub. L. 110–458, title I, §108(i)(3), Dec. 23, 2008, 122 Stat. 5110.)
 
@@ -398,5 +398,5 @@ Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -76,7 +76,7 @@ Distribution throughout state.—Within a State, at least 20 percent of the call
 
 &emsp;(3)
 
-Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessaryby the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
+Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
 
 (e)
 

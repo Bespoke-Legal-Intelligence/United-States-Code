@@ -108,7 +108,7 @@ The responsibilities of the Secretary relating to intelligence and analysis and 
 
 &emsp;&emsp;(C) may be classified.
 
-&emsp;(26)(A) Not later than six months after December 23, 2016, to conduct an intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure, and submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate—
+&emsp;(26)(A) Not later than six months after December 23, 2016, to conduct an intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure, and submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs andthe Select Committee on Intelligence of the Senate—
 
 &emsp;&emsp;(i) a recommended strategy to protect and prepare the critical infrastructure of the homeland against threats of EMP and GMD; and
 
@@ -194,7 +194,7 @@ In accordance with subchapter XII, there shall be transferred to the Secretary, 
 
 This chapter, referred to in subsec. (d)(11), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (d)(11)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (d)(11)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15\(§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 195f of this title, referred to in subsec. (d)(26)(B)(i), was in the original "section 319", meaning section 319 of Pub. L. 107–296, the Homeland Security Act of 2002, and has been translated as meaning the section 319 of the Act as added by section 1913(a)(3) of Pub. L. 114–328 and relating to EMP and GMD mitigation research and development, and not the section 319 of the Act as added by section 1906(a) of Pub. L. 114–328, to reflect the probable intent of Congress.
 
@@ -206,7 +206,7 @@ Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section
 
 <b>2016</b>—Subsec. (d)(26). Pub. L. 114–328 added par. (26).
 
-<b>2010</b>—Subsec. (d)(3). Pub. L. 111–258 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "To integrate relevant information, analyses, and vulnerability assessments (whether such information,analyses, or assessments are provided or produced by the Department or others) in order to identify priorities for protective and support measures by the Department, other agencies of the Federal Government, State and local government agencies and authorities, the private sector, and other entities."
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–258 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "To integrate relevant information, analyses, and vulnerability assessments (whether such information, analyses, or assessments are provided or produced by the Department or others) in order to identify priorities for protective and support measures by the Department, other agencies of the Federal Government, State and local government agencies and authorities, the private sector, and other entities."
 
 <b>2009</b>—Subsec. (f)(2)(E). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417. See 2008 amendment note below.
 
@@ -268,7 +268,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Regulations
 
-Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
+Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L.113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
 
 \[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under section 621 of this title.\]
 
@@ -286,7 +286,7 @@ Definitions.—In this subsection:
 
 &emsp;"(A)
 
-Critical electric infrastructure; critical electric infrastructure information.—The terms'critical electric infrastructure' and 'critical electric infrastructure information' have the meanings given those terms in section 215A of the Federal Power Act \[16 U.S.C. 824o–1\].
+Critical electric infrastructure; critical electric infrastructure information.—The terms 'critical electric infrastructure' and 'critical electric infrastructure information' have the meanings given those terms in section 215A of the Federal Power Act \[16 U.S.C. 824o–1\].
 
 &emsp;"(B)
 
@@ -458,7 +458,7 @@ Unless otherwise determined by the President, no full-time officer or employee o
 
 (iv) report to the President through the Secretary of Homeland Security, who shall ensure appropriate coordination with the Assistant to the President for Homeland Security and Counterterrorism, the Assistant to the President for Economic Policy, and the Assistant to the President for National Security Affairs under the terms of this order; and
 
-(v) advise sector-specific agencies with critical infrastructure responsibilities to include issues pertainingto sector and government coordinating councils and their information sharing mechanisms.
+(v) advise sector-specific agencies with critical infrastructure responsibilities to include issues pertaining to sector and government coordinating councils and their information sharing mechanisms.
 
 In implementing this order, the NIAC shall not advise or otherwise act on matters pertaining to National Security and Emergency Preparedness (NS/EP) Communications and, with respect to any matters to which the NIAC is authorized by this order to provide advice or otherwise act on that may depend on or affect NS/EP Communications, shall coordinate with the National Security and Telecommunications Advisory Committee established by Executive Order 12382 of September 13, 1982, as amended.
 
@@ -478,9 +478,11 @@ Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit,
 
 #### Extension of Term of National Infrastructure Advisory Council
 
-Term of National Infrastructure Advisory Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Infrastructure Advisory Council extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Infrastructure Advisory Council were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -578,7 +580,7 @@ Sec. 4. <i>Cybersecurity Information Sharing</i>. (a) It is the policy of the Un
 
 (e) In order to maximize the utility of cyber threat information sharing with the private sector, the Secretary shall expand the use of programs that bring private sector subject-matter experts into Federal service on a temporary basis. These subject matter experts should provide advice regarding the content, structure, and types of information most useful to critical infrastructure owners and operators in reducing and mitigating cyber risks.
 
-Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that privacy and civil liberties protections are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
+Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this orderwith their senior agency officials for privacy and civil liberties and ensure that privacy and civil liberties protections are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
 
 (b) The Chief Privacy Officer and the Officer for Civil Rights and Civil Liberties of the Department of Homeland Security (DHS) shall assess the privacy and civil liberties risks of the functions and programs undertaken by DHS as called for in this order and shall recommend to the Secretary ways to minimize or mitigate such risks, in a publicly available report, to be released within 1 year of the date of this order. Senior agency privacy and civil liberties officials for other agencies engaged in activities under this order shall conduct assessments of their agency activities and provide those assessments to DHS for consideration and inclusion in the report. The report shall be reviewed on an annual basis and revised as necessary. The report may contain a classified annex if necessary. Assessments shall include evaluation of activities against the Fair Information Practice Principles and other applicable privacy and civil liberties policies, principles, and frameworks. Agencies shall consider the assessments and recommendations of the report in implementing privacy and civil liberties protections for agency activities.
 
@@ -608,7 +610,7 @@ Sec. 8. <i>Voluntary Critical Infrastructure Cybersecurity Program</i>. (a) The 
 
 (d) The Secretary shall coordinate establishment of a set of incentives designed to promote participation in the Program. Within 120 days of the date of this order, the Secretary and the Secretaries of the Treasury and Commerce each shall make recommendations separately to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, that shall include analysis of the benefits and relative effectiveness of such incentives, and whether the incentives would require legislation or can be provided under existing law and authorities to participants in the Program.
 
-(e) Within 120 days of the date of this order, the Secretary of Defense and the Administrator of General Services, in consultation with the Secretary and the Federal Acquisition Regulatory Council, shall make recommendations to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, on the feasibility, security benefits, and relative merits of incorporating security standards into acquisition planning and contract administration. The report shall address what steps can be taken to harmonize and make consistent existing procurement requirements related to cybersecurity.
+(e) Within 120 days of the date of this order, the Secretary of Defense and the Administrator of GeneralServices, in consultation with the Secretary and the Federal Acquisition Regulatory Council, shall make recommendations to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, on the feasibility, security benefits, and relative merits of incorporating security standards into acquisition planning and contract administration. The report shall address what steps can be taken to harmonize and make consistent existing procurement requirements related to cybersecurity.
 
 Sec. 9. <i>Identification of Critical Infrastructure at Greatest Risk</i>. (a) Within 150 days of the date of this order, the Secretary shall use a risk-based approach to identify critical infrastructure where a cybersecurity incident could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security. In identifying critical infrastructure for this purpose, the Secretary shall use the consultative process established in section 6 of this order and draw upon the expertise of Sector-Specific Agencies. The Secretary shall apply consistent, objective criteria in identifying such critical infrastructure. The Secretary shall not identify any commercial information technology products or consumer information technology services under this section. The Secretary shall review and update the list of identified critical infrastructure under this section on an annual basis, and provide such list to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs.
 
@@ -650,7 +652,7 @@ Sec. 12. <i>General Provisions</i>. (a) This order shall be implemented consiste
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff,see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 #### Executive Order No. 13650
 
@@ -664,7 +666,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. In order to address cyber threats to public health and safety, national security, and economic security of the United States, private companies, nonprofit organizations, executive departments and agencies (agencies), and other entities must be able to share information related to cybersecurity risks and incidents and collaborate to respond in as close to real time as possible.
 
-Organizations engaged in the sharing of information related to cybersecurity risks and incidents play an invaluable role in the collective cybersecurity of the United States. The purpose of this order is to encourage the voluntary formation of such organizations, toestablish mechanisms to continually improve the capabilities and functions of these organizations, and to better allow these organizations to partner with the Federal Government on a voluntary basis.
+Organizations engaged in the sharing of information related to cybersecurity risks and incidents play an invaluable role in the collective cybersecurity of the United States. The purpose of this order is to encourage the voluntary formation of such organizations, to establish mechanisms to continually improve the capabilities and functions of these organizations, and to better allow these organizations to partner with the Federal Government on a voluntary basis.
 
 Such information sharing must be conducted in a manner that protects the privacy and civil liberties of individuals, that preserves business confidentiality, that safeguards the information being shared, and that protects the ability of the Government to detect, investigate, prevent, and respond to cyber threats to the public health and safety, national security, and economic security of the United States.
 
@@ -694,7 +696,7 @@ Sec. 4. <i>Critical Infrastructure Protection Program</i>. (a) Pursuant to secti
 
 (c) The Secretary will determine the eligibility of ISAOs and their members for any necessary facility or personnel security clearances associated with voluntary agreements in accordance with Executive Order 13549 of August 18, 2010 (Classified National Security Information Programs for State, Local, Tribal, and Private Sector Entities), and Executive Order 12829 of January 6, 1993 (National Industrial Security Program), as amended, including as amended by this order.
 
-Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that appropriate protections for privacy and civil liberties are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
+Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that appropriate protections for privacy and civil liberties are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacyand civil liberties policies, principles, and frameworks as they apply to each agency's activities.
 
 (b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency's activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHS Office for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
 

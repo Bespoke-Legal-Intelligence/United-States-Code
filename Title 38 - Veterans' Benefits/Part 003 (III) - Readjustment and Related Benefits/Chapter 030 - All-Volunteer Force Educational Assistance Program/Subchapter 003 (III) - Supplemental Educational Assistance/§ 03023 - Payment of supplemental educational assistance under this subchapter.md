@@ -14,3 +14,7 @@ Prior section 3023 was renumbered section 5123 of this title.
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator".
 
+#### Effective Date
+
+Section effective July 1, 1986, see section 702(b) of Pub. L. 98–525, set out as a note under section 3021 of this title.
+

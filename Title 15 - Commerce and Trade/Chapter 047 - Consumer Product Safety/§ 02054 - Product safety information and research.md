@@ -38,7 +38,7 @@ Whenever the Federal contribution for any information, research, or development 
 
 <b>1981</b>—Subsec. (a)(3), (4). Pub. L. 97–35, §1209(a), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 97–35, §1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically,in the development of safety standards and test methods.
+Subsec. (b)(3). Pub. L. 97–35, §1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
 
 #### Effective Date of 1981 Amendment
 
@@ -126,7 +126,7 @@ In General.—Any information provided to the National Institute for Standards a
 
 "(b)
 
-Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product SafetyCommission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing."
+Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product Safety Commission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing."
 
 #### Additional Reporting Time
 
@@ -162,7 +162,7 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 &emsp;"(5) one scientific or technical representative appointed by the Chairman of the Interagency Committee, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the Business and Institutional Furniture Manufacturers Association and one scientific or technical representative appointed by the Chairman, by and with the advice and consent of the Interagency Committee, from lists of individuals submitted by the American Furniture Manufacturers Association.
 
-"(b) The persons appointed to serve on the Study Group may designate, with the advice and consent of the Interagency Committee, from among their number such persons to serve as team leaders, coordinators, or chairpersons as they deem necessary or appropriate to carry out the Study Group's functions under section 4.
+"(b) The persons appointed to serve on the Study Group may designate, with the advice and consent ofthe Interagency Committee, from among their number such persons to serve as team leaders, coordinators, or chairpersons as they deem necessary or appropriate to carry out the Study Group's functions under section 4.
 
 "Sec. 4. The Study Group shall undertake, subject to oversight and review by the Interagency Committee, such studies and other activities as it considers necessary and appropriate to determine the technical and commercial feasibility, economic impact, and other consequences of developing cigarettes and little cigars that will have a minimum propensity to ignite upholstered furniture or mattresses. Such activities include identification of the different physical characteristics of cigarettes and little cigars which have an impact on the ignition of upholstered furniture and mattresses, an analysis of the feasibility of altering any pertinent characteristics to reduce ignition propensity, and an analysis of the possible costs and benefits, both to the industry and the public, associated with any such product modification.
 

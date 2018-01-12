@@ -2,7 +2,7 @@
 
 The board of directors shall meet at least once a month and shall have the general direction and control of the affairs of the Federal credit union. Minutes of all meetings shall be kept. Among other things, the board of directors shall—
 
-&emsp;(1) act upon applications for membership or appoint membership officers from among the members of the credit union, other than theboard member paid as an officer, the financial board officer, any assistant to the paid officer of the board or to the financial officer, or any loan officer;
+&emsp;(1) act upon applications for membership or appoint membership officers from among the members of the credit union, other than the board member paid as an officer, the financial board officer, any assistant to the paid officer of the board or to the financial officer, or any loan officer;
 
 &emsp;(2) provide adequate fidelity coverage for officers and employees having custody of or handling funds according to regulations issued by the Board;
 
@@ -42,7 +42,7 @@ The board of directors shall meet at least once a month and shall have the gener
 
 &emsp;(20) establish lending policies; and
 
-&emsp;(21) do all other things that are necessary and proper to carry out all the purposes and powers of the Federal credit union, subject to regulations issued by the Board.
+&emsp;(21) do all other things that are necessary and proper to carry out all the purposes andpowers of the Federal credit union, subject to regulations issued by the Board.
 
 (June 26, 1934, ch. 750, title I, §113, formerly §14, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–353, §3, July 2, 1964, 78 Stat. 269; Pub. L. 90–375, §1(4), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §113, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §723, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–22, title III, §309, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §522, Oct. 15, 1982, 96 Stat. 1532; Pub. L. 97–457, §28, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 100–86, title VII, §§704(b), 705, Aug. 10, 1987, 101 Stat. 652.)
 

@@ -32,7 +32,7 @@ In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Of
 
 #### Purpose
 
-Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States."
+Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this sectionand section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States."
 
 #### Definitions
 

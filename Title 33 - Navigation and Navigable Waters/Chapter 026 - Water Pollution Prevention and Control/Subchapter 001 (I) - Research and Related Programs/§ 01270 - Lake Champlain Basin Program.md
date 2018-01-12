@@ -212,7 +212,7 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 "(d)
 
-Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
+Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture$2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
 "(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section."
 

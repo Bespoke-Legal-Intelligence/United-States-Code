@@ -20,7 +20,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 &emsp;&emsp;(D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
 
-&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
+&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary forthe control of the vessel and the safety of the port or the marine environment; and
 
 &emsp;(6) may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
 
@@ -30,7 +30,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 &emsp;(1) he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
 
-&emsp;(2) he determines that such vessel does not satisfy the conditions for port entry set forth in section 1228 of this title; or
+&emsp;(2) he determines that such vessel does not satisfy the conditions for port entry set forth in section 1228 or 1232c of this title; or
 
 &emsp;(3) by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, he is satisfied that such directive is justified in the interest of safety.
 
@@ -62,7 +62,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### (d) Exception
 
-Except pursuant to international treaty, convention, or agreement, to which the United States is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
+Except pursuant to international treaty, convention, or agreement, to which the UnitedStates is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
 
 &emsp;(1) innocent passage through the territorial sea of the United States, or
 
@@ -76,7 +76,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 (3) As used in this paragraph, the term "inherently governmental function" means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.
 
-(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564; Pub. L. 115–44, title III, §315(b)(1), Aug. 2, 2017, 131 Stat. 949.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably me
 The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–44 inserted "or 1232c" after "section 1228".
 
 <b>2006</b>—Subsecs. (a)(6), (e). Pub. L. 109–241 amended directory language of Pub. L. 108–293, §302. See 2004 Amendment note below.
 

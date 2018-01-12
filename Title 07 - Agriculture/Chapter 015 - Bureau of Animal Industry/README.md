@@ -10,6 +10,8 @@
 | [395\.](%C2%A7%2000395%20-%20Fees%20for%20rabies%20diagnoses%3B%20disposition%20of%20moneys.md) | Fees for rabies diagnoses; disposition of moneys. |
 | [396\.](%C2%A7%2000396%20-%20Inspection%20of%20livestock%2C%20hides%2C%20animal%20products%2C%20etc.%3B%20place%3B%20charges%3B%20disposition%20of%20funds.md) | Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds. |
 | [397\.](%C2%A7%2000397%20-%20Omitted.md) | Omitted. |
+| [398\.](%C2%A7%2000398%20-%20Purchase%20and%20testing%20of%20serums%20or%20analogous%20products%3B%20dissemination%20of%20test%20results.md) | Purchase and testing of serums or analogous products; dissemination of test results. |
+| [399\.](%C2%A7%2000399%20-%20Domestic%20raising%20of%20fur-bearing%20animals%3B%20classification.md) | Domestic raising of fur-bearing animals; classification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +28,5 @@
 - [&sect; 00395 - Fees for rabies diagnoses; disposition of moneys](%C2%A7%2000395%20-%20Fees%20for%20rabies%20diagnoses%3B%20disposition%20of%20moneys.md)
 - [&sect; 00396 - Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds](%C2%A7%2000396%20-%20Inspection%20of%20livestock%2C%20hides%2C%20animal%20products%2C%20etc.%3B%20place%3B%20charges%3B%20disposition%20of%20funds.md)
 - [&sect; 00397 - Omitted](%C2%A7%2000397%20-%20Omitted.md)
+- [&sect; 00398 - Purchase and testing of serums or analogous products; dissemination of test results](%C2%A7%2000398%20-%20Purchase%20and%20testing%20of%20serums%20or%20analogous%20products%3B%20dissemination%20of%20test%20results.md)
+- [&sect; 00399 - Domestic raising of fur-bearing animals; classification](%C2%A7%2000399%20-%20Domestic%20raising%20of%20fur-bearing%20animals%3B%20classification.md)

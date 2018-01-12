@@ -40,7 +40,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(iv) that such development of business ownership among groups that presently own and control little productive capital will be greatly facilitated through the creation of a small business ownership development program, which shall provide services, including, but not limited to, financial, management, and technical assistance.<sup>1</sup>
 
-&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
+&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool fordevelopment of business ownership among groups that own and control little productive capital; and
 
 &emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
 
@@ -102,7 +102,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(G) increased numbers of small business concerns owned and controlled by women will directly benefit the United States Government by expanding the potential number of suppliers of goods and services to the Government; and
 
-&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting the rights of socially and economically disadvantaged individuals.
+&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting therights of socially and economically disadvantaged individuals.
 
 (2) It is, therefore, the purpose of those programs and activities conducted under the authority of this chapter that assist women entrepreneurs to—
 
@@ -260,7 +260,7 @@ Pub. L. 96–302, title V, §507, July 2, 1980, 94 Stat. 854, provided that: "Th
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–125, title V, §501, Feb. 24, 2016, 130 Stat. 172, provided that: "This title \[enacting sections 4721a and 4728a of this title, amending sections 634c, 649, and 4727 of this title, and enacting provisions set out as a note under section 4727 of this title\] may be cited as the 'Small Business Trade Enhancement Act of 2015' or the 'State Trade Coordination Act'."
+Pub. L. 114–125, title V, §501, Feb. 24, 2016, 130 Stat. 172, provided that: "This title \[enacting sections 4721a and 4728a of this title, amending sections 634c, 649, and4727 of this title, and enacting provisions set out as a note under section 4727 of this title\] may be cited as the 'Small Business Trade Enhancement Act of 2015' or the 'State Trade Coordination Act'."
 
 #### Short Title of 2015 Amendment
 
@@ -296,7 +296,7 @@ Pub. L. 110–186, §1, Feb. 14, 2008, 122 Stat. 623, provided that: "This Act \
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C\(§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
+Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
 
 #### Short Title of 2004 Amendment
 
@@ -310,7 +310,7 @@ Pub. L. 107–50, §1, Oct. 15, 2001, 115 Stat. 263, provided that: "This Act \[
 
 Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: "This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tables for classification\] may be cited as the 'Small Business Reauthorization Act of 2000'."
 
-Pub. L. 106–554, §1(a)(9) \[title I, §101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–668, provided that: "This title \[enacting sections 657d and 657e of this title, amending section 638 of this title, enacting provisions set out as notes under sections 638 and 657d of this title, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the 'Small Business Innovation Research Program Reauthorization Act of 2000'."
+Pub. L. 106–554, §1(a)(9) \[title I, §101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–668, provided that: "This title \[enacting sections 657d and 657e of this title, amending section 638 of this title, enacting provisions set out as notes under sections 638 and 657d of this title, andamending provisions set out as notes under this section and section 638 of this title\] may be cited as the 'Small Business Innovation Research Program Reauthorization Act of 2000'."
 
 Pub. L. 106–554, §1(a)(9) \[title II, §201\], Dec. 21, 2000, 114 Stat. 2763, 2763A–681, provided that: "This title \[amending sections 634, 636, and 696 of this title\] may be cited as the 'Small Business Loan Improvement Act of 2000'."
 
@@ -360,7 +360,7 @@ Pub. L. 103–81, §1(a), Aug. 13, 1993, 107 Stat. 780, provided that: "This Act
 
 Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: "This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the 'Small Business Research and Development Enhancement Act of 1992'."
 
-Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: "This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the 'Small Business Innovation Research Program Reauthorization Act of 1992'."
+Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: "This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the'Small Business Innovation Research Program Reauthorization Act of 1992'."
 
 Pub. L. 102–564, title II, §201, Oct. 28, 1992, 106 Stat. 4256, provided that: "This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the 'Small Business Technology Transfer Act of 1992'."
 
@@ -470,7 +470,7 @@ Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 
 
 "(a)(1) For fiscal year 2000 and each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary and appropriate, to remain available until expended, and to be available solely—
 
-&emsp;"(A) to carry out the Small Business Development Center Program under section 21 \[section 648 of this title\], but not to exceed the annual funding level, as specified in section 21(a);
+&emsp;"(A) to carry out the Small Business Development Center Program under section 21 \[section 648 of thistitle\], but not to exceed the annual funding level, as specified in section 21(a);
 
 &emsp;"(B) to pay the expenses of the National Small Business Development Center Advisory Board, as provided in section 21(i);
 
@@ -766,7 +766,7 @@ Pub. L. 96–302, title I, §118(c)(1), July 2, 1980, 94 Stat. 840, provided tha
 
 #### Assistance to Automobile Dealers; Congressional Findings; Investigation by Administrator; Report to Congress
 
-Pub. L. 96–185, §17, Jan. 7, 1980, 93 Stat. 1335, directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loansand loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
+Pub. L. 96–185, §17, Jan. 7, 1980, 93 Stat. 1335, directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loans and loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
 
 #### Executive Order No. 11458
 
@@ -784,7 +784,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of Commerce (hereinafter referred to as "the Secretary") shall—
 
-(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Government which affect or may contribute to the establishment, preservation, and strengthening of minority business enterprise.
+(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Government which affect or may contribute to the establishment,preservation, and strengthening of minority business enterprise.
 
 (2) Promote the mobilization of activities and resources of State and local governments, businesses and trade associations, universities, foundations, professional organizations, and volunteer and other groups towards the growth of minority business enterprises, and facilitate the coordination of the efforts of these groups with those of Federal departments and agencies.
 
@@ -842,7 +842,7 @@ Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 197
 
 #### Executive Order No. 12061
 
-Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business ConferenceCommission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12269
 
@@ -926,7 +926,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. By its accession to the World Trade Organization, the People's Republic of China will be required to open its markets to a wide range of products and services provided by Americans. In addition, the United States has recently enacted a new law to facilitate trade with the countries of Sub-Saharan Africa and the Caribbean Basin. Federal agencies should take steps to assist small businesses, including businesses headed by underserved populations, in capitalizing on these new opportunities. The agencies should also take steps to assist workers who lose their jobs as a result of competition from imports in their efforts to secure adjustment assistance benefits for which they are eligible.
 
-Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secretaries of Commerce and Labor, the Administrator of the Small Business Administration, the United States Trade Representative, and the Chairman of the Export-Import Bank shall, within 60 days from the date of this order, establish an interagency task force through the Trade Promotion Coordinating Committee (TPCC). The task force shall facilitate exports by United States small businesses, including businesses headed by underserved populations, particularly with respect to the People's Republic of China and the countries of Sub-Saharan Africa and the Caribbean Basin. The TPCC shall submit an annual report to the President on the functions carried out by this task force during the preceding year. As part of its work, the task force shall assess the extent to which the establishment of permanent normal trade relations with the People's Republic of China, and the United Statesenactment of the African Growth and Opportunity Act, 19 U.S.C.A. 3701 <i>et seq</i>., and the United States-Caribbean Basin Trade Partnership Act, 19 U.S.C.A. 2701 note, may contribute to the creation of export opportunities for small businesses including businesses headed by underserved populations.
+Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secretaries of Commerce and Labor, the Administrator of the Small Business Administration, the United States Trade Representative, and the Chairman of the Export-Import Bank shall, within 60 days from the date of this order, establish an interagency task force through the Trade Promotion Coordinating Committee (TPCC). The task force shall facilitate exports by United States small businesses, including businesses headed by underserved populations, particularly with respect to the People's Republic of China and the countries of Sub-Saharan Africa and the Caribbean Basin. The TPCC shall submit an annual report to the President on the functions carried out by this task force during the preceding year. As part of its work, the task force shall assess the extent to which the establishment of permanent normal trade relations with the People's Republic of China, and the United States enactment of the African Growth and Opportunity Act, 19 U.S.C.A. 3701 <i>et seq</i>., and the United States-Caribbean Basin Trade Partnership Act, 19 U.S.C.A. 2701 note, may contribute to the creation of export opportunities for small businesses including businesses headed by underserved populations.
 
 (b) For the purposes of this order, "businesses headed by underserved populations" means businesses headed by women or minorities, and/or located in rural communities.
 
@@ -938,7 +938,7 @@ Sec. 3. <i>Expedited Response to Worker Dislocation</i>. (a) The Secretary of La
 
 &emsp;(3) developing a National Toll-Free Help Line to provide universal, accurate, and easy access to information about public workforce services to workers and employers;
 
-&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant community impact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
+&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant communityimpact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
 
 &emsp;(5) informing States directly when a secondary worker impact has been affirmed by Labor; and
 
@@ -1080,7 +1080,7 @@ Sec. 3. <i>Functions</i>. The Task Force shall provide to the President, not lat
 
 (i) using innovative strategies, such as teaming, to increase opportunities for small business contractors and utilizing and expanding mentorship programs, such as the mentor-protégé program;
 
-(ii) removing barriers to participation by small businesses in the Federal marketplace by unbundling large projects, improving training of Federal acquisition officials with respect to strategies for increasing smallbusiness contracting opportunities, and utilizing new technologies to enhance the effectiveness and efficiency of Federal program managers, acquisition officials, and the Directors of Offices of Small Business Programs and Offices of Small and Disadvantaged Business Utilization, their managers, and procurement center representatives in identifying and providing access to these opportunities;
+(ii) removing barriers to participation by small businesses in the Federal marketplace by unbundling large projects, improving training of Federal acquisition officials with respect to strategies for increasing small business contracting opportunities, and utilizing new technologies to enhance the effectiveness and efficiency of Federal program managers, acquisition officials, and the Directors of Offices of Small Business Programs and Offices of Small and Disadvantaged Business Utilization, their managers, and procurement center representatives in identifying and providing access to these opportunities;
 
 (iii) expanding outreach strategies to match small businesses, including firms located in Historically Underutilized Business Zones and firms owned and controlled by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans of our Armed Forces, with contracting and subcontracting opportunities; and
 
@@ -1092,7 +1092,7 @@ Sec. 5. <i>Outreach</i>. In developing its recommendations, the Task Force shall
 
 Sec. 6. <i>General Provisions</i>. (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of any necessary appropriations.
 
-(b) This memorandum does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(b) This memorandum does not create any right or benefit, substantive or procedural, enforceable at lawor in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 (c) The heads of executive departments and agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each executive department and agency shall bear its own expenses of participating in the Task Force.
 

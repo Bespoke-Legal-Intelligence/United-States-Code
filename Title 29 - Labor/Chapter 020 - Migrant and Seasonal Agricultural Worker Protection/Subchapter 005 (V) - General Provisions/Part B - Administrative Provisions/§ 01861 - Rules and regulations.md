@@ -4,3 +4,7 @@ The Secretary may issue such rules and regulations as are necessary to carry out
 
 (Pub. L. 97–470, title V, §511, Jan. 14, 1983, 96 Stat. 2598.)
 
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
+

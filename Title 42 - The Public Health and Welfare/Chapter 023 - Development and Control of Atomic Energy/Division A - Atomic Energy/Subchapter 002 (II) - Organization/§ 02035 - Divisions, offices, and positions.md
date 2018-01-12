@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) Program divisions; appointment and powers of Assistant General Manager and Division Directors
 
-&emsp;a Division of Military Application and such other program divisions (not to exceed ten in number) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
+&emsp;a Division of Military Application and such other program divisions (not to exceed ten in number) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general orflag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
 
 #### (b) General Counsel
 
@@ -12,7 +12,7 @@ There is established within the Commission—
 
 #### (c) Inspection Division; duties
 
-&emsp;an Inspection Division under the direction of a Director who shall be appointed by the Commission. The Inspection Division shall be responsible for gathering information to show whether or not the contractors, licensees, and officers and employees of the Commission are complying with the provisions of this chapter\(except those provisions for which the Federal Bureau of Investigation is responsible) and the appropriate rules and regulations of the Commission.
+&emsp;an Inspection Division under the direction of a Director who shall be appointed by the Commission. The Inspection Division shall be responsible for gathering information to show whether or not the contractors, licensees, and officers and employees of the Commission are complying with the provisions of this chapter (except those provisions for which the Federal Bureau of Investigation is responsible) and the appropriate rules and regulations of the Commission.
 
 #### (d) Executive management positions; appointment; removal
 

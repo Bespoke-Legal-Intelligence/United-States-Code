@@ -10,11 +10,15 @@
 
 (3) Costs of the arbitration board and mediation shall be shared equally by the Postal Service and the bargaining representative.
 
-(d) In the case of a bargaining unit whose recognized collective-bargaining representativedoes not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
+(d) In the case of a bargaining unit whose recognized collective-bargaining representative does not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 735; Pub. L. 109–435, title V, §505(a), Dec. 20, 2006, 120 Stat. 3235.)
 
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to labor disputes between the Postal Service and bargaining representatives.
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

@@ -78,7 +78,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (E) Review and comment by the Secretary
 
-&emsp;&emsp;The Board shall submit a draft copy of each proposal to be submitted to Congress under this section to the Secretary for the Secretary's review and comment. The Board shall submit such draft copy by not later than September 1 of the determination year. Not later than March 1 of the submission year, the Secretary shall submit a report to Congress on the results of such review, unless the Secretary submits a proposal under paragraph (5)(A) in that year.
+&emsp;&emsp;The Board shall submit a draft copy of each proposal to be submitted to Congressunder this section to the Secretary for the Secretary's review and comment. The Board shall submit such draft copy by not later than September 1 of the determination year. Not later than March 1 of the submission year, the Secretary shall submit a report to Congress on the results of such review, unless the Secretary submits a proposal under paragraph (5)(A) in that year.
 
 #### (F) Consultations
 
@@ -112,7 +112,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;(ii) an explanation of each recommendation contained in the proposal and the reasons for including such recommendation;
 
-&emsp;&emsp;&emsp;(iii) an actuarial opinion by the Chief Actuary of the Centers for Medicare \&Medicaid Services certifying that the proposal meets the requirements of subparagraphs (A)(i) and (C) of paragraph (2);
+&emsp;&emsp;&emsp;(iii) an actuarial opinion by the Chief Actuary of the Centers for Medicare \& Medicaid Services certifying that the proposal meets the requirements of subparagraphs (A)(i) and (C) of paragraph (2);
 
 &emsp;&emsp;&emsp;(iv) a legislative proposal that implements the recommendations; and
 
@@ -198,7 +198,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (8) Per capita rate of growth in national health expenditures
 
-&emsp;In each determination year (beginning in 2018), the Chief Actuary of the Centers forMedicare \& Medicaid Services shall project the per capita rate of growth in national health expenditures for the implementation year. Such rate of growth for an implementation year shall be calculated as the projected 5-year average (ending with such year) percentage increase in national health care expenditures.
+&emsp;In each determination year (beginning in 2018), the Chief Actuary of the Centers for Medicare \& Medicaid Services shall project the per capita rate of growth in national health expenditures for the implementation year. Such rate of growth for an implementation year shall be calculated as the projected 5-year average (ending with such year) percentage increase in national health care expenditures.
 
 #### (d) Congressional consideration
 
@@ -270,7 +270,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limitedto 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (ii) Germane
 
@@ -344,7 +344,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (ii) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment under this subparagraph shall be limitedto 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment under this subparagraph shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (iii) Final disposition
 
@@ -374,7 +374,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided in paragraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
+&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided in paragraph (3), implement the recommendations contained in a proposal submitted by theBoard or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
 
 #### (2) Application
 
@@ -650,7 +650,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (2) Travel expenses
 
-&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu ofsubsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
+&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
 #### (3) Staff
 
@@ -786,7 +786,7 @@ In this section:
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
+Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses forMedicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
 Section 1899A of the Social Security Act, referred to in subsecs. (e)(3)(A)(i), (f)(1)(C), (D), is section 1899A of act Aug. 14, 1935, which is classified to this section.
 

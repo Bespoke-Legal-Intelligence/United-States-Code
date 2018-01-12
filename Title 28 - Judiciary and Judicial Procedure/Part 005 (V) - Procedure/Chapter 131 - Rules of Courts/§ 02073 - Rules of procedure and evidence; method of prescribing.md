@@ -28,7 +28,7 @@ Subsecs. (d), (e). Pub. L. 103–394, §104(e)(2), inserted "or 2075" after "207
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
 
 #### Effective Date
 

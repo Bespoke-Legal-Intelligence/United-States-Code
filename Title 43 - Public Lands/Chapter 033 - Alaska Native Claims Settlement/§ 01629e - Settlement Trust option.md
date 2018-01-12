@@ -26,7 +26,7 @@
 
 &emsp;(A) operate as a business;
 
-&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation\(except if the recipient of the land is the settlor corporation or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres); or
+&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation (except if the recipient of the land is the settlor corporation or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres); or
 
 &emsp;(C) discriminate in favor of a group of individuals composed only or principally of employees, officers, or directors of the settlor Native Corporation.
 

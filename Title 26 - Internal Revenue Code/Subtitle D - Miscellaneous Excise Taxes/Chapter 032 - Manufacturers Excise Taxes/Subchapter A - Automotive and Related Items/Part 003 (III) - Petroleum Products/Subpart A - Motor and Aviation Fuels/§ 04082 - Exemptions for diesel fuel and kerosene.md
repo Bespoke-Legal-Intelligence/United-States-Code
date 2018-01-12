@@ -64,7 +64,7 @@ In the case of kerosene (other than kerosene with respect to which tax is impose
 
 &emsp;(2) if such aircraft is employed in foreign trade or trade between the United States and any of its possessions, the increase in such rate under section 4081(a)(2)(B) shall be zero.
 
-> For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.
+> For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treatedas a removal from a terminal but only if such terminal is located within a secure area of an airport.
 
 #### (f) Exception for Leaking Underground Storage Tank Trust Fund financing rate
 
@@ -140,7 +140,7 @@ Subsec. (f). Pub. L. 108–357, §853(a)(5)(A), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 108–357, §853(a)(5)(A), redesignated subsec. (f) as (g).
 
-Pub. L. 108–357, §241(a)(2)(B), which directed substitution of "subsections (a)(1) and (d)(3) of section 4041" for "section 4041(a)(1)" in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, §853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
+Pub. L. 108–357, §241(a)(2)(B), which directed substitution of "subsections (a)(1) and (d)(3) of section 4041" for "section 4041(a)(1)" in subsec. (f), was executed bymaking the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, §853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
 
 <b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091."
 

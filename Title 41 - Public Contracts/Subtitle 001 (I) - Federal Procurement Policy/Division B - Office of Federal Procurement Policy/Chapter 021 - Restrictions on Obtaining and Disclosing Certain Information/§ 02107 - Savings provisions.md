@@ -6,7 +6,7 @@ This chapter does not—
 
 &emsp;(2) restrict a contractor from disclosing its own bid or proposal information or the recipient from receiving that information;
 
-&emsp;(3) restrict the disclosure or receipt of information relating to a Federal agency procurement after it has been canceled by the Federal agency before contract award unless the Federal agency plans to resume the procurement;
+&emsp;(3) restrict the disclosure or receipt of information relating to a Federal agency procurement after it has been canceled by the Federalagency before contract award unless the Federal agency plans to resume the procurement;
 
 &emsp;(4) prohibit individual meetings between a Federal agency official and an offeror or potential offeror for, or a recipient of, a contract or subcontract under a Federal agency procurement, provided that unauthorized disclosure or receipt of contractor bid or proposal information or source selection information does not occur;
 

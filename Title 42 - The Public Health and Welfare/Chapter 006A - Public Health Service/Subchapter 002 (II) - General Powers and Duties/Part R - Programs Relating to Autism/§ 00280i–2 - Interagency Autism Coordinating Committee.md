@@ -50,7 +50,7 @@ In carrying out its duties under this section, the Committee shall—
 
 &emsp;&emsp;(B) at least two such members shall be parents or legal guardians of an individual with an autism spectrum disorder; and
 
-&emsp;&emsp;(C) at least two such members shall be representatives of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
+&emsp;&emsp;(C) at least two such members shall be representatives of leading research, advocacy,and service organizations for individuals with autism spectrum disorder.
 
 #### (3) Period of appointment; vacancies
 

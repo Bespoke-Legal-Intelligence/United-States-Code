@@ -60,7 +60,7 @@ Assurances.—The United States shall seek assurances from the Russian Governmen
 
 "(d)
 
-Equitable Utilization.—In the event that any International Partner in the International Space Station Program willfully violates any of its commitments or agreements for the provision of agreed-upon SpaceStation-related hardware or related goods or services, the Administrator should, in a manner consistent with relevant international agreements, seek a commensurate reduction in the utilization rights of that Partner until such time as the violated commitments or agreements have been fulfilled.
+Equitable Utilization.—In the event that any International Partner in the International Space Station Program willfully violates any of its commitments or agreements for the provision of agreed-upon Space Station-related hardware or related goods or services, the Administrator should, in a manner consistent with relevant international agreements, seek a commensurate reduction in the utilization rights of that Partner until such time as the violated commitments or agreements have been fulfilled.
 
 "(e)
 
@@ -148,7 +148,7 @@ Sec. 108. In order to ensure that the development of the space station is part o
 
 Sec. 109. (a) It is the sense of the Congress that the launching and servicing of the space station should be accomplished by the most cost-effective use of space transportation systems, including the space shuttle and expendable launch vehicles.
 
-"(b) Not later than January 15, 1988, the Administrator shall submit a preliminary report on the cost-effective use of space transportation systems for thelaunch of space station elements during the development and operation of the space station. The Administrator shall consider—
+"(b) Not later than January 15, 1988, the Administrator shall submit a preliminary report on the cost-effective use of space transportation systems for the launch of space station elements during the development and operation of the space station. The Administrator shall consider—
 
 &emsp;"(1) the potential use of future advanced or heavy lift expendable launch vehicles for purposes of the assembly and operation of the space station;
 
@@ -184,5 +184,5 @@ Sec. 111. No later than September 30, 1988, the Administrator shall submit a det
 
 "
 
-Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandum of Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement."
+Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandumof Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement."
 

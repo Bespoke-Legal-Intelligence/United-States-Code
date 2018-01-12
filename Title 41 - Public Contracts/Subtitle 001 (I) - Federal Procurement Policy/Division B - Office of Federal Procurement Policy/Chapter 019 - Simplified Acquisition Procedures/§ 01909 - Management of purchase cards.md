@@ -40,7 +40,7 @@ Required Safeguards and Internal Controls.—The head of each executive agency t
 
 (b)
 
-Guidance.—The Director of the Office of Management and Budget shall review existing guidance and, as necessary, prescribe additional guidance governing the implementation of therequirements of subsection (a) by executive agencies.
+Guidance.—The Director of the Office of Management and Budget shall review existing guidance and, as necessary, prescribe additional guidance governing the implementation of the requirements of subsection (a) by executive agencies.
 
 (c)
 

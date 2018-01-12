@@ -18,23 +18,25 @@ This proclamation immediately shall be published in the Federal Register or diss
 
 This proclamation is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September, in the year of our Lord two thousand one, and of the Independence ofthe United States of America the two hundred and twenty-sixth.
+IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September, in the year ofour Lord two thousand one, and of the Independence of the United States of America the two hundred and twenty-sixth.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579, provided:
+Notice of President of the United States, dated Sept. 11, 2017, 82 F.R. 43153, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2016. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2017. Therefore, I am continuing in effect for an additional year the national emergency declared on September 14, 2001, in response to certain terrorist attacks.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579.
 
 Notice of President of the United States, dated Sept. 10, 2015, 80 F.R. 55013.
 

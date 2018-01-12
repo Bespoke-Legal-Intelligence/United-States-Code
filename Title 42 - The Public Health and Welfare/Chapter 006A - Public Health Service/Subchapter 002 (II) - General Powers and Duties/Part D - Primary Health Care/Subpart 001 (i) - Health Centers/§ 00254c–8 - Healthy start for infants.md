@@ -8,7 +8,7 @@
 
 #### (2) Definition
 
-&emsp;For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference tothe program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
+&emsp;For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
 
 #### (b) Considerations in making grants
 

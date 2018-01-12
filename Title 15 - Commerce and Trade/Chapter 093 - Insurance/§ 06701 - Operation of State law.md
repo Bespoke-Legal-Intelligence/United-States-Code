@@ -60,7 +60,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(v) Restrictions prohibiting any compensation paid to or received by any individual who is not licensed to sell insurance, for the referral of a customer that seeks to purchase, or seeks an opinion or advice on, any insurance product to a person that sells or provides opinions or advice on such product, based on the purchase of insurance by the customer.
 
-&emsp;&emsp;&emsp;(vi) Restrictions prohibiting the release of the insurance information of a customer (defined as information concerning the premiums, terms, and conditions of insurance coverage, including expiration dates and rates, and insurance claims of a customer contained in the records of the depository institution or an affiliate thereof) to any person other than an officer, director, employee, agent, or affiliate of a depository institution, for the purpose of soliciting or selling insurance, without the express consent of the customer, other than a provision that prohibits—
+&emsp;&emsp;&emsp;(vi) Restrictions prohibiting the release of the insurance information of a customer (defined as information concerning the premiums, terms, and conditions of insurance coverage, including expiration dates and rates, and insurance claims of a customer contained in the records of the depository institution or an affiliate thereof) to any person other than an officer, director, employee, agent, or affiliate of a depository institution, for the purpose of soliciting or selling insurance, without theexpress consent of the customer, other than a provision that prohibits—
 
 &emsp;&emsp;&emsp;&emsp;(I) a transfer of insurance information to an unaffiliated insurer in connection with transferring insurance in force on existing insureds of the depository institution or an affiliate thereof, or in connection with a merger with or acquisition of an unaffiliated insurer; or
 
@@ -108,7 +108,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) to limit the applicability of the decision of the Supreme Court in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996) with respect to any State statute, regulation, order, interpretation, or other action that is not referred to or described in subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation, order, interpretation, or other action that is not described in this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation,order, interpretation, or other action that is not described in this paragraph.
 
 #### (3) Insurance activities other than sales
 
@@ -164,7 +164,7 @@ Subsections (c) and (d) shall not be construed to affect—
 
 &emsp;&emsp;(B) to require the registration of securities or the licensure or registration of brokers, dealers, or investment advisers (consistent with section 80b–3a of this title), or the associated persons of a broker, dealer, or investment adviser (consistent with such section 80b–3a of this title); or
 
-&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
+&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with thepurposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
 
 #### (g) Definitions
 
@@ -192,7 +192,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, anyterritory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 (Pub. L. 106–102, title I, §104, Nov. 12, 1999, 113 Stat. 1352.)
 
@@ -264,7 +264,7 @@ Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L.
 
 Findings.—The Congress finds that—
 
-&emsp;"(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
+&emsp;"(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk ofboth routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
 
 &emsp;"(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
@@ -274,7 +274,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
-&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties,contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
+&emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
 "(b)
 
@@ -366,7 +366,7 @@ Insured loss.—The term 'insured loss' means any loss resulting from an act of 
 
 &emsp;&emsp;"(A) occurs within the United States; or
 
-&emsp;&emsp;"(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
+&emsp;&emsp;"(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States incometax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
 
 &emsp;"(6)
 
@@ -394,7 +394,7 @@ Insurer deductible.—The term 'insurer deductible' means—
 
 &emsp;&emsp;"(A) the value of an insurer's direct earned premiums during the immediately preceding calendar year, multiplied by 20 percent; and
 
-&emsp;&emsp;"(B) notwithstanding subparagraph (A), for any calendar year, if an insurer has not had a full year of operations during the calendar year immediately preceding such calendar year, such portion of thedirect earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
+&emsp;&emsp;"(B) notwithstanding subparagraph (A), for any calendar year, if an insurer has not had a full year of operations during the calendar year immediately preceding such calendar year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
 
 &emsp;"(8) NAIC.—The term 'NAIC' means the National Association of Insurance Commissioners.
 
@@ -998,7 +998,7 @@ Substantive law.—The substantive law for decision in any such action described
 
 &emsp;"(4)
 
-Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall bedeemed to sit in all judicial districts in the United States.
+Jurisdiction.—For each determination described in paragraph (1), not later than 90 days after the occurrence of an act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate 1 district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim (including any claim for loss of property, personal injury, or death) relating to or arising out of an act of terrorism subject to this section. The Judicial Panel on Multidistrict Litigation shall select and assign the district court or courts based on the convenience of the parties and the just and efficient conduct of the proceedings. For purposes of personal jurisdiction, the district court or courts designated by the Judicial Panel on Multidistrict Litigation shall be deemed to sit in all judicial districts in the United States.
 
 &emsp;"(5)
 
@@ -1120,7 +1120,7 @@ In general.—Not later than June 30, 2017, and every other June 30 thereafter, 
 
 &emsp;&emsp;"(A) changes to the market share, premium volume, and policyholder surplus of small insurers relative to large insurers;
 
-&emsp;&emsp;"(B) how the property and casualty insurance market for terrorism risk differs between small andlarge insurers, and whether such a difference exists within other perils;
+&emsp;&emsp;"(B) how the property and casualty insurance market for terrorism risk differs between small and large insurers, and whether such a difference exists within other perils;
 
 &emsp;&emsp;"(C) the impact of the Program's mandatory availability requirement under section 103(c) on small insurers;
 

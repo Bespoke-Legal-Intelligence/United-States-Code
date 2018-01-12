@@ -152,7 +152,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(1) The term "active duty" means full-time duty in the active military service of the United States. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
 
-&emsp;(2) The term "active duty for a period of more than 30 days" means active duty under acall or order that does not specify a period of 30 days or less.
+&emsp;(2) The term "active duty for a period of more than 30 days" means active duty under a call or order that does not specify a period of 30 days or less.
 
 &emsp;(3) The term "active service" means service on active duty or full-time National Guard duty.
 
@@ -242,6 +242,14 @@ Unexploded ordnance.—The term "unexploded ordnance" means military munitions t
 
 &emsp;&emsp;(C) remain unexploded, whether by malfunction, design, or any other cause.
 
+&emsp;(6)
+
+Energy resilience.—The term "energy resilience" means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including task critical assets and other mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+
+&emsp;(7)
+
+Energy security.—The term "energy security" means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
+
 (f)
 
 Rules of Construction.—In this title—
@@ -262,7 +270,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, §2831(d), Dec. 12, 2017, 131 Stat. 1858.)
 
 Historical and Revision Notes<br>1956
 
@@ -474,7 +482,7 @@ In clause (2), the definition of "Territory" in 32:4c is executed throughout thi
 
 In clause (4), the definition of "armed forces" is based on the source statute instead of 50:551(2), which does not include an express reference to the Marine Corps. The words "including all components thereof" are omitted as surplusage.
 
-In clause (5), the term "Department" is defined to give it the broad sense of "Establishment", to conform to the source statute and the usage preferred by the Department of Defense, instead of the more limitedsense defined by 5:421g(a) and 423a(a), and 10:1a(d) and 1801(d).
+In clause (5), the term "Department" is defined to give it the broad sense of "Establishment", to conform to the source statute and the usage preferred by the Department of Defense, instead of the more limited sense defined by 5:421g(a) and 423a(a), and 10:1a(d) and 1801(d).
 
 In clause (6), the term "executive part of the department" is created for convenience in referring to what is described in the source statutes for this title as "department" in the limited sense of the executive part at the seat of government. This is required by the adoption of the word "department" in clause (5) to cover the broader concept of "establishment".
 
@@ -535,6 +543,8 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of this title by substituting of "of Homeland Security" for "of Transportation" wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(6), (7). Pub. L. 115–91 added pars. (6) and (7).
 
 <b>2016</b>—Subsec. (d)(6)(B)(v). Pub. L. 114–328 substituted "(50 U.S.C. 3809(b)(2))" for "(50 U.S.C. App. 460(b)(2))".
 
@@ -666,7 +676,7 @@ Pub. L. 107–296, title XVII, §1704(g), Nov. 25, 2002, 116 Stat. 2316, provide
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -748,7 +758,7 @@ Pub. L. 96–513, §1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: "This Act
 
 #### Savings Provision
 
-Pub. L. 96–513, title VII, §703, Dec. 12, 1980, 94 Stat. 2956, provided that: "Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\]."
+Pub. L. 96–513, title VII, §703, Dec. 12, 1980, 94 Stat. 2956, provided that: "Except as otherwise provided inthis Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\]."
 
 #### Transfer of Functions
 
@@ -760,7 +770,7 @@ Pub. L. 96–513, title VII, §702, Dec. 12, 1980, 94 Stat. 2955, provided that:
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this title in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this title in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Public Health Service
 
@@ -768,9 +778,11 @@ Authority vested by this title in "military departments", "the Secretary concern
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
-Pub. L. 114–328, div. A, title X, §1081(d), Dec. 23, 2016, 130 Stat. 2420, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
+Pub. L. 115–91, div. A, title X, §1081(j), Dec. 12, 2017, 131 Stat. 1601, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 114–328, div. A, title X, §1081(d), Dec. 23, 2016, 130 Stat. 2420.
 
 Pub. L. 114–92, div. A, title X, §1081(e), Nov. 25, 2015, 129 Stat. 1002.
 
@@ -805,6 +817,8 @@ Pub. L. 102–484, div. A, title X, §1055, Oct. 23, 1992, 106 Stat. 2503.
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term "congressional defense committees" for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 115–91, §3, Dec. 12, 2017, 131 Stat. 1305.
 
 Pub. L. 114–328, §3, Dec. 23, 2016, 130 Stat. 2025.
 
@@ -856,7 +870,7 @@ Pub. L. 106–259, title VIII, §8034, Aug. 9, 2000, 114 Stat. 682.
 
 Pub. L. 106–79, title VIII, §8036, Oct. 25, 1999, 113 Stat. 1239.
 
-The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
+The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriationsof the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
 
 Pub. L. 108–136, §3, Nov. 24, 2003, 117 Stat. 1406.
 

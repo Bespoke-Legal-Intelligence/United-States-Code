@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordancewith such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -192,7 +192,7 @@ Successor annual funding agreement.—
 
 &emsp;&emsp;"(A)
 
-In general.—Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) <sup>1</sup> the fundingfor each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).<sup>1</sup>
+In general.—Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) <sup>1</sup> the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).<sup>1</sup>
 
 &emsp;&emsp;"(B)
 
@@ -244,7 +244,7 @@ In general.—To the extent that the annual funding agreement provides funding f
 
 &emsp;&emsp;"(B)
 
-Trust services to individual indians.—For the purposes of this paragraph only, the term 'trust services for individual Indians' means only those services that pertain to land or financial management connected to individually held allotments.
+Trust services to individual indians.—For the purposes of this paragraph only, the term 'trust services for individualIndians' means only those services that pertain to land or financial management connected to individually held allotments.
 
 &emsp;"(5)
 
@@ -296,7 +296,7 @@ Exception.—The addition of supplemental funds for programs, functions, and act
 
 &emsp;"(3)
 
-Officials not to benefit.—No Member of Congress, or resident commissioner, shall be admitted to any share or part of any contractexecuted pursuant to this Contract, or to any benefit that may arise from such contract. This paragraph may not be construed to apply to any contract with a third party entered into under this Contract if such contract is made with a corporation for the general benefit of the corporation.
+Officials not to benefit.—No Member of Congress, or resident commissioner, shall be admitted to any share or part of any contract executed pursuant to this Contract, or to any benefit that may arise from such contract. This paragraph may not be construed to apply to any contract with a third party entered into under this Contract if such contract is made with a corporation for the general benefit of the corporation.
 
 &emsp;"(4)
 
@@ -332,7 +332,7 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of theAct is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -356,7 +356,7 @@ A prior section 108 of Pub. L. 93–638 was renumbered section 5(f) and was clas
 
 #### Quarterly Payments of Funds to Tribes
 
-Pub. L. 105–83, title III, §311, Nov. 14, 1997, 111 Stat. 1590, provided that: "Notwithstanding Public Law 103–413 \[see Short Title of 1994 Amendment note set out under section 5301 of this title\], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 \[25 U.S.C. 5329\], as amended, beginning in fiscal year 1998 and therafter, may be made on the first business day following the first day of a fiscal quarter."
+Pub. L. 105–83, title III, §311, Nov. 14, 1997, 111 Stat. 1590, provided that: "Notwithstanding Public Law 103–413 \[see Short Title of 1994 Amendment note set out under section 5301 of this title\], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 \[25 U.S.C. 5329\], as amended, beginning in fiscal year 1998 and therafter \[sic\], may be made on the first business day following the first day of a fiscal quarter."
 
 Similar provisions were contained in the following prior appropriation acts:
 

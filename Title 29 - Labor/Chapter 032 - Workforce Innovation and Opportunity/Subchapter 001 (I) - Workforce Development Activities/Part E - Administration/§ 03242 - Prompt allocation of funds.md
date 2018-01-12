@@ -14,7 +14,7 @@ All funds required to be allotted under section 3162 or 3172 of this title shall
 
 #### (d) Publication in Federal Register relating to discretionary funds
 
-Whenever the Secretary utilizes a formula to allot or allocate funds made available for distribution at the Secretary's discretion under this subchapter, the Secretary shall, not later than 30 days prior to such allotment or allocation, publish for comment in the Federal Register the formula, the rationale for the formula, and the proposed amounts to be distributed to each State and local area. After consideration of any comments received, the Secretary shall publish final allotments and allocations in the Federal Register.
+Whenever the Secretary utilizes a formula to allot or allocate funds made available for distribution at the Secretary's discretion under this subchapter, the Secretary shall, not later than 30 days prior to such allotment or allocation, publish for comment in the Federal Register the formula, the rationale for the formula,and the proposed amounts to be distributed to each State and local area. After consideration of any comments received, the Secretary shall publish final allotments and allocations in the Federal Register.
 
 #### (e) Availability of funds
 

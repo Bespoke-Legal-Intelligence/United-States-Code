@@ -22,7 +22,7 @@ Subcontracts.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+Definition.—In this subsection, the term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements enteredinto by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Covered Law.—A provision of law referred to in subsections (b)(2) and (c) is a
 
 Petition.—A person may petition the Administrator to take appropriate action when a provision of law described in subsection (d) is not included on the list of inapplicable provisions of law as required by subsection (b) or (c) and the Council has not made a written determination pursuant to subsection (b)(2) or (c)(3). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) or (c)(3) within 60 days after the petition is received.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3723.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3723; Pub. L. 115–91, div. A, title VIII, §820, Dec. 12, 2017, 131 Stat. 1464.)
 
 Historical and Revision Notes
 
@@ -69,4 +69,8 @@ no source.
 41:430.
 
 Pub. L. 93–400, §34, as added Pub. L. 103–355, title VIII, §8003(a), Oct. 13, 1994, 108 Stat. 3388.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–91 inserted at end "The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract."
 

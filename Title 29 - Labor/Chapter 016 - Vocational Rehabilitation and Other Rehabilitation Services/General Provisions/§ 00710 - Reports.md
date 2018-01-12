@@ -6,7 +6,7 @@ Not later than one hundred and eighty days after the close of each fiscal year, 
 
 #### (b) Collection of information
 
-The Commissioner shall collect information to determine whether the purposes of this chapter are being met and to assess the performance of programs carried out under this chapter. The Commissioner shall take whatever action is necessary to assure that the identity of each individual for which information is supplied under this section is kept confidential, except as otherwise required by law (including regulation).
+The Commissioner shall collect information to determine whether the purposes of this chapter are being met and to assess the performance of programs carried out under this chapter. The Commissioner shall take whatever action is necessary to assure that the identity of each individual for which information is supplied underthis section is kept confidential, except as otherwise required by law (including regulation).
 
 #### (c) Information to be included in reports
 

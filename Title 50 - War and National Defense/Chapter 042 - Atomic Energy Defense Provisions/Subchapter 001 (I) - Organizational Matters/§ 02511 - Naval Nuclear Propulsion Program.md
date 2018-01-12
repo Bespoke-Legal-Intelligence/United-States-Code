@@ -28,7 +28,7 @@ By the authority vested in me as President and as Commander in Chief of the Arme
 
 Section 1. The Naval Nuclear Propulsion Program is an integrated program carried out by two organizational units, one in the Department of Energy and the other in the Department of the Navy.
 
-Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each may continue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
+Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each maycontinue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
 
 Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
 

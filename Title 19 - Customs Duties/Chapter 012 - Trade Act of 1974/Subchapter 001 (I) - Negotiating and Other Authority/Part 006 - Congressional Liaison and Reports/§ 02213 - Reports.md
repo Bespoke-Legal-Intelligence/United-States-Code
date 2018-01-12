@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(iii) an assessment of the operating costs of the Center.
 
-(3)(A) The national trade policy agenda required under paragraph (1)(B) for the year inwhich a report is submitted shall be in the form of a statement of—
+(3)(A) The national trade policy agenda required under paragraph (1)(B) for the year in which a report is submitted shall be in the form of a statement of—
 
 &emsp;(i) the trade policy objectives and priorities of the United States for the year, and the reasons therefor;
 
@@ -88,7 +88,7 @@
 
 &emsp;(C) conclusions and recommendations, based upon the projections referred to in subparagraph (B), for policy changes, including trade policy, exchange rate policy, fiscal policy, and other policies that should be implemented to improve the outlook.
 
-(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
+(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, asappropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
 
 (3) The Trade Representative and the Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System in the preparation of each report required under this subsection.
 
@@ -242,7 +242,7 @@ Meetings.—The Commission shall meet at the call of the Chairperson.
 
 &emsp;"(7)
 
-Chairperson and vice chairperson.—The members of the Commission shall elect a chairpersonand vice chairperson from among the members of the Commission.
+Chairperson and vice chairperson.—The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
 
 &emsp;"(8)
 
@@ -354,7 +354,7 @@ Compensation of members.—Each member of the Commission shall be compensated at
 
 &emsp;"(2)
 
-Travel expenses.—The members of the Commission shall be allowed travel expenses, includingper diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 &emsp;"(3)
 

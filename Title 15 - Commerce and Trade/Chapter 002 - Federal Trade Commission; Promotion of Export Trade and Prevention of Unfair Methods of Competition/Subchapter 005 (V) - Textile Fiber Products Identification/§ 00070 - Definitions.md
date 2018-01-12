@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (a) The term "person" means an individual, partnership, corporation, association or any other form of business enterprise.
 
-(b) The term "fiber" or "textile fiber" means a unit of matter which is capable of being spuninto a yarn or made into a fabric by bonding or by interlacing in a variety of methods including weaving, knitting, braiding, felting, twisting, or webbing, and which is the basic structural element of textile products.
+(b) The term "fiber" or "textile fiber" means a unit of matter which is capable of being spun into a yarn or made into a fabric by bonding or by interlacing in a variety of methods including weaving, knitting, braiding, felting, twisting, or webbing, and which is the basic structural element of textile products.
 
 (c) The term "natural fiber" means any fiber that exists as such in the natural state.
 

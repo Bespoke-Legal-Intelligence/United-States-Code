@@ -4,3 +4,7 @@ The President may direct the appropriate agencies of the United States Governmen
 
 (Pub. L. 108–19, §9, Apr. 25, 2003, 117 Stat. 635.)
 
+#### Effective Date
+
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
+

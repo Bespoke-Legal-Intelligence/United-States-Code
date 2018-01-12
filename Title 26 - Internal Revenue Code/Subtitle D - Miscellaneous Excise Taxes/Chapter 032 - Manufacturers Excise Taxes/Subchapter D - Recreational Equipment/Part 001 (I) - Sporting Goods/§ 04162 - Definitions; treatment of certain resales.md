@@ -134,7 +134,7 @@ Pub. L. 98–369, div. A, title X, §1015(e), July 18, 1984, 98 Stat. 1019, as a
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 4161 and 6302 of this title\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 4161 and 6302 of this title\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.
 
 "(2)
 

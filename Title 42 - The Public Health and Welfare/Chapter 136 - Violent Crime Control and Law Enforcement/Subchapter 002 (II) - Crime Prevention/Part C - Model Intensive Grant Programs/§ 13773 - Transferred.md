@@ -1,0 +1,6 @@
+### §13773. Transferred
+
+#### Codification
+
+Section 13773 was editorially reclassified as section 12143 of Title 34, Crime Control and Law Enforcement.
+

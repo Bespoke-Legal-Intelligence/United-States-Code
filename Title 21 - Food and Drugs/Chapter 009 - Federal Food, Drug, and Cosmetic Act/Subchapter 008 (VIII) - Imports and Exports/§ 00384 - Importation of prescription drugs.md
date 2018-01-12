@@ -30,7 +30,7 @@ In this section:
 
 #### (4) Qualifying laboratory
 
-&emsp;The term "qualifying laboratory" means a laboratory in the United States that has been approved by the Secretary for the purposes of this section.
+&emsp;The term "qualifying laboratory" means a laboratory in the United States that has beenapproved by the Secretary for the purposes of this section.
 
 #### (5) Wholesaler
 
@@ -60,7 +60,7 @@ The regulations under subsection (b) shall—
 
 #### (1) In general
 
-&emsp;The regulations under subsection (b) shall require an importer of a prescription drugunder subsection (b) to submit to the Secretary the following information and documentation:
+&emsp;The regulations under subsection (b) shall require an importer of a prescription drug under subsection (b) to submit to the Secretary the following information and documentation:
 
 &emsp;&emsp;(A) The name and quantity of the active ingredient of the prescription drug.
 
@@ -142,7 +142,7 @@ The Secretary shall require that importations of a specific prescription drug or
 
 #### (h) Approved labeling
 
-The manufacturer of a prescription drug shall provide an importer written authorization forthe importer to use, at no cost, the approved labeling for the prescription drug.
+The manufacturer of a prescription drug shall provide an importer written authorization for the importer to use, at no cost, the approved labeling for the prescription drug.
 
 #### (i) Charitable contributions
 

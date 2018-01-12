@@ -112,7 +112,7 @@ Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: 
 
 #### Disclaimer
 
-Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: "Nothing contained in this section \[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct."
+Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: "Nothing contained in this section\[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,0 +1,6 @@
+### §14136c. Transferred
+
+#### Codification
+
+Section 14136c was editorially reclassified as section 40725 of Title 34, Crime Control and Law Enforcement.
+

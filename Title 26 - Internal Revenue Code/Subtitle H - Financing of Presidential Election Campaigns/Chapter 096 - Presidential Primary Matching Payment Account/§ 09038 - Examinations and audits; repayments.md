@@ -16,7 +16,7 @@ After each matching payment period, the Commission shall conduct a thorough exam
 
 > it shall notify such candidate of the amount so used, and the candidate shall pay to the Secretary an amount equal to such amount.
 
-(3) Amounts received by a candidate from the matching payment account may be retained forthe liquidation of all obligations to pay qualified campaign expenses incurred for a period not exceeding 6 months after the end of the matching payment period. After all obligations have been liquidated, that portion of any unexpended balance remaining in the candidate's accounts which bears the same ratio to the total unexpended balance as the total amount received from the matching payment account bears to the total of all deposits made into the candidate's accounts shall be promptly repaid to the matching payment account.
+(3) Amounts received by a candidate from the matching payment account may be retained for the liquidation of all obligations to pay qualified campaign expenses incurred for a period not exceeding 6 months after the end of the matching payment period. After all obligations have been liquidated, that portion of any unexpended balance remaining in the candidate's accounts which bears the same ratio to the total unexpended balance as the total amount received from the matching payment account bears to the total of all deposits made into the candidate's accounts shall be promptly repaid to the matching payment account.
 
 #### (c) Notification
 

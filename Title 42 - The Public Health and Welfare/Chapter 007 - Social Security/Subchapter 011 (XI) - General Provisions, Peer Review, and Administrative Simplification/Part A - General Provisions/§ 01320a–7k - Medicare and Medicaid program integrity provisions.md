@@ -24,7 +24,7 @@
 
 #### (ii) Priority for inclusion of certain data
 
-&emsp;&emsp;&emsp;Inclusion of the data described in subclause (I) of such clause <sup>1</sup> in the Integrated Data Repository shall be a priority. Data described in subclauses (II) through (VI) of such clause <sup>1</sup> shall be included in the Integrated Data Repository as appropriate.
+&emsp;&emsp;&emsp;Inclusion of the data described in subclause (I) of such clause <sup>1</sup> in the IntegratedData Repository shall be a priority. Data described in subclauses (II) through (VI) of such clause <sup>1</sup> shall be included in the Integrated Data Repository as appropriate.
 
 #### (B) Data sharing and matching
 

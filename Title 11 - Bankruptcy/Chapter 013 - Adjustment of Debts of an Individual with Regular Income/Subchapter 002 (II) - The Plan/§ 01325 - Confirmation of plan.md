@@ -64,7 +64,7 @@
 
 &emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
 
 (4) For purposes of this subsection, the "applicable commitment period"—
 
@@ -78,17 +78,13 @@
 
 &emsp;&emsp;&emsp;(II) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4; and
 
 &emsp;(B) may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285; Pub. L. 111–327, §2(a)(44), Dec. 22, 2010, 124 Stat. 3562.)
-
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -126,7 +122,7 @@ Subsec. (b)(1)(B). Pub. L. 109–8, §318(2), substituted "applicable commitment
 
 Pub. L. 109–8, §102(h)(1), inserted "to unsecured creditors" after "to make payments".
 
-Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposableincome' means income which is received by the debtor and which is not reasonably necessary to be expended—
+Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read asfollows: "For purposes of this subsection, 'disposable income' means income which is received by the debtor and which is not reasonably necessary to be expended—
 
 &emsp;"(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of 'charitable contribution' under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
 
@@ -171,4 +167,6 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3), (4), dollar amount "575" was adjusted to "625".
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amount "525" was adjusted to "575" each time it appeared.
+
+<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

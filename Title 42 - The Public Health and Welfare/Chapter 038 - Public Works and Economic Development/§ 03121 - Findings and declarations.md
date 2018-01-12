@@ -64,7 +64,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act 
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223,224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: "This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the 'Regional Action Planning Commission Improvement Act of 1975'."
 
@@ -352,7 +352,7 @@ Conditional.—With respect to conditional gifts—
 
 "(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time suchmember is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 "(b)
 
@@ -454,7 +454,7 @@ In general.—Except for the chairman of the Commission who shall remain a membe
 
 &emsp;&emsp;"(B)
 
-Initial members.—Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for aterm of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
+Initial members.—Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for a term of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
 
 &emsp;"(4)
 
@@ -596,7 +596,7 @@ Pub. L. 101–161, title II, Nov. 21, 1989, 103 Stat. 969, extended date for sub
 
 #### Public Works Improvement
 
-Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the "Public Works Improvement Act of 1984", established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
+Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the "Public Works Improvement Act of 1984",established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
 
 #### White House Conference on Balanced National Growth and Economic Development
 
@@ -622,7 +622,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the "Interagency Task Force on the Economic Development of the Southwest Border" (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
 
-(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may bedetermined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
 
 (c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
 

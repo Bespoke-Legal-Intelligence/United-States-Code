@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—As the Administration works toward the establishment of a lunar outpost, the Administration shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall be operable as a human-tended facility capable of remote or autonomous operation for extended periods.
+Establishment.—As the Administration works toward the establishment of a lunar outpost, the Administration shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpostshall be operable as a human-tended facility capable of remote or autonomous operation for extended periods.
 
 (b)
 

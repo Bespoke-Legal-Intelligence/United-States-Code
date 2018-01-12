@@ -74,7 +74,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 > In carrying out paragraph (4),<sup>1</sup> the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12,1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, §5021, Nov. 8, 2007, 121 Stat. 1202; Pub. L. 113–121, title IV, §4010(b), June 10, 2014, 128 Stat. 1318; Pub. L. 114–322, title I, §1180, Dec. 16, 2016, 130 Stat. 1677.)
+(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, §5021, Nov. 8, 2007, 121 Stat. 1202; Pub. L. 113–121, title IV, §4010(b), June 10, 2014, 128 Stat. 1318; Pub. L. 114–322, title I, §1180, Dec. 16, 2016, 130 Stat. 1677.)
 
 #### References in Text
 

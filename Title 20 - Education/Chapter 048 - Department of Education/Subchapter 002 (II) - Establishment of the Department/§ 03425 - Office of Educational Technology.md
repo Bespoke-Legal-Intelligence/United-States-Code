@@ -24,7 +24,7 @@ The Director is authorized to select, appoint, and employ such officers and empl
 
 The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5.
 
-(Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31,1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. 
 
 #### Transfer of Office of Training Technology Transfer
 
-Pub. L. 103–227, title II, §236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: "The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20U.S.C. 5093) is transferred to and established in the Office of Educational Technology."
+Pub. L. 103–227, title II, §236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: "The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

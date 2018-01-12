@@ -24,7 +24,7 @@ Contents of report.—A report filed under paragraph (1) shall contain—
 
 (c)
 
-Limitation.—The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441e(b))).<sup>1</sup>
+Limitation.—The committee shall not accept any donation from a foreign national (asdefined in section 319(b) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441e(b))).<sup>1</sup>
 
 (Added Pub. L. 107–155, title III, §308(a)(2), Mar. 27, 2002, 116 Stat. 103.)
 

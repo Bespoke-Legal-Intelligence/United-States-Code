@@ -30,7 +30,7 @@ The Secretary of State shall designate in each United States diplomatic mission 
 
 #### Codification
 
-Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part ofthe International Child Abduction Remedies Act which comprises this chapter.
+Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the International Child Abduction Remedies Act which comprises this chapter.
 
 Section was formerly classified to section 11608a of Title 42, The Public Health and Welfare.
 

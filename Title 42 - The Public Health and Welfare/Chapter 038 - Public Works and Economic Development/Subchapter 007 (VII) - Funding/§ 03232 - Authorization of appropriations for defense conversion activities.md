@@ -6,7 +6,7 @@ In addition to amounts made available under section 3231 of this title, there ar
 
 #### (b) Pilot projects
 
-Funds made available under subsection (a) of this section may be used for activities including pilot projects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.
+Funds made available under subsection (a) may be used for activities including pilotprojects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.
 
 (Pub. L. 89–136, title VII, §702, as added Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617.)
 
@@ -15,4 +15,8 @@ Funds made available under subsection (a) of this section may be used for activi
 A prior section 3232, Pub. L. 89–136, title VIII, §802, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 160; amended Pub. L. 100–707, title I, §109(r)(2), Nov. 23, 1988, 102 Stat. 4710, related to disaster recovery planning, prior to repeal by Pub. L. 105–393, §102(c).
 
 A prior section 702 of Pub. L. 89–136 was classified to section 3212 of this title prior to repeal by Pub. L. 105–393, §102(b)(3).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

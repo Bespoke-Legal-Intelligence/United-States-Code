@@ -32,7 +32,7 @@ Not later than 1 year after January 4, 2011, the Secretary shall issue guidance 
 
 &emsp;The regulations promulgated under paragraph (1)—
 
-&emsp;&emsp;(A) shall require that the foreign supplier verification program of each importer be adequate to provide assurances that each foreign supplier to the importer produces the imported food in compliance with—
+&emsp;&emsp;(A) shall require that the foreign supplier verification program of each importer beadequate to provide assurances that each foreign supplier to the importer produces the imported food in compliance with—
 
 &emsp;&emsp;&emsp;(i) processes and procedures, including reasonably appropriate risk-based preventive controls, that provide the same level of public health protection as those required under section 350g of this title or section 350h of this title (taking into consideration variances granted under section 350h of this title), as appropriate; and
 

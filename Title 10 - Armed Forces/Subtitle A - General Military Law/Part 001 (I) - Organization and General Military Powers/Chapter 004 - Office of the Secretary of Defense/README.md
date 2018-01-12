@@ -4,8 +4,8 @@
 | :--- | ---: |
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
-| [132a.](%C2%A7%2000132a%20-%20Deputy%20Chief%20Management%20Officer.md) | Deputy Chief Management Officer. |
-| [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics. |
+| [132a.](%C2%A7%2000132a%20-%20Chief%20Management%20Officer.md) | Chief Management Officer. |
+| \[133. | Repealed.\] |
 | [133a.](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md) | Under Secretary of Defense for Research and Engineering. |
 | [133b.](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md) | Under Secretary of Defense for Acquisition and Sustainment. |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
@@ -14,7 +14,7 @@
 | [136\.](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Under Secretary of Defense for Personnel and Readiness. |
 | \[136a. | Repealed.\] |
 | [137\.](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md) | Under Secretary of Defense for Intelligence. |
-| [137a.](%C2%A7%2000137a%20-%20Principal%20Deputy%20Under%20Secretaries%20of%20Defense.md) | Principal Deputy Under Secretaries of Defense. |
+| [137a.](%C2%A7%2000137a%20-%20Deputy%20Under%20Secretaries%20of%20Defense.md) | Deputy Under Secretaries of Defense. |
 | [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
 | \[138a to 138d. Repealed.\] |  |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
@@ -31,21 +31,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, this analysis is amended by striking out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".</i>
-
-<i>Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information." See 2014 Amendment note below.</i>
-
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, repealed Pub. L. 113–291, §901(l)(1)(A). See 2014 Amendment note below.
+
+Pub. L. 115–91, div. A, title IX, §§906(f)(2), 910(a)(2), Dec. 12, 2017, 131 Stat. 1514, 1517, substituted "Chief Management Officer" for "Deputy Chief Management Officer" in item 132a and "Deputy Under Secretaries of Defense" for "Principal Deputy Under Secretaries of Defense" in item 137a.
+
+<b>2016</b>—Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b and struck out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 Pub. L. 114–328, div. A, title IX, §§901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b "Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance" and item 139c "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy".
 
 <b>2014</b>—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a, effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a, was repealed by Pub. L. 115–91, §1081(b)(1)(B).
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
@@ -111,13 +109,19 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 <b>1972</b>—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title IX, §910(a)(2), Dec. 12, 2017, 131 Stat. 1517, provided that the amendment made by section 910(a)(2) is effective Feb. 1, 2018.
+
+Pub. L. 115–91, div. A, title X, §1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(B) is effective as of Dec. 23, 2016.
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(g)(2) is effective on Feb. 1, 2018.
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal of section 901(a) of Pub. L. 113–291 by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(l)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.
 
 
 ---
@@ -126,8 +130,8 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468,
 
 - [&sect; 00131 - Office of the Secretary of Defense](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md)
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
-- [&sect; 00132a - Deputy Chief Management Officer](%C2%A7%2000132a%20-%20Deputy%20Chief%20Management%20Officer.md)
-- [&sect; 00133 - Under Secretary of Defense for Acquisition, Technology, and Logistics](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md)
+- [&sect; 00132a - Chief Management Officer](%C2%A7%2000132a%20-%20Chief%20Management%20Officer.md)
+- [&sect; 00133 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;901(a)(1), Dec. 23, 2016, 130 Stat. 2339](%C2%A7%2000133%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202339.md)
 - [&sect; 00133a - Under Secretary of Defense for Research and Engineering](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md)
 - [&sect; 00133b - Under Secretary of Defense for Acquisition and Sustainment](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md)
 - [&sect; 00134 - Under Secretary of Defense for Policy](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
@@ -137,7 +141,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468,
 - [&sect; 00136 - Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
 - [&sect; 00136a - Repealed. Pub. L. 111&#8211;383, div. A, title IX, &sect;901(b)(1), Jan. 7, 2011, 124 Stat. 4317](%C2%A7%2000136a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28b%29%281%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204317.md)
 - [&sect; 00137 - Under Secretary of Defense for Intelligence](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md)
-- [&sect; 00137a - Principal Deputy Under Secretaries of Defense](%C2%A7%2000137a%20-%20Principal%20Deputy%20Under%20Secretaries%20of%20Defense.md)
+- [&sect; 00137a - Deputy Under Secretaries of Defense](%C2%A7%2000137a%20-%20Deputy%20Under%20Secretaries%20of%20Defense.md)
 - [&sect; 00138 - Assistant Secretaries of Defense](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md)
 - [&sect; 00138a, 138b - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(h)(4), Dec. 19, 2014, 128 Stat. 3467](%C2%A7%2000138a%2C%20138b%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28h%29%284%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203467.md)
 - [&sect; 00138c - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(g)(2), Dec. 19, 2014, 128 Stat. 3466](%C2%A7%2000138c%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28g%29%282%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203466.md)

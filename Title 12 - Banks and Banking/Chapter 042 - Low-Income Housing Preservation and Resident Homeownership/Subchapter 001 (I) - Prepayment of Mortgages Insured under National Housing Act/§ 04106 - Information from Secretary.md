@@ -18,7 +18,7 @@ The Secretary shall provide each owner who submits notice of intent to extend th
 
 #### (3) Federal cost limits
 
-&emsp;A statement of the applicable Federal cost limits for the market area (or relevant local market area, if applicable) in which the housing is located, which shall explain the limitations under sections 4109 and 4110 of this title of the amount of assistance that the Secretary may provide based on such cost limits.
+&emsp;A statement of the applicable Federal cost limits for the market area (or relevant local market area, if applicable) in which the housing is located, which shall explain the limitations under sections 4109 and 4110 of this titleof the amount of assistance that the Secretary may provide based on such cost limits.
 
 #### (4) Federal cost limit analysis
 

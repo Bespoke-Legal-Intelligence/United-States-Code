@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall conduct training and education programs for the employees of the Food and Drug Administration relating to the regulatory responsibilities and policies established by this chapter, including programs for—
+The Secretary shall conduct training and education programs for the employees of the Foodand Drug Administration relating to the regulatory responsibilities and policies established by this chapter, including programs for—
 
 &emsp;(1) scientific training;
 

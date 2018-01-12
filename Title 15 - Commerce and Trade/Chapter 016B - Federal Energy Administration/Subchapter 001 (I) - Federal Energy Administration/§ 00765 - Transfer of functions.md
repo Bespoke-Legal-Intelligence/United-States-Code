@@ -14,7 +14,7 @@ There are hereby transferred to and vested in the Administrator all functions of
 
 #### (b) Functions of Chairman and Executive Director of Cost of Living Council
 
-There are hereby transferred to and vested in the Administrator all functions of the Chairmanof the Cost of Living Council, the Executive Director of the Cost of Living Council, and the Cost of Living Council, and officers and components thereof, as relate to or are utilized by the Energy Division of the Cost of Living Council.
+There are hereby transferred to and vested in the Administrator all functions of the Chairman of the Cost of Living Council, the Executive Director of the Cost of Living Council, and the Cost of Living Council, and officers and components thereof, as relate to or are utilized by the Energy Division of the Cost of Living Council.
 
 (Pub. L. 93–275, §6, May 7, 1974, 88 Stat. 100.)
 

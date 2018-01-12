@@ -44,7 +44,7 @@ The Chief Executive Officer shall coordinate the provision of accessible tours f
 
 #### (d) Detail of personnel
 
-The Architect of the Capitol shall detail personnel of the Capitol Guide Service based on a request from the Capitol Police Board to assist the United States Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with—
+The Architect of the Capitol shall detail personnel of the Capitol Guide Service based on arequest from the Capitol Police Board to assist the United States Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with—
 
 &emsp;(1) the inauguration of the President and Vice President of the United States;
 

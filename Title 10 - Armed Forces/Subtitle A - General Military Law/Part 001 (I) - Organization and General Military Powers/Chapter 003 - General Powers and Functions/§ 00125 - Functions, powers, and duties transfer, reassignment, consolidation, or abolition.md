@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as
 
 Pub. L. 87–651, title III, §303, Sept. 7, 1962, 76 Stat. 525, provided that:
 
-"(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) \[63 Stat. 203; 71 Stat. 611\],and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[63 Stat. 207\].
+"(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) \[63 Stat. 203; 71 Stat. 611\], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[63 Stat. 207\].
 
 "(b) The provisions of this section are enacted by the Congress—
 

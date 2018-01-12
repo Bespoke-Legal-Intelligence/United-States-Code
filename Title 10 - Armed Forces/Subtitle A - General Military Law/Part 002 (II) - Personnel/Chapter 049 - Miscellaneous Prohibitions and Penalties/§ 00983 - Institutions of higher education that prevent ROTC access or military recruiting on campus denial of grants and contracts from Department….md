@@ -50,7 +50,7 @@ Covered Funds.—(1) Except as provided in paragraph (2), the limitations establ
 
 Notice of Determinations.—Whenever the Secretary of Defense makes a determination under subsection (a), (b), or (c), the Secretary—
 
-&emsp;(1) shall transmit a notice of the determination to the Secretary of Education and to the head of each other department and agency thefunds of which are subject to the determination; and
+&emsp;(1) shall transmit a notice of the determination to the Secretary of Education and to the head of each other department and agency the funds of which are subject to the determination; and
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 

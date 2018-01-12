@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
-(2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 ofthis title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
+(2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
 (3) Any order issued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation. Any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter. In assessing such a penalty, the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
@@ -52,7 +52,7 @@ Any person who knowingly transports, treats, stores, disposes of, or exports any
 
 #### (f) Special rules
 
-For the purposes of subsection (e) of this section—
+For the purposes of subsection (e)—
 
 &emsp;(1) A person's state of mind is knowing with respect to—
 
@@ -74,11 +74,11 @@ For the purposes of subsection (e) of this section—
 
 &emsp;&emsp;(A) an occupation, a business, or a profession; or
 
-&emsp;&emsp;(B) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made aware of the risks involved prior to giving consent.
+&emsp;&emsp;(B) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such otherperson had been made aware of the risks involved prior to giving consent.
 
 > &emsp;The defendant may establish an affirmative defense under this subsection by a preponderance of the evidence.
 
-&emsp;(4) All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply under subsection (e) of this section and shall be determined by the courts of the United States according to the principles of common law as they may be interpreted in the light of reason and experience. Concepts of justification and excuse applicable under this section may be developed in the light of reason and experience.
+&emsp;(4) All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply under subsection (e) and shall be determined by the courts of the United States according to the principles of common law as they may be interpreted in the light of reason and experience. Concepts of justification and excuse applicable under this section may be developed in the light of reason and experience.
 
 &emsp;(5) The term "organization" means a legal entity, other than a government, established, or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons.
 

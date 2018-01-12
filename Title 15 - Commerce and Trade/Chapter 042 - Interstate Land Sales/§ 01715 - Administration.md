@@ -10,7 +10,7 @@ All hearings shall be public and appropriate records thereof shall be kept, and 
 
 #### (c) Procedures applicable
 
-The Director shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions ofchapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
+The Director shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
 
 (Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 111–203, title X, §1098A(1)–(3), (5), July 21, 2010, 124 Stat. 2105.)
 

@@ -52,7 +52,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the term "reserve for post-retirement medical or life insurance benefits" means the greater of the amount of assets set aside for purposes of post-retirement medical or life insurance benefits to be provided to covered employees as of the close of the last plan year ending before the date of the enactment of the Tax Reform Act of 1984 or on July 18, 1984.
 
-&emsp;&emsp;&emsp;&emsp;(III) All payments during plan years ending on or after the date of the enactment of the Tax Reform Act of 1984 of post-retirement medical benefits or life insurance benefits shall be charged against the reserve referred to in subclause (II). Except to the extent providedin regulations prescribed by the Secretary, all plans of an employer shall be treated as 1 plan for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;&emsp;(III) All payments during plan years ending on or after the date of the enactment of the Tax Reform Act of 1984 of post-retirement medical benefits or life insurance benefits shall be charged against the reserve referred to in subclause (II). Except to the extent provided in regulations prescribed by the Secretary, all plans of an employer shall be treated as 1 plan for purposes of the preceding sentence.
 
 #### (iii) Treatment of tax exempt organizations
 
@@ -74,13 +74,27 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(iv) income from the investment of collateral security.
 
-&emsp;&emsp;(B) Subparagraph (A) shall apply only with respect to securities transferred pursuant to an agreement between the transferor and the transferee which provides for—
+&emsp;&emsp;(B) Subparagraph (A) shall apply only with respect to securities transferred pursuant toan agreement between the transferor and the transferee which provides for—
 
 &emsp;&emsp;&emsp;(i) reasonable procedures to implement the obligation of the transferee to furnish to the transferor, for each business day during such period, collateral with a fair market value not less than the fair market value of the security at the close of business on the preceding business day,
 
 &emsp;&emsp;&emsp;(ii) termination of the loan by the transferor upon notice of not more than 5 business days, and
 
 &emsp;&emsp;&emsp;(iii) return to the transferor of securities identical to the transferred securities upon termination of the loan.
+
+#### (6) Special rule for organization with more than 1 unrelated trade or business
+
+&emsp;In the case of any organization with more than 1 unrelated trade or business—
+
+&emsp;&emsp;(A) unrelated business taxable income, including for purposes of determining any net operating loss deduction, shall be computed separately with respect to each such trade or business and without regard to subsection (b)(12),
+
+&emsp;&emsp;(B) the unrelated business taxable income of such organization shall be the sum of the unrelated business taxable income so computed with respect to each such trade or business, less a specific deduction under subsection (b)(12), and
+
+&emsp;&emsp;(C) for purposes of subparagraph (B), unrelated business taxable income with respect to any such trade or business shall not be less than zero.
+
+#### (7) Increase in unrelated business taxable income by disallowed fringe
+
+&emsp;Unrelated business taxable income of an organization shall be increased by any amount for which a deduction is not allowable under this chapter by reason of section 274 and which is paid or incurred by such organization for any qualified transportation fringe (as defined in section 132(f)), any parking facility used in connection with qualified parking (as defined in section 132(f)(5)(C)), or any on-premises athletic facility (as defined in section 132(j)(4)(B)). The preceding sentence shall not apply to the extent the amount paid or incurred is directly connected with an unrelated trade or business which is regularly carried on by the organization. The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance providing for the appropriate allocation of depreciation and other costs with respect to facilities used for parking or for on-premises athletic facilities.
 
 #### (b) Modifications
 
@@ -114,7 +128,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) property held primarily for sale to customers in the ordinary course of the trade or business.
 
-> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse ortermination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
+> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
@@ -190,7 +204,7 @@ Paragraph to apply only to certain excess payments.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued by the controlling organization that exceeds the amount which would have been paid or accrued if such payment met the requirements prescribed under section 482.
+In general.—Subparagraph (A) shall apply only to the portion of a qualifying specified payment received or accrued bythe controlling organization that exceeds the amount which would have been paid or accrued if such payment met the requirements prescribed under section 482.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -278,7 +292,7 @@ Affiliate.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—The determination as to whether an entity is an affiliate of an organization shall be made under rules similar to the rules of section 168(h)(4)(B).
+In general.—The determination as to whether an entity is an affiliate of an organization shall be made under rulessimilar to the rules of section 168(h)(4)(B).
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -344,7 +358,7 @@ In general.—A sale, exchange, or other disposition of property shall be consid
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is transferred by the eligible taxpayer to an unrelated person, and
 
-&emsp;&emsp;&emsp;&emsp;(II) within 1 year of such transfer the eligible taxpayer has received a certification from the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located that, as a result of the eligible taxpayer's remediation actions,such property would not be treated as a qualifying brownfield property in the hands of the transferee.
+&emsp;&emsp;&emsp;&emsp;(II) within 1 year of such transfer the eligible taxpayer has received a certification from the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located that, as a result of the eligible taxpayer's remediation actions, such property would not be treated as a qualifying brownfield property in the hands of the transferee.
 
 &emsp;&emsp;&nbsp;For purposes of subclause (II), before issuing such certification, the Environmental Protection Agency or appropriate State agency shall respond to comments received pursuant to clause (ii)(V) in the same form and manner as required under section 117(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
 
@@ -452,11 +466,11 @@ Election.—An election under clause (i) shall be made with the eligible taxpaye
 
 &emsp;&emsp;&emsp;(iii)
 
-Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II) <sup>2</sup> by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day ofthe taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II) <sup>2</sup> by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
 &emsp;&emsp;(I)
 
-Recapture.—If an eligible taxpayer excludes gain or loss from a sale, exchange, or other disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
+Recapture.—If an eligible taxpayer excludes gain or loss from a sale, exchange, orother disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
 
 &emsp;&emsp;(J)
 
@@ -498,7 +512,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 &emsp;&emsp;(A) $100, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1994" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1994" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (3) Dues
 
@@ -528,7 +542,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 &emsp;This subsection shall not apply to employer securities (within the meaning of section 409(l)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §319(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §131(a), title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4018, 4044; Pub. L. 114–113, div. Q, title I, §114(a), Dec. 18, 2015, 129 Stat. 3049.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX,§§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §306(a), Oct. 3, 2008, 122 Stat. 3868; Pub. L. 111–312, title VII, §747(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §319(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §131(a), title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4018, 4044; Pub. L. 114–113, div. Q, title I, §114(a), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(Y), 13702(a), 13703(a), Dec. 22, 2017, 131 Stat. 2060, 2168, 2169.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -549,6 +563,12 @@ Sections 101(39), 107, 117(a), (b), and 121(d) of the Comprehensive Environmenta
 The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i), (D)(i), (ii)(V), (E)(ii)(IV), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(6). Pub. L. 115–97, §13702(a), added par. (6).
+
+Subsec. (a)(7). Pub. L. 115–97, §13703(a), added par. (7).
+
+Subsec. (d)(2)(B). Pub. L. 115–97, §11002(d)(1)(Y), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2015</b>—Subsec. (b)(13)(E)(iv). Pub. L. 114–113 struck out cl. (iv). Text read as follows: "This subparagraph shall not apply to payments received or accrued after December 31, 2014."
 
@@ -598,11 +618,11 @@ Subsec. (e). Pub. L. 104–188, §1316(c), added subsec. (e).
 
 <b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §13148(a), inserted "amounts received or accrued as consideration for entering into agreements to make loans," before "and annuities".
 
-Subsec. (b)(5). Pub. L. 103–66, §13148(b), in second sentence, substituted "all gains or losses recognized, in connection with the organization's investment activities, from" for "all gains on", struck out ", written by the organization in connection with its investment activities," after "termination of options", and inserted before period at end "or real property and all gains or losses from the forfeiture of good-faith deposits (thatare consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities".
+Subsec. (b)(5). Pub. L. 103–66, §13148(b), in second sentence, substituted "all gains or losses recognized, in connection with the organization's investment activities, from" for "all gains on", struck out ", written by the organization in connection with its investment activities," after "termination of options", and inserted before period at end "or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities".
 
 Subsec. (b)(16). Pub. L. 103–66, §13147(a), added par. (16).
 
-Subsec. (c)(2), (3). Pub. L. 103–66, §13145(a), redesignated par. (3) as (2), substituted "paragraph (1)" for "paragraph (1) or (2)", and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding any other provision of this section—
+Subsec. (c)(2), (3). Pub. L. 103–66, §13145(a), redesignated par. (3) as (2), substituted "paragraph (1)" for"paragraph (1) or (2)", and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding any other provision of this section—
 
 &emsp;"(A) any organization's share (whether or not distributed) of the gross income of a publicly traded partnership (as defined in section 469(k)(2)) shall be treated as gross income derived from an unrelated trade or business, and
 
@@ -664,11 +684,31 @@ Subsec. (b)(12). Pub. L. 91–172, §121(b)(2)(B), made the allowance of the spe
 
 Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (17).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted ", the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within theUnited States" for ", the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States".
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted ", the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within the United States" for ", the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States".
 
 <b>1964</b>—Subsec. (b)(14). Pub. L. 88–380 added par. (14).
 
 <b>1958</b>—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(Y) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13702(b), Dec. 22, 2017, 131 Stat. 2168, provided that:
+
+"(1)
+
+In general.—Except to the extent provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017.
+
+"(2)
+
+Carryovers of net operating losses.—If any net operating loss arising in a taxable year beginning before January 1, 2018, is carried over to a taxable year beginning on or after such date—
+
+&emsp;"(A) subparagraph (A) of section 512(a)(6) of the Internal Revenue Code of 1986, as added by this Act, shall not apply to such net operating loss, and
+
+&emsp;"(B) the unrelated business taxable income of the organization, after the application of subparagraph (B) of such section, shall be reduced by the amount of such net operating loss."
+
+Pub. L. 115–97, title I, §13703(b), Dec. 22, 2017, 131 Stat. 2169, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 

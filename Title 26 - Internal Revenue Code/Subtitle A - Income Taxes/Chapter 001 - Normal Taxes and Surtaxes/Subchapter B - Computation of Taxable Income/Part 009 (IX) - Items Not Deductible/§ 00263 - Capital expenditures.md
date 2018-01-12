@@ -66,7 +66,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 &emsp;&emsp;(B) the sum of—
 
-&emsp;&emsp;&emsp;(i) the amount of interest (including original issue discount) includible in gross income for the taxable year with respect to the property described in subparagraph (A),
+&emsp;&emsp;&emsp;(i) the amount of interest (including original issue discount) includible in grossincome for the taxable year with respect to the property described in subparagraph (A),
 
 &emsp;&emsp;&emsp;(ii) any amount treated as ordinary income under section 1271(a)(3)(A), 1276, or 1281(a) with respect to such property for the taxable year,
 
@@ -150,7 +150,7 @@ In the case of intangible drilling and development costs paid or incurred with r
 
 > This subsection shall not apply to costs paid or incurred with respect to a nonproductive well.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243, §4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat. 674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i), 1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–311, title IV, §408(a)(10), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §338(b)(1), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §§1323(b)(2), 1331(b)(4), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(1), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(D), (41)(G), Dec. 19, 2014, 128 Stat. 4042, 4044.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243, §4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat. 674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i),1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–311, title IV, §408(a)(10), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §338(b)(1), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §§1323(b)(2), 1331(b)(4), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(1), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(D), (41)(G), Dec. 19, 2014, 128 Stat. 4042, 4044.)
 
 #### Amendments
 
@@ -192,7 +192,7 @@ Subsec. (g)(4). Pub. L. 98–369, §102(e)(8), added par. (4).
 
 Subsec. (h). Pub. L. 98–369, §56(a), added subsec. (h).
 
-<b>1983</b>—Subsec. (g)(2)(A)(ii). Pub. L. 97–448, §105(b)(1), substituted "all other amounts (including charges for temporary use of the personal property in a short sale,or to insure, store, or transport the personal property) paid or incurred to carry the personal property, over" for "amounts paid or incurred to insure, store, or transport the personal property, over".
+<b>1983</b>—Subsec. (g)(2)(A)(ii). Pub. L. 97–448, §105(b)(1), substituted "all other amounts (including charges for temporary use of the personal property in a short sale, or to insure, store, or transport the personal property) paid or incurred to carry the personal property, over" for "amounts paid or incurred to insure, store, or transport the personal property, over".
 
 Subsec. (g)(2)(B)(ii). Pub. L. 97–448, §306(a)(9)(A), substituted "section 1232(a)(3)(A)" for "section 1232(a)(4)(A)".
 
@@ -316,7 +316,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked."
+Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked."
 
 #### Effective Date of 1976 Amendment
 
@@ -360,7 +360,7 @@ Pub. L. 88–563, §1(a), Sept. 2, 1964, 78 Stat. 809, provided that: "This Act 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

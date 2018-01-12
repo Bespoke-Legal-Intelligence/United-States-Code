@@ -4,7 +4,7 @@
 
 (2) No application shall be entitled to a right of priority under this section, unless the applicant designates the foreign application in the application filed in the United States or by amendment thereto and, if required by the Secretary, furnishes such copy, translation or both, as the Secretary may specify.
 
-(3)(A) An applicant entitled to a right of priority under this subsection shall be allowed to furnish any necessary information, document, or material required for the purpose of the examination of the application during—
+(3)(A) An applicant entitled to a right of priority under this subsection shall be allowed to furnish any necessary information, document, ormaterial required for the purpose of the examination of the application during—
 
 &emsp;(i) the 2-year period beginning on the date of the expiration of the period of priority; or
 

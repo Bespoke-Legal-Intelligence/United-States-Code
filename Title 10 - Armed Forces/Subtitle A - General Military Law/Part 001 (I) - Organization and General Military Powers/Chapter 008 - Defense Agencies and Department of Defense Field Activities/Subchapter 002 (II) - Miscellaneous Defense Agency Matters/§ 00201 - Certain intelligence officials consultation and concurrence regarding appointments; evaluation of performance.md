@@ -2,7 +2,7 @@
 
 (a)
 
-Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defenseshall consult with the Director of National Intelligence regarding the recommendation.
+Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
 
 (b)
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 #### Defense Intelligence Agency
 
-Pub. L. 102–190, div. A, title IX, §921, Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that, during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, the Assistant Secretary of Defense referred to in section 138(b)(3) of this title could be assigned supervision of the Defense Intelligence Agency other than day-to-day operational control over the Agency, set forth the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, and directed the Secretary of the Army and the Director of the Defense Intelligence Agency to take all required actions in order to transfer the Armed Forces Medical Intelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency not later than Jan. 1, 1992.
+Pub. L. 102–190, div. A, title IX, §921, Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that, during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, the Assistant Secretary of Defense referred to in section 138(b)(3) of this title could be assigned supervision of the Defense Intelligence Agency other than day-to-day operational control over the Agency, set forth the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, and directed the Secretary of the Army and the Director of the Defense Intelligence Agency to take all required actions in order to transfer the Armed Forces MedicalIntelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency not later than Jan. 1, 1992.
 
 #### Joint Intelligence Center
 
@@ -76,7 +76,7 @@ Requirement for Center.—The Secretary of Defense shall direct the consolidatio
 
 "(b)
 
-Management.—The center shall be managed by the Defense Intelligence Agency in its capacity as theintelligence staff activity of the Chairman of the Joint Chiefs of Staff.
+Management.—The center shall be managed by the Defense Intelligence Agency in its capacity as the intelligence staff activity of the Chairman of the Joint Chiefs of Staff.
 
 "(c)
 

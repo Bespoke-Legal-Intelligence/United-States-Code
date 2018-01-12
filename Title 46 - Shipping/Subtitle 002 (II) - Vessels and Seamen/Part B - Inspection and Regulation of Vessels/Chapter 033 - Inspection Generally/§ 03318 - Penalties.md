@@ -1,6 +1,6 @@
 ### §3318. Penalties
 
-(a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
+(a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons as measured under section 14502 of this title, or analternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
 
 (b)(1) A person that knowingly manufactures, sells, offers for sale, or possesses with intent to sell, any equipment subject to this part, and the equipment is so defective as to be insufficient to accomplish the purpose for which it is intended, commits a class D felony.
 
@@ -129,4 +129,8 @@ Subsecs. (i) to (l). Pub. L. 98–498, §211(c)(8), added subsecs. (i) to (l).
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
 

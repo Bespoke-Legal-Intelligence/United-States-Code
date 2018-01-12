@@ -64,7 +64,7 @@ Payment procedures.—A member's share of the premium for a plan established und
 
 (e)
 
-Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to paragraph (2), a member or dependent who receivesdental care under a premium sharing plan referred to in subsection (d)(1) shall—
+Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to paragraph (2), a member or dependent who receives dental care under a premium sharing plan referred to in subsection (d)(1) shall—
 
 &emsp;(A) in the case of care described in subsection (c)(1), pay no charge for the care;
 
@@ -130,7 +130,7 @@ The date of the enactment of this sentence, referred to in subsec. (a)(1), is th
 
 #### Prior Provisions
 
-A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A,title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents' dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
+A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents' dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
 

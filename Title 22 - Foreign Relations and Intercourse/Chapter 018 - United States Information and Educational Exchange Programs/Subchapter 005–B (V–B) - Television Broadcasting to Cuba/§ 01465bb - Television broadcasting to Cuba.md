@@ -2,7 +2,7 @@
 
 #### (a) Television broadcasting to Cuba
 
-In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the "Agency" <sup>1</sup>) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shallserve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
+In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the "Agency" <sup>1</sup>) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
 
 #### (b) Voice of America standards
 
@@ -18,7 +18,7 @@ Any program of United States Government television broadcasts to Cuba authorized
 
 (2) No Federal branch or agency shall compel an incumbent domestic licensee to change its frequency in order to eliminate objectionable interference caused by broadcasting of the Service.
 
-(3) For purposes of section 305 of the Communications Act of 1934 \[47 U.S.C. 305\], a television broadcast station established for purposes of this subchapter shall be treated as a government station, but the Federal Communications Commission shall exercise the authority of the President under such section to assign a frequency to such station.
+(3) For purposes of section 305 of the Communications Act of 1934 \[47 U.S.C. 305\], a television broadcast station established for purposes ofthis subchapter shall be treated as a government station, but the Federal Communications Commission shall exercise the authority of the President under such section to assign a frequency to such station.
 
 #### (e) Interference with domestic broadcasting
 

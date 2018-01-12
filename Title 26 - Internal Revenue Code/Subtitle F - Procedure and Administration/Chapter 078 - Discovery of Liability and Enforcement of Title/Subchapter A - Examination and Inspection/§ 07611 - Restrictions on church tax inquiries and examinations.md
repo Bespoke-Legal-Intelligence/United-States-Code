@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met with respect to any church tax inquiryif, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
+&emsp;&emsp;The requirements of this paragraph are met with respect to any church tax inquiry if, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
 
 #### (B) Contents of inquiry notice
 
@@ -94,7 +94,7 @@
 
 #### (B) Inquiries not followed by examinations
 
-&emsp;&emsp;In the case of a church tax inquiry with respect to which there is no examination notice under subsection (b), the Secretary shall complete such inquiry (and make a final determination with respect thereto) not later than the date which is 90 days after the inquiry notice date.
+&emsp;&emsp;In the case of a church tax inquiry with respect to which there is no examination notice under subsection (b), the Secretary shallcomplete such inquiry (and make a final determination with respect thereto) not later than the date which is 90 days after the inquiry notice date.
 
 #### (2) Suspension of 2-year period
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(B) a request by the Secretary for any significant change in the operational practices of the church (including the adequacy of accounting practices),
 
-> &emsp;no other church tax inquiry or examination may begin with respect to such church during the applicable 5-year period unless such inquiry or examination is approved in writing by the Secretary or does not involve the same or similar issues involved in the preceding inquiry or examination. For purposes of the preceding sentence, an inquiry or examination shall be treated as completed not later than the expiration of the applicable period under paragraph (1) of subsection (c).
+> &emsp;no other church tax inquiry or examination may begin with respect to such church duringthe applicable 5-year period unless such inquiry or examination is approved in writing by the Secretary or does not involve the same or similar issues involved in the preceding inquiry or examination. For purposes of the preceding sentence, an inquiry or examination shall be treated as completed not later than the expiration of the applicable period under paragraph (1) of subsection (c).
 
 #### (2) Applicable 5-year period
 
@@ -280,7 +280,7 @@ Subsec. (i). Pub. L. 99–514, §1899A(61), redesignated pars. (A) to (E) as (1)
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L.100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
 
 #### Effective Date of 1988 Amendment
 

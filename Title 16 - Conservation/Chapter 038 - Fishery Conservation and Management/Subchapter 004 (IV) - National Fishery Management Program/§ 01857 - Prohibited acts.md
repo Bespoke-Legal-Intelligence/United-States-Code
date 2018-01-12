@@ -20,7 +20,7 @@ It is unlawful—
 
 &emsp;&emsp;(H) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section;
 
-&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
+&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding thecapacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
@@ -72,7 +72,7 @@ It is unlawful—
 
 &emsp;&emsp;(C) except as permitted under section 1856(c) of this title, in fish processing (as defined in paragraph (4)(A) of such section) within the internal waters of a State (as defined in paragraph (4)(B) of such section);
 
-&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
+&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, anyUnited States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
 
 &emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone or within the boundaries of any State, if—
 
@@ -82,7 +82,7 @@ It is unlawful—
 
 > &emsp;unless such vessel is authorized to engage in fishing in the area in which the vessel is operating; and
 
-&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States thathas been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
+&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
 (Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, §103(a), Jan. 4, 2011, 124 Stat. 3670; Pub. L. 114–81, title I, §112, Nov. 5, 2015, 129 Stat. 659.)
 

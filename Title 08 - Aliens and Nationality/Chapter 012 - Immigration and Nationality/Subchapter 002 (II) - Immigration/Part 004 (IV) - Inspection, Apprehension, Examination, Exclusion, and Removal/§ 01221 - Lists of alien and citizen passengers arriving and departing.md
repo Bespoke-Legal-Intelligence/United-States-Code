@@ -6,7 +6,7 @@ For each commercial vessel or aircraft transporting any person to any seaport or
 
 #### (b) Departure manifests
 
-For each commercial vessel or aircraft taking passengers on board at any seaport or airport of the United States, who are destined to any place outside the United States, it shall be the duty of an appropriate official specified in subsection (d) to provide any United States border officer (as defined in subsection (i)) before departure fromsuch port manifest information about each passenger, crew member, and other occupant to be transported.
+For each commercial vessel or aircraft taking passengers on board at any seaport or airport of the United States, who are destined to any place outside the United States, it shall be the duty of an appropriate official specified in subsection (d) to provide any United States border officer (as defined in subsection (i)) before departure from such port manifest information about each passenger, crew member, and other occupant to be transported.
 
 #### (c) Contents of manifest
 
@@ -46,7 +46,7 @@ No operator of any private or public carrier that is under a duty to provide man
 
 #### (g) Penalties against noncomplying shipments, aircraft, or carriers
 
-If it shall appear to the satisfaction of the Attorney General that an appropriate official specified in subsection (d), any public or private carrier, or the agent of any transportation line, as the case may be, has refused or failed to provide manifest information required by subsection (a) or (b), or that the manifest information provided is not accurate and full based on information provided to the carrier, such official, carrier, or agent, as the case may be, shall pay to the Commissioner the sum of $1,000 for each person with respect to whom such accurate and full manifest information is not provided, or with respect to whom the manifest information is not prepared as prescribed by this section or by regulations issued pursuant thereto. No commercial vessel or aircraft shall be granted clearance pending determination of the question of the liability to the payment of such penalty, or while it remains unpaid, and no such penalty shall be remitted or refunded, except that clearance may be granted prior to the determination of such question upon the deposit with the Commissioner of a bond or undertaking approved by the Attorney General or a sum sufficient to cover such penalty.
+If it shall appear to the satisfaction of the Attorney General that an appropriate official specified in subsection (d), any public or private carrier, or the agent of any transportation line, as the case may be, has refused or failed to provide manifest information required by subsection (a) or (b), or that the manifest information provided is not accurate and full based on information provided to the carrier, such official, carrier, or agent, as the case may be, shall pay to the Commissioner the sum of $1,000 for each person with respect to whom such accurate and full manifest information is not provided, or with respect to whom the manifest information is not preparedas prescribed by this section or by regulations issued pursuant thereto. No commercial vessel or aircraft shall be granted clearance pending determination of the question of the liability to the payment of such penalty, or while it remains unpaid, and no such penalty shall be remitted or refunded, except that clearance may be granted prior to the determination of such question upon the deposit with the Commissioner of a bond or undertaking approved by the Attorney General or a sum sufficient to cover such penalty.
 
 #### (h) Waiver
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

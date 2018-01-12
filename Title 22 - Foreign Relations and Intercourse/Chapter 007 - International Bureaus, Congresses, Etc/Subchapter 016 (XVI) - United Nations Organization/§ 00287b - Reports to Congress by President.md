@@ -122,7 +122,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;&emsp;(iii) An estimate of the total cost to the United Nations of each such operation for the period covered by the resolution, and an estimate of the amount of that cost that will be assessed to the United States.
 
-&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091et seq.\]), and the estimated costs to the United States of such changes.
+&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\]), and the estimated costs to the United States of such changes.
 
 &emsp;&emsp;(B) With respect to each new United Nations peacekeeping operation that is anticipated to be authorized by a Security Council resolution during such month, the following information for the period covered by the resolution:
 
@@ -134,7 +134,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;&emsp;(iv) A description of any other United States assistance to or support for the operation (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\]), and an estimate of the cost to the United States of such assistance or support.
 
-&emsp;&emsp;&emsp;(v) A reprogramming of funds pursuant to section 2706 of this title, submitted in accordance with the procedures set forth in such section, describing the source of funds that will be used to pay for the cost of the new United Nations peacekeeping operation, provided that such notification shall also be submitted to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
+&emsp;&emsp;&emsp;(v) A reprogramming of funds pursuant to section 2706 of this title, submitted in accordance with the procedures set forth in such section, describing the source of funds that will be used to pay for the costof the new United Nations peacekeeping operation, provided that such notification shall also be submitted to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
 
 #### (3) Form and timing of information
 
@@ -190,7 +190,7 @@ In this section, the term "designated congressional committees" means the Commit
 
 Nothing in this section is intended to alter or supersede any notification requirement with respect to peacekeeping operations that is established under any other provision of law.
 
-(Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(1), (2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390; Pub. L. 114–323, title III, §306(a), Dec. 16, 2016, 130 Stat. 1920.)
+(Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108 Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(1), (2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390; Pub. L. 114–323, title III, §306(a), Dec. 16, 2016, 130 Stat. 1920.)
 
 #### References in Text
 
@@ -208,7 +208,7 @@ Subsec. (c)(1)(D). Pub. L. 114–323, §306(a)(2), amended subpar. (D) generally
 
 Subsec. (c)(1)(E). Pub. L. 114–323, §306(a)(3), added subpar. (E).
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees."
+<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text ofsuch resolution and any supporting documentation to the designated congressional committees."
 
 Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation."
 
@@ -250,5 +250,5 @@ Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that:
 
 #### Report on Policies Pursued by Other Countries in International Organizations
 
-Pub. L. 98–164, title I, §117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, §707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which UnitedStates was a member, prior to repeal by Pub. L. 103–236, title I, §139(27), Apr. 30, 1994, 108 Stat. 399.
+Pub. L. 98–164, title I, §117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, §707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by Pub. L. 103–236, title I, §139(27), Apr. 30, 1994, 108 Stat. 399.
 

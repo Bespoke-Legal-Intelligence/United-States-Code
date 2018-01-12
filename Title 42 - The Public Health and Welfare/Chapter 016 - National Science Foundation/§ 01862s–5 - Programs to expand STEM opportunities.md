@@ -68,7 +68,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (2) Report on evaluations
 
-&emsp;Not later than 180 days after the completion of the evaluation under paragraph (1), the Director of the Foundation shall submit to the appropriate committees of Congress and make widely available to the public a report that includes—
+&emsp;Not later than 180 days after the completion of the evaluation under paragraph (1), the Director of the Foundation shall submit to the appropriate committees of Congress and makewidely available to the public a report that includes—
 
 &emsp;&emsp;(A) the results of the evaluation; and
 

@@ -50,7 +50,7 @@ For purposes of this section, the term "total unstated interest" means, with res
 
 #### (3) Carrying charges
 
-&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the sale or exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
+&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the saleor exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
 
 #### (4) Certain sales of patents
 
@@ -162,7 +162,7 @@ Amendment by section 1901(b)(3)(B) of Pub. L. 94–455 effective for taxable yea
 
 #### Effective Date
 
-Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property afterJune 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
+Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property after June 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

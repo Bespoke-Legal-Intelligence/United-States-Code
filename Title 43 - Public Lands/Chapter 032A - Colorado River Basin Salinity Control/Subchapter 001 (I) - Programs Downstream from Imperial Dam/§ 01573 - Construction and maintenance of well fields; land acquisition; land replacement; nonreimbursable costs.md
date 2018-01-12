@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized to:
 
-&emsp;(1) Construct, operate, and maintain, consistent with Minute No. 242, well fields capable of furnishing approximately one hundred and sixty thousand acre-feet of water per year for use in the United States and for delivery to Mexico in satisfaction of the 1944 Mexican Water Treaty.
+&emsp;(1) Construct, operate, and maintain, consistent with Minute No. 242, well fields capableof furnishing approximately one hundred and sixty thousand acre-feet of water per year for use in the United States and for delivery to Mexico in satisfaction of the 1944 Mexican Water Treaty.
 
 &emsp;(2) Acquire by purchase, eminent domain, or exchange, to the extent determined by him to be appropriate, approximately twenty-three thousand five hundred acres of lands or interests therein with approximately five miles of the Mexican border on the Yuma Mesa: <i>Provided, however</i>, That any such lands which are presently owned by the State of Arizona may be acquired or exchanged for Federal lands.
 

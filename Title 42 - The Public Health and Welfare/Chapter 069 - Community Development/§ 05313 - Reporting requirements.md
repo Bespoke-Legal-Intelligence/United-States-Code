@@ -10,7 +10,7 @@
 
 &emsp;(4) a description of the activities carried out under section 5308 of this title.
 
-(b) The Secretary is authorized to require recipients of assistance under this chapter to submit to him such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a) of this section.
+(b) The Secretary is authorized to require recipients of assistance under this chapter to submit to him such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
 (Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12, 1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(l), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
 
@@ -40,7 +40,7 @@ Pub. L. 101–625, title IX, §919, Nov. 28, 1990, 104 Stat. 4401, directed Secr
 
 #### Study on Involuntary Housing Displacement; Report to Congress
 
-Pub. L. 96–399, title I, §105(b), Oct. 8, 1980, 94 Stat. 1618, directed Secretary of Housing and Urban Development to continue study on involuntary displacement conducted under Pub. L. 95–557, title IX, §902, Oct. 31, 1978, 92 Stat. 2125, set out below, and transmit, not later than Mar. 30, 1981, a report to Congress containing data collected since initial report submitted under such section 902, and further recommendations on minimizing involuntary displacement and alleviating problems caused by such displacement.
+Pub. L. 96–399, title I, §105(b), Oct. 8, 1980, 94 Stat. 1618, directed Secretary of Housing and Urban Development to continue study on involuntary displacement conducted under Pub. L. 95–557, title IX, §902, Oct. 31, 1978, 92 Stat. 2125, set out below, and transmit, not later than Mar. 30, 1981, a report to Congress containingdata collected since initial report submitted under such section 902, and further recommendations on minimizing involuntary displacement and alleviating problems caused by such displacement.
 
 #### Adequacy, Effectiveness, and Equity of Formula for Allocation of Funds; Report to Congress
 

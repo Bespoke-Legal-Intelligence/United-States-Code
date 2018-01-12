@@ -2,7 +2,7 @@
 
 #### (a) Secretary's responsibility
 
-The Secretary shall have overall management responsibility for carrying out programs underthis chapter. In carrying out such programs, the Secretary, consistent with such overall management responsibility—
+The Secretary shall have overall management responsibility for carrying out programs under this chapter. In carrying out such programs, the Secretary, consistent with such overall management responsibility—
 
 &emsp;(1) shall use the expertise of the National Aeronautics and Space Administration and the Department of Transportation; and
 

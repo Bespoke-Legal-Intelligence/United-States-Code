@@ -18,7 +18,7 @@ The Associate Administrator—
 
 #### (1) Establishment
 
-&emsp;Not later than 90 days after February 14, 2008, the President shall establish an interagency task force to coordinate the efforts ofFederal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the "task force").
+&emsp;Not later than 90 days after February 14, 2008, the President shall establish an interagency task force to coordinate the efforts of Federal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the "task force").
 
 #### (2) Membership
 
@@ -282,7 +282,7 @@ In general.—The Committee shall meet, not less than three times per year, at t
 
 &emsp;"(2)
 
-Location.—Each meeting of the full Committee shall be held at the headquarters of the Small Business Administration located in Washington, District of Columbia. The Administrator shall provide suitable meeting facilities and such administrative support as may be necessary for each full meeting of the Committee.
+Location.—Each meeting of the full Committee shall be held at the headquarters of the SmallBusiness Administration located in Washington, District of Columbia. The Administrator shall provide suitable meeting facilities and such administrative support as may be necessary for each full meeting of the Committee.
 
 &emsp;"(3)
 
@@ -366,7 +366,7 @@ Information on Federal Procurement Practices.—The Administrator of the Small B
 
 "(b)
 
-Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
+Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, theSecretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
 
 "(c)
 
@@ -440,9 +440,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

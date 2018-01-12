@@ -1,6 +1,6 @@
 ### §903. Reservation of State power to control municipalities
 
-This chapter does not limit or impair the power of a State to control, by legislation or otherwise, a municipality of or in such State in the exercise of the political or governmentalpowers of such municipality, including expenditures for such exercise, but—
+This chapter does not limit or impair the power of a State to control, by legislation or otherwise, a municipality of or in such State in the exercise of the political or governmental powers of such municipality, including expenditures for such exercise, but—
 
 &emsp;(1) a State law prescribing a method of composition of indebtedness of such municipality may not bind any creditor that does not consent to such composition; and
 
@@ -16,7 +16,7 @@ Section 903 of the House amendment represents a stylistic revision of section 90
 
 #### senate report no. 95–989
 
-Section 903 is derived, with stylistic changes, from section 83 of current Chapter IX \[section 403 of former title 11\]. It sets forth the primary authority of a State, through its constitution, laws, and other powers, over its municipalities. The proviso in section 83, prohibiting State composition procedures for municipalities, is retained. Deletion of the provision would "permit all States to enact their own versions of Chapter IX \[chapter 9 of former title 11\]", Municipal Insolvency, 50 Am.Bankr.L.J. 55, 65, which would frustrate the constitutional mandate of uniform bankruptcy laws. Constitution of the United States, Art. I, Sec. 8.
+Section 903 is derived, with stylistic changes, from section 83 of current Chapter IX \[section 403 of formertitle 11\]. It sets forth the primary authority of a State, through its constitution, laws, and other powers, over its municipalities. The proviso in section 83, prohibiting State composition procedures for municipalities, is retained. Deletion of the provision would "permit all States to enact their own versions of Chapter IX \[chapter 9 of former title 11\]", Municipal Insolvency, 50 Am.Bankr.L.J. 55, 65, which would frustrate the constitutional mandate of uniform bankruptcy laws. Constitution of the United States, Art. I, Sec. 8.
 
 This section provides that the municipality can consent to the court's orders in regard to use of its income or property. It is contemplated that such consent will be required by the court for the issuance of certificates of indebtedness under section 364(c). Such consent could extend to enforcement of the conditions attached to the certificates or the municipal services to be provided during the proceedings.
 

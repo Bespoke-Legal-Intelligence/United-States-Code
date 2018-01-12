@@ -1,6 +1,6 @@
 ### §2199. Stowaways on vessels or aircraft
 
-Whoever, without the consent of the owner, charterer, master, or person in command of any vessel, or aircraft, with intent to obtain transportation, boards, enters or secretes himselfaboard such vessel or aircraft and is thereon at the time of departure of said vessel or aircraft from a port, harbor, wharf, airport or other place within the jurisdiction of the United States; or
+Whoever, without the consent of the owner, charterer, master, or person in command of any vessel, or aircraft, with intent to obtain transportation, boards, enters or secretes himself aboard such vessel or aircraft and is thereon at the time of departure of said vessel or aircraft from a port, harbor, wharf, airport or other place within the jurisdiction of the United States; or
 
 Whoever, with like intent, having boarded, entered or secreted himself aboard a vessel or aircraft at any place within or without the jurisdiction of the United States, remains aboard after the vessel or aircraft has left such place and is thereon at any place within the jurisdiction of the United States; or
 

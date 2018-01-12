@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) identify Federal activities that may be needed for environmentally sound prevention and control of aquatic nuisance species and a description of the manner in which those activities should be coordinated with State and local government activities;
 
-&emsp;&emsp;(C) identify any authority that the State (or any State or Indian tribe involved in the interstate organization) does not have at the time of the development of the plan that may be necessary for the State (or any State or Indian tribe involved in the interstate organization) to protect public health, property, and the environment from harm by aquatic nuisance species; and
+&emsp;&emsp;(C) identify any authority that the State (or any State or Indian tribe involved in the interstate organization) does not have at thetime of the development of the plan that may be necessary for the State (or any State or Indian tribe involved in the interstate organization) to protect public health, property, and the environment from harm by aquatic nuisance species; and
 
 &emsp;&emsp;(D) a schedule of implementing the plan, including a schedule of annual objectives, and enabling legislation.
 

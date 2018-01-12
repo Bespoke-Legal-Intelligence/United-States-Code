@@ -252,7 +252,7 @@ Failure to correct.—If the Secretary determines that a modification by an elig
 
 &emsp;&emsp;&emsp;&emsp;(II) withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title, until the State safety oversight program has been certified; or
 
-&emsp;&emsp;&emsp;&emsp;(III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only forsafety-related improvements on such systems, until the State safety oversight program has been certified.
+&emsp;&emsp;&emsp;&emsp;(III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only for safety-related improvements on such systems, until the State safety oversight program has been certified.
 
 &emsp;(8)
 

@@ -82,7 +82,7 @@ Removal.—Advisory Committee members shall serve at the discretion of the Secre
 
 &emsp;(6)
 
-Chairperson.—The Chairperson of the Advisory Committee shall be appointed for aterm of 1 year by the Secretary from among the members of the Advisory Committee.
+Chairperson.—The Chairperson of the Advisory Committee shall be appointed for a term of 1 year by the Secretary from among the members of the Advisory Committee.
 
 &emsp;(7)
 

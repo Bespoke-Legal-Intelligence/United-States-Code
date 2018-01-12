@@ -1,0 +1,6 @@
+### §10507. Transferred
+
+#### Codification
+
+Section 10507 was editorially reclassified as section 50107 of Title 34, Crime Control and Law Enforcement.
+

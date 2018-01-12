@@ -1,6 +1,6 @@
 ### §7113. Relationship with States
 
-Whenever any proposed action by the Department conflicts with the energy plan of any State, the Department shall give due consideration to the needs of such State, and where practicable, shall attempt to resolve such conflict through consultations with appropriate State officials. Nothing in this chapter shall affect the authority of any State over matters exclusively within its jurisdiction.
+Whenever any proposed action by the Department conflicts with the energy plan of any State, the Department shall give due consideration to the needs of such State, and where practicable, shall attempt to resolve such conflict through consultations with appropriate State officials. Nothing in this chapter shall affect theauthority of any State over matters exclusively within its jurisdiction.
 
 (Pub. L. 95–91, title I, §103, Aug. 4, 1977, 91 Stat. 569.)
 

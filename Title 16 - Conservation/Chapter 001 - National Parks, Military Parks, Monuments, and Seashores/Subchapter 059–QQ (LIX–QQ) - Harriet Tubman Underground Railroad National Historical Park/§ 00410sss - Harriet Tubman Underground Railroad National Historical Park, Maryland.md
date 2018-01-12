@@ -116,7 +116,7 @@ In this section:
 
 #### (ii) Form of non-Federal share
 
-&emsp;&emsp;&emsp;The non-Federal share of the cost of carrying out an activity under this paragraphmay be in the form of in-kind contributions or goods or services fairly valued.
+&emsp;&emsp;&emsp;The non-Federal share of the cost of carrying out an activity under this paragraph may be in the form of in-kind contributions or goods or services fairly valued.
 
 #### (d) General management plan
 

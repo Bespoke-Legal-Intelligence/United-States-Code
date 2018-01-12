@@ -60,7 +60,7 @@ For purposes of this section and section 8737 of this title, the Secretary shall
 
 &emsp;&emsp;&emsp;(ii) the average costs to market the commodity, including average transportation costs, as determined by the Secretary; and
 
-&emsp;&emsp;(B) may be further adjusted, during the period beginning on the date of enactment of this Act and ending on July 31, 2013, if the Secretary determines the adjustment is necessary to—
+&emsp;&emsp;(B) may be further adjusted, during the period beginning on the date of enactment ofthis Act and ending on July 31, 2013, if the Secretary determines the adjustment is necessary to—
 
 &emsp;&emsp;&emsp;(i) minimize potential loan forfeitures;
 

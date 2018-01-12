@@ -18,7 +18,7 @@
 
 &emsp;(4) in the case of a finding of material fact adverse to the claimant made in reaching a decision in a case before the Department with respect to benefits under laws administered by the Secretary, hold unlawful and set aside or reverse such finding if the finding is clearly erroneous.
 
-(b) In making the determinations under subsection (a), the Court shall review the record of proceedings before the Secretary and the Board of Veterans' Appeals pursuant to section 7252(b) of this title and shall—
+(b) In making the determinations under subsection (a), the Court shall review the record ofproceedings before the Secretary and the Board of Veterans' Appeals pursuant to section 7252(b) of this title and shall—
 
 &emsp;(1) take due account of the Secretary's application of section 5107(b) of this title; and
 

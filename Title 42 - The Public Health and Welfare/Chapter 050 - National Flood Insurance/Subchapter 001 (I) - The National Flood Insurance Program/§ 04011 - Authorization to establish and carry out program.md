@@ -6,7 +6,7 @@ To carry out the purposes of this chapter, the Administrator of the Federal Emer
 
 #### (b) Additional coverage for compliance with land use and control measures
 
-The national flood insurance program established pursuant to subsection (a) of this section shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
+The national flood insurance program established pursuant to subsection (a) shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
 
 &emsp;(1) properties that are repetitive loss structures;
 
@@ -73,6 +73,10 @@ Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretar
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

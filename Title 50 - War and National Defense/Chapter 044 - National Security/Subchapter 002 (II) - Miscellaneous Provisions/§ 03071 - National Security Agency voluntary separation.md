@@ -94,7 +94,7 @@ In addition to any other payment that is required to be made under subchapter II
 
 #### References in Text
 
-Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (k), is section 4(a) of Pub. L. 103–226, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
+Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (k), is section 4(a) ofPub. L. 103–226, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Codification
 

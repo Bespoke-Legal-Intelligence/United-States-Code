@@ -12,7 +12,7 @@ Indian tribes participating in self-governance under this subchapter shall ensur
 
 #### (1) Single Agency Audit Act
 
-&emsp;The provisions of chapter 75 of title 31 requiring a single agency audit report shallapply to funding agreements under this subchapter.
+&emsp;The provisions of chapter 75 of title 31 requiring a single agency audit report shall apply to funding agreements under this subchapter.
 
 #### (2) Cost principles
 

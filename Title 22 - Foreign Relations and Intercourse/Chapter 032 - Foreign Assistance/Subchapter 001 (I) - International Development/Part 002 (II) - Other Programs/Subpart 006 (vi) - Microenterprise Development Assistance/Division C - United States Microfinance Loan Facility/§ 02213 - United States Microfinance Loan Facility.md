@@ -34,7 +34,7 @@ The Administrator is authorized to establish a United States Microfinance Loan F
 
 #### (A) Default provision
 
-&emsp;&emsp;The provisions of section 2370(q) of this title, or any comparable provision of law, shall not be construed to prohibit assistance to a country in the event that a private sector recipient of assistance furnished under this section is in default in its payment to the United States for the period specified in such section.
+&emsp;&emsp;The provisions of section 2370(q) of this title, or any comparable provision of law,shall not be construed to prohibit assistance to a country in the event that a private sector recipient of assistance furnished under this section is in default in its payment to the United States for the period specified in such section.
 
 #### (B) Procurement provision
 

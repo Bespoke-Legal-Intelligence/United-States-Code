@@ -16,7 +16,7 @@ The Secretary shall reserve for the purpose of subsection (a) from amounts that 
 
 #### (c) Awards
 
-The sums reserved by the Secretary on the basis of a determination made under subsection\(a) shall be made available by grant to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
+The sums reserved by the Secretary on the basis of a determination made under subsection (a) shall be made available by grant to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
 #### (d) Plan
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (1) Indian tribe; tribal organization
 
-&emsp;The terms "Indian tribe" and "tribal organization" mean a tribe, band, or other organized group recognized in the State in which the tribe, band, or group resides, or considered by the Secretary of the Interior, to be an Indian tribe or an Indian organization for any purpose.
+&emsp;The terms "Indian tribe" and "tribal organization" mean a tribe, band, or other organized group recognized in the State in which the tribe, band, or group resides, or considered bythe Secretary of the Interior, to be an Indian tribe or an Indian organization for any purpose.
 
 #### (2) Indian
 

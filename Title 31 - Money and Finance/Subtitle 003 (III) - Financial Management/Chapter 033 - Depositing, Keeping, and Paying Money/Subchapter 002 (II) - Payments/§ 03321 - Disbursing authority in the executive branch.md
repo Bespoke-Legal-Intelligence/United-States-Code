@@ -66,6 +66,106 @@ Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–355 substituted "The Department of Defense" for "military departments of the Department of Defense".
 
+#### Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards
+
+Pub. L. 115–91, div. A, title XVIII, Dec. 12, 2017, 131 Stat. 1814, provided that:
+
+#### "SEC. 1801. SHORT TITLE.
+
+"This title may be cited as the 'Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017'.
+
+#### "SEC. 1802. DEFINITIONS.
+
+"In this title:
+
+&emsp;"(1)
+
+Improper payment.—The term 'improper payment' has the meaning given the term in section 2 of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note).
+
+&emsp;"(2)
+
+Questionable transaction.—The term 'questionable transaction' means a charge card transaction that from initial card data appears to be high risk and may therefore be improper due to non-compliance with applicable law, regulation or policy.
+
+&emsp;"(3)
+
+Strategic sourcing.—The term 'strategic sourcing' means analyzing and modifying a Federal agency's spending patterns to better leverage its purchasing power, reduce costs, and improve overall performance.
+
+#### "SEC. 1803. EXPANDED USE OF DATA ANALYTICS.
+
+"(a)
+
+Strategy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Director of the Office of Management and Budget, in consultation with the Administrator for General Services, shall develop a strategy to expand the use of data analytics in managing government purchase and travel charge card programs. These analytics may employ existing General Services Administration capabilities, and may be in conjunction with agencies' capabilities, for the purpose of—
+
+&emsp;"(1) identifying examples or patterns of questionable transactions and developing enhanced tools and methods for agency use in—
+
+&emsp;&emsp;"(A) identifying questionable purchase and travel card transactions; and
+
+&emsp;&emsp;"(B) recovering improper payments made with purchase and travel cards;
+
+&emsp;"(2) identifying potential opportunities for agencies to further leverage administrative process streamlining and cost reduction from purchase and travel card use, including additional agency opportunities for card-based strategic sourcing;
+
+&emsp;"(3) developing a set of purchase and travel card metrics and benchmarks for high-risk activities, which shall assist agencies in identifying potential emphasis areas for their purchase and travel card management and oversight activities, including those required by the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) \[see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\]; and
+
+&emsp;"(4) developing a plan, which may be based on existing capabilities, to create a library of analytics tools and data sources for use by Federal agencies (including inspectors general of those agencies).
+
+#### "SEC. 1804. GUIDANCE ON IMPROVING INFORMATION SHARING TO CURB IMPROPER PAYMENTS.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the interagency charge card data management group established under section 1805, shall issue guidance on improving information sharing by government agencies for the purposes of section 1803(a)(1).
+
+"(b)
+
+Elements.—The guidance issued under subsection (a) shall—
+
+&emsp;"(1) require relevant officials at Federal agencies to identify high-risk activities and communicate that information to the appropriate management levels within the agencies;
+
+&emsp;"(2) require that appropriate officials at Federal agencies review the reports issued by charge card-issuing banks on questionable transaction activity (such as purchase and travel card pre-suspension and suspension reports, delinquency reports, and exception reports), including transactions that occur with high-risk activities, and suspicious timing or amounts of cash withdrawals or advances;
+
+&emsp;"(3) provide for the appropriate sharing of information related to potential questionable transactions, fraud schemes, and high-risk activities with the General Services Administration and the appropriate officials in Federal agencies;
+
+&emsp;"(4) consider the recommendations made by Inspectors General or the best practices Inspectors General have identified; and
+
+&emsp;"(5) include other requirements determined appropriate by the Director for the purposes of carrying out this title.
+
+#### "SEC. 1805. INTERAGENCY CHARGE CARD DATA MANAGEMENT GROUP.
+
+"(a)
+
+Establishment.—The Administrator of General Services and the Director of the Office of Management and Budget shall establish a purchase and travel charge card data management group to develop and share best practices for the purposes described in section 1803(a).
+
+"(b)
+
+Elements.—The best practices developed under subsection (a) shall—
+
+&emsp;"(1) cover rules, edits, and task order or contract modifications related to charge card-issuing banks;
+
+&emsp;"(2) include the review of accounts payable information and purchase and travel card transaction data of agencies for the purpose of identifying potential strategic sourcing and other additional opportunities (such as recurring payments, utility payments, and grant payments) for which the charge cards or related payment products could be used as a payment method; and
+
+&emsp;"(3) include other best practices as determined by the Administrator and Director.
+
+"(c)
+
+Membership.—The purchase and travel charge card data management group shall meet regularly as determined by the co-chairs, for a duration of three years, and include those agencies as described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194) \[enacting section 1909 of Title 41, Public Contracts and provisions set out as a note under section 1909 of Title 41 and amending section 2784 of Title 10, Armed Forces\] and others identified by the Administrator and Director.
+
+#### "SEC. 1806. REPORTING REQUIREMENTS.
+
+"(a)
+
+General Services Administration Report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the implementation of this title, including the metrics used in determining whether the analytic and benchmarking efforts have reduced, or contributed to the reduction of, questionable transactions or improper payments as well as improved utilization of card-based payment products.
+
+"(b)
+
+Agency Reports and Consolidated Report to Congress.—Not later than one year after the date of the enactment of this Act, the head of each Federal agency described in section 2 of the Government Charge Card Abuse Prevention Act of 2012 (Public Law 112–194)shall submit a report to the Director of the Office of Management and Budget on that agency's activities to implement this title.
+
+"(c)
+
+Office of Management and Budget Report to Congress.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a consolidated report of agency activities to implement this title, which may be included as part of another report submitted by the Director to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+
+"(d)
+
+Report on Additional Savings Opportunities.—Not later than one year after the date of the enactment of this Act, the Administrator of General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report identifying and exploring further potential savings opportunities for government agencies under the Federal charge card programs. This report may be combined with the report required under subsection (a)."
+
 #### Fraud Reduction and Data Analytics
 
 Pub. L. 114–186, June 30, 2016, 130 Stat. 546, provided that:
@@ -180,7 +280,7 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 &emsp;"(1) the term 'agency' means an executive agency as that term is defined under section 102 of title 31, United States Code;
 
-&emsp;"(2) the term 'improper payment' has the meaning given that term in section 2(g) of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31U.S.C. 3321 note), as redesignated by section 3(a)(1) of this Act; and
+&emsp;"(2) the term 'improper payment' has the meaning given that term in section 2(g) of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note), as redesignated by section 3(a)(1) of this Act; and
 
 &emsp;"(3) the term 'State' means each State of the United States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
 
@@ -414,7 +514,7 @@ Plan To Curb Federal Improper Payments to Deceased Individuals by Improving the 
 
 &emsp;"(1)
 
-Establishment.—In conjunction with the Commissioner of Social Security and in consultation with relevant stakeholders that have an interest in or responsibility for providing the data, and the States, the Director of the Office of Management and Budget shall establish a plan for improving the quality, accuracy, and timeliness of death data maintained by theSocial Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act (42 U.S.C. 405(r)).
+Establishment.—In conjunction with the Commissioner of Social Security and in consultation withrelevant stakeholders that have an interest in or responsibility for providing the data, and the States, the Director of the Office of Management and Budget shall establish a plan for improving the quality, accuracy, and timeliness of death data maintained by the Social Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act (42 U.S.C. 405(r)).
 
 &emsp;"(2)
 
@@ -764,7 +864,7 @@ Report.—Not later than 5 years after the date of enactment of this Act \[July 
 
 "(e)
 
-Report on Chief Financial Officers Act of 1990.—Not later than 1 year after the date of the enactment of this Act \[July 22, 2010\], the Chief Financial Officers Council established under section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C.901 note) and the Council of Inspectors General on Integrity and Efficiency established under section 7 of the Inspector General Reform Act of 2009 \[2008\] (Public Law 110–409) \[see section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], in consultation with a broad cross-section of experts and stakeholders in Government accounting and financial management shall—
+Report on Chief Financial Officers Act of 1990.—Not later than 1 year after the date of the enactment of this Act \[July 22, 2010\], the Chief Financial Officers Council established under section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C. 901 note) and the Council of Inspectors General on Integrity and Efficiency established under section 7 of the Inspector General Reform Act of 2009 \[2008\] (Public Law 110–409) \[see section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], in consultation with a broad cross-section of experts and stakeholders in Government accounting and financial management shall—
 
 &emsp;"(1) jointly examine the lessons learned during the first 20 years of implementing the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C. 901) \[see Short Title of 1990 Amendment note set out under section 501 of this title\] and identify reforms or improvements, if any, to the legislative and regulatory compliance framework for Federal financial management that will optimize Federal agency efforts to—
 
@@ -1006,7 +1106,7 @@ Guidance by the Office of Management and Budget.—
 
 &emsp;"(1)
 
-In general.—Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 \[July 22, 2010\], the Director of the Office of Management and Budget shall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
+In general.—Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 \[July 22, 2010\], the Director of the Office of Management and Budgetshall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
 
 &emsp;"(2)
 
@@ -1066,9 +1166,9 @@ Sec. 3. <i>Agency Accountability and Coordination</i>.
 
 &emsp;(iii) the agency's plan, together with supporting analysis, for ensuring that initiatives undertaken pursuant to this order do not unduly burden program access and participation by eligible beneficiaries.
 
-Following the receipt and review of this information, the agency Inspector General shall assess the level of risk associated with the applicable programs, determine the extent of oversight warranted, and provide the agency head with recommendations, if any, for modifying the agency's methodology, improper payment reduction plans, or program access and participation plans.
+Following the receipt and review of this information, the agency Inspector General shall assess the level of risk associated with the applicable programs, determine the extent of oversight warranted, and provide the agency head with recommendations, if any, formodifying the agency's methodology, improper payment reduction plans, or program access and participation plans.
 
-(c) If an agency fails to meet the targets established under section 2 of this order or implement the plan described in subsection (b)(iii) of this section for 2 consecutive years, that agency's accountable official designated under subsection (a) of this section shall submit to the agency head, Inspector General, and ChiefFinancial Officer a report describing the likely causes of the agency's failure and proposing a remedial plan. The agency head shall review this plan and, in consultation with the Inspector General and Chief Financial Officer, forward the plan with any additional comments and analysis to the Director of OMB.
+(c) If an agency fails to meet the targets established under section 2 of this order or implement the plan described in subsection (b)(iii) of this section for 2 consecutive years, that agency's accountable official designated under subsection (a) of this section shall submit to the agency head, Inspector General, and Chief Financial Officer a report describing the likely causes of the agency's failure and proposing a remedial plan. The agency head shall review this plan and, in consultation with the Inspector General and Chief Financial Officer, forward the plan with any additional comments and analysis to the Director of OMB.
 
 (d) Within 180 days of the date of this order, the Chief Financial Officers Council (CFOC) in consultation with the CIGIE, the Department of Justice, and program experts, shall make recommendations to the Director of OMB and the Secretary of the Treasury on actions (including actions related to forensic accounting and audits) agencies should take to more effectively tailor their methodologies for identifying and measuring improper payments to those programs, or components of programs, where improper payments are most likely to occur. Recommendations shall address the manner in which the recommended actions would affect program access and participation by eligible beneficiaries.
 
@@ -1106,7 +1206,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13681, Oct. 17, 2014, 79 F.R. 63491, provided:
 
-Given that identity crimes, including credit, debit, and other payment card fraud, continue to be a risk to U.S. economic activity, and given the economic consequences of data breaches, the United States must take further action to enhance the security of data in the financial marketplace. While the U.S. Government's credit, debit, and other payment card programs already include protections against fraud, the Government must further strengthen the security of consumer data and encourage the adoption of enhanced safeguards nationwide in a manner that protects privacy and confidentiality while maintaining an efficient and innovative financial system.
+Given that identity crimes, including credit, debit, and other payment card fraud, continue to be a risk to U.S. economic activity, and given the economic consequences of data breaches, the United States must take further action to enhance the security of data in the financial marketplace. While the U.S. Government's credit, debit, and other payment card programs already include protections against fraud, the Government must further strengthen the security of consumer dataand encourage the adoption of enhanced safeguards nationwide in a manner that protects privacy and confidentiality while maintaining an efficient and innovative financial system.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the security of consumer financial transactions in both the private and public sectors, it is hereby ordered as follows:
 
@@ -1154,7 +1254,7 @@ My Administration is committed to reducing payment errors and eliminating waste,
 
 Today, to further intensify efforts to reclaim improper payments, my Administration is expanding the use of "Payment Recapture Audits," which have proven to be effective mechanisms for detecting and recapturing payment errors. A Payment Recapture Audit is a process of identifying improper payments paid to contractors or other entities whereby highly skilled accounting specialists and fraud examiners use state-of-the-art tools and technology to examine payment records and uncover such problems as duplicate payments, payments for services not rendered, overpayments, and fictitious vendors. (A Payment Recapture Audit as used in this memorandum shall have the same meaning as the term "recovery audit" as defined in Appendix C to Office of Management and Budget Circular A-123.) One approach that has worked effectively is using professional and specialized auditors on a contingency basis, with their compensation tied to the identification of misspent funds.
 
-Therefore, I hereby direct executive departments and agencies to expand their use of Payment Recapture Audits, to the extent permitted by law and where cost-effective. The Director of the Office of Management and Budget (OMB) shall develop guidance within 90 days of the date of this memorandum on actions executive departments and agencies must take to carry out the requirements of this memorandum. The guidance may require additional actions and strategies designed to improve the recapture of improper payments, including, as appropriate, agency-specific targets for increasingrecoveries. The Director of the OMB shall further coordinate with the Council for Inspectors General on Integrity and Efficiency to identify an appropriate process for obtaining review by Inspectors General of the effectiveness of agency efforts under this memorandum. The agencies' expanded use of Payment Recapture Audits does not preclude Offices of Inspectors General from performing any activities to identify and prevent improper payments.
+Therefore, I hereby direct executive departments and agencies to expand their use of Payment Recapture Audits, to the extent permitted by law and where cost-effective. The Director of the Office of Management and Budget (OMB) shall develop guidance within 90 days of the date of this memorandum on actions executive departments and agencies must take to carry out the requirements of this memorandum. The guidance may require additional actions and strategies designed to improve the recapture of improper payments, including, as appropriate, agency-specific targets for increasing recoveries. The Director of the OMB shall further coordinate with the Council for Inspectors General on Integrity and Efficiency to identify an appropriate process for obtaining review by Inspectors General of the effectiveness of agency efforts under this memorandum. The agencies' expanded use of Payment Recapture Audits does not preclude Offices of Inspectors General from performing any activities to identify and prevent improper payments.
 
 Nothing in this memorandum shall be construed to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interests of national security.
 

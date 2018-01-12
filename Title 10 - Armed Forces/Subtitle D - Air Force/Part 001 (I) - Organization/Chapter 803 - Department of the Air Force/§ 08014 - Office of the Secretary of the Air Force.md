@@ -46,7 +46,7 @@
 
 (2) The Secretary of the Air Force may assign to the Air Staff responsibility for those aspects of the function of research and development that relate to military requirements and test and evaluation.
 
-(3) The Secretary shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct the function specified in paragraph (1).
+(3) The Secretary shall establish or designate a single office or other entity within the Officeof the Secretary of the Air Force to conduct the function specified in paragraph (1).
 
 (4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Air Force and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 

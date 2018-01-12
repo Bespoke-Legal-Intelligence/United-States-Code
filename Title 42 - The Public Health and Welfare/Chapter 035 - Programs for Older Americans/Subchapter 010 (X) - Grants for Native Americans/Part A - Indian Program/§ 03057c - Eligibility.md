@@ -10,7 +10,7 @@ A tribal organization of an Indian tribe is eligible for assistance under this p
 
 #### (b) Limitation
 
-An Indian tribe represented by an organization specified in subsection (a) of this section shall be eligible for only one grant under this part forany fiscal year. Nothing in this subsection shall preclude an Indian tribe represented by an organization specified in subsection (a) of this section from receiving a grant under section 3057k–11 of this title.
+An Indian tribe represented by an organization specified in subsection (a) shall be eligible for only one grant under this part for any fiscal year. Nothing in this subsection shall preclude an Indian tribe represented by an organization specified in subsection (a) from receiving a grant under section 3057k–11 of this title.
 
 #### (c) "Indian tribe" and "tribal organization" defined
 
@@ -25,4 +25,8 @@ A prior section 3057c, Pub. L. 89–73, title VI, §604, as added Pub. L. 95–4
 #### Amendments
 
 <b>2000</b>—Subsecs. (b), (c). Pub. L. 106–501 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

@@ -1,0 +1,6 @@
+### §3796hh–1. Transferred
+
+#### Codification
+
+Section 3796hh–1 was editorially reclassified as section 10462 of Title 34, Crime Control and Law Enforcement.
+

@@ -2,15 +2,21 @@
 
 (a) All questions in a matter which under section 511(a) of this title is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary. Final decisions on such appeals shall be made by the Board. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.
 
-(b) Except as provided in section 5108 of this title, when a claim is disallowed by the Board, the claim may not thereafter be reopened and allowed and a claim based upon the same factual basis may not be considered.
+(b) Except as provided in section 5108 of this title, when a claim is disallowed by the Board, the claim may not thereafter be readjudicated and allowed and a claim based upon the same factual basis may not be considered.
 
 (c) The Board shall be bound in its decisions by the regulations of the Department, instructions of the Secretary, and the precedent opinions of the chief legal officer of the Department.
 
 (d) Each decision of the Board shall include—
 
-&emsp;(1) a written statement of the Board's findings and conclusions, and the reasons or bases for those findings and conclusions, on all material issues of fact and law presented on the record; and
+&emsp;(1) a written statement of the Board's findings and conclusions, and the reasons or bases for those findings and conclusions, on all material issues of fact and law presented on the record;
 
-&emsp;(2) an order granting appropriate relief or denying relief.
+&emsp;(2) a general statement—
+
+&emsp;&emsp;(A) reflecting whether evidence was not considered in making the decision because the evidence was received at a time when not permitted under section 7113 of this title; and
+
+&emsp;&emsp;(B) noting such options as may be available for having the evidence considered by the Department; and
+
+&emsp;(3) an order granting appropriate relief or denying relief.
 
 (e)(1) After reaching a decision on a case, the Board shall promptly mail a copy of its written decision to the claimant at the last known address of the claimant.
 
@@ -20,9 +26,17 @@
 
 &emsp;(B) send a copy of its written decision to the authorized representative by any means reasonably likely to provide the authorized representative with a copy of the decision within the same time a copy would be expected to reach the authorized representative if sent by first-class mail.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4004; Pub. L. 87–97, §1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, §101(b), title II, §§203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered §7104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, §509, Oct. 9, 1996, 110 Stat. 3344.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4004; Pub. L. 87–97, §1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, §101(b), title II, §§203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered §7104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, §509, Oct. 9, 1996, 110 Stat. 3344; Pub. L. 115–55, §2(p), (w)(2), Aug. 23, 2017, 131 Stat. 1111, 1114.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2(p), (w)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–55, §2(p), substituted "readjudicated" for "reopened".
+
+Subsec. (d)(2), (3). Pub. L. 115–55, §2(w)(2), added par. (2) and redesignated former par. (2) as (3).
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any)."
 
@@ -53,6 +67,10 @@ Subsec. (b). Pub. L. 100–687, §204, amended subsec. (b) generally. Prior to a
 Subsecs. (d), (e). Pub. L. 100–687, §205, added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: "The decisions of the Board shall be in writing and shall contain findings of fact and conclusions of law separately stated."
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–97 added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

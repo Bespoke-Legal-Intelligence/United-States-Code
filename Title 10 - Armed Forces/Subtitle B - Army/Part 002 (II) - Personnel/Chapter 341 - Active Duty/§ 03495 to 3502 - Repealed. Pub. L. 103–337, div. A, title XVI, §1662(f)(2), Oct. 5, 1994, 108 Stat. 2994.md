@@ -6,7 +6,7 @@ Section 3496, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, authorized President t
 
 Section 3497, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, provided that members of Army National Guard of United States ordered to active duty were to be ordered to duty as Reserves of Army. See section 12403 of this title.
 
-Section 3498, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to organization during initial mobilization of units of Army National Guard of United States ordered into active Federal service. See section 12404 of this title.
+Section 3498, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to organization during initial mobilization of units of Army National Guard of United States orderedinto active Federal service. See section 12404 of this title.
 
 Section 3499, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to application of laws governing Army to members of Army National Guard called into Federal service. See section 12405 of this title.
 

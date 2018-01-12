@@ -102,7 +102,7 @@ Grants Authorized.—
 
 &emsp;"(1)
 
-In general.—From amounts made available under subsection (k), the Secretary, jointly with the Secretary of Education, shall award grants to States to enable the States to carry out the activities described in subsection (f).
+In general.—From amounts made available under subsection (k), the Secretary, jointly with theSecretary of Education, shall award grants to States to enable the States to carry out the activities described in subsection (f).
 
 &emsp;"(2)
 
@@ -276,7 +276,7 @@ Initial grants.—A State that receives an initial grant under subsection (c)(1)
 
 &emsp;&emsp;"(A) how, and to what extent, the grant funds were utilized for activities described in subsection (f), and any other activities through which funds were used to meet the purposes of this section, as described in subsection (a);
 
-&emsp;&emsp;"(B) strategies undertaken at the State level and, if applicable, local or program level, to implementrecommendations in the strategic plan developed under subsection (f)(2);
+&emsp;&emsp;"(B) strategies undertaken at the State level and, if applicable, local or program level, to implement recommendations in the strategic plan developed under subsection (f)(2);
 
 &emsp;&emsp;"(C)(i) any new partnerships among Head Start providers, State and local governments, Indian tribes and tribal organizations, and private entities (including faith- and community-based entities); and
 
@@ -292,7 +292,7 @@ Initial grants.—A State that receives an initial grant under subsection (c)(1)
 
 &emsp;"(2)
 
-Renewal grants.—A State receiving a renewal grant under subsection (g) shall submit a follow-up report to the Secretary not later than 6 months after the end of the grant period that includes—
+Renewal grants.—A State receiving a renewal grant under subsection (g) shall submit a follow-upreport to the Secretary not later than 6 months after the end of the grant period that includes—
 
 &emsp;&emsp;"(A) information described in subparagraphs (A) through (G) of paragraph (1), as applicable and updated for the period covered by the renewal grant; and
 

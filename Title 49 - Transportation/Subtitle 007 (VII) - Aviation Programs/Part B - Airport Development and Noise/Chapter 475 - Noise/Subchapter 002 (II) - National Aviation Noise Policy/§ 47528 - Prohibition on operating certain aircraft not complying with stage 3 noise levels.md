@@ -120,7 +120,7 @@ Nov. 5, 1990, Pub. L. 101–508, 104 Stat. 1388–382, §9308(i); added Oct. 28,
 
 In subsection (e), the words "the State of" are omitted as surplus. The words "place" and "places" are substituted for "point" and "points" for consistency in title the revised title.
 
-In subsection (e)(1), the words "the operation of" are omitted as surplus. The words "places only in Hawaii"are substituted for "two or more points, all of which are within the State of Hawaii" to eliminate unnecessary words.
+In subsection (e)(1), the words "the operation of" are omitted as surplus. The words "places only in Hawaii" are substituted for "two or more points, all of which are within the State of Hawaii" to eliminate unnecessary words.
 
 #### References in Text
 

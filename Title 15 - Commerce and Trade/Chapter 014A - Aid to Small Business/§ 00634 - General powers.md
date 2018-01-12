@@ -10,7 +10,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(1) sue and be sued in any court of record of a State having general jurisdiction, or in any United States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Administrator or his property;
 
-&emsp;(2) under regulations prescribed by him, assign or sell at public or private sale, or otherwise dispose of for cash or credit, in his discretion and upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any evidenceof debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of loans granted under this chapter, and to collect or compromise all obligations assigned to or held by him and all legal or equitable rights accruing to him in connection with the payment of such loans until such time as such obligations may be referred to the Attorney General for suit or collection;
+&emsp;(2) under regulations prescribed by him, assign or sell at public or private sale, or otherwise dispose of for cash or credit, in his discretion and upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of loans granted under this chapter, and to collect or compromise all obligations assigned to or held by him and all legal or equitable rights accruing to him in connection with the payment of such loans until such time as such obligations may be referred to the Attorney General for suit or collection;
 
 &emsp;(3) deal with, complete, renovate, improve, modernize, insure, or rent, or sell for cash or credit upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any real property conveyed to or otherwise acquired by him in connection with the payment of loans granted under this chapter;
 
@@ -74,7 +74,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(iii) by a combination of the payments described in clause (i) and clause (ii).
 
-(B) In addition to requiring the small business concern to execute the agreement described insubparagraph (A), the Administration shall, prior to the undertaking or suspension of the obligation, take such action, and require the small business concern to take such action as the Administration deems appropriate in the circumstances, including the provision of such security as the Administration deems necessary or appropriate to insure that the rights and interests of the lender (Small Business Administration or participant) will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
+(B) In addition to requiring the small business concern to execute the agreement described in subparagraph (A), the Administration shall, prior to the undertaking or suspension of the obligation, take such action, and require the small business concern to take such action as the Administration deems appropriate in the circumstances, including the provision of such security as the Administration deems necessary or appropriate to insure that the rights and interests of the lender (Small Business Administration or participant) will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
 (5) The term "required payments" with respect to any loan means payments of principal and interest under the loan.
 
@@ -112,7 +112,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (B) No State or local law, and no Federal law, shall preclude or limit the exercise by the Administration of its ownership rights in the portions of loans constituting the trust or pool against which the trust certificates are issued.
 
-(6) If the amount of the guaranteed portion of any loan under section 636(a) of this title is more than $500,000, the Administrator shall, upon request of a pool assembler, divide the loan guarantee into increments of $500,000 and 1 increment of any remaining amount less than $500,000, in order to permit the maximum amount of any loan in a pool to be not more than $500,000. Only 1 increment of any loan guarantee divided under this paragraph may be included in the same pool. Increments of loan guarantees to different borrowers that are divided under this paragraph may be included in the same pool.
+(6) If the amount of the guaranteed portion of any loan under section 636(a) of this title is more than $500,000, the Administrator shall, upon request of a pool assembler, divide the loan guarantee into increments of $500,000 and 1 increment of any remaining amount less than $500,000, in order to permit the maximumamount of any loan in a pool to be not more than $500,000. Only 1 increment of any loan guarantee divided under this paragraph may be included in the same pool. Increments of loan guarantees to different borrowers that are divided under this paragraph may be included in the same pool.
 
 #### (h) Central registration of loans and trust certificates; contracts with agent; disclosures by sellers of guaranteed portions of loans; regulation of brokers and dealers; electronic registration
 
@@ -300,7 +300,7 @@ Pub. L. 104–36, §8, Oct. 12, 1995, 109 Stat. 297, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan madeor guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
+In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
 
 "(b)
 
@@ -352,7 +352,7 @@ Pub. L. 102–366, title II, §226, Sept. 4, 1992, 106 Stat. 1001, provided that
 
 #### Small Business Loan Secondary Market Study
 
-Pub. L. 102–366, title III, §311, Sept. 4, 1992, 106 Stat. 1005, directed Secretary of the Treasury, Director of Congressional Budget Office, and Chairman of Securities and Exchange Commission, in consultation with Administrator of Small Business Administration, to conduct a study of potential benefits of, and legal, regulatory, and market-based barriers to, developing a secondary market for loans to small businesses, specified considerations to be included in the study, and required that, not later than 1 year after Sept. 4, 1992, a report be submitted to Congress on results of the study, including recommendations for legislation to facilitatedevelopment of a secondary market for loans to small businesses.
+Pub. L. 102–366, title III, §311, Sept. 4, 1992, 106 Stat. 1005, directed Secretary of the Treasury, Director of Congressional Budget Office, and Chairman of Securities and Exchange Commission, in consultation with Administrator of Small Business Administration, to conduct a study of potential benefits of, and legal, regulatory, and market-based barriers to, developing a secondary market for loans to small businesses, specified considerations to be included in the study, and required that, not later than 1 year after Sept. 4, 1992, a report be submitted to Congress on results of the study, including recommendations for legislation to facilitate development of a secondary market for loans to small businesses.
 
 #### Appropriations Not Authorized
 

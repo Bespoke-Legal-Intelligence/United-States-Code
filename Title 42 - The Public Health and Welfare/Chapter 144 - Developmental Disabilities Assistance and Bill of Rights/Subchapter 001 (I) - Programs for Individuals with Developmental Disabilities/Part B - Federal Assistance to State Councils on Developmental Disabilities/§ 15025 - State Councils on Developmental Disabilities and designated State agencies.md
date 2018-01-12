@@ -116,7 +116,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (B) Outreach
 
-&emsp;&emsp;The Council may support and conduct outreach activities to identify individuals with developmental disabilities and their families who otherwise might not come to the attention of the Council and assist and enable the individuals and families to obtain services, individualized supports, and other forms of assistance, including access to special adaptation of generic community services or specialized services.
+&emsp;&emsp;The Council may support and conduct outreach activities to identify individuals with developmental disabilities and their families who otherwise might not come to the attention of the Council and assist and enable theindividuals and families to obtain services, individualized supports, and other forms of assistance, including access to special adaptation of generic community services or specialized services.
 
 #### (C) Training
 
@@ -232,7 +232,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (9) Staff hiring and supervision
 
-&emsp;The Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment, hiring, and dismissal of staff shall be conducted in a manner consistent with Federal and State nondiscrimination laws. Dismissal of personnel shall be conducted in a manner consistent with State law and personnel policies.
+&emsp;The Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment, hiring, and dismissal ofstaff shall be conducted in a manner consistent with Federal and State nondiscrimination laws. Dismissal of personnel shall be conducted in a manner consistent with State law and personnel policies.
 
 #### (10) Staff assignments
 

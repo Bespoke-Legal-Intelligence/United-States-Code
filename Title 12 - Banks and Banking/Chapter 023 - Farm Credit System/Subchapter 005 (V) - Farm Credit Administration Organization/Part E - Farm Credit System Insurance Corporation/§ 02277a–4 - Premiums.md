@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
+&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit InsuranceFund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the average outstanding insured obligations issued by the bank for the calendar year, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
 
@@ -112,7 +112,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligations issued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
 
-&emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loansand investments described in subsection (a)(2)).
+&emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)).
 
 #### (5) Use of funds in Allocated Insurance Reserves Accounts
 
@@ -170,7 +170,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a)(1)(A) to (D). Pub. L. 110–246, §5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
 
-Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out "annual" before "premium", in par. (4), inserted "or investments" after "loans" in heading and, in introductory provisions, substituted "In this section, the term 'government-guaranteed', when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—" for "As used in this section and section 2020(b) of this title, the term 'government-guaranteed loans' means loans or credits, or portions of loans or credits, that are guaranteed—", and struck out former par. (4). Prior to amendment, text read as follows: "In this section and sections 2020(b) and 2277a–5(a) of this title, theterm 'Government Sponsored Enterprise-guaranteed loan' means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System."
+Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out "annual" before "premium", in par. (4), inserted "or investments" after "loans" in heading and, in introductory provisions, substituted "In this section, the term 'government-guaranteed', when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—" for "As used in this section and section 2020(b) of this title, the term 'government-guaranteed loans' means loans or credits, or portions of loans or credits, that are guaranteed—", and struck out former par. (4). Prior to amendment, text read as follows: "In this section and sections 2020(b) and 2277a–5(a) of this title, the term 'Government Sponsored Enterprise-guaranteed loan' means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System."
 
 Subsec. (b). Pub. L. 110–246, §5404(b), struck out "annual" before "premium".
 
@@ -192,7 +192,7 @@ Subsec. (e)(6)(A)(i). Pub. L. 110–246, §5404(e)(3)(A)(ii), added cl. (i) and 
 
 &emsp;"(II) 20 percent of the balance in the bank's Allocated Insurance Reserves Account on the date of the payment; and".
 
-Subsec. (e)(6)(A)(ii). Pub. L. 110–246, §5404(e)(3)(A)(iii), substituted "subparagraphs (C) and (E)" for "subparagraphs (C), (E), and (F)" and "at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B)." for ", of the lesser of—
+Subsec. (e)(6)(A)(ii). Pub. L. 110–246, §5404(e)(3)(A)(iii), substituted "subparagraphs (C) and (E)" for "subparagraphs (C), (E), and (F)" and "at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Accountestablished under paragraph (1)(B)." for ", of the lesser of—
 
 &emsp;"(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
 
@@ -270,7 +270,7 @@ In General.—The Comptroller General of the United States may investigate, revi
 
 &emsp;&emsp;"(B) the effects of requiring that banks pass along the cost of insurance premiums to owner associations and other financing institutions having a discount relationship with the bank;
 
-&emsp;&emsp;"(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, to prevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given;
+&emsp;&emsp;"(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, toprevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given;
 
 &emsp;&emsp;"(D) the effects of the purchase of stock from funds of the association (through funds obtained from other than the district bank) or allowing the bank to increase the direct line of credit to the association in order to fund the purchase; and
 

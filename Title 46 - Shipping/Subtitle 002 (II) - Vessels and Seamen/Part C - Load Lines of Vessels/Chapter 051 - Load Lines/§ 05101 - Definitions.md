@@ -26,7 +26,7 @@ In this chapter—
 
 &emsp;(6) "minimum safe freeboard" means the freeboard that the Secretary decides cannot be reduced safely without limiting the operation of the vessel.
 
-&emsp;(7) "weight of the overload" means the amount obtained by multiplying the number of inches that the vessel is submerged below the applicable assigned freeboard by the tons-an-inch immersion factor for the vessel at the assigned minimum safe freeboard.
+&emsp;(7) "weight of the overload" means the amount obtained by multiplying the numberof inches that the vessel is submerged below the applicable assigned freeboard by the tons-an-inch immersion factor for the vessel at the assigned minimum safe freeboard.
 
 (Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1913.)
 

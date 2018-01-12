@@ -22,7 +22,7 @@ The Attorney General shall prescribe rules and procedures to ensure that the cer
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–448 inserted at end "The Attorney General may waive the taking of the oath by a person if in the opinion of the Attorney General the person is unable to understand, or to communicate an understanding of, its meaning because of a physical or developmental disability or mental impairment. If the Attorney General waives the taking of the oath by a person under the preceding sentence, the person shall be considered to have met the requirements of section 1427(a)(3) of this title with respect to attachment to the principles of the Constitution and well disposition to the good order and happiness of the United States."
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–232, §102(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c)read as follows: "If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under section 1445(e) of this title."
+<b>1991</b>—Subsec. (c). Pub. L. 102–232, §102(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under section 1445(e) of this title."
 
 Pub. L. 102–232, §305(i), struck out "before" after "may be taken".
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Demonstration Projects To Provide for Administration of Oath of Allegiance
 

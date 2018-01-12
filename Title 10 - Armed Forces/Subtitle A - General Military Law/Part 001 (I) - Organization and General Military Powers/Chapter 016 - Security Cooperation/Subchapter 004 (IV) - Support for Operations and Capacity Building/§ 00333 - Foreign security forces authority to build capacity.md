@@ -50,17 +50,17 @@ Authorized elements.—A program under subsection (a) may include the provision 
 
 Required elements.—A program under subsection (a) shall include elements that promote the following:
 
-&emsp;&emsp;(A) Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, and the rule of law.
+&emsp;&emsp;(A) Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.
 
-&emsp;&emsp;(B) Respect for civilian control of the military.
+&emsp;&emsp;(B) Institutional capacity building.
 
 &emsp;(3)
 
-Human rights training.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict, as applicable, to such national security forces.
+Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
 
 &emsp;(4)
 
-Institutional capacity building.—In order to meet the requirement in paragraph (2)(B) with respect to a particular foreign country under a program under subsection (a), the Secretary shall certify, prior to the initiation of the program, that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a). The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country.
+Institutional capacity building.—In order to meet the requirement in paragraph (2)(B) with respect to a particular foreign country under a program under subsection (a), the Secretary shall certify, prior to the initiation of the program, that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country.
 
 (d)
 
@@ -116,7 +116,7 @@ Funding.—
 
 &emsp;(1)
 
-Sole source of funds.—Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
+Sole source of funds.—Amounts for programs carried out pursuant to subsection (a)in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
 
 &emsp;(2)
 
@@ -130,7 +130,7 @@ In general.—Amounts available in a fiscal year to carry out the authority in s
 
 Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643.)
 
 #### References in Text
 
@@ -140,7 +140,305 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), is Pub. L. 87
 
 A prior section 333 was renumbered section 253 of this title.
 
+#### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(A). Pub. L. 115–91, §1204(b)(1)(A), substituted "the rule of law, and civilian control of the military" for "and the rule of law".
+
+Subsec. (c)(2)(B). Pub. L. 115–91, §1204(b)(1)(B), substituted "Institutional capacity building" for "Respect for civilian control of the military".
+
+Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military" for "Human rights training" and in text, inserted "or the Department of State" after "Department of Defense" and substituted "training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military" for "human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict".
+
+Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
+
 #### Guidance
 
 Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall prescribe, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by section 333 of title 10, United States Code, as so added. Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities."
+
+#### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
+
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643, provided that:
+
+"(a)
+
+Authority.—The Secretary of Defense may provide the training specified in subsection (b), and pay the incremental expenses incurred by a country as the direct result of participation in such training, for the national security forces provided for under subsection (c).
+
+"(b)
+
+Types of Training.—The training provided to the national security forces of a country under subsection (a) shall be limited to training that is—
+
+&emsp;"(1) provided in the course of the conduct of a multilateral exercise in which the United States Armed Forces are a participant;
+
+&emsp;"(2) comparable to or complimentary of the types of training the United States Armed Forces receive in the course of such multilateral exercise; and
+
+&emsp;"(3) for any purpose as follows:
+
+&emsp;&emsp;"(A) To enhance and increase the interoperability of the security forces to be trained to increase their ability to participate in coalition efforts led by the United States or the North Atlantic Treaty Organization (NATO).
+
+&emsp;&emsp;"(B) To increase the capacity of such security forces to respond to external threats.
+
+&emsp;&emsp;"(C) To increase the capacity of such security forces to respond to hybrid warfare.
+
+&emsp;&emsp;"(D) To increase the capacity of such security forces to respond to calls for collective action within the North Atlantic Treaty Organization.
+
+"(c)
+
+Eligible Countries.—
+
+&emsp;"(1)
+
+In general.—Training may be provided under subsection (a) to the national security forces of the countries determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be appropriate recipients of such training from among the countries as follows:
+
+&emsp;&emsp;"(A) Countries that are a signatory to the Partnership for Peace Framework Documents, but not a member of the North Atlantic Treaty Organization.
+
+&emsp;&emsp;"(B) Countries that became a member of the North Atlantic Treaty Organization after January 1, 1999.
+
+&emsp;"(2)
+
+Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall, in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a).
+
+"(d)
+
+Funding of Incremental Expenses.—
+
+&emsp;"(1)
+
+Annual funding.—Of the amounts specified in paragraph (2) for a fiscal year, up to a total of $28,000,000 may be used to pay incremental expenses under subsection (a) in that fiscal year.
+
+&emsp;"(2)
+
+Amounts.—The amounts specified in this paragraph are as follows:
+
+&emsp;&emsp;"(A) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Army, and available for the Combatant Commands Direct Support Program for that fiscal year.
+
+&emsp;&emsp;"(B) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Defense-wide, and available for the Wales Initiative Fund for that fiscal year.
+
+&emsp;&emsp;"(C) Amounts authorized to be appropriated for a fiscal year for overseas contingency operations for operation and maintenance, Army, and available for additional activities for the European Deterrence Initiative for that fiscal year.
+
+&emsp;"(3)
+
+Availability of funds for activities across fiscal years.—Amounts available in a fiscal year pursuant to this subsection may be used for incremental expenses of training that begins in that fiscal year and ends in the next fiscal year.
+
+&emsp;"(4)
+
+Regulations.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense shall prescribe regulations for payment of incremental expenses under subsection (a). Not later than 120 days after the date of the enactment of this paragraph \[Dec. 12, 2017\], the Secretary shall submit the regulations to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+
+&emsp;&emsp;"(B)
+
+Procedures to be included.—The regulations required under subparagraph (A) shall include procedures—
+
+&emsp;&emsp;&emsp;"(i) to require reimbursement of incremental expenses from non-developing countries determined pursuant to subsection (c) to be eligible for the provision of training under subsection (a); and
+
+&emsp;&emsp;&emsp;"(ii) to provide for a waiver of the requirement of reimbursement of incremental expenses under clause (i), on a case-by-case basis, if the Secretary of Defense determines special circumstances exist to provide for the waiver.
+
+&emsp;&emsp;"(C)
+
+Quarterly report.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, on a quarterly basis, a report that includes a description of each waiver of the requirement of reimbursement of incremental expenses under subparagraph (B)(i) that was in effect at any time during the preceding calendar quarter.
+
+&emsp;&emsp;"(D)
+
+Non-developing country defined.—In this paragraph, the term 'non-developing country' means a country that is not a developing country, as such term is defined in section 301(4) of title 10, United States Code.
+
+"(e)
+
+Briefing to Congress on Use of Authority.—Not later than 90 days after the end of each fiscal year in which the authority in subsection (a) is used, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the use of the authority during such fiscal year, including each country with which training under the authority was conducted and the types of training provided.
+
+"(f)
+
+Construction of Authority.—The authority provided in subsection (a)—
+
+&emsp;"(1) is in addition to any other authority provided by law authorizing the provision of training for the national security forces of a foreign country, including chapter 16 of title 10, United States Code; and
+
+&emsp;"(2) shall not be construed to include authority for the training of irregular forces, groups, or individuals.
+
+"(g)
+
+Incremental Expenses Defined.—In this section, the term 'incremental expenses' has the meaning given such term in section 301(5) of title 10, United States Code.
+
+"(h)
+
+Termination of Authority.—The authority under this section shall terminate on December 31, 2020. Any activity under this section initiated before that date may be completed, but only using funds available for for \[sic\] the period beginning on October 1, 2015, and ending on December 31, 2020."
+
+#### Southeast Asia Maritime Security Initiative
+
+Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555, provided that:
+
+"(a)
+
+Assistance and Training.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense is authorized, with the concurrence of the Secretary of State, for the purpose of increasing maritime security and maritime domain awareness of foreign countries along the South China Sea—
+
+&emsp;&emsp;"(A) to provide assistance to national military or other security forces of such countries that have among their functional responsibilities maritime security missions; and
+
+&emsp;&emsp;"(B) to provide training to ministry, agency, and headquarters level organizations for such forces.
+
+&emsp;"(2)
+
+Designation of assistance and training.—The provision of assistance and training under this section may be referred to as the 'Southeast Asia Maritime Security Initiative'.
+
+"(b)
+
+Recipient Countries.—The foreign countries that may be provided assistance and training under subsection (a) are the following:
+
+&emsp;"(1) Indonesia.
+
+&emsp;"(2) Malaysia,\[.\]
+
+&emsp;"(3) The Philippines.
+
+&emsp;"(4) Thailand.
+
+&emsp;"(5) Vietnam.
+
+"(c)
+
+Types of Assistance and Training.—
+
+&emsp;"(1)
+
+Authorized elements of assistance.—Assistance provided under subsection (a)(1)(A) may include the provision of equipment, supplies, training, and small-scale military construction.
+
+&emsp;"(2)
+
+Required elements of assistance and training.—Assistance and training provided under subsection (a) shall include elements that promote the following:
+
+&emsp;&emsp;"(A) Observance of and respect for human rights and fundamental freedoms.
+
+&emsp;&emsp;"(B) Respect for legitimate civilian authority within the country to which the assistance is provided.
+
+"(d)
+
+Priorities for Assistance and Training.—In developing programs for assistance or training to be provided under subsection (a), the Secretary of Defense shall accord a priority to assistance, training, or both that will enhance the maritime capabilities of the recipient foreign country, or a regional organization of which the recipient country is a member, to respond to emerging threats to maritime security.
+
+"(e)
+
+Incremental Expenses of Personnel of Certain Other Countries for Training.—
+
+&emsp;"(1)
+
+Authority for payment.—If the Secretary of Defense determines that the payment of incremental expenses in connection with training described in subsection (a)(1)(B) will facilitate the participation in such training of organization personnel of foreign countries specified in paragraph (2), the Secretarymay use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses.
+
+&emsp;"(2)
+
+Covered countries.—The foreign countries specified in this paragraph are the following:
+
+&emsp;&emsp;"(A) Brunei.
+
+&emsp;&emsp;"(B) Singapore.
+
+&emsp;&emsp;"(C) Taiwan.
+
+"(f)
+
+Availability of Funds.—
+
+&emsp;"(1)
+
+In general.—Of the amounts authorized to be appropriated for fiscal year 2016 for the Department of Defense, $50,000,000 may be available for the provision of assistance and training under subsection (a).
+
+&emsp;"(2)
+
+Notice on source of funds.—If the Secretary of Defense uses funds available to the Department pursuant to paragraph (1) to provide assistance and training under subsection (a) during a fiscal half-year of fiscal year 2016, not later than 30 days after the end of such fiscal half-year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice on the account or accounts providing such funds.
+
+"(g)
+
+Notice to Congress on Assistance and Training.—
+
+&emsp;"(1)
+
+In general.—Not later than 15 days before exercising the authority under subsection (a) or (e) with respect to a recipient foreign country, the Secretary of Defense shall submit to the appropriate committees of Congress a notification containing the following:
+
+&emsp;&emsp;"(A) The recipient foreign country.
+
+&emsp;&emsp;"(B) A detailed justification of the program for the provision of the assistance or training concerned, and its relationship to United States security interests.
+
+&emsp;&emsp;"(C) The budget for the program, including a timetable of planned expenditures of funds to implement the program, an implementation timeline for the program with milestones (including anticipated delivery schedules for any assistance under the program), the military department or component responsible for management of the program, and the anticipated completion date for the program.
+
+&emsp;&emsp;"(D) A description of the arrangements, if any, to support host nation sustainment of any capability developed pursuant to the program, and the source of funds to support sustainment efforts and performance outcomes to be achieved under the program beyond its completion date, if applicable.
+
+&emsp;&emsp;"(E) A description of the program objectives and an assessment framework to be used to develop capability and performance metrics associated with operational outcomes for the recipient force.
+
+&emsp;&emsp;"(F) Such other matters as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+"(h)
+
+Expiration.—Assistance and training may not be provided under this section after September 30, 2020."
+
+#### Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights
+
+Pub. L. 113–291, div. A, title XII, §1206, Dec. 19, 2014, 128 Stat. 3538, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense is authorized to conduct human rights training of security forces and associated security ministries of foreign countries.
+
+"(b)
+
+Construction With Limitation on Use of Funds.—Human rights training authorized by this section may be conducted for security forces otherwise prohibited from receiving such training under any provision of law only if—
+
+&emsp;"(1) such training is conducted in the country of origin of the security forces;
+
+&emsp;"(2) such training is withheld from any individual of a unit when there is credible information that such individual has committed a gross violation of human rights or has commanded a unit that has committed a gross violation of human rights;
+
+&emsp;"(3) such training may be considered a corrective step, but is not sufficient for meeting the accountability requirement under the exception established in subsection (b) of section 2249e \[now 362\] of title 10, United States Code (as added by section 1204(a) of this Act); and
+
+&emsp;"(4) reasonable efforts have been made to assist the foreign country to take all necessary corrective steps regarding a gross violation of human rights with respect to the unit, including using funds authorized by this Act \[see Tables for classification\] to provide technical assistance or other types of support for accountability.
+
+"(c)
+
+Role of the Secretary of State.—
+
+&emsp;"(1)
+
+Concurrence.—Training activities may be conducted under this section only with the concurrence of the Secretary of State.
+
+&emsp;"(2)
+
+Consultation.—The Secretary of Defense shall consult with the Secretary of State on the content of the training, the methods of instruction to be provided, and the intended beneficiaries of training conducted under this section.
+
+"(d)
+
+Authorized Activities.—Human rights training authorized by this section may include associated activities and expenses necessary for the conduct of training and assessments designed to further the purposes of this section, including technical assistance or other types of support for accountability.
+
+"(e)
+
+Annual Reports.—Not later than March 31 each year through 2020, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the use of the authority in this section during the preceding fiscal year. Each report shall include information on any human rights training (as defined in subsection (f)) or other assistance that was provided during the fiscal year to foreign security forces.
+
+"(f)
+
+Definitions.—In this section
+
+&emsp;"(1) The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2) The term 'human rights training' means training for the purpose of directly improving the conduct of foreign security forces to—
+
+&emsp;&emsp;"(A) prevent gross violations of human rights and support accountability for such violations;
+
+&emsp;&emsp;"(B) strengthen compliance with the laws of armed conflict and respect for civilian control over the military;
+
+&emsp;&emsp;"(C) promote and assist in the establishment of a military justice system and other mechanisms for accountability; and
+
+&emsp;&emsp;"(D) prevent the use of child soldiers.
+
+"(g)
+
+Sunset.—The authority in subsection (a) shall expire on September 30, 2020."
 

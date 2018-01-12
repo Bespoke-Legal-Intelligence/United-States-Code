@@ -48,7 +48,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 #### (4) Additional time for assessment
 
-&emsp;If a joint return is made under this subsection, the periods of limitations provided insections 6501 and 6502 on the making of assessments and the beginning of levy or a proceeding in court for collection shall with respect to such return include one year immediately after the date of the filing of such joint return (computed without regard to the provisions of paragraph (3)).
+&emsp;If a joint return is made under this subsection, the periods of limitations provided in sections 6501 and 6502 on the making of assessments and the beginning of levy or a proceeding in court for collection shall with respect to such return include one year immediately after the date of the filing of such joint return (computed without regard to the provisions of paragraph (3)).
 
 #### (5) Additions to the tax and penalties
 
@@ -68,7 +68,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 #### (c) Treatment of joint return after death of either spouse
 
-For purposes of sections 15, 443, and 7851(a)(1)(A), where the husband and wife have different taxable years because of the death of either spouse, the joint return shall be treated as if the taxable years of both spouses ended on the date of the closing of the surviving spouse's taxable year.
+For purposes of sections 15, 443, and 7851(a)(1)(A), where the husband and wife havedifferent taxable years because of the death of either spouse, the joint return shall be treated as if the taxable years of both spouses ended on the date of the closing of the surviving spouse's taxable year.
 
 #### (d) Special rules
 
@@ -128,7 +128,7 @@ For purposes of this section and subtitle A—
 
 #### (1) In general
 
-&emsp;A nonresident alien individual with respect to whom this subsection is in effect for thetaxable year shall be treated as a resident of the United States—
+&emsp;A nonresident alien individual with respect to whom this subsection is in effect for the taxable year shall be treated as a resident of the United States—
 
 &emsp;&emsp;(A) for purposes of chapter 1 for all of such taxable year, and
 
@@ -260,7 +260,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §1012(a)(1), added subsecs. (g) and (h).
 
 Subsec. (e). Pub. L. 91–679 added subsec. (e).
 
-<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect totaxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
+<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
 
 <b>1958</b>—Subsec. (b)(2)(C). Pub. L. 85–866 substituted "section 6213" for "such section".
 
@@ -284,7 +284,7 @@ Pub. L. 104–168, title IV, §402(b), July 30, 1996, 110 Stat. 1459, provided t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) ofPub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -366,7 +366,7 @@ Pub. L. 93–597, §3(c), Jan. 2, 1975, 88 Stat. 1952, provided that: "The amend
 
 Pub. L. 92–178, title II, §201(a), (b), Dec. 10, 1971, 85 Stat. 510, provided in part that the increases in exemptions from $650 to $675 and from $1,300 to $1,350, respectively, were effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
 
-Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–455, title XXI, §2114(a), Oct. 4, 1976, 90 Stat. 1907; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by the first two sections of this Act \[amending this section and section 6653 of this title\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies. Corresponding provisions shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to all taxable years to which such Code applies. Upon application by a taxpayer, the Secretary of the Treasury shall redetermine the liability for tax (including interest, penalties, and other amounts) of such taxpayer for taxable years beginning after December 31, 1961, and ending before January 13, 1971. The preceding sentence shall apply solely to a taxpayer to whom the application of the provisions of section 6013(e) of the Internal Revenue Code of 1986, as added by this Act, for such taxable years is prevented by the operation of res judicata, and such redetermination shall be made without regard to such rule of law. Any overpayment of tax by such taxpayer for such taxable years resulting from the redetermination made under this Act shall be refunded to such taxpayer."
+Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–455, title XXI, §2114(a), Oct. 4,1976, 90 Stat. 1907; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by the first two sections of this Act \[amending this section and section 6653 of this title\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies. Corresponding provisions shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to all taxable years to which such Code applies. Upon application by a taxpayer, the Secretary of the Treasury shall redetermine the liability for tax (including interest, penalties, and other amounts) of such taxpayer for taxable years beginning after December 31, 1961, and ending before January 13, 1971. The preceding sentence shall apply solely to a taxpayer to whom the application of the provisions of section 6013(e) of the Internal Revenue Code of 1986, as added by this Act, for such taxable years is prevented by the operation of res judicata, and such redetermination shall be made without regard to such rule of law. Any overpayment of tax by such taxpayer for such taxable years resulting from the redetermination made under this Act shall be refunded to such taxpayer."
 
 #### Effective Date of 1969 Amendment
 

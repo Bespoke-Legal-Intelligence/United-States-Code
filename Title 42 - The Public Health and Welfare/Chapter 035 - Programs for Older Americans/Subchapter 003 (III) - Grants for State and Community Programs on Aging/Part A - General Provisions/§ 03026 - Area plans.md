@@ -4,7 +4,7 @@
 
 Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
 
-&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
+&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of needfor supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
 &emsp;(2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
@@ -62,7 +62,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(VII) older individuals at risk for institutional placement; and
 
-&emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i),and the caretakers of such individuals, of the availability of such assistance; and
+&emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
 
 &emsp;(C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning, advocacy, and systems development, will include a focus on the needs of low-income minority older individuals and older individuals residing in rural areas;
 
@@ -102,7 +102,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(7) provide that the area agency on aging shall, consistent with this section, facilitate the area-wide development and implementation of a comprehensive, coordinated system for providing long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, by—
 
-&emsp;&emsp;(A) collaborating, coordinating activities, and consulting with other local public and private agencies and organizations responsible for administering programs, benefits,and services related to providing long-term care;
+&emsp;&emsp;(A) collaborating, coordinating activities, and consulting with other local public and private agencies and organizations responsible for administering programs, benefits, and services related to providing long-term care;
 
 &emsp;&emsp;(B) conducting analyses and making recommendations with respect to strategies for modifying the local system of long-term care to better—
 
@@ -220,7 +220,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 #### (c) Waiver of requirements
 
-Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) of this section for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
+Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
 
 #### (d) Transportation services; funds
 
@@ -236,7 +236,7 @@ An area agency on aging may not require any provider of legal assistance under t
 
 (1) If the head of a State agency finds that an area agency on aging has failed to comply with Federal or State laws, including the area plan requirements of this section, regulations, or policies, the State may withhold a portion of the funds to the area agency on aging available under this subchapter.
 
-(2)(A) The head of a State agency shall not make a final determination withholding funds under paragraph (1) without first affording the area agency on aging due process in accordance with procedures established by the State agency.
+(2)(A) The head of a State agency shall not make a final determination withholding funds under paragraph (1) without first affording the area agency on aging due process in accordancewith procedures established by the State agency.
 
 (B) At a minimum, such procedures shall include procedures for—
 
@@ -292,7 +292,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 109–365, §306(1)(C)(i)(II), inserted ", older
 
 Subsec. (a)(4)(B). Pub. L. 109–365, §306(1)(C)(ii)(I), realigned margins.
 
-Subsec. (a)(4)(B)(i)(V). Pub. L. 109–365, §306(1)(C)(ii)(II)(aa), substituted "with limited Englishproficiency;" for "with limited English-speaking ability; and".
+Subsec. (a)(4)(B)(i)(V). Pub. L. 109–365, §306(1)(C)(ii)(II)(aa), substituted "with limited English proficiency;" for "with limited English-speaking ability; and".
 
 Subsec. (a)(4)(B)(i)(VI). Pub. L. 109–365, §306(1)(C)(ii)(II)(bb), substituted "and related" for "or related".
 
@@ -366,7 +366,7 @@ Subsec. (a)(6)(I) to (L). Pub. L. 106–501, §305(a)(10)(A), struck out subpars
 
 "(J) identify the public and private nonprofit entities involved in the prevention, identification, and treatment of the abuse, neglect, and exploitation of older individuals, and based on such identification, determine the extent to which the need for appropriate services for such individuals is unmet;
 
-"(K) facilitate the involvement of long-term care providers in the coordination of community-based long-term care services and work to ensure communityawareness of and involvement in addressing the needs of residents of long-term care facilities;
+"(K) facilitate the involvement of long-term care providers in the coordination of community-based long-term care services and work to ensure community awareness of and involvement in addressing the needs of residents of long-term care facilities;
 
 "(L) coordinate the categories of services specified in paragraph (2) for which the area agency on aging is required to expend funds under part B of this subchapter, with activities of community-based organizations established for the benefit of victims of Alzheimer's disease and the families of such victims;".
 
@@ -426,7 +426,7 @@ Subsec. (a)(5)(A)(ii)(III). Pub. L. 102–375, §306(c)(2)(A)(ii)(III), added su
 
 Subsec. (a)(5)(A)(iii)(III). Pub. L. 102–375, §306(c)(2)(A)(iii), added subcl. (III).
 
-Subsec. (a)(5)(B). Pub. L. 102–375, §306(c)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on rural elderly, older individuals who have greatest economic need (with particular attention to low-income minority individuals), older individuals who have greatest social need (with particular attention to low-income minority individuals), and older individuals with severe disabilities, and inform such individuals of the availability of such assistance;".
+Subsec. (a)(5)(B). Pub. L. 102–375, §306(c)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on rural elderly, older individuals who have greatest economic need (with particular attention to low-income minority individuals), older individuals who have greatest social need (with particular attention to low-income minorityindividuals), and older individuals with severe disabilities, and inform such individuals of the availability of such assistance;".
 
 Subsec. (a)(5)(C). Pub. L. 102–375, §306(c)(2)(C), added subpar. (C).
 
@@ -563,6 +563,10 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

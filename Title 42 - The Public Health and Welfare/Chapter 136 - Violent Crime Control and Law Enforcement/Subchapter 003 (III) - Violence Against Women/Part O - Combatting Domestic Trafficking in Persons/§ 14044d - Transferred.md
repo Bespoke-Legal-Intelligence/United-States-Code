@@ -1,0 +1,6 @@
+### §14044d. Transferred
+
+#### Codification
+
+Section 14044d was editorially reclassified as section 20706 of Title 34, Crime Control and Law Enforcement.
+

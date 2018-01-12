@@ -36,7 +36,7 @@ The Secretary of Energy, in supervising the demonstration of vehicles acquired u
 
 &emsp;(2) for demonstration maintenance projects, including maintenance organization and equipment needs and model training projects for maintenance procedures; and
 
-&emsp;(3) for the dissemination of data on electric and hybrid vehicle safety and operating characteristics (including nontechnical descriptive data which shall be made available by the Government Publishing Office) (A) to Federal, State, and local consumer affairs agencies and groups; (B) to Federal, State, and local agricultural and rural agencies and groups; and (C) to the public.
+&emsp;(3) for the dissemination of data on electric and hybrid vehicle safety and operating characteristics (including nontechnical descriptive data which shall be made available by theGovernment Publishing Office) (A) to Federal, State, and local consumer affairs agencies and groups; (B) to Federal, State, and local agricultural and rural agencies and groups; and (C) to the public.
 
 #### (e) Displacement of private procurement; reports to congressional committees; reduction of number purchased
 

@@ -10,7 +10,7 @@ Expenditures for Recognition Items.—Under regulations prescribed by the Secret
 
 &emsp;&emsp;(A) to members of the armed forces; and
 
-&emsp;&emsp;(B) to members of the families of members of the armed forces, and other individuals,recognized as providing support that substantially facilitates service in the armed forces.
+&emsp;&emsp;(B) to members of the families of members of the armed forces, and other individuals, recognized as providing support that substantially facilitates service in the armed forces.
 
 (b)
 

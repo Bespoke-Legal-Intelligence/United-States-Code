@@ -19,7 +19,7 @@
 
 (2) The chief judge of a judicial circuit may recall any such senior judge, with the judge's consent, to perform, for the court from which he retired, such judicial duties for such periods of time as the chief judge may specify.
 
-(3) Any act or failure to act by a senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall have the same force and effect as if it were an act or failure to act of a judge on active duty; but such senior judge shall not be counted as a judge of the court on which he is serving as a recalled annuitant for purposes of the number of judgeships authorized for that court.
+(3) Any act or failure to act by a senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall have the same force and effect as if it were an act orfailure to act of a judge on active duty; but such senior judge shall not be counted as a judge of the court on which he is serving as a recalled annuitant for purposes of the number of judgeships authorized for that court.
 
 (4) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall be paid, while performing such duties, the same compensation (in lieu of the annuity payable under subsection (a) of this section) and the same allowances for travel and other expenses as a judge on active duty with the court being served.
 
@@ -83,7 +83,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant toProc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 

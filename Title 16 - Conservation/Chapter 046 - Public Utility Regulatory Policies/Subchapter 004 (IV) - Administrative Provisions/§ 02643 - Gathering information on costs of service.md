@@ -16,7 +16,7 @@ Each electric utility shall periodically gather information under such rules (pr
 
 &emsp;(4) costs of purchased power, including representative daily and seasonal differences in the amount of such costs.
 
-> Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail as may be necessary to carry out the purposes of this section.
+> Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail asmay be necessary to carry out the purposes of this section.
 
 #### (b) Commission rules
 
@@ -40,5 +40,5 @@ For purposes of enforcement, any violation of a requirement of this section shal
 
 #### References in Text
 
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319,June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 

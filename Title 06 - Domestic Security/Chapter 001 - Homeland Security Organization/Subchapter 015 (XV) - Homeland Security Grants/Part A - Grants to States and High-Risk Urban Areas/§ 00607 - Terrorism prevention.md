@@ -66,7 +66,7 @@
 
 #### (5) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to diminish, supercede, or replace theresponsibilities, authorities, or role of the Administrator.
+&emsp;Nothing in this subsection shall be construed to diminish, supercede, or replace the responsibilities, authorities, or role of the Administrator.
 
 (Pub. L. 107–296, title XX, §2006, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 280; amended Pub. L. 114–190, title III, §3602, July 15, 2016, 130 Stat. 665.)
 

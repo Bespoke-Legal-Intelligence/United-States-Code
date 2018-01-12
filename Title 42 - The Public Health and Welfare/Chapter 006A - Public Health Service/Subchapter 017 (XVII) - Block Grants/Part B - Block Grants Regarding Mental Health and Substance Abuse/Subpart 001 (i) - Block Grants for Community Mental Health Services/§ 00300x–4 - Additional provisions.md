@@ -38,7 +38,7 @@ The Secretary may make a grant under section 300x of this title to a State only 
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;In making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with the agreement made under paragraph (1). If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
+&emsp;&emsp;&emsp;In making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination ofwhether, for the previous fiscal year, the State maintained material compliance with the agreement made under paragraph (1). If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
 
 #### (ii) Alternative
 

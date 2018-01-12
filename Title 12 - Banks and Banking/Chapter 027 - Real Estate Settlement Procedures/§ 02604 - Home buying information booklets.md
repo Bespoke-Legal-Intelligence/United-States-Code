@@ -8,7 +8,7 @@ The Director of the Bureau of Consumer Financial Protection (hereafter in this s
 
 Each booklet shall be in such form and detail as the Director shall prescribe and, in addition to such other information as the Director may provide, shall include in plain and understandable language the following information:
 
-&emsp;(1) A description and explanation of the nature and purpose of the costs incident to a realestate settlement or a federally related mortgage loan. The description and explanation shall provide general information about the mortgage process as well as specific information concerning, at a minimum—
+&emsp;(1) A description and explanation of the nature and purpose of the costs incident to a real estate settlement or a federally related mortgage loan. The description and explanation shall provide general information about the mortgage process as well as specific information concerning, at a minimum—
 
 &emsp;&emsp;(A) balloon payments;
 
@@ -40,7 +40,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(12) An explanation of the nature and purpose of real estate appraisals, including the difference between an appraisal and a home inspection.
 
-&emsp;(13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
+&emsp;(13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochureregarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
 &emsp;(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: "Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.".
 
@@ -62,7 +62,7 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading"this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
+This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
 The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide th
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–550 substituted "Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period." for "Such booklet shall be provided at the time of receipt or preparation of such application."
 
-<b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted "or for whom it prepares a written application" for "an application" and inserted "or preparation" after "receipt", and redesignated former subsec. (d) as (e).
+<b>1976</b>—Subsecs. (c) to (e). Pub. L. 94–205 added subsec. (c), redesignated former subsec. (c) as (d), substituted "or for whom it prepares a written application" for "anapplication" and inserted "or preparation" after "receipt", and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2010 Amendment
 

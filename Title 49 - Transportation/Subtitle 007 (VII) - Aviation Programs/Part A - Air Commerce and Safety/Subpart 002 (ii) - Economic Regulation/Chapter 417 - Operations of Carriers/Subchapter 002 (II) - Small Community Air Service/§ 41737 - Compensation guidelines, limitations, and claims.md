@@ -22,7 +22,7 @@ Required Finding.—The Secretary may pay compensation to an air carrier for pro
 
 (c)
 
-Claims.—Not later than 15 days after receiving a written claim from an air carrier forcompensation under this subchapter, the Secretary shall—
+Claims.—Not later than 15 days after receiving a written claim from an air carrier for compensation under this subchapter, the Secretary shall—
 
 &emsp;(1) pay or deny the United States Government's share of a claim; and
 

@@ -176,11 +176,11 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (3) The data bank shall include the following:
 
-&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
+&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimentaltreatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
 
 &emsp;(B) Information pertaining to experimental treatments for serious or life-threatening diseases and conditions that may be available—
 
-&emsp;&emsp;(i) under a treatment investigational new drug application that has been submitted tothe Secretary under section 360bbb(c) of title 21; or
+&emsp;&emsp;(i) under a treatment investigational new drug application that has been submitted to the Secretary under section 360bbb(c) of title 21; or
 
 &emsp;&emsp;(ii) as a Group C cancer drug (as defined by the National Cancer Institute).
 
@@ -252,7 +252,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;The term "responsible party", with respect to a clinical trial of a drug or device, means—
 
-&emsp;&emsp;&emsp;&emsp;(I) the sponsor of the clinical trial (as defined in section 50.3 of title 21, Code of Federal Regulations (or any successor regulation)); or
+&emsp;&emsp;&emsp;&emsp;(I) the sponsor of the clinical trial (as defined in section 50.3 of title 21, Code ofFederal Regulations (or any successor regulation)); or
 
 &emsp;&emsp;&emsp;&emsp;(II) the principal investigator of such clinical trial if so designated by a sponsor, grantee, contractor, or awardee, so long as the principal investigator is responsible for conducting the trial, has access to and control over the data from the clinical trial, has the right to publish the results of the trial, and has the ability to meet all of the requirements under this subsection for the submission of clinical trial information.
 
@@ -266,7 +266,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Expansion of data bank
 
-&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequentprogress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the "registry data bank"). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
+&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the "registry data bank"). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
 
 #### (ii) Content
 
@@ -370,7 +370,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (C) Data submission
 
-&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to theDirector of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
+&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to the Director of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
 
 &emsp;&emsp;&emsp;(i) 90 days after September 27, 2007;
 
@@ -426,7 +426,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) If an applicable drug clinical trial was conducted under section 355a or 355c of title 21, a link to the posted Food and Drug Administration assessment of the results of such trial.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Food and Drug Administration public health advisories regarding the drug or device that is the subject of the applicable clinical trial, if any.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Food and Drug Administration public health advisories regarding thedrug or device that is the subject of the applicable clinical trial, if any.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) For an applicable drug clinical trial, the Food and Drug Administration action package for approval document required under section 355(l)(2) of title 21.
 
@@ -508,7 +508,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;(II) A summary of the clinical trial and its results that is technical in nature, if the Secretary determines that such types of summary can be included without being misleading or promotional.
 
-&emsp;&emsp;&emsp;&emsp;(III) The full protocol or such information on the protocol for the trial as maybe necessary to help to evaluate the results of the trial.
+&emsp;&emsp;&emsp;&emsp;(III) The full protocol or such information on the protocol for the trial as may be necessary to help to evaluate the results of the trial.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Such other categories as the Secretary determines appropriate.
 
@@ -626,7 +626,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (iii) Additional elements
 
-&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry andresults data bank for applicable clinical trials described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
+&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry and results data bank for applicable clinical trials described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
 
 #### (I) Serious adverse events
 
@@ -674,7 +674,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Submission of updates
 
-&emsp;&emsp;&emsp;The responsible party for an applicable clinical trial shall submit to the Director of NIH for inclusion in the registry and results data bank updates to reflect changes to the clinical trial information submitted under paragraph (2). Such updates—
+&emsp;&emsp;&emsp;The responsible party for an applicable clinical trial shall submit to the Director of NIH for inclusion in the registry and results data bank updates to reflect changesto the clinical trial information submitted under paragraph (2). Such updates—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be provided not less than once every 12 months, unless there were no changes to the clinical trial information during the preceding 12-month period;
 
@@ -686,7 +686,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (ii) Public availability of updates
 
-&emsp;&emsp;&emsp;The Director of NIH shall make updates submitted under clause (i) publicly available in the registry data bank. Except with regard to overall recruitment status, individual site status, location, and contact information, the Director of NIH shall ensure that updates to elements required under subclauses (I) to (V) of paragraph (2)(A)(ii) do not result in the removal of any information from the original submissions or any preceding updates, and information in such databases is presented in a manner that enables users to readily access each original element submission and to track the changes made by the updates. The Director of NIH shall provide a link from the table of primary and secondary outcomes required under paragraph\(3)(C)(ii) to the tracked history required under this clause of the primary and secondary outcome measures submitted under paragraph (2)(A)(ii)(I)(ll).
+&emsp;&emsp;&emsp;The Director of NIH shall make updates submitted under clause (i) publicly available in the registry data bank. Except with regard to overall recruitment status, individual site status, location, and contact information, the Director of NIH shall ensure that updates to elements required under subclauses (I) to (V) of paragraph (2)(A)(ii) do not result in the removal of any information from the original submissions or any preceding updates, and information in such databases is presented in a manner that enables users to readily access each original element submission and to track the changes made by the updates. The Director of NIH shall provide a link from the table of primary and secondary outcomes required under paragraph (3)(C)(ii) to the tracked history required under this clause of the primary and secondary outcome measures submitted under paragraph (2)(A)(ii)(I)(ll).
 
 #### (5) Coordination and compliance
 
@@ -806,7 +806,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (1) Establishment
 
-&emsp;Not later than 90 days after January 15, 2007, the Director of NIH shall establish within the Office of the Director an advisory council to be known as the "Council of Councils" (referred to in this subsection as the "Council") for the purpose of advising the Director on matters related to the policies and activities of the Division of Program Coordination, Planning, and Strategic Initiatives, including making recommendations with respect to the conduct and support of research described in subsection (b)(7).
+&emsp;Not later than 90 days after January 15, 2007, the Director of NIH shall establish within the Office of the Director an advisory council to be known as the "Council of Councils" (referred to in this subsection as the "Council") for the purpose of advising the Director onmatters related to the policies and activities of the Division of Program Coordination, Planning, and Strategic Initiatives, including making recommendations with respect to the conduct and support of research described in subsection (b)(7).
 
 #### (2) Membership
 
@@ -900,7 +900,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (4) Consultation
 
-&emsp;The Director of National Institutes of Health shall develop the strategic plan under paragraph (1) in consultation with the directors of the national research institutes and national centers, researchers, patient advocacy groups, and industry leaders.
+&emsp;The Director of National Institutes of Health shall develop the strategic plan underparagraph (1) in consultation with the directors of the national research institutes and national centers, researchers, patient advocacy groups, and industry leaders.
 
 #### (n) Unique research initiatives
 
@@ -1128,7 +1128,7 @@ Confidentiality.—Nothing in this section authorizes the Secretary of Health an
 
 #### Demonstration Grants for Improving Pediatric Device Availability
 
-Pub. L. 110–85, title III, §305, Sept. 27, 2007, 121 Stat. 863, as amended by Pub. L. 112–144, title VI, §620(a), July 9, 2012, 126 Stat. 1064, provided that:
+Pub. L. 110–85, title III, §305, Sept. 27, 2007, 121 Stat. 863, as amended by Pub. L. 112–144, title VI, §620(a), July 9, 2012, 126 Stat. 1064; Pub. L. 115–52, title V, §502(c), Aug. 18, 2017, 131 Stat. 1037, provided that:
 
 "(a)
 
@@ -1156,9 +1156,11 @@ Use of Funds.—A nonprofit consortium that receives a grant or contract under t
 
 &emsp;"(3) connecting innovators and physicians to existing Federal and non-Federal resources, including resources from the Food and Drug Administration, the National Institutes of Health, the Small Business Administration, the Department of Energy, the Department of Education, the National Science Foundation, the Department of Veterans Affairs, the Agency for Healthcare Research and Quality, and the National Institute of Standards and Technology;
 
-&emsp;"(4) assessing the scientific and medical merit of proposed pediatric device projects; and
+&emsp;"(4) assessing the scientific and medical merit of proposed pediatric device projects;
 
-&emsp;"(5) providing assistance and advice as needed on business development, personnel training, prototype development, postmarket needs, and other activities consistent with the purposes of this section.
+&emsp;"(5) providing assistance and advice as needed on business development, personnel training, prototype development, postmarket needs, and other activities consistent with the purposes of this section; and
+
+&emsp;"(6) providing regulatory consultation to device sponsors in support of the submission of an application for a pediatric device, where appropriate.
 
 "(d)
 
@@ -1182,7 +1184,7 @@ Effectiveness and outcomes.—Each consortium that receives a grant or contract 
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 2013 through 2017."
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 2018 through 2022."
 
 #### Surveillances
 

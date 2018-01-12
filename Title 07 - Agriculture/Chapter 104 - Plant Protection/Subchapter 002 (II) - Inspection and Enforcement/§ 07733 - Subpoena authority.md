@@ -18,7 +18,7 @@ Witnesses summoned by the Secretary shall be paid the same fees and mileage that
 
 #### (e) Procedures
 
-The Secretary shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated to an agency other than the Office of Administrative Law Judges, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
+The Secretary shall publish procedures for the issuance of subpoenas under this section. Suchprocedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated to an agency other than the Office of Administrative Law Judges, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
 (Pub. L. 106–224, title IV, §423, June 20, 2000, 114 Stat. 449; Pub. L. 107–171, title X, §10418(b)(2), May 13, 2002, 116 Stat. 508; Pub. L. 110–234, title X, §10203(c), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, §4(a), title X, §10203(c), June 18, 2008, 122 Stat. 1664, 2104.)
 

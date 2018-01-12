@@ -36,7 +36,7 @@ Pub. L. 101–509, title VI, §634, Nov. 5, 1990, 104 Stat. 1482, provided that:
 
 &emsp;" '(A) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be equal to the threshold amount or less, no alternative level may be fixed under this section unless necessary because a state of war or severe economic conditions exist.
 
-&emsp;" '(B) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be greater thanthe threshold amount, no alternative level may be fixed—
+&emsp;" '(B) If the estimated cost of the comparability payments which (but for this section) would otherwise be payable in such year would be greater than the threshold amount, no alternative level may be fixed—
 
 &emsp;&emsp;" '(i) at a level which would result in an estimated cost equal to or greater than the threshold amount, unless necessary because of national emergency or serious economic conditions affecting the general welfare; or
 

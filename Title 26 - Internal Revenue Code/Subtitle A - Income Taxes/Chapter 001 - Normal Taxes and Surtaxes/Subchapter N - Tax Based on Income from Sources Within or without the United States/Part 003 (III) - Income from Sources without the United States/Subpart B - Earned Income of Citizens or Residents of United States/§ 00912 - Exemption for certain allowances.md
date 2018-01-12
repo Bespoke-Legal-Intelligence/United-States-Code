@@ -16,7 +16,7 @@ The following items shall not be included in gross income, and shall be exempt f
 
 #### (2) Cost-of-living allowances
 
-&emsp;In the case of civilian officers or employees of the Government of the United States stationed outside the continental United States (other than Alaska), amounts (other thanamounts received under title II of the Overseas Differentials and Allowances Act) received as cost-of-living allowances in accordance with regulations approved by the President (or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations).
+&emsp;In the case of civilian officers or employees of the Government of the United States stationed outside the continental United States (other than Alaska), amounts (other than amounts received under title II of the Overseas Differentials and Allowances Act) received as cost-of-living allowances in accordance with regulations approved by the President (or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations).
 
 #### (3) Peace Corps allowances
 

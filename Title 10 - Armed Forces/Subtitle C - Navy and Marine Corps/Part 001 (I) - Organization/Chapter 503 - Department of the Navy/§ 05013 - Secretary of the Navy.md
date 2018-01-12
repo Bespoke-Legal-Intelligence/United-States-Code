@@ -100,7 +100,7 @@ Prohibited Consideration.—Cash payments are not authorized to be made as consi
 
 #### Multi-Trades Demonstration Project
 
-Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, §329, Jan. 28, 2008, 122 Stat. 67; Pub. L. 112–239, div. A, title III, §321, Jan. 2, 2013, 126 Stat. 1694; Pub. L. 113–66, div. A, title X, §1091(d), Dec. 26, 2013, 127 Stat. 876, provided that:
+Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, §329, Jan. 28, 2008, 122 Stat. 67; Pub. L. 112–239, div. A, title III, §321, Jan. 2, 2013, 126 Stat. 1694; Pub. L. 113–66, div. A, title X, §1091(d), Dec. 26, 2013, 127 Stat. 876; Pub. L. 115–91, div. A, title III, §321, Dec. 12, 2017, 131 Stat. 1352, provided that:
 
 "(a)
 
@@ -122,11 +122,11 @@ Participating Workers.—(1) Actual worker participation in the demonstration pr
 
 "(d)
 
-Duration.—The demonstration project shall be conducted during fiscal years 2008 through 2018.
+Duration.—The demonstration project shall be conducted during fiscal years 2008 through 2023.
 
 "(e)
 
-Report.—Not later than January 15, 2019, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary's recommendation on whether permanent multi-trade authority should be authorized.
+Report.—Not later than January 15, 2024, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary's recommendation on whether permanent multi-trade authority should be authorized.
 
 "(f) GAO
 
@@ -142,11 +142,11 @@ Pub. L. 103–160, div. A, title XIII, §1374, Nov. 30, 1993, 107 Stat. 1821, as
 
 "(a)
 
-Demonstration Project Authorized.—The Secretary of the Navy may conduct a demonstration project to test the feasibility of using Navy facilities to provide employment training to nonviolent offenders in a State penal system prior to their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
+Demonstration Project Authorized.—The Secretary of the Navy may conduct a demonstration project to test the feasibility of using Navy facilities toprovide employment training to nonviolent offenders in a State penal system prior to their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
 
 "(b)
 
-Sources of Training.—The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorizedunder subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
+Sources of Training.—The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorized under subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
 
 "(c)
 

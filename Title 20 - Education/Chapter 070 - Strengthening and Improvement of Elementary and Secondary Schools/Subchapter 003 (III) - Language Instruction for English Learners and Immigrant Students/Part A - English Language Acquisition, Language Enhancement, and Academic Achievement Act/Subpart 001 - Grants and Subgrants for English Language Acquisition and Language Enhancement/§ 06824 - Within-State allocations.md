@@ -16,7 +16,7 @@ Whenever a State educational agency determines that an amount from an allocation
 
 A State educational agency receiving a grant under this subpart for a fiscal year—
 
-&emsp;(1) shall reserve not more than 15 percent of the agency's allotment under section 6821(c)(2) of this title to award subgrants to eligible entities in the State that have experienced a significant increase, as compared to the average of the 2 preceding fiscal years, in the percentage or number of immigrant children and youth, who have enrolled, during the fiscal year for which the subgrant is made, in public and nonpublic elementary schools and secondary schools in the geographic areas under the jurisdiction of, or served by, such entities; and
+&emsp;(1) shall reserve not more than 15 percent of the agency's allotment under section 6821(c)(2) of this title to award subgrants to eligible entities in the State that have experienced a significant increase, as compared to the averageof the 2 preceding fiscal years, in the percentage or number of immigrant children and youth, who have enrolled, during the fiscal year for which the subgrant is made, in public and nonpublic elementary schools and secondary schools in the geographic areas under the jurisdiction of, or served by, such entities; and
 
 &emsp;(2) in awarding subgrants under paragraph (1)—
 

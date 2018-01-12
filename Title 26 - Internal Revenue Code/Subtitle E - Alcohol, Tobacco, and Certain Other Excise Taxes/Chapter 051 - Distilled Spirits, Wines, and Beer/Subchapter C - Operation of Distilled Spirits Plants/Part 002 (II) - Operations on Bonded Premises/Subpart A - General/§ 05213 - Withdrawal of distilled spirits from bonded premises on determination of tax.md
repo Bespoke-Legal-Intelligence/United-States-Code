@@ -1,6 +1,6 @@
 ### §5213. Withdrawal of distilled spirits from bonded premises on determination of tax
 
-Subject to the provisions of section 5173, distilled spirits may be withdrawn from the bonded premises of a distilled spirits plant on payment or determination of tax thereon, in approvedcontainers, under such regulations as the Secretary shall prescribe.
+Subject to the provisions of section 5173, distilled spirits may be withdrawn from the bonded premises of a distilled spirits plant on payment or determination of tax thereon, in approved containers, under such regulations as the Secretary shall prescribe.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(27), July 26, 1979, 93 Stat. 285.)
 

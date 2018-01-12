@@ -64,7 +64,7 @@ Transfers of apportionments.—
 
 &emsp;&emsp;(A)
 
-Transfer flexibility for national distribution funds.—The Governor of a State may transfer any part of the State's apportionment under paragraph (5)(A) to supplement amounts apportioned to the State under section 5311(c) or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336.
+Transfer flexibility for national distribution funds.—The Governor of a State may transfer any part of the State'sapportionment under paragraph (5)(A) to supplement amounts apportioned to the State under section 5311(c) or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336.
 
 &emsp;&emsp;(B)
 
@@ -110,7 +110,7 @@ Purpose of state pools.—The purpose of a State pool shall be to allow for tran
 
 &emsp;&emsp;(C)
 
-Requests for participation.—A State, and eligible recipients in the State described in subparagraph (A), may submit to the Secretary a request for participation in the program under procedures to be established bythe Secretary. An eligible recipient for a multistate area may participate in only 1 State pool.
+Requests for participation.—A State, and eligible recipients in the State described in subparagraph (A), may submit to the Secretary a request for participation in the program under procedures to be established by the Secretary. An eligible recipient for a multistate area may participate in only 1 State pool.
 
 &emsp;&emsp;(D)
 

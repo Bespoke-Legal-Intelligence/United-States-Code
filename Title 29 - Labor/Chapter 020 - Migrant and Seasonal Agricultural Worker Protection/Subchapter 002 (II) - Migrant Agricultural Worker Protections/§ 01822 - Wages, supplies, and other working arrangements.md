@@ -6,11 +6,15 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 #### (b) Purchase of goods or services by worker
 
-No farm labor contractor, agricultural employer, or agricultural association shall requireany migrant agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.
+No farm labor contractor, agricultural employer, or agricultural association shall require any migrant agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.
 
 #### (c) Violation of terms of working arrangement
 
 No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.
 
 (Pub. L. 97–470, title II, §202, Jan. 14, 1983, 96 Stat. 2591.)
+
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 

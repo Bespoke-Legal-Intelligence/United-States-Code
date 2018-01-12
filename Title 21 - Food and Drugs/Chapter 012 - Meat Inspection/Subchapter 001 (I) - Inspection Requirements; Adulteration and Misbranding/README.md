@@ -30,3 +30,4 @@
 - [&sect; 00623 - Exemptions from inspection requirements](%C2%A7%2000623%20-%20Exemptions%20from%20inspection%20requirements.md)
 - [&sect; 00624 - Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction](%C2%A7%2000624%20-%20Storage%20and%20handling%20regulations%3B%20violations%3B%20exemption%20of%20establishments%20subject%20to%20non-Federal%20jurisdiction.md)
 - [&sect; 00625 - Inapplicability of certain requirements to catfish](%C2%A7%2000625%20-%20Inapplicability%20of%20certain%20requirements%20to%20catfish.md)
+- [&sect; 00626 - Purchase of tags, labels, stamps, and certificates](%C2%A7%2000626%20-%20Purchase%20of%20tags%2C%20labels%2C%20stamps%2C%20and%20certificates.md)

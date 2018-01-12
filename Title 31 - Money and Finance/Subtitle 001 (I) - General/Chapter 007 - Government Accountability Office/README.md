@@ -31,6 +31,7 @@
 | [718\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000718%20-%20Availability%20of%20draft%20reports.md) | Availability of draft reports. |
 | [719\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000719%20-%20Comptroller%20General%20reports.md) | Comptroller General reports. |
 | [720\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000720%20-%20Agency%20reports.md) | Agency reports. |
+| [721\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000721%20-%20Access%20to%20certain%20information.md) | Access to certain information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -97,6 +98,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–3, §2(d), Jan. 31, 2017, 131 Stat. 8, added item 721.
 
 <b>2014</b>—Pub. L. 113–235, div. H, title I, §1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
 

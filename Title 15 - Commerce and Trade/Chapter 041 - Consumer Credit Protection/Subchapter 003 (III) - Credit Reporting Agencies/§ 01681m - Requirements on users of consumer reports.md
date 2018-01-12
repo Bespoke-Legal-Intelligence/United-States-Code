@@ -2,7 +2,7 @@
 
 #### (a) Duties of users taking adverse actions on basis of information contained in consumer reports
 
-If any person takes any adverse action with respect to any consumer that is based in whole or in part on any information contained in a consumer report, the person shall—
+If any person takes any adverse action with respect to any consumer that is based in wholeor in part on any information contained in a consumer report, the person shall—
 
 &emsp;(1) provide oral, written, or electronic notice of the adverse action to the consumer;
 
@@ -28,7 +28,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 #### (1) In general
 
-&emsp;Whenever credit for personal, family, or household purposes involving a consumer isdenied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
 
 #### (2) Duties of person taking certain actions based on information provided by affiliate
 
@@ -126,7 +126,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (3) Consistency with verification requirements
 
-&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(l) of title 31.
+&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with thepolicies and procedures required under section 5318(l) of title 31.
 
 #### (4) Definitions
 
@@ -158,7 +158,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -204,7 +204,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge;
 
-&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
+&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency forobtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
 
 &emsp;&emsp;(E) include a statement informing the consumer of—
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date
 

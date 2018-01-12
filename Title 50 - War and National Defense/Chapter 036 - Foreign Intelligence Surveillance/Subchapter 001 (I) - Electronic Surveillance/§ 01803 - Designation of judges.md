@@ -16,7 +16,7 @@
 
 #### (b) Court of review; record, transmittal to Supreme Court
 
-The Chief Justice shall publicly designate three judges, one of whom shall be publicly designated as the presiding judge, from the United States district courts or courts of appeals who together shall comprise a court of review which shall have jurisdiction to review the denial ofany application made under this chapter. If such court determines that the application was properly denied, the court shall immediately provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
+The Chief Justice shall publicly designate three judges, one of whom shall be publicly designated as the presiding judge, from the United States district courts or courts of appeals who together shall comprise a court of review which shall have jurisdiction to review the denial of any application made under this chapter. If such court determines that the application was properly denied, the court shall immediately provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 
 #### (c) Expeditious conduct of proceedings; security measures for maintenance of records
 
@@ -68,7 +68,7 @@ Nothing in this chapter shall be construed to reduce or contravene the inherent 
 
 #### (1) Designation
 
-&emsp;The presiding judges of the courts established under subsections (a) and (b) shall, not later than 180 days after June 2, 2015, jointly designate not fewer than 5 individuals to be eligible to serve as amicus curiae, who shall serve pursuant to rules the presiding judges may establish. In designating such individuals, the presiding judges may consider individuals recommended by any source, including members of the Privacy and Civil Liberties Oversight Board, the judges determine appropriate.
+&emsp;The presiding judges of the courts established under subsections (a) and (b) shall, not later than 180 days after June 2, 2015, jointlydesignate not fewer than 5 individuals to be eligible to serve as amicus curiae, who shall serve pursuant to rules the presiding judges may establish. In designating such individuals, the presiding judges may consider individuals recommended by any source, including members of the Privacy and Civil Liberties Oversight Board, the judges determine appropriate.
 
 #### (2) Authorization
 
@@ -76,7 +76,7 @@ Nothing in this chapter shall be construed to reduce or contravene the inherent 
 
 &emsp;&emsp;(A) shall appoint an individual who has been designated under paragraph (1) to serve as amicus curiae to assist such court in the consideration of any application for an order or review that, in the opinion of the court, presents a novel or significant interpretation of the law, unless the court issues a finding that such appointment is not appropriate; and
 
-&emsp;&emsp;(B) may appoint an individual or organization to serve as amicus curiae, including toprovide technical expertise, in any instance as such court deems appropriate or, upon motion, permit an individual or organization leave to file an amicus curiae brief.
+&emsp;&emsp;(B) may appoint an individual or organization to serve as amicus curiae, including to provide technical expertise, in any instance as such court deems appropriate or, upon motion, permit an individual or organization leave to file an amicus curiae brief.
 
 #### (3) Qualifications of amicus curiae
 
@@ -138,7 +138,7 @@ Nothing in this chapter shall be construed to reduce or contravene the inherent 
 
 #### (10) Receipt of information
 
-&emsp;Nothing in this subsection shall limit the ability of a court established under subsection (a) or (b) to request or receive information or materials from, or otherwise communicate with, the Government or amicus curiae appointed under paragraph (2) on an ex parte basis, nor limit any special or heightened obligation in any ex parte communication or proceeding.
+&emsp;Nothing in this subsection shall limit the ability of a court established under subsection (a) or (b) to request or receive information or materials from, or otherwise communicatewith, the Government or amicus curiae appointed under paragraph (2) on an ex parte basis, nor limit any special or heightened obligation in any ex parte communication or proceeding.
 
 #### (j) Review of FISA court decisions
 
@@ -152,7 +152,7 @@ Following issuance of an order under this chapter, a court established under sub
 
 #### (2) Amicus curiae briefing
 
-&emsp;Upon certification of an application under paragraph (1), the Supreme Court of theUnited States may appoint an amicus curiae designated under subsection (i)(1), or any other person, to provide briefing or other assistance.
+&emsp;Upon certification of an application under paragraph (1), the Supreme Court of the United States may appoint an amicus curiae designated under subsection (i)(1), or any other person, to provide briefing or other assistance.
 
 (Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748; Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279.)
 

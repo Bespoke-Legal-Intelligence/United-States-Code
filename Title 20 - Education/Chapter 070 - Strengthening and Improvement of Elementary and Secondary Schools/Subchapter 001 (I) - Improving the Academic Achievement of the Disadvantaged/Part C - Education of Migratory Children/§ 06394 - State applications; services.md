@@ -20,7 +20,7 @@ Each such application shall include—
 
 &emsp;(2) a description of the steps the State is taking to provide all migratory students with the opportunity to meet the same challenging State academic standards that all children are expected to meet;
 
-&emsp;(3) a description of how the State will use funds received under this part to promote interstate and intrastate coordination of services for migratory children, including how the State will provide for educational continuity through the timely transfer of pertinent school records, including information on health, when children move from one school to another, whether or not such move occurs during the regular school year;
+&emsp;(3) a description of how the State will use funds received under this part to promote interstate and intrastate coordination of services for migratory children, including how the State will provide for educational continuitythrough the timely transfer of pertinent school records, including information on health, when children move from one school to another, whether or not such move occurs during the regular school year;
 
 &emsp;(4) a description of the State's priorities for the use of funds received under this part, and how such priorities relate to the State's assessment of needs for services in the State;
 
@@ -68,7 +68,7 @@ Each such application shall also include assurances that—
 
 #### (d) Priority for services
 
-In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children whohave made a qualifying move within the previous 1-year period and who—
+In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children who have made a qualifying move within the previous 1-year period and who—
 
 &emsp;(1) are failing, or most at risk of failing, to meet the challenging State academic standards; or
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The breeder of any sexually reproduced or tuber propagated plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
+The breeder of any sexually reproduced or tuber propagated plant variety (other than fungior bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
 
 &emsp;(1) new, in the sense that, on the date of filing of the application for plant variety protection, propagating or harvested material of the variety has not been sold or otherwise disposed of to other persons, by or with the consent of the breeder, or the successor in interest of the breeder, for purposes of exploitation of the variety—
 
@@ -10,7 +10,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;(B) in any area outside of the United States—
 
-&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing, except that in the case of a tuberpropagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996; or
+&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a tree or vine, more than 6 years prior to the date of filing;
 

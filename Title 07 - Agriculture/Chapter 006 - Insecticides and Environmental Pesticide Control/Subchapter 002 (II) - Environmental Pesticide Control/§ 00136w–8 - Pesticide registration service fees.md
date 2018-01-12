@@ -742,7 +742,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 &emsp;&emsp;The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
 
-&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)); and
+&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 (7 U.S.C. 450i(e)); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) the exemption is in the public interest.
 
@@ -780,7 +780,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (A) Early withdrawals
 
-&emsp;&emsp;If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.<sup>1</sup> of the total registration service fee payable under paragraph (3) for the application.
+&emsp;&emsp;If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent.<sup>2</sup> of the total registration service fee payable under paragraph (3) for the application.
 
 #### (B) Withdrawals after the first 60 days of decision review time period
 
@@ -814,7 +814,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (D) Credited fees
 
-&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administratorshall take into account any portion of the registration service fees credited under paragraph (2) or (4).
+&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administrator shall take into account any portion of the registration service fees credited under paragraph (2) or (4).
 
 #### (c) Pesticide Registration Fund
 
@@ -1240,6 +1240,8 @@ The effective date of the Pesticide Registration Improvement Act of 2003, and th
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
+Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.
+
 The effective date of the Pesticide Registration Improvement Extension Act of 2012, referred to in subsecs. (e) and (f)(1), probably means the effective date of section 2 of Pub. L. 112–177, which is Oct. 1, 2012, see section 2(c) of Pub. L. 112–177, set out as a note under section 136a–1 of this title.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
@@ -1318,7 +1320,7 @@ Subsec. (m)(2)(C). Pub. L. 112–177, §2(b)(7)(B)(iii), substituted "2019" for 
 
 Subsec. (m)(2)(D). Pub. L. 112–177, §2(b)(7)(B)(iv), substituted "2017" for "2012" in cls. (i) and (ii).
 
-<b>2008</b>—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide."
+<b>2008</b>—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i).Prior to amendment, text read as follows: "The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide."
 
 Subsec. (b)(7)(D)(ii). Pub. L. 110–193, §1(a)(1)(A)(ii), inserted "or exemption" after "waiver".
 
@@ -1400,5 +1402,7 @@ Amendment by Pub. L. 110–94 effective Oct. 1, 2007, see section 6 of Pub. L. 1
 
 Section effective on the date that is 60 days after Jan. 23, 2004, except as otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
 

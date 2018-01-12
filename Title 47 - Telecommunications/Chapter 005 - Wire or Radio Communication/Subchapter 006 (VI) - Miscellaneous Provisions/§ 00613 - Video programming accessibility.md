@@ -66,7 +66,7 @@ Notwithstanding subsection (b)—
 
 #### (e) Undue burden
 
-The term "undue burden" means significant difficulty or expense. In determining whether the closed captions necessary to comply with the requirements of this paragraph would result in an undue economic burden, the factors to be considered include—
+The term "undue burden" means significant difficulty or expense. In determining whetherthe closed captions necessary to comply with the requirements of this paragraph would result in an undue economic burden, the factors to be considered include—
 
 &emsp;(1) the nature and cost of the closed captions for the programming;
 
@@ -176,7 +176,7 @@ For purposes of this section, section 303 of this title, and section 330 of this
 
 #### (2) Video programming
 
-&emsp;The term "video programming" means programming by, or generally considered comparable to programming provided by a television broadcast station, but not includingconsumer-generated media (as defined in section 153 of this title).
+&emsp;The term "video programming" means programming by, or generally considered comparable to programming provided by a television broadcast station, but not including consumer-generated media (as defined in section 153 of this title).
 
 #### (j) <sup>2</sup> Private rights of actions prohibited
 
@@ -214,7 +214,7 @@ Subsec. (f)(2)(B). Pub. L. 111–265, §2(7), inserted "have" after "nonbroadcas
 
 Subsec. (f)(4)(C)(iii). Pub. L. 111–265, §2(8), inserted "and Commerce" after "Energy".
 
-Subsec. (g). Pub. L. 111–260, §202(a)(1), (3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "For purposes of this section, 'video description' means the insertion of audio narrated descriptions of a television program's key visual elements into natural pauses between the program's dialogue."
+Subsec. (g). Pub. L. 111–260, §202(a)(1), (3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "For purposes of thissection, 'video description' means the insertion of audio narrated descriptions of a television program's key visual elements into natural pauses between the program's dialogue."
 
 Subsecs. (h), (j). Pub. L. 111–260, §202(a)(2), (3), added subsec. (h) and redesignated former subsec. (h) as (j).
 

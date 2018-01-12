@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) A description of the limitation in paragraph (2) on their ability to make the assignments.
 
-&emsp;&emsp;(C) Information regarding the manner in which the assignments must be made and the time periods and manner in which noticeof the assignments must be submitted to the Secretary.
+&emsp;&emsp;(C) Information regarding the manner in which the assignments must be made and the time periods and manner in which notice of the assignments must be submitted to the Secretary.
 
 #### (4) Assignment deadlines
 

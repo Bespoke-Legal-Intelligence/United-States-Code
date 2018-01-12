@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and708 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and 708 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

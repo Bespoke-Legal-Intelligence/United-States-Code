@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(V) the United States Postal Service;
 
-&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local governmentcarrying out a duty or power of a business described in this paragraph;
 
 &emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which any business described in this paragraph is authorized to engage; or
 
-&emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have ahigh degree of usefulness in criminal, tax, or regulatory matters.
+&emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have a high degree of usefulness in criminal, tax, or regulatory matters.
 
 &emsp;(3) "monetary instruments" means—
 
@@ -144,7 +144,7 @@ In subsection (a)(3)(B), the words "in addition", and "and such types of" are om
 
 In subsection (a)(4), the words "in addition to its meaning under section 1 of title 1" are substituted for "natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities" for consistency because 1:1 is applicable to all laws unless otherwise provided. The words "a trustee, a representative of an estate" are substituted for "trusts, estates", and the word "entity" is substituted for "department or agency", for consistency. The words "either for the purpose of this chapter generally or any particular requirement thereunder" are omitted as surplus.
 
-In subsection (a)(5), the words "used in a geographic sense" are omitted because of the restatement. The words "either for the purposes of this chapter generally or any particular requirement thereunder" are omitted as surplus. The words "territory or" are added for consistency.
+In subsection (a)(5), the words "used in a geographic sense" are omitted because of the restatement. Thewords "either for the purposes of this chapter generally or any particular requirement thereunder" are omitted as surplus. The words "territory or" are added for consistency.
 
 Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
 

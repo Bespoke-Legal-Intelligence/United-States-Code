@@ -3,7 +3,7 @@ Subpart A—Foreign Tax Credit
 | Sec. |  |
 | :--- | ---: |
 | [901\.](%C2%A7%2000901%20-%20Taxes%20of%20foreign%20countries%20and%20of%20possessions%20of%20United%20States.md) | Taxes of foreign countries and of possessions of United States. |
-| [902\.](%C2%A7%2000902%20-%20Deemed%20paid%20credit%20where%20domestic%20corporation%20owns%2010%20percent%20or%20more%20of%20voting%20stock%20of%20foreign%20corporation.md) | Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation. |
+| \[902. | Repealed.\] |
 | [903\.](%C2%A7%2000903%20-%20Credit%20for%20taxes%20in%20lieu%20of%20income%2C%20etc.%2C%20taxes.md) | Credit for taxes in lieu of income, etc., taxes. |
 | [904\.](%C2%A7%2000904%20-%20Limitation%20on%20credit.md) | Limitation on credit. |
 | [905\.](%C2%A7%2000905%20-%20Applicable%20rules.md) | Applicable rules. |
@@ -15,6 +15,8 @@ Subpart A—Foreign Tax Credit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §14301(c)(38), Dec. 22, 2017, 131 Stat. 2225, struck out item 902 "Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation".
 
 <b>2010</b>—Pub. L. 111–226, title II, §211(b), Aug. 10, 2010, 124 Stat. 2395, added item 909.
 
@@ -32,7 +34,7 @@ Subpart A—Foreign Tax Credit
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00901 - Taxes of foreign countries and of possessions of United States](%C2%A7%2000901%20-%20Taxes%20of%20foreign%20countries%20and%20of%20possessions%20of%20United%20States.md)
-- [&sect; 00902 - Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation](%C2%A7%2000902%20-%20Deemed%20paid%20credit%20where%20domestic%20corporation%20owns%2010%20percent%20or%20more%20of%20voting%20stock%20of%20foreign%20corporation.md)
+- [&sect; 00902 - Repealed. Pub. L. 115&#8211;97, title I, &sect;14301(a), Dec. 22, 2017, 131 Stat. 2221](%C2%A7%2000902%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A714301%28a%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202221.md)
 - [&sect; 00903 - Credit for taxes in lieu of income, etc., taxes](%C2%A7%2000903%20-%20Credit%20for%20taxes%20in%20lieu%20of%20income%2C%20etc.%2C%20taxes.md)
 - [&sect; 00904 - Limitation on credit](%C2%A7%2000904%20-%20Limitation%20on%20credit.md)
 - [&sect; 00905 - Applicable rules](%C2%A7%2000905%20-%20Applicable%20rules.md)

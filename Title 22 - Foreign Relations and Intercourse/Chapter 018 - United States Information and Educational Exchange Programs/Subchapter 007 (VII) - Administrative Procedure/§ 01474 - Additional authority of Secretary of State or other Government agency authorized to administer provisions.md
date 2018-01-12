@@ -2,7 +2,7 @@
 
 In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
 
-&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to theUnited States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
+&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
 
 &emsp;(2) pay travel expenses of aliens employed abroad for service in the United States and their dependents to and from the United States;
 
@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 &emsp;(8) pay excise taxes on negotiable instruments abroad;
 
-&emsp;(9) pay to or for individuals, not United States Government employees, participating in activities conducted under this chapter, the costs of emergency medical expenses, preparation and transport to their former homes of the remains of such participants or their dependents who die while away from their homes during such participation, and health and accident insurance premiums for participants or health and accident benefits for participants by means of a program of self-insurance;
+&emsp;(9) pay to or for individuals, not United States Government employees, participatingin activities conducted under this chapter, the costs of emergency medical expenses, preparation and transport to their former homes of the remains of such participants or their dependents who die while away from their homes during such participation, and health and accident insurance premiums for participants or health and accident benefits for participants by means of a program of self-insurance;
 
 &emsp;(10) rent or lease, for periods not exceeding ten years, offices, buildings, grounds, and living quarters abroad for employees carrying out this chapter, and make payments therefor in advance;
 

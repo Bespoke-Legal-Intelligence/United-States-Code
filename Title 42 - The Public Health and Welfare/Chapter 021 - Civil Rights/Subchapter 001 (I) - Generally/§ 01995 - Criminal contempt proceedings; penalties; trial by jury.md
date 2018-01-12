@@ -10,5 +10,5 @@ Nor shall anything herein or in any other provision of law be construed to depri
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 85–315, Sept. 9, 1957, 71 Stat. 634, known as the Civil Rights Act of1957. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 85–315, Sept. 9, 1957, 71 Stat. 634, known as the Civil Rights Act of 1957. For complete classification of this Act to the Code, see Tables.
 

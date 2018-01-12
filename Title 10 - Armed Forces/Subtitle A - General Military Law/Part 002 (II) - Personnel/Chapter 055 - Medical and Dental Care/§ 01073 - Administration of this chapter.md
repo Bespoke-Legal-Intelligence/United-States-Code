@@ -62,7 +62,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant toobligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1980 Amendment
 
@@ -75,6 +75,38 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Repeals
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Residency Requirements for Podiatrists
+
+Pub. L. 115–91, div. A, title VII, §720, Dec. 12, 2017, 131 Stat. 1440, provided that:
+
+"(a)
+
+Requirement.—In addition to any other qualification required by law or regulation, the Secretary of Defense shall ensure that to serve as a podiatrist in the Armed Forces, an individual must have successfully completed a three-year podiatric medicine and surgical residency.
+
+"(b)
+
+Application.—Subsection (a) shall apply with respect to an individual who is commissioned as an officer in the Armed Forces on or after the date that is one year after the date of the enactment of this Act \[Dec. 12, 2017\]."
+
+#### Authorization of Physical Therapist Assistants and Occupational Therapy Assistants To Provide Services Under the TRICARE Program
+
+Pub. L. 115–91, div. A, title VII, §721, Dec. 12, 2017, 131 Stat. 1440, provided that:
+
+"(a)
+
+Addition to List of Authorized Professional Providers of Care.—The Secretary of Defense shall revise section 199.6(c) of title 32, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Dec. 12, 2017\], to add to the list of individual professional providers of care who are authorized to provide services to beneficiaries under the TRICARE program, as defined in section 1072 of title 10, United States Code, the following types of health care practitioners:
+
+&emsp;"(1) Licensed or certified physical therapist assistants who meet the qualifications for physical therapist assistants specified in section 484.4 of title 42, Code of Federal Regulations, or any successor regulation, to furnish services under the supervision of a physical therapist.
+
+&emsp;"(2) Licensed or certified occupational therapy assistants who meet the qualifications for occupational therapy assistants specified in such section 484.4, or any successor regulation, to furnish services under the supervision of an occupational therapist.
+
+"(b)
+
+Supervision.—The Secretary of Defense shall establish in regulations requirements for the supervision of physical therapist assistants and occupational therapy assistants, respectively, by physical therapists and occupational therapists, respectively.
+
+"(c)
+
+Manuals and Other Guidance.—The Secretary of Defense shall update the CHAMPVA Policy Manual and other relevant manuals and subregulatory guidance of the Department of Defense to carry out the revisions and requirements of this section."
 
 #### Termination of TRICARE Standard and TRICARE Extra
 
@@ -118,7 +150,7 @@ Report on value-based health care methodology.—Not later than 180 days after t
 
 &emsp;&emsp;"(ii) a list of high-value providers.
 
-&emsp;"(D) A description of modifications, if any, to existing health care contracts that may be required to implement value-based health care methodology in the purchased care component of the TRICARE program under the pilot program and the estimated costs of those contract modifications.
+&emsp;"(D) A description of modifications, if any, to existing health care contracts that may be required to implement value-based health care methodology in thepurchased care component of the TRICARE program under the pilot program and the estimated costs of those contract modifications.
 
 "(4)
 
@@ -374,7 +406,7 @@ Availability of Information on Designation.—
 
 &emsp;"(1)
 
-Registry.—The Secretary of Defense shall establish and update as necessary a publically available registry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
+Registry.—The Secretary of Defense shall establish and update as necessary a publically availableregistry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
 
 &emsp;"(2)
 
@@ -504,7 +536,7 @@ Annual Reports.—Not later than December 31 of each year an agreement entered i
 
 "(d)
 
-Rule of Construction.—Nothing in this section shall be construed as authorizing the provision of health care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
+Rule of Construction.—Nothing in this section shall be construed as authorizing the provision ofhealth care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
 
 #### Inpatient Mental Health Service
 
@@ -788,7 +820,7 @@ Pub. L. 109–163, div. A, title VII, §717, Jan. 6, 2006, 119 Stat. 3345, provi
 
 "(a)
 
-Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual maybe selected to serve in the position of Regional Director under the TRICARE program unless the individual—
+Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
 &emsp;"(1) is—
 
@@ -932,7 +964,7 @@ Waiver Authority.—The Secretary may waive the prohibition in subsection (a) if
 
 &emsp;&emsp;"(C) determines that the lack of nonavailability statement data would significantly interfere with TRICARE contract administration;
 
-&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care at the military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
+&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care atthe military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
 
 &emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiver under this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
 
@@ -1146,7 +1178,7 @@ Covered Sources.—The regulations shall apply to the following:
 
 &emsp;"(1) Pharmacies and any other dispensers of prescription medications in medical facilities of the uniformed services.
 
-&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by any of the administering Secretaries under chapter 55 of title 10, United States Code.
+&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by anyof the administering Secretaries under chapter 55 of title 10, United States Code.
 
 &emsp;"(3) Pharmacies paid under the Civilian Health and Medical Program of the Uniformed Services (including the TRICARE program).
 
@@ -1300,7 +1332,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
 
-"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10,United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
+"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10, United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
 "(f)
 
@@ -1396,7 +1428,7 @@ Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, provi
 
 "(a)
 
-Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
+Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in needof mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
 
 "(2) A child shall be eligible for selection to participate in the pilot program if the child is a dependent (as described in subparagraph (D) or (I) of section 1072(2) of title 10, United States Code) who—
 
@@ -1466,7 +1498,7 @@ Annual Report.—Not later than March 1, 1997, and each March 1 thereafter, the 
 
 #### Use of Health Maintenance Organization Model as Option for Military Health Care
 
-Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, titleVII, §715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, §714, Feb. 10, 1996, 110 Stat. 374, provided that:
+Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, §715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, §714, Feb. 10, 1996, 110 Stat. 374, provided that:
 
 "(a)
 
@@ -1602,7 +1634,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: "That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographicexpansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate."
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: "That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate."
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 
@@ -1620,7 +1652,7 @@ Certification of Cost-Effectiveness.—The Secretary of Defense may not proceed 
 
 "(b)
 
-Report on Certification.—Not later than 30 days after the date on which the Secretary of Defense submits the certification required by subsection (a), the Comptroller General of the United States and the Director of the Congressional Budget Office shall jointly submit to Congress a report evaluating such certification.
+Report on Certification.—Not later than 30 days after the date on which the Secretary of Defense submits the certification required by subsection (a),the Comptroller General of the United States and the Director of the Congressional Budget Office shall jointly submit to Congress a report evaluating such certification.
 
 "(c)
 
@@ -1708,7 +1740,7 @@ Study of Health Care Alternatives.—(1) The demonstration project required by s
 
 "(c)
 
-Phased Implementation of CHAMPUS Reform Initiative.—(1) The Secretary of Defense may proceed with implementation of the CHAMPUS reform initiative, to be carried out in two phases during a period of not less than two years, if—
+Phased Implementation of CHAMPUS Reform Initiative.—(1) The Secretary of Defense may proceedwith implementation of the CHAMPUS reform initiative, to be carried out in two phases during a period of not less than two years, if—
 
 &emsp;"(A) the Secretary determines, based on the results of the demonstration project required by subsection (a)(1), that such initiative should be implemented;
 

@@ -10,7 +10,7 @@
 
 &emsp;In prescribing standards and procedures under paragraph (1), the Secretary, at a minimum, shall—
 
-&emsp;&emsp;(A) prescribe procedures for informing enrollees that drug tests will be administered to the enrollees and the results received within 45 days after the enrollees enroll in the Job Corps;
+&emsp;&emsp;(A) prescribe procedures for informing enrollees that drug tests will be administeredto the enrollees and the results received within 45 days after the enrollees enroll in the Job Corps;
 
 &emsp;&emsp;(B) establish standards for recruitment of Job Corps applicants;
 

@@ -4,7 +4,7 @@
 
 In the case of a corporation, there shall be allowed as a deduction an amount equal to the following percentages of the amount received as dividends from a domestic corporation which is subject to taxation under this chapter:
 
-&emsp;(1) 70 percent, in the case of dividends other than dividends described in paragraph (2) or (3);
+&emsp;(1) 50 percent, in the case of dividends other than dividends described in paragraph (2) or (3);
 
 &emsp;(2) 100 percent, in the case of dividends received by a small business investment company operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following); and
 
@@ -58,11 +58,11 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;An election under this paragraph shall be made by the common parent of the affiliated group and at such time and in such manner as the Secretary shall by regulations prescribe. Any such election shall be binding on all members of such group and may be revoked only with the consent of the Secretary.
 
-#### (c) Retention of 80-percent dividends received deduction for dividends from 20-percent owned corporations
+#### (c) Increased percentage for dividends from 20-percent owned corporations
 
 #### (1) In general
 
-&emsp;In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall be applied by substituting "80 percent" for "70 percent".
+&emsp;In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall be applied by substituting "65 percent" for "50 percent".
 
 #### (2) 20-percent owned corporation
 
@@ -76,13 +76,13 @@ For purposes of subsection (a)—
 
 &emsp;(2) A dividend received from a regulated investment company shall be subject to the limitations prescribed in section 854.
 
-&emsp;(3) Any dividend received from a real estate investment trust which, for the taxable year of the trust in which the dividend is paid, qualifies under part II of subchapter M (section 856 and following) shall not be treated as a dividend.
+&emsp;(3) Any dividend received from a real estate investment trust which, for the taxable yearof the trust in which the dividend is paid, qualifies under part II of subchapter M (section 856 and following) shall not be treated as a dividend.
 
 #### (e) Certain dividends from foreign corporations
 
 For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874; Pub. L. 113–295, div. A, title II, §221(a)(41)(C), (D), Dec. 19, 2014, 128 Stat. 4044.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874; Pub. L. 113–295, div. A, title II, §221(a)(41)(C), (D), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §13002(a), Dec. 22, 2017, 131 Stat. 2100.)
 
 #### References in Text
 
@@ -91,6 +91,12 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub
 Section 1562, referred to in subsec. (b)(1)(B)(i), was repealed by Pub. L. 91–172, title IV, §401(a)(2), Dec. 30, 1969, 83 Stat. 600.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–97, §13002(a)(1), substituted "50 percent" for "70 percent".
+
+Subsec. (c). Pub. L. 115–97, §13002(a)(3), which directed amendment of subsec. (c) heading by substituting "Increased percentage" for "Retention of 80-percent dividend received deduction", was executed by making the substitution for "Retention of 80-percent dividends received deduction", to reflect the probable intent of Congress.
+
+Subsec. (c)(1). Pub. L. 115–97, §13002(a)(2), substituted "65 percent" for "80 percent" and "50 percent" for "70 percent".
 
 <b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"In the case of any dividend received from a 20-percent owned corporation—
 
@@ -134,7 +140,7 @@ Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out "(except that 
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted "election under section 901(a) (relating to allowance of foreign tax credit)" for "elections under section 901(a) (relating to allowance of foreign tax credit) and section 904(b)(1) (relating to election of overall limitation)".
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, and substituted "certain exploration expenditures under section 617(h)(1)" for "exploration expenditures under sections 615(c)(1) and 617(h)(1)" in cl. (ii) as so redesignated, "804(a)(3)" for "804(a)(4)" in cl. (iii) as so redesignated, and "section 6154(c)(2) and section 6655(e)(2)" for "sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)" in cl. (iv) as so redesignated.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, and substituted "certain exploration expenditures under section 617(h)(1)" for "exploration expenditures undersections 615(c)(1) and 617(h)(1)" in cl. (ii) as so redesignated, "804(a)(3)" for "804(a)(4)" in cl. (iii) as so redesignated, and "section 6154(c)(2) and section 6655(e)(2)" for "sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)" in cl. (iv) as so redesignated.
 
 Subsec. (b)(5). Pub. L. 94–455, §1051(f)(2), inserted ", 1504(b)(4)," after "sections 1504(b)(2)".
 
@@ -159,6 +165,10 @@ Subsec. (d). Pub. L. 86–779, §3(a), added subsec. (d).
 <b>1958</b>—Subsec. (a). Pub. L. 85–866, §57(b)(1), inserted "(other than a small business investment company operating under the Small Business Investment Act of 1958)".
 
 Subsecs. (b), (c). Pub. L. 85–866, §57(b)(2), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted "subsections (a) and (b)" for "subsection (a)".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13002(f), Dec. 22, 2017, 131 Stat. 2101, provided that: "The amendments made by this section \[amending this section and sections 245, 246, 246A, and 861 of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2014 Amendment
 

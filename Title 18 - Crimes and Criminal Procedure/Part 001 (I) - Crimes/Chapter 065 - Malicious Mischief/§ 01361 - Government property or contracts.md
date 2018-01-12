@@ -4,11 +4,11 @@ Whoever willfully injures or commits any depredation against any property of the
 
 If the damage or attempted damage to such property exceeds the sum of $1,000, by a fine under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $1,000, by a fine under this title or by imprisonment for not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII,§330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §82 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015;June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., §82 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 The embezzlement and theft provisions of section 82 of title 18, U.S.C., 1940 ed., are now incorporated in section 641 of this title.
 

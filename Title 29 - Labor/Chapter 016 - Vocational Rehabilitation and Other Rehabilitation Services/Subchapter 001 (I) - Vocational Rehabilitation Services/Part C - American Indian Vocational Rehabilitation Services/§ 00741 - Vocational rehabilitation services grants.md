@@ -16,7 +16,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(D) contains assurances that—
 
-&emsp;&emsp;(i) all decisions affecting eligibility for vocational rehabilitation services, the natureand scope of available vocational rehabilitation services and the provision of such services will, consistent with this subchapter, be made by a representative of the tribal vocational rehabilitation program funded through the grant; and
+&emsp;&emsp;(i) all decisions affecting eligibility for vocational rehabilitation services, the nature and scope of available vocational rehabilitation services and the provision of such services will, consistent with this subchapter, be made by a representative of the tribal vocational rehabilitation program funded through the grant; and
 
 &emsp;&emsp;(ii) such decisions will not be delegated to another agency or individual.
 

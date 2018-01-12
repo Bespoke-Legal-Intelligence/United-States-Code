@@ -64,7 +64,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1084(5)(A)(ii), added par. (1) and struck o
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
+Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "section 8 of theFederal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
 Subsec. (b). Pub. L. 111–203, §1084(5)(B), inserted "any of paragraphs (1) through (4) of" before "subsection (a)" in two places.
 
@@ -80,7 +80,7 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Board;
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 

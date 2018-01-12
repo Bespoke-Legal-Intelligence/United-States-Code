@@ -10,7 +10,7 @@ The Coordinating Committee shall, with respect to deafness and other communicati
 
 &emsp;(1) provide for the coordination of the activities of the national research institutes; and
 
-&emsp;(2) coordinate the aspects of all Federal health programs and activities relating todeafness and other communication disorders in order to assure the adequacy and technical soundness of such programs and activities and in order to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities.
+&emsp;(2) coordinate the aspects of all Federal health programs and activities relating to deafness and other communication disorders in order to assure the adequacy and technical soundness of such programs and activities and in order to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities.
 
 #### (c) Composition
 
@@ -18,7 +18,7 @@ The Coordinating Committee shall be composed of the directors of each of the nat
 
 #### (d) Chairman; meetings
 
-The Coordinating Committee shall be chaired by the Director of NIH (or the designee of the Director). The Committee shall meet at the call of the chair, but not less often than four times a year.
+The Coordinating Committee shall be chaired by the Director of NIH (or the designee of theDirector). The Committee shall meet at the call of the chair, but not less often than four times a year.
 
 (July 1, 1944, ch. 373, title IV, §464E, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4237; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title XX, §2008(b)(9), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §104(b)(1)(K), Jan. 15, 2007, 120 Stat. 3693.)
 

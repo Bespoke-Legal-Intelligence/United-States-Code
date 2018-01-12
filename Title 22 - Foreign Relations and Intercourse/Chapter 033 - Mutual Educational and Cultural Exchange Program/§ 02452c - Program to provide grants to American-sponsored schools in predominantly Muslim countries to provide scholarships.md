@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department of State is financially assisting 189 elementary and secondary schools in foreign countries.
+&emsp;(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department ofState is financially assisting 189 elementary and secondary schools in foreign countries.
 
 &emsp;(2) United States-sponsored elementary and secondary schools are located in more than 20 countries with predominantly Muslim populations in the Near East, Africa, South Asia, Central Asia, and East Asia.
 

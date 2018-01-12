@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the amount of the inversion gain for the taxable year, and
 
-&emsp;&emsp;(B) the highest rate of tax specified in section 11(b)(1).
+&emsp;&emsp;(B) the highest rate of tax specified in section 11(b).
 
 > &emsp;For purposes of determining the credit allowed by section 901, inversion gain shall be treated as from sources within the United States.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) gain recognized for the taxable year by the partner by reason of the transfer during the applicable period of any partnership interest of the partner in such partnership to the surrogate foreign corporation, and
 
-&emsp;&emsp;(C) the highest rate of tax specified in the rate schedule applicable to the partner under this chapter shall be substituted for the rate of tax referred to in paragraph (1).
+&emsp;&emsp;(C) the highest rate of tax specified in the rate schedule applicable to the partnerunder this chapter shall be substituted for the rate of tax referred to in paragraph (1).
 
 #### (3) Coordination with section 172 and minimum tax
 
@@ -162,11 +162,17 @@ The Secretary shall provide such regulations as are necessary to carry out this 
 
 &emsp;(2) transactions designed to have persons cease to be (or not become) members of expanded affiliated groups or related persons.
 
-(Added Pub. L. 108–357, title VIII, §801(a), Oct. 22, 2004, 118 Stat. 1562; amended Pub. L. 109–135, title IV, §403(u), Dec. 21, 2005, 119 Stat. 2628.)
+(Added Pub. L. 108–357, title VIII, §801(a), Oct. 22, 2004, 118 Stat. 1562; amended Pub. L. 109–135, title IV, §403(u), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 115–97, title I, §13001(b)(1)(C), Dec. 22, 2017, 131 Stat. 2096.)
 
 #### Amendments
 
+<b>2017</b>—Subsec. (e)(1)(B). Pub. L. 115–97 substituted "section 11(b)" for "section 11(b)(1)".
+
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b)."
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2005 Amendment
 

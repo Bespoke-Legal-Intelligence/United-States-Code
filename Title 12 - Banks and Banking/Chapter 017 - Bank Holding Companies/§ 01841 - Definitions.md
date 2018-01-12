@@ -16,7 +16,7 @@
 
 (5) Notwithstanding any other provision of this subsection—
 
-&emsp;(A) No bank and no company owning or controlling voting shares of a bank is a bank holding company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraphs (2) and (3) of subsection (g) of this section. For the purpose of the preceding sentence, bank shares shall not be deemed to have been acquired in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto; except that this limitation is applicable in the case of a bank or company acquiring such shares prior to December 31, 1970, only if the bank or company has the right consistent with its obligations under the instrument, agreement, or other arrangement establishing the fiduciaryrelationship to divest itself of such voting rights and fails to exercise that right to divest within a reasonable period not to exceed one year after December 31, 1970.
+&emsp;(A) No bank and no company owning or controlling voting shares of a bank is a bank holding company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraphs (2) and (3) of subsection (g) of this section. For the purpose of the preceding sentence, bank shares shall not be deemed to have been acquired in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto; except that this limitation is applicable in the case of a bank or company acquiring such shares prior to December 31, 1970, only if the bank or company has the right consistent with its obligations under the instrument, agreement, or other arrangement establishing the fiduciary relationship to divest itself of such voting rights and fails to exercise that right to divest within a reasonable period not to exceed one year after December 31, 1970.
 
 &emsp;(B) No company is a bank holding company by virtue of its ownership or control of shares acquired by it in connection with its underwriting of securities if such shares are held only for such period of time as will permit the sale thereof on a reasonable basis.
 
@@ -234,7 +234,7 @@ Host state.—The term "host State" means—
 
 &emsp;&emsp;(A) with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch; and
 
-&emsp;&emsp;(B) with respect to a bank holding company, a State, other than the home State ofthe company, in which the company controls, or seeks to control, a bank subsidiary.
+&emsp;&emsp;(B) with respect to a bank holding company, a State, other than the home State of the company, in which the company controls, or seeks to control, a bank subsidiary.
 
 &emsp;(6)
 
@@ -364,7 +364,7 @@ Subsecs. (p), (q). Pub. L. 106–102, §103(c)(1)(B), added subsecs. (p) and (q)
 
 Subsec. (c)(2)(F). Pub. L. 104–208, §2304(b), inserted ", including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means" after "An institution" in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: "shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee."
+Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: "shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor,shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee."
 
 Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

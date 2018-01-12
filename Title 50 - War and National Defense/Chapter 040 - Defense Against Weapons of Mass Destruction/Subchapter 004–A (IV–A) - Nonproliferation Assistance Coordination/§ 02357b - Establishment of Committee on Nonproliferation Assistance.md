@@ -66,7 +66,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the President should develop and present to Congress a plan for doing so.
 
-&emsp;"(4) Substantial progress has been made in United States-Russian Federation cooperative programs to achieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation's weapons of mass destruction stockpiles and complexes.
+&emsp;"(4) Substantial progress has been made in United States-Russian Federation cooperative programs toachieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation's weapons of mass destruction stockpiles and complexes.
 
 &emsp;"(5) The threats posed by inadequate management of weapons of mass destruction stockpiles and complexes in the Russian Federation remain urgent. Incidents in years immediately preceding 2001, which have been cited by the Russia Task Force of the Secretary of Energy Advisory Board, include—
 
@@ -266,7 +266,7 @@ Presidential Waiver.—The President may waive the requirements of subsection (a
 
 "It is the sense of Congress that the President and such other appropriate officials as the President may designate should pursue discussions with other creditor states with the objectives of—
 
-&emsp;"(1) ensuring that other advanced industrial democracies, especially the largest holders of Soviet-era Russian debt, dedicate significant proportions of their bilateral official debt with the Russian Federation or equivalent amounts of direct assistance to the G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, as agreed upon in the Statement by G–8 Leaders on June 27, 2002; and
+&emsp;"(1) ensuring that other advanced industrial democracies, especially the largest holders of Soviet-era Russian debt, dedicate significant proportions of their bilateral official debt with the Russian Federation or equivalent amounts of direct assistance to theG–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, as agreed upon in the Statement by G–8 Leaders on June 27, 2002; and
 
 &emsp;"(2) reaching agreement, as appropriate, to establish a unified Russian Federation official debt reduction fund to manage and provide financial transparency for the resources provided by creditor states through debt reductions.
 

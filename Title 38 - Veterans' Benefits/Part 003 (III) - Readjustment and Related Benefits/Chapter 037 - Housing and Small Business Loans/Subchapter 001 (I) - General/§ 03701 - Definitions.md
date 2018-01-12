@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran's discharge or other release from active duty; or
 
-&emsp;&emsp;(C) the veteran was a former prisoner of war who died after September 30, 1999, and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
+&emsp;&emsp;(C) the veteran was a former prisoner of war who died after September 30, 1999, andthe disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
 
 (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen's Readjustment Act of 1944.
 
@@ -72,7 +72,7 @@ Pub. L. 112–154, title II, §206(b), Aug. 6, 2012, 126 Stat. 1178, provided th
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1981 Amendment
 

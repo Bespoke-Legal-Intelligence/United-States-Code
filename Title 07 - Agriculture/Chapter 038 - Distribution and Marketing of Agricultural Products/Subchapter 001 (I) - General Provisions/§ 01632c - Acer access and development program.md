@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary of Agriculture may make competitive grants to States, tribal governments, and research institutions to support the efforts of such States, tribal governments, and research institutions to promote the domestic maple syrup industry through the following activities:
+The Secretary of Agriculture may make competitive grants to States, tribal governments,and research institutions to support the efforts of such States, tribal governments, and research institutions to promote the domestic maple syrup industry through the following activities:
 
 &emsp;(1) Promotion of research and education related to maple syrup production.
 

@@ -40,7 +40,7 @@ Pub. L. 104–43, title IV, §401, Nov. 3, 1995, 109 Stat. 388, provided that: "
 
 &emsp;"(2) in 1994 Canada required all commercial fishing vessels of the United States to pay 1,500 Canadian dollars to obtain a 'license which authorizes transit' through the Inside Passage;
 
-&emsp;"(3) this action was inconsistent with international law, including the United Nations Convention on the Law of the Sea, and, in particular, Article 26 of that Convention, which specifically prohibits such fees, and threatened the safety of United States commercial fishermen who sought to avoid the fee by traveling in less protected waters;
+&emsp;"(3) this action was inconsistent with international law, including the United Nations Convention on the Law of the Sea, and, in particular, Article 26 of thatConvention, which specifically prohibits such fees, and threatened the safety of United States commercial fishermen who sought to avoid the fee by traveling in less protected waters;
 
 &emsp;"(4) the Fishermen's Protective Act of 1967 \[22 U.S.C. 1971 et seq.\] provides for the reimbursement of vessel owners who are forced to pay a license fee to secure the release of a vessel which has been seized, but does not permit reimbursement of a fee paid by the owner in advance in order to prevent a seizure;
 

@@ -24,7 +24,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o ofthis title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
 
 &emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which periodthe individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -76,7 +76,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) until the individual completes the course of study;
 
-&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level ofacademic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
+&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
 
 &emsp;&emsp;&emsp;(iv) if pursuing a degree from a school of medicine or osteopathic medicine, to complete a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
-Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
+Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequentlyomitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
 The General Schedule, referred to in subsec. (g)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set outas a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 

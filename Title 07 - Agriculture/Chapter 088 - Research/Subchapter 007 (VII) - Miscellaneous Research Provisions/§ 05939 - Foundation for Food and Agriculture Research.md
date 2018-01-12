@@ -58,7 +58,7 @@ The purposes of the Foundation shall be—
 
 &emsp;The Foundation shall—
 
-&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofit organizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
+&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists andentities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofit organizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
 
 &emsp;&emsp;(B) in consultation with the Secretary—
 
@@ -164,7 +164,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;&emsp;(IV) policies for writing, editing, printing, publishing, and vending of books and other materials;
 
-&emsp;&emsp;&emsp;&emsp;(V) policies for the conduct of the general operations of the Foundation, including a cap on administrative expenses for recipients of a grant, contract, or cooperative agreement from the Foundation; and
+&emsp;&emsp;&emsp;&emsp;(V) policies for the conduct of the general operations of the Foundation, including a cap on administrative expensesfor recipients of a grant, contract, or cooperative agreement from the Foundation; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) specific duties for the Executive Director;
 
@@ -262,7 +262,7 @@ The purposes of the Foundation shall be—
 
 #### (B) Limitation
 
-&emsp;&emsp;No appointed member of the Board or officer or employee of the Foundation or of any program established by the Foundation (other than ex-officio members of the Board) shall exercise administrative control over any Federal employee.
+&emsp;&emsp;No appointed member of the Board or officer or employee of the Foundation or of anyprogram established by the Foundation (other than ex-officio members of the Board) shall exercise administrative control over any Federal employee.
 
 #### (3) Records
 
@@ -340,7 +340,7 @@ The purposes of the Foundation shall be—
 
 #### (A) In general
 
-&emsp;&emsp;On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation tocarry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
+&emsp;&emsp;On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
 
 #### (B) Conditions on expenditure
 

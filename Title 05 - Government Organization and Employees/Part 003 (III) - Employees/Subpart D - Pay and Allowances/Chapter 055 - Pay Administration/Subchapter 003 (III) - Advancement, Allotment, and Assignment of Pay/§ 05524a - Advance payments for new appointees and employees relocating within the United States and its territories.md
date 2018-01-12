@@ -18,7 +18,7 @@
 
 (c) An advance payment under this section is recoverable by the Government of the United States or the government of the District of Columbia, as the case may be, from the employee or such employee's estate by—
 
-&emsp;(1) setoff against accrued pay, amount of retirement credit, or other amount due to the employee from the Government of the UnitedStates or the government of the District of Columbia; and
+&emsp;(1) setoff against accrued pay, amount of retirement credit, or other amount due to the employee from the Government of the United States or the government of the District of Columbia; and
 
 &emsp;(2) such other method as is provided by law.
 

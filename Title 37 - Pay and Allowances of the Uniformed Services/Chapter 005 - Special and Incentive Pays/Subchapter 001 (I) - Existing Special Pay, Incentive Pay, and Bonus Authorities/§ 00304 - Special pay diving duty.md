@@ -52,7 +52,7 @@ In subsection (a), the last sentence is substituted for section 236(b) of existi
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65, §617(a), substituted "$240" for "$200" and "$340" for "$300".
 
-Subsec. (c). Pub. L. 106–65, §617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title."
+Subsec. (c). Pub. L. 106–65, §617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title."
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "actually performs diving duty."
 

@@ -66,7 +66,7 @@ Facilities and Services of Other Agencies.—In implementing this section, when 
 
 (h)
 
-Authority Outside Federal Property.—For the protection of property under the jurisdiction, custody, or control of the Department of Defense and persons on that property, theSecretary of Defense may enter into agreements with Federal agencies and with State, Indian tribal, and local governments to obtain authority for civilian officers and agents designated under this section to enforce Federal laws and State, Indian tribal, and local laws concurrently with other Federal law enforcement officers and with State, Indian tribal, and local law enforcement officers.
+Authority Outside Federal Property.—For the protection of property under the jurisdiction, custody, or control of the Department of Defense and persons on that property, the Secretary of Defense may enter into agreements with Federal agencies and with State, Indian tribal, and local governments to obtain authority for civilian officers and agents designated under this section to enforce Federal laws and State, Indian tribal, and local laws concurrentlywith other Federal law enforcement officers and with State, Indian tribal, and local law enforcement officers.
 
 (i)
 

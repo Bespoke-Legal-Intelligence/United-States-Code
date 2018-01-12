@@ -14,7 +14,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
 
-&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
+&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property had been sold or exchanged rather than transferred to the DISC,
 
 &emsp;&emsp;(D) 50 percent of the taxable income of the DISC for the taxable year attributable to military property,
 
@@ -36,7 +36,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;(A) A shareholder of a corporation which revoked its election to be treated as a DISC or failed to satisfy the conditions of section 992(a)(1) for a taxable year shall be deemed to have received (at the time specified in subparagraph (B)) a distribution taxable as a dividend equal to his pro rata share of the DISC income of such corporation accumulated during the immediately preceding consecutive taxable years for which the corporation was a DISC.
 
-&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no case over more than twice the number immediately preceding consecutive taxable years during which the corporation was a DISC).
+&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no case over more than twice the number of immediately preceding consecutive taxable years during which the corporation was a DISC).
 
 #### (3) Taxable income attributable to military property
 
@@ -102,7 +102,7 @@ For the purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) the outstanding amount of stock or debt obligations of such group issued after December 31, 1971, to persons other than the United States persons or any member of such group;
 
-&emsp;&emsp;&emsp;(iii) one-half the earnings and profits of foreign members of such group and foreignbranches of domestic members of such group;
+&emsp;&emsp;&emsp;(iii) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group;
 
 &emsp;&emsp;&emsp;(iv) one-half the royalties and fees paid by foreign members of such group to domestic members of such group; and
 
@@ -118,7 +118,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(B) the outstanding amount of stock or debt obligations of foreign members of such group (other than normal trade indebtedness) issued after December 31, 1971, to domestic members of such group,
 
-&emsp;&emsp;(C) amounts transferred by domestic members of the group after the December 31, 1971, to foreign branches of such members, and
+&emsp;&emsp;(C) amounts transferred by domestic members of the group after December 31, 1971, to foreign branches of such members, and
 
 &emsp;&emsp;(D) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group for taxable years beginning after December 31, 1971.
 
@@ -152,7 +152,7 @@ If—
 
 &emsp;(3) during the taxable year of the subsidiary in which its stock is transferred and its preceding taxable year, such trade or business gives rise to qualified export receipts of the subsidiary and the DISC,
 
-> then, under such terms and conditions as the Secretary by regulations shall prescribe, transfers of assets, stock, or both, will be deemed to be a reorganization within the meaning of section 368, a transaction to which section 355 applies, an exchange of stock to which section 351 applies, or a combination thereof. The preceding sentence shall apply only to the extent that the transfer or transfers involved are for the purpose of preventing the separation of the ownership of the stock in the DISC from the ownership of the trade or business which (during the base period) produced the export gross receipts of the DISC.
+> then, under such terms and conditions as the Secretary by regulations shall prescribe, transfers of assets, stock, or both, will be deemed to be a reorganization within the meaning of section 368, a transaction to which section 355 applies, an exchange of stock to which section 351applies, or a combination thereof. The preceding sentence shall apply only to the extent that the transfer or transfers involved are for the purpose of preventing the separation of the ownership of the stock in the DISC from the ownership of the trade or business which (during the base period) produced the export gross receipts of the DISC.
 
 #### (f) Interest on DISC-related deferred tax liability
 
@@ -172,7 +172,7 @@ If—
 
 &emsp;&emsp;The term "shareholder's DISC-related deferred tax liability" means, with respect to any taxable year of a shareholder of a DISC, the excess of—
 
-&emsp;&emsp;&emsp;(i) the amount which would be the tax liability of the shareholder for the taxable year if the deferred DISC income of suchshareholder for such taxable year were included in gross income as ordinary income, over
+&emsp;&emsp;&emsp;(i) the amount which would be the tax liability of the shareholder for the taxable year if the deferred DISC income of such shareholder for such taxable year were included in gross income as ordinary income, over
 
 &emsp;&emsp;&emsp;(ii) the actual amount of the tax liability of such shareholder for such taxable year.
 

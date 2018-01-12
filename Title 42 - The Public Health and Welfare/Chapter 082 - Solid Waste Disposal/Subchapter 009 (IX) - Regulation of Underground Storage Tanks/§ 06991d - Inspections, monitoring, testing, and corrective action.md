@@ -34,7 +34,7 @@ For the purposes of developing or assisting in the development of any regulation
 
 #### (1) Uninspected tanks
 
-&emsp;In the case of underground storage tanks regulated under this subchapter that have not undergone an inspection since December 22, 1998, not later than 2 years after August 8, 2005, the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections ofall such tanks to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title.
+&emsp;In the case of underground storage tanks regulated under this subchapter that have not undergone an inspection since December 22, 1998, not later than 2 years after August 8, 2005, the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections of all such tanks to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title.
 
 #### (2) Periodic inspections
 
@@ -42,7 +42,7 @@ For the purposes of developing or assisting in the development of any regulation
 
 #### (3) Inspection authority
 
-&emsp;Nothing in this section shall be construed to diminish the Administrator's or a State's authorities under subsection (a) of this section.
+&emsp;Nothing in this section shall be construed to diminish the Administrator's or a State's authorities under subsection (a).
 
 (Pub. L. 89–272, title II, §9005, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3284; amended Pub. L. 99–499, title II, §205(f), Oct. 17, 1986, 100 Stat. 1702; Pub. L. 109–58, title XV, §§1523(a), 1533(4), Aug. 8, 2005, 119 Stat. 1094, 1105.)
 

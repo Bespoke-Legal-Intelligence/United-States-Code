@@ -66,7 +66,7 @@ Discretion.—The determination of whether, to whom, or in what amount to make a
 
 Criteria.—In determining an award made under subsection (b), the Secretary shall take into consideration—
 
-&emsp;&emsp;&emsp;(i) if appropriate, whether a whistleblower reported or attempted to report theinformation internally to an applicable motor vehicle manufacturer, part supplier, or dealership;
+&emsp;&emsp;&emsp;(i) if appropriate, whether a whistleblower reported or attempted to report the information internally to an applicable motor vehicle manufacturer, part supplier, or dealership;
 
 &emsp;&emsp;&emsp;(ii) the significance of the original information provided by the whistleblower to the successful resolution of the covered action;
 
@@ -164,7 +164,7 @@ In general.—Any determination made under this section, including whether, to w
 
 &emsp;(2)
 
-Appeals.—Any determination made by the Secretary under this section may be appealed by a whistleblower to the appropriate court of appeals of the United States not laterthan 30 days after the determination is issued by the Secretary.
+Appeals.—Any determination made by the Secretary under this section may be appealed by a whistleblower to the appropriate court of appeals of the United States not later than 30 days after the determination is issued by the Secretary.
 
 &emsp;(3)
 

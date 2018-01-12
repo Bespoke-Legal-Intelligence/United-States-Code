@@ -58,7 +58,7 @@ Every person—
 
 &emsp;&emsp;&emsp;(iv) a foreign corporation, the interest payments of which would be exempt from withholding under subchapter A of chapter 3 if paid to a person who is not a United States person, or
 
-&emsp;&emsp;&emsp;(v) a partnership not engaged in a trade or business in the United States and composed in whole of nonresident alien individuals and person described in clause (i), (ii), or (iii).
+&emsp;&emsp;&emsp;(v) a partnership not engaged in a trade or business in the United States and composed in whole of nonresident alien individuals and persons described in clause (i), (ii), or (iii).
 
 #### (3) Payments by United States nominees, etc., of United States person
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a financial institution, broker, or other person specified in such regulations which collects interest on such obligation for the payee (or otherwise acts as a middleman between the payor and the payee) shall comply with the requirements of subsections (a) and (c), and
 
-&emsp;&emsp;(B) no other person shall be required to comply with the requirements of subsections\(a) and (c) with respect to any interest on such obligation for which reporting is required pursuant to subparagraph (A).
+&emsp;&emsp;(B) no other person shall be required to comply with the requirements of subsections (a) and (c) with respect to any interest on such obligation for which reporting is required pursuant to subparagraph (A).
 
 #### (5) Interest on certain obligations may be treated on a transactional basis
 
@@ -218,7 +218,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a), the term "interest" includes amounts includible in gross income under section 54(g) or 1400N(l)(6) and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4) or 1400N(l)(2)(D), as the case may be).
+&emsp;&emsp;For purposes of subsection (a), the term "interest" includes amounts includible in gross income under section 54(g) <sup>1</sup> or 1400N(l)(6) and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4) <sup>1</sup> or 1400N(l)(2)(D), as the case may be).
 
 #### (B) Reporting to corporations, etc.
 
@@ -232,11 +232,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a), the term "interest" includes amounts includible in gross income under section 54A and such amounts shall be treated as paid on the credit allowance date (as defined in section 54A(e)(1)).
+&emsp;&emsp;For purposes of subsection (a), the term "interest" includes amounts includible in gross income under section 54A <sup>1</sup> and such amounts shall be treated as paid on the credit allowance date (as defined in section 54A(e)(1)).<sup>1</sup>
 
 #### (B) Reporting to corporations, etc.
 
-&emsp;&emsp;Except as otherwise provided in regulations, in the case of any interest described insubparagraph (A) of this paragraph, subsection (b)(4) of this section shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i).
+&emsp;&emsp;Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A) of this paragraph, subsection (b)(4) of this section shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i).
 
 #### (C) Regulatory authority
 
@@ -247,6 +247,10 @@ For purposes of this section—
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
+Section 54, referred to in subsec. (d)(8)(A), was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
+
+Section 54A, referred to in subsec (d)(9)(A), was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 #### Codification
 
@@ -308,7 +312,7 @@ Subsec. (c). Pub. L. 97–248, §309(a), substituted "subsection (a)" for "subse
 
 Subsec. (d). Pub. L. 97–248, §309(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 97–248, §§303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+Subsec. (e). Pub. L. 97–248, §§303(b), 308(a), provided that, applicable to payments of interest, dividends, andpatronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
@@ -322,7 +326,7 @@ Subsec. (c). Pub. L. 91–172, §413(d), further qualified requirement to furnis
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 15316(b) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of this title.
+Amendment by section 15316(b) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 1400N of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -332,7 +336,15 @@ Pub. L. 109–222, title V, §502(c), May 17, 2006, 120 Stat. 354, provided that
 
 Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
 
-Amendment by Pub. L. 109–58 applicable to bonds issued after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under section 54 of this title.
+Pub. L. 109–58, title XIII, §1303(e), Aug. 8, 2005, 119 Stat. 997, as amended by Pub. L. 109–135, title IV, §402(c)(2), Dec. 21, 2005, 119 Stat. 2610, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 54 of this title and amending this section and sections 1397E and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
+
+"(2)
+
+Subsection (c).—The amendments made by subsection (c) \[amending sections 1397E and 6401 of this title\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 1996 Amendment
 
@@ -382,5 +394,7 @@ For nonapplication of amendment by section 1214(c)(4) of Pub. L. 99–514 to the
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

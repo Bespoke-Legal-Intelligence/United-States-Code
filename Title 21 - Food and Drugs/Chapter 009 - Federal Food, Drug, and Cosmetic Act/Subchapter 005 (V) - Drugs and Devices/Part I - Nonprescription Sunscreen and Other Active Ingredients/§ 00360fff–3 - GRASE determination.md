@@ -156,7 +156,7 @@ Any responsibility vested in the Commissioner by subsection (a)(2), (a)(6), (b)(
 
 #### (B) Procedure for updating regulations
 
-&emsp;&emsp;After the Secretary amends and finalizes the regulations under part 352 of title 21, Code of Federal Regulations under section 360fff–5 of this title and such regulations become effective, the Secretary may use direct final rulemaking to include in such regulations any nonprescription sunscreen active ingredients that are the subject of effective final sunscreen orders.
+&emsp;&emsp;After the Secretary amends and finalizes the regulations under part 352 of title 21, Code of Federal Regulations under section360fff–5 of this title and such regulations become effective, the Secretary may use direct final rulemaking to include in such regulations any nonprescription sunscreen active ingredients that are the subject of effective final sunscreen orders.
 
 (June 25, 1938, ch. 675, §586C, as added Pub. L. 113–195, §2(a), Nov. 26, 2014, 128 Stat. 2039.)
 

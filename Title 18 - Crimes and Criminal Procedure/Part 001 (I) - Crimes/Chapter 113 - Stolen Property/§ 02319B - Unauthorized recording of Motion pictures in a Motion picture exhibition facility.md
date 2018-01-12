@@ -32,7 +32,7 @@ Victim Impact Statement.—
 
 &emsp;(1)
 
-In general.—During the preparation of the presentence report under rule 32(c) of the Federal Rules of Criminal Procedure, victimsof an offense under this section shall be permitted to submit to the probation officer a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+In general.—During the preparation of the presentence report under rule 32(c) of the Federal Rules of Criminal Procedure, victims of an offense under this section shall be permitted to submit to the probation officer a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
 &emsp;(2)
 

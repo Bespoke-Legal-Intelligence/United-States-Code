@@ -46,7 +46,7 @@ Reasonableness.—The Board may suspend and investigate the reasonableness of an
 
 &emsp;&emsp;(B)
 
-Actions not in the public interest.—The Board may investigate any action taken pursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
+Actions not in the public interest.—The Board may investigate any action takenpursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
 
 &emsp;(6)
 
@@ -100,7 +100,7 @@ Undercharge claims.—Nothing in this section shall serve as a basis for any und
 
 &emsp;(2)
 
-Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shallbe construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
+Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
 
 (f)
 

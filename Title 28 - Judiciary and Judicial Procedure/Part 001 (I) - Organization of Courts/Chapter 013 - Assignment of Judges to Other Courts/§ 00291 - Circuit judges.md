@@ -60,5 +60,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
-Pub. L. 85–755, §7, Aug. 25, 1958, 72 Stat. 850, provided that: "Nothing contained in this Act \[amending this section and sections 211 and 292 to 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\] by any provision of law."
+Pub. L. 85–755, §7, Aug. 25, 1958, 72 Stat. 850, provided that: "Nothing contained in this Act \[amending thissection and sections 211 and 292 to 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\] by any provision of law."
 

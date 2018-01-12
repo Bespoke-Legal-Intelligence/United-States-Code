@@ -4,7 +4,7 @@
 
 (1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election.
 
-(2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+(2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officeror member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 #### (b) Contributions
 
@@ -60,7 +60,7 @@
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 801of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

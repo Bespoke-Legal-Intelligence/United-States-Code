@@ -14,7 +14,7 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 &emsp;"(3) a percentage of any aggregate assets of the Corporation acquired pursuant to the linked portfolio option under section 2279aa–6(g) of this title, which shall be—
 
-&emsp;&emsp;"(A) during the 5-year period beginning on December 13, 1991, one-half of the percentage that isdetermined under section 2279bb–2(c)(1) of this title; and
+&emsp;&emsp;"(A) during the 5-year period beginning on December 13, 1991, one-half of the percentage that is determined under section 2279bb–2(c)(1) of this title; and
 
 &emsp;&emsp;"(B) after the expiration of such 5-year period, 1.25 percent of any such aggregate assets."
 

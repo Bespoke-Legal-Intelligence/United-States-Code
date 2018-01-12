@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(iv) identification of opportunities for public, private, and intergovernmental collaboration in addressing the disparities in access to the Internet and information technology.
 
-&emsp;(10) Sponsor activities to engage the general public in the development and implementationof policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
+&emsp;(10) Sponsor activities to engage the general public in the development and implementation of policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
 
 &emsp;(11) Oversee the work of the General Services Administration and other agencies in developing the integrated Internet-based system under section 204 of the E-Government Act of 2002.
 
@@ -114,5 +114,9 @@ The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17
 
 The Government Paperwork Elimination Act, referred to in subsec. (d)(4), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of this title and enacted provisions set out as a note under section 3504 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Information Security Management Act of 2002, referred to in subsec. (d)(5), probably means title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, which is classified principally to subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables. Another Federal Information Security Management Act of 2002 is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security.
+The Federal Information Security Management Act of 2002, referred to in subsec. (d)(5), probably means title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, which was classified principally to subchapter III of chapter 35 of this title and was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables. Another Federal Information Security Management Act of 2002 is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security.
+
+#### Effective Date
+
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Energy
 
-Subject to sections 8835 and 8836 of this title, the Secretary of Energy may commit to guarantee, and guarantee, against loss on up to 90 per centum of the principal and interest, any loan which is made solely to provide funds for theconstruction of a municipal waste energy project and which does not exceed 90 per centum of the cost of the construction of the project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
+Subject to sections 8835 and 8836 of this title, the Secretary of Energy may commit to guarantee, and guarantee, against loss on up to 90 per centum of the principal and interest, any loan which is made solely to provide funds for the construction of a municipal waste energy project and which does not exceed 90 per centum of the cost of the construction of the project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
 
 #### (b) Estimated project construction costs as determinative of revised amount of guarantee
 
@@ -56,7 +56,7 @@ A loan may not be guaranteed under this section unless the applicant for such lo
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, as amended, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and section 3391a of Title 15, Commerce and Trade, and amended sections 341, 342, 427, and 3154 of Title 7, section 753 of Title 15, and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which enacted this chapter, sections 1435 and 3129 of Title 7, Agriculture, and section 3391a of Title 15, Commerce and Trade, and amended sections 341, 342, 3104, and 3154 of Title 7, section 753 of Title 15, and sections 590h and 1642 of Title 16, Conservation. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 #### Amendments
 

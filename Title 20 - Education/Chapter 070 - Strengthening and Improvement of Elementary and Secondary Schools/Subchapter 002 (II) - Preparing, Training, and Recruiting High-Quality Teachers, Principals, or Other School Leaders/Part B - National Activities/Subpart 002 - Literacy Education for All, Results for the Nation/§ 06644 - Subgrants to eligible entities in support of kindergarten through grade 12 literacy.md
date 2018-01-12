@@ -30,7 +30,7 @@
 
 #### (b) Priority
 
-In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use funds under subsection (c) or (d) to implement evidence-basedactivities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use funds under subsection (c) or (d) to implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (c) Local uses of funds for kindergarten through grade 5
 
@@ -48,7 +48,7 @@ An eligible entity that receives a subgrant under this section shall use the sub
 
 &emsp;(3) Training principals, specialized instructional support personnel, and other local educational agency personnel to support, develop, administer, and evaluate high-quality kindergarten through grade 5 literacy initiatives.
 
-&emsp;(4) Coordinating the involvement of early childhood education program staff, principals, other instructional leaders, teachers, teacher literacy teams, English as a second language specialists (as appropriate), special educators, school personnel, and specialized instructional support personnel (as appropriate) in the literacy development of children served under this subsection.
+&emsp;(4) Coordinating the involvement of early childhood education program staff, principals, other instructional leaders, teachers, teacher literacy teams, English as a second language specialists (as appropriate), special educators, school personnel, and specialized instructionalsupport personnel (as appropriate) in the literacy development of children served under this subsection.
 
 &emsp;(5) Engaging families and encouraging family literacy experiences and practices to support literacy development.
 

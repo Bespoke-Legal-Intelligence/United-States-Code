@@ -72,7 +72,7 @@ Whoever knowingly and willfully makes or causes to be made, or induces or seeks 
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration ata rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
 &emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
@@ -132,7 +132,7 @@ Subsec. (b)(3)(J). Pub. L. 111–148, §3301(d)(1)(C)(iii), (D), added subpar. (
 
 Subsecs. (g), (h). Pub. L. 111–148, §6402(f), added subsecs. (g) and (h).
 
-<b>2003</b>—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting "or in regulations under section 1395w–104(e)(6) of this title" after "1987", was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because "1987" does not appear in subpar. (C).
+<b>2003</b>—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting "or in regulations under section 1395w–104(e)(6) ofthis title" after "1987", was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because "1987" does not appear in subpar. (C).
 
 Subsec. (b)(3)(G). Pub. L. 108–173, §101(e)(2), added subpar. (G).
 
@@ -208,7 +208,7 @@ Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395n
 
 Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
 
-Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activities with a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
+Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activitieswith a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
 
 Subsec. (d). Pub. L. 95–142, §4(b), added subsec. (d). See Codification note above.
 
@@ -264,7 +264,7 @@ Pub. L. 95–142, §4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: "The amen
 
 #### Effective Date
 
-Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: "The provisions of amendmentsmade by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\]."
+Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: "The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\]."
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 

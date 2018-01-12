@@ -8,7 +8,7 @@
 
 (b) This section does not preclude—
 
-&emsp;(1) the transmittal of a letter rogatory or request directly from a foreign or internationaltribunal to the tribunal, officer, or agency in the United States to whom it is addressed and its return in the same manner; or
+&emsp;(1) the transmittal of a letter rogatory or request directly from a foreign or international tribunal to the tribunal, officer, or agency in the United States to whom it is addressed and its return in the same manner; or
 
 &emsp;(2) the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.
 

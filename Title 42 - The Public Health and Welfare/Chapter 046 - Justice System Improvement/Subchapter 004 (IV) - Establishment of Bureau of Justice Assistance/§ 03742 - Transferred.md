@@ -1,0 +1,10 @@
+### §3742. Transferred
+
+#### Codification
+
+Section 3742 was editorially reclassified as section 10142 of Title 34, Crime Control and Law Enforcement.
+
+#### Prior Provisions
+
+For prior sections 3742 of this title, see note set out preceding section 3741 of this title.
+

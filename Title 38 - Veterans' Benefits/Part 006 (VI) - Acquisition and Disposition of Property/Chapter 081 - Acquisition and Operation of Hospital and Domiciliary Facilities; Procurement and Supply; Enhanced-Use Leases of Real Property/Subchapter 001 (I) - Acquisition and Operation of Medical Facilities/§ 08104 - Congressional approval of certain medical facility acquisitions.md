@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
 
-(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (2) The Secretary shall—
 
@@ -110,7 +110,7 @@
 
 (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub.L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590.)
 
 #### Amendments
 
@@ -234,6 +234,10 @@ Pub. L. 104–262, title II, §206(b)(2), Oct. 9, 1996, 110 Stat. 3190, provided
 
 Pub. L. 102–405, title III, §301(b), Oct. 9, 1992, 106 Stat. 1984, provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, §206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
 
+#### Effective Date
+
+Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
+
 #### Budgetary Treatment of Department of Veterans Affairs Major Medical Facilities Leases
 
 Pub. L. 113–146, title VI, §602, Aug. 7, 2014, 128 Stat. 1794, provided that:
@@ -254,7 +258,7 @@ Requirement for Obligation of Full Cost.—
 
 &emsp;"(1)
 
-In general.—Subject to the availability of appropriations provided in advance, in exercising the authority of the Secretary of Veterans Affairs to enter into leases provided in this Act, the Secretary shall record, pursuant to section 1501 of title 31,United States Code, as the full cost of the contractual obligation at the time a contract is executed either—
+In general.—Subject to the availability of appropriations provided in advance, in exercising the authority of the Secretary of Veterans Affairs to enter into leases provided in this Act, the Secretary shall record, pursuant to section 1501 of title 31, United States Code, as the full cost of the contractual obligation at the time a contract is executed either—
 
 &emsp;&emsp;"(A) an amount equal to total payments under the full term of the lease; or
 

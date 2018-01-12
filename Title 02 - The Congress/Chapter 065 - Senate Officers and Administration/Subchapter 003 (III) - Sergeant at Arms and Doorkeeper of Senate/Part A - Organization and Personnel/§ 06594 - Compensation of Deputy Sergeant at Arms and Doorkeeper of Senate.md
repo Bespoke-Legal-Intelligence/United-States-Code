@@ -18,7 +18,7 @@ Pub. L. 94–226, §1(b), Mar. 9, 1976, 90 Stat. 203, provided that: "Subsection
 
 #### Change of Name
 
-Pub. L. 94–226, §1(c), Mar. 9, 1976, 90 Stat. 203, provided that: "Effective on the date of enactment of this resolution \[Mar. 9, 1976\] the title of the ProcurementOfficer, Auditor, and Deputy Sergeant at Arms is changed to Deputy Sergeant at Arms and Doorkeeper."
+Pub. L. 94–226, §1(c), Mar. 9, 1976, 90 Stat. 203, provided that: "Effective on the date of enactment of this resolution \[Mar. 9, 1976\] the title of the Procurement Officer, Auditor, and Deputy Sergeant at Arms is changed to Deputy Sergeant at Arms and Doorkeeper."
 
 #### Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation
 

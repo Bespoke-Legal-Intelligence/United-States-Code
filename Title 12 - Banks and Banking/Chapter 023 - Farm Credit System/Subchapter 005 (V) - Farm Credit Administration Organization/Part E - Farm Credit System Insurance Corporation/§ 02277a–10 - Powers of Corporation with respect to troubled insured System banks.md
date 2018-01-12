@@ -90,7 +90,7 @@
 
 #### (b) Authority to pledge or sell assets
 
-The Corporation, in its discretion, may make loans on the security of, or may purchase, and liquidate or sell, any part of the assets of, any insured System bank that is placed in receivership because of the inability of the bank to pay principal or interest on any of its notes, bonds, debentures, or other obligations in a timely manner.
+The Corporation, in its discretion, may make loans on the security of, or may purchase, andliquidate or sell, any part of the assets of, any insured System bank that is placed in receivership because of the inability of the bank to pay principal or interest on any of its notes, bonds, debentures, or other obligations in a timely manner.
 
 #### (c) Subrogation
 
@@ -132,7 +132,7 @@ Subsec. (a)(2). Pub. L. 104–105, §217(b)(2)(A), substituted "Facilitation of 
 
 Subsec. (a)(2)(A). Pub. L. 104–105, §217(b)(2)(B), substituted "In general" for "Facilitation of mergers or consolidation" in subpar. heading.
 
-Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of formersubpar. (A). Text read as follows: "Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank."
+Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank."
 
 Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 

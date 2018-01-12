@@ -6,7 +6,7 @@ The Secretary shall award grants, contracts, or cooperative agreements to States
 
 #### (b) Priority
 
-In awarding grants, contracts, and cooperative agreements under subsection (a), the Secretary shall give priority to applicants that emphasize the provision of services for individuals with a serious mental illness and a co-occurring substance abuse disorder who—
+In awarding grants, contracts, and cooperative agreements under subsection (a), the Secretary shall give priority to applicants that emphasizethe provision of services for individuals with a serious mental illness and a co-occurring substance abuse disorder who—
 
 &emsp;(1) have a history of interactions with law enforcement or the criminal justice system;
 

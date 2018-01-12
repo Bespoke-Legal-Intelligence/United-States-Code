@@ -10,7 +10,7 @@
 
 &emsp;(C) amounts recovered by the Secretary under section 1845(h)(2) of this title.
 
-> The total amount in the Fund that is collected under subsection (b) may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under section 1845(h)(2) of this title shall be expended prior to amounts collected under subsection (b). Not more than 8 percent of the total amount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
+> The total amount in the Fund that is collected under subsection (b) may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under section 1845(h)(2) of this title shall be expended prior to amounts collected under subsection (b). Not more than 8 percent of the totalamount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
 
 (2) The Fund shall be available, as provided for in appropriation Acts solely for the payment of—
 

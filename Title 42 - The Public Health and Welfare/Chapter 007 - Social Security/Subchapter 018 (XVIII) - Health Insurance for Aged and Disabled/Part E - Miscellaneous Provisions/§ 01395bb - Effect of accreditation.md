@@ -86,7 +86,7 @@ Pub. L. 99–509, §9320(h)(3), substituted "paragraphs (12) and (13)" for "para
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted "section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title" for "section 1395x(e), (j), (o), or (dd) of this title", and substituted "entity" for "institution or agency" in two places.
 
-Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "release to the Secretary" in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him bythe Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
+Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "release to the Secretary" in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted "(o), or (dd)" for "or (o)".
 

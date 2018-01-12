@@ -40,7 +40,7 @@
 
 &emsp;(A) Grant amounts under this section shall be determined in accordance with section 6333(a)(2), (3), and (4) of this title.
 
-&emsp;(B) For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, a State may reserve notmore than 2 percent of its allocation under this section to make grants to local educational agencies that meet the criteria of paragraph (1)(A)(i) or (ii) and are in ineligible counties that do not meet these criteria.
+&emsp;(B) For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, a State may reserve not more than 2 percent of its allocation under this section to make grants to local educational agencies that meet the criteria of paragraph (1)(A)(i) or (ii) and are in ineligible counties that do not meet these criteria.
 
 #### (b) Small States
 

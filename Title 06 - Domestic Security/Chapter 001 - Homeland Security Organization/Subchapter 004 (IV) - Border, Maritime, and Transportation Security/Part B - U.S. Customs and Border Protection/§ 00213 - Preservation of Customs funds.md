@@ -1,6 +1,6 @@
 ### §213. Preservation of Customs funds
 
-Notwithstanding any other provision of this chapter, no funds collected under paragraphs (1) through (8) of section 58c(a) of title 19 may be transferred for use by any other agency or office in the Department.
+Notwithstanding any other provision of this chapter, no funds collected under paragraphs (1)through (8) of section 58c(a) of title 19 may be transferred for use by any other agency or office in the Department.
 
 (Pub. L. 107–296, title IV, §413, Nov. 25, 2002, 116 Stat. 2180; Pub. L. 114–125, title VIII, §802(g)(1)(B)(iii)(III), Feb. 24, 2016, 130 Stat. 211.)
 

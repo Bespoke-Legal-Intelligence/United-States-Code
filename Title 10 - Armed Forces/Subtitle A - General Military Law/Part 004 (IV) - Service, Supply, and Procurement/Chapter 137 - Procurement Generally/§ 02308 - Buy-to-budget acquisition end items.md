@@ -10,7 +10,7 @@ Authority To Acquire Additional End Items.—Using funds available to the Depart
 
 &emsp;(3) The amount of the funds used for the acquisition of the higher quantity of the end item will not exceed the amount provided under that law for the acquisition of the end item.
 
-&emsp;(4) The amount so provided is sufficient to ensure that each unit of the end item acquiredwithin the higher quantity is fully funded as a complete end item.
+&emsp;(4) The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.
 
 (b)
 

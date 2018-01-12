@@ -25,7 +25,7 @@ A prior part A relating to aid to families with dependent children and consistin
 - [&sect; 00611 - Data collection and reporting](%C2%A7%2000611%20-%20Data%20collection%20and%20reporting.md)
 - [&sect; 00611a - State required to provide certain information](%C2%A7%2000611a%20-%20State%20required%20to%20provide%20certain%20information.md)
 - [&sect; 00612 - Direct funding and administration by Indian tribes](%C2%A7%2000612%20-%20Direct%20funding%20and%20administration%20by%20Indian%20tribes.md)
-- [&sect; 00613 - Research, evaluations, and national studies](%C2%A7%2000613%20-%20Research%2C%20evaluations%2C%20and%20national%20studies.md)
+- [&sect; 00613 - Evaluation of temporary assistance for needy families and related programs](%C2%A7%2000613%20-%20Evaluation%20of%20temporary%20assistance%20for%20needy%20families%20and%20related%20programs.md)
 - [&sect; 00614 - Repealed. Pub. L. 113&#8211;235, div. G, title II, &sect;228(f), Dec. 16, 2014, 128 Stat. 2492](%C2%A7%2000614%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93235%2C%20div.%20G%2C%20title%20II%2C%20%C2%A7228%28f%29%2C%20Dec.%2016%2C%202014%2C%20128%20Stat.%202492.md)
 - [&sect; 00615 - Waivers](%C2%A7%2000615%20-%20Waivers.md)
 - [&sect; 00616 - Administration](%C2%A7%2000616%20-%20Administration.md)

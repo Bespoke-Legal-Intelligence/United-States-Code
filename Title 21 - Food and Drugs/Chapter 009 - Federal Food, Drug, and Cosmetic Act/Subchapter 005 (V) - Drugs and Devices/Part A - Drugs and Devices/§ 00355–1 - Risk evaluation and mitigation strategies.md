@@ -158,9 +158,11 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(A) sending letters to health care providers;
 
-&emsp;&emsp;(B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementation by health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests); or
+&emsp;&emsp;(B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementation by health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests) <sup>1</sup>
 
-&emsp;&emsp;(C) disseminating information to health care providers through professional societies about any serious risks of the drug and any protocol to assure safe use.
+&emsp;&emsp;(C) disseminating information to health care providers through professional societies about any serious risks of the drug and any protocol to assure safe use; or
+
+&emsp;&emsp;(D) disseminating information to health care providers about drug formulations or properties, including information about the limitations or patient care implications of such formulations or properties, and how such formulations or properties may be related to serious adverse drug events associated with use of the drug.
 
 #### (f) Providing safe access for patients to drugs with known serious risks that would otherwise be unavailable
 
@@ -210,9 +212,9 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (4) Implementation system
 
-&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs\(B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
+&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs (B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
 
-&emsp;&emsp;(A) monitor and evaluate implementation of such elements by health care providers, pharmacists, and other parties in the health care system who are responsible for implementing such elements; and
+&emsp;&emsp;(A) monitor and evaluate implementation of such elements by health care providers, pharmacists, and other parties in the healthcare system who are responsible for implementing such elements; and
 
 &emsp;&emsp;(B) work to improve implementation of such elements by such persons.
 
@@ -350,7 +352,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (i) Further discussion or administrative appeals
 
-&emsp;&emsp;&emsp;A request for review under subparagraph (A) shall not preclude further discussions to reach agreement on the risk evaluation and mitigation strategy, and such a request shall not preclude the use of administrative appeals within the Food and DrugAdministration to reach agreement on the strategy, including appeals as described in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 for procedural or scientific matters involving the review of human drug applications and supplemental applications that cannot be resolved at the divisional level. At the time a review has been scheduled under subparagraph (B) and notice of such review has been posted, the responsible person shall either withdraw the request under subparagraph (A) or terminate the use of such administrative appeals.
+&emsp;&emsp;&emsp;A request for review under subparagraph (A) shall not preclude further discussions to reach agreement on the risk evaluation and mitigation strategy, and such a request shall not preclude the use of administrative appeals within the Food and Drug Administration to reach agreement on the strategy, including appeals as described in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 for procedural or scientific matters involving the review of human drug applications and supplementalapplications that cannot be resolved at the divisional level. At the time a review has been scheduled under subparagraph (B) and notice of such review has been posted, the responsible person shall either withdraw the request under subparagraph (A) or terminate the use of such administrative appeals.
 
 #### (ii) Agreement terminates dispute resolution
 
@@ -416,7 +418,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (A) In general
 
-&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approvedrisk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
+&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
 
 #### (B) Notice
 
@@ -466,7 +468,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>1</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
@@ -508,7 +510,7 @@ The Secretary may waive any requirement of this section with respect to a qualif
 
 &emsp;(2) the identification of a material threat described in subparagraph (D) of section 360bbb–3(b)(1) of this title has been made pursuant to section 247d–6b of title 42.
 
-(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153.)
+(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153; Pub. L. 115–52, title VI, §606, Aug. 18, 2017, 131 Stat. 1049.)
 
 #### References in Text
 
@@ -517,6 +519,10 @@ For the effective date of this section, referred to in subsec. (a)(2)(A), see Ef
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(3), (4)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(3)(B). Pub. L. 115–52, §606(1), struck out "; or" at end.
+
+Subsec. (e)(3)(D). Pub. L. 115–52, §606(2), (3), added subpar. (D).
 
 <b>2016</b>—Subsec. (f)(5). Pub. L. 114–255, §3075(c)(1), inserted "or other advisory committee" after "(or successor committee)" in introductory provisions.
 
@@ -592,5 +598,7 @@ Pub. L. 114–198, title I, §106(b), July 22, 2016, 130 Stat. 703, provided tha
 
 Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "single, shared system,".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "single, shared system,".</i>
 

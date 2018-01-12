@@ -44,7 +44,7 @@ In subsection (a), the words "head of an agency" are substituted for "head of an
 
 In subsection (a)(1), the word "officer" is omitted as included in "employee".
 
-In subsection (a)(2), the words "at his own discretion" are omitted as unnecessary in view of the permissive nature of the authority. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11,1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
+In subsection (a)(2), the words "at his own discretion" are omitted as unnecessary in view of the permissive nature of the authority. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
 
 In subsection (b), the words "in his discretion" are omitted as unnecessary in view of the permissive nature of the authority. The words "overtime work" are substituted for "any work in excess of forty hours in any regularly scheduled administrative workweek" because of the definition of "overtime work" in section 5542(a).
 
@@ -80,7 +80,7 @@ GS–10, referred to in subsec. (a)(2), is contained in the General Schedule whi
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted "under section 5542 or section 7 of the Fair Labor Standards Act of 1938" after "payment".
 
-Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–10".
+Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rateof pay under section 5305 or similar provision of law)" after "GS–10".
 
 #### Effective Date of 1990 Amendment
 

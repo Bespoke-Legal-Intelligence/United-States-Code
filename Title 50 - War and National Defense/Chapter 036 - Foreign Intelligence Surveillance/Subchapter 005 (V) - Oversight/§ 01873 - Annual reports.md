@@ -40,7 +40,7 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-&emsp;(4) the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) of this title and a good faith estimate of—
+&emsp;(4) the total number of orders issued pursuant to applications made under section1861(b)(2)(B) of this title and a good faith estimate of—
 
 &emsp;&emsp;(A) the number of targets of such orders; and
 
@@ -70,7 +70,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 #### (A) Federal Bureau of Investigation
 
-&emsp;&emsp;Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information orrecords held by, or queries conducted by, the Federal Bureau of Investigation.
+&emsp;&emsp;Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation.
 
 #### (B) Electronic mail address and telephone numbers
 

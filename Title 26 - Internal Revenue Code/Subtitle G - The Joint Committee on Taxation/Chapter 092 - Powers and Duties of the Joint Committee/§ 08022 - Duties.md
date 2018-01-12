@@ -74,7 +74,7 @@ Pub. L. 105–206, title IV, §4022(b), July 22, 1998, 112 Stat. 785, provided t
 
 "(1)
 
-In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a taxcomplexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
+In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
 &emsp;"(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Ways and Means of the House of Representatives, or any committee of conference; and
 
@@ -118,7 +118,7 @@ Pub. L. 94–455, title V, §507, Oct. 4, 1976, 90 Stat. 1569, mandated a full a
 
 #### Study of Expanded Participation in Individual Retirement Accounts
 
-Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
+Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the Houseof Representatives and to Committee on Finance of the Senate.
 
 #### Tax Incentives Study
 

@@ -54,7 +54,7 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 #### (1) In general
 
-&emsp;Willful, grossly negligent, or repeated failure to ensure the completion and transmission of a background report (home study) that fully complies with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute substantial noncompliance with applicable requirements.
+&emsp;Willful, grossly negligent, or repeated failure to ensure the completion and transmissionof a background report (home study) that fully complies with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute substantial noncompliance with applicable requirements.
 
 #### (2) Regulations
 
@@ -62,7 +62,7 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 &emsp;&emsp;(A) frequent and careful monitoring of compliance by agencies and approved persons with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title; and
 
-&emsp;&emsp;(B) consultation between the Secretary and the accrediting entity where an agencyor person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
+&emsp;&emsp;(B) consultation between the Secretary and the accrediting entity where an agency or person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
 
 #### (3) Repeated failures to comply
 

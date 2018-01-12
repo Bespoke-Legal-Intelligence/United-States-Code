@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title11",
- "package": "USCODE-2016-title11",
+ "package": "USCODE-2017-title11",
  "pieces": [
   {
    "id": "11_",
@@ -104,7 +104,7 @@
    "marks": [
     [
      "L",
-     72,
+     70,
      "[Page 9]",
      true
     ],
@@ -113,104 +113,108 @@
      140,
      [
       [
-       185,
+       96,
        "[Page 10]"
       ]
      ]
     ],
     [
-     "L",
-     204,
-     "[Page 11]",
-     true
-    ],
-    [
-     "L",
-     244,
-     "[Page 12]",
-     true
+     "I",
+     200,
+     [
+      [
+       187,
+       "[Page 11]"
+      ]
+     ]
     ],
     [
      "I",
+     242,
+     [
+      [
+       433,
+       "[Page 12]"
+      ]
+     ]
+    ],
+    [
+     "L",
      352,
-     [
-      [
-       94,
-       "[Page 13]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     436,
-     "[Page 14]",
+     "[Page 13]",
      true
     ],
     [
      "I",
-     494,
+     434,
      [
       [
-       94,
-       "[Page 15]"
+       101,
+       "[Page 14]"
       ]
      ]
     ],
     [
      "L",
-     568,
-     "[Page 16]",
+     494,
+     "[Page 15]",
      true
     ],
     [
+     "I",
+     566,
+     [
+      [
+       324,
+       "[Page 16]"
+      ]
+     ]
+    ],
+    [
      "L",
-     630,
+     626,
      "[Page 17]",
      true
     ],
     [
      "I",
-     672,
+     668,
      [
       [
-       159,
+       367,
        "[Page 18]"
       ]
      ]
     ],
     [
-     "I",
-     716,
-     [
-      [
-       597,
-       "[Page 19]"
-      ]
-     ]
+     "L",
+     714,
+     "[Page 19]",
+     true
     ],
     [
      "I",
-     752,
+     748,
      [
       [
-       164,
+       496,
        "[Page 20]"
       ]
      ]
     ],
     [
      "I",
-     788,
+     786,
      [
       [
-       220,
+       165,
        "[Page 21]"
       ]
      ]
     ],
     [
      "L",
-     888,
+     890,
      "[Page 22]",
      true
     ],
@@ -221,36 +225,40 @@
      true
     ],
     [
-     "L",
-     1094,
-     "[Page 24]",
-     true
+     "I",
+     1092,
+     [
+      [
+       376,
+       "[Page 24]"
+      ]
+     ]
     ],
     [
      "I",
      1212,
      [
       [
-       110,
+       112,
        "[Page 25]"
       ]
      ]
     ],
     [
-     "L",
-     1310,
-     "[Page 26]",
-     true
-    ],
-    [
      "I",
-     1396,
+     1312,
      [
       [
-       110,
-       "[Page 27]"
+       94,
+       "[Page 26]"
       ]
      ]
+    ],
+    [
+     "L",
+     1394,
+     "[Page 27]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00101 - Definitions.md",
@@ -264,19 +272,15 @@
    "marks": [
     [
      "L",
-     10,
+     14,
      "[Page 28]",
      true
     ],
     [
-     "I",
-     64,
-     [
-      [
-       279,
-       "[Page 29]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 29]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00102 - Rules of construction.md",
@@ -302,17 +306,17 @@
      2,
      [
       [
-       150,
+       263,
        "[Page 30]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     70,
      [
       [
-       439,
+       104,
        "[Page 31]"
       ]
      ]
@@ -328,14 +332,10 @@
    "id": "11_105",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       287,
-       "[Page 32]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 32]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00105 - Power of court.md",
@@ -348,10 +348,14 @@
    "id": "11_106",
    "marks": [
     [
-     "L",
+     "I",
      10,
-     "[Page 33]",
-     true
+     [
+      [
+       90,
+       "[Page 33]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00106 - Waiver of sovereign immunity.md",
@@ -364,14 +368,10 @@
    "id": "11_107",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       88,
-       "[Page 34]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 34]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00107 - Public access to papers.md",
@@ -384,10 +384,14 @@
    "id": "11_108",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 35]",
-     true
+     "I",
+     30,
+     [
+      [
+       109,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00108 - Extension of time.md",
@@ -406,30 +410,30 @@
      true
     ],
     [
-     "L",
+     "I",
      68,
-     "[Page 37]",
-     true
+     [
+      [
+       103,
+       "[Page 37]"
+      ]
+     ]
     ],
     [
      "I",
-     98,
+     94,
      [
       [
-       597,
+       870,
        "[Page 38]"
       ]
      ]
     ],
     [
-     "I",
-     186,
-     [
-      [
-       169,
-       "[Page 39]"
-      ]
-     ]
+     "L",
+     184,
+     "[Page 39]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00109 - Who may be a debtor.md",
@@ -557,21 +561,17 @@
    "id": "11_303",
    "marks": [
     [
-     "I",
+     "L",
      34,
-     [
-      [
-       97,
-       "[Page 46]"
-      ]
-     ]
+     "[Page 46]",
+     true
     ],
     [
      "I",
-     96,
+     92,
      [
       [
-       377,
+       598,
        "[Page 47]"
       ]
      ]
@@ -606,7 +606,7 @@
      20,
      [
       [
-       214,
+       384,
        "[Page 49]"
       ]
      ]
@@ -640,10 +640,14 @@
    "id": "11_308",
    "marks": [
     [
-     "L",
+     "I",
      18,
-     "[Page 50]",
-     true
+     [
+      [
+       91,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 001 (I) - Commencement of a Case/§ 00308 - Debtor reporting requirements.md",
@@ -674,10 +678,14 @@
    "id": "11_322",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 51]",
-     true
+     "I",
+     26,
+     [
+      [
+       104,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 002 (II) - Officers/§ 00322 - Qualification of trustee.md",
@@ -717,16 +725,24 @@
    "id": "11_326",
    "marks": [
     [
-     "L",
+     "I",
      4,
-     "[Page 52]",
-     true
+     [
+      [
+       92,
+       "[Page 52]"
+      ]
+     ]
     ],
     [
-     "L",
-     50,
-     "[Page 53]",
-     true
+     "I",
+     52,
+     [
+      [
+       104,
+       "[Page 53]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 002 (II) - Officers/§ 00326 - Limitation on compensation of trustee.md",
@@ -739,10 +755,14 @@
    "id": "11_327",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 54]",
-     true
+     "I",
+     50,
+     [
+      [
+       172,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 002 (II) - Officers/§ 00327 - Employment of professional persons.md",
@@ -768,7 +788,7 @@
      2,
      [
       [
-       93,
+       334,
        "[Page 55]"
       ]
      ]
@@ -784,34 +804,26 @@
    "id": "11_330",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       179,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 56]",
+     true
     ],
     [
      "I",
-     82,
+     84,
      [
       [
-       317,
+       111,
        "[Page 57]"
       ]
      ]
     ],
     [
-     "I",
-     140,
-     [
-      [
-       109,
-       "[Page 58]"
-      ]
-     ]
+     "L",
+     142,
+     "[Page 58]",
+     true
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 002 (II) - Officers/§ 00330 - Compensation of officers.md",
@@ -843,7 +855,7 @@
    "marks": [
     [
      "L",
-     10,
+     14,
      "[Page 59]",
      true
     ]
@@ -867,10 +879,14 @@
    "id": "11_341",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 60]",
-     true
+     "I",
+     38,
+     [
+      [
+       168,
+       "[Page 60]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 003 (III) - Administration/§ 00341 - Meetings of creditors and equity security holders.md",
@@ -884,16 +900,16 @@
    "marks": [
     [
      "L",
-     28,
+     30,
      "[Page 61]",
      true
     ],
     [
      "I",
-     88,
+     92,
      [
       [
-       104,
+       106,
        "[Page 62]"
       ]
      ]
@@ -927,14 +943,10 @@
    "id": "11_345",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       136,
-       "[Page 63]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 003 (III) - Administration/§ 00345 - Money of estates.md",
@@ -951,27 +963,27 @@
      4,
      [
       [
-       183,
+       758,
        "[Page 64]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     44,
      [
       [
-       636,
+       377,
        "[Page 65]"
       ]
      ]
     ],
     [
      "I",
-     86,
+     90,
      [
       [
-       216,
+       277,
        "[Page 66]"
       ]
      ]
@@ -988,10 +1000,10 @@
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       197,
+       431,
        "[Page 67]"
       ]
      ]
@@ -1007,14 +1019,10 @@
    "id": "11_348",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       275,
-       "[Page 68]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 68]",
+     true
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 003 (III) - Administration/§ 00348 - Effect of conversion.md",
@@ -1028,10 +1036,10 @@
    "marks": [
     [
      "I",
-     28,
+     30,
      [
       [
-       435,
+       769,
        "[Page 69]"
       ]
      ]
@@ -1074,41 +1082,37 @@
    "id": "11_361",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       96,
-       "[Page 70]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 70]",
+     true
     ],
     [
      "I",
-     40,
+     44,
      [
       [
-       110,
+       107,
        "[Page 71]"
       ]
      ]
     ],
     [
      "I",
-     72,
+     74,
      [
       [
-       1179,
+       818,
        "[Page 72]"
       ]
      ]
     ],
     [
      "I",
-     98,
+     100,
      [
       [
-       104,
+       381,
        "[Page 73]"
       ]
      ]
@@ -1124,80 +1128,88 @@
    "id": "11_362",
    "marks": [
     [
+     "L",
+     56,
+     "[Page 74]",
+     true
+    ],
+    [
      "I",
-     52,
+     92,
      [
       [
-       184,
-       "[Page 74]"
+       135,
+       "[Page 75]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     140,
+     [
+      [
+       98,
+       "[Page 76]"
       ]
      ]
     ],
     [
      "L",
-     90,
-     "[Page 75]",
-     true
-    ],
-    [
-     "L",
-     130,
-     "[Page 76]",
-     true
-    ],
-    [
-     "L",
-     186,
+     192,
      "[Page 77]",
      true
     ],
     [
      "I",
-     236,
+     238,
      [
       [
-       93,
+       462,
        "[Page 78]"
       ]
      ]
     ],
     [
      "L",
-     280,
+     284,
      "[Page 79]",
      true
     ],
     [
-     "L",
-     336,
-     "[Page 80]",
-     true
-    ],
-    [
      "I",
-     366,
+     340,
      [
       [
-       717,
-       "[Page 81]"
+       215,
+       "[Page 80]"
       ]
      ]
     ],
     [
      "L",
-     410,
-     "[Page 82]",
+     368,
+     "[Page 81]",
      true
     ],
     [
+     "I",
+     410,
+     [
+      [
+       481,
+       "[Page 82]"
+      ]
+     ]
+    ],
+    [
      "L",
-     496,
+     500,
      "[Page 83]",
      true
     ],
     [
      "L",
-     578,
+     582,
      "[Page 84]",
      true
     ]
@@ -1212,21 +1224,17 @@
    "id": "11_363",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       378,
-       "[Page 85]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 85]",
+     true
     ],
     [
      "I",
      82,
      [
       [
-       91,
+       331,
        "[Page 86]"
       ]
      ]
@@ -1236,20 +1244,16 @@
      120,
      [
       [
-       224,
+       495,
        "[Page 87]"
       ]
      ]
     ],
     [
-     "I",
-     188,
-     [
-      [
-       318,
-       "[Page 88]"
-      ]
-     ]
+     "L",
+     190,
+     "[Page 88]",
+     true
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 004 (IV) - Administrative Powers/§ 00363 - Use, sale, or lease of property.md",
@@ -1262,14 +1266,10 @@
    "id": "11_364",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       107,
-       "[Page 89]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 89]",
+     true
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 004 (IV) - Administrative Powers/§ 00364 - Obtaining credit.md",
@@ -1282,17 +1282,21 @@
    "id": "11_365",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 90]",
-     true
+     "I",
+     28,
+     [
+      [
+       142,
+       "[Page 90]"
+      ]
+     ]
     ],
     [
      "I",
-     70,
+     72,
      [
       [
-       139,
+       142,
        "[Page 91]"
       ]
      ]
@@ -1302,7 +1306,7 @@
      120,
      [
       [
-       282,
+       565,
        "[Page 92]"
       ]
      ]
@@ -1312,17 +1316,17 @@
      176,
      [
       [
-       143,
+       429,
        "[Page 93]"
       ]
      ]
     ],
     [
      "I",
-     218,
+     220,
      [
       [
-       371,
+       269,
        "[Page 94]"
       ]
      ]
@@ -1332,40 +1336,41 @@
      254,
      [
       [
-       159,
+       535,
        "[Page 95]"
       ]
      ]
     ],
     [
      "L",
-     302,
+     308,
      "[Page 96]",
      true
-    ],
-    [
-     "I",
-     376,
-     [
-      [
-       109,
-       "[Page 97]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 003 - Case Administration/Subchapter 004 (IV) - Administrative Powers/§ 00365 - Executory contracts and unexpired leases.md",
    "printed_pages": [
     89,
-    97
+    96
    ]
   },
   {
    "id": "11_366",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 97]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Case Administration/Subchapter 004 (IV) - Administrative Powers/§ 00366 - Utility service.md",
    "printed_pages": [
-    97,
+    96,
     97
    ]
   },
@@ -1374,10 +1379,10 @@
    "marks": [
     [
      "I",
-     28,
+     42,
      [
       [
-       54,
+       88,
        "[Page 98]"
       ]
      ]
@@ -1406,7 +1411,7 @@
      30,
      [
       [
-       660,
+       1362,
        "[Page 99]"
       ]
      ]
@@ -1422,42 +1427,54 @@
    "id": "11_502",
    "marks": [
     [
-     "L",
+     "I",
      38,
-     "[Page 100]",
-     true
-    ],
-    [
-     "L",
-     84,
-     "[Page 101]",
-     true
+     [
+      [
+       422,
+       "[Page 100]"
+      ]
+     ]
     ],
     [
      "I",
-     112,
+     88,
      [
       [
-       371,
+       107,
+       "[Page 101]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     114,
+     [
+      [
+       108,
        "[Page 102]"
       ]
      ]
     ],
     [
      "I",
-     150,
+     152,
      [
       [
-       773,
+       113,
        "[Page 103]"
       ]
      ]
     ],
     [
-     "L",
-     184,
-     "[Page 104]",
-     true
+     "I",
+     190,
+     [
+      [
+       169,
+       "[Page 104]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00502 - Allowance of claims or interests.md",
@@ -1470,24 +1487,24 @@
    "id": "11_503",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 105]",
-     true
-    ],
-    [
      "I",
-     72,
+     20,
      [
       [
-       88,
-       "[Page 106]"
+       91,
+       "[Page 105]"
       ]
      ]
     ],
     [
      "L",
-     122,
+     76,
+     "[Page 106]",
+     true
+    ],
+    [
+     "L",
+     134,
      "[Page 107]",
      true
     ]
@@ -1511,53 +1528,65 @@
    "id": "11_505",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 108]",
-     true
-    ],
-    [
-     "L",
-     62,
-     "[Page 109]",
-     true
-    ],
-    [
      "I",
-     80,
+     24,
      [
       [
-       534,
-       "[Page 110]"
+       187,
+       "[Page 108]"
       ]
      ]
     ],
     [
-     "L",
-     118,
-     "[Page 111]",
-     true
+     "I",
+     64,
+     [
+      [
+       108,
+       "[Page 109]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       715,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00505 - Determination of tax liability.md",
    "printed_pages": [
     107,
-    111
+    110
    ]
   },
   {
    "id": "11_506",
    "marks": [
     [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 111]"
+      ]
+     ]
+    ],
+    [
      "L",
-     36,
+     42,
      "[Page 112]",
      true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00506 - Determination of secured status.md",
    "printed_pages": [
-    111,
+    110,
     112
    ]
   },
@@ -1565,43 +1594,43 @@
    "id": "11_507",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 113]",
-     true
+     "I",
+     34,
+     [
+      [
+       99,
+       "[Page 113]"
+      ]
+     ]
     ],
     [
      "L",
-     84,
+     88,
      "[Page 114]",
      true
     ],
     [
-     "I",
-     126,
-     [
-      [
-       278,
-       "[Page 115]"
-      ]
-     ]
+     "L",
+     128,
+     "[Page 115]",
+     true
     ],
     [
      "I",
      152,
      [
       [
-       505,
+       767,
        "[Page 116]"
       ]
      ]
     ],
     [
      "I",
-     180,
+     182,
      [
       [
-       440,
+       280,
        "[Page 117]"
       ]
      ]
@@ -1611,78 +1640,80 @@
      206,
      [
       [
-       431,
+       89,
        "[Page 118]"
       ]
      ]
     ],
     [
-     "L",
-     270,
-     "[Page 119]",
-     true
-    ],
-    [
-     "L",
-     358,
-     "[Page 120]",
-     true
+     "I",
+     282,
+     [
+      [
+       170,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00507 - Priorities.md",
    "printed_pages": [
     112,
-    120
+    119
    ]
   },
   {
    "id": "11_508",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 120]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00508 - Effect of distribution other than under this title.md",
    "printed_pages": [
-    120,
+    119,
     120
    ]
   },
   {
    "id": "11_509",
+   "marks": [],
+   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00509 - Claims of codebtors.md",
+   "printed_pages": [
+    120,
+    120
+   ]
+  },
+  {
+   "id": "11_510",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 121]",
-     true
+     "I",
+     4,
+     [
+      [
+       194,
+       "[Page 121]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00509 - Claims of codebtors.md",
+   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00510 - Subordination.md",
    "printed_pages": [
     120,
     121
    ]
   },
   {
-   "id": "11_510",
-   "marks": [],
-   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00510 - Subordination.md",
-   "printed_pages": [
-    121,
-    121
-   ]
-  },
-  {
    "id": "11_511",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 122]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 001 (I) - Creditors and Claims/§ 00511 - Rate of interest on tax claims.md",
    "printed_pages": [
     121,
-    122
+    121
    ]
   },
   {
@@ -1690,43 +1721,53 @@
    "marks": [],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 002 (II) - Debtor's Duties and Benefits/README.md",
    "printed_pages": [
-    122,
-    122
+    121,
+    121
    ]
   },
   {
    "id": "11_521",
    "marks": [
     [
+     "L",
+     16,
+     "[Page 122]",
+     true
+    ],
+    [
      "I",
-     54,
+     58,
      [
       [
-       98,
+       450,
        "[Page 123]"
       ]
      ]
     ],
     [
      "I",
-     106,
+     114,
      [
       [
-       95,
+       189,
        "[Page 124]"
       ]
      ]
     ],
     [
-     "L",
-     170,
-     "[Page 125]",
-     true
+     "I",
+     196,
+     [
+      [
+       105,
+       "[Page 125]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 002 (II) - Debtor's Duties and Benefits/§ 00521 - Debtor's duties.md",
    "printed_pages": [
-    122,
+    121,
     125
    ]
   },
@@ -1734,58 +1775,78 @@
    "id": "11_522",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 126]",
-     true
+     "I",
+     18,
+     [
+      [
+       97,
+       "[Page 126]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       242,
+       "[Page 127]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     146,
+     [
+      [
+       336,
+       "[Page 128]"
+      ]
+     ]
     ],
     [
      "L",
-     68,
-     "[Page 127]",
-     true
-    ],
-    [
-     "L",
-     140,
-     "[Page 128]",
-     true
-    ],
-    [
-     "L",
-     220,
+     226,
      "[Page 129]",
      true
     ],
     [
      "L",
-     280,
+     288,
      "[Page 130]",
      true
     ],
     [
      "L",
-     336,
+     348,
      "[Page 131]",
      true
     ],
     [
-     "L",
-     380,
-     "[Page 132]",
-     true
+     "I",
+     382,
+     [
+      [
+       209,
+       "[Page 132]"
+      ]
+     ]
     ],
     [
      "L",
-     458,
+     470,
      "[Page 133]",
      true
     ],
     [
-     "L",
-     542,
-     "[Page 134]",
-     true
+     "I",
+     540,
+     [
+      [
+       398,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 002 (II) - Debtor's Duties and Benefits/§ 00522 - Exemptions.md",
@@ -1799,30 +1860,26 @@
    "marks": [
     [
      "I",
-     38,
+     46,
      [
       [
-       94,
+       225,
        "[Page 135]"
       ]
      ]
     ],
     [
-     "I",
-     94,
-     [
-      [
-       97,
-       "[Page 136]"
-      ]
-     ]
+     "L",
+     106,
+     "[Page 136]",
+     true
     ],
     [
      "I",
-     136,
+     132,
      [
       [
-       419,
+       2021,
        "[Page 137]"
       ]
      ]
@@ -1832,39 +1889,39 @@
      168,
      [
       [
-       481,
+       498,
        "[Page 138]"
       ]
      ]
     ],
     [
+     "L",
+     204,
+     "[Page 139]",
+     true
+    ],
+    [
      "I",
-     200,
+     250,
      [
       [
-       159,
-       "[Page 139]"
+       330,
+       "[Page 140]"
       ]
      ]
     ],
     [
      "L",
-     244,
-     "[Page 140]",
-     true
-    ],
-    [
-     "L",
-     324,
+     336,
      "[Page 141]",
      true
     ],
     [
      "I",
-     410,
+     426,
      [
       [
-       151,
+       109,
        "[Page 142]"
       ]
      ]
@@ -1880,62 +1937,62 @@
    "id": "11_524",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 143]",
-     true
+     "I",
+     38,
+     [
+      [
+       94,
+       "[Page 143]"
+      ]
+     ]
     ],
     [
      "L",
-     94,
+     104,
      "[Page 144]",
      true
     ],
     [
      "L",
-     156,
+     162,
      "[Page 145]",
      true
     ],
     [
-     "I",
-     212,
-     [
-      [
-       95,
-       "[Page 146]"
-      ]
-     ]
+     "L",
+     226,
+     "[Page 146]",
+     true
+    ],
+    [
+     "L",
+     266,
+     "[Page 147]",
+     true
     ],
     [
      "I",
-     256,
+     320,
      [
       [
-       193,
-       "[Page 147]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     316,
-     [
-      [
-       93,
+       739,
        "[Page 148]"
       ]
      ]
     ],
     [
-     "L",
-     364,
-     "[Page 149]",
-     true
+     "I",
+     366,
+     [
+      [
+       1100,
+       "[Page 149]"
+      ]
+     ]
     ],
     [
      "L",
-     432,
+     444,
      "[Page 150]",
      true
     ]
@@ -1950,14 +2007,10 @@
    "id": "11_525",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       170,
-       "[Page 151]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 151]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 002 (II) - Debtor's Duties and Benefits/§ 00525 - Protection against discriminatory treatment.md",
@@ -1971,10 +2024,10 @@
    "marks": [
     [
      "I",
-     18,
+     24,
      [
       [
-       186,
+       183,
        "[Page 152]"
       ]
      ]
@@ -1990,14 +2043,10 @@
    "id": "11_527",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       329,
-       "[Page 153]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 153]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 002 (II) - Debtor's Duties and Benefits/§ 00527 - Disclosures.md",
@@ -2011,7 +2060,7 @@
    "marks": [
     [
      "L",
-     16,
+     26,
      "[Page 154]",
      true
     ]
@@ -2035,42 +2084,54 @@
    "id": "11_541",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 155]",
-     true
-    ],
-    [
-     "L",
-     122,
-     "[Page 156]",
-     true
+     "I",
+     60,
+     [
+      [
+       139,
+       "[Page 155]"
+      ]
+     ]
     ],
     [
      "I",
-     156,
+     130,
      [
       [
-       899,
+       143,
+       "[Page 156]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       574,
        "[Page 157]"
       ]
      ]
     ],
     [
      "I",
-     182,
+     184,
      [
       [
-       383,
+       114,
        "[Page 158]"
       ]
      ]
     ],
     [
-     "L",
-     258,
-     "[Page 159]",
-     true
+     "I",
+     270,
+     [
+      [
+       103,
+       "[Page 159]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00541 - Property of the estate.md",
@@ -2083,14 +2144,10 @@
    "id": "11_542",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       109,
-       "[Page 160]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 160]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00542 - Turnover of property to the estate.md",
@@ -2103,10 +2160,14 @@
    "id": "11_543",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 161]",
-     true
+     "I",
+     58,
+     [
+      [
+       106,
+       "[Page 161]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00543 - Turnover of property by a custodian.md",
@@ -2117,22 +2178,11 @@
   },
   {
    "id": "11_544",
-   "marks": [
-    [
-     "I",
-     46,
-     [
-      [
-       106,
-       "[Page 162]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00544 - Trustee as lien creditor and as successor to certain creditors and purchasers.md",
    "printed_pages": [
     161,
-    162
+    161
    ]
   },
   {
@@ -2140,36 +2190,50 @@
    "marks": [
     [
      "L",
-     62,
-     "[Page 163]",
+     16,
+     "[Page 162]",
      true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00545 - Statutory liens.md",
    "printed_pages": [
-    162,
-    163
+    161,
+    162
    ]
   },
   {
    "id": "11_546",
    "marks": [
     [
+     "I",
+     16,
+     [
+      [
+       95,
+       "[Page 163]"
+      ]
+     ]
+    ],
+    [
      "L",
-     48,
+     54,
      "[Page 164]",
      true
     ],
     [
-     "L",
-     96,
-     "[Page 165]",
-     true
+     "I",
+     108,
+     [
+      [
+       660,
+       "[Page 165]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00546 - Limitations on avoiding powers.md",
    "printed_pages": [
-    163,
+    162,
     165
    ]
   },
@@ -2178,25 +2242,33 @@
    "marks": [
     [
      "L",
-     18,
+     42,
      "[Page 166]",
      true
     ],
     [
-     "L",
-     104,
-     "[Page 167]",
-     true
+     "I",
+     112,
+     [
+      [
+       194,
+       "[Page 167]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     154,
+     [
+      [
+       706,
+       "[Page 168]"
+      ]
+     ]
     ],
     [
      "L",
-     150,
-     "[Page 168]",
-     true
-    ],
-    [
-     "L",
-     212,
+     232,
      "[Page 169]",
      true
     ]
@@ -2212,23 +2284,19 @@
    "marks": [
     [
      "I",
-     22,
+     30,
      [
       [
-       235,
+       96,
        "[Page 170]"
       ]
      ]
     ],
     [
-     "I",
-     82,
-     [
-      [
-       164,
-       "[Page 171]"
-      ]
-     ]
+     "L",
+     96,
+     "[Page 171]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00548 - Fraudulent transfers and obligations.md",
@@ -2241,10 +2309,14 @@
    "id": "11_549",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 172]",
-     true
+     "I",
+     12,
+     [
+      [
+       847,
+       "[Page 172]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00549 - Postpetition transactions.md",
@@ -2258,29 +2330,30 @@
    "marks": [
     [
      "L",
-     4,
+     22,
      "[Page 173]",
-     true
-    ],
-    [
-     "L",
-     80,
-     "[Page 174]",
      true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00550 - Liability of transferee of avoided transfer.md",
    "printed_pages": [
     172,
-    174
+    173
    ]
   },
   {
    "id": "11_551",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 174]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00551 - Automatic preservation of avoided transfer.md",
    "printed_pages": [
-    174,
+    173,
     174
    ]
   },
@@ -2289,10 +2362,10 @@
    "marks": [
     [
      "I",
-     22,
+     28,
      [
       [
-       213,
+       872,
        "[Page 175]"
       ]
      ]
@@ -2308,14 +2381,10 @@
    "id": "11_553",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       109,
-       "[Page 176]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 176]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00553 - Setoff.md",
@@ -2337,14 +2406,10 @@
    "id": "11_555",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       142,
-       "[Page 177]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 177]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00555 - Contractual right to liquidate, terminate, or accelerate a securities contract.md",
@@ -2357,10 +2422,14 @@
    "id": "11_556",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 178]",
-     true
+     "I",
+     20,
+     [
+      [
+       113,
+       "[Page 178]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00556 - Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract.md",
@@ -2374,10 +2443,10 @@
    "marks": [
     [
      "I",
-     70,
+     84,
      [
       [
-       91,
+       98,
        "[Page 179]"
       ]
      ]
@@ -2402,14 +2471,10 @@
    "id": "11_559",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       2108,
-       "[Page 180]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 180]",
+     true
     ]
    ],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00559 - Contractual right to liquidate, terminate, or accelerate a repurchase agreement.md",
@@ -2420,50 +2485,46 @@
   },
   {
    "id": "11_560",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       1055,
-       "[Page 181]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00560 - Contractual right to liquidate, terminate, or accelerate a swap agreement.md",
    "printed_pages": [
     180,
-    181
+    180
    ]
   },
   {
    "id": "11_561",
    "marks": [
     [
+     "L",
+     8,
+     "[Page 181]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00561 - Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under….md",
+   "printed_pages": [
+    180,
+    181
+   ]
+  },
+  {
+   "id": "11_562",
+   "marks": [
+    [
      "I",
-     46,
+     8,
      [
       [
-       163,
+       185,
        "[Page 182]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00561 - Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under….md",
-   "printed_pages": [
-    181,
-    182
-   ]
-  },
-  {
-   "id": "11_562",
-   "marks": [],
    "path": "Chapter 005 - Creditors, the Debtor, and the Estate/Subchapter 003 (III) - The Estate/§ 00562 - Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase….md",
    "printed_pages": [
-    182,
+    181,
     182
    ]
   },
@@ -2490,10 +2551,10 @@
    "marks": [
     [
      "I",
-     2,
+     16,
      [
       [
-       97,
+       103,
        "[Page 183]"
       ]
      ]
@@ -2507,26 +2568,26 @@
   },
   {
    "id": "11_702",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 184]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Liquidation/Subchapter 001 (I) - Officers and Administration/§ 00702 - Election of trustee.md",
    "printed_pages": [
     183,
-    184
+    183
    ]
   },
   {
    "id": "11_703",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 184]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Liquidation/Subchapter 001 (I) - Officers and Administration/§ 00703 - Successor trustee.md",
    "printed_pages": [
-    184,
+    183,
     184
    ]
   },
@@ -2534,20 +2595,20 @@
    "id": "11_704",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 185]",
-     true
-    ],
-    [
      "I",
-     96,
+     40,
      [
       [
-       112,
-       "[Page 186]"
+       514,
+       "[Page 185]"
       ]
      ]
+    ],
+    [
+     "L",
+     128,
+     "[Page 186]",
+     true
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 001 (I) - Officers and Administration/§ 00704 - Duties of trustee.md",
@@ -2570,10 +2631,10 @@
    "marks": [
     [
      "I",
-     22,
+     42,
      [
       [
-       328,
+       162,
        "[Page 187]"
       ]
      ]
@@ -2590,40 +2651,36 @@
    "marks": [
     [
      "I",
-     20,
+     26,
      [
       [
-       794,
+       93,
        "[Page 188]"
       ]
      ]
     ],
     [
-     "I",
-     78,
-     [
-      [
-       187,
-       "[Page 189]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 189]",
+     true
     ],
     [
      "I",
-     158,
+     170,
      [
       [
-       137,
+       108,
        "[Page 190]"
       ]
      ]
     ],
     [
      "I",
-     240,
+     252,
      [
       [
-       107,
+       335,
        "[Page 191]"
       ]
      ]
@@ -2657,14 +2714,10 @@
    "id": "11_722",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       101,
-       "[Page 192]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 192]",
+     true
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 002 (II) - Collection, Liquidation, and Distribution of the Estate/§ 00722 - Redemption.md",
@@ -2677,14 +2730,10 @@
    "id": "11_723",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       106,
-       "[Page 193]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 193]",
+     true
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 002 (II) - Collection, Liquidation, and Distribution of the Estate/§ 00723 - Rights of partnership trustee against general partners.md",
@@ -2698,10 +2747,10 @@
    "marks": [
     [
      "I",
-     40,
+     46,
      [
       [
-       105,
+       329,
        "[Page 194]"
       ]
      ]
@@ -2718,10 +2767,10 @@
    "marks": [
     [
      "I",
-     2,
+     14,
      [
       [
-       94,
+       104,
        "[Page 195]"
       ]
      ]
@@ -2738,16 +2787,16 @@
    "marks": [
     [
      "L",
-     40,
+     46,
      "[Page 196]",
      true
     ],
     [
      "I",
-     86,
+     102,
      [
       [
-       172,
+       107,
        "[Page 197]"
       ]
      ]
@@ -2764,29 +2813,33 @@
    "marks": [
     [
      "I",
-     48,
+     56,
      [
       [
-       360,
+       93,
        "[Page 198]"
       ]
      ]
     ],
     [
      "I",
-     98,
+     102,
      [
       [
-       379,
+       548,
        "[Page 199]"
       ]
      ]
     ],
     [
-     "L",
-     154,
-     "[Page 200]",
-     true
+     "I",
+     166,
+     [
+      [
+       162,
+       "[Page 200]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 002 (II) - Collection, Liquidation, and Distribution of the Estate/§ 00727 - Discharge.md",
@@ -2818,31 +2871,21 @@
    "marks": [
     [
      "I",
-     58,
+     68,
      [
       [
-       96,
+       317,
        "[Page 201]"
       ]
      ]
     ],
     [
      "I",
-     114,
+     118,
      [
       [
        108,
        "[Page 202]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     184,
-     [
-      [
-       106,
-       "[Page 203]"
       ]
      ]
     ]
@@ -2850,15 +2893,22 @@
    "path": "Chapter 007 - Liquidation/Subchapter 003 (III) - Stockbroker Liquidation/§ 00741 - Definitions for this subchapter.md",
    "printed_pages": [
     200,
-    203
+    202
    ]
   },
   {
    "id": "11_742",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 203]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Liquidation/Subchapter 003 (III) - Stockbroker Liquidation/§ 00742 - Effect of section 362 of this title in this subchapter.md",
    "printed_pages": [
-    203,
+    202,
     203
    ]
   },
@@ -2885,7 +2935,7 @@
    "marks": [
     [
      "L",
-     10,
+     20,
      "[Page 204]",
      true
     ]
@@ -2919,7 +2969,7 @@
    "marks": [
     [
      "L",
-     4,
+     12,
      "[Page 205]",
      true
     ]
@@ -2962,10 +3012,10 @@
    "marks": [
     [
      "I",
-     8,
+     16,
      [
       [
-       137,
+       272,
        "[Page 206]"
       ]
      ]
@@ -2999,46 +3049,50 @@
    "id": "11_761",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       271,
-       "[Page 207]"
-      ]
-     ]
-    ],
-    [
      "L",
-     80,
-     "[Page 208]",
+     30,
+     "[Page 207]",
      true
     ],
     [
      "I",
-     142,
+     84,
      [
       [
-       103,
+       258,
+       "[Page 208]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     150,
+     [
+      [
+       156,
        "[Page 209]"
       ]
      ]
     ],
     [
      "I",
-     184,
+     186,
      [
       [
-       110,
+       480,
        "[Page 210]"
       ]
      ]
     ],
     [
-     "L",
-     242,
-     "[Page 211]",
-     true
+     "I",
+     252,
+     [
+      [
+       106,
+       "[Page 211]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 004 (IV) - Commodity Broker Liquidation/§ 00761 - Definitions for this subchapter.md",
@@ -3069,10 +3123,14 @@
    "id": "11_764",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 212]",
-     true
+     "I",
+     48,
+     [
+      [
+       106,
+       "[Page 212]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Liquidation/Subchapter 004 (IV) - Commodity Broker Liquidation/§ 00764 - Voidable transfers.md",
@@ -3094,33 +3152,41 @@
    "id": "11_766",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 213]",
-     true
+     "I",
+     36,
+     [
+      [
+       101,
+       "[Page 213]"
+      ]
+     ]
     ],
     [
      "I",
-     68,
+     72,
      [
       [
-       472,
+       154,
        "[Page 214]"
       ]
      ]
     ],
     [
-     "L",
-     96,
-     "[Page 215]",
-     true
+     "I",
+     100,
+     [
+      [
+       107,
+       "[Page 215]"
+      ]
+     ]
     ],
     [
      "I",
-     128,
+     130,
      [
       [
-       221,
+       652,
        "[Page 216]"
       ]
      ]
@@ -3161,30 +3227,26 @@
   },
   {
    "id": "11_782",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       82,
-       "[Page 217]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Liquidation/Subchapter 005 (V) - Clearing Bank Liquidation/§ 00782 - Selection of trustee.md",
    "printed_pages": [
     216,
-    217
+    216
    ]
   },
   {
    "id": "11_783",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 217]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Liquidation/Subchapter 005 (V) - Clearing Bank Liquidation/§ 00783 - Additional powers of trustee.md",
    "printed_pages": [
-    217,
+    216,
     217
    ]
   },
@@ -3220,23 +3282,19 @@
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       255,
+       105,
        "[Page 218]"
       ]
      ]
     ],
     [
-     "I",
-     50,
-     [
-      [
-       170,
-       "[Page 219]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 219]",
+     true
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 001 (I) - General Provisions/§ 00901 - Applicability of other sections of this title.md",
@@ -3249,14 +3307,10 @@
    "id": "11_902",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       98,
-       "[Page 220]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 220]",
+     true
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 001 (I) - General Provisions/§ 00902 - Definitions for this chapter.md",
@@ -3270,10 +3324,10 @@
    "marks": [
     [
      "I",
-     2,
+     18,
      [
       [
-       183,
+       109,
        "[Page 221]"
       ]
      ]
@@ -3307,14 +3361,10 @@
    "id": "11_921",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       226,
-       "[Page 222]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 222]",
+     true
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 002 (II) - Administration/§ 00921 - Petition and proceedings relating to petition.md",
@@ -3336,10 +3386,14 @@
    "id": "11_923",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 223]",
-     true
+     "I",
+     14,
+     [
+      [
+       224,
+       "[Page 223]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 002 (II) - Administration/§ 00923 - Notice.md",
@@ -3370,14 +3424,10 @@
    "id": "11_926",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       1151,
-       "[Page 224]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 224]",
+     true
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 002 (II) - Administration/§ 00926 - Avoiding powers.md",
@@ -3417,14 +3467,10 @@
    "id": "11_930",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       672,
-       "[Page 225]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 225]",
+     true
     ]
    ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 002 (II) - Administration/§ 00930 - Dismissal.md",
@@ -3465,10 +3511,10 @@
    "marks": [
     [
      "I",
-     30,
+     34,
      [
       [
-       398,
+       543,
        "[Page 226]"
       ]
      ]
@@ -3491,26 +3537,30 @@
   },
   {
    "id": "11_945",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 227]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 003 (III) - The Plan/§ 00945 - Continuing jurisdiction and closing of the case.md",
    "printed_pages": [
     226,
-    227
+    226
    ]
   },
   {
    "id": "11_946",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       190,
+       "[Page 227]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Adjustment of Debts of a Municipality/Subchapter 003 (III) - The Plan/§ 00946 - Effect of exchange of securities before the date of the filing of the petition.md",
    "printed_pages": [
-    227,
+    226,
     227
    ]
   },
@@ -3519,35 +3569,29 @@
    "marks": [
     [
      "I",
-     79,
+     81,
      [
       [
-       2917,
+       594,
        "[Page 228]"
       ]
      ]
     ],
     [
      "I",
-     111,
+     113,
      [
       [
-       109,
+       268,
        "[Page 229]"
       ]
      ]
-    ],
-    [
-     "L",
-     145,
-     "[Page 230]",
-     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/README.md",
    "printed_pages": [
     227,
-    230
+    229
    ]
   },
   {
@@ -3555,16 +3599,23 @@
    "marks": [],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/README.md",
    "printed_pages": [
-    230,
-    230
+    229,
+    229
    ]
   },
   {
    "id": "11_1101",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 230]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01101 - Definitions for this chapter.md",
    "printed_pages": [
-    230,
+    229,
     230
    ]
   },
@@ -3573,7 +3624,7 @@
    "marks": [
     [
      "L",
-     40,
+     42,
      "[Page 231]",
      true
     ]
@@ -3589,7 +3640,7 @@
    "marks": [
     [
      "L",
-     14,
+     22,
      "[Page 232]",
      true
     ]
@@ -3605,23 +3656,19 @@
    "marks": [
     [
      "I",
-     20,
+     26,
      [
       [
-       433,
+       183,
        "[Page 233]"
       ]
      ]
     ],
     [
-     "I",
-     60,
-     [
-      [
-       547,
-       "[Page 234]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 234]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01104 - Appointment of trustee or examiner.md",
@@ -3643,21 +3690,17 @@
    "id": "11_1106",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       96,
-       "[Page 235]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 235]",
+     true
     ],
     [
      "I",
-     100,
+     108,
      [
       [
-       107,
+       159,
        "[Page 236]"
       ]
      ]
@@ -3673,14 +3716,10 @@
    "id": "11_1107",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       224,
-       "[Page 237]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 237]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01107 - Rights, powers, and duties of debtor in possession.md",
@@ -3711,18 +3750,14 @@
    "id": "11_1110",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       192,
-       "[Page 238]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 238]",
+     true
     ],
     [
      "L",
-     58,
+     62,
      "[Page 239]",
      true
     ]
@@ -3738,7 +3773,7 @@
    "marks": [
     [
      "L",
-     12,
+     20,
      "[Page 240]",
      true
     ]
@@ -3753,16 +3788,24 @@
    "id": "11_1112",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 241]",
-     true
+     "I",
+     68,
+     [
+      [
+       431,
+       "[Page 241]"
+      ]
+     ]
     ],
     [
-     "L",
-     126,
-     "[Page 242]",
-     true
+     "I",
+     134,
+     [
+      [
+       162,
+       "[Page 242]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01112 - Conversion or dismissal.md",
@@ -3776,7 +3819,7 @@
    "marks": [
     [
      "L",
-     36,
+     40,
      "[Page 243]",
      true
     ]
@@ -3795,16 +3838,20 @@
      40,
      [
       [
-       97,
+       522,
        "[Page 244]"
       ]
      ]
     ],
     [
-     "L",
-     90,
-     "[Page 245]",
-     true
+     "I",
+     96,
+     [
+      [
+       102,
+       "[Page 245]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 001 (I) - Officers and Administration/§ 01114 - Payment of insurance benefits to retired employees.md",
@@ -3845,7 +3892,7 @@
    "marks": [
     [
      "L",
-     14,
+     18,
      "[Page 246]",
      true
     ]
@@ -3861,7 +3908,7 @@
    "marks": [
     [
      "L",
-     6,
+     14,
      "[Page 247]",
      true
     ]
@@ -3877,40 +3924,48 @@
    "marks": [
     [
      "I",
-     62,
+     68,
      [
       [
-       164,
+       262,
        "[Page 248]"
       ]
      ]
-    ],
-    [
-     "L",
-     126,
-     "[Page 249]",
-     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 002 (II) - The Plan/§ 01123 - Contents of plan.md",
    "printed_pages": [
     247,
-    249
+    248
    ]
   },
   {
    "id": "11_1124",
    "marks": [
     [
-     "L",
+     "I",
+     6,
+     [
+      [
+       94,
+       "[Page 249]"
+      ]
+     ]
+    ],
+    [
+     "I",
      54,
-     "[Page 250]",
-     true
+     [
+      [
+       645,
+       "[Page 250]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 002 (II) - The Plan/§ 01124 - Impairment of claims or interests.md",
    "printed_pages": [
-    249,
+    248,
     250
    ]
   },
@@ -3918,24 +3973,24 @@
    "id": "11_1125",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 251]",
-     true
-    ],
-    [
      "I",
-     62,
+     20,
      [
       [
-       770,
-       "[Page 252]"
+       528,
+       "[Page 251]"
       ]
      ]
     ],
     [
      "L",
-     106,
+     66,
+     "[Page 252]",
+     true
+    ],
+    [
+     "L",
+     114,
      "[Page 253]",
      true
     ]
@@ -3950,14 +4005,10 @@
    "id": "11_1126",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       421,
-       "[Page 254]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 254]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 002 (II) - The Plan/§ 01126 - Acceptance of plan.md",
@@ -3971,7 +4022,7 @@
    "marks": [
     [
      "L",
-     36,
+     38,
      "[Page 255]",
      true
     ]
@@ -3996,32 +4047,36 @@
    "marks": [
     [
      "L",
-     30,
+     38,
      "[Page 256]",
      true
     ],
     [
      "I",
-     84,
+     90,
      [
       [
-       197,
+       99,
        "[Page 257]"
       ]
      ]
     ],
     [
-     "L",
+     "I",
      124,
-     "[Page 258]",
-     true
+     [
+      [
+       546,
+       "[Page 258]"
+      ]
+     ]
     ],
     [
      "I",
      150,
      [
       [
-       106,
+       592,
        "[Page 259]"
       ]
      ]
@@ -4031,7 +4086,7 @@
      168,
      [
       [
-       428,
+       910,
        "[Page 260]"
       ]
      ]
@@ -4041,30 +4096,34 @@
      226,
      [
       [
-       108,
+       548,
        "[Page 261]"
       ]
      ]
     ],
     [
-     "L",
+     "I",
      268,
-     "[Page 262]",
-     true
+     [
+      [
+       438,
+       "[Page 262]"
+      ]
+     ]
     ],
     [
      "I",
-     282,
+     284,
      [
       [
-       804,
+       336,
        "[Page 263]"
       ]
      ]
     ],
     [
      "L",
-     358,
+     362,
      "[Page 264]",
      true
     ]
@@ -4089,19 +4148,15 @@
    "marks": [
     [
      "L",
-     42,
+     46,
      "[Page 265]",
      true
     ],
     [
-     "I",
-     108,
-     [
-      [
-       106,
-       "[Page 266]"
-      ]
-     ]
+     "L",
+     110,
+     "[Page 266]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 003 (III) - Postconfirmation Matters/§ 01141 - Effect of confirmation.md",
@@ -4141,24 +4196,28 @@
    "id": "11_1145",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 267]",
-     true
+     "I",
+     24,
+     [
+      [
+       96,
+       "[Page 267]"
+      ]
+     ]
     ],
     [
      "I",
-     72,
+     76,
      [
       [
-       323,
+       109,
        "[Page 268]"
       ]
      ]
     ],
     [
      "L",
-     114,
+     120,
      "[Page 269]",
      true
     ]
@@ -4173,14 +4232,10 @@
    "id": "11_1146",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       105,
-       "[Page 270]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 270]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 003 (III) - Postconfirmation Matters/§ 01146 - Special tax provisions.md",
@@ -4230,10 +4285,10 @@
    "marks": [
     [
      "I",
-     10,
+     12,
      [
       [
-       103,
+       107,
        "[Page 271]"
       ]
      ]
@@ -4259,10 +4314,10 @@
    "marks": [
     [
      "I",
-     26,
+     28,
      [
       [
-       599,
+       111,
        "[Page 272]"
       ]
      ]
@@ -4288,13 +4343,13 @@
    "marks": [
     [
      "L",
-     16,
+     20,
      "[Page 273]",
      true
     ],
     [
      "L",
-     72,
+     80,
      "[Page 274]",
      true
     ]
@@ -4318,14 +4373,10 @@
    "id": "11_1170",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       93,
-       "[Page 275]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 275]",
+     true
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 004 (IV) - Railroad Reorganization/§ 01170 - Abandonment of railroad line.md",
@@ -4338,10 +4389,14 @@
    "id": "11_1171",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 276]",
-     true
+     "I",
+     16,
+     [
+      [
+       223,
+       "[Page 276]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Reorganization/Subchapter 004 (IV) - Railroad Reorganization/§ 01171 - Priority claims.md",
@@ -4355,10 +4410,10 @@
    "marks": [
     [
      "I",
-     34,
+     38,
      [
       [
-       385,
+       110,
        "[Page 277]"
       ]
      ]
@@ -4375,10 +4430,10 @@
    "marks": [
     [
      "I",
-     24,
+     26,
      [
       [
-       1331,
+       167,
        "[Page 278]"
       ]
      ]
@@ -4403,14 +4458,10 @@
    "id": "11_-ch12",
    "marks": [
     [
-     "I",
-     37,
-     [
-      [
-       1064,
-       "[Page 279]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 279]",
+     true
     ]
    ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/README.md",
@@ -4433,7 +4484,7 @@
    "marks": [
     [
      "L",
-     74,
+     78,
      "[Page 280]",
      true
     ]
@@ -4448,10 +4499,14 @@
    "id": "11_1202",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 281]",
-     true
+     "I",
+     58,
+     [
+      [
+       112,
+       "[Page 281]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01202 - Trustee.md",
@@ -4566,34 +4621,29 @@
    "marks": [
     [
      "L",
-     22,
+     24,
      "[Page 285]",
+     true
+    ],
+    [
+     "L",
+     92,
+     "[Page 286]",
      true
     ]
    ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01222 - Contents of plan.md",
    "printed_pages": [
     284,
-    285
+    286
    ]
   },
   {
    "id": "11_1223",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       218,
-       "[Page 286]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01223 - Modification of plan before confirmation.md",
    "printed_pages": [
-    285,
+    286,
     286
    ]
   },
@@ -4610,14 +4660,10 @@
    "id": "11_1225",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       94,
-       "[Page 287]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 287]",
+     true
     ]
    ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01225 - Confirmation of plan.md",
@@ -4628,30 +4674,30 @@
   },
   {
    "id": "11_1226",
-   "marks": [],
-   "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01226 - Payments.md",
-   "printed_pages": [
-    287,
-    287
-   ]
-  },
-  {
-   "id": "11_1227",
    "marks": [
     [
      "I",
-     2,
+     34,
      [
       [
-       149,
+       218,
        "[Page 288]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01227 - Effect of confirmation.md",
+   "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01226 - Payments.md",
    "printed_pages": [
     287,
+    288
+   ]
+  },
+  {
+   "id": "11_1227",
+   "marks": [],
+   "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01227 - Effect of confirmation.md",
+   "printed_pages": [
+    288,
     288
    ]
   },
@@ -4660,10 +4706,10 @@
    "marks": [
     [
      "I",
-     36,
+     30,
      [
       [
-       803,
+       188,
        "[Page 289]"
       ]
      ]
@@ -4677,40 +4723,52 @@
   },
   {
    "id": "11_1229",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 290]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01229 - Modification of plan after confirmation.md",
    "printed_pages": [
     289,
-    289
+    290
    ]
   },
   {
    "id": "11_1230",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       143,
-       "[Page 290]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01230 - Revocation of an order of confirmation.md",
    "printed_pages": [
-    289,
+    290,
     290
    ]
   },
   {
    "id": "11_1231",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 291]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01231 - Special tax provisions.md",
    "printed_pages": [
     290,
-    290
+    291
+   ]
+  },
+  {
+   "id": "11_1232",
+   "marks": [],
+   "path": "Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income/Subchapter 002 (II) - The Plan/§ 01232 - Claim by a governmental unit based on the disposition of property used in a farming operation.md",
+   "printed_pages": [
+    291,
+    291
    ]
   },
   {
@@ -4718,19 +4776,19 @@
    "marks": [
     [
      "I",
-     23,
+     21,
      [
       [
-       52,
-       "[Page 291]"
+       26,
+       "[Page 292]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/README.md",
    "printed_pages": [
-    290,
-    291
+    291,
+    292
    ]
   },
   {
@@ -4738,54 +4796,50 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/README.md",
    "printed_pages": [
-    291,
-    291
+    292,
+    292
    ]
   },
   {
    "id": "11_1301",
    "marks": [
     [
-     "I",
+     "L",
      44,
-     [
-      [
-       105,
-       "[Page 292]"
-      ]
-     ]
+     "[Page 293]",
+     true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01301 - Stay of action against codebtor.md",
    "printed_pages": [
-    291,
-    292
+    292,
+    293
    ]
   },
   {
    "id": "11_1302",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       108,
-       "[Page 293]"
-      ]
-     ]
-    ],
-    [
      "L",
-     148,
+     62,
      "[Page 294]",
      true
+    ],
+    [
+     "I",
+     144,
+     [
+      [
+       106,
+       "[Page 295]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01302 - Trustee.md",
    "printed_pages": [
-    292,
-    294
+    293,
+    295
    ]
   },
   {
@@ -4793,8 +4847,8 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01303 - Rights and powers of debtor.md",
    "printed_pages": [
-    294,
-    294
+    295,
+    295
    ]
   },
   {
@@ -4802,8 +4856,8 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01304 - Debtor engaged in business.md",
    "printed_pages": [
-    294,
-    294
+    295,
+    295
    ]
   },
   {
@@ -4811,19 +4865,19 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       107,
-       "[Page 295]"
+       161,
+       "[Page 296]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01305 - Filing and allowance of postpetition claims.md",
    "printed_pages": [
-    294,
-    295
+    295,
+    296
    ]
   },
   {
@@ -4831,8 +4885,8 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01306 - Property of the estate.md",
    "printed_pages": [
-    295,
-    295
+    296,
+    296
    ]
   },
   {
@@ -4840,19 +4894,19 @@
    "marks": [
     [
      "I",
-     32,
+     30,
      [
       [
-       142,
-       "[Page 296]"
+       96,
+       "[Page 297]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01307 - Conversion or dismissal.md",
    "printed_pages": [
-    295,
-    296
+    296,
+    297
    ]
   },
   {
@@ -4860,15 +4914,15 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 297]",
+     10,
+     "[Page 298]",
      true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 001 (I) - Officers, Administration, and the Estate/§ 01308 - Filing of prepetition tax returns.md",
    "printed_pages": [
-    296,
-    297
+    297,
+    298
    ]
   },
   {
@@ -4876,8 +4930,8 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/README.md",
    "printed_pages": [
-    297,
-    297
+    298,
+    298
    ]
   },
   {
@@ -4885,8 +4939,8 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01321 - Filing of plan.md",
    "printed_pages": [
-    297,
-    297
+    298,
+    298
    ]
   },
   {
@@ -4894,25 +4948,25 @@
    "marks": [
     [
      "I",
-     38,
+     32,
      [
       [
-       141,
-       "[Page 298]"
+       264,
+       "[Page 299]"
       ]
      ]
     ],
     [
      "L",
-     102,
-     "[Page 299]",
+     90,
+     "[Page 300]",
      true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01322 - Contents of plan.md",
    "printed_pages": [
-    297,
-    299
+    298,
+    300
    ]
   },
   {
@@ -4920,54 +4974,54 @@
    "marks": [],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01323 - Modification of plan before confirmation.md",
    "printed_pages": [
-    299,
-    299
+    300,
+    300
    ]
   },
   {
    "id": "11_1324",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       162,
-       "[Page 300]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 301]",
+     true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01324 - Confirmation hearing.md",
    "printed_pages": [
-    299,
-    300
+    300,
+    301
    ]
   },
   {
    "id": "11_1325",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 301]",
-     true
+     "I",
+     60,
+     [
+      [
+       87,
+       "[Page 302]"
+      ]
+     ]
     ],
     [
      "I",
-     128,
+     124,
      [
       [
-       171,
-       "[Page 302]"
+       116,
+       "[Page 303]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01325 - Confirmation of plan.md",
    "printed_pages": [
-    300,
-    302
+    301,
+    303
    ]
   },
   {
@@ -4975,15 +5029,15 @@
    "marks": [
     [
      "L",
-     30,
-     "[Page 303]",
+     28,
+     "[Page 304]",
      true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01326 - Payments.md",
    "printed_pages": [
-    302,
-    303
+    303,
+    304
    ]
   },
   {
@@ -4991,19 +5045,19 @@
    "marks": [
     [
      "I",
-     4,
+     6,
      [
       [
-       95,
-       "[Page 304]"
+       94,
+       "[Page 305]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01327 - Effect of confirmation.md",
    "printed_pages": [
-    303,
-    304
+    304,
+    305
    ]
   },
   {
@@ -5014,31 +5068,32 @@
      52,
      [
       [
-       107,
-       "[Page 305]"
+       373,
+       "[Page 306]"
       ]
      ]
-    ],
-    [
-     "L",
-     134,
-     "[Page 306]",
-     true
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01328 - Discharge.md",
    "printed_pages": [
-    304,
+    305,
     306
    ]
   },
   {
    "id": "11_1329",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 307]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01329 - Modification of plan after confirmation.md",
    "printed_pages": [
     306,
-    306
+    307
    ]
   },
   {
@@ -5049,16 +5104,16 @@
      18,
      [
       [
-       105,
-       "[Page 307]"
+       218,
+       "[Page 308]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Adjustment of Debts of an Individual with Regular Income/Subchapter 002 (II) - The Plan/§ 01330 - Revocation of an order of confirmation.md",
    "printed_pages": [
-    306,
-    307
+    307,
+    308
    ]
   },
   {
@@ -5066,28 +5121,24 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/README.md",
    "printed_pages": [
-    307,
-    307
+    308,
+    308
    ]
   },
   {
    "id": "11_1501",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       169,
-       "[Page 308]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 309]",
+     true
     ]
    ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/§ 01501 - Purpose and scope of application.md",
    "printed_pages": [
-    307,
-    308
+    308,
+    309
    ]
   },
   {
@@ -5095,8 +5146,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
@@ -5104,8 +5155,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01502 - Definitions.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
@@ -5113,8 +5164,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01503 - International obligations of the United States.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
@@ -5122,8 +5173,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01504 - Commencement of ancillary case.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
@@ -5131,8 +5182,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01505 - Authorization to act in a foreign country.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
@@ -5140,28 +5191,24 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01506 - Public policy exception.md",
    "printed_pages": [
-    308,
-    308
+    309,
+    309
    ]
   },
   {
    "id": "11_1507",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       91,
-       "[Page 309]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 310]",
+     true
     ]
    ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01507 - Additional assistance.md",
    "printed_pages": [
-    308,
-    309
+    309,
+    310
    ]
   },
   {
@@ -5169,8 +5216,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 001 (I) - General Provisions/§ 01508 - Interpretation.md",
    "printed_pages": [
-    309,
-    309
+    310,
+    310
    ]
   },
   {
@@ -5178,8 +5225,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/README.md",
    "printed_pages": [
-    309,
-    309
+    310,
+    310
    ]
   },
   {
@@ -5187,8 +5234,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01509 - Right of direct access.md",
    "printed_pages": [
-    309,
-    309
+    310,
+    310
    ]
   },
   {
@@ -5196,28 +5243,24 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01510 - Limited jurisdiction.md",
    "printed_pages": [
-    309,
-    309
+    310,
+    310
    ]
   },
   {
    "id": "11_1511",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       109,
-       "[Page 310]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 311]",
+     true
     ]
    ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01511 - Commencement of case under section 301, 302, or 303.md",
    "printed_pages": [
-    309,
-    310
+    310,
+    311
    ]
   },
   {
@@ -5225,8 +5268,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01512 - Participation of a foreign representative in a case under this title.md",
    "printed_pages": [
-    310,
-    310
+    311,
+    311
    ]
   },
   {
@@ -5234,8 +5277,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01513 - Access of foreign creditors to a case under this title.md",
    "printed_pages": [
-    310,
-    310
+    311,
+    311
    ]
   },
   {
@@ -5243,8 +5286,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 002 (II) - Access of Foreign Representatives and Creditors to the Court/§ 01514 - Notification to foreign creditors concerning a case under this title.md",
    "printed_pages": [
-    310,
-    310
+    311,
+    311
    ]
   },
   {
@@ -5252,33 +5295,33 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/README.md",
    "printed_pages": [
-    310,
-    310
+    311,
+    311
    ]
   },
   {
    "id": "11_1515",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 311]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01515 - Application for recognition.md",
    "printed_pages": [
-    310,
+    311,
     311
    ]
   },
   {
    "id": "11_1516",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 312]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01516 - Presumptions concerning recognition.md",
    "printed_pages": [
     311,
-    311
+    312
    ]
   },
   {
@@ -5286,8 +5329,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01517 - Order granting recognition.md",
    "printed_pages": [
-    311,
-    311
+    312,
+    312
    ]
   },
   {
@@ -5295,24 +5338,28 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01518 - Subsequent information.md",
    "printed_pages": [
-    311,
-    311
+    312,
+    312
    ]
   },
   {
    "id": "11_1519",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 312]",
-     true
+     "I",
+     28,
+     [
+      [
+       222,
+       "[Page 313]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01519 - Relief that may be granted upon filing petition for recognition.md",
    "printed_pages": [
-    311,
-    312
+    312,
+    313
    ]
   },
   {
@@ -5320,8 +5367,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01520 - Effects of recognition of a foreign main proceeding.md",
    "printed_pages": [
-    312,
-    312
+    313,
+    313
    ]
   },
   {
@@ -5329,24 +5376,28 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01521 - Relief that may be granted upon recognition.md",
    "printed_pages": [
-    312,
-    312
+    313,
+    313
    ]
   },
   {
    "id": "11_1522",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 313]",
-     true
+     "I",
+     6,
+     [
+      [
+       91,
+       "[Page 314]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01522 - Protection of creditors and other interested persons.md",
    "printed_pages": [
-    312,
-    313
+    313,
+    314
    ]
   },
   {
@@ -5354,8 +5405,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01523 - Actions to avoid acts detrimental to creditors.md",
    "printed_pages": [
-    313,
-    313
+    314,
+    314
    ]
   },
   {
@@ -5363,8 +5414,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 003 (III) - Recognition of a Foreign Proceeding and Relief/§ 01524 - Intervention by a foreign representative.md",
    "printed_pages": [
-    313,
-    313
+    314,
+    314
    ]
   },
   {
@@ -5372,8 +5423,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 004 (IV) - Cooperation with Foreign Courts and Foreign Representatives/README.md",
    "printed_pages": [
-    313,
-    313
+    314,
+    314
    ]
   },
   {
@@ -5381,8 +5432,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 004 (IV) - Cooperation with Foreign Courts and Foreign Representatives/§ 01525 - Cooperation and direct communication between the court and foreign courts or foreign representatives.md",
    "printed_pages": [
-    313,
-    313
+    314,
+    314
    ]
   },
   {
@@ -5390,23 +5441,16 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 004 (IV) - Cooperation with Foreign Courts and Foreign Representatives/§ 01526 - Cooperation and direct communication between the trustee and foreign courts or foreign representatives.md",
    "printed_pages": [
-    313,
-    313
+    314,
+    314
    ]
   },
   {
    "id": "11_1527",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 314]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 004 (IV) - Cooperation with Foreign Courts and Foreign Representatives/§ 01527 - Forms of cooperation.md",
    "printed_pages": [
-    313,
+    314,
     314
    ]
   },
@@ -5421,11 +5465,22 @@
   },
   {
    "id": "11_1528",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 315]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 005 (V) - Concurrent Proceedings/§ 01528 - Commencement of a case under this title after recognition of a foreign main proceeding.md",
    "printed_pages": [
     314,
-    314
+    315
    ]
   },
   {
@@ -5433,8 +5488,8 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 005 (V) - Concurrent Proceedings/§ 01529 - Coordination of a case under this title and a foreign proceeding.md",
    "printed_pages": [
-    314,
-    314
+    315,
+    315
    ]
   },
   {
@@ -5442,40 +5497,40 @@
    "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 005 (V) - Concurrent Proceedings/§ 01530 - Coordination of more than 1 foreign proceeding.md",
    "printed_pages": [
-    314,
-    314
+    315,
+    315
    ]
   },
   {
    "id": "11_1531",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       163,
-       "[Page 315]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 005 (V) - Concurrent Proceedings/§ 01531 - Presumption of insolvency based on recognition of a foreign main proceeding.md",
    "printed_pages": [
-    314,
+    315,
     315
    ]
   },
   {
    "id": "11_1532",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 316]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - Ancillary and Other Cross-Border Cases/Subchapter 005 (V) - Concurrent Proceedings/§ 01532 - Rule of payment in concurrent proceedings.md",
    "printed_pages": [
     315,
-    315
+    316
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2016-title11 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2017-title11 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 11 - Bankruptcy"
 }

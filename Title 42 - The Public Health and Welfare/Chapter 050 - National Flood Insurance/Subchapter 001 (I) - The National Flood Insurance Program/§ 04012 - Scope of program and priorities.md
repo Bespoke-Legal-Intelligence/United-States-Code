@@ -32,7 +32,7 @@ The Administrator shall make flood insurance available in only those States or a
 
 &emsp;(1) evidenced a positive interest in securing flood insurance coverage under the flood insurance program, and
 
-&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodwaysand on controlling flood elevations is available.
+&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodways and on controlling flood elevations is available.
 
 #### (d) Availability of insurance for multifamily properties
 
@@ -67,6 +67,10 @@ Subsec. (d). Pub. L. 112–141, §100204(2), added subsec. (d).
 <b>1971</b>—Subsec. (a). Pub. L. 92–213 inserted reference to church properties.
 
 <b>1969</b>—Subsec. (c)(2). Pub. L. 91–152 substituted "December 31, 1971, adequate" for "June 30, 1970, permanent".
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

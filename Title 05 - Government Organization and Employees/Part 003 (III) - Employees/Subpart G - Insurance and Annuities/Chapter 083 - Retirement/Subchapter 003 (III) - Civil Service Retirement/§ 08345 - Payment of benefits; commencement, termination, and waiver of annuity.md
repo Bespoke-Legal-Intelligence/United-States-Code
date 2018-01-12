@@ -22,7 +22,7 @@
 
 (c) The annuity of a retired employee or Member terminates on the day death or other terminating event provided by this subchapter occurs. The annuity of a survivor terminates on the last day of the month before death or other terminating event occurs.
 
-(d) An individual entitled to annuity from the Fund may decline to accept all or any part ofthe annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
+(d) An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 
 (e) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
 
@@ -56,7 +56,7 @@
 
 (k)(1) The Office shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Office shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund and disbursed to the States during the month following that calendar quarter.
 
-(2) An annuitant may have in effect at any time only one request for withholding under this subsection, and an annuitant may not have more than two such requests in effect during any one calendar year.
+(2) An annuitant may have in effect at any time only one request for withholding under thissubsection, and an annuitant may not have more than two such requests in effect during any one calendar year.
 
 (3) Subject to paragraph (2) of this subsection, an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which the request or the revocation is processed by the Office, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Office.
 
@@ -66,7 +66,7 @@
 
 (l) Transfers of contributions and deposits authorized by section 408(a)(3) of the Foreign Service Act of 1980 shall be deemed to be a complete and final payment of benefits under this chapter.
 
-(Pub. L. 89–544, Sept. 6, 1966, 80 Stat. 582; Pub. L. 93–273, §1, Apr. 26, 1974, 88 Stat. 93; Pub. L. 94–126, §1(c), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–166, §1, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 94–183, §1, Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–366, §1(a), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–35, title XVII, §1705(a), Aug. 13, 1981, 95 Stat. 758; Pub. L. 97–253, title III, §§304(b), 305(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–615, §2(6), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–246, title I, §141(b), Feb. 16, 1990, 104 Stat. 35; Pub. L. 103–358, §2(a), Oct. 14, 1994, 108 Stat. 3420.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 582; Pub. L. 93–273, §1, Apr. 26, 1974, 88 Stat. 93; Pub. L. 94–126, §1(c), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–166, §1, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 94–183, §1, Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–366, §1(a), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–35, title XVII, §1705(a), Aug. 13, 1981, 95 Stat. 758; Pub. L. 97–253, title III, §§304(b), 305(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–615, §2(6), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–246, title I, §141(b), Feb. 16, 1990, 104 Stat. 35; Pub. L. 103–358, §2(a), Oct. 14, 1994, 108 Stat. 3420.)
 
 Historical and Revision Notes
 
@@ -150,7 +150,7 @@ Section 3 of Pub. L. 103–358 provided that: "The amendments made by this Act \
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicabilityprovisions, see section 4(a)(1), (5)(D) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1), (5)(D) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -16,7 +16,7 @@ Requirements.—(1) The Secretary of Defense shall provide that—
 
 (b)
 
-Test Guidelines.—(1) Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in the design of the system, munition, or missile (or in the product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
+Test Guidelines.—(1) Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in thedesign of the system, munition, or missile (or in the product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
 
 (2) The costs of all tests required under that subsection shall be paid from funds available for the system being tested.
 
@@ -108,7 +108,7 @@ Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior t
 
 &emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement programif the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: "The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical."
 
 Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 
@@ -152,7 +152,7 @@ Subsec. (e)(3) to (8). Pub. L. 101–189, §802(c)(3), redesignated pars. (4), (
 
 Subsec. (b)(1). Pub. L. 100–180, §802(a)(2), inserted "(including a covered product improvement program)" after "system or program" and "(or in the product modification or upgrade to the system, munition, or missile)" after "or missile".
 
-Subsec. (b)(2). Pub. L. 100–180, §802(b), inserted at end "The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat."
+Subsec. (b)(2). Pub. L. 100–180, §802(b), inserted at end "The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plansfor persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat."
 
 Subsec. (c). Pub. L. 100–180, §802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted "missile program, or covered product improvement program" for "or missile program", and inserted at end "The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program."
 

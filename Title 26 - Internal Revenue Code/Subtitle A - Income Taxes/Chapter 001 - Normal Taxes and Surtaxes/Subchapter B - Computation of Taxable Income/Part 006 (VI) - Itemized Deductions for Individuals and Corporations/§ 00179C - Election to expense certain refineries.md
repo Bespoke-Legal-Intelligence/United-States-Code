@@ -60,7 +60,7 @@ The requirements of this subsection are met if the portion of the qualified refi
 
 &emsp;(1) enables the existing qualified refinery to increase total volume output (determined without regard to asphalt or lube oil) by 5 percent or more on an average daily basis, or
 
-&emsp;(2) enables the existing qualified refinery to process shale, tar sands, or qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the total throughput of such qualified refinery on an average daily basis.
+&emsp;(2) enables the existing qualified refinery to process shale, tar sands, or qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the totalthroughput of such qualified refinery on an average daily basis.
 
 #### (f) Ineligible refinery property
 

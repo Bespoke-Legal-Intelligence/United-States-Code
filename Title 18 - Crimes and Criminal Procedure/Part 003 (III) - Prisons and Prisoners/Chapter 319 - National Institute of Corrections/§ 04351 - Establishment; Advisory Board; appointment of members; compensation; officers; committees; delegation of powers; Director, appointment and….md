@@ -8,7 +8,7 @@
 
 &emsp;(1) Five shall be appointed initially by the Attorney General of the United States for staggered terms; one member shall serve for one year, one member for two years, and three members for three years. Upon the expiration of each member's term, the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be qualified as a practitioner (Federal, State, or local) in the field of corrections, probation, or parole.
 
-&emsp;(2) Five shall be appointed initially by the Attorney General of the United States for staggered terms, one member shall serve for one year, three members for two years, and one member for three years. Upon the expiration of each member's term the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be from the private sector, such as business, labor, and education, having demonstrated an active interest in corrections, probation, or parole.
+&emsp;(2) Five shall be appointed initially by the Attorney General of the United States for staggered terms, one member shall serve for one year, three members for two years, and one member for three years. Upon the expiration of each member's term the Attorney General shall appoint successors who will each serve for a term of three years. Each member selected shall be from the private sector, suchas business, labor, and education, having demonstrated an active interest in corrections, probation, or parole.
 
 (d) The members of the Board shall not, by reason of such membership, be deemed officers or employees of the United States. Members of the Commission who are full-time officers or employees of the United States shall serve without additional compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Board. Other members of the Board shall, while attending meetings of the Board or while engaged in duties related to such meetings or in other activities of the Commission pursuant to this title, be entitled to receive compensation at the rate not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5, United States Code, including traveltime, and while away from their homes or regular places of business may be allowed travel expenses, including per diem in lieu of subsistence equal to that authorized by section 5703 of title 5, United States Code, for persons in the Government service employed intermittently.
 
@@ -24,7 +24,7 @@
 
 #### References in Text
 
-The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), was created by section 5611 of Title 42, The Public Health and Welfare, headed by an Associate Administrator. However, section 5611 of Title 42, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention and headed by an Administrator.
+The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), as originally created by section 11111 of Title 34, Crime Control and Law Enforcement, was headed by an Associate Administrator. However, section 11111 of Title 34, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention, headed by an Administrator.
 
 #### Amendments
 
@@ -44,11 +44,11 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under section 11101 of Title 34, Crime Control and Law Enforcement.
 
 #### Transfer of Functions
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) through (6) of Title 42, The Public Health and Welfare, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of Title 42.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 10141 of Title 34.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

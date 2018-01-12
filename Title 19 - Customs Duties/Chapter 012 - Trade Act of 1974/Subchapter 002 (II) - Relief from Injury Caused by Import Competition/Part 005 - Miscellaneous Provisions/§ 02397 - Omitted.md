@@ -10,7 +10,7 @@ Pub. L. 100–418, title I, §1430, Aug. 23, 1988, 102 Stat. 1256, as amended by
 
 "(a)
 
-In General.—Except as otherwise provided by this section, the amendments made by this part \[part 3 (§§1421–1430) of subtitle D of title I of Pub. L. 100–418, enacting this section and sections 2318 and 2396 of this title, amending sections 2272, 2275, 2291 to 2293, 2295, 2296, 2311, 2317, 2341, and 2346 of this title, and amending provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
+In General.—Except as otherwise provided by this section, the amendments made by this part \[part3 (§§1421–1430) of subtitle D of title I of Pub. L. 100–418, enacting this section and sections 2318 and 2396 of this title, amending sections 2272, 2275, 2291 to 2293, 2295, 2296, 2311, 2317, 2341, and 2346 of this title, and amending provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
 
 "(b)
 
@@ -46,7 +46,7 @@ Notification Requirements.—The amendments made by section 1422 \[amending sect
 
 "(f)
 
-Training Requirement.—The amendments made by subsections (a), (b)(2), and (c)(2) of section 1423 and by paragraphs (2) and (3) of section 1424(c) \[amending sections 2291 to 2293, 2296, and 2311 of this title\] shalltake effect on the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\].
+Training Requirement.—The amendments made by subsections (a), (b)(2), and (c)(2) of section 1423 and by paragraphs (2) and (3) of section 1424(c) \[amending sections 2291 to 2293, 2296, and 2311 of this title\] shall take effect on the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\].
 
 "(g)
 

@@ -18,7 +18,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 &emsp;(2)(A) The following shall be ex officio members of each Advisory Board:
 
-&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the UnderSecretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
+&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the Under Secretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
 
 &emsp;&emsp;(ii) Such other officers and employees of the United States as the Secretary determines necessary for the Advisory Board to carry out its functions.
 
@@ -26,7 +26,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 #### (c) Compensation
 
-Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
+Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment.Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
 
 #### (d) Term of office; vacancy
 
@@ -62,7 +62,7 @@ In carrying out its functions, each Advisory Board may establish subcommittees, 
 
 The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a). The Secretary shall make appointments to the Advisory Boards established under subsection (a) before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d), to the Boards established under subsection (a) for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a).
 
-(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
 

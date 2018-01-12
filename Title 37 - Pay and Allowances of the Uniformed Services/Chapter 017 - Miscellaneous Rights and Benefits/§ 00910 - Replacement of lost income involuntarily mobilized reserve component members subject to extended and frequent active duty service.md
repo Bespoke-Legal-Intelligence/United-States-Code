@@ -6,7 +6,7 @@ Payment Required.—The Secretary concerned shall pay to an eligible member of a
 
 (b)
 
-Eligibility.—(1) A member of a reserve component is entitled to a payment under thissection for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
+Eligibility.—(1) A member of a reserve component is entitled to a payment under this section for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
 
 &emsp;(A) completes 547 continuous days of service on active duty under an involuntary mobilization order;
 
@@ -58,11 +58,13 @@ Regulations.—This section shall be administered under regulations to be prescr
 
 (g)
 
-Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2017, unless the entitlement of the member to payments under this section commenced on or before that date.
+Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2018, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, §611(7), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(8), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §611(8), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(8), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§611(8), 618(h)(5), Dec. 23, 2016, 130 Stat. 2157, 2161.)
+(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, §611(7), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(8), Dec. 26, 2013, 127 Stat. 780; Pub. L.113–291, div. A, title VI, §611(8), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(8), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§611(8), 618(h)(5), Dec. 23, 2016, 130 Stat. 2157, 2161; Pub. L. 115–91, div. A, title VI, §611(8), Dec. 12, 2017, 131 Stat. 1421.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2016</b>—Subsec. (b)(2)(B). Pub. L. 114–328, §618(h)(5), inserted ", or paragraph (1) or (3) of section 351(a)," after "section 310".
 
@@ -86,7 +88,7 @@ Pub. L. 111–383, §611(7), substituted "December 31, 2011" for "December 31, 2
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181, §604(a), inserted before period at end of first sentence ", when the total monthly military compensation of the member is less than the average monthly civilian income of the member".
 
-Subsec. (b). Pub. L. 110–181, §604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "Subject to subsection (c), a reserve component member is entitled to a payment under this section for anyfull month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
+Subsec. (b). Pub. L. 110–181, §604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
 
 &emsp;"(1) completes 18 continuous months of service on active duty under such an order;
 

@@ -56,13 +56,13 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §§123, 124; added Nov. 4, 1978, Pub. L.
 
 31:68d.
 
-In clause (1), before subclause (A), the word "Federal" is omitted as unnecessary. In subclause (A), the words "whether or not such plan is an employee pension benefit plan within the meaning of section 3(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(2)\]" are omitted as surplus. The words "an agency" are substituted for "Government of the United States, or any agency or instrumentality thereof" because of section 101 of the revised title. In subclause (B), before subclause (i), the words "but is not limited to" are omitted as surplus. The text of 31:68c(b)(words before colon) is omitted as unnecessary because of the restatement.
+In clause (1), before subclause (A), the word "Federal" is omitted as unnecessary. In subclause (A), thewords "whether or not such plan is an employee pension benefit plan within the meaning of section 3(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(2)\]" are omitted as surplus. The words "an agency" are substituted for "Government of the United States, or any agency or instrumentality thereof" because of section 101 of the revised title. In subclause (B), before subclause (i), the words "but is not limited to" are omitted as surplus. The text of 31:68c(b)(words before colon) is omitted as unnecessary because of the restatement.
 
 In clause (2), 31:68d(1st sentence) is omitted as executed. The definition in 31:68d(last sentence) is made applicable to the chapter for clarity because the defined term is used in 9503(a)(1)(B) of the revised title.
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2,1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 

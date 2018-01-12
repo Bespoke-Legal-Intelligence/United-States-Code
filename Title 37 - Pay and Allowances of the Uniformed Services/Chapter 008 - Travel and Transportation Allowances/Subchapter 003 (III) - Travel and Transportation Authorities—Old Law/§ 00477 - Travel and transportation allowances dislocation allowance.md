@@ -58,7 +58,7 @@ Dislocation Allowance Rates.—(1) The amount of the dislocation allowance to be
 
 Fiscal Year Limitation; Exceptions.—(1) A member is not entitled to more than one dislocation allowance under this section during a fiscal year unless—
 
-&emsp;(A) the Secretary concerned finds that the exigencies of the service require the member to make more than one change of permanent station during the fiscal year;
+&emsp;(A) the Secretary concerned finds that the exigencies of the service require the memberto make more than one change of permanent station during the fiscal year;
 
 &emsp;(B) the member is ordered to a service school as a change of permanent station;
 

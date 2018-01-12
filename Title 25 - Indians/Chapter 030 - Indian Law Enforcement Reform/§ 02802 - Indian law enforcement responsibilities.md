@@ -42,7 +42,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;(13) providing technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center and other national crime information databases pursuant to section 534 of title 28;
 
-&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42, collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
+&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 10132 of title 34, collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
 
 &emsp;(15) on an annual basis, sharing with the Department of Justice all relevant crime data, including Uniform Crime Reports, that the Office of Justice Services prepares and receives from tribal law enforcement agencies on a tribe-by-tribe basis to ensure that individual tribal governments providing data are eligible for programs offered by the Department of Justice;
 
@@ -98,7 +98,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;The training standards established under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) shall be consistent with standards accepted by the Federal Law Enforcement Training Accreditation commission for law enforcement officers attending similar programs; and
+&emsp;&emsp;&emsp;(i) shall be consistent with standards accepted by the Federal Law EnforcementTraining Accreditation commission for law enforcement officers attending similar programs; and
 
 &emsp;&emsp;&emsp;(ii) shall include, or be supplemented by, instruction regarding Federal sources of authority and jurisdiction, Federal crimes, Federal rules of criminal procedure, and constitutional law to bridge the gap between State training and Federal requirements.
 
@@ -164,7 +164,7 @@ Subsec. (e). Pub. L. 111–211, §231(a)(1)(A), inserted heading.
 
 Pub. L. 111–211, §211(b)(4), substituted "Office of Justice Services" for "Division of Law Enforcement Services" in pars. (1) to (3).
 
-Subsec. (e)(1). Pub. L. 111–211, §231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
+Subsec. (e)(1). Pub. L. 111–211, §231(a)(1), inserted heading, designated existing provisions as subpar. (A),inserted subpar. (A) heading, and added subpars. (B) to (D).
 
 Subsec. (e)(3). Pub. L. 111–211, §231(a)(2), substituted "agencies" for "Agencies".
 

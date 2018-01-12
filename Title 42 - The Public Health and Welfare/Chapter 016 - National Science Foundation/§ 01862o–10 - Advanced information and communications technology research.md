@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-As part of the Program described in title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.), the Foundation shall support basic research related to advanced informationand communications technologies that will contribute to enhancing or facilitating the availability and affordability of advanced communications services for all people of the United States. Areas of research to be supported may include research on—
+As part of the Program described in title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.), the Foundation shall support basic research related to advanced information and communications technologies that will contribute to enhancing or facilitating the availability and affordability of advanced communications services for all people of the United States. Areas of research to be supported may include research on—
 
 &emsp;(A) affordable broadband access, including wireless technologies;
 

@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph (1) if the Secretary finds that a tobacco product standard is appropriate for the protection of the public health.
+&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph\(1) if the Secretary finds that a tobacco product standard is appropriate for the protection of the public health.
 
 #### (B) Determinations
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;After the expiration of the period for comment on a notice of proposed rulemaking published under subsection (c) respecting a tobacco product standard and after consideration of comments submitted under subsections (b) and (c) and any report from theTobacco Products Scientific Advisory Committee, the Secretary shall—
+&emsp;After the expiration of the period for comment on a notice of proposed rulemaking published under subsection (c) respecting a tobacco product standard and after consideration of comments submitted under subsections (b) and (c) and any report from the Tobacco Products Scientific Advisory Committee, the Secretary shall—
 
 &emsp;&emsp;(A) if the Secretary determines that the standard would be appropriate for the protection of the public health, promulgate a regulation establishing a tobacco product standard and publish in the Federal Register findings on the matters referred to in subsection (c); or
 

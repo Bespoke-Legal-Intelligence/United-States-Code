@@ -8,7 +8,11 @@ Establishment of System.—The Secretary of Defense, after consultation with the
 
 Description of System.—Such system shall—
 
-&emsp;(1) allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or
+&emsp;(1) allow covered beneficiaries to elect to enroll in a health care plan, or modify a previous election, from eligible health care plans designated by the Secretary of Defense during—
+
+&emsp;&emsp;(A) an annual open enrollment period; and
+
+&emsp;&emsp;(B) any period based on a qualifying event experienced by the beneficiary, as determined appropriate by the Secretary; or
 
 &emsp;(2) if necessary in order to ensure full use of facilities of the uniformed services in a geographical area, assign covered beneficiaries who reside in such area to such facilities.
 
@@ -18,7 +22,7 @@ Health Care Plans Available Under System.—A health care plan designated by the
 
 &emsp;(1) Use of facilities of the uniformed services.
 
-&emsp;(2) The Civilian Health and Medical Program of the Uniformed Services.
+&emsp;(2) A plan under the TRICARE program.
 
 &emsp;(3) Any other health care plan contracted for by the Secretary of Defense.
 
@@ -29,24 +33,6 @@ Health Care Plans Available Under System.—A health care plan designated by the
 Regulations.—The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 114–328, div. A, title VII, §701(d)(1), (j)(1)(E), Dec. 23, 2016, 130 Stat. 2186, 2192.)
-
-#### Amendment of Subsections (b)(1) and (c)(2)
-
-<i>Pub. L. 114–328, div. A, title VII, §701(d)(1), (j)(1)(E), (k), Dec. 23, 2016, 130 Stat. 2186, 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this section is amended:</i>
-
-<i>(1) by amending subsection (b)(1) to read as follows:</i>
-
-&emsp;<i>"(1) allow covered beneficiaries to elect to enroll in a health care plan, or modify a previous election, from eligible health care plans designated by the Secretary of Defense during—</i>
-
-&emsp;&emsp;<i>"(A) an annual open enrollment period; and</i>
-
-&emsp;&emsp;<i>"(B) any period based on a qualifying event experienced by the beneficiary, as determined appropriate by the Secretary; or"; and</i>
-
-<i>(2) by striking subsection (c)(2) and inserting the following new paragraph:</i>
-
-&emsp;<i>"(2) A plan under the TRICARE program."</i>
-
-<i>See 2016 Amendment notes below.</i>
 
 #### Amendments
 

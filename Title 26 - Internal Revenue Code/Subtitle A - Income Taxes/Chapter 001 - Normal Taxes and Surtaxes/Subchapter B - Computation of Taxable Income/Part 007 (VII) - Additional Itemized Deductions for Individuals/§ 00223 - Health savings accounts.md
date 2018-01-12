@@ -159,7 +159,7 @@ For purposes of this section—
 
 #### (C) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (withinthe meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
 
 #### (D) Special rules for network plans
 
@@ -329,11 +329,11 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
 
-#### (7) Transfer of account incident to divorce
+#### (7) <sup>2</sup> Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision ofthis subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
 
 #### (8) Treatment after death of account beneficiary
 
@@ -369,7 +369,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for "calendar year 1992" in subparagraph (B) thereof—
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for "calendar year 2016" in subparagraph (A)(ii) thereof—
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), "calendar year 1997", and
 
@@ -391,7 +391,17 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466.)
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090.)
+
+#### Amendment of Subsection (f)(7)
+
+<i>Pub. L. 115–97, title I, §11051(b)(3)(E), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (f)(7) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amend</i><i>ment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (f)(7) reads as follows:</i>
+
+#### <i>(7) Transfer of account incident to divorce</i>
+
+&emsp;<i>The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -406,6 +416,10 @@ The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv
 A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(7). Pub. L. 115–97, §11051(b)(3)(E), substituted "clause (i) of section 121(d)(3)(C)" for "subparagraph (A) of section 71(b)(2)".
+
+Subsec. (g)(1)(B). Pub. L. 115–97, §11002(d)(1)(V), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)" in introductory provisions.
 
 <b>2015</b>—Subsec. (c)(1)(C). Pub. L. 114–41 added subpar. (C).
 
@@ -436,6 +450,12 @@ Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, §303(b), substituted "subsection (
 Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 <b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(V) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 11051(b)(3)(E) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -469,6 +489,10 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+<b>2018</b>—Revenue Procedure 2017–37.
+
+<b>2017</b>—Revenue Procedure 2016–28.
+
 <b>2016</b>—Revenue Procedure 2015–30.
 
 <b>2015</b>—Revenue Procedure 2014–30.
@@ -488,4 +512,6 @@ Provisions relating to inflation adjustment of items in this section for certain
 <b>2008</b>—Revenue Procedure 2007–36.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
+
+<i><sup>2</sup></i><i> See Amendment of Subsection (f)(7) note below.</i>
 

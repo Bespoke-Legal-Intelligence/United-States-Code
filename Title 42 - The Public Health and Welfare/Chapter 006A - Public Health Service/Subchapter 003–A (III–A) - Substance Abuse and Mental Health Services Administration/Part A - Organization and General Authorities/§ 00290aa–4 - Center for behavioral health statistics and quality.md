@@ -130,7 +130,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Reports on Consumption of Methamphetamine and Other Illicit Drugs
 
-Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: "The Secretary ofHealth and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas."
+Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: "The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas."
 
 #### Public Health Monitoring of Methamphetamine Abuse
 

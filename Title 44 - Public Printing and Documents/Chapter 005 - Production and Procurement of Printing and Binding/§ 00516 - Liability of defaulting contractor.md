@@ -1,6 +1,6 @@
 ### §516. Liability of defaulting contractor
 
-Upon failure to furnish paper, a contractor and his sureties shall be responsible for any increaseof cost to the Government in procuring a supply of the paper consequent upon his default. The Director of the Government Publishing Office shall report every default, with a full statement of all the facts in the case, to the General Counsel for the Department of the Treasury, who shall prosecute the defaulting contractor and his sureties upon their bond in the district court of the United States in the district in which the defaulting contractor resides.
+Upon failure to furnish paper, a contractor and his sureties shall be responsible for any increase of cost to the Government in procuring a supply of the paper consequent upon his default. The Director of the Government Publishing Office shall report every default, with a full statement of all the facts in the case, to the General Counsel for the Department of the Treasury, who shall prosecute the defaulting contractor and his sureties upon their bond in the district court of the United States in the district in which the defaulting contractor resides.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1245; Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 

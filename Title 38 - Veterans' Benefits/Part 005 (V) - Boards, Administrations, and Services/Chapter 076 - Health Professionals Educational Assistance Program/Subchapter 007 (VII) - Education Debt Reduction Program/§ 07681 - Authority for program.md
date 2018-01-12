@@ -8,7 +8,7 @@ In General.—(1) As part of the Educational Assistance Program, the Secretary m
 
 (b)
 
-Relationship to Educational Assistance Program.—Education debt reduction payments under the Education Debt Reduction Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
+Relationship to Educational Assistance Program.—Education debt reduction paymentsunder the Education Debt Reduction Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
 
 (Added Pub. L. 105–368, title VIII, §803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 111–163, title III, §301(a), May 5, 2010, 124 Stat. 1146.)
 

@@ -46,7 +46,7 @@
 
 &emsp;(D) the significant schedule and technical risks for each such program or subprogram, identified at each major milestone and as of the quarter for which the current report is submitted;
 
-&emsp;(E) the current program acquisition cost and program acquisition unit cost for each such program or subprogram included in the report and the history of those costs from the December 2001 reporting period to the end of thequarter for which the current report is submitted;
+&emsp;(E) the current program acquisition cost and program acquisition unit cost for each such program or subprogram included in the report and the history of those costs from the December 2001 reporting period to the end of the quarter for which the current report is submitted;
 
 &emsp;(F) the current procurement unit cost for each such program or subprogram included in the report and the history of that cost from the December 2001 reporting period to the end of the quarter for which the current report is submitted;
 
@@ -92,7 +92,7 @@
 
 &emsp;(9) Program highlights since the last Selected Acquisition Report.
 
-(f) Each comprehensive annual Selected Acquisition Report shall be submitted within 30 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
+(f) Each comprehensive annual Selected Acquisition Report shall be submitted within 30days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
 
 (g) The requirements of this section with respect to a major defense acquisition program or designated major subprogram shall cease to apply after 90 percent of the items to be delivered to the United States under the program or subprogram (shown as the total quantity of items to be purchased under the program or subprogram in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program or subprogram have been made.
 
@@ -122,7 +122,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>2016</b>—Subsec. (c)(1)(G), (H). Pub. L. 114–328, §805(b), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-Subsec. (f). Pub. L. 114–328, §841, substituted "30' for "45" before "days after the date".
+Subsec. (f). Pub. L. 114–328, §841, substituted "30" for "45" before "days after the date".
 
 <b>2014</b>—Subsec. (c)(1)(E). Pub. L. 113–291, §1071(g)(2), amended Pub. L. 113–66, §812(a)(3)(B). See 2013 Amendment note below.
 
@@ -208,7 +208,7 @@ Subsec. (h)(1). Pub. L. 103–355, §3002(h)(3), substituted "engineering and ma
 
 Subsec. (b)(3). Pub. L. 102–484, §817(c)(2), added par. (3) and struck out former par. (3) which read as follows: "A status report on a particular major defense acquisition program need not be included in any Selected Acquisition Report with the approval of the Committees on Armed Services of the Senate and House of Representatives."
 
-Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence which read as follows: "A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes."
+Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence whichread as follows: "A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes."
 
 Subsec. (c)(3)(C)(i) to (vii). Pub. L. 102–484, §817(c)(4), added cls. (i) to (vii) and struck out former cls. (i) to (vii) which contained similar specification and estimation requirements.
 
@@ -311,6 +311,10 @@ Pub. L. 99–500, §101(c) \[title X, §961(c)\], Oct. 18, 1986, 100 Stat. 1783�
 #### Effective Date
 
 Pub. L. 97–252, title XI, §1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: "Sections 139a and 139b \[now 2432 and 2433\] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) \[repealing Pub. L. 94–106, as amended, set out as Reports to Congress of Acquisitions for Major Defense Systems note under section 2431 of this title\] shall take effect on January 1, 1983."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 113 of this title.
 
 #### Annual Reporting
 

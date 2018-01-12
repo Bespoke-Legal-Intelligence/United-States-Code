@@ -24,7 +24,7 @@
 
 (e) The Office shall prescribe regulations under which the rights accorded to a career appointee in the event of a transfer of function are comparable to the rights accorded to a competing employee under section 3503 of this title in the event of such a transfer.
 
-(Added Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 97–346, §5(a), (b), Oct. 15, 1982, 96 Stat. 1650; Pub. L.98–615, title III, §§303(c), (d), 304(b), Nov. 8, 1984, 98 Stat. 3218, 3219.)
+(Added Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 97–346, §5(a), (b), Oct. 15, 1982, 96 Stat. 1650; Pub. L. 98–615, title III, §§303(c), (d), 304(b), Nov. 8, 1984, 98 Stat. 3218, 3219.)
 
 #### Prior Provisions
 

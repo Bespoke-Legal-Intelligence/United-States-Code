@@ -1,0 +1,6 @@
+### §1200. Omitted
+
+#### Codification
+
+Section, act July 6, 1954, ch. 463, §3, 68 Stat. 453, which related to determination of just compensationfor property conveyed under former section 1199(a) of this title, was omitted from the Code as being of special and not general application.
+

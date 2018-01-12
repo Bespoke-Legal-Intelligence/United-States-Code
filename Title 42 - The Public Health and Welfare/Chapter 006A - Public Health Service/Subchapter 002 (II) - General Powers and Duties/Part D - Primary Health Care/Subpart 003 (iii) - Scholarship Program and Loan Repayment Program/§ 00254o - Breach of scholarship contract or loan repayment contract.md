@@ -30,7 +30,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;t
 
-> in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalfof the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
+> in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
 (B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
@@ -74,11 +74,11 @@
 
 #### (d) Cancellation of obligation upon death of individual; waiver or suspension of obligation for impossibility, hardship, or unconscionability; release of debt by discharge in bankruptcy, time limitations
 
-(1) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
+(1) Any obligation of an individual under the Scholarship Program (or a contract thereunder)or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
 
 (2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
-(3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcyunder title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
+(3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
 (B)(i) Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
 

@@ -44,7 +44,7 @@
 
 #### (b) Duties of certain individuals
 
-Any individual or entity that enters into a swap shall meet each requirement described in subsection (c) if the individual or entity did not—
+Any individual or entity that enters into a swap shall meet each requirement described insubsection (c) if the individual or entity did not—
 
 &emsp;(1) clear the swap in accordance with section 2(h)(1) of this title; or
 

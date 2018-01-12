@@ -16,7 +16,7 @@ In addition to the person causing or permitting the discharge, the owner or owne
 
 (1) The amount of the civil penalty shall not exceed $1,000 per barrel of oil discharged.
 
-(2) In determining the amount of civil penalty under this section, the Secretary shall considerthe seriousness of the damages from the discharge, the cause of the discharge, any history of prior violations of applicable rules and laws, and the degree of success of any efforts by the violator to minimize or mitigate the effects of such discharge.
+(2) In determining the amount of civil penalty under this section, the Secretary shall consider the seriousness of the damages from the discharge, the cause of the discharge, any history of prior violations of applicable rules and laws, and the degree of success of any efforts by the violator to minimize or mitigate the effects of such discharge.
 
 (3) The Secretary may reduce or waive the penalty imposed under this section if the discharge was solely caused by an act of war, act of God, or third party action beyond the control of the persons liable under this section.
 
@@ -24,7 +24,7 @@ In addition to the person causing or permitting the discharge, the owner or owne
 
 #### (d) Procedures
 
-A civil penalty may be assessed and collected under this section only after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. In any proceeding for the assessment of a civil penalty under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures. Any person who requested a hearing with respect to a civil penalty under this subsection and who is aggrieved by an order assessing the civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
+A civil penalty may be assessed and collected under this section only after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. In any proceeding for the assessment of a civil penalty under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures. Any person who requested a hearing with respect to a civil penalty under this subsection and who is aggrieved by an order assessing the civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbiacircuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
 
 #### (e) State law
 

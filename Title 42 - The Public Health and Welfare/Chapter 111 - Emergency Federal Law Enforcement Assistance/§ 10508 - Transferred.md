@@ -1,0 +1,6 @@
+### §10508. Transferred
+
+#### Codification
+
+Section 10508 was editorially reclassified as section 50108 of Title 34, Crime Control and Law Enforcement.
+

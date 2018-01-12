@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The President, at the same time as the submission of the annual budget to the Congress, shall submit a report to the Committees on Agriculture and Science, Space, and Technology of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Governmental Affairs of the Senate on expenditures required for carrying out the coordinated program and implementing the comprehensive plan. The report shall detail, for each of the agencies that are allocated responsibilities under the coordinated program—
+The President, at the same time as the submission of the annual budget to the Congress,shall submit a report to the Committees on Agriculture and Science, Space, and Technology of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Governmental Affairs of the Senate on expenditures required for carrying out the coordinated program and implementing the comprehensive plan. The report shall detail, for each of the agencies that are allocated responsibilities under the coordinated program—
 
 &emsp;(1) the amounts spent on the coordinated program during the fiscal year most recently ended;
 

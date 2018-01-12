@@ -52,7 +52,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and\(ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(iv) in the case of section 1250 property with respect to which a depreciation deduction for rehabilitation expenditures was allowed under section 167(k), 100 percent minus 1 percentage point for each full month in excess of 100 full months after the date on which such property was placed in service; and
 
@@ -158,7 +158,7 @@ For purposes of this section, the term "section 1250 property" means any real pr
 
 #### (D) Basis of property acquired
 
-&emsp;&emsp;In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence shall be applied—
+&emsp;&emsp;In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence <sup>1</sup> shall be applied—
 
 &emsp;&emsp;&emsp;(i) first solely to section 1250 properties and to the amount of gain not taken into account under subsection (a) by reason of this paragraph, and
 
@@ -180,7 +180,7 @@ For purposes of this section, the term "section 1250 property" means any real pr
 
 &emsp;&emsp;In respect of any property described in subparagraph (A), the additional depreciation attributable to periods before the distribution by the partnership shall be—
 
-&emsp;&emsp;&emsp;(i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at its fair market value at such time and the applicable percentage for the property had been 100 percent, reduced by
+&emsp;&emsp;&emsp;(i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at itsfair market value at such time and the applicable percentage for the property had been 100 percent, reduced by
 
 &emsp;&emsp;&emsp;(ii) if section 751(b) applied to any part of such gain, the amount of such gain to which section 751(b) would have applied if the applicable percentage for the property had been 100 percent.
 
@@ -298,6 +298,8 @@ The Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is title 
 
 The Economic Recovery Tax Act of 1981, referred to in subsec. (b)(4), is Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172, as amended. Section 191 of this title was repealed by section 212(d)(1) of Pub. L. 97–34. For complete classification of this Act to the Code, see Tables.
 
+Such sentence, referred to in subsec. (d)(4)(D), probably should be a reference to section 1033(b)(2) of this title, following the amendment by Pub. L. 105–206, §6023(12), which substituted "section 1033(b)(2)" for "the last sentence of section 1033(b)" in the preceding reference. See 1998 Amendment note below.
+
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–135, §402(h), struck out "or by section 179D" after "190, or 193)".
@@ -312,7 +314,7 @@ Subsec. (e)(2). Pub. L. 109–135, §402(a)(7)(B), substituted "or (3)" for "(3)
 
 <b>1997</b>—Subsec. (d)(7) to (10). Pub. L. 105–34, §312(d)(10)(A), redesignated pars. (9) and (10) as (7) and (8), respectively, and struck out heading and text of former par. (7). Text read as follows: "Subsection (a) shall not apply to a disposition of—
 
-&emsp;"(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section 1034, relating to rollover of gain on sale of principal residence), and
+&emsp;"(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section1034, relating to rollover of gain on sale of principal residence), and
 
 &emsp;"(B) property in respect of which the taxpayer meets the age and ownership requirements of section 121 (relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55) but only to the extent that he meets the use requirements of such section in respect of such property."
 
@@ -398,7 +400,7 @@ Subsec. (d)(4)(B). Pub. L. 94–455, §1901(b)(31)(A), substituted reference to 
 
 Subsec. (d)(4)(C). Pub. L. 94–455, §1901(b)(31)(B), substituted reference to section "1033(a)(2)" for "1033(a)(3)".
 
-Subsec. (d)(4)(D). Pub. L. 94–455, §1901(b)(31)(B), (E), substituted reference to sections "1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)" §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+Subsec. (d)(4)(D). Pub. L. 94–455, §§1901(b)(31)(B), (E), 1906(b)(13)(A), substituted reference to sections "1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)", respectively, and struck out "or his delegate" after "Secretary".
 
 Subsec. (d)(5), (8)(F)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -406,7 +408,7 @@ Subsec. (d)(10). Pub. L. 94–455, §202(b), added par. (10).
 
 Subsec. (f)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
-Subsec. (f)(2). Pub. L. 94–455, §202(c)(1), substituted introductory text "the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying" for "the sum of—(A) the amount (if any) determined by multiplying"; substituted subpar. (A) as combined text for prior subpars. (A)(i) and (B)(i) reading "(i) the amount which bears the same ratio to the lower of the amounts specified in subparagraph (A) or (B) of subsection (a)(1) for the section 1250 property asthe additional depreciation for such element attributable to periods after December 31, 1969, bears to the sum of the additional depreciation for all elements attributable to periods after December 31, 1969, by" and "(i) the amount which bears the same ratio to the lower of the amounts specified in subsection (a)(2)(A)(i) or (ii) for the section 1250 property as the additional depreciation for such element attributable to periods before January 1, 1970, bears to the sum of the additional depreciation for all elements attributable to periods before January 1, 1970, by"; and substituted subpar. (B) as combined text for prior subpars. (A)(ii) and (B)(ii), inserting therein "for such period" after "for such element".
+Subsec. (f)(2). Pub. L. 94–455, §202(c)(1), substituted introductory text "the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying" for "the sum of—(A) the amount (if any) determined by multiplying"; substituted subpar. (A) as combined text for prior subpars. (A)(i) and (B)(i) reading "(i) the amount which bears the same ratio to the lower of the amounts specified in subparagraph (A) or (B) of subsection (a)(1) for the section 1250 property as the additional depreciation for such element attributable to periods after December 31, 1969, bears to the sum of the additional depreciation for all elements attributable to periods after December 31, 1969, by" and "(i) the amount which bears the same ratio to the lower of the amounts specified in subsection (a)(2)(A)(i) or (ii) for the section 1250 property as the additional depreciation for such element attributable to periods before January 1, 1970, bears to the sum of the additional depreciation for all elements attributable to periods before January 1, 1970, by"; and substituted subpar. (B) as combined text for prior subpars. (A)(ii) and (B)(ii), inserting therein "for such period" after "for such element".
 
 Subsec. (g)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
@@ -470,7 +472,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -548,5 +550,7 @@ Pub. L. 88–272, title II, §231(c), Feb. 26, 1964, 78 Stat. 105, provided that
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Vessels Rebuilt Outside United States.—
 
 &emsp;(1)
 
-In general.—Under regulations prescribed by the Secretary, if a vessel exceedingthe tonnage specified in paragraph (2) and documented or last documented under the laws of the United States is rebuilt outside the United States, the owner or master shall submit a report of the rebuilding to the Secretary.
+In general.—Under regulations prescribed by the Secretary, if a vessel exceeding the tonnage specified in paragraph (2) and documented or last documented under the laws of the United States is rebuilt outside the United States, the owner or master shall submit a report of the rebuilding to the Secretary.
 
 &emsp;(2)
 

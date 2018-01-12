@@ -32,11 +32,11 @@ Section 11398, Pub. L. 100–77, title IV, §438, as added Pub. L. 102–550, ti
 
 Section 11399, Pub. L. 100–77, title IV, §439, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4028, authorized appropriations for fiscal years 1993 and 1994.
 
-Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
+Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L.101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
 
 Section 11402, Pub. L. 100–77, title IV, §443, as added Pub. L. 100–628, title IV, §482(a), Nov. 7, 1988, 102 Stat. 3238; amended Pub. L. 106–377, §1(a)(1) \[title II, §208\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, related to environmental review.
 
-Section 11403, Pub. L. 100–77, title IV, §451, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat.4367, related to the purpose of the Shelter Plus Care Program.
+Section 11403, Pub. L. 100–77, title IV, §451, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367, related to the purpose of the Shelter Plus Care Program.
 
 Section 11403a, Pub. L. 100–77, title IV, §452, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367; amended Pub. L. 102–550, title XIV, §1406(g)(2), Oct. 28, 1992, 106 Stat. 4034, related to rental housing assistance.
 

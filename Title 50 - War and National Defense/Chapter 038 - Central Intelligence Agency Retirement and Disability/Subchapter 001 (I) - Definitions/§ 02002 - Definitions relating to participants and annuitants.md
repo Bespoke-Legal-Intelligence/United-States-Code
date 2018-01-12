@@ -44,7 +44,7 @@ When used in subchapter II:
 
 #### (B) Divorces after December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means aformer wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
+&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
 
 #### (C) Creditable service
 
@@ -126,5 +126,5 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### Prior Provisions
 
-A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17,1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

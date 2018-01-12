@@ -18,13 +18,13 @@ An award may be made under subsection (a) only if the applicant involved agrees 
 
 &emsp;For purposes of this section, a designated biomedical and behavioral research institution is a biomedical and behavioral research institution that—
 
-&emsp;&emsp;(A) has a significant number of members of minority health disparity populations orother health disparity populations enrolled as students in the institution (including individuals accepted for enrollment in the institution);
+&emsp;&emsp;(A) has a significant number of members of minority health disparity populations or other health disparity populations enrolled as students in the institution (including individuals accepted for enrollment in the institution);
 
 &emsp;&emsp;(B) has been effective in assisting such students of the institution to complete the program of education or training and receive the degree involved;
 
 &emsp;&emsp;(C) has made significant efforts to recruit minority students to enroll in and graduate from the institution, which may include providing means-tested scholarships and other financial assistance as appropriate; and
 
-&emsp;&emsp;(D) has made significant recruitment efforts to increase the number of minority or other members of health disparity populations serving in faculty or administrative positions at the institution.
+&emsp;&emsp;(D) has made significant recruitment efforts to increase the number of minority orother members of health disparity populations serving in faculty or administrative positions at the institution.
 
 #### (2) Consortium
 

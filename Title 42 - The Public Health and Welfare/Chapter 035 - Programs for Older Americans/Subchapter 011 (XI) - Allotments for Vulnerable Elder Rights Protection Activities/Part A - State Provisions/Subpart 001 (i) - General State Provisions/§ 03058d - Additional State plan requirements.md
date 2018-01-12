@@ -60,3 +60,9 @@ Subsec. (a)(7), (8). Pub. L. 106–501, §703(3) to (5), redesignated par. (8) a
 
 <b>1993</b>—Subsec. (a)(7)(D). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+

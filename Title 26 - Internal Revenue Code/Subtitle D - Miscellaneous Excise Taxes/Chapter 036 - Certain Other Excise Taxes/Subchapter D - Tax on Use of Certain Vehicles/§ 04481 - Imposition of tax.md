@@ -19,7 +19,7 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (1) Where first use occurs after first month
 
-&emsp;If in any taxable period the first use of the highway motor vehicle is after the first monthin such period, the tax shall be reckoned proportionately from the first day of the month in which such use occurs to and including the last day in such taxable period.
+&emsp;If in any taxable period the first use of the highway motor vehicle is after the first month in such period, the tax shall be reckoned proportionately from the first day of the month in which such use occurs to and including the last day in such taxable period.
 
 #### (2) Where vehicle sold, destroyed, or stolen
 
@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted "1993" for "1988".
 
 > and struck out par. (2) which provided applicable rates and maximum taxes for taxable periods beginning July 1, 1984 through 1988 or thereafter.
 
-Pub. L. 98–369, §734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: "In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof." See 1983 Amendment note below.
+Pub. L. 98–369, §734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: "In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof." See 1983 Amendment note below.
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–424, §513(a), substituted "at least 33,000 pounds at the rate specified in the following table:" for "more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.", and added pars. (1) and (2).
 

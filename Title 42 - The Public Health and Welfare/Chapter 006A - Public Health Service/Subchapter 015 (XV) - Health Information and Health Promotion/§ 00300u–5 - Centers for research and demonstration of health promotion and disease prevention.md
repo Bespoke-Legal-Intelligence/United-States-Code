@@ -10,7 +10,7 @@ Each center established, maintained, or operated under this section shall—
 
 &emsp;(1) be located in an academic health center with—
 
-&emsp;&emsp;(A) a multidisciplinary faculty with expertise in public health and which has workingrelationships with relevant groups in such fields as medicine, psychology, nursing, social work, education and business;
+&emsp;&emsp;(A) a multidisciplinary faculty with expertise in public health and which has working relationships with relevant groups in such fields as medicine, psychology, nursing, social work, education and business;
 
 &emsp;&emsp;(B) graduate training programs relevant to disease prevention;
 

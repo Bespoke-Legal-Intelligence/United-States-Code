@@ -4,7 +4,7 @@
 
 (b) With the approval of the President, the Secretary may allow owners of retirement and savings bonds to keep the bonds after maturity and continue to earn interest on them at rates that are consistent with the rate of investment yield provided by retirement and savings bonds.
 
-(c) Section 3105(c)(1)–(5) of this title applies to this section. Sections 3105(c)(6) and (d) and 3126 of this title apply to this section to the extent consistent with this section. The Secretary may prescribe the maximum amount of retirementand savings bonds issued under this section in a year that may be held by one person. However, the maximum amount shall be at least $3,000.
+(c) Section 3105(c)(1)–(5) of this title applies to this section. Sections 3105(c)(6) and (d) and 3126 of this title apply to this section to the extent consistent with this section. The Secretary may prescribe the maximum amount of retirement and savings bonds issued under this section in a year that may be held by one person. However, the maximum amount shall be at least $3,000.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 941; Pub. L. 97–452, §1(8), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

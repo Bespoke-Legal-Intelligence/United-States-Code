@@ -60,7 +60,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) is the beneficiary of the trust under which such Indian land is held by the United States.
 
-&emsp;(14) The term "rangeland" means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally or artificially to provide a forage cover that is managed as native vegetation.
+&emsp;(14) The term "rangeland" means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally orartificially to provide a forage cover that is managed as native vegetation.
 
 &emsp;(15) The term "Secretary" means the Secretary of the Interior.
 

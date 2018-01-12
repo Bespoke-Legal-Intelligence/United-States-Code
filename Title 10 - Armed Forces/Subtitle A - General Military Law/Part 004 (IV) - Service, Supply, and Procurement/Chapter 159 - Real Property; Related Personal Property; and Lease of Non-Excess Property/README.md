@@ -35,7 +35,7 @@
 | [2687a.](%C2%A7%2002687a%20-%20Overseas%20base%20closures%20and%20realignments%20and%20basing%20master%20plans.md) | Overseas base closures and realignments and basing master plans. |
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | \[2689, 2690. Renumbered.\] |  |
-| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md) | Restoration of land used by permit or lease. |
+| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md) | Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | \[2693. | Repealed.\] |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
@@ -55,6 +55,8 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2814(c), Dec. 12, 2017, 131 Stat. 1850, substituted "Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires" for "Restoration of land used by permit or lease" in item 2691.
 
 <b>2015</b>—Pub. L. 114–92, div. B, title XXVIII, §2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
 
@@ -191,7 +193,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Renumbered &sect;2917](%C2%A7%2002689%20-%20Renumbered%20%C2%A72917.md)
 - [&sect; 02690 - Renumbered &sect;2918](%C2%A7%2002690%20-%20Renumbered%20%C2%A72918.md)
-- [&sect; 02691 - Restoration of land used by permit or lease](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md)
+- [&sect; 02691 - Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2825(c)(2), Oct. 17, 2006, 120 Stat. 2477](%C2%A7%2002693%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72825%28c%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202477.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)

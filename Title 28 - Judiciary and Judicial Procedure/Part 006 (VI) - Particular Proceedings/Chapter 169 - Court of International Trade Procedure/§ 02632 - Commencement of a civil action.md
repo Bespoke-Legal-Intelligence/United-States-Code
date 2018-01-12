@@ -1,6 +1,6 @@
 ### §2632. Commencement of a civil action
 
-(a) Except for civil actions specified in subsections (b) and (c) of this section, a civil action in the Court of International Trade shall be commenced by filing concurrently with the clerk of the court a summons and complaint,with the content and in the form, manner, and style prescribed by the rules of the court.
+(a) Except for civil actions specified in subsections (b) and (c) of this section, a civil action in the Court of International Trade shall be commenced by filing concurrently with the clerk of the court a summons and complaint, with the content and in the form, manner, and style prescribed by the rules of the court.
 
 (b) A civil action in the Court of International Trade under section 515 or section 516 of the Tariff Act of 1930 shall be commenced by filing with the clerk of the court a summons, with the content and in the form, manner, and style prescribed by the rules of the court.
 

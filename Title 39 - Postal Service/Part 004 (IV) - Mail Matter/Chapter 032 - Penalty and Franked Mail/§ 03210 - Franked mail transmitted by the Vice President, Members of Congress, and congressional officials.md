@@ -22,7 +22,7 @@
 
 &emsp;(H) mail matter which consists of voter registration or election information or assistance prepared and mailed in a nonpartisan manner;
 
-&emsp;(I) mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication or in response to a specific request therefor and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege; or
+&emsp;(I) mail matter which constitutes or includes a biography or autobiography of anyMember of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication or in response to a specific request therefor and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege; or
 
 &emsp;(J) mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(i) greetings from the spouse or other members of the family of such Member or Member-elect unless it is a brief reference in otherwise frankable mail;
 
-&emsp;&emsp;(ii) reports of how or when such Member or Member-elect, or the spouse or any other member of the family of such Member orMember-elect, spends time other than in the performance of, or in connection with, the legislative, representative, and other official functions of such Member or the activities of such Member-elect as a Member-elect; or
+&emsp;&emsp;(ii) reports of how or when such Member or Member-elect, or the spouse or any other member of the family of such Member or Member-elect, spends time other than in the performance of, or in connection with, the legislative, representative, and other official functions of such Member or the activities of such Member-elect as a Member-elect; or
 
 &emsp;&emsp;(iii) any card expressing holiday greetings from such Member or Member-elect; or
 
@@ -76,7 +76,7 @@
 
 (2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer's name during the period of the vacancy.
 
-(3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of theSenate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
+(3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
 
 (c) Franked mail may be in any form appropriate for mail matter, including, but not limited to, correspondence, newsletters, questionnaires, recordings, facsimiles, reprints, and reproductions. Franked mail shall not include matter which is intended by Congress to be nonmailable as franked mail under subsection (a)(4) and (5) of this section.
 
@@ -112,7 +112,7 @@
 
 (f) Any mass mailing which otherwise would be permitted to be mailed as franked mail under this section shall not be so mailed unless the cost of preparing and printing the mail matter is paid exclusively from funds appropriated by Congress, except that an otherwise frankable mass mailing may contain, as an enclosure or supplement, any public service material which is purely instructional or informational in nature, and which in content is frankable under this section.
 
-(g) Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
+(g) Notwithstanding any other provision of Federal, State, or local law, or any regulationthereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401; Pub. L. 109–435, title X, §1010(g)(4), Dec. 20, 2006, 120 Stat. 3262.)
 
@@ -130,7 +130,7 @@ Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted "90 days"
 
 &emsp;"(B) in the case of redistricting, on and after the date referred to in subsection (d)(1)(B), a Member of the House of Representatives may send mass mailings to the additional area described in that section".
 
-Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designation, substituted "the Member" for "he" and a period for "; and", and struck out subpar. (B) which read as follows: "with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistrictingis actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings."
+Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designation, substituted "the Member" for "he" and a period for "; and", and struck out subpar. (B) which read as follows: "with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings."
 
 <b>1990</b>—Subsec. (a)(6)(E). Pub. L. 101–520, §311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "For purposes of this section, the term 'mass mailing' means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
 
@@ -172,7 +172,7 @@ Subsec. (b)(3). Pub. L. 94–177, §1(b), added par. (3).
 
 Subsec. (b)(1). Pub. L. 93–191 incorporated part of former first sentence in provisions designated as subsec. (b)(1), substituted reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and the Sergeant at Arms of House of Representatives, included reference to Legislative Counsel of Senate, substituted the 1st day of April for the thirtieth day of June, and substituted internal reference to subsec. (a)(2) and (3) of this section for former provision respecting franked mail (1) matter, not exceeding 4 pounds in weight, upon official or departmental business, to a Government official, and (2) correspondence, not exceeding 4 ounces in weight, upon official business to any person.
 
-Subsec. (b)(2). Pub. L. 93–191 incorporated former second sentence in provisions designated as subsec. (b)(2), substituted provision respecting vacancy in Office of an elected officer of House of Representatives (other than a Member of House) for former provision respecting vacancy in office of Clerk of House of Representatives and Sergeant at Arms of House of Representatives and included provision for vacancy in Office of Legislative Counsel of Senate.
+Subsec. (b)(2). Pub. L. 93–191 incorporated former second sentence in provisions designated as subsec. (b)(2),substituted provision respecting vacancy in Office of an elected officer of House of Representatives (other than a Member of House) for former provision respecting vacancy in office of Clerk of House of Representatives and Sergeant at Arms of House of Representatives and included provision for vacancy in Office of Legislative Counsel of Senate.
 
 Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
@@ -205,6 +205,10 @@ Pub. L. 93–191, §14, Dec. 18, 1973, 87 Stat. 746, provided that:
 "(a) Except as provided in subsection (b) of this section, the provisions of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] shall become effective on the date of enactment of this Act \[Dec. 18, 1973\].
 
 "(b) The provisions of section 3214 of title 39, United States Code, as amended by section 4 of this Act; and the provisions of subsection (b) of section 3216 of title 39, United States Code, as amended by section 7 of this Act, shall take effect as of December 27, 1972."
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Separability
 

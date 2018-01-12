@@ -102,7 +102,7 @@ Subsec. (b)(2)(B). Pub. L. 98–118, §5(a)(4), substituted "advances was comple
 
 Subsec. (b)(3)(A). Pub. L. 98–21, §514, which directed substitution of "prior to" for "not later than" was executed, as the probable intent of Congress, by making that substitution the first time the phrase appeared following "Secretary of Treasury" and not the second time that phrase appeared.
 
-Subsec. (b)(3)(C)(i). Pub. L. 98–21, §511(c), substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
+Subsec. (b)(3)(C)(i). Pub. L. 98–21, §511(c), substituted, after subcl. II, provision that no interest shall accrueon such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
 Subsec. (b)(7). Pub. L. 98–21, §511(b), struck out ", and before January 1, 1988" after "April 1, 1982".
 

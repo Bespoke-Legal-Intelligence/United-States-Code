@@ -6,6 +6,11 @@
 | [2202\.](%C2%A7%2002202%20-%20Executive%20Department%3B%20Secretary.md) | Executive Department; Secretary. |
 | [2203\.](%C2%A7%2002203%20-%20Seal.md) | Seal. |
 | [2204\.](%C2%A7%2002204%20-%20General%20duties%20of%20Secretary%3B%20advisory%20functions%3B%20research%20and%20development.md) | General duties of Secretary; advisory functions; research and development. |
+| 2204–1. | Delegation of regulatory functions of Secretary of Agriculture; definitions. |
+| 2204–2. | Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation. |
+| 2204–3. | Authority of designated employees; retroactive revocation of delegation. |
+| 2204–4. | Delegation of functions under other laws as unaffected. |
+| 2204–5. | Authorization of appropriations for cooperative research projects. |
 | [2204a.](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md) | Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities. |
 | [2204b.](%C2%A7%2002204b%20-%20Rural%20development%20policy.md) | Rural development policy. |
 | 2204b–1. | Rural development. |
@@ -22,6 +27,7 @@
 | [2207\.](%C2%A7%2002207%20-%20Reports.md) | Reports. |
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
 | [2207b.](%C2%A7%2002207b%20-%20Program%20metrics.md) | Program metrics. |
+| [2207c.](%C2%A7%2002207c%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md) | Annual report on work of agricultural experiment stations and of college extension work; publication and distribution. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
 | [2208a.](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md) | Loan levels provided to Department of Agriculture. |
 | [2209\.](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md) | Additional statement of expenditures. |
@@ -42,6 +48,7 @@
 | [2215\.](%C2%A7%2002215%20-%20Chief%20clerk.md) | Chief clerk. |
 | [2216\.](%C2%A7%2002216%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93310%2C%20title%20II%2C%20%C2%A7221%28a%29%2C%20June%206%2C%201972%2C%2086%20Stat.%20205.md) | Repealed. |
 | [2217\.](%C2%A7%2002217%20-%20Oaths%2C%20affirmations%2C%20and%20affidavits%20taken%20by%20officers%2C%20agents%2C%20or%20employees%20of%20Department%3B%20use%20and%20effect.md) | Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect. |
+| [2217a.](%C2%A7%2002217a%20-%20Power%20to%20administer%20oaths%2C%20examine%20witnesses%2C%20or%20require%20production%20of%20books%2C%20etc.md) | Power to administer oaths, examine witnesses, or require production of books, etc. |
 | [2218\.](%C2%A7%2002218%20-%20Fee%20for%20administering%20or%20taking%20oaths%2C%20affirmations%2C%20and%20affidavits.md) | Fee for administering or taking oaths, affirmations, and affidavits. |
 | [2219\.](%C2%A7%2002219%20-%20Salaries%3B%20how%20paid.md) | Salaries; how paid. |
 | [2219a.](%C2%A7%2002219a%20-%20Overtime%20and%20holiday%20pay.md) | Overtime and holiday pay. |
@@ -76,6 +83,7 @@
 | [2240\.](%C2%A7%2002240%20-%20Reimbursement%20of%20appropriation%20for%20salaries%20and%20compensation%20of%20employees%20in%20mechanical%20shops.md) | Reimbursement of appropriation for salaries and compensation of employees in mechanical shops. |
 | [2241\.](%C2%A7%2002241%20-%20Sale%20or%20exchange%20of%20animals%20or%20animal%20products.md) | Sale or exchange of animals or animal products. |
 | [2241a.](%C2%A7%2002241a%20-%20Exchange%20or%20sale%20authority.md) | Exchange or sale authority. |
+| [2241b.](%C2%A7%2002241b%20-%20Purchase%20of%20seeds%20and%20plants%20for%20distribution.md) | Purchase of seeds and plants for distribution. |
 | [2242\.](%C2%A7%2002242%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%281%29%2C%20%282%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md) | Repealed. |
 | [2242a.](%C2%A7%2002242a%20-%20User%20fees%20for%20reports%2C%20publications%2C%20and%20software.md) | User fees for reports, publications, and software. |
 | [2242b.](%C2%A7%2002242b%20-%20Translation%20of%20publications%20into%20foreign%20languages.md) | Translation of publications into foreign languages. |
@@ -84,6 +92,7 @@
 | [2245\.](%C2%A7%2002245%20-%20Sale%20of%20prints%20and%20lantern%20slides.md) | Sale of prints and lantern slides. |
 | [2246\.](%C2%A7%2002246%20-%20Loan%2C%20rental%2C%20or%20sale%20of%20films.md) | Loan, rental, or sale of films. |
 | [2247\.](%C2%A7%2002247%20-%20Sale%20of%20samples%20of%20pure%20sugars.md) | Sale of samples of pure sugars. |
+| [2247a.](%C2%A7%2002247a%20-%20Farm%20or%20food%20products%3B%20sale%20of%20samples%2C%20practical%20forms%2C%20etc.md) | Farm or food products; sale of samples, practical forms, etc. |
 | [2248\.](%C2%A7%2002248%20-%20Statistics%20relating%20to%20turpentine%20and%20rosin.md) | Statistics relating to turpentine and rosin. |
 | [2249\.](%C2%A7%2002249%20-%20Amount%20and%20character%20of%20cooperation.md) | Amount and character of cooperation. |
 | [2250\.](%C2%A7%2002250%20-%20Construction%20and%20repair%20of%20buildings%20and%20public%20improvements.md) | Construction and repair of buildings and public improvements. |
@@ -112,6 +121,7 @@
 | [2266\.](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md) | Congressional reaffirmation of policy to foster and encourage family farms. |
 | [2267\.](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md) | Repealed. |
 | [2268\.](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md) | Public lands; relinquishment. |
+| [2268a.](%C2%A7%2002268a%20-%20Acquisition%20of%20land%3B%20options.md) | Acquisition of land; options. |
 | [2269\.](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md) | Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations. |
 | [2270\.](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md) | Authority of Office of Inspector General. |
 | [2270a.](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md) | Office of Inspector General; transfer of forfeiture funds for law enforcement activities. |
@@ -139,6 +149,7 @@
 | [2279f.](%C2%A7%2002279f%20-%20Subpoena%20authority.md) | Subpoena authority. |
 | [2279g.](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md) | Marketing services; cooperative agreements. |
 | [2279h.](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md) | Cross-servicing activities of National Finance Center. |
+| [2279i.](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md) | Cooperation with State and other agencies; expenditures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -151,6 +162,11 @@
 - [&sect; 02202 - Executive Department; Secretary](%C2%A7%2002202%20-%20Executive%20Department%3B%20Secretary.md)
 - [&sect; 02203 - Seal](%C2%A7%2002203%20-%20Seal.md)
 - [&sect; 02204 - General duties of Secretary; advisory functions; research and development](%C2%A7%2002204%20-%20General%20duties%20of%20Secretary%3B%20advisory%20functions%3B%20research%20and%20development.md)
+- [&sect; 02204&#8211;1 - Delegation of regulatory functions of Secretary of Agriculture; definitions](%C2%A7%2002204%E2%80%931%20-%20Delegation%20of%20regulatory%20functions%20of%20Secretary%20of%20Agriculture%3B%20definitions.md)
+- [&sect; 02204&#8211;2 - Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation](%C2%A7%2002204%E2%80%932%20-%20Delegation%20of%20regulatory%20functions%20to%20designated%20employees%3B%20status%20of%20employees%3B%20number%3B%20revocation%20of%20delegation.md)
+- [&sect; 02204&#8211;3 - Authority of designated employees; retroactive revocation of delegation](%C2%A7%2002204%E2%80%933%20-%20Authority%20of%20designated%20employees%3B%20retroactive%20revocation%20of%20delegation.md)
+- [&sect; 02204&#8211;4 - Delegation of functions under other laws as unaffected](%C2%A7%2002204%E2%80%934%20-%20Delegation%20of%20functions%20under%20other%20laws%20as%20unaffected.md)
+- [&sect; 02204&#8211;5 - Authorization of appropriations for cooperative research projects](%C2%A7%2002204%E2%80%935%20-%20Authorization%20of%20appropriations%20for%20cooperative%20research%20projects.md)
 - [&sect; 02204a - Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md)
 - [&sect; 02204b - Rural development policy](%C2%A7%2002204b%20-%20Rural%20development%20policy.md)
 - [&sect; 02204b&#8211;1 - Rural development](%C2%A7%2002204b%E2%80%931%20-%20Rural%20development.md)
@@ -167,6 +183,7 @@
 - [&sect; 02207 - Reports](%C2%A7%2002207%20-%20Reports.md)
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
 - [&sect; 02207b - Program metrics](%C2%A7%2002207b%20-%20Program%20metrics.md)
+- [&sect; 02207c - Annual report on work of agricultural experiment stations and of college extension work; publication and distribution](%C2%A7%2002207c%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
 - [&sect; 02208a - Loan levels provided to Department of Agriculture](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md)
 - [&sect; 02209 - Additional statement of expenditures](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md)
@@ -189,6 +206,7 @@
 - [&sect; 02215 - Chief clerk](%C2%A7%2002215%20-%20Chief%20clerk.md)
 - [&sect; 02216 - Repealed. Pub. L. 92&#8211;310, title II, &sect;221(a), June 6, 1972, 86 Stat. 205](%C2%A7%2002216%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93310%2C%20title%20II%2C%20%C2%A7221%28a%29%2C%20June%206%2C%201972%2C%2086%20Stat.%20205.md)
 - [&sect; 02217 - Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect](%C2%A7%2002217%20-%20Oaths%2C%20affirmations%2C%20and%20affidavits%20taken%20by%20officers%2C%20agents%2C%20or%20employees%20of%20Department%3B%20use%20and%20effect.md)
+- [&sect; 02217a - Power to administer oaths, examine witnesses, or require production of books, etc](%C2%A7%2002217a%20-%20Power%20to%20administer%20oaths%2C%20examine%20witnesses%2C%20or%20require%20production%20of%20books%2C%20etc.md)
 - [&sect; 02218 - Fee for administering or taking oaths, affirmations, and affidavits](%C2%A7%2002218%20-%20Fee%20for%20administering%20or%20taking%20oaths%2C%20affirmations%2C%20and%20affidavits.md)
 - [&sect; 02219 - Salaries; how paid](%C2%A7%2002219%20-%20Salaries%3B%20how%20paid.md)
 - [&sect; 02219a - Overtime and holiday pay](%C2%A7%2002219a%20-%20Overtime%20and%20holiday%20pay.md)
@@ -223,6 +241,7 @@
 - [&sect; 02240 - Reimbursement of appropriation for salaries and compensation of employees in mechanical shops](%C2%A7%2002240%20-%20Reimbursement%20of%20appropriation%20for%20salaries%20and%20compensation%20of%20employees%20in%20mechanical%20shops.md)
 - [&sect; 02241 - Sale or exchange of animals or animal products](%C2%A7%2002241%20-%20Sale%20or%20exchange%20of%20animals%20or%20animal%20products.md)
 - [&sect; 02241a - Exchange or sale authority](%C2%A7%2002241a%20-%20Exchange%20or%20sale%20authority.md)
+- [&sect; 02241b - Purchase of seeds and plants for distribution](%C2%A7%2002241b%20-%20Purchase%20of%20seeds%20and%20plants%20for%20distribution.md)
 - [&sect; 02242 - Repealed. Pub. L. 101&#8211;624, title XVI, &sect;1606(b)(1), (2), Nov. 28, 1990, 104 Stat. 3715](%C2%A7%2002242%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%281%29%2C%20%282%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md)
 - [&sect; 02242a - User fees for reports, publications, and software](%C2%A7%2002242a%20-%20User%20fees%20for%20reports%2C%20publications%2C%20and%20software.md)
 - [&sect; 02242b - Translation of publications into foreign languages](%C2%A7%2002242b%20-%20Translation%20of%20publications%20into%20foreign%20languages.md)
@@ -231,6 +250,7 @@
 - [&sect; 02245 - Sale of prints and lantern slides](%C2%A7%2002245%20-%20Sale%20of%20prints%20and%20lantern%20slides.md)
 - [&sect; 02246 - Loan, rental, or sale of films](%C2%A7%2002246%20-%20Loan%2C%20rental%2C%20or%20sale%20of%20films.md)
 - [&sect; 02247 - Sale of samples of pure sugars](%C2%A7%2002247%20-%20Sale%20of%20samples%20of%20pure%20sugars.md)
+- [&sect; 02247a - Farm or food products; sale of samples, practical forms, etc](%C2%A7%2002247a%20-%20Farm%20or%20food%20products%3B%20sale%20of%20samples%2C%20practical%20forms%2C%20etc.md)
 - [&sect; 02248 - Statistics relating to turpentine and rosin](%C2%A7%2002248%20-%20Statistics%20relating%20to%20turpentine%20and%20rosin.md)
 - [&sect; 02249 - Amount and character of cooperation](%C2%A7%2002249%20-%20Amount%20and%20character%20of%20cooperation.md)
 - [&sect; 02250 - Construction and repair of buildings and public improvements](%C2%A7%2002250%20-%20Construction%20and%20repair%20of%20buildings%20and%20public%20improvements.md)
@@ -259,6 +279,7 @@
 - [&sect; 02266 - Congressional reaffirmation of policy to foster and encourage family farms](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md)
 - [&sect; 02267 - Repealed. Pub. L. 100&#8211;387, title I, &sect;101(b)(1), Aug. 11, 1988, 102 Stat. 931](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md)
 - [&sect; 02268 - Public lands; relinquishment](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md)
+- [&sect; 02268a - Acquisition of land; options](%C2%A7%2002268a%20-%20Acquisition%20of%20land%3B%20options.md)
 - [&sect; 02269 - Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury&#8230;](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md)
 - [&sect; 02270 - Authority of Office of Inspector General](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md)
 - [&sect; 02270a - Office of Inspector General; transfer of forfeiture funds for law enforcement activities](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md)
@@ -286,3 +307,4 @@
 - [&sect; 02279f - Subpoena authority](%C2%A7%2002279f%20-%20Subpoena%20authority.md)
 - [&sect; 02279g - Marketing services; cooperative agreements](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md)
 - [&sect; 02279h - Cross-servicing activities of National Finance Center](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md)
+- [&sect; 02279i - Cooperation with State and other agencies; expenditures](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md)

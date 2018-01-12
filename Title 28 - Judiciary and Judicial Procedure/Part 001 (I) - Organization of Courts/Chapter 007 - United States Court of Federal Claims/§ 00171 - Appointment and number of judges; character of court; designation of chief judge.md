@@ -34,7 +34,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Change of Name
 
-Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516, provided that: "Reference in any other Federal law \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
+Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516, provided that: "Reference in any other Federallaw \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
 
 &emsp;"(1) the 'United States Claims Court' shall be deemed to refer to the 'United States Court of Federal Claims'; and
 

@@ -22,13 +22,17 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;&emsp;(C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347.)
+&emsp;(4) Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4104 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2017</b>—Par. (4). Pub. L. 115–41 added par. (4).
 
 <b>2016</b>—Par. (3). Pub. L. 114–256 inserted "licensed hearing aid specialists," after "Audiologists," in introductory provisions.
 
@@ -53,6 +57,68 @@ Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out forme
 #### Effective Date of 2003 Amendment
 
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+
+#### Encouragement of Transition of Military Medical Professionals Into Employment With Veterans Health Administration
+
+Pub. L. 115–46, title II, §207, Aug. 12, 2017, 131 Stat. 964, provided that: "The Secretary of Veterans Affairs shall establish a program to encourage an individual who serves in the Armed Forces with a military occupational specialty relating to the provision of health care to seek employment with the Veterans Health Administration when the individual has been discharged or released from service in the Armed Forces or is contemplating separating from such service."
+
+#### Training for Human Resources Professionals of Veterans Health Administration on Recruitment and Retention
+
+Pub. L. 115–46, title II, §209, Aug. 12, 2017, 131 Stat. 965, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall provide to human resources professionals of the Veterans Health Administration training on how to best recruit and retain employees of the Veterans Health Administration, including with respect to any recruitment and retention matters that are unique to the Veterans Health Administration pursuant to chapter 74 of title 38, United States Code, or other provisions of law.
+
+"(b)
+
+Virtual Training.—Training provided under this section shall be provided virtually.
+
+"(c)
+
+Amount of Training.—The Secretary shall ensure that each human resources professional of the Veterans Health Administration receives the training described in subsection (a)—
+
+&emsp;"(1) as soon as practicable after being hired by the Secretary as a human resources professional; and
+
+&emsp;"(2) annually thereafter.
+
+"(d)
+
+Certification.—The Secretary shall require that each human resources professional of the Veterans Health Administration, upon the completion of the training described in subsection (a), certifies that the professional received the training and understands the information provided by the training.
+
+"(e)
+
+Annual Report.—Not less frequently than annually, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the training described in subsection (a), including the cost of providing such training and the number of human resources professionals who received such training during the year covered by the report."
+
+#### Plan To Hire Directors of Medical Centers of Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §210, Aug. 12, 2017, 131 Stat. 965, provided that:
+
+"(a)
+
+Plan.—Not later than 120 days after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
+
+"(b)
+
+Priority.—The Secretary shall prioritize under the plan developed under subsection (a) the hiring of directors for medical centers that have not had a permanent director for the longest periods.
+
+"(c)
+
+Matters Included.—The plan developed under subsection (a) shall include the following:
+
+&emsp;"(1) A deadline to hire directors of medical centers of the Department as described in such subsection.
+
+&emsp;"(2) Identification of the possible impediments to such hiring.
+
+&emsp;"(3) Identification of opportunities to promote and train candidates from within the Department to senior executive positions in the Department, including as directors of medical centers.
+
+"(d)
+
+Submittal of Plan.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the plan developed under subsection (a).
+
+"(e)
+
+Semiannual Reports.—Not later than 180 days after the date of the enactment of this Act, and not later than 180 days thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing a list of each medical center of the Department that lacks a permanent director as of the date of the report."
 
 #### Licensed Hearing Aid Specialists Appointment and Services
 

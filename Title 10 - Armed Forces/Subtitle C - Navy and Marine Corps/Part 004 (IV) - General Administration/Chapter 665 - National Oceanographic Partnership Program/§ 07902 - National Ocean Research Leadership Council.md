@@ -144,7 +144,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
+Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made bysubsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
 
 #### Transfer of Functions
 

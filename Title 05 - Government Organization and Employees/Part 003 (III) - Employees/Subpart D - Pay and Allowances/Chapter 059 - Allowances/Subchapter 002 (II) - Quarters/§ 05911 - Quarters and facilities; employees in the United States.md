@@ -26,7 +26,7 @@
 
 (g) Subsection (c) of this section does not repeal or modify any provision of statute authorizing the provision of quarters or facilities, either without charge or at rates or charges specifically fixed by statute.
 
-(h) A member of the uniformed service on a permanent change of duty station or temporary duty orders and occupying unaccompanied personnel housing—
+(h) A member of the uniformed service on a permanent change of duty station or temporaryduty orders and occupying unaccompanied personnel housing—
 
 &emsp;(1) is exempt from the requirement of subsection (c) to pay a rental rate or charge based on the reasonable value of the quarters and facilities provided; and
 
@@ -108,7 +108,7 @@ Authority of President under subsec. (f) of this section to issue regulations pr
 
 #### Pilot Program To Establish Government Lodging Program
 
-Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, provided that:
+Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 "(a)
 
@@ -120,33 +120,7 @@ Program Duration.—The authority to establish and execute a Government lodging 
 
 "(c)
 
-Limitation.—A Government lodging program developed under the authority in subsection (a), and a requirement under subsection (a) with respect to an employee of the Department of Defense, may not be construed to be subject to a duty to negotiate under chapter 71 of title 5, United States Code.
-
-"(d)
-
-Reports.—
-
-&emsp;"(1)
-
-Initial report.—Not later than six months after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of authority provided by subsection (a). The report shall include a detailed description of the facets of the Government lodging program, a description of how the program will increase travel efficiencies within the Department, a description of how the program will increase the safety of authorized travelers of the Department of Defense, and an estimate of the savings expected to be achieved by the program.
-
-&emsp;"(2)
-
-Annual reports.—Each year, the Secretary shall include with the materials submitted to Congress by the Secretary in support of the budget submitted by the President under section 1105(a) of title 31, United States Code, a report that provides actual savings achieved (or costs incurred) under the Government lodging program to date and a description of estimated savings for the fiscal year budget being submitted, any changes to program rules made since the prior report, and an overall assessment to date of the program's effectiveness in increasing efficiency of travel and safety of Department employees.
-
-&emsp;"(3)
-
-Final report.—With the budget materials submitted to Congress by the Secretary in support of the budget submitted by the President for fiscal year 2019, the Secretary shall include a final report providing the Secretary's overall assessment of the effectiveness of the Government lodging program established under subsection (a), including a statement of savings achieved (or costs incurred) as of that date, and a recommendation for whether the program shall be made permanent. The Secretary may, in consultation with the heads of other Federal agencies, make a recommendation on whether the program should be expanded and made permanent with respect to those other Federal agencies.
-
-&emsp;"(4)
-
-Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
-
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives."
-
-#### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
+Limitation.—A Government lodging program developed under the authority in subsection (a), and a requirement under subsection (a) with respect to an employee of the Department of Defense, may not be construed to be subject to a duty to negotiate under chapter 71 of title 5, United States Code."
 
 #### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
 

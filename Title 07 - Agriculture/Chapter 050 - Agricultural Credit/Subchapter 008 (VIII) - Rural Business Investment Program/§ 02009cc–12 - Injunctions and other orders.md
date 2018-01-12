@@ -4,7 +4,7 @@
 
 #### (1) Application by Secretary
 
-&emsp;Whenever, in the judgment of the Secretary, a rural business investment company or any other person has engaged or is about to engage in any act or practice that constitutes or will constitute a violation of a provision of this subchapter (including any rule, regulation, order, or participation agreement under this subchapter), the Secretary may apply to the appropriate district court of the United States for an order enjoining the act or practice, or for an order enforcing compliance with the provision, rule, regulation, order, or participation agreement.
+&emsp;Whenever, in the judgment of the Secretary, a rural business investment company or anyother person has engaged or is about to engage in any act or practice that constitutes or will constitute a violation of a provision of this subchapter (including any rule, regulation, order, or participation agreement under this subchapter), the Secretary may apply to the appropriate district court of the United States for an order enjoining the act or practice, or for an order enforcing compliance with the provision, rule, regulation, order, or participation agreement.
 
 #### (2) Jurisdiction; relief
 

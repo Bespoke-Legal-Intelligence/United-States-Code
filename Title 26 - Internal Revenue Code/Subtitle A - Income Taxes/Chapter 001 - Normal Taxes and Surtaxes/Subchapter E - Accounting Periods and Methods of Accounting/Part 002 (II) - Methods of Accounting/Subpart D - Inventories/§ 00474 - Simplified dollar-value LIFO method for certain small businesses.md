@@ -110,7 +110,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Treatment of taxpayers who made elections under existing section 474.—The amendments made by this section shall not apply to any taxpayer who made an election under section 474 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any period during which such election is in effect. Notwithstanding any provision of such section 474 (as so in effect), an election under such section may be revoked without the consent of the Secretary."
+Treatment of taxpayers who made elections under existing section 474.—The amendments made by this section shall not apply to any taxpayer who made an election under section 474 of the Internal Revenue Code of 1954 (as in effect on the day before the date ofthe enactment of this Act \[Oct. 22, 1986\]) for any period during which such election is in effect. Notwithstanding any provision of such section 474 (as so in effect), an election under such section may be revoked without the consent of the Secretary."
 
 #### Effective Date
 

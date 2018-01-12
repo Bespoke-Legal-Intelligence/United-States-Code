@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) the terms defined in section 2510 of this title have, respectively, the definitions given such terms in that section;
 
-&emsp;(2) the term "remote computing service" means the provision to the public of computer storage or processing services by means of an electronic communications system;
+&emsp;(2) the term "remote computing service" means the provision to the public of computerstorage or processing services by means of an electronic communications system;
 
 &emsp;(3) the term "court of competent jurisdiction" includes—
 
@@ -51,4 +51,8 @@ As used in this chapter—
 #### Effective Date of 2016 Amendment
 
 Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of Title 10, Armed Forces.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

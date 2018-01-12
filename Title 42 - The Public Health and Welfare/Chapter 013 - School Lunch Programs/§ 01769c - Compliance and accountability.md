@@ -4,7 +4,7 @@
 
 #### (1) <sup>1</sup> In general
 
-&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfastprogram established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
+&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
 
 &emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first followup review conducted by the State educational agency of the local educational agency under this section after July 1, 2005, the date that is 60 days after the beginning of the period under clause (i); or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the Stateeducational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the State educational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
 
 #### (5) Use of retained funds
 

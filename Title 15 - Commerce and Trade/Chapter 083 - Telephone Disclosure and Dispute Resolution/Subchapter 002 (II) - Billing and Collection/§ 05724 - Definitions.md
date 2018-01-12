@@ -24,7 +24,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) A reflection on a billing statement of a telephone-billed purchase for a call made to an 800 or other toll free telephone number.
 
-&emsp;&emsp;(E) The failure to reflect properly on a billing statement a payment made by thecustomer or a credit issued to the customer with respect to a telephone-billed purchase.
+&emsp;&emsp;(E) The failure to reflect properly on a billing statement a payment made by the customer or a credit issued to the customer with respect to a telephone-billed purchase.
 
 &emsp;&emsp;(F) A computation error or similar error of an accounting nature on a statement.
 

@@ -20,7 +20,7 @@ Subject to subsection (c), if the President determines that an emergency conditi
 
 (1) The President may not implement this section with respect to the archaeological or ethnological materials of any State Party unless the State Party has made a request described in section 2602(a) of this title to the United States and has supplied information which supports a determination that an emergency condition exists.
 
-(2) In taking action under subsection (b) with respect to any State Party, the President shallconsider the views and recommendations contained in the Committee report required under section 2605(f)(3) of this title if the report is submitted to the President before the close of the ninety-day period beginning on the day on which the President submitted information to the Committee under section 2602(f)(2) of this title on the request of the State Party under section 2602(a) of this title.
+(2) In taking action under subsection (b) with respect to any State Party, the President shall consider the views and recommendations contained in the Committee report required under section 2605(f)(3) of this title if the report is submitted to the President before the close of the ninety-day period beginning on the day on which the President submitted information to the Committee under section 2602(f)(2) of this title on the request of the State Party under section 2602(a) of this title.
 
 (3) No import restrictions set forth in section 2606 of this title may be applied under this section to the archaeological or ethnological materials of any State Party for more than five years after the date on which the request of a State Party under section 2602(a) of this title is made to the United States. This period may be extended by the President for three more years if the President determines that the emergency condition continues to apply with respect to the archaeological or ethnological material. However, before taking such action, the President shall request and consider, if received within ninety days, a report of the Committee setting forth its recommendations, together with the reasons therefor, as to whether such import restrictions shall be extended.
 
@@ -32,7 +32,11 @@ Subject to subsection (c), if the President determines that an emergency conditi
 
 Section 2602 of this title, referred to in subsec. (c)(4), was in the original "section 203", and was translated as section 2602 of this title, which is section 303 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### Effective Date
+
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
+
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
+For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986,51 F.R. 8475, set out as a note under section 2602 of this title.
 

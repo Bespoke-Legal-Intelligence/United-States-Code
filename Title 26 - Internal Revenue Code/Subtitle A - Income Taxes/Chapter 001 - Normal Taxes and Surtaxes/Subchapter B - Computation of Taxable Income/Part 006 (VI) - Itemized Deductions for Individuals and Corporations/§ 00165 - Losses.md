@@ -20,7 +20,7 @@ In the case of an individual, the deduction under subsection (a) shall be limite
 
 #### (d) Wagering losses
 
-Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions.
+Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions. For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017, and before January 1, 2026, the term "losses from wagering transactions" includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction.
 
 #### (e) Theft losses
 
@@ -52,7 +52,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(A) the taxpayer owns directly stock in such corporation meeting the requirements of section 1504(a)(2), and
 
-&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties, rents (except rents derived from rental of properties to employees of the corporationin the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
+&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties, rents (except rents derived from rental of properties to employees of the corporation in the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
 
 > &emsp;In computing gross receipts for purposes of the preceding sentence, gross receipts from sales or exchanges of stocks and securities shall be taken into account only to the extent of gains therefrom.
 
@@ -113,6 +113,20 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 #### (E) Claim required to be filed in certain cases
 
 &emsp;&emsp;Any loss of an individual described in subsection (c)(3) to the extent covered by insurance shall be taken into account under this section only if the individual files a timely insurance claim with respect to such loss.
+
+#### (5) Limitation for taxable years 2018 through 2025
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an individual, except as provided in subparagraph (B), any personal casualty loss which (but for this paragraph) would be deductible in a taxable year beginning after December 31, 2017, and before January 1, 2026, shall be allowed as a deduction under subsection (a) only to the extent it is attributable to a Federally declared disaster (as defined in subsection (i)(5)).
+
+#### (B) Exception related to personal casualty gains
+
+&emsp;&emsp;If a taxpayer has personal casualty gains for any taxable year to which subparagraph (A) applies—
+
+&emsp;&emsp;&emsp;(i) subparagraph (A) shall not apply to the portion of the personal casualty loss not attributable to a Federally declared disaster (as so defined) to the extent such loss does not exceed such gains, and
+
+&emsp;&emsp;&emsp;(ii) in applying paragraph (2) for purposes of subparagraph (A) to the portion of personal casualty loss which is so attributable to such a disaster, the amount of personal casualty gains taken into account under paragraph (2)(A) shall be reduced by the portion of such gains taken into account under clause (i).
 
 #### (i) Disaster losses
 
@@ -266,13 +280,17 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §§11044(a), 11050(a), Dec. 22, 2017, 131 Stat. 2087, 2089.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (i)(5)(A) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d). Pub. L. 115–97, §11050(a), inserted at end "For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017, and before January 1, 2026, the term 'losses from wagering transactions' includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction."
+
+Subsec. (h)(5). Pub. L. 115–97, §11044(a), added par. (5).
 
 <b>2014</b>—Subsec. (h)(1). Pub. L. 113–295, §211(c)(1)(C), substituted "Dollar" for "$100" in heading.
 
@@ -364,7 +382,7 @@ Subsec. (i)(1). Pub. L. 91–677, §1(a)(1), (2), struck out "or (2)" after "par
 
 Subsec. (i)(2)(B). Pub. L. 91–677, §1(a)(3), substituted "one or more days during the period beginning on December 31, 1958, and ending on May 16, 1959" for "December 31, 1958" and "the first day in such period on which the property was held by the taxpayer" for "December 31, 1958".
 
-Subsec. (i)(3). Pub. L. 91–677, §1(a)(4), struck out subsec. (i)(3) which authorized a refund or credit to begiven for any overpayment attributable to the application of par. (1), provided that a claim was filed for such refund or credit before Jan. 1, 1965.
+Subsec. (i)(3). Pub. L. 91–677, §1(a)(4), struck out subsec. (i)(3) which authorized a refund or credit to be given for any overpayment attributable to the application of par. (1), provided that a claim was filed for such refund or credit before Jan. 1, 1965.
 
 <b>1970</b>—Subsec. (h)(2). Pub. L. 91–606 substituted "the Disaster Relief Act of 1970" for "sections 1855–1855g of title 42".
 
@@ -383,6 +401,12 @@ Subsec. (j). Pub. L. 88–272, §238, redesignated former subsec. (i) as (j).
 Subsec. (h)(3), (4). Pub. L. 85–866, §57(c)(1), added pars. (3) and (4).
 
 Subsec. (h)(5). Pub. L. 85–866, §202(a), added par. (5).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11044(b), Dec. 22, 2017, 131 Stat. 2088, provided that: "The amendment made by this section \[amending this section\] shall apply to losses incurred in taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §11050(b), Dec. 22, 2017, 131 Stat. 2089, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2014 Amendment
 
@@ -516,7 +540,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;"(2)
 
-Exceptions.—The provisions of this section shall not apply to any assistance to which the amendments made by section 1401(a)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73, amending section 597 of this titleand repealing provisions set out as a note under section 597 of this title\] apply."
+Exceptions.—The provisions of this section shall not apply to any assistance to which the amendments made by section 1401(a)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73, amending section 597 of this title and repealing provisions set out as a note under section 597 of this title\] apply."
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
@@ -656,7 +680,7 @@ Treatment of certain noncorporate taxpayers.—Under regulations prescribed by t
 
 &emsp;&emsp;&emsp;"(ii) the acquisition referred to in clause (i) would have satisfied the requirements of subparagraph (A) if the stock had been acquired by a corporation,
 
-&nbsp;&nbsp;then, for purposes of subparagraphs (A) and (C), the noncorporate taxpayer or group of noncorporate taxpayers referred to in clause (i) shall be treated as a corporation. The preceding sentence shall apply only if such noncorporate taxpayer (or group of noncorporate taxpayers) on July 1, 1980, held stock constituting control (within the meaning of section 368(c) of the Internal Revenue Code of 1986) of the corporation holding (directly or indirectly) the motor carrier operating authority.
+&nbsp;&nbsp;then, for purposes of subparagraphs (A) and (C), the noncorporate taxpayer or group of noncorporatetaxpayers referred to in clause (i) shall be treated as a corporation. The preceding sentence shall apply only if such noncorporate taxpayer (or group of noncorporate taxpayers) on July 1, 1980, held stock constituting control (within the meaning of section 368(c) of the Internal Revenue Code of 1986) of the corporation holding (directly or indirectly) the motor carrier operating authority.
 
 &emsp;&emsp;"(C)
 
@@ -714,7 +738,7 @@ Phaseout Where Adjusted Gross Income Exceeds $15,000.—If for the taxable year 
 
 "(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable tosuch election) may, nevertheless, be made if made within one year after such date."
+Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable to such election) may, nevertheless, be made if made within one year after such date."
 
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 

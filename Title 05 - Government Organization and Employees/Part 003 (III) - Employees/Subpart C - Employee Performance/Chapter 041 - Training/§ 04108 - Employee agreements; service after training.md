@@ -8,7 +8,7 @@
 
 (b) The payment agreed to under subsection (a)(2) of this section may not be required of an employee who leaves the service of his agency to enter into the service of another agency in any branch of the Government unless the head of the agency that authorized the training notifies the employee before the effective date of his entrance into the service of the other agency that payment will be required under this section.
 
-(c) If an employee, except an employee relieved of liability under subsection (b) of this section or section 4102(b) of this title, fails to fulfill his agreement to pay to the Government the additional expenses incurred by the Government in connection with his training, a sum equal to the amount of the additional expenses of training is recoverable by the Government from the employee or his estate by—
+(c) If an employee, except an employee relieved of liability under subsection (b) of this section or section 4102(b) of this title, fails tofulfill his agreement to pay to the Government the additional expenses incurred by the Government in connection with his training, a sum equal to the amount of the additional expenses of training is recoverable by the Government from the employee or his estate by—
 
 &emsp;(1) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 

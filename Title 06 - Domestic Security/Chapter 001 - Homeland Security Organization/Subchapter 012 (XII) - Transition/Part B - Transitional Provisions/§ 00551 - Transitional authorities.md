@@ -30,7 +30,7 @@ Upon the transfer of an agency to the Department—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this chapter, no funds derived from the Highway Trust Fund, Airport and Airway Trust Fund, Inland Waterway Trust Fund, or Harbor Maintenance Trust Fund, may be transferred to, made available to, or obligated by the Secretary or any other official in the Department.
+&emsp;Notwithstanding any other provision of this chapter, no funds derived from the HighwayTrust Fund, Airport and Airway Trust Fund, Inland Waterway Trust Fund, or Harbor Maintenance Trust Fund, may be transferred to, made available to, or obligated by the Secretary or any other official in the Department.
 
 #### (2) Limitation
 

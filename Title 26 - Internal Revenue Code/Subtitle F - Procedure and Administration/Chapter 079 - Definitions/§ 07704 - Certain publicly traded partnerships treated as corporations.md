@@ -126,7 +126,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (C) Treatment of tax
 
-&emsp;&emsp;For purposes of this title, the tax imposed by this paragraph shall be treated as imposed by chapter 1 other than for purposes of determining the amount of any credit allowable under chapter 1 and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A).
+&emsp;&emsp;For purposes of this title, the tax imposed by this paragraph shall be treated as imposed by chapter 1 other than for purposes of determining the amount of any credit allowable under chapter 1 and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership werea corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A).
 
 #### (4) Election
 
@@ -214,7 +214,7 @@ In general.—The term 'existing partnership' means any partnership if—
 
 &emsp;"(B)
 
-Special rule where substantial new line of business added after december 17, 1987.—A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an addition of a substantial new line of business with respect to such partnership.
+Special rule where substantial new line of business added after december 17, 1987.—A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an additionof a substantial new line of business with respect to such partnership.
 
 &emsp;"(C)
 

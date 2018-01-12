@@ -2,7 +2,7 @@
 
 #### (a) Standards of adequate farm housing and other buildings; criteria
 
-The Secretary, for the purposes of this subchapter, shall have the power to determine and prescribe the standards of adequate farm housing and other buildings, by farms or localities, taking into consideration, among other factors, the type of housing which will provide decent, safe, and sanitary dwelling for the needs of the family using the housing, the type and character of the farming operations to be conducted, and the size and earning capacity of the land. The Secretary shall approve a residential building as meeting such standards if the building is constructed in accordance with (1) the minimum standards prescribed by the Secretary, (2) the minimum property standards prescribed by the Secretary of Housing and Urban Development for mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\], (3) the standards contained in any of the voluntary national model building codes, or (4) in the case of manufactured housing, the standards referred to in section 1472(e) of this title. To the maximum extent feasible, the Secretary shall promote the use of energy saving techniques through standards established by such Secretary for newly constructed residential housing assisted under this subchapter. Such standards shall, insofar as is practicable, be consistent with the standards established pursuant to section 526 of the National Housing Act \[12 U.S.C. 1735f–4\] and shall incorporate the energy performance requirements developed pursuant to such section.
+The Secretary, for the purposes of this subchapter, shall have the power to determine and prescribe the standards of adequate farm housing and other buildings, by farms or localities, taking into consideration, among other factors, the type of housing which will provide decent,safe, and sanitary dwelling for the needs of the family using the housing, the type and character of the farming operations to be conducted, and the size and earning capacity of the land. The Secretary shall approve a residential building as meeting such standards if the building is constructed in accordance with (1) the minimum standards prescribed by the Secretary, (2) the minimum property standards prescribed by the Secretary of Housing and Urban Development for mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\], (3) the standards contained in any of the voluntary national model building codes, or (4) in the case of manufactured housing, the standards referred to in section 1472(e) of this title. To the maximum extent feasible, the Secretary shall promote the use of energy saving techniques through standards established by such Secretary for newly constructed residential housing assisted under this subchapter. Such standards shall, insofar as is practicable, be consistent with the standards established pursuant to section 526 of the National Housing Act \[12 U.S.C. 1735f–4\] and shall incorporate the energy performance requirements developed pursuant to such section.
 
 #### (b) Terms or conditions of leases or occupancy agreements subject to change with approval of Secretary
 
@@ -50,7 +50,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Review
 
-&emsp;&emsp;Upon the receipt of data from the 1990 decennial census, the Secretary shall conduct a review of any designations made under paragraph (1) and preferences given under paragraph (2) and the eligibility of communities and counties for such designation and preference, examining the effects of such data on such eligibility. The Secretary shall submit to the Congress, not later than 9 months after the availability of the data, a report regarding the review, which shall include any recommendations of the Secretary for modifications in the standards for designation and preference.
+&emsp;&emsp;Upon the receipt of data from the 1990 decennial census, the Secretary shall conduct a review of any designations made underparagraph (1) and preferences given under paragraph (2) and the eligibility of communities and counties for such designation and preference, examining the effects of such data on such eligibility. The Secretary shall submit to the Congress, not later than 9 months after the availability of the data, a report regarding the review, which shall include any recommendations of the Secretary for modifications in the standards for designation and preference.
 
 #### (4) Set-aside for targeted underserved areas and colonias
 
@@ -62,7 +62,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(i) Notwithstanding the designation of counties and communities as targeted underserved areas under paragraph (1) and the provisions of section 1490 of this title, colonias shall be eligible for assistance with amounts reserved under subparagraph (A), as provided in this subparagraph.
 
-&emsp;&emsp;(ii) In providing assistance from amounts reserved under this paragraph in each fiscal year, the Secretary shall give priority to any application for assistance to be used in, or in close proximity to, and serving the residents of, a colonia located in a State described under clause (iii). After the Secretary has provided assistance under the priority for colonias located in a State in an amount equal to 5 percent of the totalamount of assistance allocated under this subchapter to such State in the fiscal year, the priority shall not apply to any applications for colonias in such State.
+&emsp;&emsp;(ii) In providing assistance from amounts reserved under this paragraph in each fiscal year, the Secretary shall give priority to any application for assistance to be used in, or in close proximity to, and serving the residents of, a colonia located in a State described under clause (iii). After the Secretary has provided assistance under the priority for colonias located in a State in an amount equal to 5 percent of the total amount of assistance allocated under this subchapter to such State in the fiscal year, the priority shall not apply to any applications for colonias in such State.
 
 &emsp;&emsp;(iii) This paragraph shall apply to any State for any fiscal year following 2 fiscal years in which the State obligated the total amount of assistance allocated to it under this subchapter during each of such 2 fiscal years.
 
@@ -100,7 +100,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Covered years
 
-&emsp;&emsp;This paragraph shall apply to any fiscal year following 2 fiscal years in which the State did not obligate the total amount of assistance allocated it under this subchapter during each of such 2 fiscal years.
+&emsp;&emsp;This paragraph shall apply to any fiscal year following 2 fiscal years in which theState did not obligate the total amount of assistance allocated it under this subchapter during each of such 2 fiscal years.
 
 #### (8) "Colonia" defined
 

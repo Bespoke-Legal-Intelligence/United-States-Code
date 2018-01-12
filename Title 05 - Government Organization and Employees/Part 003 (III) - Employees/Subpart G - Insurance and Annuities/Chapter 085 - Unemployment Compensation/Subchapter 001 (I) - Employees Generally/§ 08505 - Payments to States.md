@@ -46,9 +46,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions thateach State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 applicable with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977, see section 214(c) of Pub. L. 94–566, set out as a note under section 8501 of this title.
+Amendment by Pub. L. 94–566 applicable with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977, see section214(c) of Pub. L. 94–566, set out as a note under section 8501 of this title.
 

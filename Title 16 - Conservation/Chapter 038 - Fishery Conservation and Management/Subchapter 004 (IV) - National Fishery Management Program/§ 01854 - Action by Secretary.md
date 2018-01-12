@@ -86,7 +86,7 @@
 
 (C)(i) Fees collected under this paragraph shall be in addition to any other fees charged under this chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title.
 
-(ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota program and deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
+(ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota programand deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
 
 #### (e) Rebuilding overfished fisheries
 
@@ -138,7 +138,7 @@
 
 #### (1) Preparation and implementation of plan or plan amendment
 
-&emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
+&emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3)of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
 
 &emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under section 1852(g) of this title;
 
@@ -408,7 +408,7 @@ Pub. L. 104–297, title I, §109(h), Oct. 11, 1996, 110 Stat. 3586, as amended 
 
 #### Inapplicability of Subsection (h) to American Lobster Fishery Management Plan
 
-Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan."
+Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan."
 
 #### Interim Management of Highly Migratory Species Fisheries
 

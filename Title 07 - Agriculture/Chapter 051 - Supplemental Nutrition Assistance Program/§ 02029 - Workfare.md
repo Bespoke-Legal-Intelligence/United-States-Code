@@ -60,7 +60,7 @@ An individual or a household may become ineligible under section 2015(d)(1) of t
 
 (3) The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
 
-(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, §109(e), title VIII, §815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, titleIV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, §109(e), title VIII, §815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
 #### References in Text
 

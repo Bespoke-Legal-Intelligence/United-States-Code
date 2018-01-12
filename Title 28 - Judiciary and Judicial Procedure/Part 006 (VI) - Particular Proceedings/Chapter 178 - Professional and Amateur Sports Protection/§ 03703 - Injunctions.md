@@ -4,3 +4,7 @@ A civil action to enjoin a violation of section 3702 may be commenced in an appr
 
 (Added Pub. L. 102–559, §2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
+#### Effective Date
+
+Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under section 3701 of this title.
+

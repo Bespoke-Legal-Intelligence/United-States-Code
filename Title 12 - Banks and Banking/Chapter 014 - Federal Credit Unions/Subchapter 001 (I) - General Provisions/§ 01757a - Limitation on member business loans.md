@@ -26,7 +26,7 @@ As used in this section—
 
 &emsp;(1) the term "member business loan"—
 
-&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be usedfor a commercial, corporate or other business investment property or venture, or agricultural purpose; and
+&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be used for a commercial, corporate or other business investment property or venture, or agricultural purpose; and
 
 &emsp;&emsp;(B) does not include an extension of credit—
 
@@ -74,7 +74,7 @@ Study.—The Secretary \[of the Treasury\] shall conduct a study of member busin
 
 &emsp;"(B) a review of the effectiveness and enforcement of regulations applicable to insured credit union member business lending;
 
-&emsp;"(C) whether member business lending by insured credit unions could affect the safety and soundness of insured credit unions or the National Credit Union Share Insurance Fund;
+&emsp;"(C) whether member business lending by insured credit unions could affect the safety and soundness ofinsured credit unions or the National Credit Union Share Insurance Fund;
 
 &emsp;"(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions;
 

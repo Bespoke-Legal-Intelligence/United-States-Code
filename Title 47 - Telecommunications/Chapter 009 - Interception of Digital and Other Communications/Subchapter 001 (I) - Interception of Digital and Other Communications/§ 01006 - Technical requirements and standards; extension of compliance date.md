@@ -40,7 +40,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 #### (2) Grounds for extension
 
-&emsp;The Commission may, after consultation with the Attorney General, grant an extensionunder this subsection, if the Commission determines that compliance with the assistance capability requirements under section 1002 of this title is not reasonably achievable through application of technology available within the compliance period.
+&emsp;The Commission may, after consultation with the Attorney General, grant an extension under this subsection, if the Commission determines that compliance with the assistance capability requirements under section 1002 of this title is not reasonably achievable through application of technology available within the compliance period.
 
 #### (3) Length of extension
 

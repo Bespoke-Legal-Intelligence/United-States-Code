@@ -6,7 +6,7 @@ No deduction shall be allowed for—
 
 #### (1) Expenses
 
-&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued)wholly exempt from the taxes imposed by this subtitle.
+&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
 
 #### (2) Interest
 
@@ -104,7 +104,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(II) an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of such Act) or a private loan bond (as defined in section 103(o)(2)(A), as so in effect, but without regard to any exception from such definition other than section 103(o)(2)(A)), or
 
-&emsp;&emsp;&emsp;&emsp;(III) an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
+&emsp;&emsp;&emsp;&emsp;(III) an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) <sup>1</sup> any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
 
 #### (iii) Allocation of amount of issue in certain cases
 
@@ -246,6 +246,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(C)(ii)(II), are sections 1312, 1313, 1316(g), and 1317 of Pub. L. 99–514, which are set out as a note under section 141 of this title.
 
+Section 149(d)(5), referred to in subsec. (b)(3)(C)(ii)(III), was redesignated section 149(d)(2) by Pub. L. 115–97, title I, §13532(b)(1), Dec. 22, 2017, 131 Stat. 2154.
+
 #### Codification
 
 Another section 1084(c) of Pub. L. 105–34 amended section 264 of this title.
@@ -334,7 +336,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2)
 
-Obligations acquired pursuant to certain commitments.—For purposes of sections 265(b) and291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
+Obligations acquired pursuant to certain commitments.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
 
 &emsp;"(A) to purchase or repurchase such obligation, and
 
@@ -420,7 +422,7 @@ Pub. L. 96–223, title IV, §404(c), Apr. 2, 1980, 94 Stat. 308, as amended by 
 
 Amendment by section 1901(a)(37) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1975, see section 2137(e) of Pub. L. 94–455, set out as a note under section 852 of this title.
+Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1975, seesection 2137(e) of Pub. L. 94–455, set out as a note under section 852 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -433,4 +435,6 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 
 Pub. L. 99–514, title IX, §904(c)(2)(B), Oct. 22, 1986, 100 Stat. 2385, provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

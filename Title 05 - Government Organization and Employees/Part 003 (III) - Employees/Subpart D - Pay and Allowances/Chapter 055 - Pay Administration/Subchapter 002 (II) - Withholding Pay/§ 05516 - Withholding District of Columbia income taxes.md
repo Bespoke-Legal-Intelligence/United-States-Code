@@ -38,7 +38,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1207(f)(1), Oct. 4, 1976, 90 Stat. 1708, provided that: "The amendments made by subsection (a) \[amending this section and section 5517 of this title\] shall apply to wages withheld after the 120-day period following any request for an agreement after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XII, §1207(f)(1), Oct. 4, 1976, 90 Stat. 1708, provided that: "The amendments made by subsection (a) \[amending this section and section 5517 of this title\] shall apply to wages withheld after the 120-day period following any request for an agreementafter the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Effective Date of 1968 Amendment
 

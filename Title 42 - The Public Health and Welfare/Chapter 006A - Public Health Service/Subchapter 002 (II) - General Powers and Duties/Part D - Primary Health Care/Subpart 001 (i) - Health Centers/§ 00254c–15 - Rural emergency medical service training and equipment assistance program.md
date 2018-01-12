@@ -30,7 +30,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 #### (c) Use of funds
 
-An entity shall use amounts received under a grant made under subsection (a), either directly or through grants to emergency medical service squads that are located in, or that serve residents of, a nonmetropolitan statistical area, an area designated as a rural area by any law or regulation of a State, or a rural census tract of a metropolitan statistical area (as determinedunder the most recent Goldsmith Modification, originally published in a notice of availability of funds in the Federal Register on February 27, 1992, 57 Fed. Reg. 6725), to—
+An entity shall use amounts received under a grant made under subsection (a), either directly or through grants to emergency medical service squads that are located in, or that serve residents of, a nonmetropolitan statistical area, an area designated as a rural area by any law or regulation of a State, or a rural census tract of a metropolitan statistical area (as determined under the most recent Goldsmith Modification, originally published in a notice of availability of funds in the Federal Register on February 27, 1992, 57 Fed. Reg. 6725), to—
 
 &emsp;(1) recruit emergency medical service personnel;
 

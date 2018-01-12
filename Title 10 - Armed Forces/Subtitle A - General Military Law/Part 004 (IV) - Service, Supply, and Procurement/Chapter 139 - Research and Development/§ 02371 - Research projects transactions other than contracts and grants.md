@@ -24,7 +24,7 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 &emsp;(A) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
 
-&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by theGovernment under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
+&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
 
 (2) A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
@@ -34,9 +34,15 @@ Support Accounts.—There is hereby established on the books of the Treasury sep
 
 (g)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
+Education and Training.—The Secretary of Defense shall—
 
-\[(h) Repealed. Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.\]
+&emsp;(1) ensure that management, technical, and contracting personnel of the Department of Defense involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
+
+&emsp;(2) establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.
+
+(h)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
 (i)
 
@@ -52,9 +58,11 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, §863, Dec. 12, 2017, 131 Stat. 1494.)
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (g), (h). Pub. L. 115–91 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–291 struck out subsec. (h) which related to annual report on use of certain cooperative agreements and transactions.
 
@@ -138,9 +146,13 @@ Subsec. (g). Pub. L. 102–190, §826(c), struck out subsec. (g) which read as f
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
+#### Preference for Use of Other Transactions and Experimental Authority
+
+Pub. L. 115–91, div. A, title VIII, §867, Dec. 12, 2017, 131 Stat. 1495, provided that: "In the execution of science and technology and prototyping programs, the Secretary of Defense shall establish a preference, to be applied in circumstances determined appropriate by the Secretary, for using transactions other than contracts, cooperative agreements, and grants entered into pursuant to sections 2371 and 2371b of title 10, United States Code, and authority for procurement for experimental purposes pursuant to section 2373 of title 10, United States Code."
+
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298; Pub. L. 112–239, div. A, title VIII, §863, Jan. 2, 2013, 126 Stat. 1860; Pub. L. 113–291, div. A, title VIII, §812, title X, §1071(b)(13), Dec. 19, 2014, 128 Stat. 3429, 3507, which authorized certain officials, as designated by the Secretary of Defense, to carry out prototype projects directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms, systems, components, or materials proposed to be acquired or developed by or in use by the Department of Defense, was repealed by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896.
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298; Pub. L. 112–239, div. A, title VIII, §863, Jan. 2, 2013, 126 Stat. 1860; Pub. L. 113–291, div. A, title VIII, §812, title X, §1071(b)(13), Dec. 19, 2014, 128 Stat. 3429, 3507, which authorized certain officials, as designated by the Secretary of Defense, to carry out prototype projects directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms,systems, components, or materials proposed to be acquired or developed by or in use by the Department of Defense, was repealed by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896.
 
 \[Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896, provided that: "Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note) \[formerly set out above\] is hereby repealed. Transactions entered into under the authority of such section 845 shall remain in force and effect and shall be modified as appropriate to reflect the amendments made by this section \[enacting section 2371b of this title, amending section 2302 of this title, and amending provisions set out as a note under section 2358 of this title\]."\]
 

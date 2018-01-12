@@ -1,0 +1,28 @@
+### §20301. Findings
+
+The Congress finds that—
+
+&emsp;(1) over 2,000,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
+
+&emsp;(2) the investigation and prosecution of child abuse cases is extremely complex, involving numerous agencies and dozens of personnel;
+
+&emsp;(3) traditionally, community agencies and professionals have different roles in the prevention, investigation, and intervention process;
+
+&emsp;(4) in such cases, too often the system does not pay sufficient attention to the needs and welfare of the child victim, aggravating the trauma that the child victim has already experienced;
+
+&emsp;(5) there is a national need to enhance coordination among community agencies and professionals involved in the intervention system;
+
+&emsp;(6) multidisciplinary child abuse investigation and prosecution programs have been developed that increase the reporting of child abuse cases, reduce the trauma to the child victim, and increase the successful prosecution of child abuse offenders; and
+
+&emsp;(7) such programs have proven effective, and with targeted Federal assistance, could be duplicated in many jurisdictions throughout the country.
+
+(Pub. L. 101–647, title II, §211, Nov. 29, 1990, 104 Stat. 4792; Pub. L. 102–586, §6(a), Nov. 4, 1992, 106 Stat. 5029.)
+
+#### Codification
+
+Section was formerly classified to section 13001 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>1992</b>—Pars. (3) to (7). Pub. L. 102–586 added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
+

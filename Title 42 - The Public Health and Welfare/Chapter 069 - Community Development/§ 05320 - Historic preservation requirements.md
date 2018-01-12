@@ -28,7 +28,7 @@ Section 5318 of this title, referred to in subsec. (a), probably should be a ref
 
 &emsp;"(1) 'An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes', approved October 14, 1966, as amended; and
 
-&emsp;"(2) 'An Act to provide for the preservation of historical and archaeological data (including relics andspecimens) which might otherwise be lost as a result of the construction of a dam', approved June 27, 1960, as amended."
+&emsp;"(2) 'An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam', approved June 27, 1960, as amended."
 
 Subsec. (c). Pub. L. 113–287, §5(k)(4)(B), substituted "section 306108 of title 54" for "section 106 of the Act referred to in subsection (a)(1)".
 

@@ -366,9 +366,9 @@ Funding for grants to states with 24-7 sobriety programs.—Not more than 3 perc
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A) 24-7
+&emsp;&emsp;(A)
 
-sobriety program.—The term "24-7 sobriety program" means a State law or program that authorizes a State court or an agency with jurisdiction, as a condition of bond, sentence, probation, parole, or work permit, to—
+24-7 sobriety program.—The term "24-7 sobriety program" means a State law or program that authorizes a State court or an agency with jurisdiction, as a condition of bond, sentence, probation, parole, or work permit, to—
 
 &emsp;&emsp;&emsp;(i) require an individual who was arrested for, plead guilty to, or was convicted of driving under the influence of alcohol or drugs to totally abstain from alcohol or drugs for a period of time; and
 

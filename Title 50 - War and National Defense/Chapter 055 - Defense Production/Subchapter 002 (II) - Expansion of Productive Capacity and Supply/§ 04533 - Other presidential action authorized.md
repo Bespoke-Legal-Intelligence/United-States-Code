@@ -102,7 +102,7 @@ The procurement power granted to the President by this section shall include the
 
 &emsp;&emsp;(B) to procure and install equipment owned by the Federal Government in plants, factories, and other industrial facilities owned by private persons;
 
-&emsp;&emsp;(C) to provide for the modification or expansion of privately owned facilities, including the modification or improvement of production processes, when taking actions under section 4531 of this title, 4532 of this title, or this section; and
+&emsp;&emsp;(C) to provide for the modification or expansion of privately owned facilities, including the modification or improvement of production processes, when taking actionsunder section 4531 of this title, 4532 of this title, or this section; and
 
 &emsp;&emsp;(D) to sell or otherwise transfer equipment owned by the Federal Government and installed under this subsection to the owners of such plants, factories, or other industrial facilities.
 
@@ -162,7 +162,7 @@ Pub. L. 113–172, §4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: "Secti
 
 #### Delegation of Functions
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
 For delegation of certain authority of President under this section, see sections 303(a), 304, 305(b), and 306–308 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, 16655, set out as a note under section 4553 of this title.
 

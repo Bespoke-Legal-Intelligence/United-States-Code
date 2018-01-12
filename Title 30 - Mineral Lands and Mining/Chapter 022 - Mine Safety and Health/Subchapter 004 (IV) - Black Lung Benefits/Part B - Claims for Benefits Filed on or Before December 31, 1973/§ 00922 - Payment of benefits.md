@@ -4,7 +4,7 @@
 
 Subject to the provisions of subsection (b) of this section, benefit payments shall be made by the Secretary under this part as follows:
 
-(1) In the case of total disability of a miner due to pneumoconiosis, the disabled miner shallbe paid benefits during the disability at a rate equal to 37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1.
+(1) In the case of total disability of a miner due to pneumoconiosis, the disabled miner shall be paid benefits during the disability at a rate equal to 37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1.
 
 (2) In the case of death of a miner due to pneumoconiosis or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner receiving benefits under this part, benefits shall be paid to his widow (if any) at the rate the deceased miner would receive such benefits if he were totally disabled.
 
@@ -56,7 +56,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified to 
 
 Subsec. (a)(2). Pub. L. 97–119, §203(a)(1), inserted ", except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981," after "pneumoconiosis or".
 
-Subsec. (a)(3). Pub. L. 97–119, §203(a)(2), inserted ", except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or" and substituted "time of his death or" for "time of his death, or".
+Subsec. (a)(3). Pub. L. 97–119, §203(a)(2), inserted ", except with respect to a claim filed under part C ofthis subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or" and substituted "time of his death or" for "time of his death, or".
 
 Subsec. (a)(5). Pub. L. 97–119, §203(a)(3), inserted ", except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis, or" and substituted "time of his death or who was totally" for "time of his death, or of a miner who was totally".
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–303, §2(b), May 19, 1972, 86 Stat. 153, provided that: "The amendment made by this section\[amending this section\] shall be effective as of December 30, 1969."
+Pub. L. 92–303, §2(b), May 19, 1972, 86 Stat. 153, provided that: "The amendment made by this section \[amending this section\] shall be effective as of December 30, 1969."
 
 #### Calculation of Monthly Benefit Payments
 

@@ -32,7 +32,7 @@ Qualified guarantee.—The term "qualified guarantee", with respect to a major p
 
 &emsp;&emsp;(B) is made to facilitate or expedite the completion of the project in reasonable anticipation that other donors will contribute sufficient funds or other resources in amounts sufficient to pay for completion of the project;
 
-&emsp;&emsp;(C) is set forth as a written agreement that provides for the donor to furnish in cash or securities, in addition to the donor's othergift or gifts for the project, any additional amount that may become necessary for paying the cost of completing the project by reason of a failure to obtain from other donors or sources funds or other resources in amounts sufficient to pay the cost of completing the project; and
+&emsp;&emsp;(C) is set forth as a written agreement that provides for the donor to furnish in cash or securities, in addition to the donor's other gift or gifts for the project, any additional amount that may become necessary for paying the cost of completing the project by reason of a failure to obtain from other donors or sources funds or other resources in amounts sufficient to pay the cost of completing the project; and
 
 &emsp;&emsp;(D) is accompanied by—
 

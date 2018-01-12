@@ -42,7 +42,7 @@ Not later than 180 days after December 19, 2007, the Secretary of State shall su
 
 #### (c) Energy advisors
 
-The Secretary of Energy may make appropriate arrangements with the Secretary of Stateto assign personnel from the Department of Energy or the National Laboratories of the Department of Energy to serve as dedicated advisors on energy matters in embassies of the United States or other United States diplomatic missions.
+The Secretary of Energy may make appropriate arrangements with the Secretary of State to assign personnel from the Department of Energy or the National Laboratories of the Department of Energy to serve as dedicated advisors on energy matters in embassies of the United States or other United States diplomatic missions.
 
 #### (d) Report
 
@@ -61,4 +61,8 @@ Not later than 180 days after December 19, 2007, and every 2 years thereafter fo
 &emsp;(3) the number and qualification of personnel in each embassy (or relevant foreign posting) of the United States whose work is dedicated exclusively to energy matters.
 
 (Pub. L. 110–140, title IX, §931, Dec. 19, 2007, 121 Stat. 1739.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

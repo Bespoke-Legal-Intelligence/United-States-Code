@@ -6,7 +6,7 @@ It shall be unlawful for an employer—
 
 &emsp;(1) to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's age;
 
-&emsp;(2) to limit, segregate, or classify his employees in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's age; or
+&emsp;(2) to limit, segregate, or classify his employees in any way which would deprive or tend to deprive any individual of employmentopportunities or otherwise adversely affect his status as an employee, because of such individual's age; or
 
 &emsp;(3) to reduce the wage rate of any employee in order to comply with this chapter.
 
@@ -94,7 +94,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 (5) Paragraph (1) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
-(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determiningbenefit accruals or it is a plan permitted by subsection (m)..<sup>1</sup>
+(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m)..<sup>1</sup>
 
 (7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) <sup>2</sup> of section 411(b)(2) of title 26 shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
@@ -164,7 +164,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in whichthe participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -192,7 +192,7 @@ Termination requirements.—An applicable defined benefit plan shall not be trea
 
 &emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
 
-&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specifiedunder the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
 &emsp;(C)
 
@@ -392,7 +392,7 @@ Subsec. (h). Pub. L. 99–272, §9201(b)(3), and Pub. L. 99–592, §2(b), made 
 
 Subsec. (i). Pub. L. 99–592, §3, temporarily added subsec. (i) which read as follows: "It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
 
-&emsp;"(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
+&emsp;"(1) with respect to the employment of an individual as a firefighter or as a law enforcement officerand the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
 
 &emsp;"(2) pursuant to a bona fide hiring or retirement plan that is not a subterfuge to evade the purposes of this chapter."
 
@@ -452,7 +452,7 @@ Pub. L. 101–433, title I, §105, Oct. 16, 1990, 104 Stat. 981, as amended by P
 
 "(a)
 
-In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out asnotes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
+In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
 
 &emsp;"(1) any employee benefit established or modified on or after the date of enactment of this Act \[Oct. 16, 1990\]; and
 
@@ -552,7 +552,7 @@ Pub. L. 99–592, §7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except thatwith respect to any employee who is subject to a collective-bargaining agreement—
+In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
 
 &emsp;"(1) which is in effect on June 30, 1986,
 
@@ -598,7 +598,7 @@ Applicability of Amendments Relating to Normal Retirement Age.—The amendments 
 
 "(c)
 
-Plan Amendments.—If any amendment made by this subtitle \[subtitle C (§§9201–9204) of title IX of Pub. L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
+Plan Amendments.—If any amendment made by this subtitle \[subtitle C (§§9201–9204) of title IX of Pub.L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
 &emsp;"(1) during the period after such amendment takes effect and before such first plan year, the plan is operated in accordance with the requirements of such amendment, and
 

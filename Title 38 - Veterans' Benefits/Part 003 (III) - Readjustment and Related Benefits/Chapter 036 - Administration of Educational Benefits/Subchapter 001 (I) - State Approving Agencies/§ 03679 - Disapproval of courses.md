@@ -12,11 +12,19 @@
 
 &emsp;(A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
 
-&emsp;(B) An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual's relationship to a veteran described in subparagraph (A).
+&emsp;(B) An individual who is entitled to assistance under—
+
+&emsp;&emsp;(i) section 3311(b)(9) of this title; or
+
+&emsp;&emsp;(ii) section 3319 of this title by virtue of the individual's relationship to—
+
+&emsp;&emsp;&emsp;(I) a veteran described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;(II) a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.
 
 (3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A) or (2)(B) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
 
-(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the Statein which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
 
 (5) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
 
@@ -28,25 +36,15 @@
 
 &emsp;(2) makes each disclosure required by paragraph (1) in a manner that the Secretary considers prominent (as specified by the Secretary in regulations prescribed for purposes of this subsection).
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976.)
 
 #### Amendment of Subsection (c)(2)(B)
 
-<i>Pub. L. 114–315, title IV, §417, Dec. 16, 2016, 130 Stat. 1565, provided that, applicable with respect to a course, semester, or term that begins after July 1, 2017, subsection (c)(2)(B) of this section is amended to read as follows:</i>
-
-&emsp;<i>(B) An individual who is entitled to assistance under—</i>
-
-&emsp;&emsp;<i>(i) section 3311(b)(9) of this title; or</i>
-
-&emsp;&emsp;<i>(ii) section 3319 of this title by virtue of the individual's relationship to—</i>
-
-&emsp;&emsp;&emsp;<i>(I) a veteran described in subparagraph (A); or</i>
-
-&emsp;&emsp;&emsp;<i>(II) a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.</i>
-
-<i>See 2016 Amendment note below.</i>
+<i>Pub. L. 115–48, title I, §105(c)(7), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (c)(2)(B) of this section is amended by striking "3311(b)(9)" and inserting "3311(b)(8)". See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(B)(i). Pub. L. 115–48 substituted "3311(b)(8)" for "3311(b)(9)".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–228 substituted "(1) Except as provided by paragraph (2), any course" for "Any course" and added par. (2).
 
@@ -65,6 +63,10 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 <b>1989</b>—Subsec. (b). Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing and "Secretary's" for "Administrator's".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "the Administrator's disapproval" for "his disapproval".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2016 Amendment
 

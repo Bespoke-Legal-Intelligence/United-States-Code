@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the "Sport Fish Restoration and Boating TrustFund". Such Trust Fund shall consist of such amounts as may be appropriated, credited, or paid to it as provided in this section, section 9503(c)(3), section 9503(c)(4), or section 9602(b).
+There is hereby established in the Treasury of the United States a trust fund to be known as the "Sport Fish Restoration and Boating Trust Fund". Such Trust Fund shall consist of such amounts as may be appropriated, credited, or paid to it as provided in this section, section 9503(c)(3), section 9503(c)(4), or section 9602(b).
 
 #### (b) Sport Fish Restoration and Boating Trust Fund
 
@@ -24,7 +24,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the FAST Act).
 
-> &emsp;Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
+> &emsp;Amounts transferred to such account under section 9503(c)(4) may be used only for makingexpenditures described in subparagraph (C) of this paragraph.
 
 #### (c) Expenditures from Boat Safety Account
 
@@ -60,7 +60,7 @@ The date of the enactment of the FAST Act, referred to in subsec. (b)(2)(A) to (
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to section 777g–1(d) of Title 16, Conservation.
 
-The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of Title 16 and Tables.
+The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified principally to chapter 59A (§3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of Title 16 and Tables.
 
 Section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users), referred to in subsec. (c), means section 15 of act Aug. 9, 1950, as in effect on the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Section 15 of act Aug. 9, 1950, was classified to section 777n of Title 16, Conservation, prior to repeal by Pub. L. 114–94, div. A, title X, §10001(g)(1), Dec. 4, 2015, 129 Stat. 1621.
 
@@ -250,7 +250,7 @@ Subsec. (d)(2). Pub. L. 108–88, §12(b)(3), substituted "March 1, 2004" for "O
 
 <b>2000</b>—Subsec. (b)(2)(A). Pub. L. 106–408 substituted "(as in effect on the date of the enactment of the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000)" for "(as in effect on the date of the enactment of the TEA 21 Restoration Act)".
 
-<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–178, §9005(f)(1), as added by Pub. L. 105–206, §9015(b), substituted "the dateof the enactment of the TEA 21 Restoration Act" for "the date of the enactment of the Transportation Equity Act for the 21st Century".
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–178, §9005(f)(1), as added by Pub. L. 105–206, §9015(b), substituted "the date of the enactment of the TEA 21 Restoration Act" for "the date of the enactment of the Transportation Equity Act for the 21st Century".
 
 Pub. L. 105–178, §9005(b)(1), substituted "the date of the enactment of the Transportation Equity Act for the 21st Century)," for "October 1, 1988), and".
 
@@ -278,7 +278,7 @@ Subsec. (c). Pub. L. 102–240, §8002(d)(2)(C), substituted "1998" for "1994".
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11211(i)(2), inserted reference to section 9503(c)(5) in last sentence.
 
-Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Amounts in the Sport Fish Restoration Account shall be available, as provided by appropriation Acts, to carry out the purposes of the Act entitled 'An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes', approved August 9, 1950 (as in effect on October 1, 1988)."
+Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "Amounts in the Sport Fish Restoration Account shall be available, as provided by appropriation Acts, to carry out the purposes of the Act entitled 'An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes', approved August 9, 1950 (as in effect on October 1, 1988)."
 
 <b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–418 substituted "heading 9507 of the Harmonized Tariff Schedule of the United States" for "subpart B of part 5 of schedule 7 of the Tariff Schedules of the United States" and "chapter 89 of the Harmonized Tariff Schedule of the United States" for "subpart D of part 6 of schedule 6 of such Schedules".
 

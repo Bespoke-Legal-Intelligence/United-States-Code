@@ -9,22 +9,10 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | <b>B.</b> | <b>Deficiency procedures in the case of income, estate, gift, and certain excise taxes</b> | <b>6211</b> |
-| <b>C.</b> | <b>Tax treatment of partnership items</b> | <b>6221</b> |
-| <b>D.</b> | <b>Treatment of electing large partnerships</b> | <b>6240</b> |
+| <b>C.</b> | <b>Treatment of partnerships</b> | <b>6221</b> |
+| <b>\[D.</b> | <b>Repealed\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 114–74, title XI, §1101(a), (b)(2), (c)(2), (g), Nov. 2, 2015, 129 Stat. 625, 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:</i>
-
-<i>(1) by striking the item relating to subchapter C;</i>
-
-<i>(2) by striking the item relating to subchapter D; and</i>
-
-<i>(3) by inserting after the item relating to subchapter B the following new item for subchapter C: "Treatment of partnerships".</i>
-
-<i>See 2015 Amendment note below.</i>
 
 #### Amendments
 
@@ -49,5 +37,4 @@ Pub. L. 97–248, title IV, §402(b), Sept. 3, 1982, 96 Stat. 667, added item fo
 
 - [Subchapter A - In General](Subchapter%20A%20-%20In%20General/README.md)
 - [Subchapter B - Deficiency Procedures in the Case of Income, Estate, Gift, and Certain Excise Taxes](Subchapter%20B%20-%20Deficiency%20Procedures%20in%20the%20Case%20of%20Income%2C%20Estate%2C%20Gift%2C%20and%20Certain%20Excise%20Taxes/README.md)
-- [Subchapter C - Tax Treatment of Partnership Items](Subchapter%20C%20-%20Tax%20Treatment%20of%20Partnership%20Items/README.md)
-- [Subchapter D - Treatment of Electing Large Partnerships](Subchapter%20D%20-%20Treatment%20of%20Electing%20Large%20Partnerships/README.md)
+- [Subchapter C - Treatment of Partnerships](Subchapter%20C%20-%20Treatment%20of%20Partnerships/README.md)

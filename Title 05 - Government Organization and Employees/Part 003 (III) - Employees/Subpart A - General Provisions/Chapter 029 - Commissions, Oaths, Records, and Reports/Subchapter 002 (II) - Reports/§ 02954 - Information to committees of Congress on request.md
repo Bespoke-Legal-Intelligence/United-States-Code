@@ -1,6 +1,6 @@
 ### §2954. Information to committees of Congress on request
 
-An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven membersthereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
+An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven members thereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 103–437, §3(b), Nov. 2, 1994, 108 Stat. 4581.)
 

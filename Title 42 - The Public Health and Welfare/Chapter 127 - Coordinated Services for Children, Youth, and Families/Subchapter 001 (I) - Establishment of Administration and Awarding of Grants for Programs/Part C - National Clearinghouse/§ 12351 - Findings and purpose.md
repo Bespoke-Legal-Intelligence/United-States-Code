@@ -32,5 +32,9 @@ It is the purpose of this part <sup>1</sup> to—
 
 This part, referred to in subsec. (b), was in the original "this Act", and was translated as reading "this chapter", meaning chapter 3 (§§955–960) of subtitle A of title IX of Pub. L. 101–501, known as the Family Resources Act, to reflect the probable intent of Congress.
 
+#### Effective Date
+
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 &emsp;&emsp;&emsp;(ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
 
-&emsp;(4) which provides that compensation will be deferred for any calendar month only if anagreement providing for such deferral has been entered into before the beginning of such month,
+&emsp;(4) which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
 
 &emsp;(5) which meets the distribution requirements of subsection (d), and
 
@@ -180,7 +180,15 @@ For purposes of this section—
 
 #### (ii) Limitation on accruals
 
-&emsp;&emsp;&emsp;A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
+&emsp;&emsp;&emsp;A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $6,000.
+
+#### (iii) Cost of living adjustment
+
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016, and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+
+#### (iv) Special rule for application of limitation on accruals for certain plans
+
+&emsp;&emsp;&emsp;In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant's age at the time of the calculation.
 
 #### (C) Qualified services
 
@@ -214,7 +222,7 @@ For purposes of this section—
 
 #### (B) Nonelective deferred compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initialservice requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
 
 #### (13) Special rule for churches
 
@@ -222,7 +230,7 @@ For purposes of this section—
 
 #### (14) Treatment of qualified governmental excess benefit arrangements
 
-&emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+&emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefitarrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
 
 #### (15) Applicable dollar amount
 
@@ -370,7 +378,7 @@ For purposes of this section—
 
 &emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 114–95, title IX, §9215(uu)(2), Dec. 10, 2015, 129 Stat. 2183.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 114–95, title IX, §9215(uu)(2), Dec. 10, 2015, 129 Stat. 2183; Pub. L. 115–97, title I, §13612(a)–(c), Dec. 22, 2017, 131 Stat. 2165.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -383,6 +391,12 @@ Section 8101 of the Elementary and Secondary Education Act of 1965, referred to 
 Section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801), referred to in subsec. (f)(4)(C)(i), was renumbered section 8101 of that Act by Pub. L. 114–95, title VIII, §8001(a)(1), Dec. 10, 2015, 129 Stat. 2089. See note above.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(11)(B)(ii). Pub. L. 115–97, §13612(a), substituted "$6,000" for "$3,000".
+
+Subsec. (e)(11)(B)(iii). Pub. L. 115–97, §13612(b), added cl. (iii).
+
+Subsec. (e)(11)(B)(iv). Pub. L. 115–97, §13612(c), added cl. (iv).
 
 <b>2015</b>—Subsec. (e)(11)(D)(ii)(I). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
@@ -480,7 +494,7 @@ Pub. L. 100–647, §6071(c), substituted "rural cooperative plan" for "rural el
 
 Subsec. (d)(1)(A). Pub. L. 100–647, §1011(e)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the plan provides that amounts payable under the plan will be made available to participants or other beneficiaries not earlier than when the participant is separated from service with the employer or is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary by regulation), and".
 
-Subsec. (d)(2)(B)(i)(I). Pub. L. 100–647, §1011(e)(10), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "at least 2/3 of the total amount payable with respect to the participant will be paid during the life expectancy of such participant (determined as of the commencement of the distribution), and".
+Subsec. (d)(2)(B)(i)(I). Pub. L. 100–647, §1011(e)(10), amended subcl. (I) generally. Prior to amendment,subcl. (I) read as follows: "at least 2/3 of the total amount payable with respect to the participant will be paid during the life expectancy of such participant (determined as of the commencement of the distribution), and".
 
 Subsec. (d)(10). Pub. L. 100–647, §6064(a)(2), amended subsec. (d), as in effect on the day before the date of enactment of Pub. L. 99–514 (Oct. 22, 1986), by adding par. (10) reading as follows:
 
@@ -511,6 +525,10 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 <b>1984</b>—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
 <b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out "described in section 501(c)(12)" after "any organization" and substituted "electric service on a mutual or cooperative basis" for "electric service" and in cl. (ii) substituted "paragraph (4) or (6) of section 501(a)" for "section 501(c)(6)" and "at least 80 percent of the members" for "all the members".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13612(d), Dec. 22, 2017, 131 Stat. 2166, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -566,13 +584,13 @@ Amendment by section 646(a)(3) of Pub. L. 107–16 applicable to distributions a
 
 Amendment by section 647(b) of Pub. L. 107–16 applicable to trustee-to-trustee transfers after Dec. 31, 2001, see section 647(c) of Pub. L. 107–16, set out as a note under section 403 of this title.
 
-Amendment by section 648(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section648(c) of Pub. L. 107–16, set out as a note under section 411 of this title.
+Amendment by section 648(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 648(c) of Pub. L. 107–16, set out as a note under section 411 of this title.
 
 Pub. L. 107–16, title VI, §649(c), June 7, 2001, 115 Stat. 128, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to distributions after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of this title.
+Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub.L. 105–34, set out as a note under section 411 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -674,7 +692,7 @@ Application to tax-exempt organizations.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the application of section 457 of the Internal Revenue Code of 1986 by reason of the amendments made by this section to deferred compensationplans established and maintained by organizations exempt from tax shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in subparagraph (B), the application of section 457 of the Internal Revenue Code of 1986 by reason of the amendments made by this section to deferred compensation plans established and maintained by organizations exempt from tax shall apply to taxable years beginning after December 31, 1986.
 
 &emsp;"(B)
 
@@ -766,7 +784,7 @@ Pub. L. 95–600, title I, §131(c)(3), as added by Pub. L. 97–248, title II, 
 
 "(A)
 
-In general.—The amendments made by this section \[enacting this section and provisions set out asnotes under this section\] shall not apply to any qualified State judicial plan.
+In general.—The amendments made by this section \[enacting this section and provisions set out as notes under this section\] shall not apply to any qualified State judicial plan.
 
 "(B)
 

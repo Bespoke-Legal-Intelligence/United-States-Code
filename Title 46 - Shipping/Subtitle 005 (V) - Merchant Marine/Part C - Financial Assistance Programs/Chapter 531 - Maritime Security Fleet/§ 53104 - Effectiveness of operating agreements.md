@@ -2,7 +2,7 @@
 
 (a)
 
-Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
+Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except asprovided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
 
 (b)
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 112–239, §3508(d)(2), struck out "an operating agreement
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "2025" for "2015".
 
-<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted "section 50501 of this title" for "section 2 ofthe Shipping Act, 1916 (46 U.S.C. App. 802)" in subcls. (I) and (II).
+<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subcls. (I) and (II).
 
 Subsec. (e)(2). Pub. L. 109–304, §13(a)(3)(B), substituted "section 56101 of this title" for "section 9 of the Shipping Act, 1916 (46 U.S.C. App. 808)".
 

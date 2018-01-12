@@ -18,7 +18,7 @@ The joint import safety rapid response plan shall address—
 
 &emsp;(3) the measures to be taken by U.S. Customs and Border Protection and other Federal agencies in recovering from or mitigating the effects of actions taken in response to such an incident after the incident to ensure the resumption of the entry of merchandise into the United States; and
 
-&emsp;(4) exercises that U.S. Customs and Border Protection may conduct in conjunction with Federal, State, and local agencies, and private sector entities, to simulate responses to such an incident.
+&emsp;(4) exercises that U.S. Customs and Border Protection may conduct in conjunction withFederal, State, and local agencies, and private sector entities, to simulate responses to such an incident.
 
 #### (c) Updates of plan
 
@@ -44,7 +44,7 @@ The Secretary of Homeland Security shall review and update the joint import safe
 
 #### (3) Requirements for testing and evaluation
 
-&emsp;The Secretary and the Commissioner shall ensure that the testing and evaluation carriedout in conducting exercises under paragraph (1)—
+&emsp;The Secretary and the Commissioner shall ensure that the testing and evaluation carried out in conducting exercises under paragraph (1)—
 
 &emsp;&emsp;(A) are performed using clear and objective performance measures; and
 

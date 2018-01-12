@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;(ii) if the State will permit an applicant to file a form described in paragraph (2)(B) or (3)(B).
 
-#### (C) Federal register notice
+#### (C) Federal Register notice
 
 &emsp;&emsp;Beginning with the forms developed under paragraphs (2)(B) and (3)(B) for the award year 2010–2011, the Secretary shall publish on an annual basis a notice in the Federal Register requiring State agencies to inform the Secretary—
 

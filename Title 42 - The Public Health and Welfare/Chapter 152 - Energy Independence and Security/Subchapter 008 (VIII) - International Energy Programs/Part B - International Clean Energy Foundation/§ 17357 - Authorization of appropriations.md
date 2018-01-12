@@ -16,3 +16,7 @@ To carry out this part, there are authorized to be appropriated $20,000,000 for 
 
 (Pub. L. 110–140, title IX, §927, Dec. 19, 2007, 121 Stat. 1738.)
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+

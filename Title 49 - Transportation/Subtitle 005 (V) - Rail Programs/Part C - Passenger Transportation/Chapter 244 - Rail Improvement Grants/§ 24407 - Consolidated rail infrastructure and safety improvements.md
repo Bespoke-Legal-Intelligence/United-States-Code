@@ -332,7 +332,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Oc
 
 Review and Approval.—Not later than 60 days after the Secretary receives a plan under subsection (a), the Secretary shall review and approve or disapprove it. If the proposed plan is disapproved, the Secretary shall notify the affected State as to the specific areas in which the proposed plan is deficient, and the State shall correct all deficiencies within 30 days following receipt of written notice from the Secretary."
 
-\[For definitions of "Secretary", "State", and "crossing", as used in section 202 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "Secretary", "State", and "crossing", as used in section 202 of Pub. L. 110–432, set outabove, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 #### Operation Lifesaver
 

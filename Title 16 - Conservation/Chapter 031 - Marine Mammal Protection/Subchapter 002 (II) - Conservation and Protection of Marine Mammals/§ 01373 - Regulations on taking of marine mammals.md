@@ -6,7 +6,7 @@ The Secretary, on the basis of the best scientific evidence available and in con
 
 #### (b) Factors considered in prescribing regulations
 
-In prescribing such regulations, the Secretary shall give full consideration to all factors which may affect the extent to which such animals may be taken or imported, including but not limited to the effect of such regulations on—
+In prescribing such regulations, the Secretary shall give full consideration to all factors whichmay affect the extent to which such animals may be taken or imported, including but not limited to the effect of such regulations on—
 
 &emsp;(1) existing and future levels of marine mammal species and population stocks;
 
@@ -57,6 +57,10 @@ Within six months after the effective date of this chapter and every twelve mont
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (f), means the effective date of Pub. L. 92–522, See section 4 of Pub. L. 92–522, set out as an Effective Date note under section 1361 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 #### Termination of Reporting Requirements
 

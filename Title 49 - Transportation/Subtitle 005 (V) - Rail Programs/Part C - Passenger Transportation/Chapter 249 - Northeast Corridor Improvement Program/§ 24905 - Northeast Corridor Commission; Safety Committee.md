@@ -26,7 +26,7 @@ Northeast Corridor Commission.—
 
 &emsp;(7) The Commission may appoint and fix the pay of such personnel as it considers appropriate.
 
-&emsp;(8) Upon request of the Commission, the head of any department or agency of theUnited States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this section.
+&emsp;(8) Upon request of the Commission, the head of any department or agency of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this section.
 
 &emsp;(9) Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this section.
 
@@ -106,7 +106,7 @@ Implementation.—Amtrak and public authorities providing commuter rail passenge
 
 &emsp;(3)
 
-Revisions.—The Commission may make necessary revisions to the policy developedunder paragraph (1), including revisions based on Amtrak's financial accounting system developed pursuant to section 203 of the Passenger Rail Investment and Improvement Act of 2008.
+Revisions.—The Commission may make necessary revisions to the policy developed under paragraph (1), including revisions based on Amtrak's financial accounting system developed pursuant to section 203 of the Passenger Rail Investment and Improvement Act of 2008.
 
 &emsp;(4)
 
@@ -146,7 +146,7 @@ Function; meetings.—The Secretary shall consult with the Committee about safet
 
 Report.—At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656, 1657.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, titleXI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656, 1657.)
 
 Historical and Revision Notes
 
@@ -208,7 +208,7 @@ Subsec. (a)(1)(B). Pub. L. 114–94, §11305(a)(1)(B), added subpar. (B) and str
 
 Subsec. (a)(1)(D). Pub. L. 114–94, §11305(a)(1)(C), inserted "and commuter" after "freight".
 
-Subsec. (a)(6). Pub. L. 114–94, §11305(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read asfollows: "The Chairman of the Commission shall be elected by the members."
+Subsec. (a)(6). Pub. L. 114–94, §11305(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The Chairman of the Commission shall be elected by the members."
 
 Subsec. (b)(1). Pub. L. 114–94, §11305(b)(1), inserted "and periodically update" after "develop".
 
@@ -250,5 +250,5 @@ Subsec. (f). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e)
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 

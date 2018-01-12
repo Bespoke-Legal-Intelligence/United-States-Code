@@ -18,7 +18,7 @@ Administrator.—The head of the Administration shall be the Administrator who s
 
 (e)
 
-Deputy Administrator.—The Administration shall have a Deputy Administrator whoshall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
+Deputy Administrator.—The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
 (f)
 

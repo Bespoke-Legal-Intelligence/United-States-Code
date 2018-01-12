@@ -10,7 +10,7 @@ To be eligible to receive an allocation under section 7115(a) of this title, a l
 
 #### (b) Consortium
 
-If a local educational agency desires to carry out the activities described in this subpart in consortium with one or more surrounding localeducational agencies as described in section 7115(a)(3) of this title, such local educational agencies shall submit a single application as required under subsection (a).
+If a local educational agency desires to carry out the activities described in this subpart in consortium with one or more surrounding local educational agencies as described in section 7115(a)(3) of this title, such local educational agencies shall submit a single application as required under subsection (a).
 
 #### (c) Consultation
 
@@ -26,7 +26,7 @@ If a local educational agency desires to carry out the activities described in t
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and prior to receiving an allocation under this subpart, a local educational agency or consortium of such agencies shall conduct a comprehensive needs assessment of the local educational agency or agencies proposed to be served under this subpart in order to examine needs for improvement of—
+&emsp;Except as provided in paragraph (2) and prior to receiving an allocation under this subpart,a local educational agency or consortium of such agencies shall conduct a comprehensive needs assessment of the local educational agency or agencies proposed to be served under this subpart in order to examine needs for improvement of—
 
 &emsp;&emsp;(A) access to, and opportunities for, a well-rounded education for all students;
 

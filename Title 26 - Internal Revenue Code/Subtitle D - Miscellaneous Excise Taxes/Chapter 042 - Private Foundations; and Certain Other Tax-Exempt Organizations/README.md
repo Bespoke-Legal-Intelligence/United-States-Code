@@ -14,10 +14,13 @@
 | <b>E.</b> | <b>Abatement of first and second tier taxes in certain cases</b> | <b>4961</b> |
 | <b>F.</b> | <b>Tax shelter transactions</b> | <b>4965</b> |
 | <b>G.</b> | <b>Donor advised funds</b> | <b>4966</b> |
+| <b>H.</b> | <b>Excise tax based on investment income of private colleges and universities</b> | <b>4968</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13701(b), Dec. 22, 2017, 131 Stat. 2168, added item for subchapter H.
 
 <b>2006</b>—Pub. L. 109–280, title XII, §1231(b)(2), Aug. 17, 2006, 120 Stat. 1098, which directed the addition of item for subchapter G to the analysis for chapter 42 without specifying the act to be amended, was executed by adding the item to this analysis, which is for chapter 42 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
@@ -49,3 +52,4 @@ Pub. L. 109–222, title V, §516(a)(2), May 17, 2006, 120 Stat. 371, added item
 - [Subchapter E - Abatement of First and Second Tier Taxes in Certain Cases](Subchapter%20E%20-%20Abatement%20of%20First%20and%20Second%20Tier%20Taxes%20in%20Certain%20Cases/README.md)
 - [Subchapter F - Tax Shelter Transactions](Subchapter%20F%20-%20Tax%20Shelter%20Transactions/README.md)
 - [Subchapter G - Donor Advised Funds](Subchapter%20G%20-%20Donor%20Advised%20Funds/README.md)
+- [Subchapter H - Excise Tax Based on Investment Income of Private Colleges and Universities](Subchapter%20H%20-%20Excise%20Tax%20Based%20on%20Investment%20Income%20of%20Private%20Colleges%20and%20Universities/README.md)

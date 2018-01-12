@@ -36,7 +36,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (4) Timing of subsequent sequestration order
 
-&emsp;A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+&emsp;A sequestration order required by section 902 or 903 of this title with respect to programsunder such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
 
 #### (5) No increase in beneficiary charges in assignment-related cases
 
@@ -100,7 +100,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;&emsp;(B) elements of military pay,
 
-> &emsp;shall be subject to reduction under an order in the same manner as other administrative expense components of the Federal budget; except that no such order may reduce or have the effect of reducing the rate of pay to which any individual is entitled under any such statutory pay system (as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990) or the rate of any element of military pay to which any individual is entitled under title 37, or any increase in rates ofpay which is scheduled to take effect under section 5303 of title 5, section 1009 of title 37, or any other provision of law.
+> &emsp;shall be subject to reduction under an order in the same manner as other administrative expense components of the Federal budget; except that no such order may reduce or have the effect of reducing the rate of pay to which any individual is entitled under any such statutory pay system (as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990) or the rate of any element of military pay to which any individual is entitled under title 37, or any increase in rates of pay which is scheduled to take effect under section 5303 of title 5, section 1009 of title 37, or any other provision of law.
 
 #### (2) Definitions
 
@@ -170,7 +170,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may providefor reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -206,7 +206,7 @@ The effects of sequestration shall be as follows:
 
 The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§1071 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§1321 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§1395c et seq.), B (§1395j et seq.), C (§1395w–21 et seq.), and D (§1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§1321 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§1395c et seq.), B (§1395j et seq.), C (§1395w–21 et seq.), and D (§1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
@@ -346,7 +346,7 @@ Subsec. (d)(1)(B). Pub. L. 100–119, §102(b)(11), inserted "(or such higher pe
 
 Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted "Notwithstanding any change in the display of budget accounts, any order" for "Any order".
 
-Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an "existing contract" exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of thistitle, under an order issued under section 902 of this title.
+Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an "existing contract" exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
 <b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

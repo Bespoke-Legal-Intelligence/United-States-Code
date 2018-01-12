@@ -6,7 +6,7 @@ Motion for Hearing.—
 
 &emsp;(1)
 
-Request for hearing.—Within the time specified by the military judge for the filing of a motion under this section, either party may request the military judge to conduct a hearing to make all determinations concerning the use, relevance, or admissibility of classifiedinformation that would otherwise be made during the trial or pretrial proceeding.
+Request for hearing.—Within the time specified by the military judge for the filing of a motion under this section, either party may request the military judge to conduct a hearing to make all determinations concerning the use, relevance, or admissibility of classified information that would otherwise be made during the trial or pretrial proceeding.
 
 &emsp;(2)
 

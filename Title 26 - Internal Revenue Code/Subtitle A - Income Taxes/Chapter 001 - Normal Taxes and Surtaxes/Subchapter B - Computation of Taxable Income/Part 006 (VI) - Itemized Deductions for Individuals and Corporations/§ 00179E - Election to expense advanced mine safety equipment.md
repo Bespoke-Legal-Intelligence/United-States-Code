@@ -16,7 +16,7 @@ A taxpayer may elect to treat 50 percent of the cost of any qualified advanced m
 
 #### (c) Qualified advanced mine safety equipment property
 
-For purposes of this section, the term "qualified advanced mine safety equipment property" means any advanced mine safety equipment property for use in any underground mine located in the United States—
+For purposes of this section, the term "qualified advanced mine safety equipment property"means any advanced mine safety equipment property for use in any underground mine located in the United States—
 
 &emsp;(1) the original use of which commences with the taxpayer, and
 
@@ -48,7 +48,7 @@ No deduction shall be allowed under subsection (a) to any taxpayer for any taxab
 
 This section shall not apply to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III,§316(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §128(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §168(a), Dec. 18, 2015, 129 Stat. 3067.)
+(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §316(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §128(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §168(a), Dec. 18, 2015, 129 Stat. 3067.)
 
 #### References in Text
 

@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-The President is authorized and encouraged to impose the sanctions described in subsection (b) with respect to—
+The President shall impose the sanctions described in subsection (b) with respect to—
 
-&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
+&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
 &emsp;(2) any individual who has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an act described in paragraph (1).
 
@@ -42,19 +42,59 @@ The President is authorized and encouraged to impose the sanctions described in 
 
 #### (c) Waiver
 
-The President may waive the application of sanctions under subsection (b) with respect to a person if the President—
+except <sup>1</sup> as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
 
 &emsp;(1) determines that such a waiver is in the national security interests of the United States; and
 
 &emsp;(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
 
-#### (d) Regulatory authority
+#### (d) Termination
+
+Subject to section 9511 of this title, the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
+
+&emsp;(1) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+&emsp;(2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+
+#### (e) <sup>2</sup> Application of new sanctions
+
+The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+
+&emsp;(1) a written determination that the waiver—
+
+&emsp;&emsp;(A) is in the vital national security interests of the United States; or
+
+&emsp;&emsp;(B) will further the enforcement of this chapter; and
+
+&emsp;(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
+
+#### (e) <sup>2</sup> Regulatory authority
 
 The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-(Pub. L. 113–95, §9, Apr. 3, 2014, 128 Stat. 1094.)
+(Pub. L. 113–95, §9, Apr. 3, 2014, 128 Stat. 1094; Pub. L. 115–44, title II, §§227, 230(b), Aug. 2, 2017, 131 Stat. 910, 916.)
 
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### Codification
+
+Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the "Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014", were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–44, §227(1)(A), substituted "shall" for "is authorized and encouraged to" in introductory provisions. See Codification note above.
+
+Subsec. (a)(1). Pub. L. 115–44, §227(1)(B), substituted "President determines is, on or after August 2, 2017," for "President determines is" and inserted "or elsewhere" after "in the Russian Federation". See Codification note above.
+
+Subsec. (c). Pub. L. 115–44, §227(3), substituted "except as provided in subsection (d), the President" for "The President" in introductory provisions. See Codification note above.
+
+Subsecs. (d), (e). Pub. L. 115–44, §230(b), added subsec. (d) and redesignated former subsec. (d), relating to application of new sanctions, as (e). See Codification note above.
+
+Pub. L. 115–44, §227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

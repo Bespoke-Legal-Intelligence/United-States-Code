@@ -1,0 +1,6 @@
+### §13842. Transferred
+
+#### Codification
+
+Section 13842 was editorially reclassified as section 12202 of Title 34, Crime Control and Law Enforcement.
+

@@ -22,7 +22,7 @@ The Secretary shall promulgate regulations consistent with the provisions of thi
 
 &emsp;(1) establish a definition of disasters and catastrophic illnesses for which the cost of the treatment provided under contract would qualify for payment from CHEF;
 
-&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost oftreatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
+&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost of treatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
 
 &emsp;&emsp;(A) the 2000 level of $19,000; and
 

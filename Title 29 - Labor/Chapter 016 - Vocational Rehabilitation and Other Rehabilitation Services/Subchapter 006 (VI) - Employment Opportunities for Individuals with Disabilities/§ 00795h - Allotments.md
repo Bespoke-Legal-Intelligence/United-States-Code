@@ -42,7 +42,7 @@ Part B of this subchapter (as in effect on September 30, 1992), referred to in s
 
 Provisions similar to this section were contained in section 795k of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 795h, Pub. L. 93–112, title VI, §622, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2994, and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered section 641 of Pub. L. 93–112, by Pub. L. 102–569, title VI, §612(a)(2), (3), Oct. 29,1992, 106 Stat. 4438, and transferred to section 795r of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795h, Pub. L. 93–112, title VI, §622, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2994, and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered section 641 of Pub. L. 93–112, by Pub. L. 102–569, title VI, §612(a)(2), (3), Oct. 29, 1992, 106 Stat. 4438, and transferred to section 795r of this title, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) an amount equal to 10 percent of the aggregate amount of basic pay paid to career appointees in such agency during the preceding fiscal year; or
 
-&emsp;(B) an amount equal to 20 percent of the average of the annual rates of basic pay paid tocareer appointees in such agency during the preceding fiscal year.
+&emsp;(B) an amount equal to 20 percent of the average of the annual rates of basic pay paid to career appointees in such agency during the preceding fiscal year.
 
 (c)(1) Performance awards paid by any agency under this section shall be based on recommendations by performance review boards established by such agency under section 4314 of this title.
 

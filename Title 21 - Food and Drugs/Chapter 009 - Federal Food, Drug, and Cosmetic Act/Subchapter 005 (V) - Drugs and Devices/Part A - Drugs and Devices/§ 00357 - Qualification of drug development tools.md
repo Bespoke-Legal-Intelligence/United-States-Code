@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), the Secretary shall make publicly available, and update on atleast a biannual basis, on the Internet website of the Food and Drug Administration the following:
+&emsp;Subject to paragraph (3), the Secretary shall make publicly available, and update on at least a biannual basis, on the Internet website of the Food and Drug Administration the following:
 
 &emsp;&emsp;(A) Information with respect to each qualification submission under the qualification process under subsection (a), including—
 
@@ -136,7 +136,7 @@ In this section:
 
 #### (2) Biomedical research consortia
 
-&emsp;The term "biomedical research consortia" means collaborative groups that may take the form of public-private partnerships and may include government agencies, institutions of higher education (as defined in section 1001(a) of title 20), patient advocacy groups, industry representatives, clinical and scientific experts, and other relevant entities and individuals.
+&emsp;The term "biomedical research consortia" means collaborative groups that may take theform of public-private partnerships and may include government agencies, institutions of higher education (as defined in section 1001(a) of title 20), patient advocacy groups, industry representatives, clinical and scientific experts, and other relevant entities and individuals.
 
 #### (3) Clinical outcome assessment
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (9) Surrogate endpoint
 
-&emsp;The term "surrogate endpoint" means a marker, such as a laboratory measurement,radiographic image, physical sign, or other measure, that is not itself a direct measurement of clinical benefit, and—
+&emsp;The term "surrogate endpoint" means a marker, such as a laboratory measurement, radiographic image, physical sign, or other measure, that is not itself a direct measurement of clinical benefit, and—
 
 &emsp;&emsp;(A) is known to predict clinical benefit and could be used to support traditional approval of a drug or biological product; or
 
@@ -224,5 +224,5 @@ In general.—For purposes of informing guidance under this subsection, the Secr
 
 &emsp;"(B)
 
-Public availability.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall make such taxonomy publicly available in draft form for public comment. The Secretary shall finalize the taxonomy not later than 1 year after the close of the public comment period."
+Public availability.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall make such taxonomy publicly available in draft form for public comment. The Secretaryshall finalize the taxonomy not later than 1 year after the close of the public comment period."
 

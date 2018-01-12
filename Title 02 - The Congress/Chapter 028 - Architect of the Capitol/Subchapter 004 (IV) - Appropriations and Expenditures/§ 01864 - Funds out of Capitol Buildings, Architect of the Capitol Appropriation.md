@@ -1,6 +1,6 @@
 ### §1864. Funds out of Capitol Buildings, Architect of the Capitol Appropriation
 
-On and after October 18, 1986, the Architect of the Capitol may incur expenses authorized by section 1818 of this title to be paid from the appropriation "Capitol Buildings, Architect of the Capitol".
+On and after October 18, 1986, the Architect of the Capitol may incur expenses authorized bysection 1818 of this title to be paid from the appropriation "Capitol Buildings, Architect of the Capitol".
 
 (Pub. L. 99–500, §101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, §101(j), Oct. 30, 1986, 100 Stat. 3341–287, as amended Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425.)
 

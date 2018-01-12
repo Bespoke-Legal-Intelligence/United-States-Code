@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If, by reason of any provision of law, a State educational agency, local educational agency, educational service agency, consortium of those agencies, or other entity is prohibited from providing for the participation in programs of children enrolled in, or teachers or other educational personnel from, private elementary schools and secondary schools, on an equitablebasis, or if the Secretary determines that the agency, consortium, or entity has substantially failed or is unwilling to provide for that participation, as required by section 7881 of this title, the Secretary shall—
+If, by reason of any provision of law, a State educational agency, local educational agency, educational service agency, consortium of those agencies, or other entity is prohibited from providing for the participation in programs of children enrolled in, or teachers or other educational personnel from, private elementary schools and secondary schools, on an equitable basis, or if the Secretary determines that the agency, consortium, or entity has substantially failed or is unwilling to provide for that participation, as required by section 7881 of this title, the Secretary shall—
 
 &emsp;(1) waive the requirements of that section for the agency, consortium, or entity; and
 

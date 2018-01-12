@@ -42,7 +42,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;(D) the State involved submits to the Secretary—
 
-&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup>1</sup> is granted, at a level that is not less than—
+&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal yearexpenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup>1</sup> is granted, at a level that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
@@ -126,7 +126,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;The Secretary may not grant a waiver or extension under this subsection after September 30, 2012.
 
-(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410;amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
+(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
 
 #### Prior Provisions
 

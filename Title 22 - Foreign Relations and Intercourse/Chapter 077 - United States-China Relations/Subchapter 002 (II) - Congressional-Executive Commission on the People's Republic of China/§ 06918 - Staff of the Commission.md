@@ -6,7 +6,7 @@ The Commission shall have a personnel and administration committee composed of t
 
 #### (b) Committee functions
 
-All decisions pertaining to the hiring, firing, and fixing of pay of personnel of the Commission shall be by a majority vote of the personnel and administration committee, except that—
+All decisions pertaining to the hiring, firing, and fixing of pay of personnel of the Commissionshall be by a majority vote of the personnel and administration committee, except that—
 
 &emsp;(1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and the Cochairman shall be entitled to appoint and fix the pay of the Cochairman's senior staff member; and
 

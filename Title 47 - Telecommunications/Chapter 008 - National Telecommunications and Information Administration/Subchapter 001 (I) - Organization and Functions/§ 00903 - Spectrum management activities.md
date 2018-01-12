@@ -16,7 +16,7 @@ The amendments required by subsection (a) shall—
 
 &emsp;(4) include provisions that will require that nonclassified spectrum management information be made available to the public, including access to electronic databases; and
 
-&emsp;(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum bythe public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
+&emsp;(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum by the public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
 
 #### (c) Certification to Congress
 

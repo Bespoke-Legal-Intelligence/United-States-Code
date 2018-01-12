@@ -12,7 +12,7 @@
 
 &emsp;(4) The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
 
-&emsp;(5) In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by such participant, as a Department employee permanently assigned to a Department health-care facility.
+&emsp;(5) In the case of a participant who is a part-time student, the participant fails to maintainemployment, while enrolled in the course of training being pursued by such participant, as a Department employee permanently assigned to a Department health-care facility.
 
 > Liability under this subsection is in lieu of any service obligation arising under the participant's agreement.
 

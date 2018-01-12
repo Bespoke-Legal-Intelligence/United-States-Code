@@ -14,7 +14,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(2) contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenues from the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
 
-&emsp;(3) assess and specify the present and probable future condition of, and the maximumsustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;
+&emsp;(3) assess and specify the present and probable future condition of, and the maximum sustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;
 
 &emsp;(4) assess and specify—
 
@@ -320,7 +320,7 @@ Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3
 
 #### Existing Quota Plans
 
-Pub. L. 104–297, title I, §108(i), Oct. 11, 1996, 110 Stat. 3581, provided that: "Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of thistitle\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995."
+Pub. L. 104–297, title I, §108(i), Oct. 11, 1996, 110 Stat. 3581, provided that: "Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

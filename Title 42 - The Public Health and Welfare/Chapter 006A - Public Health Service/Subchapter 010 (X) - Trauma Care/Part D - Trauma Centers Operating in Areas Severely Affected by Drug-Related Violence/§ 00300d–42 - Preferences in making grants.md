@@ -50,5 +50,9 @@ In awarding grants under section 300d–41(a)(3) of this title, the Secretary sh
 
 <b>2010</b>—Pub. L. 111–148 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to preferences in making grants and preferences for certain applications.
 
+#### Effective Date
+
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

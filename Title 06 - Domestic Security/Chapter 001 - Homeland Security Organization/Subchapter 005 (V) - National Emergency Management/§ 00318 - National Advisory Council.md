@@ -12,7 +12,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (2) Consultation on grants
 
-&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidanceand the development and evaluation of risk-assessment methodologies, as appropriate.
+&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
 
 #### (c) Membership
 
@@ -62,7 +62,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (1) Establishment
 
-&emsp;Not later than 30 days after December 16, 2016, the Administrator shall establish, as a subcommittee of the National Advisory Council, the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee (referred to in this subsection as the "RESPONSE Subcommittee").
+&emsp;Not later than 30 days after December 16, 2016, the Administrator shall establish, as asubcommittee of the National Advisory Council, the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee (referred to in this subsection as the "RESPONSE Subcommittee").
 
 #### (2) Membership
 
@@ -94,7 +94,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal government officials.
 
-&emsp;&emsp;&emsp;(ii) Individuals who have the requisite technical knowledge and expertise to serveon the RESPONSE Subcommittee, including at least 1 representative from each of the following:
+&emsp;&emsp;&emsp;(ii) Individuals who have the requisite technical knowledge and expertise to serve on the RESPONSE Subcommittee, including at least 1 representative from each of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The rail industry.
 
@@ -182,7 +182,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (B) Review
 
-&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the NationalAdvisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
+&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the National Advisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
 
 #### (C) Recommendation
 

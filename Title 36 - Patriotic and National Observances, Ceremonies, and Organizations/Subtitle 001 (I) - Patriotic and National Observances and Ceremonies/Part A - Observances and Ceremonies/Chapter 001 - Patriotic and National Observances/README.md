@@ -58,6 +58,768 @@
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### 400 Years of African-American History Commission
+
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the '400 Years of African-American History Commission Act'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Commemoration.—The term 'commemoration' means the commemoration of the 400th anniversary of the arrival of Africans in the English colonies, at Point Comfort, Virginia, in 1619.
+
+&emsp;"(2)
+
+Commission.—The term 'Commission' means the 400 Years of African-American History Commission established by section 3(a).
+
+&emsp;"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
+
+#### "SEC. 3. ESTABLISHMENT.
+
+"(a)
+
+In General.—There is established a commission, to be known as the '400 Years of African-American History Commission'.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+Composition.—The Commission shall be composed of 15 members, of whom—
+
+&emsp;&emsp;"(A) three members shall be appointed by the Secretary after considering recommendations of Governors, including the Governor of Virginia;
+
+&emsp;&emsp;"(B) six members shall be appointed by the Secretary after considering recommendations of civil rights organizations and historical organizations;
+
+&emsp;&emsp;"(C) one member shall be an employee of the National Park Service having experience relative to the historical and cultural resources related to the commemoration, to be appointed by the Secretary;
+
+&emsp;&emsp;"(D) two members shall be appointed by the Secretary after considering the recommendations of the Secretary of the Smithsonian Institution; and
+
+&emsp;&emsp;"(E) three members shall be individuals who have an interest in, support for, and expertise appropriate to the commemoration, appointed by the Secretary after considering the recommendations of Members of Congress.
+
+&emsp;"(2)
+
+Time of appointment.—Each appointment of an initial member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act \[Jan. 8, 2018\].
+
+&emsp;"(3)
+
+Term; vacancies.—
+
+&emsp;&emsp;"(A)
+
+Term.—A member of the Commission shall be appointed for the life of the Commission.
+
+&emsp;&emsp;"(B)
+
+Vacancies.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Partial term.—A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
+
+&emsp;&emsp;"(C)
+
+Continuation of membership.—If a member of the Commission was appointed to the Commission as an employee of the National Park Service, and ceases to be an employee of the National Park Service, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to be an employee of the National Park Service.
+
+"(c)
+
+Duties.—The Commission shall—
+
+&emsp;"(1) plan, develop, and carry out programs and activities throughout the United States—
+
+&emsp;&emsp;"(A) appropriate for the commemoration;
+
+&emsp;&emsp;"(B) to recognize and highlight the resilience and contributions of African-Americans since 1619;
+
+&emsp;&emsp;"(C) to acknowledge the impact that slavery and laws that enforced racial discrimination had on the United States; and
+
+&emsp;&emsp;"(D) to educate the public about—
+
+&emsp;&emsp;&emsp;"(i) the arrival of Africans in the United States; and
+
+&emsp;&emsp;&emsp;"(ii) the contributions of African-Americans to the United States;
+
+&emsp;"(2) encourage civic, patriotic, historical, educational, artistic, religious, economic, and other organizations throughout the United States to organize and participate in anniversary activities to expand understanding and appreciation of—
+
+&emsp;&emsp;"(A) the significance of the arrival of Africans in the United States; and
+
+&emsp;&emsp;"(B) the contributions of African-Americans to the United States;
+
+&emsp;"(3) provide technical assistance to States, localities, and nonprofit organizations to further the commemoration;
+
+&emsp;"(4) coordinate and facilitate for the public scholarly research on, publication about, and interpretation of—
+
+&emsp;&emsp;"(A) the arrival of Africans in the United States; and
+
+&emsp;&emsp;"(B) the contributions of African-Americans to the United States;
+
+&emsp;"(5) ensure that the commemoration provides a lasting legacy and long-term public benefit by assisting in the development of appropriate programs; and
+
+&emsp;"(6) help ensure that the observances of the commemoration are inclusive and appropriately recognize the experiences and heritage of all individuals present at the arrival of Africans in the United States.
+
+#### "SEC. 4. COMMISSION MEETINGS.
+
+"(a)
+
+Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
+
+"(b)
+
+Meetings.—The Commission shall meet—
+
+&emsp;"(1) at least three times each year; or
+
+&emsp;"(2) at the call of the Chairperson or the majority of the members of the Commission.
+
+"(c)
+
+Quorum.—A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings.
+
+"(d)
+
+Chairperson and Vice Chairperson.—
+
+&emsp;"(1)
+
+Election.—The Commission shall elect the Chairperson and the Vice Chairperson of the Commission on an annual basis.
+
+&emsp;"(2)
+
+Absence of the chairperson.—The Vice Chairperson shall serve as the Chairperson in the absence of the Chairperson.
+
+"(e)
+
+Voting.—The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
+
+#### "SEC. 5. COMMISSION POWERS.
+
+"(a)
+
+Gifts.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for aiding or facilitating the work of the Commission.
+
+"(b)
+
+Appointment of Advisory Committees.—The Commission may appoint such advisory committees as the Commission determines to be necessary to carry out this Act.
+
+"(c)
+
+Authorization of Action.—The Commission may authorize any member or employee of the Commission to take any action that the Commission is authorized to take under this Act.
+
+"(d)
+
+Procurement.—
+
+&emsp;"(1)
+
+In general.—The Commission may procure supplies, services, and property, and make or enter into contracts, leases, or other legal agreements, to carry out this Act (except that a contract, lease, or other legal agreement made or entered into by the Commission shall not extend beyond the date of termination of the Commission).
+
+&emsp;"(2)
+
+Limitation.—The Commission may not purchase real property.
+
+"(e)
+
+Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as other agencies of the Federal Government.
+
+"(f)
+
+Grants and Technical Assistance.—The Commission may—
+
+&emsp;"(1) provide grants in amounts not to exceed $20,000 per grant to communities and nonprofit organizations for use in developing programs to assist in the commemoration;
+
+&emsp;"(2) provide grants to research and scholarly organizations to research, publish, or distribute information relating to the arrival of Africans in the United States; and
+
+&emsp;"(3) provide technical assistance to States, localities, and nonprofit organizations to further the commemoration.
+
+#### "SEC. 6. COMMISSION PERSONNEL MATTERS.
+
+"(a)
+
+Compensation of Members.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), a member of the Commission shall serve without compensation.
+
+&emsp;"(2)
+
+Federal employees.—A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation other than the compensation received for the services of the member as an officer or employee of the Federal Government.
+
+"(b)
+
+Travel Expenses.—A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+
+"(c)
+
+Director and Staff.—
+
+&emsp;"(1)
+
+In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), nominate an executive director to enable the Commission to perform the duties of the Commission.
+
+&emsp;"(2)
+
+Confirmation of executive director.—The employment of an executive director shall be subject to confirmation by the Commission.
+
+"(d)
+
+Compensation.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+
+&emsp;"(2)
+
+Maximum rate of pay.—The rate of pay for the executive director and other personnel shall not exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+"(e)
+
+Detail of Government Employees.—
+
+&emsp;"(1)
+
+Federal employees.—
+
+&emsp;&emsp;"(A)
+
+Detail.—At the request of the Commission, the head of any Federal agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of the agency to the Commission to assist the Commission in carrying out the duties of the Commission under this Act.
+
+&emsp;&emsp;"(B)
+
+Civil service status.—The detail of an employee under subparagraph (A) shall be without interruption or loss of civil service status or privilege.
+
+&emsp;"(2)
+
+State employees.—The Commission may—
+
+&emsp;&emsp;"(A) accept the services of personnel detailed from the State; and
+
+&emsp;&emsp;"(B) reimburse the State for services of detailed personnel.
+
+"(f)
+
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+"(g)
+
+Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
+
+"(h)
+
+Support Services.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall provide to the Commission, on a reimbursable basis, such administrative support services as the Commission may request.
+
+&emsp;"(2)
+
+Reimbursement.—Any reimbursement under this paragraph shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
+
+"(i)
+
+No Effect on Authority.—Nothing in this section supersedes the authority of the National Park Service with respect to the commemoration.
+
+#### "SEC. 7. PLANS; REPORTS.
+
+"(a)
+
+Strategic Plan.—The Commission shall prepare a strategic plan for the activities of the Commission carried out under this Act.
+
+"(b)
+
+Final Report.—Not later than July 1, 2020, the Commission shall complete and submit to Congress a final report that contains—
+
+&emsp;"(1) a summary of the activities of the Commission;
+
+&emsp;"(2) a final accounting of funds received and expended by the Commission; and
+
+&emsp;"(3) the findings and recommendations of the Commission.
+
+#### "SEC. 8. TERMINATION OF COMMISSION.
+
+"(a)
+
+Date of Termination.—The Commission shall terminate on July 1, 2020.
+
+"(b)
+
+Transfer of Documents and Materials.—Before the date of termination specified in subsection (a), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.
+
+#### "SEC. 9. EXPENDITURES OF COMMISSION.
+
+"All expenditures of the Commission shall be made solely from donated funds."
+
+#### Frederick Douglass Bicentennial Commission
+
+Pub. L. 115–77, Nov. 2, 2017, 131 Stat. 1251, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Frederick Douglass Bicentennial Commission Act'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress makes the following findings:
+
+&emsp;"(1) Born into slavery on the Eastern Shore of Maryland in 1818 and given the name Frederick Augustus Washington Bailey after his mother Harriet Bailey, Frederick Douglass has been called the father of the civil rights movement.
+
+&emsp;"(2) Douglass rose through determination, brilliance, and eloquence to shape the American Nation. He was an abolitionist, human rights and women's rights activist, orator, author, journalist, publisher, and social reformer.
+
+&emsp;"(3) Taught basic reading skills by his mistress until she was forced to stop, Douglass continued to teach himself to read and write and taught other slaves to read despite risks including death.
+
+&emsp;"(4) During the course of his remarkable life Frederick Douglass escaped from slavery, became internationally renowned for his eloquence in the cause of liberty, and went on to serve the national government in several official capacities.
+
+&emsp;"(5) Forced to leave the country to avoid arrest as an escaped slave, he returned to become a staunch advocate of the Union cause and helped recruit African-American troops for the Union Army, including two of his sons, Charles and Lewis Douglass. His personal relationship with Abraham Lincoln helped persuade the President to make emancipation a cause of the Civil War.
+
+&emsp;"(6) With the abolition of slavery at the close of the Civil War, Douglass then turned his attention to the full integration of African-Americans into the political and economic life of the United States. Committed to freedom, Douglass dedicated his life to achieving justice for all Americans, in particular African-Americans, women, and minority groups. He envisioned America as an inclusive Nation strengthened by diversity and free of discrimination.
+
+&emsp;"(7) Douglass served as an advisor to Presidents. Abraham Lincoln referred to him as the most meritorious man of the nineteenth century. Douglass was appointed to several offices. He served as the United States Marshal of the District of Columbia under Rutherford B. Hayes' administration; President James Garfield appointed Douglass the District of Columbia Recorder of Deeds. In 1889, President Benjamin Harrison appointed Frederick Douglass to be the United States minister to Haiti. He was also appointed by President Grant to serve as Assistant Secretary of the Commission of Inquiry to Santo Domingo.
+
+&emsp;"(8) Douglass lived in the District of Columbia for 23 of his 57 years as a free man, and in recognition of his leadership and continuous fight for justice and freedom, his home, Cedar Hill, was established as a National Historic Site in Anacostia, in Southeast Washington, DC.
+
+&emsp;"(9) The statue of Frederick Douglass in the United States Capitol is a gift from the almost 700,000 residents of the District of Columbia.
+
+&emsp;"(10) All Americans could benefit from studying the life of Frederick Douglass, for Douglass dedicated his own life to ensuring freedom and equality for future generations of Americans. This Nation should ensure that his tireless struggle, transformative words, and inclusive vision of humanity continue to inspire and sustain us.
+
+&emsp;"(11) The year 2018 marks the bicentennial anniversary of the birth of Frederick Douglass, and a commission should be established to plan, develop, and carry out, and to recommend to Congress, programs and activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Frederick Douglass.
+
+#### "SEC. 3. ESTABLISHMENT.
+
+"There is established a commission to be known as the Frederick Douglass Bicentennial Commission (referred to in this Act as the 'Commission').
+
+#### "SEC. 4. DUTIES.
+
+"The Commission shall have the following duties:
+
+&emsp;"(1) To plan, develop, and carry out programs and activities that are fitting and proper to honor Frederick Douglass on the occasion of the bicentennial anniversary of Douglass' birth.
+
+&emsp;"(2) To recommend to Congress programs and activities that the Commission considers fitting and proper to honor Frederick Douglass on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such programs and activities.
+
+#### "SEC. 5. MEMBERSHIP.
+
+"(a)
+
+Number and Appointment.—The Commission shall be composed of 16 members appointed as follows:
+
+&emsp;"(1) Two members, each of whom shall be a qualified citizen described in subsection (b), appointed by the President.
+
+&emsp;"(2) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Maryland.
+
+&emsp;"(3) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Massachusetts.
+
+&emsp;"(4) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of New York.
+
+&emsp;"(5) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Mayor of the District of Columbia.
+
+&emsp;"(6) Three members, at least one of whom shall be a Member of the House of Representatives, appointed by the Speaker of the House of Representatives.
+
+&emsp;"(7) Three members, at least one of whom shall be a Senator, appointed by the majority leader of the Senate.
+
+&emsp;"(8) Two members, at least one of whom shall be a Member of the House of Representatives, appointed by the minority leader of the House of Representatives.
+
+&emsp;"(9) Two members, at least one of whom shall be a Senator, appointed by the minority leader of the Senate.
+
+"(b)
+
+Qualified Citizen.—A qualified citizen described in this subsection is a private citizen of the United States with—
+
+&emsp;"(1) a demonstrated dedication to educating others about the importance of historical figures and events; and
+
+&emsp;"(2) substantial knowledge and appreciation of Frederick Douglass.
+
+"(c)
+
+Time of Appointment.—Each initial appointment of a member of the Commission shall be made before the expiration of the 60-day period beginning on the date of the enactment of this Act \[Nov. 2, 2017\].
+
+"(d)
+
+Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+
+"(e)
+
+Terms.—Each member shall be appointed for the life of the Commission.
+
+"(f)
+
+Vacancies.—A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
+
+"(g)
+
+Basic Pay.—Members shall serve on the Commission without pay.
+
+"(h)
+
+Travel Expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+"(i)
+
+Quorum.—Six members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+
+"(j)
+
+Chair.—The Commission shall select a Chair from among the members of the Commission.
+
+"(k)
+
+Meetings.—The Commission shall meet at the call of the Chair. Periodically, the Commission shall hold a meeting in Rochester, New York.
+
+#### "SEC. 6. DIRECTOR AND STAFF.
+
+"(a)
+
+Director.—The Commission may appoint and fix the pay of a Director and such additional personnel as the Commission considers to be appropriate.
+
+"(b)
+
+Applicability of Certain Civil Service Laws.—
+
+&emsp;"(1)
+
+Director.—The Director of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+&emsp;"(2)
+
+Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+#### "SEC. 7. POWERS.
+
+"(a)
+
+Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
+
+"(b)
+
+Powers of Members and Agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this Act.
+
+"(c)
+
+Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+"(d)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+"(e)
+
+Administrative Support Services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
+
+"(f)
+
+Gifts.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for the purpose of carrying out its duties.
+
+"(g)
+
+Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+#### "SEC. 8. REPORTS.
+
+"(a)
+
+Initial Report.—Not later than August 1, 2018, the Commission shall submit to Congress an initial report containing its recommendations under section 4(2).
+
+"(b)
+
+Final Report.—Not later than June 1, 2019, the Commission shall submit a final report to Congress, and shall include in the final report—
+
+&emsp;"(1) a summary of its activities and programs;
+
+&emsp;"(2) a final accounting of the funds the Commission received and expended; and
+
+&emsp;"(3) any other information that the Commission considers to be appropriate.
+
+#### "SEC. 9. TERMINATION.
+
+"The Commission shall terminate 30 days after submitting the final report pursuant to section 8(b).
+
+#### "SEC. 10. NO ADDITIONAL FUNDS AUTHORIZED.
+
+"No Federal funds are authorized or may be obligated to carry out this Act."
+
+#### Women's Suffrage Centennial Commission
+
+S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(3), May 5, 2017, 131 Stat. 502, provided that:
+
+#### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+"(a)
+
+Short Title.—This Act may be cited as the 'Women's Suffrage Centennial Commission Act'.
+
+"(b)
+
+Table of Contents.—\[Omitted.\]
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) From 1919 to 1920, the Sixty-Sixth United States Congress debated, and State legislatures considered, an amendment to the Constitution of the United States to provide suffrage for women.
+
+&emsp;"(2) A proposed women's suffrage amendment was first introduced in the United States Senate in 1878 and was brought to a vote, unsuccessfully, in 1887, 1914, 1918, and 1919. Finally, on May 21, 1919, the House of Representatives approved a proposed amendment, followed by the Senate a few weeks later on June 4. Within days, the legislatures of Wisconsin, Illinois, and Michigan had voted to ratify the amendment.
+
+&emsp;"(3) On August 18, 1920, Tennessee became the 36th State to ratify the amendment, providing the support of three-fourths of States necessary under article V of the Constitution of the United States.
+
+&emsp;"(4) The introduction, passage, and ultimate ratification of the 19th Amendment to the Constitution of the United States were the culmination of decades of work and struggle by advocates for the rights of women across the United States and worldwide.
+
+&emsp;"(5) Ratification of the 19th Amendment ensured women could more fully participate in their democracy and fundamentally changed the role of women in the civic life of our Nation.
+
+&emsp;"(6) The centennial offers an opportunity for people in the United States to learn about and commemorate the efforts of the women's suffrage movement and the role of women in our democracy.
+
+&emsp;"(7) Commemorative programs, activities, and sites allow people in the United States to learn about the women's suffrage movement and to commemorate and honor the role of the ratification of the 19th Amendment in further fulfilling the promise of the Constitution of the United States and promoting the core values of our democracy.
+
+#### "SEC. 3. ESTABLISHMENT OF WOMEN'S SUFFRAGE CENTENNIAL COMMISSION.
+
+"(a)
+
+Establishment.—There is established a commission to be known as the 'Women's Suffrage Centennial Commission' (referred to in this Act as the 'Centennial Commission').
+
+"(b)
+
+Membership.—
+
+&emsp;"(1) The Centennial Commission shall be composed of 14 members, of whom—
+
+&emsp;&emsp;"(A) 2 shall be appointed by the President;
+
+&emsp;&emsp;"(B) 2 shall be appointed by the Speaker of the House of Representatives;
+
+&emsp;&emsp;"(C) 2 shall be appointed by the minority leader of the House of Representatives;
+
+&emsp;&emsp;"(D) 2 shall be appointed by the majority leader of the Senate;
+
+&emsp;&emsp;"(E) 2 shall be appointed by the minority leader of the Senate;
+
+&emsp;&emsp;"(F) 1 shall be the Librarian of Congress, or the designee of the Librarian;
+
+&emsp;&emsp;"(G) 1 shall be the Archivist of the United States, or the designee of the Archivist;
+
+&emsp;&emsp;"(H) 1 shall be the Secretary of the Smithsonian Institution, or the designee of the Secretary; and
+
+&emsp;&emsp;"(I) 1 shall be the Director of the National Park Service, or the designee of the Director.
+
+&emsp;"(2)
+
+Persons eligible.—
+
+&emsp;&emsp;"(A)
+
+In general.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The members may be from the public or private sector, and may include Federal, State, or local employees, former Members of Congress, members of academia, nonprofit organizations, or industry, or other interested individuals.
+
+&emsp;&emsp;"(B)
+
+Diversity.—It is the intent of Congress that persons appointed to the Commission under paragraph (1) be persons who represent diverse economic, professional, and cultural backgrounds.
+
+&emsp;"(3)
+
+Consultation and appointment.—
+
+&emsp;&emsp;"(A)
+
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+
+&emsp;&emsp;"(B)
+
+Completion of appointments; vacancies.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall conduct the consultation under subparagraph (A) and make their respective appointments not later than 60 days after the date of enactment of this Act \[May 5, 2017\].
+
+&emsp;"(4)
+
+Vacancies.—A vacancy in the membership of the Commission shall not affect the powers of the Commission and shall be filled in the same manner as the original appointment not later than 30 days after the vacancy occurs.
+
+"(c)
+
+Meetings.—
+
+&emsp;"(1)
+
+Initial meeting.—Not later than 30 days after the date on which all members of the Centennial Commission have been appointed, the Centennial Commission shall hold its first meeting.
+
+&emsp;"(2)
+
+Subsequent meetings.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Centennial Commission shall meet at the call of the Chair.
+
+&emsp;&emsp;"(B)
+
+Frequency.—The Chair shall call a meeting of the members of the Centennial Commission not less frequently than once every 6 months.
+
+&emsp;"(3)
+
+Quorum.—Seven members of the Centennial Commission shall constitute a quorum, but a lesser number may hold hearings.
+
+&emsp;"(4)
+
+Chair and vice chair.—The Centennial Commission shall select a Chair and Vice Chair from among its members.
+
+#### "SEC. 4. DUTIES OF CENTENNIAL COMMISSION.
+
+"(a)
+
+In General.—The duties of the Centennial Commission are as follows:
+
+&emsp;"(1) To encourage, plan, develop, and execute programs, projects, and activities to commemorate the centennial of the passage and ratification of the 19th Amendment.
+
+&emsp;"(2) To encourage private organizations and State and local governments to organize and participate in activities commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+&emsp;"(3) To facilitate and coordinate activities throughout the United States relating to the centennial of the passage and ratification of the 19th Amendment.
+
+&emsp;"(4) To serve as a clearinghouse for the collection and dissemination of information about events and plans for the centennial of the passage and ratification of the 19th Amendment.
+
+&emsp;"(5) To develop recommendations for Congress and the President for commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+"(b)
+
+Consultation.—In conducting its work, the Centennial Commission shall consult the Historian of the Senate and the Historian of the House of Representatives when appropriate.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Periodic report.—Not later than the last day of the 6-month period beginning on the date of the enactment of this Act \[May 5, 2017\], and not later than the last day of each 3-month period thereafter, the Centennial Commission shall submit to Congress and the President a report on the activities and plans of the Centennial Commission.
+
+&emsp;"(2)
+
+Recommendations.—Not later than 2 years after the date of the enactment of this Act, the Centennial Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of the passage and ratification of the 19th Amendment and coordinating related activities.
+
+#### "SEC. 5. POWERS OF CENTENNIAL COMMISSION.
+
+"(a)
+
+Hearings.—The Centennial Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Centennial Commission considers appropriate to carry out its duties under this Act.
+
+"(b)
+
+Powers of Member and Agents.—If authorized by the Centennial Commission, any member or agent of the Centennial Commission may take any action which the Centennial Commission is authorized to take under this Act.
+
+"(c)
+
+Information From Federal Agencies.—The Centennial Commission shall secure directly from any Federal department or agency such information as the Centennial Commission considers necessary to carry out the provisions of this Act. Upon the request of the Chair of the Centennial Commission, the head of such department or agency shall furnish such information to the Centennial Commission.
+
+"(d)
+
+Administrative Support Services.—Upon the request of the Centennial Commission, the Administrator of the General Services Administration shall provide to the Centennial Commission, on a reimbursable basis, the administrative support services necessary for the Centennial Commission to carry out its responsibilities under this Act.
+
+"(e)
+
+Contract Authority.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Centennial Commission is authorized—
+
+&emsp;&emsp;"(A) to procure supplies, services, and property; and
+
+&emsp;&emsp;"(B) to make or enter into contracts, leases, or other legal agreements.
+
+&emsp;"(2)
+
+Limitation.—The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 7(a).
+
+"(f)
+
+Postal Services.—The Centennial Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+"(g)
+
+Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+
+"(h)
+
+Grants.—The Centennial Commission is authorized to award grants to States and the District of Columbia to support programs and activities related to commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+#### "SEC. 6. CENTENNIAL COMMISSION PERSONNEL MATTERS.
+
+"(a)
+
+Compensation of Members.—Members of the Centennial Commission shall serve without compensation for such service.
+
+"(b)
+
+Travel Expenses.—Each member of the Centennial Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions of title 5, United States Code.
+
+"(c)
+
+Staff.—
+
+&emsp;"(1)
+
+In general.—The Chair of the Centennial Commission shall, in consultation with the members of the Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
+
+&emsp;"(2)
+
+Compensation.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+"(d)
+
+Detail of Government Employees.—Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
+
+"(e)
+
+Procurement of Temporary and Intermittent Services.—The Chair of the Centennial Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+"(f)
+
+Acceptance of Voluntary Services.—Notwithstanding section 1342 of title 31, United States Code, the Centennial Commission may accept and use voluntary and uncompensated services as the Centennial Commission deems necessary.
+
+#### "SEC. 7. TERMINATION OF CENTENNIAL COMMISSION.
+
+"(a)
+
+In General.—The Centennial Commission shall terminate on the earlier of—
+
+&emsp;"(1) the date that is 30 days after the date \[of\] the completion of the activities under this Act honoring the centennial observation of the passage and ratification of the 19th Amendment; or
+
+&emsp;"(2) April 15, 2021.
+
+"(b)
+
+Application of Federal Advisory Committee Act.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory CommitteeAct (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+
+&emsp;"(2)
+
+Exception.—Section 14(a)(2) of such Act (5 U.S.C. App.) shall not apply to the Centennial Commission.
+
+#### "SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+"(a)
+
+In General.—There are authorized to be appropriated to carry out this Act such sums as may be necessary for the period of fiscal years 2017 through 2021.
+
+"(b)
+
+Amounts Available.—Amounts appropriated in accordance with this section for any fiscal year shall remain available until the termination of the Centennial Commission."
+
 #### Program To Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier
 
 Pub. L. 114–328, div. A, title X, §1093, Dec. 23, 2016, 130 Stat. 2436, provided that:
@@ -172,7 +934,7 @@ Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
 
 "The Commission shall—
 
-&emsp;"(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
+&emsp;"(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honorJohn F. Kennedy on the occasion of the 100th anniversary of his birth;
 
 &emsp;"(2) provide advice and assistance to Federal, State, and local governmental agencies, as well as civic groups to carry out activities to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
 
@@ -308,7 +1070,7 @@ Final Report.—Not later than August 31, 2017, the Commission shall submit a fi
 
 #### "SEC. 9. ANNUAL AUDIT.
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of theHouse of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
 
@@ -334,7 +1096,7 @@ Findings.—Congress finds that July 4, 2026, the 250th anniversary of the found
 
 "(b)
 
-Purpose.—The purpose of this Act is to establish a Commission to provide for the observance and commemoration of the 250th anniversary of the founding of the United States and related events through local, State, national, and international activities planned, encouraged, developed, and coordinated by a nationalcommission representative of appropriate public and private authorities and organizations.
+Purpose.—The purpose of this Act is to establish a Commission to provide for the observance and commemoration of the 250th anniversary of the founding of the United States and related events through local, State, national, and international activities planned, encouraged, developed, and coordinated by a national commission representative of appropriate public and private authorities and organizations.
 
 #### "SEC. 3. DEFINITIONS.
 
@@ -510,7 +1272,7 @@ Recommended activities.—The report may include recommended activities such as�
 
 &emsp;&emsp;&emsp;"(iii) the implications of the Semiquincentennial for present and future generations; and
 
-&emsp;&emsp;"(F) encouraging Federal agencies to integrate the celebration of the Semiquincentennial into theregular activities and execution of the purpose of the agencies through such activities as the issuance of coins, medals, certificates of recognition, stamps, and the naming of vessels.
+&emsp;&emsp;"(F) encouraging Federal agencies to integrate the celebration of the Semiquincentennial into the regular activities and execution of the purpose of the agencies through such activities as the issuance of coins, medals, certificates of recognition, stamps, and the naming of vessels.
 
 &emsp;"(3)
 
@@ -774,7 +1536,7 @@ Designation of liberty memorial.—The Liberty Memorial of Kansas City at Americ
 
 &emsp;"(2)
 
-Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
+Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremoniesto recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
 
 "(b)
 
@@ -1072,7 +1834,7 @@ In general.—Except as provided in paragraph (2), the Centennial Commission is 
 
 &emsp;"(2)
 
-Limitation.—The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
+Limitation.—The Centennial Commission may not enter into any contract, lease, or other legalagreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
 
 "(f)
 
@@ -1240,7 +2002,7 @@ Director and Staff.—The Commission shall appoint an executive director and suc
 
 "(b)
 
-Applicability of Certain Civil Service Laws.—The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter IIIof chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Applicability of Certain Civil Service Laws.—The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 "(c)
 
@@ -1400,31 +2162,33 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9452. Armed Forces Day
+#### Proc. No. 9615. Armed Forces Day
 
-Proc. No. 9452, May 20, 2016, 81 F.R. 33327, provided:
+Proc. No. 9615, May 19, 2017, 82 F.R. 23995, provided:
 
-The Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who comprise our Armed Forces have defended our Nation and the values for which we stand for generations, answering the call to give up the comforts of civilian life, do whatever it takes to keep us safe, and go wherever they are needed. On Armed Forces Day, we offer our most profound gratitude to the patriots—at home and abroad—who have risked their lives so our people can live knowing the fullest measure of freedom and security.
+For almost 70 years, our Nation has set aside one day to recognize the great debt we owe to the men and women who serve in the Army, Navy, Air Force, Marine Corps, and Coast Guard. On Armed Forces Day, we salute the bravery of those who defend our Nation's peace and security. Their service defends for Americans the freedom that all people deserve.
 
-With courage and honor, our men and women in uniform embody the everlasting responsibility we have to each other and to future generations by giving of themselves to ensure the preservation of our Republic and secure peace throughout the world. It is because of them and the values they represent that people across the globe look to the United States of America in moments of desperation and despair. For the relief they offer, the stability they provide, and the hope they inspire, we owe our service members an extraordinary debt—one we will never stop working to repay.
+This year, we also reflect on the 100th anniversary of our Nation's entry into World War I. More than 4.7 million Americans would ultimately serve in the United States Armed Forces during that terrible conflict. Their sacrifice has not been forgotten. One hundred years later, we face different threats and challenges. But our safety and security, and the defense of our way of life, rest in the same able hands of our Armed Forces.
 
-Our country's strength is measured by how we support and take care of our troops. Humbled by the sacrifices they make—and by the strength of their families—we stand in support of those who don our uniform and strive to ensure they have every opportunity to pursue the American dream they defend. They give their best for America, and they deserve the best from us. On this day, let us salute these brave Americans and all those who laid down their lives for our safety, and each day, let us remember that we live knowing liberty because of our Armed Forces.
+Because our Armed Forces must constantly adapt to new threats, our Nation is committed to ensuring they have the tools and resources they need as they train, deploy, and fight in defense of our country and defending our values. This is why my budget calls for a $54 billion increase in national defense spending.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+Today, we salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen for their dedication as they carry out the extraordinary duty of protecting our country. We also pay tribute to the families who serve alongside them, lending their steadfast love and support.
 
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commanderin Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-I invite the Governors of the United States and its Territories, and appropriate officials of all units of government, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
+I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
 
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
+Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9283 of May 15, 2015, is hereby superseded.
+Proclamation 9452 of May 20, 2016, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and fortieth.
+IN WITNESS WHEREOF, I have hereunto set my hand this nineteenth day of May, in the year of our Lord two thousand seventeen, and of the Independence of the United States of America the two hundred and forty-first.
 
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9452, May 20, 2016, 81 F.R. 33327, superseded by Proc. No. 9615, May 19, 2017, 82 F.R. 23995.
 
 Proc. No. 9283, May 15, 2015, 80 F.R. 29199, superseded by Proc. No. 9452, May 20, 2016, 81 F.R. 33327.
 

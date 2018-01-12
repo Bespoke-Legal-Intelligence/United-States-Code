@@ -20,7 +20,7 @@ Activities under subsection (a) may include—
 
 &emsp;&emsp;&emsp;(ii) information relating to traumatic brain injury and the sequelae of secondary conditions arising from traumatic brain injury upon discharge from hospitals and emergency departments; and
 
-&emsp;&emsp;(B) the provision of information in primary care settings, including emergency rooms and trauma centers, concerning theavailability of State level services and resources.
+&emsp;&emsp;(B) the provision of information in primary care settings, including emergency rooms and trauma centers, concerning the availability of State level services and resources.
 
 #### (c) Coordination of activities
 

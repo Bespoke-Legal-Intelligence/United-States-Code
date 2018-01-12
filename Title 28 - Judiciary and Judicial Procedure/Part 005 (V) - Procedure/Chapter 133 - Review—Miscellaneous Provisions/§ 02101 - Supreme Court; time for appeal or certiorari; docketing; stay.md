@@ -1,6 +1,6 @@
 ### §2101. Supreme Court; time for appeal or certiorari; docketing; stay
 
-(a) A direct appeal to the Supreme Court from any decision under section 1253 of this title, holding unconstitutional in whole or in part, any Act of Congress, shall be taken within thirty days after the entry of the interlocutory or final order, judgment or decree. The record shall be made up and the case docketed within sixty days from the time such appeal is taken under rules prescribed by the Supreme Court.
+(a) A direct appeal to the Supreme Court from any decision under section 1253 of this title,holding unconstitutional in whole or in part, any Act of Congress, shall be taken within thirty days after the entry of the interlocutory or final order, judgment or decree. The record shall be made up and the case docketed within sixty days from the time such appeal is taken under rules prescribed by the Supreme Court.
 
 (b) Any other direct appeal to the Supreme Court which is authorized by law, from a decision of a district court in any civil action, suit or proceeding, shall be taken within thirty days from the judgment, order or decree, appealed from, if interlocutory, and within sixty days if final.
 

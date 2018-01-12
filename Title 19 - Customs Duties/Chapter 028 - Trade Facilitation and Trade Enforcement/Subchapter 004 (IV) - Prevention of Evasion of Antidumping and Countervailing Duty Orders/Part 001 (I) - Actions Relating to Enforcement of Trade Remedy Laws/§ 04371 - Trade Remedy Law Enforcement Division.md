@@ -64,7 +64,7 @@ In carrying out its duties with respect to preventing and countering evasion, th
 
 &emsp;&emsp;(B) for issuing, as appropriate, Trade Alerts described in subsection (d); and
 
-&emsp;(2) to the extent practicable and otherwise authorized by law, use information available from the Automated Commercial System, the Automated Commercial Environment, theAutomated Targeting System, the Automated Export System, the International Trade Data System established under section 1411(d) of this title, and the TECS (formerly known as the "Treasury Enforcement Communications System"), and any similar and successor systems, to administer the methodologies and standards established under paragraph (1).
+&emsp;(2) to the extent practicable and otherwise authorized by law, use information available from the Automated Commercial System, the Automated Commercial Environment, the Automated Targeting System, the Automated Export System, the International Trade Data System established under section 1411(d) of this title, and the TECS (formerly known as the "Treasury Enforcement Communications System"), and any similar and successor systems, to administer the methodologies and standards established under paragraph (1).
 
 #### (d) Trade Alerts
 

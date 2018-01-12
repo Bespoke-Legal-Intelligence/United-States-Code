@@ -46,7 +46,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (B) Spouse may join in election
 
-&emsp;&emsp;In the case of a married individual (within the meaning of section 7703), the spouse may elect to have the debtor's election under subparagraph (A) also apply to the spouse, but only if the debtor and the spouse file a joint return for the taxable year referred to in subparagraph (A)(i).
+&emsp;&emsp;In the case of a married individual (within the meaning of section 7703), the spouse may elect to have the debtor's election under subparagraph (A) also apply to the spouse, but only if the debtor and the spouse file ajoint return for the taxable year referred to in subparagraph (A)(i).
 
 #### (C) No election where debtor has no assets
 
@@ -116,7 +116,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (4) Credit carryovers, etc.
 
-&emsp;The carryovers of any credit, and all other items which, but for the commencement of thecase, would be required to be taken into account by the debtor with respect to any credit.
+&emsp;The carryovers of any credit, and all other items which, but for the commencement of the case, would be required to be taken into account by the debtor with respect to any credit.
 
 #### (5) Capital loss carryovers
 
@@ -200,7 +200,7 @@ Part IV of subchapter A, referred to in subsec. (j)(2)(C)(i), probably means par
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §104(b)(14)(A), substituted "basic standard deduction" for "zero bracket amount" in heading.
 
-Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting "Basic standard deduction" for "Amount of zero bracket amount" in heading and substituting "In the case of an estate which doesnot itemize deductions, the basic standard deduction for the estate" for "The amount of the estate's zero bracket amount" in text.
+Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting "Basic standard deduction" for "Amount of zero bracket amount" in heading and substituting "In the case of an estate which does not itemize deductions, the basic standard deduction for the estate" for "The amount of the estate's zero bracket amount" in text.
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1301(j)(8), substituted "section 7703" for "section 143".
 
@@ -220,5 +220,5 @@ Subchapter applicable to bankruptcy cases commencing more than 90 days after Dec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

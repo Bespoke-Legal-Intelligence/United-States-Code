@@ -68,7 +68,7 @@ Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
 <b>1998</b>—Pub. L. 105–368 substituted "under the control of the National Cemetery Administration" for "in the National Cemetery System" in introductory provisions.
 
-<b>1996</b>—Par. (5). Pub. L. 104–275 inserted "(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)" after "minor child".
+<b>1996</b>—Par. (5). Pub. L. 104–275 inserted "(which for purposes of this chapter includes a child under 21 yearsof age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)" after "minor child".
 
 <b>1994</b>—Par. (5). Pub. L. 103–446 inserted "spouse," after "The" and "(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)" after "surviving spouse".
 

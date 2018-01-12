@@ -34,7 +34,7 @@
 
 (f) At least annually, and as determined by the Administrator, after making adequate provision for expense of refunds to carriers, transportation audit postpayment contracts, contract administration, and other expenses authorized in subsection (e), overpayments collected by the General Services Administration shall be transferred to miscellaneous receipts of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress. This reporting requirement expires December 31, 1998.
 
-(g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
+(g) The Administrator may delegate any authority conferred by this section to anotheragency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
 (h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 

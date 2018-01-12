@@ -28,7 +28,7 @@
 
 &emsp;(D) an amount to cover a pro rata share of the cost of expense of such central administrative agency.
 
-(3)(A) Any amounts paid by the Secretary to such central administrative agency to cover the cost of hospitalization, medical care, or life insurance or other employee benefits shall be in lieu of any benefits of like nature to which such intern or resident may be entitled under the provisions of title 5, and the acceptance of stipends and employee benefits from the designated central administrative agency shall constitute a waiver by the recipient of any claim such recipient might have to any payment of stipends or employee benefits to which such recipient may be entitled under this title or title 5.
+(3)(A) Any amounts paid by the Secretary to such central administrative agency to cover the cost of hospitalization, medical care, or life insurance or other employee benefits shall be in lieu of any benefits of like nature to which such intern or resident may be entitled under theprovisions of title 5, and the acceptance of stipends and employee benefits from the designated central administrative agency shall constitute a waiver by the recipient of any claim such recipient might have to any payment of stipends or employee benefits to which such recipient may be entitled under this title or title 5.
 
 (B) Notwithstanding subparagraph (A), any period of service of any such intern or resident in a Department facility furnishing hospital care or medical services shall be deemed creditable service for the purposes of section 8332 of title 5.
 

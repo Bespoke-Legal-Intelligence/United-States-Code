@@ -31,3 +31,6 @@
 - [&sect; 05938 - Repealed. Pub. L. 113&#8211;79, title VII, &sect;7518, Feb. 7, 2014, 128 Stat. 904](%C2%A7%2005938%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77518%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20904.md)
 - [&sect; 05939 - Foundation for Food and Agriculture Research](%C2%A7%2005939%20-%20Foundation%20for%20Food%20and%20Agriculture%20Research.md)
 - [&sect; 05940 - Legitimacy of industrial hemp research](%C2%A7%2005940%20-%20Legitimacy%20of%20industrial%20hemp%20research.md)
+- [&sect; 05941 - Purchase of cultures for soil and fertilizer investigations](%C2%A7%2005941%20-%20Purchase%20of%20cultures%20for%20soil%20and%20fertilizer%20investigations.md)
+- [&sect; 05942 - Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies&#8230;](%C2%A7%2005942%20-%20Wheat%20and%20feed%20grains%20research%3B%20regional%20and%20national%20research%20programs%3B%20utilization%20of%20services%20of%20Federal%2C%20State%20and%20private%20agencies%E2%80%A6.md)
+- [&sect; 05943 - Rice research](%C2%A7%2005943%20-%20Rice%20research.md)

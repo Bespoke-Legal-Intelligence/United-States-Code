@@ -70,7 +70,7 @@
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title\(other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods,and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -132,11 +132,11 @@
 
 #### (C) Exceptional circumstances
 
-&emsp;&emsp;In the case of part D eligible individuals who meet such exceptional conditions (in addition to those conditions applied underparagraph (1)(B)(iii)) as the Secretary may provide.
+&emsp;&emsp;In the case of part D eligible individuals who meet such exceptional conditions (in addition to those conditions applied under paragraph (1)(B)(iii)) as the Secretary may provide.
 
 #### (D) Medicaid coverage
 
-&emsp;&emsp;In the case of an individual (as determined by the Secretary) who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title).
+&emsp;&emsp;In the case of an individual (as determined by the Secretary, subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title) who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title).
 
 #### (E) Discontinuance of MA–PD election during first year of eligibility
 
@@ -224,9 +224,9 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149; Pub. L. 114–198, title VII, §704(a)(3), July 22, 2016, 130 Stat. 748.)
 
-#### Amendment of Subsection (b)(3)(D)
+#### Applicability of Amendment
 
-<i>Pub. L. 114–198, title VII, §704(a)(3), (g)(1), July 22, 2016, 130 Stat. 748, 751, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, subsection (b)(3)(D) of this section is amended by inserting ", subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title" after "the Secretary". See 2016 Amendment note below.</i>
+<i>Amendment of section by section 704(a)(3) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment note below.</i>
 
 #### Amendments
 
@@ -314,7 +314,7 @@ Study.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugsunder the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
+In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugs under the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
 
 &emsp;&emsp;&emsp;"(i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
 

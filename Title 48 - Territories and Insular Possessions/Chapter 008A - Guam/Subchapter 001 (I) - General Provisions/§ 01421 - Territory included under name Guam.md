@@ -10,7 +10,7 @@ Section 34 of act Aug. 1, 1950, provided that on the 21st day of July 1950, the 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: "This Act \[amending section 1421i of this title and enacting provisions set out as a note undersection 1421i of this title\] may be cited as the 'Guam Foreign Investment Equity Act'."
+Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: "This Act \[amending section 1421i of thistitle and enacting provisions set out as a note under section 1421i of this title\] may be cited as the 'Guam Foreign Investment Equity Act'."
 
 #### Short Title of 1998 Amendment
 

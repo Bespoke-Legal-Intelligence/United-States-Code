@@ -16,7 +16,7 @@ In addition to the amount authorized to be appropriated by subsection (b) to car
 
 #### (d) Integration of women into national economics
 
-In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
+In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thusimproving their status and assisting the total development effort.
 
 #### (e), (f) Repealed. Pub. L. 97–113, title VI, §601(e)(1), Dec. 29, 1981, 95 Stat. 1542
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–53, §301(2), substituted "1980" for "1978, $1,069,000
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
-Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to$1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
+Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
 Subsec. (g). Pub. L. 95–331, §3(3), added subsec. (g).
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 95–102, §2, substituted provisions authorizing additiona
 
 Subsec. (c). Pub. L. 94–281, §2, inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–130, §1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
+<b>1975</b>—Subsec. (b). Pub. L. 94–130, §1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, andstruck out appropriation authorization of $82,256,000 for fiscal year 1975.
 
 Subsec. (c). Pub. L. 94–130, §2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
 

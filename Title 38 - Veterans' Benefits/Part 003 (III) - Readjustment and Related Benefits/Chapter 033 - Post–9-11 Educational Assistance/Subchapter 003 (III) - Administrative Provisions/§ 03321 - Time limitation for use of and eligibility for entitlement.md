@@ -2,7 +2,11 @@
 
 (a)
 
-In General.—Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual's entitlement expires at the end of the 15-year period beginning on the date of such individual's last discharge or release from active duty.
+In General.—Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual's entitlement—
+
+&emsp;(1) in the case of an individual whose last discharge or release from active duty is before January,<sup>1</sup> 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
+
+&emsp;(2) in the case of an individual whose last discharge or release from active duty is on or after January 1, 2013, shall not expire.
 
 (b)
 
@@ -22,17 +26,45 @@ Determination of last discharge or release.—For purposes of subsection (a), an
 
 &emsp;(4)
 
-Applicability to children of deceased members.—The period during which a child entitled to educational assistance by reason of section 3311(b)(9) may use such child's entitlement expires at the end of the 15-year period beginning on the date of such child's eighteenth birthday.
+Applicability to children of deceased members.—The period during which a child entitled to educational assistance by reason of section 3311(b)(9) of this title may use such child's entitlement—
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796.)
+&emsp;&emsp;(A) in the case of a child who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date of such child's eighteenth birthday; or
+
+&emsp;&emsp;(B) in the case of a child who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
+
+&emsp;(5)
+
+Applicability to spouses of deceased members.—The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) may use such spouse's entitlement—
+
+&emsp;&emsp;(A) in the case of a spouse who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date on which the spouse first becomes entitled to such entitlement; or
+
+&emsp;&emsp;(B) in the case of a spouse who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984.)
+
+#### Amendment of Subsection (b)(4)
+
+<i>Pub. L. 115–48, title I, §105(c)(5), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (b)(4) of this section is amended by striking "section 3311(b)(9)" and inserting "section 3311(b)(8)". See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–48, §112(a), substituted "individual's entitlement—" for "individual's entitlement expires at the end of the 15-year period beginning on the date of such individual's last discharge or release from active duty." and added pars. (1) and (2).
+
+Subsec. (b)(4). Pub. L. 115–48, §112(b), inserted "of this title" after "section 3311(b)(9)", substituted "child's entitlement—" for "child's entitlement expires at the end of the 15-year period beginning on the date of such child's eighteenth birthday.", and added subpars. (A) and (B).
+
+Pub. L. 115–48, §105(c)(5), substituted "section 3311(b)(8)" for "section 3311(b)(9)".
+
+Subsec. (b)(5). Pub. L. 115–48, §112(c), added par. (5).
 
 <b>2014</b>—Subsec. (b)(4). Pub. L. 113–146 substituted "a child" for "an individual" and, in two places, "such child's" for "such individual's".
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted "section 3312 of this title" for "3312".
 
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 105(c)(5) of Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -41,4 +73,10 @@ Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, o
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under section 3311 of this title.
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

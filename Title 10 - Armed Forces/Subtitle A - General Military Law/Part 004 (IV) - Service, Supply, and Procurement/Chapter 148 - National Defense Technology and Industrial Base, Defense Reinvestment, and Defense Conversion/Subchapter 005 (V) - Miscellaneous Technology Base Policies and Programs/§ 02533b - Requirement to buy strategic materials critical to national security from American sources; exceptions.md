@@ -4,7 +4,7 @@
 
 Requirement.—Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:
 
-&emsp;(1) The following types of end items, or components thereof, containing a specialty metalnot melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
+&emsp;(1) The following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
 
 &emsp;(2) A specialty metal that is not melted or produced in the United States and that is to be purchased directly by the Department of Defense or a prime contractor of the Department.
 
@@ -152,7 +152,7 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan.28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505.)
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505.)
 
 #### Amendments
 
@@ -186,7 +186,7 @@ Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted "acquisition" for "proc
 
 Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted "acquisitions" for "procurements".
 
-Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal."
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electroniccomponent produced that contains such specialty metal."
 
 Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: "This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)."
 
@@ -224,7 +224,7 @@ Completion of Review.—The Secretary shall complete the review required by subs
 
 #### Revision of Domestic Nonavailability Determinations and Rules
 
-Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: "No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed andamended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
+Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: "No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
 
 &emsp;"(1) an individual contract that was entered into before the date of the enactment of this Act; or
 

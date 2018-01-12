@@ -2,7 +2,7 @@
 
 #### (a) Prohibition of substitution of funds
 
-Amounts received from grants under this chapter may not be used to replace otheramounts made available or designated by State or local governments for use for the purposes under this chapter.
+Amounts received from grants under this chapter may not be used to replace other amounts made available or designated by State or local governments for use for the purposes under this chapter.
 
 #### (b) Capability
 
@@ -18,7 +18,7 @@ The recipient shall agree that no fee will be charged to any eligible person for
 
 #### (e) Confidentiality
 
-The recipient shall agree to ensure the confidentiality of the name of any individual assisted with amounts from a grant under this chapter and any other information regarding individuals receiving such assistance.
+The recipient shall agree to ensure the confidentiality of the name of any individual assisted with amounts from a grant under thischapter and any other information regarding individuals receiving such assistance.
 
 #### (f) Financial records
 

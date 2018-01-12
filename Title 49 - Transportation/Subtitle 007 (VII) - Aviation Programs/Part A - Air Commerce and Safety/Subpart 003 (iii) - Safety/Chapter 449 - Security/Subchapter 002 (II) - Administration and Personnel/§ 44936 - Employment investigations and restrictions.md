@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
+Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including acriminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
 
 &emsp;(i) aircraft of an air carrier or foreign air carrier; or
 
@@ -294,7 +294,7 @@ Subsecs. (f) to (h). Pub. L. 104–264, §502(a), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -302,7 +302,7 @@ Pub. L. 104–264, title III, §304(b), Oct. 9, 1996, 110 Stat. 3252, provided t
 
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 

@@ -50,7 +50,7 @@ Biennially, the Committee, through the Chairperson, shall submit to the Committe
 
 The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
-The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L.100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
+The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L. 100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
 
 The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
@@ -66,7 +66,7 @@ A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which rel
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(2). Pub. L. 112–213, §606(a)(2), substituted "the Marine Plastic Pollution Research and Control Act of 1987" for "this Act" and inserted "of the Marine Plastic Pollution Research and Control Act of 1987" after "section 2201".
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–213, §606(a)(2), substituted "the Marine Plastic Pollution Research and Control Act of 1987" for "this Act" and inserted "of theMarine Plastic Pollution Research and Control Act of 1987" after "section 2201".
 
 Subsec. (e). Pub. L. 112–213, §606(b)(2), in heading, substituted "Biennial progress reports" for "Annual progress reports" and in text, substituted "Biennially" for "Not later than 3 years after December 22, 2006, and biennially thereafter" and "Chairperson" for "chairperson", inserted "Natural" before "Resources", and struck out "Interagency" before "Committee, through" and before "Committee and", redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
 

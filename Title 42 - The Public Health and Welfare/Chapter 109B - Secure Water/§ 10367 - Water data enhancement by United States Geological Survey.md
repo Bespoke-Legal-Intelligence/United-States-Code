@@ -116,7 +116,7 @@
 
 #### (6) Priority
 
-&emsp;In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing oroperating a monitoring well or other measuring device to carry out a monitoring activity.
+&emsp;In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
 
 #### (7) Authorization of appropriations
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(iii) current use of brackish groundwater that is supplied by each brackish aquifer described in clause (i); and
 
-&emsp;&emsp;(B) a summary of the information available as of March 30, 2009, with respect to each brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
+&emsp;&emsp;(B) a summary of the information available as of March 30, 2009, with respect toeach brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
 
 #### (3) Authorization of appropriations
 

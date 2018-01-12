@@ -90,7 +90,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
-(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that thereport may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
+(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
 (i)
 
@@ -122,7 +122,7 @@ Report to Family Members and Other Interested Persons.—Not later than 30 days 
 
 (k)
 
-Treatment of Determination.—Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
+Treatment of Determination.—Any determination of the status of a missing personunder subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
 

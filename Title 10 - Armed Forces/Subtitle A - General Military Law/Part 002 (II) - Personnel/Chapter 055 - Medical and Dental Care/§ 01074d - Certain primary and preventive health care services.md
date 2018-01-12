@@ -42,6 +42,18 @@ Subsec. (a). Pub. L. 104–201, §701(a)(1)(A), designated existing provisions a
 
 Subsec. (b)(8). Pub. L. 104–201, §701(a)(1)(B), added par. (8).
 
+#### Expedited Evaluation and Treatment for Prenatal Surgery Under the TRICARE Program
+
+Pub. L. 115–91, div. A, title VII, §708, Dec. 12, 2017, 131 Stat. 1436, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall implement processes and procedures to ensure that a covered beneficiary under the TRICARE program whose pregnancy is complicated with (or suspected of complication with) a fetal condition may elect to receive expedited evaluation, nondirective counseling, and medical treatment from a perinatal or pediatric specialist capable of providing surgical management and intervention in utero.
+
+"(b)
+
+Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meanings given those terms in section 1072 of title 10, United States Code."
+
 #### Comprehensive Standards and Access to Contraception Counseling for Members of the Armed Forces
 
 Pub. L. 114–92, div. A, title VII, §718, Nov. 25, 2015, 129 Stat. 868, provided that:
@@ -52,7 +64,7 @@ Clinical Practice Guidelines.—
 
 &emsp;"(1)
 
-Establishment.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish clinical practice guidelines for health care providers employed by the Department of Defense on standards of care with respect to methods of contraception and counseling on methods of contraception for members of the Armed Forces.
+Establishment.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish clinical practice guidelines for health care providers employed bythe Department of Defense on standards of care with respect to methods of contraception and counseling on methods of contraception for members of the Armed Forces.
 
 &emsp;"(2)
 
@@ -126,7 +138,7 @@ Pub. L. 103–160, div. A, title II, §251, Nov. 30, 1993, 107 Stat. 1606, provi
 
 "(a)
 
-Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the 'Center') at an existing Department of Defense medical center to serve as the coordinatingagent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
+Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the 'Center') at an existing Department of Defense medical center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
 
 "(b)
 

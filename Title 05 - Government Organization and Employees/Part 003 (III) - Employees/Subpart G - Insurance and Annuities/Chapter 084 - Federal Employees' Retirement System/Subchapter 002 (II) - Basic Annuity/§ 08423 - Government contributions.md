@@ -1,6 +1,6 @@
 ### §8423. Government contributions
 
-(a)(1) Each employing agency having any employees or Members subject to section 8422(a) shall contribute to the Fund an amount equal to the sum of—
+(a)(1) Each employing agency having any employees or Members subject to section 8422(a)shall contribute to the Fund an amount equal to the sum of—
 
 &emsp;(A) the product of—
 
@@ -16,7 +16,7 @@
 
 (2)(A) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
 
-(B)(i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning afterDecember 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+(B)(i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
 
 (ii) Any contributions under this subsection in excess of the amounts which (but for clause (i)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Civil Service Retirement System.
 
@@ -62,7 +62,7 @@
 
 (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, §401(c), Dec. 26, 2013, 127 Stat. 1184.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378,§2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, §401(c), Dec. 26, 2013, 127 Stat. 1184.)
 
 #### References in Text
 

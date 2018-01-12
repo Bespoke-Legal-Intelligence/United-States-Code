@@ -34,7 +34,7 @@ The Secretary may not make a Federal capital contribution for purposes of subsec
 
 &emsp;(5) to be carrying out each of the activities specified in any of paragraphs (1) through (4) by not later than 1 year after the date on which the first Federal capital contribution is made to the school for purposes of subsection (a); and
 
-&emsp;(6) to continue carrying out such activities, and the activities specified in paragraphs (1) and (2) of subsection (b), throughout the period during which the student loan fund established pursuant to section 292q(b) of this title is in operation.
+&emsp;(6) to continue carrying out such activities, and the activities specified in paragraphs (1) and (2) of subsection (b), throughout the periodduring which the student loan fund established pursuant to section 292q(b) of this title is in operation.
 
 #### (d) Availability of other amounts
 

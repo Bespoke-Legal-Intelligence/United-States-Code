@@ -1,6 +1,6 @@
 ### §1306. Civil Service Commission: report
 
-In addition to the usual number of the report of the Civil Service Commission twenty-threethousand copies shall be printed: one thousand for the Senate, two thousand for the House of Representatives, and twenty thousand for distribution by the Civil Service Commission.<sup>1</sup>
+In addition to the usual number of the report of the Civil Service Commission twenty-three thousand copies shall be printed: one thousand for the Senate, two thousand for the House of Representatives, and twenty thousand for distribution by the Civil Service Commission.<sup>1</sup>
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266.)
 

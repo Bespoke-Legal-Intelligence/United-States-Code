@@ -2,7 +2,7 @@
 
 #### (a) Solicitation of proxies in violation of rules and regulations
 
-(1) It shall be unlawful for any person, by the use of the mails or by any means or instrumentality of interstate commerce or of any facilityof a national securities exchange or otherwise, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security (other than an exempted security) registered pursuant to section 78l of this title.
+(1) It shall be unlawful for any person, by the use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security (other than an exempted security) registered pursuant to section 78l of this title.
 
 (2) The rules and regulations prescribed by the Commission under paragraph (1) may include—
 
@@ -14,7 +14,7 @@
 
 (1) It shall be unlawful for any member of a national securities exchange, or any broker or dealer registered under this chapter, or any bank, association, or other entity that exercises fiduciary powers, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to give, or to refrain from giving a proxy, consent, authorization, or information statement in respect of any security registered pursuant to section 78l of this title, or any security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and carried for the account of a customer.
 
-(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to the disclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
+(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to the disclosure. The provisions of this paragraph shall not apply in the case of a bank which theCommission finds has not made a good faith effort to obtain such consent from such beneficial owners.
 
 #### (c) Information to holders of record prior to annual or other meeting
 
@@ -30,7 +30,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (4) Any solicitation or recommendation to the holders of such a security to accept or reject a tender offer or request or invitation for tenders shall be made in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may bewithdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
 
 (6) Where any person makes a tender offer, or request or invitation for tenders, for less than all the outstanding equity securities of a class, and where a greater number of securities is deposited pursuant thereto within ten days after copies of the offer or request or invitation are first published or sent or given to security holders than such person is bound or willing to take up and pay for, the securities taken up shall be taken up as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor. The provisions of this subsection shall also apply to securities deposited within ten days after notice of an increase in the consideration offered to security holders, as described in paragraph (7), is first published or sent or given to security holders.
 
@@ -38,7 +38,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (8) The provisions of this subsection shall not apply to any offer for, or request or invitation for tenders of, any security—
 
-&emsp;(A) if the acquisition of such security, together with all other acquisitions by the same person of securities of the same class during the preceding twelve months, would not exceed 2 per centum of that class;
+&emsp;(A) if the acquisition of such security, together with all other acquisitions by the sameperson of securities of the same class during the preceding twelve months, would not exceed 2 per centum of that class;
 
 &emsp;(B) by the issuer of such security; or
 
@@ -56,15 +56,15 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 (1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
 
-&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
+&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup>1</sup> per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
-&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
+&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup>1</sup> per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
 (B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 <sup>1</sup> per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
 (4)
 
@@ -76,7 +76,7 @@ Fee collection.—Fees collected pursuant to this subsection for fiscal year 201
 
 (6)
 
-Review; effective date; publication.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
+Review; effective date; publication.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. Anadjusted rate prescribed under paragraph (4) shall be published and take effect in accordance with section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
 
 (7)
 
@@ -112,7 +112,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between the exchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
 
-&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determinethe value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
+&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
 
 &emsp;&emsp;&emsp;(v) the differing risks and effects of the limited partnership rollup transaction for investors in different limited partnerships proposed to be included, and the risks and effects of completing the limited partnership rollup transaction with less than all limited partnerships;
 
@@ -158,7 +158,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;(B) any of the investors' limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
-&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subjectto a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
+&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
 
 &emsp;&emsp;(D) any of such investors are not provided an option to receive or retain a security under substantially the same terms and conditions as the original issue.
 
@@ -206,7 +206,7 @@ This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the or
 
 The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For completeclassification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 
@@ -292,7 +292,7 @@ Exemptions.—The Commission may, by rule or order, exempt an issuer or class of
 
 \[For definitions of terms used in section 971(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings andprescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
+Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
 
 #### Construction of 1993 Amendment
 
@@ -341,4 +341,22 @@ Evaluation required.—The Comptroller General of the United States shall, withi
 "(2)
 
 Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1)."
+
+#### Adjustment of Registration Fee Rate
+
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
+
+By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.
+
+By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824.
+
+By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771.
+
+By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934.
+
+By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
+
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+<i><sup>1</sup></i><i> See Adjustment of Registration Fee Rate notes below.</i>
 

@@ -62,7 +62,7 @@ Milk.—
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under \[former\]section 1501 of the Food, Conservation, and Energy Act of 2008 (\[former\] 7 U.S.C. 8771) through December 31, 2013.
+In general.—Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under \[former\] section 1501 of the Food, Conservation, and Energy Act of 2008 (\[former\] 7 U.S.C. 8771) through December 31, 2013.
 
 &emsp;&emsp;"(B)
 
@@ -72,7 +72,7 @@ Milk income loss contract program.—\[Amended section 8773 of this title.\]
 
 Suspension of permanent price support authorities.—The provisions of law specified in subsections (a) through (c) of section 1602 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8782) shall be suspended—
 
-&emsp;&emsp;"(A) for the 2013 crop or production year of a covered commodity (as that term is defined in section 1001 of that Act (7 U.S.C. 8702)), peanuts, sugarcane, and sugar, as appropriate; and
+&emsp;&emsp;"(A) for the 2013 crop or production year of a covered commodity (as that term is defined in section1001 of that Act (7 U.S.C. 8702)), peanuts, sugarcane, and sugar, as appropriate; and
 
 &emsp;&emsp;"(B) in the case of milk, through December 31, 2013.
 

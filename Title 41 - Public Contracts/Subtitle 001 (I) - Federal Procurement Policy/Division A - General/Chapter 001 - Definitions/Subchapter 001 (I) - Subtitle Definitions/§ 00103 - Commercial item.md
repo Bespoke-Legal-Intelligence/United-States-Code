@@ -32,9 +32,9 @@ In this subtitle, the term "commercial item" means—
 
 &emsp;(7) any item, combination of items, or service referred to in paragraphs (1) to (6) even though the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
 
-&emsp;(8) a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+&emsp;(8) a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3679.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3679; Pub. L. 115–91, div. A, title VIII, §847(a), Dec. 12, 2017, 131 Stat. 1487.)
 
 Historical and Revision Notes
 
@@ -59,4 +59,12 @@ June 30, 1949, ch. 288, title III, §314A ("commercial item"), as added Pub. L. 
 41:403(12).
 
 Pub. L. 93–400, §4(12), as added Pub. L. 103–355, title VIII, §8001(a), Oct. 13, 1994, 108 Stat. 3385; Pub. L. 104–106, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, title XIV, §1433, Nov. 24, 2003, 117 Stat. 1673.
+
+#### Amendments
+
+<b>2017</b>—Par. (8). Pub. L. 115–91 inserted "or to multiple foreign governments" before period at end.
+
+#### Construction of 2017 Amendment
+
+Pub. L. 115–91, div. A, title VIII, §847(b), Dec. 12, 2017, 131 Stat. 1487, provided that: "Nothing in the amendment made by subsection (a) \[amending this section\] shall affect the meaning of the term 'commercial item' for purposes of subsection (a)(5) of section 2464 of title 10, United States Code, or any requirement under subsection (a)(3) or subsection (c) of such section."
 

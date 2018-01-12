@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the portion of such dividend includible in gross income, reduced by
 
-&emsp;&emsp;(B) the amount of any deduction allowable with respect to such dividend under section 243 or 245.
+&emsp;&emsp;(B) the amount of any deduction allowable with respect to such dividend under section 243 <sup>1</sup> 245, or 245A.
 
 #### (c) Extraordinary dividend defined
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (3) Determination of holding period
 
-&emsp;For purposes of determining the holding period of stock under subsection (a), rules similar to the rules of paragraphs (3) and (4) of section 246(c) shall apply; except that "2 years" shall be substituted for the number of days specified in subparagraph (B) <sup>1</sup> of section 246(c)(3).
+&emsp;For purposes of determining the holding period of stock under subsection (a), rules similar to the rules of paragraphs (3) and (4) of section 246(c) shall apply; except that "2 years" shall be substituted for the number of days specified in subparagraph (B) <sup>2</sup> of section 246(c)(3).
 
 #### (4) Ex-dividend date
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) section 304(a) had not applied,
 
-> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in thestock redeemed shall be taken into account under subsection (a).
+> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in the stock redeemed shall be taken into account under subsection (a).
 
 #### (B) Reorganizations, etc.
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) if the taxpayer disposes of such stock before it has been held for more than 5 years, the aggregate reduction under subsection (a)(1) with respect to such dividends shall not be greater than the excess (if any) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the qualified preferred dividends paid with respect to such stock during the period the taxpayer held such stock, over
+&emsp;&emsp;&emsp;&emsp;(I) the qualified preferred dividends paid with respect to such stock duringthe period the taxpayer held such stock, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the qualified preferred dividends which would have been paid during such period on the basis of the stated rate of return.
 
@@ -250,7 +250,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(2) providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918,1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
+(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918, 1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §14101(c)(2), Dec. 22, 2017, 131 Stat. 2191.)
 
 #### References in Text
 
@@ -258,9 +258,11 @@ Section 246(c)(3) of this title, referred to in subsec. (d)(3), was amended by P
 
 #### Prior Provisions
 
-A prior section 1059 was renumbered section 1061 of this title.
+A prior section 1059 was renumbered section 1062 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97 substituted "245, or 245A" for "or 245".
 
 <b>2014</b>—Subsec. (b)(2)(B). Pub. L. 113–295 struck out ", 244," after "243".
 
@@ -276,7 +278,7 @@ In general.—Except as provided in subparagraph (B), any reduction in basis und
 
 "(B)
 
-Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basis for purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution."
+Special rule for computing extraordinary dividend.—In determining a taxpayer's adjusted basis for purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distributionwhich was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution."
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted "subsection (a)" for "subsection (a)(2)".
 
@@ -340,7 +342,7 @@ Subsec. (c)(1). Pub. L. 99–514, §614(c)(2), struck out "(determined without r
 
 Subsec. (c)(4). Pub. L. 99–514, §614(b), added par. (4).
 
-Subsec. (d)(1). Pub. L. 99–514, §614(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any reduction in basis under subsection (a) byreason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution."
+Subsec. (d)(1). Pub. L. 99–514, §614(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any reduction in basis under subsection (a) by reason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution."
 
 Subsec. (d)(3). Pub. L. 99–514, §614(a)(3), substituted "2 years" for "1 year".
 
@@ -349,6 +351,10 @@ Subsec. (d)(6). Pub. L. 99–514, §614(a)(2), added par. (6).
 Subsec. (d)(7). Pub. L. 99–514, §614(d), added par. (7).
 
 Subsecs. (e), (f). Pub. L. 99–514, §614(e), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -450,5 +456,7 @@ Treatment of renegotiations, etc.—For purposes of this paragraph, any loan ren
 
 Definition of term and demand loans.—For purposes of this paragraph, the terms 'demand loan' and 'term loan' have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

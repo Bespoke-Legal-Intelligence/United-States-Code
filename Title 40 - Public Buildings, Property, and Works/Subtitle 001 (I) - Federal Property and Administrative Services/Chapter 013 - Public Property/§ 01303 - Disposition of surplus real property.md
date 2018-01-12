@@ -28,7 +28,7 @@ Negotiated sale.—If no bids which are satisfactory as to price and responsibil
 
 (c)
 
-Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
+Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
 (d)
 
@@ -382,7 +382,7 @@ Personal Property.—The Board shall use personal property already in the custod
 
 "(a)
 
-Submissions of Agency Information and Recommendations.—Not later than 120 days after the date ofenactment of this Act, and not later than 120 days after the first day of each fiscal year thereafter until the termination of the Board, the head of each Federal agency shall submit to the Administrator and the Director of OMB the following:
+Submissions of Agency Information and Recommendations.—Not later than 120 days after the date of enactment of this Act, and not later than 120 days after the first day of each fiscal year thereafter until the termination of the Board, the head of each Federal agency shall submit to the Administrator and the Director of OMB the following:
 
 &emsp;"(1)
 
@@ -556,7 +556,7 @@ First round.—Not later than 2 years after the date of transmittal of the list 
 
 &emsp;&emsp;"(B)
 
-Second round.—Not earlier than 3 years after the date of transmittal of the first report, the Board shall transmit to the Director of OMB the second report required under paragraph (1). The total value of transactions contained in the second report may not exceed $4,750,000,000.
+Second round.—Not earlier than 3 years after the date of transmittal of the first report, the Board shall transmit to the Director of OMB thesecond report required under paragraph (1). The total value of transactions contained in the second report may not exceed $4,750,000,000.
 
 &emsp;"(3)
 
@@ -624,7 +624,7 @@ Completion.—Not later than 6 years after the Director of OMB transmits the Boa
 
 &emsp;"(3)
 
-Extenuating circumstances.—For actions that will take longer than the 6-year period describedin paragraph (2) due to extenuating circumstances, Federal agencies shall notify the Director of OMB and Congress, as soon as the extenuating circumstance presents itself, with an estimated time to complete the relevant action.
+Extenuating circumstances.—For actions that will take longer than the 6-year period described in paragraph (2) due to extenuating circumstances, Federal agencies shall notify the Director of OMB and Congress, as soon as the extenuating circumstance presents itself, with an estimated time to complete the relevant action.
 
 "(b)
 
@@ -692,7 +692,7 @@ Public Benefit.—
 
 &emsp;"(1)
 
-Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD, on the same day the Director of OMB submits the Board's recommendations to Congress pursuant to paragraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
+Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD,on the same day the Director of OMB submits the Board's recommendations to Congress pursuant to paragraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
 
 &emsp;"(2)
 

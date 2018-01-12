@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations authorized by subsection (e), the Commissionshall establish a grant program to provide assistance to eligible States.
+Subject to the availability of appropriations authorized by subsection (e), the Commission shall establish a grant program to provide assistance to eligible States.
 
 #### (b) Eligibility
 

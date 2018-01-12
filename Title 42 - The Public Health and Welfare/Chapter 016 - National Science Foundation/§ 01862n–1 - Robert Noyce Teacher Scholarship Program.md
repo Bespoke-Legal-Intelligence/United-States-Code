@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iv) providing summer internships for freshman and sophomore students participating in the program; or
 
-&emsp;&emsp;(B) to develop and implement a program to recruit and prepare science, technology, engineering, or mathematics professionals to become qualified as mathematics and science teachers, through—
+&emsp;&emsp;(B) to develop and implement a program to recruit and prepare science, technology, engineering, or mathematics professionals tobecome qualified as mathematics and science teachers, through—
 
 &emsp;&emsp;&emsp;(i) administering stipends in accordance with subsection (d);
 
@@ -148,7 +148,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 &emsp;(2) agreeing to provide the eligible entity with annual certification of employment and up-to-date contact information and to participate in surveys conducted by the eligible entity as part of an ongoing assessment program; and
 
-&emsp;(3) establishing that if the service obligation required under this section is not completed, all or a portion of the scholarship or stipend received under this section shall be repaid in accordance with subsection (g).
+&emsp;(3) establishing that if the service obligation required under this section is not completed, all or a portion of the scholarship or stipendreceived under this section shall be repaid in accordance with subsection (g).
 
 #### (f) Collection for noncompliance
 
@@ -234,11 +234,11 @@ In this section—
 
 &emsp;(4) the term "high need local educational agency" has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
-&emsp;(5) the term "mathematics and science teacher" means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
+&emsp;(5) the term "mathematics and science teacher" means a science, technology, engineering, mathematics, or computer science, including cybersecurity, teacher at the elementary school or secondary school level;
 
 &emsp;(6) the term "scholarship" means an award under subsection (c);
 
-&emsp;(7) the term "science, technology, engineering, or mathematics professional" means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and
+&emsp;(7) the term "science, technology, engineering, or mathematics professional" means an individual who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
 
 &emsp;(8) the term "stipend" means an award under subsection (d).
 
@@ -260,7 +260,7 @@ Not later than 4 years after August 9, 2007, the Director shall transmit to the 
 
 Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
-(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541.)
+(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541; Pub. L. 115–91, div. A, title XVI, §1649C, Dec. 12, 2017, 131 Stat. 1756.)
 
 #### References in Text
 
@@ -273,6 +273,10 @@ Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the Nationa
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i)(5). Pub. L. 115–91, §1649C(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "the term 'mathematics and science teacher' means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;".
+
+Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "the term 'science, technology, engineering, or mathematics professional' means a person who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and".
 
 <b>2015</b>—Subsec. (i)(5). Pub. L. 114–59 inserted "computer science," after "means a science,".
 

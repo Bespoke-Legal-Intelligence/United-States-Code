@@ -10,7 +10,7 @@ The Secretary, through the Centers for Disease Control, shall not later than 3 y
 
 &emsp;&emsp;(ii) the identity of each embryo laboratory in a State which has not adopted such certification program and which has been certified by an accreditation organization approved by the Secretary under section 263a–3 of this title, and
 
-&emsp;&emsp;(iii) in the case of an embryo laboratory which is not certified under section 263a–2 of this title or certified by an accreditation organization approved by the Secretary under section 263a–3 of this title, whether the laboratory applied for certification.
+&emsp;&emsp;(iii) in the case of an embryo laboratory which is not certified under section 263a–2 of this title or certified by an accreditation organization approved by the Secretary undersection 263a–3 of this title, whether the laboratory applied for certification.
 
 (Pub. L. 102–493, §6, Oct. 24, 1992, 106 Stat. 3151.)
 

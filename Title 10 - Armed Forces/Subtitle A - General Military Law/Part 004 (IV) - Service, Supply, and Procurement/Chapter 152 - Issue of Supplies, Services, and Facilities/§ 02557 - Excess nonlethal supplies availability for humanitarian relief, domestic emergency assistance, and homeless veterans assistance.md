@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of Defense may make available for humanitarian relief purposes any nonlethal excess supplies of the Department of Defense. In addition, the Secretary may make nonlethal excess supplies of the Department available to support domestic emergency assistance activities.
 
-(2) The Secretary of Defense may make excess clothing, shoes, sleeping bags, and related nonlethal excess supplies available to the Secretary of Veterans Affairs for distribution to homeless veterans and programs assisting homeless veterans. The transfer of nonlethal excess supplies to the Secretary of Veterans Affairs under this paragraph shall be without reimbursement.
+(2) The Secretary of Defense may make excess clothing, shoes, sleeping bags, and related nonlethal excess supplies available to the Secretary of Veterans Affairs for distribution to homelessveterans and programs assisting homeless veterans. The transfer of nonlethal excess supplies to the Secretary of Veterans Affairs under this paragraph shall be without reimbursement.
 
 (b)(1) Excess supplies made available for humanitarian relief purposes under this section shall be transferred to the Secretary of State, who shall be responsible for the distribution of such supplies.
 

@@ -22,7 +22,7 @@
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -156,7 +156,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
 
-&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
+&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecutingan action under a State law comparable to this subsection, or
 
 &emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a final order not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
 
@@ -182,7 +182,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;(B) in the case of assessment of a class II civil penalty, in United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business,
 
-> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment ofthe penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 #### (9) Collection
 
@@ -240,7 +240,7 @@ Subsec. (f). Pub. L. 95–217, §54(b), added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Savings Provision
 

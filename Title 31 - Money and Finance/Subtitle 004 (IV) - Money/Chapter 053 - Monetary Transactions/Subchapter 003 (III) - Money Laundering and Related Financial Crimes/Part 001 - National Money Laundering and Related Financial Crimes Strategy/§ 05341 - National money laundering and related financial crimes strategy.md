@@ -80,7 +80,7 @@ Data regarding funding of terrorism.—Data concerning money laundering efforts 
 
 (c)
 
-Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containingan evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
+Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
 
 (d)
 

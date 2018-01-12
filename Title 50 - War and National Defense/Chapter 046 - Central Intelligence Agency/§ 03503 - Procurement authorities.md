@@ -22,7 +22,7 @@ The power of the Agency head to make the determinations or decisions specified i
 
 Section was formerly classified to section 403c of this title prior to editorial reclassification and renumbering as this section.
 
-In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references to sections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, Public Contracts. Cited sections of the Act were restated in sections of Title 10 as follows:
+In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references tosections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, Public Contracts. Cited sections of the Act were restated in sections of Title 10 as follows:
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Sections 2304 and 2305 of title 10 were amended generally by Pub. L. 98–369, a
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: "Notwithstanding subsection\(e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency."
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: "Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency."
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–269 added subsec. (e).
 

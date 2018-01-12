@@ -50,7 +50,7 @@ Construction Without Federal Amounts.—
 
 &emsp;(1)
 
-Payment of federal share.—When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirements applicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
+Payment of federal share.—When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirementsapplicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Sense of the Senate.—It is the Sense of the Senate that the timely completion 
 
 "(b)
 
-Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previousfiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
+Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
 
 "(c)
 

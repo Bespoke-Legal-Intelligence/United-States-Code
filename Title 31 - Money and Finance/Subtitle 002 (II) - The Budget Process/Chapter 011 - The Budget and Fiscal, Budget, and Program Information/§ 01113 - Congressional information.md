@@ -356,7 +356,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;"(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)) \[now 50 U.S.C. 4558(l)\].
 
-&emsp;"(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[Pub. L. 101–647\] (28 U.S.C. 522 note).
+&emsp;"(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[Pub. L. 101–647\] (28 U.S.C. 522 note) \[now 34 U.S.C. 41306\].
 
 &emsp;"(37) Section 202(b)(8) of the National Housing Act (12 U.S.C. 1708(b)(8))."
 
@@ -364,7 +364,7 @@ Pub. L. 106–554, §1(a)(4) \[div. A, §1402\], Dec. 21, 2000, 114 Stat. 2763, 
 
 &emsp;"(1) Sections 1105(a), 1106(a) and (b), and 1109(a) of title 31, United States Code, and any other law relating to the budget of the United States Government.
 
-&emsp;"(2) The Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) \[see Short Title note set out under section 900 of Title 2, The Congress\].
+&emsp;"(2) The Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) \[see ShortTitle note set out under section 900 of Title 2, The Congress\].
 
 &emsp;"(3) Sections 202(e)(1) and (3) of the Congressional Budget Act of 1974 (2 U.S.C. 602(e)(1) and (3)).
 
@@ -578,11 +578,11 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(3) Section 3718(c) of title 31, United States Code.
 
-&emsp;"(4) Section 9 of the Child Protection Act of 1984 \[Pub. L. 98–292\] (28 U.S.C. 522 note).
+&emsp;"(4) Section 9 of the Child Protection Act of 1984 \[Pub. L. 98–292\] (28 U.S.C. 522 note) \[now 34 U.S.C. 41301\].
 
 &emsp;"(5) Section 8 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997f).
 
-&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)), 520 (42 U.S.C. 3766), 522 (42 U.S.C. 3766b), and 810 (42 U.S.C. 3789e).
+&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)) \[now 34 U.S.C. 10102(b)\], 520 (42 U.S.C. 3766) \[now 34 U.S.C. 10201\], 522 (42 U.S.C. 3766b) \[now 34 U.S.C. 10203\], and 810 (42 U.S.C. 3789e) \[now 34 U.S.C. 10229\].
 
 &emsp;"(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (l), (o), (q), and (r) of section 286 (8 U.S.C. 1356).
 
@@ -632,7 +632,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(3) Section 118(f) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2151p–1 \[(f)\]) (relating to the protection of tropical forests).
 
-&emsp;"(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 \[50 U.S.C. 1701note\]) (relating to sanctions taken by other nations against Iraq).
+&emsp;"(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 \[50 U.S.C. 1701 note\]) (relating to sanctions taken by other nations against Iraq).
 
 &emsp;"(5) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3 \[50 U.S.C. 1541 note\]) (relating to the status of efforts to obtain Iraqi compliance with United Nations Security Council resolutions).
 

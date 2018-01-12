@@ -34,9 +34,11 @@ Certifications and Determination Required.—A major defense acquisition program
 
 &emsp;&emsp;(L) the program complies with all relevant policies, regulations, and directives of the Department of Defense;
 
-&emsp;&emsp;(M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B); and
+&emsp;&emsp;(M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
 
 &emsp;&emsp;(N) the requirements of section 2446b(e) of this title are met; and
+
+&emsp;&emsp;(O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
 
 &emsp;(4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019.
 
@@ -56,7 +58,7 @@ Submissions to Congress on Milestone B.—
 
 &emsp;(1)
 
-Brief summary report.—Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence orintelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+Brief summary report.—Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
 
 &emsp;&emsp;(A) The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title.
 
@@ -78,7 +80,9 @@ Brief summary report.—Not later than 15 days after granting Milestone B approv
 
 &emsp;&emsp;(F) A statement of whether a modular open system approach is being used for the program.
 
-&emsp;&emsp;(G) Any other information the milestone decision authority considers relevant.
+&emsp;&emsp;(G) An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
+
+&emsp;&emsp;(H) Any other information the milestone decision authority considers relevant.
 
 &emsp;(2)
 
@@ -114,7 +118,7 @@ Waiver for National Security.—(1) The milestone decision authority may, at the
 
 (e)
 
-Designation of Certification Status in Budget Documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has notfully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
+Designation of Certification Status in Budget Documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
 
 (f)
 
@@ -140,13 +144,17 @@ Definitions.—In this section:
 
 &emsp;(8) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290.)
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474.)
 
 #### Prior Provisions
 
 A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3)(O). Pub. L. 115–91, §835(b)(1), added subpar. (O).
+
+Subsec. (c)(1)(G), (H). Pub. L. 115–91, §838(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §807(e)(1), substituted "technical risk assessment conducted under section 2448b of this title" for "assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation".
 
@@ -262,6 +270,10 @@ Subsec. (a)(10). Pub. L. 109–364, §805(a)(1), redesignated par. (7) as (10).
 
 Subsec. (c). Pub. L. 109–364, §805(b), substituted "(5), (6), (7), (8), or (9)" for "(5), or (6)".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title VIII, §835(b)(2), Dec. 12, 2017, 131 Stat. 1471, provided that: "Section 2366b(a)(3)(O) of title 10, United States Code, as added by paragraph (1), shall apply with respect to any major defense acquisition program receiving Milestone B approval on or after the date occurring one year after the date of the enactment of this Act \[Dec. 12, 2017\]."
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–66, div. A, title VIII, §821(b), Dec. 26, 2013, 127 Stat. 809, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 26, 2013\], and shall apply with respect to major defense acquisition programs which are subject to Milestone B approval on or after the date occurring six months after the date of the enactment of this Act."
@@ -278,13 +290,49 @@ Amendment by section 901(j)(4) of Pub. L. 111–383 effective Jan. 1, 2011, see 
 
 Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
 
+#### Responsibility for Conducting Assessments
+
+Pub. L. 115–91, div. A, title VIII, §838(a)(3), Dec. 12, 2017, 131 Stat. 1474, provided that: "For purposes of the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of such title \[meaning title 10, United States Code\], as added by paragraphs (1) and (2), with respect to a major defense acquisition program—
+
+&emsp;"(A) if the milestone decision authority for the program is the service acquisition executive of the military department that is managing the program, the sufficiency assessment shall be conducted by the senior official within the military department with responsibility for developmental testing; and
+
+&emsp;"(B) if the milestone decision authority for the program is the Under Secretary of Defense for Acquisition and Sustainment, the sufficiency assessment shall be conducted by the senior Department of Defense official with responsibility for developmental testing."
+
+#### Guidance
+
+Pub. L. 115–91, div. A, title VIII, §838(a)(4), Dec. 12, 2017, 131 Stat. 1475, provided that: "Within one year after the date of the enactment of this Act \[Dec. 12, 2017\], the senior Department of Defense official with responsibility for developmental testing shall develop guidance for the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of title 10, United States Code, as added by paragraphs (1) and (2). At a minimum, the guidance shall require—
+
+&emsp;"(A) for the sufficiency assessment required by section 2366b(c)(1) of such title, that the assessment address the sufficiency of—
+
+&emsp;&emsp;"(i) the developmental test and evaluation plan;
+
+&emsp;&emsp;"(ii) the developmental test and evaluation schedule, including a comparison to historic analogous systems;
+
+&emsp;&emsp;"(iii) the developmental test and evaluation resources (facilities, personnel, test assets, data analytics tools, and modeling and simulation capabilities);
+
+&emsp;&emsp;"(iv) the risks of developmental test and production concurrency; and
+
+&emsp;&emsp;"(v) the developmental test criteria for entering the production phase; and
+
+&emsp;"(B) for the sufficiency assessment required by section 2366c(a)(4) of such title, that the assessment address—
+
+&emsp;&emsp;"(i) the sufficiency of the developmental test and evaluation completed;
+
+&emsp;&emsp;"(ii) the sufficiency of the plans and resources available for remaining developmental test and evaluation;
+
+&emsp;&emsp;"(iii) the risks identified during developmental testing to the production and deployment phase;
+
+&emsp;&emsp;"(iv) the sufficiency of the plans and resources for remaining developmental test and evaluation; and
+
+&emsp;&emsp;"(v) the readiness of the system to perform scheduled initial operational test and evaluation."
+
 #### Milestone B Decisions
 
-Pub. L. 114–92, div. A, title VIII, §802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of theArmed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code, as amended by section 824 of this Act, prior to a Milestone B decision on the program."
+Pub. L. 114–92, div. A, title VIII, §802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code, as amended by section 824 of this Act, prior to a Milestone B decision on the program."
 
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 
-Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
+Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII,§813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
 
 #### Formal Review Process for Bandwidth Requirements
 

@@ -28,7 +28,7 @@ Limitations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus real and related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
+Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus realand related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
 
 &emsp;&emsp;&emsp;(ii)
 

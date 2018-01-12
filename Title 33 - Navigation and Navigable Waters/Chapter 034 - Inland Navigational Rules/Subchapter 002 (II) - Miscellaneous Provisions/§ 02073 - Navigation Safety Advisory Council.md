@@ -42,7 +42,7 @@ Unless extended by subsequent Act of Congress, the Council shall terminate on Se
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–281, §621(f)(1), added subsecs. (a) and (b) and struck out former subsecs. (a)and (b) which established, and defined the functions and purpose of, the Navigation Safety Advisory Council.
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–281, §621(f)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which established, and defined the functions and purpose of, the Navigation Safety Advisory Council.
 
 Subsec. (d). Pub. L. 111–281, §621(f)(2), substituted "September 30, 2020" for "September 30, 2010".
 

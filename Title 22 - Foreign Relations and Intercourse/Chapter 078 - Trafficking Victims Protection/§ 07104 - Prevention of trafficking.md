@@ -66,7 +66,7 @@ The President shall ensure that any grant, contract, or cooperative agreement pr
 
 &emsp;&emsp;(III) Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
 
-&emsp;&emsp;(IV) Charging recruited employees unreasonable placement or recruitment fees, such as fees equal to or greater than the employee's monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.
+&emsp;&emsp;(IV) Charging recruited employees unreasonable placement or recruitment fees, such as fees equal to or greater than the employee's monthly salary, or recruitment feesthat violate the laws of the country from which an employee is recruited.
 
 &emsp;&emsp;(V) Providing or arranging housing that fails to meet the host country housing and safety standards.
 

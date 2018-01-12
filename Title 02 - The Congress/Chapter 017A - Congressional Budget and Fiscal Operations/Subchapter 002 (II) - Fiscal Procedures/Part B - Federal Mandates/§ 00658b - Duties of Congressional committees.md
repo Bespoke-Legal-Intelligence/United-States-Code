@@ -22,7 +22,7 @@ Each report described under subsection (a) shall contain—
 
 If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) shall also contain—
 
-&emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, ortribal governments subject to the Federal intergovernmental mandates;
+&emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, or tribal governments subject to the Federal intergovernmental mandates;
 
 &emsp;(B) a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and
 

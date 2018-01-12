@@ -62,7 +62,7 @@ Pub. L. 102–291, §2(d), May 20, 1992, 106 Stat. 178, provided that: "The amen
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period
 
-Pub. L. 102–291, §2(e), May 20, 1992, 106 Stat. 178, provided that: "The following actions of the Secretary ofVeterans Affairs during the period beginning on February 1, 1992, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified with respect to that period:
+Pub. L. 102–291, §2(e), May 20, 1992, 106 Stat. 178, provided that: "The following actions of the Secretary of Veterans Affairs during the period beginning on February 1, 1992, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified with respect to that period:
 
 &emsp;"(1) A failure to reduce the disability rating of a veteran who began to engage in a substantially gainful occupation during that period.
 

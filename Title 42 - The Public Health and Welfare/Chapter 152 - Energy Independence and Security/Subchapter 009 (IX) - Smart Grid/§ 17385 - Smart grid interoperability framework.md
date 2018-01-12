@@ -20,7 +20,7 @@ The framework developed under subsection (a) shall be flexible, uniform and tech
 
 &emsp;&emsp;(B) technological innovations;
 
-&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured withthe ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
 
 &emsp;&emsp;(A) load reduction to reduce total electrical demand;
 
@@ -47,6 +47,10 @@ There are authorized to be appropriated for the purposes of this section $5,000,
 #### Codification
 
 December 19, 2007, referred to in subsec. (c), was in the original "enactment" and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Does not fit with subsec. (b) introductory provisions.</i>
 

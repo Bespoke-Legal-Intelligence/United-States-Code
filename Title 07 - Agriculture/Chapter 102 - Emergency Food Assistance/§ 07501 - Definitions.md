@@ -78,5 +78,5 @@ Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the ame
 
 #### Short Title
 
-Pub. L. 98–8, title II, §201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the'Emergency Food Assistance Act of 1983', and is hereinafter in this title referred to as 'this Act'."
+Pub. L. 98–8, title II, §201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Emergency Food Assistance Act of 1983', and is hereinafter in this title referred to as 'this Act'."
 

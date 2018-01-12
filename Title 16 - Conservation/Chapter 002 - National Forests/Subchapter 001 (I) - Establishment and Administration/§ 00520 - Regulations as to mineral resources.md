@@ -1,12 +1,12 @@
 ### §520. Regulations as to mineral resources
 
-The Secretary of Agriculture is authorized, under general regulations to be prescribed by him, to permit the prospecting, development, and utilization of the mineral resources of the lands acquired under the Act of March first, nineteen hundred and eleven, known as the Weeks law, upon such terms and for specified periods or otherwise, as he may deem to be for the best interests of the United States; and all moneys received on account of charges, if any, made under this Act shall be disposed of as is provided by existing law for the disposition of receipts from national forests.
+The Secretary of Agriculture is authorized, under general regulations to be prescribed by him, to permit the prospecting, development, and utilization of the mineral resources of the lands acquired under the Act of March first,nineteen hundred and eleven, known as the Weeks law, upon such terms and for specified periods or otherwise, as he may deem to be for the best interests of the United States; and all moneys received on account of charges, if any, made under this Act shall be disposed of as is provided by existing law for the disposition of receipts from national forests.
 
 (Mar. 4, 1917, ch. 179, 39 Stat. 1150; 1946 Reorg. Plan No. 3, §402, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1099; Pub. L. 86–509, §1(l), June 11, 1960, 74 Stat. 205.)
 
 #### References in Text
 
-The Act of March first, nineteen hundred and eleven, known as the Weeks Law, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+The Act of March first, nineteen hundred and eleven, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 #### Transfer of Functions
 

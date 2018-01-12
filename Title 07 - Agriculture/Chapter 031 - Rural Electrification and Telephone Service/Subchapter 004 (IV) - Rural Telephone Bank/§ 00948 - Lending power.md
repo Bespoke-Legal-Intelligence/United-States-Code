@@ -18,7 +18,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (3) Interest rate
 
-&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost ofmoney rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
+&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost of money rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
 
 &emsp;(B) On and after December 22, 1987, advances made on or after December 22, 1987, under loan commitments made on or after October 1, 1987, shall bear interest at the rate determined under subparagraph (C), but in no event at a rate that is less than 5 percent per annum.
 
@@ -44,7 +44,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(II) For purposes of this clause, the term "historic cost of money rate", with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
-&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
+&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years inwhich each advance was made shall be as set forth in the following table:
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 > &emsp;For purposes of this paragraph, the term "fiscal year" means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an electionunder this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 

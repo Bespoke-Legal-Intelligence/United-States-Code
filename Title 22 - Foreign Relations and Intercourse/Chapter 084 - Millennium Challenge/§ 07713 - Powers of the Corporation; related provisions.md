@@ -8,7 +8,7 @@ The Corporation—
 
 &emsp;(2) may adopt, alter, and use a seal, which shall be judicially noticed;
 
-&emsp;(3) may make and perform such contracts, grants, and other agreements with any person or government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
+&emsp;(3) may make and perform such contracts, grants, and other agreements with any personor government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
 
 &emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid, including expenses for representation;
 
@@ -80,11 +80,11 @@ Except to the extent inconsistent with the provisions of this chapter, the admin
 
 This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2735 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
-Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub. L. 108–199 amended section 9101 of Title 31, Money and Finance.
+Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub.L. 108–199 amended section 9101 of Title 31, Money and Finance.
 

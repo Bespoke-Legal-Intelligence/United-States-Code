@@ -96,7 +96,7 @@ Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by P
 
 \[Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '26 years' or '26-year period' shall be deemed a reference to '31 years' or '31-year period', respectively."\]
 
-\[Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '24 years' or '24-year period' shall be deemed areference to '26 years' or '26-year period', respectively."\]
+\[Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '24 years' or '24-year period' shall be deemed a reference to '26 years' or '26-year period', respectively."\]
 
 \[Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '21 years' or '21-year period' shall be deemed a reference to '24 years' or '24-year period', respectively."\]
 
@@ -114,7 +114,7 @@ Pub. L. 110–312, §1, Aug. 12, 2008, 122 Stat. 3013, provided that: "This Act 
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–76, §1, Sept. 29, 2005, 119 Stat. 2035, provided that: "This Act \[enacting provisions set out as a note under this section and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'United States Parole Commission Extension and Sentencing Commission Authority Act of 2005'."
+Pub. L. 109–76, §1, Sept. 29, 2005, 119 Stat. 2035, provided that: "This Act \[enacting provisions set out as anote under this section and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'United States Parole Commission Extension and Sentencing Commission Authority Act of 2005'."
 
 #### Short Title of 1996 Amendment
 

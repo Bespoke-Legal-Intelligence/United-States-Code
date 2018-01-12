@@ -32,7 +32,7 @@
 
 #### (C) Freezing of assets
 
-&emsp;&emsp;Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
+&emsp;&emsp;Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury mayrequire United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
 
 #### (3) Record
 

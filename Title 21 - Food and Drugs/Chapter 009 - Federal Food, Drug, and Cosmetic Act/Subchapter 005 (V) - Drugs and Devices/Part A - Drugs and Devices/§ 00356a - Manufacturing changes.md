@@ -26,7 +26,7 @@ For purposes of subsection (a)(1), a drug made with a manufacturing change (whet
 
 &emsp;&emsp;(A) is made in the qualitative or quantitative formulation of the drug involved or in the specifications in the approved application or license referred to in subsection (a) for the drug (unless exempted by the Secretary by regulation or guidance from the requirements of this subsection);
 
-&emsp;&emsp;(B) is determined by the Secretary by regulation or guidance to require completion ofan appropriate clinical study demonstrating equivalence of the drug to the drug as manufactured without the change; or
+&emsp;&emsp;(B) is determined by the Secretary by regulation or guidance to require completion of an appropriate clinical study demonstrating equivalence of the drug to the drug as manufactured without the change; or
 
 &emsp;&emsp;(C) is another type of change determined by the Secretary by regulation or guidance to have a substantial potential to adversely affect the safety or effectiveness of the drug.
 

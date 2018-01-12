@@ -90,7 +90,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 &emsp;(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
 
-(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan.14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
+(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
 
 #### References in Text
 

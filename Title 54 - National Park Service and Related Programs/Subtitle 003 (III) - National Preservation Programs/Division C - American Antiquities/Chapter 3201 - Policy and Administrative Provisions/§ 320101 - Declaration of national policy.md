@@ -124,7 +124,7 @@ Knife River Indian Villages National Historic Site, North Dakota.—Pub. L. 93�
 
 Lincoln Home National Historic Site, Illinois.—Pub. L. 92–127, Aug. 18, 1971, 85 Stat. 347; Pub. L. 94–578, title I, §101(7), Oct. 21, 1976, 90 Stat. 2732.
 
-Little Rock Central High School National Historic Site, Arkansas.—Pub. L. 105–356, Nov. 6, 1998, 112 Stat. 3268.
+Little Rock Central High School National Historic Site, Arkansas.—Pub. L. 105–356, Nov. 6, 1998, 112 Stat. 3268; Pub. L. 115–117, Jan. 12, 2018, 131 Stat. 2283.
 
 Longfellow House-Washington's Headquarters \[formerly Longfellow\] National Historic Site, Massachusetts.—Pub. L. 92–475, Oct. 9, 1972, 86 Stat. 791; Pub. L. 111–333, Dec. 22, 2010, 124 Stat. 3581.
 
@@ -138,7 +138,7 @@ Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 
 
 Mar-A-Lago National Historic Site, Florida \[redesignated Mar-A-Lago National Historic Landmark by Pub. L. 96–586, §4(a)(2), Dec. 23, 1980, 94 Stat. 3386 (16 U.S.C. 467a note)\].—Designated Jan. 16, 1969; Pub. L. 92–527, Oct. 21, 1972, 86 Stat. 1049; repealed by Pub. L. 96–586, §4(a)(1), Dec. 23, 1980, 94 Stat. 3386.
 
-Martin Luther King, Junior, National Historic Site, Georgia.—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768; Pub. L. 108–314, Oct. 5, 2004, 118 Stat. 1198.
+Martin Luther King, Junior, National Historic Site, Georgia \[redesignated Martin Luther King, Jr. National Historical Park by Pub. L. 115–108, §3, Jan. 8, 2018, 131 Stat. 2267 (16 U.S.C. 460bbbb et seq.)\].—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768; Pub. L. 108–314, Oct. 5, 2004, 118 Stat. 1198.
 
 Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, §101(a)(6), Oct. 26, 1974, 88 Stat. 1462; Pub. L. 111–11, title VII, §7112, Mar. 30, 2009, 123 Stat. 1201.
 
@@ -222,7 +222,7 @@ Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat
 
 Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, §141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, §8202, Mar. 30, 2009, 123 Stat. 1292; Pub. L. 113–6, div. F, title IV, §1404(c), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(c), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(A), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
 
-Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(G), (2), Dec. 19, 2014, 128 Stat. 3802.
+Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(G), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 115–31, div. G, title I, §115(b), May 5, 2017, 131 Stat. 461.
 
 Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and South Carolina.—Pub. L. 109–338, title II, §§295–295L, Oct. 12, 2006, 120 Stat. 1832–1837; Pub. L. 114–233, §1, Oct. 7, 2016, 130 Stat. 962.
 
@@ -254,7 +254,7 @@ Automobile National Heritage Area (see MotorCities National Heritage Area, Michi
 
 Baltimore National Heritage Area, Maryland.—Pub. L. 111–11, title VIII, §8005, Mar. 30, 2009, 123 Stat. 1247; Pub. L. 114–289, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1490.
 
-Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274.
+Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274; Pub. L. 115–31, div. G, title I, §115(a), May 5, 2017, 131 Stat. 461.
 
 Cache La Poudre River National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8002, Mar. 30, 2009, 123 Stat. 1229.
 

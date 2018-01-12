@@ -102,7 +102,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (4) If the Secretary of Health and Human Services approves an initial application, the applicant has 45 days in which to provide a final application that sets forth a reasonable plan to finance the approved program.
 
-(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public record of all actions taken in response to an application.
+(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public recordof all actions taken in response to an application.
 
 #### (f) Making property available to representatives of homeless
 

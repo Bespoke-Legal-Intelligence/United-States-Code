@@ -20,7 +20,7 @@
 
 &emsp;(4) With respect to the International Bank for Reconstruction and Development, the establishment of a program for policy-based lending to promote the sustainable use of renewable resources and the protection of the environment in borrowing countries.
 
-&emsp;(5) An increase in the length of any review period established by any multilateral development bank for board review of staff recommendations by such time as would be sufficient to allow the governments of member countries to review and comment on the staff recommendations before any action is taken by the board of directors of such bank on the recommendations.
+&emsp;(5) An increase in the length of any review period established by any multilateral development bank for board review of staff recommendations by such time as would be sufficient to allow the governments of member countries to review and comment on the staff recommendations before any action is takenby the board of directors of such bank on the recommendations.
 
 (b) The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to request the management of such bank to prepare an annual report which identifies and describes the most exemplary lending practices or loan components implemented during the preceding year with respect to each of the following lending policy goals for each major borrowing country or country group:
 

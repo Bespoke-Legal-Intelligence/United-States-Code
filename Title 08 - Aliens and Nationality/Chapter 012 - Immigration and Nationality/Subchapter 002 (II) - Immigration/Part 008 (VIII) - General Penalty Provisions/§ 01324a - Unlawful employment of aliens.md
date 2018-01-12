@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) and the individual is an aliennot authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
 
 #### (ii) Rebuttal of presumption
 
@@ -112,7 +112,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (2) Individual attestation of employment authorization
 
-&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the United States, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney Generalto be hired, recruited, or referred for such employment. Such attestation may be manifested by either a hand-written or an electronic signature.
+&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the United States, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney General to be hired, recruited, or referred for such employment. Such attestation may be manifested by either a hand-written or an electronic signature.
 
 #### (3) Retention of verification form
 
@@ -154,7 +154,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (C) Exception for pattern or practice violators
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a person or entity that has or is engaging in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2).
+&emsp;&emsp;Subparagraph (A) shall not apply to a person or entity that has or is engaging in apattern or practice of violations of subsection (a)(1)(A) or (a)(2).
 
 #### (c) No authorization of national identification cards
 
@@ -298,7 +298,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (C) Issuance of orders
 
-&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1), the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (4), (5), or (6).
+&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1), the administrative law judge shall state his findings of fact and issue and cause to be served on such personor entity an order described in paragraph (4), (5), or (6).
 
 #### (4) Cease and desist order with civil money penalty for hiring, recruiting, and referral violations
 
@@ -330,7 +330,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (7) Administrative appellate review
 
-&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unlesseither (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
+&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
 
 #### (8) Judicial review
 
@@ -354,7 +354,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Prohibition
 
-&emsp;It is unlawful for a person or other entity, in the hiring, recruiting, or referring for employment of any individual, to require the individual to post a bond or security, to pay or agree to pay an amount, or otherwise to provide a financial guarantee or indemnity, against any potential liability arising under this section relating to such hiring, recruiting, or referring of the individual.
+&emsp;It is unlawful for a person or other entity, in the hiring, recruiting, or referring for employment of any individual, to require the individual to post a bond or security, to pay or agree to pay an amount, or otherwise to provide a financial guarantee or indemnity, against any potential liability arising under this sectionrelating to such hiring, recruiting, or referring of the individual.
 
 #### (2) Civil penalty
 
@@ -384,7 +384,7 @@ The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted "Such attestation may be manifested by eithera hand-written or an electronic signature." before "A person or entity has complied" in concluding provisions.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted "Such attestation may be manifested by either a hand-written or an electronic signature." before "A person or entity has complied" in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 108–390, §1(a)(2), inserted at end "Such attestation may be manifested by either a hand-written or an electronic signature."
 
@@ -468,7 +468,7 @@ Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–
 
 "(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Secretary of Homeland Security shall designate.
 
-"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on orafter 60 days after the date of the enactment of this Act.
+"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on or after 60 days after the date of the enactment of this Act.
 
 "(3) The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
@@ -738,7 +738,7 @@ Limitation of requirement to examine documentation.—If the Secretary of Homela
 
 &emsp;&emsp;&emsp;"(ii) the individual is claiming the identity of another person,
 
-&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
+&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a documentspecified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
 
 &emsp;"(3)
 
@@ -778,7 +778,7 @@ Contest.—If the individual does contest the nonconfirmation, the individual sh
 
 &emsp;&emsp;&emsp;"(iv)
 
-Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similarform an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
+Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
 
 &emsp;&emsp;"(C)
 
@@ -870,7 +870,7 @@ Protection From Liability for Actions Taken on the Basis of Information Provided
 
 In General.—The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—
 
-&emsp;"(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) atany time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
+&emsp;"(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
 
 &emsp;"(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
 
@@ -946,9 +946,11 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
 
-\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
+\[Pub. L. 115–31, div. F, title V, §539, May 5, 2017, 131 Stat. 432, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
-\[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
+\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
+
+\[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
 
 \[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
 
@@ -1036,7 +1038,7 @@ This order is designed to promote economy and efficiency in Federal Government p
 
 Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federal workforce. Private employers that choose to contract with the Federal Government should meet the same standard.
 
-I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verification system designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
+I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verificationsystem designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including subsection 121(a) of title 40 and section 301 of title 3, United States Code, it is hereby ordered as follows:
 

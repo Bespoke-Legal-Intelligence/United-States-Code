@@ -6,7 +6,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;(1) prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of cost estimation and cost analysis for the acquisition programs of the Department of Defense;
 
-&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary ofDefense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title or a major automated information system program under chapter 144A of this title;
+&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
 
 &emsp;(3) issue guidance relating to the proper discussion of risk in cost estimates generally, and specifically, for the proper discussion of risk in cost estimates for major defense acquisition programs and major subprograms;
 
@@ -26,7 +26,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;&emsp;&emsp;(iv) any report under section 2445c(f) of this title; and
 
-&emsp;&emsp;(B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics, or upon the request of the milestone decision authority <sup>1</sup>
+&emsp;&emsp;(B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics, or upon the request of the milestone decision authority;
 
 &emsp;(7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department's needs for realistic cost estimation; and
 
@@ -70,7 +70,7 @@ Participation, Concurrence, and Approval in Cost Estimation.—The Director of C
 
 Discussion of Risk in Cost Estimates.—The Director of Cost Assessment and Program Evaluation, and the Secretary of the military department concerned or the head of the Defense Agency concerned (as applicable), shall each—
 
-&emsp;(1) issue guidance requiring a discussion of risk, the potential impacts of risk on programcosts, and approaches to mitigate risk in cost estimates for major defense acquisition programs and major subprograms;
+&emsp;(1) issue guidance requiring a discussion of risk, the potential impacts of risk on program costs, and approaches to mitigate risk in cost estimates for major defense acquisition programs and major subprograms;
 
 &emsp;(2) ensure that cost estimates are developed, to the extent practicable, based on historical actual cost information that is based on demonstrated contractor and Government performance and that such estimates provide a high degree of confidence that the program or subprogram can be completed without the need for significant adjustment to program budgets; and
 
@@ -114,13 +114,11 @@ Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment an
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292.)
-
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, subsection (a)(2) of this section is amended by striking out "or a major automated information system program under chapter 144A of this title". See 2016 Amendment note below.</i>
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div.A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(6)(B). Pub. L. 115–91 inserted semicolon at end.
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §846(3), which directed striking out "or a major automated information system under chapter 144A of this title", was executed by striking out "or a major automated information system program under chapter 144A of this title" before semicolon at end, to reflect the probable intent of Congress.
 
@@ -207,6 +205,4 @@ Subsecs. (f), (g). Pub. L. 111–383, §811(2), redesignated subsecs. (e) and (f
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided that the amendment made by section 846(3) is effective Sept. 30, 2017.
-
-<i><sup>1</sup></i><i> So in original. A semicolon probably should appear.</i>
 

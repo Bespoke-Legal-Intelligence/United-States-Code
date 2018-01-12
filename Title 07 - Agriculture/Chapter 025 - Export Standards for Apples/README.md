@@ -12,6 +12,7 @@
 | [588\.](%C2%A7%2000588%20-%20Separability.md) | Separability. |
 | [589\.](%C2%A7%2000589%20-%20Definitions.md) | Definitions. |
 | [590\.](%C2%A7%2000590%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [590a.](%C2%A7%2000590a%20-%20Estimates%20of%20apple%20production.md) | Estimates of apple production. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,3 +31,4 @@
 - [&sect; 00588 - Separability](%C2%A7%2000588%20-%20Separability.md)
 - [&sect; 00589 - Definitions](%C2%A7%2000589%20-%20Definitions.md)
 - [&sect; 00590 - Authorization of appropriations](%C2%A7%2000590%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00590a - Estimates of apple production](%C2%A7%2000590a%20-%20Estimates%20of%20apple%20production.md)

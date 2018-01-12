@@ -92,7 +92,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (2) Applicable standards
 
-&emsp;Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
+&emsp;Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI orASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 
 (Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, §501(2), Jan. 17, 2014, 128 Stat. 209.)
 

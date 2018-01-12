@@ -142,7 +142,7 @@ Types of contracts that may be used.—The Federal Acquisition Regulation shall 
 
 &emsp;&emsp;&emsp;(ii) a prohibition on use of cost type contracts; and
 
-&emsp;&emsp;&emsp;(iii) subject to subparagraph (B), authority for use of a time-and-materials or labor-hour contract for the procurement of commercial services that are commonly sold to the general public through those contracts and are purchased by the procuring agency on a competitive basis.
+&emsp;&emsp;&emsp;(iii) subject to subparagraph (B), authority for use of a time-and-materials orlabor-hour contract for the procurement of commercial services that are commonly sold to the general public through those contracts and are purchased by the procuring agency on a competitive basis.
 
 &emsp;&emsp;(B)
 

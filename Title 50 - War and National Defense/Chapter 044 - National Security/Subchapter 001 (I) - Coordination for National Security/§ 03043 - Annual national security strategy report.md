@@ -70,7 +70,7 @@ Contents of guidance.—The guidance required under paragraph (1) shall include 
 
 &emsp;&emsp;&emsp;"(iii) How such programs would be implemented.
 
-&emsp;&emsp;&emsp;"(iv) How such programs would support the national security priorities and interests of the United States and complement other efforts of the United States Government in the area and in other specified geographic areas.
+&emsp;&emsp;&emsp;"(iv) How such programs would support the national security priorities and interests of theUnited States and complement other efforts of the United States Government in the area and in other specified geographic areas.
 
 &emsp;&emsp;"(D) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
 

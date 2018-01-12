@@ -16,7 +16,7 @@ Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall no
 
 #### (1) In general
 
-&emsp;This subchapter shall not prohibit a religious corporation, association, educational institution, or society from giving preference inemployment to individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities.
+&emsp;This subchapter shall not prohibit a religious corporation, association, educational institution, or society from giving preference in employment to individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities.
 
 #### (2) Religious tenets requirement
 
@@ -59,6 +59,10 @@ This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
+
+#### Effective Date
+
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under section 12111 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "transmissibility".</i>
 

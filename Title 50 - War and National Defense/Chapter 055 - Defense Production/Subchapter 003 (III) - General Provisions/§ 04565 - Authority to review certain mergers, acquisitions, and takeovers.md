@@ -18,7 +18,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Foreign government-controlled transaction
 
-&emsp;The term "foreign government-controlled transaction" means any covered transaction that could result in the control of any person engaged in interstate commerce in the United States by a foreign government or an entity controlled by or acting on behalf of a foreign government.
+&emsp;The term "foreign government-controlled transaction" means any covered transactionthat could result in the control of any person engaged in interstate commerce in the United States by a foreign government or an entity controlled by or acting on behalf of a foreign government.
 
 #### (5) Clarification
 
@@ -164,7 +164,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(IV) to the chair and ranking member of the Committee on Financial Services of the House of Representatives and of any committee of the House of Representatives having oversight over the lead agency; and
 
-&emsp;&emsp;&emsp;&emsp;(V) with respect to covered transactions involving critical infrastructure, to the members of the Senate from the State in which the principal place of business of the acquired United States person is located, and the member from the Congressional District in which such principal place of business is located.
+&emsp;&emsp;&emsp;&emsp;(V) with respect to covered transactions involving critical infrastructure,to the members of the Senate from the State in which the principal place of business of the acquired United States person is located, and the member from the Congressional District in which such principal place of business is located.
 
 #### (iv) Signatures; limit on delegation
 
@@ -230,7 +230,7 @@ Any information or documentary material filed with the President or the Presiden
 
 #### (2) Announcement by the President
 
-&emsp;The President shall announce the decision on whether or not to take action pursuant to paragraph (1) not later than 15 days after the date on which an investigation described in subsection (b) is completed.
+&emsp;The President shall announce the decision on whether or not to take action pursuant toparagraph (1) not later than 15 days after the date on which an investigation described in subsection (b) is completed.
 
 #### (3) Enforcement
 
@@ -396,7 +396,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (7) Meetings
 
-&emsp;The Committee shall meet upon the direction of the President or upon the call of the chairperson, without regard to section 552b of title 5 (if otherwise applicable).
+&emsp;The Committee shall meet upon the direction of the President or upon the call of thechairperson, without regard to section 552b of title 5 (if otherwise applicable).
 
 #### (l) Mitigation, tracking, and postconsummation monitoring and enforcement
 
@@ -670,7 +670,7 @@ Sec. 6. <i>Reviews and Investigations.</i>
 
 Sec. 7. <i>Risk Mitigation</i>. (a) The Committee, or any lead agency acting on behalf of the Committee, may seek to mitigate any national security risk posed by a transaction that is not adequately addressed by other provisions of law by entering into a mitigation agreement with the parties to a transaction or by imposing conditions on such parties.
 
-(b) Prior to the Committee or a department or agency proposing risk mitigation measures to the parties to a transaction, the department or agency seeking to propose any such measure shall prepare and provide to the Committee a written statement that: (1) identifies the national security risk posed by the transaction based on factors including the threat (taking into account the Director of National Intelligence's threat analysis), vulnerabilities, and potential consequences; and (2) sets forth the risk mitigation measures the department or agency believes are reasonably necessary to address the risk. If the Committee agrees that mitigation is appropriate and approves the risk mitigation measures, the lead agency shall seek to negotiate such measures with the parties to the transaction.
+(b) Prior to the Committee or a department or agency proposing risk mitigation measures to the parties to a transaction, the department or agency seeking to propose any such measure shall prepare and provide to the Committee a written statement that: (1) identifies the national security risk posed by the transaction based on factors including the threat (taking into account the Director of National Intelligence's threat analysis), vulnerabilities, and potential consequences; and (2) sets forth the risk mitigation measures the department oragency believes are reasonably necessary to address the risk. If the Committee agrees that mitigation is appropriate and approves the risk mitigation measures, the lead agency shall seek to negotiate such measures with the parties to the transaction.
 
 (c) A risk mitigation measure shall not, except in extraordinary circumstances, require that a party to a transaction recognize, state its intent to comply with, or consent to the exercise of any authorities under existing provisions of law.
 

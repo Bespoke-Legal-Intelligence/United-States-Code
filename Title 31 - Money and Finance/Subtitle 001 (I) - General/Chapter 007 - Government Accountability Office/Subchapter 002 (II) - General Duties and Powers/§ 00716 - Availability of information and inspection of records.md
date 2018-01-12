@@ -1,6 +1,8 @@
 ### §716. Availability of information and inspection of records
 
-(a) Each agency shall give the Comptroller General information the Comptroller General requires about the duties, powers, activities, organization, and financial transactions of the agency. The Comptroller General may inspect an agency record to get the information. This subsection does not apply to expenditures made under section 3524 or 3526(e) of this title.
+(a)(1) The Comptroller General is authorized to obtain such agency records as the Comptroller General requires to discharge the duties of the Comptroller General (including audit, evaluation, and investigative duties), including through the bringing of civil actions under this section. In reviewing a civil action under this section, the court shall recognize the continuing force and effect of the authorization in the preceding sentence until such time as the authorization is repealed pursuant to law.
+
+(2) Each agency shall give the Comptroller General information the Comptroller General requires about the duties, powers, activities, organization, and financial transactions of the agency. The Comptroller General may inspect an agency record to get the information. This subsection does not apply to expenditures made under section 3524 or 3526(e) of this title.
 
 (b)(1) When an agency record is not made available to the Comptroller General within a reasonable time, the Comptroller General may make a written request to the head of the agency. The request shall state the authority for inspecting the records and the reason for the inspection. The head of the agency has 20 days after receiving the request to respond. The response shall describe the record withheld and the reason the record is being withheld. If the Comptroller General is not given an opportunity to inspect the record within the 20-day period, the Comptroller General may file a report with the President, the Director of the Office of Management and Budget, the Attorney General, the head of the agency, and Congress.
 
@@ -38,7 +40,7 @@
 
 (3) This section does not authorize information to be withheld from Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 892; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 892; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–3, §2(c), Jan. 31, 2017, 131 Stat. 7.)
 
 Historical and Revision Notes
 
@@ -72,7 +74,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §313(b)–(f); added Apr. 3, 1980, Pub. L. 
 
 31:54(e), (f).
 
-In the section, the word "records" is substituted for "books, documents, papers, or records", "books, records, correspondence, memoranda, papers, and documents", and "written information, books, documents, papers, or records" for consistency in the revised titleand with other titles of the United States Code. The word "Congress" is substituted for "Speaker of the House of Representatives, and the President of the Senate" for consistency in the revised title.
+In the section, the word "records" is substituted for "books, documents, papers, or records", "books, records, correspondence, memoranda, papers, and documents", and "written information, books, documents, papers, or records" for consistency in the revised title and with other titles of the United States Code. The word "Congress" is substituted for "Speaker of the House of Representatives, and the President of the Senate" for consistency in the revised title.
 
 In subsections (a) and (b), the word "agency" is substituted for "departments and establishments" because of section 701 of the revised title.
 
@@ -93,6 +95,8 @@ In subsection (d)(1), before clause (A), the words "requiring the production of 
 In subsection (e)(1), the words "the head of" are added for consistency. The words "from which such material was obtained" are omitted as surplus.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–3 added par. (1) and redesignated existing provisions as par. (2).
 
 <b>2004</b>—Subsec. (e)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

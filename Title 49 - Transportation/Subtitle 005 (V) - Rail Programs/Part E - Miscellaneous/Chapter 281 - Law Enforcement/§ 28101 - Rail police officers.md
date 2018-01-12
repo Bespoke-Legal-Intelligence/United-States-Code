@@ -14,7 +14,7 @@ In General.—Under regulations prescribed by the Secretary of Transportation, a
 
 (b)
 
-Assignment.—A railroad police officer directly employed by or contracted by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee or agent, as applicable, of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
+Assignment.—A railroad police officer directly employed by or contracted by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee or agent, as applicable,of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
 
 (c)
 
@@ -64,7 +64,7 @@ The words "to the extent of the authority of a police officer certified or commi
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §11412(a)(1), substituted "directly employed by or contracted by" for "employed by" in introductory provisions.
 
-Subsec. (b). Pub. L. 114–94, §11412(a)(1), (2), substituted "directly employed by or contracted by" for"employed by" and inserted "or agent, as applicable," after "an employee".
+Subsec. (b). Pub. L. 114–94, §11412(a)(1), (2), substituted "directly employed by or contracted by" for "employed by" and inserted "or agent, as applicable," after "an employee".
 
 Subsecs. (c), (d). Pub. L. 114–94, §11412(a)(3), added subsecs. (c) and (d).
 

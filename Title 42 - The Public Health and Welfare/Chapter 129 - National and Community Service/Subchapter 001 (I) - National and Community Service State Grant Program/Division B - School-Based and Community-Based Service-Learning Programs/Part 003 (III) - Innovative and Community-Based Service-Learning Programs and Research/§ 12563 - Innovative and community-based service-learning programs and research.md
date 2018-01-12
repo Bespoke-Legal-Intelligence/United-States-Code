@@ -136,7 +136,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 #### (2) Collaboration encouraged
 
-&emsp;Each entity carrying out a program or activity funded under this part shall, to the extent practicable, collaborate with entities carrying out programs under this division, division C, and titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq., 5001 et seq.).
+&emsp;Each entity carrying out a program or activity funded under this part shall, to the extent practicable, collaborate with entities carryingout programs under this division, division C, and titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq., 5001 et seq.).
 
 #### (3) Evaluation
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date
 
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
 <i><sup>1</sup></i><i> So in original. Clause (v) does not contain subclauses.</i>
 

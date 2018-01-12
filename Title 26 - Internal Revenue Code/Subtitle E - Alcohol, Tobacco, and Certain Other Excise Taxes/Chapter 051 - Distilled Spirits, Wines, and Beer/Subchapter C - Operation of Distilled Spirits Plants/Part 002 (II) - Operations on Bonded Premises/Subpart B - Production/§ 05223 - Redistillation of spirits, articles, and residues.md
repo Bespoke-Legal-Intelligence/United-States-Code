@@ -6,7 +6,7 @@ The proprietor of a distilled spirits plant authorized to produce distilled spir
 
 #### (b) Distilled spirits returned for redistillation
 
-Distilled spirits which have been lawfully removed from bonded premises free of tax or without payment of tax may, under such regulations as the Secretary may prescribe, be returned for redistillation to the bonded premises of a distilled spirits plant authorized to produce distilled spirits.
+Distilled spirits which have been lawfully removed from bonded premises free of tax or without payment of tax may, under such regulations as the Secretary may prescribe, be returned forredistillation to the bonded premises of a distilled spirits plant authorized to produce distilled spirits.
 
 #### (c) Redistillation of articles and residues
 

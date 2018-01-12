@@ -4,7 +4,7 @@
 
 #### (A) In general
 
-&emsp;Not later than 5 years after July 22, 2016, except as otherwise provided in this section,<sup>1</sup> the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall complete an evaluation of any program administered by the Secretary included in this Act (or an amendment made by this Act, excluding sections 703 through 707), including any grant administered by the Administrator of the Substance Abuse and Mental Health Services Administration under section 1536 of title 21, that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the outcomes and metrics identified under paragraph (2).
+&emsp;Not later than 5 years after July 22, 2016, except as otherwise provided in this section,<sup>1</sup> the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall complete an evaluation of any program administered by the Secretary included in thisAct (or an amendment made by this Act, excluding sections 703 through 707), including any grant administered by the Administrator of the Substance Abuse and Mental Health Services Administration under section 1536 of title 21, that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the outcomes and metrics identified under paragraph (2).
 
 #### (B) Publication
 
@@ -48,7 +48,7 @@ If a program described in paragraph (1)(A) is subject to an evaluation similar t
 
 #### References in Text
 
-This section, the first time appearing in par. (1)(A), is section 701 of Pub. L. 114–198, July 22, 2016, 130 Stat. 739, which enacted this section, sections 290aa–15, 3797ff–5, and 3797ff–6 of this title, and provisions set out as a note under section 290aa–15 of this title.
+This section, the first time appearing in par. (1)(A), is section 701 of Pub. L. 114–198, July 22, 2016, 130 Stat. 739, which enacted this section, section 290aa–15 of this title, sections 10706 and 10707 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under section 290aa–15 of this title.
 
 This Act, referred to in par. (1)(A), is Pub. L. 114–198, July 22, 2016, 130 Stat. 695, known as the Comprehensive Addiction and Recovery Act of 2016. Section 703 of the Act is not classified to the Code, and sections 704 to 707 of the Act enacted section 1320a–7n of this title, amended sections 1395w–101, 1395w–104, 1395w–152, 1395ddd, 1395iii, 1396a, 1396r–8, 1396w–1, and 1397bb of this title, and enacted provisions set out as notes under sections 1395w–101 and 1396r–8 of this title. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under section 201 of this title and Tables.
 

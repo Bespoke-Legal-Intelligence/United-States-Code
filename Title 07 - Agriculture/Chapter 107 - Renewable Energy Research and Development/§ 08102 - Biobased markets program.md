@@ -34,7 +34,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procure items described in that subparagraph if the procuring agency determines that the items—
+&emsp;&emsp;Notwithstanding subparagraph (A), a procuring agency may decide not to procureitems described in that subparagraph if the procuring agency determines that the items—
 
 &emsp;&emsp;&emsp;(i) are not reasonably available within a reasonable period of time;
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) encourage the purchase of products with the maximum biobased content;
 
-&emsp;&emsp;&emsp;(ii) provide that the Secretary may designate as biobased for the purposes of the voluntary program established under thissubsection finished products that contain significant portions of biobased materials or components; and
+&emsp;&emsp;&emsp;(ii) provide that the Secretary may designate as biobased for the purposes of the voluntary program established under this subsection finished products that contain significant portions of biobased materials or components; and
 
 &emsp;&emsp;&emsp;(iii) to the maximum extent practicable, be consistent with the guidelines issued under subsection (a)(3).
 
@@ -204,7 +204,7 @@
 
 #### (4) Assembled and finished products
 
-&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria for determining which assembled and finished products may qualify to receive the label under paragraph (1).
+&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria fordetermining which assembled and finished products may qualify to receive the label under paragraph (1).
 
 #### (c) Recognition
 
@@ -376,7 +376,7 @@ Sec. 3. <i>Changes in Procurement Mechanisms</i>. Several actions can be taken t
 
 (d) the Secretary of Agriculture to amend USDA's automated contract writing system, the Integrated Acquisition System, to serve as a model for biobased product procurement throughout the Federal Government by adding elements related to acquisition planning, evaluation factors for source selection, and specifications and requirements. Once completed, USDA shall share the model with all agencies and, as appropriate, assist any agency efforts to adopt similar mechanisms.
 
-Sec. 4. <i>Small Business Assistance</i>. A majority of the biobased product manufacturers and vendors selling biobased products and services that use biobased products to the Federal Government are small businesses. To improve the ability of small businesses to sell these products and services to the Federal Government, I direct:
+Sec. 4. <i>Small Business Assistance</i>. A majority of the biobased product manufacturers and vendors sellingbiobased products and services that use biobased products to the Federal Government are small businesses. To improve the ability of small businesses to sell these products and services to the Federal Government, I direct:
 
 (a) the Secretary of Commerce, in consultation with the Secretary of Agriculture, to use relevant programs of the Department, such as the Manufacturing Extension Partnership network, to improve the performance and competitiveness of biobased product manufacturers;
 

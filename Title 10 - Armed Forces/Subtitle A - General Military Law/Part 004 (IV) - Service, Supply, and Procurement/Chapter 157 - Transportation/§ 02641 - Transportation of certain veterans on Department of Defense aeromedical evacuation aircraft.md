@@ -4,7 +4,7 @@
 
 (b) Transportation under this section shall be provided in accordance with an agreement entered into between the Secretary of Defense and the Secretary of Veterans Affairs. Such an agreement shall provide that transportation may be furnished to a veteran (or for the remains of a veteran) on an aircraft referred to in subsection (a) only if—
 
-&emsp;(1) the Secretary of Veterans Affairs notifies the Secretary of Defense that the veteran needs or has been furnished medical care or services in a Department of Veterans Affairs facility and the Secretary of Veterans Affairs requests such transportation in connection with the travel of such veteran (or of the remains of such veteran) to or from the Department of Veterans Affairs facility where the care or services are to be furnished or were furnished to such veteran;
+&emsp;(1) the Secretary of Veterans Affairs notifies the Secretary of Defense that the veteran needs or has been furnished medical care or services in a Department of Veterans Affairs facility and the Secretary of Veterans Affairs requests such transportation in connection with the travel of such veteran (or of the remains of such veteran) to or from the Department of Veterans Affairs facility where thecare or services are to be furnished or were furnished to such veteran;
 
 &emsp;(2) there is space available for the veteran (or the remains of the veteran) on the aircraft; and
 
@@ -18,7 +18,7 @@
 
 (e) In this section, the term "veteran" has the meaning given that term in section 101(2) of title 38.
 
-(Added Pub. L. 100–180, div. A, title XII, §1250(a)(1), Dec. 4, 1987, 101 Stat. 1167; amendedPub. L. 101–189, div. A, title XVI, §1621(a)(1), (2), (8), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 103–337, div. A, title VI, §652(b), title X, §1070(e)(8), Oct. 5, 1994, 108 Stat. 2794, 2859.)
+(Added Pub. L. 100–180, div. A, title XII, §1250(a)(1), Dec. 4, 1987, 101 Stat. 1167; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(1), (2), (8), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 103–337, div. A, title VI, §652(b), title X, §1070(e)(8), Oct. 5, 1994, 108 Stat. 2794, 2859.)
 
 #### Amendments
 

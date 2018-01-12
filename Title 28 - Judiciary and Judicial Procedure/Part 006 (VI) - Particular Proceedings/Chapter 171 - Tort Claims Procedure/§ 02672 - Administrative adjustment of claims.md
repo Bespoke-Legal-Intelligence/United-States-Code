@@ -44,5 +44,5 @@ Pub. L. 89–506, §10, July 18, 1966, 80 Stat. 308, provided that: "This Act \[
 
 #### Laws Unaffected
 
-Act Aug. 2, 1946, ch. 753, title IV, §424(b), 60 Stat. 847, provided that: "Nothing contained herein shall bedeemed to repeal any provision of law authorizing any Federal agency to consider, ascertain, adjust, settle, determine, or pay any claim on account of damage to or loss of property or on account of personal injury or death, in cases in which such damage, loss, injury, or death was not caused by any negligent or wrongful act or omission of an employee of the Government while acting within the scope of his office or employment, or any other claim not cognizable under part 2 of this title."
+Act Aug. 2, 1946, ch. 753, title IV, §424(b), 60 Stat. 847, provided that: "Nothing contained herein shall be deemed to repeal any provision of law authorizing any Federal agency to consider, ascertain, adjust, settle, determine, or pay any claim on account of damage to or loss of property or on account of personal injury or death, in cases in which such damage, loss, injury, or death was not caused by any negligent or wrongful act or omission of an employee of the Government while acting within the scope of his office or employment, or any other claim not cognizable under part 2 of this title."
 

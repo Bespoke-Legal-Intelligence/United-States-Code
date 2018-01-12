@@ -1,0 +1,6 @@
+### §3796ee–9. Transferred
+
+#### Codification
+
+Section 3796ee–9 was editorially reclassified as section 10410 of Title 34, Crime Control and Law Enforcement.
+

@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) oil and gas extraction taxes, and
 
-&emsp;&emsp;(B) any income, war profits, and excess profits taxes paid or accrued (or deemed to have been paid or accrued under section 902 or 960) during the taxable year with respect to foreign oil related income (determined without regard to subsection (c)(4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
+&emsp;&emsp;(B) any income, war profits, and excess profits taxes paid or accrued (or deemed to have been paid or accrued under section 960) during the taxable year with respect to foreign oil related income (determined without regard to subsection (c)(4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
 
 #### (c) Foreign income definitions and special rules
 
@@ -66,9 +66,9 @@ For purposes of this section—
 
 &emsp;The term "foreign oil and gas extraction income" and the term "foreign oil related income" include—
 
-&emsp;&emsp;(A) dividends and interest from a foreign corporation in respect of which taxes are deemed paid by the taxpayer under section 902,
+&emsp;&emsp;(A) interest, to the extent the category of income of such interest is determined under section 904(d)(3),
 
-&emsp;&emsp;(B) amounts with respect to which taxes are deemed paid under section 960(a), and
+&emsp;&emsp;(B) amounts with respect to which taxes are deemed paid under section 960, and
 
 &emsp;&emsp;(C) the taxpayer's distributive share of the income of partnerships.<sup>1</sup>
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the excess of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of foreign oil extraction losses for preceding taxableyears beginning after December 31, 1982, and before January 1, 2009, over
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of foreign oil extraction losses for preceding taxable years beginning after December 31, 1982, and before January 1, 2009, over
 
 &emsp;&emsp;&emsp;&emsp;(II) so much of such aggregate amount as was recharacterized under this paragraph (as in effect before and after the date of the enactment of the Energy Improvement and Extension Act of 2008) for preceding taxable years beginning after December 31, 1982.
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (5) Oil and gas extraction taxes
 
-&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 902 or 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
+&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
 
 #### (d) Disregard of certain posted prices, etc.
 
@@ -166,7 +166,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;&emsp;(B) the amount by which the limitation provided by section 904 for such taxable year exceeds the sum of—
 
-&emsp;&emsp;&emsp;(i) the taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during such taxable year,
+&emsp;&emsp;&emsp;(i) the taxes paid or accrued (or deemed to have been paid under section 960) to all foreign countries and possessions of the United States during such taxable year,
 
 &emsp;&emsp;&emsp;(ii) the amount of such taxes which were deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus
 
@@ -188,7 +188,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;&emsp;In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
 
-(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854; Pub. L. 113–295, div. A, title II, §210(e), Dec. 19, 2014, 128 Stat. 4031.)
+(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854; Pub. L. 113–295, div. A, title II, §210(e), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 115–97, title I, §14301(c)(24)–(27), Dec. 22, 2017, 131 Stat. 2223, 2224.)
 
 #### References in Text
 
@@ -196,11 +196,21 @@ The date of the enactment of the Energy Improvement and Extension Act of 2008, r
 
 Section 172(h), referred to in subsec. (c)(4)(D)(iii)(I), was repealed by Pub. L. 101–508, title XI, §11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(4)(D)(iii)(I), is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(4)(D)(iii)(I),is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
 
 The Energy Improvement and Extension Act of 2008, referred to in subsec. (f)(4)(B), is div. B of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3807. For the amendments made to subsec. (f) of this section by the Act, see 2008 Amendment notes below.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97, §14301(c)(24), struck out "902 or" after "under section".
+
+Subsec. (c)(3)(A). Pub. L. 115–97, §14301(c)(25)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "dividends and interest from a foreign corporation in respect of which taxes are deemed paid by the taxpayer under section 902,".
+
+Subsec. (c)(3)(B). Pub. L. 115–97, §14301(c)(25)(B), substituted "section 960" for "section 960(a)".
+
+Subsec. (c)(5). Pub. L. 115–97, §14301(c)(26), struck out "902 or" after "under section".
+
+Subsec. (f)(2)(B)(i). Pub. L. 115–97, §14301(c)(27), struck out "902 or" after "under section".
 
 <b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
 
@@ -275,6 +285,10 @@ Subsec. (e)(2). Pub. L. 94–455, §1031(b)(6), substituted "(d) and (e) of sect
 Subsec. (f). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), added subsec. (f). Former subsec. (f), relating to recapture of foreign oil related loss, was struck out.
 
 Subsec. (g). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), 1052(c)(4), struck out subsec. (g) relating to Western Hemisphere trade corporations which are members of an affiliated group.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -368,7 +382,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Pub. L. 94–455, title X, §1035(c), Oct. 4, 1976, 90 Stat. 1631, as amended by Pub. L. 95–600, title VII, §§701(u)(9), 703(h)(1), Nov. 6, 1978, 92 Stat. 2916, 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) For purposes of section 901 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], there shall be treated as income, war profits, and excess profits taxes to be taken into account under section 907(a) of such Code amounts designated as income taxes of a foreigngovernment by such government (which otherwise would not be treated as taxes for purposes of section 901 of such Code) with respect to production-sharing contracts for the extraction of foreign oil or gas.
+"(1) For purposes of section 901 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], there shall be treated as income, war profits, and excess profits taxes to be taken into account under section 907(a) of such Code amounts designated as income taxes of a foreign government by such government (which otherwise would not be treated as taxes for purposes of section 901 of such Code) with respect to production-sharing contracts for the extraction of foreign oil or gas.
 
 "(2) The amounts specified in paragraph (1) shall not exceed the lessor of—
 

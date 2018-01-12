@@ -128,7 +128,7 @@ In this section:
 
 #### (A) Independent evaluation
 
-&emsp;&emsp;The Secretary shall provide for an independent evaluation of projects selectedunder this subsection that measures the impact of each project on—
+&emsp;&emsp;The Secretary shall provide for an independent evaluation of projects selected under this subsection that measures the impact of each project on—
 
 &emsp;&emsp;&emsp;(i) improving the nutrition and health status of participating households receiving incentives under this subsection; and
 

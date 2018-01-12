@@ -184,7 +184,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 #### References in Text
 
-Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
+Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 
 The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 181 of this title and Tables.
 
@@ -284,7 +284,7 @@ See note set out under section 181 of this title.
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b)of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind,transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Pending Applications, Offers, and Bids
 

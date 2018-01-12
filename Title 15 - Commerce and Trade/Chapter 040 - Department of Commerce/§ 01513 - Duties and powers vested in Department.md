@@ -1,8 +1,12 @@
 ### §1513. Duties and powers vested in Department
 
-All duties performed and all power and authority possessed or exercised by the head of any executive department in and over any bureau, office, officer, board, branch, or division of thepublic service transferred to the Department of Commerce, or any business arising therefrom or pertaining thereto, or in relation to the duties performed by and authority conferred by law upon such bureau, officer, office, board, branch, or division of the public service, whether of an appellate or revisory character or otherwise, shall be vested in and exercised by the Secretary of Commerce.
+All duties performed and all power and authority possessed or exercised by the head of any executive department in and over any bureau, office, officer, board, branch, or division of the public service transferred to the Department of Commerce, or any business arising therefrom or pertaining thereto, or in relation to the duties performed by and authority conferred by law upon such bureau, officer, office, board, branch, or division of the public service, whether of an appellate or revisory character or otherwise, shall be vested in and exercised by the Secretary of Commerce.
 
 (Feb. 14, 1903, ch. 552, §10, 32 Stat. 829.)
+
+#### Change of Name
+
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 #### Codification
 

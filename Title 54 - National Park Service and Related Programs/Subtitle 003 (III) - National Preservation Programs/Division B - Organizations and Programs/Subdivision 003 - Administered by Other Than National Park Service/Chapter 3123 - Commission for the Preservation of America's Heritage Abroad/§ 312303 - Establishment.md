@@ -18,7 +18,7 @@ In general.—Except as provided in paragraph (2), a member of the Commission sh
 
 &emsp;(2)
 
-Vacancy.—A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the member's predecessor was appointed.
+Vacancy.—A member appointed to fill a vacancy on the Commission shall serve for theremainder of the term for which the member's predecessor was appointed.
 
 &emsp;(3)
 

@@ -34,7 +34,7 @@ For the purposes of this part—
 
 &emsp;(J) energy recovery systems;
 
-&emsp;(K) cogeneration systems which produce steam or forms of energy such as heat, as well as electricity for use primarily within a building or a complex of buildings owned by aschool or hospital and which meet such fuel efficiency requirements as the Secretary may by rule prescribe;
+&emsp;(K) cogeneration systems which produce steam or forms of energy such as heat, as well as electricity for use primarily within a building or a complex of buildings owned by a school or hospital and which meet such fuel efficiency requirements as the Secretary may by rule prescribe;
 
 &emsp;(L) such other measures as the Secretary identifies by rule for purposes of this part; and
 
@@ -102,7 +102,7 @@ For the purposes of this part—
 
 (17) The term "technical assistance" means assistance, under rules promulgated by the Secretary, to States, schools, and hospitals—
 
-&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as a result of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
+&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as aresult of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
 
 &emsp;(B) the planning or administration of specific remodeling, renovation, repair, replacement, or insulation projects related to the installation of energy conservation measures in such building.
 

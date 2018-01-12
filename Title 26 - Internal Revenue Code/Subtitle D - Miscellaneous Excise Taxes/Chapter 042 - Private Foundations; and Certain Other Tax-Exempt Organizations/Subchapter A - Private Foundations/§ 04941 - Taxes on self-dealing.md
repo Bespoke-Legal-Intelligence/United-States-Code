@@ -62,7 +62,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(D) the furnishing of goods, services, or facilities by a private foundation to a disqualified person shall not be an act of self-dealing if such furnishing is made on a basis no more favorable than that on which such goods, services, or facilities are made available to the general public;
 
-&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a privatefoundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
+&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a private foundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
 
 &emsp;&emsp;(F) any transaction between a private foundation and a corporation which is a disqualified person (as defined in section 4946(a)), pursuant to any liquidation, merger, redemption, recapitalization, or other corporate adjustment, organization, or reorganization, shall not be an act of self-dealing if all of the securities of the same class as that held by the foundation are subject to the same terms and such terms provide for receipt by the foundation of no less than fair market value;
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;The term "amount involved" means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
+&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of thedate on which the act of self-dealing occurs; and
 
 &emsp;&emsp;(B) in the case of the taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -190,7 +190,7 @@ Pub. L. 98–369, div. A, title III, §312, July 18, 1984, 98 Stat. 786, as amen
 
 "(a)
 
-General Rule.—Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to taxes on self-dealing) shall not apply to the purchase during 1978 of stock from a private foundation (and to any note issued in connection with such purchase) if—
+General Rule.—Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating totaxes on self-dealing) shall not apply to the purchase during 1978 of stock from a private foundation (and to any note issued in connection with such purchase) if—
 
 &emsp;"(1) consideration for such purchase equaled or exceeded the fair market value of such stock,
 

@@ -16,7 +16,7 @@ Appropriations for the National Park Service are authorized for—
 
 <b>1996</b>—Subsec. (j). Pub. L. 104–333 added subsec. (j).
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–689 authorized appropriations for the repair and maintenance of the class "C" road lying between the terminus of F.A. 383 at the east boundary of Coronado National Forest and the pointwhere said class "C" road enters Coronado National Memorial in the vicinity of Montezuma Pass.
+<b>1960</b>—Subsec. (a). Pub. L. 86–689 authorized appropriations for the repair and maintenance of the class "C" road lying between the terminus of F.A. 383 at the east boundary of Coronado National Forest and the point where said class "C" road enters Coronado National Memorial in the vicinity of Montezuma Pass.
 
 #### Change of Name
 

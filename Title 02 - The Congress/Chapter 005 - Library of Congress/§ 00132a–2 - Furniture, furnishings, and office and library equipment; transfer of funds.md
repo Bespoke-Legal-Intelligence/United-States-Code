@@ -6,7 +6,7 @@ In addition to any other transfer authority provided by law, during fiscal year 
 
 #### (b) Availability of funds
 
-Any amounts transferred pursuant to subsection (a) shall be merged with and be available for the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
+Any amounts transferred pursuant to subsection (a) shall be merged with and be availablefor the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
 
 #### (c) Approval of Congress
 

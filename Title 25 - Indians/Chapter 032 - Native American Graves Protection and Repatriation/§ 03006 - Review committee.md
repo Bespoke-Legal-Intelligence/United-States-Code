@@ -26,7 +26,7 @@ The committee established under subsection (a) shall be responsible for—
 
 &emsp;(1) designating one of the members of the committee as chairman;
 
-&emsp;(2) monitoring the inventory and identification process conducted under sections 3003 and 3004 of this title to ensure a fair, objective consideration and assessment of all available relevant information and evidence;
+&emsp;(2) monitoring the inventory and identification process conducted under sections 3003 and3004 of this title to ensure a fair, objective consideration and assessment of all available relevant information and evidence;
 
 &emsp;(3) upon the request of any affected party, reviewing and making findings related to—
 

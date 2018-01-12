@@ -16,7 +16,7 @@
 
 (c) A vessel involved in a violation of this chapter, or regulation under this chapter, and its equipment, may be seized by, and forfeited to, the Government.
 
-(d) If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.
+(d) If a person, not an individual, is involved in a violation of this chapter, the president or chiefexecutive of the person also is subject to any penalty provided under this section.
 
 (Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4737.)
 
@@ -25,4 +25,8 @@
 #### <i>Revised section 12507</i>
 
 This section establishes criminal and civil penalties for certain violations of chapter 125 of title 46 (as enacted by this Act).
+
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 

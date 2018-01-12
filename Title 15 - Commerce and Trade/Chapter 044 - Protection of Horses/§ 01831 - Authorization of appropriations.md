@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this chapter $125,000 for t
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–360 substituted provisions authorizing $125,000 to be appropriated for the period beginning July 1, 1976 and ending September 30, 1976, and $500,000to be appropriated for the fiscal year beginning October 1, 1976, and each fiscal year thereafter, to carry out the purposes of this chapter, for provisions authorizing not more than $100,000 to be appropriated annually to carry out the provisions of this chapter.
+<b>1976</b>—Pub. L. 94–360 substituted provisions authorizing $125,000 to be appropriated for the period beginning July 1, 1976 and ending September 30, 1976, and $500,000 to be appropriated for the fiscal year beginning October 1, 1976, and each fiscal year thereafter, to carry out the purposes of this chapter, for provisions authorizing not more than $100,000 to be appropriated annually to carry out the provisions of this chapter.
 
 #### Effective Date of 1976 Amendment
 

@@ -20,7 +20,7 @@ Conditions for Transfer.—The Secretary of Defense may transfer personal proper
 
 &emsp;(3) the transfer is made without the expenditure of any funds available to the Department of Defense for the procurement of defense equipment;
 
-&emsp;(4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient; and <sup>1</sup>
+&emsp;(4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient;
 
 &emsp;(5) the recipient, on an annual basis, and with the authorization of the relevant local governing body or authority, certifies that it has adopted publicly available protocols for the appropriate use of controlled property, the supervision of such use, and the evaluation of the effectiveness of such use, including auditing and accountability policies; and
 
@@ -50,7 +50,7 @@ Publicly Accessible Website.—(1) The Secretary shall create and maintain a pub
 
 Controlled Property.—In this section, the term "controlled property" means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, "Defense Materiel Disposition Manual", or any successor document.
 
-(Added Pub. L. 104–201, div. A, title X, §1033(a)(1), Sept. 23, 1996, 110 Stat. 2639; amended Pub. L. 114–92, div. A, title X, §§1051(a)–(c), 1052, Nov. 25, 2015, 129 Stat. 979–981.)
+(Added Pub. L. 104–201, div. A, title X, §1033(a)(1), Sept. 23, 1996, 110 Stat. 2639; amended Pub. L. 114–92, div. A, title X, §§1051(a)–(c), 1052, Nov. 25, 2015, 129 Stat. 979–981; Pub. L. 115–91, div. A, title X, §1081(a)(43), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ Section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, §1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, §1033(b)(1). Section 372 of this title was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(4). Pub. L. 115–91 struck out "and" at end.
 
 <b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–92, §1052(1)(A), substituted "counterdrug, counterterrorism, and border security activities" for "counter-drug and counter-terrorism activities".
 
@@ -85,6 +87,4 @@ In General.—The Secretary of Defense shall implement a formal process to provi
 "(b)
 
 Implementation Deadline.—The Secretary shall implement the process described in subsection (a) beginning not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

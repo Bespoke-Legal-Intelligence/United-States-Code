@@ -74,7 +74,7 @@ List of toxic chemicals.—Toxic chemicals which have been identified for the ap
 
 &emsp;(9)
 
-United states.—The term "United States" means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+United states.—The term "United States" means the several States of the United States, the District of Columbia, andthe commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
 &emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49, United States Code;
 

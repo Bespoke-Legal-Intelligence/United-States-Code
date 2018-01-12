@@ -50,7 +50,7 @@
 
 #### (2) Description of conditions
 
-&emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as"designated graduates"), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
+&emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as "designated graduates"), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
 &emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 

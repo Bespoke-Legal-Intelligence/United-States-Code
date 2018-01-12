@@ -52,7 +52,7 @@ Sec. 4. The Secretary of Commerce is authorized:
 
 Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
 
-Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate,are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
+Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate, are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
 
 Sec. 7. The USNA, in coordination with the interagency group designated in section 2 of this order, is authorized to determine whether disclosure of confidential business information pursuant to section 404(c) of the Act \[22 U.S.C. 6744(c)\] is in the national interest. Disclosure will not be permitted if contrary to national security or law enforcement needs.
 

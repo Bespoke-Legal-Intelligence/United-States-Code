@@ -32,11 +32,11 @@
 
 (e)(1) The Board shall inquire into the morale, discipline, and social climate, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
 
-(2) The Secretary of the Air Force and the Superintendent of the Academy shall provide theBoard candid and complete disclosure, consistent with applicable laws concerning disclosure of information, with respect to institutional problems.
+(2) The Secretary of the Air Force and the Superintendent of the Academy shall provide the Board candid and complete disclosure, consistent with applicable laws concerning disclosure of information, with respect to institutional problems.
 
 (3) The Board shall recommend appropriate action.
 
-(f) The Board shall prepare a semiannual report containing its views and recommendations pertaining to the Academy, based on its meeting since the last such report and any other considerations it determines relevant. Each such report shall be submitted concurrently to the Secretary of Defense, through the Secretary of the Air Force, and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+(f) The Board shall prepare a semiannual report containing its views and recommendationspertaining to the Academy, based on its meeting since the last such report and any other considerations it determines relevant. Each such report shall be submitted concurrently to the Secretary of Defense, through the Secretary of the Air Force, and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (g) Upon approval by the Secretary, the Board may call in advisers for consultation.
 

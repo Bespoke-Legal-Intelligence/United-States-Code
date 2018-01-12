@@ -16,7 +16,7 @@ Regulations promulgated under subsection (a) shall be applicable only to a perso
 
 #### (c) Additional authority
 
-The Secretary may conduct, and may request and utilize on a reimbursed or nonreimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
+The Secretary may conduct, and may request and utilize on a reimbursed or nonreimbursedbasis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
 
 &emsp;(1) scientific, research, and other programs under this chapter;
 

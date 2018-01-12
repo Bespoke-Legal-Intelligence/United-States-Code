@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall use a portion of such funds for the Project School Emergency Response to Violence program (in this section referred to as "Project SERV"), in order to provide education-related services to eligible entities; and
 
-&emsp;&emsp;(B) may use a portion of such funds to carry out other activities to improve students' safety and well-being, during and after the school day, under this section directly or through grants, contracts, or cooperative agreements with public or private entities or individuals, or other Federal agencies, such as providing technical assistance to States and local educational agencies carrying out activities under this section or conducting a national evaluation.
+&emsp;&emsp;(B) may use a portion of such funds to carry out other activities to improve students' safety and well-being, during and after the school day, under this section directly or through grants, contracts, or cooperative agreements with public or privateentities or individuals, or other Federal agencies, such as providing technical assistance to States and local educational agencies carrying out activities under this section or conducting a national evaluation.
 
 #### (2) Availability
 

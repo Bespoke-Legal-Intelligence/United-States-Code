@@ -115,6 +115,8 @@
 | [<b>98.</b>](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md) | <b>International Child Abduction Prevention and Return</b> | <b>9101</b> |
 | [<b>99.</b>](Chapter%20099%20-%20North%20Korea%20Sanctions%20and%20Policy%20Enhancement/README.md) | <b>North Korea Sanctions and Policy Enhancement</b> | <b>9201</b> |
 | [<b>100.</b>](Chapter%20100%20-%20Global%20Food%20Security/README.md) | <b>Global Food Security</b> | <b>9301</b> |
+| [<b>101.</b>](Chapter%20101%20-%20Countering%20Iran%27s%20Destabilizing%20Activities/README.md) | <b>Countering Iran's Destabilizing Activities</b> | <b>9401</b> |
+| [<b>102.</b>](Chapter%20102%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md) | <b>Countering Russian Influence in Europe and Eurasia</b> | <b>9501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -235,3 +237,5 @@
 - [Chapter 098 - International Child Abduction Prevention and Return](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md)
 - [Chapter 099 - North Korea Sanctions and Policy Enhancement](Chapter%20099%20-%20North%20Korea%20Sanctions%20and%20Policy%20Enhancement/README.md)
 - [Chapter 100 - Global Food Security](Chapter%20100%20-%20Global%20Food%20Security/README.md)
+- [Chapter 101 - Countering Iran's Destabilizing Activities](Chapter%20101%20-%20Countering%20Iran%27s%20Destabilizing%20Activities/README.md)
+- [Chapter 102 - Countering Russian Influence in Europe and Eurasia](Chapter%20102%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md)

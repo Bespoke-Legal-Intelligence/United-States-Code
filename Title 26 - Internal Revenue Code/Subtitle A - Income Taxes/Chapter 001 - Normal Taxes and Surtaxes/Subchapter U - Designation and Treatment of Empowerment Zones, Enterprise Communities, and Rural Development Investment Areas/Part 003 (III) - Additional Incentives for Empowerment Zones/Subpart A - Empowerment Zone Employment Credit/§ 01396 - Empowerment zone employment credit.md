@@ -26,7 +26,7 @@ For purposes of this section, the applicable percentage is 20 percent.
 
 #### (B) Coordination with paragraph (2)
 
-&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by theamount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
+&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by the amount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
 
 #### (d) Qualified zone employee
 
@@ -116,5 +116,5 @@ Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30,1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 

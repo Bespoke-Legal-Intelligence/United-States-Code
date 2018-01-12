@@ -80,7 +80,7 @@ Definitions.—As used in this section, section 2280a, section 2281, and section
 
 &emsp;&emsp;(I) International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations on 9 December 1999;
 
-&emsp;(2) "armed conflict" does not include internal disturbances and tensions, such as riots,isolated and sporadic acts of violence, and other acts of a similar nature;
+&emsp;(2) "armed conflict" does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
 
 &emsp;(3) "biological weapon" means—
 
@@ -156,7 +156,7 @@ Definitions.—As used in this section, section 2280a, section 2281, and section
 
 Exceptions.—This section shall not apply to—
 
-&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understoodunder the law of war, which are governed by that law; or
+&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
 
 &emsp;(2) activities undertaken by military forces of a state in the exercise of their official duties.
 
@@ -170,7 +170,7 @@ Civil Forfeiture.—Any real or personal property used or intended to be used to
 
 (2)
 
-Applicable Procedures.—Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
+Applicable Procedures.—Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, UnitedStates Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
 (Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 114–23, title VIII, §801, June 2, 2015, 129 Stat. 300.)
 

@@ -19,12 +19,17 @@
 | [51315\.](%C2%A7%2051315%20-%20Gifts%20to%20the%20Merchant%20Marine%20Academy.md) | Gifts to the Merchant Marine Academy. |
 | [51316\.](%C2%A7%2051316%20-%20Temporary%20appointments%20to%20the%20Academy.md) | Temporary appointments to the Academy. |
 | [51317\.](%C2%A7%2051317%20-%20Adjunct%20professors.md) | Adjunct professors. |
-| [51318\.](%C2%A7%2051318%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20assault.md) | Policy on sexual harassment and sexual assault. |
+| [51318\.](%C2%A7%2051318%20-%20Policy%20on%20sexual%20harassment%2C%20dating%20violence%2C%20domestic%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking. |
 | [51319\.](%C2%A7%2051319%20-%20Sexual%20assault%20response%20coordinators%20and%20sexual%20assault%20victim%20advocates.md) | Sexual assault response coordinators and sexual assault victim advocates. |
+| [51320\.](%C2%A7%2051320%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
+| [51321\.](%C2%A7%2051321%20-%20Grants%20for%20scientific%20and%20educational%20research.md) | Grants for scientific and educational research. |
+| [51322\.](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md) | Protection of cadets from sexual assault onboard vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. C. title XXXV, §§3510(b), 3512(b), 3514(d)(2), 3516(b), Dec. 12, 2017, 131 Stat. 1918, 1919, 1923, 1928, added items 51318 and 51320 to 51322 and struck out former item 51318 "Policy on sexual harassment and sexual assault".
 
 <b>2016</b>—Pub. L. 114–328, div. C, title XXXV, §§3510(b), 3511(b), Dec. 23, 2016, 130 Stat. 2785, 2786, added items 51318 and 51319.
 
@@ -58,5 +63,8 @@ Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 59
 - [&sect; 51315 - Gifts to the Merchant Marine Academy](%C2%A7%2051315%20-%20Gifts%20to%20the%20Merchant%20Marine%20Academy.md)
 - [&sect; 51316 - Temporary appointments to the Academy](%C2%A7%2051316%20-%20Temporary%20appointments%20to%20the%20Academy.md)
 - [&sect; 51317 - Adjunct professors](%C2%A7%2051317%20-%20Adjunct%20professors.md)
-- [&sect; 51318 - Policy on sexual harassment and sexual assault](%C2%A7%2051318%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20assault.md)
+- [&sect; 51318 - Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking](%C2%A7%2051318%20-%20Policy%20on%20sexual%20harassment%2C%20dating%20violence%2C%20domestic%20violence%2C%20sexual%20assault%2C%20and%20stalking.md)
 - [&sect; 51319 - Sexual assault response coordinators and sexual assault victim advocates](%C2%A7%2051319%20-%20Sexual%20assault%20response%20coordinators%20and%20sexual%20assault%20victim%20advocates.md)
+- [&sect; 51320 - Acceptance of guarantees with gifts for major projects](%C2%A7%2051320%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
+- [&sect; 51321 - Grants for scientific and educational research](%C2%A7%2051321%20-%20Grants%20for%20scientific%20and%20educational%20research.md)
+- [&sect; 51322 - Protection of cadets from sexual assault onboard vessels](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md)

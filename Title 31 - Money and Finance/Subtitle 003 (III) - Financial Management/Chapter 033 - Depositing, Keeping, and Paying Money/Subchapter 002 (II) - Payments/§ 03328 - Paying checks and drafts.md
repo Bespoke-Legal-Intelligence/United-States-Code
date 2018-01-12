@@ -18,7 +18,7 @@ Deferral pending settlement.—Notwithstanding the time limitations imposed by p
 
 &emsp;(3) Nothing in this subsection shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
-(b)(1) If a check issued by a disbursing official and drawn on a designated depositary is not paid by the last day of the fiscal year after the fiscal year in which the check was issued, the amount of the check is—
+(b)(1) If a check issued by a disbursing official and drawn on a designated depositary is not paidby the last day of the fiscal year after the fiscal year in which the check was issued, the amount of the check is—
 
 &emsp;(A) withdrawn from the account with the depositary; and
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 104–316, §115(d)(3), substituted "The" for "With the app
 
 "(2) When the Secretary decides it is appropriate, the Secretary may transfer—
 
-&emsp;"(A) the amount of an unpaid check drawn on the Treasury from the account on which it was drawn to a consolidated account of the Treasury available for paying checks; and
+&emsp;"(A) the amount of an unpaid check drawn on the Treasury from the account on which it was drawn toa consolidated account of the Treasury available for paying checks; and
 
 &emsp;"(B) an amount available, but not required, for paying checks drawn on the Treasury to the appropriate receipt account."
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 100–86, §1002(2), added subsec. (f).
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–86, title X, §1006, Aug. 10, 1987, 101 Stat. 659, provided that: "The amendments made by sections1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations."
+Pub. L. 100–86, title X, §1006, Aug. 10, 1987, 101 Stat. 659, provided that: "The amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations."
 
 #### Regulations
 

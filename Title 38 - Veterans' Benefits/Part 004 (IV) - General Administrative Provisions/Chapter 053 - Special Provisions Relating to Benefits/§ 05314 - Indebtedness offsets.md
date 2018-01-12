@@ -42,7 +42,7 @@ Pub. L. 96–466, title VIII, §802(f), Oct. 17, 1980, 94 Stat. 2218, provided t
 
 "(1) Except as provided in paragraph (2), the amendments made by title VI \[see Tables for classification\] shall become effective on October 1, 1980.
 
-"(2) The amendments made by sections 603 \[amending sections 1677 and 1798 \[now 3698\] of this title\] and 604\[amending section 1786 \[now 3686\] of this title\] shall not apply to any person receiving educational assistance under chapter 34 or 35 of title 38, United States Code, on September 1, 1980, for the pursuit of a program of education, as defined in section 1652(b) \[now 3452(b)\] of such title, in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of such chapter and chapter 36 of such title as in effect on that date."
+"(2) The amendments made by sections 603 \[amending sections 1677 and 1798 \[now 3698\] of this title\] and 604 \[amending section 1786 \[now 3686\] of this title\] shall not apply to any person receiving educational assistance under chapter 34 or 35 of title 38, United States Code, on September 1, 1980, for the pursuit of a program of education, as defined in section 1652(b) \[now 3452(b)\] of such title, in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of such chapter and chapter 36 of such title as in effect on that date."
 
 #### Rules and Regulations
 

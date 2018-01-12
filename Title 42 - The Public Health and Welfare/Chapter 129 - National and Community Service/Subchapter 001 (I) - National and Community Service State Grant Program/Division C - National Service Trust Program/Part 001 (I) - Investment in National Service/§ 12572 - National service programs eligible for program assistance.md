@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B)and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -126,7 +126,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
-&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other publiclands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
+&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
@@ -352,7 +352,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
 
-&emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
+&emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together foradditional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
 &emsp;&emsp;(C) A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
 

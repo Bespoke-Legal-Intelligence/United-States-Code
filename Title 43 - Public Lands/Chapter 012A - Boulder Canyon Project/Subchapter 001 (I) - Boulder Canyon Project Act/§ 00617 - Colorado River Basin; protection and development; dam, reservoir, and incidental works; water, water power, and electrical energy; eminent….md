@@ -10,7 +10,7 @@ The reclamation law, referred to in text, is defined in section 617k of this tit
 
 #### Change of Name
 
-Act Apr. 30, 1947, ch. 46, 61 Stat. 56, restored the name Hoover Dam to the dam on the Colorado River in Black Canyon known previously as Boulder Dam, and provided that any law, regulation, document, or record in which that dam is designated or referred to as BoulderDam shall be held to refer to that dam under and by the name of Hoover Dam.
+Act Apr. 30, 1947, ch. 46, 61 Stat. 56, restored the name Hoover Dam to the dam on the Colorado River in Black Canyon known previously as Boulder Dam, and provided that any law, regulation, document, or record in which that dam is designated or referred to as Boulder Dam shall be held to refer to that dam under and by the name of Hoover Dam.
 
 #### Construction With Other Laws
 

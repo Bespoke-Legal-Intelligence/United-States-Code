@@ -28,7 +28,7 @@
 
 (2) In this section—
 
-&emsp;(A) "value" means property, or satisfaction or securing of a present or antecedent debt of the debtor, but does not include an unperformed promise to furnish support to the debtor or to a relative of the debtor;
+&emsp;(A) "value" means property, or satisfaction or securing of a present or antecedent debt ofthe debtor, but does not include an unperformed promise to furnish support to the debtor or to a relative of the debtor;
 
 &emsp;(B) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency that receives a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, takes for value to the extent of such payment;
 
@@ -80,7 +80,7 @@ Section 548(d)(2) is modified to reflect general application of a provision cont
 
 #### senate report no. 95–989
 
-This section is derived in large part from section 67d of the Bankruptcy Act \[section 107(d) of former title 11\]. It permits the trustee to avoid transfers by thedebtor in fraud of his creditors. Its history dates from the statute of 13 Eliz. c. 5 (1570).
+This section is derived in large part from section 67d of the Bankruptcy Act \[section 107(d) of former title 11\]. It permits the trustee to avoid transfers by the debtor in fraud of his creditors. Its history dates from the statute of 13 Eliz. c. 5 (1570).
 
 The trustee may avoid fraudulent transfers or obligations if made with actual intent to hinder, delay, or defraud a past or future creditor. Transfers made for less than a reasonably equivalent consideration are also vulnerable if the debtor was or thereby becomes insolvent, was engaged in business with an unreasonably small capital, or intended to incur debts that would be beyond his ability to repay.
 

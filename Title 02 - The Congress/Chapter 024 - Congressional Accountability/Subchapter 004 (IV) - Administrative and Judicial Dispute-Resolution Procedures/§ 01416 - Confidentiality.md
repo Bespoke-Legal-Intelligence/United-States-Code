@@ -6,7 +6,7 @@ All counseling shall be strictly confidential, except that the Office and a cove
 
 #### (b) Mediation
 
-All mediation shall be strictly confidential, and the Executive Director shall notify eachperson participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
+All mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
 
 #### (c) Hearings and deliberations
 

@@ -34,9 +34,9 @@ Request for Proposals.—The milestone decision authority for a major defense ac
 
 (e)
 
-Milestone B.—A major defense acquisition program may not receive Milestone B approval under section 2366b of this title until the milestone decision authority determines in writing that—
+Milestone B.—A major defense acquisition program may not receive Milestone B approval under section 2366b of this title until the milestone decision authority determines in writing—
 
-&emsp;(1) in the case of a program that uses a modular open system approach—
+&emsp;(1) in the case of a program that uses a modular open system approach, that—
 
 &emsp;&emsp;(A) the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
 
@@ -46,7 +46,11 @@ Milestone B.—A major defense acquisition program may not receive Milestone B a
 
 &emsp;(2) in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
 
-(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2253.)
+(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2253; amended Pub. L. 115–91, div. A, title X, §1081(a)(40), Dec. 12, 2017, 131 Stat. 1596.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–91 substituted "in writing—" for "in writing that—" in introductory provisions and inserted ", that" after "open system approach" in introductory provisions of par. (1).
 
 #### Effective Date
 

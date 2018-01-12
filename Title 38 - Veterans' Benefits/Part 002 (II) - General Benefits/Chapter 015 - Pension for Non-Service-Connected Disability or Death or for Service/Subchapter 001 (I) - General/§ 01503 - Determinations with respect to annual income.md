@@ -38,7 +38,7 @@
 
 &emsp;(10) in the case of a child, any current-work income received during the year, to the extent that the total amount of such income does not exceed an amount equal to the sum of—
 
-&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is requiredunder section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
+&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
 
 &emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials;
 
@@ -84,7 +84,7 @@ Subsec. (a)(10)(A). Pub. L. 102–54, §14(b)(5)(B), substituted "Internal Reven
 
 <b>1982</b>—Subsec. (a)(10)(A). Pub. L. 97–295 inserted "(26 U.S.C. 6012(a))" after "Code of 1954".
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1)which related to payments of six-months death gratuity.
 
 Subsec. (a)(2). Pub. L. 95–588, §102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out ", and chapters 11 and 13 (except section 412(a)) of this title" after "chapter". Former par. (2) redesignated (1).
 
@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 95–588, §102(b), struck out former subsec. (c) which rel
 
 <b>1975</b>—Subsec. (a)(7). Pub. L. 94–169, §106(3), (4), substituted "spouse" for "wife", "such veteran's" for "his" and "surviving spouse" for "widow" in introductory clause and "such veteran's" for "his" in subcls. (A), (B) and (C).
 
-Subsec. (a)(9). Pub. L. 94–169, §106(5), substituted "such veteran's" for "his" in subcl. (A) and "survivingspouse" and "spouse" for "widow" and "wife", respectively, in subcl. (B).
+Subsec. (a)(9). Pub. L. 94–169, §106(5), substituted "such veteran's" for "his" in subcl. (A) and "surviving spouse" and "spouse" for "widow" and "wife", respectively, in subcl. (B).
 
 Subsec. (a)(14). Pub. L. 94–169, §106(6), substituted "such veteran's surviving spouse" for "his widow".
 

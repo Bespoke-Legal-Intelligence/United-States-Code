@@ -8,7 +8,7 @@
 
 (c)(1) Notwithstanding sections 5701 and 7332 of this title, the chairman of a board, upon request of an employee whose case is under consideration by the board (or a representative of that employee) may, in connection with the considerations of the board, review records or information covered by those sections and may authorize the disclosure of such records or information to that employee (or representative) to the extent the board considers appropriate for purposes of the proceedings of the board in that case.
 
-(2) In any such case the board chairman may direct that measures be taken to protect thepersonal privacy of individuals whose records are involved. Any person who uses or discloses a record or information covered by this subsection for any purpose other than in connection with the proceedings of the board shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+(2) In any such case the board chairman may direct that measures be taken to protect the personal privacy of individuals whose records are involved. Any person who uses or discloses a record or information covered by this subsection for any purpose other than in connection with the proceedings of the board shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (d)(1) The Secretary shall provide for the periodic designation of employees of the Department who are qualified to serve on Disciplinary Appeals Boards. Those employees shall constitute the panel from which board members in a case are appointed. The Secretary shall provide (without charge) a list of the names of employees on the panel to any person requesting such list.
 

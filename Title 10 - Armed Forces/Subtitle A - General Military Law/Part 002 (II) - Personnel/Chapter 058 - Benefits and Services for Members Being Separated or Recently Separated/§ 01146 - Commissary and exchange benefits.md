@@ -10,7 +10,7 @@ Members Involuntarily Separated From Selected Reserve.—The Secretary of Defens
 
 (c)
 
-Members Receiving Sole Survivorship Discharge.—A member of the armed forces who receives a sole survivorship discharge (as defined in section 1174(i) of this title) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilitiesin the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
+Members Receiving Sole Survivorship Discharge.—A member of the armed forces who receives a sole survivorship discharge (as defined in section 1174(i) of this title) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilities in the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
 
 &emsp;(1) The date of the separation of the member.
 

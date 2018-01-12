@@ -44,3 +44,7 @@ Subsec. (b)(2). Pub. L. 109–304, §15(31)(B), substituted "chapter 537 of this
 
 Subsec. (b)(2). Pub. L. 103–160, §1360(2), inserted "whose mortgage has not been guaranteed under title XI of that Act" after "foreign vessel".
 
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
+

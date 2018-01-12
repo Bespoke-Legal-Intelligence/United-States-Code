@@ -48,7 +48,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (2) Report on management
 
-&emsp;Not later than 4 years after the date on which the transfer of functions specified under section 251 of this title takes effect, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report, following a study, containing the following:
+&emsp;Not later than 4 years after the date on which the transfer of functions specified undersection 251 of this title takes effect, the Comptroller General of the United States shall submit to the Committees on Appropriations and on the Judiciary of the House of Representatives and the Senate a report, following a study, containing the following:
 
 &emsp;&emsp;(A) Determinations of whether the transfer of functions from the Immigration and Naturalization Service to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security have improved, with respect to each function transferred, the following:
 
@@ -76,7 +76,7 @@ The effective date of this chapter, referred to in subsecs. (a), (b), and (c)(1)
 
 This chapter, referred to in subsec. (c)(1), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(2)(F), is act June 27, 1952, ch. 477, 66 Stat.163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(2)(F), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Parts D and E of this subchapter, referred to in subsec. (d)(1)(A), (B), was in the original "subtitles D and E", meaning subtitles D (§§441–446) and E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2192, 2195, which enacted parts D and E of this subchapter, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title. For complete classification of subtitles D and E to the Code, see Tables.
 

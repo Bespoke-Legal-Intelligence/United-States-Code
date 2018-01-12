@@ -1,6 +1,6 @@
 ### §§2004 to 2010. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 2004, Pub. L. 92–513, title V, §504, as added Pub. L. 94–163, title III, §301, Dec. 22, 1975, 89 Stat. 908,related to judicial review of rules prescribed under section 2001, 2002, 2003, or 2006 of this title. See section 32909 of Title 49, Transportation.
+Section 2004, Pub. L. 92–513, title V, §504, as added Pub. L. 94–163, title III, §301, Dec. 22, 1975, 89 Stat. 908, related to judicial review of rules prescribed under section 2001, 2002, 2003, or 2006 of this title. See section 32909 of Title 49, Transportation.
 
 Section 2005, Pub. L. 92–513, title V, §505, as added Pub. L. 94–163, title III, §301, Dec. 22, 1975, 89 Stat. 908; amended Pub. L. 96–425, §3(b), Oct. 10, 1980, 94 Stat. 1822, related to fuel economy information and reports to be filed by manufacturers. See sections 32907 and 32910 of Title 49.
 

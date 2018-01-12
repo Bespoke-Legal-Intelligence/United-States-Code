@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
+Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
 
 #### Effective Date of 1985 Amendment
 

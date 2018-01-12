@@ -48,7 +48,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 (d)
 
-Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection\(c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
+Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
 (2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
 
@@ -114,7 +114,7 @@ In general.—The Under Secretary of Defense for Acquisition, Technology, and Lo
 
 Qualifying proposals.—For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
 
-&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procuredunder a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
+&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procured under a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
 
 &emsp;&emsp;(B) is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
 
@@ -142,7 +142,7 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2021.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L.109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
 
 #### References in Text
 
@@ -198,7 +198,7 @@ Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as
 
 Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The reportshall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted "2012" for "2007".
 

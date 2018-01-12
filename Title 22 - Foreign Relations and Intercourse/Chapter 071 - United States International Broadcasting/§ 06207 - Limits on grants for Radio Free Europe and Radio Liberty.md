@@ -32,7 +32,7 @@ Grants authorized under section 6204 of this title for RFE/RL, Incorporated, sha
 
 #### (g) Grant agreement
 
-Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
+Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grantagreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
 
 &emsp;(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f);
 

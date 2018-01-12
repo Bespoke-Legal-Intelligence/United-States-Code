@@ -8,7 +8,7 @@ Definition.—In this section, the term "information technology architecture", w
 
 General Responsibilities.—The Chief Information Officer of an executive agency is responsible for—
 
-&emsp;(1) providing advice and other assistance to the head of the executive agency and other senior management personnel of the executive agency to ensure that information technology is acquired and information resources are managed for the executive agency in a manner that implements the policies and procedures of this subtitle, consistent with chapter 35 of title 44 and the priorities established by the head of the executive agency;
+&emsp;(1) providing advice and other assistance to the head of the executive agency and other senior management personnel of the executive agency to ensure that information technology is acquired and information resources aremanaged for the executive agency in a manner that implements the policies and procedures of this subtitle, consistent with chapter 35 of title 44 and the priorities established by the head of the executive agency;
 
 &emsp;(2) developing, maintaining, and facilitating the implementation of a sound, secure, and integrated information technology architecture for the executive agency; and
 

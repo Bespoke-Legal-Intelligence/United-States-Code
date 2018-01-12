@@ -34,11 +34,11 @@
 
 &emsp;(B) having a maturity (at issue) of not more than one year.
 
-(2) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and statedinterest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
+(2) Every registration-required obligation of the Government shall be in registered form. A book entry obligation is deemed to be in registered form if the right to principal and stated interest on the obligation may be transferred only through a book entry consistent with regulations of the Secretary.
 
 (3) The Secretary shall prescribe regulations necessary to carry out this subsection when there is a nominee.
 
-(h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
+(h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use ofobligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
 (2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners' Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
@@ -164,7 +164,7 @@ Act
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §28; added Sept. 3, 1982, Pub. L. 97–248, §310(a), 96 Stat. 595.
 
-In subsection (g)(1), before clause (A), the words "Except as provided in paragraph (2)" and "(2) The term 'registration-required obligation' shall not include any obligation if" are omitted because of the restatement. Clause (C) is added for clarity.
+In subsection (g)(1), before clause (A), the words "Except as provided in paragraph (2)" and "(2) The term'registration-required obligation' shall not include any obligation if" are omitted because of the restatement. Clause (C) is added for clarity.
 
 In subsection (g)(2)(B)(i), the words "territories and" are added for consistency in the revised title and with other titles of the United States Code.
 
@@ -242,7 +242,7 @@ Pub. L. 103–202, title II, §202, Dec. 17, 1993, 107 Stat. 2356, provided that
 
 "(a)
 
-Ability to Submit Computer Tenders in Treasury Auctions.—By the end of 1995, any bidder shall be permitted to submit a computer-generated tender to any automated auction system established by the Secretary of the Treasury for the sale upon issuance of securities issued by the Secretary if the bidder—
+Ability to Submit Computer Tenders in Treasury Auctions.—By the end of 1995, any bidder shall bepermitted to submit a computer-generated tender to any automated auction system established by the Secretary of the Treasury for the sale upon issuance of securities issued by the Secretary if the bidder—
 
 &emsp;"(1) meets the minimum creditworthiness standard established by the Secretary; and
 
@@ -344,7 +344,7 @@ Report required.—The Secretary of the Treasury shall submit an annual report t
 
 &emsp;"(2)
 
-Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described inparagraph (1)(C) for so long as such disclosure could jeopardize the investigation."
+Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described in paragraph (1)(C) for so long as such disclosure could jeopardize the investigation."
 
 #### Notice on Treasury Modifications to Auction Process
 

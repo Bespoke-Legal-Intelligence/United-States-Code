@@ -20,7 +20,7 @@
 
 (4) No community water system shall be required under State or local law to provide an assessment described in this section to any State, regional, or local governmental entity solely by reason of the requirement set forth in paragraph (2) that the system submit such assessment to the Administrator.
 
-(5) Not later than November 30, 2002, the Administrator, in consultation with appropriate Federal law enforcement and intelligence officials, shall develop such protocols as may be necessary to protect the copies of the assessments required to be submitted under this subsection (and the information contained therein) from unauthorized disclosure. Such protocols shall ensure that—
+(5) Not later than November 30, 2002, the Administrator, in consultation with appropriate Federal law enforcement and intelligence officials, shall develop such protocols as may benecessary to protect the copies of the assessments required to be submitted under this subsection (and the information contained therein) from unauthorized disclosure. Such protocols shall ensure that—
 
 &emsp;(A) each copy of such assessment, and all information contained in or derived from the assessment, is kept in a secure location;
 

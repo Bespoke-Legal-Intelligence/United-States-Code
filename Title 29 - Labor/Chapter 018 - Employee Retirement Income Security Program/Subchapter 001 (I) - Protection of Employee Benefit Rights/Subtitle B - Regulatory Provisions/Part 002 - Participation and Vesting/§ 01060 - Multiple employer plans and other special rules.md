@@ -30,7 +30,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefitplan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -66,7 +66,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iii) Special rule for applicable defined benefit plans
 
-&emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
+&emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this titlewhich meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
 
 &nbsp;
 
@@ -191,7 +191,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, except as provided in this subsection, a CSEC plan is anemployee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
+&emsp;For purposes of this subchapter, except as provided in this subsection, a CSEC plan is an employee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
 
 &emsp;&emsp;(A) to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
 
@@ -273,7 +273,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2009, see section 903(c) ofPub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2009, see section 903(c) of Pub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

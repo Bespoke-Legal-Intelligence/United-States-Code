@@ -16,7 +16,7 @@ Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, prov
 
 #### Short Title
 
-Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
+Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
 
 #### Regulations
 
@@ -62,7 +62,7 @@ Elements.—An agreement under this subsection—
 
 &emsp;&emsp;"(A) shall require, in the case of an employee of the Department, that upon completion of the assignment, the employee will serve in the civil service for a period at least equal to three times the length of the assignment, unless the employee is sooner involuntarily separated from the service of the employee's agency; and
 
-&emsp;&emsp;"(B) shall provide that if the employee of the Department or of the contractor (as the case may be)fails to carry out the agreement, or if the employee is voluntarily separated from the service of the employee's agency before the end of the period stated in the agreement, the employee shall be liable to the United States for payment of all expenses of the assignment unless that failure or voluntary separation was for good and sufficient reason, as determined by the Secretary.
+&emsp;&emsp;"(B) shall provide that if the employee of the Department or of the contractor (as the case may be) fails to carry out the agreement, or if the employee is voluntarily separated from the service of the employee's agency before the end of the period stated in the agreement, the employee shall be liable to the United States for payment of all expenses of the assignment unless that failure or voluntary separation was for good and sufficient reason, as determined by the Secretary.
 
 &emsp;"(3)
 
@@ -190,7 +190,7 @@ In general.—The authority to fix rates of basic pay for a position under this 
 
 &emsp;"(2)
 
-Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2020, of basic pay at rates fixed under thissection before that date for positions whose terms continue after that date."
+Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2020, of basic pay at rates fixed under this section before that date for positions whose terms continue after that date."
 
 #### Pilot Program on Direct Hire Authority for Veteran Technical Experts Into the Defense Acquisition Workforce
 
@@ -306,7 +306,7 @@ Contractor requirement.—A Department of Defense contractor may not knowingly p
 
 &emsp;"(5)
 
-Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary ofDefense may take any of the administrative actions set forth in section 2105 of title 41, United States Code\[,\] that the Secretary of Defense determines to be appropriate.
+Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 2105 of title 41, United States Code\[,\] that the Secretary of Defense determines to be appropriate.
 
 "(b)
 
@@ -354,7 +354,7 @@ Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as
 
 #### Evaluation by Comptroller General
 
-Pub. L. 101–510, div. A, title XII, §1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
+Pub. L. 101–510, div. A, title XII, §1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports toCongress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
 
 #### Deadlines for Qualification Requirements
 

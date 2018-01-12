@@ -34,7 +34,7 @@ The report required by this section shall be submitted in unclassified form, wit
 
 #### (c) Reporting consecutive noncompliance
 
-If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
+If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the UnitedStates, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
 
 #### (d) Additional requirement
 
@@ -90,7 +90,7 @@ Subsec. (a)(6). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(D), (2)
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(b)\], added subsec. (d).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted "Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with" for "Director, in consultation with the Secretary of State," and "and the Chairman of the Joint Chiefs of Staff" for "theChairman of the Joint Chiefs of Staff, and the Director of Central Intelligence".
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted "Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with" for "Director, in consultation with the Secretary of State," and "and the Chairman of the Joint Chiefs of Staff" for "the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence".
 
 Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted ", nonproliferation," after "arms control".
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1998 Amendment
 
@@ -125,6 +125,52 @@ Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30
 #### Delegation of Functions
 
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
+#### Notification of Breach of INF Treaty by the Russian Federation
+
+Pub. L. 115–91, div. A, title XII, §§1244(a), 1246, Dec. 12, 2017, 131 Stat. 1673, 1675, provided that:
+
+#### SEC. 1244. NOTIFICATION REQUIREMENT RELATED TO RUSSIAN FEDERATION DEVELOPMENT OF NONCOMPLIANT SYSTEMS AND UNITED STATES ACTIONS REGARDING MATERIAL BREACH OF INF TREATY BY THE RUSSIAN FEDERATION.
+
+"(a)
+
+Notification by Director of National Intelligence.—
+
+&emsp;"(1)
+
+In general.—The Director of National Intelligence shall notify the appropriate congressional committees of any development, deployment, or test of a system by the Russian Federation that the Director determines is inconsistent with the INF Treaty.
+
+&emsp;"(2)
+
+Deadline.—A notification under this subsection shall be made not later than 15 days after the date on which the Director makes the determination under this subsection with respect to which the notification is required."
+
+#### SEC. 1246. DEFINITIONS.
+
+"In this subtitle \[subtitle E (§§1241–1246) of title XII of div. A of Pub. L. 115–91, enacting this note and provisions set out as a note under section 2551 of this title\]:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+INF treaty.—The term 'INF Treaty' means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987, and entered into force June 1, 1988.
+
+&emsp;"(3)
+
+Intelligence community.—The term 'intelligence community' has the meaning given the term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
+
+&emsp;"(4)
+
+New start treaty.—The term 'New START Treaty' means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed at Prague April 8, 2010, and entered into force February 5, 2011.
+
+&emsp;"(5)
+
+Open skies treaty.—The term 'Open Skies Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
 
 #### Report on Non-Compliance by the Russian Federation With Its Obligations Under the INF Treaty
 

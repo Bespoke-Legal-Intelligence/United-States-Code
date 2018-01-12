@@ -48,7 +48,7 @@ Restrictions Applicable Generally.—(1) The head of an agency may not initiate 
 
 (3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then beawarded until the end of a period of 30 days beginning on the date of such notification.
 
 (5) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (4), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall give written notification to the congressional defense committees of—
 
@@ -121,4 +121,28 @@ Pub. L. 107–314, div. A, title VIII, §811(b), Dec. 2, 2002, 116 Stat. 2608, a
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, provided that: "Section 2306c of title 10, United States Code (as added by subsection (a)), shall apply with respect to contracts for which solicitations of offers are issued after the date of the enactment of this Act \[Oct. 30, 2000\]."
+
+#### Pilot Program for Longer Term Multiyear Service Contracts
+
+Pub. L. 115–91, div. A, title VIII, §854, Dec. 12, 2017, 131 Stat. 1492, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense shall carry out a pilot program under which the Secretary may use the authority under subsection (a) of section 2306c of title 10, United States Code, to enter into up to five contracts for periods of not more than 10 years for services described in subsection (b) of such section. Each contract entered into pursuant to this subsection may be extended for up to five additional one-year terms.
+
+"(b)
+
+Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall enter into an agreement with an independent organization with relevant expertise to study best practices and lessons learned from using services contracts for periods longer than five years by commercial companies, foreign governments, and State governments, as well as service contracts for periods longer than five years used by the Federal Government, such as energy savings performance contracts (as defined in section to section \[sic\] 804(3) of the National Energy Conservation Policy Act (42 U.S.C. 8287c(3)).
+
+&emsp;"(2)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the study conducted under paragraph (1).
+
+"(c)
+
+Comptroller General Report.—Not later than five years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the pilot program carried out under this section."
 

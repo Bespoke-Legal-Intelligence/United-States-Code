@@ -1,0 +1,6 @@
+### §3752. Transferred
+
+#### Codification
+
+Section 3752 was editorially reclassified as section 10153 of Title 34, Crime Control and Law Enforcement.
+

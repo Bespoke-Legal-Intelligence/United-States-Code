@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness ofthe programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
+&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness of the programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
 
 #### (2) Criteria to be used
 

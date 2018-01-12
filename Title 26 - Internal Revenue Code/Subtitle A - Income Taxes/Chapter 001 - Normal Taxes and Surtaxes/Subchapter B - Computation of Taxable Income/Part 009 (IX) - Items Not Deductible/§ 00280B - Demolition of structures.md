@@ -14,7 +14,7 @@ In the case of the demolition of any structure—
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 struck out "certain historic" before "structures" in section catchline, struck out heading "(a) General rule", substituted "In the case of the demolition of any structure" for "In the case of the demolition of a certified historic structure (as defined in 48(g)(3)(A))" in text, and struck out subsecs. (b) and (c) which contained provisions relating to a special rulefor registered historic districts and to the application of this section, respectively.
+<b>1984</b>—Pub. L. 98–369 struck out "certain historic" before "structures" in section catchline, struck out heading "(a) General rule", substituted "In the case of the demolition of any structure" for "In the case of the demolition of a certified historic structure (as defined in 48(g)(3)(A))" in text, and struck out subsecs. (b) and (c) which contained provisions relating to a special rule for registered historic districts and to the application of this section, respectively.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §212(d)(2)(C)(i), substituted "48(g)(3)(A)" for "section 191(d)(1)" in provisions preceding par. (1).
 

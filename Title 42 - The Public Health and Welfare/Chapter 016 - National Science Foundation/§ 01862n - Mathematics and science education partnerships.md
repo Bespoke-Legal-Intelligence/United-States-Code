@@ -98,7 +98,7 @@
 
 #### (9) Innovation
 
-&emsp;Activities carried out in accordance with paragraph (3)(H) may include the development and dissemination of curriculum tools that will help foster inventiveness and innovation.
+&emsp;Activities carried out in accordance with paragraph (3)(H) may include the developmentand dissemination of curriculum tools that will help foster inventiveness and innovation.
 
 #### (10) Teacher institutes for the 21st century
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(B) the extent to which the members of the partnership are committed to making the partnership a central organizational focus;
 
-&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevant research and are likely to result in increased student achievement;
+&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevantresearch and are likely to result in increased student achievement;
 
 &emsp;&emsp;(D) the degree to which such activities are aligned with State mathematics and science student academic achievement standards;
 
@@ -246,7 +246,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2017</b>—Subsec. (c)(4), (5). Pub. L. 114–329 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request."
+<b>2017</b>—Subsec. (c)(4), (5). Pub. L. 114–329 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensionsof the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request."
 
 <b>2015</b>—Subsec. (a)(10)(A)(iii)(III). Pub. L. 114–95, §9215(ggg)(2)(A), which directed substitution of "(as described in section 1114(a)(1)(A))" for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6314(a)(1))" was executed by making the substitution for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)" to reflect the probable intent of Congress.
 
@@ -322,7 +322,7 @@ Board.—The term 'Board' means the National Science Board established under sec
 
 &emsp;"(3)
 
-Community college.—The term 'community college' means an institution of higher education as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\] that provides not less than a 2-year degree that is acceptable for full credit toward a bachelor's degree, including institutions of higher education receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[probably means Pub. L. 95–471, 25 U.S.C. 1801 et seq.\].
+Community college.—The term 'community college' means an institution of higher education as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\] that provides not less than a 2-year degree that is acceptable for full credit towarda bachelor's degree, including institutions of higher education receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[probably means Pub. L. 95–471, 25 U.S.C. 1801 et seq.\].
 
 &emsp;"(4)
 
@@ -382,7 +382,7 @@ National research facility.—The term 'national research facility' means a rese
 
 &emsp;"(13)
 
-Secondary school.—The term 'secondary school' has the meaning given that term by section8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+Secondary school.—The term 'secondary school' has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(14)
 

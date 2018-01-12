@@ -42,7 +42,7 @@ To be eligible to enter into a cooperative agreement under this section, an orga
 
 #### (e) Applications
 
-An organization that desires to enter into a cooperative agreement under this section shall submit to the Secretary an application, in such form and in such manner as the Secretary shall require, that—
+An organization that desires to enter into a cooperative agreement under this section shallsubmit to the Secretary an application, in such form and in such manner as the Secretary shall require, that—
 
 &emsp;(1) demonstrates the capacity of the applicant, who may enter into a partnership with a local family violence, domestic violence, or dating violence service provider or community-based organization, to undertake the project involved;
 
@@ -92,7 +92,7 @@ The Secretary shall enter into cooperative agreements under this section with or
 
 &emsp;&emsp;(B) develop comprehensive prevention plans to coordinate prevention efforts with other community sectors;
 
-&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replicationof the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
+&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replication of the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
 
 &emsp;&emsp;(D) develop, replicate, or conduct comprehensive, evidence-informed primary prevention programs that reduce risk factors and promote protective factors that reduce the likelihood of family violence, domestic violence, and dating violence, which may include—
 

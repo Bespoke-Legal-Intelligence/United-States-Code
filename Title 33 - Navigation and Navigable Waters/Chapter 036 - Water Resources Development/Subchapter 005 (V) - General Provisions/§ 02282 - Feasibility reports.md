@@ -34,7 +34,7 @@ In the case of any water resources project-related study authorized to be undert
 
 #### (d) Indian tribes
 
-For purposes of studies undertaken pursuant to this section, the Secretary is authorized toconsider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
+For purposes of studies undertaken pursuant to this section, the Secretary is authorized to consider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
 
 #### (e) Standard and uniform procedures and practices
 

@@ -18,7 +18,7 @@ Purposes.—The purposes of the Center shall be the following:
 
 (c)
 
-Concurrence of the Director of National Intelligence.—The Secretary of Defense shall seek the concurrence of the Director of National Intelligence to the extent the efforts and activities of the Center involve the entities referred to in subsection (b)(4).
+Concurrence of the Director of National Intelligence.—The Secretary of Defenseshall seek the concurrence of the Director of National Intelligence to the extent the efforts and activities of the Center involve the entities referred to in subsection (b)(4).
 
 (d)
 

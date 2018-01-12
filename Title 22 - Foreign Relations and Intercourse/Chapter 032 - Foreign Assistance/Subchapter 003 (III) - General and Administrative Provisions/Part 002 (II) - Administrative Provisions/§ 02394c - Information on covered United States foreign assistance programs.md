@@ -166,6 +166,8 @@ Comptroller General's Report.—The Comptroller General of the United States sha
 
 &emsp;"(2) assesses the implementation of the guidelines by the agencies, bureaus, and offices that implement covered United States foreign assistance as outlined in the President's budget request."
 
+\[For delegation of functions of President under section 3(b) and (d) of Pub. L. 114–191, set out above, see Memorandum of President of the United States, Nov. 21, 2017, 82 F.R. 56529, set out below.\]
+
 #### Definitions
 
 Pub. L. 114–191, §2, July 15, 2016, 130 Stat. 666, provided that:
@@ -209,4 +211,18 @@ Covered united states foreign assistance.—The term 'covered United States fore
 &emsp;&emsp;"(C) the Millennium Challenge Act of 2003 (22 U.S.C. 7701 et seq.); and
 
 &emsp;&emsp;"(D) the Food for Peace Act (7 U.S.C. 1721 \[1691\] et seq.)."
+
+#### Delegation of Authority Under the Foreign Aid Transparency and Accountability Act of 2016
+
+Memorandum of President of the United States, Nov. 21, 2017, 82 F.R. 56529, provided:
+
+Memorandum for the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Director of the Office of Management and Budget the functions and authorities vested in the President by sections 3(b) and 3(d) of the Foreign Aid Transparency and Accountability Act of 2016 (Public Law 114–191) (the "Act"), including updating the guidelines required by section 3(b) as he may think proper, in accordance with the Act.
+
+The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as sections 3(b) and 3(d) of the Act.
+
+You are authorized and directed to publish this memorandum in the <i>Federal Register</i>.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

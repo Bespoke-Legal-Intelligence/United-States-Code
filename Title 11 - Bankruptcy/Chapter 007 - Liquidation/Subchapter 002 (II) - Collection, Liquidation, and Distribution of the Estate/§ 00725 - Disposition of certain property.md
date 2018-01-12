@@ -1,6 +1,6 @@
 ### §725. Disposition of certain property
 
-After the commencement of a case under this chapter, but before final distribution of propertyof the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
+After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §478, July 10, 1984, 98 Stat. 381.)
 
@@ -12,7 +12,7 @@ Section 725 of the House amendment adopts the substance contained in both the Ho
 
 #### senate report no. 95–989
 
-This section requires the court to determine the appropriate disposition of property in which the estate and an entity other than the estate have an interest. It would apply, for example, to property subject to a lien or property co-owned by the estate and another entity. The court must make the determination with respect to property that is not disposed of under another section of the bankruptcy code, such as by abandonment under section 554, by sale or distribution under 363, or by allowing foreclosure by a secured creditor by lifting the stay under section 362. The purpose of the section is to give the court appropriate authority to ensure that collateral or its proceeds is returned to the proper secured creditor, that consigned or bailed goods are returned to the consignor or bailor and so on. Current law is curiously silent on this point, though case law has grown to fill the void. The section is in lieu of a section that would direct a certain distribution to secured creditors. It gives the court greater flexibility to meet the circumstances, and it is broader, permitting disposition of property subject to a co-ownership interest.
+This section requires the court to determine the appropriate disposition of property in which the estateand an entity other than the estate have an interest. It would apply, for example, to property subject to a lien or property co-owned by the estate and another entity. The court must make the determination with respect to property that is not disposed of under another section of the bankruptcy code, such as by abandonment under section 554, by sale or distribution under 363, or by allowing foreclosure by a secured creditor by lifting the stay under section 362. The purpose of the section is to give the court appropriate authority to ensure that collateral or its proceeds is returned to the proper secured creditor, that consigned or bailed goods are returned to the consignor or bailor and so on. Current law is curiously silent on this point, though case law has grown to fill the void. The section is in lieu of a section that would direct a certain distribution to secured creditors. It gives the court greater flexibility to meet the circumstances, and it is broader, permitting disposition of property subject to a co-ownership interest.
 
 #### Amendments
 

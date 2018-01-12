@@ -36,7 +36,7 @@ Act
 
 June 28, 1950, ch. 383, §307 (less last sentence), 64 Stat. 270.
 
-The words "authorized by sections 21f and 21h, respectively, of this title" are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by section 3064 of this title.
+The words "authorized by sections 21f and 21h, respectively, of this title" are omitted as surplusage.10:81–1 (2d sentence) is omitted as covered by section 3064 of this title.
 
 1958
 

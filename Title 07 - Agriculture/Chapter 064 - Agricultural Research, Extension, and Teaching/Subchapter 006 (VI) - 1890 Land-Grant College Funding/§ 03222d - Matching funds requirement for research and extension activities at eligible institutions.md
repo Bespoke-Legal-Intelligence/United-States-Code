@@ -26,7 +26,7 @@ Notwithstanding any other provision of this subchapter, the State shall provide 
 
 #### (d) Waiver authority
 
-Notwithstanding subsection (f), the Secretary may waive the matching funds requirementunder subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
+Notwithstanding subsection (f), the Secretary may waive the matching funds requirement under subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
 
 #### (e) Use of matching funds
 

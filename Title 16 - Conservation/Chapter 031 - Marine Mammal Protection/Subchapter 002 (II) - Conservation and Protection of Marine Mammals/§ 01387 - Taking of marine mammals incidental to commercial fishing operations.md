@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) a remote likelihood of or no known incidental mortality or serious injury of marine mammals;
 
-&emsp;(B) after the close of the period for such public comment, publish in the Federal Register arevised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
+&emsp;(B) after the close of the period for such public comment, publish in the Federal Register a revised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
@@ -122,7 +122,7 @@
 
 &emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
 
-&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
+&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marinemammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
 (5) The Secretary may establish an alternative observer program to provide statistically reliable information on the species and number of marine mammals incidentally taken in the course of commercial fishing operations. The alternative observer program may include direct observation of fishing activities from vessels, airplanes, or points on shore.
 
@@ -178,7 +178,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) recommended dates for achieving the specific objectives of the plan.
 
-(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removal level established under section 1386 of this title, the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
+(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removal level established under section 1386 of this title,the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
 
 (B) For any stock in which human-caused mortality and serious injury exceeds the potential biological removal level, other than a stock to which subparagraph (A) applies, the plan shall include measures the Secretary expects will reduce, to the maximum extent practicable within 6 months of the plan's implementation, the incidental mortality and serious injury by such commercial fisheries from that stock. For purposes of this subparagraph, the term "maximum extent practicable" means to the lowest level that is feasible for such fisheries within the 6-month period.
 
@@ -214,7 +214,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
+(8) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
 &emsp;(A)(i) Not later than 11 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for the stock to the Secretary, consistent with the other provisions of this section.
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementationof the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 

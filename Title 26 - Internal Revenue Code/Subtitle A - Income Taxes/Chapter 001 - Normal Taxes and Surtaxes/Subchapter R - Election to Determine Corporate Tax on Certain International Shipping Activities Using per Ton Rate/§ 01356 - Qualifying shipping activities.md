@@ -76,3 +76,7 @@ Nonelecting corporations.—In the case of a corporation (other than an electing
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
+#### Effective Date
+
+Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
+

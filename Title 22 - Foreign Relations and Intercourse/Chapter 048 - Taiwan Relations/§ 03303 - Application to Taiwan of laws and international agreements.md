@@ -24,7 +24,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(7) The capacity of Taiwan to sue and be sued in courts in the United States, in accordance with the laws of the United States, shall not be abrogated, infringed, modified, denied, or otherwise affected in any way by the absence of diplomatic relations or recognition.
 
-&emsp;(8) No requirement, whether expressed or implied, under the laws of the United States with respect to maintenance of diplomatic relations or recognition shall be applicable with respect to Taiwan.
+&emsp;(8) No requirement, whether expressed or implied, under the laws of the United States with respect to maintenance of diplomatic relationsor recognition shall be applicable with respect to Taiwan.
 
 #### (c) Treaties and other international agreements
 
@@ -43,6 +43,10 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 194
 The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### Effective Date
+
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
 
 #### Concerning the Participation of Taiwan in the International Civil Aviation Organization
 

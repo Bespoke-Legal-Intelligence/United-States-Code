@@ -28,9 +28,9 @@
 
 &emsp;(11) failure of the debtor to pay any domestic support obligation that first becomes payable after the date of the filing of the petition.
 
-(d) Except as provided in subsection (f) of this section, at any time before the confirmation of a plan under section 1325 of this title, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 or 12 of this title.
+(d) Except as provided in subsection (f) of this section, at any time before the confirmation ofa plan under section 1325 of this title, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 or 12 of this title.
 
-(e) Upon the failure of the debtor to file a tax return under section 1308, on request of a party in interest or the United States trustee andafter notice and a hearing, the court shall dismiss a case or convert a case under this chapter to a case under chapter 7 of this title, whichever is in the best interest of the creditors and the estate.
+(e) Upon the failure of the debtor to file a tax return under section 1308, on request of a party in interest or the United States trustee and after notice and a hearing, the court shall dismiss a case or convert a case under this chapter to a case under chapter 7 of this title, whichever is in the best interest of the creditors and the estate.
 
 (f) The court may not convert a case under this chapter to a case under chapter 7, 11, or 12 of this title if the debtor is a farmer, unless the debtor requests such conversion.
 

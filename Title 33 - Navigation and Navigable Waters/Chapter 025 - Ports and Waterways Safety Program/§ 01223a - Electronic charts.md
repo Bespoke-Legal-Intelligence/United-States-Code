@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, shall be equipped withand operate electronic charts under regulations prescribed by the Secretary of the department in which the Coast Guard is operating:
+&emsp;Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, shall be equipped with and operate electronic charts under regulations prescribed by the Secretary of the department in which the Coast Guard is operating:
 
 &emsp;&emsp;(A) A self-propelled commercial vessel of at least 65 feet overall length.
 

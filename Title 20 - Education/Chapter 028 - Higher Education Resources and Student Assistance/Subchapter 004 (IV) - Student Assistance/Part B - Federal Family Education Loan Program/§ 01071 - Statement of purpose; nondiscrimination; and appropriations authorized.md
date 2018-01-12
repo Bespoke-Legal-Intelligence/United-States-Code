@@ -28,7 +28,7 @@ For the purpose of carrying out this part—
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
-&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
+&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant tosection 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
 
 &emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying a loan processing and issuance fee in accordance with section 1078(f) of this title to guaranty agencies, and
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 111–152, §2201(2), added subsec. (d).
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–171 substituted "a loan processing and issuance fee" for "an administrative cost allowance".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: "Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding anyrequirements for notice and public hearing on such regulations."
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: "Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations."
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "The program established under this part shall be referred to as the 'Robert T. Stafford Student Loan Program'. Loans made under this part shall be known as 'Stafford Loans'."
 
@@ -156,7 +156,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 "(c)
 
-Changes Effective Without Regard to Regulations; Republication of Regulations.—The changesmade in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
+Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
 "(d)
 

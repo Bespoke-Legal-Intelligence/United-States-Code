@@ -16,7 +16,7 @@
 
 (b) Any payment under subsection (a)—
 
-&emsp;(1) shall be in an amount equal to the amount of the annual basic pay or salary of the member or employee concerned at the time of death;
+&emsp;(1) shall be in an amount equal to the amount of the annual basic pay or salary ofthe member or employee concerned at the time of death;
 
 &emsp;(2) shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by this chapter or any other Federal law; and
 

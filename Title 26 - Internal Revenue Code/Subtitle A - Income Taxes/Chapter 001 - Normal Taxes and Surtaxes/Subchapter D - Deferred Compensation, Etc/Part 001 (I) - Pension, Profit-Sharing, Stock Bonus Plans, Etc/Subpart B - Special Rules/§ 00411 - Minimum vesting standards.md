@@ -116,7 +116,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
 
-&emsp;&emsp;(C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary;
+&emsp;&emsp;(C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary);
 
 &emsp;&emsp;(D) service not required to be taken into account under paragraph (6);
 
@@ -146,7 +146,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (C) Seasonal industries
 
-&emsp;&emsp;In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term "year of service" shall be such period as may be determined under regulations prescribed by the Secretary of Labor.
+&emsp;&emsp;In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term "year of service" shall be such period as may be determined under regulations prescribed by the Secretary of Labor.
 
 #### (D) Maritime industries
 
@@ -300,7 +300,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Election of former schedule
 
-&emsp;&emsp;A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph\(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after the adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
+&emsp;&emsp;A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after the adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
 #### (11) Restrictions on certain mandatory distributions
 
@@ -368,7 +368,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;A defined benefit plan satisfies the requirements of this paragraph for a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(i) any amendment to the plan which is in effect for the current year shall betreated as in effect for all other plan years;
+&emsp;&emsp;&emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
 &emsp;&emsp;&emsp;(ii) any change in an accrual rate which does not apply to any individual who is or could be a participant in the current year shall be disregarded;
 
@@ -548,7 +548,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (III) Multiple amendments
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall issue regulations to prevent the avoidance of the purposesof this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall issue regulations to prevent the avoidance of the purposes of this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
 
 #### (IV) Applicable defined benefit plan
 
@@ -622,7 +622,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(iii) interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
-&emsp;&emsp;&emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect undersection 1274 for the 1st month of a plan year) for the period beginning with the 1st plan year to which subsection (a)(2) applies (by reason of the applicable effective date) and ending with the date on which the determination is being made, and
+&emsp;&emsp;&emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year) for the period beginning with the 1st plan year to which subsection (a)(2) applies (by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
 &emsp;&emsp;&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 417(e)(3) (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
@@ -680,7 +680,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(ii) eliminating an optional form of benefit,
 
-> &emsp;&emsp;with respect to benefits attributable to service before the amendment shall be treated asreducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary shall by regulations provide that this subparagraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary may by regulations provide that this subparagraph shall not apply to a plan amendment described in clause (ii) (other than a plan amendment having an effect described in clause (i)).
+> &emsp;&emsp;with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary shall by regulations provide that this subparagraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary may by regulations provide that this subparagraph shall not apply to a plan amendment described in clause (ii) (other than a plan amendment having an effect described in clause (i)).
 
 #### (C) Special rule for ESOPS
 
@@ -878,7 +878,7 @@ Subsec. (a)(8)(B). Pub. L. 101–239, §7871(b)(1), amended subpar. (B) generall
 
 Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "
 
-Disregard of subsidized portion of early retirement benefit.—A plan shall not be treated as failing to meet the requirements of subparagraph (A) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals."
+Disregard of subsidized portion of early retirement benefit.—A plan shall not be treated as failing to meet the requirements of subparagraph (A) solely because the subsidized portionof any early retirement benefit is disregarded in determining benefit accruals."
 
 Subsec. (b)(2)(C), (D). Pub. L. 101–239, §7871(a)(1), (2), redesignated subpar. (D) as (C) and substituted "this paragraph" for "this subparagraph". Former subpar. (C) redesignated (B).
 
@@ -906,7 +906,7 @@ Limitation.—The accrued benefit derived from employee contributions shall not 
 
 <b>1987</b>—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(b)(1), substituted "120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year)" for "5 percent per annum".
 
-Subsec. (c)(2)(D). Pub. L. 100–203, §9346(b)(2), struck out ", the rate of interest described in clause (iii) of subparagraph (C), or both" before "from time to time" in first sentence and struck out second sentence which read as follows: "The rate of interest described in clause (iii) of subparagraph (C), or both, from time to time as he may deem necessary. The rate of interest shall bear the relationship to 5 percent which the Secretary determines to be comparable to the relationship which the long-term money rates and investmentyields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973."
+Subsec. (c)(2)(D). Pub. L. 100–203, §9346(b)(2), struck out ", the rate of interest described in clause (iii) of subparagraph (C), or both" before "from time to time" in first sentence and struck out second sentence which read as follows: "The rate of interest described in clause (iii) of subparagraph (C), or both, from time to time as he may deem necessary. The rate of interest shall bear the relationship to 5 percent which the Secretary determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1898(d)(1)(A)(ii), inserted reference to par. (11) in introductory text.
 
@@ -982,7 +982,7 @@ Pub. L. 113–235, div. P, §2(c), Dec. 16, 2014, 128 Stat. 2829, provided that:
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -1174,7 +1174,7 @@ Special rule for collective bargaining agreements.—In the case of a plan maint
 
 &emsp;&emsp;"(i) January 1, 1989, or
 
-&emsp;&emsp;"(ii) the date on which the last of such collective bargaining agreements terminates (determinedwithout regard to any extension thereof after February 28, 1986), or
+&emsp;&emsp;"(ii) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after February 28, 1986), or
 
 &emsp;"(B) January 1, 1991.
 
@@ -1228,7 +1228,7 @@ Special rule.—In the case of a plan maintained by a corporation incorporated o
 
 Pub. L. 99–514, title XVIII, §1898(a)(1)(C), Oct. 22, 1986, 100 Stat. 2942, provided that: "The amendments made by this paragraph \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions made for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]; except that, in the case of a plan described in section 302(b) of the Retirement Equity Act of 1984 \[section 302(b) of Pub. L. 98–397, set out as a note under section 1001 of Title 29\], such amendments shall not apply to any plan year to which the amendments made by such Act \[see Short Title of 1984 Amendment note set out under section 1001 of Title 29\] do not apply by reason of such section 302(b)."
 
-Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except asotherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
 
@@ -1256,7 +1256,7 @@ Pub. L. 109–280, title XI, §1102(b), Aug. 17, 2006, 120 Stat. 1056, provided 
 
 "(1)
 
-In general.—The Secretary of the Treasury shall modify the regulations under section 411(a)(11) of the Internal Revenue Code of 1986 and under section 205 ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055\] to provide that the description of a participant's right, if any, to defer receipt of a distribution shall also describe the consequences of failing to defer such receipt.
+In general.—The Secretary of the Treasury shall modify the regulations under section 411(a)(11) of the Internal Revenue Code of 1986 and under section 205 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055\] to provide that the description of a participant's right, if any, to defer receipt of a distribution shall also describe the consequences of failing to defer such receipt.
 
 "(2)
 
@@ -1300,7 +1300,7 @@ In General.—If this section applies to any pension plan or contract amendment�
 
 &emsp;"(1) such pension plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A), and
 
-&emsp;"(2) except as provided by the Secretary of the Treasury, such pension plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] by reason of such amendment.
+&emsp;"(2) except as provided by the Secretary of the Treasury, such pension plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the EmployeeRetirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] by reason of such amendment.
 
 "(b)
 
@@ -1354,7 +1354,7 @@ In general.—This subsection shall apply to any amendment to any plan or annuit
 
 Conditions.—This subsection shall not apply to any plan or annuity contract amendment unless—
 
-&emsp;&emsp;"(i) during the period beginning on the date the amendment described in subparagraph (A)(i) takeseffect and ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and
+&emsp;&emsp;"(i) during the period beginning on the date the amendment described in subparagraph (A)(i) takes effect and ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and
 
 &emsp;&emsp;"(ii) such plan or contract amendment applies retroactively for such period."
 

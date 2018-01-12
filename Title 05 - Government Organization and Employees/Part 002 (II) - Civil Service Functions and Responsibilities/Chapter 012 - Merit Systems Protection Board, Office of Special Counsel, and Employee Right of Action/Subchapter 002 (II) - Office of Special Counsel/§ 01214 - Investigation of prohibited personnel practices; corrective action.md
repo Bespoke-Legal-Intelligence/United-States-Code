@@ -30,7 +30,7 @@
 
 (B) A written statement under subparagraph (A) may not be admissible as evidence in any judicial or administrative proceeding, without the consent of the person who received such statement under subparagraph (A).
 
-(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, orapplicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) from the Special Counsel and—
+(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) from the Special Counsel and—
 
 &emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
 
@@ -42,13 +42,31 @@
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
+(6)(A) Notwithstanding any other provision of this section, not later than 30 days after the date on which the Special Counsel receives an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry if the Special Counsel determines that—
+
+&emsp;(i) the same allegation, based on the same set of facts and circumstances, had previously been—
+
+&emsp;&emsp;(I)(aa) made by the individual; and
+
+&emsp;&emsp;(bb) investigated by the Special Counsel; or
+
+&emsp;&emsp;(II) filed by the individual with the Merit Systems Protection Board;
+
+&emsp;(ii) the Special Counsel does not have jurisdiction to investigate the allegation; or
+
+&emsp;(iii) the individual knew or should have known of the alleged prohibited personnel practice on or before the date that is 3 years before the date on which the Special Counsel received the allegation.
+
+(B) Not later than 30 days after the date on which the Special Counsel terminates an investigation under subparagraph (A), the Special Counsel shall provide a written notification to the individual who submitted the allegation of a prohibited personnel practice that states the basis of the Special Counsel for terminating the investigation.
+
 (b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
 (ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
 (iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
-(B) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+(B)(i) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+
+(ii) If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
 
 (C) The Board shall allow any agency which is the subject of a stay to comment to the Board on any extension of stay proposed under subparagraph (B).
 
@@ -57,6 +75,8 @@
 &emsp;(i) on its own motion or on the motion of an agency, unless notice and opportunity for oral or written comments are first provided to the Special Counsel and the individual on whose behalf the stay was ordered; or
 
 &emsp;(ii) on motion of the Special Counsel, unless notice and opportunity for oral or written comments are first provided to the individual on whose behalf the stay was ordered.
+
+(E) If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
 
 (2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
 
@@ -76,9 +96,9 @@
 
 &emsp;(B) written comments by any individual who alleges to be the subject of the prohibited personnel practice.
 
-(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
+(4)(A) The Board shall order such corrective action as the Board considers appropriate, if theBoard determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
-(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure orprotected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
+(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
 (ii) Corrective action under clause (i) may not be ordered if, after a finding that a protected disclosure was a contributing factor, the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
@@ -110,9 +130,23 @@
 
 (h) Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472.)
+(i) The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.
+
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–42, §1, June 27, 2017, 131 Stat. 883; Pub. L. 115–73, title I, §102(a), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, §1097(c)(3)(A), (4), (f), (j), Dec. 12, 2017, 131 Stat. 1619, 1622, 1625.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(6). Pub. L. 115–91, §1097(f), added par. (6).
+
+Subsec. (b)(1)(B). Pub. L. 115–42 designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (b)(1)(B)(ii). Pub. L. 115–91, §1097(j), struck out "who was appointed, by and with the advice and consent of the Senate," after "member of the Board".
+
+Subsec. (b)(1)(E). Pub. L. 115–91, §1097(c)(3)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: "If the Merit Systems Protection Board grants a stay under this subsection, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee."
+
+Pub. L. 115–73 added subpar. (E).
+
+Subsec. (i). Pub. L. 115–91, §1097(c)(4), added subsec. (i).
 
 <b>2012</b>—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, §101(b)(1)(A), inserted "or section 2302(b)(9)(A)(i), (B), (C), or (D)" after "section 2302(b)(8)".
 

@@ -2,7 +2,7 @@
 
 (a) The Congress hereby finds that—
 
-&emsp;(1) the post-World War II evolution of the relationship between Japan and the United States to peacetime friendship and partnership is one of the most significant developments of the postwar period;
+&emsp;(1) the post-World War II evolution of the relationship between Japan and the UnitedStates to peacetime friendship and partnership is one of the most significant developments of the postwar period;
 
 &emsp;(2) the Agreement Between Japan and the United States of America Concerning the Ryukyu Islands and the Daito Islands, signed at Washington and Tokyo on June 17, 1971, is a major achievement and symbol of the new relationship between the United States and Japan; and
 

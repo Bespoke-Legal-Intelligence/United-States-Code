@@ -14,7 +14,7 @@
 
 &emsp;(6) within the Department of Defense, the performance of any other functions with respect to the furnishing of military assistance, education and training.
 
-(b) The establishment of priorities in the procurement, delivery, and allocation of military equipment shall be determined by the Secretary of Defense.
+(b) The establishment of priorities in the procurement, delivery, and allocation of militaryequipment shall be determined by the Secretary of Defense.
 
 (Pub. L. 87–195, pt. III, §623, Sept. 4, 1961, 75 Stat. 446; Pub. L. 94–329, title I, §106(b)(3), June 30, 1976, 90 Stat. 733.)
 

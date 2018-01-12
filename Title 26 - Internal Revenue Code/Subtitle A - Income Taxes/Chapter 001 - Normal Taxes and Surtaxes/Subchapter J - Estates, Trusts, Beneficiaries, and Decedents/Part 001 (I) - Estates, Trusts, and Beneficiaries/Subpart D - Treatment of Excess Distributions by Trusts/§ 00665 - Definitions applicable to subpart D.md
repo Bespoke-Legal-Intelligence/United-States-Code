@@ -138,7 +138,7 @@ Amendment by section 701(b), (c), (d)(2), (3) of Pub. L. 94–455 applicable to 
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title III, §306(a), Dec. 10, 1971, 85 Stat. 524, provided that the amendment made by that sectionis effective with respect to taxable years beginning after Dec. 31, 1968.
+Pub. L. 92–178, title III, §306(a), Dec. 10, 1971, 85 Stat. 524, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1968.
 
 #### Effective Date of 1969 Amendment
 

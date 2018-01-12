@@ -98,7 +98,7 @@ The Education Amendments of 1978, referred to in subsec. (a)(2)(D), is Pub. L. 9
 
 Act of August 30, 1890 (7 U.S.C. 321–328), referred to in subsec. (a)(2)(E), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-The National Defense Education Act of 1958, referred to in subsec. (a)(2)(F), is Pub. L. 85–864, Sept. 2, 1958, 72 Stat. 1580, which was classified principally to chapter 17 (§401 et seq.) of this title prior to omission from the Code. For complete classification of this Act to the Code, see Tables.
+The National Defense Education Act of 1958, referred to in subsec. (a)(2)(F), is Pub. L. 85–864, Sept. 2, 1958, 72Stat. 1580, which was classified principally to chapter 17 (§401 et seq.) of this title prior to omission from the Code. For complete classification of this Act to the Code, see Tables.
 
 The International Education Act of 1966, referred to in subsec. (a)(2)(G), is Pub. L. 89–698, Oct. 29, 1966, 80 Stat. 1066, which was classified principally to chapter 29 (§1171 et seq.) of this title and was substantially repealed by section 601(c)(2) of Pub. L. 96–374. For complete classification of this Act to the Code, see Tables.
 

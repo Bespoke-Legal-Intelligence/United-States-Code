@@ -34,5 +34,5 @@ In subsection (b), the words "garrisons, and permanent camps" are omitted as cov
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(6) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(6)of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 

@@ -111,6 +111,8 @@
 | [356e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356e%20-%20Drug%20shortage%20list.md) | Drug shortage list. |
 | [356f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356f%20-%20Hospital%20repackaging%20of%20drugs%20in%20shortage.md) | Hospital repackaging of drugs in shortage. |
 | [356g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356g%20-%20Standards%20for%20regenerative%20medicine%20and%20regenerative%20advanced%20therapies.md) | Standards for regenerative medicine and regenerative advanced therapies. |
+| [356h.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356h%20-%20Competitive%20generic%20therapies.md) | Competitive generic therapies. |
+| [356i.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356i%20-%20Prompt%20reports%20of%20marketing%20status.md) | Prompt reports of marketing status. |
 | [357\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000357%20-%20Qualification%20of%20drug%20development%20tools.md) | Qualification of drug development tools. |
 | [358\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md) | Authority to designate official names. |
 | [359\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md) | Nonapplicability of subchapter to cosmetics. |
@@ -190,10 +192,11 @@
 | 360bbb–1. | Dispute resolution. |
 | 360bbb–2. | Classification of products. |
 | 360bbb–3. | Authorization for medical products for use in emergencies. |
-| 360bbb–3a. | Emergency use of medical products. |
-| 360bbb–3b. | Products held for emergency use. |
+| 360bbb–3a. Emergency use of medical products. |  |
+| 360bbb–3b. Products held for emergency use. |  |
+| 360bbb–3c. Expedited development and review of medical products for emergency uses. |  |
 | 360bbb–4. | Countermeasure development, review, and technical assistance. |
-| 360bbb–4a. | Priority review to encourage treatments for agents that present national security threats. |
+| 360bbb–4a. Priority review to encourage treatments for agents that present national security threats. |  |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
 | 360bbb–7. | Notification. |

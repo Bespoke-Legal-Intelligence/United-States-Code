@@ -44,7 +44,7 @@ If it is oleomargarine or margarine or butter and any of the raw material used t
 
 &emsp;(D) is or contains a dietary ingredient that renders it adulterated under paragraph (a)(1) under the conditions of use recommended or suggested in the labeling of such dietary supplement.
 
-> In any proceeding under this subparagraph, the United States shall bear the burden of proof on each element to show that a dietary supplement is adulterated. The court shall decide any issue under this paragraph on a de novo basis.
+> In any proceeding under this subparagraph, the United States shall bear the burden of proof oneach element to show that a dietary supplement is adulterated. The court shall decide any issue under this paragraph on a de novo basis.
 
 (2) Before the Secretary may report to a United States attorney a violation of paragraph <sup>2</sup> (1)(A) for a civil proceeding, the person against whom such proceeding would be initiated shall be given appropriate notice and the opportunity to present views, orally and in writing, at least 10 days before such notice, with regard to such proceeding.
 
@@ -88,7 +88,7 @@ Par. (d)(3). Pub. L. 103–80, §3(i)(3), substituted ", except that this subpa
 
 <b>1968</b>—Par. (a)(2). Pub. L. 90–399 added cls. (A)(iv) and (D).
 
-<b>1966</b>—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
+<b>1966</b>—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of theconsumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
 
 <b>1960</b>—Par. (a). Pub. L. 86–618, §102(a)(1), substituted "other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive" for "(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)" in cl. (2)(A).
 
@@ -140,7 +140,7 @@ Pub. L. 85–929, §6, Sept. 6, 1958, 72 Stat. 1788, as amended by Pub. L. 87–
 
 #### Effective Date of 1954 Amendment
 
-Act July 22, 1954, ch. 559, §5, 68 Stat. 517, provided that: "This Act \[amending this section and section 321 of this title and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[section 346a of this title\], the amendment to section 402(a) of such Act \[par. (a) of this section\] made by section 2 of this Act shall not be effective—
+Act July 22, 1954, ch. 559, §5, 68 Stat. 517, provided that: "This Act \[amending this section and section 321 of this title and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[section 346a of this title\], the amendment to section 402(a) of such Act \[par. (a) of thissection\] made by section 2 of this Act shall not be effective—
 
 &emsp;"(1) for the period of one year following the date of the enactment of this Act \[July 22, 1954\]; or
 

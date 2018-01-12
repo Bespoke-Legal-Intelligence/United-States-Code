@@ -10,5 +10,5 @@ Section 337 of the Tariff Act of 1930, referred to in text, is classified to sec
 
 #### Effective Date
 
-Section applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on orafter the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1337 of Title 19.
+Section applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1337 of Title 19.
 

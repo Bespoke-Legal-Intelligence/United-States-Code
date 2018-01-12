@@ -14,7 +14,7 @@ No entity controlled by a foreign government may merge with, acquire, or take ov
 
 #### (b) Inapplicability to certain cases
 
-The limitation in subsection (a) shall not apply if a merger, acquisition, or takeover is not suspended or prohibited pursuant to section 4565 of this title.
+The limitation in subsection (a) shall not apply if a merger, acquisition, or takeover is notsuspended or prohibited pursuant to section 4565 of this title.
 
 #### (c) Definitions
 

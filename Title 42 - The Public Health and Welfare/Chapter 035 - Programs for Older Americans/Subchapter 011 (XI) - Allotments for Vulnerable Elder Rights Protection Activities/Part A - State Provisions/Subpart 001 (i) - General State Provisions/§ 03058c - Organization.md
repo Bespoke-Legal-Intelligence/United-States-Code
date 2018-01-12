@@ -16,3 +16,7 @@ A prior section 3058c, Pub. L. 89–73, title VII, §705, as added Pub. L. 98–
 
 A prior section 704 of Pub. L. 89–73 was classified to section 3045c of this title prior to repeal by Pub. L. 95–478.
 
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+

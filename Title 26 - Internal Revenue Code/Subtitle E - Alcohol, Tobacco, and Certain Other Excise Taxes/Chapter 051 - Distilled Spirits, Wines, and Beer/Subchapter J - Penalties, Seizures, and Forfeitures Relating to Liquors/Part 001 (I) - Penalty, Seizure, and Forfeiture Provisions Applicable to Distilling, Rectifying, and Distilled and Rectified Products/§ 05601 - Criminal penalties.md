@@ -34,7 +34,7 @@ Any person who—
 
 #### (8) Unlawful production of distilled spirits
 
-&emsp;not being a distiller authorized by law to produce distilled spirits, produces distilled spirits by distillation or any other processfrom any mash, wort, wash, or other material; or
+&emsp;not being a distiller authorized by law to produce distilled spirits, produces distilled spirits by distillation or any other process from any mash, wort, wash, or other material; or
 
 #### (9) Unauthorized use of distilled spirits in manufacturing processes
 
@@ -82,7 +82,7 @@ Whenever on trial for violation of subsection (a)(4) the defendant is shown to h
 
 #### Prior Provisions
 
-A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related to forfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
+A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related toforfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
 
 Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (14) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 96–39, §807(a)(52)(F), substituted "processor" for "rect
 
 <b>1976</b>—Subsec. (a)(7). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par.\(4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation "(2)" and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
+Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation "(2)" and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
 
 #### Effective Date of 1980 Amendment
 

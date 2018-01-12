@@ -10,7 +10,7 @@ The Secretary shall—
 
 &emsp;(1) identify and assess the impacts of specific presentation, placement, and other strategies for structuring choices on selection and consumption of healthful foods in a variety of settings, consistent with the most recent version of the Dietary Guidelines for Americans published under section 5341 of this title;
 
-&emsp;(2) demonstrate and rigorously evaluate behavioral economics-related interventions that hold promise to improve diets and promote health, including through demonstrationprojects that may include evaluation of the use of portion size, labeling, convenience, and other strategies to encourage healthy choices; and
+&emsp;(2) demonstrate and rigorously evaluate behavioral economics-related interventions that hold promise to improve diets and promote health, including through demonstration projects that may include evaluation of the use of portion size, labeling, convenience, and other strategies to encourage healthy choices; and
 
 &emsp;(3) encourage adoption of the most effective strategies through outreach and technical assistance.
 
@@ -32,7 +32,7 @@ The solicitation and evaluation of contracts, cooperative agreements, and grant 
 
 #### (f) Annual reports
 
-Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of—
+Not later than 90 days after the end of each fiscal year, the Secretary shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of—
 
 &emsp;(1) the policies, priorities, and operations of the program carried out by the Secretary under this section during the fiscal year;
 

@@ -168,7 +168,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)
 
 <b>2010</b>—Subsec. (b)(4)(B). Pub. L. 111–203, §985(d)(2), inserted "or" at end.
 
-Subsec. (d)(1). Pub. L. 111–203, §929P(a)(3), designated existing provisions as subpar. (A) and inserted heading, inserted "that such penalty is in the public interest, and" after "opportunity for hearing," in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read "and that such penalty is in the public interest.", and added subpar. (B).
+Subsec. (d)(1). Pub. L. 111–203, §929P(a)(3), designated existing provisions as subpar. (A) and inserted heading, inserted "that such penalty is in the public interest, and" after "opportunity for hearing," in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read "and thatsuch penalty is in the public interest.", and added subpar. (B).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–291 inserted "credit rating agency," after "transfer agent," in pars. (1) and (2).
 

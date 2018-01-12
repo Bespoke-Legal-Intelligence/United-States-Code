@@ -42,7 +42,7 @@ Implementation.—Amtrak shall implement the performance improvement plan develo
 
 (d)
 
-Enforcement.—The Federal Railroad Administration shall monitor the development, implementation, and outcome of improvement plans under this section. If the Federal Railroad Administration determines that Amtrak is not making reasonable progress in implementing its performance improvement plan or, after the performance improvement plan is implemented under subsection (c)(1) in accordance with the terms of that plan, Amtrak has not achieved the outcomes it has established for such routes, under the plan for any calendar year, the Federal Railroad Administration—
+Enforcement.—The Federal Railroad Administration shall monitor the development, implementation, and outcome of improvement plans under this section. If the Federal Railroad Administration determines that Amtrak is not making reasonable progress in implementing its performance improvement plan or, after the performance improvement plan is implemented under subsection (c)(1) in accordance with the terms of that plan, Amtrak has not achieved the outcomes it has established for such routes,under the plan for any calendar year, the Federal Railroad Administration—
 
 &emsp;(1) shall notify Amtrak, the Inspector General of the Department of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate of its determination under this subsection;
 

@@ -4,7 +4,7 @@
 
 (1)(A) An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title, and shall be made available and furnished to participants in accordance with section 1024(b) of this title.
 
-(B) The annual report shall include the information described in subsections (b) and (c) andwhere applicable subsections (d), (e), and (f) and shall also include—
+(B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
 
 &emsp;(i) a financial statement and opinion, as required by paragraph (3) of this subsection, and
 
@@ -24,7 +24,7 @@
 
 (B) In offering his opinion under this section the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary, if he so states his reliance.
 
-(C) The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
+(C) The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) prepared by a bank or similar institution or insurance carrierregulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
 
 (D) For purposes of this subchapter, the term "qualified public accountant" means—
 
@@ -52,7 +52,7 @@
 
 An annual report under this section shall include a financial statement containing the following information:
 
-(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, andcontingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
+(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
 
 (2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
 
@@ -66,7 +66,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(D) a schedule of each transaction involving a person known to be party in interest, the identity of such party in interest and his relationship or that of any other party in interest to the plan, a description of each asset to which the transaction relates; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expense incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction;
 
-&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of the close of the plan's fiscal year or were classified during the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interest rate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
+&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of the close of the plan's fiscal year or were classifiedduring the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interest rate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
 
 &emsp;(F) a list of all leases which were in default or were classified during the year as uncollectable; and the following information with respect to each lease on such schedule (including a notation as to whether parties involved are known to be parties in interest): the type of property leased (and, in the case of fixed assets such as land, buildings, leasehold, and so forth, the location of the property), the identity of the lessor or lessee from or to whom the plan is leasing, the relationship of such lessors and lessees, if any, to the plan, the employer, employee organization, or any other party in interest, the terms of the lease regarding rent, taxes, insurance, repairs, expenses, and renewal options; the date the leased property was purchased and its cost, the date the property was leased and its approximate value at such date, the gross rental receipts during the reporting period, expenses paid for the leased property during the reporting period, the net receipts from the lease, the amounts in arrears, and a statement as to what steps have been taken to collect amounts due or otherwise remedy the default;
 
@@ -100,7 +100,7 @@ The administrator shall furnish as a part of a report under this section the fol
 
 #### (d) Actuarial statement
 
-With respect to an employee pension benefit plan (other than (A) a profit sharing, savings, or other plan, which is an individual account plan, (B) a plan described in section 1081(b) of this title, or (C) a plan described both in section 1321(b) of this title and in paragraph (1), (2), (3), (4), (5), (6), or (7) of section 1081(a) of this title) an annual report under this section for a plan year shall include a complete actuarial statement applicable to the plan year which shall include the following:
+With respect to an employee pension benefit plan (other than (A) a profit sharing, savings, or other plan, which is an individual account plan, (B) a plan described in section 1081(b) of this title, or (C) a plan described both in section1321(b) of this title and in paragraph (1), (2), (3), (4), (5), (6), or (7) of section 1081(a) of this title) an annual report under this section for a plan year shall include a complete actuarial statement applicable to the plan year which shall include the following:
 
 &emsp;(1) The date of the plan year, and the date of the actuarial valuation applicable to the plan year for which the report is filed.
 
@@ -164,7 +164,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;(1) the premium rate or subscription charge and the total premium or subscription charges paid to each such carrier, insurance service, or other similar organization and the approximate number of persons covered by each class of such benefits; and
 
-&emsp;(2) the total amount of premiums received, the approximate number of persons covered by each class of benefits, and the total claims paid by such company, service, or other organization; dividends or retroactive rate adjustments, commissions, and administrative service or other fees or other specific acquisition costs paid by such company, service, or other organization; any amounts held to provide benefits after retirement; the remainder of such premiums; and the names and addresses of the brokers, agents, or other persons to whom commissions or fees were paid, the amount paid to each, and for what purpose. If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves, the report shall include in lieu of the information required by the foregoing provisions of this paragraph (A) a statement as to the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the plan, and a copy of the financial report of the company, service, or other organization and (B) if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular plan or plans, a detailed statement of such costs.
+&emsp;(2) the total amount of premiums received, the approximate number of persons covered by each class of benefits, and the total claims paid by such company, service, or other organization; dividends or retroactive rate adjustments, commissions, and administrative service or other fees or other specific acquisition costs paid by such company, service, or other organization; any amounts held to provide benefits after retirement; the remainder of such premiums; and the names and addresses of the brokers, agents, or other persons to whom commissions or fees were paid, the amount paid to each, and for what purpose. If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves, the report shall include in lieu of the information required by the foregoing provisions ofthis paragraph (A) a statement as to the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the plan, and a copy of the financial report of the company, service, or other organization and (B) if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular plan or plans, a detailed statement of such costs.
 
 #### (f) Additional information with respect to defined benefit plans
 
@@ -198,7 +198,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;&emsp;(ii) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during each of the 2 preceding plan years.
 
-&emsp;&emsp;(E) Whether the plan received an amortization extension under section 1084(d) of thistitle or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.
+&emsp;&emsp;(E) Whether the plan received an amortization extension under section 1084(d) of this title or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.
 
 &emsp;&emsp;(F) Whether the plan used the shortfall funding method (as such term is used in section 1085 of this title) for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the use of such method, and the period of use of such method.
 
@@ -220,7 +220,7 @@ With respect to any multiple employer plan, an annual report under this section 
 
 Subsec. (g). Pub. L. 113–97, §104(c), added subsec. (g).
 
-<b>2008</b>—Subsec. (d)(3). Pub. L. 110–458, §101(d)(1)(A)(i), substituted "the normal costs or target normal costs, the accrued liabilities or funding target" for "the normal costs, the accrued liabilities".
+<b>2008</b>—Subsec. (d)(3). Pub. L. 110–458, §101(d)(1)(A)(i), substituted "the normal costs or target normal costs,the accrued liabilities or funding target" for "the normal costs, the accrued liabilities".
 
 Subsec. (d)(7). Pub. L. 110–458, §101(d)(1)(A)(ii), added par. (7) and struck out former par. (7) which read as follows: "A certification of the contribution necessary to reduce the accumulated funding deficiency to zero."
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987,see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987, see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
 
 #### Effective Date of 1986 Amendment
 

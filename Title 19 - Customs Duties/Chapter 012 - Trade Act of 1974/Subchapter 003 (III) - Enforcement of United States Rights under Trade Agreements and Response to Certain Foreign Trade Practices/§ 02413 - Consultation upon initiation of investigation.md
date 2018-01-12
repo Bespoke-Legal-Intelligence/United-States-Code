@@ -12,7 +12,7 @@
 
 > the Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement procedures provided under such agreement.
 
-(3) The Trade Representative shall seek information and advice from the petitioner (if any) and the appropriate committees established pursuant to section 2155 of this title in preparingUnited States presentations for consultations and dispute settlement proceedings.
+(3) The Trade Representative shall seek information and advice from the petitioner (if any) and the appropriate committees established pursuant to section 2155 of this title in preparing United States presentations for consultations and dispute settlement proceedings.
 
 #### (b) Delay of request for consultations
 

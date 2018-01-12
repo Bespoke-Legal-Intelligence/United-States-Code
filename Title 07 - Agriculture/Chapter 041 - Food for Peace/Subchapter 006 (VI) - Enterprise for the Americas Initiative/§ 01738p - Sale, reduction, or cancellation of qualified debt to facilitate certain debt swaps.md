@@ -26,7 +26,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (1) Consultation
 
-&emsp;Before selling, reducing, or canceling any qualified debt of an eligible country pursuantto this section, the President should consult with that country concerning, among other things, the amount of debt to be sold, reduced, or canceled and the uses of such debt for eligible debt swaps.
+&emsp;Before selling, reducing, or canceling any qualified debt of an eligible country pursuant to this section, the President should consult with that country concerning, among other things, the amount of debt to be sold, reduced, or canceled and the uses of such debt for eligible debt swaps.
 
 #### (2) Right of first refusal
 

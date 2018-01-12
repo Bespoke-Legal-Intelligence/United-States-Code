@@ -20,7 +20,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 "Whereas such membership in the International Labor Organization has proved of benefit to the people of the United States; and
 
-"Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions and recommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
+"Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions andrecommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
 
 "Whereas extensive revision of the constitution has been undertaken to enable the Organization to meet changed conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
 
@@ -70,9 +70,11 @@ General Provisions
 
 #### Extension of Term of President's Committee on the International Labor Organization
 
-Term of President's Committee on the International Labor Organization extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Committee on the International Labor Organization extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the International Labor Organization were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

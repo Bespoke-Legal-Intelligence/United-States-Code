@@ -64,7 +64,7 @@
 
 #### (10) Termination
 
-&emsp;The interim board shall terminate when the permanent board of directors established in subsection (b) first meets with a quorum present.
+&emsp;The interim board shall terminate when the permanent board of directors established insubsection (b) first meets with a quorum present.
 
 #### (b) Permanent board
 

@@ -28,7 +28,7 @@ The notice provided under subsection (a) shall include—
 
 &emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L.105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Pub. L. 108–173, title IX, §923(d)(2), Dec. 8, 2003, 117 Stat. 2395, provided
 
 "(A)
 
-Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
+Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whetherthe information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
 
 "(B)
 

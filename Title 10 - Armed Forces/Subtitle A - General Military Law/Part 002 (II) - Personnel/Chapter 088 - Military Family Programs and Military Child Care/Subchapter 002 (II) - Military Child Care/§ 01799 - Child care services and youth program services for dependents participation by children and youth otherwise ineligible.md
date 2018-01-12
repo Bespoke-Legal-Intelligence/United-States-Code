@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 whoare not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
+Authority.—The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 who are not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
 
 (b)
 

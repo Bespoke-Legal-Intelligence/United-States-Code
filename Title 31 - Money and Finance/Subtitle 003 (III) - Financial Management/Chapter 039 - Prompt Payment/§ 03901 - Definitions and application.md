@@ -68,7 +68,7 @@ May 21, 1982, Pub. L. 97–177, §§6, 7(c), 96 Stat. 87, 88.
 
 In the chapter, the words "the head of" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
+In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words "for this purpose" are omitted because of the restatement. Thewords "the purpose of" and "or more" are omitted as surplus.
 
 In subsection (a)(5), the words "deemed to be" are substituted for "considered" for consistency in the revised title and with other titles of the Code.
 

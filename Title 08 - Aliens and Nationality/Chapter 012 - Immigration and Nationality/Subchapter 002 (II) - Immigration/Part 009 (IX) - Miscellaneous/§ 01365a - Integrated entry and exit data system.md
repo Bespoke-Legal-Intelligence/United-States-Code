@@ -82,7 +82,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (g) Use of task force recommendations
 
-The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000.
+The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration andNaturalization Service Data Management Improvement Act of 2000.
 
 #### (h) Authorization of appropriations
 
@@ -134,7 +134,7 @@ Information.—The report shall include the following information:
 
 "(c)
 
-Use of Information on Overstays.—Information regarding aliens who have remained in the UnitedStaty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices."
+Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted "later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney" for "later than October 15, 1998, the Attorney".
 

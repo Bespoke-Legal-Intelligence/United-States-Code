@@ -8,7 +8,7 @@ Consistent with sections 7410 and 7412 of this title, each State shall, after re
 
 &emsp;(2) Adequate mechanisms for assisting small business stationary sources with pollution prevention and accidental release detection and prevention, including providing information concerning alternative technologies, process changes, products, and methods of operation that help reduce air pollution.
 
-&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman for small business stationary sources in connection with the implementation of this chapter.
+&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman forsmall business stationary sources in connection with the implementation of this chapter.
 
 &emsp;(4) A compliance assistance program for small business stationary sources which assists small business stationary sources in determining applicable requirements and in receiving permits under this chapter in a timely and efficient manner.
 
@@ -28,11 +28,11 @@ Consistent with sections 7410 and 7412 of this title, each State shall, after re
 
 The Administrator shall establish within 9 months after November 15, 1990, a small business stationary source technical and environmental compliance assistance program. Such program shall—
 
-&emsp;(1) assist the States in the development of the program required under subsection (a) of this section (relating to assistance for small business stationary sources);
+&emsp;(1) assist the States in the development of the program required under subsection (a) (relating to assistance for small business stationary sources);
 
 &emsp;(2) issue guidance for the use of the States in the implementation of these programs that includes alternative control technologies and pollution prevention methods applicable to small business stationary sources; and
 
-&emsp;(3) provide for implementation of the program provisions required under subsection (a)(4) of this section in any State that fails to submit such a program under that subsection.
+&emsp;(3) provide for implementation of the program provisions required under subsection (a)(4) in any State that fails to submit such a program under that subsection.
 
 #### (c) Eligibility
 
@@ -98,7 +98,7 @@ In developing regulations and CTGs under this chapter that contain continuous em
 
 #### (h) Control technique guidelines
 
-The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
+The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
 
 (July 14, 1955, ch. 360, title V, §507, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2645.)
 
@@ -106,7 +106,7 @@ The Administrator shall consider, consistent with the requirements of this chapt
 
 The Small Business Act, referred to in subsec. (c)(1)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally tochapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 

@@ -4,7 +4,7 @@
 
 The responsible party for—
 
-&emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States;
+&emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carryoil as cargo or fuel) using any place subject to the jurisdiction of the United States;
 
 &emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States; or
 
@@ -82,7 +82,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
+&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
 
 &emsp;&emsp;(A) all rights and defenses which would be available to the responsible party under this Act;
 
@@ -140,7 +140,7 @@ Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change a
 
 Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party."
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–55 substituted "the responsible party could be subjected under section 2704(a)or (d) of this title" for ", in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title".
+<b>1995</b>—Subsec. (a). Pub. L. 104–55 substituted "the responsible party could be subjected under section 2704(a) or (d) of this title" for ", in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title".
 
 #### Effective Date of 1996 Amendment
 

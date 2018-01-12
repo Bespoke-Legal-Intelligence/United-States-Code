@@ -322,7 +322,65 @@ If—
 
 &emsp;&emsp;(B) does not actively participate in the management of such enterprise.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047.)
+#### (l) <sup>2</sup> Limitation on excess business losses of noncorporate taxpayers
+
+#### (1) Limitation
+
+&emsp;In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+
+&emsp;&emsp;(A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+
+&emsp;&emsp;(B) any excess business loss of the taxpayer for the taxable year shall not be allowed.
+
+#### (2) Disallowed loss carryover
+
+&emsp;Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss carryover to the following taxable year under section 172.
+
+#### (3) Excess business loss
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term "excess business loss" means the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+
+&emsp;&emsp;&emsp;(ii) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate gross income or gain of such taxpayer for the taxable year which is attributable to such trades or businesses, plus
+
+&emsp;&emsp;&emsp;&emsp;(II) $250,000 (200 percent of such amount in the case of a joint return).
+
+#### (B) Adjustment for inflation
+
+&emsp;&emsp;In the case of any taxable year beginning after December 31, 2018, the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
+
+> &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
+
+#### (4) Application of subsection in case of partnerships and S corporations
+
+&emsp;In the case of a partnership or S corporation—
+
+&emsp;&emsp;(A) this subsection shall be applied at the partner or shareholder level, and
+
+&emsp;&emsp;(B) each partner's or shareholder's allocable share of the items of income, gain, deduction, or loss of the partnership or S corporation for any taxable year from trades or businesses attributable to the partnership or S corporation shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
+
+> &emsp;For purposes of this paragraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
+
+#### (5) Additional reporting
+
+&emsp;The Secretary shall prescribe such additional reporting requirements as the Secretary determines necessary to carry out the purposes of this subsection.
+
+#### (6) Coordination with section 469
+
+&emsp;This subsection shall be applied after the application of section 469.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I,§91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071.)
 
 #### References in Text
 
@@ -335,6 +393,8 @@ Subsec. (c) of section 464 of this title, which was transferred to this section 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (l). Pub. L. 115–97 added subsec. (l).
 
 <b>2014</b>—Subsec. (i)(4). Pub. L. 113–295, §221(a)(58)(B)(iii), substituted "subsection (j)" for "section 464(c)".
 
@@ -368,7 +428,7 @@ Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Pri
 
 <b>1986</b>—Subsec. (h)(5)(A). Pub. L. 99–514, §805(c)(5), redesignated subpar. (B) as (A) and struck out former subpar. (A) which referred to subsec. (c) or (f) of section 166.
 
-Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar.\(C) as (B) and struck out former subpar. (B) which read as follows: "Section 466 (relating to discount coupons)."
+Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Section 466 (relating to discount coupons)."
 
 Pub. L. 99–514, §805(c)(5), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -411,6 +471,10 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 <b>1962</b>—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11012(b), Dec. 22, 2017, 131 Stat. 2072, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2014 Amendment
 
@@ -456,7 +520,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-In general.—Except as provided in this subsection and subsections (h) and (i), the amendmentsmade by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
+In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
 &emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
 
@@ -494,7 +558,7 @@ to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of th
 
 &emsp;"(4)
 
-Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
+Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
 &emsp;"(5)
 
@@ -580,7 +644,7 @@ Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amen
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to taxable years ending after December 31, 1960."
+Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -614,7 +678,7 @@ Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provide
 
 Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
-"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal RevenueCode of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
 &emsp;"(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 
@@ -639,4 +703,6 @@ Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that:
 > In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (k) has been enacted.</i>
 

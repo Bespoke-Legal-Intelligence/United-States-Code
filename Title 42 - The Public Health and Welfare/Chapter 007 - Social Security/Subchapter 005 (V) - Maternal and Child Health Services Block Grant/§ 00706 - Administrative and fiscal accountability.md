@@ -70,7 +70,7 @@
 
 > &emsp;who were licensed in the State in the year.
 
-> For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health careneeds, other children under age 22, and other individuals.
+> For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health care needs, other children under age 22, and other individuals.
 
 (3) The Secretary shall annually transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report that includes—
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(I) the number of deliveries in the year, and
 
-&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under a State plan under subchapter XIX in the year.
+&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under aState plan under subchapter XIX in the year.
 
 > &emsp;&emsp;Information under this clause shall also be compiled by racial and ethnic group.
 
@@ -188,7 +188,7 @@ Provisions similar to those comprising former section 706 were contained in sect
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6504(a)(1), inserted after first sentence "Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.", substituted "be in such standardized form and contain such information (including information described in paragraph (2))" for "be in such form and contain such information", and substituted ", (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D)" for "and of the progress made toward achieving the purposes of this subchapter, and (C)".
 
-Pub. L. 101–239, §6503(c)(3), (4), substituted "application transmitted under section 705(a) of this title" for "description and statement transmitted under section 705 of this title" in subpar. (C).
+Pub. L. 101–239, §6503(c)(3), (4), substituted "application transmitted under section 705(a) of this title" for"description and statement transmitted under section 705 of this title" in subpar. (C).
 
 Subsec. (a)(2). Pub. L. 101–239, §6504(a)(3), added par. (2). Former par. (2) redesignated (3).
 

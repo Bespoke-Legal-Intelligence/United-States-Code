@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(ii) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary or any other officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary or a housing or related program administered by any other such officer or agency; or
 
-&emsp;&emsp;(iii) is intended to be sold by the originating lender to the Federal National Mortgage Association, the Government National Mortgage Association, the Federal Home Loan Mortgage Corporation, or a financial institution from which it is to be purchased by the Federal Home Loan Mortgage Corporation; or
+&emsp;&emsp;(iii) is intended to be sold by the originating lender to the Federal National Mortgage Association, the Government National Mortgage Association, the Federal Home Loan Mortgage Corporation, or a financial institution from which it is to be purchased by theFederal Home Loan Mortgage Corporation; or
 
 &emsp;&emsp;(iv) is made in whole or in part by any "creditor", as defined in section 1602(f) <sup>1</sup> of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year, except that for the purpose of this chapter, the term "creditor" does not include any agency or instrumentality of any State;
 

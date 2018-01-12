@@ -18,7 +18,7 @@ Act Aug. 11, 1955, ch. 786, 69 Stat. 666, extended for the lives of the Indians 
 
 Act Aug. 4, 1947, ch. 458, 61 Stat. 731, provided that death removed restrictions on land; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; and limited the tax-exempt acreage of restricted Indian lands.
 
-Act Aug. 4, 1947, ch. 458, §6(e), 61 Stat. 733, was amended by act Aug. 12, 1953, ch. 409, §2, 67 Stat. 558, by permitting the filing of a list of nontaxable lands that have been sold during the preceding year, instead of cumulative lists showing all restricted lands of the Five Civilized Tribes that are tax exempt.
+Act Aug. 4, 1947, ch. 458, §6(e), 61 Stat. 733, was amended by act Aug. 12, 1953, ch. 409, §2, 67 Stat. 558, bypermitting the filing of a list of nontaxable lands that have been sold during the preceding year, instead of cumulative lists showing all restricted lands of the Five Civilized Tribes that are tax exempt.
 
 #### Validation of Land Titles and Court Judgments
 

@@ -20,7 +20,7 @@ With respect to any program for which a determination described in subsection (b
 
 &emsp;(1) if the determination is made before the Secretary issues a solicitation for proposals pursuant to the program, ensure that the solicitation describes the time limitations as adjusted by the determination; and
 
-&emsp;(2) if the determination is made after the Secretary issues such a solicitation for proposals, issue a statement describing the time limitations as adjusted by the determination and individually notify, with respect to the determination, each applicant whose application is submitted before the expiration of the 3-month period beginning on the date on which the solicitation was issued.
+&emsp;(2) if the determination is made after the Secretary issues such a solicitation for proposals, issue a statement describing the time limitations as adjusted by the determination and individually notify, with respect to the determination, each applicant whose application issubmitted before the expiration of the 3-month period beginning on the date on which the solicitation was issued.
 
 #### (d) Annual reports to Congress
 
@@ -142,7 +142,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of Presidential Advisory Council on HIV/AIDS was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 #### Ex. Ord. No. 13649. Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative
 
@@ -158,7 +162,7 @@ Based on these and other data, recommendations for HIV testing and treatment hav
 
 Furthermore, ongoing implementation of the Affordable Care Act provides a historic opportunity for Americans to access affordable, quality health care. The Act is expanding access to recommended preventive services with no out-of-pocket costs, including HIV testing, and, beginning in 2014, insurance companies will not be able to deny coverage based on pre-existing conditions, including HIV. Starting October 1, 2013, Americans can select the coverage that best suits them through the new Health Insurance Marketplace, and coverage will begin January 1, 2014.
 
-Despite progress in combating HIV, important work remains. Since the publication of the Strategy, data released by the Centers for Disease Control and Prevention show that there are significant gaps along the HIV care continuum—the sequential stages of care from being diagnosed to receiving optimal treatment. Nearly one-fifth of the estimated 1.1 million people living with HIV in the United States are undiagnosed; one-third are not linked to medical care; nearly two-thirds are not engaged in ongoing care; and only one-quarter have the virus effectively controlled, which is necessary to maintain long-term health and reduce risk of transmission to others.
+Despite progress in combating HIV, important work remains. Since the publication of the Strategy, data released by the Centers for Disease Control and Prevention show that there are significant gaps along the HIV care continuum—the sequential stages of care frombeing diagnosed to receiving optimal treatment. Nearly one-fifth of the estimated 1.1 million people living with HIV in the United States are undiagnosed; one-third are not linked to medical care; nearly two-thirds are not engaged in ongoing care; and only one-quarter have the virus effectively controlled, which is necessary to maintain long-term health and reduce risk of transmission to others.
 
 In light of these data, we must further clarify and focus our national efforts to prevent and treat HIV infection. It is the policy of my Administration that agencies implementing the Strategy prioritize addressing the continuum of HIV care, including by accelerating efforts to increase HIV testing, services, and treatment along the continuum. This acceleration will enable us to meet the goals of the Strategy and move closer to an AIDS-free generation.
 
@@ -228,7 +232,7 @@ Section 1. <i>Policy</i>. My Administration has made substantial progress in add
 
 Federal, State, and local agencies have contributed to significant improvements in health outcomes through their enhanced focus on the HIV care continuum—the sequential stages of care from being diagnosed to achieving viral suppression. Our partners across all levels of government and all sectors of society have also worked to ensure that all Americans living with HIV/AIDS receive our full support at every stage of their illness.
 
-Further, my Administration has been committed to reducing the HIV-related disparities experienced by certain populations, including gay and bisexual men of all races and ethnicities, Black women and men, Latino women and men, people who inject drugs, youth aged 13–24, people in the Southern United States, and transgender women. Addressing the intersection between HIV/AIDS, violence against women and girls, and gender-related health disparities has also been a priority. The Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities established in my memorandum of March 30, 2012, has focused its efforts on increasing screenings for HIV and intimate partner violence, addressing violence and trauma when supporting women in HIV care, and expanding public education efforts across all levels of government regarding HIV and violence against women and girls.
+Further, my Administration has been committed to reducing the HIV-related disparities experienced by certain populations, including gay and bisexual men of all races and ethnicities, Black women and men, Latino women and men, people who inject drugs, youth aged 13–24, people in the Southern United States, and transgender women. Addressing the intersection between HIV/AIDS, violence against women and girls, and gender-related health disparities has also been a priority. The Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities established in my memorandum of March 30, 2012, has focused its efforts on increasing screenings for HIV and intimate partner violence, addressing violence and trauma when supportingwomen in HIV care, and expanding public education efforts across all levels of government regarding HIV and violence against women and girls.
 
 Today, I am releasing the National HIV/AIDS Strategy for the United States: Updated to 2020 (Updated Strategy) to build on this progress. The Updated Strategy integrates the recommendations of the HIV Care Continuum Working Group, established in Executive Order 13649 of July 15, 2013 (HIV Care Continuum Initiative), and the recommendations of the Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities, so that their work can inform the Nation's response to the domestic HIV/AIDS epidemic. The Updated Strategy also takes into account recent research advancements in our understanding of HIV/AIDS, and builds on the historic successes of the Affordable Care Act, which is helping millions of Americans, including those who are living with HIV, access affordable, quality health care.
 
@@ -372,7 +376,7 @@ Sec. 3. <i>Role of the Secretary of Health and Human Services</i>. The Secretary
 
 (c) <i>Presidential Advisory Council on HIV/AIDS (PACHA)</i>. PACHA, which was established by Executive Order 12963 of June 14, 1995 (Presidential Advisory Council on HIV/AIDS), as amended, shall monitor the implementation of the Strategy and make recommendations to the Secretary and to the Director of the ONAP, as appropriate, concerning implementation.
 
-Sec. 4. <i>Responsibilities of Other Agencies</i>. All agencies that support HIV/AIDS programs and activities shall ensure that, to the extent permitted by law, they are meeting the goals of the Strategy.
+Sec. 4. <i>Responsibilities of Other Agencies</i>. All agencies that support HIV/AIDS programs and activities shallensure that, to the extent permitted by law, they are meeting the goals of the Strategy.
 
 (a) <i>Department of Defense</i>. Within 150 days of the date of this memorandum, the Secretary of Defense shall submit to the ONAP and the OMB a plan for aligning the health-care services provided by the Department of Defense with the Strategy, to the extent feasible and permitted by law. The plan shall address, in particular, HIV/AIDS prevention, care, and treatment.
 
@@ -442,7 +446,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (iv) emphasizing evidence-based prevention activities that engage men and boys and highlight their role in the prevention of violence against women and HIV/AIDS infection;
 
-(v) facilitating opportunities for partnerships among diverse organizations from the violence against women and girls, HIV/AIDS, and women's health communities to address the intersection of these issues;
+(v) facilitating opportunities for partnerships among diverse organizations from the violence against womenand girls, HIV/AIDS, and women's health communities to address the intersection of these issues;
 
 (vi) ensuring that the needs of vulnerable and underserved groups are considered in any efforts to address issues involving the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities;
 

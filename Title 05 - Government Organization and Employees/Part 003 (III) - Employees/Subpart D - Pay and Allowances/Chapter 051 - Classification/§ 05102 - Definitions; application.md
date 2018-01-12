@@ -90,11 +90,11 @@
 
 &emsp;(11) aliens or noncitizens of the United States who occupy positions outside the United States;
 
-&emsp;\[(12) Repealed. Pub. L. 104–201, div. C, title XXXV, §3548(a)(2)(B), Sept. 23, 1996, 110 Stat. 3868;\]
+&emsp;\[(12) Repealed. Pub. L. 104–201, div. C, title XXXV, §3548(a)(2)(B), Sept. 23, 1996, 110 Stat. 2868;\]
 
 &emsp;(13) employees who serve without pay or at nominal rates of pay;
 
-&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title), except that with respect to the Veterans' Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
+&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title), except that with respect to the Veterans' Canteen Service, Department of Veterans Affairs, this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
 
 &emsp;(15) employees whose pay is fixed under a cooperative agreement between the United States and—
 
@@ -222,7 +222,7 @@ Oct. 28, 1949, ch. 782, §204(b), 63 Stat. 957.
 
 The section is reorganized and restated for clarity.
 
-In subsection (a)(1)(i), the exception of "a Government controlled corporation" is added to preserve the application of this chapter to "corporations wholly owned by the United States". This is necessary as the defined term "Executive agency" includes the defined term "Government corporation" and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
+In subsection (a)(1)(i), the exception of "a Government controlled corporation" is added to preserve the application of this chapter to "corporations wholly owned by the United States". This is necessary as the defined term "Executive agency" includes the defined term "Government corporation" and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlledcorporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
 
 In subsection (a)(1)(vii), the words "Panama Canal Company" are substituted for "Panama Railroad Company" on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -310,7 +310,7 @@ Subsec. (c)(10). Pub. L. 108–375, §557(b)(5)(A), substituted "Provost and Aca
 
 <b>1996</b>—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: "the Panama Canal Commission;".
 
-Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain a cl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
+Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain acl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
 
 Subsec. (a)(1)(ix), (x). Pub. L. 104–201, §3548(a)(2)(A)(ii), redesignated cls. (x) and (xi) as (ix) and (x), respectively.
 
@@ -388,7 +388,7 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and\(c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 2010 Amendment
 
@@ -396,7 +396,7 @@ Pub. L. 111–282, §5, Oct. 15, 2010, 124 Stat. 3044, provided that: "This Act 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1996 Amendment
 

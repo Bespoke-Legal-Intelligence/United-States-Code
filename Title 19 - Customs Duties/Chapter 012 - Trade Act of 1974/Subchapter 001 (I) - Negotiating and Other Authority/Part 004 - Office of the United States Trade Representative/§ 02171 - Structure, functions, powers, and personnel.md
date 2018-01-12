@@ -142,7 +142,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;(ii) not to exceed $1,000,000 shall remain available until expended.
 
-(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
+(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by lawto reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
 (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
@@ -160,7 +160,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;&emsp;(B) investigating potential disputes pursuant to bilateral and regional trade agreements to which the United States is a party;
 
-&emsp;&emsp;(C) carrying out the functions of the United States Trade Representative underthis section with respect to the monitoring and enforcement of trade agreements to which the United States is a party; and
+&emsp;&emsp;(C) carrying out the functions of the United States Trade Representative under this section with respect to the monitoring and enforcement of trade agreements to which the United States is a party; and
 
 &emsp;&emsp;(D) monitoring measures taken by parties to implement provisions of trade agreements to which the United States is a party.
 
@@ -320,7 +320,17 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2872, provided in part: "That there is established a position of Chief Negotiator for Intellectual Property Enforcement."
 
-#### Waiver of Provisions Limiting Appointment of Trade Representative
+#### Exceptions to Limitation on Appointment of Certain Persons as United States Trade Representative
+
+Pub. L. 115–31, div. B, title V, §541, May 5, 2017, 131 Stat. 229, provided that:
+
+"(a)
+
+In General.—The limitation under section 141(b)(4) of the Trade Act of 1974 (19 U.S.C. 2171(b)(4)) shall not apply to the first person appointed, by and with the advice and consent of the Senate, as the United States Trade Representative after the date of the enactment of this Act \[May 5, 2017\], if that person served as a Deputy United States Trade Representative before the date of the enactment of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) \[Dec. 19, 1995\].
+
+"(b)
+
+Limited Exception.—This section applies only to the first person appointed as United States Trade Representative after the date of enactment of this Act, and to no other person."
 
 Pub. L. 105–5, Mar. 17, 1997, 111 Stat. 11, provided: "That notwithstanding the provisions of paragraph (3) \[now (4)\] of section 141(b) of the Trade Act of 1974 (19 U.S.C. 2171(b)(3) \[now (b)(4)\]) or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint Charlene Barshefsky as the United States Trade Representative."
 
@@ -360,7 +370,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) The Office of the Special Representative for Trade Negotiations is redesignated the Office of the United States Trade Representative.
 
-(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the "Trade Representative"). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the "Committee"), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shall advise the President on the impact of other policies of the United States Government on international trade.
+(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the "Trade Representative"). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the "Committee"), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shalladvise the President on the impact of other policies of the United States Government on international trade.
 
 (2) The Trade Representative shall have lead responsibility for the conduct of international trade negotiations, including commodity and direct investment negotiations in which the United States participates.
 
@@ -384,7 +394,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Department of Commerce
 
-(a) The Secretary of Commerce (hereinafter referred to as the "Secretary") shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, researchand analysis, and monitoring compliance with international trade agreements to which the United States is a party.
+(a) The Secretary of Commerce (hereinafter referred to as the "Secretary") shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, research and analysis, and monitoring compliance with international trade agreements to which the United States is a party.
 
 (b)(1) There shall be in the Department of Commerce (hereinafter referred to as the "Department") a Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall receive compensation at the rate payable for Level II of the Executive Schedule \[5 U.S.C. 5315\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
@@ -452,7 +462,7 @@ Nothing in this reorganization plan is intended to derogate from the responsibil
 
 #### Sec. 8. Incidental Transfers; Interim Officers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to bemade available in connection with the functions transferred under this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
 
 (b) Pending the assumption of office by the initial officers provided for in section 2 of this reorganization plan, the functions of each such office may be performed, for up to a total of 60 days, by such individuals as the President may designate. Any individual so designated shall be compensated at the rate provided herein for such position.
 
@@ -518,7 +528,7 @@ With this reorganization, trade functions will be strengthened within the Depart
 
 #### <i>Import remedies</i>
 
-I propose to transfer to the Department of Commerce responsibility for administration of the countervailing duty and antidumping statutes. This function will be performed efficiently and effectively in an organizational setting where trade is the primary mission. This activity will be directed by a new Assistant Secretary for Trade Administration, subject to Senate confirmation. Although the plan permits its provisions to take effect as late as October 1, 1980, I intend to make this transfer effective by January 1, 1980, so that it will occur as the new MTN codes take effect. Commerce will continue its supportive role in the staffing of other unfair trade practice issues, such as cases arising under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\].
+I propose to transfer to the Department of Commerce responsibility for administration of the countervailing duty and antidumping statutes. This function will be performed efficiently and effectively in an organizational setting where trade is the primary mission. This activity will be directed by a new Assistant Secretary for Trade Administration, subject to Senate confirmation. Although the plan permits its provisions to take effect as late as October 1, 1980, I intend to make thistransfer effective by January 1, 1980, so that it will occur as the new MTN codes take effect. Commerce will continue its supportive role in the staffing of other unfair trade practice issues, such as cases arising under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\].
 
 #### <i>Commercial representation</i>
 
@@ -570,7 +580,7 @@ Ex. Ord. No. 11143, Mar. 2, 1963, 29 F.R. 3127, as amended by Ex. Ord. No. 11159
 
 #### Executive Order No. 11425
 
-Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section 1871 of this title, which directed the Special Representative for Trade Negotiations (established by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473) to conduct a long range study of United States foreign trade policy and to consider the views of Congress, the Public Advisory Committee on Trade Policy, and other federal agencies; established the Public Advisory Committee on Trade Policy for purposes of this study; and abolished the Public Advisory Committee for Trade Negotiations; was omitted in view of the revocation of Ex. Ord. No. 11075 by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title, and in view of the abolition of the Office of Special Representative for Trade Negotiations (as established under Ex. Ord. No. 11075) by section 2171(g) of this title.
+Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section 1871 of this title, which directed the Special Representative for Trade Negotiations (established by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473) to conduct a long range study of United Statesforeign trade policy and to consider the views of Congress, the Public Advisory Committee on Trade Policy, and other federal agencies; established the Public Advisory Committee on Trade Policy for purposes of this study; and abolished the Public Advisory Committee for Trade Negotiations; was omitted in view of the revocation of Ex. Ord. No. 11075 by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title, and in view of the abolition of the Office of Special Representative for Trade Negotiations (as established under Ex. Ord. No. 11075) by section 2171(g) of this title.
 
 #### Ex. Ord. No. 12175. Effective Date of Section 2(b)(1) of Reorganization Plan No. 3 of 1979 Respecting Reorganization of Functions Relating to International Trade
 
@@ -658,7 +668,7 @@ The Chair and any member of the Committee may designate a subordinate officer wh
 
 Sec. 1–103. <i>Delegation of Functions.</i>
 
-(a) The function vested in the President by section 412(b) of the Trade Agreements Act of 1979 (19 U.S.C. 2542(b)) is delegated to the Secretary of Commerce with regard to the technical office established under section 412(a)(1) of such Act \[19 U.S.C. 2542(a)(1)\] and to the Secretary of Agriculture with regard to the technical office established under section 412(a)(2) of such Act \[19 U.S.C. 2542(a)(2)\]. In prescribing the functions of each technical office, the Secretary concerned shall consult with the Trade Representative and with all affected regulatory agencies. The functions delegated by this section shall be exercised in coordination with the Trade Representative.
+(a) The function vested in the President by section 412(b) of the Trade Agreements Act of 1979 (19 U.S.C. 2542(b)) is delegated to the Secretary of Commerce with regard to the technical office established under section 412(a)(1) of such Act \[19 U.S.C. 2542(a)(1)\] and to the Secretary of Agriculture with regard to the technical office established under section 412(a)(2) of such Act \[19 U.S.C. 2542(a)(2)\]. In prescribing the functions of each technical office, the Secretary concerned shall consult with the Trade Representative and with all affectedregulatory agencies. The functions delegated by this section shall be exercised in coordination with the Trade Representative.
 
 (b) The functions of the President under sections 2(b) and 303 of the Trade Agreements Act of 1979 (19 U.S.C. 2503(b) and 2513) and section 701(b) of the Tariff Act of 1930 (19 U.S.C. 1671(b)) are delegated to the Trade Representative, who shall exercise such authority with the advice of the Trade Policy Committee.
 
@@ -682,7 +692,7 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 "(2) fresh, chilled, or frozen meat of goats and sheep (except lambs), and
 
-"(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, orfrozen, but not otherwise preserved, that are the products of such countries.".
+"(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, or frozen, but not otherwise preserved, that are the products of such countries.".
 
 (2) Section 4 of such order is amended by striking out "the Secretary of State" and inserting in lieu thereof "the United States Trade Representative".
 

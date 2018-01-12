@@ -42,7 +42,7 @@ For purposes of this subchapter:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation,as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
 
 #### (8) Priority project
 
@@ -109,4 +109,8 @@ The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L.
 <b>2016</b>—Par. (10)(A). Pub. L. 114–289 substituted "30" for "25".
 
 <b>2005</b>—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
 

@@ -1,0 +1,6 @@
+### §3796<i>ll</i>–3. Transferred
+
+#### Codification
+
+Section 3796ll–3 was editorially reclassified as section 10534 of Title 34, Crime Control and Law Enforcement.
+

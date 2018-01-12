@@ -42,7 +42,7 @@ Defense.—A good faith reliance on—
 
 (e)
 
-Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimantfirst has a reasonable opportunity to discover the violation.
+Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
 
 (f)
 

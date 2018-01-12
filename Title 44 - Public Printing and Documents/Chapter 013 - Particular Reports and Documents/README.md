@@ -71,7 +71,7 @@
 
 <b>1996</b>—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 "Comptroller General: decisions".
 
-Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery andMapping Agency" for "Naval Oceanographic Office" in item 1336.
+Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery and Mapping Agency" for "Naval Oceanographic Office" in item 1336.
 
 <b>1986</b>—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted "National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution" for "Environmental Science Service Administration: charts; sale and distribution" in item 1307.
 

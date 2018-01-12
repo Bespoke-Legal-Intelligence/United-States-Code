@@ -62,7 +62,7 @@ In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 Subsec. (a). Pub. L. 105–277, §1223(13)(B), (C), substituted "Department of State" for "Agency" and "Secretary of State" for "Director", and struck out "It is the intent of this section that the Director rely upon the Department of State for general administrative services in the United States and abroad to the extent agreed upon between the Secretary of State and the Director." after "may appear desirable."
 
-Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted "Secretary of State" for "Director" and struck out "appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities," before "appoint and fix".
+Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted "Secretary of State" for "Director" and struck out "appoint officers and employees, including attorneys, for the Agency inaccordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities," before "appoint and fix".
 
 Subsec. (b)(1). Pub. L. 105–277, §1223(13)(D)(ii), substituted "subsection" for "exception" in introductory provisions.
 
@@ -106,7 +106,7 @@ Memorandum of the President of the United States, Aug. 18, 1990, 55 F.R. 37693, 
 
 Memorandum for the Director of the United States Arms Control and Disarmament Agency
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 41(d) of the Arms Control and Disarmament Act (22 U.S.C. 2581(d)) to certify that the employment of persons referred to in that section in excess of the numberof days set forth in that section is necessary in the national interest.
+By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 41(d) of the Arms Control and Disarmament Act (22 U.S.C. 2581(d)) to certify that the employment of persons referred to in that section in excess of the number of days set forth in that section is necessary in the national interest.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

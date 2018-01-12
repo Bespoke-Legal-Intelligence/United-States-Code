@@ -20,7 +20,7 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 
 #### (4) Emphasis
 
-&emsp;The Corporation shall ensure that the funds are used to provide support in particular to women entrepreneurs and to innovative investments that expand opportunities for women and maximize employment opportunities for poor individuals.
+&emsp;The Corporation shall ensure that the funds are used to provide support in particular towomen entrepreneurs and to innovative investments that expand opportunities for women and maximize employment opportunities for poor individuals.
 
 #### (c) Overseas Private Investment Corporation
 

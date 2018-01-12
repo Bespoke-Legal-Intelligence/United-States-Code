@@ -106,7 +106,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the acti
 
 (j)
 
-Identification of Special Operations Forces.—(1) Subject to paragraph (2), for thepurposes of this section special operations forces are those forces of the armed forces that—
+Identification of Special Operations Forces.—(1) Subject to paragraph (2), for the purposes of this section special operations forces are those forces of the armed forces that—
 
 &emsp;(A) are identified as core forces or as augmenting forces in the Joint Chiefs of Staff Joint Strategic Capabilities Plan, Annex E, dated December 17, 1985;
 
@@ -290,7 +290,7 @@ Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, a
 
 &emsp;"(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary's overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces.
 
-&emsp;"(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department ofDefense (as required to be created pursuant to subsection (e))."
+&emsp;"(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e))."
 
 #### Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands
 
@@ -312,7 +312,7 @@ Program and Budget Execution.—To the extent that there is authority to revise 
 
 Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade."
 
-\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
+\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, whichwas repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 

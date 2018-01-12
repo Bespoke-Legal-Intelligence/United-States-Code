@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 102–573, §201(a)(5)(A), in introductory provisions, subs
 
 Subsec. (e)(1). Pub. L. 102–573, §201(a)(5)(B), substituted "health status and resource deficiencies" for "health resources deficiencies".
 
-Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted "the extent of the health status and resourcedeficiency of" for "the level of health resources deficiency for".
+Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted "the extent of the health status and resource deficiency of" for "the level of health resources deficiency for".
 
 Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted "eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and" for "raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;".
 

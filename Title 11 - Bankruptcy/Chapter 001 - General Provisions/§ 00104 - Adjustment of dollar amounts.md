@@ -1,6 +1,6 @@
 ### §104. Adjustment of dollar amounts
 
-(a) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A),101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
+(a) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b),547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
 
 &emsp;(1) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
 
@@ -64,11 +64,11 @@ Pub. L. 109–8, §102(j), substituted "523(a)(2)(C), 707(b), and 1325(b)(3)" fo
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 ofPub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 

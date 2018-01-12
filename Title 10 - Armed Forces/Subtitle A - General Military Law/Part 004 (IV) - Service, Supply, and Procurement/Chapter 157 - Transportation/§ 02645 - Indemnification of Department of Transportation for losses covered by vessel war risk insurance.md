@@ -2,7 +2,7 @@
 
 (a)
 
-Prompt Indemnification Required.—(1) In the event of a loss that is covered by vessel war risk insurance, the Secretary of Defense shallpromptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
+Prompt Indemnification Required.—(1) In the event of a loss that is covered by vessel war risk insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
 
 &emsp;(A) in the case of a claim for the loss of a vessel, not later than 90 days after the date on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the vessel war risk insurance; and
 
@@ -48,7 +48,7 @@ Vessel war risk insurance fund.—The term "Vessel War Risk Insurance Fund" mean
 
 &emsp;(3)
 
-Loss.—The term "loss" includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
+Loss.—The term "loss" includes damage to or destruction of property, personal injuryor death, and other liabilities and expenses covered by the vessel war risk insurance.
 
 (Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, §1031(a)(26), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–304, §17(a)(4), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 112–81, div. A, title X, §1064(8), Dec. 31, 2011, 125 Stat. 1587.)
 
@@ -68,7 +68,7 @@ Subsec. (h)(2). Pub. L. 109–304, §17(a)(4)(C), substituted "section 53909(a) 
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136, §1031(a)(26)(A), substituted "Congress" for "Congress—", struck out par. (1) designation before "notification", substituted a period for "; and" after "date of the loss", and struck out par. (2) which read as follows: "semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government."
 
-Subsec. (g). Pub. L. 108–136, §1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: "Not later than March 1 of each year, the Secretary ofDefense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.)."
+Subsec. (g). Pub. L. 108–136, §1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: "Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.)."
 
 <b>1997</b>—Subsec. (a)(1)(B). Pub. L. 105–85 struck out "on which" after "after the date on which".
 

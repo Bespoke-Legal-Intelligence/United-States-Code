@@ -8,7 +8,7 @@ Section 682c, act June 1, 1938, ch. 317, §3, as added June 8, 1954, ch. 270, 68
 
 Section 682d, act June 1, 1938, ch. 317, §4, as added June 8, 1954, ch. 270, 68 Stat. 240, related to sales or leases to employees of Department of the Interior stationed in Alaska.
 
-Section 682e, act June 1, 1938, ch. 317, §5, as added June 8, 1954, ch. 270, 68 Stat. 240, related to application of sections 682a to 682e of this title to certain revestedgrant lands in Oregon and conditions on lease of such lands.
+Section 682e, act June 1, 1938, ch. 317, §5, as added June 8, 1954, ch. 270, 68 Stat. 240, related to application of sections 682a to 682e of this title to certain revested grant lands in Oregon and conditions on lease of such lands.
 
 #### Effective Date of Repeal
 

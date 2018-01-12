@@ -28,11 +28,11 @@ Program Requirements.—The Secretary of the Navy shall ensure that—
 
 (e)
 
-Tuition.—The President of the school shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Navy.
+Tuition.—The President of the school shall charge tuition for students enrolled under thissection at a rate not less than the rate charged for employees of the United States outside the Department of the Navy.
 
 (f)
 
-Standards of Conduct.—While receiving instruction at the school, students enrolled under this section, to the extent practicable, aresubject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+Standards of Conduct.—While receiving instruction at the school, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
 (g)
 

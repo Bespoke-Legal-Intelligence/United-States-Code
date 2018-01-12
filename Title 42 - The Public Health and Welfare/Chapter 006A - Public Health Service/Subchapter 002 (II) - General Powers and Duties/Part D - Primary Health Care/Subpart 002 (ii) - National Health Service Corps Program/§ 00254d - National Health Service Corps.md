@@ -42,7 +42,7 @@
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; "monthly pay" defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
-(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthlypay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
 &emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
@@ -148,7 +148,7 @@ Subsec. (j)(5), (6). Pub. L. 111–148, §10501(n)(2), added pars. (5) and (6).
 
 <b>2002</b>—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
-Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted "health professions, including schools at which graduate programs of behavioral and mental health are offered," for "health professions".
+Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted "health professions, including schools at whichgraduate programs of behavioral and mental health are offered," for "health professions".
 
 Subsec. (b)(2). Pub. L. 107–251, §301(a)(2)(B), inserted "behavioral and mental health professionals," after "dentists,".
 
@@ -222,7 +222,7 @@ Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided tha
 
 "(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[42 U.S.C. 254e\] after the date of enactment of this Act \[Oct. 12, 1976\].
 
-"(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d et seq.\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[42 U.S.C. 254e\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[42 U.S.C. 254f\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area\(within the meaning of section 334 (as so added)) \[former 42 U.S.C. 254g\] has expired.
+"(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d et seq.\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[42 U.S.C. 254e\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[42 U.S.C. 254f\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[former 42 U.S.C. 254g\] has expired.
 
 "(B) The assignment period (within the meaning of such section 334) \[former 42 U.S.C. 254g\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b\].
 

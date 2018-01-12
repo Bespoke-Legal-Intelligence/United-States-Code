@@ -28,11 +28,11 @@
 
 #### (4) Effect on other entities
 
-&emsp;To the maximum extent practicable, the Secretary shall ensure that expediting theevaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
+&emsp;To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
 
 #### (5) GAO study
 
-&emsp;Not later than 4 years after June 10, 2014, the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws.
+&emsp;Not later than 4 years after June 10, 2014, the Comptroller General of the United States shallcarry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws.
 
 #### (b) Effect on permitting
 
@@ -120,7 +120,7 @@ Subsecs. (d), (e). Pub. L. 113–121, §1006(2), added subsecs. (d) and (e) and 
 
 "(d)
 
-Public Availability.—The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.
+Public Availability.—The Secretary shall ensure that all final permit decisions carried out usingfunds authorized under this section are made available to the public, including on the Internet.
 
 "(e)
 

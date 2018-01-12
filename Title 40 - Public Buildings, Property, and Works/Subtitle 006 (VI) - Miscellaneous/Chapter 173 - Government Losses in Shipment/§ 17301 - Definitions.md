@@ -28,7 +28,7 @@ Definition.—The term "valuables" means any articles or things or representativ
 
 &emsp;&emsp;(B)
 
-Requirement for declaring articles or things valuable.—The Secretary shall not declare articles or things that are lost, destroyed, or damaged in the course of shipment to be valuables unless the Secretary determines that replacement of the articles or things in accordance with the procedure established in this chapter would be in the public interest.
+Requirement for declaring articles or things valuable.—The Secretary shallnot declare articles or things that are lost, destroyed, or damaged in the course of shipment to be valuables unless the Secretary determines that replacement of the articles or things in accordance with the procedure established in this chapter would be in the public interest.
 
 &emsp;(4)
 

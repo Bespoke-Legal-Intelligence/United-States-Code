@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) the lower of—
 
-&emsp;&emsp;&emsp;(i) the payment yield in effect for the calculation of price loss coverage under section 9015 of this title, or the payment yield deemed to be in effect or establishedunder subclause (II) or (III) of section 9036(b)(1)(B)(ii) of this title, with respect to corn or grain sorghum on a field that is similar to the field from which the corn or grain sorghum referred to in subparagraph (A) was obtained; or
+&emsp;&emsp;&emsp;(i) the payment yield in effect for the calculation of price loss coverage under section 9015 of this title, or the payment yield deemed to be in effect or established under subclause (II) or (III) of section 9036(b)(1)(B)(ii) of this title, with respect to corn or grain sorghum on a field that is similar to the field from which the corn or grain sorghum referred to in subparagraph (A) was obtained; or
 
 &emsp;&emsp;&emsp;(ii) the actual yield of corn or grain sorghum on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum referred to in subparagraph (A) was obtained.
 

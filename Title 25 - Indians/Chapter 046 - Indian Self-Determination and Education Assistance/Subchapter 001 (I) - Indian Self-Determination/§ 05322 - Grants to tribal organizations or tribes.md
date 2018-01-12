@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized, upon the request of any Indian trib
 
 &emsp;(2) the planning, training, evaluation of other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 5321 of this title and the additional costs associated with the initial years of operation under such a contract or contracts; or
 
-&emsp;(3) the acquisition of land in connection with items (1) and (2) above: <i>Provided</i>, That in thecase of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of <sup>1</sup> Interior may (upon request of the tribe) acquire such land in trust for the tribe.
+&emsp;(3) the acquisition of land in connection with items (1) and (2) above: <i>Provided</i>, That in the case of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of <sup>1</sup> Interior may (upon request of the tribe) acquire such land in trust for the tribe.
 
 #### (b) Grants by Secretary of Health and Human Services for development, maintenance, etc., of health facilities or services and improvement of contract capabilities implementing hospital and health facility functions
 
@@ -36,7 +36,7 @@ The Secretary is directed, upon the request of any tribal organization and subje
 
 The Secretary is authorized, upon the request of an Indian tribe, to make a grant to any tribal organization for—
 
-&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessary for contract management, and the development of cost allocation plans for indirect cost rates; and
+&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessaryfor contract management, and the development of cost allocation plans for indirect cost rates; and
 
 &emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 

@@ -14,7 +14,7 @@ No person, firm, or corporation shall—
 
 &emsp;(3) contrary to the regulations prescribed by the Secretary, fail to use, or to detach, deface, or destroy any official device, mark, or certificate;
 
-&emsp;(4) knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any animal, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
+&emsp;(4) knowingly possess, without promptly notifying the Secretary or his representative,any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any animal, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
 
 &emsp;(5) knowingly make any false statement in any shipper's certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary; or
 

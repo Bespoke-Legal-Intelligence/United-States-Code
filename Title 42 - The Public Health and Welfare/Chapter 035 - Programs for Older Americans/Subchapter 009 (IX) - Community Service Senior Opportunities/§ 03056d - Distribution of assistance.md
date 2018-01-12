@@ -52,13 +52,13 @@ From funds available under subsection (c) for national grants, the Secretary sha
 
 #### (1) Minimum allotment
 
-&emsp;No State shall be provided an amount under this subsection that is less than ½ of 1 percent of the amount provided under subsection (c) for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
+&emsp;No State shall be provided an amount under this subsection that is less than ½ of 1 percentof the amount provided under subsection (c) for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
 
 #### (2) Hold harmless
 
 &emsp;If such amount provided under subsection (c) is—
 
-&emsp;&emsp;(A) equal to or less than the amount necessary to maintain the fiscal year 2000 levelof activities, allotments for grantees that operate under this subchapter under national grants from the Secretary in each State shall be proportional to the amount necessary to maintain their fiscal year 2000 level of activities; or
+&emsp;&emsp;(A) equal to or less than the amount necessary to maintain the fiscal year 2000 level of activities, allotments for grantees that operate under this subchapter under national grants from the Secretary in each State shall be proportional to the amount necessary to maintain their fiscal year 2000 level of activities; or
 
 &emsp;&emsp;(B) greater than the amount necessary to maintain the fiscal year 2000 level of activities, no State shall be provided a percentage increase above the amount necessary to maintain the fiscal year 2000 level of activities for grantees that operate under this subchapter under national grants from the Secretary in the State that is less than 30 percent of the percentage increase above the amount necessary to maintain the fiscal year 2000 level of activities for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
 
@@ -136,7 +136,7 @@ In this section:
 
 #### (6) State
 
-&emsp;The term "State" does not include Guam, American Samoa, the Commonwealth of theNorthern Mariana Islands, and the United States Virgin Islands.
+&emsp;The term "State" does not include Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
 (Pub. L. 89–73, title V, §506, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2576.)
 

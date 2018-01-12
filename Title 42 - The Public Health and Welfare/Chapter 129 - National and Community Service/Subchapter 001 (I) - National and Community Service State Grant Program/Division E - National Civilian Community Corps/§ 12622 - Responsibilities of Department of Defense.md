@@ -18,7 +18,7 @@
 
 #### (1) List of recommended personnel
 
-&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under subsection (a) shall develop a list of individuals from which individuals may be selected for appointment by the Director in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) <sup>1</sup> of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
+&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under subsection (a) shall develop a list of individuals from whichindividuals may be selected for appointment by the Director in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) <sup>1</sup> of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
 
 #### (2) Recommendations regarding grade and pay
 
@@ -54,7 +54,7 @@ A prior section 162 of Pub. L. 101–610 was classified to section 12613 of this
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13, §1512(b)(2)–(5)(A), substituted "Liaison office" for "Secretary of Defense" as subsec. (a) heading, struck out par. (1) heading "Liaison office" after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) offormer subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
+<b>2009</b>—Pub. L. 111–13, §1512(b)(2)–(5)(A), substituted "Liaison office" for "Secretary of Defense" as subsec. (a) heading, struck out par. (1) heading "Liaison office" after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
 Pub. L. 111–13, §1512(b)(1), substituted "Department of Defense" for "other departments" in section catchline.
 

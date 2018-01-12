@@ -60,13 +60,13 @@ The term MY refers to model year.
 
 #### (c) Accelerated standard for light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles
 
-Notwithstanding the model years for which clean-fuel vehicle standards are applicable as provided in section 7583 of this title, for purposes of this section, light duty <sup>1</sup> trucks of up to 6,000 lbs. GVWR and light-duty vehicles manufactured in model years 1998 through model year 2000 shall be treated as clean-fuel vehicles only if such vehicles comply with the standards applicable under section 7583 of this title for vehicles in the same class for the model year 2001. The requirements of subsection (b) of this section shall take effect on the earlier of the following:
+Notwithstanding the model years for which clean-fuel vehicle standards are applicable as provided in section 7583 of this title, for purposes of this section, light duty <sup>1</sup> trucks of up to 6,000 lbs. GVWR and light-duty vehicles manufactured in model years 1998 through model year 2000 shall be treated as clean-fuel vehicles only if such vehicles comply with the standards applicable under section 7583 of this title for vehicles in the same class for the model year 2001. The requirements of subsection (b) shall take effect on the earlier of the following:
 
 &emsp;(1) The first model year after model year 1997 in which new light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles which comply with the model year 2001 standards under section 7583 of this title are offered for sale in California.
 
 &emsp;(2) Model year 2001.
 
-> Whenever the effective date of subsection (b) of this section is delayed pursuant to paragraph (1) of this subsection, the phase-in schedule under subsection (b) of this section shall be modified to commence with the model year referred to in paragraph (1) in lieu of model year 1998.
+> Whenever the effective date of subsection (b) is delayed pursuant to paragraph (1) of this subsection, the phase-in schedule under subsection (b) shall be modified to commence with the model year referred to in paragraph (1) in lieu of model year 1998.
 
 #### (d) Choice of vehicles and fuel
 
@@ -86,7 +86,7 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 &emsp;&emsp;(B) The purchase of clean fuel <sup>2</sup> vehicles which meet more stringent standards established by the Administrator pursuant to paragraph (4).
 
-&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section butwhich meet standards established for such vehicles under paragraph (4).
+&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section but which meet standards established for such vehicles under paragraph (4).
 
 #### (2) Use of credits; limitations based on weight classes
 

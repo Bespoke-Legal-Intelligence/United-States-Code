@@ -110,7 +110,7 @@
 
 #### (A) Request for placement with listed organizations
 
-&emsp;&emsp;To be placed with a listed organization in accordance with paragraph (2)(B) for a service project, an eligible Encore Fellowship recipient shall submit an application for suchplacement to the Corporation at such time, in such manner, and containing such information as the Corporation may require.
+&emsp;&emsp;To be placed with a listed organization in accordance with paragraph (2)(B) for a service project, an eligible Encore Fellowship recipient shall submit an application for such placement to the Corporation at such time, in such manner, and containing such information as the Corporation may require.
 
 #### (B) Request for placement with other organization
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;(i) approve the placement of the eligible Encore Fellowship recipient with the organization;
 
-&emsp;&emsp;&emsp;(ii) award the eligible Encore Fellowship recipient an Encore Fellowship for a period of 1 year and designate the eligible Encore Fellowship recipient as an Encore Fellow; and
+&emsp;&emsp;&emsp;(ii) award the eligible Encore Fellowship recipient an Encore Fellowship for a period of 1 year and designate the eligibleEncore Fellowship recipient as an Encore Fellow; and
 
 &emsp;&emsp;&emsp;(iii) in awarding the Encore Fellowship, make a payment, in the amount of $11,000, to the organization to enable the organization to provide living expenses to the Encore Fellow for the year in which the Encore Fellow agrees to serve.
 

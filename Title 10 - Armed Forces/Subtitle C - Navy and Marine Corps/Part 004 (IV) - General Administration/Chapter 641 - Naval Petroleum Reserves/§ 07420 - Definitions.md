@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
-&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located inKern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
+&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
 &emsp;(3) The term "petroleum" includes crude oil, gases (including natural gas), natural gasoline, and other related hydrocarbons, oil shale, and the products of any of such resources.
 
@@ -18,7 +18,7 @@ In this chapter:
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted "The term" in each par., substituted periods for semicolons in pars. (1) to (4) and period for "; and" in par. (5).
+<b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted "The term" in eachpar., substituted periods for semicolons in pars. (1) to (4) and period for "; and" in par. (5).
 
 <b>1980</b>—Pub. L. 96–513 in introductory text struck out "(a)" before "In", in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted "Energy" for "the Navy".
 
@@ -106,7 +106,7 @@ Distribution of Remaining Funds.—Section 35 of the Mineral Leasing Act (30 U.S
 
 "(a)
 
-Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to the City of Taft, California (in this section referred to as the 'City'), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE¼, the NE¼ of the NW¼, and the N½ of the SE¼ of the NW¼ of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
+Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to theCity of Taft, California (in this section referred to as the 'City'), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE¼, the NE¼ of the NW¼, and the N½ of the SE¼ of the NW¼ of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
 
 "(b)
 
@@ -176,7 +176,7 @@ Period of Availability.—Funds appropriated pursuant to the authorization of ap
 
 "(a)
 
-Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secretary of Energy may dispose of the portion of Naval Petroleum Reserve Numbered 2 that is located within the town lots in FordCity, California, which are identified as 'Drill Sites Numbered 3A, 4, 6, 9A, 20, 22, 24, and 26' and described in the document entitled 'Ford City Drill Site Locations—NPR–2,' and accompanying maps on file in the office of the Deputy Assistant Secretary for Naval Petroleum and Oil Shale Reserves of the Department of Energy.
+Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secretary of Energy may dispose of the portion of Naval Petroleum Reserve Numbered 2 that is located within the town lots in Ford City, California, which are identified as 'Drill Sites Numbered 3A, 4, 6, 9A, 20, 22, 24, and 26' and described in the document entitled 'Ford City Drill Site Locations—NPR–2,' and accompanying maps on file in the office of the Deputy Assistant Secretary for Naval Petroleum and Oil Shale Reserves of the Department of Energy.
 
 "(2) The Secretary of Energy shall carry out the disposal authorized by paragraph (1) by competitive sale or lease consistent with commercial practices, by transfer to another Federal agency or a public or private entity, or by such other means as the Secretary considers appropriate. Any competitive sale or lease under this subsection shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed. The Secretary of Energy may use the authority provided by the Act of June 14, 1926 (43 U.S.C. 869 et seq.; commonly known as the Recreation and Public Purposes Act), in the same manner and to the same extent as the Secretary of the Interior, to dispose of the portion of Naval Petroleum Reserve Numbered 2 described in paragraph (1).
 
@@ -196,7 +196,7 @@ Administration Pending Termination of Operations.—The Secretary of Energy shal
 
 "(b)
 
-Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer to another Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
+Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer toanother Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
 
 "(c)
 
@@ -360,7 +360,7 @@ Deposit of Receipts.—Notwithstanding any other law, all monies received by the
 
 "(c)
 
-Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any lease of lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
+Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any leaseof lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
 
 "(d)
 
@@ -420,7 +420,7 @@ Establishment of Minimum Sale Price.—(1) Not later than seven months after the
 
 &emsp;"(C) the net present value of the anticipated revenue stream that the Secretary and the Director of the Office of Management and Budget jointly determine the Treasury would receive from the reserve if the reserve were not sold, adjusted for any anticipated increases in tax revenues that would result if the reserve were sold.
 
-"(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of anyenvironmental restoration and remediation necessary at the reserve. The Secretary shall report the estimate to the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
+"(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of any environmental restoration and remediation necessary at the reserve. The Secretary shall report the estimate to the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
 
 "(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set the minimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
 
@@ -496,7 +496,7 @@ Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to th
 
 "(a)
 
-Notice Regarding Sale Conditions.—The Secretary may not enter into any contract for the sale ofNaval Petroleum Reserve Numbered 1 under section 3412 until the end of the 31-day period beginning on the date on which the Secretary submits to the appropriate congressional committees a written notification—
+Notice Regarding Sale Conditions.—The Secretary may not enter into any contract for the sale of Naval Petroleum Reserve Numbered 1 under section 3412 until the end of the 31-day period beginning on the date on which the Secretary submits to the appropriate congressional committees a written notification—
 
 &emsp;"(1) describing the conditions of the proposed sale; and
 
@@ -520,7 +520,7 @@ Effect of Reconsideration Notice.—After the Secretary submits a notification u
 
 "(a)
 
-Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers' Retirement Fund of the State in the event that, and to the extent that, the claims of the State against the United States regarding production and proceeds of sale from Naval Petroleum Reserve Numbered 1 are—
+Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers' Retirement Fund of the State in the event that, and to the extent that, the claims of the State against the United States regarding production andproceeds of sale from Naval Petroleum Reserve Numbered 1 are—
 
 &emsp;"(1) settled by agreement with the United States under subsection (c); or
 

@@ -48,11 +48,11 @@ The Secretary is authorized to establish programs to enhance the quality of math
 
 #### (c) Relationship to other Department activities
 
-The programs described in subsection (a) of this section shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
+The programs described in subsection (a) shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
 
 #### (d) Science, Engineering, and Mathematics Education Fund
 
-The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
+The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercialapplication for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
 
 #### (e) Annual plan for allocation of education funding
 
@@ -66,7 +66,7 @@ The Secretary shall submit to Congress as part of the annual budget submission f
 
 #### (f) Programs for students from under-represented groups
 
-In carrying out a program under subsection (a) of this section, the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
+In carrying out a program under subsection (a), the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
 
 (Pub. L. 101–510, div. C, title XXXI, §3164, Nov. 5, 1990, 104 Stat. 1841; Pub. L. 109–58, title XI, §§1102(a), 1105(a), Aug. 8, 2005, 119 Stat. 938, 939; Pub. L. 110–69, title V, §5003(a), Aug. 9, 2007, 121 Stat. 601.)
 

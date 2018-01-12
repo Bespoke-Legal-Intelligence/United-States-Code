@@ -2,7 +2,7 @@
 
 (a) The Director shall—
 
-&emsp;(1) maintain the United States Government assistance awards information system established as a result of the study conducted under section 9 of the Federal Program Information Act; and
+&emsp;(1) maintain the United States Government assistance awards information system established as a result of the study conducted undersection 9 of the Federal Program Information Act; and
 
 &emsp;(2) update the system on a quarterly basis.
 

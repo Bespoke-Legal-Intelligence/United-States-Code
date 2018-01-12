@@ -28,3 +28,7 @@ Subsec. (c). Pub. L. 114–144, §8(a)(3), struck out subsec. (c). Text read as 
 
 <b>2000</b>—Pub. L. 106–501 amended section catchline and text generally, substituting provisions authorizing appropriations for subparts II, III, and IV of this part for fiscal year 2001 and subsequent fiscal years for provisions authorizing appropriations for subparts II, III, IV, and V of this part for fiscal years 1992 through 1995.
 
+#### Effective Date
+
+Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+

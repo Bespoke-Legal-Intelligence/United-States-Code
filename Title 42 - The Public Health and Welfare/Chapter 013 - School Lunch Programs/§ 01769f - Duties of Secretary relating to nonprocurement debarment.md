@@ -144,7 +144,7 @@ Prior to seeking judicial review in a court of competent jurisdiction, a contrac
 
 On request, the Secretary shall present to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information regarding the activities of the Secretary relating to anticompetitive activities, fraud, nonprocurement debarment, and any waiver granted by the Secretary under this section.
 
-(June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727; amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
+(June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727;amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
 
 #### Amendments
 

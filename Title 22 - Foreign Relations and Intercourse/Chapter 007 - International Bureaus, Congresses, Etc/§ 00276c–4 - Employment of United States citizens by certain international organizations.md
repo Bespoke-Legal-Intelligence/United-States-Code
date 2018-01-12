@@ -1,6 +1,6 @@
 ### §276c–4. Employment of United States citizens by certain international organizations
 
-Not later than 180 days after December 16, 2016, and annually thereafter for 3 years, the Secretary of State shall submit to Congress a report that provides—
+Not later than 180 days after December 16, 2016, and annually thereafter for 3 years, theSecretary of State shall submit to Congress a report that provides—
 
 &emsp;(1) for each international organization that had a geographic distribution formula in effect on January 1, 1991, an assessment of whether that organization—
 

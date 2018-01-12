@@ -50,11 +50,11 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;&emsp;(D) a description of how the State will establish a baseline and measure improvements in capacity with respect to national primary drinking water regulations and State drinking water law; and
 
-&emsp;&emsp;(E) an identification of the persons that have an interest in and are involved in the development and implementation of the capacity development strategy (including all appropriate agencies of Federal, State, and local governments, private and nonprofit public water systems, and public water system customers).
+&emsp;&emsp;(E) an identification of the persons that have an interest in and are involved in the development and implementation of the capacity development strategy (including all appropriate agencies of Federal, State, andlocal governments, private and nonprofit public water systems, and public water system customers).
 
 #### (3) Report
 
-&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, andevery 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State.
+&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, and every 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State.
 
 #### (4) Review
 
@@ -134,7 +134,7 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 #### (1) In general
 
-&emsp;The Administrator shall provide initial funding for one or more university-based environmental finance centers for activities thatprovide technical assistance to State and local officials in developing the capacity of public water systems. Any such funds shall be used only for activities that are directly related to this subchapter.
+&emsp;The Administrator shall provide initial funding for one or more university-based environmental finance centers for activities that provide technical assistance to State and local officials in developing the capacity of public water systems. Any such funds shall be used only for activities that are directly related to this subchapter.
 
 #### (2) National capacity development clearinghouse
 

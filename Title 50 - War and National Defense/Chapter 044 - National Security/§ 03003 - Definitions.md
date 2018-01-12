@@ -46,7 +46,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(iii) any other matter bearing on United States national or homeland security.
 
-&emsp;(6) The term "National Intelligence Program" refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of National Intelligence and the head of a United States department or agency or by the President. Such term does not include programs,projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
+&emsp;(6) The term "National Intelligence Program" refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of National Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
 
 &emsp;(7) The term "congressional intelligence committees" means—
 
@@ -129,6 +129,20 @@ For assignment of function of President under par. (5)(A) of this section to Dir
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
 
 #### Definitions Applicable to Specific Acts
+
+Pub. L. 115–31, div. N, §2, May 5, 2017, 131 Stat. 807, provided that: "In this division \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Congressional intelligence committees.—The term 'congressional intelligence committees' means—
+
+&emsp;&emsp;"(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Intelligence community.—The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
 
 Pub. L. 114–113, div. M, §2, Dec. 18, 2015, 129 Stat. 2910, provided that: "In this division \[see Tables for classification\]:
 

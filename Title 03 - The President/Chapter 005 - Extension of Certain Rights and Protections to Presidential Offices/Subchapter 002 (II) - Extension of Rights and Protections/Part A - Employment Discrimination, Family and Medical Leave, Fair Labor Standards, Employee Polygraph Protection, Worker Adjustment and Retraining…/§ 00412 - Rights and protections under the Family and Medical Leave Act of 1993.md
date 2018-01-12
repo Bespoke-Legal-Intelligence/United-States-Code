@@ -6,7 +6,7 @@ Family and Medical Leave Rights and Protections Provided.—
 
 &emsp;(1)
 
-In general.—The rights and protections established by sections 101 through 105 of theFamily and Medical Leave Act of 1993 shall apply to covered employees.
+In general.—The rights and protections established by sections 101 through 105 of the Family and Medical Leave Act of 1993 shall apply to covered employees.
 
 &emsp;(2)
 

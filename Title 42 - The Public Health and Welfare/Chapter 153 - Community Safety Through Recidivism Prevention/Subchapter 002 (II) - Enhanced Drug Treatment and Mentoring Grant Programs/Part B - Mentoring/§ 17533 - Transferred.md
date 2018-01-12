@@ -1,0 +1,6 @@
+### §17533. Transferred
+
+#### Codification
+
+Section 17533 was editorially reclassified as section 60533 of Title 34, Crime Control and Law Enforcement.
+

@@ -50,7 +50,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (2) United States actions in courts outside the United States
 
-&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.
+&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and toseek such redress in the courts of the foreign nation from which the inspector is a national.
 
 #### (3) Actions brought by individuals and businesses
 
@@ -112,7 +112,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (i) Arms export transactions
 
-&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
+&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph\(A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
 
 #### (ii) Denial of certain licenses
 
@@ -156,7 +156,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (6) Notification to Congress
 
-&emsp;Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition ofsanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+&emsp;Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition of sanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (f) Sanctions for unauthorized disclosure of United States confidential business information
 

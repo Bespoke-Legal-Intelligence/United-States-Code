@@ -46,7 +46,7 @@
 
 #### (D) Annual appropriations
 
-&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget yearin accounts for which funding is provided in that legislation that result from previously enacted legislation.
+&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
 
 #### (b) Adjustments to discretionary spending limits
 
@@ -128,7 +128,7 @@
 
 #### (D) Disaster funding
 
-&emsp;&emsp;(i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
+&emsp;&emsp;(i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts areenacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
 
 &emsp;&emsp;&emsp;(I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
 
@@ -208,7 +208,7 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 <b>2015</b>—Subsec. (a)(7)(B). Pub. L. 114–113 substituted "both the CBO and OMB estimates of the amount of discretionary new budget authority" for "the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays".
 
-Subsec. (b)(2)(B)(i). Pub. L. 114–74, §815(1)(A), in introductory provisions, substituted ", for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys" for "and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act".
+Subsec. (b)(2)(B)(i). Pub. L. 114–74, §815(1)(A), in introductory provisions, substituted ", for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in theprograms and operations of the Social Security Administration by Special Assistant United States Attorneys" for "and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act".
 
 Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, §815(1)(B), substituted "$1,546,000,000" for "$1,309,000,000".
 
@@ -358,7 +358,7 @@ Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended 
 
 "(a)
 
-Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget andEmergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
+Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
 &emsp;"(1) for fiscal year 2005, $35,164,292,000;
 

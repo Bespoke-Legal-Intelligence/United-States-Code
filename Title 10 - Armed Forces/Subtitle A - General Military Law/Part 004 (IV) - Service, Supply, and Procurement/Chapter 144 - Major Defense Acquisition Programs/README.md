@@ -6,12 +6,7 @@
 | [2430a.](%C2%A7%2002430a%20-%20Major%20subprograms.md) | Major subprograms. |
 | [2431\.](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md) | Weapons development and procurement schedules. |
 | [2431a.](%C2%A7%2002431a%20-%20Acquisition%20strategy.md) | Acquisition strategy. |
-| [2431b.](%C2%A7%2002431b%20-%20Risk%20management%20and%20mitigation%20in%20major%20defense%20acquisition%20programs%20and%20major%20systems.md) | Risk reduction in major defense acquisition programs and major systems.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2431b.](%C2%A7%2002431b%20-%20Risk%20management%20and%20mitigation%20in%20major%20defense%20acquisition%20programs%20and%20major%20systems.md) | Risk management and mitigation in major defense acquisition programs and major systems. |
 | [2432\.](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
 | [2433a.](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md) | Critical cost growth in major defense acquisition programs. |
@@ -20,13 +15,17 @@
 | [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
 | [2437\.](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md) | Development of major defense acquisition programs: sustainment of system to be replaced. |
 | [2438\.](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md) | Performance assessments and root cause analyses. |
-| \[2439. | Repealed.\] |
+| [2439\.](%C2%A7%2002439%20-%20Negotiation%20of%20price%20for%20technical%20data%20before%20development%20or%20production%20of%20major%20weapon%20systems.md) | Negotiation of price for technical data before development or production of major weapon systems. |
 | [2440\.](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md) | Technology and industrial base plans. |
 | [2441\.](%C2%A7%2002441%20-%20Sustainment%20reviews.md) | Sustainment reviews. |
+| [2442\.](%C2%A7%2002442%20-%20Prohibition%20on%20use%20of%20lowest%20price%20technically%20acceptable%20source%20selection%20process.md) | Prohibition on use of lowest price technically acceptable source selection process. |
+| [2443\.](%C2%A7%2002443%20-%20Sustainment%20factors%20in%20weapon%20system%20design.md) | Sustainment factors in weapon system design. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title VIII, §§832(a)(2), 834(a)(2), 835(a)(2), title X, §1081(a)(37), Dec. 12, 2017, 131 Stat. 1468, 1470, 1471, 1596, added items 2439, 2442, and 2443 and substituted "Risk management and mitigation in major defense acquisition programs and major systems" for "Risk reduction in major defense acquisition programs and major systems" in item 2431b.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VIII, §§842(c)(2), 849(c)(2), Dec. 23, 2016, 130 Stat. 2290, 2294, struck out item 2434 "Independent cost estimates" and added item 2441.
 
@@ -56,8 +55,6 @@ Pub. L. 99–500, §101(c) \[title X, §§904(a)(2), 905(a)(2), 906(a)(2)\], Oct
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -76,6 +73,8 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)
 - [&sect; 02437 - Development of major defense acquisition programs sustainment of system to be replaced](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md)
 - [&sect; 02438 - Performance assessments and root cause analyses](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md)
-- [&sect; 02439 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3007(a), Oct. 13, 1994, 108 Stat. 3331](%C2%A7%2002439%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73007%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203331.md)
+- [&sect; 02439 - Negotiation of price for technical data before development or production of major weapon systems](%C2%A7%2002439%20-%20Negotiation%20of%20price%20for%20technical%20data%20before%20development%20or%20production%20of%20major%20weapon%20systems.md)
 - [&sect; 02440 - Technology and industrial base plans](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md)
 - [&sect; 02441 - Sustainment reviews](%C2%A7%2002441%20-%20Sustainment%20reviews.md)
+- [&sect; 02442 - Prohibition on use of lowest price technically acceptable source selection process](%C2%A7%2002442%20-%20Prohibition%20on%20use%20of%20lowest%20price%20technically%20acceptable%20source%20selection%20process.md)
+- [&sect; 02443 - Sustainment factors in weapon system design](%C2%A7%2002443%20-%20Sustainment%20factors%20in%20weapon%20system%20design.md)

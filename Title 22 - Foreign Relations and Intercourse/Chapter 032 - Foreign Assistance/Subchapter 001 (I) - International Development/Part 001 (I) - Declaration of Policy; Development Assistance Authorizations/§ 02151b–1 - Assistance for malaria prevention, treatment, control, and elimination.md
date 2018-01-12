@@ -12,7 +12,7 @@
 
 #### (3) Dissemination of information requirement
 
-&emsp;Activities referred to in paragraph (1) shall include the dissemination of information relating to the development of vaccines andtherapeutic agents for the prevention of malaria (including information relating to participation in, and the results of, clinical trials for such vaccines and agents conducted by United States Government agencies) to appropriate officials in such countries.
+&emsp;Activities referred to in paragraph (1) shall include the dissemination of information relating to the development of vaccines and therapeutic agents for the prevention of malaria (including information relating to participation in, and the results of, clinical trials for such vaccines and agents conducted by United States Government agencies) to appropriate officials in such countries.
 
 #### (b) Authorization of appropriations
 
@@ -46,7 +46,7 @@ Pub. L. 106–570, title I, §102, Dec. 27, 2000, 114 Stat. 3039, provided that:
 
 &emsp;"(6) Although malaria is a public health problem in more than 90 countries, more than 90 percent of all malaria cases are in sub-Saharan Africa.
 
-&emsp;"(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic, the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
+&emsp;"(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic,the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
 
 &emsp;"(8) These high risk areas represent many of the world's poorest nations.
 

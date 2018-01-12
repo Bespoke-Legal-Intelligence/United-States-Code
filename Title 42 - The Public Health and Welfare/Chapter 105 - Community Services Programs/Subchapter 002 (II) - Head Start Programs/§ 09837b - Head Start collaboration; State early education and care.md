@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) enhance collaboration and coordination of Head Start services by Head Start agencies with other entities providing early childhood education and development (such as child care or services offered by museums), health care, mental health care, welfare, child protective services, education and community service activities, family literacy services, reading readiness programs (including such programs offered by public and school libraries), services relating to children with disabilities, other early childhood education and development for limited English proficient children and homeless children, and services provided for children in foster care and children referred to Head Start programs by child welfare agencies, including agencies and State officials responsible for services described in this clause;
 
-&emsp;&emsp;(ii) assist Head Start agencies to develop a plan for the provision of full working-day, full calendar year services for children enrolled in Head Start programs who need such services;
+&emsp;&emsp;(ii) assist Head Start agencies to develop a plan for the provision of full working-day,full calendar year services for children enrolled in Head Start programs who need such services;
 
 &emsp;&emsp;(iii) assist Head Start agencies to align curricula and assessments used in Head Start programs with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
 
@@ -92,7 +92,7 @@
 
 &emsp;(I) conduct a periodic statewide needs assessment concerning the quality and availability of early childhood education and development programs and services for children from birth to school entry, including an assessment of the availability of high-quality pre-kindergarten services for low-income children in the State;
 
-&emsp;(II) identify opportunities for, and barriers to, collaboration and coordination among Federally-funded and State-funded child development, child care, and early childhood education programs and services, including collaboration and coordination among Stateagencies responsible for administering such programs;
+&emsp;(II) identify opportunities for, and barriers to, collaboration and coordination among Federally-funded and State-funded child development, child care, and early childhood education programs and services, including collaboration and coordination among State agencies responsible for administering such programs;
 
 &emsp;(III) develop recommendations for increasing the overall participation of children in existing Federal, State, and local child care and early childhood education programs, including outreach to underrepresented and special populations;
 
@@ -140,7 +140,7 @@
 
 &emsp;(ii) information about how the State used such funds to meet the goals of this subsection through activities to develop or enhance high-quality systems of early childhood education and care, increase effectiveness of delivery systems and use of funds, and enhance existing programs and services;
 
-&emsp;(iii) information regarding the remaining needs described in the periodic statewide needsassessment and statewide strategic report that have not yet been addressed by the State; and
+&emsp;(iii) information regarding the remaining needs described in the periodic statewide needs assessment and statewide strategic report that have not yet been addressed by the State; and
 
 &emsp;(iv) any other information that the Secretary may require.
 

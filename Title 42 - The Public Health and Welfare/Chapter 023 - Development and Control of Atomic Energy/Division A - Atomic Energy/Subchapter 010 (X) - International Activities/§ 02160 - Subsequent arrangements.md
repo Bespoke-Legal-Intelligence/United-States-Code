@@ -22,7 +22,7 @@
 
 (3) The United States will give timely consideration to all requests for prior approval, when required by this chapter, for the reprocessing of material proposed to be exported, previously exported and subject to the applicable agreement for cooperation, or special nuclear material produced through the use of such material or a production or utilization facility transferred pursuant to such agreement for cooperation, or to the altering of irradiated fuel elements containing such material, and additionally, to the maximum extent feasible, will attempt to expedite such consideration when the terms and conditions for such actions are set forth in such agreement for cooperation or in some other international agreement executed by the United States and subject to congressional review procedures comparable to those set forth in section 2153 of this title.
 
-(4) All other statutory requirements under other sections of this chapter for the approval or conduct of any arrangement subject to this subsection shall continue to apply and any othersuch requirements for prior approval or conditions for entering such arrangements shall also be satisfied before the arrangement takes effect pursuant to paragraph (1).
+(4) All other statutory requirements under other sections of this chapter for the approval or conduct of any arrangement subject to this subsection shall continue to apply and any other such requirements for prior approval or conditions for entering such arrangements shall also be satisfied before the arrangement takes effect pursuant to paragraph (1).
 
 #### (b) Reports to Congressional committees; increase in risk of proliferation
 
@@ -62,7 +62,7 @@ Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not 
 
 (4) For the purposes of this subsection, the term "foreign spent nuclear fuel" shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
 
-(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
+(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat.4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
 
 #### References in Text
 

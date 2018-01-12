@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the rights (including the rights under section2614 of this title, which shall extend throughout the period of leave of any employee under this section), remedies, and procedures under this subchapter shall apply to—
+&emsp;Except as otherwise provided in this section, the rights (including the rights under section 2614 of this title, which shall extend throughout the period of leave of any employee under this section), remedies, and procedures under this subchapter shall apply to—
 
 &emsp;&emsp;(A) any "local educational agency" (as defined in section 7801 of title 20) and an eligible employee of the agency; and
 
@@ -76,7 +76,7 @@ For purposes of determinations under section 2614(a)(1)(B) of this title (relati
 
 If a local educational agency or a private elementary or secondary school that has violated this subchapter proves to the satisfaction of the court that the agency, school, or department had reasonable grounds for believing that the underlying act or omission was not a violation of this subchapter, such court may, in the discretion of the court, reduce the amount of the liability provided for under section 2617(a)(1)(A) of this title to the amount and interest determined under clauses (i) and (ii), respectively, of such section.
 
-(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994,108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, §585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131; Pub. L. 114–95, title IX, §9215(hh), Dec. 10, 2015, 129 Stat. 2175.)
+(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, §585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131; Pub. L. 114–95, title IX, §9215(hh), Dec. 10, 2015, 129 Stat. 2175.)
 
 #### References in Text
 
@@ -101,4 +101,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 

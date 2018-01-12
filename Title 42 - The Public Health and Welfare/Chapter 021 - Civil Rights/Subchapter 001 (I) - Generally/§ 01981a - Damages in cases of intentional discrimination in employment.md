@@ -8,7 +8,7 @@
 
 #### (2) Disability
 
-&emsp;In an action brought by a complaining party under the powers, remedies, and procedures set forth in section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] (as provided in section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12117(a)), and section 794a(a)(1) of title 29, respectively) against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) under section 791 oftitle 29 and the regulations implementing section 791 of title 29, or who violated the requirements of section 791 of title 29 or the regulations implementing section 791 of title 29 concerning the provision of a reasonable accommodation, or section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112), or committed a violation of section 102(b)(5) of the Act, against an individual, the complaining party may recover compensatory and punitive damages as allowed in subsection (b), in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
+&emsp;In an action brought by a complaining party under the powers, remedies, and procedures set forth in section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] (as provided in section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12117(a)), and section 794a(a)(1) of title 29, respectively) against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) under section 791 of title 29 and the regulations implementing section 791 of title 29, or who violated the requirements of section 791 of title 29 or the regulations implementing section 791 of title 29 concerning the provision of a reasonable accommodation, or section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112), or committed a violation of section 102(b)(5) of the Act, against an individual, the complaining party may recover compensatory and punitive damages as allowed in subsection (b), in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
 
 #### (3) Reasonable accommodation and good faith effort
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) in the case of a respondent who has more than 100 and fewer than 201 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $100,000; and
 
-&emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
+&emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employeesin each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 
 &emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $300,000.
 

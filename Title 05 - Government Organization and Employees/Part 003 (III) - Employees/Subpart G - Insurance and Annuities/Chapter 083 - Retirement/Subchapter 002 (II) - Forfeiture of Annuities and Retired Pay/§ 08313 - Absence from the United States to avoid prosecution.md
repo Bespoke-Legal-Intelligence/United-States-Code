@@ -1,6 +1,6 @@
 ### §8313. Absence from the United States to avoid prosecution
 
-(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired payon the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
+(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
 
 &emsp;(1) is under indictment, or has outstanding against him charges preferred under the Uniform Code of Military Justice—
 

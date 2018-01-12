@@ -13,7 +13,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 10,000 | 1,052 | 154&nbsp;&nbsp; |
 | 11,000 | 1,126 | 168&nbsp;&nbsp; |
 | 12,000 | 1,195 | 180&nbsp;&nbsp; |
-| 13,000 | 1,261 | 191   |
+| 13,000 | 1,261 | 191&nbsp;&nbsp; |
 | 14,000 | 1,327 | 202&nbsp;&nbsp; |
 | 15,000 | 1,391 | 213&nbsp;&nbsp; |
 | 16,000 | 1,455 | 224&nbsp;&nbsp; |
@@ -60,7 +60,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 1,300 | 60 | 13&nbsp;&nbsp; |
 | 1,400 | 65 | 14&nbsp;&nbsp; |
 | 1,500 | 70 | 15&nbsp;&nbsp; |
-| 1,600 | 75 | 16&nbsp;&nbsp; |
+| 1,600 | 75 | 16   |
 | 1,700 | 80 | 17&nbsp;&nbsp; |
 | 1,800 | 85 | 18&nbsp;&nbsp; |
 | 1,900 | 89 | 19&nbsp;&nbsp; |
@@ -143,7 +143,7 @@ Provisions similar to those in this section were contained in section 517(b), (c
 
 Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8."
 
-Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section."
+Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Whenever under section 527of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section."
 
 Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength."
 

@@ -1,6 +1,6 @@
 ### §286q. Limitation on allocations to the United States
 
-(a) Unless Congress by law authorizes such action, neither the President nor any person oragency shall on behalf of the United States vote to allocate in each basic period Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund so that allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act \[22 U.S.C. 286 et seq.\].
+(a) Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States vote to allocate in each basic period Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund so that allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act \[22 U.S.C. 286 et seq.\].
 
 (b)(1) Neither the President nor any person or agency shall on behalf of the United States vote to allocate Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund without consultations by the Secretary of the Treasury at least 90 days prior to any such vote, with the Chairman and ranking minority members of the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the appropriate subcommittees thereof.
 
@@ -26,7 +26,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1976 Amendment
 

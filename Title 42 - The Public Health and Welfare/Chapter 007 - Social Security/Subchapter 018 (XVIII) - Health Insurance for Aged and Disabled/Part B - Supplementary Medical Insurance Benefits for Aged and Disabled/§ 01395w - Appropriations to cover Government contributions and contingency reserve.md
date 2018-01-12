@@ -18,7 +18,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(C) the aggregate amount of additional premium payments attributable to the application of section 1395r(i) of this title; plus
 
-&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June 30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited; plus
+&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited; plus
 
 &emsp;(3) a Government contribution equal to the amount of payment incentives payable under sections 1395w–4(o) and 1395w–23(l)(3) of this title.
 
@@ -46,7 +46,7 @@ The Secretary shall determine the Government contribution under subparagraphs (A
 
 (3) There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the additional premiums payable as a result of the application of section 1395r(a)(6) of this title, excluding the aggregate payments attributable to the application of section 1395r(i)(3)(A)(ii)(II) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(l)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368; Pub. L. 111–5, div. B, title IV, §4103(a)(2), Feb. 17, 2009, 123 Stat. 487; Pub. L. 114–74, title VI, §601(b), Nov. 2, 2015, 129 Stat. 595.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(l)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368; Pub. L. 111–5, div. B, title IV, §4103(a)(2), Feb. 17, 2009, 123 Stat. 487; Pub. L. 114–74, title VI, §601(b), Nov. 2, 2015, 129 Stat. 595.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Pub. L. 108–173, §222(l)(2)(C), inserted "or any credits provided under secti
 
 <b>1984</b>—Subsec. (a)(1)(B)(ii). Pub. L. 98–369 substituted "; plus" for a period.
 
-<b>1983</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted "section 1395r(a)(1)" for "section 1395r(c)(1)" and "section 1395r(a)(3) or 1395r(e)" for "section 1395r(c)(3) or 1395r(g)".
+<b>1983</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted "section 1395r(a)(1)" for "section1395r(c)(1)" and "section 1395r(a)(3) or 1395r(e)" for "section 1395r(c)(3) or 1395r(g)".
 
 Subsec. (a)(1)(B)(i). Pub. L. 98–21, §606(a)(3)(G), substituted "1395r(a)(4)" for "1395r(c)(4)" and "1395r(a)(3) or 1395r(e)" for "1395r(c)(3) or 1395r(g)".
 

@@ -16,7 +16,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;For purposes of applying section 401(a)(4) and section 410(b) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
 
-&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as havingsuch capacity with respect to such American employer; and
+&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as having such capacity with respect to such American employer; and
 
 &emsp;&emsp;(B) the determination of whether such individual is a highly compensated employee (as so defined) shall be made by treating such individual's total compensation (determined with the application of paragraph (2) of this subsection) as compensation paid by such American employer and by determining such individual's status with regard to such American employer.
 
@@ -36,7 +36,7 @@ For purposes of applying section 404 with respect to contributions made to or un
 
 &emsp;(1) except as provided in paragraph (2), no deduction shall be allowed to such American employer or to any other taxpayer which is entitled to deduct its contributions under such sections,
 
-&emsp;(2) there shall be allowed as a deduction to the foreign affiliate of which such individual is an employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the American employer if he were an employee of the American employer, and
+&emsp;(2) there shall be allowed as a deduction to the foreign affiliate of which such individual isan employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the American employer if he were an employee of the American employer, and
 
 &emsp;(3) any reference to compensation shall be considered to be a reference to the total compensation of such individual (determined with the application of subsection (b)(2)).
 
@@ -84,7 +84,7 @@ Subsec. (e)(5). Pub. L. 99–514, §1852(e)(2)(C), struck out par. (5) which rea
 
 Subsec. (a)(3). Pub. L. 98–369, §491(d)(14), substituted "or 403(a)" for ", 403(a), or 405(a)".
 
-Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory provision "section 404" for"sections 404 and 405(c)", and "or annuity" for "annuity, or bond purchase".
+Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory provision "section 404" for "sections 404 and 405(c)", and "or annuity" for "annuity, or bond purchase".
 
 Subsec. (d)(2). Pub. L. 98–369, §491(d)(15)(C), struck out "(or section 405(c))" after "section 404".
 
@@ -180,7 +180,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

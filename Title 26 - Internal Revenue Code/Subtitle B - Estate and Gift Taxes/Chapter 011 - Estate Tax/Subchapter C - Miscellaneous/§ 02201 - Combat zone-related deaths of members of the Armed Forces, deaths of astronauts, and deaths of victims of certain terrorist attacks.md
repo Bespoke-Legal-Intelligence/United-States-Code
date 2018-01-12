@@ -12,7 +12,7 @@ For purposes of this section, the term "qualified decedent" means—
 
 &emsp;&emsp;(A) was killed in action while serving in a combat zone, as determined under section 112(c), or
 
-&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
+&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of ahazard to which such decedent was subjected as an incident of such service,
 
 &emsp;(2) any specified terrorist victim (as defined in section 692(d)(4)), and
 
@@ -71,7 +71,7 @@ Pub. L. 108–121, title I, §110(c)(3), Nov. 11, 2003, 117 Stat. 1343, provided
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section103(d) of Pub. L. 107–134, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2053 of this title.
 
 #### Effective Date of 2001 Amendment
 

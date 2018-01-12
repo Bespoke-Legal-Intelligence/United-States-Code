@@ -40,7 +40,7 @@
 
 #### (II) Combination or consolidation of areas
 
-&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county orarea committees shall consist of not fewer than 3 nor more than 11 members that—
+&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of not fewer than 3 nor more than 11 members that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
 
@@ -118,7 +118,7 @@
 
 #### (bb) Inclusion
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee,in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
 
 #### (cc) Methods of inclusion
 
@@ -182,7 +182,7 @@
 
 (1) In apportioning acreage allotments under this section in the case of wheat and corn, the National and State allotments and the allotments to counties shall be apportioned annually on the basis of the acreage seeded for the production of the commodity during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined (plus, in applicable years, the acreage diverted under previous agricultural adjustment and conservation programs), with adjustments for abnormal weather conditions and trends in acreage during the applicable period.
 
-(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defensepurposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
+(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the ownerof the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
 (3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
@@ -214,7 +214,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted "Except as provided in subclause (II), a committee established" for "A committee established" in introductory provisions, redesignated formersubcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted "Except as provided in subclause (II), a committee established" for "A committee established" in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
 <b>2002</b>—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -254,7 +254,7 @@ Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out "an
 
 Pub. L. 99–198, §1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
+Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to thecounty committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
@@ -316,7 +316,7 @@ Subsec. (b). Act June 21, 1941, inserted par. beginning "Notwithstanding any oth
 
 Subsec. (f). Act May 14, 1940, struck out last sentence which provided "Such limitations shall apply only if the county committee finds that the change or reduction is not justified and disapproves such change or reduction" and substituted last two sentences.
 
-<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided "Notwithstanding any other provision of this subsection, if, for any reason other than flood ordrought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage".
+<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided "Notwithstanding any other provision of this subsection, if, for any reason other than flood or drought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of thefarm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage".
 
 <b>1938</b>—Subsecs. (b) and (c) amended generally by act Feb. 16, 1938.
 
@@ -378,7 +378,7 @@ Pub. L. 97–218, title IV, §401, July 20, 1982, 96 Stat. 216, provided that: "
 
 #### 1970 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, formerly set outas a note under section 5332 of Title 5, Government Organization and Employees.
+Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### 1967 Increase in Rates of Compensation of Persons Employed by County Committees
 

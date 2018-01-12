@@ -1,4 +1,0 @@
-### §218. Repealed. Pub. L. 114–125, title VIII, §802(f), Feb. 24, 2016, 130 Stat. 210
-
-Section, Pub. L. 107–296, title IV, §418, Nov. 25, 2002, 116 Stat. 2181, related to reports to Congress from the United States Customs Service and the Secretary of the Treasury.
-

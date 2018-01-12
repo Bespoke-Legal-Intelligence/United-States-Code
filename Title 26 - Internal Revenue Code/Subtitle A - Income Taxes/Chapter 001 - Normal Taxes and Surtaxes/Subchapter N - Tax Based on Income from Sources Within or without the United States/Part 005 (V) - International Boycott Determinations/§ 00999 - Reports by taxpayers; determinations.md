@@ -24,7 +24,7 @@
 
 #### (1) General rule
 
-&emsp;If the person or a member of a controlled group (within the meaning of section 993(a)(3)) which includes the person participates in or cooperates with an international boycott in the taxable year, all operations of the taxpayer or such group in that country and in any other country which requires participation in or cooperation with the boycott as a condition of doing business within that country, or with the government, a company, or a national of that country, shall be treated as operations in connection with which such participation or cooperation occurred, except to the extent that the person can clearly demonstrate that a particular operation is a clearly separate and identifiable operation in connection with which there was no participation in or cooperation with an international boycott.
+&emsp;If the person or a member of a controlled group (within the meaning of section 993(a)(3)) which includes the person participates in or cooperates with an international boycott in the taxable year, all operations of the taxpayer or such group in that country and in any other country which requires participation in or cooperation with the boycott as a condition of doing business within that country, or with the government, a company, or a national of that country, shall be treated as operations inconnection with which such participation or cooperation occurred, except to the extent that the person can clearly demonstrate that a particular operation is a clearly separate and identifiable operation in connection with which there was no participation in or cooperation with an international boycott.
 
 #### (2) Special rule
 

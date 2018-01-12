@@ -18,7 +18,7 @@ This subchapter, referred to in text, was in the original "this title", meaning 
 
 #### Short Title
 
-Pub. L. 110–53, title XIV, §1401, Aug. 3, 2007, 121 Stat. 400, provided that: "This title \[enacting subchapter IIIof this chapter\] may be cited as the 'National Transit Systems Security Act of 2007'."
+Pub. L. 110–53, title XIV, §1401, Aug. 3, 2007, 121 Stat. 400, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'National Transit Systems Security Act of 2007'."
 
 #### Ex. Ord. No. 13416. Strengthening Surface Transportation Security
 

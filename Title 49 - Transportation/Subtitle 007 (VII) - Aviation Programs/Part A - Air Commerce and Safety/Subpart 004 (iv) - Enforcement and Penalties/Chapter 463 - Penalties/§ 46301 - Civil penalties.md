@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703,41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -382,7 +382,7 @@ Pub. L. 112–95, §415(b), inserted "chapter 423," after "chapter 421,".
 
 Subsec. (a)(5)(A)(i). Pub. L. 112–95, §803(2)(B), inserted ", or chapter 451" after "44907–44909)".
 
-Pub. L. 112–95, §803(2)(A), which directed the substitution of "chapter 449" for "or chapter 449", could not be executed because of the prior amendment by Pub. L. 112–74, §564(a). See 2011 Amendment note below.
+Pub. L. 112–95, §803(2)(A), which directed the substitution of "chapter 449" for "or chapter 449", could notbe executed because of the prior amendment by Pub. L. 112–74, §564(a). See 2011 Amendment note below.
 
 Subsec. (c)(1)(A). Pub. L. 112–95, §415(b), inserted "chapter 423," after "chapter 421,".
 
@@ -480,7 +480,7 @@ Subsec. (g). Pub. L. 106–181, §720(3), inserted "or the Administrator" after 
 
 <b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–287, §5(77)(A)(iii), (iv), inserted "or" after "46303," and struck out ", or 41715" after "under such section)".
 
-Pub. L. 104–287, §5(77)(A)(ii), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,".
+Pub. L. 104–287, §5(77)(A)(ii), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,".
 
 Pub. L. 104–287, §5(77)(A)(i), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for "any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,".
 
@@ -570,7 +570,7 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 
 #### Savings Provision
 
-Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment."
+Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwithstanding subsections (a) and (b) ofthis section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment."
 
 #### Transfer of Functions
 

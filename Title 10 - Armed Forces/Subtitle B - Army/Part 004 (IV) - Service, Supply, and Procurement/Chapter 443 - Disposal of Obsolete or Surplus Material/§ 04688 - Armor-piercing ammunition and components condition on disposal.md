@@ -24,5 +24,5 @@ The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oc
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §382(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, provided that: "Section 4688 of title 10, United States Code, as added by subsection (a), shall apply with respect to any disposal of ammunition or components referred to in that section after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title III, §382(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, provided that: "Section4688 of title 10, United States Code, as added by subsection (a), shall apply with respect to any disposal of ammunition or components referred to in that section after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

@@ -76,7 +76,7 @@ Coordination with other law.—An interactive computer service that does not vio
 
 (d)
 
-Limitation on Injunctions Against Regulated Persons.—Notwithstanding any other provision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
+Limitation on Injunctions Against Regulated Persons.—Notwithstanding any otherprovision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
 
 (Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1959.)
 
@@ -84,5 +84,5 @@ Limitation on Injunctions Against Regulated Persons.—Notwithstanding any other
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(1)(B), (2)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (b)(3), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat.2467, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4 of the Act is classsified to section 2703 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (b)(3), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4 of the Act is classsified to section 2703 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
 

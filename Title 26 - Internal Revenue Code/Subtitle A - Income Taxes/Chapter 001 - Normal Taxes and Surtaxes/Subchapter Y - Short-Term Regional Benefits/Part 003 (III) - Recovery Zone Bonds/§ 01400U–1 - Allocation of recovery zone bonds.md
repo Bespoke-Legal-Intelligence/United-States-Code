@@ -32,7 +32,7 @@
 
 #### (C) Determination of local employment declines
 
-&emsp;&emsp;For purposes of this paragraph, the employment decline of any municipality or county shall be determined in the same manner as determining the State employment decline under paragraph (2), except that in the case of a municipality any portion of which is in a county, such portion shall be treated as part of such municipality and not part of such county.
+&emsp;&emsp;For purposes of this paragraph, the employment decline of any municipality orcounty shall be determined in the same manner as determining the State employment decline under paragraph (2), except that in the case of a municipality any portion of which is in a county, such portion shall be treated as part of such municipality and not part of such county.
 
 #### (4) National limitations
 

@@ -16,7 +16,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;(A) require the testimony of the firm or of any person associated with a registered public accounting firm, with respect to any matter that the Board considers relevant or material to an investigation;
 
-&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered publicaccounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
+&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
 
 &emsp;&emsp;(C) request the testimony of, and production of any document in the possession of, any other person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, with appropriate notice, subject to the needs of the investigation, as permitted under the rules of the Board; and
 
@@ -66,7 +66,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Confidentiality
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State courtor administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
 
 #### (B) Availability to Government agencies
 
@@ -90,7 +90,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (C) Availability to foreign oversight authorities
 
-&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board,all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
+&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
 
 &emsp;&emsp;&emsp;(i) the Board finds that it is necessary to accomplish the purposes of this Act or to protect investors;
 
@@ -252,7 +252,7 @@ Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted ", broker,
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

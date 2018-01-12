@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 &emsp;The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housing enforcement organizations, a range of investigative and enforcement activities designed to—
 
-&emsp;&emsp;(A) carry out testing and other investigative activities in accordance with subsection (b)(1) of this section, including building the capacity for housing investigative activities in unserved or underserved areas;
+&emsp;&emsp;(A) carry out testing and other investigative activities in accordance with subsection (b)(1), including building the capacity for housing investigative activities in unserved or underserved areas;
 
 &emsp;&emsp;(B) discover and remedy discrimination in the public and private real estate markets and real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
 
@@ -52,7 +52,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 &emsp;&emsp;(D) pamphlets and brochures.
 
-> &emsp;The Secretary shall designate a portion of the amounts provided in subsection (g)(4) of this section for a national program specifically for activities related to the annual national fair housing month. The Secretary shall encourage cooperation with real estate industry organizations in the national education and outreach program. The Secretary shall also encourage the dissemination of educational information and technical assistance to support compliance with the housing adaptability and accessibility guidelines contained in the Fair Housing Act Amendments of 1988.
+> &emsp;The Secretary shall designate a portion of the amounts provided in subsection (g)(4) for a national program specifically for activities related to the annual national fair housing month. The Secretary shall encourage cooperation with real estate industry organizations in the national education and outreach program. The Secretary shall also encourage the dissemination of educational information and technical assistance to support compliance with the housing adaptability and accessibility guidelines contained in the Fair Housing Act Amendments of 1988.
 
 #### (2) Regional and local programs
 
@@ -72,7 +72,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 (1) The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section.
 
-(2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) of this section shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,<sup>1</sup> the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
+(2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,<sup>1</sup> the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
 
 (3) Such regulations shall include provisions governing applications for assistance under this section, and shall require each such application to contain—
 
@@ -96,13 +96,13 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 There are authorized to be appropriated to carry out the provisions of this section,<sup>2</sup> $21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—
 
-&emsp;(1) not less than $3,820,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for private enforcement initiatives authorized under subsection (b) of this section, divided equally between activities specified under subsection (b)(1) of this section and those specified under subsection (b)(2) of this section;
+&emsp;(1) not less than $3,820,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for private enforcement initiatives authorized under subsection (b), divided equally between activities specified under subsection (b)(1) and those specified under subsection (b)(2);
 
-&emsp;(2) not less than $2,230,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for qualified fair housing enforcement organizations authorized under subsection (c)(1) of this section;
+&emsp;(2) not less than $2,230,000 for fiscal year 1993 and $8,500,000 for fiscal year 1994 shall be for qualified fair housing enforcement organizations authorized under subsection (c)(1);
 
-&emsp;(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2) of this section; and
+&emsp;(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2); and
 
-&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
+&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d), to be divided equally between activities specified under subsection (d)(1) and those specified under subsections (d)(2) and (d)(3).
 
 > Any amount appropriated under this section shall remain available until expended.
 
@@ -112,7 +112,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(A) is organized as a private, tax-exempt, nonprofit, charitable organization;
 
-&emsp;(B) has at least 2 years experience in complaint intake, complaint investigation, testing for fair housing violations and enforcement of meritorious claims; and
+&emsp;(B) has at least 2 years experience in complaint intake, complaint investigation, testingfor fair housing violations and enforcement of meritorious claims; and
 
 &emsp;(C) is engaged in all the activities listed in paragraph (1)(B) at the time of application for assistance under this section.
 
@@ -126,7 +126,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(C) upon the receipt of funds under this section will become engaged in all of the activities specified in paragraph (1)(B); and
 
-&emsp;(D) for purposes of funding under subsection (b) of this section, has at least 1 year of experience in the activities specified in paragraph (1)(B).
+&emsp;(D) for purposes of funding under subsection (b), has at least 1 year of experience in the activities specified in paragraph (1)(B).
 
 #### (i) Prohibition on use of funds
 
@@ -164,7 +164,7 @@ Section was formerly set out as a note under section 3616 of this title.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (e)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The Secretary shall provide tothe Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section."
+<b>1995</b>—Subsec. (e)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The Secretary shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a quarterly report that summarizes the activities funded under this section and describes the geographical distribution of grants, contracts, or cooperative agreements funded under this section."
 
 <b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–550, §905(b)(1), (2), added subsecs. (b) to (d) and redesignated former subsecs. (b) and (c) as (e) and (f), respectively.
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) the sharing of data and information associated with Arctic research, subject to section 552 of title 5; and
 
-&emsp;(10) provide public notice of its meetings and an opportunity for the public to participate inthe development and implementation of national Arctic research policy.
+&emsp;(10) provide public notice of its meetings and an opportunity for the public to participate in the development and implementation of national Arctic research policy.
 
 (b) Not later than January 31, 1986, and biennially thereafter, the Interagency Committee shall submit to the Congress through the President, a brief, concise report containing—
 
@@ -44,7 +44,7 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–609 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a description of the activities of the Commission, detailing with particularity the recommendations of the Commission with respect to Federal activities in Arctic research."
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–609 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"a description of the activities of the Commission, detailing with particularity the recommendations of the Commission with respect to Federal activities in Arctic research."
 
 #### Termination of Reporting Requirements
 

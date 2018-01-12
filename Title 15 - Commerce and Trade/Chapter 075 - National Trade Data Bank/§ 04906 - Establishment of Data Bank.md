@@ -82,7 +82,7 @@ The export promotion data system shall include data and information collected by
 
 &emsp;&emsp;(D) other significant laws and regulations regarding imports, licensing, and the protection of intellectual property;
 
-&emsp;(4) export financing information, including the availability, through public sources offunds for United States exporters and foreign competitors;
+&emsp;(4) export financing information, including the availability, through public sources of funds for United States exporters and foreign competitors;
 
 &emsp;(5) transactions involving barter and countertrade; and
 

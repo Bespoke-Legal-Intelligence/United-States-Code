@@ -14,7 +14,7 @@
 
 (b) Under regulations prescribed under section 5738 of this title, an employee who transports a house trailer or mobile dwelling inside the continental United States, inside Alaska, or between the continental United States and Alaska, for use as a residence, and who otherwise would be entitled to transportation of household goods and personal effects under subsection (a) of this section, is entitled, instead of that transportation, to—
 
-&emsp;(1) a reasonable allowance for transportation of the house trailer or mobile dwelling, if the trailer or dwelling is transported by the employee; or
+&emsp;(1) a reasonable allowance for transportation of the house trailer or mobile dwelling, if thetrailer or dwelling is transported by the employee; or
 
 &emsp;(2) commercial transportation of the house trailer or mobile dwelling, at Government expense, or reimbursement to the employee therefor, including the payment of necessary tolls, charges, and permit fees, if the trailer or dwelling is not transported by the employee.
 
@@ -166,7 +166,7 @@ Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. C, title XXXV, §3550(c)(3), Nov. 18, 1997, 111 Stat. 2074, provided that: "The amendments made by this subsection \[amending this section and section 5724a of this title\] shall take effect on January 1, 1999."
+Pub. L. 105–85, div. C, title XXXV, §3550(c)(3), Nov. 18, 1997, 111 Stat. 2074, provided that: "The amendmentsmade by this subsection \[amending this section and section 5724a of this title\] shall take effect on January 1, 1999."
 
 #### Effective Date of 1996 Amendment
 
@@ -180,7 +180,7 @@ Pub. L. 103–338, §5(a), Oct. 6, 1994, 108 Stat. 3115, provided that: "This Ac
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–378 applicable with respect to a separation that takes effect on or after Oct.2, 1992, see section 9(b)(11) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by Pub. L. 102–378 applicable with respect to a separation that takes effect on or after Oct. 2, 1992, see section 9(b)(11) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1983 Amendment; Promulgation of Regulations
 

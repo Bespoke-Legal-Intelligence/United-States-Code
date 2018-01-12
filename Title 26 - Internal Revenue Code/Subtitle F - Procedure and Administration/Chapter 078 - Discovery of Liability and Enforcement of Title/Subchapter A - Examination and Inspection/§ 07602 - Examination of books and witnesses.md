@@ -18,7 +18,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (1) General notice
 
-&emsp;An officer or employee of the Internal Revenue Service may not contact any person otherthan the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
+&emsp;An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
 
 #### (2) Notice of specific contacts
 

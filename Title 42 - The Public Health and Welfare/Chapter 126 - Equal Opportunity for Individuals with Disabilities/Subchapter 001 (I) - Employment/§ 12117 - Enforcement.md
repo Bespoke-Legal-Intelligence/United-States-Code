@@ -16,3 +16,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
+#### Effective Date
+
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under section 12111 of this title.
+

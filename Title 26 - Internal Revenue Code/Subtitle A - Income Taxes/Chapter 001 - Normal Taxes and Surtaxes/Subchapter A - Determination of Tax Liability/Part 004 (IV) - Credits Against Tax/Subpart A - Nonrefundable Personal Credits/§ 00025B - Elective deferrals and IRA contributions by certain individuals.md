@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $500.
 
@@ -68,15 +68,17 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
 
-&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
+&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
 
-&emsp;&emsp;(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
+&emsp;&emsp;(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
+
+&emsp;&emsp;(D) the amount of contributions made before January 1, 2026, by such individual to the ABLE account (within the meaning ofsection 529A) of which such individual is the designated beneficiary.
 
 #### (2) Reduction for certain distributions
 
 #### (A) In general
 
-&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of anydistribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
+&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
 
 #### (B) Testing period
 
@@ -108,13 +110,17 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (d)(1)(D). Pub. L. 115–97, §11024(b), added subpar. (D).
 
 <b>2013</b>—Subsec. (g). Pub. L. 112–240 struck out subsec. (g). Text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
 
@@ -146,7 +152,7 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 
 &emsp;"(i) any distribution from a qualified retirement plan (as defined in section 4974(c)), or from an eligible deferred compensation plan (as defined in section 457(b)), received by the individual during the testing period which is includible in gross income, and
 
-&emsp;"(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testing period which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account."
+&emsp;"(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testingperiod which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account."
 
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
@@ -161,6 +167,12 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(C) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §11024(c), Dec. 22, 2017, 131 Stat. 2076, provided that: "The amendments made by this section \[amending this section and section 529A of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2017\]."
 
 #### Effective Date of 2009 Amendment
 

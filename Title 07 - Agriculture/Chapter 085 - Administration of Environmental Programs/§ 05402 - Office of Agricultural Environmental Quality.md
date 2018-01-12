@@ -20,7 +20,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 #### (3) Additional staff
 
-&emsp;Upon request of the Secretary, the head of any Federal agency is authorized to detail, on a reimbursable basis, employees of such agency to the Office to assist the Director.
+&emsp;Upon request of the Secretary, the head of any Federal agency is authorized to detail, ona reimbursable basis, employees of such agency to the Office to assist the Director.
 
 #### (d) Duties of Director
 

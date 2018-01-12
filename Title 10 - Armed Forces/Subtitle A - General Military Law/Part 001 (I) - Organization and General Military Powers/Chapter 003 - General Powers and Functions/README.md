@@ -33,12 +33,21 @@
 | [130g.](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md) | Authorities concerning military cyber operations. |
 | [130h.](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md) | Prohibitions relating to missile defense information and systems. |
 | [130i.](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
+| [130j.](%C2%A7%2000130j%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md) | Notification requirements for sensitive military cyber operations <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [130k.](%C2%A7%2000130k%20-%20Notification%20requirements%20for%20cyber%20weapons.md) | Notification requirements for cyber weapons <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title X, §1036(f)(2), title XI, §1101(b)(2), title XII, §§1203(a)(2), 1245(b), title XVI, §§1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e,128, 130f, 130h, and 130i, substituted "Civilian personnel management" for "Prohibition of certain civilian personnel management constraints" in item 129, and struck out former items 127d "Allied forces participating in combined operations: authority to provide logistic support, supplies, and services", 128 "Physical protection of special nuclear material: limitation on dissemination of unclassified information", 130f "Congressional notification of sensitive military operations", and 130h "Prohibitions on providing certain missile defense information to Russian Federation".
+<b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
+
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1036(f)(2), title XI, §1101(b)(2), title XII, §§1203(a)(2), 1245(b), title XVI, §§1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e, 128, 130f, 130h, and 130i, substituted "Civilian personnel management" for "Prohibition of certain civilian personnel management constraints" in item 129, and struck out former items 127d "Allied forces participating in combined operations: authority to provide logistic support, supplies, and services", 128 "Physical protection of special nuclear material: limitation on dissemination of unclassified information", 130f "Congressional notification of sensitive military operations", and 130h "Prohibitions on providing certain missile defense information to Russian Federation".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1042(d)(2), title XVI, §§1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted "Department of Defense rewards program" for "Assistance in combating terrorism: rewards" in item 127b.
 
@@ -94,6 +103,8 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 
 <b>1958</b>—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -130,3 +141,5 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00130g - Authorities concerning military cyber operations](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md)
 - [&sect; 00130h - Prohibitions relating to missile defense information and systems](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md)
 - [&sect; 00130i - Protection of certain facilities and assets from unmanned aircraft](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md)
+- [&sect; 00130j - Notification requirements for sensitive military cyber operations](%C2%A7%2000130j%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md)
+- [&sect; 00130k - Notification requirements for cyber weapons](%C2%A7%2000130k%20-%20Notification%20requirements%20for%20cyber%20weapons.md)

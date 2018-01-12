@@ -16,7 +16,7 @@ The Secretary shall evaluate approaches for the collection of data under this su
 
 &emsp;Not later than 18 months after March 23, 2010, the Secretary shall submit to Congress a report on the evaluation conducted under subsection (a). Such report shall, taking into consideration the results of such evaluation—
 
-&emsp;&emsp;(A) identify approaches (including defining methodologies) for identifying and collecting and evaluating data on health care disparities on the basis of race, ethnicity, sex, primary language, and disability status for the programs under this subchapter and subchapter XXI; and
+&emsp;&emsp;(A) identify approaches (including defining methodologies) for identifying and collecting and evaluating data on health care disparities on the basis of race, ethnicity, sex, primary language, and disability status forthe programs under this subchapter and subchapter XXI; and
 
 &emsp;&emsp;(B) include recommendations on the most effective strategies and approaches to reporting HEDIS quality measures as required under section 1395w–22(e)(3) of this title and other nationally recognized quality performance measures, as appropriate, on such bases.
 

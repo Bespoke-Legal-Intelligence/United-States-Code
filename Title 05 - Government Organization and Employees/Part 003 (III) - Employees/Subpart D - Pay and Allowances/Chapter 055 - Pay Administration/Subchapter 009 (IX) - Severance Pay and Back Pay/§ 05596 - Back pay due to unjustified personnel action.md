@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 101–474, §5(l)(2), substituted "employees, or to the age
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–465, §2306(1), inserted in subpar. (A)(ii) "or under chapter 11 of title I of the Foreign Service Act of 1980" after "chapter 71 of this title,".
 
-Subsec. (b)(3). Pub. L. 96–465, §2306(2), inserted "and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980" after "section 7103 of this title", and "and (with respect to members of the Foreign Service) in section1015 of the Foreign Service Act of 1980" after "section 7116 of this title".
+Subsec. (b)(3). Pub. L. 96–465, §2306(2), inserted "and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980" after "section 7103 of this title", and "and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980" after "section 7116 of this title".
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–54 substituted "Office of Personnel Management" for "Civil Service Commission".
 
@@ -124,7 +124,7 @@ Pub. L. 100–202, §101(m) \[title VI, §623(b)\], Dec. 22, 1987, 101 Stat. 132
 
 "(1)
 
-Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
+Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amendingthis section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
 
 "(2)
 

@@ -14,7 +14,7 @@
 
 (D) The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
 
-(4) If the Secretary publishes a final regulation that includes a provision that is not a logical outgrowth of a previously published notice of proposed rulemaking or interim final rule, such provision shall be treated as a proposed regulation and shall not take effect until thereis the further opportunity for public comment and a publication of the provision again as a final regulation.
+(4) If the Secretary publishes a final regulation that includes a provision that is not a logical outgrowth of a previously published notice of proposed rulemaking or interim final rule, such provision shall be treated as a proposed regulation and shall not take effect until there is the further opportunity for public comment and a publication of the provision again as a final regulation.
 
 #### (b) Notice of proposed regulations; public comment
 
@@ -56,7 +56,7 @@
 
 (2)(A) If—
 
-&emsp;(i) a provider of services or supplier follows the written guidance (which may be transmitted electronically) provided by the Secretary or by a medicare contractor (as defined in section 1395zz(g) of this title) acting within the scope of the contractor's contract authority, with respect to the furnishing of items or services and submission of a claim for benefits for such items or services with respect to such provider or supplier;
+&emsp;(i) a provider of services or supplier follows the written guidance (which may be transmitted electronically) provided by the Secretaryor by a medicare contractor (as defined in section 1395zz(g) of this title) acting within the scope of the contractor's contract authority, with respect to the furnishing of items or services and submission of a claim for benefits for such items or services with respect to such provider or supplier;
 
 &emsp;(ii) the Secretary determines that the provider of services or supplier has accurately presented the circumstances relating to such items, services, and claim to the contractor in writing; and
 

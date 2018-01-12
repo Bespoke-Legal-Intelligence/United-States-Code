@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(3) to develop and disseminate public information and education programs for the detection and control of breast and cervical cancer;
 
-&emsp;(4) to improve the education, training, and skills of health professionals (including alliedhealth professionals) in the detection and control of breast and cervical cancer;
+&emsp;(4) to improve the education, training, and skills of health professionals (including allied health professionals) in the detection and control of breast and cervical cancer;
 
 &emsp;(5) to establish mechanisms through which the States can monitor the quality of screening procedures for breast and cervical cancer, including the interpretation of such procedures; and
 

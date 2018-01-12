@@ -38,7 +38,7 @@ Not later than 180 days after August 3, 2007, the President shall transmit to th
 
 The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
 
-(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X,§1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title X, §1076(b), Nov. 25, 2015, 129 Stat. 998.)
+(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X, §1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title X, §1076(b), Nov. 25, 2015, 129 Stat. 998.)
 
 #### Amendments
 

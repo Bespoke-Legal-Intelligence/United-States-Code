@@ -10,7 +10,7 @@
 
 #### (A) Determinations
 
-&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a countrythat is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
+&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a country that is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
 
 &emsp;&emsp;&emsp;(i) such child has not been a victim of a severe form of trafficking in persons, and there is no credible evidence that such child is at risk of being trafficked upon return to the child's country of nationality or of last habitual residence;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) any information gathered in assessments of country and local conditions pursuant to paragraph (2); and
 
-&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children asprovided for in section 279(b)(1)(J) of title 6.
+&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children as provided for in section 279(b)(1)(J) of title 6.
 
 #### (D) Placement in removal proceedings
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
+&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victimsand other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
 
 #### (B) Appointment of child advocates
 
@@ -180,7 +180,7 @@
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary ofHealth and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 
@@ -252,7 +252,7 @@
 
 #### (6) Transition rule
 
-&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C.1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
+&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
 
 #### (7) Omitted
 
@@ -288,7 +288,7 @@ The Secretary of Health and Human Services may award grants to, and enter into c
 
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original "the date of the enactment of the Violence Against Women Reauthorization Act of 2013".
+March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec.\(c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original "the date of the enactment of the Violence Against Women Reauthorization Act of 2013".
 
 #### Codification
 

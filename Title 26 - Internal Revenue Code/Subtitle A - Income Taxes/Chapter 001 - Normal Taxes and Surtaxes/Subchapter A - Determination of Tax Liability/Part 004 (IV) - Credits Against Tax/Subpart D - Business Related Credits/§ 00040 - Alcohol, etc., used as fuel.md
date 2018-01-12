@@ -58,7 +58,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (3) Smaller credit for lower proof alcohol
 
-&emsp;In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs (1)(A) and (2)(A) shall be applied by substituting "45 cents" for "60 cents".
+&emsp;In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs\(1)(A) and (2)(A) shall be applied by substituting "45 cents" for "60 cents".
 
 #### (4) Small ethanol producer credit
 
@@ -100,7 +100,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (B) Applicable amount
 
-&emsp;&emsp;For purposes of subparagraph (A), the applicable amount means $1.01, except thatsuch amount shall, in the case of second generation biofuel which is alcohol, be reduced by the sum of—
+&emsp;&emsp;For purposes of subparagraph (A), the applicable amount means $1.01, except that such amount shall, in the case of second generation biofuel which is alcohol, be reduced by the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified second generation biofuel production, plus
 
@@ -194,7 +194,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (c) Coordination with exemption from excise tax
 
-The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary,be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section 4041(b)(2), section 6426, or section 6427(e).
+The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section 4041(b)(2), section 6426, or section 6427(e).
 
 #### (d) Definitions and special rules
 
@@ -415,7 +415,7 @@ For purposes of this section—
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -529,7 +529,7 @@ Subsec. (h). Pub. L. 105–178, §9003(b)(1), reenacted heading without change a
 
 &emsp;"(3) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting '54 cents' for '60 cents' and '40 cents' for '45 cents'."
 
-<b>1996</b>—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect."
+<b>1996</b>—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect."
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted ", plus" for period at end.
 
@@ -621,7 +621,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title XV, §15321(g), May 22, 2008, 122 Stat. 1514, and Pub. L. 110–246, §4(a), title XV, §15321(g), June 18, 2008, 122 Stat. 1664, 2276, provided that: "The amendments made by this section \[amending this section and sections 40A and 4101 of this title\] shall apply to fuel produced after December 31, 2008."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 Pub. L. 110–234, title XV, §15331(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15331(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: "The amendments made by this section \[amending this section and section 6426 of this title\] shall take effect on the date of the enactment of this Act \[June 18, 2008\]."
 

@@ -38,7 +38,7 @@ Policies and methods.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator of General Services shall prescribe policies and methods for executive agencies regardingthe procurement and supply of personal property and nonpersonal services and related functions.
+In general.—The Administrator of General Services shall prescribe policies and methods for executive agencies regarding the procurement and supply of personal property and nonpersonal services and related functions.
 
 &emsp;&emsp;(B)
 

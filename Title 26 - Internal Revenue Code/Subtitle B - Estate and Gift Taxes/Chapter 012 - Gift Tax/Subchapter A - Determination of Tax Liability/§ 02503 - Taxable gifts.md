@@ -8,7 +8,7 @@ The term "taxable gifts" means the total amount of gifts made during the calenda
 
 #### (1) In general
 
-&emsp;In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included in the total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
+&emsp;In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included inthe total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
 
 #### (2) Inflation adjustment
 
@@ -16,7 +16,7 @@ The term "taxable gifts" means the total amount of gifts made during the calenda
 
 &emsp;&emsp;(A) $10,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
@@ -74,13 +74,15 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 &emsp;&emsp;The term "private foundation" has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, §102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, §702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, §311(h)(5), title IV, §§441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, §1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, §1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, §7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, §501(c), Aug. 5, 1997, 111 Stat. 846.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, §102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, §702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, §311(h)(5), title IV, §§441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, §1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, §1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, §7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, §501(c), Aug. 5, 1997, 111 Stat. 846; Pub. L. 115–97, title I, §11002(d)(1)(EE), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–34 designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
 
@@ -92,7 +94,7 @@ Subsec. (f). Pub. L. 100–647, §1018(s)(2)(A), added subsec. (f) relating to t
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–514 added subsec. (f).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted "the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)" for ", in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following" and struck out provision that in the case of gifts made before Jan. 1, 1971, "taxable gifts" means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted "the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)" for ", in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following" and struck out provision that in the case of gifts made before Jan. 1, 1971, "taxable gifts" meansthe total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
 
 Subsec. (b). Pub. L. 97–34, §442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
 
@@ -107,6 +109,10 @@ Subsec. (e). Pub. L. 97–34, §441(b), added subsec. (e).
 <b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of "taxable gifts" into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
 Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -158,7 +164,7 @@ Pub. L. 95–600, title VII, §702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provid
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

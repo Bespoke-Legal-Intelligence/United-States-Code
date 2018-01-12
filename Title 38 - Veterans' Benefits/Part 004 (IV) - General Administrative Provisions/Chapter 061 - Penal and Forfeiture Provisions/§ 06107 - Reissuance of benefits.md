@@ -36,5 +36,5 @@ Recoupment of Amounts Reissued.—In any case in which the Secretary reissues a 
 
 #### Effective Date
 
-Section applicable with respect to any determinations by the Secretary of Veterans Affairs made afterDec. 10, 2004, of misuse of funds by a fiduciary, see section 507(b)(2) of Pub. L. 108–454, set out as an Effective Date of 2004 Amendment note under section 5312 of this title.
+Section applicable with respect to any determinations by the Secretary of Veterans Affairs made after Dec. 10, 2004, of misuse of funds by a fiduciary, see section 507(b)(2) of Pub. L. 108–454, set out as an Effective Date of 2004 Amendment note under section 5312 of this title.
 

@@ -4,7 +4,7 @@ Notwithstanding section 1349 of title 28 or any other provision of law:
 
 &emsp;(1) The Corporation shall be considered an agency under sections 1345 and 1442 of such title.
 
-&emsp;(2) All civil actions to which the Corporation is a party shall be deemed to arise under thelaws of the United States and, to the extent applicable, shall be deemed to be governed by Federal common law. The district courts of the United States shall have original jurisdiction of all such actions, without regard to amount of value.
+&emsp;(2) All civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States and, to the extent applicable, shall be deemed to be governed by Federal common law. The district courts of the United States shall have original jurisdiction of all such actions, without regard to amount of value.
 
 &emsp;(3) Any civil or other action, case, or controversy in a court of a State or any court, other than a district court of the United States, to which the Corporation is a party may at any time before trial be removed by the Corporation, without the giving of any bond or security—
 

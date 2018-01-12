@@ -110,7 +110,7 @@
 
 #### (D) Termination
 
-&emsp;&emsp;The State educational agency shall annually review the performance of any localeducational agency, educational service agency, or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate or temporarily suspend any waiver granted to the local educational agency, educational service agency, or school if the State educational agency determines, after notice and an opportunity for a hearing, that—
+&emsp;&emsp;The State educational agency shall annually review the performance of any local educational agency, educational service agency, or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate or temporarily suspend any waiver granted to the local educational agency, educational service agency, or school if the State educational agency determines, after notice and an opportunity for a hearing, that—
 
 &emsp;&emsp;&emsp;(i) there is compelling evidence of systematic waste, fraud, or abuse;
 
@@ -130,7 +130,7 @@
 
 #### (i) Annual reports
 
-&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report on the results of such oversight and the impact of the waivers on school and student performance.
+&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report onthe results of such oversight and the impact of the waivers on school and student performance.
 
 #### (ii) Performance data
 
@@ -358,5 +358,5 @@ Determination.—The determination referred to in paragraph (1) is a determinati
 
 #### Additional State Educational Agencies Authorized To Waive Federal Requirements
 
-Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years".
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years".
 

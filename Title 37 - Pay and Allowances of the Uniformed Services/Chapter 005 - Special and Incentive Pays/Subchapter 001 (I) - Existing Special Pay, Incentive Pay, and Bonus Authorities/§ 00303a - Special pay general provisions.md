@@ -12,7 +12,7 @@
 
 &emsp;(C) Section 752 of the Public Health Service Act, as that section was in effect between October 1, 1977, and August 13, 1981.
 
-(c) Special pay authorized under sections 301d, 302 through 302j, and 303 of this title is in addition to any other pay or allowance to which an officer is entitled. The amount of special pay to which an officer is entitled under any of such sections may not be included in computing theamount of any increase in pay authorized by any other provision of this title or in computing retired pay, separation pay, severance pay, or readjustment pay.
+(c) Special pay authorized under sections 301d, 302 through 302j, and 303 of this title is in addition to any other pay or allowance to which an officer is entitled. The amount of special pay to which an officer is entitled under any of such sections may not be included in computing the amount of any increase in pay authorized by any other provision of this title or in computing retired pay, separation pay, severance pay, or readjustment pay.
 
 (d) The Secretary of Defense shall conduct a review every two years of the special pay for health professionals authorized by sections 301d, 302 through 302j, and 303 of this title.
 
@@ -26,7 +26,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;(i) shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
 
-&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaidamounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
 (B) In this paragraph, the term "sole survivorship discharge" means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
@@ -60,7 +60,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (5) In this subsection:
 
-&emsp;(A) The term "bonus or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers tothe repayment requirements of this subsection.
+&emsp;(A) The term "bonus or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this subsection.
 
 &emsp;(B) The term "service", as used in paragraph (4)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
 
@@ -78,7 +78,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 Section 225(e) of the Public Health Service Act, as that section was in effect before October 1, 1977, referred to in subsec. (b)(2)(B), is section 225(e) of act July 1, 1944, ch. 373, which was classified to section 234(e) of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
 
-Section 752 of the Public Health Service Act, as that section was in effect between October 1, 1977, and August 13, 1981, referred to in subsec. (b)(2)(C), is section 752 of act July 1, 1944, ch. 373, title VII, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582, which was classified to section 294u of Title 42, The Public Health and Welfare. Section 752 was renumbered section 338B of act July 1, 1944, and amended, by Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909. It was subsequently renumbered section 338C of act July 1, 1944, and further amended, and is now classified to section 254m of Title 42.
+Section 752 of the Public Health Service Act, as that section was in effect between October 1, 1977, and August 13, 1981, referred to in subsec. (b)(2)(C), is section 752 of act July 1, 1944, ch. 373, title VII, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582, which was classified to section 294u of Title 42, The Public Health and Welfare. Section 752 was renumbered section 338B of act July 1, 1944, and amended, by Pub. L. 97–35, title XXVII, §2709(a), (c),Aug. 13, 1981, 95 Stat. 908, 909. It was subsequently renumbered section 338C of act July 1, 1944, and further amended, and is now classified to section 254m of Title 42.
 
 #### Amendments
 

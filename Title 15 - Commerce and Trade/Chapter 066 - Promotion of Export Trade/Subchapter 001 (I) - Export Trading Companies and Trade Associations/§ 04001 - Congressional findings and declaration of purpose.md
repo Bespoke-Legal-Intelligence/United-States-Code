@@ -18,7 +18,7 @@
 
 &emsp;(8) the development of export trading companies in the United States has been hampered by business attitudes and by Government regulations;
 
-&emsp;(9) those activities of State and local governmental authorities which initiate, facilitate, or expand exports of goods and services can be an important source for expansion of total United States exports, as well as for experimentation in the development of innovative export programs keyed to local, State, and regional economic needs;
+&emsp;(9) those activities of State and local governmental authorities which initiate, facilitate,or expand exports of goods and services can be an important source for expansion of total United States exports, as well as for experimentation in the development of innovative export programs keyed to local, State, and regional economic needs;
 
 &emsp;(10) if United States trading companies are to be successful in promoting United States exports and in competing with foreign trading companies, they should be able to draw on the resources, expertise, and knowledge of the United States banking system, both in the United States and abroad; and
 

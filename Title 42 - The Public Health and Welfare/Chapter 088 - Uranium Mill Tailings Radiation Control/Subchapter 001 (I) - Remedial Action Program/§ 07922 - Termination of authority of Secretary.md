@@ -12,7 +12,7 @@
 
 #### (b) Authorization of appropriations
 
-The amounts authorized to be appropriated to carry out the purposes of this subchapter by the Secretary, the Administrator, the Commission, and the Secretary of the Interior shall not exceed such amounts as are established in annual authorization Acts for fiscal year 1979 and each fiscal year thereafter applicable to the Department of Energy. Any sums appropriated for the purposes of this subchapter shall be available until expended.
+The amounts authorized to be appropriated to carry out the purposes of this subchapter by the Secretary, the Administrator, the Commission, and the Secretary of the Interior shall not exceed such amounts as are established in annual authorization Acts for fiscal year 1979 and each fiscal year thereafter applicable to the Department of Energy. Any sums appropriated for thepurposes of this subchapter shall be available until expended.
 
 (Pub. L. 95–604, title I, §112, Nov. 8, 1978, 92 Stat. 3031; Pub. L. 100–616, §3, Nov. 5, 1988, 102 Stat. 3193; Pub. L. 102–486, title X, §1031, Oct. 24, 1992, 106 Stat. 2951; Pub. L. 104–259, §2, Oct. 9, 1996, 110 Stat. 3173.)
 

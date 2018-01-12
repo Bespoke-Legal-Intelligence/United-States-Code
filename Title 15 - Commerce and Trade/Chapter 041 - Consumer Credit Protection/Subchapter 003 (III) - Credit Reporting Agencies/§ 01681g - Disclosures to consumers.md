@@ -80,7 +80,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 &emsp;&emsp;(A) the summary of rights prepared by the Bureau under paragraph (1);
 
-&emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
+&emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel areaccessible to consumers during normal business hours;
 
 &emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
 
@@ -238,7 +238,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (B) Key factors
 
-&emsp;&emsp;The term "key factors" means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
+&emsp;&emsp;The term "key factors" means all relevant elements or reasons adversely affecting the credit score for the particular individual,listed in the order of their importance based on their effect on the credit score.
 
 #### (3) Timeframe and manner of disclosure
 

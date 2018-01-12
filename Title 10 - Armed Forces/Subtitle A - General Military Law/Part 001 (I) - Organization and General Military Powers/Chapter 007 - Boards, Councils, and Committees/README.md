@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [171\.](%C2%A7%2000171%20-%20Armed%20Forces%20Policy%20Council.md) | Armed Forces Policy Council. |
 | [171a.](%C2%A7%2000171a%20-%20Council%20on%20Oversight%20of%20the%20National%20Leadership%20Command%2C%20Control%2C%20and%20Communications%20System.md) | Council on Oversight of the National Leadership Command, Control, and Communications System. |
-| [172\.](%C2%A7%2000172%20-%20Ammunition%20storage%20board.md) | Ammunition storage board. |
+| [172\.](%C2%A7%2000172%20-%20Explosive%20safety%20board.md) | Explosive safety board. |
 | [173\.](%C2%A7%2000173%20-%20Advisory%20personnel.md) | Advisory personnel. |
 | [174\.](%C2%A7%2000174%20-%20Advisory%20personnel%20research%20and%20development.md) | Advisory personnel: research and development. |
 | [175\.](%C2%A7%2000175%20-%20Reserve%20Forces%20Policy%20Board.md) | Reserve Forces Policy Board. |
@@ -16,6 +16,12 @@
 | [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
 | [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
 | [183\.](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md) | Department of Defense Board of Actuaries. |
+| [183a.](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md) | Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | \[184 to 186. Renumbered or Repealed.\] |  |
 | [187\.](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md) | Strategic Materials Protection Board. |
 | [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
@@ -25,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title III, §§311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted "Explosive safety board" for "Ammunition storage board" in item 172 and added item 183a.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VIII, §820(b)(2), title IX, §904(b), title XII, §1241(o)(3), Dec. 23, 2016, 130 Stat. 2276, 2345, 2512, struck out items 184 "Regional Centers for Security Studies" and 185 "Financial Management Modernization Executive Committee" and, effective Oct. 1, 2018, added item 190.
 
@@ -62,6 +70,8 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 <b>1976</b>—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -69,7 +79,7 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 - [&sect; 00171 - Armed Forces Policy Council](%C2%A7%2000171%20-%20Armed%20Forces%20Policy%20Council.md)
 - [&sect; 00171a - Council on Oversight of the National Leadership Command, Control, and Communications System](%C2%A7%2000171a%20-%20Council%20on%20Oversight%20of%20the%20National%20Leadership%20Command%2C%20Control%2C%20and%20Communications%20System.md)
-- [&sect; 00172 - Ammunition storage board](%C2%A7%2000172%20-%20Ammunition%20storage%20board.md)
+- [&sect; 00172 - Explosive safety board](%C2%A7%2000172%20-%20Explosive%20safety%20board.md)
 - [&sect; 00173 - Advisory personnel](%C2%A7%2000173%20-%20Advisory%20personnel.md)
 - [&sect; 00174 - Advisory personnel research and development](%C2%A7%2000174%20-%20Advisory%20personnel%20research%20and%20development.md)
 - [&sect; 00175 - Reserve Forces Policy Board](%C2%A7%2000175%20-%20Reserve%20Forces%20Policy%20Board.md)
@@ -81,6 +91,7 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00181 - Joint Requirements Oversight Council](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md)
 - [&sect; 00182 - Center for Excellence in Disaster Management and Humanitarian Assistance](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md)
 - [&sect; 00183 - Department of Defense Board of Actuaries](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md)
+- [&sect; 00183a - Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md)
 - [&sect; 00184 - Renumbered &sect;342](%C2%A7%2000184%20-%20Renumbered%20%C2%A7342.md)
 - [&sect; 00185 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;904(a), Dec. 23, 2016, 130 Stat. 2345](%C2%A7%2000185%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7904%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202345.md)
 - [&sect; 00186 - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(c), Dec. 19, 2014, 128 Stat. 3463](%C2%A7%2000186%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28c%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203463.md)

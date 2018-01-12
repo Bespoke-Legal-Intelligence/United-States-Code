@@ -56,7 +56,7 @@ State standard transportation practices.—
 
 &emsp;&emsp;(A)
 
-Continuation.—Paragraph (1) shall not affect any authority of a State, political subdivision of a State, or political authority of 2 or more States to enact or enforce a law, regulation, or other provision, with respect to the intrastate transportation of property by motor carriers, related to—
+Continuation.—Paragraph (1) shall not affect any authority of a State, political subdivision of a State, or political authority of 2 or more States to enact or enforce a law,regulation, or other provision, with respect to the intrastate transportation of property by motor carriers, related to—
 
 &emsp;&emsp;&emsp;(i) uniform cargo liability rules,
 
@@ -134,7 +134,7 @@ Provisions similar to those in this section were contained in section 11501 of t
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(2)(C). Pub. L. 114–94 substituted "the regulation of tow truck operations" for "the price of for-hire motor vehicle transportation by a tow truck, if such transportation is".
+<b>2015</b>—Subsec. (c)(2)(C). Pub. L. 114–94 substituted "the regulation of tow truck operations" for "the price offor-hire motor vehicle transportation by a tow truck, if such transportation is".
 
 <b>2005</b>—Subsec. (c)(2)(B). Pub. L. 109–59, §4206(a), inserted "intrastate" before "transportation".
 

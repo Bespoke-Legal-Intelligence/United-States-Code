@@ -2,7 +2,7 @@
 
 (a)
 
-Decisions Made Before October 1, 1988.—For each eligible place for which a decision was made before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishing the level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
+Decisions Made Before October 1, 1988.—For each eligible place for which a decision was made before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishingthe level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
 
 (b)
 
@@ -122,7 +122,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(1), (3), (4), (9); added
 
 In subsection (a), the words "the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place" are substituted for "Such determination shall be made" because the determinations for those places have been made. The words "by not later than December 29, 1988" are substituted for "no later than the last day of the 1-year period beginning on December 30, 1987" for clarity. The words "and only after consideration of the views of any interested community and the State agency of the State in which such community is located" and 49 App.:1389(b)(1)(C) are omitted as executed.
 
-In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency"for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
+In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
 
 In section (b)(2), the words "that appears to deprive" are substituted for "which reasonably appears to deprive" to eliminate an unnecessary word.
 

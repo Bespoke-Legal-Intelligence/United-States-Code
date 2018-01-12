@@ -20,3 +20,7 @@ A prior section 3191, Pub. L. 89–136, title V, §512, as added Pub. L. 91–12
 
 A prior section 501 of Pub. L. 89–136 was classified to section 3181 of this title prior to repeal by Pub. L. 97–35, §1821(a)(8).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

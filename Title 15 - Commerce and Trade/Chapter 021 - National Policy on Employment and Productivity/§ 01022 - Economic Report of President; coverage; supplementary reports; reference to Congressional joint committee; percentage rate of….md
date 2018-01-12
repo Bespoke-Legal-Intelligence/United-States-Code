@@ -42,7 +42,7 @@ In subsec. (a), "section 1023(c) of this title" was in the original "section 11(
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, which directed the substitution of "annually transmit to the Congress notlater than 10 days after the submission of the budget under section 1105(a) of title 31" for "transmit to the Congress during the first twenty days of each regular session" in section "103(a) of the Full Employment and Balanced Growth Act of 1978 (15 U.S.C. 1022(a)", was executed to this section, section 3 of the Employment Act of 1946, as amended by that Act, to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, which directed the substitution of "annually transmit to the Congress not later than 10 days after the submission of the budget under section 1105(a) of title 31" for "transmit to the Congress during the first twenty days of each regular session" in section "103(a) of the Full Employment and Balanced Growth Act of 1978 (15 U.S.C. 1022(a)", was executed to this section, section 3 of the Employment Act of 1946, as amended by that Act, to reflect the probable intent of Congress.
 
 <b>1979</b>—Subsec. (a)(2)(A). Pub. L. 96–10 inserted reference to Federal outlays as a proportion of gross national product.
 

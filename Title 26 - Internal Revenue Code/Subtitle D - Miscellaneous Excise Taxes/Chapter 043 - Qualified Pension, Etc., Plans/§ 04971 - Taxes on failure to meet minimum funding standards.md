@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (3) Taxable period
 
-&emsp;The term "taxable period" means, with respect to an accumulated funding deficiency,CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable <sup>1</sup> and ending on the earlier of—
+&emsp;The term "taxable period" means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable <sup>1</sup> and ending on the earlier of—
 
 &emsp;&emsp;(A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
 
@@ -94,7 +94,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (2) Additional tax
 
-&emsp;If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
+&emsp;If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amounton which tax was imposed by paragraph (1) for such first quarter.
 
 #### (3) Definitions and special rule
 
@@ -124,7 +124,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and
 
-&emsp;&emsp;(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years endingwith or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
+&emsp;&emsp;(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
 
 #### (2) Failure to comply with funding improvement or rehabilitation plan
 
@@ -180,7 +180,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (5) Waiver
 
-&emsp;In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the paymentof tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (6) Terms used in section 432
 
@@ -346,7 +346,7 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
@@ -378,7 +378,7 @@ Plan Described.—A plan described under this subsection is a multiemployer pens
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

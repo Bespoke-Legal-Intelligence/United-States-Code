@@ -52,7 +52,7 @@
 
 #### (c) Toll-free hotline
 
-The Commission shall establish a toll-free telephone number that shall be made available to members of the public seeking information about issues pertaining to financial literacy and education.
+The Commission shall establish a toll-free telephone number that shall be made availableto members of the public seeking information about issues pertaining to financial literacy and education.
 
 #### (d) Development and dissemination of materials
 
@@ -143,6 +143,10 @@ The Commission shall actively consult with a variety of representatives from pri
 The Commission shall annually provide testimony by the Chairperson to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 (Pub. L. 108–159, title V, §514, Dec. 4, 2003, 117 Stat. 2004.)
+
+#### Effective Date
+
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
 #### Definitions
 

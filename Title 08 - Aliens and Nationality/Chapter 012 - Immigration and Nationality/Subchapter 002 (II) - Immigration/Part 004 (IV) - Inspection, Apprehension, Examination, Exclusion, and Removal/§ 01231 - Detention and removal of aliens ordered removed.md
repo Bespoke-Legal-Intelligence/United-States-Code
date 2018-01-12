@@ -46,7 +46,7 @@
 
 #### (B) Exception for removal of nonviolent offenders prior to completion of sentence of imprisonment
 
-&emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
+&emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicableprocedures under this chapter before the alien has completed a sentence of imprisonment—
 
 &emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
@@ -70,7 +70,7 @@
 
 #### (7) Employment authorization
 
-&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in theUnited States unless the Attorney General makes a specific finding that—
+&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
 
 &emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
 
@@ -116,7 +116,7 @@
 
 #### (B) Limitation on designation
 
-&emsp;&emsp;An alien may designate under subparagraph (A)(i) a foreign territory contiguous to the United States, an adjacent island, or an island adjacent to a foreign territory contiguous to the United States as the place to which the alien is to be removed only if the alien is a native, citizen, subject, or national of, or has resided in, that designated territory or island.
+&emsp;&emsp;An alien may designate under subparagraph (A)(i) a foreign territory contiguous tothe United States, an adjacent island, or an island adjacent to a foreign territory contiguous to the United States as the place to which the alien is to be removed only if the alien is a native, citizen, subject, or national of, or has resided in, that designated territory or island.
 
 #### (C) Disregarding designation
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner ofthe vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation "Immigration and Naturalization Service—Salaries and Expenses"; and
 
@@ -416,7 +416,7 @@ A prior section 241 of act June 27, 1952, was renumbered section 237, and is cla
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted "appropriated to carry out this subsection—" for "appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004." and added subpars. (A) to (C).
+<b>2006</b>—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted "appropriated to carry out this subsection—"for "appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004." and added subpars. (A) to (C).
 
 Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail."
 

@@ -34,7 +34,7 @@ Nothing in any other provision of law shall require any person, required to be b
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section including exempting a plan from the requirements of this section where he finds that (1) other bonding arrangements or (2) the overall financial condition of the plan would be adequate to protect the interests of the beneficiaries and participants. When, in the opinion of the Secretary, the administrator of a plan offers adequate evidence of the financial responsibility of the plan, or that other bonding arrangements would provide adequate protection of the beneficiaries and participants, he may exempt such plan from the requirements of this section.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section including exempting a plan from the requirements of this section where he findsthat (1) other bonding arrangements or (2) the overall financial condition of the plan would be adequate to protect the interests of the beneficiaries and participants. When, in the opinion of the Secretary, the administrator of a plan offers adequate evidence of the financial responsibility of the plan, or that other bonding arrangements would provide adequate protection of the beneficiaries and participants, he may exempt such plan from the requirements of this section.
 
 (Pub. L. 93–406, title I, §412, Sept. 2, 1974, 88 Stat. 888; Pub. L. 109–280, title VI, §§611(b), 622(a), Aug. 17, 2006, 120 Stat. 968, 979.)
 

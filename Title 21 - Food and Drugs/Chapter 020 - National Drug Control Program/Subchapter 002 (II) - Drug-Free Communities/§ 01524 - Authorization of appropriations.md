@@ -38,7 +38,7 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 #### (1) Limitation
 
-&emsp;Not more than 3 percent of the funds appropriated for this subchapter may be used by the Office of National Drug Control Policy to pay for administrative costs associated with their responsibilities under the subchapter.
+&emsp;Not more than 3 percent of the funds appropriated for this subchapter may be used by theOffice of National Drug Control Policy to pay for administrative costs associated with their responsibilities under the subchapter.
 
 #### (2) Designated agency
 

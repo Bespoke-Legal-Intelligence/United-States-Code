@@ -16,7 +16,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Application required where new operations are added
 
-&emsp;No operation in addition to those set forth in the application made pursuant to paragraph\(1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
+&emsp;No operation in addition to those set forth in the application made pursuant to paragraph (1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
 
 #### (3) Secretary may establish minimum capacity and level of activity requirements
 
@@ -34,7 +34,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Exceptions for agencies of a State or political subdivisions
 
-&emsp;Paragraph (1) shall not apply to any agency of a State or political subdivision thereof or to any officer or employee of any such agency, and no such agency, officer, or employee shall be required to obtain a permit thereunder.
+&emsp;Paragraph (1) shall not apply to any agency of a State or political subdivision thereof or to any officer or employee of any such agency,and no such agency, officer, or employee shall be required to obtain a permit thereunder.
 
 #### (e) Cross references
 
@@ -104,7 +104,7 @@ In general.—For purposes of section 5171 of the Internal Revenue Code of 1986 
 
 &emsp;"(2)
 
-Current registration to remain in effect.—Notwithstanding paragraph (1), the registration ofany person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
+Current registration to remain in effect.—Notwithstanding paragraph (1), the registration of any person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
 
 "(b)
 

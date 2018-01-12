@@ -36,7 +36,7 @@ Civilian Faculty.—(1) The Secretary of the Air Force may employ as many civili
 
 (e)
 
-Reimbursement and Tuition.—(1) The Department of the Army, the Department of the Navy, and the Department of Homeland Security shall bear the cost of the instruction at theAir Force Institute of Technology that is received by members of the armed forces detailed for that instruction by the Secretaries of the Army, Navy, and Homeland Security, respectively.
+Reimbursement and Tuition.—(1) The Department of the Army, the Department of the Navy, and the Department of Homeland Security shall bear the cost of the instruction at the Air Force Institute of Technology that is received by members of the armed forces detailed for that instruction by the Secretaries of the Army, Navy, and Homeland Security, respectively.
 
 (2) Members of the Army, Navy, Marine Corps, and Coast Guard may only be detailed for instruction at the Institute on a space-available basis.
 

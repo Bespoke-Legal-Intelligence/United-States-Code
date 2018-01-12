@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) information that an assisted person provides during their case may be audited pursuant to this title, and that failure to provide such information may result in dismissal of the case under this title or other sanction, including a criminal sanction.
 
-(b) A debt relief agency providing bankruptcy assistance to an assisted person shall provide each assisted person at the same time as the notices required under subsection (a)(1) the following statement, to the extent applicable, or one substantially similar. The statement shall be clear and conspicuous and shall be in a singledocument separate from other documents or notices provided to the assisted person:
+(b) A debt relief agency providing bankruptcy assistance to an assisted person shall provide each assisted person at the same time as the notices required under subsection (a)(1) the following statement, to the extent applicable, or one substantially similar. The statement shall be clear and conspicuous and shall be in a single document separate from other documents or notices provided to the assisted person:
 
 "IMPORTANT INFORMATION ABOUT BANKRUPTCY ASSISTANCE SERVICES FROM AN ATTORNEY OR BANKRUPTCY PETITION PREPARER.
 

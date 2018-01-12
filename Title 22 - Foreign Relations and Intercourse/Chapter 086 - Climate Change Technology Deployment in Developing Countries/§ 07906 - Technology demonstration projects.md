@@ -56,3 +56,7 @@ The Secretary of State, in coordination with the Secretary of Energy and the Adm
 
 (Pub. L. 101–240, title VII, §736, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1116.)
 
+#### Effective Date
+
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
+

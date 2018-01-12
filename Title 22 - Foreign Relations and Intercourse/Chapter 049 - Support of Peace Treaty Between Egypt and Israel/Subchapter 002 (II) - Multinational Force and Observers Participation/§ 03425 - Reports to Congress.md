@@ -40,7 +40,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 Ex. Ord. No. 12361, Apr. 27, 1982, 47 F.R. 18313, provided:
 
-By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 ofTitle 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Multinational Force and Observers Participation Resolution (Public Law 97–132, 95 Stat. 1693) \[this subchapter\] and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Delegation of Functions</i>. The reporting function conferred upon the President by Section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425) is delegated to the Secretary of State.
 

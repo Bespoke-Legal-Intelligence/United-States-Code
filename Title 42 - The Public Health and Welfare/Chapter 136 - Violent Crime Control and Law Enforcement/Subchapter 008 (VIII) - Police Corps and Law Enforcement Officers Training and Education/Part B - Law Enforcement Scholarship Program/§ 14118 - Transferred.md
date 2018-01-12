@@ -1,0 +1,6 @@
+### §14118. Transferred
+
+#### Codification
+
+Section 14118 was editorially reclassified as section 12578 of Title 34, Crime Control and Law Enforcement.
+

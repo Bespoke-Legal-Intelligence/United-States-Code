@@ -100,7 +100,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(C) provide to the individual written notice of the determination under this paragraph, the right to a fair hearing process, and the time limitation for requesting a hearing under subparagraph (C).
 
-&emsp;(6) The applicable Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household ofthe individual, for a period of not less than 24 months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
+&emsp;(6) The applicable Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household of the individual, for a period of not less than 24 months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
 
 > For purposes of this subsection, the term "applicable Secretary" means the applicable Secretary, a public housing agency, or another entity that determines the eligibility of an individual for financial assistance.
 
@@ -156,7 +156,7 @@ For purposes of this section, the term "applicable Secretary" means—
 
 &emsp;For purposes of this subsection, with respect to a family, the term "eligibility" means the eligibility of each family member.
 
-(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, titleI, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312; Pub. L. 114–201, title I, §113, July 29, 2016, 130 Stat. 804.)
+(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312; Pub. L. 114–201, title I, §113, July 29, 2016, 130 Stat. 804.)
 
 #### References in Text
 
@@ -208,7 +208,7 @@ Subsec. (a)(5). Pub. L. 104–208, §308(g)(7)(D)(ii), substituted "section 1231
 
 Subsec. (b). Pub. L. 104–208, §572, designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 104–193, §441(a)(2), inserted "the direct loan program under section 1472 of this title or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act," after "1715z–1 of title 12,".
+Pub. L. 104–193, §441(a)(2), inserted "the direct loan program under section 1472 of this title or section1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act," after "1715z–1 of title 12,".
 
 Subsec. (c). Pub. L. 104–193, §441(a)(1), substituted "applicable Secretary" for "Secretary of Housing and Urban Development" in two places.
 
@@ -318,7 +318,7 @@ Pub. L. 100–242, title I, §164(h), Feb. 5, 1988, 101 Stat. 1863, provided tha
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 effective on Oct. 1, 1988, with certain exceptions and qualifications, see section121(c)(3), (4) of Pub. L. 99–603, set out as a note under section 1320b–7 of this title.
+Amendment by Pub. L. 99–603 effective on Oct. 1, 1988, with certain exceptions and qualifications, see section 121(c)(3), (4) of Pub. L. 99–603, set out as a note under section 1320b–7 of this title.
 
 #### Effective Date of 1981 Amendment
 

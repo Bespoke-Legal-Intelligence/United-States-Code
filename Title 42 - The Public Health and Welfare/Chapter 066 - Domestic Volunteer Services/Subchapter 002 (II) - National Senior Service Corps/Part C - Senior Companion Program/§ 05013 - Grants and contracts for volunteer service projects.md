@@ -10,9 +10,9 @@ Subsections (d), (e), and (f) of section 5011 of this title, and such other prov
 
 #### (c) Senior companion projects to assist homebound elderly
 
-(1) The Director is authorized to make grants or contracts after <sup>1</sup> subsection (a) of this section for senior companion projects to assist homebound elderly individuals to remain in their own homes and to enable institutionalized elderly individuals to return to home care settings.
+(1) The Director is authorized to make grants or contracts after <sup>1</sup> subsection (a) for senior companion projects to assist homebound elderly individuals to remain in their own homes and to enable institutionalized elderly individuals to return to home care settings.
 
-(2)(A) The Director is authorized to recruit, subject to subparagraph (B), senior companion volunteer trainers who on the basis of experience (such as, doctors, nurses, home economists, social workers) will be used to train senior companion volunteers to participate in and monitor initial and continuing needs assessments and appropriate in-home services for senior companion volunteer recipients. The needs assessments and in-home services shall be coordinated with and supplement existing community based home health and long-term care systems. The Director may also use senior companion volunteer leaders, who on the basis of experience as volunteers, special skills, and demonstrated leadership abilities may spend time in the program (in addition to their regular assignment) to assist newer senior companion volunteers in performing their assignments and in coordinating activities of such volunteers.
+(2)(A) The Director is authorized to recruit, subject to subparagraph (B), senior companion volunteer trainers who on the basis of experience (such as, doctors, nurses, home economists,social workers) will be used to train senior companion volunteers to participate in and monitor initial and continuing needs assessments and appropriate in-home services for senior companion volunteer recipients. The needs assessments and in-home services shall be coordinated with and supplement existing community based home health and long-term care systems. The Director may also use senior companion volunteer leaders, who on the basis of experience as volunteers, special skills, and demonstrated leadership abilities may spend time in the program (in addition to their regular assignment) to assist newer senior companion volunteers in performing their assignments and in coordinating activities of such volunteers.
 
 (B) Senior companion volunteer trainers recruited under subparagraph (A) of this paragraph shall not be paid stipends.
 
@@ -24,7 +24,7 @@ Subsections (d), (e), and (f) of section 5011 of this title, and such other prov
 
 <b>1993</b>—Subsec. (c)(3). Pub. L. 103–82 struck out par. (3) which required an evaluation of, and report on, impact of senior companion projects to assist homebound elderly.
 
-<b>1989</b>—Subsec. (c)(1). Pub. L. 101–204 inserted "after subsection (a) of this section" after "grants or contracts", and "individuals" after "elderly" in two places.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–204 inserted "after subsection (a)" after "grants or contracts", and "individuals" after "elderly" in two places.
 
 <b>1986</b>—Pub. L. 99–551 inserted "for volunteer service projects" in section catchline and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The provisions of section 5011(d) of this title and section 5011(e) of this title and such other provisions of part B as the Director determines to be necessary shall apply to the provisions of this part."
 

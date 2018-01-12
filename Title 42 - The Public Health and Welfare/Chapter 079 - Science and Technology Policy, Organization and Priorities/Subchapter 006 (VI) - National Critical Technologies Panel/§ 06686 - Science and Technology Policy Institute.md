@@ -30,7 +30,7 @@ The duties of the Institute shall include the following:
 
 #### (d) Consultation on Institute activities
 
-In carrying out the duties referred to in subsection (c) of this section, personnel of the Institute shall—
+In carrying out the duties referred to in subsection (c), personnel of the Institute shall—
 
 &emsp;(1) consult widely with representatives from private industry, institutions of higher education, and nonprofit institutions; and
 
@@ -38,13 +38,13 @@ In carrying out the duties referred to in subsection (c) of this section, person
 
 #### (e) Annual reports
 
-The Institute shall submit to the President an annual report on the activities of the Institute under this section. Each report shall be in accordance with requirements prescribed by the President.
+The Institute shall submit to the President an annual report on the activities of the Instituteunder this section. Each report shall be in accordance with requirements prescribed by the President.
 
 #### (f) Sponsorship
 
 (1) The Director of the National Science Foundation shall be the sponsor of the Institute.
 
-(2) The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent with the duties referred to in subsection (c) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
+(2) The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent with the duties referred to in subsection (c). The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
 
 (Pub. L. 101–510, div. A, title VIII, §822, Nov. 5, 1990, 104 Stat. 1598; Pub. L. 102–25, title VII, §704(a)(5), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title VIII, §822(c)(1), Dec. 5, 1991, 105 Stat. 1433; Pub. L. 103–160, div. A, title VIII, §803, Nov. 30, 1993, 107 Stat. 1701; Pub. L. 104–201, div. A, title X, §1073(e)(1)(C), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–207, title II, §208(a), July 29, 1998, 112 Stat. 877.)
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 105–207, §208(a)(3), redesignated subsec. (g) as (f).
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–160 amended heading and text of subsec. (c) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to the composition, designation of chairman, terms of service, and meetings of the Operating Committee.
 
-<b>1991</b>—Pub. L. 102–190 amended section generally, substituting present provisions for provisions establishing "Critical Technologies Institute" and providing for incorporation, Board of Trustees, duties of Institute,sponsorship of Institute, deadline for certain actions, and funding.
+<b>1991</b>—Pub. L. 102–190 amended section generally, substituting present provisions for provisions establishing "Critical Technologies Institute" and providing for incorporation, Board of Trustees, duties of Institute, sponsorship of Institute, deadline for certain actions, and funding.
 
 Subsec. (g)(1). Pub. L. 102–25, §704(a)(5)(A), substituted "appropriated pursuant to this Act" for "available for the Department of Defense" and struck out "in the first fiscal year in which the Institute begins operations" after "activities of the Institute".
 

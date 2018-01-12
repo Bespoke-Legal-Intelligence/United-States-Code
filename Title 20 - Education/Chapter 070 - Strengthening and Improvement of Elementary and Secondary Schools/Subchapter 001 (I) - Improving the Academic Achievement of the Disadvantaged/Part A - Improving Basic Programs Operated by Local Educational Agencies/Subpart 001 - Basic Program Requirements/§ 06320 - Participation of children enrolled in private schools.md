@@ -34,7 +34,7 @@
 
 #### (ii) Proportional share
 
-&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount offunds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
+&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount of funds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
 
 #### (B) Obligation of funds
 
@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;To ensure timely and meaningful consultation, a local educational agency shall consult with appropriate private school officials during the design and development of such agency's programs under this part. Such agency and private school officials shall both have the goal of reaching agreement on how to provide equitable and effective programs for eligible private school children, the results of which agreement shall be transmitted to the ombudsman designated under subsection (a)(3)(B). Such process shall include consultation on issues such as—
+&emsp;To ensure timely and meaningful consultation, a local educational agency shall consultwith appropriate private school officials during the design and development of such agency's programs under this part. Such agency and private school officials shall both have the goal of reaching agreement on how to provide equitable and effective programs for eligible private school children, the results of which agreement shall be transmitted to the ombudsman designated under subsection (a)(3)(B). Such process shall include consultation on issues such as—
 
 &emsp;&emsp;(A) how the children's needs will be identified;
 
@@ -100,7 +100,7 @@
 
 #### (5) Documentation
 
-&emsp;Each local educational agency shall maintain in the agency's records and provide to theState educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
+&emsp;Each local educational agency shall maintain in the agency's records and provide to the State educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
 
 #### (6) Compliance
 
@@ -184,7 +184,7 @@ Another prior section 1117 of Pub. L. 89–10 was classified to section 6318 of 
 
 Subsec. (a)(3). Pub. L. 114–95, §1011(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Educational services and other benefits for such private school children shall be equitable in comparison to services and other benefits for public school children participating under this part, and shall be provided in a timely manner."
 
-Subsec. (a)(4). Pub. L. 114–95, §1011(1)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Expenditures for educational services and other benefits to eligible private school children shall be equal to the proportion of funds allocated to participating school attendance areas based on the number of children from low-income families who attend private schools, which the local educational agency may determine each year or every 2 years."
+Subsec. (a)(4). Pub. L. 114–95, §1011(1)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Expenditures for educational services and other benefits to eligible private school children shall be equal to the proportion of funds allocated to participating school attendance areas based on the number of children from low-income families whoattend private schools, which the local educational agency may determine each year or every 2 years."
 
 Subsec. (a)(5). Pub. L. 114–95, §1011(1)(D), inserted ", or, in a case described in subsection (b)(6)(C), the State educational agency involved," after "local educational agency".
 

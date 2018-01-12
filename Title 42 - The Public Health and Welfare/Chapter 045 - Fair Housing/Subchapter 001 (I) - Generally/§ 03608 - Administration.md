@@ -40,11 +40,11 @@ The Secretary of Housing and Urban Development shall—
 
 &emsp;(5) administer the programs and activities relating to housing and urban development in a manner affirmatively to further the policies of this subchapter; and
 
-&emsp;(6) annually report to the Congress, and make available to the public, data on the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) of this section which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
+&emsp;(6) annually report to the Congress, and make available to the public, data on the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
 
 #### (f) Provisions of law applicable to Department programs
 
-The provisions of law and Executive orders to which subsection (e)(6) of this section applies are—
+The provisions of law and Executive orders to which subsection (e)(6) applies are—
 
 &emsp;(1) title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\];
 
@@ -172,7 +172,7 @@ Sec. 3. <i>President's Fair Housing Council.</i>
 
 (b) develop memoranda of understanding and any necessary implementing procedures among executive agencies designed to provide for consultation and the coordination of Federal efforts to further fair housing through the affirmative administration of programs and activities relating to housing and urban development, including coordination of the investigation of complaints or other information referred to the Secretary as required by section 2–204 of this order that would constitute a violation of the Act or, where relevant, other Federal laws. Existing memoranda of understanding shall remain in effect until superseded.
 
-3–304. In connection with carrying out functions under this order, the Secretary of Housing and Urban Development is authorized to request from any executive agency such information and assistance as the Secretary deems necessary. Each agency shall furnish such information to the extent permitted by law and, to the extent practicable, provide assistance to the Secretary.
+3–304. In connection with carrying out functions under this order, the Secretary of Housing and UrbanDevelopment is authorized to request from any executive agency such information and assistance as the Secretary deems necessary. Each agency shall furnish such information to the extent permitted by law and, to the extent practicable, provide assistance to the Secretary.
 
 Sec. 4. <i>Specific Responsibilities.</i>
 
@@ -278,7 +278,7 @@ Further, I direct the Secretary of Housing and Urban Development to review all o
 
 I also direct the Secretary to review HUD's programs to assure that they contain the maximum incentives to affirmatively further fair housing and to eliminate barriers to free choice where they continue to exist. This review shall include Federally assisted housing, Federally insured housing and other housing and housing related programs, including those of the Government National Mortgage Association and the Federal Housing Administration.
 
-Today, I am establishing a new Cabinet-level organization to focus the cooperative efforts of all agencies on fair housing. The President's Fair Housing Council will be chaired by the Secretary of Housing and Urban Development and will consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, and the Chair of the Federal Deposit Insurance Corporation.
+Today, I am establishing a new Cabinet-level organization to focus the cooperative efforts of all agencies on fair housing. The President's Fair Housing Council will be chaired by the Secretary of Housing and Urban Development and will consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve,the Comptroller of the Currency, the Director of the Office of Thrift Supervision, and the Chair of the Federal Deposit Insurance Corporation.
 
 The President's Fair Housing Council shall review the design and delivery of Federal programs and activities to ensure that they support a coordinated strategy to affirmatively further fair housing. The Council shall propose revisions to existing programs or activities, develop pilot programs and activities, and propose new programs and activities to achieve its goals.
 

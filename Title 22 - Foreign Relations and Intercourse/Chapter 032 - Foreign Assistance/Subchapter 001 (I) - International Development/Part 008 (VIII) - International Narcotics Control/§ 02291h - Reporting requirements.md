@@ -112,7 +112,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;&emsp;with respect to narcotic control efforts during the preceding fiscal year, the current fiscal year, and the next fiscal year; and
 
-&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign countryfor narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
 (Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268.)
 
@@ -160,7 +160,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Plan To Address Diversion of Precursor Chemicals
 
-Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided that: "In the case of each country identified pursuant to clause (i) or (ii) of section 489(a)(8)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291h(a)(8)(A)\] (as added by subsection (a)) with respect to which the President has not transmitted to Congress a certification under section 490(b) of suchAct (22 U.S.C. 2291j(b)), the Secretary of State, in consultation with the Attorney General, shall, not later than 180 days after the date on which the President transmits the report required by section 489(a) of such Act (22 U.S.C. 2291h(a)), submit to Congress a comprehensive plan to address the diversion of the chemicals described in section 489(a)(8)(A)(i) of such Act to the illicit production of methamphetamine in such country or in another country, including the establishment, expansion, and enhancement of regulatory, law enforcement, and other investigative efforts to prevent such diversion."
+Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided that: "In the case of each country identified pursuant to clause (i) or (ii) of section 489(a)(8)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291h(a)(8)(A)\] (as added by subsection (a)) with respect to which the President has not transmitted to Congress a certification under section 490(b) of such Act (22 U.S.C. 2291j(b)), the Secretary of State, in consultation with the Attorney General, shall, not later than 180 days after the date on which the President transmits the report required by section 489(a) of such Act (22 U.S.C. 2291h(a)), submit to Congress a comprehensive plan to address the diversion of the chemicals described in section 489(a)(8)(A)(i) of such Act to the illicit production of methamphetamine in such country or in another country, including the establishment, expansion, and enhancement of regulatory, law enforcement, and other investigative efforts to prevent such diversion."
 
 #### Statutory References to Annual Reports, Certifications, and Definitions
 

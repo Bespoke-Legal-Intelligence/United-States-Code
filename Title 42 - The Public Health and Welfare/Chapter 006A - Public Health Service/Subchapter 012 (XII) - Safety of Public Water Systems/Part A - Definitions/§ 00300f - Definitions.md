@@ -132,7 +132,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Effect of Public Law 104–182 on Federal Water Pollution Control Act
 
-Pub. L. 104–182, §2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except for the provisions of section 302 \[42 U.S.C. 300j–12 note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\] (commonly known as the 'Safe Drinking Water Act') or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
+Pub. L. 104–182, §2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except for the provisions of section 302 \[42U.S.C. 300j–12 note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\] (commonly known as the 'Safe Drinking Water Act') or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
 
 &emsp;"(1) the provisions of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\];
 

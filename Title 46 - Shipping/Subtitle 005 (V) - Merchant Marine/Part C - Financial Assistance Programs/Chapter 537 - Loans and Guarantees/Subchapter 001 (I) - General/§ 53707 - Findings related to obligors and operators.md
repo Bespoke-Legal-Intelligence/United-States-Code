@@ -70,7 +70,7 @@ June 29, 1936, ch. 858, title XI, §1104A(d)(4), as added Pub. L. 108–136, tit
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(3)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting "or Administrator" after "Secretary" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(3)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting "orAdministrator" after "Secretary" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (b). Pub. L. 110–181, §3522(a)(3)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(c)(1), into this section by substituting "Administrator" for "Secretary of Transportation". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 

@@ -26,7 +26,7 @@
 
 &emsp;(D) proper notice, opportunities for public participation, including a public hearing prior to making any designation or redesignation, pursuant to this section.
 
-(5) Determinations of the unsuitability of land for surface coal mining, as provided for in this section, shall be integrated as closely as possible with present and future land use planning and regulation processes at the Federal, State, and local levels.
+(5) Determinations of the unsuitability of land for surface coal mining, as provided for in this section, shall be integrated as closely as possiblewith present and future land use planning and regulation processes at the Federal, State, and local levels.
 
 (6) The requirements of this section shall not apply to lands on which surface coal mining operations are being conducted on August 3, 1977, or under a permit issued pursuant to this chapter, or where substantial legal and financial commitments in such operation were in existence prior to January 4, 1977.
 

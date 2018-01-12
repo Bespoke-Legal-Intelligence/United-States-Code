@@ -3,13 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [2281\.](%C2%A7%2002281%20-%20Global%20Positioning%20System.md) | Global Positioning System. |
-| [2282\.](%C2%A7%2002282%20-%20Authority%20to%20build%20the%20capacity%20of%20foreign%20security%20forces.md) | Authority to build the capacity of foreign security forces. |
+| \[2282. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 114–328, div. A, title XII, §1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, provided that, effective as of the date that is 270 days after Dec. 23, 2016, this analysis is amended by striking item 2282. See 2016 Amendment note below.</i>
 
 #### Amendments
 
@@ -27,4 +23,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02281 - Global Positioning System](%C2%A7%2002281%20-%20Global%20Positioning%20System.md)
-- [&sect; 02282 - Authority to build the capacity of foreign security forces](%C2%A7%2002282%20-%20Authority%20to%20build%20the%20capacity%20of%20foreign%20security%20forces.md)
+- [&sect; 02282 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1241(d)(5)(A), Dec. 23, 2016, 130 Stat. 2504](%C2%A7%2002282%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71241%28d%29%285%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202504.md)

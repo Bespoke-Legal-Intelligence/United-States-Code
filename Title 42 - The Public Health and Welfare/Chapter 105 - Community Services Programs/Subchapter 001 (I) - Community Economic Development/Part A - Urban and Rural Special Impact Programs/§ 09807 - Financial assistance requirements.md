@@ -38,7 +38,7 @@ Financial assistance under this section shall not be extended to assist in the r
 
 #### (c) Community economic development program; application; specification of goals
 
-Financial assistance for commercial development under this part shall not be extended until the community economic development program that has applied for assistance under this subchapter has specified in some detail its development goals and its development timetable. The Secretary, in providing continued financial assistance to a community economic development program, shall give serious consideration to the experience such program has had in meeting development goals or in adhering to development timetables.
+Financial assistance for commercial development under this part shall not be extended until the community economic development programthat has applied for assistance under this subchapter has specified in some detail its development goals and its development timetable. The Secretary, in providing continued financial assistance to a community economic development program, shall give serious consideration to the experience such program has had in meeting development goals or in adhering to development timetables.
 
 (Pub. L. 97–35, title VI, §618, Aug. 13, 1981, 95 Stat. 491.)
 

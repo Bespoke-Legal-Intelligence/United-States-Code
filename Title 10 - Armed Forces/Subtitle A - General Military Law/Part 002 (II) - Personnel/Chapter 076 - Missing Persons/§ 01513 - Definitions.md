@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
 
-> &emsp;Such term includes an unaccounted for person described in subsection (a) of section 1509 ofthis title who is required by subsection (c) of such section to be considered a missing person.
+> &emsp;Such term includes an unaccounted for person described in subsection (a) of section 1509 of this title who is required by subsection (c) of such section to be considered a missing person.
 
 &emsp;(2) The term "missing status" means the status of a missing person who is determined to be absent in a category of any of the following:
 
@@ -46,7 +46,7 @@ In this chapter:
 
 &emsp;&emsp;(D) A brother or sister of the person, if such brother or sister has attained the age of 18 years.
 
-&emsp;&emsp;(E) Any other blood relative or adoptive relative of the person, if such relative was given sole legal custody of the person by a court decree or otherwise under law before the person attained the age of 18 years and such custody was not subsequently terminated before that time.
+&emsp;&emsp;(E) Any other blood relative or adoptive relative of the person, if such relative wasgiven sole legal custody of the person by a court decree or otherwise under law before the person attained the age of 18 years and such custody was not subsequently terminated before that time.
 
 &emsp;(6) The term "previously designated person", in the case of a missing person, means an individual designated by the person under section 655 of this title for purposes of this chapter.
 

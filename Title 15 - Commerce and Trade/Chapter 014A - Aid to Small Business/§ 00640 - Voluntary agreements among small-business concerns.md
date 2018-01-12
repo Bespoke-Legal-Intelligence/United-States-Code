@@ -24,7 +24,7 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, which was previously classified to section 646 of this title. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section2\[10\] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, which was previously classified to section 646 of this title. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under section 631 of this title.
 
 #### Ex. Ord. No. 10493. Delegation of Functions
 

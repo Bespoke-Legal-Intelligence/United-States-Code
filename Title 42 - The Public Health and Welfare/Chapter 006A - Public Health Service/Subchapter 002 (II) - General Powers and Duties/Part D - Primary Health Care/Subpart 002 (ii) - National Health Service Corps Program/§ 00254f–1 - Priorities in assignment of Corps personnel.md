@@ -42,7 +42,7 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;For the purpose of carrying out paragraph (3), the Secretary shall prepare and, as appropriate, update a list of health professional shortage areas and entities that are receiving priority under subsection (a)(1) in the assignment of Corps members. Such list—
 
-&emsp;&emsp;(A) shall include a specification, for each such health professional shortage area, of the entities for which the Secretary has provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments; and
+&emsp;&emsp;(A) shall include a specification, for each such health professional shortage area, ofthe entities for which the Secretary has provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments; and
 
 &emsp;&emsp;(B) shall, of the entities for which an authorization described in subparagraph (A) has been provided, specify—
 

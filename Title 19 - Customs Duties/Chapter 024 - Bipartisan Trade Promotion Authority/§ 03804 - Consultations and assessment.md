@@ -8,7 +8,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;(2) before and after submission of the notice, consult regarding the negotiations with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, such other committees of the House and Senate as the President deems appropriate, and the Congressional Oversight group convened under section 3807 of this title; and
 
-&emsp;(3) upon the request of a majority of the members of the Congressional Oversight Group under section 3807(c) of this title, meet with the Congressional Oversight Group before initiating the negotiations or at any other time concerning the negotiations.
+&emsp;(3) upon the request of a majority of the members of the Congressional Oversight Group under section 3807(c) of this title, meet with the Congressional Oversight Group beforeinitiating the negotiations or at any other time concerning the negotiations.
 
 #### (b) Negotiations regarding agriculture
 

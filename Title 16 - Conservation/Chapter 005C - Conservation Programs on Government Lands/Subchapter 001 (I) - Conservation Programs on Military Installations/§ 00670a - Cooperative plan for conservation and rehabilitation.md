@@ -16,7 +16,7 @@
 
 #### (2) Cooperative preparation
 
-&emsp;The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State in which the military installation or State-owned National Guard installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation or State-owned National Guard installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
+&emsp;The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State inwhich the military installation or State-owned National Guard installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation or State-owned National Guard installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
 
 #### (3) Purposes of program
 
@@ -110,7 +110,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### (2) Secretary of the Interior
 
-&emsp;Not later than March 1 of each year and in consultation with the heads of State fish andwildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant to integrated natural resources management plans.
+&emsp;Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant to integrated natural resources management plans.
 
 #### (3) "Committees" defined
 

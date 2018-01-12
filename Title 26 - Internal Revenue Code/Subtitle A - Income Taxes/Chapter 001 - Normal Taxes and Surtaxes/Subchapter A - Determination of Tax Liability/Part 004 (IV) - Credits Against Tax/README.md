@@ -14,13 +14,13 @@
 
 |  |  |
 | :--- | ---: |
-| H. | Nonrefundable credit to holders of clean renewable energy bonds. |
-| I. | Qualified tax credit bonds. |
-| J. | Build America bonds. |
+| \[H to J. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138, struck out items for subparts H "Nonrefundable credit to holders of clean renewable energy bonds", I "Qualified tax credit bonds", and J "Build America bonds".
 
 <b>2009</b>—Pub. L. 111–5, div. B, title I, §1531(c)(6), Feb. 17, 2009, 123 Stat. 360, added item for subpart J.
 
@@ -52,6 +52,6 @@
 - [Subpart E - Rules for Computing Investment Credit](Subpart%20E%20-%20Rules%20for%20Computing%20Investment%20Credit/README.md)
 - [Subpart F - Rules for Computing Work Opportunity Credit](Subpart%20F%20-%20Rules%20for%20Computing%20Work%20Opportunity%20Credit/README.md)
 - [Subpart G - Credit Against Regular Tax for Prior Year Minimum Tax Liability](Subpart%20G%20-%20Credit%20Against%20Regular%20Tax%20for%20Prior%20Year%20Minimum%20Tax%20Liability/README.md)
-- [Subpart H - Nonrefundable Credit to Holders of Clean Renewable Energy Bonds](Subpart%20H%20-%20Nonrefundable%20Credit%20to%20Holders%20of%20Clean%20Renewable%20Energy%20Bonds/README.md)
-- [Subpart I - Qualified Tax Credit Bonds](Subpart%20I%20-%20Qualified%20Tax%20Credit%20Bonds/README.md)
-- [Subpart J - Build America Bonds](Subpart%20J%20-%20Build%20America%20Bonds/README.md)
+- [Subpart H - Repealed](Subpart%20H%20-%20Repealed/README.md)
+- [Subpart I - Repealed](Subpart%20I%20-%20Repealed/README.md)
+- [Subpart J - Repealed](Subpart%20J%20-%20Repealed/README.md)

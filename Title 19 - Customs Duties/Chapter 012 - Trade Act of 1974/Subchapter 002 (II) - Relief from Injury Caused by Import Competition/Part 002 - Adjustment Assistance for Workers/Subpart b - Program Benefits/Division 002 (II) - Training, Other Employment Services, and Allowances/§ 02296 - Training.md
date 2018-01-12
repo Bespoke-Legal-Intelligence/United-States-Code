@@ -42,7 +42,7 @@
 
 (D) The Secretary shall establish procedures for the distribution of the funds that remain available for the fiscal year after the initial distribution required under subparagraph (B)(i). Such procedures may include the distribution of funds pursuant to requests submitted by States in need of such funds.
 
-(E) If, during a fiscal year, the Secretary estimates that the amount of funds necessary to carry out this section and sections 2295, 2297, and 2298 of this title will exceed the dollar amount limitation specified in subparagraph (A), the Secretary shall decide how the amount of funds made available to carry out this section and sections 2295, 2297, and 2298 of this title that have not been distributed at the time of the estimate will be apportioned among the States for the remainder of the fiscal year.
+(E) If, during a fiscal year, the Secretary estimates that the amount of funds necessary tocarry out this section and sections 2295, 2297, and 2298 of this title will exceed the dollar amount limitation specified in subparagraph (A), the Secretary shall decide how the amount of funds made available to carry out this section and sections 2295, 2297, and 2298 of this title that have not been distributed at the time of the estimate will be apportioned among the States for the remainder of the fiscal year.
 
 (3) For purposes of applying paragraph (1)(C), a reasonable expectation of employment does not require that employment opportunities for a worker be available, or offered, immediately upon the completion of training approved under paragraph (1).
 
@@ -110,7 +110,7 @@
 
 (9)(A) Subject to subparagraph (B), the Secretary shall prescribe regulations which set forth the criteria under each of the subparagraphs of paragraph (1) that will be used as the basis for making determinations under paragraph (1).
 
-(B)(i) In determining under paragraph (1)(E) whether a worker is qualified to undertake and complete training, the Secretary may approve training for a period longer than the worker's period of eligibility for trade readjustment allowances under division I if the worker demonstrates a financial ability to complete the training after the expiration of the worker's period of eligibility for such trade readjustment allowances.
+(B)(i) In determining under paragraph (1)(E) whether a worker is qualified to undertake and complete training, the Secretary may approvetraining for a period longer than the worker's period of eligibility for trade readjustment allowances under division I if the worker demonstrates a financial ability to complete the training after the expiration of the worker's period of eligibility for such trade readjustment allowances.
 
 (ii) In determining the reasonable cost of training under paragraph (1)(F) with respect to a worker, the Secretary may consider whether other public or private funds are reasonably available to the worker, except that the Secretary may not require a worker to obtain such funds as a condition of approval of training under paragraph (1).
 
@@ -186,7 +186,7 @@ The Secretary may, where appropriate, authorize supplemental assistance necessar
 
 &emsp;&emsp;(E) the employer has not terminated the employment of any regular employee or otherwise reduced the workforce of the employer with the intention of filling the vacancy so created by hiring such adversely affected worker,
 
-&emsp;&emsp;(F) the job for which such adversely affected worker is being trained is not being created in a promotional line that will infringe in any way upon the promotional opportunities of currently employed individuals,
+&emsp;&emsp;(F) the job for which such adversely affected worker is being trained is not beingcreated in a promotional line that will infringe in any way upon the promotional opportunities of currently employed individuals,
 
 &emsp;&emsp;(G) such training is not for the same occupation from which the worker was separated and with respect to which such worker's group was certified pursuant to section 2272 of this title,
 
@@ -212,7 +212,7 @@ An adversely affected worker may not be determined to be ineligible or disqualif
 
 &emsp;&emsp;(C) left on-the-job training not later than 30 days after commencing such training because the training did not meet the requirements of subsection (c)(1)(B); or
 
-&emsp;(2) because of the application to any such week in training of the provisions of State lawor Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work.
+&emsp;(2) because of the application to any such week in training of the provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work.
 
 #### (e) "Suitable employment" defined
 
@@ -250,7 +250,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5), is 
 
 The Act of August 16, 1937, referred to in subsec. (a)(5)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, weredeemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Codification
 
@@ -318,7 +318,7 @@ Consultations.—The Secretary shall consult with the Committee on Finance of th
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1831(b), 1893, in concluding provisions, temporarily struck out last sentence which read as follows: "Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Pub. L. 111–5, §§1830(a)(1)(A), 1893, temporarily inserted ", with respect to an adversely affected worker or an adversely affected incumbent worker," after "determines" in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–5, §§1830(a)(1)(A), 1893, temporarily inserted ", with respect to an adversely affected worker or an adversely affected incumbent worker," after "determines" in introductory provisions. See Codificationnote above and Effective and Termination Dates of 2009 Amendment note below.
 
 Pub. L. 111–5, §§1829(c)(1)(A), 1893, temporarily substituted "the worker's behalf" for "his behalf" in concluding provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -344,7 +344,7 @@ Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporari
 
 Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted "or adversely affected incumbent worker" after "adversely affected worker". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A),substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily added pars. (10) and (11). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -380,7 +380,7 @@ Subsec. (a)(1)(F). Pub. L. 100–418, §1424(a)(2)–(4), added subpar. (F).
 
 Subsec. (a)(2). Pub. L. 100–418, §1424(a)(11), (12), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting "$120,000,000" for "$80,000,000", which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
+Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting "$120,000,000" for "$80,000,000", which amendment did not become effective pursuant to section 1430(d) of Pub.L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 
 Subsec. (a)(3), (4). Pub. L. 100–418, §1424(a)(11), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
@@ -418,7 +418,7 @@ Subsecs. (e), (f). Pub. L. 99–272, §13004(a)(5), redesignated pars. (2) and (
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on thebasis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
+Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
 #### Effective and Termination Dates of 2015 Revival
 

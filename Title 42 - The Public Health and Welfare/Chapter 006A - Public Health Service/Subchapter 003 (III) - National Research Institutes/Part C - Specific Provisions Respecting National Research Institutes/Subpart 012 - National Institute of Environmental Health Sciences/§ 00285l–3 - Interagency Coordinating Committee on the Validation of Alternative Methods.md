@@ -58,7 +58,7 @@ The ICCVAM shall be composed of the heads of the following Federal agencies (or 
 
 #### (1) Establishment
 
-&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to insections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of the Federal Advisory Committee Act.
+&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to in sections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of the Federal Advisory Committee Act.
 
 #### (2) Membership
 

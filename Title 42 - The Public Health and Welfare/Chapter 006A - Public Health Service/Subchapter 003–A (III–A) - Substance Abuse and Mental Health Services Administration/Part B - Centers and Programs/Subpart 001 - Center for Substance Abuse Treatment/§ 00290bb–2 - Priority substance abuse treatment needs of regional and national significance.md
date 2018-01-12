@@ -16,7 +16,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (1) In general
 
-&emsp;Priority substance use disorder treatment needs of regional and national significanceshall be determined by the Secretary after consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
+&emsp;Priority substance use disorder treatment needs of regional and national significance shall be determined by the Secretary after consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
 
 #### (2) Special consideration
 
@@ -34,7 +34,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a), require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a), require that entities thatapply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 
@@ -76,5 +76,5 @@ Subsec. (f). Pub. L. 114–255, §7004(4), substituted "$333,806,000 for each of
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 

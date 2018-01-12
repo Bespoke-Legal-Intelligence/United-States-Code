@@ -26,7 +26,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–40, §§214(b)(1), 233, temporarily substituted "Limitations on" for "Funding for" in section catchline and temporarily substituted text for former text consisting of subsecs. (a) and (b) which related to funding for administrative expenses and employment and case management services. See Codification note above and Effective and Termination Dates note below.
+<b>2011</b>—Pub. L. 112–40, §§214(b)(1), 233, temporarily substituted "Limitations on" for "Funding for" in section catchline and temporarily substituted text for former text consisting of subsecs. (a) and (b) which related tofunding for administrative expenses and employment and case management services. See Codification note above and Effective and Termination Dates note below.
 
 #### Effective and Termination Dates
 

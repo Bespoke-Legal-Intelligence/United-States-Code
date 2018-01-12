@@ -38,7 +38,7 @@ Foreign motor carrier.—The term "foreign motor carrier" means a person (includ
 
 &emsp;&emsp;(ii) that is owned or controlled by persons of a contiguous foreign country; and
 
-&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that providesinterstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
+&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
 
 &emsp;(7)
 
@@ -142,7 +142,7 @@ Person.—The term "person", in addition to its meaning under section 1 of title
 
 &emsp;(19)
 
-Pre-arranged ground transportation service.—The term "pre-arranged ground transportation service" means transportation for a passenger (or a group of passengers) thatis arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
+Pre-arranged ground transportation service.—The term "pre-arranged ground transportation service" means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
 
 &emsp;(20)
 
@@ -242,5 +242,5 @@ Pub. L. 109–59, title IV, §4202(c), Aug. 10, 2005, 119 Stat. 1752, provided t
 
 #### Definitions
 
-Pub. L. 109–59, title IV, §4202(a), Aug. 10, 2005, 119 Stat. 1751, provided that: "In this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\], the terms 'carrier', 'household goods','motor carrier', 'Secretary', and 'transportation' have the meaning given to such terms in section 13102 of title 49, United States Code."
+Pub. L. 109–59, title IV, §4202(a), Aug. 10, 2005, 119 Stat. 1751, provided that: "In this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\], the terms 'carrier', 'household goods', 'motor carrier', 'Secretary', and 'transportation' have the meaning given to such terms in section 13102 of title 49, United States Code."
 

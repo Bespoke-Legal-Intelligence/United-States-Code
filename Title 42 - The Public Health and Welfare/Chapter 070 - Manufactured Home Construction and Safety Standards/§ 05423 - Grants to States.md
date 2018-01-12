@@ -26,3 +26,7 @@ The Federal share for each State grant under subsection (a) of this section may 
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted "manufactured home" for "mobile home".
 
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
+

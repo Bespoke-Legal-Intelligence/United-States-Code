@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) so much of the contributions to a simple retirement account (within the meaning of section 408(p)) or a simple plan (within the meaning of section 401(k)(11)) which are not deductible when contributed solely because such contributions are not made in connection with a trade or business of the employer.
 
-> &emsp;For purposes of subparagraph (A), the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to a defined benefit plan and then to amounts described in subparagraph (A). Subparagraph (B) shall not apply to contributions made on behalf of the employer or a member of the employer's family (as defined in section 447(e)(1)).
+> &emsp;For purposes of subparagraph (A), the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to a defined benefit plan and then to amounts described in subparagraph (A). Subparagraph (B) shall not apply to contributions made on behalf of the employer or a member of the employer's family (as defined in section 447(e)(1)).<sup>1</sup>
 
 #### (7) Defined benefit plan exception
 
@@ -96,6 +96,10 @@ For purposes of this section—
 
 (Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, title IV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193; Pub. L. 109–280, title I, §114(e)(5), title VIII, §803(c), Aug. 17, 2006, 120 Stat. 855, 996.)
 
+#### References in Text
+
+Section 447(e), referred to in subsec. (c)(6), was repealed and provisions were redesignated as section 447(e) which do not relate to members of the employer's family by Pub. L. 115–97, title I, §13102(a)(5)(C), Dec. 22, 2017, 131 Stat. 2103.
+
 #### Prior Provisions
 
 A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 88 Stat. 955; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §312(e)(3), Aug. 13, 1981, 95 Stat. 285; Pub. L. 97–448, title I, §103(c)(10)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(40), July 18, 1984, 98 Stat. 851, related to tax on excess contributions for self-employed individuals, prior to repeal applicable to years beginning after Dec. 31, 1983, by Pub. L. 97–248, title II, §237(c)(1), Sept. 3, 1982, 96 Stat. 511.
@@ -126,7 +130,7 @@ Pub. L. 107–16, §652(b)(2), in concluding provisions, struck out first senten
 
 Pub. L. 107–16, §637(b), in concluding provisions, inserted at end "Subparagraph (C) shall not apply to contributions made on behalf of the employer or a member of the employer's family (as defined in section 447(e)(1))."
 
-Subsec. (c)(6)(A). Pub. L. 107–16, §652(b)(1), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: "contributions that would be deductible under section 404(a)(1)(D) if the plan had more than 100 participants if—
+Subsec. (c)(6)(A). Pub. L. 107–16, §652(b)(1), redesignated subpar. (B) as (A) and struck out former subpar.\(A) which read as follows: "contributions that would be deductible under section 404(a)(1)(D) if the plan had more than 100 participants if—
 
 &emsp;"(i) the plan is covered under section 4021 of the Employee Retirement Income Security Act of 1974, and
 
@@ -166,7 +170,7 @@ Subsec. (d)(1). Pub. L. 100–647, §1011A(e)(2), amended par. (1) generally. Pr
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 114(e)(5) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
+Amendment by section 114(e)(5) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
 
 Amendment by section 803(c) of Pub. L. 109–280 applicable to contributions for taxable years beginning after Dec. 31, 2005, see section 803(d) of Pub. L. 109–280, set out as a note under section 404 of this title.
 
@@ -224,7 +228,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Pub. L. 100–647, title I, §1011A(e)(5), Nov. 10, 1988, 102 Stat. 3478, provided that: "In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
+Pub. L. 100–647, title I, §1011A(e)(5), Nov. 10, 1988, 102 Stat. 3478, provided that: "In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;"(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 
@@ -237,4 +241,6 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

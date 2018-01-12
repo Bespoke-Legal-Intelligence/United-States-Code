@@ -20,7 +20,7 @@ The Commission is authorized to accept, hold, administer, and utilize gifts, beq
 
 #### (2) Report required
 
-&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
+&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002,and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
 
 (Pub. L. 107–204, title III, §308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, §929B, July 21, 2010, 124 Stat. 1852.)
 
@@ -38,7 +38,7 @@ Subsec. (e). Pub. L. 111–203, §929B(3), struck out subsec. (e). Text read as 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 

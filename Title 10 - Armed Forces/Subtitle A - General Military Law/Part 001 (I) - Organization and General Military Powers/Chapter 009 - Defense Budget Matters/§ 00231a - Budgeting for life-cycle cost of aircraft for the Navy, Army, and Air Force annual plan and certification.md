@@ -98,7 +98,7 @@ Subsec. (b)(4). Pub. L. 112–81, §1069(a)(2)(A), substituted "Intertheater" fo
 
 Subsec. (b)(8) to (11). Pub. L. 112–81, §1069(a)(2)(B), (C), added pars. (8) to (10) and redesignated former par. (8) as (11).
 
-Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted "national military strategy of the UnitedStates" for "national security strategy of the United States".
+Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted "national military strategy of the United States" for "national security strategy of the United States".
 
 Subsec. (c)(2)(A). Pub. L. 112–81, §1069(a)(3)(B)(i), inserted ", the Department of the Army," after "Navy".
 

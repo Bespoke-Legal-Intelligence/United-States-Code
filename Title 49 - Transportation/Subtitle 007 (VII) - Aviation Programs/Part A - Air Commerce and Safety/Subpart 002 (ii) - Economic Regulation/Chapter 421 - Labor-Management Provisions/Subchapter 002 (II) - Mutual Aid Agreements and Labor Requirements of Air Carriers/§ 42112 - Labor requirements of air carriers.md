@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 Duties of Air Carriers.—An air carrier shall—
 
-&emsp;(1) maintain rates of compensation, maximum hours, and other working conditions and relations for its pilots and copilots who are providing interstate air transportation in the 48 contiguous States and the District of Columbia to conform with decision number 83,May 10, 1934, National Labor Board, notwithstanding any limitation in that decision on the period of its effectiveness;
+&emsp;(1) maintain rates of compensation, maximum hours, and other working conditions and relations for its pilots and copilots who are providing interstate air transportation in the 48 contiguous States and the District of Columbia to conform with decision number 83, May 10, 1934, National Labor Board, notwithstanding any limitation in that decision on the period of its effectiveness;
 
 &emsp;(2) maintain rates of compensation for its pilots and copilots who are providing foreign air transportation or air transportation only in one territory or possession of the United States; and
 
@@ -78,7 +78,7 @@ Labor Integration.—With respect to any covered transaction involving two or mo
 
 &emsp;"(1) if the same collective bargaining agent represents the combining crafts or classes at each of the covered air carriers, that collective bargaining agent's internal policies regarding integration, if any, will not be affected by and will supersede the requirements of this section; and
 
-&emsp;"(2) the requirements of any collective bargaining agreement that may be applicable to the terms of integration involving covered employees of a covered air carrier shall not be affected by the requirements of this section as to the employees covered by that agreement, so long as those provisions allow for the protections afforded by sections 3 and 13 of the Allegheny-Mohawk provisions.
+&emsp;"(2) the requirements of any collective bargaining agreement that may be applicable to the terms of integration involving covered employees of a coveredair carrier shall not be affected by the requirements of this section as to the employees covered by that agreement, so long as those provisions allow for the protections afforded by sections 3 and 13 of the Allegheny-Mohawk provisions.
 
 "(b)
 

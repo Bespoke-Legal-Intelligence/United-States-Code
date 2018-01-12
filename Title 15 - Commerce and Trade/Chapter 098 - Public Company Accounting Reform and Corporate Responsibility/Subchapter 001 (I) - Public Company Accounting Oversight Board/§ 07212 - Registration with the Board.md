@@ -14,7 +14,7 @@ It shall be unlawful for any person that is not a registered public accounting f
 
 &emsp;Each public accounting firm shall submit, as part of its application for registration, in such detail as the Board shall specify—
 
-&emsp;&emsp;(A) the names of all issuers, brokers, and dealers for which the firm prepared or issued audit reports during the immediately preceding calendar year, and for which the firm expects to prepare or issue audit reports during the current calendar year;
+&emsp;&emsp;(A) the names of all issuers, brokers, and dealers for which the firm prepared or issuedaudit reports during the immediately preceding calendar year, and for which the firm expects to prepare or issue audit reports during the current calendar year;
 
 &emsp;&emsp;(B) the annual fees received by the firm from each such issuer, broker, or dealer for audit services, other accounting services, and non-audit services, respectively;
 

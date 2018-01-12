@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title,or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system <sup>1</sup> institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
+&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system <sup>1</sup> institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
 
 #### (B) Request for additional examination or other information
 
@@ -58,7 +58,7 @@ The examiners appointed by the Board of Directors shall cooperate to the maximum
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end "Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine."
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end "Notwithstanding any other provision of this chapter,on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine."
 
 <b>1992</b>—Pub. L. 102–552, §513(a)(1), substituted "System institutions" for "insured System banks" in section catchline.
 

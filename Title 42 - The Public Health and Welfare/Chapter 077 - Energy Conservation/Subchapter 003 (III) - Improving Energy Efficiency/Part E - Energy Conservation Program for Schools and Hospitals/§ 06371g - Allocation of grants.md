@@ -2,9 +2,9 @@
 
 #### (a) Section 6371e grants
 
-(1) Except as otherwise provided in subsection (b) of this section, the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) <sup>1</sup> of this title in any year for purposes of making energy conservation project grants pursuant to section 6371e of this title as follows:
+(1) Except as otherwise provided in subsection (b), the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) <sup>1</sup> of this title in any year for purposes of making energy conservation project grants pursuant to section 6371e of this title as follows:
 
-&emsp;(A) Eighty percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in accordancewith a formula to be prescribed, by rule, by the Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
+&emsp;(A) Eighty percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in accordance with a formula to be prescribed, by rule, bythe Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
 
 &emsp;(B) Ten percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in such manner as the Secretary determines by rule after taking into account the availability and cost of fuel or other energy used in, and the amount of fuel or other energy consumed by, schools and hospitals in the States, and such other factors as he deems appropriate.
 
@@ -14,7 +14,7 @@
 
 #### (b) Restrictions on allocations to States
 
-The total amount allocated to any State under subsection (a) of this section in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a) of this section. Except for the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants to States and to schools and hospitals in each State which has an approved State plan under this part.
+The total amount allocated to any State under subsection (a) in any year shall not exceed 10 percent of the total amount allocated to all the States in such year under such subsection (a). Except for the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, not less than 0.5 percent of such total allocation to all States for that year shall be allocated in such year for the total of grants to States and to schools and hospitals in each State which has an approved State plan under this part.
 
 #### (c) Prescription of rules governing allocations among States with regard to energy audits
 

@@ -38,5 +38,5 @@ Pub. L. 95–372, title III, §315, Sept. 18, 1978, 92 Stat. 685, which provided
 
 #### Offshore Oil Pollution Compensation Fund
 
-Amounts remaining in the Offshore Oil Pollution Compensation Fund established under former section1812 of this title to be deposited in the Oil Spill Liability Trust Fund established under section 9509 of Title 26, Internal Revenue Code, with that Fund to assume all liability incurred by the Offshore Oil Pollution Compensation Fund, see section 2004 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
+Amounts remaining in the Offshore Oil Pollution Compensation Fund established under former section 1812 of this title to be deposited in the Oil Spill Liability Trust Fund established under section 9509 of Title 26, Internal Revenue Code, with that Fund to assume all liability incurred by the Offshore Oil Pollution Compensation Fund, see section 2004 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 

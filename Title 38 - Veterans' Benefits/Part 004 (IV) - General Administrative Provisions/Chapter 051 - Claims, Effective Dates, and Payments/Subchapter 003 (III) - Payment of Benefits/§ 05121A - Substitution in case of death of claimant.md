@@ -16,5 +16,5 @@ Limitation.—Those who are eligible to make a claim under this section shall be
 
 #### Effective Date
 
-Pub. L. 110–389, title II, §212(c), Oct. 10, 2008, 122 Stat. 4151, provided that: "Section 5121A of title 38, United States Code, as added by subsection (a), shall apply with respect to the claim of any claimant who dies on or after the date of the enactment of this Act \[Oct. 10, 2008\]."
+Pub. L. 110–389, title II, §212(c), Oct. 10, 2008, 122 Stat. 4151, provided that: "Section 5121A of title 38, United States Code, as added by subsection (a), shall applywith respect to the claim of any claimant who dies on or after the date of the enactment of this Act \[Oct. 10, 2008\]."
 

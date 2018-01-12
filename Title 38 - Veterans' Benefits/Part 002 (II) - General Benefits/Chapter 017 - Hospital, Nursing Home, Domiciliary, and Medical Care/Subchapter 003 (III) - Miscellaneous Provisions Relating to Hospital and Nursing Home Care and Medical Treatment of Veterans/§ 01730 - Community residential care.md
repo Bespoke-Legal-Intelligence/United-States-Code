@@ -40,7 +40,7 @@
 
 (2) The Secretary shall make the standards prescribed in regulations under subsection (d) of this section available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting community residential-care facilities.
 
-(f) For the purpose of this section, the term "community residential-care facility" means a facility that provides room and board and such limited personal care for and supervision of residents as the Secretary determines, in accordance with regulations prescribed under this section, are necessary for the health, safety, and welfare of residents.
+(f) For the purpose of this section, the term "community residential-care facility" means a facility that provides room and board and suchlimited personal care for and supervision of residents as the Secretary determines, in accordance with regulations prescribed under this section, are necessary for the health, safety, and welfare of residents.
 
 (Added Pub. L. 98–160, title I, §104(a), Nov. 21, 1983, 97 Stat. 996, §630; amended Pub. L. 102–54, §14(b)(15), June 13, 1991, 105 Stat. 284; renumbered §1730 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

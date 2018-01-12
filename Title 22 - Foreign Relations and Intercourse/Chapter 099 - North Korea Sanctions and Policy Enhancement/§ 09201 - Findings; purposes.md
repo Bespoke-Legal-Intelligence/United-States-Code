@@ -26,7 +26,7 @@ Congress finds the following:
 
 &emsp;(4) North Korea has—
 
-&emsp;&emsp;(A) unilaterally withdrawn from the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the "Korean War Armistice Agreement"); and
+&emsp;&emsp;(A) unilaterally withdrawn from the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953\(commonly referred to as the "Korean War Armistice Agreement"); and
 
 &emsp;&emsp;(B) committed provocations against South Korea—
 
@@ -99,6 +99,10 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 #### Effective Date
 
 Pub. L. 114–122, title IV, §406, Feb. 18, 2016, 130 Stat. 116, provided that: "Except as otherwise provided in this Act, this Act \[see Short Title note below\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Feb. 18, 2016\]."
+
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–44, title III, §301, Aug. 2, 2017, 131 Stat. 940, provided that: "This title \[enacting sections 9221a, 9225, 9241a, 9241b of this title and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing section 9225 of this title, and enacting provisions set out as notes under sections 9202, 9214, and 9241 of this title\] may be cited as the 'Korean Interdiction and Modernization of Sanctions Act'."
 
 #### Short Title
 

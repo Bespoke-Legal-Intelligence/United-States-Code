@@ -38,7 +38,7 @@ Prior to the approval of any application for assistance under this subchapter, t
 
 #### (e) Regulations respecting matching requirements; waiver, etc.
 
-The Secretary, in cooperation with the Chairman, shall prescribe regulations which require that specific portions of the cost of any projects assisted under this subchapter shall be provided from sources other than funds made available under this subchapter. Such matching requirements may vary depending on the type of applicant, and the Secretary may reduce or waivesuch requirements solely in order to take account of the financial capacity of the applicant.
+The Secretary, in cooperation with the Chairman, shall prescribe regulations which require that specific portions of the cost of any projects assisted under this subchapter shall be provided from sources other than funds made available under this subchapter. Such matching requirements may vary depending on the type of applicant, and the Secretary may reduce or waive such requirements solely in order to take account of the financial capacity of the applicant.
 
 #### (f) Certification of application
 

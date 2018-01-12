@@ -14,9 +14,9 @@ As used in this subchapter:
 
 &emsp;(6) The term "State" means any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States.
 
-&emsp;(7) The term "utility regulatory commission" means any State agency or Federalagency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
+&emsp;(7) The term "utility regulatory commission" means any State agency or Federal agency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
 
-(Pub. L. 94–385, title II, §202, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 105–388, §5(b)(2), Nov. 13, 1998, 112 Stat. 3479.)
+(Pub. L. 94–385, title II, §202, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–617, title I, §143, Nov. 9,1978, 92 Stat. 3134; Pub. L. 105–388, §5(b)(2), Nov. 13, 1998, 112 Stat. 3479.)
 
 #### Amendments
 

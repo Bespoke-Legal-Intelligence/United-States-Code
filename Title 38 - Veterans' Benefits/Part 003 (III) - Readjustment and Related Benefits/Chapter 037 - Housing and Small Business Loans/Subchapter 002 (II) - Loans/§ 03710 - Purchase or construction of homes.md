@@ -8,7 +8,7 @@
 
 &emsp;(3) To construct on land owned by the veteran a farm residence to be occupied by the veteran as the veteran's home.
 
-&emsp;(4) To repair, alter, or improve a farm residence or other dwelling owned by the veteran and occupied by the veteran as the veteran's home.
+&emsp;(4) To repair, alter, or improve a farm residence or other dwelling owned by the veteranand occupied by the veteran as the veteran's home.
 
 &emsp;(5) To refinance existing mortgage loans or other liens which are secured of record on a dwelling or farm residence owned and occupied by the veteran as the veteran's home.
 
@@ -46,7 +46,7 @@
 
 &emsp;(5) except in the case of a loan described in clause (7) or (8) of this subsection, the loan to be paid by the veteran for such property or for the cost of construction, repairs, or alterations, does not exceed the reasonable value thereof as determined pursuant to section 3731 of this title;
 
-&emsp;(6) if the loan is for repair, alteration, or improvement of property, such repair, alteration,or improvement substantially protects or improves the basic livability or utility of such property;
+&emsp;(6) if the loan is for repair, alteration, or improvement of property, such repair, alteration, or improvement substantially protects or improves the basic livability or utility of such property;
 
 &emsp;(7) in the case of a loan (other than a loan made for a purpose specified in subsection (a)(8) of this section) that is made to refinance—
 
@@ -66,7 +66,7 @@
 
 \[(c) Repealed. Pub. L. 100–198, §3(a)(2), Dec. 21, 1987, 101 Stat. 1315.\]
 
-(d)(1) The Secretary shall carry out a program to demonstrate the feasibility of guaranteeing loans for the acquisition of an existing dwelling and the cost of making energy efficiency improvements to the dwelling or for energy efficiency improvements to a dwelling owned and occupied by a veteran. A loan may be guaranteed under this subsection only if it meets the requirements of this chapter, except as those requirements are modified by this subsection.
+(d)(1) The Secretary shall carry out a program to demonstrate the feasibility of guaranteeing loans for the acquisition of an existing dwelling and the cost of making energy efficiency improvements to the dwelling or for energy efficiency improvements to a dwelling owned and occupied by a veteran. A loan may be guaranteed under this subsection only if it meets therequirements of this chapter, except as those requirements are modified by this subsection.
 
 (2) The cost of energy efficiency measures that may be financed by a loan guaranteed under this section may not exceed the greater of—
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(ii) must have previously occupied such dwelling or residence as such veteran's home and must certify, in such form as the Secretary shall require, that the veteran has previously so occupied such dwelling or residence; or
 
-&emsp;&emsp;(iii) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy such residence or dwelling as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, such dwelling or residence as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
+&emsp;&emsp;(iii) in any case in which a veteran is in active duty status as a member of the ArmedForces and is unable to occupy such residence or dwelling as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, such dwelling or residence as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
 (2) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (8) of subsection (a) of this section without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
@@ -184,7 +184,7 @@
 
 (3) When applying the term "value of the property" to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L.101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
 
 #### References in Text
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, except that amendment by 
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretaryunder such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 

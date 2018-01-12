@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
-&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
+&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rightsof the residents with respect to the appointment and activities of guardians and representative payees), of—
 
 &emsp;&emsp;&emsp;&emsp;(I) providers, or representatives of providers, of long-term care services;
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) provide services to assist the residents in protecting the health, safety, welfare, and rights of the residents;
 
-&emsp;&emsp;(C) inform the residents about means of obtaining services provided by providers oragencies described in subparagraph (A)(ii) or services described in subparagraph (B);
+&emsp;&emsp;(C) inform the residents about means of obtaining services provided by providers or agencies described in subparagraph (A)(ii) or services described in subparagraph (B);
 
 &emsp;&emsp;(D) ensure that the residents have regular, timely, private, and unimpeded access to the services provided through the Office and that the residents and complainants receive timely responses from representatives of the Office to complaints;
 
@@ -178,7 +178,7 @@ The State agency shall establish a statewide uniform reporting system to—
 
 #### (1) In general
 
-&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c) of this section.
+&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c).
 
 #### (2) Identity of complainant or resident
 
@@ -268,7 +268,7 @@ In planning and operating the program, the State agency shall consider the views
 
 &emsp;&emsp;&emsp;&emsp;(I) remove the conflict; or
 
-&emsp;&emsp;&emsp;&emsp;(II) submit, and obtain the approval of the Assistant Secretary for, an adequate remedial plan that indicates how the Ombudsman will be unencumbered in fulfilling all of the functions specified in subsection (a)(3).
+&emsp;&emsp;&emsp;&emsp;(II) submit, and obtain the approval of the Assistant Secretary for, an adequate remedial plan that indicates how theOmbudsman will be unencumbered in fulfilling all of the functions specified in subsection (a)(3).
 
 #### (g) Legal counsel
 
@@ -278,7 +278,7 @@ The State agency shall ensure that—
 
 &emsp;&emsp;(i) provide advice and consultation needed to protect the health, safety, welfare, and rights of residents; and
 
-&emsp;&emsp;(ii) assist the Ombudsman and representatives of the Office in the performance of theofficial duties of the Ombudsman and representatives; and
+&emsp;&emsp;(ii) assist the Ombudsman and representatives of the Office in the performance of the official duties of the Ombudsman and representatives; and
 
 &emsp;(B) legal representation is provided to any representative of the Office against whom suit or other legal action is brought or threatened to be brought in connection with the performance of the official duties of the Ombudsman or such a representative; and
 
@@ -292,7 +292,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(A) describing the activities carried out by the Office in the year for which the report is prepared;
 
-&emsp;&emsp;(B) containing and analyzing the data collected under subsection (c) of this section;
+&emsp;&emsp;(B) containing and analyzing the data collected under subsection (c);
 
 &emsp;&emsp;(C) evaluating the problems experienced by, and the complaints made by or on behalf of, residents;
 
@@ -334,7 +334,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(C) specify an annual number of hours of in-service training for all designated representatives;
 
-&emsp;(6) prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
+&emsp;(6) prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) unless the representative—
 
 &emsp;&emsp;(A) has received the training required under paragraph (5); and
 
@@ -440,7 +440,7 @@ Pub. L. 114–144, §8(c)(6)(C), redesignated par. (9) as (10).
 
 Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted "and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves" after "interest".
 
-Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted "strengthen and update" for "(A) not later than 1 year after September 30, 1992, establish" in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out "and" at end, and struck out former subpar. (B) which read as follows: "require implementation of the procedures not later than 21 months after September 30, 1992;". Amendment was executed to reflect the probable intent of Congress notwithstanding error in directory language misquoting original text to be struck out, which had been translated as reference to September 30, 1992.
+Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted "strengthen and update" for "(A) not later than 1 year after September 30, 1992, establish" in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl.\(iii) of former subpar. (A) as subpar. (C) and struck out "and" at end, and struck out former subpar. (B) which read as follows: "require implementation of the procedures not later than 21 months after September 30, 1992;". Amendment was executed to reflect the probable intent of Congress notwithstanding error in directory language misquoting original text to be struck out, which had been translated as reference to September 30, 1992.
 
 Subsec. (h)(6)(A). Pub. L. 106–402 substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part A of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001 et seq.)".
 
@@ -451,6 +451,12 @@ Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and re
 Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted "Director of the Office of Long-Term Care Ombudsman Programs" for "Associate Commissioner for Ombudsman Programs".
 
 Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted "Assistant Secretary" for "Commissioner".
+
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -6,7 +6,7 @@ Required Coordination and Sharing of Health Care Resources.—The Secretary of V
 
 (b)
 
-Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of thetwo Departments, the two Secretaries shall carry out the following functions:
+Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
 
 &emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31.
 
@@ -104,7 +104,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(4) The term "health-care resource" includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term "primary beneficiary" (A) with respect to the Department means a person who is eligible under this title (other than undersection 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term "primary beneficiary" (A) with respect to the Department means a person who is eligible under this title (other than under section 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term "providing Department" means the Department of Veterans Affairs, in the case of care or services furnished by a facility of the Department of Veterans Affairs, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
@@ -162,7 +162,7 @@ Subsec. (e)(1). Pub. L. 108–136, §583(b)(2)(C), substituted "Department of Ve
 
 Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for thesharing of health-care resources between the two Departments.
+"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
 
 "(C) Any recommendation made under subsection (c)(4) during such fiscal year."
 
@@ -217,6 +217,10 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
 #### Guidelines for Combined Medical Facilities of the Department of Defense and the Department of Veterans Affairs
 
@@ -420,7 +424,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
 
-&emsp;"(1) the head of a Department of Veterans Affairs medical facility may enter into agreements under section 8111(d) of that title with (A) the head of a Department of Defense medical facility, (B) with any other official of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility, or (C) with a contractor of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility; and
+&emsp;"(1) the head of a Department of Veterans Affairs medical facility may enter into agreements under section 8111(d) of that title with (A) the head of a Department of Defense medical facility, (B) with anyother official of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility, or (C) with a contractor of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility; and
 
 &emsp;"(2) the term 'primary beneficiary' shall be treated as including—
 

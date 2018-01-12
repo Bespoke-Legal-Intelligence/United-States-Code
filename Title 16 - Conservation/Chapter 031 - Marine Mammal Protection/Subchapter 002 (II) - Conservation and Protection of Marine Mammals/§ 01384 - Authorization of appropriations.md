@@ -32,3 +32,7 @@ Subsec. (b). Pub. L. 95–316, §3(2), added reference to sections 1379 and 1380
 
 Subsec. (b). Pub. L. 95–136, §2(2), inserted ", and not to exceed $850,000 for the fiscal year ending September 30, 1978" after "thereafter".
 
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
+

@@ -12,7 +12,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;(A) to award subgrants, from allocations under section 6824 of this title, to eligible entities to carry out the activities described in section 6825 of this title (other than subsection (e)); and
 
-&emsp;&emsp;(B) to award subgrants under section 6824(d)(1) of this title to eligible entities that are described in that section to carry out the activities described in section 6825(e) of this title.
+&emsp;&emsp;(B) to award subgrants under section 6824(d)(1) of this title to eligible entities thatare described in that section to carry out the activities described in section 6825(e) of this title.
 
 #### (2) State activities
 
@@ -132,7 +132,7 @@ Subsec. (c)(1). Pub. L. 114–95, §3003(b)(2)(A)(i), substituted "section 6801"
 
 Subsec. (c)(1)(B). Pub. L. 114–95, §3003(b)(2)(A)(ii), inserted "and" after semicolon at end.
 
-Subsec. (c)(1)(C). Pub. L. 114–95, §3003(b)(2)(A)(iii), added subpar. (C) and struck out former subpar. (C)which read as follows: "6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title; and".
+Subsec. (c)(1)(C). Pub. L. 114–95, §3003(b)(2)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: "6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title; and".
 
 Subsec. (c)(1)(D). Pub. L. 114–95, §3003(b)(2)(A)(iv), struck out subpar. (D) which read as follows: "such sums as may be necessary to make continuation awards under paragraph (2)."
 

@@ -2,7 +2,7 @@
 
 Section 941, acts July 9, 1952, ch. 608, pt. II, §217, 66 Stat. 486; July 30, 1956, ch. 789, §4(a), 70 Stat. 729, related to qualifications for appointments and enlistments in the Reserves. See sections 12102, 12201, and 12204 of Title 10, Armed Forces. Act July 30, 1956, ch. 789, §4(a), 70 Stat. 729, was repealed by Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.
 
-Section 942, act July 9, 1952, ch. 608, pt. II, §218, 66 Stat. 487, authorized the President, by and with the advice and consent of the Senate, to make appointments to general or flag officer grade. See section 12203 of Title 10.
+Section 942, act July 9, 1952, ch. 608, pt. II, §218, 66 Stat. 487, authorized the President, by and with the advice and consent of the Senate, to make appointmentsto general or flag officer grade. See section 12203 of Title 10.
 
 Section 943, act July 9, 1952, ch. 608, pt. II, §219, 66 Stat. 487, authorized the President to make appointments in commissioned grades below general or flag officer grades. See section 12203 of Title 10.
 

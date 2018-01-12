@@ -40,7 +40,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 &emsp;(A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
 
-&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action ina court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
+&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
 
 &emsp;(C) if the Administrator has commenced action to impose a penalty pursuant to subsection (a) of this section, or if the Administrator, or the Secretary, has initiated permit revocation or suspension proceedings under subsection (f) of this section; or
 
@@ -72,7 +72,7 @@ No person shall be subject to a civil penalty or to a criminal fine or imprisonm
 
 #### References in Text
 
-Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
+Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
 
 #### Amendments
 
@@ -91,4 +91,8 @@ Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 <b>1988</b>—Subsec. (a). Pub. L. 100–688, §3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
 
 Subsec. (b). Pub. L. 100–688, §3201(d), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date
+
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 

@@ -54,7 +54,7 @@ Another section 514 of act July 1, 1944, was classified to section 290bb–9 of 
 
 Subsec. (a). Pub. L. 114–255, §10003(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Native Alaskan entities and Indian tribes and tribal organizations, for the purpose of providing substance abuse treatment services for children and adolescents."
 
-Subsec. (b)(1). Pub. L. 114–255, §10003(3)(A), added par. (1) and struck out former par. (1) which read as follows: "apply evidenced-based and cost effective methods forthe treatment of substance abuse among children and adolescents;".
+Subsec. (b)(1). Pub. L. 114–255, §10003(3)(A), added par. (1) and struck out former par. (1) which read as follows: "apply evidenced-based and cost effective methods for the treatment of substance abuse among children and adolescents;".
 
 Subsec. (b)(2). Pub. L. 114–255, §10003(3)(B), struck out "treatment" after "provision of" and inserted "substance abuse," after "child welfare,".
 

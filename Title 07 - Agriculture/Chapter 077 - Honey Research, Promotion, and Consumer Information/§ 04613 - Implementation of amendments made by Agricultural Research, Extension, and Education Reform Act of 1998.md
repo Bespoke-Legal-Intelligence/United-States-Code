@@ -2,7 +2,7 @@
 
 #### (a) Issuance of amended order
 
-To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended orderunder section 4603 of this title that reflects those amendments.
+To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
 
 #### (b) Proposal of amended order
 
@@ -26,7 +26,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (2) Eligible voters
 
-&emsp;The Secretary shall conduct the referendum among persons subject to assessment under the order that have been producers, producer-packers, importers, or handlers during the 2-calendar-year period that precedes the referendum, which period shall be considered to be the representative period.
+&emsp;The Secretary shall conduct the referendum among persons subject to assessment underthe order that have been producers, producer-packers, importers, or handlers during the 2-calendar-year period that precedes the referendum, which period shall be considered to be the representative period.
 
 #### (3) Determination of quantity
 

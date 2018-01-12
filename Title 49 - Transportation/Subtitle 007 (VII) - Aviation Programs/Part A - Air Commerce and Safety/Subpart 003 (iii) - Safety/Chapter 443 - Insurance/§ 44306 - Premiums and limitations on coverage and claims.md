@@ -10,7 +10,7 @@ Allowances in Setting Premium Rates for Reinsurance.—In setting premium rates 
 
 (c)
 
-Time Limits.—The Secretary of Transportation may provide insurance and reinsuranceunder this chapter for a period of not more than 1 year. The period may be extended for additional periods of not more than 1 year each only if the President decides, before each additional period, that the continued operation of the aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
+Time Limits.—The Secretary of Transportation may provide insurance and reinsurance under this chapter for a period of not more than 1 year. The period may be extended for additional periods of not more than 1 year each only if the President decides, before each additional period, that the continued operation of the aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
 (d)
 

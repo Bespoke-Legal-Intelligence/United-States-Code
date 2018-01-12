@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) The term "units of general local government" means (A) any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, (B) any combination of units of general local government in one or more States, (C) an Indian tribe, or (D) with respect to lead-based paint poisoning elimination activities in their urban areas, the territories and possessions of the United States.
 
-&emsp;(3)(A) Except as provided in subparagraph (B), the term "lead-based paint" means any paint containing more than five-tenths of 1per centum lead by weight (calculated as lead metal) in the total nonvolatile content of the paint, or the equivalent measure of lead in the dried film of paint already applied, or both.
+&emsp;(3)(A) Except as provided in subparagraph (B), the term "lead-based paint" means any paint containing more than five-tenths of 1 per centum lead by weight (calculated as lead metal) in the total nonvolatile content of the paint, or the equivalent measure of lead in the dried film of paint already applied, or both.
 
 &emsp;(B)(i) The Consumer Product Safety Commission shall, during the six-month period beginning on the date of the enactment of the National Health Promotion and Disease Prevention Act of 1976, determine, on the basis of available data and information and after providing opportunity for an oral hearing and considering recommendations of the Secretary of Health and Human Services (including those of the Centers for Disease Control and Prevention) and of the National Academy of Sciences, whether or not a level of lead in paint which is greater than six one-hundredths of 1 per centum but not in excess of five-tenths of 1 per centum is safe. If the Commission determines, in accordance with the preceding sentence, that another level of lead is safe, the term "lead-based paint" means, with respect to paint which is manufactured after the expiration of the six-month period beginning on the date of the Commission's determination, paint containing by weight (calculated as lead metal) in the total nonvolatile content of the paint more than the level of lead determined by the Commission to be safe or the equivalent measure of lead in the dried film of paint already applied, or both.
 
@@ -16,7 +16,7 @@ As used in this chapter—
 
 #### References in Text
 
-The National Health Promotion and Disease Prevention Act of 1976, referred to in par. (3)(B)(i), probably means Pub. L. 94–317, June 23, 1976, 90 Stat. 695, as amended, which enacted sections 300u to 300u–5 of this title, amended sections 201, 243, 247b, 247c, 264, 300f, 4801, 4831, and 4841 to 4843 of this title, and enacted provisions set out as notes under sections 201, 247b, and 247c of this title. For complete classification of this Act to the Code, see Tables.
+The National Health Promotion and Disease Prevention Act of 1976, referred to in par. (3)(B)(i), probably means Pub. L. 94–317, June 23, 1976, 90 Stat. 695, asamended, which enacted sections 300u to 300u–5 of this title, amended sections 201, 243, 247b, 247c, 264, 300f, 4801, 4831, and 4841 to 4843 of this title, and enacted provisions set out as notes under sections 201, 247b, and 247c of this title. For complete classification of this Act to the Code, see Tables.
 
 Such date of enactment, referred to in par. (3)(B)(ii), probably means the date of approval of Pub. L. 94–317, which was June 23, 1976.
 

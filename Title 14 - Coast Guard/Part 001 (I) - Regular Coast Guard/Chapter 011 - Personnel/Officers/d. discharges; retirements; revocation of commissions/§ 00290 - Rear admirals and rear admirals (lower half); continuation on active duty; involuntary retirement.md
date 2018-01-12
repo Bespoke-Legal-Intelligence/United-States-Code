@@ -6,7 +6,7 @@
 
 (c) The provisions of sections 253, 254, 258, and 260 of this title relating to selection and continuation boards shall to the extent they are not inconsistent with the provisions of this section, apply to boards convened under this section.
 
-(d) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings inrevision and resubmission to the Secretary. After final review the Secretary shall submit the report of the board to the President for approval.
+(d) A board convened under this section shall submit its report to the Secretary. If the boardhas acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After final review the Secretary shall submit the report of the board to the President for approval.
 
 (e) Each officer who is considered but not continued on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on July 1 of the promotion year immediately following the promotion year in which the report of the continuation board convened under this section is approved.
 

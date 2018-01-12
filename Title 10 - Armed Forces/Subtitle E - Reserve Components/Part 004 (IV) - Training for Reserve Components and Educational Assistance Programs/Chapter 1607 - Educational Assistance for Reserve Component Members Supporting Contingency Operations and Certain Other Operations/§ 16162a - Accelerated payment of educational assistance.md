@@ -24,7 +24,7 @@ Amount of Accelerated Payment.—(1) The amount of the accelerated payment of ed
 
 &emsp;(i) In the case of an individual enrolled in a program of education offered on a term, quarter, or semester basis, the tuition and fees charged the individual for the term, quarter, or semester.
 
-&emsp;(ii) In the case of an individual enrolled in a program of education not offered on a term, quarter, or semester basis, the tuition and fees charged the individual for the entire program of education.
+&emsp;(ii) In the case of an individual enrolled in a program of education not offered on a term,quarter, or semester basis, the tuition and fees charged the individual for the entire program of education.
 
 (B) In this subsection, the term "established charges" does not include any fees or payments attributable to the purchase of a vehicle.
 

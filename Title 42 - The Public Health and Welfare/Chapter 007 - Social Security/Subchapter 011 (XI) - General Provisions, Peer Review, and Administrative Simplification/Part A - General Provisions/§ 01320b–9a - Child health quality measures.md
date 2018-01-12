@@ -12,7 +12,7 @@
 
 #### (3) Recommendations and dissemination
 
-&emsp;Based on such existing and identified measures, the Secretary shall publish an initialcore set of child health quality measures that includes (but is not limited to) the following:
+&emsp;Based on such existing and identified measures, the Secretary shall publish an initial core set of child health quality measures that includes (but is not limited to) the following:
 
 &emsp;&emsp;(A) The duration of children's health insurance coverage over a 12-month time period.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(B) expand on existing pediatric quality measures used by public and private health care purchasers and advance the development of such new and emerging quality measures; and
 
-&emsp;&emsp;(C) increase the portfolio of evidence-based, consensus pediatric quality measuresavailable to public and private purchasers of children's health care services, providers, and consumers.
+&emsp;&emsp;(C) increase the portfolio of evidence-based, consensus pediatric quality measures available to public and private purchasers of children's health care services, providers, and consumers.
 
 #### (2) Evidence-based measures
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(C) dental professionals, including pediatric dental professionals;
 
-&emsp;&emsp;(D) health care providers that furnish primary health care to children and families who live in urban and rural medically underserved communities or who are members of distinct population sub-groups at heightened risk for poor health outcomes;
+&emsp;&emsp;(D) health care providers that furnish primary health care to children and familieswho live in urban and rural medically underserved communities or who are members of distinct population sub-groups at heightened risk for poor health outcomes;
 
 &emsp;&emsp;(E) national organizations representing children, including children with disabilities and children with chronic conditions;
 

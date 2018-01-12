@@ -1,0 +1,8 @@
+### §3712h. Transferred
+
+#### Codification
+
+Section 3712h was editorially reclassified as section 10109 of Title 34, Crime Control and Law Enforcement.
+
+Section was formerly classified to section 3712d of this title prior to renumbering by Pub. L. 109–271 and transfer to this section.
+

@@ -10,7 +10,7 @@ The purposes of the corporation are—
 
 &emsp;(4) to aid and encourage the abolition of prejudice, ignorance, and disease;
 
-&emsp;(5) to encourage universal exercise of the voting franchise to the end that there shall beelected and maintained in public office men and women who hold public office as a public trust administered in the best interests of all the people;
+&emsp;(5) to encourage universal exercise of the voting franchise to the end that there shall be elected and maintained in public office men and women who hold public office as a public trust administered in the best interests of all the people;
 
 &emsp;(6) to advocate the development and means by which all Americans may become enlightened and informed citizens and thus participate fully in the functions of our democracy;
 

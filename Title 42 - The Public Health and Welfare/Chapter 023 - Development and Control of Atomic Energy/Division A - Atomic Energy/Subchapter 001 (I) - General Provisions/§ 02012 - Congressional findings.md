@@ -8,7 +8,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (c) The processing and utilization of source, byproduct, and special nuclear material affect interstate and foreign commerce and must be regulated in the national interest.
 
-(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in orderto provide for the common defense and security and to protect the health and safety of the public.
+(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in order to provide for the common defense and security and to protect the health and safety of the public.
 
 (e) Source and special nuclear material, production facilities, and utilization facilities are affected with the public interest, and regulation by the United States of the production and utilization of atomic energy and of the facilities used in connection therewith is necessary in the national interest to assure the common defense and security and to protect the health and safety of the public.
 

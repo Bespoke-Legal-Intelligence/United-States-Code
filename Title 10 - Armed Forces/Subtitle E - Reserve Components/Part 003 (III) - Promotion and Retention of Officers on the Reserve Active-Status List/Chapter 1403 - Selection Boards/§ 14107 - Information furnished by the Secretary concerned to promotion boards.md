@@ -14,7 +14,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 &emsp;(D) A factual summary of the information described in subparagraphs (A), (B), and (C) that, in accordance with the regulations prescribed pursuant to paragraph (1) is prepared by administrative personnel for the purpose of facilitating the work of the selection board.
 
-(3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
+(3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry,shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
 (4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
@@ -26,7 +26,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 &emsp;(B) the information is provided to the later selection board in accordance with paragraph (2) or (3), as applicable.
 
-(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer isfurnished to a selection board, the Secretary of the military department concerned shall ensure—
+(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
 
 &emsp;(i) that such information is made available to such officer; and
 

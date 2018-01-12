@@ -6,7 +6,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (1) Loan fees and opening cost estimates
 
-&emsp;Any loan fee the amount of which is determined as a percentage of the credit limit applicable to an account under the plan and an estimate of the aggregate amount of other feesfor opening the account, based on the creditor's experience with the plan and stated as a single amount or as a reasonable range.
+&emsp;Any loan fee the amount of which is determined as a percentage of the credit limit applicable to an account under the plan and an estimate of the aggregate amount of other fees for opening the account, based on the creditor's experience with the plan and stated as a single amount or as a reasonable range.
 
 #### (2) Periodic rates
 

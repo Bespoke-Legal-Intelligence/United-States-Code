@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "majority U.S. shareholder year" means the taxable year (if any) which, on each testing day, constituted the taxable year of—
+&emsp;&emsp;For purposes of this subsection, the term "majority U.S. shareholder year" means thetaxable year (if any) which, on each testing day, constituted the taxable year of—
 
 &emsp;&emsp;&emsp;(i) each United States shareholder described in subsection (b)(2)(A), and
 

@@ -60,7 +60,7 @@
 
 #### (4) Transshipment described
 
-&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
+&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerningthe country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
 
 #### (5) Monitoring and reports to Congress
 

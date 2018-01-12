@@ -6,7 +6,7 @@ In General.—Except as provided in subsection (b), the Secretary may not place 
 
 (b)
 
-Waiver.—The Secretary may waive the limitation under subsection (a) and extend the administrative leave or other paid non-duty status without charge to leave of a covered individual placed on such leave or status under subsection (a) if the Secretary submits to the Committees on Veterans' Affairs of the Senate and House of Representatives a detailed explanation of the reasons the individual was placed on administrative leave or other paid non-duty status without charge to leave and the reasons for the extension of such leave or status. Such explanation shall include the job title and grade of the covered individual and the location where the individual is employed.
+Waiver.—The Secretary may waive the limitation under subsection (a) and extend theadministrative leave or other paid non-duty status without charge to leave of a covered individual placed on such leave or status under subsection (a) if the Secretary submits to the Committees on Veterans' Affairs of the Senate and House of Representatives a detailed explanation of the reasons the individual was placed on administrative leave or other paid non-duty status without charge to leave and the reasons for the extension of such leave or status. Such explanation shall include the job title and grade of the covered individual and the location where the individual is employed.
 
 (c)
 
@@ -20,7 +20,7 @@ Covered Individual.—In this section, the term "covered individual" means an em
 
 #### Prior Provisions
 
-Prior sections 717 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1917 to 1929, 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.
+Prior sections 717 and 718 were renumbered sections 1917 and 1918 of this title, respectively.
 
 #### Effective Date
 

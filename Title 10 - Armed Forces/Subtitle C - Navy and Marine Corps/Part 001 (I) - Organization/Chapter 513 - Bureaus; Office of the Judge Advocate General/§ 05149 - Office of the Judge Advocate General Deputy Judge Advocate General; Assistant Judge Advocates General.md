@@ -4,15 +4,21 @@
 
 (2) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
+(3) If the Secretary of the Navy elects to convene a selection board under section 611(a) of this title to consider eligible officers for selection to appointment as Deputy Judge Advocate General, the Secretary may, in connection with such consideration for selection—
+
+&emsp;(A) treat any section in chapter 36 of this title referring to promotion to the next higher grade as if such section referred to promotion to a higher grade; and
+
+&emsp;(B) waive section 619(a)(2) of this title if the Secretary determines that the needs of the Navy require the waiver.
+
 (b) An officer of the Judge Advocate General's Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title may be detailed as Assistant Judge Advocate General of the Navy. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of rear admiral (lower half).
 
 (c) A judge advocate of the Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title may be detailed as Assistant Judge Advocate General of the Navy. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of brigadier general.
 
 (d) When there is a vacancy in the Office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
-(e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
+(e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the AssistantJudge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 290; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 290; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, §508(b), Dec. 12, 2017, 131 Stat. 1375.)
 
 Historical and Revision Notes
 
@@ -50,13 +56,15 @@ Changes in phraseology are made to conform to the language used in §5135 of thi
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–91 added par. (3).
+
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §502(gg)(1), struck out ", by and with the advice and consent of the Senate," after "appointed by the President" and struck out second sentence which read as follows: "If an officer appointed as the Deputy Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate."
 
 Subsec. (b). Pub. L. 114–328, §502(gg)(2), struck out second and last sentences which read "While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate." and "If he is retired as a rear admiral (lower half), he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.", respectively.
 
 Subsec. (c). Pub. L. 114–328, §502(gg)(2), struck out second and last sentences which read "While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate." and "If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.", respectively.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck outformer second and third sentences which read as follows: "While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.", and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: "While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.", and added par. (2).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–661, §508(b)(1), substituted "There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General" for "A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title shall be detailed as Deputy Judge Advocate General of the Navy", and struck out "rank and" before "grade of" and struck out "rank or" before "grade under" in second sentence.
 
@@ -111,6 +119,18 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+
+#### Grandfathering of Retired Grade of Assistant Judge Advocates General of the Navy as of Repeal of Statutory Specification of General and Flag Officers Grades in the Armed Forces
+
+Pub. L. 115–91, div. A, title V, §509, Dec. 12, 2017, 131 Stat. 1375, provided that:
+
+"(a)
+
+In General.—Notwithstanding the amendments made by section 502(gg)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2105) \[amending this section\], an officer selected to hold a position specified in subsection (b) as of December 23, 2016, may be retired after that date in the grade of rear admiral (lower half) or brigadier general, as applicable, with the retired pay of such grade (unless entitled to higher pay under another provision of law).
+
+"(b)
+
+Specified Positions.—Subsection (a) applies with respect to the Assistant Judge Advocates General of the Navy provided for by subsections (b) and (c) of section 5149 of title 10, United States Code."
 
 #### Officer Serving as Deputy and Assistant Judge Advocate of the Navy on Dec. 7, 1967;
 

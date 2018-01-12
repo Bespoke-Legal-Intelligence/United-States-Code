@@ -230,7 +230,7 @@ Subsec. (b). Pub. L. 97–66, §204(a), added subsec. (b).
 
 <b>1971</b>—Pub. L. 92–197 substituted "$92", "$133", "$172", and "$172" and "$34" for "$88", "$127", "$164" and "164" and "$32", in pars. (1), (2), (3), and (4). respectively.
 
-<b>1970</b>—Pub. L. 91–262 substituted "$88", "$127", "$164", and "$164" and "$32", for "$80", "$115", "$149", and"$149" and "$29", in pars. (1), (2), (3), and (4), respectively.
+<b>1970</b>—Pub. L. 91–262 substituted "$88", "$127", "$164", and "$164" and "$32", for "$80", "$115", "$149", and "$149" and "$29", in pars. (1), (2), (3), and (4), respectively.
 
 <b>1966</b>—Pub. L. 89–730 substituted "$80", "$115", "$149", and "$29", for "$77", "$110", "$143", and "$143" and "$28", in pars. (1), (2), (3), and (4), respectively.
 

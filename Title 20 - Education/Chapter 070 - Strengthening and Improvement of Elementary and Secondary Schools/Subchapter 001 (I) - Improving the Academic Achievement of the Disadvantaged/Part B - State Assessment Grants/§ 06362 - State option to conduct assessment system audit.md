@@ -58,7 +58,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 #### (2) Resources for local educational agencies
 
-&emsp;In carrying out paragraph (1)(B), each State shall provide local educational agencies withresources, such as guidelines and protocols, to assist in conducting and reporting audit results.
+&emsp;In carrying out paragraph (1)(B), each State shall provide local educational agencies with resources, such as guidelines and protocols, to assist in conducting and reporting audit results.
 
 #### (3) State assessment system description
 
@@ -86,7 +86,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(vi) the amount of time teachers spend on assessment preparation and administration;
 
-&emsp;&emsp;&emsp;(vii) the assessments that administrators, teachers, principals, other school leaders, parents, and students, if appropriate, do and do not find useful; and
+&emsp;&emsp;&emsp;(vii) the assessments that administrators, teachers, principals, other schoolleaders, parents, and students, if appropriate, do and do not find useful; and
 
 &emsp;&emsp;&emsp;(viii) other information as appropriate; and
 

@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) which, to any significant extent, is distributed in commerce for personal use or consumption by individuals;
 
-> &emsp;without regard to whether such article of such type is in fact distributed in commerce forpersonal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption.
+> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption.
 
 &emsp;(2) The term "covered product" means a consumer product of a type specified in section 6292 of this title.
 
@@ -22,7 +22,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) a performance standard which prescribes a minimum level of energy efficiency or a maximum quantity of energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use, for a covered product, determined in accordance with test procedures prescribed under section 6293 of this title; or
 
-&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (19) <sup>1</sup> of section 6292(a) of this title; and
+&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (20) of section 6292(a) of this title; and
 
 > &emsp;includes any other requirements which the Secretary may prescribe under section 6295(r) of this title.
 
@@ -264,9 +264,9 @@ Exclusions.—The term "general service incandescent lamp" does not include the 
 
 &emsp;&emsp;&emsp;(XIX) A vibration service lamp.
 
-&emsp;&emsp;&emsp;(XX) A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 <sup>2</sup> with a diameter of 5 inches or more.
+&emsp;&emsp;&emsp;(XX) A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 <sup>1</sup> with a diameter of 5 inches or more.
 
-&emsp;&emsp;&emsp;(XXI) A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and <sup>3</sup> that uses not more than 40 watts or has a length of more than 10 inches.
+&emsp;&emsp;&emsp;(XXI) A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and <sup>2</sup> that uses not more than 40 watts or has a length of more than 10 inches.
 
 &emsp;&emsp;&emsp;(XXII) A B, BA, CA, F, G16–1/2, G–25, G30, S, or M–14 lamp (as defined in ANSI C79.1–2002 and ANSI C78.20–2003) of 40 watts or less.
 
@@ -524,7 +524,21 @@ External power supply.—
 
 &emsp;&emsp;(A)
 
+External power supply.—
+
+&emsp;&emsp;&emsp;(i)
+
 In general.—The term "external power supply" means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exclusion.—The term "external power supply" does not include a power supply circuit, driver, or device that is designed exclusively to be connected to, and power—
+
+&emsp;&emsp;&emsp;&emsp;(I) light-emitting diodes providing illumination;
+
+&emsp;&emsp;&emsp;&emsp;(II) organic light-emitting diodes providing illumination; or
+
+&emsp;&emsp;&emsp;&emsp;(III) ceiling fans using direct current motors.
 
 &emsp;&emsp;(B)
 
@@ -788,15 +802,17 @@ Starting process.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
 
 #### References in Text
 
 This chapter, referred to in pars. (3) and (59)(C), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-Paragraph (19) of section 6292(a) of this title, referred to in par. (6)(B), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
-
 #### Amendments
+
+<b>2018</b>—Par. (6)(B). Pub. L. 115–115, §2(c)(1), substituted "and (20)" for "and (19)".
+
+Par. (36)(A). Pub. L. 115–115, §2(a), substituted "External power supply" for "In general" in heading, designated existing provisions as cl. (i) and inserted heading, and added cl. (ii).
 
 <b>2012</b>—Par. (30)(C)(ii). Pub. L. 112–210, §10(a)(10), inserted a period after "40 watts or higher".
 
@@ -888,9 +904,7 @@ Pub. L. 110–140, title III, §316(a)(2), Dec. 19, 2007, 121 Stat. 1572, provid
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
-
-<i><sup>3</sup></i><i> So in original. The word "and" probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

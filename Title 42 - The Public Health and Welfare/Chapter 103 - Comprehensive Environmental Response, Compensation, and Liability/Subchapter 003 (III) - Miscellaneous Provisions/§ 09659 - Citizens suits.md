@@ -22,7 +22,7 @@ Except as provided in subsections (d) and (e) of this section and in section 961
 
 #### (c) Relief
 
-The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title), to order such action as may be necessary to correct the violation, and to imposeany civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
+The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
 
 #### (d) Rules applicable to subsection (a)(1) actions
 
@@ -40,7 +40,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 #### (2) Diligent prosecution
 
-&emsp;No action may be commenced under paragraph (1) of subsection (a) if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
+&emsp;No action may be commenced under paragraph (1) of subsection (a) if the President hascommenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
 
 #### (e) Rules applicable to subsection (a)(2) actions
 

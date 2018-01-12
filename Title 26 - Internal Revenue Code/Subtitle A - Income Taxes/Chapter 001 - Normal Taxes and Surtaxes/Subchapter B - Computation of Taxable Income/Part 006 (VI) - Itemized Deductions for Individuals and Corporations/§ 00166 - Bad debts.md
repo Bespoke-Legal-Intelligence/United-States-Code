@@ -114,7 +114,7 @@ Pub. L. 98–369, div. A, title X, §1001(e), July 18, 1984, 98 Stat. 1012, prov
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title VI, §605(c), Oct. 4, 1976, 90 Stat. 1575, provided that: "The amendments made by this section \[amending this section and section 81 of this title\] shall apply to guarantees made after December 31, 1975, in taxable years beginning after such date."
+Pub. L. 94–455, title VI, §605(c), Oct. 4, 1976, 90 Stat. 1575, provided that: "The amendments made by thissection \[amending this section and section 81 of this title\] shall apply to guarantees made after December 31, 1975, in taxable years beginning after such date."
 
 Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 

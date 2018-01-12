@@ -182,7 +182,7 @@
 
 #### (ii) Covered employee
 
-&emsp;&emsp;&emsp;The term "covered employee" means an individual described in section 162(m)(3) oran individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
+&emsp;&emsp;&emsp;The term "covered employee" means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 
@@ -244,6 +244,10 @@ For purposes of this section:
 
 &emsp;Except as provided by the Secretary, rules similar to the rules of subsections (b) and (c) of section 414 shall apply.
 
+#### (7) Treatment of qualified stock
+
+&emsp;An arrangement under which an employee may receive qualified stock (as defined in section 83(i)(2)) shall not be treated as a nonqualified deferred compensation plan with respect to such employee solely because of such employee's election, or ability to make an election, to defer recognition of income under section 83(i).
+
 #### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
@@ -258,7 +262,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100.)
+(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164.)
 
 #### References in Text
 
@@ -272,6 +276,8 @@ A prior section 409A was renumbered section 409 of this title.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (d)(7). Pub. L. 115–97 added par. (7).
+
 <b>2008</b>—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted "to an applicable covered employee" after "under the plan".
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §116(a), added par. (3). Former par. (3) redesignated (4).
@@ -279,6 +285,10 @@ A prior section 409A was renumbered section 409 of this title.
 Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)" wherever appearing.
 
 <b>2005</b>—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out "first" after "requires that the".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -332,7 +342,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Guidance Relating to Conformance With Funding Rules
 
-Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 21, 2005\], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance."
+Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 21,2005\], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance."
 
 #### Guidance Relating to Change of Ownership or Control
 

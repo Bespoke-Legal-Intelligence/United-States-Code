@@ -18,7 +18,7 @@ Selection.—In the selection of applicants for participation in a program cover
 
 (d)
 
-Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary ofHomeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
+Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
 
 (2) No grant with respect to an eligible member or former member may exceed a total of $50,000.
 
@@ -38,7 +38,7 @@ Requirement for Appropriation.—No person may be selected to participate in the
 
 Authority To Expand Placement To Include Firefighters.—(1) The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
 
-(2) The expansion authorized by this subsection may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
+(2) The expansion authorized by this subsection may be made through a program coveredby an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
 
 (3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 

@@ -2,7 +2,7 @@
 
 (a) Any amount of insurance under this subchapter in force on any member or former member on the date of the insured's death shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date of the insured's death, in the following order of precedence:
 
-First, to the beneficiary or beneficiaries as the member or former member may have designated by a writing received prior to death (1) in the uniformed services if insured under Servicemembers' Group Life Insurance, or (2) in the administrative office established under section 1966(b) of this title if separated or released from service, or if assigned to the Retired Reserve, and insured under Servicemembers' Group Life Insurance, or if insured under Veterans' Group Life Insurance;
+First, to the beneficiary or beneficiaries as the member or former member may have designatedby a writing received prior to death (1) in the uniformed services if insured under Servicemembers' Group Life Insurance, or (2) in the administrative office established under section 1966(b) of this title if separated or released from service, or if assigned to the Retired Reserve, and insured under Servicemembers' Group Life Insurance, or if insured under Veterans' Group Life Insurance;
 
 Second, if there be no such beneficiary, to the widow or widower of such member or former member;
 
@@ -22,7 +22,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (e) Until and unless otherwise changed, a beneficiary designation and settlement option filed by a member with the member's uniformed service under prior provisions of law will be effective with respect to the increased insurance authorized under the Veterans' Insurance Act of 1974 and the insurance shall be settled in the same proportionate amount as the portion designated for such beneficiary or beneficiaries bore to the amount of insurance heretofore in effect.
 
-(f) Notwithstanding the provisions of any other law, payment of matured Servicemembers'Group Life Insurance or Veterans' Group Life Insurance benefits may be made directly to a minor widow or widower on his or her own behalf, and payment in such case shall be a complete acquittance to the insurer.
+(f) Notwithstanding the provisions of any other law, payment of matured Servicemembers' Group Life Insurance or Veterans' Group Life Insurance benefits may be made directly to a minor widow or widower on his or her own behalf, and payment in such case shall be a complete acquittance to the insurer.
 
 (g) Any payments due or to become due under Servicemembers' Group Life Insurance or Veterans' Group Life Insurance made to, or on account of, an insured or a beneficiary shall be exempt from taxation, shall be exempt from the claims of creditors, and shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before or after receipt by the beneficiary. The preceding sentence shall not apply to (1) collection of amounts not deducted from the member's pay, or collected from him by the Secretary concerned under section 1969(a) of this title, (2) levy under subchapter D of chapter 64 of the Internal Revenue Code of 1986 (26 U.S.C. 6331 et seq.) (relating to the seizure of property for collection of taxes), and (3) the taxation of any property purchased in part or wholly out of such payments.
 
@@ -34,7 +34,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 #### References in Text
 
-Veterans' Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–289, May 24, 1974, 88 Stat. 165, as amended, which enacted sections 777, 778, and 779 \[now 1977, 1978, and 1979\] of this title, section 707 of Title 37, Pay and Allowances of the Uniformed Services, amended sections 723, 765, 767 to 771, and 774 \[now 1923, 1965, 1967 to 1971, and 1974\] of this title, and enacted provisions set out as notes under sections 723, 765, 767, and 768 \[now 1923, 1965, 1967, and 1968\] of this title and section 707 of Title 37. For complete classification of this Act to the Code, see Tables.
+Veterans' Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–289, May 24, 1974, 88 Stat. 165, as amended, which enacted sections 777, 778, and 779 \[now 1977, 1978, and 1979\] of this title, section 707 of Title 37, Pay and Allowances of the Uniformed Services, amended sections 723, 765, 767 to 771, and 774 \[now 1923, 1965, 1967 to 1971, and 1974\] of this title, and enacted provisions set out as notes under sections 723, 765, 767, and768 \[now 1923, 1965, 1967, and 1968\] of this title and section 707 of Title 37. For complete classification of this Act to the Code, see Tables.
 
 Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in subsec. (g)(3), is classified to subchapter D (§6331 et seq.) of chapter 64 of Title 26, Internal Revenue Code.
 

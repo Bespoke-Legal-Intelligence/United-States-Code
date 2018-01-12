@@ -12,7 +12,7 @@ In the case of a facility at which equipment for the recovery or processing (inc
 
 #### (b) Exceptions
 
-Subsection (a) does not apply with respect to a release or threatened release of a hazardoussubstance from a facility described in subsection (a) if either of the following circumstances exist:
+Subsection (a) does not apply with respect to a release or threatened release of a hazardous substance from a facility described in subsection (a) if either of the following circumstances exist:
 
 &emsp;(1) The release or threatened release was primarily caused by activities of the owner or operator of the equipment described in subsection (a).
 

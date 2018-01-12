@@ -30,7 +30,7 @@
 
 #### (4) Compliance assurance
 
-&emsp;Whenever a seller or lessor has entered into a contract with an agent for the purpose ofselling or leasing a unit of target housing, the regulations promulgated under this section shall require the agent, on behalf of the seller or lessor, to ensure compliance with the requirements of this section.
+&emsp;Whenever a seller or lessor has entered into a contract with an agent for the purpose of selling or leasing a unit of target housing, the regulations promulgated under this section shall require the agent, on behalf of the seller or lessor, to ensure compliance with the requirements of this section.
 
 #### (5) Promulgation
 
@@ -56,7 +56,7 @@
 
 #### (5) Prohibited act
 
-&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
+&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under theToxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
 
 #### (c) Validity of contracts and liens
 

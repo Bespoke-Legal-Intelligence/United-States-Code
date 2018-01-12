@@ -18,7 +18,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;(3)(A) charge such interest on loans, and provide for such a schedule of repayments of loans, as will, upon the timely repayment of the loans, provide adequate and timely funds for the payment of principal and interest on the bonds; and
 
-&emsp;(B) require that any payment on a loan expected to be necessary to make a payment ofprincipal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
+&emsp;(B) require that any payment on a loan expected to be necessary to make a payment of principal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
 
 &emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on the basis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
 
@@ -56,7 +56,7 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 &emsp;(3) The Secretary shall create a letter of credit authorizing the Department of the Treasury to disburse funds to the designated bonding authority or its assignee.
 
-&emsp;(4) The letter of credit shall be drawn upon in the amount determined by paragraph (5) of this subsection upon the certification of the designated bonding authority to the Secretary or the Secretary's designee that there is a delinquency on 1 or more loans and there are insufficient funds available from loan repayments and the escrow account to make a scheduled payment of principal and interest on the bonds.
+&emsp;(4) The letter of credit shall be drawn upon in the amount determined by paragraph (5) of this subsection upon the certification of the designated bonding authority to the Secretary or the Secretary's designee that there is a delinquency on 1 or more loans and there are insufficient funds available from loan repayments and the escrow account to make ascheduled payment of principal and interest on the bonds.
 
 &emsp;(5) Upon receipt by the Secretary or the Secretary's designee of the certification described in paragraph (4) of this subsection, the designated bonding authority may draw a funding under the letter of credit in an amount equal to—
 

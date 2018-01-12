@@ -20,7 +20,7 @@ Except as provided in subsection (b), no deduction shall be allowed under this c
 
 #### (2) Dispositions before close of amortization period
 
-&emsp;In any case in which a partnership is liquidated before the end of the period to whichparagraph (1)(B) applies, any deferred expenses attributable to the partnership which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
+&emsp;In any case in which a partnership is liquidated before the end of the period to which paragraph (1)(B) applies, any deferred expenses attributable to the partnership which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
 
 #### (3) Organizational expenses defined
 

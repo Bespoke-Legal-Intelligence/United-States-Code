@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the head of an authority; or
 
-&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgatedby the head of the authority, to act on behalf of the head of the authority;
+&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
 
 &emsp;(3) "claim" means any request, demand, or submission—
 
@@ -178,7 +178,7 @@ Findings.—The Congress finds that—
 
 Purposes.—The purposes of this subtitle \[see Short Title note above\] are—
 
-&emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
+&emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims andstatements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
 
 &emsp;"(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements."
 

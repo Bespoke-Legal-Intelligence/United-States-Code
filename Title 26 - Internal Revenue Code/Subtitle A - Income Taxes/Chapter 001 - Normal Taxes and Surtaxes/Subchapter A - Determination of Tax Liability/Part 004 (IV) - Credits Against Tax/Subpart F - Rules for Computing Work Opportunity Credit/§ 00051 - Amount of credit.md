@@ -36,7 +36,7 @@ For purposes of this subpart—
 
 #### (B) Reduction for work supplementation payments to employers
 
-&emsp;&emsp;The amount of wages which would (but for this subparagraph) be qualified wages under this section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section 482(e) <sup>1</sup> of the Social Security Act.
+&emsp;&emsp;The amount of wages which would (but for this subparagraph) be qualified wages underthis section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section 482(e) <sup>1</sup> of the Social Security Act.
 
 #### (3) Payments for services during labor disputes
 

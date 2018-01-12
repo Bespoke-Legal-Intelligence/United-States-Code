@@ -18,7 +18,7 @@ Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295 substituted "section 315(b)(1)(A)" for "section 320(b)(1)(A)".
 
-<b>1976</b>—Pub. L. 94–283 substituted "limitations" for "limitation" in section catchline, designated existing provisions as subsec. (a), inserted "Expenditure limitations" as heading of subsec. (a) as so redesignated andsubstituted "section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000" for "section 608(c)(1)(A) of title 18, United States Code", and added subsec. (b).
+<b>1976</b>—Pub. L. 94–283 substituted "limitations" for "limitation" in section catchline, designated existing provisions as subsec. (a), inserted "Expenditure limitations" as heading of subsec. (a) as so redesignated and substituted "section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000" for "section 608(c)(1)(A) of title 18, United States Code", and added subsec. (b).
 
 #### Effective Date of 1976 Amendment
 

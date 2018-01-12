@@ -1,0 +1,6 @@
+### §14043b. Transferred
+
+#### Codification
+
+Section 14043b was editorially reclassified as section 12441 of Title 34, Crime Control and Law Enforcement.
+

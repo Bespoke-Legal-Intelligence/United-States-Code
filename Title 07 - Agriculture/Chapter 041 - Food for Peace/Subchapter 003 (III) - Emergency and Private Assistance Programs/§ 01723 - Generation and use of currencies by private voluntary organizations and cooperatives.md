@@ -2,7 +2,7 @@
 
 #### (a) Local sale and barter of commodities
 
-An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in 1 or more recipient countries, or 1 or more countries in the same region, of the commodities to be provided under such agreement.
+An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative underthis subchapter may provide for the sale or barter in 1 or more recipient countries, or 1 or more countries in the same region, of the commodities to be provided under such agreement.
 
 #### (b) Minimum level of local sales
 

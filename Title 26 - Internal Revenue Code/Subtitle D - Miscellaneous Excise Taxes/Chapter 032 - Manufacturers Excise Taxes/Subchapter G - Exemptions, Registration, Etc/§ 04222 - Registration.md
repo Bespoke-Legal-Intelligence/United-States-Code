@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L.97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -130,7 +130,7 @@ Pub. L. 95–618, title II, §231(g), Nov. 9, 1978, 92 Stat. 3189, provided that
 
 &emsp;"(D) a chattel mortgage arrangement providing that the sale price shall be paid in installments,
 
-> entered into on or before the date of the enactment of this Act \[Nov. 9, 1978\], payments made after such date with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to that portion of the tax applicable with respect to the lease or sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall be treated as payments made in respect of an article sold on or before the date of the enactment of this Act."
+> entered into on or before the date of the enactment of this Act \[Nov. 9, 1978\], payments made after such date with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to that portion of the tax applicable with respect to the lease or sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall betreated as payments made in respect of an article sold on or before the date of the enactment of this Act."
 
 Amendment by Pub. L. 95–600 effective on first day of first calendar month beginning more than 20 days after Nov. 6, 1978, see section 701(ff)(3) of Pub. L. 95–600, set out as a note under section 4221 of this title.
 

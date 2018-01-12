@@ -24,7 +24,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
 
 &emsp;(11) to encourage fair wages and safe and suitable working conditions in the railroad industry;
 
-&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of marketpower, and to prohibit unlawful discrimination;
+&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of market power, and to prohibit unlawful discrimination;
 
 &emsp;(13) to ensure the availability of accurate cost information in regulatory proceedings, while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
 
@@ -64,7 +64,7 @@ Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: "This Act 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: "This Act \[see Tables for classification\] may be cited as the 'Surface Freight Forwarder Deregulation Act of 1986'."
+Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: "This Act \[see Tables for classification\] may becited as the 'Surface Freight Forwarder Deregulation Act of 1986'."
 
 #### Short Title of 1982 Amendment
 

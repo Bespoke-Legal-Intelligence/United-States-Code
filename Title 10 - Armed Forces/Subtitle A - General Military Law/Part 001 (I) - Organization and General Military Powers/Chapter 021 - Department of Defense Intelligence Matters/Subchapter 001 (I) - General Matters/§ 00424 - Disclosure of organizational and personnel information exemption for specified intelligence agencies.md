@@ -44,7 +44,7 @@ Pub. L. 103–359, title V, §503, Oct. 14, 1994, 108 Stat. 3430, provided that:
 
 "(a)
 
-In General.—Notwithstanding section 552a(e)(3) of title 5, United States Code, intelligence personnel of the Department of Defense who are authorized by the Secretary of Defense to collect intelligence from human sources shall not be required, when making an initial assessment contact outside the United States, to give notice of governmental affiliation to potential sources who are United States persons.
+In General.—Notwithstanding section 552a(e)(3) of title 5, United States Code, intelligence personnel of the Department of Defense who are authorized by the Secretary of Defense to collect intelligence fromhuman sources shall not be required, when making an initial assessment contact outside the United States, to give notice of governmental affiliation to potential sources who are United States persons.
 
 "(b)
 

@@ -38,7 +38,7 @@ In a criminal proceeding under this section, an alien may not challenge the vali
 
 &emsp;(3) the entry of the order was fundamentally unfair.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §276, 66 Stat. 229; Pub. L. 100–690, title VII, §7345(a), Nov. 18, 1988, 102 Stat. 4471; Pub. L. 101–649, title V, §543(b)(3), Nov. 29, 1990, 104 Stat. 5059; Pub. L.103–322, title XIII, §130001(b), Sept. 13, 1994, 108 Stat. 2023; Pub. L. 104–132, title IV, §§401(c), 438(b), 441(a), Apr. 24, 1996, 110 Stat. 1267, 1276, 1279; Pub. L. 104–208, div. C, title III, §§305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), Sept. 30, 1996, 110 Stat. 3009–606, 3009–618 to 3009–620, 3009–629.)
+(June 27, 1952, ch. 477, title II, ch. 8, §276, 66 Stat. 229; Pub. L. 100–690, title VII, §7345(a), Nov. 18, 1988, 102 Stat. 4471; Pub. L. 101–649, title V, §543(b)(3), Nov. 29, 1990, 104 Stat. 5059; Pub. L. 103–322, title XIII, §130001(b), Sept. 13, 1994, 108 Stat. 2023; Pub. L. 104–132, title IV, §§401(c), 438(b), 441(a), Apr. 24, 1996, 110 Stat. 1267, 1276, 1279; Pub. L. 104–208, div. C, title III, §§305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), Sept. 30, 1996, 110 Stat. 3009–606, 3009–618 to 3009–620, 3009–629.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
 Amendment by sections 305(b) and 308(d)(4)(J), (e)(1)(K), (14)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date."
+Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\],but only with respect to entries (and attempted entries) occurring on or after such date."
 
 Pub. L. 104–132, title IV, §401(f), Apr. 24, 1996, 110 Stat. 1268, provided that: "The amendments made by this section \[enacting sections 1531 to 1537 of this title and amending this section and section 1105a of this title\] shall take effect on the date of enactment of this Act \[Apr. 24, 1996\] and shall apply to all aliens without regard to the date of entry or attempted entry into the United States."
 

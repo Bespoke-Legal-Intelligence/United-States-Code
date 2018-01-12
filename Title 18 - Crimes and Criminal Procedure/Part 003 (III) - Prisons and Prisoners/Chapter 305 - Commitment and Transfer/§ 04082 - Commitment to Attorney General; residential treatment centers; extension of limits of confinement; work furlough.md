@@ -52,7 +52,7 @@ This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for
 
 "(c) The Attorney General may extend the limits of the place of confinement of a prisoner as to whom there is reasonable cause to believe he will honor his trust, by authorizing him, under prescribed conditions, to—
 
-&emsp;"(1) visit a specifically designated place or places for a period not to exceed thirty days and return to the same or another institution or facility. An extension of limits may be granted to permit a visit to a dying relative, attendance at the funeral of a relative, the obtaining of medical services not otherwise available, the contacting of prospective employers, the establishment or reestablishment of family and community ties or for any other significant reason consistent with the public interest; or
+&emsp;"(1) visit a specifically designated place or places for a period not to exceed thirty days and return to the same or another institution or facility. An extension of limits may be granted to permit a visit to a dying relative, attendance at the funeral of a relative, the obtaining of medical services not otherwiseavailable, the contacting of prospective employers, the establishment or reestablishment of family and community ties or for any other significant reason consistent with the public interest; or
 
 &emsp;"(2) work at paid employment or participate in a training program in the community on a voluntary basis while continuing as a prisoner of the institution or facility to which he is committed, provided that—
 
@@ -62,7 +62,7 @@ This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for
 
 &emsp;&emsp;"(iii) the rates of pay and other conditions of employment will not be less than those paid or provided for work of similar nature in the locality in which the work is to be performed.
 
-> &emsp;A prisoner authorized to work at paid employment in the community under this subsection may be required to pay, and the Attorney General is authorized to collect, such costs incident to the prisoner's confinement as the Attorney General deems appropriate and reasonable. Collections shall be deposited in theTreasury of the United States as miscellaneous receipts.
+> &emsp;A prisoner authorized to work at paid employment in the community under this subsection may be required to pay, and the Attorney General is authorized to collect, such costs incident to the prisoner's confinement as the Attorney General deems appropriate and reasonable. Collections shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 "(e) The authority conferred upon the Attorney General by this section shall extend to all persons committed to the National Training School for Boys."
 

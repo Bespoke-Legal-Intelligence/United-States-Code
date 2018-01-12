@@ -64,7 +64,7 @@ Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated sect
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, substituting present provisions for provisions which defined the terms "Magnuson Act" in par. (1), "Atlantic striped bass" in par. (2), "coastal waters" in par. (3), "coastal State" in par. (4), "Commission" in par. (5), "fishing" in par. (6), "Plan" in par. (7), "Secretary" in par. (8), and "Secretaries" in par. (9).
+<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, substituting present provisions for provisions which defined the terms "Magnuson Act" inpar. (1), "Atlantic striped bass" in par. (2), "coastal waters" in par. (3), "coastal State" in par. (4), "Commission" in par. (5), "fishing" in par. (6), "Plan" in par. (7), "Secretary" in par. (8), and "Secretaries" in par. (9).
 
 <b>1996</b>—Par. (1). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 

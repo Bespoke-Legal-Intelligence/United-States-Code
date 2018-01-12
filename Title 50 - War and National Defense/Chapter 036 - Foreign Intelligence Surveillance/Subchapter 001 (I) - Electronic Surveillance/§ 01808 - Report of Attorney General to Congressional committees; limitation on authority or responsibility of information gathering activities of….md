@@ -8,7 +8,7 @@
 
 &emsp;(B) each criminal case in which information acquired under this chapter has been authorized for use at trial during the period covered by such report;
 
-&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number ofsubsequent orders approving or denying such electronic surveillance; and
+&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number of subsequent orders approving or denying such electronic surveillance; and
 
 &emsp;(D) the total number of authorizations under section 1805(f) of this title and the total number of subsequent emergency employments of electronic surveillance under section 1805(e) of this title or emergency physical searches pursuant to section 301(e).<sup>1</sup>
 

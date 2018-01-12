@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use, or distribution of a controlled substance (as defined in section 802(6) of this title) shall not be eligible for—
+An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use,or distribution of a controlled substance (as defined in section 802(6) of this title) shall not be eligible for—
 
 &emsp;(1) assistance under any State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or
 
@@ -12,7 +12,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (1) Program of temporary assistance for needy families
 
-&emsp;The amount of assistance otherwise required to be provided under a State program fundedunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
+&emsp;The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
 #### (2) Benefits under the Food and Nutrition Act of 2008
 

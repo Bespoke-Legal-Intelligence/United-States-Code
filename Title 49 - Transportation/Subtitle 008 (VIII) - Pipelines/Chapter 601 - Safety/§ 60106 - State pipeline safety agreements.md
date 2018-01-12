@@ -14,7 +14,7 @@ Agreements With Certification.—
 
 &emsp;(1)
 
-In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involvingincidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
+In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
 
 &emsp;(2)
 
@@ -84,7 +84,7 @@ Mandatory termination of agreement.—The Secretary shall end an agreement for t
 
 &emsp;(3)
 
-Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
+Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective forat least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 
 (f)
 

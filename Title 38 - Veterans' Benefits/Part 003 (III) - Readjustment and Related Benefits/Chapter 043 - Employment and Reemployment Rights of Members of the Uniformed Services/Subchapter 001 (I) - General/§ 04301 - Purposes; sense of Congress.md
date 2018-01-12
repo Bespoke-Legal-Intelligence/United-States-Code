@@ -4,7 +4,7 @@
 
 &emsp;(1) to encourage noncareer service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
 
-&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service; and
+&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment ofsuch persons upon their completion of such service; and
 
 &emsp;(3) to prohibit discrimination against persons because of their service in the uniformed services.
 
@@ -76,7 +76,7 @@ Previous Actions.—Except as otherwise provided, the amendments made by this Ac
 
 "(g)
 
-Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b)(2) of title 38, United States Code, as added by the amendments made by this Act, applies only to the rights and benefits provided in section 4316(b)(1)(B) and does not apply to any other right or benefit of a person under chapter 43 of title 38, United States Code. Such section shall apply only to persons who leave a position of employment for service in the uniformed services more than 60 days after the date of enactment of this Act \[Oct. 13, 1994\].
+Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b)(2) of title 38, United States Code, as added by the amendments madeby this Act, applies only to the rights and benefits provided in section 4316(b)(1)(B) and does not apply to any other right or benefit of a person under chapter 43 of title 38, United States Code. Such section shall apply only to persons who leave a position of employment for service in the uniformed services more than 60 days after the date of enactment of this Act \[Oct. 13, 1994\].
 
 "(h)
 
@@ -118,7 +118,7 @@ In general.—Under the demonstration project, the Secretary—
 
 &emsp;&emsp;"(A) shall refer to the Office of Special Counsel all claims described in paragraph (2) made during the period of the demonstration project; and
 
-&emsp;&emsp;"(B) may refer any claim described in paragraph (2) filed before the demonstration project that ispending before the Secretary at the beginning of the demonstration project.
+&emsp;&emsp;"(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
 
 &emsp;"(2)
 
@@ -204,7 +204,7 @@ The Federal Government, as our Nation's largest employer, has a responsibility t
 
 As a critical part of that effort, I am directing executive departments and agencies (agencies) to take steps to ensure robust compliance with USERRA's employment and reemployment protections across the Federal Government through outreach, education, and oversight. Ensuring agencies' compliance with USERRA across the Federal Government will maintain our commitment to those who serve.
 
-This effort will build upon, and be in furtherance of, Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), which directed agencies to take steps to enhance recruitment of and promote employment opportunities for veterans withinthe executive branch. Over the last few years, the Federal Government has made a concerted and successful effort to increase the hiring of military veterans and members of the National Guard and Reserves, and veterans now constitute a higher percentage of the Federal workforce than they have in years.
+This effort will build upon, and be in furtherance of, Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), which directed agencies to take steps to enhance recruitment of and promote employment opportunities for veterans within the executive branch. Over the last few years, the Federal Government has made a concerted and successful effort to increase the hiring of military veterans and members of the National Guard and Reserves, and veterans now constitute a higher percentage of the Federal workforce than they have in years.
 
 The Federal Government must continue to improve outreach to the uniformed services, veteran, Guard, and Reserve communities; improve agencies' USERRA training and guidance; and ensure that service members and veterans in Federal employment receive the full extent of their employment protections, including USERRA protections. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 

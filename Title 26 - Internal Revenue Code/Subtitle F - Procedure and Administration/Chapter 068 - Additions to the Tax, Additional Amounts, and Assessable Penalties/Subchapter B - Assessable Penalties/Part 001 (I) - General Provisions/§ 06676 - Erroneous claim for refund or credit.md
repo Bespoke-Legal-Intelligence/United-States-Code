@@ -2,7 +2,7 @@
 
 #### (a) Civil penalty
 
-If a claim for refund or credit with respect to income tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penaltyin an amount equal to 20 percent of the excessive amount.
+If a claim for refund or credit with respect to income tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
 
 #### (b) Excessive amount
 

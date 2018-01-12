@@ -4,3 +4,7 @@ This chapter shall not impair or affect the ability of a government officer or e
 
 (Pub. L. 96–440, title I, §105, Oct. 13, 1980, 94 Stat. 1880.)
 
+#### Effective Date
+
+Section effective Jan. 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the section is effective one year from Oct. 13, 1980, see section 108 of Pub. L. 96–440, set out as a note under section 2000aa of this title.
+

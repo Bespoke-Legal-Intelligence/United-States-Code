@@ -18,7 +18,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;&emsp;(I) <sup>1</sup> 75 percent of such amounts among—
 
-&emsp;&emsp;&emsp;&emsp;(I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
+&emsp;&emsp;&emsp;&emsp;(I) cities that are the most populous unit of general local government in ametropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
 
 &emsp;&emsp;&emsp;&emsp;(II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
 
@@ -42,7 +42,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;A grantee that received an allocation in fiscal year 2016 shall continue to be eligible for allocations under paragraph (1) in subsequent fiscal years, subject to—
 
-&emsp;&emsp;&emsp;(I) <sup>1</sup> the amounts available from appropriations Acts under section 12912 of this title;
+&emsp;&emsp;&emsp;(i) the amounts available from appropriations Acts under section 12912 of this title;
 
 &emsp;&emsp;&emsp;(ii) approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of this title; <sup>2</sup> and
 
@@ -58,7 +58,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 #### (D) Adjustment to grants
 
-&emsp;&emsp;For each of fiscal years 2017, 2018, 2019, 2020, and 2021, the Secretary shall ensure that a grantee that received an allocation in the prior fiscal year does not receive an allocation that is 5 percent less than or 10 percent greater than the amount allocated to such grantee in the preceding fiscal year.
+&emsp;&emsp;For each of fiscal years 2017, 2018, 2019, 2020, and 2021, with respect to a grantee that received an allocation in the prior fiscal year, the Secretary shall ensure that the grantee's share of total formula funds available for allocation does not decrease more than 5 percent nor gain more than 10 percent of the share of the total available formula funds that the grantee received in the preceding fiscal year.
 
 #### (3) Alternative grantees
 
@@ -68,7 +68,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;&emsp;(I) <sup>1</sup> the grantee submits to the Secretary a written agreement between the grantee and the alternative grantee that describes how the alternative grantee will take actions consistent with the applicable comprehensive housing affordability strategy approved under section 12705 of this title; <sup>2</sup>
 
-&emsp;&emsp;&emsp;(ii) the Secretary approves the written agreement described in clause (I) andagrees to award funds to the alternative grantee; and
+&emsp;&emsp;&emsp;(ii) the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
 
 &emsp;&emsp;&emsp;(iii) the written agreement does not exceed a term of 10 years.
 
@@ -92,7 +92,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;(B) For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
 
-&emsp;&emsp;(C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
+&emsp;&emsp;(C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B),the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
 
 #### (5) Nonformula allocation
 
@@ -136,13 +136,17 @@ In addition to the other requirements of this section, to be eligible for a gran
 
 In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1), a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
 
-(Pub. L. 101–625, title VIII, §854, Nov. 28, 1990, 104 Stat. 4376; Pub. L. 102–550, title VI, §606(d), (j)(2),Oct. 28, 1992, 106 Stat. 3807, 3810; Pub. L. 114–201, title VII, §701(a), July 29, 2016, 130 Stat. 812.)
+(Pub. L. 101–625, title VIII, §854, Nov. 28, 1990, 104 Stat. 4376; Pub. L. 102–550, title VI, §606(d), (j)(2), Oct. 28, 1992, 106 Stat. 3807, 3810; Pub. L. 114–201, title VII, §701(a), July 29, 2016, 130 Stat. 812; Pub. L. 115–31, div. K, title II, §203, May 5, 2017, 131 Stat. 779.)
 
 #### References in Text
 
 Section 12705 of this title, referred to in subsec. (c)(2)(A)(ii), (3)(A)(I), was in the original "section 105" or "section 105 of this Act", meaning section 105 of the AIDS Housing Opportunity Act, and was translated as meaning section 105 of the Cranston-Gonzalez National Affordable Housing Act, to reflect the probable intent of Congress. The AIDS Housing Opportunity Act does not contain a section 105.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(A)(i). Pub. L. 115–31, §203(1), redesignated subcl. (I) as cl. (i).
+
+Subsec. (c)(2)(D). Pub. L. 115–31, §203(2), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2017, 2018, 2019, 2020, and 2021, the Secretary shall ensure that a grantee that received an allocation in the prior fiscal year does not receive an allocation that is 5 percent less than or 10 percent greater than the amount allocated to such grantee in the preceding fiscal year."
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–201 added pars. (1) to (4), redesignated former par. (3) as (5), and struck out former pars. (1) and (2) which related to formula allocation and minimum grant, respectively.
 
@@ -152,7 +156,7 @@ Subsec. (b). Pub. L. 102–550, §606(d)(2), added subsec. (b) and struck out fo
 
 Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with section 12705 of this title. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts."
 
-Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: "
+Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows:"
 
 In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 

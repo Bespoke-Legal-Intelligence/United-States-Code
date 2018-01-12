@@ -28,7 +28,7 @@ The Secretary, acting through the Director of NIH, shall establish guidelines fo
 
 &emsp;(B) keep appropriate records of reviews conducted under subparagraph (A); and
 
-&emsp;(C) for each review conducted under subparagraph (A), file with the Director of NIH at least annually (i) a certification that the review has been conducted, and (ii) reports of any violations of guidelines established undersubsection (a) or assurances required under paragraph (1) which were observed in such review and which have continued after notice by the committee to the research entity involved of the violations.
+&emsp;(C) for each review conducted under subparagraph (A), file with the Director of NIH at least annually (i) a certification that the review has been conducted, and (ii) reports of any violations of guidelines established under subsection (a) or assurances required under paragraph (1) which were observed in such review and which have continued after notice by the committee to the research entity involved of the violations.
 
 > Reports filed under subparagraph (C) shall include any minority views filed by members of the committee.
 

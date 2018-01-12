@@ -1,6 +1,6 @@
 ### §1344. Passenger carrier use
 
-(a)(1) Funds available to a Federal agency, by appropriation or otherwise, may be expended by the Federal agency for the maintenance, operation, or repair of any passenger carrier only to the extent that such carrier is used to provide transportation for official purposes. Notwithstanding any other provision of law, transporting any individual other than the individuals listed in subsections (b) and (c) of this section between such individual's residence and such individual's place of employment is not transportation for an official purpose.
+(a)(1) Funds available to a Federal agency, by appropriation or otherwise, may be expended bythe Federal agency for the maintenance, operation, or repair of any passenger carrier only to the extent that such carrier is used to provide transportation for official purposes. Notwithstanding any other provision of law, transporting any individual other than the individuals listed in subsections (b) and (c) of this section between such individual's residence and such individual's place of employment is not transportation for an official purpose.
 
 (2) For purposes of paragraph (1), transportation between the residence of an officer or employee and various locations that is—
 
@@ -48,7 +48,7 @@
 
 (3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
-(4) Notification of each designation or determination made under subsection (b)(1), (3)(B), and (9) of this section and under paragraph (2) of this subsection, including the name and title of the officer or employee affected, the reason for any determination under subsection (b)(9), and the expected duration of any authorization under subsection (b)(9), shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
+(4) Notification of each designation or determination made under subsection (b)(1), (3)(B),and (9) of this section and under paragraph (2) of this subsection, including the name and title of the officer or employee affected, the reason for any determination under subsection (b)(9), and the expected duration of any authorization under subsection (b)(9), shall be transmitted promptly to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
 
 (e)(1) Not later than March 15, 1987, the Administrator of General Services, after consultation with the Comptroller General, the Director of the Office of Management and Budget, and the Director of the Administrative Office of the United States Courts, shall promulgate regulations governing the heads of all Federal agencies in making the determinations authorized by subsections (a)(2)(A), (b)(9), and (d)(2) of this section. Such regulations shall specify that the comfort and convenience of an officer or employee is not sufficient justification for authorizations of transportation under this section.
 
@@ -110,7 +110,7 @@
 
 (i) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, §5(h)(4), Jan. 4, 2011, 124 Stat. 3849.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26;Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, §5(h)(4), Jan. 4, 2011, 124 Stat. 3849.)
 
 Historical and Revision Notes
 
@@ -160,7 +160,7 @@ Subsecs. (g) to (i). Pub. L. 109–59, §3049(b)(1), added subsec. (g) and redes
 
 <b>2004</b>—Subsec. (b)(6). Pub. L. 108–447 inserted "Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives" after "Federal Bureau of Investigation,".
 
-<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: "theDirector of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;".
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: "the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;".
 
 <b>1996</b>—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: "the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;".
 

@@ -30,7 +30,7 @@
 
 #### (F) Nature of appointment
 
-&emsp;&emsp;Appointments and reappointments under this subsection shall be made on the basis of ability and experience as it relates to the mission of the National Institutes of Health and its components, including compliance with any legal requirement that the Secretary or Director of National Institutes of Health determines relevant.
+&emsp;&emsp;Appointments and reappointments under this subsection shall be made on the basis ofability and experience as it relates to the mission of the National Institutes of Health and its components, including compliance with any legal requirement that the Secretary or Director of National Institutes of Health determines relevant.
 
 #### (3) Nonapplication of certain provision
 
@@ -118,7 +118,7 @@ In carrying out subsection (b), each Director of a national research institute�
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amendedPub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063.)
 
 #### References in Text
 

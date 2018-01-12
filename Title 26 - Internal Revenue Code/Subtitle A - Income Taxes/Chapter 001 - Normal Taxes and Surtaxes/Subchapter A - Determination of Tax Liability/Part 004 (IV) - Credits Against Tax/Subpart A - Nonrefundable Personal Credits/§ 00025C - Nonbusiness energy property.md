@@ -16,7 +16,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (2) Windows
 
-&emsp;In the case of amounts paid or incurred for components described in subsection (c)(2)(B) <sup>1</sup> by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+&emsp;In the case of amounts paid or incurred for components described in subsection (c)(2)(B) <sup>1</sup>by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
 
 #### (3) Limitation on residential energy property expenditures
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;The term "energy-efficient building property" means—
 
-&emsp;&emsp;(A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
+&emsp;&emsp;(A) an electric heat pump water heater which yields an energy factor of at least 2.0in the standard Department of Energy test procedure,
 
 &emsp;&emsp;(B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009.<sup>2</sup>
 

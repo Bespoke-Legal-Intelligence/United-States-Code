@@ -1,0 +1,6 @@
+### §3762a. Transferred
+
+#### Codification
+
+Section 3762a was editorially reclassified as section 10171 of Title 34, Crime Control and Law Enforcement.
+

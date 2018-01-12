@@ -10,7 +10,7 @@
 
 &emsp;Under the program established under this section, the Commissioner shall—
 
-&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contractsto provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title, and other programs that are designed to encourage disabled beneficiaries to work;
+&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contracts to provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title, and other programs that are designed to encourage disabled beneficiaries to work;
 
 &emsp;&emsp;(B) conduct directly, or through grants, cooperative agreements, or contracts, ongoing outreach efforts to disabled beneficiaries (and to the families of such beneficiaries) who are potentially eligible to participate in Federal or State work incentive programs that are designed to assist disabled beneficiaries to work, including—
 
@@ -34,7 +34,7 @@
 
 #### (3) Coordination with other programs
 
-&emsp;The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programs that provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under section 1382h of this title, the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)), a one-stop delivery system established under section 3151(e) of title 29, and other services.
+&emsp;The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programsthat provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under section 1382h of this title, the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)), a one-stop delivery system established under section 3151(e) of title 29, and other services.
 
 #### (b) Conditions
 
@@ -68,7 +68,7 @@
 
 #### (2) Services provided
 
-&emsp;A recipient of a grant, cooperative agreement, or contract to provide benefits planningand assistance shall select individuals who will act as planners and provide information, guidance, and planning to disabled beneficiaries on the—
+&emsp;A recipient of a grant, cooperative agreement, or contract to provide benefits planning and assistance shall select individuals who will act as planners and provide information, guidance, and planning to disabled beneficiaries on the—
 
 &emsp;&emsp;(A) availability and interrelation of any Federal or State work incentives programs designed to assist disabled beneficiaries that the individual may be eligible to participate in;
 
@@ -100,7 +100,7 @@
 
 #### (B) Carryover
 
-&emsp;&emsp;An amount not in excess of 10 percent of the total amount obligated through a grant, cooperative agreement, or contract awarded under this section for a fiscal year to a State or a private agency or organization shall remain available for obligation to such State or private agency or organization until the end of the succeeding fiscal year. Any such amount remaining available for obligation during such succeeding fiscal year shall be available for providing benefits planning and assistance only for individuals who are within the caseload of the recipient of the grant, agreement, or contract as of immediately before the beginning of such fiscal year.
+&emsp;&emsp;An amount not in excess of 10 percent of the total amount obligated through a grant,cooperative agreement, or contract awarded under this section for a fiscal year to a State or a private agency or organization shall remain available for obligation to such State or private agency or organization until the end of the succeeding fiscal year. Any such amount remaining available for obligation during such succeeding fiscal year shall be available for providing benefits planning and assistance only for individuals who are within the caseload of the recipient of the grant, agreement, or contract as of immediately before the beginning of such fiscal year.
 
 #### (c) Annual report
 
@@ -146,7 +146,7 @@ Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(3). Pub. L. 113–128 substituted "a one-stop delivery system established under section3151(e) of title 29" for "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)".
+<b>2014</b>—Subsec. (a)(3). Pub. L. 113–128 substituted "a one-stop delivery system established under section 3151(e) of title 29" for "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)".
 
 <b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted "Funding" for "Allocation of costs" in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) into the causes, prevention, and treatment of mental illness.
 
-&emsp;(5) The capability to evaluate effectively the activities of the center, including activities relating to the evaluation of specific efforts to improve the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
+&emsp;(5) The capability to evaluate effectively the activities of the center, including activitiesrelating to the evaluation of specific efforts to improve the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
 
 (e)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health to carry out their responsibilities under this section, the official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of centers under this section.
 
@@ -70,7 +70,7 @@
 
 (g) The Under Secretary for Health shall ensure that at least three centers designated under this section emphasize research into means of improving the quality of care for veterans suffering from mental illness through the development of community-based alternatives to institutional treatment for such illness.
 
-(h) The Under Secretary for Health shall ensure that information produced by the research,education and training, and clinical activities of centers established under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration. Such dissemination shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
+(h) The Under Secretary for Health shall ensure that information produced by the research, education and training, and clinical activities of centers established under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration. Such dissemination shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
 
 (i) The official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall be responsible for supervising the operation of the centers established pursuant to this section and shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 

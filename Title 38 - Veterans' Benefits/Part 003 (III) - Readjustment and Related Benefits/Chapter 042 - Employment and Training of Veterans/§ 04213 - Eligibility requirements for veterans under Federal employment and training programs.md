@@ -40,7 +40,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is 
 
 <b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(C)\], struck out "the Job Training Partnership Act or" after "program carried out under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted "program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998," for "program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),".
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted "program carried out under the Job Training Partnership Act or title I of the Workforce InvestmentAct of 1998," for "program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),".
 
 <b>1994</b>—Pub. L. 103–446, §702(b)(3), substituted "eligibility under" for "the needs or qualifications of participants in".
 

@@ -93,6 +93,7 @@
 | [1869\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001869%20-%20Advance%20payments.md) | Advance payments. |
 | [1870\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md) | House Historic Buildings Revitalization Trust Fund. |
 | [1871\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%27%20Compensation%20Fund.md) | Expired appropriations available for deposit into Employees' Compensation Fund. |
+| [1872\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001872%20-%20Use%20of%20expired%20funds%20for%20unemployment%20compensation%20payments.md) | Use of expired funds for unemployment compensation payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

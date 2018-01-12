@@ -48,7 +48,7 @@ Elements of Baselines.—Each acquisition baseline required by subsection (a) fo
 
 &emsp;(3) A cost estimate, including—
 
-&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, militaryconstruction, operations and sustainment, and disposal;
+&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, military construction, operations and sustainment, and disposal;
 
 &emsp;&emsp;(B) program acquisition unit costs for the program element;
 

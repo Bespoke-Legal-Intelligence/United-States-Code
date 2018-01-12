@@ -42,7 +42,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 (B) The office established by subsection (b) is authorized to expend or obligate funds from the Fund for the purposes enumerated in clauses (i) and (ii) of paragraph (2)(A) until October 1, 2004.
 
-(6) The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall bedeposited in the general fund of the Treasury of the United States.
+(6) The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
 
 (Pub. L. 96–70, title I, §1305, as added Pub. L. 102–484, div. C, title XXXV, §3521(a), Oct. 23, 1992, 106 Stat. 2656; amended Pub. L. 106–65, div. C, title XXXV, §3504(a), Oct. 5, 1999, 113 Stat. 975.)
 

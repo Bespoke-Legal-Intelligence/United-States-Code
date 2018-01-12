@@ -12,7 +12,7 @@
 
 (b) The Chief of Staff, while so serving, has the grade of general without vacating his permanent grade.
 
-(c) Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Chiefof Staff performs his duties under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary.
+(c) Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Chief of Staff performs his duties under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary.
 
 (d) Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff shall—
 
@@ -32,7 +32,7 @@
 
 (2) To the extent that such action does not impair the independence of the Chief of Staff in the performance of his duties as a member of the Joint Chiefs of Staff, the Chief of Staff shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Air Force.
 
-(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
+(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Air Force fully informed of significant military operationsaffecting the duties and responsibilities of the Secretary.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 492, §8034; Pub. L. 85–599, §4(d), (e), Aug. 6, 1958, 72 Stat. 517; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §403, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §504(2), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 97–22, §10(b)(9), July 10, 1981, 95 Stat. 137; renumbered §8033 and amended Pub. L. 99–433, title V, §522(c), Oct. 1, 1986, 100 Stat. 1061; Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(D), title XVI, §1652(a)(3), Nov. 25, 2015, 129 Stat. 880, 1122.)
 
@@ -112,7 +112,7 @@ Pub. L. 114–92, §802(d)(4)(D), substituted "sections 171 and 2547" for "secti
 
 "(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
-"(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of theSecretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
+"(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of the Secretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
 
 "(d) The Chief of Staff shall—
 

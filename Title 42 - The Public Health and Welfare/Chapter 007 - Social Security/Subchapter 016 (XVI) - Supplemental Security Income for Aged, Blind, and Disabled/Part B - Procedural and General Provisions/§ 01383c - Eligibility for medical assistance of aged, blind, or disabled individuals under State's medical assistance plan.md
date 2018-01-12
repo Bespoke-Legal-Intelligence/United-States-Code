@@ -22,7 +22,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 (3) This subsection shall only apply to an individual who files a written application for protection under this subsection, in such manner and form as the Commissioner of Social Security may prescribe, no later than July 1, 1988.
 
-(4) For purposes of this subsection, the term "benefits under this subchapter" includes payments of the type described in section 1382e(a) ofthis title or of the type described in section 212(a) of Public Law 93–66.
+(4) For purposes of this subsection, the term "benefits under this subchapter" includes payments of the type described in section 1382e(a) of this title or of the type described in section 212(a) of Public Law 93–66.
 
 #### (c) Loss of benefits upon entitlement to child's insurance benefits based on disability
 

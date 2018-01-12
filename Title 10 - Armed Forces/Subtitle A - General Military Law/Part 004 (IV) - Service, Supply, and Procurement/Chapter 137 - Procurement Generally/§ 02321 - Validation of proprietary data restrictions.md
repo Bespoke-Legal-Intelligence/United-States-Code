@@ -64,7 +64,7 @@ Time for Contractors to Submit Justifications.—If a contractor or subcontracto
 
 Presumption of Development Exclusively at Private Expense.—(1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
-(2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor for a major system or a subsystem or component thereof on the basis that the major weapon system, subsystem, or component was developed exclusively at private expense—
+(2) In the case of a challenge to a use or release restriction that is asserted with respect totechnical data of a contractor or subcontractor for a major system or a subsystem or component thereof on the basis that the major weapon system, subsystem, or component was developed exclusively at private expense—
 
 &emsp;(A) the presumption in paragraph (1) shall apply—
 
@@ -122,7 +122,7 @@ Another section 2321 of this title was contained in chapter 138 and was renumber
 
 <b>2014</b>—Subsec. (f)(2). Pub. L. 113–291 substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))".
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81, §815(b)(1)(A), substituted "A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period" for "Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period" in introductory provisions.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81, §815(b)(1)(A), substituted "A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period" for "Except as provided in subparagraph (C), a challenge to an asserteduse or release restriction may not be made under paragraph (1) after the end of the three-year period" in introductory provisions.
 
 Pub. L. 111–383, §824(c)(1), substituted "Except as provided in subparagraph (C), a challenge" for "A challenge" in introductory provisions.
 

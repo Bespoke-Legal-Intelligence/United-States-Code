@@ -70,7 +70,7 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 #### (B) Emergency situations
 
-&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of a partially filled prescription for a controlled substance in schedule II—
+&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of apartially filled prescription for a controlled substance in schedule II—
 
 &emsp;&emsp;&emsp;(i) may be filled; and
 
@@ -97,6 +97,10 @@ Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Construction of 2016 Amendment
 

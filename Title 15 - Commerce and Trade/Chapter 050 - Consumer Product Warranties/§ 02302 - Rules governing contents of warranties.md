@@ -32,7 +32,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 #### (b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract; electronic display of terms of warranty
 
-(1)(A) The Commission shall prescribe rules requiring that the terms of any written warrantyon a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
+(1)(A) The Commission shall prescribe rules requiring that the terms of any written warranty on a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
 
 (B) The Commission may prescribe rules for determining the manner and form in which information with respect to any written warranty of a consumer product shall be clearly and conspicuously presented or displayed so as not to mislead the reasonable, average consumer, when such information is contained in advertising, labeling, point-of-sale material, or other representations in writing.
 
@@ -50,7 +50,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;&emsp;(II) the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
 
-(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
+(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, orthrough door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 
@@ -96,5 +96,5 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 "(2)
 
-Authority to waive requirement for oral presentation.—In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (15 U.S.C. 2309(a)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere withthe ability of the Commission to revise rules under paragraph (1) in a timely manner."
+Authority to waive requirement for oral presentation.—In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (15 U.S.C. 2309(a)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere with the ability of the Commission to revise rules under paragraph (1) in a timely manner."
 

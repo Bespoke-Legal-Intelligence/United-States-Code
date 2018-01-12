@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) the duration and terms of the lease justify payment of the expenses by the Government.
 
-(b) The 90-day period under subsection (a)(1)(A) and the 30-day period under subsection\(a)(1)(B) may each be extended for not more than 60 additional days if the head of the agency concerned or his designee determines that there are compelling reasons beyond the control of the employee for the continued occupancy of temporary quarters.
+(b) The 90-day period under subsection (a)(1)(A) and the 30-day period under subsection (a)(1)(B) may each be extended for not morethan 60 additional days if the head of the agency concerned or his designee determines that there are compelling reasons beyond the control of the employee for the continued occupancy of temporary quarters.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 97–258, §3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 102–138, title I, §147(d), Oct. 28, 1991, 105 Stat. 669.)
 

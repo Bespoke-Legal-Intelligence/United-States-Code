@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary determines that food manufactured, processed, packed, received, or held by a facility registered under this section has a reasonable probability of causing serious adverse health consequences or death to humans or animals, the Secretary may by order suspend the registration of a facility—
+&emsp;If the Secretary determines that food manufactured, processed, packed, received, or heldby a facility registered under this section has a reasonable probability of causing serious adverse health consequences or death to humans or animals, the Secretary may by order suspend the registration of a facility—
 
 &emsp;&emsp;(A) that created, caused, or was otherwise responsible for such reasonable probability; or
 
@@ -144,7 +144,7 @@ In general.—Not later than 9 months after the date of enactment of this Act \[
 
 &emsp;"(B)
 
-Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term 'facility' under such section 415. Nothing in this Act\[see Short Title note set out under section 2201 of this title\] authorizes the Secretary to modify the definition of the term 'facility' under such section.
+Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term 'facility' under such section 415. Nothing in this Act \[see Short Title note set out under section 2201 of this title\] authorizes the Secretary to modify the definition of the term 'facility' under such section.
 
 &emsp;"(C)
 
@@ -188,7 +188,7 @@ Nothing in amendments by Pub. L. 111–353 to be construed to alter jurisdiction
 
 #### Small Entity Compliance Policy Guide
 
-Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided that: "Not later than 180 days after the issuance of the regulations promulgated under section 415(b)(5) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d(b)(5)\] (as added by this section), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such regulations to assist small entities in complying with registration requirements and other activities required under such section."
+Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided that: "Not later than 180 days after theissuance of the regulations promulgated under section 415(b)(5) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d(b)(5)\] (as added by this section), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such regulations to assist small entities in complying with registration requirements and other activities required under such section."
 
 #### Electronic Filing
 

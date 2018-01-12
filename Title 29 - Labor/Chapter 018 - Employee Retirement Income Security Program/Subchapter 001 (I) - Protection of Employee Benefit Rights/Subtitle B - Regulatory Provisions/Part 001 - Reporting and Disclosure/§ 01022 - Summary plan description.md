@@ -14,7 +14,7 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–3 substituted ", the remedies" for "and the remedies" and inserted ", and if the employer so elects for purposes of complying with section 1181(f)(3)(B)(i) of this title, the model notice applicable to the State in which the participants and beneficiaries reside" before the period at end.
+<b>2009</b>—Subsec. (b). Pub. L. 111–3 substituted ", the remedies" for "and the remedies" and inserted ", andif the employer so elects for purposes of complying with section 1181(f)(3)(B)(i) of this title, the model notice applicable to the State in which the participants and beneficiaries reside" before the period at end.
 
 <b>1997</b>—Pub. L. 105–34, §1503(b)(2)(B), substituted "Summary plan description" for "Plan description and summary plan description" in section catchline.
 

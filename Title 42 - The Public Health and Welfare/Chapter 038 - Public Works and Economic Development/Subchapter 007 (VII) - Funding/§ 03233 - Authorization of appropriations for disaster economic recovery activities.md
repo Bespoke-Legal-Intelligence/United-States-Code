@@ -6,7 +6,7 @@ In addition to amounts made available under section 3231 of this title, there ar
 
 #### (b) Federal share
 
-The Federal share of the cost of activities funded with amounts made available under subsection (a) of this section shall be up to 100 percent.
+The Federal share of the cost of activities funded with amounts made available under subsection (a) shall be up to 100 percent.
 
 (Pub. L. 89–136, title VII, §703, as added Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617.)
 
@@ -15,4 +15,8 @@ The Federal share of the cost of activities funded with amounts made available u
 A prior section 3233, Pub. L. 89–136, title VIII, §803, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 161, authorized provision of funds for recovery investment plans, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617.
 
 A prior section 703 of Pub. L. 89–136 was classified to section 3213 of this title prior to repeal by Pub. L. 105–393, §102(b)(3).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

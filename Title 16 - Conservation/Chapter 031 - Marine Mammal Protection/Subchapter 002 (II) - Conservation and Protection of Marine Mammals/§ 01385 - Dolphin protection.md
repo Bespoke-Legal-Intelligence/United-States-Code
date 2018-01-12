@@ -46,7 +46,7 @@ For purposes of this section—
 
 (2) For purposes of paragraph (1)(C), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets is dolphin safe if—
 
-&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with theInternational Dolphin Conservation Program, is not capable of deploying its purse seine nets on or to encircle dolphins; or
+&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program, is not capable of deploying its purse seine nets on or to encircle dolphins; or
 
 &emsp;(B)(i) the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h);
 
@@ -86,7 +86,7 @@ For additional prohibitions relating to this section <sup>1</sup> and enforceme
 
 #### (f) Regulations
 
-The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
+The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations toimplement this section,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
 
 &emsp;(1) The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
 
@@ -106,7 +106,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 #### (g) Secretarial findings
 
-(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the researchconducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 (2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 

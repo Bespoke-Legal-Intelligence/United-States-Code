@@ -50,5 +50,5 @@ Subsecs. (c), (d). Pub. L. 114–251, §1(2), (3), added subsec. (c) and redesig
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

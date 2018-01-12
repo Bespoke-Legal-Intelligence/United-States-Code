@@ -34,7 +34,7 @@ The Secretary, with the cooperation and assistance of the Administrator of Gener
 
 #### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
 
-To promote maximum effectiveness and economy, the Secretary shall seek to coordinate the assistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
+To promote maximum effectiveness and economy, the Secretary shall seek to coordinate theassistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
 
 #### (e) Authorization of appropriations for implementation of provisions
 

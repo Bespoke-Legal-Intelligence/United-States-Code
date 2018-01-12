@@ -28,5 +28,5 @@ Sections 366–380 of Title 44, referred to in text, were repealed and the provi
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting "of bankruptcy courts," after "Therecord", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting "of bankruptcy courts," after "The record", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 

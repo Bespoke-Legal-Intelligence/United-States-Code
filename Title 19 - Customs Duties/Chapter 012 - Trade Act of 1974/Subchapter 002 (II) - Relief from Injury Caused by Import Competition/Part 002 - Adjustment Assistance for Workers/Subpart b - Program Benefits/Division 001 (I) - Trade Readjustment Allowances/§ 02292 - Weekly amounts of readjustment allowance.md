@@ -10,7 +10,7 @@ Subject to subsections (b), (c), and (d), the trade readjustment allowance payab
 
 #### (b) Adversely affected workers who are undergoing training
 
-Any adversely affected worker who is entitled to trade readjustment allowances and who is undergoing training approved by the Secretary shall receive for each week in which he is undergoing any such training, a trade readjustment allowance in an amount (computed for such week) equal to the amount computed under subsection (a) or (if greater) the amount of any weekly allowance for such training to which hewould be entitled under any other Federal law for the training of workers, if he applied for such allowance. Such trade readjustment allowance shall be paid in lieu of any training allowance to which the worker would be entitled under such other Federal law.
+Any adversely affected worker who is entitled to trade readjustment allowances and who is undergoing training approved by the Secretary shall receive for each week in which he is undergoing any such training, a trade readjustment allowance in an amount (computed for such week) equal to the amount computed under subsection (a) or (if greater) the amount of any weekly allowance for such training to which he would be entitled under any other Federal law for the training of workers, if he applied for such allowance. Such trade readjustment allowance shall be paid in lieu of any training allowance to which the worker would be entitled under such other Federal law.
 
 #### (c) Deduction from total number of weeks of allowance entitlement
 
@@ -42,7 +42,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 

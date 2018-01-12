@@ -50,7 +50,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 &emsp;&emsp;(A) gain with respect to a share of stock of a DISC or former DISC is treated under section 995(c) as a dividend or as ordinary income, and
 
-&emsp;&emsp;(B) any person subsequently receives an actual distribution made out of accumulatedDISC income, or a deemed distribution made pursuant to section 995(b)(2), with respect to such share,
+&emsp;&emsp;(B) any person subsequently receives an actual distribution made out of accumulated DISC income, or a deemed distribution made pursuant to section 995(b)(2), with respect to such share,
 
 > &emsp;such person shall treat such distribution in the same manner as a distribution from previously taxed income to the extent that (i) the gain referred to in subparagraph (A), exceeds (ii) any other amounts with respect to such share which were treated under this paragraph as made from previously taxed income. In applying this paragraph with respect to a share of stock in a DISC or former DISC, gain on the acquisition of such share by the DISC or former DISC or gain on a transaction prior to such acquisition shall not be considered gain referred to in subparagraph (A).
 

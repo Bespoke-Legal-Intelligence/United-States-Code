@@ -108,15 +108,15 @@ Meetings.—The Council shall meet not less than twice per fiscal year and may m
 
 Support.—The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.
 
-(Added Pub. L. 114–264, §2(b)(1), Dec. 14, 2016, 130 Stat. 1372, and Pub. L. 114–328, div. A, title VIII, §861(b)(1), Dec. 23, 2016, 130 Stat. 2299.)
+(Added Pub. L. 114–264, §2(b)(1), Dec. 14, 2016, 130 Stat. 1372.)
 
-#### Codification
+#### Similar Provisions
 
-Pub. L. 114–264 and Pub. L. 114–328 enacted substantially identical sections 1126 of this title. This section is based on the section 1126 enacted by section 861(b)(1) of Pub. L. 114–328.
+Another section 1126, added Pub. L. 114–328, div. A, title VIII, §861(b)(1), Dec. 23, 2016, 130 Stat. 2299, which was substantially identical to section 1126 as added by Pub. L. 114–264, was repealed by Pub. L. 115–91, div. A, title VIII, §810(b), Dec. 12, 2017, 131 Stat. 1458.
 
 #### Program and Project Management Personnel Standards
 
-Pub. L. 114–328, div. A, title VIII, §861(c), Dec. 23, 2016, 130 Stat. 2301, provided that:
+Pub. L. 114–264, §2(c), Dec. 14, 2016, 130 Stat. 1374, provided that:
 
 "(1)
 
@@ -132,5 +132,5 @@ Regulations required.—Not later than 180 days after the date on which the stan
 
 &emsp;"(C) establish a new career path for program and project managers within an agency."
 
-Similar provisions were contained in Pub. L. 114–264, §2(c), Dec. 14, 2016, 130 Stat. 1374.
+Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, §861(c), Dec. 23, 2016, 130 Stat. 2301, prior to repeal by Pub. L. 115–91, div. A, title VIII, §810(c), Dec. 12, 2017, 131 Stat. 1458.
 

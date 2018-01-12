@@ -44,7 +44,7 @@ The Higher Education Act of 1965, referred to in par. (4), is Pub. L. 89–329, 
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5,was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 
@@ -66,7 +66,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 

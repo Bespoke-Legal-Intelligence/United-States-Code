@@ -12,11 +12,11 @@
 
 #### (3) When election takes effect
 
-&emsp;Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding exemption certificates.
+&emsp;Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding allowance certificates.
 
-#### (4) Amount withheld where no withholding exemption certificate in effect
+#### (4) Amount withheld where no withholding allowance certificate in effect
 
-&emsp;In the case of any payment with respect to which a withholding exemption certificate is not in effect, the amount withheld under paragraph (1) shall be determined by treating the payee as a married individual claiming 3 withholding exemptions.
+&emsp;In the case of any payment with respect to which a withholding allowance certificate is not in effect, the amount withheld under paragraph (1) shall be determined under rules prescribed by the Secretary.
 
 #### (b) Nonperiodic distribution
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall transmit to the payee notice of the right to make an election under subsection (a) not earlier than 6 months before the first of such payments and not later than when making the first of such payments,
 
-&emsp;&emsp;&emsp;&emsp;(II) if such a notice is not transmitted under subclause (I) when making such first payment, shall transmit such a notice when making such first payment, and
+&emsp;&emsp;&emsp;&emsp;(II) if such a notice is not transmitted under subclause (I) when making suchfirst payment, shall transmit such a notice when making such first payment, and
 
 &emsp;&emsp;&emsp;&emsp;(III) shall transmit to payees, not less frequently than once each calendar year, notice of their rights to make elections under subsection (a) and to revoke such elections.
 
@@ -206,13 +206,17 @@ For purposes of this chapter (and so much of subtitle F as relates to this chapt
 
 &emsp;(2) in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.
 
-(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §641(a)(1)(D)(ii), (iii), June 7, 2001, 115 Stat. 119.)
+(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §641(a)(1)(D)(ii), (iii), June 7, 2001, 115 Stat. 119; Pub. L. 115–97, title I, §11041(c)(2)(F), (G), Dec. 22, 2017, 131 Stat. 2084.)
 
 #### References in Text
 
-Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) ofPub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
+Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) of Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–97, §11041(c)(2)(F), substituted "allowance" for "exemption".
+
+Subsec. (a)(4). Pub. L. 115–97, in heading, substituted "allowance" for "exemption" and in text, substituted "allowance" for "exemption" and "shall be determined under rules prescribed by the Secretary" for "shall be determined by treating the payee as a married individual claiming 3 withholding exemptions".
 
 <b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "For purposes of this subsection, the term 'eligible rollover distribution' has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A))."
 
@@ -236,7 +240,7 @@ Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as
 
 Pub. L. 102–318, §521(b)(40), substituted "(b)(2)" for "(b)(3)" in par. (13)(A).
 
-Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares."
+Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum ofthe amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares."
 
 Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined "qualified total distribution" and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
 
@@ -263,6 +267,10 @@ Pub. L. 98–369, §542(c), added cl. (iii) relating to distributions described 
 Subsec. (d)(8). Pub. L. 98–369, §714(j)(5), freed from withholding requirement any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
 
 Subsec. (d)(12). Pub. L. 98–369, §722(h)(4), added par. (12).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under section 151 of this title.
 
 #### Effective Date of 2001 Amendment
 

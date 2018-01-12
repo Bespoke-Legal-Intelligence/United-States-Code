@@ -4,7 +4,7 @@
 
 (2) Except as provided in paragraph (3), the Secretary may not during any fiscal year transfer to any other department or agency of the United States or to any other entity real property that is owned by the United States and administered by the Secretary unless the proposed transfer is described in the budget submitted to Congress pursuant to section 1105 of title 31 for that fiscal year.
 
-(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described in subparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
+(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described insubparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
 
 (B) A transfer of real property may not be made under this paragraph unless—
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 111–350, §5(j)(6)(B), struck out "(41 U.S.C. 252(c))" af
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–422, §411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
+"(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of thisparagraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
 
 "(B) An interest in real property described in this subparagraph is an interest in real property that is owned by the United States and administered by the Secretary and that has an estimated value in excess of $50,000.
 

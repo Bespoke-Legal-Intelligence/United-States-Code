@@ -34,7 +34,7 @@ Rapid reporting.—The procedures established pursuant to subsection (a) shall r
 
 &emsp;(3)
 
-Department assistance and access to equipment and information by department personnel.—The procedures established pursuant to subsection (a) shall—
+Department assistance and access to equipment and information by departmentpersonnel.—The procedures established pursuant to subsection (a) shall—
 
 &emsp;&emsp;(A) include mechanisms for Department personnel to, if requested, assist operationally critical contractors in detecting and mitigating penetrations; and
 

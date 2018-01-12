@@ -12,7 +12,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this section shall be construed to provide authority to transfer funds between accounts or between Federal departments or agencies.
+&emsp;Nothing in this section shall be construed to provide authority to transfer funds betweenaccounts or between Federal departments or agencies.
 
 #### (b) Limitation
 

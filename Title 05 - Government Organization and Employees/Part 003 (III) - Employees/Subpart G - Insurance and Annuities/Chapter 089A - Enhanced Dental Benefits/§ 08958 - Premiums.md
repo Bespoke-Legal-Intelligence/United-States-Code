@@ -6,9 +6,17 @@
 
 (c) The amount necessary to pay the premiums for enrollment may—
 
-&emsp;(1) in the case of an employee, be withheld from the pay of such an employee; or
+&emsp;(1) in the case of an employee, be withheld from the pay of such an employee;
 
-&emsp;(2) in the case of an annuitant, be withheld from the annuity of such an annuitant.
+&emsp;(2) in the case of an annuitant, be withheld from the annuity of such an annuitant;
+
+&emsp;(3) in the case of a covered TRICARE-eligible individual who receives pay from the Federal Government or an annuity from the Federal Government due to the death of a member of the uniformed services (as defined in section 101 of title 10), and is not a former spouse of a member of the uniformed services, be withheld from—
+
+&emsp;&emsp;(A) the pay (including retired pay) of such individual; or
+
+&emsp;&emsp;(B) the annuity paid to such individual; or
+
+&emsp;(4) in the case of a covered TRICARE-eligible individual who is not described in paragraph (3), be billed to such individual directly.
 
 (d) All amounts withheld under this section shall be paid directly to the qualified company.
 
@@ -22,26 +30,6 @@
 
 (Added Pub. L. 108–496, §2, Dec. 23, 2004, 118 Stat. 4004; amended Pub. L. 114–328, div. A, title VII, §715(b)(1), Dec. 23, 2016, 130 Stat. 2222.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 114–328, div. A, title VII, §715(b)(1), (c), Dec. 23, 2016, 130 Stat. 2222, 2223, provided that, applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, this section is amended:</i>
-
-<i>(1) in paragraph (1), by striking "or" at the end;</i>
-
-<i>(2) in paragraph (2), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(3) by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>(3) in the case of a covered TRICARE-eligible individual who receives pay from the Federal Government or an annuity from the Federal Government due to the death of a member of the uniformed services (as defined in section 101 of title 10), and is not a former spouse of a member of the uniformed services, be withheld from—</i>
-
-&emsp;&emsp;<i>(A) the pay (including retired pay) of such individual; or</i>
-
-&emsp;&emsp;<i>(B) the annuity paid to such individual; or</i>
-
-&emsp;<i>(4) in the case of a covered TRICARE-eligible individual who is not described in paragraph (3), be billed to such individual directly.</i>
-
-<i>See 2016 Amendment note below.</i>
-
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(3), (4). Pub. L. 114–328 added pars. (3) and (4).
@@ -52,5 +40,5 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 #### Effective Date
 
-Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendaryear 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 

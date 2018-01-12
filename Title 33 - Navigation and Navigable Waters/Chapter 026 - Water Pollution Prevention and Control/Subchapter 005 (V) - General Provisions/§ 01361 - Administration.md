@@ -122,7 +122,7 @@ Regulation of Aboveground Storage at Farms.—
 
 &emsp;"(1)
 
-Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
+Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b),the aggregate aboveground storage capacity of a farm excludes—
 
 &emsp;&emsp;"(A) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
 

@@ -10,7 +10,7 @@ As used in this subchapter:
 
 &emsp;(4) The term "commercial building" means any building other than a residential building, including any building developed for industrial or public purposes.
 
-&emsp;(5) The term "Federal agency" means any department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
+&emsp;(5) The term "Federal agency" means any department, agency, corporation, or other entity or instrumentality of the executivebranch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
 
 &emsp;(6) The term "Federal building" means any building to be constructed by, or for the use of, any Federal agency. Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.
 

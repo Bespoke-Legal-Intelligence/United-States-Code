@@ -14,7 +14,7 @@
 
 (4) For the purposes of this section, the terms "hospital care", "nursing home care", and "medical services" have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term "medical services" includes services under sections 1782 and 1783 of this title.
 
-(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to theavailability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
+(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 

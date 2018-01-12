@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated by the Governor of the State of Alaska, and shall represent the State government.
 
-&emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designated by the President, and shall represent the Federal Government.
+&emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designatedby the President, and shall represent the Federal Government.
 
 #### (3) Responsibilities
 
@@ -72,7 +72,7 @@
 
 #### (4) Designation of existing organization
 
-&emsp;The Secretary may designate an existing nonprofit organization as an Associationunder this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
+&emsp;The Secretary may designate an existing nonprofit organization as an Association under this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
 
 #### (d) Regional Citizens' Advisory Councils
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities' and crude oil tankers' operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy ofoil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
+&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
 &emsp;&emsp;(E) provide advice and recommendations to the Association on port operations, policies and practices;
 
@@ -212,7 +212,7 @@
 
 #### (1) Technical Oil Spill Committee
 
-&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as "Oil Spill Committee") to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
+&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as "Oil Spill Committee") to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of membersof the Council, citizens, and recognized technical experts selected by the Council.
 
 #### (2) Duties
 
@@ -338,7 +338,7 @@ The requirements of subsections (c) through (l), as such subsections apply respe
 
 #### (2) Cook Inlet
 
-&emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
+&emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crudeoil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
 (Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, §902(l)(2), July 11, 2006, 120 Stat. 568; Pub. L. 113–281, title III, §318, Dec. 18, 2014, 128 Stat. 3051.)
 

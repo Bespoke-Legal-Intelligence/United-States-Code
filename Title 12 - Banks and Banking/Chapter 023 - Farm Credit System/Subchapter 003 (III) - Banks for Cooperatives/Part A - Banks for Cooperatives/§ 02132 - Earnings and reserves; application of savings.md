@@ -2,7 +2,7 @@
 
 #### (a) Application of savings
 
-At the end of each fiscal year, the net savings shall, under regulations prescribed by the Farm Credit Administration, continue to be applied on a cooperative basis with provision for sound, adequate capitalization to meet the changing financing needs of eligible cooperative borrowers and prudent corporate fiscal management, to the end that current year's patrons carry their fair share of the capitalization, ultimate expenses, and reserves related to the year's operations and the remaining net savings shall be distributed as patronage refunds as provided in subsections (b) and (c) of this section. Such regulations may provide for application of net savings to the restoration or maintenance of an allocated surplus account, reasonable additions to unallocated surplus, or to unallocated reserves after payment of operating expenses, and provide for allocations to patrons not qualified under title 26, or payment of such per centum ofpatronage refunds in cash, as the board may determine.
+At the end of each fiscal year, the net savings shall, under regulations prescribed by the Farm Credit Administration, continue to be applied on a cooperative basis with provision for sound, adequate capitalization to meet the changing financing needs of eligible cooperative borrowers and prudent corporate fiscal management, to the end that current year's patrons carry their fair share of the capitalization, ultimate expenses, and reserves related to the year's operations and the remaining net savings shall be distributed as patronage refunds as provided in subsections (b) and (c) of this section. Such regulations may provide for application of net savings to the restoration or maintenance of an allocated surplus account, reasonable additions to unallocated surplus, or to unallocated reserves after payment of operating expenses, and provide for allocations to patrons not qualified under title 26, or payment of such per centum of patronage refunds in cash, as the board may determine.
 
 #### (b) Patronage refunds
 
@@ -24,7 +24,7 @@ Notwithstanding any other provisions of this section any costs or expenses attri
 
 A bank for cooperatives may pay in cash such portion of its patronage refunds as will permit its taxable income to be determined without taking into account savings applied as allocated surplus, allocated contingency reserves, and patronage refunds under subsection (a) of this section.
 
-(Pub. L. 92–181, title III, §3.11, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, §308, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–205, title II, §205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(r), 805(n), Jan. 6, 1988, 101 Stat. 1712, 1716.)
+(Pub. L. 92–181, title III, §3.11, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, §308, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–205, title II, §205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1705; Pub. L.100–233, title VIII, §§802(r), 805(n), Jan. 6, 1988, 101 Stat. 1712, 1716.)
 
 #### Amendments
 

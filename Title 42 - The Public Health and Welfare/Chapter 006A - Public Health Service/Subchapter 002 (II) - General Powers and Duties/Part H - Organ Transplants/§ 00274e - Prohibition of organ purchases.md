@@ -48,7 +48,7 @@ Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
 #### Determination on the Definition of Human Organ
 
-Pub. L. 114–104, §4, Dec. 18, 2015, 129 Stat. 2218, provided that: "Not later than one year after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ."
+Pub. L. 114–104, §4, Dec. 18, 2015, 129 Stat. 2218, provided that: "Not later than one year after the date ofenactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ."
 
 #### No Impact on Social Security Trust Fund
 

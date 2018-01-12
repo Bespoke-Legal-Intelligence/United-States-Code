@@ -22,7 +22,7 @@
 
 #### (2) Under Secretary for Arms Control and International Security
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, theUnder Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
 
 #### (3) Under Secretary for Public Diplomacy
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) ensure the design and implementation of appropriate program evaluation methodologies;
 
-&emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseaswho conduct or implement public diplomacy policies, programs, and activities;
+&emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseas who conduct or implement public diplomacy policies, programs, and activities;
 
 &emsp;&emsp;(D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively; and
 
@@ -94,7 +94,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (1) In general
 
-&emsp;There shall be established within the Department of State in the immediate office ofthe Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
+&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
 
 #### (2) Authorities and duties; definitions
 
@@ -136,7 +136,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) consulting with representatives from additional relevant agencies, including the National Institutes of Health, the Health Resources and Services Administration, the Department of Labor, the Department of Agriculture, the Millennium Challenge Corporation, the Peace Corps, and the Department of Defense.
 
-&emsp;&emsp;&emsp;&emsp;(V) Coordinating overall United States HIV/AIDS policy and programs, including ensuring the coordination of relevant executive branch agency activities in the field, with efforts led by partner countries, and with the assistance provided by other relevant bilateral and multilateral aid agencies and other donor institutions to promote harmonization with other programs aimed at preventing and treating HIV/AIDS and other health challenges, improving primary health, addressing food security, promoting education and development, and strengthening health care systems.
+&emsp;&emsp;&emsp;&emsp;(V) Coordinating overall United States HIV/AIDS policy and programs, including ensuring the coordination of relevant executive branch agency activities in the field, with efforts led by partner countries, and with the assistance provided by other relevant bilateral and multilateral aid agencies and other donor institutions to promote harmonization with other programs aimed at preventing and treating HIV/AIDS and other health challenges, improving primary health,addressing food security, promoting education and development, and strengthening health care systems.
 
 &emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
 
@@ -188,11 +188,11 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, titleXII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2735 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -342,7 +342,7 @@ Pub. L. 108–458, title VII, §7109(b)(2), Dec. 17, 2004, 118 Stat. 3793, provi
 
 Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provided that: "There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: <i>Provided</i>, That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: <i>Provided further</i>, That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
 
-&emsp;"(1) cataloguing and monitoring the non-military resources and capabilities of Executive agencies (as that term is defined in section 105 of title 5, United States Code), State and local governments, and entities in the private and non-profit sectors that are available to address crises in countries or regions that are in, or are in transition from, conflict or civil strife;
+&emsp;"(1) cataloguing and monitoring the non-military resources and capabilities of Executive agencies (asthat term is defined in section 105 of title 5, United States Code), State and local governments, and entities in the private and non-profit sectors that are available to address crises in countries or regions that are in, or are in transition from, conflict or civil strife;
 
 &emsp;"(2) monitoring political and economic instability worldwide to anticipate the need for mobilizing United States and international assistance for countries or regions described in paragraph (1);
 
@@ -446,7 +446,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 "(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shallreport to the Secretary of State through the appropriate Under Secretary of State.
 
 "(b)
 
@@ -464,7 +464,7 @@ Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided tha
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
-Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department ofState affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
+Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
 
 #### Office of Coordinator for Counterterrorism
 

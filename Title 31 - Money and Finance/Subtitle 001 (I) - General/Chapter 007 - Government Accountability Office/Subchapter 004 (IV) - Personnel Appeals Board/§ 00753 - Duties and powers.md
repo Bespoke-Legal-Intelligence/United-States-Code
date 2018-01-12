@@ -32,7 +32,7 @@
 
 &emsp;(2) on the operating procedure of the Board.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108 Stat. 1446; Pub. L. 104–53, title II, §213, Nov. 19, 1995, 109 Stat. 535.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108Stat. 1446; Pub. L. 104–53, title II, §213, Nov. 19, 1995, 109 Stat. 535.)
 
 Historical and Revision Notes
 

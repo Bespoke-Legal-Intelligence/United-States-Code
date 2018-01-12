@@ -10,7 +10,7 @@ For purposes of this section, the term—
 
 #### (b) Notice; deduction and transmission
 
-(1) The Secretary and the Architect shall notify individuals whose pay is disbursed by theSecretary or who are employees of the Architect, including employees of the Botanic Garden or the Senate Restaurants of the opportunity to have amounts withheld from their pay pursuant to this section for contribution to national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 18, 1961.
+(1) The Secretary and the Architect shall notify individuals whose pay is disbursed by the Secretary or who are employees of the Architect, including employees of the Botanic Garden or the Senate Restaurants of the opportunity to have amounts withheld from their pay pursuant to this section for contribution to national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 18, 1961.
 
 (2) Upon request by such an individual specifying the amount to be withheld and one Combined Federal Campaign Center in the Washington metropolitan area to receive such amount, the Secretary, the Architect, or any other officer who disburses the pay of such individual, as the case may be, shall—
 
@@ -38,7 +38,7 @@ The Secretary and the Architect shall, to the extent practicable, carry out subs
 
 #### (e) Provisions as not imposing duty, burden, requirement or penalty on United States, Senate, or any officer or employee of United States; effect of filing paper
 
-This section imposes no duty, burden, or requirement upon the United States, the Senate, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the Senate, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with the Secretary under this section is a paper of the Senate within the provisions of rule XXX of the Standing Rules of the Senate.
+This section imposes no duty, burden, or requirement upon the United States, the Senate, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the Senate, or any officer or employee of the United States to any penalty or liability byreason of the provisions of this section. Any paper, form, document, or any other item filed with the Secretary under this section is a paper of the Senate within the provisions of rule XXX of the Standing Rules of the Senate.
 
 #### (f) Rules and regulations
 

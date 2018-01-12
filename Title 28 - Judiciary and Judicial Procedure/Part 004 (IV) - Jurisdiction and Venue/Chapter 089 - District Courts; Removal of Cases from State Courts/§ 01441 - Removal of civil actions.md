@@ -36,9 +36,9 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 > The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
-(2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) <sup>1</sup> has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
+(2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) <sup>1</sup> hasmade a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
-(3) Any remand under paragraph (2) shall not be effective until 60 days after the district court has issued an order determining liability and has certified its intention to remand the removed action for the determination of damages. An appeal with respect to the liability determination of the district court may be taken during that 60-day period to the court of appeals with appellate jurisdiction over the districtcourt. In the event a party files such an appeal, the remand shall not be effective until the appeal has been finally disposed of. Once the remand has become effective, the liability determination shall not be subject to further review by appeal or otherwise.
+(3) Any remand under paragraph (2) shall not be effective until 60 days after the district court has issued an order determining liability and has certified its intention to remand the removed action for the determination of damages. An appeal with respect to the liability determination of the district court may be taken during that 60-day period to the court of appeals with appellate jurisdiction over the district court. In the event a party files such an appeal, the remand shall not be effective until the appeal has been finally disposed of. Once the remand has become effective, the liability determination shall not be subject to further review by appeal or otherwise.
 
 (4) Any decision under this subsection concerning remand for the determination of damages shall not be reviewable by appeal or otherwise.
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 112–63, §103(a)(7), inserted heading.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011,and applicable to any action or prosecution commenced on or after such effective date, with provisions for treatment of cases removed to Federal court, see section 105 of Pub. L. 112–63, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period beginning on Dec. 7, 2011, and applicable to any action or prosecution commenced on or after such effective date, with provisions for treatment of cases removed to Federal court, see section 105 of Pub. L. 112–63, set out as a note under section 1332 of this title.
 
 #### Effective Date of 2002 Amendment
 

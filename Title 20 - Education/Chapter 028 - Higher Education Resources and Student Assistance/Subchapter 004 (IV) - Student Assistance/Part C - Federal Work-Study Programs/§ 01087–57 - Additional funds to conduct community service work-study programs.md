@@ -26,7 +26,7 @@ Each institution participating under this part may use up to 10 percent of the f
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection such sums as may benecessary for fiscal year 2009 and each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 (Pub. L. 89–329, title IV, §447, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; amended Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567; Pub. L. 110–315, title IV, §446, Aug. 14, 2008, 122 Stat. 3260.)
 

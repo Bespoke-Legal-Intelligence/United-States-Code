@@ -30,7 +30,7 @@ With respect to the basis of any qualified film or television production or any 
 
 #### (1) In general
 
-&emsp;An election under this section with respect to any qualified film or television productionor any qualified live theatrical production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer's return of tax under this chapter for the taxable year in which costs of the production are first incurred.
+&emsp;An election under this section with respect to any qualified film or television production or any qualified live theatrical production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer's return of tax under this chapter for the taxable year in which costs of the production are first incurred.
 
 #### (2) Revocation of election
 
@@ -132,7 +132,7 @@ For purposes of this section, rules similar to the rules of subsections (b)(2) a
 
 This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2016.
 
-(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445; amended Pub. L. 109–135, titleIV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 110–343, div. C, title V, §502(a), (b), (d), Oct. 3, 2008, 122 Stat. 3876, 3877; Pub. L. 111–312, title VII, §744(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §317(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §129(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §169(a)–(b)(2), (c), Dec. 18, 2015, 129 Stat. 3067, 3068.)
+(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445; amended Pub. L. 109–135, title IV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 110–343, div. C, title V, §502(a), (b), (d), Oct. 3, 2008, 122 Stat. 3876, 3877; Pub. L. 111–312, title VII, §744(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §317(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §129(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §169(a)–(b)(2), (c), Dec. 18, 2015, 129 Stat. 3067, 3068.)
 
 #### Prior Provisions
 

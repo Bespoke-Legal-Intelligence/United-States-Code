@@ -2,7 +2,7 @@
 
 #### (a) Incentive payments
 
-(1) For electric energy generated and sold by a qualified renewable energy facility during theincentive period, the Secretary shall make, subject to the availability of appropriations, incentive payments to the owner or operator of such facility.
+(1) For electric energy generated and sold by a qualified renewable energy facility during the incentive period, the Secretary shall make, subject to the availability of appropriations, incentive payments to the owner or operator of such facility.
 
 (2) The amount of such payment made to any such owner or operator shall be as determined under subsection (e).
 
@@ -66,7 +66,7 @@ Section 29 of title 26, referred to in subsec. (e)(2), was renumbered section 45
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58, §202(a), designated first, second, and third sentences as pars. (1) to (3), respectively, in par. (3) struck out "and which satisfies such other requirements as the Secretary deems necessary" after "receive such payment", struck out at end "Such application shall be in such form, and shall be submitted at such time, as the Secretary shall establish.", and added par. (4).
 
-Subsec. (b). Pub. L. 109–58, §202(b), in introductory provisions, substituted "a not-for-profit electric cooperative, a public utility described in section 115 of title 26, a State, Commonwealth, territory, or possession of the United States, or the District of Columbia, or a political subdivision thereof, an Indian tribal government or subdivision thereof, or a Native Corporation (as defined in section 1602 of title 43)," for "a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision), by any corporation or association which is wholly owned, directly or indirectly, by one or more of the foregoing, or by a nonprofit electrical cooperative" andinserted "landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal)," after "wind, biomass,".
+Subsec. (b). Pub. L. 109–58, §202(b), in introductory provisions, substituted "a not-for-profit electric cooperative, a public utility described in section 115 of title 26, a State, Commonwealth, territory, or possession of the United States, or the District of Columbia, or a political subdivision thereof, an Indian tribal government or subdivision thereof, or a Native Corporation (as defined in section 1602 of title 43)," for "a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision), by any corporation or association which is wholly owned, directly or indirectly, by one or more of the foregoing, or by a nonprofit electrical cooperative" and inserted "landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal)," after "wind, biomass,".
 
 Subsec. (c). Pub. L. 109–58, §202(c), substituted "before October 1, 2016" for "during the 10-fiscal year period beginning with the first full fiscal year occurring after October 24, 1992".
 

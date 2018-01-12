@@ -2,7 +2,7 @@
 
 The Secretary shall, by regulations, prescribe the time and method of payment of the premiums on insurance, but payments of premiums in advance shall not be required for periods of more than one month each, and may at the election of the insured be deducted from the insured's active-service pay or be otherwise made. An amount equal to the first premium due under a National Service Life Insurance policy may be advanced from current appropriations for active-service pay to any person in the active service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, which amount shall constitute a lien upon any service or other pay accruing to the person for whom such advance was made and shall be collected therefrom if not otherwise paid. No disbursing or certifying officer shall be responsible for any loss incurred by reason of such advance. Any amount so advanced in excess of available service or other pay shall constitute a lien on the policy within the provisions of section 5301(b) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, §708; Pub. L. 99–576, title VII, §701(24), Oct. 28, 1986, 100Stat. 3292; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1908 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, §708; Pub. L. 99–576, title VII, §701(24), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1908 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

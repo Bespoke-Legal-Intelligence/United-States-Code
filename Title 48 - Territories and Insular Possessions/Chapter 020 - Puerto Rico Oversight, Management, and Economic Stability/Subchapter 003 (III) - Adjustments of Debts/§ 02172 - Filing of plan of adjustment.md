@@ -6,7 +6,7 @@ Only the Oversight Board, after the issuance of a certificate pursuant to sectio
 
 #### (b) Deadline for filing plan
 
-If the Oversight Board does not file a plan of adjustment with the petition, the OversightBoard shall file a plan of adjustment at the time set by the court.
+If the Oversight Board does not file a plan of adjustment with the petition, the Oversight Board shall file a plan of adjustment at the time set by the court.
 
 (Pub. L. 114–187, title III, §312, June 30, 2016, 130 Stat. 583.)
 

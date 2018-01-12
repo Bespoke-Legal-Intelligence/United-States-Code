@@ -64,7 +64,7 @@ Immediate enactment.—Sections 207, 214, and 215 \[set out in a note under sect
 
 #### Federal Data Center Consolidation Initiative
 
-Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, provided that:
+Pub. L. 113–291, div. A, title VIII, §834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, §4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, §819(c), Dec. 12, 2017, 131 Stat. 1464, provided that:
 
 "(a)
 
@@ -168,7 +168,7 @@ Annual reporting.—Except as provided in subparagraph (C), each year, beginning
 
 &emsp;&emsp;"(B)
 
-Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submitted under this subsection through reporting structures determined by the Administrator to be appropriate.
+Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submittedunder this subsection through reporting structures determined by the Administrator to be appropriate.
 
 &emsp;&emsp;"(C)
 
@@ -304,7 +304,9 @@ Waiver of Requirements.—The Director of National Intelligence and the Secretar
 
 "(e)
 
-Sunset.—This section is repealed effective on October 1, 2018."
+Sunset.—This section is repealed effective on October 1, 2020."
+
+\[Pub. L. 115–88 and Pub. L. 115–91 amended section 834(e) of Pub. L. 113–291, set out above, identically by striking "2018" and inserting "2020".\]
 
 #### E-Government Initiatives Funding
 
@@ -344,7 +346,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(2) The Federal Government has had uneven success in applying advances in information technology to enhance governmental functions and services, achieve more efficient performance, increase access to Government information, and increase citizen participation in Government.
 
-&emsp;"(3) Most Internet-based services of the Federal Government are developed and presented separately,according to the jurisdictional boundaries of an individual department or agency, rather than being integrated cooperatively according to function or topic.
+&emsp;"(3) Most Internet-based services of the Federal Government are developed and presented separately, according to the jurisdictional boundaries of an individual department or agency, rather than being integrated cooperatively according to function or topic.
 
 &emsp;"(4) Internet-based Government services involving interagency cooperation are especially difficult to develop and promote, in part because of a lack of sufficient funding mechanisms to support such interagency cooperation.
 

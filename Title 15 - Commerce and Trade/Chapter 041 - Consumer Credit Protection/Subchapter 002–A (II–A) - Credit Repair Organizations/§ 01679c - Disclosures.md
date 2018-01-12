@@ -40,7 +40,7 @@ The written statement required under this section shall be provided as a documen
 
 #### (2) Maintenance for 2 years
 
-&emsp;The copy of any consumer's statement shall be maintained in the organization's files for 2years after the date on which the statement is signed by the consumer.
+&emsp;The copy of any consumer's statement shall be maintained in the organization's files for 2 years after the date on which the statement is signed by the consumer.
 
 (Pub. L. 90–321, title IV, §405, as added Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–457.)
 

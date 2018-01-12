@@ -24,7 +24,7 @@ Any standard adopted under this part shall be consistent with the objective of r
 
 #### (A) Different standards
 
-&emsp;&emsp;The Secretary may adopt a standard that is different from any standard developed, adopted, or modified by a standard setting organization, if—
+&emsp;&emsp;The Secretary may adopt a standard that is different from any standard developed,adopted, or modified by a standard setting organization, if—
 
 &emsp;&emsp;&emsp;(i) the different standard will substantially reduce administrative costs to health care providers and health plans compared to the alternatives; and
 
@@ -80,5 +80,5 @@ This section shall apply to a modification to a standard (including an addition 
 
 #### Prior Provisions
 
-A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the generalamendment of part B of this subchapter by Pub. L. 97–248.
+A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
 

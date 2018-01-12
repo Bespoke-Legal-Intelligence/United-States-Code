@@ -2,7 +2,7 @@
 
 #### (a) Allocation of materials, services, and facilities
 
-The President is hereby authorized (1) to require that performance under contracts or orders (other than contracts of employment)which he deems necessary or appropriate to promote the national defense shall take priority over performance under any other contract or order, and, for the purpose of assuring such priority, to require acceptance and performance of such contracts or orders in preference to other contracts or orders by any person he finds to be capable of their performance, and (2) to allocate materials, services, and facilities in such manner, upon such conditions, and to such extent as he shall deem necessary or appropriate to promote the national defense.
+The President is hereby authorized (1) to require that performance under contracts or orders (other than contracts of employment) which he deems necessary or appropriate to promote the national defense shall take priority over performance under any other contract or order, and, for the purpose of assuring such priority, to require acceptance and performance of such contracts or orders in preference to other contracts or orders by any person he finds to be capable of their performance, and (2) to allocate materials, services, and facilities in such manner, upon such conditions, and to such extent as he shall deem necessary or appropriate to promote the national defense.
 
 #### (b) Critical and strategic materials
 
@@ -10,7 +10,7 @@ The powers granted in this section shall not be used to control the general dist
 
 #### (c) Domestic energy; materials, equipment, and services
 
-(1) Notwithstanding any other provision of this chapter, the President may, by rule or order, require the allocation of, or the priority performance under contracts or orders (other than contracts of employment) relating to, materials, equipment, and services in order to maximize domestic energy supplies if he makes the findings required by paragraph (3) of this subsection.
+(1) Notwithstanding any other provision of this chapter, the President may, by rule or order, require the allocation of, or the priorityperformance under contracts or orders (other than contracts of employment) relating to, materials, equipment, and services in order to maximize domestic energy supplies if he makes the findings required by paragraph (3) of this subsection.
 
 (2) The authority granted by this subsection may not be used to require priority performance of contracts or orders, or to control the distribution of any supplies of materials, services, and facilities in the marketplace, unless the President finds that—
 
@@ -86,7 +86,7 @@ Pub. L. 102–99, §7, Aug. 17, 1991, 105 Stat. 490, provided that: "This Act \[
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
-For delegation of certain authority of President under this section, see sections 201 to 203 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16652, 16653, set out as a note under section 4553 of this title.
+For delegation of certain authority of President under this section, see sections 201 to 203 of Ex. Ord.No. 13603, Mar. 16, 2012, 77 F.R. 16652, 16653, set out as a note under section 4553 of this title.
 
 #### Report on Industry Preparedness
 

@@ -88,7 +88,7 @@ In order to improve overall program or project effectiveness, the results of eva
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §403(h)(1), substituted "Reports, evaluations, and grants for project improvement and dissemination" for "Evaluations and grants for project improvement and dissemination partnership projects" in section catchline.
+<b>2008</b>—Pub. L. 110–315, §403(h)(1), substituted "Reports, evaluations, and grants for project improvement anddissemination" for "Evaluations and grants for project improvement and dissemination partnership projects" in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §403(h)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 

@@ -40,7 +40,7 @@
 
 #### (b) Projects
 
-The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
+The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly orthrough agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
 
 &emsp;(1) leverage, through bilateral agreements, funds for reduction of greenhouse gas intensity;
 
@@ -61,6 +61,10 @@ In providing assistance under subsection (b), the Secretary of State shall focus
 In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
 (Pub. L. 101–240, title VII, §732, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1113.)
+
+#### Effective Date
+
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "description of".</i>
 

@@ -38,7 +38,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
-&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
+&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) ofparagraph (2) is established by the responsible party by a preponderance of the evidence; and
 
 &emsp;&emsp;(C) the responsible party complies with paragraph (3).
 

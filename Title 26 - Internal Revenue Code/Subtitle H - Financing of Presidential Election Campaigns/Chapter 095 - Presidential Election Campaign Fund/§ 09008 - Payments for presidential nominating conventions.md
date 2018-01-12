@@ -74,7 +74,7 @@ Effective on the date of the enactment of the Gabriella Miller Kids First Resear
 
 &emsp;(1) the entitlement of any major party or minor party to a payment under this section shall terminate; and
 
-&emsp;(2) all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the "10-Year Pediatric Research InitiativeFund", which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
+&emsp;(2) all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the "10-Year Pediatric Research Initiative Fund", which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §406(a), Oct. 15, 1974, 88 Stat. 1294; Pub. L. 94–283, title III, §§303, 307(a), May 11, 1976, 90 Stat. 498, 501; Pub. L. 96–187, title II, §202, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 98–355, §1(a), (b), July 11, 1984, 98 Stat. 394; Pub. L. 113–94, §2(a), Apr. 3, 2014, 128 Stat. 1085.)
 

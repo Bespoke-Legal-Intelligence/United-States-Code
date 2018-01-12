@@ -148,7 +148,7 @@ Pub. L. 109–365, §1(a), Oct. 17, 2006, 120 Stat. 2522, provided that: "This A
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Amendments of 2000'."
+Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: "This Act \[see Tables for classification\]may be cited as the 'Older Americans Act Amendments of 2000'."
 
 #### Short Title of 1993 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This Act \[see Tables for classification\]may be cited as the 'Older Americans Act Amendments of 1992'."
+Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Amendments of 1992'."
 
 #### Short Title of 1987 Amendment
 
@@ -204,7 +204,7 @@ Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 9
 
 #### Regulations
 
-Pub. L. 102–375, title IX, §902, Sept. 30, 1992, 106 Stat. 1305, provided that: "Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\]."
+Pub. L. 102–375, title IX, §902, Sept. 30, 1992, 106 Stat. 1305, provided that: "Except as otherwise specificallyprovided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\]."
 
 #### Guidance on Serving Holocaust Survivors
 
@@ -212,7 +212,7 @@ Pub. L. 114–144, §10, Apr. 19, 2016, 130 Stat. 352, provided that:
 
 "(a)
 
-In General.—Because the services under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) arecritical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
+In General.—Because the services under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) are critical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
 
 "(b)
 
@@ -586,7 +586,7 @@ Participants.—In order to carry out the purposes of this section, the Conferen
 
 &emsp;"(2)
 
-Selection of delegates.—The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
+Selection of delegates.—The delegates shall be selected without regard to political affiliation orpast partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
 
 #### "SEC. 202. CONFERENCE ADMINISTRATION.
 
@@ -696,11 +696,11 @@ Other committees.—The Secretary may establish such other committees, including
 
 "(c)
 
-Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minority groups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
+Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minoritygroups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
 
 "(d)
 
-Compensation.—Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximumrate of pay payable under section 5376 of title 5, United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
+Compensation.—Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximum rate of pay payable under section 5376 of title 5, United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
 #### "SEC. 204. REPORT OF THE CONFERENCE.
 

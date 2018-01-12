@@ -56,3 +56,7 @@ Subsec. (a)(2) to (5). Pub. L. 111–5, §404(a), added par. (2) and redesignate
 
 Subsec. (b). Pub. L. 111–5, §404(b), substituted "subsection (a)(1) or (2)" for "subsection (a)(1)" in introductory provisions.
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+

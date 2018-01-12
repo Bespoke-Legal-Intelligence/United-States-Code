@@ -10,7 +10,7 @@ Highest Bid Rejected.—If the Secretary rejects the highest bid, the Secretary 
 
 &emsp;(1) award the charter to the next highest bidder; or
 
-&emsp;(2) reject all bids and either readvertise the line or operate the line until conditions appearmore favorable to reoffer the line for private charter.
+&emsp;(2) reject all bids and either readvertise the line or operate the line until conditions appear more favorable to reoffer the line for private charter.
 
 (c)
 

@@ -22,7 +22,7 @@ The Secretary shall approve a State to be a participating State, if—
 
 &emsp;&emsp;(C) sets forth internal control, compliance, and reporting requirements as established by the Secretary, and such other terms and conditions necessary to carry out the purposes of this chapter, including an agreement by the State to allow the Secretary to audit State programs;
 
-&emsp;&emsp;(D) requires that the State program be fully positioned, within 90 days of the State's execution of the allocation agreement with the Secretary, to act on providing the kind of credit support that the State program was established to provide; and
+&emsp;&emsp;(D) requires that the State program be fully positioned, within 90 days of the State's execution of the allocation agreement with the Secretary, to act on providingthe kind of credit support that the State program was established to provide; and
 
 &emsp;&emsp;(E) includes an agreement by the State to deliver to the Secretary, and update annually, a schedule describing how the State intends to apportion among its State programs the Federal funds allocated to the State.
 

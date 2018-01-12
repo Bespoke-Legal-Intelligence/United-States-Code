@@ -20,11 +20,11 @@ Provision of Direction and Guidance.—
 
 &emsp;(2) Selections made based on the direction and guidance provided under this subsection shall not exceed the maximum percentage of officers who may be selected from below the announced promotion zone at any given selection board convened under section 251 of this title.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180; amended Pub. L. 89–444, §1(17), June 9, 1966, 80 Stat. 196; Pub. L. 104–324, title II, §212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §212(2), Oct. 15, 2010, 124 Stat. 2914.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180; amended Pub. L. 89–444, §1(17), June 9,1966, 80 Stat. 196; Pub. L. 104–324, title II, §212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, §212(2), Oct. 15, 2010, 124 Stat. 2914.)
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for"with:" in introductory provisions, and added subsec. (b).
+<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for "with:" in introductory provisions, and added subsec. (b).
 
 <b>1996</b>—Cl. (2). Pub. L. 104–324 struck out ", with identification of those officers who are in the promotion zone" after "officers for promotion".
 

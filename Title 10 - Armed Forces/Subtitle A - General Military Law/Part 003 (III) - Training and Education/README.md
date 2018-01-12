@@ -14,7 +14,7 @@
 | [<b>109.</b>](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
-| [<b>112.</b>](Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program </b><b><sup>1</sup></b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,6 +50,8 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 
 <b>1964</b>—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
 
+<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of part analysis.</i>
+
 
 ---
 
@@ -67,4 +69,4 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 - [Chapter 109 - Educational Loan Repayment Programs](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md)
 - [Chapter 110 - Educational Assistance for Members Held as Captives and Their Dependents](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md)
 - [Chapter 111 - Support of Science, Mathematics, and Engineering Education](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md)
-- [Chapter 112 - Information Security Scholarship Program](Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md)
+- [Chapter 112 - Cyber Scholarship Program](Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md)

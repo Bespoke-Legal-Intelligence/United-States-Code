@@ -1,6 +1,6 @@
 ### §53908. Additional insurance privately obtained
 
-With the approval of the Secretary of Transportation, a person having an insurable interest in a vessel may obtain insurance on the vesselwith other underwriting agents in addition to the insurance with the Secretary. The Secretary is not entitled to the benefit of the additional insurance.
+With the approval of the Secretary of Transportation, a person having an insurable interest in a vessel may obtain insurance on the vessel with other underwriting agents in addition to the insurance with the Secretary. The Secretary is not entitled to the benefit of the additional insurance.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1630.)
 

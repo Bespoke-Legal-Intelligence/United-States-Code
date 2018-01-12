@@ -66,7 +66,7 @@
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
-(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days afterthe date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
+(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
 
 #### (b) Reports to Congress
 
@@ -104,7 +104,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 (ii) The effective period of any action under this section, including any extensions thereof, may not, in the aggregate, exceed 8 years.
 
-(2) Action of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
+(2) Action of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under section 2252(d)(1)(G) of thistitle, or under section 2252(d)(2)(D) of this title only to the extent the cumulative impact of such action does not exceed the amount necessary to prevent or remedy the serious injury.
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 

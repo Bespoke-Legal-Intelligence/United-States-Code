@@ -2,7 +2,7 @@
 
 (a) On request of the mortgagee and before executing a preferred mortgage, the mortgagor shall disclose in writing to the mortgagee the existence of any obligation known to the mortgagor on the vessel to be mortgaged.
 
-(b) After executing a preferred mortgage and before the mortgagee has had a reasonable time to file the mortgage, the mortgagor may not incur, without the consent of the mortgagee, any contractual obligation establishing a lien on the vessel except a lien for—
+(b) After executing a preferred mortgage and before the mortgagee has had a reasonable timeto file the mortgage, the mortgagor may not incur, without the consent of the mortgagee, any contractual obligation establishing a lien on the vessel except a lien for—
 
 &emsp;(1) wages of a stevedore when employed directly by a person listed in section 31341 of this title;
 
@@ -39,4 +39,8 @@ Section 31323(a) requires the mortgagor to disclose any obligations on the vesse
 Section 31323(b) provides that, after executing a preferred mortgage, the mortgagor may not incur, without consent of the mortgagee, any contractual obligations establishing a lien on the vessel—except a lien for stevedore wages, crew wages, general average, and salvage. The only substantive change to law made by this subsection is that the reasonable time to record a mortgage is changed to a reasonable time to file the mortgage, and the elimination of the reference to endorsements. These changes are in keeping with the changes made in section 31322.
 
 Section 31323(c) provides that if a mortgagor is convicted of a violation of this section, then the mortgage indebtedness, at the option of the mortgagee, is payable immediately. This subsection makes no substantive change to law.
+
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 

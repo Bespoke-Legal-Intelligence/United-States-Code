@@ -58,7 +58,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;(ii) in determining overpayments and underpayments for purposes of applying paragraph (2)(B)—
 
-&emsp;&emsp;&emsp;&emsp;(I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph (2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and
+&emsp;&emsp;&emsp;&emsp;(I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph\(2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and
 
 &emsp;&emsp;&emsp;&emsp;(II) any decrease in such income for any taxable year by reason of such allocation shall be treated as giving rise to an overpayment determined by applying the highest rate for such year to such decrease, and
 
@@ -248,7 +248,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;(i) has a recovery period of 7 years or less, and
 
-&emsp;&emsp;&emsp;(ii) is placed in service before January 1, 2020 (January 1, 2021 in the case of property described in section 168(k)(2)(B)).
+&emsp;&emsp;&emsp;(ii) is placed in service before January 1, 2027 (January 1, 2028 in the case of property described in section 168(k)(2)(B)).
 
 #### (d) Federal long-term contract
 
@@ -274,39 +274,29 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any home construction contract, or
 
-&emsp;&emsp;(B) any other construction contract entered into by a taxpayer—
+&emsp;&emsp;(B) any other construction contract entered into by a taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))—
 
 &emsp;&emsp;&emsp;(i) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
 
-&emsp;&emsp;&emsp;(ii) whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.
+&emsp;&emsp;&emsp;(ii) who meets the gross receipts test of section 448(c) for the taxable year in which such contract is entered into.
 
 > &emsp;In the case of a home construction contract with respect to which the requirements of clauses (i) and (ii) of subparagraph (B) are not met, section 263A shall apply notwithstanding subsection (c)(4) thereof.
 
-#### (2) Determination of taxpayer's gross receipts
+#### (2) Rules related to gross receipts test
 
-&emsp;For purposes of paragraph (1), the gross receipts of—
+#### (A) Application of gross receipts test to individuals, etc.
 
-&emsp;&emsp;(A) all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)),
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), in the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
 
-&emsp;&emsp;(B) all members of any controlled group of corporations of which the taxpayer is a member, and
+#### (B) Coordination with section 481
 
-&emsp;&emsp;(C) any predecessor of the taxpayer or a person described in subparagraph (A) or (B),
+&emsp;&emsp;Any change in method of accounting made pursuant to paragraph (1)(B)(ii) shall be treated as initiated by the taxpayer and made with the consent of the Secretary. Such change shall be effected on a cut-off basis for all similarly classified contracts entered into on or after the year of change.
 
-> &emsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph (1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
-
-#### (3) Controlled group of corporations
-
-&emsp;For purposes of this subsection, the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
-
-&emsp;&emsp;(A) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a)(1), and
-
-&emsp;&emsp;(B) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
-
-#### (4) Construction contract
+#### (3) Construction contract
 
 &emsp;For purposes of this subsection, the term "construction contract" means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
 
-#### (5) Special rule for residential construction contracts which are not home construction contracts
+#### (4) Special rule for residential construction contracts which are not home construction contracts
 
 &emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
 
@@ -314,7 +304,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) by substituting "30 percent" for "10 percent".
 
-#### (6) Definitions relating to residential construction contracts
+#### (5) Definitions relating to residential construction contracts
 
 &emsp;For purposes of this subsection—
 
@@ -360,19 +350,29 @@ For purposes of this section—
 
 #### (g) Contract commencement date
 
-For purposes of this section, the term "contract commencement date" means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+For purposes of this section, the term "contract commencement date" means, with respectto any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 #### (h) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104, 2107.)
 
 #### References in Text
 
-The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(5), is the date of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
+The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(4), is the date of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(6)(B)(ii). Pub. L. 115–97, §13201(b)(2)(A), substituted "January 1, 2027 (January 1, 2028" for "January 1, 2020 (January 1, 2021".
+
+Subsec. (e)(1)(B). Pub. L. 115–97, §13102(d)(1)(A), in introductory provisions, inserted "(other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))" after "taxpayer".
+
+Subsec. (e)(1)(B)(ii). Pub. L. 115–97, §13102(d)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000."
+
+Subsec. (e)(2). Pub. L. 115–97, §13102(d)(2), added par. (2) and struck out former par. (2) which related to determination of taxpayer's gross receipts.
+
+Subsec. (e)(3) to (6). Pub. L. 115–97, §13102(d)(2), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to controlled group of corporations.
 
 <b>2015</b>—Subsec. (c)(6)(B)(ii). Pub. L. 114–113, §143(b)(6)(I), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)), or after December 31, 2012, and before January 1, 2016 (January 1, 2017, in the case of property described in section 168(k)(2)(B))."
 
@@ -426,7 +426,7 @@ Subsec. (b)(2). Pub. L. 101–239, §7621(c)(1), redesignated par. (3) as (2). F
 
 Pub. L. 101–239, §7811(e)(4), (6), inserted two sentences at end.
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7811(e)(2), substituted "any amount properly taken into account" for"any amount received or accrued" and "is so properly taken into account" for "is so received or accrued".
+Subsec. (b)(2)(B). Pub. L. 101–239, §7811(e)(2), substituted "any amount properly taken into account" for "any amount received or accrued" and "is so properly taken into account" for "is so received or accrued".
 
 Subsec. (b)(3). Pub. L. 101–239, §7621(c)(1), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
@@ -492,6 +492,12 @@ Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "70 percent" for "40 percent" in par. (1)(A) and in heading and text of par. (2), and "30 percent" for "60 percent" in par. (1)(B).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13102(d) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with provision for exemption from percentage completion for long-term contracts, see section 13102(e) of Pub. L. 115–97, set out as a note under section 263A of this title.
+
+Amendment by section 13201 of Pub. L. 115–97 applicable to property acquired and placed in service after Sept. 27, 2017, and specified plants planted or grafted after Sept. 27, 2017, see section 13201(h) of Pub. L. 115–97, set out as a note under section 168 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014, in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title.
@@ -528,7 +534,7 @@ Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as other
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c)of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures describedin section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 

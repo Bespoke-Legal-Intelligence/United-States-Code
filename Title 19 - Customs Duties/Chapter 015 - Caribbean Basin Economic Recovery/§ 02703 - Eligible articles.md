@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) the President determines that such fabrics or yarn cannot be supplied by the domestic industry in commercial quantities in a timely manner;
 
-&emsp;&emsp;&emsp;&emsp;(bb) the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
+&emsp;&emsp;&emsp;&emsp;(bb) the President has obtained advice regarding the proposed action from theappropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
 
 &emsp;&emsp;&emsp;&emsp;(cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
 
@@ -186,7 +186,7 @@
 
 #### (B) Preferential treatment
 
-&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enterthe United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
+&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
 
 #### (C) Handloomed, handmade, and folklore articles
 
@@ -232,7 +232,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
+&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S.Note 2(b) to subchapter II of chapter 98 of the HTS.
 
 #### (iii) Certain footwear
 
@@ -244,7 +244,7 @@
 
 #### (B) Relationship to subsection (h) duty reductions
 
-&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resultingfrom such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
 #### (4) Customs procedures
 
@@ -442,7 +442,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (3) For purposes of subsections <sup>1</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
-(4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
+(4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall betaken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>2</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
@@ -450,7 +450,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 #### (f) Petitions to International Trade Commission
 
-(1) If a petition is filed with the International Trade Commission pursuant to the provisions ofsection 201 of the Trade Act of 1974 \[19 U.S.C. 2251\] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.
+(1) If a petition is filed with the International Trade Commission pursuant to the provisions of section 201 of the Trade Act of 1974 \[19 U.S.C. 2251\] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.
 
 (2) Within fourteen days after the filing of a petition under paragraph (1) of this subsection—
 
@@ -568,7 +568,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 108–429, §1558(2)(A), substituted "Subject to c
 
 Subsec. (b)(3)(A)(iii). Pub. L. 108–429, §1558(2)(B), added cl. (iii).
 
-<b>2002</b>—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2), substituted "Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." for "Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." See Codification note above.
+<b>2002</b>—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2),substituted "Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." for "Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." See Codification note above.
 
 Pub. L. 107–210, §3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: "Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—".
 
@@ -908,7 +908,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Duty-Free Treatment of Imported Rum; Compensation Measures; Presidential Authority; Report to Congress
 
-Pub. L. 98–67, title II, §214(c), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c)of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes."
+Pub. L. 98–67, title II, §214(c), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes."
 
 #### Proc. No. 7351. To Implement the United States-Caribbean Basin Trade Partnership Act
 
@@ -928,7 +928,7 @@ Sec. 2. <i>Handloomed, Handmade, and Folklore Articles and Ethnic Printed Fabric
 
 Sec. 3. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 112(d)(1)(B)(iii) of the AGOA (19 U.S.C. 3721(d)(1)(B)(iii)) to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take suchactions to carry out any such determination as directed by the Committee.
 
 Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1) of the AGOA (19 U.S.C. 3721(a) and 3722(a)(1)), the USTR is authorized to direct the Commissioner to take such actions as may be necessary to ensure that textile and apparel articles described in section 112(b) of the AGOA (19 U.S.C. 3721(b)) that are entered, or withdrawn from warehouse, for consumption are accompanied by an appropriate export visa, if the preferential treatment described in section 112(a) of the AGOA is claimed with respect to such articles.
 
@@ -936,7 +936,7 @@ Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1)
 
 Sec. 6. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(aa) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(aa)), as added by section 211(a) of the CBTPA, to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the USTR are jointly authorized to exercise the authority vested in the President under sections 213(b)(2)(A)(v)(II)(bb), (cc), and (ee) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(bb), (cc), and (ee)), as added by section 211(a) of the CBTPA, to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(bb) of the CBERA to obtain advice from the USITC.
 
-Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the Presidentunder section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 8. <i>Handloomed, Handmade, and Folklore Articles</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(C) of the CBERA (19 U.S.C. 2703(b)(2)(C)), as added by section 211(a) of the CBTPA, to consult with representatives of CBTPA beneficiary countries for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, hand made, or folklore goods within the meaning of that section. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 

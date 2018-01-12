@@ -10,5 +10,5 @@ Section 3326, act June 25, 1948, ch. 645, 62 Stat. 829, related to disclosure of
 
 Section 3327, act June 25, 1948, ch. 645, 62 Stat. 830, related to concurrence of 12 or more jurors in the indictment and return of the indictment to the judge in open court. See Rule 6(f) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
-Section 3328, act June 25, 1948, ch. 645, 62 Stat. 830, related to discharge of grand jury by court, limitation of service, and excusing jurors for cause. See Rule 6(g) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+Section 3328, act June 25, 1948, ch. 645, 62 Stat. 830, related to discharge of grand jury by court, limitation of service, and excusing jurors for cause. See Rule 6(g) ofthe Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 

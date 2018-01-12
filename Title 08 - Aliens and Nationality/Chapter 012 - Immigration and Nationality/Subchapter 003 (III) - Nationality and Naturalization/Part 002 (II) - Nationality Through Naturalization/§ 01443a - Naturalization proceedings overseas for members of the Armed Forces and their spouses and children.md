@@ -18,7 +18,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective Jan. 28, 2008, and applicable to any application for naturalization orissuance of a certificate of citizenship pending on or after such date, see section 674(d) of Pub. L. 110–181, set out as a note under section 1430 of this title.
+Amendment by Pub. L. 110–181 effective Jan. 28, 2008, and applicable to any application for naturalization or issuance of a certificate of citizenship pending on or after such date, see section 674(d) of Pub. L. 110–181, set out as a note under section 1430 of this title.
 
 #### Effective Date
 

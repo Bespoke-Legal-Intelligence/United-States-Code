@@ -6,7 +6,7 @@
 
 (3) Immediately upon instituting any such suit or action, the State shall serve written notice thereof upon the Commission and provide the Commission with a copy of its complaint, and the Commission shall have the right to (A) intervene in the suit or action and, upon doing so, shall be heard on all matters arising therein, and (B) file petitions for appeal.
 
-(4) Any suit or action brought under this section in a district court of the United States may be brought in the district wherein the defendant is found or is an inhabitant or transacts business or wherein the act or practice occurred, is occurring, or is about to occur, and process in such cases may be served in any district in which the defendant is an inhabitant or wherever the defendant may be found.
+(4) Any suit or action brought under this section in a district court of the United States may be brought in the district wherein the defendant is found or is an inhabitant or transacts business or wherein the act or practice occurred, is occurring, or is about to occur, and process in such cases may be served in any district inwhich the defendant is an inhabitant or wherever the defendant may be found.
 
 (5) For purposes of bringing any suit or action under this section, nothing in this chapter shall prevent the attorney general, the administrator of the State securities laws, or other duly authorized State officials from exercising the powers conferred on them by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 

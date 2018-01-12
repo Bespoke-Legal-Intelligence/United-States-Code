@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 99–194, §108(3), (4), substituted "Chairperson" for "Cha
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–346 set forth provisions governing compensation of persons employed for the Government service on an intermittent basis.
 
-<b>1968</b>—Subsec. (f). Pub. L. 90–348 inserted provisions which authorized the Chairman, in the case of any application involving $10,000 or less, to approve or disapprove the application if such action is pursuant to the terms of a delegation of authority from the Endowment Council and such action is reviewed by the Endowment Council.
+<b>1968</b>—Subsec. (f). Pub. L. 90–348 inserted provisions which authorized the Chairman, in the case of any application involving $10,000 or less, to approve or disapprove the application if such action is pursuant tothe terms of a delegation of authority from the Endowment Council and such action is reviewed by the Endowment Council.
 
 #### Effective Date of 1973 Amendment
 

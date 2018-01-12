@@ -12,7 +12,7 @@ Alaska constitutes one judicial district.
 
 #### Effective Date of 1959 Amendment
 
-Section 12 of Pub. L. 85–508 provided in part that this section, and the amendments to sections 133, 333, 373, 376, 460, 610, 753, 1252, 1291, 1292, 1294, 1346, 1963, 2072, 2201 and 2410 of this title, section 341b of Title 5, Government Organization and Employees, and sections 3241, 3401, 3771 and 3772 of Title 18, Crimes and Criminal Procedure, are effective on the admission of Alaska into the Union. Admission as a State was accomplished Jan. 3, 1959 upon issuance of Proc. No. 3269, Jan. 3, 1959, 24F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508. See notes set out preceding section 21 of Title 48, Territories and Insular Possessions.
+Section 12 of Pub. L. 85–508 provided in part that this section, and the amendments to sections 133, 333, 373, 376, 460, 610, 753, 1252, 1291, 1292, 1294, 1346, 1963, 2072, 2201 and 2410 of this title, section 341b of Title 5, Government Organization and Employees, and sections 3241, 3401, 3771 and 3772 of Title 18, Crimes and Criminal Procedure, are effective on the admission of Alaska into the Union. Admission as a State was accomplished Jan. 3, 1959 upon issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508. See notes set out preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Continuation of Suits
 
@@ -42,13 +42,13 @@ Pub. L. 85–508, §18, July 7, 1958, 72 Stat. 350, provided that: "The provisio
 
 #### Schedule of Fees, Mileage, or Other Compensation
 
-Pub. L. 86–70, §23(c), June 25, 1959, 73 Stat. 147, provided that: "Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25) shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[this section\], providing for the admission of the State of Alaska into the Union, is established."
+Pub. L. 86–70, §23(c), June 25, 1959, 73 Stat. 147, provided that: "Such authority as has been exercised bythe Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25) shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[this section\], providing for the admission of the State of Alaska into the Union, is established."
 
 #### Ex. Ord. No. 10867. Assumption of Functions by United States District Court for District of Alaska
 
 Ex. Ord. No. 10867, Feb. 20, 1960, 25 F.R. 1584, provided:
 
-WHEREAS the act of July 7, 1958, 72 Stat. 339 \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], relating to the admission ofthe State of Alaska into the Union, provides that the United States District Court for the Territory of Alaska shall continue to function as theretofore for a period of three years after the effective date of that act, unless the President, by Executive order, shall sooner proclaim that the United States District Court for the District of Alaska, established in accordance with the provisions of that act, is prepared to assume the functions imposed upon it; and
+WHEREAS the act of July 7, 1958, 72 Stat. 339 \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], relating to the admission of the State of Alaska into the Union, provides that the United States District Court for the Territory of Alaska shall continue to function as theretofore for a period of three years after the effective date of that act, unless the President, by Executive order, shall sooner proclaim that the United States District Court for the District of Alaska, established in accordance with the provisions of that act, is prepared to assume the functions imposed upon it; and
 
 WHEREAS that act further provides that its provisions relating to the termination of the jurisdiction of the District Court for the Territory of Alaska, the continuation of suits, the succession of courts, and the satisfaction of the rights of litigants in suits before such courts shall not be effective until the expiration of the above-mentioned three-year period or until such Executive order is issued; and that the tenure of the judges, the United States Attorneys, Marshals, and other officers of the United States District Court for the Territory of Alaska shall terminate at such time as that court shall cease to function; and
 

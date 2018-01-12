@@ -54,7 +54,7 @@
 
 <b>2006</b>—Pub. L. 109–468, §§2(b)(3), 6(b), 8(b), 12(b), Dec. 29, 2006, 120 Stat. 3489, 3491, 3492, 3495, added items 60134 to 60137.
 
-<b>2002</b>—Pub. L. 107–355, §§6(c), 9(c), 11(b), 13(a)(2), 15(b), 16(b), 20(a)(2)(B), Dec. 17, 2002, 116 Stat. 2993, 2995, 2997, 3001, 3006, 3008, 3010, substituted "Purpose and general authority" for "General authority" in item 60102 and "Population encroachment and rights-of-way" for "Population encroachment" in item 60127 and added items 60129 to 60133.
+<b>2002</b>—Pub. L. 107–355, §§6(c), 9(c), 11(b), 13(a)(2), 15(b), 16(b), 20(a)(2)(B), Dec. 17, 2002, 116 Stat. 2993, 2995, 2997, 3001, 3006, 3008, 3010, substituted "Purpose and general authority" for "General authority" in item 60102 and"Population encroachment and rights-of-way" for "Population encroachment" in item 60127 and added items 60129 to 60133.
 
 <b>1996</b>—Pub. L. 104–304, §§5(f)\[(b)\], 15(c)\[(b)\], 16(b), 18(b)(2), 20(e), Oct. 12, 1996, 110 Stat. 3800, 3803, 3804, substituted "State pipeline safety program certifications" for "State certifications" in item 60105, "State pipeline safety agreements" for "State agreements" in item 60106, "State pipeline safety grants" for "State grants" in item 60107, and "Biennial reports" for "Annual reports" in item 60124 and added items 60126, 60127, and 60128.
 
@@ -64,7 +64,7 @@ Memorandum of President of the United States, Mar. 22, 2012, 77 F.R. 18891, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-In an economy that relies on oil, rising prices at the pump affect all of us. With crude oil prices controlling about three-quarters of gasoline prices, the most important driver of the price here at home is the world oilprice—making our economy vulnerable to events halfway around the globe. There are no quick fixes to this problem. In the long run we need to reduce America's dependence on oil—which is why my Administration is implementing historic fuel economy standards for cars and trucks, launching new programs to improve energy efficiency in our buildings, and facilitating the safe and responsible development of our natural gas resources.
+In an economy that relies on oil, rising prices at the pump affect all of us. With crude oil prices controlling about three-quarters of gasoline prices, the most important driver of the price here at home is the world oil price—making our economy vulnerable to events halfway around the globe. There are no quick fixes to this problem. In the long run we need to reduce America's dependence on oil—which is why my Administration is implementing historic fuel economy standards for cars and trucks, launching new programs to improve energy efficiency in our buildings, and facilitating the safe and responsible development of our natural gas resources.
 
 But for the foreseeable future, we will continue to rely on oil to help fuel our transportation system. As a result, we must safely and responsibly develop our oil resources here at home, as part of an all-of-the-above energy strategy to grow our economy and make us more secure.
 

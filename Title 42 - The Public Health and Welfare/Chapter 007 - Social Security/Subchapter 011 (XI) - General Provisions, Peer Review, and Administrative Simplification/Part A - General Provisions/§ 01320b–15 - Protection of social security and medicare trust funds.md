@@ -12,7 +12,7 @@ No officer or employee of the United States shall—
 
 #### (b) "Public debt obligation" defined
 
-For purposes of this section, the term "public debt obligation" means any obligation subject to the public debt limit established under section 3101 of title 31.
+For purposes of this section, the term "public debt obligation" means any obligation subjectto the public debt limit established under section 3101 of title 31.
 
 #### (c) "Federal fund" defined
 

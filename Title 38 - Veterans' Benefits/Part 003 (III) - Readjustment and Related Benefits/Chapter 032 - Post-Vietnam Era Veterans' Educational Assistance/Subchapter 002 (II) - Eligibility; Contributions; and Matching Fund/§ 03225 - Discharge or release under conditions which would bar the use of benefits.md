@@ -10,3 +10,7 @@ If a participant in the program is discharged or released from active duty under
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator".
 
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under section 3201 of this title.
+

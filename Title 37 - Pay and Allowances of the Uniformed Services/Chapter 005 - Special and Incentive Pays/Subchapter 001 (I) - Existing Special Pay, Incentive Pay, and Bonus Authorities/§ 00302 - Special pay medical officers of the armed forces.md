@@ -48,7 +48,7 @@ Incentive Special Pay.—(1) Subject to subsection (c) and paragraph (2) and und
 
 (c)
 
-Active-Duty Agreement.—(1) An officer may not be paid additional special pay undersubsection (a)(4) or incentive special pay under subsection (b) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
+Active-Duty Agreement.—(1) An officer may not be paid additional special pay under subsection (a)(4) or incentive special pay under subsection (b) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
 (2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by subsection (a)(4) or (b)(1). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
 
@@ -90,7 +90,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(4), Jan. 6, 2006, 119 Stat. 3328; Pub. L. 110–181, div. A, title VI, §615(a), Jan. 28, 2008, 122 Stat. 150.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub.L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(4), Jan. 6, 2006, 119 Stat. 3328; Pub. L. 110–181, div. A, title VI, §615(a), Jan. 28, 2008, 122 Stat. 150.)
 
 Historical and Revision Notes
 
@@ -228,7 +228,7 @@ Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, whichrequire the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
 
@@ -284,7 +284,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application of Increase
 
-In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
+In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonusthat may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 
 #### Prohibition on Use of Appropriations To Pay Bonuses to Certain Regular or Reserve Medical Officers of Public Health Service
 

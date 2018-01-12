@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(C) short-term emergency lodging in motels or shelters, either directly or through vouchers;
 
-&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness;
+&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housingto homeless individuals and families and individuals and families at risk of homelessness;
 
 &emsp;&emsp;(E) acquisition or rehabilitation of a structure to provide supportive services or to provide transitional or permanent housing, other than emergency shelter, to homeless individuals and families and individuals and families at risk of homelessness;
 
@@ -122,7 +122,7 @@ Organizations eligible to receive a grant under subsection (a) shall include pri
 
 #### (1) In general
 
-&emsp;An organization eligible to receive a grant under subsection (a) shall specify matchingcontributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
+&emsp;An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
 
 #### (2) Limitations on in-kind match
 
@@ -196,7 +196,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) located in a county where at least 75 percent of the population is rural; or
 
-&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is the sole beneficiary of the grant amounts awarded under this section.
+&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is thesole beneficiary of the grant amounts awarded under this section.
 
 #### (3) Secretary
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall determine the total amount of funding attributable under section11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
+&emsp;The Secretary shall determine the total amount of funding attributable under section 11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
 
 #### (2) Availability
 
@@ -278,5 +278,5 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 
 #### Definition
 
-For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub.L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

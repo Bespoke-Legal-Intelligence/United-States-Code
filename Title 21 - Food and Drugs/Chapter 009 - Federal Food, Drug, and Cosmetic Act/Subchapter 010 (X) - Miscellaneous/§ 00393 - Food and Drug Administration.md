@@ -154,7 +154,7 @@ Pub. L. 100–607, title V, §503(c), Nov. 4, 1988, 102 Stat. 3121, provided tha
 
 #### Office of Minor Use and Minor Species Animal Drug Development
 
-Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health and Human Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
+Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health andHuman Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
 
 #### Regulations for Sunscreen Products
 
@@ -174,7 +174,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Ju
 
 "(b)
 
-Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User FeeAgreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
+Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
 
 &emsp;"(1) identify a clear vision of the fundamental role of efficient, consistent, and predictable, science-based decisions throughout regulatory decisionmaking of the Food and Drug Administration with respect to medical products;
 
@@ -250,7 +250,7 @@ List and Analysis.—The Secretary of Health and Human Services shall, acting th
 
 &emsp;"(2) provide a quantitative and qualitative analysis of the mercury compounds in the list under paragraph (1).
 
-> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Actof 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
+> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Act of 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
 
 "(b)
 

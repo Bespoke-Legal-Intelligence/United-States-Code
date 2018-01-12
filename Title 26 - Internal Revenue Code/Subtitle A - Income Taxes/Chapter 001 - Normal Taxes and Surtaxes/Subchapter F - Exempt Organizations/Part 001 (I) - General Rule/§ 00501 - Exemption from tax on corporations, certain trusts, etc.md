@@ -24,7 +24,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(2) Corporations organized for the exclusive purpose of holding title to property, collecting income therefrom, and turning over the entire amount thereof, less expenses, to an organization which itself is exempt under this section. Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.
 
-&emsp;(3) Corporations, and any community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or to foster national orinternational amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation (except as otherwise provided in subsection (h)), and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office.
+&emsp;(3) Corporations, and any community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation (except as otherwise provided in subsection (h)), and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office.
 
 &emsp;(4)(A) Civic leagues or organizations not organized for profit but operated exclusively for the promotion of social welfare, or local associations of employees, the membership of which is limited to the employees of a designated person or persons in a particular municipality, and the net earnings of which are devoted exclusively to charitable, educational, or recreational purposes.
 
@@ -42,7 +42,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(B) providing for the payment of life, sick, accident, or other benefits to the members of such society, order, or association or their dependents.
 
-&emsp;(9) Voluntary employees' beneficiary associations providing for the payment of life, sick, accident, or other benefits to the members of such association or their dependents or designated beneficiaries, if no part of the net earnings of such association inures (other than through such payments) to the benefit of any private shareholder or individual. For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term "dependent" shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.
+&emsp;(9) Voluntary employees' beneficiary associations providing for the payment of life, sick, accident, or other benefits to the members of such association or their dependents or designated beneficiaries, if no part of the netearnings of such association inures (other than through such payments) to the benefit of any private shareholder or individual. For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term "dependent" shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.
 
 &emsp;(10) Domestic fraternal societies, orders, or associations, operating under the lodge system—
 
@@ -164,7 +164,7 @@ The following organizations are referred to in subsection (a):
 
 > &emsp;Clause (ii) shall not apply to a company if any employee of the company, or a member of the employee's family (as defined in section 2032A(e)(2)), is an employee of another company exempt from taxation by reason of this paragraph (or would be so exempt but for this sentence).
 
-&emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
+&emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company orassociation for which the determination is being made.
 
 &emsp;(C) For purposes of subparagraph (B), the term "controlled group" has the meaning given such term by section 831(b)(2)(B)(ii),<sup>1</sup> except that in applying section 831(b)(2)(B)(ii) <sup>1</sup> for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
 
@@ -202,7 +202,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(B) such benefits are payable to employees under a classification which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)),
 
-&emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning of section 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
+&emsp;&emsp;(C) such benefits do not discriminate in favor of employees who are highly compensated employees (within the meaning ofsection 414(q)). A plan shall not be considered discriminatory within the meaning of this subparagraph merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan, and
 
 &emsp;&emsp;(D) in the case of a plan under which an employee may designate certain contributions as deductible—
 
@@ -242,7 +242,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;&emsp;(I) the purposes described in clause (i),
 
-&emsp;&emsp;&emsp;(II) investment (but only to the extent that the trustee determines that a portionof the assets is not currently needed for the purposes described in clause (i)) in qualified investments, or
+&emsp;&emsp;&emsp;(II) investment (but only to the extent that the trustee determines that a portion of the assets is not currently needed for the purposes described in clause (i)) in qualified investments, or
 
 &emsp;&emsp;&emsp;(III) payment into the Black Lung Disability Trust Fund established under section 9501, or into the general fund of the United States Treasury (other than in satisfaction of any tax or other civil or criminal liability of the person who established or contributed to the trust).
 
@@ -340,7 +340,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(iii) For purposes of this subtitle, if any corporation which was a qualified subsidiary ceases to meet the requirements of clause (ii), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the corporation or trust described in subparagraph (A) in exchange for its stock.
 
-&emsp;(F) For purposes of subparagraph (A), the term "real property" includes any personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section 856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
+&emsp;(F) For purposes of subparagraph (A), the term "real property" includes any personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
 
 &emsp;(G)(i) An organization shall not be treated as failing to be described in this paragraph merely by reason of the receipt of any otherwise disqualifying income which is incidentally derived from the holding of real property.
 
@@ -584,7 +584,7 @@ Notwithstanding subsection (a), an organization which is described in subsection
 
 #### (k) Treatment of certain organizations providing child care
 
-For purposes of subsection (c)(3) of this section and sections 170(c)(2), 2055(a)(2), and 2522(a)(2), the term "educational purposes" includes the providing of care of children away from their homes if—
+For purposes of subsection (c)(3) of this section and sections 170(c)(2), 2055(a)(2), and2522(a)(2), the term "educational purposes" includes the providing of care of children away from their homes if—
 
 &emsp;(1) substantially all of the care provided by the organization is for purposes of enabling individuals to be gainfully employed, and
 
@@ -710,7 +710,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;An organization is described in this paragraph if such organization is designated or otherwise individually identified—
 
-&emsp;&emsp;(A) under section 212(a)(3)(B)(vi)(II) or 219 of the Immigration and Nationality Act as aterrorist organization or foreign terrorist organization,
+&emsp;&emsp;(A) under section 212(a)(3)(B)(vi)(II) or 219 of the Immigration and Nationality Act as a terrorist organization or foreign terrorist organization,
 
 &emsp;&emsp;(B) in or pursuant to an Executive order which is related to terrorism and issued under the authority of the International Emergency Economic Powers Act or section 5 of the United Nations Participation Act of 1945 for the purpose of imposing on such organization an economic or other sanction, or
 
@@ -804,7 +804,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;&emsp;(iii) the beneficial interest of any trust or estate (other than a trust which is an organization described in subsection (c)(3) and exempt from tax under subsection (a)) which is in the trade or business of lending money, repairing credit, or providing debt management plan services, payment processing, or similar services.
 
-&emsp;&emsp;(F) The organization receives no amount for providing referrals to others for debt management plan services, and pays no amount to others for obtaining referrals of consumers.
+&emsp;&emsp;(F) The organization receives no amount for providing referrals to others for debtmanagement plan services, and pays no amount to others for obtaining referrals of consumers.
 
 #### (2) Additional requirements for organizations described in subsection (c)(3)
 
@@ -892,7 +892,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;An organization meets the requirements of this paragraph with respect to any taxable year only if the organization—
 
-&emsp;&emsp;&emsp;(i) has conducted a community health needs assessment which meets the requirements of subparagraph (B) in such taxable year or in either of the 2 taxable years immediately preceding such taxable year, and
+&emsp;&emsp;&emsp;(i) has conducted a community health needs assessment which meets the requirements of subparagraph (B) in such taxableyear or in either of the 2 taxable years immediately preceding such taxable year, and
 
 &emsp;&emsp;&emsp;(ii) has adopted an implementation strategy to meet the community health needs identified through such assessment.
 
@@ -942,7 +942,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;The Secretary shall issue such regulations and guidance as may be necessary to carry out the provisions of this subsection, including guidance relating to what constitutes reasonable efforts to determine the eligibility of a patient under a financial assistance policy for purposes of paragraph (6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iii), (62), Dec. 19, 2014, 128 Stat. 4040, 4048; Pub. L. 114–113, div. Q, title III, §331(b), Dec. 18, 2015, 129 Stat. 3104.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121,title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iii), (62), Dec. 19, 2014, 128 Stat. 4040, 4048; Pub. L. 114–113, div. Q, title III, §331(b), Dec. 18, 2015, 129 Stat. 3104.)
 
 #### References in Text
 
@@ -976,7 +976,7 @@ Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
-The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L.95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 5 of the United Nations Participation Act of 1945, referred to in subsec. (p)(2)(B), is classified to section 287c of Title 22, Foreign Relations and Intercourse.
 
@@ -1008,7 +1008,7 @@ Subsec. (r)(5)(A). Pub. L. 111–148, §10903(a), substituted "the amounts gener
 
 Subsec. (s). Pub. L. 111–148, §9007(a), redesignated subsec. (r) as (s).
 
-<b>2006</b>—Subsec. (c)(21)(C). Pub. L. 109–280, §862(a), amended introductory provisions and cls. (i) and (ii) generally. Prior to amendment, introductory provisions and cls. (i) and (ii) read as follows: "Payments described in subparagraph (A)(i)(IV) may be made from such trust during a taxable year only to the extent that the aggregate amount of such payments during such taxable year does not exceed the lesser of—
+<b>2006</b>—Subsec. (c)(21)(C). Pub. L. 109–280, §862(a), amended introductory provisions and cls. (i) and (ii) generally. Prior to amendment, introductory provisions and cls. (i) and (ii) read as follows: "Payments described in subparagraph (A)(i)(IV) may be made from such trust during a taxable year only to the extent thatthe aggregate amount of such payments during such taxable year does not exceed the lesser of—
 
 &emsp;"(i) the excess (if any) (as of the close of the preceding taxable year) of—
 
@@ -1204,7 +1204,7 @@ Subsec. (b). Pub. L. 91–172, §101(j)(4), inserted reference to certain other 
 
 Subsec. (c). Pub. L. 91–172, §§101(j)(5), 121(b)(6)(A), substituted "part IV" for "part III" after "Corporations organized by an association subject to" and added par. 18.
 
-Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck out reference to 85 percent or more income of voluntary employees' beneficiary associations.
+Subsec. (c)(9). Pub. L. 91–172, §121(b)(5)(A), inserted reference to designated beneficiaries and struck outreference to 85 percent or more income of voluntary employees' beneficiary associations.
 
 Subsec. (c)(10). Pub. L. 91–172, §121(b)(5)(A), substituted provisions concerning domestic fraternal societies, orders, or associations, operating under the lodge system, for provisions covering voluntary employees' beneficiary associations which would pay benefits to designated beneficiaries of members.
 
@@ -1266,7 +1266,7 @@ Transition rule for existing organizations.—In the case of any organization de
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -1358,7 +1358,7 @@ Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 
 
 Amendment by section 1012(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1012(c) of Pub. L. 99–514, set out as an Effective Date note under section 833 of this title.
 
-Amendment by section 1024(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 Amendment by section 1109(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1109(c) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
@@ -1394,7 +1394,7 @@ Amendment by Pub. L. 97–119 effective Jan. 1, 1982, see section 103(d)(1) of P
 
 Pub. L. 96–605, title I, §106(c)(1), Dec. 28, 1980, 94 Stat. 3524, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies."
 
-Pub. L. 96–601, §3(b), Dec. 24, 1980, 94 Stat. 3496, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 20, 1976."
+Pub. L. 96–601, §3(b), Dec. 24, 1980, 94 Stat. 3496, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to taxable years beginning after October 20, 1976."
 
 Amendment by Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under section 194A of this title.
 
@@ -1444,7 +1444,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Notice requirement.—For purposes of \[former\] section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall notexpire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.
+Notice requirement.—For purposes of \[former\] section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall not expire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.
 
 "(3)
 
@@ -1572,7 +1572,7 @@ Pub. L. 104–168, title XIII, §1311(b)(2), July 30, 1996, 110 Stat. 1478, prov
 
 #### Application of Pub. L. 100–647 to Section 501(c)(3) Bonds
 
-Pub. L. 100–647, title I, §1013(i), Nov. 10, 1988, 102 Stat. 3559, provided that: "In accordance with section 1302 of the Reform Act \[Pub. L. 99–514, set out as a note below\], each amendment and other provision of this Act \[see Tables for classification\] which applies to private activity bonds shall, unless otherwise expressly provided, apply to qualified 501(c)(3) bonds."
+Pub. L. 100–647, title I, §1013(i), Nov. 10, 1988, 102 Stat. 3559, provided that: "In accordance with section 1302 ofthe Reform Act \[Pub. L. 99–514, set out as a note below\], each amendment and other provision of this Act \[see Tables for classification\] which applies to private activity bonds shall, unless otherwise expressly provided, apply to qualified 501(c)(3) bonds."
 
 #### Cancellation of Certain Debts Originated by or Guaranteed by United States Not Taken Into Account in Determining Tax Exempt Status of Certain Organizations
 
@@ -1620,7 +1620,7 @@ In General.—For purposes of the Internal Revenue Code of 1986, an organization
 
 "(b)
 
-Qualified Organizations.—For purposes of this section, the term 'qualified organization' has the samemeaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
+Qualified Organizations.—For purposes of this section, the term 'qualified organization' has the same meaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
 
 "(c)
 
@@ -1676,7 +1676,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Applicability of 1976 Amendment to Certain Organizations
 
-Pub. L. 94–455, title XIII, §1313(c), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "An organization which (without regard to the amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\]) is an organization described in section 170(c)(2)(B), 501(c)(3), 2055(a)(2), or 2522(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not be treated as an organization not so described as a result of the amendments made by this section."
+Pub. L. 94–455, title XIII, §1313(c), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "An organization which\(without regard to the amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\]) is an organization described in section 170(c)(2)(B), 501(c)(3), 2055(a)(2), or 2522(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not be treated as an organization not so described as a result of the amendments made by this section."
 
 #### Tax Exemption for Certain Puerto Rican Pension, etc., Plans
 

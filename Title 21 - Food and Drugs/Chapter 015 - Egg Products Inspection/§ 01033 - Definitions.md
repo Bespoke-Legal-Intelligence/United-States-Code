@@ -60,7 +60,7 @@ For purposes of this chapter—
 
 (h) The term "Fair Packaging and Labeling Act" \[15 U.S.C. 1451 et seq.\] means the Act so entitled, approved November 3, 1966 (80 Stat. 1296), and Acts amendatory thereof or supplementary thereto.
 
-(i) The term "Federal Food, Drug, and Cosmetic Act" \[21 U.S.C. 301 et seq.\] means the Act so entitled, approved June 25, 1938 (52 Stat. 1040),and Acts amendatory thereof or supplementary thereto.
+(i) The term "Federal Food, Drug, and Cosmetic Act" \[21 U.S.C. 301 et seq.\] means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
 
 (j) The term "inspection" means the application of such inspection methods and techniques as are deemed necessary by the responsible Secretary to carry out the provisions of this chapter.
 
@@ -117,4 +117,8 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II 
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(2)(D). Pub. L. 102–571 substituted "379e" for "376".
+
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 

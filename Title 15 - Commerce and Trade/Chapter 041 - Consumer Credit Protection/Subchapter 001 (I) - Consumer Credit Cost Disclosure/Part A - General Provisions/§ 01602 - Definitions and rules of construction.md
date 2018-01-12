@@ -8,7 +8,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (c) The term "Board" refers to the Board of Governors of the Federal Reserve System.
 
-(d) The term "organization" means a corporation, government or governmental subdivisionor agency, trust, estate, partnership, cooperative, or association.
+(d) The term "organization" means a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
 
 (e) The term "person" means a natural person or an organization.
 
@@ -80,7 +80,7 @@ In general.—The term "high-cost mortgage", and a mortgage referred to in this 
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a transaction for less than $20,000, the lesser of 8 percent of the total transaction amount or $1,000 (or such other dollar amount as the Board shall prescribe by regulation); or
 
-&emsp;&emsp;&emsp;(iii) the credit transaction documents permit the creditor to charge or collect prepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
+&emsp;&emsp;&emsp;(iii) the credit transaction documents permit the creditor to charge or collectprepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
 
 &emsp;&emsp;(B)
 
@@ -98,7 +98,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 &emsp;&emsp;&emsp;(i) any premium provided by an agency of the Federal Government or an agency of a State;
 
-&emsp;&emsp;&emsp;(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and therefund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
+&emsp;&emsp;&emsp;(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
 
 &emsp;&emsp;&emsp;(iii) any premium paid by the consumer after closing.
 
@@ -276,7 +276,7 @@ Subsec. (bb)(2)(B). Pub. L. 111–203, §1431(b), which directed amendment of su
 
 Subsec. (bb)(4)(B). Pub. L. 111–203, §1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above. Text of former subpar. (B) read as follows: "all compensation paid to mortgage brokers;".
 
-Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec.\(aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
 Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
@@ -346,7 +346,7 @@ Section 102(b) of Pub. L. 97–25 provided that the amendment made by that secti
 
 Pub. L. 96–221, title VI, §625, Mar. 31, 1980, 94 Stat. 185, as amended by Pub. L. 97–25, title III, §301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, §301, Dec. 26, 1981, 95 Stat. 1515, provided that:
 
-"(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under section 1607 of this title\], the amendments made by this title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title\] shall take effect upon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
+"(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under section 1607 of this title\], the amendments made by this title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title\] shall take effectupon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
 
 "(b) All regulations, forms, and clauses required to be prescribed under the amendments made by this title shall be promulgated at least one year prior to such effective date.
 
@@ -364,7 +364,7 @@ Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 
-Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: "This subtitle \[subtitle B\(§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective."
+Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: "This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (cc) have been enacted.</i>
 

@@ -274,7 +274,7 @@ General victim assistance.—The guidelines should also ensure that any other im
 
 "(c) The Attorney General shall assure that all Federal law enforcement agencies outside of the Department of Justice adopt guidelines consistent with subsection (a) of this section."
 
-\[Amendment of section 6 of Pub. L. 97–291 by Pub. L. 98–473, set out above, effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as an Effective Date note under section 10601 of Title 42, The Public Health and Welfare.\]
+\[Amendment of section 6 of Pub. L. 97–291 by Pub. L. 98–473, set out above, effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as an Effective Date note under section 20101 of Title 34, Crime Control and Law Enforcement.\]
 
 <i><sup>1</sup></i><i> So in original.</i>
 

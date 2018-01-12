@@ -46,7 +46,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 #### (8) Round-trip ticket
 
-&emsp;The alien is in possession of a round-trip transportation ticket (unless this requirement is waived by the Secretary of Homeland Security under regulations or the alien is arrivingat the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
+&emsp;The alien is in possession of a round-trip transportation ticket (unless this requirement is waived by the Secretary of Homeland Security under regulations or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
 
 #### (9) Automated system check
 
@@ -70,7 +70,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(I) in Iraq or Syria;
 
-&emsp;&emsp;&emsp;&emsp;(II) in a country that is designated by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+&emsp;&emsp;&emsp;&emsp;(II) in a country that is designated by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law,as a country, the government of which has repeatedly provided support of acts of international terrorism; or
 
 &emsp;&emsp;&emsp;&emsp;(III) in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
 
@@ -178,7 +178,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (F) Passenger information exchange
 
-&emsp;&emsp;The government of the country enters into an agreement with the United States to share information regarding whether citizens and nationals of that country travelingto the United States represent a threat to the security or welfare of the United States or its citizens, and fully implements such agreement.
+&emsp;&emsp;The government of the country enters into an agreement with the United States to share information regarding whether citizens and nationals of that country traveling to the United States represent a threat to the security or welfare of the United States or its citizens, and fully implements such agreement.
 
 #### (G) Interpol screening
 
@@ -208,7 +208,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Low nonimmigrant visa refusal rate in each of the 2 previous years
 
-&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
+&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrantvisitor visas for nationals of that country which were granted or refused during that year.
 
 #### (4) Initial period
 
@@ -234,7 +234,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Effective date
 
-&emsp;&emsp;&emsp;A termination of the designation of a country under this subparagraph shall take effect on the date determined by theSecretary of Homeland Security, in consultation with the Secretary of State.
+&emsp;&emsp;&emsp;A termination of the designation of a country under this subparagraph shall take effect on the date determined by the Secretary of Homeland Security, in consultation with the Secretary of State.
 
 #### (iii) Redesignation
 
@@ -334,7 +334,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Notification to Congress
 
-&emsp;&emsp;&emsp;The Secretary shall notify Congress in writing of the date on which the air exit system under clause (i) fully satisfies the biometric requirements specified in subsection (i).
+&emsp;&emsp;&emsp;The Secretary shall notify Congress in writing of the date on which the air exitsystem under clause (i) fully satisfies the biometric requirements specified in subsection (i).
 
 #### (iii) Temporary suspension of waiver authority
 
@@ -398,7 +398,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (A) In general
 
-&emsp;&emsp;Prior to the admission of a new country into the program under this section, and in conjunction with the periodic evaluations required under subsection (c)(5)(A), the Director of National Intelligence shall conduct an independent intelligence assessment of a nominated country and member of the program.
+&emsp;&emsp;Prior to the admission of a new country into the program under this section, and inconjunction with the periodic evaluations required under subsection (c)(5)(A), the Director of National Intelligence shall conduct an independent intelligence assessment of a nominated country and member of the program.
 
 #### (B) Reporting requirement
 
@@ -458,7 +458,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (1) In general
 
-&emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
+&emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domesticcorporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
 &emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
@@ -550,7 +550,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (g) Visa application sole method to dispute denial of waiver based on a ground of inadmissibility
 
-In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this titlethat is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9), the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
+In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9), the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
 
 #### (h) Use of information technology systems
 
@@ -580,7 +580,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (i) Percentage of nationals lacking departure record
 
-&emsp;&emsp;&emsp;As part of the annual report required to be submitted under section 1365a(e)(1) of this title, the Secretary of Homeland Security shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
+&emsp;&emsp;&emsp;As part of the annual report required to be submitted under section 1365a(e)(1) ofthis title, the Secretary of Homeland Security shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
 
 #### (ii) System effectiveness
 
@@ -652,7 +652,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (i) Period
 
-&emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
+&emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provisionunder this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
 
 #### (ii) Limitation
 
@@ -852,7 +852,7 @@ Subsec. (e)(1)(B). Pub. L. 106–396, §101(a)(5)(B), struck out "pilot" before 
 
 Subsec. (e)(1)(D). Pub. L. 106–396, §205(b), added subpar. (D).
 
-Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted "carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier" and "failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations)or a domestic corporation conducting operations under part 91 of that title" for "carrier's failure".
+Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted "carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier" and "failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title" for "carrier's failure".
 
 Subsec. (e)(3). Pub. L. 106–396, §403(d)(2), added par. (3).
 
@@ -946,7 +946,7 @@ Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(F), (e)(9) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(F), (e)(9) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 

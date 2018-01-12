@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted "fiscal year 1982 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted "$500,000,000 for the fiscal year 1981" for "$673,500,000 for the fiscal year 1980".
 
-Subsec. (b). Pub. L. 96–533, §106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces from the Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
+Subsec. (b). Pub. L. 96–533, §106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces fromthe Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
 
 Subsec. (c). Pub. L. 96–533, §§105(b)(3), 106(c), substituted "defense articles, defense services, and design and construction services" for "defense articles and defense services" in two places, "1981" for "1980" in two places, and "$500,000,000" for "one-half".
 
@@ -101,6 +101,10 @@ Subsec. (b). Pub. L. 91–672, §2(2), substituted provisions setting out the fo
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Effective Date
+
+Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
 #### Ceilings on Loans for Greece, Sudan, and Turkey, Fiscal Year 1980; Repayment Period; Grace Period for Repayment of Principal
 

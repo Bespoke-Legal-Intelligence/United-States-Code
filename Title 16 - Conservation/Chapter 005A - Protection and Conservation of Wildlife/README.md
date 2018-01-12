@@ -24,6 +24,13 @@
 | [667c.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667c%20-%20Publication%20of%20designating%20order.md) | Publication of designating order. |
 | [667d.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667d%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [667e.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667e%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9379%2C%20%C2%A79%28b%29%282%29%2C%20Nov.%2016%2C%201981%2C%2095%20Stat.%201079.md) | Repealed. |
+| [667f.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667f%20-%20Availability%20of%20grain%20to%20prevent%20waterfowl%20depredations%3B%20payment%20of%20packaging%2C%20transporting%2C%20handling%2C%20and%20other%20charges.md) | Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges. |
+| 667f–1. | Requisition of grain to prevent crop depredation by migratory waterfowl. |
+| 667f–2. | Reimbursement of packaging and transporting expenses. |
+| 667f–3. | Authorization of appropriations for mitigating losses caused by waterfowl depredation. |
+| [667g.](Subchapter%20001%20%28I%29%20-%20Game%2C%20Fur-Bearing%20Animals%2C%20and%20Fish/%C2%A7%2000667g%20-%20Requisition%20of%20surplus%20grain%3B%20prevention%20of%20starvation%20of%20resident%20game%20birds%20and%20other%20resident%20wildlife%3B%20utilization%20by%20State%20agencies%E2%80%A6.md) | Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting. |
+| 667g–1. | Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting. |
+| 667g–2. | Authorization of appropriations for reimbursement of Commodity Credit Corporation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

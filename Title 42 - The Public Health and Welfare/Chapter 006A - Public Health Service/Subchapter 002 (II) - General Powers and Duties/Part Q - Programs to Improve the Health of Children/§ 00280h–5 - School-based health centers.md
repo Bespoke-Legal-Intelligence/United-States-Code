@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Comprehensive primary health services
 
-&emsp;The term "comprehensive primary health services" means the core services offered by school-based health centers, which shall include the following:
+&emsp;The term "comprehensive primary health services" means the core services offered byschool-based health centers, which shall include the following:
 
 #### (A) Physical
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "medically underserved children and adolescents" means a population of children and adolescents who are residents of anarea designated as a medically underserved area or a health professional shortage area by the Secretary.
+&emsp;&emsp;The term "medically underserved children and adolescents" means a population of children and adolescents who are residents of an area designated as a medically underserved area or a health professional shortage area by the Secretary.
 
 #### (B) Criteria
 

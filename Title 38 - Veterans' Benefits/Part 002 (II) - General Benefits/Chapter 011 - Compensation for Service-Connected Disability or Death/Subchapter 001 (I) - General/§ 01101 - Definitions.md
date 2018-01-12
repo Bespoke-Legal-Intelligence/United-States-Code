@@ -326,7 +326,7 @@ Pub. L. 103–66, title XII, §12008, Aug. 10, 1993, 107 Stat. 415, provided tha
 
 "(a)
 
-Policy.—The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United StatesCode, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
+Policy.—The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
 
 "(b)
 
@@ -368,5 +368,5 @@ Pub. L. 94–433, title IV, §403, Sept. 30, 1976, 90 Stat. 1378, directed Admin
 
 #### Study of Claims for Dependency and Indemnity Compensation
 
-Pub. L. 93–295, title II, §207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans' Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans' Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
+Pub. L. 93–295, title II, §207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans' Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans' Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate toSpeaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
 

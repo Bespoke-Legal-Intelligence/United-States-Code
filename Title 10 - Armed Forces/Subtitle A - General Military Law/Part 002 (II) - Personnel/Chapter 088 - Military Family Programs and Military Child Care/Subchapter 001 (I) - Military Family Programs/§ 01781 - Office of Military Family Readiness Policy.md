@@ -20,7 +20,7 @@ Staff.—The Office shall have not less than five professional staff members.
 
 #### Prior Provisions
 
-Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
+Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
 
 #### Amendments
 
@@ -35,6 +35,10 @@ Subsec. (a). Pub. L. 114–328, §933(a)(1), substituted "Office of Military Fam
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+#### Provision of Information on Naturalization Through Military Service
+
+Pub. L. 115–91, div. A, title V, §530, Dec. 12, 2017, 131 Stat. 1383, provided that: "The Secretary of Defense shall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process."
 
 #### Support for Programs Providing Camp Experience for Children of Military Families
 

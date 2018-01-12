@@ -70,7 +70,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(IV) the jurisdiction of which includes not less than 1,000 square miles of Indian country, as that term is defined in section 1151 of title 18; and
 
-&emsp;&emsp;&emsp;(iv) that certifies to the Secretary that a State has not provided funds under section 604 or 605 of this title to the Indian tribe or consortium of Indian tribes for the purpose for which direct funding is sought; and
+&emsp;&emsp;&emsp;(iv) that certifies to the Secretary that a State has not provided funds under section 604 or 605 of this title to the Indian tribe orconsortium of Indian tribes for the purpose for which direct funding is sought; and
 
 &emsp;&emsp;(B) a consortium of Indian tribes, if each tribe satisfies the requirements of subparagraph (A).
 

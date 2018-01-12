@@ -16,7 +16,7 @@ The Secretary shall notify each State of the amount of the additional commoditie
 
 #### (1) In general
 
-&emsp;Commodities made available for each fiscal year under this section shall be delivered atreasonable intervals to States based on the grants calculated under subsection (a), or reallocated under subsection (b), before December 31 of the following fiscal year.
+&emsp;Commodities made available for each fiscal year under this section shall be delivered at reasonable intervals to States based on the grants calculated under subsection (a), or reallocated under subsection (b), before December 31 of the following fiscal year.
 
 #### (2) Entitlement
 
@@ -50,7 +50,7 @@ Pub. L. 104–127, §403(c)(2), substituted "2002" for "1995" in two places.
 
 Subsecs. (f) to (i). Pub. L. 104–193, §871(d)(2), redesignated subsecs. (f) to (i) as (a) to (d), respectively.
 
-Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
+Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate newformula for allocation of additional commodities to States.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted "fiscal years 1991 through 1995" for "fiscal years 1989 and 1990".
 

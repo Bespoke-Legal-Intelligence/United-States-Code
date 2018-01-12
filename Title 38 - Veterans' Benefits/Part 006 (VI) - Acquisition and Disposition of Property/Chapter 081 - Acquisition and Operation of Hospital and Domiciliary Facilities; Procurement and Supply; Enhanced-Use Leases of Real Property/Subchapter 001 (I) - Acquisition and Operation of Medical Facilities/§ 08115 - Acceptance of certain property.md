@@ -12,3 +12,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5015 of this title as this section.
 
+#### Effective Date
+
+Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
+

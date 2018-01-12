@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) describe the activities for which assistance under this division is sought, including how the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
 
-&emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of thistitle that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
+&emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
 
 &emsp;&emsp;(C) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that requests a reduced match percentage under subsection (b)(2), how such reduction will assist the entity to provide the scholarships described in subsection (b)(2)(A)(ii);
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(H) provide such additional assurances as the Secretary determines necessary to ensure compliance with the requirements of this division;
 
-&emsp;&emsp;(I) provide information about the activities that will be carried out by the eligible entity to support systemic changes from which future cohorts of students will benefit; and
+&emsp;&emsp;(I) provide information about the activities that will be carried out by the eligibleentity to support systemic changes from which future cohorts of students will benefit; and
 
 &emsp;&emsp;(J) describe the sources of matching funds that will enable the eligible entity to meet the matching requirement described in subsection (b).
 

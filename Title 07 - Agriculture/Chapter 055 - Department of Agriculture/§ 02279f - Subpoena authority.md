@@ -14,11 +14,11 @@ In the case of disobedience to a subpoena by any person, the Secretary concerned
 
 #### (d) Compensation
 
-Witnesses summoned by the Secretary concerned shall be paid the same fees and mileagethat are paid to witnesses in courts of the United States, and witnesses whose depositions are taken, and the persons taking the depositions shall be entitled to the same fees that are paid for similar services in the courts of the United States.
+Witnesses summoned by the Secretary concerned shall be paid the same fees and mileage that are paid to witnesses in courts of the United States, and witnesses whose depositions are taken, and the persons taking the depositions shall be entitled to the same fees that are paid for similar services in the courts of the United States.
 
 #### (e) Procedures
 
-The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
+The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated,the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
 #### (f) Scope of subpoena
 

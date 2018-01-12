@@ -112,7 +112,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;Subject to paragraph (2)—
 
-&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding underthe common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
+&emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
 &emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 

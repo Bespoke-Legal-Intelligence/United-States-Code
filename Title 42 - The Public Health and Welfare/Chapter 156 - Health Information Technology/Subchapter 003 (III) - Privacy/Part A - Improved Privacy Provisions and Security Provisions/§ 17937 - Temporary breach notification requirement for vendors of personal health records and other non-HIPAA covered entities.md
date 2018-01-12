@@ -48,7 +48,7 @@ For purposes of this section:
 
 #### (B) Exception in case timely guidance not issued
 
-&emsp;&emsp;In the case that the Secretary does not issue guidance under section 17932(h)(2) ofthis title by the date specified in such section, for purposes of this section, the term "unsecured PHR identifiable health information" shall mean PHR identifiable health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and that is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
+&emsp;&emsp;In the case that the Secretary does not issue guidance under section 17932(h)(2) of this title by the date specified in such section, for purposes of this section, the term "unsecured PHR identifiable health information" shall mean PHR identifiable health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and that is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
 #### (g) Regulations; effective date; sunset
 
@@ -61,6 +61,10 @@ For purposes of this section:
 &emsp;If Congress enacts new legislation establishing requirements for notification in the case of a breach of security, that apply to entities that are not covered entities or business associates, the provisions of this section shall not apply to breaches of security discovered on or after the effective date of regulations implementing such legislation.
 
 (Pub. L. 111–5, div. A, title XIII, §13407, Feb. 17, 2009, 123 Stat. 269.)
+
+#### Effective Date
+
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under section 17931 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

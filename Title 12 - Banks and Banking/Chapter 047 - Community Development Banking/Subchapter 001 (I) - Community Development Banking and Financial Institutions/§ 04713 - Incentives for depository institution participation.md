@@ -74,7 +74,7 @@
 
 #### (4) Designation of QDC
 
-&emsp;Section 233(b)(2) of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a(b)(2)\] shall be appliedfor purposes of this section without regard to subparagraph (A)(ii) of such section 233(b)(2).
+&emsp;Section 233(b)(2) of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a(b)(2)\] shall be applied for purposes of this section without regard to subparagraph (A)(ii) of such section 233(b)(2).
 
 #### (5) Operation on annual basis
 

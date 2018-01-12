@@ -36,7 +36,7 @@
 
 (d) To utilize more effectively the medical and dental facilities of the uniformed services, the administering Secretaries shall prescribe joint regulations to assure that dependents entitled to medical or dental care under this section will not be denied equal opportunity for that care because the facility concerned is that of a uniformed service other than that of the member.
 
-(e)(1) Subject to paragraph (3), the administering Secretary shall furnish an abused dependent of a former member of a uniformed service described in paragraph (4), during that period thatthe abused dependent is in receipt of transitional compensation under section 1059 of this title, with medical and dental care, including mental health services, in facilities of the uniformed services in accordance with the same eligibility and benefits as were applicable for that abused dependent during the period of active service of the former member.
+(e)(1) Subject to paragraph (3), the administering Secretary shall furnish an abused dependent of a former member of a uniformed service described in paragraph (4), during that period that the abused dependent is in receipt of transitional compensation under section 1059 of this title, with medical and dental care, including mental health services, in facilities of the uniformed services in accordance with the same eligibility and benefits as were applicable for that abused dependent during the period of active service of the former member.
 
 (2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse described in paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
 
@@ -48,7 +48,7 @@
 
 (4)(A) A former member of a uniformed service referred to in paragraph (1) is a member who—
 
-&emsp;(i) received a dishonorable or bad-conduct discharge or was dismissed from a uniformed service as a result of a court-martial conviction for an offense, under either military or civil law, involving abuse of a dependent of the member; or
+&emsp;(i) received a dishonorable or bad-conduct discharge or was dismissed from a uniformedservice as a result of a court-martial conviction for an offense, under either military or civil law, involving abuse of a dependent of the member; or
 
 &emsp;(ii) was administratively discharged from a uniformed service as a result of such an offense.
 
@@ -120,7 +120,7 @@ Chapter 67 of this title as in effect before December 1, 1994, referred to in su
 
 #### Prior Provisions
 
-A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repealby Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 <b>1980</b>—Subsecs. (b), (d). Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–397 substituted "Under regulations to be prescribed jointly by the Secretary ofDefense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-" for "Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff", added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
+<b>1978</b>—Subsec. (b). Pub. L. 95–397 substituted "Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-" for "Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff", added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
 

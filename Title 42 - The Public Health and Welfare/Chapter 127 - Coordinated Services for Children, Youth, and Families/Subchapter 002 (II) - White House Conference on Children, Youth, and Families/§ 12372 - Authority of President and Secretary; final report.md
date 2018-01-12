@@ -40,3 +40,7 @@ The purposes of the Conference shall be—
 
 <b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
+#### Effective Date
+
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+

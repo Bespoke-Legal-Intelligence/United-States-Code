@@ -52,7 +52,7 @@ Pub. L. 101–336, title II, §246, July 26, 1990, 104 Stat. 353, provided that:
 
 "(a)
 
-General Rule.—Except as provided in subsection (b), this part \[part II (§§241–246) of subtitle B of title II of Pub. L. 101–336, enacting this subpart\] shall become effective 18 months after the date of enactment of this Act \[July 26, 1990\].
+General Rule.—Except as provided in subsection (b), this part \[part II (§§241–246) of subtitle B oftitle II of Pub. L. 101–336, enacting this subpart\] shall become effective 18 months after the date of enactment of this Act \[July 26, 1990\].
 
 "(b)
 

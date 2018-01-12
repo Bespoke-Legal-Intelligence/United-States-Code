@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;It shall be unlawful for any insured System bank to pay any dividends on bank stock or participation certificates or interest on the capital notes or debentures of such bank (if such interest is required to be paid only out of net profits) or distribute any of the capital assets of such bank while the bank remains in default in the payment of any premium due to the Corporation.
+&emsp;It shall be unlawful for any insured System bank to pay any dividends on bank stock or participation certificates or interest on the capital notes or debentures of such bank (ifsuch interest is required to be paid only out of net profits) or distribute any of the capital assets of such bank while the bank remains in default in the payment of any premium due to the Corporation.
 
 #### (2) Liability of directors
 

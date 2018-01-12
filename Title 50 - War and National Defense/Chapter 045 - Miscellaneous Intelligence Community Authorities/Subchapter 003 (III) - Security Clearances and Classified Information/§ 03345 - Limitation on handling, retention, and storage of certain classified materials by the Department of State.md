@@ -2,7 +2,7 @@
 
 #### (a) Certification regarding full compliance with requirements
 
-The Director of Central Intelligence shall certify to the appropriate committees of Congress whether or not each covered element of the Department of State is in full compliance with all applicable directives of the Director of Central Intelligence relating to the handling, retention, or storage of covered classified material.
+The Director of Central Intelligence shall certify to the appropriate committees of Congress whether or not each covered element of the Department of State is in full compliance with allapplicable directives of the Director of Central Intelligence relating to the handling, retention, or storage of covered classified material.
 
 #### (b) Limitation on certification
 
@@ -20,7 +20,7 @@ Whenever the Director of Central Intelligence determines that a covered element 
 
 #### (e) Waiver by Director of Central Intelligence
 
-(1) The Director of Central Intelligence may waive the applicability of the prohibition in subsection (d) to an element of the Department of State otherwise covered by such prohibition ifthe Director determines that the waiver is in the national security interests of the United States.
+(1) The Director of Central Intelligence may waive the applicability of the prohibition in subsection (d) to an element of the Department of State otherwise covered by such prohibition if the Director determines that the waiver is in the national security interests of the United States.
 
 (2) The Director shall submit to appropriate committees of Congress a report on each exercise of the waiver authority in paragraph (1).
 

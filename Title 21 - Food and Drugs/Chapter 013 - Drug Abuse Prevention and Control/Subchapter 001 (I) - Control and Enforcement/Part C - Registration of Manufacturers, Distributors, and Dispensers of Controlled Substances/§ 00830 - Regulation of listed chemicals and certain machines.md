@@ -30,7 +30,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(i) The term "drug product" means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act <sup>1</sup> \[21 U.S.C. 301 et seq.\] for distribution in the United States.
 
-&emsp;(ii) The term "valid prescription" means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
+&emsp;(ii) The term "valid prescription" means a prescription which is issued for a legitimate medical purpose by an individual practitionerlicensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
 (B) Each regulated person who engages in a transaction with a nonregulated person or who engages in an export transaction which—
 

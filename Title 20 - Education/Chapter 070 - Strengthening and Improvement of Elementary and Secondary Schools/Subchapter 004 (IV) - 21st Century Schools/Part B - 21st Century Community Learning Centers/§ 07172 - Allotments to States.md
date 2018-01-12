@@ -28,7 +28,7 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 #### (2) State administration
 
-&emsp;A State educational agency may use not more than 2 percent of the amount madeavailable to the State under subsection (b) for—
+&emsp;A State educational agency may use not more than 2 percent of the amount made available to the State under subsection (b) for—
 
 &emsp;&emsp;(A) the administrative costs of carrying out its responsibilities under this part;
 

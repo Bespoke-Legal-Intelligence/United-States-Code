@@ -8,7 +8,7 @@
 
 (b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund and the balance in the Competitive Products Fund, less its liabilities.
 
-(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine which Federal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
+(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine which Federal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the UnitedStates upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
 
 &emsp;(1) the mail equipment shops located in Washington, District of Columbia;
 
@@ -34,11 +34,15 @@ The effective date of this section, referred to in subsec. (c)(3), (4), is July 
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted "Fund and the balance in the Competitive Products Fund," for "Fund,".
 
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
 #### Assets of Postal Service
 
 Pub. L. 91–375, §4(b), Aug. 12, 1970, 84 Stat. 774, provided that: "Postal revenues and fees collected on and after the effective date of this section \[see note below\] shall be considered assets of the Postal Service."
 
-Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date establishedtherefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
 #### Ex. Ord. No. 11672. Transfer or Furnishing of Property
 

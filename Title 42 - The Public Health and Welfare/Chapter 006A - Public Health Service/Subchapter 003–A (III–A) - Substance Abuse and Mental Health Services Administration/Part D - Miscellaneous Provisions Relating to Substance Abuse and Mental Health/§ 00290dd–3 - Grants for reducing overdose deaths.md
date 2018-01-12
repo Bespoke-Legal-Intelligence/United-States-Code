@@ -38,7 +38,7 @@ To be eligible to receive a grant under this section, an eligible entity shall s
 
 #### (c) Use of funds
 
-An eligible entity receiving a grant under this section may use amounts under the grant for any of the following activities, but may use not more than 20 percent of the grant funds for activities described in paragraphs (3) and (4):
+An eligible entity receiving a grant under this section may use amounts under the grant forany of the following activities, but may use not more than 20 percent of the grant funds for activities described in paragraphs (3) and (4):
 
 &emsp;(1) To establish a program for prescribing a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for emergency treatment of known or suspected opioid overdose.
 

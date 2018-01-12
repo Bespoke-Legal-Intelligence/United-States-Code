@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 #### Codification
 
-Par. (6) of this section, which defined the term "Director" as meaning the Director of the National Science Foundation, was omitted because of the transfer of functions from the National Science Foundation to the Secretary of Energy and the substitution of "Secretary of Energy" for "Director" wherever appearing in this subchapter. See Transfer of Functions note set out below.
+Par. (6) of this section, which defined the term "Director" as meaning the Director of the National Science Foundation, was omitted because of the transfer of functions from the National Science Foundation to the Secretary of Energy and the substitution of"Secretary of Energy" for "Director" wherever appearing in this subchapter. See Transfer of Functions note set out below.
 
 #### Amendments
 

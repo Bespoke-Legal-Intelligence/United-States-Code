@@ -18,7 +18,7 @@
 
 (i) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509; Pub. L. 112–87, title V, §506, Jan. 3, 2012, 125 Stat. 1897.)
+(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a),Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509; Pub. L. 112–87, title V, §506, Jan. 3, 2012, 125 Stat. 1897.)
 
 #### Amendments
 

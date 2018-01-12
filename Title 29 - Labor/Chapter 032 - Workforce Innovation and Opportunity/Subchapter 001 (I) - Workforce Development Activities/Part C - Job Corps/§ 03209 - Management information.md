@@ -38,7 +38,7 @@
 
 &emsp;The Secretary shall also establish performance indicators, and expected levels of performance on the performance indicators, for recruitment service providers serving the Job Corps program. The performance indicators shall relate to—
 
-&emsp;&emsp;(A) the number of enrollees recruited, compared to the established goals for such recruitment, and the number of enrolleeswho remain committed to the program for 90 days after enrollment; and
+&emsp;&emsp;(A) the number of enrollees recruited, compared to the established goals for such recruitment, and the number of enrollees who remain committed to the program for 90 days after enrollment; and
 
 &emsp;&emsp;(B) the measurements described in subparagraphs (I), (L), and (M) of subsection (d)(1).
 

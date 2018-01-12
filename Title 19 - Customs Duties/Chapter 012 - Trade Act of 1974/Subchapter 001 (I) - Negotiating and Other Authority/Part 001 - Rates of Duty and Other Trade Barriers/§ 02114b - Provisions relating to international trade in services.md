@@ -32,7 +32,7 @@
 
 (4) The Secretary of Commerce shall carry out the provisions of this subsection from funds otherwise made available to him which may be used for such purposes.
 
-(5) For purposes of this section, the term "services" means economic activities whose outputs are other than tangible goods. Suchterm includes, but is not limited to, banking, insurance, transportation, postal and delivery services, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
+(5) For purposes of this section, the term "services" means economic activities whose outputs are other than tangible goods. Such term includes, but is not limited to, banking, insurance, transportation, postal and delivery services, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
 
 (Pub. L. 98–573, title III, §306(a), Oct. 30, 1984, 98 Stat. 3008; Pub. L. 105–277, div. A, §101(h) \[title VI, §633(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524.)
 

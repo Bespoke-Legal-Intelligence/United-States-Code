@@ -59,7 +59,7 @@ For purposes of this part—
 
 #### (7) Clean-fuel vehicle
 
-&emsp;The term "clean-fuel vehicle" means a vehicle in a class or category of vehicles which has been certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
+&emsp;The term "clean-fuel vehicle" means a vehicle in a class or category of vehicles which hasbeen certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
 
 (July 14, 1955, ch. 360, title II, §241, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2511.)
 

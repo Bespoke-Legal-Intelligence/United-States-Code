@@ -16,7 +16,7 @@ For purposes of this section—
 
 &emsp;(2) If a deceased miner was employed for ten years or more in one or more coal mines and died from a respirable disease there shall be a rebuttable presumption that his death was due to pneumoconiosis. The provisions of this paragraph shall not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
-&emsp;(3) If a miner is suffering or suffered from a chronic dust disease of the lung which (A) when diagnosed by chest roentgenogram, yields one or more large opacities (greater than one centimeter in diameter) and would be classified in category A, B, or C in the International Classification of Radiographs of the Pneumoconioses by the International Labor Organization, (B) when diagnosed by biopsy or autopsy, yields massive lesions in the lung, or (C) when diagnosis is made by other means, would be a condition which could reasonably be expected to yield results described in clause (A) or (B) if diagnosis had been made in the manner prescribed in clause (A) or (B), thenthere shall be an irrebuttable presumption that he is totally disabled due to pneumoconiosis or that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis.<sup>1</sup> as the case may be.
+&emsp;(3) If a miner is suffering or suffered from a chronic dust disease of the lung which (A) when diagnosed by chest roentgenogram, yields one or more large opacities (greater than one centimeter in diameter) and would be classified in category A, B, or C in the International Classification of Radiographs of the Pneumoconioses by the International Labor Organization, (B) when diagnosed by biopsy or autopsy, yields massive lesions in the lung, or (C) when diagnosis is made by other means, would be a condition which could reasonably be expected to yield results described in clause (A) or (B) if diagnosis had been made in the manner prescribed in clause (A) or (B), then there shall be an irrebuttable presumption that he is totally disabled due to pneumoconiosis or that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis.<sup>1</sup> as the case may be.
 
 &emsp;(4) if <sup>2</sup> a miner was employed for fifteen years or more in one or more underground coal mines, and if there is a chest roentgenogram submitted in connection with such miner's, his widow's, his child's, his parent's, his brother's, his sister's, or his dependent's claim under this subchapter and it is interpreted as negative with respect to the requirements of paragraph (3) of this subsection, and if other evidence demonstrates the existence of a totally disabling respiratory or pulmonary impairment, then there shall be a rebuttable presumption that such miner is totally disabled due to pneumoconiosis, that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis. In the case of a living miner, a wife's affidavit may not be used by itself to establish the presumption. The Secretary shall not apply all or a portion of the requirement of this paragraph that the miner work in an underground mine where he determines that conditions of a miner's employment in a coal mine other than an underground mine were substantially similar to conditions in an underground mine. The Secretary may rebut such presumption only by establishing that (A) such miner does not, or did not, have pneumoconiosis, or that (B) his respiratory or pulmonary impairment did not arise out of, or in connection with, employment in a coal mine.
 
@@ -40,7 +40,7 @@ The effective date of the Black Lung Benefits Amendments of 1981, referred to in
 
 <b>1994</b>—Subsecs. (a), (b), (c)(4), (5). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–119, §203(a)(5), inserted ", except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or".
+<b>1981</b>—Subsec. (a). Pub. L. 97–119, §203(a)(5), inserted ", except with respect to a claim filed under part C ofthis subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981," after "pneumoconiosis or".
 
 Subsec. (c)(2), (4). Pub. L. 97–119, §202(b)(1), inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–119 effective Jan. 1, 1982, except as otherwise provided, see section 206(a) of Pub.L. 97–119, set out as a note under section 901 of this title.
+Amendment by Pub. L. 97–119 effective Jan. 1, 1982, except as otherwise provided, see section 206(a) of Pub. L. 97–119, set out as a note under section 901 of this title.
 
 #### Effective Date of 1978 Amendment
 

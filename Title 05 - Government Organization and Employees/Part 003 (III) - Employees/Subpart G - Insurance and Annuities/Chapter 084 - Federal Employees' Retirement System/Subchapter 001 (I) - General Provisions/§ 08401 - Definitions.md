@@ -100,7 +100,7 @@ For the purpose of this chapter—
 
 > &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
 
-&emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
+&emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amountof any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
 
 &emsp;(19) the term "lump-sum credit" means the unrefunded amount consisting of—
 
@@ -110,7 +110,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f) or 8422(i); and
 
-&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of theTreasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
+&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
 
 > &emsp;but does not include interest—
 
@@ -268,7 +268,7 @@ Par. (32). Pub. L. 101–335 added par. (32).
 
 <b>1988</b>—Par. (11)(A). Pub. L. 100–679 substituted "(J), or (K)" for "or (J)".
 
-Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out "(other than an employee of the United States ParkPolice, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)".
+Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out "(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)".
 
 Par. (11)(iii). Pub. L. 100–238, §113(b)(1), added cl. (iii).
 
@@ -402,7 +402,7 @@ Pub. L. 99–556, §1, Oct. 27, 1986, 100 Stat. 3131, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: "This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the 'Federal Employees' Retirement System Act of 1986'."
+Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: "This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under thissection and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the 'Federal Employees' Retirement System Act of 1986'."
 
 #### Transfer of Functions
 

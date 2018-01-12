@@ -36,7 +36,7 @@
 | [<b>25A.</b>](Chapter%20025A%20-%20Lands%20Held%20under%20Color%20of%20Title/README.md) | <b>Lands Held Under Color of Title</b> | <b>1068</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Abandoned%20Military%20Reservations/README.md) | <b>Abandoned Military Reservations \[Repealed\]</b> | <b>1071</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Public%20Lands%20in%20Oklahoma/README.md) | <b>Public Lands in Oklahoma</b> | <b>1091</b> |
-| [<b>28.</b>](Chapter%20028%20-%20Miscellaneous%20Provisions%20Relating%20to%20Public%20Lands/README.md) | <b>Miscellaneous Provisions Relating to Public Lands</b> | <b>1151</b> |
+| [<b>28.</b>](Chapter%20028%20-%20Miscellaneous%20Provisions%20Relating%20to%20Public%20Lands/README.md) | <b>Miscellaneous Provisions Relating to Public Lands \[Repealed, Transferred, or Omitted\]</b> | <b>1151</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Submerged%20Lands/README.md) | <b>Submerged Lands</b> | <b>1301</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Administration%20of%20Public%20Lands/README.md) | <b>Administration of Public Lands</b> | <b>1361</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Department%20of%20the%20Interior/README.md) | <b>Department of the Interior</b> | <b>1451</b> |
@@ -54,8 +54,197 @@
 | [<b>40.</b>](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md) | <b>Reclamation States Emergency Drought Relief</b> | <b>2201</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md) | <b>Federal Land Transaction Facilitation</b> | <b>2301</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Rural%20Water%20Supply/README.md) | <b>Rural Water Supply</b> | <b>2401</b> |
+| [<b>43.</b>](Chapter%20043%20-%20Suspended%20Entries%20and%20Claims%3B%20Patents/README.md) | <b>Suspended Entries and Claims; Patents</b> | <b>2501</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Oregon%20and%20California%20Railroad%20and%20Coos%20Bay%20Wagon%20Road%20Grant%20Lands/README.md) | <b>Oregon and California Railroad and Coos Bay Wagon Road Grant Lands</b> | <b>2601</b> |
+| [<b>45.</b>](Chapter%20045%20-%20State%20Control%20of%20Noxious%20Plants%20on%20Federal%20Lands/README.md) | <b>State Control of Noxious Plants on Federal Lands</b> | <b>2701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Disposition Table<br>(Showing disposition of sections of former chapter 28 of Title 43)
+
+<i>Former Classification</i>
+
+<i>New Classification or Disposition</i>
+
+43:1161
+
+43:2501
+
+43:1162
+
+43:2502
+
+43:1163
+
+43:2503
+
+43:1164
+
+43:2504
+
+43:1165
+
+43:2505
+
+43:1166
+
+43:2506
+
+43:1167
+
+43:2507
+
+43:1167 note (Mar. 9, 1904, ch. 503, §2, 33 Stat. 64)
+
+43:2507 note
+
+43:1181
+
+Omitted
+
+43:1181a
+
+43:2601
+
+43:1181a note (Aug. 28, 1937, ch. 876, title II, 50 Stat. 876)
+
+43:2601 note
+
+43:1181b
+
+43:2602
+
+43:1181d
+
+43:2603
+
+43:1181e
+
+43:2604
+
+43:1181f
+
+43:2605
+
+43:1181f–1
+
+43:2621
+
+43:1181f–1 note (May 24, 1939, ch. 144, §5, 53 Stat. 754)
+
+43:2621 note
+
+43:1181f–2
+
+43:2622
+
+43:1181f–3
+
+43:2623
+
+43:1181f–4
+
+43:2624
+
+43:1181g
+
+43:2631
+
+43:1181h
+
+43:2632
+
+43:1181i
+
+43:2633
+
+43:1181j
+
+43:2634
+
+43:1195
+
+25:424
+
+43:1196
+
+25:425
+
+43:1197
+
+25:426
+
+43:1198
+
+Omitted
+
+43:1199
+
+Omitted
+
+43:1200
+
+Omitted
+
+43:1200a
+
+Omitted
+
+43:1200b
+
+Omitted
+
+43:1200c
+
+Omitted
+
+43:1200d
+
+Omitted
+
+43:1200e
+
+Omitted
+
+43:1201
+
+43:1457c
+
+43:1211
+
+43:1476
+
+43:1212
+
+43:1476a
+
+43:1212 note (June 3, 1948, ch. 392, §3, 62 Stat. 301)
+
+43:1476a note
+
+43:1221
+
+Omitted
+
+43:1222
+
+Omitted
+
+43:1223
+
+Omitted
+
+43:1241
+
+43:2701
+
+43:1242
+
+43:2702
+
+43:1243
+
+43:2703
 
 
 ---
@@ -113,3 +302,6 @@
 - [Chapter 040 - Reclamation States Emergency Drought Relief](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md)
 - [Chapter 041 - Federal Land Transaction Facilitation](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md)
 - [Chapter 042 - Rural Water Supply](Chapter%20042%20-%20Rural%20Water%20Supply/README.md)
+- [Chapter 043 - Suspended Entries and Claims; Patents](Chapter%20043%20-%20Suspended%20Entries%20and%20Claims%3B%20Patents/README.md)
+- [Chapter 044 - Oregon and California Railroad and Coos Bay Wagon Road Grant Lands](Chapter%20044%20-%20Oregon%20and%20California%20Railroad%20and%20Coos%20Bay%20Wagon%20Road%20Grant%20Lands/README.md)
+- [Chapter 045 - State Control of Noxious Plants on Federal Lands](Chapter%20045%20-%20State%20Control%20of%20Noxious%20Plants%20on%20Federal%20Lands/README.md)

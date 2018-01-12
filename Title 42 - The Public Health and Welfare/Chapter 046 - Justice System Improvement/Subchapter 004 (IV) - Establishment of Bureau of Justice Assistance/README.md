@@ -2,7 +2,7 @@
 
 #### Prior Provisions
 
-A prior subchapter IV, consisting of sections 3741 to 3748, related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part A (§3750 et seq.) of subchapter V of this chapter.
+A prior subchapter IV, consisting of sections 3741 to 3748, related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 Section 3741, Pub. L. 90–351, title I, §401, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 99–570, title I, §1552(b)(1), Oct. 27, 1986, 100 Stat. 3207–46, related to establishment of Bureau of Justice Assistance, appointment of Director, and authority and restrictions with regard to Director.
 
@@ -67,6 +67,6 @@ Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, titl
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03741 - Establishment of Bureau of Justice Assistance](%C2%A7%2003741%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance.md)
-- [&sect; 03742 - Duties and functions of Director](%C2%A7%2003742%20-%20Duties%20and%20functions%20of%20Director.md)
-- [&sect; 03743 - Grants for young witness assistance](%C2%A7%2003743%20-%20Grants%20for%20young%20witness%20assistance.md)
+- [&sect; 03741 - Transferred](%C2%A7%2003741%20-%20Transferred.md)
+- [&sect; 03742 - Transferred](%C2%A7%2003742%20-%20Transferred.md)
+- [&sect; 03743 - Transferred](%C2%A7%2003743%20-%20Transferred.md)

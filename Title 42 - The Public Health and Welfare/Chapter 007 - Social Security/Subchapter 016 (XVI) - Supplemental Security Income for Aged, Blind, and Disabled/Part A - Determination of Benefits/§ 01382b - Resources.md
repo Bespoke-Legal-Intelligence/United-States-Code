@@ -16,13 +16,13 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(5) in the case of Natives of Alaska, shares of stock held in a Regional or a Village Corporation, during the period of twenty years in which such stock is inalienable, as provided in section 1606(h) and section 1607(c) of title 43;
 
-&emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month periodbeginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term "assistance" includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
+&emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term "assistance" includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
 &emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
-&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
+&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expensesincurred or losses suffered as a result of a crime;
 
 &emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions <sup>1</sup> Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
@@ -54,7 +54,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (1) The Commissioner of Social Security shall prescribe the period or periods of time within which, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
 
-(2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any realproperty for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
+(2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any real property for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
 
 #### (c) Disposal of resources for less than fair market value
 
@@ -114,7 +114,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(III) all resources transferred for less than fair market value have been returned to the transferor; or
 
-&emsp;(iv) the Commissioner determines, under procedures established by the Commissioner,that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Commissioner.
+&emsp;(iv) the Commissioner determines, under procedures established by the Commissioner, that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Commissioner.
 
 (D) For purposes of this subsection, in the case of a resource held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
 
@@ -184,7 +184,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(ii) any resource otherwise excluded by this section; and
 
-&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual's spouse) is entitled but does not receive or have access to because of action by—
+&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual'sspouse) is entitled but does not receive or have access to because of action by—
 
 &emsp;&emsp;&emsp;(I) the individual or spouse;
 
@@ -230,7 +230,7 @@ Subsec. (c)(1). Pub. L. 106–169, §206(a)(5), added par. (1). Former par. (1) 
 
 Subsec. (c)(2)(A). Pub. L. 106–169, §206(a)(4), redesignated par. (1) as (2)(A).
 
-Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted "paragraph\(1) and" after "provisions of", and substituted "benefits under this subchapter and subchapter XIX, respectively," for "benefits under subchapter XIX", "clause (ii)" for "subparagraph (B)", and "subparagraph (B)" for "paragraph (2)".
+Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted "paragraph (1) and" after "provisions of", and substituted "benefits under this subchapter and subchapter XIX, respectively," for "benefits under subchapter XIX", "clause (ii)" for "subparagraph (B)", and "subparagraph (B)" for "paragraph (2)".
 
 Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out "by the State agency" after "which may be used", and substituted "paragraph (1) or section 1396p(c) of this title." for "section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility."
 
@@ -320,7 +320,7 @@ Amendment by Pub. L. 105–306 applicable to gifts made on or after the date tha
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
+Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section 213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -340,7 +340,7 @@ Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinatio
 
 Amendment by section 8013(b) of Pub. L. 101–239 effective on 1st day of 4th month beginning after Dec. 19, 1989, see section 8013(c) of Pub. L. 101–239, set out as a note under section 1382a of this title.
 
-Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginningafter the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1988 Amendment
 

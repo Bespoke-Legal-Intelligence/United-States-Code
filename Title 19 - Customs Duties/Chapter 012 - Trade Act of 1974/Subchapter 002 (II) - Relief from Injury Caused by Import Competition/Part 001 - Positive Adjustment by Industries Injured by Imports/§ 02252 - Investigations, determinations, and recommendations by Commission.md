@@ -48,7 +48,7 @@
 
 (B) For purposes of this section, the term "substantial cause" means a cause which is important and not less than any other cause.
 
-(2)(A) Except as provided in subparagraph (B), the Commission shall make the determinationunder paragraph (1) within 120 days (180 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
+(2)(A) Except as provided in subparagraph (B), the Commission shall make the determination under paragraph (1) within 120 days (180 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
 
 (B) If before the 100th day after a petition is filed under subsection (a)(1) the Commission determines that the investigation is extraordinarily complicated, the Commission shall make the determination under paragraph (1) within 150 days (210 days if the petition alleges that critical circumstances exist) after the date referred to in subparagraph (A).
 
@@ -86,7 +86,7 @@
 
 (3) The presence or absence of any factor which the Commission is required to evaluate in subparagraphs (A) and (B) of paragraph (1) is not necessarily dispositive of whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry.
 
-(4) For purposes of subsection (b), in determining the domestic industry producing an article like or directly competitive with an imported article, the Commission—
+(4) For purposes of subsection (b), in determining the domestic industry producing an articlelike or directly competitive with an imported article, the Commission—
 
 &emsp;(A) to the extent information is available, shall, in the case of a domestic producer which also imports, treat as part of such domestic industry only its domestic production;
 
@@ -290,7 +290,7 @@ If the Commission makes an affirmative determination under subsection (b)(1), th
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub.L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527.)
 
 #### Amendment of Section
 
@@ -414,7 +414,7 @@ Subsec. (f)(1). Pub. L. 103–465, §301(d)(2)(B), inserted "(240 days if the pe
 
 Subsec. (f)(2)(G)(ii). Pub. L. 103–465, §303(6), substituted "industry are located" for "industry is located".
 
-Subsec. (h)(2). Pub. L. 103–465, §302(b)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If an article was the subject of an investigation under this section that resulted in any action described in section 2253(a)(3)(A), (B), (C), or (E) of this title being taken under section 2253 of this title, no other investigation under this part may be initiated with respect to such article while such action is in effect or during the period beginning on the date onwhich such action terminates that is equal in duration to the period during which such action was in effect."
+Subsec. (h)(2). Pub. L. 103–465, §302(b)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If an article was the subject of an investigation under this section that resulted in any action described in section 2253(a)(3)(A), (B), (C), or (E) of this title being taken under section 2253 of this title, no other investigation under this part may be initiated with respect to such article while such action is in effect or during the period beginning on the date on which such action terminates that is equal in duration to the period during which such action was in effect."
 
 Subsec. (h)(3). Pub. L. 103–465, §301(f), added par. (3).
 
@@ -454,7 +454,7 @@ Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Centr
 
 #### Effective and Termination Dates of 2004 Amendments
 
-Amendment by Pub. L. 108–302 effective on the date on which the United States-Morocco Free Trade Agreement enters into force (July 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 108–302, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 108–302 effective on the date on which the United States-Morocco Free Trade Agreement enters into force (Jan. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 108–302, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
 

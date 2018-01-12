@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receiveassistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
 
 (b)
 
@@ -44,7 +44,11 @@ Active-duty service.—An individual with qualifying service in the Armed Forces
 
 Eligibility for educational assistance based on parent's service.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124; Pub. L. 115–48, title I, §105(c)(6), Aug. 16, 2017, 131 Stat. 976.)
+
+#### Amendment of Subsections (e), (f), and (h)(2)
+
+<i>Pub. L. 115–48, title I, §105(c)(6), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsections (e), (f), and (h)(2) of this section are amended by striking "3311(b)(9)" and inserting "3311(b)(8)". See 2017 Amendment note below.</i>
 
 #### References in Text
 
@@ -53,6 +57,8 @@ The Hostage Relief Act of 1980, referred to in subsecs. (a) and (d), is Pub. L. 
 Section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008, referred to in subsec. (d), is section 5003(c) of Pub. L. 110–252, which is set out as a note under section 3301 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (e), (f), (h)(2). Pub. L. 115–48 substituted "3311(b)(8)" for "3311(b)(9)".
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–377, §202(a), inserted "or section 510" after "or 1607".
 
@@ -64,9 +70,17 @@ Subsec. (g). Pub. L. 111–377, §111(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 111–377, §111(d), added subsec. (h).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–377, title I, §111(e), Jan. 4, 2011, 124 Stat. 4121, provided that: "The amendments made by this section \[amending this section\] shall take effect on August 1, 2011."
 
 Pub. L. 111–377, title II, §202(c), Jan. 4, 2011, 124 Stat. 4124, provided that: "The amendments made by this section \[amending this section and section 3681 of this title\] shall take effect on August 1, 2011."
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
 

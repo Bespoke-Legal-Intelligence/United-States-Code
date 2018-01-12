@@ -20,7 +20,7 @@ Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85
 
 Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, §14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(b), 98 Stat. 2611, provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
 
-Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, §5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
+Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, §5(a), 72 Stat. 517; Oct. 19,1984, Pub. L. 98–525, title XIII, §1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
 
 #### Amendments
 

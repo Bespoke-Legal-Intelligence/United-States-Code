@@ -32,7 +32,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (6) The transfer of title to land or byproduct materials, as defined in section 2014(e)(2) of this title, to a State or the United States pursuant to this subsection shall not relieve any licensee of liability for any fraudulent or negligent acts done prior to such transfer.
 
-(7) Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in the same manner as provided under section 7914(h) of this title.
+(7) Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in thesame manner as provided under section 7914(h) of this title.
 
 (8) The provisions of this subsection respecting transfer of title and custody to land shall not apply in the case of lands held in trust by the United States for any Indian tribe or lands owned by such Indian tribe subject to a restriction against alienation imposed by the United States. In the case of such lands which are used for the disposal of byproduct material, as defined in section 2014(e)(2) of this title, the licensee shall be required to enter into such arrangements with the Commission as may be appropriate to assure the long-term maintenance and monitoring of such lands by the United States.
 
@@ -40,7 +40,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 Upon termination on <sup>1</sup> any license to which this section applies, the Commission shall determine whether or not the licensee has complied with all applicable standards and requirements under such license.
 
-(Aug. 1, 1946, ch. 724, title I, §83, as added Pub. L. 95–604, title II, §202(a), Nov. 8, 1978, 92 Stat.3033; amended Pub. L. 96–106, §22(c), (e), Nov. 9, 1979, 93 Stat. 800; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §83, as added Pub. L. 95–604, title II, §202(a), Nov. 8, 1978, 92 Stat. 3033; amended Pub. L. 96–106, §22(c), (e), Nov. 9, 1979, 93 Stat. 800; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 

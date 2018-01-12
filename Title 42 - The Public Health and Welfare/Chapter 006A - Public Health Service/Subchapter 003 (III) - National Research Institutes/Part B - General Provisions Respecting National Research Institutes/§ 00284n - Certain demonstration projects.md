@@ -56,5 +56,5 @@ Section was enacted as part of the National Institutes of Health Reform Act of 2
 
 #### Effective Date
 
-Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscalyears, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
 

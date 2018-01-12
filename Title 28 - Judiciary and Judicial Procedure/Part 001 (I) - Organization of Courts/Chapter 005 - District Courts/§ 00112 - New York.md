@@ -32,7 +32,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 Based on title 28, U.S.C., 1940 ed., §§178 and 178a (Mar. 3, 1911, ch. 231, §97, 36 Stat. 1119; Jan. 21, 1920, ch. 50, 41 Stat. 394; July 1, 1922, ch. 260, 42 Stat. 812; Aug. 12, 1937, ch. 591, 50 Stat. 623).
 
-A reference in section 178 of title 28, U.S.C., 1940 ed., to Franklin County in the list of Counties in the Northern District, in which one term might be held annually, in the discretion of the judge, was omitted as superseded by the provisions of said section 178a of title 28, requiring an annual term to be held at Malone, which is in Franklin County.
+A reference in section 178 of title 28, U.S.C., 1940 ed., to Franklin County in the list of Counties in the Northern District, in which one term might be held annually, in the discretion of the judge, was omitted as superseded by the provisions of said section 178a of title 28,requiring an annual term to be held at Malone, which is in Franklin County.
 
 References to seizures made, matters done and processes or orders issued respecting waters within the concurrent jurisdiction of the southern and eastern districts, were omitted as unnecessary and covered by the revised language.
 

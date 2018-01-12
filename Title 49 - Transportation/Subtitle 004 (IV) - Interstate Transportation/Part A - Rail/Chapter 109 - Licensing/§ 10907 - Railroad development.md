@@ -34,7 +34,7 @@
 
 (2) In a proceeding under this subsection, the burden of proving that the public convenience and necessity require or permit the sale of a particular railroad line is on the person filing the application to acquire such line. If the Board finds under this subsection that the public convenience and necessity require or permit the sale of a particular railroad line, the Board shall concurrently notify the parties of such finding and publish such finding in the Federal Register.
 
-(d) In the case of any railroad line subject to sale under subsection (a) of this section, the Board shall, upon the request of the acquiring carrier, require the selling carrier to provide tothe acquiring carrier trackage rights to allow a reasonable interchange with the selling carrier or to move power equipment or empty rolling stock between noncontiguous feeder lines operated by the acquiring carrier. The Board shall require the acquiring carrier to provide the selling carrier reasonable compensation for any such trackage rights.
+(d) In the case of any railroad line subject to sale under subsection (a) of this section, the Board shall, upon the request of the acquiring carrier, require the selling carrier to provide to the acquiring carrier trackage rights to allow a reasonable interchange with the selling carrier or to move power equipment or empty rolling stock between noncontiguous feeder lines operated by the acquiring carrier. The Board shall require the acquiring carrier to provide the selling carrier reasonable compensation for any such trackage rights.
 
 (e) The Board shall require, to the maximum extent practicable, the use of the employees who would normally have performed work in connection with a railroad line subject to a sale under this section.
 

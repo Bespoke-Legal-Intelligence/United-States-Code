@@ -30,7 +30,7 @@
 
 > The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
 
-(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b), and shall provide for a public comment period, with hearings, of not less than 90 days.
+(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b), andshall provide for a public comment period, with hearings, of not less than 90 days.
 
 #### (b) Early rulemaking
 
@@ -66,7 +66,7 @@ Not later than April 1, 1998, the Secretary shall publish an advance notice of p
 
 &emsp;(4) considering all actions needed to achieve those goals.
 
-> The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within7 months after publication of the advance notice.
+> The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
 
 #### (d) Proposed rule
 
@@ -134,7 +134,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (k) Inclusion of law enforcement vehicles and urban buses
 
-(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
+(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) would contribute to achieving the goal described in section13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
 
 (2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
 
@@ -168,7 +168,7 @@ As part of the rule promulgated either pursuant to subsection (b) or (g) of this
 
 (2)(A) The Secretary shall within 18 months after October 24, 1992, promulgate a rule providing that a State may submit a plan within 12 months after such promulgation containing a light duty alternative fueled vehicle plan for State fleets to meet the annual percentages established under paragraph (1) for the acquisition of light duty motor vehicles. The plan shall provide for the voluntary conversion or acquisition or combination thereof, beyond any acquisition required by this subchapter, of such motor vehicles by State, local, or private fleets, in numbers greater than or equal to the number of State alternative fueled vehicles required pursuant to paragraph (1).
 
-(B) The plan, if approved by the Secretary, would be in lieu of the State meeting such annual percentages solely through purchases of new State-owned vehicles. All conversions or acquisitions or combinations thereof of any alternative fueled vehicles under the plan must bevoluntary and must conform with the requirements of section 247 of the Clean Air Act \[42 U.S.C. 7587\] and must comply with applicable safety requirements. The Secretary of Transportation shall within 3 years after enactment promulgate rules setting forth safety standards in accordance with chapter 301 of title 49 applicable to all conversions.
+(B) The plan, if approved by the Secretary, would be in lieu of the State meeting such annual percentages solely through purchases of new State-owned vehicles. All conversions or acquisitions or combinations thereof of any alternative fueled vehicles under the plan must be voluntary and must conform with the requirements of section 247 of the Clean Air Act \[42 U.S.C. 7587\] and must comply with applicable safety requirements. The Secretary of Transportation shall within 3 years after enactment promulgate rules setting forth safety standards in accordance with chapter 301 of title 49 applicable to all conversions.
 
 (Pub. L. 102–486, title V, §507, Oct. 24, 1992, 106 Stat. 2891.)
 

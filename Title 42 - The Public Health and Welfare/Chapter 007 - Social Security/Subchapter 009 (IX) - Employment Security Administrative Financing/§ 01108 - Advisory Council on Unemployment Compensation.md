@@ -76,10 +76,6 @@ Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained pr
 
 A prior section 1108, act Aug. 14, 1935, ch. 531, title IX, §908, 49 Stat. 643, related to rules and regulations. For further details, see Prior Law note set out preceding section 1101 of this title.
 
-A prior section 1109, act Aug. 14, 1935, ch. 531, title IX, §909, 49 Stat. 643, related to an additional credit against tax. For further details, see Prior Law note set out preceding section 1101 of this title.
-
-A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644, related to conditions of additional credit allowance. For further details, see Prior Law note set out preceding section 1101 of this title.
-
 #### Amendments
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–152 substituted "third year" for "2d year" in par. (1) and "1995" for "1994" in par. (2).
@@ -94,7 +90,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Report on Agricultural Labor Performed by Aliens
 

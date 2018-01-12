@@ -152,7 +152,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (3) Notice of reversal of recredit
 
-&emsp;In addition to the notice required under paragraph (1), if a bank reverses a recreditedamount under subsection (e), the bank shall send to the consumer, no later than the business day following the business day on which the bank reverses the recredit, a notice of—
+&emsp;In addition to the notice required under paragraph (1), if a bank reverses a recredited amount under subsection (e), the bank shall send to the consumer, no later than the business day following the business day on which the bank reverses the recredit, a notice of—
 
 &emsp;&emsp;(A) the amount of the reversal; and
 

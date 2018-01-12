@@ -42,7 +42,7 @@ Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: "
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: "That this Act \[enacting sections 1929b, 1934, 1981a, 1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16\] may be cited as the 'Agricultural Credit Act of 1978'."
+Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: "That this Act \[enacting sections 1929b, 1934, 1981a,1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16\] may be cited as the 'Agricultural Credit Act of 1978'."
 
 #### Short Title of 1972 Amendment
 

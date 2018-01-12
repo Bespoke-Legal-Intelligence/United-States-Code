@@ -28,7 +28,7 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 #### Effective Date
 
-Pub. L. 95–94, title I, §111(f), Aug. 5, 1977, 91 Stat. 663, provided that: "This section, and the amendmentsmade by subsection (d) and the repeals made by subsection (e) \[enacting this section, amending section 4575 of this title, enacting notes set out under section 4575 of this title, and repealing section 72a–1d and notes set out under former section 72a–1d of this title\], shall take effect on October 1, 1977."
+Pub. L. 95–94, title I, §111(f), Aug. 5, 1977, 91 Stat. 663, provided that: "This section, and the amendments made by subsection (d) and the repeals made by subsection (e) \[enacting this section, amending section 4575 of this title, enacting notes set out under section 4575 of this title, and repealing section 72a–1d and notes set out under former section 72a–1d of this title\], shall take effect on October 1, 1977."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

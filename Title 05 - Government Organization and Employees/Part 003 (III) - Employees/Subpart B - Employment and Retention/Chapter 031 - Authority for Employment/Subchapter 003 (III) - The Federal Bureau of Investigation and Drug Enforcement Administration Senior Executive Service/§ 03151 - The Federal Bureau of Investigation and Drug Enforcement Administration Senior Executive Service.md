@@ -6,7 +6,7 @@
 
 &emsp;(2) provide that positions in the FBI–DEA Senior Executive Service meet requirements that are consistent with the provisions of section 3132(a)(2);
 
-&emsp;(3) provide rates of pay for the FBI–DEA Senior Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
+&emsp;(3) provide rates of pay for the FBI–DEA Senior Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 and that are adjusted at the same time and tothe same extent as rates of basic pay for the Senior Executive Service are adjusted;
 
 &emsp;(4) provide a performance appraisal system for the FBI–DEA Senior Executive Service that conforms to the provisions of subchapter II of chapter 43;
 

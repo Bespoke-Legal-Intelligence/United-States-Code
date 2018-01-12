@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary makes a finding under subsection (a), but determines that the failure tocomply substantially with the provisions of this chapter—
+&emsp;If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
 
 &emsp;&emsp;(A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -84,7 +84,7 @@
 
 &emsp;Any recipient who receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter—
 
-&emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
+&emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the UnitedStates Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 
 &emsp;&emsp;(B) upon the filing of any petition under subparagraph (A), shall forthwith transmit copies of the petition to the Secretary and the Attorney General of the United States, who shall represent the Secretary in the litigation.
 

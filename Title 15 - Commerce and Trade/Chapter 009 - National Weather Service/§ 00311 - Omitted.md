@@ -44,7 +44,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 #### Sec. 3. Environmental Science Services Administration
 
-(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agencyin the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
+(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agency in the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
 
 (b) The Secretary shall from time to time establish such constituent organizational entities of the Administration, with such names, as he shall determine.
 
@@ -86,7 +86,7 @@ Nothing in this reorganization plan shall divest the Secretary of any function v
 
 To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for the reorganization of two major agencies of the Department of Commerce: The Weather Bureau and the Coast and Geodetic Survey.
+I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance with the provisions of theReorganization Act of 1949, as amended, and providing for the reorganization of two major agencies of the Department of Commerce: The Weather Bureau and the Coast and Geodetic Survey.
 
 The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administration when the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
 

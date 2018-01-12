@@ -10,7 +10,7 @@ Any person who commits an unlawful act as set forth in subsection (a) shall be l
 
 #### (c) Other penalties
 
-In addition to the penalties provided for in subsection (b), any violation of this subtitle that violates any other customs law of the United States shall be subject to any applicable civil and criminal penalty, including seizure and forfeiture, that may be imposed under such custom law or title 18, with respect to the importation of softwood lumber and softwood lumber products described in section 1683b(a) of this title.
+In addition to the penalties provided for in subsection (b), any violation of this subtitlethat violates any other customs law of the United States shall be subject to any applicable civil and criminal penalty, including seizure and forfeiture, that may be imposed under such custom law or title 18, with respect to the importation of softwood lumber and softwood lumber products described in section 1683b(a) of this title.
 
 #### (d) Factors to consider in assessing penalties
 
@@ -35,6 +35,10 @@ Notwithstanding any other provision of this subtitle, and without limitation, an
 #### References in Text
 
 Section 1683a of this title, referred to in subsec. (f), was in the original section "803", and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
+
+#### Effective Date
+
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under section 1683 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

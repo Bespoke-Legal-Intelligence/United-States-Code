@@ -28,5 +28,5 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date
 
-Pub. L. 100–647, title I, §1012(aa)(5)(D), Nov. 10, 1988, 102 Stat. 3533, provided that: "The amendments madeby this paragraph \[enacting this section and section 6712 of this title and renumbering former section 6114 as section 6115 of this title\] shall apply to taxable periods the due date for filing returns for which (without extension) occurs after December 31, 1988."
+Pub. L. 100–647, title I, §1012(aa)(5)(D), Nov. 10, 1988, 102 Stat. 3533, provided that: "The amendments made by this paragraph \[enacting this section and section 6712 of this title and renumbering former section 6114 as section 6115 of this title\] shall apply to taxable periods the due date for filing returns for which (without extension) occurs after December 31, 1988."
 

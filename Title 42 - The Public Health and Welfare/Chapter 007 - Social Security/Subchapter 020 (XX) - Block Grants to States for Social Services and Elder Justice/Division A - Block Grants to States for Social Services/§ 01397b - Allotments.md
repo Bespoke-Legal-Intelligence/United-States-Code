@@ -56,7 +56,7 @@ Pub. L. 105–178 added par. (8) and struck out former par. (8) which read as fo
 
 Subsec. (c)(9) to (11). Pub. L. 105–178 added pars. (9) to (11).
 
-<b>1996</b>—Subsec. (c)(5) to (8). Pub. L. 104–193 added pars. (5) to (8) and struck out former par. (5) which read as follows: "$2,800,000,000 for each fiscal year after fiscal year 1989."
+<b>1996</b>—Subsec. (c)(5) to (8). Pub. L. 104–193 added pars. (5) to (8) and struck out former par. (5) which read asfollows: "$2,800,000,000 for each fiscal year after fiscal year 1989."
 
 <b>1989</b>—Subsec. (c)(3). Pub. L. 101–239, §8016(1), substituted "1987, and 1989;" for "and 1987, and for each succeeding fiscal year other than the fiscal year 1988; and".
 
@@ -144,7 +144,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;"(i) procedures, established by State law or regulation, to provide for employment history and background checks; and
 
-&emsp;"(ii) provisions of State law, enacted in accordance with the provisions of Public Law 92–544 (86 Stat. 115) \[86 Stat. 1115, 28 U.S.C. 534 note\] requiring nationwide criminal record checks
+&emsp;"(ii) provisions of State law, enacted in accordance with the provisions of Public Law 92–544 (86 Stat. 115) \[86 Stat. 1115, 34 U.S.C. 41101\] requiring nationwide criminal record checks
 
 > for all operators, staff or employees, or prospective operators, staff or employees of child care facilities (including any facility or program having primary custody of children for 20 hours or more per week), juvenile detention, correction or treatment facilities, with the objective of protecting the children involved and promoting such children's safety and welfare while receiving service through such facilities or programs.
 

@@ -46,7 +46,7 @@ Pub. L. 85–846, §1, Aug. 28, 1958, 72 Stat. 1084, provided: "That this Act \[
 
 #### Short Title
 
-Act Aug. 1, 1946, ch. 724, title I, §291, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944, provided that: "This Act \[enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 of this title\] may be cited as the 'Atomic Energy Act of 1954'."
+Act Aug. 1, 1946, ch. 724, title I, §291, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944, provided that: "This Act \[enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 ofthis title\] may be cited as the 'Atomic Energy Act of 1954'."
 
 #### Separability
 

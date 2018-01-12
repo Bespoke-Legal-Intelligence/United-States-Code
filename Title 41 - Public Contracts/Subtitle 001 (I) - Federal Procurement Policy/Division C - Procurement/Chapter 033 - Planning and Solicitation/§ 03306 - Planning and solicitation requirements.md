@@ -76,7 +76,7 @@ In general.—In prescribing the evaluation factors to be included in each solic
 
 &emsp;(2)
 
-Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms "significantly more important" and "significantly less important" as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
+Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms "significantlymore important" and "significantly less important" as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
 
 (d)
 

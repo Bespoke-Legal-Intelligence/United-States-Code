@@ -26,3 +26,7 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 <b>2004</b>—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

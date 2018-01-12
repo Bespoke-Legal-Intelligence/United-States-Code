@@ -22,7 +22,7 @@ Fees.—
 
 &emsp;(1)
 
-Permitting charging of fees.—The Comptroller General may establish, charge, and collect fees (on a reimbursable or advancebasis) for the training, technical assistance, and products and services provided by the Center under this subchapter.
+Permitting charging of fees.—The Comptroller General may establish, charge, and collect fees (on a reimbursable or advance basis) for the training, technical assistance, and products and services provided by the Center under this subchapter.
 
 &emsp;(2)
 

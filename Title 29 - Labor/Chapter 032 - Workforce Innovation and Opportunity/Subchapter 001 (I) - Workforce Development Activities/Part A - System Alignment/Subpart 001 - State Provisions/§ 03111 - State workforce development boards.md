@@ -18,7 +18,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;(i) a majority shall be representatives of businesses in the State, who—
 
-&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymakingor hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymaking or hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) represent businesses (including small businesses), or organizations representing businesses described in this subclause, that provide employment opportunities that, at a minimum, include high-quality, work-relevant training and development in in-demand industry sectors or occupations in the State; and
 
@@ -32,7 +32,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;&emsp;(III) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
+&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing theemployment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
 
 &emsp;&emsp;&emsp;(iii) the balance—
 
@@ -180,7 +180,7 @@ The State board shall make available to the public, on a regular basis through e
 
 #### References in Text
 
-This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known asthe Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 

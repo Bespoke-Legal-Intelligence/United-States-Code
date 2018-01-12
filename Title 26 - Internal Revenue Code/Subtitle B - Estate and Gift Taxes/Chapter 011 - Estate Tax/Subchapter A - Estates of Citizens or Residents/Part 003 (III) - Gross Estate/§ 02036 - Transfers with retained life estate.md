@@ -26,7 +26,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 This section shall not apply to a transfer made before March 4, 1931; nor to a transfer made after March 3, 1931, and before June 7, 1932, unless the property transferred would have been includible in the decedent's gross estate by reason of the amendatory language of the joint resolution of March 3, 1931 (46 Stat. 1516).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(D), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(a), Oct. 4, 1976, 90 Stat. 1893; Pub. L. 95–600, title VII, §702(i)(1), (2),Nov. 6, 1978, 92 Stat. 2931; Pub. L. 100–203, title X, §10402(a), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 100–647, title III, §3031(a)(1), (b)–(e), (g), Nov. 10, 1988, 102 Stat. 3634–3638; Pub. L. 101–508, title XI, §11601(a), Nov. 5, 1990, 104 Stat. 1388–490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(D), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(a), Oct. 4, 1976, 90 Stat. 1893; Pub. L. 95–600, title VII, §702(i)(1), (2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 100–203, title X, §10402(a), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 100–647, title III, §3031(a)(1), (b)–(e), (g), Nov. 10, 1988, 102 Stat. 3634–3638; Pub. L. 101–508, title XI, §11601(a), Nov. 5, 1990, 104 Stat. 1388–490.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of States to redesignate areas
 
-Except as otherwise provided under subsection (c) of this section, a State may redesignate such areas as it deems appropriate as class I areas. The following areas may be redesignated only as class I or II:
+Except as otherwise provided under subsection (c), a State may redesignate such areas as it deems appropriate as class I areas. The following areas may be redesignated only as class I or II:
 
 &emsp;(1) an area which exceeds ten thousand acres in size and is a national monument, a national primitive area, a national preserve, a national recreation area, a national wild and scenic river, a national wildlife refuge, a national lakeshore or seashore, and
 
@@ -22,7 +22,7 @@ Except as otherwise provided under subsection (c) of this section, a State may r
 
 (1)(A) Prior to redesignation of any area under this part, notice shall be afforded and public hearings shall be conducted in areas proposed to be redesignated and in areas which may be affected by the proposed redesignation. Prior to any such public hearing a satisfactory description and analysis of the health, environmental, economic, social, and energy effects of the proposed redesignation shall be prepared and made available for public inspection and prior to any such redesignation, the description and analysis of such effects shall be reviewed and examined by the redesignating authorities.
 
-(B) Prior to the issuance of notice under subparagraph (A) respecting the redesignation of any area under this subsection, if such area includes any Federal lands, the State shall provide written notice to the appropriate Federal land manager and afford adequate opportunity (but not in excess of 60 days) to confer with the State respecting the intended notice of redesignation and to submit written comments and recommendations with respect to such intended notice of redesignation. In redesignating any area under this section with respect to which any Federal land manager has submitted written comments and recommendations, the State shall publish a list of any inconsistency between such redesignation and such recommendations and an explanation of such inconsistency (together with the reasons for making such redesignation against the recommendation of the Federal land manager).
+(B) Prior to the issuance of notice under subparagraph (A) respecting the redesignation of any area under this subsection, if such area includes any Federal lands, the State shall provide written notice to the appropriate Federal land manager and afford adequate opportunity (but not in excess of 60 days) to confer with the State respecting the intended notice of redesignation and to submit written comments and recommendations with respect to such intended notice of redesignation. In redesignating any areaunder this section with respect to which any Federal land manager has submitted written comments and recommendations, the State shall publish a list of any inconsistency between such redesignation and such recommendations and an explanation of such inconsistency (together with the reasons for making such redesignation against the recommendation of the Federal land manager).
 
 (C) The Administrator shall promulgate regulations not later than six months after August 7, 1977, to assure, insofar as practicable, that prior to any public hearing on redesignation of any area, there shall be available for public inspection any specific plans for any new or modified major emitting facility which may be permitted to be constructed and operated only if the area in question is designated or redesignated as class III.
 
@@ -30,7 +30,7 @@ Except as otherwise provided under subsection (c) of this section, a State may r
 
 #### (c) Indian reservations
 
-Lands within the exterior boundaries of reservations of federally recognized Indian tribes may be redesignated only by the appropriate Indian governing body. Such Indian governing body shall be subject in all respect to the provisions of subsection (e) of this section.
+Lands within the exterior boundaries of reservations of federally recognized Indian tribes may be redesignated only by the appropriate Indian governing body. Such Indian governing body shall be subject in all respect to the provisions of subsection (e).
 
 #### (d) Review of national monuments, primitive areas, and national preserves
 

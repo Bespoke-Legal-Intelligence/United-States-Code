@@ -44,7 +44,7 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-privatepartnership to facilitate air carrier service to the public;
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
 
 &emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 
@@ -72,7 +72,7 @@ In general.—The Secretary may make agreements to provide assistance under this
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 and $4,986,301 for the period beginning on October 1, 2017, and ending on March 31, 2018, to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
@@ -96,9 +96,11 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–190, title I, §1102(e), July 15, 2016, 130 Stat. 617.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–190, title I, §1102(e), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §104(b), Sept. 29, 2017, 131 Stat. 1170.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(2). Pub. L. 115–63 inserted "and $4,986,301 for the period beginning on October 1, 2017, and ending on March 31, 2018," after "fiscal years 2012 through 2017".
 
 <b>2016</b>—Subsec. (e)(2). Pub. L. 114–190 substituted "2017" for "2015".
 

@@ -40,6 +40,10 @@ Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–91, div. A, title XII, §1241, Dec. 12, 2017, 131 Stat. 1671, provided that: "This subtitle \[subtitle E (§§1241–1246) of title XII of div. A of Pub. L. 115–91, enacting provisions set out as a note under section 2593a of this title\] may be cited as the 'Intermediate-Range Nuclear Forces (INF) Treaty Preservation Act of 2017'."
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the 'Arms Control and Nonproliferation Act of 1999'."
@@ -152,7 +156,7 @@ Report relating to negotiations.—Not later than 6 months after the commencemen
 
 &emsp;"(2)
 
-Human rights reports.—In the report required in sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(b) and 2304(b)), theSecretary of State shall describe the extent to which the practices of each country evaluated meet the criteria in paragraphs (1)(A) and (2) of subsection (a)."
+Human rights reports.—In the report required in sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(b) and 2304(b)), the Secretary of State shall describe the extent to which the practices of each country evaluated meet the criteria in paragraphs (1)(A) and (2) of subsection (a)."
 
 #### Congressional Declarations; Purposes of 1994 Amendment
 
@@ -164,7 +168,7 @@ Pub. L. 103–236, title VII, §717(b), Apr. 30, 1994, 108 Stat. 500, provided t
 
 #### Soviet Weapons Destruction
 
-Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(1), Jan. 28, 2008, 122 Stat. 412; Pub. L. 113–291, div. A, title XIII, §1351(1), Dec. 19, 2014, 128 Stat. 3606, provided that:
+Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV,§1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(1), Jan. 28, 2008, 122 Stat. 412; Pub. L. 113–291, div. A, title XIII, §1351(1), Dec. 19, 2014, 128 Stat. 3606, provided that:
 
 #### "part a—short title
 

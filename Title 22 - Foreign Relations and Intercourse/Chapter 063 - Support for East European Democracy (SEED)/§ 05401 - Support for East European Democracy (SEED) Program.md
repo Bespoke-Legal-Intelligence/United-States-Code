@@ -64,7 +64,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 #### (3) Debt reduction and rescheduling
 
-&emsp;Participation in multilateral activities aimed at reducing and rescheduling a country's international debt, when reduction and deferral of debt payments can assist the process of political and economic transition.
+&emsp;Participation in multilateral activities aimed at reducing and rescheduling a country's international debt, when reduction anddeferral of debt payments can assist the process of political and economic transition.
 
 #### (4) Agricultural assistance
 

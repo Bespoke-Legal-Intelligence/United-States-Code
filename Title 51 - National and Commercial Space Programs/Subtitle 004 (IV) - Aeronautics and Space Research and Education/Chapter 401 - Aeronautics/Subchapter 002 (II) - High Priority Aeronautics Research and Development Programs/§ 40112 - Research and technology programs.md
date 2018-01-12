@@ -22,7 +22,7 @@ Fuel Cell-Powered Aircraft Research.—
 
 &emsp;(1)
 
-Objective.—The Administrator may establish a fuel cell-powered aircraft research program whose objective shall be to developand test concepts to enable a hydrogen fuel cell-powered aircraft that would have no hydrocarbon or nitrogen oxide emissions into the environment.
+Objective.—The Administrator may establish a fuel cell-powered aircraft research program whose objective shall be to develop and test concepts to enable a hydrogen fuel cell-powered aircraft that would have no hydrocarbon or nitrogen oxide emissions into the environment.
 
 &emsp;(2)
 

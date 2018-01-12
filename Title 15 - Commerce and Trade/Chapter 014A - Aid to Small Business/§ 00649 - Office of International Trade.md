@@ -90,7 +90,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(C) maintaining a directory of all Federal, regional, State and private sector programs that provide export information and assistance to small business concerns; and
 
-&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure thatthe maximum information is made available to small business concerns in a readily usable form;
+&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure that the maximum information is made available to small business concerns in a readily usable form;
 
 &emsp;(8) encourage through cooperation with the Department of Commerce, greater small business participation in trade fairs, shows, missions, and other domestic and overseas export development activities of the Department of Commerce;
 
@@ -104,7 +104,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(D) provide advice to personnel of the Administration involved in making loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small business concerns engaged in exports;
 
-&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
+&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments andagencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
@@ -166,7 +166,7 @@ The Associate Administrator shall submit an annual report to the Committee on Sm
 
 #### (g) Studies
 
-The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shall report to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
+The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shallreport to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
 
 &emsp;(1) the viability and cost of establishing an annual, competitive small business export incentive program similar to the Small Business Innovation Research program and alternative methods of structuring such a program;
 
@@ -318,7 +318,7 @@ The Administrator shall ensure that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicable industry-based small business size standard established under section 632 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the alternate size standard applicable to the program under section 636(a) of this title and the loan programs undertitle V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
+&emsp;&emsp;&emsp;&emsp;(II) the alternate size standard applicable to the program under section 636(a) of this title and the loan programs under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
 
 &emsp;&emsp;&emsp;(iv) has been in business for not less than 1 year, as of the date on which assistance using a grant under this subsection commences; and
 
@@ -504,7 +504,7 @@ Section 1207 of the Small Business Jobs Act of 2010, referred to in subsec. (l)(
 
 #### Prior Provisions
 
-A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for useof Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
+A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for use of Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 

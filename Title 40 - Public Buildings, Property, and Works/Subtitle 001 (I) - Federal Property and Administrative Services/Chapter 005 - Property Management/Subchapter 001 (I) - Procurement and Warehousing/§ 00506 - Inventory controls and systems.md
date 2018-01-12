@@ -34,7 +34,7 @@ In general.—The Administrator of General Services shall carry out activities u
 
 &emsp;&emsp;(B)
 
-Federal supply catalog system.—In establishing and maintaining a uniform federal supply catalog system under paragraph (1)(C), the Administrator of General Services and the Secretary shall coordinate to avoid unnecessary duplication.
+Federal supply catalog system.—In establishing and maintaining a uniform federal supply catalog system under paragraph (1)(C), the Administrator of General Servicesand the Secretary shall coordinate to avoid unnecessary duplication.
 
 (b)
 

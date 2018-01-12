@@ -10,5 +10,5 @@ Any employee who is a member of and adheres to established and traditional tenet
 
 #### Effective Date
 
-Pub. L. 93–360, §4, July 26, 1974, 88 Stat. 397, provided that: "The amendments made by this Act \[enacting this section and section 183 of this title and amending sections 152 and 158 of this title\] shall become effective on the thirtieth day after its date of enactment \[July 26, 1974\]."
+Pub. L. 93–360, §4, July 26, 1974, 88 Stat. 397, provided that: "The amendments made by this Act \[enactingthis section and section 183 of this title and amending sections 152 and 158 of this title\] shall become effective on the thirtieth day after its date of enactment \[July 26, 1974\]."
 

@@ -40,7 +40,7 @@
 
 #### (B) Certification
 
-&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of an authorized investigative agency described in subsection\(a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of an authorized investigative agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;&emsp;(i) a danger to the national security of the United States;
 
@@ -114,7 +114,7 @@ Nothing in this section may be construed to affect the authority of an investiga
 
 The Right to Financial Privacy Act, referred to in subsec. (g), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, and is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
-The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
 
 #### Codification
 

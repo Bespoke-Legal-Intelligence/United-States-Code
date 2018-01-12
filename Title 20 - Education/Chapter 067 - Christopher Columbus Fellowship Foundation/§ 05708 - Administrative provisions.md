@@ -12,7 +12,7 @@
 
 &emsp;(5) accept and utilize the services of voluntary and uncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
+&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carryout the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -28,6 +28,10 @@ Annual Report.—The Foundation shall submit to the President and to the Congres
 
 (Pub. L. 102–281, title IV, §429, May 13, 1992, 106 Stat. 144.)
 
+#### Repeal of Section
+
+<i>Pub. L. 115–31, div. E, title VI, §631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this section is repealed.</i>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -41,6 +45,10 @@ This chapter, referred to in subsec. (a)(6), was in the original "this chapter" 
 In subsec. (a)(6), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (a)(7), "section 3324(a) and (b) of title 31" substituted for reference to section 529 of title 31, United States Code, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Effective Date of Repeal
+
+Repeal effective one year after May 5, 2017, see section 631(a) of Pub. L. 115–31, set out as a note under section 5701 of this title.
 
 #### Termination of Reporting Requirements
 

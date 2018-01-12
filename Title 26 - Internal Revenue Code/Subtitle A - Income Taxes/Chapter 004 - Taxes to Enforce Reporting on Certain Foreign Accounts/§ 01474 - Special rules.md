@@ -40,7 +40,7 @@ Every person required to deduct and withhold any tax under this chapter is hereb
 
 #### (2) Disclosure of list of participating foreign financial institutions permitted
 
-&emsp;The identity of a foreign financial institution which meets the requirements of section 1471(b) shall not be treated as return information for purposes of section 6103.
+&emsp;The identity of a foreign financial institution which meets the requirements of section1471(b) shall not be treated as return information for purposes of section 6103.
 
 #### (d) Coordination with other withholding provisions
 

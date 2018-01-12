@@ -28,7 +28,7 @@ Certification.—If, after the debt limit is increased by $900,000,000,000 under
 
 &emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled "Joint resolution proposing a balanced budget amendment to the Constitution of the United States"; or
 
-&emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but not greater than $1,500,000,000,000, unless clause (ii) applies.
+&emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but notgreater than $1,500,000,000,000, unless clause (ii) applies.
 
 &emsp;&emsp;(B)
 
@@ -74,7 +74,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;(4)
 
-Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the jointresolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 (d)
 

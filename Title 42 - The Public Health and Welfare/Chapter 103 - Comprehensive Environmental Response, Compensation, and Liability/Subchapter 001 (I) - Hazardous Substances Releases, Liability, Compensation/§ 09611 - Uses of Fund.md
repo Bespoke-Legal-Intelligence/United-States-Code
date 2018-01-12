@@ -8,7 +8,7 @@ For the purposes specified in this section there is authorized to be appropriate
 
 &emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however</i>, That such costs must be approved under said plan and certified by the responsible Federal official.
 
-&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decidedpursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
+&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decided pursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
 
 &emsp;(4) Payment of costs specified under subsection (c) of this section.
 
@@ -20,7 +20,7 @@ Grants for technical assistance.—The cost of grants under section 9617(e) of t
 
 Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilot program for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
 
-> The President shall not pay for any administrative costs or expenses out of the Fund unless such costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
+> The President shall not pay for any administrative costs or expenses out of the Fund unlesssuch costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
 
 #### (b) Additional authorized purposes
 
@@ -60,7 +60,7 @@ Evaluation costs under petition provisions of section 9605(d).—Costs incurred 
 
 &emsp;(8)
 
-Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studiesundertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
+Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studies undertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
 
 &emsp;(9)
 
@@ -174,7 +174,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### (1) In general
 
-&emsp;The following sums are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund:
+&emsp;The following sums are authorized to be appropriated, out of any money in the Treasurynot otherwise appropriated, to the Hazardous Substance Superfund:
 
 &emsp;&emsp;(A) For fiscal year 1987, $212,500,000.
 
@@ -246,7 +246,7 @@ Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H
 
 <b>1989</b>—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting "$20,000,000" for "$10,000,000", was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and "For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund)." in introductory provisions, substituted "Payment" for "payment" in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for "; and" in par. (3), and added pars. (5) and (6).
+<b>1986</b>—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and "For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, andsuch sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund)." in introductory provisions, substituted "Payment" for "payment" in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for "; and" in par. (3), and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 99–499, §§111(c)(1), 207(d)(1), designated existing provisions as par. (1), inserted ", or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation" in par. (1), and added par. (2).
 

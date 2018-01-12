@@ -10,7 +10,7 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 #### (c) Limitation on use of funds
 
-(1) Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+(1) Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs, identified as publicdiplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
 
 (2)
 

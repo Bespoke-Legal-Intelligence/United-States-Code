@@ -32,5 +32,5 @@ Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided t
 
 #### Inapplicability to Salt River Pima-Maricopa Indian Community
 
-Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: "Upon the effective date of this Act as set forth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shall no longer apply to the Community \[Salt River Pima-Maricopa Indian Community\]."
+Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: "Upon the effective date of this Act as set forth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shallno longer apply to the Community \[Salt River Pima-Maricopa Indian Community\]."
 

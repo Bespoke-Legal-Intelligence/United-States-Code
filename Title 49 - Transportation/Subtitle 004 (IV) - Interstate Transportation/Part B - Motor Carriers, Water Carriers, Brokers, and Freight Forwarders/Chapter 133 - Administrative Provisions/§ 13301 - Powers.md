@@ -30,7 +30,7 @@ Procedure for taking testimony.—In a proceeding under this part, the Secretary
 
 &emsp;(2)
 
-Subpoena.—If a witness fails to be deposed or to produce records under paragraph (1) of this subsection, the Secretary may subpoena the witness to take a deposition, produce the records, or both.
+Subpoena.—If a witness fails to be deposed or to produce records under paragraph\(1) of this subsection, the Secretary may subpoena the witness to take a deposition, produce the records, or both.
 
 &emsp;(3)
 

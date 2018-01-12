@@ -40,7 +40,7 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(2) The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III,§312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
 

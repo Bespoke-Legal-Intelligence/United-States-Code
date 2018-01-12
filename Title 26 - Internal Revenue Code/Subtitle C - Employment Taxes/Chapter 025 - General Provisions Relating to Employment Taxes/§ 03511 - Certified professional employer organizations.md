@@ -20,7 +20,7 @@ For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
 
 Solely for purposes of its liability for the taxes and other obligations imposed by this subtitle—
 
-&emsp;(1) a certified professional employer organization shall be treated as the employer of any individual (other than a work site employee or a person described in subsection (f)) who is performing services covered by a contract meeting the requirements of section 7705(e)(2), but only with respect to remuneration remitted by such organization to such individual, and
+&emsp;(1) a certified professional employer organization shall be treated as the employer of anyindividual (other than a work site employee or a person described in subsection (f)) who is performing services covered by a contract meeting the requirements of section 7705(e)(2), but only with respect to remuneration remitted by such organization to such individual, and
 
 &emsp;(2) the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.
 
@@ -78,7 +78,7 @@ The Secretary shall develop such reporting and recordkeeping rules, regulations,
 
 &emsp;(3) such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and
 
-> shall be designed in a manner which streamlines, to the extent possible, the application ofrequirements of this section and section 7705, the exchange of information between a certified professional employer organization and its customers, and the reporting and recordkeeping obligations of the certified professional employer organization.
+> shall be designed in a manner which streamlines, to the extent possible, the application of requirements of this section and section 7705, the exchange of information between a certified professional employer organization and its customers, and the reporting and recordkeeping obligations of the certified professional employer organization.
 
 #### (h) Regulations
 

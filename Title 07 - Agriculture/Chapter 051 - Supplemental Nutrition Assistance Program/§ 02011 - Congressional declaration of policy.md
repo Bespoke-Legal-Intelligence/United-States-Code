@@ -150,7 +150,7 @@ Reimbursement.—Members of the Committee shall serve without compensation but s
 
 "(e)
 
-Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, to the appropriate committees of Congress, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development a final report, including recommendations for common or simplified programs and policies and the effects of and reasons for such programs and policies and may submit interim reports, including reports on common or simplified programs and policies covering less than thecomplete range of programs and policies under review, to the committees and such Secretaries as deemed appropriate by the Committee."
+Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, to the appropriate committees of Congress, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development a final report, including recommendations for common or simplified programs and policies and the effects of and reasons for such programs and policies and may submit interim reports, including reports on common or simplified programs and policies covering less than the complete range of programs and policies under review, to the committees and such Secretaries as deemed appropriate by the Committee."
 
 #### Rules
 

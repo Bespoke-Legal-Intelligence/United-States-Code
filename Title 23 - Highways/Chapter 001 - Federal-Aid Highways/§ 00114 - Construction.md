@@ -154,7 +154,7 @@ Projects.—
 
 &emsp;"(1)
 
-Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is insuch form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
+Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is in such form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
 
 &emsp;"(2)
 

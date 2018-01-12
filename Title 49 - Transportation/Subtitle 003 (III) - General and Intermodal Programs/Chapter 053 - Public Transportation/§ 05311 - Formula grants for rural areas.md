@@ -18,7 +18,7 @@ General Authority.—
 
 &emsp;(1)
 
-Grants authorized.—Except as provided by paragraph (2), the Secretary may award grants under this section to recipients located in rural areas for—
+Grants authorized.—Except as provided by paragraph (2), the Secretary may awardgrants under this section to recipients located in rural areas for—
 
 &emsp;&emsp;(A) planning, provided that a grant under this section for planning activities shall be in addition to funding awarded to a State under section 5305 for planning activities that are directed specifically at the needs of rural areas in the State;
 
@@ -68,7 +68,7 @@ Projects of a national scope.—Not more than 15 percent of the amounts availabl
 
 &emsp;(4)
 
-Data collection.—Each recipient under this section shall submit an annual report tothe Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
+Data collection.—Each recipient under this section shall submit an annual report to the Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
 
 &emsp;&emsp;(A) total annual revenue;
 
@@ -146,7 +146,7 @@ Land area.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
+In general.—Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the UnitedStates, as shown by the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -186,7 +186,7 @@ Maximum apportionment.—No State shall receive—
 
 (d)
 
-Use for Local Transportation Service.—A State may use an amount apportioned under this section for a project included in a programunder subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
+Use for Local Transportation Service.—A State may use an amount apportioned under this section for a project included in a program under subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
 
 (e)
 
@@ -320,7 +320,7 @@ Allocation between multiple indian tribes.—If more than 1 Indian tribe provide
 
 Non-tribal service providers.—A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596;Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464.)
 
 Historical and Revision Notes
 
@@ -478,7 +478,7 @@ Subsec. (j)(1)(E). Pub. L. 114–94, §3007(a)(3)(B), added subpar. (E).
 
 <b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–159, §1201(1), inserted "for each fiscal year ending before October 1, 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be distributed".
 
-Subsec. (c)(1)(B). Pub. L. 113–159, §1201(2), inserted "for each fiscal year ending before October 1, 2014, and$16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be apportioned".
+Subsec. (c)(1)(B). Pub. L. 113–159, §1201(2), inserted "for each fiscal year ending before October 1, 2014, and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be apportioned".
 
 <b>2012</b>—Pub. L. 112–141, §20010, amended section generally. Prior to amendment, section related to formula grants for other than urbanized areas.
 
@@ -512,7 +512,7 @@ Subsec. (b). Pub. L. 109–59, §3013(b), reenacted heading without change and a
 
 "(2) The Secretary of Transportation shall carry out a rural transportation assistance program in nonurbanized areas. In carrying out this paragraph, the Secretary may make grants and contracts for transportation research, technical assistance, training, and related support services in nonurbanized areas."
 
-Subsec. (c). Pub. L. 109–59, §3013(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary of Transportation shall apportion amounts made available under section 5338(a) of this title so that the chief executive officer of each State receives an amount equal to the total amount apportioned multiplied by a ratio equal to the population of areas other than urbanized areas in a State divided by the population of all areas other than urbanized areas in the United States, as shown by the most recent of the following: the latest Government census, the population estimate the Secretary of Commerce prepares after the 4th year after the date the latest census is published, or the population estimate the Secretary of Commerce prepares after the 8th year after the date the latest census is published. The amount may be obligated by the chief executive officer for 2 years after the fiscal year in which the amount is apportioned. An amount that is not obligated at the end of that period shall be reapportioned among the States for the next fiscal year."
+Subsec. (c). Pub. L. 109–59, §3013(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary of Transportation shall apportion amounts made available under section 5338(a) of this title so that the chief executive officer of each State receives an amount equal to the total amount apportioned multiplied by a ratio equal to the population of areas other than urbanized areas in a State divided by the population of all areas other than urbanized areas in the United States, as shown by the most recent of the following: the latest Government census, the population estimate the Secretary of Commerce prepares after the 4th year after the date the latest census is published, or the population estimate the Secretary of Commerce prepares after the 8th year after the date the latest census is published. The amount may be obligated by the chief executive officer for 2 years after the fiscal year in which the amount is apportioned. An amount that is not obligated at theend of that period shall be reapportioned among the States for the next fiscal year."
 
 Subsec. (e). Pub. L. 109–59, §3013(d), inserted ", Planning," after "Administration" in heading and in text struck out "(1)" before "The Secretary", substituted "subrecipient" for "recipient", and struck out par. (2) which read as follows: "Except as provided in this section, a State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses."
 

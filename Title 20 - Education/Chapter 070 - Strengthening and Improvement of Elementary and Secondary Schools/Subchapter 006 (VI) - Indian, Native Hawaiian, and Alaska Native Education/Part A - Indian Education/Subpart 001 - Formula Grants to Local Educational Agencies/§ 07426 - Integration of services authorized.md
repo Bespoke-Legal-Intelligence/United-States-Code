@@ -36,7 +36,7 @@ For a plan to be acceptable pursuant to subsection (b), the plan shall—
 
 #### (e) Plan review
 
-Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall havethe authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
+Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall have the authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
 
 #### (f) Plan approval
 
@@ -114,7 +114,7 @@ For the purposes of this section, the term "Secretary" means—
 
 #### References in Text
 
-The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
+The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978,92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

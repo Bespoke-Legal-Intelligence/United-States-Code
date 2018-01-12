@@ -26,7 +26,7 @@ The first report submitted pursuant to section 5474 of this title shall include 
 
 &emsp;&emsp;(C) an assessment of the feasibility of debt-for-nature swaps as a technique of environmental protection in each country; and
 
-&emsp;&emsp;(D) recommendations for minimizing further environmental damage to Krakow, andfor the protection and restoration of historic sites in that city.
+&emsp;&emsp;(D) recommendations for minimizing further environmental damage to Krakow, and for the protection and restoration of historic sites in that city.
 
 (Pub. L. 101–179, title VII, §703, Nov. 28, 1989, 103 Stat. 1321.)
 

@@ -34,7 +34,7 @@ Authority.—The Secretary of the Navy may issue a military identification card 
 
 "(b)
 
-Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Navy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the RetiredReserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
+Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Navy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
 
 "(c)
 

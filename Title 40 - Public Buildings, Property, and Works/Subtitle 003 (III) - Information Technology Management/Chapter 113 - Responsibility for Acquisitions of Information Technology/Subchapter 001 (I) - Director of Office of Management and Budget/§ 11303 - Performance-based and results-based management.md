@@ -16,7 +16,7 @@ Requirement.—The Director shall evaluate the information resources management 
 
 Direction for executive agency action.—The Director shall issue to the head of each executive agency clear and concise direction that the head of each agency shall—
 
-&emsp;&emsp;(A) establish effective and efficient capital planning processes for selecting, managing, and evaluating the results of all of its major investments in information systems;
+&emsp;&emsp;(A) establish effective and efficient capital planning processes for selecting, managing,and evaluating the results of all of its major investments in information systems;
 
 &emsp;&emsp;(B) determine, before making an investment in a new information system—
 

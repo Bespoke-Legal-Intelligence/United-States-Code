@@ -38,7 +38,7 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 #### (3) Calculation of voting percentage
 
-&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more than one State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in theprimary election conducted on such date in which he received the greatest percentage vote.
+&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more than one State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in the primary election conducted on such date in which he received the greatest percentage vote.
 
 #### (4) Reestablishment of eligibility
 

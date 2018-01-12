@@ -58,7 +58,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\];
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
 &emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 

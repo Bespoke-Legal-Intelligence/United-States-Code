@@ -1,0 +1,6 @@
+### §13863. Transferred
+
+#### Codification
+
+Section 13863 was editorially reclassified as section 12223 of Title 34, Crime Control and Law Enforcement.
+

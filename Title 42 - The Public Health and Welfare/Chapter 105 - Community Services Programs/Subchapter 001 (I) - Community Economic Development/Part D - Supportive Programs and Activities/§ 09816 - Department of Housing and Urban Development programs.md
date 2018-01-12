@@ -8,7 +8,7 @@ The Secretary of Housing and Urban Development, after consultation with the Secr
 
 Section 811 of the Housing and Community Development Act of 1974, referred to in text, is section 811 of Pub. L. 93–383, title VIII, Aug. 22, 1974, 88 Stat. 735, which amended section 1701x of Title 12, Banks and Banking.
 
-The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974,88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, 313(b), Aug. 13, 1981, 95 Stat. 398.
 
@@ -20,7 +20,7 @@ Pub. L. 103–120, §4, Oct. 27, 1993, 107 Stat. 1148, as amended by Pub. L. 105
 
 "(a)
 
-In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
+In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporationsand community housing development organizations to undertake community development and affordable housing projects and programs.
 
 "(b)
 

@@ -38,7 +38,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitations comparable to the limitations applicable to public housing; and
 
-&emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
+&emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physicalcondition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
 
 &emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property, and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
 
@@ -184,7 +184,7 @@ Pub. L. 105–276, §518(a)(2)(A), struck out "section 1437c(h) of this title or
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–625, §572(1), which directed substitution of "low-income families" for "lower income families", was executed by substituting "Low-income families" for "Lower income families" in introductory provisions to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines tobe necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership."
+Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The Secretary, and the public housing agency owning and operating a public housing project, shall provide such training, technical assistance, and educational assistance as the Secretary determines to be necessary to prepare the families residing in the project, and any resident management corporation established under paragraph (1), for homeownership."
 
 Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted "the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990" for "September 30, 1990".
 

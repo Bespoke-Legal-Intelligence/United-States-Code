@@ -8,7 +8,7 @@ Except as provided in subsection (b) and in section 1675 of this title, the maxi
 
 &emsp;(2) the amount by which his disposable earnings for that week exceed thirty times the Federal minimum hourly wage prescribed by section 206(a)(1) of title 29 in effect at the time the earnings are payable,
 
-> whichever is less. In the case of earnings for any pay period other than a week, the Secretary ofLabor shall by regulation prescribe a multiple of the Federal minimum hourly wage equivalent in effect to that set forth in paragraph (2).
+> whichever is less. In the case of earnings for any pay period other than a week, the Secretary of Labor shall by regulation prescribe a multiple of the Federal minimum hourly wage equivalent in effect to that set forth in paragraph (2).
 
 #### (b) Exceptions
 

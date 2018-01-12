@@ -6,7 +6,7 @@ As used in this part:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term "eligible institution" means an institution of higher education, as defined in section 1002 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and includes any institution ineligible for participation in any program under this part pursuant to paragraph (2) of this subsection.
+&emsp;Except as provided in paragraph (2), the term "eligible institution" means an institution of higher education, as defined in section 1002 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and includes any institution ineligible for participation in any program under thispart pursuant to paragraph (2) of this subsection.
 
 #### (2) Ineligibility based on high default rates
 
@@ -102,7 +102,7 @@ As used in this part:
 
 &emsp;&emsp;(IV) The placement rate shall not include as placements a student or former student for whom the institution is the employer.
 
-&emsp;(B) For purposes of determining a rate of completion and a placement rate under this paragraph, a student is originally scheduled, at the time of enrollment, to complete the educational program on the date when the student will have been enrolled in the program for the amount of time normally required to complete the program. The amount of time normally required to complete the program for a student who is initially enrolled full-time is the period of time specified in the institution's enrollment contract, catalog, orother materials, for completion of the program by a full-time student. For a student who is initially enrolled less than full-time, the period is the amount of time it would take the student to complete the program if the student remained enrolled at that level of enrollment throughout the program.
+&emsp;(B) For purposes of determining a rate of completion and a placement rate under this paragraph, a student is originally scheduled, at the time of enrollment, to complete the educational program on the date when the student will have been enrolled in the program for the amount of time normally required to complete the program. The amount of time normally required to complete the program for a student who is initially enrolled full-time is the period of time specified in the institution's enrollment contract, catalog, or other materials, for completion of the program by a full-time student. For a student who is initially enrolled less than full-time, the period is the amount of time it would take the student to complete the program if the student remained enrolled at that level of enrollment throughout the program.
 
 #### (6) Reduction of default rates at certain minority institutions
 
@@ -114,7 +114,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III) to provide technical assistance in implementing such default management plan; and
 
-&emsp;&emsp;&emsp;(iii) provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successful implementation of such default management plan.
+&emsp;&emsp;&emsp;(iii) provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successfulimplementation of such default management plan.
 
 #### (B) Discretionary eligibility conditioned on improvement
 
@@ -164,7 +164,7 @@ As used in this part:
 
 #### (C) Notification
 
-&emsp;&emsp;Prior to publication of a final cohort default rate for an institution that providesthe data described in subparagraph (B), the Secretary shall notify the institution of the institution's compliance or noncompliance with subparagraph (A).
+&emsp;&emsp;Prior to publication of a final cohort default rate for an institution that provides the data described in subparagraph (B), the Secretary shall notify the institution of the institution's compliance or noncompliance with subparagraph (A).
 
 #### (b), (c) Repealed. Pub. L. 102–325, title IV, §427(b)(1), (c), July 23, 1992, 106 Stat. 549
 
@@ -178,7 +178,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) is subject to examination and supervision by an agency of the United States or of the State in which its principal place of operation is established, and
 
-&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000, or (IV) it is a National or State chartered bank, or a credit union, with assets of less than $1,000,000,000;
+&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofitfoundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000, or (IV) it is a National or State chartered bank, or a credit union, with assets of less than $1,000,000,000;
 
 &emsp;&emsp;(B) a pension fund as defined in the Employee Retirement Income Security Act \[29 U.S.C. 1001 et seq.\];
 
@@ -292,7 +292,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the institution or organization, and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
 
-&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
+&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lenderserves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
 
 &emsp;&emsp;&emsp;(ii) in the case of an organization affiliated with an institution—
 
@@ -344,7 +344,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (1) In general
 
-&emsp;(A) Except as provided in paragraph (2), the term "cohort default rate" means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1,<sup>1</sup> or1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the second fiscal year following the fiscal year in which the students entered repayment. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by the guaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
+&emsp;(A) Except as provided in paragraph (2), the term "cohort default rate" means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1,<sup>1</sup> or 1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the second fiscal year following the fiscal year in which the students entered repayment. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by the guaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
 
 &emsp;(B) In determining the number of students who default before the end of such second fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance. In considering appeals with respect to cohort default rates pursuant to subsection (a)(3), the Secretary shall exclude, from the calculation of the number of students who entered repayment and from the calculation of the number of students who default, any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
 
@@ -370,7 +370,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 &emsp;(B) The Secretary may designate such additional subcategories within the categories specified in subparagraph (A) as the Secretary deems appropriate.
 
-&emsp;(C) The Secretary shall publish not less often than once every fiscal year a report showing default data for each institution forwhich a cohort default rate is calculated under this subsection.
+&emsp;(C) The Secretary shall publish not less often than once every fiscal year a report showing default data for each institution for which a cohort default rate is calculated under this subsection.
 
 &emsp;(D) The Secretary shall publish the report described in subparagraph (C) by September 30 of each year.
 
@@ -438,7 +438,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 &emsp;&emsp;No State, political subdivision, authority, agency, instrumentality, trustee, or other entity described in paragraph (1)(A), (B), (C), or (D) shall be an eligible not-for-profit holder under this chapter with respect to any loan, or income from any loan, unless—
 
-&emsp;&emsp;&emsp;(i) such State, political subdivision, authority, agency, instrumentality, or otherentity is the sole beneficial owner of such loan and the income from such loan; or
+&emsp;&emsp;&emsp;(i) such State, political subdivision, authority, agency, instrumentality, or other entity is the sole beneficial owner of such loan and the income from such loan; or
 
 &emsp;&emsp;&emsp;(ii) such trustee holds the loan on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), and such State, political subdivision, authority, agency, instrumentality, or other entity is the sole beneficial owner of such loan and the income from such loan.
 
@@ -480,7 +480,7 @@ Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subse
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43,§1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -704,7 +704,7 @@ Subsec. (d)(1)(J). Pub. L. 100–50, §10(aa)(2), added subpar. (J).
 
 Subsec. (d)(2). Pub. L. 100–50, §10(aa)(3), added subpars. (C) and (D) and inserted concluding provision that the requirements of subpars. (C) and (D) not apply with respect to loans made, and loan commitments made, after Oct. 17, 1986, and prior to July 1, 1987.
 
-Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out former par. (2) which read as follows:"Such term when used with respect to the disabled dependent of a single parent borrower means a dependent who, by reason of injury or illness, cannot be expected to be able to attend school or to be gainfully employed during a period of injury or illness of not less than 3 months and who during such period requires continuous nursing or similar services."
+Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out former par. (2) which read as follows: "Such term when used with respect to the disabled dependent of a single parent borrower means a dependent who, by reason of injury or illness, cannot be expected to be able to attend school or to be gainfully employed during a period of injury or illness of not less than 3 months and who during such period requires continuous nursing or similar services."
 
 Subsec. (h). Pub. L. 100–50, §10(aa)(5), struck out "Definition of" before "Parental" in heading.
 
@@ -728,7 +728,7 @@ Effective date.—The amendments made by paragraph (1) \[amending this section\]
 
 "(B)
 
-Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, until three consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available."
+Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, untilthree consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available."
 
 #### Effective Date of 2007 Amendment
 

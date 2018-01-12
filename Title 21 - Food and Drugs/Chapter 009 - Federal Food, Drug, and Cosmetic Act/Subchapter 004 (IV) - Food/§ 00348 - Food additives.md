@@ -128,7 +128,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (iv) For fiscal year 2000 and subsequent fiscal years, the applicable amount under this clause is $3,000,000, or the amount specified in the budget request of the President for the fiscal year involved for carrying out the notification program under this subsection, whichever is less.
 
-(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
+(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as maybe necessary for each of the fiscal years 1999 through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
 
 (C) Not later than April 1 of fiscal year 1998 and February 1 of each subsequent fiscal year, the Secretary shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate that provides an estimate of the Secretary of the costs of carrying out the notification program established under this subsection for the next fiscal year.
 
@@ -146,7 +146,7 @@ Without regard to subsections (b) to (i), inclusive, of this section, the Secret
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted "While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, byreason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title." for "While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title."
+<b>1997</b>—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted "While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title." for "While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title."
 
 Subsec. (a)(1). Pub. L. 105–115, §309(a)(1), substituted "subsection (j)" for "subsection (i)".
 
@@ -192,7 +192,7 @@ Pub. L. 105–115, title III, §308, Nov. 21, 1997, 111 Stat. 2353, provided tha
 
 "(a)
 
-In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in the lip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published.
+In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in thelip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published.
 
 "(b)
 

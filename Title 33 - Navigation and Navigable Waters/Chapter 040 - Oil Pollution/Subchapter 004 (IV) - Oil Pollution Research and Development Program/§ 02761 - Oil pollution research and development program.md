@@ -50,7 +50,7 @@
 
 #### (1) Establishment
 
-&emsp;The Interagency Committee shall coordinate the establishment, by the agencies represented on the Interagency Committee, of a program for conducting oil pollution research and development, as provided in this subsection.
+&emsp;The Interagency Committee shall coordinate the establishment, by the agencies representedon the Interagency Committee, of a program for conducting oil pollution research and development, as provided in this subsection.
 
 #### (2) Innovative oil pollution technology
 
@@ -108,7 +108,7 @@
 
 > &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
 
-&emsp;(C) Research conducted under this paragraph by, or through, the United States Fish and Wildlife Service shall be directed and coordinated by the National Wetland Research Center.
+&emsp;(C) Research conducted under this paragraph by, or through, the United States Fish andWildlife Service shall be directed and coordinated by the National Wetland Research Center.
 
 #### (5) Marine simulation research
 
@@ -124,7 +124,7 @@
 
 #### (6) Demonstration projects
 
-&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollutionminimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
 
 #### (7) Simulated environmental testing
 
@@ -154,7 +154,7 @@
 
 #### (9) Funding
 
-&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grantsunder this paragraph until the authorization for funding under section 2736(b) of this title expires.
+&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grants under this paragraph until the authorization for funding under section 2736(b) of this title expires.
 
 #### (10) Grants
 

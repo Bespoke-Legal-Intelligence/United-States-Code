@@ -1,0 +1,6 @@
+### §14094. Transferred
+
+#### Codification
+
+Section 14094 was editorially reclassified as section 12554 of Title 34, Crime Control and Law Enforcement.
+

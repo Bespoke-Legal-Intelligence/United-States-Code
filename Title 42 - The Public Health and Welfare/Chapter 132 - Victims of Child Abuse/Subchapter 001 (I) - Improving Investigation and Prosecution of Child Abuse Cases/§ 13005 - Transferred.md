@@ -1,0 +1,6 @@
+### §13005. Transferred
+
+#### Codification
+
+Section 13005 was editorially reclassified as section 20307 of Title 34, Crime Control and Law Enforcement.
+

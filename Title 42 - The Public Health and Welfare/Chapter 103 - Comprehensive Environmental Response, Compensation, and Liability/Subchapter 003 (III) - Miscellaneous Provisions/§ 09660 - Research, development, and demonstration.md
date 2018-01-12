@@ -98,7 +98,7 @@
 
 #### (B) Solicitation
 
-&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
+&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purposeof any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
 
 #### (C) Applications
 
@@ -134,13 +134,13 @@
 
 #### (6) Field demonstrations
 
-&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated atleast 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
+&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
 
 #### (7) Criteria
 
 &emsp;In selecting technologies to be demonstrated under this subsection, the Administrator shall, consistent with the protection of human health and the environment, consider each of the following criteria:
 
-&emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, which cannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
+&emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, whichcannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
 
 &emsp;&emsp;(B) The availability of technologies which have been sufficiently developed for field demonstration and which are likely to be cost-effective and reliable.
 
@@ -442,5 +442,5 @@ Pub. L. 99–499, title II, §209(a), Oct. 17, 1986, 100 Stat. 1708, provided th
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

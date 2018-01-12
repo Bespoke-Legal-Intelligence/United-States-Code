@@ -2,7 +2,7 @@
 
 (a) In this section, "high seas" means waters seaward of the Boundary Line.
 
-(b) The Officers' Competency Certificates Convention, 1936 (International Labor Organization Draft Convention Numbered 53, on the minimum requirement of professional capacity for masters and officers on board merchant vessels), as ratified by the President on September 1, 1938, with understandings appended, and this section apply to a documented vessel operating on the high seas except—
+(b) The Officers' Competency Certificates Convention, 1936 (International Labor OrganizationDraft Convention Numbered 53, on the minimum requirement of professional capacity for masters and officers on board merchant vessels), as ratified by the President on September 1, 1938, with understandings appended, and this section apply to a documented vessel operating on the high seas except—
 
 &emsp;(1) a public vessel;
 

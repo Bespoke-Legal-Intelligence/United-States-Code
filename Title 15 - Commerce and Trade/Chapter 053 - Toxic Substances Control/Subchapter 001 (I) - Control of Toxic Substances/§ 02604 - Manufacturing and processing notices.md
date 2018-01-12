@@ -68,7 +68,7 @@ Article consideration.—The Administrator may require notification under this s
 
 #### (b) Submission of information
 
-(1)(A) If (i) a person is required by subsection (a)(1) to submit a notice to the Administrator before beginning the manufacture or processing of a chemical substance, and (ii) such person isrequired to submit information for such substance pursuant to a rule, order, or consent agreement under section 2603 of this title before the submission of such notice, such person shall submit to the Administrator such information in accordance with such rule, order, or consent agreement at the time notice is submitted in accordance with subsection (a)(1).
+(1)(A) If (i) a person is required by subsection (a)(1) to submit a notice to the Administrator before beginning the manufacture or processing of a chemical substance, and (ii) such person is required to submit information for such substance pursuant to a rule, order, or consent agreement under section 2603 of this title before the submission of such notice, such person shall submit to the Administrator such information in accordance with such rule, order, or consent agreement at the time notice is submitted in accordance with subsection (a)(1).
 
 (B) If—
 
@@ -94,7 +94,7 @@ Article consideration.—The Administrator may require notification under this s
 
 (3) Information submitted under paragraph (1) or (2) of this subsection or under subsection (e) shall be made available, subject to section 2613 of this title, for examination by interested persons.
 
-(4)(A)(i) The Administrator may, by rule, compile and keep current a list of chemical substances with respect to which the Administrator finds that the manufacture, processing, distribution in commerce, use, or disposal, or any combination of such activities, presents or may present an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors.
+(4)(A)(i) The Administrator may, by rule, compile and keep current a list of chemical substances with respect to which the Administratorfinds that the manufacture, processing, distribution in commerce, use, or disposal, or any combination of such activities, presents or may present an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors.
 
 (ii) In making a finding under clause (i) that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or any combination of such activities presents or may present an unreasonable risk of injury to health or the environment, the Administrator shall consider all relevant factors, including—
 
@@ -220,7 +220,7 @@ If the Administrator finds in accordance with subsection (a)(3)(C) that a chemic
 
 &emsp;(B) chemical research on, or analysis of such substance or another substance, including such research or analysis for the development of a product,
 
-> if all persons engaged in such experimentation, research, or analysis for a manufacturer or processor are notified (in such form and manner asthe Administrator may prescribe) of any risk to health which the manufacturer, processor, or the Administrator has reason to believe may be associated with such chemical substance.
+> if all persons engaged in such experimentation, research, or analysis for a manufacturer or processor are notified (in such form and manner as the Administrator may prescribe) of any risk to health which the manufacturer, processor, or the Administrator has reason to believe may be associated with such chemical substance.
 
 (4) The Administrator may, upon application and by rule, exempt the manufacturer of any new chemical substance from all or part of the requirements of this section if the Administrator determines that the manufacture, processing, distribution in commerce, use, or disposal of such chemical substance, or that any combination of such activities, will not present an unreasonable risk of injury to health or the environment, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified by the Administrator under the conditions of use.
 
@@ -240,7 +240,7 @@ If the Administrator finds in accordance with subsection (a)(3)(C) that a chemic
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §5(1)(A), designated existing provisions as subpar. (A) and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively; substituted "Except as provided in subparagraph (B) of this paragraph and" for "Except as provided in" in introductory provisions; substituted "significant new use." for "significant new use," at end of cl. (ii); struck out concluding provisions "unless such person submits to the Administrator, at least 90 days before such manufacture or processing, a notice, in accordance with subsection (d), of such person's intention to manufacture or process such substance and such person complies with any applicable requirement of subsection (b)."; and added subpar. (B).
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §5(1)(A), designated existing provisions as subpar. (A) and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively; substituted "Except as provided in subparagraph (B) of this paragraph and" for "Except as provided in" in introductory provisions; substituted "significant new use." for "significant new use," at end of cl. (ii); struck out concluding provisions "unless such person submits to the Administrator, at least 90 days before such manufacture or processing, a notice, in accordance with subsection (d), of such person's intentionto manufacture or process such substance and such person complies with any applicable requirement of subsection (b)."; and added subpar. (B).
 
 Subsec. (a)(3) to (5). Pub. L. 114–182, §5(1)(B), added pars. (3) to (5).
 
@@ -286,7 +286,7 @@ Subsec. (d)(2)(C). Pub. L. 114–182, §19(e)(2), substituted "rule, order, or c
 
 Subsec. (d)(3). Pub. L. 114–182, §5(4)(D), substituted "for which the applicable review period" for "for which the notification period prescribed by subsection (a), (b), or (c)" and "such period" for "such notification period".
 
-Subsec. (e)(1)(A). Pub. L. 114–182, §5(5)(A)(iii)(III), inserted before period at end of concluding provisions "to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposedor susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order".
+Subsec. (e)(1)(A). Pub. L. 114–182, §5(5)(A)(iii)(III), inserted before period at end of concluding provisions "to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order".
 
 Pub. L. 114–182, §5(5)(A)(iii)(II), which directed substitution of "applicable review period" for "notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), (c)" in concluding provisions, was executed by making the substitution for "notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), or (c)" to reflect the probable intent of Congress.
 
@@ -310,7 +310,7 @@ Subsec. (f)(1). Pub. L. 114–182, §5(6)(A), substituted "determines that a che
 
 Subsec. (f)(2). Pub. L. 114–182, §5(6)(B), substituted "Section 2605(d)(3)(B)" for "Section 2605(d)(2)(B)" in concluding provisions.
 
-Subsec. (f)(3)(A). Pub. L. 114–182, §5(6)(C)(i), substituted "Administrator may" for "Administrator may—", struck out cl. (i) designation before "issue", substituted "an order to prohibit or limit the" for "a proposed order to prohibit the" and "under paragraph (1). Such order shall take effect on the expiration of the applicable review period." for "under paragraph (1), or", and struck out cl. (ii) and concluding provisions which read as follows:
+Subsec. (f)(3)(A). Pub. L. 114–182, §5(6)(C)(i), substituted "Administrator may" for "Administrator may—", struck out cl. (i) designation before "issue", substituted "an order to prohibit or limit the" for "a proposed order to prohibit the" and "under paragraph\(1). Such order shall take effect on the expiration of the applicable review period." for "under paragraph (1), or", and struck out cl. (ii) and concluding provisions which read as follows:
 
 "(ii) apply, through attorneys of the Environmental Protection Agency, to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer, or processor, as the case may be, of such substance, is found, resides, or transacts business for an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance.
 

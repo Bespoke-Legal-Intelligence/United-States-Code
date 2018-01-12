@@ -14,7 +14,7 @@ Registry endorsement.—The terms "certificate of registry", "register", and "re
 
 &emsp;(2)
 
-Coastwise endorsement.—The terms "license", "enrollment and license", "license forthe coastwise (or coasting) trade", and "enrollment and license for the coastwise (or coasting) trade" mean a certificate of documentation with a coastwise endorsement issued under this chapter.
+Coastwise endorsement.—The terms "license", "enrollment and license", "license for the coastwise (or coasting) trade", and "enrollment and license for the coastwise (or coasting) trade" mean a certificate of documentation with a coastwise endorsement issued under this chapter.
 
 &emsp;(3)
 

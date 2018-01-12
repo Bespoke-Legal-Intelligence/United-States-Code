@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted "subsection (a) of this s
 
 Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
-<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base forrounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
 
 #### Effective Date of 1982 Amendment
 

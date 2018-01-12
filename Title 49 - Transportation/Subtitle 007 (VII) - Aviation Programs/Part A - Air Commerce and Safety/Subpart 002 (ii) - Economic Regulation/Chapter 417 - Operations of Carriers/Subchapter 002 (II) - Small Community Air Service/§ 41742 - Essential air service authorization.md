@@ -10,7 +10,7 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, and $175,000,000 for each of fiscal years 2016 and 2017 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, $175,000,000 for each of fiscal years 2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
@@ -24,7 +24,7 @@ Distribution of Additional Funds.—Notwithstanding any other provision of law, 
 
 Availability of Funds.—The funds made available under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §104(a), Sept. 29, 2017, 131 Stat. 1170.)
 
 Historical and Revision Notes
 
@@ -48,6 +48,8 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(2). Pub. L. 115–63 substituted "$175,000,000 for each of fiscal years 2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018," for "and $175,000,000 for each of fiscal years 2016 and 2017".
+
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–190 substituted "fiscal year 2014, $93,000,000 for fiscal year 2015, and $175,000,000 for each of fiscal years 2016 and 2017" for "fiscal year 2014, $93,000,000 for fiscal year 2015, and $122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016,".
 
 Pub. L. 114–141 substituted "$122,708,333 for the period beginning on October 1, 2015, and ending on July 15, 2016," for "$77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,".
@@ -66,7 +68,7 @@ Subsec. (c). Pub. L. 112–95, §428(c), added subsec. (c).
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–30 substituted "there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012," for "there is authorized to be appropriated $77,000,000 for each fiscal year".
 
-<b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted "$77,000,000" for "$15,000,000" and inserted "ofwhich not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance" before period at end.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted "$77,000,000" for "$15,000,000" and inserted "of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance" before period at end.
 
 Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
 

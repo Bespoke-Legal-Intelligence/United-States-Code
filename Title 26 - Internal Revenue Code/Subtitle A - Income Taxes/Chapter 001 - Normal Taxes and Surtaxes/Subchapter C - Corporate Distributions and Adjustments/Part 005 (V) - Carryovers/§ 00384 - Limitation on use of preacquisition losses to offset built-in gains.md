@@ -10,7 +10,7 @@ If—
 
 &emsp;(2) either of such corporations is a gain corporation,
 
-> income for any recognition period taxable year (to the extent attributable to recognized built-in gains) shall not be offset by any preacquisition loss (other than a preacquisition loss of the gain corporation).
+> income for any recognition period taxable year (to the extent attributable to recognized built-ingains) shall not be offset by any preacquisition loss (other than a preacquisition loss of the gain corporation).
 
 #### (b) Exception where corporations under common control
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
-Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
+Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit\(as defined in section 383(a)(2)) or net capital loss.
 
 #### (e) Ordering rules for net operating losses, etc.
 

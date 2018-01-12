@@ -24,7 +24,7 @@ Each recipient of Federal financial assistance referred to in subsection (a) of 
 
 #### (d) Repayment to Treasury by recipient of unexpended or unused funds
 
-Except as provided in section 13a or 5325(a)(3) <sup>2</sup> of this title, funds paid to a financial assistancerecipient referred to in subsection (a) of this section and not expended or used for the purposes for which paid shall be repaid to the Treasury of the United States through the respective Secretary.
+Except as provided in section 13a or 5325(a)(3) <sup>2</sup> of this title, funds paid to a financial assistance recipient referred to in subsection (a) of this section and not expended or used for the purposes for which paid shall be repaid to the Treasury of the United States through the respective Secretary.
 
 #### (e) Annual report to tribes
 
@@ -52,7 +52,7 @@ Section was formerly classified to section 450c of this title prior to editorial
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: "For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this chapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5."
+<b>1994</b>—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: "For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this chapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information onthe conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5."
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–301 substituted "chapter 75 of title 31" for "the Single Audit Act of 1984 (98 Stat. 2327, 31 U.S.C. 7501 et seq.),".
 

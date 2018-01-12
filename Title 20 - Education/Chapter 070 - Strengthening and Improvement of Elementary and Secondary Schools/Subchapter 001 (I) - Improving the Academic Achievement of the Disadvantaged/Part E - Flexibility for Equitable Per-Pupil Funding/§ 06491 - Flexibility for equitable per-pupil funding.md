@@ -56,7 +56,7 @@ The purpose of the program under this section is to provide local educational ag
 
 &emsp;&emsp;(B) a list of funding sources, including eligible Federal funds, the local educational agency will include in such system;
 
-&emsp;&emsp;(C) a description of the amount and percentage of total local educational agency funding, including State and local education funds and eligible Federal funds, that will be allocated through such system;
+&emsp;&emsp;(C) a description of the amount and percentage of total local educational agencyfunding, including State and local education funds and eligible Federal funds, that will be allocated through such system;
 
 &emsp;&emsp;(D) the per-pupil expenditures (which shall include actual personnel expenditures, including staff salary differentials for years of employment, and actual nonpersonnel expenditures) of State and local education funds for each school served by the agency for the preceding fiscal year;
 
@@ -114,7 +114,7 @@ Each local educational agency with an approved application under subsection (d) 
 
 &emsp;&emsp;(B) less per-pupil funding, including from Federal, State, and local sources, for English learners;
 
-&emsp;(2) make public and report to the Secretary the per-pupil expenditures (including actual personnel expenditures that include staff salary differentials for years of employment, and actual non-personnel expenditures) of State and local education funds and eligible Federal funds for each school served by the agency, disaggregated by each quartile of students attending the school based on student level of poverty and by each major racial or ethnic group in the school, for the preceding fiscal year;
+&emsp;(2) make public and report to the Secretary the per-pupil expenditures (including actualpersonnel expenditures that include staff salary differentials for years of employment, and actual non-personnel expenditures) of State and local education funds and eligible Federal funds for each school served by the agency, disaggregated by each quartile of students attending the school based on student level of poverty and by each major racial or ethnic group in the school, for the preceding fiscal year;
 
 &emsp;(3) make public the total number of students enrolled in each school served by the agency and the number of students enrolled in each such school disaggregated by each of the subgroups of students, as defined in section 6311(c)(2) of this title; and
 

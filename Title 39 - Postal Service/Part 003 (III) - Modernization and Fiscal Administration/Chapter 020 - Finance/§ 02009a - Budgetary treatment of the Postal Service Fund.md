@@ -1,6 +1,6 @@
 ### §2009a. Budgetary treatment of the Postal Service Fund
 
-Notwithstanding any other provision of law, the receipts and disbursements of the Postal Service Fund, including disbursements for administrative expenses incurred in connection with the Fund—
+Notwithstanding any other provision of law, the receipts and disbursements of the PostalService Fund, including disbursements for administrative expenses incurred in connection with the Fund—
 
 &emsp;(1) shall not be included in the totals of—
 

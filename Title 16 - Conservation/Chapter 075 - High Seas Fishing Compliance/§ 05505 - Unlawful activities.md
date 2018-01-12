@@ -24,3 +24,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 (Pub. L. 104–43, title I, §106, Nov. 3, 1995, 109 Stat. 371.)
 
+#### Effective Date
+
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
+

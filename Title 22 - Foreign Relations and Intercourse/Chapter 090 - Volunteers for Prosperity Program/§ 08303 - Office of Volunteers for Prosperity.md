@@ -6,7 +6,7 @@ The VfP Office shall pursue the objectives of the VfP Program described in subse
 
 &emsp;(1) implementing the VfPServe Program to provide eligible skilled professionals with matching grants to offset the travel and living expenses of volunteering abroad with nonprofit organizations;
 
-&emsp;(2) otherwise promoting short- and long-term international volunteer service byskilled American professionals, including connecting such professionals with nonprofit organizations, to achieve such objectives;
+&emsp;(2) otherwise promoting short- and long-term international volunteer service by skilled American professionals, including connecting such professionals with nonprofit organizations, to achieve such objectives;
 
 &emsp;(3) helping nonprofit organizations in the United States recruit and effectively manage additional skilled American professionals for volunteer assignments throughout the developing world;
 
@@ -89,4 +89,8 @@ The VfP Office shall coordinate its efforts with other public and private effort
 The VfP Office shall submit an annual report to Congress on the activities of the VfP Office.
 
 (Pub. L. 111–13, title V, §5103, Apr. 21, 2009, 123 Stat. 1598.)
+
+#### Effective Date
+
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of Title 42, The Public Health and Welfare.
 

@@ -26,7 +26,7 @@ Pub. L. 100–574, §4, Oct. 31, 1988, 102 Stat. 2894, provided that:
 
 "(a)
 
-In General.—This Act and the amendments made by this Act \[enacting this section and sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure\] shall become effective on the earlier of—
+In General.—This Act and the amendments made by this Act \[enacting this section and sections1716B and 1716C of Title 18, Crimes and Criminal Procedure\] shall become effective on the earlier of—
 
 &emsp;"(1) the 366th day after the date of the enactment of this Act \[Oct. 31, 1988\]; or
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title and, for each of fiscal years 2012 through 2015, under subsection (g):
+Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 ofthis title and, for each of fiscal years 2012 through 2015, under subsection (g):
 
 &emsp;(1) for fiscal year 2004, $346,317,000, including—
 
@@ -116,9 +116,11 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;(7) $170,000,000 for fiscal year 2011;
 
-&emsp;(8) $168,000,000 for each of fiscal years 2012 through 2015; and
+&emsp;(8) $168,000,000 for each of fiscal years 2012 through 2015;
 
-&emsp;(9) $166,000,000 for each of fiscal years 2016 and 2017.
+&emsp;(9) $166,000,000 for each of fiscal years 2016 and 2017; and
+
+&emsp;(10) $88,008,219 for the period beginning on October 1, 2017 and ending on March 31, 2018.
 
 (b)
 
@@ -126,7 +128,7 @@ Research Priorities.—(1) The Administrator shall consider the advice and recom
 
 (2) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
 
-(3) At least 3 percent of the amount appropriated under subsection (a) of this section shallbe available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
+(3) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
 
 (c)
 
@@ -234,7 +236,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30,2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §106, Sept. 29, 2017, 131 Stat. 1170.)
 
 Historical and Revision Notes
 
@@ -297,6 +299,8 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words "b
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(10). Pub. L. 115–63 added par. (10).
 
 <b>2016</b>—Subsec. (a)(9). Pub. L. 114–190 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "$124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016."
 

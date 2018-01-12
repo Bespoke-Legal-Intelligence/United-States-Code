@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996, as amended by section 204, with respect to a person if the President determines that the person knowingly, on or afterAugust 10, 2012, purchases, subscribes to, or facilitates the issuance of—
+The President shall impose 5 or more of the sanctions described in section 6(a) of the IranSanctions Act of 1996, as amended by section 204, with respect to a person if the President determines that the person knowingly, on or after August 10, 2012, purchases, subscribes to, or facilitates the issuance of—
 
 &emsp;(1) sovereign debt of the Government of Iran issued on or after August 10, 2012, including governmental bonds; or
 

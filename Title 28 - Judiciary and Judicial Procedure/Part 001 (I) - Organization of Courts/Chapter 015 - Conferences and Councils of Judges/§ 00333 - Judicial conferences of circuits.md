@@ -32,7 +32,7 @@ Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substitu
 
 <b>1978</b>—Pub. L. 95–598 inserted reference to bankruptcy judges.
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaskato be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaska to be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 

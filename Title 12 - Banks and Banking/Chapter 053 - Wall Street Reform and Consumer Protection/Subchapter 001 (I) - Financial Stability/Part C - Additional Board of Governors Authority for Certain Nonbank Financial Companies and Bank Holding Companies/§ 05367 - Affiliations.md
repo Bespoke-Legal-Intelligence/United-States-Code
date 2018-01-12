@@ -10,7 +10,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (A) Board authority
 
-&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined to be financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
+&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined tobe financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
 
 #### (B) Necessary actions
 

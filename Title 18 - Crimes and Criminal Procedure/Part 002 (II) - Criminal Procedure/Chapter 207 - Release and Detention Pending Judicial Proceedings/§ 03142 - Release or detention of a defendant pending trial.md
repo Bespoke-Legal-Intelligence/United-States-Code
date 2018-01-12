@@ -14,13 +14,13 @@ In General.—Upon the appearance before a judicial officer of a person charged 
 
 (b)
 
-Release on Personal Recognizance or Unsecured Appearance Bond.—The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a), unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
+Release on Personal Recognizance or Unsecured Appearance Bond.—The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a),<sup>1</sup> unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
 
 (c)
 
 Release on Conditions.—(1) If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
 
-&emsp;(A) subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a); and
+&emsp;(A) subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a); <sup>1</sup> and
 
 &emsp;(B) subject to the least restrictive further condition, or combination of conditions, that such judicial officer determines will reasonably assure the appearance of the person as required and the safety of any other person and the community, which may include the condition that the person—
 
@@ -50,7 +50,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xiii) return to custody for specified hours following release for employment, schooling, or other limited purposes; and
 
-&emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assurethe safety of any other person and the community.
+&emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
 
 > &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
 
@@ -114,7 +114,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(C) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 
-&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described insubparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
+&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
 
 &emsp;&emsp;(E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or any other dangerous weapon, or involves a failure to register under section 2250 of title 18, United States Code; or
 
@@ -178,6 +178,8 @@ Presumption of Innocence.—Nothing in this section shall be construed as modify
 
 #### References in Text
 
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsecs. (b) and (c)(1)(A), is section 3 of Pub. L. 106–546, which was classified to section 14135a of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40702 of Title 34, Crime Control and Law Enforcement.
+
 The Controlled Substances Act, referred to in subsecs. (e) and (f)(1)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (e) and (f)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
@@ -226,7 +228,7 @@ Subsec. (g)(4). Pub. L. 101–647, §3624, substituted "subsection (c)(1)(B)(xi)
 
 <b>1988</b>—Subsec. (c)(3). Pub. L. 100–690 substituted "the order" for "order".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant tothe provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant to the provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant to the provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant to the provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
 
 Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out "his" after "person on" and "period of".
 
@@ -248,7 +250,7 @@ Subsec. (i). Pub. L. 99–646, §55(a), (c)(9), in introductory provision substi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
+Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note undersection 3001 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment
 
@@ -257,4 +259,6 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

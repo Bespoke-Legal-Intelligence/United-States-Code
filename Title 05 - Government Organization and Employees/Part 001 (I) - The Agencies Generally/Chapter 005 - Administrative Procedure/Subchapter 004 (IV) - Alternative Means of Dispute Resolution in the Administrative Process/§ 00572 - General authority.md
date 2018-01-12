@@ -4,7 +4,7 @@
 
 (b) An agency shall consider not using a dispute resolution proceeding if—
 
-&emsp;(1) a definitive or authoritative resolution of the matter is required for precedential value, and such a proceeding is not likely to be accepted generally as an authoritative precedent;
+&emsp;(1) a definitive or authoritative resolution of the matter is required for precedential value,and such a proceeding is not likely to be accepted generally as an authoritative precedent;
 
 &emsp;(2) the matter involves or may bear upon significant questions of Government policy that require additional procedures before a final resolution may be made, and such a proceeding would not likely serve to develop a recommended policy for the agency;
 

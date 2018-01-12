@@ -10,7 +10,7 @@
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–104 substituted "2000 through 2002" for "1998 and 1999".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–78 and Pub. L. 105–136 amended subsec. (a) identically, substituting "each of fiscal years 1998 and 1999" for "fiscal year 1995, fiscal year 1996, and fiscal year 1997".
+<b>1997</b>—Subsec. (a). Pub. L. 105–78 and Pub. L. 105–136 amended subsec. (a) identically, substituting "each offiscal years 1998 and 1999" for "fiscal year 1995, fiscal year 1996, and fiscal year 1997".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–416 substituted "fiscal year 1995, fiscal year 1996, and fiscal year 1997" for "fiscal year 1993 and fiscal year 1994".
 

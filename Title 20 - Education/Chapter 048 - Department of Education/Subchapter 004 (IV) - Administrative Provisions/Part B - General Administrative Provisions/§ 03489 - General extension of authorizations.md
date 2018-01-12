@@ -36,13 +36,13 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classifiedgenerally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§631 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, asamended. For complete classification of this Act to the Code, see Tables.
+The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, as amended. For complete classification of this Act to the Code, see Tables.
 
 The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§2000 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
@@ -90,7 +90,7 @@ Pub. L. 97–35, title V, §501, Aug. 13, 1981, 95 Stat. 441, provided that: "Th
 
 Pub. L. 97–35, title V, §502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
-"(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
+"(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effectduring each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
 
 "(b) Notwithstanding any authorization of appropriations for fiscal year 1982, 1983, or 1984 contained in any provision of law which is specified in this subtitle (including any authorization of appropriations contained in section 528 of this title \[this section\]), no funds are authorized to be appropriated in excess of the limitations imposed upon appropriations by the provisions of this subtitle.
 

@@ -4,7 +4,7 @@
 
 For purposes of this section, the term "individual retirement account" means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries, but only if the written governing instrument creating the trust meets the following requirements:
 
-&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in <sup>1</sup> section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash,and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
+&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in <sup>1</sup> section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
 
 &emsp;(2) The trustee is a bank (as defined in subsection (n)) or such other person who demonstrates to the satisfaction of the Secretary that the manner in which such other person will administer the trust will be consistent with the requirements of this section.
 
@@ -30,7 +30,7 @@ For purposes of this section, the term "individual retirement annuity" means an 
 
 &emsp;&emsp;(C) any refund of premiums will be applied before the close of the calendar year following the year of the refund toward the payment of future premiums or the purchase of additional benefits.
 
-&emsp;(3) Under regulations prescribed by the Secretary, rules similar to the rules of section 401(a)(9) and the incidental death benefit requirements of section 401(a) shall apply to the distribution of the entire interest of the owner.
+&emsp;(3) Under regulations prescribed by the Secretary, rules similar to the rules of section401(a)(9) and the incidental death benefit requirements of section 401(a) shall apply to the distribution of the entire interest of the owner.
 
 &emsp;(4) The entire interest of the owner is nonforfeitable.
 
@@ -74,7 +74,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 &emsp;&emsp;&emsp;(i) the entire amount received (including money and any other property) is paid into an individual retirement account or individual retirement annuity (other than an endowment contract) for the benefit of such individual not later than the 60th day after the day on which he receives the payment or distribution; or
 
-&emsp;&emsp;&emsp;(ii) the entire amount received (including money and any other property) is paid into an eligible retirement plan for the benefit of such individual not later than the 60th day after the date on which the payment or distribution is received, except that the maximum amount which may be paid into such plan may not exceed the portion of the amount received which isincludible in gross income (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;(ii) the entire amount received (including money and any other property) is paid into an eligible retirement plan for the benefit of such individual not later than the 60th day after the date on which the payment or distribution is received, except that the maximum amount which may be paid into such plan may not exceed the portion of the amount received which is includible in gross income (determined without regard to this paragraph).
 
 > &emsp;&emsp;For purposes of clause (ii), the term "eligible retirement plan" means an eligible retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B).
 
@@ -184,7 +184,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 > &emsp;For purposes of this paragraph, the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
 
-#### (6) Transfer of account incident to divorce
+#### (6) <sup>2</sup> Transfer of account incident to divorce
 
 &emsp;The transfer of an individual's interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
 
@@ -220,7 +220,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (D) Application of section 72
 
-&emsp;&emsp;Notwithstanding section 72, in determining the extent to which a distribution is aqualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
+&emsp;&emsp;Notwithstanding section 72, in determining the extent to which a distribution is a qualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
 
 #### (E) Denial of deduction
 
@@ -344,7 +344,7 @@ The trustee of an individual retirement account and the issuer of an endowment c
 
 #### (j) Increase in maximum limitations for simplified employee pensions
 
-In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this sectionshall be applied by increasing the amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
+In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this section shall be applied by increasing the amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
 
 #### (k) Simplified employee pension defined
 
@@ -432,7 +432,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (B) Exception where more than 25 employees
 
-&emsp;&emsp;This paragraph shall not apply with respect to any year in the case of a simplifiedemployee pension maintained by an employer with more than 25 employees who were eligible to participate (or would have been required to be eligible to participate if a pension was maintained) at any time during the preceding year.
+&emsp;&emsp;This paragraph shall not apply with respect to any year in the case of a simplified employee pension maintained by an employer with more than 25 employees who were eligible to participate (or would have been required to be eligible to participate if a pension was maintained) at any time during the preceding year.
 
 #### (C) Distributions of excess contributions
 
@@ -570,7 +570,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 &emsp;&emsp;&emsp;(iv) a coin issued under the laws of any State, or
 
-&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>2</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
+&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>3</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
 
 > &emsp;if such bullion is in the physical possession of a trustee described under subsection (a) of this section.
 
@@ -652,7 +652,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of distributions from individual retirement plans which was excludable from gross income for such taxable years.
 
-&emsp;&emsp;&emsp;(iv) The aggregate balance of all individual retirement plans of the individual as of the close of the calendar year in which the taxable year begins.
+&emsp;&emsp;&emsp;(iv) The aggregate balance of all individual retirement plans of the individual as ofthe close of the calendar year in which the taxable year begins.
 
 &emsp;&emsp;&emsp;(v) Such other information as the Secretary may prescribe.
 
@@ -804,7 +804,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (7) Use of designated financial institution
 
-&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
+&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely becausethe employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
 
 #### (8) Coordination with maximum limitation under subsection (a)
 
@@ -872,11 +872,21 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (r) Cross references
 
-&emsp;&emsp;<b>(1) For tax on excess contributions in individual retirement accounts or annuities, see section 4963.</b>
+&emsp;&emsp;<b>(1) For tax on excess contributions in individual retirement accounts or annuities, see section 4973.</b>
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub.L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089; Pub. L. 115–97, title I, §11051(b)(3)(G), Dec. 22, 2017, 131 Stat. 2090.)
+
+#### Amendment of Subsection (d)(6)
+
+<i>Pub. L. 115–97, title I, §11051(b)(3)(G), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (d)(6) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (d)(6) reads as follows:</i>
+
+#### <i>(6) Transfer of account incident to divorce</i>
+
+&emsp;<i>The transfer of an individual's interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -889,6 +899,8 @@ Section 7 of the Commodity Exchange Act, referred to in subsec. (m)(3)(B), is cl
 Paragraph (6) or (7) of section 101 of the Federal Credit Union Act, referred to in subsec. (n)(2), is classified to section 1752(6), (7) of Title 12, Banks and Banking.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(6). Pub. L. 115–97 substituted "clause (i) of section 121(d)(3)(C)" for "subparagraph (A) of section 71(b)(2)".
 
 <b>2015</b>—Subsec. (d)(8)(F). Pub. L. 114–113, §112(a), struck out subpar. (F). Text read as follows: "This paragraph shall not apply to distributions made in taxable years beginning after December 31, 2014."
 
@@ -914,7 +926,7 @@ Subsec. (d)(9). Pub. L. 109–432 added par. (9).
 
 Subsec. (n)(2). Pub. L. 108–311, §408(a)(13), substituted "paragraph (6) or (7) of section 101" for "section 101(6)".
 
-Subsec. (p)(6)(A)(i). Pub. L. 108–311, §404(d), inserted at end "For purposes of the preceding sentence,amounts described in section 6051(a)(3) shall be determined without regard to section 3401(a)(3)."
+Subsec. (p)(6)(A)(i). Pub. L. 108–311, §404(d), inserted at end "For purposes of the preceding sentence, amounts described in section 6051(a)(3) shall be determined without regard to section 3401(a)(3)."
 
 <b>2002</b>—Subsec. (k)(2)(C). Pub. L. 107–147, §411(j)(1)(A), substituted "$450" for "$300".
 
@@ -1268,6 +1280,10 @@ Subsec. (d)(4). Pub. L. 94–455, §1501(b)(5), as amended by Pub. L. 95–600, 
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §112(b), Dec. 18, 2015, 129 Stat. 3047, provided that: "The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2014."
@@ -1382,7 +1398,7 @@ Amendment by section 1427(b)(3) of Pub. L. 104–188 applicable to taxable years
 
 Amendment by section 1431(c)(1)(B) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendment to be treated as having been in effect for years beginning in 1996, see section 1431(d)(1) of Pub. L. 104–188, set out as a note under section 414 of this title.
 
-Pub. L. 104–188, title I, §1455(e), Aug. 20, 1996, 110 Stat. 1818, provided that: "The amendments made by this section \[amending this section and sections 6047, 6652,6693, and 6724 of this title\] shall apply to returns, reports, and other statements the due date for which (determined without regard to extensions) is after December 31, 1996."
+Pub. L. 104–188, title I, §1455(e), Aug. 20, 1996, 110 Stat. 1818, provided that: "The amendments made by this section \[amending this section and sections 6047, 6652, 6693, and 6724 of this title\] shall apply to returns, reports, and other statements the due date for which (determined without regard to extensions) is after December 31, 1996."
 
 #### Effective Date of 1994 Amendment
 
@@ -1446,13 +1462,13 @@ Amendment by section 713 of Pub. L. 98–369 effective as if included in the pro
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981,Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1982 Amendment
 
 Amendment by sections 237 and 238 of Pub. L. 97–248 applicable to years beginning after Dec. 31, 1983, see section 241 of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title.
 
-Pub. L. 97–248, title II, §243(c), Sept. 3, 1982, 96 Stat. 523, as amended by Pub. L. 98–369, div. A, title VII,§713(g)(1), July 18, 1984, 98 Stat. 960, provided that: "The amendments made by this section \[amending this section and sections 219 and 409 of this title\] shall apply with respect to individuals dying after December 31, 1983."
+Pub. L. 97–248, title II, §243(c), Sept. 3, 1982, 96 Stat. 523, as amended by Pub. L. 98–369, div. A, title VII, §713(g)(1), July 18, 1984, 98 Stat. 960, provided that: "The amendments made by this section \[amending this section and sections 219 and 409 of this title\] shall apply with respect to individuals dying after December 31, 1983."
 
 Pub. L. 97–248, title III, §335(b), Sept. 3, 1982, 96 Stat. 628, provided that: "The amendments made by subsection (a) \[amending this section and section 409 of this title\] shall apply to distributions made after December 31, 1982, in taxable years ending after such date."
 
@@ -1516,7 +1532,7 @@ Transfer of amounts attributable to airline payment amount following rollover to
 
 &emsp;"(3)
 
-Extension of time to file claim for refund.—A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation under section 6511(a) of such Code (or, if later, April 15, 2015).
+Extension of time to file claim for refund.—A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation undersection 6511(a) of such Code (or, if later, April 15, 2015).
 
 &emsp;"(4)
 
@@ -1616,11 +1632,11 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Contributions for Taxable Years Beginning Before January 1, 1978
 
@@ -1632,5 +1648,7 @@ Pub. L. 95–600, title I, §157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended 
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See Amendment of Subsection (d)(6) note below.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (3) Enforcement by appropriate State supervisor
 
-&emsp;Any appropriate State supervisor of a private deposit insurer, and any appropriateState supervisor of a depository institution which receives deposits that are insured by a private deposit insurer, may examine and enforce compliance with this subsection under the applicable regulatory authority of such supervisor.
+&emsp;Any appropriate State supervisor of a private deposit insurer, and any appropriate State supervisor of a depository institution which receives deposits that are insured by a private deposit insurer, may examine and enforce compliance with this subsection under the applicable regulatory authority of such supervisor.
 
 #### (b) Disclosure required
 
@@ -60,7 +60,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (B) New depositors obtained through a conversion or merger
 
-&emsp;&emsp;With respect to a depositor at a federally insured depository institution that converts to, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
+&emsp;&emsp;With respect to a depositor at a federally insured depository institution that convertsto, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
 
 &emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
 
@@ -184,7 +184,7 @@ The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26
 
 Subsec. (e)(5). Pub. L. 111–203, §1090(2)(C)(ii), added par. (5).
 
-Subsec. (f)(1). Pub. L. 111–203, §1090(2)(D)(i), added par. (1) and struck out former par. (1). Prior to amendment,text read as follows: "Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission."
+Subsec. (f)(1). Pub. L. 111–203, §1090(2)(D)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Compliance with the requirements of subsections (b), (c) and (e), and any regulation prescribed or order issued under any such subsection, shall be enforced under the Federal Trade Commission Act by the Federal Trade Commission."
 
 Subsec. (f)(2)(C). Pub. L. 111–203, §1090(2)(D)(ii), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "If the Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisor may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this section that is alleged in that complaint."
 

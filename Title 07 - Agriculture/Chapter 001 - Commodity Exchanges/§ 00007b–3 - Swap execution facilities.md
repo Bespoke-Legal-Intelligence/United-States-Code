@@ -144,7 +144,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 &emsp;&emsp;&emsp;(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this chapter; and
 
-&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission." <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) ofthis title open to inspection and examination by the Securities and Exchange Commission." <sup>1</sup>
 
 #### (B) Requirements
 
@@ -248,7 +248,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 #### (g) Exemptions
 
-The Commission may exempt, conditionally or unconditionally, a swap execution facility from registration under this section if the Commission finds that the facility is subject to comparable, comprehensive supervision and regulation on a consolidated basis by the Securities and Exchange Commission, a prudential regulator, or the appropriate governmental authorities in the home country of the facility.
+The Commission may exempt, conditionally or unconditionally, a swap execution facility fromregistration under this section if the Commission finds that the facility is subject to comparable, comprehensive supervision and regulation on a consolidated basis by the Securities and Exchange Commission, a prudential regulator, or the appropriate governmental authorities in the home country of the facility.
 
 #### (h) Rules
 

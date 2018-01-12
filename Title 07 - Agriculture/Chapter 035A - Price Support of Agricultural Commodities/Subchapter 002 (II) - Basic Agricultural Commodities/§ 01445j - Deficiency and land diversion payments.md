@@ -142,7 +142,7 @@ Pub. L. 100–203, title I, §1110, Dec. 22, 1987, 101 Stat. 1330–6, provided 
 
 #### Effective and Termination Dates of 1985 Amendment
 
-That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section waseffective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
+That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section was effective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
 
 #### Effective and Termination Dates
 

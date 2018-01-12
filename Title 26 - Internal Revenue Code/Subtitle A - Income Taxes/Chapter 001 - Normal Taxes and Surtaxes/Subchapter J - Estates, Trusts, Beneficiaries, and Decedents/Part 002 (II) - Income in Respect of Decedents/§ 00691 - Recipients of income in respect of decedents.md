@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), be considered as an item of gross income in respect of the decedent; and
 
-&emsp;&emsp;(B) such obligation shall, for purposes of paragraphs (2) and (3), be considered a right to receive an item of gross income in respect of the decedent, but the amount includible in gross income under paragraph (2) shall be reduced by an amount equal to the basis of the obligation in the hands of the decedent (determined under section 453B).
+&emsp;&emsp;(B) such obligation shall, for purposes of paragraphs (2) and (3), be considered a right to receive an item of gross income in respectof the decedent, but the amount includible in gross income under paragraph (2) shall be reduced by an amount equal to the basis of the obligation in the hands of the decedent (determined under section 453B).
 
 #### (5) Other rules relating to installment obligations
 
@@ -54,7 +54,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (1) Expenses, interest, and taxes
 
-&emsp;In the case of a deduction specified in sections 162, 163, 164, or 212 and a credit specified in section 27, in the taxable year when paid—
+&emsp;In the case of a deduction specified in section 162, 163, 164, or 212 and a credit specified in section 27, in the taxable year when paid—
 
 &emsp;&emsp;(A) to the estate of the decedent; except that
 
@@ -92,7 +92,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (4) Coordination with capital gain provisions
 
-&emsp;For purposes of sections 1(h), 1201, 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
+&emsp;For purposes of sections 1(h), 1202, and 1211, the amount taken into account with respect toany item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 
 #### (d) Amounts received by surviving annuitant under joint and survivor annuity contract
 
@@ -102,7 +102,9 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and
 
-&emsp;&emsp;(B) during the surviving annuitant's life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
+&emsp;&emsp;(B) during the surviving annuitant's life expectancy period,
+
+> &emsp;shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
 
 #### (2) Net value for estate tax purposes
 
@@ -116,7 +118,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) The term "life expectancy period" means the period beginning with the firstday of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
+&emsp;&emsp;(A) The term "life expectancy period" means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
 &emsp;&emsp;(B) The surviving annuitant's expected return under the contract shall be computed, as of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
@@ -124,9 +126,11 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 113–295, div. A, title II, §221(a)(66), Dec. 19, 2014, 128 Stat. 4048.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 113–295, div. A, title II, §221(a)(66), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §13001(b)(2)(F), Dec. 22, 2017, 131 Stat. 2096.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(4). Pub. L. 115–97 struck out "1201," after "1(h),".
 
 <b>2014</b>—Subsec. (d)(1)(A). Pub. L. 113–295 struck out "after December 31, 1953, and" after "annuitant died".
 
@@ -194,6 +198,10 @@ Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) 
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -246,7 +254,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
-For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
+For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, setout as an Effective Date note under section 453 of this title.
 
 Pub. L. 96–471, §6(b), Oct. 19, 1980, 94 Stat. 2256, provided: "The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\]."
 
@@ -274,7 +282,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years ending after Dec. 31, 
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealedby Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Savings Provision
 

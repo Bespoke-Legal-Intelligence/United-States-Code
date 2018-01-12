@@ -18,7 +18,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(8) shall demonstrate an implementation plan to ensure the continued leadership of parents in the on-going planning, implementation, and evaluation of such community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect.
 
-(Pub. L. 93–247, title II, §206, formerly §207, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3086; amended Pub. L. 108–36, title I, §127, June 25, 2003, 117 Stat. 817; renumbered §206 and amended Pub. L. 111–320, title I, §§137, 141, Dec. 20, 2010, 124 Stat. 3481, 3482.)
+(Pub. L. 93–247, title II, §206, formerly §207, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996,110 Stat. 3086; amended Pub. L. 108–36, title I, §127, June 25, 2003, 117 Stat. 817; renumbered §206 and amended Pub. L. 111–320, title I, §§137, 141, Dec. 20, 2010, 124 Stat. 3481, 3482.)
 
 #### Prior Provisions
 

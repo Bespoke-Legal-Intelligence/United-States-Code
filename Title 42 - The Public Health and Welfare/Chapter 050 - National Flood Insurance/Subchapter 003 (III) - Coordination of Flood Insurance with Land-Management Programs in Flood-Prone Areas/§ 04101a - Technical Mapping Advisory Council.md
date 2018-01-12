@@ -82,7 +82,7 @@ The Council shall—
 
 &emsp;&emsp;(A) a description of the activities of the Council;
 
-&emsp;&emsp;(B) an evaluation of the status and performance of flood insurance rate maps andmapping activities to revise and update flood insurance rate maps, as required under section 4101b of this title; and
+&emsp;&emsp;(B) an evaluation of the status and performance of flood insurance rate maps and mapping activities to revise and update flood insurance rate maps, as required under section 4101b of this title; and
 
 &emsp;&emsp;(C) a summary of recommendations made by the Council to the Administrator.
 

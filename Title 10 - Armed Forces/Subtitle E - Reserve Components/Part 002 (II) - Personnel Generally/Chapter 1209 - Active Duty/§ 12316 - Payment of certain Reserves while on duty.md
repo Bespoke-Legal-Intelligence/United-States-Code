@@ -36,7 +36,7 @@ Sept. 27, 1950, ch. 1053, §2, 64 Stat. 1067; July 12, 1955, ch. 337, §§2, 4, 
 
 In subsections (a) and (b), the words "retirement pay" are omitted as covered by the words "retired pay".
 
-In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding the provisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
+In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding theprovisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
 
 Subsection (a)(1) is substituted for clause (2) of 10 App.:369b, and clause (2) of 34 App.:853e–1.
 
@@ -52,5 +52,5 @@ In subsection (b), the word "extended", the next to the last sentence of 10 App.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

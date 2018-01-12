@@ -88,11 +88,11 @@ In this section:
 
 #### (B) Boundary adjustment
 
-&emsp;&emsp;On acquisition of land or an interest in land under subparagraph (A), the boundary of the historical park shall be adjusted to reflect the acquisition.
+&emsp;&emsp;On acquisition of land or an interest in land under subparagraph (A), the boundaryof the historical park shall be adjusted to reflect the acquisition.
 
 #### (3) Interpretive tours
 
-&emsp;The Secretary may provide interpretive tours to sites and resources in the State thatare located outside the boundary of the historical park and associated with the purposes for which the historical park is established, including—
+&emsp;The Secretary may provide interpretive tours to sites and resources in the State that are located outside the boundary of the historical park and associated with the purposes for which the historical park is established, including—
 
 &emsp;&emsp;(A) Fort Casimir;
 

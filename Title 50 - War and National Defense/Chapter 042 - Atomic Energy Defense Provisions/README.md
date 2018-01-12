@@ -49,6 +49,7 @@
 | [2538a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538a%20-%20Plutonium%20pit%20production%20capacity.md) | Plutonium pit production capacity. |
 | [2538b.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538b%20-%20Stockpile%20responsiveness%20program.md) | Stockpile responsiveness program. |
 | [2538c.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538c%20-%20Long-term%20plan%20for%20meeting%20national%20security%20requirements%20for%20unencumbered%20uranium.md) | Long-term plan for meeting national security requirements for unencumbered uranium. |
+| [2538d.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538d%20-%20Incorporation%20of%20integrated%20surety%20architecture.md) | Incorporation of integrated surety architecture. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,9 +69,7 @@
 
 |  |  |
 | :--- | ---: |
-| 2561, 2562. Repealed. |  |
-| [2563\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002563%20-%20Annual%20report%20on%20status%20of%20Nuclear%20Materials%20Protection%2C%20Control%2C%20and%20Accounting%20Program.md) | Annual report on status of Nuclear Materials Protection, Control, and Accounting Program. |
-| [2564\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002564%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28d%29%282%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201075.md) | Repealed. |
+| 2561 to 2564. Repealed. |  |
 | [2565\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002565%20-%20Authority%20to%20conduct%20program%20relating%20to%20fissile%20materials.md) | Authority to conduct program relating to fissile materials. |
 | [2566\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002566%20-%20Disposition%20of%20weapons-usable%20plutonium%20at%20Savannah%20River%20Site.md) | Disposition of weapons-usable plutonium at Savannah River Site. |
 | [2567\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002567%20-%20Disposition%20of%20surplus%20defense%20plutonium%20at%20Savannah%20River%20Site%2C%20Aiken%2C%20South%20Carolina.md) | Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina. |
@@ -82,6 +81,8 @@
 | [2573\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002573%20-%20International%20agreements%20on%20information%20on%20radioactive%20materials.md) | International agreements on information on radioactive materials. |
 | [2574\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002574%20-%20Enhancing%20nuclear%20forensics%20capabilities.md) | Enhancing nuclear forensics capabilities. |
 | [2575\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002575%20-%20Defense%20nuclear%20nonproliferation%20management%20plan.md) | Defense nuclear nonproliferation management plan. |
+| [2576\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002576%20-%20Information%20relating%20to%20certain%20defense%20nuclear%20nonproliferation%20programs.md) | Information relating to certain defense nuclear nonproliferation programs. |
+| [2577\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002577%20-%20Annual%20Selected%20Acquisition%20Reports%20on%20certain%20hardware%20relating%20to%20defense%20nuclear%20nonproliferation.md) | Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,8 +153,7 @@
 | [2655\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002655%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20D%2C%20title%20XLV%2C%20%C2%A74504%28c%29%2C%20formerly%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28c%29%2C%20Dec.%2028%2C%202001%2C%20115%E2%80%A6.md) | Repealed. |
 | [2656\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002656%20-%20Notice%20to%20congressional%20committees%20of%20certain%20security%20and%20counterintelligence%20failures%20within%20atomic%20energy%20defense%20programs.md) | Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs. |
 | [2657\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002657%20-%20Annual%20report%20and%20certification%20on%20status%20of%20security%20of%20atomic%20energy%20defense%20facilities.md) | Annual report and certification on status of security of atomic energy defense facilities. |
-| 2658, 2659. Repealed. |  |
-| [2660\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002660%20-%20Design%20and%20use%20of%20prototypes%20of%20nuclear%20weapons%20for%20intelligence%20purposes.md) | Design and use of prototypes of nuclear weapons for intelligence purposes. |
+| 2658 to 2660. Repealed. |  |
 | [2661\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002661%20-%20Protection%20of%20certain%20nuclear%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain nuclear facilities and assets from unmanned aircraft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -228,6 +228,8 @@
 | [2752\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002752%20-%20Funds%20available%20for%20all%20national%20security%20programs%20of%20the%20Department%20of%20Energy.md) | Funds available for all national security programs of the Department of Energy. |
 | [2753\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002753%20-%20Notification%20of%20cost%20overruns%20for%20certain%20Department%20of%20Energy%20projects.md) | Notification of cost overruns for certain Department of Energy projects. |
 | [2754\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002754%20-%20Life-cycle%20cost%20estimates%20of%20certain%20atomic%20energy%20defense%20capital%20assets.md) | Life-cycle cost estimates of certain atomic energy defense capital assets. |
+| [2755\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002755%20-%20Matters%20relating%20to%20critical%20decisions.md) | Matters relating to critical decisions. |
+| [2756\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002756%20-%20Unfunded%20priorities%20of%20the%20National%20Nuclear%20Security%20Administration.md) | Unfunded priorities of the National Nuclear Security Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

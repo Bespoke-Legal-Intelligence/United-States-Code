@@ -38,5 +38,5 @@ Section is from the Congressional Operations Appropriations Act, 2000, which is 
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–7, div. H, title I, §110(c), Feb. 20, 2003, 117 Stat. 355, provided that: "The amendments made by this section \[amending this section and section 288k of this title\] shall take effect as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act \[Pub. L. 107–273\]."
+Pub. L. 108–7, div. H, title I, §110(c), Feb. 20, 2003, 117 Stat. 355, provided that: "The amendments made bythis section \[amending this section and section 288k of this title\] shall take effect as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act \[Pub. L. 107–273\]."
 

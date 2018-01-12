@@ -70,7 +70,7 @@
 
 #### (B) Allocation of exclusion
 
-&emsp;&emsp;In the case of any joint return, the amount of gain taken into account under subsection (a) shall be allocated equally between thespouses for purposes of applying this subsection to subsequent taxable years.
+&emsp;&emsp;In the case of any joint return, the amount of gain taken into account under subsection (a) shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
 
 #### (C) Marital status
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (i) Waiver of active business requirement
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
+&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treatedas meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
 
 #### (ii) Specialized small business investment company
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (8) Computer software royalties
 
-&emsp;For purposes of paragraph (1), rights to computer software which produces active businesscomputer software royalties (within the meaning of section 543(d)(1)) shall be treated as an asset used in the active conduct of a trade or business.
+&emsp;For purposes of paragraph (1), rights to computer software which produces active business computer software royalties (within the meaning of section 543(d)(1)) shall be treated as an asset used in the active conduct of a trade or business.
 
 #### (f) Stock acquired on conversion of other stock
 
@@ -264,7 +264,7 @@ If any stock in a corporation is acquired solely through the conversion of other
 
 &emsp;&emsp;(A) such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for more than 5 years, and
 
-&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity which was held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
+&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity whichwas held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
 
 #### (3) Limitation based on interest originally held by taxpayer
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (D) Control test
 
-&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, thecorporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
+&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
 
 #### (i) Basis rules
 
@@ -354,7 +354,7 @@ For purposes of this section—
 
 #### (2) Offsetting short position
 
-&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting short position with respect to any qualified small business stock if—
+&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting shortposition with respect to any qualified small business stock if—
 
 &emsp;&emsp;(A) the taxpayer has made a short sale of substantially identical property,
 
@@ -446,7 +446,7 @@ Pub. L. 112–240, title III, §327(d), Jan. 2, 2013, 126 Stat. 2334, provided t
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §753(d), Dec. 17, 2010, 124 Stat. 3321, provided that: "The amendments made by this section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2009."
+Pub. L. 111–312, title VII, §753(d), Dec. 17, 2010, 124 Stat. 3321, provided that: "The amendments made bythis section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2009."
 
 Pub. L. 111–312, title VII, §760(b), Dec. 17, 2010, 124 Stat. 3323, provided that: "The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2010."
 
@@ -471,4 +471,28 @@ Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of P
 #### Effective Date
 
 Section applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 53 of this title.
+
+#### Special Rule for Pass-Through Entities
+
+Pub. L. 96–222, title I, §104(a)(2)(C), Apr. 1, 1980, 94 Stat. 215, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+"(i)
+
+In general.—In applying sections \[former\] 1201(c)(2)(A)(ii) and 1202(c)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any pass-through entity, the determination of the period for which gain or loss is properly taken into account shall be made at the entity level.
+
+"(ii)
+
+Pass-through entity defined.—For purposes of clause (i), the term 'pass-through entity' means—
+
+&emsp;"(I) a regulated investment company,
+
+&emsp;"(II) a real estate investment trust,
+
+&emsp;"(III) an electing small business corporation,
+
+&emsp;"(IV) a partnership,
+
+&emsp;"(V) an estate or trust, and
+
+&emsp;"(VI) a common trust fund."
 

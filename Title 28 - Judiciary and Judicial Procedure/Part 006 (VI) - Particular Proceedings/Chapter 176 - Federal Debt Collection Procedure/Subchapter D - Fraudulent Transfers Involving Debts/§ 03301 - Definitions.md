@@ -74,7 +74,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a managing agent of the debtor.
 
-&emsp;(4) <sup>2</sup> "Lien" means a charge against or an interest in property to secure payment of a debtand includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
+&emsp;(4) <sup>2</sup> "Lien" means a charge against or an interest in property to secure payment of a debt and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
 
 &emsp;(5) <sup>3</sup> "Relative" means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
 
@@ -83,6 +83,10 @@ As used in this subchapter:
 &emsp;(7) <sup>5</sup> "Valid lien" means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4959.)
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

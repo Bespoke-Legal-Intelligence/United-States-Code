@@ -14,7 +14,7 @@ Regulations.—Under regulations of the Secretary governing the payment for tran
 
 &emsp;(2)
 
-Extensions of credit to governmental entities.—Such a carrier (including a motor carrier being used by a household goods freight forwarder) may extend credit for transporting property for the United States Government, a State, a territory or possession of theUnited States, or a political subdivision of any of them.
+Extensions of credit to governmental entities.—Such a carrier (including a motor carrier being used by a household goods freight forwarder) may extend credit for transporting property for the United States Government, a State, a territory or possession of the United States, or a political subdivision of any of them.
 
 &emsp;(3)
 

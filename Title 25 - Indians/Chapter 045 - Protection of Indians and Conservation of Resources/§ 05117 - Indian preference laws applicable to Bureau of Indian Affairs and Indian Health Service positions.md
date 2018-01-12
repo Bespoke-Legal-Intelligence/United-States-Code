@@ -14,7 +14,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 &emsp;(C) because the employee's working relationship with a tribe has so deteriorated that the employee cannot provide effective service for such tribe or the Federal Government.
 
-(2) The authority to make any determination under subparagraph (A), (B), or (C) of paragraph (1) is vested in the Secretary of the Interior with respect to the Bureau of Indian Affairs and the Secretary of Health and Human Services with respect to the Indian Health Service, and, notwithstanding any other provision of law, the Secretary involved may not delegate such authority to any individual other than a Deputy Secretary or Assistant Secretary of the respective department.
+(2) The authority to make any determination under subparagraph (A), (B), or (C) of paragraph\(1) is vested in the Secretary of the Interior with respect to the Bureau of Indian Affairs and the Secretary of Health and Human Services with respect to the Indian Health Service, and, notwithstanding any other provision of law, the Secretary involved may not delegate such authority to any individual other than a Deputy Secretary or Assistant Secretary of the respective department.
 
 #### (c) Waiver of applicability in personnel actions; scope, procedures, etc.
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;(3) The term "Bureau of Indian Affairs" means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
+(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
 
 #### References in Text
 

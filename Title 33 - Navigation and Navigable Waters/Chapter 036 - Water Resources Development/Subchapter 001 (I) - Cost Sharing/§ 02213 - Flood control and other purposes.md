@@ -164,7 +164,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;&emsp;&emsp;(ii) the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located; and
 
-&emsp;&emsp;(B) may consider additional criteria relating to the non-Federal interest's financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
+&emsp;&emsp;(B) may consider additional criteria relating to the non-Federal interest's financial ability to carry out its cost-sharing responsibilities, to the extent that the applicationof such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
 
 #### (4) Non-Federal share
 

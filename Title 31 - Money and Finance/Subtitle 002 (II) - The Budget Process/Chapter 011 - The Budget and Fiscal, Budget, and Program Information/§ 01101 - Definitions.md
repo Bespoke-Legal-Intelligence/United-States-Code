@@ -44,7 +44,7 @@ Pub. L. 111–352, §1(a), Jan. 4, 2011, 124 Stat. 3866, provided that: "This Ac
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–291, title IV, §401, Dec. 8, 2010, 124 Stat. 3097, provided that: "This title \[amending section 1105 of this title, enacting provisions set out as a note under section 1105 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Crow Tribe Water Rights Settlement Act of 2010'."
+Pub. L. 111–291, title IV, §401, Dec. 8, 2010, 124 Stat. 3097, provided that: "This title \[amending section 1105of this title, enacting provisions set out as a note under section 1105 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Crow Tribe Water Rights Settlement Act of 2010'."
 
 #### Short Title of 1993 Amendment
 
@@ -74,7 +74,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(2) Federal managers are seriously disadvantaged in their efforts to improve program efficiency and effectiveness, because of insufficient articulation of program goals and inadequate information on program performance; and
 
-&emsp;"(3) congressional policymaking, spending decisions and program oversight are seriously handicapped byinsufficient attention to program performance and results.
+&emsp;"(3) congressional policymaking, spending decisions and program oversight are seriously handicapped by insufficient attention to program performance and results.
 
 "(b)
 

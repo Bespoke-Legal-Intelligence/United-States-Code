@@ -122,9 +122,9 @@
 
 &emsp;&emsp;&emsp;(iii) The actuarial basis for determining the amount under clause (i) and the proportions described in clause (ii) and such additional information as the Secretary may require to verify such actuarial bases and the projected number of enrollees in each MA local area.
 
-&emsp;&emsp;&emsp;(iv) A description of deductibles, coinsurance, and copayments applicable under the plan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(4)(A).
+&emsp;&emsp;&emsp;(iv) A description of deductibles, coinsurance, and copayments applicable under theplan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(4)(A).
 
-&emsp;&emsp;&emsp;(v) With respect to qualified prescription drug coverage, the information requiredunder section 1395w–104 of this title, as incorporated under section 1395w–111(b)(2) of this title, with respect to such coverage.
+&emsp;&emsp;&emsp;(v) With respect to qualified prescription drug coverage, the information required under section 1395w–104 of this title, as incorporated under section 1395w–111(b)(2) of this title, with respect to such coverage.
 
 > &emsp;&emsp;In the case of a specialized MA plan for special needs individuals, the information described in this subparagraph is such information as the Secretary shall specify.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the product of the old phase-in proportion for the year under clause (iv) and 75 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the product of the new phase-in proportion for the year under clause (iv) and the final applicable rebate percentage under clause (v).
+&emsp;&emsp;&emsp;&emsp;(II) the product of the new phase-in proportion for the year under clause (iv)and the final applicable rebate percentage under clause (v).
 
 #### (iv) Old and new phase-in proportions
 
@@ -260,7 +260,7 @@
 
 #### (3) Computation of average per capita monthly savings for local plans
 
-&emsp;For purposes of paragraph (1)(C)(i), the average per capita monthly savings referred to in such paragraph for an MA local plan and year is computed as follows:
+&emsp;For purposes of paragraph (1)(C)(i), the average per capita monthly savings referred to insuch paragraph for an MA local plan and year is computed as follows:
 
 #### (A) Determination of statewide average risk adjustment for local plans
 
@@ -334,7 +334,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (1) In general
 
-&emsp;Each Medicare+Choice organization shall permit the payment of Medicare+Choice monthly basic, prescription drug, and supplemental beneficiary premiums on a monthly basis, may terminate election of individuals for a Medicare+Choice plan for failure to make premium payments only in accordance with section 1395w–21(g)(3)(B)(i) of this title, and may not provide for cash or other monetary rebates as an inducement for enrollment or otherwise.
+&emsp;Each Medicare+Choice organization shall permit the payment of Medicare+Choice monthly basic, prescription drug, and supplemental beneficiary premiums on a monthly basis, may terminate election of individuals for a Medicare+Choice plan for failure to make premium payments only in accordance with section 1395w–21(g)(3)(B)(i) of this title, andmay not provide for cash or other monetary rebates as an inducement for enrollment or otherwise.
 
 #### (2) Beneficiary's option of payment through withholding from social security payment or use of electronic funds transfer mechanism
 

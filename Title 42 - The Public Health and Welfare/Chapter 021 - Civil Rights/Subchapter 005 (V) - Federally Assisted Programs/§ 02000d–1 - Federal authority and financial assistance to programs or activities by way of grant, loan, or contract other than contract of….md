@@ -58,7 +58,7 @@ Coordination of Nondiscrimination Provisions
 
 1–206. The Attorney General shall establish guidelines and standards for the development of consistent and effective recordkeeping and reporting requirements by Executive agencies; for the sharing and exchange by agencies of compliance records, findings, and supporting documentation; for the development of comprehensive employee training programs; for the development of effective information programs; and for the development of cooperative programs with State and local agencies, including sharing of information, deferring of enforcement activities, and providing technical assistance.
 
-1–207. The Attorney General shall initiate cooperative programs between and among agencies, including the development of sample memoranda of understanding, designed to improve the coordination of the laws covered by this Order.
+1–207. The Attorney General shall initiate cooperative programs between and among agencies, including thedevelopment of sample memoranda of understanding, designed to improve the coordination of the laws covered by this Order.
 
 #### 1–3.
 

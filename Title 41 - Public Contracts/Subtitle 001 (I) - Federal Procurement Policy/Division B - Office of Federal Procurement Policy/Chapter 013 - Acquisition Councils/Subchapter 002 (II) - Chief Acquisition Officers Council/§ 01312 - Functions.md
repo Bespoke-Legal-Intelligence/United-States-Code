@@ -12,7 +12,7 @@ Functions.—The Council shall perform functions that include the following:
 
 &emsp;(2) Share experiences, ideas, best practices, and innovative approaches related to Federal acquisition.
 
-&emsp;(3) Assist the Administrator in the identification, development, and coordination of multiagency projects and other innovative initiatives to improve Federal acquisition.
+&emsp;(3) Assist the Administrator in the identification, development, and coordination ofmultiagency projects and other innovative initiatives to improve Federal acquisition.
 
 &emsp;(4) Promote effective business practices that ensure the timely delivery of best value products to the Federal Government and achieve appropriate public policy objectives.
 

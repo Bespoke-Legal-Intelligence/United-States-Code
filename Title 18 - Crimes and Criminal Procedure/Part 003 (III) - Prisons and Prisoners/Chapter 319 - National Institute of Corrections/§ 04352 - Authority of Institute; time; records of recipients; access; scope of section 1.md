@@ -6,7 +6,7 @@
 
 &emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
 
-&emsp;(3) to assist and serve in a consulting capacity to Federal, State, tribal, and local courts,departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
+&emsp;(3) to assist and serve in a consulting capacity to Federal, State, tribal, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
 
 &emsp;(4) to encourage and assist Federal, State, tribal, and local government programs and services, and programs and services of other public and private agencies, institutions, and organizations in their efforts to develop and implement improved corrections programs;
 
@@ -64,23 +64,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### National Training Center for Prison Drug Rehabilitation Program Personnel
 
-Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, provided that:
-
-"(a)
-
-In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the 'center') for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
-
-"(b)
-
-Design and Construction of Facilities.—The Director of the National Institute of Corrections shall design and construct facilities for the center.
-
-"(c)
-
-Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated with respect to the National Institute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
-
-&emsp;"(1) for establishment and operation of the center, for curriculum development for the center, and for salaries and expenses of personnel at the center, not more than $4,000,000 for each of fiscal years 1989, 1990, and 1991; and
-
-&emsp;"(2) for design and construction of facilities for the center, not more than $10,000,000 for fiscal years 1989, 1990, and 1991."
+Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, which provided that the Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, was to establish and operate, at any suitable location, a national training center for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals, was editorially reclassified as section 10426 of Title 34, Crime Control and Law Enforcement.
 
 <i><sup>1</sup></i><i> Section catchline editorially supplied.</i>
 

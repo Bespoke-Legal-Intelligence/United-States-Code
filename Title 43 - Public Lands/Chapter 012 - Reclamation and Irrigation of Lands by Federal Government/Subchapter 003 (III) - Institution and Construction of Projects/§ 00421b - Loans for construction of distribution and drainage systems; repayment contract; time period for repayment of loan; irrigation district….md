@@ -10,7 +10,7 @@ Act of June 3, 1960, referred to in text, is Pub. L. 86–488, June 3, 1960, 74 
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–487 substituted provisions relating to financial assistance in the construction of local distribution and drainage systems, for provisions relating to financial assistance in the construction of local irrigation distribution systems, and inserted provisions relating to loans for a distribution and drainage system receiving water from the San Luis unit, Central Valley project, and provisions setting forth a specified time period for repayment of loans.
+<b>1972</b>—Pub. L. 92–487 substituted provisions relating to financial assistance in the construction of local distribution and drainage systems, for provisions relating to financial assistance in the construction of local irrigation distribution systems, and inserted provisions relating to loans for a distribution and drainage system receiving water from the San Luis unit, Central Valleyproject, and provisions setting forth a specified time period for repayment of loans.
 
 #### Sale of Bureau of Reclamation Loans
 

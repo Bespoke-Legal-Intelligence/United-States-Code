@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 #### (1) Economic loss
 
-&emsp;The term "economic loss" means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+&emsp;The term "economic loss" means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burialcosts, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
 #### (2) Harm
 
@@ -18,9 +18,9 @@ For purposes of this chapter:
 
 &emsp;The term "nonprofit organization" means—
 
-&emsp;&emsp;(A) any organization which is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note); or
+&emsp;&emsp;(A) any organization which is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note); <sup>1</sup> or
 
-&emsp;&emsp;(B) any not-for-profit organization which is organized and conducted for public benefit and operated primarily for charitable, civic, educational, religious, welfare, or health purposes and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note).
+&emsp;&emsp;(B) any not-for-profit organization which is organized and conducted for public benefit and operated primarily for charitable, civic, educational, religious, welfare, or health purposes and which does not practice any action which constitutes a hate crime referred to in subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note).<sup>1</sup>
 
 #### (5) State
 
@@ -40,5 +40,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-The Hate Crime Statistics Act, referred to in par. (4), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+The first section of the Hate Crime Statistics Act, referred to in par. (4), is Pub. L. 101–275, §1, Apr. 23, 1990, 104 Stat. 140, which was set out in a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification as section 41305 of Title 34, Crime Control and Law Enforcement.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

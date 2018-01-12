@@ -1,6 +1,6 @@
 ### §31306. Declaration of citizenship
 
-(a) Except as provided by the Secretary, when an instrument transferring an interest in a vessel is presented to the Secretary for filing or recording, the transferee shall file with the instrument a declaration, in the form the Secretary may prescribe by regulation, stating information about citizenship and other information the Secretary may require to show the transaction involved does not violate section 56102 or 56103 of this title.
+(a) Except as provided by the Secretary, when an instrument transferring an interest in a vessel is presented to the Secretary for filing or recording, the transferee shall file with the instrument a declaration, in the form the Secretary may prescribe by regulation, stating information about citizenship and other information the Secretary may require to show the transactioninvolved does not violate section 56102 or 56103 of this title.
 
 (b) A declaration under this section filed by a corporation must be signed by its president, secretary, treasurer, or other official authorized by the corporation to execute the declaration.
 
@@ -37,4 +37,8 @@ Section 31306(d) provides for a criminal penalty for a violation of this section
 <b>1989</b>—Subsec. (a). Pub. L. 101–225, §303(1)(A), substituted "Except as provided by the Secretary of Transportation, when" for "When" and "Secretary for filing" for "Secretary of Transportation for filing".
 
 Subsec. (c). Pub. L. 101–225, §303(1)(B), substituted "Except as provided by the Secretary, an" for "An".
+
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 

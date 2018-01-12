@@ -12,9 +12,9 @@
 
 #### (b) Protection of public health and welfare
 
-(1) National primary ambient air quality standards, prescribed under subsection (a) of this section shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
+(1) National primary ambient air quality standards, prescribed under subsection (a) shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
 
-(2) Any national secondary ambient air quality standard prescribed under subsection (a) of this section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
+(2) Any national secondary ambient air quality standard prescribed under subsection (a) shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
 
 #### (c) National primary ambient air quality standard for nitrogen dioxide
 
@@ -82,7 +82,7 @@ Report.—The Administrator shall request the National Academy of Sciences to pr
 
 Submission to Congress; Comments; Authorization.—(1) The report shall be transmitted to the Congress not later than 3 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
-"(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for publiccomment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
+"(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
 
 "(3) There are authorized to be appropriated such sums as are necessary to carry out this section."
 

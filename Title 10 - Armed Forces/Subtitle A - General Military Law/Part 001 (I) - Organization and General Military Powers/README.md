@@ -11,9 +11,15 @@
 | [<b>7.</b>](Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md) | <b>Boards, Councils, and Committees</b> | <b>171</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md) | <b>Defense Agencies and Department of Defense Field Activities</b> | <b>191</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
+| [<b>9A.</b>](Chapter%20009A%20-%20Audit/README.md) | <b>Audit</b> | <b>251 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>11.</b>](Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
 | [<b>12.</b>](Chapter%20012%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>246</b> |
-| [<b>13.</b>](Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251</b> |
+| [<b>13.</b>](Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251 </b><b><sup>1</sup></b> |
 | [<b>14.</b>](Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
@@ -27,6 +33,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
@@ -70,6 +78,8 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
+<i><sup>1</sup></i><i> So in original. Chapters 9A and 13 both begin with a section 251.</i>
+
 
 ---
 
@@ -84,6 +94,7 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 007 - Boards, Councils, and Committees](Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md)
 - [Chapter 008 - Defense Agencies and Department of Defense Field Activities](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md)
 - [Chapter 009 - Defense Budget Matters](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md)
+- [Chapter 009A - Audit](Chapter%20009A%20-%20Audit/README.md)
 - [Chapter 011 - Reserve Components](Chapter%20011%20-%20Reserve%20Components/README.md)
 - [Chapter 012 - The Militia](Chapter%20012%20-%20The%20Militia/README.md)
 - [Chapter 013 - Insurrection](Chapter%20013%20-%20Insurrection/README.md)

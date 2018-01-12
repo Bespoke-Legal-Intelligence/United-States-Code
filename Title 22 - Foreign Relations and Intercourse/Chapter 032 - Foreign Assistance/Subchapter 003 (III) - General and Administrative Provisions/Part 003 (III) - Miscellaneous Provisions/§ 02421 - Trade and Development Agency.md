@@ -54,7 +54,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (d) Annual report
 
-The President shall, not later than December 31 of each year, submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
+The President shall, not later than December 31 of each year, submit to the Committee onForeign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
 
 #### (e) Audits
 
@@ -92,7 +92,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 &emsp;&emsp;(ii) the term "multilateral development bank" has the meaning given that term in section 262r(c) of this title.
 
-(Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, titleIII, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -170,5 +170,5 @@ Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized a
 
 #### Trade and Development Program; Reaffirmation of Support
 
-Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: "The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high prioritydevelopment projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency."
+Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: "The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency."
 

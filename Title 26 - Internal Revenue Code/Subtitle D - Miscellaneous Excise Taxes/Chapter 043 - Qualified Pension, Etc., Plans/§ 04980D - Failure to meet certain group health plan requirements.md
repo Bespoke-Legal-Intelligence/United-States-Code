@@ -34,7 +34,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
-&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for any year are more than de minimis, subparagraph (A) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
+&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for anyyear are more than de minimis, subparagraph (A) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
 
 #### (C) Exception for church plans
 

@@ -84,7 +84,7 @@ Criteria.—Not later than 90 days after a railroad carrier or other entity subm
 
 &emsp;&emsp;&emsp;(i) installed all positive train control system hardware consistent with the plan contents provided pursuant to paragraph (2)(A)(iii)(II) on or before the implementation deadline under paragraph (1);
 
-&emsp;&emsp;&emsp;(ii) acquired all spectrum necessary for implementation of a positive train controlsystem, consistent with the plan contents provided pursuant to paragraph (2)(A)(iii)(I) on or before the implementation deadline under paragraph (1);
+&emsp;&emsp;&emsp;(ii) acquired all spectrum necessary for implementation of a positive train control system, consistent with the plan contents provided pursuant to paragraph (2)(A)(iii)(I) on or before the implementation deadline under paragraph (1);
 
 &emsp;&emsp;&emsp;(iii) completed employee training required under the applicable positive train control system regulations;
 
@@ -258,7 +258,7 @@ Equivalent or greater level of safety.—The term "equivalent or greater level o
 
 &emsp;(2)
 
-Hardware.—The term "hardware" means a locomotive apparatus, a wayside interface unit (including any associated legacy signal system replacements), switch position monitors needed for a positive train control system, physical back office system equipment, abase station radio, a wayside radio, a locomotive radio, or a communication tower or pole.
+Hardware.—The term "hardware" means a locomotive apparatus, a wayside interface unit (including any associated legacy signal system replacements), switch position monitors needed for a positive train control system, physical back office system equipment, a base station radio, a wayside radio, a locomotive radio, or a communication tower or pole.
 
 &emsp;(3)
 
@@ -316,7 +316,7 @@ The date of the enactment of this Act, referred to in subsec. (k), probably mean
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(1). Pub. L. 114–73, §1302(b)(1)(A)–(D), in introductory provisions, substituted "90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015" for "18 months after the date of enactment of the Rail Safety Improvement Act of 2008", "a revised plan for implementing" for "a plan for implementing", and "December 31, 2018" for "December 31, 2015" and struck out"develop and" before "submit to the Secretary of Transportation".
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–73, §1302(b)(1)(A)–(D), in introductory provisions, substituted "90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015" for "18 months after the date of enactment of the Rail Safety Improvement Act of 2008", "a revised plan for implementing" for "a plan for implementing", and "December 31, 2018" for "December 31, 2015" and struck out "develop and" before "submit to the Secretary of Transportation".
 
 Subsec. (a)(1)(B). Pub. L. 114–73, §1302(b)(1)(E), substituted "defined in sections" for "defined in parts".
 

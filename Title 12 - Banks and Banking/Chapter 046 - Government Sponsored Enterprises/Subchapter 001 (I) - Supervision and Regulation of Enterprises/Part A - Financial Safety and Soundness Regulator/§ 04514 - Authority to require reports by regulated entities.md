@@ -58,7 +58,7 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (3) Assessments
 
-&emsp;Any penalty imposed under this subsection shall be in lieu of a penalty under section 4636 of this title, but shall be assessed and collected by the Director in the manner provided in section 4636 of this title for penalties imposed under that section, and any such assessment (including the determination of theamount of the penalty) shall be otherwise subject to the provisions of section 4636 of this title.
+&emsp;Any penalty imposed under this subsection shall be in lieu of a penalty under section 4636 of this title, but shall be assessed and collected by the Director in the manner provided in section 4636 of this title for penalties imposed under that section, and any such assessment (including the determination of the amount of the penalty) shall be otherwise subject to the provisions of section 4636 of this title.
 
 #### (4) Hearing
 

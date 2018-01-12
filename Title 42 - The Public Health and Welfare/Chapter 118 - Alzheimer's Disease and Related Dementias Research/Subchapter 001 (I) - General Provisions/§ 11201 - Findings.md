@@ -54,7 +54,7 @@ The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531
 
 #### Amendments
 
-<b>1992</b>—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14), respectively, and struck out former pars. (4) to (6) which read as follows:
+<b>1992</b>—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14),respectively, and struck out former pars. (4) to (6) which read as follows:
 
 "(4) the care for individuals with Alzheimer's disease and related dementias falls primarily on their families, and such care is very often financially and emotionally devastating;
 
@@ -68,7 +68,7 @@ Pub. L. 111–375, §1, Jan. 4, 2011, 124 Stat. 4100, provided that: "This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–507, §1, Oct. 24, 1992, 106 Stat. 3281, provided that: "This Act \[enacting section 11261 of thistitle, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Alzheimer's Disease Research, Training, and Education Amendments of 1992'."
+Pub. L. 102–507, §1, Oct. 24, 1992, 106 Stat. 3281, provided that: "This Act \[enacting section 11261 of this title, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Alzheimer's Disease Research, Training, and Education Amendments of 1992'."
 
 #### Short Title
 

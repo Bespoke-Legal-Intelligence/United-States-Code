@@ -6,7 +6,7 @@
 
 (b)(1) Failure of a banking institution to maintain capital at or above its minimum level as established pursuant to subsection (a) may be deemed by the appropriate Federal banking agency, in its discretion, to constitute an unsafe and unsound practice within the meaning of section 1818 of this title.
 
-(2)(A) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial <sup>1</sup> at or above its required level as established pursuant to subsection (a).
+(2)(A) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution thatfails to maintain captial <sup>1</sup> at or above its required level as established pursuant to subsection (a).
 
 (B)(i) Such directive may require the banking institution to submit and adhere to a plan acceptable to the appropriate Federal banking agency describing the means and timing by which the banking institution shall achieve its required capital level.
 

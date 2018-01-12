@@ -184,7 +184,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L.104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
 
 #### "SEC. 4001. SHORT TITLE
 
@@ -256,7 +256,7 @@ Policy.—In view of the findings expressed in subsection (a), it is the policy 
 
 &emsp;&emsp;&emsp;"(iii) establishes, by evidence, that the reductions referred to in clause (ii) occurred as a direct result of a reduction in the defense budget; and
 
-&emsp;&emsp;"(C) when such term is used in conjunction with the term 'group of workers', any group of 100 or more workers at a defense facility who are (or who are threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division), as in effect on the day before the date of enactment of the Workforce Investment Act of 1998 \[Aug. 7, 1998\].
+&emsp;&emsp;"(C) when such term is used in conjunction with the term 'group of workers', any group of 100 or more workers at a defense facility who are (or whoare threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division), as in effect on the day before the date of enactment of the Workforce Investment Act of 1998 \[Aug. 7, 1998\].
 
 #### "SEC. 4004. CONTINUATION OF ECONOMIC ADJUSTMENT COMMITTEE
 
@@ -288,7 +288,7 @@ Duties of Committee.—The Economic Adjustment Committee shall—
 
 "(a)
 
-In General.—Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense undersubsection (b) of section 2391 of title 10, United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
+In General.—Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense under subsection (b) of section 2391 of title 10, United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
 
 "(b) \[Amended section 2391(b) of this title.\]
 
@@ -542,7 +542,7 @@ Sec. 5. <i>Responsibilities of Executive Agencies.</i>
 
 (b) All executive agencies shall:
 
-(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
+(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, toprovide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
 
 (2) Afford priority consideration to requests from Defense-affected communities for Federal technical assistance, financial resources, excess or surplus property, or other requirements, that are part of a comprehensive plan used by the Committee.
 

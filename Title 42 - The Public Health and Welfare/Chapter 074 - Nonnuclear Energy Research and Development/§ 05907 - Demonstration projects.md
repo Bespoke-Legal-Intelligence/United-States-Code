@@ -18,7 +18,7 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 &emsp;(3) the relationship of the proposal to the criteria of priority set forth in section 5904(b)(2) of this title;
 
-&emsp;(4) the availability of non-Federal participants to construct and operate the facilities or perform the activities associated with the proposal and to contribute to the financing of the proposal;
+&emsp;(4) the availability of non-Federal participants to construct and operate the facilities orperform the activities associated with the proposal and to contribute to the financing of the proposal;
 
 &emsp;(5) the total estimated cost including the Federal investment and the probable time schedule;
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 109–58, §1009(b)(6)(C), substituted "Secretary" for "Adm
 
 #### Transfer of Functions
 
-The Energy Research and Development Administration, referred to in subsec. (d)(1), was terminated and all of its functions and the functions of its Administrator were transferred (with certain exceptions) to the Secretary of Energy. See sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
+The Energy Research and Development Administration, referred to in subsec. (d)(1), was terminated andall of its functions and the functions of its Administrator were transferred (with certain exceptions) to the Secretary of Energy. See sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by December 3, 1977
 

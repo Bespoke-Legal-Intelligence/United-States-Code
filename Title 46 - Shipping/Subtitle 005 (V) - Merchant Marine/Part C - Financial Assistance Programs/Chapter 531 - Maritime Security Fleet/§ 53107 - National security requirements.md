@@ -2,7 +2,7 @@
 
 (a)
 
-Emergency Preparedness Agreement Required.—The Secretary shall establish an Emergency Preparedness Program under this section that is approved by the Secretary of Defense. Under the program, the Secretary, in conjunction with the Secretary of Defense, shall include in each operating agreement under this chapter a requirement that the contractor enter into an Emergency Preparedness Agreement under thissection with the Secretary. The Secretary shall negotiate and enter into an Emergency Preparedness Agreement with each contractor as promptly as practicable after the contractor has entered into an operating agreement under this chapter.
+Emergency Preparedness Agreement Required.—The Secretary shall establish an Emergency Preparedness Program under this section that is approved by the Secretary of Defense. Under the program, the Secretary, in conjunction with the Secretary of Defense, shall include in each operating agreement under this chapter a requirement that the contractor enter into an Emergency Preparedness Agreement under this section with the Secretary. The Secretary shall negotiate and enter into an Emergency Preparedness Agreement with each contractor as promptly as practicable after the contractor has entered into an operating agreement under this chapter.
 
 (b)
 
@@ -72,7 +72,7 @@ In general.—All commercial transportation resources activated under an Emergen
 
 Limitation on liability of u.s.—Except as may be expressly agreed to in an Emergency Preparedness Agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a contractor's commercial business or other consequential damages to a contractor arising from activation of commercial transportation resources under an Emergency Preparedness Agreement.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720; Pub. L. 112–239, div.C, title XXXV, §3508(g), Jan. 2, 2013, 126 Stat. 2225.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720; Pub. L. 112–239, div. C, title XXXV, §3508(g), Jan. 2, 2013, 126 Stat. 2225.)
 
 #### References in Text
 

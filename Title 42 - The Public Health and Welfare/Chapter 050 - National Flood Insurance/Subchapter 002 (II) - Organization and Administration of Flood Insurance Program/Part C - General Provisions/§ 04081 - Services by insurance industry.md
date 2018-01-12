@@ -50,6 +50,10 @@ Subsec. (d). Pub. L. 112–141, §100245, added subsec. (d).
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
@@ -82,7 +86,7 @@ Failure to comply.—A property and casualty insurance company participating in 
 
 "(b)
 
-Methodology To Determine Reimbursed Expenses.—Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator shall develop a methodology for determining the appropriate amounts that property and casualty insurance companies participating in the Write Your Own program should be reimbursed for selling, writing, andservicing flood insurance policies and adjusting flood insurance claims on behalf of the National Flood Insurance Program. The methodology shall be developed using actual expense data for the flood insurance line and can be derived from—
+Methodology To Determine Reimbursed Expenses.—Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator shall develop a methodology for determining the appropriate amounts that property and casualty insurance companies participating in the Write Your Own program should be reimbursed for selling, writing, and servicing flood insurance policies and adjusting flood insurance claims on behalf of the National Flood Insurance Program. The methodology shall be developed using actual expense data for the flood insurance line and can be derived from—
 
 &emsp;"(1) flood insurance expense data produced by the property and casualty insurance companies;
 

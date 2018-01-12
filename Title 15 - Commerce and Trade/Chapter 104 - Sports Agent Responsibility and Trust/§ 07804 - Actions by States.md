@@ -24,7 +24,7 @@
 
 #### (B) Exemption
 
-&emsp;&emsp;Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before filing of the action. In such case, the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
+&emsp;&emsp;Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before filing of the action. In such case, the attorney general of aState shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
 
 #### (b) Intervention
 
@@ -56,7 +56,7 @@ In any case in which an action is instituted by or on behalf of the Commission f
 
 #### (e) Venue
 
-Any action brought under subsection (a) may be brought in the district court of the UnitedStates that meets applicable requirements relating to venue under section 1391 of title 28.
+Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
 
 #### (f) Service of process
 

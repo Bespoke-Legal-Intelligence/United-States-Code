@@ -28,7 +28,7 @@ In subsec. (d), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3901,
 
 #### Prior Provisions
 
-A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L. 112–81, div. A, title III, §312(d), Dec. 31, 2011, 125 Stat. 1355.
+A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L.112–81, div. A, title III, §312(d), Dec. 31, 2011, 125 Stat. 1355.
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 105–85, §2914(b)(2), substituted "$5,000,000 for each of
 
 Subsecs. (c), (d). Pub. L. 97–396, §5(2), added subsecs. (c) and (d).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–420 substituted provisions authorizing appropriation of $10,000,000 for each of fiscal years ending Sept. 30, 1979, 1980, and 1981 to enable the Secretary to carry out his functions, includingdata collection, research, planning, and conservation and rehabilitation programs, such funds to be in addition to those authorized for wildlife, range, soil and water management pursuant to section 1748 of title 43, for provisions authorizing appropriation of $10,000,000 for fiscal year ending June 30, 1974, and for each of next four fiscal years to enable Department of the Interior to carry out its functions.
+<b>1978</b>—Subsec. (a). Pub. L. 95–420 substituted provisions authorizing appropriation of $10,000,000 for each of fiscal years ending Sept. 30, 1979, 1980, and 1981 to enable the Secretary to carry out his functions, including data collection, research, planning, and conservation and rehabilitation programs, such funds to be in addition to those authorized for wildlife, range, soil and water management pursuant to section 1748 of title 43, for provisions authorizing appropriation of $10,000,000 for fiscal year ending June 30, 1974, and for each of next four fiscal years to enable Department of the Interior to carry out its functions.
 
 Subsec. (b). Pub. L. 95–420 substituted provisions authorizing appropriation of $12,000,000 for fiscal years ending Sept. 30, 1979, 1980, and 1981 to enable Secretary of Agriculture to carry out his functions, such funds to be in addition to those otherwise provided, and provisions relating to fish and wildlife program needs including those identified in State plans developed pursuant to Forest and Rangeland Renewable Resources Planning Act of 1974, for provisions authorizing appropriation of $10,000,000 for fiscal year ending June 30, 1974, and for each of next four fiscal years to enable Department of Agriculture to carry out its functions.
 

@@ -6,7 +6,7 @@
 
 (2) A request shall be considered under paragraph (1) only if—
 
-&emsp;(A) the request has been approved by a resolution adopted by the legislature of the Stateand the request has been approved by the Governor of the State, and
+&emsp;(A) the request has been approved by a resolution adopted by the legislature of the State and the request has been approved by the Governor of the State, and
 
 &emsp;(B) the statue to be replaced has been displayed in the Capitol of the United States for at least 10 years as of the time the request is made, except that the Joint Committee may waive this requirement for cause at the request of a State.
 

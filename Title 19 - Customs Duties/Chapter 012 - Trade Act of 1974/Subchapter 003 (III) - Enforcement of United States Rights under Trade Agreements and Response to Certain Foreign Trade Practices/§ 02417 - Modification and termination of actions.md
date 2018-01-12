@@ -14,7 +14,7 @@
 
 #### (b) Notice; report to Congress
 
-The Trade Representative shall promptly publish in the Federal Register notice of, and report in writing to the Congress with respect to, any modification or termination of any action taken under section 2411 of this title and the reasons therefor.
+The Trade Representative shall promptly publish in the Federal Register notice of, and reportin writing to the Congress with respect to, any modification or termination of any action taken under section 2411 of this title and the reasons therefor.
 
 #### (c) Review of necessity
 
@@ -46,5 +46,5 @@ The Trade Representative shall promptly publish in the Federal Register notice o
 
 #### Effective Date
 
-Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on orafter Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
+Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
 

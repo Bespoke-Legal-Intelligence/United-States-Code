@@ -64,7 +64,7 @@
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, ifthe Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
@@ -178,7 +178,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;Any person that is debarred under subsection (a)(1) (other than a person permanently debarred under subsection (c)(2)(A)(i)) or any individual who is debarred under subsection (a)(2) may apply to the Secretary for special termination of debarment under this subsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
+&emsp;&emsp;Any person that is debarred under subsection (a)(1) (other than a person permanently debarred under subsection (c)(2)(A)(i)) or any individual who is debarred under subsection (a)(2) may apply to the Secretary for special termination of debarment under thissubsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
 
 #### (B) Corporations
 
@@ -194,7 +194,7 @@
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -242,7 +242,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;Except as provided in subparagraph (B), a denial of approval of an application of a person under paragraph (1) shall be in effect for a period determined by the Secretary but not to exceed 18 months beginning on the date the Secretary finds that the conditions described in subparagraphs (A), (B), and (C) of paragraph (1) exist. The Secretary shall terminate such denial—
 
-&emsp;&emsp;&emsp;(i) if the investigation with respect to which the finding was made does not result in a criminal charge against such person, if criminal charges have been brought and the charges have been dismissed, or if a judgment of acquittal has been entered, or
+&emsp;&emsp;&emsp;(i) if the investigation with respect to which the finding was made does not resultin a criminal charge against such person, if criminal charges have been brought and the charges have been dismissed, or if a judgment of acquittal has been entered, or
 
 &emsp;&emsp;&emsp;(ii) if the Secretary determines that such finding was in error.
 
@@ -264,7 +264,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution ofone or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -302,7 +302,7 @@ The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decision under subsection (a), (b), (c), (d), (f), (g), or (h) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decisionunder subsection (a), (b), (c), (d), (f), (g), or (h) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (2) Exception
 

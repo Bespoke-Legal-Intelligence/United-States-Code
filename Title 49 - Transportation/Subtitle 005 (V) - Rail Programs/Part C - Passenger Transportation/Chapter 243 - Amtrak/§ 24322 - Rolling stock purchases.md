@@ -8,7 +8,7 @@ In General.—Prior to entering into any contract in excess of $100,000,000 for 
 
 Contents.—The business case analysis shall—
 
-&emsp;(1) include a cost and benefit comparison that describes the total lifecycle costs and theanticipated benefits related to revenue, operational efficiency, reliability, and other factors;
+&emsp;(1) include a cost and benefit comparison that describes the total lifecycle costs and the anticipated benefits related to revenue, operational efficiency, reliability, and other factors;
 
 &emsp;(2) set forth the total payments by fiscal year;
 

@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 100–647, §1006(e)(3), substituted "an election may be ma
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 
@@ -214,7 +214,7 @@ Qualified group.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), the term 'qualified group' means any group of 10 or fewer qualified persons who at all times during the 5-year period ending on the date of the adoption of the plan of complete liquidation (or, if shorter, the period during which the corporation or any predecessor was in existence) owned (or was treated as owning under the rules of subparagraph (C)) more than 50 percent (by value) of the stock in such corporation.
+In general.—Except as provided in clause (ii), the term 'qualified group' means any group of10 or fewer qualified persons who at all times during the 5-year period ending on the date of the adoption of the plan of complete liquidation (or, if shorter, the period during which the corporation or any predecessor was in existence) owned (or was treated as owning under the rules of subparagraph (C)) more than 50 percent (by value) of the stock in such corporation.
 
 &emsp;&emsp;&emsp;"(ii) 5
 
@@ -310,7 +310,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;"(i) if—
 
-&emsp;&emsp;&emsp;"(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequently modified provided that the purchase price is not thereby increased), or
+&emsp;&emsp;&emsp;"(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1,1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequently modified provided that the purchase price is not thereby increased), or
 
 &emsp;&emsp;&emsp;"(II) in the event that the optionee does not acquire substantially all the assets of the corporation, the optionor corporation sells substantially all its assets to another purchaser at a purchase price not greater than that contemplated by such option agreement pursuant to an effective plan of liquidation, and
 

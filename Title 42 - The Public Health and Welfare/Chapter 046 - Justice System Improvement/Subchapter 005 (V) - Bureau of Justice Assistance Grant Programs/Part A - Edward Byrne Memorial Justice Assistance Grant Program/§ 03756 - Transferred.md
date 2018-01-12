@@ -1,0 +1,6 @@
+### §3756. Transferred
+
+#### Codification
+
+Section 3756 was editorially reclassified as section 10157 of Title 34, Crime Control and Law Enforcement.
+

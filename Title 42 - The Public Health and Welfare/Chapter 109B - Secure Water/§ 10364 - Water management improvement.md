@@ -138,7 +138,7 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pu
 
 #### Funding
 
-Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870, provided that: "Section 9504 of the OmnibusPublic Land Management Act of 2009 (42 U.S.C. 10364) is amended in subsection (e) by striking '$350,000,000' and inserting '$450,000,000' on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriation Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)."
+Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870, provided that: "Section 9504 of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10364) is amended in subsection (e) by striking '$350,000,000' and inserting '$450,000,000' on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriation Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)."
 
 <i><sup>1</sup></i><i> See Funding note below.</i>
 

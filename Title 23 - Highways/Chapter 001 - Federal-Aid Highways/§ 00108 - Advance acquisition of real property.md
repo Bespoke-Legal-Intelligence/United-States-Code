@@ -10,7 +10,7 @@ Availability of funds.—For the purpose of facilitating the timely and economic
 
 &emsp;(2)
 
-Construction.—The agreement between the Secretary and the State for the reimbursement of the cost of the real property interests shall provide for the actual construction of the transportation improvement within a period not to exceed 20 years following the fiscal year for which the request is made, unless the Secretary determines that a longer period is reasonable.
+Construction.—The agreement between the Secretary and the State for the reimbursement of the cost of the real property interests shall provide for the actual construction of the transportation improvement within a period not to exceed 20 years following the fiscal year for which the request is made, unless theSecretary determines that a longer period is reasonable.
 
 (b) Federal participation in the cost of real property interests acquired under subsection (a) of this section shall not exceed the Federal pro rata share applicable to the class of funds from which Federal reimbursement is made.
 

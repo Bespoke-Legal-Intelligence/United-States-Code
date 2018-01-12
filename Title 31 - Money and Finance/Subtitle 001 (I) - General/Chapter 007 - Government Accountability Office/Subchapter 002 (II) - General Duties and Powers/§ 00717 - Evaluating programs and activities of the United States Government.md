@@ -56,7 +56,7 @@ In subsection (b), before clause (1), the word "evaluate" is substituted for "re
 
 In subsection (c), the word "evaluate" is substituted for "review and evaluation" to eliminate unnecessary words.
 
-In subsection (d)(1), before clause (A), the words "committee of Congress" are substituted for "committee of either House or any joint committee of the two Houses" for consistency and to eliminate unnecessary words. In clause (A), the words "objectives and", "actual", and "but are not limited to" are omitted as surplus. In clause (B), the words "analyzing and" and "or evaluation studies" are omitted as surplus.
+In subsection (d)(1), before clause (A), the words "committee of Congress" are substituted for "committee of either House or any joint committee of the two Houses" for consistency and to eliminate unnecessarywords. In clause (A), the words "objectives and", "actual", and "but are not limited to" are omitted as surplus. In clause (B), the words "analyzing and" and "or evaluation studies" are omitted as surplus.
 
 In subsection (d)(2), the word "Congress" is substituted for "either House" for clarity. The words "statement or other" are omitted as surplus.
 

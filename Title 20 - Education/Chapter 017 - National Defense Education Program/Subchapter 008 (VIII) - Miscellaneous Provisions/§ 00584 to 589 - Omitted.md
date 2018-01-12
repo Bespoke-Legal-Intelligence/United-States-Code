@@ -8,7 +8,7 @@ Section 584, Pub. L. 85–864, title X, §1004, Sept. 2, 1958, 72 Stat. 1603; Pu
 
 Section 585, Pub. L. 85–864, title X, §1005, Sept. 2, 1958, 72 Stat. 1604; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, provided for judicial review where a State was dissatisfied with Secretary's final action with respect to the approval of its State plan or with respect to restriction of payments to the State for failure to maintain compliance with conditions governing original approval of such plan.
 
-Section 586, Pub. L. 85–864, title X, §1006, Sept. 2, 1958, 72 Stat. 1604, provided that payments to any individual or to any State or Federal agency, institution of higher education, or any other organization, pursuant to a grant, loan, or contract, could be made in installments, and in advance or by way of reimbursement, and, in case of grants or loans, with necessary adjustments on account of overpayments or underpayments.
+Section 586, Pub. L. 85–864, title X, §1006, Sept. 2, 1958, 72 Stat. 1604, provided that payments to any individual or to any State or Federal agency, institution of higher education, or any other organization, pursuant to a grant, loan, or contract, could be made in installments,and in advance or by way of reimbursement, and, in case of grants or loans, with necessary adjustments on account of overpayments or underpayments.
 
 Section 587, Pub. L. 85–864, title X, §1007, Sept. 2, 1958, 72 Stat. 1604, authorized appropriations for fiscal year ending June 30, 1959, and for each fiscal year thereafter, of such sums as might be necessary for administrative costs, including administrative expenses of State commissions.
 

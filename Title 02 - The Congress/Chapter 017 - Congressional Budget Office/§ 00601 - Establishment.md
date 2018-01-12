@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is established an office of the Congress to be known as the Congressional BudgetOffice (hereinafter in this chapter referred to as the "Office"). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
+(1) There is established an office of the Congress to be known as the Congressional Budget Office (hereinafter in this chapter referred to as the "Office"). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
 
 (2) The Director shall be appointed by the Speaker of the House of Representatives and the President pro tempore of the Senate after considering recommendations received from the Committees on the Budget of the House and the Senate, without regard to political affiliation and solely on the basis of his fitness to perform his duties. The Deputy Director shall be appointed by the Director.
 
@@ -20,7 +20,7 @@
 
 #### (b) Personnel
 
-The Director shall appoint and fix the compensation of such personnel as may be necessary to carry out the duties and functions of the Office. All personnel of the Office shall be appointed without regard to political affiliation and solely on the basis of their fitness to perform their duties. The Director may prescribe the duties and responsibilities of the personnel of the Office, and delegate to them authority to perform any of the duties, powers, and functions imposed on the Office or on the Director. For purposes of pay (other than pay of the Director and Deputy Director) and employment benefits, rights, and privileges, all personnel of the Office shall be treated as if they were employees of the House of Representatives.
+The Director shall appoint and fix the compensation of such personnel as may be necessary to carry out the duties and functions of the Office. All personnel of the Office shall be appointed without regard to political affiliation and solely on the basis of their fitness to perform their duties. The Director may prescribe the duties and responsibilities of the personnel of the Office, and delegate to them authority to perform any of the duties, powers, and functions imposed on the Office or on the Director. For purposes of pay (other than pay of the Directorand Deputy Director) and employment benefits, rights, and privileges, all personnel of the Office shall be treated as if they were employees of the House of Representatives.
 
 #### (c) Experts and consultants
 
@@ -58,7 +58,7 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 <b>1999</b>—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title."
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon onJanuary 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
 
 Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office of Technology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
 

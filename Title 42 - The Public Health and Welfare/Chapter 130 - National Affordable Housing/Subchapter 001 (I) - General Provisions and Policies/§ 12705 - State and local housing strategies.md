@@ -24,7 +24,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(4) explain whether the cost of housing or the incentives to develop, maintain, or improve affordable housing in the jurisdiction are affected by public policies, particularly by policies of the jurisdiction, including tax policies affecting land and other property, land use controls, zoning ordinances, building codes, fees and charges, growth limits, and policies that affect the return on residential investment, and describe the jurisdiction's strategy to remove or ameliorate negative effects, if any, of such policies, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph;
 
-&emsp;(5) explain the institutional structure, including private industry, nonprofit organizations, and public institutions, through which the jurisdiction will carry out its housingstrategy, assessing the strengths and gaps in that delivery system and describing what the jurisdiction will do to overcome those gaps;
+&emsp;(5) explain the institutional structure, including private industry, nonprofit organizations, and public institutions, through which the jurisdiction will carry out its housing strategy, assessing the strengths and gaps in that delivery system and describing what the jurisdiction will do to overcome those gaps;
 
 &emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
@@ -62,7 +62,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) has not been provided in a substantially complete manner. For the purpose of the preceding sentence, theadoption or continuation of a public policy identified pursuant to subsection (b)(4) shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
+&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
 
 #### (2) Actions in case of disapproval
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
 Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted ", including rural homelessness," after "extent of homelessness" and "including tabular representation of such information," after "with homelessness,".
 
-Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end ", except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph".
+Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end ", except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submittedto the State to the Secretary and shall be considered to have complied with this paragraph".
 
 Subsec. (b)(8). Pub. L. 102–550, §220(c)(2), added par. (8). Former par. (8) redesignated (9).
 

@@ -124,7 +124,7 @@ Pub. L. 106–402, title II, §201, Oct. 30, 2000, 114 Stat. 1728, provided that
 
 #### Special Olympics Sport and Empowerment
 
-Pub. L. 108–406, Oct. 30, 2004, 118 Stat. 2294, provided that:
+Pub. L. 108–406, Oct. 30, 2004, 118 Stat. 2294, as amended by Pub. L. 115–31, div. H, title V, §527, May 5, 2017, 131 Stat. 566, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -172,7 +172,7 @@ Education Activities.—The Secretary of Education may award grants to, or enter
 
 &emsp;"(1) Activities to promote the expansion of Special Olympics, including activities to increase the participation of individuals with intellectual disabilities within the United States.
 
-&emsp;"(2) The design and implementation of Special Olympics education programs, including charactereducation and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
+&emsp;"(2) The design and implementation of Special Olympics education programs, including character education and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
 
 "(b)
 
@@ -236,11 +236,11 @@ Content.—At a minimum, each annual report under this subsection shall describe
 
 "There are authorized to be appropriated—
 
-&emsp;"(1) for grants, contracts, or cooperative agreements under section 3(a), $5,500,000 for fiscal year 2005, and such sums as may be necessary for each of the 4 succeeding fiscal years;
+&emsp;"(1) for grants, contracts, or cooperative agreements under section 3(a), such sums as may be necessary for fiscal year 2017 and each of the 4 succeeding fiscal years;
 
-&emsp;"(2) for grants, contracts, or cooperative agreements under section 3(b), $3,500,000 for fiscal year 2005, and such sums as may be necessary for each of the 4 succeeding fiscal years; and
+&emsp;"(2) for grants, contracts, or cooperative agreements under section 3(b), such sums as may be necessary for fiscal year 2017 and each of the 4 succeeding fiscal years; and
 
-&emsp;"(3) for grants, contracts, or cooperative agreements under section 3(c), $6,000,000 for each of fiscal years 2005 through 2009."
+&emsp;"(3) for grants, contracts, or cooperative agreements under section 3(c), such sums as may be necessary for fiscal year 2017 and each of the 4 succeeding fiscal years."
 
 #### Ex. Ord. No. 12994. President's Committee on Mental Retardation
 
@@ -300,13 +300,13 @@ Sec. 3. <i>Functions of the Committee</i>. (a) Consistent with subsection (c) of
 
 (F) increasing access to assistive and universally designed technologies.
 
-(b) The Committee shall provide an annual report to the President through the Secretary of Health and Human Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
+(b) The Committee shall provide an annual report to the President through the Secretary of Health andHuman Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
 
 (c) The members shall advise the President and carry out their advisory role consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and agencies shall:
 
-(a) designate, when requested by the Secretary of Health and Human Services, an officer or employee ofsuch department or agency to serve as a liaison with the Committee; and
+(a) designate, when requested by the Secretary of Health and Human Services, an officer or employee of such department or agency to serve as a liaison with the Committee; and
 
 (b) furnish such information and assistance to the Committee, to the extent permitted by law, as the Secretary of Health and Human Services may request to assist the Committee in performing its functions under this order.
 
@@ -320,43 +320,47 @@ Sec. 6. <i>General</i>. (a) Nothing in this order shall be construed as subjecti
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
-#### Extension of Term of President's Committee for People with Intellectual Disabilities (formerly President's Committee on Mental Retardation)
+#### Extension of Term of President's Committee for People with Intellectual Disabilities
 
-Term of the President's Committee on Mental Retardation extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of the President's Committee for People with Intellectual Disabilities (formerly President's Committee on Mental Retardation) were contained in the following prior Executive Orders:
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13309, §5, July 25, 2003, 68 F.R. 44851, changed name to Committee for People with Intellectual Disabilities and extended term until Sept. 30, 2005.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(k), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13062, §1(k), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
-Name of President's Committee on Mental Retardation changed to Committee for People with Intellectual Disabilities and term of such committee extended until Sept. 30, 2005, by Ex. Ord. No. 13309, §5, July 25, 2003, 68 F.R. 44851, formerly set out as a note under this section.
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, extended term until Sept. 30, 1995.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, extended term until Sept. 30, 1993.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, extended term until Sept. 30, 1991.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, extended term until Sept. 30, 1989.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, extended term until Sept. 30, 1987.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, extended term until Sept. 30, 1985.
+
+Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Sept. 30, 1984.
+
+Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, extended term of President's Committee on Mental Retardation until Dec. 31, 1982.
 

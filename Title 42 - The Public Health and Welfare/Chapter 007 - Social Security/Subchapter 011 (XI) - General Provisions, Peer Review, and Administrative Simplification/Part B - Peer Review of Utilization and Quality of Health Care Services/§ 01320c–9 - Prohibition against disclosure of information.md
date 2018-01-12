@@ -2,7 +2,7 @@
 
 #### (a) Freedom of Information Act inapplicable; exceptions to nondisclosure
 
-An organization, in carrying out its functions under a contract entered into under this part, shall not be a Federal agency for purposes of the provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act). Any data or information acquired by any such organization in the exercise of its duties and functions shall be held in confidence and shall not be disclosed to any person except—
+An organization, in carrying out its functions under a contract entered into under this part,shall not be a Federal agency for purposes of the provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act). Any data or information acquired by any such organization in the exercise of its duties and functions shall be held in confidence and shall not be disclosed to any person except—
 
 &emsp;(1) to the extent that may be necessary to carry out the purposes of this part,
 
@@ -30,7 +30,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statistical data (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
 
-> The penalty provided in subsection (c) shall not apply to the disclosure of any information received under this subsection, except that suchpenalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
+> The penalty provided in subsection (c) shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
 
 #### (c) Penalties
 
@@ -44,7 +44,7 @@ No patient record in the possession of an organization having a contract with th
 
 For purposes of this section and section 1320c–6 of this title, the term "organization with a contract with the Secretary under this part" includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) <sup>1</sup> of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Pub. L. 103–432, title I, §156(b)(6), Oct. 31, 1994, 108 Stat. 4441, provided
 
 Amendment by section 4205(d)(1)(B) of Pub. L. 101–508 applicable to notices of proposed sanctions issued more than 60 days after Nov. 5, 1990, see section 4205(d)(1)(C) of Pub. L. 101–508, set out as a note under section 1320c–3 of this title.
 
-Pub. L. 101–508, title IV, §4205(e)(2), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I,§156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title IV, §4205(e)(2), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I, §156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

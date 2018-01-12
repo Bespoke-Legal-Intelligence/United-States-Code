@@ -58,7 +58,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (B) Cooperation with GAO
 
-&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General toprepare and submit the report required by subparagraph (A).
+&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General to prepare and submit the report required by subparagraph (A).
 
 #### (d) Utilization of research facilities and capabilities
 
@@ -94,7 +94,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### (2) Continuation of contractor support
 
-&emsp;The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title.
+&emsp;The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or theSpace Launch System described in section 18322 of this title.
 
 (Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823; Pub. L. 114–90, title I, §114(b)(2), Nov. 25, 2015, 129 Stat. 716.)
 

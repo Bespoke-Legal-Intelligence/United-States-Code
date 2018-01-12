@@ -268,7 +268,7 @@ Pub. L. 108–173, title IX, §924, Dec. 8, 2003, 117 Stat. 2395, provided that:
 
 "(a)
 
-In General.—The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the 'demonstration program') under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled under partB of such title \[42 U.S.C. 1395j et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
+In General.—The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the 'demonstration program') under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
 
 "(b)
 

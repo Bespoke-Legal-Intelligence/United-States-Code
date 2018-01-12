@@ -58,7 +58,7 @@
 
 #### (B) Specified taxable year
 
-&emsp;&emsp;The term "specified taxable year" means, with respect to any qualified intellectual property contribution, any taxable year ofthe donee any portion of which is part of the 10-year period beginning on the date of such contribution.
+&emsp;&emsp;The term "specified taxable year" means, with respect to any qualified intellectual property contribution, any taxable year of the donee any portion of which is part of the 10-year period beginning on the date of such contribution.
 
 #### (c) Statement to be furnished to donors
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 108–357 applicable to contributions made after June 3, 20
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: "The amendments made by subsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: "The amendments made bysubsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date."
 

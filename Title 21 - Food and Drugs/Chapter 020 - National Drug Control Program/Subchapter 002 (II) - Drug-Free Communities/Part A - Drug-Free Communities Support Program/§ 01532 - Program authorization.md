@@ -66,7 +66,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
-&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating tothe use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
+&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
 &emsp;&emsp;(ii) identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -162,7 +162,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Matching requirement
 
-&emsp;&emsp;&emsp;Subject to subparagraph (C), for a fiscal year, the Administrator may grant to aneligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
+&emsp;&emsp;&emsp;Subject to subparagraph (C), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
 #### (iii) Suspension of grants
 

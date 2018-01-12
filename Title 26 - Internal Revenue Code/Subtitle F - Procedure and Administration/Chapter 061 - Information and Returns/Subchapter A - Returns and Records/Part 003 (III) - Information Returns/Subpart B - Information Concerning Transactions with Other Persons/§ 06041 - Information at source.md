@@ -20,7 +20,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on the return.
 
-> The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made. To the extent provided in regulations prescribed by the Secretary, this subsection shall also apply to persons required to make returns under subsection (b).
+> The written statement required under the preceding sentence shall be furnished to the personon or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made. To the extent provided in regulations prescribed by the Secretary, this subsection shall also apply to persons required to make returns under subsection (b).
 
 #### (e) Section does not apply to certain tips
 
@@ -42,7 +42,7 @@ Subsection (a) shall apply to—
 
 &emsp;(2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b),Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 95–600 applicable to payments made after Dec. 31, 1978, s
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963, and to payments of amounts described in section 6044(b) of this title made on or after Jan. 1, 1963. with respectto patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under section 6042 of this title.
+Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963, and to payments of amounts described in section 6044(b) of this title made on or after Jan. 1, 1963. with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under section 6042 of this title.
 
 #### Allowance of Electronic 1099's
 

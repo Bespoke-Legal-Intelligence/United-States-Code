@@ -44,7 +44,7 @@ The Board, jointly with the Director of the Bureau of Consumer Financial Protect
 
 #### (1) In general
 
-&emsp;In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
+&emsp;In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of factswhich would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
 
 #### (2) Basis for determination
 
@@ -86,7 +86,7 @@ Subject to such regulations as the Board, jointly with the Director of the Burea
 
 &emsp;&emsp;(A) depository institutions are experiencing an unacceptable level of losses due to check-related fraud, and
 
-&emsp;&emsp;(B) suspension of this chapter, or such portion of this chapter, with regard to the classification of checks involved in such fraud isnecessary to diminish the volume of such fraud.
+&emsp;&emsp;(B) suspension of this chapter, or such portion of this chapter, with regard to the classification of checks involved in such fraud is necessary to diminish the volume of such fraud.
 
 #### (2) Sunset provision
 

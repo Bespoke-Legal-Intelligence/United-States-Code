@@ -164,7 +164,7 @@ Periodic update of safety fitness rating.—In conducting the safety reviews req
 
 &emsp;&emsp;(B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983; Pub. L. 113–159, title I, §1102(e), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(e), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(e), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(e), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(e), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §§5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, 129 Stat. 1525, 1529, 1554.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59,title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983; Pub. L. 113–159, title I, §1102(e), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(e), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(e), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(e), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(e), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §§5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, 129 Stat. 1525, 1529, 1554.)
 
 Historical and Revision Notes
 
@@ -220,7 +220,7 @@ Subsec. (g)(6). Pub. L. 114–94, §5508(b)(4), amended Pub. L. 112–141, §329
 
 Subsec. (g)(5)(B). Pub. L. 112–141, §112002(d), struck out "and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," after "year".
 
-Pub. L. 112–141, §32603(e), amended subpar. (B) generally. Prior to amendment, text read as follows: "TheSecretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph."
+Pub. L. 112–141, §32603(e), amended subpar. (B) generally. Prior to amendment, text read as follows: "The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph."
 
 Pub. L. 112–140, §§1(c), 202(e), temporarily substituted "and up to $22,040,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with te
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub.L. 110–244, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

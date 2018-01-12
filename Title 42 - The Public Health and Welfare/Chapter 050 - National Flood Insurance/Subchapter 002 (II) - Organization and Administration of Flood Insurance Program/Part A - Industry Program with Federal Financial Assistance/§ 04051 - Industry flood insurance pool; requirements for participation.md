@@ -1,6 +1,6 @@
 ### §4051. Industry flood insurance pool; requirements for participation
 
-(a) The Administrator is authorized to encourage and otherwise assist any insurance companies and other insurers which meet the requirements prescribed under subsection (b) of this section to form, associate, or otherwise join together in a pool—
+(a) The Administrator is authorized to encourage and otherwise assist any insurance companies and other insurers which meet the requirements prescribed under subsection (b) to form, associate, or otherwise join together in a pool—
 
 &emsp;(1) in order to provide the flood insurance coverage authorized under subchapter I; and
 
@@ -23,6 +23,10 @@ Subsec. (a)(2). Pub. L. 112–141, §100232(d)(1), inserted ", including as rei
 Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

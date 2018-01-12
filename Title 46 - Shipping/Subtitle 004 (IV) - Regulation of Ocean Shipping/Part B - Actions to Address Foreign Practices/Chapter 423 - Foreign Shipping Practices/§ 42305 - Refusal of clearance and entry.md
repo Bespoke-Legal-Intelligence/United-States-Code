@@ -6,7 +6,7 @@ Subject to section 42306 of this title, whenever the Federal Maritime Commission
 
 &emsp;(2) the Secretary of the department in which the Coast Guard is operating shall—
 
-&emsp;&emsp;(A) deny entry, for purposes of oceanborne trade, of a vessel of a foreign carrier that is identified by the Commission under section 42304 of this title, to a port or place in the United States or the navigable waters of the United States; or
+&emsp;&emsp;(A) deny entry, for purposes of oceanborne trade, of a vessel of a foreign carrier that isidentified by the Commission under section 42304 of this title, to a port or place in the United States or the navigable waters of the United States; or
 
 &emsp;&emsp;(B) detain the vessel at the port or place in the United States from which it is about to depart for another port or place in the United States.
 

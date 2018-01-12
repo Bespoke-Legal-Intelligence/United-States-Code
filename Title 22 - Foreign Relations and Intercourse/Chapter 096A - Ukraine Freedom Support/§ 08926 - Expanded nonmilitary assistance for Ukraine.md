@@ -26,7 +26,7 @@
 
 #### (3) Assistance through international organizations
 
-&emsp;The President shall instruct the United States permanent representative or executive director, as the case may be, to the relevant United Nations voluntary agencies, including the United Nations High Commissioner for Refugees and the United Nations Office for the Coordination of Humanitarian Affairs, and other appropriate international organizations, to use the voice and vote of the United States to support appropriate assistance for internally displaced persons in Ukraine.
+&emsp;The President shall instruct the United States permanent representative or executive director, as the case may be, to the relevant United Nations voluntary agencies, including the United Nations High Commissioner for Refugees and the United Nations Office for theCoordination of Humanitarian Affairs, and other appropriate international organizations, to use the voice and vote of the United States to support appropriate assistance for internally displaced persons in Ukraine.
 
 #### (b) Assistance to the defense sector of Ukraine
 
@@ -102,7 +102,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 #### (D) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2016 through 2018 to carry out activities under this paragraph.
+&emsp;&emsp;There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years2016 through 2018 to carry out activities under this paragraph.
 
 #### (3) Support from the Overseas Private Investment Corporation
 

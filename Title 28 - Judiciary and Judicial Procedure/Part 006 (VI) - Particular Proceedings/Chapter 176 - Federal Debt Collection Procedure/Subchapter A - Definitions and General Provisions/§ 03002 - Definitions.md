@@ -42,7 +42,7 @@ As used in this chapter:
 
 &emsp;(13) "Security agreement" means an agreement that creates or provides for a lien.
 
-&emsp;(14) "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, or any territory or possession of the United States.
+&emsp;(14) "State" means any of the several States, the District of Columbia, the Commonwealthof Puerto Rico, the Commonwealth of the Northern Marianas, or any territory or possession of the United States.
 
 &emsp;(15) "United States" means—
 
@@ -59,4 +59,8 @@ As used in this chapter:
 #### References in Text
 
 Section 303 of the Consumer Credit Protection Act, referred to in par. (9), is classified to section 1673 of Title 15, Commerce and Trade.
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 

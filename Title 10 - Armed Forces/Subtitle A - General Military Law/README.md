@@ -13,9 +13,15 @@
 | [<b>7.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20007%20-%20Boards%2C%20Councils%2C%20and%20Committees/README.md) | <b>Boards, Councils, and Committees</b> | <b>171</b> |
 | [<b>8.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md) | <b>Defense Agencies and Department of Defense Field Activities</b> | <b>191</b> |
 | [<b>9.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
+| [<b>9A.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009A%20-%20Audit/README.md) | <b>Audit</b> | <b>251 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>11.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
 | [<b>12.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20012%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>246</b> |
-| [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251</b> |
+| [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251 </b><b><sup>1</sup></b> |
 | [<b>14.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
 | [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
 | [<b>16.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
@@ -98,7 +104,7 @@
 | [<b>109.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
-| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
+| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program </b><b><sup>2</sup></b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,7 +125,7 @@
 | [<b>142.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20142%20-%20Procurement%20Technical%20Assistance%20Cooperative%20Agreement%20Program/README.md) | <b>Procurement Technical Assistance Cooperative Agreement Program</b> | <b>2411</b> |
 | [<b>143.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
 | [<b>144.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Major Defense Acquisition Programs</b> | <b>2430</b> |
-| [<b>144A.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20144A%20-%20Major%20Automated%20Information%20System%20Programs/README.md) | <b>Major Automated Information System Programs</b> | <b>2445a</b> |
+| <b>\[144A.</b> | <b>Repealed.\]</b> |  |
 | [<b>144B.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20144B%20-%20Weapon%20Systems%20Development%20and%20Related%20Matters/README.md) | <b>Weapon Systems Development and Related Matters</b> | <b>2446a</b> |
 | [<b>145.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md) | <b>Cataloging and Standardization</b> | <b>2451</b> |
 | [<b>146.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
@@ -144,15 +150,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided that, effective Sept. 30, 2017, this analysis is amended by striking the item for chapter 144A. See 2016 Amendment note below.</i>
-
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item for chapter 144A "Major Automated Information System Programs".
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 
-Pub. L. 114–328, div. A, title VIII, §805(a)(2), title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2255, 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added items for chapters 16 and 144B.
+Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §846(2), title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2292, 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", added item for chapter 16, and struck out item for chapter 144A "Major Automated Information System Programs".
+
+Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
@@ -182,7 +188,7 @@ Pub. L. 109–364, div. A, title VIII, §816(a)(2), title X, §1076(a)(4)(A), di
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted "Deceased Personnel" for "Death Benefits" and "1471" for "1475" in item for chapter 75.
 
-<b>1997</b>—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted "481" for "471" in item for chapter 23, added items for chapters 80 and 136, and substituted "2460" for "2461" in item for chapter 146, "Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities" for "Utilities and Services" in item for chapter 147, "2500" for "2491" in item for chapter 148, and "2541" for "2540" in item for chapter 152.
+<b>1997</b>—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted "481" for "471" in item for chapter 23, added items for chapters 80 and 136, and substituted "2460" for "2461" in item for chapter 146, "Commissaries and Exchanges and Other Morale, Welfare,and Recreation Activities" for "Utilities and Services" in item for chapter 147, "2500" for "2491" in item for chapter 148, and "2541" for "2540" in item for chapter 152.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title XI, §1123(a)(1), (2), title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted "National Imagery and Mapping Agency" for "Miscellaneous Studies and Reports" and "441" for "451" in item for chapter 22, added item for chapter 23, substituted "Civilian Defense Intelligence Employees" for "Defense Intelligence Agency and Central Imagery Office Civilian Personnel" in item for chapter 83, and struck out item for chapter 167 "Defense Mapping Agency".
 
@@ -240,7 +246,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 
 Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
-<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirement of Warrant Officers" for "Retirement" in item for chapter 65, substituted "1370" for "1371" as section number in item for chapter 69, amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay", and capitalized "Assistance", "Persons", "Enlisting", "Active", and "Duty" in item for chapter 107.
+<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirementof Warrant Officers" for "Retirement" in item for chapter 65, substituted "1370" for "1371" as section number in item for chapter 69, amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay", and capitalized "Assistance", "Persons", "Enlisting", "Active", and "Duty" in item for chapter 107.
 
 Pub. L. 96–450, title IV, §406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
 
@@ -269,6 +275,10 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 <b>1961</b>—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted "Retired Serviceman's Family Protection Plan" for "Annuities Based on Retired or Retainer Pay" in item for chapter 73.
 
 <b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
+
+<i><sup>1</sup></i><i> So in original. Chapters 9A and 13 both begin with a section 251.</i>
+
+<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of subtitle analysis.</i>
 
 
 ---

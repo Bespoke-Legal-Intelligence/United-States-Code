@@ -48,7 +48,7 @@ Any State plan submitted under this subchapter may include, at the option of the
 
 &emsp;(B) comparisons of the relative costs of energy recovered from municipal waste in relation to the costs of energy derived from fossil fuels and other sources;
 
-&emsp;(C) studies of the transportation and storage problems and other problems associated withthe development of energy and materials recovery technology, including curbside source separation;
+&emsp;(C) studies of the transportation and storage problems and other problems associated with the development of energy and materials recovery technology, including curbside source separation;
 
 &emsp;(D) the evaluation and establishment of priorities among ways of conserving energy or materials which contribute to the waste stream;
 

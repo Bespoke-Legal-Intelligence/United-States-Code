@@ -96,7 +96,7 @@ To be eligible to receive a supplemental grant under section 15061(b) of this ti
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under this part may not bemore than 75 percent of the necessary cost of such project, as determined by the Secretary.
+&emsp;The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under this part may not be more than 75 percent of the necessary cost of such project, as determined by the Secretary.
 
 #### (2) Urban or rural poverty areas
 

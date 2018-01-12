@@ -44,7 +44,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 (c)
 
-Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
+Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations toprovide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
 
 (2) In the case of a member who becomes (or will become) eligible for continued coverage under subsection (b)(1) or subsection (b)(2), the regulations shall provide for the Secretary concerned to notify the member of the member's rights under this section as part of preseparation counseling conducted under section 1142 of this title or any other provision of other law.
 
@@ -88,7 +88,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;&emsp;(B) such other date as the Secretary of Defense may prescribe.
 
-&emsp;(5) In the case of a person described in subsection (b)(5), by such date as the Secretaryshall prescribe in the regulations required for purposes of that subsection.
+&emsp;(5) In the case of a person described in subsection (b)(5), by such date as the Secretary shall prescribe in the regulations required for purposes of that subsection.
 
 (e)
 
@@ -108,7 +108,7 @@ Charges.—(1) Under arrangements satisfactory to the Secretary of Defense, a pe
 
 Period of Continued Coverage.—(1) Continued coverage under this section may not extend beyond—
 
-&emsp;(A) in the case of a member described in subsection (b)(1), the date which is 18 months after the date the member ceases to be entitled to care under section 1074(a) of this title and any transitional care under section 1145 of this title, as the case may be;
+&emsp;(A) in the case of a member described in subsection (b)(1), the date which is 18 months after the date the member ceases to be entitled to care under section 1074(a) of this titleand any transitional care under section 1145 of this title, as the case may be;
 
 &emsp;(B) in the case of a member described in subsection (b)(2), the date which is 18 months after the date the member ceases to be eligible to enroll in TRICARE Reserve Select;
 

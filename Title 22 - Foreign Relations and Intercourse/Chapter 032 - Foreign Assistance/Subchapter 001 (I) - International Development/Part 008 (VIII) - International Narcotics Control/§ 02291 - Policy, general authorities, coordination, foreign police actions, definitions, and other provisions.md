@@ -32,7 +32,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing contained in this subsection or section 2291h(b) of this title shall be construed tolimit or impair the authority or responsibility of any other Federal agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
+&emsp;Nothing contained in this subsection or section 2291h(b) of this title shall be construed to limit or impair the authority or responsibility of any other Federal agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
 
 #### (c) Participation in foreign police actions
 
@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -124,7 +124,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(7) the term "major money laundering country" means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking; and
 
-&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations ofthe House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 (Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
@@ -236,7 +236,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 "(C) The report shall also include information on multilateral and bilateral strategies pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering.
 
-"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy withrespect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 "(E) As used in this paragraph, the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking."
 
@@ -314,7 +314,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 <b>1987</b>—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted "in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and," after "on its own,", and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated formercls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted "in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and," after "on its own,", and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting "45" for "30", was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -454,13 +454,13 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 "(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdictionover companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
 "(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
 "(b)
 
-Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
+Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee ofthe Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
 
 "(c)
 
@@ -594,7 +594,7 @@ Pub. L. 99–570, title II, §2029, Oct. 27, 1986, 100 Stat. 3207–72, directed
 
 Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
-"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shallbe paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
+"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shall be paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
 
 "(b) This section shall apply to pay periods beginning on or after October 1, 2001."
 
@@ -686,7 +686,7 @@ Pub. L. 97–113, title V, §502(a)(2)–(4), Dec. 29, 1981, 95 Stat. 1539, prov
 
 "(3) Funds appropriated for the fiscal year 1980 to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] which were obligated for assistance for the Republic of Colombia may be used for purposes other than those set forth in section 482(a)(2) of that Act \[22 U.S.C. 2291a\] as in effect immediately before the enactment of the International Security and Development Cooperation Act of 1980 \[Dec. 16, 1980\].
 
-"(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds describedin those paragraphs are authorized to be made available for the purposes specified in those paragraphs."
+"(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds described in those paragraphs are authorized to be made available for the purposes specified in those paragraphs."
 
 #### United States Citizens Imprisoned in Mexico
 

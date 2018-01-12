@@ -48,7 +48,7 @@ Assistance under this section may include assistance provided for activities ide
 
 #### (3) Treatment of actions
 
-&emsp;An action taken by the Secretary under this subsection with respect to a revolving loan fund shall not constitute a new obligation if all grant funds associated with the original grant award have been disbursed to the recipient.
+&emsp;An action taken by the Secretary under this subsection with respect to a revolving loan fund shall not constitute a new obligation ifall grant funds associated with the original grant award have been disbursed to the recipient.
 
 #### (4) Preservation of securities laws
 
@@ -83,4 +83,8 @@ In general.—Subject to paragraph (2), an eligible recipient of a grant under t
 "(2)
 
 Limitation.—Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity."
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

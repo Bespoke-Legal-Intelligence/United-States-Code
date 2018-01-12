@@ -41,10 +41,13 @@ Subpart D—Business Related Credits
 | [45P.](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md) | Employer wage credit for employees who are active duty members of the uniformed services. |
 | [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
 | [45R.](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md) | Employee health insurance expenses of small employers. |
+| [45S.](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md) | Employer credit for paid family and medical leave. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13403(d)(3), Dec. 22, 2017, 131 Stat. 2138, added item 45S.
 
 <b>2010</b>—Pub. L. 111–148, title I, §1421(e), Mar. 23, 2010, 124 Stat. 242, added item 45R.
 
@@ -124,3 +127,4 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045P - Employer wage credit for employees who are active duty members of the uniformed services](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md)
 - [&sect; 00045Q - Credit for carbon dioxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md)
 - [&sect; 00045R - Employee health insurance expenses of small employers](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md)
+- [&sect; 00045S - Employer credit for paid family and medical leave](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md)

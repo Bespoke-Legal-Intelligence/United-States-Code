@@ -16,7 +16,7 @@ The value of benefits that may be provided under this chapter shall not be consi
 
 (3)
 
-Optional combined allotment for expedited households.—A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotment of the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in thecase of a household that is entitled to expedited service.
+Optional combined allotment for expedited households.—A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotment of the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in the case of a household that is entitled to expedited service.
 
 #### (d) Reduction of public assistance benefits
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amendment by section 1732 of Pub.L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a), (b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
+Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amendment by section 1732 of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a), (b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1988 Amendments
 

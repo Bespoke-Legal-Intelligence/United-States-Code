@@ -15,3 +15,4 @@
 - [&sect; 03317 - Public-private contributions for additional educational assistance](%C2%A7%2003317%20-%20Public-private%20contributions%20for%20additional%20educational%20assistance.md)
 - [&sect; 03318 - Additional assistance relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program&#8230;](%C2%A7%2003318%20-%20Additional%20assistance%20relocation%20or%20travel%20assistance%20for%20individual%20relocating%20or%20traveling%20significant%20distance%20for%20pursuit%20of%20a%20program%E2%80%A6.md)
 - [&sect; 03319 - Authority to transfer unused education benefits to family members](%C2%A7%2003319%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members.md)
+- [&sect; 03320 - Edith Nourse Rogers STEM Scholarship](%C2%A7%2003320%20-%20Edith%20Nourse%20Rogers%20STEM%20Scholarship.md)

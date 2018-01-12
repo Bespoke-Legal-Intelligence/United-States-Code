@@ -100,7 +100,7 @@ Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
 <b>2000</b>—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection\(a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 

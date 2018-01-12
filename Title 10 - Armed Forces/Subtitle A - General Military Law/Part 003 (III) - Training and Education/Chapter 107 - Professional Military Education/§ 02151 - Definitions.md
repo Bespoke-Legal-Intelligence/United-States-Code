@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Professional Military Education.—Joint professional military education consists of the rigorous and thorough instruction and examination of officers of the armed forces in an environment designed to promote a theoretical and practical in-depth understanding of joint matters and, specifically, of the subject matter covered. The subject matter to be covered by joint professional military education shall include at least the following:
+Joint Professional Military Education.—Joint professional military educationconsists of the rigorous and thorough instruction and examination of officers of the armed forces in an environment designed to promote a theoretical and practical in-depth understanding of joint matters and, specifically, of the subject matter covered. The subject matter to be covered by joint professional military education shall include at least the following:
 
 &emsp;(1) National Military Strategy.
 

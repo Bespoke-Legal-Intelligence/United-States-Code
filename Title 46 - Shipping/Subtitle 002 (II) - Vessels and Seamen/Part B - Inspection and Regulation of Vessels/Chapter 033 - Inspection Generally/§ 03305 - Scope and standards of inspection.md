@@ -106,3 +106,7 @@ Subsec. (a)(4) to (6). Pub. L. 108–293, §416(a), added par. (4) and redesigna
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted "lifesaving" and "life preserver, lifesaving device, or firehose" for "life-saving" and "life preserver or firehose", respectively.
 
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+

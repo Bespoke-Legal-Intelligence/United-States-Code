@@ -38,7 +38,7 @@ The Secretary may permit timber harvesting in the recreation area for commercial
 
 #### (h) Grazing
 
-The Secretary may permit grazing within the recreation area in accordance with regulations prescribed by the Secretary. Riparian areas shall be managed in such a manner as to protect their important resource values.
+The Secretary may permit grazing within the recreation area in accordance with regulationsprescribed by the Secretary. Riparian areas shall be managed in such a manner as to protect their important resource values.
 
 #### (i) Transportation plan
 

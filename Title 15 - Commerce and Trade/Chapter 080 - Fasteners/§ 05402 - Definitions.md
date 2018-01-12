@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) has been accredited by a laboratory accreditation body that meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under section 5411a(d) of this title), including revisions from time-to-time;
 
-&emsp;(2) "consensus standard" means the provisions of a document that describes fastener characteristics published by a consensus standards organization or a Federal agency, and does not include a proprietary standard;
+&emsp;(2) "consensus standard" means the provisions of a document that describes fastener characteristics published by a consensusstandards organization or a Federal agency, and does not include a proprietary standard;
 
 &emsp;(3) "consensus standards organization" means the American Society for Testing and Materials, the American National Standards Institute, the American Society of Mechanical Engineers, the Society of Automotive Engineers, the International Organization for Standardization, any other organization identified as a United States consensus standards organization or a foreign and international consensus standards organization in the Federal Register at 61 Fed. Reg. 50582–83 (September 26, 1996), and any successor organizations thereto;
 
@@ -92,7 +92,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(D) the nominal dimensions of the fastener (including diameter and length of bolts or screws), thread form, and class of fit;
 
-&emsp;&emsp;(E) the consensus standard or specifications to which the lot of fasteners has been manufactured, including the date, number,revision, and other information sufficient to identify the particular consensus standard or specifications being referenced;
+&emsp;&emsp;(E) the consensus standard or specifications to which the lot of fasteners has been manufactured, including the date, number, revision, and other information sufficient to identify the particular consensus standard or specifications being referenced;
 
 &emsp;&emsp;(F) the chemistry and grade of material;
 

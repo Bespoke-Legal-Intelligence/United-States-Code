@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(3) the contribution of these programs to their communities is thereby diminished, resulting in fewer and higher cost programs than would be obtainable if volunteers were participating;
 
-&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope, depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
+&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope,depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
 
 &emsp;(5) services and goods provided by volunteers and nonprofit organizations would often otherwise be provided by private entities that operate in interstate commerce;
 

@@ -6,7 +6,7 @@
 
 (c) The Secretary may arrange with an educational institution in which a participant in the Scholarship Program is enrolled for the payment to the educational institution of the amounts of tuition and other reasonable educational expenses described in subsection (a) of this section. Such payments may be made without regard to subsections (a) and (b) of section 3324 of title 31.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 521, §4313; renumbered §7613 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 521, §4313; renumbered §7613 andamended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

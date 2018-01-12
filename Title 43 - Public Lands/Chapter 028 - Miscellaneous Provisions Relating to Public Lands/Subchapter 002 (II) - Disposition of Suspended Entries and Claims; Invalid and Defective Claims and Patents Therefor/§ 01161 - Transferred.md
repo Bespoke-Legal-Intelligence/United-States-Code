@@ -1,0 +1,6 @@
+### §1161. Transferred
+
+#### Codification
+
+Section 1161 was editorially reclassified as section 2501 of this title.
+

@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 &emsp;(C) any claim filed on or before the effective date of regulations promulgated under this subsection by the Secretary of Labor;
 
-> shall not be more restrictive than the criteria applicable to a claim filed on June 30, 1973, whether or not the final disposition of any suchclaim occurs after the date of such promulgation of regulations by the Secretary of Labor.
+> shall not be more restrictive than the criteria applicable to a claim filed on June 30, 1973, whether or not the final disposition of any such claim occurs after the date of such promulgation of regulations by the Secretary of Labor.
 
 (g) The term "child" means a child or a step-child who is—
 
@@ -80,7 +80,7 @@ Subsec. (i)(1). Pub. L. 107–275, §2(b)(1)(D), amended par. (1) generally. Pri
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–296 substituted "where used in part C means the Secretary of Labor" for "where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor".
 
-<b>1986</b>—Subsecs. (h), (i). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+<b>1986</b>—Subsecs. (h), (i). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification wastranslated as "title 26" thus requiring no change in text.
 
 <b>1981</b>—Subsec. (h). Pub. L. 97–119, §104(b)(1), substituted "by section 9501 of title 26" for "in section 934a(a)(1) of this title".
 
@@ -114,7 +114,7 @@ Pub. L. 107–275, §4, Nov. 2, 2002, 116 Stat. 1928, provided that: "This Act \
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1981 Amendment
 

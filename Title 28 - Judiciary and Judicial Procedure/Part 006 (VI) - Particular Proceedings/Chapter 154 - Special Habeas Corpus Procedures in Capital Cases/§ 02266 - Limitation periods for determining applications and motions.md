@@ -1,6 +1,6 @@
 ### §2266. Limitation periods for determining applications and motions
 
-(a) The adjudication of any application under section 2254 that is subject to this chapter, and the adjudication of any motion under section 2255 by a person under sentence of death, shall be given priority by the district court and by the court of appeals over all noncapital matters.
+(a) The adjudication of any application under section 2254 that is subject to this chapter, andthe adjudication of any motion under section 2255 by a person under sentence of death, shall be given priority by the district court and by the court of appeals over all noncapital matters.
 
 (b)(1)(A) A district court shall render a final determination and enter a final judgment on any application for a writ of habeas corpus brought under this chapter in a capital case not later than 450 days after the date on which the application is filed, or 60 days after the date on which the case is submitted for decision, whichever is earlier.
 
@@ -71,4 +71,8 @@
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2006, with special rule for certain cases pending on that date, see section 507(d) of Pub. L. 109–177, set out as a note under section 2251 of this title.
+
+#### Effective Date
+
+Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under section 2261 of this title.
 

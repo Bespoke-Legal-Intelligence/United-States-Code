@@ -20,7 +20,7 @@ The Secretary, acting through the National Center for Injury Prevention and Cont
 
 #### (b) Collection and dissemination of information on sexual assault
 
-The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information,policy, training, and technical assistance to Federal, State, local, and Indian tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
+The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information, policy, training, and technical assistance to Federal, State, local, and Indian tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
 
 #### (c) Authorization of appropriations
 
@@ -54,7 +54,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### Codification
 
-Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of "the section 393B (42 U.S.C. 280b–1c)" of act July 1, 1944, "relating to the use of allotments for rape prevention education" as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.
+Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of "the section 393B (42 U.S.C. 280b–1c)" of act July 1, 1944, "relating to the use of allotments for rape prevention education" as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisionsto this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.
 
 #### Prior Provisions
 

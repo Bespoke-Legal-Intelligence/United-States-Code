@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this chapter.
+&emsp;A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall benominated by and be representatives of Indian tribes with funding agreements under this chapter.
 
 #### (2) Requirements
 

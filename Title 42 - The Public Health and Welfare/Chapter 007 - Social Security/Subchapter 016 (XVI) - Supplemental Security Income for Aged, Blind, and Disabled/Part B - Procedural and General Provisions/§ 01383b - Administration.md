@@ -6,7 +6,7 @@ Subject to subsection (b), the Commissioner of Social Security may make such adm
 
 #### (b) Examination to determine blindness
 
-In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
+In determining, for purposes of this subchapter, whether an individual is blind, thereshall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
 
 #### (c) Notification of review
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 93–66, §214(3), added subsec. (b).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -82,7 +82,7 @@ For provisions requiring the Secretary to institute the system of notification r
 
 #### Federal Program of Supplemental Security Income; Preference for Present State and Local Employees
 
-Pub. L. 93–66, title II, §213, July 9, 1973, 87 Stat. 158, provided that: "The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program."
+Pub. L. 93–66, title II, §213, July 9, 1973, 87 Stat. 158, provided that: "The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] and are or were involuntarily displacedfrom their employment as a result of the displacement of such State program by such Federal program."
 
 #### Application to Northern Mariana Islands
 

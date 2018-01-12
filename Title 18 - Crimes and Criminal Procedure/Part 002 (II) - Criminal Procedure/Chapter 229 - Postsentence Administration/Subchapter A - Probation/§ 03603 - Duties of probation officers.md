@@ -14,7 +14,7 @@ A probation officer shall—
 
 &emsp;(6) upon request of the Attorney General or his designee, assist in the supervision of and furnish information about, a person within the custody of the Attorney General while on work release, furlough, or other authorized release from his regular place of confinement, or while in prerelease custody pursuant to the provisions of section 3624(c);
 
-&emsp;(7) keep informed concerning the conduct, condition, and compliance with any conditionof probation, including the payment of a fine or restitution of each probationer under his supervision and report thereon to the court placing such person on probation and report to the court any failure of a probationer under his supervision to pay a fine in default within thirty days after notification that it is in default so that the court may determine whether probation should be revoked;
+&emsp;(7) keep informed concerning the conduct, condition, and compliance with any condition of probation, including the payment of a fine or restitution of each probationer under his supervision and report thereon to the court placing such person on probation and report to the court any failure of a probationer under his supervision to pay a fine in default within thirty days after notification that it is in default so that the court may determine whether probation should be revoked;
 
 &emsp;(8)(A) when directed by the court, and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person's conduct and condition to the court ordering release and to the Attorney General or his designee; and
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §15(b), Nov. 10, 1986, 100 Stat. 3595, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3603 of title 18, United States Code \[Nov. 1, 1987\]."
+Pub. L. 99–646, §15(b), Nov. 10, 1986, 100 Stat. 3595, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of the taking effect of section 3603 of title 18, United States Code \[Nov. 1, 1987\]."
 
 #### Effective Date
 

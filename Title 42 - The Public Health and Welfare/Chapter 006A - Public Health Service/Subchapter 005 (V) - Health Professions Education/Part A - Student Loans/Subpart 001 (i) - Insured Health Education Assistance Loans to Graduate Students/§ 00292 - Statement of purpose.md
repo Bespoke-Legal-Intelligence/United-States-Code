@@ -22,7 +22,7 @@ Pub. L. 113–76, div. H, title V, §525, Jan. 17, 2014, 128 Stat. 413, provided
 
 "(a)
 
-In General.—The Health Education Assistance Loan ('HEAL') program under title VII, part A, subpart I of the PHS \[Public Health Service\] Act \[42 U.S.C. 292et seq.\], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act \[Jan. 17, 2014\].
+In General.—The Health Education Assistance Loan ('HEAL') program under title VII, part A, subpart I of the PHS \[Public Health Service\] Act \[42 U.S.C. 292 et seq.\], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act \[Jan. 17, 2014\].
 
 "(b)
 

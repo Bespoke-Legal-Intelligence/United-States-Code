@@ -38,7 +38,7 @@ For the purpose described in subsection (b), the Secretary shall, for each of fi
 
 #### (d) Appropriations
 
-For the purpose of allotments under subsection (a), there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015 and an additional $75,000,000 for each of fiscal years 2016 and 2017. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010).
+For the purpose of allotments under subsection (a), there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015 and an additional $75,000,000 for each of fiscal years 2016 and 2017. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall bemade on March 23, 2010, in the case of fiscal year 2010).
 
 (Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar. 23, 2010, 124 Stat. 352; Pub. L. 113–93, title II, §205, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §214(a), Apr. 16, 2015, 129 Stat. 152.)
 

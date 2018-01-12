@@ -46,7 +46,7 @@ Each such report shall include the following with respect to preceding <sup>1</
 
 #### (d) Exclusions
 
-The countries excluded under subsection (a) are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece,Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
+The countries excluded under subsection (a) are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
 
 #### (e) Classification of report
 

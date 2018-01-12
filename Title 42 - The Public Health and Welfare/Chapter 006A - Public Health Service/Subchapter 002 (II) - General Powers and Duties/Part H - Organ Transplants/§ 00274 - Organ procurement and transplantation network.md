@@ -58,7 +58,7 @@ Clarification.—In adopting and using standards of quality under paragraph (2)(
 
 &emsp;(A) are infected with HIV before receiving such organ; and
 
-&emsp;(B)(i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulationsdescribed in subsections (a) and (b) of section 274f–5 of this title; or
+&emsp;(B)(i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title; or
 
 &emsp;(ii) if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title.
 
@@ -100,7 +100,7 @@ Subsec. (b)(2)(K), (L). Pub. L. 101–616, §202(b)(2)–(4), added subpars. (K)
 
 <b>1988</b>—Subsec. (b)(2)(B), (C). Pub. L. 100–607, §403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted "organs" for "organs which cannot be placed within the service areas of the organizations". Former subpar. (D) redesignated (E).
+Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted "organs" for "organs which cannot be placed within theservice areas of the organizations". Former subpar. (D) redesignated (E).
 
 Subsec. (b)(2)(E). Pub. L. 100–607, §403(a)(1), (3), redesignated former subpar. (D) as (E) and inserted "including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome," after "organs,". Former subpar. (E) redesignated (F).
 

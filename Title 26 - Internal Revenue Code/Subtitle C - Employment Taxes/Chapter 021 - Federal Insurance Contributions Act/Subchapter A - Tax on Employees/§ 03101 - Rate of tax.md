@@ -22,9 +22,9 @@ In addition to other taxes, there is hereby imposed on the income of every indiv
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
-During any period in which there is in effect an agreement entered into pursuant to section233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
+During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, §202(b), 70 Stat. 845; Pub. L. 85–840, title IV, §401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(5), title III, §321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, §109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, §204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, §204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, §135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(1), (b)(1), title III, §317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, §123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(a)(1), title X, §10906(a), Mar. 23, 2010, 124 Stat. 870, 1020; Pub. L. 111–152, title I, §1402(b)(1)(A), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §221(a)(99)(A), Dec. 19, 2014, 128 Stat. 4051.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, §202(b), 70 Stat. 845; Pub. L. 85–840, title IV, §401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(5), title III, §321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, §109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, §204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, §204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, §135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L.95–216, title I, §101(a)(1), (b)(1), title III, §317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, §123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(a)(1), title X, §10906(a), Mar. 23, 2010, 124 Stat. 870, 1020; Pub. L. 111–152, title I, §1402(b)(1)(A), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §221(a)(99)(A), Dec. 19, 2014, 128 Stat. 4051.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Subsec. (b)(6). Pub. L. 93–233, §6(b)(2), incorporated former provision of pa
 
 <b>1972</b>—Subsec. (a)(3). Pub. L. 92–603, §135(a)(2)(A), substituted "the calendar years 1971 and 1972" for "any of the calendar years 1971 through 1977".
 
-Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(2), substituted "any of the calendar years 1971 through 1977"for "the calendar years 1971 and 1972" in par. (3), "any of the calendar years 1978 through 2010" for "the calendar years 1973, 1974, and 1975" and "4.5" for "5.0" in par. (4), and "December 31, 2010" for "December 31, 1975" and "5.35" for "5.15" in par. (5).
+Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(2), substituted "any of the calendar years 1971 through 1977" for "the calendar years 1971 and 1972" in par. (3), "any of the calendar years 1978 through 2010" for "the calendar years 1973, 1974, and 1975" and "4.5" for "5.0" in par. (4), and "December 31, 2010" for "December 31, 1975" and "5.35" for "5.15" in par. (5).
 
 Subsec. (a)(4). Pub. L. 92–603, §135(a)(2)(B), substituted "wages received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;" for "wages paid during any of the calendar years 1978 through 2010, the rate shall be 4.5 per cent; and".
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 93–233 applicable only with respect to remuneration paid 
 
 Amendment by Pub. L. 92–603 applicable only with respect to remuneration paid after Dec. 31, 1972, see section 135(c) of Pub. L. 92–603, set out as a note under section 1401 of this title.
 
-Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid after December 31, 1972, see section 204(c) of Pub. L. 92–336, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid after December 31, 1972, seesection 204(c) of Pub. L. 92–336, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1971 Amendment
 

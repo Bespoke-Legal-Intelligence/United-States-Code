@@ -20,7 +20,7 @@ Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101�
 
 #### Authorization Approval for Funds Appropriated Before December 27, 1977, for Expenditures Through Fiscal Year Ending September 30, 1977
 
-Pub. L. 95–217, §3, Dec. 27, 1977, 91 Stat. 1566, provided that funds appropriated before Dec. 27, 1977 for expenditure during the fiscal year ending June 30, 1976, the transition quarter ending September 30, 1976, and the fiscal year ending September 30, 1977, under authority of this chapter were authorized for those purposes for which appropriated.
+Pub. L. 95–217, §3, Dec. 27, 1977, 91 Stat. 1566, provided that funds appropriated before Dec. 27, 1977 for expenditure during the fiscal year ending June 30, 1976, the transition quarter ending September 30, 1976, and the fiscal year ending September 30, 1977, under authorityof this chapter were authorized for those purposes for which appropriated.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

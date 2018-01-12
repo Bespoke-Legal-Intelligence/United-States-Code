@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) Projects to provide comprehensive asthma services to children in accordance with the guidelines of the National Asthma Education and Prevention Program (through the National Heart, Lung and Blood Institute), including access to care and treatment for asthma in a community-based setting.
 
-&emsp;&emsp;(B) Projects to fully equip mobile health care clinics that provide preventive asthma care including diagnosis, physical examinations, pharmacological therapy, skin testing, peak flow meter testing, and other asthma-related health care services.
+&emsp;&emsp;(B) Projects to fully equip mobile health care clinics that provide preventive asthmacare including diagnosis, physical examinations, pharmacological therapy, skin testing, peak flow meter testing, and other asthma-related health care services.
 
 &emsp;&emsp;(C) Projects to conduct validated asthma management education programs for patients with asthma and their families, including patient education regarding asthma management, family education on asthma management, and the distribution of materials, including displays and videos, to reinforce concepts presented by medical teams.
 
@@ -64,7 +64,7 @@ An eligible entity shall identify in the plan submitted as part of an applicatio
 
 #### (c) Evaluation
 
-An eligible entity that receives a grant under this section shall submit to the Secretary anevaluation of the operations and activities carried out under the grant that includes—
+An eligible entity that receives a grant under this section shall submit to the Secretary an evaluation of the operations and activities carried out under the grant that includes—
 
 &emsp;(1) a description of the health status outcomes of children assisted under the grant;
 

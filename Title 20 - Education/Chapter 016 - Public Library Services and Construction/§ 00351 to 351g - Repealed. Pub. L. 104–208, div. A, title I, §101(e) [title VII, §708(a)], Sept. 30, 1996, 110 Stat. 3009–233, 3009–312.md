@@ -1,6 +1,6 @@
 ### §§351 to 351g. Repealed. Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312
 
-Section 351, acts June 19, 1956, ch. 407, §2, 70 Stat. 293; Feb. 11, 1964, Pub. L. 88–269, §1(a)(1), 78 Stat. 11; July 19,1966, Pub. L. 89–511, §2, 80 Stat. 313; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; Oct. 7, 1977, Pub. L. 95–123, §4(a), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §102, 98 Stat. 2236, related to congressional declaration of policy.
+Section 351, acts June 19, 1956, ch. 407, §2, 70 Stat. 293; Feb. 11, 1964, Pub. L. 88–269, §1(a)(1), 78 Stat. 11; July 19, 1966, Pub. L. 89–511, §2, 80 Stat. 313; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; Oct. 7, 1977, Pub. L. 95–123, §4(a), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §102, 98 Stat. 2236, related to congressional declaration of policy.
 
 Section 351a, act June 19, 1956, ch. 407, §3, as added Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; amended Oct. 19, 1973, Pub. L. 93–133, §4(a), 87 Stat. 466; Oct. 7, 1977, Pub. L. 95–123, §4(b), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §103(a), (b)(1), 98 Stat. 2237; Nov. 22, 1985, Pub. L. 99–159, title III, §301, 99 Stat. 902; Mar. 15, 1990, Pub. L. 101–254, §§2, 16(a), 23(b), 104 Stat. 101, 105, 113; July 25, 1991, Pub. L. 102–73, title VIII, §802(e)(1), 105 Stat. 361, provided definitions for this chapter.
 

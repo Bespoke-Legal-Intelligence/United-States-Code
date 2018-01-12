@@ -1,6 +1,6 @@
 ### §4027. Savings provision
 
-By submitting or approving a plan under this subchapter, neither the tribe nor the Secretary shall be deemed to have accepted the account balance as accurate or to have waived any rights regarding such balance and to seek compensation.
+By submitting or approving a plan under this subchapter, neither the tribe nor the Secretary shall be deemed to have accepted the accountbalance as accurate or to have waived any rights regarding such balance and to seek compensation.
 
 (Pub. L. 103–412, title II, §207, Oct. 25, 1994, 108 Stat. 4243.)
 

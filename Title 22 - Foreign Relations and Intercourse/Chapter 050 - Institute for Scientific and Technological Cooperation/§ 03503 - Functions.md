@@ -44,7 +44,7 @@ The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (c), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963, as amended. Title V of the Act is classified generally to sections 2656a to 2656d of this title. For complete classification of this Act to the Code, see Tables.
 
-The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424,Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
+The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424, Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -53,6 +53,10 @@ The International Development and Food Assistance Act of 1978, referred to in su
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "they".</i>
 

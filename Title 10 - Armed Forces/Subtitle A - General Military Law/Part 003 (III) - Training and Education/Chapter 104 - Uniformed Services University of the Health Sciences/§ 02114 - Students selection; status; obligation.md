@@ -106,7 +106,7 @@ Pub. L. 104–201, div. A, title VII, §741(c), Sept. 23, 1996, 110 Stat. 2600, 
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VII, §732(b), Nov. 30, 1993, 107 Stat. 1697, provided that: "The amendments made by subsection (a) \[amending this section\] shall applywith respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\]."
+Pub. L. 103–160, div. A, title VII, §732(b), Nov. 30, 1993, 107 Stat. 1697, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\]."
 
 #### Effective Date of 1990 Amendment
 

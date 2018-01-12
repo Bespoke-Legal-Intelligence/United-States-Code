@@ -62,15 +62,7 @@ Consideration.—(1) As consideration for the conveyance of real or personal pro
 
 (g)
 
-Notice and Wait Requirements.—The Secretary of the Navy may not carry out a transaction authorized by this section until—
-
-&emsp;(1) the Secretary submits to the appropriate committees of Congress a notification of the transaction, including—
-
-&emsp;&emsp;(A) a detailed description of the transaction; and
-
-&emsp;&emsp;(B) a justification for the transaction specifying the manner in which the transaction will meet the purposes of this section; and
-
-&emsp;(2) a period of 30 calendar days has elapsed following the date on which the notification is received by those committees or, if earlier, a period of 20 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+Notice and Wait Requirements.—The Secretary of the Navy may carry out a transaction authorized by this section only after the end of the 20-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress notice of the transaction, including a detailed description of the transaction and a justification for the transaction specifying the manner in which the transaction will meet the purposes of this section.
 
 (h)
 
@@ -118,19 +110,21 @@ Scoring.—Nothing in this section shall be construed to waive the applicability
 
 (l)
 
-Property Support Service Defined.—In this section, the term 'property support service' means the following:
+Property Support Service Defined.—In this section, the term "property support service" means the following:
 
 &emsp;(1) Any utility service or other service listed in section 2686(a) of this title.
 
 &emsp;(2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(18), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–383, div. B, title XXVIII, §2803(c), Jan. 7, 2011, 124 Stat. 4459.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(18), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–383, div. B, title XXVIII, §2803(c), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(11), Dec. 12, 2017, 131 Stat. 1842.)
 
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–91 added subsec. (g) and struck out former subsec. (g) which set out notice and wait requirements for a transaction authorized by this section.
 
 <b>2011</b>—Subsec. (g)(2). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 20 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 

@@ -10,7 +10,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property anamount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -104,7 +104,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(ii) a lien for assessments,
 
-> &emsp;&emsp;made by a State or a political subdivision thereof attaches to property prior to the time when such taxes or assessments become due and payable, then such lien shall be treated as similar to a mortgage (within the meaning of subparagraph (A)) but only after such taxes or assessments become due and payable and the organization has had an opportunity to pay such taxes or assessments in accordance with State law.
+> &emsp;&emsp;made by a State or a political subdivision thereof attaches to property prior to the time when such taxes or assessments becomedue and payable, then such lien shall be treated as similar to a mortgage (within the meaning of subparagraph (A)) but only after such taxes or assessments become due and payable and the organization has had an opportunity to pay such taxes or assessments in accordance with State law.
 
 #### (3) Extension of obligations
 
@@ -176,7 +176,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(i) the price for the acquisition or improvement is not a fixed amount determined as of the date of the acquisition or the completion of the improvement;
 
-&emsp;&emsp;&emsp;(ii) the amount of any indebtedness or any other amount payable with respect to such indebtedness, or the time for making any payment of any such amount, is dependent, in whole or in part, upon any revenue, income, or profits derived from such real property;
+&emsp;&emsp;&emsp;(ii) the amount of any indebtedness or any other amount payable with respect tosuch indebtedness, or the time for making any payment of any such amount, is dependent, in whole or in part, upon any revenue, income, or profits derived from such real property;
 
 &emsp;&emsp;&emsp;(iii) the real property is at any time after the acquisition leased by the qualified organization to the person selling such property to such organization or to any person who bears a relationship described in section 267(b) or 707(b) to such person;
 
@@ -186,7 +186,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(II) bears a relationship which is described in subparagraph (F) or (H) of section 4975(e)(2) to any person described in subclause (I);
 
-&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organizationwith financing in connection with the acquisition or improvement; or
+&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organization with financing in connection with the acquisition or improvement; or
 
 &emsp;&emsp;&emsp;(vi) the real property is held by a partnership unless the partnership meets the requirements of clauses (i) through (v) and unless—
 
@@ -256,7 +256,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;For purposes of clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) gross income is described in this clause to the extent such income would (but for this paragraph) be treated under subsection (a) as derived from an unrelated trade or business, and
+&emsp;&emsp;&emsp;&emsp;(I) gross income is described in this clause to the extent such income would\(but for this paragraph) be treated under subsection (a) as derived from an unrelated trade or business, and
 
 &emsp;&emsp;&emsp;&emsp;(II) any deduction is described in this clause to the extent it would (but for this paragraph) be allowable under subsection (a)(2) in computing unrelated business taxable income.
 
@@ -270,7 +270,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (i) Small leases disregarded
 
-&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (orcomplex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
+&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (or complex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
 
 #### (ii) Commercially reasonable financing
 
@@ -330,7 +330,7 @@ For purposes of this section, the term "real property" includes personal propert
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525;Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
 #### References in Text
 
@@ -478,7 +478,7 @@ Pub. L. 100–203, title X, §10214(c), Dec. 22, 1987, 101 Stat. 1330–408, pro
 
 Amendment by section 201(d)(9) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) ofPub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1603(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1603(c) of Pub. L. 99–514, set out as a note under section 501 of this title.
 
@@ -562,5 +562,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transition Rule for Acquisition Indebtedness With Respect to Certain Land
 
-Pub. L. 99–514, title XVI, §1607, Oct. 22, 1986, 100 Stat. 2771, provided that: "For purposes of applying section 514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term 'acquisition indebtedness' does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code."
+Pub. L. 99–514, title XVI, §1607, Oct. 22, 1986, 100 Stat. 2771, provided that: "For purposes of applying section514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term 'acquisition indebtedness' does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code."
 

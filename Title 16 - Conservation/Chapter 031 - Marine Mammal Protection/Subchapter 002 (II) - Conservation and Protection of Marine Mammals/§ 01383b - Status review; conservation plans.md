@@ -8,7 +8,7 @@
 
 (3)(A) If the Secretary receives a petition for a status review as described in paragraph (1), the Secretary shall publish a notice in the Federal Register that such a petition has been received and is available for public review.
 
-(B) Within sixty days after receipt of the petition, the Secretary shall publish a finding in theFederal Register as to whether the petition presents substantial information indicating that the petitioned action may be warranted.
+(B) Within sixty days after receipt of the petition, the Secretary shall publish a finding in the Federal Register as to whether the petition presents substantial information indicating that the petitioned action may be warranted.
 
 (C) If the Secretary makes a positive finding under subparagraph (B), the Secretary shall include in the Federal Register notice, a finding that—
 

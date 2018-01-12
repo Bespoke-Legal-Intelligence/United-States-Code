@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the enactment of legislation before Congress or any State or local legislature or legislative body; or
 
-&emsp;&emsp;&emsp;(ii) any proposed or pending regulation, administrative action, or order issued by the executive branch of any State or local government.
+&emsp;&emsp;&emsp;(ii) any proposed or pending regulation, administrative action, or order issued bythe executive branch of any State or local government.
 
 #### (2) Exception
 

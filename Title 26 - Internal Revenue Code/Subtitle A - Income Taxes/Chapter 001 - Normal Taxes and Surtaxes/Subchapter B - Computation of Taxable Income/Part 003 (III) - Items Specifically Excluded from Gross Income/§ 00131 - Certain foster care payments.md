@@ -88,7 +88,7 @@ Subsec. (b)(3), (4). Pub. L. 107–147, §404(c), added par. (3) and redesignate
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Gross income shall not include amounts received by a foster parent during the taxable year as qualified foster care payments."
 
-Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, par. (1) "In general" read asfollows: "The term 'qualified foster care payment' means any amount—
+Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment, par. (1) "In general" read as follows: "The term 'qualified foster care payment' means any amount—
 
 &emsp;"(A) which is paid by a State or political subdivision thereof or by a child-placing agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and
 

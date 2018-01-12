@@ -46,7 +46,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 (1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
-(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation,basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
+(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
 (3) Such system shall provide for the collection and dissemination of such information not less often than annually.
 
@@ -106,9 +106,9 @@ Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted "(1)" before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
+Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and theyshall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
 
-Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization ofState and local law enforcement officers in event of mass influx of aliens arriving.
+Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
 Subsec. (a)(9). Pub. L. 104–208, §373(1), added at end par. (9) relating to Attorney General authority to support administrative detention of persons in non-Federal institutions.
 
@@ -192,7 +192,7 @@ Consultation.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United Statesto minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
+In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -303,7 +303,7 @@ Rates of pay.—
 
 Appointment.—
 
-&emsp;"(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 uponcompletion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
+&emsp;"(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 upon completion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
 
 &emsp;"(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
 
@@ -385,7 +385,7 @@ Sec. 2. <i>Membership and Operation</i>. (a) The Task Force shall be limited to 
 
 (xiii) such other officers of the United States as the Secretary may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(b) The Secretary shall convene and preside at meetings of the Task Force, direct its work, and as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of Task Force members. The Secretary shall designate an official ofthe Department to serve as the Executive Secretary of the Task Force, and the Executive Secretary shall head the staff assigned to the Task Force.
+(b) The Secretary shall convene and preside at meetings of the Task Force, direct its work, and as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of Task Force members. The Secretary shall designate an official of the Department to serve as the Executive Secretary of the Task Force, and the Executive Secretary shall head the staff assigned to the Task Force.
 
 Sec. 3. <i>Functions</i>. Consistent with applicable law, the Task Force shall:
 
@@ -418,6 +418,220 @@ Sec. 4. <i>Administration</i>. (a) To the extent permitted by law, the Departmen
 (d) This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its departments, agencies, entities, instrumentalities, officers, employees, agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13767. Border Security and Immigration Enforcement Improvements
+
+Ex. Ord. No. 13767, Jan. 25, 2017, 82 F.R. 8793, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act (8 U.S.C. 1101 <i>et seq</i>.) (INA), the Secure Fence Act of 2006 (Public Law 109–367) (Secure Fence Act), and the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208 Div. C) (IIRIRA), and in order to ensure the safety and territorial integrity of the United States as well as to ensure that the Nation's immigration laws are faithfully executed, I hereby order as follows:
+
+Section 1. <i>Purpose</i>. Border security is critically important to the national security of the United States. Aliens who illegally enter the United States without inspection or admission present a significant threat to national security and public safety. Such aliens have not been identified or inspected by Federal immigration officers to determine their admissibility to the United States. The recent surge of illegal immigration at the southern border with Mexico has placed a significant strain on Federal resources and overwhelmed agencies charged with border security and immigration enforcement, as well as the local communities into which many of the aliens are placed.
+
+Transnational criminal organizations operate sophisticated drug- and human-trafficking networks and smuggling operations on both sides of the southern border, contributing to a significant increase in violent crime and United States deaths from dangerous drugs. Among those who illegally enter are those who seek to harm Americans through acts of terror or criminal conduct. Continued illegal immigration presents a clear and present danger to the interests of the United States.
+
+Federal immigration law both imposes the responsibility and provides the means for the Federal Government, in cooperation with border States, to secure the Nation's southern border. Although Federal immigration law provides a robust framework for Federal-State partnership in enforcing our immigration laws—and the Congress has authorized and provided appropriations to secure our borders—the Federal Government has failed to discharge this basic sovereign responsibility. The purpose of this order is to direct executive departments and agencies (agencies) to deploy all lawful means to secure the Nation's southern border, to prevent further illegal immigration into the United States, and to repatriate illegal aliens swiftly, consistently, and humanely.
+
+Sec. 2. <i>Policy</i>. It is the policy of the executive branch to:
+
+(a) secure the southern border of the United States through the immediate construction of a physical wall on the southern border, monitored and supported by adequate personnel so as to prevent illegal immigration, drug and human trafficking, and acts of terrorism;
+
+(b) detain individuals apprehended on suspicion of violating Federal or State law, including Federal immigration law, pending further proceedings regarding those violations;
+
+(c) expedite determinations of apprehended individuals' claims of eligibility to remain in the United States;
+
+(d) remove promptly those individuals whose legal claims to remain in the United States have been lawfully rejected, after any appropriate civil or criminal sanctions have been imposed; and
+
+(e) cooperate fully with States and local law enforcement in enacting Federal-State partnerships to enforce Federal immigration priorities, as well as State monitoring and detention programs that are consistent with Federal law and do not undermine Federal immigration priorities.
+
+Sec. 3. <i>Definitions</i>. (a) "Asylum officer" has the meaning given the term in section 235(b)(1)(E) of the INA (8 U.S.C. 1225(b)(1)\[E\]).
+
+(b) "Southern border" shall mean the contiguous land border between the United States and Mexico, including all points of entry.
+
+(c) "Border States" shall mean the States of the United States immediately adjacent to the contiguous land border between the United States and Mexico.
+
+(d) Except as otherwise noted, "the Secretary" shall refer to the Secretary of Homeland Security.
+
+(e) "Wall" shall mean a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
+
+(f) "Executive department" shall have the meaning given in section 101 of title 5, United States Code.
+
+(g) "Regulations" shall mean any and all Federal rules, regulations, and directives lawfully promulgated by agencies.
+
+(h) "Operational control" shall mean the prevention of all unlawful entries into the United States, includingentries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
+
+Sec. 4. <i>Physical Security of the Southern Border of the United States</i>. The Secretary shall immediately take the following steps to obtain complete operational control, as determined by the Secretary, of the southern border:
+
+(a) In accordance with existing law, including the Secure Fence Act and IIRIRA, take all appropriate steps to immediately plan, design, and construct a physical wall along the southern border, using appropriate materials and technology to most effectively achieve complete operational control of the southern border;
+
+(b) Identify and, to the extent permitted by law, allocate all sources of Federal funds for the planning, designing, and constructing of a physical wall along the southern border;
+
+(c) Project and develop long-term funding requirements for the wall, including preparing Congressional budget requests for the current and upcoming fiscal years; and
+
+(d) Produce a comprehensive study of the security of the southern border, to be completed within 180 days of this order, that shall include the current state of southern border security, all geophysical and topographical aspects of the southern border, the availability of Federal and State resources necessary to achieve complete operational control of the southern border, and a strategy to obtain and maintain complete operational control of the southern border.
+
+Sec. 5. <i>Detention Facilities</i>. (a) The Secretary shall take all appropriate action and allocate all legally available resources to immediately construct, operate, control, or establish contracts to construct, operate, or control facilities to detain aliens at or near the land border with Mexico.
+
+(b) The Secretary shall take all appropriate action and allocate all legally available resources to immediately assign asylum officers to immigration detention facilities for the purpose of accepting asylum referrals and conducting credible fear determinations pursuant to section 235(b)(1) of the INA (8 U.S.C. 1225(b)(1)) and applicable regulations and reasonable fear determinations pursuant to applicable regulations.
+
+(c) The Attorney General shall take all appropriate action and allocate all legally available resources to immediately assign immigration judges to immigration detention facilities operated or controlled by the Secretary, or operated or controlled pursuant to contract by the Secretary, for the purpose of conducting proceedings authorized under title 8, chapter 12, subchapter II, United States Code.
+
+Sec. 6. <i>Detention for Illegal Entry</i>. The Secretary shall immediately take all appropriate actions to ensure the detention of aliens apprehended for violations of immigration law pending the outcome of their removal proceedings or their removal from the country to the extent permitted by law. The Secretary shall issue new policy guidance to all Department of Homeland Security personnel regarding the appropriate and consistent use of lawful detention authority under the INA, including the termination of the practice commonly known as "catch and release," whereby aliens are routinely released in the United States shortly after their apprehension for violations of immigration law.
+
+Sec. 7. <i>Return to Territory</i>. The Secretary shall take appropriate action, consistent with the requirements of section 1232 of title 8, United States Code, to ensure that aliens described in section 235(b)(2)(C) of the INA (8 U.S.C. 1225(b)(2)(C)) are returned to the territory from which they came pending a formal removal proceeding.
+
+Sec. 8. <i>Additional Border Patrol Agents</i>. Subject to available appropriations, the Secretary, through the Commissioner of U.S. Customs and Border Protection, shall take all appropriate action to hire 5,000 additional Border Patrol agents, and all appropriate action to ensure that such agents enter on duty and are assigned to duty stations as soon as is practicable.
+
+Sec. 9. <i>Foreign Aid Reporting Requirements</i>. The head of each executive department and agency shall identify and quantify all sources of direct and indirect Federal aid or assistance to the Government of Mexico on an annual basis over the past five years, including all bilateral and multilateral development aid, economic assistance, humanitarian aid, and military aid. Within 30 days of the date of this order, the head of each executive department and agency shall submit this information to the Secretary of State. Within 60 days of the date of this order, the Secretary shall submit to the President a consolidated report reflecting the levels of such aid and assistance that has been provided annually, over each of the past five years.
+
+Sec. 10. <i>Federal-State Agreements</i>. It is the policy of the executive branch to empower State and local law enforcement agencies across the country to perform the functions of an immigration officer in the interior of the United States to the maximum extent permitted by law.
+
+(a) In furtherance of this policy, the Secretary shall immediately take appropriate action to engage with the Governors of the States, as well as local officials, for the purpose of preparing to enter into agreements under section 287(g) of the INA (8 U.S.C. 1357(g)).
+
+(b) To the extent permitted by law, and with the consent of State or local officials, as appropriate, the Secretary shall take appropriate action, through agreements under section 287(g) of the INA, or otherwise, to authorize State and local law enforcement officials, as the Secretary determines are qualified and appropriate, to perform the functions of immigration officers in relation to the investigation, apprehension, or detention of aliens in the United States under the direction and the supervision of the Secretary. Such authorization shall be in addition to, rather than in place of, Federal performance of these duties.
+
+(c) To the extent permitted by law, the Secretary may structure each agreement under section 287(g) of the INA in the manner that provides the most effective model for enforcing Federal immigration laws and obtaining operational control over the border for that jurisdiction.
+
+Sec. 11. <i>Parole, Asylum, and Removal</i>. It is the policy of the executive branch to end the abuse of parole and asylum provisions currently used to prevent the lawful removal of removable aliens.
+
+(a) The Secretary shall immediately take all appropriate action to ensure that the parole and asylum provisions of Federal immigration law are not illegally exploited to prevent the removal of otherwise removable aliens.
+
+(b) The Secretary shall take all appropriate action, including by promulgating any appropriate regulations, to ensure that asylum referrals and credible fear determinations pursuant to section 235(b)(1) of the INA (8 U.S.C. 1125(b)(1)) and 8 CFR 208.30, and reasonable fear determinations pursuant to 8 CFR 208.31, are conducted in a manner consistent with the plain language of those provisions.
+
+(c) Pursuant to section 235(b)(1)(A)(iii)(I) of the INA, the Secretary shall take appropriate action to apply, in his sole and unreviewable discretion, the provisions of section 235(b)(1)(A)(i) and (ii) of the INA to the aliens designated under section 235(b)(1)(A)(iii)(II).
+
+(d) The Secretary shall take appropriate action to ensure that parole authority under section 212(d)(5) of the INA (8 U.S.C. 1182(d)(5)) is exercised only on a case-by-case basis in accordance with the plain language of the statute, and in all circumstances only when an individual demonstrates urgent humanitarian reasons or a significant public benefit derived from such parole.
+
+(e) The Secretary shall take appropriate action to require that all Department of Homeland Security personnel are properly trained on the proper application of section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (8 U.S.C. 1232) and section 462(g)(2) of the Homeland Security Act of 2002 (6 U.S.C. 279(g)(2)), to ensure that unaccompanied alien children are properly processed, receive appropriate care and placement while in the custody of the Department of Homeland Security, and, when appropriate, are safely repatriated in accordance with law.
+
+Sec. 12. <i>Authorization to Enter Federal Lands</i>. The Secretary, in conjunction with the Secretary of the Interior and any other heads of agencies as necessary, shall take all appropriate action to:
+
+(a) permit all officers and employees of the United States, as well as all State and local officers as authorized by the Secretary, to have access to all Federal lands as necessary and appropriate to implement this order; and
+
+(b) enable those officers and employees of the United States, as well as all State and local officers as authorized by the Secretary, to perform such actions on Federal lands as the Secretary deems necessary and appropriate to implement this order.
+
+Sec. 13. <i>Priority Enforcement</i>. The Attorney General shall take all appropriate steps to establish prosecution guidelines and allocate appropriate resources to ensure that Federal prosecutors accord a high priority to prosecutions of offenses having a nexus to the southern border.
+
+Sec. 14. <i>Government Transparency</i>. The Secretary shall, on a monthly basis and in a publicly available way, report statistical data on aliens apprehended at or near the southern border using a uniform method of reporting by all Department of Homeland Security components, in a format that is easily understandable by the public.
+
+Sec. 15. <i>Reporting</i>. Except as otherwise provided in this order, the Secretary, within 90 days of the date of this order, and the Attorney General, within 180 days, shall each submit to the President a report on the progress of the directives contained in this order.
+
+Sec. 16. <i>Hiring</i>. The Office of Personnel Management shall take appropriate action as may be necessary to facilitate hiring personnel to implement this order.
+
+Sec. 17. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13768. Enhancing Public Safety in the Interior of the United States
+
+Ex. Ord. No. 13768, Jan. 25, 2017, 82 F.R. 8799, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act (INA) (8 U.S.C. 1101 <i>et seq</i>.), and in order to ensure the public safety of the American people in communities across the United States as well as to ensure that our Nation's immigration laws are faithfully executed, I hereby declare the policy of the executive branch to be, and order, as follows:
+
+Section 1. <i>Purpose</i>. Interior enforcement of our Nation's immigration laws is critically important to the national security and public safety of the United States. Many aliens who illegally enter the United States and those who overstay or otherwise violate the terms of their visas present a significant threat to national security and public safety. This is particularly so for aliens who engage in criminal conduct in the United States.
+
+Sanctuary jurisdictions across the United States willfully violate Federal law in an attempt to shield aliens from removal from the United States. These jurisdictions have caused immeasurable harm to the American people and to the very fabric of our Republic.
+
+Tens of thousands of removable aliens have been released into communities across the country, solely because their home countries refuse to accept their repatriation. Many of these aliens are criminals who have served time in our Federal, State, and local jails. The presence of such individuals in the United States, and the practices of foreign nations that refuse the repatriation of their nationals, are contrary to the national interest.
+
+Although Federal immigration law provides a framework for Federal-State partnerships in enforcing our immigration laws to ensure the removal of aliens who have no right to be in the United States, the Federal Government has failed to discharge this basic sovereign responsibility. We cannot faithfully execute the immigration laws of the United States if we exempt classes or categories of removable aliens from potential enforcement. The purpose of this order is to direct executive departments and agencies (agencies) to employ all lawful means to enforce the immigration laws of the United States.
+
+Sec. 2. <i>Policy</i>. It is the policy of the executive branch to:
+
+(a) Ensure the faithful execution of the immigration laws of the United States, including the INA, against all removable aliens, consistent with Article II, Section 3 of the United States Constitution and section 3331 of title 5, United States Code;
+
+(b) Make use of all available systems and resources to ensure the efficient and faithful execution of the immigration laws of the United States;
+
+(c) Ensure that jurisdictions that fail to comply with applicable Federal law do not receive Federal funds, except as mandated by law;
+
+(d) Ensure that aliens ordered removed from the United States are promptly removed; and
+
+(e) Support victims, and the families of victims, of crimes committed by removable aliens.
+
+Sec. 3. <i>Definitions</i>. The terms of this order, where applicable, shall have the meaning provided by section 1101 of title 8, United States Code.
+
+Sec. 4. <i>Enforcement of the Immigration Laws in the Interior of the United States</i>. In furtherance of the policy described in section 2 of this order, I hereby direct agencies to employ all lawful means to ensure the faithful execution of the immigration laws of the United States against all removable aliens.
+
+Sec. 5. <i>Enforcement Priorities</i>. In executing faithfully the immigration laws of the United States, the Secretary of Homeland Security (Secretary) shall prioritize for removal those aliens described by the Congress in sections 212(a)(2), (a)(3), and (a)(6)(C), 235, and 237(a)(2) and (4) of the INA (8 U.S.C. 1182(a)(2), (a)(3), and (a)(6)(C), 1225, and 1227(a)(2) and (4)), as well as removable aliens who:
+
+(a) Have been convicted of any criminal offense;
+
+(b) Have been charged with any criminal offense, where such charge has not been resolved;
+
+(c) Have committed acts that constitute a chargeable criminal offense;
+
+(d) Have engaged in fraud or willful misrepresentation in connection with any official matter or application before a governmental agency;
+
+(e) Have abused any program related to receipt of public benefits;
+
+(f) Are subject to a final order of removal, but who have not complied with their legal obligation to depart the United States; or
+
+(g) In the judgment of an immigration officer, otherwise pose a risk to public safety or national security.
+
+Sec. 6. <i>Civil Fines and Penalties</i>. As soon as practicable, and by no later than one year after the date of this order, the Secretary shall issue guidance and promulgate regulations, where required by law, to ensure the assessment and collection of all fines and penalties that the Secretary is authorized under the law to assess and collect from aliens unlawfully present in the United States and from those who facilitate their presence in the United States.
+
+Sec. 7. <i>Additional Enforcement and Removal Officers</i>. The Secretary, through the Director of U.S. Immigration and Customs Enforcement, shall, to the extent permitted by law and subject to the availability of appropriations, take all appropriate action to hire 10,000 additional immigration officers, who shall complete relevant training and be authorized to perform the law enforcement functions described in section 287 of the INA (8 U.S.C. 1357).
+
+Sec. 8. <i>Federal-State Agreements</i>. It is the policy of the executive branch to empower State and local law enforcement agencies across the country to perform the functions of an immigration officer in the interior of the United States to the maximum extent permitted by law.
+
+(a) In furtherance of this policy, the Secretary shall immediately take appropriate action to engage with the Governors of the States, as well as local officials, for the purpose of preparing to enter into agreements under section 287(g) of the INA (8 U.S.C. 1357(g)).
+
+(b) To the extent permitted by law and with the consent of State or local officials, as appropriate, the Secretary shall take appropriate action, through agreements under section 287(g) of the INA, or otherwise, to authorize State and local law enforcement officials, as the Secretary determines are qualified and appropriate, to perform the functions of immigration officers in relation to the investigation, apprehension, or detention of aliens in the United States under the direction and the supervision of the Secretary. Such authorization shall be in addition to, rather than in place of, Federal performance of these duties.
+
+(c) To the extent permitted by law, the Secretary may structure each agreement under section 287(g) of the INA in a manner that provides the most effective model for enforcing Federal immigration laws for that jurisdiction.
+
+Sec. 9. <i>Sanctuary Jurisdictions</i>. It is the policy of the executive branch to ensure, to the fullest extent of the law, that a State, or a political subdivision of a State, shall comply with 8 U.S.C. 1373.
+
+(a) In furtherance of this policy, the Attorney General and the Secretary, in their discretion and to the extent consistent with law, shall ensure that jurisdictions that willfully refuse to comply with 8 U.S.C. 1373 (sanctuary jurisdictions) are not eligible to receive Federal grants, except as deemed necessary for law enforcement purposes by the Attorney General or the Secretary. The Secretary has the authority to designate, in his discretion and to the extent consistent with law, a jurisdiction as a sanctuary jurisdiction. The Attorney General shall take appropriate enforcement action against any entity that violates 8 U.S.C. 1373, or which has in effect a statute, policy, or practice that prevents or hinders the enforcement of Federal law.
+
+(b) To better inform the public regarding the public safety threats associated with sanctuary jurisdictions, the Secretary shall utilize the Declined Detainer Outcome Report or its equivalent and, on a weekly basis, make public a comprehensive list of criminal actions committed by aliens and any jurisdiction that ignored or otherwise failed to honor any detainers with respect to such aliens.
+
+(c) The Director of the Office of Management and Budget is directed to obtain and provide relevant and responsive information on all Federal grant money that currently is received by any sanctuary jurisdiction.
+
+Sec. 10. <i>Review of Previous Immigration Actions and Policies</i>. (a) The Secretary shall immediately take all appropriate action to terminate the Priority Enforcement Program (PEP) described in the memorandum issued by the Secretary on November 20, 2014, and to reinstitute the immigration program known as "Secure Communities" referenced in that memorandum.
+
+(b) The Secretary shall review agency regulations, policies, and procedures for consistency with this order and, if required, publish for notice and comment proposed regulations rescinding or revising any regulations inconsistent with this order and shall consider whether to withdraw or modify any inconsistent policies and procedures, as appropriate and consistent with the law.
+
+(c) To protect our communities and better facilitate the identification, detention, and removal of criminal aliens within constitutional and statutory parameters, the Secretary shall consolidate and revise any applicable forms to more effectively communicate with recipient law enforcement agencies.
+
+Sec. 11. <i>Department of Justice Prosecutions of Immigration Violators</i>. The Attorney General and the Secretary shall work together to develop and implement a program that ensures that adequate resources are devoted to the prosecution of criminal immigration offenses in the United States, and to develop cooperative strategies to reduce violent crime and the reach of transnational criminal organizations into the United States.
+
+Sec. 12. <i>Recalcitrant Countries</i>. The Secretary of Homeland Security and the Secretary of State shall cooperate to effectively implement the sanctions provided by section 243(d) of the INA (8 U.S.C. 1253(d)), as appropriate. The Secretary of State shall, to the maximum extent permitted by law, ensure that diplomatic efforts and negotiations with foreign states include as a condition precedent the acceptance by those foreign states of their nationals who are subject to removal from the United States.
+
+Sec. 13. <i>Office for Victims of Crimes Committed by Removable Aliens</i>. The Secretary shall direct the Director of U.S. Immigration and Customs Enforcement to take all appropriate and lawful action to establish within U.S. Immigration and Customs Enforcement an office to provide proactive, timely, adequate, and professional services to victims of crimes committed by removable aliens and the family members of such victims. This office shall provide quarterly reports studying the effects of the victimization by criminal aliens present in the United States.
+
+Sec. 14. <i>Privacy Act</i>. Agencies shall, to the extent consistent with applicable law, ensure that their privacy policies exclude persons who are not United States citizens or lawful permanent residents from the protections of the Privacy Act regarding personally identifiable information.
+
+Sec. 15. <i>Reporting</i>. Except as otherwise provided in this order, the Secretary and the Attorney General shall each submit to the President a report on the progress of the directives contained in this order within 90 days of the date of this order and again within 180 days of the date of this order.
+
+Sec. 16. <i>Transparency</i>. To promote the transparency and situational awareness of criminal aliens in the United States, the Secretary and the Attorney General are hereby directed to collect relevant data and provide quarterly reports on the following:
+
+(a) the immigration status of all aliens incarcerated under the supervision of the Federal Bureau of Prisons;
+
+(b) the immigration status of all aliens incarcerated as Federal pretrial detainees under the supervision of the United States Marshals Service; and
+
+(c) the immigration status of all convicted aliens incarcerated in State prisons and local detention centers throughout the United States.
+
+Sec. 17. <i>Personnel Actions</i>. The Office of Personnel Management shall take appropriate and lawful action to facilitate hiring personnel to implement this order.
+
+Sec. 18. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Creating Welcoming Communities and Fully Integrating Immigrants and Refugees
 

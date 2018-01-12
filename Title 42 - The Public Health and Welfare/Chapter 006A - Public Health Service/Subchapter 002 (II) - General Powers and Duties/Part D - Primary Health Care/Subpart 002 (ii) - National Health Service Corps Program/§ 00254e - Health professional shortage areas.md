@@ -30,7 +30,7 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 In determining whether to make a designation, the Secretary shall take into consideration the following:
 
-&emsp;(1) The recommendations of the Governor of each State in which the area, populationgroup, medical facility, or other public facility under consideration for designation is in whole or part located.
+&emsp;(1) The recommendations of the Governor of each State in which the area, population group, medical facility, or other public facility under consideration for designation is in whole or part located.
 
 &emsp;(2) The extent to which individuals who are (A) residents of the area, members of the population group, or patients in the medical facility or other public facility under consideration for designation, and (B) entitled to have payment made for medical services under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], cannot obtain such services because of suspension of physicians from the programs under such titles.
 
@@ -90,7 +90,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975,88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

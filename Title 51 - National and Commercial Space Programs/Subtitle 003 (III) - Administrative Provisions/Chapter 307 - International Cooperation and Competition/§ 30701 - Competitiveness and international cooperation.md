@@ -6,7 +6,7 @@ Limitation.—
 
 &emsp;(1)
 
-Solicitation of comment.—As part of the evaluation of the costs and benefits of entering into an obligation to conduct a space mission in which a foreign entity will participate as a supplier of the spacecraft, spacecraft system, or launch system, the Administratorshall solicit comment on the potential impact of such participation through notice published in Commerce Business Daily at least 45 days before entering into such an obligation.
+Solicitation of comment.—As part of the evaluation of the costs and benefits of entering into an obligation to conduct a space mission in which a foreign entity will participate as a supplier of the spacecraft, spacecraft system, or launch system, the Administrator shall solicit comment on the potential impact of such participation through notice published in Commerce Business Daily at least 45 days before entering into such an obligation.
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Definition of united states commercial provider.—In this subsection, the term 
 
 &emsp;&emsp;&emsp;(ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company's subsidiary in the United States, as evidenced by—
 
-&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this section, section 30307, 30308, 30309, or 30702 of this title, or the National Aeronautics and Space Administration Authorization Act of 2000 (Public Law 106–391, 114 Stat. 1577);
+&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph\(A) to participate in Government sponsored research and development similar to that authorized under this section, section 30307, 30308, 30309, or 30702 of this title, or the National Aeronautics and Space Administration Authorization Act of 2000 (Public Law 106–391, 114 Stat. 1577);
 
 &emsp;&emsp;&emsp;&emsp;(II) providing no barriers to companies described in subparagraph (A) with respect to local investment opportunities that are not provided to foreign companies in the United States; and
 

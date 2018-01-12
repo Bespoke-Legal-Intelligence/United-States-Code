@@ -10,7 +10,7 @@ Funds so granted may be used by the Endowment to carry out the purposes describe
 
 #### (c) Status of Endowment
 
-Nothing in this subchapter shall be construed to make the Endowment an agency or establishment of the United States Government or tomake the members of the Board of Directors of the Endowment, or the officers or employees of the Endowment, officers or employees of the United States.
+Nothing in this subchapter shall be construed to make the Endowment an agency or establishment of the United States Government or to make the members of the Board of Directors of the Endowment, or the officers or employees of the Endowment, officers or employees of the United States.
 
 #### (d) Oversight procedures applicable
 

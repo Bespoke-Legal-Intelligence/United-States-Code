@@ -46,7 +46,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–199 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000."
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–199 amended par. (3) generally. Prior to amendment, par. (3) read as follows:"A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000."
 
 #### Effective Date of 2012 Amendment
 

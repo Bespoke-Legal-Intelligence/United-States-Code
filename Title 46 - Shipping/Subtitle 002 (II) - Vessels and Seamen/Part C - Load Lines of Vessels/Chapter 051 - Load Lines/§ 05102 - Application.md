@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) is not on a foreign voyage.
 
-&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
+&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
 
 &emsp;&emsp;(A)(i) was constructed, under construction, or under contract to be constructed as a fish tender vessel before January 1, 1980; or
 
@@ -62,7 +62,7 @@
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295,title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
 
 #### Historical and Revision Notes
 
@@ -140,7 +140,7 @@ Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted "as measured under sectio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assignedat any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
 #### Fish Tender Vessels in Aleutian Trade
 

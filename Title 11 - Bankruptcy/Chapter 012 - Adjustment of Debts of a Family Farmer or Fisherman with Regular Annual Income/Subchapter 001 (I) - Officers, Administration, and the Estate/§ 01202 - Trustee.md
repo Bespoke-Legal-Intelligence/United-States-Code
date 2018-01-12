@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Codification
 

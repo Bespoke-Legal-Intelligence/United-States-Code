@@ -32,11 +32,11 @@
 
 #### (ii) Time of determination and distribution
 
-&emsp;&emsp;&emsp;The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. Theredistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State's payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
+&emsp;&emsp;&emsp;The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. The redistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State's payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
 
 #### (3) Appropriation
 
-&emsp;For grants under this section, there are appropriated $2,917,000,000 for fiscal year 2012.
+&emsp;For grants under this section, there are appropriated $2,917,000,000 for each of fiscal years 2017 and 2018.
 
 #### (4) Indian tribes
 
@@ -54,7 +54,7 @@
 
 #### (2) Use for certain populations
 
-&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
+&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance tofamilies who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
 
 #### (c) Application of Child Care and Development Block Grant Act of 1990
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800.)
 
 #### References in Text
 
@@ -73,6 +73,8 @@ Section 603(a)(1)(D) of this title, referred to in subsec. (a)(5), was repealed 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–31 substituted "each of fiscal years 2017 and 2018" for "fiscal year 2012".
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–96 substituted "appropriated $2,917,000,000 for fiscal year 2012." for "appropriated—" and struck out subpars. (A) to (G) which appropriated amounts for fiscal years 1997 to 2010.
 
@@ -102,7 +104,7 @@ Subsec. (d). Pub. L. 105–33, §5601(c), substituted "and" for "or" before "the
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 2003 Amendment
 

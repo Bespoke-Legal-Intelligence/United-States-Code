@@ -12,7 +12,7 @@ The Congress finds and declares that:
 
 &emsp;(5) Industrial and technological innovation in the United States may be lagging when compared to historical patterns and other industrialized nations.
 
-&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilize the dollar, increase productivity gains, increase employment, and stabilize prices.
+&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilizethe dollar, increase productivity gains, increase employment, and stabilize prices.
 
 &emsp;(7) Government antitrust, economic, trade, patent, procurement, regulatory, research and development, and tax policies have significant impacts upon industrial innovation and development of technology, but there is insufficient knowledge of their effects in particular sectors of the economy.
 
@@ -44,7 +44,7 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: "This Act \[
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42,The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
+Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
 
 Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: "This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'Technology Administration Authorization Act of 1991'."
 
@@ -138,7 +138,7 @@ Consultation.—
 
 &emsp;&emsp;"(A)
 
-In general.—The study required by paragraph (1) shall be conducted in consultation withthe National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
+In general.—The study required by paragraph (1) shall be conducted in consultation with the National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
 
 &emsp;&emsp;"(B)
 
@@ -378,7 +378,7 @@ Issues.—The Commission shall address the following issues:
 
 &emsp;"(5) Should Federal Government procurement practices include cooperative efforts between the supplier and the Federal entity to develop products so as to be more easily marketed on a commercial basis? Should a program for the exchange of technical personnel to foster innovation in product development be part of such practices?
 
-&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficial to domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
+&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficialto domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
 
 &emsp;"(7) Should Federal Government procurement be linked to the Advanced Technology Program and to technology transfer activities so that specification development can incorporate the latest technical advances available?
 

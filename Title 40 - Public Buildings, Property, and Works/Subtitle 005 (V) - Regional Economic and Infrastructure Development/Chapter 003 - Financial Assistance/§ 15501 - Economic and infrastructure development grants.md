@@ -50,7 +50,7 @@ Special rule for regional projects.—A Commission may increase to 60 percent un
 
 (e)
 
-Maintenance of Effort.—Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same typeof program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
+Maintenance of Effort.—Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same type of program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
 
 (f)
 
@@ -64,5 +64,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Chapter effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
+Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 

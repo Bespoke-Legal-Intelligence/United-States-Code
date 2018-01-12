@@ -22,7 +22,7 @@ Notwithstanding subsection (a), the Secretary shall, at the request of the non-F
 
 Upon completion of the review described in subsection (b), the Secretary shall—
 
-&emsp;(1) submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
+&emsp;(1) submit to the Committee on Environment and Public Works of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
 
 &emsp;(2) include in the subsequent annual report to Congress required under section 2282d of title 33, any recommendations that require specific congressional authorization.
 

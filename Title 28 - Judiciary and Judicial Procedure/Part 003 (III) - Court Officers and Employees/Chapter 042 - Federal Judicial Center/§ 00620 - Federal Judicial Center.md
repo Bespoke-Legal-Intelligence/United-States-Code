@@ -1,6 +1,6 @@
 ### §620. Federal Judicial Center
 
-(a) There is established within the judicial branch of the Government a Federal Judicial Center, whose purpose it shall be to further the development and adoption of improved judicial administration in the courts of the United States.
+(a) There is established within the judicial branch of the Government a Federal JudicialCenter, whose purpose it shall be to further the development and adoption of improved judicial administration in the courts of the United States.
 
 (b) The Center shall have the following functions:
 

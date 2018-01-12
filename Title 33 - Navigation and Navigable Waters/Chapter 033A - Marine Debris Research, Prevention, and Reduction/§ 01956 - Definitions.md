@@ -46,7 +46,7 @@ In this chapter:
 
 Par. (3). Pub. L. 112–213, §608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The term 'United States exclusive economic zone' means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as 'eastern special areas' in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990."
 
-Par. (5). Pub. L. 112–213, §608(3)–(5), redesignated par. (7) as (5), struck out "Prevention and Removal" before "Program", and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: "The term 'navigable waters' means waters of the United States, including the territorial sea."
+Par. (5). Pub. L. 112–213, §608(3)–(5), redesignated par. (7) as (5), struck out "Prevention and Removal" before "Program", and struck out former par. (5). Prior toamendment, text of par. (5) read as follows: "The term 'navigable waters' means waters of the United States, including the territorial sea."
 
 Par. (6). Pub. L. 112–213, §608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The term 'territorial sea' means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988."
 

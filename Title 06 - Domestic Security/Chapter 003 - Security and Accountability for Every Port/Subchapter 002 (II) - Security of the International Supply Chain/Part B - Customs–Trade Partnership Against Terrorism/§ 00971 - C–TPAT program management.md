@@ -34,7 +34,7 @@ The Secretary, acting through the Commissioner, shall—
 
 #### (e) Report to Congress
 
-In connection with the President's annual budget submission for the Department, the Secretary shall report to the appropriate congressional committees on the progress made by the Commissioner to certify, validate, and revalidate C–TPAT participants. Such report shall bedue on the same date that the President's budget is submitted to the Congress.
+In connection with the President's annual budget submission for the Department, the Secretary shall report to the appropriate congressional committees on the progress made by the Commissioner to certify, validate, and revalidate C–TPAT participants. Such report shall be due on the same date that the President's budget is submitted to the Congress.
 
 (Pub. L. 109–347, title II, §221, Oct. 13, 2006, 120 Stat. 1914.)
 

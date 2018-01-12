@@ -28,7 +28,7 @@ Database.—Not later than 180 days after the date of enactment of this section,
 
 (d)
 
-Report to Congress.—Not later than 2 years after the date of enactment of this section, and annually thereafter, the Administratorshall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a).
+Report to Congress.—Not later than 2 years after the date of enactment of this section, and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a).
 
 (e)
 

@@ -2,7 +2,7 @@
 
 The authority granted by this chapter terminates on August 20, 2001.
 
-(Pub. L. 96–72, §20, Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–108, §1, Oct. 1, 1983, 97 Stat. 744; Pub. L. 98–207, Dec. 5, 1983, 97 Stat. 1391; Pub. L. 98–222, Feb. 29, 1984, 98 Stat. 36; Pub. L. 99–64, title I, §120, July 12, 1985, 99 Stat. 155; Pub. L. 100–418, title II, §2431, Aug. 23, 1988, 102 Stat. 1362; Pub. L. 103–10, §2, Mar. 27, 1993, 107 Stat. 40; Pub. L. 103–277, July 5, 1994, 108 Stat. 1407; Pub. L. 106–508, Nov. 13, 2000, 114 Stat. 2360.)
+(Pub. L. 96–72, §20, Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–108, §1, Oct. 1, 1983, 97 Stat. 744; Pub. L. 98–207, Dec. 5, 1983, 97 Stat. 1391; Pub. L. 98–222, Feb. 29, 1984, 98 Stat. 36; Pub. L. 99–64, title I, §120, July 12, 1985, 99 Stat. 155; Pub. L.100–418, title II, §2431, Aug. 23, 1988, 102 Stat. 1362; Pub. L. 103–10, §2, Mar. 27, 1993, 107 Stat. 40; Pub. L. 103–277, July 5, 1994, 108 Stat. 1407; Pub. L. 106–508, Nov. 13, 2000, 114 Stat. 2360.)
 
 #### References in Text
 

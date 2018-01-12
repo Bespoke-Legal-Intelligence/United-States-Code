@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall intensify and expand activities related to enhancing scientific knowledge regarding nanomaterials included or intended for inclusion in products regulated under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or other statutes administered by the Food and Drug Administration, to address issues relevant to the regulation of those products, including the potential toxicology of such nanomaterials, the potential benefit of new therapies derived from nanotechnology, the effects of such nanomaterials on biological systems, and the interaction of such nanomaterials with biological systems.
+The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall intensify and expand activities related toenhancing scientific knowledge regarding nanomaterials included or intended for inclusion in products regulated under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or other statutes administered by the Food and Drug Administration, to address issues relevant to the regulation of those products, including the potential toxicology of such nanomaterials, the potential benefit of new therapies derived from nanotechnology, the effects of such nanomaterials on biological systems, and the interaction of such nanomaterials with biological systems.
 
 #### (b) Activities
 
@@ -18,7 +18,7 @@ In conducting activities related to nanotechnology, the Secretary may—
 
 &emsp;(5) collect, synthesize, interpret, and disseminate scientific information and data related to the interactions of nanomaterials with biological systems;
 
-&emsp;(6) build scientific expertise on nanomaterials within the Food and Drug Administration, including field and laboratory expertise, for monitoring the production andpresence of nanomaterials in domestic and imported products regulated under this Act;
+&emsp;(6) build scientific expertise on nanomaterials within the Food and Drug Administration, including field and laboratory expertise, for monitoring the production and presence of nanomaterials in domestic and imported products regulated under this Act;
 
 &emsp;(7) ensure ongoing training, as well as dissemination of new information within the centers of the Food and Drug Administration, and more broadly across the Food and Drug Administration, to ensure timely, informed consideration of the most current science pertaining to nanomaterials;
 

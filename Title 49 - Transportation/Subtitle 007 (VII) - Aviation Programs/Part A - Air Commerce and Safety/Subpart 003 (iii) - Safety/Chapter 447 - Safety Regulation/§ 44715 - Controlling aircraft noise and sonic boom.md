@@ -22,7 +22,7 @@ Considerations and Consultation.—When prescribing a standard or regulation und
 
 &emsp;(2) consult with appropriate departments, agencies, and instrumentalities of the United States Government and State and interstate authorities;
 
-&emsp;(3) consider whether the standard or regulation is consistent with the highest degree of safety in air transportation or air commerce in the public interest;
+&emsp;(3) consider whether the standard or regulation is consistent with the highest degree ofsafety in air transportation or air commerce in the public interest;
 
 &emsp;(4) consider whether the standard or regulation is economically reasonable, technologically practicable, and appropriate for the applicable aircraft, aircraft engine, appliance, or certificate; and
 

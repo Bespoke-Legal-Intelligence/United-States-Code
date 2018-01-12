@@ -64,7 +64,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 #### (2) Receipt of funds
 
-&emsp;For the first fiscal year beginning after the date on which the Plan first established under subsection (a)(1) has been in effect for 12 months, and for each subsequent fiscal year, the Director of the Office shall receive directly from the President and the Director of the Office of Management and Budget all funds available for AIDS activities of the National Institutes of Health.
+&emsp;For the first fiscal year beginning after the date on which the Plan first established undersubsection (a)(1) has been in effect for 12 months, and for each subsequent fiscal year, the Director of the Office shall receive directly from the President and the Director of the Office of Management and Budget all funds available for AIDS activities of the National Institutes of Health.
 
 #### (3) Allocations for agencies
 

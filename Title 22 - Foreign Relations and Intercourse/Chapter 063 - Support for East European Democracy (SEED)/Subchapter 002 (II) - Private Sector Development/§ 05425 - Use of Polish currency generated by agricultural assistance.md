@@ -12,7 +12,7 @@ A portion of the agricultural commodities described in subsection (c) may be mad
 
 #### (b) Emphasis on agricultural development
 
-The uses of local currencies generated under this section should emphasize the development of agricultural infrastructure, agriculture-related training, and other aspects of agricultural development in Poland.
+The uses of local currencies generated under this section should emphasize the developmentof agricultural infrastructure, agriculture-related training, and other aspects of agricultural development in Poland.
 
 #### (c) Commodities subject to requirements
 

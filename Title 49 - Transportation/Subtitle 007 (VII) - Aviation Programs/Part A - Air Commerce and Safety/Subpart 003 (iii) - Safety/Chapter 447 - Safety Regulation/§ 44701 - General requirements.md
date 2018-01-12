@@ -64,7 +64,7 @@ Conditions.—The Administrator may predicate, in the agreement, the transfer of
 
 Registered aircraft defined.—In this subsection, the term "registered aircraft" means—
 
-&emsp;&emsp;(A) aircraft registered in the United States and operated pursuant to an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
+&emsp;&emsp;(A) aircraft registered in the United States and operated pursuant to an agreement forthe lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
 
 &emsp;&emsp;(B) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
 
@@ -320,7 +320,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 "(b)
 
-Annual Report to Congress.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Flight Standards Evaluation Program, including the Administrator's findings and recommendations with respect to the program.
+Annual Report to Congress.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shallsubmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Flight Standards Evaluation Program, including the Administrator's findings and recommendations with respect to the program.
 
 "(c)
 
@@ -486,7 +486,7 @@ Part 135 air carrier.—The term 'part 135 air carrier' means an air carrier tha
 
 "(a)
 
-Establishment.—The Administrator of the Federal Aviation Administration shall establish a specialtask force to be known as the FAA Task Force on Air Carrier Safety and Pilot Training (in this section referred to as the 'Task Force').
+Establishment.—The Administrator of the Federal Aviation Administration shall establish a special task force to be known as the FAA Task Force on Air Carrier Safety and Pilot Training (in this section referred to as the 'Task Force').
 
 "(b)
 
@@ -602,7 +602,7 @@ Expedited approvals.—Under the streamlined review process, the Administrator s
 
 Rulemaking.—The Administrator shall issue—
 
-&emsp;"(1) not later than one year after the date of enactment of this Act, a notice of proposed rulemakingbased on the recommendations of the aviation rulemaking committee convened under subsection (a); and
+&emsp;"(1) not later than one year after the date of enactment of this Act, a notice of proposed rulemaking based on the recommendations of the aviation rulemaking committee convened under subsection (a); and
 
 &emsp;"(2) not later than 36 months after such date of enactment, a final rule based on such recommendations.
 
@@ -942,7 +942,7 @@ Deadline for Beginning Implementation of Plan.—Not later than one year after t
 
 "(a)
 
-Rulemaking.—The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require all part 121 air carriers to implement a safety management system.
+Rulemaking.—The Administrator of the Federal Aviation Administration shall conduct a rulemakingproceeding to require all part 121 air carriers to implement a safety management system.
 
 "(b)
 
@@ -1098,7 +1098,7 @@ Workload of Inspectors.—
 
 &emsp;"(1)
 
-Study by national academy of sciences.—Not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
+Study by national academy of sciences.—Not later than 90 days after the date of enactment of thisAct \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
 
 &emsp;"(2)
 

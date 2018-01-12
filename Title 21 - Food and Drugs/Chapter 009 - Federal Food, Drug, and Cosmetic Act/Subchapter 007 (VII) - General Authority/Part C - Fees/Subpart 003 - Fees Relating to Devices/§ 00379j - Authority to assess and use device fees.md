@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Beginning in fiscal year 2013, the Secretary shall assess and collect fees in accordance with this section.
+&emsp;Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section.
 
 #### (2) Premarket application, premarket report, supplement, and submission fee, and annual fee for periodic reporting concerning a class III device
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d), (e), and (f), each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
+&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2017, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
 
 &emsp;&emsp;&emsp;(i) A premarket application.
 
@@ -26,11 +26,13 @@
 
 &emsp;&emsp;&emsp;(vii) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
 
-&emsp;&emsp;&emsp;(viii) For a premarket notification submission, a fee equal to 2 percent of the fee that applies under clause (i).
+&emsp;&emsp;&emsp;(viii) For a premarket notification submission, a fee equal to 3.4 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(ix) For a request for classification information, a fee equal to 1.35 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(x) For periodic reporting concerning a class III device, an annual fee equal to 3.5 percent of the fee that applies under clause (i).
+
+&emsp;&emsp;&emsp;(xi) For a de novo classification request, a fee equal to 30 percent of the fee that applies under clause (i).
 
 #### (B) Exceptions
 
@@ -54,7 +56,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;No fee shall be required under subparagraph (A) for a premarket application, premarket report, or premarket notification submission if the proposed conditions of use for the device involved are solely for a pediatric population. No fee shall be required under such subparagraph for a supplement if the sole purpose of the supplement is to propose conditions of use for a pediatric population.
+&emsp;&emsp;&emsp;&emsp;No fee shall be required under subparagraph (A) for a premarket application, premarket report, premarket notification submission, or de novo classification request if the proposed conditions of use for the device involved are solely for a pediatric population. No fee shall be required under such subparagraph for a supplement if the sole purpose of the supplement is to propose conditions of use for a pediatric population.
 
 #### (II) Subsequent proposal of adult conditions of use
 
@@ -94,11 +96,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (f), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under section 360 of this title beginning with its registration for fiscal year 2008.
+&emsp;&emsp;Except as provided in subparagraph (B), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under section 360 of this title beginning with its registration for fiscal year 2008.
 
 #### (B) Exception
 
-&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
+&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a devicemanufactured by the establishment is to be distributed commercially.
 
 #### (C) Payment
 
@@ -108,60 +110,56 @@
 
 &emsp;&emsp;&emsp;(ii) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 
-#### (b) Fee amounts
+#### (b) Fee Amounts
 
 #### (1) In general
 
-&emsp;Subject to subsections (c), (d), (e), (f), and (i), for each of fiscal years 2013 through 2017, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
+&emsp;Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2018 through 2022, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
 
 #### (2) Base fee amounts specified
 
 &emsp;For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows:
 
-| Fee Type | Fiscal Year 2013 | Fiscal Year 2014 | Fiscal Year 2015 | Fiscal Year 2016 | Fiscal Year 2017 |
+| Fee Type | Fiscal Year 2018 | Fiscal Year 2019 | Fiscal Year 2020 | Fiscal Year 2021 | Fiscal Year 2022 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| Premarket Application | $248,000 | $252,960 | $258,019 | $263,180 | $268,443 |
-| Establishment Registration | $2,575 | $3,200 | $3,750 | $3,872 | $3,872 |
+| Premarket Application | $294,000 | $300,000 | $310,000 | $328,000 | $329,000 |
+| Establishment Registration | $4,375 | $4,548 | $4,760 | $4,975 | $4,978 |
 
 #### (3) Total revenue amounts specified
 
 &emsp;For purposes of paragraph (1), the total revenue amounts specified in this paragraph are as follows:
 
-&emsp;&emsp;(A) $97,722,301 for fiscal year 2013.
+&emsp;&emsp;(A) $183,280,756 for fiscal year 2018.
 
-&emsp;&emsp;(B) $112,580,497 for fiscal year 2014.
+&emsp;&emsp;(B) $190,654,875 for fiscal year 2019.
 
-&emsp;&emsp;(C) $125,767,107 for fiscal year 2015.
+&emsp;&emsp;(C) $200,132,014 for fiscal year 2020.
 
-&emsp;&emsp;(D) $129,339,949 for fiscal year 2016.
+&emsp;&emsp;(D) $211,748,789 for fiscal year 2021.
 
-&emsp;&emsp;(E) $130,184,348 for fiscal year 2017.
+&emsp;&emsp;(E) $213,687,660 for fiscal year 2022.
 
 #### (c) Annual fee setting; adjustments
 
 #### (1) In general
 
-&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2012, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
+&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
 
 #### (2) Inflation adjustments
 
 #### (A) Adjustment to total revenue amounts
 
-&emsp;&emsp;For fiscal year 2014 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
+&emsp;&emsp;For fiscal year 2018 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
 
-#### (B) Applicable inflation adjustment to total revenue amounts
+#### (B) Applicable inflation adjustment
 
-&emsp;&emsp;The applicable inflation adjustment for a fiscal year is—
+&emsp;&emsp;The applicable inflation adjustment for fiscal year 2018 and each subsequent fiscal year is the product of—
 
-&emsp;&emsp;&emsp;(i) for fiscal year 2014, the base inflation adjustment under subparagraph (C) for such fiscal year; and
+&emsp;&emsp;&emsp;(i) the base inflation adjustment under subparagraph (C) for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) for fiscal year 2015 and each subsequent fiscal year, the product of—
+&emsp;&emsp;&emsp;(ii) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2016.
 
-&emsp;&emsp;&emsp;&emsp;(I) the base inflation adjustment under subparagraph (C) for such fiscal year; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2014.
-
-#### (C) Base inflation adjustment to total revenue amounts
+#### (C) Base inflation adjustment
 
 #### (i) In general
 
@@ -181,11 +179,15 @@
 
 #### (D) Adjustment to base fee amounts
 
-&emsp;&emsp;For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).
+&emsp;&emsp;For each of fiscal years 2018 through 2022, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) adjust the base fee amounts specified in subsection (b)(2) for such fiscal year by multiplying such amounts by the applicable inflation adjustment under subparagraph (B) for such year; and
+
+&emsp;&emsp;&emsp;(ii) if the Secretary determines necessary, increase (in addition to the adjustment under clause (i)) such base fee amounts, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).
 
 #### (3) Volume-based adjustments to establishment registration base fees
 
-&emsp;For each of fiscal years 2014 through 2017, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be further adjusted, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
+&emsp;For each of fiscal years 2018 through 2022, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
 
 #### (4) Limit
 
@@ -205,7 +207,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vii) and clauses (ix), (x), and (xi) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees
 
@@ -221,7 +223,7 @@
 
 #### (ii) Firms submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of itsmost recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
+&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
@@ -231,7 +233,7 @@
 
 &emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
 
-&emsp;&emsp;&emsp;(i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, or periodic reporting concerning a class III device; and
+&emsp;&emsp;&emsp;(i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, periodic reporting concerning a class III device, or a de novo classification request; and
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the fee established under such subsection for a 30-day notice or a request for classification information.
 
@@ -263,55 +265,45 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates duringwhich these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
-&emsp;&emsp;For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 50 percent of the fee that applies under subsection (a)(2)(A)(viii), and as established under subsection (c)(1).
+&emsp;&emsp;For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 25 percent of the fee that applies under subsection (a)(2)(A)(viii), and as established under subsection (c)(1).
 
 #### (D) Request for reduction
 
 &emsp;&emsp;An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
 
-#### (f) Fee waiver or reduction
-
-#### (1) In general
-
-&emsp;The Secretary may, at the Secretary's sole discretion, grant a waiver or reduction of fees under subsection (a)(2) or (a)(3) if the Secretary finds that such waiver or reduction is in the interest of public health.
-
-#### (2) Limitation
-
-&emsp;The sum of all fee waivers or reductions granted by the Secretary in any fiscal year under paragraph (1) shall not exceed 2 percent of the total fee revenue amounts established for such year under subsection (c).
-
-#### (3) Duration
-
-&emsp;The authority provided by this subsection terminates October 1, 2017.
-
-#### (g) Effect of failure to pay fees
+#### (f) Effect of failure to pay fees
 
 #### (1) No acceptance of submissions
 
-&emsp;A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
+&emsp;A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, periodic reporting concerning a class III device, or de novo classification request submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all such fees owed by such person have been paid.
 
 #### (2) No registration
 
 &emsp;Registration information submitted under section 360 of this title by an establishment subject to a registration fee shall be considered incomplete and shall not be accepted by the Secretary until the registration fee under subsection (a)(3) owed for the establishment has been paid. Until the fee is paid and the registration is complete, the establishment is deemed to have failed to register in accordance with section 360 of this title.
 
-#### (h) Conditions
+#### (g) Conditions
 
 #### (1) Performance goals; termination of program
 
 &emsp;With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products, fees may not be assessed under subsection (a) for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if—
 
-&emsp;&emsp;(A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $280,587,000 multiplied by the adjustment factor applicable to such fiscal year; or
+&emsp;&emsp;(A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $320,825,000 multiplied by the adjustment factor applicable to such fiscal year; or
 
 &emsp;&emsp;(B) fees were not assessed under subsection (a) for the previous fiscal year.
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscalyear because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
-#### (i) Crediting and availability of fees
+#### (3) Limitation
+
+&emsp;Beginning on October 1, 2023, the authorities under section 379i(9)(C) of this title shall include only leasing and necessary scientific equipment.
+
+#### (h) Crediting and availability of fees
 
 #### (1) In general
 
@@ -349,35 +341,91 @@
 
 #### (3) Authorizations of appropriations
 
-&emsp;For each of the fiscal years 2013 through 2017, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4).
+&emsp;For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c).
 
-#### (4) Offset
-
-&emsp;If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017.
-
-#### (j) Collection of unpaid fees
+#### (i) Collection of unpaid fees
 
 In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
-#### (k) Written requests for refunds
+#### (j) Written requests for refunds
 
 To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 
-#### (l) Construction
+#### (k) Construction
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090.)
 
 #### Termination of Section
 
-<i>For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.</i>
+<i>For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
 
 #### References in Text
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probablymeans the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–52, §203(a)(1), substituted "fiscal year 2018" for "fiscal year 2013".
+
+Subsec. (a)(2)(A). Pub. L. 115–52, §203(f)(2)(B)(ii), substituted "(d) and (e)" for "(d), (e), and (f)" in introductory provisions.
+
+Pub. L. 115–52, §203(a)(2)(A)(i), substituted "October 1, 2017" for "October 1, 2012" in introductory provisions.
+
+Subsec. (a)(2)(A)(viii). Pub. L. 115–52, §203(a)(2)(A)(ii), substituted "3.4 percent" for "2 percent".
+
+Subsec. (a)(2)(A)(xi). Pub. L. 115–52, §203(a)(2)(A)(iii), added cl. (xi).
+
+Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, §203(a)(2)(B), substituted "premarket notification submission, or de novo classification request" for "or premarket notification submission".
+
+Subsec. (a)(3)(A). Pub. L. 115–52, §203(f)(2)(B)(iii), struck out "and subsection (f)" after "subparagraph (B)".
+
+Subsec. (b). Pub. L. 115–52, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) listed fee amounts for fiscal years 2013 to 2017.
+
+Subsec. (c)(1). Pub. L. 115–52, §203(c)(1), substituted "2017" for "2012".
+
+Subsec. (c)(2)(A). Pub. L. 115–52, §203(c)(2)(A), substituted "2018" for "2014".
+
+Subsec. (c)(2)(B). Pub. L. 115–52, §203(c)(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The applicable inflation adjustment for a fiscal year is—
+
+&emsp;"(i) for fiscal year 2014, the base inflation adjustment under subparagraph (C) for such fiscal year; and
+
+&emsp;"(ii) for fiscal year 2015 and each subsequent fiscal year, the product of—
+
+&emsp;&emsp;"(I) the base inflation adjustment under subparagraph (C) for such fiscal year; and
+
+&emsp;&emsp;"(II) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2014."
+
+Subsec. (c)(2)(C). Pub. L. 115–52, §203(c)(2)(C), struck out "to total revenue amounts" after "adjustment" in heading.
+
+Subsec. (c)(2)(D). Pub. L. 115–52, §203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A)."
+
+Subsec. (c)(3). Pub. L. 115–52, §203(c)(3), substituted "2018 through 2022" for "2014 through 2017" and "increased" for "further adjusted".
+
+Subsec. (d)(1). Pub. L. 115–52, §203(d)(1), substituted "specified in clauses (i) through (vii) and clauses (ix), (x), and (xi)" for "specified in clauses (i) through (v) and clauses (vii), (ix), and (x)".
+
+Subsec. (d)(2)(C)(i). Pub. L. 115–52, §203(d)(2), substituted "supplement," for "supplement, or" and inserted ", or a de novo classification request" after "class III device".
+
+Subsec. (e)(2)(C). Pub. L. 115–52, §203(e), substituted "25 percent" for "50 percent".
+
+Subsec. (f). Pub. L. 115–52, §203(f)(1), (2)(B)(i), redesignated subsec. (g) as (f) and struck out former subsec. (f) which authorized the Secretary to grant waivers or reductions of fees under subsec. (a)(2) or (3) until Oct. 1, 2017.
+
+Subsec. (f)(1). Pub. L. 115–52, §203(g), substituted "periodic reporting concerning a class III device, or de novo classification request" for "or periodic reporting concerning a class III device" and "all such fees" for "all fees".
+
+Subsec. (g). Pub. L. 115–52, §203(f)(2)(B)(i), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(1)(A). Pub. L. 115–52, §203(h), substituted "$320,825,000" for "$280,587,000".
+
+Subsec. (h). Pub. L. 115–52, §203(f)(2)(B)(i), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (h)(3). Pub. L. 115–52, §203(i)(1), substituted "2018 through 2022" for "2013 through 2017" and "subsection (c)." for "subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4)."
+
+Pub. L. 115–52, §905(b)(2), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, §203(f)(2)(B)(i). See Amendment note above.
+
+Subsec. (h)(4). Pub. L. 115–52, §203(i)(2), struck out par. (4). Text read as follows: "If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017."
+
+Subsecs. (i) to (l). Pub. L. 115–52, §203(f)(2)(B)(i), redesignated subsecs. (j) to (l) as (i) to (k), respectively. Former subsec. (i) redesignated (h).
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–144, §203(a)(1), substituted "fiscal year 2013" for "fiscal year 2008".
 
@@ -475,9 +523,9 @@ Subsec. (e)(2)(C). Pub. L. 110–85, §212(e)(3), amended subpar. (C) generally.
 
 Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to amendment, text read as follows: "A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid."
 
-Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment,par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
+Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
-Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
+Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal yearbecause of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 
@@ -543,7 +591,7 @@ Subsec. (d)(1). Pub. L. 108–214, §2(d)(2)(B)(i), substituted "subsection (a)(
 
 Subsec. (d)(2)(B). Pub. L. 108–214, §2(a)(2)(B), substituted "firms, which show" for "firms. which show" in second sentence.
 
-Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted "For fiscal year 2004 and eachsubsequent fiscal year, where" for "Where" and "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)".
+Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted "For fiscal year 2004 and each subsequent fiscal year, where" for "Where" and "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)".
 
 Subsec. (e)(2)(B). Pub. L. 108–214, §2(a)(2)(C)(ii)(I), substituted "firms, which show" for "firms. which show".
 
@@ -555,6 +603,10 @@ Subsec. (h)(2)(B). Pub. L. 108–214, §2(a)(2)(E), designated existing provisio
 
 Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)(D)" for "subsection (a)(1)(D)".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 203 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all submissions listed in subsection (a)(2)(A) of this section received on or after Oct. 1, 2012, see section 206 of Pub. L. 112–144, set out as a note under section 379i of this title.
@@ -565,7 +617,7 @@ Amendment by Pub. L. 110–85 effective Oct. 1, 2007, except for certain premark
 
 #### Effective and Termination Dates
 
-Section ceases to be effective Oct. 1, 2017, see section 207(a) of Pub. L. 112–144, set out as a note under section 379i of this title.
+Section ceases to be effective Oct. 1, 2022, see section 210(a) of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 Section effective Oct. 26, 2002, except for certain premarket fees, see section 106 of Pub. L. 107–250, set out as a note under section 379i of this title.
 

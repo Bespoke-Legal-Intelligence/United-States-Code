@@ -34,7 +34,7 @@
 
 #### (C) Fees to recover costs
 
-&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processing of requests for records under subparagraph (A).
+&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processingof requests for records under subparagraph (A).
 
 #### (b) Investigations of use of funds
 
@@ -88,7 +88,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 &emsp;The reports required in subsection (c) shall include information regarding programs and activities carried out under this subchapter pertaining to—
 
-&emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age)and other related information regarding participants;
+&emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age) and other related information regarding participants;
 
 &emsp;&emsp;(B) the programs and activities in which participants are enrolled, and the length of time that participants are engaged in such programs and activities;
 
@@ -110,7 +110,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 #### (2) Additional requirement
 
-&emsp;Each State shall submit to the Secretary, and the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives, on a quarterly basis, a summary of the reports submitted to the Governor pursuant to paragraph (1).
+&emsp;Each State shall submit to the Secretary, and the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee onEducation and the Workforce of the House of Representatives, on a quarterly basis, a summary of the reports submitted to the Governor pursuant to paragraph (1).
 
 #### (f) Maintenance of additional records
 

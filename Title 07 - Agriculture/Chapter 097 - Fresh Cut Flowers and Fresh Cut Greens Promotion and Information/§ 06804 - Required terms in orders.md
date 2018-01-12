@@ -152,7 +152,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (iv) Terms
 
-&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
+&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2 years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
 
 #### (B) Authority
 
@@ -284,7 +284,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Audits
 
-&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of each fiscal year. A report of each audit shall be submitted to the Secretary.
+&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of eachfiscal year. A report of each audit shall be submitted to the Secretary.
 
 #### (g) Control of administrative costs
 
@@ -428,7 +428,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (B) Criteria and responsibility for determinations
 
-&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that the handler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
+&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that thehandler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
 
 #### (C) Period of postponement
 
@@ -510,5 +510,5 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

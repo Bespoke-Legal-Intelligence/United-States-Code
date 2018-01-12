@@ -1,6 +1,6 @@
 ### §1866. Selection and summoning of jury panels
 
-(a) The jury commission, or in the absence thereof the clerk, shall maintain a qualified jury wheel and shall place in such wheel names of all persons drawn from the master jury wheel who are determined to be qualified as jurors and not exempt or excused pursuant to the district court plan. From time to time, the jury commission or the clerk shall draw at random from the qualified jury wheel such number of names of persons as may be required for assignment to grand and petit jury panels. The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn. The jury commission or the clerk shall prepare a separate list of names of persons assigned to each grand and petit jury panel.
+(a) The jury commission, or in the absence thereof the clerk, shall maintain a qualified jury wheel and shall place in such wheel names of all persons drawn from the master jury wheel who are determined to be qualified as jurors and not exempt or excused pursuant to the district court plan. From time to time, the jury commission or the clerk shall draw at random from the qualified jury wheel such number of names of persons as may be required for assignment togrand and petit jury panels. The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn. The jury commission or the clerk shall prepare a separate list of names of persons assigned to each grand and petit jury panel.
 
 (b) When the court orders a grand or petit jury to be drawn, the clerk or jury commission or their duly designated deputies shall issue summonses for the required number of jurors.
 
@@ -38,7 +38,7 @@ This section amends section 1866 of title 28, U.S.C., by restoring provision of 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–406, §5(b), struck out "publicly" after "clerk shall" in second sentence and inserted "The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn." after second sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–406, §5(b), struck out "publicly" after "clerk shall" in second sentence andinserted "The clerk or jury commission shall post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn." after second sentence.
 
 Subsec. (g). Pub. L. 110–406, §17(b), substituted "$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof." for "$100 or imprisoned not more than three days, or both."
 

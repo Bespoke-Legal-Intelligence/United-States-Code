@@ -4,7 +4,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to strengthen the partnership between the Federal Government and State, local, and tribal governments;
 
-&emsp;(2) to end the imposition, in the absence of full consideration by Congress, of Federal mandates on State, local, and tribal governments without adequate Federal funding, in a manner that may displace other essential State, local, and tribal governmental priorities;
+&emsp;(2) to end the imposition, in the absence of full consideration by Congress, of Federalmandates on State, local, and tribal governments without adequate Federal funding, in a manner that may displace other essential State, local, and tribal governmental priorities;
 
 &emsp;(3) to assist Congress in its consideration of proposed legislation establishing or revising Federal programs containing Federal mandates affecting State, local, and tribal governments, and the private sector by—
 
@@ -22,7 +22,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(A) requiring that Federal agencies develop a process to enable the elected and other officials of State, local, and tribal governments to provide input when Federal agencies are developing regulations; and
 
-&emsp;&emsp;(B) requiring that Federal agencies prepare and consider estimates of the budgetaryimpact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
+&emsp;&emsp;(B) requiring that Federal agencies prepare and consider estimates of the budgetary impact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
 
 &emsp;(8) to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
 

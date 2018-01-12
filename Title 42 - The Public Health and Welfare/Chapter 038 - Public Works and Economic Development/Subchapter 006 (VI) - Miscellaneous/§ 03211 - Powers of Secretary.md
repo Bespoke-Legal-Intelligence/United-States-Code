@@ -48,7 +48,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 #### (b) Deficiency judgments
 
-The authority under subsection (a)(7) of this section to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
+The authority under subsection (a)(7) to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
 
 #### (c) Inapplicability of certain other requirements
 
@@ -95,4 +95,8 @@ In subsec. (c), "Section 6101 of title 41" substituted for "Section 3709 of the 
 A prior section 3211, Pub. L. 89–136, title VII, §701, Aug. 26, 1965, 79 Stat. 570, set forth powers of Secretary, prior to repeal by Pub. L. 105–393, §102(b)(3).
 
 A prior section 601(a) of Pub. L. 89–136 was classified to section 3201 of this title prior to repeal by Pub. L. 105–393, §102(a).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

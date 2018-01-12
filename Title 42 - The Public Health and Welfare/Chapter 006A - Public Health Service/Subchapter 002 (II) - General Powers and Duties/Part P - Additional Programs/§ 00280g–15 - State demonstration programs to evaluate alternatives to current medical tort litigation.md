@@ -250,7 +250,7 @@ The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 193
 
 #### Amendments
 
-<b>2016</b>—Subsec. (d)(2)(C). Pub. L. 114–301, §3(d)(1), substituted "shall designate a member of the review panel to" for ", or an individual within the Government Accountability Office designated by the Comptroller General, shall".
+<b>2016</b>—Subsec. (d)(2)(C). Pub. L. 114–301, §3(d)(1), substituted "shall designate a member of the review panelto" for ", or an individual within the Government Accountability Office designated by the Comptroller General, shall".
 
 Subsec. (d)(2)(D). Pub. L. 114–301, §3(d)(2), substituted "Secretary" for "Comptroller General".
 

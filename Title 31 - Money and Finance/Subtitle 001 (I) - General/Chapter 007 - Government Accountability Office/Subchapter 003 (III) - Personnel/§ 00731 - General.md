@@ -12,7 +12,7 @@
 
 (f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses under subchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
 
-(g) The Comptroller General shall prescribe regulations under which key officers and employees of the Office who have less than 3 years of service may accrue leave in accordance with section 6303(a)(2) of title 5, in those circumstances in which the Comptroller General has determined such increased annual leave is appropriate for the recruitment or retention of such officers and employees. Such regulations shall define key officers and employees and set forth the factors in determining which officers and employees should be allowed to accrue leave in accordance with this subsection.
+(g) The Comptroller General shall prescribe regulations under which key officers and employees of the Office who have less than 3 years of service may accrue leave in accordance with section 6303(a)(2) of title 5, in those circumstances in which the Comptroller General hasdetermined such increased annual leave is appropriate for the recruitment or retention of such officers and employees. Such regulations shall define key officers and employees and set forth the factors in determining which officers and employees should be allowed to accrue leave in accordance with this subsection.
 
 (h) The Comptroller General may by regulation establish an executive exchange program under which officers and employees of the Office may be assigned to private sector organizations, and employees of private sector organizations may be assigned to the Office, to further the institutional interests of the Office or Congress, including for the purpose of providing training to officers and employees of the Office. Regulations to carry out any such program—
 
@@ -130,7 +130,7 @@ In subsection (c), the words "United States" and "positions at" are omitted as s
 
 In subsection (d), the words "in the General Accounting Office", "prescribed . . . under section 5315 of title 5", and "of the Office" are omitted as surplus.
 
-In subsection (e), before clause (1), the words "procure the services of" are substituted for "employ" for consistency with 5:3109. The words "at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently" are omitted as unnecessary because of 5:3109. In clause (1), the word "periods" is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words "and consultants" are added because of 5:3109.
+In subsection (e), before clause (1), the words "procure the services of" are substituted for "employ" forconsistency with 5:3109. The words "at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently" are omitted as unnecessary because of 5:3109. In clause (1), the word "periods" is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words "and consultants" are added because of 5:3109.
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6)
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: "When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule."
 
-Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted "daily rate for level IV of the Executive Schedule" for"maximum daily rate for GS–18 under section 5332 of such title" and "more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable." for "more than—
+Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted "daily rate for level IV of the Executive Schedule" for "maximum daily rate for GS–18 under section 5332 of such title" and "more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable." for "more than—
 
 &emsp;"(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 

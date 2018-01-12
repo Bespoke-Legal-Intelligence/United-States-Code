@@ -2,7 +2,7 @@
 
 #### (a) Restriction on use of water for irrigation
 
-Unless and until otherwise provided by Congress, water from the Central Arizona Project shall not be made available directly or indirectly for the irrigation of lands not having a recent irrigation history as determined by the Secretary, except in the case of Indian lands, national wildlife refuges, and, with the approval of the Secretary, State-administered wildlife management areas.
+Unless and until otherwise provided by Congress, water from the Central Arizona Project shall not be made available directly or indirectly for the irrigation of lands not having a recent irrigation history as determined by the Secretary, except in the case of Indian lands, national wildlife refuges, and, with the approval ofthe Secretary, State-administered wildlife management areas.
 
 #### (b) Contracts with municipal and industrial users
 
@@ -18,7 +18,7 @@ Each contract under which water is provided under the Central Arizona Project sh
 
 #### (d) Water exchanges
 
-The Secretary may require in any contract under which water is provided from the CentralArizona Project that the contractor agree to accept main stream water in exchange for or in replacement of existing supplies from sources other than the main stream. The Secretary shall so require in the case of users in Arizona who also use water from the Gila River system to the extent necessary to make available to users of water from the Gila River system in New Mexico additional quantities of water as provided in and under the conditions specified in subsection (f) of this section: <i>Provided</i>, That such exchanges and replacements shall be accomplished without economic injury or cost to such Arizona contractors.
+The Secretary may require in any contract under which water is provided from the Central Arizona Project that the contractor agree to accept main stream water in exchange for or in replacement of existing supplies from sources other than the main stream. The Secretary shall so require in the case of users in Arizona who also use water from the Gila River system to the extent necessary to make available to users of water from the Gila River system in New Mexico additional quantities of water as provided in and under the conditions specified in subsection (f) of this section: <i>Provided</i>, That such exchanges and replacements shall be accomplished without economic injury or cost to such Arizona contractors.
 
 #### (e) Water shortage priorities
 
@@ -28,7 +28,7 @@ In times of shortage or reduction of main stream Colorado River water for the Ce
 
 (1) In the operation of the Central Arizona Project, the Secretary shall offer to contract with water users in the State of New Mexico, with the approval of its Interstate Stream Commission, or with the State of New Mexico, through its Interstate Stream Commission, for water from the Gila River, its tributaries and underground water sources in amounts that will permit consumptive use of water in New Mexico of not to exceed an annual average in any period of 10 consecutive years of 14,000 acre-feet, including reservoir evaporation, over and above the consumptive uses provided for by article IV of the decree of the Supreme Court of the United States in Arizona v. California (376 U.S. 340). Such increased consumptive uses shall continue only so long as delivery of Colorado River water to downstream Gila River users in Arizona is being accomplished in accordance with this chapter, in quantities sufficient to replace any diminution of their supply resulting from such diversion from the Gila River, its tributaries and underground water sources. In determining the amount required for this purpose, full consideration shall be given to any differences in the quality of the water involved.
 
-(2) All additional consumptive uses provided for in clauses (1) and (2) <sup>1</sup> of this subsection shall be subject to all rights in New Mexico and Arizona as established by the decree entered by the United States District Court for the District of Arizona on June 29, 1935, in United States against Gila Valley Irrigation District and others (Globe Equity Numbered 59) and to all other rights existing on September 30, 1968, in New Mexico and Arizona to water from the Gila River, its tributaries, and underground water sources, and shall be junior thereto and shall be made only to the extent possible without economic injury or cost to the holders of such rights.
+(2) All additional consumptive uses provided for in clauses (1) and (2) <sup>1</sup> of this subsection shallbe subject to all rights in New Mexico and Arizona as established by the decree entered by the United States District Court for the District of Arizona on June 29, 1935, in United States against Gila Valley Irrigation District and others (Globe Equity Numbered 59) and to all other rights existing on September 30, 1968, in New Mexico and Arizona to water from the Gila River, its tributaries, and underground water sources, and shall be junior thereto and shall be made only to the extent possible without economic injury or cost to the holders of such rights.
 
 (Pub. L. 90–537, title III, §304, Sept. 30, 1968, 82 Stat. 891; Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751; Pub. L. 108–451, title II, §212(d), Dec. 10, 2004, 118 Stat. 3528.)
 

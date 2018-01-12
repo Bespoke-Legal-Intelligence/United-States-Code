@@ -34,7 +34,7 @@ Priority for Audits.—In conducting the audits described in subsection (a), the
 
 (f)
 
-Regulations.—Not later than 240 days after the date of enactment of this section, the Under Secretary, in consultation with the Administrator, shall issue final regulations to ensurethe security of foreign and domestic aircraft repair stations.
+Regulations.—Not later than 240 days after the date of enactment of this section, the Under Secretary, in consultation with the Administrator, shall issue final regulations to ensure the security of foreign and domestic aircraft repair stations.
 
 (g)
 

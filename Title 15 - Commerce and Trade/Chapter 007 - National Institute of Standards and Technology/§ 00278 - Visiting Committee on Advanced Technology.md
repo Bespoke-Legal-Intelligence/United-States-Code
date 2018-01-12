@@ -26,7 +26,7 @@ The persons appointed as members of the Committee—
 
 #### (d) Meetings; quorum; notice
 
-The Committee shall meet at least twice each year at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matter being considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
+The Committee shall meet at least twice each year at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matterbeing considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
 
 #### (e) Appointment by Committee of executive and other committees
 
@@ -38,7 +38,7 @@ The election of the Chairman and Vice Chairman of the Committee shall take place
 
 #### (g) Professional and clerical staff
 
-The Committee may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than four professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Director, after consultation with the Chairman of the Committee, and assigned at the direction of the Committee. The professional members of such staff may be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332 of title 5, as may be necessary to provide for the performance of such duties as may be prescribed by the Committee in connection with the exercise of its powers and functions under this chapter.
+The Committee may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than four professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Director, after consultation with the Chairman of the Committee, and assigned at the direction of the Committee. The professional members of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332 of title 5, as may be necessary to provide for the performance of such duties as may be prescribed by the Committee in connection with the exercise of its powers and functions under this chapter.
 
 #### (h) Annual and other reports to Secretary and Congress
 

@@ -56,7 +56,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 #### Codification
 
-Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report on the administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
+Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report onthe administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 Section was formerly classified to section 88 of this title.
 
@@ -76,7 +76,7 @@ Subsec. (e)(2) to (7). Pub. L. 103–465, §431(l)(2), (3), redesignated pars. (
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–182, §361(f)(1), substituted "not be limited to the following:" for "not be limited to—" in introductory provisions.
 
-Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted "The" for "the" at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for "; and" at end of par. (6). Prior to amendment, former par. (1) read as follows: "a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred toin subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;".
+Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted "The" for "the" at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for "; and" at end of par. (6). Prior to amendment, former par. (1) read as follows: "a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;".
 
 <b>1988</b>—Subsec. (e)(6). Pub. L. 100–418, §4604(b), added par. (6).
 

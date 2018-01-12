@@ -12,3 +12,4 @@ Part II—Use of Cable Channels and Cable Ownership Restrictions
 - [&sect; 00535 - Carriage of noncommercial educational television](%C2%A7%2000535%20-%20Carriage%20of%20noncommercial%20educational%20television.md)
 - [&sect; 00536 - Regulation of carriage agreements](%C2%A7%2000536%20-%20Regulation%20of%20carriage%20agreements.md)
 - [&sect; 00537 - Sales of cable systems](%C2%A7%2000537%20-%20Sales%20of%20cable%20systems.md)
+- [&sect; 00537a - Carriage of certain programming](%C2%A7%2000537a%20-%20Carriage%20of%20certain%20programming.md)

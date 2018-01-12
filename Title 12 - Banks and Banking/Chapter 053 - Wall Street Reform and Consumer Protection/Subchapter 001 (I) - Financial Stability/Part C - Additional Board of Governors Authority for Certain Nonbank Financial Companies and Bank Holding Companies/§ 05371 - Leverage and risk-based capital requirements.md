@@ -128,7 +128,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of suchperson engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
 
 #### (2) Rule of construction on Board's authority
 

@@ -60,7 +60,7 @@ Policy.—It shall be the policy of the United States Government to—
 
 &emsp;&emsp;"(A) establish procedures for ensuring that United States citizens who have incurred service obligations as the result of receiving financial support for education and training from the United States Government and have applied for Federal positions are considered in all recruitment and hiring initiatives of Federal departments, bureaus, agencies, and offices; and
 
-&emsp;&emsp;"(B) advertise and open all Federal positions to United States citizens who have incurred serviceobligations with the United States Government as the result of receiving financial support for education and training from the United States Government."
+&emsp;&emsp;"(B) advertise and open all Federal positions to United States citizens who have incurred service obligations with the United States Government as the result of receiving financial support for education and training from the United States Government."
 
 #### Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees
 
@@ -246,9 +246,9 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (g) Any person whose name has been placed upon three registers of eligibles covering positions of the same grade, and who has not been appointed therefrom, shall not thereafter be eligible for placement upon any subsequently established register covering positions of such grade.
 
-(h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. TheOffice shall certify to the appointing officer for each vacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
+(h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. The Office shall certify to the appointing officer for each vacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
 
-(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
+(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16,1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
 
 (j) The incumbent of any attorney position covered into the classified service by section 1 of this order may acquire a classified civil-service status in accordance with the provisions of Section 2(a) of the act of November 26, 1940 (54 Stat. 1211) or, in the discretion of the Board and when applicable, Section 6, of Civil Service Rule II: <i>Provided</i>, That the noncompetitive examination required thereunder shall be prescribed by the Office with the approval of the Board.
 
@@ -296,9 +296,9 @@ Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879.
 
 Ex. Ord. No. 12148, §5–212, July 20, 1979, 44 F.R. 43239, set out in a note under section 5195 of Title 42, The Public Health and Welfare.
 
-Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683, which was superseded by Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519.
+Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683, superseded by Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519.
 
-Ex. Ord. No. 12748, §8(a), Feb. 1, 1991, 56 F.R. 4521, set out as a note under section 5301 of this title.
+Ex. Ord. No. 12748, §6(a), formerly §8(a), Feb. 1, 1991, 56 F.R. 4521, as amended, set out as a note under section 5301 of this title.
 
 Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515.
 
@@ -308,13 +308,15 @@ Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103.
 
 Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853.
 
+Ex. Ord. No. 13764, §1, Jan. 17, 2017, 82 F.R. 8115.
+
 #### Executive Order No. 10590
 
 Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President's Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 10880
 
-Ex. Ord. No. 10880, June 7, 1960, 25 F.R. 5131, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055,which provided for conversion of indefinite or temporary appointments to career or career-conditional appointments, was revoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
+Ex. Ord. No. 10880, June 7, 1960, 25 F.R. 5131, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided for conversion of indefinite or temporary appointments to career or career-conditional appointments, was revoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
 
 #### Executive Order No. 10925
 
@@ -374,7 +376,7 @@ Sec. 2. For the purposes of Section 1—
 
 (3) active service in the Armed Forces shall not be deemed to be full-time continuous service in a position concerned with the protective function if such active service exceeds a total of four years plus any period of additional service imposed pursuant to law.
 
-Sec. 3. Any employee who shall have left a position concerned with the protective function to enter active service in the Armed Forces of the United States, who is re-employed in such a position within 120 days after his discharge under honorable conditions from such service, and who meets the requirements of Section 1 as the result of being credited with his period of activeservice in the Armed Forces pursuant to Section 2(2), may have his appointment converted if the Secretary of the Treasury or his designee, recommends that conversion within 90 days after his re-employment.
+Sec. 3. Any employee who shall have left a position concerned with the protective function to enter active service in the Armed Forces of the United States, who is re-employed in such a position within 120 days after his discharge under honorable conditions from such service, and who meets the requirements of Section 1 as the result of being credited with his period of active service in the Armed Forces pursuant to Section 2(2), may have his appointment converted if the Secretary of the Treasury or his designee, recommends that conversion within 90 days after his re-employment.
 
 Sec. 4. Whenever the Secretary of the Treasury, or his designee, decides not to recommend conversion of the appointment of an employee under this Order or whenever the Secretary, or his designee, recommends conversion and the employee fails to qualify, the employee shall be separated by the date on which his current Schedule B appointment expires.
 
@@ -452,7 +454,7 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 12015
 
-Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
+Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R.1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
 
 #### Executive Order No. 12026
 
@@ -602,7 +604,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (b) the term "Armed Forces" has the meaning specified for that term in section 101 of title 10, United States Code;
 
-(c) the term "active duty" means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term "active duty" does not include training duties or attendance at service schools.
+(c) the term "active duty" means full-time duty in an armed force and includes full-time National Guardduty, except that, for Reserve Component members, the term "active duty" does not include training duties or attendance at service schools.
 
 (d) the term "permanent change of station" means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
 
@@ -702,7 +704,7 @@ Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an in
 
 (xxiv) the Social Security Administration.
 
-A member of the Council may designate, to perform the Council functions of the member, a senior officialwho is part of the member's agency, and who is a full-time officer or employee of the Federal Government.
+A member of the Council may designate, to perform the Council functions of the member, a senior official who is part of the member's agency, and who is a full-time officer or employee of the Federal Government.
 
 (c) Administration of the Council. The Co-Chairs shall convene meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate. The Vice Chair shall designate an Executive Director for the Council to support the Vice Chair in managing the Council's activities. The OPM shall provide administrative support for the Council to the extent permitted by law and within existing appropriations.
 
@@ -782,7 +784,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The Federal Government benefits from a diverse workforce that includes students and recent graduates, who infuse the workplace with their enthusiasm, talents, and unique perspectives. The existing competitive hiring process for the Federal civil service, however, is structured in a manner that, even at the entry level, favors job applicants who have significant previous work experience. This structure, along with the complexity of the rules governing admission to the career civil service, creates a barrier to recruiting and hiring students and recent graduates. It places the Federal Government at a competitive disadvantage compared to private-sector employers when it comes to hiring qualified applicants for entry-level positions.
 
-To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
+To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduateschool; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that represents all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -828,7 +830,7 @@ Sec. 6. <i>Appointment and Conversion</i>. (a) Appointments to any of the Pathwa
 
 (b) Appointments to the Recent Graduates or PMF Programs shall not exceed 2 years, unless extended by the employing agency for up to 120 days thereafter.
 
-(c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration ofthe appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who were initially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
+(c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who were initially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
 
 Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
 
@@ -908,11 +910,11 @@ Sec. 2. <i>Establishment and Administration</i>. (a) The Administrator of Genera
 
 (b) The Program shall be administered by a Director, appointed by the Administrator under authorities of the General Services Administration (GSA). GSA shall provide necessary staff, resources and administrative support for the Program to the extent permitted by law and within existing appropriations.
 
-(c) GSA shall appoint the Fellows and, in cooperation with agencies, shall facilitate placement of the Fellowsto participate in projects that have the potential for significant positive effects and are consistent with the President's goals.
+(c) GSA shall appoint the Fellows and, in cooperation with agencies, shall facilitate placement of the Fellows to participate in projects that have the potential for significant positive effects and are consistent with the President's goals.
 
 Sec. 3. <i>Advisory Board</i>. (a) The Administrator shall establish an Advisory Board to advise the Director by recommending such priorities and standards as may be beneficial to fulfill the mission of the Program and assist in identifying potential projects and placements for Fellows. The Advisory Board will not participate in the Fellows' selection process.
 
-(b) The Administrator will designate a representative to serve as the Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Deputy Director for Management of the Office of Management and Budget, the Director of the Office of Personnel Management, the Office of Management and Budget's Administrator of the Office of Electronic Government, and the Assistant to the President and Chief Technology Officer, or their designees and such other persons as may be designated by the Administrator. Consistent with law, the Advisory Board may consult with industry, academia, or non-profits to ensure the Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation's most significant challenges.
+(b) The Administrator will designate a representative to serve as the Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Deputy Director for Management of the Office of Management and Budget, the Director of the Office of Personnel Management, the Office of Management and Budget's Administrator of the Office ofElectronic Government, and the Assistant to the President and Chief Technology Officer, or their designees and such other persons as may be designated by the Administrator. Consistent with law, the Advisory Board may consult with industry, academia, or non-profits to ensure the Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation's most significant challenges.
 
 Sec. 4. <i>Application Process</i>. (a) The Director, in accordance with applicable law, shall prescribe the process for applications and nominations of individuals to the Program.
 
@@ -964,7 +966,7 @@ Sec. 4. A person appointed under section 2 of this order shall become a career c
 
 Sec. 5. Any law, Executive Order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under section 2 of this order. Examples of disqualifying criteria include restrictions on employing persons who are not U.S. citizens or nationals, who have violated the anti-nepotism provisions of the Civil Service Reform Act \[of 1978\], 5 U.S.C. 2302(b)(7), 3110, who have knowingly and willfully failed to register for Selective Service when required to do so, 5 U.S.C. 3328(a)(2), who do not meet occupational qualifying standards prescribed by OPM, or who do not meet suitability factors prescribed by OPM.
 
-Sec. 6. The Office of Personnel Management is authorized to issue such additional regulations as may be necessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive eligibility with or without additional regulations.
+Sec. 6. The Office of Personnel Management is authorized to issue such additional regulations as may benecessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive eligibility with or without additional regulations.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -1110,7 +1112,7 @@ Memorandum of President of the United States, Jan. 31, 2014, 79 F.R. 7045, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-The Federal Government is America's largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies (agencies) generally can, and do, take job applicants' employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
+The Federal Government is America's largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies\(agencies) generally can, and do, take job applicants' employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
 
 Section 1. <i>Individuals Who Are Unemployed or Facing Financial Difficulty</i>. (a) Agencies shall not make an unfavorable determination with respect to the suitability, fitness, or qualifications of an applicant for Federal employment because that applicant:
 

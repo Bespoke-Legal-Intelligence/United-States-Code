@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the first year beginning after February 17, 2009, and annually thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report concerning complaints of alleged violations of law, including the provisions of this subchapter as well as the provisions of subparts Cand E of part 164 of title 45, Code of Federal Regulations, (as such provisions are in effect as of February 17, 2009) relating to privacy and security of health information that are received by the Secretary during the year for which the report is being prepared. Each such report shall include, with respect to such complaints received during the year—
+&emsp;For the first year beginning after February 17, 2009, and annually thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report concerning complaints of alleged violations of law, including the provisions of this subchapter as well as the provisions of subparts C and E of part 164 of title 45, Code of Federal Regulations, (as such provisions are in effect as of February 17, 2009) relating to privacy and security of health information that are received by the Secretary during the year for which the report is being prepared. Each such report shall include, with respect to such complaints received during the year—
 
 &emsp;&emsp;(A) the number of such complaints;
 
@@ -52,7 +52,7 @@
 
 #### (c) Guidance on implementation specification to de-identify protected health information
 
-Not later than 12 months after February 17, 2009, the Secretary shall, in consultation with stakeholders, issue guidance on how best to implement the requirements for the de-identification of protected health information under section 164.514(b) of title 45, Code of Federal Regulations.
+Not later than 12 months after February 17, 2009, the Secretary shall, in consultation withstakeholders, issue guidance on how best to implement the requirements for the de-identification of protected health information under section 164.514(b) of title 45, Code of Federal Regulations.
 
 #### (d) GAO report on treatment disclosures
 
@@ -60,7 +60,7 @@ Not later than one year after February 17, 2009, the Comptroller General of the 
 
 #### (e) Report required
 
-Not later than 5 years after February 17, 2009, the Government Accountability Office shall submit to Congress and the Secretary of Health andHuman Services a report on the impact of any of the provisions of this Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in medical errors and other quality improvements.
+Not later than 5 years after February 17, 2009, the Government Accountability Office shall submit to Congress and the Secretary of Health and Human Services a report on the impact of any of the provisions of this Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in medical errors and other quality improvements.
 
 #### (f) Study
 

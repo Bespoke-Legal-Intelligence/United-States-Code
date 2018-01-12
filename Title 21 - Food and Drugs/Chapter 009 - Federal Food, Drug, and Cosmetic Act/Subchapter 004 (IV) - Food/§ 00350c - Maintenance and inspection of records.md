@@ -32,7 +32,7 @@ This section shall not be construed—
 
 &emsp;(3) to have any legal effect on section 552 of title 5 or section 1905 of title 18; or
 
-&emsp;(4) to extend to recipes for food, financial data, pricing data, personnel data, research data, or sales data (other than shipment data regarding sales).
+&emsp;(4) to extend to recipes for food, financial data, pricing data, personnel data, researchdata, or sales data (other than shipment data regarding sales).
 
 (June 25, 1938, ch. 675, §414, as added Pub. L. 107–188, title III, §306(a), June 12, 2002, 116 Stat. 669; amended Pub. L. 111–353, title I, §101(a), Jan. 4, 2011, 124 Stat. 3886.)
 

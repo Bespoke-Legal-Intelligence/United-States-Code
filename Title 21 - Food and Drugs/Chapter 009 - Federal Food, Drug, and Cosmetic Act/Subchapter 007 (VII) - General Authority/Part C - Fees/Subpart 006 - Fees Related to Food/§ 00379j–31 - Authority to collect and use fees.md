@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
 
-&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
+&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program undersection 384b of this title in such year, to cover the administrative costs of such program for such year; and
 
 &emsp;&emsp;(D) each importer subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year.
 
@@ -68,7 +68,7 @@
 
 #### (iii) Published guidelines
 
-&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjustthe fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
+&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
 
 #### (3) Use of fees
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
 
 #### (2) Authority
 

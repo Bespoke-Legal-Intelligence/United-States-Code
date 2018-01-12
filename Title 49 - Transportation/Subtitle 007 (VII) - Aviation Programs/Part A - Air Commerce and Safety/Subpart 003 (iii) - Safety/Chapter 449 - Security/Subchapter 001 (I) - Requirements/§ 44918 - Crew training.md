@@ -38,7 +38,7 @@ Approval.—An air carrier training program under this subsection shall be subje
 
 &emsp;(4)
 
-Minimum standards.—Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the Under Secretary may establish minimum standards for the training provided under this subsection and for recurrent training.
+Minimum standards.—Not later than one year after the date of enactment of the Vision100—Century of Aviation Reauthorization Act, the Under Secretary may establish minimum standards for the training provided under this subsection and for recurrent training.
 
 &emsp;(5)
 
@@ -46,7 +46,7 @@ Existing programs.—Notwithstanding paragraphs (3) and (4), any training progra
 
 &emsp;(6)
 
-Monitoring.—The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall reviewan air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
+Monitoring.—The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall review an air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
 
 &emsp;(7)
 

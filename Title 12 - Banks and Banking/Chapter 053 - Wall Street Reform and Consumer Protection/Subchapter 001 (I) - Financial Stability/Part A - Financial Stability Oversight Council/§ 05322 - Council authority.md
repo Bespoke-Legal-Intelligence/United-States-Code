@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(H) require supervision by the Board of Governors for nonbank financial companies that may pose risks to the financial stability of the United States in the event of their material financial distress or failure, or because of their activities pursuant to section 5323 of this title;
 
-&emsp;&emsp;(I) make recommendations to the Board of Governors concerning the establishment of heightened prudential standards for risk-based capital, leverage, liquidity, contingent capital, resolution plans and credit exposurereports, concentration limits, enhanced public disclosures, and overall risk management for nonbank financial companies and large, interconnected bank holding companies supervised by the Board of Governors;
+&emsp;&emsp;(I) make recommendations to the Board of Governors concerning the establishment of heightened prudential standards for risk-based capital, leverage, liquidity, contingent capital, resolution plans and credit exposure reports, concentration limits, enhanced public disclosures, and overall risk management for nonbank financial companies and large, interconnected bank holding companies supervised by the Board of Governors;
 
 &emsp;&emsp;(J) identify systemically important financial market utilities and payment, clearing, and settlement activities (as that term is defined in subchapter IV);
 
@@ -104,7 +104,7 @@ The Chairperson shall appear before the Committee on Financial Services of the H
 
 #### (B) Mitigation of report burden
 
-&emsp;&emsp;Before requiring the submission of reports from any nonbank financial company or bank holding company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agencies and shall, whenever possible, rely on information available from the Office of Financial Research or such agencies.
+&emsp;&emsp;Before requiring the submission of reports from any nonbank financial company or bank holding company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agencies and shall, whenever possible, rely on informationavailable from the Office of Financial Research or such agencies.
 
 #### (C) Mitigation in case of foreign financial companies
 

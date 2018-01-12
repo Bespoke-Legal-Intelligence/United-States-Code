@@ -68,7 +68,7 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat.1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
 
 #### Amendments
 
@@ -85,6 +85,62 @@ Subsec. (c). Pub. L. 113–66 substituted "section 1702(c) of title 41" for "sec
 <b>2000</b>—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
+
+#### Infrastructure Modernization Initiative
+
+Pub. L. 115–91, div. C, title XXXI, §3111(b), Dec. 12, 2017, 131 Stat. 1881, provided that:
+
+"(1)
+
+Establishment.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for Nuclear Security shall establish and carry out a program, to be known as the 'Infrastructure Modernization Initiative', to reduce the backlog of deferred maintenance and repair needs of the nuclear security enterprise (as defined in section 4002(6) of the Atomic Energy Defense Act (50 U.S.C. 2501(6))). In carrying out that program, the Administrator shall establish and execute infrastructure modernization milestones that reduce the deferred maintenance and repair needs of the nuclear security enterprise by not less than 30 percent by 2025.
+
+"(2)
+
+Authorities.—
+
+&emsp;"(A)
+
+Process.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary of Energy shall provide to the Administrator a process that will enhance or streamline the ability of the Administrator to carry out the program under paragraph (1) in an efficient and effective manner, including with respect to—
+
+&emsp;&emsp;&emsp;"(I) the demolition or construction of non-nuclear facilities of the Administration that have a total estimated project cost of less than $100,000,000; and
+
+&emsp;&emsp;&emsp;"(II) the decontamination, decommissioning, and demolition (to be performed in accordance with applicable health and safety standards used by the Defense Environmental Cleanup Program) of process-contaminated facilities of the Administration that have a total estimated project cost of less than $50,000,000.
+
+&emsp;&emsp;"(ii)
+
+Funding.—Clause (i) may be carried out using amounts authorized to be appropriated for fiscal year 2018 or any subsequent fiscal year.
+
+&emsp;"(B)
+
+Application of certain requirements.—For purposes of the Management Procedures Memorandum 2015–01 of the Office of Management and Budget, or a successor memorandum, in carrying out the program under paragraph (1), the Administrator may—
+
+&emsp;&emsp;"(i) perform new construction during a fiscal year that differs from the fiscal year of corresponding facility demolition;
+
+&emsp;&emsp;"(ii) perform demolition of different facility category codes and have that demolition credit count towards the construction of new facilities with a different facility category code; and
+
+&emsp;&emsp;"(iii) have the net reduction in infrastructure footprint for the five fiscal years prior to the date of the enactment of this Act \[Dec. 12, 2017\], and the demolition during the five fiscal years following such date of enactment, considered as a factor for the purpose of meeting the intent of such memorandum.
+
+"(3)
+
+Initial plan.—Not later than March 1, 2018, the Administrator shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an initial plan to carry out the program under paragraph (1) to achieve the goal specified in such paragraph. Such plan shall include—
+
+&emsp;"(A) the funding required to carry out the program during the period covered by the future-years nuclear security program under section 3253 of the National Nuclear Security Administration Act (50 U.S.C. 2453);
+
+&emsp;"(B) the criteria for selecting and prioritizing projects within the program under paragraph (1);
+
+&emsp;"(C) mechanisms for ensuring the robust management and oversight of such projects;
+
+&emsp;"(D) a description of the process provided to the Administrator to carry out the program pursuant to paragraph (2)(A); and
+
+&emsp;"(E) a description of any legislative actions the Administrator recommends to further enhance or streamline authorities or processes relating to the program.
+
+"(4)
+
+Reassessment.—Not later than February 1, 2024, the Administrator shall reassess the program under paragraph (1) and, as appropriate, develop and establish goals for the program beyond 2025."
 
 #### Technology Infrastructure Pilot Program
 
@@ -156,7 +212,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 > &emsp;that can support the missions of those laboratories and facilities.
 
-"(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
+"(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing theproject determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
 
 "(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
 

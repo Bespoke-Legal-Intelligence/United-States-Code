@@ -104,7 +104,7 @@ Subsec. (b)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this p
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1996 Amendment
 

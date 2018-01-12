@@ -6,7 +6,7 @@
 
 (b) Any amount owed the United States under subsection (a) of this section shall be paid to the United States during the one-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 101–366, title II, §205(a)(1), Aug. 15, 1990, 104 Stat. 440, §4355; renumbered §7655 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 101–366, title II, §205(a)(1), Aug. 15, 1990, 104 Stat. 440, §4355; renumbered §7655and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 #### Amendments
 

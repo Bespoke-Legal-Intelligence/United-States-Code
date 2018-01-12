@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
 
-&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005,and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
+&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
 
 &emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year, or
 
@@ -78,7 +78,7 @@
 
 (D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
-(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
+(ii) The board of directors shall review the hearing record established under clause (i) andshall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
 (E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
@@ -340,7 +340,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 (4) A resolution shall be referred to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge thecommittee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
+(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
 (6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
@@ -356,7 +356,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>4</sup>
 
-&emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
+&emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 foreach individual who was a participant in such plan during the plan year, and
 
 &emsp;&emsp;(iv) with respect to each plan year beginning after December 31, 1987, and before January 1, 1991, an amount equal to $16 for each individual who was a participant in such plan during the plan year, and
 
@@ -490,7 +490,7 @@ Subsec. (a)(3)(E)(iii)(V). Pub. L. 108–218 added subcl. (V).
 
 Subsec. (a)(3)(E)(iv), (v). Pub. L. 103–465, §774(a)(1), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows:
 
-"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect toany participant by reason of this subparagraph shall not exceed $53.
+"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect to any participant by reason of this subparagraph shall not exceed $53.
 
 "(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st plan year to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount."
 

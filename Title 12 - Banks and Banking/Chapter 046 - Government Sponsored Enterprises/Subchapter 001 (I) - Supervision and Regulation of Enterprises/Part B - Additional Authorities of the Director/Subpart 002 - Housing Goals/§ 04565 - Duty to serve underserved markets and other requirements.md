@@ -62,7 +62,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 #### (1) In general
 
-&emsp;The Director shall, by regulation, establish effective for 2010 and thereafter a manner forevaluating whether, and the extent to which, the enterprises have complied with the duty under subsection (a) to serve underserved markets and for rating the extent of such compliance. Using such method, the Director shall, for 2010 and each year thereafter, evaluate such compliance and rate the performance of each enterprise as to extent of compliance. The Director shall include such evaluation and rating for each enterprise for a year in the report for that year submitted pursuant to section 4521(a) of this title.
+&emsp;The Director shall, by regulation, establish effective for 2010 and thereafter a manner for evaluating whether, and the extent to which, the enterprises have complied with the duty under subsection (a) to serve underserved markets and for rating the extent of such compliance. Using such method, the Director shall, for 2010 and each year thereafter, evaluate such compliance and rate the performance of each enterprise as to extent of compliance. The Director shall include such evaluation and rating for each enterprise for a year in the report for that year submitted pursuant to section 4521(a) of this title.
 
 #### (2) Separate evaluations
 
@@ -88,7 +88,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Community Reinvestment Act of 1977, referred to in subsec. (b)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

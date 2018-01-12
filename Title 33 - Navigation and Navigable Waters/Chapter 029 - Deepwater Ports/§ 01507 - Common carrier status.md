@@ -22,7 +22,7 @@ Subsections (a) and (b) shall not apply to deepwater ports for natural gas. A li
 
 #### (e) Jurisdiction
 
-Notwithstanding any provision of the Natural Gas Act (15 U.S.C. 717 et seq.), any regulation or rule issued thereunder, or section 1518 of this title as it pertains to such Act, this chapter shall apply with respect to the licensing, siting,construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
+Notwithstanding any provision of the Natural Gas Act (15 U.S.C. 717 et seq.), any regulation or rule issued thereunder, or section 1518 of this title as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
 
 (Pub. L. 93–627, §8, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 98–419, §3(a), Sept. 25, 1984, 98 Stat. 1608; Pub. L. 104–324, title V, §507, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(d), Nov. 25, 2002, 116 Stat. 2087.)
 
@@ -38,7 +38,7 @@ The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–324, §507(a), inserted "and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued," after "subtitle IV of title 49,".
 
-Subsec. (b). Pub. L. 104–324, §507(b), substituted "A licensee is not discriminating under this section and" for "A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee".
+Subsec. (b). Pub. L. 104–324, §507(b), substituted "A licensee is not discriminating under this section and" for"A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–419 substituted provision that a deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49 except as provided by subsec. (b), for provision that such port and such facilities were subject to regulations as a common carrier in accordance with the Interstate Commerce Act, as amended, for purposes of chapter 39 of title 18 and former sections 1 to 27 of title 49.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
+In General.—Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States andabroad that offer the curriculum for training and certification under subsection (c).
 
 (b)
 

@@ -16,7 +16,7 @@ Except as provided in subsection (b) or (c), any confidential business informati
 
 #### (3) Information for enforcement actions
 
-&emsp;Information shall be disclosed to other Federal agencies for enforcement of this chapter or any other law, and shall be disclosed or otherwise provided when relevant in any proceeding under this chapter or any other law, except that disclosure or provision in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
+&emsp;Information shall be disclosed to other Federal agencies for enforcement of this chapteror any other law, and shall be disclosed or otherwise provided when relevant in any proceeding under this chapter or any other law, except that disclosure or provision in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
 
 #### (c) Information disclosed in national interest
 

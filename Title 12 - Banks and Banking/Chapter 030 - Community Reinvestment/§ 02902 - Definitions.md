@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies;
 
-&emsp;&emsp;(C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation, andState savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).<sup>1</sup>
+&emsp;&emsp;(C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).<sup>1</sup>
 
 &emsp;(2) the term "regulated financial institution" means an insured depository institution (as defined in section 1813 of this title); and
 

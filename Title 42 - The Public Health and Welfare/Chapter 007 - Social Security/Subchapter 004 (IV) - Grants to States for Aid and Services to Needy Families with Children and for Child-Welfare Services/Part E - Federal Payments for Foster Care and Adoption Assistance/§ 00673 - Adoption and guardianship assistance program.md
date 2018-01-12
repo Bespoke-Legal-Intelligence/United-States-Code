@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(bb) the prior adoption were treated as never having occurred; or
 
-&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoption assistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
+&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoption assistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoptionhas been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
 
 (D) In determining the eligibility for adoption assistance payments of a child in a legal guardianship arrangement described in section 671(a)(28) of this title, the placement of the child with the relative guardian involved and any kinship guardianship assistance payments made on behalf of the child shall be considered never to have been made.
 
@@ -86,7 +86,7 @@
 
 (5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c), to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
@@ -310,7 +310,7 @@ Subsec. (b)(1). Pub. L. 105–33, §5513(b)(4), substituted "July 16, 1996" for 
 
 <b>1996</b>—Subsec. (a)(2)(A)(i). Pub. L. 104–193, §108(d)(5)(A), inserted "(as such sections were in effect on June 1, 1995)" after "section 607 of this title", "(as so in effect)" after "specified in section 606(a) of this title", and "(as such section was in effect on June 1, 1995)" after "603".
 
-Subsec. (a)(2)(B)(i). Pub. L. 104–193, §108(d)(5)(B), inserted "would have" before "received aid under the State plan" and "(as in effect on June 1, 1995)" after "602 of this title".
+Subsec. (a)(2)(B)(i). Pub. L. 104–193, §108(d)(5)(B), inserted "would have" before "received aid under theState plan" and "(as in effect on June 1, 1995)" after "602 of this title".
 
 Subsec. (a)(2)(B)(ii)(II). Pub. L. 104–193, §108(d)(5)(C), inserted "(as in effect on June 1, 1995)" after "606(a) of this title".
 
@@ -348,7 +348,7 @@ Subsec. (a)(5). Pub. L. 99–514, §1711(a)(1), (c)(4), redesignated par. (4) as
 
 Subsec. (a)(6). Pub. L. 99–514, §1711(b), added par. (6).
 
-Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
+Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2)" for "subsection (a)(1)".
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–432, title II, §265(d), Oct. 31, 1994, 108 Stat. 4469, provided that: "Each amendment made by this section \[amending this section and sections 608 and 675 of this title\] shall take effect as if the amendment had been included in the provision of OBRA–1989 \[Pub. L. 101–239\] to which the amendment relates, at the time the provision became law."
+Pub. L. 103–432, title II, §265(d), Oct. 31, 1994, 108 Stat. 4469, provided that: "Each amendment made by thissection \[amending this section and sections 608 and 675 of this title\] shall take effect as if the amendment had been included in the provision of OBRA–1989 \[Pub. L. 101–239\] to which the amendment relates, at the time the provision became law."
 
 Pub. L. 103–432, title II, §266, Oct. 31, 1994, 108 Stat. 4469, provided that: "The amendment made by this section \[amending this section\] shall take effect as if the amendment had been included in the provision of OBRA–1993 \[Pub. L. 103–66\] to which the amendment relates, at the time the provision became law."
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) a fiduciary from purchasing insurance to cover liability under this part from and for his own account; or
 
-&emsp;(3) an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in afiduciary capacity with regard to an employee benefit plan.
+&emsp;(3) an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in a fiduciary capacity with regard to an employee benefit plan.
 
 (Pub. L. 93–406, title I, §410, Sept. 2, 1974, 88 Stat. 886.)
 

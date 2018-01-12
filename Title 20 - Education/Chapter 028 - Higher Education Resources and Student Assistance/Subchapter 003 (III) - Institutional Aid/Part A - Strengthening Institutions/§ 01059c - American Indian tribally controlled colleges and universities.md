@@ -94,7 +94,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+&emsp;&emsp;A Tribal College or University desiring to receive assistance under this section shallsubmit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (B) Streamlined process
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed amongthe eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
 
 &emsp;&emsp;&emsp;&emsp;(II) The remaining 40 percent shall be distributed in equal shares to the eligible Tribal Colleges and Universities.
 

@@ -12,7 +12,7 @@ The Administrator shall make grants to States to provide assistance to municipal
 
 #### (b) Allotment
 
-The Administrator shall allot the sums appropriated to carry out this section in any fiscal year among the States in accordance with regulations promulgated by him on the basis of the average of the ratio which the population of rural areas of each State bears to the total population of rural areas of all the States, the ratio which the population of counties in each Statehaving less than twenty persons per square mile bears to the total population of such counties in all the States, and the ratio which the population of such low-density counties in each State having 33 per centum or more of all families with incomes not in excess of 125 per centum of the poverty level bears to the total population of such counties in all the States.
+The Administrator shall allot the sums appropriated to carry out this section in any fiscal year among the States in accordance with regulations promulgated by him on the basis of the average of the ratio which the population of rural areas of each State bears to the total population of rural areas of all the States, the ratio which the population of counties in each State having less than twenty persons per square mile bears to the total population of such counties in all the States, and the ratio which the population of such low-density counties in each State having 33 per centum or more of all families with incomes not in excess of 125 per centum of the poverty level bears to the total population of such counties in all the States.
 
 #### (c) Limit
 
@@ -46,7 +46,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a), is act June
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

@@ -44,7 +44,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Special rules for purposes of sections 902 and 960.—For purposes of applying sections 902 and 960 of the Internal Revenue Code of 1986, the amendments made by this section shall apply to—
+Special rules for purposes of sections 902 and 960.—For purposes of applying sections \[former\] 902 and 960 of the Internal Revenue Code of 1986, the amendments made by this section shall apply to—
 
 &emsp;"(A) earnings and profits of the foreign corporation for taxable years beginning after December 31, 1986, and
 

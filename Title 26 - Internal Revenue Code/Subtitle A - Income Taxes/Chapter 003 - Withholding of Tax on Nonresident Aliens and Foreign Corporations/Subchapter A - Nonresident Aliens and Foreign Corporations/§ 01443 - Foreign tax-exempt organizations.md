@@ -6,7 +6,7 @@ In the case of income of a foreign organization subject to the tax imposed by se
 
 #### (b) Income subject to section 4948
 
-In the case of income of a foreign organization subject to the tax imposed by section 4948(a), this chapter shall apply, except that the deduction and withholding shall be at the rate of 4percent and shall be subject to such conditions as may be provided under regulations prescribed by the Secretary.
+In the case of income of a foreign organization subject to the tax imposed by section 4948(a), this chapter shall apply, except that the deduction and withholding shall be at the rate of 4 percent and shall be subject to such conditions as may be provided under regulations prescribed by the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 358; Pub. L. 91–172, title I, §§101(j)(22), 121(d)(2)(C), Dec. 30, 1969, 83 Stat. 528, 547; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

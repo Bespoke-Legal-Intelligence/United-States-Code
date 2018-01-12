@@ -16,7 +16,7 @@ Judges of the Tax Court shall be appointed by the President, by and with the adv
 
 #### (d) Expenses for travel and subsistence
 
-Judges of the Tax Court shall receive necessary traveling expenses, and expenses actuallyincurred for subsistence while traveling on duty and away from their designated stations, subject to the same limitations in amount as are now or may hereafter be applicable to the United States Court of International Trade.
+Judges of the Tax Court shall receive necessary traveling expenses, and expenses actually incurred for subsistence while traveling on duty and away from their designated stations, subject to the same limitations in amount as are now or may hereafter be applicable to the United States Court of International Trade.
 
 #### (e) Term of office
 
@@ -72,7 +72,7 @@ Amendment by section 953 of Pub. L. 91–172 to take effect on Dec. 30, 1969, se
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1955 Amendment
 

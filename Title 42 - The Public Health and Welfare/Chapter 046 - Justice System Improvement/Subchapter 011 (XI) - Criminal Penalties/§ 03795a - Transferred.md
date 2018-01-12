@@ -1,0 +1,6 @@
+### §3795a. Transferred
+
+#### Codification
+
+Section 3795a was editorially reclassified as section 10272 of Title 34, Crime Control and Law Enforcement.
+

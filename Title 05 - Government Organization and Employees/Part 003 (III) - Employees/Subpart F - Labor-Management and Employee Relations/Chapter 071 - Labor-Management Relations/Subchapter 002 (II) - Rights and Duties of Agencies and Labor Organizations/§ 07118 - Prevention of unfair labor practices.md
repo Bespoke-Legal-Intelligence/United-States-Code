@@ -38,7 +38,7 @@
 
 > If any such order requires reinstatement of an employee with backpay, backpay may be required of the agency (as provided in section 5596 of this title) or of the labor organization, as the case may be, which is found to have engaged in the unfair labor practice involved.
 
-(8) If the individual or individuals conducting the hearing determine that the preponderance ofthe evidence received fails to demonstrate that the agency or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
+(8) If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the agency or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 
 (b) In connection with any matter before the Authority in any proceeding under this section, the Authority may request, in accordance with the provisions of section 7105(i) of this title, from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or other policy directives issued by the Office of Personnel Management.
 

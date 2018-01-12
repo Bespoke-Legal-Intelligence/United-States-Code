@@ -74,7 +74,7 @@ In determining whether holders of the requisite principal amount of Outstanding 
 
 &emsp;(1) the Bond has previously been cancelled or delivered for cancellation or is held for reissuance but has not been reissued;
 
-&emsp;(2) the Bond has previously been called for redemption in accordance with its terms orpreviously become due and payable at maturity or otherwise and the Issuer has previously satisfied its obligation to make, or provide for, all payments due in respect of the Bond in accordance with its terms;
+&emsp;(2) the Bond has previously been called for redemption in accordance with its terms or previously become due and payable at maturity or otherwise and the Issuer has previously satisfied its obligation to make, or provide for, all payments due in respect of the Bond in accordance with its terms;
 
 &emsp;(3) the Bond has been substituted with a security of another series; or
 
@@ -84,7 +84,7 @@ In determining whether holders of the requisite principal amount of Outstanding 
 
 #### (c) Certification of disenfranchised Bonds
 
-Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shall deliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed not to be Outstanding for the purpose of subsection (b) above.
+Prior to any vote on, or consent solicitation for, a Qualifying Modification, the Issuer shall deliver to the Calculation Agent a certificate signed by an authorized representative of the Issuer specifying any Bonds that are deemed notto be Outstanding for the purpose of subsection (b) above.
 
 #### (d) Determination of Pools for voting
 
@@ -128,7 +128,7 @@ Before solicitation of acceptance or rejection of a Modification under subsectio
 
 &emsp;(2) if the Issuer is seeking Modifications affecting any other Pools of Bonds of the Territory Government Issuer or its Authorized Territorial Instrumentalities, a description of such other Modifications;
 
-&emsp;(3) if a Fiscal Plan with respect to such Issuer has been certified, the applicable FiscalPlan certified in accordance with section 2141 of this title; and
+&emsp;(3) if a Fiscal Plan with respect to such Issuer has been certified, the applicable Fiscal Plan certified in accordance with section 2141 of this title; and
 
 &emsp;(4) such other information as may be required under applicable securities laws.
 
@@ -140,7 +140,7 @@ A Modification is a Qualifying Modification if one of the following processes ha
 
 &emsp;(A) the Issuer proposing the Modification has consulted with holders of Bonds in each Pool of such Issuer prior to soliciting a vote on such Modification;
 
-&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
+&emsp;(B) each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amount of past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification (or, where a menu of instruments or other consideration is offered, each exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification is offered the same amount of consideration per amount of principal, the same amount of consideration per amount of interest accrued but unpaid and the same amount of consideration per amountof past due interest, respectively, as that offered to each other exchanging, repurchasing, converting, or substituting holder of Bonds of any series in a Pool affected by that Modification electing the same option under such menu of instruments); and
 
 &emsp;(C) the Modification is certified by the Administrative Supervisor as being consistent with the requirements set forth in section 2124(i)(1) of this title and is in the best interests of the creditors and is feasible.
 
@@ -176,7 +176,7 @@ For the purpose of calculating the principal amount of the Bonds of any series e
 
 #### (l) Information Agent
 
-For the purpose of administering a vote of holders of Bonds, including the holders of the right to vote such Bonds, or seeking the consent of holder <sup>1</sup> of Bonds, including the holders of the right to vote such Bonds, to a written actionunder this section, the Territory Government Issuer may appoint an Information Agent for each Pool reasonably acceptable to the Administrative Supervisor.
+For the purpose of administering a vote of holders of Bonds, including the holders of the right to vote such Bonds, or seeking the consent of holder <sup>1</sup> of Bonds, including the holders of the right to vote such Bonds, to a written action under this section, the Territory Government Issuer may appoint an Information Agent for each Pool reasonably acceptable to the Administrative Supervisor.
 
 #### (m) Binding effect
 
@@ -192,7 +192,7 @@ For the purpose of administering a vote of holders of Bonds, including the holde
 
 &emsp;&emsp;(iii) except for such conditions that have been identified in the Qualifying Modification as being non-waivable, any conditions on the effectiveness of the Qualifying Modification have been satisfied or, in the Administrative Supervisor's sole discretion, satisfaction of such conditions has been waived;
 
-&emsp;(C) with respect to a Bond Claim that is secured by a lien on property and with respect to which the holder of such Bond Claim has rejected or not consented to the Qualifying Modification, the holder of such Bond—
+&emsp;(C) with respect to a Bond Claim that is secured by a lien on property and with respect towhich the holder of such Bond Claim has rejected or not consented to the Qualifying Modification, the holder of such Bond—
 
 &emsp;&emsp;(i) retains the lien securing such Bond Claims; or
 

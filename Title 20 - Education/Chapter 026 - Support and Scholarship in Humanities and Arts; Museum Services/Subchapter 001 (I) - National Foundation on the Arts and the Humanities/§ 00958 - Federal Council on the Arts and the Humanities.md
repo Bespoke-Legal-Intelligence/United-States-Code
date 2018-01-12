@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 99–194, §109(3), struck out subsec. (e) which provided f
 
 Subsec. (c)(4). Pub. L. 98–306, §6(b), struck out "and the Institute of Museum Services" after "Foundation".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–496, §§106(a), 109(d), inserted "the Commissioner on Aging," and substituted "Secretary of Education" for "United States Commissioner of Education".
+<b>1980</b>—Subsec. (b). Pub. L. 96–496, §§106(a), 109(d), inserted "the Commissioner on Aging," and substituted"Secretary of Education" for "United States Commissioner of Education".
 
 Subsec. (c)(6). Pub. L. 96–496, §106(b), added par. (6).
 

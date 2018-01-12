@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) <sup>1</sup> as a country supporting international terrorism,engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
+Offense.—Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) <sup>1</sup> as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
 
 (b)
 

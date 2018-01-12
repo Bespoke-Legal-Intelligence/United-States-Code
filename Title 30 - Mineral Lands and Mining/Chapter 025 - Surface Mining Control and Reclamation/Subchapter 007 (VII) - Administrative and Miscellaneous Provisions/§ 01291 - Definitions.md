@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(7) "fund" means the Abandoned Mine Reclamation Fund established pursuant to section 1231 of this title;
 
-&emsp;(8) "imminent danger to the health and safety of the public" means the existence of any condition or practice, or any violation of a permit or other requirement of this chapter in a surface coal mining and reclamation operation, which condition, practice, or violation could reasonably be expected to cause substantial physical harm to persons outside the permit area before such condition, practice, or violation can be abated. A reasonable expectation of death or serious injury before abatement exists if a rational person, subjected to the same conditions or practices giving rise to the peril, would not expose himself or herself to the danger during the time necessary for abatement;
+&emsp;(8) "imminent danger to the health and safety of the public" means the existence of any condition or practice, or any violation of a permit or other requirement of this chapter in a surface coal mining and reclamation operation, which condition, practice, or violation could reasonably be expected to cause substantial physical harm to persons outside the permit area before such condition, practice, or violation can be abated. A reasonable expectation of death or serious injury before abatement exists if a rational person, subjected to the same conditions or practices giving rise to the peril, would not expose himself or herselfto the danger during the time necessary for abatement;
 
 &emsp;(9) "Indian lands" means all lands, including mineral interests, within the exterior boundaries of any Federal Indian reservation, notwithstanding the issuance of any patent, and including rights-of-way, and all lands including mineral interests held in trust for or supervised by an Indian tribe;
 
@@ -44,7 +44,7 @@ For the purposes of this chapter—
 
 &emsp;(21) "reclamation plan" means a plan submitted by an applicant for a permit under a State program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
 
-&emsp;(22) "regulatory authority" means the State regulatory authority where the State is administering this chapter under an approvedState program or the Secretary where the Secretary is administering this chapter under a Federal program;
+&emsp;(22) "regulatory authority" means the State regulatory authority where the State is administering this chapter under an approved State program or the Secretary where the Secretary is administering this chapter under a Federal program;
 
 &emsp;(23) "Secretary" means the Secretary of the Interior, except where otherwise described;
 

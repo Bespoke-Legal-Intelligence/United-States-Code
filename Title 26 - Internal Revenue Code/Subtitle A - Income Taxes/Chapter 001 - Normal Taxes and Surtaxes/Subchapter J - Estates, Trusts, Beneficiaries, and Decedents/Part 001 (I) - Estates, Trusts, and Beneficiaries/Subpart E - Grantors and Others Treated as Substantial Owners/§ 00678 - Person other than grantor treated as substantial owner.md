@@ -6,7 +6,7 @@ A person other than the grantor shall be treated as the owner of any portion of 
 
 &emsp;(1) such person has a power exercisable solely by himself to vest the corpus or the income therefrom in himself, or
 
-&emsp;(2) such person has previously partially released or otherwise modified such a power and after the release or modification retains such control as would, within the principles of sections 671 to 677, inclusive, subject to grantor of a trust to treatment as the owner thereof.
+&emsp;(2) such person has previously partially released or otherwise modified such a power and after the release or modification retains such control as would, within the principles of sections 671 to 677, inclusive, subject a grantor of a trust to treatment as the owner thereof.
 
 #### (b) Exception where grantor is taxable
 
@@ -24,7 +24,7 @@ Subsection (a) shall not apply with respect to a power which has been renounced 
 
 &emsp;&emsp;<b>For provision under which beneficiary of trust is treated as owner of the portion of the trust which consists of stock in an S corporation, see section 1361(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615; Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 231; Pub. L. 94–455, title X, §1013(b), Oct. 4, 1976, 90 Stat. 1615;Pub. L. 97–448, title I, §102(i)(2), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 106–554, §1(a)(7) \[title III, §319(8)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsection (a) shall not apply with respect to a power which has been renounced 
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "if the grantor of the trust or a transferor (to whom section679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section" for "if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive".
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "if the grantor of the trust or a transferor (to whom section 679 applies) is otherwise treated as the owner under the provisions of this subpart other than this section" for "if the grantor of the trust is otherwise treated as the owner under sections 671 to 677, inclusive".
 
 #### Effective Date of 1983 Amendment
 

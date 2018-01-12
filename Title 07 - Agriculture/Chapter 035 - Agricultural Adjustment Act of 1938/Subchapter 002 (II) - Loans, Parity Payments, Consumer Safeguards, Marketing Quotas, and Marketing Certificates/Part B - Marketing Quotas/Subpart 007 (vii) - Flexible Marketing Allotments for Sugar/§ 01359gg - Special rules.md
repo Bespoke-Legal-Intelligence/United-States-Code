@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
+&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee ofthe Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
 
 #### (ii) Allocation
 

@@ -1,6 +1,6 @@
 ### §7473. Disposition of fees
 
-Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fundof the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.
+Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 888; Pub. L. 99–514, title XV, §1553(b)(2), Oct. 22, 1986, 100 Stat. 2754; Pub. L. 114–113, div. Q, title IV, §432(b), Dec. 18, 2015, 129 Stat. 3126.)
 

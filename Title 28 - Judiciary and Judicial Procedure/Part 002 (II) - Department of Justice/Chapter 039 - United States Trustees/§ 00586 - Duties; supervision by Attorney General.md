@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) review and monitor diligently the debtor's activities, to determine as promptly as possible whether the debtor will be unable to confirm a plan; and
 
-&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptly after making that finding to the court for relief.
+&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptlyafter making that finding to the court for relief.
 
 (b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(I) not to exceed ten percent of the payments made under the plan of such debtor, with respect to payments in an aggregate amount not to exceed $450,000; and
 
-&emsp;&emsp;&emsp;(II) three percent of payments made under the plan of such debtor, with respect to payments made after the aggregateamount of payments made under the plan exceeds $450,000;
+&emsp;&emsp;&emsp;(II) three percent of payments made under the plan of such debtor, with respect to payments made after the aggregate amount of payments made under the plan exceeds $450,000;
 
 > &emsp;based on such maximum annual compensation and the actual, necessary expenses incurred by such individual as standing trustee.
 

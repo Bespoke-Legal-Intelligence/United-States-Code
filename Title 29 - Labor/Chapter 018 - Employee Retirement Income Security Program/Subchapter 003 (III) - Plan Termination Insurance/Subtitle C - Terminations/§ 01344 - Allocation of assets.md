@@ -18,7 +18,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;(4) Fourth—
 
-&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under this subchapter (determined without regard to section 1322b(a) of this title), and
+&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under thissubchapter (determined without regard to section 1322b(a) of this title), and
 
 &emsp;&emsp;(B) to the additional benefits (if any) which would be determined under subparagraph (A) if section 1322(b)(5)(B) of this title did not apply.
 
@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) If this paragraph applies, except as provided in subparagraph (B), the assets shall be allocated to the benefits of individuals described in such paragraph (5) on the basis of the benefits of individuals which would have been described in such paragraph (5) under the plan as in effect at the beginning of the 5-year period ending on the date of plan termination.
 
-&emsp;&emsp;(B) If the assets available for allocation under subparagraph (A) are sufficient to satisfy in full the benefits described in such subparagraph (without regard to this subparagraph), then for purposes of subparagraph (A), benefits of individuals described in such subparagraph shall be determined on the basis of the plan as amended by the most recent plan amendment effective during such 5-year period under which the assetsavailable for allocation are sufficient to satisfy in full the benefits of individuals described in subparagraph (A) and any assets remaining to be allocated under such subparagraph shall be allocated under subparagraph (A) on the basis of the plan as amended by the next succeeding plan amendment effective during such period.
+&emsp;&emsp;(B) If the assets available for allocation under subparagraph (A) are sufficient to satisfy in full the benefits described in such subparagraph (without regard to this subparagraph), then for purposes of subparagraph (A), benefits of individuals described in such subparagraph shall be determined on the basis of the plan as amended by the most recent plan amendment effective during such 5-year period under which the assets available for allocation are sufficient to satisfy in full the benefits of individuals described in subparagraph (A) and any assets remaining to be allocated under such subparagraph shall be allocated under subparagraph (A) on the basis of the plan as amended by the next succeeding plan amendment effective during such period.
 
 &emsp;(5) If the Secretary of the Treasury determines that the allocation made pursuant to this section (without regard to this paragraph) results in discrimination prohibited by section 401(a)(4) of title 26 then, if required to prevent the disqualification of the plan (or any trust under the plan) under section 401(a) or 403(a) of title 26, the assets allocated under subsections (a)(4)(B), (a)(5), and (a)(6) shall be reallocated to the extent necessary to avoid such discrimination.
 
@@ -64,7 +64,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 &emsp;(C) the plan provides for such a distribution in these circumstances.
 
-(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to the employer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
+(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to theemployer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
 
 (B) A distribution to the employer from a plan shall not be treated as failing to satisfy the requirements of this paragraph if the plan has been in effect for fewer than 5 years and the plan has provided for such a distribution since the effective date of the plan.
 
@@ -92,7 +92,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 > shall be treated as a participant with respect to the termination, if all or part of the nonforfeitable benefit with respect to such person is or was attributable to participants' mandatory contributions (referred to in subsection (a)(2)).
 
-(4) Nothing in this subsection shall be construed to limit the requirements of section4980(d) of title 26 (as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990) or section 1104(d) of this title with respect to any distribution of residual assets of a single-employer plan to the employer.
+(4) Nothing in this subsection shall be construed to limit the requirements of section 4980(d) of title 26 (as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990) or section 1104(d) of this title with respect to any distribution of residual assets of a single-employer plan to the employer.
 
 #### (e) Bankruptcy filing substituted for termination date
 
@@ -172,7 +172,7 @@ Pub. L. 109–280, §404(b), added subsec. (e) relating to substitution of bankr
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(2), substituted "accrued" for "accured".
 
-Subsec. (b)(4). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal RevenueCode of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (b)(4). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(e)(3), made technical correction to directory language of Pub. L. 100–203, §9311(b)(2), see 1987 Amendment note below.
 
@@ -212,7 +212,7 @@ Amendment by section 408(b)(2) of Pub. L. 109–280 applicable for any terminati
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to PensionBenefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

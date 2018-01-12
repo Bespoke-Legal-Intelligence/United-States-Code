@@ -1,0 +1,6 @@
+### §5119. Transferred
+
+#### Codification
+
+Section 5119 was editorially reclassified as section 40101 of Title 34, Crime Control and Law Enforcement.
+

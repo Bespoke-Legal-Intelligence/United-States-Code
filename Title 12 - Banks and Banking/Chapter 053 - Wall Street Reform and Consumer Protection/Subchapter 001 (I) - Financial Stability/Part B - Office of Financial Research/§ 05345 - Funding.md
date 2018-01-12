@@ -44,7 +44,7 @@ During the 2-year period following July 21, 2010, the Board of Governors shall p
 
 #### (d) Permanent self-funding
 
-Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
+Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessmentschedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
 
 (Pub. L. 111–203, title I, §155, July 21, 2010, 124 Stat. 1418.)
 

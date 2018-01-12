@@ -32,7 +32,7 @@
 
 (5) The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
-(6) The term "short-barreled shotgun" means a shotgun having one or more barrels less thaneighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
+(6) The term "short-barreled shotgun" means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
 (7) The term "rifle" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
@@ -84,13 +84,13 @@
 
 &emsp;(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
-> What constitutes a conviction of such a crime shall be determined in accordance with the law of the jurisdiction in which the proceedings wereheld. Any conviction which has been expunged, or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for purposes of this chapter, unless such pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+> What constitutes a conviction of such a crime shall be determined in accordance with the law of the jurisdiction in which the proceedings were held. Any conviction which has been expunged, or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for purposes of this chapter, unless such pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
 
 (21) The term "engaged in the business" means—
 
 &emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
-&emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
+&emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention,and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
 &emsp;(C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
 
@@ -212,7 +212,7 @@ Subsec. (a)(34). Pub. L. 105–277, §101(b) \[title I, §119(a)\], added par. (
 
 <b>1995</b>—Subsec. (a)(27). Pub. L. 104–88 substituted "section 13102" for "section 10102".
 
-<b>1994</b>—Subsec. (a)(17)(B). Pub. L. 103–322, §110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'armor piercing ammunition' means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental orgame regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device."
+<b>1994</b>—Subsec. (a)(17)(B). Pub. L. 103–322, §110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'armor piercing ammunition' means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device."
 
 Subsec. (a)(17)(C). Pub. L. 103–322, §110519, added subpar. (C).
 
@@ -220,7 +220,7 @@ Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted "kidnapping
 
 Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining "semiautomatic assault weapon", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322,§110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -354,7 +354,7 @@ Pub. L. 103–159, title I, §105, Nov. 30, 1993, 107 Stat. 1543, provided that:
 
 #### Statutory Construction; Evidence
 
-For provisions relating to statutory construction of, and admissibility of evidence regarding compliance ornoncompliance with, the amendment by section 101(b) \[title I, §119(a)\] of Pub. L. 105–277, see section 101(b) \[title I, §119(d)\] of Pub. L. 105–277, set out as a note under section 923 of this title.
+For provisions relating to statutory construction of, and admissibility of evidence regarding compliance or noncompliance with, the amendment by section 101(b) \[title I, §119(a)\] of Pub. L. 105–277, see section 101(b) \[title I, §119(d)\] of Pub. L. 105–277, set out as a note under section 923 of this title.
 
 #### Study By Attorney General
 

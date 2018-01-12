@@ -28,7 +28,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §106(c)(1), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §122(b)(2), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 108–454, title I, §106(b)(2), Dec. 10, 2004, 118 Stat. 3603.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258,§3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §106(c)(1), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §122(b)(2), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 108–454, title I, §106(b)(2), Dec. 10, 2004, 118 Stat. 3603.)
 
 #### Amendments
 
@@ -59,4 +59,8 @@ Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as a note under section 3032 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under section 3201 of this title.
 

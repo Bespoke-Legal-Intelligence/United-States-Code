@@ -12,7 +12,7 @@ If any facility with respect to which funds have been paid under section 291f of
 
 #### (b) Notice to Secretary
 
-The transferor of a facility which is sold or transferred as described in subsection (a)(1), orthe owner of a facility the use of which is changed as described in subsection (a)(2), shall provide the Secretary written notice of such sale, transfer, or change not later than the expiration of 10 days from the date on which such sale, transfer, or change occurs.
+The transferor of a facility which is sold or transferred as described in subsection (a)(1), or the owner of a facility the use of which is changed as described in subsection (a)(2), shall provide the Secretary written notice of such sale, transfer, or change not later than the expiration of 10 days from the date on which such sale, transfer, or change occurs.
 
 #### (c) Amount of recovery; interest; interest period
 
@@ -70,7 +70,7 @@ Provisions similar to those comprising this section were contained in section 29
 
 &emsp;"(b) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility, unless the Surgeon General determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from this obligation,
 
-> the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which thefacility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment."
+> the United States shall be entitled to recover from either the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction or modernization under such project or projects. Such right of recovery shall not constitute a lien upon said facility prior to judgment."
 
 <b>1970</b>—Cl. (b). Pub. L. 91–296 substituted "outpatient facility" for "diagnostic or treatment center".
 

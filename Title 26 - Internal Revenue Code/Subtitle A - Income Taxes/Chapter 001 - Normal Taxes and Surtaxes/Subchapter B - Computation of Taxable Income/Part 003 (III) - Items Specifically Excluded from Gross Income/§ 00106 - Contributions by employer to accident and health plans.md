@@ -100,7 +100,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (A) Testing period
 
-&emsp;&emsp;The term "testing period" means the period beginning with the month in which the qualified HSA distribution is contributed to the health savings account and ending on the last day of the 12th month following such month.
+&emsp;&emsp;The term "testing period" means the period beginning with the month in which thequalified HSA distribution is contributed to the health savings account and ending on the last day of the 12th month following such month.
 
 #### (B) Eligible individual
 

@@ -14,5 +14,5 @@ Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, as 
 
 #### Employee Incentives for Employees at Closure Project Facilities
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3136\], Oct. 30, 2000, 114 Stat. 1654, 1654A–458, which was formerly set out as a note under section 7274n of this title, was renumbered section 4603 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, and was classified to section 2703 of Title 50, War and NationalDefense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(g)(3)(A), Dec. 26, 2013, 127 Stat. 1079.
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3136\], Oct. 30, 2000, 114 Stat. 1654, 1654A–458, which was formerly set out as a note under section 7274n of this title, was renumbered section 4603 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, and was classified to section 2703 of Title 50, War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(g)(3)(A), Dec. 26, 2013, 127 Stat. 1079.
 

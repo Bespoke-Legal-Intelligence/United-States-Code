@@ -4,7 +4,7 @@ Congress makes the following findings:
 
 &emsp;(1) According to the Department of State, the Government of North Korea is "a dictatorship under the absolute rule of Kim Jong Il" that continues to commit numerous, serious human rights abuses.
 
-&emsp;(2) The Government of North Korea attempts to control all information, artistic expression,academic works, and media activity inside North Korea and strictly curtails freedom of speech and access to foreign broadcasts.
+&emsp;(2) The Government of North Korea attempts to control all information, artistic expression, academic works, and media activity inside North Korea and strictly curtails freedom of speech and access to foreign broadcasts.
 
 &emsp;(3) The Government of North Korea subjects all its citizens to systematic, intensive political and ideological indoctrination in support of the cult of personality glorifying Kim Jong Il and the late Kim Il Sung that approaches the level of a state religion.
 
@@ -46,7 +46,7 @@ Congress makes the following findings:
 
 &emsp;(22) In January 2000, North Korean agents inside China allegedly abducted the Reverend Kim Dong-shik, a United States permanent resident and advocate for North Korean refugees, whose condition and whereabouts remain unknown.
 
-&emsp;(23) Between 1994 and 2003, South Korea has admitted approximately 3,800 North Korean refugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but fargreater than the number legally admitted in any other country.
+&emsp;(23) Between 1994 and 2003, South Korea has admitted approximately 3,800 North Korean refugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but far greater than the number legally admitted in any other country.
 
 &emsp;(24) Although the principal responsibility for North Korean refugee resettlement naturally falls to the Government of South Korea, the United States should play a leadership role in focusing international attention on the plight of these refugees, and formulating international solutions to that profound humanitarian dilemma.
 
@@ -64,7 +64,7 @@ Pub. L. 112–172, §1, Aug. 16, 2012, 126 Stat. 1307, provided that: "This Act 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–346, §1, Oct. 7, 2008, 122 Stat. 3939, provided that: "This Act \[amending sections 7803, 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section\] may be cited as the 'North Korean Human Rights Reauthorization Act of 2008'."
+Pub. L. 110–346, §1, Oct. 7, 2008, 122 Stat. 3939, provided that: "This Act \[amending sections 7803, 7812, 7814, 7817,7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section\] may be cited as the 'North Korean Human Rights Reauthorization Act of 2008'."
 
 #### Short Title
 

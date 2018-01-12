@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—To the extent the Secretary of Transportation finds necessary to carry out this subpart, this section and section 41709 of this title apply to a person controlling an air carrier or affiliated (within the meaning of section 11343(c) of this title) with a carrier.
+Application.—To the extent the Secretary of Transportation finds necessary to carry out this subpart, this section and section 41709 of this title apply to a person controlling an aircarrier or affiliated (within the meaning of section 11343(c) of this title) with a carrier.
 
 (b)
 

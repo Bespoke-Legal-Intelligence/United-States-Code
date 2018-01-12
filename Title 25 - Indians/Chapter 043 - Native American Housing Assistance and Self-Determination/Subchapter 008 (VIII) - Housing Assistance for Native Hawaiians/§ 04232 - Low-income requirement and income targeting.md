@@ -14,7 +14,7 @@ Housing shall qualify for affordable housing for purposes of this subchapter onl
 
 &emsp;&emsp;(A) the remaining useful life of the property (as determined by the Secretary) without regard to the term of the mortgage or to transfer of ownership; or
 
-&emsp;&emsp;(B) such other period as the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this subchapter, except upona foreclosure by a lender (or upon other transfer in lieu of foreclosure) if that action—
+&emsp;&emsp;(B) such other period as the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this subchapter, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if that action—
 
 &emsp;&emsp;&emsp;(i) recognizes any contractual or legal rights of any public agency, nonprofit sponsor, or other person or entity to take an action that would—
 

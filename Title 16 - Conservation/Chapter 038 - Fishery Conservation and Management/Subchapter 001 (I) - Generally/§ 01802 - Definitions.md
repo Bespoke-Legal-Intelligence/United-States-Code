@@ -156,7 +156,7 @@ Sponges
 
 &emsp;&emsp;(B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
 
-&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited accesssystem to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
+&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
 &emsp;(24) The term "international fishery agreement" means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
@@ -204,9 +204,9 @@ Sponges
 
 &emsp;(40) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas inArticle 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
-&emsp;(42) The term "stock of fish" means a species, subspecies, geographical grouping, orother category of fish capable of management as a unit.
+&emsp;(42) The term "stock of fish" means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 
 &emsp;(43) The term "treaty" means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
 
@@ -434,7 +434,7 @@ Pub. L. 104–297, §102(9), redesignated pars. (38) and (39) as (40) and (41), 
 
 Pub. L. 104–297, §102(8), redesignated pars. (38) and (39) as (40) and (41), respectively.
 
-Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "forwhich a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
+Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "for which a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §102(10), redesignated par. (41) as (42). Former par. (42) redesignated (43).
 

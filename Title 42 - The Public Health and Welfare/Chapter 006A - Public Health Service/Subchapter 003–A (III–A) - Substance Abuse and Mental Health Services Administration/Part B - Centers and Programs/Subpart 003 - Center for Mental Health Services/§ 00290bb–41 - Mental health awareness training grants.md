@@ -8,7 +8,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identifyand appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
+&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identify and appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
 
 #### (2) Emergency services personnel
 
@@ -56,7 +56,7 @@ Subsec. (b)(5). Pub. L. 114–255, §9010(2)(C), substituted "for evidence-based
 
 "(B) train emergency services personnel to identify and appropriately respond to persons with a mental illness; and
 
-"(C) provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.".
+"(C) provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness."
 
 Subsec. (b)(7). Pub. L. 114–255, §9010(2)(D), substituted "$14,693,000 for each of fiscal years 2018 through 2022." for ", $25,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2003."
 

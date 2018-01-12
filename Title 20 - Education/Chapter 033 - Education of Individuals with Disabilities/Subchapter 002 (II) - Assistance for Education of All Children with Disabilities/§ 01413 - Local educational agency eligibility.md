@@ -54,7 +54,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (iv) Special rule
 
-&emsp;&emsp;&emsp;The amount of funds expended by a local educational agency under subsection (f)shall count toward the maximum amount of expenditures such local educational agency may reduce under clause (i).
+&emsp;&emsp;&emsp;The amount of funds expended by a local educational agency under subsection (f) shall count toward the maximum amount of expenditures such local educational agency may reduce under clause (i).
 
 #### (D) Schoolwide programs under title I of the ESEA
 
@@ -142,7 +142,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 
-If the State educational agency determines that a local educational agency or State agency is not eligible under this section, then the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
+If the State educational agency determines that a local educational agency or State agency is not eligible under this section, then the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agencywith reasonable notice and an opportunity for a hearing.
 
 #### (d) Local educational agency compliance
 
@@ -246,7 +246,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (h) State agency eligibility
 
-Any State agency that desires to receive a subgrant for any fiscal year under section 1411(f)of this title shall demonstrate to the satisfaction of the State educational agency that—
+Any State agency that desires to receive a subgrant for any fiscal year under section 1411(f) of this title shall demonstrate to the satisfaction of the State educational agency that—
 
 &emsp;(1) all children with disabilities who are participating in programs and projects funded under this subchapter receive a free appropriate public education, and that those children and their parents are provided all the rights and procedural safeguards described in this subchapter; and
 
@@ -268,7 +268,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (3) Education activities
 
-&emsp;If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
+&emsp;If a State educational agency exercises the authority under paragraph (1), the agencyshall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
 
 #### (4) Report
 
@@ -294,7 +294,7 @@ Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(3). Pub. L. 114–95 substituted "subject to the requirements of section 1412(a)(14) of thistitle and section 2102(b) of the Elementary and Secondary Education Act of 1965" for "subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965".
+<b>2015</b>—Subsec. (a)(3). Pub. L. 114–95 substituted "subject to the requirements of section 1412(a)(14) of this title and section 2102(b) of the Elementary and Secondary Education Act of 1965" for "subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965".
 
 #### Effective Date of 2015 Amendment
 

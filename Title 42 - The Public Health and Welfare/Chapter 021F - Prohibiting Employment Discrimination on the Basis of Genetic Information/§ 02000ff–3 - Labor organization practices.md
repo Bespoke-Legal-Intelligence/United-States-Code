@@ -62,3 +62,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
+#### Effective Date
+
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under section 2000ff of this title.
+

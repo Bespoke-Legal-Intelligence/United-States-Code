@@ -1,6 +1,6 @@
 ### §5109. Positions classified by statute
 
-(a) The position held by an employee of the Department of Agriculture while he, under section 450d of title 7, is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
+(a) The position held by an employee of the Department of Agriculture while he, under section 450d of title 7,<sup>1</sup> is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
 
 (b)(1) The position held by a fully experienced and qualified railroad safety inspector of the Department of Transportation shall be classified in accordance with this chapter, but not lower than GS–12.
 
@@ -42,6 +42,10 @@ In subsection (c), the words "Notwithstanding any other law" were omitted as unn
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 450d of title 7, referred to in subsec. (a), probably means section 2 of act Apr. 4, 1940, ch. 75, which was formerly classified to section 450d of Title 7, Agriculture, prior to editorial reclassification and renumbering as section 2204–2 of Title 7.
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108."
@@ -77,4 +81,6 @@ Amendment by Pub. L. 91–34 effective at beginning of first pay period which co
 #### Reduction of Basic Pay Rate
 
 Rate of basic pay not to be reduced by reason of enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

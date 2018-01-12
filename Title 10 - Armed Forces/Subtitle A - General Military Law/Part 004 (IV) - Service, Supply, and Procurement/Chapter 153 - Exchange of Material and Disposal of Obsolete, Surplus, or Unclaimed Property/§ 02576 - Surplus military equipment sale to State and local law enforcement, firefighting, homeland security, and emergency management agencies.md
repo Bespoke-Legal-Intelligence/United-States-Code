@@ -62,7 +62,7 @@ Order of Transfers.—
 
 &emsp;"(1)
 
-Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
+Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretaryof Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
 
 &emsp;"(2)
 

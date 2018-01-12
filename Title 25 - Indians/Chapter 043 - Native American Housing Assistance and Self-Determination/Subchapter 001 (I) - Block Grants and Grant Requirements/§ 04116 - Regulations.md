@@ -18,7 +18,7 @@
 
 #### (1) Timing
 
-&emsp;The Secretary shall issue final regulations necessary to carry out this chapter not later than September 1, 1997, and such regulations shall take effect not later than the effective date of this chapter.
+&emsp;The Secretary shall issue final regulations necessary to carry out this chapter not laterthan September 1, 1997, and such regulations shall take effect not later than the effective date of this chapter.
 
 #### (2) Negotiated rulemaking procedure
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) initiate a negotiated rulemaking in accordance with this section by not later than 90 days after the date of enactment of the Native American Housing Assistanceand Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter; and
+&emsp;&emsp;&emsp;(i) initiate a negotiated rulemaking in accordance with this section by not later than 90 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter; and
 
 &emsp;&emsp;&emsp;(ii) promulgate regulations pursuant to this section by not later than 2 years after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter.
 

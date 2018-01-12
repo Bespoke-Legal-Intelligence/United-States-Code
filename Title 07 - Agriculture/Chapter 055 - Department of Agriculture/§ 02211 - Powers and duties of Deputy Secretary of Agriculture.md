@@ -1,6 +1,6 @@
 ### §2211. Powers and duties of Deputy Secretary of Agriculture
 
-The Deputy Secretary of Agriculture is authorized to exercise the functions and perform the duties of the first assistant of the Secretary of Agriculture within the meaning of section 3345 of title 5 and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
+The Deputy Secretary of Agriculture is authorized to exercise the functions and performthe duties of the first assistant of the Secretary of Agriculture within the meaning of section 3345 of title 5 and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
 
 (June 5, 1939, ch. 181, 53 Stat. 809; Pub. L. 94–561, §1(c)(2), Oct. 19, 1976, 90 Stat. 2643.)
 

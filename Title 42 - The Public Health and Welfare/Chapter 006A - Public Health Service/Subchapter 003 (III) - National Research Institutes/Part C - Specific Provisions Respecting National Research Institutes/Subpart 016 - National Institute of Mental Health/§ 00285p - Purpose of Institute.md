@@ -6,7 +6,7 @@ The general purpose of the National Institute of Mental Health (hereafter in thi
 
 #### (b) Research program
 
-The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
+The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mentalillness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
 
 #### (c) Collaboration
 

@@ -60,7 +60,7 @@ Focus of collaboration sessions.—The interagency collaboration sessions, and t
 
 &emsp;(4)
 
-Consultation.—The interagency collaboration sessions shall include a consultation with groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
+Consultation.—The interagency collaboration sessions shall include a consultationwith groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
 
 (e)
 

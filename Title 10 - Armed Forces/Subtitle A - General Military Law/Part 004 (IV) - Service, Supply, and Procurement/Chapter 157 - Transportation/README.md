@@ -27,10 +27,13 @@
 | [2649\.](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels%2C%20vehicles%2C%20and%20aircraft.md) | Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft. |
 | [2650\.](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md) | Civilian personnel in Alaska. |
 | [2651\.](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md) | Passengers and merchandise to Guam: sea transport. |
+| [2652\.](%C2%A7%2002652%20-%20Prohibition%20on%20charge%20of%20certain%20tariffs%20on%20aircraft%20traveling%20through%20channel%20routes.md) | Prohibition on charge of certain tariffs on aircraft traveling through channel routes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" did not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
 
@@ -86,6 +89,22 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 <b>1957</b>—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
+#### Air Transportation of Civilian Department of Defense Personnel To and From Afghanistan
+
+Pub. L. 115–91, div. A, title X, §1098, Dec. 12, 2017, 131 Stat. 1626, provided that:
+
+"(a)
+
+Policy Review.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall conduct a policy review regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department of Defense to and from Afghanistan.
+
+"(b)
+
+Report to Congress.—Not later than 90 days after the completion of the policy review required by subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of such review.
+
+"(c)
+
+Updated Guidelines.—Not later than 90 days after the completion of the policy review required by subsection (a), the Secretary shall issue updated guidelines, based on the report submitted under subsection (b), regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department to and from Afghanistan."
+
 
 ---
 
@@ -116,3 +135,4 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02649 - Civilian passengers and commercial cargoes transportation on Department of Defense vessels, vehicles, and aircraft](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels%2C%20vehicles%2C%20and%20aircraft.md)
 - [&sect; 02650 - Civilian personnel in Alaska](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md)
 - [&sect; 02651 - Passengers and merchandise to Guam sea transport](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md)
+- [&sect; 02652 - Prohibition on charge of certain tariffs on aircraft traveling through channel routes](%C2%A7%2002652%20-%20Prohibition%20on%20charge%20of%20certain%20tariffs%20on%20aircraft%20traveling%20through%20channel%20routes.md)

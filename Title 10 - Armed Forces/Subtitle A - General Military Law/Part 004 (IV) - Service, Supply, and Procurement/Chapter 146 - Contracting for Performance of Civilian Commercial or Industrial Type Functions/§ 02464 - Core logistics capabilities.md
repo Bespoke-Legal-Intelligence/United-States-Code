@@ -14,7 +14,7 @@ Necessity for Core Logistics Capabilities.—(1) It is essential for the nationa
 
 (b)
 
-Limitation on Contracting.—(1) Except as provided in paragraph (2), performance of workload needed to maintain a logistics capability identified by the Secretary under subsection (a)(2) may not be contracted for performance by non-Government personnel under the proceduresand requirements of Office of Management and Budget Circular A–76 or any successor administrative regulation or policy (hereinafter in this section referred to as OMB Circular A–76).
+Limitation on Contracting.—(1) Except as provided in paragraph (2), performance of workload needed to maintain a logistics capability identified by the Secretary under subsection (a)(2) may not be contracted for performance by non-Government personnel under the procedures and requirements of Office of Management and Budget Circular A–76 or any successor administrative regulation or policy (hereinafter in this section referred to as OMB Circular A–76).
 
 (2) The Secretary of Defense may waive paragraph (1) in the case of any such logistics capability and provide that performance of the workload needed to maintain that capability shall be considered for conversion to contractor performance in accordance with OMB Circular A–76. Any such waiver shall be made under regulations prescribed by the Secretary and shall be based on a determination by the Secretary that Government performance of the workload is no longer required for national defense reasons. Such regulations shall include criteria for determining whether Government performance of any such workload is no longer required for national defense reasons.
 
@@ -46,11 +46,25 @@ Biennial Core Report.—Not later than April 1 of each even-numbered year, the S
 
 &emsp;(3) In any case where core depot-level maintenance and repair capability requirements exceed or are expected to exceed sustaining workloads, a detailed rationale for any and all shortfalls and a plan either to correct or mitigate the effects of the shortfalls.
 
+&emsp;(4) Any workload shortfalls at any work breakdown structure category designated as a lower-level category pursuant to Department of Defense Instruction 4151.20, or any successor instruction.
+
+&emsp;(5) A description of any workload executed at a category designated as a first-level category pursuant to such Instruction, or any successor instruction, that could be used to mitigate shortfalls in similar categories.
+
+&emsp;(6) A description of any progress made on implementing mitigation plans developed pursuant to paragraph (3).
+
+&emsp;(7) A description of core capability requirements and corresponding workloads at the first level category.
+
+&emsp;(8) In the case of any shortfall that is identified, a description of the shortfall and an identification of the subcategory of the work breakdown structure in which the shortfall occurred.
+
+&emsp;(9) In the case of any work breakdown structure category designated as a special interest item or other pursuant to such Instruction, or any successor instruction, an explanation for such designation.
+
+&emsp;(10) Whether the core depot-level maintenance and repair capability requirements described in the report submitted under this subsection for the preceding fiscal year have been executed.
+
 (e)
 
-Comptroller General Review.—The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committees findings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
+Comptroller General Review.—The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committeesfindings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
 
-(Added and amended Pub. L. 112–239, div. A, title III, §322(b)(2)(A), (d), Jan. 2, 2013, 126 Stat. 1695.)
+(Added and amended Pub. L. 112–239, div. A, title III, §322(b)(2)(A), (d), Jan. 2, 2013, 126 Stat. 1695; Pub. L. 115–91, div. A, title III, §332, Dec. 12, 2017, 131 Stat. 1354.)
 
 #### Codification
 
@@ -62,6 +76,8 @@ A prior section 2464, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Sta
 
 #### Amendments
 
+<b>2017</b>—Subsec. (d)(4) to (10). Pub. L. 115–91 added pars. (4) to (10).
+
 <b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239, §322(d), added subsecs. (d) and (e).
 
 #### Effective Date
@@ -71,4 +87,16 @@ Section and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately 
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of biennial report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+#### Updated Guidance Regarding Biennial Core Report
+
+Pub. L. 115–91, div. A, title III, §338, Dec. 12, 2017, 131 Stat. 1360, provided that: "To ensure that the biennial core reporting procedures of the Department of Defense align with the requirements of section 2464 of title 10, United States Code, and that each reporting agency provides accurate and complete information, the Secretary of Defense shall direct the Under Secretary of Defense for Acquisition, Technology and Logistics to update the Department of Defense Guidance, in particular Department of Defense Instruction 4151.20, to require future biennial core reports include instructions to the reporting agencies on how to—
+
+&emsp;"(1) report additional depot workload performed that has not been identified as a core requirement;
+
+&emsp;"(2) accurately capture inter-service workload;
+
+&emsp;"(3) calculate shortfalls; and
+
+&emsp;"(4) estimate the cost of planned workload."
 

@@ -164,7 +164,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (13) Specific barriers
 
-&emsp;The principal negotiating objective of the United States regarding specific barriers is to obtain competitive opportunities for United States exports in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports to United States markets, including the reduction or elimination of specific tariff and nontariff trade barriers, particularly—
+&emsp;The principal negotiating objective of the United States regarding specific barriers is toobtain competitive opportunities for United States exports in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports to United States markets, including the reduction or elimination of specific tariff and nontariff trade barriers, particularly—
 
 &emsp;&emsp;(A) measures identified in the annual report prepared under section 2241 of this title; and
 
@@ -266,7 +266,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 
-Section 1–101. <i>Accession of State Trading Regimes to the General Agreement on Tariffs and Trade</i>. The functionsvested in the President by sections 1106(a), (b) and (d) of the Omnibus Trade Act \[19 U.S.C. 2905(a), (b), (d)\], regarding the accession of state trading regimes to the General Agreement on Tariffs and Trade, are delegated to the United States Trade Representative.
+Section 1–101. <i>Accession of State Trading Regimes to the General Agreement on Tariffs and Trade</i>. The functions vested in the President by sections 1106(a), (b) and (d) of the Omnibus Trade Act \[19 U.S.C. 2905(a), (b), (d)\], regarding the accession of state trading regimes to the General Agreement on Tariffs and Trade, are delegated to the United States Trade Representative.
 
 Sec. 1–201. <i>Wine Barriers</i>. The functions vested in the President by section 1125 of the Omnibus Trade Act \[19 U.S.C. 2804 note\], regarding the updated report on barriers to wine trade, are delegated to the United States Trade Representative.
 
@@ -316,7 +316,7 @@ Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeover
 
 (C) By deleting, from the third sentence in Section 1(a), the phrase "representative of the".
 
-(D) By deleting "and" at the end of subparagraph (3) of Section 1(b), by substituting "; and" for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: "(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended\(50 U.S.C. App. 2061 <i>et seq</i>.) \[now 50 U.S.C. 4501 et seq.\] ("Defense Production Act")."
+(D) By deleting "and" at the end of subparagraph (3) of Section 1(b), by substituting "; and" for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: "(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 <i>et seq</i>.) \[now 50 U.S.C. 4501 et seq.\] ("Defense Production Act")."
 
 (E) By adding the following sentence at the end of Section 5: "Information or documentary material filed pursuant to Section 1(b)(5) or Section 7 of this Order shall be treated in accordance with paragraph (b) of Section 721 of the Defense Production Act."
 

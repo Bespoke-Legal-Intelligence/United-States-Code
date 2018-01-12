@@ -58,7 +58,7 @@ Not later than 1 year after December 19, 2007, the Secretary shall develop a met
 
 #### (2) State coordination
 
-&emsp;The Secretary shall consult with State geological surveys and other relevant entities to ensure, to the maximum extent practicable, the usefulness and success of the assessment.
+&emsp;The Secretary shall consult with State geological surveys and other relevant entities toensure, to the maximum extent practicable, the usefulness and success of the assessment.
 
 #### (d) External review and publication
 
@@ -121,4 +121,8 @@ The methodology developed under this section shall be updated periodically (incl
 There is authorized to be appropriated to carry out this section $30,000,000 for the period of fiscal years 2008 through 2012.
 
 (Pub. L. 110–140, title VII, §711, Dec. 19, 2007, 121 Stat. 1710.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

@@ -8,7 +8,7 @@ In accordance with regulations promulgated by the Secretary, an employer to whic
 
 &emsp;(2) if the employer plan's share of the total allowed costs of benefits provided under the plan is less than 60 percent of such costs, that the employee may be eligible for a premium tax credit under section 36B of title 26 and a cost sharing reduction under section 18071 of title 42 if the employee purchases a qualified health plan through the Exchange; and
 
-&emsp;(3) if the employee purchases a qualified health plan through the Exchange, the employee may lose the employer contribution (if any) to any health benefits plan offered by theemployer and that all or a portion of such contribution may be excludable from income for Federal income tax purposes.
+&emsp;(3) if the employee purchases a qualified health plan through the Exchange, the employee may lose the employer contribution (if any) to any health benefits plan offered by the employer and that all or a portion of such contribution may be excludable from income for Federal income tax purposes.
 
 #### (b) Effective date
 

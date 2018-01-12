@@ -42,5 +42,5 @@ Reconsideration.—An order of a military judge authorizing a request of the tri
 
 #### References in Text
 
-The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 

@@ -48,7 +48,7 @@
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VIIof the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -76,7 +76,7 @@
 
 #### (2) Private actions
 
-&emsp;If the Special Counsel, after receiving such a charge respecting an unfair immigration-related employment practice which alleges knowing and intentional discriminatory activity or a pattern or practice of discriminatory activity, has not filed a complaint before an administrative law judge with respect to such charge within such 120-day period, the Special Counsel shall notify the person making the charge of the determination not to file such a complaint during such period and the personmaking the charge may (subject to paragraph (3)) file a complaint directly before such a judge within 90 days after the date of receipt of the notice. The Special Counsel's failure to file such a complaint within such 120-day period shall not affect the right of the Special Counsel to investigate the charge or to bring a complaint before an administrative law judge during such 90-day period.
+&emsp;If the Special Counsel, after receiving such a charge respecting an unfair immigration-related employment practice which alleges knowing and intentional discriminatory activity or a pattern or practice of discriminatory activity, has not filed a complaint before an administrative law judge with respect to such charge within such 120-day period, the Special Counsel shall notify the person making the charge of the determination not to file such a complaint during such period and the person making the charge may (subject to paragraph (3)) file a complaint directly before such a judge within 90 days after the date of receipt of the notice. The Special Counsel's failure to file such a complaint within such 120-day period shall not affect the right of the Special Counsel to investigate the charge or to bring a complaint before an administrative law judge during such 90-day period.
 
 #### (3) Time limitations on complaints
 
@@ -158,7 +158,7 @@
 
 #### (h) Awarding of attorney's fees
 
-In any complaint respecting an unfair immigration-related employment practice, an administrative law judge, in the judge's discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee, if the losing party's argument is without reasonable foundation in law and fact.
+In any complaint respecting an unfair immigration-related employment practice, an administrative law judge, in the judge's discretion, may allow a prevailing party, other than theUnited States, a reasonable attorney's fee, if the losing party's argument is without reasonable foundation in law and fact.
 
 #### (i) Review of final orders
 
@@ -220,7 +220,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat.241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Subsections (j), (l), (m), and (n) of section 1324a of this title, referred to in subsec. (k), were repealed by Pub. L. 104–208, div. C, title IV, §412(c), Sept. 30, 1996, 110 Stat. 3009–668.
 

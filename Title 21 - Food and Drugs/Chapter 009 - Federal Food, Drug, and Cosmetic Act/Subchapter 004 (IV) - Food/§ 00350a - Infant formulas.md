@@ -106,7 +106,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 > the manufacturer shall promptly notify the Secretary of such knowledge. If the Secretary determines that the infant formula presents a risk to human health, the manufacturer shall immediately take all actions necessary to recall shipments of such infant formula from all wholesale and retail establishments, consistent with recall regulations and guidelines issued by the Secretary.
 
-(2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturer means (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
+(2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturermeans (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
 
 #### (f) Procedures applicable to recalls by manufacturer; regulatory oversight
 
@@ -124,7 +124,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (1) Each manufacturer of an infant formula shall make and retain such records respecting the distribution of the infant formula through any establishment owned or operated by such manufacturer as may be necessary to effect and monitor recalls of the formula. Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula.
 
-(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), the Secretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180thday after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
+(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), the Secretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180th day after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
 
 #### (h) Exemptions; regulatory oversight
 

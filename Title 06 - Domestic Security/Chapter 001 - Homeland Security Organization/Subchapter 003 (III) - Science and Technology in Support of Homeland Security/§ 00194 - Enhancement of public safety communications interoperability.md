@@ -346,7 +346,7 @@ Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that
 
 #### Regional Model Strategic Plan Pilot Projects
 
-Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan tofoster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
+Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, notlater than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@
 
 #### (H) Western Pacific Council
 
-&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States inthe Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
+&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
 
 (2) Each Council shall reflect the expertise and interest of the several constituent States in the ocean area over which such Council is granted authority.
 
@@ -74,7 +74,7 @@
 
 &emsp;(II) add the name of any qualified individual submitted by the public who meets the unmet requirement to the list of names submitted by the Governor.
 
-(iii) For purposes of clause (i) an individual who owns or operates a fish farm outside of the United States shall not be considered to be arepresentative of the commercial or recreational fishing sector.
+(iii) For purposes of clause (i) an individual who owns or operates a fish farm outside of the United States shall not be considered to be a representative of the commercial or recreational fishing sector.
 
 (iv) The requirements of this subparagraph shall expire at the end of fiscal year 2012.
 
@@ -180,11 +180,11 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (3)(A) Each Council shall establish and maintain a fishing industry advisory committee which shall provide information and recommendations on, and assist in the development of, fishery management plans and amendments to such plans.
 
-(B) Appointments to a committee established under subparagraph (A) shall be made by each Council in such a manner as to provide fair representation to commercial fishing interests in the geographical area of authority of the Council.
+(B) Appointments to a committee established under subparagraph (A) shall be made by eachCouncil in such a manner as to provide fair representation to commercial fishing interests in the geographical area of authority of the Council.
 
 (4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; and consist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
 
-&emsp;(A) members of advisory committees and species working groups appointed under Actsimplementing relevant international fishery agreements pertaining to highly migratory species; and
+&emsp;(A) members of advisory committees and species working groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species; and
 
 &emsp;(B) other interested persons.
 
@@ -344,9 +344,9 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 #### (l) Council coordination committee
 
-The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
+The Councils may establish a Council coordination committee consisting of the chairs, vicechairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L.104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
 
 #### References in Text
 
@@ -540,7 +540,7 @@ Subsec. (k). Pub. L. 99–659, §104(e)(1), added subsec. (k).
 
 <b>1983</b>—Subsec. (a)(1) to (7). Pub. L. 97–453, §5(1)(A), substituted "in accordance with subsection (b)(2)" for "pursuant to subsection (b)(1)(C)" wherever appearing.
 
-Subsec. (a)(8). Pub. L. 97–453, §5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
+Subsec. (a)(8). Pub. L. 97–453, §5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that theWestern Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
 
 Subsec. (b)(1)(C). Pub. L. 97–453, §5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that "list of qualified individuals" included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that "qualified individual" meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
 

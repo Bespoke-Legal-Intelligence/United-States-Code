@@ -118,7 +118,7 @@ Pub. L. 104–106, §1403(a)(3), added subsec. (f).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted "fiscal years 1994 and 1995" for "fiscal year 1994".
 
-Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted "international organizations" for "the International Atomic Energy Agency (IAEA)", struck out "nuclear" after "safeguards against", and substituted "effective verification" for "aggressive verification" and "international agreements on nonproliferation" for "the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968".
+Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted "international organizations" for "the InternationalAtomic Energy Agency (IAEA)", struck out "nuclear" after "safeguards against", and substituted "effective verification" for "aggressive verification" and "international agreements on nonproliferation" for "the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968".
 
 Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted "nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing" for "nuclear proliferation through joint technical projects and improved intelligence sharing".
 
@@ -154,5 +154,5 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, andas if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 

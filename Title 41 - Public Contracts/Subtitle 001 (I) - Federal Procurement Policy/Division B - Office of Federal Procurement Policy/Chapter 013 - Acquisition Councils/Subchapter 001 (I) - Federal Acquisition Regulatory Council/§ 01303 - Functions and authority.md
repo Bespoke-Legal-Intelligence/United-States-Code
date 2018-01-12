@@ -6,7 +6,7 @@ Functions.—
 
 &emsp;(1)
 
-Issue and maintain federal acquisition regulation.—Subject to sections 1121, 1122(a)to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 (42 U.S.C. 2451 et seq.),<sup>1</sup> shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
+Issue and maintain federal acquisition regulation.—Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 (42 U.S.C. 2451 et seq.),<sup>1</sup> shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ In general.—Subject to the authority, direction, and control of the head of th
 
 &emsp;(2)
 
-Limitation on delegation.—The authority to review and approve or disapprove regulations under paragraph (1)(A) may not be delegated to an individual outside the office of the official who represents the agency on the Council pursuant to section 1302(b) of this title.
+Limitation on delegation.—The authority to review and approve or disapprove regulations under paragraph (1)(A) may not be delegated to an individual outside the office ofthe official who represents the agency on the Council pursuant to section 1302(b) of this title.
 
 (c)
 

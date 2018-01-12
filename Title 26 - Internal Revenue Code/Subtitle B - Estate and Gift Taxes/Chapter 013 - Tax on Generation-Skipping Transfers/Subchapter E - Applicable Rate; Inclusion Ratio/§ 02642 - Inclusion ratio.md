@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 #### (ii) Trusts with inclusion ratio greater than zero
 
-&emsp;&emsp;&emsp;If a trust has an inclusion ratio of greater than zero and less than 1, a severance isa qualified severance only if the single trust is divided into two trusts, one of which receives a fractional share of the total value of all trust assets equal to the applicable fraction of the single trust immediately before the severance. In such case, the trust receiving such fractional share shall have an inclusion ratio of zero and the other trust shall have an inclusion ratio of 1.
+&emsp;&emsp;&emsp;If a trust has an inclusion ratio of greater than zero and less than 1, a severance is a qualified severance only if the single trust is divided into two trusts, one of which receives a fractional share of the total value of all trust assets equal to the applicable fraction of the single trust immediately before the severance. In such case, the trust receiving such fractional share shall have an inclusion ratio of zero and the other trust shall have an inclusion ratio of 1.
 
 #### (iii) Regulations
 
@@ -66,7 +66,7 @@ Except as provided in subsection (f)—
 
 &emsp;If the allocation of the GST exemption to any transfers of property is made on a gift tax return filed on or before the date prescribed by section 6075(b) for such transfer or is deemed to be made under section 2632(b)(1) or (c)(1)—
 
-&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 12 (within the meaning of section 2001(f)(2)), or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, its value at the time of the close of the estate tax inclusion period, and
+&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value as finallydetermined for purposes of chapter 12 (within the meaning of section 2001(f)(2)), or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, its value at the time of the close of the estate tax inclusion period, and
 
 &emsp;&emsp;(B) such allocation shall be effective on and after the date of such transfer, or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, on and after the close of such estate tax inclusion period.
 
@@ -238,7 +238,7 @@ Except as provided in regulations—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation prescribe such circumstances and proceduresunder which extensions of time will be granted to make—
+&emsp;&emsp;The Secretary shall by regulation prescribe such circumstances and procedures under which extensions of time will be granted to make—
 
 &emsp;&emsp;&emsp;(i) an allocation of GST exemption described in paragraph (1) or (2) of subsection (b), and
 

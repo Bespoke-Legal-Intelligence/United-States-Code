@@ -36,7 +36,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 &emsp;&emsp;(A) the subject cable system operates in a television market that is not in the top 25 markets, and such market has more than 1 cable system operator, and the subject cable system is not the cable system with the most subscribers in such television market;
 
-&emsp;&emsp;(B) the subject cable system and the cable system with the most subscribers in such television market held on May 1, 1995, cabletelevision franchises from the largest municipality in the television market and the boundaries of such franchises were identical on such date;
+&emsp;&emsp;(B) the subject cable system and the cable system with the most subscribers in such television market held on May 1, 1995, cable television franchises from the largest municipality in the television market and the boundaries of such franchises were identical on such date;
 
 &emsp;&emsp;(C) the subject cable system is not owned by or under common ownership or control of any one of the 50 cable system operators with the most subscribers as such operators existed on May 1, 1995; and
 

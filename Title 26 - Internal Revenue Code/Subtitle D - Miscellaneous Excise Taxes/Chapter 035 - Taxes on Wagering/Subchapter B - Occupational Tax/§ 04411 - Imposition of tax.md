@@ -30,7 +30,7 @@ Pub. L. 97–362, title I, §109(c)(2), Oct. 25, 1982, 96 Stat. 1731, provided t
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–499 effective Dec. 1, 1974, and applicable only with respect to wagers placed on orafter such date, see section 3(d)(1) of Pub. L. 93–499, set out as a note under section 4401 of this title.
+Amendment by Pub. L. 93–499 effective Dec. 1, 1974, and applicable only with respect to wagers placed on or after such date, see section 3(d)(1) of Pub. L. 93–499, set out as a note under section 4401 of this title.
 
 #### Persons Engaged in Activities on December 1, 1974, Requiring Payment of Tax; Persons Paying Tax and Registering Before December 1, 1974
 

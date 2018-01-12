@@ -14,7 +14,7 @@ The United States reserves the ownership of and the right to extract helium from
 
 #### References in Text
 
-The Appalachian Forest Act, referred to in the first undesignated paragraph, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, also known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552 and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
+The Appalachian Forest Act, referred to in the first undesignated paragraph, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, also popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 
 #### Amendments
 
@@ -22,7 +22,7 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 
 <b>1960</b>—Pub. L. 86–705 included deposits of native asphalt, solid and semisolid bitumen, and bituminous rock.
 
-<b>1946</b>—Act Aug. 8, 1946, reenacted: existing par., less three provisos, as first sentence of first par., inserting "potassium" after "sodium", which was also included in the 1927 amendment, and substituting provision for disposition of deposits "in incorporated cities, towns,and villages, and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves" for such disposition "in national parks, and in lands withdrawn or reserved for military or naval uses or purposes" and phrase "associations of such citizens" for "any association of such persons"; former third proviso as second sentence of first par.; former first proviso, as second par., inserting reservation of ownership provision and striking out "permitted" before "leased or otherwise granted"; and former second proviso as proviso in second par.
+<b>1946</b>—Act Aug. 8, 1946, reenacted: existing par., less three provisos, as first sentence of first par., inserting "potassium" after "sodium", which was also included in the 1927 amendment, and substituting provision fordisposition of deposits "in incorporated cities, towns, and villages, and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves" for such disposition "in national parks, and in lands withdrawn or reserved for military or naval uses or purposes" and phrase "associations of such citizens" for "any association of such persons"; former third proviso as second sentence of first par.; former first proviso, as second par., inserting reservation of ownership provision and striking out "permitted" before "leased or otherwise granted"; and former second proviso as proviso in second par.
 
 <b>1927</b>—Act Feb. 7, 1927, included deposits of potassium.
 

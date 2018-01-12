@@ -32,7 +32,7 @@
 
 #### (D) Fingerprinting
 
-&emsp;&emsp;Before an alien is removed from the United States pursuant to this subsection, or pursuant to an order of removal because such alien is inadmissible under section1182(a)(3)(B) of this title, the alien shall be photographed and fingerprinted, and shall be advised of the provisions of section 1326(b) of this title.
+&emsp;&emsp;Before an alien is removed from the United States pursuant to this subsection, or pursuant to an order of removal because such alien is inadmissible under section 1182(a)(3)(B) of this title, the alien shall be photographed and fingerprinted, and shall be advised of the provisions of section 1326(b) of this title.
 
 #### (c) Continued detention pending trial
 
@@ -56,7 +56,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### (1) Family and attorney visits
 
-&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien's family, and to contact, retain, and communicate with an attorney.
+&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien'sfamily, and to contact, retain, and communicate with an attorney.
 
 #### (2) Diplomatic contact
 

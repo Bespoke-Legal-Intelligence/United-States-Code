@@ -98,7 +98,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (i)
 
-Variable Pricing Program.—(1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant to which prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
+Variable Pricing Program.—(1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant towhich prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
 
 (2) Subject to subsection (k), before establishing a variable pricing program under this subsection, the Secretary shall establish the following:
 
@@ -114,7 +114,7 @@ Conversion to Nonappropriated Fund Entity or Instrumentality.—(1) Subject to s
 
 (2) If the Secretary determines that the defense commissary system operating as a nonappropriated fund entity or instrumentality is likely to incur a loss in any fiscal year as a result of compliance with the savings requirement established in subsection (i), the Secretary shall authorize a transfer of appropriated funds available for such purpose to the commissary system in an amount sufficient to offset the anticipated loss. Any funds so transferred shall be considered to be nonappropriated funds for such purpose.
 
-(3)(A) The Secretary may identify positions of employees in the defense commissary systemwho are paid with appropriated funds whose status may be converted to the status of an employee of a nonappropriated fund entity or instrumentality.
+(3)(A) The Secretary may identify positions of employees in the defense commissary system who are paid with appropriated funds whose status may be converted to the status of an employee of a nonappropriated fund entity or instrumentality.
 
 (B) The status and conversion of employees in a position identified by the Secretary under subparagraph (A) shall be addressed as provided in section 2491(c) of this title for employees in morale, welfare, and recreation programs, including with respect to requiring the consent of such employee to be so converted.
 
@@ -274,9 +274,11 @@ Application to Overseas Defense Retail Systems.—The regulations required by su
 
 Defense Retail Systems Defined.—In this section, the term 'defense retail systems' has the meaning given that term in section 2487(b)(2) of title 10, United States Code."
 
-Pub. L. 114–113, div. C, title VIII, §8033, Dec. 18, 2015, 129 Stat. 2358, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+Pub. L. 115–31, div. C, title VIII, §8034, May 5, 2017, 131 Stat. 254, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
 
-Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. C, title VIII, §8033, Dec. 18, 2015, 129 Stat. 2358.
 
 Pub. L. 113–235, div. C, title VIII, §8073, Dec. 16, 2014, 128 Stat. 2271.
 

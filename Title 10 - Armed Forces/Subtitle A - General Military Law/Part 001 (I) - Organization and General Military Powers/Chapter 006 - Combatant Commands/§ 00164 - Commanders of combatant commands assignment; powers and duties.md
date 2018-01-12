@@ -6,7 +6,7 @@ Assignment as Combatant Commander.—(1) The President may assign an officer to 
 
 &emsp;(A) has the joint specialty under section 661 of this title; and
 
-&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a general or flag officer.
+&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(d) of this title) as a general or flag officer.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
@@ -30,7 +30,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -66,7 +66,7 @@ Authority Over Subordinate Commanders.—Unless otherwise directed by the Presid
 
 (e)
 
-Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may berecommended to the President for assignment to that position, only—
+Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of the combatant command; and
 
@@ -102,13 +102,11 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 Support to Chairman of the Joint Chiefs of Staff.—The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354.)
-
-#### References in Text
-
-Section 664(f) of this title, referred to in subsec. (a)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, §1081(a)(10), Dec. 12, 2017, 131 Stat. 1594.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1)(B). Pub. L. 115–91 substituted "section 664(d)" for "section 664(f)".
 
 <b>2016</b>—Subsec. (b)(3). Pub. L. 114–328, §921(e)(1), added par. (3).
 
@@ -135,6 +133,4 @@ Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501,
 #### Waiver of Qualifications for Assignment as Combatant Commander
 
 Pub. L. 99–433, title II, §214(b), Oct. 1, 1986, 100 Stat. 1018, authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

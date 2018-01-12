@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title VII, §702(3)\], struck out be
 
 Subsec. (h). Pub. L. 106–554, §1(a)(9) \[title VII, §702(4)\], substituted "The Administrator" for "Not later than 60 days after October 22, 1994, the Administrator".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–135, §304(1), made substitution in original which was executed by substituting "December 2, 1997" for "October 22, 1994" to reflect the probable intent of Congress.
+<b>1997</b>—Subsec. (a). Pub. L. 105–135, §304(1), made substitution in original which was executed by substituting"December 2, 1997" for "October 22, 1994" to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 105–135, §304(2)(A)–(C), in introductory provisions made substitution in original which was executed by substituting "December 2, 1997" for "October 22, 1994" to reflect the probable intent of Congress, inserted ", after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate," after "the Administrator shall", and substituted "14" for "9".
 

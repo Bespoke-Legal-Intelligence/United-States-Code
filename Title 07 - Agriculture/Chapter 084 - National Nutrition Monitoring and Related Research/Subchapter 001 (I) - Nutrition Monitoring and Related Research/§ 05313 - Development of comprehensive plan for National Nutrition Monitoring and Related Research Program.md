@@ -32,7 +32,7 @@ The comprehensive plan, at a minimum, shall include components to—
 
 &emsp;(6) improve the methodologies and technologies, including those suitable for use by States and localities, available for the assessment of nutritional and dietary status and trends;
 
-&emsp;(7) develop uniform standards and indicators for the assessment and monitoring of nutritional and dietary status, for relating food consumption patterns to nutritional and health status, and for use in the evaluation of Federal food and nutrition intervention programs;
+&emsp;(7) develop uniform standards and indicators for the assessment and monitoring of nutritional and dietary status, for relating food consumption patterns to nutritional andhealth status, and for use in the evaluation of Federal food and nutrition intervention programs;
 
 &emsp;(8) establish national baseline data and procedures for nutrition monitoring;
 

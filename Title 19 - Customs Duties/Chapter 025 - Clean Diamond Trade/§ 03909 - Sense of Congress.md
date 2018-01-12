@@ -20,3 +20,7 @@ It is the sense of the Congress that under Annex III to the Kimberley Process Ce
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
+#### Effective Date
+
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
+

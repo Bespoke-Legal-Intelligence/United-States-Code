@@ -6,7 +6,7 @@ Congress declares that the National Forest System consists of units of federally
 
 #### (b) Location of Forest Service offices
 
-The on-the-ground field offices, field supervisory offices, and regional offices of the Forest Service shall be so situated as to provide the optimum level of convenient, useful services to the public, giving priority to the maintenance and location of facilities in rural areas and towns near the national forest and Forest Service program locations in accordance with the standards in section 2204b–1(b) of title 7.
+The on-the-ground field offices, field supervisory offices, and regional offices of the Forest Service shall be so situated as to provide the optimum level of convenient, useful services to the public, giving priority to the maintenance and location of facilities in rural areas and townsnear the national forest and Forest Service program locations in accordance with the standards in section 2204b–1(b) of title 7.
 
 (Pub. L. 93–378, §11, formerly §10, Aug. 17, 1974, 88 Stat. 480, renumbered §11 and amended Pub. L. 94–588, §§2, 9, Oct. 22, 1976, 90 Stat. 2949, 2957.)
 

@@ -108,7 +108,7 @@ Subsec. (d)(2). Pub. L. 97–35, §2508(4)(B), increased maximum payment from $5
 
 #### Effective and Termination Dates of 2015 Revival
 
-For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect onDec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

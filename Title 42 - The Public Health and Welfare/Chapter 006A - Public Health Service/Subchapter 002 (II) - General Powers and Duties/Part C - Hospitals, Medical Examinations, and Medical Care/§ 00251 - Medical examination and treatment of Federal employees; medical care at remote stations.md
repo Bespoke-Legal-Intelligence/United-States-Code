@@ -38,7 +38,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
+Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\],pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
 
 #### Transfer of Functions
 

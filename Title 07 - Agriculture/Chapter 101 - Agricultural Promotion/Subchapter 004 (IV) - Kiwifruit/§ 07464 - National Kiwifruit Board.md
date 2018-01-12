@@ -72,7 +72,7 @@ The Board shall—
 
 &emsp;(5) make recommendations to the Secretary with respect to an amendment that should be made to the order; and
 
-&emsp;(6) employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs and increase efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
+&emsp;(6) employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs andincrease efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
 
 (Pub. L. 104–127, title V, §555, Apr. 4, 1996, 110 Stat. 1066; Pub. L. 105–185, title VI, §603(b), June 23, 1998, 112 Stat. 585.)
 

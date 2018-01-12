@@ -14,7 +14,7 @@ Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of t
 
 &emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
-(3) When the needs of the service require, the Secretary of the military department concernedmay prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
+(3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
 (4) The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
@@ -44,7 +44,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 &emsp;(ii) are determined, in accordance with standards and procedures prescribed pursuant to subparagraph (B), as not being exceptionally well qualified for promotion.
 
-(B) If the Secretary of Defense authorizes the Secretaries of the military departments to have the authority described in subparagraph (A), the Secretary shall prescribe by regulation the standards and procedures for the exercise of such authority. Those regulations shall apply uniformly among the military departments and shall include the following provisions:
+(B) If the Secretary of Defense authorizes the Secretaries of the military departments to havethe authority described in subparagraph (A), the Secretary shall prescribe by regulation the standards and procedures for the exercise of such authority. Those regulations shall apply uniformly among the military departments and shall include the following provisions:
 
 &emsp;(i) A requirement that the Secretary of a military department may exercise such authority in the case of a particular selection board only if the Secretary of Defense approves the exercise of that authority for that board.
 
@@ -116,7 +116,7 @@ Subsec. (e). Pub. L. 103–160, §931(b), struck out subsec. (e) which specified
 
 > to those officers who are determined to be exceptionally well qualified for promotion;
 
-"(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or in the grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);".
+"(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or inthe grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);".
 
 Subsec. (c)(3). Pub. L. 102–190, §504(d)(2), added par. (3).
 

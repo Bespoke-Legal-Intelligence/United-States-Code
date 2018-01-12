@@ -1,6 +1,6 @@
 ### §2320. Rights in technical data
 
-(a)(1) The Secretary of Defense shall prescribe regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data pertaining to an item or process. Such regulations shall be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation. Such regulations may not impair any right of the United States or of any contractor or subcontractor with respect to patents or copyrights or any other right in technical data otherwise established by law. Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.
+(a)(1) The Secretary of Defense shall prescribe regulations to define the legitimate interest ofthe United States and of a contractor or subcontractor in technical data pertaining to an item or process. Such regulations shall be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation. Such regulations may not impair any right of the United States or of any contractor or subcontractor with respect to patents or copyrights or any other right in technical data otherwise established by law. Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.
 
 (2) Such regulations shall include the following provisions:
 
@@ -106,7 +106,7 @@ Major system interfaces developed exclusively at private expense or with mixed f
 
 &emsp;(9) providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require, until the date occurring six years after acceptance of the last item (other than technical data) under a contract or the date of contract termination, whichever is later, the delivery of technical data that has been generated in the performance of the contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
 
-&emsp;&emsp;(A) the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system or subsystem thereof, a weapon system or subsystem thereof, or any noncommercial item or process; and
+&emsp;&emsp;(A) the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system orsubsystem thereof, a weapon system or subsystem thereof, or any noncommercial item or process; and
 
 &emsp;&emsp;(B) the technical data—
 
@@ -138,7 +138,11 @@ Major system interfaces developed exclusively at private expense or with mixed f
 
 (f)
 
-Covered Government Support Contractor Defined.—In this section, the term "covered Government support contractor" means a contractor under a contract the primary purposeof which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
+Preference for Specially Negotiated Licenses.—The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system. In performing the assessment and developing the corresponding strategy required under subsection (e) for such a system or subsystem, a program manager shall consider the use of specially negotiated licenses to acquire customized technical data appropriate for the particular elements of the product support strategy.
+
+(g)
+
+Covered Government Support Contractor Defined.—In this section, the term "covered Government support contractor" means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
 
 &emsp;(1) is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
@@ -158,17 +162,19 @@ Covered Government Support Contractor Defined.—In this section, the term "cove
 
 &emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 
-(g)
+(h)
 
 Additional Definitions.—In this section, the terms "major system component", "major system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491; Pub. L. 114–328, div. A, title VIII, §809(a)–(e), Dec. 23, 2016, 130 Stat. 2266, 2267.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491; Pub. L. 114–328, div. A, title VIII, §809(a)–(e), Dec. 23, 2016, 130 Stat. 2266, 2267; Pub. L. 115–91, div. A, title VIII, §835(c), Dec. 12, 2017, 131 Stat. 1471.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (f) to (h). Pub. L. 115–91 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 <b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–328, §809(e)(1), inserted heading.
 
@@ -206,7 +212,7 @@ Pub. L. 111–383, §824(b)(2), substituted "for the purposes of paragraph (2)(B
 
 Subsec. (b)(9), (10). Pub. L. 112–81, §815(a)(2), added pars. (9) and (10).
 
-Subsec. (c)(2). Pub. L. 112–81, §802(b)(1), substituted "subsection (a)," for "subsection (a)—", struck out "(A)" before "allowing", and struck out subpar. (B) which read as follows: "allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or".
+Subsec. (c)(2). Pub. L. 112–81, §802(b)(1), substituted "subsection (a)," for "subsection (a)—", struck out "(A)" before "allowing", and struck out subpar. (B) which read as follows: "allowing a covered litigation support contractor access to and use of any technical,proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or".
 
 Pub. L. 111–383, §801(a)(1), substituted "subsection (a)—" for "subsection (a),", inserted "(A)" before "allowing", and added subpar. (B).
 
@@ -346,7 +352,7 @@ Report on Life Cycle Planning for Technical Data Needs.—Not later than 270 day
 
 &emsp;"(1) a description of all relevant guidance or policies issued;
 
-&emsp;"(2) a description of the extent to which program managers have received training to better assess thelong-term technical data needs of major weapon systems and subsystems; and
+&emsp;"(2) a description of the extent to which program managers have received training to better assess the long-term technical data needs of major weapon systems and subsystems; and
 
 &emsp;"(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, where all relevant technical data were acquired upon contract award."
 
@@ -356,5 +362,5 @@ Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as a
 
 #### Control of Government Personnel Work Product
 
-Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, required Secretary of Defense to prescribe regulations ensuring that any Department of Defense employee or member of the armed forces with an appropriate security clearance who is engaged in oversight of an acquisition program maintains control of the employee's or member's work product, provided that procedures for protecting unauthorized disclosure of classified information by contractors do not require such an employee or member to relinquish control of his or her work product to any such contractor, required implementing regulations not later than 120 days after Dec. 5, 1991, and provided that this section would cease to be effective on Sept. 30, 1992.
+Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, required Secretary of Defense to prescribe regulations ensuring that any Department of Defense employee or member of the armed forces with an appropriate security clearance who is engaged in oversight ofan acquisition program maintains control of the employee's or member's work product, provided that procedures for protecting unauthorized disclosure of classified information by contractors do not require such an employee or member to relinquish control of his or her work product to any such contractor, required implementing regulations not later than 120 days after Dec. 5, 1991, and provided that this section would cease to be effective on Sept. 30, 1992.
 

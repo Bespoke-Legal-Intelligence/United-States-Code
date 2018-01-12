@@ -50,7 +50,7 @@ For purposes of this subchapter—
 
 #### (2) Sales not at arm's length
 
-&emsp;In the case of any article sold (otherwise than through an arm's-length transaction) at less than the fair market price, the tax under this subchapter shall be computed on the price for which similar articles are sold at retail inthe ordinary course of trade, as determined by the Secretary.
+&emsp;In the case of any article sold (otherwise than through an arm's-length transaction) at less than the fair market price, the tax under this subchapter shall be computed on the price for which similar articles are sold at retail in the ordinary course of trade, as determined by the Secretary.
 
 #### (3) Long-term lease
 
@@ -128,7 +128,7 @@ For purposes of this section, the term "long-term lease" means any lease with a 
 
 The Secretary shall prescribe regulations which permit, in lieu of any other certification, persons who are purchasing articles taxable under this subchapter for resale or leasing in a long-term lease to execute a statement (made under penalties of perjury) on the sale invoice that such sale is for resale. The Secretary shall not impose any registration requirement as a condition of using such procedure.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2175; amended Pub. L. 98–369, div. A, title VII, §§731, 735(b)(2), July 18, 1984, 98 Stat. 976, 981; Pub. L. 100–17, title V, §§505(a)–(c), 506(a), Apr. 2, 1987, 101 Stat. 258, 259; Pub. L. 100–647, title VI, §6111(a), Nov. 10, 1988, 102 Stat.3713; Pub. L. 105–34, title XIV, §§1402(b), 1434(a), (b), Aug. 5, 1997, 111 Stat. 1046, 1052; Pub. L. 105–206, title VI, §6014(c), July 22, 1998, 112 Stat. 820.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2175; amended Pub. L. 98–369, div. A, title VII, §§731, 735(b)(2), July 18, 1984, 98 Stat. 976, 981; Pub. L. 100–17, title V, §§505(a)–(c), 506(a), Apr. 2, 1987, 101 Stat. 258, 259; Pub. L. 100–647, title VI, §6111(a), Nov. 10, 1988, 102 Stat. 3713; Pub. L. 105–34, title XIV, §§1402(b), 1434(a), (b), Aug. 5, 1997, 111 Stat. 1046, 1052; Pub. L. 105–206, title VI, §6014(c), July 22, 1998, 112 Stat. 820.)
 
 #### Prior Provisions
 

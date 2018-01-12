@@ -6,7 +6,7 @@ It is hereby declared to be the policy of Congress that—
 
 &emsp;(2) nonwasteful subsistence uses of fish and wildlife and other renewable resources shall be the priority consumptive uses of all such resources on the public lands of Alaska when it is necessary to restrict taking in order to assure the continued viability of a fish or wildlife population or the continuation of subsistence uses of such population, the taking of such population for nonwasteful subsistence uses shall be given preference on the public lands over other consumptive uses; and
 
-&emsp;(3) except as otherwise provided by this Act or other Federal laws, Federal land managing agencies, in managing subsistence activities on the public lands and in protecting the continued viability of all wild renewable resources in Alaska, shall cooperate with adjacent landowners and land managers, including Native Corporations, appropriate State and Federal agencies, and other nations.
+&emsp;(3) except as otherwise provided by this Act or other Federal laws, Federal land managingagencies, in managing subsistence activities on the public lands and in protecting the continued viability of all wild renewable resources in Alaska, shall cooperate with adjacent landowners and land managers, including Native Corporations, appropriate State and Federal agencies, and other nations.
 
 (Pub. L. 96–487, title VIII, §802, Dec. 2, 1980, 94 Stat. 2422.)
 

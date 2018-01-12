@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (C) Date of implementation
 
-&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date onwhich the collective bargaining agreement described in subparagraph (A) or (B) expires.
+&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) or (B) expires.
 
 #### (D) Failure to make scheduled contributions
 
@@ -434,7 +434,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection\(b)(2) as of the beginning of the plan year;
+&emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year;
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 1084(d)(2) of this title or section 1084 of this title (as in effect prior to the enactment of the Pension Protection Act of 2006); and
 
@@ -524,7 +524,7 @@ For purposes of this section—
 
 #### (B) Normal retirement benefits protected
 
-&emsp;&emsp;Except as provided in subparagraph (A)(iv)(III), nothing in this paragraph shall be construed to permit a plan to reduce the level of a participant's accrued benefit payable at normal retirement age.
+&emsp;&emsp;Except as provided in subparagraph (A)(iv)(III), nothing in this paragraph shallbe construed to permit a plan to reduce the level of a participant's accrued benefit payable at normal retirement age.
 
 #### (C) Notice requirements
 
@@ -600,7 +600,7 @@ For purposes of this section—
 
 &emsp;&emsp;The plan sponsor of a plan in critical and declining status for a plan year may suspend benefits only if the following conditions are met:
 
-&emsp;&emsp;&emsp;(i) Taking into account the proposed suspensions of benefits (and, if applicable, a proposed partition of the plan under section 1413 of this title), the plan actuary certifies that the plan is projected to avoid insolvency within the meaning of section 1426 of this title, assuming the suspensions of benefits continue until the suspensions of benefits expire by their own terms or if no such expiration date is set, indefinitely.
+&emsp;&emsp;&emsp;(i) Taking into account the proposed suspensions of benefits (and, if applicable, aproposed partition of the plan under section 1413 of this title), the plan actuary certifies that the plan is projected to avoid insolvency within the meaning of section 1426 of this title, assuming the suspensions of benefits continue until the suspensions of benefits expire by their own terms or if no such expiration date is set, indefinitely.
 
 &emsp;&emsp;&emsp;(ii) The plan sponsor determines, in a written record to be maintained throughout the period of the benefit suspension, that the plan is still projected to become insolvent unless benefits are suspended under this paragraph, although all reasonable measures to avoid insolvency have been taken (and continue to be taken during the period of the benefit suspension). In its determination, the plan sponsor may take into account factors including the following:
 
@@ -672,13 +672,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vii) In the case of a plan that includes the benefits described in clause (III), benefits suspended under this paragraph shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) first, be applied to the maximum extent permissible to benefits attributable to a participant's service for an employer which withdrew from the plan and failed to pay (or is delinquent with respect to paying) the full amount of its withdrawal liability under section 1381(b)(1) of this title or an agreement with the plan,
+&emsp;&emsp;&emsp;&emsp;(I) first, be applied to the maximum extent permissible to benefits attributable to a participant's service for anemployer which withdrew from the plan and failed to pay (or is delinquent with respect to paying) the full amount of its withdrawal liability under section 1381(b)(1) of this title or an agreement with the plan,
 
 &emsp;&emsp;&emsp;&emsp;(II) second, except as provided by subclause (III), be applied to all other benefits that may be suspended under this paragraph, and
 
 &emsp;&emsp;&emsp;&emsp;(III) third, be applied to benefits under a plan that are directly attributable to a participant's service with any employer which has, prior to December 16, 2014—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section 1383 of this title and has paid the full amount of the employer's withdrawal liability under section 1381(b)(1) of title or an agreement with the plan, and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section 1383 of this title and has paid the full amount of the employer's withdrawal liability under section 1381(b)(1) of this title or an agreement with the plan, and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
 
@@ -780,7 +780,7 @@ For purposes of this section—
 
 #### (iii) Required action; deemed approval
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall approve or deny any application for suspensions of benefits under this paragraph within 225 days after the submission of such application. An application for suspension of benefits shall be deemed approved unless, within such 225 days, the Secretary of the Treasury notifies the plan sponsor that it has failed to satisfy one or more of the criteria described in this paragraph. If the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, rejects a plan sponsor's application, the Secretary of the Treasury shall provide notice to the plan sponsor detailing the specific reasons for the rejection, including reference to the specific requirement not satisfied. Approval or denial by the Secretary of the Treasury of an application shall be treated as a final agency action for purposes of section 704 of title 5.
+&emsp;&emsp;&emsp;The Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall approve or deny any application for suspensions of benefits under this paragraph within 225 days after the submission of such application. An application for suspension of benefits shall be deemed approved unless, within such 225 days, the Secretary of the Treasury notifies the plan sponsor that it has failed to satisfy one or more of the criteria described in this paragraph. If the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, rejects a plan sponsor's application, the Secretary of theTreasury shall provide notice to the plan sponsor detailing the specific reasons for the rejection, including reference to the specific requirement not satisfied. Approval or denial by the Secretary of the Treasury of an application shall be treated as a final agency action for purposes of section 704 of title 5.
 
 #### (iv) Agency review
 
@@ -808,7 +808,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) A statement in opposition to the suspension compiled from comments received pursuant to subparagraph (G)(ii).
 
-&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary ofthe Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
 
 &emsp;&emsp;&emsp;&emsp;(IV) A statement that the plan sponsor has determined that the plan will become insolvent unless the suspension takes effect.
 
@@ -864,7 +864,7 @@ For purposes of this section—
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits underthis paragraph in accordance with section 706 of title 5.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5.
 
 #### (bb) Temporary injunction
 
@@ -902,7 +902,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 1054(g) of this title, the plan shall not pay—
+&emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for theinitial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 1054(g) of this title, the plan shall not pay—
 
 &emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs after the date such notice is sent,
 
@@ -932,7 +932,7 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining anemployer's withdrawal liability under section 1381 of this title.
+&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
 
 #### (2) Surcharges
 
@@ -1032,7 +1032,7 @@ For purposes of this section—
 
 &emsp;The term "benefit commencement date" means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
 
-(Pub. L. 93–406, title I, §305, as added Pub. L. 109–280, title II, §202(a), Aug. 17, 2006, 120 Stat. 868; amended Pub. L. 110–458, title I, §102(b)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5100, 5101; Pub. L. 113–235, div. O, title I, §§102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, §201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, 128 Stat. 2774, 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)
+(Pub. L. 93–406, title I, §305, as added Pub. L. 109–280, title II, §202(a), Aug. 17, 2006, 120 Stat. 868; amended Pub. L. 110–458, title I, §102(b)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5100,5101; Pub. L. 113–235, div. O, title I, §§102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, §201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, 128 Stat. 2774, 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)
 
 #### References in Text
 
@@ -1160,7 +1160,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning after 2007, with special rules for certain noticesand certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
+Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
 
 #### Guidance
 

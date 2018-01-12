@@ -18,7 +18,7 @@
 
 (D) The Secretary shall obtain silver for coins minted under this paragraph by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver for such coins by purchase of silver mined from natural deposits in the United States or in a territory or possession of the United States not more than 1 year following the month in which the ore from which it is derived was mined. The Secretary shall pay not more than the average world price for such silver. The Secretary may issue such regulations as may be necessary to carry out this subparagraph.
 
-(3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shall remain available until expended for research and development.
+(3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shallremain available until expended for research and development.
 
 (b) To the extent the Secretary decides is necessary, the Secretary may use amounts received from depositors for refining bullion and the proceeds from the sale of byproducts (including spent acids from surplus bullion recovered in refining processes) to pay the costs of refining the bullion (including labor, material, waste, and loss on the sale of sweeps). The Secretary may not use amounts appropriated for the mints to pay those costs.
 
@@ -130,7 +130,7 @@ Subsec. (a)(2). Pub. L. 97–452 substituted "$50,165,000" for "$54,706,000", an
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–390, title II, §221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: "The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set outas notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992."
+Pub. L. 102–390, title II, §221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: "The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992."
 
 #### Effective Date of 1985 Amendments
 

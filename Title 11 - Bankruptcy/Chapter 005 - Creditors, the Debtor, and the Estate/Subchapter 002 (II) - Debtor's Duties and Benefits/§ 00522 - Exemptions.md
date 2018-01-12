@@ -16,7 +16,7 @@
 
 &emsp;(B) any interest in property in which the debtor had, immediately before the commencement of the case, an interest as a tenant by the entirety or joint tenant to the extent that such interest as a tenant by the entirety or joint tenant is exempt from process under applicable nonbankruptcy law; and
 
-&emsp;(C) retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
+&emsp;(C) retirement funds to the extent that those funds are in a fund or account that is exemptfrom taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
 
 > If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).
 
@@ -60,21 +60,21 @@
 
 (d) The following property may be exempted under subsection (b)(2) of this section:
 
-&emsp;(1) The debtor's aggregate interest, not to exceed $15,000 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
+&emsp;(1) The debtor's aggregate interest, not to exceed $15,000 <sup>1</sup> in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
 
-&emsp;(2) The debtor's interest, not to exceed $2,400 in value, in one motor vehicle.
+&emsp;(2) The debtor's interest, not to exceed $2,400 <sup>1</sup> in value, in one motor vehicle.
 
-&emsp;(3) The debtor's interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+&emsp;(3) The debtor's interest, not to exceed $400 <sup>1</sup> in value in any particular item or $8,000 <sup>1</sup> in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-&emsp;(4) The debtor's aggregate interest, not to exceed $1,000 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+&emsp;(4) The debtor's aggregate interest, not to exceed $1,000 <sup>1</sup> in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-&emsp;(5) The debtor's aggregate interest in any property, not to exceed in value $800 plus up to $7,500 of any unused amount of the exemption provided under paragraph (1) of this subsection.
+&emsp;(5) The debtor's aggregate interest in any property, not to exceed in value $800 <sup>1</sup> plus up to $7,500 <sup>1</sup> of any unused amount of the exemption provided under paragraph (1) of this subsection.
 
-&emsp;(6) The debtor's aggregate interest, not to exceed $1,500 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+&emsp;(6) The debtor's aggregate interest, not to exceed $1,500 <sup>1</sup> in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
 
 &emsp;(7) Any unmatured life insurance contract owned by the debtor, other than a credit life insurance contract.
 
-&emsp;(8) The debtor's aggregate interest, not to exceed in value $8,000 less any amount of property of the estate transferred in the manner specified in section 542(d) of this title, in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
+&emsp;(8) The debtor's aggregate interest, not to exceed in value $8,000 <sup>1</sup> less any amount of property of the estate transferred in the manner specified in section 542(d) of this title, in any accrued dividend or interest under, orloan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
 
 &emsp;(9) Professionally prescribed health aids for the debtor or a dependent of the debtor.
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
-&emsp;&emsp;(D) a payment, not to exceed $15,000, on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
+&emsp;&emsp;(D) a payment, not to exceed $15,000,<sup>1</sup> on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
 
 &emsp;&emsp;(E) a payment in compensation of loss of future earnings of the debtor or an individual of whom the debtor is or was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor.
 
@@ -144,7 +144,7 @@
 
 &emsp;(B) either permits the debtor to claim exemptions under State law without limitation in amount, except to the extent that the debtor has permitted the fixing of a consensual lien on any property or prohibits avoidance of a consensual lien on property otherwise eligible to be claimed as exempt property;
 
-> the debtor may not avoid the fixing of a lien on an interest of the debtor or a dependent of the debtor in property if the lien is a nonpossessory, nonpurchase-money security interest in implements, professional books, or tools of the trade of the debtor or a dependent of the debtor or farm animals or crops of the debtor or a dependent of the debtor to the extent the value of such implements, professional books, tools of the trade, animals, and crops exceeds $5,000.
+> the debtor may not avoid the fixing of a lien on an interest of the debtor or a dependent of the debtor in property if the lien is a nonpossessory, nonpurchase-money security interest in implements, professional books, or tools of the trade of the debtor or a dependent of the debtor or farm animals or crops of the debtor or a dependent of the debtor to the extent the value of such implements, professional books, tools of the trade, animals, and crops exceeds $5,000.<sup>1</sup>
 
 (4)(A) Subject to subparagraph (B), for purposes of paragraph (1)(B), the term "household goods" means—
 
@@ -182,11 +182,11 @@
 
 &emsp;(i) works of art (unless by or of the debtor, or any relative of the debtor);
 
-&emsp;(ii) electronic entertainment equipment with a fair market value of more than $500 in the aggregate (except 1 television, 1 radio, and 1 VCR);
+&emsp;(ii) electronic entertainment equipment with a fair market value of more than $500 <sup>1</sup> in the aggregate (except 1 television, 1 radio, and 1 VCR);
 
-&emsp;(iii) items acquired as antiques with a fair market value of more than $500 in the aggregate;
+&emsp;(iii) items acquired as antiques with a fair market value of more than $500 <sup>1</sup> in the aggregate;
 
-&emsp;(iv) jewelry with a fair market value of more than $500 in the aggregate (except wedding rings); and
+&emsp;(iv) jewelry with a fair market value of more than $500 <sup>1</sup> in the aggregate (except wedding rings); and
 
 &emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
@@ -220,7 +220,7 @@
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
-(n) For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
+(n) For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 <sup>1</sup> in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
 
 (o) For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
 
@@ -234,7 +234,7 @@
 
 > shall be reduced to the extent that such value is attributable to any portion of any property that the debtor disposed of in the 10-year period ending on the date of the filing of the petition with the intent to hinder, delay, or defraud a creditor and that the debtor could not exempt, or that portion that the debtor could not exempt, under subsection (b), if on such date the debtor had held the property so disposed of.
 
-(p)(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 in value in—
+(p)(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 <sup>1</sup> in value in—
 
 &emsp;(A) real or personal property that the debtor or a dependent of the debtor uses as a residence;
 
@@ -248,7 +248,7 @@
 
 (B) For purposes of paragraph (1), any amount of such interest does not include any interest transferred from a debtor's previous principal residence (which was acquired prior to the beginning of such 1215-day period) into the debtor's current principal residence, if the debtor's previous and current residences are located in the same State.
 
-(q)(1) As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 if—
+(q)(1) As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 <sup>1</sup> if—
 
 &emsp;(A) the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in section 3156 of title 18), which under the circumstances, demonstrates that the filing of the case was an abuse of the provisions of this title; or
 
@@ -265,10 +265,6 @@
 (2) Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§216, 224(a), (e)(1), title III, §§307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96; Pub. L. 111–327, §2(a)(17), Dec. 22, 2010, 124 Stat. 3559.)
-
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -384,7 +380,7 @@ Subsection (f) protects the debtor's exemptions, his discharge, and thus his fre
 
 Subsection (g) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property. The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
 
-If the trustee does not pursue an avoiding power to recover a transfer of property that would be exempt, the debtor may pursue it and exempt the property, if the transfer was involuntary and the debtor did not conceal the property. If the debtor wishes to preserve his right to pursue an action under this provision, then he must intervene in any action brought by the trustee based on the same cause of action. It is not intended that the debtor be given an additional opportunity to avoid a transfer or that the transferee have to defend the same action twice. Rather, the section is primarily designed to give the debtor the rights the trustee could have pursued if the trustee chooses not to pursue them. The debtor is given no greater rights under this provision than the trustee, and thus the debtor's avoiding powers under proposed 11 U.S.C. 544, 545, 547, and 548, are subject to proposed 11 U.S.C. 546, as are the trustee's powers.
+If the trustee does not pursue an avoiding power to recover a transfer of property that would be exempt, the debtor may pursue it and exempt the property, if the transfer was involuntary and the debtor did notconceal the property. If the debtor wishes to preserve his right to pursue an action under this provision, then he must intervene in any action brought by the trustee based on the same cause of action. It is not intended that the debtor be given an additional opportunity to avoid a transfer or that the transferee have to defend the same action twice. Rather, the section is primarily designed to give the debtor the rights the trustee could have pursued if the trustee chooses not to pursue them. The debtor is given no greater rights under this provision than the trustee, and thus the debtor's avoiding powers under proposed 11 U.S.C. 544, 545, 547, and 548, are subject to proposed 11 U.S.C. 546, as are the trustee's powers.
 
 These subsections are cumulative. The debtor is not required to choose which he will use to gain an exemption. Instead, he may use more than one in any particular instance, just as the trustee's avoiding powers are cumulative.
 
@@ -542,7 +538,7 @@ By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. 
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount "21,625" was adjusted to "22,975"; in subsec. (d)(2), dollar amount "3,450" was adjusted to "3,675"; in subsec. (d)(3), dollar amounts "550" and "11,525" were adjusted to "575" and "12,250", respectively; in subsec. (d)(4), dollar amount "1,450" was adjusted to "1,550"; in subsec. (d)(5), dollar amounts "1,150" and "10,825" were adjusted to "1,225" and "11,500", respectively; in subsec. (d)(6), dollar amount "2,175" was adjusted to "2,300"; in subsec. (d)(8), dollar amount "11,525" was adjusted to "12,250"; in subsec. (d)(11)(D), dollar amount "21,625" was adjusted to "22,975"; in subsec. (f)(3), dollar amount "5,850" was adjusted to "6,225"; in subsec. (f)(4), dollar amount "600" was adjusted to "650" each time it appeared; in subsec. (n), dollar amount "1,171,650" was adjusted to "1,245,475"; in subsec. (p), dollar amount "146,450" was adjusted to "155,675"; and, in subsec. (q), dollar amount "146,450" was adjusted to "155,675".
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount "20,200" was adjusted to "21,625"; in subsec. (d)(2), dollar amount "3,225" was adjusted to "3,450"; in subsec. (d)(3), dollar amounts "525" and "10,775" were adjusted to "550" and "11,525", respectively; in subsec. (d)(4), dollar amount "1,350" was adjusted to "1,450"; in subsec. (d)(5), dollar amounts "1,075" and "10,125" were adjusted to "1,150" and "10,825", respectively; in subsec. (d)(6), dollar amount "2,025" was adjusted to "2,175"; in subsec. (d)(8), dollar amount "10,775" was adjusted to "11,525"; in subsec. (d)(11)(D), dollar amount "20,200" was adjusted to "21,625"; in subsec. (f)(3)(B), dollar amount "5,475" was adjusted to "5,850"; in subsec. (f)(4)(B), dollar amount "550" was adjusted to "600" each time it appeared; in subsec. (n), dollar amount "1,095,000" was adjusted to "1,171,650"; in subsec. (p)(1), dollar amount "136,875" was adjusted to "146,450"; and, in subsec. (q)(1), dollar amount "136,875" was adjusted to "146,450".
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount "20,200" was adjusted to "21,625"; in subsec. (d)(2), dollar amount "3,225" was adjusted to "3,450"; in subsec. (d)(3), dollar amounts "525" and "10,775" were adjusted to "550" and "11,525", respectively; in subsec. (d)(4), dollar amount "1,350" was adjusted to "1,450"; in subsec. (d)(5), dollaramounts "1,075" and "10,125" were adjusted to "1,150" and "10,825", respectively; in subsec. (d)(6), dollar amount "2,025" was adjusted to "2,175"; in subsec. (d)(8), dollar amount "10,775" was adjusted to "11,525"; in subsec. (d)(11)(D), dollar amount "20,200" was adjusted to "21,625"; in subsec. (f)(3)(B), dollar amount "5,475" was adjusted to "5,850"; in subsec. (f)(4)(B), dollar amount "550" was adjusted to "600" each time it appeared; in subsec. (n), dollar amount "1,095,000" was adjusted to "1,171,650"; in subsec. (p)(1), dollar amount "136,875" was adjusted to "146,450"; and, in subsec. (q)(1), dollar amount "136,875" was adjusted to "146,450".
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d)(1), dollar amount "18,450" was adjusted to "20,200"; in subsec. (d)(2), dollar amount "2,950" was adjusted to "3,225"; in subsec. (d)(3), dollar amounts "475" and "9,850" were adjusted to "525" and "10,775", respectively; in subsec. (d)(4), dollar amount "1,225" was adjusted to "1,350"; in subsec. (d)(5), dollar amounts "975" and "9,250" were adjusted to "1,075" and "10,125", respectively; in subsec. (d)(6), dollar amount "1,850" was adjusted to "2,025"; in subsec. (d)(8), dollar amount "9,850" was adjusted to "10,775"; in subsec. (d)(11)(D), dollar amount "18,450" was adjusted to "20,200"; in subsec. (f)(3), dollar amount "5,000" was adjusted to "5,475"; in subsec. (f)(4), dollar amount "500" was adjusted to "550" each time it appeared; in subsec. (n), dollar amount "1,000,000" was adjusted to "1,095,000"; in subsec. (p), dollar amount "125,000" was adjusted to "136,875"; and, in subsec. (q), dollar amount "125,000" was adjusted to "136,875".
 
@@ -551,6 +547,8 @@ By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (d)(1), dollar amount "16,150" was adjusted to "17,425"; in subsec. (d)(2), dollar amount "2,575" was adjusted to "2,775"; in subsec. (d)(3), dollar amounts "425" and "8,625" were adjusted to "450" and "9,300", respectively; in subsec. (d)(4), dollar amount "1,075" was adjusted to "1,150"; in subsec. (d)(5), dollar amounts "850" and "8,075" were adjusted to "925" and "8,725", respectively; in subsec. (d)(6), dollar amount "1,625" was adjusted to "1,750"; in subsec. (d)(8), dollar amount "8,625" was adjusted to "9,300"; and, in subsec. (d)(11)(D), dollar amount "16,150" was adjusted to "17,425".
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount "15,000" was adjusted to "16,150"; in subsec. (d)(2), dollar amount "2,400" was adjusted to "2,575"; in subsec. (d)(3), dollar amounts "400" and "8,000" were adjusted to "425" and "8,625", respectively; in subsec. (d)(4), dollar amount "1,000" was adjusted to "1,075"; in subsec. (d)(5), dollar amounts "800" and "7,500" were adjusted to "850" and "8,075", respectively; in subsec. (d)(6), dollar amount "1,500" was adjusted to "1,625"; in subsec. (d)(8), dollar amount "8,000" was adjusted to "8,625"; and, in subsec. (d)(11)(D), dollar amount "15,000" was adjusted to "16,150".
+
+<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 
 <i><sup>1</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 

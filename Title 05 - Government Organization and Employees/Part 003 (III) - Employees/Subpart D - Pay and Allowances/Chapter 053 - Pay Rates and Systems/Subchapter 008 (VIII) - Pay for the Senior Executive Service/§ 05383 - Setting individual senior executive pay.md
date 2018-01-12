@@ -4,7 +4,7 @@
 
 (b) Members of the Senior Executive Service shall be subject to the limitation under section 5307.
 
-(c) Except as provided in regulations prescribed by the Office under section 5385, the rate of basic pay for any senior executive may not beadjusted more than once during any 12-month period.
+(c) Except as provided in regulations prescribed by the Office under section 5385, the rate of basic pay for any senior executive may not be adjusted more than once during any 12-month period.
 
 (d) The rate of basic pay for any career appointee may be reduced from any rate of basic pay to any lower rate of basic pay only if the career appointee receives a written notice of the reduction at least 15 days in advance of the reduction.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 108–136 effective on first day of first pay period beginn
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, seesection 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Effective Date
 

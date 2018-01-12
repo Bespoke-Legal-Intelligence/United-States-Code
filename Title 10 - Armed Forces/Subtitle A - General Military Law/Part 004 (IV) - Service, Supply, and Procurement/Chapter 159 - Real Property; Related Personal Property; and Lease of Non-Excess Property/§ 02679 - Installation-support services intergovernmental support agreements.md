@@ -6,7 +6,7 @@ In General.—(1) Notwithstanding any other provision of law governing the award
 
 (2) An intergovernmental support agreement under paragraph (1)—
 
-&emsp;(A) may be for a term not to exceed five years; and
+&emsp;(A) may be for a term not to exceed ten years; and
 
 &emsp;(B) may use, for installation-support services provided by a State or local government, wage grades normally paid by that State or local government.
 
@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "intergovernmental support agreement" means a legal instrument reflecting a relationship between the Secretary concerned and a State or local government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
-(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, §1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001.)
+(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, §1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–91, div. B, title XXVIII, §2813, Dec. 12, 2017, 131 Stat. 1849.)
 
 #### Prior Provisions
 
@@ -46,13 +46,15 @@ A prior section 2679, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91 substituted "ten years" for "five years".
+
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–92, §1081(a)(9), struck out "with" before ", on a sole source".
 
 Subsec. (a)(4). Pub. L. 114–92, §1081(b)(1), amended directory language of Pub. L. 113–291, §351(b)(1)(C). See 2014 Amendment note below.
 
 <b>2014</b>—Pub. L. 113–291, §351(a), renumbered section 2336 of this title as this section and substituted "Installation-support services: intergovernmental support agreement" for "Intergovernmental support agreements with State and local governments" in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–291, §351(b)(1)(A), substituted "Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned" for "The Secretary concerned" and ", on a sole source basis, with a State or local" for "a State or local".
+Subsec. (a)(1). Pub. L. 113–291, §351(b)(1)(A), substituted "Notwithstanding any other provision of law governing the award of Federal government contractsfor goods and services, the Secretary concerned" for "The Secretary concerned" and ", on a sole source basis, with a State or local" for "a State or local".
 
 Subsec. (a)(2). Pub. L. 113–291, §351(b)(1)(B), substituted "An" for "Notwithstanding any other provision of law, an" in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "may be entered into on a sole-source basis;".
 

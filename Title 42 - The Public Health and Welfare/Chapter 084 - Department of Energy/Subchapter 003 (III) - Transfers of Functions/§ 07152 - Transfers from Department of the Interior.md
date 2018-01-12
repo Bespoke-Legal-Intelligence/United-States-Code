@@ -16,7 +16,7 @@
 
 (2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
-(3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+(3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither thetransfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
 #### (b), (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
 
@@ -48,7 +48,7 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 
 <b>1995</b>—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: "the Alaska Power Administration;".
 
-Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted "and" after "Southwestern Power Administration,"and struck out "and the Alaska Power Administration" after "Bonneville Power Administration,".
+Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted "and" after "Southwestern Power Administration," and struck out "and the Alaska Power Administration" after "Bonneville Power Administration,".
 
 <b>1981</b>—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
@@ -104,7 +104,7 @@ Proceeds.—Proceeds from the sales required by this title shall be deposited in
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna andSnettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
 
 "(f)
 
@@ -142,7 +142,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 &emsp;&emsp;"(B) to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and
 
-&emsp;&emsp;"(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands andlands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
+&emsp;&emsp;"(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
 
 &emsp;"(2) Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished.
 
@@ -188,7 +188,7 @@ Disposal.—The sales of Eklutna and Snettisham under this title are not conside
 
 #### "SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 
-"The provisions of this title regarding the sale of the Alaska Power Administration's hydroelectric projects under section 103 and the exemption of these projects from Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] under section 104 do not apply to other Federal hydroelectric projects."
+"The provisions of this title regarding the sale of the Alaska Power Administration's hydroelectric projectsunder section 103 and the exemption of these projects from Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] under section 104 do not apply to other Federal hydroelectric projects."
 
 #### Use of Funds To Study Noncost-Based Methods of Pricing Hydroelectric Power
 

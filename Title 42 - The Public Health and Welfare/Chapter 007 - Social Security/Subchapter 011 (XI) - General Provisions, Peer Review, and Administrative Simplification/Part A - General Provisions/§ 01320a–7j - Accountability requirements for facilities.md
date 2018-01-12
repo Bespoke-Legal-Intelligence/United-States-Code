@@ -22,7 +22,7 @@ In this section, the term "facility" means—
 
 #### (B) Design of regulations
 
-&emsp;&emsp;Such regulations with respect to specific elements or formality of a program shall, in the case of an organization that operates 5 or more facilities, vary with the size of theorganization, such that larger organizations should have a more formal program and include established written policies defining the standards and procedures to be followed by its employees. Such requirements may specifically apply to the corporate level management of multi unit nursing home chains.
+&emsp;&emsp;Such regulations with respect to specific elements or formality of a program shall, in the case of an organization that operates 5 or more facilities, vary with the size of the organization, such that larger organizations should have a more formal program and include established written policies defining the standards and procedures to be followed by its employees. Such requirements may specifically apply to the corporate level management of multi unit nursing home chains.
 
 #### (C) Evaluation
 
@@ -32,7 +32,7 @@ In this section, the term "facility" means—
 
 &emsp;In this subsection, the term "compliance and ethics program" means, with respect to a facility, a program of the operating organization that—
 
-&emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detecting criminal, civil, and administrative violations under this chapter and in promoting quality of care; and
+&emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detectingcriminal, civil, and administrative violations under this chapter and in promoting quality of care; and
 
 &emsp;&emsp;(B) includes at least the required components specified in paragraph (4).
 
@@ -176,7 +176,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—The Secretary \[of Health and Human Services\], in consultation with the Inspector General of the Department of Health and Human Services, shall conduct a demonstration project to develop, test, and implement an independent monitor program to oversee interstate and large intrastate chains of skilled nursing facilities and nursing facilities.
+In general.—The Secretary \[of Health and Human Services\], in consultation with the InspectorGeneral of the Department of Health and Human Services, shall conduct a demonstration project to develop, test, and implement an independent monitor program to oversee interstate and large intrastate chains of skilled nursing facilities and nursing facilities.
 
 &emsp;"(2)
 

@@ -81,21 +81,41 @@ If—
 
 > &emsp;For purposes of subparagraph (A), the value of an item shall be treated as shown on a return if the item is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
 
-#### (g) Modifications to gift tax payable to reflect different tax rates
+#### (g) Modifications to tax payable
 
-For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent's death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
+#### (1) Modifications to gift tax payable to reflect different tax rates
 
-&emsp;(1) the tax imposed by chapter 12 with respect to such gifts, and
+&emsp;For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent's death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
 
-&emsp;(2) the credit allowed against such tax under section 2505, including in computing—
+&emsp;&emsp;(A) the tax imposed by chapter 12 with respect to such gifts, and
 
-&emsp;&emsp;(A) the applicable credit amount under section 2505(a)(1), and
+&emsp;&emsp;(B) the credit allowed against such tax under section 2505, including in computing—
 
-&emsp;&emsp;(B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
+&emsp;&emsp;&emsp;(i) the applicable credit amount under section 2505(a)(1), and
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317.)
+&emsp;&emsp;&emsp;(ii) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
+
+#### (2) Modifications to estate tax payable to reflect different basic exclusion amounts
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this section with respect to any difference between—
+
+&emsp;&emsp;(A) the basic exclusion amount under section 2010(c)(3) applicable at the time of the decedent's death, and
+
+&emsp;&emsp;(B) the basic exclusion amount under such section applicable with respect to any gifts made by the decedent.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–97 amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent's death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
+
+&emsp;"(1) the tax imposed by chapter 12 with respect to such gifts, and
+
+&emsp;"(2) the credit allowed against such tax under section 2505, including in computing—
+
+&emsp;&emsp;"(A) the applicable credit amount under section 2505(a)(1), and
+
+&emsp;&emsp;"(B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2)."
 
 <b>2013</b>—Subsec. (c). Pub. L. 112–240 substituted in table separate tentative tax rates for amounts over $500,000 but not over $750,000, over $750,000 but not over $1,000,000, and over $1,000,000, respectively, for single tentative tax rate for amounts over $500,000.
 
@@ -143,11 +163,15 @@ Subsec. (c)(3). Pub. L. 100–203, §10401(b)(1), added par. (3).
 
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–34, §402(c), inserted "which would have been" before "payable" and ", if the rate schedule set forth in subsection (c) (as in effect at the decedent's death) had been applicable at the time of such gifts" after "December 31, 1976,".
 
-Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading "In general" and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
+Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading "In general" and substituted in table provision that if the amount computed is over $2,500,000 then the tentativetax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
 <b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11061(c), Dec. 22, 2017, 131 Stat. 2091, provided that: "The amendments made by this section \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying and gifts made after December 31, 2017."
 
 #### Effective Date of 2013 Amendment
 
@@ -217,7 +241,7 @@ Pub. L. 94–455, title XX, §2001(d)(1), Oct. 4, 1976, 90 Stat. 1854, provided 
 
 #### Short Title
 
-Pub. L. 91–614, §1(a), Dec. 31, 1970, 84 Stat. 1836, provided that: "This Act \[enacting section 6905 of this title, section 1232a of Title 15, Commerce and Trade, and section 1033 of former Title 31, Money and Finance, amending sections 56, 1015, 1223, 2012, 2032, 2055, 2204, 2501, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 4061, 4063, 4216, 4251, 4491, 6019, 6040, 6075, 6091, 6161, 6212, 6214, 6324, 6412, 6416, 6501, 6504, and 6512 of this title, and enacting provisions set out as notes under sections 56, 2032, 2204, 2501, 4063, 4216, 4251, 4491, and 6905 of this title\] may be cited as the 'Excise, Estate, and Gift Tax Adjustment Act of 1970'."
+Pub. L. 91–614, §1(a), Dec. 31, 1970, 84 Stat. 1836, provided that: "This Act \[enacting section 6905 of this title, section 1232a of Title 15, Commerce and Trade, and section 1033 of former Title 31, Money and Finance,amending sections 56, 1015, 1223, 2012, 2032, 2055, 2204, 2501, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 4061, 4063, 4216, 4251, 4491, 6019, 6040, 6075, 6091, 6161, 6212, 6214, 6324, 6412, 6416, 6501, 6504, and 6512 of this title, and enacting provisions set out as notes under sections 56, 2032, 2204, 2501, 4063, 4216, 4251, 4491, and 6905 of this title\] may be cited as the 'Excise, Estate, and Gift Tax Adjustment Act of 1970'."
 
 #### Special Election With Respect to Estates of Decedents Dying in 2010
 

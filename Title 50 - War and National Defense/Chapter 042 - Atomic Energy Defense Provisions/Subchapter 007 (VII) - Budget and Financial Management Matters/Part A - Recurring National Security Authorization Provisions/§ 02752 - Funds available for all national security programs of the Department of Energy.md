@@ -1,6 +1,6 @@
 ### §2752. Funds available for all national security programs of the Department of Energy
 
-Subject to the provisions of appropriation Acts and section 2742 of this title, amounts appropriated pursuant to a DOE national security authorization for management and support activities and for general plant projects are available for use, when necessary, in connection with all national security programs of the Department of Energy.
+Subject to the provisions of appropriation Acts and section 2742 of this title, amounts appropriated pursuant to a DOE national securityauthorization for management and support activities and for general plant projects are available for use, when necessary, in connection with all national security programs of the Department of Energy.
 
 (Pub. L. 107–314, div. D, title XLVII, §4712, formerly div. C, title XXXVI, §3631, Dec. 2, 2002, 116 Stat. 2762; renumbered div. D, title XLVII, §4712, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(vi), Nov. 24, 2003, 117 Stat. 1781.)
 

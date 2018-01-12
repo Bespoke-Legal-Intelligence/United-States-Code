@@ -10,7 +10,7 @@ Except as provided in subsection (f)(1)(B)(ii)—
 
 #### (1) In general
 
-&emsp;There is hereby imposed on the taxable income of an electing Settlement Trust, other than its net capital gain, a tax at the lowest rate specified in section 1(c).
+&emsp;There is hereby imposed on the taxable income of an electing Settlement Trust, other than its net capital gain, a tax at the lowest rate specified in section 1(c).<sup>1</sup>
 
 #### (2) Capital gain
 
@@ -78,7 +78,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;&emsp;&emsp;(ii) the provisions of this section shall not apply to such trust for such taxable year and all taxable years thereafter, and
 
-&emsp;&emsp;&emsp;(iii) the distributable net income of such trust shall be increased by the current or accumulated earnings and profits of thesponsoring Native Corporation as of the close of such taxable year after proper adjustment is made for all distributions made by the sponsoring Native Corporation during such taxable year.
+&emsp;&emsp;&emsp;(iii) the distributable net income of such trust shall be increased by the current or accumulated earnings and profits of the sponsoring Native Corporation as of the close of such taxable year after proper adjustment is made for all distributionsmade by the sponsoring Native Corporation during such taxable year.
 
 > &emsp;In no event shall the increase under clause (iii) exceed the fair market value of the trust's assets as of the date the beneficial interest of the trust first becomes so disposable. The earnings and profits of the sponsoring Native Corporation shall be adjusted as of the last day of such taxable year by the amount of earnings and profits so included in the distributable net income of the trust.
 
@@ -136,6 +136,8 @@ Any loss that would otherwise be recognized by a shareholder upon a disposition 
 
 #### References in Text
 
+Section 1(c), referred to in subsec. (b), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
+
 The date of the enactment of this section, referred to in subsec. (c)(2)(A), is the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
 #### Prior Provisions
@@ -145,4 +147,6 @@ A prior section 646 was renumbered section 645 of this title.
 #### Effective Date
 
 Pub. L. 107–16, title VI, §671(d), June 7, 2001, 115 Stat. 148, provided that: "The amendments made by this section \[enacting this section and section 6039H of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[June 7, 2001\] and to contributions made to electing Settlement Trusts for such year or any subsequent year."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

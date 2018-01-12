@@ -102,7 +102,7 @@ Any claim against the Corporation as receiver for a covered broker or dealer for
 
 #### (2) Other claims
 
-&emsp;All claims other than those described in paragraph (1) (including any unpaid claim by acustomer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in section 5390(b) of this title.
+&emsp;All claims other than those described in paragraph (1) (including any unpaid claim by a customer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in section 5390(b) of this title.
 
 #### (h) Rulemaking
 

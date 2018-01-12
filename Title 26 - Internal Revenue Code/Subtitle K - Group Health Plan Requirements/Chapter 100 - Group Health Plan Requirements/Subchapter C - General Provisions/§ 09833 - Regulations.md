@@ -12,3 +12,7 @@ Section 104 of the Health Care Portability and Accountability Act of 1996, refer
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 9806 of this title as this section.
 
+#### Effective Date
+
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
+

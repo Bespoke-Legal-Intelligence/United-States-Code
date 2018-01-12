@@ -12,7 +12,7 @@
 
 (b) A person demanding or receiving from a seaman or an individual seeking employment as a seaman, remuneration for providing the seaman or individual with employment, is liable to the Government for a civil penalty of not more than $5,000.
 
-(c) The owner, charterer, managing operator, agent, or master of a vessel seeking clearance from a port of the United States shall present the agreement required by section 10502 of this title at the office of clearance. Clearance may be granted to a vessel only if this section has been complied with.
+(c) The owner, charterer, managing operator, agent, or master of a vessel seeking clearance from a port of the United States shall present the agreement required by section 10502 of this title at the office of clearance. Clearance may begranted to a vessel only if this section has been complied with.
 
 (d) This section does not apply to a fishing or whaling vessel or a yacht.
 

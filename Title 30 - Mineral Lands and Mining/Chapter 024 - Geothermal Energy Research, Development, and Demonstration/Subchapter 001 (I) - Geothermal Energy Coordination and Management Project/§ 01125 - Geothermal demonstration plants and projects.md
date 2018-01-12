@@ -24,7 +24,7 @@ In carrying out his responsibilities under this section, the Chairman, acting th
 
 #### (c) Agreements for the cooperative development of facilities for demonstration
 
-The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperativedevelopment of facilities to demonstrate the production of energy from geothermal resources. The responsible Federal agency may consider—
+The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperative development of facilities to demonstrate the production of energy from geothermal resources. The responsible Federal agency may consider—
 
 &emsp;(1) cooperative agreements with utilities and non-Federal governmental entities for construction of facilities to produce energy for commercial disposition; and
 

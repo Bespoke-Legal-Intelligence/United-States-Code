@@ -32,7 +32,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;&emsp;(i) in connection with the delivery of a health care item or service, or
 
-&emsp;&emsp;&emsp;(ii) with respect to any act or omission in a health care program (other than those specifically described in subsection (a)(1)) operated by or financed in whole or in part by any Federal, State, or local government agency; or
+&emsp;&emsp;&emsp;(ii) with respect to any act or omission in a health care program (other than thosespecifically described in subsection (a)(1)) operated by or financed in whole or in part by any Federal, State, or local government agency; or
 
 &emsp;&emsp;(B) of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct with respect to any act or omission in a program (other than a health care program) operated by or financed in whole or in part by any Federal, State, or local government agency.
 
@@ -80,7 +80,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;&emsp;(ii) an entity furnishing services under a waiver approved under section 1396n(b)(1) of this title,
 
-> &emsp;&emsp;and has failed substantially to provide medically necessary items and services that arerequired (under law or the contract with the State under subchapter XIX) to be provided to individuals covered under that plan or waiver, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals; or
+> &emsp;&emsp;and has failed substantially to provide medically necessary items and services that are required (under law or the contract with the State under subchapter XIX) to be provided to individuals covered under that plan or waiver, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals; or
 
 &emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
 
@@ -96,7 +96,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(ii) who is an officer, director, agent, or managing employee (as defined in section 1320a–5(b) of this title) of that entity; or
 
-&emsp;&emsp;(iii) who was described in clause (i) but is no longer so described because of a transfer of ownership or control interest, in anticipation of (or following) a conviction, assessment, or exclusion described in subparagraph (B) against the person, to an immediate family member (as defined in subsection (j)(1)) or a member of the household of the person (as defined in subsection (j)(2)) who continues to maintain an interest described in such clause—
+&emsp;&emsp;(iii) who was described in clause (i) but is no longer so described because of a transferof ownership or control interest, in anticipation of (or following) a conviction, assessment, or exclusion described in subparagraph (B) against the person, to an immediate family member (as defined in subsection (j)(1)) or a member of the household of the person (as defined in subsection (j)(2)) who continues to maintain an interest described in such clause—
 
 > &emsp;is a person—
 
@@ -140,7 +140,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (14) Default on health education loan or scholarship obligations
 
-&emsp;Any individual who the Secretary determines is in default on repayments of scholarship obligations or loans in connection with health professions education made or secured, in whole or in part, by the Secretary and with respect to whom the Secretary has taken all reasonable steps available to the Secretary to secure repayment of such obligations or loans,except that (A) the Secretary shall not exclude pursuant to this paragraph a physician who is the sole community physician or sole source of essential specialized services in a community if a State requests that the physician not be excluded, and (B) the Secretary shall take into account, in determining whether to exclude any other physician pursuant to this paragraph, access of beneficiaries to physician services for which payment may be made under subchapter XVIII or XIX.
+&emsp;Any individual who the Secretary determines is in default on repayments of scholarship obligations or loans in connection with health professions education made or secured, in whole or in part, by the Secretary and with respect to whom the Secretary has taken all reasonable steps available to the Secretary to secure repayment of such obligations or loans, except that (A) the Secretary shall not exclude pursuant to this paragraph a physician who is the sole community physician or sole source of essential specialized services in a community if a State requests that the physician not be excluded, and (B) the Secretary shall take into account, in determining whether to exclude any other physician pursuant to this paragraph, access of beneficiaries to physician services for which payment may be made under subchapter XVIII or XIX.
 
 #### (15) Individuals controlling a sanctioned entity
 
@@ -416,7 +416,7 @@ Pub. L. 103–296, title II, §206(b)(3), Aug. 15, 1994, 108 Stat. 1513, provide
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1,1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -432,7 +432,7 @@ Pub. L. 100–93, §15, Aug. 18, 1987, 101 Stat. 698, provided that:
 
 "(a)
 
-In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
+In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
 "(b)
 

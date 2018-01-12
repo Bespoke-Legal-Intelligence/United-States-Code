@@ -16,7 +16,7 @@ From the amounts provided under section 9123(a)(2) of this title, the Director m
 
 &emsp;(1) increase the number of students enrolled in nationally accredited graduate library and information science programs and preparing for careers of service in libraries;
 
-&emsp;(2) recruit future professionals, including efforts to attract promising middle school, highschool, or postsecondary students to consider careers in library and information science;
+&emsp;(2) recruit future professionals, including efforts to attract promising middle school, high school, or postsecondary students to consider careers in library and information science;
 
 &emsp;(3) develop or enhance professional development programs for librarians and the library workforce;
 

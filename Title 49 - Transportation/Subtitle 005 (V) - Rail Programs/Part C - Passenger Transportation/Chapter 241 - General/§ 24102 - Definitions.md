@@ -32,7 +32,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(ii) another rail carrier that receives funds under chapter 244.
 
-&emsp;(8) "Northeast Corridor" means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
+&emsp;(8) "Northeast Corridor" means Connecticut, Delaware, the District of Columbia, Maryland,Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
 
 &emsp;(9) "rail carrier" means a person, including a unit of State or local government, providing rail transportation for compensation.
 

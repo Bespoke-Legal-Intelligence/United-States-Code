@@ -14,7 +14,7 @@ The Director of National Intelligence, acting through the heads of the elements 
 
 #### (c) Relationship to compensation as an analyst
 
-Reimbursement under this section to an employee who is an analyst is in addition to any benefits, allowances, travel expenses, or othercompensation the employee is entitled to by reason of serving in such an analyst position.
+Reimbursement under this section to an employee who is an analyst is in addition to any benefits, allowances, travel expenses, or other compensation the employee is entitled to by reason of serving in such an analyst position.
 
 (July 26, 1947, ch. 343, title X, §1021, as added Pub. L. 108–487, title VI, §612(a)(2), Dec. 23, 2004, 118 Stat. 3959.)
 

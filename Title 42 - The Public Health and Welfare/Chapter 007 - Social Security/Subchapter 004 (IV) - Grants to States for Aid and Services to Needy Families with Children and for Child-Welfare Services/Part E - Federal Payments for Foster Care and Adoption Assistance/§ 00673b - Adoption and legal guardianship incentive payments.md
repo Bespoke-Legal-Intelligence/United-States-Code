@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this sectionfor the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State
 
@@ -86,7 +86,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(A) the amount of the adoption and legal guardianship incentive payment that would otherwise be payable to the State under paragraph (1) for the fiscal year; multiplied by
 
-&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption andlegal guardianship incentive payments otherwise payable under paragraph (1) for the fiscal year.
+&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption and legal guardianship incentive payments otherwise payable under paragraph (1) for the fiscal year.
 
 #### (3) Increased adoption and legal guardianship incentive payment for timely adoptions
 
@@ -160,7 +160,7 @@ As used in this section:
 
 #### (7) Older child adoption and older foster child guardianship rate
 
-&emsp;The term "older child adoption and older foster child guardianship rate" means, withrespect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
 
@@ -204,7 +204,7 @@ As used in this section:
 
 &emsp;&emsp;(A) that the State agency has determined that—
 
-&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child;
+&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicialdetermination to the effect that continuation in the home would be contrary to the welfare of the child;
 
 &emsp;&emsp;&emsp;(ii) being returned home or adopted are not appropriate permanency options for the child;
 
@@ -292,7 +292,7 @@ Pub. L. 113–183, §202(c)(1), added subpars. (A) to (D) and struck out former 
 
 "(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-"(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+"(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscalyear exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
 "(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year."
 
@@ -370,7 +370,7 @@ Alternative data sources permitted for fiscal years 1995 through 1997.—For pur
 
 Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted "that are not older child adoptions" after "adoptions" in two places in subpar. (B) and added subpar. (C).
 
-<b>2003</b>—Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 "(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
@@ -380,7 +380,7 @@ Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older ch
 
 "(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
-"(B) with respect to any subsequent fiscal year, the number of special needs adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
+"(B) with respect to any subsequent fiscal year, the number of special needs adoptions in the State in the fiscal year for which the number is the greatest in theperiod that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
 
 Subsec. (g)(5), (6). Pub. L. 108–145, §3(a)(4)(C), added pars. (5) and (6).
 
@@ -426,7 +426,7 @@ Pub. L. 108–145, §2, Dec. 2, 2003, 117 Stat. 1879, provided that: "The Congre
 
 &emsp;"(1) In 1997, the Congress passed the Adoption and Safe Families Act of 1997 \[Pub. L. 105–89; see Short Title of 1997 Amendment note set out under section 1305 of this title\] to promote comprehensive child welfare reform to ensure that consideration of children's safety is paramount in child welfare decisions, and to provide a greater sense of urgency to find every child a safe, permanent home.
 
-&emsp;"(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, whichauthorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
+&emsp;"(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, which authorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
 
 &emsp;"(3) Since 1997, all States, the District of Columbia, and Puerto Rico have qualified for incentive payments for their work in promoting adoption of foster children.
 

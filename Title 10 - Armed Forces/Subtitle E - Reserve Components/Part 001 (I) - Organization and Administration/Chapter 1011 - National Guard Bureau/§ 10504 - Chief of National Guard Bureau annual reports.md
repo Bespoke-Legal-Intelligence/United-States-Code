@@ -1,0 +1,80 @@
+### §10504. Chief of National Guard Bureau: annual reports
+
+(a)
+
+Annual Report on State of the National Guard.—The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions.
+
+(2) <sup>1</sup> The annual report required by paragraph (1) shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
+
+(b) <sup>2</sup>
+
+Submission of Report to Congress.—The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113(c) of this title is submitted to Congress.
+
+(b) <sup>2</sup>
+
+Annual Report on Non-federalized Service National Guard Personnel, Training, and Equipment Requirements.—(1) Not later than January 31 of each of calendar years 2018 through 2020, the Chief of the National Guard Bureau, in coordination with the Secretary of Defense, shall submit to the recipients described in paragraph (3) a report that identifies the personnel, training, and equipment required by the non-Federalized National Guard—
+
+&emsp;(A) to support civilian authorities in connection with natural and man-made disasters during the covered period; and
+
+&emsp;(B) to carry out prevention, protection, mitigation, response, and recovery activities relating to such disasters during the covered period.
+
+(2) In preparing each report under paragraph (1), the Chief of the National Guard Bureau shall—
+
+&emsp;(A) consult with the chief executive of each State, the Council of Governors, and other appropriate civilian authorities;
+
+&emsp;(B) collect and validate information from each State relating to the personnel, training, and equipment requirements described in paragraph (1);
+
+&emsp;(C) set forth separately the personnel, training, and equipment requirements for—
+
+&emsp;&emsp;(i) each of the emergency support functions of the National Response Framework; and
+
+&emsp;&emsp;(ii) each of the Federal Emergency Management Agency regions;
+
+&emsp;(D) assess core civilian capability gaps relating to natural and man-made disasters, as identified by States in submissions to the Department of Homeland Security;
+
+&emsp;(E) take into account threat and hazard identifications and risk assessments of the Department of Defense, the Department of Homeland Security, and the States; and
+
+&emsp;(F) assess the budgets of each State to support the personnel, training, and equipment requirements of the non-Federalized National Guard.
+
+(3) The annual report required by paragraph (1) shall be submitted to the following officials:
+
+&emsp;(A) The congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+&emsp;(B) The Secretary of Defense.
+
+&emsp;(C) The Secretary of Homeland Security.
+
+&emsp;(D) The Council of Governors.
+
+&emsp;(E) The Secretary of the Army.
+
+&emsp;(F) The Secretary of the Air Force.
+
+&emsp;(G) The Commander of the United States Northern Command.
+
+&emsp;(H) The Commander of the United States Pacific Command.
+
+&emsp;(I) The Commander of the United States Cyber Command.
+
+(4) In this subsection, the term "covered period" means the fiscal year beginning after the date on which a report is submitted under paragraph (1).
+
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 115–91, div. A, title III, §333(a), (b)(1), Dec. 12, 2017, 131 Stat. 1354–1356.)
+
+#### Amendments
+
+<b>2017</b>—Pub. L. 115–91, §333(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: "Chief of National Guard Bureau: annual report".
+
+Subsec. (a). Pub. L. 115–91, §333(a)(1)(A), substituted "Report on State of the National Guard" for "Report" in heading.
+
+Subsec. (a)(2). Pub. L. 115–91, §333(a)(1)(B), designated second sentence of subsec. (a) as par. (2) and substituted "The annual report required by paragraph (1)" for "The report".
+
+Subsec. (b). Pub. L. 115–91, §333(a)(2), added subsec. (b) relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements.
+
+#### Effective Date
+
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
+
+<i><sup>1</sup></i><i> So in original. No par. (1) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
+

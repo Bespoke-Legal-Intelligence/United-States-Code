@@ -56,7 +56,7 @@ The members of a management conference convened under this section shall include
 
 #### (d) Utilization of existing data
 
-In developing a conservation and management plan under this section, the management conference shall survey and utilize existing reports, data, and studies relating to the estuary thathave been developed by or made available to Federal, interstate, State, and local agencies.
+In developing a conservation and management plan under this section, the management conference shall survey and utilize existing reports, data, and studies relating to the estuary that have been developed by or made available to Federal, interstate, State, and local agencies.
 
 #### (e) Period of conference
 
@@ -144,7 +144,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (B) Competitive awards
 
-&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for afiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
+&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
 #### (j) Research
 
@@ -170,7 +170,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 &emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
 
-&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
+&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so farimplemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
 #### (k) Definitions
 

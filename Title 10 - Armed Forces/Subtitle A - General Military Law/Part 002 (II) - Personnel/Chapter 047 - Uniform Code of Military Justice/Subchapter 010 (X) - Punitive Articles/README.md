@@ -47,6 +47,7 @@
 | [915\.](%C2%A7%2000915%20-%20Art.%20115.%20Malingering.md) | 115\. | Malingering. |
 | [916\.](%C2%A7%2000916%20-%20Art.%20116.%20Riot%20or%20breach%20of%20peace.md) | 116\. | Riot or breach of peace. |
 | [917\.](%C2%A7%2000917%20-%20Art.%20117.%20Provoking%20speeches%20or%20gestures.md) | 117\. | Provoking speeches or gestures. |
+| [917a.](%C2%A7%2000917a%20-%20Art.%20117a.%20Wrongful%20broadcast%20or%20distribution%20of%20intimate%20visual%20images.md) | 117a. | Wrongful broadcast or distribution of intimate visual images. |
 | [918\.](%C2%A7%2000918%20-%20Art.%20118.%20Murder.md) | 118\. | Murder. |
 | [919\.](%C2%A7%2000919%20-%20Art.%20119.%20Manslaughter.md) | 119\. | Manslaughter. |
 | [919a.](%C2%A7%2000919a%20-%20Art.%20119a.%20Death%20or%20injury%20of%20an%20unborn%20child.md) | 119a. | Death or injury of an unborn child. |
@@ -72,7 +73,11 @@
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
+
+Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a.
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1707(b), Dec. 26, 2013, 127 Stat. 961, substituted "Forcible sodomy; bestiality" for "Sodomy" in item 925.
 
@@ -98,7 +103,9 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 
 #### Amendment of Analysis and Subchapter
 
-<i>Pub. L. 114–328, div. E, title LX, §§5401–5452, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937–2958, 2967, substantially reorganized and revised this subchapter and correspondingly amended the analysis, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After the effective date of the amendments made by Pub. L. 114–328, the analysis and this subchapter will read as follows:</i>
+<i>Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1599, 1600, provided that, effective as of Dec. 23, 2016, and as if included within the amendment made by section 5452 of Pub. L. 114–328, set out below, as enacted, this analysis is amended in the item relating to section 887a, by striking "Resistence" and inserting "Resistance", in the item relating to section 908, by striking "of the United States–Loss" and inserting "of United States–Loss,", in the item relating to section 909, by striking "of the" and inserting "of", and in the item relating to section 909a, by striking the second period at the end. See 2017 Amendment note above.</i>
+
+<i>Pub. L. 114–328, div. E, title LX, §§5401–5452, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937–2958, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, substantially reorganized and revised</i><i>this subchapter and correspondingly amended the analysis, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After the effective date of the amendments made by Pub. L. 114–328, the analysis and this subchapter will read as follows:</i>
 
 &nbsp;
 
@@ -115,7 +122,7 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 | [885\.](%C2%A7%2000885%20-%20Art.%2085.%20Desertion.md) | 85\. | Desertion. |
 | [886\.](%C2%A7%2000886%20-%20Art.%2086.%20Absence%20without%20leave.md) | 86\. | Absence without leave. |
 | [887\.](%C2%A7%2000887%20-%20Art.%2087.%20Missing%20movement.md) | 87\. | Missing movement; jumping from vessel. |
-| [887a.](%C2%A7%2000887a%20-%20Art.%2087a.md) | 87a. | Resistence \[sic\], flight, breach of arrest, and escape. |
+| [887a.](%C2%A7%2000887a%20-%20Art.%2087a.md) | 87a. | Resistance, flight, breach of arrest, and escape. |
 | [887b.](%C2%A7%2000887b%20-%20Art.%2087b.md) | 87b. | Offenses against correctional custody and restriction. |
 | [888\.](%C2%A7%2000888%20-%20Art.%2088.%20Contempt%20toward%20officials.md) | 88\. | Contempt toward officials. |
 | [889\.](%C2%A7%2000889%20-%20Art.%2089.%20Disrespect%20toward%20superior%20commissioned%20officer.md) | 89\. | Disrespect toward superior commissioned officer; assault of superior commissioned officer. |
@@ -146,10 +153,10 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 | [906a.](%C2%A7%2000906a%20-%20Art.%20106a.%20Espionage.md) | 106a. | Wearing unauthorized insignia, decoration, badge, ribbon, device, or lapel button. |
 | [907\.](%C2%A7%2000907%20-%20Art.%20107.%20False%20official%20statements.md) | 107\. | False official statements; false swearing. |
 | [907a.](%C2%A7%2000907a%20-%20Art.%20107a.md) | 107a. | Parole violation. |
-| [908\.](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md) | 108\. | Military property of the United States—Loss \[sic\] damage, destruction, or wrongful disposition. |
+| [908\.](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md) | 108\. | Military property of United States–Loss, damage, destruction, or wrongful disposition. |
 | [908a.](%C2%A7%2000908a%20-%20Art.%20108a.md) | 108a. | Captured or abandoned property. |
-| [909\.](%C2%A7%2000909%20-%20Art.%20109.%20Property%20other%20than%20military%20property%20of%20United%20States%E2%80%94Waste%2C%20spoilage%2C%20or%20destruction.md) | 109\. | Property other than military property of the \[sic\] United States—Waste, spoilage, or destruction. |
-| [909a.](%C2%A7%2000909a%20-%20Art.%20109a.md) | 109a. | Mail matter: wrongful taking, opening, etc.. \[sic\] |
+| [909\.](%C2%A7%2000909%20-%20Art.%20109.%20Property%20other%20than%20military%20property%20of%20United%20States%E2%80%94Waste%2C%20spoilage%2C%20or%20destruction.md) | 109\. | Property other than military property of United States—Waste, spoilage, or destruction. |
+| [909a.](%C2%A7%2000909a%20-%20Art.%20109a.md) | 109a. | Mail matter: wrongful taking, opening, etc. |
 | [910\.](%C2%A7%2000910%20-%20Art.%20110.%20Improper%20hazarding%20of%20vessel.md) | 110\. | Improper hazarding of vessel or aircraft. |
 | [911\.](%C2%A7%2000911%20-%20Art.%20111.%20Drunken%20or%20reckless%20operation%20of%20a%20vehicle%2C%20aircraft%2C%20or%20vessel.md) | 111\. | Leaving scene of vehicle accident. |
 | [912\.](%C2%A7%2000912%20-%20Art.%20112.%20Drunk%20on%20duty.md) | 112\. | Drunkenness and other incapacitation offenses. |
@@ -522,7 +529,7 @@ Disrespectful Language Toward Sentinel or Lookout.—Any person subject to this 
 
 (b)
 
-Disrespectful Behavior Toward Sentinel or Lookout.—Any person subject to this chapter who, knowing that another person is a sentinel or lookout, behaves in a wrongful and disrespectful manner that is directed toward and within the sight of the sentinel or lookout, who is in the execution of duties as a sentinel or lookout, shall be punished as a court-martial may direct.
+Disrespectful Behavior Toward Sentinel or Lookout.—Any person subject to thischapter who, knowing that another person is a sentinel or lookout, behaves in a wrongful and disrespectful manner that is directed toward and within the sight of the sentinel or lookout, who is in the execution of duties as a sentinel or lookout, shall be punished as a court-martial may direct.
 
 #### §896. Art. 96. Release of prisoner without authority; drinking with prisoner
 
@@ -1728,6 +1735,7 @@ Though not specifically mentioned in this chapter, all disorders and neglects to
 - [&sect; 00915 - Art. 115. Malingering](%C2%A7%2000915%20-%20Art.%20115.%20Malingering.md)
 - [&sect; 00916 - Art. 116. Riot or breach of peace](%C2%A7%2000916%20-%20Art.%20116.%20Riot%20or%20breach%20of%20peace.md)
 - [&sect; 00917 - Art. 117. Provoking speeches or gestures](%C2%A7%2000917%20-%20Art.%20117.%20Provoking%20speeches%20or%20gestures.md)
+- [&sect; 00917a - Art. 117a. Wrongful broadcast or distribution of intimate visual images](%C2%A7%2000917a%20-%20Art.%20117a.%20Wrongful%20broadcast%20or%20distribution%20of%20intimate%20visual%20images.md)
 - [&sect; 00918 - Art. 118. Murder](%C2%A7%2000918%20-%20Art.%20118.%20Murder.md)
 - [&sect; 00919 - Art. 119. Manslaughter](%C2%A7%2000919%20-%20Art.%20119.%20Manslaughter.md)
 - [&sect; 00919a - Art. 119a. Death or injury of an unborn child](%C2%A7%2000919a%20-%20Art.%20119a.%20Death%20or%20injury%20of%20an%20unborn%20child.md)

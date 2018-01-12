@@ -28,7 +28,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Effective Date
 
-Pub. L. 99–551, §11, Oct. 27, 1986, 100 Stat. 3079, provided that: "Except as otherwise provided, the amendments made by this Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971,4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, and amending provisions set out as a note under section 5041 of this title\] shall take effect October 1, 1986."
+Pub. L. 99–551, §11, Oct. 27, 1986, 100 Stat. 3079, provided that: "Except as otherwise provided, the amendments made by this Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971, 4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, and amending provisions set out as a note under section 5041 of this title\] shall take effect October 1, 1986."
 
 #### Short Title of 1993 Amendment
 

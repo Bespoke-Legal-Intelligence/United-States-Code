@@ -16,7 +16,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (2) Certification
 
-&emsp;The Secretary of Health and Human Services shall certify to the Secretary of theTreasury the amount estimated under paragraph (1) with respect to a State, reduced or increased to the extent of any overpayment or underpayment which the Secretary of Health and Human Services determines was made under this part to the State for any prior quarter and with respect to which adjustment has not been made under this paragraph.
+&emsp;The Secretary of Health and Human Services shall certify to the Secretary of the Treasury the amount estimated under paragraph (1) with respect to a State, reduced or increased to the extent of any overpayment or underpayment which the Secretary of Health and Human Services determines was made under this part to the State for any prior quarter and with respect to which adjustment has not been made under this paragraph.
 
 #### (d) Payment method
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

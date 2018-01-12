@@ -1,6 +1,6 @@
 ### §1487. Effective date
 
-This chapter shall be effective upon February 5, 1974, or upon the date the convention becomes effective as to the United States, whichever is later.
+This chapter shall be effective upon February 5, 1974, or upon the date the convention becomeseffective as to the United States, whichever is later.
 
 (Pub. L. 93–248, §18, Feb. 5, 1974, 88 Stat. 10.)
 

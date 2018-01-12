@@ -32,7 +32,7 @@
 
 (f) Notwithstanding any other provision of this section, any amounts appropriated to the Postal Service under subsection (d) of section 2401 of this title and deposited into the Fund shall be expended by the Postal Service only for the purposes provided in such subsection.
 
-(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after thedate on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
+(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after the date on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
 
 (h) Liabilities of the former Post Office Department to the Employees' Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
 
@@ -114,7 +114,11 @@ Pub. L. 101–239, title IV, §4004(b), Dec. 19, 1989, 103 Stat. 2135, provided 
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XVII, §1727, Aug. 13, 1981, 95 Stat. 761, provided that: "The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title\] (other than section 1726 andthis section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–35, title XVII, §1727, Aug. 13, 1981, 95 Stat. 761, provided that: "The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title\] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Contributions by United States Postal Service to Civil Service Retirement and Disability Fund
 

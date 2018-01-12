@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The provisions of sections 8721, 8722, 8723, 8725, 8726, 8727, and 8771 of this title, subchapter I, and subchapter III shall terminate on the date that is 30 days after the date on which the Presidentmakes the certification described in section 8551(a) of this title.
+The provisions of sections 8721, 8722, 8723, 8725, 8726, 8727, and 8771 of this title, subchapter I, and subchapter III shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of this title.
 
 #### (b) Omitted
 

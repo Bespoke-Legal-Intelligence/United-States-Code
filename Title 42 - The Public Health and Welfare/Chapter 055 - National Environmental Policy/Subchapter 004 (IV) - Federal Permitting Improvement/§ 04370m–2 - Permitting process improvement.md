@@ -164,7 +164,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
+&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make aspecific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
 
 #### (B) Required information
 
@@ -212,7 +212,7 @@
 
 #### (ii) Disputes
 
-&emsp;&emsp;&emsp;If a dispute remains unresolved 30 days after the date on which the dispute was submitted to the Executive Director, the Director of the Office of Management and Budget, in consultation with the Chairman of the Council on Environmental Quality, shall facilitate a resolution of the dispute and direct the agencies party to the dispute to resolve the dispute by the end ofthe 60-day period beginning on the date of submission of the dispute to the Executive Director.
+&emsp;&emsp;&emsp;If a dispute remains unresolved 30 days after the date on which the dispute was submitted to the Executive Director, the Director of the Office of Management and Budget, in consultation with the Chairman of the Council on Environmental Quality, shall facilitate a resolution of the dispute and direct the agencies party to the dispute to resolve the dispute by the end of the 60-day period beginning on the date of submission of the dispute to the Executive Director.
 
 #### (iii) Final resolution
 

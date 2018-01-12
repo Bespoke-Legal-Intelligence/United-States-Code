@@ -10,7 +10,7 @@ Based on the best scientific information available, artificial reefs in waters c
 
 &emsp;(4) minimize environmental risks and risks to personal health and property; and
 
-&emsp;(5) be consistent with generally accepted principles of international law and shall notcreate any unreasonable obstruction to navigation.
+&emsp;(5) be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
 
 (Pub. L. 98–623, title II, §203, Nov. 8, 1984, 98 Stat. 3395.)
 

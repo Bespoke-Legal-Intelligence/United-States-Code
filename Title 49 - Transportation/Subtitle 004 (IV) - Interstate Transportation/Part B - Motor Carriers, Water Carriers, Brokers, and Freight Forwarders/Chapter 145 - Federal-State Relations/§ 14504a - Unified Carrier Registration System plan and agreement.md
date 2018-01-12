@@ -100,7 +100,7 @@ Vehicle registration.—The term "vehicle registration" means the registration o
 
 (b)
 
-Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not requiredto register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
+Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
 
 (c)
 
@@ -334,7 +334,7 @@ Contents of Unified Carrier Registration Agreement.—The unified carrier regist
 
 Fees.—(A) Fees charged—
 
-&emsp;&emsp;(i) to a motor carrier, motor private carrier, or freight forwarder under the UCR agreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
+&emsp;&emsp;(i) to a motor carrier, motor private carrier, or freight forwarder under the UCRagreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
 
 &emsp;&emsp;(ii) to a broker or leasing company under the UCR agreement shall be equal to the smallest fee charged to a motor carrier, motor private carrier, and freight forwarder under this paragraph.
 

@@ -216,7 +216,7 @@ Special rules with respect to certain pilots.—
 
 &emsp;&emsp;(A)
 
-Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14,Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
+Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
 
 &emsp;&emsp;(B)
 
@@ -294,7 +294,7 @@ Reporting.—
 
 &emsp;&emsp;(A)
 
-Reporting by administrator.—The Administrator shall enter data described in paragraph (2)(A) into the database promptlyto ensure that an individual's records are current.
+Reporting by administrator.—The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual's records are current.
 
 &emsp;&emsp;(B)
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the recordsonly to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -586,7 +586,7 @@ In subsection (b)(1)(E), the word "designate" is substituted for "be entitled wi
 
 In subsection (c)(1), before clause (A), the words "may appeal . . . to" are substituted for "may file with . . . a petition for review of the Secretary of Transportation's action" for consistency with section 1109 of the revised title. The words "the individual holds a certificate that" are substituted for "persons whose certificates" for clarity.
 
-In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
+In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, orstandards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
 
 In subsection (d), before clause (1), the words "in his discretion" are omitted as surplus. In clause (2), the words "the terms of" and "entered into" are omitted as surplus. The words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
 
@@ -796,7 +796,7 @@ Requirements.—The checklist shall contain—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XXII) anything else the physician, in his or her medical judgment, considers necessary;
 
-&emsp;&emsp;&emsp;"(ii) to exercise medical discretion to address, as medically appropriate, any medical conditions identified, and to exercise medical discretion in determining whether any medical tests are warranted as part of the comprehensive medical examination;
+&emsp;&emsp;&emsp;"(ii) to exercise medical discretion to address, as medically appropriate, any medical conditionsidentified, and to exercise medical discretion in determining whether any medical tests are warranted as part of the comprehensive medical examination;
 
 &emsp;&emsp;&emsp;"(iii) to discuss all drugs the individual reports taking (prescription and nonprescription) and their potential to interfere with the safe operation of an aircraft or motor vehicle;
 
@@ -1232,7 +1232,7 @@ Report to Congress.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit tothe Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
+In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
 
 &emsp;"(2)
 

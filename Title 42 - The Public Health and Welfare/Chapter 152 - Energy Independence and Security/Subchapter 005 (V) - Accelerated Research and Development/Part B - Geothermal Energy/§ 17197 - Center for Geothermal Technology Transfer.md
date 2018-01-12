@@ -12,7 +12,7 @@ The Center shall—
 
 &emsp;(2) make data collected by the Center available to the public; and
 
-&emsp;(3) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in researchand development of geothermal systems and related technology.
+&emsp;(3) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in research and development of geothermal systems and related technology.
 
 #### (c) Selection criteria
 
@@ -31,4 +31,8 @@ A grant made under subsection (a)—
 &emsp;&emsp;(B) any other requirements specified by the Secretary.
 
 (Pub. L. 110–140, title VI, §618, Dec. 19, 2007, 121 Stat. 1683.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

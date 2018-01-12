@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal <sup>1</sup> agencies and educational institutions, shall, subject tothe availability of appropriations, establish a program—
+The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal <sup>1</sup> agencies and educational institutions, shall, subject to the availability of appropriations, establish a program—
 
 &emsp;(1) to identify existing research on, and known locations of, deep sea corals and submit such information to the appropriate Councils;
 

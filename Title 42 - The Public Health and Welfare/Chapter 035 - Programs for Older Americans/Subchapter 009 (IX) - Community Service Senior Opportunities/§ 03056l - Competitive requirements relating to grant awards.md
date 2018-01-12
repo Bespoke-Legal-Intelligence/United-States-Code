@@ -68,7 +68,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;&emsp;(F) Failure to correct deficiencies brought to the grantee's attention in writing as a result of monitoring activities, reviews, assessments, or other activities.
 
-&emsp;&emsp;(G) Failure to return a grant closeout package or outstanding advances within 90 days of the grant expiration date or receipt of the closeout package, whichever is later, unless an extension has been requested and granted.
+&emsp;&emsp;(G) Failure to return a grant closeout package or outstanding advances within 90 days of the grant expiration date or receiptof the closeout package, whichever is later, unless an extension has been requested and granted.
 
 &emsp;&emsp;(H) Failure to submit required reports.
 
@@ -76,7 +76,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;&emsp;(J) Failure to have maintained effective cash management or cost controls resulting in excess cash on hand.
 
-&emsp;&emsp;(K) Failure to ensure that a subrecipient complies with its Office of Management andBudget Circular A–133 audit requirements specified at section 667.200(b) of title 20, Code of Federal Regulations.
+&emsp;&emsp;(K) Failure to ensure that a subrecipient complies with its Office of Management and Budget Circular A–133 audit requirements specified at section 667.200(b) of title 20, Code of Federal Regulations.
 
 &emsp;&emsp;(L) Failure to audit a subrecipient within the required period.
 

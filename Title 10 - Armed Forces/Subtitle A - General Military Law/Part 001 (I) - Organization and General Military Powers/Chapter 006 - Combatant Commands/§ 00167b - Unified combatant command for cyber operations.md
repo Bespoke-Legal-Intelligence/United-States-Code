@@ -14,12 +14,6 @@ Grade of Commander.—The commander of the cyber command shall hold the grade of
 
 (d)
 
-Command of Activity or Mission.—(1) Unless otherwise directed by the President or the Secretary of Defense, a cyber operations activity or mission shall be conducted under the command of the commander of the unified combatant command in whose geographic area the activity or mission is to be conducted.
-
-(2) The commander of the cyber command shall exercise command of a selected cyber operations mission if directed to do so by the President or the Secretary of Defense.
-
-(e)
-
 Authority of Combatant Commander.—(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
 
 (2)(A) Subject to the authority, direction, and control of the Principal Cyber Advisor, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
@@ -32,7 +26,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;&emsp;(I) for forces assigned directly to the cyber command; and
 
-&emsp;&emsp;(II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 <sup>1</sup> (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+&emsp;&emsp;(II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
 
 &emsp;(iv) Training and certification of assigned joint forces.
 
@@ -60,15 +54,41 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;(C) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
 
-(f)
+(e)
 
-Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence ofthe House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
+Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
 
-(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357.)
+(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741.)
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "2016".</i>
+#### Amendments
+
+<b>2017</b>—Subsec. (d). Pub. L. 115–91, §1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
+
+Subsec. (e). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, §1081(a)(12), substituted "Fiscal Year 2016" for "Fiscal Year 2014".
+
+Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
+
+#### Elevation of U.S. Cyber Command to a Unified Combatant Command
+
+Memorandum of President of the United States, Aug. 15, 2017, 82 F.R. 39953, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as the Commander in Chief and under sections 161 and 167b of title 10, United States Code, and in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, I direct that U.S. Cyber Command be established as a Unified Combatant Command. I also direct the Secretary of Defense to recommend an officer for my nomination and Senate confirmation as commander in order to establish U.S. Cyber Command as a Unified Combatant Command.
+
+I assign to U.S. Cyber Command: (1) all the general responsibilities of a Unified Combatant Command; (2) the cyberspace-related responsibilities previously assigned to the Commander, U.S. Strategic Command; (3) the responsibilities of Joint Force Provider and Joint Force Trainer; and (4) all other responsibilities identified in section 167b of title 10, United States Code. The comprehensive list of authorities and responsibilities for U.S. Cyber Command will be included in the next update to the Unified Command Plan.
+
+I further direct that the Secretary of Defense, in coordination with the Director of National Intelligence, provide a recommendation and, as appropriate, a plan to me regarding the future command relationship between the U.S. Cyber Command and the National Security Agency.
+
+Consistent with section 161(b)(2) of title 10, United States Code, and section 301 of title 3, United States Code, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

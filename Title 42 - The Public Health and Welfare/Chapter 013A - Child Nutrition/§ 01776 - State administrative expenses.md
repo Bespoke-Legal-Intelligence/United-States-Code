@@ -36,7 +36,7 @@
 
 (4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
-(5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in thefiscal year succeeding the fiscal year for which such amounts were appropriated.
+(5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
 
 (B)
 
@@ -60,7 +60,7 @@ Use of administrative funds.—Funds available to a State under this subsection 
 
 (9)(A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title) or under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) (including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766)), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1) or 1766).
 
-(B) On a subsequent determination by the Secretary that the administration of any program referred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
+(B) On a subsequent determination by the Secretary that the administration of any programreferred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
 
 #### (b) Funds, usage: compensation, benefits, and travel expenses of personnel; support services; office equipment; staff development
 
@@ -228,7 +228,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
+&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activitiescarried out by the Secretary in lieu of the State.
 
 #### (3) Allocation
 
@@ -298,7 +298,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided in subparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided insubparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
 
 Subsec. (g). Pub. L. 111–296, §306, added subsec. (g) and struck out former subsec. (g) which required each State to provide, at least annually, training in administrative practices, with emphasis on the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004, and set out the Federal role and procedures for required participation.
 

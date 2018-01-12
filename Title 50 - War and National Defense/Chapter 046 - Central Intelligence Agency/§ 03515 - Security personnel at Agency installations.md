@@ -46,7 +46,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 Section was formerly classified to section 403o of this title prior to editorial reclassification and renumbering as this section.
 
-Pub. L. 98–473, title I, §140 and Pub. L. 98–618, title IV, §401, added substantially identical sections 15 to act June 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
+Pub. L. 98–473, title I, §140 and Pub. L. 98–618, title IV, §401, added substantially identical sections 15 to actJune 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
 
 #### Amendments
 
@@ -64,5 +64,5 @@ Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 
-Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference tothe George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 3501 of this title.
+Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference to the George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 3501 of this title.
 

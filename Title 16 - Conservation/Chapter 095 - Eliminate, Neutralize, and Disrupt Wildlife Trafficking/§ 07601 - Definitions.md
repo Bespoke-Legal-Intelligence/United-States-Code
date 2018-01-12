@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Community conservation
 
-&emsp;The term "community conservation" means an approach to conservation that recognizesthe rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
+&emsp;The term "community conservation" means an approach to conservation that recognizes the rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
 
 &emsp;&emsp;(A) devolving management and governance to local communities to create positive conditions for resource use that takes into account current and future ecological requirements; and
 

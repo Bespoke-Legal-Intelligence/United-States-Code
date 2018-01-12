@@ -20,9 +20,9 @@ Following such opportunity for public comment the Commission, after consultation
 
 Following publication of the Commission's recommendations the Secretary shall have the option of—
 
-&emsp;(1) issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1) of this section;
+&emsp;(1) issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1);
 
-&emsp;(2) issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2) of this section; or
+&emsp;(2) issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2); or
 
 &emsp;(3) ordering that the rule shall not be issued.
 

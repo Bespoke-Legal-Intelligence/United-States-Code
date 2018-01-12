@@ -28,7 +28,7 @@ The Capitol Visitor Center shall be used—
 
 #### (B) House of Representatives
 
-&emsp;&emsp;The expansion space of the House of Representatives described as unassigned space under the heading "Capitol Visitor Center" under the heading "ARCHITECT OF THE CAPITOL" under title II of the Act entitled "An Act making appropriations for the Legislative Branch for the fiscal year ending September 30, 2002, and for other purposes", approved November 12, 2001 (Public Law 107–68; 115 Stat. 588) shall be part of the House of Representatives wing of the Capitol.
+&emsp;&emsp;The expansion space of the House of Representatives described as unassigned space under the heading "Capitol Visitor Center" under the heading "ARCHITECT OF THE CAPITOL" under title II of the Act entitled "An Act making appropriations for the Legislative Branch for the fiscal year endingSeptember 30, 2002, and for other purposes", approved November 12, 2001 (Public Law 107–68; 115 Stat. 588) shall be part of the House of Representatives wing of the Capitol.
 
 #### (d) Treatment of Congressional Auditorium and related adjacent areas
 
@@ -86,7 +86,7 @@ The Capitol Visitor Center shall be used—
 
 #### (4) Substitution of historical object
 
-&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of anhistorical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
+&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
 
 (Pub. L. 110–437, title I, §101, Oct. 20, 2008, 122 Stat. 4984.)
 

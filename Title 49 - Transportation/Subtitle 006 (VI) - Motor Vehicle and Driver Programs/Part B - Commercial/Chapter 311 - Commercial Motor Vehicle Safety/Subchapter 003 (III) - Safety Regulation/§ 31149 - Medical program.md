@@ -10,7 +10,7 @@ Establishment and function.—The Secretary of Transportation shall establish a 
 
 &emsp;(2)
 
-Composition.—The Medical Review Board shall be appointed by the Secretary and shall consist of 5 members selected from medical institutions and private practice. The membership shall reflect expertise in a variety of medical specialties relevant to the driver fitness requirements of the Federal Motor Carrier Safety Administration.
+Composition.—The Medical Review Board shall be appointed by the Secretary and shallconsist of 5 members selected from medical institutions and private practice. The membership shall reflect expertise in a variety of medical specialties relevant to the driver fitness requirements of the Federal Motor Carrier Safety Administration.
 
 (b)
 
@@ -56,7 +56,7 @@ In general.—The Secretary, with the advice of the Medical Review Board and the
 
 &emsp;(2)
 
-Monitoring performance.—The Secretary shall investigate patterns of errors orimproper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
+Monitoring performance.—The Secretary shall investigate patterns of errors or improper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
 
 (d)
 
@@ -104,23 +104,23 @@ Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended
 
 #### Medical Certification of Veterans for Commercial Driver's Licenses
 
-Pub. L. 114–94, div. A, title V, §5403, Dec. 4, 2015, 129 Stat. 1548, provided that:
+Pub. L. 114–94, div. A, title V, §5403, Dec. 4, 2015, 129 Stat. 1548, as amended by Pub. L. 115–105, §2(a), (b), Jan. 8, 2018, 131 Stat. 2263, provided that:
 
 "(a)
 
-In General.—In the case of a physician-approved veteran operator, the qualified physician of such operator may, subject to the requirements of subsection (b), perform a medical examination and provide a medical certificate for purposes of compliance with the requirements of section 31149 of title 49, United States Code.
+In General.—In the case of a veteran operator approved by a qualified examiner, the qualified examiner of such operator may, subject to the requirements of subsection (b), perform a medical examination and provide a medical certificate for purposes of compliance with the requirements of section 31149 of title 49, United States Code.
 
 "(b)
 
 Certification.—The certification described under subsection (a) shall include—
 
-&emsp;"(1) assurances that the physician performing the medical examination meets the requirements of a qualified physician under this section; and
+&emsp;"(1) assurances that the examiner performing the medical examination meets the requirements of a qualified examiner under this section; and
 
 &emsp;"(2) certification that the physical condition of the operator is adequate to enable such operator to operate a commercial motor vehicle safely.
 
 "(c)
 
-National Registry of Medical Examiners.—The Secretary \[of Transportation\], in consultation with the Secretary of Veterans Affairs, shall develop a process for qualified physicians to perform a medical examination and provide a medical certificate under subsection (a) and include such physicians on the national registry of medical examiners established under section 31149(d) of title 49, United States Code.
+National Registry of Medical Examiners.—The Secretary \[of Transportation\], in consultation with the Secretary of Veterans Affairs, shall develop a process for qualified examiners to perform a medical examination and provide a medical certificate under subsection (a) and include such examiners on the national registry of medical examiners established under section 31149(d) of title 49, United States Code.
 
 "(d)
 
@@ -128,29 +128,33 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;"(1)
 
-Physician-approved veteran operator.—The term 'physician-approved veteran operator' means an operator of a commercial motor vehicle who—
+Qualified examiner.—The term 'qualified examiner' means an individual who—
+
+&emsp;&emsp;"(A) is employed by the Department of Veterans Affairs as an advanced practice nurse, doctor of chiropractic, doctor of medicine, doctor of osteopathy, physician assistant, or other medical professional;
+
+&emsp;&emsp;"(B) is licensed, certified, or registered in a State to perform physical examinations;
+
+&emsp;&emsp;"(C) is familiar with the standards for, and physical requirements of, an operator required to be medically certified under section 31149 of title 49, United States Code; and
+
+&emsp;&emsp;"(D) has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate.
+
+&emsp;"(2)
+
+Veteran.—The term 'veteran' has the meaning given the term in section 101 of title 38, United States Code.
+
+&emsp;"(3)
+
+Veteran operator approved by a qualified examiner.—The term 'veteran operator approved by a qualified examiner' means an operator of a commercial motor vehicle who—
 
 &emsp;&emsp;"(A) is a veteran who is enrolled in the health care system established under section 1705(a) of title 38, United States Code; and
 
 &emsp;&emsp;"(B) is required to have a current valid medical certificate pursuant to section 31149 of title 49, United States Code.
 
-&emsp;"(2)
-
-Qualified physician.—The term 'qualified physician' means a physician who—
-
-&emsp;&emsp;"(A) is employed in the Department of Veterans Affairs;
-
-&emsp;&emsp;"(B) is familiar with the standards for, and physical requirements of, an operator certified pursuant to section 31149 of title 49, United States Code; and
-
-&emsp;&emsp;"(C) has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate.
-
-&emsp;"(3)
-
-Veteran.—The term 'veteran' has the meaning given the term in section 101 of title 38, United States Code.
-
 "(e)
 
 Statutory Construction.—Nothing in this section shall be construed to change any statutory penalty associated with fraud or abuse."
+
+\[Pub. L. 115–105, §2(c), Jan. 8, 2018, 131 Stat. 2264, provided that: "The amendments made by this section \[amending section 5403 of Pub. L. 114–94, set out above\] shall be incorporated into any rulemaking proceeding related to section 5403 of the FAST Act (49 U.S.C. 31149 note; 129 Stat. 1548) that is being conducted as of the date of the enactment of this Act \[Jan. 8, 2018\]."\]
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 

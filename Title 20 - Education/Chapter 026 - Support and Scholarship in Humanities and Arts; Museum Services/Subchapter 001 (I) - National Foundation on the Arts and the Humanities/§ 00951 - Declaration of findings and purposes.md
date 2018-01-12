@@ -50,7 +50,7 @@ Pub. L. 101–512, title III, §318 \[title IV, §403\], Nov. 5, 1990, 104 Stat.
 
 "(a)
 
-General Effective Date.—Except as provided in subsection (b), this Act \[probably means section, see Short Title of 1990 Amendment note below\] and theamendments made by this Act shall take effect on October 1, 1990.
+General Effective Date.—Except as provided in subsection (b), this Act \[probably means section, see Short Title of 1990 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1990.
 
 "(b)
 
@@ -98,7 +98,7 @@ Pub. L. 101–512, title III, §318 \[title IV, §§401, 402\], Nov. 5, 1990, 10
 
 #### "SEC. 401. SENSE OF CONGRESS.
 
-"It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistance under the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
+"It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistanceunder the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
 
 #### "SEC. 402. NOTICE.
 

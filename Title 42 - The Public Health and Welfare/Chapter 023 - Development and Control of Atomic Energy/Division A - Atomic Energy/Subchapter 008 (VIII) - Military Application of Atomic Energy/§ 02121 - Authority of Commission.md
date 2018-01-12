@@ -30,7 +30,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 &emsp;(4) source, byproduct, or special nuclear material for research on, development of, or use in atomic weapons: <i>Provided, however</i>, That the transfer of such material to that nation is necessary to improve its atomic weapon design, development, or fabrication capability: <i>And provided further</i>, That such nation has made substantial progress in the development of atomic weapons,
 
-> whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
+> whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomicweapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
 (Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
@@ -96,7 +96,7 @@ Report.—Not later than October 1 of 1999 and 2000, and not later than February
 
 Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
 
-"(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
+"(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, thePantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
 
 "(3) The Secretary of Energy and the Secretary of Defense shall each designate at least one officer or employee of the Department of Energy and the Department of Defense, respectively, to serve as a liaison officer between the department and the panel.
 
@@ -180,7 +180,7 @@ Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946, wh
 
 Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, provided that:
 
-"(a) Hereafter, funds made available by this Act or any other Act for fiscal year 1993 or for any other fiscal year may be available for conducting a test of a nuclearexplosive device only if the conduct of that test is permitted in accordance with the provisions of this section.
+"(a) Hereafter, funds made available by this Act or any other Act for fiscal year 1993 or for any other fiscal year may be available for conducting a test of a nuclear explosive device only if the conduct of that test is permitted in accordance with the provisions of this section.
 
 "(b) No underground test of a nuclear weapon may be conducted by the United States after September 30, 1992, and before July 1, 1993.
 
@@ -244,7 +244,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 "(f) \[Transferred to section 2530 of Title 50, War and National Defense.\]
 
-"(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred to in subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
+"(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred toin subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
 
 "(h) In this section, the term 'modern safety feature' means any of the following features:
 

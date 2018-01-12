@@ -1,6 +1,6 @@
 ### §2636. Time for commencement of action
 
-(a) A civil action contesting the denial, in whole or in part, of a protest under section 515of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade—
+(a) A civil action contesting the denial, in whole or in part, of a protest under section 515 of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade—
 
 &emsp;(1) within one hundred and eighty days after the date of mailing of notice of denial of a protest under section 515(a) of such Act; or
 
@@ -54,7 +54,7 @@ A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–573, §623(b)(1)(A), amended subsec. (c) generally, striking out ", other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act," and substituting "within the time specified in such section" for "within thirty days after the date of the publication of such determination in the Federal Register".
 
-Subsec. (d). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
+Subsec. (d). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which providedthat civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
 
 Subsecs. (e) to (g). Pub. L. 98–573, §623(b)(1)(B), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 

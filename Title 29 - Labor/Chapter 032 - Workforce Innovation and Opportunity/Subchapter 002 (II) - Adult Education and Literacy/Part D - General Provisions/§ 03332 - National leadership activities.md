@@ -12,7 +12,7 @@ The national leadership activities described in subsection (a) shall include tec
 
 &emsp;(2) upon request by a State, assistance provided to eligible providers in using performance accountability measures based on indicators described in section 3141 of this title, and data systems for the improvement of adult education and literacy activities;
 
-&emsp;(3) carrying out rigorous research and evaluation on effective adult education and literacy activities, as well as estimating the number of adults functioning at the lowest levels of literacy proficiency, which shall be coordinated across relevant Federal agencies, including the Institute of Education Sciences; and
+&emsp;(3) carrying out rigorous research and evaluation on effective adult education and literacy activities, as well as estimating thenumber of adults functioning at the lowest levels of literacy proficiency, which shall be coordinated across relevant Federal agencies, including the Institute of Education Sciences; and
 
 &emsp;(4) carrying out an independent evaluation at least once every 4 years of the programs and activities under this subchapter, taking into consideration the evaluation subjects referred to in section 3224(a)(2) of this title.
 
@@ -68,7 +68,7 @@ The national leadership activities described in subsection (a) may include the f
 
 &emsp;&emsp;&emsp;(iii) the extent to which the provision of support services to eligible individuals enrolled in adult education and literacy activities increase the rate of enrollment in, and successful completion of, such programs; and
 
-&emsp;&emsp;&emsp;(iv) the extent to which different types of providers measurably improve the skillsof eligible individuals in adult education and literacy activities;
+&emsp;&emsp;&emsp;(iv) the extent to which different types of providers measurably improve the skills of eligible individuals in adult education and literacy activities;
 
 &emsp;&emsp;(E) collecting data, such as data regarding the improvement of both local and State data systems, through technical assistance and development of model performance data collection systems;
 

@@ -12,7 +12,7 @@ Services Provided by Certain Nontraditional Contractors.—Notwithstanding secti
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, §878(b)(1), which directed amendment of "Section 2380A of title 10" by striking out the section catchline and inserting "§2380a. Treatment of certain items as commercial items", was executed by redesignating this section as section 2380a and substituting "Treatment of certain items as commercial items" for "Treatment of goods and services provided by nontraditional defense contractors as commercial items" in section catchline, to reflect the probable intent of Congress.
+<b>2016</b>—Pub. L. 114–328, §878(b)(1), which directed amendment of "Section 2380A of title 10" by strikingout the section catchline and inserting "§2380a. Treatment of certain items as commercial items", was executed by redesignating this section as section 2380a and substituting "Treatment of certain items as commercial items" for "Treatment of goods and services provided by nontraditional defense contractors as commercial items" in section catchline, to reflect the probable intent of Congress.
 
 Pub. L. 114–328, §878(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -58,7 +58,7 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255 substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" wherever appearing.
 
-<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse amonggovernment and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse among government and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
 
 <b>1989</b>—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 

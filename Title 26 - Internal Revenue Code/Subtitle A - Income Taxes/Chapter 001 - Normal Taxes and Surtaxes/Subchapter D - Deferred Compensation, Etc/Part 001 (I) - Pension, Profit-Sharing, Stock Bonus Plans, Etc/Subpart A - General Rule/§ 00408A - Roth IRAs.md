@@ -62,7 +62,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
@@ -162,7 +162,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year undersubparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -230,6 +230,10 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
 
+#### (iii) Conversions
+
+&emsp;&emsp;&emsp;Subparagraph (A) shall not apply in the case of a qualified rollover contribution to which subsection (d)(3) applies (including by reason of subparagraph (C) thereof).
+
 #### (7) Due date
 
 &emsp;For purposes of this subsection, the due date for any taxable year is the date prescribed by law (including extensions of time) for filing the taxpayer's return for such taxable year.
@@ -278,13 +282,17 @@ For purposes of this section—
 
 &emsp;(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(W), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (d)(6)(B)(iii). Pub. L. 115–97, §13611(a), added cl. (iii).
 
 <b>2008</b>—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second "an" before "eligible" and "other than a Roth IRA" before "during any taxable year", and inserted as concluding provisions "This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)."
 
@@ -336,7 +344,7 @@ Application of section 72.—For purposes of applying section 72 in the case of 
 
 &emsp;"(ii) the taxpayer is a married individual filing a separate return.
 
-> This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualifiedrollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)." See Effective Date of 2006 Amendment note below.
+> This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)." See Effective Date of 2006 Amendment note below.
 
 Pub. L. 109–280, §824(b)(1), substituted "eligible retirement plan" for "IRA" in heading and "an eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan" in introductory provisions. See Effective Date of 2006 Amendment note below.
 
@@ -412,7 +420,7 @@ Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
 Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: "in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made."
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading andtext of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -431,6 +439,12 @@ Subsec. (d)(6). Pub. L. 105–206, §6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(W) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13611(b), Dec. 22, 2017, 131 Stat. 2165, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2008 Amendment
 
@@ -484,7 +498,7 @@ Pub. L. 110–458, title I, §125, Dec. 23, 2008, 122 Stat. 5115, provided that:
 
 "(a)
 
-General Rule.—If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Dec. 23, 2008\]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
+General Rule.—If a qualified airline employee receives any airline payment amount and transfers anyportion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Dec. 23, 2008\]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
 
 "(b)
 

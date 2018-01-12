@@ -94,7 +94,7 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–433, title II, §202(a), Oct. 16, 1990, 104 Stat. 984, provided that: "The amendment made by section201 \[amending this section\] shall not apply with respect to waivers that occur before the date of enactment of this Act \[Oct. 16, 1990\]."
+Pub. L. 101–433, title II, §202(a), Oct. 16, 1990, 104 Stat. 984, provided that: "The amendment made by section 201 \[amending this section\] shall not apply with respect to waivers that occur before the date of enactment of this Act \[Oct. 16, 1990\]."
 
 #### Effective Date of 1978 Amendment
 

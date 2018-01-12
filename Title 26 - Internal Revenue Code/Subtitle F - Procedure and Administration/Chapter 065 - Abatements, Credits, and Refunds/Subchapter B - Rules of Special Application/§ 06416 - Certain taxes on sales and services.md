@@ -60,7 +60,7 @@
 
 #### (C) Timing of claims
 
-&emsp;&emsp;The procedure and timing of any claim under subparagraph (A) or (B) shall be the same as for claims under section 6427(i)(4), except that the rules of section 6427(i)(3)(B) regarding electronic claims shall not applyunless the ultimate vendor or credit card issuer has certified to the Secretary for the most recent quarter of the taxable year that all ultimate purchasers of the vendor or credit card issuer are certified and entitled to a refund under subparagraph (C) or (D) of subsection (b)(2).
+&emsp;&emsp;The procedure and timing of any claim under subparagraph (A) or (B) shall be the same as for claims under section 6427(i)(4), except that the rules of section 6427(i)(3)(B) regarding electronic claims shall not apply unless the ultimate vendor or credit card issuer has certified to the Secretary for the most recent quarter of the taxable year that all ultimate purchasers of the vendor or credit card issuer are certified and entitled to a refund under subparagraph (C) or (D) of subsection (b)(2).
 
 #### (b) Special cases in which tax payments considered overpayments
 
@@ -70,7 +70,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited tothe purchaser shall be deemed to be an overpayment.
 
 #### (B) Further manufacture
 
@@ -126,7 +126,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 &emsp;&emsp;&emsp;(ii) by such person exported, sold to a State or local government for the exclusive use of a State or local government, sold to a nonprofit educational organization for its exclusive use, or used or sold for use as supplies for vessels or aircraft, or
 
-&emsp;&emsp;&emsp;(iii) sold to a qualified blood collector organization for its exclusive use in connection with a vehicle the organizationcertifies will be primarily used in the collection, storage, or transportation of blood.
+&emsp;&emsp;&emsp;(iii) sold to a qualified blood collector organization for its exclusive use in connection with a vehicle the organization certifies will be primarily used in the collection, storage, or transportation of blood.
 
 #### (5) Return of certain installment accounts
 
@@ -266,7 +266,7 @@ Subsec. (b)(2)(E). Pub. L. 98–369, §735(c)(13)(B), added subpar. (E).
 
 Pub. L. 98–369, §734(b)(2)(B)(i), struck out former subpar. (E) which related to tires or inner tubes resold for use or tread rubber on recapped or retreaded tires resold for use.
 
-Subsec. (b)(2)(F). Pub. L. 98–369, §735(c)(13)(B), added subsec. (F) and struck out former subsec. (F) which related to any article taxable under section 4061(b) (other than spark plugs and storage batteries), used or sold foruse as repair or replacement parts or accessories for farm equipment (other than equipment taxable under section 4061(a).
+Subsec. (b)(2)(F). Pub. L. 98–369, §735(c)(13)(B), added subsec. (F) and struck out former subsec. (F) which related to any article taxable under section 4061(b) (other than spark plugs and storage batteries), used or sold for use as repair or replacement parts or accessories for farm equipment (other than equipment taxable under section 4061(a).
 
 Subsec. (b)(2)(G) to (M). Pub. L. 98–369, §735(c)(13)(B), struck out subpars. (G) through (M) which related to tread rubber, gasoline, articles used with automobile buses, boxes or containers, light-duty trucks, tires and inner tubes, recapped tires, and tires sold for use in connection with qualified buses.
 
@@ -278,7 +278,7 @@ Subsec. (b)(3)(B). Pub. L. 98–369, §735(c)(13)(C), substituted "gasoline taxa
 
 Subsec. (b)(3)(C). Pub. L. 98–369, §734(b)(2)(B)(ii), struck out subpar. (C) which related to tires or inner tubes taxable under section 4071(a) of this title.
 
-Subsec. (b)(3)(D) to (F). Pub. L. 98–369, §735(c)(13)(C), struck out subpar. (D) which related to tread rubber in respect of which tax was paid under section 4071(a)(4) used in recapping or retreading of a tire, subpar. (E) which related to bicycle tires or inner tubes used for such a tire, and subpar. (F) which dealt with gasoline taxable under section 4081. See subpar. (B) for similar provisions.
+Subsec. (b)(3)(D) to (F). Pub. L. 98–369, §735(c)(13)(C), struck out subpar. (D) which related to tread rubber in respect of which tax was paid under section 4071(a)(4)used in recapping or retreading of a tire, subpar. (E) which related to bicycle tires or inner tubes used for such a tire, and subpar. (F) which dealt with gasoline taxable under section 4081. See subpar. (B) for similar provisions.
 
 Subsec. (b)(4)(A). Pub. L. 98–369, §734(b)(2)(A), amended par. (4) generally. Prior to amendment par. (4) provided that if (A) a tire or inner tube taxable under section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading, is sold by the manufacturer, producer, or importer thereof on or in connection with, or with the sale of, any other article manufactured or produced by him; and (B) such other article is (i) an automobile bus chassis or an automobile bus body, or (ii) by any person exported, sold to a State or local government for the exclusive use of a State or local government, sold to a nonprofit educational organization for its exclusive use, or used or sold for use as supplies for vessels or aircraft, any tax imposed by chapter 32 in respect of such tire or inner tube which has been paid by the manufacturer, producer, or importer thereof shall be deemed to be an overpayment by him.
 
@@ -336,7 +336,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Subsec. (b)(1). Pub. L. 94–455, §1904(b)(2), substituted "section 4216(e)(2) and (3)" for "section 4216(f)(2) and (3)".
 
-Subsec. (b)(2)(E). Pub. L. 94–455, §1906(a)(24)(B)(i), redesignated subpar. (F) as (E). A prior subpar. (E) hadbeen repealed by Pub. L. 91–614, title III, §302(b), Dec. 31, 1970, 84 Stat. 1845.
+Subsec. (b)(2)(E). Pub. L. 94–455, §1906(a)(24)(B)(i), redesignated subpar. (F) as (E). A prior subpar. (E) had been repealed by Pub. L. 91–614, title III, §302(b), Dec. 31, 1970, 84 Stat. 1845.
 
 Subsec. (b)(2)(F). Pub. L. 94–455, §1906(a)(24)(B)(i), redesignated subpar. (K) as (F). Former subpar. (F) redesignated (E).
 
@@ -598,7 +598,7 @@ Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: "T
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or after Oct. 1, 1961, see section 208 of Pub. L. 87–61, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or after Oct. 1, 1961, see section208 of Pub. L. 87–61, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1960 Amendments
 

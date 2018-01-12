@@ -122,7 +122,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
-&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
+&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the listof fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
 &emsp;(v) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this subparagraph.
 
@@ -317,6 +317,10 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 #### Termination of Advisory Committees
 

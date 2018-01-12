@@ -16,13 +16,13 @@ Congress makes the following findings:
 
 &emsp;(B) identify specific requirements for the range of linguistic skills necessary for the intelligence community, including proficiency in scientific and technical vocabularies of critical foreign languages; and
 
-&emsp;(C) develop a comprehensive plan for the Office to meet such requirements through theeducation, recruitment, and training of linguists.
+&emsp;(C) develop a comprehensive plan for the Office to meet such requirements through the education, recruitment, and training of linguists.
 
 (2) In carrying out activities under paragraph (1), the Director shall take into account education grant programs of the Department of Defense and the Department of Education that are in existence as of December 17, 2004.
 
 #### (c) Professional intelligence training
 
-The Director of National Intelligence shall require the head of each element and component within the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
+The Director of National Intelligence shall require the head of each element and componentwithin the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
 
 &emsp;(1) strengthen the focus of such curriculum on the integration of intelligence collection and analysis throughout the Office; and
 

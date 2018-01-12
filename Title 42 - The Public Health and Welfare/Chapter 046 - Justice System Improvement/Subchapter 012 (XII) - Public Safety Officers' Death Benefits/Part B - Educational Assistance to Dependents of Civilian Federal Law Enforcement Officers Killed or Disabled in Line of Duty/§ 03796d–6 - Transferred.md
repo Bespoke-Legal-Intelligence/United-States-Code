@@ -1,0 +1,6 @@
+### §3796d–6. Transferred
+
+#### Codification
+
+Section 3796d–6 was editorially reclassified as section 10307 of Title 34, Crime Control and Law Enforcement.
+

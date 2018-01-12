@@ -78,7 +78,7 @@ Epidemiological Study of Exposure to Perchlorate.—The Secretary of Defense sha
 
 &emsp;"(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and
 
-&emsp;"(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
+&emsp;"(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in thedrinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
 
 "(b)
 

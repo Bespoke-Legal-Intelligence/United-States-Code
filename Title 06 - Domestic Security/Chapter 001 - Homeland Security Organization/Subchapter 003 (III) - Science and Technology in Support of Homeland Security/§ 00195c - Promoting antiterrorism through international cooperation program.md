@@ -100,7 +100,7 @@ If the Science and Technology Homeland Security International Cooperative Progra
 
 Not later than one year after August 3, 2007, and every 5 years thereafter, the Under Secretary, acting through the Director, shall submit to Congress a report containing—
 
-&emsp;(1) a brief description of each grant, cooperative agreement, or contract made or enteredinto under subsection (b)(3)(C), including the participants, goals, and amount and sources of funding;
+&emsp;(1) a brief description of each grant, cooperative agreement, or contract made or entered into under subsection (b)(3)(C), including the participants, goals, and amount and sources of funding;
 
 &emsp;(2) a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and <sup>1</sup>
 

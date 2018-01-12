@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materiallyaffects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -52,7 +52,7 @@
 
 (d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
 
-(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, ormodification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
+(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, or modification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
 
 (C) Nothing in this paragraph shall be construed as permitting the use of appropriated funds for making any payment prohibited in or pursuant to any other provision of law.
 
@@ -124,7 +124,7 @@
 
 &emsp;(9) The term "reasonable compensation" means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term "regularly employed", with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or acommitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term "regularly employed", with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 &emsp;(11) The terms "Indian tribe" and "tribal organization" have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
 

@@ -44,7 +44,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 Rule of construction.—Notwithstanding paragraph (2), the Secretary of Transportation may appoint an individual who is the best qualified candidate, even if such individual does not fully meet the criteria described in paragraph (2).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L.112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. C, title XXXV, §3506(a), Dec. 23, 2016, 130 Stat. 2777.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. C, title XXXV, §3506(a), Dec. 23, 2016, 130 Stat. 2777.)
 
 Historical and Revision Notes
 

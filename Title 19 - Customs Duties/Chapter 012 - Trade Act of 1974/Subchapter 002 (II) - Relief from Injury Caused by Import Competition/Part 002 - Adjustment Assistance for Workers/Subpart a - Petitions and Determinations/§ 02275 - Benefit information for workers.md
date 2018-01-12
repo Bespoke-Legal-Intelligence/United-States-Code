@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall provide written notice through the mail of the benefits available under this part to each worker whom the Secretary has reason to believe is covered by a certification made under this subpart—
 
-&emsp;(A) at the time such certification is made, if the worker was partially or totally separatedfrom the adversely affected employment before such certification, or
+&emsp;(A) at the time such certification is made, if the worker was partially or totally separated from the adversely affected employment before such certification, or
 
 &emsp;(B) at the time of the total or partial separation of the worker from the adversely affected employment, if subparagraph (A) does not apply.
 
@@ -46,7 +46,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 

@@ -24,7 +24,7 @@
 
 (3) The Secretary may waive a citizenship requirement under this section, other than a requirement that applies to the master of a documented vessel, with respect to—
 
-&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 grosstons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that operates from a foreign port;
+&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that operates from a foreign port;
 
 &emsp;(B) a mobile offshore drilling unit or other vessel engaged in support of exploration, exploitation, or production of offshore mineral energy resources operating beyond the water above the outer Continental Shelf (as that term is defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)); and
 
@@ -100,7 +100,7 @@ Qualifications.—An unlicensed seaman described in paragraph (1)(C) of this sub
 
 &emsp;&emsp;&emsp;(i) shall have been employed, for a period of not less than 1 year, on a passenger vessel under the same common ownership or control as the vessel described in paragraph (1) of this subsection, as certified by the owner or managing operator of such vessel to the Secretary;
 
-&emsp;&emsp;&emsp;(ii) shall have no record of material disciplinary actions during such employment,as verified in writing by the owner or managing operator of such vessel to the Secretary;
+&emsp;&emsp;&emsp;(ii) shall have no record of material disciplinary actions during such employment, as verified in writing by the owner or managing operator of such vessel to the Secretary;
 
 &emsp;&emsp;&emsp;(iii) shall have successfully completed a United States Government security check of the relevant domestic and international databases, as appropriate, or any other national security-related information or database;
 
@@ -256,7 +256,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Distant Water Tuna Fleet
 
-Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct.15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060; Pub. L. 114–120, title VI, §601(a), Feb. 8, 2016, 130 Stat. 79, provided that:
+Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060; Pub. L. 114–120, title VI, §601(a), Feb. 8, 2016, 130 Stat. 79, provided that:
 
 "(a)
 

@@ -6,23 +6,25 @@
 
 (c) A member of the program who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by this section.
 
-(d) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member of the program who is dropped from the program from an active duty obligation imposed by this section, but such relief shall not relieve him from any military obligation imposed by any other law.
+(d) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member of the programwho is dropped from the program from an active duty obligation imposed by this section, but such relief shall not relieve him from any military obligation imposed by any other law.
 
-(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determinedby the Secretary of the military department concerned:
+(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determined by the Secretary of the military department concerned:
 
 &emsp;(A) A service obligation in another armed force for a period of time not less than the member's remaining active duty service obligation.
 
 &emsp;(B) A service obligation in a component of the Selected Reserve for a period not less than twice as long as the member's remaining active duty service obligation.
 
-&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
+&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
 
 (3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 109–163, div. A, title VI, §687(c)(5), Jan. 6, 2006, 119 Stat. 3334.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 109–163, div. A, title VI, §687(c)(5), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 115–91, div. A, title VI, §618(a)(1)(E), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(1)(C). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
 <b>2006</b>—Subsec. (e)(1)(C). Pub. L. 109–163 substituted "pursuant to the repayment provisions of section 303a(e) of title 37." for "equal to the percentage of the member's total active duty service obligation being relieved, plus interest."
 

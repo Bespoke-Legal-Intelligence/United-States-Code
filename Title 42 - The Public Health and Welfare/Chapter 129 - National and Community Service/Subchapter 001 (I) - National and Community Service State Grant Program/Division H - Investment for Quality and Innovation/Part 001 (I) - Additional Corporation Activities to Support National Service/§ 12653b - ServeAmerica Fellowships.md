@@ -140,7 +140,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) be responsible for certifying whether each fellow serving with the organization successfully completed the ServeAmerica Fellowship, and record and certify in a manner specified by the Corporation the number of hours served by a fellow for purposes of determining the fellow's eligibility for benefits; and
 
-&emsp;&emsp;&emsp;(iv) provide timely access to records relating to the ServeAmerica Fellowship to the State Commission, the Corporation, and the Inspector General of the Corporation.
+&emsp;&emsp;&emsp;(iv) provide timely access to records relating to the ServeAmerica Fellowship tothe State Commission, the Corporation, and the Inspector General of the Corporation.
 
 #### (2) Registration
 
@@ -224,7 +224,7 @@ In this section:
 
 #### (f) Compliance with ineligible service categories
 
-Service under a ServeAmerica Fellowship shall comply with section 12584(a) of this title. For purposes of applying that section to this subsection, a reference to assistance shall be considered to be a reference to assistance provided under this section.
+Service under a ServeAmerica Fellowship shall comply with section 12584(a) of this title. For purposes of applying that section to thissubsection, a reference to assistance shall be considered to be a reference to assistance provided under this section.
 
 #### (g) Reports
 

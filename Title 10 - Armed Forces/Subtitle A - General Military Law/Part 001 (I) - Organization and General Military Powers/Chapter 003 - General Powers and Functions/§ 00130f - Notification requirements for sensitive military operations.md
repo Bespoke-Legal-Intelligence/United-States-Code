@@ -6,9 +6,9 @@ In General.—The Secretary of Defense shall promptly submit to the congressiona
 
 (b)
 
-Procedures.—(1) The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes <sup>1</sup>
+Procedures.—(1) The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes.
 
-(2) The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
+(2) The congressional defense committees shall ensure that committee procedures designed toprotect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
 
 (3) In the event of an unauthorized disclosure of a sensitive military operation covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the sensitive military operation concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification shall be provided by not later than 48 hours after the provision of the verbal notification.
 
@@ -32,7 +32,7 @@ Sensitive Military Operation Defined.—The term "sensitive military operation" 
 
 Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392.)
+(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ The National Security Act of 1947, referred to in subsecs. (c) and (e), is act J
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(1). Pub. L. 115–91 inserted period at end.
 
 <b>2016</b>—Pub. L. 114–328, §1036(f)(1), amended section catchline generally, substituting "Notification requirements for sensitive military operations" for "Congressional notification of sensitive military operations".
 
@@ -73,6 +75,4 @@ Pub. L. 113–66, div. A, title X, §1041(b), Dec. 26, 2013, 127 Stat. 857, prov
 #### Deadline for Submittal of Procedures
 
 Pub. L. 113–66, div. A, title X, §1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: "The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

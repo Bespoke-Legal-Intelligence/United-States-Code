@@ -20,7 +20,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (3) Limitation on transfers to Vaccine Injury Compensation Trust Fund
 
-&emsp;No amount may be appropriated to the Vaccine Injury Compensation Trust Fund on andafter the date of any expenditure from the Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;No amount may be appropriated to the Vaccine Injury Compensation Trust Fund on and after the date of any expenditure from the Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
@@ -98,7 +98,7 @@ Pub. L. 105–277, §1504(a)(1), which directed the general amendment of par. (1
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 effective as if included in the provisions of the Omnibus Consolidated andEmergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, to which such amendment relates, see section 523(b)(3) of Pub. L. 106–170, set out as a note under section 4132 of this title.
+Amendment by Pub. L. 106–170 effective as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, to which such amendment relates, see section 523(b)(3) of Pub. L. 106–170, set out as a note under section 4132 of this title.
 
 #### Effective Date of 1998 Amendment
 

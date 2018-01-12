@@ -12,7 +12,7 @@ No tax shall be imposed by this subchapter—
 
 #### (3) State-conducted lotteries, etc.
 
-&emsp;On any wager placed in a sweepstakes, wagering pool, or lottery which is conducted by an agency of a State acting under authority of State law, but only if such wager is placed with the State agency conducting such sweepstakes, wagering pool, or lottery, or with its authorized employees or agents.
+&emsp;On any wager placed in a sweepstakes, wagering pool, or lottery which is conducted by an agency of a State acting under authority ofState law, but only if such wager is placed with the State agency conducting such sweepstakes, wagering pool, or lottery, or with its authorized employees or agents.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 525; Pub. L. 85–859, title I, §152(b), Sept. 2, 1958, 72 Stat. 1305; Pub. L. 89–44, title IV, §405(a), title VIII, §813(a), June 21, 1965, 79 Stat. 149, 170; Pub. L. 94–455, title XII, §1208(a), Oct. 4, 1976, 90 Stat. 1709; Pub. L. 95–600, title V, §521(c)(1), Nov. 6, 1978, 92 Stat. 2884.)
 
@@ -22,7 +22,7 @@ Section 4462, referred to in par. (2), was repealed by Pub. L. 95–600, title V
 
 #### Amendments
 
-<b>1978</b>—Par. (2). Pub. L. 95–600 substituted "(as defined in section 4462 as in effect for years beginning beforeJuly 1, 1980)" for "with respect to which an occupational tax is imposed by section 4461" and "(as so in effect), or" for "if an occupational tax is imposed with respect to such device by section 4461, or".
+<b>1978</b>—Par. (2). Pub. L. 95–600 substituted "(as defined in section 4462 as in effect for years beginning before July 1, 1980)" for "with respect to which an occupational tax is imposed by section 4461" and "(as so in effect), or" for "if an occupational tax is imposed with respect to such device by section 4461, or".
 
 <b>1976</b>—Par. (3). Pub. L. 94–455, among other changes, substituted in heading "State-conducted lotteries, etc." for "State-conducted sweepstakes.", and struck out provision that no tax be imposed on any wager placed in a sweepstakes, wagering pool, or lottery in which the ultimate winners are determined by the results of a horse race.
 

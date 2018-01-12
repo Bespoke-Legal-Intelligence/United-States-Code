@@ -32,7 +32,7 @@ In this part:
 
 #### (b) Rule
 
-In providing services under this part, for family caregivers who provide care for individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
+In providing services under this part, for family caregivers who provide care for individualswith Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
 
 (Pub. L. 89–73, title III, §372, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §320, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(k)(2), (m), Apr. 19, 2016, 130 Stat. 340, 341.)
 

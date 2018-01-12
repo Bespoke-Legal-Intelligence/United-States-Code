@@ -2,7 +2,7 @@
 
 #### (a) Application of section
 
-Except as provided in subsection (b) of this section, a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
+Except as provided in subsection (b), a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
 
 #### (b) Procurement subject to other law
 
@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -38,13 +38,13 @@ All Federal agencies that have the responsibility for drafting or reviewing spec
 
 &emsp;&emsp;(B) any requirement that items be manufactured from virgin materials; and
 
-&emsp;(2) within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
+&emsp;(2) within one year after the date of publication of applicable guidelines under subsection (e), or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
 
 #### (e) Guidelines
 
 The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
-&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
+&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
 
 &emsp;(2) set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
 
@@ -64,7 +64,7 @@ A procuring agency shall, to the maximum extent practicable, manage or arrange f
 
 #### (g) Executive Office
 
-The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
+The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d).
 
 #### (h) "Recovered materials" defined
 
@@ -90,7 +90,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 #### (i) Procurement program
 
-(1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+(1) Within one year after the date of publication of applicable guidelines under subsection (e), each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
 
 (2) Each affirmative procurement program required under this subsection shall, at a minimum, contain—
 
@@ -102,13 +102,13 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 &emsp;(D) annual review and monitoring of the effectiveness of an agency's affirmative procurement program.
 
-> In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1) of this section.
+> In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
 
 (3) In developing the preference program, the following options shall be considered for adoption:
 
-&emsp;(A) Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C) of this section, a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1) of this section). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
+&emsp;(A) Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C), a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1)). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
 
-&emsp;(B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1) of this section) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C) of this section.
+&emsp;(B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1)) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C).
 
 > Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
@@ -116,7 +116,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 #### Codification
 
-Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
+Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intentof Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
 
@@ -128,15 +128,15 @@ Subsec. (j). Pub. L. 103–355, §1554(1), struck out subsec. (j). See Codificat
 
 <b>1988</b>—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards".
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)".
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable)".
 
 Subsec. (d)(1). Pub. L. 98–616, §501(e), substituted "eighteen months after November 8, 1984" for "five years after October 21, 1976".
 
 Subsec. (e). Pub. L. 98–616, §501(b)(2), substituted "for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985" for "for at least three product categories, including paper, by May 1, 1981, and for two additional product categories, including construction materials, by September 30, 1982." in provisions following par. (2).
 
-Subsec. (e)(1). Pub. L. 98–616, §501(b)(1), inserted ", and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section".
+Subsec. (e)(1). Pub. L. 98–616, §501(b)(1), inserted ", and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1)".
 
-Subsec. (g). Pub. L. 98–616, §501(d), substituted "the requirements of" for "the policy expressed in" and inserted ", and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section".
+Subsec. (g). Pub. L. 98–616, §501(d), substituted "the requirements of" for "the policy expressed in" and inserted ", and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d)".
 
 Subsecs. (h), (i). Pub. L. 98–616, §501(a), added subsecs. (h) and (i).
 
@@ -150,7 +150,7 @@ Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for 
 
 Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 
-Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) andsubpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
+Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted "After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section," before "contracting".
 

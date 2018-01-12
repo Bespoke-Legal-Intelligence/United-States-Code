@@ -24,14 +24,15 @@
 | 1074<i>l.</i> | Notification to Congress of hospitalization of combat wounded members. |
 | [1074m.](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md) | Mental health assessments for members of the armed forces deployed in support of a contingency operation. |
 | [1074n.](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md) | Annual mental health assessments for members of the armed forces. |
+| 1074<i>o.</i> | Provision of hyperbaric oxygen therapy for certain members. |
 | [1075\.](%C2%A7%2001075%20-%20TRICARE%20Select.md) | TRICARE Select. |
 | [1075a.](%C2%A7%2001075a%20-%20TRICARE%20Prime%20cost%20sharing.md) | TRICARE Prime: cost sharing. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
 | \[1076b. | Repealed.\] |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
-| [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Standard coverage for members of the Selected Reserve. |
-| [1076e.](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md) | TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60. |
+| [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Reserve%20Select%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Reserve Select coverage for members of the Selected Reserve. |
+| [1076e.](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Retired%20Reserve%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%E2%80%A6.md) | TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60. |
 | [1076f.](%C2%A7%2001076f%20-%20TRICARE%20program%20extension%20of%20coverage%20for%20certain%20members%20of%20the%20National%20Guard%20and%20dependents%20during%20certain%20disaster%20response%20duty.md) | TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1077a.](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md) | Access to military medical treatment facilities and other facilities <sup>1</sup> |
@@ -44,7 +45,7 @@
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1078b.](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md) | Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities. |
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
-| [1079a.](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | CHAMPUS: treatment of refunds and other amounts collected. |
+| [1079a.](%C2%A7%2001079a%20-%20TRICARE%20program%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | TRICARE program: treatment of refunds and other amounts collected. |
 | [1079b.](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md) | Procedures for charging fees for care provided to civilians; retention and use of fees collected. |
 | [1079c.](%C2%A7%2001079c%20-%20Provisional%20coverage%20for%20emerging%20services%20and%20supplies.md) | Provisional coverage for emerging services and supplies. |
 | [1080\.](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md) | Contracts for medical care for spouses and children: election of facilities. |
@@ -73,7 +74,7 @@
 | [1095c.](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md) | TRICARE program: facilitation of processing of claims. |
 | [1095d.](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md) | TRICARE program: waiver of certain deductibles. |
 | [1095e.](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md) | TRICARE program: beneficiary counseling and assistance coordinators. |
-| [1095f.](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20for%20specialty%20health%20care.md) | TRICARE program: referrals for specialty health care. |
+| [1095f.](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20and%20preauthorizations%20under%20TRICARE%20Prime.md) | TRICARE program: referrals and preauthorizations under TRICARE Prime. |
 | [1095g.](%C2%A7%2001095g%20-%20TRICARE%20program%20waiver%20of%20recoupment%20of%20erroneous%20payments%20caused%20by%20administrative%20error.md) | TRICARE program: waiver of recoupment of erroneous payments caused by administrative error. |
 | [1096\.](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md) | Military-civilian health services partnership program. |
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
@@ -100,21 +101,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 114–328, div. A, title VII, §701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:</i>
-
-<i>(1) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";</i>
-
-<i>(2) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";</i>
-
-<i>(3) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and</i>
-
-<i>(4) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".</i>
-
-<i>See 2016 Amendment note below.</i>
-
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title VII, §703(a)(2), Dec. 12, 2017, 131 Stat. 1435, added item 1074<i>o.</i>
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VII, §§702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted "Recurring reports and publication of certain data" for "Recurring reports" in item 1073b.
 
@@ -227,14 +216,15 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01074l - Notification to Congress of hospitalization of combat wounded members](%C2%A7%2001074l%20-%20Notification%20to%20Congress%20of%20hospitalization%20of%20combat%20wounded%20members.md)
 - [&sect; 01074m - Mental health assessments for members of the armed forces deployed in support of a contingency operation](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md)
 - [&sect; 01074n - Annual mental health assessments for members of the armed forces](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md)
+- [&sect; 01074o - Provision of hyperbaric oxygen therapy for certain members](%C2%A7%2001074o%20-%20Provision%20of%20hyperbaric%20oxygen%20therapy%20for%20certain%20members.md)
 - [&sect; 01075 - TRICARE Select](%C2%A7%2001075%20-%20TRICARE%20Select.md)
 - [&sect; 01075a - TRICARE Prime cost sharing](%C2%A7%2001075a%20-%20TRICARE%20Prime%20cost%20sharing.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
 - [&sect; 01076b - Repealed. Pub. L. 109&#8211;364, div. A, title VII, &sect;706(d), Oct. 17, 2006, 120 Stat. 2282](%C2%A7%2001076b%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7706%28d%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202282.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
-- [&sect; 01076d - TRICARE program TRICARE Standard coverage for members of the Selected Reserve](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
-- [&sect; 01076e - TRICARE program TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but&#8230;](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md)
+- [&sect; 01076d - TRICARE program TRICARE Reserve Select coverage for members of the Selected Reserve](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Reserve%20Select%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
+- [&sect; 01076e - TRICARE program TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular&#8230;](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Retired%20Reserve%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%E2%80%A6.md)
 - [&sect; 01076f - TRICARE program extension of coverage for certain members of the National Guard and dependents during certain disaster response duty](%C2%A7%2001076f%20-%20TRICARE%20program%20extension%20of%20coverage%20for%20certain%20members%20of%20the%20National%20Guard%20and%20dependents%20during%20certain%20disaster%20response%20duty.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01077a - Access to military medical treatment facilities and other facilities](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md)
@@ -242,7 +232,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
 - [&sect; 01078b - Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md)
 - [&sect; 01079 - Contracts for medical care for spouses and children plans](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md)
-- [&sect; 01079a - CHAMPUS treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
+- [&sect; 01079a - TRICARE program treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20TRICARE%20program%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
 - [&sect; 01079b - Procedures for charging fees for care provided to civilians; retention and use of fees collected](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md)
 - [&sect; 01079c - Provisional coverage for emerging services and supplies](%C2%A7%2001079c%20-%20Provisional%20coverage%20for%20emerging%20services%20and%20supplies.md)
 - [&sect; 01080 - Contracts for medical care for spouses and children election of facilities](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md)
@@ -271,7 +261,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01095c - TRICARE program facilitation of processing of claims](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md)
 - [&sect; 01095d - TRICARE program waiver of certain deductibles](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md)
 - [&sect; 01095e - TRICARE program beneficiary counseling and assistance coordinators](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md)
-- [&sect; 01095f - TRICARE program referrals for specialty health care](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20for%20specialty%20health%20care.md)
+- [&sect; 01095f - TRICARE program referrals and preauthorizations under TRICARE Prime](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20and%20preauthorizations%20under%20TRICARE%20Prime.md)
 - [&sect; 01095g - TRICARE program waiver of recoupment of erroneous payments caused by administrative error](%C2%A7%2001095g%20-%20TRICARE%20program%20waiver%20of%20recoupment%20of%20erroneous%20payments%20caused%20by%20administrative%20error.md)
 - [&sect; 01096 - Military-civilian health services partnership program](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md)
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)

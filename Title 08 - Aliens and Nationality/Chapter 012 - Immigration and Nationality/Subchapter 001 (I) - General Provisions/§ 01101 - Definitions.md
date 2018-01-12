@@ -1874,7 +1874,11 @@ Act June 27, 1952, ch. 477, title IV, §404, 66 Stat. 280, as amended by Pub. L.
 
 #### Availability of Funds
 
-Pub. L. 114–113, div. F, title V, §573, Dec. 18, 2015, 129 Stat. 2526, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11,2015, which had been substituted as applied by Pub. L. 114–53, div. B, §132, Sept. 30, 2015, 129 Stat. 509\]."
+Pub. L. 115–31, div. F, title V, §540, May 5, 2017, 131 Stat. 432, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 114–113, div. F, title V, §573, Dec. 18, 2015, 129 Stat. 2526.
 
 #### Annual Report on Immigration Applications Made by Victims of Abuse
 
@@ -1916,7 +1920,7 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -1962,7 +1966,7 @@ Principal aliens.—An alien is described in this subparagraph if the alien—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)(aa) by, or on behalf of, the United States Government, in the case of an alien submitting an application for Chief of Mission approval pursuant to subparagraph (D) before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 \[Dec. 23, 2016\]; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) by, or on behalf of, the United States Government, in the case of an alien submittingan application for Chief of Mission approval pursuant to subparagraph (D) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, which employment required the alien—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) by, or on behalf of, the United States Government, in the case of an alien submitting an application for Chief of Mission approval pursuant to subparagraph (D) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, which employment required the alien—
 
 &emsp;&emsp;&emsp;"(AA) to serve as an interpreter or translator for personnel of the Department of State or the United States Agency for International Development in Afghanistan, particularly while traveling away from United States embassies or consulates with such personnel;
 
@@ -2068,7 +2072,7 @@ Fiscal years 2009 through 2013.—If the numerical limitation specified in subpa
 
 &emsp;&emsp;&emsp;"(ii)
 
-Fiscal year 2014.—If the numerical limitation determined under clause (i) is not reached infiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
+Fiscal year 2014.—If the numerical limitation determined under clause (i) is not reached in fiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the numerical limitation determined under clause (i) for fiscal year 2013; and
 
@@ -2098,7 +2102,7 @@ Construction.—Clause (i) shall not be construed to affect the authority, numer
 
 &emsp;&emsp;"(F)
 
-Fiscal years 2015, 2016, and 2017.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 8,500. For purposes of status provided under this subparagraph—
+Fiscal years 2015, 2016, and 2017.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 14,500. For purposes of status provided under this subparagraph—
 
 &emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2020\[;\]
 
@@ -2158,7 +2162,7 @@ Report on implementation and authority to carry out administrative measures.—
 
 &emsp;&emsp;"(A)
 
-Requirement for report.—Not later than one year after the date of the enactment of this Act \[Mar. 11, 2009\], the Secretary of Homeland Security and the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report on the implementation of this subsection.
+Requirement for report.—Not later than one year after the date of the enactment of this Act\[Mar. 11, 2009\], the Secretary of Homeland Security and the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report on the implementation of this subsection.
 
 &emsp;&emsp;"(B)
 
@@ -2262,7 +2266,7 @@ Report.—Not later than December 31, 2016, and annually thereafter through Janu
 
 &emsp;"(15)
 
-Reports informing the conclusion of the afghan special immigrant visa program.—Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee onArmed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
+Reports informing the conclusion of the afghan special immigrant visa program.—Not laterthan June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
 
 &emsp;&emsp;"(A) a description of the United States force presence in Afghanistan during the previous 6 months;
 
@@ -2356,7 +2360,7 @@ Principal aliens.—An alien is described in this subsection if the alien—
 
 &emsp;"(2)
 
-Spouses and children.—An alien is described in this subsection if the alien is the spouse or child of a principal alien described in paragraph (1), and isfollowing or accompanying to join the principal alien.
+Spouses and children.—An alien is described in this subsection if the alien is the spouse or child of a principal alien described in paragraph (1), and is following or accompanying to join the principal alien.
 
 "(c)
 
@@ -2622,7 +2626,7 @@ Particular considerations.—In particular, the Commission shall consider the fo
 
 &emsp;"(2)
 
-Diversity program.—The Commission shall analyze the information maintained under section 203(c)(3) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(3)\] and shall report to Congress in its report under subsection (b)(2) on—
+Diversity program.—The Commission shall analyze the information maintained under section203(c)(3) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(3)\] and shall report to Congress in its report under subsection (b)(2) on—
 
 &emsp;&emsp;"(A) the characteristics of individuals admitted under section 203(c) of the Immigration and Nationality Act, and
 
@@ -2704,11 +2708,11 @@ Pub. L. 101–649, title II, §204(b), Nov. 29, 1990, 104 Stat. 5019, provided t
 
 &emsp;"(1) The largest foreign state in each region (as defined in section 203(c)(1) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(1)\]) which (A) has 1 or more dependent areas (as determined for purposes of section 202 of such Act \[8 U.S.C. 1152\]) and (B) does not have a treaty of commerce and navigation with the United States.
 
-&emsp;"(2) The foreign state which (A) was identified as an adversely affected foreign state for purposes of section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out as a note under section 1153 of this title\] and (B) does not have a treaty of commerce and navigation with the United States, but (C) had such a treaty with the United States before 1925."
+&emsp;"(2) The foreign state which (A) was identified as an adversely affected foreign state for purposes of section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out as a note under section 1153 of this title\] and (B) does not have a treaty of commerce and navigation with the United States, but\(C) had such a treaty with the United States before 1925."
 
 #### Clarification of Treatment of Certain International Accounting and Management Consulting Firms
 
-Pub. L. 101–649, title II, §206(a), Nov. 29, 1990, 104 Stat. 5022, as amended by Pub. L. 102–232, title III, §303(a)(9),Dec. 12, 1991, 105 Stat. 1748; Pub. L. 106–95, §6, Nov. 12, 1999, 113 Stat. 1319, provided that: "In applying sections 101(a)(15)(L) and 203(b)(1)(C) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(L), 1153(b)(1)(C)\], and for no other purpose, in the case of a partnership that is organized in the United States to provide accounting or management consulting services and that markets its accounting or management consulting services under an internationally recognized name under an agreement with a worldwide coordinating organization that is collectively owned and controlled by the member accounting and management consulting firms or by the elected members (partners, shareholders, members, employees) thereof, an entity that is organized outside the United States to provide accounting or management consulting services shall be considered to be an affiliate of the United States accounting or management consulting partnership if it markets its accounting or management consulting services under the same internationally recognized name directly or indirectly under an agreement with the same worldwide coordinating organization of which the United States partnership is also a member. Those partnerships organized within the United States and entities organized outside the United States which are considered affiliates under this subsection shall continue to be considered affiliates to the extent such firms enter into a plan of association with a successor worldwide coordinating organization, which need not be collectively owned and controlled."
+Pub. L. 101–649, title II, §206(a), Nov. 29, 1990, 104 Stat. 5022, as amended by Pub. L. 102–232, title III, §303(a)(9), Dec. 12, 1991, 105 Stat. 1748; Pub. L. 106–95, §6, Nov. 12, 1999, 113 Stat. 1319, provided that: "In applying sections 101(a)(15)(L) and 203(b)(1)(C) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(L), 1153(b)(1)(C)\], and for no other purpose, in the case of a partnership that is organized in the United States to provide accounting or management consulting services and that markets its accounting or management consulting services under an internationally recognized name under an agreement with a worldwide coordinating organization that is collectively owned and controlled by the member accounting and management consulting firms or by the elected members (partners, shareholders, members, employees) thereof, an entity that is organized outside the United States to provide accounting or management consulting services shall be considered to be an affiliate of the United States accounting or management consulting partnership if it markets its accounting or management consulting services under the same internationally recognized name directly or indirectly under an agreement with the same worldwide coordinating organization of which the United States partnership is also a member. Those partnerships organized within the United States and entities organized outside the United States which are considered affiliates under this subsection shall continue to be considered affiliates to the extent such firms enter into a plan of association with a successor worldwide coordinating organization, which need not be collectively owned and controlled."
 
 #### Admission of Nonimmigrants for Cooperative Research, Development, and Coproduction Projects
 
@@ -2770,7 +2774,7 @@ Pub. L. 100–525, §2(o)(2), Oct. 24, 1988, 102 Stat. 2613, provided that: "Onl
 
 #### Nonimmigrant Traders and Investors Under United States-Canada Free-Trade Agreement
 
-For provisions allowing Canadian citizens to be classifiable as nonimmigrants under subsec. (a)(15)(E) ofthis section upon a basis of reciprocity secured by the United States-Canada Free-Trade Agreement, see section 307(a) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+For provisions allowing Canadian citizens to be classifiable as nonimmigrants under subsec. (a)(15)(E) of this section upon a basis of reciprocity secured by the United States-Canada Free-Trade Agreement, see section 307(a) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Amerasian Immigration
 
@@ -2820,11 +2824,11 @@ Two Essential Elements.—It is the sense of Congress that two essential element
 
 &emsp;"(1) an increase in the border patrol and other inspection and enforcement activities of the Immigration and Naturalization Service and of other appropriate Federal agencies in order to prevent and deter the illegal entry of aliens into the United States and the violation of the terms of their entry, and
 
-&emsp;"(2) an increase in examinations and other service activities of the Immigration and Naturalization Service and other appropriate Federal agencies in order to ensure prompt and efficient adjudication of petitions and applications provided for under the Immigration and Nationality Act \[this chapter\].
+&emsp;"(2) an increase in examinations and other service activities of the Immigration and Naturalization Service and other appropriate Federal agencies inorder to ensure prompt and efficient adjudication of petitions and applications provided for under the Immigration and Nationality Act \[this chapter\].
 
 "(b)
 
-Increased Authorization of Appropriations for INS and EOIR.—In addition to any other amountsauthorized to be appropriated, in order to carry out this Act there are authorized to be appropriated to the Department of Justice—
+Increased Authorization of Appropriations for INS and EOIR.—In addition to any other amounts authorized to be appropriated, in order to carry out this Act there are authorized to be appropriated to the Department of Justice—
 
 &emsp;"(1) for the Immigration and Naturalization Service, for fiscal year 1987, $422,000,000, and for fiscal year 1988, $419,000,000; and
 
@@ -2870,11 +2874,11 @@ Priv. L. 98–53, Oct. 30, 1984, 98 Stat. 3437, provided: "That an alien lawfull
 
 #### Study and Evaluation of Exchange Programs for Graduate Medical Education of Alien Graduates of Foreign Medical Schools; Report to Congress Not Later Than January 15, 1983
 
-Pub. L. 97–116, §5(e), Dec. 29, 1981, 95 Stat. 1614, directed Secretary of Health and Human Services, after consultation with Attorney General, Secretary of State, and Director of the International Communication Agency, to evaluate effectiveness and value to foreign nations and United States of exchange programs for graduate medical education or training of aliens who were graduates of foreign medical schools, and to report to Congress, not later than Jan. 15, 1983, on such evaluation, and include such recommendations for changes in legislation and regulations as appropriate.
+Pub. L. 97–116, §5(e), Dec. 29, 1981, 95 Stat. 1614, directed Secretary of Health and Human Services, after consultation with Attorney General, Secretary of State, and Director of the International Communication Agency, to evaluate effectiveness and value to foreign nations and United States of exchange programs for graduate medical education or training of aliens who were graduates of foreign medical schools, and to report to Congress, not later than Jan. 15, 1983, on suchevaluation, and include such recommendations for changes in legislation and regulations as appropriate.
 
 #### Adjustment of Status of Nonimmigrant Aliens Residing in the Virgin Islands to Permanent Resident Alien Status
 
-Upon application during the one-year period beginning Sept. 30, 1982, by an alien who was inspected andadmitted to the Virgin Islands of the United States either as a nonimmigrant alien worker under subsec. (a)(15)(H)(ii) of this section or as a spouse or minor child of such worker, and has resided continuously in the Virgin Islands since June 30, 1975, the Attorney General may adjust the status of such nonimmigrant alien to that of an alien lawfully admitted for permanent residence, provided certain conditions are met, and such alien is not to be deported for failure to maintain nonimmigrant status until final action is taken on the alien's application for adjustment, see section 2(a), (b) of Pub. L. 97–271, set out as a note under section 1255 of this title.
+Upon application during the one-year period beginning Sept. 30, 1982, by an alien who was inspected and admitted to the Virgin Islands of the United States either as a nonimmigrant alien worker under subsec. (a)(15)(H)(ii) of this section or as a spouse or minor child of such worker, and has resided continuously in the Virgin Islands since June 30, 1975, the Attorney General may adjust the status of such nonimmigrant alien to that of an alien lawfully admitted for permanent residence, provided certain conditions are met, and such alien is not to be deported for failure to maintain nonimmigrant status until final action is taken on the alien's application for adjustment, see section 2(a), (b) of Pub. L. 97–271, set out as a note under section 1255 of this title.
 
 #### Limitation on Admission of Aliens Seeking Employment in the Virgin Islands
 
@@ -2930,7 +2934,7 @@ While we already are doing more to stem the flow of illegal immigration than has
 
 #### A. <i>Deterring Illegal Immigration At Our Borders</i>
 
-I have directed the Attorney General to move expeditiously toward full implementation of our comprehensive border control strategy, including efforts at the southwest border. To support sustained long-term strengthening of our deterrence capacity, the Administration shall seek funding to add new Border Patrol agents to reach the goal of at least 7,000 agents protecting our borders by the year 2000.
+I have directed the Attorney General to move expeditiously toward full implementation of our comprehensive border control strategy, including efforts at the southwest border. To support sustained long-term strengthening of our deterrence capacity, the Administration shall seek funding to add new Border Patrolagents to reach the goal of at least 7,000 agents protecting our borders by the year 2000.
 
 #### &nbsp;&nbsp;<i>Flexible Border Response Capacity</i>
 

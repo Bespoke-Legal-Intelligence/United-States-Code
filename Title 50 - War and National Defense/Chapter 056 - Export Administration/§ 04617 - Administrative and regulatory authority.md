@@ -10,7 +10,7 @@ The President and the Secretary may issue such regulations as are necessary to c
 
 #### (c) Amendments to regulations
 
-If the Secretary proposes to amend regulations issued under this chapter, the Secretary shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives on the intent and rationale of such amendments. Such report shall evaluate the cost and burden to United States exporters of the proposed amendments in relation to any enhancement of licensing objectives. The Secretary shall consult with the technical advisory committees authorized under section 4604(h) of this title in formulating or amending regulations issued under this chapter. The procedures defined by regulations in effect on January 1,1984, with respect to sections 4603 and 4604 of this title, shall remain in effect unless the Secretary determines, on the basis of substantial and reliable evidence, that specific change is necessary to enhance the prevention of diversions of exports which would prove detrimental to the national security of the United States or to reduce the licensing and paperwork burden on exporters and their distributors.
+If the Secretary proposes to amend regulations issued under this chapter, the Secretary shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives on the intent and rationale of such amendments. Such report shall evaluate the cost and burden to United States exporters of the proposed amendments in relation to any enhancement of licensing objectives. The Secretary shall consult with the technical advisory committees authorized under section 4604(h) of this title in formulating or amending regulations issued under this chapter. The procedures defined by regulations in effect on January 1, 1984, with respect to sections 4603 and 4604 of this title, shall remain in effect unless the Secretary determines, on the basis of substantial and reliable evidence, that specific change is necessary to enhance the prevention of diversions of exports which would prove detrimental to the national security of the United States or to reduce the licensing and paperwork burden on exporters and their distributors.
 
 (Pub. L. 96–72, §15, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §116(a), July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2420(b), 2429, Aug. 23, 1988, 102 Stat. 1358, 1362.)
 
@@ -20,7 +20,7 @@ If the Secretary proposes to amend regulations issued under this chapter, the Se
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, known as the Export Administration Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 4601 of this title and Tables.
 
 #### Codification
 

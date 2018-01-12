@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employeeof the Government Accountability Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 
-&emsp;&emsp;(B) adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the performance management system;
+&emsp;&emsp;(B) adequate training and retraining for supervisors, managers, and employees in theimplementation and operation of the performance management system;
 
 &emsp;&emsp;(C) a process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period and setting timetables for review;
 
@@ -296,7 +296,7 @@ Effective date.—Subject to paragraph (3), the amendment made by paragraph (1) 
 
 "(3)
 
-Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted."
+Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1\(dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted."
 
 Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\]."
 
@@ -326,7 +326,7 @@ Pay Increase Defined.—For purposes of this section, the term 'pay increase', a
 
 "(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 "(d)
 
@@ -388,7 +388,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 "(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action orother civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 
@@ -418,7 +418,7 @@ Qualified Individual.—For purposes of this section, the term 'qualified indivi
 
 &emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 "(d)
 

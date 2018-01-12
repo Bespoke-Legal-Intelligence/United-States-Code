@@ -1,0 +1,6 @@
+### §447. Transferred
+
+#### Codification
+
+Section 447 was editorially reclassified as section 667g of Title 16, Conservation.
+

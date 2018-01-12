@@ -26,7 +26,7 @@
 
 #### (i) Ombudsman program
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated undersection 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
 
 #### (ii) Elder abuse programs
 
@@ -44,7 +44,7 @@
 
 #### (2) Availability
 
-&emsp;Any amount made available to a State from an appropriation for a fiscal year in accordance with paragraph (1) shall, for purposes of this part, be regarded as part of the allotment of the State (as determined under subsection (a) of this section) for the year, but shall remain available until the end of the succeeding fiscal year.
+&emsp;Any amount made available to a State from an appropriation for a fiscal year in accordance with paragraph (1) shall, for purposes of this part, be regarded as part of the allotment of the State (as determined under subsection (a)) for the year, but shall remain available until the end of the succeeding fiscal year.
 
 #### (c) Withholding
 
@@ -65,6 +65,12 @@ A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this t
 Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§702, 801(e)(1)(B), substituted "section 3058a of this title and made available to carry out subpart III of this part" for "section 3058a(b) of this title" and "2000" for "1991".
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
+
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

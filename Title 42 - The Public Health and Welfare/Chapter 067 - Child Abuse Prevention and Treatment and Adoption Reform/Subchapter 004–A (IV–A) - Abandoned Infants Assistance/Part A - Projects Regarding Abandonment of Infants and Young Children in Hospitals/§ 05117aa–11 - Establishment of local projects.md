@@ -62,7 +62,7 @@ The Secretary may not make a grant under subsection (a) unless—
 
 &emsp;(2) with respect to carrying out the purpose for which the grant is to be made, the application provides assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(3) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+&emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (f) Technical assistance to grantees
 

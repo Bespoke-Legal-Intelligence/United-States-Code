@@ -32,7 +32,7 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;&emsp;(C) the number of orders or directives received, combined, under this chapter for contents, reported in bands of 500 starting with 0–499;
 
-&emsp;&emsp;(D) the number of customer selectors targeted under orders or directives received,combined, under this chapter for contents, reported in bands of 500 starting with 0–499;
+&emsp;&emsp;(D) the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents, reported in bands of 500 starting with 0–499;
 
 &emsp;&emsp;(E) the number of orders received under this chapter for noncontents, reported in bands of 500 starting with 0–499; and
 

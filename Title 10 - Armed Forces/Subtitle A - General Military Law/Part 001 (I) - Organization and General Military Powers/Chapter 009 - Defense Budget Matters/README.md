@@ -22,10 +22,13 @@
 | [237\.](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md) | Embedded mental health providers of the reserve components: display of budget information. |
 | [238\.](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md) | Cyber mission forces: program elements. |
 | [239\.](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md) | National security space programs: major force program and budget assessment. |
+| [239a.](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md) | Missile defense and defeat programs: major force program and budget assessment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1676(a)(2), Dec. 12, 2017, 131 Stat. 1772, added item 239a.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title X, §1064(a)(2), Dec. 23, 2016, 130 Stat. 2409, added item 222a.
 
@@ -41,7 +44,7 @@ Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 12
 
 Pub. L. 112–81, div. A, title II, §231(a)(2), Dec. 31, 2011, 125 Stat. 1339, added item 225 at the end of this analysis.
 
-Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out formeritem 231 "Budgeting for construction of naval vessels: annual plan and certification".
+Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
 
@@ -98,3 +101,4 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00237 - Embedded mental health providers of the reserve components display of budget information](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md)
 - [&sect; 00238 - Cyber mission forces program elements](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md)
 - [&sect; 00239 - National security space programs major force program and budget assessment](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md)
+- [&sect; 00239a - Missile defense and defeat programs major force program and budget assessment](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md)

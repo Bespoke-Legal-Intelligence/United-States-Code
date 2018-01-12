@@ -44,11 +44,11 @@ In general.—The amendments made by subsection (a) \[enacting section 319 of th
 
 "(B)
 
-Graduated implementation.—The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may impose a limit on the number of inter partes reviews that may be instituted under chapter 31 of title 35, United States Code, during each of the first 4 1-year periods in which the amendments made by subsection (a) are in effect, if such number in each year equals or exceeds the number of inter partes reexaminations that are ordered under chapter 31 of title 35, United States Code, in the last fiscal year ending before the effective date of the amendments made by subsection (a)."
+Graduated implementation.—The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may impose a limit on the number of inter partes reviews that may be instituted under chapter 31 of title 35, United States Code, during each of the first 4 1-year periods in which the amendments made by subsection (a) are in effect, if such number in each year equals or exceeds the number of inter partes reexaminations that are ordered under chapter 31 oftitle 35, United States Code, in the last fiscal year ending before the effective date of the amendments made by subsection (a)."
 
 #### Effective Date
 
-Chapter effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 
 #### Regulations
 

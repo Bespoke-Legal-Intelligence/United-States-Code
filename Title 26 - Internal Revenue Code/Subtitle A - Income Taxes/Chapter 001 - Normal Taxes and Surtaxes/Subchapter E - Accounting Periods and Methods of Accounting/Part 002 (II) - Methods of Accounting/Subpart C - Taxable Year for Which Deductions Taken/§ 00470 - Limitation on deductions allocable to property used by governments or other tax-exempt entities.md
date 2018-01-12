@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (B) Exception for partnerships
 
-&emsp;&emsp;Such term shall not include any property which would (but for this subparagraph) be tax-exempt use property solely by reason of section 168(h)(6).
+&emsp;&emsp;Such term shall not include any property which would (but for this subparagraph) betax-exempt use property solely by reason of section 168(h)(6).
 
 #### (C) Cross reference
 
@@ -122,7 +122,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary may by regulations provide that the requirements of this paragraph are not met where the lessee bears more than a minimal risk of loss.
+&emsp;&emsp;The Secretary may by regulations provide that the requirements of this paragraph arenot met where the lessee bears more than a minimal risk of loss.
 
 #### (C) Paragraph not to apply to short-term leases
 
@@ -236,7 +236,7 @@ Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, sub
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 

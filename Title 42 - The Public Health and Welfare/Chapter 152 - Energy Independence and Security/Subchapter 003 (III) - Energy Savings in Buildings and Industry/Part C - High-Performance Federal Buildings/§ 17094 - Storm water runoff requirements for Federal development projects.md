@@ -4,3 +4,7 @@ The sponsor of any development or redevelopment project involving a Federal faci
 
 (Pub. L. 110–140, title IV, §438, Dec. 19, 2007, 121 Stat. 1620.)
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+

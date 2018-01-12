@@ -28,7 +28,7 @@ Requirements for Perfection of Security Interest.—A security interest in a mot
 
 &emsp;(2) a certificate of title has not been issued and the law of the State where the principal place of business of that carrier is located requires or permits public filing or recording of, or in relation to, that security interest if there has been such a public filing or recording; and
 
-&emsp;(3) a certificate of title has not been issued and the security interest cannot be perfected under paragraph (2) of this subsection, if the security interest has been perfected under the law (including the conflict of laws rules) of the State where the principal place of business of that carrier is located.
+&emsp;(3) a certificate of title has not been issued and the security interest cannot be perfected under paragraph (2) of this subsection, if thesecurity interest has been perfected under the law (including the conflict of laws rules) of the State where the principal place of business of that carrier is located.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 894.)
 

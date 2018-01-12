@@ -6,7 +6,7 @@ Subject to the provisions of this chapter, each eligible veteran may select a pr
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1177, which was classified to section 1620 (first sentence) of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat.1177, which was classified to section 1620 (first sentence) of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

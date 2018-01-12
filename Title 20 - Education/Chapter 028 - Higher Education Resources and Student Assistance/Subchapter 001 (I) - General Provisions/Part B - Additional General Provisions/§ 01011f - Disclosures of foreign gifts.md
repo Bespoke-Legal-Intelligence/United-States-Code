@@ -12,7 +12,7 @@ Each report to the Secretary required by this section shall contain the followin
 
 &emsp;(2) For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
 
-&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, theidentity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
+&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
 
 #### (c) Additional disclosures for restricted and conditional gifts
 

@@ -48,7 +48,7 @@ Annual Assessment.—(1) The Secretary of Defense, through the Secretary of the 
 
 (d)
 
-Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
+Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involvingcadets or other personnel at the Academy for each Academy program year.
 
 (2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 

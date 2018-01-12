@@ -8,11 +8,11 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $500,000.
+&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $1,000,000.
 
 #### (2) Reduction in limitation
 
-&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,000,000.
+&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,500,000.
 
 #### (3) Limitation based on income from trade or business
 
@@ -70,7 +70,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(I) is designed to have a seating capacity of more than 9 persons behind the driver's seat,
 
-&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
+&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is anopen area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
@@ -78,15 +78,15 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxable year beginning after 2015, the dollar amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
+&emsp;&emsp;In the case of any taxable year beginning after 2018, the dollar amounts in paragraphs (1), (2), and (5)(A) shall each be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2014" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (B) Rounding
 
-&emsp;&emsp;The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000.
+&emsp;&emsp;The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000 ($100 in the case of any increase in the amount under paragraph (5)(A)).
 
 #### (c) Election
 
@@ -116,11 +116,15 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i) and to which section 167 applies,
 
-&emsp;&emsp;(B) which is section 1245 property (as defined in section 1245(a)(3)), and
+&emsp;&emsp;(B) which is—
+
+&emsp;&emsp;&emsp;(i) section 1245 property (as defined in section 1245(a)(3)), or
+
+&emsp;&emsp;&emsp;(ii) at the election of the taxpayer, qualified real property (as defined in subsection (f)), and
 
 &emsp;&emsp;(C) which is acquired by purchase for use in the active conduct of a trade or business.
 
-> &emsp;Such term shall not include any property described in section 50(b).
+> &emsp;Such term shall not include any property described in section 50(b) (other than paragraph (2) thereof).
 
 #### (2) Purchase defined
 
@@ -206,31 +210,45 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
 
-#### (f) Special rules for qualified real property
+#### (f) Qualified real property
 
-#### (1) In general
+For purposes of this section, the term "qualified real property" means—
 
-&emsp;If a taxpayer elects the application of this subsection for any taxable year, the term "section 179 property" shall include any qualified real property which is—
+&emsp;(1) any qualified improvement property described in section 168(e)(6), and
 
-&emsp;&emsp;(A) of a character subject to an allowance for depreciation,
+&emsp;(2) any of the following improvements to nonresidential real property placed in service after the date such property was first placed in service:
 
-&emsp;&emsp;(B) acquired by purchase for use in the active conduct of a trade or business, and
+&emsp;&emsp;(A) Roofs.
 
-&emsp;&emsp;(C) not described in the last sentence of subsection (d)(1).
+&emsp;&emsp;(B) Heating, ventilation, and air-conditioning property.
 
-#### (2) Qualified real property
+&emsp;&emsp;(C) Fire protection and alarm systems.
 
-&emsp;For purposes of this subsection, the term "qualified real property" means—
+&emsp;&emsp;(D) Security systems.
 
-&emsp;&emsp;(A) qualified leasehold improvement property described in section 168(e)(6),
-
-&emsp;&emsp;(B) qualified restaurant property described in section 168(e)(7), and
-
-&emsp;&emsp;(C) qualified retail improvement property described in section 168(e)(8).
-
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(1). Pub. L. 115–97, §13101(a)(1), substituted "$1,000,000" for "$500,000".
+
+Subsec. (b)(2). Pub. L. 115–97, §13101(a)(2), substituted "$2,500,000" for "$2,000,000".
+
+Subsec. (b)(6)(A). Pub. L. 115–97, §13101(a)(3)(B)(i), substituted "paragraphs (1), (2), and (5)(A)" for "paragraphs (1) and (2)" in introductory provisions.
+
+Pub. L. 115–97, §13101(a)(3)(A)(i), substituted "2018" for "2015" in introductory provisions.
+
+Subsec. (b)(6)(A)(ii). Pub. L. 115–97, §13101(a)(3)(A)(ii), substituted "calendar year 2017" for "calendar year 2014".
+
+Pub. L. 115–97, §11002(d)(1)(R), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (b)(6)(B). Pub. L. 115–97, §13101(a)(3)(B)(ii), inserted "($100 in the case of any increase in the amount under paragraph (5)(A))" after "$10,000".
+
+Subsec. (d)(1). Pub. L. 115–97, §13101(c), inserted "(other than paragraph (2) thereof)" after "section 50(b)" in concluding provisions.
+
+Subsec. (d)(1)(B). Pub. L. 115–97, §13101(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "which is section 1245 property (as defined in section 1245(a)(3)), and".
+
+Subsec. (f). Pub. L. 115–97, §13101(b)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) consisted of pars. (1) and (2) defining "section 179 property" and "qualified real property", respectively.
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–113, §124(a)(1), substituted "shall not exceed $500,000." for "shall not exceed—
 
@@ -260,7 +278,7 @@ Subsec. (f)(1). Pub. L. 114–113, §124(c)(2)(A), struck out "beginning after 2
 
 Pub. L. 114–113, §124(c)(1)(A), substituted "2016" for "2015" in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 114–113, §124(c)(2)(B), struck out par. (3). Text read as follows: "For purposes of applying the limitation under subsection (b)(1)(B), not morethan $250,000 of the aggregate cost which is taken into account under subsection (a) for any taxable year may be attributable to qualified real property."
+Subsec. (f)(3). Pub. L. 114–113, §124(c)(2)(B), struck out par. (3). Text read as follows: "For purposes of applying the limitation under subsection (b)(1)(B), not more than $250,000 of the aggregate cost which is taken into account under subsection (a) for any taxable year may be attributable to qualified real property."
 
 Subsec. (f)(4). Pub. L. 114–113, §124(c)(2)(B), struck out par. (4) which related to limitation of carryover of amounts attributable to qualified real property.
 
@@ -374,7 +392,7 @@ Subsec. (b)(5). Pub. L. 108–27, §202(d), added par. (5).
 
 Subsec. (c)(2). Pub. L. 108–27, §202(e), inserted at end "Any such election or specification with respect to any taxable year beginning after 2002 and before 2006 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable."
 
-Subsec. (d)(1). Pub. L. 108–27, §202(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes ofthis section, the term 'section 179 property' means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of a trade or business. Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units."
+Subsec. (d)(1). Pub. L. 108–27, §202(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'section 179 property' means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of a trade or business. Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units."
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1111(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $17,500."
 
@@ -431,6 +449,12 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 <b>1962</b>—Subsec. (d)(5). Pub. L. 87–834, §13(c)(2)(A), substituted "section 167(h)" for "section 167(g)".
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted "section 167(g)" for "section 167(f)".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(R) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13101(d), Dec. 22, 2017, 131 Stat. 2102, provided that: "The amendments made by this section \[amending this section\] shall apply to property placed in service in taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -514,7 +538,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -16,7 +16,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(A) use a random sampling process which is consistent with relevant, widely accepted professional assessment standards and that produces data that are representative on a national and regional basis;
 
-&emsp;&emsp;(B) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private elementary schools and secondary schools at least once every 2 years, in grades 4 and 8 in reading and mathematics;
+&emsp;&emsp;(B) conduct a national assessment and collect and report assessment data, includingachievement data trends, in a valid and reliable manner on student academic achievement in public and private elementary schools and secondary schools at least once every 2 years, in grades 4 and 8 in reading and mathematics;
 
 &emsp;&emsp;(C) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private schools in reading and mathematics in grade 12 in regularly scheduled intervals, but at least as often as such assessments were conducted prior to January 8, 2002;
 
@@ -274,7 +274,7 @@ A prior section 303 of Pub. L. 107–279 was renumbered section 305 and is class
 
 <b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, §401(d)(3), substituted "section 9621" for "section 9011" and struck out "andwith the technical assistance of the Advisory Council established under section 9006 of this title," before "carry out".
+Subsec. (a). Pub. L. 107–279, §401(d)(3), substituted "section 9621" for "section 9011" and struck out "and with the technical assistance of the Advisory Council established under section 9006 of this title," before "carry out".
 
 Pub. L. 107–279, §401(d)(2), substituted "Assessment Board" for "National Assessment Governing Board".
 

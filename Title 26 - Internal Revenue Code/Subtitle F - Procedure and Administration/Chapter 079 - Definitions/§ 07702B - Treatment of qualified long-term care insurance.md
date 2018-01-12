@@ -318,7 +318,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;<b>For coordination of the requirements of this subsection with State requirements, see section 4980C(f).</b>
 
-(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063;Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–280, title VIII, §844(c), (f), Aug. 17, 2006, 120 Stat. 1011, 1013.)
+(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–280, title VIII, §844(c), (f), Aug. 17, 2006, 120 Stat. 1011, 1013.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -330,7 +330,7 @@ The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
+<b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e)related to treatment of coverage provided as part of a life insurance contract.
 
 Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted "title" for "section".
 

@@ -10,7 +10,7 @@
 
 &emsp;(1) the years of service credited to him upon his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve;
 
-&emsp;(2) his years of active and inactive service in the armed forces before his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
+&emsp;(2) his years of active and inactive service in the armed forces before his transfer to theFleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
 
 &emsp;(3) his years of service, active and inactive, in the Fleet Reserve or the Fleet Marine Corps Reserve.
 
@@ -54,7 +54,7 @@ In subsection (c) references to the "allowances to which enlisted men of the Nav
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet MarineCorps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
+<b>1958</b>—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
 
 Subsec. (b). Pub. L. 85–583, §1(5), struck out "of clause (2)".
 

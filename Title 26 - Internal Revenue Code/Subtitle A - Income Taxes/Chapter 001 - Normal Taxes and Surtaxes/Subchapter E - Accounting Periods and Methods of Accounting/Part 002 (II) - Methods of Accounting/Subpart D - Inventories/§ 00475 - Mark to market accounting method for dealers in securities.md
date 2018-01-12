@@ -188,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any gain or loss shall be taken into account for such taxable year.
 
-> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretary may provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
+> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretarymay provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
 
 #### (B) Exception
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which is clearly identified in such person's records as being described in clause (i) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
 
-> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as suchunder clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
+> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as such under clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
 
 #### (C) Coordination with section 1259
 

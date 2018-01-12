@@ -70,7 +70,7 @@ Except as otherwise ordered by the court upon motion by the Commission, or, in t
 
 #### (1) In general
 
-&emsp;In any proceeding under subsection (a) against any person participating in, or, at thetime of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+&emsp;In any proceeding under subsection (a) against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
 #### (2) Definition
 

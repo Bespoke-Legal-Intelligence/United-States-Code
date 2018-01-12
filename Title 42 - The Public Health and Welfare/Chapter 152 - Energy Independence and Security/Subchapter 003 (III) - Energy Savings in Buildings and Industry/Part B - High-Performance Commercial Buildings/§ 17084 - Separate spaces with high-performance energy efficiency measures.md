@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) any impact on employment resulting from the design and construction of separate spaces with high-performance energy efficiency measures; and
 
-&emsp;&emsp;(B) case studies reporting economic and energy savings returns in the design andconstruction of separate spaces with high-performance energy efficiency measures.
+&emsp;&emsp;(B) case studies reporting economic and energy savings returns in the design and construction of separate spaces with high-performance energy efficiency measures.
 
 #### (3) Public participation
 

@@ -20,7 +20,7 @@ In General.—For each of model years 1993 through 2019 for each category of aut
 
 (b)
 
-Calculation.—In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer's average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer's average fuel economy calculated under section 32905(f) the number equal to what the manufacturer's average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including as the denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
+Calculation.—In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer's average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer's average fuel economy calculated under section 32905(f) the number equal to what the manufacturer's average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including asthe denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1067; Pub. L. 109–58, title VII, §772(b), Aug. 8, 2005, 119 Stat. 834; Pub. L. 110–140, title I, §109(a), Dec. 19, 2007, 121 Stat. 1505; Pub. L. 113–291, div. A, title III, §318(a), (d), Dec. 19, 2014, 128 Stat. 3341, 3342.)
 

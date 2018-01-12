@@ -14,7 +14,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;(3) whether an individual's coverage under an employer-sponsored health benefits plan is treated as unaffordable under sections 36B(c)(2)(C) and 5000A(e)(2) of title 26; <sup>1</sup> and
 
-&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attestingthat, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
+&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attesting that, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
 
 #### (b) Information required to be provided by applicants
 
@@ -32,7 +32,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;(A) In the case of an enrollee whose eligibility is based on an attestation of citizenship of the enrollee, the enrollee's social security number.
 
-&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect to the enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
+&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect tothe enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
 
 #### (3) Eligibility and amount of tax credit or reduced cost-sharing
 

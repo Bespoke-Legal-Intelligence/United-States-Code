@@ -116,7 +116,7 @@ In subsection (a)(3) and (4), the word "selected" is substituted for "appointed"
 
 In subsection (a)(6), the word "only" is added for clarity.
 
-In subsection (b), the text of 45:543(a)(7) is omitted as obsolete because preferred stockholder representatives are always part of Amtrak's board of directors. Thetext of 45:543(c) (words after "all stockholders") is omitted as obsolete because Congress eliminated common stockholder representatives when it reconstituted the board.
+In subsection (b), the text of 45:543(a)(7) is omitted as obsolete because preferred stockholder representatives are always part of Amtrak's board of directors. The text of 45:543(c) (words after "all stockholders") is omitted as obsolete because Congress eliminated common stockholder representatives when it reconstituted the board.
 
 In subsection (c), the words "direct or indirect" are omitted as surplus.
 

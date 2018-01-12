@@ -60,13 +60,13 @@
 
 (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6),305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, §321(b), title XV, §1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, §321(b), title XV, §1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
 
 #### Historical and Revision Notes
 
 #### legislative statements
 
-Section 1123 of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. The section has been clarified to clearly indicate that both secured and unsecured claims, or either of them, may be impaired in a case under title 11. In addition assumption or rejection of an executory contract under a plan must comply with section 365 of title 11. Moreover, section 1123(a)(1) has been substantively modified to permit classification of certain kinds of priority claims. This is important for purposes of confirmation under section 1129(a)(9).
+Section 1123 of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. The section has been clarified to clearly indicate that both secured and unsecured claims, or either of them, may be impaired in a caseunder title 11. In addition assumption or rejection of an executory contract under a plan must comply with section 365 of title 11. Moreover, section 1123(a)(1) has been substantively modified to permit classification of certain kinds of priority claims. This is important for purposes of confirmation under section 1129(a)(9).
 
 Section 1123(a)(5) of the House amendment is derived from a similar provision in the House bill and Senate amendment but deletes the language pertaining to "fair upset price" as an unnecessary restriction. Section 1123 is also intended to indicate that a plan may provide for any action specified in section 1123 in the case of a corporation without a resolution of the board of directors. If the plan is confirmed, then any action proposed in the plan may be taken notwithstanding any otherwise applicable nonbankruptcy law in accordance with section 1142(a) of title 11.
 

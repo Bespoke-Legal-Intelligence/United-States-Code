@@ -58,7 +58,7 @@ Approval of application.—The Commission shall not consider or recommend a gran
 
 &emsp;&emsp;&emsp;(vi) shall coordinate with any relevant Federal program or activity, including programs and activities relating to Presidential archival depositories;
 
-&emsp;&emsp;&emsp;(vii) shall coordinate with any relevant non-Federal program or activity, including programs and activities conducted byState and local governments and private educational historical entities; and
+&emsp;&emsp;&emsp;(vii) shall coordinate with any relevant non-Federal program or activity, including programs and activities conducted by State and local governments and private educational historical entities; and
 
 &emsp;&emsp;&emsp;(viii) has a workable plan for preserving and providing public access to such historical works and collections of historical sources.
 

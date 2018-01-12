@@ -14,7 +14,7 @@ The Governor of any State desiring to conduct a demonstration project under this
 
 &emsp;(1) a general description of the proposed demonstration project, including the authority (under the laws of the State) for the measures to be tested, as well as the period of time during which such demonstration project would be conducted;
 
-&emsp;(2) if a waiver under subsection (c) is requested, a statement describing the specificaspects of the project to which the waiver would apply and the reasons why such waiver is needed;
+&emsp;(2) if a waiver under subsection (c) is requested, a statement describing the specific aspects of the project to which the waiver would apply and the reasons why such waiver is needed;
 
 &emsp;(3) a description of the goals and the expected programmatic outcomes of the demonstration project, including how the project would contribute to the objective described in subsection (a)(1), subsection (a)(2), or both;
 

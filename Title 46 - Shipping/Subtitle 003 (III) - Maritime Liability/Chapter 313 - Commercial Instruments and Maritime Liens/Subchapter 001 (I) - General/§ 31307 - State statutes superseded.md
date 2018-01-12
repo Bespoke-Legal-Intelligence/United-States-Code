@@ -16,3 +16,7 @@ Historical and Revision Notes
 
 Section 31307 provides for preemption of State laws to the extent a claim for necessaries is enforced by a civil action <i>in rem</i> in admiralty against the vessel.
 
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
+

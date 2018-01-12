@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) a loan made under part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.); and
 
-&emsp;&emsp;(iii) a health education assistance loan made or insured under part A of title VII ofthe Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
+&emsp;&emsp;(iii) a health education assistance loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
 
 (2) An employee shall be ineligible for benefits under this section if the employee occupies a position that is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character.
 
@@ -42,7 +42,7 @@
 
 (4) Any amount repaid by, or recovered from, an individual (or an estate) under this subsection shall be credited to the appropriation account from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations (if any), as the sums with which merged.
 
-(d) An employee receiving benefits under this section from an agency shall be ineligible for continued benefits under this section from such agency if the employee—
+(d) An employee receiving benefits under this section from an agency shall be ineligible forcontinued benefits under this section from such agency if the employee—
 
 &emsp;(1) separates from such agency; or
 
@@ -64,7 +64,7 @@
 
 (2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L.108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
+(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that
 
 &emsp;"(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
 
-&emsp;&emsp;"(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
+&emsp;&emsp;"(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, forstudents or former students who perform public service; and
 
 &emsp;&emsp;"(B) in the case of a former student of the institution of higher education, the policy described in subparagraph (A) was in effect at the institution of higher education on the day before the date such officer or employee graduated from or otherwise ceased being a student at such institution; and
 

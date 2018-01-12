@@ -28,7 +28,7 @@
 
 &emsp;(3) increases in pay on which benefits are computed;
 
-> is deemed to authorize appropriations to the Fund to finance the unfunded liability created by that statute, in 30 equal annual installments with interest computed at the rate used in the then most recent valuation of the Civil Service Retirement System and with the first payment thereof due as of the end of the fiscal year in which each new or liberalized benefit, extension of coverage, or increase in pay is effective.
+> is deemed to authorize appropriations to the Fund to finance the unfunded liability created by that statute, in 30 equal annual installments with interest computed at the rate used in the then most recent valuation of the Civil Service Retirement System and with the first paymentthereof due as of the end of the fiscal year in which each new or liberalized benefit, extension of coverage, or increase in pay is effective.
 
 (g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts: 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
 
@@ -64,7 +64,7 @@
 
 (2) Any amounts in the Fund which, solely by reason of the public debt limit, are not invested shall be invested by the Secretary of the Treasury as soon as such investments can be made without exceeding the public debt limit.
 
-(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (d) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of the Fund will replicate to the maximum extent practicable the obligations that would then be held by the Fund if the suspension of investment under paragraph (1) of this subsection, and any redemption or disinvestment under subsection (k) of this section for the purpose described in such paragraph, during such period had not occurred.
+(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (d) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of the Fund will replicate to the maximum extent practicable the obligationsthat would then be held by the Fund if the suspension of investment under paragraph (1) of this subsection, and any redemption or disinvestment under subsection (k) of this section for the purpose described in such paragraph, during such period had not occurred.
 
 (4) On the first normal interest payment date after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount determined by the Secretary to be equal to the excess of—
 
@@ -302,7 +302,7 @@ Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, required t
 
 #### Timely Processing of Retirement Benefits
 
-Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L.105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
 
 "(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
 
@@ -314,7 +314,7 @@ Pub. L. 101–508, title VII, §7101(c), Nov. 5, 1990, 104 Stat. 1388–331, as 
 
 #### Payments Relating to Amounts Which Would Have Been Due Before Fiscal Year 1987
 
-Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service topay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
+Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
 #### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years' COLAs
 

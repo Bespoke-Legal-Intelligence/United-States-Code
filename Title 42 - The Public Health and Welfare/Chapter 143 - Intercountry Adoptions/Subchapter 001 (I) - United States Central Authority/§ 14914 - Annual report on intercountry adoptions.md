@@ -28,7 +28,7 @@ Each report under subsection (a) shall set forth with respect to the year concer
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard towhether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

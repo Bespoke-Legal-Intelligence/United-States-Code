@@ -1,0 +1,6 @@
+### §1165. Transferred
+
+#### Codification
+
+Section 1165 was editorially reclassified as section 2505 of this title.
+

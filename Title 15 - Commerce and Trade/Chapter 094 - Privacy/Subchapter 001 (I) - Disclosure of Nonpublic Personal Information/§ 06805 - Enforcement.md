@@ -24,7 +24,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(6) Under State insurance law, in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 6701 of this title.
 
-&emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
+&emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to thejurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
 
 &emsp;(8) Under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of the Bureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.
 
@@ -40,7 +40,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (c) Absence of State action
 
-If a State insurance authority fails to adopt regulations to carry out this subchapter, suchState shall not be eligible to override, pursuant to section 1831x(g)(2)(B)(iii) of title 12, the insurance customer protection regulations prescribed by a Federal banking agency under section 1831x(a) of title 12.
+If a State insurance authority fails to adopt regulations to carry out this subchapter, such State shall not be eligible to override, pursuant to section 1831x(g)(2)(B)(iii) of title 12, the insurance customer protection regulations prescribed by a Federal banking agency under section 1831x(a) of title 12.
 
 #### (d) Definitions
 

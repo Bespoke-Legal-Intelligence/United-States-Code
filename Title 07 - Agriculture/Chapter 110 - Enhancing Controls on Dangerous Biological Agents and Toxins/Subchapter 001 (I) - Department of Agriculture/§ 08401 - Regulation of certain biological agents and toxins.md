@@ -62,7 +62,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) In general
 
-&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary ofHomeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
 
 #### (2) Limiting access to listed agents and toxins
 
@@ -70,7 +70,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(A) provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
 
-&emsp;&emsp;(B) submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years; and
+&emsp;&emsp;(B) submit the names and other identifying information for such individuals to theSecretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years; and
 
 &emsp;&emsp;(C)(i) in the case of listed agents and toxins that are not overlap agents and toxins (as defined in subsection (g)(1)(A)(ii)), limit or deny access to such agents and toxins by individuals whom the Attorney General has identified as within any category under paragraph (3)(B), if limiting or denying such access by the individuals involved is determined appropriate by the Secretary, in consultation with the Attorney General; and
 
@@ -196,7 +196,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (B) Clinical or diagnostic laboratories
 
-&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt clinical or diagnostic laboratories and other persons who possess, use, ortransfer overlap agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
+&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer overlap agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
 
 &emsp;&emsp;&emsp;(i) the identification of such agents or toxins is reported to the Secretary, and when required under Federal, State, or local law, to other appropriate authorities; and
 
@@ -206,7 +206,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt products that are, bear, or contain overlap agents or toxins and are cleared, approved, licensed, or registered under any of the Acts specified in clause (ii), unless the Secretary by order determines that applying additional regulation under subsection (b) or (c) to a specific product is necessary to protect animal or plant health, or animal or plant products.
+&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt products that are, bear, orcontain overlap agents or toxins and are cleared, approved, licensed, or registered under any of the Acts specified in clause (ii), unless the Secretary by order determines that applying additional regulation under subsection (b) or (c) to a specific product is necessary to protect animal or plant health, or animal or plant products.
 
 #### (ii) Relevant laws
 

@@ -24,7 +24,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
-(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
+(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basicpay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
 (6) The chief special master shall be responsible for the following:
 
@@ -112,7 +112,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on apetition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
@@ -228,7 +228,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of this section relating to reporting annually to the Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of this section relating to reporting annually to the Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Review by 3-Judge Panel
 

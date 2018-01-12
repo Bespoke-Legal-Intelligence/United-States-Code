@@ -10,7 +10,7 @@ Requirements for Data Systems.—
 
 &emsp;(1)
 
-Scope of requirements.—In cooperation with the Comptroller General of the United States and the Director of the Office of Management and Budget, the Administrator of General Services shall prescribe requirements governing the establishment and operation by executive agencies of the systems required by subsection (a), including requirements with respect to data on the costs and uses of motorvehicles and with respect to the uniform collection and submission of the data.
+Scope of requirements.—In cooperation with the Comptroller General of the United States and the Director of the Office of Management and Budget, the Administrator of General Services shall prescribe requirements governing the establishment and operation by executive agencies of the systems required by subsection (a), including requirements with respect to data on the costs and uses of motor vehicles and with respect to the uniform collection and submission of the data.
 
 &emsp;(2)
 

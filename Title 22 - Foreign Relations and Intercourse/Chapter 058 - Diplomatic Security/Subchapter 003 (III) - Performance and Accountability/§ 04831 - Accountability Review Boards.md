@@ -42,7 +42,7 @@
 
 #### (c) Notification to Congress
 
-Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
+Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform thechairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
 
 &emsp;(1) that a Board has been convened;
 

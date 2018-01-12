@@ -16,7 +16,7 @@
 
 (4) In addition to those members appointed under paragraph (3), the President shall appoint four members from the public sector to serve on the Board.
 
-(5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
+(5) The President shall make the initial appointments of members of the Board under thissubsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
 
 (6) The initial members of the Board of Directors shall be the incorporators of the Institute and shall determine the State in which the Institute is to be incorporated.
 
@@ -91,4 +91,8 @@ This chapter, referred to in subsecs. (a)(3) and (j), was in the original "this 
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–572, title VIII, §804, Oct. 29, 1992, 106 Stat. 4516, provided that: "The provisions of this title \[amending this section and sections 10705 and 10713 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\]."
+
+#### Effective Date
+
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under section 10701 of this title.
 

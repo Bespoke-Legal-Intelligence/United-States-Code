@@ -6,17 +6,7 @@ A political organization shall be subject to taxation under this subtitle only t
 
 #### (b) Tax imposed
 
-#### (1) In general
-
-&emsp;A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
-
-#### (2) Alternative tax in case of capital gains
-
-&emsp;If for any taxable year any political organization has a net capital gain, then, in lieu of the tax imposed by paragraph (1), there is hereby imposed a tax (if such a tax is less than the tax imposed by paragraph (1)) which shall consist of the sum of—
-
-&emsp;&emsp;(A) a partial tax, computed as provided by paragraph (1), on the political organization taxable income determined by reducing such income by the amount of such gain, and
-
-&emsp;&emsp;(B) an amount determined as provided in section 1201(a) on such gain.
+A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
 
 #### (c) Political organization taxable income defined
 
@@ -74,7 +64,7 @@ For purposes of this section—
 
 #### (2) Exempt function
 
-&emsp;The term "exempt function" means the function of influencing or attempting to influence the selection, nomination, election, or appointment of any individual to any Federal, State, or local public office or office in a political organization, or the election of Presidential or Vice-Presidential electors, whether or not such individual or electors are selected, nominated, elected, or appointed. Such termincludes the making of expenditures relating to an office described in the preceding sentence which, if incurred by the individual, would be allowable as a deduction under section 162(a).
+&emsp;The term "exempt function" means the function of influencing or attempting to influence the selection, nomination, election, or appointment of any individual to any Federal, State, or local public office or office in a political organization, or the election of Presidential or Vice-Presidential electors, whether or not such individual or electors are selected, nominated, elected, or appointed. Such term includes the making of expenditures relating to an office described in the preceding sentence which, if incurred by the individual, would be allowable as a deduction under section 162(a).
 
 #### (3) Contributions
 
@@ -156,11 +146,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the deductions allowed by this chapter which are directly connected with the production of the income referred to in subparagraph (A).
 
-> &emsp;For purposes of the preceding sentence, there shall not be taken into account items takeninto account for purposes of the tax imposed by section 511 (relating to tax on unrelated business income).
+> &emsp;For purposes of the preceding sentence, there shall not be taken into account items taken into account for purposes of the tax imposed by section 511 (relating to tax on unrelated business income).
 
 #### (3) Certain separate segregated funds
 
-&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18) or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2)) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 
 #### (g) Treatment of newsletter funds
 
@@ -204,7 +194,7 @@ For purposes of this section—
 
 &emsp;&emsp;A candidate may have only 1 designation in effect under subparagraph (A)(ii) at any time and such designation—
 
-&emsp;&emsp;&emsp;(i) shall be made at such time and in such manner as the Secretary may prescribed by regulations, and
+&emsp;&emsp;&emsp;(i) shall be made at such time and in such manner as the Secretary may prescribe by regulations, and
 
 &emsp;&emsp;&emsp;(ii) once made, may be revoked only with the consent of the Secretary.
 
@@ -368,7 +358,7 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096.)
 
 #### References in Text
 
@@ -377,6 +367,8 @@ Section 610 of title 18, referred to in subsec. (f)(3), was repealed by Pub. L. 
 The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which is classified principally to chapter 301 (§30101 et seq.) of Title 52, Voting and Elections. Section 301 of the Act is classified to section 30101 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 struck out par. (1) designation and heading and struck out par. (2) which related to alternative tax in case of capital gains.
 
 <b>2014</b>—Subsec. (h)(2)(A)(i). Pub. L. 113–295, §220(l)(1), substituted "(52 U.S.C. 30102(e))" for "(2 U.S.C. 432(e))".
 
@@ -398,7 +390,7 @@ Pub. L. 107–276, §6(a), inserted at end "For purposes of the preceding senten
 
 Subsec. (i)(5)(C). Pub. L. 107–276, §1(a), added subpar. (C).
 
-Subsec. (j)(1). Pub. L. 107–276, §6(b), inserted at end "For purposes of subtitle F, the amount imposed bythis paragraph shall be assessed and collected in the same manner as penalties imposed by section 6652(c)."
+Subsec. (j)(1). Pub. L. 107–276, §6(b), inserted at end "For purposes of subtitle F, the amount imposed by this paragraph shall be assessed and collected in the same manner as penalties imposed by section 6652(c)."
 
 Subsec. (j)(3)(A). Pub. L. 107–276, §6(e)(1)(A), inserted ", date, and purpose" after "The amount".
 
@@ -435,6 +427,10 @@ Subsec. (h)(2)(B). Pub. L. 98–369, §722(c), inserted "Nothing in this subsect
 Subsec. (c)(3)(D). Pub. L. 95–502 added subpar. (D).
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 substituted "net capital gain" for "net section 1201 gain" after "organization has a".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -524,7 +520,7 @@ Pub. L. 97–34, title I, §128(b), Aug. 13, 1981, 95 Stat. 203, provided that: 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 

@@ -178,7 +178,7 @@
 
 #### (2) Title 11 case
 
-&emsp;For purposes of this section, the term "title 11 case" means a case under title 11 of the United States Code (relating to bankruptcy), but only if the taxpayer is under the jurisdiction of the court in such case and the discharge of indebtedness is granted by the court or is pursuant to a plan approved by the court.
+&emsp;For purposes of this section, the term "title 11 case" means a case under title 11 of theUnited States Code (relating to bankruptcy), but only if the taxpayer is under the jurisdiction of the court in such case and the discharge of indebtedness is granted by the court or is pursuant to a plan approved by the court.
 
 #### (3) Insolvent
 
@@ -328,7 +328,7 @@ For purposes of this title—
 
 &emsp;&emsp;(B) a debtor partnership transfers a capital or profits interest in such partnership,
 
-> &emsp;to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation orpartnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
+> &emsp;to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation or partnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
 
 #### (9) Discharge of indebtedness income not taken into account in determining whether entity meets REIT qualifications
 
@@ -342,7 +342,7 @@ For purposes of this title—
 
 #### (B) Issue price
 
-&emsp;&emsp;For purposes of subparagraph (A), the issue price of any debt instrument shall be determined under sections 1273 and 1274. For purposes of the preceding sentence, section 1273(b)(4) shall be applied by reducing the stated redemption price of any instrument by the portion of such stated redemption price which is treated as interest for purposes of this chapter.
+&emsp;&emsp;For purposes of subparagraph (A), the issue price of any debt instrument shall be determined under sections 1273 and 1274. For purposes of the preceding sentence, section 1273(b)(4) shall be applied by reducing thestated redemption price of any instrument by the portion of such stated redemption price which is treated as interest for purposes of this chapter.
 
 #### (f) Student loans
 
@@ -381,6 +381,26 @@ For purposes of this title—
 #### (4) Payments under national health service corps loan repayment program and certain state loan repayment programs
 
 &emsp;In the case of an individual, gross income shall not include any amount received under section 338B(g) of the Public Health Service Act, under a State program described in section 338I of such Act, or under any other State loan repayment or loan forgiveness program that is intended to provide for the increased availability of health care services in underserved or health professional shortage areas (as determined by such State).
+
+#### (5) Discharges on account of death or disability
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income for such taxable year by reasons of the discharge (in whole or in part) of any loan described in subparagraph (B) after December 31, 2017, and before January 1, 2026, if such discharge was—
+
+&emsp;&emsp;&emsp;(i) pursuant to subsection (a) or (d) of section 437 of the Higher Education Act of 1965 or the parallel benefit under part D of title IV of such Act (relating to the repayment of loan liability),
+
+&emsp;&emsp;&emsp;(ii) pursuant to section 464(c)(1)(F) of such Act, or
+
+&emsp;&emsp;&emsp;(iii) otherwise discharged on account of the death or total and permanent disability of the student.
+
+#### (B) Loans described
+
+&emsp;&emsp;A loan is described in this subparagraph if such loan is—
+
+&emsp;&emsp;&emsp;(i) a student loan (as defined in paragraph (2)), or
+
+&emsp;&emsp;&emsp;(ii) a private education loan (as defined in section 140(7) <sup>1</sup> of the Consumer Credit Protection Act (15 U.S.C. 1650(7) <sup>1</sup> )).
 
 #### (g) Special rules for discharge of qualified farm indebtedness
 
@@ -562,13 +582,17 @@ For purposes of this title—
 
 &emsp;&emsp;(C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065; Pub. L. 115–97, title I, §11031(a), Dec. 22, 2017, 131 Stat. 2081.)
 
 #### References in Text
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254l–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
+The Higher Education Act of 1965, referred to in subsec. (f)(5)(A)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified generally to part D (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. Sections 437 and 464(c)(1)(F) of the Act are classified to sections 1087 and 1087dd(c)(1)(F), respectively, of Title 20. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(5). Pub. L. 115–97 added par. (5).
 
 <b>2015</b>—Subsec. (a)(1)(E). Pub. L. 114–113, §151(b), substituted "discharged—" for "discharged before January 1, 2017." and added cls. (i) and (ii).
 
@@ -702,7 +726,7 @@ Subsec. (b)(2)(B). Pub. L. 99–514, §231(d)(3)(D), substituted "General busine
 
 &emsp;"(ii) section 38 (relating to general business credit).
 
-> For purposes of this subparagraph, there shall not be taken into account any portion of a carryover which is attributable to the employee stock ownership credit determined under section 41."
+> For purposes of this subparagraph, there shall not be taken into account any portion of a carryover which isattributable to the employee stock ownership credit determined under section 41."
 
 Pub. L. 99–514, §1171(b)(4), struck out last sentence which had been eliminated by the general amendment of subpar. (B) by Pub. L. 99–514, §231(d)(3)(D). See above.
 
@@ -760,6 +784,10 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretar
 
 <b>1956</b>—Subsec. (b). Act June 29, 1956, substituted "December 31, 1957" for "December 31, 1955".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11031(b), Dec. 22, 2017, 131 Stat. 2081, provided that: "The amendment made by this section \[amending this section\] shall apply to discharges of indebtedness after December 31, 2017."
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §151(c), Dec. 18, 2015, 129 Stat. 3066, provided that:
@@ -790,7 +818,7 @@ Pub. L. 111–5, div. B, title I, §1231(b), Feb. 17, 2009, 123 Stat. 341, provi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. A, title III, §303(b), Oct. 3, 2008, 122 Stat. 3807, provided that: "The amendment made by this section \[amending this section\] shall apply to discharges of indebtedness occurring on or after January 1, 2010."
+Pub. L. 110–343, div. A, title III, §303(b), Oct. 3, 2008, 122 Stat. 3807, provided that: "The amendment made bythis section \[amending this section\] shall apply to discharges of indebtedness occurring on or after January 1, 2010."
 
 #### Effective Date of 2007 Amendment
 
@@ -800,7 +828,7 @@ Pub. L. 110–142, §2(d), Dec. 20, 2007, 121 Stat. 1804, provided that: "The am
 
 Pub. L. 108–357, title III, §320(c), Oct. 22, 2004, 118 Stat. 1473, provided that: "The amendments made by this section \[amending this section, sections 3121, 3231, 3306, and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to amounts received by an individual in taxable years beginning after December 31, 2003."
 
-Pub. L. 108–357, title VIII, §896(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made bythis section \[amending this section\] shall apply with respect to cancellations of indebtedness occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §896(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to cancellations of indebtedness occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2002 Amendment
 
@@ -894,7 +922,7 @@ Amendment by section 1847(b)(7) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
+Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
 
 Pub. L. 98–369, div. A, title I, §59(b)\[(c)\], July 18, 1984, 98 Stat. 577, provided that:
 
@@ -986,7 +1014,7 @@ Exchanges of property for accrued interest.—The amendments made by subsection 
 
 &emsp;&emsp;"(A) which occurs after December 31, 1980, and
 
-&emsp;&emsp;"(B) which does not occur in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) commenced on or before December 31, 1980.
+&emsp;&emsp;"(B) which does not occur in a bankruptcy case or similar judicial proceeding (or in a proceedingunder the Bankruptcy Act) commenced on or before December 31, 1980.
 
 "(d)
 
@@ -1010,7 +1038,7 @@ For subsection (b)
 
 For subsection (c)
 
-(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy caseor similar judicial proceeding commenced after December 31, 1980.
+(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
 
 &emsp;"(4)
 
@@ -1103,4 +1131,6 @@ Effective Date.—This section shall apply to discharges made on or after Septem
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. The designation "(7)" probably should be preceded by "(a)".</i>
 

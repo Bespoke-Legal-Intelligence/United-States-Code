@@ -76,7 +76,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "inherently governmental function" has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
 
-(Added Pub. L. 110–181, div. A, title III, §324(a)(1), Jan. 28, 2008, 122 Stat. 60; amended Pub. L. 111–383, div. A, title III, §353, Jan. 7, 2011, 124 Stat. 4194; Pub. L. 112–81, div. A, title IX, §938, Dec. 31, 2011, 125 Stat. 1547.)
+(Added Pub. L. 110–181, div. A, title III, §324(a)(1), Jan. 28, 2008, 122 Stat. 60; amendedPub. L. 111–383, div. A, title III, §353, Jan. 7, 2011, 124 Stat. 4194; Pub. L. 112–81, div. A, title IX, §938, Dec. 31, 2011, 125 Stat. 1547.)
 
 #### Prior Provisions
 

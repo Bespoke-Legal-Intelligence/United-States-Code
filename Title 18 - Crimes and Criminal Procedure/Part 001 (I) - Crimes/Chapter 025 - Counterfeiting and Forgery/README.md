@@ -62,7 +62,7 @@
 
 <b>1992</b>—Pub. L. 102–550, title XV, §1553(b), Oct. 28, 1992, 106 Stat. 4071, added item 474A.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3513, Nov. 29, 1990, 104 Stat. 4922, substituted "or paper used as money." for "used as money or similar to coins" in item 491, "matters" for "entry certificates" in item 496, and"stamps, postage meter stamps," for "stamps" in item 501.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3513, Nov. 29, 1990, 104 Stat. 4922, substituted "or paper used as money." for "used as money or similar to coins" in item 491, "matters" for "entry certificates" in item 496, and "stamps, postage meter stamps," for "stamps" in item 501.
 
 <b>1986</b>—Pub. L. 99–646, §31(b), Nov. 10, 1986, 100 Stat. 3598, redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted "States" for "State".
 

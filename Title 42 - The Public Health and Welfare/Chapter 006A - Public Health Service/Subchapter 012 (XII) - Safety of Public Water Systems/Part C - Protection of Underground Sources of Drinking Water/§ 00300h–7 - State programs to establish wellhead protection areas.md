@@ -10,7 +10,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 &emsp;(3) identify within each wellhead protection area all potential anthropogenic sources of contaminants which may have any adverse effect on the health of persons;
 
-&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures, education, training, and demonstrationprojects to protect the water supply within wellhead protection areas from such contaminants;
+&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures, education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
 
 &emsp;(5) include contingency plans for the location and provision of alternate drinking water supplies for each public water system in the event of well or wellfield contamination by such contaminants; and
 

@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;(9) "cooperative association" means an organization that owns the record interest in the residential cooperative property; or a leasehold of the residential property of a cooperative project and that is responsible for the operation of the cooperative project;
 
-&emsp;(10) "cooperative project" means real estate (A) which has five or more residential cooperative units, in each residential structure, subject to separate use and possession by one ormore individual cooperative unit owners whose interest in such units and in the undivided assets of the cooperative association which are appurtenant to the unit are evidenced by a membership or share interest in a cooperative association and a lease or other muniment of title or possession granted by the cooperative association as the owner of all the cooperative property, and (B) an interest in which is or has been offered for sale or lease or sold, or leased directly or indirectly, through use of any means or instruments of transportation or communication in interstate commerce or of the mails;
+&emsp;(10) "cooperative project" means real estate (A) which has five or more residential cooperative units, in each residential structure, subject to separate use and possession by one or more individual cooperative unit owners whose interest in such units and in the undivided assets of the cooperative association which are appurtenant to the unit are evidenced by a membership or share interest in a cooperative association and a lease or other muniment of title or possession granted by the cooperative association as the owner of all the cooperative property, and (B) an interest in which is or has been offered for sale or lease or sold, or leased directly or indirectly, through use of any means or instruments of transportation or communication in interstate commerce or of the mails;
 
 &emsp;(11) "cooperative property" means the real estate and personal property subject to cooperative ownership and all other property owned by the cooperative association;
 
@@ -32,7 +32,7 @@ For the purpose of this chapter—
 
 &emsp;(15) "interstate commerce" means trade, traffic, transportation, communication, or exchange among the States, or between any foreign country and a State, or any transaction which affects such trade, traffic, transportation, communication, or exchange;
 
-&emsp;(16) "lease" includes any agreement or arrangement containing a condominium or cooperative unit owner's obligation, individually, collectively, or through an association to make payments for a leasehold interest or for other rights to use or possess real estate, or personal property (which rights may include the right to receive services with respect to such real estate or personal property), except a lease does not include mortgages or other such agreements for the purchase of real estate;
+&emsp;(16) "lease" includes any agreement or arrangement containing a condominium or cooperative unit owner's obligation, individually, collectively, or through an association tomake payments for a leasehold interest or for other rights to use or possess real estate, or personal property (which rights may include the right to receive services with respect to such real estate or personal property), except a lease does not include mortgages or other such agreements for the purchase of real estate;
 
 &emsp;(17) "person" means a natural person, corporation, partnership, association, trust or other entity, or any combination thereof;
 

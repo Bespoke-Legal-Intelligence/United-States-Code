@@ -28,7 +28,7 @@ Sec. 2. The Secretary of the Interior is authorized to issue such rules and regu
 
 Sec. 3. The Secretary of the Interior is authorized to redelegate the authority delegated to him by this order to one or more of the following-designated officers: the Deputy Secretary of the Interior and the Assistant Secretaries of the Interior.
 
-Sec. 4. This order supersedes Executive Order No. 9337 of April 24, 1943, entitled "Authorizing the Secretary of the Interior to Withdraw and Reserve Lands of the Public Domain and Other Lands Owned or Controlled by the United States".
+Sec. 4. This order supersedes Executive Order No. 9337 of April 24, 1943, entitled "Authorizing the Secretary ofthe Interior to Withdraw and Reserve Lands of the Public Domain and Other Lands Owned or Controlled by the United States".
 
 #### Ex. Ord. No. 12688. Transfer Authority Choctawhatchee National Forest, Florida
 

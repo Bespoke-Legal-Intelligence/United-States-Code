@@ -40,5 +40,5 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 107–216, Aug. 21, 2002, 11
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

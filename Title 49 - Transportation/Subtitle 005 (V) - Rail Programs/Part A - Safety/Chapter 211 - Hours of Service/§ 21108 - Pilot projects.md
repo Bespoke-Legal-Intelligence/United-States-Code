@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As of the date of enactment of the Rail Safety Improvement Act of 2008, a railroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
+In General.—As of the date of enactment of the Rail Safety Improvement Act of 2008, arailroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
 
 &emsp;(1) a waiver of compliance with this chapter as in effect on the date of enactment of the Rail Safety Improvement Act of 2008; or
 

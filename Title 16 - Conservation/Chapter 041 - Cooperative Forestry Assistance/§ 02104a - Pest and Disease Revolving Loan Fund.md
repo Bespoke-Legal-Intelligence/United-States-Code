@@ -50,7 +50,7 @@ There is established in the Treasury of the United States a revolving fund, to b
 
 #### (2) Administrative expenses
 
-&emsp;An amount not exceeding 10 percent of the amounts in the Fund shall be available for each fiscal year to pay the administrative expenses necessary to carry out this section.
+&emsp;An amount not exceeding 10 percent of the amounts in the Fund shall be available foreach fiscal year to pay the administrative expenses necessary to carry out this section.
 
 #### (d) Transfers of amounts
 

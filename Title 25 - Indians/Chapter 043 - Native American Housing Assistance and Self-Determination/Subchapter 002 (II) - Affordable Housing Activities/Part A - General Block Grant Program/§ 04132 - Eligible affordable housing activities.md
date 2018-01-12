@@ -60,7 +60,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### References in Text
 
-This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "this Act", meaning Pub. L. 104–330,Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
 

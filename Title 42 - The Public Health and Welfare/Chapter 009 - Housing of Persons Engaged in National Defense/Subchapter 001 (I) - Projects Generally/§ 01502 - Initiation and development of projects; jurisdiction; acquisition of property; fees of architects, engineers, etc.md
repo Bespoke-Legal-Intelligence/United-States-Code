@@ -18,7 +18,7 @@ In subsec. (b), "sections 3111 and 3112 of title 40" substituted for "section 35
 
 #### Change of Name
 
-Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, title II, §207(a), (f), 61 Stat. 502, 503, and Secretary of Defense Transfer Order No. 40 \[App. A(75)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1, enacted "Title 10, Armed Forces", which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
+Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, title II, §207(a), (f), 61 Stat. 502, 503, and Secretary of Defense Transfer Order No. 40 \[App. A(75)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501. Sections205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1, enacted "Title 10, Armed Forces", which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Amendments
 

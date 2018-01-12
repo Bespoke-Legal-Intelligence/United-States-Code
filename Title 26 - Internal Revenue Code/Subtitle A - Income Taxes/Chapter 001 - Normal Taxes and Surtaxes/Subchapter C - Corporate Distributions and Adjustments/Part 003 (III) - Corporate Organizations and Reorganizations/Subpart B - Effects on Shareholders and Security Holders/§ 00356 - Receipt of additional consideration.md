@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the principal amount of such securities received exceeds the principal amount of such securities surrendered,
 
-> &emsp;&emsp;then, with respect to such securities received, the term "other property" means only the fair market value of such excess. For purposes of this subparagraph and subparagraph (C) if no securities are surrendered, the excess shall be the entire principal amount of the securities received.
+> &emsp;&emsp;then, with respect to such securities received, the term "other property" means only the fair market value of such excess. For purposes of this subparagraph and subparagraph (C), if no securities are surrendered, the excess shall be the entire principal amount of the securities received.
 
 #### (C) Greater principal amount in section 355 transaction
 

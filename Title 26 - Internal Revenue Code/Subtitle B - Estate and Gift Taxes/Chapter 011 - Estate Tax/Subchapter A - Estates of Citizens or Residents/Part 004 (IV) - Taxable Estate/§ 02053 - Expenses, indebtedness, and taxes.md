@@ -16,7 +16,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (b) Other administration expenses
 
-Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representingexpenses incurred in administering property not subject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
+Subject to the limitations in paragraph (1) of subsection (c), there shall be deducted in determining the taxable estate amounts representing expenses incurred in administering property not subject to claims which is included in the gross estate to the same extent such amounts would be allowable as a deduction under subsection (a) if such property were subject to claims, and such amounts are paid before the expiration of the period of limitation for assessment provided in section 6501.
 
 #### (c) Limitations
 
@@ -28,7 +28,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Certain taxes
 
-&emsp;&emsp;Any income taxes on income received after the death of the decedent, or property taxes not accrued before his death, or any estate, succession, legacy, or inheritance taxes, shall not be deductible under this section.
+&emsp;&emsp;Any income taxes on income received after the death of the decedent, or property taxesnot accrued before his death, or any estate, succession, legacy, or inheritance taxes, shall not be deductible under this section.
 
 #### (C) Certain claims by remaindermen
 
@@ -66,7 +66,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 &emsp;&emsp;<b>For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I,§102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
 <b>1984</b>—Subsec. (c)(1)(C). Pub. L. 98–369, §1027(b), added subpar. (C).
 
-Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2)" for "For provisions that relinquishment of marital rights shall not be deemed a consideration 'in money or money's worth,' see section 2043(b)."
+Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating certain relinquishments of maritalrights as consideration in money or money's worth, see section 2043(b)(2)" for "For provisions that relinquishment of marital rights shall not be deemed a consideration 'in money or money's worth,' see section 2043(b)."
 
 <b>1976</b>—Subsec. (d)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary" in provisions preceding subpar. (A) and following subpar. (B) and struck out "or Territory" after "a State" in subpar. (A).
 

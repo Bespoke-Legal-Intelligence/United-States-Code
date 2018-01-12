@@ -4,7 +4,7 @@ The Secretary of each military department shall—
 
 &emsp;(1) coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;
 
-&emsp;(2) ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
+&emsp;(2) ensure that major system interfaces incorporate commercial standards and otherwidely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
 
 &emsp;(3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
 

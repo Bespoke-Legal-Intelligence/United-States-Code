@@ -12,13 +12,13 @@ Property Subject to Attachment.—(1) Any property in the possession, custody, o
 
 (b)
 
-Availability of Attachment.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+Availability of Attachment.—If the requirements of section 3101 are satisfied, a courtshall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
 
 &emsp;(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
 
 &emsp;&emsp;(A) the contract is not fully secured by real or personal property; or
 
-&emsp;&emsp;(B) the value of the original security is substantially diminished, without any act ofthe United States or the person to whom the security was given, below the amount of the debt;
+&emsp;&emsp;(B) the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt;
 
 &emsp;(2) in an action against the debtor for damages in tort;
 
@@ -92,7 +92,7 @@ Reduction or Dissolution of Attachment.—(1) If an excessive or unreasonable at
 
 (h)
 
-Replevin of Attached Property by Debtor; Bond.—If attached property is not sold before judgment, the debtor may replevy such property or any part thereof by giving a bond approved by counsel for the United States or the court and payable to the United States in doublethe reasonable value of the property to be replevied or double the value of the claim, whichever is less.
+Replevin of Attached Property by Debtor; Bond.—If attached property is not sold before judgment, the debtor may replevy such property or any part thereof by giving a bond approved by counsel for the United States or the court and payable to the United States in double the reasonable value of the property to be replevied or double the value of the claim, whichever is less.
 
 (i)
 
@@ -115,4 +115,8 @@ Judgment for the united states when personal property replevied.—With respect 
 Restoration of property and exoneration of replevin bond.—If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4942.)
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 

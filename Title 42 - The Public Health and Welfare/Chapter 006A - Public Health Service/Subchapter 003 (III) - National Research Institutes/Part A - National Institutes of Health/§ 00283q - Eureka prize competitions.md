@@ -8,7 +8,7 @@ Pursuant to the authorities and processes established under section 3719 of titl
 
 &emsp;(2) Improving health outcomes, particularly with respect to human diseases and conditions—
 
-&emsp;&emsp;(A) for which public and private investment in research is disproportionately smallrelative to Federal Government expenditures on prevention and treatment activities with respect to such diseases and conditions, such that Federal expenditures on health programs would be reduced;
+&emsp;&emsp;(A) for which public and private investment in research is disproportionately small relative to Federal Government expenditures on prevention and treatment activities with respect to such diseases and conditions, such that Federal expenditures on health programs would be reduced;
 
 &emsp;&emsp;(B) that are serious and represent a significant disease burden in the United States; or
 

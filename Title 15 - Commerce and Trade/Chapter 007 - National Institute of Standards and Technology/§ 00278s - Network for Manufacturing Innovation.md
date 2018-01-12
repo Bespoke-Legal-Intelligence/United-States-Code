@@ -280,7 +280,7 @@
 
 #### (A) Assessments
 
-&emsp;&emsp;Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
+&emsp;&emsp;Not less frequently than once every 2 years, the Comptroller General shall submitto Congress an assessment of the operation of the Program during the most recent 2-year period.
 
 #### (B) Final assessment
 

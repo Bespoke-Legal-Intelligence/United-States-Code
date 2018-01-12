@@ -4,3 +4,7 @@ There are authorized to be appropriated such funds as may be necessary to carry 
 
 (Pub. L. 95–334, title IV, §404, Aug. 4, 1978, 92 Stat. 434.)
 
+#### Effective Date
+
+Section effective Oct. 1, 1978, see section 406 of Pub. L. 95–334, set out as a note under section 2201 of this title.
+

@@ -202,7 +202,7 @@ Reviews by Inspector General.—
 
 In general.—The Inspector General of the Administration shall conduct a review of—
 
-&emsp;&emsp;"(A) the extent to which recipients of grants under the program are measuring the performanceof the activities being conducted and the results of the measurements; and
+&emsp;&emsp;"(A) the extent to which recipients of grants under the program are measuring the performance of the activities being conducted and the results of the measurements; and
 
 &emsp;&emsp;"(B) the overall management and effectiveness of the program.
 

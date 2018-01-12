@@ -26,7 +26,7 @@ In any action brought under subsection (a), the court shall have jurisdiction to
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (B), (E), (F), (2) and (b), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(A), (B), (E), (F), (2) and (b), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -43,4 +43,8 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

@@ -8,7 +8,7 @@ Duty to Provide.—A wire or electronic communication service provider shall com
 
 Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
 
-&emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the firstamendment to the Constitution of the United States; and
 
 &emsp;(2) request the name, address, and length of service of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
@@ -118,7 +118,7 @@ Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out "in a position not low
 
 &emsp;&emsp;"(i) an individual who is engaging or has engaged in international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States; or
 
-&emsp;&emsp;"(ii) a foreign power or an agent of a foreign power under circumstances giving reason to believethat the communication concerned international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States."
+&emsp;&emsp;"(ii) a foreign power or an agent of a foreign power under circumstances giving reason to believe that the communication concerned international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States."
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–293 inserted "local and long distance" before "toll billing records".
 
@@ -131,4 +131,8 @@ Required Certification.—The Director of the Federal Bureau of Investigation (o
 &emsp;"(2) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)."
 
 Subsec. (e). Pub. L. 103–142, §2, inserted ", and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate," after "Senate".
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

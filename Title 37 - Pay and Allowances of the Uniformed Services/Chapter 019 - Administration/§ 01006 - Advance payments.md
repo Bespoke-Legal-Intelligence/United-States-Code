@@ -16,7 +16,7 @@
 
 (2)(A) Notwithstanding any other provision of law, an obligation for an advance of pay made pursuant to this section shall be recorded as an obligation only in the fiscal year in which the entitlement of the member to the pay accrues.
 
-(B) Current appropriations available for advance payments under this section may be transferred to the prior fiscal year appropriation available for the same purpose in the amount of any unliquidated advance payments that remainat the end of such prior fiscal year. Such unliquidated advance payments shall then be credited to the current appropriation.
+(B) Current appropriations available for advance payments under this section may be transferred to the prior fiscal year appropriation available for the same purpose in the amount of any unliquidated advance payments that remain at the end of such prior fiscal year. Such unliquidated advance payments shall then be credited to the current appropriation.
 
 (f) Under regulations prescribed by the Secretary of Homeland Security, an advance of pay of not more than three months' pay may be made to an officer of the Coast Guard who is ordered to sea duty or to or from shore duty beyond the seas. In addition, the Commandant of the Coast Guard may direct such advances as he considers necessary and proper to members of the Coast Guard stationed at distant stations where the pay and emoluments to which they are entitled cannot be paid regularly.
 
@@ -74,7 +74,7 @@ In subsections (a) and (b), the words "a member of an armed force" are substitut
 
 In subsection (b), the words "may be paid in advance" are substituted for the words "may have their pay and emoluments advanced".
 
-In subsection (c), the words "Secretary concerned" are substituted for the words "heads of the departments concerned" to conform to the definition in section 101(5) of this revised title. The words "member of an armed force" are substituted for the words "members of the armed services". The words "who are" are substituted for the words "in the event such dependents are". The words "under subsection (a) or (b) of this section" are substituted for the words "in section 310c of this title" to reflect the section of this revised title which restates that section. The words "dependents of members of the armed forces" are substituted for the words "military dependents." The words "at a place" are omitted as surplusage.
+In subsection (c), the words "Secretary concerned" are substituted for the words "heads of the departments concerned" to conform to the definition in section 101(5) of this revised title. The words "member of an armed force" are substituted for the words "members of the armed services". The words "who are" are substituted for the words "in the event such dependents are". The words "under subsection (a) or (b) of this section" are substituted for the words "in section 310cof this title" to reflect the section of this revised title which restates that section. The words "dependents of members of the armed forces" are substituted for the words "military dependents." The words "at a place" are omitted as surplusage.
 
 In subsection (d), the words "If a" are substituted for the words "In the event the". The words "credited to the account" are substituted for the words "passed to credit in the account".
 

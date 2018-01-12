@@ -1,6 +1,6 @@
 ### §274. Disallowance of certain entertainment, etc., expenses
 
-#### (a) Entertainment, amusement, or recreation
+#### (a) Entertainment, amusement, recreation, or qualified transportation fringes
 
 #### (1) In general
 
@@ -8,13 +8,11 @@
 
 #### (A) Activity
 
-&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business, or
+&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or
 
 #### (B) Facility
 
 &emsp;&emsp;With respect to a facility used in connection with an activity referred to in subparagraph (A).
-
-> &emsp;In the case of an item described in subparagraph (A), the deduction shall in no event exceed the portion of such item which meets the requirements of subparagraph (A).
 
 #### (2) Special rules
 
@@ -24,11 +22,13 @@
 
 &emsp;&emsp;(B) An activity described in section 212 shall be treated as a trade or business.
 
-&emsp;&emsp;(C) In the case of a club, paragraph (1)(B) shall apply unless the taxpayer establishes that the facility was used primarily for the furtherance of the taxpayer's trade or business and that the item was directly related to the active conduct of such trade or business.
-
 #### (3) Denial of deduction for club dues
 
-&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowedunder this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
+&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowed under this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
+
+#### (4) Qualified transportation fringes
+
+&emsp;No deduction shall be allowed under this chapter for the expense of any qualified transportation fringe (as defined in section 132(f)) provided to an employee of the taxpayer.
 
 #### (b) Gifts
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
+&emsp;In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162 or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
 
 #### (2) Exception
 
@@ -70,13 +70,11 @@ No deduction or credit shall be allowed—
 
 &emsp;(1) under section 162 or 212 for any traveling expense (including meals and lodging while away from home),
 
-&emsp;(2) for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,
+&emsp;(2) for any expense for gifts, or
 
-&emsp;(3) for any expense for gifts, or
+&emsp;(3) with respect to any listed property (as defined in section 280F(d)(4)),
 
-&emsp;(4) with respect to any listed property (as defined in section 280F(d)(4)),
-
-> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount of such expense or other item, (B) the time and place of the travel, entertainment, amusement, recreation, or use of the facility or property, or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of persons entertained, using the facility or property, or receiving the gift. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
+> unless the taxpayer substantiates by adequate records or by sufficient evidence corroborating the taxpayer's own statement (A) the amount of such expense or other item, (B) the time and place of the travel or the date and description of the gift, (C) the business purpose of the expense or other item, and (D) the business relationship to the taxpayer of the person receiving the benefit. The Secretary may by regulations provide that some or all of the requirements of the preceding sentence shall not apply in the case of an expense which does not exceed an amount prescribed pursuant to such regulations. This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).
 
 #### (e) Specific exceptions to application of subsection (a)
 
@@ -104,7 +102,7 @@ Subsection (a) shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) is subject to the requirements of section 16(a) of the Securities Exchange Act of 1934 with respect to the taxpayer or a related party to the taxpayer, or
 
-&emsp;&emsp;&emsp;&emsp;(II) would be subject to such requirements if the taxpayer (or such relatedparty) were an issuer of equity securities referred to in such section.
+&emsp;&emsp;&emsp;&emsp;(II) would be subject to such requirements if the taxpayer (or such related party) were an issuer of equity securities referred to in such section.
 
 &emsp;&emsp;&nbsp;For purposes of this clause, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).
 
@@ -168,7 +166,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (2) Conventions on cruise ships
 
-&emsp;In the case of any individual who attends a convention, seminar, or other meeting which is held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
+&emsp;In the case of any individual who attends a convention, seminar, or other meeting whichis held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
 
 &emsp;&emsp;(A) the cruise ship is a vessel registered in the United States; and
 
@@ -292,13 +290,23 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (A) Employee achievement award
 
-&emsp;&emsp;The term "employee achievement award" means an item of tangible personal property which is—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) transferred by an employer to an employee for length of service achievement or safety achievement,
+&emsp;&emsp;&emsp;The term "employee achievement award" means an item of tangible personal property which is—
 
-&emsp;&emsp;&emsp;(ii) awarded as part of a meaningful presentation, and
+&emsp;&emsp;&emsp;&emsp;(I) transferred by an employer to an employee for length of service achievement or safety achievement,
 
-&emsp;&emsp;&emsp;(iii) awarded under conditions and circumstances that do not create a significant likelihood of the payment of disguised compensation.
+&emsp;&emsp;&emsp;&emsp;(II) awarded as part of a meaningful presentation, and
+
+&emsp;&emsp;&emsp;&emsp;(III) awarded under conditions and circumstances that do not create a significant likelihood of the payment of disguised compensation.
+
+#### (ii) Tangible personal property
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "tangible personal property" shall not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) cash, cash equivalents, gift cards, gift coupons, or gift certificates (other than arrangements conferring only the right to select and receive tangible personal property from a limited array of such items pre-selected or pre-approved by the employer), or
+
+&emsp;&emsp;&emsp;&emsp;(II) vacations, meals, lodging, tickets to theater or sporting events, stocks, bonds, other securities, and other similar items.
 
 #### (B) Qualified plan award
 
@@ -308,7 +316,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;An employee achievement award shall not be treated as a qualified plan award for any taxable year if the average cost of all employee achievement awards which are provided by the employer during the year, and which would be qualified plan awards but for this subparagraph, exceeds $400. For purposes of the preceding sentence, average cost shall be determined by including the entire cost of qualified plan awards, without taking into account employee achievement awards of nominal value.
+&emsp;&emsp;&emsp;An employee achievement award shall not be treated as a qualified plan award forany taxable year if the average cost of all employee achievement awards which are provided by the employer during the year, and which would be qualified plan awards but for this subparagraph, exceeds $400. For purposes of the preceding sentence, average cost shall be determined by including the entire cost of qualified plan awards, without taking into account employee achievement awards of nominal value.
 
 #### (4) Special rules
 
@@ -348,27 +356,15 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;(B) any other expense to the extent provided in regulations.
 
-#### (l) Additional limitations on entertainment tickets
+#### (l) Transportation and commuting benefits
 
-#### (1) Entertainment tickets
+#### (1) In general
 
-#### (A) In general
+&emsp;No deduction shall be allowed under this chapter for any expense incurred for providing any transportation, or any payment or reimbursement, to an employee of the taxpayer in connection with travel between the employee's residence and place of employment, except as necessary for ensuring the safety of the employee.
 
-&emsp;&emsp;In determining the amount allowable as a deduction under this chapter for any ticket for any activity or facility described in subsection (d)(2), the amount taken into account shall not exceed the face value of such ticket.
+#### (2) Exception
 
-#### (B) Exception for certain charitable sports events
-
-&emsp;&emsp;Subparagraph (A) shall not apply to any ticket for any sports event—
-
-&emsp;&emsp;&emsp;(i) which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
-
-&emsp;&emsp;&emsp;(ii) all of the net proceeds of which are contributed to such organization, and
-
-&emsp;&emsp;&emsp;(iii) which utilizes volunteers for substantially all of the work performed in carrying out such event.
-
-#### (2) Skyboxes, etc.
-
-&emsp;In the case of a skybox or other private luxury box leased for more than 1 event, the amount allowable as a deduction under this chapter with respect to such events shall not exceed the sum of the face value of non-luxury box seat tickets for the seats in such box covered by the lease. For purposes of the preceding sentence, 2 or more related leases shall be treated as 1 lease.
+&emsp;In the case of any qualified bicycle commuting reimbursement (as described in section 132(f)(5)(F)), this subsection shall not apply for any amounts paid or incurred after December 31, 2017, and before January 1, 2026.
 
 #### (m) Additional limitations on travel expenses
 
@@ -400,17 +396,11 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;(C) such expenses would otherwise be deductible by the spouse, dependent, or other individual.
 
-#### (n) Only 50 percent of meal and entertainment expenses allowed as deduction
+#### (n) Only 50 percent of meal expenses allowed as deduction
 
 #### (1) In general
 
-&emsp;The amount allowable as a deduction under this chapter for—
-
-&emsp;&emsp;(A) any expense for food or beverages, and
-
-&emsp;&emsp;(B) any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such activity,
-
-> &emsp;shall not exceed 50 percent of the amount of such expense or item which would (but for this paragraph) be allowable as a deduction under this chapter.
+&emsp;The amount allowable as a deduction under this chapter for any expense for food or beverages shall not exceed 50 percent of the amount of such expense which would (but for this paragraph) be allowable as a deduction under this chapter.
 
 #### (2) Exceptions
 
@@ -418,13 +408,9 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;(A) such expense is described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),
 
-&emsp;&emsp;(B) in the case of an expense for food or beverages, such expense is excludable from the gross income of the recipient under section 132 by reason of subsection (e) thereof (relating to de minimis fringes),
+&emsp;&emsp;(B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
 
-&emsp;&emsp;(C) such expense is covered by a package involving a ticket described in subsection (l)(1)(B),
-
-&emsp;&emsp;(D) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
-
-&emsp;&emsp;(E) such expense is for food or beverages—
+&emsp;&emsp;(C) such expense is for food or beverages—
 
 &emsp;&emsp;&emsp;(i) required by any Federal law to be provided to crew members of a commercial vessel,
 
@@ -438,17 +424,31 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 &emsp;&emsp;&emsp;(iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
 
-> &emsp;Clauses (i) and (ii) of subparagraph (E) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (D).
+> &emsp;Clauses (i) and (ii) of subparagraph (C) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (B).
 
 #### (3) Special rule for individuals subject to Federal hours of service
 
 &emsp;In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting "80 percent" for "50 percent".
 
-#### (o) Regulatory authority
+#### (o) <sup>1</sup> Regulatory authority
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–97, title I, §§13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, 131 Stat. 2124–2126, 2132.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–97, title I, §13304(d), (e)(2), Dec. 22, 2017, 131 Stat. 2126, provided that, applicable to amounts incurred or paid after Dec. 31, 2025, this section is amended by redesignating subsection (o) as (p) and adding the following new subsection (o):</i>
+
+#### <i>(o) Meals provided at convenience of employer</i>
+
+<i>No deduction shall be allowed under this chapter for—</i>
+
+&emsp;<i>(1) any expense for the operation of a facility described in section 132(e)(2), and any expense for food or beverages, including under section 132(e)(1), associated with such facility, or</i>
+
+&emsp;<i>(2) any expense for meals described in section 119(a).</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### References in Text
 
@@ -457,6 +457,44 @@ Section 16 of the Securities Exchange Act of 1934, referred to in subsec. (e)(2)
 Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to section 2702(a)(1)(A) of Title 19, Customs Duties.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–97, §13304(c)(1)(A), substituted "recreation, or qualified transportation fringes" for "or recreation" in heading.
+
+Subsec. (a)(1). Pub. L. 115–97, §13304(a)(1)(B), struck out concluding provisions which read as follows: "In the case of an item described in subparagraph (A), the deduction shall in no event exceed the portion of such item which meets the requirements of subparagraph (A)."
+
+Subsec. (a)(1)(A). Pub. L. 115–97, §13304(a)(1)(A), struck out "unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business," after "or recreation,".
+
+Subsec. (a)(2)(C). Pub. L. 115–97, §13304(a)(1)(C), struck out subpar. (C) which read as follows: "In the case of a club, paragraph (1)(B) shall apply unless the taxpayer establishes that the facility was used primarily for the furtherance of the taxpayer's trade or business andthat the item was directly related to the active conduct of such trade or business."
+
+Subsec. (a)(4). Pub. L. 115–97, §13304(c)(1)(B), added par. (4).
+
+Subsec. (d). Pub. L. 115–97, §13304(a)(2)(A)(ii), in concluding provisions, struck out ", entertainment, amusement, recreation, or use of the facility or property," after "travel" and substituted "(D) the business relationship to the taxpayer of the person receiving the benefit" for "(D) the business relationship to the taxpayer of persons entertained, using the facility or property, or receiving the gift".
+
+Subsec. (d)(2) to (4). Pub. L. 115–97, §13304(a)(2)(A)(i), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,".
+
+Subsec. (j)(3)(A). Pub. L. 115–97, §13310(a), designated text of subpar. (A) as cl. (i) and inserted heading, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
+
+Subsec. (l). Pub. L. 115–97, §13304(a)(2)(B), (c)(2), added subsec. (l) and struck out former subsec. (l) which related to additional limitations on entertainment tickets.
+
+Subsec. (n). Pub. L. 115–97, §13304(a)(2)(C), struck out "and entertainment" after "meal" in heading.
+
+Subsec. (n)(1). Pub. L. 115–97, §13304(a)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) related to amount allowable as a deduction for meal and entertainment expenses.
+
+Subsec. (n)(2). Pub. L. 115–97, §13304(a)(2)(E)(iv), (b)(4), successively amended last sentence of concluding provisions, resulting in substitution of "in subparagraph (B)" for "in subparagraph (D)".
+
+Pub. L. 115–97, §13304(a)(2)(E)(iii), (b)(3), which directed amendment of the "last sentence" of par. (2) by first substituting "of subparagraph (D)" for "of subparagraph (E)" and then "of subparagraph (C)" for "of subparagraph (D)", were executed by making both substitutions in the first sentence of the concluding provisions, to reflect the probable intent of Congress.
+
+Subsec. (n)(2)(B). Pub. L. 115–97, §13304(b)(1), (2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "such expense is excludable from the gross income of the recipient under section 132 by reason of subsection (e) thereof (relating to de minimis fringes),".
+
+Pub. L. 115–97, §13304(a)(2)(E)(i), struck out "in the case of an expense for food or beverages," before "such expense".
+
+Subsec. (n)(2)(C). Pub. L. 115–97, §13304(b)(2), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+
+Pub. L. 115–97, §13304(a)(2)(E)(ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "such expense is covered by a package involving a ticket described in subsection (l)(1)(B),".
+
+Subsec. (n)(2)(D), (E). Pub. L. 115–97, §13304(a)(2)(E)(ii), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+
+Subsecs. (o), (p). Pub. L. 115–97, §13304(d), added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <b>2014</b>—Subsec. (n)(3). Pub. L. 113–295 struck out subpar. (A) designation and heading, substituted "substituting '80 percent' for" for "substituting 'the applicable percentage' for", and struck out subpar. (B) which listed the applicable percentage for taxable years 1998 to 2008 or thereafter.
 
@@ -506,7 +544,7 @@ Subsec. (n)(2). Pub. L. 100–647, §6003(a), struck out "or" at end of subpar. 
 
 Pub. L. 100–647, §1001(g)(4)(A), struck out "or" at end of subpar. (C), substituted ", or" for the period at end of subpar. (D), and added subpar. (E) and flush sentence at end.
 
-Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "subsection (a) does not apply to such expense by reason of paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),".
+Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:"subsection (a) does not apply to such expense by reason of paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),".
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §122(c)(1)–(3), and Pub. L. 100–647, §1018(u)(2), made conforming amendments to subpars. (A) and (B) and struck out subpar. (C) which read as follows: "an item of tangible personal property which is awarded to an employee by reason of length of service, productivity, or safety achievement, but only to the extent that—
 
@@ -556,7 +594,7 @@ Subsec. (h)(5). Pub. L. 97–424, §543(a)(2), added par. (5).
 
 Subsec. (h)(6). Pub. L. 98–67, §227(a), added par. (6).
 
-<b>1982</b>—Subsec. (e)(3). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (3) is amended by inserting "subchapter A of" before "chapter 24". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308)of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (e)(3). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (3) is amended by inserting "subchapter A of" before "chapter 24". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1981</b>—Subsec. (b)(1)(C). Pub. L. 97–34, §265(a), excluded from term "gift" an award for productivity, designated existing provisions as cl. (i), and as so designated, increased the limitation to $400 from $100, and added cl. (ii).
 
@@ -574,7 +612,7 @@ Subsec. (a)(2)(C). Pub. L. 95–600, §361(b), as amended by Pub. L. 96–222, �
 
 Subsec. (h)(3). Pub. L. 95–600, §701(g)(3), substituted "at least one-half" for "more than one-half" in first sentence.
 
-Subsec. (h)(6)(D). Pub. L. 95–600, §701(g)(1), designated existing provisions as cl. (i), inserted introductory phrase "Except as provided in clause (ii)" and substituted "For the purposes" for "For purpose", and added cl. (ii).
+Subsec. (h)(6)(D). Pub. L. 95–600, §701(g)(1), designated existing provisions as cl. (i), inserted introductoryphrase "Except as provided in clause (ii)" and substituted "For the purposes" for "For purpose", and added cl. (ii).
 
 Subsec. (h)(6)(E). Pub. L. 95–600, §701(g)(2), added subpar. (E).
 
@@ -585,6 +623,20 @@ Subsec. (h). Pub. L. 94–455, §602(a), added subsec. (h). Former subsec. (h) r
 Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former subsec. (h) as (i) and struck out "or his delegate" after "Secretary".
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 limited subsec. (c) to individuals traveling outside the United States.
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13304(e), Dec. 22, 2017, 131 Stat. 2126, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 7701 of this title\] shall apply to amounts incurred or paid after December 31, 2017.
+
+"(2)
+
+Effective date for elimination of deduction for meals provided at convenience of employer.—The amendments made by subsection (d) \[amending this section\] shall apply to amounts incurred or paid after December 31, 2025."
+
+Pub. L. 115–97, title I, §13310(b), Dec. 22, 2017, 131 Stat. 2132, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2017."
 
 #### Effective Date of 2014 Amendment
 
@@ -620,9 +672,9 @@ Amendment by section 1001(g)(1)–(4)(A), (5) of Pub. L. 100–647 effective, ex
 
 Pub. L. 100–647, title VI, §6003(b), Nov. 10, 1988, 102 Stat. 3685, provided that:
 
-"(1) Clauses (i) and (ii) of section 274(n)(2)(F) of the 1986 Code, as added by subsection (a), shall apply to taxable years beginning after December 31, 1988.
+"(1) Clauses (i) and (ii) of section 274(n)(2)(F) \[now 274(n)(2)(C)\] of the 1986 Code, as added by subsection (a), shall apply to taxable years beginning after December 31, 1988.
 
-"(2) Clauses (iii) and (iv) of section 274(n)(2)(F) of the 1986 Code, as added by subsection (a), shall apply to taxable years beginning after December 31, 1987."
+"(2) Clauses (iii) and (iv) of section 274(n)(2)(F) \[now 274(n)(2)(C)\] of the 1986 Code, as added by subsection (a), shall apply to taxable years beginning after December 31, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -638,7 +690,7 @@ Pub. L. 99–44, §6(a)–(c), May 24, 1985, 99 Stat. 78, 79, as amended by Pub.
 
 "(a)
 
-Repeals.—The amendment and repeals made by subsections (a) and (b) of section 1 \[amending this section and repealing section 179(b)(2), (3) of Pub. L. 98–369 which had amended sections 6653 and 6695 of this title\] shall take effect as if included in the amendmentsmade by section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].
+Repeals.—The amendment and repeals made by subsections (a) and (b) of section 1 \[amending this section and repealing section 179(b)(2), (3) of Pub. L. 98–369 which had amended sections 6653 and 6695 of this title\] shall take effect as if included in the amendments made by section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].
 
 "(b)
 
@@ -716,7 +768,7 @@ For treatment of use of automobile by I.R.S. special agent for purposes of this 
 
 #### Substantiation by Adequate Contemporaneous Records
 
-Pub. L. 99–44, §1(a), May 24, 1985, 99 Stat. 77, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided in part that: "the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word 'contemporaneous' had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\]."
+Pub. L. 99–44, §1(a), May 24, 1985, 99 Stat. 77, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: "the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word 'contemporaneous' had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\]."
 
 #### Use of Facilities in Case of Independent Contractors, Etc.
 
@@ -733,4 +785,6 @@ Information return requirement.—Clause (i) shall not apply to any amount paid 
 "(iii)
 
 Application of subparagraph.—This subparagraph shall only apply with respect to expenses paid or incurred during 1979 or 1980."
+
+<i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

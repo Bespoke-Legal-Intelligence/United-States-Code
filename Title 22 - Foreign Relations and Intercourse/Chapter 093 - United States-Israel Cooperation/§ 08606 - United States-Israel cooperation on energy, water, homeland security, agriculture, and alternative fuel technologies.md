@@ -42,7 +42,7 @@ Subsec. (c)(4). Pub. L. 114–304, §2(b)(3)–(5), added par. (4).
 
 #### United States-Israel Anti-Tunnel Cooperation
 
-Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562, provided that:
+Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, §1278(a), Dec. 12, 2017, 131 Stat. 1700, provided that:
 
 "(a)
 
@@ -86,13 +86,17 @@ Matching contribution.—Support may not be provided under this subsection unles
 
 Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $50,000,000.
 
+&emsp;"(5)
+
+Use of certain amounts for rtd\&e activities in the united states.—Of the amount provided by the United States in support under paragraph (1), not less than 50 percent of such amount shall be used for research, development, test, and evaluation activities in the United States in connection with such support.
+
 "(c)
 
 Lead Agency.—The Secretary of Defense shall designate an appropriate research and development entity of a military department as the lead agency of the Department of Defense in carrying out this section.
 
 "(d)
 
-Semiannual Reports.—The Secretary of Defense shall submit to the appropriate committees of Congresson a semiannual basis a report that contains a copy of the most recent semiannual report provided by the Government of Israel to the Department of Defense pursuant to subsection (a)(2)(B)(iii).
+Semiannual Reports.—The Secretary of Defense shall submit to the appropriate committees of Congress on a semiannual basis a report that contains a copy of the most recent semiannual report provided by the Government of Israel to the Department of Defense pursuant to subsection (a)(2)(B)(iii).
 
 "(e)
 
@@ -104,7 +108,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 "(f)
 
-Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2018."
+Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2020."
 
 #### Constructive Regional Energy Cooperation
 

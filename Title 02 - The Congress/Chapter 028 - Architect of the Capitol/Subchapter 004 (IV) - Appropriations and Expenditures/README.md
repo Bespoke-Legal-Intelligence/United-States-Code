@@ -18,3 +18,4 @@
 - [&sect; 01869 - Advance payments](%C2%A7%2001869%20-%20Advance%20payments.md)
 - [&sect; 01870 - House Historic Buildings Revitalization Trust Fund](%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md)
 - [&sect; 01871 - Expired appropriations available for deposit into Employees' Compensation Fund](%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%27%20Compensation%20Fund.md)
+- [&sect; 01872 - Use of expired funds for unemployment compensation payments](%C2%A7%2001872%20-%20Use%20of%20expired%20funds%20for%20unemployment%20compensation%20payments.md)

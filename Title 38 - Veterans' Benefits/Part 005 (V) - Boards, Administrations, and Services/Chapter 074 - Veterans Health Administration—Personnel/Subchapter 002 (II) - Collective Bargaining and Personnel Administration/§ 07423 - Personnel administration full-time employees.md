@@ -28,7 +28,7 @@
 
 (d) As used in this section:
 
-&emsp;(1) The term "affiliated institution" means a medical school or other institution of higher learning with which the Secretary has a contract or agreement as referred to in section 7313 of this title for the training or education of health personnel.
+&emsp;(1) The term "affiliated institution" means a medical school or other institution of higherlearning with which the Secretary has a contract or agreement as referred to in section 7313 of this title for the training or education of health personnel.
 
 &emsp;(2) The term "remuneration" means the receipt of any amount of monetary benefit from any non-Department source in payment for carrying out any professional responsibilities.
 

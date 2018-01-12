@@ -6,7 +6,7 @@ Release of Drug Test Results to Coast Guard.—The Secretary of the Navy may rel
 
 (b)
 
-Waiver.—The results of a drug test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note).
+Waiver.—The results of a drug test of an employee may be released under subsection (a)without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note).
 
 (Added Pub. L. 105–261, div. A, title XI, §1103(a), Oct. 17, 1998, 112 Stat. 2141.)
 

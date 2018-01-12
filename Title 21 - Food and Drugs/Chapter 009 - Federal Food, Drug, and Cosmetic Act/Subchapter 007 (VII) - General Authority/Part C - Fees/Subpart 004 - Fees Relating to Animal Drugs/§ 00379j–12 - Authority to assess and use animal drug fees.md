@@ -32,7 +32,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (E) Refund of fee if application withdrawn
 
-&emsp;&emsp;If an animal drug application or a supplemental animal drug application is withdrawn after the application or supplement was filed, the Secretary may refund the fee or portion of the fee paid under subparagraph (B) if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund the fee under this paragraph. A determination by the Secretaryconcerning a refund under this paragraph shall not be reviewable.
+&emsp;&emsp;If an animal drug application or a supplemental animal drug application is withdrawn after the application or supplement was filed, the Secretary may refund the fee or portion of the fee paid under subparagraph (B) if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund the fee under this paragraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
 
 #### (2) Animal drug product fee
 
@@ -48,7 +48,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (B) Payment; fee due date
 
-&emsp;&emsp;Such fee shall be payable for the fiscal year in which the animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the animal drug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be due each subsequent fiscal year that the product remains listed, upon the later of—
+&emsp;&emsp;Such fee shall be payable for the fiscal year in which the animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the animaldrug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be due each subsequent fiscal year that the product remains listed, upon the later of—
 
 &emsp;&emsp;&emsp;(i) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section; or
 
@@ -82,13 +82,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (C) Limitation
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;An establishment shall be assessed only one fee per fiscal year under this section, subject to clause (ii).
-
-#### (ii) Certain manufacturers
-
-&emsp;&emsp;&emsp;If a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year.
+&emsp;&emsp;An establishment shall be assessed only one fee per fiscal year under this section.
 
 #### (4) Animal drug sponsor fee
 
@@ -208,7 +202,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (C) Certification
 
-&emsp;&emsp;The Secretary shall require any person who applies for a waiver under paragraph (1)(E) to certify their qualification for the waiver. The Secretary shall periodically publish in the Federal Register a list of persons making such certifications.
+&emsp;&emsp;The Secretary shall require any person who applies for a waiver under paragraph\(1)(E) to certify their qualification for the waiver. The Secretary shall periodically publish in the Federal Register a list of persons making such certifications.
 
 #### (e) Effect of failure to pay fees
 
@@ -246,7 +240,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 &emsp;&emsp;&emsp;(i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
-&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year followingthe subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in subparagraph (A)(ii); and
+&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in subparagraph (A)(ii); and
 
 &emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in subparagraph (A)(ii).
 
@@ -262,7 +256,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (A) Offset of overcollections
 
-&emsp;&emsp;If the sum of the cumulative amount of fees collected under this section for fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 (including any increased fee collections attributable to subparagraph (B)), exceeds the cumulative amount appropriated pursuant to paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
+&emsp;&emsp;If the sum of the cumulative amount of fees collected under this section for fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 (including any increased fee collections attributable to subparagraph (B)), exceeds the cumulative amount appropriated pursuant to paragraph\(3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
 
 #### (B) Recovery of collection shortfalls
 
@@ -298,7 +292,7 @@ The Secretary shall—
 
 &emsp;(2) adopt other administrative procedures to ensure that review times of abbreviated new animal drug applications do not increase from their current level due to activities under the user fee program.
 
-(June 25, 1938, ch. 675, §740, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1363; amended Pub. L. 110–316, title I, §103, Aug. 14, 2008, 122 Stat. 3510; Pub. L. 113–14, title I, §103, June 13, 2013, 127 Stat. 454.)
+(June 25, 1938, ch. 675, §740, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1363; amended Pub. L. 110–316, title I, §103, Aug. 14, 2008, 122 Stat. 3510; Pub. L. 113–14, title I, §103, June 13, 2013, 127 Stat. 454; Pub. L. 115–52, title I, §102(a)(2), Aug. 18, 2017, 131 Stat. 1008.)
 
 #### Termination of Section
 
@@ -306,13 +300,23 @@ The Secretary shall—
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(3)(C). Pub. L. 115–52 amended subpar. (C) generally. Prior to amendment, text read as follows:
+
+"(i)
+
+In general.—An establishment shall be assessed only one fee per fiscal year under this section, subject to clause (ii).
+
+"(ii)
+
+Certain manufacturers.—If a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title, such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title, within a single fiscal year."
+
 <b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use animal drug fees.
 
 <b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–316, §103(a)(1), inserted ", except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title" after "for an animal drug application".
 
 Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §103(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i)."
 
-Subsec. (b)(1). Pub. L. 110–316, §103(b)(1), substituted "and supplemental and other animal drug applicationfees" for "and supplemental animal drug application fees" and "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
+Subsec. (b)(1). Pub. L. 110–316, §103(b)(1), substituted "and supplemental and other animal drug application fees" for "and supplemental animal drug application fees" and "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
 
 Subsec. (b)(2). Pub. L. 110–316, §103(b)(2), substituted "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
 
@@ -320,7 +324,7 @@ Subsec. (b)(3). Pub. L. 110–316, §103(b)(3), substituted "$3,815,000 for fisc
 
 Subsec. (b)(4). Pub. L. 110–316, §103(b)(4), substituted "$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013." for "$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008."
 
-Subsec. (c)(1). Pub. L. 110–316, §103(c)(1)–(3), redesignated par. (2) as (1), substituted "The fee revenues shall be adjusted each fiscal year after fiscal year 2009" for "After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004" in introductory provisions, struck out ", as adjusted for inflation under paragraph (1)" before period in subpar. (B), and struck out former par. (1) relating to inflation adjustment.
+Subsec. (c)(1). Pub. L. 110–316, §103(c)(1)–(3), redesignated par. (2) as (1), substituted "The fee revenues shallbe adjusted each fiscal year after fiscal year 2009" for "After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004" in introductory provisions, struck out ", as adjusted for inflation under paragraph (1)" before period in subpar. (B), and struck out former par. (1) relating to inflation adjustment.
 
 Subsec. (c)(2). Pub. L. 110–316, §103(c)(2), (4), redesignated par. (3) as (2) and substituted "2013" for "2008" in two places and "2014" for "2009". Former par. (2) redesignated (1).
 
@@ -339,6 +343,10 @@ Subsec. (g)(3)(A) to (E). Pub. L. 110–316, §103(d), amended subpars. (A) to (
 "(E) $10,000,000 for fiscal year 2008;".
 
 Subsec. (g)(4). Pub. L. 110–316, §103(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 2 of this part to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under section 379g of this title.
 
 #### Effective Date of 2013 Amendment
 

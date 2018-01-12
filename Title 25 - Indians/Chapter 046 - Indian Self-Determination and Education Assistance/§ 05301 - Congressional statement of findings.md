@@ -38,7 +38,7 @@ Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: "This Act 
 
 Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: "This title \[see Tables for classification\] may be cited as the 'Indian Self-Determination Contract Reform Act of 1994'."
 
-Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: "This title \[enacting subchapter IV (§5361 et seq.) of this chapter and provisions set out as notes under section 5361 of this title\] may be cited as the 'Tribal Self-Governance Act of 1994'."
+Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: "This title \[enacting subchapter IV (§5361 et seq.) of this chapter and provisions set out asnotes under section 5361 of this title\] may be cited as the 'Tribal Self-Governance Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -78,7 +78,7 @@ Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pu
 
 Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to establish regular and meaningful consultation and collaboration with tribal officials in the development of Federal policies that have tribal implications, to strengthen the United States government-to-government relationships with Indian tribes, and to reduce the imposition of unfunded mandates upon Indian tribes; it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish regular and meaningful consultation and collaboration with tribal officials in the development of Federal policies that have tribal implications, to strengthen the United States government-to-government relationships with Indian tribes, and to reduce the imposition of unfunded mandates upon Indian tribes; it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
@@ -110,7 +110,7 @@ Sec. 3. <i>Policymaking Criteria</i>. In addition to adhering to the fundamental
 
 (2) where possible, defer to Indian tribes to establish standards; and
 
-(3) in determining whether to establish Federal standards, consult with tribal officials as to the need for Federal standards and any alternatives that would limit the scope of Federal standards or otherwise preserve the prerogatives and authority of Indian tribes.
+(3) in determining whether to establish Federal standards, consult with tribal officials as to the need for Federal standards and any alternatives that wouldlimit the scope of Federal standards or otherwise preserve the prerogatives and authority of Indian tribes.
 
 Sec. 4. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would be inconsistent with the policymaking criteria in Section 3.
 
@@ -142,7 +142,7 @@ Sec. 6. <i>Increasing Flexibility for Indian Tribal Waivers.</i>
 
 (a) Agencies shall review the processes under which Indian tribes apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
 
-(b) Each agency shall, to the extent practicable and permitted by law, consider any application by an Indian tribe for a waiver of statutory or regulatory requirements in connection with any program administered by the agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the Indian tribal level in cases in which theproposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by an Indian tribe for a waiver of statutory or regulatory requirements in connection with any program administered by the agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the Indian tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
 
 (c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency, or as otherwise provided by law or regulation. If the application for waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
 
@@ -178,7 +178,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The United States recognizes a government-to-government relationship, as well as a unique legal and political relationship, with federally recognized tribes. This relationship is set forth in the Constitution of the United States, treaties, statutes, Executive Orders, administrative rules and regulations, and judicial decisions. Honoring these relationships and respecting the sovereignty of tribal nations is critical to advancing tribal self-determination and prosperity.
 
-As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatment and destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
+As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatmentand destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
 
 This order establishes a national policy to ensure that the Federal Government engages in a true and lasting government-to-government relationship with federally recognized tribes in a more coordinated and effective manner, including by better carrying out its trust responsibilities. This policy is established as a means of promoting and sustaining prosperous and resilient tribal communities. Greater engagement and meaningful consultation with tribes is of paramount importance in developing any policies affecting tribal nations.
 
@@ -344,7 +344,7 @@ My Administration is committed to regular and meaningful consultation and collab
 
 Each agency's plan and subsequent reports shall designate an appropriate official to coordinate implementation of the plan and preparation of progress reports required by this memorandum. The Assistant to the President for Domestic Policy and the Director of the OMB shall review agency plans and subsequent reports for consistency with the policies and directives of Executive Order 13175.
 
-In addition, the Director of the OMB, in coordination with the Assistant to the President for Domestic Policy, shall submit to me, within 1 year from the date of this memorandum, a report on the implementation of Executive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the tribal consultation process more effective, if any, should be included in this report.
+In addition, the Director of the OMB, in coordination with the Assistant to the President for Domestic Policy, shall submit to me, within 1 year from the date of this memorandum, a report on the implementation ofExecutive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the tribal consultation process more effective, if any, should be included in this report.
 
 The terms "Indian tribe," "tribal officials," and "policies that have tribal implications" as used in this memorandum are as defined in Executive Order 13175.
 

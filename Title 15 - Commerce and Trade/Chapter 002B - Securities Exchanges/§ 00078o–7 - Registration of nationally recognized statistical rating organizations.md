@@ -60,7 +60,7 @@
 
 #### (A) Initial determination
 
-&emsp;&emsp;Not later than 90 days after the date on which the application for registration is furnished to the Commission under paragraph (1) (or within such longer period as to whichthe applicant consents) the Commission shall—
+&emsp;&emsp;Not later than 90 days after the date on which the application for registration is furnished to the Commission under paragraph (1) (or within such longer period as to which the applicant consents) the Commission shall—
 
 &emsp;&emsp;&emsp;(i) by order, grant such registration for ratings in the subject category or categories of obligors, as described in clauses (i) through (v) of section 78c(a)(62)(B) of this title; or
 
@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against anyaction or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -188,7 +188,7 @@
 
 #### (1) Voluntary withdrawal
 
-&emsp;A nationally recognized statistical rating organization may, upon such terms and conditions as the Commission may establish as necessary in the public interest or for the protection of investors, withdraw from registrationby furnishing a written notice of withdrawal to the Commission.
+&emsp;A nationally recognized statistical rating organization may, upon such terms and conditions as the Commission may establish as necessary in the public interest or for the protection of investors, withdraw from registration by furnishing a written notice of withdrawal to the Commission.
 
 #### (2) Commission authority
 
@@ -252,7 +252,7 @@
 
 &emsp;&emsp;&emsp;(ii) suspension or revocation of the registration of a nationally recognized statistical rating organization, if the Commission finds, on the record, after notice and opportunity for a hearing, that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the nationally recognized statistical rating organization has committeda violation of a rule issued under this subsection; and
+&emsp;&emsp;&emsp;&emsp;(I) the nationally recognized statistical rating organization has committed a violation of a rule issued under this subsection; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the violation of a rule issued under this subsection affected a rating.
 
@@ -402,7 +402,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) New provisions
 
-&emsp;Such rules and regulations as are required by this section or are otherwise necessary tocarry out this section, including the application form required under subsection (a)—
+&emsp;Such rules and regulations as are required by this section or are otherwise necessary to carry out this section, including the application form required under subsection (a)—
 
 &emsp;&emsp;(A) shall be issued by the Commission in final form, not later than 270 days after September 29, 2006; and
 
@@ -496,13 +496,13 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) Rulemaking required
 
-&emsp;The Commission shall, by rule, require that each nationally recognized statistical ratingorganization publicly disclose information on the initial credit ratings determined by the nationally recognized statistical rating organization for each type of obligor, security, and money market instrument, and any subsequent changes to such credit ratings, for the purpose of allowing users of credit ratings to evaluate the accuracy of ratings and compare the performance of ratings by different nationally recognized statistical rating organizations.
+&emsp;The Commission shall, by rule, require that each nationally recognized statistical rating organization publicly disclose information on the initial credit ratings determined by the nationally recognized statistical rating organization for each type of obligor, security, and money market instrument, and any subsequent changes to such credit ratings, for the purpose of allowing users of credit ratings to evaluate the accuracy of ratings and compare the performance of ratings by different nationally recognized statistical rating organizations.
 
 #### (2) Content
 
 &emsp;The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
 
-&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare the performance of credit ratings across nationally recognized statistical rating organizations;
+&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare theperformance of credit ratings across nationally recognized statistical rating organizations;
 
 &emsp;&emsp;(B) are clear and informative for investors having a wide range of sophistication who use or might use credit ratings;
 
@@ -728,7 +728,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationallyrecognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 

@@ -84,7 +84,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (1) In general
 
-&emsp;To ensure efficient use of funds collected under this chapter, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of programs or projects for fluid milk products research and advertising and for thepayment of the costs of the programs or projects with funds received by the Board under the order.
+&emsp;To ensure efficient use of funds collected under this chapter, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of programs or projects for fluid milk products research and advertising and for the payment of the costs of the programs or projects with funds received by the Board under the order.
 
 #### (2) Requirements
 

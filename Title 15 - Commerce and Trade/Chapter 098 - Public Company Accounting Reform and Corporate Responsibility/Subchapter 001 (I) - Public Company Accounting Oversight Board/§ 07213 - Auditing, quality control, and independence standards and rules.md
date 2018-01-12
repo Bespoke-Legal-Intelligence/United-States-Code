@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) an evaluation of whether such internal control structure and procedures—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) include maintenance of records that in reasonable detail accuratelyand fairly reflect the transactions and dispositions of the assets of the issuer;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) include maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations of management and directors of the issuer; and
 
@@ -64,7 +64,7 @@
 
 #### (4) Advisory groups
 
-&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
+&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may includepracticing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
 
 #### (b) Independence standards and rules
 
@@ -82,7 +82,7 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 #### (d) Evaluation of standard setting process
 
-The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described inparagraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
+The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
 (Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, §104, Apr. 5, 2012, 126 Stat. 310.)
 

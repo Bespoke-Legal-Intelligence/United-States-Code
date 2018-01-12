@@ -10,7 +10,7 @@
 
 (c) The President may—
 
-&emsp;(1) establish by Executive order a safety council composed of representatives of theagencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
+&emsp;(1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
 
 &emsp;(2) undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
 
@@ -122,7 +122,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the nationallevel and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -184,7 +184,7 @@ General Services Administration
 
 (a) Upon request, require personnel of the General Services Administration to accompany the Secretary or an agency head on any inspection or investigation conducted pursuant to this order of a facility subject to the authority of the General Services Administration.
 
-(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action to correct the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
+(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action tocorrect the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
 
 (c) Procure and provide safe supplies, devices, and equipment, and establish and maintain a product safety program for those supplies, devices, equipment and services furnished to agencies, including the issuance of Material Safety Data Sheets when hazardous substances are furnished them.
 

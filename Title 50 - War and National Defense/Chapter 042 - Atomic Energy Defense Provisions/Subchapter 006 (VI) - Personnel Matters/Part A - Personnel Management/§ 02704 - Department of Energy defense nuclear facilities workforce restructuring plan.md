@@ -10,7 +10,7 @@ Upon determination that a change in the workforce at a defense nuclear facility 
 
 #### (b) Consultation
 
-(1) In developing a plan referred to in subsection (a), the Secretary shall consult with the Secretary of Labor, appropriate representativesof local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
+(1) In developing a plan referred to in subsection (a), the Secretary shall consult with the Secretary of Labor, appropriate representatives of local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
 
 (2) The Secretary shall determine appropriate representatives of the units, governments, institutions, and groups referred to in paragraph (1).
 
@@ -72,7 +72,7 @@ In this section, the term "Department of Energy defense nuclear facility" means�
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat.2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### References in Text
 

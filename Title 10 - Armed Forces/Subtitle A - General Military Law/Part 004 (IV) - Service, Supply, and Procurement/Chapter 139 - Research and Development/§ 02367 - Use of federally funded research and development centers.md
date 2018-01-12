@@ -20,7 +20,7 @@ Limitation on Creation of New Centers.—(1) The head of an agency may not oblig
 
 (d)
 
-Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at eachfederally funded research and development center during that fiscal year.
+Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
 
 (Added Pub. L. 99–500, §101(c) \[title X, §912(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §912(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §912(a)(1), Nov. 14, 1986, 100 Stat. 3925, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–190, div. A, title II, §256(a)(1), Dec. 5, 1991, 105 Stat. 1330; Pub. L. 104–106, div. A, title XV, §1502(a)(9), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(12), Dec. 2, 2002, 116 Stat. 2645.)
 
@@ -96,7 +96,7 @@ Assessment.—Not later than two years after the commencement of the pilot progr
 
 "(g)
 
-Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
+Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by othercontractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
 
 #### GAO Study; Report
 

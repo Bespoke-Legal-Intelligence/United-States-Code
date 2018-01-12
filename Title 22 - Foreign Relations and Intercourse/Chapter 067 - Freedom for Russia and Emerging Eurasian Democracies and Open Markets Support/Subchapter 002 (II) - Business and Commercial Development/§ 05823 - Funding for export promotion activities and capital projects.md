@@ -2,7 +2,7 @@
 
 #### (a) Allocation of A.I.D. funds
 
-The President is encouraged to use a portion of the funds made available for the independentstates of the former Soviet Union under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\]—
+The President is encouraged to use a portion of the funds made available for the independent states of the former Soviet Union under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\]—
 
 &emsp;(1) to fund the export promotion, finance, and related activities carried out pursuant to subsection (b)(1), including activities relating to the export of intermediary goods; and
 

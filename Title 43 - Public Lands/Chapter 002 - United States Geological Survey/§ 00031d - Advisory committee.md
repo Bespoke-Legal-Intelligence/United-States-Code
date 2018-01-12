@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There shall be established a 11-member geologic mapping advisory committee to advisethe Director on planning and implementation of the geologic mapping program.
+&emsp;There shall be established a 11-member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program.
 
 #### (2) Members ex officio
 
@@ -50,5 +50,5 @@ Subsec. (b)(3). Pub. L. 105–36, §3(c)(2), substituted "Federal, State, and un
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

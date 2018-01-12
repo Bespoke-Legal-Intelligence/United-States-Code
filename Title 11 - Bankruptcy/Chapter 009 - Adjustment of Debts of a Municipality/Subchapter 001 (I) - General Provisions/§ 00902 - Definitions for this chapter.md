@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) "property of the estate", when used in a section that is made applicable in a case underthis chapter by section 103(e) <sup>1</sup> or 901 of this title, means property of the debtor;
+&emsp;(1) "property of the estate", when used in a section that is made applicable in a case under this chapter by section 103(e) <sup>1</sup> or 901 of this title, means property of the debtor;
 
 &emsp;(2) "special revenues" means—
 

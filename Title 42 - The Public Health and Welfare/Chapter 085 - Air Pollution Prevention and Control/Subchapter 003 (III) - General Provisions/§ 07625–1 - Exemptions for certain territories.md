@@ -10,7 +10,7 @@
 
 &emsp;(2) any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under section 7410 of this title as of December 8, 1983: <i>Provided</i>, That such exemption shall expire eighteen months after December 8, 1983, unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
 
-(July 14, 1955, ch. 360, title III, §325, as added Pub. L. 98–213, §11, Dec. 8, 1983, 97 Stat. 1461;amended Pub. L. 101–549, title VIII, §806, Nov. 15, 1990, 104 Stat. 2689; Pub. L. 103–437, §15(s), Nov. 2, 1994, 108 Stat. 4594.)
+(July 14, 1955, ch. 360, title III, §325, as added Pub. L. 98–213, §11, Dec. 8, 1983, 97 Stat. 1461; amended Pub. L. 101–549, title VIII, §806, Nov. 15, 1990, 104 Stat. 2689; Pub. L. 103–437, §15(s), Nov. 2, 1994, 108 Stat. 4594.)
 
 #### Prior Provisions
 
@@ -26,7 +26,7 @@ Another prior section 325 of act July 14, 1955, was renumbered section 324 by Pu
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

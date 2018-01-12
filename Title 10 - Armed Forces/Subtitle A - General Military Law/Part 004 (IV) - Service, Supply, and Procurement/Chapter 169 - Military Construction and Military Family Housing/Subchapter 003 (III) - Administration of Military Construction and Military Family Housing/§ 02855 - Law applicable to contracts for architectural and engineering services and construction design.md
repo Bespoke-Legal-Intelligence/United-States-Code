@@ -4,7 +4,7 @@
 
 (b)(1) In the case of a contract referred to in subsection (a)—
 
-&emsp;(A) if the Secretary concerned estimates that the initial award of the contract will be in an amount greater than or equal to the threshold amount determined under paragraph (2), the contract may not be set aside exclusively for award to small business concerns; and
+&emsp;(A) if the Secretary concerned estimates that the initial award of the contract will be in an amount greater than or equal to thethreshold amount determined under paragraph (2), the contract may not be set aside exclusively for award to small business concerns; and
 
 &emsp;(B) if the Secretary concerned estimates that the initial award of the contract will be in an amount less than the threshold amount determined under paragraph (2), the contract shall be awarded in accordance with the set aside provisions of the Small Business Act (15 U.S.C. 631 et seq.).
 
@@ -22,7 +22,7 @@ The Small Business Act, referred to in subsec. (b)(1)(B), is Pub. L. 85–536, �
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 substituted "$300,000" for "$85,000".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "chapter 11 of title 40" for "title IX of the Federal Property andAdministrative Services Act of 1949 (40 U.S.C. 541 et seq.)".
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "chapter 11 of title 40" for "title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)".
 
 <b>1984</b>—Pub. L. 98–407 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -52,7 +52,7 @@ Act
 
 Oct. 14, 1949, ch. 691, §104 "Sec. 5(d)", 63 Stat. 857.
 
-The references in former section 755(d) to definitions in former section 760(B), (H) are omitted as unnecessaryas the definitions are included in section 8101 for the entire subchapter.
+The references in former section 755(d) to definitions in former section 760(B), (H) are omitted as unnecessary as the definitions are included in section 8101 for the entire subchapter.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

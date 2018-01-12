@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) recent developments in Russia and the other independent states of the former SovietUnion present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
+&emsp;(1) recent developments in Russia and the other independent states of the former Soviet Union present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
 
 &emsp;(2) the entire international community has a vital interest in the success of this transition, and the dimension of the problems now faced in the independent states of the former Soviet Union makes it imperative for donor countries and institutions to provide the expertise and support necessary to ensure continued progress on economic and political reforms;
 
@@ -56,7 +56,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(7) Sergei Leonidovich Magnitsky died on November 16, 2009, at the age of 37, in Matrosskaya Tishina Prison in Moscow, Russia, and is survived by a mother, a wife, and 2 sons.
 
-&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminalcharges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
+&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminal charges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
 
 &emsp;"(9) The systematic abuse of Sergei Magnitsky, including his repressive arrest and torture in custody by officers of the Ministry of the Interior of the Russian Federation that Mr. Magnitsky had implicated in the embezzlement of funds from the Russian Treasury and the misappropriation of 3 companies from his client, Hermitage Capital Management, reflects how deeply the protection of human rights is affected by corruption.
 
@@ -74,7 +74,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
 
-&emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
+&emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, NatalyaEstemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
 "(b)
 
@@ -234,7 +234,7 @@ Exception.—Paragraph (1) shall not apply to persons included on the classified
 
 "(b)
 
-Waiver for National Security Interests.—The Secretary of the Treasury may waive the application ofsubsection (a) if the Secretary determines that such a waiver is in the national security interests of the United States. Not less than 15 days prior to granting such a waiver, the Secretary shall provide to the appropriate congressional committees notice of, and a justification for, the waiver.
+Waiver for National Security Interests.—The Secretary of the Treasury may waive the application of subsection (a) if the Secretary determines that such a waiver is in the national security interests of the United States. Not less than 15 days prior to granting such a waiver, the Secretary shall provide to the appropriate congressional committees notice of, and a justification for, the waiver.
 
 "(c)
 
@@ -436,7 +436,7 @@ Denial of Entry Into the United States of Senior Leadership of the Government of
 
 &emsp;"(3) through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus;
 
-&emsp;"(4) is a member of any branch of the security or law enforcement services of Belarus and has participated in the violent crackdown on opposition leaders, journalists, and peaceful protestors that occurred in connection with the presidential election of December 19, 2010; or
+&emsp;"(4) is a member of any branch of the security or law enforcement services of Belarus and has participated in the violent crackdown on opposition leaders,journalists, and peaceful protestors that occurred in connection with the presidential election of December 19, 2010; or
 
 &emsp;"(5) is a member of any branch of the security or law enforcement services of Belarus and has participated in the persecution or harassment of religious groups, human rights defenders, democratic opposition groups, or independent media or journalists.
 
@@ -538,7 +538,7 @@ Report.—Not later than 90 days after the date of the enactment of the Belarus 
 
 &emsp;"(4) The personal assets and wealth of Aleksandr Lukashenka and other senior leadership of the Government of Belarus.
 
-&emsp;"(5) The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposes related to the censorship or surveillance of the Internet.
+&emsp;"(5) The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposesrelated to the censorship or surveillance of the Internet.
 
 "(b)
 

@@ -14,7 +14,7 @@ Public-Private Partnerships.—(1) To achieve one or more objectives set forth i
 
 &emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including any depot-level maintenance and repair work that involves one or more core competencies of the Center.
 
-&emsp;(B) For private industry or other entities outside the Department of Defense to use, forany period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
+&emsp;(B) For private industry or other entities outside the Department of Defense to use, for any period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
 
 (2) The objectives for exercising the authority provided in paragraph (1) are as follows:
 
@@ -46,7 +46,7 @@ Crediting of Amounts for Performance.—Amounts received by a Center for work pe
 
 Availability of Excess Equipment to Private-Sector Partners.—Equipment or facilities of a Center of Industrial and Technical Excellence may be made available for use by a private-sector entity under this section only if—
 
-&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on the readiness of the armed forces, as determined by the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
+&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on thereadiness of the armed forces, as determined by the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
 
 &emsp;(2) the private-sector entity agrees—
 
@@ -106,5 +106,5 @@ Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(e)\], a
 
 #### Reporting Requirement
 
-Pub. L. 105–85, div. A, title III, §361(c), Nov. 18, 1997, 111 Stat. 1701, provided that, not later than Mar. 1, 1999, the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
+Pub. L. 105–85, div. A, title III, §361(c), Nov. 18, 1997, 111 Stat. 1701, provided that, not later than Mar. 1, 1999,the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
 

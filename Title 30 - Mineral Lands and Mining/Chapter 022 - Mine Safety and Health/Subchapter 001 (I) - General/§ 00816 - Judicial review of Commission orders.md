@@ -30,7 +30,7 @@ The commencement of a proceeding under this section shall not, unless specifical
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety andHealth Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
@@ -59,4 +59,8 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

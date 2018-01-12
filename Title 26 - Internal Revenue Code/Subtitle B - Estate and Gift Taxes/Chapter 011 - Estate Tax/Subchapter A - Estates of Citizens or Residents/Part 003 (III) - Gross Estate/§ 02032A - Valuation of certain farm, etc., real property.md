@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) $750,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;(i) no tax shall be imposed under paragraph (1) by reason of the failure by the qualified heir to so use such property before the commencement date, and
 
-&emsp;&emsp;&emsp;(ii) the 10-year period under paragraph (1) shall be extended by the period after the decedent's death and before the commencement date.
+&emsp;&emsp;&emsp;(ii) the 10-year period under paragraph (1) shall be extended by the period afterthe decedent's death and before the commencement date.
 
 #### (B) Active management by eligible qualified heir treated as material participation
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (11) Bond in lieu of personal liability
 
-&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
+&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax whichmay be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
 
 #### (12) Active management
 
@@ -420,7 +420,7 @@ For purposes of this section—
 
 If qualified real property is disposed of or ceases to be used for a qualified use, then—
 
-&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 yearsfrom the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
+&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 years from the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
 
 &emsp;(2) such additional tax may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
@@ -516,7 +516,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term "qualified exchange property" means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997,111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 115–97, title I, §11002(d)(1)(DD), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -527,6 +527,8 @@ The Secretary shall prescribe regulations setting forth the application of this 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2004</b>—Subsec. (c)(7)(D). Pub. L. 108–311 substituted "section 152(f)(2)" for "section 151(c)(4)".
 
@@ -626,6 +628,10 @@ Subsec. (f)(1). Pub. L. 95–472, §4(c), inserted provision relating to the exp
 
 Subsec. (h). Pub. L. 95–472, §4(a), added subsec. (h).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
@@ -674,7 +680,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan.12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan. 12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -702,7 +708,7 @@ In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[am
 
 &emsp;"(B)
 
-Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
+Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would\(but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
 
 &emsp;"(C)
 

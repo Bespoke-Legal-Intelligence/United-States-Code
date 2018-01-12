@@ -20,7 +20,7 @@ For purposes of this part, any passive foreign investment company shall be treat
 
 #### (2) When made
 
-&emsp;An election under this subsection may be made for any taxable year at any time on or before the due date (determined with regard to extensions) for filing the return of the tax imposed by this chapter for such taxable year. To the extent provided in regulations, such anelection may be made later than as required in the preceding sentence where the taxpayer fails to make a timely election because the taxpayer reasonably believed that the company was not a passive foreign investment company.
+&emsp;An election under this subsection may be made for any taxable year at any time on or before the due date (determined with regard to extensions) for filing the return of the tax imposed by this chapter for such taxable year. To the extent provided in regulations, such an election may be made later than as required in the preceding sentence where the taxpayer fails to make a timely election because the taxpayer reasonably believed that the company was not a passive foreign investment company.
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2571; amended Pub. L. 100–647, title I, §1012(p)(37)(A), title VI, §6127(a), Nov. 10, 1988, 102 Stat. 3522, 3715.)
 

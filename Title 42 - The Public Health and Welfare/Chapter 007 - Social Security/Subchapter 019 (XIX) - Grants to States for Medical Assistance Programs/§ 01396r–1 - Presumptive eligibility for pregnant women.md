@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) participates in a State perinatal program; or
 
-&emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the IndianSelf-Determination Act (Public Law 93–638) \[25 U.S.C. 5321 et seq.\].
+&emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 5321 et seq.\].
 
 > The term "qualified provider" also includes a qualified entity, as defined in section 1396r–1a(b)(3) of this title.
 
@@ -118,7 +118,7 @@ Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end ", 
 
 Pub. L. 101–508, §4605(a)(2), substituted "by not later than the last day of the month following the month during which" for "within 14 calendar days after the date on which".
 
-<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted "section 254b, 254c, or 256 of this title," for "section 254b of this title or section254c of this title, or" in subcl. (I), substituted "chapter, or" for "chapter;" in subcl. (II), and added subcl. (III).
+<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted "section 254b, 254c, or 256 of this title," for "section 254b of this title or section 254c of this title, or" in subcl. (I), substituted "chapter, or" for "chapter;" in subcl. (II), and added subcl. (III).
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out "or" after "1973;".
 

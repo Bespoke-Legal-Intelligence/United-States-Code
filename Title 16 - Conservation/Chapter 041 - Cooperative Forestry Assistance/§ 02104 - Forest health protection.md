@@ -72,7 +72,7 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
 #### (1) In general
 
-&emsp;Subject to the provisions of subsections (c) and (e), the Secretary shall, in cooperationwith State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the "cooperator")—
+&emsp;Subject to the provisions of subsections (c) and (e), the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the "cooperator")—
 
 &emsp;&emsp;(A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
 
@@ -244,7 +244,7 @@ Consultation.—(1) The statement required by subsection (b)(1) shall be prepare
 
 Contracting.—The Forest Service, subject to the availability of appropriations, may carry out any (or all) of the requirements of this section using private contracts.
 
-"\[(i)\] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No. CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project.
+"\[(i)\] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No.CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project.
 
 "(j)
 

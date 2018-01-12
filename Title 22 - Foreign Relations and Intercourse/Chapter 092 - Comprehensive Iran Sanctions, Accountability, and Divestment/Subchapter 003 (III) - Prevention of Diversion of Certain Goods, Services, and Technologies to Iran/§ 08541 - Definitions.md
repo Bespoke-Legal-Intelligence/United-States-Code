@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Commerce Control List
 
-&emsp;The term "Commerce Control List" means the list maintained pursuant to part 774 of the Export Administration Regulations (or any corresponding similar regulation or ruling).
+&emsp;The term "Commerce Control List" means the list maintained pursuant to part 774 of theExport Administration Regulations (or any corresponding similar regulation or ruling).
 
 #### (4) Divert; diversion
 

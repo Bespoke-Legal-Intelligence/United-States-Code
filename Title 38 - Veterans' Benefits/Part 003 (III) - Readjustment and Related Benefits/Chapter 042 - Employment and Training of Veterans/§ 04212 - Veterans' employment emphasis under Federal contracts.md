@@ -4,7 +4,7 @@
 
 (2) In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
 
-&emsp;(A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998,<sup>1</sup> other appropriate service delivery points, or America's Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor's organization and positions lasting three days or less;
+&emsp;(A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998,<sup>1</sup>other appropriate service delivery points, or America's Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor's organization and positions lasting three days or less;
 
 &emsp;(B) each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
 
@@ -26,7 +26,7 @@
 
 (b) If any veteran covered by the first sentence of subsection (a) believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
-(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings,the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
+(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
 
 (d)(1) Each contractor to whom subsection (a) applies shall, in accordance with regulations which the Secretary of Labor shall prescribe, report at least annually to the Secretary of Labor on—
 

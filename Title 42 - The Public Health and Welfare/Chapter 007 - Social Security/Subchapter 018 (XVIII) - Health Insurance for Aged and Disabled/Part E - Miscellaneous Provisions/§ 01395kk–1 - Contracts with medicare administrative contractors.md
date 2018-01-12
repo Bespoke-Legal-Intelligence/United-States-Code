@@ -28,7 +28,7 @@
 
 #### (B) Appropriate medicare administrative contractor
 
-&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A or enrolledunder part B, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
+&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A or enrolled under part B, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
 
 #### (4) Functions described
 
@@ -74,7 +74,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contract with the Secretary under section 1395ddd of this title.
+&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contractwith the Secretary under section 1395ddd of this title.
 
 #### (6) Application of Federal Acquisition Regulation
 
@@ -94,11 +94,25 @@
 
 #### (C) Transfer of functions
 
-&emsp;&emsp;The Secretary may transfer functions among medicare administrative contractors consistent with the provisions of this paragraph. The Secretary shall ensure that performance quality is considered in such transfers. The Secretary shall provide public notice (whether in the Federal Register or otherwise) of any such transfer (including a description of the functions so transferred, a description of the providers of services andsuppliers affected by such transfer, and contact information for the contractors involved).
+&emsp;&emsp;The Secretary may transfer functions among medicare administrative contractors consistent with the provisions of this paragraph. The Secretary shall ensure that performance quality is considered in such transfers. The Secretary shall provide public notice (whether in the Federal Register or otherwise) of any such transfer (including a description of the functions so transferred, a description of the providers of services and suppliers affected by such transfer, and contact information for the contractors involved).
 
 #### (D) Incentives for quality
 
-&emsp;&emsp;The Secretary shall provide incentives for medicare administrative contractors to provide quality service and to promote efficiency.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), the Secretary shall provide incentives for medicare administrative contractors to provide quality service and to promote efficiency.
+
+#### (ii) Improper payment rate reduction incentives
+
+&emsp;&emsp;&emsp;The Secretary shall provide incentives for medicare administrative contractors to reduce the improper payment error rates in their jurisdictions.
+
+#### (iii) Incentives
+
+&emsp;&emsp;&emsp;The incentives provided for under clause (ii)—
+
+&emsp;&emsp;&emsp;&emsp;(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.
 
 #### (2) Compliance with requirements
 
@@ -164,7 +178,7 @@
 
 #### (1) Certifying officer
 
-&emsp;No individual designated pursuant to a contract under this section as a certifying officer shall, in the absence of the reckless disregard of the individual's obligations or the intent bythat individual to defraud the United States, be liable with respect to any payments certified by the individual under this section.
+&emsp;No individual designated pursuant to a contract under this section as a certifying officer shall, in the absence of the reckless disregard of the individual's obligations or the intent by that individual to defraud the United States, be liable with respect to any payments certified by the individual under this section.
 
 #### (2) Disbursing officer
 
@@ -188,7 +202,7 @@
 
 #### (B) Conditions
 
-&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
+&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractorshall reimburse the Secretary for costs of indemnification.
 
 #### (C) Scope of indemnification
 
@@ -352,31 +366,9 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057; Pub. L. 114–10, title V, §§505(a), 509(a), (c), Apr. 16, 2015, 129 Stat. 166, 170; Pub. L. 114–115, §7(a), Dec. 28, 2015, 129 Stat. 3134.)
 
-#### Amendment of Subsection (b)(1)(D)
+#### Applicability of Amendment
 
-<i>Pub. L. 114–115, §7, Dec. 28, 2015, 129 Stat. 3134, provided that, applicable to contracts entered into or renewed on or after the date that is 3 years after Dec. 28, 2015, with provision for application to certain existing contracts, subsection (b)(1)(D) of this section is amended:</i>
-
-<i>(1) by striking "The Secretary" and inserting:</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"Subject to clauses (ii) and (iii), the Secretary"; and</i>
-
-<i>(2) by adding after clause (i) the following new clauses:</i>
-
-#### <i>(ii) Improper payment rate reduction incentives</i>
-
-&emsp;&emsp;&emsp;<i>The Secretary shall provide incentives for medicare administrative contractors to reduce</i><i>the improper payment error rates in their jurisdictions.</i>
-
-#### <i>(iii) Incentives</i>
-
-&emsp;&emsp;&emsp;<i>The incentives provided for under clause (ii)—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.</i>
-
-<i>See 2015 Amendment note below.</i>
+<i>Amendment of section by section 7(a) of Pub. L. 114–115 applicable to contracts entered into or renewed on or after the date that is 3 years after Dec. 28, 2015, with provision for application to certain existing contracts. See 2015 Amendment note below.</i>
 
 #### References in Text
 
@@ -436,7 +428,7 @@ In general.—Except as provided in this subsection, the amendment made by subse
 
 "(2)
 
-Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
+Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], asadded by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 "(3)
 

@@ -10,7 +10,7 @@ Application.—
 
 &emsp;(1) Upon application by a State, the Secretary shall review that State's one-call notification program, including the provisions for the implementation of the program and the record of compliance and enforcement under the program.
 
-&emsp;(2) Based on the review under paragraph (1), the Secretary shall determine whether the State's one-call notification program meetsthe minimum standards for such a program set forth in section 6103 in order to qualify for a grant under section 6106.
+&emsp;(2) Based on the review under paragraph (1), the Secretary shall determine whether the State's one-call notification program meets the minimum standards for such a program set forth in section 6103 in order to qualify for a grant under section 6106.
 
 &emsp;(3) In order to expedite compliance under this section, the Secretary may consult with the State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State program would result in a positive determination under paragraph (2).
 
@@ -44,5 +44,5 @@ The date of the enactment of this chapter, referred to in subsec. (a), is the da
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–355 substituted "The Secretary shall" for "Within 3 years after the date of the enactment of this chapter, the Secretary shall begin to" in introductory provisions.
+<b>2002</b>—Subsec. (d). Pub. L. 107–355 substituted "The Secretary shall" for "Within 3 years after the date ofthe enactment of this chapter, the Secretary shall begin to" in introductory provisions.
 

@@ -1,10 +1,12 @@
 ### <b>CHAPTER 11—RESERVE COMPONENTS</b>
 
-| Sec. |  |
-| :--- | ---: |
-| 261\.<sup>1</sup> | Reference to chapters 1003, 1005, and 1007. |
+| Sec. |
+| :--- |
+| 261\.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Reference to chapters 1003, 1005, and 1007.
 
 #### Amendments
 

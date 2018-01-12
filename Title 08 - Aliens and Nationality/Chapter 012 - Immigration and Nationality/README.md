@@ -217,6 +217,7 @@
 | [1379\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md) | Technology standard to confirm identity. |
 | [1380\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001380%20-%20Maintenance%20of%20statistics%20by%20the%20Department%20of%20Homeland%20Security.md) | Maintenance of statistics by the Department of Homeland Security. |
 | [1381\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001381%20-%20Secretary%20of%20Labor%20report.md) | Secretary of Labor report. |
+| [1382\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001382%20-%20Acceptance%20and%20administration%20of%20gifts%20for%20immigration%20integration%20grants%20program.md) | Acceptance and administration of gifts for immigration integration grants program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

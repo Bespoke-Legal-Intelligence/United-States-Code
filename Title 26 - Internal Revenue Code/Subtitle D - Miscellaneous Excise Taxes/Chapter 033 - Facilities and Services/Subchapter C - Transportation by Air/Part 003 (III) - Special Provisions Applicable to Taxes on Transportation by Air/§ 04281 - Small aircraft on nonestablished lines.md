@@ -20,7 +20,7 @@ For purposes of this section, the term "jet aircraft" shall not include any airc
 
 #### Prior Provisions
 
-A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an EffectiveDate of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The Oversight Board shall submit to the Governor and Legislature a forecast of r
 
 #### (1) Governor's proposed budgets
 
-&emsp;The Governor shall submit to the Oversight Board proposed Budgets by the time specified in the notice delivered under subsection (a). In consultation with the Governor in accordancewith the process specified in the notice delivered under subsection (a), the Oversight Board shall determine in its sole discretion whether each proposed Budget is compliant with the applicable Fiscal Plan and—
+&emsp;The Governor shall submit to the Oversight Board proposed Budgets by the time specified in the notice delivered under subsection (a). In consultation with the Governor in accordance with the process specified in the notice delivered under subsection (a), the Oversight Board shall determine in its sole discretion whether each proposed Budget is compliant with the applicable Fiscal Plan and—
 
 &emsp;&emsp;(A) if a proposed Budget is a compliant budget, the Oversight Board shall—
 

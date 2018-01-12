@@ -62,7 +62,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (h) Third party rights
 
-The requirements under this subchapter regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+The requirements under this subchapter regarding quality standards, resale, or transfer ofthe ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (i) Dollar limitation on economic development activities
 
@@ -74,7 +74,7 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (k) Capability of resident management corporations and resident councils
 
-To be eligible to receive a grant under section 1437aaa–2 of this title, a resident management corporation or resident council shall demonstrate to the Secretary its ability to managepublic housing by having done so effectively and efficiently for a period of not less than 3 years or by arranging for management by a qualified management entity.
+To be eligible to receive a grant under section 1437aaa–2 of this title, a resident management corporation or resident council shall demonstrate to the Secretary its ability to manage public housing by having done so effectively and efficiently for a period of not less than 3 years or by arranging for management by a qualified management entity.
 
 #### (l) Records and audit of recipients of assistance
 

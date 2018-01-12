@@ -104,7 +104,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall applyto procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
-(1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
+(1)(A) In carrying out the technical assistance responsibilities of the Access Board under thissection, the Board may enter into an interagency agreement with another Federal department or agency.
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
@@ -162,7 +162,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 
 #### Codification
 
-Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
+Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that reportto the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 102–569, §504(f), designated existing provisions as par.
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" wherever appearing.
 
-Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
+Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The AccessBoard may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" before "with full access".
 
@@ -262,7 +262,7 @@ Subsec. (g). Pub. L. 100–630, §206(b)(11), substituted "transportation barrie
 
 <b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted "Twelve" for "Eleven", "six" for "five", and "individuals with handicaps" for "handicapped individuals".
 
-Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision thatPresident had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
 Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, §601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: "any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed".
 
@@ -294,7 +294,7 @@ Subsec. (h)(3). Pub. L. 96–374, §1321(b), added par. (3).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans' Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards arebased on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
 Subsec. (b)(2). Pub. L. 95–602, §118(b)(2), inserted "communication," before "and attitudinal" and "telecommunication devices," before "public buildings".
 
@@ -372,7 +372,7 @@ In general.—The working group shall develop, not later than 1 year after the d
 
 &emsp;&emsp;"(B)
 
-Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities.
+Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner thatprovides access to interested individuals, including individuals with disabilities.
 
 &emsp;&emsp;"(C)
 

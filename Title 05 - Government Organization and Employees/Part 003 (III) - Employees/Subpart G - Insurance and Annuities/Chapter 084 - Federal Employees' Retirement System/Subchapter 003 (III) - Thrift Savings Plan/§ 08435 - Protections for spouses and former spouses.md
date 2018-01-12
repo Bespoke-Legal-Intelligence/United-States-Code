@@ -38,7 +38,7 @@
 
 &emsp;(A) an election under section 8434(a)(2)(E) of this title, or
 
-&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regard to subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
+&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regardto subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
 
 > expressly provides for such survivor annuity.
 
@@ -90,7 +90,7 @@ Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(
 
 Subsec. (e)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(i)\]\], inserted "or withdrawal" after "loan".
 
-Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of "and (h)" after "8344(g)", was executed by making the insertion after "8433(g)" to reflect the probable intent of Congress.
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of "and (h)" after "8344(g)", was executed by making the insertionafter "8433(g)" to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(A)\]\], inserted "or withdrawals" after "loans".
 

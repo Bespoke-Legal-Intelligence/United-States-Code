@@ -16,11 +16,11 @@
 
 #### (2) Term of office
 
-&emsp;Each representative appointed under paragraph (1) shall be appointed for a term not to exceed 4 years, except that, of the initial appointments, 2 representatives shall be appointed for terms of 2 years. Any individualappointed to fill a vacancy occurring prior to the expiration of the term of office of that individual's predecessor shall be appointed for the remainder of that term. A representative may be appointed for a term of less than 4 years if such term is necessary to ensure that the term of office of not more than 2 representatives will expire in any single year. An individual appointed to serve as a representative is eligible for reappointment.
+&emsp;Each representative appointed under paragraph (1) shall be appointed for a term not to exceed 4 years, except that, of the initial appointments, 2 representatives shall be appointed for terms of 2 years. Any individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual's predecessor shall be appointed for the remainder of that term. A representative may be appointed for a term of less than 4 years if such term is necessary to ensure that the term of office of not more than 2 representatives will expire in any single year. An individual appointed to serve as a representative is eligible for reappointment.
 
 #### (3) Chair
 
-&emsp;Unless otherwise agreed by all of the 4 representatives, the chair shall rotate annually among the 4 members, with the order of rotation determined by lot at the first meeting.
+&emsp;Unless otherwise agreed by all of the 4 representatives, the chair shall rotate annuallyamong the 4 members, with the order of rotation determined by lot at the first meeting.
 
 #### (b) Alternate representatives
 

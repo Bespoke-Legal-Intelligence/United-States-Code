@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for thepurposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(C) No genetic information collected or acquired under this paragraph shall be used for underwriting purposes.
 
-&emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided for under this paragraph, including a description of the activities conducted.
+&emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided forunder this paragraph, including a description of the activities conducted.
 
 &emsp;&emsp;(E) The plan complies with such other conditions as the Secretary may by regulation require for activities conducted under this paragraph.
 
@@ -167,4 +167,8 @@ Pub. L. 105–34, title XV, §1532(b), Aug. 5, 1997, 111 Stat. 1085, provided th
 #### Regulations
 
 Pub. L. 110–233, title I, §103(f)(1), May 21, 2008, 122 Stat. 899, provided that: "The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\]."
+
+#### Effective Date
+
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 

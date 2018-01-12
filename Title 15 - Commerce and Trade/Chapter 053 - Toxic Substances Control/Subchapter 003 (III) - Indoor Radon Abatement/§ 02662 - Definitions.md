@@ -28,7 +28,7 @@ Section 241 of title 20, as in effect before enactment of the Improving America'
 
 <b>2002</b>—Par. (1)(A). Pub. L. 107–110 substituted "7801" for "8801".
 
-<b>1994</b>—Par. (1)(A). Pub. L. 103–382, §391(c)(4)(A), made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+<b>1994</b>—Par. (1)(A). Pub. L. 103–382, §391(c)(4)(A), made technical amendment to reference to section 8801 oftitle 20 to reflect change in reference to corresponding section of original act.
 
 Par. (1)(C). Pub. L. 103–382 directed two separate amendments of par. (1)(C), the first, by section 391(c)(4)(B) of Pub. L. 103–382, directed the insertion of "or successor authority" immediately after "section 241 of title 20", the second, by section 392(b)(2) of Pub. L. 103–382, directed the insertion (without reference to the first amendment) of "as in effect before enactment of the Improving America's Schools Act of 1994" immediately after "section 241 of title 20,". Literal execution of the second amendment was not possible, as "section 241 of title 20," was amended to read "section 241 of title 20 or successor authority," by the first amendment. Commas were editorially inserted before and after the phrase added by the second amendment and it was inserted immediately after "section 241 of title 20" to reflect the probable intent of Congress.
 

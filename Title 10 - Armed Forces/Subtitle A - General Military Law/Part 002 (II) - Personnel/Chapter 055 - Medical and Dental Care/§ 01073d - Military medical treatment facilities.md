@@ -50,11 +50,37 @@ Ambulatory Care Centers.—(1) The Secretary of Defense shall maintain ambulator
 
 &emsp;(B) is not available at civilian health care facilities in the area of the ambulatory care center.
 
-(Added Pub. L. 114–328, div. A, title VII, §703(a)(1), Dec. 23, 2016, 130 Stat. 2197.)
+(e)
+
+Maintenance of Inpatient Capabilities at Military Medical Treatment Facilities Located Outside the United States.—(1) In carrying out subsection (a), the Secretary of Defense shall ensure that each covered facility maintains, at a minimum, inpatient capabilities that the Secretary determines are similar to the inpatient capabilities of such facility on September 30, 2016.
+
+(2) The Secretary may not eliminate the inpatient capabilities of a covered facility until the day that is 180 days after the Secretary provides a briefing to the Committees on Armed Services of the Senate and the House of Representatives regarding the proposed elimination. During any such briefing, the Secretary shall certify the following:
+
+&emsp;(A) The Secretary has entered into agreements with hospitals or medical centers in the host nation of such covered facility that—
+
+&emsp;&emsp;(i) replace the inpatient capabilities the Secretary proposes to eliminate; and
+
+&emsp;&emsp;(ii) ensure members of the armed forces and covered beneficiaries who receive health care from such covered facility, have, within a distance the Secretary determines is reasonable, access to quality health care, including case management and translation services.
+
+&emsp;(B) The Secretary has consulted with the commander of the geographic combatant command in which such covered facility is located to ensure that the proposed elimination would have no impact on the operational plan for such geographic combatant command.
+
+&emsp;(C) Before the Secretary eliminates the inpatient capabilities of such covered facility, the Secretary shall provide each member of the armed forces or covered beneficiary who receives health care from the covered facility with—
+
+&emsp;&emsp;(i) a transition plan for continuity of health care for such member or covered beneficiary; and
+
+&emsp;&emsp;(ii) a public forum to discuss the concerns of the member or covered beneficiary regarding the proposed reduction.
+
+(3) In this subsection, the term "covered facility" means a military medical treatment facility located outside the United States.
+
+(Added Pub. L. 114–328, div. A, title VII, §703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, §711, Dec. 12, 2017, 131 Stat. 1436.)
 
 #### References in Text
 
 Section 706 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2), is section 706 of Pub. L. 114–328, which is set out as a note under section 1096 of this title.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–91 added subsec. (e).
 
 #### Satellite Centers
 
@@ -76,5 +102,5 @@ Exception.—In carrying out section 1073d of title 10, United States Code, as a
 
 "(e)
 
-Definitions.—In this section \[enacting this section and provisions set out as notes under this section\], the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
+Definitions.—In this section \[enacting this section and provisions set out as notes under this section\],the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
 

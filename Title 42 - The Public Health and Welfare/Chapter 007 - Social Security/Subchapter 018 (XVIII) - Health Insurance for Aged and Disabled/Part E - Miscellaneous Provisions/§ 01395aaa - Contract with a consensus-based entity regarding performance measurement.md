@@ -70,7 +70,7 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;&emsp;(iv) gaps in endorsed quality measures, which shall include measures that are within priority areas identified by the Secretary under the national strategy established under section 280j of this title, and where quality measures are unavailable or inadequate to identify or address such gaps;
 
-&emsp;&emsp;&emsp;(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this titleand where targeted research may address such gaps; and
+&emsp;&emsp;&emsp;(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this title and where targeted research may address such gaps; and
 
 &emsp;&emsp;&emsp;(vi) the matters described in clauses (i) and (ii) of paragraph (7)(A).
 
@@ -166,7 +166,7 @@ The requirements described in this subsection are the following:
 
 #### (4) Open and transparent
 
-&emsp;With respect to matters related to the contract with the Secretary under subsection (a), the entity conducts its business in an open andtransparent manner and provides the opportunity for public comment on its activities.
+&emsp;With respect to matters related to the contract with the Secretary under subsection (a), the entity conducts its business in an open and transparent manner and provides the opportunity for public comment on its activities.
 
 #### (5) Voluntary consensus standards setting organization
 

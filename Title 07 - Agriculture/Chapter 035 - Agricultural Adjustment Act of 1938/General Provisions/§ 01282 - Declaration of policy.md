@@ -22,7 +22,7 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 
 #### Transfer of Functions
 
-Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 610 of this title.
+Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 610 of this title.
 
 Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
 

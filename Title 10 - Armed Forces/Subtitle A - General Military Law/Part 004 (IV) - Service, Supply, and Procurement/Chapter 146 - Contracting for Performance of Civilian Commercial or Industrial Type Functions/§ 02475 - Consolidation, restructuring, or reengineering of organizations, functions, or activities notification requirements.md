@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Submit Plan Annually.—Concurrently with the submission of the President's annual budget request under section 1105 of title 31, the Secretary of Defense shall submit to Congress each Strategic Sourcing Plan of Action for the Department of Defense (as identified in the Department of Defense Interim Guidance dated February 29, 2000, or any successor Department of Defense guidance or directive), for the following year.
+Strategic Sourcing Plan of Action Defined.—In this section, the term "Strategic Sourcing Plan of Action" means a Strategic Sourcing Plan of Action for the Department of Defense (as identified in the Department of Defense Interim Guidance dated February 29, 2000, or any successor Department of Defense guidance or directive) in effect for a fiscal year.
 
 (b)
 
@@ -22,5 +22,9 @@ Notification of Decision To Execute Plan.—If a decision is made to consolidate
 
 &emsp;(2) the head of the Defense Agency or the Secretary of the military department concerned may not implement the plan until 30 days after the date that the agency head or Secretary submits notification to the Committees on Armed Services of the Senate and House of Representatives of the intent to carry out such plan.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §353(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–72.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §353(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–72; amended Pub. L. 115–91, div. A, title X, §1051(a)(17), Dec. 12, 2017, 131 Stat. 1561.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91 amended subsec. (a) generally. Prior to amendment, subsec. (a) required the Secretary of Defense to submit the Strategic Sourcing Plan of Action to Congress annually.
 

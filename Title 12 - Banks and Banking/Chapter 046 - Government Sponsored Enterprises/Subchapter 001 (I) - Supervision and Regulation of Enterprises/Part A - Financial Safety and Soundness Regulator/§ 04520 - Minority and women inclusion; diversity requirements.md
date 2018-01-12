@@ -2,7 +2,7 @@
 
 #### (a) Office of Minority and Women Inclusion
 
-Each regulated entity shall establish an Office of Minority and Women Inclusion, or designate an office of the entity, that shall be responsible for carrying out this section and all matters of the entity relating to diversity in management, employment, and business activities in accordance with such standards and requirements as the Director shall establish.
+Each regulated entity shall establish an Office of Minority and Women Inclusion, or designatean office of the entity, that shall be responsible for carrying out this section and all matters of the entity relating to diversity in management, employment, and business activities in accordance with such standards and requirements as the Director shall establish.
 
 #### (b) Inclusion in all levels of business activities
 

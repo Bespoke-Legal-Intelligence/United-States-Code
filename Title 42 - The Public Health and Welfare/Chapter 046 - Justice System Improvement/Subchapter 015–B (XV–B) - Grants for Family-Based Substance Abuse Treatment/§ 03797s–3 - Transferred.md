@@ -1,0 +1,6 @@
+### §3797s–3. Transferred
+
+#### Codification
+
+Section 3797s–3 was editorially reclassified as section 10594 of Title 34, Crime Control and Law Enforcement.
+

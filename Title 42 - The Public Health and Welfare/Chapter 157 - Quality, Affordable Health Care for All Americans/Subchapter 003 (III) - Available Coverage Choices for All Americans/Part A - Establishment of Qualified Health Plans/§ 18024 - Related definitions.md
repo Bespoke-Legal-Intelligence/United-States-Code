@@ -22,7 +22,7 @@ In this title: <sup>1</sup>
 
 #### (1) Large employer
 
-&emsp;The term "large employer" means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+&emsp;The term "large employer" means, in connection with a group health plan with respectto a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
 #### (2) Small employer
 

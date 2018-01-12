@@ -4,7 +4,7 @@
 
 The Secretary of Defense may carry out a program, referred to as the "Department of Defense Cooperative Threat Reduction Program", with respect to foreign countries to do the following:
 
-&emsp;(1) Facilitate the elimination and the safe and secure transportation and storage of chemical, biological, or other weapons, weapons components, weapons-related materials, and associated delivery vehicles.
+&emsp;(1) Facilitate the elimination and the safe and secure transportation and storage ofchemical, biological, or other weapons, weapons components, weapons-related materials, and associated delivery vehicles.
 
 &emsp;(2) Facilitate—
 
@@ -54,7 +54,7 @@ The Secretary of Defense shall ensure that the military-to-military and defense 
 
 #### (1) Reports requirement
 
-&emsp;Not less than 45 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section 3735(b) of this title, the semiannual period covered by the report).
+&emsp;Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section 3735(b) of this title, the semiannual period covered by the report).
 
 #### (2) Matters included
 
@@ -70,9 +70,11 @@ The Secretary of Defense shall ensure that the military-to-military and defense 
 
 &emsp;Except for Cooperative Threat Reduction funds subject to section 3735 of this title, paragraph (1) shall not apply with respect to a proposed obligation of Cooperative Threat Reduction funds that is covered by a notification previously submitted by the Secretary to the congressional defense committees that includes the matters described in subparagraphs (A) through (C) of paragraph (2).
 
-(Pub. L. 113–291, div. A, title XIII, §1321, Dec. 19, 2014, 128 Stat. 3595; Pub. L. 114–328, div. A, title XIII, §§1302(b)(1), 1303(b), Dec. 23, 2016, 130 Stat. 2566, 2568.)
+(Pub. L. 113–291, div. A, title XIII, §1321, Dec. 19, 2014, 128 Stat. 3595; Pub. L. 114–328, div. A, title XIII, §§1302(b)(1), 1303(b), Dec. 23, 2016, 130 Stat. 2566, 2568; Pub. L. 115–91, div. A, title XIII, §1302(b)(1), Dec. 12, 2017, 131 Stat. 1705.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g)(1). Pub. L. 115–91 substituted "15 days" for "45 days".
 
 <b>2016</b>—Subsec. (g)(1). Pub. L. 114–328, §§1302(b)(1), 1303(b)(1), in heading substituted "Reports requirement" for "Annual requirement" and in text substituted "45 days" for "15 days" and inserted "(or, in accordance with section 3735(b) of this title, the semiannual period covered by the report)" after "that fiscal year".
 

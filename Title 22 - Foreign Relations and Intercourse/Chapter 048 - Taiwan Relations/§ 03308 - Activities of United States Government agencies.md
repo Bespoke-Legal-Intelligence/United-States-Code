@@ -6,11 +6,15 @@ Any agency of the United States Government is authorized to sell, loan, or lease
 
 #### (b) Acquisition and acceptance of services
 
-Any agency of the United States Government is authorized to acquire and accept services from the Institute upon such terms and conditions as the President may direct. Whenever the President determines it to be in furtherance ofthe purposes of this chapter, the procurement of services by such agencies from the Institute may be effected without regard to such laws of the United States normally applicable to the acquisition of services by such agencies as the President may specify by Executive order.
+Any agency of the United States Government is authorized to acquire and accept services from the Institute upon such terms and conditions as the President may direct. Whenever the President determines it to be in furtherance of the purposes of this chapter, the procurement of services by such agencies from the Institute may be effected without regard to such laws of the United States normally applicable to the acquisition of services by such agencies as the President may specify by Executive order.
 
 #### (c) Institute books and records; access; audit
 
-Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access to the books and records of the Institute and the opportunity to audit the operations of the Institute.
+Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access tothe books and records of the Institute and the opportunity to audit the operations of the Institute.
 
 (Pub. L. 96–8, §9, Apr. 10, 1979, 93 Stat. 18.)
+
+#### Effective Date
+
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 #### (b) Appropriations authorization based on currency fluctuations
 
-(1) In order to maintain the levels of program activity for the Department of State providedfor each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
+(1) In order to maintain the levels of program activity for the Department of State provided for each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
 
 &emsp;(A) the calendar year which ended during the fiscal year preceding such fiscal year, or
 

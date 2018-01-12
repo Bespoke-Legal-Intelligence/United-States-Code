@@ -24,9 +24,17 @@ For purposes of this section—
 
 &emsp;&emsp;(A) unless it is in cash, or
 
-&emsp;&emsp;(B) except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.
+&emsp;&emsp;(B) except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the sum of—
 
-> &emsp;For purposes of this paragraph, rules similar to the rules of section 408(d)(4) (determined without regard to subparagraph (B) thereof) shall apply.
+&emsp;&emsp;&emsp;(i) the amount in effect under section 2503(b) for the calendar year in which the taxable year begins, plus
+
+&emsp;&emsp;&emsp;(ii) in the case of any contribution by a designated beneficiary described in paragraph (7) before January 1, 2026, the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) compensation (as defined by section 219(f)(1)) includible in the designated beneficiary's gross income for the taxable year, or
+
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the poverty line for a one-person household, as determined for the calendar year preceding the calendar year in which the taxable year begins.
+
+> &emsp;For purposes of this paragraph, rules similar to the rules of section 408(d)(4) (determined without regard to subparagraph (B) thereof) shall apply. A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met.
 
 #### (3) Separate accounting
 
@@ -43,6 +51,24 @@ For purposes of this section—
 #### (6) Prohibition on excess contributions
 
 &emsp;A program shall not be treated as a qualified ABLE program unless it provides adequate safeguards to prevent aggregate contributions on behalf of a designated beneficiary in excess of the limit established by the State under section 529(b)(6). For purposes of the preceding sentence, aggregate contributions include contributions under any prior qualified ABLE program of any State or agency or instrumentality thereof.
+
+#### (7) Special rules related to contribution limit
+
+&emsp;For purposes of paragraph (2)(B)(ii)—
+
+#### (A) Designated beneficiary
+
+&emsp;&emsp;A designated beneficiary described in this paragraph is an employee (including an employee within the meaning of section 401(c)) with respect to whom—
+
+&emsp;&emsp;&emsp;(i) no contribution is made for the taxable year to a defined contribution plan (within the meaning of section 414(i)) with respect to which the requirements of section 401(a) or 403(a) are met,
+
+&emsp;&emsp;&emsp;(ii) no contribution is made for the taxable year to an annuity contract described in section 403(b), and
+
+&emsp;&emsp;&emsp;(iii) no contribution is made for the taxable year to an eligible deferred compensation plan described in section 457(b).
+
+#### (B) Poverty line
+
+&emsp;&emsp;The term "poverty line" has the meaning given such term by section 673 of the Community Services Block Grant Act (42 U.S.C. 9902).
 
 #### (c) Tax treatment
 
@@ -62,7 +88,7 @@ For purposes of this section—
 
 #### (C) Change in designated beneficiaries or programs
 
-#### (i) Rollovers from able accounts
+#### (i) Rollovers from ABLE accounts
 
 &emsp;&emsp;&emsp;Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a member of the family of the designated beneficiary.
 
@@ -100,7 +126,7 @@ For purposes of this section—
 
 #### (C) Treatment of transfer to new designated beneficiary
 
-&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall not apply to a transfer by reason of a change in the designated beneficiary under subsection (c)(1)(C).
+&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall not apply to a transfer by reason of achange in the designated beneficiary under subsection (c)(1)(C).
 
 #### (3) Additional tax for distributions not used for disability expenses
 
@@ -136,7 +162,7 @@ For purposes of this section—
 
 &emsp;For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
 
-#### (3) Notice of establishment of able account
+#### (3) Notice of establishment of ABLE account
 
 &emsp;A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
 
@@ -176,7 +202,7 @@ For purposes of this section—
 
 #### (B) Restriction on use of certification
 
-&emsp;&emsp;No inference may be drawn from a disability certification for purposes of establishing eligibility for benefits under title II, XVI, or XIX of the Social Security Act.
+&emsp;&emsp;No inference may be drawn from a disability certification for purposes of establishingeligibility for benefits under title II, XVI, or XIX of the Social Security Act.
 
 #### (3) Designated beneficiary
 
@@ -216,7 +242,7 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 &emsp;(7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087.)
+(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075.)
 
 #### References in Text
 
@@ -226,6 +252,12 @@ The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act 
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
+
+Subsec. (b)(2)(B). Pub. L. 115–97, §11024(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins."
+
+Subsec. (b)(7). Pub. L. 115–97, §11024(a)(3), added par. (7).
+
 <b>2015</b>—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, §303(a), inserted "and" at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: "which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and".
 
 Subsec. (c)(1)(C)(i). Pub. L. 114–113, §303(c)(2), substituted "member of the family" for "family member".
@@ -234,7 +266,11 @@ Subsec. (d)(3). Pub. L. 114–113, §303(b)(1), struck out "and State of residen
 
 Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "section 4".
 
-Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents ofthe contracting State access to a qualified ABLE program."
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c) of Pub. L. 115–97, set out as a note under section 25B of this title.
 
 #### Effective Date of 2015 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department a Homeland Security Science and Technology Advisory Committee (in this section referred to as the "Advisory Committee"). The Advisory Committee shall make recommendations with respect to the activities of the Under Secretaryfor Science and Technology, including identifying research areas of potential importance to the security of the Nation.
+There is established within the Department a Homeland Security Science and Technology Advisory Committee (in this section referred to as the "Advisory Committee"). The Advisory Committee shall make recommendations with respect to the activities of the Under Secretary for Science and Technology, including identifying research areas of potential importance to the security of the Nation.
 
 #### (b) Membership
 
@@ -84,5 +84,5 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–347, title III, §302(b), Oct. 13, 2006, 120 Stat. 1921, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if enacted on the date of the enactment of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) \[Nov. 25, 2002\]."
+Pub. L. 109–347, title III, §302(b), Oct. 13, 2006, 120 Stat. 1921, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective asif enacted on the date of the enactment of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) \[Nov. 25, 2002\]."
 

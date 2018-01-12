@@ -18,7 +18,7 @@ Pub. L. 95–75, §10, July 27, 1977, 91 Stat. 311, provided in part that Pub. L
 
 #### References to Former Regulations
 
-Pub. L. 95–75, §10, July 27, 1977, 91 Stat. 311, provided in part that: "The reference in any other law to PublicLaw 88–131 \[enacting sections 1051 to 1094 of this title and enacting a provision set out as a note under section 1051 of this title\], or to the regulations set forth in section 4 of that Act \[sections 1061 to 1094 of this title\], shall be considered a reference, respectively, to this Act \[this chapter\], or to the International Regulations proclaimed hereunder \[set out as a note under section 1602 of this title\]."
+Pub. L. 95–75, §10, July 27, 1977, 91 Stat. 311, provided in part that: "The reference in any other law to Public Law 88–131 \[enacting sections 1051 to 1094 of this title and enacting a provision set out as a note under section 1051 of this title\], or to the regulations set forth in section 4 of that Act \[sections 1061 to 1094 of this title\], shall be considered a reference, respectively, to this Act \[this chapter\], or to the International Regulations proclaimed hereunder \[set out as a note under section 1602 of this title\]."
 
 #### Short Title
 

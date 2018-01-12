@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
 
-&emsp;&emsp;(B) there is significant variation among physicians in the particular services andprocedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
+&emsp;&emsp;(B) there is significant variation among physicians in the particular services and procedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
 
 &emsp;&emsp;(C) the services and procedures utilized for diagnosis and treatment result in relatively substantial expenditures; and
 
@@ -66,7 +66,7 @@
 
 For the purpose of facilitating research under subsection (a), the Secretary shall—
 
-&emsp;(1) conduct and support research with respect to the improvement of methodologies and criteria utilized in conducting research with respect to outcomes of health care services and procedures;
+&emsp;(1) conduct and support research with respect to the improvement of methodologiesand criteria utilized in conducting research with respect to outcomes of health care services and procedures;
 
 &emsp;(2) conduct and support reviews and evaluations of existing research findings with respect to such treatment or conditions;
 
@@ -126,7 +126,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (2) Specifications
 
-&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of suchamounts, are to be appropriated in the following proportions from the following trust funds:
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
 
 &emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
 
@@ -154,7 +154,7 @@ Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b)
 
 #### Codification
 
-Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progress of the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progressof the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
 
 Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
 

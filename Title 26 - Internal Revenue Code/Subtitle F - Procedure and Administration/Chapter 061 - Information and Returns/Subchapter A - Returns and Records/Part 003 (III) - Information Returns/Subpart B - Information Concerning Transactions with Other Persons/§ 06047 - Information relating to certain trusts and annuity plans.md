@@ -48,7 +48,11 @@ The Secretary shall require—
 
 The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
 
-#### (g) Cross references
+#### (g) Information relating to life insurance contract transactions
+
+This section shall not apply to any information which is required to be reported under section 6050Y.
+
+#### (h) Cross references
 
 &emsp;&emsp;<b>(1) For provisions relating to penalties for failures to file returns and reports required under this section, see sections 6652(e), 6721, and 6722.</b>
 
@@ -56,9 +60,17 @@ The Secretary shall require the plan administrator of each applicable retirement
 
 &emsp;&emsp;<b>(3) For provisions relating to penalty for failure to comply with the provisions of subsection (d), see section 6704.</b>
 
-(Added Pub. L. 87–792, §7(m)(1), Oct. 10, 1962, 76 Stat. 830; amended Pub. L. 93–406, title II, §§1031(c)(3), 2002(g)(8), Sept. 2, 1974, 88 Stat. 947, 970; Pub. L. 94–455, title XV, §1501(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737,1834; Pub. L. 97–34, title III, §311(h)(8), Aug. 13, 1981, 95 Stat. 282; Pub. L. 97–248, title III, §334(b), Sept. 3, 1982, 96 Stat. 626; Pub. L. 97–448, title I, §103(c)(12)(C), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(47), (57), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), title XVIII, §1848(e)(2), Oct. 22, 1986, 100 Stat. 2740, 2857; Pub. L. 101–239, title VII, §7301(e), Dec. 19, 1989, 103 Stat. 2349; Pub. L. 102–318, title V, §522(b)(2)(D), (E), July 3, 1992, 106 Stat. 314; Pub. L. 104–188, title I, §§1455(b)(2), (d)(1), 1602(b)(6), Aug. 20, 1996, 110 Stat. 1818, 1834; Pub. L. 107–16, title VI, §617(d)(2), June 7, 2001, 115 Stat. 106.)
+&emsp;&emsp;<b>(4) For provisions requiring reporting of information relating to certain life insurance contract transactions, see section 6050Y.</b>
+
+(Added Pub. L. 87–792, §7(m)(1), Oct. 10, 1962, 76 Stat. 830; amended Pub. L. 93–406, title II, §§1031(c)(3), 2002(g)(8), Sept. 2, 1974, 88 Stat. 947, 970; Pub. L. 94–455, title XV, §1501(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1834; Pub. L. 97–34, title III, §311(h)(8), Aug. 13, 1981, 95 Stat. 282; Pub. L. 97–248, title III, §334(b), Sept. 3, 1982, 96 Stat. 626; Pub. L. 97–448, title I, §103(c)(12)(C), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(47), (57), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), title XVIII, §1848(e)(2), Oct. 22, 1986, 100 Stat. 2740, 2857; Pub. L. 101–239, title VII, §7301(e), Dec. 19, 1989, 103 Stat. 2349; Pub. L. 102–318, title V, §522(b)(2)(D), (E), July 3, 1992, 106 Stat. 314; Pub. L. 104–188, title I, §§1455(b)(2), (d)(1), 1602(b)(6), Aug. 20, 1996, 110 Stat. 1818, 1834; Pub. L. 107–16, title VI, §617(d)(2), June 7, 2001, 115 Stat. 106; Pub. L. 115–97, title I, §13520(c)(2), Dec. 22, 2017, 131 Stat. 2151.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–97, §13520(c)(2)(B), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 115–97, §13520(c)(2)(A), redesignated subsec. (g) as (h).
+
+Subsec. (h)(4). Pub. L. 115–97, §13520(c)(2)(C), added par. (4). Text was editorially conformed to match the style of pars. (1) to (3).
 
 <b>2001</b>—Subsecs. (f), (g). Pub. L. 107–16 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -106,6 +118,14 @@ Subsec. (d). Pub. L. 94–455, §1501(b)(9), inserted "or 220(a)" after "section
 
 Subsec. (e). Pub. L. 93–406, §§1031(c)(3), 2002(g)(8), redesignated former subsec. (d) as (e), and inserted reference to section 6652(f) covering provisions relating to penalties for failure to file a return required by this section.
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13520(d), Dec. 22, 2017, 131 Stat. 2151, provided that: "The amendments made by this section \[enacting section 6050Y of this title and amending this section and section 6724 of this title\] shall apply to—
+
+&emsp;"(1) reportable policy sales (as defined in section 6050Y(d)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) after December 31, 2017, and
+
+&emsp;"(2) reportable death benefits (as defined in section 6050Y(d)(4) of such Code (as added by subsection (a)) paid after December 31, 2017."
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as a note under section 402 of this title.
@@ -148,7 +168,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1501(b)(9) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976,see section 1501(d) of Pub. L. 94–455, set out as a note under section 62 of this title.
+Amendment by section 1501(b)(9) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1501(d) of Pub. L. 94–455, set out as a note under section 62 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -20,7 +20,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking; and
 
-&emsp;&emsp;&emsp;(ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence andabuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
+&emsp;&emsp;&emsp;(ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
 
 &emsp;&emsp;(B) design and implement comprehensive strategies to improve the response of the health care system to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
 
@@ -60,7 +60,7 @@ The Secretary shall award grants for—
 
 #### (A) In general
 
-&emsp;&emsp;Grantees under this section shall ensure that all programs developed with grant funds address issues of confidentiality and patient safety and comply with applicable confidentiality and nondisclosure requirements under section 13925(b)(2) of this title and the Family Violence Prevention and Services Act \[42 U.S.C. 10401 et seq.\], and that faculty and staff associated with delivering educational components are fully trained in procedures that will protect the immediate and ongoing security and confidentiality of the patients, patient records, and staff. Such grantees shall consult entities with demonstrated expertise in the confidentiality and safety needs of victims of domestic violence, dating violence, sexual assault, and stalking on the development and adequacy of confidentially and security procedures, and provide documentation of such consultation.
+&emsp;&emsp;Grantees under this section shall ensure that all programs developed with grantfunds address issues of confidentiality and patient safety and comply with applicable confidentiality and nondisclosure requirements under section 12291(b)(2) of title 34 and the Family Violence Prevention and Services Act \[42 U.S.C. 10401 et seq.\], and that faculty and staff associated with delivering educational components are fully trained in procedures that will protect the immediate and ongoing security and confidentiality of the patients, patient records, and staff. Such grantees shall consult entities with demonstrated expertise in the confidentiality and safety needs of victims of domestic violence, dating violence, sexual assault, and stalking on the development and adequacy of confidentially and security procedures, and provide documentation of such consultation.
 
 #### (B) Advance notice of information disclosure
 
@@ -130,7 +130,7 @@ The Secretary shall award grants for—
 
 #### (1) In general
 
-&emsp;Of the funds made available to carry out this section for any fiscal year, the Secretary may make grants or enter into contracts to provide technical assistance with respect to the planning, development, and operation of any program, activity or service carried out pursuant to this section. Not more than 8 percent of the funds appropriated under this section in eachfiscal year may be used to fund technical assistance under this subsection.
+&emsp;Of the funds made available to carry out this section for any fiscal year, the Secretary may make grants or enter into contracts to provide technical assistance with respect to the planning, development, and operation of any program, activity or service carried out pursuant to this section. Not more than 8 percent of the funds appropriated under this section in each fiscal year may be used to fund technical assistance under this subsection.
 
 #### (2) Availability of materials
 
@@ -172,7 +172,7 @@ There is authorized to be appropriated to carry out this section, $10,000,000 fo
 
 #### (h) Definitions
 
-Except as otherwise provided herein, the definitions provided for in section 13925 of this title shall apply to this section.
+Except as otherwise provided herein, the definitions provided for in section 12291 of title 34 shall apply to this section.
 
 (July 1, 1944, ch. 373, title III, §399P, formerly §399O, as added Pub. L. 109–162, title V, §504, Jan. 5, 2006, 119 Stat. 3026; renumbered §399P, Pub. L. 109–450, §4(1), Dec. 22, 2006, 120 Stat. 3342; amended Pub. L. 113–4, title V, §501(a), Mar. 7, 2013, 127 Stat. 96.)
 
@@ -198,7 +198,7 @@ Pub. L. 109–162, title V, §501, Jan. 5, 2006, 119 Stat. 3023, provided that: 
 
 &emsp;"(5) Each year about 324,000 pregnant women in the United States are battered by the men in their lives. This battering leads to complications of pregnancy, including low weight gain, anemia, infections, and first and second trimester bleeding.
 
-&emsp;"(6) Pregnant and recently pregnant women are more likely to be victims of homicide than to die of any other pregnancy-related cause, and evidence exists that a significant proportion of all female homicide victims are killed by their intimate partners.
+&emsp;"(6) Pregnant and recently pregnant women are more likely to be victims of homicide than to die ofany other pregnancy-related cause, and evidence exists that a significant proportion of all female homicide victims are killed by their intimate partners.
 
 &emsp;"(7) Children who witness domestic violence are more likely to exhibit behavioral and physical health problems including depression, anxiety, and violence towards peers. They are also more likely to attempt suicide, abuse drugs and alcohol, run away from home, engage in teenage prostitution, and commit sexual assault crimes.
 

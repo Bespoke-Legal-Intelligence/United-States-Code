@@ -66,7 +66,7 @@ The Secretary shall maintain and, as appropriate, supplement or revise (after pu
 
 &emsp;&emsp;&emsp;(iii) a plan to apply the latest advances in health information technology, to the extent practicable, in order to incorporate prescription drug monitoring program data directly into the workflow of prescribers and dispensers to ensure timely access to patients' controlled prescription drug history;
 
-&emsp;&emsp;&emsp;(iv) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one otherState controlled substance monitoring program and at least one health information technology system such as electronic health records, health information exchanges, or e-prescribing systems;
+&emsp;&emsp;&emsp;(iv) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one other State controlled substance monitoring program and at least one health information technology system such as electronic health records, health information exchanges, or e-prescribing systems;
 
 &emsp;&emsp;&emsp;(v) assurances of compliance with all other requirements of this section or a statement describing why such compliance is not feasible or is contrary to the best interests of public health or safety in such State; and
 
@@ -106,7 +106,7 @@ In establishing, improving, or maintaining a controlled substance monitoring pro
 
 &emsp;&emsp;(B) the dispensing of a controlled substance in a quantity limited to an amount adequate to treat the ultimate user involved for 48 hours or less; or
 
-&emsp;&emsp;(C) the administration or dispensing of a controlled substance in accordance with any other exclusion identified by the Secretary for purposes of this paragraph.
+&emsp;&emsp;(C) the administration or dispensing of a controlled substance in accordance with anyother exclusion identified by the Secretary for purposes of this paragraph.
 
 &emsp;(3) The information to be reported under this subsection with respect to the dispensing of a controlled substance shall include the following:
 
@@ -172,7 +172,7 @@ In establishing, improving, or maintaining a controlled substance monitoring pro
 
 &emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of information that will help identify and prevent the unlawful diversion or misuse of controlled substances; and
 
-&emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) indicates an unlawful diversion or abuse of a controlled substance.
+&emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversioninvestigations if the State determines that information in the database maintained by the State under subsection (e) indicates an unlawful diversion or abuse of a controlled substance.
 
 #### (3) Evaluation and reporting
 
@@ -258,7 +258,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;&emsp;&emsp;(iii) determines the progress of States in achieving interoperability between controlled substance monitoring programs, and between controlled substance monitoring programs and health information technology systems, including an assessment of technical and legal barriers to such activities and recommendations for addressing these barriers;
 
-&emsp;&emsp;&emsp;(iv) determines the feasibility of implementing a real-time electronic controlled substance monitoring program, including the costs associated with establishing such a program;
+&emsp;&emsp;&emsp;(iv) determines the feasibility of implementing a real-time electronic controlledsubstance monitoring program, including the costs associated with establishing such a program;
 
 &emsp;&emsp;&emsp;(v) provides an analysis of the privacy protections in place for the information reported to the controlled substance monitoring program in each State receiving a grant for the establishment or operation of such program, and any recommendations for additional requirements for protection of this information;
 
@@ -340,7 +340,7 @@ Subsec. (c)(1)(B)(v). Pub. L. 114–198, §109(b)(3)(A)(iii), (vi), redesignated
 
 Subsec. (c)(1)(B)(vi). Pub. L. 114–198, §109(b)(3)(A)(vii), added cl. (vi).
 
-Subsec. (c)(3). Pub. L. 114–198, §109(b)(3)(B), designated existing provisions as subpar. (A) and inserted heading, inserted before period at end "and include timelines for full implementation of such interoperability. The State shall also describe the manner in which it will achieve interoperability between its monitoring program and health information technology systems, as allowable under State law, and includetimelines for the implementation of such interoperability", and added subpar. (B).
+Subsec. (c)(3). Pub. L. 114–198, §109(b)(3)(B), designated existing provisions as subpar. (A) and inserted heading, inserted before period at end "and include timelines for full implementation of such interoperability. The State shall also describe the manner in which it will achieve interoperability between its monitoring program and health information technology systems, as allowable under State law, and include timelines for the implementation of such interoperability", and added subpar. (B).
 
 Subsec. (c)(5). Pub. L. 114–198, §109(b)(3)(C), substituted "establish, improve, or maintain" for "implement or improve" and inserted at end "The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B)."
 

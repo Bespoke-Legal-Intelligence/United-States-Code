@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any portion of a claim for taxes allowed in a receivership proceeding which is unpaid shall bepaid by the taxpayer upon notice and demand from the Secretary after the termination of such proceeding.
+Any portion of a claim for taxes allowed in a receivership proceeding which is unpaid shall be paid by the taxpayer upon notice and demand from the Secretary after the termination of such proceeding.
 
 #### (b) Cross references
 

@@ -6,7 +6,7 @@
 
 (c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
 
-(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180,div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, §403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, §416(f), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title IV, §406, Jan. 28, 2008, 122 Stat. 89.)
+(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, §403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, §416(f), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title IV, §406, Jan. 28, 2008, 122 Stat. 89.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on nu
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–180, §413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
+Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74from 9 and 74, respectively. Army figures remained unchanged.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 97–86, §503(2), added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title IV, §407(b), Oct. 17, 1998, 112 Stat. 1996, provided that: "The amendments madeby subsection (a) \[amending this section\] shall take effect on October 1, 1999."
+Pub. L. 105–261, div. A, title IV, §407(b), Oct. 17, 1998, 112 Stat. 1996, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999."
 
 #### Effective Date of 1994 Amendment
 

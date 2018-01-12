@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–103 struck out "(1)" before "In order to", redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted "subsection (c)(2)" for "paragraph (3)(B)", and struck out former subsec. (b) which read as follows: "The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section."
+<b>2001</b>—Pub. L. 107–103 struck out "(1)" before "In order to", redesignated par. (2) of subsec. (a) as subsec. (b),redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted "subsection (c)(2)" for "paragraph (3)(B)", and struck out former subsec. (b) which read as follows: "The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section."
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
@@ -38,5 +38,5 @@ Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided tha
 
 #### Interim Provision for Filing Notices of Appeal
 
-Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than thedate that would otherwise be applicable under this section.
+Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
 

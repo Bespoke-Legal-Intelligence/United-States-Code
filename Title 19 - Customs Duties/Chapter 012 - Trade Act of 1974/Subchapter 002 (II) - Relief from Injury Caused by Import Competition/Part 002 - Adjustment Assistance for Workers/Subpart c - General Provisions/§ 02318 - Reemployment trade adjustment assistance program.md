@@ -132,7 +132,7 @@ Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 Subsec. (b)(1). Pub. L. 114–27, §§403(c), 406, temporarily substituted "June 30, 2021" for "December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 

@@ -56,7 +56,7 @@ As used in this section—
 
 #### (c) Actions with respect to servicers
 
-In any case in which a Federal property manager is not the owner of a residential mortgage loan, but holds an interest in obligations or pools of obligations secured by residential mortgage loans, the Federal property manager shall—
+In any case in which a Federal property manager is not the owner of a residential mortgageloan, but holds an interest in obligations or pools of obligations secured by residential mortgage loans, the Federal property manager shall—
 
 &emsp;(1) encourage implementation by the loan servicers of loan modifications developed under subsection (b); and
 

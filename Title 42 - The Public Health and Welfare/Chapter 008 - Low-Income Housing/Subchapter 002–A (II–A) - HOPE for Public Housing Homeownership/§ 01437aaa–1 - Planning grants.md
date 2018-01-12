@@ -36,7 +36,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 &emsp;The Secretary shall require that an application contain at a minimum—
 
-&emsp;&emsp;(A) a request for a planning grant, specifying the activities proposed to be carried out,the schedule for completing the activities, the personnel necessary to complete the activities, and the amount of the grant requested;
+&emsp;&emsp;(A) a request for a planning grant, specifying the activities proposed to be carried out, the schedule for completing the activities, the personnel necessary to complete the activities, and the amount of the grant requested;
 
 &emsp;&emsp;(B) a description of the applicant and a statement of its qualifications;
 

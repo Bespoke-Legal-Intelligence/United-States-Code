@@ -244,7 +244,7 @@
 
 &emsp;&emsp;&emsp;(ii) any material incentives or conflicts of interest that the swap dealer or major swap participant may have in connection with the swap; and
 
-&emsp;&emsp;&emsp;(iii)(I) for cleared swaps, upon the request of the counterparty, receipt of thedaily mark of the transaction from the appropriate derivatives clearing organization; and
+&emsp;&emsp;&emsp;(iii)(I) for cleared swaps, upon the request of the counterparty, receipt of the daily mark of the transaction from the appropriate derivatives clearing organization; and
 
 &emsp;&emsp;&emsp;(II) for uncleared swaps, receipt of the daily mark of the transaction from the swap dealer or the major swap participant;
 
@@ -492,7 +492,7 @@ Section and amendment by Pub. L. 111–203 effective on the later of 360 days af
 
 #### Implementation
 
-Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title to the Commodity Exchange Act \[amending this section\] shall be implemented—
+Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title tothe Commodity Exchange Act \[amending this section\] shall be implemented—
 
 &emsp;"(1) without regard to—
 

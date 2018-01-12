@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
-(b)(1) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may,with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+(b)(1) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
 (2) Paragraph (1) does not apply to a member or former member entitled to retired pay for non-regular service under chapter 1223 of this title who is under 60 years of age.
 
@@ -60,9 +60,9 @@
 
 &emsp;(B) 180 days before the date on which the period of active duty is to commence under such order for that member.
 
-(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
+(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L.110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
 
 Historical and Revision Notes
 
@@ -95,6 +95,8 @@ Provisions similar to those in subsec. (c) of this section were contained in Pub
 A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(2). Pub. L. 115–91 substituted "under section 12304b of this title or" for "in support of a contingency operation under".
 
 <b>2009</b>—Subsec. (d)(1)(B). Pub. L. 111–84 substituted "180 days" for "90 days".
 
@@ -136,7 +138,7 @@ Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(D
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
 
-"(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services under section 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
+"(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services undersection 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
 
 "(2) In this subsection:
 
@@ -203,6 +205,48 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Declassification by Department of Defense of Certain Incidents of Exposure of Members of the Armed Forces to Toxic Substances
+
+Pub. L. 115–91, div. A, title VII, §737, Dec. 12, 2017, 131 Stat. 1445, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall conduct a declassification review of documents related to any known incident in which not fewer than 100 members of the Armed Forces were intentionally exposed to a toxic substance that resulted in at least one case of a disability that a member of the medical profession has determined to be associated with that toxic substance.
+
+"(b)
+
+Limitation.—The declassification required by subsection (a) shall be limited to information necessary for an individual who was potentially exposed to a toxic substance to determine the following:
+
+&emsp;"(1) Whether that individual was exposed to that toxic substance.
+
+&emsp;"(2) The potential severity of the exposure of that individual to that toxic substance.
+
+&emsp;"(3) Any potential health conditions that may have resulted from exposure to that toxic substance.
+
+"(c)
+
+Exception.—The Secretary of Defense is not required to declassify documents under subsection (a) if the Secretary determines that declassification of those documents would materially and immediately threaten the security of the United States.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Armed forces.—The term 'Armed Forces' has the meaning given that term in section 101 of title 10, United States Code.
+
+&emsp;"(2)
+
+Exposed.—The term 'exposed' means, with respect to a toxic substance, that an individual came into contact with that toxic substance in a manner that could be hazardous to the health of that individual, that may include if that toxic substance was inhaled, ingested, or touched the skin or eyes.
+
+&emsp;"(3)
+
+Exposure.—The term 'exposure' means, with respect to a toxic substance, an event during which an individual was exposed to that toxic substance.
+
+&emsp;"(4)
+
+Toxic substance.—The term 'toxic substance' means any substance determined by the Administrator of the Environmental Protection Agency to be harmful to the environment or hazardous to the health of an individual if inhaled or ingested by or absorbed through the skin of that individual."
 
 #### Adjustment of Medical Services, Personnel Authorized Strengths, and Infrastructure in Military Health System To Maintain Readiness and Core Competencies of Health Care Providers
 
@@ -374,7 +418,7 @@ Chain of Command Involvement.—In establishing the program, the Secretary of De
 
 "(e)
 
-Plan.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretaryshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
+Plan.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
 
 "(f)
 
@@ -498,7 +542,7 @@ Tracking system.—Not later than 180 days after the date of the enactment of th
 
 &emsp;"(2)
 
-Access.—Not later than October 1, 2006, and each quarter thereafter during fiscal year 2007, the Secretary shall submit to such committees a report on the performance of the health care system inmeeting the access standards described in the report required by subsection (a)."
+Access.—Not later than October 1, 2006, and each quarter thereafter during fiscal year 2007, the Secretary shall submit to such committees a report on the performance of the health care system in meeting the access standards described in the report required by subsection (a)."
 
 #### Pilot Projects on Early Diagnosis and Treatment of Post Traumatic Stress Disorder and Other Mental Health Conditions
 
@@ -726,7 +770,7 @@ Implementation and Report.—Not later than six months after the date of the ena
 
 #### Medical Readiness Plan and Joint Medical Readiness Oversight Committee
 
-Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, §1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, §1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 "(a)
 
@@ -1074,7 +1118,7 @@ Reports on Implementation.—(1) Not later than six months after the date of the
 
 "(f)
 
-Project 112.—For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy."
+Project 112.—For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963 to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy."
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
@@ -1170,7 +1214,7 @@ Pub. L. 104–201, div. A, title VII, §743, Sept. 23, 1996, 110 Stat. 2601, pro
 
 Definitions.—For purposes of this section:
 
-&emsp;"(1) The term 'Gulf War service' means service on active duty as a member of the Armed Forces in theSouthwest Asia theater of operations during the Persian Gulf War.
+&emsp;"(1) The term 'Gulf War service' means service on active duty as a member of the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
 
 &emsp;"(2) The term 'Gulf War syndrome' means the complex of illnesses and symptoms commonly known as Gulf War syndrome.
 
@@ -1216,7 +1260,7 @@ Pub. L. 105–85, div. A, title VII, §§761, 762, 770, Nov. 18, 1997, 111 Stat.
 
 "(a)
 
-Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall prepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
+Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shallprepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
 
 "(b)
 
@@ -1272,7 +1316,7 @@ Outreach Program to Persian Gulf Veterans and Families.—The Secretary of Defen
 
 &emsp;&emsp;"(D) possible health risks to children of Persian Gulf veterans;
 
-&emsp;"(2) inform such individuals of the procedures for registering in either the Persian Gulf VeteransHealth Surveillance System of the Department of Defense or the Persian Gulf War Health Registry of the Department of Veterans Affairs; and
+&emsp;"(2) inform such individuals of the procedures for registering in either the Persian Gulf Veterans Health Surveillance System of the Department of Defense or the Persian Gulf War Health Registry of the Department of Veterans Affairs; and
 
 &emsp;"(3) encourage such members to report any symptoms they may have and to register in the appropriate health surveillance registry.
 
@@ -1414,7 +1458,7 @@ Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, dire
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
-Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704,Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704, Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 "(a)
 
@@ -1460,7 +1504,7 @@ Definitions.—For purposes of this section:
 
 #### Advisory Committee on Mental Health Evaluation Protections
 
-Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
+Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, titleV, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
 
 #### Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities
 

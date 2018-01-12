@@ -116,7 +116,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (4) Information to Federal prosecutors
 
-&emsp;Each clerk required to include on a return under paragraph (1) the information described in paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statementshowing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
+&emsp;Each clerk required to include on a return under paragraph (1) the information described in paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statement showing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
 
 #### (5) Information to payors of bail
 

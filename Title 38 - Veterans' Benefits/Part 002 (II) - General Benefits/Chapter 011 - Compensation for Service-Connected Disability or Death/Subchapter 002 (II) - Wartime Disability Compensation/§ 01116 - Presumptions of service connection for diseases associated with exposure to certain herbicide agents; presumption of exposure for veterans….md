@@ -30,7 +30,7 @@
 
 (b)(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
 
-(2) In making determinations for the purpose of this subsection, the Secretary shall take into account (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
+(2) In making determinations for the purpose of this subsection, the Secretary shall take intoaccount (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
 
 (3) An association between the occurrence of a disease in humans and exposure to an herbicide agent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
 
@@ -130,7 +130,7 @@ In General.—
 
 &emsp;"(1)
 
-Agreement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Medicine under which the National Academy of Medicineconducts an assessment on scientific research relating to the descendants of individuals with toxic exposure.
+Agreement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Medicine under which the National Academy of Medicine conducts an assessment on scientific research relating to the descendants of individuals with toxic exposure.
 
 &emsp;"(2)
 
@@ -342,7 +342,7 @@ Availability of Records.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
+In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces,that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -390,7 +390,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, §410, Sept. 29, 2017, 131 Stat. 1165, provided that:
 
 "(a)
 
@@ -440,11 +440,11 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on December 31, 2017.
+Sunset.—This section shall cease to be effective on September 30, 2018.
 
 "(j)
 
-Alternative Contract Scientific Organization.—If the Secretary is unable within the time period prescribed in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that is not part of the Government and operates as a not-for-profit entity andthat has expertise and objectivity comparable to that of the National Academy of Sciences. If the Secretary enters into such an agreement with another organization, then any reference in this section and in section 1116 \[formerly 316\] of title 38, United States Code (as added by section 2), to the National Academy of Sciences shall be treated as a reference to the other organization.
+Alternative Contract Scientific Organization.—If the Secretary is unable within the time period prescribed in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that is not part of the Government and operates as a not-for-profit entity and that has expertise and objectivity comparable to that of the National Academy of Sciences. If the Secretary enters into such an agreement with another organization, then any reference in this section and in section 1116 \[formerly 316\] of title 38, United States Code (as added by section 2), to the National Academy of Sciences shall be treated as a reference to the other organization.
 
 "(k)
 
@@ -526,7 +526,7 @@ Security of Specimens.—The Secretary shall ensure that the tissue is collected
 
 "(c)
 
-Authorized Use of Specimens.—The Secretary may make blood and tissue available from the system for research referred to in subsection (a). The Secretaryshall carry out this section in a manner consistent with the privacy rights and interests of the blood and tissue donors.
+Authorized Use of Specimens.—The Secretary may make blood and tissue available from the system for research referred to in subsection (a). The Secretary shall carry out this section in a manner consistent with the privacy rights and interests of the blood and tissue donors.
 
 "(d)
 
@@ -628,7 +628,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;"(B) notifies the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-"(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section."
+"(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section."
 
 #### Study of Effect of Vietnam Experience on Health Status of Women Vietnam Veterans
 
@@ -694,7 +694,7 @@ OTA Monitoring of Compliance.—(1) In order to ensure compliance with the proto
 
 "(e)
 
-Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submitted under subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
+Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submittedunder subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
 
 "(f)
 
@@ -732,5 +732,5 @@ Definitions.—For the purposes of this section:
 
 #### Agent Orange Study; Report to Congressional Committees
 
-Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
+Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
 

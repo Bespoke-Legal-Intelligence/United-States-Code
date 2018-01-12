@@ -42,3 +42,7 @@ This chapter, referred to in text, was in the original "this title", except in s
 
 &emsp;"(B) the application for refunding has been finally denied in accordance with section 10708 of this title."
 
+#### Effective Date
+
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under section 10701 of this title.
+

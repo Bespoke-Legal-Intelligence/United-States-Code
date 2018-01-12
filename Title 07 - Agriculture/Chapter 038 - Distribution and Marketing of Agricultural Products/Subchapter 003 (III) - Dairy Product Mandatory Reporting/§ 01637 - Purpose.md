@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to establish a program of information regarding the marketing of dairy products that—
 
-&emsp;(1) provides information that can be readily understood by producers and other marketparticipants, including information with respect to prices, quantities sold, and inventories of dairy products;
+&emsp;(1) provides information that can be readily understood by producers and other market participants, including information with respect to prices, quantities sold, and inventories of dairy products;
 
 &emsp;(2) improves the price and supply reporting services of the Department of Agriculture; and
 

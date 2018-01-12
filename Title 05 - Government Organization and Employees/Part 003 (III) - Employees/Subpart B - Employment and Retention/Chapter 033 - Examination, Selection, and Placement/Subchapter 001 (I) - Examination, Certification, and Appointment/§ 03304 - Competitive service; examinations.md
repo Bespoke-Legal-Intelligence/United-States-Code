@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) public notice has been given; and
 
-&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates or that there is a critical hiring need.
+&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 
 > The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
@@ -32,7 +32,7 @@
 
 (f)(1) Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
 
-(2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a career or career-conditional appointment, as appropriate.
+(2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a careeror career-conditional appointment, as appropriate.
 
 (3) This subsection shall not be construed to confer an entitlement to veterans' preference that is not otherwise required by law.
 
@@ -40,7 +40,7 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485; Pub. L. 115–46, title II, §213, Aug. 12, 2017, 131 Stat. 967.)
 
 Historical and Revision Notes
 
@@ -104,6 +104,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(3)(B). Pub. L. 115–46 inserted "(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)" after "severe shortage of candidates".
+
 <b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 "(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
@@ -132,7 +134,7 @@ Subsec. (f)(5). Pub. L. 106–117, §511(c)(4), added par. (5).
 
 &emsp;"(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
 
-> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfersto the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces."
+> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces."
 
 Subsec. (d). Pub. L. 104–65, §17(a), which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
 

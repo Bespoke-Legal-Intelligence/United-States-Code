@@ -6,7 +6,7 @@ Promotions of officers of the Regular Corps to any grade up to and including the
 
 #### (b) Promotion to certain grades only to fill vacancies; regulations; "restricted grade" defined
 
-The President may by regulation provide that in a specified professional category permanent promotions to the senior grade, or to both the full grade and the senior grade, shall be made only if there are vacancies in such grade. A grade in any category with respect to whichsuch regulations have been issued is referred to in this section as a "restricted grade".
+The President may by regulation provide that in a specified professional category permanent promotions to the senior grade, or to both the full grade and the senior grade, shall be made only if there are vacancies in such grade. A grade in any category with respect to which such regulations have been issued is referred to in this section as a "restricted grade".
 
 #### (c) Examinations
 
@@ -72,7 +72,7 @@ Whenever the number of officers of the Regular Corps on active duty, plus the nu
 
 Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
-(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290.)
+(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### Codification
 

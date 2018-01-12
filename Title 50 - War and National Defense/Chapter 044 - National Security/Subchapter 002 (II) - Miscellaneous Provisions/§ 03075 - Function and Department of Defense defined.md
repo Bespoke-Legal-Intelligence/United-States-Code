@@ -1,14 +1,10 @@
 ### §3075. "Function" and "Department of Defense" defined
 
-(a) As used in this Act, the term "function" includes functions, powers, and duties.
+(a) <sup>1</sup> As used in this Act, the term "function" includes functions, powers, and duties.
 
 (b) As used in this Act, the term "Department of Defense" shall be deemed to include the military departments of the Army, the Navy, and the Air Force, and all agencies created under title II of this Act.
 
 (July 26, 1947, ch. 343, title III, §308, 61 Stat. 509; Aug. 10, 1949, ch. 412, §12(e), 63 Stat. 591.)
-
-#### Partial Repeal
-
-<i>Pub. L. 87–651, title III, §307, Sept. 7, 1962, 76 Stat. 526, repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.</i>
 
 #### References in Text
 
@@ -23,4 +19,10 @@ Section was formerly classified to section 410 of this title prior to editorial 
 #### Amendments
 
 <b>1949</b>—Subsec. (b). Act Aug. 10, 1949, substituted definition of "Department of Defense" for definition of "budget program".
+
+#### Partial Repeal of Subsection (a)
+
+Pub. L. 87–651, title III, §307, Sept. 7, 1962, 76 Stat. 526, repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
+
+<i><sup>1</sup></i><i> See Partial Repeal of Subsection (a) note below.</i>
 

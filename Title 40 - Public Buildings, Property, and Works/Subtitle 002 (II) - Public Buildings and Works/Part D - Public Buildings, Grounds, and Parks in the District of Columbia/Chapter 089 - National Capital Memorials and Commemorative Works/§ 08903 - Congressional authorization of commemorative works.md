@@ -76,7 +76,7 @@ In subsection (d), the words "House Administration" are substituted for "House O
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed by making the insertion before "Resources of the House", to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed bymaking the insertion before "Resources of the House", to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted "work solely commemorating a limited military engagement" for "work commemorating a lesser conflict" and "such war or conflict" for "the event".
 
@@ -108,7 +108,7 @@ Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title 
 
 Disabled Veterans' LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, §1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, §437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, §423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, §419(a), Dec. 18, 2015, 129 Stat. 2579.
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, §1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, §437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, §423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, §419(a), Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–31, div. G, title IV, §419, May 5, 2017, 131 Stat. 498.
 
 Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 
@@ -130,11 +130,15 @@ Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701
 
 Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, §301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, §129, Oct. 30, 2009, 123 Stat. 2933.
 
-National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, §3093, Dec. 19, 2014, 128 Stat. 3879.
+National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, §3093, Dec. 19, 2014, 128 Stat. 3879; Pub. L. 115–18, Mar. 31, 2017, 131 Stat. 82.
+
+National Global War on Terrorism Memorial.—Pub. L. 115–51, Aug. 18, 2017, 131 Stat. 1003.
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 
 Peace Corps Memorial.—Pub. L. 113–78, §1, Jan. 24, 2014, 128 Stat. 647.
+
+Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, §352, Dec. 12, 2017, 131 Stat. 1367.
 
 Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
 

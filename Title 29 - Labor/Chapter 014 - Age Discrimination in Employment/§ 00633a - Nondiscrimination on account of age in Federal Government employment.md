@@ -38,7 +38,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II,§201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 

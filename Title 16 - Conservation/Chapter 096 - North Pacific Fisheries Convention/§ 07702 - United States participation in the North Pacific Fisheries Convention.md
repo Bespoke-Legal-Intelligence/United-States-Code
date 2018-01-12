@@ -96,7 +96,7 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Advisory Committee shall determine its organization and prescribe its practices and procedures for carrying out its functions under this chapter, the North Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;&emsp;&emsp;The Advisory Committee shall determine its organization and prescribe itspractices and procedures for carrying out its functions under this chapter, the North Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (ii) Public availability of procedures
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) a railroad;
 
-&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
+&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 &emsp;(3)(A) a foreign insurance company, engaged in such business in the United States; or
 
@@ -30,9 +30,9 @@
 
 &emsp;(D) reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under section 547 of this title.
 
-(d) Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
+(d) Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-(e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
+(e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 <sup>2</sup> and noncontingent, liquidated, secured debts of less than $750,000,<sup>2</sup> or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 <sup>2</sup> and noncontingent, liquidated, secured debts of less than $750,000 <sup>2</sup> may be a debtor under chapter 13 of this title.
 
 (f) Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -62,15 +62,11 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, §2(1), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(6), Dec. 22, 2010, 124 Stat. 3557.)
 
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
 
-Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House. Railroad liquidations will occur under chapter 11, not chapter 7.
+Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House.Railroad liquidations will occur under chapter 11, not chapter 7.
 
 Section 109(c) contains a provision which tracks the Senate amendment as to when a municipality may be a debtor under chapter 11 of title 11. As under the Bankruptcy Act \[former title 11\], State law authorization and prepetition negotiation efforts are required.
 
@@ -96,7 +92,7 @@ Subsection (d) permits a person that may proceed under chapter 7 to be a debtor 
 
 Subsection (e) specifies eligibility for chapter 13, Adjustment of Debts of an Individual with Regular Income. An individual with regular income, or an individual with regular income and the individual's spouse, may proceed under chapter 13. As noted in connection with the definition of the term "individual with regular income", this represents a significant departure from current law. The change might have been too great, however, without some limitation. Thus, the debtor (or the debtor and spouse) must have unsecured debts that aggregate less than $100,000, and secured debts that aggregate less than $500,000. These figures will permit the small sole proprietor, for whom a chapter 11 reorganization is too cumbersome a procedure, to proceed under chapter 13. It does not create a presumption that any sole proprietor within that range is better off in chapter 13 than chapter 11. The conversion rules found in section 1307 will govern the appropriateness of the two chapters for any particular individual. The figures merely set maximum limits.
 
-Whether a small business operated by a husband and wife, the so-called "mom and pop grocery store," will be a partnership and thus excluded from chapter 13, or a business owned by an individual, will have to be determined on the facts of each case. Even if partnership papers have not been filed, for example, the issue will be whether the assets of the grocery store are for the benefit of all creditors of the debtor or only for business creditors, and whether such assets may be the subject of a chapter 13 proceeding. The intent of the section is to follow current law that a partnership by estoppel may be adjudicated in bankruptcy and therefore would not prevent a chapter 13 debtor from subjecting assets in such a partnership to the reach of all creditors in a chapter 13 case. However, if the partnership is found to be a partnership by agreement, even informal agreement, than a separate entity exists and the assets of that entity would be exempt from a case under chapter 13.
+Whether a small business operated by a husband and wife, the so-called "mom and pop grocery store," will be a partnership and thus excluded from chapter 13, or a business owned by an individual, will have to be determined on the facts of each case. Even if partnership papers have not been filed, for example, the issue will be whether the assets of the grocery store are for the benefit of all creditors of the debtor or only for business creditors, and whether such assets may be the subject of a chapter 13 proceeding. The intent of the section is to follow current law that a partnership by estoppel may be adjudicated in bankruptcy and therefore would not prevent a chapter 13 debtor from subjecting assets in such a partnership to the reach of all creditors in a chapter 13 case. However, if the partnership is found to be a partnership by agreement, even informalagreement, than a separate entity exists and the assets of that entity would be exempt from a case under chapter 13.
 
 #### References in Text
 
@@ -108,7 +104,7 @@ Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)
 
 Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), is classified to section 4422 of Title 12, Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to section 3101 of Title 12, Banks and Banking.
 
@@ -184,7 +180,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts "383,175" and "1,149,525" were adjusted to "394,725" and "1,184,200",respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts "383,175" and "1,149,525" were adjusted to "394,725" and "1,184,200", respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts "360,475" and "1,081,400" were adjusted to "383,175" and "1,149,525", respectively, each time they appeared.
 
@@ -197,4 +193,8 @@ By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (e), dollar amounts "269,250" and "807,750" were adjusted to "290,525" and "871,550", respectively, each time they appeared.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (e), dollar amounts "250,000" and "750,000" were adjusted to "269,250" and "807,750", respectively, each time they appeared.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

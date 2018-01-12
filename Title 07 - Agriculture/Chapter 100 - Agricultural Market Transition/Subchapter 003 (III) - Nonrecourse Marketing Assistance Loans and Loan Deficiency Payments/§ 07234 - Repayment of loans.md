@@ -26,7 +26,7 @@ The Secretary shall permit producers to repay a marketing assistance loan under 
 
 #### (c) Repayment rates for extra long staple cotton
 
-Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rate established for the commodity under section 7232 of this title, plus interest (as determined by the Secretary).
+Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rateestablished for the commodity under section 7232 of this title, plus interest (as determined by the Secretary).
 
 #### (d) Prevailing world market price
 

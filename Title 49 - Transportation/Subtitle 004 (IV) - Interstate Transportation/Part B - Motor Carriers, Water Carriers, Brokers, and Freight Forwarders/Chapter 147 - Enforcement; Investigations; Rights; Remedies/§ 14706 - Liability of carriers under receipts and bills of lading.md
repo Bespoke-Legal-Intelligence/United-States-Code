@@ -34,7 +34,7 @@ Carrier notification.—If the motor carrier is not required to file its tariff 
 
 &emsp;&emsp;(C)
 
-Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken bycarriers acting under an agreement approved pursuant to section 13703.
+Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Limiting Liability of Household Goods Carriers to Declared Value.—
 
 &emsp;(1)
 
-In general.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
+In general.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under whichthe liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
 
 &emsp;(2)
 

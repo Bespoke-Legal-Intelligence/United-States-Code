@@ -6,7 +6,7 @@ Within 180 days after December 16, 1974, the Administrator shall list in the Fed
 
 #### (b) State applications; notice to Administrator of compliance with revised or added requirements; approval or disapproval by Administrator; duration of State primary enforcement responsibility; public hearing
 
-(1)(A) Each State listed under subsection (a) shall within 270 days after the date of promulgation of any regulation under section 300h of thistitle (or, if later, within 270 days after such State is first listed under subsection (a)) submit to the Administrator an application which contains a showing satisfactory to the Administrator that the State—
+(1)(A) Each State listed under subsection (a) shall within 270 days after the date of promulgation of any regulation under section 300h of this title (or, if later, within 270 days after such State is first listed under subsection (a)) submit to the Administrator an application which contains a showing satisfactory to the Administrator that the State—
 
 &emsp;(i) has adopted after reasonable notice and public hearings, and will implement, an underground injection control program which meets the requirements of regulations in effect under section 300h of this title; and
 

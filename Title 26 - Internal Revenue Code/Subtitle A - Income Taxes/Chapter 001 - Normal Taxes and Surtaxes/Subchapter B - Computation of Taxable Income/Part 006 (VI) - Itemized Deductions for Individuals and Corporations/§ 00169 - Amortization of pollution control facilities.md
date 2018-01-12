@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Every person, at his election, shall be entitled to a deduction with respect to the amortization of the amortizable basis of any certified pollution control facility (as defined in subsection (d)), based on a period of 60 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis of the pollution control facility at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The amortization deduction provided by this section with respect to any month shall be in lieu of the depreciation deduction with respect to such pollution control facility for such month provided by section 167. The 60-month period shall begin, as to any pollution control facility, at the election of the taxpayer, with the month following the month in whichsuch facility was completed or acquired, or with the succeeding taxable year.
+Every person, at his election, shall be entitled to a deduction with respect to the amortization of the amortizable basis of any certified pollution control facility (as defined in subsection (d)), based on a period of 60 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis of the pollution control facility at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The amortization deduction provided by this section with respect to any month shall be in lieu of the depreciation deduction with respect to such pollution control facility for such month provided by section 167. The 60-month period shall begin, as to any pollution control facility, at the election of the taxpayer, with the month following the month in which such facility was completed or acquired, or with the succeeding taxable year.
 
 #### (b) Election of amortization
 
@@ -18,9 +18,9 @@ For purposes of this section—
 
 #### (1) Certified pollution control facility
 
-&emsp;The term "certified pollution control facility" means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976, to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or omission of pollutants, contaminants, wastes, or heat and which—
+&emsp;The term "certified pollution control facility" means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976, to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or emission of pollutants, contaminants, wastes, or heat and which—
 
-&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility has certified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
+&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility hascertified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
 
 &emsp;&emsp;(B) the Federal certifying authority has certified to the Secretary (i) as being in compliance with the applicable regulations of Federal agencies and (ii) as being in furtherance of the general policy of the United States for cooperation with the States in the prevention and abatement of water pollution under the Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), or in the prevention and abatement of atmospheric pollution and contamination under the Clean Air Act, as amended (42 U.S.C. 1857 et seq.); and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied without regard to the phrase "in operation before January 1, 1976", and
 
-&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting"84" for "60" each place it appears in subsections (a) and (b).
+&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting "84" for "60" each place it appears in subsections (a) and (b).
 
 #### (e) Profitmaking abatement works, etc.
 
@@ -136,7 +136,7 @@ Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XXI, §2112(d)(2), Oct. 4, 1976, 90 Stat. 1907, as amended by Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976."
+Pub. L. 94–455, title XXI, §2112(d)(2), Oct. 4, 1976, 90 Stat. 1907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976."
 
 #### Effective Date
 

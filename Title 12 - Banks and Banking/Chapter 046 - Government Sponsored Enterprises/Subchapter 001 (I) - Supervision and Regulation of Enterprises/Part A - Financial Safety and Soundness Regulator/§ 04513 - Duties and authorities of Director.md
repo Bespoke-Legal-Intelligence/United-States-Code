@@ -54,7 +54,7 @@ The Director may delegate to officers and employees of the Agency any of the fun
 
 #### (2) Subject to suit
 
-&emsp;Except as otherwise provided by law, the Director shall be subject to suit (other than suits on claims for money damages) by a regulated entity with respect to any matter under thischapter or any other applicable provision of law, rule, order, or regulation under this chapter, in the United States district court for the judicial district in which the regulated entity has its principal place of business, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.
+&emsp;Except as otherwise provided by law, the Director shall be subject to suit (other than suits on claims for money damages) by a regulated entity with respect to any matter under this chapter or any other applicable provision of law, rule, order, or regulation under this chapter, in the United States district court for the judicial district in which the regulated entity has its principal place of business, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.
 
 #### (f) <sup>1</sup> Recognition of distinctions between the enterprises and the Federal Home Loan Banks
 

@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirementsfor effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -82,9 +82,45 @@ Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: "This Act 
 
 Pub. L. 90–629, §1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, §201(a), June 30, 1976, 90 Stat. 734, provided: "That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the 'Arms Export Control Act'."
 
+#### Advancements in Defense Cooperation Between the United States and India
+
+Pub. L. 115–91, div. A, title XII, §1258, Dec. 12, 2017, 131 Stat. 1683, provided that:
+
+"(a)
+
+In General.—\[Amended section 1292 of Pub. L. 114–328, set out as a note below.\]
+
+"(b)
+
+Interagency Definition of India as Major Defense Partner.—The Secretary of Defense, the Secretary of State, and the Secretary of Commerce shall jointly produce a common definition that recognizes India's status as a 'Major Defense Partner' for joint use by the Department of Defense, the Department of State, and the Department of Commerce.
+
+"(c)
+
+Responsibility for Enhanced Cooperation.—
+
+&emsp;"(1)
+
+Designation of responsible individual.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense and the Secretary of State jointly shall make the designation required by paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, set out as a note below\].
+
+&emsp;"(2)
+
+Additional duties.—\[Amended section 1292 of Pub. L. 114–328, set out as a note below.\]
+
+&emsp;"(3)
+
+Briefings.—Not later than 90 days after the date of the enactment of this Act, and every year thereafter, appropriate officials of the Office of the Secretary of Defense and appropriate officials of the Department of State shall brief the appropriate committees of Congress on the actions of the Department of Defense and the Department of State, respectively, to promote defense cooperation between the United States and India and the duties specified in paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 (as amended by paragraph (2) of this subsection). The requirement for briefings under this paragraph shall cease on the date of the designation of an individual pursuant to paragraph (1).
+
+&emsp;"(4)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
+
 #### Enhancing Defense and Security Cooperation With India
 
-Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, provided that:
+Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, §1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684, provided that:
 
 "(a)
 
@@ -98,27 +134,39 @@ In general.—The Secretary of Defense and Secretary of State should jointly tak
 
 &emsp;&emsp;"(B) designate an individual within the executive branch who has experience in defense acquisition and technology—
 
-&emsp;&emsp;&emsp;"(i) to reinforce and ensure, through interagency policy coordination, the success of the Framework for the United States-India Defense Relationship; and
+&emsp;&emsp;&emsp;"(i) to reinforce and ensure, through interagency policy coordination, the success of the Framework for the United States-India Defense Relationship;
 
-&emsp;&emsp;&emsp;"(ii) to help resolve remaining issues impeding United States-India defense trade, security cooperation, and co-production and co-development opportunities;
+&emsp;&emsp;&emsp;"(ii) to help resolve remaining issues impeding United States-India defense trade, security cooperation, and co-production and co-development opportunities; and
+
+&emsp;&emsp;&emsp;"(iii) to promote United States defense trade with India for the benefit of job creation and commercial competitiveness in the United States;
 
 &emsp;&emsp;"(C) approve and facilitate the transfer of advanced technology, consistent with United States conventional arms transfer policy, to support combined military planning with India's military for missions such as humanitarian assistance and disaster relief, counter piracy, freedom of navigation, and maritime domain awareness missions, and to promote weapons systems interoperability;
 
 &emsp;&emsp;"(D) strengthen the effectiveness of the U.S.-India Defense Trade and Technology Initiative and the durability of the Department of Defense's 'India Rapid Reaction Cell';
 
-&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services, and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy;
+&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services, and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
 
 &emsp;&emsp;"(F) promote policies that will encourage the efficient review and authorization of defense sales and exports to India;
 
 &emsp;&emsp;"(G) encourage greater government-to-government and commercial military transactions between the United States and India;
 
-&emsp;&emsp;"(H) support the development and alignment of India's export control and procurement regimes with those of the United States and multilateral control regimes; and
+&emsp;&emsp;"(H) support the development and alignment of India's export control and procurement regimes with those of the United States and multilateral control regimes;
 
-&emsp;&emsp;"(I) continue to enhance defense and security cooperation with India in order to advance United States interests in the South Asia and greater Indo-Asia-Pacific regions.
+&emsp;&emsp;"(I) continue to enhance defense and security cooperation with India in order to advance United States interests in the South Asia and greater Indo-Asia-Pacific regions, including common security, and to enhance role of United States partners and allies in the defense relationship between the United States and India;
+
+&emsp;&emsp;"(J) support joint exercises, operations, and patrols and mutual defense planning with India;
+
+&emsp;&emsp;"(K) work with representatives of the Government of the Islamic Republic of Afghanistan and the Government of India to promote stability and development in Afghanistan; and
+
+&emsp;&emsp;"(L) support such other matters with respect to defense and security cooperation with India that the Secretary of Defense or the Secretary of State consider appropriate.
 
 &emsp;"(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], and annually thereafter, the Secretary of Defense and Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on how the United States is supporting its defense relationship with India in relation to the actions described in paragraph (1).
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], and annually thereafter, the Secretary of Defense and Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on how the United States is supporting its defense relationship with India in relation to the actions described in paragraph (1). The report shall also include a forward-looking strategy on enhancing defense and security cooperation with India.
+
+&emsp;"(3)
+
+Report form.—The report required by paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
 
 "(b)
 
@@ -428,7 +476,7 @@ To limit the proliferation of manpads.—The President is encouraged to seek to 
 
 &emsp;"(3)
 
-To achieve destruction of manpads.—The President should continue to pursue further stronginternational diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to assure the destruction of excess, obsolete, and illicit stocks of MANPADSs worldwide.
+To achieve destruction of manpads.—The President should continue to pursue further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to assure the destruction of excess, obsolete, and illicit stocks of MANPADSs worldwide.
 
 &emsp;"(4)
 
@@ -436,7 +484,7 @@ Reporting and briefing requirement.—
 
 &emsp;&emsp;"(A)
 
-President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled 'Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems'.
+President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) andof efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled 'Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems'.
 
 &emsp;&emsp;"(B)
 
@@ -534,7 +582,7 @@ Policy.—It is the policy of Congress that bilateral exchanges and trade in def
 
 "(b)
 
-Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australiaor the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
+Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australia or the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
 
 "(c)
 
@@ -542,7 +590,7 @@ Regulations.—The President shall ensure that regulations are prescribed to imp
 
 #### Eligibility of Panama Under Arms Export Control Act
 
-Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: "The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law."
+Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: "The Government of the Republicof Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law."
 
 #### Reports on Counterproliferation Activities and Programs
 
@@ -634,7 +682,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub.L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–91, div. A, title X, §1051(f), Dec. 12, 2017, 131 Stat. 1563, provided that:
 
 #### "SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -655,20 +703,6 @@ Counterproliferation Studies.—Studies and analysis programs under this section
 "(c)
 
 Designation of Coordinator.—The Under Secretary of Defense for Policy, subject to the supervision and control of the Secretary of Defense, shall coordinate the policy studies and analysis of the Department of Defense on countering proliferation of weapons of mass destruction and their delivery systems.
-
-"(d)
-
-Report.—Not later than April 30 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report on the activities carried out under subsection (a). Each report shall set forth for the twelve-month period ending on the last day of the month preceding the month in which the report is due the following:
-
-&emsp;"(1) A description of the studies and analysis carried out.
-
-&emsp;"(2) The amounts spent for such studies and analysis.
-
-&emsp;"(3) The organizations that conducted the studies and analysis.
-
-&emsp;"(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
-
-&emsp;"(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
 
 #### "SEC. 1605. JOINT COMMITTEE FOR REVIEW OF COUNTERPROLIFERATION PROGRAMS OF THE UNITED STATES.
 
@@ -738,7 +772,7 @@ Duties.—The committee shall—
 
 &emsp;"(4) formulate near-term, mid-term, and long-term programmatic options for meeting requirements established by the committee and eliminating deficiencies identified by the committee; and
 
-&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year thatwere reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
+&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
 
 "(d)
 
@@ -760,7 +794,7 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services \[now Committee on National Security\], the Committeeon Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;"(2) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) \[now 50 U.S.C. 3003\]."
 
@@ -804,7 +838,7 @@ Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
-Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact ofUnited States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
 
 #### Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies
 
@@ -862,7 +896,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Executive Order No. 11958
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159;Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
 
 #### Ex. Ord. No. 13637. Administration of Reformed Export Controls
 
@@ -872,7 +906,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Act, and related laws, are delegated as follows:
 
-(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposed transfer will strengthen the security of the United States and promote world peace.
+(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposedtransfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under section 5 (22 U.S.C. 2755) to the Secretary of State.
 

@@ -14,7 +14,7 @@ The Director shall appoint examiners to conduct examinations under this section.
 
 #### (d) Inspector General
 
-There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 3(a) of the Inspector General Act of 1978.
+There shall be within the Agency an Inspector General, who shall be appointed in accordancewith section 3(a) of the Inspector General Act of 1978.
 
 #### (e) Law applicable to examiners
 

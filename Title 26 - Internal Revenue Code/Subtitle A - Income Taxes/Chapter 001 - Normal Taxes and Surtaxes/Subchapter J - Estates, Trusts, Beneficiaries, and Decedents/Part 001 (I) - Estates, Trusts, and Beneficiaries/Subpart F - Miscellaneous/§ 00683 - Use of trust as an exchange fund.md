@@ -12,7 +12,7 @@ Subsection (a) shall not apply to any transfer to a pooled income fund (within t
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted provisions relating to use of trust as an exchange fund for provisions setting forth rule that this part applies only to taxable years beginning after Dec. 31, 1953, and ending after the date of the enactment of this title and exceptions thereto.
+<b>1976</b>—Pub. L. 94–455 substituted provisions relating to use of trust as an exchange fund for provisions setting forth rule that this part applies only to taxable yearsbeginning after Dec. 31, 1953, and ending after the date of the enactment of this title and exceptions thereto.
 
 #### Effective Date of 1976 Amendment
 

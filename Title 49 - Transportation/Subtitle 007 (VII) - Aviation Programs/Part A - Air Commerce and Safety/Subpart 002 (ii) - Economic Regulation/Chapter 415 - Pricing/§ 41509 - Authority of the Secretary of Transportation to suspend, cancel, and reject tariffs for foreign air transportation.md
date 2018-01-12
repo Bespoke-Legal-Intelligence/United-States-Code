@@ -54,7 +54,7 @@ Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price.�
 
 &emsp;(1) the Secretary, without a hearing—
 
-&emsp;&emsp;(A) may suspend any existing tariff of a foreign air carrier providing transportation between the United States and the foreigncountry for periods totaling not more than 365 days after the date of the suspension; and
+&emsp;&emsp;(A) may suspend any existing tariff of a foreign air carrier providing transportation between the United States and the foreign country for periods totaling not more than 365 days after the date of the suspension; and
 
 &emsp;&emsp;(B) may order the foreign air carrier to charge, during the suspension periods, prices that are the same as those contained in a tariff (designated by the Secretary) of an air carrier filed and published under section 41504 of this title for foreign air transportation to the foreign country; and
 
@@ -80,7 +80,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, "standard foreign fare
 
 (f)
 
-Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling, or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
+Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling,or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
 
 (g)
 

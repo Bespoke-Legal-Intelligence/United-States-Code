@@ -14,7 +14,7 @@
 
 (2) The notification required by subsection (b) of this section is required to be given only for a defect or failure of compliance discovered by the recreational vessel manufacturer within a reasonable time after the manufacturer has discovered the defect or failure, except that the manufacturer's duty of notification under paragraph (1)(A) and (B) of this subsection applies only to a defect or failure of compliance discovered by the manufacturer within one of the following appropriate periods:
 
-&emsp;(A) if a recreational vessel or associated equipment required by regulation to have adate of certification affixed, 10 years from the date of certification.
+&emsp;(A) if a recreational vessel or associated equipment required by regulation to have a date of certification affixed, 10 years from the date of certification.
 
 &emsp;(B) if a recreational vessel or associated equipment not required by regulation to have a date of certification affixed, 10 years from the date of manufacture.
 

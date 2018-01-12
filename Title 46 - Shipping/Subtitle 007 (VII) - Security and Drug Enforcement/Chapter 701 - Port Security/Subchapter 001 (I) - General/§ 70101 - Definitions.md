@@ -156,7 +156,7 @@ Area maritime security committee.—The term 'Area Maritime Security Committee' 
 
 &emsp;"(3)
 
-Transportation security incident.—The term 'transportation security incident' has the samemeaning as that term has in section 70101 of title 46, United States Code."
+Transportation security incident.—The term 'transportation security incident' has the same meaning as that term has in section 70101 of title 46, United States Code."
 
 #### Risk Based Resource Allocation
 
@@ -224,7 +224,7 @@ Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug.
 
 "(g)
 
-Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant tosuch section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 \[(h) Repealed. Pub. L. 113–284, §2(a)(1), Dec. 18, 2014, 128 Stat. 3089.\]
 
@@ -310,7 +310,7 @@ Secretary to consult on standards.—In developing standards under this section,
 
 Minimum Standards.—The standards established by the Secretary under subsection (a) shall include the following elements:
 
-&emsp;"(1) The training and certification of maritime security professionals in accordance with accepted law enforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports.
+&emsp;"(1) The training and certification of maritime security professionals in accordance with accepted lawenforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports.
 
 &emsp;"(2) The training of students and instructors in all aspects of prevention, detection, investigation, and reporting of criminal activities in the international maritime environment.
 

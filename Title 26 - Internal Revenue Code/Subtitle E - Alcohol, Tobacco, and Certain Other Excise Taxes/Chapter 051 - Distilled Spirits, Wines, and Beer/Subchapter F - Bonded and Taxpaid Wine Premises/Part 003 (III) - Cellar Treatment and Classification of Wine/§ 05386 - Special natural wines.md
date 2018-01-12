@@ -8,7 +8,7 @@ Special natural wines are the products made, pursuant to a formula approved unde
 
 Special natural wines may be cellar treated under the provisions of section 5382(a) and (c).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, §5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, §5, Oct. 22,1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Prior Provisions
 

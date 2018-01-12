@@ -10,7 +10,7 @@
 
 > &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
 
-&emsp;(2) shall determine, with respect to the employees and classes of employees within thepurview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
+&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
 
 &emsp;(3) shall transmit to the appropriate pay-fixing authority concerned in the House of Representatives a copy of his determinations with respect to the pay of those employees whose pay is fixed and adjusted by that authority.
 

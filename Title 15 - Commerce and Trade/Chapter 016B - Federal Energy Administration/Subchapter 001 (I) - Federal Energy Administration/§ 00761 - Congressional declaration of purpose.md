@@ -40,7 +40,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 #### Authorization of Appropriations
 
-Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–385, title I, §110, Aug. 14, 1976, 90 Stat.1130; Pub. L. 95–70, §2, July 21, 1977, 91 Stat. 275, provided that:
+Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–385, title I, §110, Aug. 14, 1976, 90 Stat. 1130; Pub. L. 95–70, §2, July 21, 1977, 91 Stat. 275, provided that:
 
 "(a) There are authorized to be appropriated to the Federal Energy Administration the following sums:
 
@@ -124,13 +124,13 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11790. Effectuation of Chapter
 
-Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957;Ex. Ord. No. 12919, §904(c), June 3, 1994, 59 F.R. 29534, provided:
+Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12919, §904(c), June 3, 1994, 59 F.R. 29534, provided:
 
 Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 (Public Law 93–275) \[this chapter\], the Emergency Petroleum Allocation Act of 1973 (Public Law 93–159; 87 Stat. 627) \[15 U.S.C. 751 et seq.\], the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. 1904 note\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. Pursuant to the authority vested in me by section 30 of the Federal Energy Administration Act of 1974 \[set out above\], notice is hereby given that that act shall be effective as of June 27, 1974.
 
-Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the "Secretary"), all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §751 et seq.\].
+Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the "Secretary"),all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §751 et seq.\].
 
 (b) The Secretary shall submit to the Congress the reports required by section 4(c)(2) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §753(c)(2)\].
 

@@ -6,7 +6,7 @@
 
 (c) The Secretary is authorized to make expenditures for the purposes of this section from the fund established pursuant to section 3722 of this title.
 
-(Added Pub. L. 90–301, §5(a), May 7, 1968, 82 Stat. 116, §1827; amended Pub. L. 94–324, §7(31), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3727 and amended Pub. L. 102–83, §5(a),\(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(e)(1)(C), title X, §1005(b)(11), Nov. 11, 1998, 112 Stat. 3346, 3365.)
+(Added Pub. L. 90–301, §5(a), May 7, 1968, 82 Stat. 116, §1827; amended Pub. L. 94–324, §7(31), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3727 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(e)(1)(C), title X, §1005(b)(11), Nov. 11, 1998, 112 Stat. 3346, 3365.)
 
 #### Amendments
 

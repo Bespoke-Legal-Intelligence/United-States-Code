@@ -40,7 +40,7 @@ Availability.—Amounts made available under subsection (a) remain available unt
 
 Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L.114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
 
 Historical and Revision Notes
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;Big Sandy River
 
-(2) Submit each planning report on the units named in paragraph (1) of this subsectionpromptly to the Colorado River Basin States and to such other parties as the Secretary deems appropriate for their review and comments. After receipt of comments on a unit and careful consideration thereof, the Secretary shall submit each final report with his recommendations, simultaneously, to the President, other concerned Federal departments and agencies, the Congress, and the Colorado River Basin States.
+(2) Submit each planning report on the units named in paragraph (1) of this subsection promptly to the Colorado River Basin States and to such other parties as the Secretary deems appropriate for their review and comments. After receipt of comments on a unit and careful consideration thereof, the Secretary shall submit each final report with his recommendations, simultaneously, to the President, other concerned Federal departments and agencies, the Congress, and the Colorado River Basin States.
 
 (b) The Secretary is directed—
 

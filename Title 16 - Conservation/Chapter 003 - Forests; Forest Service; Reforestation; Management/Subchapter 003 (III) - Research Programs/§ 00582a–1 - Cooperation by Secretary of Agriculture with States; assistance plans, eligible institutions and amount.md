@@ -28,7 +28,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title VII, §7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, §4(a), title VII, §7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2008."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 1981 Amendment
 

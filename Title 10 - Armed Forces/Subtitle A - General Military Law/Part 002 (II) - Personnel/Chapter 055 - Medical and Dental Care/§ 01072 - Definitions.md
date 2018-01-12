@@ -66,7 +66,13 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
-&emsp;(7) The term "TRICARE program" means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+&emsp;(7) The term "TRICARE program" means the various programs carried out by the Secretary of Defense under this chapter and any other provision of law providing for the furnishing of medical and dental care and health benefits to members and former members of the uniformed services and their dependents, including the following health plan options:
+
+&emsp;&emsp;(A) TRICARE Prime.
+
+&emsp;&emsp;(B) TRICARE Select.
+
+&emsp;&emsp;(C) TRICARE for Life.
 
 &emsp;(8) The term "custodial care" means treatment or services, regardless of who recommends such treatment or services or where such treatment or services are provided, that—
 
@@ -82,39 +88,17 @@ In this chapter:
 
 &emsp;(10) The term "health care" includes mental health care.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, §708(a), Jan. 28, 2008, 122 Stat. 190; Pub. L. 114–328, div. A, title VII, §701(j)(1)(A), Dec. 23, 2016, 130 Stat. 2191.)
+&emsp;(11) The term "TRICARE Extra" means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.
 
-#### Amendment of Paragraphs (7) and (11) to (15)
+&emsp;(12) The term "TRICARE Select" means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title.
 
-<i>Pub. L. 114–328, div. A, title VII, §701(j)(1)(A), (k), Dec. 23, 2016, 130 Stat. 2191, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this section is amended:</i>
+&emsp;(13) The term "TRICARE for Life" means the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of this title.
 
-<i>(1) by striking paragraph (7) and inserting the following:</i>
+&emsp;(14) The term "TRICARE Prime" means the managed care option of the TRICARE program.
 
-&emsp;<i>"(7) The term 'TRICARE program' means the various programs carried out by the Secretary of Defense under this chapter and any other provision of law providing for the furnishing of medical and dental care and health benefits to members and former members of the uniformed services and their dependents, including the following health plan options:</i>
+&emsp;(15) The term "TRICARE Standard" means the TRICARE program made available prior to January 1, 2018, covering health benefits contracted for under the authority of section 1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.
 
-&emsp;&emsp;<i>"(A) TRICARE Prime.</i>
-
-&emsp;&emsp;<i>"(B) TRICARE Select.</i>
-
-&emsp;&emsp;<i>"(C) TRICARE for Life."; and</i>
-
-<i>(2) by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>"(11) The term 'TRICARE Extra' means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.</i>
-
-&emsp;<i>"(12) The term 'TRICARE Select' means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title.</i>
-
-&emsp;<i>"(13) The term 'TRICARE for Life' means the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of this title.</i>
-
-&emsp;<i>"(14) The term 'TRICARE Prime' means the managed care option of the TRICARE program.</i>
-
-&emsp;<i>"(15) The term 'TRICARE Standard' means the TRICARE program made available prior to January 1, 2018, covering—</i>
-
-&emsp;&emsp;<i>"(A) medical care to which a dependent described in section 1076(a)(2) of this title is entitled; and</i>
-
-&emsp;&emsp;<i>"(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.".</i>
-
-<i>See 2016 Amendment notes below.</i>
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, §708(a), Jan. 28, 2008, 122 Stat. 190; Pub. L. 114–328, div. A, title VII, §701(j)(1)(A), Dec. 23, 2016, 130 Stat. 2191; Pub. L. 115–91, div. A, title VII, §739(a), Dec. 12, 2017, 131 Stat. 1446.)
 
 Historical and Revision Notes
 
@@ -145,6 +129,12 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2017</b>—Par. (15). Pub. L. 115–91 amended par. (15) generally. Prior to amendment, par. (15) read as follows: "The term 'TRICARE Standard' means the TRICARE program made available prior to January 1, 2018, covering—
+
+&emsp;"(A) medical care to which a dependent described in section 1076(a)(2) of this title is entitled; and
+
+&emsp;"(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section."
 
 <b>2016</b>—Par. (7). Pub. L. 114–328, §701(j)(1)(A)(i), added par. (7) and struck out former par. (7) which read as follows: "The term 'TRICARE program' means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services."
 
@@ -224,7 +214,7 @@ Pub. L. 98–525, title VI, §645(d), Oct. 19, 1984, 98 Stat. 2549, provided tha
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
-Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of amember or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -262,7 +252,7 @@ Pub. L. 101–189, div. A, title VII, §731(e), Nov. 29, 1989, 103 Stat. 1483, p
 
 "(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat. 2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
 
-"(2) Purchase of a conversion health policy under paragraph (1) by a person shall entitle the person to health care for preexisting conditions in the same manner and to the same extent as provided by section 1086a(b) of title 10, United States Code (as added by subsection (b)), until the end of the one-year period beginning on the later of—
+"(2) Purchase of a conversion health policy under paragraph (1) by a person shall entitle the person to health care for preexisting conditions in the same manner and to the same extent as provided by section1086a(b) of title 10, United States Code (as added by subsection (b)), until the end of the one-year period beginning on the later of—
 
 &emsp;"(A) the date the person is no longer qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985; and
 

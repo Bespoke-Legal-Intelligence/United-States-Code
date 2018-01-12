@@ -30,7 +30,7 @@ Congress makes the following findings:
 
 #### (2) NASA contributions
 
-&emsp;In preparing the report required by paragraph (1), the Administrator shall assume that NASA will contribute to the efforts described in that paragraph the following:
+&emsp;In preparing the report required by paragraph (1), the Administrator shall assume thatNASA will contribute to the efforts described in that paragraph the following:
 
 &emsp;&emsp;(A) A Space Launch System.
 

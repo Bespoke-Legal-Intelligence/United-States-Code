@@ -22,3 +22,7 @@ Another prior section 12526, Pub. L. 101–610, title I, §116, Nov. 16, 1990, 1
 
 A prior section 114 of Pub. L. 101–610 was classified to section 12524 of this title prior to repeal by Pub. L. 103–82.
 
+#### Effective Date
+
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+

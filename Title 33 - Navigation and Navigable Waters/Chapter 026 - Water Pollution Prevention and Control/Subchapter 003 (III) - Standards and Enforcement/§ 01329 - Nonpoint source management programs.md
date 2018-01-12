@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title,and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
-&emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) whichwill be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
+&emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
 &emsp;&emsp;(F) An identification of Federal financial assistance programs and Federal development projects for which the State will review individual assistance applications or development projects for their effect on water quality pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983, to determine whether such assistance applications or development projects would be consistent with the program prepared under this subsection; for the purposes of this subparagraph, identification shall not be limited to the assistance programs or development projects subject to Executive Order 12372 but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the State's nonpoint source pollution management program.
 
@@ -62,7 +62,7 @@
 
 #### (1) Deadline
 
-&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k)), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k)), the Administratorshall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 #### (2) Procedure for disapproval
 
@@ -84,7 +84,7 @@
 
 #### (e) Local management programs; technical assistance
 
-If a State fails to submit a management program under subsection (b) or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency ororganization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).
+If a State fails to submit a management program under subsection (b) or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).
 
 #### (f) Technical assistance for States
 
@@ -238,5 +238,5 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27,2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 

@@ -12,5 +12,5 @@ For the purpose of carrying out subsection (a), there are authorized to be appro
 
 #### Effective Date
 
-Section deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 ofPub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
+Section deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
 

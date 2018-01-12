@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not later than March 31, 2008, and each March 31 thereafter, the Foundation shall submit to the appropriate congressional committees a report on the implementation of this part during the prior fiscal year.
+Not later than March 31, 2008, and each March 31 thereafter, the Foundation shall submit tothe appropriate congressional committees a report on the implementation of this part during the prior fiscal year.
 
 #### (b) Contents
 
@@ -16,7 +16,7 @@ The report required by subsection (a) shall include—
 
 &emsp;(4) the total administrative and operating expenses of the Foundation for the year, as well as specific information on—
 
-&emsp;&emsp;(A) the number of Foundation employees and the cost of compensation for Boardmembers, Foundation employees, and personal service contractors;
+&emsp;&emsp;(A) the number of Foundation employees and the cost of compensation for Board members, Foundation employees, and personal service contractors;
 
 &emsp;&emsp;(B) costs associated with securing the use of real property for carrying out the functions of the Foundation;
 
@@ -25,4 +25,8 @@ The report required by subsection (a) shall include—
 &emsp;&emsp;(D) total representational expenses.
 
 (Pub. L. 110–140, title IX, §924, Dec. 19, 2007, 121 Stat. 1736.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

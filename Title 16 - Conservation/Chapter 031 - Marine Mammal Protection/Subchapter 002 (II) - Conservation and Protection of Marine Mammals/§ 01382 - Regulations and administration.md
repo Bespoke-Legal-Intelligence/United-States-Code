@@ -14,7 +14,7 @@ The Secretary may enter into such contracts, leases, cooperative agreements, or 
 
 #### (d) Annual review; suspension of program
 
-The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
+The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deemsnecessary and appropriate to resolve the problem.
 
 #### (e) Measures to alleviate impacts on strategic stocks
 
@@ -31,6 +31,10 @@ Subsec. (e). Pub. L. 103–238, §7(a), added subsec. (e).
 <b>1992</b>—Subsec. (c). Pub. L. 102–587 inserted "or subchapter V" after "of this subchapter".
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–470 substituted "include in the annual report to the public and the Congress required under section 1373(f) of this title" for "forthwith submit to Congress".
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

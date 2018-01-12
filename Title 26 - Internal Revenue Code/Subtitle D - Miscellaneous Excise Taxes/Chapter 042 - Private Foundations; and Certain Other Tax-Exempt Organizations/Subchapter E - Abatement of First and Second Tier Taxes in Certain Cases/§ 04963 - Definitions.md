@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(D) in any other case, the date on which such event occurred.
 
-(Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3473, §4962; renumbered §4963, Pub. L.98–369, div. A, title III, §305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, §10712(b)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 104–168, title XIII, §1311(c)(2), July 30, 1996, 110 Stat. 1478; Pub. L. 109–280, title XII, §1231(b)(1), Aug. 17, 2006, 120 Stat. 1098.)
+(Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3473, §4962; renumbered §4963, Pub. L. 98–369, div. A, title III, §305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, §10712(b)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 104–168, title XIII, §1311(c)(2), July 30, 1996, 110 Stat. 1478; Pub. L. 109–280, title XII, §1231(b)(1), Aug. 17, 2006, 120 Stat. 1098.)
 
 #### Amendments
 

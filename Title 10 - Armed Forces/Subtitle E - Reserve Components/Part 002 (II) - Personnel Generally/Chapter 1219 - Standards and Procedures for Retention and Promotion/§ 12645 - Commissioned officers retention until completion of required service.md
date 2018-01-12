@@ -12,7 +12,7 @@
 
 &emsp;(4) an officer whose discharge or transfer from an active status is required by law.
 
-(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1444, §1005; amended Pub. L. 93–586, §2, Jan. 2, 1975, 88 Stat. 1920; Pub. L. 98–525, title V, §528(a), Oct. 19, 1984, 98 Stat. 2525; renumbered §12645 and amended Pub. L. 103–337, div. A, title XVI, §§1627, 1662(h)(2), 1675(d)(2), Oct. 5, 1994, 108 Stat. 2962, 2996, 3018; Pub. L. 104–106, div. A, title XV, §1501(a)(4), Feb. 10, 1996, 110 Stat. 495; Pub. L. 104–201, div. A, title V, §544(b), Sept. 23, 1996, 110 Stat. 2523.)
+(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1444, §1005; amended Pub. L. 93–586, §2, Jan. 2, 1975, 88 Stat. 1920; Pub. L. 98–525, title V,§528(a), Oct. 19, 1984, 98 Stat. 2525; renumbered §12645 and amended Pub. L. 103–337, div. A, title XVI, §§1627, 1662(h)(2), 1675(d)(2), Oct. 5, 1994, 108 Stat. 2962, 2996, 3018; Pub. L. 104–106, div. A, title XV, §1501(a)(4), Feb. 10, 1996, 110 Stat. 495; Pub. L. 104–201, div. A, title V, §544(b), Sept. 23, 1996, 110 Stat. 2523.)
 
 Historical and Revision Notes
 

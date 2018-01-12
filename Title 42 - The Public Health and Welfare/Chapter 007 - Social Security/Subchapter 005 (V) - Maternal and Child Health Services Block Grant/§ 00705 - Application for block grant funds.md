@@ -34,7 +34,7 @@
 
 &emsp;(5) provides that—
 
-&emsp;&emsp;(A) the State will establish a fair method (as determined by the State) for allocating funds allotted to the State under this subchapter among such individuals, areas, and localities identified under paragraph (1)(A) as needing maternal and child health services, and the State will identify and apply guidelines for the appropriate frequency and content of, and appropriate referral and followup with respect to, health care assessments and services financially assisted by the State under this subchapter and methods for assuring quality assessments and services;
+&emsp;&emsp;(A) the State will establish a fair method (as determined by the State) for allocating funds allotted to the State under this subchapter among such individuals, areas, and localities identified under paragraph (1)(A)as needing maternal and child health services, and the State will identify and apply guidelines for the appropriate frequency and content of, and appropriate referral and followup with respect to, health care assessments and services financially assisted by the State under this subchapter and methods for assuring quality assessments and services;
 
 &emsp;&emsp;(B) funds allotted to the State under this subchapter will only be used, consistent with section 708 of this title, to carry out the purposes of this subchapter or to continue activities previously conducted under the consolidated health programs (described in section 701(b)(1) of this title);
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(ii) participate in the arrangement and carrying out of coordination agreements described in section 1396a(a)(11) of this title (relating to coordination of care and services available under this subchapter and subchapter XIX),
 
-&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers,infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
+&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
 
 &emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(l)(1) of this title and, once identified, to assist them in applying for such assistance.
 
@@ -76,7 +76,7 @@
 
 A prior section 705, act Aug. 14, 1935, ch. 531, title V, §505, as added and amended Jan. 2, 1968, Pub. L. 90–248, title III, §§301, 304(a), 81 Stat. 923, 929; July 10, 1972, Pub. L. 92–345, §2(a)–(c), 86 Stat. 456, 457; Oct. 30, 1972, Pub. L. 92–603, title II, §§221(c)(1), 232(b), 239(c), 86 Stat. 1389, 1411, 1417; July 1, 1973, Pub. L. 93–53, §4(a)(3)–(5), 87 Stat. 135; Dec. 5, 1980, Pub. L. 96–499, title IX, §914(c)(1), 94 Stat. 2622, related to contents of State plans, approval by Secretary, etc., prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title. For effective dates of prior amendments, see section 304(b) of Pub. L. 90–248, sections 232(c) and 239(d) of Pub. L. 92–603, and section 914(c)(2) of Pub. L. 96–499 as amended by section 137(c)(2) of Pub. L. 97–248.
 
-Another prior section 705, acts Aug. 14, 1935, ch. 531, title V, §505, 49 Stat. 631; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558, provided for stopping payment on failure to comply with plan for maternal and child health services, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 707 of this title.
+Another prior section 705, acts Aug. 14, 1935, ch. 531, title V, §505, 49 Stat. 631; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558, provided for stopping payment on failure to comply with plan for maternal and child health services, prior to the generalamendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 707 of this title.
 
 Provisions similar to those comprising former section 705 were contained in sections 503 and 513 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 703 and 713 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 

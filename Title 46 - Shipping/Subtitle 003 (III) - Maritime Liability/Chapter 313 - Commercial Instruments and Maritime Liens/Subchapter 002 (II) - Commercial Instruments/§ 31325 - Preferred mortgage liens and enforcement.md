@@ -24,7 +24,7 @@
 
 &emsp;(A) the master or individual in charge of the vessel;
 
-&emsp;(B) any person that recorded under section 31343(a) or (d) of this title an unexpired notice of a claim of an undischarged lien on the vessel; and
+&emsp;(B) any person that recorded under section 31343(a) or (d) of this title an unexpired noticeof a claim of an undischarged lien on the vessel; and
 
 &emsp;(C) a mortgagee of a mortgage filed or recorded under section 31321 of this title that is an undischarged mortgage on the vessel.
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 
-(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) ofthis title before notice of the proposed transfer is given to the Secretary.
+(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
 
 (2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
 
@@ -94,7 +94,7 @@ Subsection (e) provides that, in a civil action <i>in rem</i>, the court may app
 
 #### house floor statement
 
-Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil action under subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
+Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil actionunder subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
 
 #### Amendments
 
@@ -130,11 +130,15 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
+Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section 3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–295, title II, §205(e), Nov. 25, 2002, 116 Stat. 2096, provided that: "This section \[see Tables for classification\] shall take effect January 1, 2003."
+
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 
 #### Construction of 1996 Amendment
 

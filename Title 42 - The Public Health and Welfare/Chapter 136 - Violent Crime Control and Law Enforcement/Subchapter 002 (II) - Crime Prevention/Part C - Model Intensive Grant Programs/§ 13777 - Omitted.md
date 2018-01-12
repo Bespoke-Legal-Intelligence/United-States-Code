@@ -1,0 +1,6 @@
+### §13777. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–322, title III, §30307, Sept. 13, 1994, 108 Stat. 1846, which authorized appropriations for fiscal years 1996 to 2000, was omitted as obsolete.
+

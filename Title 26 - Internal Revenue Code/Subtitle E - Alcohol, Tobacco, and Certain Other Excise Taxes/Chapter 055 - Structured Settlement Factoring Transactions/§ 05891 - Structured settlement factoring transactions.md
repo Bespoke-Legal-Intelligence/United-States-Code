@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 461(h) were satisfied at the time the structured settlement involving structured settlement payment rights was entered into, the subsequent occurrence of a structured settlement factoring transaction shall not affect the application of the provisions of such sections to the parties to the structured settlement (including an assignee under a qualified assignment under section 130) in any taxable year.
+&emsp;If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 461(h) were satisfied at the time the structured settlement involving structured settlement payment rights was entered into, the subsequent occurrence of astructured settlement factoring transaction shall not affect the application of the provisions of such sections to the parties to the structured settlement (including an assignee under a qualified assignment under section 130) in any taxable year.
 
 #### (2) No withholding of tax
 

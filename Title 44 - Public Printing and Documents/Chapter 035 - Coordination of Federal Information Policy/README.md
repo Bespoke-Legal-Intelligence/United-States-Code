@@ -56,6 +56,7 @@
 | [3556\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003556%20-%20Federal%20information%20security%20incident%20center.md) | Federal information security incident center. |
 | [3557\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003557%20-%20National%20security%20systems.md) | National security systems. |
 | [3558\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003558%20-%20Effect%20on%20existing%20law.md) | Effect on existing law. |
+| [3559\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003559%20-%20Federal%20websites%20required%20to%20be%20mobile%20friendly.md) | Federal websites required to be mobile friendly. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,6 +65,8 @@
 This chapter was originally added by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, which act enacted this title, and was based on act Dec. 24, 1942, ch. 811, 56 Stat. 1078, known as the Federal Reports Act of 1942, which was classified to sections 139 to 139f of former Title 5, transferred to chapter 12 (§421 et seq.) of former Title 44, and repealed by Pub. L. 90–620 upon the enactment of this title. Subsequent to its original enactment by Pub. L. 90–620, this chapter was amended generally by Pub. L. 96–511 and again by Pub. L. 104–13. As a result, this chapter is shown herein as having been added beginning with Pub. L. 104–13 without reference to earlier amendatory laws. See Prior Provisions notes throughout this chapter.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–114, §2(b), Jan. 10, 2018, 131 Stat. 2278, added item 3559.
 
 <b>2014</b>—Pub. L. 113–283, §2(e)(1), Dec. 18, 2014, 128 Stat. 3086, added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read "INFORMATION SECURITY" and items under each subchapter were substantially similar to items 3551 to 3558.
 

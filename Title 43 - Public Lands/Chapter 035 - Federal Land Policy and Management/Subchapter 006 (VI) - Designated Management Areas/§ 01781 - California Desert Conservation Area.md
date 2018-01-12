@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
-&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, andconserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
+&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
 
 #### (b) Statement of purpose
 
@@ -24,7 +24,7 @@ It is the purpose of this section to provide for the immediate and future protec
 
 (1) For the purpose of this section, the term "California desert" means the area generally depicted on a map entitled "California Desert Conservation Area—Proposed" dated April 1974, and described as provided in subsection (c)(2).
 
-(2) As soon as practicable after October 21, 1976, the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such map and description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
+(2) As soon as practicable after October 21, 1976, the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such mapand description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
 
 #### (d) Preparation and implementation of comprehensive long-range plan for management, use, etc.
 
@@ -80,7 +80,7 @@ Designation.—There is hereby established the Desert Lily Sanctuary within the 
 
 "(b)
 
-Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
+Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary arehereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
 
 #### Dinosaur Trackway Area of Critical Environmental Concern
 

@@ -16,7 +16,7 @@ The extension of Federal financial assistance to a local educational agency may 
 
 &emsp;(4) the limitation of any deferral of Federal financial assistance which may be imposed by the Secretary to a period not to exceed 15 days after the rendering of such decision unless there has been an express finding on such record that such agency has failed to comply with any such nondiscrimination provision of Federal law; and
 
-&emsp;(5) procedures, which shall be established by the Secretary, to ensure the availability of sufficient funds, without regard to any fiscal year limitations, to comply with the decision of such judge.
+&emsp;(5) procedures, which shall be established by the Secretary, to ensure the availability ofsufficient funds, without regard to any fiscal year limitations, to comply with the decision of such judge.
 
 #### (c) Failure to comply with imposition of quotas
 

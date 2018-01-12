@@ -14,7 +14,7 @@ Definition.—In this section, "law enforcement personnel" means individuals—
 
 Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
-&emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads ofother departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
+&emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
 &emsp;(2) consider whether a proposed regulation is consistent with—
 
@@ -56,7 +56,7 @@ Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval 
 
 &emsp;(1) to carry firearms; and
 
-&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individual to be arrested has committed or is committing a felony.
+&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individualto be arrested has committed or is committing a felony.
 
 (e)
 
@@ -134,7 +134,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies theidentity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
 
 &emsp;(5)
 
@@ -206,7 +206,7 @@ Biometric identifier information.—The term "biometric identifier information" 
 
 &emsp;&emsp;(B)
 
-Biometric identifier.—The term "biometric identifier" means a technology that enables the automated identification, or verification of the identity, of an individual based on biometric information.
+Biometric identifier.—The term "biometric identifier" means a technology thatenables the automated identification, or verification of the identity, of an individual based on biometric information.
 
 &emsp;&emsp;(C)
 
@@ -442,7 +442,7 @@ In general.—The Secretary of Homeland Security shall ensure that the Transport
 
 Sterile area defined.—In this section, the term "sterile area" has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 112–86, §2(a), Jan. 3, 2012, 125 Stat. 1874; Pub. L. 113–67, div. A, title VI, §603, Dec. 26, 2013, 127 Stat. 1188.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I,§§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 112–86, §2(a), Jan. 3, 2012, 125 Stat. 1874; Pub. L. 113–67, div. A, title VI, §603, Dec. 26, 2013, 127 Stat. 1188.)
 
 Historical and Revision Notes
 

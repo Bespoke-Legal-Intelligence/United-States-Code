@@ -70,7 +70,7 @@ The Fund shall have power—
 
 &emsp;(4) to conduct its business, carry on its operations, and have officers and exercise the power granted by this section in any State without regard to any qualification or similar statute in any State;
 
-&emsp;(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with any property, real, personal, or mixed, or any interest therein, wherever situated, for the purposes of the Fund;
+&emsp;(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal inand with any property, real, personal, or mixed, or any interest therein, wherever situated, for the purposes of the Fund;
 
 &emsp;(6) to accept gifts or donations of services, or of property, real, personal, or mixed, tangible or intangible, in aid of any of the purposes of the Fund;
 

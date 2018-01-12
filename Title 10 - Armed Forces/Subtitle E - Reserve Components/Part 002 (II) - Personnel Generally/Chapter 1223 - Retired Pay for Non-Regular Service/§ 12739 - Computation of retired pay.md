@@ -32,65 +32,61 @@
 
 &emsp;(C) fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in section 324(b) of title 32.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365; Pub. L. 114–92, div. A, title VI, §631(b), Nov. 25, 2015, 129 Stat. 843.)
+(f)
 
-#### Amendment of Section
+Modernized Retirement System.—
 
-<i>Pub. L. 114–92, div. A, title VI, §§631(b), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:</i>
+&emsp;(1)
 
-<i>(f)</i>
+Reduced multiplier for full tsp members.—Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018, after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a "full TSP member")—
 
-<i>Modernized Retirement System.—</i>
+&emsp;&emsp;(A) subsection (a)(2) shall be applied by substituting "2 percent" for "2½ percent";
 
-&emsp;<i>(1)</i>
+&emsp;&emsp;(B) subparagraph (A) of subsection (c)(2) shall be applied by substituting "60 percent" for "75 percent"; and
 
-<i>Reduced multiplier for full tsp members.—Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018, after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a "full TSP member")—</i>
+&emsp;&emsp;(C) subparagraph (B)(ii) of such subsection shall be applied by substituting "2 percent" for "2½ percent".
 
-&emsp;&emsp;<i>(A) subsection (a)(2) shall be applied by substituting "2 percent" for "2½ percent";</i>
+&emsp;(2)
 
-&emsp;&emsp;<i>(B) subparagraph (A) of subsection (c)(2) shall be applied by substituting "60 percent" for "75 percent"; and</i>
+Election to participate in modernized retirement system.—
 
-&emsp;&emsp;<i>(C) subparagraph (B)(ii) of such subsection shall be applied by substituting "2 percent" for "2½ percent".</i>
+&emsp;&emsp;(A)
 
-&emsp;<i>(2)</i>
+In general.—Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017, who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with section 12733 of this title), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.
 
-<i>Election to participate in modernized retirement system.—</i>
+&emsp;&emsp;(B)
 
-&emsp;&emsp;<i>(A)</i>
+Election period.—
 
-<i>In general.—Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017, who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with section 12733 of this title), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.</i>
+&emsp;&emsp;&emsp;(i)
 
-&emsp;&emsp;<i>(B)</i>
+In general.—Except as provided in clauses (ii) and (iii), a person described insubparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.
 
-<i>Election period.—</i>
+&emsp;&emsp;&emsp;(ii)
 
-&emsp;&emsp;&emsp;<i>(i)</i>
+Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.
 
-<i>In general.—Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.</i>
+&emsp;&emsp;&emsp;(iii)
 
-&emsp;&emsp;&emsp;<i>(ii)</i>
+Persons experiencing break in service.—A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) within 30 days after the date of the reentry into service of the person.
 
-<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experi</i><i>ences a hardship as determined by the Secretary concerned.</i>
+&emsp;&emsp;(C)
 
-&emsp;&emsp;&emsp;<i>(iii)</i>
+No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person's election under that subparagraph by reason of the person's election.
 
-<i>Persons experiencing break in service.—A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) on the date of the reentry into service of the person.</i>
+&emsp;(3)
 
-&emsp;&emsp;<i>(C)</i>
+Regulations.—The Secretary concerned shall prescribe regulations to implement this subsection.
 
-<i>No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person's election under that subparagraph by reason of the person's election.</i>
-
-&emsp;<i>(3)</i>
-
-<i>Regulations.—The Secretary concerned shall prescribe regulations to implement this subsection.</i>
-
-<i>See 2015 Amendment note below.</i>
+(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365; Pub. L. 114–92, div. A, title VI, §631(b), Nov. 25, 2015, 129 Stat. 843; Pub. L. 115–91, div. A, title VI, §623(a), Dec. 12, 2017, 131 Stat. 1428.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in formula 3 of the table in section 1401(a) of this title, prior to amendment by Pub. L. 103–337, §1662(j)(2).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(2)(B)(iii). Pub. L. 115–91 substituted "within 30 days after the date of the reentry" for "on the date of the reentry".
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
@@ -103,6 +99,10 @@ Provisions similar to those in this section were contained in formula 3 of the t
 Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections (a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title VI, §623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) \[amending this section\], to which the amendment made by subsection (a) relates."
 
 #### Effective Date of 2015 Amendment; Implementation
 

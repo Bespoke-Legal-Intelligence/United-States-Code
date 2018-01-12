@@ -6,7 +6,7 @@
 
 &emsp;(1) contain estimates of the financial condition and operations of the corporation for the current and following fiscal years and the condition and results of operations in the last fiscal year;
 
-&emsp;(2) contain statements of financial condition, income and expense, and sources and use of money, an analysis of surplus or deficit, and additional statements and information to make known the financial condition and operations of the corporation, including estimates of operations by major activities, administrative expenses, borrowings, the amount of United States Government capital that will be returned to the Treasury during the fiscal year, and appropriations needed to restore capital impairments; and
+&emsp;(2) contain statements of financial condition, income and expense, and sources and useof money, an analysis of surplus or deficit, and additional statements and information to make known the financial condition and operations of the corporation, including estimates of operations by major activities, administrative expenses, borrowings, the amount of United States Government capital that will be returned to the Treasury during the fiscal year, and appropriations needed to restore capital impairments; and
 
 &emsp;(3) provide for emergencies and contingencies and otherwise be flexible so that the corporation may carry out its activities.
 

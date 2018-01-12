@@ -90,7 +90,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 &emsp;&emsp;&emsp;(i)(I) is separated or released from active duty after four or more years of continuous active duty immediately before the separation or release; or
 
-&emsp;&emsp;&emsp;(II) has completed a total of at least six years of active duty service, six years ofservice computed under section 12732 of this title, or six years of any combination of such service; and
+&emsp;&emsp;&emsp;(II) has completed a total of at least six years of active duty service, six years of service computed under section 12732 of this title, or six years of any combination of such service; and
 
 &emsp;&emsp;&emsp;(ii) executes a reserve commitment agreement for a period of not less than three years under paragraph (5)(B).
 
@@ -108,7 +108,7 @@ Selection criteria; educational background requirements; honorable service requi
 
 &emsp;(B) If a member of the armed forces is applying for the Program to receive assistance for placement as an elementary school or secondary school teacher, the Secretary shall require the member to have received a baccalaureate or advanced degree from an accredited institution of higher education.
 
-&emsp;(C) If a member of the armed forces is applying for the Program to receive assistance for placement as a career or technical teacher, the Secretary shall require the member—
+&emsp;(C) If a member of the armed forces is applying for the Program to receive assistance forplacement as a career or technical teacher, the Secretary shall require the member—
 
 &emsp;&emsp;(i) to have received the equivalent of one year of college from an accredited institution of higher education or the equivalent in military education and training as certified by the Department of Defense; or
 
@@ -242,7 +242,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(
 
 The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

@@ -64,7 +64,7 @@ Merit Competition.—Applications for awards shall be evaluated on the basis of 
 
 (g)
 
-Selection Criteria.—The Secretary may select a proposal for an award pursuant to this section if the proposal, at a minimum, does each of the following:
+Selection Criteria.—The Secretary may select a proposal for an award pursuant to thissection if the proposal, at a minimum, does each of the following:
 
 &emsp;(1) Contains innovative approaches for improving engineering education in manufacturing technology.
 

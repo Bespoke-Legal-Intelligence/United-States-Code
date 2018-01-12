@@ -22,7 +22,7 @@ Notwithstanding any other provision of this chapter—
 
 #### (c) Full faith and credit
 
-The full faith and credit of the United States is pledged to the payment of all guarantees made under this subchapter. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
+The full faith and credit of the United States is pledged to the payment of all guaranteesmade under this subchapter. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
 
 (Pub. L. 104–330, title VI, §602, Oct. 26, 1996, 110 Stat. 4046.)
 

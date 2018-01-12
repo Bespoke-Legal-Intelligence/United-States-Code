@@ -36,7 +36,7 @@ The National Housing Act, referred to in subsecs. (b) and (d), is act June 27, 1
 
 &emsp;"(D) section 3712(e)(5) of this title;
 
-> shall be considered to be satisfied if the spouse of the veteran occupies the property as the spouse's home and the spouse makes the certification required by paragraph (1) of this subsection."
+> shall be considered to be satisfied if the spouse of the veteran occupies the property as the spouse's home andthe spouse makes the certification required by paragraph (1) of this subsection."
 
 <b>1994</b>—Subsecs. (e) to (g). Pub. L. 103–446 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: "No loan for the purchase or construction of new residential property (other than property served by a water and sewerage system approved by the Secretary of Housing and Urban Development pursuant to title X of the National Housing Act (12 U.S.C. 1749aa et seq.)) shall be financed through the assistance of this chapter, except pursuant to a commitment made prior to August 10, 1965, if such property is not served by a public or adequate community water and sewerage system and is located in an area where the appropriate local officials certify that the establishment of such systems is economically feasible. For purposes of this subsection, the economic feasibility of establishing public or adequate community water and sewerage systems shall be determined without regard to whether such establishment is authorized by law or is subject to approval by one or more local governments or public bodies."
 

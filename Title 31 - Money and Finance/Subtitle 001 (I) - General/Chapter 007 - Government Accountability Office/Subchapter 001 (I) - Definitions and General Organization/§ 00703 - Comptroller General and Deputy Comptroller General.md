@@ -50,7 +50,7 @@
 
 &emsp;(2) Deputy Comptroller General is equal to the rate for level III of the Executive Schedule.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 888; Pub. L. 100–426, title II, §201, Sept. 9, 1988, 102 Stat. 1599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 888; Pub. L. 100–426, title II, §201, Sept. 9, 1988, 102 Stat.1599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 

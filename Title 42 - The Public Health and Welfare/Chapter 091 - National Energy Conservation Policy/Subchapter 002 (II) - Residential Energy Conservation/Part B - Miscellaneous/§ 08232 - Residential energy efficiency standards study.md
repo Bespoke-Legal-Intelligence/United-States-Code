@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary of Housing and Urban Development (hereinafter in this section referred to as the "Secretary") shall, in coordination with theSecretary of Agriculture, the Secretary of the Treasury, the Secretary of Veterans Affairs, the Secretary of Energy, and such other representatives of Federal, State, and local governments as the Secretary shall designate, conduct a study, utilizing the services of the National Institute of Building Sciences pursuant to appropriate contractual arrangements, for the purpose of determining the need for, the feasibility of, and the problems of requiring, by mandatory Federal action, that all residential dwelling units meet applicable energy efficient standards. The subjects to be examined shall include, but not be limited to, mandatory notification to purchasers, and policies to prohibit exchange or sale, of properties which do not conform to such standards.
+The Secretary of Housing and Urban Development (hereinafter in this section referred to as the "Secretary") shall, in coordination with the Secretary of Agriculture, the Secretary of the Treasury, the Secretary of Veterans Affairs, the Secretary of Energy, and such other representatives of Federal, State, and local governments as the Secretary shall designate, conduct a study, utilizing the services of the National Institute of Building Sciences pursuant to appropriate contractual arrangements, for the purpose of determining the need for, the feasibility of, and the problems of requiring, by mandatory Federal action, that all residential dwelling units meet applicable energy efficient standards. The subjects to be examined shall include, but not be limited to, mandatory notification to purchasers, and policies to prohibit exchange or sale, of properties which do not conform to such standards.
 
 #### (b) Specific factors
 
@@ -28,9 +28,9 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 #### (c) Comments and findings by Secretary of Energy
 
-The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation's security which may result from the requirement described in subsection (a) of this section as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
+The Secretary shall incorporate into such study comments by the Secretary of Energy on the effects on the economy as a whole and on the Nation's security which may result from the requirement described in subsection (a) as compared to the impact on the credit and housing markets likely to be caused by such a requirement. In addition, the Secretary shall incorporate into such study the following findings by the Secretary of Energy:
 
-&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) of this section throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
+&emsp;(1) the savings in energy costs resulting from the requirement described in subsection (a) throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
 
 &emsp;(2) the total cost per barrel of oil equivalent, in obtaining the energy savings likely to result from such requirement, computed for each class of existing residential buildings to which such requirement would apply.
 

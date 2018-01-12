@@ -10,7 +10,7 @@ The President is hereby authorized to accept membership for the United States in
 
 > that since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed;
 
-> that ignorance of each other's ways and lives has been a common cause, throughout the history of mankind, of that suspicion and mistrust between the peoples of the world through which their differences have all too often broken into war;
+> that ignorance of each other's ways and lives has been a common cause, throughout the history of mankind,of that suspicion and mistrust between the peoples of the world through which their differences have all too often broken into war;
 
 > that the great and terrible war which has now ended was a war made possible by the denial of the democratic principles of the dignity, equality and mutual respect of men, and by the propagation, in their place, through ignorance and prejudice, of the doctrine of the inequality of men and races;
 
@@ -148,7 +148,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

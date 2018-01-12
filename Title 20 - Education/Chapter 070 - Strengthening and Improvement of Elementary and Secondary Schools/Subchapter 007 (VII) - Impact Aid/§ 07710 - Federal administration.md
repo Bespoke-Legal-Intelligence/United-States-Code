@@ -12,7 +12,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### (1) Certain children eligible under subparagraphs (A) and (G)(ii) of section 7703(a)(1)
 
-&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or on which the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
+&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or onwhich the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
 
 &emsp;(B) The Secretary shall treat as eligible under subparagraph (G) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that such child does not meet the requirements of clause (ii) of such subparagraph, if such child meets the requirements of paragraph (2).
 
@@ -78,5 +78,5 @@ Subsec. (c)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], r
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

@@ -52,11 +52,11 @@
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
+&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with anyprovision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NGA agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
-&emsp;(viii) Any information filed with, or produced for the court pursuant to clauses (i) and\(iv) shall be coordinated with the Director of National Intelligence prior to submission to the court.
+&emsp;(viii) Any information filed with, or produced for the court pursuant to clauses (i) and (iv) shall be coordinated with the Director of National Intelligence prior to submission to the court.
 
 #### (b) Decennial review of exempted operational files
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Treatment of Certain Transferred Records
 
-Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] ofthe National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
+Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] of the National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
 

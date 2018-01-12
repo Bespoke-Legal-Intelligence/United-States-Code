@@ -2,7 +2,7 @@
 
 #### (a) Wages
 
-For purposes of this chapter, the term "wages" means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include remuneration paid—
+For purposes of this chapter, the term "wages" means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other thancash; except that such term shall not include remuneration paid—
 
 &emsp;(1) for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat zone compensation of members of the Armed Forces of the United States) to the extent remuneration for such service is excludable from gross income under such section; or
 
@@ -82,7 +82,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 #### (b) Payroll period
 
-For purposes of this chapter, the term "payroll period" means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term "miscellaneous payroll period" means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual or annual payroll period.
+For purposes of this chapter, the term "payroll period" means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term "miscellaneous payroll period" means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual, or annual payroll period.
 
 #### (c) Employee
 
@@ -96,9 +96,7 @@ For purposes of this chapter, the term "employer" means the person for whom an i
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term "employer" (except for purposes of subsection (a)) means such person.
 
-#### (e) Number of withholding exemptions claimed
-
-For purposes of this chapter, the term "number of withholding exemptions claimed" means the number of withholding exemptions claimed in a withholding exemption certificate in effect under section 3402(f), or in effect under the corresponding section of prior law, except that if no such certificate is in effect, the number of withholding exemptions claimed shall be considered to be zero.
+#### \[(e) Repealed. Pub. L. 115–97, title I, §11041(c)(2)(A), Dec. 22, 2017, 131 Stat. 2082\]
 
 #### (f) Tips
 
@@ -122,13 +120,25 @@ Rules similar to the rules of section 3121(o) shall apply for purposes of this c
 
 &emsp;&emsp;(B) represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(l), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–245, title I, §§105(a)(1), 115(c), June 17, 2008, 122 Stat. 1628, 1637.)
+#### (i) Qualified stock for which an election is in effect under section 83(i)
+
+For purposes of subsection (a), qualified stock (as defined in section 83(i)) with respect to which an election is made under section 83(i) shall be treated as wages—
+
+&emsp;(1) received on the earliest date described in section 83(i)(1)(B), and
+
+&emsp;(2) in an amount equal to the amount included in income under section 83 for the taxable year which includes such date.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792,§7(l), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–245, title I, §§105(a)(1), 115(c), June 17, 2008, 122 Stat. 1628, 1637; Pub. L. 115–97, title I, §§11041(c)(2)(A), 13603(b)(1), Dec. 22, 2017, 131 Stat. 2082, 2163.)
 
 #### References in Text
 
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–97, §11041(c)(2)(A), struck out subsec. (e). Text read as follows: "For purposes of this chapter, the term 'number of withholding exemptions claimed' means the number of withholding exemptions claimed in a withholding exemption certificate in effect under section 3402(f), or in effect under the corresponding section of prior law, except that if no such certificate is in effect, the number of withholding exemptions claimed shall be considered to be zero."
+
+Subsec. (i). Pub. L. 115–97, §13603(b)(1), added subsec. (i).
 
 <b>2008</b>—Subsec. (a)(23). Pub. L. 110–245, §115(c), added par. (23).
 
@@ -190,7 +200,7 @@ Subsec. (a)(20). Pub. L. 98–369, §531(d)(4)(B), added par. (20).
 
 Subsec. (a)(18). Pub. L. 97–34, §124(e)(2)(A), substituted "section 127 or 129" for "section 127".
 
-Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction wasallowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
+Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction was allowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
 
 Subsec. (a)(19), (20). Pub. L. 97–34, §112(b)(5), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
@@ -229,6 +239,12 @@ Subsec. (a)(15). Pub. L. 88–272, §213(c), added par. (15).
 Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 <b>1955</b>—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11041(c)(2)(A) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under section 151 of this title.
+
+Amendment by section 13603(b)(1) of Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -280,7 +296,7 @@ Amendment by section 1011B(a)(22)(D) of Pub. L. 100–647 not applicable to any 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 122(e)(4) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 122(e)(4) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986,see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1272(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -362,7 +378,7 @@ No inference to be drawn from amendment to subsec. (a)(18) of this section by se
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuitycontract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 

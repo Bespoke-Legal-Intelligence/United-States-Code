@@ -10,7 +10,7 @@ Prohibited Activities.—Whoever—
 
 &emsp;(3) intentionally damages or destroys the property of a facility, or attempts to do so, because such facility provides reproductive health services, or intentionally damages or destroys the property of a place of religious worship,
 
-> shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section forsuch activities insofar as they are directed exclusively at that minor.
+> shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section for such activities insofar as they are directed exclusively at that minor.
 
 (b)
 
@@ -32,7 +32,7 @@ Right of action.—
 
 &emsp;&emsp;(A)
 
-In general.—Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
+In general.—Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, orobtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
 
 &emsp;&emsp;(B)
 

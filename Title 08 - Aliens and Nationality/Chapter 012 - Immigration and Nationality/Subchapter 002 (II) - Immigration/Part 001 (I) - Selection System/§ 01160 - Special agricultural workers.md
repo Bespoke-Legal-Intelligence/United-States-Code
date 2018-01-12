@@ -52,7 +52,7 @@
 
 #### (4) Authorized travel and employment during temporary residence
 
-&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the UnitedStates and shall be provided an "employment authorized" endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
+&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the United States and shall be provided an "employment authorized" endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
 
 #### (5) In general
 
@@ -252,7 +252,7 @@ For all purposes (subject to subsections (a)(5) and (f)) an alien whose status i
 
 In this section, the term "seasonal agricultural services" means the performance of field work related to planting, cultural practices, cultivating, growing and harvesting of fruits and vegetables of every kind and other perishable commodities, as defined in regulations by the Secretary of Agriculture.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Pub. L. 99–603, title III, §302(a)(1), Nov. 6, 1986, 100 Stat. 3417; amended Pub. L. 100–202, §101(a) \[title II, §211\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–525, §2(m), Oct. 24, 1988, 102Stat. 2613; Pub. L. 101–238, §4, Dec. 18, 1989, 103 Stat. 2103; Pub. L. 101–649, title VI, §603(a)(5), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §§307(j), 309(b)(6), Dec. 12, 1991, 105 Stat. 1756, 1758; Pub. L. 103–416, title II, §219(d), (z)(7), Oct. 25, 1994, 108 Stat. 4316, 4318; Pub. L. 104–132, title IV, §431(b), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), Sept. 30, 1996, 110 Stat. 3009–622, 3009–653, 3009–697.)
+(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Pub. L. 99–603, title III, §302(a)(1), Nov. 6, 1986, 100 Stat. 3417; amended Pub. L. 100–202, §101(a) \[title II, §211\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–525, §2(m), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–238, §4, Dec. 18, 1989, 103 Stat. 2103; Pub. L. 101–649, title VI, §603(a)(5), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §§307(j), 309(b)(6), Dec. 12, 1991, 105 Stat. 1756, 1758; Pub. L. 103–416, title II, §219(d), (z)(7), Oct. 25, 1994, 108 Stat. 4316, 4318; Pub. L. 104–132, title IV, §431(b), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), Sept. 30, 1996, 110 Stat. 3009–622, 3009–653, 3009–697.)
 
 #### References in Text
 
@@ -272,7 +272,7 @@ The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 5
 
 Subsec. (b)(6). Pub. L. 104–208, §623(b), amended par. (6) generally, substituting subpars. (A) to (D) for former subpars. (A) to (C) and introductory and concluding provisions, relating to confidentiality of information.
 
-Pub. L. 104–208, §384(d)(1), substituted "Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each violation." for "Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both." in concluding provisions.
+Pub. L. 104–208, §384(d)(1), substituted "Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be subject to appropriate disciplinary action and subject to a civil moneypenalty of not more than $5,000 for each violation." for "Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both." in concluding provisions.
 
 Pub. L. 104–132, §431(b)(2), inserted before "Anyone who uses" in concluding provisions "Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discover information leading to the location or identity of the alien."
 
@@ -324,7 +324,7 @@ Amendment by section 308(g)(2)(B) of Pub. L. 104–208 effective, with certain t
 
 Pub. L. 104–208, div. C, title III, §384(d)(2), Sept. 30, 1996, 110 Stat. 3009–653, provided that: "The amendments made by this subsection \[amending this section and section 1255a of this title\] shall apply to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office ofAssistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 

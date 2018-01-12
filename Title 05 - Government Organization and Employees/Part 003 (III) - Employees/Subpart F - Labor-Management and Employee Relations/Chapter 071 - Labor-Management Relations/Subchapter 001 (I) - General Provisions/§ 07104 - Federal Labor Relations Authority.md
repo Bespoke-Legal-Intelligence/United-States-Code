@@ -2,7 +2,7 @@
 
 (a) The Federal Labor Relations Authority is composed of three members, not more than 2 of whom may be adherents of the same political party. No member shall engage in any other business or employment or hold another office or position in the Government of the United States except as otherwise provided by law.
 
-(b) Members of the Authority shall be appointed by the President by and with the advice and consent of the Senate, and may be removed by the President only upon notice and hearing and only for inefficiency, neglect of duty, ormalfeasance in office. The President shall designate one member to serve as Chairman of the Authority. The Chairman is the chief executive and administrative officer of the Authority.
+(b) Members of the Authority shall be appointed by the President by and with the advice and consent of the Senate, and may be removed by the President only upon notice and hearing and only for inefficiency, neglect of duty, or malfeasance in office. The President shall designate one member to serve as Chairman of the Authority. The Chairman is the chief executive and administrative officer of the Authority.
 
 (c) A member of the Authority shall be appointed for a term of 5 years. An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. The term of any member shall not expire before the earlier of—
 

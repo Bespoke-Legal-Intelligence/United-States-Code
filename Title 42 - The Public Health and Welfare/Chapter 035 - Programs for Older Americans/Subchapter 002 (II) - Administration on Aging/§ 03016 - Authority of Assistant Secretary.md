@@ -18,7 +18,7 @@
 
 &emsp;(ii) developing guidelines for nutrition providers concerning safety, sanitary handling of food, equipment, preparation, and food storage;
 
-&emsp;(iii) conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current DietaryGuidelines for Americans published under section 5341 of title 7, the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
+&emsp;(iii) conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current Dietary Guidelines for Americans published under section 5341 of title 7, the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
 
 &emsp;(iv) promoting coordination between nutrition service providers and community-based organizations serving older individuals;
 

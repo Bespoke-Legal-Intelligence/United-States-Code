@@ -14,7 +14,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;An acquisition or relocation project shall be eligible to receive assistance pursuant to paragraph (1) only if—
 
-&emsp;&emsp;(A) the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a) of this section; and
+&emsp;&emsp;(A) the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a); and
 
 &emsp;&emsp;(B) on or after December 3, 1993, the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
 
@@ -72,7 +72,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;For the purpose of providing assistance under this section, the President shall ensure that—
 
-&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
+&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental PolicyAct of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
 
 &emsp;&emsp;(B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the National Historic Preservation Act <sup>1</sup> is utilized.
 
@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
 Pub. L. 113–2, div. B, §1104(c), Jan. 29, 2013, 127 Stat. 43, provided that: "The authority under the amendments made by this section \[amending this section\] shall apply to—
 
-&emsp;"(1) any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) onor after the date of enactment of this division \[Jan. 29, 2013\]; and
+&emsp;"(1) any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after the date of enactment of this division \[Jan. 29, 2013\]; and
 
 &emsp;"(2) a major disaster or emergency declared under that Act before the date of enactment of this division for which the period for processing requests for assistance has not ended as of the date of enactment of this division."
 

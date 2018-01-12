@@ -1,0 +1,6 @@
+### §13726b. Transferred
+
+#### Codification
+
+Section 13726b was editorially reclassified as section 60103 of Title 34, Crime Control and Law Enforcement.
+

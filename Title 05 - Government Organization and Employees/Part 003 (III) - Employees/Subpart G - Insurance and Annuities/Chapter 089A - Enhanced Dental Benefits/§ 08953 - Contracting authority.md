@@ -1,6 +1,6 @@
 ### §8953. Contracting authority
 
-(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding. An employee organization maycontract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
+(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding. An employee organization may contract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
 
 (2) The Office shall ensure that each resulting contract is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the terms of the enrollment period; and
 
-&emsp;(3) such other terms and conditions as may be mutually agreed to by the Office and the qualified company involved, consistent with the requirements of this chapter and regulations prescribed by the Office.
+&emsp;(3) such other terms and conditions as may be mutually agreed to by the Office and thequalified company involved, consistent with the requirements of this chapter and regulations prescribed by the Office.
 
 (c) Nothing in this chapter shall, in the case of an individual electing dental supplemental benefit coverage under this chapter after the expiration of such individual's first opportunity to enroll, preclude the application of waiting periods more stringent than those that would have applied if that opportunity had not yet expired.
 

@@ -58,7 +58,7 @@ In subsection (a), the words "apply to the United States, including" are substit
 
 Subsection (b)(2) is based on section 503(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48 U.S.C. 1801 note).
 
-Subsection (b)(3) is based on Proc. No. 3215, Dec. 12, 1957, 72 Stat. c19, which provided that the President, "under and by virtue of the authority vested in me by the aforesaid section 21 of the Merchant Marine Act, 1920 \[46 App. U.S.C. 877\], do hereby declare and proclaimthat the period for the establishment of an adequate shipping service for Canton Island is extended until further notice by proclamation of the President, and that the extension of the coastwise laws of the United States to Canton Island is deferred until it is declared by proclamation of the President that such adequate shipping service has been established".
+Subsection (b)(3) is based on Proc. No. 3215, Dec. 12, 1957, 72 Stat. c19, which provided that the President, "under and by virtue of the authority vested in me by the aforesaid section 21 of the Merchant Marine Act, 1920 \[46 App. U.S.C. 877\], do hereby declare and proclaim that the period for the establishment of an adequate shipping service for Canton Island is extended until further notice by proclamation of the President, and that the extension of the coastwise laws of the United States to Canton Island is deferred until it is declared by proclamation of the President that such adequate shipping service has been established".
 
 In subsection (b)(4), the words "and fix a date for the going into effect of same" are omitted as surplus.
 

@@ -14,7 +14,7 @@ In lieu of the investigation and report to be made by the Director of the Office
 
 #### (d) Investigations by FBI
 
-In the event an investigation made pursuant to subsections (a) and (b) of this section develops any data reflecting that the individual who is the subject of the investigation is of questionable loyalty, the Director of the Office of Personnel Management shall refer the matter tothe Federal Bureau of Investigation for the conduct of a full field investigation, the results of which shall be furnished to the Director of the Office of Personnel Management for his information and appropriate action.
+In the event an investigation made pursuant to subsections (a) and (b) of this section develops any data reflecting that the individual who is the subject of the investigation is of questionable loyalty, the Director of the Office of Personnel Management shall refer the matter to the Federal Bureau of Investigation for the conduct of a full field investigation, the results of which shall be furnished to the Director of the Office of Personnel Management for his information and appropriate action.
 
 #### (e) Presidential investigation
 

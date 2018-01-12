@@ -194,9 +194,131 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;Chapter 35 of title 44 shall not apply to the collection of voluntary information from health care providers, such as voluntary surveys or questionnaires, initiated by the Secretary for purposes of postmarket risk identification, mitigation, and analysis for devices.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154.)
+#### (i) Postmarket pilot
+
+#### (1) In general
+
+&emsp;In order to provide timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section and section 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
+
+&emsp;&emsp;(A) are designed to efficiently generate reliable and timely safety and active surveillance data for use by the Secretary or manufacturers of the devices that are involved in the pilot project;
+
+&emsp;&emsp;(B) inform the development of methods, systems, data criteria, and programs that could be used to support safety and active surveillance activities for devices included or not included in such project;
+
+&emsp;&emsp;(C) may be designed and conducted in coordination with a comprehensive system for evaluating medical device technology that operates under a governing board with appropriate representation of stakeholders, including patient groups and device manufacturers;
+
+&emsp;&emsp;(D) use electronic health data including claims data, patient survey data, or any other data, as the Secretary determines appropriate; and
+
+&emsp;&emsp;(E) prioritize devices and device types that meet one or more of the following criteria:
+
+&emsp;&emsp;&emsp;(i) Devices and device types for which the collection and analysis of real world evidence regarding a device's safety and effectiveness is likely to advance public health.
+
+&emsp;&emsp;&emsp;(ii) Devices and device types that are widely used.
+
+&emsp;&emsp;&emsp;(iii) Devices and device types, the failure of which has significant health consequences.
+
+&emsp;&emsp;&emsp;(iv) Devices and device types for which the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) has received public recommendations in accordance with paragraph (2)(B); and
+
+&emsp;&emsp;&emsp;&emsp;(II) has determined to meet one or more of the criteria under clause (i), (ii), or (iii) and is appropriate for such a pilot project.
+
+#### (2) Participation
+
+&emsp;The Secretary shall establish the conditions and processes—
+
+&emsp;&emsp;(A) under which a manufacturer of a device may voluntarily participate in a pilot project described in paragraph (1); and
+
+&emsp;&emsp;(B) for facilitating public recommendations for devices to be prioritized under such a pilot project, including requirements for the data necessary to support such a recommendation.
+
+#### (3) Continuation of ongoing projects
+
+&emsp;The Secretary may continue or expand projects, with respect to providing timely and reliable information on the safety and effectiveness of devices approved under section 360e of this title, cleared under section 360(k) of this title, or classified under section 360c(f)(2) of this title, that are being carried out as of August 18, 2017. The Secretary shall, beginning on such date, take such steps as may be necessary—
+
+&emsp;&emsp;(A) to ensure such projects meet the requirements of subparagraphs (A) through (E) of paragraph (1); and
+
+&emsp;&emsp;(B) to increase the voluntary participation in such projects of manufacturers of devices and facilitate public recommendations for any devices prioritized under such a project.
+
+#### (4) Implementation
+
+#### (A) Contracting authority
+
+&emsp;&emsp;The Secretary may carry out a pilot project meeting the criteria specified in subparagraphs (A) through (E) of paragraph (1) or a project continued or expanded under paragraph (3) by entering into contracts, cooperative agreements, grants, or other appropriate agreements with public or private entities that have a significant presence in the United States and meet the following conditions:
+
+&emsp;&emsp;&emsp;(i) If such an entity is a component of another organization, the entity and the organization have established an agreement under which appropriate security measures are implemented to maintain the confidentiality and privacy of the data described in paragraph (1)(D) and such agreement ensures that the entity will not make an unauthorized disclosure of such data to the other components of the organization in breach of requirements with respect to confidentiality and privacy of such data established under such security measures.
+
+&emsp;&emsp;&emsp;(ii) In the case of the termination or nonrenewal of such a contract, cooperative agreement, grant, or other appropriate agreement, the entity or entities involved shall comply with each of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The entity or entities shall continue to comply with the requirements with respect to confidentiality and privacy referred to in clause (i) with respect to all data disclosed to the entity under such an agreement.
+
+&emsp;&emsp;&emsp;&emsp;(II) The entity or entities shall return any data disclosed to such entity pursuant to this subsection and to which it would not otherwise have access or, if returning such data is not practicable, destroy the data.
+
+&emsp;&emsp;&emsp;(iii) The entity or entities shall have one or more qualifications with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) research, statistical, epidemiologic, or clinical capability and expertise to conduct and complete the activities under this subsection, including the capability and expertise to provide the Secretary access to de-identified data consistent with the requirements of this subsection;
+
+&emsp;&emsp;&emsp;&emsp;(II) an information technology infrastructure to support electronic data and operational standards to provide security for such data, as appropriate;
+
+&emsp;&emsp;&emsp;&emsp;(III) experience with, and expertise on, the development of research on, and surveillance of, device safety and effectiveness using electronic health data; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) such other expertise which the Secretary determines necessary to carry out such a project.
+
+#### (B) Review of contract in the event of a merger or acquisition
+
+&emsp;&emsp;The Secretary shall review any contract, cooperative agreement, grant, or other appropriate agreement entered into under this paragraph with an entity meeting the conditions specified in subparagraph (A) in the event of a merger or acquisition of the entity in order to ensure that the requirements specified in this subsection will continue to be met.
+
+#### (5) Compliance with requirements for records or reports on devices
+
+&emsp;The participation of a manufacturer in pilot projects under this subsection or a project continued or expanded under paragraph (3) shall not affect the eligibility of such manufacturer to participate in any quarterly reporting program with respect to devices carried out under this section 360i <sup>3</sup> or section 360l of this title. The Secretary may determine that, for a specified time period to be determined by the Secretary, a manufacturer's participation in a pilot project under this subsection or a project continued or expanded under paragraph (3) may meet the applicable requirements of this section or section 360l of this title, if—
+
+&emsp;&emsp;(A) the project has demonstrated success in capturing relevant adverse event information; and
+
+&emsp;&emsp;(B) the Secretary has established procedures for making adverse event and safety information collected from such project public, to the extent possible.
+
+#### (6) Privacy requirements
+
+&emsp;With respect to the disclosure of any health information collected through a project conducted under this subsection—
+
+&emsp;&emsp;(A) individually identifiable health information so collected shall not be disclosed when presenting any information from such project; and
+
+&emsp;&emsp;(B) any such disclosure shall be made in compliance with regulations issued pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and sections 552 and 552a of title 5.
+
+#### (7) Limitations
+
+&emsp;No pilot project under this subsection, or in coordination with the comprehensive system described in paragraph (1)(C), may allow for an entity participating in such project, other than the Secretary, to make determinations of safety or effectiveness, or substantial equivalence, for purposes of this chapter.
+
+#### (8) Other projects required to comply
+
+&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply with respect to pilot projects conducted under this subsection.
+
+#### (9) Report to Congress
+
+&emsp;Not later than 18 months after August 18, 2017, and annually thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report containing a description of the pilot projects being conducted under this subsection and projects continued or expanded pursuant to paragraph (3), including for each such project—
+
+&emsp;&emsp;(A) how the project is being implemented in accordance with paragraph (4), including how such project is being implemented through a contract, cooperative agreement, grant, or other appropriate agreement, if applicable;
+
+&emsp;&emsp;(B) the number of manufacturers that have agreed to participate in such project;
+
+&emsp;&emsp;(C) the data sources used to conduct such project;
+
+&emsp;&emsp;(D) the devices or device categories involved in such project;
+
+&emsp;&emsp;(E) the number of patients involved in such project; and
+
+&emsp;&emsp;(F) the findings of the project in relation to device safety, including adverse events, malfunctions, and other safety information.
+
+#### (10) Sunset
+
+&emsp;The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
+
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061;Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+
+#### References in Text
+
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(6)(B), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i). Pub. L. 115–52 added subsec. (i).
 
 <b>2016</b>—Subsec. (f). Pub. L. 114–255 substituted "or life sustaining" for "and life sustaining".
 
@@ -286,7 +408,7 @@ Pub. L. 102–300, §5(b), June 16, 1992, 106 Stat. 240, provided that: "The ame
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: "Section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
+Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: "Section 519(b) of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
 
 &emsp;"(1) upon the effective date of regulations promulgated under subsection (b) \[set out below\], or
 
@@ -324,7 +446,7 @@ Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 
 
 &emsp;"(iv) include such other requirements as the Secretary deems necessary for the adoption of an effective user tracking program under section 519(e) of such Act.
 
-"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\]519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
+"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
 
 "(3) Not later than November 28, 1992, the Secretary shall issue final regulations to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations by November 28, 1992, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of section 519(e) of such Act is essential to protect the health of patients who use devices. In such event, the proposed regulations issued under paragraph (1) shall become the issued final regulations on November 29, 1992. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations."
 
@@ -345,4 +467,6 @@ Pub. L. 101–629, §2(f), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. The section number probably should not appear.</i>
 

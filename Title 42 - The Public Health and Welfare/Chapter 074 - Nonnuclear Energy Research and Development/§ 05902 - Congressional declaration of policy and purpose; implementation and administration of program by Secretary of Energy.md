@@ -18,7 +18,7 @@ The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. 
 
 The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 
-The Solar Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
+The Solar Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), isPub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
 #### Amendments
 

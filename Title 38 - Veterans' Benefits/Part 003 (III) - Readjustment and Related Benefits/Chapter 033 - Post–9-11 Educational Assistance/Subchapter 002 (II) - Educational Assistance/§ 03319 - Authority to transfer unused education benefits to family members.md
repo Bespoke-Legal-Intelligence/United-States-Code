@@ -46,7 +46,7 @@ Time for Transfer; Revocation and Modification.—
 
 &emsp;(1)
 
-Time for transfer.—Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
+Time for transfer.—Subject to the time limitation for use of entitlement under section 3321, and except as provided in subsection (k) or (l), an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement onlywhile serving as a member of the Armed Forces when the transfer is executed.
 
 &emsp;(2)
 
@@ -202,9 +202,21 @@ Regulations.—(1) The Secretary of Defense, in coordination with the Secretary 
 
 &emsp;(C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896;Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539.)
+(k)
+
+Additional Transfer Upon Death of Dependent.—In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
+
+(l)
+
+Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(1). Pub. L. 115–48, §110(a)(1), inserted ", and except as provided in subsection (k) or (l)," after "section 3321".
+
+Subsecs. (k), (l). Pub. L. 115–48, §110(a)(2), added subsecs. (k) and (l).
 
 <b>2015</b>—Pub. L. 114–58 substituted "Armed Forces" for "armed forces" in subsecs. (b)(1), (f)(1), and (g)(1)(A), (2)(A)(i).
 
@@ -228,9 +240,25 @@ Subsec. (k). Pub. L. 111–377, §110(a)(2), struck out subsec. (k). Text read a
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted "subsection (j)" for "section (k)".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–48, title I, §110(b), Aug. 16, 2017, 131 Stat. 981, provided that:
+
+"(1)
+
+Eligible deaths.—The amendments made by this section \[amending this section\] shall apply with respect to deaths occurring on or after August 1, 2009.
+
+"(2)
+
+Use of entitlement.—A dependent to whom entitlement to educational assistance is transferred under subsection (k) or (l) of section 3319 of title 38, United States Code, as added by subsection (a), may use such entitlement to pursue a course of education beginning on or after August 1, 2018."
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–377, title I, §110(c), Jan. 4, 2011, 124 Stat. 4120, provided that: "The amendments made by this section \[amending this section\] shall take effect on August 1, 2011."
 
 Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and applicable with respect to preventions and suspension of pursuit of programs of education that commence on or after that date, see section 201(d) of Pub. L. 111–377, set out as a note under section 3031 of this title.
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 

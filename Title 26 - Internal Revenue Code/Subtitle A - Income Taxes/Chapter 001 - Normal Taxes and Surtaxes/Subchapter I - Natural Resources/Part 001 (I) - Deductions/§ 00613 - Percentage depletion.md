@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion and without the deduction under section 199). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
+In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion and without the deduction under section 199A). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition ofcertain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
 
 #### (b) Percentage depletion rates
 
@@ -46,7 +46,7 @@ The mines, wells, and other natural deposits, and the percentages, referred to i
 
 #### (7) 14 percent
 
-&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or soldfor use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term "all other minerals" does not include—
+&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term "all other minerals" does not include—
 
 &emsp;&emsp;(A) soil, sod, dirt, turf, water, or mosses;
 
@@ -120,9 +120,13 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 &emsp;In the case of any geothermal deposit, the term "gross income from the property" shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–97, §13305(b)(4), struck out "and without the deduction under section 199" after "without allowance for depletion".
+
+Pub. L. 115–97, §11011(d)(3), inserted "and without the deduction under section 199A" after "without the deduction under section 199".
 
 <b>2005</b>—Subsec. (c)(4)(H). Pub. L. 109–135 inserted "(including in situ retorting)" after "and retorting".
 
@@ -174,7 +178,7 @@ Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted "paragraph (5) or (6)
 
 <b>1964</b>—Subsec. (b)(2)(B), (6). Pub. L. 88–571 inserted "beryllium" after "antimony" in par. (2)(B), and deleted "beryl" after "bauxite" in pars. (2)(B) and (6).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor propertydescribed in section 1231, and is properly allocable to the property.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
 <b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
@@ -189,6 +193,12 @@ Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted "The following treatm
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–866 added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11011(d)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under section 62 of this title.
+
+Amendment by section 13305(b)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -262,7 +272,7 @@ Election for past years.—In the case of calcium carbonates or other minerals w
 
 &emsp;&emsp;&emsp;"(i) the amendments made by subsection (b) \[amending this section\] shall apply to taxable years with respect to which such election is effective and
 
-&emsp;&emsp;&emsp;"(ii) provisions having the same effect as the amendments made by subsection (b) \[amending this section\] shall be deemed to be included in theInternal Revenue Code of 1939 and shall apply to taxable years with respect to which such election is effective in lieu of the corresponding provisions of such Code.
+&emsp;&emsp;&emsp;"(ii) provisions having the same effect as the amendments made by subsection (b) \[amending this section\] shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to taxable years with respect to which such election is effective in lieu of the corresponding provisions of such Code.
 
 &emsp;&emsp;"(B)
 

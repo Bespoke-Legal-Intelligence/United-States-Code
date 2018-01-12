@@ -92,7 +92,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to subparagraph (B) and subsection (m)(2)(B), with respect to coveredprofessional services furnished by an eligible professional during 2012, 2013 or 2014, if the eligible professional is not a successful electronic prescriber for the reporting period for the year (as determined under subsection (m)(3)(B)), the fee schedule amount for such services furnished by such professional during the year (including the fee schedule amount for purposes of determining a payment based on such amount) shall be equal to the applicable percent of the fee schedule amount that would otherwise apply to such services under this subsection (determined after application of paragraph (3) but without regard to this paragraph).
+&emsp;&emsp;&emsp;Subject to subparagraph (B) and subsection (m)(2)(B), with respect to covered professional services furnished by an eligible professional during 2012, 2013 or 2014, if the eligible professional is not a successful electronic prescriber for the reporting period for the year (as determined under subsection (m)(3)(B)), the fee schedule amount for such services furnished by such professional during the year (including the fee schedule amount for purposes of determining a payment based on such amount) shall be equal to the applicable percent of the fee schedule amount that would otherwise apply to such services under this subsection (determined after application of paragraph (3) but without regard to this paragraph).
 
 #### (ii) Applicable percent
 
@@ -136,7 +136,7 @@
 
 #### (6) Special rule for teaching anesthesiologists
 
-&emsp;With respect to physicians' services furnished on or after January 1, 2010, in the case of teaching anesthesiologists involved in the training of physician residents in a single anesthesia case or two concurrent anesthesia cases, the fee schedule amount to be applied shall be 100 percent of the fee schedule amount otherwise applicable under this section if the anesthesia services were personally performed by the teaching anesthesiologist alone and paragraph (4) shall not apply if—
+&emsp;With respect to physicians' services furnished on or after January 1, 2010, in the case of teaching anesthesiologists involved in thetraining of physician residents in a single anesthesia case or two concurrent anesthesia cases, the fee schedule amount to be applied shall be 100 percent of the fee schedule amount otherwise applicable under this section if the anesthesia services were personally performed by the teaching anesthesiologist alone and paragraph (4) shall not apply if—
 
 &emsp;&emsp;(A) the teaching anesthesiologist is present during all critical or key portions of the anesthesia service or procedure involved; and
 
@@ -310,7 +310,7 @@
 
 #### (C) Adjustment in imaging utilization rate
 
-&emsp;&emsp;With respect to fee schedules established for 2011, 2012, and 2013, in the methodology for determining practice expense relative value units for expensive diagnostic imaging equipment under the final rule published by the Secretary in the Federal Register on November 25, 2009 (42 CFR 410 et al.), the Secretary shall use a 75 percent assumption instead of the utilization rates otherwise established in such final rule. With respect tofee schedules established for 2014 and subsequent years, in such methodology, the Secretary shall use a 90 percent utilization rate.
+&emsp;&emsp;With respect to fee schedules established for 2011, 2012, and 2013, in the methodology for determining practice expense relative value units for expensive diagnostic imaging equipment under the final rule published by the Secretary in the Federal Register on November 25, 2009 (42 CFR 410 et al.), the Secretary shall use a 75 percent assumption instead of the utilization rates otherwise established in such final rule. With respect to fee schedules established for 2014 and subsequent years, in such methodology, the Secretary shall use a 90 percent utilization rate.
 
 #### (D) Adjustment in technical component discount on single-session imaging involving consecutive body parts
 
@@ -398,7 +398,7 @@
 
 #### (A) "Work component" defined
 
-&emsp;&emsp;The term "work component" means the portion of the resources used in furnishing the service that reflects physician time and intensity in furnishing the service. Such portion shall—
+&emsp;&emsp;The term "work component" means the portion of the resources used in furnishingthe service that reflects physician time and intensity in furnishing the service. Such portion shall—
 
 &emsp;&emsp;&emsp;(i) include activities before and after direct patient contact, and
 
@@ -438,7 +438,7 @@
 
 #### (II) Limitation on annual adjustments
 
-&emsp;&emsp;&emsp;&emsp;Subject to clauses (iv) and (v), the adjustments under subclause (I) for a yearmay not cause the amount of expenditures under this part for the year to differ by more than $20,000,000 from the amount of expenditures under this part that would have been made if such adjustments had not been made.
+&emsp;&emsp;&emsp;&emsp;Subject to clauses (iv) and (v), the adjustments under subclause (I) for a year may not cause the amount of expenditures under this part for the year to differ by more than $20,000,000 from the amount of expenditures under this part that would have been made if such adjustments had not been made.
 
 #### (iii) Consultation
 
@@ -538,7 +538,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall reduce the practice expense relative value units applied to services described in clause (iii) furnished in—
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall reduce the practice expense relative valueunits applied to services described in clause (iii) furnished in—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1994, by 25 percent of the number by which the number of practice expense relative value units (determined for 1994 without regard to this subparagraph) exceeds the number of work relative value units determined for 1994,
 
@@ -678,7 +678,7 @@
 
 #### (ii) Identification of potentially misvalued codes
 
-&emsp;&emsp;&emsp;For purposes of identifying potentially misvalued codes pursuant to clause (i)(I), the Secretary shall examine codes (and families of codes as appropriate) based on any or all of the following criteria:
+&emsp;&emsp;&emsp;For purposes of identifying potentially misvalued codes pursuant to clause (i)(I),the Secretary shall examine codes (and families of codes as appropriate) based on any or all of the following criteria:
 
 &emsp;&emsp;&emsp;&emsp;(I) Codes that have experienced the fastest growth.
 
@@ -756,7 +756,7 @@
 
 #### (i) Collection of information
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may collect or obtain information on the resources directly or indirectly related to furnishing services for which payment is made under the fee schedule established under subsection (b). Such information may be collected or obtained from any eligible professional or any other source.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may collect or obtain information on the resources directly orindirectly related to furnishing services for which payment is made under the fee schedule established under subsection (b). Such information may be collected or obtained from any eligible professional or any other source.
 
 #### (ii) Use of information
 
@@ -832,7 +832,7 @@
 
 #### (ii) Budget neutral redistribution of funds if target met and counting overages towards the target for the succeeding year
 
-&emsp;&emsp;&emsp;If the estimated net reduction in expenditures determined under clause (i) for the year is equal to or greater than the target for the year—
+&emsp;&emsp;&emsp;If the estimated net reduction in expenditures determined under clause (i) for theyear is equal to or greater than the target for the year—
 
 &emsp;&emsp;&emsp;&emsp;(I) reduced expenditures attributable to such adjustments shall be redistributed for the year in a budget neutral manner in accordance with subparagraph (B)(ii)(II); and
 
@@ -906,7 +906,7 @@
 
 #### (6) No variation for specialists
 
-&emsp;The Secretary may not vary the conversion factor or the number of relative value units for a physicians' service based on whether the physician furnishing the service is a specialist or based on the type of specialty of the physician.
+&emsp;The Secretary may not vary the conversion factor or the number of relative value units for a physicians' service based on whether the physician furnishing the service is a specialistor based on the type of specialty of the physician.
 
 #### (7) Phase-in of significant relative value unit (RVU) reductions
 
@@ -932,7 +932,7 @@
 
 #### (ii) Reassessment and potential sunset
 
-&emsp;&emsp;&emsp;Every 4 years, the Secretary shall reassess the value of the information collected pursuant to clause (i). Based on such a reassessment and by regulation, the Secretary may discontinue the requirement for collection of information under such clause if the Secretary determines that the Secretary has adequate informationfrom other sources, such as qualified clinical data registries, surgical logs, billing systems or other practice or facility records, and electronic health records, in order to accurately value global surgical services under this section.
+&emsp;&emsp;&emsp;Every 4 years, the Secretary shall reassess the value of the information collected pursuant to clause (i). Based on such a reassessment and by regulation, the Secretary may discontinue the requirement for collection of information under such clause if the Secretary determines that the Secretary has adequate information from other sources, such as qualified clinical data registries, surgical logs, billing systems or other practice or facility records, and electronic health records, in order to accurately value global surgical services under this section.
 
 #### (iii) Inspector general audit
 
@@ -988,7 +988,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A)(ii), the "update adjustment factor" for a year is equal (as estimated by the Secretary) to—
 
-&emsp;&emsp;&emsp;(i) the difference between (I) the sum of the allowed expenditures for physicians' services (as determined under subparagraph (C)) for the period beginning April 1, 1997, and ending on March 31 of the year involved, and (II) the amount of actual expenditures for physicians' services furnished during the period beginning April 1,1997, and ending on March 31 of the preceding year; divided by
+&emsp;&emsp;&emsp;(i) the difference between (I) the sum of the allowed expenditures for physicians' services (as determined under subparagraph (C)) for the period beginning April 1, 1997, and ending on March 31 of the year involved, and (II) the amount of actual expenditures for physicians' services furnished during the period beginning April 1, 1997, and ending on March 31 of the preceding year; divided by
 
 &emsp;&emsp;&emsp;(ii) the actual expenditures for physicians' services for the 12-month period ending on March 31 of the preceding year, increased by the sustainable growth rate under subsection (f) for the fiscal year which begins during such 12-month period.
 
@@ -1004,9 +1004,9 @@
 
 &emsp;&emsp;Notwithstanding the amount of the update adjustment factor determined under subparagraph (B) for a year, the update in the conversion factor under this paragraph for the year may not be—
 
-&emsp;&emsp;&emsp;(i) greater than 100 times the following amount: (1.03 + (MEI percentage/100)) ^1; or
+&emsp;&emsp;&emsp;(i) greater than 100 times the following amount: (1.03 + (MEI percentage/100)) −1; or
 
-&emsp;&emsp;&emsp;(ii) less than 100 times the following amount: (0.93 + (MEI percentage/100)) ^1,
+&emsp;&emsp;&emsp;(ii) less than 100 times the following amount: (0.93 + (MEI percentage/100)) −1,
 
 > &emsp;&emsp;where "MEI percentage" means the Secretary's estimate of the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for the year involved.
 
@@ -1028,7 +1028,7 @@
 
 &emsp;&emsp;&emsp;An amount determined by—
 
-&emsp;&emsp;&emsp;&emsp;(I) computing the difference (which may be positive or negative) between the amount of the allowed expenditures for physicians' services for the prior year (as determined under subparagraph (C)) and the amount of the actual expenditures for such services for that year;
+&emsp;&emsp;&emsp;&emsp;(I) computing the difference (which may be positive or negative) between theamount of the allowed expenditures for physicians' services for the prior year (as determined under subparagraph (C)) and the amount of the actual expenditures for such services for that year;
 
 &emsp;&emsp;&emsp;&emsp;(II) dividing that difference by the amount of the actual expenditures for such services for that year; and
 
@@ -1066,7 +1066,7 @@
 
 #### (D) Restriction on update adjustment factor
 
-&emsp;&emsp;The update adjustment factor determined under subparagraph (B) for a year may not be less than ^0.07 or greater than 0.03.
+&emsp;&emsp;The update adjustment factor determined under subparagraph (B) for a year may not be less than −0.07 or greater than 0.03.
 
 #### (E) Recalculation of allowed expenditures for updates beginning with 2001
 
@@ -1076,7 +1076,7 @@
 
 &emsp;&emsp;Under this subparagraph the Secretary shall provide for an adjustment to the update under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) for each of 2001, 2002, 2003, and 2004, of ^0.2 percent; and
+&emsp;&emsp;&emsp;(i) for each of 2001, 2002, 2003, and 2004, of −0.2 percent; and
 
 &emsp;&emsp;&emsp;(ii) for 2005 of +0.8 percent.
 
@@ -1166,7 +1166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), and (13)(B), in lieu ofthe update to the single conversion factor established in paragraph (1)(C) that would otherwise apply for 2013, the update to the single conversion factor for such year shall be zero percent.
+&emsp;&emsp;Subject to paragraphs (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), and (13)(B), in lieu of the update to the single conversion factor established in paragraph (1)(C) that would otherwise apply for 2013, the update to the single conversion factor for such year shall be zero percent.
 
 #### (B) No effect on computation of conversion factor for 2014 and subsequent years
 
@@ -1234,7 +1234,7 @@
 
 #### (G) <sup>4</sup> Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska
 
-&emsp;&emsp;For purposes of payment for services furnished in Alaska on or after January 1, 2004, and before January 1, 2006, after calculating the practice expense, malpractice, and work geographic indices in clauses (i), (ii), and (iii) of subparagraph (A) and in subparagraph\(B), the Secretary shall increase any such index to 1.67 if such index would otherwise be less than 1.67. For purposes of payment for services furnished in the State described in the preceding sentence on or after January 1, 2009, after calculating the work geographic index in subparagraph (A)(iii), the Secretary shall increase the work geographic index to 1.5 if such index would otherwise be less than 1.5 <sup>1</sup>
+&emsp;&emsp;For purposes of payment for services furnished in Alaska on or after January 1, 2004, and before January 1, 2006, after calculating the practice expense, malpractice, and work geographic indices in clauses (i), (ii), and (iii) of subparagraph (A) and in subparagraph (B), the Secretary shall increase any such index to 1.67 if such index would otherwise be less than 1.67. For purposes of payment for services furnished in the State described in the preceding sentence on or after January 1, 2009, after calculating the work geographic index in subparagraph (A)(iii), the Secretary shall increase the work geographic index to 1.5 if such index would otherwise be less than 1.5 <sup>1</sup>
 
 #### (H) Practice expense geographic adjustment for 2010 and subsequent years
 
@@ -1290,7 +1290,7 @@
 
 &emsp;&emsp;(A) the proportion of the total relative value for the service that reflects the relative value units for the practice expense component, and
 
-&emsp;&emsp;(B) the geographic cost-of-practice index value for the area for the service, based onthe index established under paragraph (1)(A)(i) or (1)(B) (as the case may be).
+&emsp;&emsp;(B) the geographic cost-of-practice index value for the area for the service, based on the index established under paragraph (1)(A)(i) or (1)(B) (as the case may be).
 
 #### (4) Geographic malpractice adjustment factor
 
@@ -1378,7 +1378,7 @@
 
 &emsp;&emsp;(B) 1 plus the Secretary's estimate of the percentage change (divided by 100) in the average number of individuals enrolled under this part (other than Medicare+Choice plan enrollees) from the previous applicable period to the applicable period involved,
 
-&emsp;&emsp;(C) 1 plus the Secretary's estimate of the annual average percentage growth in realgross domestic product per capita (divided by 100) during the 10-year period ending with the applicable period involved, and
+&emsp;&emsp;(C) 1 plus the Secretary's estimate of the annual average percentage growth in real gross domestic product per capita (divided by 100) during the 10-year period ending with the applicable period involved, and
 
 &emsp;&emsp;(D) 1 plus the Secretary's estimate of the percentage change (divided by 100) in expenditures for all physicians' services in the applicable period (compared with the previous applicable period) which will result from changes in law and regulations, determined without taking into account estimated changes in expenditures resulting from the update adjustment factor determined under subsection (d)(3)(B) or (d)(4)(B), as the case may be,
 
@@ -1548,7 +1548,7 @@
 
 &emsp;&emsp;The Secretary shall monitor—
 
-&emsp;&emsp;&emsp;(i) changes in the utilization of and access to services furnished under this part within geographic, population, and service related categories,
+&emsp;&emsp;&emsp;(i) changes in the utilization of and access to services furnished under this partwithin geographic, population, and service related categories,
 
 &emsp;&emsp;&emsp;(ii) possible sources of inappropriate utilization of services furnished under this part which contribute to the overall level of expenditures under this part, and
 
@@ -1622,7 +1622,7 @@ In this section:
 
 #### (1) Category
 
-&emsp;For services furnished before January 1, 1998, the term "category" means, with respect to physicians' services, surgical services, and all physicians' services other than surgical services (as defined by the Secretary and including anesthesia services), primary care services (as defined in section 1395u(i)(4) of this title), and all other physicians' services. The Secretary shall define surgical services and publish such definition in the Federal Register no later than May 1, 1990, after consultation with organizations representing physicians.
+&emsp;For services furnished before January 1, 1998, the term "category" means, with respect to physicians' services, surgical services, and all physicians' services other than surgical services (as defined by the Secretary and includinganesthesia services), primary care services (as defined in section 1395u(i)(4) of this title), and all other physicians' services. The Secretary shall define surgical services and publish such definition in the Federal Register no later than May 1, 1990, after consultation with organizations representing physicians.
 
 #### (2) Fee schedule area
 
@@ -1676,7 +1676,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for purposes of reporting data on quality measures for covered professional services furnished during 2010 and each subsequent year, subject to subsection (m)(3)(C), the quality measures (including electronic prescribing quality measures) specified under this paragraph shall be such measures selected by the Secretary from measures that have been endorsed by the entity with a contract with the Secretary under section 1395aaa(a) of this title.
+&emsp;&emsp;&emsp;Subject to clause (ii), for purposes of reporting data on quality measures for covered professional services furnished during 2010 and each subsequent year, subject to subsection (m)(3)(C), the quality measures (including electronic prescribing quality measures) specified under this paragraph shall be such measures selected by the Secretary from measures that have been endorsed by the entity with a contractwith the Secretary under section 1395aaa(a) of this title.
 
 #### (ii) Exception
 
@@ -1712,7 +1712,7 @@ In this section:
 
 #### (5) Identification units
 
-&emsp;For purposes of applying this subsection, the Secretary may identify eligible professionals through billing units, which may include the use of the Provider Identification Number, the unique physician identification number (described in section 1395l(q)(1) of this title), thetaxpayer identification number, or the National Provider Identifier. For purposes of applying this subsection for 2007, the Secretary shall use the taxpayer identification number as the billing unit.
+&emsp;For purposes of applying this subsection, the Secretary may identify eligible professionals through billing units, which may include the use of the Provider Identification Number, the unique physician identification number (described in section 1395l(q)(1) of this title), the taxpayer identification number, or the National Provider Identifier. For purposes of applying this subsection for 2007, the Secretary shall use the taxpayer identification number as the billing unit.
 
 #### (6) Education and outreach
 
@@ -1760,7 +1760,7 @@ In this section:
 
 #### (II) 2009
 
-&emsp;&emsp;&emsp;&emsp;The amount available for expenditures during 2009 shall be reduced as provided by subparagraph (B) of such section 225(c)(1).
+&emsp;&emsp;&emsp;&emsp;The amount available for expenditures during 2009 shall be reduced as providedby subparagraph (B) of such section 225(c)(1).
 
 #### (B) Timely obligation of all available funds for services
 
@@ -1880,7 +1880,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;By January 1, 2010, the Secretary shall establish and have in place a process under which eligible professionals in a group practice (as defined by the Secretary) shall be treated as satisfactorily submitting data on quality measures under subparagraph (A) and as meeting the requirement described in subparagraph (B)(ii) for covered professional services for a reporting period (or, for purposes of subsection (a)(5), for a reporting period for a year), or, for purposes of subsection (a)(8), for a quality reporting period for the year if, in lieu of reporting measures under subsection (k)(2)(C), the group practice reports measures determined appropriate by the Secretary, such as measures that target high-cost chronic conditions and preventive care, in a form and manner, and at a time, specified by the Secretary.
+&emsp;&emsp;&emsp;By January 1, 2010, the Secretary shall establish and have in place a process underwhich eligible professionals in a group practice (as defined by the Secretary) shall be treated as satisfactorily submitting data on quality measures under subparagraph (A) and as meeting the requirement described in subparagraph (B)(ii) for covered professional services for a reporting period (or, for purposes of subsection (a)(5), for a reporting period for a year), or, for purposes of subsection (a)(8), for a quality reporting period for the year if, in lieu of reporting measures under subsection (k)(2)(C), the group practice reports measures determined appropriate by the Secretary, such as measures that target high-cost chronic conditions and preventive care, in a form and manner, and at a time, specified by the Secretary.
 
 #### (ii) Statistical sampling model
 
@@ -1990,7 +1990,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) The eligible professionals (or, in the case of reporting under paragraph (3)(C), the group practices) who satisfactorily submitted data on quality measures under this subsection.
 
-&emsp;&emsp;&emsp;(ii) The eligible professionals (or, in the case of reporting under paragraph (3)(C),the group practices) who are successful electronic prescribers.
+&emsp;&emsp;&emsp;(ii) The eligible professionals (or, in the case of reporting under paragraph (3)(C), the group practices) who are successful electronic prescribers.
 
 #### (H) Feedback
 
@@ -2032,7 +2032,7 @@ In this section:
 
 #### (7) Integration of physician quality reporting and EHR reporting
 
-&emsp;Not later than January 1, 2012, the Secretary shall develop a plan to integrate reporting on quality measures under this subsection with reporting requirements under subsection (o) relating to the meaningful use of electronic health records. Such integration shall consist of the following:
+&emsp;Not later than January 1, 2012, the Secretary shall develop a plan to integrate reporting on quality measures under this subsection with reporting requirements under subsection (o)relating to the meaningful use of electronic health records. Such integration shall consist of the following:
 
 &emsp;&emsp;(A) The selection of measures, the reporting of which would both demonstrate—
 
@@ -2118,7 +2118,7 @@ In this section:
 
 #### (ii) Reports on resources
 
-&emsp;&emsp;&emsp;The Secretary shall use claims data under this subchapter (and may use other data) to provide confidential reports to physicians (and, as determined appropriate by the Secretary, to groups of physicians) that measure the resources involved in furnishing care to individuals under this subchapter.
+&emsp;&emsp;&emsp;The Secretary shall use claims data under this subchapter (and may use otherdata) to provide confidential reports to physicians (and, as determined appropriate by the Secretary, to groups of physicians) that measure the resources involved in furnishing care to individuals under this subchapter.
 
 #### (iii) Inclusion of certain information
 
@@ -2356,7 +2356,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary shall select measures for purposes of subparagraph (A)(iii) but only consistent with the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) The Secretary shall provide preference to clinical quality measures that have been endorsed by the entity with a contract with the Secretary under section 1395aaa(a) of this title.
+&emsp;&emsp;&emsp;&emsp;(I) The Secretary shall provide preference to clinical quality measures thathave been endorsed by the entity with a contract with the Secretary under section 1395aaa(a) of this title.
 
 &emsp;&emsp;&emsp;&emsp;(II) Prior to any measure being selected under this subparagraph, the Secretary shall publish in the Federal Register such measure and provide for a period of public comment on such measure.
 
@@ -2502,7 +2502,7 @@ In this section:
 
 #### (5) Systems-based care
 
-&emsp;The Secretary shall, as appropriate, apply the payment modifier established under this subsection in a manner that promotes systems-based care.
+&emsp;The Secretary shall, as appropriate, apply the payment modifier established under thissubsection in a manner that promotes systems-based care.
 
 #### (6) Consideration of special circumstances of certain providers
 
@@ -2644,7 +2644,7 @@ In this section:
 
 #### (II) Other performance categories
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may establish and apply a process that includes features of the provisions of subsection (m)(3)(C) for MIPS eligible professionals in a group practice with respect to assessing the performance of such group with respect to the performance categories described in clauses (ii) through (iv) of such paragraph.
+&emsp;&emsp;&emsp;&emsp;The Secretary may establish and apply a process that includes features of theprovisions of subsection (m)(3)(C) for MIPS eligible professionals in a group practice with respect to assessing the performance of such group with respect to the performance categories described in clauses (ii) through (iv) of such paragraph.
 
 #### (ii) Ensuring comprehensiveness of group practice assessment
 
@@ -2714,7 +2714,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(VI) The subcategory of participation in an alternative payment model (as defined in section 1395l(z)(3)(C) <sup>2</sup> of this title).
 
-&emsp;&emsp;&nbsp;In establishing activities under this clause, the Secretary shall give consideration to the circumstances of small practices (consisting of 15 or fewer professionals) and practices located in rural areas and in health professional shortage areas (as designated under section 254e(a)(1)(A) of this title).
+&emsp;&emsp;&nbsp;In establishing activities under this clause, the Secretary shall give consideration to the circumstances of small practices (consisting of 15 or fewer professionals) and practices located in ruralareas and in health professional shortage areas (as designated under section 254e(a)(1)(A) of this title).
 
 #### (iv) Meaningful EHR use
 
@@ -2784,7 +2784,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Eligible professional organizations and other relevant stakeholders shall be requested to identify and submit quality measures to be considered for selection under this subparagraph in the annual list of quality measures published under clause (i) and to identify and submit updates to the measures on such list. For purposes of the previous sentence, measures may be submitted regardless of whether such measures were previously published in a proposed rule or endorsed by an entity with a contract under section 1395aaa(a) of this title.
+&emsp;&emsp;&emsp;&emsp;Eligible professional organizations and other relevant stakeholders shall be requested to identify and submit quality measures to be considered for selectionunder this subparagraph in the annual list of quality measures published under clause (i) and to identify and submit updates to the measures on such list. For purposes of the previous sentence, measures may be submitted regardless of whether such measures were previously published in a proposed rule or endorsed by an entity with a contract under section 1395aaa(a) of this title.
 
 #### (II) Eligible professional organization defined
 
@@ -2858,7 +2858,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph and taking into account, as available and applicable, paragraph (1)(G), the Secretary shall develop a methodology for assessing the total performance of each MIPS eligible professional according to performance standards under paragraph (3) with respect to applicable measures and activities specified in paragraph (2)(B) with respect to each performance category applicable to such professional for a performance period (as established under paragraph (4)) for a year. Using such methodology, the Secretary shall provide for a composite assessment (using a scoring scale of 0 to 100) for each such professional for the performance period for such year. In this subsection such a composite assessment for such a professional with respect to a performance period shall be referred to as the "composite performance score" for such professional for such performance period.
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph and taking into account, as available and applicable, paragraph (1)(G), the Secretary shall develop a methodology for assessing the total performance of each MIPS eligible professional according to performance standards under paragraph (3) withrespect to applicable measures and activities specified in paragraph (2)(B) with respect to each performance category applicable to such professional for a performance period (as established under paragraph (4)) for a year. Using such methodology, the Secretary shall provide for a composite assessment (using a scoring scale of 0 to 100) for each such professional for the performance period for such year. In this subsection such a composite assessment for such a professional with respect to a performance period shall be referred to as the "composite performance score" for such professional for such performance period.
 
 #### (B) Incentive to report; encouraging use of certified EHR technology for reporting quality measures
 
@@ -2916,7 +2916,7 @@ In this section:
 
 #### (bb) First 2 years
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For the first and second years for which the MIPS applies to payments, the percentage applicable under item (aa) shall be increased in a manner such that the total percentage points of the increase under this item for the respective year equals the total number of percentage points by which the percentage applied under subclause (II)(bb) for the respective year is less than 30 percent.
+&emsp;&emsp;&emsp;&emsp;&emsp;For the first and second years for which the MIPS applies to payments, the percentage applicable under item (aa) shall be increased in a manner such that the total percentage points of the increase under this item for the respective year equals the total number of percentage points by which thepercentage applied under subclause (II)(bb) for the respective year is less than 30 percent.
 
 #### (II) Resource use
 
@@ -2944,7 +2944,7 @@ In this section:
 
 &emsp;&emsp;Under the methodology under subparagraph (A), if there are not sufficient measures and activities (described in paragraph (2)(B)) applicable and available to each type of eligible professional involved, the Secretary shall assign different scoring weights (including a weight of 0)—
 
-&emsp;&emsp;&emsp;(i) which may vary from the scoring weights specified in subparagraph (E), for each performance category based on theextent to which the category is applicable to the type of eligible professional involved; and
+&emsp;&emsp;&emsp;(i) which may vary from the scoring weights specified in subparagraph (E), for each performance category based on the extent to which the category is applicable to the type of eligible professional involved; and
 
 &emsp;&emsp;&emsp;(ii) for each measure and activity specified under paragraph (2)(B) with respect to each such category based on the extent to which the measure or activity is applicable and available to the type of eligible professional involved.
 
@@ -3090,7 +3090,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) In the case that all MIPS eligible professionals receive composite performance scores for a year that are below the performance threshold under subparagraph (D)(i) for such year, the negative MIPS adjustment factors under subparagraph (A) shall apply with respect to such MIPS eligible professionals and the budget neutrality requirement of clause (ii) and the additional adjustment factors under clause (iv) shall not apply for such year.
 
-&emsp;&emsp;&emsp;(II) In the case that, with respect to a year, the application of clause (i) results in a scaling factor equal to the maximum scaling factor specified in clause (i)(II), such scaling factor shall apply and the budget neutrality requirement of clause (ii) shall not apply for such year.
+&emsp;&emsp;&emsp;(II) In the case that, with respect to a year, the application of clause (i) results in a scaling factor equal to the maximum scaling factor specified in clause (i)(II),such scaling factor shall apply and the budget neutrality requirement of clause (ii) shall not apply for such year.
 
 #### (iv) Additional incentive payment adjustments
 
@@ -3270,7 +3270,7 @@ In this section:
 
 #### (F) Solicitation of input
 
-&emsp;&emsp;The Secretary shall seek, through the date that is 120 days after the Secretary posts the list pursuant to subparagraph (E), comments from physician specialty societies, applicable practitioner organizations, and other stakeholders, including representatives of individuals entitled to benefits under part A or enrolled under this part, regarding the care episode and patient condition groups (and codes) posted under subparagraph (E). In seeking such comments, the Secretary shall use one or more mechanisms (other than notice and comment rulemaking) that may include use of open door forums, town hall meetings, or other appropriate mechanisms.
+&emsp;&emsp;The Secretary shall seek, through the date that is 120 days after the Secretary posts thelist pursuant to subparagraph (E), comments from physician specialty societies, applicable practitioner organizations, and other stakeholders, including representatives of individuals entitled to benefits under part A or enrolled under this part, regarding the care episode and patient condition groups (and codes) posted under subparagraph (E). In seeking such comments, the Secretary shall use one or more mechanisms (other than notice and comment rulemaking) that may include use of open door forums, town hall meetings, or other appropriate mechanisms.
 
 #### (G) Operational list of care episode and patient condition groups and codes
 
@@ -3358,7 +3358,7 @@ In this section:
 
 #### (D) Stakeholder input
 
-&emsp;&emsp;The Secretary shall seek comments from the physician specialty societies, applicablepractitioner organizations, and other stakeholders, including representatives of individuals entitled to benefits under part A or enrolled under this part, regarding the resource use methodology established pursuant to this paragraph. In seeking comments the Secretary shall use one or more mechanisms (other than notice and comment rulemaking) that may include open door forums, town hall meetings, web-based forums, or other appropriate mechanisms.
+&emsp;&emsp;The Secretary shall seek comments from the physician specialty societies, applicable practitioner organizations, and other stakeholders, including representatives of individuals entitled to benefits under part A or enrolled under this part, regarding the resource use methodology established pursuant to this paragraph. In seeking comments the Secretary shall use one or more mechanisms (other than notice and comment rulemaking) that may include open door forums, town hall meetings, web-based forums, or other appropriate mechanisms.
 
 #### (6) Implementation
 
@@ -3538,7 +3538,7 @@ In this section:
 
 &emsp;Chapter 35 of title 44 shall not apply to the collection of information for the development of quality measures.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A), (b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356; Pub. L. 109–171, title V, §§5102, 5104(a), 5112(c), Feb. 8, 2006, 120 Stat. 39, 40, 44; Pub. L. 109–432, div. B, title I, §§101(a), (b), (d), 102, Dec. 20, 2006, 120 Stat. 2975, 2980, 2981; Pub. L. 110–90, §6, Sept. 29, 2007, 121 Stat. 985; Pub. L. 110–161, div. G, title II, §225(c)(2), title V, §524, Dec. 26, 2007, 121 Stat. 2190, 2212; Pub. L.110–173, title I, §§101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, 121 Stat. 2493–2495; Pub. L. 110–252, title VII, §7002(c), June 30, 2008, 122 Stat. 2395; Pub. L. 110–275, title I, §§131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, 122 Stat. 2520–2522, 2525–2527, 2529, 2532, 2541, 2546, 2552; Pub. L. 111–5, div. B, title IV, §4101(a), (b), (f), Feb. 17, 2009, 123 Stat. 467, 472, 476; Pub. L. 111–118, div. B, §1011(a), Dec. 19, 2009, 123 Stat. 3473; Pub. L. 111–144, §5, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III, §§3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, §4103(c)(2), title V, §5501(c), title X, §§10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, 124 Stat. 363–366, 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; Pub. L. 111–152, title I, §§1107, 1108, Mar. 30, 2010, 124 Stat. 1050; Pub. L. 111–157, §§4, 5(a)(1), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–192, title I, §101(a), June 25, 2010, 124 Stat. 1280; Pub. L. 111–286, §§2, 3, Nov. 30, 2010, 124 Stat. 3056; Pub. L. 111–309, title I, §§101, 103, Dec. 15, 2010, 124 Stat. 3285, 3287; Pub. L. 112–78, title III, §§301, 303, 309, Dec. 23, 2011, 125 Stat. 1283, 1284, 1286; Pub. L. 112–96, title III, §§3003(a), 3004(a), Feb. 22, 2012, 126 Stat. 186, 187; Pub. L. 112–240, title VI, §§601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, 126 Stat. 2345, 2347, 2355, 2356; Pub. L. 113–67, div. B, title I, §§1101, 1102, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §§101, 102, title II, §§218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, 128 Stat. 1041, 1064, 1070–1074; Pub. L. 113–295, div. B, title II, §202, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title I, §§101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, §201, title V, §523, Apr. 16, 2015, 129 Stat. 89, 91, 92, 115, 123–131, 139, 143, 177; Pub. L. 114–113, div. O, title V, §502(a)(1)–(2)(B), Dec. 18, 2015, 129 Stat. 3018, 3019; Pub. L. 114–115, §§3(a), 4(a), Dec. 28, 2015, 129 Stat. 3132, 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(1), div. C, title XVI, §16003, Dec. 13, 2016, 130 Stat. 1161, 1326.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A), (b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356; Pub. L. 109–171, title V, §§5102, 5104(a), 5112(c), Feb. 8, 2006, 120 Stat. 39, 40, 44; Pub. L. 109–432, div. B, title I, §§101(a), (b), (d), 102, Dec. 20, 2006, 120 Stat. 2975, 2980, 2981; Pub. L. 110–90, §6, Sept. 29, 2007, 121 Stat. 985; Pub. L. 110–161, div. G, title II, §225(c)(2), title V, §524, Dec. 26, 2007, 121 Stat. 2190, 2212; Pub. L. 110–173, title I, §§101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, 121 Stat. 2493–2495; Pub. L. 110–252, title VII, §7002(c), June 30, 2008, 122 Stat. 2395; Pub. L. 110–275, title I, §§131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, 122 Stat. 2520–2522, 2525–2527, 2529, 2532, 2541, 2546, 2552; Pub. L. 111–5, div. B, title IV, §4101(a), (b), (f), Feb. 17, 2009, 123 Stat. 467, 472, 476; Pub. L. 111–118, div. B, §1011(a), Dec. 19, 2009, 123 Stat. 3473; Pub. L. 111–144, §5, Mar. 2, 2010, 124 Stat. 46; Pub. L. 111–148, title III, §§3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, §4103(c)(2), title V, §5501(c), title X, §§10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, 124 Stat. 363–366, 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; Pub. L. 111–152, title I, §§1107, 1108, Mar. 30, 2010, 124 Stat. 1050; Pub. L. 111–157, §§4, 5(a)(1), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–192, title I, §101(a), June 25, 2010, 124 Stat. 1280; Pub. L. 111–286, §§2, 3, Nov. 30, 2010, 124 Stat. 3056; Pub. L. 111–309, title I, §§101, 103, Dec. 15, 2010, 124 Stat. 3285, 3287; Pub. L. 112–78, title III, §§301, 303, 309, Dec. 23, 2011, 125 Stat. 1283, 1284, 1286; Pub. L. 112–96, title III, §§3003(a), 3004(a), Feb. 22, 2012, 126 Stat. 186, 187; Pub. L. 112–240, title VI, §§601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, 126 Stat. 2345, 2347, 2355, 2356; Pub. L. 113–67, div. B, title I, §§1101, 1102, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §§101, 102, title II, §§218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, 128 Stat. 1041, 1064, 1070–1074; Pub. L. 113–295, div. B, title II, §202, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title I, §§101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, §201, title V, §523, Apr. 16, 2015, 129 Stat. 89, 91, 92, 115, 123–131, 139, 143, 177; Pub. L. 114–113, div. O, title V, §502(a)(1)–(2)(B), Dec. 18, 2015, 129 Stat. 3018, 3019; Pub. L. 114–115, §§3(a), 4(a), Dec. 28, 2015, 129 Stat. 3132, 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(1), div. C, title XVI, §16003, Dec. 13, 2016, 130 Stat. 1161, 1326.)
 
 #### References in Text
 
@@ -3554,7 +3554,7 @@ Section 212 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 
 Section 1395l(z) of this title, referred to in subsecs. (d)(1)(A), (q), (r)(1), and (s)(5)(B), probably means the subsec. (z) of section 1395l of this title which relates to alternative payment models and qualifying APM participants and was added by Pub. L. 114–10, title I, §101(e)(2), Apr. 16, 2015, 129 Stat. 117.
 
-The Balanced Budget Act of 1997, referred to in subsec. (d)(1)(C), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. Chapter 1 of subtitle F of title IV of the Act is chapter 1 (§§4501–4513) of subtitle F of title IV of Pub. L. 105–33, which amended this section and sections 1395a, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395yy of this title and enacted provisions set out as notes under this section and sections 1395a, 1395k, 1395l, 1395x, and 1395ww of this title. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (d)(1)(C), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251.Chapter 1 of subtitle F of title IV of the Act is chapter 1 (§§4501–4513) of subtitle F of title IV of Pub. L. 105–33, which amended this section and sections 1395a, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395yy of this title and enacted provisions set out as notes under this section and sections 1395a, 1395k, 1395l, 1395x, and 1395ww of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 225(c)(1) and section 524 of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008, referred to in subsec. (l)(2)(A)(ii)(I), (II), are sections 225(c)(1) of title II and 524 of title V of div. G of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2190, 2212. Section 225(c)(1) is not classified to the Code and section 524 amended this section.
 
@@ -3632,7 +3632,7 @@ Subsec. (n)(11). Pub. L. 114–10, §101(d)(3), added par. (11).
 
 Subsec. (o)(2)(A). Pub. L. 114–10, §101(b)(1)(B)(i), in introductory provisions, substituted "An" for "For purposes of paragraph (1), an" and inserted ", or pursuant to subparagraph (D) for purposes of subsection (q), for a performance period under such subsection for a year" after "under such subsection for a year".
 
-Subsec. (o)(2)(A)(ii). Pub. L. 114–10, §106(b)(2)(A), inserted ", and the professional demonstrates (through a process specified by the Secretary, such as the use of an attestation) that the professional has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology" before period at end.
+Subsec. (o)(2)(A)(ii). Pub. L. 114–10, §106(b)(2)(A), inserted ", and the professional demonstrates (through aprocess specified by the Secretary, such as the use of an attestation) that the professional has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology" before period at end.
 
 Subsec. (o)(2)(A)(iii). Pub. L. 114–10, §101(d)(4), inserted "and subsection (q)(5)(B)(ii)(II)" after "Subject to subparagraph (B)(ii)".
 
@@ -3786,7 +3786,7 @@ Subsec. (c)(2)(B)(v)(VI). Pub. L. 111–148, §3135(b)(2), added subcl. (VI).
 
 Subsec. (c)(2)(B)(v)(VII). Pub. L. 111–286, §3(b), added subcl. (VII).
 
-Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §5501(c), which directed the addition of cl. (vii), was repealed by Pub. L. 111–148, §10501(h). As enacted, text read as follows: "Fifty percent of the additional expenditures under this part attributable to subsections (x) and (y) of section 1395l of this title for a year (as estimated by the Secretary) shall be taken into account in applyingclause (ii)(II) for 2011 and subsequent years. In lieu of applying the budget-neutrality adjustments required under clause (ii)(II) to relative value units to account for such costs for the year, the Secretary shall apply such budget-neutrality adjustments to the conversion factor otherwise determined for the year. For 2011 and subsequent years, the Secretary shall increase the incentive payment otherwise applicable under section 1395l(m) of this title by a percent estimated to be equal to the additional expenditures estimated under the first sentence of this clause for such year that is applicable to physicians who primarily furnish services in areas designated (under section 254e(a)(1)(A) of this title) as health professional shortage areas."
+Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §5501(c), which directed the addition of cl. (vii), was repealed by Pub. L. 111–148, §10501(h). As enacted, text read as follows: "Fifty percent of the additional expenditures under this part attributable to subsections (x) and (y) of section 1395l of this title for a year (as estimated by the Secretary) shall be taken into account in applying clause (ii)(II) for 2011 and subsequent years. In lieu of applying the budget-neutrality adjustments required under clause (ii)(II) to relative value units to account for such costs for the year, the Secretary shall apply such budget-neutrality adjustments to the conversion factor otherwise determined for the year. For 2011 and subsequent years, the Secretary shall increase the incentive payment otherwise applicable under section 1395l(m) of this title by a percent estimated to be equal to the additional expenditures estimated under the first sentence of this clause for such year that is applicable to physicians who primarily furnish services in areas designated (under section 254e(a)(1)(A) of this title) as health professional shortage areas."
 
 Subsec. (c)(2)(K), (L). Pub. L. 111–148, §3134(a), added subpars. (K) and (L).
 
@@ -4230,7 +4230,7 @@ Subsec. (f)(2)(B). Pub. L. 103–66, §13512(a), added cls. (iii) to (v) and str
 
 Subsec. (g)(1). Pub. L. 103–66, §13517(a)(2)(C), (D), inserted ", supplier, or other person" after "such physician" and inserted at end "In applying this subparagraph, any reference in such section to a physician is deemed also to include a reference to a supplier or other person under this subparagraph."
 
-Pub. L. 103–66, §13517(a)(2)(B), which directed insertion of "including services which the Secretary excludes pursuant to subsection (j)(3) of this section,"after "physician's services (", was executed by making the insertion after "physicians' services (" to reflect the probable intent of Congress.
+Pub. L. 103–66, §13517(a)(2)(B), which directed insertion of "including services which the Secretary excludes pursuant to subsection (j)(3) of this section," after "physician's services (", was executed by making the insertion after "physicians' services (" to reflect the probable intent of Congress.
 
 Pub. L. 103–66, §13517(a)(2)(A), inserted "or nonparticipating supplier or other person (as defined in section 1395u(i)(2) of this title)" after "nonparticipating physician".
 
@@ -4362,7 +4362,7 @@ Pub. L. 114–10, title I, §106(b)(2)(C), Apr. 16, 2015, 129 Stat. 140, provide
 
 Pub. L. 111–157, §5(b), Apr. 15, 2010, 124 Stat. 1117, provided that: "The amendments made by subsection (a) \[amending this section and section 1396b of this title\] shall be effective as if included in the enactment of the HITECH Act \[Pub. L. 111–5, div. A, title XIII, div. B, title IV\] (included in the American Recovery and Reinvestment Act of 2009 (Public Law 111–5))."
 
-Pub. L. 111–152, title I, §1108, Mar. 30, 2010, 124 Stat. 1050, provided that the amendment made by section 1108 is effective as if included in the enactment of the Patient Protection and Affordable Care Act (Pub. L. 111–148).
+Pub. L. 111–152, title I, §1108, Mar. 30, 2010, 124 Stat. 1050, provided that the amendment made by section1108 is effective as if included in the enactment of the Patient Protection and Affordable Care Act (Pub. L. 111–148).
 
 Pub. L. 111–148, title III, §3002(c)(2), Mar. 23, 2010, 124 Stat. 365, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply for years after 2010."
 
@@ -4402,7 +4402,7 @@ Amendment by Pub. L. 106–554 applicable with respect to screening mammographie
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–350, provided that: "The amendments made by this section \[amending this section and sections 1395b–6 and 1395l of this title\] shall be effective in determining the conversion factor under section 1848(d) of the Social Security Act (42 U.S.C.1395w–4(d)) for years beginning with 2001 and shall not apply to or affect any update (or any update adjustment factor) for any year before 2001."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–350, provided that: "The amendments made by this section \[amending this section and sections 1395b–6 and 1395l of this title\] shall be effective in determining the conversion factor under section 1848(d) of the Social Security Act (42 U.S.C. 1395w–4(d)) for years beginning with 2001 and shall not apply to or affect any update (or any update adjustment factor) for any year before 2001."
 
 Amendment by section 1000(a)(6) \[title III, §321(k)(5)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
@@ -4470,7 +4470,7 @@ Physician Payment Review Commission (PPRC) was terminated and its assets and sta
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 8 on page 94 identifies a reporting provision which, as subsequently amended, is contained in subsec. (g)(6)(B) of this section and in which item 9 on page 94 identifies a reporting provision which is contained in subsec. (g)(7)(B) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 8 on page 94 identifies a reporting provision which, as subsequently amended, is contained in subsec. (g)(6)(B) of this section and in which item 9 on page 94 identifies a reporting provision which is contained in subsec. (g)(7)(B) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Implementation
 
@@ -4518,7 +4518,7 @@ Establishment of metrics.—Not later than July 1, 2016, and in consultation wit
 
 "(D)
 
-Recommendations if objective not achieved.—If the Secretary of Health and Human Services determines that the objective described in subparagraph (A) has not been achieved by December 31, 2018, then the Secretary shall submit to Congress a report, by not later than December 31, 2019, that identifies barriers to such objective and recommends actions that the Federal Government can take to achieve such objective. Such recommended actions may include recommendations—
+Recommendations if objective not achieved.—If the Secretary of Health and Human Services determines that the objective described in subparagraph (A) has not been achieved by December 31, 2018, then theSecretary shall submit to Congress a report, by not later than December 31, 2019, that identifies barriers to such objective and recommends actions that the Federal Government can take to achieve such objective. Such recommended actions may include recommendations—
 
 &emsp;"(i) to adjust payments for not being meaningful EHR users under the Medicare EHR incentive programs; and
 
@@ -4548,7 +4548,7 @@ Encourage development of new models.—There is great need to test alternatives 
 
 #### Implementation of 2010 Amendment
 
-Pub. L. 111–157, §5(c), Apr. 15, 2010, 124 Stat. 1118, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services mayimplement the amendments made by this section \[amending this section and section 1396b of this title and enacting provisions set out as a note under this section\] by program instruction or otherwise."
+Pub. L. 111–157, §5(c), Apr. 15, 2010, 124 Stat. 1118, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section \[amending this section and section 1396b of this title and enacting provisions set out as a note under this section\] by program instruction or otherwise."
 
 Pub. L. 111–148, title III, §3111(a)(2), Mar. 23, 2010, 124 Stat. 421, provided that: "Notwithstanding any other provision of law, the Secretary may implement the amendments made by paragraph (1) \[amending this section\] by program instruction or otherwise."
 
@@ -4714,7 +4714,7 @@ Study.—The Comptroller General of the United States shall conduct a study of d
 
 "(2)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shallinclude recommendations regarding the use of more current data in computing geographic cost of practice indices as well as the use of data directly representative of physicians' costs (rather than proxy measures of such costs)."
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations regarding the use of more current data in computing geographic cost of practice indices as well as the use of data directly representative of physicians' costs (rather than proxy measures of such costs)."
 
 #### Amendments Not Treated as Change in Law and Regulation in Sustainable Growth Rate Determination
 
@@ -4798,7 +4798,7 @@ Pub. L. 108–173, title IX, §953(a)(2), Dec. 8, 2003, 117 Stat. 2428, provided
 
 #### Treatment of Certain Physician Pathology Services Under Medicare
 
-Pub. L. 106–554, §1(a)(6) \[title V, §542\], Dec. 21, 2000, 114 Stat. 2763, 2763A–550, as amended by Pub. L. 108–173,title VII, §732, Dec. 8, 2003, 117 Stat. 2352; Pub. L. 109–432, div. B, title I, §104, Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–173, title I, §104, Dec. 29, 2007, 121 Stat. 2495; Pub. L. 110–275, title I, §136, July 15, 2008, 122 Stat. 2540; Pub. L. 111–148, title III, §3104, Mar. 23, 2010, 124 Stat. 417; Pub. L. 111–309, title I, §105, Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §305, Dec. 23, 2011, 125 Stat. 1284; Pub. L. 112–96, title III, §3006, Feb. 22, 2012, 126 Stat. 189, provided that:
+Pub. L. 106–554, §1(a)(6) \[title V, §542\], Dec. 21, 2000, 114 Stat. 2763, 2763A–550, as amended by Pub. L. 108–173, title VII, §732, Dec. 8, 2003, 117 Stat. 2352; Pub. L. 109–432, div. B, title I, §104, Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–173, title I, §104, Dec. 29, 2007, 121 Stat. 2495; Pub. L. 110–275, title I, §136, July 15, 2008, 122 Stat. 2540; Pub. L. 111–148, title III, §3104, Mar. 23, 2010, 124 Stat. 417; Pub. L. 111–309, title I, §105, Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §305, Dec. 23, 2011, 125 Stat. 1284; Pub. L. 112–96, title III, §3006, Feb. 22, 2012, 126 Stat. 189, provided that:
 
 "(a)
 
@@ -4954,7 +4954,7 @@ Pub. L. 101–508, title IV, §4117, Nov. 5, 1990, 104 Stat. 1388–65, as amend
 
 #### Studies
 
-Pub. L. 101–239, title VI, §6102(d), Dec. 19, 1989, 103 Stat. 2185, as amended by Pub. L. 103–432, title I, §126(h)(1), Oct. 31, 1994, 108 Stat. 4416; Pub. L. 105–362, title VI, §601(b)(5), Nov. 10, 1998, 112 Stat. 3286, provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of alternative payment methodology for malpractice component for physicians' services, and to submit report to Congress by not later than Apr. 1, 1991; (2) directed Secretary of Health and Human Services to conduct study of how payments under this section may affect payments to eligible organizations with risk-sharing contracts under section 1395mm of this title, and to submit report to Congress by not later than Apr. 1, 1990; (3) directed Secretary to conduct study of volume performance standard rates of increase for services furnished by geography, specialty, and type of service, and to submit report with appropriate recommendations to Congress by not later than July 1, 1990; (4) directed Physician Payment Review Commission to conduct study of payment for practice and malpractice expenses, including appropriate methods for allocating malpractice expenses to particular procedures which could be incorporated into the determination of relative values for such procedures using a consensus panel and other appropriate methodologies, and to submit report and recommendations to Congress by not later than July 1, 1991; (5) directed Physician Payment Review Commission to conduct study of feasibility and desirability of using Metropolitan Statistical Areas or other payment areas for purposes of payment for physicians' services under this part, and to submit report to Congress by not later than July 1, 1991; (6) directed Physician Payment Review Commission to conduct study of payment for non-physician providers of medicare services, including physician assistants, clinical psychologists, nurse midwives, and other health practitioners whose services can be billed under medicare program on a fee-for-service basis, and to submit report to Congress by not later than July 1, 1991; (7) directed Physician Payment Review Commission to conduct study of physician fees under State medicaid programs established under subchapter XIX of this chapter, and to submit report with recommendations to Congress by no later than July 1, 1991; and (8) directed Comptroller General to conduct study of effect of anti-trust laws on ability of physicians to act in groups to educate and discipline peers of such physicians in order to reduce and eliminate ineffective practice patterns and inappropriate utilization, and to submit report to Congress by no later than July 1, 1991.
+Pub. L. 101–239, title VI, §6102(d), Dec. 19, 1989, 103 Stat. 2185, as amended by Pub. L. 103–432, title I, §126(h)(1), Oct. 31, 1994, 108 Stat. 4416; Pub. L. 105–362, title VI, §601(b)(5), Nov. 10, 1998, 112 Stat. 3286, provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of alternative payment methodology for malpractice component for physicians' services, and to submit report to Congress by not later than Apr. 1, 1991; (2) directed Secretary of Health and Human Services to conduct study of how payments under this section may affect payments to eligible organizations with risk-sharing contracts under section 1395mm of this title, and to submit report to Congress by not later than Apr. 1, 1990; (3) directed Secretary to conduct study of volume performance standard rates of increase for services furnished by geography, specialty, and type of service, and to submit report with appropriate recommendations to Congress by not later than July 1, 1990; (4) directed Physician Payment Review Commission to conduct study of payment for practice and malpractice expenses, including appropriate methods for allocating malpractice expenses to particular procedures which could be incorporated into the determination of relative values for such procedures using a consensus panel and other appropriate methodologies, and to submit report and recommendations to Congress by not later than July 1, 1991; (5) directed Physician Payment Review Commission to conduct study of feasibility and desirability of using Metropolitan Statistical Areas or other payment areas for purposes of payment for physicians' services under this part, and to submit report to Congress by not later than July 1, 1991; (6) directed Physician Payment Review Commission to conduct study of payment for non-physician providers of medicare services, including physician assistants, clinical psychologists, nurse midwives, and other health practitioners whose servicescan be billed under medicare program on a fee-for-service basis, and to submit report to Congress by not later than July 1, 1991; (7) directed Physician Payment Review Commission to conduct study of physician fees under State medicaid programs established under subchapter XIX of this chapter, and to submit report with recommendations to Congress by no later than July 1, 1991; and (8) directed Comptroller General to conduct study of effect of anti-trust laws on ability of physicians to act in groups to educate and discipline peers of such physicians in order to reduce and eliminate ineffective practice patterns and inappropriate utilization, and to submit report to Congress by no later than July 1, 1991.
 
 #### Distribution of Model Fee Schedule
 

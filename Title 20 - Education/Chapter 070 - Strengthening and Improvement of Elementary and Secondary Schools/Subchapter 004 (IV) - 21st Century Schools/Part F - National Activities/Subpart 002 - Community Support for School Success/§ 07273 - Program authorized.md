@@ -80,7 +80,7 @@ Continued funding of a grant under this subpart, including a grant extended unde
 
 #### (1) In general
 
-&emsp;From the amounts allocated under subsection (a) for grants to eligible entities, theSecretary shall use not less than 15 percent of such amounts to award grants to eligible entities that propose to carry out the activities described in such subsection in rural areas.
+&emsp;From the amounts allocated under subsection (a) for grants to eligible entities, the Secretary shall use not less than 15 percent of such amounts to award grants to eligible entities that propose to carry out the activities described in such subsection in rural areas.
 
 #### (2) Exception
 

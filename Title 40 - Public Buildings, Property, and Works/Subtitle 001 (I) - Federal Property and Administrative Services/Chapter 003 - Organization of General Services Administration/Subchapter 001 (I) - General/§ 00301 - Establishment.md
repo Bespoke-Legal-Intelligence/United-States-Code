@@ -64,7 +64,7 @@ All functions with respect to the operation, maintenance, and custody of office 
 
 (c) any building which the Administrator of General Services finds to be a part of a group of buildings which are (1) located in the same vicinity, (2) are utilized wholly or predominantly for the special purposes of the agency having custody thereof, and (3) are not generally suitable for the use of other agencies; and
 
-(d) the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by theNational Bureau of Standards, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
+(d) the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by the National Bureau of Standards, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
 
 \[References to National Bureau of Standards deemed to refer to National Institute of Standards and Technology pursuant to section 5115(c) of Pub. L. 100–418, set out as a Change of Name note under 15 U.S.C. 271.\]
 
@@ -102,7 +102,7 @@ The assignment of space in Government-owned buildings outside of Washington is a
 
 This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
-Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
+Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs ofthe Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
 
 In addition, the plan transfers to the General Services Administration the operation, maintenance, and custody of office buildings owned or leased by the Government, including those post-office buildings which are not used predominantly for post-office purposes. This will make it possible to establish a single organization for the operation and maintenance of Government office buildings in principal cities in the field as has proved desirable in the National Capital. Since many post offices are in fact primarily large office buildings, the plan includes in this transfer the post-office buildings which are not used predominantly for post-office purposes. This will relieve the Post Office Department of a considerable expenditure for building operation and maintenance which properly should not be charged against postal revenues.
 
@@ -158,7 +158,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Management Advisory Board
 
-Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept.30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Management Advisory Board were contained in the following prior Executive Orders:
 

@@ -1,6 +1,6 @@
 ### §3070. Army Medical Specialist Corps: organization; Chief
 
-(a) The Army Medical Specialist Corps consists of the Chief of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
+(a) The Army Medical Specialist Corps consists of the Chief of that corps, other officers ingrades prescribed by the Secretary of the Army, and the following sections:
 
 &emsp;(1) The Dietitian Section.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. 
 
 #### Regulations
 
-Pub. L. 102–484, div. A, title V, §505(d), Oct. 23, 1992, 106 Stat. 2404, provided that: "The regulations required to be prescribed by the amendments made by this section \[enacting section 5139 of this title and amending this section and section 8067 of this title\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
+Pub. L. 102–484, div. A, title V, §505(d), Oct. 23, 1992, 106 Stat. 2404, provided that: "The regulations requiredto be prescribed by the amendments made by this section \[enacting section 5139 of this title and amending this section and section 8067 of this title\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Appointment of Assistant Chief
 

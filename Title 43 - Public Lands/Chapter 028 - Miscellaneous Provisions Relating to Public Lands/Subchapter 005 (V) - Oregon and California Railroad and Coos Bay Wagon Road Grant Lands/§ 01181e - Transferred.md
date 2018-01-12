@@ -1,0 +1,6 @@
+### §1181e. Transferred
+
+#### Codification
+
+Section 1181e was editorially reclassified as section 2604 of this title.
+

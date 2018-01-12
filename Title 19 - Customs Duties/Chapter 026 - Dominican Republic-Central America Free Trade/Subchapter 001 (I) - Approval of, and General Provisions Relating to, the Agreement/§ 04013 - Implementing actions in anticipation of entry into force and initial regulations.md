@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) other appropriate officers of the United States Government may issue such regulations,
 
-> &emsp;as may be necessary to ensure that any provision of this chapter, or amendment made by this chapter, that takes effect on the date theAgreement enters into force is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+> &emsp;as may be necessary to ensure that any provision of this chapter, or amendment made by this chapter, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
 
 #### (2) Effective date of certain proclaimed actions
 

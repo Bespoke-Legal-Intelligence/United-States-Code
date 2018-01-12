@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants or cooperative agreements to public organizations, private nonprofit organizations, political subdivisions, consortia of political subdivisions, consortia of States, or Federally recognized Indian tribes or tribal organizations to design early intervention and prevention strategies that will complement the State-sponsored statewide or tribal youth suicide early intervention and prevention strategies developed pursuant to section 290bb–36 of this title.
+The Secretary shall award grants or cooperative agreements to public organizations, private nonprofit organizations, political subdivisions,consortia of political subdivisions, consortia of States, or Federally recognized Indian tribes or tribal organizations to design early intervention and prevention strategies that will complement the State-sponsored statewide or tribal youth suicide early intervention and prevention strategies developed pursuant to section 290bb–36 of this title.
 
 #### (b) Collaboration
 
@@ -128,7 +128,7 @@ Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out ", contract," after "g
 
 Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out ", contracts," after "grants".
 
-Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted "A public organization, private nonprofit organization,political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving" for "A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving" and struck out ", contract," after "grant" in two places.
+Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted "A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving" for "A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving" and struck out ", contract," after "grant" in two places.
 
 Subsec. (h). Pub. L. 108–355, §3(b)(1)(I), struck out ", contracts," after "grants".
 
@@ -208,7 +208,7 @@ Study.—Not later than 1 year after the date of the enactment of this Act \[Oct
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary."
 
-\[For definition of "youth" as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.\]
+\[For definition of "youth" as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of Title 34, Crime Control and Law Enforcement.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

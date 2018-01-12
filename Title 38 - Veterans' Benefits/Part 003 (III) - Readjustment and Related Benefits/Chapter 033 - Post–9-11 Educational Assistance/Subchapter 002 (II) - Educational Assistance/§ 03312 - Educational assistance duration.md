@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number ofmonths of educational assistance under section 3313 equal to 36 months.
+In General.—Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number of months of educational assistance under section 3313 equal to 36 months.
 
 (b)
 
@@ -35,4 +35,8 @@ Description of payment of educational assistance.—Subject to paragraph (3), th
 Period for which payment not charged.—The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B).
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2362.)
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 

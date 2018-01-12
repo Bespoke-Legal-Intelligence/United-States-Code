@@ -1,6 +1,6 @@
 ### §2631. Supplies: preference to United States vessels
 
-(a) Only vessels of the United States or belonging to the United States may be used in thetransportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
+(a) Only vessels of the United States or belonging to the United States may be used in the transportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
 
 (b)(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States).
 
@@ -78,7 +78,7 @@ In general.—The Secretary may prescribe interim regulations as necessary to ca
 
 &emsp;&emsp;"(B)
 
-Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
+Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees onArmed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
 
 &emsp;&emsp;"(C)
 

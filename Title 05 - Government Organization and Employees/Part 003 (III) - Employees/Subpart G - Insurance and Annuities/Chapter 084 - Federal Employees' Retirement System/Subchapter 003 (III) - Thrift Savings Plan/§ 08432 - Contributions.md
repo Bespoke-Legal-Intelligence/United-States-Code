@@ -41,9 +41,11 @@
 
 (D)(i) Except as provided in clause (ii), for purposes of this paragraph, the term "eligible individual" means any individual who, after any regulations under subparagraph (A) first take effect, is appointed, transferred, or reappointed to a position in which that individual becomes eligible to contribute to the Thrift Savings Fund.
 
-(ii) Members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
+(ii) (ii) <sup>1</sup> Except in the case of a full TSP member (as defined in section 8440e(a)), members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
 
-(E) Sections 8351(a)(1), 8440a(a)(1), 8440b(a)(1), 8440c(a)(1), 8440d(a)(1), and 8440e(a)(1) <sup>1</sup> shall be applied in a manner consistent with the purposes of this paragraph.
+(E) Sections 8351(a)(1), 8440a(a)(1), 8440b(a)(1), 8440c(a)(1), 8440d(a)(1), and 8440e(b)(1) shall be applied in a manner consistent with the purposes of this paragraph.
+
+(F) Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay.
 
 (c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
@@ -89,7 +91,7 @@
 
 &emsp;(ii) interest on such amount computed with respect to such service in the manner provided in paragraphs (2) and (3) of section 8334(e) of this title.
 
-(D) The Secretary of the Treasury shall credit to the Thrift Savings Fund, out of any sums inthe Treasury not otherwise appropriated, the amounts determined by the Director to be necessary to carry out this paragraph.
+(D) The Secretary of the Treasury shall credit to the Thrift Savings Fund, out of any sums in the Treasury not otherwise appropriated, the amounts determined by the Director to be necessary to carry out this paragraph.
 
 (d) Notwithstanding any other provision of this section, no contribution may be made under this section for any year to the extent that such contribution, when added to prior contributions for such year, exceeds any limitation under section 415 of the Internal Revenue Code of 1986. However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.
 
@@ -107,9 +109,11 @@
 
 &emsp;&emsp;(ii) a position listed in section 5312, 5313, 5314, 5315, or 5316 of this title or a position placed in level IV or V of the Executive Schedule under section 5317 of this title; or
 
-&emsp;&emsp;(iii) a position in the Executive branch which is excepted from the competitive service by the Office by reason of the confidential and policy-determining character of the position; or
+&emsp;&emsp;(iii) a position in the Executive branch which is excepted from the competitive service by the Office by reason of the confidential and policy-determining character of the position;
 
-&emsp;(B) 3 years of civilian service in the case of an employee who is not serving in a position described in subparagraph (A) at the time of separation.
+&emsp;(B) 3 years of civilian service in the case of an employee who is not serving in a position described in subparagraph (A) at the time of separation; or
+
+&emsp;(C) 2 years of service in the case of a member of the uniformed services.
 
 (3) Contributions made for the benefit of a Member or Congressional employee under subsection (c)(1) and all earnings attributable to such contributions shall be forfeited if the Member or Congressional employee separates from Government employment before completing 2 years of civilian service.
 
@@ -129,7 +133,7 @@
 
 &emsp;&emsp;(ii) would be so eligible but for having either elected to terminate individual contributions to the Thrift Savings Fund within 2 months before commencing military service or separated in order to perform military service.
 
-(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
+(2) The Executive Director shall prescribe regulations to ensure that any employee to whomthis subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
 (j)(1) For the purpose of this subsection—
 
@@ -141,33 +145,13 @@
 
 (3) The Executive Director shall prescribe regulations to carry out this subsection.
 
-(k)(1) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) <sup>2</sup> and making contributions to the Thrift SavingsFund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
+(k)(1) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) <sup>2</sup> and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
 
 (2) Contributions under this subsection are subject to subsection (d).
 
 (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, §102, June 22, 2009, 123 Stat. 1853; Pub. L. 114–92, div. A, title VI, §632(b), (c), Nov. 25, 2015, 129 Stat. 847; Pub. L. 114–328, div. A, title VI, §632, Dec. 23, 2016, 130 Stat. 2162.)
-
-#### Amendment of Subsections (b)(2) and (g)
-
-<i>Pub. L. 114–92, div. A, title VI, §§632(b), (c), 635, Nov. 25, 2015, 129 Stat. 847, 851, as amended by Pub. L. 114–328, div. A, title VI, §632, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(2):</i>
-
-<i>(A) in subparagraph (D)(ii), by striking "Members" and inserting "(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members";</i>
-
-<i>(B) in subparagraph (E), by striking "8440e(a)(1)" and inserting "8440e(b)(1)"; and</i>
-
-<i>(C) by adding at the end the following new subparagraph:</i>
-
-<i>"(F) Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay."; and</i>
-
-<i>(2) in subsection (g)(2), by striking "or" after the semicolon in subparagraph (A)(iii), striking the period at the end of subparagraph (B) and inserting "; or", and adding at the end the following:</i>
-
-&emsp;<i>"(C) 2 years of service in the case of a member of the uniformed services."</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
@@ -181,7 +165,7 @@ The Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. 
 
 #### Amendments
 
-<b>2016</b>—Subsec. (g)(6). Pub. L. 114–328 repealed Pub. L. 114–92, §632(c)(2). See 2015 Amendment note below.
+<b>2016</b>—Subsec. (g)(6). Pub. L. 114–328, §632, repealed Pub. L. 114–92, §632(c)(2). See 2015 Amendment note below.
 
 <b>2015</b>—Subsec. (b)(2)(D)(ii). Pub. L. 114–92, §632(b)(1), substituted "(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members" for "Members".
 
@@ -379,7 +363,7 @@ In general.—Except as provided in paragraph (2), the regulations prescribed un
 
 &emsp;"(2)
 
-Exception.—The regulations prescribed under this section shall, with respect to individuals under subsection (c)(1)(C), be effective as of January 1, 1987."
+Exception.—The regulations prescribed under this section shall, with respect to individuals undersubsection (c)(1)(C), be effective as of January 1, 1987."
 
 #### Contributions to Thrift Savings Fund
 
@@ -393,7 +377,7 @@ Pub. L. 99–509, title VI, §6001(c), Oct. 21, 1986, 100 Stat. 1931, provided t
 
 Pub. L. 99–335, title III, §312, June 6, 1986, 100 Stat. 608, directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "8440e(b)(1)".</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

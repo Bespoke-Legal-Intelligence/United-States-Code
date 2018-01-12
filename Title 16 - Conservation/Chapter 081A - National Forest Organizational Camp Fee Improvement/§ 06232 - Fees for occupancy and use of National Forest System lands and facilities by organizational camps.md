@@ -4,7 +4,7 @@
 
 #### (1) Percentage of land value
 
-&emsp;The Secretary shall charge an annual land use fee for each organizational camp for its occupancy and use of National Forest System lands equal to 5 percent of the product of the following:
+&emsp;The Secretary shall charge an annual land use fee for each organizational camp for its occupancy and use of National Forest Systemlands equal to 5 percent of the product of the following:
 
 &emsp;&emsp;(A) The total number of acres of National Forest System lands authorized for the organizational camp.
 

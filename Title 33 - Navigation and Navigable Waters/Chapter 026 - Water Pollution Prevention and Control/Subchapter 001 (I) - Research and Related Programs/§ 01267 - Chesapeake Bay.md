@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement,on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -140,7 +140,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) Subwatershed planning and restoration
 
-&emsp;A Federal agency that owns or operates a facility (as defined by the Administrator) withinthe Chesapeake Bay watershed shall participate in regional and subwatershed planning and restoration programs.
+&emsp;A Federal agency that owns or operates a facility (as defined by the Administrator) within the Chesapeake Bay watershed shall participate in regional and subwatershed planning and restoration programs.
 
 #### (2) Compliance with agreement
 
@@ -438,7 +438,7 @@ Requirements.—The Administrator shall only select as Independent Evaluator a n
 
 "(c)
 
-Reports.—Not later than 180 days after the date of appointment and once every 2 years thereafter, the Independent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
+Reports.—Not later than 180 days after the date of appointment and once every 2 years thereafter, theIndependent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
 
 #### "SEC. 5. PROHIBITION ON NEW FUNDING.
 
@@ -490,7 +490,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 #### PART 1—Preamble
 
-The Chesapeake Bay is a national treasure constituting the largest estuary in the United States and one of the largest and most biologically productive estuariesin the world. The Federal Government has nationally significant assets in the Chesapeake Bay and its watershed in the form of public lands, facilities, military installations, parks, forests, wildlife refuges, monuments, and museums.
+The Chesapeake Bay is a national treasure constituting the largest estuary in the United States and one of the largest and most biologically productive estuaries in the world. The Federal Government has nationally significant assets in the Chesapeake Bay and its watershed in the form of public lands, facilities, military installations, parks, forests, wildlife refuges, monuments, and museums.
 
 Despite significant efforts by Federal, State, and local governments and other interested parties, water pollution in the Chesapeake Bay prevents the attainment of existing State water quality standards and the "fishable and swimmable" goals of the Clean Water Act. At the current level and scope of pollution control within the Chesapeake Bay's watershed, restoration of the Chesapeake Bay is not expected for many years. The pollutants that are largely responsible for pollution of the Chesapeake Bay are nutrients, in the form of nitrogen and phosphorus, and sediment. These pollutants come from many sources, including sewage treatment plants, city streets, development sites, agricultural operations, and deposition from the air onto the waters of the Chesapeake Bay and the lands of the watershed.
 
@@ -532,7 +532,7 @@ Sec. 203. <i>Strategy for Protecting and Restoring the Chesapeake Bay</i>. The C
 
 The Committee shall review the draft reports submitted by lead agencies under section 202 of this order and, in consultation with relevant State agencies, suggest appropriate revisions to the agency that provided the draft report. It shall then integrate these reports into a coordinated strategy for restoration and protection of the Chesapeake Bay consistent with the requirements of this order. Together with the final reports prepared by the lead agencies, the draft strategy shall be published for public review and comment within 180 days of the date of this order and a final strategy shall be published within 1 year. To the extent practicable and authorized under their existing authorities, agencies may begin implementing core elements of restoration and protection programs and strategies, in consultation with the Committee, as soon as possible and prior to release of a final strategy.
 
-Sec. 204. <i>Collaboration with State Partners</i>. In preparing the reports under section 202 and the strategy under section 203, the lead agencies and the Committee shall consult extensively with the States of Virginia, Maryland, Pennsylvania, West Virginia, New York, and Delaware and the District of Columbia. The goal of this consultation is to ensure that Federal actions to protect and restore the Chesapeake Bay are closely coordinated with actions by State and local agencies in the watershed and that the resources, authorities, and expertise of Federal, State, and local agencies are used as efficiently as possible for the benefit of the ChesapeakeBay's water quality and ecosystem and habitat health and viability.
+Sec. 204. <i>Collaboration with State Partners</i>. In preparing the reports under section 202 and the strategy under section 203, the lead agencies and the Committee shall consult extensively with the States of Virginia, Maryland, Pennsylvania, West Virginia, New York, and Delaware and the District of Columbia. The goal of this consultation is to ensure that Federal actions to protect and restore the Chesapeake Bay are closely coordinated with actions by State and local agencies in the watershed and that the resources, authorities, and expertise of Federal, State, and local agencies are used as efficiently as possible for the benefit of the Chesapeake Bay's water quality and ecosystem and habitat health and viability.
 
 Sec. 205. <i>Annual Action Plan and Progress Report</i>. Beginning in 2010, the Committee shall publish an annual Chesapeake Bay Action Plan (Action Plan) describing how Federal funding proposed in the President's Budget will be used to protect and restore the Chesapeake Bay during the upcoming fiscal year. This plan will be accompanied by an Annual Progress Report reviewing indicators of environmental conditions in the Chesapeake Bay, assessing implementation of the Action Plan during the preceding fiscal year, and recommending steps to improve progress in restoring and protecting the Chesapeake Bay. The Committee shall consult with stakeholders (including relevant State agencies) and members of the public in developing the Action Plan and Annual Progress Report.
 
@@ -568,7 +568,7 @@ Sec. 302. <i>Elements of EPA Reports</i>. The strategies and actions identified 
 
 #### PART 4—Agricultural Practices To Protect the Chesapeake Bay
 
-Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the report required by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentrate the USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
+Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the report required by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentratethe USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
 
 #### PART 5—Reduce Water Pollution From Federal Lands and Facilities
 

@@ -130,7 +130,7 @@ Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted ", including a descripti
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2000 Amendment
 
@@ -188,7 +188,7 @@ Input.—The report shall be developed by the Administrator (or the Administrato
 
 &emsp;"(5)
 
-Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructureof the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;"(6)
 

@@ -2,7 +2,7 @@
 
 (a) There is authorized to be established a nonprofit corporation to be known as the Henry M. Jackson Foundation for the Advancement of Military Medicine (hereinafter in this section referred to as the "Foundation") which shall not for any purpose be an agency or instrumentality of the United States Government. The Foundation shall be subject to the provisions of this section and, to the extent not inconsistent with this section, the Corporations and Associations Articles of the State of Maryland.
 
-(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, and other biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
+(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, andother biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
 
 (c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the "Council") composed of—
 

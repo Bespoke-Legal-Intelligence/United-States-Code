@@ -44,7 +44,7 @@
 
 #### (2) Voluntary recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approvethe plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approve the plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
 
 #### (3) Mandatory recall
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(C) 50 percent of the costs incurred by the registrant during the 1-year period beginning on the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later;
 
-&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning on the 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
+&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning onthe 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
 
 &emsp;&emsp;(E) 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
 
@@ -178,7 +178,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
+&emsp;Not later than 2 years after the effective date of this subsection, the Administratorshall submit to Congress a report describing the results of the study required under paragraph (1).
 
 #### (h) Relationship to Solid Waste Disposal Act
 
@@ -200,7 +200,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

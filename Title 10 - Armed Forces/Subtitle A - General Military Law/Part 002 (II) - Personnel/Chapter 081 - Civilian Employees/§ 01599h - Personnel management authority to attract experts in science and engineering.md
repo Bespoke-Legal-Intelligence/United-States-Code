@@ -30,7 +30,7 @@ Personnel Management Authority.—Under a program under subsection (a), the offi
 
 &emsp;(2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
 
-&emsp;&emsp;(A) in the case of employees appointed pursuant to paragraph (1)(B) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this subparagraph, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under section 5312 of title 5; and
+&emsp;&emsp;(A) in the case of employees appointed pursuant to paragraph (1)(B) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this subparagraph, at rates not in excess of a rate equal to 150 percent ofthe maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under section 5312 of title 5; and
 
 &emsp;&emsp;(B) in the case of any other employee appointed pursuant to paragraph (1), at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5; and
 
@@ -64,5 +64,5 @@ In general.—Any individual employed as of the date of the enactment of this Ac
 
 "(2)
 
-Date of appointment.—For purposes of subsection (c) of section 1599h of title 10, United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of suchemployee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note) (as so in effect)."
+Date of appointment.—For purposes of subsection (c) of section 1599h of title 10, United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note) (as so in effect)."
 

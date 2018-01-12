@@ -86,5 +86,5 @@ Subsec. (g)(2), (3). Pub. L. 106–65, §331(b), added par. (2) and redesignated
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title III, §339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: "Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995."
+Pub. L. 103–337, div. A, title III, §339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: "Section 2553 \[now 2563\] oftitle 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995."
 

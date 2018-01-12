@@ -10,7 +10,7 @@ Section was formerly classified to section 12541 of this title prior to renumber
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–82, §101(e)(1), (2), substituted "Corporation" for "Commission", substituted "or to the Secretary of the Interior" for ", to the Secretary of the Interior, or to the Director of ACTION", struck out"under section 12512 of this title" after "may make grants", and inserted at end "To the extent practicable, the Corporation shall apply the provisions of division C in making grants under this section."
+<b>1993</b>—Pub. L. 103–82, §101(e)(1), (2), substituted "Corporation" for "Commission", substituted "or to the Secretary of the Interior" for ", to the Secretary of the Interior, or to the Director of ACTION", struck out "under section 12512 of this title" after "may make grants", and inserted at end "To the extent practicable, the Corporation shall apply the provisions of division C in making grants under this section."
 
 <b>1992</b>—Pub. L. 102–384 amended section generally. Prior to amendment, section read as follows: "The Commission may make grants under section 12512 of this title to States or local applicants, to the Secretary of Agriculture, to the Secretary of the Interior, or to the Director of ACTION for the creation or expansion of full-time or summer youth corps programs."
 

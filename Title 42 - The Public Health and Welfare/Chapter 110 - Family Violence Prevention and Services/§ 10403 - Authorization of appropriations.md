@@ -28,7 +28,7 @@
 
 #### (D) Grants for State Domestic Violence Coalitions
 
-&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10411 of this title.
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reservedunder subparagraph (A)(i), not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10411 of this title.
 
 #### (E) Administration, evaluation and monitoring
 

@@ -10,7 +10,7 @@ Subject to the provisions of chapter 15 of title 44 and regulations prescribed u
 
 #### (c) Orders of Commission after notice and hearing; type of notice
 
-Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
+Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice tothe parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
 
 #### (d) Good faith compliance with rules and regulations
 
@@ -18,7 +18,7 @@ No provision of this subchapter imposing any liability shall apply to any act do
 
 #### (e) Disclosure rules on private funds
 
-The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection <sup>1</sup> 80b–4(b) of this title and with theCommodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection <sup>1</sup> 80b–4(b) of this title and with the Commodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (g) <sup>2</sup> Standard of conduct
 
@@ -62,7 +62,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i), is act June 6, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 ofthis title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
 
 Subsec. (e). Pub. L. 111–203, §406(2), which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 86–507 inserted "or certified mail" after "registered mai
 
 Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except asotherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
+Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 
 #### Transfer of Functions
 

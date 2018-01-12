@@ -44,7 +44,7 @@
 
 #### (1) Applicability
 
-&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established underarticle 1905, other than those individuals to whom subsection (b) applies.
+&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) applies.
 
 #### (2) Interagency group
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committeesunder subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
+&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) request the interagency group established under paragraph (2)(A) to prepare a list of individuals who are qualified to be added to such candidate list;
 
@@ -174,9 +174,9 @@
 
 &emsp;&emsp;&emsp;(ii) appoint an individual to serve as one of those members of any panel or committee convened under chapter 19 during such 1-year period who, under the terms of the Agreement, are to be appointed solely by the United States Government; or
 
-&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
+&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country,under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
-> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted tothe appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
+> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
 &emsp;&emsp;(B) no individual may—
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) Precise measurements, calibrations, and standards help United States industry and manufacturing concerns compete strongly in world markets.
 
-&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards needed to improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry to transfer important laboratory discoveries into commercial products.
+&emsp;(3) Improvements in manufacturing and product technology depend on fundamental scientific and engineering research to develop (A) the precise and accurate measurement methods and measurement standards neededto improve quality and reliability, and (B) new technological processes by which such improved methods may be used in practice to improve manufacturing and to assist industry to transfer important laboratory discoveries into commercial products.
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 
-&emsp;(7) Such national laboratory also should serve industry, trade associations, State technology programs, labor organizations, professional societies, and educational institutions by disseminating information on new basictechnologies including automated manufacturing processes.
+&emsp;(7) Such national laboratory also should serve industry, trade associations, State technology programs, labor organizations, professional societies, and educational institutions by disseminating information on new basic technologies including automated manufacturing processes.
 
 (b) It is the purpose of this chapter—
 
@@ -68,7 +68,7 @@ Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided tha
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that: "This part \[part I (§§5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 278l, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the 'Technology Competitiveness Act'."
+Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that: "This part \[part I (§§5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703,3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 278l, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the 'Technology Competitiveness Act'."
 
 #### Short Title
 

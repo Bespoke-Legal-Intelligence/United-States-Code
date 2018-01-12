@@ -1,6 +1,6 @@
 ### §5367. Records
 
-The proprietor of a bonded wine cellar or a tax-paid wine bottling house shall keep such records and file such returns, in such form and containing such information, as the Secretary may by regulations provide.
+The proprietor of a bonded wine cellar or a tax-paid wine bottling house shall keep suchrecords and file such returns, in such form and containing such information, as the Secretary may by regulations provide.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

@@ -232,7 +232,7 @@ The National Capital Park and Planning Commission, referred to in subsec. (a)(53
 
 The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, §2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. The name of the Office of National Parks, Buildings, and Reservations was changed to the "National Park Service" by act March 2, 1934, ch. 38, 48 Stat. 389.
 
-The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act, act Aug. 28, 1935, ch. 794, 49 Stat. 946, which is not classified to the Code.
+The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment CompensationAct, act Aug. 28, 1935, ch. 794, 49 Stat. 946, which is not classified to the Code.
 
 #### Amendments
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Investment of National Park Service Trust Funds
 
-Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the UnitedStates to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: <i>Provided</i>, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
 
 #### Trust Funds for Individual Indians
 

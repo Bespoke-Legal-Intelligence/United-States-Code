@@ -96,7 +96,7 @@ In subsection (c)(1), the words "only by a spouse" are substituted for "by a wid
 
 In subsection (c)(2), before subclause (A), the words "or children" and "in an amount" are omitted as surplus.
 
-In subsection (c)(3), before subclause (A), the words "only by a dependent child" are substituted for "no surviving widow but leaves a surviving dependent child or children" to eliminate unnecessary words. In subclause (A), the words "the amount of" are omitted as surplus. The words "a surviving spouse" are substituted for "such widow . . . had she survived" to eliminate unnecessary words.
+In subsection (c)(3), before subclause (A), the words "only by a dependent child" are substituted for "nosurviving widow but leaves a surviving dependent child or children" to eliminate unnecessary words. In subclause (A), the words "the amount of" are omitted as surplus. The words "a surviving spouse" are substituted for "such widow . . . had she survived" to eliminate unnecessary words.
 
 In subsection (d), before clause (1), the words "of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section" are omitted as surplus. In clauses (1) and (2), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words "by him for service . . . service in which his" are omitted as surplus. In subclause (A)(i), the words "member of Congress" are substituted for "Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States" for consistency and to eliminate unnecessary words. The words "his years of service as" and "of the United States" are omitted as surplus.
 

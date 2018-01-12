@@ -126,7 +126,7 @@ Pub. L. 96–499, title IV, §415, Dec. 5, 1980, 94 Stat. 2608, provided that: "
 
 #### Effective Date
 
-Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9, of the Board of Governors, and subsecs. (b) and (c) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9, of the Board of Governors,and subsecs. (b) and (c) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Termination of Reporting Requirements
 

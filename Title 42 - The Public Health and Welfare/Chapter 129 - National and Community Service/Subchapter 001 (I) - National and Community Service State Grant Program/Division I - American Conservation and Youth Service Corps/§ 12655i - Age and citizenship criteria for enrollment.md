@@ -18,7 +18,7 @@ Notwithstanding subsection (a)(1), program agencies may enroll a limited number 
 
 #### (d) Joint projects with senior citizens organizations
 
-Program agencies shall use not more than 2 percent of amounts received under this division to conduct joint projects with senior citizens organizations to enable senior citizens to serve as mentors for youth participants.
+Program agencies shall use not more than 2 percent of amounts received under this divisionto conduct joint projects with senior citizens organizations to enable senior citizens to serve as mentors for youth participants.
 
 #### (e) Construction
 

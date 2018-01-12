@@ -24,7 +24,7 @@ Transactions conducted by a private for-profit or nonprofit entity that is an op
 
 #### (e) Management fee
 
-The Secretary shall provide each operator and (in an appropriate case, as determined by the Secretary) service provider with an equitable and negotiated management fee of not less than 1 percent of the amount of the funding provided under the appropriate agreement specified in section 3197 of this title.
+The Secretary shall provide each operator and (in an appropriate case, as determined by theSecretary) service provider with an equitable and negotiated management fee of not less than 1 percent of the amount of the funding provided under the appropriate agreement specified in section 3197 of this title.
 
 #### (f) Donations
 

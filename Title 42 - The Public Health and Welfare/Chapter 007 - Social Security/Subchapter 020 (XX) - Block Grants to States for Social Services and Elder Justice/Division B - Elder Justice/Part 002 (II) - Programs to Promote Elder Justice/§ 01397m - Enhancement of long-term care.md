@@ -10,7 +10,7 @@
 
 #### (A) Coordination with Secretary of Labor to recruit and train long-term care staff
 
-&emsp;&emsp;The Secretary shall coordinate activities under this subsection with the Secretary of Labor in order to provide incentives for individuals to train for and seek employment providing direct care in long-term care.
+&emsp;&emsp;The Secretary shall coordinate activities under this subsection with the Secretary ofLabor in order to provide incentives for individuals to train for and seek employment providing direct care in long-term care.
 
 #### (B) Career ladders and wage or benefit increases to increase staffing in long-term care
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(iii) the creation of a workplace culture that respects and values caregivers and their needs;
 
-&emsp;&emsp;&emsp;(iv) the promotion of a workplace culture that respects the rights of residents ofan eligible entity or individuals receiving community-based long-term care from an eligible entity and results in improved care for the residents or the individuals; and
+&emsp;&emsp;&emsp;(iv) the promotion of a workplace culture that respects the rights of residents of an eligible entity or individuals receiving community-based long-term care from an eligible entity and results in improved care for the residents or the individuals; and
 
 &emsp;&emsp;&emsp;(v) the establishment of other programs that promote the provision of high quality care, such as a continuing education program that provides additional hours of training, including on-the-job training, for employees who are certified nurse aides.
 
@@ -128,7 +128,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this subsection shall be construed to require a long-term care facility tosubmit clinical data electronically to the Secretary.
+&emsp;&emsp;Nothing in this subsection shall be construed to require a long-term care facility to submit clinical data electronically to the Secretary.
 
 #### (3) Regulations
 

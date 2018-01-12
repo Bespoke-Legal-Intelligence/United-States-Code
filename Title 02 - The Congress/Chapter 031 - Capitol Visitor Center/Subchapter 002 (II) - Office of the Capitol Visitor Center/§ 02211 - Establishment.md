@@ -1,6 +1,6 @@
 ### §2211. Establishment
 
-There is established within the Office of the Architect of the Capitol the Office of the Capitol Visitor Center (in this chapter referred to as the "Office"), to be headed by the Chief Executive Officer for Visitor Services (in this chapter referred to as the "Chief Executive Officer").
+There is established within the Office of the Architect of the Capitol the Office of the CapitolVisitor Center (in this chapter referred to as the "Office"), to be headed by the Chief Executive Officer for Visitor Services (in this chapter referred to as the "Chief Executive Officer").
 
 (Pub. L. 110–437, title II, §201, Oct. 20, 2008, 122 Stat. 4986.)
 

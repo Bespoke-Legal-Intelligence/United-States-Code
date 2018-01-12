@@ -38,7 +38,7 @@
 
 &emsp;(B) not later than 7 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
 
-(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
+(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to bean abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner; or
 
@@ -94,7 +94,7 @@ The trustee is responsible to furnish such information concerning the estate and
 
 Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(11), is classified to section 1002 of Title 29, Labor.
 
-Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections664 and 666, respectively, of Title 42, The Public Health and Welfare.
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

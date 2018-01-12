@@ -18,7 +18,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(7) prepare, publish, and disseminate educational materials dealing with the health and economic welfare of older individuals;
 
-&emsp;(8) gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, andinstrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
+&emsp;(8) gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
 
 &emsp;(9) develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under authority of this chapter;
 
@@ -82,9 +82,9 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(B) make available to the Center not less than the amount of resources made available to the Long-Term Care Ombudsman National Resource Center for fiscal year 2000;
 
-&emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
+&emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interestand to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
 
-&emsp;(20)(A) encourage, and provide technical assistance to, States, area agencies on aging, and service providers to carry out outreach and benefits enrollment assistance to informand enroll older individuals with greatest economic need, who may be eligible to participate, but who are not participating, in Federal and State programs providing benefits for which the individuals are eligible, including—
+&emsp;(20)(A) encourage, and provide technical assistance to, States, area agencies on aging, and service providers to carry out outreach and benefits enrollment assistance to inform and enroll older individuals with greatest economic need, who may be eligible to participate, but who are not participating, in Federal and State programs providing benefits for which the individuals are eligible, including—
 
 &emsp;&emsp;(i) supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or assistance under a State plan program under such title;
 
@@ -146,7 +146,7 @@ It shall be the duty and function of the Administration to—
 
 #### (b) Development and implementation of comprehensive, coordinated systems for long-term care
 
-To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in homeand community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
+To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
 
 &emsp;(1) collaborate, coordinate, and consult with other Federal entities responsible for formulating and implementing programs, benefits, and services related to providing long-term care, and may make grants, contracts, and cooperative agreements with funds received from other Federal entities;
 
@@ -198,7 +198,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(D) to help individuals to respond to or plan ahead for their long-term care needs;
 
-&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 etseq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
 
 &emsp;&emsp;(F) to provide information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community;
 
@@ -264,7 +264,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -326,9 +326,9 @@ The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12)
 
 The National Housing Act, referred to in subsec. (a)(12)(B)(iii), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31,1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec.\(b)(8)(E), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(8)(E), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
 
 #### Codification
 
@@ -600,5 +600,5 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Deadline for Development of Data Collection Procedures
 
-Pub. L. 102–375, title II, §202(h), Sept. 30, 1992, 106 Stat. 1210, provided that, not later than 1 year afterSept. 30, 1992, the data collection procedures required by section 3012(a)(29) of this title would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
+Pub. L. 102–375, title II, §202(h), Sept. 30, 1992, 106 Stat. 1210, provided that, not later than 1 year after Sept. 30, 1992, the data collection procedures required by section 3012(a)(29) of this title would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
 

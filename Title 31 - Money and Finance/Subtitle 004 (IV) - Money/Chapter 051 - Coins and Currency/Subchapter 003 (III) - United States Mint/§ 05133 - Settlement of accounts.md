@@ -88,7 +88,7 @@ R.S. §3543.
 
 R.S. §3549; restated Mar. 4, 1911, ch. 268, §2, 36 Stat. 1354.
 
-In the section, the word "Secretary" is substituted for "superintendent" and "Director of the Mint" in 31:354, 356, 365, and the word "Superintendent" is substituted for "superintendent of coining department" in 31:354 and 355 and "superintendent of melting and refining", because of the source provisions restated in section 321(c) of the revised title.
+In the section, the word "Secretary" is substituted for "superintendent" and "Director of the Mint" in 31:354, 356, 365, and the word "Superintendent" is substituted for "superintendent of coining department" in31:354 and 355 and "superintendent of melting and refining", because of the source provisions restated in section 321(c) of the revised title.
 
 In subsection (a), the words "superintendent of each mint and the assay office at New York and the officer in charge of the assay office at San Francisco" are added because of the source provisions restated in section 5131(b) and (c) of the revised title.
 

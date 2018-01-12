@@ -50,7 +50,7 @@
 
 &emsp;(1) the number of positions, in the aggregate and by agency, for which higher rates of pay were authorized or paid under this section during any part of the period covered by such report; and
 
-&emsp;(2) the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
+&emsp;(2) the name of each employee to whom a higher rate of pay was paid under this sectionduring any portion of the period covered by such report, the rate on <sup>1</sup> rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
 
 (i)(1) For the purpose of this subsection, the term "position" means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
 
@@ -91,4 +91,6 @@ Section effective on such date as the President shall determine, but not earlier
 #### Delegation of Functions
 
 Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under section 4505a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 

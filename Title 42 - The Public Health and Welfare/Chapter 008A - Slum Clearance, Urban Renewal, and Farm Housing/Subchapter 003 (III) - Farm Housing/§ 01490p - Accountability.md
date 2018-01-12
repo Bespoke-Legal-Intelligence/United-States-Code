@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
-&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspectionfor a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -58,7 +58,7 @@ During the period when an application is pending or assistance is being provided
 
 &emsp;If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b), (c), or (d) this <sup>1</sup> section has occurred, the Secretary shall—
 
-&emsp;&emsp;(A) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
+&emsp;&emsp;(A) in the case of a selection that has not been made, determine whether to terminatethe selection process or take other appropriate actions; and
 
 &emsp;&emsp;(B) in the case of a selection that has been made, determine whether to—
 

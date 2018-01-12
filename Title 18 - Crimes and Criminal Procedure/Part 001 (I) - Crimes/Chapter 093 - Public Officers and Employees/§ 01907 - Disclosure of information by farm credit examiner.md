@@ -10,7 +10,7 @@ Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking 
 
 Section 983 of title 12, U.S.C., 1940 ed., Banks and Banking, does not include the term "farm credit examiner," as used in this section, but it relates thereto as is indicated by sections 951 and 952 of said title.
 
-Section 1124 of title 12, U.S.C., 1940 ed., Banks and Banking, which was taken from a chapter in that titledealing with Federal intermediate credit banks, also relates to farm credit examiners as is indicated by section 1093 thereof. Even so, it was deemed advisable to retain the reference to any examiner "public or private," as used in said section 1124.
+Section 1124 of title 12, U.S.C., 1940 ed., Banks and Banking, which was taken from a chapter in that title dealing with Federal intermediate credit banks, also relates to farm credit examiners as is indicated by section 1093 thereof. Even so, it was deemed advisable to retain the reference to any examiner "public or private," as used in said section 1124.
 
 For clarification, the types of associations, banks, and organizations to which section relates, were enumerated wherever referred to, and words "examined by him under the provisions of law relating to Federal intermediate credit banks" were inserted.
 

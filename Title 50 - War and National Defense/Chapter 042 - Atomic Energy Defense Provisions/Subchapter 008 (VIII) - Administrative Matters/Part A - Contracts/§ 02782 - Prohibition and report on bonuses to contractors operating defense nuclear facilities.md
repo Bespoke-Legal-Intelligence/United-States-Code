@@ -16,7 +16,7 @@ Section was formerly classified to section 7256b of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Subsecs. (b), (c). Pub. L. 113–66 redesignated subsec. (c) as (b) and struck out former subsec. (b)which defined "Department of Energy defense nuclear facility".
+<b>2013</b>—Subsecs. (b), (c). Pub. L. 113–66 redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined "Department of Energy defense nuclear facility".
 
 Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to a report on Rocky Flats bonuses.
 

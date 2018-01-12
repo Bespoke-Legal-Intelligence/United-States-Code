@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (2) Aggregation rule
 
-&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
+&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
 
 #### (3) Partnership, S corporation, and other pass-thru entities
 

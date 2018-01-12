@@ -10,7 +10,7 @@ Each right-of-way or permit granted, issued, or renewed pursuant to this section
 
 #### (c) Applicability of regulations or stipulations
 
-Rights-of-way shall be granted, issued, or renewed pursuant to this subchapter under suchregulations or stipulations, consistent with the provisions of this subchapter or any other applicable law, and shall also be subject to such terms and conditions as the Secretary concerned may prescribe regarding extent, duration, survey, location, construction, maintenance, transfer or assignment, and termination.
+Rights-of-way shall be granted, issued, or renewed pursuant to this subchapter under such regulations or stipulations, consistent with the provisions of this subchapter or any other applicable law, and shall also be subject to such terms and conditions as the Secretary concerned may prescribe regarding extent, duration, survey, location, construction, maintenance, transfer or assignment, and termination.
 
 #### (d) Submission of plan of construction, operation, and rehabilitation by new project applicants; plan requirements
 
@@ -18,7 +18,7 @@ The Secretary concerned prior to granting or issuing a right-of-way pursuant to 
 
 #### (e) Regulatory requirements for terms and conditions; revision and applicability of regulations
 
-The Secretary concerned shall issue regulations with respect to the terms and conditions that will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
+The Secretary concerned shall issue regulations with respect to the terms and conditionsthat will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
 
 #### (f) Removal or use of mineral and vegetative materials
 
@@ -36,7 +36,7 @@ The holder of a right-of-way shall pay in advance the fair market value thereof,
 
 #### (i) Bond or security requirements
 
-Where he deems it appropriate, the Secretary concerned may require a holder of a right-of-way to furnish a bond, or other security, satisfactory to him to secure all or any of the obligations imposed by the terms and conditions ofthe right-of-way or by any rule or regulation of the Secretary concerned.
+Where he deems it appropriate, the Secretary concerned may require a holder of a right-of-way to furnish a bond, or other security, satisfactory to him to secure all or any of the obligations imposed by the terms and conditions of the right-of-way or by any rule or regulation of the Secretary concerned.
 
 #### (j) Criteria for grant, issue, or renewal of right-of-way
 
@@ -50,7 +50,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted "eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act," for "financed pursuant to the Rural Electrification Act of 1936, as amended,".
+<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted "eligible for financing pursuant to the Rural Electrification Actof 1936, as amended, determined without regard to any application requirement under that Act," for "financed pursuant to the Rural Electrification Act of 1936, as amended,".
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end "or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title".
 

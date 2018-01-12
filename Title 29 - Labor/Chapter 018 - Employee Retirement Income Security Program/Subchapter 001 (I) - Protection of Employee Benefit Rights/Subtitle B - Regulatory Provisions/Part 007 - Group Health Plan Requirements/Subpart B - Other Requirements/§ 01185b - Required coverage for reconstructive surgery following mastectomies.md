@@ -40,7 +40,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed to preempt any State law in effect on October 21,1998, with respect to health insurance coverage that requires coverage of at least the coverage of reconstructive breast surgery otherwise required under this section.
+&emsp;Nothing in this section shall be construed to preempt any State law in effect on October 21, 1998, with respect to health insurance coverage that requires coverage of at least the coverage of reconstructive breast surgery otherwise required under this section.
 
 #### (2) ERISA
 

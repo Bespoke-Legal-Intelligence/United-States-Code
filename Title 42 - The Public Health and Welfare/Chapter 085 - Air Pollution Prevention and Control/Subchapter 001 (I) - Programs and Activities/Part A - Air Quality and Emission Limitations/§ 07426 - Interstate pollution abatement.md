@@ -22,13 +22,13 @@ Any State or political subdivision may petition the Administrator for a finding 
 
 Notwithstanding any permit which may have been granted by the State in which the source is located (or intends to locate), it shall be a violation of this section and the applicable implementation plan in such State—
 
-&emsp;(1) for any major proposed new (or modified) source with respect to which a finding has been made under subsection (b) of this section to be constructed or to operate in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section, or
+&emsp;(1) for any major proposed new (or modified) source with respect to which a finding has been made under subsection (b) to be constructed or to operate in violation of the prohibition of section 7410(a)(2)(D)(ii) of this title or this section, or
 
 &emsp;(2) for any major existing source to operate more than three months after such finding has been made with respect to it.
 
 > The Administrator may permit the continued operation of a source referred to in paragraph (2) beyond the expiration of such three-month period if such source complies with such emission limitations and compliance schedules (containing increments of progress) as may be provided by the Administrator to bring about compliance with the requirements contained in section 7410(a)(2)(D)(ii) of this title or this section as expeditiously as practicable, but in no case later than three years after the date of such finding. Nothing in the preceding sentence shall be construed to preclude any such source from being eligible for an enforcement order under section 7413(d) <sup>1</sup> of this title after the expiration of such period during which the Administrator has permitted continuous operation.
 
-(July 14, 1955, ch. 360, title I, §126, as added Pub. L. 95–95, title I, §123, Aug. 7, 1977, 91 Stat. 724; amended Pub. L. 95–190, §14(a)(39), Nov. 16, 1977,91 Stat. 1401; Pub. L. 101–549, title I, §109(a), Nov. 15, 1990, 104 Stat. 2469.)
+(July 14, 1955, ch. 360, title I, §126, as added Pub. L. 95–95, title I, §123, Aug. 7, 1977, 91 Stat. 724; amended Pub. L. 95–190, §14(a)(39), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title I, §109(a), Nov. 15, 1990, 104 Stat. 2469.)
 
 #### References in Text
 

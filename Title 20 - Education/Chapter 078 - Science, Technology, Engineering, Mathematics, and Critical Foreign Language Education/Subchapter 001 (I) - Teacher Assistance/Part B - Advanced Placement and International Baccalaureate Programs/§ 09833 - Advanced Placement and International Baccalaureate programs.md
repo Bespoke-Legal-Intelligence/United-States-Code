@@ -126,7 +126,7 @@ Grant funds provided under this section shall be used to supplement, not supplan
 
 &emsp;&emsp;(B) the number of students taking Advanced Placement or International Baccalaureate examinations in mathematics, science, or a critical foreign language, and the distribution of scores on those examinations by the grade the student is enrolled in at the time of the examination;
 
-&emsp;&emsp;(C) the number of teachers receiving training in teaching Advanced Placement or International Baccalaureate courses in mathematics, science, or a critical foreign language who will be teaching such courses in the next school year;
+&emsp;&emsp;(C) the number of teachers receiving training in teaching Advanced Placement or International Baccalaureate courses inmathematics, science, or a critical foreign language who will be teaching such courses in the next school year;
 
 &emsp;&emsp;(D) the number of teachers becoming qualified to teach Advanced Placement or International Baccalaureate courses in mathematics, science, or a critical foreign language; and
 

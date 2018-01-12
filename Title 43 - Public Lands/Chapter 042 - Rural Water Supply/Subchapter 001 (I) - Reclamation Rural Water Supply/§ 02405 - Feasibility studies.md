@@ -160,7 +160,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Form
 
-&emsp;The non-Federal share under paragraph (1) may be in the form of any in-kind servicesthat the Secretary determines would contribute substantially toward the conduct and completion of the study.
+&emsp;The non-Federal share under paragraph (1) may be in the form of any in-kind services that the Secretary determines would contribute substantially toward the conduct and completion of the study.
 
 #### (3) Financial hardship
 

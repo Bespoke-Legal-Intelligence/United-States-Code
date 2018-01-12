@@ -98,7 +98,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days afterApr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 

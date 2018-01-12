@@ -46,13 +46,13 @@ For purposes of this section—
 
 #### (2) Civilian employees
 
-&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
+&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. Forpurposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
 
 #### (3) Period of conflict
 
 &emsp;For purposes of this subsection, the Vietnam conflict began February 28, 1961, and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1,Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–328, div. A, title VI, §618(k), Dec. 23, 2016, 130 Stat. 2161.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1, Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–328, div. A, title VI, §618(k), Dec. 23, 2016, 130 Stat. 2161.)
 
 #### Amendments
 
@@ -106,6 +106,66 @@ Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: "The am
 
 Pub. L. 89–739, §2, Nov. 2, 1966, 80 Stat. 1165, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date."
 
+#### Treatment of Certain Individuals Performing Services in the Sinai Peninsula of Egypt
+
+Pub. L. 115–97, title I, §11026, Dec. 22, 2017, 131 Stat. 2076, provided that:
+
+"(a)
+
+In General.—For purposes of the following provisions of the Internal Revenue Code of 1986, with respect to the applicable period, a qualified hazardous duty area shall be treated in the same manner as if it were a combat zone (as determined under section 112 of such Code):
+
+&emsp;"(1) Section 2(a)(3) (relating to special rule where deceased spouse was in missing status).
+
+&emsp;"(2) Section 112 (relating to the exclusion of certain combat pay of members of the Armed Forces).
+
+&emsp;"(3) Section 692 (relating to income taxes of members of Armed Forces on death).
+
+&emsp;"(4) Section 2201 (relating to members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.).
+
+&emsp;"(5) Section 3401(a)(1) (defining wages relating to combat pay for members of the Armed Forces).
+
+&emsp;"(6) Section 4253(d) (relating to the taxation of phone service originating from a combat zone from members of the Armed Forces).
+
+&emsp;"(7) Section 6013(f)(1) (relating to joint return where individual is in missing status).
+
+&emsp;"(8) Section 7508 (relating to time for performing certain acts postponed by reason of service in combat zone).
+
+"(b)
+
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means the Sinai Peninsula of Egypt, if as of the date of the enactment of this section \[Dec. 22, 2017\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger), for services performedin such location. Such term includes such location only during the period such entitlement is in effect.
+
+"(c)
+
+Applicable Period.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the applicable period is—
+
+&emsp;&emsp;"(A) the portion of the first taxable year ending after June 9, 2015, which begins on such date, and
+
+&emsp;&emsp;"(B) any subsequent taxable year beginning before January 1, 2026.
+
+&emsp;"(2)
+
+Withholding.—In the case of subsection (a)(5), the applicable period is—
+
+&emsp;&emsp;"(A) the portion of the first taxable year ending after the date of the enactment of this Act \[Dec. 22, 2017\] which begins on such date, and
+
+&emsp;&emsp;"(B) any subsequent taxable year beginning before January 1, 2026.
+
+"(d)
+
+Effective Date.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the provisions of this section shall take effect on June 9, 2015.
+
+&emsp;"(2)
+
+Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date of the enactment of this Act."
+
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
@@ -140,7 +200,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means any area of the Federal Republic of Yugoslavia\(Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means any area of the Federal Republic of Yugoslavia (Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
 
 "(c)
 

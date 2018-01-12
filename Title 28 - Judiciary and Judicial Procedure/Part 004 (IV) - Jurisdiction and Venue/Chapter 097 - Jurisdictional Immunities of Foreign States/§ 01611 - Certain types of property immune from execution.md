@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch.652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, referred to in subsec. (c), is section 302 of Pub. L. 104–114, which amended this section and enacted section 6082 of Title 22, Foreign Relations and Intercourse.
 
@@ -29,4 +29,8 @@ Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 199
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–114 effective Aug. 1, 1996, or date determined pursuant to suspension authority of President under section 6085(b) or (c) of Title 22, Foreign Relations and Intercourse, see section 6085 of Title 22.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 

@@ -26,7 +26,7 @@ Pub. L. 87–293, title I, §28, formerly §27, Sept. 22, 1961, 75 Stat. 625, as
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: "This Act \[enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the 'Kate Puzey Peace Corps Volunteer Protection Act of 2011'."
+Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: "This Act \[enacting sections 2507a to 2507i of thistitle, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the 'Kate Puzey Peace Corps Volunteer Protection Act of 2011'."
 
 #### Short Title of 1978 Amendment
 
@@ -160,7 +160,7 @@ General Provisions
 
 1–701. Except to the extent that they may be inconsistent with this Order, all determinations, authorizations, regulations, rulings, certifications, orders, directives, contracts, agreements, and other actions made, issued or entered into with respect to any function affected by this Order and not revoked, superseded, or otherwise made inapplicable before the effective date of this Order shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Government or the head thereof, or any function vested by law in orassigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
+1–702. Except as otherwise expressly provided herein, nothing in this Order shall be construed as subjecting any department, establishment, or other instrumentality of the Executive Branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other agency or head or as abrogating, modifying, or restricting any such function in any manner.
 
 1–703. So much of the personnel, property, records, and unexpended balances or appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions assigned to the Director of the Peace Corps or to the Director of ACTION by this Order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Director of the Peace Corps or the Director of ACTION at such time or times as the Director of the Office of Management and Budget shall direct.
 

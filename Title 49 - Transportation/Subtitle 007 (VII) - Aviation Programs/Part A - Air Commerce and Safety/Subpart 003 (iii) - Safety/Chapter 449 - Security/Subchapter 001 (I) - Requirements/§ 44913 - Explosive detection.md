@@ -82,7 +82,7 @@ Plan and Guidelines.—The Assistant Secretary of Homeland Security (Transportat
 
 "(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purposeof research and development of improved explosive detection systems for aviation security under section 44913 of title 49, United States Code."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purpose of research and development of improved explosive detection systems for aviation security under section 44913 of title 49, United States Code."
 
 #### Weapons and Explosive Detection Study
 

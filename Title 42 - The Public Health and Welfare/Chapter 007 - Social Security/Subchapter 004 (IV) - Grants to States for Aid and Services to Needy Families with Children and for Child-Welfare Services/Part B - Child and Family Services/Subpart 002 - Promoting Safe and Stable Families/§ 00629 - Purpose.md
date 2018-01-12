@@ -1,6 +1,6 @@
 ### §629. Purpose
 
-The purpose of this program is to enable States to develop and establish, or expand, andto operate coordinated programs of community-based family support services, family preservation services, time-limited family reunification services, and adoption promotion and support services to accomplish the following objectives:
+The purpose of this program is to enable States to develop and establish, or expand, and to operate coordinated programs of community-based family support services, family preservation services, time-limited family reunification services, and adoption promotion and support services to accomplish the following objectives:
 
 &emsp;(1) To prevent child maltreatment among families at risk through the provision of supportive family services.
 
@@ -26,7 +26,7 @@ A prior section 430 of act Aug. 14, 1935, was classified to section 630 of this 
 
 <b>2002</b>—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings and purpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–89, §305(b)(3)(A), substituted ", community-based family support services, time-limited family reunification services, and adoption promotion and support services" for "and community-based family support services".
+<b>1997</b>—Subsec. (a). Pub. L. 105–89, §305(b)(3)(A), substituted ", community-based family support services,time-limited family reunification services, and adoption promotion and support services" for "and community-based family support services".
 
 Subsec. (b)(6) to (8). Pub. L. 105–89, §305(a)(1), added pars. (6) to (8).
 

@@ -104,7 +104,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(ii) a revised schedule of basic-benefit premiums sufficient to support the existing basic-benefit guarantees.
 
-(B) The revised schedules referred to in subparagraph (A)(i) or subparagraph (A)(ii) shall go into effect as approved by the enactment of a joint resolution.
+(B) The revised schedules referred to in subparagraph (A)(i) or subparagraph (A)(ii) shall gointo effect as approved by the enactment of a joint resolution.
 
 (4)(A) The succeeding subparagraphs of this paragraph are enacted by the Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of joint resolutions (as defined in subparagraph (B)). Such subparagraphs shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any rule of that House.
 
@@ -144,7 +144,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 #### (h) Applicability to nonforfeitable benefits accrued as of July 30, 1980; manner and extent of guarantee
 
-(1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
+(1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respectto the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
 &emsp;(1) who is in pay status on July 29, 1980, or
 

@@ -16,7 +16,7 @@
 
 #### (2) Administration by contract
 
-&emsp;Except as otherwise specifically provided, the Secretary may administer the programunder this section in accordance with section 1395cc–2 of this title.
+&emsp;Except as otherwise specifically provided, the Secretary may administer the program under this section in accordance with section 1395cc–2 of this title.
 
 #### (3) Definitions
 
@@ -68,7 +68,7 @@
 
 &emsp;The Secretary shall establish for each health care group participating in a demonstration under this section—
 
-&emsp;&emsp;(A) a base expenditure amount, equal to the average total payments under parts A and B for patients served by the health care group on a fee-for-service basis in a base period determined by the Secretary; and
+&emsp;&emsp;(A) a base expenditure amount, equal to the average total payments under parts Aand B for patients served by the health care group on a fee-for-service basis in a base period determined by the Secretary; and
 
 &emsp;&emsp;(B) an annual per capita expenditure target for patients determined to be within the scope of the demonstration, reflecting the base expenditure amount adjusted for risk and expected growth rates.
 
@@ -88,5 +88,5 @@
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: "Not laterthan 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[42 U.S.C. 1395cc–1\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate."
+Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: "Not later than 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[42 U.S.C. 1395cc–1\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate."
 

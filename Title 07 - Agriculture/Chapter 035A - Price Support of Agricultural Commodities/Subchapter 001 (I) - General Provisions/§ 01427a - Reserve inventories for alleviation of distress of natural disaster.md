@@ -8,7 +8,7 @@ Such reserve inventories may include such quantities of grain that the Secretary
 
 #### (b) Acquisition of commodities through price support program
 
-The Secretary may acquire such commodities through the price support program. However, ifthe Secretary determines that no wheat, feed grains, or soybeans are available through the price support program at locations where they may be economically utilized to alleviate distress caused by a natural disaster, the Secretary is authorized to purchase through the facilities of the Commodity Credit Corporation such wheat, feed grains, soybeans, hay, or other livestock forages as the Secretary deems necessary for disposition in accordance with the authority provided in subsection (d) of this section. The Secretary may acquire wheat, feed grains, soybeans, hay, or other livestock forages at such locations, at such times, and in such quantities as the Secretary finds necessary and appropriate and may pay such transportation and other costs as may be required to permit disposition of such wheat, feed grains, soybeans, hay, and other livestock forages under subsection (d) of this section.
+The Secretary may acquire such commodities through the price support program. However, if the Secretary determines that no wheat, feed grains, or soybeans are available through the price support program at locations where they may be economically utilized to alleviate distress caused by a natural disaster, the Secretary is authorized to purchase through the facilities of the Commodity Credit Corporation such wheat, feed grains, soybeans, hay, or other livestock forages as the Secretary deems necessary for disposition in accordance with the authority provided in subsection (d) of this section. The Secretary may acquire wheat, feed grains, soybeans, hay, or other livestock forages at such locations, at such times, and in such quantities as the Secretary finds necessary and appropriate and may pay such transportation and other costs as may be required to permit disposition of such wheat, feed grains, soybeans, hay, and other livestock forages under subsection (d) of this section.
 
 #### (c) Prerequisites for sale or disposition of commodities in reserve
 
@@ -24,7 +24,7 @@ The Secretary may sell at an equivalent price, allowing for the customary locati
 
 #### (f) Utilization of Commodity Credit Corporation and usual and customary channels, etc., of trade and commerce
 
-The Secretary may use the Commodity Credit Corporation to the extent feasible to fulfill the purposes of this section; and to the maximum extent practicable consistent with the fulfillment of the purposes of this section and the effective and efficient administration of this section shall utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
+The Secretary may use the Commodity Credit Corporation to the extent feasible to fulfill thepurposes of this section; and to the maximum extent practicable consistent with the fulfillment of the purposes of this section and the effective and efficient administration of this section shall utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
 
 #### (g) Rules and regulations
 

@@ -1,6 +1,10 @@
 ### §3511. Duration of educational assistance
 
-(a)(1) Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title, shall be entitled to educational assistance under this chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training).
+(a)(1) Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title, shall be entitled to educational assistance under this chapter—
+
+&emsp;(A) in the case of a person who first enrolls in a program of education using such entitlement before August 1, 2018, for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training); or
+
+&emsp;(B) in the case of a person who first enrolls in a program of education using such entitlement on or after August 1, 2018, for an aggregate period not in excess of 36 months (or to the equivalent thereof in part-time training).
 
 (2)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall not—
 
@@ -24,13 +28,15 @@
 
 &emsp;(3) the spouse, as an eligible person under subparagraph (D) or (E) of section 3501(a)(1) of this title, is divorced, without fault on such person's part, from the person upon whose disability such person's eligibility is based, or
 
-&emsp;(4) the parent or spouse from whom such eligibility is derived based upon subparagraph (E) of section 3501(a)(1) of this title no longer meets a requirement under clause (i), (ii), or (iii) of that subparagraph,
+&emsp;(4) the parent or spouse from whom such eligibility is derived based upon subparagraph (E) of section 3501(a)(1) of this title no longermeets a requirement under clause (i), (ii), or (iii) of that subparagraph,
 
 > then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if the educational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985; Pub. L. 109–233, title V, §503(7), June 15, 2006, 120 Stat. 416; Pub. L. 109–444, §3(b)(2), Dec. 21, 2006, 120 Stat. 3306; Pub. L. 109–461, title III, §§301(b)(2), 302(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3428, 3468.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985; Pub. L. 109–233, title V, §503(7), June 15, 2006, 120 Stat. 416; Pub. L. 109–444, §3(b)(2), Dec. 21, 2006, 120 Stat. 3306; Pub. L. 109–461, title III, §§301(b)(2), 302(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3428, 3468; Pub. L. 115–48, title II, §202, Aug. 16, 2017, 131 Stat. 989.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–48 substituted "chapter—" for "chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training)" and added subpars. (A) and (B).
 
 <b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
@@ -52,7 +58,7 @@ Pub. L. 109–444, §3(b)(2)(B)(ii), which substituted "subparagraph (D) or (E) 
 
 Subsec. (b)(4). Pub. L. 109–461, §301(b)(2)(B)(iii), added par. (4).
 
-Pub. L. 109–444, §3(b)(2)(B)(iii), which added par. (4) identical to that added by Pub. L. 109–461,§301(b)(2)(B)(iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(b)(2)(B)(iii), which added par. (4) identical to that added by Pub. L. 109–461, §301(b)(2)(B)(iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (c). Pub. L. 109–461, §301(b)(2)(C), struck out subsec. (c), which read as follows: "Any entitlement used by an eligible person as a result of eligibility under section 3501(a)(1)(A)(iii), 3501(a)(1)(C), or 3501(a)(1)(D)(i) of this title shall be deducted from any entitlement to which such person may subsequently be entitled under this chapter."
 

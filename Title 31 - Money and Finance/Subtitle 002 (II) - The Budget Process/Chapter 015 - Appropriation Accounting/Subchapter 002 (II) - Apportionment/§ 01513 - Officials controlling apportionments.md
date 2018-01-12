@@ -6,7 +6,7 @@
 
 &emsp;(2) 30 days after the date of enactment of the law by which the appropriation is made available.
 
-(b)(1) The President shall apportion in writing an appropriation available to an executive agency (except the Commission) that is required to be apportioned under section 1512 of this title.The head of each executive agency to which the appropriation is available shall submit to the President information required for the apportionment in the form and the way and at the time specified by the President. The information shall be submitted not later than the later of the following:
+(b)(1) The President shall apportion in writing an appropriation available to an executive agency (except the Commission) that is required to be apportioned under section 1512 of this title. The head of each executive agency to which the appropriation is available shall submit to the President information required for the apportionment in the form and the way and at the time specified by the President. The information shall be submitted not later than the later of the following:
 
 &emsp;(A) 40 days before the beginning of the fiscal year for which the appropriation is available; or
 

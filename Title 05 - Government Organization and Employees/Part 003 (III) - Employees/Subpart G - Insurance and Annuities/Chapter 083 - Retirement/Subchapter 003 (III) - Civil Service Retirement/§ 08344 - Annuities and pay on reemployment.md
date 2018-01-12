@@ -50,7 +50,7 @@
 
 (f) Notwithstanding the provisions of subsection (a) of this section, if an annuitant receiving annuity from the Fund, except a Member receiving annuity from the Fund, becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, annuity payments are discontinued during such employment and are resumed in the same amount upon resignation or retirement from regular active service as such a justice or judge.
 
-(g) A former employee or a former Member who becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8342(a) of this title, the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
+(g) A former employee or a former Member who becomes employed as a justice or judge ofthe United States, as defined by section 451 of title 28, may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8342(a) of this title, the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
 
 (h)(1) Subject to paragraph (2) of this subsection, subsections (a), (b), (c), and (d) of this section shall not apply to any annuitant receiving an annuity from the Fund while such annuitant is employed, during any period described in section 5532(f)(2) of this title (as in effect before the repeal of that section by section 651(a) of Public Law 106–65) or any portion thereof, under the administrative authority of the Administrator, Federal Aviation Administration, or the Secretary of Defense to perform duties in the operation of the air traffic control system or to train other individuals to perform such duties: <i>Provided, however</i>, That the amount such an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
 
@@ -122,7 +122,7 @@
 
 (4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8468(i) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
 
-(B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8468(i) applies exceeds 1percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
+(B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8468(i) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
 
 &emsp;(i) a report with an explanation that justifies the need for the waivers in excess of that percentage; and
 
@@ -186,7 +186,7 @@ In subsections (a) and (b), the words "except for lump-sum leave payment purpose
 
 In subsection (a), the words "after September 30, 1956" are substituted for "hereafter" on authority of §406 of the Act of July 31, 1956, ch. 804, 70 Stat. 761. In paragraph (2), the words "other than an automatic separation" are substituted for "excluding a separation under the automatic separation provisions of this chapter". In the third sentence, the words "and this provision concerning the lump-sum leave payments shall also be effective in the case of each retired employee separated from reemployment after December 15, 1953, and before the effective date of the Civil Service Retirement Act Amendments of 1956" are omitted as executed, and any existing rights are preserved by technical section 8. In the fourth sentence, the words "except as President" are added to preserve the exception stated in former section 2252(b). In the penultimate sentence, the words "after October 3, 1961" are substituted for "on or after October 4, 1961". In the last sentence, the words "in any manner" are omitted as unnecessary.
 
-In subsection (b), the words "receiving annuity from the Fund" are substituted for "heretofore or hereafter retired under this chapter". The word "hereafter" is omitted as unnecessary. In paragraph (1)(B), the words"the day after" are substituted for "the first day of the month following" on authority of former section 2264(b), which is carried into section 8345(b). In paragraph (1), former clause (C) is omitted as obsolete. In paragraph (2)(D), the words "of the United States" are omitted as unnecessary.
+In subsection (b), the words "receiving annuity from the Fund" are substituted for "heretofore or hereafter retired under this chapter". The word "hereafter" is omitted as unnecessary. In paragraph (1)(B), the words "the day after" are substituted for "the first day of the month following" on authority of former section 2264(b), which is carried into section 8345(b). In paragraph (1), former clause (C) is omitted as obsolete. In paragraph (2)(D), the words "of the United States" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -266,7 +266,7 @@ Pub. L. 101–509 added subsec. (i).
 
 For amendment by section 106 of Pub. L. 100–202, see 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (h)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(l), as enacted by Pub. L. 100–202, §106, substituted "April 1, 1986" for "April 1, 1985". See Codification note above.
+<b>1986</b>—Subsec. (h)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(l), as enacted by Pub. L. 100–202, §106, substituted"April 1, 1986" for "April 1, 1985". See Codification note above.
 
 <b>1985</b>—Subsec. (h)(1). Pub. L. 99–88 inserted proviso directing that the amount an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
 
@@ -366,7 +366,7 @@ Pub. L. 96–504, §6, Dec. 5, 1980, 94 Stat. 2742, provided that:
 
 > whichever date is later.
 
-"(b) The provisions of subsection (f) of section 8344 of title 5, United States Code, as added by the first section of this Act, shall apply only to an individual who becomes employed as a justice or judge of the United States on or after the effective date of this Act. The provisions of subsection (g) of such section, as added by the first section of this Act, shall apply to an individual employed as a justice or judge of the United Stateson the effective date of this Act and to an individual appointed as such a justice or judge on or after such effective date."
+"(b) The provisions of subsection (f) of section 8344 of title 5, United States Code, as added by the first section of this Act, shall apply only to an individual who becomes employed as a justice or judge of the United States on or after the effective date of this Act. The provisions of subsection (g) of such section, as added by the first section of this Act, shall apply to an individual employed as a justice or judge of the United States on the effective date of this Act and to an individual appointed as such a justice or judge on or after such effective date."
 
 #### Effective Date of 1978 Amendments
 

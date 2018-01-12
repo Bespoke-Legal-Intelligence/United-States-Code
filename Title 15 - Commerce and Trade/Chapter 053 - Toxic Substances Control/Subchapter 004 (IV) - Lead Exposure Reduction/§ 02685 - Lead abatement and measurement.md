@@ -14,7 +14,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (c) Exposure studies
 
-(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the "Secretary"), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and theDirector of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
+(1) The Secretary of Health and Human Services (hereafter in this subsection referred to as the "Secretary"), acting through the Director of the Centers for Disease Control,<sup>1</sup> (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
 
 (2) The Secretary, in consultation with the Director of the National Institute for Occupational Safety and Health, shall conduct a comprehensive study of means to reduce hazardous occupational lead abatement exposures. This study shall include, at a minimum, each of the following—
 
@@ -40,7 +40,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 &emsp;(E) Occupational exposures, and other exposures that the Secretary determines to be appropriate.
 
-(4) Not later than 30 months after October 28, 1992, the Secretary shall submit a report to the Congress concerning the studies described in paragraphs (1) and (2).
+(4) Not later than 30 months after October 28, 1992, the Secretary shall submit a report to theCongress concerning the studies described in paragraphs (1) and (2).
 
 #### (d) Public education
 

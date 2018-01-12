@@ -24,7 +24,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;&emsp;(A) has among its purposes the provision of decent housing that is affordable to low-income and moderate-income persons;
 
-&emsp;&emsp;(B) maintains, through significant representation on the organization's governing board and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
+&emsp;&emsp;(B) maintains, through significant representation on the organization's governingboard and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
 
 &emsp;&emsp;(C) has a demonstrated capacity for carrying out activities assisted under this Act; and
 
@@ -56,7 +56,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
 
-&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as afirst-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
+&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
 &emsp;&emsp;(C) an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—
 

@@ -18,7 +18,7 @@ Each Center established under subsection (a) shall—
 
 &emsp;(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
 
-&emsp;(2) provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
+&emsp;(2) provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlledcommunity colleges, to offer college-level credit to interested trainees;
 
 &emsp;(3) develop training materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes and to tribal organizations;
 

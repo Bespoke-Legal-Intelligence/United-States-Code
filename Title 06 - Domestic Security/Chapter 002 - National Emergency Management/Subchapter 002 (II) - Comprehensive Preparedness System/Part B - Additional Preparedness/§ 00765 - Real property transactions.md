@@ -74,7 +74,7 @@ Functions vested in Director of Office of Emergency Preparedness as of June 30, 
 
 Functions of Administrator of Federal Civil Defense Administration under this section, previously transferred to President, delegated to Director of Federal Emergency Management Agency by section 4–105 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43242, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, includingthe functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of this title.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of this title.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of this title, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of this title.
 

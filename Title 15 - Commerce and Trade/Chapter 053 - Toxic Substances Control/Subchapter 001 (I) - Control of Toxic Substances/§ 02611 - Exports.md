@@ -12,7 +12,7 @@
 
 #### (b) Notice
 
-(1) If any person exports or intends to export to a foreign country a chemical substance or mixture for which the submission of information is required under section 2603 or 2604(b) of this title, such person shall notify the Administrator of such exportation or intent to export and theAdministrator shall furnish to the government of such country notice of the availability of the information submitted to the Administrator under such section for such substance or mixture.
+(1) If any person exports or intends to export to a foreign country a chemical substance or mixture for which the submission of information is required under section 2603 or 2604(b) of this title, such person shall notify the Administrator of such exportation or intent to export and the Administrator shall furnish to the government of such country notice of the availability of the information submitted to the Administrator under such section for such substance or mixture.
 
 (2) If any person exports or intends to export to a foreign country a chemical substance or mixture for which an order has been issued under section 2604 of this title or a rule has been proposed or promulgated under section 2604 or 2605 of this title, or with respect to which an action is pending, or relief has been granted under section 2604 or 2606 of this title, such person shall notify the Administrator of such exportation or intent to export and the Administrator shall furnish to the government of such country notice of such rule, order, action, or relief.
 
@@ -44,7 +44,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administrator may utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
+&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administratormay utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
 
 #### (4) Essential use exemption
 
@@ -178,7 +178,7 @@ Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: "Congress 
 
 &emsp;"(8) the free trade of elemental mercury on the world market, at relatively low prices and in ready supply, encourages the continued use of elemental mercury outside of the United States, often involving highly dispersive activities such as artisinal \[probably should be "artisanal"\] gold mining;
 
-&emsp;"(9) the intentional use of mercury is declining in the United States as a consequence of processchanges to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
+&emsp;"(9) the intentional use of mercury is declining in the United States as a consequence of process changes to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
 
 &emsp;"(10) the member countries of the European Union collectively are the largest source of elemental mercury exports globally;
 

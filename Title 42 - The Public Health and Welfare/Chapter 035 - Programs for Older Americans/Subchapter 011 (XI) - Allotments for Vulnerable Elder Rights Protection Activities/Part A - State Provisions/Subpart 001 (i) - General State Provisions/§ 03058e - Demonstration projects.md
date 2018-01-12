@@ -12,9 +12,9 @@ From amounts made available under section 3024(d)(1)(C) of this title after Sept
 
 #### (b) Benefits
 
-Each outreach project carried out under subsection (a) of this section shall—
+Each outreach project carried out under subsection (a) shall—
 
-&emsp;(1) provide to older individuals with greatest economic need information and assistance regarding their eligibility to receive the benefits and assistance described in paragraphs (1) through (3) of subsection (a) of this section;
+&emsp;(1) provide to older individuals with greatest economic need information and assistance regarding their eligibility to receive the benefits and assistance described in paragraphs (1) through (3) of subsection (a);
 
 &emsp;(2) be carried out in a planning and service area that has a high proportion of older individuals with greatest economic need, relative to the aggregate number of older individuals in such area; and
 
@@ -24,7 +24,7 @@ Each outreach project carried out under subsection (a) of this section shall—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -45,4 +45,8 @@ A prior section 706 of Pub. L. 89–73 was classified to section 3045e of this t
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 

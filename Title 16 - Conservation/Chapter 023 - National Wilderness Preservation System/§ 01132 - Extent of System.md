@@ -190,7 +190,7 @@ Blood Mountain Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102
 
 Blue Range Wilderness, Apache and Gila National Forests, New Mexico.—Pub. L. 96–550, title I, §102(a)(3), Dec. 19, 1980, 94 Stat. 3221.
 
-Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062; Pub. L. 113–291, div. B, title XXX, §3065(c)(1)(A), Dec. 19, 2014, 128 Stat. 3835.
+Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062; Pub. L. 113–291, div. B, title XXX, §3065(c)(1)(A), Dec. 19, 2014, 128 Stat. 3835; Pub. L. 115–31, div. G, title IV, §430, May 5, 2017, 131 Stat. 501.
 
 Bogoslof Wilderness, Bogoslof National Wildlife Refuge, Alaska.—Pub. L. 91–504, §1(a), Oct. 23, 1970, 84 Stat. 1104.
 
@@ -704,7 +704,7 @@ J. N. "Ding" Darling Wilderness, J. N. "Ding" Darling National Wildlife Refuge, 
 
 John Krebs Wilderness, Sequoia and Kings Canyon National Parks, California.—Pub. L. 111–11, title I, §1902(1), Mar. 30, 2009, 123 Stat. 1068.
 
-John Muir Wilderness, Inyo and Sierra National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(13), Sept. 28, 1984, 98 Stat. 1620; Pub. L. 111–11, title I, §1802(3), Mar. 30, 2009, 123 Stat. 1053.
+John Muir Wilderness, Inyo and Sierra National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(13), Sept. 28, 1984, 98 Stat. 1620; Pub. L. 111–11, title I, §1802(3), Mar. 30, 2009, 123 Stat. 1053; Pub. L. 115–109, Jan. 10, 2018, 131 Stat. 2268.
 
 Joseph Battell Wilderness, Vermont.—Pub. L. 109–382, title II, §211(2), Dec. 1, 2006, 120 Stat. 2675.
 

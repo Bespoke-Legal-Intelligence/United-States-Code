@@ -1,0 +1,6 @@
+### §13002. Transferred
+
+#### Codification
+
+Section 13002 was editorially reclassified as section 20304 of Title 34, Crime Control and Law Enforcement.
+

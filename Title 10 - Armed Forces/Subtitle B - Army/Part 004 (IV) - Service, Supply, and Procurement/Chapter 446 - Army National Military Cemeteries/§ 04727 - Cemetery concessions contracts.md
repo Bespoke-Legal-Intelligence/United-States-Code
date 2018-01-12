@@ -8,7 +8,7 @@ Contracts Authorized.—The Secretary of the Army may enter into a contract with
 
 Special Requirements.—(1) The Secretary of the Army shall establish and include in each concession contract such requirements as the Secretary determines are necessary to ensure the protection, dignity, and solemnity of the cemetery at which services are provided under the contract.
 
-(2) A concession contract shall not include operation of the gift shop at Arlington National Cemetery without the specific prior authorization by an Act of Congress.
+(2) A concession contract shall not include operation of the gift shop at Arlington NationalCemetery without the specific prior authorization by an Act of Congress.
 
 (c)
 

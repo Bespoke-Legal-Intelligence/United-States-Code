@@ -112,7 +112,7 @@
 
 &emsp;In the proceeding the alien has the burden of establishing—
 
-&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyond doubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
+&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyonddoubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
 
 &emsp;&emsp;(B) by clear and convincing evidence, that the alien is lawfully present in the United States pursuant to a prior admission.
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and ImmigrantResponsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
 
 #### Effective Date
 
@@ -324,7 +324,7 @@ Applicability.—Subparagraph (A) shall apply to motions filed by aliens who are
 
 &emsp;"(ii) have become eligible to apply for relief described in subparagraph (A)(i) as a result of the amendments made by—
 
-&emsp;&emsp;"(I) subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\]; or
+&emsp;&emsp;"(I) subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\]; or
 
 &emsp;&emsp;"(II) this title \[see Short Title of 2000 Amendment note set out under section 1101 of this title\]."
 

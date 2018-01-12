@@ -26,7 +26,7 @@ Subsection (a) shall not apply to information, data, estimates, and statisticsâ€
 
 #### (d) Information obtained for committees and Members
 
-Subsection (a) shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director notto make such information, data, estimates, or statistics available for public copying.
+Subsection (a) shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director not to make such information, data, estimates, or statistics available for public copying.
 
 #### (e) Level of confidentiality
 

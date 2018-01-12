@@ -22,7 +22,7 @@ Pub. L. 110–133, §1, Dec. 6, 2007, 121 Stat. 1362, provided that: "This Act \
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–141, §1, Feb. 12, 2002, 116 Stat. 13, provided that: "This Act \[enacting section 4265a of this title, amending sections 3709, 4214, 4245, 4246, 4263, 4265, and4266 of this title, and enacting provisions set out as a note under section 4214 of this title\] may be cited as the 'Asian Elephant Conservation Reauthorization Act of 2002'."
+Pub. L. 107–141, §1, Feb. 12, 2002, 116 Stat. 13, provided that: "This Act \[enacting section 4265a of this title, amending sections 3709, 4214, 4245, 4246, 4263, 4265, and 4266 of this title, and enacting provisions set out as a note under section 4214 of this title\] may be cited as the 'Asian Elephant Conservation Reauthorization Act of 2002'."
 
 #### Short Title
 

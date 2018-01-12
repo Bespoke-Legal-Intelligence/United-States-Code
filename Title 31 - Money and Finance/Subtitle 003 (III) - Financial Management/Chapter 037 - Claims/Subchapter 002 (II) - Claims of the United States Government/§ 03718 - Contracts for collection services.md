@@ -1,6 +1,6 @@
 ### §3718. Contracts for collection services
 
-(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government.The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
+(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
 
 &emsp;(1) the head of the agency retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 
@@ -60,7 +60,11 @@
 
 (g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys' Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (l), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (l), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(E), Dec. 12, 2017, 131 Stat. 1796.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(E), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking "section 3(p) of the Small Business Act" each place it appears and inserting "section 31(b) of the Small Business Act". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -106,6 +110,8 @@ The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title 
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b)(1)(B), (3)(C). Pub. L. 115–91 substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act".
+
 <b>2011</b>—Subsec. (b)(1)(A). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following)".
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -116,7 +122,7 @@ Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted "and law firms th
 
 Subsec. (b)(3)(C). Pub. L. 105–135, §604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(l)(1), in introductory provisions substituted "Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets." for "Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services torecover indebtedness owed the United States Government."
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(l)(1), in introductory provisions substituted "Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets." for "Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government."
 
 Subsec. (b)(1)(A). Pub. L. 104–134, §31001(cc)(1), struck out "If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district." before "Nothing in this subparagraph shall".
 
@@ -139,6 +145,10 @@ Subsec. (e). Pub. L. 99–578, §1(1), (3), redesignated former subsec. (c) as (
 Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–167 inserted "This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section."
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
 
 #### Effective Date of 1997 Amendment
 
@@ -176,7 +186,7 @@ Report to Congress.—After completing the audit under subsection (a), the Inspe
 
 Pub. L. 99–578, §3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
+Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided thatthe pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 

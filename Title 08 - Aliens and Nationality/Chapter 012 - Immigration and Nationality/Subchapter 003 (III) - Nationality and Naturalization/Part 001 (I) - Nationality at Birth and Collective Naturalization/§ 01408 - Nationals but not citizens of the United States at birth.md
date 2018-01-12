@@ -4,7 +4,7 @@ Unless otherwise provided in section 1401 of this title, the following shall be 
 
 (1) A person born in an outlying possession of the United States on or after the date of formal acquisition of such possession;
 
-(2) A person born outside the United States and its outlying possessions of parents both of whom are nationals, but not citizens, of the United States, and have had a residence in the United States, or one of its outlying possessions prior to the birth of such person;
+(2) A person born outside the United States and its outlying possessions of parents both ofwhom are nationals, but not citizens, of the United States, and have had a residence in the United States, or one of its outlying possessions prior to the birth of such person;
 
 (3) A person of unknown parentage found in an outlying possession of the United States while under the age of five years, until shown, prior to his attaining the age of twenty-one years, not to have been born in such outlying possession; and
 

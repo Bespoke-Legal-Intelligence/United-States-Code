@@ -1,6 +1,6 @@
 # Printed pages - Title 23 - Highways
 
-GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
+GPO's 2017 edition (laws in effect as of 2018-01-12), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title23.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -13,13 +13,13 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00103 - National Highway System](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000103%20-%20National%20Highway%20System.md) | 31–39 |
 | [&sect; 00104 - Apportionment](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000104%20-%20Apportionment.md) | 39–59 |
 | [&sect; 00105 - Additional deposits into Highway Trust Fund](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000105%20-%20Additional%20deposits%20into%20Highway%20Trust%20Fund.md) | 59–60 |
-| [&sect; 00106 - Project approval and oversight](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | 60–64 |
-| [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | 64–65 |
+| [&sect; 00106 - Project approval and oversight](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | 60–65 |
+| [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | 65 |
 | [&sect; 00108 - Advance acquisition of real property](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | 65–69 |
 | [&sect; 00109 - Standards](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000109%20-%20Standards.md) | 69–77 |
 | [&sect; 00110 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000110%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md) | 77–78 |
-| [&sect; 00111 - Agreements relating to use of and access to rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md) | 78–79 |
-| [&sect; 00112 - Letting of contracts](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000112%20-%20Letting%20of%20contracts.md) | 79–84 |
+| [&sect; 00111 - Agreements relating to use of and access to rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md) | 78–80 |
+| [&sect; 00112 - Letting of contracts](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000112%20-%20Letting%20of%20contracts.md) | 80–84 |
 | [&sect; 00113 - Prevailing rate of wage](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000113%20-%20Prevailing%20rate%20of%20wage.md) | 84–85 |
 | [&sect; 00114 - Construction](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000114%20-%20Construction.md) | 85–88 |
 | [&sect; 00115 - Advance construction](Chapter%20001%20-%20Federal-Aid%20Highways/%C2%A7%2000115%20-%20Advance%20construction.md) | 88–90 |

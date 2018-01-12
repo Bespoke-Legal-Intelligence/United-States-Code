@@ -58,7 +58,7 @@ Agreements With Community Partners.—In carrying out the pilot program authoriz
 
 Community Partner Described.—A community partner described in this subsection is a private non-profit organization or institution that meets such qualifications as the Secretary shall establish for purposes of the pilot program and engages in one or more of the following:
 
-&emsp;"(1) Research on the causes, development, and innovative treatment of mental health and substance usedisorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers.
+&emsp;"(1) Research on the causes, development, and innovative treatment of mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers.
 
 &emsp;"(2) Identifying and disseminating evidence-based treatments of mental health and substance use disorders and traumatic brain injury described in paragraph (1).
 
@@ -82,7 +82,7 @@ In general.—Each member of a reserve component of the Armed Forces participati
 
 "(2)
 
-Behavioral health support programs.—The behavioral health support programs for members of the reserve components described in this paragraph shall include one or any combination of the following:
+Behavioral health support programs.—The behavioral health support programs for members of thereserve components described in this paragraph shall include one or any combination of the following:
 
 &emsp;"(A) Programs providing access to licensed mental health providers in armories, reserve centers, or other places for scheduled unit training assemblies.
 
@@ -306,7 +306,7 @@ Support of Suicide Prevention Efforts.—The Office for Reintegration Programs s
 
 "(j)
 
-State-led Programs of Outreach.—The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for eligible individuals to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
+State-led Programs of Outreach.—The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing andcarrying out programs of outreach for eligible individuals to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
 
 "(k)
 
@@ -394,7 +394,7 @@ Pub. L. 98–212, title VII, §783, Dec. 8, 1983, 97 Stat. 1453.
 
 #### Retention in Active Status of National Guard or Reserve Technicians Until Age Sixty
 
-Pub. L. 104–61, title VIII, §8017, Dec. 1, 1995, 109 Stat. 655, provided that: "Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force mayauthorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment."
+Pub. L. 104–61, title VIII, §8017, Dec. 1, 1995, 109 Stat. 655, provided that: "Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force may authorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment."
 
 Similar provisions were contained in the following prior appropriation acts:
 

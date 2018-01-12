@@ -22,7 +22,7 @@ In carrying out subsection (a), the Administrator shall—
 
 &emsp;&emsp;(A) incorporating the public alert and warning system into other training and exercise programs of the Department, as appropriate;
 
-&emsp;&emsp;(B) establishing and integrating into the National Incident Management System a comprehensive and periodic training program to instruct and educate Federal, State, tribal, and local government officials in theuse of the Common Alerting Protocol enabled Emergency Alert System; and
+&emsp;&emsp;(B) establishing and integrating into the National Incident Management System a comprehensive and periodic training program to instruct and educate Federal, State, tribal, and local government officials in the use of the Common Alerting Protocol enabled Emergency Alert System; and
 
 &emsp;&emsp;(C) conducting, not less than once every 3 years, periodic nationwide tests of the public alert and warning system;
 

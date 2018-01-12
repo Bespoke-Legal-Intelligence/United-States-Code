@@ -1,0 +1,6 @@
+### §1164. Transferred
+
+#### Codification
+
+Section 1164 was editorially reclassified as section 2504 of this title.
+

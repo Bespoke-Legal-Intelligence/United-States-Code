@@ -72,7 +72,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (A) In general
 
-&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferredpursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
+&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227,§§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 

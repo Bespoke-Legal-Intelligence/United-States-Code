@@ -4,7 +4,7 @@ In the case of a minister of the gospel, gross income does not include—
 
 &emsp;(1) the rental value of a home furnished to him as part of his compensation; or
 
-&emsp;(2) the rental allowance paid to him as part of his compensation, to the extent used by him to rent or provide a home and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities.
+&emsp;(2) the rental allowance paid to him as part of his compensation, to the extent used by him to rent or provide a home and to the extent such allowance does not exceed the fair rental value of the home, including furnishings andappurtenances such as a garage, plus the cost of utilities.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 107–181, §2(a), May 20, 2002, 116 Stat. 583.)
 

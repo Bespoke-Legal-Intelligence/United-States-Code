@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a dislocated worker;
 
-&emsp;&emsp;&emsp;(ii) a civilian employee of the Department of Defense or the Department of Energy employed at a military installation that is being closed, or that will undergorealignment, within the next 24 months after the date of the determination of eligibility;
+&emsp;&emsp;&emsp;(ii) a civilian employee of the Department of Defense or the Department of Energy employed at a military installation that is being closed, or that will undergo realignment, within the next 24 months after the date of the determination of eligibility;
 
 &emsp;&emsp;&emsp;(iii) an individual who is employed in a nonmanagerial position with a Department of Defense contractor, who is determined by the Secretary of Defense to be at risk of termination from employment as a result of reductions in defense expenditures, and whose employer is converting operations from defense to nondefense applications in order to prevent worker layoffs; or
 

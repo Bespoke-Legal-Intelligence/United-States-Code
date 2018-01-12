@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 (25 U.S.C. 450 note) <sup>1</sup> and in accordance with section 14045d of this title, shall continue to award grants for Indian tribes from amounts appropriated under section 10403(a)(2)(B) of this title to carry out this section.
+The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 (25 U.S.C. 450 note) <sup>1</sup> and in accordance with section 20126 of title 34, shall continue to award grants for Indian tribes from amounts appropriated under section 10403(a)(2)(B) of this title to carry out this section.
 
 #### (b) Eligible entities
 
@@ -14,7 +14,7 @@ Each recipient of such a grant shall comply with requirements that are consisten
 
 #### (d) Grantee application
 
-To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section10406(c) of this title and section 10407(a) of this title.
+To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title.
 
 #### (e) Use of funds
 

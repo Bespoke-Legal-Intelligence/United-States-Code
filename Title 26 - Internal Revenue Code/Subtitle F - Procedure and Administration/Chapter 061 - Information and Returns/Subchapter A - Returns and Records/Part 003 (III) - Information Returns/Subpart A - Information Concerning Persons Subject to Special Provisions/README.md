@@ -28,7 +28,12 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | [6039E.](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md) | Information concerning resident status. |
 | [6039F.](%C2%A7%2006039F%20-%20Notice%20of%20large%20gifts%20received%20from%20foreign%20persons.md) | Notice of large gifts received from foreign persons. |
 | [6039G.](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md) | Information on individuals losing United States citizenship. |
-| [6039H.](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md) | Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations. |
+| [6039H.](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20Native%20Corporations.md) | Information With Respect to Alaska Native Settlement Trusts and Native Corporations.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [6039I.](%C2%A7%2006039I%20-%20Returns%20and%20records%20with%20respect%20to%20employer-owned%20life%20insurance%20contracts.md) | Returns and records with respect to employer-owned life insurance contracts. |
 | [6039J.](%C2%A7%2006039J%20-%20Information%20reporting%20with%20respect%20to%20Commodity%20Credit%20Corporation%20transactions.md) | Information reporting with respect to Commodity Credit Corporation transactions. |
 | [6040\.](%C2%A7%2006040%20-%20Cross%20references.md) | Cross references. |
@@ -36,6 +41,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, substituted "Information With Respect to Alaska Native Settlement Trusts and Native Corporations" for "Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations" in item 6039H.
 
 <b>2015</b>—Pub. L. 114–41, title II, §2004(b)(3), July 31, 2015, 129 Stat. 456, added item 6035.
 
@@ -91,6 +98,8 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 98–611 and Pub. L. 98–612 enacted identical items designated "6039D". Pub. L. 99–514, §1879(d)(2), repealed the section 6039D enacted by Pub. L. 98–612 without corresponding amendment of subpart analysis.</i>
 
+<i><sup>2</sup></i><i> So in original. The words "With Respect" probably should not be capitalized.</i>
+
 
 ---
 
@@ -117,7 +126,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06039E - Information concerning resident status](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md)
 - [&sect; 06039F - Notice of large gifts received from foreign persons](%C2%A7%2006039F%20-%20Notice%20of%20large%20gifts%20received%20from%20foreign%20persons.md)
 - [&sect; 06039G - Information on individuals losing United States citizenship](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md)
-- [&sect; 06039H - Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md)
+- [&sect; 06039H - Information with respect to Alaska Native Settlement Trusts and Native Corporations](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20Native%20Corporations.md)
 - [&sect; 06039I - Returns and records with respect to employer-owned life insurance contracts](%C2%A7%2006039I%20-%20Returns%20and%20records%20with%20respect%20to%20employer-owned%20life%20insurance%20contracts.md)
 - [&sect; 06039J - Information reporting with respect to Commodity Credit Corporation transactions](%C2%A7%2006039J%20-%20Information%20reporting%20with%20respect%20to%20Commodity%20Credit%20Corporation%20transactions.md)
 - [&sect; 06040 - Cross references](%C2%A7%2006040%20-%20Cross%20references.md)

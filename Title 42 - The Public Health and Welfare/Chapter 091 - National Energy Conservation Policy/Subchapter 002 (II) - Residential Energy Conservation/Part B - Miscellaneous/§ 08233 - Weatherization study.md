@@ -6,7 +6,7 @@ The President shall conduct a study which shall monitor the weatherization activ
 
 &emsp;(2) adequacy and costs of materials necessary for weatherization activities; and
 
-&emsp;(3) the need for and desirability of modifying weatherization activities authorized by thisAct, and amendments made thereby and of extending such activities to a broader range of income groups than are being assisted under this Act and such amendments.
+&emsp;(3) the need for and desirability of modifying weatherization activities authorized by this Act, and amendments made thereby and of extending such activities to a broader range of income groups than are being assisted under this Act and such amendments.
 
 (Pub. L. 95–619, title II, §254, Nov. 9, 1978, 92 Stat. 3237.)
 

@@ -1,0 +1,6 @@
+### §14136a. Transferred
+
+#### Codification
+
+Section 14136a was editorially reclassified as section 40723 of Title 34, Crime Control and Law Enforcement.
+

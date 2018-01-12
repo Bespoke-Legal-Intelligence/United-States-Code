@@ -1,0 +1,6 @@
+### §13822. Transferred
+
+#### Codification
+
+Section 13822 was editorially reclassified as section 12182 of Title 34, Crime Control and Law Enforcement.
+

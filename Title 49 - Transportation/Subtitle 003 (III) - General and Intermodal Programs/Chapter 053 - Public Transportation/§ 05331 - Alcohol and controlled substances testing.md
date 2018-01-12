@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) "person" includes any entity organized or existing under the laws of the United States, a State, territory, or possession of the United States, or a foreign country.
 
-&emsp;(3) "public transportation" means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
+&emsp;(3) "public transportation" means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlledsubstances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
 
 (b)
 
@@ -60,7 +60,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 (e)
 
-Rehabilitation.—The Secretary shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
+Rehabilitation.—The Secretary shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation.The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
 
 (f)
 

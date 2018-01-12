@@ -34,13 +34,13 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after the date on which the Administrator publishes the guidelines under subsection (a)(1) of this section, each State that receives funding under this subchapter shall develop State-specific training requirements that are consistent with the guidelines developed under subsection (a)(1) of this section.
+&emsp;Not later than 2 years after the date on which the Administrator publishes the guidelines under subsection (a)(1), each State that receives funding under this subchapter shall develop State-specific training requirements that are consistent with the guidelines developed under subsection (a)(1).
 
 #### (2) Requirements
 
 &emsp;State requirements described in paragraph (1) shall—
 
-&emsp;&emsp;(A) be consistent with subsection (a) of this section;
+&emsp;&emsp;(A) be consistent with subsection (a);
 
 &emsp;&emsp;(B) be developed in cooperation with tank owners and tank operators;
 
@@ -54,11 +54,11 @@
 
 #### (c) Training
 
-All persons that are subject to the operator training requirements of subsection (a) of this section shall—
+All persons that are subject to the operator training requirements of subsection (a) shall—
 
-&emsp;(1) meet the training requirements developed under subsection (b) of this section; and
+&emsp;(1) meet the training requirements developed under subsection (b); and
 
-&emsp;(2) repeat the applicable requirements developed under subsection (b) of this section, if the tank for which they have primary daily on-site management responsibilities is determined to be out of compliance with—
+&emsp;(2) repeat the applicable requirements developed under subsection (b), if the tank for which they have primary daily on-site management responsibilities is determined to be out of compliance with—
 
 &emsp;&emsp;(A) a requirement or standard promulgated by the Administrator under section 6991b of this title; or
 

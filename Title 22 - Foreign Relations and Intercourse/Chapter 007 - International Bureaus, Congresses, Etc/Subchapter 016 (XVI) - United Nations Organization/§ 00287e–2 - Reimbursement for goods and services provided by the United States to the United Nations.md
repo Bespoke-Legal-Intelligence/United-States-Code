@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to the United Nations when the assistance is designed to facilitate or assist in carrying out an assessed peacekeeping operation;
 
-&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the UnitedNations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regular budget assessment of the United Nations members; or
+&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regular budget assessment of the United Nations members; or
 
 &emsp;&emsp;(C) to any country participating in any operation authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping assessments of United Nations members when the assistance is designed to facilitate or assist the participation of that country in the operation.
 
@@ -36,7 +36,7 @@
 
 #### (A) Amount
 
-&emsp;&emsp;The amount of any reimbursement under this subsection shall be determined at the usual rate established by the United Nations.
+&emsp;&emsp;The amount of any reimbursement under this subsection shall be determined at theusual rate established by the United Nations.
 
 #### (B) Form
 

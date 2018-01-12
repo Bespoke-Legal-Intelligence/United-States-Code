@@ -20,7 +20,7 @@ The Secretary may, by regulation and under such conditions and procedures as he 
 
 #### (b) Plants located in noncontiguous areas of United States
 
-The Secretary shall, by regulation and under such procedures as he may prescribe, exempt any plant located within noncontiguous areas of the United States from specific provisions of this chapter, where, despite good faith efforts by the owner of such plant, such owner has not been able to bring his plant into full compliance with this chapter: <i>Provided</i>, That in order to provide at least minimum standards for the protection of the public health, whenever processing operations are being conducted at any such plant, continuous inspection shall be maintained to assure that it is operated in a sanitary manner. No exemption under this subsection shall be granted for a period extending beyond December 31, 1971.
+The Secretary shall, by regulation and under such procedures as he may prescribe, exempt any plant located within noncontiguous areas of the United States from specific provisions of this chapter, where, despite good faith efforts by the owner of such plant, such owner has notbeen able to bring his plant into full compliance with this chapter: <i>Provided</i>, That in order to provide at least minimum standards for the protection of the public health, whenever processing operations are being conducted at any such plant, continuous inspection shall be maintained to assure that it is operated in a sanitary manner. No exemption under this subsection shall be granted for a period extending beyond December 31, 1971.
 
 #### (c) Suspension or termination of exemptions
 
@@ -35,6 +35,10 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 #### Amendments
 
 <b>1971</b>—Subsecs. (b), (c). Pub. L. 92–67 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)(2) or (6)".</i>
 

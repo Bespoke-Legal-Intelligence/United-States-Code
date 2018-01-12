@@ -54,7 +54,7 @@ This section may be cited as the "Architect of the Capitol Human Resources Act".
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensurethat the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 

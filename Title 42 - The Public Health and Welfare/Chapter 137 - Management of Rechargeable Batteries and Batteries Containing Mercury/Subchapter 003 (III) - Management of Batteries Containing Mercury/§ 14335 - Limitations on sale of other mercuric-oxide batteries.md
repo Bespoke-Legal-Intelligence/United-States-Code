@@ -8,7 +8,7 @@ On or after May 13, 1996, no person shall sell, offer for sale, or offer for pro
 
 &emsp;(2) informs each of its purchasers of mercuric-oxide batteries of the collection site identified under paragraph (1); and
 
-&emsp;(3) informs each of its purchasers of mercuric-oxide batteries of a telephone number that the purchaser may call to get information about sending mercuric-oxide batteries for recycling or proper disposal.
+&emsp;(3) informs each of its purchasers of mercuric-oxide batteries of a telephone numberthat the purchaser may call to get information about sending mercuric-oxide batteries for recycling or proper disposal.
 
 #### (b) Application of section
 

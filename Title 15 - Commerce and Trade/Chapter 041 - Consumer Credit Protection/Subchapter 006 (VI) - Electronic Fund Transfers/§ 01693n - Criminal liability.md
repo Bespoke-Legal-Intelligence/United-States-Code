@@ -14,7 +14,7 @@ Whoever knowingly and willfully—
 
 Whoever—
 
-&emsp;(1) knowingly, in a transaction affecting interstate or foreign commerce, uses or attempts or conspires to use any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument to obtainmoney, goods, services, or anything else of value which within any one-year period has a value aggregating $1,000 or more; or
+&emsp;(1) knowingly, in a transaction affecting interstate or foreign commerce, uses or attempts or conspires to use any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument to obtain money, goods, services, or anything else of value which within any one-year period has a value aggregating $1,000 or more; or
 
 &emsp;(2) with unlawful or fraudulent intent, transports or attempts or conspires to transport in interstate or foreign commerce a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained; or
 

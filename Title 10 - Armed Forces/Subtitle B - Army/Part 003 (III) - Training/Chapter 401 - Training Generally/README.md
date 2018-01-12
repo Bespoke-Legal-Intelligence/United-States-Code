@@ -11,7 +11,7 @@
 | \[4310 to 4313. Repealed.\] |  |
 | [4314\.](%C2%A7%2004314%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Command%20and%20General%20Staff%20College.md) | Degree granting authority for United States Army Command and General Staff College. |
 | [4315\.](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md) | The Judge Advocate General's School: master of laws in military law. |
-| [4316\.](%C2%A7%2004316%20-%20Reporting%20requirements.md) | Reporting requirements. |
+| \[4316. | Repealed.\] |
 | [4317\.](%C2%A7%2004317%20-%20Military%20history%20fellowships.md) | Military history fellowships. |
 | [4318\.](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md) | Drill sergeant trainees: human relations training. |
 | [4319\.](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(27)(B), Dec. 12, 2017, 131 Stat. 1562, struck out item 4316 "Reporting requirements".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and 4321 and struck out former items 4314 "United States Army Command and General Staff College degree" and 4321 "United States Army War College: master of strategic studies degree".
 
@@ -61,7 +63,7 @@ Pub. L. 102–484, div. A, title III, §380(c)(2), Oct. 23, 1992, 106 Stat. 2391
 - [&sect; 04312, 4313 - Repealed. Pub. L. 105&#8211;225, &sect;6(b), Aug. 12, 1998, 112 Stat. 1499](%C2%A7%2004312%2C%204313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93225%2C%20%C2%A76%28b%29%2C%20Aug.%2012%2C%201998%2C%20112%20Stat.%201499.md)
 - [&sect; 04314 - Degree granting authority for United States Army Command and General Staff College](%C2%A7%2004314%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Command%20and%20General%20Staff%20College.md)
 - [&sect; 04315 - The Judge Advocate General's School master of laws in military law](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md)
-- [&sect; 04316 - Reporting requirements](%C2%A7%2004316%20-%20Reporting%20requirements.md)
+- [&sect; 04316 - Repealed. Pub. L. 115&#8211;91, div. A, title X, &sect;1051(a)(27)(A), Dec. 12, 2017, 131 Stat. 1562](%C2%A7%2004316%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9391%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71051%28a%29%2827%29%28A%29%2C%20Dec.%2012%2C%202017%2C%20131%20Stat.%201562.md)
 - [&sect; 04317 - Military history fellowships](%C2%A7%2004317%20-%20Military%20history%20fellowships.md)
 - [&sect; 04318 - Drill sergeant trainees human relations training](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md)
 - [&sect; 04319 - Recruit basic training separate housing for male and female recruits](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)

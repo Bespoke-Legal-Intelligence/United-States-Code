@@ -6,7 +6,7 @@ The jurisdiction in civil and criminal matters conferred on the district courts 
 
 #### (b) Attorney's fees
 
-In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], the Religious Land Use and Institutionalized Persons Act of 2000 \[42 U.S.C. 2000cc et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 13981 of this title, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
+In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], the Religious Land Use and Institutionalized Persons Act of 2000 \[42 U.S.C. 2000cc et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 12361 of title 34, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
 
 #### (c) Expert fees
 
@@ -44,7 +44,7 @@ Section was formerly classified to section 729 of Title 28 prior to the general 
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–274 inserted "the Religious Land Use and Institutionalized Persons Act of 2000," after "Religious Freedom Restoration Act of 1993," and deleted comma after "section 13981 of this title,".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted before period at end ", except that in any action brought against a judicial officer for an act or omission takenin such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction".
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted before period at end ", except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction".
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking "or" after "92–318," and by inserting ", or section 13981 of this title," after "1964", was executed to subsec. (b) of this section by striking "or" after "Act of 1993," and by inserting ", or section 13981 of this title," after "1964", to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 

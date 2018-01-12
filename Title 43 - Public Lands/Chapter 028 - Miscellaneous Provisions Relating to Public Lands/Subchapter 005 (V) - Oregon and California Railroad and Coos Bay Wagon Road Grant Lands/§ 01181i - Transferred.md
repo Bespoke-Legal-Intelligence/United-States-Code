@@ -1,0 +1,6 @@
+### §1181i. Transferred
+
+#### Codification
+
+Section 1181i was editorially reclassified as section 2633 of this title.
+

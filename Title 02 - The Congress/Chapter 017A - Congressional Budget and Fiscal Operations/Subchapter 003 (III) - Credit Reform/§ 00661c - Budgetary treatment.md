@@ -6,7 +6,7 @@ Beginning with fiscal year 1992, the President's budget shall reflect the costs 
 
 #### (b) Appropriations required
 
-Notwithstanding any other provision of law, new direct loan obligations may be incurred and new loan guarantee commitments may be made for fiscal year 1992 and thereafter only to the extent that—
+Notwithstanding any other provision of law, new direct loan obligations may be incurred and new loan guarantee commitments may be madefor fiscal year 1992 and thereafter only to the extent that—
 
 &emsp;(1) new budget authority to cover their costs is provided in advance in an appropriations Act;
 

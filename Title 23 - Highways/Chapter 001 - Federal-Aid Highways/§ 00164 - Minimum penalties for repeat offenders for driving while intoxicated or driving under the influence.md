@@ -4,9 +4,9 @@
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;(1) 24-7
+&emsp;(1)
 
-sobriety program.—The term "24-7 sobriety program" has the meaning given the term in section 405(d)(7)(A).
+24-7 sobriety program.—The term "24-7 sobriety program" has the meaning given the term in section 405(d)(7)(A).
 
 &emsp;(2)
 

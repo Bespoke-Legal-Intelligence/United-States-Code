@@ -24,7 +24,7 @@ The Secretary shall prescribe appropriate procedures for the delivery of benefit
 
 #### (e) State issuance liability
 
-Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
+Notwithstanding any other provision of this chapter, the State agency shall be strictly liableto the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
 
 #### (f) Alternative benefit delivery
 
@@ -112,7 +112,7 @@ In general.—Any procedure established under paragraph (1) shall—
 
 &emsp;(B)
 
-Multiple issuances.—The procedure may include issuing benefits to a household in more than 1 issuance during a month only when a benefit correction is necessary.
+Multiple issuances.—The procedure may include issuing benefits to a household inmore than 1 issuance during a month only when a benefit correction is necessary.
 
 #### (h) Electronic benefit transfers
 
@@ -172,7 +172,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;(B) any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
 
-(4) Administrative costs incurred in connection with activities under this subsection shallbe eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
+(4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
 
 (5) The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
 
@@ -204,7 +204,7 @@ Requirements.—The terms and conditions established by the Secretary shall prov
 
 &emsp;&emsp;&emsp;(I) the household be given the opportunity to provide the requested explanation and meet the requirements under this paragraph promptly;
 
-&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnel authorized to make determinations under section 2014(a) of this title; and
+&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnelauthorized to make determinations under section 2014(a) of this title; and
 
 &emsp;&emsp;&emsp;(III) any action taken, including actions required under section 2015(b)(2) of this title, other than the withholding of the electronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
 
@@ -380,7 +380,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;To be eligible to issue benefits under this subsection, a State agency shall—
 
-&emsp;&emsp;(A) submit a plan to the Secretary that describes the conditions and procedures underwhich the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
+&emsp;&emsp;(A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
 
 &emsp;&emsp;(B) obtain the approval of the Secretary for the plan.
 
@@ -412,7 +412,7 @@ Report to congress.—The Secretary shall—
 
 #### (C) Interoperability
 
-&emsp;&emsp;The term "interoperability" means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
+&emsp;&emsp;The term "interoperability" means a system that enables program benefits in theform of an electronic benefit transfer card to be redeemed in any State.
 
 #### (D) Interstate transaction
 
@@ -712,7 +712,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted "any" before "households".
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Change of Name
 
@@ -738,7 +738,7 @@ Amendment by section 1728 of Pub. L. 101–624 effective and implemented first d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementing section 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementingsection 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -810,7 +810,7 @@ Report.—Not later than October 1, 2003, the Secretary of Agriculture shall sub
 
 #### Congressional Statement of Purpose
 
-Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "The purposes of this Act \[amending this section and enacting provisionsset out as notes under this section and section 2011 of this title\] are—
+Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and section 2011 of this title\] are—
 
 &emsp;"(1) to protect the integrity of the supplemental nutrition assistance program;
 
@@ -826,7 +826,7 @@ Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 
-Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no laterthan Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Food Stamp Coupons, Cost Increase Suspension
 

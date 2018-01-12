@@ -10,7 +10,7 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 &emsp;(A) A national of the United States, as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-&emsp;(B) An alien who is lawfully admitted for permanent residence, as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
+&emsp;(B) An alien who is lawfully admitted for permanent residence, as defined in section101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
 &emsp;(C) A person described in section 341 of one of the following compacts:
 

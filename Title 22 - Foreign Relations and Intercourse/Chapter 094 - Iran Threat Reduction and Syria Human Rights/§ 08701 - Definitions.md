@@ -4,7 +4,7 @@ Except as otherwise specifically provided, in this Act:
 
 #### (1) Appropriate congressional committees
 
-&emsp;The term "appropriate congressional committees" has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
+&emsp;The term "appropriate congressional committees" has the meaning given that term insection 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
 
 #### (2) Financial transaction
 
@@ -112,7 +112,7 @@ In General.—Not later than 30 days after the date of the enactment of this Act
 
 "(b)
 
-Additional Reports.—If the interim agreement described in subsection (a) is renewed or if a comprehensive and final agreement is entered into regarding the nuclear program of Iran, by not later than 90 days after such renewal or final agreement being entered into, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on such renewed or final agreement. Such report shall include the matters described in paragraphs (1) and (2) of subsection (a).
+Additional Reports.—If the interim agreement described in subsection (a) is renewed or if a comprehensive and final agreement is entered into regarding the nuclear program of Iran, by not later than 90 days after such renewal or final agreement being entered into, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on such renewed or final agreement. Such reportshall include the matters described in paragraphs (1) and (2) of subsection (a).
 
 "(c)
 
@@ -190,7 +190,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(1) a description of the presence, activities, and operations of Iran, the Iranian Islamic Revolutionary Guard Corps (IRGC), its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere, including information about their leaders, objectives, and areas of influence and information on their financial networks, trafficking activities, and safe havens;
 
-&emsp;"(2) a description of the terrain, population, ports, foreign firms, airports, borders, media outlets, financial centers, foreign embassies, charities, religious and cultural centers, and income-generating activities in the Western Hemisphere utilized by Iran, the IRGC, its Qods Force, Hezbollah, and other terroristorganizations linked to Iran that may be present in the Western Hemisphere;
+&emsp;"(2) a description of the terrain, population, ports, foreign firms, airports, borders, media outlets, financial centers, foreign embassies, charities, religious and cultural centers, and income-generating activities in the Western Hemisphere utilized by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere;
 
 &emsp;"(3) a description of the relationship of Iran, the IRGC, its Qods Force, and Hezbollah with transnational criminal organizations linked to Iran and other terrorist organizations in the Western Hemisphere, including information on financial networks and trafficking activities;
 

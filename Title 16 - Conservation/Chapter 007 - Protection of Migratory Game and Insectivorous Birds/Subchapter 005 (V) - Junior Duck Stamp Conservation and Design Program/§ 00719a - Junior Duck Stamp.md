@@ -28,7 +28,7 @@ Amounts received under subsection (b)—
 
 &emsp;&emsp;&emsp;(ii) otherwise determined in such a competition to be superior;
 
-&emsp;&emsp;(B) awards and prizes to schools, students, teachers, and other participants to further education activities related to the conservation education goals of the Program;
+&emsp;&emsp;(B) awards and prizes to schools, students, teachers, and other participants to furthereducation activities related to the conservation education goals of the Program;
 
 &emsp;&emsp;(C) award ceremonies for winners of national and State Junior Duck Stamp competitions;
 

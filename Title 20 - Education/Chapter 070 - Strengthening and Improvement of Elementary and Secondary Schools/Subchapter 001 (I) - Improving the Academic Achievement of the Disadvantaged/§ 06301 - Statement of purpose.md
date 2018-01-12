@@ -26,7 +26,7 @@ In General.—Except as otherwise provided in this Act \[see Tables for classifi
 
 "(b)
 
-Noncompetitive Programs.—With respect to noncompetitive programs under the Elementary andSecondary Education Act of 1965 (20 U.S.C. 6301 et seq) and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, the amendments made by this Act shall be effective beginning on July 1, 2016, except as otherwise provided in such amendments.
+Noncompetitive Programs.—With respect to noncompetitive programs under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq) and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, the amendments made by this Act shall be effective beginning on July 1, 2016, except as otherwise provided in such amendments.
 
 "(c)
 
@@ -46,7 +46,7 @@ Effective dates for section 1111 of the elementary and secondary education act o
 
 &emsp;&emsp;"(A) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as in effect on the day before the date of enactment of this Act, shall be effective through the close of August 1, 2016;
 
-&emsp;&emsp;"(B) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311), as amended by this Act, shall take effect beginning with school year 2017–2018; and
+&emsp;&emsp;"(B) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965\(20 U.S.C. 6311), as amended by this Act, shall take effect beginning with school year 2017–2018; and
 
 &emsp;&emsp;"(C) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as amended by this Act, and any other provision of section 1111 of such Act (20 U.S.C. 6311), as amended by this Act, which is not described in subparagraph (B) of this paragraph, shall take effect in a manner consistent with subsection (a).
 
@@ -91,6 +91,10 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 "(d)
 
 Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–64, §1, Sept. 29, 2017, 131 Stat. 1187, provided that: "This Act \[amending section 7881 of this title\] may be cited as the 'Hurricanes Harvey, Irma, and Maria Education Relief Act of 2017'."
 
 #### Short Title of 2015 Amendment
 
@@ -220,7 +224,7 @@ Multi-year awards.—
 
 &emsp;&emsp;"(A)
 
-Programs no longer authorized.—Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, the recipient of a multiyear award under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\], under a program that is not authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, and—
+Programs no longer authorized.—Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, the recipient of a multiyear award under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\], under a program that is not authorized under theElementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, and—
 
 &emsp;&emsp;&emsp;"(i) that is not substantively similar to a program authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, shall continue to receive funds in accordance with the terms of such prior award, except that no additional funds for such program may be awarded after September 30, 2016; and
 
@@ -278,11 +282,11 @@ Ex. Ord. No. 13153, May 3, 2000, 65 F.R. 26475, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Elementary and Secondary Education Act of 1965 (ESEA) \[20 U.S.C. 6301 et seq.\], the Department of Education Appropriations Act, 2000 (as contained in Public Law 106–113) \[Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–242, see Tables for classification\], and in order to take actions to improve low-performing schools, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise standards for students and to increaseaccountability in public education while investing more resources in elementary and secondary schools. While much has been accomplished—there has been progress in math and reading achievement, particularly for low-achieving students and students in our highest poverty schools—much more can be done, especially for low-performing schools.
+Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise standards for students and to increase accountability in public education while investing more resources in elementary and secondary schools. While much has been accomplished—there has been progress in math and reading achievement, particularly for low-achieving students and students in our highest poverty schools—much more can be done, especially for low-performing schools.
 
 Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of Education ("Secretary") shall work with State and local educational agencies ("LEAs") to develop and implement a comprehensive strategy for providing technical assistance and other assistance to States and LEAs to strengthen their capacity to improve the performance of schools identified as low performing. This comprehensive strategy shall include a number of steps, such as:
 
-&emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order to improve achievement for all students in the low-performing schools;
+&emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order toimprove achievement for all students in the low-performing schools;
 
 &emsp;(2) determining effective ways of providing low-performing schools with access to resources from other Department of Education programs, such as funds from the Comprehensive School Reform Demonstration Program, the Reading Excellence Act \[Pub. L. 105–277, div. A, §101(f) \[title VIII\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, see Tables for classification\], the Eisenhower Professional Development Program, the Class Size Reduction Program, and the 21st Century Community Learning Centers Program, and to make effective use of these funds and Title I funds;
 
@@ -332,5 +336,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, forthe purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
+Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
 

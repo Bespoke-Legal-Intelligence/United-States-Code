@@ -22,7 +22,7 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 (3)(A) In carrying out this subsection, the Secretary may issue subpenas requiring the attendance and testimony of witnesses and the production of evidence. Any such subpena may, upon application by the Secretary, be enforced in a civil action in an appropriate United States district court.
 
-(B) The Secretary may exempt from the certification requirements of this subsection anyshipment of a steel mill product containing chromium in any form which is in transit to the United States on March 18, 1977.
+(B) The Secretary may exempt from the certification requirements of this subsection any shipment of a steel mill product containing chromium in any form which is in transit to the United States on March 18, 1977.
 
 (C) Under such circumstances as he deems appropriate, the Secretary may release from customs custody for entry into the United States, under such bond as he may require, any shipment of a steel mill product containing chromium in any form.
 
@@ -40,7 +40,7 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–195 substituted "fined not more than $1,000,000" for "find not more than $10,000" and "20 years, or both." for "ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States."
+<b>2010</b>—Subsec. (b). Pub. L. 111–195 substituted "fined not more than $1,000,000" for "find not more than $10,000" and "20 years, or both." for "ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, togetherwith her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States."
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–12, §1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
 
@@ -94,7 +94,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (b) To the extent consistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, licenses, contracts, agreements, and other actions made, issued, taken, or entered into under the provisions of such Executive orders and not previously revoked, superseded, or otherwise made inapplicable, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
+1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
 
 (b) The revocation, in Section 1–101 of this order, of such prior Executive orders shall not affect:
 

@@ -56,7 +56,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 This section is enacted by the Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
+&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate,respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
@@ -65,6 +65,10 @@ This section is enacted by the Congress—
 #### References in Text
 
 Sections 101(a) and 2(9) of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), are classified to sections 3511(a) and 3501(9), respectively, of this title.
+
+#### Effective Date
+
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
 #### Uruguay Round Agreements: Entry Into Force
 

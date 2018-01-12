@@ -12,7 +12,7 @@ For the purposes of this subpart:
 
 &emsp;&emsp;(C) provides pedagogical course work, or assistance in the provision of such coursework, including the monitoring of student performance, and formal instruction related to the theory and practices of teaching; and
 
-&emsp;&emsp;(D) provides supervision and support services to teachers, or assistance in the provision of such services, including mentoringfocused on developing effective teaching skills and strategies.
+&emsp;&emsp;(D) provides supervision and support services to teachers, or assistance in the provision of such services, including mentoring focused on developing effective teaching skills and strategies.
 
 #### (2) Post-baccalaureate
 

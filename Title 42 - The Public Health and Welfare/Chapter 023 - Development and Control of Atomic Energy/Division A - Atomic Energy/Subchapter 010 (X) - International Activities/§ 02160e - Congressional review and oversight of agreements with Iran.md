@@ -4,7 +4,7 @@
 
 #### (1) Transmission of agreements
 
-&emsp;Not later than 5 calendar days after reaching an agreement with Iran relating to the nuclear program of Iran, the President shall transmitto the appropriate congressional committees and leadership—
+&emsp;Not later than 5 calendar days after reaching an agreement with Iran relating to the nuclear program of Iran, the President shall transmit to the appropriate congressional committees and leadership—
 
 &emsp;&emsp;(A) the agreement, as defined in subsection (h)(1), including all related materials and annexes;
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(B) may not be taken if, during the period for review provided in subsection (b), there is enacted a joint resolution stating in substance that the Congress does not favor the agreement; or
 
-&emsp;&emsp;(C) may be taken, consistent with existing statutory requirements for such action, if, following the period for review provided in subsection (b), there is not enacted any such joint resolution.
+&emsp;&emsp;(C) may be taken, consistent with existing statutory requirements for such action, if, following the period for review provided insubsection (b), there is not enacted any such joint resolution.
 
 #### (3) Definition
 
@@ -172,7 +172,7 @@
 
 #### (A) Agency reports
 
-&emsp;&emsp;Following submission of an agreement pursuant to subsection (a) to the appropriate congressional committees and leadership, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of any of those committees or leadership, promptly furnish to those committees or leadership their views as to whether the safeguards and other controls contained in the agreement with respect to Iran's nuclear program provide an adequate framework to ensure that Iran's activities permitted thereunder will not be inimical to or constitute an unreasonable risk to the common defense and security.
+&emsp;&emsp;Following submission of an agreement pursuant to subsection (a) to the appropriate congressional committees and leadership, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of any of those committees or leadership, promptly furnish to those committees or leadership their viewsas to whether the safeguards and other controls contained in the agreement with respect to Iran's nuclear program provide an adequate framework to ensure that Iran's activities permitted thereunder will not be inimical to or constitute an unreasonable risk to the common defense and security.
 
 #### (B) Provision of information on nuclear initiatives with Iran
 
@@ -242,7 +242,7 @@
 
 #### (A) Reporting and discharge
 
-&emsp;&emsp;If a committee of the House to which qualifying legislation has been referred has not reported such qualifying legislation within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
+&emsp;&emsp;If a committee of the House to which qualifying legislation has been referred hasnot reported such qualifying legislation within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
 
 #### (B) Proceeding to consideration
 
@@ -322,7 +322,7 @@ Nothing in the section shall be construed as—
 
 &emsp;(1) modifying, or having any other impact on, the President's authority to negotiate, enter into, or implement appropriate executive agreements, other than the restrictions on implementation of the agreements specifically covered by this section;
 
-&emsp;(2) allowing any new waiver, suspension, reduction, or other relief from statutory sanctions with respect to Iran under any provisionof law, or allowing the President to refrain from applying any such sanctions pursuant to an agreement described in subsection (a) during the period for review provided in subsection (b);
+&emsp;(2) allowing any new waiver, suspension, reduction, or other relief from statutory sanctions with respect to Iran under any provision of law, or allowing the President to refrain from applying any such sanctions pursuant to an agreement described in subsection (a) during the period for review provided in subsection (b);
 
 &emsp;(3) revoking or terminating any statutory sanctions imposed on Iran; or
 

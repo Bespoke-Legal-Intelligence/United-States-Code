@@ -60,7 +60,7 @@ In General.—The President may impose the sanctions described in subsection (b)
 
 &emsp;"(2) acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1);
 
-&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personalgain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
 
 &emsp;"(4) has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an activity described in paragraph (3).
 
@@ -98,7 +98,7 @@ In general.—The authority to block and prohibit all transactions in all proper
 
 &emsp;&emsp;&emsp;"(ii)
 
-Good.—In this subparagraph, the term 'good' has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as continued in effect pursuant tothe International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+Good.—In this subparagraph, the term 'good' has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 "(c)
 
@@ -232,7 +232,7 @@ In general.—Each report required by subsection (a) shall be submitted in uncla
 
 &emsp;"(2)
 
-Exception.—The name of a foreign person to be included in the list required by subsection (a)(1) maybe submitted in the classified annex authorized by paragraph (1) only if the President—
+Exception.—The name of a foreign person to be included in the list required by subsection (a)(1) may be submitted in the classified annex authorized by paragraph (1) only if the President—
 
 &emsp;&emsp;"(A) determines that it is vital for the national security interests of the United States to do so;
 
@@ -269,6 +269,8 @@ In General.—The authority to impose sanctions under this subtitle shall termin
 "(b)
 
 Continuation in Effect of Sanctions.—Sanctions imposed under this subtitle on or before the date specified in subsection (a), and in effect as of such date, shall remain in effect until terminated in accordance with the requirements of section 1263(g)."
+
+\[Authority to administer financial sanctions under section 1263 of Pub. L. 114–328, set out in a note above, delegated to Secretary of the Treasury and authority to administer visa sanctions under such section 1263 delegated to Secretary of State by Memorandum of President of the United States, Sept. 8, 2017, 82 F.R. 45411.\]
 
 #### Global Engagement Center
 
@@ -308,7 +310,7 @@ Functions.—The Center shall carry out the following functions:
 
 &emsp;"(9) Coordinate with United States allies and partner nations in order to amplify the Center's efforts and avoid duplication.
 
-&emsp;"(10) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4) of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
+&emsp;"(10) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4)of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
 
 "(c)
 
@@ -350,7 +352,7 @@ Transfer of Amounts Authorized.—
 
 In general.—If amounts authorized to be appropriated or otherwise made available to carry out the functions of the Center—
 
-&emsp;&emsp;"(A) for fiscal year 2017 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Department of Defense for fiscal year 2017, to the Secretary of State an amount, not to exceed $60,000,000,to be available to carry out the functions of the Center for fiscal year 2017; and
+&emsp;&emsp;"(A) for fiscal year 2017 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Department of Defense for fiscal year 2017, to the Secretary of State an amount, not to exceed $60,000,000, to be available to carry out the functions of the Center for fiscal year 2017; and
 
 &emsp;&emsp;"(B) for fiscal year 2018 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by an Act authorizing funds for the Department of Defense for fiscal year 2018, to the Secretary of State an amount, not to exceed $60,000,000, to be available to carry out the functions of the Center for fiscal year 2018.
 
@@ -510,7 +512,7 @@ Authority.—The President is authorized to establish an international counterte
 
 &emsp;&emsp;"(A) To meet annually, or more frequently as the President determines appropriate, to develop in common with such other governments important policies and a strategy that address the various components of international prosecution of the war on terrorism, including policies and a strategy that address military issues, law enforcement, the collection, analysis, and dissemination of intelligence, issues relating to interdiction of travel by terrorists, counterterrorism-related customs issues, financial issues, and issues relating to terrorist sanctuaries.
 
-&emsp;&emsp;"(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues that can contribute to strengthening stability and security in the Middle East."
+&emsp;&emsp;"(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues thatcan contribute to strengthening stability and security in the Middle East."
 
 #### International Agreements To Track and Curtail Terrorist Travel Through the Use of Fraudulently Obtained Documents
 
@@ -532,7 +534,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
 
-&emsp;"(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the9/11 Commission), stated that 'Targeting travel is at least as powerful a weapon against terrorists as targeting their money.'.
+&emsp;"(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the 9/11 Commission), stated that 'Targeting travel is at least as powerful a weapon against terrorists as targeting their money.'.
 
 "(b)
 
@@ -662,7 +664,7 @@ Trade and Development Agency.—
 
 &emsp;"(1)
 
-In general.—The Director of the Trade and Development Agency is authorized to carry out projectsin East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
+In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
 
 &emsp;"(2)
 
@@ -926,7 +928,7 @@ Specific Actions Urged.—To that end, the Congress urges the President—
 
 Establishment.—(1) None of the funds authorized to be appropriated by this Act for 'Diplomatic and Consular Programs' shall be available for obligation or expenditure during fiscal years 1994 and 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State under the Assistant Secretary for East Asia and Pacific Affairs (or any successor Assistant Secretary) the Office of Cambodian Genocide Investigation (hereafter in this part referred to as the 'Office').
 
-"(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and its activities shall be used to carry out activities within Cambodia.
+"(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and itsactivities shall be used to carry out activities within Cambodia.
 
 "(b)
 
@@ -1004,7 +1006,7 @@ Pub. L. 100–204, title VIII, §801, Dec. 22, 1987, 101 Stat. 1397, provided th
 
 #### Waiver of Provisions of Public Law 100–204 During Fiscal Years 1988 and 1989
 
-Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329, 1329–23, provided that: "The following sections of H.R. 1777 (the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[Pub. L. 100–204\]) are waived during Fiscal Years 1988 and 1989 in the event that H.R. 1777 is enacted into law: Sec. 122 \[set out above\], Sec. 151, and Sec. 204 \[22 U.S.C. 1461 note\]."
+Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329, 1329–23, provided that: "The following sections of H.R. 1777 (the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[Pub. L. 100–204\])are waived during Fiscal Years 1988 and 1989 in the event that H.R. 1777 is enacted into law: Sec. 122 \[set out above\], Sec. 151, and Sec. 204 \[22 U.S.C. 1461 note\]."
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
@@ -1030,7 +1032,7 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizenscan contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -1068,7 +1070,7 @@ Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: "
 
 #### Reopening Certain United States Consulates
 
-Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137, Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
+Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137,Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
 
 "(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for 'Administration of Foreign Affairs' may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
@@ -1126,7 +1128,7 @@ Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for
 
 (c) consulting and engaging, in coordination with agencies and the Countering Violent Extremism Task Force, as appropriate, with a range of communications-related actors and entities, within the United States and abroad, including governments, private sector and civil society entities, in order to contribute to U.S. Government efforts to counter the communications-related radicalization to violence and recruitment activities of international terrorist organizations and other violent extremists abroad, while also building the capacity of partners to create resonant positive alternative narratives and to diminish the influence of such international terrorist organizations and other violent extremists abroad;
 
-(d) identifying, engaging, employing, or acquiring the best available talent across the U.S. and from global private sectors, academia, and elsewhere to support the Center's mission;
+(d) identifying, engaging, employing, or acquiring the best available talent across the U.S. and from globalprivate sectors, academia, and elsewhere to support the Center's mission;
 
 (e) identifying shortfalls in any U.S. capabilities in any areas relevant to the Center's mission and implementing or recommending, as appropriate, necessary enhancements or changes; and
 
@@ -1136,7 +1138,7 @@ Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establ
 
 Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
-(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need forspecific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
+(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need for specific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
 
 (b) the use of physical premises, equipment, and logistical or administrative support;
 

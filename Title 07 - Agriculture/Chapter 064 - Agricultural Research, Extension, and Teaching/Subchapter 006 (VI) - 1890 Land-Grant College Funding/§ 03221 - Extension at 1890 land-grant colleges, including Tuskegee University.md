@@ -12,7 +12,7 @@
 
 #### (3) Uses
 
-&emsp;Funds appropriated under this section shall be used for expenses of conducting extension programs and activities, and for contributing to the retirement of employees subject to the provisions of section 331 of this title.
+&emsp;Funds appropriated under this section shall be used for expenses of conducting extension programs and activities, and for contributingto the retirement of employees subject to the provisions of section 331 of this title.
 
 #### (4) Carryover
 
@@ -44,7 +44,7 @@ The State director of the cooperative extension service and the extension admini
 
 #### (2) Time and manner of payment; related reports
 
-&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of theamount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary.
+&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary.
 
 #### (3) Requirements related to plan of work
 
@@ -58,7 +58,7 @@ The State director of the cooperative extension service and the extension admini
 
 &emsp;&emsp;(D) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
 
-&emsp;&emsp;(E) The education and outreach programs already underway to convey currently available research results that are pertinent to a critical agricultural issue, including efforts to encourage multicounty cooperation in the dissemination of research results.
+&emsp;&emsp;(E) The education and outreach programs already underway to convey currently available research results that are pertinent to acritical agricultural issue, including efforts to encourage multicounty cooperation in the dissemination of research results.
 
 #### (4) Extension protocols
 
@@ -96,7 +96,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §§7121, 7403(c), substituted "20 percent" for "15 percent" and "under section 3(d) of that Act (7 U.S.C. 343(d))" for "after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §§7121, 7403(c), substituted "20 percent" for "15 percent" and "under section 3(d) of that Act (7 U.S.C. 343(d))" for "after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
 
 Subsec. (b)(2)(A). Pub. L. 110–246, §7511(c)(12), substituted "National Institute of Food and Agriculture" for "Extension Service".
 

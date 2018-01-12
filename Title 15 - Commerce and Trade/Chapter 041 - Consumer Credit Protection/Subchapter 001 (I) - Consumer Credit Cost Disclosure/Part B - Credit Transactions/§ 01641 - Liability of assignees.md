@@ -6,7 +6,7 @@ Except as otherwise specifically provided in this subchapter, any civil action f
 
 #### (b) Proof of compliance with statutory provisions
 
-Except as provided in section 1635(c) of this title, in any action or proceeding by or againstany subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+Except as provided in section 1635(c) of this title, in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
 
 #### (c) Right of rescission by consumer unaffected
 
@@ -64,7 +64,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (2) Servicer not treated as owner on basis of assignment for administrative convenience
 
-&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
+&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall notbe treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
 
 #### (3) "Servicer" defined
 

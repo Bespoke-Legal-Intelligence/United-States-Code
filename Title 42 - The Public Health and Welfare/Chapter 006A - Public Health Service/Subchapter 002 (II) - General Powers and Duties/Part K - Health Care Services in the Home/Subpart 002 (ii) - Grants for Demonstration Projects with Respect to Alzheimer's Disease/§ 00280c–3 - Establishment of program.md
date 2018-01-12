@@ -8,7 +8,7 @@ The Secretary shall make grants to States for the purpose of assisting grantees 
 
 &emsp;(2) to provide home health care, personal care, day care, companion services, short-term care in health facilities, and other respite care to individuals with Alzheimer's disease or related disorders who are living in single family homes or in congregate settings;
 
-&emsp;(3) to improve the access of such individuals to home-based or community-based long-term care services (subject to the services beingprovided by entities that were providing such services in the State involved as of October 1, 1995), particularly such individuals who are members of racial or ethnic minority groups, who have limited proficiency in speaking the English language, or who live in rural areas; and
+&emsp;(3) to improve the access of such individuals to home-based or community-based long-term care services (subject to the services being provided by entities that were providing such services in the State involved as of October 1, 1995), particularly such individuals who are members of racial or ethnic minority groups, who have limited proficiency in speaking the English language, or who live in rural areas; and
 
 &emsp;(4) to provide to health care providers, to individuals with Alzheimer's disease or related disorders, to the families of such individuals, to organizations established for such individuals and such families, and to the general public, information with respect to—
 
@@ -40,11 +40,15 @@ A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–392, §302(a)(1), struck out "not less than 5, and not more than 15," after "shall make" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 105–392, §302(a)(2), inserted "who are living in single family homes or in congregate settings" after "disorders" and struck out "and" at end.
+Subsec. (a)(2). Pub. L. 105–392, §302(a)(2), inserted "who are living in single family homes or in congregatesettings" after "disorders" and struck out "and" at end.
 
 Subsec. (a)(3), (4). Pub. L. 105–392, §302(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–557, §102(a), substituted "shall make not less than 5, and not more than 15, grants" for "shall make not less than 3, and not more than 5, grants".
 
 Subsec. (a)(1). Pub. L. 101–557, §102(b), substituted "with public and private organizations" for "by public and private organizations".
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

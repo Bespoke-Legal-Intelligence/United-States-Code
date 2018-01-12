@@ -14,7 +14,7 @@ The Secretary shall make grants to States to—
 
 &emsp;&emsp;(B) steps to be taken after administering such drug or device; and
 
-&emsp;(4) educate the public concerning the availability of drugs or devices approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose without a person-specific prescription.
+&emsp;(4) educate the public concerning the availability of drugs or devices approved or clearedunder the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose without a person-specific prescription.
 
 #### (b) Certain requirement
 

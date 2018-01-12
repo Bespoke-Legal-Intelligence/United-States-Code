@@ -14,7 +14,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(ii) who are beyond the age of compulsory school attendance in the State in which such persons reside and are not enrolled in school;
 
-&emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 daysduring the past 24 months in migrant and seasonal farmwork; or
+&emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
 &emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 3222 of title 29; and
 
@@ -112,7 +112,7 @@ Each project application shall include a management plan which contains assuranc
 
 #### (e) Five-year grant period; consideration of prior experience
 
-Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants underthis subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(2) of this title.
+Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants under this subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(2) of this title.
 
 #### (f) Minimum allocations
 
@@ -188,7 +188,7 @@ Subsec. (c)(1)(B). Pub. L. 110–315, §408(2)(A)(ii)(I), inserted "to improve p
 
 Subsec. (c)(1)(B)(i). Pub. L. 110–315, §408(2)(A)(ii)(II), substituted "career, and economic education or personal finance" for "and career".
 
-Subsec. (c)(1)(E) to (G). Pub. L. 110–315, §408(2)(A)(iii)–(vi), struck out "and" at end of subpar. (E), added subpar. (F), redesignated former subpar. (F)as (G) and, in par. (G), substituted "essential supportive services (such as transportation and child care)" for "support services".
+Subsec. (c)(1)(E) to (G). Pub. L. 110–315, §408(2)(A)(iii)–(vi), struck out "and" at end of subpar. (E), added subpar. (F), redesignated former subpar. (F) as (G) and, in par. (G), substituted "essential supportive services (such as transportation and child care)" for "support services".
 
 Subsec. (c)(2)(A). Pub. L. 110–315, §408(2)(B)(i), struck out "and" after semicolon.
 

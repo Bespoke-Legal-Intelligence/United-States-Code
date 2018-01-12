@@ -42,5 +42,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Pub. L. 91–139, §3, Dec. 5, 1969, 83 Stat. 292, provided that: "This Act \[enacting this section and provisionsset out as a note under former sections 112a to 112d of this title, and repealing sections 112a to 112d of this title\] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act \[Dec. 5, 1969\]."
+Pub. L. 91–139, §3, Dec. 5, 1969, 83 Stat. 292, provided that: "This Act \[enacting this section and provisions set out as a note under former sections 112a to 112d of this title, and repealing sections 112a to 112d of this title\] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act \[Dec. 5, 1969\]."
 

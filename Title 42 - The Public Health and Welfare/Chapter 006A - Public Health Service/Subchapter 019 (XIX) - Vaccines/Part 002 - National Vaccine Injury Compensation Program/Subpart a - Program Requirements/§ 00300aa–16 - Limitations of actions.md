@@ -4,7 +4,7 @@
 
 In the case of—
 
-&emsp;(1) a vaccine set forth in the Vaccine Injury Table which is administered before October 1, 1988, if a vaccine-related injury or death occurred as a result of the administration of such vaccine, no petition may be filed for compensation under the Program for such injury or death after the expiration of 28 months after October 1, 1988, and no such petition may be filed if the first symptom or manifestation of onset or of the significant aggravation of such injury occurred more than 36 months after the date of administration of the vaccine,
+&emsp;(1) a vaccine set forth in the Vaccine Injury Table which is administered before October 1, 1988, if a vaccine-related injury or death occurred as a result of the administration of such vaccine, no petition may be filed for compensation under the Program for such injury or death after the expiration of 28 monthsafter October 1, 1988, and no such petition may be filed if the first symptom or manifestation of onset or of the significant aggravation of such injury occurred more than 36 months after the date of administration of the vaccine,
 
 &emsp;(2) a vaccine set forth in the Vaccine Injury Table which is administered after October 1, 1988, if a vaccine-related injury occurred as a result of the administration of such vaccine, no petition may be filed for compensation under the Program for such injury after the expiration of 36 months after the date of the occurrence of the first symptom or manifestation of onset or of the significant aggravation of such injury, and
 
@@ -22,7 +22,7 @@ If at any time the Vaccine Injury Table is revised and the effect of such revisi
 
 If a petition is filed under section 300aa–11 of this title for a vaccine-related injury or death, limitations of actions under State law shall be stayed with respect to a civil action brought for such injury or death for the period beginning on the date the petition is filed and ending on the date (1) an election is made under section 300aa–21(a) of this title to file the civil action or (2) an election is made under section 300aa–21(b) of this title to withdraw the petition.
 
-(July 1, 1944, ch. 373, title XXI, §2116, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3769; amended Pub. L. 100–203, title IV, §4302(b)(2), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(m)(1), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(e), Nov. 3, 1990, 104Stat. 1287; Pub. L. 102–168, title II, §201(d)(2), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 103–66, title XIII, §13632(a)(1), Aug. 10, 1993, 107 Stat. 645.)
+(July 1, 1944, ch. 373, title XXI, §2116, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3769; amended Pub. L. 100–203, title IV, §4302(b)(2), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(m)(1), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(e), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(2), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 103–66, title XIII, §13632(a)(1), Aug. 10, 1993, 107 Stat. 645.)
 
 #### Codification
 

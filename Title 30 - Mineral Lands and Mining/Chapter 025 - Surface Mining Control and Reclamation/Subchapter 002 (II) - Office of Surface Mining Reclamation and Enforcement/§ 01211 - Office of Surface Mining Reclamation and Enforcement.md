@@ -40,7 +40,7 @@ The Secretary, acting through the Office, shall—
 
 #### (d) Restriction on use of Federal coal mine health and safety inspectors
 
-The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
+The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\], unless he finds and publishessuch finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
 
 #### (e) Repealed. Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826
 
@@ -58,7 +58,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 (4) Within ninety days after filing of a petition described in paragraph (1), the Director shall either grant or deny the petition. If the Director grants such petition, the Director shall promptly commence an appropriate proceeding in accordance with the provisions of this chapter. If the Director denies such petition, the Director shall so notify the petitioner in writing setting forth the reasons for such denial.
 
-(Pub. L. 95–87, title II, §201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, §100, Mar. 7, 1978, 92Stat. 109; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826.)
+(Pub. L. 95–87, title II, §201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, §100, Mar. 7, 1978, 92 Stat. 109; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826.)
 
 #### References in Text
 
@@ -91,6 +91,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: "That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training".
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
 

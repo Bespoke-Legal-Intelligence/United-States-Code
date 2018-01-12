@@ -64,7 +64,7 @@ Suspension.—The Secretary shall not permit any new drilling on or involving an
 
 "(b)
 
-Authority To Cancel Existing Mineral or Geothermal Leases.—Upon the effective date of the Record of Decision for the Dark Canyon Environmental Impact Statement and in order to protect Lechuguilla Cave or other cave resources, the Secretary is authorized to—
+Authority To Cancel Existing Mineral or Geothermal Leases.—Upon the effective date of theRecord of Decision for the Dark Canyon Environmental Impact Statement and in order to protect Lechuguilla Cave or other cave resources, the Secretary is authorized to—
 
 &emsp;"(1) cancel any Federal mineral or geothermal lease in the cave protection area referred to in section 3(a); or
 

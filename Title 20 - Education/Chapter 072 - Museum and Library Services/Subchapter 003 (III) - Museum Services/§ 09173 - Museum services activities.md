@@ -38,7 +38,7 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 &emsp;(8) supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;
 
-&emsp;(9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure the highest standards in all aspects of museum operations;
+&emsp;(9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure thehighest standards in all aspects of museum operations;
 
 &emsp;(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
 
@@ -82,7 +82,7 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 From amounts appropriated under section 9176 of this title, the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title), to enable such tribes and organizations to carry out the activities described in subsection (a).
 
-(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117Stat. 1000, 1002; Pub. L. 111–340, title III, §303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, §9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, §9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184.)
 
 #### Prior Provisions
 

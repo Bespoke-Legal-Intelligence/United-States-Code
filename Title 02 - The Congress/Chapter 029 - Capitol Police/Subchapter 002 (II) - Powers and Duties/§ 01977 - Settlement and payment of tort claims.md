@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any claim described in paragraph (1) which is made by a Member of Congress or any officer or employee of Congress, the Chief of the Capitol Police shall—
+&emsp;&emsp;With respect to any claim described in paragraph (1) which is made by a Member ofCongress or any officer or employee of Congress, the Chief of the Capitol Police shall—
 
 &emsp;&emsp;&emsp;(i) not later than 14 days after the receipt of such a claim, notify the Chairman of the applicable Committee of the receipt of the claim; and
 

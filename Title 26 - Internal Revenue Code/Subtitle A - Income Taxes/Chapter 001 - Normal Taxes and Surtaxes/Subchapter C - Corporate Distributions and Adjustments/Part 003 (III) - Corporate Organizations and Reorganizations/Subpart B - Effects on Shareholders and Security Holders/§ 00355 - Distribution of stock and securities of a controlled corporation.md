@@ -58,7 +58,7 @@
 
 #### (C) Property attributable to accrued interest
 
-&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shallapply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
 
 #### (D) Nonqualified preferred stock
 
@@ -110,7 +110,7 @@
 
 #### (C) Treatment of trade or business conducted by acquired member
 
-&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction inwhich gain or loss was recognized in whole or in part.
+&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
 
 #### (D) Regulations
 
@@ -208,7 +208,7 @@
 
 &emsp;&emsp;&emsp;(i) any person acquires property from another person who acquired such property by purchase (as determined under this paragraph with regard to this subparagraph), and
 
-&emsp;&emsp;&emsp;(ii) the adjusted basis of such property in the hands of such acquirer is determined inwhole or in part by reference to the adjusted basis of such property in the hands of such other person,
+&emsp;&emsp;&emsp;(ii) the adjusted basis of such property in the hands of such acquirer is determined in whole or in part by reference to the adjusted basis of such property in the hands of such other person,
 
 > &emsp;&emsp;such acquirer shall be treated as having acquired such property by purchase on the date it was so acquired by such other person.
 
@@ -380,7 +380,7 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;&emsp;(i) in the case of distributions after the end of the 1-year period beginning on the date of the enactment of this subsection, 2/3 or more of the fair market value of all assets of the corporation, and
 
-&emsp;&emsp;&emsp;(ii) in the case of distributions during such 1-year period, ¾ or more of the fairmarket value of all assets of the corporation.
+&emsp;&emsp;&emsp;(ii) in the case of distributions during such 1-year period, ¾ or more of the fair market value of all assets of the corporation.
 
 #### (B) Investment assets
 
@@ -492,7 +492,7 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;&emsp;(ii) the controlled corporation has been a taxable REIT subsidiary (as defined in section 856(l)) of the distributing corporation at all times during such period, and
 
-&emsp;&emsp;&emsp;(iii) the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
+&emsp;&emsp;&emsp;(iii) the distributing corporation had control (as defined in section 368(c) appliedby taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
 
 > &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets of assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of 80 percent of the profits interest and 80 percent of the capital interests.
 
@@ -688,7 +688,7 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 "(3)
 
-Transitional rules.—For purposes of subparagraphs (A) and (B) of section 355(d)(3) of the Internal Revenue Code of 1986 (as amended by subsection (a)), an acquisition shall be treated as occurring on or before October 9, 1990, if—
+Transitional rules.—For purposes of subparagraphs (A) and (B) of section 355(d)(3) of the InternalRevenue Code of 1986 (as amended by subsection (a)), an acquisition shall be treated as occurring on or before October 9, 1990, if—
 
 &emsp;"(A) such acquisition is pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition,
 

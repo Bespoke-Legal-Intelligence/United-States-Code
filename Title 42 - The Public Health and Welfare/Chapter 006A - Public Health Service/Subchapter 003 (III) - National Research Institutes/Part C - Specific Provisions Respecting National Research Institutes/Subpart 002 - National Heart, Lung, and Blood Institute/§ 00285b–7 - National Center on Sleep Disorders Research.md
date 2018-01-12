@@ -52,7 +52,7 @@ The general purpose of the Center is—
 
 (2) The plan developed under paragraph (1) shall identify priorities with respect to such research and shall provide for the coordination of such research conducted or supported by the agencies of the National Institutes of Health.
 
-(3) The Director of the National Institutes of Health (after consultation with the Director ofthe Center and the advisory board <sup>2</sup> established under subsection (c)) shall revise the plan developed under paragraph (1) as appropriate.
+(3) The Director of the National Institutes of Health (after consultation with the Director of the Center and the advisory board <sup>2</sup> established under subsection (c)) shall revise the plan developed under paragraph (1) as appropriate.
 
 #### (e) Collection and dissemination of information
 
@@ -62,7 +62,7 @@ The Director of the Center, in cooperation with the Centers for Disease Control 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3)(B)(vi). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
+<b>2007</b>—Subsec. (c)(3)(B)(vi). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of ChildHealth and Human Development" for "National Institute of Child Health and Human Development".
 
 #### Change of Name
 

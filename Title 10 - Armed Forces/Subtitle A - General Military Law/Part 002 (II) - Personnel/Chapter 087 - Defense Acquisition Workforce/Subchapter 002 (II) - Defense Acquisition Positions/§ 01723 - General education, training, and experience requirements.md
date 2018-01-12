@@ -2,7 +2,7 @@
 
 (a)
 
-Qualification Requirements.—(1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis on services contracting, market research strategies (including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
+Qualification Requirements.—(1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis onservices contracting, market research strategies (including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
 
 (2) In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.
 
@@ -18,7 +18,7 @@ Career Path Requirements.—For each career path, the Secretary of Defense, acti
 
 (c)
 
-Limitation on Credit for Training or Education.—Not more than one year of a periodof time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
+Limitation on Credit for Training or Education.—Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 104–201, div. A, title X, §1074(a)(9)(A), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 111–383, div. A, title VIII, §§873(b), 874(a), Jan. 7, 2011, 124 Stat. 4303, 4304.)
 

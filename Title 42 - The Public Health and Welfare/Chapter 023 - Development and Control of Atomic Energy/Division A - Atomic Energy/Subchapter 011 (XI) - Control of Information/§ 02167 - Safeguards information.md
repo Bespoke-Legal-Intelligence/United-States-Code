@@ -28,7 +28,7 @@ Any determination by the Commission concerning the applicability of this section
 
 #### (d) Reports to Congress; contents
 
-Upon prescribing or issuing any regulation or order under subsection (a) of this section, theCommission shall submit to Congress a report that:
+Upon prescribing or issuing any regulation or order under subsection (a) of this section, the Commission shall submit to Congress a report that:
 
 &emsp;(1) specifically identifies the type of information the Commission intends to protect from disclosure under the regulation or order;
 

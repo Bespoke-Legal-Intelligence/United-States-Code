@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated asmeeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 
 #### (b) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans
 
@@ -42,7 +42,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the firstday of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
+&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
 
 &emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the amendment, and
 
@@ -106,7 +106,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition toany minimum required contribution under section 430) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
+&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
 #### (f) Rules relating to contributions required to avoid benefit limitations
 
@@ -148,7 +148,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
+&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsorof such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
 #### (B) Exception for insufficient funding balances
 
@@ -176,7 +176,7 @@ Subsections (b), (c), and (e) shall not apply to a plan for the first 5 plan yea
 
 &emsp;In any case in which—
 
-&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a planwith respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
+&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
 
 &emsp;&emsp;(B) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (k) Secretarial authority for plans with alternate valuation date
 
-In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
+In the case of a plan which has designated a valuation date other than the first day of theplan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 
 #### (l) Single-employer plan
 

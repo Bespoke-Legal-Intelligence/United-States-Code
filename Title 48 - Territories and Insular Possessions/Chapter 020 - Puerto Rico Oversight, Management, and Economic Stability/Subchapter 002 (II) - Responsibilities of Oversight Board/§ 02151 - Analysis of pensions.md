@@ -2,7 +2,7 @@
 
 #### (a) Determination
 
-If the Oversight Board determines, in its sole discretion, that a pension system of the territorial government is materially underfunded,the Oversight Board shall conduct an analysis prepared by an independent actuary of such pension system to assist the Oversight Board in evaluating the fiscal and economic impact of the pension cash flows.
+If the Oversight Board determines, in its sole discretion, that a pension system of the territorial government is materially underfunded, the Oversight Board shall conduct an analysis prepared by an independent actuary of such pension system to assist the Oversight Board in evaluating the fiscal and economic impact of the pension cash flows.
 
 #### (b) Provisions of analysis
 

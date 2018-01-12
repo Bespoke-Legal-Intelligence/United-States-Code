@@ -50,7 +50,7 @@ Oct. 24, 1951, ch. 559, §11, as added Pub. L. 88–391, §4, Aug. 1, 1964, 78 S
 
 40:193t (words after 5th comma).
 
-In subsection (a), the words "section 5375 of title 5" are substituted for "section 5365 of title 5" because of section 801(a)(3)(A)(ii) of the Civil Service Reform Actof 1978 (Public Law 95–454, 92 Stat. 1221), which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375 of title 5. The words "or their designees" are substituted for "or their authorized representatives" for consistency in the revised chapter.
+In subsection (a), the words "section 5375 of title 5" are substituted for "section 5365 of title 5" because of section 801(a)(3)(A)(ii) of the Civil Service Reform Act of 1978 (Public Law 95–454, 92 Stat. 1221), which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375 of title 5. The words "or their designees" are substituted for "or their authorized representatives" for consistency in the revised chapter.
 
 In subsection (b)(2), the words "within which the specified buildings and grounds are located" are substituted for "within which the aforementioned buildings are located" for clarity.
 

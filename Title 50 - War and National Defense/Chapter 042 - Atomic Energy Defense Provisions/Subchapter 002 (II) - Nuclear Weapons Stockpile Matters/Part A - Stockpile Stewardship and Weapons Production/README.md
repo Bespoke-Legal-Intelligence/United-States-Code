@@ -31,3 +31,4 @@ Part A—Stockpile Stewardship and Weapons Production
 - [&sect; 02538a - Plutonium pit production capacity](%C2%A7%2002538a%20-%20Plutonium%20pit%20production%20capacity.md)
 - [&sect; 02538b - Stockpile responsiveness program](%C2%A7%2002538b%20-%20Stockpile%20responsiveness%20program.md)
 - [&sect; 02538c - Long-term plan for meeting national security requirements for unencumbered uranium](%C2%A7%2002538c%20-%20Long-term%20plan%20for%20meeting%20national%20security%20requirements%20for%20unencumbered%20uranium.md)
+- [&sect; 02538d - Incorporation of integrated surety architecture](%C2%A7%2002538d%20-%20Incorporation%20of%20integrated%20surety%20architecture.md)

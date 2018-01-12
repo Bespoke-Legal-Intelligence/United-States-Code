@@ -10,7 +10,7 @@
 
 &emsp;(4) Assault by striking, beating, or wounding, by a fine under this title or imprisonment for not more than 1 year, or both.
 
-&emsp;(5) Simple assault, by a fine under this title or imprisonment for not more than six months, or both, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both.
+&emsp;(5) Simple assault, by a fine under this title or imprisonment for not more than six months, or both, or if the victim of the assault is an individual who has not attained the ageof 16 years, by fine under this title or imprisonment for not more than 1 year, or both.
 
 &emsp;(6) Assault resulting in serious bodily injury, by a fine under this title or imprisonment for not more than ten years, or both.
 
@@ -68,7 +68,7 @@ Pub. L. 104–294, §604(b)(7), repealed Pub. L. 103–322, §170201(c)(1)–(3)
 
 <b>1994</b>—Pub. L. 103–322, §330016(2)(B), substituted "a fine under this title" for "fine of not more than" through the immediately following dollar amount wherever appearing.
 
-Pub. L. 103–322, §320101(c), as amended by Pub. L. 104–294, §604(b)(12)(B), which directed the amendment ofsubsec. (c) by substituting "ten years" for "five years" and the amendment of subsec. (e) by substituting "six months" for "three months", were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
+Pub. L. 103–322, §320101(c), as amended by Pub. L. 104–294, §604(b)(12)(B), which directed the amendment of subsec. (c) by substituting "ten years" for "five years" and the amendment of subsec. (e) by substituting "six months" for "three months", were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
 
 Pub. L. 103–322, §170201(a)–(d), as amended by Pub. L. 104–294, §604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) ", or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both", and added subsecs. (a)(7) and (b).
 

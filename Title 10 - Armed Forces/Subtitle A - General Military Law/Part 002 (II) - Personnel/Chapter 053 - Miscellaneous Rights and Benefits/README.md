@@ -90,13 +90,13 @@ Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, 
 
 Pub. L. 102–25, title VII, §701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck out "mandatory" after "error in" in item 1053.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title V, §§502(b)(2), 551(a)(2), title XIV, §1481(c)(2), Nov. 5, 1990, 104 Stat.1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 "Preseparation counseling requirement".
+<b>1990</b>—Pub. L. 101–510, div. A, title V, §§502(b)(2), 551(a)(2), title XIV, §1481(c)(2), Nov. 5, 1990, 104 Stat. 1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 "Preseparation counseling requirement".
 
 <b>1989</b>—Pub. L. 101–189, div. A, title VI, §664(a)(3)(B), Nov. 29, 1989, 103 Stat. 1466, substituted "Reimbursement for financial institution charges incurred because of Government" for "Relief for expenses because of" in item 1053.
 
 <b>1988</b>—Pub. L. 100–456, div. A, title VI, §621(a)(2), title VIII, §846(a)(2), Sept. 29, 1988, 102 Stat. 1983, 2030, substituted "Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions" for "Communicating with a Member of Congress" in item 1034 and added item 1055.
 
-Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissary stores; eligibility attributable to active duty for training".
+Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissarystores; eligibility attributable to active duty for training".
 
 <b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 "Disability and death compensation: dependents of members held as captives".
 

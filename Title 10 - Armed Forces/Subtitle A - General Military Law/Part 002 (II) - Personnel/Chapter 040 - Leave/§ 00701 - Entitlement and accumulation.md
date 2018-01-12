@@ -44,7 +44,7 @@
 
 (h) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 
-(i)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a childis allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.
+(i)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.
 
 (B) Under the regulations prescribed for purposes of this subsection, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the adoption of a child is allowed up to six weeks of total leave to be used in connection with such adoption.
 

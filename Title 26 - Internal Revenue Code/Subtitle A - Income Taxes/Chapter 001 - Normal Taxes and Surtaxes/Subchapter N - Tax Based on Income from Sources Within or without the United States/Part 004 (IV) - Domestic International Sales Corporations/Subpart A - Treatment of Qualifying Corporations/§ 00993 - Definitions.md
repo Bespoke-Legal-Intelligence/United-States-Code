@@ -56,7 +56,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;(7) obligations issued, guaranteed, or insured, in whole or in part, by the Export-Import Bank of the United States or the Foreign Credit Insurance Association in those cases where such obligations are acquired from such Bank or Association or from the seller or purchaser of the goods or services with respect to which such obligations arose;
 
-&emsp;(8) obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to anagreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
+&emsp;(8) obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to an agreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
 
 &emsp;(9) amounts (other than reasonable working capital) on deposit in the United States that are utilized during the period provided for in, and otherwise in accordance with, regulations prescribed by the Secretary to acquire other qualified export assets.
 
@@ -72,7 +72,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(C) not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
 
-> &emsp;In applying subparagraph (C), the fair market value of any article imported into the United States shall be its appraised value as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
+> &emsp;In applying subparagraph (C), the fair market value of any article imported into the United States shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
 
 #### (2) Excluded property
 
@@ -110,7 +110,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (2) Limitation
 
-&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
+&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, doesnot exceed an amount determined by multiplying the sum of—
 
 &emsp;&emsp;(A) the amount of the borrower's adjusted basis determined at the beginning of the borrower's taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
 
@@ -118,7 +118,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(C) the aggregate amount of the borrower's research and experimental expenditures (within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971,
 
-> &emsp;by the percentage which the borrower's receipts, during the 3 taxable years immediately preceding the taxable year (but not including any taxable year commencing prior to 1972) in which the loan is made, from the sale, lease, or rental outside the United States of property which would be export property (determinedwithout regard to subparagraph (C) or (D) of subsection (c)(2)) if held by a DISC is of the gross receipts during such 3 taxable years from the sale, lease, or rental of property held by such borrower primarily for sale, lease, or rental to customers in the ordinary course of the trade or business of such borrower.
+> &emsp;by the percentage which the borrower's receipts, during the 3 taxable years immediately preceding the taxable year (but not including any taxable year commencing prior to 1972) in which the loan is made, from the sale, lease, or rental outside the United States of property which would be export property (determined without regard to subparagraph (C) or (D) of subsection (c)(2)) if held by a DISC is of the gross receipts during such 3 taxable years from the sale, lease, or rental of property held by such borrower primarily for sale, lease, or rental to customers in the ordinary course of the trade or business of such borrower.
 
 #### (3) Increased investment requirement
 
@@ -168,7 +168,7 @@ In determining whether a corporation (hereinafter in this subsection referred to
 
 &emsp;A foreign corporation is a related foreign export corporation if—
 
-&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation,
+&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of allclasses of stock entitled to vote is owned directly by the domestic corporation,
 
 &emsp;&emsp;(B) 95 percent or more of such foreign corporation's gross receipts for its taxable year ending with or within the taxable year of the domestic corporation consists of qualified export receipts described in subparagraphs (A), (B), (C), and (D) of subsection (a)(1) and interest on any obligation described in paragraphs (3) and (4) of subsection (b), and
 
@@ -260,7 +260,7 @@ In general.—Except as provided in paragraph (2), the amendments made by subsec
 
 "(2)
 
-Binding contract.—The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term 'fixed contract' means a contract which was, on March 18, 1975, and is at all times thereafter binding on the DISC or a taxpayer which wasa member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased."
+Binding contract.—The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term 'fixed contract' means a contract which was, on March 18, 1975, and is at all times thereafter binding on the DISC or a taxpayer which was a member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased."
 
 #### Effective Date of 1974 Amendment
 

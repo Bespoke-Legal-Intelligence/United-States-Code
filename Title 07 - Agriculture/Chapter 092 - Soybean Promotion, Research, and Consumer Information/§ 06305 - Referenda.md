@@ -8,7 +8,7 @@
 
 #### (2) Advance notice
 
-&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advanceof any referendum. Any such notice shall be provided without advertising expenses by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county Extension Service offices and county Agricultural Stabilization and Conservation Service offices, and by other appropriate means specified in the order. Such notice shall include information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent facts.
+&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. Any such notice shall be provided without advertising expenses by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county Extension Service offices and county Agricultural Stabilization and Conservation Service offices, and by other appropriate means specified in the order. Such notice shall include information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent facts.
 
 #### (3) Approval of order
 
@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of an additional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
+&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of anadditional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
 
 #### (B) Method of making request
 

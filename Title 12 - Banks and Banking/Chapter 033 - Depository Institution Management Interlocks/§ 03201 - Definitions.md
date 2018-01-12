@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(3) the characterization of any corporation (including depository institutions and depository holding companies), as an "affiliate of," or as "affiliated" with any other corporation means that—
 
-&emsp;&emsp;(A) one of the corporations is a depository holding company and the other is a subsidiary thereof, or both corporations are subsidiaries of the same depository holding company, as the term "subsidiary" is defined in either section 1841(d) of this title in the case of a bank holding company or section 1730a(a)(1)(H) <sup>1</sup> of this title in the case of a savings and loan holding company; or
+&emsp;&emsp;(A) one of the corporations is a depository holding company and the other is a subsidiary thereof, or both corporations are subsidiaries of the same depository holding company, as the term "subsidiary" is defined ineither section 1841(d) of this title in the case of a bank holding company or section 1730a(a)(1)(H) <sup>1</sup> of this title in the case of a savings and loan holding company; or
 
 &emsp;&emsp;(B) more than 25 percent of the voting stock of one corporation is beneficially owned in the aggregate by one or more persons who also beneficially own in the aggregate more than 25 percent of the voting stock of the other corporation; or
 

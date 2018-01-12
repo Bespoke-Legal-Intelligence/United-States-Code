@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(9) "documentary material" includes any book, paper, document, record, recording, or other material; and
 
-&emsp;(10) "Attorney General" includes the Attorney General of the United States, the Deputy Attorney General of the United States, the Associate Attorney General of the United States, any Assistant Attorney General of the United States, or any employee of the Department of Justice or any employee of any department or agency of the United States so designated by the Attorney General to carry out the powers conferred on the Attorney General by this chapter. Any department or agency so designated may use in investigations authorized by this chapter either the investigative provisions of this chapter or the investigative power of such department or agency otherwise conferred by law.
+&emsp;(10) "Attorney General" includes the Attorney General of the United States, the Deputy Attorney General of the United States, the Associate Attorney General of the United States, any Assistant Attorney General of the United States, or any employee of the Department of Justice or any employee of any department or agency of the United States so designated by the Attorney General to carry out the powers conferred on the Attorney General by this chapter. Any department or agency so designated may use in investigations authorizedby this chapter either the investigative provisions of this chapter or the investigative power of such department or agency otherwise conferred by law.
 
 (Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941; amended Pub. L. 95–575, §3(c), Nov. 2, 1978, 92 Stat. 2465; Pub. L. 95–598, title III, §314(g), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 98–473, title II, §§901(g), 1020, Oct. 12, 1984, 98 Stat. 2136, 2143; Pub. L. 98–547, title II, §205, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 99–570, title I, §1365(b), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 99–646, §50(a), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §§7013, 7020(c), 7032, 7054, 7514, Nov. 18, 1988, 102 Stat. 4395, 4396, 4398, 4402, 4489; Pub. L. 101–73, title IX, §968, Aug. 9, 1989, 103 Stat. 506; Pub. L. 101–647, title XXXV, §3560, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title IX, §90104, title XVI, §160001(f), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1987, 2037, 2150; Pub. L. 103–394, title III, §312(b), Oct. 22, 1994, 108 Stat. 4140; Pub. L. 104–132, title IV, §433, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–153, §3, July 2, 1996, 110 Stat. 1386; Pub. L. 104–208, div. C, title II, §202, Sept. 30, 1996, 110 Stat. 3009–565; Pub. L. 104–294, title VI, §§601(b)(3), (i)(3), 604(b)(6), Oct. 11, 1996, 110 Stat. 3499, 3501, 3506; Pub. L. 107–56, title VIII, §813, Oct. 26, 2001, 115 Stat. 382; Pub. L. 107–273, div. B, title IV, §4005(f)(1), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–193, §5(b), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 108–458, title VI, §6802(e), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 109–164, title I, §103(c), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title IV, §403(a), Mar. 9, 2006, 120 Stat. 243; Pub. L. 113–4, title XII, §1211(a), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–153, §3(b), May 11, 2016, 130 Stat. 382.)
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 95–575 effective Nov. 2, 1978, see section 4 of Pub. L. 9
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, ch. III (§§301–322), §301, Oct. 12, 1984, 98 Stat. 2040, provided that: "This title \[probablymeans this chapter, enacting sections 1589, 1600, 1613a, and 1616 of Title 19, Customs Duties and sections 853, 854, and 970 of Title 21, Food and Drugs, amending section 1963 of this title and sections 1602, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1618, 1619, and 1644 of Title 19, sections 824, 848, and 881 of Title 21, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing section 7607 of Title 26, Internal Revenue Code\] may be cited as the 'Comprehensive Forfeiture Act of 1984'."
+Pub. L. 98–473, title II, ch. III (§§301–322), §301, Oct. 12, 1984, 98 Stat. 2040, provided that: "This title \[probably means this chapter, enacting sections 1589, 1600, 1613a, and 1616 of Title 19, Customs Duties and sections 853, 854, and 970 of Title 21, Food and Drugs, amending section 1963 of this title and sections 1602, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1618, 1619, and 1644 of Title 19, sections 824, 848, and 881 of Title 21, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing section 7607 of Title 26, Internal Revenue Code\] may be cited as the 'Comprehensive Forfeiture Act of 1984'."
 
 #### Short Title of 1970 Amendment
 
@@ -144,7 +144,7 @@ Amendment by section 314 of Pub. L. 95–598 not to affect the application of ch
 
 #### Separability
 
-Pub. L. 91–452, title XIII, §1301, Oct. 15, 1970, 84 Stat. 962, provided that: "If the provisions of any part of this Act \[see Short Title of 1970 Amendment note set out above\] or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby."
+Pub. L. 91–452, title XIII, §1301, Oct. 15, 1970, 84 Stat. 962, provided that: "If the provisions of any part of thisAct \[see Short Title of 1970 Amendment note set out above\] or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby."
 
 #### Congressional Statement of Findings and Purpose
 
@@ -176,7 +176,7 @@ Pub. L. 98–368, July 17, 1984, 98 Stat. 490, provided for the Commission estab
 
 #### Executive Order No. 12435
 
-Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President's Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of theFederal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President's Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) it is in the national security interests of the United States to respond to the needs of displaced Syrian persons and the communities hosting such persons, including with food assistance; and
 
-&emsp;(3) after four years of conflict in Syria and the onset of other major humanitarian emergencies where, like Syria, the provision of certain United States humanitarian assistance has been particularly challenging, including the 2013 super-typhoon in the Philippines, the2014 outbreak of Ebola in west Africa, the 2015 earthquake in Nepal, ongoing humanitarian disasters in Yemen and South Sudan, and the threat of a major El Nino event in 2016, United States international disaster assistance has become severely stressed.
+&emsp;(3) after four years of conflict in Syria and the onset of other major humanitarian emergencies where, like Syria, the provision of certain United States humanitarian assistance has been particularly challenging, including the 2013 super-typhoon in the Philippines, the 2014 outbreak of Ebola in west Africa, the 2015 earthquake in Nepal, ongoing humanitarian disasters in Yemen and South Sudan, and the threat of a major El Nino event in 2016, United States international disaster assistance has become severely stressed.
 
 #### (b) Statement of policy
 

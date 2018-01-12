@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever with respect to a single family mortgage securing a loan under section 1452b <sup>1</sup> of this title, the Secretary of Housing and Urban Development or its foreclosure agent forecloses in any Federal or State court or pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to any interests senior to the interests of the Secretary. With respect to properties that are vacant and abandoned, notwithstanding any State law to the contrary, there shall be no right of redemption (including all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with such single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
+Whenever with respect to a single family mortgage securing a loan under section 1452b <sup>1</sup> of this title, the Secretary of Housing and UrbanDevelopment or its foreclosure agent forecloses in any Federal or State court or pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to any interests senior to the interests of the Secretary. With respect to properties that are vacant and abandoned, notwithstanding any State law to the contrary, there shall be no right of redemption (including all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with such single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
 
 #### (b) Foreclosure by others
 
@@ -14,7 +14,7 @@ The following actions shall be taken in order to verify title in the purchaser a
 
 &emsp;(1) In the case of a judicial foreclosure in any Federal or State court, there shall be included in the petition and in the judgment of foreclosure a statement that the foreclosure is in accordance with this subsection and that there is no right of redemption in the mortgagor or any other person.
 
-&emsp;(2) In the case of a foreclosure pursuant to a power of sale provision in the mortgage, thestatement required in paragraph (1) shall be included in the advertisement of the sale and either in the recitals of the deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale or in an affidavit or addendum to the deed.
+&emsp;(2) In the case of a foreclosure pursuant to a power of sale provision in the mortgage, the statement required in paragraph (1) shall be included in the advertisement of the sale and either in the recitals of the deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale or in an affidavit or addendum to the deed.
 
 #### (d) Definitions
 

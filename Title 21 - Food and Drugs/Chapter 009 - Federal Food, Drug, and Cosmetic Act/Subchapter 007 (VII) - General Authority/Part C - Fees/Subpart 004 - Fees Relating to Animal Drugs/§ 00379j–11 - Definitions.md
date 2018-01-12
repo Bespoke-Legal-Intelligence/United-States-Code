@@ -78,7 +78,7 @@ Par. (11). Pub. L. 110–85, §109(b), substituted "379g(11)" for "379g(9)".
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–14, title I, §106, June 13, 2013, 127 Stat. 464, provided that: "The amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act."
+Pub. L. 113–14, title I, §106, June 13, 2013, 127 Stat. 464, provided that: "The amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended bythis title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act."
 
 #### Effective and Termination Dates of 2008 Amendment
 
@@ -114,7 +114,7 @@ Pub. L. 108–130, §2, Nov. 18, 2003, 117 Stat. 1361, provided that: "Congress 
 
 &emsp;"(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of new animal drug applications.
 
-&emsp;"(3) The fees authorized by this Act \[enacting this subpart and provisions set out as notes under thissection and section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+&emsp;"(3) The fees authorized by this Act \[enacting this subpart and provisions set out as notes under this section and section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 #### Accountability and Reports
 
@@ -126,7 +126,7 @@ Public Accountability.—
 
 &emsp;"(1)
 
-Consultation.—In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[21 U.S.C. 379j–11, 379j–12\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
+Consultation.—In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[21 U.S.C. 379j–11, 379j–12\], the Secretary of Health and Human Services (referred to inthis section as the 'Secretary') shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
 
 &emsp;"(2)
 

@@ -6,7 +6,7 @@ The Commission shall, by rule, require, for each company filing periodic reports
 
 &emsp;(1) the signing officer has reviewed the report;
 
-&emsp;(2) based on the officer's knowledge, the report does not contain any untrue statement of a material fact or omit to state a materialfact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading;
+&emsp;(2) based on the officer's knowledge, the report does not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading;
 
 &emsp;(3) based on such officer's knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition and results of operations of the issuer as of, and for, the periods presented in the report;
 

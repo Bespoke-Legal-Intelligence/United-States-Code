@@ -64,7 +64,7 @@ Limitation on recoupment of offset amount.—Any amount subject to offset under 
 
 &emsp;&emsp;(C) a detailed accounting of how the offset amount being recouped and retired pay deduction amount being refunded were calculated; and
 
-&emsp;&emsp;(D) contact information for a person who can provide information about the offset recoupment and retired pay deduction refund processes and answer questions the surviving spouse or former spouse may have about the requirements, processes, or amounts.
+&emsp;&emsp;(D) contact information for a person who can provide information about the offset recoupment and retired pay deduction refund processes and answer questions the surviving spouse or former spouse may haveabout the requirements, processes, or amounts.
 
 (d)
 
@@ -140,7 +140,7 @@ Copy of court order or other official statement.—Either—
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes ofsubparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -272,7 +272,7 @@ Termination of annuity.—If, after a determination under paragraph (1), the Sec
 
 &emsp;&emsp;(B)
 
-Collection from participant of annuity amounts erroneously paid.—A debtunder subparagraph (A)(ii) may be collected or offset—
+Collection from participant of annuity amounts erroneously paid.—A debt under subparagraph (A)(ii) may be collected or offset—
 
 &emsp;&emsp;&emsp;(i) from any retired pay otherwise payable to the participant;
 
@@ -316,9 +316,11 @@ Amount of payment.—Subject to paragraph (3), the amount of the allowance paid 
 
 &emsp;&emsp;(G) for months during fiscal year 2015, $200;
 
-&emsp;&emsp;(H) for months during fiscal year 2016, $275; and
+&emsp;&emsp;(H) for months during fiscal year 2016, $275;
 
-&emsp;&emsp;(I) for months during each of fiscal years 2017 and 2018, $310.
+&emsp;&emsp;(I) for months from October 2016 through December 2018, $310; and
+
+&emsp;&emsp;(J) for months during any calendar year after 2018, the amount determined in accordance with paragraph (6).
 
 &emsp;(3)
 
@@ -334,11 +336,27 @@ Source of funds.—The special survivor indemnity allowance shall be paid from a
 
 &emsp;(6)
 
-Effective date and duration.—This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on May 31, 2018. Effective on June 1, 2018, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after June 1, 2018.
+Cost-of-living adjustments after 2018.—
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–291, div. A, title VI, §624(a)(1), (2)(A), Dec. 19, 2014, 128 Stat. 3403; Pub. L. 114–328, div. A, title VI, §§642(d), 643(c)(2), 646, Dec. 23, 2016, 130 Stat. 2165, 2166, 2168.)
+&emsp;&emsp;(A)
+
+In general.—The amount of the allowance payable under paragraph (1) for months during any calendar year beginning after 2018 shall be—
+
+&emsp;&emsp;&emsp;(i) the amount payable pursuant to paragraph (2) for months during the preceding calendar year, plus
+
+&emsp;&emsp;&emsp;(ii) an amount equal to the percentage of the amount determined pursuant to clause (i) which percentage is equal to the percentage increase in retired pay of members and former members of the armed forces for such calendar year under section 1401a of this title.
+
+&emsp;&emsp;(B)
+
+Public notice on amount of allowance payable.—The Secretary of Defense shall publish in the Federal Register each year the amount of the allowance payable under paragraph (1) for months in such year by reason of the operation of this paragraph.
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3),\(c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–291, div. A, title VI, §624(a)(1), (2)(A), Dec. 19, 2014, 128 Stat. 3403; Pub. L. 114–328, div. A, title VI, §§642(d), 643(c)(2), 646, Dec. 23, 2016, 130 Stat. 2165, 2166, 2168; Pub. L. 115–91, div. A, title VI, §621, Dec. 12, 2017, 131 Stat. 1427.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (m)(2)(I), (J). Pub. L. 115–91, §621(1), added subpars. (I) and (J) and struck out former subpar. (I) which read as follows: "for months during each of fiscal years 2017 and 2018, $310."
+
+Subsec. (m)(6). Pub. L. 115–91, §621(2), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on May 31, 2018. Effective on June 1, 2018, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after June 1, 2018."
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–328, §643(c)(2)(A), inserted "or CRSC" after "Retired Pay" in heading.
 
@@ -442,7 +460,7 @@ Subsec. (k)(1). Pub. L. 99–145, §717(1), (2), designated existing provisions 
 
 Subsec. (k)(2). Pub. L. 99–145, §717(3), added par. (2).
 
-Subsec. (l)(1). Pub. L. 99–145, §719(6)(A), (8)(A), substituted in first sentence "the Plan" for "the plan" intwo places, and substituted "retired pay" for "retired or retainer pay" before "has been suspended".
+Subsec. (l)(1). Pub. L. 99–145, §719(6)(A), (8)(A), substituted in first sentence "the Plan" for "the plan" in two places, and substituted "retired pay" for "retired or retainer pay" before "has been suspended".
 
 Subsec. (l)(2). Pub. L. 99–145, §719(6)(B), struck out "the provision of" before "this subchapter".
 

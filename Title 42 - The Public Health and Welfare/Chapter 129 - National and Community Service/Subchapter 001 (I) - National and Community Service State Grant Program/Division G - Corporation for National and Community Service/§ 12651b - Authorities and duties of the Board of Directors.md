@@ -82,7 +82,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;&emsp;&emsp;(ii) shall provide that the program (including any program operated by another Federal agency) will comply with all requirements related to evaluation, performance, and other goals applicable to similar programs under the national service laws, as determined by the Corporation,
 
-&emsp;(11) prepare and make recommendations to the authorizing committees and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(11) of this title, which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012.
+&emsp;(11) prepare and make recommendations to the authorizing committees and the Presidentfor changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(11) of this title, which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012.
 
 #### (h) Administration
 
@@ -118,7 +118,7 @@ Subsec. (g)(8). Pub. L. 111–13, §1702(4), substituted "the authorizing commit
 
 Subsec. (g)(10). Pub. L. 111–13, §1702(5), added par. (10) and struck out former par. (10) which read as follows: "notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of 1973 (except as provided in section 108 of the Domestic Volunteer Service Act of 1973), which may provide that the agency or organization shall pay all or a part of the costs of the program; and".
 
-Subsec. (g)(11). Pub. L. 111–13, §1702(6), substituted "authorizing committees" for "Congress" in twoplaces, "section 12651d(b)(11)" for "section 12651d(b)(10)", and "January 1, 2012" for "September 30, 1995".
+Subsec. (g)(11). Pub. L. 111–13, §1702(6), substituted "authorizing committees" for "Congress" in two places, "section 12651d(b)(11)" for "section 12651d(b)(10)", and "January 1, 2012" for "September 30, 1995".
 
 <b>1993</b>—Subsec. (g)(5)(A), (B). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 192A(g)(5) of subtitle I of the National and Community Service Act of 1990 by substituting "the national service laws" for "this chapter", was executed to subsec. (g)(5) of this section, which is section 192A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 

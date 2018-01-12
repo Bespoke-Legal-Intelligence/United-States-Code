@@ -163,7 +163,7 @@ The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec
 
 <b>2000</b>—Subsec. (a)(1)(C). Pub. L. 106–393 inserted "or the Secure Rural Schools and Community Self-Determination Act of 2000" before semicolon at end.
 
-<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted "93 cents during fiscal year 1995, $1.11 duringfiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land" for "75 cents for each acre of entitlement land".
+<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted "93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land" for "75 cents for each acre of entitlement land".
 
 Subsec. (b)(1)(B). Pub. L. 103–397, §2(a)(2), substituted "12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land" for "10 cents for each acre of entitlement land".
 
@@ -194,6 +194,10 @@ Pub. L. 103–397, §5(b)(2), Oct. 22, 1994, 108 Stat. 4159, provided for the am
 Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1997.
 
 Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
+
+#### Proportional Payments to Local Governments
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 452, provided in part: "That in the event the sums appropriated for any fiscal year for payments pursuant to that chapter \[meaning chapter 69 of Title 31, 31 U.S.C. 6901 et seq.\] are less than the full payments to all units of local government, then the payment to each local government shall be made proportionally."
 
 #### Payments Made Prior to January 1, 1983
 

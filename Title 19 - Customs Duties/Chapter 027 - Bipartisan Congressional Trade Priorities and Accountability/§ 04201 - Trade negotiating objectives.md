@@ -52,7 +52,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (3) Trade in agriculture
 
-&emsp;The principal negotiating objective of the United States with respect to agriculture is to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value added commodities by—
+&emsp;The principal negotiating objective of the United States with respect to agriculture is to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent tothe competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value added commodities by—
 
 &emsp;&emsp;(A) securing more open and equitable market access through robust rules on sanitary and phytosanitary measures that—
 
@@ -112,7 +112,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(Q) seeking to secure the broadest market access possible in multilateral, regional, and bilateral negotiations, recognizing the effect that simultaneous sets of negotiations may have on United States import sensitive commodities (including those subject to tariff rate quotas);
 
-&emsp;&emsp;(R) seeking to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area;
+&emsp;&emsp;(R) seeking to develop an international consensus on the treatment of seasonal orperishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area;
 
 &emsp;&emsp;(S) seeking to establish the common base year for calculating the Aggregated Measurement of Support (as defined in the Agreement on Agriculture) as the end of each country's Uruguay Round implementation period, as reported in each country's Uruguay Round market access schedule;
 
@@ -178,7 +178,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(vi) preventing or eliminating government involvement in the violation of intellectual property rights, including cyber theft and piracy;
 
-&emsp;&emsp;(B) to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection; and
+&emsp;&emsp;(B) to secure fair, equitable, and nondiscriminatory market access opportunitiesfor United States persons that rely upon intellectual property protection; and
 
 &emsp;&emsp;(C) to respect the Declaration on the TRIPS Agreement and Public Health, adopted by the World Trade Organization at the Fourth Ministerial Conference at Doha, Qatar on November 14, 2001, and to ensure that trade agreements foster innovation and promote access to medicines.
 
@@ -302,9 +302,9 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(A) to achieve full implementation and extend the coverage of the World Trade Organization and multilateral and plurilateral agreements to products, sectors, and conditions of trade not adequately covered;
 
-&emsp;&emsp;(B) to expand country participation in and enhancement of the Information Technology Agreement, the Government Procurement Agreement, and other plurilateral trade agreements of the World Trade Organization;
+&emsp;&emsp;(B) to expand country participation in and enhancement of the Information Technology Agreement, the Government ProcurementAgreement, and other plurilateral trade agreements of the World Trade Organization;
 
-&emsp;&emsp;(C) to expand competitive market opportunities for United States exports and to obtain fairer and more open conditions of trade, including through utilization of global value chains, through the negotiation of new WTO multilateral and plurilateral tradeagreements, such as an agreement on trade facilitation;
+&emsp;&emsp;(C) to expand competitive market opportunities for United States exports and to obtain fairer and more open conditions of trade, including through utilization of global value chains, through the negotiation of new WTO multilateral and plurilateral trade agreements, such as an agreement on trade facilitation;
 
 &emsp;&emsp;(D) to ensure that regional trade agreements to which the United States is not a party fully achieve the high standards of, and comply with, WTO disciplines, including Article XXIV of GATT 1994, Article V and V bis of the General Agreement on Trade in Services, and the Enabling Clause, including through meaningful WTO review of such regional trade agreements;
 
@@ -424,9 +424,9 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;&emsp;(B) to provide technical assistance to that country if needed;
 
-&emsp;(2) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science;
+&emsp;(2) seek to establish consultative mechanisms among parties to trade agreements tostrengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science;
 
-&emsp;(3) promote consideration of multilateral environmental agreements and consult with parties to such agreements regarding the consistency of any such agreement that includestrade measures with existing environmental exceptions under Article XX of GATT 1994; and
+&emsp;(3) promote consideration of multilateral environmental agreements and consult with parties to such agreements regarding the consistency of any such agreement that includes trade measures with existing environmental exceptions under Article XX of GATT 1994; and
 
 &emsp;(4) submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on capacity-building activities undertaken in connection with trade agreements negotiated or being negotiated pursuant to this chapter.
 
@@ -488,7 +488,7 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (C) recommend for congressional consideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
 
-(ii) may redelegate authority delegated by this order and may further assign functions assigned by this order to officers of any other department or agency within the executive branch to the extent permitted by law, and such redelegation or further assignment shall be published in the Federal Register.
+(ii) may redelegate authority delegated by this order and may further assign functions assigned by this orderto officers of any other department or agency within the executive branch to the extent permitted by law, and such redelegation or further assignment shall be published in the Federal Register.
 
 (c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 

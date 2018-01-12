@@ -38,7 +38,7 @@ Preemption.—
 
 &emsp;(1)
 
-Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extentthat such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
+Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ Administrative enforcement.—The provisions of this section (other than paragra
 
 (g)
 
-Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this sectionmay be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
+Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
 
 (h)
 

@@ -16,7 +16,7 @@
 
 &emsp;Except as otherwise provided in this subsection, a plan meets the requirements of this subsection only if—
 
-&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employees which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
+&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employeeswhich is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
 
 &emsp;&emsp;(B) in the case of each class of benefits, such benefits do not discriminate in favor of employees who are highly compensated individuals.
 
@@ -90,7 +90,7 @@ Pub. L. 101–140, §203(a)(1), amended par. (2) to read as if amendments by Pub
 
 Subsec. (b)(7). Pub. L. 101–140, §204(c), inserted at end "This paragraph shall not apply in determining whether the requirements of section 79(d) are met."
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011B(a)(27)(C), inserted at end "This paragraph shall not apply to any organization by reason of a failure to meet the requirements of subsection (b) with respect to a benefit to which section 89 applies."
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011B(a)(27)(C), inserted at end "This paragraph shall not apply to anyorganization by reason of a failure to meet the requirements of subsection (b) with respect to a benefit to which section 89 applies."
 
 Subsec. (b)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted "there shall be" for "there may be" and "who are" for "who may be".
 
@@ -178,7 +178,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below</i>
 

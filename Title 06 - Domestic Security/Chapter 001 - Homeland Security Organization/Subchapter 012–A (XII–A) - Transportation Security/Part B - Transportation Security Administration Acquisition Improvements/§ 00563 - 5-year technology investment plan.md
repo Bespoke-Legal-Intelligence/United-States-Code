@@ -76,7 +76,7 @@ Beginning 2 years after the date the Plan is submitted to Congress under subsect
 
 &emsp;(1) an update of the Plan; and
 
-&emsp;(2) a report on the extent to which each security-related technology acquired by the Administration since the last issuance or updateof the Plan is consistent with the planned technology programs and projects identified under subsection (d)(2) for that security-related technology.
+&emsp;(2) a report on the extent to which each security-related technology acquired by the Administration since the last issuance or update of the Plan is consistent with the planned technology programs and projects identified under subsection (d)(2) for that security-related technology.
 
 (Pub. L. 107–296, title XVI, §1611, as added Pub. L. 113–245, §3(a), Dec. 18, 2014, 128 Stat. 2872.)
 

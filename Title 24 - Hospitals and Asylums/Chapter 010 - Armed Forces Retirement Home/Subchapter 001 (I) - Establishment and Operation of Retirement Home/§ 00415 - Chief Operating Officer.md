@@ -44,7 +44,7 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 #### (e) Administrative staff
 
-(1) The Chief Operating Officer may, subject to the approval of the Secretary of Defense, appoint a staff to assist in the performance of the Chief Operating Officer's duties in the overall administration of the Retirement Home.
+(1) The Chief Operating Officer may, subject to the approval of the Secretary of Defense, appoint a staff to assist in the performance of theChief Operating Officer's duties in the overall administration of the Retirement Home.
 
 (2) The Chief Operating Officer shall prescribe the rates of pay applicable to the members of the staff appointed under paragraph (1), except that—
 

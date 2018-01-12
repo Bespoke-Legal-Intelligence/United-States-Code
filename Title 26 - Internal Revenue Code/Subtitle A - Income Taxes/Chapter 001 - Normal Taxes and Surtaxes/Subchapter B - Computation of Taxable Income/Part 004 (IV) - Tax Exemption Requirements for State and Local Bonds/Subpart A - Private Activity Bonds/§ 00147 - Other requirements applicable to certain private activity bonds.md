@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
+&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held bya person who is a substantial user of the facilities or by a related person of such a substantial user.
 
 #### (2) Related person
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;A qualified 501(c)(3) bond meets the requirements of this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a partare to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
+&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a part are to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
 
 &emsp;&emsp;&emsp;(ii) each loan described in clause (i) satisfies the requirements of paragraph (1) (determined by treating each loan as a separate issue),
 
@@ -146,7 +146,7 @@
 
 #### (G) Acquisition from related person
 
-&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section144(a)(3)) shall not be treated as an acquisition from a related person, if—
+&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section 144(a)(3)) shall not be treated as an acquisition from a related person, if—
 
 &emsp;&emsp;&emsp;(i) the acquisition price is for the fair market value of such land or property, and
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2007" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2007" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
@@ -232,7 +232,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) on behalf of which such bond was issued, and
 
-&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility,with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
+&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
 
 #### (B) Approval by a governmental unit
 
@@ -304,7 +304,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (2) Special rule for small mortgage revenue bond issues
 
-&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting"3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
+&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting "3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
 
 #### (h) Certain rules not to apply to certain bonds
 
@@ -320,7 +320,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152; Pub. L. 115–97, title I, §11002(d)(1)(P), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -335,6 +335,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(H)(ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–95 inserted at end: "The preceding sentence shall not apply to any fixed-wing aircraft equipped for, and exclusively dedicated to providing, acute care emergency medical services (within the meaning of section 4261(g)(2))."
 
@@ -378,6 +380,10 @@ Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted "proceeds" for 
 
 Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted "proceeds" for "aggregate authorized face amount" and "do" for "does".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–95, title XI, §1105(b), Feb. 14, 2012, 126 Stat. 152, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 14, 2012\]."
@@ -396,7 +402,7 @@ Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, se
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by thissection \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1990 Amendment
 

@@ -26,3 +26,7 @@ The Secretary may—
 
 Subsec. (c). Pub. L. 109–154, §2(e)(2), added subsec. (c).
 
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of this title.
+

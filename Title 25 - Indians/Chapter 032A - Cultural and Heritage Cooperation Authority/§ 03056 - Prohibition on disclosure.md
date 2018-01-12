@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the "Freedom of Information Act"), information relating to—
+&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the"Freedom of Information Act"), information relating to—
 
 &emsp;&emsp;(A) subject to subsection (b)(l),<sup>1</sup> human remains or cultural items reburied on National Forest System land under section 3053 of this title; or
 
@@ -53,6 +53,10 @@
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 #### Definition of "Secretary"
 

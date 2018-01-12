@@ -12,6 +12,10 @@
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
+
+Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
+
 #### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
 
 Pub. L. 114–92, div. A, title VII, §728, Nov. 25, 2015, 129 Stat. 873, provided that:
@@ -26,7 +30,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas."
+Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratoryillnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas."
 
 #### Establishment of Open Burn Pit Registry
 
@@ -62,7 +66,7 @@ Reports by independent scientific organization.—The Secretary of Veterans Affa
 
 &emsp;&emsp;"(A) Not later than two years after the date on which the registry under subsection (a) is established, an initial report containing the following:
 
-&emsp;&emsp;&emsp;"(i) An assessment of the effectiveness of actions taken by the Secretaries to collect andmaintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits.
+&emsp;&emsp;&emsp;"(i) An assessment of the effectiveness of actions taken by the Secretaries to collect and maintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits.
 
 &emsp;&emsp;&emsp;"(ii) Recommendations to improve the collection and maintenance of such information.
 
@@ -238,7 +242,7 @@ Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense join
 
 Report.—(1) The agreement under this section shall require the National Academy of Sciences to submit to the committees and secretaries referred to in paragraph (2) a report on the results of the review carried out under the agreement. Such report shall contain the following:
 
-&emsp;"(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing the health consequences of the military service referred to in subsection (a).
+&emsp;"(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing thehealth consequences of the military service referred to in subsection (a).
 
 &emsp;"(B) Recommendations on means of improving the collection and maintenance of such information.
 
@@ -266,7 +270,7 @@ Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense sh
 
 "(d)
 
-Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs andthe Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
+Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
 
 &emsp;"(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 

@@ -60,7 +60,7 @@ Except as otherwise limited by State law, a water pollution control revolving fu
 
 &emsp;&emsp;&emsp;&emsp;(II) an evaluation of the condition and performance of inventoried assets or asset groupings;
 
-&emsp;&emsp;&emsp;&emsp;(III) a certification that the recipient has evaluated and will be implementing water and energy conservation efforts as part of the plan; and
+&emsp;&emsp;&emsp;&emsp;(III) a certification that the recipient has evaluated and will be implementingwater and energy conservation efforts as part of the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) a plan for maintaining, repairing, and, as necessary, replacing the treatment works and a plan for funding such activities; or
 
@@ -178,7 +178,7 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 Subsec. (i)(1)(A). Pub. L. 114–322, §5012(2), inserted "in assistance to a municipality or intermunicipal, interstate, or State agency" before "to benefit" in introductory provisions.
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior toamendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
+<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
 
 Subsec. (d)(1)(A). Pub. L. 113–121, §5003(2)(A)(i), substituted "the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan" for "20 years".
 

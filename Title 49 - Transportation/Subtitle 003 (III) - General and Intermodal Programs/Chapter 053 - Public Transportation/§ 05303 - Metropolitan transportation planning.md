@@ -780,9 +780,9 @@ Treatment.—For the purpose of this title, the Bi-State Metropolitan Planning O
 
 &emsp;&emsp;(B) a transportation management area under subsection (k); and
 
-&emsp;&emsp;(C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area in the State of California and a population of 65,000 and 12 square miles of land area in the State of Nevada.
+&emsp;&emsp;(C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area and 25 square miles of land area <sup>1</sup> in the State of California and a population of 65,000 and 12 square miles of land area and 12 square miles of land area <sup>1</sup> in the State of Nevada.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec. 4, 2015, 129 Stat. 1447; Pub. L. 114–322, title III, §3603(f)(3), Dec. 16, 2016, 130 Stat. 1789.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec. 4, 2015, 129 Stat. 1447; Pub. L. 114–322, title III, §3603(f)(3), Dec. 16, 2016, 130 Stat. 1789; Pub. L. 115–31, div. K, title I, §192, May 5, 2017, 131 Stat. 756.)
 
 Historical and Revision Notes
 
@@ -902,6 +902,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pu
 
 #### Amendments
 
+<b>2017</b>—Subsec. (r)(2)(C). Pub. L. 115–31 made amendment identical to that made by Pub. L. 114–322. See 2016 Amendment note below.
+
 <b>2016</b>—Subsec. (r)(2)(C). Pub. L. 114–322 inserted "and 25 square miles of land area" after "145,000" and "and 12 square miles of land area" after "65,000".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §3003(a)(1), inserted "resilient" after "development of".
@@ -956,7 +958,7 @@ Pub. L. 105–178, §3004(b)(1)(A), as amended by Pub. L. 105–206, §9009(b)(1
 
 Subsec. (c)(2). Pub. L. 105–178, §3004(b)(2), substituted "Each policy board of a metropolitan planning organization that serves an area designated as a transportation management area when designated or redesignated under this subsection shall consist of" for "In a metropolitan area designated as a transportation management area, the designated metropolitan planning organization, if redesignated after December 18, 1991, shall include" and "officials of public agencies" for "officials of authorities".
 
-Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted "within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area" for"in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area".
+Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted "within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area" for "in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area".
 
 Subsec. (c)(4)(A). Pub. L. 105–178, §3004(b)(4), as added by Pub. L. 105–206, §9009(b)(1)(E), directed an amendment identical to that made by Pub. L. 105–102, §2(4)(B). See 1997 Amendment note below.
 
@@ -1026,7 +1028,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: "The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994."
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: "The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301,46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994."
 
 #### Pilot Program for Transit-Oriented Development Planning
 
@@ -1087,4 +1089,6 @@ Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, as amended b
 #### Schedule for Implementation
 
 Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

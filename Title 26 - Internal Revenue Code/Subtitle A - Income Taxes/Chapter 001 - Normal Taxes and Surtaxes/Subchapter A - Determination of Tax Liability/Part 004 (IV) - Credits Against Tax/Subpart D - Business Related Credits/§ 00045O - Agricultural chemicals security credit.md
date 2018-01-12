@@ -68,7 +68,7 @@ Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall appl
 
 #### (h) Regulations
 
-The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations which—
+The Secretary may prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations which—
 
 &emsp;(1) provide for the proper treatment of amounts which are paid or incurred for purpose of protecting any specified agricultural chemical and for other purposes, and
 
@@ -94,5 +94,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-Section applicable to amounts paid or incurred after June 18, 2008, see section 15343(e) of Pub. L. 110–246, setout as an Effective Date of 2008 Amendment note under section 38 of this title.
+Section applicable to amounts paid or incurred after June 18, 2008, see section 15343(e) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
 

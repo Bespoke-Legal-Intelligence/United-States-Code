@@ -10,7 +10,7 @@ Rehabilitation Required To Resume Service.—Notwithstanding subsection (a) of t
 
 (c)
 
-Performance of Prior Duties Prohibited.—An individual who served as an airman,crewmember, airport security screening employee, air carrier employee responsible for safety-sensitive functions (as decided by the Administrator), or employee of the Administration with responsibility for safety-sensitive functions and who was found by the Administrator to have used alcohol or a controlled substance after October 28, 1991, in violation of law or a Government regulation may not carry out the duties related to air transportation that the individual carried out before the finding of the Administrator if the individual—
+Performance of Prior Duties Prohibited.—An individual who served as an airman, crewmember, airport security screening employee, air carrier employee responsible for safety-sensitive functions (as decided by the Administrator), or employee of the Administration with responsibility for safety-sensitive functions and who was found by the Administrator to have used alcohol or a controlled substance after October 28, 1991, in violation of law or a Government regulation may not carry out the duties related to air transportation that the individual carried out before the finding of the Administrator if the individual—
 
 &emsp;(1) used the alcohol or controlled substance when on duty;
 

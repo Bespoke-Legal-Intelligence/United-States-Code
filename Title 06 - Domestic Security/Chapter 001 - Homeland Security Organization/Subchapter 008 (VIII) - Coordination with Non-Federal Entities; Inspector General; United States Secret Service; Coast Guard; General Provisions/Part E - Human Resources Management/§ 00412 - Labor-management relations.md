@@ -30,7 +30,7 @@
 
 #### (2) Limitation relating to positions or employees
 
-&emsp;No position or employee within a unit (or subdivision of a unit) as to which continued recognition is given in accordance with paragraph (1) shall be excluded from such unit (or subdivision), for purposes of chapter 71 of such title 5, unless the primary job duty of such position or employee—
+&emsp;No position or employee within a unit (or subdivision of a unit) as to which continued recognition is given in accordance with paragraph (1) shall be excluded from such unit (orsubdivision), for purposes of chapter 71 of such title 5, unless the primary job duty of such position or employee—
 
 &emsp;&emsp;(A) materially changes; and
 

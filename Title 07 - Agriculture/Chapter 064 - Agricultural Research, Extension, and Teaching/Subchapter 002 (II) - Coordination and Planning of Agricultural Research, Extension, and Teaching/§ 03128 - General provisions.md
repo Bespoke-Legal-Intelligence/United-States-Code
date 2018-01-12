@@ -12,7 +12,7 @@ Members of the Advisory Board shall serve without compensation, if not otherwise
 
 There are authorized to be appropriated annually such sums as Congress may determine necessary to carry out the provisions of section 3127 of this title and subsection (b) of this section.
 
-(Pub. L. 95–113, title XIV, §1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1414(a), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, §1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, §218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, §606(b), (c)(2), June 23, 1998, 112 Stat. 603, 604.)
+(Pub. L. 95–113, title XIV, §1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1414(a), Dec.22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, §1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, §218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, §606(b), (c)(2), June 23, 1998, 112 Stat. 603, 604.)
 
 #### References in Text
 

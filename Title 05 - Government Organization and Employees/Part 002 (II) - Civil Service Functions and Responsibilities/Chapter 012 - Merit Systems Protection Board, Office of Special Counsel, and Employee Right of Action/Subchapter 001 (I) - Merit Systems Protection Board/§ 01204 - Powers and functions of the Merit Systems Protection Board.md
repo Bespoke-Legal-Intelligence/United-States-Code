@@ -22,7 +22,7 @@
 
 (c) In the case of contumacy or failure to obey a subpoena issued under subsection (b)(2)(A) or section 1214(b), upon application by the Board, the United States district court for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
-(d) A subpoena referred to in subsection (b)(2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in such manner as the Federal Rules of Civil Procedure prescribe for service of a subpoena in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such individual, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance under this subsection by such individual that such court would have if such individual were personally within the jurisdiction of such court.
+(d) A subpoena referred to in subsection (b)(2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in such manner as the Federal Rules of Civil Procedure prescribe for service of a subpoena in a foreign country.To the extent that the courts of the United States can assert jurisdiction over such individual, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance under this subsection by such individual that such court would have if such individual were personally within the jurisdiction of such court.
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 
@@ -146,13 +146,13 @@ Subsecs. (k), (l). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. 
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–199, title II, §202, Nov. 27, 2012, 126 Stat. 1476, provided that: "Except as otherwise provided in section 109 \[see Effective Date note set out under section 2304 of this title\], this Act \[see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 27, 2012\]."
+Pub. L. 112–199, title II, §202, Nov. 27, 2012, 126 Stat. 1476, provided that: "Except as otherwise provided in section 109 \[see Effective Date note set out under section 2304 of this title\], this Act \[see section 1 of Pub. L.112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 27, 2012\]."
 
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–424, §14, Oct. 29, 1994, 108 Stat. 4368, provided that: "The provisions of this Act \[amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title\] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act \[Oct. 29, 1994\]."
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set outas an Effective Date note under section 4301 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1989 Amendment
 

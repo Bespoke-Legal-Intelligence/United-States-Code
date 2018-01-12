@@ -80,7 +80,7 @@ A public agency or nonprofit organization may lease or purchase property under t
 
 #### (2) Waiver
 
-&emsp;The Secretary may grant a waiver to a public agency or nonprofit organization that is unable to meet the requirement of paragraph (1), if the agency or organization agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+&emsp;The Secretary may grant a waiver to a public agency or nonprofit organization that isunable to meet the requirement of paragraph (1), if the agency or organization agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (h) Budget compliance
 

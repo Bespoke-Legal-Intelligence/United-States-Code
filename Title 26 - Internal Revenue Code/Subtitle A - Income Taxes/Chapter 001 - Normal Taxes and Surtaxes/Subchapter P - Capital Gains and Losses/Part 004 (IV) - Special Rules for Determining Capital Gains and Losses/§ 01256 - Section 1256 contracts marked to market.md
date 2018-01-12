@@ -142,7 +142,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;The term "hedging loss" means the excess of—
 
-&emsp;&emsp;&emsp;(i) the deductions allowable under this chapter for the taxable year attributable to hedging transactions (determined without regard to subparagraph (A)(i)), over
+&emsp;&emsp;&emsp;(i) the deductions allowable under this chapter for the taxable year attributableto hedging transactions (determined without regard to subparagraph (A)(i)), over
 
 &emsp;&emsp;&emsp;(ii) income received or accrued by the taxpayer during such taxable year from such transactions.
 
@@ -154,7 +154,7 @@ For purposes of this subtitle—
 
 #### (1) Denial of capital gains treatment for property identified as part of a hedging transaction
 
-&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capitalasset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
+&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
 
 #### (2) Subsection (a)(3) not to apply to ordinary income property
 
@@ -334,7 +334,7 @@ Subsec. (g)(9). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(B)\], added
 
 &emsp;"(B) the gain or loss on such transactions is treated as ordinary income or loss, and
 
-&emsp;"(C) before the close of the day on which such transaction was entered into (or such earlier time asthe Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction."
+&emsp;"(C) before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction."
 
 <b>1986</b>—Subsec. (e)(4), (5). Pub. L. 99–514 redesignated par. (5) as (4) and struck out former par. (4), special rule for banks, which read as follows: "In the case of a bank (as defined in section 581), subparagraph (A) of paragraph (2) shall be applied without regard to clause (i) or (ii) thereof."
 
@@ -420,7 +420,7 @@ Special rule for options on regulated futures contracts.—In the case of any op
 
 &emsp;"(3)
 
-Special rule for self-employment tax.—Except as provided in subsection (g)(2), the amendmentsmade by subsection (c) \[amending section 1402 of this title and section 411 of Title 42\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].
+Special rule for self-employment tax.—Except as provided in subsection (g)(2), the amendments made by subsection (c) \[amending section 1402 of this title and section 411 of Title 42\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].
 
 &emsp;"(4)
 
@@ -530,7 +530,7 @@ Retroactive application.—If the taxpayer so elects, the amendments made by sub
 
 &emsp;"(II)
 
-Additional choices with respect to 1981.—If the taxpayer held a foreign currency contract after December 31, 1980, and before June 24, 1981, and such taxpayer makes an election under subclause (I), such taxpayer may revoke any election made under section 508(c) \[set out as an Effective Date note under section 1092 of this title\] or 509(a) \[set out below\] ofsuch Act, and may make an election under section 508(c) or 509(a) of such Act.
+Additional choices with respect to 1981.—If the taxpayer held a foreign currency contract after December 31, 1980, and before June 24, 1981, and such taxpayer makes an election under subclause (I), such taxpayer may revoke any election made under section 508(c) \[set out as an Effective Date note under section 1092 of this title\] or 509(a) \[set out below\] of such Act, and may make an election under section 508(c) or 509(a) of such Act.
 
 &emsp;"(III)
 

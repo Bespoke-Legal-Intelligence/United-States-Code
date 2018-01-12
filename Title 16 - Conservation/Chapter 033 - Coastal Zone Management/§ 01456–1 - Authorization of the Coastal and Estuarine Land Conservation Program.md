@@ -92,7 +92,7 @@ Nothing in this chapter modifies the authority of Federal, State, or local gover
 
 &emsp;&emsp;(B) The appraised value of the land or conservation easement at the time of the grant closing will be considered and applied as the non-Federal cost share.
 
-&emsp;&emsp;(C) Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in <sup>2</sup> (A), within the same time limits described therein. Thesecosts may include either cash or in-kind contributions.
+&emsp;&emsp;(C) Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in <sup>2</sup> (A), within the same time limits described therein. These costs may include either cash or in-kind contributions.
 
 #### (g) Reservation of funds for National Estuarine Research Reserve sites
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (1) Conservation easement
 
-&emsp;The term "conservation easement" includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
+&emsp;The term "conservation easement" includes an easement or restriction, recorded deed, or areserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
 
 #### (2) Interest in property
 

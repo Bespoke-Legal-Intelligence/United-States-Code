@@ -8,11 +8,11 @@
 
 #### (b) Substantial issue of fact or law or likelihood of substantial impact on Nation's economy, etc.; oral presentation
 
-(1) If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a) of this section) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with section 553 of title 5. If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
+(1) If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a)) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with section 553 of title 5. If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
 
-(2) Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, andarguments, may submit material supporting the existence of such substantial issues or such impact.
+(2) Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, and arguments, may submit material supporting the existence of such substantial issues or such impact.
 
-(3) A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a) of this section.
+(3) A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a).
 
 #### (c) Waiver of requirements
 
@@ -20,7 +20,7 @@ The requirements of subsection (b) of this section may be waived where strict co
 
 #### (d) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
 
-(1) With respect to any rule, regulation, or order described in subsection (a) of this section, the effects of which, except for indirect effects of an inconsequential nature, are confined to—
+(1) With respect to any rule, regulation, or order described in subsection (a), the effects of which, except for indirect effects of an inconsequential nature, are confined to—
 
 &emsp;(A) a single unit of local government or the residents thereof;
 
@@ -40,7 +40,7 @@ The requirements of subsection (b) of this section may be waived where strict co
 
 #### (e) Prescription of procedures for State and local government agencies
 
-Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, and shall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
+Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, andshall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
 
 (Pub. L. 95–91, title V, §501, Aug. 4, 1977, 91 Stat. 587; Pub. L. 105–28, §2(a), July 18, 1997, 111 Stat. 245.)
 

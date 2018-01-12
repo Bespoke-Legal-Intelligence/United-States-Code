@@ -56,7 +56,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
+(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing servicein the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
 
 (g)
 
@@ -198,7 +198,7 @@ Pub. L. 106–246 substituted "Department of Defense" for "Federal".
 
 Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added subsec. (m).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the 'National Guard Challenge Program') to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth."
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the 'National Guard Challenge Program') to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth."
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted "$62,500,000" for "$50,000,000".
 

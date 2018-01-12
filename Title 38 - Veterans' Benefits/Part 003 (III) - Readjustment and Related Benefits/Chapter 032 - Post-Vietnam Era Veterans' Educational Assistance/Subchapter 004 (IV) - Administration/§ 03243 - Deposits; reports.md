@@ -18,3 +18,7 @@ Prior sections 3401 to 3405, which comprised chapter 59, were renumbered section
 
 <b>1983</b>—Pub. L. 98–160 inserted "of this title" after "section 1622(c)".
 
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under section 3201 of this title.
+

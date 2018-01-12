@@ -32,7 +32,7 @@ May 25, 1933, ch. 37 (less last sentence); restated Aug. 9, 1946, ch. 932 (less 
 
 Aug. 7, 1947, ch. 512, §506(f) (1st sentence, less last 43 words), 61 Stat. 892.
 
-In subsection (a), the last 27 words are substituted for 10:486a (last sentence). The words "rules and" and "from and after the date of the accrediting of said Academy" are omitted as surplusage. The word "conditions" is substituted for the words "rules and regulations".
+In subsection (a), the last 27 words are substituted for 10:486a (last sentence). The words "rules and" and"from and after the date of the accrediting of said Academy" are omitted as surplusage. The word "conditions" is substituted for the words "rules and regulations".
 
 In subsection (b), the words "except section 541 of this title" are inserted to reflect the authority to appoint graduates of one service academy as officers of another service.
 

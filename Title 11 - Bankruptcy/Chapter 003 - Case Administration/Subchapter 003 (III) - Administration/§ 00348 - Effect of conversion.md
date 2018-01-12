@@ -24,7 +24,7 @@
 
 (2) If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property of the estate in the converted case shall consist of the property of the estate as of the date of conversion.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2568; Pub. L. 99–554, title II, §257(i), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title III, §311, title V, §501(d)(5), Oct. 22, 1994, 108 Stat. 4138, 4144; Pub. L. 109–8, title III, §309(a), title XII, §1207, Apr. 20, 2005, 119Stat. 82, 194; Pub. L. 111–327, §2(a)(11), Dec. 22, 2010, 124 Stat. 3558.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2568; Pub. L. 99–554, title II, §257(i), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title III, §311, title V, §501(d)(5), Oct. 22, 1994, 108 Stat. 4138, 4144; Pub. L. 109–8, title III, §309(a), title XII, §1207, Apr. 20, 2005, 119 Stat. 82, 194; Pub. L. 111–327, §2(a)(11), Dec. 22, 2010, 124 Stat. 3558.)
 
 #### Historical and Revision Notes
 

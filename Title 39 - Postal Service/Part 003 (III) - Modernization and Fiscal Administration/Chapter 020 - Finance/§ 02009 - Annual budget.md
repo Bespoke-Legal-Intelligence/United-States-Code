@@ -10,7 +10,7 @@ The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–435 substituted "The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401,\(2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 8G(f) of the Inspector General Act of 1978, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under section 504(d) of this title." for "The budget program shall also include separate statements of the amounts which the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401 of this title."
+<b>2006</b>—Pub. L. 109–435 substituted "The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401, (2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 8G(f) of the Inspector General Act of 1978, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under section 504(d) of this title." for "The budget program shall also include separate statements of the amounts which the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401 of this title."
 
 <b>1982</b>—Pub. L. 97–258 substituted "section 1105 of title 31" for "section 11 of title 31".
 
@@ -19,6 +19,10 @@ The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct
 #### Effective Date of 2006 Amendment; Savings Provisions
 
 Amendment by Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Operations of Inspector General as Major Type of Activity for Budget Purposes
 

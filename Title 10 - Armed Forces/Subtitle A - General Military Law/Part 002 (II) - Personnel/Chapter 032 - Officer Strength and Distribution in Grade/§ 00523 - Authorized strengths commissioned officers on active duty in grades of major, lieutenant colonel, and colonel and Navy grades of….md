@@ -138,7 +138,7 @@ Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively r
 
 &emsp;"(B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32;
 
-&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering,recruiting, instructing, or training the reserve components;
+&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
 &emsp;"(D) on active duty to pursue special work;
 

@@ -24,7 +24,7 @@ Requirements for Replacement Facilities.—The Secretary of a military departmen
 
 (e)
 
-Consultation Requirements.—The Secretary of a military department authorized to enter into an agreement under subsection (a) to convey an existing facility under the control of that Secretary by exchange shall consult with representatives of other reserve components to evaluate—
+Consultation Requirements.—The Secretary of a military department authorized toenter into an agreement under subsection (a) to convey an existing facility under the control of that Secretary by exchange shall consult with representatives of other reserve components to evaluate—
 
 &emsp;(1) the value of using the facility to meet the military requirements of another reserve component, instead of conveying the facility under this section; and
 
@@ -44,7 +44,7 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 &emsp;(E) A certification that the conveyance of the facility under the agreement is in the best interests of the United States and that the Secretary used competitive procedures to the maximum extent practicable to protect the interests of the United States.
 
-(2) The agreement described in a report prepared under paragraph (1) may be entered into,and the exchange covered by the agreement made, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 21-day period beginning on the date the report is received by the congressional defense committees in an electronic medium pursuant to section 480 of this title.
 
 (3) Section 2662 of this title shall not apply to an exchange carried out using the authority provided by this section.
 
@@ -52,9 +52,11 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 Relation to Other Military Construction Requirements.—The acquisition of a facility, or an addition to an existing facility, using the authority provided by this section shall not be treated as a military construction project for which an authorization is required by section 2802 of this title.
 
-(Added Pub. L. 108–375, div. B, title XXVIII, §2809(a)(1), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 109–163, div. B, title XXVIII, §2808(a), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, §2807, Jan. 28, 2008, 122 Stat. 541.)
+(Added Pub. L. 108–375, div. B, title XXVIII, §2809(a)(1), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 109–163, div. B, title XXVIII, §2808(a), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, §2807, Jan. 28, 2008, 122 Stat. 541; Pub. L. 115–91, div. B, title XXVIII, §2801(g), Dec. 12, 2017, 131 Stat. 1845.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(2). Pub. L. 115–91 substituted "21-day period" for "30-day period" and struck out "or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided" after "defense committees".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State" for "with a State".
 
@@ -78,7 +80,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 "(4) In this section, the term 'facility' has the meaning given that term in section 18232(2) of title 10, United States Code.
 
-"(5) No cash equalization payment may be made or accepted under the authority of this subsection after September 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
+"(5) No cash equalization payment may be made or accepted under the authority of this subsection afterSeptember 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
 
 "(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
 

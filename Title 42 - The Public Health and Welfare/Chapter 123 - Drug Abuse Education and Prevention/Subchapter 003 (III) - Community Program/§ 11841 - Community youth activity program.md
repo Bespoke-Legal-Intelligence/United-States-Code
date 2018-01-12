@@ -112,7 +112,7 @@ Financial assistance may be provided with a grant received under subsection (a)Â
 
 &emsp;&emsp;(F) business organizations; and
 
-> &emsp;in consultation with local and State health departments and with community health ormental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
+> &emsp;in consultation with local and State health departments and with community health or mental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
 
 #### (2) Other activities and projects
 

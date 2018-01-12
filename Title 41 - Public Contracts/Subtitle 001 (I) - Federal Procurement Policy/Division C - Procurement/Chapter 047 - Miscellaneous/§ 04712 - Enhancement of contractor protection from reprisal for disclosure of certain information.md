@@ -128,7 +128,7 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 Definitions.—In this section:
 
-&emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
+&emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authoritythat is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
 
 &emsp;(2) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 

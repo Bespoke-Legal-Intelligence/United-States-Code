@@ -26,7 +26,7 @@
 
 #### (d) Definitions
 
-For the purposes of this section, the terms "navigable" and "navigability" means navigable for the purpose of determining title tolands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\] and section 6(m) of the Alaska Statehood Act.
+For the purposes of this section, the terms "navigable" and "navigability" means navigable for the purpose of determining title to lands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\] and section 6(m) of the Alaska Statehood Act.
 
 (Pub. L. 96–487, title IX, §901, Dec. 2, 1980, 94 Stat. 2430; Pub. L. 99–258, Mar. 19, 1986, 100 Stat. 42; Pub. L. 99–644, Nov. 10, 1986, 100 Stat. 3581; Pub. L. 100–395, title I, §101, Aug. 16, 1988, 102 Stat. 979.)
 

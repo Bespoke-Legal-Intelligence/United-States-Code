@@ -62,7 +62,7 @@ A State other credit support program approved under this section will be eligibl
 
 #### (2) Considerations for fund
 
-&emsp;In prescribing minimum Program requirements for approved State other credit supportprograms, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in section 5704(e) of this title.
+&emsp;In prescribing minimum Program requirements for approved State other credit support programs, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in section 5704(e) of this title.
 
 (Pub. L. 111–240, title III, §3006, Sept. 27, 2010, 124 Stat. 2577.)
 

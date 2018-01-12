@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Oversight Board may at any time submit recommendations to the Governor or the Legislature on actions the territorial government may take to ensure compliance with the Fiscal Plan, or to otherwise promote the financial stability, economic growth, management responsibility, and service delivery efficiency of theterritorial government, including recommendations relating to—
+The Oversight Board may at any time submit recommendations to the Governor or the Legislature on actions the territorial government may take to ensure compliance with the Fiscal Plan, or to otherwise promote the financial stability, economic growth, management responsibility, and service delivery efficiency of the territorial government, including recommendations relating to—
 
 &emsp;(1) the management of the territorial government's financial affairs, including economic forecasting and multiyear fiscal forecasting capabilities, information technology, placing controls on expenditures for personnel, reducing benefit costs, reforming procurement practices, and placing other controls on expenditures;
 

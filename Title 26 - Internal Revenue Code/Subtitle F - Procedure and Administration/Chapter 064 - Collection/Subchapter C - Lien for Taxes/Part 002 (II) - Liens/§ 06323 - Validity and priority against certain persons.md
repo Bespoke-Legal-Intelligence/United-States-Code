@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Deposit-secured loans
 
-&emsp;With respect to a savings deposit, share, or other account with an institution described insection 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
+&emsp;With respect to a savings deposit, share, or other account with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -152,7 +152,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;Where the obligatory disbursement agreement is an agreement ensuring the performance of a contract between the taxpayer and another person—
 
-&emsp;&emsp;&emsp;(i) the term "qualified property" shall be treated as also including the proceeds ofthe contract the performance of which was ensured, and
+&emsp;&emsp;&emsp;(i) the term "qualified property" shall be treated as also including the proceeds of the contract the performance of which was ensured, and
 
 &emsp;&emsp;&emsp;(ii) if the contract the performance of which was ensured was a contract to construct or improve real property, to produce goods, or to furnish services, the term "qualified property" shall be treated as also including any tangible personal property used by the taxpayer in the performance of such ensured contract.
 
@@ -296,7 +296,7 @@ For purposes of this section and section 6324—
 
 #### (6) Purchaser
 
-&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
+&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes ofsubsection (a) of this section, and for purposes of section 6324—
 
 &emsp;&emsp;(A) a lease of property,
 
@@ -312,7 +312,7 @@ For purposes of this section and section 6324—
 
 #### (1) Actual notice or knowledge
 
-&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice orknowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
+&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice or knowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
 
 #### (2) Subrogation
 
@@ -328,7 +328,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 1996" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 1996" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
@@ -352,7 +352,7 @@ For purposes of this section and section 6324—
 
 &emsp;Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761; Pub. L. 115–97, title I, §11002(d)(1)(HH), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -360,11 +360,13 @@ For purposes of this section and section 6324—
 
 #### Amendments
 
+<b>2017</b>—Subsec. (i)(4)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
 <b>1998</b>—Subsec. (b)(4). Pub. L. 105–206, §3435(a)(1)(A), substituted "$1,000" for "$250".
 
 Subsec. (b)(7). Pub. L. 105–206, §3435(a)(1)(B), substituted "$5,000" for "$1,000".
 
-Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
+Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuouslyin possession of such passbook from the time the loan is made."
 
 Subsec. (i)(4). Pub. L. 105–206, §3435(a)(2), added par. (4).
 
@@ -434,6 +436,10 @@ Subsec. (i)(3). Pub. L. 89–719 redesignated provisions of former subsec. (e) a
 
 Subsecs. (d), (e). Pub. L. 88–272, §236(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 1102(d)(1)(A) of Pub. L. 105–206 effective July 22, 1998, see section 1102(f)(1) of Pub. L. 105–206, set out as a note under section 7803 of this title.
@@ -464,7 +470,7 @@ Pub. L. 99–514, title XV, §1569(b), Oct. 22, 1986, 100 Stat. 2764, provided t
 
 Pub. L. 95–600, title VII, §702(q)(3), Nov. 6, 1978, 92 Stat. 2938, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The amendments made by this subsection \[amending this section\] shall apply with respect to liens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
+"(A) The amendments made by this subsection \[amending this section\] shall apply with respect toliens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
 
 "(B) If, after the date of the enactment of this Act, there is a change in the application (or nonapplication) of section 6323(f)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (1)) with respect to any filing jurisdiction, such change shall apply only with respect to liens, other security interests, and other interests in real property acquired after the date of such change."
 

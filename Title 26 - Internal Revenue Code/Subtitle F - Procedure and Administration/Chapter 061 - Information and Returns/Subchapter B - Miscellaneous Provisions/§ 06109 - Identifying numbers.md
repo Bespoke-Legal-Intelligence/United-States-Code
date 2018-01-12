@@ -60,7 +60,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (4) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorizedwillful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
@@ -268,7 +268,7 @@ Pub. L. 101–508, title XI, §11112(b), Nov. 5, 1990, 104 Stat. 1388–413, pro
 
 Amendment by section 703(c)(3) of Pub. L. 100–485 applicable to taxable years beginning after Dec. 31, 1988, see section 703(d) of Pub. L. 100–485, set out as a note under section 21 of this title.
 
-Pub. L. 100–485, title VII, §704(b), Oct. 13, 1988, 102 Stat. 2428, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989."
+Pub. L. 100–485, title VII, §704(b), Oct. 13, 1988, 102 Stat. 2428, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989."
 
 #### Effective Date of 1986 Amendment
 
@@ -306,7 +306,7 @@ Pub. L. 114–113, div. Q, title II, §203(d), Dec. 18, 2015, 129 Stat. 3079, pr
 
 "(1)
 
-In general.—The Secretary of the Treasury, or the Secretary's delegate, shall conduct a study on the effectiveness of the application process for individual taxpayer identification numbers before the implementation of the amendments made by this section \[amending this section and section 6213 of this title\], the effects of the amendments made by this section on such application process, the comparative effectivenessof an in-person review process for application versus other methods of reducing fraud in the ITIN program and improper payments to ITIN holders as a result, and possible administrative and legislative recommendations to improve such process.
+In general.—The Secretary of the Treasury, or the Secretary's delegate, shall conduct a study on the effectiveness of the application process for individual taxpayer identification numbers before the implementation of the amendments made by this section \[amending this section and section 6213 of this title\], the effects of the amendments made by this section on such application process, the comparative effectiveness of an in-person review process for application versus other methods of reducing fraud in the ITIN program and improper payments to ITIN holders as a result, and possible administrative and legislative recommendations to improve such process.
 
 "(2)
 

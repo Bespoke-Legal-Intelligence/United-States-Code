@@ -56,7 +56,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2007" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2007" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Rounding rules
 
@@ -118,9 +118,9 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 #### (f) Other definitions and special rules
 
-#### (1) Compensation
+#### (1) <sup>1</sup> Compensation
 
-&emsp;For purposes of this section, the term "compensation" includes earned income (as defined in section 401(c)(2)). The term "compensation" does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term "compensation" shall include any amount includible in the individual's gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation <sup>1</sup> includes any differential wage payment (as defined in section 3401(h)(2)).
+&emsp;For purposes of this section, the term "compensation" includes earned income (as defined in section 401(c)(2)). The term "compensation" does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term "compensation" shall include any amount includible in the individual's gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation <sup>2</sup> includes any differential wage payment (as defined in section 3401(h)(2)).
 
 #### (2) Married individuals
 
@@ -170,7 +170,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 #### (1) In general
 
-&emsp;If (for any part of any plan year ending with or within a taxable year) an individual or the individual's spouse is an active participant, each of the dollar limitations contained insubsections (b)(1)(A) and (c)(1)(A) for such taxable year shall be reduced (but not below zero) by the amount determined under paragraph (2).
+&emsp;If (for any part of any plan year ending with or within a taxable year) an individual or the individual's spouse is an active participant, each of the dollar limitations contained in subsections (b)(1)(A) and (c)(1)(A) for such taxable year shall be reduced (but not below zero) by the amount determined under paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -204,7 +204,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 &emsp;&emsp;&emsp;(i) after application of sections 86 and 469, and
 
-&emsp;&emsp;&emsp;(ii) without regard to sections 135, 137, 199, 221, 222, and 911 or the deduction allowable under this section.
+&emsp;&emsp;&emsp;(ii) without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
 
 #### (B) Applicable dollar amount
 
@@ -274,15 +274,25 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 #### (8) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each <sup>2</sup> be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each <sup>3</sup> be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043; Pub. L. 115–97, title I, §§11002(d)(1)(S), 11051(b)(3)(C), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2090, 2126.)
+
+#### Amendment of Subsection (f)(1)
+
+<i>Pub. L. 115–97, title I, §11051(b)(3)(C), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (f)(1) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (f)(1) reads as follows:</i>
+
+#### <i>(1) Compensation</i>
+
+&emsp;<i>For purposes of this section, the term "compensation" includes earned income (as defined in section 401(c)(2)). The term "compensation" does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation includes any differential wage payment (as defined in section 3401(h)(2)).</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -293,6 +303,14 @@ For purposes of this section, the term "qualified retirement contribution" means
 A prior section 219 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(5)(C)(i)(II). Pub. L. 115–97, §11002(d)(1)(S), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (f)(1). Pub. L. 115–97, §11051(b)(3)(C), struck out "The term 'compensation' shall include any amount includible in the individual's gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2)." after "deferred compensation."
+
+Subsec. (g)(3)(A)(ii). Pub. L. 115–97, §13305(b)(1), struck out "199," after "137,".
+
+Subsec. (g)(8)(B). Pub. L. 115–97, §11002(d)(1)(S), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2014</b>—Subsec. (b)(5)(A). Pub. L. 113–295, §221(a)(38)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) listed deductible amounts for taxable years 2002 to 2008 and thereafter.
 
@@ -480,7 +498,7 @@ Subsec. (e). Pub. L. 97–34, §311(a), added subsec. (e) incorporating former p
 
 Subsec. (f)(1). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(1) as par. (1).
 
-Subsec. (f)(2). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(2) as par. (2) and, as so redesignated, substituted "deduction under subsections (b) and (c)" for "deduction under subsection (b)(1)", and struck outprovision that for purposes of this section, the determination of whether an individual is married shall be made in accordance with the provisions of section 143(a).
+Subsec. (f)(2). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(2) as par. (2) and, as so redesignated, substituted "deduction under subsections (b) and (c)" for "deduction under subsection (b)(1)", and struck out provision that for purposes of this section, the determination of whether an individual is married shall be made in accordance with the provisions of section 143(a).
 
 Subsec. (f)(3). Pub. L. 97–34, §311(a), redesignated former subsec. (c)(3) as subpar. (A) and, as so redesignated, added subpar. (A) heading "Individual retirement plans", and "to an individual retirement plan" before "on the last day" in text, and added subpar. (B).
 
@@ -519,6 +537,14 @@ Subsec. (c)(2). Pub. L. 94–455, §1501(b)(4)(C), inserted "For purposes of thi
 Subsec. (c)(3). Pub. L. 94–455, §1501(b)(4)(D), added par. (3).
 
 Subsec. (c)(4). Pub. L. 94–455, §1503(a), added par. (4).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(S) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 11051(b)(3)(C) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -612,7 +638,7 @@ Pub. L. 99–514, title XI, §1108(h), Oct. 22, 1986, 100 Stat. 2435, as amended
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 402, 404, 408, 415, 3121, and 3306 of this title\] shall apply to years beginning after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 402, 404, 408, 415, 3121, and 3306 of this title\] shall apply to years beginning after December 31, 1986.
 
 "(2)
 
@@ -662,7 +688,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2)
 
-Transitional rule.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any amount allowed as a deduction under section 220 ofsuch Code (as in effect before its repeal by this Act) shall be treated as if it were allowed by section 219 of such Code.
+Transitional rule.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any amount allowed as a deduction under section 220 of such Code (as in effect before its repeal by this Act) shall be treated as if it were allowed by section 219 of such Code.
 
 "(3)
 
@@ -706,7 +732,7 @@ Pub. L. 95–600, title VII, §703(c)(5), Nov. 6, 1978, 92 Stat. 2939, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1501(d) of Pub. L. 94–455, set out as an Effective Date note under section 62 of this title.
+Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976,see section 1501(d) of Pub. L. 94–455, set out as an Effective Date note under section 62 of this title.
 
 Pub. L. 94–455, title XV, §1503(b), Oct. 4, 1976, 90 Stat. 1738, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975."
 
@@ -762,7 +788,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -772,7 +798,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 95–600, title I, §157(b)(4)(B), Nov. 6, 1978, 92 Stat. 2805, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If, but for this subparagraph, an amount would be allowable as a deduction by reason of section 219(c)(5) or 220(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before January 1, 1978, such amount shall be allowable only for the taxpayer's first taxable year beginning in 1978."
 
-<i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
+<i><sup>1</sup></i><i> See Amendment of Subsection (f)(1) note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word "each" probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
+
+<i><sup>3</sup></i><i> So in original. The word "each" probably should not appear.</i>
 

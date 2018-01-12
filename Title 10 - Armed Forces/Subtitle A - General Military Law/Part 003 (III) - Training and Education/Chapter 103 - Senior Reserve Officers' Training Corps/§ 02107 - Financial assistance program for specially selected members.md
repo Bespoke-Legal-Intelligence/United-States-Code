@@ -28,7 +28,7 @@
 
 > The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
 
-(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
+(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolledin an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
 
 (2) The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
 
@@ -62,7 +62,7 @@
 
 (2) Of the total number of cadets appointed in the financial assistance programs under this section in any year, not less than 100 shall be designated for placement in the program of the Army for service upon commissioning in the Army National Guard, of which one-half shall be for financial assistance awarded for a period of two years and the remainder shall be for financial assistance awarded for a period of four years. A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years. A cadet who receives financial assistance under this paragraph and is commissioned in the Army National Guard shall perform service as provided in subsection (b)(5)(B) and may not be accepted for service on full-time active duty pursuant to the member's voluntary application until the completion of the period of service prescribed in that subsection. The Secretary of the Army shall prescribe regulations to ensure a geographical distribution of the cadets who receive financial assistance under this paragraph.
 
-(i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number of cadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements under this section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
+(i) The Secretary of each military department shall seek to achieve an increase in the number of agreements entered into under this section so as to achieve an increase, by the 2006–2007 academic year, of not less than 400 in the number ofcadets or midshipmen, as the case may be, enrolled under this section, compared to such number enrolled for the 2002–2003 academic year. In the case of the Secretary of the Navy, the Secretary shall seek to ensure that not less than one-third of such increase in agreements under this section are with students enrolled (or seeking to enroll) in programs of study leading to a baccalaureate degree in nuclear engineering or another appropriate technical, scientific, or engineering field of study.
 
 (j)(1) Payment of financial assistance under this section for, and payment of a monthly subsistence allowance under section 209 of title 37 to, a cadet or midshipman appointed under this section may be suspended on the basis of health-related incapacity of the cadet or midshipman only in accordance with regulations prescribed under paragraph (2).
 
@@ -110,7 +110,7 @@ Subsec. (i). Pub. L. 107–314, §532(d), added subsec. (i).
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "31 years of age on December 31" for "27 years of age on June 30" and struck out ", except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date" before period at end.
 
-<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999."
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced trainingprogram. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §555(a), substituted "27 years of age" for "25 years of age" and "30 years of age" for "29 years of age".
 
@@ -188,7 +188,7 @@ Pub. L. 92–166, §2, Nov. 24, 1971, 85 Stat. 487, provided that: "This Act \[a
 
 #### Effective Date
 
-Pub. L. 88–647, title IV, §403, Oct. 13, 1964, 78 Stat. 1074, provided that: "Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code \[subsec. (h) of this section\], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965."
+Pub. L. 88–647, title IV, §403, Oct. 13, 1964, 78 Stat. 1074, provided that: "Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code \[subsec. (h) of this section\],becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965."
 
 #### Regulations
 
@@ -197,6 +197,30 @@ Pub. L. 109–163, div. A, title V, §533(b), Jan. 6, 2006, 119 Stat. 3248, prov
 #### Savings Provision
 
 Pub. L. 109–163, div. A, title V, §531(c), Jan. 6, 2006, 119 Stat. 3247, provided that: "Paragraph (4) of section 2107(c) of title 10, United States Code, and paragraph (3) of section 2107a(c) of such title, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply in the case of any individual selected before the date of the enactment of this Act for appointment as a cadet or midshipman under section 2107 or 2107a of such title."
+
+#### Lieutenant Henry Ossian Flipper Leadership Scholarships
+
+Pub. L. 115–91, div. A, title V, §548, Dec. 12, 2017, 131 Stat. 1398, provided that:
+
+"(a)
+
+In General.—The Secretary of the Army shall designate a number of scholarships under the Army Senior Reserve Officers' Training Corps (SROTC) program that are available to students at minority-serving institutions as 'Lieutenant Henry Ossian Flipper Leadership Scholarships'.
+
+"(b)
+
+Number Designated.—The number of scholarships designated pursuant to subsection (a) shall be the number the Secretary determines appropriate to increase the number of Senior Reserve Officers' Training Corps scholarships at minority-serving institutions. In making the determination, the Secretary shall give appropriate consideration to the following:
+
+&emsp;"(1) The number of Senior Reserve Officers' Training Corps scholarships available at all institutions participating in the Senior Reserve Officer's Training Corps program.
+
+&emsp;"(2) The number of such minority-serving institutions that offer the Senior Reserve Officers' Training Corps program to their students.
+
+"(c)
+
+Amount of Scholarship.—The Secretary may increase any scholarship designated pursuant to subsection (a) to an amount in excess of the amount of the Senior Reserve Officers' Training Corps program scholarship that would otherwise be offered at the minority-serving institution concerned if the Secretary considers that a scholarship of such increased amount is appropriate for the purpose of the scholarship.
+
+"(d)
+
+Minority-serving Institution Defined.—In this section, the term 'minority-serving institution' means an institution of higher education described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))."
 
 #### Review Regarding Allocation of Naval Reserve Officers' Training Corps Scholarships Among Participating Colleges and Universities
 

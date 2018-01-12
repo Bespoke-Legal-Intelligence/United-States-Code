@@ -4,7 +4,7 @@ The purposes of this chapter are to—
 
 &emsp;(1) establish policies and procedures for managing the oil and natural gas resources of the Outer Continental Shelf which are intended to result in expedited exploration and development of the Outer Continental Shelf in order to achieve national economic and energy policy goals, assure national security, reduce dependence on foreign sources, and maintain a favorable balance of payments in world trade;
 
-&emsp;(2) preserve, protect, and develop oil and natural gas resources in the Outer Continental Shelf in a manner which is consistent with theneed (A) to make such resources available to meet the Nation's energy needs as rapidly as possible, (B) to balance orderly energy resource development with protection of the human, marine, and coastal environments, (C) to insure the public a fair and equitable return on the resources of the Outer Continental Shelf, and (D) to preserve and maintain free enterprise competition;
+&emsp;(2) preserve, protect, and develop oil and natural gas resources in the Outer Continental Shelf in a manner which is consistent with the need (A) to make such resources available to meet the Nation's energy needs as rapidly as possible, (B) to balance orderly energy resource development with protection of the human, marine, and coastal environments, (C) to insure the public a fair and equitable return on the resources of the Outer Continental Shelf, and (D) to preserve and maintain free enterprise competition;
 
 &emsp;(3) encourage development of new and improved technology for energy resource production which will eliminate or minimize risk of damage to the human, marine, and coastal environments;
 

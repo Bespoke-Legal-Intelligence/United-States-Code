@@ -18,7 +18,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;&emsp;(ii) the continuous filament is extruded in that country, territory, or possession;
 
-&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, oryarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
+&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
 
 &emsp;&emsp;(D) the product is any other textile or apparel product that is wholly assembled in that country, territory, or possession from its component pieces.
 

@@ -44,7 +44,7 @@ In subsection (a), the words "If a person" are substituted for the words "In cas
 
 #### 1958 Act
 
-The change reflects the fact that the source statute for these sections (sec. 1 of the Act of May 12, 1928, ch. 528, 45 Stat. 500) was mandatory and not merely permissive.
+The change reflects the fact that the source statute for these sections (sec. 1 of the Act of May 12, 1928, ch.528, 45 Stat. 500) was mandatory and not merely permissive.
 
 #### Amendments
 

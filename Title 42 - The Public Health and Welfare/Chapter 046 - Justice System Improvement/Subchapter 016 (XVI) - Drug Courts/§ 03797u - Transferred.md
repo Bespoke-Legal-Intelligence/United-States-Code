@@ -1,0 +1,10 @@
+### §3797u. Transferred
+
+#### Codification
+
+Section 3797u was editorially reclassified as section 10611 of Title 34, Crime Control and Law Enforcement.
+
+#### Study by the Government Accountability Office
+
+Pub. L. 107–273, div. B, title II, §2303, Nov. 2, 2002, 116 Stat. 1799, directed the Comptroller General to issue a report to Congress on the effectiveness and impact of grants authorized by part EE of title I of Pub. L. 90–351 on or before January 1, 2005.
+

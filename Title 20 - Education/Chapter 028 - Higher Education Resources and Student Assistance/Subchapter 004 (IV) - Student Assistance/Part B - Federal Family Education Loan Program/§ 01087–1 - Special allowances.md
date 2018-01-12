@@ -20,7 +20,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(iii) No special allowance may be paid under this subparagraph unless the issuer of such obligations complies with subsection (d) of this section.
 
-&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, orinterest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
+&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
 
 &emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph (A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
 
@@ -102,7 +102,7 @@ Consolidation loans.—This subparagraph shall not apply in the case of any cons
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
+Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section\(without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
 &emsp;(H)
 
@@ -242,7 +242,7 @@ Calculation based on LIBOR.—For the calendar quarter beginning on April 1, 201
 
 &emsp;&emsp;&emsp;(II)
 
-Loans eligible for LIBOR-based calculation.—The special allowance paidpursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
+Loans eligible for LIBOR-based calculation.—The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -254,7 +254,7 @@ In general.—A waiver pursuant to subclause (II) shall be in a form (printed or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(AA) all loans described in such subclause that the lender holds solely in its own right under any lender identification number associated with the holder (pursuant to section 1094b of this title);
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(BB) all loans described in such subclause for which the beneficial owner has the authority to make an election of a waiver under such subclause, regardless of the lender identification number associated with the loan or the lender that holds the loan as eligible lender trustee on behalf of such beneficial owner; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) all loans described in such subclause for which the beneficial owner has the authority to make an election of a waiver under such subclause, regardless of the lender identification number associated with the loan or thelender that holds the loan as eligible lender trustee on behalf of such beneficial owner; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(CC) all future calculations of the special allowance on loans that, on the date of such waiver, are loans described in subitem (AA) or (BB), or that, after such date, become loans described in subitem (AA) or (BB).
 
@@ -370,7 +370,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (B) Special rule
 
-&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, and the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amount of the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
+&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, and the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amountof the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
 
 #### (2) Amount of loan fees
 
@@ -408,7 +408,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (g), is act Oct. 17,
 
 #### Prior Provisions
 
-A prior section 1087–1, Pub. L. 89–329, title IV, §438, as added Pub. L. 92–318, title I, §132E(a), June 23, 1972, 86Stat. 264; amended Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 95–43, §1(a)(37), June 15, 1977, 91 Stat. 216; Pub. L. 96–49, §5(c)(1), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §§420(a), 451(d), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1425, 1458, 1503; Pub. L. 97–35, title V, §§532(b)(4), 534(b), 536(a), Aug. 13, 1981, 95 Stat. 452, 454, 455; Pub. L. 98–79, §7(a), (c), Aug. 15, 1983, 97 Stat. 482, 483; Pub. L. 99–272, title XVI, §§16013(d), 16017(b)(3), (c), Apr. 7, 1986, 100 Stat. 340, 347, related to special allowances, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087–1, Pub. L. 89–329, title IV, §438, as added Pub. L. 92–318, title I, §132E(a), June 23, 1972, 86 Stat. 264; amended Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 95–43, §1(a)(37), June 15, 1977, 91 Stat. 216; Pub. L. 96–49, §5(c)(1), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §§420(a), 451(d), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1425, 1458, 1503; Pub. L. 97–35, title V, §§532(b)(4), 534(b), 536(a), Aug. 13, 1981, 95 Stat. 452, 454, 455; Pub. L. 98–79, §7(a), (c), Aug. 15, 1983, 97 Stat. 482, 483; Pub. L. 99–272, title XVI, §§16013(d), 16017(b)(3), (c), Apr. 7, 1986, 100 Stat. 340, 347, related to special allowances, prior to the general revision of this part by Pub. L. 99–498.
 
 A prior section 1087–1a, Pub. L. 96–374, title IV, §420(b), Oct. 3, 1980, 94 Stat. 1427, related to eligibility for special allowances covering loans made or purchased with funds obtained from Authorities issuing tax exempt obligations, and established requirement relating to plans for doing business, prior to repeal by Pub. L. 98–79, §7(b), Aug. 15, 1983, 97 Stat. 483.
 
@@ -596,7 +596,7 @@ Subsec. (d)(4)(C). Pub. L. 100–50, §10(cc), struck out ", as evidenced by th
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -614,7 +614,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Pub. L. 109–171, title VIII, §8006(b)(2), Feb. 8, 2006, 120 Stat. 160, provided that: "The amendments made by this subsection \[amending this section\] shall not apply with respect to any special allowance payment made under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1) before April 1, 2006."
 
-Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
+Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made byparagraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
 
 Pub. L. 109–171, title VIII, §8013(d)(2), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendments made by subsections (a) and (c) of this section \[amending this section and provisions set out as a note under section 1078–10 of this title\] shall be effective as if the amendments made in subsections (b) and (c) of section 2 of the Second Higher Education Extension Act of 2005 \[Pub. L. 109–150, amending this section and provisions set out as a note under section 1078–10 of this title\] had not been enacted."
 

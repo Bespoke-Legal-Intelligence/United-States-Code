@@ -8,7 +8,7 @@ There is established as an independent agency within the executive branch a Priv
 
 Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
-&emsp;(1) In conducting the war on terrorism, the Government may need additional powers andmay need to enhance the use of its existing powers.
+&emsp;(1) In conducting the war on terrorism, the Government may need additional powers and may need to enhance the use of its existing powers.
 
 &emsp;(2) This shift of power and authority to the Government calls for an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life and to ensure that the Government uses its powers for the purposes for which the powers were given.
 
@@ -164,7 +164,7 @@ The Board shall—
 
 #### (3) Incompatible office
 
-&emsp;An individual appointed to the Board may not, while serving on the Board, be an electedofficial, officer, or employee of the Federal Government, other than in the capacity as a member of the Board.
+&emsp;An individual appointed to the Board may not, while serving on the Board, be an elected official, officer, or employee of the Federal Government, other than in the capacity as a member of the Board.
 
 #### (4) Term
 
@@ -380,7 +380,7 @@ Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of 
 
 (u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
 
-A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of theBoard at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
 
 Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
 

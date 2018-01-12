@@ -2,7 +2,7 @@
 
 The purposes of the corporation are patriotic, historical, and educational, and include those intended or designed—
 
-&emsp;(1) to perpetuate the memory of the men who, by their services or sacrifices during thewar of the American Revolution, achieved the independence of the American people;
+&emsp;(1) to perpetuate the memory of the men who, by their services or sacrifices during the war of the American Revolution, achieved the independence of the American people;
 
 &emsp;(2) to unite and promote fellowship among their descendants;
 

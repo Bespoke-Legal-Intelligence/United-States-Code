@@ -1,6 +1,6 @@
 ### §717. Members of the armed forces: participation in international sports
 
-(a) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in any of the following sports competitions:
+(a) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service inthe Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in any of the following sports competitions:
 
 &emsp;(1) The Pan-American Games and the Olympic Games, and qualifying events and preparatory competition for those games.
 
@@ -92,7 +92,7 @@ Subsecs. (e), (f). Pub. L. 96–513, §511(22) (A), (C), redesignated subsec. (f
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
+<b>1965</b>—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, toreport to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
 
 #### Effective Date of 2002 Amendment
 

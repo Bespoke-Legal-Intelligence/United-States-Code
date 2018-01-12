@@ -2,7 +2,7 @@
 
 | Chapter |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>1.</b>](Chapter%20001%20-%20General/README.md) | <b>GENERAL</b> | <b>101</b> |
+| <b>1.</b> | <b>GENERAL</b> | <b>101</b> |
 | <b>3.</b> | <b>ORGANIZATION OF GENERAL SERVICES ADMINISTRATION</b> | <b>301</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Property%20Management/README.md) | <b>PROPERTY MANAGEMENT</b> | <b>501</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Foreign%20Excess%20Property/README.md) | <b>FOREIGN EXCESS PROPERTY</b> | <b>701</b> |

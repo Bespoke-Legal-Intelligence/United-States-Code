@@ -10,7 +10,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01621 - Definitions](%C2%A7%2001621%20-%20Definitions.md)
-- [&sect; 01622 - Establishment of Commission](%C2%A7%2001622%20-%20Establishment%20of%20Commission.md)
+- [&sect; 01622 - Establishment of International Claims Commission](%C2%A7%2001622%20-%20Establishment%20of%20International%20Claims%20Commission.md)
 - [&sect; 01622a - Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice](%C2%A7%2001622a%20-%20Transfer%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States%20to%20Department%20of%20Justice.md)
 - [&sect; 01622b - Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States](%C2%A7%2001622b%20-%20Transfer%20of%20functions%2C%20powers%2C%20and%20duties%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States.md)
 - [&sect; 01622c - Membership of Foreign Claims Settlement Commission of the United States](%C2%A7%2001622c%20-%20Membership%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States.md)

@@ -44,7 +44,7 @@ The Director, after gathering appropriate information and after considering comm
 
 &emsp;&emsp;(B) innovative approaches in the management of the Program that address both short-term and long-term aspects of the renovation, repair, and replacement of academic research facilities;
 
-&emsp;&emsp;(C) programmatic approaches that recognize and support excellence, strengthen scientific and engineering research potential and, to the maximum extent possible and consistent with the purposes of this Act, assure an equitable distribution of resources with respect to institutions and geographical areas; and
+&emsp;&emsp;(C) programmatic approaches that recognize and support excellence, strengthen scientific and engineering research potential and, to the maximum extent possible and consistent with the purposes of this Act, assure an equitable distribution of resourceswith respect to institutions and geographical areas; and
 
 &emsp;&emsp;(D) any recommendations necessary to improve the Program and further meet the purposes of sections 1862a to 1862d of this title.
 

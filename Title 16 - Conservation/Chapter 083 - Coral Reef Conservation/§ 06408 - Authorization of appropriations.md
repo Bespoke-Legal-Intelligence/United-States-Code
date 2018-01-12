@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary to carry out this chapt
 
 #### (b) Administration
 
-Of the amounts appropriated under subsection (a), not more than the lesser of $1,000,000 or 10 percent of the amounts appropriated, may be used for program administration or for overhead costs incurred by the National Oceanic and Atmospheric Administration or the Department of Commerce and assessed as an administrative charge.
+Of the amounts appropriated under subsection (a), not more than the lesser of $1,000,000 or 10percent of the amounts appropriated, may be used for program administration or for overhead costs incurred by the National Oceanic and Atmospheric Administration or the Department of Commerce and assessed as an administrative charge.
 
 #### (c) Coral reef conservation program
 

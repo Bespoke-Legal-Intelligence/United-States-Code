@@ -40,7 +40,7 @@ Any person who—
 
 The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added Pub. L. 97–248, title III, §320(a), Sept. 3, 1982, 96 Stat. 611; amended Pub. L. 98–369, div. A,title I, §143(a), July 18, 1984, 98 Stat. 682; Pub. L. 101–239, title VII, §7734(a), Dec. 19, 1989, 103 Stat. 2403; Pub. L. 108–357, title VIII, §818(a), Oct. 22, 2004, 118 Stat. 1584.)
+(Added Pub. L. 97–248, title III, §320(a), Sept. 3, 1982, 96 Stat. 611; amended Pub. L. 98–369, div. A, title I, §143(a), July 18, 1984, 98 Stat. 682; Pub. L. 101–239, title VII, §7734(a), Dec. 19, 1989, 103 Stat. 2403; Pub. L. 108–357, title VIII, §818(a), Oct. 22, 2004, 118 Stat. 1584.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Pub. L. 108–357, title VIII, §818(b), Oct. 22, 2004, 118 Stat. 1584, provided
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7734(b), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989."
+Pub. L. 101–239, title VII, §7734(b), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to activities after December 31, 1989."
 
 #### Effective Date of 1984 Amendment
 

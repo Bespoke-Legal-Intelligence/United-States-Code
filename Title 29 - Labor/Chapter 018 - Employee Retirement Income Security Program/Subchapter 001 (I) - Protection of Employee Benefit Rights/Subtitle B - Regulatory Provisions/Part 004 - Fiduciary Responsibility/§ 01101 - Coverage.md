@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;(B) that the insurer describe (in such form and manner as shall be prescribed in such regulations), in annual reports and in policies issued to the policyholder after the date on which such regulations are issued in final form pursuant to paragraph (1)(C)—
 
-&emsp;&emsp;(i) a description of the method by which any income and expenses of the insurer's general account are allocated to the policy during the term of the policy and upon the termination of the policy, and
+&emsp;&emsp;(i) a description of the method by which any income and expenses of the insurer'sgeneral account are allocated to the policy during the term of the policy and upon the termination of the policy, and
 
 &emsp;&emsp;(ii) for each report, the actual return to the plan under the policy and such other financial information as the Secretary may deem appropriate for the period covered by each such annual report,
 
@@ -66,7 +66,7 @@ For purposes of this part:
 
 (7) For purposes of this subsection, the term "policy" includes a contract.
 
-(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19,1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
+(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
 
 #### References in Text
 

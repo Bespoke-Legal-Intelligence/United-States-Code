@@ -56,7 +56,7 @@ In carrying out the functions specified in subsection (b), the Secretary, acting
 
 &emsp;(9) investigate ionizing and nonionizing radiation and radioactive substances, their uses, and ways to protect people, structures, and equipment from their harmful effects;
 
-&emsp;(10) determine the atomic and molecular structure of matter, through analysis of spectra and other methods, to provide a basis forpredicting chemical and physical structures and reactions and for designing new materials and chemical substances, including biologically active macromolecules;
+&emsp;(10) determine the atomic and molecular structure of matter, through analysis of spectra and other methods, to provide a basis for predicting chemical and physical structures and reactions and for designing new materials and chemical substances, including biologically active macromolecules;
 
 &emsp;(11) perform research on electromagnetic waves, including optical waves, and on properties and performance of electrical, electronic, and electromagnetic devices and systems and their essential materials, develop and maintain related standards, and disseminate standard signals through broadcast and other means;
 
@@ -166,9 +166,9 @@ Subsec. (b)(13). Pub. L. 114–329, §403(3), substituted "technical standards a
 
 Subsec. (c)(16) to (27). Pub. L. 114–329, §§104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
 
-Subsec. (d). Pub. L. 114–329, §205(a)(2)(B), substituted "sections 278k and 278l" for "sections 278k, 278l, and 278n".
-
 <b>2014</b>—Subsec. (c)(15) to (23). Pub. L. 113–274, §101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+
+Subsec. (d). Pub. L. 114–329, §205(a)(2)(B), substituted "sections 278k and 278l" for "sections 278k, 278l, and 278n".
 
 Subsec. (e). Pub. L. 113–274, §101(b), added subsec. (e).
 
@@ -280,7 +280,7 @@ Exception.—If compliance with paragraph (1) of this subsection is inconsistent
 
 "(4)
 
-Expenses of government personnel.—Section 5946 of title 5, United States Code, shall not apply with respect to any activity of an employee of a Federal agency or department that is determined by the head of that agency or department as being an activity undertaken in carrying out this subsection.
+Expenses of government personnel.—Section 5946 of title 5, United States Code, shall not apply with respect to any activity of an employee of a Federalagency or department that is determined by the head of that agency or department as being an activity undertaken in carrying out this subsection.
 
 "(5)
 
@@ -296,7 +296,7 @@ Program.—The Secretary, acting through the Director of the National Institute 
 
 "(b)
 
-Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least$1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries."
+Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least $1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries."
 
 #### Initial Organization Plan for Institute
 

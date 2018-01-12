@@ -114,7 +114,7 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in whichhousing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
@@ -180,7 +180,7 @@ Indian tribe.—The term "Indian tribe" means—
 
 #### (s) Authorization of appropriations
 
-There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
+There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provideguarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
 
 #### (t) Tax-exempt financing
 
@@ -204,7 +204,7 @@ Subpar. (D) of section 42(i)(2) of title 26, referred to in subsec. (f)(5), was 
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 ofTitle 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Indian Reorganization Act (25 U.S.C. 461 et seq.), referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
@@ -250,7 +250,7 @@ Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted "1998" for "1996".
 
 #### Effective Date
 
-Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
+Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as anEffective and Termination Dates of 1996 Amendments note under section 1437d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "low- or moderate-income".</i>
 

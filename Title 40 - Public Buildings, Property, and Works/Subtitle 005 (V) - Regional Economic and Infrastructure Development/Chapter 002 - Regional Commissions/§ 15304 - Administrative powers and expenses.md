@@ -52,7 +52,7 @@ State share.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the share of administrative expenses of a Commission to be paid by each State of the Commission shall be determined by aunanimous vote of the State members of the Commission.
+In general.—Subject to subparagraph (B), the share of administrative expenses of a Commission to be paid by each State of the Commission shall be determined by a unanimous vote of the State members of the Commission.
 
 &emsp;&emsp;(B)
 
@@ -75,4 +75,8 @@ Effect on assistance.—A State's share of administrative expenses of a Commissi
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 

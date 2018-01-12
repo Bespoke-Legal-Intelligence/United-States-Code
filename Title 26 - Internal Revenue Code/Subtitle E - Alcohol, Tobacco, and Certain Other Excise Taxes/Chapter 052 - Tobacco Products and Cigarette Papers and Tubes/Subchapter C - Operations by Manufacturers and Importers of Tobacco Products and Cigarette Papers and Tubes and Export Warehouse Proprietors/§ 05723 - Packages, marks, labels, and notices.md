@@ -2,7 +2,7 @@
 
 #### (a) Packages
 
-All tobacco products, processed tobacco, and cigarette papers and tubes shall, before removal, be put up in such packages as the Secretary shall by regulation prescribe.
+All tobacco products, processed tobacco, and cigarette papers and tubes shall, before removal,be put up in such packages as the Secretary shall by regulation prescribe.
 
 #### (b) Marks, labels, and notices
 

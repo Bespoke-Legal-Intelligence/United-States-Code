@@ -62,7 +62,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (B) Additional risk evaluations
 
-&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shall ensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-priority substances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
+&emsp;&emsp;Not later than three and one half years after June 22, 2016, the Administrator shallensure that risk evaluations are being conducted on at least 20 high-priority substances and that at least 20 chemical substances have been designated as low-priority substances, subject to the limitation that at least 50 percent of all chemical substances on which risk evaluations are being conducted by the Administrator are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments.
 
 #### (C) Continuing designations and risk evaluations
 
@@ -200,7 +200,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (B) Selecting requirements
 
-&emsp;&emsp;In selecting among prohibitions and other restrictions, the Administrator shall factor in, to the extent practicable, the considerations under subparagraph (A) in accordance with subsection (a).
+&emsp;&emsp;In selecting among prohibitions and other restrictions, the Administrator shall factorin, to the extent practicable, the considerations under subparagraph (A) in accordance with subsection (a).
 
 #### (C) Consideration of alternatives
 
@@ -264,7 +264,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;&emsp;(II) making such proposed rule so effective is necessary to protect the public interest; and
 
-&emsp;(ii) in the case of a proposed rule to prohibit the manufacture, processing, or distribution of a chemical substance or mixture because of the risk determined under clause (i)(I), a court has in an action under section 2606 of this title granted relief with respect to such risk associated with such substance or mixture.
+&emsp;(ii) in the case of a proposed rule to prohibit the manufacture, processing, or distribution ofa chemical substance or mixture because of the risk determined under clause (i)(I), a court has in an action under section 2606 of this title granted relief with respect to such risk associated with such substance or mixture.
 
 > Such a proposed rule which is made so effective shall not, for purposes of judicial review, be considered final agency action.
 
@@ -338,7 +338,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (2) Exemption analysis and statement
 
-&emsp;In proposing an exemption under this subsection, the Administrator shall analyze the need for the exemption, and shall make public the analysis and a statement describing how the analysis was taken into account.
+&emsp;In proposing an exemption under this subsection, the Administrator shall analyze theneed for the exemption, and shall make public the analysis and a statement describing how the analysis was taken into account.
 
 #### (3) Period of exemption
 
@@ -372,7 +372,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (5) Relationship to subsection (b)
 
-&emsp;If, at any time prior to the date that is 90 days after June 22, 2016, the Administratormakes a designation under subsection (b)(1)(B)(i), or receives a request under subsection (b)(4)(C)(ii), such chemical substance shall not be subject to this subsection, except that in selecting among prohibitions and other restrictions promulgated in a rule pursuant to subsection (a), the Administrator shall both ensure that the chemical substance meets the rulemaking standard under subsection (a) and reduce exposure to the substance to the extent practicable.
+&emsp;If, at any time prior to the date that is 90 days after June 22, 2016, the Administrator makes a designation under subsection (b)(1)(B)(i), or receives a request under subsection (b)(4)(C)(ii), such chemical substance shall not be subject to this subsection, except that in selecting among prohibitions and other restrictions promulgated in a rule pursuant to subsection (a), the Administrator shall both ensure that the chemical substance meets the rulemaking standard under subsection (a) and reduce exposure to the substance to the extent practicable.
 
 #### (i) Final agency action
 
@@ -430,7 +430,7 @@ Subsec. (e)(3)(D). Pub. L. 109–364, §317(a)(3), (b), temporarily added subpar
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title III, §317(b), Oct. 17, 2006, 120 Stat. 2142, provided that: "The amendments madeby subsection (a) \[amending this section\] shall cease to have effect on September 30, 2012. The termination of the authority to grant exemptions pursuant to such amendments shall not effect the validity of any exemption granted prior to such date."
+Pub. L. 109–364, div. A, title III, §317(b), Oct. 17, 2006, 120 Stat. 2142, provided that: "The amendments made by subsection (a) \[amending this section\] shall cease to have effect on September 30, 2012. The termination of the authority to grant exemptions pursuant to such amendments shall not effect the validity of any exemption granted prior to such date."
 
 #### Effective Date
 

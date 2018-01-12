@@ -2,7 +2,7 @@
 
 #### (a) Burden of proof
 
-In any proceeding involving the issue of whether or not any person is liable for a penaltyunder section 6700, 6701, or 6702, the burden of proof with respect to such issue shall be on the Secretary.
+In any proceeding involving the issue of whether or not any person is liable for a penalty under section 6700, 6701, or 6702, the burden of proof with respect to such issue shall be on the Secretary.
 
 #### (b) Deficiency procedures not to apply
 
@@ -16,7 +16,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### (2) Person must bring suit in district court to determine his liability for penalty
 
-&emsp;If, within 30 days after the day on which his claim for refund of any partial payment of any penalty under section 6700 or 6701 is denied (or, if earlier, within 30 days after the expiration of 6 months after the day on which he filed the claim for refund), the person fails to begin a proceeding in the appropriate United States district court for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the applicable 30-day period referred to in this paragraph.
+&emsp;If, within 30 days after the day on which his claim for refund of any partial payment of anypenalty under section 6700 or 6701 is denied (or, if earlier, within 30 days after the expiration of 6 months after the day on which he filed the claim for refund), the person fails to begin a proceeding in the appropriate United States district court for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the applicable 30-day period referred to in this paragraph.
 
 #### (3) Suspension of running of period of limitations on collection
 

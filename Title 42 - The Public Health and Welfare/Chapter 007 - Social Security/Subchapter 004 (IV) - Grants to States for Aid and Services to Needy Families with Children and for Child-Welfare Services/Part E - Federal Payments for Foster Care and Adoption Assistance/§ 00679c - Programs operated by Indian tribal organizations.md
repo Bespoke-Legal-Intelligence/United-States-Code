@@ -100,7 +100,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 &emsp;&emsp;&emsp;If, at the time expenditures are made for a fiscal year quarter beginning after September 30, 2011, and before October 1, 2014, for which a tribe, organization, or consortium may receive payments for <sup>1</sup> under section 674(a)(3) of this title, no regulations required to be promulgated under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008 are in effect, and no legislation has been enacted specifying otherwise—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations onclaiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations on claiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any quarter of fiscal year 2015 or any fiscal year thereafter, no tribe, organization, or consortium may claim in-kind expenditures from third-party sources for purposes of determining the non-Federal share of such expenditures if a State with a plan approved under section 671(a) of this title could not claim in-kind expenditures from third-party sources for such purposes.
 
@@ -124,7 +124,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (e) Nonapplication to cooperative agreements and contracts
 
-Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
+Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreementor contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
 
 #### (f) John H. Chafee Foster Care Independence Program
 

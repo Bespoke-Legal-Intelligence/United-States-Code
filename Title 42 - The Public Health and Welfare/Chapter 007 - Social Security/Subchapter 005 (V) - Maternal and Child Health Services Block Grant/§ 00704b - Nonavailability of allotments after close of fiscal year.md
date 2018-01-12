@@ -6,5 +6,5 @@ No allotment for this or any succeeding fiscal year under this subchapter shall 
 
 #### Codification
 
-Section is from act July 5, 1952, popularly known as the Federal Security Agency Appropriation Act, 1953,and is not a part of the Social Security Act which comprises this chapter.
+Section is from act July 5, 1952, popularly known as the Federal Security Agency Appropriation Act, 1953, and is not a part of the Social Security Act which comprises this chapter.
 

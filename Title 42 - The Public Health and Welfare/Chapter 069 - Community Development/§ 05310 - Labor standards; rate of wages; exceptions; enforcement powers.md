@@ -2,7 +2,7 @@
 
 (a) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed in whole or in part with assistance received under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40: <i>Provided</i>, That this section shall apply to the rehabilitation of residential property only if such property contains not less than 8 units. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
-(b) Subsection (a) of this section shall not apply to any individual that—
+(b) Subsection (a) shall not apply to any individual that—
 
 &emsp;(1) performs services for which the individual volunteered;
 
@@ -12,7 +12,7 @@
 
 &emsp;(3) is not otherwise employed at any time in the construction work.
 
-(Pub. L. 93–383, title I, §110, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §309(j), Aug. 13, 1981, 95 Stat. 397; Pub. L. 100–242, title V, §523,Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–625, title IX, §955(a), Nov. 28, 1990, 104 Stat. 4420.)
+(Pub. L. 93–383, title I, §110, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §309(j), Aug. 13, 1981, 95 Stat. 397; Pub. L. 100–242, title V, §523, Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–625, title IX, §955(a), Nov. 28, 1990, 104 Stat. 4420.)
 
 #### References in Text
 

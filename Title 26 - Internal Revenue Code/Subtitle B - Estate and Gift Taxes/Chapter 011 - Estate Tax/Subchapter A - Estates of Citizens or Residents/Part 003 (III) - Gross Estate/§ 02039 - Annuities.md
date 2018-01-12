@@ -44,7 +44,7 @@ Pub. L. 97–34, §311(h)(4), substituted "section 219" for "section 219 or 220"
 
 <b>1980</b>—Subsec. (f)(2). Pub. L. 96–222 substituted "(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution" for "without the application of paragraph (2) thereof".
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted "(other than an amount described in subsection (f))"for "(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))" in provisions preceding par. (1).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted "(other than an amount described in subsection (f))" for "(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))" in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted "section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3))," after "403(a)(4)" and inserted "or 220" after "section 219" wherever appearing in provisions following par. (3).
 
@@ -118,7 +118,7 @@ Amendment by section 313(b)(3) of Pub. L. 97–34 applicable to redemptions afte
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, seesection 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
+Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, see section 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -134,7 +134,7 @@ Pub. L. 94–455, title XX, §2009(e)(3)(A), Oct. 4, 1976, 90 Stat. 1896, provid
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, with respect to individuals dying on or after Sept. 21, 1972, see section 2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
+Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, with respect to individuals dying on or after Sept. 21, 1972, see section2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
 
 #### Effective Date of 1972 Amendment
 

@@ -34,11 +34,11 @@ In carrying out the provisions of the preceding subsection the Administrator is 
 
 &emsp;(8) construct facilities, provide equipment, and employ staff as necessary to carry out this chapter.
 
-> In carrying out the provisions of subsection (a) of this section, the Administrator shall provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsection (a)(5) of this section. Reasonable fees may be charged for such training provided to persons other than personnel of air pollution control agencies but such training shall be provided to such personnel of air pollution control agencies without charge.
+> In carrying out the provisions of subsection (a), the Administrator shall provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsection (a)(5). Reasonable fees may be charged for such training provided to persons other than personnel of air pollution control agencies but such training shall be provided to such personnel of air pollution control agencies without charge.
 
 #### (c) Air pollutant monitoring, analysis, modeling, and inventory research
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a program of research, testing, and development of methods for sampling, measurement, monitoring, analysis, and modeling of air pollutants. Such program shall include the following elements:
+In carrying out subsection (a), the Administrator shall conduct a program of research, testing, and development of methods for sampling, measurement, monitoring, analysis, and modeling of air pollutants. Such program shall include the following elements:
 
 &emsp;(1) Consideration of individual, as well as complex mixtures of, air pollutants and their chemical transformations in the atmosphere.
 
@@ -56,7 +56,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (d) Environmental health effects research
 
-(1) The Administrator, in consultation with the Secretary of Health and Human Services,shall conduct a research program on the short-term and long-term effects of air pollutants, including wood smoke, on human health. In conducting such research program the Administrator—
+(1) The Administrator, in consultation with the Secretary of Health and Human Services, shall conduct a research program on the short-term and long-term effects of air pollutants, including wood smoke, on human health. In conducting such research program the Administrator—
 
 &emsp;(A) shall conduct studies, including epidemiological, clinical, and laboratory and field studies, as necessary to identify and evaluate exposure to and effects of air pollutants on human health;
 
@@ -80,7 +80,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (e) Ecosystem research
 
-In carrying out subsection (a) of this section, the Administrator, in cooperation, where appropriate, with the Under Secretary of Commerce for Oceans and Atmosphere, the Director of the Fish and Wildlife Service, and the Secretary of Agriculture, shall conduct a research program to improve understanding of the short-term and long-term causes, effects, and trends of ecosystems damage from air pollutants on ecosystems. Such program shall include the following elements:
+In carrying out subsection (a), the Administrator, in cooperation, where appropriate, with the Under Secretary of Commerce for Oceans and Atmosphere, the Director of the Fish and Wildlife Service, and the Secretary of Agriculture, shall conduct a research program to improve understanding of the short-term and long-term causes, effects, and trends of ecosystems damage from air pollutants on ecosystems. Such program shall include the following elements:
 
 &emsp;(1) Identification of regionally representative and critical ecosystems for research.
 
@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a), the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -156,11 +156,11 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(1) an assessment of ambient monitoring stations and networks to determine cost effective ways to expand monitoring capabilities in both urban and rural environments;
 
-&emsp;(2) a consideration of the extent of the feasibility and scientific value of conducting the research program under subsection (e) of this section to include consideration of the effects of atmospheric processes and air pollution effects; and
+&emsp;(2) a consideration of the extent of the feasibility and scientific value of conducting the research program under subsection (e) to include consideration of the effects of atmospheric processes and air pollution effects; and
 
-&emsp;(3) a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g) of this section, in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
+&emsp;(3) a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g), in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
 
-> Not later than 2 years after November 15, 1990, and every 4 years thereafter, the Administrator shall report to Congress on the progress made inimplementing the plan developed under this subsection, and shall include in such report any revisions of the plan.
+> Not later than 2 years after November 15, 1990, and every 4 years thereafter, the Administrator shall report to Congress on the progress made in implementing the plan developed under this subsection, and shall include in such report any revisions of the plan.
 
 #### (j) Continuation of national acid precipitation assessment program
 
@@ -272,7 +272,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Termination of Advisory Committees
 

@@ -24,7 +24,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (C) Business purpose
 
-&emsp;&emsp;A partnership may have a taxable year not described in subparagraph (B) if it establishes, to the satisfaction of the Secretary, a business purpose therefor. For purposes of this subparagraph, any deferral of income to partners shall not be treated as a business purpose.
+&emsp;&emsp;A partnership may have a taxable year not described in subparagraph (B) if it establishes, to the satisfaction of the Secretary, abusiness purpose therefor. For purposes of this subparagraph, any deferral of income to partners shall not be treated as a business purpose.
 
 #### (2) Partner's taxable year
 
@@ -74,7 +74,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Disposition of less than entire interest
 
-&emsp;&emsp;The taxable year of a partnership shall not close (other than at the end of a partnership's taxable year as determined under subsection (b)(1)) with respect to a partner who sells or exchanges less than his entire interest in the partnership or with respect to apartner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner's interest, gift, or otherwise).
+&emsp;&emsp;The taxable year of a partnership shall not close (other than at the end of a partnership's taxable year as determined under subsection (b)(1)) with respect to a partner who sells or exchanges less than his entire interest in the partnership or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner's interest, gift, or otherwise).
 
 #### (d) Determination of distributive share when partner's interest changes
 

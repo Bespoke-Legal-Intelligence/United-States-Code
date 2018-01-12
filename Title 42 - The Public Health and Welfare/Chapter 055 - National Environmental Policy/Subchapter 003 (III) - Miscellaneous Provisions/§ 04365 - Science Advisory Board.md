@@ -10,7 +10,7 @@ Such Board shall be composed of at least nine members, one of whom shall be desi
 
 #### (c) Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator
 
-(1) The Administrator, at the time any proposed criteria document, standard, limitation,or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
+(1) The Administrator, at the time any proposed criteria document, standard, limitation, or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
 
 (2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
 
@@ -60,7 +60,7 @@ In preparing such advice and comments, the Board shall avail itself of the techn
 
 (1) Upon the recommendation of the Board, the Administrator shall appoint a secretary, and such other employees as deemed necessary to exercise and fulfill the Board's powers and responsibilities. The compensation of all employees appointed under this paragraph shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-(2) Members of the Board may be compensated at a rate to be fixed by the President but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5.
+(2) Members of the Board may be compensated at a rate to be fixed by the President but not in excess of the maximum rate of pay for gradeGS–18, as provided in the General Schedule under section 5332 of title 5.
 
 #### (g) Consultation and coordination with Scientific Advisory Panel
 
@@ -116,7 +116,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board isrenewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

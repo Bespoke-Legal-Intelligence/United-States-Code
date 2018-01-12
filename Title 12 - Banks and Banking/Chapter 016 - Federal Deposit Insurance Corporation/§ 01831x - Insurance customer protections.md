@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) apply to retail sales practices, solicitations, advertising, or offers of any insurance product by any depository institution or any person that is engaged in such activities at an office of the institution or on behalf of the institution; and
 
-&emsp;&emsp;(B) are consistent with the requirements of this chapter and provide such additional protections for customers to whom such sales, solicitations, advertising, or offers are directed.
+&emsp;&emsp;(B) are consistent with the requirements of this chapter and provide such additionalprotections for customers to whom such sales, solicitations, advertising, or offers are directed.
 
 #### (2) Applicability to subsidiaries
 
@@ -124,7 +124,7 @@ The regulations prescribed pursuant to subsection (a) shall include the followin
 
 #### (2) Scope of application
 
-&emsp;The prohibition contained in paragraph (1) shall apply to any life or health insurance product which is sold or offered for sale, as principal, agent, or broker, by any depositoryinstitution or any person who is engaged in such activities at an office of the institution or on behalf of the institution.
+&emsp;The prohibition contained in paragraph (1) shall apply to any life or health insurance product which is sold or offered for sale, as principal, agent, or broker, by any depository institution or any person who is engaged in such activities at an office of the institution or on behalf of the institution.
 
 #### (3) Domestic violence defined
 
@@ -164,7 +164,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), insurance customer protection regulations prescribed by a Federal banking agency under this section shall not apply to retail sales, solicitations, advertising, or offers of any insurance product by any depository institution or to any person who is engaged in such activities at an office of such institution or on behalf of the institution, in a State where the State has in effect statutes, regulations, orders, or interpretations, that are inconsistent with or contrary to the regulations prescribed by the Federal banking agencies.
+&emsp;&emsp;Except as provided in subparagraph (B), insurance customer protection regulations prescribed by a Federal banking agency under this section shall not apply to retail sales, solicitations, advertising, or offers of any insurance product by any depository institution or to any person who is engaged insuch activities at an office of such institution or on behalf of the institution, in a State where the State has in effect statutes, regulations, orders, or interpretations, that are inconsistent with or contrary to the regulations prescribed by the Federal banking agencies.
 
 #### (B) Preemption
 

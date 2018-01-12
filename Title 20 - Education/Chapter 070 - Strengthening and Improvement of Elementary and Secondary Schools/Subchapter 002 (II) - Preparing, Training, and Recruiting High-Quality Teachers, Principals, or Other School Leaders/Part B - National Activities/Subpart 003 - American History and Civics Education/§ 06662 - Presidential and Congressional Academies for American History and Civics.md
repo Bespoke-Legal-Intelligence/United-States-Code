@@ -40,7 +40,7 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 #### (2) Selection of teachers
 
-&emsp;Each year, each Presidential Academy shall select between 50 and 300 teachers of Americanhistory and civics from public or private elementary schools and secondary schools to attend the seminar or institute under paragraph (1).
+&emsp;Each year, each Presidential Academy shall select between 50 and 300 teachers of American history and civics from public or private elementary schools and secondary schools to attend the seminar or institute under paragraph (1).
 
 #### (3) Teacher stipends
 

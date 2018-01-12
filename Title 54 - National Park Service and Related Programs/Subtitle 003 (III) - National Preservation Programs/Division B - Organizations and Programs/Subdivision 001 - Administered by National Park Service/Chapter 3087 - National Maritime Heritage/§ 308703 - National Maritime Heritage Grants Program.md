@@ -108,7 +108,7 @@ Allocation of, and Limitation on, Grant Funding.—
 
 &emsp;(1)
 
-Allocation.—To the extent feasible, the Secretary shall ensure that the amount made available under subsection (b) for maritime heritage education projects is equal to the amount made available under subsection (c) for maritime heritage preservation projects.
+Allocation.—To the extent feasible, the Secretary shall ensure that the amount madeavailable under subsection (b) for maritime heritage education projects is equal to the amount made available under subsection (c) for maritime heritage preservation projects.
 
 &emsp;(2)
 

@@ -48,7 +48,7 @@ In General.—The Secretary of Commerce (acting through the Under Secretary for 
 
 "(b)
 
-Purpose.—The purpose of the project shall be to establish a network of strategic environmental assessment and monitoring projects for the Mississippi River south of Vicksburg, Mississippi, and the Gulf of Mexico, in order to develop advanced long-term assessment and monitoring systems and models relating to the Mississippi River and other aquatic ecosystems, including developing equipment and techniques necessary to implement the project.
+Purpose.—The purpose of the project shall be to establish a network of strategic environmental assessment and monitoring projects for the Mississippi River south of Vicksburg, Mississippi, and the Gulf of Mexico,in order to develop advanced long-term assessment and monitoring systems and models relating to the Mississippi River and other aquatic ecosystems, including developing equipment and techniques necessary to implement the project.
 
 "(c)
 

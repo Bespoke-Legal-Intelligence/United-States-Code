@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 13, 2016, the Secretary shall establish, and maintain thereafter, on the website of the Food and Drug Administration, a dedicated website that contains a list of any appropriate new or updated susceptibility test interpretive criteria standards and interpretive criteria in accordance with paragraph (2) (referred to in thissection as the "Interpretive Criteria Website").
+&emsp;Not later than 1 year after December 13, 2016, the Secretary shall establish, and maintain thereafter, on the website of the Food and Drug Administration, a dedicated website that contains a list of any appropriate new or updated susceptibility test interpretive criteria standards and interpretive criteria in accordance with paragraph (2) (referred to in this section as the "Interpretive Criteria Website").
 
 #### (2) Listing of susceptibility test interpretive criteria standards and interpretive criteria
 
@@ -146,7 +146,7 @@
 
 #### (5) Voluntary use of interpretive criteria
 
-&emsp;Nothing in this section prohibits a person from seeking approval or clearance of a drug or device, or changes to the drug or the device, on the basis of susceptibility test interpretive criteria which differ from those contained in a standard recognized, or from those otherwise listed, by the Secretary pursuant to subsection (b)(2).
+&emsp;Nothing in this section prohibits a person from seeking approval or clearance of a drug or device, or changes to the drug or the device,on the basis of susceptibility test interpretive criteria which differ from those contained in a standard recognized, or from those otherwise listed, by the Secretary pursuant to subsection (b)(2).
 
 #### (d) Antimicrobial drug labeling
 

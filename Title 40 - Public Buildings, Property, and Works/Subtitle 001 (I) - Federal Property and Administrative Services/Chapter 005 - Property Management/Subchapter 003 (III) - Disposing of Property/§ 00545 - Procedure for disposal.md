@@ -72,7 +72,7 @@ Authorization.—The Administrator may make a negotiated sale of personal proper
 
 &emsp;(2)
 
-First offer.—Under regulations and restrictions the Administrator prescribes, an opportunity to purchase property at a fixed price under this subsection may be offered first to an entity specified in subsection (b)(8) that has expressed an interest in the property.
+First offer.—Under regulations and restrictions the Administrator prescribes, an opportunity to purchase property at a fixed price under this subsection may be offered first toan entity specified in subsection (b)(8) that has expressed an interest in the property.
 
 (e)
 

@@ -58,7 +58,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
+&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
 
 #### (2) Contents
 
@@ -100,7 +100,7 @@ The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629,
 
 #### Prior Provisions
 
-A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
+A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained inthis part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 104–106 added subsec. (g) which prohibited certain transf
 
 Subsec. (a)(3). Pub. L. 103–160, §1421, inserted "or fiscal year 1992" after "fiscal year 1991".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking "andthose countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,", could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking "and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,", could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
 
 Pub. L. 102–484, §1313(3), inserted "and (3) to those countries which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf, and which either received Foreign Military Financing (FMF) assistance in fiscal year 1990 or are in the Near East Region and received Foreign Military Financing (FMF) assistance in fiscal year 1991," after "southeastern flank of NATO which are eligible for United States security assistance,".
 
@@ -214,7 +214,7 @@ Limitations on Transfers.—The President may transfer excess defense articles u
 
 &emsp;"(2) funds available to the Department of Defense for the procurement of defense equipment are not expended in connection with the transfer; and
 
-&emsp;"(3) the President determines that the transfer of the excess defense articles will not have an adverseimpact on the military readiness of the United States.
+&emsp;"(3) the President determines that the transfer of the excess defense articles will not have an adverse impact on the military readiness of the United States.
 
 "(c)
 

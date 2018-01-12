@@ -8,7 +8,7 @@ Consistent with sections 3023 and 3024 of this title, the Secretary of Defense, 
 
 &emsp;(2) ensure appropriate implementation of the policies and resource decisions of the Director by elements of the Department of Defense within the National Intelligence Program;
 
-&emsp;(3) ensure that the tactical intelligence activities of the Department of Defense complement and are compatible with intelligenceactivities under the National Intelligence Program;
+&emsp;(3) ensure that the tactical intelligence activities of the Department of Defense complement and are compatible with intelligence activities under the National Intelligence Program;
 
 &emsp;(4) ensure that the elements of the intelligence community within the Department of Defense are responsive and timely with respect to satisfying the needs of operational military forces;
 
@@ -68,7 +68,7 @@ Consistent with sections 3023 and 3024 of this title, the Secretary of Defense s
 
 #### (d) Use of elements of Department of Defense
 
-The Secretary of Defense, in carrying out the functions described in this section, may usesuch elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
+The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
 (July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694; Pub. L. 112–18, title IV, §411, June 8, 2011, 125 Stat. 228; Pub. L. 114–328, div. A, title X, §1066, Dec. 23, 2016, 130 Stat. 2411.)
 
@@ -144,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) The production of open-source intelligence is a valuable intelligence discipline that must be integrated into intelligence tasking, collection, processing, exploitation, and dissemination to ensure that United States policymakers are fully and completely informed.
 
-&emsp;"(4) The dissemination and use of validated open-source intelligence inherently enables information sharing since open-source intelligence is produced without the use of sensitive sources and methods.Open-source intelligence products can be shared with the American public and foreign allies because of the unclassified nature of open-source intelligence.
+&emsp;"(4) The dissemination and use of validated open-source intelligence inherently enables information sharing since open-source intelligence is produced without the use of sensitive sources and methods. Open-source intelligence products can be shared with the American public and foreign allies because of the unclassified nature of open-source intelligence.
 
 &emsp;"(5) The National Commission on Terrorist Attacks Upon the United States (popularly referred to as the '9/11 Commission'), in its final report released on July 22, 2004, identified shortfalls in the ability of the United States to use all-source intelligence, a large component of which is open-source intelligence.
 

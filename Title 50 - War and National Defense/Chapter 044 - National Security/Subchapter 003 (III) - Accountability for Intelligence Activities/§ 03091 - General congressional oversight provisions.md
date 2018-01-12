@@ -16,11 +16,11 @@ The President and the congressional intelligence committees shall each establish
 
 #### (d) Procedures to protect from unauthorized disclosure
 
-The House of Representatives and the Senate shall each establish, by rule or resolution of such House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
+The House of Representatives and the Senate shall each establish, by rule or resolution ofsuch House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
 
 #### (e) Construction of authority conferred
 
-Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees wouldconstitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.
+Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.
 
 #### (f) "Intelligence activities" defined
 

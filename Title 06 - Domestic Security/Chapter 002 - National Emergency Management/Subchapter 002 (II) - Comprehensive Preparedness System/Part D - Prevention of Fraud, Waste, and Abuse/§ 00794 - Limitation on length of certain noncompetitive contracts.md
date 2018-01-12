@@ -10,7 +10,7 @@ The Secretary shall promulgate regulations applicable to contracts described in 
 
 #### (b) Specific contract period
 
-The regulations promulgated under subsection (a) shall require the contract period to not to exceed <sup>1</sup> 150 days, unless the Secretary determines that exceptional circumstances apply.
+The regulations promulgated under subsection (a) shall require the contract period to not toexceed <sup>1</sup> 150 days, unless the Secretary determines that exceptional circumstances apply.
 
 #### (c) Covered contracts
 

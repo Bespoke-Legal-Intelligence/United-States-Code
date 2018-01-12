@@ -2,7 +2,31 @@
 
 (a)
 
-Vessels With Homeport in United States or Guam.—A naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy) the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States or Guam.—(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+
+(2)(A) Notwithstanding paragraph (1) and subject to subparagraph (B), in the case of a naval vessel classified as a Littoral Combat Ship and operating on deployment, corrective and preventive maintenance or repair (whether intermediate or depot level) and facilities maintenance may be performed on the vessel—
+
+&emsp;(i) in a foreign shipyard;
+
+&emsp;(ii) at a facility outside of a foreign shipyard; or
+
+&emsp;(iii) at any other facility convenient to the vessel.
+
+(B)(i) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
+
+(ii) Facilities maintenance may be performed by a foreign contractor on a vessel as described in subparagraph (A) only as approved by the Secretary of the Navy.
+
+(C) In this paragraph:
+
+&emsp;(i) The term "corrective and preventive maintenance or repair" means—
+
+&emsp;&emsp;(I) maintenance or repair actions performed as a result of a failure in order to return or restore equipment to acceptable performance levels; and
+
+&emsp;&emsp;(II) scheduled maintenance or repair actions to prevent or discover functional failures.
+
+&emsp;(ii) The term "facilities maintenance" means preservation or corrosion control efforts and cleaning services.
+
+(D) This paragraph shall expire on September 30, 2020.
 
 (b)
 
@@ -40,7 +64,7 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(I) Whether the repair was performed under a contract awarded through the use of competitive procedures or procedures other than competitive procedures.
 
-(4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the reportshall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
+(4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the report shall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
 
 (5) In this subsection, the term "covered naval vessel" means any of the following:
 
@@ -50,13 +74,15 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700.)
+(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548.)
 
 #### Prior Provisions
 
 A prior section 7310, added Pub. L. 97–295, §1(49)(A), Oct. 12, 1982, 96 Stat. 1298, related to policy for constructing combatant vessels, prior to repeal by Pub. L. 103–160, §824(a)(8).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91 inserted "Under Jurisdiction of the Secretary of the Navy" after "Vessels" in heading, designated existing provisions as par. (1), substituted "A naval vessel" for "A naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy)", and added par. (2).
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §344(1)(A), substituted "Except as provided in paragraph (4), the report" for "The report" in introductory provisions.
 

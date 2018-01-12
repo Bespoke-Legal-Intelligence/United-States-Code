@@ -4,9 +4,9 @@
 
 (b) An involuntary case against a person is commenced by the filing with the bankruptcy court of a petition under chapter 7 or 11 of this title—
 
-&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
+&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 <sup>1</sup> more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
 
-&emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 of such claims;
+&emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 <sup>1</sup> of such claims;
 
 &emsp;(3) if such person is a partnership—
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
-(i) If the court dismisses a petition under this section other than on consent of all petitionersand the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
+(i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
 &emsp;(1) against the petitioners and in favor of the debtor for—
 
@@ -69,10 +69,6 @@
 (3) Upon the expiration of the statute of limitations described in section 3282 of title 18, for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204; Pub. L. 111–327, §2(a)(9), Dec. 22, 2010, 124 Stat. 3558.)
-
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -187,4 +183,6 @@ By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (b)(1), (2), dollar amount "10,775" was adjusted to "11,625".
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (b)(1), (2), dollar amount "10,000" was adjusted to "10,775".
+
+<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

@@ -82,7 +82,7 @@ The Director—
 
 &emsp;&emsp;(D) success in reducing the negative health and social consequences of drug use in the United States; and
 
-&emsp;&emsp;(E) implementation of drug treatment and prevention programs in the United States and improvements in the adequacy and effectiveness of such programs;
+&emsp;&emsp;(E) implementation of drug treatment and prevention programs in the United Statesand improvements in the adequacy and effectiveness of such programs;
 
 &emsp;(14) shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
 
@@ -118,7 +118,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategyshall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
+&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
 
 #### (B) Submission of drug control budget requests
 
@@ -172,7 +172,7 @@ The Director—
 
 &emsp;&emsp;&emsp;(v) requests funding for drug treatment activities that do not adequately support and enhance Federal drug treatment programs and capacity;
 
-&emsp;&emsp;&emsp;(vi) requests funding for fiscal year 2007 for activities of the Department of Education, unless it is accompanied by a report setting forth a plan for providing expedited consideration of student loan applications for all individuals who submitted an application for any Federal grant, loan, or work assistance that was rejected or denied pursuant to 1091(r)(1) <sup>1</sup> of title 20by reason of a conviction for a drug-related offense not occurring during a period of enrollment for which the individual was receiving any Federal grant, loan, or work assistance; and
+&emsp;&emsp;&emsp;(vi) requests funding for fiscal year 2007 for activities of the Department of Education, unless it is accompanied by a report setting forth a plan for providing expedited consideration of student loan applications for all individuals who submitted an application for any Federal grant, loan, or work assistance that was rejected or denied pursuant to 1091(r)(1) <sup>1</sup> of title 20 by reason of a conviction for a drug-related offense not occurring during a period of enrollment for which the individual was receiving any Federal grant, loan, or work assistance; and
 
 &emsp;&emsp;&emsp;(vii) requests funding for the operations and management of the Department of Homeland Security that does not include a specific request for funds for the Office of Counternarcotics Enforcement to carry out its responsibilities under section 458 of title 6.
 
@@ -206,7 +206,7 @@ The Director—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall review each budget submission submitted under clause (i); and
 
-&emsp;&emsp;&emsp;&emsp;(II) based on the review under subclause (I), if the Director concludes that the budget submission of a National Drug Control Program agency does not include the funding levels and initiatives described under subparagraph (B)—
+&emsp;&emsp;&emsp;&emsp;(II) based on the review under subclause (I), if the Director concludes thatthe budget submission of a National Drug Control Program agency does not include the funding levels and initiatives described under subparagraph (B)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) may issue a written decertification of that agency's budget; and
 
@@ -366,7 +366,7 @@ Nothing in this chapter shall be construed as derogating the authorities and res
 
 Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and (e)(2)(C), are set out in sections 5314 and 5315, respectively, of Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (h), was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct.21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -400,7 +400,7 @@ Subsec. (b)(16) to (20). Pub. L. 109–469, §103(b)(6), added pars. (16) to (20
 
 Subsec. (c)(1)(C). Pub. L. 109–469, §105(a), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 109–469, §105(b)(1), inserted "and the head of each major national organization thatrepresents law enforcement officers, agencies, or associations" after "agency" in introductory provisions.
+Subsec. (c)(2). Pub. L. 109–469, §105(b)(1), inserted "and the head of each major national organization that represents law enforcement officers, agencies, or associations" after "agency" in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 109–469, §105(b)(2), inserted "and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)" before semicolon at end.
 
@@ -462,7 +462,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 
-(e) The Director shall examine the number and structure of command/control and drug intelligence centersoperated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
+(e) The Director shall examine the number and structure of command/control and drug intelligence centers operated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
 
 (f) The Director, utilizing the services of the Drugs and Crime Data Center and Department of Justice Clearinghouse, shall assist in coordinating and enhancing the dissemination of statistics and studies relating to anti-drug abuse policy.
 

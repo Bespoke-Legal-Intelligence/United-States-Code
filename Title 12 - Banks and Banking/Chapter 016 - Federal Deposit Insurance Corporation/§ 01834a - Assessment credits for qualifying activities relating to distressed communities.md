@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depositoryinstitutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
+&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
 
 &emsp;&emsp;(A) designate the eligibility requirements for any institution meeting applicable capital standards to receive an assessment credit under section 1817(b)(7) of this title; and
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) any increase during such period in the amount of assets described in paragraph (2)(A) that has been deemed eligible for credit by the Board; and
 
-&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and other financial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
+&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and otherfinancial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
 
 #### (4) Determination of qualified loans and other financial assistance
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(A) meets the minimum area requirements under paragraph (3) and the eligibility requirements of paragraph (4); and
 
-&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution in accordance with paragraph (2) and such designation is not disapproved under such paragraph.
+&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution inaccordance with paragraph (2) and such designation is not disapproved under such paragraph.
 
 #### (2) Designation requirements
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(A) At least 30 percent of the residents residing in the area have incomes which are less than the national poverty level.
 
-&emsp;&emsp;(B) The unemployment rate for the area is 1½ times greater than the national average\(as determined by the Bureau of Labor Statistics' most recent figures).
+&emsp;&emsp;(B) The unemployment rate for the area is 1½ times greater than the national average (as determined by the Bureau of Labor Statistics' most recent figures).
 
 &emsp;&emsp;(C) Such additional eligibility requirements as the Board may, in its discretion, deem necessary to carry out the provisions of this subtitle.
 
@@ -368,7 +368,7 @@ Subsec. (a)(2). Pub. L. 102–550, §931(c), amended par. (2) generally. Prior t
 
 Subsec. (a)(3). Pub. L. 102–558, §303(b)(9)(B), substituted "section 1817(b)(7)" for "section 1817(d)(4)". Pub. L. 102–550, §1605(a)(7)(B), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Pub. L. 102–558, §303(b)(2), which directed technical amendment to reference to section 1834b of this title to correct reference to corresponding section of original act, could not be executed because of prior general amendment by Pub. L. 102–550, §931(d). See below. Pub. L. 102–550, §1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Pub. L. 102–558, §303(b)(2), which directed technical amendment to reference to section 1834b of this title tocorrect reference to corresponding section of original act, could not be executed because of prior general amendment by Pub. L. 102–550, §931(d). See below. Pub. L. 102–550, §1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Pub. L. 102–550, §931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of any community enterprise assessment credit available under section 1817(d)(4) of this title for any insured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under section 1834b of this title, and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
 

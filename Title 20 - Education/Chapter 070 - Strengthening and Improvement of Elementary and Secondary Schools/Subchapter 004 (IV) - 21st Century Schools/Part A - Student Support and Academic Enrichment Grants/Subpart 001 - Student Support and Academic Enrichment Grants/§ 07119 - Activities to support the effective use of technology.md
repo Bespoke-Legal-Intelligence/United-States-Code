@@ -30,7 +30,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;(5) providing professional development in the use of technology (which may be provided through partnerships with outside organizations) to enable teachers and instructional leaders to increase student achievement in the areas of science, technology, engineering, and mathematics, including computer science; and
 
-&emsp;(6) providing students in rural, remote, and underserved areas with the resources to take advantage of high-quality digital learning experiences, digital resources, and access to online courses taught by effective educators.
+&emsp;(6) providing students in rural, remote, and underserved areas with the resources to takeadvantage of high-quality digital learning experiences, digital resources, and access to online courses taught by effective educators.
 
 #### (b) Special rule
 

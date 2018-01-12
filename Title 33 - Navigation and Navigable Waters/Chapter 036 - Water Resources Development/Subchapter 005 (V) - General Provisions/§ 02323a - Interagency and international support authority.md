@@ -20,7 +20,7 @@ The Secretary may use the technical and managerial expertise of the Corps of Eng
 
 #### (2) Acceptance of funds
 
-&emsp;The Secretary may accept and expend additional funds from Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
+&emsp;The Secretary may accept and expend additional funds from Federal departments oragencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
 
 (Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, §2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, §1029, June 10, 2014, 128 Stat. 1230.)
 

@@ -6,17 +6,17 @@ Every manufacturer of manufactured homes shall furnish notification of any defec
 
 #### (b) Notification by mail
 
-The notification required by subsection (a) of this section shall be accomplished—
+The notification required by subsection (a) shall be accomplished—
 
 &emsp;(1) by mail to the first purchaser (not including any retailer or distributor of such manufacturer) of the manufactured home containing the defect, and to any subsequent purchaser to whom any warranty on such manufactured home has been transferred;
 
-&emsp;(2) by mail to any other person who is a registered owner of such manufactured home and whose name and address has been ascertained pursuant to procedures established under subsection (f) of this section; and
+&emsp;(2) by mail to any other person who is a registered owner of such manufactured home and whose name and address has been ascertained pursuant to procedures established under subsection (f); and
 
 &emsp;(3) by mail or other more expeditious means to the retailer or retailers of such manufacturer to whom such manufactured home was delivered.
 
 #### (c) Form and requisites of notification
 
-The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants' safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction orsafety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
+The notification required by subsection (a) shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants' safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) or otherwise, or is a defect which must be corrected at the expense of the owner.
 
 #### (d) Copy to Secretary of all notices, bulletins, and communications sent by manufacturer to retailers and purchasers concerning defects; disclosure to public by Secretary
 
@@ -38,7 +38,7 @@ Every manufacturer of manufactured homes shall maintain a record of the name and
 
 #### (g) Correction of defects by manufacturer; conditions; procedures; contract or legal rights of purchasers or other persons unaffected
 
-A manufacturer required to furnish notification of a defect under subsection (a) or (e) of this section shall also bring the manufactured home into compliance with applicable standards and correct the defect or have the defect corrected within a reasonable period of time at no expense to the owner, but only if—
+A manufacturer required to furnish notification of a defect under subsection (a) or (e) shall also bring the manufactured home into compliance with applicable standards and correct the defect or have the defect corrected within a reasonable period of time at no expense to the owner, but only if—
 
 &emsp;(1) the defect presents an unreasonable risk of injury or death to occupants of the affected manufactured home or homes;
 
@@ -48,11 +48,11 @@ A manufacturer required to furnish notification of a defect under subsection (a)
 
 #### (h) Submission to Secretary by manufacturer of plan for notifying owners of defects and repair of defects; approval of manufacturer's remedy plan; effectuation and implementation of remedy plan
 
-The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
+The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g)) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply,unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
 
 #### (i) Defective or inadequately repaired manufactured homes; replacement with new or equivalent home or refund of purchase price
 
-Where a defect or failure to comply in a manufactured home cannot be adequately repairedwithin sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
+Where a defect or failure to comply in a manufactured home cannot be adequately repaired within sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
 
 (Pub. L. 93–383, title VI, §615, Aug. 22, 1974, 88 Stat. 709; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(3), Dec. 27, 2000, 114 Stat. 2999.)
 
@@ -73,4 +73,8 @@ Subsecs. (d), (f). Pub. L. 106–569, §603(b)(3)(C), substituted "retailers" fo
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

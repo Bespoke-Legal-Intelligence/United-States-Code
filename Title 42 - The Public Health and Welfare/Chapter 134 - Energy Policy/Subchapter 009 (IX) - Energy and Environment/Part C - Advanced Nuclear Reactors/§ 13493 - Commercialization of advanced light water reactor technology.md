@@ -20,7 +20,7 @@ In order to achieve the goal of certification of completed standardized designs 
 
 &emsp;&emsp;(C) the design proposed is scheduled for certification by the Commission under the Department of Energy's program for certification of light water reactor designs; and
 
-&emsp;&emsp;(D) at least 50 percent of the funding for the project shall be obtained from non-Federal sources, and a substantial portion of that non-Federal funding shall be obtainedfrom utilities or entities whose primary purpose is the production of electrical power for public consumption.
+&emsp;&emsp;(D) at least 50 percent of the funding for the project shall be obtained from non-Federal sources, and a substantial portion of that non-Federal funding shall be obtained from utilities or entities whose primary purpose is the production of electrical power for public consumption.
 
 #### (3) Program documents
 
@@ -28,7 +28,7 @@ In order to achieve the goal of certification of completed standardized designs 
 
 #### (4) Funding limitations
 
-&emsp;(A) Before entering into an agreement with an entity under this subsection, the Secretary shall establish a cost ceiling for the contribution of the Federal Government for the project, and shall report such cost ceiling to the Congress.
+&emsp;(A) Before entering into an agreement with an entity under this subsection, the Secretaryshall establish a cost ceiling for the contribution of the Federal Government for the project, and shall report such cost ceiling to the Congress.
 
 &emsp;(B) No entity shall receive assistance under this subsection for a period greater than 4 years.
 

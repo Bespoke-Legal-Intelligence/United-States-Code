@@ -94,7 +94,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(B) to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection; and
 
-&emsp;&emsp;(C) to respect the Declaration on the TRIPS Agreement and Public Health, adopted by the World Trade Organization at the Fourth Ministerial Conference at Doha, Qatar on November 14, 2001.
+&emsp;&emsp;(C) to respect the Declaration on the TRIPS Agreement and Public Health, adopted by the World Trade Organization at theFourth Ministerial Conference at Doha, Qatar on November 14, 2001.
 
 #### (5) Transparency
 
@@ -164,7 +164,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(ii) reducing tariffs to levels that are the same as or lower than those in the United States;
 
-&emsp;&emsp;(iii) reducing or eliminating subsidies that decrease market opportunities for United States exports or unfairly distort agriculture markets to the detriment of the United States;
+&emsp;&emsp;(iii) reducing or eliminating subsidies that decrease market opportunities for UnitedStates exports or unfairly distort agriculture markets to the detriment of the United States;
 
 &emsp;&emsp;(iv) allowing the preservation of programs that support family farms and rural communities but do not distort trade;
 
@@ -202,7 +202,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(xvi) striving to complete a general multilateral round in the World Trade Organization by January 1, 2005, and seeking the broadest market access possible in multilateral, regional, and bilateral negotiations, recognizing the effect that simultaneous sets of negotiations may have on United States import-sensitive commodities (including those subject to tariff-rate quotas).
 
-&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation with the Congress, shall seek to develop a positionon the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
+&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation with the Congress, shall seek to develop a position on the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
 
 &emsp;(ii) During any negotiations on agricultural subsidies, the United States Trade Representative shall seek to establish the common base year for calculating the Aggregated Measurement of Support (as defined in the Agreement on Agriculture) as the end of each country's Uruguay Round implementation period, as reported in each country's Uruguay Round market access schedule.
 
@@ -306,7 +306,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(11) report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, not later than 12 months after the imposition of a penalty or remedy by the United States permitted by a trade agreement to which this chapter applies, on the effectiveness of the penalty or remedy applied under United States law in enforcing United States rights under the trade agreement; and
 
-&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significantand unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
+&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significant and unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
 
 > The report under paragraph (11) shall address whether the penalty or remedy was effective in changing the behavior of the targeted party and whether the penalty or remedy had any adverse impact on parties or interests not party to the dispute.
 

@@ -28,7 +28,7 @@ In this section, the term "covered law" means each of the following provisions o
 
 &emsp;(4) Part III of subtitle E of title VII of the Food, Conservation, and Energy Act of 2008.
 
-&emsp;(5) Section 450i of this title.
+&emsp;(5) Section 3157 of this title.
 
 (Pub. L. 95–113, title XIV, §1492, as added Pub. L. 113–79, title VII, §7128(a), Feb. 7, 2014, 128 Stat. 877.)
 
@@ -50,5 +50,5 @@ New grants.—Section 1492 of the National Agricultural Research, Extension, and
 
 "(2)
 
-Grants awarded on or before october 1, 2014.—Notwithstanding the amendments made by subsection (b) \[amending sections 450i, 3151, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title\], a matching funds requirement in effect on or before the date of the enactment of this section \[Feb. 7, 2014\] under a provision of a covered law shall continue to apply to a grant awarded under such provision on or before October 1, 2014."
+Grants awarded on or before october 1, 2014.—Notwithstanding the amendments made by subsection (b) \[amending sections 3151, 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title\], a matching funds requirement in effect on or before the date of the enactment of this section \[Feb. 7, 2014\] under a provision of a covered law shall continue to apply to a grant awarded under such provision on or before October 1, 2014."
 

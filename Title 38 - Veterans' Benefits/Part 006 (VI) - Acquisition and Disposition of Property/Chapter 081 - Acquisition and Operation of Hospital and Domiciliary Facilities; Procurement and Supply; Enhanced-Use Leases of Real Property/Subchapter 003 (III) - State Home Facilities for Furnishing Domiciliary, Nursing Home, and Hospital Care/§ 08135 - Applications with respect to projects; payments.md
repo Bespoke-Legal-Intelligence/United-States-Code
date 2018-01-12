@@ -10,7 +10,7 @@
 
 &emsp;(4) Reasonable assurance that upon completion of such project the facilities will be used principally to furnish to veterans the level of care for which such application is made and that not more than 25 percent of the bed occupancy at any one time will consist of patients who are not receiving such level of care as veterans.
 
-&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant, a State home, or another agency or instrumentality of the State.
+&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant,a State home, or another agency or instrumentality of the State.
 
 &emsp;(6) Reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete.
 
@@ -66,7 +66,7 @@
 
 (5)(A) The Secretary shall defer approval of an application that otherwise meets the requirements of this section if the State submitting the application does not, by the July 1 deadline (as defined in subparagraph (D) of this paragraph), demonstrate to the satisfaction of the Secretary that the State has provided adequate financial support for construction of the project.
 
-(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not have been approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
+(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not havebeen approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
 
 (C) An application deferred in accordance with the requirements of this paragraph shall be accorded priority in any subsequent fiscal year ahead of applications that had not been approved before the first day of the fiscal year in which the deferred application was first approved.
 
@@ -144,7 +144,7 @@ Subsec. (b)(6), (7). Pub. L. 100–322, §206(b)(2), added pars. (6) and (7).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576, §224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted "The amount of a grant under this subchapter shall be paid" for "Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amountgreater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment" and struck out par. (2) which read as follows: "No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year."
+Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted "The amount of a grant under this subchapter shall be paid" for "Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment" and struck out par. (2) which read as follows: "No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year."
 
 <b>1985</b>—Subsec. (a)(6). Pub. L. 99–166, §205(a), inserted "by July 1 of the fiscal year for which the application is approved".
 
@@ -222,7 +222,7 @@ Pub. L. 106–117, title II, §207(c), Nov. 30, 1999, 113 Stat. 1566, provided t
 
 &emsp;"(A) Any application for a fiscal year 1999 priority one project.
 
-&emsp;"(B) Any application for a fiscal year 2000 priority one project that was submitted by a State that (i) didnot receive grant funds from amounts appropriated for fiscal year 1999 under the State home grant program, and (ii) does not have any fiscal year 1999 priority one projects.
+&emsp;"(B) Any application for a fiscal year 2000 priority one project that was submitted by a State that (i) did not receive grant funds from amounts appropriated for fiscal year 1999 under the State home grant program, and (ii) does not have any fiscal year 1999 priority one projects.
 
 "(3) For purposes of this subsection—
 

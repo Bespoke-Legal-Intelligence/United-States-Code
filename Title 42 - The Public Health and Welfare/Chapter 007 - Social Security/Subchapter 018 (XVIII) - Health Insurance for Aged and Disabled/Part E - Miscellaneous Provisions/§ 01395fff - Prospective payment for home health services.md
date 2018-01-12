@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for portions of cost reporting periods occurring on or after October 1, 2000, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
+Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for portions of costreporting periods occurring on or after October 1, 2000, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
 
 #### (b) System of prospective payment for home health services
 
@@ -22,7 +22,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts) as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had notbeen in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
+&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
@@ -48,7 +48,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The standard prospective payment amount (or amounts) shall be adjusted for fiscal year 2002 and for fiscal year 2003 and for each subsequent year (beginning with 2004) in a prospective manner specified by the Secretary by the home health applicable increase percentage (as defined in clause (ii)) applicable to the fiscal year or year involved.
+&emsp;&emsp;&emsp;The standard prospective payment amount (or amounts) shall be adjusted for fiscal year 2002 and for fiscal year 2003 and for each subsequent year (beginning with 2004) in a prospective manner specified bythe Secretary by the home health applicable increase percentage (as defined in clause (ii)) applicable to the fiscal year or year involved.
 
 #### (ii) Home health applicable increase percentage
 
@@ -70,7 +70,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate paymentsunder this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
 
 #### (v) Adjustment if quality data not submitted
 
@@ -290,7 +290,7 @@ Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: "Theamendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001."
+Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -394,7 +394,7 @@ Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by 
 
 "(a)
 
-In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005,episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
+In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
 
 "(b)
 
@@ -446,7 +446,7 @@ Preference in Selecting Agencies.—In selecting home health agencies to partici
 
 "(g)
 
-Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
+Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] as may be necessary for thepurposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
 "(h)
 
@@ -674,7 +674,7 @@ Matters studied.—For purposes of subparagraph (A), the matters described in th
 
 &emsp;&emsp;"(C)
 
-Audit.—The Comptroller General shall conduct an independent audit of the costs described in subparagraph (B)(i). Not later than 180 days after receipt of the report under subparagraph (A), the Comptroller General shall submit to Congress a report describing the Comptroller General's findings with respect to such audit, and shall include comments on the report submitted to Congress by the Secretary of Health and Human Services under subparagraph (A).
+Audit.—The Comptroller General shall conduct an independent audit of the costs described in subparagraph (B)(i). Not later than 180 days afterreceipt of the report under subparagraph (A), the Comptroller General shall submit to Congress a report describing the Comptroller General's findings with respect to such audit, and shall include comments on the report submitted to Congress by the Secretary of Health and Human Services under subparagraph (A).
 
 &emsp;"(2)
 
@@ -706,7 +706,7 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[N
 
 #### Case Mix System Development
 
-Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided that: "The Secretary of Health and Human Services shall expand research on a prospectivepayment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs."
+Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided that: "The Secretary of Health and Human Services shall expand research on a prospective payment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs."
 
 #### Case Mix System; Submission of Data
 

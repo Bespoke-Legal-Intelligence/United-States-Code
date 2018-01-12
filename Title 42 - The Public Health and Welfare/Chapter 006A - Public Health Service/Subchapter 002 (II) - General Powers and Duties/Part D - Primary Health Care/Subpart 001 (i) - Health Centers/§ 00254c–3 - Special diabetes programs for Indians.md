@@ -10,7 +10,7 @@ For purposes of subsection (a), services under such subsection are provided in a
 
 &emsp;(1) The Indian Health Service.
 
-&emsp;(2) An Indian health program operated by an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, orcompact with the Indian Health Service pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
+&emsp;(2) An Indian health program operated by an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
 &emsp;(3) An urban Indian health program operated by an urban Indian organization pursuant to a grant or contract with the Indian Health Service pursuant to title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
@@ -26,11 +26,13 @@ For purposes of subsection (a), services under such subsection are provided in a
 
 &emsp;&emsp;(A) $70,000,000 for each of fiscal years 2001 and 2002 (which shall be combined with amounts transferred under paragraph (1) for each such fiscal years);
 
-&emsp;&emsp;(B) $100,000,000 for fiscal year 2003; and
+&emsp;&emsp;(B) $100,000,000 for fiscal year 2003;
 
-&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2017.
+&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III, §3001, May 1, 1998, 112 Stat. 82; Pub. L. 106–554, §1(a)(6) \[title IX, §931(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(b), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(b), Dec. 29, 2007, 121 Stat. 2515; Pub. L. 110–275, title III, §303(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(2), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(b), Jan. 2, 2013, 126 Stat. 2353; Pub. L. 113–93, title II, §204(b), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(b), Apr. 16, 2015, 129 Stat. 152.)
+&emsp;&emsp;(D) $37,500,000 for the first quarter of fiscal year 2018 and $37,500,000 for the second quarter of fiscal year 2018.
+
+(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III, §3001, May 1, 1998, 112 Stat. 82; Pub. L. 106–554, §1(a)(6) \[title IX, §931(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(b), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(b), Dec. 29, 2007, 121 Stat. 2515; Pub. L. 110–275, title III, §303(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(2), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(b), Jan. 2, 2013, 126 Stat. 2353; Pub. L. 113–93, title II, §204(b), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(b), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–63, title III, §301(b), Sept. 29, 2017, 131 Stat. 1172; Pub. L. 115–96, div. C, title I, §3102(b), Dec. 22, 2017, 131 Stat. 2049.)
 
 #### References in Text
 
@@ -39,6 +41,10 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(D). Pub. L. 115–96 inserted "and $37,500,000 for the second quarter of fiscal year 2018" before period at end.
+
+Pub. L. 115–63 added subpar. (D).
 
 <b>2015</b>—Subsec. (c)(2)(C). Pub. L. 114–10 substituted "2017" for "2015".
 

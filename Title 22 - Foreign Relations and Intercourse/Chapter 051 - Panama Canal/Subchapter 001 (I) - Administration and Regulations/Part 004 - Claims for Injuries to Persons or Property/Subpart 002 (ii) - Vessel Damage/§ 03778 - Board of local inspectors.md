@@ -12,5 +12,5 @@
 
 #### Delegation of Functions
 
-Functions vested in President by this section delegated to Secretary of Defense, see section 1–303 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+Functions vested in President by this section delegated to Secretary of Defense, see section 1–303 of Ex.Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 

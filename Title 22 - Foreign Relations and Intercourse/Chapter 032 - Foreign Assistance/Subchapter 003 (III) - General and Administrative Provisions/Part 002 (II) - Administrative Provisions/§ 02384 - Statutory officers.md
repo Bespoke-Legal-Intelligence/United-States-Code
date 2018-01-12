@@ -50,7 +50,7 @@ Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted "Assistant Secreta
 
 <b>1972</b>—Subsec. (e). Pub. L. 92–226 added subsec. (e).
 
-<b>1969</b>—Subsec. (d)(2)(A). Pub. L. 91–175, §304(1), inserted provision including the Overseas Private Investment Corporation in Inspector General's reviews and audits, and inserted provision authorizing the conduct of such reviews and audits for programs under section 290f of this title.
+<b>1969</b>—Subsec. (d)(2)(A). Pub. L. 91–175, §304(1), inserted provision including the Overseas Private Investment Corporation in Inspector General's reviews and audits, and inserted provision authorizing the conduct of suchreviews and audits for programs under section 290f of this title.
 
 Subsec. (d)(5), (7). Pub. L. 91–175, §304(2), (3), included section 290f of this title within provisions of this section.
 

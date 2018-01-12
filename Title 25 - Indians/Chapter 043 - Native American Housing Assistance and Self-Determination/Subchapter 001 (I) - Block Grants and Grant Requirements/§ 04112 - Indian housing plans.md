@@ -68,7 +68,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;&emsp;(ii) a certification that the recipient will maintain adequate insurance coverage for housing units that are owned and operated or assisted with grant amounts provided under this chapter, in compliance with such requirements as the Secretary may establish;
 
-&emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
+&emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by theSecretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
 
 &emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
 
@@ -92,7 +92,7 @@ A plan under this section may cover more than 1 Indian tribe, but only if the ce
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114Stat. 2962; Pub. L. 110–411, title I, §102, Oct. 14, 2008, 122 Stat. 4321.)
+(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962; Pub. L. 110–411, title I, §102, Oct. 14, 2008, 122 Stat. 4321.)
 
 #### References in Text
 

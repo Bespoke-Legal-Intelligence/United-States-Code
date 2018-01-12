@@ -38,7 +38,7 @@ In subsec. (b)(4), "section 8141 of title 40" substituted for "the Act of March 
 
 <b>1999</b>—Subsecs. (a), (c). Pub. L. 106–129 substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research" wherever appearing.
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoingstudy of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
+<b>1993</b>—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII" for "in sections 242c, 242k, and 242n of this title".
 
@@ -88,11 +88,11 @@ Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added
 
 Subsec. (a)(2). Pub. L. 91–515, §201(a)(2), redesignated subsec. (b) as (a)(2), and substituted "subsection" for "section" wherever appearing.
 
-Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted "subsection" for "section" wherever appearing, and added subsec. (a)(3)(B).
+Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted "subsection"for "section" wherever appearing, and added subsec. (a)(3)(B).
 
 Subsec. (b). Pub. L. 91–515, §201(a)(2)(A), (b), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated subsec. (d) as (c), and substituted provisions authorizing appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and authorizing to be appropriated such additionalsums for each fiscal year as may be necessary to carry out the provisions of subsec. (b), for provisions authorizing appropriations of $20,000,000 for the fiscal year ending June 30, 1968, $40,000,000 for the fiscal year ending June 30, 1969, and $60,000,000 for the fiscal year ending June 30, 1970. Former subsec. (c) redesignated (a)(3)(A).
+Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated subsec. (d) as (c), and substituted provisions authorizing appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and authorizing to be appropriated such additional sums for each fiscal year as may be necessary to carry out the provisions of subsec. (b), for provisions authorizing appropriations of $20,000,000 for the fiscal year ending June 30, 1968, $40,000,000 for the fiscal year ending June 30, 1969, and $60,000,000 for the fiscal year ending June 30, 1970. Former subsec. (c) redesignated (a)(3)(A).
 
 Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for evaluation of program authorized by this section. See section 229b of this title.
 

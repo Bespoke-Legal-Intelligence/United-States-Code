@@ -26,7 +26,7 @@ The Assistant Secretary of Energy for Environmental Management shall submit to t
 
 #### (e) Termination
 
-The Office shall terminate on September 30, 2019. The Office may be extended beyond thatdate if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
+The Office shall terminate on September 30, 2019. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
 (Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767; Pub. L. 112–81, div. C, title XXXI, §3113, Dec. 31, 2011, 125 Stat. 1709; Pub. L. 113–66, div. C, title XXXI, §3146(e)(13), Dec. 26, 2013, 127 Stat. 1078.)
 
@@ -52,5 +52,5 @@ Subsecs. (e), (f). Pub. L. 112–81, §3113(3), added subsec. (e) and struck out
 
 Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(c)\], substituted "head" for "manager" and "to carry out the responsibilities specified in subsection (b)(2)" for "to manage the tank waste privatization program at Hanford in an efficient and streamlined manner".
 
-Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(d)\], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committees on Commerce and on National Security of the House of Representatives an integrated management plan for all aspects of the Hanford Tank Farm operations, including the roles, responsibilities, and reporting relationships of the Office."
+Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(d)\], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Not later than 90 days after the date of the enactment ofthis Act, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committees on Commerce and on National Security of the House of Representatives an integrated management plan for all aspects of the Hanford Tank Farm operations, including the roles, responsibilities, and reporting relationships of the Office."
 

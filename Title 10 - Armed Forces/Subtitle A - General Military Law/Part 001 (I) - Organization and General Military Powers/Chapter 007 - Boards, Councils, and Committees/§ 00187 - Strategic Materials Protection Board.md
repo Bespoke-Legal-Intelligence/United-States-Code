@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "secure supply", with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, §1081(a)(2), Dec. 23, 2016, 130 Stat. 2417.)
+(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, §1081(a)(2), Dec. 23, 2016, 130 Stat. 2417.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Subsec. (b)(3), (4). Pub. L. 112–239, §901(c)(2), substituted "Secretary" for
 
 Subsec. (c). Pub. L. 112–239, §901(c)(3), substituted "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy" for "Secretary of Defense".
 
-Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "After each meeting of the Board, the Board shallprepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate."
+Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate."
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383, §829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 

@@ -16,7 +16,7 @@ No person, in connection with a plan or other arrangement that is <sup>1</sup> 
 
 #### References in Text
 
-This chapter, referred to in par. (4), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in par. (4), was in the original "this Act", meaning Pub. L. 93–406, known as theEmployee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "a".</i>
 

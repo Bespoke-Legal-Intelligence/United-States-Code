@@ -6,7 +6,7 @@ OSIA should receive policy guidance which is formulated through an interagency m
 
 #### (b) Role of Secretary of Defense
 
-The Secretary of Defense should provide to OSIA appropriate policy guidance formulated through the interagency mechanism described in subsection (a) and operational direction, consistent with section 113(b) of title 10.
+The Secretary of Defense should provide to OSIA appropriate policy guidance formulatedthrough the interagency mechanism described in subsection (a) and operational direction, consistent with section 113(b) of title 10.
 
 #### (c) Role of Secretary of State
 
@@ -16,7 +16,7 @@ The Secretary of State should provide to the interagency mechanism described in 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–277, §1223(18), in heading substituted "Secretary of State" for "Director" and intext substituted "Secretary of State" for "Director" and "2551(3) and 2574(b)" for "2551(d), 2562, and 2574(c)".
+<b>1998</b>—Subsec. (c). Pub. L. 105–277, §1223(18), in heading substituted "Secretary of State" for "Director" and in text substituted "Secretary of State" for "Director" and "2551(3) and 2574(b)" for "2551(d), 2562, and 2574(c)".
 
 #### Effective Date of 1998 Amendment
 

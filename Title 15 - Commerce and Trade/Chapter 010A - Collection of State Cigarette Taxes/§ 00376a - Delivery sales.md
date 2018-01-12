@@ -66,7 +66,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (2) Record retention
 
-&emsp;Records of a delivery sale shall be kept as described in paragraph (1) until the end of the4th full calendar year that begins after the date of the delivery sale.
+&emsp;Records of a delivery sale shall be kept as described in paragraph (1) until the end of the 4th full calendar year that begins after the date of the delivery sale.
 
 #### (3) Access for officials
 
@@ -80,7 +80,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;(A) any cigarette or smokeless tobacco excise tax that is imposed by the State in which the cigarettes or smokeless tobacco are to be delivered has been paid to the State;
 
-&emsp;&emsp;(B) any cigarette or smokeless tobacco excise tax that is imposed by the local government of the place in which the cigarettes or smokeless tobacco are to be delivered has been paid to the local government; and
+&emsp;&emsp;(B) any cigarette or smokeless tobacco excise tax that is imposed by the local government of the place in which the cigarettes orsmokeless tobacco are to be delivered has been paid to the local government; and
 
 &emsp;&emsp;(C) any required stamps or other indicia that the excise tax has been paid are properly affixed or applied to the cigarettes or smokeless tobacco.
 
@@ -132,7 +132,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;&emsp;(i) use reasonable procedures to ensure maximum possible accuracy and completeness of the records and information relied on for the purpose of determining that a delivery seller is not in compliance with this chapter;
 
-&emsp;&emsp;&emsp;(ii) not later than 14 days before including a delivery seller on the list, make a reasonable attempt to send notice to the delivery seller by letter, electronic mail, or other means that the delivery seller is being placed on the list, which shall citethe relevant provisions of this chapter and the specific reasons for which the delivery seller is being placed on the list;
+&emsp;&emsp;&emsp;(ii) not later than 14 days before including a delivery seller on the list, make a reasonable attempt to send notice to the delivery seller by letter, electronic mail, or other means that the delivery seller is being placed on the list, which shall cite the relevant provisions of this chapter and the specific reasons for which the delivery seller is being placed on the list;
 
 &emsp;&emsp;&emsp;(iii) provide an opportunity to the delivery seller to challenge placement on the list;
 
@@ -142,7 +142,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (F) Confidentiality
 
-&emsp;&emsp;The list described in subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list and may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing in this section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with a listed delivery seller the inclusion of the delivery seller on the list and the resulting effects on any services requested by the listed delivery seller.
+&emsp;&emsp;The list described in subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list and may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing inthis section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with a listed delivery seller the inclusion of the delivery seller on the list and the resulting effects on any services requested by the listed delivery seller.
 
 #### (2) Prohibition on delivery
 
@@ -186,7 +186,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (A) In general
 
-&emsp;&emsp;If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described inparagraph (1)(A) and that clauses (i), (ii), and (iii) of paragraph (2)(A) do not apply—
+&emsp;&emsp;If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described in paragraph (1)(A) and that clauses (i), (ii), and (iii) of paragraph (2)(A) do not apply—
 
 &emsp;&emsp;&emsp;(i) the person ordering the delivery shall be obligated to pay—
 

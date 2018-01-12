@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
+Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extentpracticable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
 (b)
 
@@ -31,6 +31,50 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Launch Support and Infrastructure Modernization
+
+Pub. L. 115–91, div. A, title XVI, §1609, Dec. 12, 2017, 131 Stat. 1727, provided that:
+
+"(a)
+
+In General.—In support of the policy specified in section 2273 of title 10, United States Code, the Secretary of Defense shall carry out a program to modernize infrastructure and improve support activities for the processing and launch of United States national security space vehicles launching from Federal ranges.
+
+"(b)
+
+Elements.—The program under subsection (a) shall include—
+
+&emsp;"(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that may benefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance;
+
+&emsp;"(2) measures to normalize processes, systems, and products across the Eastern and Western ranges to minimize the burden on launch providers; and
+
+&emsp;"(3) improvements in transparency, flexibility, and, \[sic\] responsiveness for launch scheduling.
+
+"(c)
+
+Consultation.—In carrying out the program under subsection (a), the Secretary may consult with current and anticipated users of the Eastern and Western Ranges.
+
+"(d)
+
+Cooperation.—In carrying out the program under subsection (a), the Secretary may consider partnerships authorized under section 2276 of title 10, United States Code.
+
+"(e)
+
+Report.—
+
+&emsp;"(1)
+
+Report required.—Not later than 120 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plan for the implementation of the program under subsection (a).
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) a description of plans and the resources needed to improve launch support infrastructure, utilities, support equipment, and range operations;
+
+&emsp;&emsp;"(B) a description of plans to streamline and normalize processes, systems, and products at the Eastern and Western ranges, to ensure consistency for range users; and
+
+&emsp;&emsp;"(C) recommendations for improving transparency, flexibility, and responsiveness in launch scheduling."
 
 #### Acquisition Strategy for Evolved Expendable Launch Vehicle Program
 
@@ -102,7 +146,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Rocket Propulsion System Development Program
 
-Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, titleXVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, §1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
+Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, §1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
 
 "(a)
 

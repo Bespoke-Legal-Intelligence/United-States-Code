@@ -130,7 +130,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
-&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
+&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides whichwere treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
 #### (C) Certain failures to distribute
 
@@ -192,7 +192,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;Except as provided in paragraph (2), any qualifying distribution made during a taxable year shall be treated as made—
 
-&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (if the private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
+&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (ifthe private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
 
 &emsp;&emsp;(B) second out of the undistributed income for the taxable year to the extent thereof, and
 
@@ -250,7 +250,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) its minimum investment return; and
 
-&emsp;&emsp;(B)(i) substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted.
+&emsp;&emsp;(B)(i) substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted,
 
 &emsp;&emsp;(ii) which normally makes qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated in an amount not less than two-thirds of its minimum investment return (as defined in subsection (e)), or
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 &emsp;For purposes of this section (but no other provisions of this title), the term "operating foundation" includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b),1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Codification
 
@@ -356,7 +356,7 @@ Pub. L. 98–369, div. A, title III, §314(a)(4), July 18, 1984, 98 Stat. 787, p
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

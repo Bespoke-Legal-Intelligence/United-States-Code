@@ -56,7 +56,7 @@
 
 #### (2) Construction of building
 
-&emsp;The Board of Regents, in consultation with the Council, may plan, design, and construct abuilding for the Museum, which shall be located at the site designated by the Board of Regents under this paragraph.
+&emsp;The Board of Regents, in consultation with the Council, may plan, design, and construct a building for the Museum, which shall be located at the site designated by the Board of Regents under this paragraph.
 
 #### (3) Nonapplicability of provisions relating to monuments and commemorative works
 

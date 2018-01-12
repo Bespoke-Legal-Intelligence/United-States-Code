@@ -14,5 +14,5 @@ Section 1815, acts Aug. 26, 1954, ch. 937, ch. I, §105, 68 Stat. 834; July 8, 1
 
 Section 1816, act Aug. 26, 1954, ch. 937, ch. I, §106, 68 Stat. 836, authorized the President to sell military equipment, materials and services and prescribed the manner of payment. See sections 2342 and 2343 of this title.
 
-Section 1817, acts Aug. 26, 1954, ch. 937, ch. I, §107, 68 Stat. 836; Aug. 14, 1957, Pub. L. 85–141, §2(d), 71 Stat. 356,authorized the waiver of certain laws. See section 2393 of this title.
+Section 1817, acts Aug. 26, 1954, ch. 937, ch. I, §107, 68 Stat. 836; Aug. 14, 1957, Pub. L. 85–141, §2(d), 71 Stat. 356, authorized the waiver of certain laws. See section 2393 of this title.
 

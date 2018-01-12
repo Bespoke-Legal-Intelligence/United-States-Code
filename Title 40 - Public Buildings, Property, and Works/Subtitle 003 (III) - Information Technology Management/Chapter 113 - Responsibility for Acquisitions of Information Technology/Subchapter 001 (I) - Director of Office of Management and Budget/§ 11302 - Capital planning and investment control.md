@@ -24,7 +24,7 @@ Definitions.—In this subsection:
 
 &emsp;(2)
 
-Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating therisks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
+Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
 &emsp;(3)
 
@@ -88,11 +88,7 @@ Risk management.—For each major information technology investment listed under
 
 &emsp;&emsp;(D) for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
 
-&emsp;(5) <sup>2</sup>
-
-Sunset of certain provisions.—Paragraphs (1), (3), and (4) shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015.
-
-&emsp;(5) <sup>2</sup>
+&emsp;(5)
 
 Report to congress.—At the same time that the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
 
@@ -128,7 +124,7 @@ Informing Congress.—The Director shall keep Congress fully informed on the ext
 
 Coordination of Policy Development and Review.—The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237; Pub. L. 108–458, title VIII, §8401(1), (2), Dec. 17, 2004, 118 Stat. 3869; Pub. L. 113–291, div. A, title VIII, §832, Dec. 19, 2014, 128 Stat. 3440.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237; Pub. L. 108–458, title VIII, §8401(1), (2), Dec. 17, 2004, 118 Stat. 3869; Pub. L. 113–291, div. A, title VIII, §832, Dec. 19, 2014, 128 Stat. 3440; Pub. L. 115–88, §2, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, §819(a), Dec. 12, 2017, 131 Stat. 1464.)
 
 Historical and Revision Notes
 
@@ -150,9 +146,9 @@ Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
 
 Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552 of Title 44, Public Printing and Documents.
 
-The date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (c)(5), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
-
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(5). Pub. L. 115–88 and Pub. L. 115–91 amended subsec. (c) identically, striking out par. (5) relating to sunset of certain provisions. Text read as follows: "Paragraphs (1), (3), and (4) shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015."
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–291 added pars. (1), (3), (4), and par. (5) relating to sunset of certain provisions and redesignated former pars. (1) and (2) as par. (2) and par. (5) relating to report to Congress, respectively.
 
@@ -196,7 +192,7 @@ OMB Directive.—The Director shall issue a directive to require the Chief Infor
 
 &emsp;&emsp;"(E) establish goals and objectives of the software license management program of the executive agency; and
 
-&emsp;&emsp;"(F) consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, anddisposal phases, to implement effective decisionmaking and incorporate existing standards, processes, and metrics.
+&emsp;&emsp;"(F) consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, and disposal phases, to implement effective decisionmaking and incorporate existing standards, processes, and metrics.
 
 "(c)
 
@@ -245,6 +241,4 @@ Definitions.—In this section:
 &emsp;"(3) The term 'performance-based', with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Two pars. (5) have been enacted.</i>
 

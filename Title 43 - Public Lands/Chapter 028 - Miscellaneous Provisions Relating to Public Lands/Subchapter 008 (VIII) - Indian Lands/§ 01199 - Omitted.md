@@ -1,0 +1,6 @@
+### §1199. Omitted
+
+#### Codification
+
+Section, act July 6, 1954, ch. 463, §2, 68 Stat. 452, which related to contract provisions for the condemnation of Sioux lands for the construction of the Fort Randall Dam, was omitted from the Code as being of special and not general application.
+

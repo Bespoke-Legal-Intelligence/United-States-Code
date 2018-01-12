@@ -28,7 +28,7 @@ Subject only to the limitations provided under paragraphs (1) and (2), the charg
 
 #### (1) Post-firm properties
 
-&emsp;Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, except that the chargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e) of this section.
+&emsp;Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, except that the chargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e).
 
 #### (2) Certain leased coastal and river properties
 
@@ -40,7 +40,7 @@ With respect to any chargeable premium rate prescribed under this section, a sum
 
 #### (e) Annual limitation on premium increases
 
-Except with respect to properties described under paragraph (2) of subsection (c) of this section, and notwithstanding any other provision of this chapter—
+Except with respect to properties described under paragraph (2) of subsection (c), and notwithstanding any other provision of this chapter—
 
 &emsp;(1) the chargeable risk premium rate for flood insurance under this chapter for any property may not be increased by more than 18 percent each year, except—
 
@@ -60,7 +60,7 @@ Except with respect to properties described under paragraph (2) of subsection (c
 
 &emsp;&emsp;&emsp;(iii) was misrated;
 
-&emsp;(2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under section 4014(a)(2) of this title within any single risk classification, excluding properties for whichthe chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
+&emsp;(2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under section 4014(a)(2) of this title within any single risk classification, excluding properties for which the chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
 
 &emsp;(3) the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 15 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
 
@@ -188,7 +188,7 @@ Subsec. (i). Pub. L. 112–141, §100211(3), added subsec. (i).
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–264, §106(a), added subsec. (c) and struck out former subsec. (c) which read as follows "Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title."
 
-Subsec. (e). Pub. L. 108–264, §106(b), substituted "Except with respect to properties described under paragraph (2) or (3) of subsection (c) of this section, and notwithstanding" for "Notwithstanding".
+Subsec. (e). Pub. L. 108–264, §106(b), substituted "Except with respect to properties described under paragraph (2) or (3) of subsection (c), and notwithstanding" for "Notwithstanding".
 
 Subsec. (f). Pub. L. 108–264, §209, added subsec. (f).
 
@@ -221,6 +221,10 @@ Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: "The firs
 #### Construction of Amendment by Pub. L. 112–141
 
 Pub. L. 112–141, div. F, title II, §100205(e), July 6, 2012, 126 Stat. 919, provided that: "Nothing in this section \[amending this section and section 4014 of this title and enacting provisions set out as a note under section 4014 of this title\] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled 'An Act to extend the National Flood Insurance Program, and for other purposes', approved May 31, 2012 (Public Law 112–123) \[set out above\], that the first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012."
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

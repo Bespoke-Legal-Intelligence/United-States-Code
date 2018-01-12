@@ -56,7 +56,7 @@ If any broker—
 
 &emsp;&emsp;(C) such other items as the Secretary may prescribe by regulations,
 
-> during the period such short sale or similar transaction is open, the broker shall furnish such customer a written statement (in the manner as the Secretary shall prescribe by regulations) identifying such payment as being in lieu of the dividend, tax-exempt interest, or such other item. The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made. The Secretary may prescribe regulations which require the broker to make a return which includes the information contained in such written statement.
+> during the period such short sale or similar transaction is open, the broker shall furnishsuch customer a written statement (in the manner as the Secretary shall prescribe by regulations) identifying such payment as being in lieu of the dividend, tax-exempt interest, or such other item. The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made. The Secretary may prescribe regulations which require the broker to make a return which includes the information contained in such written statement.
 
 #### (e) Return required in the case of real estate transactions
 
@@ -136,7 +136,7 @@ If any broker—
 
 #### (A) In general
 
-&emsp;&emsp;The information required under paragraph (1) to be shown on a return with respect to a covered security of a customer shall include the customer's adjusted basis in such security and whether any gain or loss with respect to such security is long-term or short-term (within the meaning of section 1222).
+&emsp;&emsp;The information required under paragraph (1) to be shown on a return with respect to a covered security of a customer shall include the customer's adjusted basis in such security and whether any gain or loss withrespect to such security is long-term or short-term (within the meaning of section 1222).
 
 #### (B) Determination of adjusted basis
 
@@ -168,7 +168,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;(i) was acquired through a transaction in the account in which such security is held, or
 
-&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was acovered security, but only if the broker received a statement under section 6045A with respect to the transfer.
+&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was a covered security, but only if the broker received a statement under section 6045A with respect to the transfer.
 
 #### (B) Specified security
 
@@ -222,7 +222,7 @@ If any broker—
 
 &emsp;For purposes of this subsection, the terms "covered security" and "specified security" shall have the meanings given such terms in subsection (g)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854; Pub. L. 113–295, div. A, title II, §210(f)(4), Dec. 19, 2014, 128 Stat. 4032; Pub. L. 114–113, div. Q, title II, §202(c), Dec. 18, 2015, 129 Stat. 3077.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854; Pub. L. 113–295, div. A, title II, §210(f)(4), Dec. 19, 2014, 128 Stat. 4032; Pub. L. 114–113, div. Q, title II, §202(c), Dec. 18, 2015, 129 Stat. 3077.)
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into accountits cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
+Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
 
 <b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
 
@@ -326,7 +326,7 @@ Pub. L. 99–514, title XV, §1521(c), Oct. 22, 1986, 100 Stat. 2747, provided t
 
 Pub. L. 98–369, div. A, title I, §150(b), July 18, 1984, 98 Stat. 690, provided that: "The amendment made by this section \[amending this section\] shall apply to payments received after December 31, 1984."
 
-Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, towhich such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 

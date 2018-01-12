@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hour after the initiation of the restraint or seclusion; and
 
-&emsp;&emsp;&emsp;(iii) ensure that the supervisory or senior staff person continues to monitor thesituation for the duration of the restraint and seclusion.
+&emsp;&emsp;&emsp;(iii) ensure that the supervisory or senior staff person continues to monitor the situation for the duration of the restraint and seclusion.
 
 #### (3) Limitations
 

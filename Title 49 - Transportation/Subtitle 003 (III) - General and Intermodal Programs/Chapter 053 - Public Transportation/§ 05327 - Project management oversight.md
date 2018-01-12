@@ -122,7 +122,7 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §3012(1), which directed substitution of section "5338(f)" for "section 5338(i)", was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 114–94, §3012(2)(A)(i), which directed substitution of section 5338(f) for "section 5338(i)" without placing quotation marks around the language to be substituted, was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 114–94, §3012(2)(A)(i), which directed substitution of section 5338(f) for "section5338(i)" without placing quotation marks around the language to be substituted, was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
 
 Subsec. (d)(2), (3). Pub. L. 114–94, §3012(2)(A)(ii), (B), added pars. (2) and (3) and struck out former par. (2), which read as follows: "a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight."
 

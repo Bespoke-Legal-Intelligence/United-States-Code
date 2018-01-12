@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) tree plantings and ground covers such as low growing dense perennial turfgrass sod in urban areas and communities can aid in reducing carbon dioxide emissions, mitigating the heat island effect, and reducing energy consumption, thus contributing to efforts to reduce global warming trends;
 
-&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areas and communities can contribute to the social well-being and promote a sense of community in these areas; and
+&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areasand communities can contribute to the social well-being and promote a sense of community in these areas; and
 
 &emsp;(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementary ground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
 
@@ -74,7 +74,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 #### (e) Procurement of plant materials
 
-The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
+The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials andmay procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
 
 #### (f) Challenge cost-share program
 
@@ -250,5 +250,5 @@ Amendment by section 7511(c)(36) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

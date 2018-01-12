@@ -18,7 +18,7 @@ The Commandant of the Coast Guard, in consultation with the Interagency Committe
 
 #### References in Text
 
-The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§1901 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 #### Amendments
 

@@ -52,7 +52,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Homeland Security;
 
-&emsp;(3) use personnel of the Veterans Benefits Administration of the Department of VeteransAffairs and other appropriate personnel of that Department;
+&emsp;(3) use personnel of the Veterans Benefits Administration of the Department of Veterans Affairs and other appropriate personnel of that Department;
 
 &emsp;(4) use representatives of military and veterans' service organizations;
 
@@ -192,7 +192,7 @@ Elements.—The additional information required by paragraph (1) shall include t
 
 &emsp;"(3)
 
-Consultation.—In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs, the Secretary of Education, and the Director of the Consumer Financial Protection Bureau.
+Consultation.—In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs, the Secretary ofEducation, and the Director of the Consumer Financial Protection Bureau.
 
 "(b)
 

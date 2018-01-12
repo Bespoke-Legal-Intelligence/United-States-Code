@@ -32,7 +32,7 @@ As used in this section, the term "consular or diplomatic post" does not include
 
 #### Prior Provisions
 
-A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under section2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 Provisions similar to this section were contained in Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, and set out as a note under section 2656 of this title, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655.
 

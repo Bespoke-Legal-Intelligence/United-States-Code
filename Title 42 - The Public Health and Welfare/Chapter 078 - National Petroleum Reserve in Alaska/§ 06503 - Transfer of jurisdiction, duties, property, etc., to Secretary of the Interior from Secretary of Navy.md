@@ -6,7 +6,7 @@ Jurisdiction over the reserve shall be transferred by the Secretary of the Navy 
 
 #### (b) Protection of environmental, fish and wildlife, and historical or scenic values; promulgation of rules and regulations
 
-With respect to any activities related to the protection of environmental, fish and wildlife, and historical or scenic values, the Secretary of the Interior shall assume all responsibilities as of April 5, 1976. As soon as possible, but not laterthan the effective date of transfer, the Secretary of the Interior may promulgate such rules and regulations as he deems necessary and appropriate for the protection of such values within the reserve.
+With respect to any activities related to the protection of environmental, fish and wildlife, and historical or scenic values, the Secretary of the Interior shall assume all responsibilities as of April 5, 1976. As soon as possible, but not later than the effective date of transfer, the Secretary of the Interior may promulgate such rules and regulations as he deems necessary and appropriate for the protection of such values within the reserve.
 
 #### (c) Contract responsibilities and functions
 

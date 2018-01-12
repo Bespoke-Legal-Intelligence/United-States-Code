@@ -22,7 +22,7 @@
 
 &emsp;(B) complying or agreeing to comply with import and shipping document requirements with respect to the country of origin, the name of the carrier and route of shipment, the name of the supplier of the shipment or the name of the provider of other services, except that no information knowingly furnished or conveyed in response to such requirements may be stated in negative, blacklisting, or similar exclusionary terms, other than with respect to carriers or route of shipment as may be permitted by such regulations in order to comply with precautionary requirements protecting against war risks and confiscation;
 
-&emsp;(C) complying or agreeing to comply in the normal course of business with the unilateral and specific selection by a boycotting country, or national or resident thereof, of carriers, insurers, suppliers of services to be performed within the boycotting country or specific goods which, in the normal course of business, are identifiable by source when imported into the boycotting country;
+&emsp;(C) complying or agreeing to comply in the normal course of business with the unilateral and specific selection by a boycotting country, or national or resident thereof, of carriers, insurers, suppliers of services to be performed within the boycotting country or specific goods which, in the normal course of business,are identifiable by source when imported into the boycotting country;
 
 &emsp;(D) complying or agreeing to comply with export requirements of the boycotting country relating to shipments or transshipments of exports to the boycotted country, to any business concern of or organized under the laws of the boycotted country, or to any national or resident of the boycotted country;
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) any destructive device (as defined in section 921 of this title).
 
-(f) For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officerof the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice).
+(f) For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest or apprehensionunder section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice).
 
 (Added Pub. L. 108–277, §2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, §2(a), (b), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, §1089(1), Jan. 2, 2013, 126 Stat. 1970.)
 

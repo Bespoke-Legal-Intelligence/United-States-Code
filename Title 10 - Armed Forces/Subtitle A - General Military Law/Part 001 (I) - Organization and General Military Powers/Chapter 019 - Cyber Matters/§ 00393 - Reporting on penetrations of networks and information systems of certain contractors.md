@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Cleared defense contractor.—The term "cleared defense contractor" means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
+Cleared defense contractor.—The term "cleared defense contractor" means a private entity granted clearance by the Department ofDefense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
 
 &emsp;(2)
 
@@ -98,7 +98,7 @@ Covered network.—The term "covered network" means a network or information sys
 
 #### Codification
 
-Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, §941, Jan. 2,2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
+Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
 

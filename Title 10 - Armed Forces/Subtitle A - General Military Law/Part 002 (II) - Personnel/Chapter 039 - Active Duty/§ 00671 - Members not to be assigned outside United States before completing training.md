@@ -1,6 +1,6 @@
 ### §671. Members not to be assigned outside United States before completing training
 
-(a) A member of the armed forces may not be assigned to active duty on land outside the United States and its territories and possessions until the member has completed the basic training requirements of the armed force of which he is a member.
+(a) A member of the armed forces may not be assigned to active duty on land outside theUnited States and its territories and possessions until the member has completed the basic training requirements of the armed force of which he is a member.
 
 (b) In time of war or a national emergency declared by Congress or the President, the period of required basic training (or its equivalent) may not (except as provided in subsection (c)) be less than 12 weeks.
 
@@ -8,7 +8,7 @@
 
 (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 94–106, title VIII, §802(b), Oct. 7, 1975, 89 Stat. 537;Pub. L. 99–661, div. A, title V, §501, Nov. 14, 1986, 100 Stat. 3863; Pub. L. 103–160, div. A, title V, §511, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(v), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 94–106, title VIII, §802(b), Oct. 7, 1975, 89 Stat. 537; Pub. L. 99–661, div. A, title V, §501, Nov. 14, 1986, 100 Stat. 3863; Pub. L. 103–160, div. A, title V, §511, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(v), Dec. 23, 2016, 130 Stat. 2418.)
 
 Historical and Revision Notes
 

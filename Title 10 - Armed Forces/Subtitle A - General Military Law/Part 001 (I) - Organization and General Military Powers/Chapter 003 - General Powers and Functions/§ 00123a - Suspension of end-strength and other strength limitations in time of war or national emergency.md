@@ -2,7 +2,7 @@
 
 (a)
 
-During War or National Emergency.—(1) If at the end of any fiscal year there is in effect a war or national emergency, the President may waive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
+During War or National Emergency.—(1) If at the end of any fiscal year there is in effect a war or national emergency, the President maywaive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
 
 (2) When a designation of a major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)) is in effect, the President may waive any statutory limit that would otherwise apply during the period of the designation on the number of members of a reserve component who are authorized to be on active duty under subparagraph (A) or (B) of section 115(b)(1) of this title, if the President determines the waiver is necessary to provide assistance in responding to the major disaster or emergency.
 
@@ -14,7 +14,7 @@ Termination of Waiver.—(1) Upon the termination of a war or national emergency
 
 (c)
 
-Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to afiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
+Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, §421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, \[div. A\], title IV, §416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430.)
 

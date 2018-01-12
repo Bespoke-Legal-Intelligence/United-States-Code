@@ -22,7 +22,7 @@ Not later than the end of the first fiscal year beginning after May 4, 1980, the
 
 The Director of the Office of Personnel Management shall, as soon as practicable, but not later than one year after May 4, 1980, prepare and transmit to the Congress a report on the effects on employees of the reorganization under this chapter, which shall include—
 
-&emsp;(1) an identification of any position within the Department or elsewhere in the executivebranch, which it considers unnecessary due to consolidation of functions under this chapter;
+&emsp;(1) an identification of any position within the Department or elsewhere in the executive branch, which it considers unnecessary due to consolidation of functions under this chapter;
 
 &emsp;(2) a statement of the number of employees entitled to pay savings by reason of the organization under this chapter;
 

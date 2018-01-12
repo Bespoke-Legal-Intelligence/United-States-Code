@@ -14,7 +14,7 @@ Hearing.—A hearing shall be conducted pursuant to the provisions of section 42
 
 (d)
 
-Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a person foundnot guilty only by reason of insanity of an offense involving bodily injury to, or serious damage to the property of, another person, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect. With respect to any other offense, the person has the burden of such proof by a preponderance of the evidence.
+Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a person found not guilty only by reason of insanity of an offense involving bodily injury to, or serious damage to the property of, another person, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect. With respect to any other offense, the person has the burden of such proof by a preponderance of the evidence.
 
 (e)
 
@@ -42,7 +42,7 @@ Discharge.—When the director of the facility in which an acquitted person is h
 
 (g)
 
-Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
+Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failureto comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
 (h)
 
@@ -60,7 +60,7 @@ Certain Persons Found Not Guilty by Reason of Insanity in the District of Columb
 
 &emsp;(1)
 
-Transfer to custody of the attorney general.—Notwithstanding section 301(h) of title 24 of the District of Columbia Code, and notwithstanding subsection 4247(j) of thistitle, all persons who have been committed to a hospital for the mentally ill pursuant to section 301(d)(1) of title 24 of the District of Columbia Code, and for whom the United States has continuing financial responsibility, may be transferred to the custody of the Attorney General, who shall hospitalize the person for treatment in a suitable facility.
+Transfer to custody of the attorney general.—Notwithstanding section 301(h) of title 24 of the District of Columbia Code, and notwithstanding subsection 4247(j) of this title, all persons who have been committed to a hospital for the mentally ill pursuant to section 301(d)(1) of title 24 of the District of Columbia Code, and for whom the United States has continuing financial responsibility, may be transferred to the custody of the Attorney General, who shall hospitalize the person for treatment in a suitable facility.
 
 &emsp;(2)
 
@@ -120,7 +120,7 @@ Pub. L. 104–294, title III, §301(b), Oct. 11, 1996, 110 Stat. 3495, provided 
 
 &emsp;"(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
 
-&emsp;"(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
+&emsp;"(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18,United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
 
 &emsp;"(4) shall not prevent or impede interviews of persons described in section 4243(i) of title 18, United States Code, by representatives of the Attorney General, if such persons voluntarily consent to such interviews."
 

@@ -128,7 +128,7 @@ In this subchapter:
 
 &emsp;The term "postsecondary educational institution" means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
@@ -150,7 +150,7 @@ In this subchapter:
 
 #### Amendments
 
-<b>2015</b>—Par. (8). Pub. L. 114–95, which directed general amendment of "Paragraph (8) of section 203 of the Adult Education and Literacy Act", was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, Pub. L. 113–128, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of title 20."
+<b>2015</b>—Par. (8). Pub. L. 114–95, which directed general amendment of "Paragraph (8) of section 203 of the Adult Education and Literacy Act", was executed byamending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, Pub. L. 113–128, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of title 20."
 
 #### Effective Date of 2015 Amendment
 

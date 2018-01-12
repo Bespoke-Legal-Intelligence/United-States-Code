@@ -10,7 +10,7 @@
 
 (b) The retirement or discharge of an officer pursuant to this section shall be considered to be an involuntary retirement or discharge for purposes of any other provision of law.
 
-(c)(1) If a health professions officer described in paragraph (3) is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed a period of active duty service obligation that the officer incurredunder section 2005, 2114, 2123, or 2603 of this title, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under that subsection, unless sooner retired or discharged under another provision of law.
+(c)(1) If a health professions officer described in paragraph (3) is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed a period of active duty service obligation that the officer incurred under section 2005, 2114, 2123, or 2603 of this title, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under that subsection, unless sooner retired or discharged under another provision of law.
 
 (2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the active duty service obligation of that officer is not in the best interest of the service.
 

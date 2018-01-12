@@ -567,7 +567,7 @@
 |  |  |
 | :--- | ---: |
 | [280g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20P%20-%20Additional%20Programs/%C2%A7%2000280g%20-%20Children%27s%20asthma%20treatment%20grants%20program.md) | Children's asthma treatment grants program. |
-| 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants. |
+| 280g–1. | Early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children. |
 | 280g–2. | Childhood malignancies. |
 | 280g–3. | Controlled substance monitoring program. |
 | 280g–4. | Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking. |

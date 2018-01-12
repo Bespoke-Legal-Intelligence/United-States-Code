@@ -18,7 +18,7 @@
 
 #### (C) Section 12561a
 
-&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $7,000,000 shall be made available for awards to Campuses of Service under section 12561a of this title.
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $7,000,000 shall be made available forawards to Campuses of Service under section 12561a of this title.
 
 #### (D) Section 12563(c)(8)
 
@@ -64,7 +64,7 @@
 
 #### (C) Section 12653c
 
-&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, $12,000,000 shall bemade available to provide financial assistance under section 12653c of this title.
+&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, $12,000,000 shall be made available to provide financial assistance under section 12653c of this title.
 
 #### (D) Section 12653h
 
@@ -110,7 +110,7 @@
 
 #### (6) Evaluation, training, and technical assistance
 
-&emsp;Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 5000 et seq.\], the Corporation shall reserve not more than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I,<sup>1</sup> of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title. Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
+&emsp;Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 5000 et seq.\], the Corporation shall reserve notmore than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I,<sup>1</sup> of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title. Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
 
 #### (b) Availability of appropriations
 

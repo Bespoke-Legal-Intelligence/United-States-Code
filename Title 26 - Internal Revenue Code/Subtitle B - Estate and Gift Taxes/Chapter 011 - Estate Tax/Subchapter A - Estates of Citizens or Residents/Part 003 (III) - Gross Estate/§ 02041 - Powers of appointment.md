@@ -20,7 +20,7 @@ The value of the gross estate shall include the value of all property—
 
 #### (2) Powers created after October 21, 1942
 
-&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effectonly on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
+&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effect only on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
 
 #### (3) Creation of another power in certain cases
 
@@ -38,7 +38,7 @@ For purposes of subsection (a)—
 
 #### (1) General power of appointment
 
-&emsp;The term "general power of appointment" means a power which is exercisable in favor of the decedent, his estate, his creditors, or the creditors of his estate; except that—
+&emsp;The term "general power of appointment" means a power which is exercisable in favor ofthe decedent, his estate, his creditors, or the creditors of his estate; except that—
 
 &emsp;&emsp;(A) A power to consume, invade, or appropriate property for the benefit of the decedent which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the decedent shall not be deemed a general power of appointment.
 

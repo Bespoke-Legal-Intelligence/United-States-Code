@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 #### (1) Antarctic Convergence
 
-&emsp;The term "Antarctic Convergence" means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30 degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; <sup>1</sup> 50 degrees west; 50 degrees south, 50 degrees west; and 50 degrees south, 0 degrees.
+&emsp;The term "Antarctic Convergence" means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; <sup>1</sup> 50 degrees west; 50 degrees south, 50 degrees west; and 50 degrees south, 0 degrees.
 
 #### (2) Antarctic marine living resources
 
@@ -36,7 +36,7 @@ For purposes of this chapter—
 
 #### (7) Import
 
-&emsp;The term "import" means to land on, bring into, or introduce into, or attempt to land on,bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;The term "import" means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing constitutes an importation within the meaning of the customs laws of the United States.
 
 #### (8) Person
 

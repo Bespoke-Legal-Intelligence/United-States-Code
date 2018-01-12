@@ -14,7 +14,7 @@ As a means reasonably designed to prevent fraud and manipulation, the Commission
 
 #### (b) Exemptions
 
-The Commission, by rule, regulation, or order, may conditionally or unconditionally exemptany person or class of persons, any security-based swap or class of security-based swaps, or any transaction or class of transactions from any requirement the Commission may establish under this section with respect to position limits.
+The Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any person or class of persons, any security-based swap or class of security-based swaps, or any transaction or class of transactions from any requirement the Commission may establish under this section with respect to position limits.
 
 #### (c) SRO rules
 

@@ -1,0 +1,6 @@
+### §17501. Transferred
+
+#### Codification
+
+Section 17501 was editorially reclassified as section 60501 of Title 34, Crime Control and Law Enforcement.
+

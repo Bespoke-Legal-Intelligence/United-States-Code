@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State or local health department shall use amounts received under a grant underthis subsection to carry out a program to provide the services described in this paragraph to individuals who are between 55 and 64 years of age.
+&emsp;&emsp;A State or local health department shall use amounts received under a grant under this subsection to carry out a program to provide the services described in this paragraph to individuals who are between 55 and 64 years of age.
 
 #### (B) Public health interventions
 
@@ -160,7 +160,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

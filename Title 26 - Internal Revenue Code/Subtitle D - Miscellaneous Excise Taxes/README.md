@@ -275,7 +275,7 @@ Effective Date.—This section shall apply to calendar years beginning after Dec
 
 Conforming Amendment.—\[Amended section 1395t of Title 42, The Public Health and Welfare.\]"
 
-\[Pub. L. 111–152, title I, §1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: "The amendments made by this section \[amending section 9008 of Pub. L. 111–148, set out above\] shall take effect as if included in section9008 of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."\]
+\[Pub. L. 111–152, title I, §1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: "The amendments made by this section \[amending section 9008 of Pub. L. 111–148, set out above\] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."\]
 
 #### Imposition of Annual Fee on Medical Device Manufacturers and Importers
 

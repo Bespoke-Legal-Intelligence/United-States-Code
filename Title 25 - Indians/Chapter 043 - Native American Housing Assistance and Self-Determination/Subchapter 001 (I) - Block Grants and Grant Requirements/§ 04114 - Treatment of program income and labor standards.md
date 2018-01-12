@@ -42,7 +42,7 @@
 
 #### (3) Application of tribal laws
 
-&emsp;Paragraph (1) shall not apply to any contract or agreement for assistance, sale, orlease pursuant to this chapter, if such contract or agreement is otherwise covered by one or more laws or regulations adopted by an Indian tribe that requires the payment of not less than prevailing wages, as determined by the Indian tribe.
+&emsp;Paragraph (1) shall not apply to any contract or agreement for assistance, sale, or lease pursuant to this chapter, if such contract or agreement is otherwise covered by one or more laws or regulations adopted by an Indian tribe that requires the payment of not less than prevailing wages, as determined by the Indian tribe.
 
 (Pub. L. 104–330, title I, §104, Oct. 26, 1996, 110 Stat. 4027; Pub. L. 106–568, title X, §1003(j), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, §503(i), Dec. 27, 2000, 114 Stat. 2965; Pub. L. 107–292, §5, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 109–136, §3, Dec. 22, 2005, 119 Stat. 2644; Pub. L. 110–411, title I, §104, Oct. 14, 2008, 122 Stat. 4323.)
 

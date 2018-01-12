@@ -47,3 +47,4 @@ Part IX—Miscellaneous
 - [&sect; 01379 - Technology standard to confirm identity](%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md)
 - [&sect; 01380 - Maintenance of statistics by the Department of Homeland Security](%C2%A7%2001380%20-%20Maintenance%20of%20statistics%20by%20the%20Department%20of%20Homeland%20Security.md)
 - [&sect; 01381 - Secretary of Labor report](%C2%A7%2001381%20-%20Secretary%20of%20Labor%20report.md)
+- [&sect; 01382 - Acceptance and administration of gifts for immigration integration grants program](%C2%A7%2001382%20-%20Acceptance%20and%20administration%20of%20gifts%20for%20immigration%20integration%20grants%20program.md)

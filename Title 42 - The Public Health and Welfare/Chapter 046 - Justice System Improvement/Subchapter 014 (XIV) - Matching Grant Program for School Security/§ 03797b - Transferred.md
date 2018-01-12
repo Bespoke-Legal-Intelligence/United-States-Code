@@ -1,0 +1,6 @@
+### §3797b. Transferred
+
+#### Codification
+
+Section 3797b was editorially reclassified as section 10552 of Title 34, Crime Control and Law Enforcement.
+

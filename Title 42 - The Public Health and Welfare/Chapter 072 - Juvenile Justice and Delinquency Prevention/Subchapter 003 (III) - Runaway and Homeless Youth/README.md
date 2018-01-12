@@ -5,8 +5,8 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05701 - Findings](%C2%A7%2005701%20-%20Findings.md)
-- [&sect; 05702 - Promulgation of rules](%C2%A7%2005702%20-%20Promulgation%20of%20rules.md)
+- [&sect; 05701 - Transferred](%C2%A7%2005701%20-%20Transferred.md)
+- [&sect; 05702 - Transferred](%C2%A7%2005702%20-%20Transferred.md)
 - [Part A - Basic Center Grant Program](Part%20A%20-%20Basic%20Center%20Grant%20Program/README.md)
 - [Part B - Transitional Living Grant Program](Part%20B%20-%20Transitional%20Living%20Grant%20Program/README.md)
 - [Part C - National Communications System](Part%20C%20-%20National%20Communications%20System/README.md)

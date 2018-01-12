@@ -2,11 +2,11 @@
 
 #### (a) Facilitation of certain defense- and energy-related transactions
 
-The President may impose the sanction described in subsection (c) with respect to a foreign financial institution that the President determines knowingly engages, on or after December 18, 2014, in significant transactions involving activities described in subparagraph (A)(ii) or (B) of section 8923(a)(2) of this title or paragraph (1) or (3) of section 8923(b) of this title for persons with respect to which sanctions are imposed under section 8923 of this title.
+The President shall impose, unless the President determines that it is not in the national interest of the United States to do so, the sanction described in subsection (c) with respect to a foreign financial institution that the President determines knowingly engages, on or after August 2, 2017, in significant transactions involving activities described in subparagraph (A)(ii) or (B) of section 8923(a)(2) of this title or paragraph (1) or (3) of section 8923(b) of this title for persons with respect to which sanctions are imposed under section 8923 of this title.
 
 #### (b) Facilitation of financial transactions on behalf of specially designated nationals
 
-The President may impose the sanction described in subsection (c) with respect to a foreign financial institution if the President determines that the foreign financial institution has, on or after the date that is 180 days after December 18, 2014, knowingly facilitated a significant financial transaction on behalf of any Russian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, pursuant to—
+The President shall impose, unless the President determines that it is not in the national interest of the United States to do so, the sanction described in subsection (c) with respect to a foreign financial institution if the President determines that the foreign financial institution has, on or after the date that is 30 days after August 2, 2017, knowingly facilitated a significant financial transaction on behalf of any Russian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, pursuant to—
 
 &emsp;(1) this chapter;
 
@@ -16,7 +16,7 @@ The President may impose the sanction described in subsection (c) with respect t
 
 #### (c) Sanction described
 
-The sanction described in this subsection is, with respect to a foreign financial institution, aprohibition on the opening, and a prohibition or the imposition of strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by the foreign financial institution.
+The sanction described in this subsection is, with respect to a foreign financial institution, a prohibition on the opening, and a prohibition or the imposition of strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by the foreign financial institution.
 
 #### (d) National security waiver
 
@@ -26,7 +26,11 @@ The President may waive the application of sanctions under this section with res
 
 &emsp;(2) submits to the appropriate congressional committees a report on the determination and the reasons for the determination.
 
-#### (e) Implementation; penalties
+#### (e) Notification to Congress on imposition of sanctions
+
+The President shall notify the appropriate congressional committees in writing not later than 15 days after imposing sanctions with respect to a foreign financial institution under subsection (a) or (b).
+
+#### (f) Implementation; penalties
 
 #### (1) Implementation
 
@@ -36,15 +40,15 @@ The President may waive the application of sanctions under this section with res
 
 &emsp;The penalties provided for in subsections (b) and (c) of section 1705 of title 50 shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 1705(a) of title 50.
 
-#### (f) Termination
+#### (g) Termination
 
-This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(h) of this title.
+This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(i) of this title.
 
-(Pub. L. 113–272, §5, Dec. 18, 2014, 128 Stat. 2958.)
+(Pub. L. 113–272, §5, Dec. 18, 2014, 128 Stat. 2958; Pub. L. 115–44, title II, §§226, 229(b), Aug. 2, 2017, 131 Stat. 910, 915.)
 
 #### Termination of Section
 
-<i>For termination of section, see subsection (f) of this section.</i>
+<i>For termination of section, see subsection (g) of this section.</i>
 
 #### References in Text
 
@@ -53,4 +57,14 @@ Executive Order No. 13660, referred to in subsec. (b)(2), is Ex. Ord. No. 13660,
 Executive Order No. 13661, referred to in subsec. (b)(2), is Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 Executive Order No. 13662, referred to in subsec. (b)(2), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under section 1701 of Title 50, War and National Defense.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–44, §226(1), substituted "shall impose, unless the President determines that it is not in the national interest of the United States to do so," for "may impose" and "on or after August 2, 2017" for "on or after December 18, 2014".
+
+Subsec. (b). Pub. L. 115–44, §226(2), in introductory provisions, substituted "shall impose, unless the President determines that it is not in the national interest of the United States to do so," for "may impose" and "on or after the date that is 30 days after August 2, 2017" for "on or after the date that is 180 days after December 18, 2014".
+
+Subsecs. (e), (f). Pub. L. 115–44, §229(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 115–44, §229(b)(1), (3), redesignated subsec. (f) as (g) and substituted "section 8923(i)" for "section 8923(h)".
 

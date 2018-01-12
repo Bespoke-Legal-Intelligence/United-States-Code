@@ -20,7 +20,7 @@
 
 #### (2) Payment of portion of program savings
 
-&emsp;If an individual submits a suggestion to the Secretary under the program establishedunder paragraph (1) which is adopted by the Secretary and which results in savings to the program, the Secretary may make a payment to the individual of such amount as the Secretary considers appropriate.
+&emsp;If an individual submits a suggestion to the Secretary under the program established under paragraph (1) which is adopted by the Secretary and which results in savings to the program, the Secretary may make a payment to the individual of such amount as the Secretary considers appropriate.
 
 (Pub. L. 104–191, title II, §203, Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4311(b)(2), Aug. 5, 1997, 111 Stat. 386.)
 

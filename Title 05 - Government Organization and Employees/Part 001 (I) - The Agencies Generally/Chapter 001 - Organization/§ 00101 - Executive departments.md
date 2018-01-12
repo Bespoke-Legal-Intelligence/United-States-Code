@@ -106,6 +106,18 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–84, §1, Nov. 17, 2017, 131 Stat. 1272, provided that: "This Act \[amending sections 8432b and 8433 of this title and enacting provisions set out as notes under sections 8432b and 8433 of this title\] may be cited as the 'TSP Modernization Act of 2017'."
+
+Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Act \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this title and section 703 of Title 38, Veterans' Benefits, and amending provisions set out as a note under section 2302 of this title\] may be cited as the 'Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017'."
+
+Pub. L. 115–40, §1, June 14, 2017, 131 Stat. 861, provided that: "This Act \[amending section 2302 of this title\] may be cited as the 'Follow the Rules Act'."
+
+Pub. L. 115–34, §1, May 16, 2017, 131 Stat. 846, provided that: "This Act \[amending section 5707 of this title and enacting provisions set out as a note under section 5707 of this title\] may be cited as the 'Modernizing Government Travel Act'."
+
+Pub. L. 115–1, §1, Jan. 20, 2017, 131 Stat. 3, provided that: "This Act \[enacting sections 3171 and 3172 of this title and provisions set out as a note under section 3171 of this title\] may be cited as the 'Tested Ability to Leverage Exceptional National Talent Act of 2017' or the 'TALENT Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–328, div. A, title XI, §1138(a), Dec. 23, 2016, 130 Stat. 2460, provided that: "This section \[enacting sections 6329a to 6329c of this title, amending section 6502 of this title, and enacting provisions set out as notes under section 6329a of this title\] may be cited as the 'Administrative Leave Act of 2016'."
@@ -120,7 +132,7 @@ Pub. L. 114–136, §1, Mar. 18, 2016, 130 Stat. 301, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–75, §1, Nov. 5, 2015, 129 Stat. 640, provided that: "This Act \[enacting section 6329 of this title andprovisions set out as notes under section 6329 of this title\] may be cited as the 'Wounded Warriors Federal Leave Act of 2015'."
+Pub. L. 114–75, §1, Nov. 5, 2015, 129 Stat. 640, provided that: "This Act \[enacting section 6329 of this title and provisions set out as notes under section 6329 of this title\] may be cited as the 'Wounded Warriors Federal Leave Act of 2015'."
 
 Pub. L. 114–62, §1, Oct. 7, 2015, 129 Stat. 547, provided that: "This Act \[amending section 2108 of this title and enacting provisions set out as a note under section 2108 of this title\] may be cited as the 'Gold Star Fathers Act of 2015'."
 
@@ -172,7 +184,7 @@ Pub. L. 110–175, §1, Dec. 31, 2007, 121 Stat. 2524, provided that: "This Act 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: "This title \[enacting section 8909a of this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the 'Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006'."
+Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: "This title \[enacting section 8909aof this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the 'Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006'."
 
 Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: "This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking, and section 57a of Title 15, Commerce and Trade\] may be cited as the '2005 District of Columbia Omnibus Authorization Act'."
 
@@ -182,7 +194,7 @@ Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: "This Act 
 
 Pub. L. 108–469, §1(a), Dec. 21, 2004, 118 Stat. 3891, provided that: "This Act \[amending sections 8351, 8432, 8433, 8439, and 8440a to 8440e of this title and enacting provisions set out as a note under section 8350 of this title\] may be cited as the 'Thrift Savings Plan Open Elections Act of 2004'."
 
-Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: "This Act \[enacting sections 4121, 5550b,5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Federal Workforce Flexibility Act of 2004'."
+Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: "This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Federal Workforce Flexibility Act of 2004'."
 
 Pub. L. 108–401, §1, Oct. 30, 2004, 118 Stat. 2255, provided that: "This Act \[amending sections 591, 594, and 596 of this title\] may be cited as the 'Federal Regulatory Improvement Act of 2004'."
 

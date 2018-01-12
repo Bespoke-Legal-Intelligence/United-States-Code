@@ -10,7 +10,7 @@ Each cooperative agreement under this section shall contain such terms and condi
 
 #### (c) Written consent of record interest holder; waiver
 
-(1) Except where the State is required to acquire the processing site as provided in subsection (a) of section 7914 of this title, each cooperative agreement with a State under this section shall provide that the State shall obtain,in a form prescribed by the Secretary, written consent from any person holding any record interest in the designated processing site for the Secretary or any person designated by him to perform remedial action at such site.
+(1) Except where the State is required to acquire the processing site as provided in subsection (a) of section 7914 of this title, each cooperative agreement with a State under this section shall provide that the State shall obtain, in a form prescribed by the Secretary, written consent from any person holding any record interest in the designated processing site for the Secretary or any person designated by him to perform remedial action at such site.
 
 (2) Such written consent shall include a waiver by each such person on behalf of himself, his heirs, successors, and assigns—
 
@@ -38,5 +38,5 @@ The Secretary may, in any cooperative agreement entered into under this section 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (d), and (f)(2), was in the original "this Act", meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note under section 7901 of this title and Tables.
+This chapter, referred to in subsecs. (b), (d), and (f)(2), was in the original "this Act", meaning Pub. L. 95–604,Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note under section 7901 of this title and Tables.
 

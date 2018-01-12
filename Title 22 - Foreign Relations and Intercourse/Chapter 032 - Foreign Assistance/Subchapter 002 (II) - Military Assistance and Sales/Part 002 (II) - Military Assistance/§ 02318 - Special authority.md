@@ -82,7 +82,7 @@ Subsec. (a)(2)(A). Pub. L. 104–164, §103(b)(1), substituted "articles and ser
 
 &emsp;"(ii) the drawdown of defense services for the purposes and under the authorities of the Migration and Refugee Assistance Act of 1962."
 
-Subsec. (a)(2)(B). Pub. L. 104–164, §103(b)(2), substituted "$150,000,000 in any fiscal year of such articles, services, and military education and training may be provided pursuant to subparagraph (A) of this paragraph—" and cls. (i) to (iii) for "$75,000,000 in any fiscal year of defense articles, defense services, and military education and training may be provided pursuant to subparagraph (A) of this paragraph."
+Subsec. (a)(2)(B). Pub. L. 104–164, §103(b)(2), substituted "$150,000,000 in any fiscal year of such articles, services, and military education and training may beprovided pursuant to subparagraph (A) of this paragraph—" and cls. (i) to (iii) for "$75,000,000 in any fiscal year of defense articles, defense services, and military education and training may be provided pursuant to subparagraph (A) of this paragraph."
 
 Subsec. (b)(1). Pub. L. 104–164, §103(b)(3), inserted at end "In the case of drawdowns authorized by subclauses (I) and (III) of subsection (a)(2)(A)(i), notifications shall be provided to those committees at least 15 days in advance of the drawdowns in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title."
 

@@ -46,9 +46,9 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as "Senior Opportunities and Services", designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as "Senior Opportunities and Services", designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional servicesand programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
-&emsp;(15) services for the prevention of abuse of older individuals in accordance with subpartIII of part A of subchapter XI and section 3027(a)(12) of this title, and screening for elder abuse, neglect, and exploitation;
+&emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI and section 3027(a)(12) of this title, and screening for elder abuse, neglect, and exploitation;
 
 &emsp;(16) inservice training and State leadership for legal assistance activities;
 
@@ -80,11 +80,11 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 #### (c) Coordination of services with other providers
 
-In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) of this section with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter.
+In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter.
 
 #### (d) Relationship to other funding sources
 
-Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
+Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a).
 
 #### (e) "Adult child with a disability" defined
 
@@ -100,7 +100,7 @@ In this section, the term "adult child with a disability" means a child who—
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Subsec. (a)(15). Pub. L. 102–375, §904(a)(15)(C), substituted "paragraph" for
 
 Pub. L. 102–375, §708(b), which directed the substitution of "subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title" for "clause (16) of section 3027(a) of this title" in par. (15) of this section could not be executed because this section does not contain a par. (15).
 
-Subsec. (a)(17). Pub. L. 102–375, §312(9), inserted before semicolon at end ", including information concerning prevention, diagnosis, treatment, and rehabilitation of age-related diseases and chronic disabling conditions".
+Subsec. (a)(17). Pub. L. 102–375, §312(9), inserted before semicolon at end ", including information concerningprevention, diagnosis, treatment, and rehabilitation of age-related diseases and chronic disabling conditions".
 
 Subsec. (a)(19) to (22). Pub. L. 102–375, §312(10)–(12), added pars. (19) to (21) and redesignated former par. (19) as (22).
 
@@ -234,5 +234,5 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Effective Date
 
-Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 

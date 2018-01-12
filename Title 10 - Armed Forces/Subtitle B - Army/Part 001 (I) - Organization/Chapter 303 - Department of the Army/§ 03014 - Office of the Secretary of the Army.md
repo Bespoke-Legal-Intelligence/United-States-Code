@@ -64,7 +64,7 @@
 
 (5) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1036; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461;Pub. L. 107–107, div. A, title X, §1048(a)(27), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(c)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, §903(c), Dec. 23, 2016, 130 Stat. 2344.)
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1036; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(27), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(c)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, §903(c), Dec. 23, 2016, 130 Stat. 2344.)
 
 #### Prior Provisions
 

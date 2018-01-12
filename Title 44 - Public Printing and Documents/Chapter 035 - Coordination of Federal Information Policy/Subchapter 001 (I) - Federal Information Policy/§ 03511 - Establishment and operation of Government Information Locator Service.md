@@ -32,5 +32,9 @@ Another prior section 3511, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, prov
 
 <b>2014</b>—Subsec. (a)(3). Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
 
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

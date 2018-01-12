@@ -18,7 +18,7 @@
 
 (c) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who—
 
-&emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+&emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any otherlaw or whose name is on the temporary disability retired list;
 
 &emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on the temporary disability retired list; and
 
@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted "according to the followi
 
 Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
-<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) ofthis title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
 
 Pub. L. 96–342 inserted "who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and" after "of an armed force" wherever appearing.
 

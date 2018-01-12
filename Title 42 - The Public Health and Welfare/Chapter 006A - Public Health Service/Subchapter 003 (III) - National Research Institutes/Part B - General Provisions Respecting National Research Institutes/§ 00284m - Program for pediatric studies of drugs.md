@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(A) shall consider—
 
-&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology,pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
+&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
-&emsp;&emsp;&emsp;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
+&emsp;&emsp;&emsp;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, and identification of biomarkers for such diseases, disorders, or conditions, may be beneficial in pediatric populations; and
 
 &emsp;&emsp;&emsp;(iii) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators; and
 
@@ -34,7 +34,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 &emsp;&emsp;(ii) there is a submitted application that could be approved under the criteria of such section; and
 
-&emsp;&emsp;(B) there remains no patent listed pursuant to section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(b)(1)\], and every three-year and five-year period referred to in subsection (c)(3)(E)(ii), (c)(3)(E)(iii), (c)(3)(E)(iv), (j)(5)(F)(ii), (j)(5)(F)(iii), or (j)(5)(F)(iv) of section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], or applicable twelve-year period referred to in section 262(k)(7) of this title, and any seven-year period referred to in section 527 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360cc\] has ended for at least one form of the drug; and
+&emsp;&emsp;(B) there remains no patent listed pursuant to section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(b)(1)\], and every three-year and five-year period referred to in subsection (c)(3)(E)(ii), (c)(3)(E)(iii), (c)(3)(E)(iv), (j)(5)(F)(ii), (j)(5)(F)(iii), or (j)(5)(F)(iv) of section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], or applicable twelve-year period referred to in section 262(k)(7) of this title, and any seven-year period referred to in section 527 of the Federal Food, Drug, andCosmetic Act \[21 U.S.C. 360cc\] has ended for at least one form of the drug; and
 
 &emsp;&emsp;(C) additional studies are needed to assess the safety and effectiveness of the use of the drug in the pediatric population.
 
@@ -62,23 +62,37 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (B) Availability of reports
 
-&emsp;&emsp;Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]) and shall be assigned a docket number by the Commissioner of Food and Drugs. An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the written comments shall become part of the docket file with respect to each of the drugs.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]) and not later than 90 days after submission of such report, shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) posted on the internet website of the National Institutes of Health in a manner that is accessible and consistent with all applicable Federal laws and regulations, including such laws and regulations for the protection of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) human research participants, including with respect to privacy, security, informed consent, and protected health information; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) proprietary interests, confidential commercial information, and intellectual property rights; and
+
+&emsp;&emsp;&emsp;&emsp;(II) assigned a docket number by the Commissioner of Food and Drugs and made available for the submission of public comments.
+
+#### (ii) Submission of comments
+
+&emsp;&emsp;&emsp;An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the submitted comments shall become part of the docket file with respect to each of the drugs.
 
 #### (C) Action by Commissioner
 
-&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to the reports submitted under subparagraph (A) in accordance with paragraph (7).
+&emsp;&emsp;The Commissioner of Food and Drugs shall take action in a timely and appropriate manner in response to the reports submitted under subparagraph (A), and shall begin such action upon receipt of the report under subparagraph (A), in accordance with paragraph (7).
 
 #### (7) Requests for labeling change
 
-&emsp;During the 180-day period after the date on which a report is submitted under paragraph (6)(A), the Commissioner of Food and Drugs shall—
+&emsp;Within the 180-day period after the date on which a report is submitted under paragraph (6)(A), the Commissioner of Food and Drugs shall—
 
 &emsp;&emsp;(A) review the report and such other data as are available concerning the safe and effective use in the pediatric population of the drug studied;
 
 &emsp;&emsp;(B) negotiate with the holders of approved applications for the drug studied for any labeling changes that the Commissioner of Food and Drugs determines to be appropriate and requests the holders to make; and
 
-&emsp;&emsp;(C)(i) place in the public docket file a copy of the report and of any requested labeling changes; and
+&emsp;&emsp;(C)(i) include in the public docket file a reference to the location of the report on the internet website of the National Institutes of Health and a copy of any requested labeling changes; and
 
-&emsp;&emsp;(ii) publish in the Federal Register and through a posting on the Web site of the Food and Drug Administration a summary of the report and a copy of any requested labeling changes.
+&emsp;&emsp;(ii) publish through a posting on the Web site of the Food and Drug Administration a summary of the report and a copy of any requested labeling changes.
 
 #### (8) Dispute resolution
 
@@ -106,27 +120,41 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 &emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 
-#### (d) Dissemination of pediatric information
-
-Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall study the feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress.
-
-#### (e) Authorization of appropriations
+#### (d) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.
+&emsp;There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2018 through 2022.
 
 #### (2) Availability
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(2)(A)(ii). Pub. L. 115–52, §501(1), inserted "and identification of biomarkers for such diseases, disorders, or conditions," after "biologics,".
+
+Subsec. (c)(6)(B). Pub. L. 115–52, §501(2)(A)(i), amended subpar. (B) generally. Prior to amendment, text read as follows: "Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act) and shall be assigned a docket number by the Commissioner of Food and Drugs. An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the written comments shall become part of the docket file with respect to each of the drugs."
+
+Subsec. (c)(6)(C). Pub. L. 115–52, §501(2)(A)(ii), substituted "action in a timely and appropriate manner in response to the reports submitted under subparagraph (A), and shall begin such action upon receipt of the report under subparagraph (A), in accordance with paragraph (7)." for "appropriate action in response to the reports submitted under subparagraph (A) in accordance with paragraph (7)."
+
+Subsec. (c)(7). Pub. L. 115–52, §501(2)(B)(i), substituted "Within" for "During" in introductory provisions.
+
+Subsec. (c)(7)(C)(i). Pub. L. 115–52, §501(2)(B)(ii), substituted "include in the public docket file a reference to the location of the report on the internet website of the National Institutes of Health and a copy of" for "place in the public docket file a copy of the report and of".
+
+Subsec. (c)(7)(C)(ii). Pub. L. 115–52, §501(2)(B)(iii), struck out "in the Federal Register and" after "publish".
+
+Subsec. (d). Pub. L. 115–52, §501(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health, shall study the feasibility of establishing a compilation of information on pediatric drug use and report the findings to Congress."
+
+Subsec. (d)(1). Pub. L. 115–52, §501(5), substituted "2018 through 2022" for "2013 through 2017".
+
+Subsec. (e). Pub. L. 115–52, §501(4), redesignated subsec. (e) as (d).
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–5, §307(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
 
@@ -142,7 +170,7 @@ Subsec. (b). Pub. L. 113–5, §307(b)(2), substituted "paragraphs (1) and (2)(A
 
 Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted "or section 262(k) of this title" after "Cosmetic Act".
 
-Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
+Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection ormarket exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
 
 Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" in heading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
 

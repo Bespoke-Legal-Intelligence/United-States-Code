@@ -8,7 +8,7 @@
 
 &emsp;(B) as a condition for the approval or renewal of a contract or agreement between the disclosing entity and the Secretary or the appropriate State agency under any of the programs established under subchapters V, XVIII, and XIX,
 
-> supply the Secretary or the appropriate State agency with full and complete information as tothe identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum or more ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3)), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
+> supply the Secretary or the appropriate State agency with full and complete information as to the identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum or more ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3)), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
 
 (2) As used in this section, the term "disclosing entity" means an entity which is—
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) an entity (other than an individual practitioner or group of practitioners) that furnishes, or arranges for the furnishing of, items or services with respect to which payment may be claimed by the entity under any plan or program established pursuant to subchapter V or under a State plan approved under subchapter XIX; or
 
-&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII, or both, or for purposes of a State plan approved under subchapter XIX) pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX.
+&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII, or both, or for purposes of a State plan approved under subchapter XIX)pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX.
 
 (3) As used in this section, the term "person with an ownership or control interest" means, with respect to an entity, a person who—
 
@@ -64,7 +64,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (B) Special rule where information is already reported or submitted
 
-&emsp;&emsp;To the extent that information reported by a facility to the Internal Revenue Service on Form 990, information submitted by a facility to the Securities and Exchange Commission, or information otherwise submitted to the Secretary or any other Federal agency contains the information described in clauses (i), (ii), or (iii) of subparagraph (A), the facility may provide such Form or suchinformation submitted to meet the requirements of paragraph (1).
+&emsp;&emsp;To the extent that information reported by a facility to the Internal Revenue Service on Form 990, information submitted by a facility to the Securities and Exchange Commission, or information otherwise submitted to the Secretary or any other Federal agency contains the information described in clauses (i), (ii), or (iii) of subparagraph (A), the facility may provide such Form or such information submitted to meet the requirements of paragraph (1).
 
 #### (C) Special rule
 
@@ -82,7 +82,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (B) Guidance
 
-&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how to adopt the standardized format under subparagraph (A).
+&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how toadopt the standardized format under subparagraph (A).
 
 #### (4) No effect on existing reporting requirements
 

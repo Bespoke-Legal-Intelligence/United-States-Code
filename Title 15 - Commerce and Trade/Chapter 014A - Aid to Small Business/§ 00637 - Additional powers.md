@@ -26,7 +26,7 @@
 
 &emsp;(A) the Administration takes such measures as it deems appropriate for the protection of persons furnishing materials and labor to a small business receiving any benefit pursuant to this paragraph;
 
-&emsp;(B) the Administration assists, insofar as practicable, a small business receiving the benefits of this paragraph to develop, within a reasonable period of time, such financial and other capability as may be needed to obtain such bonds as the Administration may subsequently require for the successful completion of any program conducted under the authority of this subsection;
+&emsp;(B) the Administration assists, insofar as practicable, a small business receiving thebenefits of this paragraph to develop, within a reasonable period of time, such financial and other capability as may be needed to obtain such bonds as the Administration may subsequently require for the successful completion of any program conducted under the authority of this subsection;
 
 &emsp;(C) the Administration finds that such small business is unable to obtain the requisite bond or bonds from a surety and that no surety is willing to issue bond or bonds subject to the guarantee provisions of Title IV of the Small Business Investment Act of 1958 \[15 U.S.C. 692 et seq.\]; and
 
@@ -76,7 +76,7 @@
 
 (5) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-(6)(A) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degreeof diminished credit and capital opportunities the Administration shall consider, but not be limited to, the assets and net worth of such socially disadvantaged individual. In determining the economic disadvantage of an Indian tribe, the Administration shall consider, where available, information such as the following: the per capita income of members of the tribe excluding judgment awards, the percentage of the local Indian population below the poverty level, and the tribe's access to capital markets.
+(6)(A) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities the Administration shall consider, but not be limited to, the assets and net worth of such socially disadvantaged individual. In determining the economic disadvantage of an Indian tribe, the Administration shall consider, where available, information such as the following: the per capita income of members of the tribe excluding judgment awards, the percentage of the local Indian population below the poverty level, and the tribe's access to capital markets.
 
 (B) Each Program Participant shall annually submit to the Administration—
 
@@ -122,7 +122,7 @@
 
 &emsp;(iv) the denial of a request to issue a waiver pursuant to paragraph (21)(B).
 
-(C) The Administration's proposed action, in any proceeding conducted under the authority of this paragraph, shall be sustained unless it isfound to be arbitrary, capricious, or contrary to law.
+(C) The Administration's proposed action, in any proceeding conducted under the authority of this paragraph, shall be sustained unless it is found to be arbitrary, capricious, or contrary to law.
 
 (D) A decision rendered pursuant to this paragraph shall be the final decision of the Administration and shall be binding upon the Administration and those within its employ.
 
@@ -178,7 +178,7 @@ Limitations on subcontracting.—A concern may not be awarded a contract under t
 
 (15) For purposes of this subsection, the term "Native Hawaiian Organization" means any community service organization serving Native Hawaiians in the State of Hawaii which—
 
-&emsp;(A) is a nonprofit corporation that has filed articles of incorporation with the director (orthe designee thereof) of the Hawaii Department of Commerce and Consumer Affairs, or any successor agency,
+&emsp;(A) is a nonprofit corporation that has filed articles of incorporation with the director (or the designee thereof) of the Hawaii Department of Commerce and Consumer Affairs, or any successor agency,
 
 &emsp;(B) is controlled by Native Hawaiians, and
 
@@ -346,7 +346,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 &emsp;&emsp;(iii) such volunteers shall in no way provide services to a client of such Administration with a delinquent loan outstanding, except upon a specific request signed by such client for assistance in connection with such matter.
 
-&emsp;(D) Notwithstanding any other provision of law, no payment for supportive services or reimbursement of out-of-pocket expenses made to persons serving pursuant to this paragraph shall be subject to any tax or charge or betreated as wages or compensation for the purposes of unemployment, disability, retirement, public assistance, or similar benefit payments, or minimum wage laws.
+&emsp;(D) Notwithstanding any other provision of law, no payment for supportive services or reimbursement of out-of-pocket expenses made to persons serving pursuant to this paragraph shall be subject to any tax or charge or be treated as wages or compensation for the purposes of unemployment, disability, retirement, public assistance, or similar benefit payments, or minimum wage laws.
 
 &emsp;(E) In carrying out its functions under subparagraph (A), to make grants (including contracts and cooperative agreements) to any public or private institution of higher education for the establishment and operation of a small business institute, which shall be used to provide business counseling and assistance to small business concerns through the activities of students enrolled at the institution, which students shall be entitled to receive educational credits for their activities.
 
@@ -366,7 +366,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 &emsp;(7)(A) To certify to Government procurement officers, and officers engaged in the sale and disposal of Federal property, with respect to all elements of responsibility, including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, and tenacity, of any small business concern or group of such concerns to receive and perform a specific Government contract. A Government procurement officer or an officer engaged in the sale and disposal of Federal property may not, for any reason specified in the preceding sentence preclude any small business concern or group of such concerns from being awarded such contract without referring the matter for a final disposition to the Administration.
 
-&emsp;(B) If a Government procurement officer finds that an otherwise qualified small business concern may be ineligible due to the provisions of section 35(a) <sup>4</sup> of title 41, he shall notify the Administration in writing of such finding. The Administration shall review such finding and shall either dismiss it and certify the small business concern to be an eligible Government contractor for a specific Government contract or if it concurs in the finding, forward the matter to the Secretary of Labor for final disposition, in which case the Administration may certify the small business concern only if the Secretary of Labor finds the small business concern not to be in violation.
+&emsp;(B) If a Government procurement officer finds that an otherwise qualified small business concern may be ineligible due to the provisions of section 35(a) <sup>1</sup> of title 41, he shall notify the Administration in writing of such finding. The Administration shall review such finding and shall either dismiss it and certify the small business concern to be an eligible Government contractor for a specific Government contract or if it concurs in the finding, forward the matter to the Secretary of Labor for final disposition, in which case the Administration may certify the small business concern only if the Secretary of Labor finds the small business concern not to be in violation.
 
 &emsp;(C) In any case in which a small business concern or group of such concerns has been certified by the Administration pursuant to (A) or (B) to be a responsible or eligible Government contractor as to a specific Government contract, the officers of the Government having procurement or property disposal powers are directed to accept such certification as conclusive, and shall let such Government contract to such concern or group of concerns without requiring it to meet any other requirement of responsibility or eligibility. Notwithstanding the first sentence of this subparagraph, the Administration may not establish an exemption from referral or notification or refuse to accept a referral or notification from a Government procurement officer made pursuant to subparagraph (A) or (B) of this paragraph, but nothing in this paragraph shall require the processing of an application for certification if the small business concern to which the referral pertains declines to have the application processed.
 
@@ -406,7 +406,7 @@ It shall also be the duty of the Administration and it is empowered, whenever it
 
 (3) The clause required by paragraph (2) shall be as follows:
 
-&emsp;"(A) It is the policy of the United States that small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlledby service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women shall have the maximum practicable opportunity to participate in the performance of contracts let by any Federal agency, including contracts and subcontracts for subsystems, assemblies, components, and related services for major systems. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+&emsp;"(A) It is the policy of the United States that small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women shall have the maximum practicable opportunity to participate in the performance of contracts let by any Federal agency, including contracts and subcontracts for subsystems, assemblies, components, and related services for major systems. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business concerns, small business concernsowned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
 
 &emsp;"(B) The contractor hereby agrees to carry out this policy in the awarding of subcontracts to the fullest extent consistent with the efficient performance of this contract. The contractor further agrees to cooperate in any studies or surveys as may be conducted by the United States Small Business Administration or the awarding agency of the United States as may be necessary to determine the extent of the contractor's compliance with this clause.
 
@@ -550,11 +550,11 @@ Material breach.—The failure of any contractor or subcontractor to comply in g
 
 &emsp;(A) assist Federal agencies and businesses in complying with their responsibilities under the provisions of this subsection, including the formulation of subcontracting plans pursuant to paragraph (4);
 
-&emsp;(B) review any solicitation for any contract to be let pursuant to paragraphs (4) and (5) to determine the maximum practicable opportunity for small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to participate as subcontractors in the performance of any contract resulting from any solicitation, and tosubmit its findings, which shall be advisory in nature, to the appropriate Federal agency; and
+&emsp;(B) review any solicitation for any contract to be let pursuant to paragraphs (4) and (5) to determine the maximum practicable opportunity for small business concerns, small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to participate as subcontractors in the performance of any contract resulting from any solicitation, and to submit its findings, which shall be advisory in nature, to the appropriate Federal agency; and
 
 &emsp;(C) evaluate compliance with subcontracting plans as a supplement to evaluations performed by the contracting agency, either on a contract-by-contract basis or, in the case of contractors having multiple contracts, on an aggregate basis.
 
-(12) For purposes of determining the attainment of a subcontract utilization goal under any subcontracting plan entered into with any executive agency pursuant to this subsection, a mentor firm providing development assistance to a protege firm under the pilot Mentor-Protege Program established pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2301 note \[2302 note\]) shall be granted credit for such assistance in accordance with subsection (g) of such section.
+(12) For purposes of determining the attainment of a subcontract utilization goal under anysubcontracting plan entered into with any executive agency pursuant to this subsection, a mentor firm providing development assistance to a protege firm under the pilot Mentor-Protege Program established pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2301 note \[2302 note\]) shall be granted credit for such assistance in accordance with subsection (g) of such section.
 
 (13)
 
@@ -614,11 +614,11 @@ Pilot Program Providing Past Performance Ratings for Other Small Business Subcon
 
 &emsp;(A)
 
-Establishment.—The Administrator shall establish a pilot program for a small business concern without a past performance rating as a prime contractor performing as a first tier subcontractor for a covered contract (as defined in paragraph 13(A)) <sup>5</sup> to request a past performance rating in the system used by the Federal Government to monitor or record contractor past performance.
+Establishment.—The Administrator shall establish a pilot program for a small business concern without a past performance rating as a prime contractor performing as a first tier subcontractor for a covered contract (as defined in paragraph (13)(A)) to request a past performance rating in the system used by the Federal Government to monitor or record contractor past performance.
 
 &emsp;(B)
 
-Application.—A small business concern described in subparagraph (A) shall submit an application to the appropriate official for a past performance rating no later than 270 days after the small business concern completed the work for which it seeks a past performance rating or 180 days after the prime contractor completes work on the covered contract, whichever is earlier. Such applicationshall include written evidence of the past performance factors for which the small business concern seeks a rating and a suggested rating.
+Application.—A small business concern described in subparagraph (A) shall submit an application to the appropriate official for a past performance rating no later than 270 days after the small business concern completed the work for which it seeks a past performance rating or 180 days after the prime contractor completes work on the covered contract, whichever is earlier. Such application shall include written evidence of the past performance factors for which the small business concern seeks a rating and a suggested rating.
 
 &emsp;(C)
 
@@ -634,7 +634,7 @@ Disagreement on rating.—If the Office of Small and Disadvantaged Business Util
 
 &emsp;(D)
 
-Procedure for rating.—Not later than 14 calendar days after receipt of a notice under subparagraph (C)(ii), the appropriate official shall submit such notice to the applicant small business concern. Such concern may submit comments, rebuttals, or additional information relating to the past performance of such concern not later 14 <sup>6</sup> calendar days after receipt of such notice. The appropriate official shall enter into the system described in subparagraph (A) a rating that is neither favorable nor unfavorable along with the initial application from such concern, any responses of the Office of Small and Disadvantaged Business Utilization and the prime contractor, and any additional information provided by such concern. A copy of the information submitted shall be provided to the contracting officer (or designee of such officer) for the covered contract.
+Procedure for rating.—Not later than 14 calendar days after receipt of a notice under subparagraph (C)(ii), the appropriate official shall submit such notice to the applicant small business concern. Such concern may submit comments, rebuttals, or additional information relating to the past performance of such concern not later 14 <sup>4</sup> calendar days after receipt of such notice. The appropriate official shall enter into the system described in subparagraph (A) a rating that is neither favorable nor unfavorable along with the initial application from such concern, any responses of the Office of Small and Disadvantaged Business Utilization and the prime contractor, and any additional information provided by such concern. A copy of the information submitted shall be provided to the contracting officer (or designee of such officer) for the covered contract.
 
 &emsp;(E)
 
@@ -648,9 +648,9 @@ Duration.—The pilot program established under this paragraph shall terminate 3
 
 Report.—The Comptroller General of the United States shall begin an assessment of the pilot program 1 year after the establishment of such program. Not later than 6 months after beginning such assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives, which shall include—
 
-&emsp;&emsp;(i) the number of small business concerns that have received past performance ratings under the pilot program;
+&emsp;&emsp;(i) the number of small business concerns and, set forth separately, the number of small business exporters, that have received past performance ratings under the pilot program;
 
-&emsp;&emsp;(ii) the number of applications in which the contracting officer (or designee) or the prime contractor contested the application of the small business concern;
+&emsp;&emsp;(ii) the number of applications, set forth separately by applications from small business concerns and from small business exporters, in which the contracting officer (or designee) or the prime contractor contested the application of the small business concern;
 
 &emsp;&emsp;(iii) any suggestions or recommendations the Comptroller General or the small business concerns participating in the program have to address disputes between the small business concern, the contracting officer (or designee), and the prime contractor on past performance ratings;
 
@@ -660,13 +660,23 @@ Report.—The Comptroller General of the United States shall begin an assessment
 
 &emsp;(H)
 
-Appropriate official defined.—In this paragraph, the term "appropriate official" means—
+Definitions.—In this paragraph—
 
-&emsp;&emsp;(i) a commercial market representative;
+&emsp;&emsp;(i) the term "appropriate official" means—
 
-&emsp;&emsp;(ii) another individual designated by the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title; or
+&emsp;&emsp;&emsp;(I) a commercial market representative;
 
-&emsp;&emsp;(iii) the Office of Small and Disadvantaged Business Utilization of a Federal agency, if the head of the Federal agency and the Administrator agree.
+&emsp;&emsp;&emsp;(II) another individual designated by the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title; or
+
+&emsp;&emsp;&emsp;(III) the Office of Small and Disadvantaged Business Utilization of a Federal agency, if the head of the Federal agency and the Administrator agree;
+
+&emsp;&emsp;(ii) the term "defense item" has the meaning given that term in section 2778(j)(4)(A) of title 22;
+
+&emsp;&emsp;(iii) the term "major non-NATO ally" means a country designated as a major non-NATO ally under section 2321k of title 22;
+
+&emsp;&emsp;(iv) the term "past performance" includes performance of a contract for a sale of defense items (under section 2778 of title 22) to the government of a member nation of North <sup>5</sup> Atlantic Treaty Organization, the government of a major non-NATO ally, or the government of a country with which the United States has a defense cooperation agreement (as certified by the Secretary of State); and
+
+&emsp;&emsp;(v) the term "small business exporter" means a small business concern that exports defense items under section 2778 of title 22 to the government of a member nation of the North Atlantic Treaty Organization, the government of a major non-NATO ally, or the government of a country with which the United States has a defense cooperation agreement (as certified by the Secretary of State).
 
 #### (e) Covered executive agency activities; procurement notice; publication; time limitations
 
@@ -772,7 +782,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (e
 
 &emsp;&emsp;(ii) in the case of a contract for an amount exceeding $1,000,000 (but equal to or less than $10,000,000), by the head of the procuring activity or a delegate who, if a member of the Armed Forces, is a general or flag officer, or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
-&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 <sup>7</sup> (without further delegation); and
+&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 <sup>1</sup> (without further delegation); and
 
 &emsp;(B) all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or chapter 137 of title 10, as appropriate, have been satisfied.
 
@@ -820,7 +830,7 @@ The Administration shall utilize, as appropriate, its entrepreneurial developmen
 
 #### (B) Small business concern owned and controlled by women
 
-&emsp;&emsp;The term "small business concern owned and controlled by women" has the meaning given such term in section 632(n) of this title, except that ownership shall be determined without regard to any community property law.
+&emsp;&emsp;The term "small business concern owned and controlled by women" has the meaning given such term in section 632(n) of thistitle, except that ownership shall be determined without regard to any community property law.
 
 #### (2) Authority to restrict competition
 
@@ -902,7 +912,7 @@ The Administration shall utilize, as appropriate, its entrepreneurial developmen
 
 #### (1) In general
 
-&emsp;In accordance with this subsection, the Administrator may make grants to and enterinto cooperative agreements with any coalition of private entities, public entities, or any combination of private and public entities—
+&emsp;In accordance with this subsection, the Administrator may make grants to and enter into cooperative agreements with any coalition of private entities, public entities, or any combination of private and public entities—
 
 &emsp;&emsp;(A) to expand business-to-business relationships between large and small businesses; and
 
@@ -916,7 +926,7 @@ The Administration shall utilize, as appropriate, its entrepreneurial developmen
 
 &emsp;There is authorized to be appropriated to carry out this subsection $6,600,000, to remain available until expended, for each of fiscal years 2001 through 2006.
 
-(Pub. L. 85–536, §2\[8\], July 18, 1958, 72 Stat. 389; Pub. L. 87–305, §§7, 8, Sept. 26, 1961, 75 Stat. 667, 668; Pub. L. 88–560, title III, §305(c), Sept. 2, 1964, 78 Stat. 786; Pub. L. 89–754, title X, §1017, Nov. 3, 1966, 80 Stat. 1295; Pub. L. 90–104, title I, §§105–107, Oct. 11, 1967, 81 Stat. 268, 269; Pub. L. 91–375, §6(g), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–89, title V, §501, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–507, title II, §§202(a), 211, Oct. 24, 1978, 92 Stat. 1761, 1767; Pub. L. 95–510, §101, Oct. 24, 1978, 92 Stat. 1780; Pub. L. 96–302, title I, §118(b), July 2, 1980, 94 Stat. 840; Pub. L. 96–481, title I, §§101, 105, Oct. 21, 1980, 94 Stat. 2321, 2322; Pub. L. 98–47, §§1(a), 2, 3, July 13, 1983, 97 Stat. 243; Pub. L. 98–72, §1(a), Aug. 11, 1983, 97 Stat. 403; Pub. L. 98–362, §5(a), July 16, 1984, 98 Stat. 433; Pub. L. 98–577, title IV, §§401, 402, 404(a), Oct. 30, 1984, 98 Stat. 3079, 3082; Pub. L. 99–272, title XVIII, §18015(b)–(d), Apr. 7, 1986, 100 Stat. 370, 371; Pub. L. 99–500, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–147, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–147, 3341–151, 3341–152; Pub. L. 99–567, §§1(a), 2, 3, Oct. 27, 1986, 100 Stat. 3188; Pub. L. 99–661, div. A, title IX, formerly title IV, §§921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, 100 Stat. 3927, 3930, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(3), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–533, title II, §§201, 202, Oct. 25, 1988, 102 Stat. 2690, 2692; Pub. L. 100–590, title I, §§127(a), (b), 131(b), Nov. 3, 1988, 102 Stat. 3001, 3003, 3004; Pub. L. 100–656, title II, §§201(b), 207(a), (c), 209, title III, §§303(b)–(e), (g), (h), 304(a), title IV, §§402–404, 407, 409, title V, §501, Nov. 15, 1988, 102 Stat. 3858, 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; Pub. L. 101–37, §§6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, 103 Stat. 72–74; Pub. L. 101–162, title V, (3), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–510, div. A, title VIII, §806(e)(2), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §§204(b), 207, 210, 244, Nov. 15, 1990, 104 Stat. 2819–2821, 2827; Pub. L. 102–190, div. A, title VIII, §814(c), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–191, §3, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title II, §232(a), Sept. 4, 1992, 106 Stat. 1001; Pub. L. 102–564, title III, §§303(a), 304, Oct. 28, 1992, 106 Stat. 4262; Pub. L. 103–355, title I, §1055(b)(2), title IV, §§4202(d), 4404(b), title VII, §7106(b), Oct. 13, 1994, 108 Stat. 3265, 3345, 3349, 3375; Pub. L. 103–403, title IV, §§401(a)(1), 407, 415, Oct. 22, 1994, 108 Stat. 4190, 4192, 4198; Pub. L. 104–106, div. D, title XLIII, §4321(c)(1), (2), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–85, div. A, title VIII, §850(e)(1), Nov. 18, 1997, 111 Stat. 1848; Pub. L. 105–135, title IV, §§415, 416(a), (c), title VI, §603(a), title VII, §708, Dec. 2, 1997, 111 Stat. 2619, 2620, 2631, 2637; Pub. L. 106–50, title III, §303(a), title V, §501, Aug. 17, 1999, 113 Stat. 243, 247; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209; Pub. L. 106–554, §1(a)(8) \[§2\], §1(a)(9) \[title V, §504(a), title VI, §615(b), title VIII, §§803, 807, 809, 811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; Pub. L. 108–447, div. K, title I, §§132(b), (c), 141(a), 144, Dec. 8, 2004, 118 Stat. 3453, 3455; Pub. L. 111–240, title I, §§1322, 1334, Sept. 27, 2010, 124 Stat. 2540, 2542; Pub. L. 112–239, div. A, title XVI, §§1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, 126 Stat. 2081, 2083, 2091; Pub. L. 113–66, div. A, title XVI, §1614(a), Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–291, div. A, title VIII, §825(a), Dec. 19, 2014, 128 Stat. 3437; Pub. L. 114–92, div. A, title VIII, §864(a), Nov. 25, 2015, 129 Stat. 927; Pub. L. 114–328, div. A, title XVIII, §§1821(a), 1822, 1832(c), Dec. 23, 2016, 130 Stat. 2654, 2660.)
+(Pub. L. 85–536, §2\[8\], July 18, 1958, 72 Stat. 389; Pub. L. 87–305, §§7, 8, Sept. 26, 1961, 75 Stat. 667, 668; Pub. L. 88–560, title III, §305(c), Sept. 2, 1964, 78 Stat. 786; Pub. L. 89–754, title X, §1017, Nov. 3, 1966, 80 Stat. 1295; Pub. L. 90–104, title I, §§105–107, Oct. 11, 1967, 81 Stat. 268, 269; Pub. L. 91–375, §6(g), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–89, title V, §501, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–507, title II, §§202(a), 211, Oct. 24, 1978, 92 Stat. 1761, 1767; Pub. L. 95–510, §101, Oct. 24, 1978, 92 Stat. 1780; Pub. L. 96–302, title I, §118(b), July 2, 1980, 94 Stat. 840; Pub. L. 96–481, title I, §§101, 105, Oct. 21, 1980, 94 Stat. 2321, 2322; Pub. L. 98–47, §§1(a), 2, 3, July 13, 1983, 97 Stat. 243; Pub. L. 98–72, §1(a), Aug. 11, 1983, 97 Stat. 403; Pub. L. 98–362, §5(a), July 16, 1984, 98 Stat. 433; Pub. L. 98–577, title IV, §§401, 402, 404(a), Oct. 30, 1984, 98 Stat. 3079, 3082; Pub. L. 99–272, title XVIII, §18015(b)–(d), Apr. 7, 1986, 100 Stat. 370, 371; Pub. L. 99–500, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–147, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §§921(b)(2), (c)(1), 922(a), (d)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–147, 3341–151, 3341–152; Pub. L. 99–567, §§1(a), 2, 3, Oct. 27, 1986, 100 Stat. 3188; Pub. L. 99–661, div. A, title IX, formerly title IV, §§921(b)(2), (c)(1), 922(a), (d)(1), Nov. 14, 1986, 100 Stat. 3927, 3930, 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(3), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–533, title II, §§201, 202, Oct. 25, 1988, 102 Stat. 2690, 2692; Pub. L. 100–590, title I, §§127(a), (b), 131(b), Nov. 3, 1988, 102 Stat. 3001, 3003, 3004; Pub. L. 100–656, title II, §§201(b), 207(a), (c), 209, title III, §§303(b)–(e), (g), (h), 304(a), title IV, §§402–404, 407, 409, title V, §501, Nov. 15, 1988, 102 Stat. 3858, 3861, 3863, 3869, 3870, 3872–3874, 3876, 3878, 3880; Pub. L. 101–37, §§6(b), (d), 7(b), 10(c), (e), 12–14, 16, 17, June 15, 1989, 103 Stat. 72–74; Pub. L. 101–162, title V, (3), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–510, div. A, title VIII, §806(e)(2), Nov. 5, 1990, 104 Stat. 1593; Pub. L. 101–574, title II, §§204(b), 207, 210, 244, Nov. 15, 1990, 104 Stat. 2819–2821, 2827; Pub. L. 102–190, div. A, title VIII, §814(c), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–191, §3, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title II, §232(a), Sept. 4, 1992, 106 Stat. 1001; Pub. L. 102–564, title III, §§303(a), 304, Oct. 28, 1992, 106 Stat. 4262; Pub. L. 103–355, title I, §1055(b)(2), title IV, §§4202(d), 4404(b), title VII, §7106(b), Oct. 13, 1994, 108 Stat. 3265, 3345, 3349, 3375; Pub. L. 103–403, title IV, §§401(a)(1), 407, 415, Oct. 22, 1994, 108 Stat. 4190, 4192, 4198; Pub. L. 104–106, div. D, title XLIII, §4321(c)(1), (2), Feb. 10, 1996, 110 Stat. 674; Pub. L. 105–85, div. A, title VIII, §850(e)(1), Nov. 18, 1997, 111 Stat. 1848; Pub. L. 105–135, title IV, §§415, 416(a), (c), title VI, §603(a), title VII, §708, Dec. 2, 1997, 111 Stat. 2619, 2620, 2631, 2637; Pub. L. 106–50, title III, §303(a), title V, §501, Aug. 17, 1999, 113 Stat. 243, 247; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209; Pub. L. 106–554, §1(a)(8) \[§2\], §1(a)(9) \[title V, §504(a), title VI, §615(b), title VIII, §§803, 807, 809, 811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–666, 2763A–695, 2763A–701, 2763A–702, 2763A–706, 2763A–708; Pub. L. 108–447, div. K, title I, §§132(b), (c), 141(a), 144, Dec. 8, 2004, 118 Stat. 3453, 3455; Pub. L. 111–240, title I, §§1322, 1334, Sept. 27, 2010, 124 Stat. 2540, 2542; Pub. L. 112–239, div. A, title XVI, §§1653(a), 1654, 1696(b)(2), 1697(a), Jan. 2, 2013, 126 Stat. 2081, 2083, 2091; Pub. L. 113–66, div. A, title XVI, §1614(a), Dec. 26, 2013, 127 Stat. 948; Pub. L. 113–291, div. A, title VIII, §825(a), Dec. 19, 2014, 128 Stat. 3437; Pub. L. 114–92, div. A, title VIII, §864(a), Nov. 25, 2015, 129 Stat. 927; Pub. L. 114–328, div. A, title XVIII, §§1821(a), 1822, 1832(c), Dec. 23, 2016, 130 Stat. 2654, 2660; Pub. L. 115–91, div. A, title XVII, §§1701(a)(4)(C), 1706, Dec. 12, 2017, 131 Stat. 1796, 1808.)
 
 #### Amendment of Subsection (d)(3)
 
@@ -924,13 +934,19 @@ The Administration shall utilize, as appropriate, its entrepreneurial developmen
 
 &emsp;<i>"(H) In this contract, the term 'small business concern owned and controlled by service-disabled veterans' has the meaning given that term in section 632(q) of this title.".</i>
 
+<i>See 2016 Amendment note below.</i>
+
+#### Amendment of Subsection (d)(3)(G)
+
+<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(C), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, sub</i><i>section (d)(3)(G) of this section is amended by striking "section 3(p) of the Small Business Act" and inserting "section 31(b)". See 2017 Amendment notes below.</i>
+
 #### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsecs. (a)(2)(C), (21)(D), and (b)(13), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title IV of the Small Business Investment Act of 1958 is classified generally to subchapter IV–A (§692 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 35(a) of title 41, referred to in subsecs. (a)(17)(B)(iii) and (b)(7)(B), was struck out and former section 35(b) of Title 41, Public Contracts, redesignated section 35(a) by Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378. Section 35 of title 41 was subsequently repealed and restated as sections 6501(1) and 6502 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 6510 of Title 41 now provides for determination of "regulardealer" by Secretary of Labor. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 35(a) of title 41, referred to in subsecs. (a)(17)(B)(iii) and (b)(7)(B), was struck out and former section 35(b) of Title 41, Public Contracts, redesignated section 35(a) by Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378. Section 35 of title 41 was subsequently repealed and restated as sections 6501(1) and 6502 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 6510 of Title 41 now provides for determination of "regular dealer" by Secretary of Labor. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Program Fraud Civil Remedies Act of 1986, referred to in subsec. (a)(18)(C)(iv), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
@@ -972,6 +988,22 @@ Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210,
 
 #### Amendments
 
+<b>2017</b>—Subsec. (d)(3)(G). Pub. L. 115–91, §1701(a)(4)(C), substituted "section 31(b)" for "section 3(p) of the Small Business Act".
+
+Subsec. (d)(17)(A). Pub. L. 115–91, §1706(b), substituted "paragraph (13)(A)" for "paragraph 13(A)".
+
+Subsec. (d)(17)(G)(i). Pub. L. 115–91, §1706(a)(1)(A), inserted "and, set forth separately, the number of small business exporters," after "small business concerns".
+
+Subsec. (d)(17)(G)(ii). Pub. L. 115–91, §1706(a)(1)(B), inserted ", set forth separately by applications from small business concerns and from small business exporters," after "applications".
+
+Subsec. (d)(17)(H). Pub. L. 115–91, §1706(a)(2), amended subpar. (H) generally. Prior to amendment, text read as follows: "In this paragraph, the term 'appropriate official' means—
+
+&emsp;"(i) a commercial market representative;
+
+&emsp;"(ii) another individual designated by the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title; or
+
+&emsp;"(iii) the Office of Small and Disadvantaged Business Utilization of a Federal agency, if the head of the Federal agency and the Administrator agree."
+
 <b>2016</b>—Subsec. (d)(3)(H). Pub. L. 114–328, §1832(c), added subpar. (H).
 
 Subsec. (d)(9). Pub. L. 114–328, §1821(a), inserted par. heading, added subpar. (C), and realigned margins.
@@ -998,7 +1030,7 @@ Subsec. (m)(7), (8). Pub. L. 113–291, §825(a)(3), added pars. (7) and (8).
 
 &emsp;"(i) in the case of a contract for services (except construction), at least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern; and
 
-&emsp;"(ii) in the case of a contract for procurement of supplies (other than procurement from a regulardealer in such supplies), the concern will perform work for at least 50 percent of the cost of manufacturing the supplies (not including the cost of materials).
+&emsp;"(ii) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in such supplies), the concern will perform work for at least 50 percent of the cost of manufacturing the supplies (not including the cost of materials).
 
 "(B) The Administrator may change the percentage under clause (i) or (ii) of subparagraph (A) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category. A percentage established under the preceding sentence may not differ from a percentage established under section 644(o) of this title.
 
@@ -1192,7 +1224,7 @@ Subsecs. (e) to (j). Pub. L. 102–191, which directed the redesignation of subs
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–574, §207(2), struck out after subpar. (C) "No contract may be entered into under subparagraph (B) after September 30, 1988."
 
-Subsec. (a)(1)(B). Pub. L. 101–574, §207(1), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "to enter into contracts with such agency as shall be designated by the President, to furnish articles, equipment, supplies, services, or materials, or to perform construction work for such agency. In any case in which the Administration certifies to any officer of such agency having procurement powers that the Administration is competent and responsible to perform any specific procurement contract to be let by any such officer, such officer shall let such procurement contract to the Administration upon such terms and conditions as may be agreed upon between the Administration and the procurement officer. If the Administration and such procurement officer fail to agree on such terms and conditions, either the Administration or such officer shall promptly notify, in writing, the head of such agency. The head of such agency shall have five days (exclusive of Saturdays, Sundays, and legal holidays) to establish the terms and conditions upon which such procurement contract may be let to the Administration, and shall communicate in writing to the Administration the terms and conditions so established. Within five days (exclusive of Saturdays, Sundays, and legal holidays) after the receipt of such written communication, the Administration shall decide whether to perform such procurement contract or withdraw its prior certification that the Administration is competent and responsible to perform such contract; and".
+Subsec. (a)(1)(B). Pub. L. 101–574, §207(1), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "to enter into contracts with such agency as shall be designated by the President, tofurnish articles, equipment, supplies, services, or materials, or to perform construction work for such agency. In any case in which the Administration certifies to any officer of such agency having procurement powers that the Administration is competent and responsible to perform any specific procurement contract to be let by any such officer, such officer shall let such procurement contract to the Administration upon such terms and conditions as may be agreed upon between the Administration and the procurement officer. If the Administration and such procurement officer fail to agree on such terms and conditions, either the Administration or such officer shall promptly notify, in writing, the head of such agency. The head of such agency shall have five days (exclusive of Saturdays, Sundays, and legal holidays) to establish the terms and conditions upon which such procurement contract may be let to the Administration, and shall communicate in writing to the Administration the terms and conditions so established. Within five days (exclusive of Saturdays, Sundays, and legal holidays) after the receipt of such written communication, the Administration shall decide whether to perform such procurement contract or withdraw its prior certification that the Administration is competent and responsible to perform such contract; and".
 
 Subsec. (a)(1)(C). Pub. L. 101–574, §207(4), added subpar. (C). Former subpar. (C) redesignated (B).
 
@@ -1284,7 +1316,7 @@ Subsec. (a)(1)(A). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§921(b)(2)
 
 Subsec. (a)(1)(B). Pub. L. 99–567, §1(a), struck out "(other than the Department of Defense or any component thereof)" after "contracts with such agency".
 
-Subsec. (a)(2). Pub. L. 99–567, §3, substituted provision that the authority to waive bonds as provided in par. (2) may not be exercised after Sept. 30, 1988, for provision that such authority could not be exercised prior toOct. 1, 1983, nor after Sept. 30, 1985, in closing provisions.
+Subsec. (a)(2). Pub. L. 99–567, §3, substituted provision that the authority to waive bonds as provided in par. (2) may not be exercised after Sept. 30, 1988, for provision that such authority could not be exercised prior to Oct. 1, 1983, nor after Sept. 30, 1985, in closing provisions.
 
 Subsec. (a)(4). Pub. L. 99–272, §18015(b), in amending par. (4) generally, included economically disadvantaged Indian tribe within definition of "socially and economically disadvantaged small business concern".
 
@@ -1316,7 +1348,7 @@ Subsec. (a)(1)(B). Pub. L. 98–47, §1(a), substituted "(other than the Departm
 
 Subsec. (a)(2). Pub. L. 98–47, §3, substituted provision that the authority to waive bonds as provided in par. (2) may not be exercised prior to Oct. 1, 1983, nor after Sept. 30, 1985, for provision that par. (2) shall not apply after Sept. 30, 1981.
 
-Subsec. (e). Pub. L. 98–72 amended subsec. (e) generally, designating existing provisions as par. (1) and in par. (1) as so designated substituting: "It shall be the duty of the Secretary of Commerce, and the Secretary is hereby empowered, to obtain notice of all proposed competitive and noncompetitive civilian and defense procurement actions of $10,000 and above from any Federal department, establishment or agency (hereinafter in this subsection referred to as 'department') engaged in procurement of property, supplies, and services in the United States; and to publicize such notices in the daily publication Commerce Business Daily, immediately after the necessity for the procurement is established: <i>Provided</i>, That nothing in this paragraph shall require publication of such notices with respect to those procurements in which it is determined on a case-by-case basis that (A) the procurement for security reasons is of a classified nature; (B) the Federal department's need for the property, supplies, or services is of such unusual and compelling urgency that the Government would be seriously injured if the time periods provided for in paragraph (2) were complied with; (C) a foreign government reimburses the Federal department for the cost of the procurement of the property, supplies, or services for such government and only one source is available, or the terms of an international agreement or treaty between the United States and a foreign government authorize or require that all such procurement shall be from sources specified within such international agreement or treaty; (D) the procurement is made from another Government department or agency, or a mandatory source of supply; (E) the procurement is for utility services and only one source is available; (F) the procurement is made against an order placed under a requirement or similar contract, including orders for perishable subsistence supplies; (G) the procurement results from acceptance of a proposal pursuant to the Small Business Innovation Development Act of 1982 or an unsolicited proposal that demonstrates a unique or innovative research concept and publication of such unsolicited proposal would improperly disclose the originality of thought or innovativeness of the proposed research; or (H) it is determined in writing by the head of the Federal department, with the concurrence of the Administrator, that advance notice is not appropriate or reasonable" for "It shall be the duty of the Secretary of Commerce, and he is empowered, to obtain notice of all proposed defense procurement actions of $10,000 and above, and all civilian procurement actions of $5,000 and above, from any Federal department, establishment, or agency engaged in procurement of supplies and services in the United States; and to publicize such notices in the daily publication 'United States Department of Commerce Synopsis of the United States Government Proposed Procurements, Sales, and Contract Awards', immediately after the necessity for the procurement is established; except that nothing herein shall require publication of such notices with respect to those procurements (1) which for security reasons are of a classified nature, or (2) which involve perishable subsistence supplies, or (3) which are for utility services and the procuring agency in accordance with applicable law has predetermined the utility concern to whom the award will be made, or (4) which are of such unusual and compelling emergency that the Government would be seriously injured if bids or offers were permitted to be made more than 15 days after the issuance of the invitation for bids or solicitation for proposals, or (5) which are made by an order placed under an existing contract, or (6) whichare made from another Government department or agency, or a mandatory source of supply, or (7) which are for personal or professional services, or (8) which are for services from educational institutions, or (9) in which only foreign sources are to be solicited, or (10) for which it is determined in writing by the procuring agency, with the concurrence of the Administrator, that advance publicity is not appropriate or reasonable", and adding pars. (2) to (6).
+Subsec. (e). Pub. L. 98–72 amended subsec. (e) generally, designating existing provisions as par. (1) and in par. (1) as so designated substituting: "It shall be the duty of the Secretary of Commerce, and the Secretary is hereby empowered, to obtain notice of all proposed competitive and noncompetitive civilian and defense procurement actions of $10,000 and above from any Federal department, establishment or agency (hereinafter in this subsection referred to as 'department') engaged in procurement of property, supplies, and services in the United States; and to publicize such notices in the daily publication Commerce Business Daily, immediately after the necessity for the procurement is established: <i>Provided</i>, That nothing in this paragraphshall require publication of such notices with respect to those procurements in which it is determined on a case-by-case basis that (A) the procurement for security reasons is of a classified nature; (B) the Federal department's need for the property, supplies, or services is of such unusual and compelling urgency that the Government would be seriously injured if the time periods provided for in paragraph (2) were complied with; (C) a foreign government reimburses the Federal department for the cost of the procurement of the property, supplies, or services for such government and only one source is available, or the terms of an international agreement or treaty between the United States and a foreign government authorize or require that all such procurement shall be from sources specified within such international agreement or treaty; (D) the procurement is made from another Government department or agency, or a mandatory source of supply; (E) the procurement is for utility services and only one source is available; (F) the procurement is made against an order placed under a requirement or similar contract, including orders for perishable subsistence supplies; (G) the procurement results from acceptance of a proposal pursuant to the Small Business Innovation Development Act of 1982 or an unsolicited proposal that demonstrates a unique or innovative research concept and publication of such unsolicited proposal would improperly disclose the originality of thought or innovativeness of the proposed research; or (H) it is determined in writing by the head of the Federal department, with the concurrence of the Administrator, that advance notice is not appropriate or reasonable" for "It shall be the duty of the Secretary of Commerce, and he is empowered, to obtain notice of all proposed defense procurement actions of $10,000 and above, and all civilian procurement actions of $5,000 and above, from any Federal department, establishment, or agency engaged in procurement of supplies and services in the United States; and to publicize such notices in the daily publication 'United States Department of Commerce Synopsis of the United States Government Proposed Procurements, Sales, and Contract Awards', immediately after the necessity for the procurement is established; except that nothing herein shall require publication of such notices with respect to those procurements (1) which for security reasons are of a classified nature, or (2) which involve perishable subsistence supplies, or (3) which are for utility services and the procuring agency in accordance with applicable law has predetermined the utility concern to whom the award will be made, or (4) which are of such unusual and compelling emergency that the Government would be seriously injured if bids or offers were permitted to be made more than 15 days after the issuance of the invitation for bids or solicitation for proposals, or (5) which are made by an order placed under an existing contract, or (6) which are made from another Government department or agency, or a mandatory source of supply, or (7) which are for personal or professional services, or (8) which are for services from educational institutions, or (9) in which only foreign sources are to be solicited, or (10) for which it is determined in writing by the procuring agency, with the concurrence of the Administrator, that advance publicity is not appropriate or reasonable", and adding pars. (2) to (6).
 
 <b>1980</b>—Subsec. (a)(1), (2). Pub. L. 96–481, §101, substituted "September 30, 1981" for "September 30, 1980".
 
@@ -1347,6 +1379,10 @@ Subsec. (b)(15). Pub. L. 90–104, §107, added par. (15).
 <b>1961</b>—Subsec. (d). Pub. L. 87–305, §7, added subsec. (d).
 
 Subsec. (e). Pub. L. 87–305, §8, added subsec. (e).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 1701(a)(4)(C) of Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L.115–91, set out as a note under section 2323 of Title 10, Armed Forces.
 
 #### Effective Date of 2016 Amendment
 
@@ -1384,7 +1420,7 @@ Amendment by sections 207(a), (c) and 303(d), (e) of Pub. L. 100–656 effective
 
 Amendment by sections 201(b), 303(c), (g), (h), 304(a), 402–404, and 409 of Pub. L. 100–656 effective Aug. 15, 1989, see section 803(b)(1)(A)–(C) of Pub. L. 100–656, as amended, set out as a note under section 631 of this title.
 
-Amendment by section 407 of Pub. L. 100–656 effective with respect to contracts entered into on or after June1, 1989, see section 803(b)(3) of Pub. L. 100–656, as amended, set out as a note under section 631 of this title.
+Amendment by section 407 of Pub. L. 100–656 effective with respect to contracts entered into on or after June 1, 1989, see section 803(b)(3) of Pub. L. 100–656, as amended, set out as a note under section 631 of this title.
 
 Amendment by sections 209 and 303(b) of Pub. L. 100–656 effective Oct. 1, 1989, see section 803(b)(4)(A), (B) of Pub. L. 100–656, as amended, set out as a note under section 631 of this title.
 
@@ -1438,7 +1474,7 @@ For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L
 
 #### Regulations
 
-Pub. L. 108–447, div. K, title I, §141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: "The Administration shall, not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], promulgate regulations to carry out the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 108–447, div. K, title I, §141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: "The Administration shall,not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], promulgate regulations to carry out the amendments made by subsection (a) \[amending this section\]."
 
 Pub. L. 106–50, §303(c), Aug. 17, 1999, 113 Stat. 243, provided that: "Not later than 30 days after the date of the enactment of this section \[Aug. 17, 1999\], the Administrator of the Small Business Administration shall issue such guidelines as the Administrator determines to be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section."
 
@@ -1454,7 +1490,7 @@ Pub. L. 114–328, div. A, title XVIII, §1821(c), Dec. 23, 2016, 130 Stat. 2654
 
 Pub. L. 111–240, title I, §1321, Sept. 27, 2010, 124 Stat. 2540, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator, in consultation with the Administrator for Federal Procurement Policy, shall promulgate regulations relating to, and the Federal Acquisition Regulatory Council established under section 25(a) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421(a)) \[now 41 U.S.C. 1302(a)\] shall amend the Federal Acquisition Regulation issued under section 25 of such Act \[see 41 U.S.C. 1303(a)\] to establish a policy on, subcontracting compliance relating to small business concerns, including assignment of compliance responsibilities between contracting offices, small business offices, and program offices and periodic oversight and review activities."
 
-\[For definitions of "Administrator" and "small business concern" as used in section 1321 of Pub. L. 111–240,set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
+\[For definitions of "Administrator" and "small business concern" as used in section 1321 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 
 #### Small Business Contracting Parity
 
@@ -1550,7 +1586,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
-For provisions that credit toward meeting a subcontracting goal specified in a Department of Defense contract in implementing subsec. (d) of this section may be given for work performed on Indian land or bycertain Indian joint ventures, see section 2323a of Title 10, Armed Forces.
+For provisions that credit toward meeting a subcontracting goal specified in a Department of Defense contract in implementing subsec. (d) of this section may be given for work performed on Indian land or by certain Indian joint ventures, see section 2323a of Title 10, Armed Forces.
 
 #### Test Program for Negotiation of Comprehensive Small Business Subcontracting Plans
 
@@ -1590,7 +1626,7 @@ Comprehensive Small Business Subcontracting Plan.—(1) In a demonstration proje
 
 &emsp;&emsp;"(iv) by military department.
 
-&emsp;"(B) The total number of subcontracts active under the test program during the six-month period covered by the report that would have otherwise required a subcontracting plan under paragraph (4) or (5) of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+&emsp;"(B) The total number of subcontracts active under the test program during the six-month period covered by the report that would have otherwise required asubcontracting plan under paragraph (4) or (5) of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
 &emsp;"(C) Costs incurred in negotiating, complying with, and reporting on comprehensive subcontracting plans.
 
@@ -1637,6 +1673,8 @@ Definitions.—In this section, the term 'covered small business concern' includ
 &emsp;"(5) A small business concern owned and controlled by socially and economically disadvantaged individuals, as that term is defined in section 8(d)(3)(C) of such Act (15 U.S.C. 637(d)(3)(C)).
 
 &emsp;"(6) A small business concern owned and controlled by women, as that term is defined under section 3(n) of such Act (15 U.S.C. 632(n))."
+
+\[Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(D), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, section 834 of Pub. L. 101–189, set out above, is amended by striking "section 3(p)(5) of such Act (15 U.S.C. 632(p)(5))" and inserting "section 31(b) of such Act".\]
 
 #### Contract Options and Modifications
 
@@ -1770,11 +1808,7 @@ Similar provisions were contained in Pub. L. 100–533, title II, §204, Oct. 25
 
 <i><sup>3</sup></i><i> So in original. Probably should be "solicited".</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "than".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be "(13)(A))".</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be preceded by "than".</i>
-
-<i><sup>7</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

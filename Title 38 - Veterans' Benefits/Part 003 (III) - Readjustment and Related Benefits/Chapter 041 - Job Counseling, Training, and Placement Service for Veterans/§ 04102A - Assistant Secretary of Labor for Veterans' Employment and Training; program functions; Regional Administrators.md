@@ -8,7 +8,7 @@ Establishment of Position of Assistant Secretary of Labor for Veterans' Employme
 
 (3)(A) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans' Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans' Employment and Training prescribes.
 
-(B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans' Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federal civil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of section 308(d)(2) of this title.
+(B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans' Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federalcivil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of section 308(d)(2) of this title.
 
 (b)
 
@@ -60,7 +60,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;(iv) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
 
-(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
+(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount availableunder subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
 
 &emsp;(I) the total number of veterans residing in the State that are seeking employment; to
 
@@ -82,7 +82,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (4) In determining the terms and conditions of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall take into account—
 
-&emsp;(A) the results of reviews, carried out pursuant to subsection (b)(7), of the performance ofthe employment, training, and placement service delivery system in the State, and
+&emsp;(A) the results of reviews, carried out pursuant to subsection (b)(7), of the performance of the employment, training, and placement service delivery system in the State, and
 
 &emsp;(B) the monitoring carried out under this section.
 
@@ -260,7 +260,7 @@ Subsecs. (b) to (e). Pub. L. 100–323, §2(a), added subsecs. (b) to (e).
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2013 Amendment
 

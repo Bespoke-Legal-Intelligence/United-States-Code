@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Energy sustainability
 
-&emsp;The term "energy sustainability" includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation,heating, cooling, lighting, or other energy services in fixed installations.
+&emsp;The term "energy sustainability" includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation, heating, cooling, lighting, or other energy services in fixed installations.
 
 #### (4) Institution of higher education
 
@@ -128,7 +128,7 @@ In this section:
 
 #### (B) Requirement
 
-&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A) shall include not less than 2 grants each year to institutions of higher education in each State.
+&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A)shall include not less than 2 grants each year to institutions of higher education in each State.
 
 #### (C) Minimum funding
 

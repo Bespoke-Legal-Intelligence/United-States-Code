@@ -28,7 +28,7 @@ There shall be allowed as a depreciation deduction a reasonable allowance for th
 
 #### (d) Life tenants and beneficiaries of trusts and estates
 
-In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property andshall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
+In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
 
 #### (e) Certain term interests not depreciable
 
@@ -204,7 +204,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
+&emsp;&emsp;For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjustedbasis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
 
 #### (B) Participations and residuals
 
@@ -258,13 +258,13 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
 
-&emsp;&emsp;&emsp;&emsp;(II) to which a simplified procedure established under section 263A(i)(2) applies, or
+&emsp;&emsp;&emsp;&emsp;(II) to which a simplified procedure established under section 263A(i)(2) <sup>1</sup> applies, or
 
 &emsp;&emsp;&emsp;&emsp;(III) which is an amortizable section 197 intangible (as defined in section 197(c)).
 
 #### (D) Election
 
-&emsp;&emsp;An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply toall applicable musical property placed in service during the taxable year for which the election applies.
+&emsp;&emsp;An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
 
 #### (E) Termination
 
@@ -318,6 +318,10 @@ In the case of property held by one person for life with remainder to another pe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
+#### References in Text
+
+Section 263A(i)(2), referred to in subsec. (g)(8)(C)(ii)(II), was redesignated section 263A(j)(2) by Pub. L. 115–97, title I, §13102(b)(1), Dec. 22, 2017, 131 Stat. 2103.
+
 #### Amendments
 
 <b>2007</b>—Subsec. (g)(8)(C)(ii)(II). Pub. L. 110–172 substituted "section 263A(i)(2)" for "section 263A(j)(2)".
@@ -334,7 +338,7 @@ Subsecs. (h), (i). Pub. L. 109–58 added subsec. (h) and redesignated former su
 
 <b>2004</b>—Subsec. (f)(1)(C). Pub. L. 108–357, §847(b)(1), added subpar. (C).
 
-Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end "If such property would be tax-exempt use propertyas defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3))."
+Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end "If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3))."
 
 Subsec. (g)(5)(E) to (G). Pub. L. 108–357, §242(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
@@ -604,7 +608,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(1) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1511(c)(4) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
@@ -694,7 +698,7 @@ Pub. L. 97–34, title II, §203(c)(2), (3), Aug. 13, 1981, 95 Stat. 222, as ame
 
 "(2)
 
-Change in method of accounting.—Sections 446 and 481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to the change in the method of depreciation to comply with the provisions of this subsection \[which struck out subsec. (r) of this section relating to the retirement-replacement-betterment method of accounting\].
+Change in method of accounting.—Sections 446 and 481 of the Internal Revenue Code of 1986 \[formerlyI.R.C. 1954\] shall not apply to the change in the method of depreciation to comply with the provisions of this subsection \[which struck out subsec. (r) of this section relating to the retirement-replacement-betterment method of accounting\].
 
 "(3)
 
@@ -725,4 +729,6 @@ Subsidiary assets.—If a significant portion of a class of property first presc
 #### Rehabilitation Expenditures for Low Income Rental Housing Incurred After December 31, 1974, and Before January 1, 1978, Pursuant to Contract Entered Before December 31, 1974
 
 Pub. L. 93–482, §4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Notwithstanding the provisions of section 167(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to depreciation of expenditures to rehabilitate low income rental housing), the provisions of section 167(k) shall apply with respect to rehabilitation expenditures incurred with respect to low income rental housing after December 31, 1974, and before January 1, 1978, if such expenditures are incurred pursuant to a binding contract entered into before December 31, 1974."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including theuse of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the "Guidance for Controlling Asbestos-Containing Materials in Buildings" (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the "Guidance for Controlling Asbestos-Containing Materials in Buildings" (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -36,7 +36,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(ii) there is a reasonable likelihood that the material or its covering will become significantly damaged, deteriorated, or delaminated.
 
-(2) In promulgating such regulations, the Administrator shall consider and assess the value of various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
+(2) In promulgating such regulations, the Administrator shall consider and assess the valueof various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
 
 #### (d) Response actions
 
@@ -156,7 +156,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (5) Public availability
 
-&emsp;A copy of the management plan developed under the regulations shall be available in the administrative offices of the local educational agency for inspection by the public, including teachers, other school personnel, and parents. The local educational agency shall notify parent, teacher, and employee organizations of the availability of such plan.
+&emsp;A copy of the management plan developed under the regulations shall be available in the administrative offices of the local educationalagency for inspection by the public, including teachers, other school personnel, and parents. The local educational agency shall notify parent, teacher, and employee organizations of the availability of such plan.
 
 #### (6) Submission to State Governor
 

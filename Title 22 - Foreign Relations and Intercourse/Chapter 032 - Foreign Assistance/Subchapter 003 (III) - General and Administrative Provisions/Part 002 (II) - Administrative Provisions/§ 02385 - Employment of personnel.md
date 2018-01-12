@@ -14,7 +14,7 @@ Of the personnel employed in the United States to carry out subchapter II of thi
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -42,7 +42,7 @@ To the maximum extent practicable officers and employees performing functions un
 
 (3) An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
-(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
+(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct.17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
 
 #### References in Text
 
@@ -116,9 +116,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 114–113, div. K, title VII, §7034(k)(6), Dec. 18, 2015, 129 Stat. 2765, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2016' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 115–31, div. J, title VII, §7034(k)(3), May 5, 2017, 131 Stat. 651, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2017' for 'October 1, 2010' in subparagraph (B)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 114–113, div. K, title VII, §7034(k)(6), Dec. 18, 2015, 129 Stat. 2765.
 
 Pub. L. 113–235, div. J, title VII, §7034(l)(6), Dec. 16, 2014, 128 Stat. 2625.
 

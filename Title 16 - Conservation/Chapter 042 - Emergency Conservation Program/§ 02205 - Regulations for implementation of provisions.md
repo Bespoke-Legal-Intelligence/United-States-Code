@@ -4,3 +4,7 @@ The Secretary of Agriculture is authorized to prescribe such regulations as the 
 
 (Pub. L. 95–334, title IV, §405, Aug. 4, 1978, 92 Stat. 434.)
 
+#### Effective Date
+
+Section effective Oct. 1, 1978, see section 406 of Pub. L. 95–334, set out as a note under section 2201 of this title.
+

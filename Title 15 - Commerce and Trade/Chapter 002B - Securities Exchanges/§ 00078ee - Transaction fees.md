@@ -6,11 +6,11 @@ The Commission shall, in accordance with this section, collect transaction fees 
 
 #### (b) Exchange-traded securities
 
-Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 <sup>1</sup> per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
 
 #### (c) Off-exchange trades of exchange registered and last-sale-reported securities
 
-Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
+Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 <sup>1</sup> per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
 
 #### (d) Assessments on security futures transactions
 
@@ -54,7 +54,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (1) Annual adjustment
 
-&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollaramount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
 
 #### (2) Mid-year adjustment
 
@@ -108,13 +108,9 @@ The baseline estimate of the aggregate dollar amount of sales for any fiscal yea
 
 (June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
 
-#### Adjustment of Fee Amount
-
-<i>For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Transaction Fee Rate notes below.</i>
-
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Commissionshall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities."
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities."
 
 Subsec. (e)(2). Pub. L. 111–203, §991(a)(1)(B), substituted "September 25" for "September 30".
 
@@ -264,6 +260,8 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 St
 
 #### Adjustment of Transaction Fee Rate
 
+By order dated May 31, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $23.10 per $1,000,000, effective July 4, 2017, see 82 F.R. 25895.
+
 By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
 
 By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
@@ -275,4 +273,6 @@ By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted th
 By order dated Mar. 1, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.40 per $1,000,000, effective Apr. 1, 2012, see 77 F.R. 13663.
 
 By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.00 per $1,000,000, effective Feb. 21, 2012, see 77 F.R. 3818.
+
+<i><sup>1</sup></i><i> See Adjustment of Transaction Fee Rate notes below.</i>
 

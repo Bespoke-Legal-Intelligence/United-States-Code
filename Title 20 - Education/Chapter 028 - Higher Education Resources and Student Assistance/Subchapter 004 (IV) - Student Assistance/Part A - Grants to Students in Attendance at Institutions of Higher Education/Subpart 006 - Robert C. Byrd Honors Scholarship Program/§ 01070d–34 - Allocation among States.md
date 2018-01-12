@@ -30,7 +30,7 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 &emsp;A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
 
-(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668; Pub. L. 111–39, title IV, §401(a)(8), July 1, 2009, 123 Stat. 1939.)
+(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668; Pub. L. 111–39, title IV, §401(a)(8), July 1, 2009, 123 Stat. 1939.)
 
 #### Prior Provisions
 

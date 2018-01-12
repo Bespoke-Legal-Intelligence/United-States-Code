@@ -82,7 +82,7 @@
 
 #### (A) Increase
 
-&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, thenthe amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
+&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
 
 #### (B) No increase or decrease
 
@@ -118,7 +118,7 @@
 
 #### (B) Acts or determinations of Commissioner
 
-&emsp;&emsp;In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
+&emsp;&emsp;In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in whichthe extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
 
 (Pub. L. 93–112, title I, §100, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1116; amended Pub. L. 113–128, title IV, §411, July 22, 2014, 128 Stat. 1640.)
 

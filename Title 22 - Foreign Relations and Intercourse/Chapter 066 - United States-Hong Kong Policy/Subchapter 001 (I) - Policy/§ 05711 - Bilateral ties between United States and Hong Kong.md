@@ -8,7 +8,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(3) The United States should seek to maintain, after June 30, 1997, the United States consulate-general in Hong Kong, together with other official and semi-official organizations, such as the United States Information Agency American Library.
 
-&emsp;(4) The United States should invite Hong Kong to maintain, after June 30, 1997, its official and semi-official missions in the United States, such as the Hong Kong Economic \&Trade Office, the Office of the Hong Kong Trade Development Council, and the Hong Kong Tourist Association. The United States should invite Hong Kong to open and maintain other official or semi-official missions to represent Hong Kong in those areas in which Hong Kong is entitled to maintain relations on its own, including economic, trade, financial, monetary, aviation, shipping, communications, tourism, cultural, and sport areas.
+&emsp;(4) The United States should invite Hong Kong to maintain, after June 30, 1997, its official and semi-official missions in the United States, such as the Hong Kong Economic \& Trade Office, the Office of the Hong Kong Trade Development Council, and the Hong Kong Tourist Association. The United States should invite Hong Kong to open and maintain other official or semi-official missions to represent Hong Kong in those areas in which Hong Kong is entitled to maintain relations on its own, including economic, trade, financial, monetary, aviation, shipping, communications, tourism, cultural, and sport areas.
 
 &emsp;(5) The United States should recognize passports and travel documents issued after June 30, 1997, by the Hong Kong Special Administrative Region.
 

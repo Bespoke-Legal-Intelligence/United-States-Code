@@ -6,7 +6,7 @@ There is established in the Treasury of the United States a trust fund, to be kn
 
 #### (b) Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates
 
-(1) Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989, under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
+(1) Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989, under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
 
 (2) The Secretary shall not transfer more than $30,000,000 to the Trust Fund for any fiscal year.
 
@@ -34,7 +34,7 @@ The Secretary of Agriculture is on and after December 19, 1985, authorized to ob
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Codification
 
@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 99–190 struck out subsec. (e) which related to sense of C
 
 <b>1983</b>—Subsec. (b)(1). Pub. L. 97–424, §422(b), struck out "and before October 1, 1985," after "September 30, 1979".
 
-Subsec. (d). Pub. L. 97–424, §422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under section 1601(d)(2) of this title to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in section 1601(d)(3) of this title and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
+Subsec. (d). Pub. L. 97–424, §422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under section 1601(d)(2) of this title to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by theSecretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in section 1601(d)(3) of this title and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
 
 Subsec. (e). Pub. L. 97–424, §422(a), substituted provision that it is the intent of Congress that the Secretary expend all of the funds available in the Trust Fund in each fiscal year and that any such funds which are not expended in a given fiscal year remain available for expenditure without fiscal year limitation; except that any funds not expended prior to Oct. 1, 1985, shall, no later than Apr. 30, 1986, be distributed to the States for use in State forestry programs pursuant to the formula set forth in section 500 of this title for provision that the Secretary of the Treasury pay into the general fund of the Treasury any amounts, including interest earned on such amounts, remaining in the Trust Fund after Sept. 30, 1985, which were not expended and remained in the Trust Fund.
 

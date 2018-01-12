@@ -6,7 +6,7 @@
 
 (b) Each contract under this section shall contain—
 
-&emsp;(1) the requirements under section 8902(d), (f), and (i) made applicable to contracts underthis section by regulations prescribed by the Office;
+&emsp;(1) the requirements under section 8902(d), (f), and (i) made applicable to contracts under this section by regulations prescribed by the Office;
 
 &emsp;(2) the terms of the enrollment period; and
 

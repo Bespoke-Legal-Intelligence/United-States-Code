@@ -20,6 +20,60 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Air Force Space Contractor Responsibility Watch List
+
+Pub. L. 115–91, div. A, title XVI, §1612, Dec. 12, 2017, 131 Stat. 1729, provided that:
+
+"(a)
+
+In General.—The Commander of the Air Force Space and Missile Systems Center shall establish and maintain a watch list of contractors with a history of poor performance on space procurement contracts or research, development, test, and evaluation space program contracts.
+
+"(b)
+
+Basis for Inclusion on List.—
+
+&emsp;"(1)
+
+Determination.—The Commander may place a contractor on the watch list established under subsection (a) upon determining that the ability of the contractor to perform a contract specified in such subsection is uncertain because of any of the following issues:
+
+&emsp;&emsp;"(A) Poor performance or award fee scores below 50 percent.
+
+&emsp;&emsp;"(B) Financial concerns.
+
+&emsp;&emsp;"(C) Felony convictions or civil judgements.
+
+&emsp;&emsp;"(D) Security or foreign ownership and control issues.
+
+&emsp;"(2)
+
+Discretion of the commander.—The Commander shall be responsible for determining which contractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list.
+
+"(c)
+
+Effect of Listing.—
+
+&emsp;"(1)
+
+Prime contracts.—The Commander may not solicit an offer from, award a contract to, execute an engineering change proposal with, or exercise an option on any space program of the Air Force with a contractor included on the list established under subsection (a) without the prior approval of the Commander.
+
+&emsp;"(2)
+
+Subcontracts.—A prime contractor on a contract entered into with the Air Force Space and Missile Systems Center may not enter into a subcontract valued in excess of $3,000,000 or five percent of the prime contract value, whichever is lesser, with a contractor included on the watch list established under subsection (a) without the prior approval of the Commander.
+
+"(d)
+
+Request for Removal From List.—A contractor may submit to the Commander a written request for removal from the watch list, including evidence that the contractor has resolved the issue that was the basis for inclusion on the list.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed as preventing the suspension or debarment of a contractor, but inclusion on the watch list shall not be construed as a punitive measure or de facto suspension or debarment of a contractor."
+
+#### Briefings on the Joint Interagency Combined Space Operations Center
+
+Pub. L. 115–31, div. N, title VI, §605(e)(2), May 5, 2017, 131 Stat. 832, provided that: "The Director of the National Reconnaissance Office and the Commander of the United States Strategic Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence, shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the Joint Interagency Combined Space Operations Center to begin 30 days after the date of the enactment of this Act \[May 5, 2017\]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter."
+
+\[Pub. L. 115–31, div. N, title VI, §605(a), May 5, 2017, 131 Stat. 830, provided that: "In this section \[enacting provisions set out as a note above\], the term 'appropriate committees of Congress' means the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\], the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives."\]
+
 #### Space-Based Environmental Monitoring
 
 Pub. L. 114–328, div. A, title XVI, §1607, Dec. 23, 2016, 130 Stat. 2586, provided that:
@@ -126,15 +180,7 @@ Waiver.—The Secretary may waive the implementation of the plan under subsectio
 
 #### Satellite Communications Responsibilities of Executive Agent for Space
 
-Pub. L. 113–291, div. A, title XVI, §1603, Dec. 19, 2014, 128 Stat. 3622, provided that: "The Secretary of Defense shall, not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], revise Department of Defense directives and guidance to require the Department of Defense Executive Agent for Space to ensure that in developing space strategies, architectures, and programs for satellite communications, the Executive Agent shall—
-
-&emsp;"(1) conduct strategic planning to ensure the Department of Defense is effectively and efficiently meeting the satellite communications requirements of the military departments and commanders of the combatant commands;
-
-&emsp;"(2) coordinate with the secretaries of the military departments, the commanders of the combatant commands, and the heads of Defense Agencies to eliminate duplication of effort and to ensure that resources are used to achieve the maximum effort in related satellite communication science and technology; research, development, test and evaluation; production; and operations and sustainment;
-
-&emsp;"(3) coordinate with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Chief Information Officer of the Department to ensure that effective and efficient acquisition approaches are being used to acquire military and commercial satellite communications for the Department, including space, ground, and user terminal integration; and
-
-&emsp;"(4) coordinate with the chairman of the Joint Requirements Oversight Council to develop a process to identify the current and projected satellite communications requirements of the Department."
+Pub. L. 113–291, div. A, title XVI, §1603, Dec. 19, 2014, 128 Stat. 3622, directed the revision of Department of Defense guidance relating to acquisition of satellite communications no later than 180 days after Dec. 19, 2014.
 
 #### Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program
 
@@ -258,7 +304,7 @@ Pub. L. 110–181, div. A, title X, §1065, Jan. 28, 2008, 122 Stat. 324, provid
 
 #### Space Situational Awareness Strategy and Space Control Mission Review
 
-Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a "Space Situational Awareness Strategy" for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, §911(g), Jan. 28, 2008, 122 Stat. 280.
+Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to developa "Space Situational Awareness Strategy" for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, §911(g), Jan. 28, 2008, 122 Stat. 280.
 
 #### Space Personnel Career Fields
 

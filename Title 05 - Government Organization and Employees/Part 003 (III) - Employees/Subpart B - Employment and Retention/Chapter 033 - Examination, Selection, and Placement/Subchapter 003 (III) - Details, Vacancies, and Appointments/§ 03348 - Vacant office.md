@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) includes a function or duty to which clause (i)(I) and (II) applies, and the applicable regulation is in effect at any time during the 180-day period preceding the date on which the vacancy occurs.
 
-(b) Unless an officer or employee is performing the functions and duties in accordance with sections 3345, 3346, and 3347, if an officer of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate,dies, resigns, or is otherwise unable to perform the functions and duties of the office—
+(b) Unless an officer or employee is performing the functions and duties in accordance with sections 3345, 3346, and 3347, if an officer of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate, dies, resigns, or is otherwise unable to perform the functions and duties of the office—
 
 &emsp;(1) the office shall remain vacant; and
 

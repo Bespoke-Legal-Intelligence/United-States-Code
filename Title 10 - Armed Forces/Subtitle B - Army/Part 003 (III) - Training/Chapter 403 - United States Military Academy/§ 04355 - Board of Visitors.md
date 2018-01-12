@@ -4,7 +4,7 @@
 
 &emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
 
-&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom aremembers of the Committee on Appropriations of the Senate;
+&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
 
 &emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
 
@@ -26,7 +26,7 @@
 
 (h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Pub. L. 96–579, §13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Pub. L. 96–579, §13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L.104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 

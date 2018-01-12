@@ -8,7 +8,7 @@
 
 (b) A career appointee who is appointed by the President to any civil service position outside the Senior Executive Service and who leaves the position for reasons other than misconduct, neglect of duty, or malfeasance shall be entitled to be placed in the Senior Executive Service if the appointee applies to the Office of Personnel Management within 90 days after separation from the Presidential appointment.
 
-(c)(1) A former career appointee shall be reinstated, without regard to section 3393(b) and (c)of this title, to any vacant Senior Executive Service position in an agency for which the appointee is qualified if—
+(c)(1) A former career appointee shall be reinstated, without regard to section 3393(b) and (c) of this title, to any vacant Senior Executive Service position in an agency for which the appointee is qualified if—
 
 &emsp;(A) the individual was a career appointee on May 31, 1981;
 

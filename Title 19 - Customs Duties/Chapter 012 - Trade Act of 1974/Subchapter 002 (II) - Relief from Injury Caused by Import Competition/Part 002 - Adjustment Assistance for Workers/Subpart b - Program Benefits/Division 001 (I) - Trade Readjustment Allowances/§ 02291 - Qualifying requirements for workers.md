@@ -130,7 +130,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of thissection, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -192,7 +192,7 @@ Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substit
 
 Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted "area career and technical education schools" for "area vocational education schools" and made technicalamendment to reference in original act which appears in text as reference to section 2302 of title 20.
+<b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted "area career and technical education schools" for "area vocational education schools" and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
 <b>2002</b>—Subsec. (a)(3)(B). Pub. L. 107–210, §114(a), inserted ", except additional compensation that is funded by a State and is not reimbursed from any Federal funds," after "any unemployment insurance".
 
@@ -238,7 +238,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21,2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -308,5 +308,5 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

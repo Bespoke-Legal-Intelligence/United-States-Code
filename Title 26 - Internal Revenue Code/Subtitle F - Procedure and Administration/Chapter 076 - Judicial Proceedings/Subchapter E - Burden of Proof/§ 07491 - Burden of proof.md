@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;If, in any court proceeding, a taxpayer introduces credible evidence with respect to anyfactual issue relevant to ascertaining the liability of the taxpayer for any tax imposed by subtitle A or B, the Secretary shall have the burden of proof with respect to such issue.
+&emsp;If, in any court proceeding, a taxpayer introduces credible evidence with respect to any factual issue relevant to ascertaining the liability of the taxpayer for any tax imposed by subtitle A or B, the Secretary shall have the burden of proof with respect to such issue.
 
 #### (2) Limitations
 

@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 98–181, §802(a)(3), added subsec. (d).
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. K, title IX, §9001(3), Dec. 18, 2015, 129 Stat. 2829, provided in part that subsection (e) of this section is "effective from the first day of the next period of renewal of the NAB \[New Arrangements to Borrow\] decision after enactment of this Act \[Dec. 18, 2015\]".
+Pub. L. 114–113, div. K, title IX, §9001(3), Dec. 18, 2015, 129 Stat. 2829, provided in part that subsection (e) ofthis section is "effective from the first day of the next period of renewal of the NAB \[New Arrangements to Borrow\] decision after enactment of this Act \[Dec. 18, 2015\]".
 
 #### Effective Date of 1976 Amendment
 

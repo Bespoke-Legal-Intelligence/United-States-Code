@@ -12,7 +12,7 @@
 
 #### (2) Decedent may otherwise direct
 
-&emsp;Paragraph (1) shall not apply with respect to any property to the extent that the decedent in his will (or a revocable trust) specifically indicates an intent to waive any right of recovery under this subchapter with respect to such property.
+&emsp;Paragraph (1) shall not apply with respect to any property to the extent that the decedentin his will (or a revocable trust) specifically indicates an intent to waive any right of recovery under this subchapter with respect to such property.
 
 #### (b) Recovery with respect to gift tax
 

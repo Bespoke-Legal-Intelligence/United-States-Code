@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Malcolm Baldrige National Quality Award, which shall beevidenced by a medal bearing the inscriptions "Malcolm Baldrige National Quality Award" and "The Quest for Excellence". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
+There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions "Malcolm Baldrige National Quality Award" and "The Quest for Excellence". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
 
 #### (b) Making and presentation of award
 
@@ -58,7 +58,7 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 #### (g) Report
 
-The Secretary shall prepare and submit to the President and the Congress, within 3 years afterAugust 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
+The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
 (Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
 
@@ -90,7 +90,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;"(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
-&emsp;"(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
+&emsp;"(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control canlead to dramatic improvements in the cost and quality of manufactured products;
 
 &emsp;"(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
 

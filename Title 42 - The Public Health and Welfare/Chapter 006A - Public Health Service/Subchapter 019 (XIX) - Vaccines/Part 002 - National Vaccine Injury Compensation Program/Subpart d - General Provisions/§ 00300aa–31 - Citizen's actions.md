@@ -6,7 +6,7 @@ Except as provided in subsection (b), any person may commence in a district cour
 
 #### (b) Notice
 
-No action may be commenced under subsection (a) before the date which is 60 days afterthe person bringing the action has given written notice of intent to commence such action to the Secretary.
+No action may be commenced under subsection (a) before the date which is 60 days after the person bringing the action has given written notice of intent to commence such action to the Secretary.
 
 #### (c) Costs of litigation
 

@@ -97,7 +97,7 @@ Time for payment.—The tax imposed by paragraph (1) shall be paid on or before 
 
 "(3)
 
-Definitions.—For purposes of this subsection, terms used in this subsection which are also used in section 4131 of such Code shall have the respective meanings such terms have in such section.
+Definitions.—For purposes of this subsection, terms used in this subsection which are also used insection 4131 of such Code shall have the respective meanings such terms have in such section.
 
 "(4)
 

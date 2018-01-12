@@ -30,7 +30,7 @@ Notwithstanding subsection (b), if the participant or former participant had a f
 
 #### (h) Commencement, termination, and resumption of annuities
 
-Annuities that become payable under this section shall commence, terminate, and be resumedin accordance with subsection (b)(4), (e), or (h) of section 4046 of this title, as appropriate.
+Annuities that become payable under this section shall commence, terminate, and be resumed in accordance with subsection (b)(4), (e), or (h) of section 4046 of this title, as appropriate.
 
 (Pub. L. 96–465, title I, §809, Oct. 17, 1980, 94 Stat. 2111; Pub. L. 99–335, title IV, §402(a)(2), (c), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §§214(b), 215(b), Jan. 8, 1988, 101 Stat. 1774.)
 

@@ -88,13 +88,13 @@ Subsec. (c)(5). Pub. L. 106–501, §204(2), inserted "and older individuals res
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted "greatest economic need and older individuals with greatest social need" for "the greatest economic or social needs".
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted "greatest economic need and older individualswith greatest social need" for "the greatest economic or social needs".
 
 Subsec. (a)(5). Pub. L. 102–375, §208(a), added par. (5).
 
 Subsec. (b)(1). Pub. L. 102–375, §208(b), substituted "March 1" for "January 15" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 102–375, §708(a)(2)(A)(i), substituted "subchapters III and XI in accordance withsection 3058g(c) of this title" for "section 3027(a)(12)(C) of this title".
+Subsec. (b)(1)(A). Pub. L. 102–375, §708(a)(2)(A)(i), substituted "subchapters III and XI in accordance with section 3058g(c) of this title" for "section 3027(a)(12)(C) of this title".
 
 Subsec. (b)(3). Pub. L. 102–375, §708(a)(2)(A)(ii)(I), substituted "under subchapters III and XI in accordance with section 3058g(h)(1) of this title" for "by section 3027(a)(12)(H)(i) of this title".
 

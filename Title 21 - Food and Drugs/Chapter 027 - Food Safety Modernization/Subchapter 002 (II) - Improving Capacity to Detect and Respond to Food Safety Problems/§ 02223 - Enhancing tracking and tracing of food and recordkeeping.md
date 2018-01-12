@@ -18,7 +18,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 18 months after January 4, 2011, the Secretary shall report to Congress on the findings of the pilot projects under this subsection together with recommendations for improving the tracking and tracing of food.
+&emsp;Not later than 18 months after January 4, 2011, the Secretary shall report to Congress onthe findings of the pilot projects under this subsection together with recommendations for improving the tracking and tracing of food.
 
 #### (b) Additional data gathering
 
@@ -122,7 +122,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (5) Retention of records
 
-&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or lossof palatability of the applicable food when determining the appropriate timeframes.
+&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or loss of palatability of the applicable food when determining the appropriate timeframes.
 
 #### (6) Limitations
 
@@ -154,7 +154,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;&emsp;(I) the term "commingled raw agricultural commodity" means any commodity that is combined or mixed after harvesting, but before processing;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
+&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not includetypes of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the term "processing" means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
 
@@ -210,7 +210,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;(B) presents a threat of serious adverse health consequences or death to humans or animals; and
 
-&emsp;&emsp;(C) was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter <sup>3</sup> 21, Code of Federal Regulations (or any successor regulation)).
+&emsp;&emsp;(C) was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter <sup>3</sup> 21, Code ofFederal Regulations (or any successor regulation)).
 
 #### (2) Manner of request
 

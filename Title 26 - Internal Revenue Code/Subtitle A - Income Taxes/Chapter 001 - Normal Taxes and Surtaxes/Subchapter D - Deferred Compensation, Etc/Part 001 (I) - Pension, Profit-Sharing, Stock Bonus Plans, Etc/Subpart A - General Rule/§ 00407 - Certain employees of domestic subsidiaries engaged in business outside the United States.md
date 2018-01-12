@@ -52,7 +52,7 @@ For purposes of applying section 404 with respect to contributions made to or un
 
 &emsp;(1) except as provided in paragraph (2), no deduction shall be allowed to such domestic parent corporation or to any other corporation which is entitled to deduct its contributions under such sections,
 
-&emsp;(2) there shall be allowed as a deduction to the domestic subsidiary of which such individual is an employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the domestic parent corporation if he were an employee of the domestic parent corporation, and
+&emsp;(2) there shall be allowed as a deduction to the domestic subsidiary of which such individual is an employee an amount equal to theamount which (but for paragraph (1)) would be deductible under section 404 by the domestic parent corporation if he were an employee of the domestic parent corporation, and
 
 &emsp;(3) any reference to compensation shall be considered to be a reference to the total compensation of such individual (determined with the application of subsection (b)(2)).
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreementsratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1114(b)(9)(B), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 

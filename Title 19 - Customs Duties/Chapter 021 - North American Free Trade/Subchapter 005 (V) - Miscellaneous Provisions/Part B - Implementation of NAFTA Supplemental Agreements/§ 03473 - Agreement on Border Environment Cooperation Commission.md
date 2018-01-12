@@ -12,7 +12,7 @@
 
 #### (b) Civil actions involving Commission
 
-For the purpose of any civil action which may be brought within the United States by or against the Border Environment Cooperation Commission in accordance with the Border Environment Cooperation Agreement (including an action brought to enforce an arbitral award against the Commission), the Commission shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States, or its agent appointed for the purpose of accepting service or notice of service, is located. Any such action to which the Commission is a party shall be deemed to ariseunder the laws of the United States, and the district courts of the United States (including the courts enumerated in section 460 of title 28) shall have original jurisdiction of any such action. When the Commission is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
+For the purpose of any civil action which may be brought within the United States by or against the Border Environment Cooperation Commission in accordance with the Border Environment Cooperation Agreement (including an action brought to enforce an arbitral award against the Commission), the Commission shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States, or its agent appointed for the purpose of accepting service or notice of service, is located. Any such action to which the Commission is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States (including the courts enumerated in section 460 of title 28) shall have original jurisdiction of any such action. When the Commission is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
 
 #### (c) Definitions
 
@@ -56,7 +56,7 @@ Sec. 7. (a) There is hereby established a Community Adjustment and Investment Pr
 
 (c) The Department of the Treasury representative shall serve as Chair of the Finance Committee. The Chair shall be responsible for presiding over the meetings of the Finance Committee, ensuring that the views of all other members are taken into account, coordinating with other appropriate United States Government agencies in carrying out the community adjustment and investment program, and requesting meetings of the Advisory Committee pursuant to section 543(b)(4)(C) of the NAFTA Implementation Act.
 
-Sec. 8. Any advice or conclusions of reviews provided to the President by the Advisory Committee pursuant to section 543(b)(3) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(b)(3)\] shall be provided through the Finance Committee.
+Sec. 8. Any advice or conclusions of reviews provided to the President by the Advisory Committee pursuantto section 543(b)(3) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(b)(3)\] shall be provided through the Finance Committee.
 
 Sec. 9. Any summaries of public comments or conclusions of investigations and audits provided to the President by the ombudsman pursuant to section 543(c)(1) of the NAFTA Implementation Act shall be provided through the Finance Committee.
 
@@ -66,5 +66,9 @@ Sec. 11. This order is intended only to improve the internal management of the e
 
 #### Extension of Term of Good Neighbor Environmental Board
 
-Term of the Good Neighbor Environmental Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Good Neighbor Environmental Board extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of Good Neighbor Environmental Board was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

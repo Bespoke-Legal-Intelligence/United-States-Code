@@ -12,7 +12,7 @@ In addition to any other funds or authorities otherwise made available under thi
 
 The rate of a loan under this section shall be equal to the average tax-exempt municipal bond rate of similar maturities.
 
-(May 20, 1936, ch. 432, title III, §317, as added Pub. L. 110–234, title VI, §6108, May 22, 2008, 122 Stat. 1198, and Pub. L. 110–246, §4(a), title VI, §6108, June 18, 2008, 122 Stat. 1664, 1959.)
+(May 20, 1936, ch. 432, title III, §317, as added Pub. L. 110–234, title VI, §6108, May 22, 2008, 122Stat. 1198, and Pub. L. 110–246, §4(a), title VI, §6108, June 18, 2008, 122 Stat. 1664, 1959.)
 
 #### Codification
 

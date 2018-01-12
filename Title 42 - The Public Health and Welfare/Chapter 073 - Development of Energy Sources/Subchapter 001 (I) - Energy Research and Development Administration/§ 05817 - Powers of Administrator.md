@@ -82,5 +82,5 @@ Sec. 502. For the purposes of this title, the term 'exempt shipments of plutoniu
 
 &emsp;"(2) Plutonium shipments which pursuant to rules promulgated by the Administrator of the Energy Research and Development Administration are determined to be made for purposes of national security, public health and safety, or emergency maintenance operations.
 
-&emsp;"(3) Shipments of small amounts of plutonium deemed by the Administrator of the Energy Researchand Development Administration to require rapid shipment by air in order to preserve the chemical, physical, or isotopic properties of the transported item or material."
+&emsp;"(3) Shipments of small amounts of plutonium deemed by the Administrator of the Energy Research and Development Administration to require rapid shipment by air in order to preserve the chemical, physical, or isotopic properties of the transported item or material."
 

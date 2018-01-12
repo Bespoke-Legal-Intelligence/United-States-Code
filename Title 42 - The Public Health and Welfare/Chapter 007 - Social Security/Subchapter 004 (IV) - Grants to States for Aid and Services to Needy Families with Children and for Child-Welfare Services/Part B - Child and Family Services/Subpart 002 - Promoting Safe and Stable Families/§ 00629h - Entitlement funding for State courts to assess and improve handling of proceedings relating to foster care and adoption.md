@@ -34,7 +34,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 &emsp;(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
 
-&emsp;(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.
+&emsp;(B) to increase and improve engagement of the entire family in court processes relatingto child welfare, family preservation, family reunification, and adoption.
 
 #### (b) Applications
 
@@ -190,7 +190,7 @@ Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000,
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–34, title I, §104(e), Sept. 30, 2011, 125 Stat. 376, provided that the amendment by section 104(e) of Pub. L. 112–34 is effective as if included in the enactment of Pub. L. 109–239.
+Pub. L. 112–34, title I, §104(e), Sept. 30, 2011, 125 Stat. 376, provided that the amendment by section 104(e) ofPub. L. 112–34 is effective as if included in the enactment of Pub. L. 109–239.
 
 Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 

@@ -1,0 +1,6 @@
+### §10603c. Transferred
+
+#### Codification
+
+Section 10603c was editorially reclassified as section 20106 of Title 34, Crime Control and Law Enforcement.
+

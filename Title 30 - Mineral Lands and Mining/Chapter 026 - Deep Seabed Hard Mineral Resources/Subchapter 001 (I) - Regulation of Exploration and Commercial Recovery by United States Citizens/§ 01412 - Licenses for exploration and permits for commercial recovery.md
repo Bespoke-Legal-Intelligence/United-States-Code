@@ -18,7 +18,7 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 (1) The Administrator may not issue—
 
-&emsp;(A) any license or permit after the date on which an international agreement is ratified by and enters into force with respect to the United States, except to the extent that issuance of such license or permit is not inconsistent with such agreement;
+&emsp;(A) any license or permit after the date on which an international agreement is ratifiedby and enters into force with respect to the United States, except to the extent that issuance of such license or permit is not inconsistent with such agreement;
 
 &emsp;(B) any license or permit the exploration plan or recovery plan of which, submitted pursuant to section 1413(a)(2) of this title, would apply to an area to which applies, or would conflict with, (i) any exploration plan or recovery plan submitted with any pending application to which priority of right for issuance applies under section 1413(b) of this title, (ii) any exploration plan or recovery plan associated with any existing license or permit, or (iii) any equivalent authorization which has been issued, or for which formal notice of application has been submitted, by a reciprocating state prior to the filing date of any relevant application for licenses or permits pursuant to this subchapter;
 

@@ -44,7 +44,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 &emsp;&emsp;(ii) Descriptions of the accessibility features of its products and services.
 
-&emsp;&emsp;(iii) Information about the compatibility of such products and services with peripheral devices or specialized customer premiseequipment commonly used by individuals with disabilities to achieve access.
+&emsp;&emsp;(iii) Information about the compatibility of such products and services with peripheral devices or specialized customer premise equipment commonly used by individuals with disabilities to achieve access.
 
 &emsp;(B) An officer of a manufacturer or provider shall submit to the Commission an annual certification that records are being kept in accordance with subparagraph (A).
 
@@ -110,7 +110,7 @@ Within one year after October 8, 2010, the Commission shall, in consultation wit
 
 #### (e) Outreach and education
 
-Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the publicabout the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
+Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the public about the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
 
 (June 19, 1934, ch. 652, title VII, §717, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124 Stat. 2758; amended Pub. L. 111–265, §2(3), Oct. 8, 2010, 124 Stat. 2795.)
 

@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the adjusted monthly premium for such month for the applicable second lowest cost silver plan with respect to the taxpayer, over
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 1/12 of the product of the applicable percentage and thetaxpayer's household income for the taxable year.
+&emsp;&emsp;&emsp;(ii) an amount equal to 1/12 of the product of the applicable percentage and the taxpayer's household income for the taxable year.
 
 #### (3) Other terms and rules relating to premium assistance amounts
 
@@ -67,7 +67,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) self-only coverage in the case of an applicable taxpayer—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) whose tax for the taxable year is determined under section 1(c) (relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section 151 for the taxable year with respect to a dependent, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) whose tax for the taxable year is determined under section 1(c) <sup>2</sup> (relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section 151 for the taxable year with respect to a dependent, or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) who is not described in item (aa) but who purchases only self-only coverage, and
 
@@ -77,7 +77,7 @@ For purposes of this section—
 
 #### (C) Adjusted monthly premium
 
-&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
+&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration projectunder section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
 
 #### (D) Additional benefits
 
@@ -87,7 +87,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,
 
-> &emsp;&emsp;the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining eitherthe monthly premium or the adjusted monthly premium under paragraph (2).
+> &emsp;&emsp;the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2).
 
 #### (E) Special rule for pediatric dental coverage
 
@@ -153,7 +153,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) consists of an eligible employer-sponsored plan (as defined in section 5000A(f)(2)), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the employee's required contribution (within the meaning of section 5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.
+&emsp;&emsp;&emsp;&emsp;(II) the employee's required contribution (within the meaning of section 5000A(e)(1)(B)) with respect to the planexceeds 9.5 percent of the applicable taxpayer's household income.
 
 &emsp;&emsp;&nbsp;This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee.
 
@@ -163,7 +163,7 @@ For purposes of this section—
 
 #### (iii) Employee or family must not be covered under employer plan
 
-&emsp;&emsp;&emsp;Clauses (i) and (ii) shall not apply if the employee (or any individual described inthe last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.
+&emsp;&emsp;&emsp;Clauses (i) and (ii) shall not apply if the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.
 
 #### (iv) Indexing
 
@@ -253,7 +253,7 @@ For purposes of this section—
 
 #### (B) Poverty line used
 
-&emsp;&emsp;In the case of any qualified health plan offered through an Exchange for coverage during a taxable year beginning in a calendaryear, the poverty line used shall be the most recently published poverty line as of the 1st day of the regular enrollment period for coverage during such calendar year.
+&emsp;&emsp;In the case of any qualified health plan offered through an Exchange for coverage during a taxable year beginning in a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of the regular enrollment period for coverage during such calendar year.
 
 #### (e) Rules for individuals not lawfully present
 
@@ -301,7 +301,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
+&emsp;&emsp;&emsp;In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) <sup>2</sup> for the taxable year):
 
 | If the household income (expressed as a percent of poverty line) is: | The applicable dollar amount is: |
 | :--- | ---: |
@@ -315,7 +315,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 &emsp;&emsp;&nbsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
@@ -343,7 +343,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -353,6 +353,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
+Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
+
 Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 
 Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
@@ -360,6 +362,8 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(2)(B)(ii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2016</b>—Subsec. (c)(4). Pub. L. 114–255 added par. (4).
 
@@ -401,11 +405,15 @@ Subsec. (d)(2)(B). Pub. L. 111–152, §1004(a)(2)(A), amended subpar. (B) gener
 
 &emsp;"(iii) determined without regard to sections 911, 931, and 933."
 
-Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: "In the case of an applicable taxpayer whose household income is lessthan 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year)."
+Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: "In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year)."
 
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2016 Amendment
 

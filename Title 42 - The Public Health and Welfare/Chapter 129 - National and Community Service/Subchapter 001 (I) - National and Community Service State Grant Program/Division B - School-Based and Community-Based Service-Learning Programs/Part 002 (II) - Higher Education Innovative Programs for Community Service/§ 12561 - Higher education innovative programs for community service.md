@@ -6,7 +6,7 @@ It is the purpose of this part to expand participation in community service by s
 
 #### (b) General authority
 
-The Corporation, in consultation with the Secretary of Education, is authorized to make grants to, and enter into contracts with, institutions of higher education (including a consortium of such institutions), and partnerships comprised of such institutions and of other public or private nonprofit organizations, to pay for the Federal share of the cost of—
+The Corporation, in consultation with the Secretary of Education, is authorized to make grants to, and enter into contracts with, institutions of higher education (including a consortium of such institutions), and partnershipscomprised of such institutions and of other public or private nonprofit organizations, to pay for the Federal share of the cost of—
 
 &emsp;(1) enabling such an institution or partnership to create or expand an organized community service program that—
 
@@ -134,7 +134,7 @@ In making grants and entering into contracts under subsection (b), the Corporati
 
 #### (g) Federal work-study
 
-To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 (42 U.S.C. 2753(b)(2)(A)) <sup>1</sup> relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) <sup>1</sup> (relating to Federal Work-Study <sup>2</sup> programs) in community service activities, or has received awaiver of those requirements from the Secretary of Education.
+To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 (42 U.S.C. 2753(b)(2)(A)) <sup>1</sup> relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) <sup>1</sup> (relating to Federal Work-Study <sup>2</sup> programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
 
 #### (h) Definition
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date
 
-Part effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

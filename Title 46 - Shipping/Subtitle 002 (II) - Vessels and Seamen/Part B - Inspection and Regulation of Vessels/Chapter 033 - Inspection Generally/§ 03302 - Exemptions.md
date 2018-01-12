@@ -220,6 +220,10 @@ Subsec. (c). Pub. L. 98–364 amended subsec. (c) generally, which prior to amen
 
 Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except that requirements imposed by subsec. (c)(4)(B) and (C), effective six months after Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -230,7 +234,7 @@ Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided 
 
 #### Exemption of Certain Fishing and Fish Processing Vessels
 
-Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat.68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
+Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
 
 "(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 

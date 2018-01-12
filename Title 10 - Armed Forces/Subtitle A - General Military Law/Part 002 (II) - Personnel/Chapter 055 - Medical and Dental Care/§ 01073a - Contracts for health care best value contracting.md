@@ -20,7 +20,7 @@ Applicability.—The authority under the regulations prescribed under subsection
 
 #### Value-Based Purchasing and Acquisition of Managed Care Support Contracts for TRICARE Program
 
-Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, provided that:
+Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, §715, Dec. 12, 2017, 131 Stat. 1438, provided that:
 
 "(a)
 
@@ -48,7 +48,7 @@ Development.—In developing value-based incentive programs under paragraph (1),
 
 &emsp;&emsp;&emsp;"(ii) consider the characteristics of the population of covered beneficiaries affected by the value-based incentive program;
 
-&emsp;&emsp;&emsp;"(iii) consider how the value-based incentive program would affect the receipt of health care under the TRICARE program by such covered beneficiaries;
+&emsp;&emsp;&emsp;"(iii) consider how the value-based incentive program would affect the receipt of health careunder the TRICARE program by such covered beneficiaries;
 
 &emsp;&emsp;&emsp;"(iv) establish or maintain an assurance that such covered beneficiaries will have timely access to health care during the operation of the value-based incentive program;
 
@@ -70,7 +70,13 @@ Use of existing models.—In developing a value-based incentive program under pa
 
 "(b)
 
-Transfer of Contracting Responsibility.—With respect to the acquisition of any managed care support contracts under the TRICARE program initiated after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall transfer contracting responsibility for the solicitation and award of such contracts from the Defense Health Agency to the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Execution of Contracting Responsibility.—With respect to any acquisition of managed care support services under the TRICARE program initiated after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 \[Dec. 12, 2017\], the Under Secretary of Defense for Acquisition and Sustainment shall be responsible for—
+
+&emsp;"(1) decisions relating to such acquisition;
+
+&emsp;"(2) approving the acquisition strategy; and
+
+&emsp;"(3) conducting pre-solicitation, pre-award, and post-award acquisition reviews.
 
 "(c)
 
@@ -130,7 +136,7 @@ Elements of strategy.—The strategy required by paragraph (1) shall provide for
 
 &emsp;&emsp;"(F) The use of incentives that emphasize prevention and wellness for covered beneficiaries receiving health care services from private sector entities to seek such services from high-value health care providers.
 
-&emsp;&emsp;"(G) The adoption of a streamlined process for enrollment of covered beneficiaries to receive healthcare and timely assignment of primary care managers to covered beneficiaries.
+&emsp;&emsp;"(G) The adoption of a streamlined process for enrollment of covered beneficiaries to receive health care and timely assignment of primary care managers to covered beneficiaries.
 
 &emsp;&emsp;"(H) The elimination of the requirement for a referral to be authorized prior receiving specialty care services at a facility of the Department of Defense or through the TRICARE program.
 
@@ -156,7 +162,7 @@ Rural, remote, and isolated areas.—In developing and implementing the strategy
 
 &emsp;&emsp;"(D) ensure that managed care support contracts under the TRICARE program in those locations will—
 
-&emsp;&emsp;&emsp;"(i) establish individual and institutional provider networks that will provide timely access to care for covered beneficiaries, including pursuant to such networks relating to an Indian tribe or tribal organization that is party to the Alaska Native Health Compact with the Indian Health Service or has entered into a contract with the Indian Health Service to provide health care in rural Alaska or other locations in the United States; and
+&emsp;&emsp;&emsp;"(i) establish individual and institutional provider networks that will provide timely access tocare for covered beneficiaries, including pursuant to such networks relating to an Indian tribe or tribal organization that is party to the Alaska Native Health Compact with the Indian Health Service or has entered into a contract with the Indian Health Service to provide health care in rural Alaska or other locations in the United States; and
 
 &emsp;&emsp;&emsp;"(ii) deliver high-quality care, better health outcomes, and a better experience of care for covered beneficiaries.
 

@@ -113,6 +113,7 @@
 | [182b.](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md) | Revolving fund for gift shop, decimal classification, photo duplication, and related services. |
 | [182c.](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md) | Revolving fund for FEDLINK program and Federal Research program. |
 | [182d.](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md) | Audits by Comptroller General. |
+| [182e.](%C2%A7%2000182e%20-%20Library%20of%20Congress%20National%20Collection%20Stewardship%20Fund.md) | Library of Congress National Collection Stewardship Fund. |
 | [183\.](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md) | Written history of the House of Representatives. |
 | [183a.](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md) | Oral history of the House of Representatives. |
 | [184\.](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md) | Incorporation of digital collections into educational curricula. |
@@ -238,6 +239,7 @@
 - [&sect; 00182b - Revolving fund for gift shop, decimal classification, photo duplication, and related services](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md)
 - [&sect; 00182c - Revolving fund for FEDLINK program and Federal Research program](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md)
 - [&sect; 00182d - Audits by Comptroller General](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md)
+- [&sect; 00182e - Library of Congress National Collection Stewardship Fund](%C2%A7%2000182e%20-%20Library%20of%20Congress%20National%20Collection%20Stewardship%20Fund.md)
 - [&sect; 00183 - Written history of the House of Representatives](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00183a - Oral history of the House of Representatives](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00184 - Incorporation of digital collections into educational curricula](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md)

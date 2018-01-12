@@ -20,7 +20,7 @@ For the purposes of this chapter:
 
 > &emsp;which written affirmation, promise, or undertaking becomes part of the basis of the bargain between a supplier and a buyer for purposes other than resale of such product.
 
-&emsp;(7) The term "implied warranty" means an implied warranty arising under State law (as modified by sections 2308 and 2304(a) of thistitle) in connection with the sale by a supplier of a consumer product.
+&emsp;(7) The term "implied warranty" means an implied warranty arising under State law (as modified by sections 2308 and 2304(a) of this title) in connection with the sale by a supplier of a consumer product.
 
 &emsp;(8) The term "service contract" means a contract in writing to perform, over a fixed period of time or for a specified duration, services relating to the maintenance or repair (or both) of a consumer product.
 

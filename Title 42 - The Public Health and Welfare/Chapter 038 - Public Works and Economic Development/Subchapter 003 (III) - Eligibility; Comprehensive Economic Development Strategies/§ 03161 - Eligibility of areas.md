@@ -18,13 +18,13 @@ For a project to be eligible for assistance under section 3141 or 3149 of this t
 
 #### (b) Political boundaries of areas
 
-An area that meets 1 or more of the criteria of subsection (a) of this section, including a small area of poverty or high unemployment within a larger community in less economic distress, shall be eligible for assistance under section 3141 or 3149 of this title without regard to political or other subdivisions or boundaries.
+An area that meets 1 or more of the criteria of subsection (a), including a small area of poverty or high unemployment within a larger community in less economic distress, shall be eligible for assistance under section 3141 or 3149 of this title without regard to political or other subdivisions or boundaries.
 
 #### (c) Documentation
 
 #### (1) In general
 
-&emsp;A determination of eligibility under subsection (a) of this section shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
+&emsp;A determination of eligibility under subsection (a) shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
 
 #### (2) Acceptance by Secretary
 
@@ -34,7 +34,7 @@ An area that meets 1 or more of the criteria of subsection (a) of this section, 
 
 Any designation of a redevelopment area made before the effective date of the Economic Development Administration Reform Act of 1998 shall not be effective after that effective date.
 
-(Pub. L. 89–136, title III, §301, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3607; amended Pub. L. 108–373, title III, §301, Oct. 27, 2004, 118 Stat. 1767.)
+(Pub. L. 89–136, title III, §301, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat.3607; amended Pub. L. 108–373, title III, §301, Oct. 27, 2004, 118 Stat. 1767.)
 
 #### References in Text
 
@@ -49,4 +49,8 @@ A prior section 301 of Pub. L. 89–136 was classified to section 3151 of this t
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–373 inserted "(including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate)" after "most recent Federal data available".
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

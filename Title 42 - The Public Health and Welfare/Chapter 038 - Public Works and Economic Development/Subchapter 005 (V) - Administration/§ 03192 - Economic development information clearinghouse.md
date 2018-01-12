@@ -32,3 +32,7 @@ Par. (2). Pub. L. 108–373, §501(2), added par. (2) and struck out former par.
 
 Par. (4). Pub. L. 108–373, §501(3), (4), added par. (4).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

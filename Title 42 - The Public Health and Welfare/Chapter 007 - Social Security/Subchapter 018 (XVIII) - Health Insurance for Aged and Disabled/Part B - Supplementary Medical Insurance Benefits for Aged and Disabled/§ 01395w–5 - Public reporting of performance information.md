@@ -52,7 +52,7 @@ The Secretary shall take into consideration input provided by multi-stakeholder 
 
 #### (e) Consideration of transition to value-based purchasing
 
-In developing the plan under this <sup>2</sup> subsection (a)(2), the Secretary shall, as the Secretary determines appropriate, consider the plan to transition to a value-based purchasing program for physicians and other practitioners developed under section 131 of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110–275).
+In developing the plan under this <sup>2</sup> subsection (a)(2), the Secretary shall, as the Secretary determines appropriate, consider the plan to transition to a value-based purchasing program for physicians and other practitioners developed under section 131 of the Medicare Improvementsfor Patients and Providers Act of 2008 (Public Law 110–275).
 
 #### (f) Report to Congress
 
@@ -90,7 +90,7 @@ In this section:
 
 #### References in Text
 
-Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section1395aaa–1 of this title and amended section 1395aaa of this title.
+Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section 1395aaa–1 of this title and amended section 1395aaa of this title.
 
 Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, which amended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of this title, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
 

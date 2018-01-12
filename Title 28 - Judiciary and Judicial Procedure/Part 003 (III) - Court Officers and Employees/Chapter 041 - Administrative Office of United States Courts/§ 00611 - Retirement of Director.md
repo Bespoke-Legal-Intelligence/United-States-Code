@@ -16,7 +16,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" infirst par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
+<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" in first par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
 
 Subsec. (c). Pub. L. 106–518, §301(a)(3), substituted "at least fifteen years of service," for "served at least fifteen years," and "less than fifteen years of service," for "served less than fifteen years,".
 
@@ -36,7 +36,7 @@ Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided t
 
 Pub. L. 90–219, title II, §205, Dec. 20, 1967, 81 Stat. 669, provided that:
 
-"(a) Except as provided in subsection (b), the amendments made by this title \[enacting this section and amending sections 376 and 604 of this title\], insofar as they relate to retirement and survivorship benefits of the Director of the Administrative Office of the United States Courts, shall be applicable only with respect to persons first appointed to such office after the date of enactment of this Act \[Dec. 20, 1967\].
+"(a) Except as provided in subsection (b), the amendments made by this title \[enacting this section and amending sections 376 and 604 of this title\], insofar asthey relate to retirement and survivorship benefits of the Director of the Administrative Office of the United States Courts, shall be applicable only with respect to persons first appointed to such office after the date of enactment of this Act \[Dec. 20, 1967\].
 
 "(b) The provisions of section 611(a), the first paragraph of section 611(b), and section 376(s), of title 28, United States Code, as added by such amendments, shall be applicable to a Director or former Director of the Administrative Office of the United States Courts who was first appointed prior to the date of enactment of this Act \[Dec. 20, 1967\] if at the time such Director or former Director left or leaves such office he had, or shall have, attained the age of sixty-five years and completed fifteen years of service as Director of the Administrative Office of the United States Courts and if, on or before the expiration of six months following the date of enactment of this Act \[Dec. 20, 1967\], he makes the election referred to in section 611(a) or section 376(s), or both, as the case may be."
 

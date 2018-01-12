@@ -12,7 +12,7 @@ In any administrative or court proceeding which is brought by or against the Uni
 
 #### (1) Requirement that administrative remedies be exhausted
 
-&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
+&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) inany court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
 
 #### (2) Only costs allocable to the United States
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 per hour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
 
-> &emsp;In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting "calendar year 1995" for "calendar year 1992" in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+> &emsp;In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting "calendar year 1995" for "calendar year 2016" in subparagraph (A)(ii) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
 #### (2) Reasonable administrative costs
 
@@ -226,7 +226,7 @@ For purposes of subsection (c)(4)—
 
 &emsp;&emsp;(B) ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, §11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -238,6 +238,8 @@ A prior section 7430 was renumbered section 7437 of this title.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)" in concluding provisions.
+
 <b>2000</b>—Subsec. (c)(3). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(A)\], substituted "Attorneys' " for "Attorneys" in heading.
 
 Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(B)\], substituted "attorneys' fees" for "attorneys fees" wherever appearing.
@@ -248,7 +250,7 @@ Subsec. (c)(1)(B)(iii). Pub. L. 105–206, §3101(a), substituted "$125" for "$1
 
 Subsec. (c)(2). Pub. L. 105–206, §3101(b), added concluding provisions and struck out former concluding provisions which read as follows: "Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency."
 
-Subsec. (c)(3). Pub. L. 105–206, §3101(c), substituted "attorneys" for "attorney's" in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: "For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney."
+Subsec. (c)(3). Pub. L. 105–206, §3101(c), substituted "attorneys" for "attorney's" in heading and amended text of par. (3) generally. Prior to amendment, textread as follows: "For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney."
 
 Subsec. (c)(4)(B)(iii), (iv). Pub. L. 105–206, §3101(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
@@ -326,6 +328,10 @@ Subsec. (f). Pub. L. 99–514, §1551(g), struck out subsec. (f), termination, w
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3101(g), July 22, 1998, 112 Stat. 729, provided that: "The amendments made by this section \[amending this section and section 7431 of this title\] shall apply to costs incurred (and, in the case of the amendment made by subsection (c) \[amending this section\], services performed) more than 180 days after the date of the enactment of this Act \[July 22, 1998\]."
@@ -340,7 +346,7 @@ Pub. L. 105–34, title XIV, §1453(b), Aug. 5, 1997, 111 Stat. 1055, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 Pub. L. 104–168, title VII, §702(b), July 30, 1996, 110 Stat. 1464, provided that: "The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\]."
 

@@ -192,7 +192,7 @@ For purposes of this section:
 
 #### (3) Biennial report
 
-&emsp;Not later than 180 days after November 27, 2013, the Director of the National Institutes ofHealth shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations in the House of Representatives a report, to be updated biennially, regarding—
+&emsp;Not later than 180 days after November 27, 2013, the Director of the National Institutes of Health shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations in the House of Representatives a report, to be updated biennially, regarding—
 
 &emsp;&emsp;(A) the care, maintenance, and transportation of the chimpanzees under the ownership or control of the National Institutes of Health;
 

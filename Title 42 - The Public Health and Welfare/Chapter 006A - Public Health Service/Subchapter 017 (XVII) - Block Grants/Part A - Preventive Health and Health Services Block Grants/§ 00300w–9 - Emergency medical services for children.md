@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 105–392, §415(2), substituted "2005" for "1997".
 
 Subsec. (d). Pub. L. 102–410, §11(2), substituted "$5,000,000" for "and $5,000,000" and inserted before period ", and such sums as may be necessary for each of the fiscal years 1993 through 1997".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–590, §5(1)(A), which directed the substitution of "grants" for "not more thatfour grants in any fiscal year" could not be executed because the language to be stricken did not appear in text.
+<b>1990</b>—Subsec. (a). Pub. L. 101–590, §5(1)(A), which directed the substitution of "grants" for "not more that four grants in any fiscal year" could not be executed because the language to be stricken did not appear in text.
 
 Pub. L. 101–590, §5(1)(B), struck out "in such States" after "demonstration projects" in first sentence.
 

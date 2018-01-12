@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(b) "geothermal lease" means a lease issued under authority of this chapter;
 
-&emsp;(c) "geothermal resources" means (i) all products of geothermal processes, embracing indigenous steam, hot water and hot brines; (ii) steam and other gases, hot water and hot brines resulting from water, gas, or other fluids artificially introduced into geothermal formations; (iii) heat or other associated energy found in geothermal formations; and (iv) any byproduct derived from them;
+&emsp;(c) "geothermal resources" means (i) all products of geothermal processes, embracing indigenous steam, hot water and hot brines; (ii) steam and other gases, hot water and hot brines resulting from water, gas, or otherfluids artificially introduced into geothermal formations; (iii) heat or other associated energy found in geothermal formations; and (iv) any byproduct derived from them;
 
 &emsp;(d) "byproduct" means any mineral or minerals (exclusive of oil, hydrocarbon gas, and helium) which are found in solution or in association with geothermal steam and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
 
@@ -22,7 +22,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(4) Thermal features within units of the National Park System added to the significant thermal features list pursuant to section 1026(a)(2) of this title.
 
-&emsp;(g) "direct use" means utilization of geothermal resources for commercial, residential, agricultural, public facilities, or other energyneeds other than the commercial production of electricity; and <sup>2</sup>
+&emsp;(g) "direct use" means utilization of geothermal resources for commercial, residential, agricultural, public facilities, or other energy needs other than the commercial production of electricity; and <sup>2</sup>
 
 (Pub. L. 91–581, §2, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 100–443, §2(a), Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, §236(1), (2), (5), Aug. 8, 2005, 119 Stat. 671.)
 

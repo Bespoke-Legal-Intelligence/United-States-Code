@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b)—
 
-&emsp;(1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, andhealth insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and
+&emsp;(1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, and health insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and
 
 &emsp;(2) to the extent that any provision of this subchapter conflicts with a provision of such part A with respect to group health plans, or health insurance issuers providing health insurance coverage in connection with group health plans, the provisions of such part A shall apply.
 

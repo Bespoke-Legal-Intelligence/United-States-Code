@@ -34,7 +34,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) is engaged in the practice of recommending, promoting, or endorsing education loans for students attending such covered institution or the families of such students;
 
-&emsp;&emsp;(B) may include an alumni organization, athletic organization, foundation, or social,academic, or professional organization, of a covered institution; and
+&emsp;&emsp;(B) may include an alumni organization, athletic organization, foundation, or social, academic, or professional organization, of a covered institution; and
 
 &emsp;&emsp;(C) notwithstanding subparagraphs (A) and (B), does not include any lender with respect to any education loan secured, made, or extended by such lender.
 

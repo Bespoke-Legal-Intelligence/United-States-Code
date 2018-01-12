@@ -1,6 +1,6 @@
 ### §5313. Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony
 
-(a)(1) To the extent provided in subsection (d) of this section, any person who is entitled to compensation or to dependency and indemnity compensation and who is incarcerated in a Federal, State, local, or other penal institution or correctional facility for a period in excess of sixty days for conviction of a felony shall not be paid such compensation or dependency and indemnity compensation, for the period beginning on the sixty-first day of such incarceration and ending on the day such incarceration ends, in an amount that exceeds—
+(a)(1) To the extent provided in subsection (d) of this section, any person who is entitled to compensation or to dependency and indemnity compensation and who is incarcerated in a Federal, State, local, or other penal institution or correctional facility for a period in excess of sixty days for conviction of a felony shall not be paid such compensation or dependency and indemnity compensation, for the period beginning on the sixty-first day of such incarceration andending on the day such incarceration ends, in an amount that exceeds—
 
 &emsp;(A) in the case of a veteran with a service-connected disability rated at 20 percent or more, the rate of compensation payable under section 1114(a) of this title; or
 
@@ -10,7 +10,7 @@
 
 (b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms and conditions as are provided under section 5307 of this title.
 
-(2) All or any part of the dependency and indemnity compensation not paid to a surviving spouse or child by reason of subsection (a) ofthis section may, as appropriate in an individual case, be apportioned as follows:
+(2) All or any part of the dependency and indemnity compensation not paid to a surviving spouse or child by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned as follows:
 
 &emsp;(A) In the case of dependency and indemnity compensation not paid to a surviving spouse, any apportionment shall be to the surviving child or children.
 

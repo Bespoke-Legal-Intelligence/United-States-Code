@@ -22,13 +22,13 @@ Nothing in this section shall be construed to affect any civil action brought by
 
 #### (c) No effect on liability of organization or entity
 
-Nothing in this section shall be construed to affect the liability of any nonprofit organization or governmental entity with respect to harm caused to any person.
+Nothing in this section shall be construed to affect the liability of any nonprofit organizationor governmental entity with respect to harm caused to any person.
 
 #### (d) Exceptions to volunteer liability protection
 
 If the laws of a State limit volunteer liability subject to one or more of the following conditions, such conditions shall not be construed as inconsistent with this section:
 
-&emsp;(1) A State law that requires a nonprofit organization or governmental entity to adhereto risk management procedures, including mandatory training of volunteers.
+&emsp;(1) A State law that requires a nonprofit organization or governmental entity to adhere to risk management procedures, including mandatory training of volunteers.
 
 &emsp;(2) A State law that makes the organization or entity liable for the acts or omissions of its volunteers to the same extent as an employer is liable for the acts or omissions of its employees.
 
@@ -54,7 +54,7 @@ If the laws of a State limit volunteer liability subject to one or more of the f
 
 &emsp;&emsp;(A) constitutes a crime of violence (as that term is defined in section 16 of title 18) or act of international terrorism (as that term is defined in section 2331 of title 18) for which the defendant has been convicted in any court;
 
-&emsp;&emsp;(B) constitutes a hate crime (as that term is used in the Hate Crime Statistics Act (28 U.S.C. 534 note));
+&emsp;&emsp;(B) constitutes a hate crime (as that term is used in the Hate Crime Statistics Act (28 U.S.C. 534 note)); <sup>1</sup>
 
 &emsp;&emsp;(C) involves a sexual offense, as defined by applicable State law, for which the defendant has been convicted in any court;
 
@@ -70,5 +70,7 @@ If the laws of a State limit volunteer liability subject to one or more of the f
 
 #### References in Text
 
-The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification as section 41305 of Title 34, Crime Control and Law Enforcement, and as provisions set out as a note under section 41305 of Title 34.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

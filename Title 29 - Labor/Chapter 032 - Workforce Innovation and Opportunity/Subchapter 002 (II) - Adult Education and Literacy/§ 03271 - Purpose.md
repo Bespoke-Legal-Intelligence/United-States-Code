@@ -30,7 +30,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### Short Title
 
-For short title of this subchapter as the "Adult Education and Family Literacy Act", see section 201 ofPub. L. 113–128, set out as a note under section 3101 of this title.
+For short title of this subchapter as the "Adult Education and Family Literacy Act", see section 201 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 #### Ex. Ord. No. 13445. Strengthening Adult Education
 
@@ -62,7 +62,7 @@ Sec. 4. <i>Membership and Operation of the Working Group</i>.
 
 (ii) the Secretary of the Treasury, the Attorney General, and the Secretaries of the Interior, Labor, Health and Human Services, Housing and Urban Development, and Veterans Affairs; and
 
-(iii) other officers or full-time or permanent part-time employees of the United States, as determined by the Chair, with the concurrence of the head of the agency concerned.
+(iii) other officers or full-time or permanent part-time employees of the United States, as determined bythe Chair, with the concurrence of the head of the agency concerned.
 
 (b) The Chair, or the Chair's designee under subsection (c) of this section, in implementing section 5 of this order, shall convene and preside at the meetings of the Working Group, determine its agenda, direct its work, and establish and direct subgroups of the Working Group, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Working Group or their designees under subsection (c) of this section.
 

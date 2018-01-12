@@ -70,13 +70,13 @@ In this section:
 
 #### (3) Coast Guard
 
-&emsp;Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways and coastal security mission.
+&emsp;Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be divertedfrom non-homeland security missions to the ports, waterways and coastal security mission.
 
 (Pub. L. 107–296, title III, §307, Nov. 25, 2002, 116 Stat. 2168; Pub. L. 114–22, title III, §302(d), May 29, 2015, 129 Stat. 255.)
 
 #### References in Text
 
-Section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(6), is section 1101 of Pub. L. 105–261,which was formerly set out as a note under section 3104 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 114–328, div. A, title XI, §1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 1599h of Title 10, Armed Forces.
+Section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(6), is section 1101 of Pub. L. 105–261, which was formerly set out as a note under section 3104 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 114–328, div. A, title XI, §1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 1599h of Title 10, Armed Forces.
 
 #### Amendments
 

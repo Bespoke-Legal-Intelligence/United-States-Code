@@ -2,10 +2,15 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [251\.](%C2%A7%2000251%20-%20Federal%20aid%20for%20State%20governments.md) | Federal aid for State governments. |
-| [252\.](%C2%A7%2000252%20-%20Use%20of%20militia%20and%20armed%20forces%20to%20enforce%20Federal%20authority.md) | Use of militia and armed forces to enforce Federal authority. |
-| [253\.](%C2%A7%2000253%20-%20Interference%20with%20State%20and%20Federal%20law.md) | Interference with State and Federal law. |
-| [254\.](%C2%A7%2000254%20-%20Proclamation%20to%20disperse.md) | Proclamation to disperse. |
+| 251\.<sup>1</sup> | Federal aid for State governments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 252\.<sup>1</sup> | Use of militia and armed forces to enforce Federal authority. |
+| 253\.<sup>1</sup> | Interference with State and Federal law. |
+| 254\.<sup>1</sup> | Proclamation to disperse. |
 | [255\.](%C2%A7%2000255%20-%20Guam%20and%20Virgin%20Islands%20included%20as%20State.md) | Guam and Virgin Islands included as "State". |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,13 +29,15 @@ A prior chapter 13, consisting of sections 311 and 312, was renumbered chapter 1
 
 <b>1980</b>—Pub. L. 96–513, title V, §511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
 
+<i><sup>1</sup></i><i> Items numbered 251 to 254 also appear in the analysis for chapter 9A of this title.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00251 - Federal aid for State governments](%C2%A7%2000251%20-%20Federal%20aid%20for%20State%20governments.md)
-- [&sect; 00252 - Use of militia and armed forces to enforce Federal authority](%C2%A7%2000252%20-%20Use%20of%20militia%20and%20armed%20forces%20to%20enforce%20Federal%20authority.md)
-- [&sect; 00253 - Interference with State and Federal law](%C2%A7%2000253%20-%20Interference%20with%20State%20and%20Federal%20law.md)
-- [&sect; 00254 - Proclamation to disperse](%C2%A7%2000254%20-%20Proclamation%20to%20disperse.md)
+- [&sect; 00251 - 1 Federal aid for State governments](%C2%A7%2000251%20-%201%20Federal%20aid%20for%20State%20governments.md)
+- [&sect; 00252 - 1 Use of militia and armed forces to enforce Federal authority](%C2%A7%2000252%20-%201%20Use%20of%20militia%20and%20armed%20forces%20to%20enforce%20Federal%20authority.md)
+- [&sect; 00253 - 1 Interference with State and Federal law](%C2%A7%2000253%20-%201%20Interference%20with%20State%20and%20Federal%20law.md)
+- [&sect; 00254 - 1 Proclamation to disperse](%C2%A7%2000254%20-%201%20Proclamation%20to%20disperse.md)
 - [&sect; 00255 - Guam and Virgin Islands included as State](%C2%A7%2000255%20-%20Guam%20and%20Virgin%20Islands%20included%20as%20State.md)

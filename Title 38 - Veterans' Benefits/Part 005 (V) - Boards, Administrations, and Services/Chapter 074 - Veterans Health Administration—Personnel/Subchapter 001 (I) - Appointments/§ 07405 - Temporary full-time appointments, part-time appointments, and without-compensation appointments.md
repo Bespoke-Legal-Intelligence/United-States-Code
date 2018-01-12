@@ -1,6 +1,6 @@
 ### §7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
 
-(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ,without regard to civil service or classification laws, rules, or regulations, personnel as follows:
+(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ, without regard to civil service or classification laws, rules, or regulations, personnel as follows:
 
 &emsp;(1) On a temporary full-time basis, part-time basis, or without compensation basis, persons in the following positions:
 
@@ -74,7 +74,7 @@
 
 &emsp;(C) nurses who are not citizens of the United States and appointed under section 7407(a) of this title.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, §204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §301(c), Dec. 6, 2003, 117 Stat. 2057; Pub. L. 111–163, title VI, §601(c), May 5, 2010, 124 Stat. 1168.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L.106–419, title II, §204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §301(c), Dec. 6, 2003, 117 Stat. 2057; Pub. L. 111–163, title VI, §601(c), May 5, 2010, 124 Stat. 1168.)
 
 #### Prior Provisions
 

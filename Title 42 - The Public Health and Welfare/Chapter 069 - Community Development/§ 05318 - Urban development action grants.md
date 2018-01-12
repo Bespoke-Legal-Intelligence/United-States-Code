@@ -20,17 +20,17 @@ The Secretary is authorized to make urban development action grants to cities an
 
 Applications for assistance under this section shall—
 
-&emsp;(1) in the case of an application for a grant under subsection (b)(2) of this section, include documentation of grant eligibility in accordance with the standards described in that subsection;
+&emsp;(1) in the case of an application for a grant under subsection (b)(2), include documentation of grant eligibility in accordance with the standards described in that subsection;
 
 &emsp;(2) set forth the activities for which assistance is sought, including (A) an estimate of the costs and general location of the activities; (B) a summary of the public and private resources which are expected to be made available in connection with the activities, including how the activities will take advantage of unique opportunities to attract private investment; and (C) an analysis of the economic benefits which the activities are expected to produce;
 
 &emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
 
-&emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on suchRegister, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
+&emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
 
 #### (d) Mandatory selection criteria; award of points; distribution of funds; number of competitions per year; use of distress conditions data by urban counties
 
-(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
+(1) Except in the case of a city or urban county eligible under subsection (b)(2), the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
 
 &emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
 
@@ -70,7 +70,7 @@ Applications for assistance under this section shall—
 
 > &emsp;If a city or urban county has submitted and has pending more than one application, the additional consideration provided by subparagraph (D) of the preceding sentence shall be available only to the project in such city or urban county which received the highest number of points under subparagraph (C) of such sentence.
 
-(2) For the purpose of making grants with respect to areas described in subsection (b)(2) of this section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
+(2) For the purpose of making grants with respect to areas described in subsection (b)(2), the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
 
 (3) The Secretary shall award points to each application as follows:
 
@@ -102,17 +102,17 @@ Applications for assistance under this section shall—
 
 (C) Notwithstanding any other provision of this section, in each competition for grants under this section, no city or urban county may be awarded a grant or grants in an amount in excess of $10,000,000 until all cities and urban counties which submitted fundable applications have been awarded a grant. If funds are available for additional grants after each city and urban county submitting a fundable application is awarded one or more grants under the preceding sentence, then additional grants shall be made so that each city or urban county that has submitted multiple applications is awarded one additional grant in order of ranking, with no single city or urban county receiving more than one grant approval in any subsequent series of grant determinations within the same competition.
 
-(D) All grants under this section, including grants to cities and urban counties described in subsection (b)(2) of this section, shall be awarded in accordance with subparagraph (C) so that all grants under this section are made in order of ranking.
+(D) All grants under this section, including grants to cities and urban counties described in subsection (b)(2), shall be awarded in accordance with subparagraph (C) so that all grants under this section are made in order of ranking.
 
 #### (e) Limitations on power of Secretary to approve grants; waiver
 
-The Secretary may not approve any grant to a city or urban county eligible under subsection (b)(2) of this section unless—
+The Secretary may not approve any grant to a city or urban county eligible under subsection (b)(2) unless—
 
-&emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2) of this section, except that the Secretary may waive this requirement where the Secretary determines (A) that there is no suitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
+&emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2), except that the Secretary may waive this requirement where the Secretary determines (A) that there is no suitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
 
-&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics and which have median incomes above the median income for the city or urban county;
+&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics and which have median incomes above the median income for the city or urban county;
 
-&emsp;(3) the grant will be used in connection with a project which will directly benefit the low- and moderate-income families and individuals residing in the area described in subsection (b)(2) of this section; and
+&emsp;(3) the grant will be used in connection with a project which will directly benefit the low- and moderate-income families and individuals residing in the area described in subsection (b)(2); and
 
 &emsp;(4) the city or urban county makes available, from its own funds or from funds received from the State or under any Federal program which permits the use of financial assistance to meet the non-Federal share requirements of Federal grant-in-aid programs, an amount equal to 20 per centum of the grant to be available under this section to be used in carrying out the activities described in the application.
 
@@ -136,9 +136,9 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 &emsp;&emsp;(A) a relocation of any operation of an industrial or commercial plant or facility or other business establishment—
 
-&emsp;&emsp;&emsp;(i) from any city, urban county, or identifiable community described in subsection (p) of this section, that is eligible for assistance under this section; and
+&emsp;&emsp;&emsp;(i) from any city, urban county, or identifiable community described in subsection (p), that is eligible for assistance under this section; and
 
-&emsp;&emsp;&emsp;(ii) to the city, urban county, or identifiable community described in subsection (p) of this section, in which the project is located; or
+&emsp;&emsp;&emsp;(ii) to the city, urban county, or identifiable community described in subsection (p), in which the project is located; or
 
 &emsp;&emsp;(B) an expansion of any such operation that results in a reduction of any such operation in any city, county, or community described in subparagraph (A)(i).
 
@@ -148,11 +148,11 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (4) Appeal of adverse determination
 
-&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1) or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section, nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
+&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1)or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section, nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
 
 #### (5) Assistance for individuals adversely affected by prohibited relocations
 
-&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry out this subsection) by a project with identified intended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p) of this section, from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
+&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry out this subsection) by a project with identified intended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p), from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
 
 &emsp;(B)(i) Any amount made available under this paragraph shall be used by the grantee to assist individuals who were employed by the operation involved prior to the relocation or reduction and whose employment or terms of employment were adversely affected by the relocation or reduction. The assistance shall include job training, job retraining, and job placement.
 
@@ -188,25 +188,25 @@ For purposes of this section, the Secretary may reduce or waive the requirement 
 
 #### (m) Notice to State historic preservation officer and Secretary of the Interior required with regard to affected landmark property; opportunity for comment
 
-In the case of any application which identifies any property in accordance with subsection (c)(4)(B) of this section, the Secretary may not commit funds with respect to an approved application unless the applicant has certified to the Secretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
+In the case of any application which identifies any property in accordance with subsection (c)(4)(B), the Secretary may not commit funds with respect to an approved application unless the applicant has certified to the Secretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
 
 #### (n) Territories, tribes, and certain Hawaiian counties included in term "city"
 
 (1) For the purposes of this section, the term "city" includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
-(2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+(2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or inan Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
 #### (o) Special provisions for years after 1983
 
-If no amounts are set aside under, or amounts are precluded from being appropriated for this section for fiscal years after fiscal year 1983, any amount which is or becomes available for use under this section after fiscal year 1983 shall be added to amounts appropriated under section 5303 of this title, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title..<sup>2</sup>
+If no amounts are set aside under, or amounts are precluded from being appropriated for this section for fiscal years after fiscal year 1983, any amount which is or becomes available for use under this section after fiscal year 1983 shall be added to amounts appropriated under section 5303 of this title, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) may be used to provide grants under section 5308(q) of this title..<sup>2</sup>
 
 #### (p) Unincorporated portions of urban counties
 
-An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) of this section if such portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) of this section and the requirements of subsection (b)(2)(B) of this section (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
+An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) if such portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) and the requirements of subsection (b)(2)(B) (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
 
 #### (q) Technical assistance grants
 
-Of the amounts appropriated for purposes of this section for any fiscal year, not more than $2,500,000 may be used by the Secretary to make technical assistance grants to States or their agencies, municipal technical advisory services operated by universities, or State associations of counties or municipalities, to enable such entities to assist units of general local government described in subsection (i) of this section in developing, applying for assistance for, and implementing programs eligible for assistance under this section.
+Of the amounts appropriated for purposes of this section for any fiscal year, not more than $2,500,000 may be used by the Secretary to make technical assistance grants to States or their agencies, municipal technical advisory services operated by universities, or State associations of counties or municipalities, to enable such entities to assist units of general local government described in subsection (i) in developing, applying for assistance for, and implementing programs eligible for assistance under this section.
 
 #### (r) Nondiscrimination by Secretary against type of activity or applicant
 
@@ -234,7 +234,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
 
 #### References in Text
 
@@ -252,7 +252,7 @@ Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (o). Pub. L. 103–233, §232(b), inserted before period at end ", except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title."
+<b>1994</b>—Subsec. (o). Pub. L. 103–233, §232(b), inserted before period at end ", except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) may be used to provide grants under section 5308(q) of this title."
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
@@ -294,7 +294,7 @@ Subsec. (n)(2)(B). Pub. L. 99–272 substituted "was an eligible recipient under
 
 Subsec. (n)(2). Pub. L. 98–479 substituted "chapter 67 of title 31" for "the State and Local Fiscal Assistance Act of 1972".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed$440,000,000 for each of the fiscal years 1984, 1985, and 1986.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
 Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted "the extent of unemployment, job lag, or surplus labor" for "where data are available, the extent of unemployment and job lag", and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
@@ -478,7 +478,7 @@ Approval.—For a plan to be eligible for assistance available under this title,
 
 &emsp;"(3)
 
-Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtainingapproval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
+Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
 
 #### "SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
 
@@ -500,7 +500,7 @@ Number of units.—The demonstration program shall construct or renovate not les
 
 &emsp;"(2)
 
-Affordability.—Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provides housing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]).
+Affordability.—Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provideshousing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]).
 
 &emsp;"(3)
 
@@ -594,7 +594,7 @@ Terms.—During the period ending upon repayment of the assistance as provided i
 
 &emsp;"(3)
 
-Interest.—Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the United States Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
+Interest.—Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the UnitedStates Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
 
 &emsp;"(4)
 

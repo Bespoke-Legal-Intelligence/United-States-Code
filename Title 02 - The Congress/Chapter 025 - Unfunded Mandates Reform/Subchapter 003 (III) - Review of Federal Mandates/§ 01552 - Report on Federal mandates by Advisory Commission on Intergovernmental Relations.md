@@ -18,7 +18,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound the fiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
 
-&emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate complianceby State, local, and tribal governments with those mandates;
+&emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate compliance by State, local, and tribal governments with those mandates;
 
 &emsp;&emsp;(F) establishing common Federal definitions or standards to be used by State, local, and tribal governments in complying with Federal mandates that use different definitions or standards for the same terms or principles; and
 

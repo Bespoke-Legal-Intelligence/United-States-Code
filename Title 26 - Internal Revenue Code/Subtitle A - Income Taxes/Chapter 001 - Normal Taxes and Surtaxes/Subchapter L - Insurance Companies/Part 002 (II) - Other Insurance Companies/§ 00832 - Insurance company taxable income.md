@@ -14,7 +14,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;(A) the combined gross amount earned during the taxable year, from investment income and from underwriting income as provided in this subsection, computed on the basis of the underwriting and investment exhibit of the annual statement approved by the National Association of Insurance Commissioners,
 
-&emsp;&emsp;(B) gain during the taxable year from the sale or other disposition of property, and
+&emsp;&emsp;(B) gain during the taxable year from the sale or other disposition of property,
 
 &emsp;&emsp;(C) all other items constituting gross income under subchapter B, except that, in the case of a mutual fire insurance company exclusively issuing perpetual policies, the amount of single deposit premiums paid to such company shall not be included in gross income,
 
@@ -46,7 +46,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;(C) To the result so obtained, in the case of a taxable year beginning after December 31, 1986, and before January 1, 1993, add an amount equal to 31/3 percent of unearned premiums on outstanding business at the end of the most recent taxable year beginning before January 1, 1987.
 
-> &emsp;For purposes of this subsection, unearned premiums shall include life insurance reserves, asdefined in section 816(b) but determined as provided in section 807. For purposes of this subsection, unearned premiums of mutual fire or flood insurance companies described in paragraph (1)(D) means (with respect to the policies described in paragraph (1)(D)) the amount of unabsorbed premium deposits which the company would be obligated to return to its policyholders at the close of the taxable year if all of its policies were terminated at such time; and the determination of such amount shall be based on the schedule of unabsorbed premium deposit returns for each such company then in effect. Premiums paid by the subscriber of a mutual flood insurance company described in paragraph (1)(D) or issuing exclusively perpetual policies shall be treated, for purposes of computing the taxable income of such subscriber, in the same manner as premiums paid by a policyholder to a mutual fire insurance company described in subparagraph (C) or (D) of paragraph (1).
+> &emsp;For purposes of this subsection, unearned premiums shall include life insurance reserves, as defined in section 816(b) but determined as provided in section 807. For purposes of this subsection, unearned premiums of mutual fire or flood insurance companies described in paragraph (1)(D) means (with respect to the policies described in paragraph (1)(D)) the amount of unabsorbed premium deposits which the company would be obligated to return to its policyholders at the close of the taxable year if all of its policies were terminated at such time; and the determination of such amount shall be based on the schedule of unabsorbed premium deposit returns for each such company then in effect. Premiums paid by the subscriber of a mutual flood insurance company described in paragraph (1)(D) or issuing exclusively perpetual policies shall be treated, for purposes of computing the taxable income of such subscriber, in the same manner as premiums paid by a policyholder to a mutual fire insurance company described in subparagraph (C) or (D) of paragraph (1).
 
 #### (5) Losses incurred
 
@@ -64,7 +64,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (B) Reduction of deduction
 
-&emsp;&emsp;The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to 15 percent of the sum of—
+&emsp;&emsp;The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to the applicable percentage of the sum of—
 
 &emsp;&emsp;&emsp;(i) tax-exempt interest received or accrued during such taxable year,
 
@@ -76,7 +76,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;(iii) the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies.
 
-> &emsp;&emsp;In the case of a 100 percent dividend paid by an insurance company, the portion attributable to prorated amounts shall be determined under subparagraph (E)(ii).
+> &emsp;&emsp;In the case of a 100 percent dividend paid by an insurance company, the portion attributable to prorated amounts shall be determined under subparagraph (E)(ii). For purposes of this subparagraph, the applicable percentage is 5.25 percent divided by the highest rate in effect under section 11(b).
 
 #### (C) Exception for investments made before August 8, 1986
 
@@ -114,7 +114,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to which this part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
+&emsp;&emsp;&emsp;In the case of any 100 percent dividend paid to an insurance company to whichthis part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
 
 #### (ii) Portion of dividend attributable to prorated amounts
 
@@ -232,9 +232,9 @@ In computing the taxable income of an insurance company subject to the tax impos
 
 &emsp;(4) losses incurred, as defined in subsection (b)(5) of this section;
 
-&emsp;(5) capital losses to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+&emsp;(5) capital losses to the extent provided in subchapter P (relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
 
-&emsp;&emsp;(A) the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets; or
+&emsp;&emsp;(A) the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets); or
 
 &emsp;&emsp;(B) losses from the sale or exchange of capital assets sold or exchanged to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders;
 
@@ -248,7 +248,7 @@ In computing the taxable income of an insurance company subject to the tax impos
 
 &emsp;(10) deductions (other than those specified in this subsection) as provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions for individuals and corporations) and in part I of subchapter D (sec. 401 and following, relating to pension, profit-sharing, stock bonus plans, etc.);
 
-&emsp;(11) dividends and similar distributions paid or declared to policyholders in their capacity as such, except in the case of a mutual fire insurance company described in subsection (b)(1)(C). For purposes of the preceding sentence, the term "dividends and similar distributions" includes amounts returned or credited to policyholders on cancellation or expiration of policies described in subsection (b)(1)(D). For purposes of this paragraph, the term "paid or declared" shall be construed according to the method of accounting regularly employed in keeping the books of the insurance company;
+&emsp;(11) dividends and similar distributions paid or declared to policyholders in their capacity as such, except in the case of a mutual fire insurance company described in subsection\(b)(1)(C). For purposes of the preceding sentence, the term "dividends and similar distributions" includes amounts returned or credited to policyholders on cancellation or expiration of policies described in subsection (b)(1)(D). For purposes of this paragraph, the term "paid or declared" shall be construed according to the method of accounting regularly employed in keeping the books of the insurance company;
 
 &emsp;(12) the special deductions allowed by part VIII of subchapter B (sec. 241 and following, relating to dividends received); and
 
@@ -300,7 +300,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
-&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+&emsp;The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. Inapplying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to "losses resulting from adverse economic cycles" include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 
 #### (f) Interinsurers
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048; Pub. L. 115–97, title I, §§13001(b)(2)(I), 13515(a), Dec. 22, 2017, 131 Stat. 2096, 2144.)
 
 #### References in Text
 
@@ -329,6 +329,10 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(5)(B). Pub. L. 115–97, §13515(a), substituted "the applicable percentage" for "15 percent" in introductory provisions and inserted "For purposes of this subparagraph, the applicable percentage is 5.25 percent divided by the highest rate in effect under section 11(b)." at end of concluding provisions.
+
+Subsec. (c)(5). Pub. L. 115–97, §13001(b)(2)(I), struck out "sec. 1201 and following," before "relating to capital gains and losses" in introductory provisions.
 
 <b>2014</b>—Subsec. (b)(5)(B)(ii), (D)(i), (ii)(I). Pub. L. 113–295, §221(a)(41)(G), struck out ", 244,"after "sections 243" in subpar. (B)(ii) and after "section 243" in subpar. (D)(i), (ii)(I).
 
@@ -352,7 +356,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted "such contracts into account" for "such amounts into account".
 
-Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section 816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
+Pub. L. 101–508, §11303(b)(1), which directed the substitution of "insurance contracts described in section816(b)(1)(B)" for "amounts included in unearned premiums under the 2nd sentence of such subparagraph", was executed by making the substitution for "amounts included in unearned premiums under the 2nd sentence of such paragraph". See 1996 Amendment note above.
 
 <b>1988</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, §1010(d)(2), inserted "(directly or indirectly)" after "attributable".
 
@@ -362,7 +366,7 @@ Subsec. (b)(7)(D), (E). Pub. L. 100–647, §1010(c)(2), added subpars. (D) and 
 
 Subsec. (e)(5)(A). Pub. L. 100–647, §1010(c)(3), struck out "and" after "preceding taxable year,".
 
-Subsec. (e)(5)(B). Pub. L. 100–647, §1010(c)(3), which directed amendment of subpar. (B) by substituting acomma for the period at end, could not be executed because there was no period at end of subpar. (B).
+Subsec. (e)(5)(B). Pub. L. 100–647, §1010(c)(3), which directed amendment of subpar. (B) by substituting a comma for the period at end, could not be executed because there was no period at end of subpar. (B).
 
 Subsec. (g). Pub. L. 100–647, §1010(d)(1), added subsec. (g).
 
@@ -428,6 +432,12 @@ Subsec. (c)(11). Pub. L. 87–834, §8(e)(4), substituted "section 831(a)(3)(A)"
 
 Subsec. (c). Act Mar. 13, 1956, §3(b)(2), (3), substituted "the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212" for "interest, dividends, rents, and net premiums received. In the application of section 1211" in par. (5), and authorized the deduction for depletion in par. (8).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13001(b)(2)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Pub. L. 115–97, title I, §13515(b), Dec. 22, 2017, 131 Stat. 2144, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by section (a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
@@ -436,7 +446,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -460,7 +470,7 @@ Amendments treated as change in method of accounting.—In the case of any taxpa
 
 &emsp;"(C) such change shall be treated as having been made with the consent of the Secretary, and
 
-&emsp;"(D) the net adjustments which are required by section 481 of the Internal Revenue Code of 1986 to betaken into account by the taxpayer shall be taken into account over a period not to exceed 4 taxable years beginning with the taxpayer's first taxable year beginning on or after September 30, 1990.
+&emsp;"(D) the net adjustments which are required by section 481 of the Internal Revenue Code of 1986 to be taken into account by the taxpayer shall be taken into account over a period not to exceed 4 taxable years beginning with the taxpayer's first taxable year beginning on or after September 30, 1990.
 
 "(3)
 
@@ -510,7 +520,7 @@ Special rule for overestimates.—If for any taxable year beginning after Decemb
 
 "(5)
 
-Effect on earnings and profits.—The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1989, shall be increased by the amount of the section 481 adjustment which would have been required but for paragraph (2). For purposes of applying sections 56, 902, 952(c)(1), and 960 of the Internal Revenue Code of 1986, earnings and profits of a corporation shall be determined by applying the principles of paragraph (2)(B)."
+Effect on earnings and profits.—The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1989, shall be increased by the amount of the section 481 adjustment which would have been required but for paragraph (2). For purposes of applying sections 56, \[former\] 902, 952(c)(1), and 960 of the Internal Revenue Code of 1986, earnings and profits of a corporation shall be determined by applying the principles of paragraph (2)(B)."
 
 #### Effective Date of 1988 Amendment
 
@@ -550,7 +560,7 @@ Pub. L. 99–514, title X, §1022(b), Oct. 22, 1986, 100 Stat. 2399, provided th
 
 Amendment by section 1023(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1023(e) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title.
 
-Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31,1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -566,7 +576,7 @@ Amendment by section 1901(a)(108), (b)(1)(T), (U) of Pub. L. 94–455 effective 
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–240, §5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase."
+Pub. L. 90–240, §5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase."
 
 #### Effective Date of 1966 Amendment
 
@@ -586,7 +596,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Deduction From Earnings and Profits of Insurance Companies to Which Section 11305(c)(3) of Pub. L. 101–508 Applies
 
-Pub. L. 104–188, title I, §1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: "The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account."
+Pub. L. 104–188, title I, §1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: "The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and \[former\] 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account."
 
 #### Acquisition Date of Certain Stocks or Obligations for Purposes of Subsection (b)(5)(C)(i)
 
@@ -622,7 +632,7 @@ Capital contributions.—There shall not be included in the gross income of any 
 
 &emsp;&emsp;&emsp;"(ii) is a condition precedent to receiving benefits of membership.
 
-&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph (2) by any member of such arrangement or association.
+&nbsp;&nbsp;Such initial payment shall be included in the gross income of such arrangement or association for such taxable year if it is reasonable to expect that such payment will be deductible pursuant to paragraph\(2) by any member of such arrangement or association.
 
 &emsp;&emsp;"(B)
 
@@ -642,7 +652,7 @@ Deduction for members of eligible arrangements or associations.—
 
 &emsp;&emsp;"(A)
 
-Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and furtherreduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
+Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
 
 &emsp;&emsp;"(B)
 

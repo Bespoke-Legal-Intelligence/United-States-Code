@@ -255,7 +255,7 @@
 | [1593a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001593a%20-%20Penalties%20for%20false%20drawback%20claims.md) | Penalties for false drawback claims. |
 | [1594\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001594%20-%20Seizure%20of%20conveyances.md) | Seizure of conveyances. |
 | [1595\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001595%20-%20Searches%20and%20seizures.md) | Searches and seizures. |
-| [1595a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001595a%20-%20Forfeitures%20and%20other%20penalties.md) | Forfeitures and other penalties. |
+| [1595a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001595a%20-%20Aiding%20unlawful%20importation.md) | Aiding unlawful importation. |
 | 1596 to 1598. Repealed. |  |
 | [1599\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001599%20-%20Officers%20not%20to%20be%20interested%20in%20vessels%20or%20cargo.md) | Officers not to be interested in vessels or cargo. |
 | [1600\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001600%20-%20Application%20of%20the%20customs%20laws%20to%20other%20seizures%20by%20customs%20officers.md) | Application of the customs laws to other seizures by customs officers. |

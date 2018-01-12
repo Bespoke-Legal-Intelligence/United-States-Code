@@ -44,7 +44,7 @@ The President shall—
 
 #### (4) Delays in implementation
 
-&emsp;If the President determines that any action cannot be completed by the delayed effective date recommended by the Secretary pursuant to section 923(e) of this title, or that such an action by such date would result in a frequency being unused as a consequence of the Commission's plan under section 925 of this title, the President may—
+&emsp;If the President determines that any action cannot be completed by the delayed effectivedate recommended by the Secretary pursuant to section 923(e) of this title, or that such an action by such date would result in a frequency being unused as a consequence of the Commission's plan under section 925 of this title, the President may—
 
 &emsp;&emsp;(A) withdraw or limit the assignment to Federal Government stations on a later date that is consistent with such plan, except that the President shall notify each committee specified in paragraph (1)(B) and the Commission of the reason that withdrawal or limitation at a later date is required; or
 

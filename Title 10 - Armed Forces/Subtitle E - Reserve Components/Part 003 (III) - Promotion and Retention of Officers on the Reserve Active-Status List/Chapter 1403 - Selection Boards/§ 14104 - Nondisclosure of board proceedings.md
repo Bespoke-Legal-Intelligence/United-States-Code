@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 111–383, §503(c)(2), substituted "Notes, and Records" fo
 
 Subsec. (c). Pub. L. 111–383, §503(c)(3), added subsec. (c).
 
-<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: "Except as otherwise authorized or required by law, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: "Except as otherwise authorized or required bylaw, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
 
 #### Effective Date of 2006 Amendment
 

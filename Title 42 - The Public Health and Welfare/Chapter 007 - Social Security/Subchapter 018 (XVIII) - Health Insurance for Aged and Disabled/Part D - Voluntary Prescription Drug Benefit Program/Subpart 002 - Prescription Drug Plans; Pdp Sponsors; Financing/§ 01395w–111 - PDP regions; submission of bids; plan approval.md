@@ -40,7 +40,7 @@
 
 #### (B) Actuarial value
 
-&emsp;&emsp;The actuarial value of the qualified prescription drug coverage in the region for a part D eligible individual with a national average risk profile for the factors described in section 1395w–115(c)(1)(A) of this title (as specified by the Secretary).
+&emsp;&emsp;The actuarial value of the qualified prescription drug coverage in the region for a part D eligible individual with a national average risk profile for the factors described insection 1395w–115(c)(1)(A) of this title (as specified by the Secretary).
 
 #### (C) Bid
 
@@ -152,7 +152,7 @@
 
 #### (B) Actuarial determinations
 
-&emsp;&emsp;The Secretary determines that the plan and PDP sponsor meet the requirementsunder this part relating to actuarial determinations, including such requirements under section 1395w–102(c) of this title.
+&emsp;&emsp;The Secretary determines that the plan and PDP sponsor meet the requirements under this part relating to actuarial determinations, including such requirements under section 1395w–102(c) of this title.
 
 #### (C) Application of FEHBP standard
 
@@ -218,7 +218,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Separate from the bidding process under subsection (b), the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) in one or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
+&emsp;&emsp;Separate from the bidding process under subsection (b), the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) inone or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
 
 #### (B) Acceptance of bids
 
@@ -232,7 +232,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used toenter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 

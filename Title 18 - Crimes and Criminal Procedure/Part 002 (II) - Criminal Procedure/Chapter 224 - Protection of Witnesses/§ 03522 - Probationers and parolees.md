@@ -20,5 +20,9 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646 substituted "probationers or parolees, as the case may be" for "parolees".
 
+#### Effective Date
+
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

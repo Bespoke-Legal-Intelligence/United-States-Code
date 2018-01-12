@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the owner's taxpayer identification number; or
 
-&emsp;&emsp;&emsp;(ii) if the owner does not have a taxpayer identification number, the social security number of an individual who is a corporate officer, general partner, or individual trustee of the owner and who signed the application for documentation or numbering for the vessel;
+&emsp;&emsp;&emsp;(ii) if the owner does not have a taxpayer identification number, the social securitynumber of an individual who is a corporate officer, general partner, or individual trustee of the owner and who signed the application for documentation or numbering for the vessel;
 
 &emsp;(3) identifies the State in which it is titled or numbered;
 
@@ -53,4 +53,8 @@ Under paragraph (c)(1), the Secretary must maintain information on a State-title
 <b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the owner's social security number; or".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
+
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
 

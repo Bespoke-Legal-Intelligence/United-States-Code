@@ -58,7 +58,7 @@ In any court proceeding, if a taxpayer asserts a reasonable dispute with respect
 
 &emsp;&emsp;<b>For special rules applicable to deficiencies of income, estate, gift, and certain excise taxes, see subchapter B.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 767; Pub. L. 89–44, title VIII, §809(d)(4)(A), June 21, 1965, 79 Stat. 168; Pub. L. 91–53, §2(b), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(38), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–258, title II, §207(d)(1), (2), May 21, 1970, 84 Stat. 248; Pub. L. 93–406, title II, §1016(a)(8), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–12, title II, §204(b)(2), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1704, 1727, 1834; Pub. L. 97–424, title V, §515(b)(6)(E), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–76, title II, §231(b)(2)(A), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), July 18, 1984, 98 Stat. 792, 845; Pub. L. 100–203, title X, §10301(b)(3), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), Nov. 10, 1988, 102 Stat. 3572, 3773; Pub. L. 104–168, title VI, §602(a), July 30, 1996, 110 Stat. 1463; Pub. L. 111–237, §3(a), Aug. 16, 2010, 124 Stat. 2497.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 767; Pub. L. 89–44, title VIII, §809(d)(4)(A), June 21, 1965, 79 Stat. 168; Pub. L. 91–53, §2(b), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(38), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–258, title II, §207(d)(1), (2), May 21, 1970, 84 Stat. 248; Pub. L. 93–406, title II, §1016(a)(8), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–12, title II, §204(b)(2), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), Oct. 4,1976, 90 Stat. 1704, 1727, 1834; Pub. L. 97–424, title V, §515(b)(6)(E), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–76, title II, §231(b)(2)(A), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), July 18, 1984, 98 Stat. 792, 845; Pub. L. 100–203, title X, §10301(b)(3), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), Nov. 10, 1988, 102 Stat. 3572, 3773; Pub. L. 104–168, title VI, §602(a), July 30, 1996, 110 Stat. 1463; Pub. L. 111–237, §3(a), Aug. 16, 2010, 124 Stat. 2497.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 98–76 substituted "Federal unemployment tax or tax imp
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (a)(3), (4). Pub. L. 94–455, §§1206(c)(2), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", substituted "mathematical or clerical error" for "mathematical error" after "the case of", and inserted ", except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clericalerror assessments) shall not apply with regard to any assessment under this paragraph" after "upon the return".
+Subsec. (a)(3), (4). Pub. L. 94–455, §§1206(c)(2), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", substituted "mathematical or clerical error" for "mathematical error" after "the case of", and inserted ", except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph" after "upon the return".
 
 Subsec. (d). Pub. L. 94–455, §1307(d)(2)(D), substituted "and certain excise taxes" for "chapter 42, and chapter 43 taxes" after "estate, gift".
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L.93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1970 Amendment
 

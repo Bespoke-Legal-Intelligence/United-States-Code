@@ -148,7 +148,7 @@ Determination.—
 
 &emsp;&emsp;"(A)
 
-In general.—The President shall, not less often than annually, determine whether at least 1 of the conditions specified in subparagraph (B) is met, and shall notify the appropriate congressional committees of such determination.
+In general.—The President shall, not less often than annually, determine whether at least 1 of the conditions specified in subparagraph (B) ismet, and shall notify the appropriate congressional committees of such determination.
 
 &emsp;&emsp;"(B)
 
@@ -220,7 +220,7 @@ Archaeological or ethnological material of syria.—The term 'archaeological or 
 
 #### "SEC. 4. REPORT.
 
-"Not later than 1 year after the date of the enactment of this Act \[May 9, 2016\], and annually thereafter for the next 6 years, the President shall submit to the appropriate congressional committees a report on theefforts of the executive branch, during the 12-month period preceding the submission of the report, to protect and preserve international cultural property, including—
+"Not later than 1 year after the date of the enactment of this Act \[May 9, 2016\], and annually thereafter for the next 6 years, the President shall submit to the appropriate congressional committees a report on the efforts of the executive branch, during the 12-month period preceding the submission of the report, to protect and preserve international cultural property, including—
 
 &emsp;"(1) whether an interagency coordinating committee as described in section 2 has been established and, if such a committee has been established, a description of the activities undertaken by such committee, including a list of the entities participating in such activities;
 

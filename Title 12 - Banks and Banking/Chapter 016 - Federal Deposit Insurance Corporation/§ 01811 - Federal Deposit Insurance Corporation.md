@@ -58,7 +58,7 @@ Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: "This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of thistitle\] may be cited as the 'Financial Regulatory Relief and Economic Efficiency Act of 2000'."
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: "This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the 'Financial Regulatory Relief and Economic Efficiency Act of 2000'."
 
 #### Short Title of 1999 Amendment
 
@@ -94,7 +94,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: "This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: "This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the 'Bank Enterprise Act of 1991'."
 
@@ -570,7 +570,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 Definition.—For purposes of this section, the term 'government-sponsored enterprises' means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association."
 
-\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: "The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, setout above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\]."\]
+\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: "The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\]."\]
 
 #### Expansion of Use of Underutilized Minority Banks, Women's Banks, and Low-Income Credit Unions
 
@@ -624,7 +624,7 @@ Pub. L. 101–73, title XII, §1207, Aug. 9, 1989, 103 Stat. 523, provided that:
 
 &emsp;"(1) whether, and to what extent, the issuance of securities by the United States Government in small denominations benefits small investors, increases the participation of small investors in United States Government securities offerings, and promotes savings and thrift by the average United States taxpayer; and
 
-&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, and to promote savings and thrift by the average United States taxpayer."
+&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, andto promote savings and thrift by the average United States taxpayer."
 
 #### Expenditure of Taxpayer Money Only for Deposit Insurance Purposes
 

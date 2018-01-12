@@ -178,7 +178,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph, a prescription drug card sponsor may charge an annual enrollment fee for each discount card eligible individual enrolled in an endorsed discount card program offered by such sponsor. The annual enrollment fee for either 2004 or 2005 shall not be prorated for portions of a year. There shall be no annual enrollment fee for a year after 2005.
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph, a prescription drug card sponsor may charge an annual enrollment fee for each discount card eligible individual enrolled in an endorsed discount card program offered by such sponsor. The annual enrollment fee for either 2004 or 2005 shall not be prorated for portions of a year. Thereshall be no annual enrollment fee for a year after 2005.
 
 #### (B) Amount
 
@@ -272,7 +272,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the information under subparagraph (A) shall be providedat the time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
+&emsp;&emsp;&emsp;Subject to clause (ii), the information under subparagraph (A) shall be provided at the time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
 
 #### (ii) Waiver
 
@@ -414,7 +414,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (ii) with respect to a year, theSecretary may prorate the amount specified in subparagraph (A) for the balance of the year involved in a manner specified by the Secretary.
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (ii) with respect to a year, the Secretary may prorate the amount specified in subparagraph (A) for the balance of the year involved in a manner specified by the Secretary.
 
 #### (ii) Individual described
 
@@ -468,7 +468,7 @@ For purposes of this section:
 
 #### (A) Residents of long-term care facilities
 
-&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section as necessary to negotiate arrangements with sponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
+&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section as necessary to negotiate arrangements withsponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
 
 #### (B) American Indians
 
@@ -542,7 +542,7 @@ For purposes of this section:
 
 #### (4) Savings to medicare beneficiaries
 
-&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shall pass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1).
+&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shallpass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1).
 
 #### (5) Grievance mechanism
 
@@ -556,7 +556,7 @@ For purposes of this section:
 
 #### (B) Waiver authority
 
-&emsp;&emsp;In order to promote participation of sponsors in the program under this section, the Secretary may waive such relevant portions of regulations relating to privacy referred toin subparagraph (A), for such appropriate, limited period of time, as the Secretary specifies.
+&emsp;&emsp;In order to promote participation of sponsors in the program under this section, the Secretary may waive such relevant portions of regulations relating to privacy referred to in subparagraph (A), for such appropriate, limited period of time, as the Secretary specifies.
 
 #### (7) Limitation on provision and marketing of products and services
 
@@ -604,7 +604,7 @@ For purposes of this section:
 
 #### (1) Disclosure
 
-&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall disclose to the Secretary (in a manner specified by the Secretary) information relating to program performance, use of prescription drugs by discount card eligible individuals enrolled in the program, the extent to which negotiated price concessions described in subsection (e)(1)(A)(ii) made available to the entity by a manufacturer are passed through to enrollees through pharmacies or otherwise, and such other information as the Secretary may specify. The provisions of section 1396r–8(b)(3)(D) of this title shall apply to drug pricing data reported under the previous sentence (other than data in aggregate form).
+&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall disclose to the Secretary (in a manner specified by the Secretary) information relating to program performance, use of prescription drugs by discount card eligible individuals enrolled in the program, the extent to which negotiated price concessions described in subsection (e)(1)(A)(ii) made available to the entity by a manufacturer are passed through to enrollees through pharmacies or otherwise, and such other information as the Secretary may specify. The provisions of section 1396r–8(b)(3)(D) of this title shall apply to drugpricing data reported under the previous sentence (other than data in aggregate form).
 
 #### (2) Oversight; audit and inspection authority
 
@@ -618,7 +618,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The Secretary may waive any provision of this section (including subsection (h)(2)(D)) inthe case of a resident of a State (other than the 50 States and the District of Columbia) insofar as the Secretary determines it is necessary to secure access to negotiated prices for discount card eligible individuals (or, at the option of the Secretary, individuals described in subsection (b)(1)(A)(i)).
+&emsp;The Secretary may waive any provision of this section (including subsection (h)(2)(D)) in the case of a resident of a State (other than the 50 States and the District of Columbia) insofar as the Secretary determines it is necessary to secure access to negotiated prices for discount card eligible individuals (or, at the option of the Secretary, individuals described in subsection (b)(1)(A)(i)).
 
 #### (2) Transitional assistance
 

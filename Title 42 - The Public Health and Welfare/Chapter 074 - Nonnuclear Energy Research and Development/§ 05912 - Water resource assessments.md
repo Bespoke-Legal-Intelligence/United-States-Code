@@ -2,7 +2,7 @@
 
 #### (a) Assessments by Water Resources Council of water resource requirements and water supply availability for nonnuclear energy technologies; preparation requirements
 
-The Water Resources Council shall undertake assessments of water resource requirements and water supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial development of which could have significant impacts on water resources. In the preparation of its assessment, the Council shall—
+The Water Resources Council shall undertake assessments of water resource requirements and water supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial development of which could have significant impacts onwater resources. In the preparation of its assessment, the Council shall—
 
 &emsp;(1) utilize to the maximum extent practicable data on water supply and demand available in the files of member agencies of the Council;
 
@@ -28,7 +28,7 @@ For any proposed Federal assistance for commercial application of energy technol
 
 #### (d) Publication of reports of assessments and evaluations by Water Resources Council in Federal Register; public review and comments
 
-Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) of this section shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
+Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
 
 #### (e) Inclusion of survey and analysis of regional and national water resource availability in biennial assessment by Water Resources Council
 

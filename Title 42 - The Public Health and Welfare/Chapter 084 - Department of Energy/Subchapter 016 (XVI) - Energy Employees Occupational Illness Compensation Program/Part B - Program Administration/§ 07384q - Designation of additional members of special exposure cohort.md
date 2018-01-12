@@ -20,7 +20,7 @@ Subject to the provisions of section 7384l(14)(C) of this title, the members of 
 
 (1) Not later than 180 days after the date on which the President receives a petition for designation as members of the Special Exposure Cohort, the Director of the National Institute for Occupational Safety and Health shall submit to the Advisory Board on Radiation and Worker Health a recommendation on that petition, including all supporting documentation.
 
-(2)(A) Upon receipt by the President of a recommendation of the Advisory Board on Radiation and Worker Health that the President should determine in the affirmative that paragraphs (1) and (2) of subsection (b) of this section apply to a class, the President shall have a period of 30 days in which to determine whether such paragraphs apply to the class and to submit that determination (whether affirmative or negative) to Congress.
+(2)(A) Upon receipt by the President of a recommendation of the Advisory Board on Radiation and Worker Health that the President should determine in the affirmative that paragraphs (1) and (2) of subsection (b) apply to a class, the President shall have a period of 30 days in which to determine whether such paragraphs apply to the class and to submit that determination (whether affirmative or negative) to Congress.
 
 (B) If the determination submitted by the President under subparagraph (A) is in the affirmative, the President shall also submit a report meeting the requirements of section 7384l(14)(C)(ii) of this title.
 
@@ -28,7 +28,7 @@ Subject to the provisions of section 7384l(14)(C) of this title, the members of 
 
 #### (d) Access to information
 
-The Secretary of Energy shall provide, in accordance with law, the Secretary of Health and Human Services and the members and staff of the Advisory Board on Radiation and Worker Health access to relevant information on worker exposures, including access to Restricted Data (as defined in section 2014(y) of this title.<sup>1</sup>
+The Secretary of Energy shall provide, in accordance with law, the Secretary of Health andHuman Services and the members and staff of the Advisory Board on Radiation and Worker Health access to relevant information on worker exposures, including access to Restricted Data (as defined in section 2014(y) of this title.<sup>1</sup>
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3626\], Oct. 30, 2000, 114 Stat. 1654, 1654A–504; Pub. L. 107–107, div. C, title XXXI, §3151(a)(2), Dec. 28, 2001, 115 Stat. 1372; Pub. L. 108–375, div. C, title XXXI, §3166(b)(1), Oct. 28, 2004, 118 Stat. 2188.)
 

@@ -30,7 +30,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (4) Secretary-approved coverage
 
-&emsp;Any other health benefits coverage that the Secretary determines, upon application by aState, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
+&emsp;Any other health benefits coverage that the Secretary determines, upon application by a State, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
 
 #### (b) Benchmark benefit packages
 

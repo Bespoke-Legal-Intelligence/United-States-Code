@@ -2,7 +2,7 @@
 
 #### (a) Cooperative forest innovation partnership projects
 
-The Secretary may competitively allocate not more than 5 percent of the funds made available under this chapter to support innovative national, regional, or local education, outreach, ortechnology transfer projects that the Secretary determines would substantially increase the ability of the Department of Agriculture to address the national priorities specified in section 2101(c) of this title.
+The Secretary may competitively allocate not more than 5 percent of the funds made available under this chapter to support innovative national, regional, or local education, outreach, or technology transfer projects that the Secretary determines would substantially increase the ability of the Department of Agriculture to address the national priorities specified in section 2101(c) of this title.
 
 #### (b) Eligibility
 

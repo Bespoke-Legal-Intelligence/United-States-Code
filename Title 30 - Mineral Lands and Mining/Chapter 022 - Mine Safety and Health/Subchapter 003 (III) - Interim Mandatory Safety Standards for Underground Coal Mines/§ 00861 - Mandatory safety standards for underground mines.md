@@ -6,7 +6,7 @@ The provisions of sections 862 through 878 of this title shall be interim mandat
 
 #### (b) Purpose; initiation of studies and research
 
-The purpose of this subchapter is to provide for the immediate application of mandatory safety standards developed on the basis of experience and advances in technology and to prevent newly created hazards resulting from new technology in coal mining. The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies, investigations, and research to further upgrade such standards and to develop and promulgate new and improved standards promptly that will provide increased protection to the miners, particularly in connection with hazards from trolley wires, trolley feeder wires, and signal wires, the splicing and use of trailing cables, and in connection with improvements in vulcanizing of electric conductors, improvement in roof control measures, methane drainage in advance of mining, improved methods of measuring methane and other explosive gases and oxygen concentrations, and the use of improved underground equipment and other sources of power for such equipment.
+The purpose of this subchapter is to provide for the immediate application of mandatory safety standards developed on the basis of experience and advances in technology and to prevent newly created hazards resulting from new technology in coal mining. The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies, investigations, and research to further upgrade such standards and to develop and promulgate new and improved standards promptly that will provide increased protection to the miners, particularly in connection with hazards from trolley wires, trolley feeder wires, and signal wires, the splicing and use of trailing cables, and in connection with improvements in vulcanizing ofelectric conductors, improvement in roof control measures, methane drainage in advance of mining, improved methods of measuring methane and other explosive gases and oxygen concentrations, and the use of improved underground equipment and other sources of power for such equipment.
 
 (Pub. L. 91–173, title III, §301, Dec. 30, 1969, 83 Stat. 765; Pub. L. 95–164, title II, §203, Nov. 9, 1977, 91 Stat. 1317.)
 
@@ -22,5 +22,5 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 #### Effective Date
 
-Subchapter operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

@@ -34,7 +34,7 @@
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) and provisions relating to wages required under paragraph (1) in any contract or agreement for assistance, sale, or lease under this subchapter, shall not apply to any individual who performs the services for which the individual volunteered and who is not otherwise employed at any time in the construction work and received no compensation or is paid expenses, reasonable benefits, or a nominal fee for those services.
+&emsp;Paragraph (1) and provisions relating to wages required under paragraph (1) in any contract or agreement for assistance, sale, or lease under this subchapter, shall not apply to any individual who performs the services for which the individual volunteered and who isnot otherwise employed at any time in the construction work and received no compensation or is paid expenses, reasonable benefits, or a nominal fee for those services.
 
 (Pub. L. 104–330, title VIII, §805, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2976.)
 

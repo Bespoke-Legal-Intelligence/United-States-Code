@@ -86,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5102, substituted "$300,000" for "$200,000".
 
-<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "this subchapter—" for "this subchapter", in introductory provisions, realigned margin of par. (1) and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or" for "$400,000; or", realigned margin of par. (2), and added subsec. (b).
+<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "this subchapter—" for "this subchapter", in introductory provisions, realigned marginof par. (1) and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or" for "$400,000; or", realigned margin of par. (2), and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–258 substituted "$200,000" and "$400,000" for "$100,000" and "$200,000", respectively.
 

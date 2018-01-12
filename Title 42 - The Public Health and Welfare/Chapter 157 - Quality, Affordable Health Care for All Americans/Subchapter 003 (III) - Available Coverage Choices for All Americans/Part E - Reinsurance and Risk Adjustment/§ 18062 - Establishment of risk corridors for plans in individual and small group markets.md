@@ -30,7 +30,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The amount of allowable costs of a plan for any year is an amount equal to the totalcosts (other than administrative costs) of the plan in providing benefits covered by the plan.
+&emsp;&emsp;The amount of allowable costs of a plan for any year is an amount equal to the total costs (other than administrative costs) of the plan in providing benefits covered by the plan.
 
 #### (B) Reduction for risk adjustment and reinsurance payments
 

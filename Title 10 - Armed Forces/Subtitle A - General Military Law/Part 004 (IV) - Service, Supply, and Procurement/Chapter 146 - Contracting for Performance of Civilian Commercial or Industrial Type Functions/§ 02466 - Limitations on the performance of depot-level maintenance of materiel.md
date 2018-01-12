@@ -18,7 +18,7 @@ Prohibition on Delegation of Waiver Authority.—The authority to grant a waiver
 
 (d)
 
-Annual Report.—(1) Not later than 90 days after the date on which the budget of the President for a fiscal year is submitted to Congresspursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
+Annual Report.—(1) Not later than 90 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
 
 (2) Each report required under paragraph (1) shall include as a separate item any expenditure covered by section 2474(f) of this title that was made during the fiscal year covered by the report and shall specify the amount and nature of each such expenditure.
 
@@ -40,7 +40,7 @@ Subsec. (d)(2). Pub. L. 109–364, §331(b)(1), amended par. (2) generally. Prio
 
 "(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding two fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
-"(2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected to be expended during each of the next five fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
+"(2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected tobe expended during each of the next five fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
 "(3) Not later than 60 days after the date on which the Secretary submits a report under this subsection, the Comptroller General shall submit to Congress the Comptroller General's views on whether—
 

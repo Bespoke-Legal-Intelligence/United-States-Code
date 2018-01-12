@@ -20,7 +20,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty tobe paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

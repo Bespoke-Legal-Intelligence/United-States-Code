@@ -6,11 +6,11 @@ Not later than one year after August 7, 1977 (two years for radioactive pollutan
 
 #### (b) Revision authority
 
-Nothing in subsection (a) of this section shall be construed to affect the authority of the Administrator to revise any list referred to in subsection (a) of this section with respect to any substance (whether or not enumerated in subsection (a) of this section).
+Nothing in subsection (a) shall be construed to affect the authority of the Administrator to revise any list referred to in subsection (a) with respect to any substance (whether or not enumerated in subsection (a)).
 
 #### (c) Consultation with Nuclear Regulatory Commission; interagency agreement; notice and hearing
 
-(1) Before listing any source material, special nuclear, <sup>2</sup> or byproduct material (or component or derivative thereof) as provided in subsection (a) of this section, the Administrator shall consult with the Nuclear Regulatory Commission.
+(1) Before listing any source material, special nuclear, <sup>2</sup> or byproduct material (or component or derivative thereof) as provided in subsection (a), the Administrator shall consult with the Nuclear Regulatory Commission.
 
 (2) Not later than six months after listing any such material (or component or derivative thereof) the Administrator and the Nuclear Regulatory Commission shall enter into an interagency agreement with respect to those sources or facilities which are under the jurisdiction of the Commission. This agreement shall, to the maximum extent practicable consistent with this chapter, minimize duplication of effort and conserve administrative resources in the establishment, implementation, and enforcement of emission limitations, standards of performance, and other requirements and authorities (substantive and procedural) under this chapter respecting the emission of such material (or component or derivative thereof) from such sources or facilities.
 
@@ -28,7 +28,7 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 #### Study by Administrator of Environmental Protection Agency
 

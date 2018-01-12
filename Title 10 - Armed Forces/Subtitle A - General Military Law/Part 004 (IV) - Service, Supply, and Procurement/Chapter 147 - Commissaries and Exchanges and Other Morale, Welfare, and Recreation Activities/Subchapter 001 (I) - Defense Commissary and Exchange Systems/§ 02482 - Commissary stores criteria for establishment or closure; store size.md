@@ -24,7 +24,7 @@ Congressional Notification.—(1) The closure of a commissary store in the Unite
 
 (2) Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
 
-(Added Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L.112–81, div. A, title X, §1064(6), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1965; amended Pub. L. 112–81, div. A, title X, §1064(6), Dec. 31, 2011, 125 Stat. 1587.)
 
 #### Prior Provisions
 

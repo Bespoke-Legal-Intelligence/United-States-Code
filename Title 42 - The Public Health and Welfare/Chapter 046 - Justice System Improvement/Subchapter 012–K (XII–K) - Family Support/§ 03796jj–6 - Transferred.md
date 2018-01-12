@@ -1,0 +1,6 @@
+### §3796jj–6. Transferred
+
+#### Codification
+
+Section 3796jj–6 was editorially reclassified as section 10497 of Title 34, Crime Control and Law Enforcement.
+

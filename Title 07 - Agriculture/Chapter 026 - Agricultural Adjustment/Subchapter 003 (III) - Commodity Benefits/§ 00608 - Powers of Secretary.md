@@ -44,7 +44,7 @@ In the course of any investigation required to be made under subsection (1) or (
 
 #### (6) Commodity in which payment made
 
-No payment under this chapter made in an agricultural commodity acquired by the Secretary in pursuance of this chapter shall be made in a commodity other than that in respect of which the payment is being made. For the purposes ofthis subsection, hogs and field corn may be considered as one commodity.
+No payment under this chapter made in an agricultural commodity acquired by the Secretaryin pursuance of this chapter shall be made in a commodity other than that in respect of which the payment is being made. For the purposes of this subsection, hogs and field corn may be considered as one commodity.
 
 #### (7) Additional payments to producers of sugar beets or sugarcane
 

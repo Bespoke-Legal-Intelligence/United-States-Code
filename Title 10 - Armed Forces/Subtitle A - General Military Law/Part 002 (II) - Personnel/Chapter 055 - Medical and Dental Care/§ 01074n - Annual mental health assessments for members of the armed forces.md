@@ -2,7 +2,7 @@
 
 (a)
 
-Mental Health Assessments.—Subject to subsection (c), not less frequently than once each calendar year, the Secretary of Defense shall provide a person-to-person mental health assessment for—
+Mental Health Assessments.—Subject to subsection (c), not less frequently than once each calendar year (and before separation from active duty pursuant to section 1145(a)(5)(A) of this title), the Secretary of Defense shall provide a person-to-person mental health assessment for—
 
 &emsp;(1) each member of a regular component of the armed forces; and
 
@@ -30,7 +30,11 @@ Privacy Matters.—Any medical or other personal information obtained under this
 
 Regulations.—The Secretary of Defense shall, in consultation with the other administering Secretaries, prescribe regulations for the administration of this section.
 
-(Added Pub. L. 113–291, div. A, title VII, §701(a)(1), Dec. 19, 2014, 128 Stat. 3408.)
+(Added Pub. L. 113–291, div. A, title VII, §701(a)(1), Dec. 19, 2014, 128 Stat. 3408; amended Pub. L. 115–91, div. A, title VII, §706(b), Dec. 12, 2017, 131 Stat. 1436.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91 inserted "(and before separation from active duty pursuant to section 1145(a)(5)(A) of this title)" after "each calendar year" in introductory provisions.
 
 #### Implementation of Regulations
 

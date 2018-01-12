@@ -190,7 +190,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (B) Collaboration and sharing of expertise
 
-&emsp;&emsp;The eligible entity has a demonstrated record of collaborating and sharing expertisewith providers of telehealth services at the national, regional, State, and local levels.
+&emsp;&emsp;The eligible entity has a demonstrated record of collaborating and sharing expertise with providers of telehealth services at the national, regional, State, and local levels.
 
 #### (C) Broad range of telehealth services
 
@@ -258,7 +258,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(E) promoting the integration of the technologies used in clinical information systems with other telehealth technologies;
 
-&emsp;&emsp;(F) fostering the use of telehealth technologies to provide health care information and education for health care providers and consumers in a more effective manner; and
+&emsp;&emsp;(F) fostering the use of telehealth technologies to provide health care informationand education for health care providers and consumers in a more effective manner; and
 
 &emsp;&emsp;(G) implementing special projects or studies under the direction of the Office.
 

@@ -22,7 +22,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 #### (c) Special concurrence requirements for certain functions
 
-In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and theprogram under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f),<sup>1</sup> the Secretary shall—
+In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f),<sup>1</sup> the Secretary shall—
 
 &emsp;(1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
 
@@ -56,7 +56,7 @@ For purposes of subsections (c) and (d) of this section:
 
 #### References in Text
 
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification ofthis Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
 
 Section 2103 of title 16, referred to in subsec. (b)(2), was repealed by Pub. L. 113–79, title VIII, §8001(a), Feb. 7, 2014, 128 Stat. 913.
 

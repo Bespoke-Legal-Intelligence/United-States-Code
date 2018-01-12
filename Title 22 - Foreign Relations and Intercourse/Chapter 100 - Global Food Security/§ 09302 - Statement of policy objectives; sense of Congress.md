@@ -26,7 +26,7 @@ It is in the national interest of the United States to promote global food secur
 
 It is the sense of the Congress that the President, in providing assistance to implement the Global Food Security Strategy, should—
 
-&emsp;(1) coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies to implement the Global Food Security Strategy;
+&emsp;(1) coordinate, through a whole-of-government approach, the efforts of relevant Federaldepartments and agencies to implement the Global Food Security Strategy;
 
 &emsp;(2) seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
 

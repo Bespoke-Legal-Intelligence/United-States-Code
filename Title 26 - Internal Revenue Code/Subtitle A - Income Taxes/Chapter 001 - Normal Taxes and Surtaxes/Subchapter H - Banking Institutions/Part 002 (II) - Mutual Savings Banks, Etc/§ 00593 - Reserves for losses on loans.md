@@ -68,7 +68,7 @@
 
 &emsp;The amount determined under this paragraph for the taxable year shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2).
 
-#### (c) Treatment of reserve for bad debts
+#### (c) Treatment of reserves for bad debts
 
 #### (1) Establishment of reserves
 
@@ -76,7 +76,7 @@
 
 #### (2) Certain pre-1963 reserves
 
-&emsp;Notwithstanding the second sentence of paragraph (1), any amount allocated pursuantto paragraph (5) (as in effect immediately before the enactment of the Tax Reform Act of 1976) during a taxable year beginning before January 1, 1977, to the reserve for losses on qualifying real property loans out of the surplus, undivided profits, and bad debt reserves (determined as of December 31, 1962) attributable to the period before the first taxable year beginning after December 31, 1951, shall not be treated as a reserve for bad debts for any purpose other than determining the amount referred to in subsection (b)(1)(B), and for such purpose such amount shall be treated as remaining in such reserve.
+&emsp;Notwithstanding the second sentence of paragraph (1), any amount allocated pursuant to paragraph (5) (as in effect immediately before the enactment of the Tax Reform Act of 1976) during a taxable year beginning before January 1, 1977, to the reserve for losses on qualifying real property loans out of the surplus, undivided profits, and bad debt reserves (determined as of December 31, 1962) attributable to the period before the first taxable year beginning after December 31, 1951, shall not be treated as a reserve for bad debts for any purpose other than determining the amount referred to in subsection (b)(1)(B), and for such purpose such amount shall be treated as remaining in such reserve.
 
 #### (3) Charging of bad debts to reserves
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (4) Treatment of interests in REMIC's
 
-&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
+&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shallbe so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
 
 #### (e) Distributions to shareholders
 
@@ -178,7 +178,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (B) Special rule for thrifts which become small banks
 
-&emsp;&emsp;In the case of a bank (as defined in section 581) which was not a large bank (as defined in section 585(c)(2)) for its first taxable year beginning after December 31, 1995—
+&emsp;&emsp;In the case of a bank (as defined in section 581) which was not a large bank (as definedin section 585(c)(2)) for its first taxable year beginning after December 31, 1995—
 
 &emsp;&emsp;&emsp;(i) the balance taken into account under subparagraph (A)(ii) shall not be less than the amount which would be the balance of such reserves as of the close of its last taxable year beginning before such date if the additions to such reserves for all taxable years had been determined under section 585(b)(2)(A), and
 
@@ -250,7 +250,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (8) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thissubsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, §6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, §432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, §1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, §104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, §311(b)(2), title VI, §671(b)(2), title IX, §901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, §1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, §11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, §1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091.)
 
@@ -270,7 +270,7 @@ Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1)
 
 Subsec. (e)(1). Pub. L. 104–188, §1616(b)(7)(A), substituted "by a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)" in introductory provisions.
 
-Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" and inserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
+Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" and inserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
 
 Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),".
 
@@ -300,7 +300,7 @@ Subsec. (b)(2)(E). Pub. L. 99–514, §901(b)(2)(B), redesignated subpar. (E) as
 
 Pub. L. 99–514, §311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: "by excluding from gross income an amount equal to the lesser of 18/46 of the net long-term capital gain for the taxable year or 18/46 of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and".
 
-Subsec. (b)(3), (4). Pub. L. 99–514, §901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year."
+Subsec. (b)(3), (4). Pub. L. 99–514, §901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banksunder section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year."
 
 Subsec. (b)(5). Pub. L. 99–514, §901(b)(3), struck out par. (5) which read as follows: "For purposes of paragraph (3), the amount deemed to be the balance of the reserve for losses on loans at the beginning of the taxable year shall be the total of the balances at such time of the reserve for losses on nonqualifying loans, the reserve for losses on qualifying real property loans, and the supplemental reserve for losses on loans."
 
@@ -338,7 +338,7 @@ Subsecs. (e), (f). Pub. L. 94–455, §1901(a)(84)(C), redesignated subsec. (f) 
 
 <b>1969</b>—Subsec. (b)(1)(A). Pub. L. 91–172, §432(a)(1), inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
 
-Subsec. (b)(2). Pub. L. 91–172, §432(a)(2), substituted a table of applicable percentages of the taxable incomefor each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
+Subsec. (b)(2). Pub. L. 91–172, §432(a)(2), substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
 
 Subsec. (b)(3). Pub. L. 91–172, §432(a)(2), substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 311(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, set out as a note under section 1201 of this title.
+Pub. L. 99–514, title III, §311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 631, 852, 1201, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986."
 
 Amendment by section 671(b)(2) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 
@@ -426,7 +426,7 @@ Pub. L. 87–834, §6(g)(1), Oct. 16, 1962, 76 Stat. 984, as amended by Pub. L. 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transfer of Functions
 

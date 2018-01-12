@@ -52,7 +52,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (d) Repayment of loans to parents
 
-If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
+If a student on whose behalf a parent has received a loan described in section 1078–2 of thistitle dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
 
 (Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942.)
 

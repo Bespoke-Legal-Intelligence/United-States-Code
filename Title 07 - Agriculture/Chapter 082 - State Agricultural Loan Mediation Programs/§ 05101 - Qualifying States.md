@@ -50,7 +50,7 @@ Within 15 days after the Secretary receives from the Governor of a State a descr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and section 5103 of this title, a person may not be compelled to participate in mediation services provided under this Act.
+&emsp;&emsp;&emsp;Subject to clause (ii) and section 5103 of this title, a person may not be compelledto participate in mediation services provided under this Act.
 
 #### (ii) State laws
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 103–354, §282(a)(3), added subsec. (c) and struck out he
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
 #### Short Title of 2010 Amendment
 

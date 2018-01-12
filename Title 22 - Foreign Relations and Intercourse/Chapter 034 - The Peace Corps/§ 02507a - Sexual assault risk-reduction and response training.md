@@ -78,7 +78,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (3) Sexual assault
 
-&emsp;The term "sexual assault" means any conduct prescribed by chapter 109A of title 18,whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
+&emsp;The term "sexual assault" means any conduct prescribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
 
 #### (4) Stalking
 
@@ -94,7 +94,7 @@ In this section and sections 2507b through 2507g of this title:
 
 Pub. L. 112–57, §9, Nov. 21, 2011, 125 Stat. 745, provided that: "Notwithstanding any other provision of law, the Direct \[probably should be "Director"\] of the Peace Corps shall—
 
-&emsp;"(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
+&emsp;"(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred tocarry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
 
 &emsp;"(2) ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
 

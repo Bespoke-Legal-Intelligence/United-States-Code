@@ -20,7 +20,7 @@ Grants awarded under subsection (a) may be used to initiate, expand, or sustain 
 
 #### (c) Extension services
 
-Grants shall be awarded under this subsection directly to State cooperative extension servicesto enable the State cooperative extension services to enter into contracts, on a multiyear basis, with nonprofit, community-based, direct-service organizations to initiate, expand, or sustain cooperative programs described in subsections (a) and (b).
+Grants shall be awarded under this subsection directly to State cooperative extension services to enable the State cooperative extension services to enter into contracts, on a multiyear basis, with nonprofit, community-based, direct-service organizations to initiate, expand, or sustain cooperative programs described in subsections (a) and (b).
 
 #### (d) Authorization of appropriations
 

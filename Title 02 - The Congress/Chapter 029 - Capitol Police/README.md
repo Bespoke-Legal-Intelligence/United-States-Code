@@ -59,7 +59,7 @@
 |  |  |
 | :--- | ---: |
 | [1951\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20D%20-%20United%20States%20Capitol%20Police%20Memorial%20Fund/%C2%A7%2001951%20-%20Establishment%20of%20United%20States%20Capitol%20Police%20Memorial%20Fund.md) | Establishment of United States Capitol Police Memorial Fund. |
-| [1952\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20D%20-%20United%20States%20Capitol%20Police%20Memorial%20Fund/%C2%A7%2001952%20-%20Payments%20from%20Fund%20for%20families%20of%20Detective%20Gibson%20and%20Private%20First%20Class%20Chestnut.md) | Payments from Fund for families of Detective Gibson and Private First Class Chestnut. |
+| [1952\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20D%20-%20United%20States%20Capitol%20Police%20Memorial%20Fund/%C2%A7%2001952%20-%20Payments%20from%20Fund%20for%20families%20of%20Detective%20Gibson%20and%20Private%20First%20Class%20Chestnut%20and%20certain%20other%20United%20States%20Capitol%20Police%E2%80%A6.md) | Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees. |
 | [1953\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20D%20-%20United%20States%20Capitol%20Police%20Memorial%20Fund/%C2%A7%2001953%20-%20Tax%20treatment%20of%20Fund.md) | Tax treatment of Fund. |
 | [1954\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20D%20-%20United%20States%20Capitol%20Police%20Memorial%20Fund/%C2%A7%2001954%20-%20Administration%20by%20Capitol%20Police%20Board.md) | Administration by Capitol Police Board. |
 
@@ -84,12 +84,14 @@
 | [1973\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001973%20-%20Support%20and%20maintenance%20expenditures%20during%20emergency%20duty.md) | Support and maintenance expenditures during emergency duty. |
 | [1974\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001974%20-%20Capitol%20Police%20special%20officers.md) | Capitol Police special officers. |
 | [1975\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001975%20-%20Overseas%20travel.md) | Overseas travel. |
+| [1975a.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001975a%20-%20Overseas%20travel%20to%20accompany%20members%20of%20House%20leadership.md) | Overseas travel to accompany members of House leadership. |
 | [1976\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001976%20-%20Acceptance%20of%20donations%20of%20animals.md) | Acceptance of donations of animals. |
 | [1977\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001977%20-%20Settlement%20and%20payment%20of%20tort%20claims.md) | Settlement and payment of tort claims. |
 | [1978\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001978%20-%20Deployment%20outside%20of%20jurisdiction.md) | Deployment outside of jurisdiction. |
 | [1979\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001979%20-%20Release%20of%20security%20information.md) | Release of security information. |
 | [1980\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001980%20-%20Mounted%20horse%20unit.md) | Mounted horse unit. |
 | [1981\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001981%20-%20Advance%20payments.md) | Advance payments. |
+| [1982\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001982%20-%20Acceptance%20of%20surplus%20or%20obsolete%20property.md) | Acceptance of surplus or obsolete property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

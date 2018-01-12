@@ -6,13 +6,13 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 (2) The authority of this section—
 
-&emsp;(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $50,000,000 but not in excess of $250,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+&emsp;(A) may be exercised for a transaction (for a prototype project) that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;(i) the requirements of subsection (d) will be met; and
 
 &emsp;&emsp;(ii) the use of the authority of this section is essential to promoting the success of the prototype project; and
 
-&emsp;(B) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $250,000,000 (including all options) only if—
+&emsp;(B) may be exercised for a transaction (for a prototype project) that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
 
 &emsp;&emsp;(i) the Under Secretary of Defense for Acquisition, Technology, and Logistics determines in writing that—
 
@@ -38,7 +38,7 @@ Comptroller General Access to Information.—(1) Each agreement entered into by 
 
 (2) The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
 
-(3)(A) The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or section 2371 of this title.
+(3)(A) The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance ofthe agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or section 2371 of this title.
 
 (B) The only records of a party, other entity, or subordinate element referred to in subparagraph (A) that the Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
 
@@ -50,11 +50,11 @@ Comptroller General Access to Information.—(1) Each agreement entered into by 
 
 Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that no official of an agency enters into a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section unless one of the following conditions is met:
 
-&emsp;(A) There is at least one nontraditional defense contractor participating to a significant extent in the prototype project.
+&emsp;(A) There is at least one nontraditional defense contractor or nonprofit research institution participating to a significant extent in the prototype project.
 
-&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses or nontraditional defense contractors.
+&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
 
-&emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
+&emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than other than <sup>1</sup> the Federal Government.
 
 &emsp;(D) The senior procurement executive for the agency determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract, or would provide an opportunity to expand the defense supply base in a manner that would not be practical or feasible under a contract.
 
@@ -76,7 +76,7 @@ Definitions.—In this section:
 
 (f)
 
-Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction.
+Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
 
 (2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of this title, if—
 
@@ -92,11 +92,27 @@ Authority To Provide Prototypes and Follow-on Production Items as Government-fur
 
 (h)
 
-Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
+Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated asa Federal agency procurement for the purposes of chapter 21 of title 41.
 
-(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893.)
+(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91, §864(a)(1), (2), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project", "$100,000,000" for "$50,000,000", and "$500,000,000" for "$250,000,000".
+
+Subsec. (a)(2)(B). Pub. L. 115–91, §864(a)(1), (3), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project" and "$500,000,000" for "$250,000,000".
+
+Subsec. (d)(1)(A). Pub. L. 115–91, §216, inserted "or nonprofit research institution" after "defense contractor".
+
+Subsec. (d)(1)(B). Pub. L. 115–91, §864(b), inserted "(including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638))" after "small businesses".
+
+Subsec. (d)(1)(C). Pub. L. 115–91, §864(c), substituted "provided by sources other than" for "provided by parties to the transaction".
+
+Subsec. (f)(1). Pub. L. 115–91, §864(d), inserted at end "A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions."
 
 #### Updated Guidance
 
 Pub. L. 114–92, div. A, title VIII, §815(e), Nov. 25, 2015, 129 Stat. 896, provided that: "Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall issue updated guidance to implement the amendments made by this section \[enacting this section, amending section 2302 of this title, amending provisions set out as a note under section 2358 of this title, and repealing provisions set out as a note under section 2371 of this title\]."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

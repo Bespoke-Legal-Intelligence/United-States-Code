@@ -2,7 +2,7 @@
 
 #### (a) Matching fund
 
-The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
+The Secretary shall establish a Smart Grid Investment Matching Grant Program to providegrants of up to one-half (50 percent) of qualifying Smart Grid investments.
 
 #### (b) Qualifying investments
 
@@ -107,6 +107,10 @@ Subsec. (b)(9). Pub. L. 111–5, §405(6), struck out last sentence which read a
 Subsec. (c)(1). Pub. L. 111–5, §405(7), substituted "utilize" for "are eligible for".
 
 Subsec. (e). Pub. L. 111–5, §405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

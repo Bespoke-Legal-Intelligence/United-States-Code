@@ -6,7 +6,7 @@ Each issuer that is required to file reports pursuant to section 13(a) or 15(d) 
 
 &emsp;(1) For each coal or other mine of which the issuer or a subsidiary of the issuer is an operator—
 
-&emsp;&emsp;(A) the total number of violations of mandatory health or safety standards that could significantly and substantially contribute tothe cause and effect of a coal or other mine safety or health hazard under section 104 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814) for which the operator received a citation from the Mine Safety and Health Administration;
+&emsp;&emsp;(A) the total number of violations of mandatory health or safety standards that could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard under section 104 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814) for which the operator received a citation from the Mine Safety and Health Administration;
 
 &emsp;&emsp;(B) the total number of orders issued under section 104(b) of such Act (30 U.S.C. 814(b));
 
@@ -30,7 +30,7 @@ Each issuer that is required to file reports pursuant to section 13(a) or 15(d) 
 
 #### (b) Reporting shutdowns and patterns of violations
 
-Beginning on and after July 21, 2010, each issuer that is an operator, or that has a subsidiary that is an operator, of a coal or other mine shall file a current report with the Commission on Form 8–K (or any successor form) disclosing the following regarding each coal or other mine of which the issuer or subsidiary is an operator:
+Beginning on and after July 21, 2010, each issuer that is an operator, or that has a subsidiarythat is an operator, of a coal or other mine shall file a current report with the Commission on Form 8–K (or any successor form) disclosing the following regarding each coal or other mine of which the issuer or subsidiary is an operator:
 
 &emsp;(1) The receipt of an imminent danger order issued under section 107(a) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 817(a)).
 

@@ -8,7 +8,7 @@
 
 #### (2) Conduct of inspections
 
-&emsp;Not later than 3 years after March 30, 2009, the Secretary shall conduct inspections of those project facilities, which are in proximity to urbanized areas and which could pose a risk to public safety or property damage if such facilities were to fail, using such specific inspection guidelines and criteria developed pursuant to paragraph (1). In selecting project facilities to inspect, the Secretary shall take into account the potential magnitude of public safety and economic damage posed by each project facility.
+&emsp;Not later than 3 years after March 30, 2009, the Secretary shall conduct inspections of those project facilities, which are in proximityto urbanized areas and which could pose a risk to public safety or property damage if such facilities were to fail, using such specific inspection guidelines and criteria developed pursuant to paragraph (1). In selecting project facilities to inspect, the Secretary shall take into account the potential magnitude of public safety and economic damage posed by each project facility.
 
 #### (3) Treatment of costs
 

@@ -54,7 +54,7 @@ In this chapter:
 
 #### (10) Commercial standards
 
-&emsp;The term "commercial standards" means the technical standards followed by the commercial mobile service and commercial mobiledata service industries for network, device, and Internet Protocol connectivity. Such term includes standards developed by the Third Generation Partnership Project (3GPP), the Institute of Electrical and Electronics Engineers (IEEE), the Alliance for Telecommunications Industry Solutions (ATIS), the Internet Engineering Task Force (IETF), and the International Telecommunication Union (ITU).
+&emsp;The term "commercial standards" means the technical standards followed by the commercial mobile service and commercial mobile data service industries for network, device, and Internet Protocol connectivity. Such term includes standards developed by the Third Generation Partnership Project (3GPP), the Institute of Electrical and Electronics Engineers (IEEE), the Alliance for Telecommunications Industry Solutions (ATIS), the Internet Engineering Task Force (IETF), and the International Telecommunication Union (ITU).
 
 #### (11) Commission
 

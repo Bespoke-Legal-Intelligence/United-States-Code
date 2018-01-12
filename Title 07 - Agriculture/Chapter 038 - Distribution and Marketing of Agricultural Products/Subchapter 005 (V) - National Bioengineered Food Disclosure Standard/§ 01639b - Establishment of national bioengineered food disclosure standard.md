@@ -74,7 +74,7 @@ Not later than 2 years after July 29, 2016, the Secretary shall—
 
 #### (4) Additional disclosure options
 
-&emsp;If the Secretary determines in the study conducted under paragraph (1) that consumers, while shopping, would not have sufficient access to the bioengineering disclosure throughelectronic or digital disclosure methods, the Secretary, after consultation with food retailers and manufacturers, shall provide additional and comparable options to access the bioengineering disclosure.
+&emsp;If the Secretary determines in the study conducted under paragraph (1) that consumers, while shopping, would not have sufficient access to the bioengineering disclosure through electronic or digital disclosure methods, the Secretary, after consultation with food retailers and manufacturers, shall provide additional and comparable options to access the bioengineering disclosure.
 
 #### (d) Disclosure
 

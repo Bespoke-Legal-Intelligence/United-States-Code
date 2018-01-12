@@ -62,7 +62,7 @@
 
 #### (2) Determination of business hardship
 
-&emsp;For purposes of this subsection, the factors taken into account in determining temporary substantial business hardship (substantialbusiness hardship in the case of a multiemployer plan) shall include (but shall not be limited to) whether or not—
+&emsp;For purposes of this subsection, the factors taken into account in determining temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) shall include (but shall not be limited to) whether or not—
 
 &emsp;&emsp;(A) the employer is operating at an economic loss,
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
 
-&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
+&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time ofadoption except to the extent required by the circumstances,
 
 > &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 431(d) or section 433(d)) is unavailable or inadequate.
 
@@ -238,7 +238,7 @@
 
 &emsp;This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I,§§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135.)
 
 #### References in Text
 
@@ -326,7 +326,7 @@ Subsec. (m)(7). Pub. L. 107–147, §405(a)(2), added par. (7).
 
 Subsec. (c)(7)(F). Pub. L. 107–16, §651(a)(2), reenacted heading and introductory provisions without change and amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years.
 
-Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary."
+Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "For purposes of this section, a determination of experiencegains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary."
 
 <b>1997</b>—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(1), added subpar. (E).
 
@@ -458,7 +458,7 @@ Subsec. (c)(2)(B). Pub. L. 100–203, §9303(d)(1), inserted at end "In the case
 
 Subsec. (c)(3). Pub. L. 100–203, §9307(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods which, in the aggregate, are reasonable (taking into account the experience of the plan and reasonable expectations) and which, in combination, offer the actuary's best estimate of anticipated experience under the plan."
 
-Subsec. (c)(7). Pub. L. 100–203, §9301(a), substituted "Full-funding" for "Full funding" in heading andamended text generally. Prior to amendment, text read as follows: "For purposes of paragraph (6), the term full funding limitation means the excess (if any) of—
+Subsec. (c)(7). Pub. L. 100–203, §9301(a), substituted "Full-funding" for "Full funding" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of paragraph (6), the term full funding limitation means the excess (if any) of—
 
 &emsp;"(A) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
 
@@ -542,7 +542,7 @@ Special rule for certain restored benefits.—In the case of a multiemployer pla
 
 &emsp;"(A) with respect to which benefits were reduced pursuant to a plan amendment adopted on or after January 1, 2002, and before June 30, 2005, and
 
-&emsp;"(B) which, pursuant to the plan document, the trust agreement, or a formal written communicationfrom the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
+&emsp;"(B) which, pursuant to the plan document, the trust agreement, or a formal written communication from the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
 
 > the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments."
 
@@ -696,7 +696,7 @@ Pub. L. 100–203, title IX, §9304(b)(3), Dec. 22, 1987, 101 Stat. 1330–347, 
 
 Pub. L. 100–203, title IX, §9304(e)(3), Dec. 22, 1987, 101 Stat. 1330–351, provided that: "The amendments made by this subsection \[amending this section and section 1082 of Title 29\] shall apply to plan years beginning after December 31, 1987."
 
-Pub. L. 100–203, title IX, §9305(d), Dec. 22, 1987, 101 Stat. 1330–352, provided that: "The amendments made by this section \[amending this section and sections 414 and 4971 of this title and section 1082 of Title 29\] shall apply with respect to plan years beginning after December 31, 1987."
+Pub. L. 100–203, title IX, §9305(d), Dec. 22, 1987, 101 Stat. 1330–352, provided that: "The amendments made by this section \[amending this section and sections 414 and 4971 of this title and section 1082 of Title 29\] shallapply with respect to plan years beginning after December 31, 1987."
 
 Pub. L. 100–203, title IX, §9306(f), Dec. 22, 1987, 101 Stat. 1330–355, as amended by Pub. L. 101–239, title VII, §7881(c)(3), Dec. 19, 1989, 103 Stat. 2439, provided that:
 
@@ -780,7 +780,7 @@ Pub. L. 100–203, title IX, §9303(c), Dec. 22, 1987, 101 Stat. 1330–342, pro
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

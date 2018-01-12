@@ -26,7 +26,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 &emsp;For each fiscal year, the amount made available to each local educational agency under each of sections 6333, 6334, and 6335 of this title shall be—
 
-&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted for grants under section 6333 of this title is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
+&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal yearif the number of children counted for grants under section 6333 of this title is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
 
 &emsp;&emsp;(B) not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
 

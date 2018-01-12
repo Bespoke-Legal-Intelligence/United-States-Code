@@ -14,7 +14,7 @@
 
 #### (1) Transfer to Black Lung Disability Trust Fund of amounts equivalent to certain taxes
 
-&emsp;There are herby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
+&emsp;There are hereby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
 
 #### (2) Certain repaid amounts, etc.
 
@@ -48,7 +48,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;&emsp;(A) the operator liable for the payment of such benefits—
 
-&emsp;&emsp;&emsp;(i) has no commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
+&emsp;&emsp;&emsp;(i) has not commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
 
 &emsp;&emsp;&emsp;(ii) has not made a payment within 30 days after that payment is due,
 
@@ -70,7 +70,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;(6) the reimbursement of operators for amounts paid by such operators (other than as penalties or interest) before April 1, 1978, in satisfaction (in whole or in part) of claims of miners whose last employment in coal mines was terminated before January 1, 1970, and
 
-&emsp;(7) the reimbursement of operators and insurers for amounts paid by such operators and insurers (other than amounts paid as penalties, interest, or attorney fees) at any time in satisfaction (in whole or in part) of any claim denied (within the meaning of section 402(i) of the Black Lung Benefits Act) before March 1, 1978, and which is or has been approved in accordance with the provisions of section 435 <sup>1</sup> of the Black Lung Benefits Act.
+&emsp;(7) the reimbursement of operators and insurers for amounts paid by such operators and insurers (other than amounts paid as penalties, interest, or attorney fees) at any time in satisfaction (in whole or in part) of any claim denied (within the meaning of section 402(i) of the Black Lung Benefits Act) beforeMarch 1, 1978, and which is or has been approved in accordance with the provisions of section 435 <sup>1</sup> of the Black Lung Benefits Act.
 
 > For purposes of the preceding sentence, any reference to section 402(i), 422, or 435 <sup>1</sup> of the Black Lung Benefits Act shall be treated as a reference to such section as in effect immediately after the enactment of this section.
 
@@ -110,7 +110,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;"(A)
 
-Market value of the outstanding repayable advances, plus accrued interest.—The term 'market value of the outstanding repayable advances, plus accrued interest' means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the TrustFund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year.
+Market value of the outstanding repayable advances, plus accrued interest.—The term 'market value of the outstanding repayable advances, plus accrued interest' means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the Trust Fund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year.
 
 &emsp;"(B)
 
@@ -170,6 +170,8 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 510.
+
 Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2591.
 
 Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2458.
@@ -196,7 +198,7 @@ Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided 
 
 #### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
 
-Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: "In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations tocarry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions."
+Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: "In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

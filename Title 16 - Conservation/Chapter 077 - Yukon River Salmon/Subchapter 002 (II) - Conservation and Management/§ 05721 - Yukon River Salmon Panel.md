@@ -36,7 +36,7 @@
 
 &emsp;(A) The Secretary of State shall appoint the members under paragraph (1)(C) from a list of at least three individuals nominated for each position by the Governor of Alaska.
 
-&emsp;(B) In making the nominations, the Governor of Alaska may consider suggestions fornominations provided by organizations with expertise in Yukon River salmon fisheries.
+&emsp;(B) In making the nominations, the Governor of Alaska may consider suggestions for nominations provided by organizations with expertise in Yukon River salmon fisheries.
 
 &emsp;(C) The Governor of Alaska may make appropriate nominations to allow for appointment of, and the Secretary of State shall appoint, under paragraph (1)(C)—
 

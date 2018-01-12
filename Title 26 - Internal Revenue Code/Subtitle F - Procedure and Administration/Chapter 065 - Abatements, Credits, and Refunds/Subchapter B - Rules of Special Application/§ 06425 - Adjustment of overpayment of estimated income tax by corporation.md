@@ -4,7 +4,7 @@
 
 #### (1) Time for filing
 
-&emsp;A corporation may, after the close of the taxable year and on or before the 15th day of the fourth month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
+&emsp;A corporation may, after the close of the taxable year and on or before the 15th day of the fourth month thereafter, and before the day on which it files a return for such taxableyear, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
 
 #### (2) Form of application, etc.
 
@@ -42,11 +42,11 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 &emsp;(1) The term "income tax liability" means the excess of—
 
-&emsp;&emsp;(A) The <sup>1</sup> sum of—
+&emsp;&emsp;(A) the sum of—
 
-&emsp;&emsp;&emsp;(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
+&emsp;&emsp;&emsp;(i) the tax imposed by section 11, or subchapter L of chapter 1, whichever is applicable, plus
 
-&emsp;&emsp;&emsp;(ii) the tax imposed by section 55, over
+&emsp;&emsp;&emsp;(ii) the tax imposed by section 59A, over
 
 &emsp;&emsp;(B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -60,9 +60,19 @@ For purposes of this section and section 6655(h) (relating to excessive adjustme
 
 If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 113–295, div. A, title II, §221(a)(12)(J), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–41, title II, §2006(a)(2)(E), July 31, 2015, 129 Stat. 457.)
+(Added Pub. L. 90–364, title I, §103(d)(1), June 28, 1968, 82 Stat. 262; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–499, title V, §516(b)(4)(C), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–203, title X, §10301(b)(4), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 113–295, div. A, title II, §221(a)(12)(J), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–41, title II, §2006(a)(2)(E), July 31, 2015, 129 Stat. 457; Pub. L. 115–97, title I, §§12001(b)(17), 13001(b)(2)(P), 14401(d)(3), Dec. 22, 2017, 131 Stat. 2094, 2097, 2233.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1)(A). Pub. L. 115–97, §14401(d)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, over".
+
+Pub. L. 115–97, §13001(b)(2)(P), struck out "or 1201(a)," after "by section 11".
+
+Pub. L. 115–97, §12001(b)(17), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The sum of—
+
+&emsp;"(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
+
+&emsp;"(ii) the tax imposed by section 55, over".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–41 substituted "fourth month" for "third month".
 
@@ -75,6 +85,14 @@ If the corporation seeking an adjustment under this section paid its estimated i
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out "plus" at end of cl. (i), substituting "plus" for "over" at end of cl. (ii), and adding cl. (iii).
 
 <b>1976</b>—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 12001(b)(17) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Amendment by section 13001(b)(2)(P) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Amendment by section 14401(d)(3) of Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -101,6 +119,4 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1967, 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

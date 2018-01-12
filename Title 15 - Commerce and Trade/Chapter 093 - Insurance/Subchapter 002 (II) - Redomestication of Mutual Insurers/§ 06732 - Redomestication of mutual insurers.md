@@ -10,7 +10,7 @@ Upon complying with the applicable law of the transferee domicile governing tran
 
 #### (c) Licenses preserved
 
-The certificate of authority, agents' appointments and licenses, rates, approvals and other items that a licensed State allows and that are in existence immediately prior to the date that a redomesticating insurer transfers its domicile pursuant to this subchapter shall continue in full force and effect upon transfer, if the insurer remains duly qualified to transact the business of insurance in such licensed State.
+The certificate of authority, agents' appointments and licenses, rates, approvals and other items that a licensed State allows and that are in existence immediately prior to the date thata redomesticating insurer transfers its domicile pursuant to this subchapter shall continue in full force and effect upon transfer, if the insurer remains duly qualified to transact the business of insurance in such licensed State.
 
 #### (d) Effectiveness of outstanding policies and contracts
 
@@ -26,7 +26,7 @@ The certificate of authority, agents' appointments and licenses, rates, approval
 
 #### (e) Notice
 
-A redomesticating insurer shall give notice of the proposed transfer to the State insuranceregulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
+A redomesticating insurer shall give notice of the proposed transfer to the State insurance regulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
 
 #### (f) Procedural requirements
 

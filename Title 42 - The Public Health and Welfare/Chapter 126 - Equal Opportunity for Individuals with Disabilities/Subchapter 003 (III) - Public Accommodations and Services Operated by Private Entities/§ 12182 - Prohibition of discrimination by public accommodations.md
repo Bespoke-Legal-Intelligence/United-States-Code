@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
+No individual shall be discriminated against on the basis of disability in the full and equalenjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
 
 #### (b) Construction
 
@@ -78,7 +78,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 &emsp;&emsp;&emsp;(i) a failure of a private entity which operates a demand responsive system and which is not subject to section 12184 of this title to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and
 
-&emsp;&emsp;&emsp;(ii) the purchase or lease by such entity for use on such system of a vehicle with a seating capacity in excess of 16 passengers\(including the driver), for which solicitations are made after the 30th day following the effective date of this subparagraph, that is not readily accessible to and usable by individuals with disabilities (including individuals who use wheelchairs) unless such entity can demonstrate that such system, when viewed in its entirety, provides a level of service to individuals with disabilities equivalent to that provided to individuals without disabilities.
+&emsp;&emsp;&emsp;(ii) the purchase or lease by such entity for use on such system of a vehicle with a seating capacity in excess of 16 passengers (including the driver), for which solicitations are made after the 30th day following the effective date of this subparagraph, that is not readily accessible to and usable by individuals with disabilities (including individuals who use wheelchairs) unless such entity can demonstrate that such system, when viewed in its entirety, provides a level of service to individuals with disabilities equivalent to that provided to individuals without disabilities.
 
 #### (D) Over-the-road buses
 

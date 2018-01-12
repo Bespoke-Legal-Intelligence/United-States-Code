@@ -64,7 +64,7 @@ In subsection (d), the words "with respect . . . the rendering inoperative of"
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) ofPub. L. 114–94, set out as a note under section 30102 of this title.
+Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under section 30102 of this title.
 
 #### Effective Date of 2012 Amendment
 

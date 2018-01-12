@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(II) must have previously occupied the home, a manufactured home on the lot, or the home and the lot, securing the loan as the veteran's home and must certify, in such form as the Secretary shall require, that the veteran has previously so occupied the home (or such a home on the lot); or
 
-&emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, themanufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
+&emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
 (B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
@@ -88,7 +88,7 @@
 
 &emsp;(ii) the amount equal to the guaranty under this section.
 
-(E) In any accounting filed pursuant to subparagraph (B)(ii) of this paragraph, the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds accrued interest from the cutoff date established to such further date as the Secretary may determine andsuch costs and expenses as the Secretary determines to be reasonable and proper.
+(E) In any accounting filed pursuant to subparagraph (B)(ii) of this paragraph, the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper.
 
 (F) The liability of the United States under the guaranty provided for by this paragraph shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
@@ -154,7 +154,7 @@
 
 &emsp;(3) a manufacturer of manufactured homes who has engaged in procedures or practices determined by the Secretary to be unfair or prejudicial to veterans or the Government.
 
-(k) Subject to notice and opportunity for a hearing, the Secretary may refuse to approve as acceptable any site in a manufactured home park or subdivision owned or operated by any person whose rental or sale methods, procedures, requirements, or practices are determined by the Secretary to be unfair or prejudicial to veterans renting or purchasing such sites. The Secretary may also refuse to guarantee or make direct loans for veterans to purchase manufactured homes offered for sale by any dealer if substantial deficiencies have been discovered in such homes, or if the Secretary determines that there has been a failure or indicated inability of the dealer to discharge contractual liabilities to veterans, or that the type of contract of sale or methods, procedures, or practices pursued by the dealer in the marketing of such properties have been unfair or prejudicial to veteran purchasers.
+(k) Subject to notice and opportunity for a hearing, the Secretary may refuse to approve asacceptable any site in a manufactured home park or subdivision owned or operated by any person whose rental or sale methods, procedures, requirements, or practices are determined by the Secretary to be unfair or prejudicial to veterans renting or purchasing such sites. The Secretary may also refuse to guarantee or make direct loans for veterans to purchase manufactured homes offered for sale by any dealer if substantial deficiencies have been discovered in such homes, or if the Secretary determines that there has been a failure or indicated inability of the dealer to discharge contractual liabilities to veterans, or that the type of contract of sale or methods, procedures, or practices pursued by the dealer in the marketing of such properties have been unfair or prejudicial to veteran purchasers.
 
 (l) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
@@ -210,7 +210,7 @@ Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted "3704(d)" for "1804(d)" an
 
 <b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation."
 
-<b>1989</b>—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted "Secretary" and "Secretary's" for "Administrator" and "Administrator's", respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted "Secretary" and "Secretary's"for "Administrator" and "Administrator's", respectively, wherever appearing.
 
 Subsec. (h)(2)(B). Pub. L. 101–237, §313(b)(7), substituted "Secretary of Housing and Urban Development pursuant" for "Secretary pursuant" and substituted "Secretary of Veterans Affairs" for "Administrator" wherever appearing.
 
@@ -340,7 +340,7 @@ Subsec. (b)(2). Pub. L. 93–569, §5(2), added par. (2).
 
 Subsec. (c)(1). Pub. L. 93–569, §5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted "or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator," for "or for the purchase of a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency."
 
-Subsec. (d)(1). Pub. L. 93–569, §5(5), substituted ", whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot"for "financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot".
+Subsec. (d)(1). Pub. L. 93–569, §5(5), substituted ", whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot" for "financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot".
 
 Subsec. (d)(2)(A). Pub. L. 93–569, §5(6), substituted "$12,500" for "$10,000," and "single wide mobile home only" for "mobile home only,".
 
@@ -366,7 +366,7 @@ Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, pr
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–253 applicable to loans closed on or after Feb. 1, 1988, except for loans for which guaranty commitment was made on or before Dec. 31, 1987, see section 3(c) of Pub. L. 100–253, set out as a note under section 3703 of this title.
+Amendment by Pub. L. 100–253 applicable to loans closed on or after Feb. 1, 1988, except for loans forwhich guaranty commitment was made on or before Dec. 31, 1987, see section 3(c) of Pub. L. 100–253, set out as a note under section 3703 of this title.
 
 #### Effective Date of 1987 Amendment
 

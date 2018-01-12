@@ -32,5 +32,5 @@ A prior section 7307, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Aug. 5, 1974,
 
 <b>1999</b>—Subsec. (b)(1)(A). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and theCommittee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 

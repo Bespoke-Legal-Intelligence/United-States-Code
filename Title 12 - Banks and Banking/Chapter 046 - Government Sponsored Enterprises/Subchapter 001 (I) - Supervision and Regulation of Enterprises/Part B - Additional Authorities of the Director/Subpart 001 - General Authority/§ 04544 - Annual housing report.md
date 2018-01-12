@@ -48,7 +48,7 @@ The report required under subsection (a) shall—
 
 #### (1) In general
 
-&emsp;To assist the Director in analyzing the matters described in subsection (b), the Director shall conduct, on a monthly basis, a survey ofmortgage markets in accordance with this subsection.
+&emsp;To assist the Director in analyzing the matters described in subsection (b), the Director shall conduct, on a monthly basis, a survey of mortgage markets in accordance with this subsection.
 
 #### (2) Data points
 

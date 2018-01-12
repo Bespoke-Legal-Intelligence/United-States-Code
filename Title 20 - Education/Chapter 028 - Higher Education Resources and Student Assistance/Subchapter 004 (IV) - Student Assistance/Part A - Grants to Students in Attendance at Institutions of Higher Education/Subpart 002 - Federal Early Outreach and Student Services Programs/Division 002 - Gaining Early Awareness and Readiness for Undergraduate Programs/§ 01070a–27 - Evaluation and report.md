@@ -14,7 +14,7 @@ The Secretary shall prescribe standards for the evaluation described in subsecti
 
 #### (c) Federal evaluation
 
-In order to evaluate and improve the impact of the activities assisted under this division, the Secretary shall, from not more than 0.75 percent of the funds appropriated under section 1070a–28 of this title for a fiscal year, award one or more grants, contracts, or cooperative agreements to or with public and private institutions and organizations, to enable the institutions and organizations to evaluate the effectiveness of the program and, as appropriate, disseminate the results of the evaluation. Such evaluation shall include a separate analysis of—
+In order to evaluate and improve the impact of the activities assisted under this division, the Secretary shall, from not more than 0.75 percent of the funds appropriated under section 1070a–28 of this title for a fiscal year, award one or more grants, contracts, or cooperative agreements toor with public and private institutions and organizations, to enable the institutions and organizations to evaluate the effectiveness of the program and, as appropriate, disseminate the results of the evaluation. Such evaluation shall include a separate analysis of—
 
 &emsp;(1) the implementation of the scholarship component described in section 1070a–25 of this title; and
 

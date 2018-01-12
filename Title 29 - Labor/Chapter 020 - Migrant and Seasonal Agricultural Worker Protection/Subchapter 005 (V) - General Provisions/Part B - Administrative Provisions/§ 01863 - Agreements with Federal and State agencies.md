@@ -10,7 +10,11 @@ Any delegation to a State agency pursuant to subsection (a)(2) shall be made onl
 
 &emsp;(1) shall include a description of the functions to be performed, the methods of performing such functions, and the resources to be devoted to the performance of such functions; and
 
-&emsp;(2) provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency's performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
+&emsp;(2) provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency's performance of functions so delegated will be at least comparableto the performance of such functions by the Department of Labor.
 
 (Pub. L. 97–470, title V, §513, Jan. 14, 1983, 96 Stat. 2599.)
+
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 

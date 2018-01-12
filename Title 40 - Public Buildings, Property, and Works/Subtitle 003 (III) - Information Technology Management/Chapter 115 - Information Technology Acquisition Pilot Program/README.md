@@ -24,7 +24,7 @@
 
 <b>2002</b>—Pub. L. 107–314, div. A, title VIII, §825(b)(3)(A), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(B), Dec. 17, 2002, 116 Stat. 2938, amended chapter heading identically, substituting "PROGRAM" for "PROGRAMS".
 
-Pub. L. 107–314, div. A, title VIII, §825(b)(3)(C), (D), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(D), (E), Dec. 17, 2002, 116 Stat. 2938, amended items for subchapters I and II identically, substituting "PROGRAM" for "PROGRAMS".
+Pub. L. 107–314, div. A, title VIII, §825(b)(3)(C), (D), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(D), (E), Dec. 17, 2002, 116 Stat. 2938, amendeditems for subchapters I and II identically, substituting "PROGRAM" for "PROGRAMS".
 
 Pub. L. 107–314, div. A, title VIII, §825(b)(3)(E), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(F), Dec. 17, 2002, 116 Stat. 2938, amended item 11501 identically, substituting "program" for "programs".
 

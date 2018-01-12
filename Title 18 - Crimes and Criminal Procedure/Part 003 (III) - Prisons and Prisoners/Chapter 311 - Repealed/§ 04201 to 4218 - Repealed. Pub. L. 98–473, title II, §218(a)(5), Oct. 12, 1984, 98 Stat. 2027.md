@@ -202,7 +202,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (d) Upon commitment of a prisoner sentenced to imprisonment under the provisions of subsections (a) or (b) of this section, the Director, under such regulations as the Attorney General may prescribe, shall cause a complete study to be made of the prisoner and shall furnish to the Commission a summary report together with any recommendations which in his opinion would be helpful in determining the suitability of the prisoner for parole. This report may include but shall not be limited to data regarding the prisoner's previous delinquency or criminal experience, pertinent circumstances of his social background, his capabilities, his mental and physical health, and such other factors as may be considered pertinent. The Commission may make such other investigation as it may deem necessary.
 
-(e) Upon request of the Commission, it shall be the duty of the various probation officers and government bureaus and agencies to furnish the Commission information available to such officer, bureau, or agency, concerning any eligible prisoner or parolee and whenever not incompatible with the public interest, their views and recommendation with respect to any matter within the jurisdiction of the Commission.
+(e) Upon request of the Commission, it shall be the duty of the various probation officers and governmentbureaus and agencies to furnish the Commission information available to such officer, bureau, or agency, concerning any eligible prisoner or parolee and whenever not incompatible with the public interest, their views and recommendation with respect to any matter within the jurisdiction of the Commission.
 
 (f) Any prisoner sentenced to imprisonment for a term or terms of not less than six months but not more than one year shall be released at the expiration of such sentence less good time deductions provided by law, unless the court which imposed sentence, shall, at the time of sentencing, provide for the prisoner's release as if on parole after service of one-third of such term or terms notwithstanding the provisions of section 4164. This subsection shall not prevent delivery of any person released on parole to the authorities of any State otherwise entitled to his custody.
 
@@ -314,13 +314,13 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### References in Text
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
-Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are classified to sections 14135a and 14135b, respectively, of Title 42, The Public Health and Welfare.
+Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are sections 3 and 4 of Pub. L. 106–546, which are classified to sections 40702 and 40703, respectively, of Title 34, Crime Control and Law Enforcement.
 
 #### Codification
 
-Pub. L. 98–473, §§235(a)(1), 238(e), (i), and Pub. L. 98–596, §12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read as they had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§235(a)(1), 238(e), (i), and Pub. L. 98–596, §12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read asthey had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
 
 #### Effective Date of 1997 Amendment
 
@@ -334,7 +334,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (a) A parolee shall remain in the legal custody and under the control of the Attorney General, until the expiration of the maximum term or terms for which such parolee was sentenced.
 
-(b) Except as otherwise provided in this section, the jurisdiction of the Commission over the parolee shallterminate no later than the date of the expiration of the maximum term or terms for which he was sentenced, except that—
+(b) Except as otherwise provided in this section, the jurisdiction of the Commission over the parolee shall terminate no later than the date of the expiration of the maximum term or terms for which he was sentenced, except that—
 
 &emsp;(1) such jurisdiction shall terminate at an earlier date to the extent provided under section 4164 (relating to mandatory release) or section 4211 (relating to early termination of parole supervision), and
 
@@ -396,7 +396,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 (a)(1) Except as provided in subsections (b) and (c), any alleged parole violator summoned or retaken under section 4213 shall be accorded the opportunity to have—
 
-&emsp;(A) a preliminary hearing at or reasonably near the place of the alleged parole violation or arrest, without unnecessary delay, to determine if there is probable cause to believe that he has violated a condition of his parole; and upon a finding of probable cause a digest shall be prepared by the Commission setting forth in writing the factors considered and the reasons for the decision, a copy of which shall be given to the parolee within a reasonable period of time; except that after a finding of probable cause the Commission may restore any parolee to parole supervision if:
+&emsp;(A) a preliminary hearing at or reasonably near the place of the alleged parole violation or arrest, without unnecessary delay, to determine if there is probable cause to believe that he has violated a condition of his parole; and upon a finding of probable cause a digest shall be prepared by the Commission setting forth in writing the factors considered and the reasons for the decision, a copy of which shall be givento the parolee within a reasonable period of time; except that after a finding of probable cause the Commission may restore any parolee to parole supervision if:
 
 &emsp;&emsp;(i) continuation of revocation proceedings is not warranted; or
 

@@ -36,7 +36,7 @@ Proration.—If a member does not satisfy the eligibility requirements specified
 
 &emsp;&emsp;&emsp;(i) shall prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardousduty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
+&emsp;&emsp;&emsp;(ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
 
 &emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
@@ -66,11 +66,13 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2017.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2018.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(7), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(7), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(7), Dec. 23, 2016, 130 Stat. 2158.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(7), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(7), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(7), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(7), Dec. 12, 2017, 131 Stat. 1422.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2016</b>—Subsec. (h). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
@@ -82,7 +84,7 @@ Termination of Authority.—No hazardous duty pay under this section may be paid
 
 Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted "receipt of hazardous duty pay—" for "receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month." and added subpars. (A) and (B).
+<b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted "receipt of hazardous duty pay—" for "receipt of hazardous duty pay, the Secretary concerned mayprorate the payment amount to reflect the duration of the member's actual qualifying service during the month." and added subpars. (A) and (B).
 
 Subsec. (h). Pub. L. 112–81, §614(6), substituted "December 31, 2012" for "December 31, 2011".
 

@@ -54,7 +54,7 @@ In general.—Not later than 6 months after the date of enactment of this Act \[
 
 &emsp;"(2)
 
-Contents.—The study required by subsection (a) shall include an analysis of the advantages and disadvantages of further centralizing access to the information contained in the 2 systems, including—
+Contents.—The study required by subsection (a) shall include an analysis of the advantages anddisadvantages of further centralizing access to the information contained in the 2 systems, including—
 
 &emsp;&emsp;"(A) identification of those data pertinent to investors; and
 

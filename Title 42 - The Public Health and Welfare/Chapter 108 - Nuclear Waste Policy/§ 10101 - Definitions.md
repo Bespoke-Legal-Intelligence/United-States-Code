@@ -52,7 +52,7 @@ For purposes of this chapter:
 
 &emsp;(14) The term "Governor" means the chief executive officer of a State.
 
-&emsp;(15) The term "Indian tribe" means any Indian tribe, band, nation, or other organizedgroup or community of Indians recognized as eligible for the services provided to Indians by the Secretary of the Interior because of their status as Indians, including any Alaska Native village, as defined in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)).
+&emsp;(15) The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians recognized as eligible for the services provided to Indians by the Secretary of the Interior because of their status as Indians, including any Alaska Native village, as defined in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)).
 
 &emsp;(16) The term "low-level radioactive waste" means radioactive material that—
 
@@ -110,7 +110,7 @@ For purposes of this chapter:
 
 Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L. 97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
 
-The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Section 10156(c) of this title, referred to in par. (26), was in the original a reference to section 137(c) of Pub. L. 97–425, which is classified to section 10157(c) of this title, and has been translated as section 10156(c) of this title as the probable intent of Congress, in view of the Interim Storage Fund being established by section 10156(c) of this title.
 
@@ -120,7 +120,7 @@ Section 10156(c) of this title, referred to in par. (26), was in the original a 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121, and Pub. L. 100–203, title V, §5001, Dec. 22, 1987, 101 Stat. 1330–227, provided that: "This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the 'Nuclear Waste Policy Amendments Act of 1987'."
+Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121, and Pub. L. 100–203, title V,§5001, Dec. 22, 1987, 101 Stat. 1330–227, provided that: "This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the 'Nuclear Waste Policy Amendments Act of 1987'."
 
 #### Short Title
 

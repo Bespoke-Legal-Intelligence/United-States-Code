@@ -14,7 +14,7 @@ Section 276a–4, act June 28, 1935, ch. 322, §6, as added Pub. L. 95–45, §4
 
 #### Effective Date of Repeal
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(d), Oct. 21, 1998, 112 Stat. 2681–837, provided that: "UnlessCongress receives the certification described in subsection (a) \[set out below\] before October 1, 1999, effective on that date the Act entitled 'An Act to authorize participation by the United States in the Interparliamentary Union', approved June 28, 1935 (22 U.S.C. 276–276a–4) is repealed." \[The Secretary of State did not make the required certification.\]
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(d), Oct. 21, 1998, 112 Stat. 2681–837, provided that: "Unless Congress receives the certification described in subsection (a) \[set out below\] before October 1, 1999, effective on that date the Act entitled 'An Act to authorize participation by the United States in the Interparliamentary Union', approved June 28, 1935 (22 U.S.C. 276–276a–4) is repealed." \[The Secretary of State did not make the required certification.\]
 
 #### Termination of United States Membership in Bureau of Interparliamentary Union
 

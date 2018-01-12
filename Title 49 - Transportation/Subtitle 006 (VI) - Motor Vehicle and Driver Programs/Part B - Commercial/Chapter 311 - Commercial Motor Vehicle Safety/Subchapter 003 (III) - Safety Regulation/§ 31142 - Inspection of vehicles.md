@@ -6,7 +6,7 @@ Inspection of Safety Equipment.—On the instruction of an authorized enforcemen
 
 (b)
 
-Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles andretention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
+Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles and retention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
 
 (c)
 

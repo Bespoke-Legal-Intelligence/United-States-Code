@@ -60,7 +60,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 &emsp;"(3) 45 cents a mile for the use of a privately owned airplane;
 
-> instead of actual expenses of transportation when that mode of transportation is authorized or approved as more advantageous to the Government. A determination of such advantage is not required when payment on a mileage basis is limited to the cost of travel by common carrier including per diem. Notwithstanding the preceding provisions of this subsection, in any case in which an employee who is engaged on official business for the Government chooses to use a privately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
+> instead of actual expenses of transportation when that mode of transportation is authorized or approved as more advantageous to the Government. A determination of such advantage is not required when paymenton a mileage basis is limited to the cost of travel by common carrier including per diem. Notwithstanding the preceding provisions of this subsection, in any case in which an employee who is engaged on official business for the Government chooses to use a privately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
 
 "(b) In addition to the mileage allowance authorized under subsection (a) of this section, the employee may be reimbursed for—
 

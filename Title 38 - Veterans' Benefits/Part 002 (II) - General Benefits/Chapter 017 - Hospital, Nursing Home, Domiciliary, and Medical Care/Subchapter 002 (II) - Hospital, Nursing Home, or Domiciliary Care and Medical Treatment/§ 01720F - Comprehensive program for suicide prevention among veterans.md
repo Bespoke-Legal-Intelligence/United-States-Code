@@ -74,7 +74,7 @@ Peer Support Counseling Program.—(1) In carrying out the comprehensive program
 
 (2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
-(3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program underthis subsection at each Department medical center.
+(3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
 (k)
 

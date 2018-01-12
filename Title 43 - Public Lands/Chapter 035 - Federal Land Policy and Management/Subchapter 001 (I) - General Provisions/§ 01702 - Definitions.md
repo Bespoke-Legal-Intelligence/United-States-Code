@@ -24,7 +24,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 (i) The term "wilderness" as used in section 1782 of this title shall have the same meaning as it does in section 1131(c) of title 16.
 
-(j) The term "withdrawal" means withholding an area of Federal land from settlement, sale, location, or entry, under some or all of the general land laws, for the purpose of limiting activities under those laws in order to maintain other public values in the area or reserving the area for a particular public purpose or program; or transferring jurisdiction over an area of Federal land, other than "property" governed by the Federal Property and Administrative Services Act, as amended (40 U.S.C. 472) <sup>1</sup> from one department, bureau or agency to another department, bureau or agency.
+(j) The term "withdrawal" means withholding an area of Federal land from settlement, sale,location, or entry, under some or all of the general land laws, for the purpose of limiting activities under those laws in order to maintain other public values in the area or reserving the area for a particular public purpose or program; or transferring jurisdiction over an area of Federal land, other than "property" governed by the Federal Property and Administrative Services Act, as amended (40 U.S.C. 472) <sup>1</sup> from one department, bureau or agency to another department, bureau or agency.
 
 (k) An "allotment management plan" means a document prepared in consultation with the lessees or permittees involved, which applies to livestock operations on the public lands or on lands within National Forests in the eleven contiguous Western States and which:
 

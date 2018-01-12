@@ -38,7 +38,7 @@ The Secretary may award grants to—
 
 &emsp;(2) eligible applicants described under subsection (b)(1)(B), for a period of not more than 3 years, in order to—
 
-&emsp;&emsp;(A) directly administer education programs, including formula grant programs under this chapter, consistent with State law and under a written agreement between the parties;
+&emsp;&emsp;(A) directly administer education programs, including formula grant programs under this chapter, consistent with Statelaw and under a written agreement between the parties;
 
 &emsp;&emsp;(B) build capacity to administer and coordinate such education programs, and to improve the relationship and coordination between such applicants and the State educational agencies and local educational agencies that educate students from the tribe;
 
@@ -102,7 +102,7 @@ Section was classified to section 7455 of this title prior to renumbering by Pub
 
 #### Prior Provisions
 
-A prior section 7452, Pub. L. 89–10, title VI, §6132, formerly title VII, §7132, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1924; renumbered title VI, §6132, Pub. L. 114–95, title VI, §6001(a), (b)(1), Dec. 10, 2015, 129 Stat. 2046, related to in-service training for teachers of Indian children, prior to repeal by Pub. L.114–95, §5, title VI, §6002(n)(1), Dec. 10, 2015, 129 Stat. 1806, 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 7452, Pub. L. 89–10, title VI, §6132, formerly title VII, §7132, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1924; renumbered title VI, §6132, Pub. L. 114–95, title VI, §6001(a), (b)(1), Dec. 10, 2015, 129 Stat. 2046, related to in-service training for teachers of Indian children, prior to repeal by Pub. L. 114–95, §5, title VI, §6002(n)(1), Dec. 10, 2015, 129 Stat. 1806, 2057, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Another prior section 7452, Pub. L. 89–10, title VII, §7132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3729, related to research activities, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 

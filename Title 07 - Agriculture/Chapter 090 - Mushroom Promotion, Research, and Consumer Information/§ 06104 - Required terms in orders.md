@@ -24,7 +24,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (B) Units
 
-&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole Stateshall be considered as a unit and such units shall be organized into 3 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
+&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole State shall be considered as a unit and such units shall be organized into 3 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
 
 #### (C) Importers
 
@@ -112,7 +112,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (1) In general
 
-&emsp;To ensure efficient use of funds, the order shall provide that the Council may enter into contracts or agreements for the implementation and carrying out of plans or projects ofmushroom promotion, research, consumer information, or industry information, including contracts with producer organizations, and for the payment of the cost thereof with funds received by the Council under the order.
+&emsp;To ensure efficient use of funds, the order shall provide that the Council may enter into contracts or agreements for the implementation and carrying out of plans or projects of mushroom promotion, research, consumer information, or industry information, including contracts with producer organizations, and for the payment of the cost thereof with funds received by the Council under the order.
 
 #### (2) Requirements
 
@@ -198,7 +198,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this chapter, all information obtained under paragraph (1) shall be kept confidential by all officers and employees of the Department and the Council, and agents of the Council, and only such information so obtained as theSecretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
+&emsp;&emsp;Except as otherwise provided in this chapter, all information obtained under paragraph (1) shall be kept confidential by all officers and employees of the Department and the Council, and agents of the Council, and only such information so obtained as the Secretary considers relevant may be disclosed to the public by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order.
 
 #### (B) Limitations
 
@@ -234,7 +234,7 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

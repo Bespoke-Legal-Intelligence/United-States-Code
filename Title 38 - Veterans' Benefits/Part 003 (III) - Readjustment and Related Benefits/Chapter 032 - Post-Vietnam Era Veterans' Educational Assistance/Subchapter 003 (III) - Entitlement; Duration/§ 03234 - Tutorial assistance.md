@@ -1,6 +1,6 @@
 ### §3234. Tutorial assistance
 
-(a) An individual entitled to benefits under this chapter shall also be entitled to the benefits provided an eligible veteran under section 3492 of this title, subject to the conditions applicable to an eligible veteran under such section. Any amount paid to an individual under this section shall be in addition to the amount of other benefits paid under this chapter.
+(a) An individual entitled to benefits under this chapter shall also be entitled to the benefitsprovided an eligible veteran under section 3492 of this title, subject to the conditions applicable to an eligible veteran under such section. Any amount paid to an individual under this section shall be in addition to the amount of other benefits paid under this chapter.
 
 (b) An individual's period of entitlement to educational assistance under this chapter shall be charged only with respect to the amount of educational assistance paid to the individual under this section in excess of $600.
 
@@ -12,7 +12,7 @@
 
 &emsp;(2) in the case of payments to an individual for such benefits in excess of $600, from the fund from contributions made to the fund by the veteran and by the Secretary of Defense in the same proportion as these contributions are used to pay other educational assistance to the individual under this chapter.
 
-(Added Pub. L. 100–689, title I, §107(b)(1), Nov. 18, 1988, 102 Stat. 4168, §1634; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103Stat. 2092; renumbered §3234 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 100–689, title I, §107(b)(1), Nov. 18, 1988, 102 Stat. 4168, §1634; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3234 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

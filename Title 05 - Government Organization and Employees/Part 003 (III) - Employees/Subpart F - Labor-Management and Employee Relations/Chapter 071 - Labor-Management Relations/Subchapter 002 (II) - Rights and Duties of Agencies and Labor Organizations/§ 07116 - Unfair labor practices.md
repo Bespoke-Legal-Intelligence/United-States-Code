@@ -8,7 +8,7 @@
 
 &emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish, upon request, customary and routine services and facilities if the services and facilities are also furnished on an impartial basis to other labor organizations having equivalent status;
 
-&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint, affidavit, or petition, or has given any information or testimony under this chapter;
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee hasfiled a complaint, affidavit, or petition, or has given any information or testimony under this chapter;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with a labor organization as required by this chapter;
 

@@ -6,7 +6,7 @@ It is the sense of Congress that—
 
 &emsp;(1) providers of specialized financial messaging services are a critical link to the international financial system;
 
-&emsp;(2) the European Union is to be commended for strengthening the multilateral sanctionsregime against Iran by deciding that specialized financial messaging services may not be provided to the Central Bank of Iran and other sanctioned Iranian financial institutions by persons subject to the jurisdiction of the European Union; and
+&emsp;(2) the European Union is to be commended for strengthening the multilateral sanctions regime against Iran by deciding that specialized financial messaging services may not be provided to the Central Bank of Iran and other sanctioned Iranian financial institutions by persons subject to the jurisdiction of the European Union; and
 
 &emsp;(3) the loss of access by sanctioned Iranian financial institutions to specialized financial messaging services must be maintained.
 
@@ -64,5 +64,5 @@ Nothing in this section shall be construed to limit the authority of the Preside
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(1) and (d), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (d), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (d),is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 

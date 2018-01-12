@@ -36,7 +36,7 @@ Pub. L. 112–141, div. E, title II, §52011(b), July 6, 2012, 126 Stat. 895, pr
 
 &emsp;"(2) A reference to a section 111 provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding chapter 63 provision.
 
-&emsp;"(3) A regulation, order, or other administrative action in effect under a section 111 provision continuesin effect under the corresponding chapter 63 provision.
+&emsp;"(3) A regulation, order, or other administrative action in effect under a section 111 provision continues in effect under the corresponding chapter 63 provision.
 
 &emsp;"(4) An action taken or an offense committed under a section 111 provision is deemed to have been taken or committed under the corresponding chapter 63 provision."
 

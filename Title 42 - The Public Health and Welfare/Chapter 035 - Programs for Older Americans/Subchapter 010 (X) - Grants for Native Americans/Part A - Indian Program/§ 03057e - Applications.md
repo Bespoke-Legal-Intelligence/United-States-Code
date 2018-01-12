@@ -18,7 +18,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(7) provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
 
-&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case inwhich the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
 &emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
 
@@ -32,17 +32,17 @@ For the purpose of any application submitted under this part, the tribal organiz
 
 #### (c) Approval by Assistant Secretary
 
-(1) The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
+(1) The Assistant Secretary shall approve any application which complies with the provisions of subsection (a).
 
-(2) The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) of this section for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
+(2) The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
 
-(3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a) of this section, except that in determining whether an application complies with the requirements of subsection (a)(8) of this section, the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
+(3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a), except that in determining whether an application complies with the requirements of subsection (a)(8), the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
 
-(4) In determining whether an application complies with the requirements of subsection (a)(12) <sup>1</sup> of this section, the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
+(4) In determining whether an application complies with the requirements of subsection (a)(12),<sup>1</sup> the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
 
 #### (d) Disapproval by Assistant Secretary
 
-Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) of this section the Assistant Secretary shall—
+Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) the Assistant Secretary shall—
 
 &emsp;(1) state objections in writing to the tribal organization within 60 days after such decision;
 
@@ -58,7 +58,7 @@ Whenever the Assistant Secretary approves an application of a tribal organizatio
 
 #### References in Text
 
-Subsection (a)(12) of this section, referred to in subsec. (c)(4), was redesignated subsec. (a)(11) of this section by Pub. L. 106–501, title VIII, §801(d)(2), Nov. 13, 2000, 114 Stat. 2292.
+Subsection (a)(12), referred to in subsec. (c)(4), was redesignated subsec. (a)(11) of this section by Pub. L. 106–501, title VIII, §801(d)(2), Nov. 13, 2000, 114 Stat. 2292.
 
 #### Prior Provisions
 
@@ -95,6 +95,10 @@ Subsec. (a)(12). Pub. L. 102–375, §601, added par. (12).
 #### Effective Date of 1992 Amendment
 
 Amendment by section 601 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

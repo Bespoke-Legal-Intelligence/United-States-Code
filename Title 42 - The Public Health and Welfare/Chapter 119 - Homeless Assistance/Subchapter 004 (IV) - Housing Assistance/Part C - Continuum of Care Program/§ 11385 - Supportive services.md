@@ -24,7 +24,7 @@ Services provided pursuant to this section may be provided directly by the recip
 
 #### (2) Guidelines
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall jointly establish guidelines for determining the appropriateness of proposed outpatient health services under this section. Such guidelines shall include any provisions necessary to enable the Secretary of Housing and Urban Development to meet thetime limits under this part for the final selection of applications for assistance.
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall jointly establish guidelines for determining the appropriateness of proposed outpatient health services under this section. Such guidelines shall include any provisions necessary to enable the Secretary of Housing and Urban Development to meet the time limits under this part for the final selection of applications for assistance.
 
 (Pub. L. 100–77, title IV, §425, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4017.)
 

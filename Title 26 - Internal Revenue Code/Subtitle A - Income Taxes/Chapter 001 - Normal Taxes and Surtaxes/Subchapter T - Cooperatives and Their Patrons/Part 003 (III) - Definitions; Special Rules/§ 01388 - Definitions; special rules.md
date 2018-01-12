@@ -10,7 +10,7 @@ For purposes of this subchapter, the term "patronage dividend" means an amount p
 
 &emsp;(3) which is determined by reference to the net earnings of the organization from business done with or for its patrons.
 
-> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business donewith or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
+> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business done with or for patrons, or (B) such amount is out of earnings from business done with or for otherpatrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
 
 #### (b) Written notice of allocation
 
@@ -168,7 +168,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 #### (4) Patronage earnings or losses defined
 
-&emsp;For purposes of this subsection, the terms "patronage earnings" and "patronage losses" means earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
+&emsp;For purposes of this subsection, the terms "patronage earnings" and "patronage losses" means <sup>1</sup> earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 
 #### (k) Cooperative marketing includes value-added processing involving animals
 
@@ -247,4 +247,6 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Per-Unit Retain Certificates Covered by Written Agreements Between Oct. 14, 1965, and Nov. 13, 1966: Transition Treatment of By-Law Provisions
 
 Pub. L. 89–809, title II, §211(f), Nov. 13, 1966, 80 Stat. 1584, provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "mean".</i>
 

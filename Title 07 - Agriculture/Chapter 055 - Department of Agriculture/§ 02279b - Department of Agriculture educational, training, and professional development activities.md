@@ -88,7 +88,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (4) Duties of Director
 
-&emsp;The Director shall be responsible, subject to the supervision and direction of the Board, for carrying out the functions of the Graduate School.
+&emsp;The Director shall be responsible, subject to the supervision and direction of the Board, forcarrying out the functions of the Graduate School.
 
 #### (5) Borrowing and investment authority
 
@@ -170,7 +170,7 @@ Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided th
 
 #### Procurement Procedures
 
-Pub. L. 110–234, title XIV, §14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, §4(a), title XIV, §14213(b), June 18, 2008, 122 Stat. 1664, 2228, providedthat: "Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government."
+Pub. L. 110–234, title XIV, §14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, §4(a), title XIV, §14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: "Notwithstanding the amendments made by subsection (a) \[amending this section\], effective on the date of the enactment of this Act \[June 18, 2008\], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

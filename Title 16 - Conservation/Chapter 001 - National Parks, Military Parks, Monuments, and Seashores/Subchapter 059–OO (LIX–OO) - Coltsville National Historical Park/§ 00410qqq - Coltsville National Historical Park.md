@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;(A) the Secretary has acquired by donation sufficient land or an interest in land within the boundary of the park to constitute a manageable unit;
 
-&emsp;&emsp;(B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the East Armory which would include facilities for park administration and visitor services; and
+&emsp;&emsp;(B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the Colt Armory Complex which would include facilities for park administration and visitor services; and
 
 &emsp;&emsp;(C) the Secretary has entered into a written agreement with the State, city, or other public entity, as appropriate, providing that land owned by the State, city, or other public entity within the Coltsville Historic District shall be managed consistent with this section.
 
@@ -298,11 +298,11 @@ The Secretary may provide technical assistance and public interpretation of rela
 
 &emsp;&emsp;&emsp;If, based on a recommendation under clause (i), the Secretary determines that the Commission is still necessary, the Secretary may extend the life of the Commission for not more than 10 years.
 
-(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770.)
+(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770; Pub. L. 115–111, §1, Jan. 10, 2018, 131 Stat. 2273.)
 
 #### References in Text
 
-The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (f)(1)(B)(i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition offormer sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (f)(1)(B)(i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification ofthis Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (f)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
@@ -311,6 +311,10 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k)(9),
 #### Codification
 
 In subsec. (j)(1)(A), "section 100502 of title 54" substituted for "section 12(b) of Public Law 91–383 (commonly known as the 'National Park Service General Authorities Act') (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(B). Pub. L. 115–111 substituted "Colt Armory Complex" for "East Armory".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

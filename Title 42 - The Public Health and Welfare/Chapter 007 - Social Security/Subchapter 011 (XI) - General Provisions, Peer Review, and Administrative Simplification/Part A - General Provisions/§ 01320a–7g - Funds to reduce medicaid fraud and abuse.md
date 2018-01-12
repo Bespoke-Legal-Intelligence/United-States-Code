@@ -12,7 +12,7 @@ For purposes of reducing fraud and abuse in the Medicaid program under title XIX
 
 #### (2) Annual report
 
-Not later than September 30 of 2009 and of each subsequent year, the Inspector General of the Department of Health and Human Services shall submit to the Committees on Energy and Commerce and Appropriations of the House of Representatives and the Committees on Financeand Appropriations of the Senate a report on the activities (and the results of such activities) funded under paragraph (1) to reduce waste, fraud, and abuse in the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] during the previous 12 month period, including the amount of funds appropriated under such paragraph for each such activity and an estimate of the savings to the Medicaid program resulting from each such activity.
+Not later than September 30 of 2009 and of each subsequent year, the Inspector General of the Department of Health and Human Services shall submit to the Committees on Energy and Commerce and Appropriations of the House of Representatives and the Committees on Finance and Appropriations of the Senate a report on the activities (and the results of such activities) funded under paragraph (1) to reduce waste, fraud, and abuse in the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] during the previous 12 month period, including the amount of funds appropriated under such paragraph for each such activity and an estimate of the savings to the Medicaid program resulting from each such activity.
 
 (Pub. L. 110–252, title VII, §7001(b), June 30, 2008, 122 Stat. 2389.)
 

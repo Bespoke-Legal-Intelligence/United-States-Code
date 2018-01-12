@@ -68,3 +68,7 @@ Subsec. (a)(2)(B) to (D). Pub. L. 111–281, §913(d)(2), inserted "or" at end o
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324 struck out "31328 or" before "31329" in pars. (1) to (3).
 
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
+

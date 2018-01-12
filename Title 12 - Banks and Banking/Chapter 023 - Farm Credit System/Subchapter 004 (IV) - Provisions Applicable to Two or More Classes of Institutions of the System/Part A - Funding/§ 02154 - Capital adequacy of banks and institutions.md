@@ -14,7 +14,7 @@ The Farm Credit Administration shall cause System institutions to achieve and ma
 
 #### (c) Enhancement of capital adequacy of banks
 
-Each bank shall have on hand at the time of issuance of any note, bond, debenture, or othersimilar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
+Each bank shall have on hand at the time of issuance of any note, bond, debenture, or other similar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
 
 (Pub. L. 92–181, title IV, §4.3, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, §101(3), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title III, §304, title VIII, §§804(a)(3), 805(q), Jan. 6, 1988, 101 Stat. 1621, 1715, 1716; Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006.)
 
@@ -50,7 +50,7 @@ In general.—
 
 &emsp;"(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;"(B)
 

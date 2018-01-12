@@ -54,7 +54,7 @@ Certification Required.—
 
 Operations in which the united states is not participating.—The Secretary of Defense may provide support under subsection (a) to a friendly foreign country with respect to an operation in which the United States is not participating only—
 
-&emsp;&emsp;(A) if the Secretary of Defense and the Secretary of State jointly certify to the appropriate committees of Congress that the operation is in the national security interests of the United States; and
+&emsp;&emsp;(A) if the Secretary of Defense and the Secretary of State jointly certify to the appropriate committees of Congress that theoperation is in the national security interests of the United States; and
 
 &emsp;&emsp;(B) after the expiration of the 15-day period beginning on the date of such certification.
 

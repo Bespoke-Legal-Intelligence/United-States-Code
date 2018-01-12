@@ -30,7 +30,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 #### (c) Valuation of property
 
-(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined for purposes of the tax imposed by such foreign country.
+(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined forpurposes of the tax imposed by such foreign country.
 
 (2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reduced by such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
 
@@ -74,7 +74,7 @@ Whenever the President finds that—
 
 &emsp;(3) it is in the public interest to allow the credit under subsection (a) in the case of citizens or subjects of such foreign country only if it allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death,
 
-> the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the UnitedStates resident in such foreign country at the time of death.
+> the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 107–16, title V, §532(c)(3), June 7, 2001, 115 Stat. 74.)
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2011 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act."
+Pub. L. 85–866, title I, §102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendments made by thissection (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2011 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act."
 

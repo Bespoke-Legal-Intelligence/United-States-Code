@@ -2,7 +2,7 @@
 
 #### (a) Exemption by Director of Central Intelligence Agency
 
-The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency from theprovisions of section 552 of title 5 (Freedom of Information Act) which require publication or disclosure, or search or review in connection therewith.
+The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency from the provisions of section 552 of title 5 (Freedom of Information Act) which require publication or disclosure, or search or review in connection therewith.
 
 #### (b) "Operational files" defined
 
@@ -50,11 +50,11 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(4)(A) when a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the Central Intelligence Agency shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in subsection (b) of this section; and
 
-&emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
+&emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central IntelligenceAgency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
 
 &emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 
-&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordancewith the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
+&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
 
 &emsp;(7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date
 
-Pub. L. 98–477, §4, Oct. 15, 1984, 98 Stat. 2212, provided that: "The amendments made by subsections (a) and (b) of section 2 \[enacting this subchapter and amending section 552a of Title 5, Government Organization and Employees\] shall be effective upon enactment of this Act \[Oct. 15, 1984\] and shall apply with respect to any requests for records, whether or not such request wasmade prior to such enactment, and shall apply to all civil actions not commenced prior to February 7, 1984."
+Pub. L. 98–477, §4, Oct. 15, 1984, 98 Stat. 2212, provided that: "The amendments made by subsections (a) and (b) of section 2 \[enacting this subchapter and amending section 552a of Title 5, Government Organization and Employees\] shall be effective upon enactment of this Act \[Oct. 15, 1984\] and shall apply with respect to any requests for records, whether or not such request was made prior to such enactment, and shall apply to all civil actions not commenced prior to February 7, 1984."
 

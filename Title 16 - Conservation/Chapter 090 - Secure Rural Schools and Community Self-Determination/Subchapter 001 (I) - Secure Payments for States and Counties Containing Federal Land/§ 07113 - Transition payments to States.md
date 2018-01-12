@@ -54,7 +54,7 @@ For purposes of this chapter, any payment made under subsection (b) shall be con
 
 #### References in Text
 
-Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of Pub. L. 106–393, which were set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893. See Prior Provisions notes set out below and under section 7112 of this title.
+Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of Pub. L. 106–393, which were set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat.3893. See Prior Provisions notes set out below and under section 7112 of this title.
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 

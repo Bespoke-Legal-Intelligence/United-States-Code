@@ -22,7 +22,7 @@
 
 &emsp;(C) 66 percent for fiscal year 1990 and each fiscal year thereafter.
 
-(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirementsspecified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
+(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
 (B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
@@ -76,7 +76,7 @@
 
 &emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwisepayable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements of section 654B of this title shall be considered a single failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during the fiscal year for purposes of this paragraph.
 
@@ -104,7 +104,7 @@
 
 #### (b) Estimate of amounts payable; installment payments
 
-(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
+(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in suchquarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
 (2) Subject to subsection (d), the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
@@ -136,7 +136,7 @@ The Secretary may make direct payments under this part to an Indian tribe or tri
 
 #### References in Text
 
-The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
+The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343. For complete classification of this Act to theCode, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 
 Section 658(b) of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), referred to in subsec. (e)(4), was in the original a reference to "section 458(b)", meaning section 458(b) of act of Aug. 14, 1935, as amended by section 5(a) of Pub. L. 98–378, which was classified to section 658(b) of this title. Pub. L. 105–200, title II, §201(f)(1), (2)(A), July 16, 1998, 112 Stat. 657, 658, repealed section 458 and renumbered section 458A of the act of Aug. 14, 1935, as section 458, which is classified to section 658a of this title.
 
@@ -246,7 +246,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 Pub. L. 100–485, title I, §112(b), Oct. 13, 1988, 102 Stat. 2350, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to laboratory costs incurred on or after October 1, 1988."
 
-Pub. L. 100–485, title I, §123(c), Oct. 13, 1988, 102 Stat. 2352, which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed byPub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
+Pub. L. 100–485, title I, §123(c), Oct. 13, 1988, 102 Stat. 2352, which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed by Pub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
 
 #### Effective Date of 1984 Amendment
 

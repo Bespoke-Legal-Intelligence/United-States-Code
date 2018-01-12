@@ -32,7 +32,7 @@ Nothing in this chapter or any other Act shall be construed as authorizing the C
 
 #### (1) Annual report
 
-&emsp;The Commission shall submit to the President and Congress at least one report annually that monitors Federal civil rights enforcement efforts in the United States.
+&emsp;The Commission shall submit to the President and Congress at least one report annuallythat monitors Federal civil rights enforcement efforts in the United States.
 
 #### (2) Other reports generally
 

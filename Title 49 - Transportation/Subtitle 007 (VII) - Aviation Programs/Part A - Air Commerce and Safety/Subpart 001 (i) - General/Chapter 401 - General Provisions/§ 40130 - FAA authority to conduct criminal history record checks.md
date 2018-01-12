@@ -6,9 +6,9 @@ Criminal History Background Checks.—
 
 &emsp;(1)
 
-Access to information.—The Administrator of the Federal Aviation Administration, for certification purposes of the Administration only, is authorized—
+Access to information.—The Administrator of the Federal Aviation Administration,for certification purposes of the Administration only, is authorized—
 
-&emsp;&emsp;(A) to conduct, in accordance with the established request process, a criminal history background check of an airman in the criminal repositories of the Federal Bureau of Investigation and States by submitting positive identification of the airman to a fingerprint-based repository in compliance with section 217 of the National Crime Prevention and Privacy Compact Act of 1998 (42 U.S.C. 14616); and
+&emsp;&emsp;(A) to conduct, in accordance with the established request process, a criminal history background check of an airman in the criminal repositories of the Federal Bureau of Investigation and States by submitting positive identification of the airman to a fingerprint-based repository in compliance with section 217 of the National Crime Prevention and Privacy Compact Act of 1998 (42 U.S.C. 14616); <sup>1</sup> and
 
 &emsp;&emsp;(B) to receive relevant criminal history record information regarding the airman checked.
 
@@ -29,4 +29,10 @@ Reimbursement.—The Administrator may collect reimbursement to process the fing
 Designated Employees.—The Administrator shall designate, by order, employees of the Administration who may carry out the authority described in subsection (a).
 
 (Added Pub. L. 112–95, title VIII, §802(a), Feb. 14, 2012, 126 Stat. 118.)
+
+#### References in Text
+
+Section 217 of the National Crime Prevention and Privacy Compact Act of 1998, referred to in subsec. (a)(1)(A), is section 217 of subtitle A of title II of Pub. L. 105–251, which was classified to section 14616 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40316 of Title 34, Crime Control and Law Enforcement.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

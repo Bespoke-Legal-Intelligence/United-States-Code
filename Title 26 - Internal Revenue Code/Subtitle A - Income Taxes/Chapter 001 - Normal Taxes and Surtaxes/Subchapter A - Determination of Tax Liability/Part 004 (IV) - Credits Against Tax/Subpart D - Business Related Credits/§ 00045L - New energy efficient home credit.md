@@ -54,7 +54,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 &emsp;(1) certified—
 
-&emsp;&emsp;(A) to have a level of annual heating and cooling energy consumption which is at least 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
+&emsp;&emsp;(A) to have a level of annual heating and cooling energy consumption which is atleast 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
 
 &emsp;&emsp;&emsp;(i) which is constructed in accordance with the standards of chapter 4 of the 2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006, and
 
@@ -74,7 +74,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 #### (1) Method of certification
 
-&emsp;A certification described in subsection (c) shall be made in accordance with guidanceprescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings.
+&emsp;A certification described in subsection (c) shall be made in accordance with guidance prescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings.
 
 #### (2) Form
 

@@ -128,7 +128,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### (3) Prescription of marks and notices
 
-&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with the Attorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, inorder to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
+&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with the Attorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
 
 #### (4) Definition
 

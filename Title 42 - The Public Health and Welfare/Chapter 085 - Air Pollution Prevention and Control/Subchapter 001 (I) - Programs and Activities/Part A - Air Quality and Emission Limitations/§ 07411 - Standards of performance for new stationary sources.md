@@ -32,13 +32,13 @@ For purposes of this section:
 
 (2) The Administrator may distinguish among classes, types, and sizes within categories of new sources for the purpose of establishing such standards.
 
-(3) The Administrator shall, from time to time, issue information on pollution controltechniques for categories of new sources and air pollutants subject to the provisions of this section.
+(3) The Administrator shall, from time to time, issue information on pollution control techniques for categories of new sources and air pollutants subject to the provisions of this section.
 
 (4) The provisions of this section shall apply to any new source owned or operated by the United States.
 
-(5) Except as otherwise authorized under subsection (h) of this section, nothing in this section shall be construed to require, or to authorize the Administrator to require, any new or modified source to install and operate any particular technological system of continuous emission reduction to comply with any new source standard of performance.
+(5) Except as otherwise authorized under subsection (h), nothing in this section shall be construed to require, or to authorize the Administrator to require, any new or modified source to install and operate any particular technological system of continuous emission reduction to comply with any new source standard of performance.
 
-(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i) and (ii) <sup>1</sup> of this section shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
+(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i) and (ii) <sup>1</sup> shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
 
 #### (c) State implementation and enforcement of standards of performance
 
@@ -64,7 +64,7 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (f) New source standards of performance
 
-(1) For those categories of major stationary sources that the Administrator listed under subsection (b)(1)(A) of this section before November 15, 1990, and for which regulations had not been proposed by the Administrator by November 15, 1990, the Administrator shall—
+(1) For those categories of major stationary sources that the Administrator listed under subsection (b)(1)(A) before November 15, 1990, and for which regulations had not been proposed by the Administrator by November 15, 1990, the Administrator shall—
 
 &emsp;(A) propose regulations establishing standards of performance for at least 25 percent of such categories of sources within 2 years after November 15, 1990;
 
@@ -84,11 +84,11 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (g) Revision of regulations
 
-(1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
+(1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
-(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health orwelfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
+(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
-(3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2) of this section, the Administrator shall revise the list under subsection (b)(1)(A) of this section to apply properly such criteria.
+(3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2), the Administrator shall revise the list under subsection (b)(1)(A) to apply properly such criteria.
 
 (4) Upon application of the Governor of a State showing that—
 
@@ -104,11 +104,11 @@ After the effective date of standards of performance promulgated under this sect
 
 &emsp;(B) grant such application and take the action required under this subsection.
 
-(6) Before taking any action required by subsection (f) of this section or by this subsection, the Administrator shall provide notice and opportunity for public hearing.
+(6) Before taking any action required by subsection (f) or by this subsection, the Administrator shall provide notice and opportunity for public hearing.
 
 #### (h) Design, equipment, work practice, or operational standard; alternative emission limitation
 
-(1) For purposes of this section, if in the judgment of the Administrator, it is not feasible to prescribe or enforce a standard of performance, he may instead promulgate a design, equipment, work practice, or operational standard, or combination thereof, which reflects the best technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated. In the event the Administrator promulgates a design or equipment standard under this subsection, he shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
+(1) For purposes of this section, if in the judgment of the Administrator, it is not feasible to prescribe or enforce a standard of performance, he may instead promulgate a design, equipment, work practice, or operational standard, or combination thereof, which reflects the best technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impactand energy requirements) the Administrator determines has been adequately demonstrated. In the event the Administrator promulgates a design or equipment standard under this subsection, he shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
 (2) For the purpose of this subsection, the phrase "not feasible to prescribe or enforce a standard of performance" means any situation in which the Administrator determines that (A) a pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State, or local law, or (B) the application of measurement methodology to a particular class of sources is not practicable due to technological or economic limitations.
 
@@ -116,7 +116,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (4) Any standard promulgated under paragraph (1) shall be promulgated in terms of standard of performance whenever it becomes feasible to promulgate and enforce such standard in such terms.
 
-(5) Any design, equipment, work practice, or operational standard, or any combination thereof, described in this subsection shall be treated as a standard of performance for purposes of the provisions of this chapter (other than the provisions of subsection (a) of this section and this subsection).
+(5) Any design, equipment, work practice, or operational standard, or any combination thereof, described in this subsection shall be treated as a standard of performance for purposes of the provisions of this chapter (other than the provisions of subsection (a) and this subsection).
 
 #### (i) Country elevators
 
@@ -130,7 +130,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
 
-&emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction ofthe Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
+&emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
 
 &emsp;(iv) the granting of such waiver is consistent with the requirements of subparagraph (C).
 
@@ -148,7 +148,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 (D) A waiver under this paragraph shall extend to the sooner of—
 
-&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital cost of the technological system or systems being used, or
+&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital costof the technological system or systems being used, or
 
 &emsp;(ii) the date on which the Administrator determines that such system has failed to—
 
@@ -254,7 +254,7 @@ Pub. L. 101–549, title IV, §403(b), (c), Nov. 15, 1990, 104 Stat. 2631, provi
 
 "(b)
 
-Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administratorshall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
+Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
 
 "(c)
 
@@ -274,57 +274,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Power Sector Carbon Pollution Standards
 
-Memorandum of President of the United States, June 25, 2013, 78 F.R. 39535, provided:
-
-Memorandum for the Administrator of the Environmental Protection Agency
-
-With every passing day, the urgency of addressing climate change intensifies. I made clear in my State of the Union address that my Administration is committed to reducing carbon pollution that causes climate change, preparing our communities for the consequences of climate change, and speeding the transition to more sustainable sources of energy.
-
-The Environmental Protection Agency (EPA) has already undertaken such action with regard to carbon pollution from the transportation sector, issuing Clean Air Act standards limiting the greenhouse gas emissions of new cars and light trucks through 2025 and heavy duty trucks through 2018. The EPA standards were promulgated in conjunction with the Department of Transportation, which, at the same time, established fuel efficiency standards for cars and trucks as part of a harmonized national program. Both agencies engaged constructively with auto manufacturers, labor unions, States, and other stakeholders, and the resulting standards have received broad support. These standards will reduce the Nation's carbon pollution and dependence on oil, and also lead to greater innovation, economic growth, and cost savings for American families.
-
-The United States now has the opportunity to address carbon pollution from the power sector, which produces nearly 40 percent of such pollution. As a country, we can continue our progress in reducing power plant pollution, thereby improving public health and protecting the environment, while supplying the reliable, affordable power needed for economic growth and advancing cleaner energy technologies, such as efficient natural gas, nuclear power, renewables such as wind and solar energy, and clean coal technology.
-
-Investments in these technologies will also strengthen our economy, as the clean and efficient production and use of electricity will ensure that it remains reliable and affordable for American businesses and families.
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reduce power plant carbon pollution, building on actions already underway in States and the power sector, I hereby direct the following:
-
-Section 1. <i>Flexible Carbon Pollution Standards for Power Plants</i>. (a) Carbon Pollution Standards for Future Power Plants. On April 13, 2012, the EPA published a Notice of Proposed Rulemaking entitled "Standards of Performance for Greenhouse Gas Emissions for New Stationary Sources: Electric Utility Generating Units," 77 Fed. Reg. 22392. In light of the information conveyed in more than two million comments on that proposal and ongoing developments in the industry, you have indicated EPA's intention to issue a new proposal. I therefore direct you to issue a new proposal by no later than September 20, 2013. I further direct you to issue a final rule in a timely fashion after considering all public comments, as appropriate.
-
-(b) <i>Carbon Pollution Regulation for Modified, Reconstructed, and Existing Power Plants</i>. To ensure continued progress in reducing harmful carbon pollution, I direct you to use your authority under sections 111(b) and 111(d) of the Clean Air Act to issue standards, regulations, or guidelines, as appropriate, that address carbon pollution from modified, reconstructed, and existing power plants and build on State efforts to move toward a cleaner power sector. In addition, I request that you:
-
-(i) issue proposed carbon pollution standards, regulations, or guidelines, as appropriate, for modified, reconstructed, and existing power plants by no later than June 1, 2014;
-
-(ii) issue final standards, regulations, or guidelines, as appropriate, for modified, reconstructed, and existing power plants by no later than June 1, 2015; and
-
-(iii) include in the guidelines addressing existing power plants a requirement that States submit to EPA the implementation plans required under section 111(d) of the Clean Air Act and its implementing regulations by no later than June 30, 2016.
-
-(c) <i>Development of Standards, Regulations, or Guidelines for Power Plants</i>. In developing standards, regulations, or guidelines pursuant to subsection (b) of this section, and consistent with Executive Orders 12866 of September 30, 1993, as amended, and 13563 of January 18, 2011, you shall ensure, to the greatest extent possible, that you:
-
-(i) launch this effort through direct engagement with States, as they will play a central role in establishingand implementing standards for existing power plants, and, at the same time, with leaders in the power sector, labor leaders, non-governmental organizations, other experts, tribal officials, other stakeholders, and members of the public, on issues informing the design of the program;
-
-(ii) consistent with achieving regulatory objectives and taking into account other relevant environmental regulations and policies that affect the power sector, tailor regulations and guidelines to reduce costs;
-
-(iii) develop approaches that allow the use of market-based instruments, performance standards, and other regulatory flexibilities;
-
-(iv) ensure that the standards enable continued reliance on a range of energy sources and technologies;
-
-(v) ensure that the standards are developed and implemented in a manner consistent with the continued provision of reliable and affordable electric power for consumers and businesses; and
-
-(vi) work with the Department of Energy and other Federal and State agencies to promote the reliable and affordable provision of electric power through the continued development and deployment of cleaner technologies and by increasing energy efficiency, including through stronger appliance efficiency standards and other measures.
-
-Sec. 2. <i>General Provisions</i>. (a) This memorandum shall be implemented consistent with applicable law, including international trade obligations, and subject to the availability of appropriations.
-
-(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to a department, agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(d) You are hereby authorized and directed to publish this memorandum in the Federal Register.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, June 25, 2013, 78 F.R. 39535, which related to carbon pollutionstandards for power plants, was revoked by Ex. Ord. No. 13783, §3(a)(ii), Mar. 28, 2017, 82 F.R. 16094, set out as a note under section 13201 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

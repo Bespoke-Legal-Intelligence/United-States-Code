@@ -388,7 +388,7 @@ Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, provided th
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act \[June 10, 2014\] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified.
+In General.—The Secretary \[of the Army\] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damagereduction projects that were constructed as of the date of enactment of this Act \[June 10, 2014\] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified.
 
 "(b)
 

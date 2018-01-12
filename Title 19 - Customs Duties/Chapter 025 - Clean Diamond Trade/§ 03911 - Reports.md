@@ -4,7 +4,7 @@
 
 Not later than 1 year after April 25, 2003, and every 12 months thereafter for such period as this chapter is in effect, the President shall transmit to the Congress a report—
 
-&emsp;(1) describing actions taken by countries that have exported rough diamonds to theUnited States during the preceding 12-month period to control the exportation of the diamonds through the Kimberley Process Certification Scheme;
+&emsp;(1) describing actions taken by countries that have exported rough diamonds to the United States during the preceding 12-month period to control the exportation of the diamonds through the Kimberley Process Certification Scheme;
 
 &emsp;(2) describing whether there is statistical information or other evidence that would indicate efforts to circumvent the Kimberley Process Certification Scheme, including cutting rough diamonds for the purpose of circumventing the Kimberley Process Certification Scheme;
 
@@ -17,6 +17,10 @@ Not later than 1 year after April 25, 2003, and every 12 months thereafter for s
 For each country identified in subsection (a)(3), the President, during such period as this chapter is in effect, shall, every 6 months after the initial report in which the country was identified, transmit to the Congress a report that explains what actions have been taken by the United States or such country since the previous report to ensure that diamonds the exportation of which was not controlled through the Kimberley Process Certification Scheme are not being imported from that country into the United States. The requirement to issue a semiannual report with respect to a country under this subsection shall remain in effect until such time as the country is controlling the importation and exportation of rough diamonds through the Kimberley Process Certification Scheme.
 
 (Pub. L. 108–19, §12, Apr. 25, 2003, 117 Stat. 636.)
+
+#### Effective Date
+
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 
 #### Delegation of Functions
 

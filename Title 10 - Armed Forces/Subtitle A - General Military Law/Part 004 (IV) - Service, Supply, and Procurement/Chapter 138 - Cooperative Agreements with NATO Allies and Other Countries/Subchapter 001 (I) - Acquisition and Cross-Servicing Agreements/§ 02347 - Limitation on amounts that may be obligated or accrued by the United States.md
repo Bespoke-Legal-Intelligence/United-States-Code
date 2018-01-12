@@ -1,6 +1,6 @@
 ### §2347. Limitation on amounts that may be obligated or accrued by the United States
 
-(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the UnitedStates is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies.
+(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies.
 
 (2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements, may not exceed $60,000,000 in any fiscal year, and of such amount not more than $20,000,000 in liabilities may be accrued for the acquisition of supplies. The $60,000,000 limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 99–661, §1104(d)(2), designated existing provisions as p
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title XII, §1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: "The amendments madeby subsection (a) \[amending this section\] shall take effect beginning with fiscal year 2007."
+Pub. L. 109–364, div. A, title XII, §1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect beginning with fiscal year 2007."
 
 #### Effective Date of 1994 Amendment
 

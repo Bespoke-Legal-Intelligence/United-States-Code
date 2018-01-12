@@ -66,7 +66,7 @@ Pub. L. 99–198, title XI, §1163, Dec. 23, 1985, 99 Stat. 1499, as amended by 
 
 "(b) Such sales shall be made through the Commodity Credit Corporation under existing authority available to the Secretary or the Commodity Credit Corporation.
 
-"(c) Through September 30, 1995, the Secretary shall report semiannually to the Committee on Agricultureof the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the volume of sales made under this section."
+"(c) Through September 30, 1995, the Secretary shall report semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the volume of sales made under this section."
 
 \[Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.\]
 

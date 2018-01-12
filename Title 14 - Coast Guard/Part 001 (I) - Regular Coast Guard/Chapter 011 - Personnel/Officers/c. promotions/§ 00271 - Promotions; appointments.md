@@ -56,7 +56,7 @@ Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 
 "(b) An officer who on the day before the effective date of this Act \[Jan. 4, 1983\] was serving on active duty in the grade of rear admiral and was receiving the basic pay of a rear admiral of the lower half shall after that date hold the permanent grade of commodore, but shall retain the title of rear admiral.
 
-"(c) An officer who on the day before the effective date of this Act \[Jan. 4, 1983\] was on an approved list of officers recommended for promotion to the grade of rear admiral shall, upon promotion, hold the grade of commodore with the title of rear admiral.
+"(c) An officer who on the day before the effective date of this Act \[Jan. 4, 1983\] was on an approved listof officers recommended for promotion to the grade of rear admiral shall, upon promotion, hold the grade of commodore with the title of rear admiral.
 
 "(d) An officer who on the day before the effective date of this Act \[Jan. 4, 1983\]—
 

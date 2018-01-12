@@ -40,7 +40,7 @@ In order to receive an allotment under section 7172 of this title for any fiscal
 
 &emsp;&emsp;(B) will require each eligible entity seeking such an award to submit a plan describing how the activities to be funded through the award will continue after funding under this part ends;
 
-&emsp;(9) contains an assurance that funds appropriated to carry out this part will be used tosupplement, and not supplant, other Federal, State, and local public funds expended to provide programs and activities authorized under this part and other similar programs;
+&emsp;(9) contains an assurance that funds appropriated to carry out this part will be used to supplement, and not supplant, other Federal, State, and local public funds expended to provide programs and activities authorized under this part and other similar programs;
 
 &emsp;(10) contains an assurance that the State educational agency will require eligible entities to describe in their applications under section 7174(b) of this title how the transportation needs of participating students will be addressed;
 

@@ -84,7 +84,7 @@ Review and Planning Requirements.—Within 90 days after the date on which an in
 
 &emsp;&emsp;(B) Information technology and telecommunications.
 
-&emsp;&emsp;(C) Support, including professional, administrative, and management.; <sup>1</sup>
+&emsp;&emsp;(C) Support, including professional, administrative, and management;
 
 &emsp;(2) ensure that—
 
@@ -124,7 +124,9 @@ Rule of Construction.—Nothing in this section shall be construed to authorize 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+&emsp;(1)
+
+Performance-based.—The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
 
 &emsp;(2)
 
@@ -136,17 +138,21 @@ Inherently governmental functions.—The term "inherently governmental functions
 
 &emsp;(4)
 
-Personal services contract.—The term "personal services contract" means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
+Personal services contract.—The term "personal services contract" means a contractunder which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-&emsp;(6) <sup>2</sup> The term "service acquisition portfolio groups" means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services (January 5, 2016) or successor guidance.
+&emsp;(5)
 
-&emsp;(7) The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts (as that term is defined in section 2330a(g)(5) of this title).
+Service acquisition portfolio groups.—The term "service acquisition portfolio groups" means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services (January 5, 2016) or successor guidance.
 
-&emsp;(5) <sup>3</sup>
+&emsp;(6)
+
+Staff augmentation contracts.—The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts (as that term is defined in section 2330a(g)(5) of this title).<sup>1</sup>
+
+&emsp;(7)
 
 Simplified acquisition threshold.—The term "simplified acquisition threshold" has the meaning given the term in section 134 of title 41.
 
-&emsp;(6) <sup>2</sup>
+&emsp;(8)
 
 Small business act definitions.—
 
@@ -154,13 +160,35 @@ Small business act definitions.—
 
 &emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600.)
 
-#### Codification
+#### References in Text
 
-Amendments by section 833(b)(2)(C)(ii) of Pub. L. 114–328, which were directed to be made to subsec. (j) of this section, were executed to subsec. (h) of this section to reflect the probable intent of Congress and the redesignation of subsec. (j) as (h) by section 812(d)(2) of Pub. L. 114–328. Section 833(b)(2)(C)(ii)(III) of Pub. L. 114–328, which directed the addition of pars. (5) and (6) at the end of such subsection, was executed after the amendment by section 812(g) of Pub. L. 114–328, which added pars. (6) and (7) at the end of subsec. (h).
+Section 2330a(g)(5) of this title, referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(1)(C). Pub. L. 115–91, §1081(a)(30)(A), struck out period before semicolon at end.
+
+Subsec. (h)(1). Pub. L. 115–91, §1081(a)(30)(B)(i), inserted heading.
+
+Subsec. (h)(2) to (4). Pub. L. 115–91, §1081(d)(6)(A), amended directory language of Pub. L. 114–328, §833(b)(2)(C)(ii). See 2016 Amendment notes below.
+
+Subsec. (h)(5). Pub. L. 115–91, §1081(a)(30)(B)(iii), inserted heading.
+
+Pub. L. 115–91, §1081(a)(30)(B)(ii), redesignated par. (6) defining "service acquisition portfolio groups" as (5). Former par. (5) redesignated (7).
+
+Pub. L. 115–91, §1081(d)(6)(A), amended directory language of Pub. L. 114–328, §833(b)(2)(C)(ii). See 2016 Amendment note below.
+
+Subsec. (h)(6). Pub. L. 115–91, §1081(a)(30)(B)(iv), inserted heading.
+
+Pub. L. 115–91, §1081(a)(30)(B)(ii), redesignated par. (7) as (6). Former par. (6) defining "service acquisition portfolio groups" redesignated (5) and former par. (6) relating to Small Business Act definitions redesignated (8).
+
+Pub. L. 115–91, §1081(d)(6)(A), amended directory language of Pub. L. 114–328, §833(b)(2)(C)(ii). See 2016 Amendment note below.
+
+Subsec. (h)(7). Pub. L. 115–91, §1081(a)(30)(B)(ii), redesignated par. (5) as (7). Former par. (7) redesignated (6).
+
+Subsec. (h)(8). Pub. L. 115–91, §1081(a)(30)(B)(ii), redesignated par. (6) relating to Small Business Act definitions as (8).
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §812(a), (b), substituted "in excess of $3,000,000" for "in excess of the simplified acquisition threshold" and ", for services in the following service acquisition portfolio groups:" for period at end and added pars. (1) to (4).
 
@@ -182,13 +210,13 @@ Subsec. (f). Pub. L. 114–328, §812(f), added subsec. (f). Former subsec. (f) 
 
 Subsecs. (g), (h). Pub. L. 114–328, §812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
 
-Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), redesignated par. (3) as (2) and struck out former par. (2). See Codification note above. Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled by socially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
+Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled by socially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
 
-Subsec. (h)(3), (4). Pub. L. 114–328, §833(b)(2)(C)(ii)(II), redesignated pars. (4) and (5) as (3) and (4), respectively. See Codification note above. Former par. (3) redesignated (2).
+Subsec. (h)(3), (4). Pub. L. 114–328, §833(b)(2)(C)(ii)(II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (h)(5). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), added par. (5). See Codification note above. Former par. (5) redesignated (4).
+Subsec. (h)(5). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, §1081(d)(6)(A), added par. (5). Former par. (5) redesignated (4).
 
-Subsec. (h)(6). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), added par. (6) relating to Small Business Act definitions. See Codification note above.
+Subsec. (h)(6). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, §1081(d)(6)(A), added par. (6) relating to Small Business Act definitions.
 
 Pub. L. 114–328, §812(g), added par. (6) defining "service acquisition portfolio groups".
 
@@ -198,7 +226,7 @@ Subsecs. (i), (j). Pub. L. 114–328, §812(d)(2), redesignated subsecs. (i) and
 
 <b>2013</b>—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out formersubpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
 
 Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted "(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)" after "pursuant to contracts for services" in introductory provisions.
 
@@ -217,6 +245,10 @@ Subsec. (f) to (h). Pub. L. 112–81, §936(c), added subsec. (f) and redesignat
 <b>2008</b>—Subsecs. (c) to (g). Pub. L. 110–181, §807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: "To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title."
 
 Subsec. (g)(3) to (5). Pub. L. 110–181, §807(a)(3), added pars. (3) to (5).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(6)(A) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Effective Date of 2008 Amendment
 
@@ -244,9 +276,5 @@ Guidance Required.—Not later than 270 days after the date of the enactment of 
 
 Definition of Personal Services Contract.—In this section, the term 'personal services contract' has the meaning given that term in section 2330a(g)(5) \[former 2330a(h)(5)\] of title 10, United States Code."
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. There are two pars. (6).</i>
-
-<i><sup>3</sup></i><i> See Codification note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

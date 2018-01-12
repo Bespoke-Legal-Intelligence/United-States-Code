@@ -234,7 +234,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in such manner, and containing such information as the eligible entity may require, including—
 
-&emsp;&emsp;(A) a description of the initiative the community organization carries out and plans to replicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
+&emsp;&emsp;(A) a description of the initiative the community organization carries out and plans toreplicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
 
 &emsp;&emsp;(B) data on the measurable outcomes the community organization has improved, and information on the measurable outcomes the community organization seeks to improve by replicating or expanding a proven initiative or supporting a new initiative, which shall be among the measurable outcomes that the eligible entity identified in the eligible entity's application, in accordance with subsection (g)(4)(C);
 
@@ -338,5 +338,5 @@ Section 12653n, Pub. L. 101–610, title I, §195N, as added Pub. L. 102–484, 
 
 #### Effective Date
 
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 

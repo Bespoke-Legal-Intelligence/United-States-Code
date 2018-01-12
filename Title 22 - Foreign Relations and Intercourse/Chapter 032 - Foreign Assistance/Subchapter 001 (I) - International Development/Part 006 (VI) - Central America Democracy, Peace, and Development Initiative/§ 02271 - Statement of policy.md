@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(F) the termination of extremist violence by both the left and the right as well as vigorous action to prosecute those guilty of crimes and the prosecution to the extent possible of past offenders.
 
-(2) The policy described in paragraph (1) should also promote equitable economic growth and development, including controlling the flight of capital and the effective use of foreign assistance and adhering to approved programsfor economic stabilization and fiscal responsibility. Finally, this policy should foster dialog and negotiations—
+(2) The policy described in paragraph (1) should also promote equitable economic growth and development, including controlling the flight of capital and the effective use of foreign assistance and adhering to approved programs for economic stabilization and fiscal responsibility. Finally, this policy should foster dialog and negotiations—
 
 &emsp;(A) to achieve peace based upon the objectives of democratization, reduction of armament, an end to subversion, and the withdrawal of foreign military forces and advisers; and
 

@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 1437aaa–3 of this title and the other requirements of this subchapter, which shall specify the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 1437aaa–3(b) of this title;
 
-&emsp;&emsp;(E) identification and description of the public housing project or projects involved, and a description of the composition of the tenants, including family size and income;
+&emsp;&emsp;(E) identification and description of the public housing project or projects involved,and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 

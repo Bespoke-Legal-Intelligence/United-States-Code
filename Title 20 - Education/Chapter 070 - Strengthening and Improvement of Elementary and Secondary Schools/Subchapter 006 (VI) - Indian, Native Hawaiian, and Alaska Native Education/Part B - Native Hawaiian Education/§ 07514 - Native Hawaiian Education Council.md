@@ -126,7 +126,7 @@ The Education Council shall use funds made available through a grant under subse
 
 #### (e) Use of funds for community consultations
 
-The Education Council shall use funds made available through the grant under subsection (a) to hold not less than 1 community consultation each year on each of the islands of Hawaii, Maui, Molokai, Lanai, Oahu, and Kauai, at which—
+The Education Council shall use funds made available through the grant under subsection (a) to hold not less than 1 community consultationeach year on each of the islands of Hawaii, Maui, Molokai, Lanai, Oahu, and Kauai, at which—
 
 &emsp;(1) not fewer than 3 members of the Education Council shall be in attendance;
 

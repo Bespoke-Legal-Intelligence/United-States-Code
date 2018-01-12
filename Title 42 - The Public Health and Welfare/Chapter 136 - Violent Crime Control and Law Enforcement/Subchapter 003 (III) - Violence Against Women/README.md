@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 13925 - Definitions and grant provisions](%C2%A7%2013925%20-%20Definitions%20and%20grant%20provisions.md)
+- [&sect; 13925 - Transferred](%C2%A7%2013925%20-%20Transferred.md)
 - [Part A - Safe Streets for Women](Part%20A%20-%20Safe%20Streets%20for%20Women/README.md)
 - [Part B - Safe Homes for Women](Part%20B%20-%20Safe%20Homes%20for%20Women/README.md)
 - [Part C - Civil Rights for Women](Part%20C%20-%20Civil%20Rights%20for%20Women/README.md)

@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(11) there is a national need to identify and encourage appropriate application of technology in all sectors of American economic activity in order to improve productivity;
 
-&emsp;(12) there is a national need to identify and encourage the development of social, economic, scientific, business, labor, and governmental contributions to improve productivity growth, and increased economic effectiveness in the public and private sectors of the UnitedStates; which objectives can best be accomplished through maximizing private sector and State and local development of such contributions;
+&emsp;(12) there is a national need to identify and encourage the development of social, economic, scientific, business, labor, and governmental contributions to improve productivity growth, and increased economic effectiveness in the public and private sectors of the United States; which objectives can best be accomplished through maximizing private sector and State and local development of such contributions;
 
 &emsp;(13) there is a national need to identify, study, and revise or eliminate the laws, regulations, policies, and procedures which adversely affect productivity growth and the efficient functioning of the economy;
 
@@ -50,7 +50,7 @@ Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduc
 
 #### Executive Order No. 12089
 
-Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the National Productivity Council and provided for its membership, functions, etc. was revoked by Ex. Ord. No. 12379, §16, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R.1055, which established the National Productivity Council and provided for its membership, functions, etc. was revoked by Ex. Ord. No. 12379, §16, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12332
 

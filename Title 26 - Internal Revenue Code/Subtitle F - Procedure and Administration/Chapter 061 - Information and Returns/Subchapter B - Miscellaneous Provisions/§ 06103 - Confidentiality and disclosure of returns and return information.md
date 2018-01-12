@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "State" means—
 
-&emsp;&emsp;&emsp;(i) any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands,
+&emsp;&emsp;&emsp;(i) any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands,
 
 &emsp;&emsp;&emsp;(ii) for purposes of subsections (a)(2), (b)(4), (d)(1), (h)(4), and (p), any municipality—
 
@@ -316,7 +316,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) Committees described in paragraph (1)
 
-&emsp;&emsp;Any committee described in paragraph (1) or the Chief of Staff of the Joint Committee on Taxation shall have the authority, acting directly, or by or through such examiners or agents as the chairman of such committee or such chief of staff may designate or appoint, to inspect returns and return information at such time and in such manner as may be determined by such chairman or chief of staff. Any return or return information obtained by or on behalf of such committee pursuant to the provisions of this subsection may be submitted by the committee to the Senate or the House of Representatives, or to both. The Joint Committee on Taxation may also submit such return or return information to any other committee described in paragraph (1), except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
+&emsp;&emsp;Any committee described in paragraph (1) or the Chief of Staff of the Joint Committee on Taxation shall have the authority, acting directly, or by or through such examiners or agents as the chairman of such committeeor such chief of staff may designate or appoint, to inspect returns and return information at such time and in such manner as may be determined by such chairman or chief of staff. Any return or return information obtained by or on behalf of such committee pursuant to the provisions of this subsection may be submitted by the committee to the Senate or the House of Representatives, or to both. The Joint Committee on Taxation may also submit such return or return information to any other committee described in paragraph (1), except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
 
 #### (B) Other committees
 
@@ -324,7 +324,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (5) Disclosure by whistleblower
 
-&emsp;Any person who otherwise has or had access to any return or return information under this section may disclose such return or return information to a committee referred to in paragraph (1) or any individual authorized to receive or inspect information under paragraph\(4)(A) if such person believes such return or return information may relate to possible misconduct, maladministration, or taxpayer abuse.
+&emsp;Any person who otherwise has or had access to any return or return information under this section may disclose such return or return information to a committee referred to in paragraph (1) or any individual authorized to receive or inspect information under paragraph (4)(A) if such person believes such return or return information may relate to possible misconduct, maladministration, or taxpayer abuse.
 
 #### (g) Disclosure to President and certain other persons
 
@@ -364,7 +364,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (5) Reporting requirements
 
-&emsp;Within 30 days after the close of each calendar quarter, the President and the head of any agency requesting returns and return information under this subsection shall each file a report with the Joint Committee on Taxation setting forth the taxpayers with respect to whom such requests were made during such quarter under this subsection, the returns or return information involved, and the reasons for such requests. The President shall not be required to report on any request for returns and return information pertaining to an individual who was an officer or employee of the executive branch of the Federal Government at the time such request was made. Reports filed pursuant to this paragraph shall not be disclosed unless the Joint Committee on Taxation determines that disclosure thereof (including identifying details) would be in the national interest. Such reports shall be maintained by the Joint Committee on Taxation for a period not exceeding 2 years unless, within such period, the Joint Committee on Taxation determines that a disclosure to the Congress is necessary.
+&emsp;Within 30 days after the close of each calendar quarter, the President and the head of any agency requesting returns and return information under this subsection shall each file a report with the Joint Committee on Taxation setting forth the taxpayers with respect to whom such requests were made during such quarter under this subsection, the returns or return information involved, and the reasonsfor such requests. The President shall not be required to report on any request for returns and return information pertaining to an individual who was an officer or employee of the executive branch of the Federal Government at the time such request was made. Reports filed pursuant to this paragraph shall not be disclosed unless the Joint Committee on Taxation determines that disclosure thereof (including identifying details) would be in the national interest. Such reports shall be maintained by the Joint Committee on Taxation for a period not exceeding 2 years unless, within such period, the Joint Committee on Taxation determines that a disclosure to the Congress is necessary.
 
 #### (h) Disclosure to certain Federal officers and employees for purposes of tax administration, etc.
 
@@ -466,11 +466,11 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (iii) Missing child
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "missing child" shall have the meaning given such term by section 403 of the Missing Children's Assistance Act (42 U.S.C. 5772).
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "missing child" shall have the meaning given such term by section 403 of the Missing Children's Assistance Act (42 U.S.C. 5772).<sup>1</sup>
 
 #### (iv) Exploited child
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "exploited child" means a minor with respect to whom there is reason to believe that a specified offense against a minor (as defined by section 111(7) of the Sex Offender Registration and Notification Act (42 U.S.C. 16911(7))) has or is occurring.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "exploited child" means a minor with respect to whom there is reason to believe that a specified offense against a minor (as defined by section 111(7) of the Sex Offender Registration and Notification Act (42 U.S.C. 16911(7))) <sup>1</sup> has or is occurring.
 
 #### (2) Disclosure of return information other than taxpayer return information for use in criminal investigations
 
@@ -542,7 +542,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) Returns and taxpayer return information
 
-&emsp;&emsp;Except as provided in subparagraph (C), any return or taxpayer return information obtained under paragraph (1) or (7)(C) may be disclosed in any judicial or administrative proceeding pertaining to enforcement of a specifically designated Federal criminal statute or related civil forfeiture (not involving tax administration) to which the United States or a Federal agency is a party—
+&emsp;&emsp;Except as provided in subparagraph (C), any return or taxpayer return informationobtained under paragraph (1) or (7)(C) may be disclosed in any judicial or administrative proceeding pertaining to enforcement of a specifically designated Federal criminal statute or related civil forfeiture (not involving tax administration) to which the United States or a Federal agency is a party—
 
 &emsp;&emsp;&emsp;(i) if the court finds that such return or taxpayer return information is probative of a matter in issue relevant in establishing the commission of a crime or the guilt or liability of a party, or
 
@@ -684,7 +684,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Nothing in this section shall prohibit any return or return information obtained under this title by any Federal agency (other than an agency referred to in subparagraph (A)) or by a Trustee as defined in the District of Columbia Retirement Protection Act of 1997, for use in any program or activity from being open to inspection by, or disclosure to, officers andemployees of the Government Accountability Office if such inspection or disclosure is—
+&emsp;&emsp;&emsp;Nothing in this section shall prohibit any return or return information obtained under this title by any Federal agency (other than an agency referred to in subparagraph (A)) or by a Trustee as defined in the District of Columbia Retirement Protection Act of 1997, for use in any program or activity from being open to inspection by, or disclosure to, officers and employees of the Government Accountability Office if such inspection or disclosure is—
 
 &emsp;&emsp;&emsp;&emsp;(I) for purposes of, and to the extent necessary in, making an audit authorized by law of such program or activity, and
 
@@ -742,7 +742,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (5) Department of Agriculture
 
-&emsp;Upon request in writing by the Secretary of Agriculture, the Secretary shall furnish such returns, or return information reflected thereon, as the Secretary may prescribe by regulation to officers and employees of the Department of Agriculture whose official duties require access to such returns or information forthe purpose of, but only to the extent necessary in, structuring, preparing, and conducting the census of agriculture pursuant to the Census of Agriculture Act of 1997 (Public Law 105–113).
+&emsp;Upon request in writing by the Secretary of Agriculture, the Secretary shall furnish such returns, or return information reflected thereon, as the Secretary may prescribe by regulation to officers and employees of the Department of Agriculture whose official duties require access to such returns or information for the purpose of, but only to the extent necessary in, structuring, preparing, and conducting the census of agriculture pursuant to the Census of Agriculture Act of 1997 (Public Law 105–113).
 
 #### (6) Congressional Budget Office
 
@@ -762,7 +762,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;The Secretary may, but only following approval by the Joint Committee on Taxation, disclose such return information or any other information with respect to any specific taxpayer to the extent necessary for tax administration purposes to correct a misstatement of fact published or disclosed with respect to such taxpayer's return or any transaction of the taxpayer with the Internal Revenue Service.
 
-#### (4) Disclosure of competent authority under income tax convention
+#### (4) Disclosure to competent authority under tax convention
 
 &emsp;A return or return information may be disclosed to a competent authority of a foreign government which has an income tax or gift and estate tax convention, or other convention or bilateral agreement relating to the exchange of tax information, with the United States but only to the extent provided in, and subject to the terms and conditions of, such convention or bilateral agreement.
 
@@ -772,7 +772,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (6) Disclosure by certain officers and employees for investigative purposes
 
-&emsp;An internal revenue officer or employee and an officer or employee of the Office of Treasury Inspector General for Tax Administration may, in connection with his official duties relating to any audit, collection activity, or civil or criminal tax investigation or any other offense under the internal revenue laws, disclose return information to the extent that such disclosure is necessary in obtaining information, which is not otherwise reasonably available, with respect to the correct determination of tax, liability for tax, or the amount to be collected or with respect to the enforcement of any other provision of this title. Such disclosures shall be made only in such situations and under such conditions as the Secretary may prescribe by regulation.
+&emsp;An internal revenue officer or employee and an officer or employee of the Office of Treasury Inspector General for Tax Administration may, in connection with his official duties relating to any audit, collection activity, or civil or criminal tax investigation or any other offense under the internal revenue laws, disclose return information to the extent that such disclosure is necessary in obtaining information, which is not otherwise reasonably available, with respect to the correct determination of tax, liability for tax, or the amount to be collected or with respect to theenforcement of any other provision of this title. Such disclosures shall be made only in such situations and under such conditions as the Secretary may prescribe by regulation.
 
 #### (7) Disclosure of excise tax registration information
 
@@ -862,7 +862,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;(A) taxes imposed by chapters 2, 21, and 24, to the Social Security Administration for purposes of its administration of the Social Security Act;
 
-&emsp;&emsp;(B) a plan to which part I of subchapter D of chapter 1 applies, to the Social SecurityAdministration for purposes of carrying out its responsibility under section 1131 of the Social Security Act, limited, however to return information described in section 6057(d); and
+&emsp;&emsp;(B) a plan to which part I of subchapter D of chapter 1 applies, to the Social Security Administration for purposes of carrying out its responsibility under section 1131 of the Social Security Act, limited, however to return information described in section 6057(d); and
 
 &emsp;&emsp;(C) taxes imposed by chapter 22, to the Railroad Retirement Board for purposes of its administration of the Railroad Retirement Act.
 
@@ -922,13 +922,13 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;&emsp;(i) The address and social security account number (or numbers) of such individual.
 
-&emsp;&emsp;&emsp;(ii) The amount of any reduction under section 6402(c) (relating to offset of past-due support against overpayments) in anyoverpayment otherwise payable to such individual.
+&emsp;&emsp;&emsp;(ii) The amount of any reduction under section 6402(c) (relating to offset of past-due support against overpayments) in any overpayment otherwise payable to such individual.
 
 #### (C) Restriction on disclosure
 
 &emsp;&emsp;Information may be disclosed under this paragraph only for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
 
-#### (7) Disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food and Nutrition Act of 2008 of 1977,<sup>1</sup> or title 38, United States Code, or certain housing assistance programs
+#### (7) Disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food and Nutrition Act of 2008 of 1977,<sup>2</sup> or title 38, United States Code, or certain housing assistance programs
 
 #### (A) Return information from Social Security Administration
 
@@ -1000,7 +1000,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) Return information from Internal Revenue Service
 
-&emsp;&emsp;The Secretary may, upon receiving a written request, disclose to officers and employees of any agency seeking a reduction under subsection (c), (d), (e), or (f) of section 6402, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) <sup>2</sup> of section 6402, and to officers and employees of the Department of the Treasury in connection with such reduction—
+&emsp;&emsp;The Secretary may, upon receiving a written request, disclose to officers and employees of any agency seeking a reduction under subsection (c), (d), (e), or (f) of section 6402, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) <sup>3</sup> of section 6402, and to officers and employees of the Department of the Treasury in connection with such reduction—
 
 &emsp;&emsp;&emsp;(i) taxpayer identity information with respect to the taxpayer against whom such a reduction was made or not made and with respect to any other person filing a joint return with such taxpayer,
 
@@ -1012,9 +1012,9 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;&emsp;(v) the fact that a payment was made (and the amount of the payment) to the spouse of the taxpayer on the basis of a joint return.
 
-#### (B)(i) <sup>3</sup> Restriction on use of disclosed information
+#### (B)(i) <sup>4</sup> Restriction on use of disclosed information
 
-&emsp;&emsp;Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
+&emsp;&emsp;Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which thereduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor's Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
 
@@ -1038,7 +1038,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;The Commissioner of Social Security shall, upon written request from the Administrator of the Centers for Medicare \& Medicaid Services, disclose to the Administrator the following information:
 
-&emsp;&emsp;&emsp;(i) The name and TIN of each medicare beneficiary who is identified as having received wages (as defined in section 3401(a)), above an amount (if any) specified by the Secretary of Health and Human Services,from a qualified employer in a previous year.
+&emsp;&emsp;&emsp;(i) The name and TIN of each medicare beneficiary who is identified as having received wages (as defined in section 3401(a)), above an amount (if any) specified by the Secretary of Health and Human Services, from a qualified employer in a previous year.
 
 &emsp;&emsp;&emsp;(ii) For each medicare beneficiary who was identified as married under subparagraph (A) and whose spouse is identified as having received wages, above an amount (if any) specified by the Secretary of Health and Human Services, from a qualified employer in a previous year—
 
@@ -1140,7 +1140,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;Upon written request available return information (including such information disclosed to the Social Security Administration under paragraph (1) or (5) of this subsection), relating to the amount of wage income (as defined in section 3121(a) or 3401(a)), the name, address, and identifying number assigned under section 6109, of payors of wage income, taxpayer identity (as defined in subsection <sup>4</sup> 6103(b)(6)), and the occupational status reflected on any return filed by, or with respect to, any individual with respect to whom eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997, is sought to be determined, shall be disclosed by the Commissioner of Social Security, or to the extent not available from the Social Security Administration, by the Secretary, to any duly authorized officer or employee of the Department of the Treasury, or a Trustee or any designated officer or employee of a Trustee (as defined in the District of Columbia Retirement Protection Act of 1997), or any actuary engaged by a Trustee under the terms of the District of Columbia Retirement Protection Act of 1997, whose official duties require such disclosure, solely for the purpose of, and to the extent necessary in, determining an individual's eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997.
+&emsp;&emsp;Upon written request available return information (including such information disclosed to the Social Security Administration under paragraph (1) or (5) of this subsection), relating to the amount of wage income (as defined in section 3121(a) or 3401(a)), the name, address, and identifying number assigned under section 6109, of payors of wage income, taxpayer identity (as defined in subsection <sup>5</sup> 6103(b)(6)), and the occupational status reflected on any return filed by, or with respect to, any individual with respect to whom eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997, is sought to be determined, shall be disclosed by the Commissioner of Social Security, or to the extent not available from the Social Security Administration, by the Secretary, to any duly authorized officer or employee of the Department of the Treasury, or a Trustee or any designated officer or employee of a Trustee (as defined in the District of Columbia Retirement Protection Act of 1997), or any actuary engaged by a Trustee under the terms of the District of Columbia Retirement Protection Act of 1997, whose official duties require such disclosure, solely for the purpose of, and to the extent necessary in, determining an individual's eligibility for, or the correct amount of, benefits under the District of Columbia Retirement Protection Act of 1997.
 
 #### (B) Disclosure for use in judicial or administrative proceedings
 
@@ -1160,7 +1160,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;The Secretary, upon written request from the Secretary of Health and Human Services pursuant to carrying out section 1860D–31 of the Social Security Act, shall disclose to officers, employees, and contractors of the Department of Health and Human Services with respect to a taxpayer for the applicable year—
 
-&emsp;&emsp;&emsp;(i)(I) whether the adjusted gross income, as modified in accordance with specifications of the Secretary of Health and Human Services for purposes of carrying out such section, of such taxpayer and, if applicable, such taxpayer's spouse, for the applicable year, exceeds the amounts specified by the Secretary of Health and Human Services in order to apply the 100and 135 percent of the poverty lines under such section, (II) whether the return was a joint return, and (III) the applicable year, or
+&emsp;&emsp;&emsp;(i)(I) whether the adjusted gross income, as modified in accordance with specifications of the Secretary of Health and Human Services for purposes of carrying out such section, of such taxpayer and, if applicable, such taxpayer's spouse, for the applicable year, exceeds the amounts specified by the Secretary of Health and Human Services in order to apply the 100 and 135 percent of the poverty lines under such section, (II) whether the return was a joint return, and (III) the applicable year, or
 
 &emsp;&emsp;&emsp;(ii) if applicable, the fact that there is no return filed for such taxpayer for the applicable year.
 
@@ -1216,7 +1216,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, upon written request from the Secretary of Health and Human Services, shall disclose to officers, employees, and contractors of the Department of Health and Human Services return information of any taxpayer whose income is relevant in determining any premium tax credit under section 36B or any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act or eligibility for participation in a State medicaid program under title XIX of the Social Security Act, aState's children's health insurance program under title XXI of the Social Security Act, or a basic health program under section 1331 of Patient Protection and Affordable Care Act. Such return information shall be limited to—
+&emsp;&emsp;The Secretary, upon written request from the Secretary of Health and Human Services, shall disclose to officers, employees, and contractors of the Department of Health and Human Services return information of any taxpayer whose income is relevant in determining any premium tax credit under section 36B or any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act or eligibility for participation in a State medicaid program under title XIX of the Social Security Act, a State's children's health insurance program under title XXI of the Social Security Act, or a basic health program under section 1331 of Patient Protection and Affordable Care Act. Such return information shall be limited to—
 
 &emsp;&emsp;&emsp;(i) taxpayer identity information with respect to such taxpayer,
 
@@ -1312,15 +1312,15 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;Upon written request by the Secretary of Health and Human Services, the Secretary may disclose the mailing address of any taxpayer who has defaulted on a loan made under part C <sup>5</sup> of title VII of the Public Health Service Act or under subpart II of part B of title VIII of such Act, for use only by officers, employees, or agents of the Department of Health and Human Services for purposes of locating such taxpayer for purposes of collecting such loan.
+&emsp;&emsp;Upon written request by the Secretary of Health and Human Services, the Secretary may disclose the mailing address of any taxpayer who has defaulted on a loan made under part C <sup>1</sup> of title VII of the Public Health Service Act or under subpart II of part B of title VIII of such Act, for use only by officers, employees, or agents of the Department of Health and Human Services for purposes of locating such taxpayer for purposes of collecting such loan.
 
 #### (B) Disclosure to schools and eligible lenders
 
 &emsp;&emsp;Any mailing address disclosed under subparagraph (A) may be disclosed by the Secretary of Health and Human Services to—
 
-&emsp;&emsp;&emsp;(i) any school with which the Secretary of Health and Human Services has an agreement under subpart II <sup>5</sup> of part C of title VII of the Public Health Service Act or subpart II <sup>5</sup> of part B of title VIII of such Act, or
+&emsp;&emsp;&emsp;(i) any school with which the Secretary of Health and Human Services has an agreement under subpart II <sup>1</sup> of part C of title VII of the Public Health Service Act or subpart II <sup>1</sup> of part B of title VIII of such Act, or
 
-&emsp;&emsp;&emsp;(ii) any eligible lender (within the meaning of section 737(4) <sup>5</sup> of such Act) participating under subpart I <sup>5</sup> of part C of title VII of such Act,
+&emsp;&emsp;&emsp;(ii) any eligible lender (within the meaning of section 737(4) <sup>1</sup> of such Act) participating under subpart I <sup>1</sup> of part C of title VII of such Act,
 
 > &emsp;&emsp;for use only by officers, employees, or agents of such school or eligible lender whose duties relate to the collection of student loans for purposes of locating individuals who have defaulted on student loans made under such subparts for the purposes of collecting such loans.
 
@@ -1380,7 +1380,7 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 #### (C) Use of reproductions
 
-&emsp;&emsp;Any reproduction of any return, document, or other matter made in accordance with this paragraph shall have the same legal status as the original, and any such reproduction shall, if properly authenticated, be admissible in evidence in any judicial or administrative proceeding as if it were the original, whether or not the original is in existence.
+&emsp;&emsp;Any reproduction of any return, document, or other matter made in accordance with this paragraph shall have the same legal status as the original, and any such reproduction shall, if properly authenticated, beadmissible in evidence in any judicial or administrative proceeding as if it were the original, whether or not the original is in existence.
 
 #### (3) Records of inspection and disclosure
 
@@ -1390,7 +1390,7 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 #### (B) Report by the Secretary
 
-&emsp;&emsp;The Secretary shall, within 90 days after the close of each calendar year, furnish to the Joint Committee on Taxation a report with respect to, or summary of, the records or accountings described in subparagraph (A) in such form and containing such information as such joint committee or the Chief of Staff of such joint committee may designate. Such report or summary shall not, however, include a record or accounting of any request by the President under subsection (g) for, or the disclosure in response to such request of, any return or return information with respect to any individual who, at the time of such request, was an officer or employee of the executive branch of the Federal Government. Such report or summary, or any part thereof, may be disclosed by such joint committee to such persons and for such purposes as the joint committee may, by record vote of a majority ofthe members of the joint committee, determine.
+&emsp;&emsp;The Secretary shall, within 90 days after the close of each calendar year, furnish to the Joint Committee on Taxation a report with respect to, or summary of, the records or accountings described in subparagraph (A) in such form and containing such information as such joint committee or the Chief of Staff of such joint committee may designate. Such report or summary shall not, however, include a record or accounting of any request by the President under subsection (g) for, or the disclosure in response to such request of, any return or return information with respect to any individual who, at the time of such request, was an officer or employee of the executive branch of the Federal Government. Such report or summary, or any part thereof, may be disclosed by such joint committee to such persons and for such purposes as the joint committee may, by record vote of a majority of the members of the joint committee, determine.
 
 #### (C) Public report on disclosures
 
@@ -1422,7 +1422,7 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 &emsp;&emsp;(F) upon completion of use of such returns or return information—
 
-&emsp;&emsp;&emsp;(i) in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
+&emsp;&emsp;&emsp;(i) in the case of an agency, body, or commission described in subsection (d),\(i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
 
 &emsp;&emsp;&emsp;(ii) in the case of an agency described in subsections <sup>6</sup> (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), (l)(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or (o)(1)(A) or any entity described in subsection (l)(21),,,<sup>9</sup> the Government Accountability Office, or the Congressional Budget Office, either—
 
@@ -1434,7 +1434,7 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 &emsp;&emsp;&emsp;(iii) in the case of the Department of Health and Human Services for purposes of subsection (m)(6), destroy all such return information upon completion of its use in providing the notification for which the information was obtained, so as to make such information undisclosable;
 
-> &emsp;except that the conditions of subparagraphs (A), (B), (C), (D), and (E) shall cease to apply with respect to any return or return information if, and to the extent that, such return or return information is disclosed in the course of any judicial or administrative proceeding and made a part of the public record thereof. If the Secretary determines that any such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) or any entity described in subsection (l)(21),,<sup>9</sup> or the Government Accountability Office or the Congressional Budget Office, has failed to, or does not, meet the requirements of this paragraph, he may, after any proceedings for review established under paragraph (7), take such actions as are necessary to ensure such requirements are met, including refusing to disclose returnsor return information to such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) or any entity described in subsection (l)(21),,<sup>9</sup> or the Government Accountability Office or the Congressional Budget Office, until he determines that such requirements have been or will be met. In the case of any agency which receives any mailing address under paragraph (2), (4), (6), or (7) of subsection (m) and which discloses any such mailing address to any agent or which receives any information under paragraph (6)(A), (10), (12)(B), or (16) of subsection (l) and which discloses any such information to any agent, or any person including an agent described in subsection (l)(10) or (16), this paragraph shall apply to such agency and each such agent or other person (except that, in the case of an agent, or any person including an agent described in subsection (l)(10) or (16), any report to the Secretary or other action with respect to the Secretary shall be made or taken through such agency). For purposes of applying this paragraph in any case to which subsection (m)(6) applies, the term "return information" includes related blood donor records (as defined in section 1141(h)(2) of the Social Security Act).
+> &emsp;except that the conditions of subparagraphs (A), (B), (C), (D), and (E) shall cease to apply with respect to any return or return information if, and to the extent that, such return or return information is disclosed in the course of any judicial or administrative proceeding and made a part of the public record thereof. If the Secretary determines that any such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) or any entity described in subsection (l)(21),,<sup>9</sup> or the Government Accountability Office or the Congressional Budget Office, has failed to, or does not, meet the requirements of this paragraph, he may, after any proceedings for review established under paragraph (7), take such actions as are necessary to ensure such requirements are met, including refusing to disclose returns or return information to such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) or any entity described in subsection (l)(21),,<sup>9</sup> or the Government Accountability Office or the Congressional Budget Office, until he determines that such requirements have been or will be met. In the case of any agency which receives any mailing address under paragraph (2), (4), (6), or (7) of subsection (m) and which discloses any such mailing address to any agent or which receives any information under paragraph (6)(A), (10), (12)(B), or (16) of subsection (l) and which discloses any such information to any agent, or any person including an agent described in subsection (l)(10) or (16), this paragraph shall apply to such agency and each such agent or other person (except that, in the case of an agent, or any person including an agent described in subsection (l)(10) or (16), any report to the Secretary or other action with respect to the Secretary shall be made or taken through such agency). For purposes of applying this paragraph in any case to which subsection (m)(6) applies, the term "return information" includes related blood donor records (as defined in section 1141(h)(2) of the Social Security Act).
 
 #### (5) Report on procedures and safeguards
 
@@ -1474,11 +1474,15 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 The Secretary is authorized to prescribe such other regulations as are necessary to carry out the provisions of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 753; Pub. L. 88–563, §3(c), Sept. 2, 1964, 78 Stat. 844; Pub. L. 89–44, title VI, §601(a), June 21, 1965, 79 Stat. 153; Pub. L. 89–713, §4(a), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 93–406, title II, §1022(h), Sept. 2, 1974, 88 Stat. 941; Pub. L. 94–202, §8(g), Jan. 2, 1976, 89 Stat. 1139; Pub. L. 94–455, title XII, §1202(a)(1), Oct. 4, 1976, 90 Stat. 1667; Pub. L. 95–210, §5, Dec. 13, 1977, 91 Stat. 1491; Pub. L. 95–600, title V, §503, title VII, §701(bb)(1)(A), (B), (2)–(5), Nov. 6, 1978, 92 Stat. 2879, 2921–2923; Pub. L. 96–249, title I, §127(a)(1), (2)(A)–(C), May 26, 1980, 94 Stat. 365, 366, as amended Pub. L. 96–611, §11(a)(1), Dec. 28, 1980, 94 Stat. 3573, and Pub. L. 98–369, div. A, title IV, §453(b)(5), July 18, 1984, 98 Stat. 820; Pub. L. 96–265, title IV, §408(a)–(2)(C), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(A)–(B)(iii), Dec. 28, 1980, 94 Stat. 3573;Pub. L. 96–499, title III, §302(a), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–589, §3(c), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 96–598, §3(a), Dec. 24, 1980, 94 Stat. 3487; Pub. L. 97–34, title VII, §701(a), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §§356(a), (b)(1), 358(a), (b), Sept. 3, 1982, 96 Stat. 641, 645, 646, 648; Pub. L. 97–258, §3(f)(4)–(6), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–365, §§7(a), (b), 8(a)–(c)(1), Oct. 25, 1982, 96 Stat. 1752–1754; Pub. L. 97–452, §2(c)(4), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–21, title I, §121(c)(3)(A), (B), Apr. 20, 1983, 97 Stat. 83; Pub. L. 98–369, div. A, title IV, §§449(a), 453(a)–(b)(3), (6), div. B, title VI, §§2651(k), 2653(b)(3), 2663(j)(5)(E), July 18, 1984, 98 Stat. 818, 820, 1150, 1155, 1171; Pub. L. 98–378, §§19(b), 21(f)(1)–(4), Aug. 16, 1984, 98 Stat. 1322, 1325, 1326; Pub. L. 99–92, §8(h), Aug. 16, 1985, 99 Stat. 399; Pub. L. 99–335, title III, §310(a), (b), June 6, 1986, 100 Stat. 607, 608; Pub. L. 99–386, title II, §206(b), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–514, title XIV, §1411(b), title XV, §1568(a), title XVIII, §1899A(53), Oct. 22, 1986, 100 Stat. 2715, 2764, 2961; Pub. L. 100–485, title VII, §701(b)(1), (2)(A), (B), Oct. 13, 1988, 102 Stat. 2425, 2426; Pub. L. 100–647, title I, §§1012(bb)(3)(A), (B), 1014(e)(4), title VI, §6251, title VIII, §8008(c)(1), (2)(A), Nov. 10, 1988, 102 Stat. 3534, 3561, 3752, 3786, 3787; Pub. L. 100–690, title VII, §§7601(b)(1), (2), 7602(c), (d)(2), Nov. 18, 1988, 102 Stat. 4504, 4508; Pub. L. 101–239, title VI, §6202(a)(1)(A), (B), title VII, §7841(d)(1), Dec. 19, 1989, 103 Stat. 2226, 2227, 2428; Pub. L. 101–508, title IV, §4203(a)(2), title V, §5111(b)(1), (2), title VIII, §8051(a), title XI, §§11101(d)(6), 11212(b)(3), 11313(a), Nov. 5, 1990, 104 Stat. 1388–107, 1388–272, 1388–273, 1388–349, 1388–405, 1388–431, 1388–455; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–568, title VI, §602(b), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XIII, §§13401(a), 13402(a), (b), 13403(a), (b), 13444(a), 13561(a)(2), (e)(2)(B), Aug. 10, 1993, 107 Stat. 563–565, 570, 593, 595; Pub. L. 103–182, title V, §522(a), (b), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–296, title I, §108(h)(6), title III, §311(b), Aug. 15, 1994, 108 Stat. 1487, 1525; Pub. L. 104–134, title III, §31001(g)(2), (i)(2), Apr. 26, 1996, 110 Stat. 1321–363, 1321–364; Pub. L. 104–168, title IV, §403(a), title IX, §902(a), title XII, §§1206(a)–(b)(4), 1207, July 30, 1996, 110 Stat. 1459, 1466, 1472, 1473; Pub. L. 104–188, title I, §1704(t)(41), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 104–193, title I, §110(l)(2), formerly (l)(3), (l)(4), (5), title III, §316(g)(4), Aug. 22, 1996, 110 Stat. 2173, 2219, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–33, title IV, §4631(c)(2), title V, §5514(a)(1), title XI, §11024(b)(1)–(7), Aug. 5, 1997, 111 Stat. 486, 620, 721, 722; Pub. L. 105–34, title IX, §976(c), title X, §§1023(a), 1026(a), (b)(1), title XII, §§1201(b)(2), 1205(c)(1), (3), 1283(a), (b), Aug. 5, 1997, 111 Stat. 899, 923–925, 994, 998, 1038; Pub. L. 105–65, title V, §542(b), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 105–206, title I, §1101(b), title III, §§3702(a), (b), 3708(a), 3711(b), title VI, §§6007(f)(4), 6009(d), 6012(b)(2), (4), 6019(c), 6023(22), July 22, 1998, 112 Stat. 696, 776–778, 781, 810, 812, 819, 823, 826; Pub. L. 105–277, div. J, title I, §1006, title IV, §§4002(a), (h), 4006(a)(1), (2), Oct. 21, 1998, 112 Stat. 2681–900, 2681–906, 2681–907, 2681–912; Pub. L. 106–170, title V, §521(a)(1), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(a), 310(a), 313(c), 319(8)(B),(17)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, 2763A–638, 2763A–643, 2763A–646, 2763A–647; Pub. L. 107–134, title II, §201(a)–(c)(8), Jan. 23, 2002, 115 Stat. 2440–2444; Pub. L. 107–147, title IV, §416(c)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 107–210, div. A, title II, §202(b)(1), (2), Aug. 6, 2002, 116 Stat. 961; Pub. L. 107–296, title XI, §1112(j), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 107–330, title III, §306, Dec. 6, 2002, 116 Stat. 2827; Pub. L. 108–89, title II, §201(a), Oct. 1, 2003, 117 Stat. 1132; Pub. L. 108–173, title I, §§101(e)(6), 105(e)(1)–(3), title VIII, §811(c)(1)–(2)(B), title IX, §900(e)(3), Dec. 8, 2003, 117 Stat. 2151, 2167, 2368, 2369, 2372; Pub. L. 108–311, title III, §§311(a), 317, 320(a), (b), title IV, §408(a)(24), Oct. 4, 2004, 118 Stat. 1180–1182, 1192; Pub. L. 108–357, title IV, §413(c)(27), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 108–429, title II, §2004(a)(22), Dec. 3, 2004, 118 Stat. 2592; Pub. L. 109–135, title III, §305(a)(1), (b)(1), (c)(1), title IV, §§406(a), 412(rr)(3), (4), (yy), Dec. 21, 2005, 119 Stat. 2609, 2634, 2640; Pub. L. 109–280, title XII, §1224(b)(1)–(3), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 109–432, div. A, title I, §122(a)(1), (b)(1), (c)(1), title IV, §421(a), (b), Dec. 20, 2006, 120 Stat. 2944, 2971, 2972; Pub. L. 110–28, title VIII, §8246(a)(2)(B), May 25, 2007, 121 Stat. 201; Pub. L. 110–142, §8(c)(1), Dec. 20, 2007, 121 Stat. 1807; Pub. L. 110–172, §11(a)(34)(A), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title IV, §4002(b)(1)(B), (H), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §108(a), (b), June 17, 2008, 122 Stat. 1631; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (H), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–328, §3(b), Sept. 30, 2008, 122 Stat. 3572; Pub. L. 110–343, div. C, title IV, §402(a), (b), Oct. 3, 2008, 122 Stat. 3875, 3876; Pub. L. 110–428, §2(a), (b), Oct. 15, 2008, 122 Stat. 4839; Pub. L. 111–3, title VII, §702(f)(1), (2), Feb. 4, 2009, 123 Stat. 110; Pub. L. 111–148, title I, §1414(a)(1), (b), (c), title III, §3308(b)(2), Mar. 23, 2010, 124 Stat. 236, 237, 474; Pub. L. 111–152, title I, §1004(a)(1)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–192, title I, §103(a), June 25, 2010, 124 Stat. 1282; Pub. L. 111–198, §4(a)–(d), July 2, 2010, 124 Stat. 1356, 1357; Pub. L. 112–240, title II, §209(a)–(b)(2), Jan. 2, 2013, 126 Stat. 2324, 2325; Pub. L. 114–94, div. C, title XXXII, §§32101(c), 32102(d), Dec. 4, 2015, 129 Stat. 1731, 1734; Pub. L. 114–113, div. Q, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 114–184, §2(a)–(b)(2)(B), June 30, 2016, 130 Stat. 536, 537.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 753; Pub. L. 88–563, §3(c), Sept. 2, 1964, 78 Stat. 844; Pub. L. 89–44, title VI, §601(a), June 21, 1965, 79 Stat. 153; Pub. L. 89–713, §4(a), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 93–406, title II, §1022(h), Sept. 2, 1974, 88 Stat. 941; Pub. L. 94–202, §8(g), Jan. 2, 1976, 89 Stat. 1139; Pub. L. 94–455, title XII, §1202(a)(1), Oct. 4, 1976, 90 Stat. 1667; Pub. L. 95–210, §5, Dec. 13, 1977, 91 Stat. 1491; Pub. L. 95–600, title V, §503, title VII, §701(bb)(1)(A), (B), (2)–(5), Nov. 6, 1978, 92 Stat. 2879, 2921–2923; Pub. L. 96–249, title I, §127(a)(1), (2)(A)–(C), May 26, 1980, 94 Stat. 365, 366, as amended Pub. L. 96–611, §11(a)(1), Dec. 28, 1980, 94 Stat. 3573, and Pub. L. 98–369, div. A, title IV, §453(b)(5), July 18, 1984, 98 Stat. 820; Pub. L. 96–265, title IV, §408(a)–(2)(C), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(A)–(B)(iii), Dec. 28, 1980, 94 Stat. 3573; Pub. L. 96–499, title III, §302(a), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–589, §3(c), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 96–598, §3(a), Dec. 24, 1980, 94 Stat. 3487; Pub. L. 97–34, title VII, §701(a), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §§356(a), (b)(1), 358(a), (b), Sept. 3, 1982, 96 Stat. 641, 645, 646, 648; Pub. L. 97–258, §3(f)(4)–(6), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–365, §§7(a), (b), 8(a)–(c)(1), Oct. 25, 1982, 96 Stat. 1752–1754; Pub. L. 97–452, §2(c)(4), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–21, title I, §121(c)(3)(A), (B), Apr. 20, 1983, 97 Stat. 83; Pub. L. 98–369, div. A, title IV, §§449(a), 453(a)–(b)(3), (6), div. B, title VI, §§2651(k), 2653(b)(3), 2663(j)(5)(E), July 18, 1984, 98 Stat. 818, 820, 1150, 1155, 1171; Pub. L. 98–378, §§19(b), 21(f)(1)–(4), Aug. 16, 1984, 98 Stat. 1322, 1325, 1326; Pub. L. 99–92, §8(h), Aug. 16, 1985, 99 Stat. 399; Pub. L. 99–335, title III, §310(a), (b), June 6, 1986, 100 Stat. 607, 608; Pub. L. 99–386, title II, §206(b), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–514, title XIV, §1411(b), title XV, §1568(a), title XVIII, §1899A(53), Oct. 22, 1986, 100 Stat. 2715, 2764, 2961; Pub. L. 100–485, title VII, §701(b)(1), (2)(A), (B), Oct. 13, 1988, 102 Stat. 2425, 2426; Pub. L. 100–647, title I, §§1012(bb)(3)(A), (B), 1014(e)(4), title VI, §6251, title VIII, §8008(c)(1), (2)(A), Nov. 10, 1988, 102 Stat. 3534, 3561, 3752, 3786, 3787; Pub. L. 100–690, title VII, §§7601(b)(1), (2), 7602(c), (d)(2), Nov. 18, 1988, 102 Stat. 4504, 4508; Pub. L. 101–239, title VI, §6202(a)(1)(A), (B), title VII, §7841(d)(1), Dec. 19, 1989, 103 Stat. 2226, 2227, 2428; Pub. L. 101–508, title IV, §4203(a)(2), title V, §5111(b)(1), (2), title VIII, §8051(a), title XI, §§11101(d)(6), 11212(b)(3), 11313(a), Nov. 5, 1990, 104 Stat. 1388–107, 1388–272, 1388–273, 1388–349, 1388–405, 1388–431, 1388–455; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–568, title VI, §602(b), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XIII, §§13401(a), 13402(a), (b), 13403(a), (b), 13444(a), 13561(a)(2), (e)(2)(B), Aug. 10, 1993, 107 Stat. 563–565, 570, 593, 595; Pub. L. 103–182, title V, §522(a), (b), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–296, title I, §108(h)(6), title III, §311(b), Aug. 15, 1994, 108 Stat. 1487, 1525; Pub. L. 104–134, title III, §31001(g)(2), (i)(2), Apr. 26, 1996, 110 Stat. 1321–363, 1321–364; Pub. L. 104–168, title IV, §403(a), title IX, §902(a), title XII, §§1206(a)–(b)(4), 1207, July 30, 1996, 110 Stat. 1459, 1466, 1472, 1473; Pub. L. 104–188, title I, §1704(t)(41), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 104–193, title I, §110(l)(2), formerly (l)(3), (l)(4), (5), title III, §316(g)(4), Aug. 22, 1996, 110 Stat. 2173, 2219, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–33, title IV, §4631(c)(2), title V, §5514(a)(1), title XI, §11024(b)(1)–(7), Aug. 5, 1997, 111 Stat. 486, 620, 721, 722; Pub. L. 105–34, title IX, §976(c), title X, §§1023(a), 1026(a), (b)(1), title XII, §§1201(b)(2), 1205(c)(1), (3), 1283(a), (b), Aug. 5, 1997, 111 Stat. 899, 923–925, 994, 998, 1038; Pub. L. 105–65, title V, §542(b), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 105–206, title I, §1101(b), title III, §§3702(a), (b), 3708(a), 3711(b), title VI, §§6007(f)(4), 6009(d), 6012(b)(2), (4), 6019(c), 6023(22), July 22, 1998, 112 Stat. 696, 776–778, 781, 810, 812, 819, 823, 826; Pub. L. 105–277, div. J, title I, §1006, title IV, §§4002(a), (h), 4006(a)(1), (2), Oct. 21, 1998, 112 Stat. 2681–900, 2681–906, 2681–907, 2681–912; Pub. L. 106–170, title V, §521(a)(1), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(a), 310(a), 313(c), 319(8)(B),(17)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, 2763A–638, 2763A–643, 2763A–646, 2763A–647; Pub. L. 107–134, title II, §201(a)–(c)(8), Jan. 23, 2002, 115 Stat. 2440–2444; Pub. L. 107–147, title IV, §416(c)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 107–210, div. A, title II, §202(b)(1), (2), Aug. 6, 2002, 116 Stat. 961; Pub. L. 107–296, title XI, §1112(j), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 107–330, title III, §306, Dec. 6, 2002, 116 Stat. 2827; Pub. L. 108–89, title II, §201(a), Oct. 1, 2003, 117 Stat. 1132; Pub. L. 108–173, title I, §§101(e)(6), 105(e)(1)–(3), title VIII, §811(c)(1)–(2)(B), title IX, §900(e)(3), Dec. 8, 2003,117 Stat. 2151, 2167, 2368, 2369, 2372; Pub. L. 108–311, title III, §§311(a), 317, 320(a), (b), title IV, §408(a)(24), Oct. 4, 2004, 118 Stat. 1180–1182, 1192; Pub. L. 108–357, title IV, §413(c)(27), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 108–429, title II, §2004(a)(22), Dec. 3, 2004, 118 Stat. 2592; Pub. L. 109–135, title III, §305(a)(1), (b)(1), (c)(1), title IV, §§406(a), 412(rr)(3), (4), (yy), Dec. 21, 2005, 119 Stat. 2609, 2634, 2640; Pub. L. 109–280, title XII, §1224(b)(1)–(3), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 109–432, div. A, title I, §122(a)(1), (b)(1), (c)(1), title IV, §421(a), (b), Dec. 20, 2006, 120 Stat. 2944, 2971, 2972; Pub. L. 110–28, title VIII, §8246(a)(2)(B), May 25, 2007, 121 Stat. 201; Pub. L. 110–142, §8(c)(1), Dec. 20, 2007, 121 Stat. 1807; Pub. L. 110–172, §11(a)(34)(A), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title IV, §4002(b)(1)(B), (H), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §108(a), (b), June 17, 2008, 122 Stat. 1631; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (H), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–328, §3(b), Sept. 30, 2008, 122 Stat. 3572; Pub. L. 110–343, div. C, title IV, §402(a), (b), Oct. 3, 2008, 122 Stat. 3875, 3876; Pub. L. 110–428, §2(a), (b), Oct. 15, 2008, 122 Stat. 4839; Pub. L. 111–3, title VII, §702(f)(1), (2), Feb. 4, 2009, 123 Stat. 110; Pub. L. 111–148, title I, §1414(a)(1), (b), (c), title III, §3308(b)(2), Mar. 23, 2010, 124 Stat. 236, 237, 474; Pub. L. 111–152, title I, §1004(a)(1)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–192, title I, §103(a), June 25, 2010, 124 Stat. 1282; Pub. L. 111–198, §4(a)–(d), July 2, 2010, 124 Stat. 1356, 1357; Pub. L. 112–240, title II, §209(a)–(b)(2), Jan. 2, 2013, 126 Stat. 2324, 2325; Pub. L. 114–94, div. C, title XXXII, §§32101(c), 32102(d), Dec. 4, 2015, 129 Stat. 1731, 1734; Pub. L. 114–113, div. Q, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 114–184, §2(a)–(b)(2)(B), June 30, 2016, 130 Stat. 536, 537.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (h)(4)(D) and (i)(4)(A)(ii), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+Section 403 of the Missing Children's Assistance Act, referred to in subsec. (i)(1)(C)(iii), is section 403 of title IV of Pub. L. 93–415, which was formerly classified to section 5772 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 11292 of Title 34, Crime Control and Law Enforcement.
+
+Section 111 of the Sex Offender Registration and Notification Act, referred to in subsec. (i)(1)(C)(iv), is section 111 of title I of Pub. L. 109–248, which was classified to section 16911 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20911 of Title 34, Crime Control and Law Enforcement.
 
 The District of Columbia Retirement Protection Act of 1997, referred to in subsecs. (i)(7)(B)(i) and (l)(16), is subtitle A (§§11001–11087) of title XI of Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 715, which amended this section and section 7213 of this title and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Tables.
 
@@ -1538,7 +1542,7 @@ Subsec. (p)(4). Pub. L. 114–94, §32101(c)(2), substituted ", (10), or (11)" 
 
 Subsec. (k)(10). Pub. L. 112–240, §209(a), amended par. (10) generally. Prior to amendment, par. (10) related to disclosure of certain return information to certain prison officials.
 
-Subsec. (p)(4). Pub. L. 112–240, §209(b)(2)(A), (C), inserted "subsection (k)(10)," before "subsection (l)(10),"in introductory provisions and "subsection (k)(10) or" before "subsection (l)(10)," in two places in concluding provisions.
+Subsec. (p)(4). Pub. L. 112–240, §209(b)(2)(A), (C), inserted "subsection (k)(10)," before "subsection (l)(10)," in introductory provisions and "subsection (k)(10) or" before "subsection (l)(10)," in two places in concluding provisions.
 
 Subsec. (p)(4)(F)(i). Pub. L. 112–240, §209(b)(2)(B), inserted "subsection (k)(10) or" before "subsection (l)(10),".
 
@@ -1670,7 +1674,7 @@ Subsec. (p)(4)(F)(i). Pub. L. 109–135, §412(yy)(2), amended cl. (i) generally
 
 Subsec. (p)(5), (6)(B)(i). Pub. L. 109–135, §412(rr)(4), substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2004</b>—Subsec. (d)(5). Pub. L. 108–311, §311(a), amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall disclose taxpayer identities and signatures for purposes of the demonstration project described in section 976 of the Taxpayer Relief Act of 1997. Subsections (a)(2) and (p)(4) and sections 7213 and 7213A shall not apply with respect to disclosures or inspections made pursuant to this paragraph."
+<b>2004</b>—Subsec. (d)(5). Pub. L. 108–311, §311(a), amended heading and text generally. Prior to amendment, textread as follows: "The Secretary shall disclose taxpayer identities and signatures for purposes of the demonstration project described in section 976 of the Taxpayer Relief Act of 1997. Subsections (a)(2) and (p)(4) and sections 7213 and 7213A shall not apply with respect to disclosures or inspections made pursuant to this paragraph."
 
 Subsec. (e)(1)(D)(iv) to (vi). Pub. L. 108–357, §413(c)(27), redesignated cls. (v) and (vi) as (iv) and (v), respectively, and struck out former cl. (iv) which read as follows: "if the corporation was a foreign personal holding company, as defined by section 552, any person who was a shareholder during any part of a period covered by such return if with respect to that period, or any part thereof, such shareholder was required under section 551 to include in his gross income undistributed foreign personal holding company income of such company,".
 
@@ -2156,7 +2160,7 @@ Subsec. (p)(6)(B)(i). Pub. L. 97–248, §356(b)(1)(F), substituted "subsection 
 
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–34 inserted prohibition against disclosure of methods for selection of tax returns for audit.
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–598 designated existing provision as par. (1), inserted heading "In general" and in text substituted "to receive the returns" for "to receive the return", and added par. (2).
+<b>1980</b>—Subsec. (d). Pub. L. 96–598 designated existing provision as par. (1), inserted heading "In general" andin text substituted "to receive the returns" for "to receive the return", and added par. (2).
 
 Subsec. (e)(4). Pub. L. 96–589, §3(c)(1), added par. (4). Former par. (4), relating to public inspection of returns of persons whose property was in the hands of a trustee in bankruptcy or receiver, was struck out.
 
@@ -2316,7 +2320,7 @@ Pub. L. 107–134, title II, §201(d), Jan. 23, 2002, 115 Stat. 2444, provided t
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title III, §304(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title III, §304(d)\] of Pub. L. 106–554, set out as a note under section 6110 of this title.
+Amendment by section 1(a)(7) \[title III, §304(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7)\[title III, §304(d)\] of Pub. L. 106–554, set out as a note under section 6110 of this title.
 
 Amendment by section 1(a)(7) \[title III, §313(c)\] of Pub. L. 106–554 effective as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 1(a)(7) \[title III, §313(f)\] of Pub. L. 106–554, set out as a note under section 6015 of this title.
 
@@ -2352,7 +2356,7 @@ Pub. L. 105–34, title X, §1026(c), Aug. 5, 1997, 111 Stat. 925, provided that
 
 Amendment by section 1201(b)(2) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1201(c) of Pub. L. 105–34, set out as a note under section 59 of this title.
 
-Pub. L. 105–34, title XII, §1205(d), Aug. 5, 1997, 111 Stat. 998, provided that: "The amendments made bythis section \[amending this section and sections 6311 and 7431 of this title\] shall take effect on the day 9 months after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XII, §1205(d), Aug. 5, 1997, 111 Stat. 998, provided that: "The amendments made by this section \[amending this section and sections 6311 and 7431 of this title\] shall take effect on the day 9 months after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Pub. L. 105–34, title XII, §1283(c), Aug. 5, 1997, 111 Stat. 1038, provided that: "The amendments made by this section \[amending this section\] shall apply to judicial proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -2708,7 +2712,7 @@ For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Reimbursement of Costs of Supplying Information Necessary for Administration of Federal Retirement Systems
 
@@ -2818,15 +2822,15 @@ Executive Orders 10738, 10906, 10954, 10962, 11102, 11206, 11213, 11650, and 117
 
 Ex. Ord. No. 11805, Sept. 20, 1974, 39 F.R. 34261, which related to inspection of tax returns by the President and certain designated employees of the White House Office, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-<i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Subsection (f)(5) does not relate to requests.</i>
+<i><sup>2</sup></i><i> So in original. See 2008 Amendment note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Cl. (i) designation probably should precede "Any".</i>
+<i><sup>3</sup></i><i> So in original. Subsection (f)(5) does not relate to requests.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be "section".</i>
+<i><sup>4</sup></i><i> So in original. Cl. (i) designation probably should precede "Any".</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>6</sup></i><i> So in original. Probably should be "subsection".</i>
 

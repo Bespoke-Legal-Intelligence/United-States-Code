@@ -10,7 +10,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;(1) identify and develop the best available techniques, equipment, and materials for dealing with oil spills in the arctic and subarctic marine environment; and
 
-&emsp;(2) complement Federal and State damage assessment efforts and determine, document,assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
+&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
 
 #### (c) Advisory board
 
@@ -58,7 +58,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (e) Director
 
-The Institute shall be administered by a Director appointed by the Advisory Board. The Prince William Sound Science and Technology Institute and the Scientific and Technical Committee may each submit independent recommendations for the Advisory Board's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
+The Institute shall be administered by a Director appointed by the Advisory Board. ThePrince William Sound Science and Technology Institute and the Scientific and Technical Committee may each submit independent recommendations for the Advisory Board's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
 
 #### (f) Evaluation
 

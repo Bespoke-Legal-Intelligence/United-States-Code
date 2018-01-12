@@ -126,5 +126,5 @@ Disciplinary Action for Misuse of Government Charge Card.—(1) The Secretary sh
 
 "(d)
 
-Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c)."
+Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives\] a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c)."
 

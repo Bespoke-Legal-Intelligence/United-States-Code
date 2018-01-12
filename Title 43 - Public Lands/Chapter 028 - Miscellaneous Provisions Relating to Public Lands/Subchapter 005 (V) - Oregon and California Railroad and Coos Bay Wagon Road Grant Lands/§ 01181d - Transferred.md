@@ -1,0 +1,6 @@
+### §1181d. Transferred
+
+#### Codification
+
+Section 1181d was editorially reclassified as section 2603 of this title.
+

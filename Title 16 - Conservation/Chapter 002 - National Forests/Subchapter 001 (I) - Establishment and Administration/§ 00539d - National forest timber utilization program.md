@@ -8,7 +8,7 @@ Subject to appropriations, other applicable law, and the requirements of the Nat
 
 (1) The Secretary is authorized and directed to establish a special program of insured or guaranteed loans to purchasers of national forest materials in Alaska to assist such purchasers in the acquisition of equipment and the implementation of new technologies which lead to the utilization of wood products which might otherwise not be utilized. The Secretary is authorized to promulgate such regulations as he deems appropriate to define eligibility requirements for the participation in the loan program and the terms and conditions applicable to loans made under the program. Except as otherwise provided in this section or regulations promulgated specifically for this loan program, such program shall be carried out in a manner which is consistent with other authorities available to the Secretary.
 
-(2) To carry out the special loan program established by this section, there are hereby authorized beginning after the fiscal year 1980 to be appropriated $5,000,000 from National Forest Fund receipts, to be deposited in a special fund in the Treasury of the United States to remain available until expended. Repayments of principal and interest and other recoveries on loans authorized by this section shall be credited to this fund and shall remain available until expended in order to carry out the purposes of this section.
+(2) To carry out the special loan program established by this section, there are hereby authorized beginning after the fiscal year 1980 to be appropriated $5,000,000 from National ForestFund receipts, to be deposited in a special fund in the Treasury of the United States to remain available until expended. Repayments of principal and interest and other recoveries on loans authorized by this section shall be credited to this fund and shall remain available until expended in order to carry out the purposes of this section.
 
 #### (c) Study on increase of timber yields on national forest lands in Alaska; transmittal to Congress
 
@@ -32,7 +32,7 @@ Subject to appropriations, the provisions of this Act and other applicable law (
 
 The National Forest Management Act of 1976, referred to in subsecs. (a) and (f), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. Section 6(k) of the Act (16 U.S.C. 1604(k)), probably means section 6(k) of the Forest and Rangeland Renewable Resources Planning Act of 1974, which is classified to section 1604(k) of this title, and which was added by section 6 of the Act. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-This Act, referred to in subsec. (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, seeShort Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 101–626, §105(b), added subsec. (f).
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–626, §1(a), Nov. 28, 1990, 104 Stat. 4426, provided that: "This Act \[amending this section and sections 472a and 539e of this title, enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the 'Tongass Timber Reform Act'."
+Pub. L. 101–626, §1(a), Nov. 28, 1990, 104 Stat. 4426, provided that: "This Act \[amending this section and sections 472a and 539e of this title, enacting provisionslisted in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the 'Tongass Timber Reform Act'."
 
 #### Study Containing Recommendations on Need To Standardize Riparian Management Practices in Tongass National Forest
 

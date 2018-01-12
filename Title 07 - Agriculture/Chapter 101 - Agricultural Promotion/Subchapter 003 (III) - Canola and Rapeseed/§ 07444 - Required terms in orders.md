@@ -12,7 +12,7 @@ An order issued under this subchapter shall contain the terms and conditions spe
 
 #### (2) Service to entire industry
 
-&emsp;The Board shall carry out programs and projects that will provide maximum benefit tothe canola and rapeseed industry in all parts of the United States and only promote canola, rapeseed, or canola or rapeseed products.
+&emsp;The Board shall carry out programs and projects that will provide maximum benefit to the canola and rapeseed industry in all parts of the United States and only promote canola, rapeseed, or canola or rapeseed products.
 
 #### (3) Board membership
 
@@ -152,7 +152,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (4) Paying expenses
 
-&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Board from assessments collected under section 7445 of this title or funds borrowed pursuant to paragraph (5).
+&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Boardfrom assessments collected under section 7445 of this title or funds borrowed pursuant to paragraph (5).
 
 #### (5) Authority to borrow
 
@@ -198,7 +198,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Board shall not engage in any action to, nor shall any fundsreceived by the Board under this subchapter be used to—
+&emsp;Subject to paragraph (2), the Board shall not engage in any action to, nor shall any funds received by the Board under this subchapter be used to—
 
 &emsp;&emsp;(A) influence legislation or governmental action;
 

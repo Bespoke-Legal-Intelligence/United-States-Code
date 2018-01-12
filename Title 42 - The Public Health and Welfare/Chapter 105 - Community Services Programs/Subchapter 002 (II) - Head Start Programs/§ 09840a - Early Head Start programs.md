@@ -50,7 +50,7 @@ To be eligible to receive assistance under this section, an entity shall submit 
 
 &emsp;(2) entities operating Indian Head Start programs or migrant or seasonal Head Start programs; and
 
-&emsp;(3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet suchother appropriate requirements relating to the activities under this section as the Secretary may establish.
+&emsp;(3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
 
 #### (e) Selection of grant recipients
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 &emsp;(1) ensure that, not later than September 30, 2010, all teachers providing direct services to children and families participating in Early Head Start programs located in Early Head Start centers, have a minimum of a child development associate credential, and have been trained (or have equivalent coursework) in early childhood development; and
 
-&emsp;(2) establish staff qualification goals to ensure that not later than September 30, 2012, allsuch teachers have been trained (or have equivalent coursework) in early childhood development with a focus on infant and toddler development.
+&emsp;(2) establish staff qualification goals to ensure that not later than September 30, 2012, all such teachers have been trained (or have equivalent coursework) in early childhood development with a focus on infant and toddler development.
 
 #### (i) Staff qualifications and development
 
@@ -200,7 +200,7 @@ Subsec. (d). Pub. L. 105–285, §113(5), inserted "and" at end of par. (1), red
 
 &emsp;"(B) programs receiving financial assistance under the Comprehensive Child Development Act, as in effect on such date; and".
 
-Subsec. (e). Pub. L. 105–285, §113(8), struck out "other" before "grant recipients" in heading and substituted "From the portion specified in section 9835(a)(6) of this title," for "From the balance remaining of the portion specified in section 9835(a)(6) of this title, after making grants to the eligible entities specified in subsection (e) of this section," in text.
+Subsec. (e). Pub. L. 105–285, §113(8), struck out "other" before "grant recipients" in heading and substituted "From the portion specified in section9835(a)(6) of this title," for "From the balance remaining of the portion specified in section 9835(a)(6) of this title, after making grants to the eligible entities specified in subsection (e) of this section," in text.
 
 Pub. L. 105–285, §113(6), (7), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to time-limited priority for certain entities.
 

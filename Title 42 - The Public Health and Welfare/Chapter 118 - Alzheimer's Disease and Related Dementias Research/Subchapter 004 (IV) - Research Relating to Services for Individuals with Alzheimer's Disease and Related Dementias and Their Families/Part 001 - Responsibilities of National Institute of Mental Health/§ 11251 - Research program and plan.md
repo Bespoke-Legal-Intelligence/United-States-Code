@@ -26,7 +26,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(D) the efficacy of various special care units in the United States for individuals with Alzheimer's disease, including an assessment of the costs incurred in operating such units, the evaluation of best practices for the development of appropriate standards to be used by such units, and the measurement of patient outcomes in such units;
 
-&emsp;&emsp;(E) methods to combine formal support services provided by health care professionals for individuals with Alzheimer's disease and related dementias with informal support services provided for such individuals by their families, friends, and neighbors, including services such as day care services, respite care services, home care services, nursing home services, and other residential services and care, and an evaluation of the services actually used for such individuals and the sources of payment for such services;
+&emsp;&emsp;(E) methods to combine formal support services provided by health care professionals for individuals with Alzheimer's disease and related dementias with informalsupport services provided for such individuals by their families, friends, and neighbors, including services such as day care services, respite care services, home care services, nursing home services, and other residential services and care, and an evaluation of the services actually used for such individuals and the sources of payment for such services;
 
 &emsp;&emsp;(F) methods to sustain family members who provide care for individuals with Alzheimer's disease and related dementias through interventions to reduce psychological and social problems and physical problems induced by stress; and
 

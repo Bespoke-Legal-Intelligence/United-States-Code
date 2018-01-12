@@ -46,3 +46,7 @@ Gross income of a corporation (other than an electing corporation) which is a me
 
 The date of the enactment of this subchapter, referred to in subsec. (c)(2)(B)(ii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
+#### Effective Date
+
+Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
+

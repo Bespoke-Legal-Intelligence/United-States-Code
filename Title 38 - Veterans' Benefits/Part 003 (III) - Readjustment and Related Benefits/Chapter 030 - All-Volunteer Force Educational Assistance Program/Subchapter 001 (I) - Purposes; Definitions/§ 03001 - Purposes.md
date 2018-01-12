@@ -6,9 +6,9 @@ The purposes of this chapter are—
 
 &emsp;(2) to extend the benefits of a higher education to qualifying men and women who might not otherwise be able to afford such an education;
 
-&emsp;(3) to provide for vocational readjustment and to restore lost educational opportunities to those service men and women who served on active duty after June 30, 1985;
+&emsp;(3) to provide for vocational readjustment and to restore lost educational opportunitiesto those service men and women who served on active duty after June 30, 1985;
 
-&emsp;(4) to promote and assist the All-Volunteer Force program and the Total Force Concept ofthe Armed Forces by establishing a new program of educational assistance based upon service on active duty or a combination of service on active duty and in the Selected Reserve (including the National Guard) to aid in the recruitment and retention of highly qualified personnel for both the active and reserve components of the Armed Forces;
+&emsp;(4) to promote and assist the All-Volunteer Force program and the Total Force Concept of the Armed Forces by establishing a new program of educational assistance based upon service on active duty or a combination of service on active duty and in the Selected Reserve (including the National Guard) to aid in the recruitment and retention of highly qualified personnel for both the active and reserve components of the Armed Forces;
 
 &emsp;(5) to give special emphasis to providing educational assistance benefits to aid in the retention of personnel in the Armed Forces; and
 
@@ -25,4 +25,130 @@ Prior section 3001 was renumbered section 5101 of this title.
 <b>1991</b>—Pub. L. 102–83 renumbered section 1401 of this title as this section.
 
 <b>1987</b>—Pars. (2) to (6). Pub. L. 100–48 added pars. (2), (3), and (6), redesignated former pars. (2) and (3) as (4) and (5), respectively, struck out "and" after "Forces;" in par. (4), and substituted "Forces; and" for "Forces." in par. (5).
+
+#### Department of Veterans Affairs High Technology Pilot Program
+
+Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, provided that:
+
+"(a)
+
+Pilot Program.—The Secretary of Veterans Affairs shall carry out a pilot program under which the Secretary shall provide eligible veterans with the opportunity to enroll in high technology programs of education that the Secretary determines provide training or skills sought by employers in a relevant field or industry.
+
+"(b)
+
+Eligibility.—For purposes of the pilot program under this section, an eligible veteran is a veteran who is entitled to educational assistance under chapter 30, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
+
+"(c)
+
+Contracts.—
+
+&emsp;"(1)
+
+In general.—For purposes of carrying out subsection (a), by not later than 180 days after August 1, 2018, the Secretary shall seek to enter into contracts with any number of qualified providers of high technology programs of education for the provision of such programs to eligible veterans under the pilot program. Each such contract shall provide for the conditions under which the Secretary may terminate the contract with the provider and the procedures for providing for the completion of the instruction of students who were enrolled in a program provided by such provider in the case of such a termination.
+
+&emsp;"(2)
+
+Payment of contractors.—A contract under this subsection shall provide that the Secretary shall pay to a provider—
+
+&emsp;&emsp;"(A) upon the enrollment of an eligible veteran in the program, 25 percent of the cost of the tuition and other fees for the program of education for the veteran;
+
+&emsp;&emsp;"(B) upon the completion of the program by the veteran, 25 percent of such cost; and
+
+&emsp;&emsp;"(C) upon the employment of the veteran in the field of study of the program following completion of the program, 50 percent of such cost.
+
+&emsp;"(3)
+
+Qualified providers.—For purposes of the pilot program, a provider of a high technology program of education is qualified if—
+
+&emsp;&emsp;"(A) the provider has been operational for at least 2 years;
+
+&emsp;&emsp;"(B) the provider has successfully provided the high technology program for at least 1 year; and
+
+&emsp;&emsp;"(C) the provider meets the approval criteria developed by the Secretary under paragraph (4).
+
+&emsp;"(4)
+
+Approval criteria.—The Secretary shall develop criteria for approving providers for purposes of the pilot program. In developing such criteria, the Secretary may consult with State approving agencies. Such criteria is not required to meet the requirements of section 3672 of title 38, United States Code.
+
+&emsp;"(5)
+
+Tuition reimbursement.—In entering into contracts to carry out the pilot program, the Secretary shall give preference to a qualified provider that offers tuition reimbursement for any student who—
+
+&emsp;&emsp;"(A) completes a program of education offered by the provider; and
+
+&emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the 180-day period beginning on the date the student completes the program.
+
+"(d)
+
+Housing Stipend.—The Secretary shall pay to each eligible veteran who is enrolled in a high technology program of education under the pilot program on a full-time basis a monthly housing stipend equal to the product—
+
+&emsp;"(1) of—
+
+&emsp;&emsp;"(A) in the case of a veteran pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution at which the individual is enrolled; or
+
+&emsp;&emsp;"(B) in the case of a veteran pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the amount payable under subparagraph (A), multiplied by
+
+&emsp;"(2) the lesser of—
+
+&emsp;&emsp;"(A) 1.0; or
+
+&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+
+"(e)
+
+High Technology Program of Education Defined.—In this section, the term 'high technology program of education' means a program of education that—
+
+&emsp;"(1) is offered by an entity other than an institution of higher learning;
+
+&emsp;"(2) does not lead to a degree; and
+
+&emsp;"(3) provides instruction in computer programming, computer software, media application, data processing, or information sciences.
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Secretary of veterans affairs.—Not later than 1 year after the date of the enactment of this Act \[Aug. 16, 2017\], and annually thereafter, the Secretary shall submit to Congress a report on the pilot program under this section.
+
+&emsp;"(2)
+
+Comptroller general.—
+
+&emsp;&emsp;"(A)
+
+Interim report.—Not later than 3 years after the date on which the Secretary first enters into a contract under this section, the Comptroller General of the United States shall submit to Congress a report containing the results of the interim assessment of the Comptroller General. Such report shall include the recommendations of the Comptroller General for improving the pilot program and an assessment of each of the following:
+
+&emsp;&emsp;&emsp;"(i) The technology experience of the directors and instructors of the providers of high technology programs of education under the pilot program.
+
+&emsp;&emsp;&emsp;"(ii) Whether the providers cooperated with the technology industry to create the curriculum for the program of education.
+
+&emsp;&emsp;&emsp;"(iii) Whether the providers use an open source curriculum for the program of education.
+
+&emsp;&emsp;&emsp;"(iv) The admittance rate into the pilot program.
+
+&emsp;&emsp;&emsp;"(v) The job placement and retention rate for veterans who completed a program of education under the pilot program in the field of study of the program.
+
+&emsp;&emsp;&emsp;"(vi) The percentage of veterans who completed a program of education under the pilot program who were subsequently employed for a period of 6 months or longer in a field of study of the program.
+
+&emsp;&emsp;&emsp;"(vii) The percentage of veterans who completed a program of education under the pilot program who were subsequently employed for a period of less than 6 months in a field of study of the program.
+
+&emsp;&emsp;&emsp;"(viii) The median annual salary of veterans who completed a program of education under the pilot program and were subsequently employed.
+
+&emsp;&emsp;&emsp;"(ix) As applicable, the transfer rates to other academic or vocational programs and certifications and licensure exam passage rates.
+
+&emsp;&emsp;&emsp;"(x) The average age of veterans who participated in the pilot program.
+
+&emsp;&emsp;"(B)
+
+Final report.—Not later than 5 years after the date on which the Secretary first enters into a contract under this section, the Comptroller General shall submit to Congress a final report on the pilot program. Such report shall include the recommendation of the Comptroller General with respect to whether the program should be extended and an assessment of each item described in clauses (i) through (x) of subparagraph (A).
+
+"(g)
+
+Authorization of Appropriations.—For each fiscal year during which the Secretary carries out a pilot program under this section, $15,000,000 shall be made available for such purpose from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
+
+"(h)
+
+Termination.—The authority to carry out a pilot program under this section shall terminate on the date that is 5 years after the date on which the Secretary first enters into a contract under this section."
 

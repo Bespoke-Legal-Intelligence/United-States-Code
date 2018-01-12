@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretaryof State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 
 #### (e) Publication of determinations
 
@@ -98,7 +98,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;(B) submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate a report containing—
 
-&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
+&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity ofany recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 
@@ -122,7 +122,7 @@ The prohibitions contained in this section do not apply with respect to any tran
 
 #### (2) Section 614(a) waiver authority
 
-&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] isused to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
+&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
 
 #### (j) Criminal penalty
 
@@ -160,7 +160,7 @@ As used in this section—
 
 &emsp;(5) the term "unsafeguarded special nuclear material" has the meaning given that term in section 6305(8) of this title.
 
-(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30,2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 <b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted "20 years" for "10 years".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop,produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
+<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
 
 <b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted "section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that" after "except that".
 

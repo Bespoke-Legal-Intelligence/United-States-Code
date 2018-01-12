@@ -10,7 +10,7 @@ A prior section 796f–6, Pub. L. 93–112, title VII, §727, as added Pub. L. 1
 
 Prior sections 796g to 796i were repealed by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
 
-Section 796g, Pub. L. 93–112, title VII, §731, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, §103(h)(2), Oct. 21, 1986,100 Stat. 1811; Pub. L. 100–630, title II, §208(h), Nov. 7, 1988, 102 Stat. 3314, provided for grants to States to establish systems to protect and advocate for rights of individuals with severe handicaps.
+Section 796g, Pub. L. 93–112, title VII, §731, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, §103(h)(2), Oct. 21, 1986, 100 Stat. 1811; Pub. L. 100–630, title II, §208(h), Nov. 7, 1988, 102 Stat. 3314, provided for grants to States to establish systems to protect and advocate for rights of individuals with severe handicaps.
 
 Section 796h, Pub. L. 93–112, title VII, §732, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, related to affirmative action on part of recipients of assistance to employ and advance in employment qualified individuals with handicaps.
 

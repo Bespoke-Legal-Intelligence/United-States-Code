@@ -44,7 +44,7 @@ Not more than $10,000,000 in Federal funds may be allotted under this section fo
 
 There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.
 
-(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17,1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(g), June 10, 2014, 128 Stat. 1232.)
+(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(g), June 10, 2014, 128 Stat. 1232.)
 
 #### Codification
 

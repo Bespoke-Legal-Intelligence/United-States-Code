@@ -1,6 +1,6 @@
 ### §548. Surplus vessels
 
-The Maritime Administration shall dispose of surplus vessels of 1,500 gross tons or more whichthe Administration determines to be merchant vessels or capable of conversion to merchant use. The vessels shall be disposed of in accordance with part F of subtitle V of title 46 and other laws authorizing the sale of such vessels.
+The Maritime Administration shall dispose of surplus vessels of 1,500 gross tons or more which the Administration determines to be merchant vessels or capable of conversion to merchant use. The vessels shall be disposed of in accordance with part F of subtitle V of title 46 and other laws authorizing the sale of such vessels.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–304, §17(g)(1), Oct. 6, 2006, 120 Stat. 1708.)
 

@@ -12,3 +12,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator"
 
 Pub. L. 102–83, §2(c)(3), substituted "section 529" for "section 214".
 
+#### Effective Date
+
+Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+

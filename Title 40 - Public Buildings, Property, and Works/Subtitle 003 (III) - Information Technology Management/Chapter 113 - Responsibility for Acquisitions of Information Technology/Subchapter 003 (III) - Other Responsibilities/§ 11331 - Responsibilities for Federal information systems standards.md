@@ -50,7 +50,7 @@ Deadline.—The decision regarding the promulgation of any standard by the Direc
 
 &emsp;(2)
 
-Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunityto comment on the Director's proposed decision.
+Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunity to comment on the Director's proposed decision.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
 
@@ -114,7 +114,7 @@ Authority to Disapprove or Modify.—The President may disapprove or modify the 
 
 "(d)
 
-Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.
+Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to directionby the President and in coordination with the Director of the Office of Management and Budget.
 
 "(e)
 

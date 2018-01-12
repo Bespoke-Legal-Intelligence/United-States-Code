@@ -18,7 +18,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (i) Previously filed application
 
-&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn\(without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
 #### (ii) Certain abbreviated applications involving combination animal drugs
 
@@ -26,7 +26,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (D) Refund of fee if application refused for filing
 
-&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for any abbreviated application which is refused for filing.
+&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for anyabbreviated application which is refused for filing.
 
 #### (E) Refund of fee if application withdrawn
 
@@ -146,7 +146,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to suchappropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
 
 #### (2) Collections and appropriation Acts
 
@@ -156,7 +156,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs (including increases in such costs for anadditional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -222,7 +222,7 @@ In this section and section 379j–22 of this title:
 
 #### (3) Costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs
 
-&emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" meansthe expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
+&emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" means the expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
@@ -300,7 +300,7 @@ A prior section 741 of act June 25, 1938, was renumbered section 745 and is clas
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–14, title II, §205, June 13, 2013, 127 Stat. 474, provided that: "The amendments made by this title \[amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], as amended by this title, shall be assessed for all abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2013, regardless of the date of enactment of this Act."
+Pub. L. 113–14, title II, §205, June 13, 2013, 127 Stat. 474, provided that: "The amendments made by this title\[amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], as amended by this title, shall be assessed for all abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2013, regardless of the date of enactment of this Act."
 
 #### Termination Date
 

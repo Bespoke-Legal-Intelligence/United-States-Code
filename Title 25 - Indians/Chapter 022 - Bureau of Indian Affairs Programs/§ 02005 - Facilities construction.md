@@ -70,7 +70,7 @@
 
 #### (6) Facilities information systems support database
 
-&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained inthe survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by Government Accountability Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
+&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained in the survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by Government Accountability Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
 
 #### (b) Compliance with health and safety standards
 
@@ -146,7 +146,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Inspection
 
-&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection ofthe conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
 
 #### (D) Failure to concur
 
@@ -208,7 +208,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) Distribution of funds
 
-&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
+&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. Nofunds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
 
 #### (2) Requirements for certain uses
 
@@ -239,6 +239,10 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 #### Use of Tribal Priority Allocations Funds for School Facilities
 

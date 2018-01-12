@@ -94,7 +94,7 @@ Basis for recommendations.—
 
 In general.—Except as provided in subparagraph (F), recommendations made under subparagraph (B) shall be based on—
 
-&emsp;&emsp;&emsp;(I) the 5-year average annual assessments, excluding the 2 years containing the highest and lowest disparity between the proportion of assessments owed from imported and domestic honey or honey products, determined pursuant to the review that is conducted under subparagraph (A); and
+&emsp;&emsp;&emsp;(I) the 5-year average annual assessments, excluding the 2 years containingthe highest and lowest disparity between the proportion of assessments owed from imported and domestic honey or honey products, determined pursuant to the review that is conducted under subparagraph (A); and
 
 &emsp;&emsp;&emsp;(II) whether any change in the average annual assessments is from the assessments owed by importers described in paragraph (5)(B) or from the assessments owed by handler-importers described in paragraph (2)(C).
 
@@ -194,7 +194,7 @@ Nonmembers.—As a condition of certification under this paragraph, an organizat
 
 Minimum percentage of honey producers.—Notwithstanding any other provision of this subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
 
-(8) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
+(8) Members of the Honey Board shall serve for three-year terms with no member serving morethan two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
 
 (9) In the event any member of the Honey Board ceases to be a member of the category of members from which the member was appointed to the Honey Board, such person shall be automatically replaced by an alternate, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed.
 
@@ -346,7 +346,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 #### (k) Honey Board; property interests
 
-Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+Any patent on any product, copyright on any material, or any invention, product formulationor publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, §10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, §4(a), title X, §10401, June 18, 2008, 122 Stat. 1664, 2109.)
 
@@ -398,7 +398,7 @@ Subsec. (e)(4). Pub. L. 105–185, §605(f)(3)(A), redesignated par. (2) as (4).
 
 Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
-"(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption insuch year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
+"(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
 
 "(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
 

@@ -24,7 +24,7 @@ Oct. 6, 1945, ch. 393, §4 (1st sentence); restated Aug. 10, 1946, ch. 952, §6(
 
 Aug. 10, 1946, ch. 952, §7, 60 Stat. 996.
 
-The words "now or hereafter", in 10:948a, are omitted as surplusage. The words "computed under section 8925 of this title" are substituted for the words "active Federal service", in 10:948, and "active Federal military service", in 10:948a, since that revised section makes explicit the service covered. The words "be retired from" are substituted for the words "will be placed on the retired list of", in 10:948. The words "completed a minimum", in 10:948; and "the period of", "be subjectto", "period of", and "now or after August 10, 1946", in 10:948a; are omitted as surplusage.
+The words "now or hereafter", in 10:948a, are omitted as surplusage. The words "computed under section 8925 of this title" are substituted for the words "active Federal service", in 10:948, and "active Federal military service", in 10:948a, since that revised section makes explicit the service covered. The words "be retired from" are substituted for the words "will be placed on the retired list of", in 10:948. The words "completed a minimum", in 10:948; and "the period of", "be subject to", "period of", and "now or after August 10, 1946", in 10:948a; are omitted as surplusage.
 
 #### Amendments
 

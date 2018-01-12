@@ -2,7 +2,7 @@
 
 As used in this chapter the term "Federal supervisory agency" means the appropriate Federal banking agency, as defined in section 1813(q) of this title.
 
-(Pub. L. 90–389, §2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, §744(h), Aug. 9, 1989, 103 Stat. 439; Pub. L. 108–386, §8(d), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 111–203, title III, §356(1), July 21, 2010, 124 Stat. 1547.)
+(Pub. L. 90–389, §2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, §744(h), Aug. 9, 1989, 103 Stat. 439; Pub. L. 108–386, §8(d), Oct. 30, 2004, 118 Stat.2232; Pub. L. 111–203, title III, §356(1), July 21, 2010, 124 Stat. 1547.)
 
 #### Amendments
 

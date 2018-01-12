@@ -32,7 +32,7 @@ The purpose of the Residential Energy Assistance Challenge (in this section refe
 
 #### (1) In general
 
-&emsp;Not later than May 31, 1995, the Secretary shall establish criteria for approving State plans required by subsection (a) of this section, for energy efficiency education quality standards described in subsection (b)(2)(A) of this section, and for the distribution of funds to States with approved plans.
+&emsp;Not later than May 31, 1995, the Secretary shall establish criteria for approving State plans required by subsection (a), for energy efficiency education quality standards described in subsection (b)(2)(A), and for the distribution of funds to States with approved plans.
 
 #### (2) Documentation
 

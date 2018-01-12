@@ -4,17 +4,17 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year (except as otherwise provided in this paragraph), of the total amount provided in appropriation Acts under section 5303 of this title for the fiscal year, $60,000,000 shall be set aside for grants under subsection (b) of this section for such year for the following purposes:
+&emsp;For each fiscal year (except as otherwise provided in this paragraph), of the total amount provided in appropriation Acts under section 5303 of this title for the fiscal year, $60,000,000 shall be set aside for grants under subsection (b) for such year for the following purposes:
 
-&emsp;&emsp;(A) $6,500,000 shall be available for grants under subsection (b)(3) <sup>1</sup> of this section;
+&emsp;&emsp;(A) $6,500,000 shall be available for grants under subsection (b)(3) <sup>1</sup>;
 
-&emsp;&emsp;(B) $6,000,000 shall be available for grants under subsection (b)(5) <sup>1</sup> of this section;
+&emsp;&emsp;(B) $6,000,000 shall be available for grants under subsection (b)(5) <sup>1</sup>;
 
-&emsp;&emsp;(C) $6,000,000 shall be available in fiscal year 1993 for grants under subsection (b)(7) <sup>1</sup> of this section;
+&emsp;&emsp;(C) $6,000,000 shall be available in fiscal year 1993 for grants under subsection (b)(7) <sup>1</sup>;
 
-&emsp;&emsp;(D) $3,000,000 shall be available for grants under subsection (c) of this section;
+&emsp;&emsp;(D) $3,000,000 shall be available for grants under subsection (c);
 
-&emsp;&emsp;(E) such sums as may be necessary shall be available for grants under paragraphs (2), (4), and (6) <sup>1</sup> of subsection (b) of this section;
+&emsp;&emsp;(E) such sums as may be necessary shall be available for grants under paragraphs (2), (4), and (6) <sup>1</sup> of subsection (b);
 
 &emsp;&emsp;(F) $2,000,000 shall be available in fiscal year 1993 for a grant to the City of Bridgeport, Connecticut, subject to the approval of sufficient amounts in an appropriation Act and to binding commitments made by the City of Bridgeport and the State of Connecticut that the city and State, respectively, will supplement such amount with $2,000,000 of additional funds; and
 
@@ -26,7 +26,7 @@
 
 #### (b) Permissible uses of funds
 
-From amounts set aside under subsection (a) of this section, the Secretary is authorized to make grants—
+From amounts set aside under subsection (a), the Secretary is authorized to make grants—
 
 &emsp;(1) to States and units of general local government for the purpose of allocating amounts to any such State or unit of general local government that is determined by the Secretary to have received insufficient amounts under section 5306 of this title as a result of a miscalculation of its share of funds under such section;
 
@@ -50,11 +50,11 @@ From amounts set aside under subsection (a) of this section, the Secretary is au
 
 #### (c) Assistance to economically disadvantaged and minority students participating in community development work study programs
 
-Of the amount set aside for use under subsection (b) of this section in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions of higher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
+Of the amount set aside for use under subsection (b) in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions of higher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
 
 #### (d) Continued availability of unused funds
 
-Amounts set aside for use under subsection (b) of this section in any fiscal year but not used in that year shall remain available for use in subsequent fiscal years in accordance with the provisions of that subsection.
+Amounts set aside for use under subsection (b) in any fiscal year but not used in that year shall remain available for use in subsequent fiscal years in accordance with the provisions of that subsection.
 
 #### (e) Satisfactory assurances required, special assurances required of Indian tribes
 
@@ -82,7 +82,7 @@ Section 1706e of title 12, referred to in subsec. (b)(3), was repealed by Pub. L
 
 Section 1437o of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, whichis classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -136,7 +136,7 @@ Subsecs. (c) to (e). Pub. L. 100–242, §501(b)(2), added subsec. (c) and redes
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §107(a), substituted provisions permitting not more than $68,200,000 for each of fiscal years 1984, 1985, and 1986 to be set aside in a special discretionary fund for grants under subsection (b) of this section, for provisions permitting not more than $60,000,000 to be set aside for each of fiscal years 1982 and 1983 in such a fund.
 
-Subsec. (b)(4). Pub. L. 98–181, §107(b), amended par. (4) generally, inserting provisions authorizing the Secretary to provide assistance to groups designated by certain enumerated governmental units to assist incarrying out this chapter, to qualified groups for the purpose of assisting more than one such governmental unit and to provide technical assistance, directly or through contracts, to such governmental units and groups.
+Subsec. (b)(4). Pub. L. 98–181, §107(b), amended par. (4) generally, inserting provisions authorizing the Secretary to provide assistance to groups designated by certain enumerated governmental units to assist in carrying out this chapter, to qualified groups for the purpose of assisting more than one such governmental unit and to provide technical assistance, directly or through contracts, to such governmental units and groups.
 
 Subsec. (b)(5). Pub. L. 98–181, §107(c), added par. (5).
 
@@ -148,7 +148,7 @@ Subsec. (d)(3). Pub. L. 98–181, §302(b)(2), inserted "grantee or" before "app
 
 Subsec. (b). Pub. L. 97–35 substituted provisions relating to permissible uses of funds for provisions relating to limitations on amounts reserved for emergency disaster needs.
 
-Subsec. (c). Pub. L. 97–35 substituted provisions relating to amounts set aside for use under subsec. (b) of this section for provisions relating to amounts set aside and reserved in the special fund under subsec. (b) of this section.
+Subsec. (c). Pub. L. 97–35 substituted provisions relating to amounts set aside for use under subsec. (b) ofthis section for provisions relating to amounts set aside and reserved in the special fund under subsec. (b) of this section.
 
 Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances required for provisions relating to Indian tribal eligibility for grant as dependent upon conformity of program with prescribed constitutional rights and habeas corpus.
 

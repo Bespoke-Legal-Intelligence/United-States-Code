@@ -26,7 +26,7 @@ The Secretary of Housing and Urban Development shall provide an equitable method
 
 #### (e) Veterans' preference
 
-Any housing disposed of in accordance with this section shall after such disposal be deemed to be housing accommodations the construction of which was completed after June 30, 1947, within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans of World War II or their families.
+Any housing disposed of in accordance with this section shall after such disposal be deemedto be housing accommodations the construction of which was completed after June 30, 1947, within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans of World War II or their families.
 
 #### (f) Terms of sales
 

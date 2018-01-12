@@ -106,7 +106,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (2) Special rule for supplemental benefits
 
-&emsp;For plan year 2011 and each subsequent plan year, in the case where an applicable beneficiary has supplemental benefits with respect to applicable drugs under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in, the applicable beneficiary shall not be provided a discounted price for an applicable drug under this section until after such supplemental benefits have been applied with respect to the applicable drug.
+&emsp;For plan year 2011 and each subsequent plan year, in the case where an applicable beneficiary has supplemental benefits with respect to applicable drugs under the prescriptiondrug plan or MA–PD plan that the applicable beneficiary is enrolled in, the applicable beneficiary shall not be provided a discounted price for an applicable drug under this section until after such supplemental benefits have been applied with respect to the applicable drug.
 
 #### (d) Administration
 
@@ -126,7 +126,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (3) Contract with third parties
 
-&emsp;The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum,the contract with a third party under the preceding sentence shall require that the third party—
+&emsp;The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum, the contract with a third party under the preceding sentence shall require that the third party—
 
 &emsp;&emsp;(A) receive and transmit information between the Secretary, manufacturers, and other individuals or entities the Secretary determines appropriate;
 

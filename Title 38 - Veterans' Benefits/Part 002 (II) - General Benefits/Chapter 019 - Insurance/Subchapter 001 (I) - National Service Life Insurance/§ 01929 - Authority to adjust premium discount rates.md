@@ -6,7 +6,7 @@
 
 (2) The Secretary may make an adjustment under subsection (a) of this section only if the Secretary determines that the adjustment is administratively and actuarially sound for the program of insurance involved.
 
-(Added Pub. L. 100–687, div. B, title XIV, §1401(b)(1), Nov. 18, 1988, 102 Stat. 4129, §729; renumbered §1929 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–687, div. B, title XIV, §1401(b)(1), Nov. 18, 1988, 102 Stat. 4129, §729; renumbered §1929 and amended Pub. L. 102–83,§§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

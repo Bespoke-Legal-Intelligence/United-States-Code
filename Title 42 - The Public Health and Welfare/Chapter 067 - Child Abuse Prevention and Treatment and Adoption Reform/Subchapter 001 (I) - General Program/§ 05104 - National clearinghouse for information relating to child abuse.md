@@ -6,7 +6,7 @@ The Secretary shall through the Department, or by one or more contracts of not l
 
 #### (b) Functions
 
-The Secretary shall, through the clearinghouse established by subsection (a) of this section—
+The Secretary shall, through the clearinghouse established by subsection (a)—
 
 &emsp;(1) maintain, coordinate, and disseminate information on effective programs, including private and community-based programs, that have demonstrated success with respect to the prevention, assessment, identification, and treatment of child abuse or neglect and hold the potential for broad-scale implementation and replication;
 
@@ -46,13 +46,13 @@ The Secretary shall, through the clearinghouse established by subsection (a) of 
 
 #### (1) In general
 
-&emsp;In establishing a national clearinghouse as required by subsection (a) of this section, the Secretary shall—
+&emsp;In establishing a national clearinghouse as required by subsection (a), the Secretary shall—
 
 &emsp;&emsp;(A) consult with other Federal agencies that operate similar clearinghouses;
 
 &emsp;&emsp;(B) consult with the head of each agency involved with child abuse and neglect on the development of the components for information collection and management of such clearinghouse and on the mechanisms for the sharing of such information with other Federal agencies and clearinghouses;
 
-&emsp;&emsp;(C) develop a Federal data system involving the elements under subsection (b) of this section which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
+&emsp;&emsp;(C) develop a Federal data system involving the elements under subsection (b) which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
 
 &emsp;&emsp;&emsp;(i) standardized data on false, unfounded, unsubstantiated, and substantiated reports;
 
@@ -108,7 +108,7 @@ Subsec. (c)(1)(E). Pub. L. 108–36, §111(b)(1), made technical amendment to re
 
 Subsec. (c)(1)(F), (G). Pub. L. 108–36, §111(b)(2), (3), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–235, §104(1), amended heading and text generally. Prior to amendment, text read as follows: "Before the end of the 2-year period beginning on April 25, 1988, the Secretary shall through the Center, or by contract of no less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse."
+<b>1996</b>—Subsec. (a). Pub. L. 104–235, §104(1), amended heading and text generally. Prior to amendment, textread as follows: "Before the end of the 2-year period beginning on April 25, 1988, the Secretary shall through the Center, or by contract of no less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse."
 
 Subsec. (b). Pub. L. 104–235, §104(2)(A), substituted "Secretary" for "Director" in introductory provisions.
 

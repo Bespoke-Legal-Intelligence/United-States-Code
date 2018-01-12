@@ -6,7 +6,7 @@ The Director of the Bureau of Citizenship and Immigration Services shall be resp
 
 &emsp;(1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Citizenship and Immigration Services that are not subject to investigation by the Inspector General for the Department;
 
-&emsp;(2) inspecting the operations of the Bureau of Citizenship and Immigration Services andproviding assessments of the quality of the operations of such bureau as a whole and each of its components; and
+&emsp;(2) inspecting the operations of the Bureau of Citizenship and Immigration Services and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
 
 &emsp;(3) providing an analysis of the management of the Bureau of Citizenship and Immigration Services.
 

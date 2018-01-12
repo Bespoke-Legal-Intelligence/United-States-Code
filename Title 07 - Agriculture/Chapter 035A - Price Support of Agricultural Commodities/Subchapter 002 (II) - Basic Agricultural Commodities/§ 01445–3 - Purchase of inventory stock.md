@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (ii) The Corporation shall, then, offer such tobacco for sale at such times, in such quantities, and subject to such conditions as the Corporation considers appropriate.
 
-(B) If the Commodity Credit Corporation has not sold all of the stocks of the 1983 crop of Burley tobacco within 2 years from the date the Corporation calls the loans on such tobacco, the Corporation may offer to sell to domestic manufacturers of cigarettes the remaining stocks of such tobacco as provided in this section.
+(B) If the Commodity Credit Corporation has not sold all of the stocks of the 1983 crop of Burley tobacco within 2 years from the date theCorporation calls the loans on such tobacco, the Corporation may offer to sell to domestic manufacturers of cigarettes the remaining stocks of such tobacco as provided in this section.
 
 #### (b) Sale prices
 

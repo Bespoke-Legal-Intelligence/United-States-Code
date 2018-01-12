@@ -64,7 +64,7 @@ Pub. L. 86–368, §3, Sept. 22, 1959, 73 Stat. 648, provided that:
 
 #### Repeals
 
-Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; andPub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
+Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; and Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
 
 #### Savings Provision
 
@@ -72,7 +72,7 @@ Pub. L. 86–368, §4, Sept. 22, 1959, 73 Stat. 649, provided that the position 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms,including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Order of Succession
 
@@ -88,6 +88,8 @@ Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in par
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
+
 Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2428.
 
 Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
@@ -97,6 +99,8 @@ Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
 
 Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2429.
 
@@ -272,7 +276,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Internal Revenue Service Mission To Focus on Taxpayers' Needs
 
-Pub. L. 105–206, title I, §1002, July 22, 1998, 112 Stat. 690, provided that: "The Internal Revenue Service shallreview and restate its mission to place a greater emphasis on serving the public and meeting taxpayers' needs."
+Pub. L. 105–206, title I, §1002, July 22, 1998, 112 Stat. 690, provided that: "The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers' needs."
 
 #### Explanation of Joint and Several Liability
 
@@ -514,7 +518,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
-&emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+&emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs,subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
 &emsp;"(2)
 
@@ -594,7 +598,7 @@ Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 sh
 
 #### Fees for Services Rendered
 
-Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, §209, Nov. 30, 2005, 119 Stat. 2439, provided that: "The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spendthe new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service."
+Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, §209, Nov. 30, 2005, 119 Stat. 2439, provided that: "The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service."
 
 #### Disclosure of Rights of Taxpayers
 
@@ -707,6 +711,42 @@ Sec. 4. <i>Administration</i>. To the extent permitted by law and subject to the
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Internal Revenue Service and is not intended, and shall not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13789. Identifying and Reducing Tax Regulatory Burdens
+
+Ex. Ord. No. 13789, Apr. 21, 2017, 82 F.R. 19317, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes of tax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
+
+Sec. 2. <i>Addressing Tax Regulatory Burdens</i>. (a) In furtherance of the policy described in section 1 of this order, the Secretary of the Treasury (Secretary) shall immediately review all significant tax regulations issued by the Department of the Treasury on or after January 1, 2016, and, in consultation with the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, identify in an interim report to the President all such regulations that:
+
+(i) impose an undue financial burden on United States taxpayers;
+
+(ii) add undue complexity to the Federal tax laws; or
+
+(iii) exceed the statutory authority of the Internal Revenue Service.
+
+This interim report shall be completed no later than 60 days from the date of this order. In conducting the review required by this subsection, earlier determinations of whether a regulation is significant pursuant to Executive Order 12866 of September 30, 1993, as amended (Regulatory Planning and Review), shall not be controlling.
+
+(b) No later than 150 days from the date of this order, the Secretary shall prepare and submit a report to the President that recommends specific actions to mitigate the burden imposed by regulations identified in the interim report required under subsection (a) of this section. The Secretary shall also publish this report in the Federal Register upon submitting it to the President. The Secretary shall take appropriate steps to cause the effective date of such regulations to be delayed or suspended, to the extent permitted by law, and to modify or rescind such regulations as appropriate and consistent with law, including, if necessary, through notice and comment rulemaking. The Secretary shall submit for publication in the Federal Register a summary of the actions taken in response to the report no later than 10 days following the finalization of such actions. Should all such actions not be finalized within 180 days following the submission of the report to the President, the Secretary shall submit for publication in the Federal Register an initial report summarizing the actions taken to that point.
+
+(c) To ensure that future tax regulations adhere to the policy described in section 1 of this order, the Secretary and the Director of the Office of Management and Budget shall review and, if appropriate, reconsider the scope and implementation of the existing exemption for certain tax regulations from the review process set forth in Executive Order 12866 and any successor order.
+
+(d) The Secretary shall cause section 32.1.5.4.7.5.3 of the Internal Revenue Manual to be revised, if necessary to fulfill the directives in subsection (c) of this section.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original.</i>
 

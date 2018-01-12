@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this Act (or an amendment made by this Act) shall be construed to require thatan individual terminate coverage under a group health plan or health insurance coverage in which such individual was enrolled on March 23, 2010.
+&emsp;Nothing in this Act (or an amendment made by this Act) shall be construed to require that an individual terminate coverage under a group health plan or health insurance coverage in which such individual was enrolled on March 23, 2010.
 
 #### (2) Continuation of coverage
 
@@ -36,7 +36,7 @@
 
 #### (ii) Adult child coverage
 
-&emsp;&emsp;&emsp;For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act \[42 U.S.C. 300gg–14\] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
+&emsp;&emsp;&emsp;For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act \[42 U.S.C. 300gg–14\] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan thatis a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
 
 #### (b) Allowance for family members to join current coverage
 
@@ -78,7 +78,7 @@ Subsec. (a)(4). Pub. L. 111–152 added par. (4).
 
 #### Effective Date
 
-Subchapter effective for plan years beginning on or after Jan. 1, 2014, except that section 18011 of this title effective Mar. 23, 2010, see section 1255 of Pub. L. 111–148, set out as a note under section 300gg of this title.
+Section effective Mar. 23, 2010, see section 1255(1) of Pub. L. 111–148, set out as a note under section 300gg of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

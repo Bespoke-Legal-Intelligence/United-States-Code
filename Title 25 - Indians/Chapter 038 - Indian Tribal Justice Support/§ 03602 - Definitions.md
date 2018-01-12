@@ -6,7 +6,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term "Courts of Indian Offenses" means the courts established pursuant to part 11 of title 25, Code of Federal Regulations.
 
-&emsp;(3) The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native entity, which administers justice under its inherent authority or the authority of the United States and which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
+&emsp;(3) The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native entity, which administers justice under its inherent authority or the authority of the United States and which is recognized as eligible for the special programs and services provided by the United States toIndian tribes because of their status as Indians.
 
 &emsp;(4) The term "judicial personnel" means any judge, magistrate, court counselor, court clerk, court administrator, bailiff, probation officer, officer of the court, dispute resolution facilitator, or other official, employee, or volunteer within the tribal justice system.
 

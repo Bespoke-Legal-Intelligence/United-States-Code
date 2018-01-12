@@ -32,7 +32,7 @@ Information technology.—The term "information technology"—
 
 &emsp;&emsp;&emsp;(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
 
-&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
+&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services\(including support services), and related resources; but
 
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
@@ -80,7 +80,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 (a) Each agency shall adopt procedures to ensure that the agency does not acquire, reproduce, distribute, or transmit computer software in violation of applicable copyright laws.
 
-(b) Each agency shall establish procedures to ensure that the agency has present on its computers and usesonly computer software not in violation of applicable copyright laws. These procedures may include:
+(b) Each agency shall establish procedures to ensure that the agency has present on its computers and uses only computer software not in violation of applicable copyright laws. These procedures may include:
 
 (1) preparing agency inventories of the software present on its computers;
 

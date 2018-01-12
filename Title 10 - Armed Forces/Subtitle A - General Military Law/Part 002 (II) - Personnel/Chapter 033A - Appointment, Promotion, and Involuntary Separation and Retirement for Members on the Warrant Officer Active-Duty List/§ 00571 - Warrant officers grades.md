@@ -42,7 +42,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 #### Short Title
 
-Pub. L. 102–190, div. A, title XI, §1101, Dec. 5, 1991, 105 Stat. 1491, provided that: "This title \[enacting thischapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the 'Warrant Officer Management Act'."
+Pub. L. 102–190, div. A, title XI, §1101, Dec. 5, 1991, 105 Stat. 1491, provided that: "This title \[enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the 'Warrant Officer Management Act'."
 
 #### Transition and Savings Provisions
 
@@ -84,7 +84,7 @@ Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Gr
 
 &emsp;"(C) holds a permanent grade higher than the temporary grade in which that warrant officer is serving;
 
-> shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment."
+> shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade asif such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment."
 
 Pub. L. 102–190, div. A, title XI, §§1121–1124, Dec. 5, 1991, 105 Stat. 1503–1505, provided that:
 

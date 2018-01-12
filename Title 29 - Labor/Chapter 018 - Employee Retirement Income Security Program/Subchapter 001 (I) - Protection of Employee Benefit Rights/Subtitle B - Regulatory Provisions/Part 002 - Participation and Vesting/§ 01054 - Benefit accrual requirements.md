@@ -22,7 +22,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 &emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
-&emsp;(ii) any change in an accrual rate which does not apply to any individual who is or could bea participant in the current year shall be disregarded;
+&emsp;(ii) any change in an accrual rate which does not apply to any individual who is or could be a participant in the current year shall be disregarded;
 
 &emsp;(iii) the fact that benefits under the plan may be payable to certain employees before normal retirement age shall be disregarded; and
 
@@ -84,7 +84,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (4)(A) For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 1052(b) of this title, determined without regard to section 1052(b)(5) of this title) as determined under regulations prescribed by the Secretary which provide for the calculation of such period on any reasonable and consistent basis.
 
-(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
+(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit towhich he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 (C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
@@ -162,7 +162,7 @@ In general.—The term "applicable plan amendment" means an amendment to a defin
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained byan employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -202,7 +202,7 @@ Protection against loss.—Except in the case of any benefit provided in the for
 
 &emsp;&emsp;(iii)
 
-Indexing.—For purposes of this subparagraph, the term "indexing" means, inconnection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
+Indexing.—For purposes of this subparagraph, the term "indexing" means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
 
 &emsp;(F)
 
@@ -238,7 +238,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
-> For purposes of this subparagraph, the term "mandatory contributions" means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
+> For purposes of this subparagraph, the term "mandatory contributions" means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
 (D) The Secretary of the Treasury is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginning before the expiration of 1 year after such adjustment is determined and published.
 
@@ -282,7 +282,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) eliminating an optional form of benefit,
 
-> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adverselyaffects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
 
 (3) For purposes of this subsection, any—
 
@@ -528,7 +528,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1002(24) of this title, an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+&emsp;Notwithstanding section 1002(24) of this title, an applicable plan shall not be treated asfailing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
 
 #### (2) Applicable plan
 
@@ -560,7 +560,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b),June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
 
 #### References in Text
 
@@ -718,7 +718,7 @@ Amendment by section 659(b) of Pub. L. 107–16 applicable to plan amendments ta
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub.L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 
@@ -758,7 +758,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
+Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignatedand amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 
 "(A)
 

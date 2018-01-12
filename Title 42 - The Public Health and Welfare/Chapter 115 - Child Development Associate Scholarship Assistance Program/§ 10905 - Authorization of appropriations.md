@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this chapter such sums as m
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–252 substituted "to carry out this chapter such sums as may be necessary for fiscal year 1995" for "$1,500,000 for fiscal year 1990, $3,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994 for carrying out this chapter".
+<b>1994</b>—Pub. L. 103–252 substituted "to carry out this chapter such sums as may be necessary for fiscal year1995" for "$1,500,000 for fiscal year 1990, $3,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994 for carrying out this chapter".
 
 <b>1990</b>—Pub. L. 101–501 substituted "are authorized" for "is authorized", inserted ", $3,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994" after "1990", and directed the substitution of "fiscal year" for "each of the fiscal years 1987, 1988, and 1989, and", which was executed by making the substitution for "each of the fiscal years 1987, 1988, 1989, and" to reflect the probable intent of Congress.
 
@@ -17,4 +17,8 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under section 8621 of this title.
 

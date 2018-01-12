@@ -8,7 +8,7 @@ The Secretary shall promulgate rules and regulations directed toward the surface
 
 Each permit issued under any approved State or Federal program pursuant to this chapter and relating to underground coal mining shall require the operator to—
 
-&emsp;(1) adopt measures consistent with known technology in order to prevent subsidence causing material damage to the extent technologically and economically feasible, maximize mine stability, and maintain the value and reasonably foreseeable use of such surface lands, except in those instances where the mining technology used requires planned subsidence in a predictable and controlled manner: <i>Provided</i>, That nothing in this subsection shall be construed to prohibit the standard method of room and pillar mining;
+&emsp;(1) adopt measures consistent with known technology in order to prevent subsidence causing material damage to the extent technologically and economically feasible, maximizemine stability, and maintain the value and reasonably foreseeable use of such surface lands, except in those instances where the mining technology used requires planned subsidence in a predictable and controlled manner: <i>Provided</i>, That nothing in this subsection shall be construed to prohibit the standard method of room and pillar mining;
 
 &emsp;(2) seal all portals, entryways, drifts, shafts, or other openings between the surface and underground mine working when no longer needed for the conduct of the mining operations;
 
@@ -32,7 +32,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;&emsp;&emsp;(ii) treating drainage to reduce toxic content which adversely affects downstream water upon being released to water courses;
 
-&emsp;&emsp;&emsp;(iii) casing, sealing, or otherwise managing boreholes, shafts, and wells to keepacid or other toxic drainage from entering ground and surface waters; and
+&emsp;&emsp;&emsp;(iii) casing, sealing, or otherwise managing boreholes, shafts, and wells to keep acid or other toxic drainage from entering ground and surface waters; and
 
 &emsp;&emsp;(B) conducting surface coal mining operations so as to prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow or runoff outside the permit area (but in no event shall such contributions be in excess of requirements set by applicable State or Federal law), and avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
 

@@ -10,7 +10,7 @@ The President shall direct appropriate Federal agencies to provide technical ass
 
 #### (c) Warnings to governmental authorities and public endangered by disaster
 
-The President is authorized to utilize or to make available to Federal, State, and local agencies the facilities of the civil defense communications system established and maintained pursuant to section 5196(c) of this title or any other Federal communications system for thepurpose of providing warning to governmental authorities and the civilian population in areas endangered by disasters.
+The President is authorized to utilize or to make available to Federal, State, and local agencies the facilities of the civil defense communications system established and maintained pursuant to section 5196(c) of this title or any other Federal communications system for the purpose of providing warning to governmental authorities and the civilian population in areas endangered by disasters.
 
 #### (d) Agreements with commercial communications systems for use of facilities
 

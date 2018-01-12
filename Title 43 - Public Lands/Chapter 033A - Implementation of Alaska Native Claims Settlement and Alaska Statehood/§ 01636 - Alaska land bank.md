@@ -2,7 +2,7 @@
 
 #### (a) Establishment; agreements
 
-(1) In order to enhance the quantity and quality of Alaska's renewable resources and to facilitate the coordinated management and protection of Federal, State, and Native and other private lands, there is hereby established the Alaska Land Bank Program. Any private landowner is authorized as provided in this section to enter into a written agreement with the Secretary if his lands adjoin, or his use of such lands would directly affect, Federal land, Federal and State land, or State land if the State is not participating in the program. Any private landowner described in subsection (d)(1) whose lands do not adjoin, or whose use of such lands would not directly affect either Federal or State lands also is entitled to enter into an agreement with the Secretary. Any private landowner whose lands adjoin, or whose use of such lands would directly affect, only State, or State and private lands, is authorized as provided in this section to enter into an agreement with the State of Alaska if the State is participating in the program. If the Secretary is the contracting party with the private landowner, he shall afford the State an opportunity to participate in negotiations and become a party to the agreement. An agreement may include all or part of the lands of any private landowner: <i>Provided</i>, That no lands shall be included in the agreement unless the Secretary, or the State, determines that the purposes of the program will be promoted by their inclusion.
+(1) In order to enhance the quantity and quality of Alaska's renewable resources and to facilitate the coordinated management and protection of Federal, State, and Native and other private lands, there is hereby established the Alaska Land Bank Program. Any private landowner is authorized as provided in this section to enter into a written agreement with the Secretary if his lands adjoin, or his use of such lands would directly affect, Federal land, Federal and State land, or State land if the State is not participating in the program. Any private landowner described in subsection (d)(1) whose lands do not adjoin, or whose use of such lands would not directly affect either Federal or State lands also is entitled to enter into an agreement with the Secretary. Any private landowner whose lands adjoin, or whose use of such lands would directlyaffect, only State, or State and private lands, is authorized as provided in this section to enter into an agreement with the State of Alaska if the State is participating in the program. If the Secretary is the contracting party with the private landowner, he shall afford the State an opportunity to participate in negotiations and become a party to the agreement. An agreement may include all or part of the lands of any private landowner: <i>Provided</i>, That no lands shall be included in the agreement unless the Secretary, or the State, determines that the purposes of the program will be promoted by their inclusion.
 
 (2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7), and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a private landowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
 
@@ -80,7 +80,7 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation;
 
-&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recordedby such holder or agent unless the subdivided property is a remainder parcel; and
+&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
 
 &emsp;(iv) lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
@@ -98,7 +98,7 @@ Action by a Trustee.—(A) Except as provided in this paragraph and in section 1
 
 (B) The prohibitions of subparagraph (A) shall not apply—
 
-&emsp;(i) when the actions of such trustee, receiver, or custodian are for purposes of exploration or pursuant to a judgment in law or in equity (or arbitration award) arising out of any claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\];
+&emsp;(i) when the actions of such trustee, receiver, or custodian are for purposes of exploration or pursuant to a judgment in law or in equity (or arbitration award) arising out ofany claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\];
 
 &emsp;(ii) to any land, or interest in land, which has been—
 
@@ -164,7 +164,7 @@ Except as expressly provided in subsection (d), no provision of this section sha
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18,1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 

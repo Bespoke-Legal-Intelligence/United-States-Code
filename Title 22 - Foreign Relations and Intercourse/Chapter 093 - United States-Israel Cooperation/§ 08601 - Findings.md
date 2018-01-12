@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(5) A nuclear-weapons capable Iran would fundamentally threaten vital United States interests, encourage regional nuclear proliferation, further empower Iran, the world's leading state sponsor of terror, and pose a serious and destabilizing threat to Israel and the region.
 
-&emsp;(6) Over the past several years, with the assistance of the Governments of the Islamic Republic of Iran and Syria, Hizbollah and Hamas have increased their stockpile of rockets, with more than 60,000 now ready to be fired at Israel. The Government of the Islamic Republicof Iran continues to add to its arsenal of ballistic missiles and cruise missiles, which threaten Iran's neighbors, Israel, and United States Armed Forces in the region.
+&emsp;(6) Over the past several years, with the assistance of the Governments of the Islamic Republic of Iran and Syria, Hizbollah and Hamas have increased their stockpile of rockets, with more than 60,000 now ready to be fired at Israel. The Government of the Islamic Republic of Iran continues to add to its arsenal of ballistic missiles and cruise missiles, which threaten Iran's neighbors, Israel, and United States Armed Forces in the region.
 
 &emsp;(7) As a result, Israel is facing a fundamentally altered strategic environment.
 

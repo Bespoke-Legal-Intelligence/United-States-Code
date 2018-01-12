@@ -24,7 +24,7 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 #### (b) Posting requirements imposed upon employers
 
-Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a migrant agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide upon request, a written statement of the information described in subsection (a).
+Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the rightof a migrant agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide upon request, a written statement of the information described in subsection (a).
 
 #### (c) Posting or notice requirements imposed upon housing providers
 
@@ -71,4 +71,8 @@ The information required to be disclosed by subsections (a) through (c) of this 
 #### Effective Date of 1995 Amendment
 
 Pub. L. 104–49, §4(c), Nov. 15, 1995, 109 Stat. 434, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1831 of this title\] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments." \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
+
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 

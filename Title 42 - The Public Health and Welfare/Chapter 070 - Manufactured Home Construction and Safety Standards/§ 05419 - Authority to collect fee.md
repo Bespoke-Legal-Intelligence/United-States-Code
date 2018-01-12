@@ -20,7 +20,7 @@ In carrying out inspections under this chapter, in developing standards and regu
 
 &emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary is required to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
 
-&emsp;(2) subject to subsection (e) of this section, use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
+&emsp;(2) subject to subsection (e), use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
 
 #### (b) Contractors
 
@@ -28,7 +28,7 @@ In using amounts from any fee collected under this section, the Secretary shall 
 
 #### (c) Prohibited use
 
-No amount from any fee collected under this section may be used for any purpose or activity not specifically authorized by this chapter, unless such activity was already engaged in by the Secretary prior to December 27, 2000.
+No amount from any fee collected under this section may be used for any purpose or activitynot specifically authorized by this chapter, unless such activity was already engaged in by the Secretary prior to December 27, 2000.
 
 #### (d) Modification
 
@@ -50,7 +50,7 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### (3) Payments to States
 
-&emsp;On and after the effective date of the Manufactured Housing Improvement Act of 2000, theSecretary shall continue to fund the States having approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
+&emsp;On and after the effective date of the Manufactured Housing Improvement Act of 2000, the Secretary shall continue to fund the States having approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
 
 (Pub. L. 93–383, title VI, §620, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–153, title III, §320, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §609, Dec. 27, 2000, 114 Stat. 3010.)
 
@@ -69,6 +69,10 @@ For the effective date of the Manufactured Housing Improvement Act of 2000, refe
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 
 #### Manufactured Housing
 

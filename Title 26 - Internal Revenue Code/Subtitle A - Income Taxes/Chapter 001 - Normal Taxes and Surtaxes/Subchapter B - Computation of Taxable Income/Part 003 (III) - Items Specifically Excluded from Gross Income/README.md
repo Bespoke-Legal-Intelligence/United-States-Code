@@ -57,11 +57,14 @@
 | [139D.](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md) | Indian health care benefits. |
 | [139E.](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md) | Indian general welfare benefits. |
 | [139F.](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md) | Certain amounts received by wrongfully incarcerated individuals. |
+| [139G.](%C2%A7%2000139G%20-%20Assignments%20to%20Alaska%20Native%20Settlement%20Trusts.md) | Assignments to Alaska Native Settlement Trusts. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13821(a)(2), Dec. 22, 2017, 131 Stat. 2178, added item 139G.
 
 <b>2015</b>—Pub. L. 114–113, div. Q, title III, §304(b), Dec. 18, 2015, 129 Stat. 3088, added item 139F.
 
@@ -260,4 +263,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139D - Indian health care benefits](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md)
 - [&sect; 00139E - Indian general welfare benefits](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md)
 - [&sect; 00139F - Certain amounts received by wrongfully incarcerated individuals](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md)
+- [&sect; 00139G - Assignments to Alaska Native Settlement Trusts](%C2%A7%2000139G%20-%20Assignments%20to%20Alaska%20Native%20Settlement%20Trusts.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

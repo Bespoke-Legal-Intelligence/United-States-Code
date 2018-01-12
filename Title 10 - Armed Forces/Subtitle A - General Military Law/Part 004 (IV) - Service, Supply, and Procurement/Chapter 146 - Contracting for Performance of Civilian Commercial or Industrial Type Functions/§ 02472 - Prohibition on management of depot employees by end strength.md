@@ -20,5 +20,5 @@ The text of section 2466(b) of this title, which was transferred to this section
 
 #### Submission of Initial Report
 
-Pub. L. 104–106, div. A, title III, §312(c), Feb. 10, 1996, 110 Stat. 250, required the report under subsec. (b) of this section for fiscal year 1996 to be submitted not later than Mar. 15, 1996.
+Pub. L. 104–106, div. A, title III, §312(c), Feb. 10, 1996, 110 Stat. 250, required the report under subsec. (b) ofthis section for fiscal year 1996 to be submitted not later than Mar. 15, 1996.
 

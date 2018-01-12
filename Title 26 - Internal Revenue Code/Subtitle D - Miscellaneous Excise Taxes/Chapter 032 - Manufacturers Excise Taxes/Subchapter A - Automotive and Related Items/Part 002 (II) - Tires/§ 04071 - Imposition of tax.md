@@ -6,7 +6,7 @@ There is hereby imposed on taxable tires sold by the manufacturer, producer, or 
 
 #### (b) Special rule for manufacturers who sell at retail
 
-Under regulations prescribed by the Secretary, if the manufacturer, producer, or importer of any tire delivers such tire to a retail store or retail outlet of such manufacturer, producer, or importer, he shall be liable for tax under subsection (a) in respect of such tire in the same manner as if it had been sold at the time it was delivered to such retail store or outlet. This subsection shall not apply to an article in respect to which tax has been imposed by subsection (a). Subsection (a) shall not apply to an article in respect of which tax has been imposed by this subsection.
+Under regulations prescribed by the Secretary, if the manufacturer, producer, or importer of any tire delivers such tire to a retail store or retail outlet of such manufacturer, producer, or importer, he shall be liable for tax under subsection (a) in respect of such tire in the same manner as if it had been sold at the time it was delivered to such retail store or outlet. This subsection shall not apply to an article in respect to which tax has been imposed by subsection (a).Subsection (a) shall not apply to an article in respect of which tax has been imposed by this subsection.
 
 #### (c) Tires on imported articles
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–440, §1(b), Apr. 22, 1960, 74 Stat. 81, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[April 22, 1960\]."
+Pub. L. 86–440, §1(b), Apr. 22, 1960, 74 Stat. 81, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articlessold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[April 22, 1960\]."
 
 #### Effective Date of 1956 Amendment
 

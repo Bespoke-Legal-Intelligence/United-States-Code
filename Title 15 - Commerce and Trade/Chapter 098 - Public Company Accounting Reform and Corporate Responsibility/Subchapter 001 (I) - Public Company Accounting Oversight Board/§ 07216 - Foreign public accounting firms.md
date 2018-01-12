@@ -58,7 +58,7 @@ In this section, the term "foreign public accounting firm" means a public accoun
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

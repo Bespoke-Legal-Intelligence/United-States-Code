@@ -46,7 +46,7 @@ Members of the Board, other than full-time employees of the United States, while
 
 (2) The Secretary of Energy should, not later than 180 days after receiving a completed application for a security clearance for an individual under this subsection, make a determination of whether or not the individual is eligible for the clearance.
 
-(3) For fiscal year 2016 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
+(3) For fiscal year 2016 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applicationsgranted, and the number of such applications denied.
 
 #### (g) Information
 
@@ -68,13 +68,17 @@ The Secretary of Energy shall, in accordance with law, provide to the Board and 
 
 #### (i) Sunset
 
-The Board shall terminate on the date that is 5 years after December 19, 2014.
+The Board shall terminate on the date that is 10 years after December 19, 2014.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3687\], as added Pub. L. 113–291, div. C, title XXXI, §3141(a), Dec. 19, 2014, 128 Stat. 3897.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3687\], as added Pub. L. 113–291, div. C, title XXXI, §3141(a), Dec. 19, 2014, 128 Stat. 3897; Pub. L. 115–91, div. C, title XXXI, §3120, Dec. 12, 2017, 131 Stat. 1892.)
 
 #### References in Text
 
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is Pub. L. 106–554, §1(a)(4) \[div. B, title I, §151\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (i). Pub. L. 115–91 substituted "10 years" for "5 years".
 
 #### Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health
 

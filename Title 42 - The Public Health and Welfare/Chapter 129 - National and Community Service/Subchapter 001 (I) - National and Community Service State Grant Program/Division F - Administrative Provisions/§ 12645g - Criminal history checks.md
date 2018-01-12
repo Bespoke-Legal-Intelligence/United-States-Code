@@ -8,7 +8,7 @@ Each entity selecting individuals to serve in a position in which the individual
 
 A criminal history check under subsection (a) shall, except in cases approved for good cause by the Corporation, include—
 
-&emsp;(1) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); and
+&emsp;(1) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); <sup>1</sup> and
 
 &emsp;(2)(A) a search of the State criminal registry or repository in the State in which the program is operating and the State in which the individual resides at the time of application; or
 
@@ -22,7 +22,7 @@ An individual shall be ineligible to serve in a position described under subsect
 
 &emsp;(2) makes a false statement in connection with such criminal history check;
 
-&emsp;(3) is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); or
+&emsp;(3) is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); <sup>1</sup> or
 
 &emsp;(4) has been convicted of murder, as described in section 1111 of title 18.
 
@@ -32,7 +32,7 @@ An individual shall be ineligible to serve in a position described under subsect
 
 &emsp;Notwithstanding subsection (b), on and after the date that is 2 years after April 21, 2009, a criminal history check under subsection (a) for each individual described in paragraph (2) shall, except for an entity described in paragraph (3), include—
 
-&emsp;&emsp;(A) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.);
+&emsp;&emsp;(A) a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); <sup>1</sup>
 
 &emsp;&emsp;(B) a search of the State criminal registry or repository in the State in which the program is operating and the State in which the individual resides at the time of application; and
 
@@ -70,7 +70,7 @@ An individual shall be ineligible to serve in a position described under subsect
 
 #### References in Text
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification ofthis Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(1), (c)(3), and (d)(1)(A), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which was classified principally to chapter 151 (§16901 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Amendments
 
@@ -79,4 +79,6 @@ The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. 
 #### Effective Date
 
 Enactment and amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

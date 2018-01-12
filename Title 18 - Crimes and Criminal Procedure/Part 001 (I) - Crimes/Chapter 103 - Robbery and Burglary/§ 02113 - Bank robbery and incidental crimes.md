@@ -26,7 +26,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 &emsp;(2) a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)(C)) that is operating under the laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(l), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(l), Nov. 29, 1990, 104 Stat. 4911; Pub.L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Historical and Revision Notes
 
@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted "any institution the deposits of which" for "any bank the deposits of which".
 
-Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted "NationalCredit Union Administration Board, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act" for "Administrator of the National Credit Union Administration", and struck out former subsec. (g) which read as follows: "As used in this section the term 'savings and loan association' means any Federal savings and loan association and any 'insured institution' as defined in section 401 of the National Housing Act, as amended, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act."
+Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted "National Credit Union Administration Board, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act" for "Administrator of the National Credit Union Administration", and struck out former subsec. (g) which read as follows: "As used in this section the term 'savings and loan association' means any Federal savings and loan association and any 'insured institution' as defined in section 401 of the National Housing Act, as amended, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646 inserted ", or obtains or attempts to obtain by extortion" after "presence of another" in first par.
 

@@ -8,7 +8,7 @@ To effectuate the declared policy of section 6301(b) of this title, the Secretar
 
 #### (1) Proposal or request for issuance
 
-&emsp;The Secretary may propose the issuance of an order under this chapter, or an association of soybean producers or any other person that would be affected by an order issued pursuant to this chapter may request the issuance of, and submit a proposal for, such an order.
+&emsp;The Secretary may propose the issuance of an order under this chapter, or an associationof soybean producers or any other person that would be affected by an order issued pursuant to this chapter may request the issuance of, and submit a proposal for, such an order.
 
 #### (2) Notice and comment concerning proposed order
 

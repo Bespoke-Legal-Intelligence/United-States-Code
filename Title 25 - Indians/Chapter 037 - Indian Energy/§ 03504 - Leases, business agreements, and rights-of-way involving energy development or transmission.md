@@ -162,7 +162,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 (ii) Notwithstanding subparagraph (B), the United States shall not be liable to any party (including any Indian tribe) for any negotiated term of, or any loss resulting from the negotiated terms of, a lease, business agreement, or right-of-way executed pursuant to and in accordance with a tribal energy resource agreement approved by the Secretary under paragraph (2).
 
-(7)(A) In this paragraph, the term "interested party" means any person (including an entity) that has demonstrated that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
+(7)(A) In this paragraph, the term "interested party" means any person (including an entity) that has demonstrated that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energyresource agreement of the Indian tribe approved by the Secretary under paragraph (2).
 
 (B) After exhaustion of any tribal remedy, and in accordance with regulations promulgated by the Secretary under paragraph (8), an interested party may submit to the Secretary a petition to review the compliance by an Indian tribe with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
 

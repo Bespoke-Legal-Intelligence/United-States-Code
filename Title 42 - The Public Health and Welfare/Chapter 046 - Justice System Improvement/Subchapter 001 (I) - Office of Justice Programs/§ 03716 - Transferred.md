@@ -1,0 +1,10 @@
+### §3716. Transferred
+
+#### Codification
+
+Section 3716 was editorially reclassified as section 30503 of Title 34, Crime Control and Law Enforcement.
+
+#### Definitions
+
+Pub. L. 111–84, div. E, §4703(b), Oct. 28, 2009, 123 Stat. 2836, which defined terms, was editorially reclassified as section 30502 of Title 34, Crime Control and Law Enforcement.
+

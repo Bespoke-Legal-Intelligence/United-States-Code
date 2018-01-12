@@ -20,3 +20,7 @@ The Chair shall—
 
 <b>1985</b>—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
 
+#### Effective Date
+
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
+

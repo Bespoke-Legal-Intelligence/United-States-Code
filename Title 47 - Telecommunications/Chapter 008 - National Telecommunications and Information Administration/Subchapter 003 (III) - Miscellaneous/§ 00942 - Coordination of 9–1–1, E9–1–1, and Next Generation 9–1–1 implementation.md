@@ -144,7 +144,7 @@ In this section, the following definitions shall apply:
 
 #### (4) Emergency call
 
-&emsp;The term "emergency call" refers to any real-time communication with a public safety answering point or other emergency management or response agency, including—
+&emsp;The term "emergency call" refers to any real-time communication with a public safetyanswering point or other emergency management or response agency, including—
 
 &emsp;&emsp;(A) through voice, text, or video and related data; and
 
@@ -188,7 +188,7 @@ In this section, the following definitions shall apply:
 
 Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the AssistantSecretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
 
 #### Findings
 

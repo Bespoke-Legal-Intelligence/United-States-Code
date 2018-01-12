@@ -12,19 +12,51 @@ A method of determining inventories shall not be treated as failing to clearly r
 
 &emsp;(2) the taxpayer makes proper adjustments to such inventories and to its estimating methods to the extent such estimates are greater than or less than the actual shrinkage.
 
-#### (c) Cross reference
+#### (c) Exemption for certain small businesses
+
+#### (1) In general
+
+&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year—
+
+&emsp;&emsp;(A) subsection (a) shall not apply with respect to such taxpayer for such taxable year, and
+
+&emsp;&emsp;(B) the taxpayer's method of accounting for inventory for such taxable year shall not be treated as failing to clearly reflect income if such method either—
+
+&emsp;&emsp;&emsp;(i) treats inventory as non-incidental materials and supplies, or
+
+&emsp;&emsp;&emsp;(ii) conforms to such taxpayer's method of accounting reflected in an applicable financial statement of the taxpayer with respect to such taxable year or, if the taxpayer does not have any applicable financial statement with respect to such taxable year, the books and records of the taxpayer prepared in accordance with the taxpayer's accounting procedures.
+
+#### (2) Applicable financial statement
+
+&emsp;For purposes of this subsection, the term "applicable financial statement" has the meaning given the term in section 451(b)(3).
+
+#### (3) Application of gross receipts test to individuals, etc.
+
+&emsp;In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+
+#### (4) Coordination with section 481
+
+&emsp;Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+
+#### (d) Cross reference
 
 &emsp;&emsp;<b>For rules relating to capitalization of direct and indirect costs of property, see section 263A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VIII, §803(b)(4), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 105–34, title IX, §961(a), Aug. 5, 1997, 111 Stat. 891.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 99–514, title VIII, §803(b)(4), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 105–34, title IX, §961(a), Aug. 5, 1997, 111 Stat. 891; Pub. L. 115–97, title I, §13102(c), Dec. 22, 2017, 131 Stat. 2103.)
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (c), (d). Pub. L. 115–97 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1997</b>—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1986</b>—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13102(e) of Pub. L. 115–97, set out as a note under section 263A of this title.
 
 #### Effective Date of 1997 Amendment
 

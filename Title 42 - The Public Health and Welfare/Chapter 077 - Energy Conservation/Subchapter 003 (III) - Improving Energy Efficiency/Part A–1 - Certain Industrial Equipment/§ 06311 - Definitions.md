@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;&emsp;(iv) refrigeration equipment;
 
-&emsp;&emsp;(v) electric lights;
+&emsp;&emsp;(v) electric lights and lighting power supply circuits;
 
 &emsp;&emsp;(vi) electrolytic equipment;
 
@@ -214,7 +214,7 @@ Exclusion.—The terms "walk-in cooler" and "walk-in freezer" do not include pro
 
 &emsp;&emsp;(B) is designed for use in—
 
-&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-family housing common areas and coin laundries; or
+&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-familyhousing common areas and coin laundries; or
 
 &emsp;&emsp;&emsp;(ii) other commercial applications.
 
@@ -246,9 +246,11 @@ Single package vertical heat pump.—The term "single package vertical heat pump
 
 &emsp;&emsp;(B) may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
 
-(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§312(a), 313(a), 314(a), Dec. 19, 2007, 121 Stat. 1564, 1568, 1569; Pub. L. 112–210, §10(c)(1), Dec. 18, 2012, 126 Stat. 1525.)
+(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§312(a), 313(a), 314(a), Dec. 19, 2007, 121 Stat. 1564, 1568, 1569; Pub. L. 112–210, §10(c)(1), Dec. 18, 2012, 126 Stat. 1525; Pub. L. 115–115, §2(b)(1), Jan. 12, 2018, 131 Stat. 2280.)
 
 #### Amendments
+
+<b>2018</b>—Par. (2)(B)(v). Pub. L. 115–115 added cl. (v) and struck out former cl. (v) which read as follows: " electric lights;".
 
 <b>2012</b>—Par. (2)(B)(xiii). Pub. L. 112–210 added cl. (xiii).
 

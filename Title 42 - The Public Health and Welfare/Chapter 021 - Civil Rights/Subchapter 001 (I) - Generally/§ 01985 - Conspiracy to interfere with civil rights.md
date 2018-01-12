@@ -2,7 +2,7 @@
 
 #### (1) Preventing officer from performing duties
 
-If two or more persons in any State or Territory conspire to prevent, by force, intimidation, or threat, any person from accepting or holdingany office, trust, or place of confidence under the United States, or from discharging any duties thereof; or to induce by like means any officer of the United States to leave any State, district, or place, where his duties as an officer are required to be performed, or to injure him in his person or property on account of his lawful discharge of the duties of his office, or while engaged in the lawful discharge thereof, or to injure his property so as to molest, interrupt, hinder, or impede him in the discharge of his official duties;
+If two or more persons in any State or Territory conspire to prevent, by force, intimidation, or threat, any person from accepting or holding any office, trust, or place of confidence under the United States, or from discharging any duties thereof; or to induce by like means any officer of the United States to leave any State, district, or place, where his duties as an officer are required to be performed, or to injure him in his person or property on account of his lawful discharge of the duties of his office, or while engaged in the lawful discharge thereof, or to injure his property so as to molest, interrupt, hinder, or impede him in the discharge of his official duties;
 
 #### (2) Obstructing justice; intimidating party, witness, or juror
 

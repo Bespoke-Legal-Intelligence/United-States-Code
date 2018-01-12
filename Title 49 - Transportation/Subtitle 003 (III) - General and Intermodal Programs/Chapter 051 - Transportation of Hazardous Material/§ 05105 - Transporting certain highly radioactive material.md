@@ -64,7 +64,7 @@ In subsection (a), section 16(e) of the Hazardous Materials Transportation Unifo
 
 In subsection (b), the words "Secretary of Energy" are substituted for "Department of Energy" because of 42:7131.
 
-In subsection (c), the word "regulations" is substituted for "rule" for consistency in the revised titleand with other titles of the United States Code and because "rule" and "regulation" are synonymous.
+In subsection (c), the word "regulations" is substituted for "rule" for consistency in the revised title and with other titles of the United States Code and because "rule" and "regulation" are synonymous.
 
 In subsection (d), before clause (1), the words "In combination" are omitted as surplus.
 

@@ -32,7 +32,7 @@ On and after the date the Commissioner takes office, the Board shall advise the 
 
 &emsp;(A) 3 members shall be appointed by the President, by and with the advice and consent of the Senate. Not more than 2 of such members shall be from the same political party.
 
-&emsp;(B) 2 members (each member from a different political party) shall be appointed by the President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
+&emsp;(B) 2 members (each member from a different political party) shall be appointed bythe President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
 
 &emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and the Ranking Minority Member of the House Committee on Ways and Means.
 
@@ -162,5 +162,5 @@ Section 5227.—Section 5227 \[probably means section 5527 of this Act which is 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

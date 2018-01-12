@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) One representative from the National Cancer Institute Board of Scientific Advisors, appointed by the Director of the National Cancer Institute.
 
-&emsp;&emsp;&emsp;&emsp;(IV) The heads of such other agencies of the Department of Health and Human Services as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;&emsp;(IV) The heads of such other agencies of the Department of Health and HumanServices as the Secretary determines appropriate.
 
 &emsp;&emsp;&emsp;&emsp;(V) Representatives of other Federal agencies that conduct or support cancer research, including the Department of Defense.
 

@@ -6,7 +6,7 @@ The Secretary is authorized to enter into a contract or contracts with any State
 
 #### (b) Eligibility requirements for assistance in federally-affected areas; applicability to projects in determining maximum amount, allocation, of funds, etc.
 
-The Secretary may expend not less than 75 per centum of such funds as are authorized and appropriated pursuant to this section on those projects which meet the eligibility requirements under subsections (a) and (b) of section 644 <sup>1</sup> of title 20. Such funds shall be allocated on the basis of existing funding priorities, if any, established by the Secretary of Education under subsections (a) and (b) of section 644 <sup>1</sup> of title 20. The Secretary of Education is directed to submit to the Secretary, at the beginning of each fiscal year, commencing with the first full fiscal year after January 4, 1975, a list of those projects eligible for funding under subsections (a) and (b) of section 644 <sup>1</sup> of title 20.
+The Secretary may expend not less than 75 per centum of such funds as are authorized and appropriated pursuant to this section on those projects which meet the eligibility requirements under subsections (a) and (b) of section 644 <sup>1</sup> oftitle 20. Such funds shall be allocated on the basis of existing funding priorities, if any, established by the Secretary of Education under subsections (a) and (b) of section 644 <sup>1</sup> of title 20. The Secretary of Education is directed to submit to the Secretary, at the beginning of each fiscal year, commencing with the first full fiscal year after January 4, 1975, a list of those projects eligible for funding under subsections (a) and (b) of section 644 <sup>1</sup> of title 20.
 
 #### (c) Eligibility of private schools to receive funds; maximum amount
 
@@ -30,7 +30,7 @@ Within ninety days following the expiration of the three year period following J
 
 &emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
 
-&emsp;(2) a description of the working relationship between the Department of the Interior andthe Department of Education including any memorandum of understanding in connection with the acquisition of data pursuant to subsection (b) of this section;
+&emsp;(2) a description of the working relationship between the Department of the Interior and the Department of Education including any memorandum of understanding in connection with the acquisition of data pursuant to subsection (b) of this section;
 
 &emsp;(3) projections of the Secretary of future construction needs of the public schools serving Indian children residing on or adjacent to Indian reservations;
 

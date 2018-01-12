@@ -16,7 +16,7 @@ In the case of—
 
 &emsp;(6) an ABLE account (within the meaning of section 529A),
 
-> there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the closeof the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
+> there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
 
 #### (b) Excess contributions
 
@@ -54,7 +54,7 @@ For purposes of this section, in the case of a custodial account referred to in 
 
 For purposes of this section, in the case of Archer MSAs (within the meaning of section 220(d)), the term "excess contributions" means the sum of—
 
-&emsp;(1) the aggregate amount contributed for the taxable year to the accounts (other than rollover contributions described in section 220(f)(5)) which is neither excludable from gross income under section 106(b) nor allowable as a deduction under section 220 for such year, and
+&emsp;(1) the aggregate amount contributed for the taxable year to the accounts (other than rollover contributions described in section220(f)(5)) which is neither excludable from gross income under section 106(b) nor allowable as a deduction under section 220 for such year, and
 
 &emsp;(2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.
 
-(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(e), Dec. 8, 2003, 117 Stat. 2478; Pub. L. 108–311, title IV, §408(a)(22), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 113–295, div. B, title I, §102(b), Dec. 19, 2014, 128 Stat. 4061.)
+(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III,§§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(e), Dec. 8, 2003, 117 Stat. 2478; Pub. L. 108–311, title IV, §408(a)(22), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 113–295, div. B, title I, §102(b), Dec. 19, 2014, 128 Stat. 4061.)
 
 #### Amendments
 
@@ -290,7 +290,7 @@ Amendment by section 213(d) of Pub. L. 105–34 applicable to taxable years begi
 
 Amendment by section 302(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 302(f) of Pub. L. 105–34, set out as a note under section 219 of this title.
 
-Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) of Pub. L. 105–33, set out as an Effective Date note under section 138 of this title.
+Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) ofPub. L. 105–33, set out as an Effective Date note under section 138 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -322,7 +322,7 @@ Amendment by section 313(b)(2) of Pub. L. 97–34 applicable to redemptions afte
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovision of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 22 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provision of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 22 of this title.
 
 #### Effective Date of 1978 Amendment
 

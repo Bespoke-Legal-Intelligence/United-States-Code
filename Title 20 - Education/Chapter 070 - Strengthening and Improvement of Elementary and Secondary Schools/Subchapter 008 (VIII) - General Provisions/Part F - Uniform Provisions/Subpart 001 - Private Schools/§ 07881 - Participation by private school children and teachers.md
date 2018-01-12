@@ -50,9 +50,11 @@
 
 &emsp;&emsp;(C) part A of subchapter III;
 
-&emsp;&emsp;(D) part A of subchapter IV; and
+&emsp;&emsp;(D) part A of subchapter IV;
 
-&emsp;&emsp;(E) part B of subchapter IV.
+&emsp;&emsp;(E) part B of subchapter IV; and
+
+&emsp;&emsp;(F) section 7281 of this title, with regard to Project SERV.
 
 #### (2) Definition
 
@@ -108,7 +110,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;If the private school official wishes to file a complaint, the private school official shall provide the basis of the noncompliance andall parties shall provide the appropriate documentation to the appropriate officials.
+&emsp;&emsp;If the private school official wishes to file a complaint, the private school official shall provide the basis of the noncompliance and all parties shall provide the appropriate documentation to the appropriate officials.
 
 #### (C) Services
 
@@ -142,13 +144,15 @@
 
 &emsp;&emsp;Funds used to provide services under this section shall not be commingled with non-Federal funds.
 
-(Pub. L. 89–10, title VIII, §8501, formerly title IX, §9501, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1975; renumbered title VIII, §8501, and amended Pub. L. 114–95, title VIII, §§8001(a)(5), 8015, Dec. 10, 2015, 129 Stat. 2088, 2089, 2109.)
+(Pub. L. 89–10, title VIII, §8501, formerly title IX, §9501, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1975; renumbered title VIII, §8501, and amended Pub. L. 114–95, title VIII, §§8001(a)(5), 8015, Dec. 10, 2015, 129 Stat. 2088, 2089, 2109; Pub. L. 115–64, §3, Sept. 29, 2017, 131 Stat. 1189.)
 
 #### Prior Provisions
 
-A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(1)(F). Pub. L. 115–64 added subpar. (F).
 
 <b>2015</b>—Subsec. (a)(3). Pub. L. 114–95, §8015(1)(A), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner."
 

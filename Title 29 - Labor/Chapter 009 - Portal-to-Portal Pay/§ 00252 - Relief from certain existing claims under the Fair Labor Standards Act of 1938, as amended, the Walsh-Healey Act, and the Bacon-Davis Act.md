@@ -4,7 +4,7 @@
 
 No employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\] the Walsh-Healey Act, or the Bacon-Davis Act <sup>1</sup> (in any action or proceeding commenced prior to or on or after May 14, 1947), on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any activity of an employee engaged in prior to May 14, 1947, except an activity which was compensable by either—
 
-&emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of suchactivity, between such employee, his agent, or collective-bargaining representative and his employer; or
+&emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
 &emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
 
@@ -28,7 +28,7 @@ No cause of action based on unpaid minimum wages, unpaid overtime compensation, 
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a), (c) to (e), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a), (c) to (e), is act June 25, 1938,ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a), (c) to (e), are defined for purposes of this chapter in section 262 of this title.
 

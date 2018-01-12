@@ -8,7 +8,7 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 #### 1948 Act
 
-Based on sections 1026(c) and 1514(d) of title 7, U.S.C., 1940 ed., Agriculture, and section 1138d(d) of title 12, U.S.C., 1940 ed., Banks and Banking (June 16, 1933, ch.98, §64, 48 Stat. 269; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; July 22, 1937, ch. 517, title IV, §52(c), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(d), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
+Based on sections 1026(c) and 1514(d) of title 7, U.S.C., 1940 ed., Agriculture, and section 1138d(d) of title 12, U.S.C., 1940 ed., Banks and Banking (June 16, 1933, ch. 98, §64, 48 Stat. 269; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; July 22, 1937, ch. 517, title IV, §52(c), 50 Stat. 532; Feb. 16, 1938, ch. 30, title V, §514(d), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
 
 To avoid reference to another section the words "the Farm Credit Administration, any Federal intermediate credit bank, the Federal Farm Mortgage Corporation, Federal Crop Insurance Corporation, Farmers' Home Corporation, or any production credit corporation or corporation in which a production credit corporation holds stock, any regional agricultural credit corporation, or any bank for cooperatives" were substituted for the words "or any corporation referred to in subsection (a) of this section."
 

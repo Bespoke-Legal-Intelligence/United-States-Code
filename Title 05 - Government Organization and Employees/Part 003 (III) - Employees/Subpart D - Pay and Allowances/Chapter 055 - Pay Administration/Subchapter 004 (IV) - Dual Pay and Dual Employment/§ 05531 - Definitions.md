@@ -16,7 +16,7 @@ For the purpose of section 5533 of this title—
 
 &emsp;(7) "congressional employee" has the meaning given that term by section 2107 of this title, excluding an employee of an agency in the legislative branch.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat.1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–145, §7(b)(1), Mar. 4, 2010, 124 Stat. 55; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–145, §7(b)(1), Mar. 4, 2010, 124 Stat. 55; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 

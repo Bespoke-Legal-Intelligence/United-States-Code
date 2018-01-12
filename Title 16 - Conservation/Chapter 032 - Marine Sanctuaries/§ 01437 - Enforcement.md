@@ -100,7 +100,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordancewith the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
 #### (h) Use of resources of State and other Federal agencies
 

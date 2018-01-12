@@ -18,3 +18,7 @@ The Wholesome Poultry Products Act, referred to in subsec. (b), is Pub. L. 90–
 
 The Wholesome Meat Act, referred to in subsec. (b), is Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which enacted sections 601, 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amended sections 603 to 623 of this title, repealed section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacted provisions set out as notes under section 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
+

@@ -16,7 +16,7 @@ As programs authorized under this Act are implemented, the Director shall—
 
 #### (1) Review
 
-&emsp;The Director of the Office of Science and Technology Policy shall review the educationprograms of the Foundation to ensure compliance with the provisions of this section.
+&emsp;The Director of the Office of Science and Technology Policy shall review the education programs of the Foundation to ensure compliance with the provisions of this section.
 
 #### (2) Submission
 

@@ -82,7 +82,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the entry into force of an agreement for cooperation with India arranged pursuant to section 2153 of title 42 and pursuant to this chapter, and except asprovided under subparagraph (B), exports of nuclear and nuclear-related material, equipment, or technology to India shall be terminated if there is any materially significant transfer by an Indian person of—
+&emsp;&emsp;Notwithstanding the entry into force of an agreement for cooperation with India arranged pursuant to section 2153 of title 42 and pursuant to this chapter, and except as provided under subparagraph (B), exports of nuclear and nuclear-related material, equipment, or technology to India shall be terminated if there is any materially significant transfer by an Indian person of—
 
 &emsp;&emsp;&emsp;(i) nuclear or nuclear-related material, equipment, or technology that is not consistent with NSG guidelines or decisions, or
 

@@ -98,7 +98,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, not less than 3 nor more than 5 percent of the total amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
+&emsp;&emsp;For each fiscal year, not less than 3 nor more than 5 percent of the total amountmade available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
 
 #### (B) Release
 

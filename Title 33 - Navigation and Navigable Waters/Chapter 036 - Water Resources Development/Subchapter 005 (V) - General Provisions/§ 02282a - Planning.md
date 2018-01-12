@@ -88,7 +88,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 &emsp;The completion of a report of the Chief of Engineers for a water resources project—
 
-&emsp;&emsp;(A) shall not be delayed while consideration is being given to potential changes inpolicy or priority for project consideration; and
+&emsp;&emsp;(A) shall not be delayed while consideration is being given to potential changes in policy or priority for project consideration; and
 
 &emsp;&emsp;(B) shall be submitted, on completion, to—
 

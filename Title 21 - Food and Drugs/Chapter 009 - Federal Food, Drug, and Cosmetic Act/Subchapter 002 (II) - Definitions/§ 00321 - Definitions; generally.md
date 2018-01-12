@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 (g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
-(2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
+(2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributedsuch drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
 (h) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
 
@@ -104,7 +104,7 @@ For the purposes of this chapter—
 
 (2) The term "color" includes black, white, and intermediate grays.
 
-(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soil and thereby affecting its color, whether before or after harvest.
+(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soiland thereby affecting its color, whether before or after harvest.
 
 (u) The term "safe" as used in paragraph (s) of this section and in sections 348, 360b, 360ccc, and 379e of this title, has reference to the health of man or animal.
 
@@ -284,7 +284,7 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 
 #### Amendments
 
-<b>2016</b>—Subsec. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
+<b>2016</b>—Par. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
 
 <b>2009</b>—Par. (rr). Pub. L. 111–31 added par. (rr).
 
@@ -316,7 +316,7 @@ Par. (ii). Pub. L. 105–115, §121(a), added par. (ii).
 
 Par. (jj). Pub. L. 105–115, §125(e), added par. (jj).
 
-<b>1996</b>—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: "The term 'pesticide chemical' means any substance which, alone, in chemical combination or in formulation with one or more other substances, is 'a pesticide' within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or ashereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities."
+<b>1996</b>—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: "The term 'pesticide chemical' means any substance which, alone, in chemical combination or in formulation with one or more other substances, is 'a pesticide' within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities."
 
 Par. (s)(1), (2). Pub. L. 104–170, §402(b), amended subpars. (1) and (2) generally. Prior to amendment, subpars. (1) and (2) read as follows:
 
@@ -412,7 +412,7 @@ Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–115, title V, §501, Nov. 21, 1997, 111 Stat. 2380, provided that: "Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title,section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans' Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–115, title V, §501, Nov. 21, 1997, 111 Stat. 2380, provided that: "Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans' Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -564,7 +564,7 @@ Pub. L. 89–74, §2, July 15, 1965, 79 Stat. 226, provided that: "The Congress 
 
 Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
-"(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall be construed as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
+"(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall beconstrued as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
 
 "(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusion of any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
 
@@ -572,7 +572,7 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 #### Effect of Drug Amendments of 1962 on State Laws
 
-Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct andpositive conflict between such amendments and such provision of State law."
+Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
 
 #### Definitions
 

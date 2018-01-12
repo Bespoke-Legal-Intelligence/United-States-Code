@@ -38,7 +38,7 @@ Requirement for Management Structure.—The Secretary of Defense shall establish
 
 (b)
 
-Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services.—(1) Except as provided in paragraph (2), the senior officials responsible for the management of acquisition of contract services shall assign responsibility for the review and approval of procurements in each contract services acquisition category established under subsection (a)(1)(C) to specific Department of Defense officials, subject to the direction, supervision, and oversight of such senior officials.
+Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services.—(1) Exceptas provided in paragraph (2), the senior officials responsible for the management of acquisition of contract services shall assign responsibility for the review and approval of procurements in each contract services acquisition category established under subsection (a)(1)(C) to specific Department of Defense officials, subject to the direction, supervision, and oversight of such senior officials.
 
 (2) With respect to the acquisition of contract services by a component or command of the Department of Defense the primary mission of which is the acquisition of products and services, such acquisition shall be conducted in accordance with policies, procedures, and best practices guidelines developed and maintained by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to subsection (a)(1), subject to oversight by the senior officials referred to in paragraph (1).
 
@@ -100,11 +100,11 @@ Review of Services Acquisition Categories.—Not later than 180 days after the d
 
 &emsp;"(1) how the acquisition community should consider the changing nature of the technology and professional services markets, particularly the convergence of hardware and services; and
 
-&emsp;"(2) the services acquisition portfolio groups referenced in the Acquisition of Services Instruction and other guidance in order to ensure the portfoliogroups are fully reflective of changes to the technology and professional services market."
+&emsp;"(2) the services acquisition portfolio groups referenced in the Acquisition of Services Instruction and other guidance in order to ensure the portfolio groups are fully reflective of changes to the technology and professional services market."
 
 #### Examination and Guidance Relating to Oversight and Approval of Services Contracts
 
-Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, provided that: "Not later than March 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, provided that: "Not later than March 1, 2016,the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
 &emsp;"(1) complete an examination of the decision authority related to acquisition of services; and
 
@@ -194,11 +194,11 @@ Implementation Plans Required.—The Secretary shall ensure that an implementati
 
 "(e)
 
-Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements forthe acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
+Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
 
 "(f)
 
-Consistency With Joint Guidance.—Whenever, at any time, guidance is issued by the Chairman of the Joint Chiefs of Staff relating to requirements for the acquisition of services in support of combatant commands and military operations, each process established pursuant to subsection (a) shall be revised in accordance with such joint guidance.
+Consistency With Joint Guidance.—Whenever, at any time, guidance is issued by the Chairman of theJoint Chiefs of Staff relating to requirements for the acquisition of services in support of combatant commands and military operations, each process established pursuant to subsection (a) shall be revised in accordance with such joint guidance.
 
 "(g)
 
@@ -394,7 +394,7 @@ Goals.—(1) It shall be an objective of the Department of Defense to achieve ef
 
 "(2) In furtherance of such objective, the Department of Defense shall have the following goals:
 
-&emsp;"(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollarvalue), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
+&emsp;"(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
 
 &emsp;&emsp;"(i) For fiscal year 2003, a percentage not less than 40 percent.
 

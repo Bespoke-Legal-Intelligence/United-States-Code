@@ -158,7 +158,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 &emsp;"(B) is not submitted to arbitration as described in subsection (c),
 
-> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selectedunder the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
+> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
 
 "(2) No individual shall be selected under paragraph (1) who is pecuniarily or otherwise interested in any organization of employees or any railroad.
 

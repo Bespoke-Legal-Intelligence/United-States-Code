@@ -46,7 +46,7 @@
 
 #### (4) Implementation of determination
 
-&emsp;The Trade Representative may, after consulting with the administering authority and the congressional committees under paragraph (3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
+&emsp;The Trade Representative may, after consulting with the administering authority and the congressional committees under paragraph\(3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
 
 #### (c) Effects of determinations; notice of implementation
 
@@ -79,4 +79,8 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 #### Codification
 
 Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
+
+#### Effective Date
+
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

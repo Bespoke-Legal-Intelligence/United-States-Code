@@ -4,9 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5601\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005601%20-%20Findings.md) | Findings. |
-| [5602\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005602%20-%20Purposes.md) | Purposes. |
-| [5603\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005603%20-%20Definitions.md) | Definitions. |
+| 5601 to 5603. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,14 +14,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5611\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005611%20-%20Establishment.md) | Establishment. |
-| [5612\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005612%20-%20Personnel.md) | Personnel. |
-| [5613\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005613%20-%20Voluntary%20and%20uncompensated%20services.md) | Voluntary and uncompensated services. |
-| [5614\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005614%20-%20Concentration%20of%20Federal%20efforts.md) | Concentration of Federal efforts. |
-| [5615\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005615%20-%20Joint%20funding%3B%20non-Federal%20share%20requirements.md) | Joint funding; non-Federal share requirements. |
-| [5616\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005616%20-%20Coordinating%20Council%20on%20Juvenile%20Justice%20and%20Delinquency%20Prevention.md) | Coordinating Council on Juvenile Justice and Delinquency Prevention. |
-| [5617\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005617%20-%20Annual%20report.md) | Annual report. |
-| 5618, 5619. Repealed. |  |
+| 5611 to 5619. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,10 +22,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5631\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2005631%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
-| [5632\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2005632%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| [5633\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2005633%20-%20State%20plans.md) | State plans. |
-| 5634 to 5639. Repealed. |  |
+| 5631 to 5639. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,12 +30,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5651\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005651%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
-| [5652\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005652%20-%20Allocation.md) | Allocation. |
-| [5653\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005653%20-%20Eligibility%20of%20States.md) | Eligibility of States. |
-| [5654\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005654%20-%20Grants%20for%20local%20projects.md) | Grants for local projects. |
-| [5655\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005655%20-%20Eligibility%20of%20entities.md) | Eligibility of entities. |
-| [5656\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005656%20-%20Grants%20to%20Indian%20tribes.md) | Grants to Indian tribes. |
+| 5651 to 5656. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,8 +38,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5661\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Research%3B%20Evaluation%3B%20Technical%20Assistance%3B%20Training/%C2%A7%2005661%20-%20Research%20and%20evaluation%3B%20statistical%20analyses%3B%20information%20dissemination.md) | Research and evaluation; statistical analyses; information dissemination. |
-| [5662\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Research%3B%20Evaluation%3B%20Technical%20Assistance%3B%20Training/%C2%A7%2005662%20-%20Training%20and%20technical%20assistance.md) | Training and technical assistance. |
+| 5661, 5662. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,10 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5665\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005665%20-%20Grants%20and%20projects.md) | Grants and projects. |
-| [5666\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005666%20-%20Grants%20for%20technical%20assistance.md) | Grants for technical assistance. |
-| [5667\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005667%20-%20Eligibility.md) | Eligibility. |
-| [5668\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005668%20-%20Reports.md) | Reports. |
+| 5665 to 5668. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,17 +54,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5671\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005671%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5672\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005672%20-%20Administrative%20authority.md) | Administrative authority. |
-| [5673\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005673%20-%20Withholding.md) | Withholding. |
-| [5674\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005674%20-%20Use%20of%20funds.md) | Use of funds. |
-| [5675\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005675%20-%20Payments.md) | Payments. |
-| [5676\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005676%20-%20Confidentiality%20of%20program%20records.md) | Confidentiality of program records. |
-| [5677\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005677%20-%20Limitations%20on%20use%20of%20funds.md) | Limitations on use of funds. |
-| [5678\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005678%20-%20Rules%20of%20construction.md) | Rules of construction. |
-| [5679\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005679%20-%20Leasing%20surplus%20Federal%20property.md) | Leasing surplus Federal property. |
-| [5680\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005680%20-%20Issuance%20of%20rules.md) | Issuance of rules. |
-| [5681\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005681%20-%20Content%20of%20materials.md) | Content of materials. |
+| 5671 to 5681. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,8 +62,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5701\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/%C2%A7%2005701%20-%20Findings.md) | Findings. |
-| [5702\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/%C2%A7%2005702%20-%20Promulgation%20of%20rules.md) | Promulgation of rules. |
+| 5701, 5702. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -102,11 +70,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5711\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005711%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
-| [5712\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005712%20-%20Eligibility%3B%20plan%20requirements.md) | Eligibility; plan requirements. |
-| 5712a to 5712d. Repealed. |  |
-| [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20applications.md) | Approval of applications. |
-| [5714\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005714%20-%20Grants%20to%20private%20entities%3B%20staffing.md) | Grants to private entities; staffing. |
+| 5711 to 5714. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,8 +78,7 @@
 
 |  |  |
 | :--- | ---: |
-| 5714–1. | Authority for program. |
-| 5714–2. | Eligibility. |
+| 5714–1, 5714–2. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,19 +86,15 @@
 
 |  |  |
 | :--- | ---: |
-| 5714–11. | Authority to make grants. |
+| 5714–11. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part D—Coordinating, Training, Research, and Other Activities
 
-|  |  |
-| :--- | ---: |
-| 5714–21. | Coordination. |
-| 5714–22. | Grants for technical assistance and training. |
-| 5714–23. | Authority to make grants for research, evaluation, demonstration, and service projects. |
-| 5714–24. | Demonstration projects to provide services to youth in rural areas. |
-| 5714–25. | Periodic estimate of incidence and prevalence of youth homelessness. |
+|  |
+| :--- |
+| 5714–21 to 5714–25. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -143,7 +102,7 @@
 
 |  |  |
 | :--- | ---: |
-| 5714–41. | Authority to make grants. |
+| 5714–41. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -151,19 +110,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5714a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005714a%20-%20Assistance%20to%20potential%20grantees.md) | Assistance to potential grantees. |
-| [5714b.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005714b%20-%20Lease%20of%20surplus%20Federal%20facilities%20for%20use%20as%20runaway%20and%20homeless%20youth%20centers%20or%20as%20transitional%20living%20youth%20shelter%20facilities.md) | Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities. |
-| [5715\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005715%20-%20Reports.md) | Reports. |
-| [5716\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005716%20-%20Federal%20and%20non-Federal%20share%3B%20methods%20of%20payment.md) | Federal and non-Federal share; methods of payment. |
-| [5731\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731%20-%20Restrictions%20on%20disclosure%20and%20transfer.md) | Restrictions on disclosure and transfer. |
-| [5731a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731a%20-%20Consolidated%20review%20of%20applications.md) | Consolidated review of applications. |
-| [5732\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732%20-%20Evaluation%20and%20information.md) | Evaluation and information. |
-| 5732–1. | Performance standards. |
-| [5732a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732a%20-%20Definitions.md) | Definitions. |
-| [5733\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005733%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93586%2C%20%C2%A73%28g%29%282%29%28E%29%2C%20Nov.%204%2C%201992%2C%20106%20Stat.%205025.md) | Repealed. |
-| [5741\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005741%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7656%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202124.md) | Repealed. |
-| [5751\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005751%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5752\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005752%20-%20Restriction%20on%20use%20of%20funds.md) | Restriction on use of funds. |
+| 5714a to 5752. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -171,18 +118,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5771\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005771%20-%20Findings.md) | Findings. |
-| [5772\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005772%20-%20Definitions.md) | Definitions. |
-| [5773\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005773%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
-| [5774\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005774%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93690%2C%20title%20VII%2C%20%C2%A77286%2C%20Nov.%2018%2C%201988%2C%20102%20Stat.%204460.md) | Repealed. |
-| [5775\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005775%20-%20Grants.md) | Grants. |
-| [5776\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776%20-%20Criteria%20for%20grants.md) | Criteria for grants. |
-| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Oversight%20and%20accountability.md) | Oversight and accountability. |
-| [5777\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5778\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20II%2C%20%C2%A7231%28b%29%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203092.md) | Repealed. |
-| [5779\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005779%20-%20Reporting%20requirement.md) | Reporting requirement. |
-| [5780\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005780%20-%20State%20requirements.md) | State requirements. |
-| [5780a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005780a%20-%20Authority%20of%20Inspectors%20General.md) | Authority of Inspectors General. |
+| 5771 to 5780a. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -190,10 +126,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5781\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005781%20-%20Definition.md) | Definition. |
-| [5782\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005782%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
-| [5783\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005783%20-%20Grants%20for%20delinquency%20prevention%20programs.md) | Grants for delinquency prevention programs. |
-| [5784\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005784%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 5781 to 5784. | Transferred or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -203,11 +136,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5791\.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791%20-%20National%20coordination%20of%20AMBER%20Alert%20communications%20network.md) | National coordination of AMBER Alert communications network. |
-| [5791a.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791a%20-%20Minimum%20standards%20for%20issuance%20and%20dissemination%20of%20alerts%20through%20AMBER%20Alert%20communications%20network.md) | Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network. |
-| [5791b.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791b%20-%20Grant%20program%20for%20notification%20and%20communications%20systems%20along%20highways%20for%20recovery%20of%20abducted%20children.md) | Grant program for notification and communications systems along highways for recovery of abducted children. |
-| [5791c.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791c%20-%20Grant%20program%20for%20support%20of%20AMBER%20Alert%20communications%20plans.md) | Grant program for support of AMBER Alert communications plans. |
-| [5791d.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791d%20-%20Limitation%20on%20liability.md) | Limitation on liability. |
+| 5791 to 5791d. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -215,8 +144,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5792\.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20B%20-%20Missing%20Children%20Procedures%20in%20Public%20Buildings/%C2%A7%2005792%20-%20Definitions.md) | Definitions. |
-| [5792a.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20B%20-%20Missing%20Children%20Procedures%20in%20Public%20Buildings/%C2%A7%2005792a%20-%20Procedures%20in%20public%20buildings%20regarding%20a%20missing%20or%20lost%20child.md) | Procedures in public buildings regarding a missing or lost child. |
+| 5792, 5792a. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

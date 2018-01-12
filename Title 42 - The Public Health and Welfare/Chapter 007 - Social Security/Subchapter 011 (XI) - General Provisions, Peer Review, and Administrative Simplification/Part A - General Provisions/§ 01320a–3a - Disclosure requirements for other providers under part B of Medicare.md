@@ -24,7 +24,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 &emsp;The Secretary shall transmit—
 
-&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social securityaccount number (assigned under section 405(c)(2)(B) of this title), and
+&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social security account number (assigned under section 405(c)(2)(B) of this title), and
 
 &emsp;&emsp;(B) to the Secretary of the Treasury information concerning each employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986),
 
@@ -42,7 +42,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 For purposes of this section—
 
-&emsp;(1) the term "disclosing part B provider" means any entity receiving payment on an assignment-related basis (or, for purposes of subsection (a)(3), any entity receiving payment) for furnishing items or services for which payment may be made under part B of subchapter XVIII, except that such term does not include an entity described in section 1320a–3(a)(2) of this title;
+&emsp;(1) the term "disclosing part B provider" means any entity receiving payment on an assignment-related basis (or, for purposes of subsection (a)(3), any entity receiving payment) for furnishing items or services for which payment may be made under part B of subchapter XVIII, except that such term does not includean entity described in section 1320a–3(a)(2) of this title;
 
 &emsp;(2) the term "managing employee" means, with respect to a provider, a person described in section 1320a–5(b) of this title; and
 

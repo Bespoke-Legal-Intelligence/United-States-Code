@@ -4,7 +4,7 @@
 
 #### (1) General authority
 
-&emsp;Notwithstanding the provisions of sections 2351 and 2352 of this title and in order to makea more equitable distribution of funds for programs serving the areas of greatest economic need, for any program year for which a minimal amount is made available by an eligible agency for distribution under section 2351 or 2352 of this title, such eligible agency may distribute such minimal amount for such year—
+&emsp;Notwithstanding the provisions of sections 2351 and 2352 of this title and in order to make a more equitable distribution of funds for programs serving the areas of greatest economic need, for any program year for which a minimal amount is made available by an eligible agency for distribution under section 2351 or 2352 of this title, such eligible agency may distribute such minimal amount for such year—
 
 &emsp;&emsp;(A) on a competitive basis; or
 

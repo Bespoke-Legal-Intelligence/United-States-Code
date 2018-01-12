@@ -100,7 +100,7 @@ In this section:
 
 #### (4) Manufactured home
 
-&emsp;The term "manufactured home" has the meaning given the term in section 3280.2 oftitle 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
+&emsp;The term "manufactured home" has the meaning given the term in section 3280.2 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
 
 #### (5) Medium-density fiberboard
 
@@ -282,7 +282,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;(6) glued laminated lumber, as specified in the standard entitled "Structural Glued Laminated Timber" and numbered ANSI A190.1–2002;
 
-&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled "Standard Specificationfor Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists" and numbered ASTM D 5055–05;
+&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled "Standard Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists" and numbered ASTM D 5055–05;
 
 &emsp;(8) finger-jointed lumber;
 

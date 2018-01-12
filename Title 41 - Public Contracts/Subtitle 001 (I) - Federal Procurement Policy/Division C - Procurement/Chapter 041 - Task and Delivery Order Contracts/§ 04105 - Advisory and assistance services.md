@@ -50,7 +50,7 @@ Content of solicitation.—In the case of a task order contract for advisory and
 
 &emsp;&emsp;(A) provide for a multiple award authorized under paragraph (1); and
 
-&emsp;&emsp;(B) include a statement that the head of the executive agency may also elect to award only one task order contract if the head of the executive agency determines in writing that only one of the offerors is capable of providing the services required at the level of quality required.
+&emsp;&emsp;(B) include a statement that the head of the executive agency may also elect toaward only one task order contract if the head of the executive agency determines in writing that only one of the offerors is capable of providing the services required at the level of quality required.
 
 &emsp;(3)
 

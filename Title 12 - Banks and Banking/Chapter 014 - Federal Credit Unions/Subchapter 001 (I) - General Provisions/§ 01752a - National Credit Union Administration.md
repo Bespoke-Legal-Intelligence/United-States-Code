@@ -14,7 +14,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (A) Experience in financial services
 
-&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall give consideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
+&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall giveconsideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
 
 #### (B) Limit on appointment of credit union officers
 
@@ -46,7 +46,7 @@ Section 1 of act June 29, 1948 transferred to the Federal Security Agency all fu
 
 Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\]; (b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
 
-Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
+Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneyspayable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
 
 Section 5 of act June 29, 1948 provided that the Act was to become effective on the thirtieth day following the date of enactment.
 
@@ -82,7 +82,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
-&emsp;"(1) the differences between credit unions and other federally insured financial institutions, includingregulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+&emsp;"(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
 &emsp;"(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) The court may issue against a governmental unit an order, process, or judgment under such sections or the Federal Rules of Bankruptcy Procedure, including an order or judgment awarding a money recovery, but not including an award of punitive damages. Such order or judgment for costs or fees under this title or the Federal Rules of Bankruptcy Procedure against any governmental unit shall be consistent with the provisions and limitations of section 2412(d)(2)(A) of title 28.
 
-&emsp;(4) The enforcement of any such order, process, or judgment against any governmental unit shall be consistent with appropriate nonbankruptcy law applicable to such governmental unit and, in the case of a money judgment against the United States, shall be paid as if it is a judgment rendered by a district court of the United States.
+&emsp;(4) The enforcement of any such order, process, or judgment against any governmentalunit shall be consistent with appropriate nonbankruptcy law applicable to such governmental unit and, in the case of a money judgment against the United States, shall be paid as if it is a judgment rendered by a district court of the United States.
 
 &emsp;(5) Nothing in this section shall create any substantive claim for relief or cause of action not otherwise existing under this title, the Federal Rules of Bankruptcy Procedure, or nonbankruptcy law.
 

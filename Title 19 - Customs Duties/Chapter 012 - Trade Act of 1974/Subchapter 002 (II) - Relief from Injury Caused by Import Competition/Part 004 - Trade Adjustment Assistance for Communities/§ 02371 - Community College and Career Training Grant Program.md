@@ -30,7 +30,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An eligible institution seeking to receive a grant under this section shall submit a grantproposal to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible institution seeking to receive a grant under this section shall submit a grant proposal to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Guidelines
 
@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the extent and outcome of the outreach conducted under subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will contribute to meeting any shortcomings identified under subparagraph (A)(i)(I) or any educational or career training needs identified under subparagraph (A)(i)(II); and
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will contribute to meeting any shortcomingsidentified under subparagraph (A)(i)(I) or any educational or career training needs identified under subparagraph (A)(i)(II); and
 
 &emsp;&emsp;&emsp;(iii) the extent to which employers, including small- and medium-sized firms within the community, have demonstrated a commitment to employing workers who would benefit from the project for which the grant proposal is submitted.
 

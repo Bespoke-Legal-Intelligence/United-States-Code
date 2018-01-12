@@ -84,7 +84,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily in seasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
 
-&emsp;(18) The term "mobile Head Start program" means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
+&emsp;(18) The term "mobile Head Start program" means the provision of Head Start servicesutilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
 
 &emsp;(19) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget)—
 
@@ -204,7 +204,7 @@ Pars. (18) to (26). Pub. L. 110–134, §3(a)(5), added pars. (18) to (26).
 
 Pars. (3), (4). Pub. L. 105–285, §103(3)–(5), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: "The term 'family literacy services' means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education."
 
-Par. (6). Pub. L. 105–285, §103(6), inserted at end "Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendancefor more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child."
+Par. (6). Pub. L. 105–285, §103(6), inserted at end "Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child."
 
 Par. (12). Pub. L. 105–285, §103(7), added par. (12) and struck out former par. (12) which read as follows: "The term 'migrant Head Start program' means a Head Start program that serves families who are engaged in agricultural work and who have changed their residence from one geographical location to another in the preceding 2-year period."
 

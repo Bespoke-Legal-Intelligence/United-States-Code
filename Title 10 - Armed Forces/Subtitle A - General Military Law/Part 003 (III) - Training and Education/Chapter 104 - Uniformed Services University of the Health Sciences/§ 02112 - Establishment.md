@@ -68,11 +68,11 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;"(1) A comparison of the cost of obtaining physicians for the Armed Forces from the University with the cost of obtaining physicians from other sources.
 
-&emsp;"(2) An assessment of the retention rate needs of the Armed Forces for physicians in relation to the respective retention rates of physicians obtained from the University and physicians obtained from other sources and the factors that contribute to retention rates among military physicians obtained from all sources.
+&emsp;"(2) An assessment of the retention rate needs of the Armed Forces for physicians in relation to the respective retention rates of physicians obtained from the University and physicians obtained from other sources and the factors that contribute to retentionrates among military physicians obtained from all sources.
 
 &emsp;"(3) A review of the quality of the medical education provided at the University with the quality of medical education provided by other sources of military physicians.
 
-&emsp;"(4) A review of the overall issue of the special needs of military medicine and how those specialneeds are being met by physicians obtained from University and physicians obtained from other sources.
+&emsp;"(4) A review of the overall issue of the special needs of military medicine and how those special needs are being met by physicians obtained from University and physicians obtained from other sources.
 
 &emsp;"(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, including recommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
 

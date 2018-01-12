@@ -1,0 +1,6 @@
+### §3789n. Transferred
+
+#### Codification
+
+Section 3789n was editorially reclassified as section 10237 of Title 34, Crime Control and Law Enforcement.
+

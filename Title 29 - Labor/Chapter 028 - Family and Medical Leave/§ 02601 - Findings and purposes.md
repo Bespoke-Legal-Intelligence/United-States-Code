@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting;
 
-&emsp;(4) there is inadequate job security for employees who have serious health conditions that prevent them from working for temporary periods;
+&emsp;(4) there is inadequate job security for employees who have serious health conditionsthat prevent them from working for temporary periods;
 
 &emsp;(5) due to the nature of the roles of men and women in our society, the primary responsibility for family caretaking often falls on women, and such responsibility affects the working lives of women more than it affects the working lives of men; and
 

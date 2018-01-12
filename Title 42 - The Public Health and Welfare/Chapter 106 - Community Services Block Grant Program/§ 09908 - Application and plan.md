@@ -64,7 +64,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(C) a description of how funds made available through grants made under section 9907(a) of this title will be coordinated with other public and private resources; and
 
-&emsp;&emsp;(D) a description of how the local entity will use the funds to support innovative community and neighborhood-based initiatives related to the purposes of this chapter,which may include fatherhood initiatives and other initiatives with the goal of strengthening families and encouraging effective parenting;
+&emsp;&emsp;(D) a description of how the local entity will use the funds to support innovative community and neighborhood-based initiatives related to the purposes of this chapter, which may include fatherhood initiatives and other initiatives with the goal of strengthening families and encouraging effective parenting;
 
 &emsp;(4) an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
 
@@ -126,7 +126,7 @@ For fiscal year 2000, to be eligible to receive a grant or allotment under secti
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

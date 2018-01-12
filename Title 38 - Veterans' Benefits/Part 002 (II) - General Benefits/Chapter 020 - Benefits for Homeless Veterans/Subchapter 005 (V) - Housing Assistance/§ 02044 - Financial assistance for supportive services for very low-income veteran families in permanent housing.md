@@ -16,7 +16,7 @@ Distribution of Financial Assistance.—(1) The Secretary shall provide financia
 
 (6) Each entity receiving financial assistance under this section to provide supportive services to a very low-income veteran family shall notify that family that such services are being paid for, in whole or in part, by the Department.
 
-(7) The Secretary may require entities receiving financial assistance under this section to submit a report to the Secretary that describes the projects carried out with such financial assistance.
+(7) The Secretary may require entities receiving financial assistance under this section tosubmit a report to the Secretary that describes the projects carried out with such financial assistance.
 
 (b)
 
@@ -104,6 +104,8 @@ Funding.—(1) From amounts appropriated to the Department for Medical Services,
 
 &emsp;(E) $320,000,000 for each of fiscal years 2015 through 2017.
 
+&emsp;(F) $320,000,000 for each of fiscal years 2018 through 2019.
+
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
 (3) There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
@@ -148,13 +150,15 @@ Definitions.—In this section:
 
 &emsp;(7) The term "veteran family" includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, §304, Sept. 29, 2017, 131 Stat. 1163.)
 
 #### Codification
 
 Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of "section 2044" without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans' Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(1)(F). Pub. L. 115–62 added subpar. (F).
 
 <b>2016</b>—Subsec. (e)(1)(E). Pub. L. 114–228 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "$300,000,000 for each of fiscal years 2015 through 2016."
 

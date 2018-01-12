@@ -4,7 +4,7 @@ In this subchapter—
 
 &emsp;(1) the term "Capitol-flown flag" means a flag of the United States flown over the Capitol in honor of the deceased individual for whom the flag is requested;
 
-&emsp;(2) the terms "chaplain", "firefighter", "law enforcement officer", "member of a rescue squad or ambulance crew", and "public agency" have the meanings given such terms in section 3796b of title 42;
+&emsp;(2) the terms "chaplain", "firefighter", "law enforcement officer", "member of a rescue squad or ambulance crew", and "public agency" have the meanings given such terms in section 10284 of title 34;
 
 &emsp;(3) the term "immediate family member", with respect to an individual, means—
 

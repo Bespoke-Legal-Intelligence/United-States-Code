@@ -1,0 +1,6 @@
+### §10503. Transferred
+
+#### Codification
+
+Section 10503 was editorially reclassified as section 50103 of Title 34, Crime Control and Law Enforcement.
+

@@ -6,7 +6,7 @@ The Secretary shall, by regulation and under such conditions as to sanitary stan
 
 &emsp;(1) retail dealers with respect to poultry products sold directly to consumers in individual retail stores, if the only processing operation performed by such retail dealers is the cutting up of poultry products on the premises where such sales to consumers are made;
 
-&emsp;(2) for such period of time as the Secretary determines that it would be impracticable toprovide inspection and the exemption will aid in the effective administration of this chapter, any person engaged in the processing of poultry or poultry products for commerce and the poultry or poultry products processed by such person: <i>Provided, however</i>, That no such exemption shall continue in effect on and after January 1, 1970; and
+&emsp;(2) for such period of time as the Secretary determines that it would be impracticable to provide inspection and the exemption will aid in the effective administration of this chapter, any person engaged in the processing of poultry or poultry products for commerce and the poultry or poultry products processed by such person: <i>Provided, however</i>, That no such exemption shall continue in effect on and after January 1, 1970; and
 
 &emsp;(3) persons slaughtering, processing, or otherwise handling poultry or poultry products which have been or are to be processed as required by recognized religious dietary laws, to the extent that the Secretary determines necessary to avoid conflict with such requirements while still effectuating the purposes of this chapter.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 90–492 effective upon the expiration of sixty days after 
 
 #### Regulations
 
-Pub. L. 102–237, title X, §1016(c), Dec. 13, 1991, 105 Stat. 1903, provided that: "No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act \[21 U.S.C. 623(c)\] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act \[21 U.S.C. 464(d)\] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions."
+Pub. L. 102–237, title X, §1016(c), Dec. 13, 1991, 105 Stat. 1903, provided that: "No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) ofthe Federal Meat Inspection Act \[21 U.S.C. 623(c)\] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act \[21 U.S.C. 464(d)\] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions."
 
 #### Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products
 

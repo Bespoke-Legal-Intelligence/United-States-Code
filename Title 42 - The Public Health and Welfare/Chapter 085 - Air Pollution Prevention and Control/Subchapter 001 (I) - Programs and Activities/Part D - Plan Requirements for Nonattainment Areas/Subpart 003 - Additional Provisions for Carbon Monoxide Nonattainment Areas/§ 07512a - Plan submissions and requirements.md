@@ -26,7 +26,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (5) Periodic inventory
 
-&emsp;No later than September 30, 1995, and no later than the end of each 3 year period thereafter, until the area is redesignated to attainment, a revised inventory meeting the requirements of subsection (a)(1) of this section.
+&emsp;No later than September 30, 1995, and no later than the end of each 3 year period thereafter, until the area is redesignated to attainment, a revised inventory meeting the requirements of subsection (a)(1).
 
 #### (6) Enhanced vehicle inspection and maintenance
 
@@ -42,7 +42,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) In general
 
-&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup> of this section) applicable under subsection (a) of this section to Moderate Areas with a design value of 12.7 ppm or greater at the time of classification, and shall also submit the revision and other items described under this subsection.
+&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup>) applicable under subsection (a) to Moderate Areas with a design value of 12.7 ppm or greater at the time of classification, and shall also submit the revision and other items described under this subsection.
 
 #### (2) Vehicle miles traveled
 
@@ -64,7 +64,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Serious Areas
 
-&emsp;In the case of Serious Areas in which stationary sources contribute significantly to carbon monoxide levels (as determined under rules issued by the Administrator), the State shall submit a plan revision within 2 years after November 15, 1990, which provides that the term "major stationary source" includes (in addition to the sources described in section 7602 of this title) any stationary source which emits, or has the potential to emit, 50 tons per year or more of carbon monoxide.
+&emsp;In the case of Serious Areas in which stationary sources contribute significantly tocarbon monoxide levels (as determined under rules issued by the Administrator), the State shall submit a plan revision within 2 years after November 15, 1990, which provides that the term "major stationary source" includes (in addition to the sources described in section 7602 of this title) any stationary source which emits, or has the potential to emit, 50 tons per year or more of carbon monoxide.
 
 #### (2) Waivers for certain areas
 
@@ -82,7 +82,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2) Adequacy of demonstration
 
-&emsp;A demonstration under this paragraph shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration is adequate within 90days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
+&emsp;A demonstration under this paragraph shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration is adequate within 90 days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
 
 #### (3) Failure to meet emission reduction milestone
 
@@ -110,7 +110,7 @@ If the Administrator determines under section 7512(b)(2) of this title that the 
 
 #### Moratorium on Certain Emissions Testing Requirements
 
-For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption or implementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
+For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption orimplementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (a)(1) of this section does not contain a subpar. (B).</i>
 

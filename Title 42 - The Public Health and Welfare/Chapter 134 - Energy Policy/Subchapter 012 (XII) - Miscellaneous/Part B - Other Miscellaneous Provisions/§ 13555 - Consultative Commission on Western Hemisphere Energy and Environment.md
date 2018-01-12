@@ -48,7 +48,7 @@ In the course of the negotiations, the following shall be pursued:
 
 &emsp;&emsp;(B) the parliamentary or legislative bodies with legislative responsibilities for energy and environmental matters; and
 
-&emsp;&emsp;(C) other governmental and non-governmental observers appointed by the heads ofeach participating government on the basis of their experience and expertise.
+&emsp;&emsp;(C) other governmental and non-governmental observers appointed by the heads of each participating government on the basis of their experience and expertise.
 
 #### (3) Secretariat
 

@@ -32,7 +32,7 @@ To conserve and protect the Ancient Bristlecone Pines by maintaining near-natura
 
 &emsp;&emsp;&emsp;(i) protect <sup>1</sup> the resources and values of the area in accordance with the purposes for which the Forest is established, as described in subsection (a); and
 
-&emsp;&emsp;&emsp;(ii) promotes the objectives of the applicable management plan (as in effect onMarch 30, 2009), including objectives relating to—
+&emsp;&emsp;&emsp;(ii) promotes the objectives of the applicable management plan (as in effect on March 30, 2009), including objectives relating to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the protection of bristlecone pines for public enjoyment and scientific study;
 
@@ -46,7 +46,7 @@ To conserve and protect the Ancient Bristlecone Pines by maintaining near-natura
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall allow only such uses of the Forest as the Secretary determines would further the purposes for which the Forest is established, as described in subsection (a).
+&emsp;&emsp;The Secretary shall allow only such uses of the Forest as the Secretary determineswould further the purposes for which the Forest is established, as described in subsection (a).
 
 #### (B) Scientific research
 

@@ -48,7 +48,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 (1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
-(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
+(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In anyState in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
 &emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") as the sole agency for the administration of the State plan;
 
@@ -120,7 +120,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 (4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
-&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under thissubsection to States and regional groups and entities applying for such grants;
+&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
 &emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
@@ -154,7 +154,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 > the Chairperson shall immediately notify the Secretary of the Treasury and the group, State agency, or grant recipient with respect to which such finding was made that no further grants will be made under this subsection to such group, State agency, or grant recipient until there is no longer a default or failure to comply or the diversion has been corrected, or, if the compliance or correction is impossible, until such group, State agency, or grant recipient repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
 
-(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), the Chairperson may not make grants under this subsection to more than one entity in any State.
+(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), theChairperson may not make grants under this subsection to more than one entity in any State.
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
@@ -166,7 +166,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 &emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the program of such organizations or institutions;
 
-&emsp;(B) providing administrative and management improvements for cultural organizationsand institutions, particularly in the field of long-range financial planning;
+&emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
 &emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
@@ -210,7 +210,7 @@ The Chairperson, with the advice of the National Council on the Humanities, is a
 
 &emsp;(2) The Charles Frankel Prize to honor individuals who have made outstanding contributions to the public understanding of the humanities. Not more than 5 individuals may receive such prize each year. Each prize shall not exceed $5,000.
 
-(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L.98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
+(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
 
 #### References in Text
 

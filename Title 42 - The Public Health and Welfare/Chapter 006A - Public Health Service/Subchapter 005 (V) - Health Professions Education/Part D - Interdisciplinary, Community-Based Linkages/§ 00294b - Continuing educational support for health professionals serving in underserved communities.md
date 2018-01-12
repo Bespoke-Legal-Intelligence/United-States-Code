@@ -14,7 +14,7 @@ An eligible entity desiring to receive an award under this section shall submit 
 
 #### (d) Use of funds
 
-An eligible entity shall use amounts awarded under a grant or contract under this section to provide innovative supportive activities to enhance education through distance learning, continuing educational activities, collaborative conferences, and electronic and telelearning activities, with priority for primary care.
+An eligible entity shall use amounts awarded under a grant or contract under this section toprovide innovative supportive activities to enhance education through distance learning, continuing educational activities, collaborative conferences, and electronic and telelearning activities, with priority for primary care.
 
 #### (e) Authorization
 

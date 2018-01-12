@@ -1,0 +1,6 @@
+### §10512. Transferred
+
+#### Codification
+
+Section 10512 was editorially reclassified as section 50111 of Title 34, Crime Control and Law Enforcement.
+

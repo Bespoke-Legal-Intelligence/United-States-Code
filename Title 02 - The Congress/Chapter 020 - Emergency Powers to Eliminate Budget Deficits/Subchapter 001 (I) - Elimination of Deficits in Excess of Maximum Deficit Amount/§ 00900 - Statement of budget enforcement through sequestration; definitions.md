@@ -62,7 +62,7 @@ As used in this subchapter:
 
 &emsp;(18) The term "deposit insurance" refers to the expenses of the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
 
-&emsp;(19) The term "asset sale" means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
+&emsp;(19) The term "asset sale" means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whetherphysical or financial, owned in whole or in part by the United States.
 
 &emsp;(20) The term "emergency" means a situation that—
 
@@ -190,7 +190,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, §10212(b), Aug. 5, 1997, 111 Stat. 712.
 
-Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C oftitle II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Short Title of 2013 Amendment
 
@@ -410,7 +410,7 @@ In general.—The Co-Chairs of the joint committee may jointly appoint and fix t
 
 &emsp;"(2)
 
-Ethical standards.—Members on the joint committee who serve in the House of Representatives shall be governed by the ethics rules and requirements of the House. Members of the Senate who serve on the joint committee and staff of the joint committee shall comply with the ethics rules of the Senate.
+Ethical standards.—Members on the joint committee who serve in the House of Representativesshall be governed by the ethics rules and requirements of the House. Members of the Senate who serve on the joint committee and staff of the joint committee shall comply with the ethics rules of the Senate.
 
 "(d)
 
@@ -496,7 +496,7 @@ Rules to Coordinate Action With Other House.—
 
 &emsp;"(1)
 
-Treatment of joint committee bill of other house.—If the Senate fails to introduce or consider a joint committee bill under this section, the joint committee bill of the House shall be entitled to expedited floor procedures under this section.
+Treatment of joint committee bill of other house.—If the Senate fails to introduce or consider ajoint committee bill under this section, the joint committee bill of the House shall be entitled to expedited floor procedures under this section.
 
 &emsp;"(2)
 
@@ -558,7 +558,7 @@ Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended b
 
 #### Appeals of Rulings
 
-Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i),633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\]."
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\]."
 
 #### Exercise of Congressional Rulemaking Power
 
@@ -624,7 +624,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 
-(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or requiredby provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
+(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 

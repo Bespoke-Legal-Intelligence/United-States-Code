@@ -2,7 +2,7 @@
 
 #### (a) Civil penalty
 
-(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing, to have violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of theprohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing, to have violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
 (2) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
 
@@ -24,7 +24,7 @@ The United States district courts shall have jurisdiction to restrain violations
 
 #### (e) Denial of entry
 
-Except as provided in section 1228 of this title, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+Except as provided in section 1228 or 1232c of this title, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 
 #### (f) Withholding of clearance
 
@@ -32,13 +32,15 @@ Except as provided in section 1228 of this title, the Secretary may, subject to 
 
 (2) Clearance refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
-(Pub. L. 92–340, §13, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1478; amended Pub. L. 101–380, title IV, §4302(j), Aug. 18, 1990, 104 Stat. 539; Pub. L. 104–324, title III, §312(b), Oct. 19, 1996, 110 Stat. 3920.)
+(Pub. L. 92–340, §13, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1478; amended Pub. L. 101–380, title IV, §4302(j), Aug. 18, 1990, 104 Stat. 539; Pub. L. 104–324, title III, §312(b), Oct. 19, 1996, 110 Stat. 3920; Pub. L. 115–44, title III, §315(b)(2), Aug. 2, 2017, 131 Stat. 949.)
 
 #### Codification
 
 In subsec. (f)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–44 substituted "section 1228 or 1232c" for "section 1228".
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–324 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary."
 

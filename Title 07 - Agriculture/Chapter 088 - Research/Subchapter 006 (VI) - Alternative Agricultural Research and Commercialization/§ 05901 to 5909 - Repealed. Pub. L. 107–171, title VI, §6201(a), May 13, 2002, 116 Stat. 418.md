@@ -12,7 +12,7 @@ Section 5905, Pub. L. 101–624, title XVI, §1661, Nov. 28, 1990, 104 Stat. 376
 
 Section 5906, Pub. L. 101–624, title XVI, §1662, Nov. 28, 1990, 104 Stat. 3764; Pub. L. 104–127, title VII, §726, Apr. 4, 1996, 110 Stat. 1119, related to general rules regarding provision of assistance.
 
-Section 5907, Pub. L. 101–624, title XVI, §1663, Nov. 28, 1990, 104 Stat. 3765; Pub. L. 102–237, title IV, §405(b), Dec.13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §727, Apr. 4, 1996, 110 Stat. 1119, related to Regional Centers.
+Section 5907, Pub. L. 101–624, title XVI, §1663, Nov. 28, 1990, 104 Stat. 3765; Pub. L. 102–237, title IV, §405(b), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §727, Apr. 4, 1996, 110 Stat. 1119, related to Regional Centers.
 
 Section 5908, Pub. L. 101–624, title XVI, §1664, Nov. 28, 1990, 104 Stat. 3766; Pub. L. 104–127, title VII, §728, Apr. 4, 1996, 110 Stat. 1120, related to the Alternative Agricultural Research and Commercialization Revolving Fund.
 

@@ -34,13 +34,13 @@
 
 &emsp;(L) Such other matters as the Secretary finds appropriate and in the public interest.
 
-(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of theplan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
+(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 
 #### (b) Treatment of plans under section 4332
 
-The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) of this section shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of section 4332(2) of this title. Nothing in this subsection shall affect the Department of Energy's ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
+The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of section 4332(2) of this title. Nothing in this subsection shall affect the Department of Energy's ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
 
 #### (c) Grants
 
@@ -48,11 +48,11 @@ The Secretary of Energy is authorized to award grants to, and enter into coopera
 
 #### (d) Funding
 
-Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c) of this section.
+Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c).
 
 #### (e) Budget reports
 
-Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1), in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
 
 (Pub. L. 102–190, div. C, title XXXI, §3135, Dec. 5, 1991, 105 Stat. 1575; Pub. L. 103–337, div. C, title XXXI, §3160(a), Oct. 5, 1994, 108 Stat. 3094.)
 
@@ -68,7 +68,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §3160(a)(1), substituted "all facilities owned or operated by the Department of Energy except defense nuclear facilities" for "(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy" in first sentence and inserted "such" after "restoration at all" in third sentence.
 
-Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted "The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:" for "The plan shall contain the following matters:" in introductory provisions.
+Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted "The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) tobe covered by the plan, the following matters:" for "The plan shall contain the following matters:" in introductory provisions.
 
 Subsec. (a)(6), (7). Pub. L. 103–337, §3160(a)(3), (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilities that are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities."
 

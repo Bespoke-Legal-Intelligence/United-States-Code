@@ -114,7 +114,7 @@ In general.—For purposes of determining the amount of the foreign tax credit�
 
 &emsp;"(2)
 
-Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States."
+Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' means any income,war profits, or excess profits taxes paid to any foreign country or to any possession of the United States."
 
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
@@ -130,7 +130,7 @@ Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

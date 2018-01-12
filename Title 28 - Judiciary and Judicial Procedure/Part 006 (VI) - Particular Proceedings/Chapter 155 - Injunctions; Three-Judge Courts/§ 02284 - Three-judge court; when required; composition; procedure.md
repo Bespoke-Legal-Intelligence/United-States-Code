@@ -8,13 +8,13 @@
 
 (2) If the action is against a State, or officer or agency thereof, at least five days' notice of hearing of the action shall be given by registered or certified mail to the Governor and attorney general of the State.
 
-(3) A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, or hear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
+(3) A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, orhear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
 
 (June 25, 1948, ch. 646, 62 Stat. 968; Pub. L. 86–507, §1(19), June 11, 1960, 74 Stat. 201; Pub. L. 94–381, §3, Aug. 12, 1976, 90 Stat. 1119; Pub. L. 98–620, title IV, §402(29)(E), Nov. 8, 1984, 98 Stat. 3359.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380, 380a, and 792 (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150,1162; Mar. 4, 1943, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752; Apr. 6, 1942, ch. 210, §3, 56 Stat. 199).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380, 380a, and 792 (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150, 1162; Mar. 4, 1943, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752; Apr. 6, 1942, ch. 210, §3, 56 Stat. 199).
 
 Provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to the Supreme Court's jurisdiction of direct appeals appear in section 1253 of this title.
 

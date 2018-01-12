@@ -60,7 +60,7 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 &emsp;&emsp;&emsp;Each derivatives clearing organization shall establish—
 
-&emsp;&emsp;&emsp;&emsp;(I) appropriate admission and continuing eligibility standards (including sufficient financial resources and operational capacity to meet obligations arising from participation in the derivatives clearing organization) for members of,and participants in, the derivatives clearing organization; and
+&emsp;&emsp;&emsp;&emsp;(I) appropriate admission and continuing eligibility standards (including sufficient financial resources and operational capacity to meet obligations arising from participation in the derivatives clearing organization) for members of, and participants in, the derivatives clearing organization; and
 
 &emsp;&emsp;&emsp;&emsp;(II) appropriate standards for determining the eligibility of agreements, contracts, or transactions submitted to the derivatives clearing organization for clearing.
 
@@ -224,7 +224,7 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 &emsp;&emsp;&emsp;&emsp;(I) the terms and conditions of each contract, agreement, and transaction cleared and settled by the derivatives clearing organization;
 
-&emsp;&emsp;&emsp;&emsp;(II) each clearing and other fee that the derivatives clearing organization charges the members and participants of the derivatives clearing organization;
+&emsp;&emsp;&emsp;&emsp;(II) each clearing and other fee that the derivatives clearing organizationcharges the members and participants of the derivatives clearing organization;
 
 &emsp;&emsp;&emsp;&emsp;(III) the margin-setting methodology, and the size and composition, of the financial resource package of the derivatives clearing organization;
 
@@ -314,7 +314,7 @@ A derivatives clearing organization shall be deemed to be registered under this 
 
 #### (1) In general
 
-&emsp;The Commission shall facilitate the linking or coordination of derivatives clearing organizations registered under this chapter with other regulated clearance facilities for the coordinated settlement of cleared transactions. In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.
+&emsp;The Commission shall facilitate the linking or coordination of derivatives clearing organizations registered under this chapter with other regulated clearance facilities for the coordinated settlement of cleared transactions. In order to minimize systemic risk,under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.
 
 #### (2) Coordination
 
@@ -402,7 +402,7 @@ The Commission may exempt, conditionally or unconditionally, a derivatives clear
 
 #### (2) Data collection and maintenance requirements
 
-&emsp;The Commission shall adopt data collection and maintenance requirements for swaps cleared by derivatives clearing organizations that are comparable to the corresponding requirements for—
+&emsp;The Commission shall adopt data collection and maintenance requirements for swapscleared by derivatives clearing organizations that are comparable to the corresponding requirements for—
 
 &emsp;&emsp;(A) swaps data reported to swap data repositories; and
 

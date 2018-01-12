@@ -10,7 +10,7 @@ False or Misleading Information.—No person may cause a motor carrier to presen
 
 (c)
 
-Allowances for Services.—When the actual rate, charge, or allowance is dependent upon the performance of a service by a party to the transportation arrangement, such as tendering a volume of freight over a stated period of time, the motor carrier shall indicate in any document presented for payment to the person responsible directly to the motor carrier that a reduction, allowance, or other adjustment may apply.
+Allowances for Services.—When the actual rate, charge, or allowance is dependentupon the performance of a service by a party to the transportation arrangement, such as tendering a volume of freight over a stated period of time, the motor carrier shall indicate in any document presented for payment to the person responsible directly to the motor carrier that a reduction, allowance, or other adjustment may apply.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 873.)
 

@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "retired pay" means—
 
-&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and DisabilityFund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
+&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and Disability Fund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
 
 &emsp;&emsp;(B) in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 

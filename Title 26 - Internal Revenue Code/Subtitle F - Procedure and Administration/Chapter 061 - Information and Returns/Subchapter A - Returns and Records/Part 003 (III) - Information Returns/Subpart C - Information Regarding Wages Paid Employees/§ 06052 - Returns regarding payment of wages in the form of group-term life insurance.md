@@ -12,7 +12,7 @@ Every employer required to make a return under subsection (a) shall furnish to e
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading, and in text substituted reference to employers required to make a return for former reference to employers making a returnand reference to employees whose name is required to be set forth for former reference to employees whose name is set forth.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading, and in text substituted reference to employers required to make a return for former reference to employers making a return and reference to employees whose name is required to be set forth for former reference to employees whose name is set forth.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

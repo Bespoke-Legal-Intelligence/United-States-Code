@@ -2,13 +2,13 @@
 
 #### (a) Performance of certain functions without regard to other laws; appropriation credits upon reimbursement for services in connection with exchange activities
 
-(1) Whenever the President determines it to be in furtherance of this chapter, the functions authorized in section 2452(a)(2) and (3) of this titlemay be performed without regard to such provisions of law or limitations of authority regulating or relating to the making, performance, amendment, or modification of contracts, the acquisition and disposition of property, and the expenditure of Government funds, as he may specify.
+(1) Whenever the President determines it to be in furtherance of this chapter, the functions authorized in section 2452(a)(2) and (3) of this title may be performed without regard to such provisions of law or limitations of authority regulating or relating to the making, performance, amendment, or modification of contracts, the acquisition and disposition of property, and the expenditure of Government funds, as he may specify.
 
 (2) Notwithstanding any other provision of law, the Director of the United States Information Agency may provide, on a reimbursable basis, services within the United States in connection with exchange activities otherwise authorized by this chapter when such services are requested by a department or executive agency. Reimbursements under this paragraph shall be credited to the applicable appropriation of the Agency.
 
 #### (b) Periodic reports of activities and expenditures
 
-The President shall submit periodic reports to the Congress of activities carried on and expenditures made in furtherance of the purposes of this chapter and of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
+The President shall submit periodic reports to the Congress of activities carried on and expenditures made in furtherance of the purposes ofthis chapter and of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
 
 #### (c) Expenditures in selection, purchase, rental, construction, or other acquisition of exhibits and materials and equipment therefor
 

@@ -22,5 +22,5 @@ The Secretary shall maintain an adequate system of accounts for such fund and pr
 
 #### Effective Date
 
-Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lienor interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
+Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 

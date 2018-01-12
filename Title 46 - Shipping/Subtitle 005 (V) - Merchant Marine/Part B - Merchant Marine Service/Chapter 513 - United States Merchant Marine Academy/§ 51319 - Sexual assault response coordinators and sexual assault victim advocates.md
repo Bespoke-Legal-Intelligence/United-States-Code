@@ -2,9 +2,121 @@
 
 (a)
 
-Sexual Assault Response Coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.
+Sexual Assault Response Coordinators.—
+
+&emsp;(1)
+
+Requirement for coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.
+
+&emsp;(2)
+
+Selection criteria.—Each sexual assault response coordinator shall be selected based on—
+
+&emsp;&emsp;(A) experience and a demonstrated ability to effectively provide victim services related to sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+
+&emsp;&emsp;(B) protection of the individual under applicable law to provide privileged communication.
+
+&emsp;(3)
+
+Confidentiality.—A sexual assault response coordinator shall, to the extent authorized under applicable law, provide confidential services to a cadet at the Academy who reports being a victim of, or witness to, sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+&emsp;(4)
+
+Training.—
+
+&emsp;&emsp;(A)
+
+Verification.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator, in consultation with the Director of the Maritime Administration Office of Civil Rights, shall develop a process to verify that each sexual assault response coordinator has completed proper training.
+
+&emsp;&emsp;(B)
+
+Training requirements.—The training referred to in subparagraph (A) shall include training in—
+
+&emsp;&emsp;&emsp;(i) working with victims of sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
+
+&emsp;&emsp;&emsp;(ii) the policies, procedures, and resources of the Academy related to responding to sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+
+&emsp;&emsp;&emsp;(iii) national, State, and local victim services and resources available to victims of sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+&emsp;&emsp;(C)
+
+Completion of training.—A sexual assault response coordinator shall completethe training referred to in subparagraphs (A) and (B) not later than—
+
+&emsp;&emsp;&emsp;(i) 270 days after enactment of the National Defense Authorization Act for Fiscal Year 2018; or
+
+&emsp;&emsp;&emsp;(ii) 180 days after starting in the role of sexual assault response coordinator.
+
+&emsp;(5)
+
+Duties.—A sexual assault response coordinator shall—
+
+&emsp;&emsp;(A) confidentially receive a report from a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking;
+
+&emsp;&emsp;(B) inform the victim of—
+
+&emsp;&emsp;&emsp;(i) the victim's rights under applicable law;
+
+&emsp;&emsp;&emsp;(ii) options for reporting an incident of sexual harassment, dating violence, domestic violence, sexual assault, or stalking to the Academy and law enforcement;
+
+&emsp;&emsp;&emsp;(iii) how to access available services, including emergency medical care, medical forensic or evidentiary examinations, legal services, services provided by rape crisis centers and other victim service providers, services provided by the volunteer sexual assault victim advocates at the Academy, and crisis intervention counseling and ongoing counseling;
+
+&emsp;&emsp;&emsp;(iv) such coordinator's ability to assist in arranging access to such services, with the consent of the victim;
+
+&emsp;&emsp;&emsp;(v) available accommodations, such as allowing the victim to change living arrangements and obtain accessibility services;
+
+&emsp;&emsp;&emsp;(vi) such coordinator's ability to assist in arranging such accommodations, with the consent of the victim;
+
+&emsp;&emsp;&emsp;(vii) the victim's rights and the Academy's responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by the Academy or a criminal, civil, or tribal court; and
+
+&emsp;&emsp;&emsp;(viii) privacy limitations under applicable law;
+
+&emsp;&emsp;(C) represent the interests of any cadet at the Academy who reports being a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, even if such interests are in conflict with the interests of the Academy;
+
+&emsp;&emsp;(D) advise the victim of, and provide written materials regarding, the information described in subparagraph (B);
+
+&emsp;&emsp;(E) liaise with appropriate staff at the Academy, with the victim's consent, to arrange reasonable accommodations through the Academy to allow the victim to change living arrangements, obtain accessibility services, or access other accommodations;
+
+&emsp;&emsp;(F) maintain the privacy and confidentiality of the victim, and shall not notify the Academy or any other authority of the identity of the victim or the alleged circumstances surrounding the reported incident unless—
+
+&emsp;&emsp;&emsp;(i) otherwise required by applicable law;
+
+&emsp;&emsp;&emsp;(ii) requested to do so by the victim who has been fully and accurately informed about what procedures shall occur if the information is shared; or
+
+&emsp;&emsp;&emsp;(iii) notwithstanding clause (i) or clause (ii), there is risk of imminent harm to other individuals;
+
+&emsp;&emsp;(G) assist the victim in contacting and reporting an incident of sexual harassment, dating violence, domestic violence, sexual assault, or stalking to the Academy or law enforcement, if requested to do so by the victim who has been fully and accurately informed about what procedures shall occur if information is shared; and
+
+&emsp;&emsp;(H) submit to the Director of the Maritime Administration Office of Civil Rights an annual report summarizing how the resources supplied to the coordinator were used during the prior year, including the number of victims assisted by the coordinator.
 
 (b)
+
+Oversight.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+Reporting.—Each sexual assault response coordinator shall—
+
+&emsp;&emsp;&emsp;(i) report directly to the Superintendent; and
+
+&emsp;&emsp;&emsp;(ii) have concurrent reporting responsibility to the Executive Director of the Maritime Administration on matters related to the Maritime Administration and the Department of Transportation and upon belief that the Academy leadership is acting inappropriately regarding sexual assault prevention and response matters.
+
+&emsp;&emsp;(B)
+
+Support.—The Maritime Administration Office of Civil Rights shall provide support to the sexual assault response coordinator at the Academy on all sexual harassment, dating violence, domestic violence, sexual assault, or stalking prevention matters.
+
+&emsp;(2)
+
+Prohibition on investigation by the academy.—Any request by a victim for an accommodation, as described in subsection (a)(5)(E), made by a sexual assault response coordinator shall not trigger an investigation by the Academy, even if such coordinator deals only with matters relating to sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+&emsp;(3)
+
+Prohibition on retaliation.—A sexual assault response coordinator, victim advocate, or companion may not be disciplined, penalized, or otherwise retaliated against by the Academy for representing the interests of the victim, even if such interests are in conflict with the interests of the Academy.
+
+(c)
 
 Volunteer Sexual Assault Victim Advocates.—
 
@@ -44,11 +156,21 @@ Alternate victim advocates.—If requested by the victim, an alternate victim ad
 
 &emsp;(5)
 
-Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services.
+Formal relationships with other entities.—The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3) and (4).
 
-&emsp;(6)
+(Added Pub. L. 114–328, div. C, title XXXV, §3511(a), Dec. 23, 2016, 130 Stat. 2785; amended Pub. L. 115–91, div. C, title XXXV, §3515(a), (c), Dec. 12, 2017, 131 Stat. 1924, 1927.)
 
-Formal relationships with other entities.—The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3), (4), and (5).
+#### References in Text
 
-(Added Pub. L. 114–328, div. C, title XXXV, §3511(a), Dec. 23, 2016, 130 Stat. 2785.)
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (a)(4)(A), (C)(i), are the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+#### Amendments
+
+<b>2017</b>—Subsecs. (a) to (c). Pub. L. 115–91, §3515(a), added subsecs. (a) and (b), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which read as follows: "
+
+Sexual Assault Response Coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary."
+
+Subsec. (c)(5), (6). Pub. L. 115–91, §3515(c), redesignated par. (6) as (5), substituted "paragraphs (3) and (4)" for "paragraphs (3), (4), and (5)", and struck out former par. (5) which read as follows: "
+
+Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services."
 

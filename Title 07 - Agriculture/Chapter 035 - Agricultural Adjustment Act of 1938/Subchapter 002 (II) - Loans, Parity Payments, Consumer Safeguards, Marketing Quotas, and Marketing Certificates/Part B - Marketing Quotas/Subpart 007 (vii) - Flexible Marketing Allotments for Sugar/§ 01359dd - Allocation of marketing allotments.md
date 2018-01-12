@@ -52,7 +52,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first crop year of operation of a new processor, 50,000 short tons (raw value); and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of each subsequent crop year of operation of the new processor, a quantity established by the Secretary in accordance with this subparagraph and the criteria described in subparagraph (B) or (D), as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of each subsequent crop year of operation of the new processor, aquantity established by the Secretary in accordance with this subparagraph and the criteria described in subparagraph (B) or (D), as applicable.
 
 #### (iv) New entrant States
 
@@ -118,7 +118,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;The quantity of beet sugar produced by a beet sugar processor under subparagraph (C) shall be—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years\(without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
@@ -196,7 +196,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed uponthe transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
+&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed upon the transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
 
 #### (II) Prohibition
 

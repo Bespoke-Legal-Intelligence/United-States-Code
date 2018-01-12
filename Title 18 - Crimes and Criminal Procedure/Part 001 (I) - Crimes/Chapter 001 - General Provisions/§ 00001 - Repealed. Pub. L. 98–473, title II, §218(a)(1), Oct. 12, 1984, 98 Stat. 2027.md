@@ -38,7 +38,7 @@ Pub. L. 113–12, §1, June 3, 2013, 127 Stat. 448, provided that: "This Act \[a
 
 Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: "This Act \[amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Foreign and Economic Espionage Penalty Enhancement Act of 2012'."
 
-Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of thistitle\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
+Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of this title\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
 
 Pub. L. 112–257, §1, Jan. 10, 2013, 126 Stat. 2413, provided that: "This Act \[amending section 3056 of this title\] may be cited as the 'Former Presidents Protection Act of 2012'."
 
@@ -52,7 +52,7 @@ Pub. L. 112–186, §1, Oct. 5, 2012, 126 Stat. 1427, provided that: "This Act \
 
 Pub. L. 112–127, §1, June 5, 2012, 126 Stat. 370, provided that: "This Act \[enacting section 257 of Title 6, Domestic Security, amending sections 555, 982, 1956, and 2516 of this title, and enacting provisions set out as a note under section 555 of this title\] may be cited as the 'Border Tunnel Prevention Act of 2012'."
 
-Pub. L. 112–98, §1, Mar. 8, 2012, 126 Stat. 263, provided that: "This Act \[amending section 1752 of this title\] may be cited as the 'Federal Restricted Buildings and Grounds Improvement Act of 2011'."
+Pub. L. 112–98, §1, Mar. 8, 2012, 126 Stat. 263, provided that: "This Act \[amending section 1752 of this title\]may be cited as the 'Federal Restricted Buildings and Grounds Improvement Act of 2011'."
 
 #### Short Title of 2011 Amendment
 
@@ -72,7 +72,7 @@ Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, provided that: "This division \[enacting sections 249 and 1389 of this title and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending section 249 of this title, enacting provisions set out as notes under section 249 of this title and section 3716 of Title 42, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act'."
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
 Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: "This Act \[enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title\] may be cited as the 'Foreign Evidence Request Efficiency Act of 2009'."
 
@@ -98,7 +98,7 @@ Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: "This Act \
 
 Pub. L. 110–151, §1, Dec. 21, 2007, 121 Stat. 1821, provided that: "This Act \[amending section 1091 of this title\] may be cited as the 'Genocide Accountability Act of 2007'."
 
-Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[enacting section 49 of this title andamending section 2156 of Title 7, Agriculture\] may be cited as the 'Animal Fighting Prohibition Enforcement Act of 2007'."
+Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[enacting section 49 of this title and amending section 2156 of Title 7, Agriculture\] may be cited as the 'Animal Fighting Prohibition Enforcement Act of 2007'."
 
 Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: "This Act \[enacting section 706a of this title\] may be cited as the 'Geneva Distinctive Emblems Protection Act of 2006'."
 
@@ -186,7 +186,7 @@ Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: 
 
 Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
-Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances."
+Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other personsnot similarly situated or to other, dissimilar circumstances."
 
 Pub. L. 104–132, title IX, §904, Apr. 24, 1996, 110 Stat. 1319, provided that: "If any provision of this Act \[see Short Title of 1996 Amendments note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
 

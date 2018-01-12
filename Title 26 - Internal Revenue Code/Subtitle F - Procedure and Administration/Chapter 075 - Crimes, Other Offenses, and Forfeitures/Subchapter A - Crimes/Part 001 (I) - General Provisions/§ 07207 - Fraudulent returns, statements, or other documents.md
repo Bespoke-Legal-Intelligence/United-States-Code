@@ -34,7 +34,7 @@ Amendment by Pub. L. 105–277 applicable to requests made after the later of De
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to returns for years beginning after Dec. 31, 1986, and on and after Dec. 22, 1987, in case of applications submitted after July 15, 1987, or on or before July 15, 1987, if the organization has a copy of the application on July 15, 1987, see section 10704(d) of Pub. L. 100–203, set out as a note under section 6652 of this title.
+Amendment by Pub. L. 100–203 applicable to returns for years beginning after Dec. 31, 1986, and on and afterDec. 22, 1987, in case of applications submitted after July 15, 1987, or on or before July 15, 1987, if the organization has a copy of the application on July 15, 1987, see section 10704(d) of Pub. L. 100–203, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -74,7 +74,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 270 days after the date on which the Advisory Committee is established, the Advisory Committee may submit a report to the Secretary concerning the review conducted under paragraph (2) that contains therecommendations of the Advisory Committee with respect to the results of such review.
+&emsp;Not later than 270 days after the date on which the Advisory Committee is established, the Advisory Committee may submit a report to the Secretary concerning the review conducted under paragraph (2) that contains the recommendations of the Advisory Committee with respect to the results of such review.
 
 #### (c) Grants
 

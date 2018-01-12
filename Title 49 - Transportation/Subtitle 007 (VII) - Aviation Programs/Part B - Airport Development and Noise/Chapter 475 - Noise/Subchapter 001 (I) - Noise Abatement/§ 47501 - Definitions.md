@@ -78,7 +78,7 @@ Contents of Study.—In conducting the study, the National Academy of Sciences s
 
 "(c)
 
-Report.—Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to theSecretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
+Report.—Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to the Secretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
 
 "(d)
 

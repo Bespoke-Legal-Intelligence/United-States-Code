@@ -26,7 +26,7 @@ Grants.—The Secretary may make grants under this section to recipients for—
 
 &emsp;&emsp;(A) public transportation projects planned, designed, and carried out to meet the special needs of seniors and individuals with disabilities when public transportation is insufficient, inappropriate, or unavailable;
 
-&emsp;&emsp;(B) public transportation projects that exceed the requirements of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.);
+&emsp;&emsp;(B) public transportation projects that exceed the requirements of the Americans withDisabilities Act of 1990 (42 U.S.C. 12101 et seq.);
 
 &emsp;&emsp;(C) public transportation projects that improve access to fixed route service and decrease reliance by individuals with disabilities on complementary paratransit; and
 
@@ -240,7 +240,7 @@ Performance Measures.—
 
 &emsp;(1)
 
-In general.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofit organizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
+In general.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofitorganizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
 
 &emsp;(2)
 

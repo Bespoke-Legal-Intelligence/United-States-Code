@@ -2,7 +2,7 @@
 
 (a)
 
-Designation.—The Secretary of Defense shall design and designate a flag as the Medal ofHonor Flag. In selecting the design for the flag, the Secretary shall consider designs submitted by the general public.
+Designation.—The Secretary of Defense shall design and designate a flag as the Medal of Honor Flag. In selecting the design for the flag, the Secretary shall consider designs submitted by the general public.
 
 (b)
 

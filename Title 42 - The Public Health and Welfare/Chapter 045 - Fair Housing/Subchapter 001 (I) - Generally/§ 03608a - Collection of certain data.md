@@ -6,7 +6,7 @@ To assess the extent of compliance with Federal fair housing requirements (inclu
 
 #### (b) Reports to Congress
 
-The Secretary of Agriculture shall include in the annual report of such Secretary to the Congress a summary and evaluation of the data collected by such Secretary under subsection (a) of this section during the preceding year.
+The Secretary of Agriculture shall include in the annual report of such Secretary to the Congress a summary and evaluation of the data collected by such Secretary under subsection (a) during the preceding year.
 
 (Pub. L. 100–242, title V, §562, Feb. 5, 1988, 101 Stat. 1944; Pub. L. 104–66, title I, §1071(e), Dec. 21, 1995, 109 Stat. 720.)
 
@@ -18,7 +18,7 @@ Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of 
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1987, and not as part oftitle VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
+Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of title VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ As part of the study required by this section, the Commission shall conduct publ
 
 #### (c) Publication of results of analyses, research and studies by independent experts; services of voluntary or uncompensated personnel
 
-The Commission is authorized to obtain, through grant or contract, analyses, researchand studies by independent experts of issues relating to age discrimination and to publish the results thereof. For purposes of the study required by this section, the Commission may accept and utilize the services of voluntary or uncompensated personnel, without regard to the provisions of section 105(b) of the Civil Rights Act of 1957 (42 U.S.C. 1975d(b)).
+The Commission is authorized to obtain, through grant or contract, analyses, research and studies by independent experts of issues relating to age discrimination and to publish the results thereof. For purposes of the study required by this section, the Commission may accept and utilize the services of voluntary or uncompensated personnel, without regard to the provisions of section 105(b) of the Civil Rights Act of 1957 (42 U.S.C. 1975d(b)).
 
 #### (d) Report to President and Congress; copies to affected Federal departments and agencies; information and technical assistance
 
@@ -18,11 +18,11 @@ Not later than two years after November 28, 1975, the Commission shall transmit 
 
 #### (e) Comments and recommendations of Federal departments and agencies; submission to President and Congressional committees
 
-Not later than forty-five working days after receiving a copy of the report required by subsection (d) of this section, each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
+Not later than forty-five working days after receiving a copy of the report required by subsection (d), each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
 
 #### (f) Cooperation of Federal departments and agencies with Commission
 
-The head of each Federal department or agency shall cooperate in all respects with the Commission with respect to the study required by subsection (a) of this section, and shall provide to the Commission such data, reports, and documents in connection with the subject matter of such study as the Commission may request.
+The head of each Federal department or agency shall cooperate in all respects with the Commission with respect to the study required by subsection (a), and shall provide to the Commission such data, reports, and documents in connection with the subject matter of such study as the Commission may request.
 
 #### (g) Authorization of appropriations
 

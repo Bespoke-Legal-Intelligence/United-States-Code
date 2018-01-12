@@ -4,7 +4,7 @@
 
 Any person that the Secretary finds—
 
-&emsp;(1) knowingly made or caused to be made, to any officer, employee, or agent of the Department of Health and Human Services, a false statement or misrepresentation of a materialfact in connection with an abbreviated drug application,
+&emsp;(1) knowingly made or caused to be made, to any officer, employee, or agent of the Department of Health and Human Services, a false statement or misrepresentation of a material fact in connection with an abbreviated drug application,
 
 &emsp;(2) bribed or attempted to bribe or paid or attempted to pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services in connection with an abbreviated drug application,
 

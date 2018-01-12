@@ -22,7 +22,7 @@
 
 The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
 
-&emsp;(1) identifying United States businesses with the potential to export goods and services andproviding such businesses with advice and information on establishing export businesses;
+&emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
 &emsp;(2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legal and regulatory environment within foreign countries;
 
@@ -76,7 +76,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (2) Consul General
 
-&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer ifthe primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
+&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
 
 #### (e) Information dissemination
 

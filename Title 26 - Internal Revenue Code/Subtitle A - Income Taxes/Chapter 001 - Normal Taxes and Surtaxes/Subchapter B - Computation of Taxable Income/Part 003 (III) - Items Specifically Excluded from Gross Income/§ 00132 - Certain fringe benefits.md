@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1998" for "calendar year 1992".
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1998" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall be applied by substituting "calendar year 2001" for "calendar year 1998" for purposes of adjusting the dollar amount contained in paragraph (2)(A).
 
@@ -198,9 +198,21 @@ For purposes of this section—
 
 &emsp;For purposes of this section, the terms "working condition fringe" and "de minimis fringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
 
+#### (8) Suspension of qualified bicycle commuting reimbursement exclusion
+
+&emsp;Paragraph (1)(D) shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
+
 #### (g) Qualified moving expense reimbursement
 
-For purposes of this section, the term "qualified moving expense reimbursement" means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term "qualified moving expense reimbursement" means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+
+#### (2) Suspension for taxable years 2018 through 2025
+
+&emsp;Except in the case of a member of the Armed Forces of the United States on active duty who moves pursuant to a military order and incident to a permanent change of station, subsection (a)(6) shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
 
 #### (h) Certain individuals treated as employees for purposes of subsections (a)(1) and (2)
 
@@ -270,7 +282,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Qualified automobile demonstration use
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "qualified automobile demonstration use" means any use of an automobile by a full-time automobile salesman in the sales area in which the automobile dealer's sales office is located if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified automobile demonstration use"means any use of an automobile by a full-time automobile salesman in the sales area in which the automobile dealer's sales office is located if—
 
 &emsp;&emsp;&emsp;(i) such use is provided primarily to facilitate the salesman's performance of services for the employer, and
 
@@ -346,7 +358,7 @@ For purposes of this section (other than subsection (c)(2)), the term "customers
 
 #### (l) Section not to apply to fringe benefits expressly provided for elsewhere
 
-This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of atype the tax treatment of which is expressly provided for in any other section of this chapter.
+This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of a type the tax treatment of which is expressly provided for in any other section of this chapter.
 
 #### (m) Qualified retirement planning services
 
@@ -378,7 +390,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title II, §203(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §103(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §105(a), Dec. 18, 2015, 129 Stat. 3046.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title II, §203(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §103(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §105(a), Dec. 18, 2015, 129 Stat. 3046; Pub. L. 115–97, title I, §§11002(d)(5), 11047(a), 11048(a), Dec. 22, 2017, 131 Stat. 2061, 2088.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -393,6 +405,12 @@ The date of the enactment of the American Recovery and Reinvestment Tax Act of 2
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(6)(A)(ii). Pub. L. 115–97, §11002(d)(5), substituted "for 'calendar year 2016' in subparagraph (A)(ii) thereof" for "for 'calendar year 1992' ".
+
+Subsec. (f)(8). Pub. L. 115–97, §11047(a), added par. (8).
+
+Subsec. (g). Pub. L. 115–97, §11048(a), substituted "For purposes of this section—" for "For purposes of this section,", designated remainder of existing provisions as par. (1) and inserted heading, substituted "The term" for "the term", and added par. (2).
 
 <b>2015</b>—Subsec. (f)(2). Pub. L. 114–113, §105(a)(2), struck out concluding provisions which read as follows: "In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2015, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B)."
 
@@ -514,13 +532,21 @@ Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted "subsection (c)(2)" for "subsection (c)(2)(B)".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(5) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §11047(b), Dec. 22, 2017, 131 Stat. 2088, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §11048(b), Dec. 22, 2017, 131 Stat. 2088, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §105(b), Dec. 18, 2015, 129 Stat. 3046, provided that: "The amendments made by this section \[amending this section\] shall apply to months after December 31, 2014."
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §103(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made bythis section \[amending this section\] shall apply to months after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §103(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made by this section \[amending this section\] shall apply to months after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 
@@ -616,7 +642,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Certain Recordkeeping Requirements
 

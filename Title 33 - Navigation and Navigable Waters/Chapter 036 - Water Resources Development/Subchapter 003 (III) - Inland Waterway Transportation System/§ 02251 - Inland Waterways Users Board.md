@@ -8,7 +8,7 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (1) In general
 
-&emsp;The Users Board shall meet not less frequently than semiannually to develop and make recommendations to the Secretary and Congress regarding the inland waterways and inland harbors of the United States.
+&emsp;The Users Board shall meet not less frequently than semiannually to develop and make recommendations to the Secretary andCongress regarding the inland waterways and inland harbors of the United States.
 
 #### (2) Advice and recommendations
 
@@ -74,7 +74,7 @@ The chairperson of the Users Board and the project development team member appoi
 
 #### (1) In general
 
-&emsp;The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent ofthe appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
+&emsp;The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
 
 #### (2) Members not considered special Government employees
 

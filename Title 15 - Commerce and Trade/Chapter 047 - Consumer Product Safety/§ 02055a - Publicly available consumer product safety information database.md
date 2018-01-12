@@ -210,7 +210,7 @@ In this section, the term "harm" means—
 
 &emsp;(2) risk of injury, illness, or death, as determined by the Commission.
 
-(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048;amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
+(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
 
 #### Amendments
 

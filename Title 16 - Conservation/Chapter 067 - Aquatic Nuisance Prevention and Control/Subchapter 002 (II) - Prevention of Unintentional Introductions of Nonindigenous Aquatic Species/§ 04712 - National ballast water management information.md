@@ -32,7 +32,7 @@
 
 &emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
 
-&emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
+&emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting fromballast water operations and other operations of vessels; and
 
 &emsp;&emsp;&emsp;(ii) to require further study.
 
@@ -60,7 +60,7 @@
 
 #### (3) Columbia River
 
-&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecologicaland ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
+&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
 
 #### (c) Reports
 

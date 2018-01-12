@@ -86,7 +86,7 @@ Subsec. (d) of this section inapplicable with respect to flag officers of the Co
 
 Ex. Ord. No. 10122, Apr. 14, 1950, 15 F.R. 2173, as amended by Ex. Ord. 10400, Sept. 27, 1952, 17 F.R. 8648; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Ex. Ord. No. 11733, July 30, 1973, 38 F.R. 20431 provided:
 
-By virtue of and pursuant to the authority vested in me by section 414(b) of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress \[former section 284(b) of Title 37, now coveredby subsecs. (b) and (c) of this section\], and as President of the United States and Commander in Chief of the armed forces of the United States, I hereby prescribe the following regulations governing payment of disability retirement pay, hospitalization, and re-examination of members and former members of the uniformed services:
+By virtue of and pursuant to the authority vested in me by section 414(b) of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress \[former section 284(b) of Title 37, now covered by subsecs. (b) and (c) of this section\], and as President of the United States and Commander in Chief of the armed forces of the United States, I hereby prescribe the following regulations governing payment of disability retirement pay, hospitalization, and re-examination of members and former members of the uniformed services:
 
 Section 1. The terms "uniformed services" and "Secretary" as used in these regulations shall have the meaning prescribed therefor by subsections (a) and (f), respectively, of section 102 of the Career Compensation Act of 1949 \[section 101(3) and (5) of Title 37, Pay and Allowances of the Uniformed Services\].
 

@@ -160,7 +160,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) randomized controlled research designs, and the evaluation resultshave been published in a peer-reviewed journal; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) randomized controlled research designs, and the evaluation results have been published in a peer-reviewed journal; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) quasi-experimental research designs.
 
@@ -298,7 +298,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (B) Nonprofit organizations
 
-&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for agrant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (j) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (k)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
+&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for a grant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (j) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (k)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
 
 &emsp;&emsp;&emsp;(i) carry out the program based on the needs assessment conducted by the State under subsection (b); and
 
@@ -394,7 +394,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible entity" means a State, an Indian Tribe, Tribal Organization, orUrban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
 
 #### (B) Nonprofit organizations
 

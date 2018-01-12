@@ -22,7 +22,7 @@ Series Positions and Similar Military Positions.—(1) The Secretary of Defense 
 
 Exceptions.—The qualification requirements imposed by the Secretary of Defense pursuant to subsections (a) and (b) shall not apply to an employee of the Department of Defense or member of the armed forces who—
 
-&emsp;(1) served as a contracting officer with authority to award or administer contracts inexcess of the simplified acquisition threshold on or before September 30, 2000;
+&emsp;(1) served as a contracting officer with authority to award or administer contracts in excess of the simplified acquisition threshold on or before September 30, 2000;
 
 &emsp;(2) served, on or before September 30, 2000, in a position either as an employee in the GS–1102 series or as a member of the armed forces in a similar occupational specialty;
 

@@ -12,7 +12,7 @@
 
 (iii) In notifying the Secretary of the death of a veteran as described in clause (ii)(I), the survivor (or the representative of such a survivor) may submit to the Secretary additional documents relating to such death without being required to file a formal claim.
 
-(2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalf of the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
+(2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalfof the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
 
 (b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnity compensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
 
@@ -79,6 +79,492 @@ Pub. L. 114–315, title I, §101(c), Dec. 16, 2016, 130 Stat. 1540, provided th
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–154, title V, §502(b), Aug. 6, 2012, 126 Stat. 1191, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed on or after the date of the enactment of this Act \[Aug. 6, 2012\]."
+
+#### Plan for Processing Legacy Appeals and Implementing New Appeals System
+
+Pub. L. 115–55, §§3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided that:
+
+#### "SEC. 3. COMPREHENSIVE PLAN FOR PROCESSING OF LEGACY APPEALS AND IMPLEMENTING NEW APPEALS SYSTEM.
+
+"(a)
+
+Plan Required.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 2017\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress and the Comptroller General of the United States a comprehensive plan for—
+
+&emsp;"(1) the processing of appeals of decisions on legacy claims that the Secretary considers pending;
+
+&emsp;"(2) implementing the new appeals system;
+
+&emsp;"(3) timely processing, under the new appeals system, of—
+
+&emsp;&emsp;"(A) supplemental claims under section 5108 of title 38, United States Code, as amended by section 2(i);
+
+&emsp;&emsp;"(B) requests for higher-level review under section 5104B of such title, as added by section 2(g); and
+
+&emsp;&emsp;"(C) appeals on any docket maintained under section 7107 of such title, as amended by section 2(t); and
+
+&emsp;"(4) monitoring the implementation of the new appeals system, including metrics and goals—
+
+&emsp;&emsp;"(A) to track the progress of the implementation;
+
+&emsp;&emsp;"(B) to evaluate the efficiency and effectiveness of the implementation; and
+
+&emsp;&emsp;"(C) to identify potential issues relating to the implementation.
+
+"(b)
+
+Elements.—The plan required by subsection (a) shall include, at a minimum, the following:
+
+&emsp;"(1) Delineation of the total resource requirements of the Veterans Benefits Administration and the Board of Veterans' Appeals, disaggregated by resources required to implement and administer the new appeals system and resources required to address the appeals of decisions on legacy claims.
+
+&emsp;"(2) Delineation of the personnel requirements of the Administration and the Board, including staffing levels during the—
+
+&emsp;&emsp;"(A) period in which the Administration and the Board are concurrently processing—
+
+&emsp;&emsp;&emsp;"(i) appeals of decisions on legacy claims; and
+
+&emsp;&emsp;&emsp;"(ii) appeals of decisions on non-legacy claims under the new appeals system; and
+
+&emsp;&emsp;"(B) the period during which the Administration and the Board are no longer processing any appeals of decisions on legacy claims.
+
+&emsp;"(3) Identification of the legal authorities under which the Administration or the Board may—
+
+&emsp;&emsp;"(A) hire additional employees to conduct the concurrent processing described in paragraph (2)(A); and
+
+&emsp;&emsp;"(B) remove employees who are no longer required by the Administration or the Board once the Administration and the Board are no longer processing any appeals of decisions on legacy claims.
+
+&emsp;"(4) An estimate of the amount of time the Administration and the Board will require to hire additional employees as described in paragraph (3)(A) once funding has been made available for such purpose, including a comparison of such estimate and the historical average time required by the Administration and the Board to hire additional employees.
+
+&emsp;"(5) A description of the amount of training and experience that will be required of individuals conducting higher-level reviews under section 5104B of title 38, United States Code, as added by section 2(g).
+
+&emsp;"(6) An estimate of the percentage of higher-level adjudicators who will be employees of the Department of Veterans Affairs who were Decision Review Officers on the day before the new appeals system takes effect or had experience, as of such date, comparable to that of one who was a Decision Review Officer.
+
+&emsp;"(7) A description of the functions that will be performed after the date on which the new appeals system takes effect by Decision Review Officers who were Decision Review Officers on the day before the date the new appeals system takes effect.
+
+&emsp;"(8) Identification of and a timeline for—
+
+&emsp;&emsp;"(A) any training that may be required as a result of hiring new employees to carry out the new appeals system or to process appeals of decisions on legacy claims; and
+
+&emsp;&emsp;"(B) any retraining of existing employees that may be required to carry out such system or to process such claims.
+
+&emsp;"(9) Identification of the costs to the Department of Veterans Affairs of the training identified under paragraph (8) and any additional training staff and any additional training facilities that will be required to provide such training.
+
+&emsp;"(10) A description of the modifications to the information technology systems of the Administration and the Board that the Administration and the Board require to carry out the new appeals system, including cost estimates and a timeline for making the modifications.
+
+&emsp;"(11) An estimate of the office space the Administration and the Board will require during each of the periods described in paragraph (2), including—
+
+&emsp;&emsp;"(A) an estimate of the amount of time the Administration and the Board will require to acquire any additional office space to carry out processing of appeals of decisions on legacy claims and processing of appeals under the new appeals system;
+
+&emsp;&emsp;"(B) a comparison of the estimate under subparagraph (A) and the historical average time required by the Administration and the Board to acquire new office space; and
+
+&emsp;&emsp;"(C) a plan for using telework to accommodate staff exceeding available office space, including how the Administration and the Board will provide training and oversight with respect to such teleworking.
+
+&emsp;"(12) Projections for the productivity of individual employees at the Administration and the Board in carrying out tasks relating to the processing of appeals of decisions on legacy claims and appeals under the new appeals system, taking into account the experience level of new employees and the enhanced notice requirements under section 5104(b) of title 38, United States Code, as amended by section 2(e).
+
+&emsp;"(13) An outline of the outreach the Secretary expects to conduct to inform veterans, families of veterans, survivors of veterans, veterans service organizations, military service organizations, congressional caseworkers, advocates for veterans, and such other stakeholders as the Secretary considers appropriate about the new appeals system, including—
+
+&emsp;&emsp;"(A) a description of the resources required to conduct such outreach; and
+
+&emsp;&emsp;"(B) timelines for conducting such outreach.
+
+&emsp;"(14) Timelines for updating any policy guidance, Internet websites, and official forms that may be necessary to carry out the new appeals system, including—
+
+&emsp;&emsp;"(A) identification of which offices and entities will be involved in efforts relating to such updating; and
+
+&emsp;&emsp;"(B) historical information about how long similar update efforts have taken.
+
+&emsp;"(15) A timeline, including interim milestones, for promulgating such regulations as may be necessary to carry out the new appeals system and a comparison with historical averages for time required to promulgate regulations of similar complexity and scope.
+
+&emsp;"(16) An outline of the circumstances under which claimants with pending appeals of decisions on legacy claims would be authorized to have their appeals reviewed under the new appeals system.
+
+&emsp;"(17) A delineation of the key goals and milestones for reducing the number of pending appeals that are not processed under the new appeals system, including the expected number of appeals, remands, and hearing requests at the Administration and the Board each year, beginning with the one year period beginning on the date of the enactment of this Act \[Aug. 23, 2017\], until there are no longer any appeals pending before the Administration or the Board for a decision on a legacy claim.
+
+&emsp;"(18) A description of each risk factor associated with each element of the plan and a contingency plan to minimize each such risk.
+
+"(c)
+
+Review by Comptroller General of the United States.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the Comptroller General of the United States receives the plan required by subsection (a), the Comptroller General shall—
+
+&emsp;&emsp;"(A) assess such plan; and
+
+&emsp;&emsp;"(B) notify the appropriate committees of Congress of the findings of the Comptroller General with respect to the assessment conducted under subparagraph (A).
+
+&emsp;"(2)
+
+Elements.—The assessment conducted under paragraph (1)(A) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of whether the plan comports with sound planning practices.
+
+&emsp;&emsp;"(B) Identification of any gaps in the plan.
+
+&emsp;&emsp;"(C) Formulation of such recommendations as the Comptroller General considers appropriate.
+
+"(d)
+
+Periodic Progress Reports.—Not later than 90 days after the date on which the Secretary submits the plan under subsection (a), not less frequently than once every 90 days thereafter until the applicability date set forth in section 2(x)(1) \[of Pub. L. 115–55, set out in a note under section 101 of this title\], and not less frequently than once every 180 days thereafter for the seven-year period following such applicability date, the Secretary shall submit to the appropriate committees of Congress and the Comptroller General a report on the progress of the Secretary in carrying out the plan and what steps, if any, the Secretary has taken to address any recommendations formulated by the Comptroller General pursuant to subsection (c)(2)(C).
+
+"(e)
+
+Publication.—The Secretary shall make available to the public on an Internet website of the Department of Veterans Affairs—
+
+&emsp;"(1) the plan required by subsection (a); and
+
+&emsp;"(2) the periodic progress reports required by subsection (d).
+
+"(f)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;"(2) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+
+#### "SEC. 4. PROGRAMS TO TEST ASSUMPTIONS RELIED ON IN DEVELOPMENT OF COMPREHENSIVE PLAN FOR PROCESSING OF LEGACY APPEALS AND SUPPORTING NEW APPEALS SYSTEM.
+
+"(a)
+
+Authorization.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs may carry out such programs as the Secretary considers appropriate to test any assumptions relied upon in developing the comprehensive plan required by section 3(a) and to test the feasibility and advisability of any facet of the new appeals system.
+
+&emsp;"(2)
+
+Reporting required.—Whenever the Secretary determines, based on the conduct of a program under paragraph (1), that legislative changes to the new appeals system are necessary, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives notice of such determination.
+
+"(b)
+
+Department of Veterans Affairs Program on Fully Developed Appeals.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs may, under subsection (a)(1), carry out a program to provide the option of an alternative appeals process that shall more quickly determine such appeals in accordance with this subsection.
+
+&emsp;"(2)
+
+Election.—
+
+&emsp;&emsp;"(A)
+
+Filing.—In accordance with subparagraph (B), a claimant may elect to file a fully developed appeal under the program by filing with the Secretary all of the following:
+
+&emsp;&emsp;&emsp;"(i) The notice of disagreement under chapter 71 of title 38, United States Code, along with the written election of the claimant to have the appeal determined under the program.
+
+&emsp;&emsp;&emsp;"(ii) All evidence that the claimant believes is needed for the appeal as of the date of the filing.
+
+&emsp;&emsp;&emsp;"(iii) A statement of the argument in support of the claim, if any.
+
+&emsp;&emsp;"(B)
+
+Timing.—A claimant shall make an election under subparagraph (A) as part of the notice of disagreement filed by the claimant in accordance with subparagraph (A)(i).
+
+&emsp;&emsp;"(C)
+
+Triage.—The Secretary shall, upon expiration of the period specified in paragraph (3)(C)(iii), ensure that an assessment is undertaken of whether an appeal filed under subparagraph (A) of this paragraph satisfies the requirements for appeal under the program and provide appropriate notification to the claimant of the results of that assessment.
+
+&emsp;&emsp;"(D)
+
+Reversion.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Elected reversion.—At any time, a claimant who makes an election under subparagraph (A) may elect to revert to the standard appeals process. Such a reversion shall be final.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Automatic reversion.—A claimant described in clause (i), or a claimant who makes an election under subparagraph (A) but is later determined to be ineligible for the program under paragraph (1), shall revert to the standard appeals process without any penalty to the claimant other than the loss of the docket number associated with the fully developed appeal.
+
+&emsp;&emsp;"(E)
+
+Outreach.—In providing claimants with notices of the determination of a claim during the period in which the program under paragraph (1) is carried out, the Secretary shall conduct outreach as follows:
+
+&emsp;&emsp;&emsp;"(i) The Secretary shall provide to the claimant (and to the representative of record of the claimant, if any) information regarding—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the program, including the advantages and disadvantages of the program;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) how to make an election under subparagraph (A);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the limitation on the use of new evidence described in subparagraph (C) of paragraph (3) and the development of information under subparagraph (D) of such paragraph;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the ability of the claimant to seek advice and education regarding such process from veterans service organizations, attorneys, and claims agents recognized under chapter 59 of title 38, United States Code; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) the circumstances under which the appeal will automatically revert to the standard appeals process, including by making a request for a hearing.
+
+&emsp;&emsp;&emsp;"(ii) The Secretary shall collaborate, partner with, and give weight to the advice of the three veterans service organizations with the most members and such other stakeholders as the Secretary considers appropriate to publish on the Internet website of the Department of Veterans Affairs an online tutorial explaining the advantages and disadvantages of the program.
+
+&emsp;"(3)
+
+Treatment by department and board.—
+
+&emsp;&emsp;"(A)
+
+Process.—Upon the election of a claimant to file a fully developed appeal pursuant to paragraph (2)(A), the Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) not provide the claimant with a statement of the case nor require the claimant to file a substantive appeal; and
+
+&emsp;&emsp;&emsp;"(ii) transfer jurisdiction over the fully developed appeal directly to the Board of Veterans' Appeals.
+
+&emsp;&emsp;"(B)
+
+Docket.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Board of Veterans' Appeals shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) maintain fully developed appeals on a separate docket than standard appeals;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) decide fully developed appeals in the order that the fully developed appeals are received on the fully developed appeal docket;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) except as provided by clause (ii), decide not more than one fully developed appeal for each four standard appeals decided; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) to the extent practicable, decide each fully developed appeal by the date that is oneyear following the date on which the claimant files the notice of disagreement.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Adjustment.—Beginning one year after the date on which the program commences, the Board may adjust the number of standard appeals decided for each fully developed appeal under clause (i)(III) if the Board determines that such adjustment is fair for both standard appeals and fully developed appeals.
+
+&emsp;&emsp;"(C)
+
+Limitation on use of new evidence.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Except as provided by clauses (ii) and (iii)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a claimant may not submit or identify to the Board of Veterans' Appeals any new evidence relating to a fully developed appeal after filing such appeal unless the claimant reverts to the standard appeals process pursuant to paragraph (2)(D); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) if a claimant submits or identifies any such new evidence, such submission or identification shall be deemed to be an election to make such a reversion pursuant to paragraph (2)(D).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Evidence gathered by board.—Clause (i) shall not apply to evidence developed pursuant to subparagraphs (D) and (E). The Board shall consider such evidence in the first instance without consideration by the Veterans Benefits Administration.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Representative of record.—The representative of record of a claimant for appeals purposes, if any, shall be provided an opportunity to review the fully developed appeal of the claimant and submit any additional arguments or evidence that the representative determines necessary during a period specified by the Board for purposes of this subparagraph.
+
+&emsp;&emsp;"(D)
+
+Prohibition on remand for additional development.—If the Board of Veterans' Appeals determines that a fully developed appeal requires Federal records, independent medical opinions, or new medical examinations, the Board shall—
+
+&emsp;&emsp;&emsp;"(i) in accordance with subparagraph (E), take such actions as may be necessary to develop such records, opinions, or examinations in accordance with section 5103A of title 38, United States Code;
+
+&emsp;&emsp;&emsp;"(ii) retain jurisdiction of the fully developed appeal without requiring a determination by the Veterans Benefits Administration based on such records, opinions, or examinations;
+
+&emsp;&emsp;&emsp;"(iii) ensure the claimant, and the representative of record of a claimant, if any, receives a copy of such records, opinions, or examinations; and
+
+&emsp;&emsp;&emsp;"(iv) provide the claimant a period of 90 days after the date of mailing such records, opinions, or examinations during which the claimant may provide the Board any additional evidence without requiring the claimant to make a reversion pursuant to paragraph (2)(D).
+
+&emsp;&emsp;"(E)
+
+Development unit.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Establishment.—The Board of Veterans' Appeals shall establish an office to develop Federal records, independent medical opinions, and new medical examinations pursuant to subparagraph (D)(i) that the Board determines necessary to decide a fully developed appeal.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Requirements.—The Secretary shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) ensure that the Veterans Benefits Administration cooperates with the Board of Veterans' Appeals in carrying out clause (i); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) transfer employees of the Veterans Benefits Administration who, prior to the enactment of this Act \[see Tables for classification\], were responsible for processing claims remanded by the Board of Veterans' Appeals to positions within the office of the Board established under clause (i) in a number the Secretary determines sufficient to carry out such subparagraph.
+
+&emsp;&emsp;"(F)
+
+Hearings.—Notwithstanding section 7107 of title 38, United States Code, the Secretary may not provide hearings with respect to fully developed appeals under the program. If a claimant requests to hold a hearing pursuant to such section 7107, such request shall be deemed to be an election to revert to the standard appeals process pursuant to paragraph (2)(D).
+
+&emsp;"(4)
+
+Duration; applicability.—
+
+&emsp;&emsp;"(A)
+
+Duration.—Subject to subsection (c), the Secretary may carry out the program during such period as the Secretary considers appropriate.
+
+&emsp;&emsp;"(B)
+
+Applicability.—This section shall apply only to fully developed appeals that are filed during the period in which the program is carried out pursuant to subparagraph (A).
+
+&emsp;"(5)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A)
+
+Compensation.—The term 'compensation' has the meaning given that term in section 101 of title 38, United States Code.
+
+&emsp;&emsp;"(B)
+
+Fully developed appeal.—The term 'fully developed appeal' means an appeal of a claim for disability compensation that is—
+
+&emsp;&emsp;&emsp;"(i) filed by a claimant in accordance with paragraph (2)(A); and
+
+&emsp;&emsp;&emsp;"(ii) considered in accordance with this subsection.
+
+&emsp;&emsp;"(C)
+
+Standard appeal.—The term 'standard appeal' means an appeal of a claim for disability compensation that is not a fully developed appeal.
+
+"(c)
+
+Termination of Authority.—The Secretary of Veterans Affairs may not carry out a program under this section after the applicability date set forth in section 2(x)(1) \[of Pub. L. 115–55, set out in a note under section 101 of this title\].
+
+#### "SEC. 5. PERIODIC PUBLICATION OF METRICS RELATING TO PROCESSING OF APPEALS BY DEPARTMENT OF VETERANS AFFAIRS.
+
+"The Secretary of Veterans Affairs shall periodically publish on an Internet website of the Department of Veterans Affairs the following:
+
+&emsp;"(1) With respect to the processing by the Secretary of appeals under the new appeals system of decisions regarding claims for benefits under laws administered by the Secretary, the following:
+
+&emsp;&emsp;"(A) For the Veterans Benefits Administration and, to the extent practicable, each regional office of the Department of Veterans Affairs, the number of—
+
+&emsp;&emsp;&emsp;"(i) supplemental claims under section 5108 of title 38, United States Code, as amended by section 2(i), that are pending; and
+
+&emsp;&emsp;&emsp;"(ii) requests for higher-level review under section 5104B of such title, as added by section 2(g), that are pending.
+
+&emsp;&emsp;"(B) The number of appeals on any docket maintained under section 7107 of such title, as amended by section 2(t), that are pending.
+
+&emsp;&emsp;"(C) The average duration for processing claims and supplemental claims, disaggregated by regional office.
+
+&emsp;&emsp;"(D) The average duration for processing requests for higher-level review under section 5104B of such title, as added by section 2(g), disaggregated by regional office.
+
+&emsp;&emsp;"(E) The average number of days that appeals are pending on a docket of the Board of Veterans' Appeals maintained pursuant to section 7107 of such title, as amended by section 2(t), disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) appeals that include a request for a hearing;
+
+&emsp;&emsp;&emsp;"(ii) appeals that do not include a request for a hearing and do include submittal of evidence; and
+
+&emsp;&emsp;&emsp;"(iii) appeals that do not include a request for a hearing and do not include submittal of evidence.
+
+&emsp;&emsp;"(F) With respect to the policy developed and implemented under section 7107(e) of such title, as amended by section 2(t)—
+
+&emsp;&emsp;&emsp;"(i) the number of cases moved from one docket to another pursuant to such policy;
+
+&emsp;&emsp;&emsp;"(ii) the average time cases were pending prior to moving from one docket to another; and
+
+&emsp;&emsp;&emsp;"(iii) the average time to adjudicate the cases after so moving.
+
+&emsp;&emsp;"(G) The total number of remands to obtain advisory medical opinions under section 5109(d) of title 38, United States Code, as added by section 2(j).
+
+&emsp;&emsp;"(H) The average number of days between the date on which the Board remands a claim to obtain an advisory medical opinion under section 5109(d) of such title, as so added, and the date on which the advisory medical opinion is obtained.
+
+&emsp;&emsp;"(I) The average number of days between the date on which the Board remands a claim to obtain an advisory medical opinion under section 5109(d) of such title, as so added, and the date on which the agency of original jurisdiction issues a decision taking that advisory opinion into account.
+
+&emsp;&emsp;"(J) The number of appeals that are granted, the number of appeals that are remanded, and the number of appeals that are denied by the Board disaggregated by docket.
+
+&emsp;&emsp;"(K) The number of claimants each year that take action within the period set forth in section 5110(a)(2) of such title, as added by section 2(l), to protect their effective date under such section 5110(a)(2), disaggregated by the status of the claimants taking the actions, such as whether the claimant is represented by a veterans service organization, the claimant is represented by an attorney, or the claimant is taking such action pro se.
+
+&emsp;&emsp;"(L) The total number of times on average each claimant files under section 5110(a)(2) of such title, as so added, to protect their effective date under such section, disaggregated by the subparagraph of such section under which they file.
+
+&emsp;&emsp;"(M) The average duration, from the filing of an initial claim until the claim is resolved and claimants no longer take any action to protect their effective date under section 5110(a)(2) of such title, as so added—
+
+&emsp;&emsp;&emsp;"(i) of claims under the new appeals system, excluding legacy claims that opt in to the new appeals system; and
+
+&emsp;&emsp;&emsp;"(ii) of legacy claims that opt in to the new appeals system.
+
+&emsp;&emsp;"(N) How frequently an action taken within one year to protect an effective date under section 5110(a)(2) of such title, as so added, leads to additional grant of benefits, disaggregated by action taken.
+
+&emsp;&emsp;"(O) The average of how long it takes to complete each segment of the claims process while claimants are protecting the effective date under such section, disaggregated by the time waiting for the claimant to take an action and the time waiting for the Secretary to take an action.
+
+&emsp;&emsp;"(P) The number and the average amount of retroactive awards of benefits from the Secretary as a result of protected effective dates under such section, disaggregated by action taken.
+
+&emsp;&emsp;"(Q) The average number of times claimants submit to the Secretary different claims with respect to the same condition, such as an initial claim and a supplemental claim.
+
+&emsp;&emsp;"(R) The number of cases each year in which a claimant inappropriately tried to take simultaneous actions, such as filing a supplemental claim while a higher-level review is pending, what actions the Secretary took in response, and how long it took on average to take those actions.
+
+&emsp;&emsp;"(S) In the case that the Secretary develops and implements a policy under section 5104C(a)(2)(D) of such title, as amended by section 2(h)(1), the number of actions withdrawn and new actions taken pursuant to such policy.
+
+&emsp;&emsp;"(T) The number of times the Secretary received evidence relating to an appeal or higher-level review at a time not authorized under the new appeals system, disaggregated by actions taken by the Secretary to deal with the evidence and how long on average it took to take those actions.
+
+&emsp;&emsp;"(U) The number of errors committed by the Secretary in carrying out the Secretary's duty to assist under section 5103A of title 38, United States Code, that were identified by higher-level review and by the Board, disaggregated by type of error, such as errors relating to private records and inadequate examinations, and a comparison with errors committed by the Secretary in carrying out such duty with respect to appeals of decisions on legacy claims.
+
+&emsp;&emsp;"(V) An assessment of the productivity of employees at the regional offices and at the Board, disaggregated by level of experience of the employees.
+
+&emsp;&emsp;"(W) The percentage of cases that are decided within the goals established by the Secretary for deciding cases, disaggregated by cases that involve a supplemental claim, cases that involve higher-level review, and by docket maintained under section 7107(a) of such title, as amended by section 2(t), or in the case that the Secretary has not established goals for deciding cases, the percentage of cases which are decided within one year, two years, three years, and more than three years, disaggregated by docket.
+
+&emsp;&emsp;"(X) Of the cases that involve higher-level review, the percentage of decisions that are overturned in whole or in part by the higher-level adjudicator, that are upheld by the higher-level adjudicator, and that are returned for correction of an error.
+
+&emsp;&emsp;"(Y) The frequency by which the Secretary readjudicates a claim pursuant to section 5108 of such title, as amended by section 2(i), and the frequency by which readjudication pursuant to section 5108 of such title, as so amended, results in an award of benefits.
+
+&emsp;&emsp;"(Z) In any case in which the Board decides to screen cases for a purpose described in section 7107(d) of such title, as amended by section 2(t)(1)—
+
+&emsp;&emsp;&emsp;"(i) a description of the way in which the cases are screened and the purposes for which they are screened;
+
+&emsp;&emsp;&emsp;"(ii) a description of the effect such screening has had on—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the timeliness of the issuance of decisions of the Board; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the inventory of cases before the Board; and
+
+&emsp;&emsp;&emsp;"(iii) the type and frequency of development errors detected through such screening.
+
+&emsp;"(2) With respect to the processing by the Secretary of appeals of decisions on legacy claims, the following:
+
+&emsp;&emsp;"(A) The average duration of each segment of the appeals process, disaggregated by periods in which the Secretary is waiting for a claimant to take an action and periods in which the claimant is waiting for the Secretary to take an action.
+
+&emsp;&emsp;"(B) The frequency by which appeals lead to additional grant of benefits by the Secretary, disaggregated by whether the additional benefits are a result of additional evidence added after the initial decision.
+
+&emsp;&emsp;"(C) The number and average amount of retroactive awards of benefits resulting from an appeal.
+
+&emsp;&emsp;"(D) The average duration from filing a legacy claim with the Secretary until all appeals and remands relating to such legacy claim are completed.
+
+&emsp;&emsp;"(E) The average number of times claimants submit to the Secretary different claims with respect to the same condition, such as an initial claim, new and material evidence, or a claim for an increase in benefits.
+
+&emsp;&emsp;"(F) An assessment of the productivity of employees at the regional offices and at the Board, disaggregated by level of experience of the employees.
+
+&emsp;&emsp;"(G) The average number of days the duration of an appeal is extended because the Secretary secured or attempted to secure an advisory medicalopinion under section 5109 of title 38, United States Code, or \[former\] section 7109 of such title (as in effect on the day before the date of the enactment of this Act \[Aug. 23, 2017\]).
+
+&emsp;&emsp;"(H) The frequency by which claims are reopened pursuant to section 5108 of such title and the frequency by which such reopening results in an award of benefits.
+
+&emsp;"(3) With respect to the processing by the Secretary of appeals of decisions on legacy claims that opt in to the new appeals system, the following:
+
+&emsp;&emsp;"(A) The cumulative number of such legacy claims.
+
+&emsp;&emsp;"(B) The portion of work in the new appeals system attributable to appeals of decisions on such legacy claims.
+
+&emsp;&emsp;"(C) The average period such legacy claims were pending before opting in to the new appeals system and the average period required to adjudicate such legacy claims on average after opting in—
+
+&emsp;&emsp;&emsp;"(i) with respect to claims at a regional office of the Department of Veterans Affairs, disaggregated by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) supplemental claims under section 5108 of title 38, United States Code, as amended by section 2(i); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) requests for higher-level review under section 5104B of such title, as added by section 2(g); and
+
+&emsp;&emsp;&emsp;"(ii) with respect to appeals, disaggregated by docket of the Board maintained under section 7107 of such title, as amended by section 2(t).
+
+#### "SEC. 6. DEFINITIONS.
+
+"In this Act \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Claimant.—The term 'claimant' has the meaning given such term in section 5100 of title 38, United States Code.
+
+&emsp;"(2)
+
+Legacy claims.—The term 'legacy claim' means a claim—
+
+&emsp;&emsp;"(A) that was submitted to the Secretary of Veterans Affairs for a benefit under a law administered by the Secretary; and
+
+&emsp;&emsp;"(B) for which notice of a decision under section 5104 of title 38, United States Code, was provided by the Secretary before the date set forth in section 2(x) \[of Pub. L. 115–55, set out as a note under section 101 of this title\].
+
+&emsp;"(3)
+
+Opt in.—The term 'opt in' means, with respect to a legacy claim of a claimant, that the claimant elects to subject the claim to the new appeals system pursuant to—
+
+&emsp;&emsp;"(A) section 2(x)(3); or
+
+&emsp;&emsp;"(B) such other mechanism as the Secretary may prescribe for purposes of carrying out this Act and the amendments made by this Act.
+
+&emsp;"(4)
+
+New appeals system.—The term 'new appeals system' means the set of processes and mechanisms by which the Secretary processes, pursuant to the authorities and requirements modified by section 2 \[see Tables for classification\], claims for benefits under laws administered by the Secretary."
 
 #### Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims
 
@@ -300,7 +786,7 @@ Report to Congress.—Not later than April 1, 2010, the Secretary shall submit t
 
 #### Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians
 
-Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, §207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, §14, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title I, §106, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, §409, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §412, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title I, §109(a)(1), Dec. 16, 2016, 130 Stat. 1544, provided that:
+Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, §207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, §14, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title I, §106, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, §409, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §412, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title I, §109(a)(1), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–91, div. A, title V, §529, Dec. 12, 2017, 131 Stat. 1383, provided that:
 
 "(a)
 
@@ -312,7 +798,7 @@ Performance by Contract.—Examinations under the authority provided in subsecti
 
 "(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2017. No examination may be carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2018. No examination may be carried out under the authority provided in that subsection after that date.
 
 "(d)
 
@@ -376,7 +862,7 @@ Physician described.—A physician described in this paragraph is a physician wh
 
 "(d)
 
-Source of Funds.—Payments for contracts under the pilot program under this section shall be made from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
+Source of Funds.—Payments for contracts under the pilot program under this section shall bemade from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
 
 "(e)
 
@@ -388,5 +874,5 @@ Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, as amended by
 
 #### Veterans' Claims Adjudication Commission
 
-Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, §503(a), Oct. 9, 1996, 110 Stat. 3341, established Veterans' Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims forveterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
+Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, §503(a), Oct. 9, 1996, 110 Stat. 3341, established Veterans' Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
 

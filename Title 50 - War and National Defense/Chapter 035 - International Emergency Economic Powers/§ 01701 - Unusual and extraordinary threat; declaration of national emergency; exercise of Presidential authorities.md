@@ -1340,6 +1340,8 @@ Exception to Prohibitions in Executive Order Number 13067.—Notwithstanding any
 
 \[Functions of President under sections 7 and 8 of Pub. L. 109–344, set out above, assigned to Secretary of State by section 4(e) of Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61370, listed in a table below.\]
 
+\[Effective July 12, 2017, and subject to certain conditions, function of President under section 8 of Pub. L. 109–344, set out above, assigned to Secretary of State by sections 6 and 12(b) of Ex. Ord. No. 13761, Jan. 13, 2017, 82 Stat. 5331, 5333, set out below.\]
+
 #### Codification of Sanctions Against Iran
 
 Pub. L. 109–293, title I, §101, Sept. 30, 2006, 120 Stat. 1344, provided that:
@@ -1370,7 +1372,7 @@ Pub. L. 112–192, Oct. 5, 2012, 126 Stat. 1441, as amended by Pub. L. 113–235
 
 "In this Act:
 
-&emsp;"(1) The term 'appropriate congressional committees' means the Committees on Foreign Relations,Banking, Housing, and Urban Affairs, and Appropriations of the Senate, and the Committees on Financial Services, Foreign Affairs, and Appropriations of the House of Representatives.
+&emsp;"(1) The term 'appropriate congressional committees' means the Committees on Foreign Relations, Banking, Housing, and Urban Affairs, and Appropriations of the Senate, and the Committees on Financial Services, Foreign Affairs, and Appropriations of the House of Representatives.
 
 &emsp;"(2) The term 'assistance' means any loan or financial or technical assistance, or any other use of funds.
 
@@ -1422,7 +1424,7 @@ Pub. L. 110–286, July 29, 2008, 122 Stat. 2632, provided that:
 
 &emsp;"(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than ¼ of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, represent more than 11 percent of Burma's official foreign exchange earnings.
 
-&emsp;"(10) The SPDC owns a majority stake in virtually all enterprises responsible for the extraction and trade of Burmese natural resources, including all mining operations, the Myanmar Timber Enterprise, the Myanmar Gems Enterprise, the Myanmar Pearl Enterprise, and the Myanmar Oil and Gas Enterprise. Virtually all profits from these enterprises enrich the SPDC.
+&emsp;"(10) The SPDC owns a majority stake in virtually all enterprises responsible for the extraction and trade of Burmese natural resources, including all mining operations, the Myanmar Timber Enterprise, the Myanmar Gems Enterprise, the Myanmar PearlEnterprise, and the Myanmar Oil and Gas Enterprise. Virtually all profits from these enterprises enrich the SPDC.
 
 &emsp;"(11) On October 11, 2007, the United Nations Security Council, with the consent of the People's Republic of China, issued a statement condemning the violence in Burma, urging the release of all political prisoners, and calling on the SPDC to enter into a United Nations-mediated dialogue with its political opposition.
 
@@ -1534,7 +1536,7 @@ Financial transactions.—Except with respect to transactions authorized under E
 
 Prohibited activities.—Activities prohibited by reason of the blocking of property and financial transactions under this subsection shall include the following:
 
-&emsp;&emsp;"(A) Payments or transfers of any property, or any transactions involving the transfer of anything of economic value by any United States person, including any United States financial institution and any branch or office of such financial institution that is located outside the United States, to the SPDC or to an individual described in subsection (a)(1).
+&emsp;&emsp;"(A) Payments or transfers of any property, or any transactions involving the transfer of anythingof economic value by any United States person, including any United States financial institution and any branch or office of such financial institution that is located outside the United States, to the SPDC or to an individual described in subsection (a)(1).
 
 &emsp;&emsp;"(B) The export or reexport directly or indirectly, of any goods, technology, or services by a United States person to the SPDC, to an individual described in subsection (a)(1) or to any entity owned, controlled, or operated by the SPDC or by an individual described in such subsection.
 
@@ -1870,7 +1872,7 @@ Sense of Congress.—It is the sense of Congress that so long as Yadana investor
 
 \[Ex. Ord. No. 13651, §8, Aug. 6, 2013, 78 F.R. 48794, determined and certified under section 5(i) of Pub. L. 110–286, set out above, that it was in the national interest of the United States to waive, and did waive, the sanctions described in section 5(b) of Pub. L. 110–286, subject to an exception continuing the prohibition of certain transactions.\]
 
-\[Memorandum of President of the United States, Aug. 29, 2012, 77 F.R. 57479, delegated to the Secretary of State the functions and authority conferred upon the President by section 5(a)(2) of Pub. L. 110–286, set out above, to waive the visa ban under section 5(a)(1) of that Act, and to make the specified certification to Congress.\]
+\[Memorandum of President of the United States, Aug. 29, 2012, 77 F.R. 57479, delegated to the Secretary of State the functions and authority conferred upon thePresident by section 5(a)(2) of Pub. L. 110–286, set out above, to waive the visa ban under section 5(a)(1) of that Act, and to make the specified certification to Congress.\]
 
 Pub. L. 108–61, July 28, 2003, 117 Stat. 864, as amended by Pub. L. 109–251, §1, Aug. 1, 2006, 120 Stat. 654; Pub. L. 110–286, §§6(a)–(b)(2), (c), 9(b), July 29, 2008, 122 Stat. 2638, 2642–2644; Pub. L. 111–42, title I, §101, July 28, 2009, 123 Stat. 1963; Pub. L. 112–163, §3(a), Aug. 10, 2012, 126 Stat. 1277, provided that:
 
@@ -1956,7 +1958,7 @@ Conditions described.—The conditions described in this paragraph are the follo
 
 &emsp;&emsp;&emsp;"(v) bringing to a conclusion an agreement between the SPDC and the democratic forces led by the NLD and Burma's ethnic nationalities on the transfer of power to a civilian government accountable to the Burmese people through democratic elections under the rule of law.
 
-&emsp;&emsp;"(C) Pursuant to section 706(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228) \[22 U.S.C. 2291j–1(2)\], Burma has not been designated as a country that has failed demonstrably to make substantial efforts to adhere to its obligations under international counternarcotics agreements and to take other effective counternarcotics measures, including, but not limited to (i) the arrest and extradition of all individuals under indictment in the United States for narcotics trafficking, (ii) concrete and measurable actions to stem the flow of illicit drug money into Burma's banking system and economic enterprises, and (iii) actions to stop the manufacture and export of methamphetamines.
+&emsp;&emsp;"(C) Pursuant to section 706(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 (PublicLaw 107–228) \[22 U.S.C. 2291j–1(2)\], Burma has not been designated as a country that has failed demonstrably to make substantial efforts to adhere to its obligations under international counternarcotics agreements and to take other effective counternarcotics measures, including, but not limited to (i) the arrest and extradition of all individuals under indictment in the United States for narcotics trafficking, (ii) concrete and measurable actions to stem the flow of illicit drug money into Burma's banking system and economic enterprises, and (iii) actions to stop the manufacture and export of methamphetamines.
 
 &emsp;"(4)
 
@@ -2072,7 +2074,7 @@ In general.—The President may waive the requirements of paragraph (1) with res
 
 Measures described.—The measures referred to in subparagraph (A) are the following:
 
-&emsp;&emsp;&emsp;"(i) With respect to exportation from the country of jadeite or rubies in rough form, a system of verifiable controls on the jadeite or rubies from mine to exportation demonstrating that thejadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted, total carat weight, and value of the jadeite or rubies.
+&emsp;&emsp;&emsp;"(i) With respect to exportation from the country of jadeite or rubies in rough form, a system ofverifiable controls on the jadeite or rubies from mine to exportation demonstrating that the jadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted, total carat weight, and value of the jadeite or rubies.
 
 &emsp;&emsp;&emsp;"(ii) With respect to exportation from the country of finished jadeite or polished rubies, a system of verifiable controls on the jadeite or rubies from mine to the place of final finishing of the jadeite or rubies demonstrating that the jadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted.
 
@@ -2280,7 +2282,7 @@ Expedited consideration.—The provisions of section 152(b), (c), (d), (e), and 
 
 \[Pub. L. 109–251, §3, Aug. 1, 2006, 120 Stat. 654, provided that: "This Act \[enacting note below and amending Pub. L. 108–61 set out above\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first."\]
 
-\[Proc. No. 8294, Sept. 26, 2008, 73 F.R. 57223, provided: in par. (2), that beginning on Sept. 27, 2008, importation of Burmese covered articles into the United States is prohibited, subject to certain exceptions; in par. (3), that beginning on Sept. 27, 2008, importation of non-Burmese covered articles into the United States is subject to certain conditions, with certain exceptions; in par. (4), that the Secretary of the Treasury and the Secretary of Homeland Security are authorized to issue regulations, licenses, and orders and to conduct necessary investigations to implement the prohibition onBurmese covered articles and the conditions for importation of non-Burmese covered articles set forth in section 3A(b), (c) of Pub. L. 108–61, set out above, and also to redelegate those functions as necessary; in par. (5), that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to perform the functions set forth in section 3A(c)(2)(A) of Pub. L. 108–61 relating to the issuance of waivers and may redelegate those functions; in par. (6), that the United States Trade Representative is authorized to perform the functions specified in section 3A(b)(3)(A) of Pub. L. 108–61; and, in pars. (7) to (9), that the Secretary of State is authorized to perform the functions specified in sections 3(b) and 3A(b)(3)(B) of Pub. L. 108–61, as well as the functions in section 3A(g) of that Act, in consultation with the United States Trade Representative.\]
+\[Proc. No. 8294, Sept. 26, 2008, 73 F.R. 57223, provided: in par. (2), that beginning on Sept. 27, 2008, importation of Burmese covered articles into the United States is prohibited, subject to certain exceptions; in par. (3), that beginning on Sept. 27, 2008, importation of non-Burmese covered articles into the United States is subject to certain conditions, with certain exceptions; in par. (4), that the Secretary of the Treasury and the Secretary of Homeland Security are authorized to issue regulations, licenses, and orders and to conduct necessary investigations to implement the prohibition on Burmese covered articles and the conditions for importation of non-Burmese covered articles set forth in section 3A(b), (c) of Pub. L. 108–61, set out above, and also to redelegate those functions as necessary; in par. (5), that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to perform the functions set forth in section 3A(c)(2)(A) of Pub. L. 108–61 relating to the issuance of waivers and may redelegate those functions; in par. (6), that the United States Trade Representative is authorized to perform the functions specified in section 3A(b)(3)(A) of Pub. L. 108–61; and, in pars. (7) to (9), that the Secretary of State is authorized to perform the functions specified in sections 3(b) and 3A(b)(3)(B) of Pub. L. 108–61, as well as the functions in section 3A(g) of that Act, in consultation with the United States Trade Representative.\]
 
 \[Certain powers of President under sections 3(a) and 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury and functions and authorities of President under section 3(b) of Pub. L. 108–61 delegated to Secretary of State by section 9 of Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44854, listed in a table below.\]
 
@@ -2468,7 +2470,7 @@ Government of sudan.—The term 'Government of Sudan' means the National Congres
 
 &emsp;"(2) Since seizing power through a military coup in 1989, the Government of Sudan repeatedly has attacked and dislocated civilian populations in southern Sudan in a coordinated policy of ethnic cleansing and genocide that has cost the lives of more than 2,000,000 people and displaced more than 4,000,000 people.
 
-&emsp;"(3) In response to two decades of civil conflict in Sudan, the United States has helped to establish aninternationally supported peace process to promote a negotiated settlement to the war that has resulted in a framework peace agreement, the Nairobi Declaration on the Final Phase of Peace in the Sudan, signed on June 5, 2004.
+&emsp;"(3) In response to two decades of civil conflict in Sudan, the United States has helped to establish an internationally supported peace process to promote a negotiated settlement to the war that has resulted in a framework peace agreement, the Nairobi Declaration on the Final Phase of Peace in the Sudan, signed on June 5, 2004.
 
 &emsp;"(4) At the same time that the Government of Sudan was negotiating for a comprehensive and all inclusive peace agreement, enumerated in the Nairobi Declaration on the Final Phase of Peace in the Sudan, it refused to engage in any meaningful discussion with regard to its ongoing campaign of ethnic cleansing and genocide in the Darfur region of western Sudan.
 
@@ -2526,7 +2528,7 @@ Actions To Address the Conflict.—It is the sense of Congress that—
 
 &emsp;&emsp;"(A) condemn any failure on the part of the Government of Sudan to fulfill its obligations under United Nations Security Council Resolutions 1556 (July 30, 2004) and 1564 (September 18, 2004), and press the United Nations Security Council to respond to such failure by immediately imposing the penalties suggested in paragraph (14) of United Nations Security Council Resolution 1564;
 
-&emsp;&emsp;"(B) press the United Nations Security Council to pursue accountability for those individuals who are found responsible for orchestrating and carrying out the atrocities in the Darfur region, consistentwith relevant United Nations Security Council Resolutions; and
+&emsp;&emsp;"(B) press the United Nations Security Council to pursue accountability for those individuals who are found responsible for orchestrating and carrying out the atrocities in the Darfur region, consistent with relevant United Nations Security Council Resolutions; and
 
 &emsp;&emsp;"(C) encourage member states of the United Nations to—
 
@@ -2593,6 +2595,8 @@ Determination.—Notwithstanding subsection (a) of this section, the President s
 "\[Amended section 288f–2 of Title 22, Foreign Relations and Intercourse.\]"
 
 \[For assignment of functions of President under subsec. (c) and the last sentence of subsec. (d) of section 6 of Pub. L. 108–497, set out above, see section 4(c), (d) of Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61370, listed in a table below.\]
+
+\[Effective July 12, 2017, and subject to certain conditions, functions of President under section 6(c)(1) of Pub. L. 108–497, set out above, assigned to Secretary of the Treasury and under section 6(c)(2) and the last sentence of section 6(d) of Pub. L. 108–497, set out above, assigned to Secretary of State, except that function of denial of entry assigned to Secretary of Homeland Security, by sections 4, 5, and 12(b) of Ex. Ord. No. 13761, Jan. 13, 2017, 82 F.R. 5331, 5333, set out below.\]
 
 Pub. L. 107–245, Oct. 21, 2002, 116 Stat. 1504, as amended by Pub. L. 108–497, §5, Dec. 23, 2004, 118 Stat. 4016; Pub. L. 109–344, §9, Oct. 13, 2006, 120 Stat. 1880, provided that:
 
@@ -2960,7 +2964,7 @@ Reports.—The President shall, at the times specified in subsection (b), submit
 
 &emsp;&emsp;"(E) the Wassenaar Arrangement list of Dual Use Goods and Technologies and Munitions list of July 12, 1996, and subsequent revisions; or
 
-&emsp;"(2) goods, services, or technology not listed on any list identified in paragraph (1) but which nevertheless would be, if they were United States goods, services, or technology, prohibited for export to Iran, North Korea, or Syria, as the case may be, because of their potential to make a material contribution to the development of nuclear, biological, or chemical weapons, or of ballistic or cruise missile systems.
+&emsp;"(2) goods, services, or technology not listed on any list identified in paragraph (1) but which neverthelesswould be, if they were United States goods, services, or technology, prohibited for export to Iran, North Korea, or Syria, as the case may be, because of their potential to make a material contribution to the development of nuclear, biological, or chemical weapons, or of ballistic or cruise missile systems.
 
 "(b)
 
@@ -3140,7 +3144,7 @@ Report on Certain Payments Related to International Space Station.—
 
 &emsp;"(1)
 
-In general.—The President shall, together with each report submitted under section 2(a), submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives a report that identifies each Russian entity or person to whom the United States Government has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22,2005\], made a payment in cash or in kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
+In general.—The President shall, together with each report submitted under section 2(a), submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives a report that identifies each Russian entity or person to whom the United States Government has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22, 2005\], made a payment in cash or in kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
 
 &emsp;"(2)
 
@@ -3226,7 +3230,7 @@ Presidential Authority.—
 
 &emsp;"(1)
 
-In general.—The President may exercise IEEPA authorities (other than authorities relating toimportation) without regard to section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) in the case of any commercial activity in the United States by a person that is on the list published under subsection (b).
+In general.—The President may exercise IEEPA authorities (other than authorities relating to importation) without regard to section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) in the case of any commercial activity in the United States by a person that is on the list published under subsection (b).
 
 &emsp;"(2)
 
@@ -3328,7 +3332,7 @@ Reports to Congress.—The President shall report to the appropriate congression
 
 &emsp;"(1) the countries that have agreed to undertake measures to further the objectives of section 3 with respect to Iran, and a description of those measures; and
 
-&emsp;"(2) the countries that have not agreed to measures described in paragraph (1), and, with respect to those countries, other measures the President recommendsthat the United States take to further the objectives of section 3 with respect to Iran.
+&emsp;"(2) the countries that have not agreed to measures described in paragraph (1), and, with respect to those countries, other measures the President recommends that the United States take to further the objectives of section 3 with respect to Iran.
 
 "(c)
 
@@ -3630,7 +3634,7 @@ Joint ventures relating to the mining, production, or transportation of uranium.
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B) or subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly participated, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], in a joint venture that involves any activity relating to the mining, production, or transportation of uranium—
+In general.—Except as provided in subparagraph (B) or subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly participated, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], in a joint venture that involvesany activity relating to the mining, production, or transportation of uranium—
 
 &emsp;&emsp;&emsp;"(i)(I) established on or after February 2, 2012; and
 
@@ -3846,11 +3850,11 @@ Remedies.—
 
 &emsp;&emsp;"(A)
 
-In general.—If the head of an executive agency determines that a person has submitted a false certification under paragraph (1) on or after the date on which the applicable revision of the Federal Acquisition Regulation required by this subsection becomes effective, the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not less than 2 years. Any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations.
+In general.—If the head of an executive agency determines that a person has submitted afalse certification under paragraph (1) on or after the date on which the applicable revision of the Federal Acquisition Regulation required by this subsection becomes effective, the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not less than 2 years. Any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations.
 
 &emsp;&emsp;"(B)
 
-Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—The Administrator of General Services shall include on the List of Parties Excluded fromFederal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (A).
+Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (A).
 
 &emsp;"(3)
 
@@ -3950,11 +3954,11 @@ Authority.—
 
 &emsp;&emsp;"(A)
 
-Sanctions relating to the energy sector of iran.—The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in section 5(a) to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is essential to the national security interests of the United States to exercise such waiver authority.
+Sanctions relating to the energy sector of iran.—The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in section 5(a) to impose asanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is essential to the national security interests of the United States to exercise such waiver authority.
 
 &emsp;&emsp;"(B)
 
-Sanctions relating to development of weapons of mass destruction or other military capabilities.—The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in paragraph (1) or (2) of section 5(b) to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctionsunder subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is vital to the national security interests of the United States to exercise such waiver authority.
+Sanctions relating to development of weapons of mass destruction or other military capabilities.—The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in paragraph (1) or (2) of section 5(b) to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is vital to the national security interests of the United States to exercise such waiver authority.
 
 &emsp;&emsp;"(C)
 
@@ -4062,7 +4066,7 @@ Act of international terrorism.—The term 'act of international terrorism' mean
 
 &emsp;"(2)
 
-Appropriate congressional committees.—The term 'appropriate congressional committees' meansthe Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, and the Committee on Foreign Affairs of the House of Representatives.
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, and the Committee on Foreign Affairs of the House of Representatives.
 
 &emsp;"(3)
 
@@ -4280,13 +4284,13 @@ Reporting requirement.—Not later than 30 days before the date that is 1 year a
 
 &emsp;&emsp;\["(ii)
 
-Certification.—If the President submits to the appropriate congressional committees, with the report required by clause (i), a certification that there was a substantial reduction in activities described in paragraphs (2) and (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, during the period described in clause (i)(III), the effective date provided for in subparagraph (A) shall be delayed for a 180-day period beginning after the date provided for in that subparagraph.
+Certification.—If the President submits to the appropriate congressional committees, with the report required by clause (i), a certification that there was a substantial reduction in activities described in paragraphs (2) and (3) of section 5(a) ofthe Iran Sanctions Act of 1996, as amended by subsection (a) of this section, during the period described in clause (i)(III), the effective date provided for in subparagraph (A) shall be delayed for a 180-day period beginning after the date provided for in that subparagraph.
 
 &emsp;&emsp;\["(iii)
 
 Subsequent reports and delays.—The effective date provided for in subparagraph (A) shall be delayed for additional 180-day periods occurring after the end of the 180-day period provided for under clause (ii), if, not later than 30 days before the 180-day period preceding such additional 180-day period expires, the President submits to the appropriate congressional committees—
 
-&emsp;&emsp;&emsp;\["(I) a report containing the matters required in the report under clause (i) for the period beginning on the date on which the preceding reportwas required to be submitted under clause (i) or this clause (as the case may be) and ending on the date on which the President is required to submit the most recent report under this clause; and
+&emsp;&emsp;&emsp;\["(I) a report containing the matters required in the report under clause (i) for the period beginning on the date on which the preceding report was required to be submitted under clause (i) or this clause (as the case may be) and ending on the date on which the President is required to submit the most recent report under this clause; and
 
 &emsp;&emsp;&emsp;\["(II) a certification that, during the period described in subclause (I), there was (as compared to the period for which the preceding report was submitted under this subparagraph) a progressive reduction in activities described in paragraphs (2) and (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section.
 
@@ -4458,7 +4462,7 @@ International Financial Institutions.—The Secretary of the Treasury shall inst
 
 "(d)
 
-Exception.—Notwithstanding any other provision of law, the President is authorized and encouraged to exempt from sanctions imposed against Serbia andMontenegro that are described in subsection (a) those United States-supported programs, projects, or activities that involve reform of the electoral process, the development of democratic institutions or democratic political parties, or humanitarian assistance (including refugee care and human rights observation).
+Exception.—Notwithstanding any other provision of law, the President is authorized and encouraged to exempt from sanctions imposed against Serbia and Montenegro that are described in subsection (a) those United States-supported programs, projects, or activities that involve reform of the electoral process, the development of democratic institutions or democratic political parties, or humanitarian assistance (including refugee care and human rights observation).
 
 "(e)
 
@@ -4548,7 +4552,7 @@ Multilateral development bank assistance.—The Secretary of the Treasury shall 
 
 &emsp;"(3)
 
-Suspension of codevelopment or coproduction agreements.—The United States shall suspend, for a period of one year, compliance with its obligations under any memorandum of understanding with the sanctioned country for the codevelopment or coproduction of any item on the United States Munitions List (established under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]), including any obligation for implementation of the memorandum of understanding through the sale to the sanctioned country of technical data or assistance or the licensing for export to the sanctioned country of any component part.
+Suspension of codevelopment or coproduction agreements.—The United States shall suspend, for a period of one year, compliance with its obligations under any memorandum of understanding with the sanctioned country for the codevelopment or coproduction of any item on the United States Munitions List (established under section 38 of the ArmsExport Control Act \[22 U.S.C. 2778\]), including any obligation for implementation of the memorandum of understanding through the sale to the sanctioned country of technical data or assistance or the licensing for export to the sanctioned country of any component part.
 
 &emsp;"(4)
 
@@ -4556,7 +4560,7 @@ Suspension of military and dual-use technical exchange agreements.—The United 
 
 &emsp;"(5)
 
-United states munitions list.—No item on the United States Munitions List (established pursuantto section 38 of the Arms Export Control Act) may be exported to the sanctioned country for a period of one year.
+United states munitions list.—No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act) may be exported to the sanctioned country for a period of one year.
 
 "(c)
 
@@ -4738,7 +4742,7 @@ Iraq's Violations of International Law.—The Congress determines that—
 
 &emsp;"(1) the Government of Iraq has demonstrated repeated and blatant disregard for its obligations under international law by violating the Charter of the United Nations, the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare (done at Geneva, June 17, 1925), as well as other international treaties;
 
-&emsp;"(2) the Government of Iraq is a party to the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social, and Cultural Rights and is obligated under the Covenants, as well as the Universal Declaration of Human Rights, to respect internationally recognized human rights;
+&emsp;"(2) the Government of Iraq is a party to the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social, andCultural Rights and is obligated under the Covenants, as well as the Universal Declaration of Human Rights, to respect internationally recognized human rights;
 
 &emsp;"(3) the State Department's Country Reports on Human Rights Practices for 1989 again characterizes Iraq's human rights record as 'abysmal';
 
@@ -4924,13 +4928,13 @@ Study and Report on the International Export to Iraq of Nuclear, Biological, Che
 
 Study and Report on Iraq's Offensive Military Capability.—(1) The President shall conduct a study on Iraq's offensive military capability and its effect on the Middle East balance of power including an assessment of Iraq's power projection capability, the prospects for another sustained conflict with Iran, joint Iraqi-Jordanian military cooperation, the threat Iraq's arms transfer activities pose to United States allies in the Middle East, and the extension of Iraq's political-military influence into Africa and Latin America.
 
-"(2) Not later than March 30, 1991, the President shall submit to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives, a report, in both classified and unclassified form, setting forth the findings of the study required by paragraph (1).
+"(2) Not later than March 30, 1991, the President shall submit to the Committee on Appropriations and theCommittee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives, a report, in both classified and unclassified form, setting forth the findings of the study required by paragraph (1).
 
 "(c)
 
 Report on Sanctions Taken by Other Nations Against Iraq.—(1) The President shall prepare a report on the steps taken by other nations, both before and after the August 2, 1990, invasion of Kuwait, to curtail the export of goods, services, and technologies to Iraq which might contribute to, or enhance, Iraq's nuclear, biological, chemical, and ballistic missile capability.
 
-"(2) The President shall provide a complete accounting of international compliance with each of the sanctions resolutions adopted by the United Nations Security Council against Iraq since August 2, 1990, and shall list, by name, each country which to his knowledge,has provided any assistance to Iraq and the amount and type of that assistance in violation of each United Nations resolution.
+"(2) The President shall provide a complete accounting of international compliance with each of the sanctions resolutions adopted by the United Nations Security Council against Iraq since August 2, 1990, and shall list, by name, each country which to his knowledge, has provided any assistance to Iraq and the amount and type of that assistance in violation of each United Nations resolution.
 
 "(3) The President shall make every effort to encourage other nations, in whatever forum or context, to adopt sanctions toward Iraq similar to those contained in this section.
 
@@ -4998,6 +5002,40 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Pub. L. 99–93, title V, Aug. 16, 1985, 99 Stat. 437, provided for the determination of the validity and amounts of claims by United States nationals against Iran which were settled en bloc by the United States.
 
+#### Ex. Ord. No. 13761. Recognizing Positive Actions by the Government of Sudan and Providing for the Revocation of Certain Sudan-Related Sanctions
+
+Ex. Ord. No. 13761, Jan. 13, 2017, 82 F.R. 5331, as amended by Ex. Ord. No. 13804, §1, July 11, 2017, 82 F.R. 32611, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), the Trade Sanctions Reform and Export Enhancement Act of 2000 (22 U.S.C. 7201–7211) (TSRA), the Comprehensive Peace in Sudan Act of 2004, as amended (Public Law 108–497) (CPSA), the Darfur Peace and Accountability Act of 2006 (Public Law 109–344) (DPAA), and section 301 of title 3, United States Code,
+
+I, BARACK OBAMA, President of the United States of America, find that the situation that gave rise to the actions taken in Executive Order 13067 of November 3, 1997, and Executive Order 13412 of October 13, 2006, related to the policies and actions of the Government of Sudan has been altered by Sudan's positive actions over the past 6 months. These actions include a marked reduction in offensive military activity, culminating in a pledge to maintain a cessation of hostilities in conflict areas in Sudan, and steps toward the improvement of humanitarian access throughout Sudan, as well as cooperation with the United States on addressing regional conflicts and the threat of terrorism. Given these developments, and in order to see these efforts sustained and enhanced by the Government of Sudan, I hereby order:
+
+Section 1. Effective October 12, 2017 and provided the criteria in section 12(b) of this order are met, sections 1 and 2 of Executive Order 13067 of November 3, 1997 \[listed in a table below\], are revoked, and Executive Order 13412 of October 13, 2006 \[listed in a table below\], is revoked in its entirety. The revocation of those provisions of Executive Order 13067 and of Executive Order 13412 shall not affect any violation of any rules, regulations, orders, licenses, or other forms of administrative action under those orders during the period that those provisions were in effect.
+
+Sec. 2. Pursuant to section 908(a)(3) of TSRA, I hereby determine that it is in the national security interest of the United States to waive, and hereby waive, the application of section 908(a)(1) of TSRA with respect to Sudan.
+
+Sec. 3. Pursuant to section 6(d) of CPSA, I hereby determine and certify that it is in the national interest of the United States to waive, and hereby waive, the application of sections 6(a) and (b) of CPSA.
+
+Sec. 4. The function of the President under section 6(c)(1) of CPSA is assigned to the Secretary of the Treasury.
+
+Sec. 5. The functions of the President under section 6(c)(2) and the last sentence of section 6(d) of CPSA are assigned to the Secretary of State, except that the function of denial of entry is assigned to the Secretary of Homeland Security.
+
+Sec. 6. The function of the President under section 8 of DPAA is assigned to the Secretary of State.
+
+Sec. 7. The Secretary of the Treasury and the Secretary of Commerce are authorized to issue regulations, licenses, and orders, and conduct such investigations as may be necessary, to implement the provisions of section 906 of TSRA.
+
+Sec. 8. This order is not intended to, and does not, otherwise affect the national emergency declared in Executive Order 13067 of November 3, 1997, as expanded in scope by Executive Order 13400 of April 26, 2006, which shall remain in place.
+
+Sec. 9. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 10. On or before October 12, 2017, the Secretary of State, in consultation with the Secretary of the Treasury, the Director of National Intelligence, and the Administrator of the U.S. Agency for International Development, and based on a consideration of relevant and credible information from available sources, including nongovernmental organizations, shall provide to the President a report on whether the Government of Sudan has sustained the positive actions that gave rise to this order, including carrying out its pledge to maintain a cessation of hostilities in conflict areas in Sudan; continued improvement of humanitarian access throughout Sudan; and maintaining its cooperation with the United States on addressing regional conflicts and the threat of terrorism. As much of the report as possible, consistent with sources and methods, shall be unclassified and made public.
+
+Sec. 11. \[Revoked by Ex. Ord. No. 13804, §1(d), July 11, 2017, 82 F.R. 32611.\]
+
+Sec. 12. (a) This order is effective on January 13, 2017, except for sections 1, 4, 5, 6, and 7 of this order;
+
+(b) Sections 1, 4, 5, 6, and 7 of this order are effective on October 12, 2017, provided that the Secretary of State, in consultation with the Secretary of the Treasury, the Director of National Intelligence, and the Administrator of the U.S. Agency for International Development, has published a notice in the Federal Register on or before that date, stating that the Government of Sudan has sustained the positive actions that gave rise to this order and that the Secretary of State has provided to the President the report described in section 10 of this order.
+
 #### EXECUTIVE DOCUMENTS DECLARING NATIONAL EMERGENCIES
 
 Provisions relating to the exercise of Presidential authorities to declare national emergencies for unusual and extraordinary threats with respect to the actions of certain persons and countries are contained in the following:
@@ -5050,6 +5088,8 @@ Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 13, 2017, 82 F.R. 27605.
+
 &emsp;Notice of President of the United States, dated June 10, 2016, 81 F.R. 38879.
 
 &emsp;Notice of President of the United States, dated June 10, 2015, 80 F.R. 34021.
@@ -5072,7 +5112,7 @@ Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 
 #### Burma
 
-Ex. Ord. No. 13047, May 20, 1997, 62 F.R. 28301, sections 1 to 7 of which were revoked by Ex. Ord. No. 13310, §12, July 28, 2003, 68 F.R. 44855, to the extent inconsistent with Ex. Ord. No. 13310; revoked in full by Ex. Ord. No. 13742, Oct. 7, 2016, 81 F.R. 70593.
+Ex. Ord. No. 13047, May 20, 1997, 62 F.R. 28301, sections 1 to 7 of which were revoked by Ex. Ord. No. 13310, §12,July 28, 2003, 68 F.R. 44855, to the extent inconsistent with Ex. Ord. No. 13310; revoked in full by Ex. Ord. No. 13742, Oct. 7, 2016, 81 F.R. 70593.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
 
@@ -5130,7 +5170,9 @@ Ex. Ord. No. 13742, Oct. 7, 2016, 81 F.R. 70593.
 
 Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13712 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13712 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 6, 2017, 82 F.R. 51967.
 
 &emsp;Notice of President of the United States, dated Nov. 9, 2016, 81 F.R. 79989.
 
@@ -5139,6 +5181,8 @@ Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633.
 Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13667 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 9, 2017, 82 F.R. 21911.
 
 &emsp;Notice of President of the United States, dated May 9, 2016, 81 F.R. 29469.
 
@@ -5149,6 +5193,8 @@ Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 13286, §22, Feb. 28, 2003, 68 F.R. 10624.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 16, 2017, 82 F.R. 48607.
 
 &emsp;Notice of President of the United States, dated Oct. 18, 2016, 81 F.R. 72679.
 
@@ -5226,6 +5272,8 @@ Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 1309
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6165.
+
 &emsp;Notice of President of the United States, dated Jan. 20, 2016, 81 F.R. 3937.
 
 &emsp;Notice of President of the United States, dated Jan. 21, 2015, 80 F.R. 3461.
@@ -5271,6 +5319,8 @@ Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 1309
 Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, as amended by Ex. Ord. No. 13268, §1, July 2, 2002, 67 F.R. 44751; Ex. Ord. No. 13284, §4, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13372, §1, Feb. 16, 2005, 70 F.R. 8499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
+
+Notice of President of the United States, dated Sept. 18, 2017, 82 F.R. 43825.
 
 &emsp;Notice of President of the United States, dated Sept. 15, 2016, 81 F.R. 64343.
 
@@ -5323,6 +5373,8 @@ Ex. Ord. No. 12930, Sept. 29, 1994, 59 F.R. 50475, revoked by Ex. Ord. No. 12938
 Ex. Ord. No. 12938, Nov. 14, 1994, 59 F.R. 59099, as amended by Ex. Ord. No. 13094, §1, July 28, 1998, 63 F.R. 40803; Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34704; Ex. Ord. No. 13382, §4, June 28, 2005, 70 F.R. 38568.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 6, 2017, 82 F.R. 51971.
 
 &emsp;Notice of President of the United States, dated Nov. 8, 2016, 81 F.R. 79379.
 
@@ -5416,6 +5468,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 136
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Aug. 15, 2017, 82 F.R. 39005.
+
 &emsp;Notice of President of the United States, dated Aug. 4, 2016, 81 F.R. 52587.
 
 &emsp;Notice of President of the United States, dated Aug. 7, 2015, 80 F.R. 48233.
@@ -5451,6 +5505,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 136
 Ex. Ord. No. 13413, Oct. 27, 2006, 71 F.R. 64105, as amended by Ex. Ord. No. 13671, §§1–3, July 8, 2014, 79 F.R. 39949, 39950.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13413 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 23, 2017, 82 F.R. 49275.
 
 &emsp;Notice of President of the United States, dated Oct. 21, 2016, 81 F.R. 74277.
 
@@ -5507,6 +5563,8 @@ Ex. Ord. No. 12932, Oct. 14, 1994, 59 F.R. 52403.
 Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 6, 2017, 82 F.R. 51969.
 
 &emsp;Notice of President of the United States, dated Nov. 3, 2016, 81 F.R. 78495.
 
@@ -5607,6 +5665,8 @@ Ex. Ord. No. 12613, Oct. 29, 1987, 52 F.R. 41940, revoked by Ex. Ord. No. 13059,
 Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were revoked by Ex. Ord. No. 12959, §5, May 6, 1995, 60 F.R. 24758, to the extent inconsistent with Ex. Ord. No. 12959.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6187.
 
 &emsp;Notice of President of the United States, dated Mar. 9, 2016, 81 F.R. 12793.
 
@@ -5712,6 +5772,8 @@ Ex. Ord. No. 13303, May 22, 2003, 68 F.R. 31931, as amended by Ex. Ord. No. 1336
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 16, 2017, 82 F.R. 22877.
+
 &emsp;Notice of President of the United States, dated May 18, 2016, 81 F.R. 32219.
 
 &emsp;Notice of President of the United States, dated May 19, 2015, 80 F.R. 29527.
@@ -5761,6 +5823,8 @@ Ex. Ord. No. 12771, July 25, 1991, 56 F.R. 35993.
 Ex. Ord. No. 13441, Aug. 1, 2007, 72 F.R. 43499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13441 were contained in the following:
+
+&emsp;Notice of President of the United States, dated July 28, 2017, 82 F.R. 35621.
 
 &emsp;Notice of President of the United States, dated July 27, 2016, 81 F.R. 50281.
 
@@ -5866,6 +5930,8 @@ Ex. Ord. No. 13566, Feb. 25, 2011, 76 F.R. 11315.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6189.
+
 &emsp;Notice of President of the United States, dated Feb. 22, 2016, 81 F.R. 9329.
 
 &emsp;Notice of President of the United States, dated Feb. 23, 2015, 80 F.R. 9983.
@@ -5900,6 +5966,8 @@ Ex. Ord. No. 13466, June 26, 2008, 73 F.R. 36787.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13466 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 21, 2017, 82 F.R. 28743.
+
 &emsp;Notice of President of the United States, dated June 21, 2016, 81 F.R. 40775.
 
 &emsp;Notice of President of the United States, dated June 22, 2015, 80 F.R. 36461.
@@ -5924,6 +5992,8 @@ Ex. Ord. No. 13687, Jan. 2, 2015, 80 F.R. 819.
 
 Ex. Ord. No. 13722, Mar. 15, 2016, 81 F.R. 14943.
 
+Ex. Ord. No. 13810, Sept. 20, 2017, 82 F.R. 44705.
+
 #### Panama
 
 Ex. Ord. No. 12635, Apr. 8, 1988, 53 F.R. 12134, revoked by Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
@@ -5938,9 +6008,15 @@ Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
 
 Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, as amended by Ex. Ord. No. 13757, §§1–3, Dec. 28, 2016, 82 F.R. 1, 2.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13694 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13694 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Mar. 29, 2017, 82 F.R. 16099.
 
 &emsp;Notice of President of the United States, dated Mar. 29, 2016, 81 F.R. 18737.
+
+#### Persons Involved in Serious Human Rights Abuse or Corruption
+
+Ex. Ord. No. 13818, Dec. 20, 2017, 82 F.R. 60839.
 
 #### Russia
 
@@ -6002,6 +6078,8 @@ Ex. Ord. No. 13536, Apr. 12, 2010, 75 F.R. 19869, as amended by Ex. Ord. No. 136
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Apr. 6, 2017, 82 F.R. 17095.
+
 &emsp;Notice of President of the United States, dated Apr. 4, 2016, 81 F.R. 20217.
 
 &emsp;Notice of President of the United States, dated Apr. 8, 2015, 80 F.R. 19193.
@@ -6030,15 +6108,19 @@ Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13664 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 22, 2017, 82 F.R. 15107.
+
 &emsp;Notice of President of the United States, dated Mar. 30, 2016, 81 F.R. 19019.
 
 &emsp;Notice of President of the United States, dated Mar. 31, 2015, 80 F.R. 18081.
 
 #### Sudan
 
-Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989.
+Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989, as amended by Ex. Ord. No. 13761, §1, Jan. 13, 2017, 82 F.R. 5331.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13067 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 31, 2017, 82 F.R. 50799.
 
 &emsp;Notice of President of the United States, dated Oct. 31, 2016, 81 F.R. 76491.
 
@@ -6080,13 +6162,15 @@ Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989.
 
 Ex. Ord. No. 13400, Apr. 26, 2006, 71 F.R. 25483.
 
-Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61369.
+Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61369, revoked by Ex. Ord. No. 13761, §1, Jan. 13, 2017, 82 F.R. 5331.
 
 #### Syria
 
 Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, as amended by Ex. Ord. No. 13460, §2, Feb. 13, 2008, 73 F.R. 8991.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 9, 2017, 82 F.R. 21909.
 
 &emsp;Notice of President of the United States, dated May 3, 2016, 81 F.R. 27293.
 
@@ -6132,6 +6216,10 @@ Ex. Ord. No. 13581, July 24, 2011, 76 F.R. 44757.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13581 were contained in the following:
 
+&emsp;Notice of President of the United States, dated July 20, 2017, 82 F.R. 34249.
+
+&emsp;Notice of President of the United States, dated July 19, 2017, 82 F.R. 33773, withdrawn by Notice of President of the United States, dated July 20, 2017, 82 F.R. 34249.
+
 &emsp;Notice of President of the United States, dated July 20, 2016, 81 F.R. 48313.
 
 &emsp;Notice of President of the United States, dated July 21, 2015, 80 F.R. 43907.
@@ -6148,6 +6236,8 @@ Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13660 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6191.
+
 &emsp;Notice of President of the United States, dated Mar. 2, 2016, 81 F.R. 11655.
 
 &emsp;Notice of President of the United States, dated Mar. 3, 2015, 80 F.R. 12067.
@@ -6162,9 +6252,13 @@ Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
 
 Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13692 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13692 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6193.
 
 &emsp;Notice of President of the United States, dated Mar. 3, 2016, 81 F.R. 11999.
+
+Ex. Ord. No. 13808, Aug. 24, 2017, 82 F.R. 41155.
 
 #### Western Balkans
 
@@ -6218,6 +6312,8 @@ Ex. Ord. No. 13219, June 26, 2001, 66 F.R. 34777, as amended by Ex. Ord. No. 133
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13219 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 21, 2017, 82 F.R. 28745.
+
 &emsp;Notice of President of the United States, dated June 21, 2016, 81 F.R. 40777.
 
 &emsp;Notice of President of the United States, dated June 22, 2015, 80 F.R. 36463.
@@ -6256,6 +6352,8 @@ Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13611 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 8, 2017, 82 F.R. 21905.
+
 &emsp;Notice of President of the United States, dated May 12, 2016, 81 F.R. 30155.
 
 &emsp;Notice of President of the United States, dated May 13, 2015, 80 F.R. 27851.
@@ -6269,6 +6367,8 @@ Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Jan. 13, 2017, 82 F.R. 6195.
 
 &emsp;Notice of President of the United States, dated Mar. 2, 2016, 81 F.R. 11657.
 

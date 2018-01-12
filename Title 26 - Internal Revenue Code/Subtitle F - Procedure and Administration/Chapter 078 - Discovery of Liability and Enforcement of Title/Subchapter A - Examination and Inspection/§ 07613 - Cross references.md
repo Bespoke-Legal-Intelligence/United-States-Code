@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1904(b)(7)(D), (9)(E), struck out pars. (1) and (2) relating to cross referencesto wholesale dealers in oleomargarine and wholesale dealers in process or renovated butter or adulterated butter, respectively, and redesignated pars. (5) and (6) as (1) and (2), respectively.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1904(b)(7)(D), (9)(E), struck out pars. (1) and (2) relating to cross references to wholesale dealers in oleomargarine and wholesale dealers in process or renovated butter or adulterated butter, respectively, and redesignated pars. (5) and (6) as (1) and (2), respectively.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out pars. (3) and (4) which related to opium, opiates, and coca leaves and to marihuana, respectively, and which made reference to sections 4702(a), 4705, 4721, and 4773, and to sections 4742, 4753(b), and 4773, respectively.
 

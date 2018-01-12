@@ -10,7 +10,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;(1) United States representatives to the Fund shall recommend and shall work for changes in Fund guidelines, policies, and decisions that would—
 
-&emsp;&emsp;(A) permit stand-by arrangements to be extended beyond three years, as necessary toenable Fund members to implement their economic adjustment programs successfully;
+&emsp;&emsp;(A) permit stand-by arrangements to be extended beyond three years, as necessary to enable Fund members to implement their economic adjustment programs successfully;
 
 &emsp;&emsp;(B) provide that in approving any economic adjustment program the Fund shall take into account the effect such program will have on jobs, investment, real per capita income, the gap in wealth between the rich and poor, and social programs such as health, housing, and education, in order to seek to minimize the adverse impact of those adjustment programs on basic human needs; and
 

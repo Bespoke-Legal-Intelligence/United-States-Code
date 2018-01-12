@@ -72,7 +72,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 #### (B) Designation by chief executive officer
 
-&emsp;&emsp;In States in which the Governor does not have veto power pursuant to State law, theappointing authority described in paragraph (1) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
+&emsp;&emsp;In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (1) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
 
 #### (6) Terms of appointment
 

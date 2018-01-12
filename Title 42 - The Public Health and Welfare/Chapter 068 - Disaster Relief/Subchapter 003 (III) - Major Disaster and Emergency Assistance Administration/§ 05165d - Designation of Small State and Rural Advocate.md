@@ -30,5 +30,5 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Construction
 
-Pub. L. 109–295, title VI, §689g(c), Oct. 4, 2006, 120 Stat. 1453, provided that: "Nothing in this section \[enactingthis section\] or the amendments made by this section shall be construed to authorize major disaster or emergency assistance that is not authorized as of the date of enactment of this Act \[Oct. 4, 2006\]."
+Pub. L. 109–295, title VI, §689g(c), Oct. 4, 2006, 120 Stat. 1453, provided that: "Nothing in this section \[enacting this section\] or the amendments made by this section shall be construed to authorize major disaster or emergency assistance that is not authorized as of the date of enactment of this Act \[Oct. 4, 2006\]."
 

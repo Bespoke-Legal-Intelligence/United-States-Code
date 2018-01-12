@@ -14,7 +14,7 @@ The Secretary, acting through the National Institute of Food and Agriculture and
 
 &emsp;The activities referred to in paragraph (1) shall include—
 
-&emsp;&emsp;(A) demonstrating and teaching landowners and forest managers the concepts ofmultiple-use and sustainable natural resource management;
+&emsp;&emsp;(A) demonstrating and teaching landowners and forest managers the concepts of multiple-use and sustainable natural resource management;
 
 &emsp;&emsp;(B) conducting comprehensive environmental education programs that assist citizens to participate in environmentally positive activities such as tree planting, recycling, erosion prevention, and waste management; and
 

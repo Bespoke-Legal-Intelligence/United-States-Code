@@ -14,7 +14,7 @@
 
 (3) No claim for any Postal Savings System deposit may be brought more than one year from the date of the enactment of the Postal Savings System Statute of Limitations Act.
 
-(4) The United States Postal Service shall assist the Secretary of the Treasury in providing public notice of the time limitation set forth in paragraph (3) of this subsection by posting notices thereof in all post offices as soon as practicable after the date of the enactment of the Postal Savings System Statute of Limitations Act.
+(4) The United States Postal Service shall assist the Secretary of the Treasury in providing public notice of the time limitation set forth inparagraph (3) of this subsection by posting notices thereof in all post offices as soon as practicable after the date of the enactment of the Postal Savings System Statute of Limitations Act.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 922; Pub. L. 98–359, §2, July 13, 1984, 98 Stat. 402.)
 

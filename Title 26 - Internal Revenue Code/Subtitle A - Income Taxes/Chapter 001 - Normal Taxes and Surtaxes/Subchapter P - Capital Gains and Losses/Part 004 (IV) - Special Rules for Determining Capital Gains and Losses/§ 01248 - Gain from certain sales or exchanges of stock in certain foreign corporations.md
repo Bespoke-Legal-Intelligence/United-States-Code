@@ -12,7 +12,7 @@ If—
 
 #### (b) Limitation on tax applicable to individuals
 
-In the case of an individual, if the stock sold or exchanged is a capital asset (within the meaning of section 1221) and has been held for more than 1 year, the tax attributable to an amount included in gross income as a dividend under subsection (a) shall not be greater than a tax equal to the sum of—
+In the case of an individual, if the stock sold or exchanged is a capital asset (within the meaning of section 1221) and has been held for more than 1 year, the tax attributable to anamount included in gross income as a dividend under subsection (a) shall not be greater than a tax equal to the sum of—
 
 &emsp;(1) a pro rata share of the excess of—
 
@@ -68,7 +68,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 &emsp;&emsp;(B) for any taxable year beginning after December 31, 1966, as income effectively connected with the conduct by such corporation of a trade or business within the United States.
 
-> &emsp;This paragraph shall not apply with respect to any item which is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
+> &emsp;This paragraph shall not apply with respect to any item which is exempt from taxation (or issubject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
 #### (5) Foreign trade income
 
@@ -142,7 +142,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (1) In general
 
-&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchangesstock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
+&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
 
 &emsp;&emsp;(A) issued to the 10-percent corporate shareholder, and
 
@@ -154,19 +154,25 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;For purposes of this subsection, the term "10-percent corporate shareholder" means any domestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
 
-#### (j) Cross reference
+#### (j) Coordination with dividends received deduction
+
+In the case of the sale or exchange by a domestic corporation of stock in a foreign corporation held for 1 year or more, any amount received by the domestic corporation which is treated as a dividend by reason of this section shall be treated as a dividend for purposes of applying section 245A.
+
+#### (k) Cross reference
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–97, title I, §14102(a)(1), Dec. 22, 2017, 131 Stat. 2192.)
 
 #### References in Text
 
-The Tax Reduction Act of 1975, referred to in subsec. (d)(3), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
+Section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975, referred to in subsec. (d)(3), means section 902(d) of this title as in effect before the amendment made by Pub. L. 94–12, title VI, §602(c)(6), Mar. 29, 1975, 89 Stat. 59. Section 902 was subsequently amended generally by Pub. L. 99–514, title XII, §1202(a), Oct. 22, 1986, 100 Stat. 2528, and repealed by Pub. L. 115–97, title I, §14301(a), Dec. 22, 2017, 131 Stat. 2221.
 
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (d)(5), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (j), (k). Pub. L. 115–97 added subsec. (j) and redesignated former subsec. (j) as (k).
 
 <b>2007</b>—Subsec. (d)(5). Pub. L. 110–172 inserted "(as defined in section 922)" after "a FSC" in introductory provisions and inserted second sentence in concluding provisions.
 
@@ -254,6 +260,10 @@ Subsec. (h). Pub. L. 94–455, §1042(c)(1), (3)(C), redesignated former subsec.
 
 <b>1966</b>—Subsec. (d)(4). Pub. L. 89–809 provided that for taxable years beginning after December 31, 1966, the earnings and profits of the foreign corporation, for purposes of this section, is not to include income effectively connected with the conduct of a trade or business within the United States, and inserted provision that the exclusion does not apply to income which is exempt from tax or subject to a reduced rate of tax pursuant to a treaty.
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §14102(a)(2), Dec. 22, 2017, 131 Stat. 2192, provided that: "The amendments made by this subsection \[amending this section\] shall apply to sales or exchanges after December 31, 2017."
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
@@ -272,7 +282,7 @@ Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distributio
 
 Pub. L. 99–514, title XVIII, §1875(g)(2), Oct. 22, 1986, 100 Stat. 2897, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986."
 
-Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided,as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

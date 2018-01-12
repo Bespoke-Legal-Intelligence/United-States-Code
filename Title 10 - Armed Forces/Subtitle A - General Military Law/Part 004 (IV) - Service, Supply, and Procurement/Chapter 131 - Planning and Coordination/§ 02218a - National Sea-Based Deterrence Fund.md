@@ -26,7 +26,7 @@ Years.—No part of an appropriation that is deposited in the Fund pursuant to s
 
 (f)
 
-Authority to Enter Into Economic Order Quantity Contracts.—(1) The Secretary of the Navy may use funds deposited in the Fund to enter into contracts known as "economic order quantity contracts" with private shipyards and other commercial or government entities to achieve economic efficiencies based on production economies for major components or subsystems. The authority under this subsection extends to the procurement of parts, components, and systems (including weapon systems) common with and required for other nuclear powered vessels under joint economic order quantity contracts.
+Authority to Enter Into Economic Order Quantity Contracts.—(1) The Secretary of the Navy may use funds deposited in the Fund to enter into contracts known as "economic orderquantity contracts" with private shipyards and other commercial or government entities to achieve economic efficiencies based on production economies for major components or subsystems. The authority under this subsection extends to the procurement of parts, components, and systems (including weapon systems) common with and required for other nuclear powered vessels under joint economic order quantity contracts.
 
 (2) A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 
@@ -40,13 +40,13 @@ Authority to Begin Manufacturing and Fabrication Efforts Prior to Ship Authoriza
 
 Authority to Use Incremental Funding to Enter Into Contracts for Certain Items.—(1) The Secretary of the Navy may use funds deposited into the Fund to enter into incrementally funded contracts for advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments.
 
-(2) A contract entered into under paragraph (1) shall provide that any obligation of the UnitedStates to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
+(2) A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 
 (i)
 
-Authority for Multiyear Procurement of Critical Components to Support Continuous Production of the Common Missile Compartment.—(1) To implement the continuous production of the common missile compartment, the Secretary of the Navy may use funds deposited in the Fund, in conjunction with funds appropriated for the procurement of other nuclear-powered vessels, to enter into one or more multiyear contracts (including economic ordering quantity contracts), for the procurement of critical contractor-furnished and Government-furnished components for the common missile compartments of national sea-based deterrence vessels. The authority under this subsection extends to the procurement of equivalent critical parts, components, systems, and subsystems common with and required for other nuclear-powered vessels.
+Authority for Multiyear Procurement of Critical Components to Support Continuous Production.—(1) To implement the continuous production of critical components, the Secretary of the Navy may use funds deposited in the Fund, in conjunction with funds appropriated for the procurement of other nuclear-powered vessels, to enter into one or more multiyear contracts (including economic ordering quantity contracts), for the procurement of critical contractor-furnished and Government-furnished components for critical components of national sea-based deterrence vessels. The authority under this subsection extends to the procurement of equivalent critical components common with and required for other nuclear-powered vessels.
 
-(2) In each annual budget request submitted to Congress, the Secretary shall clearly identify funds requested for the common missile compartment and the individual ships and programs for which such funds are requested.
+(2) In each annual budget request submitted to Congress, the Secretary shall clearly identify funds requested for critical components and the individual ships and programs for which such funds are requested.
 
 (3) Any contract entered into pursuant to paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose and that the total liability to the Government for the termination of the contract shall be limited to the total amount of funding obligated for the contract as of the date of the termination.
 
@@ -62,9 +62,51 @@ Definitions.—In this section:
 
 &emsp;(2) The term "national sea-based deterrence vessel" means any submersible vessel constructed or purchased after fiscal year 2016 that is owned, operated, or controlled by the Department of Defense and that carries operational intercontinental ballistic missiles.
 
-(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388.)
+&emsp;(3) The term "critical component" means any of the following:
+
+&emsp;&emsp;(A) A common missile compartment component.
+
+&emsp;&emsp;(B) A spherical air flask.
+
+&emsp;&emsp;(C) An air induction diesel exhaust valve.
+
+&emsp;&emsp;(D) An auxiliary seawater valve.
+
+&emsp;&emsp;(E) A hovering valve.
+
+&emsp;&emsp;(F) A missile compensation valve.
+
+&emsp;&emsp;(G) A main seawater valve.
+
+&emsp;&emsp;(H) A launch tube.
+
+&emsp;&emsp;(I) A trash disposal unit.
+
+&emsp;&emsp;(J) A logistics escape trunk.
+
+&emsp;&emsp;(K) A torpedo tube.
+
+&emsp;&emsp;(L) A weapons shipping cradle weldment.
+
+&emsp;&emsp;(M) A control surface.
+
+&emsp;&emsp;(N) A launcher component.
+
+&emsp;&emsp;(O) A propulsor.
+
+(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, §1022, Dec. 12, 2017, 131 Stat. 1548.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i). Pub. L. 115–91, §1022(c), struck out "of the Common Missile Compartment" after "Continuous Production" in heading.
+
+Subsec. (i)(1). Pub. L. 115–91, §1022(a)(2), substituted "equivalent critical components" for "equivalent critical parts, components, systems, and subsystems".
+
+Pub. L. 115–91, §1022(a)(1), which directed the substitution of "critical components" for "the common missile compartment" wherever appearing, was executed by making the substitution for "the common missile compartment" the first time appearing and for "the common missile compartments" the second time appearing, to reflect the probable intent of Congress.
+
+Subsec. (i)(2). Pub. L. 115–91, §1022(a)(1), substituted "critical components" for "the common missile compartment".
+
+Subsec. (k)(3). Pub. L. 115–91, §1022(b), added par. (3).
 
 <b>2016</b>—Subsecs. (i), (j). Pub. L. 114–328, §1023(a), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
 

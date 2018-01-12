@@ -22,7 +22,7 @@ Each participating jurisdiction shall make contributions to housing that qualifi
 
 Such contributions may be in the form of—
 
-&emsp;(1) cash contributions from non-Federal resources, which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title;
+&emsp;(1) cash contributions from non-Federal resources, which may not include funds from agrant made under section 5306(b) or section 5306(d) of this title;
 
 &emsp;(2) the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that achieves affordability of housing assisted under this subchapter;
 

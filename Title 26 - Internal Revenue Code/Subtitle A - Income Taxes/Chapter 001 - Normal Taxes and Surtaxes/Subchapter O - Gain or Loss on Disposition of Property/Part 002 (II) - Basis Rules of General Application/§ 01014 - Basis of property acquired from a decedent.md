@@ -28,7 +28,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;(6) In the case of decedents dying after December 31, 1947, property which represents the surviving spouse's one-half share of community property held by the decedent and the surviving spouse under the community property laws of any State, or possession of the United States or any foreign country, if at least one-half of the whole of the community interest in such property was includible in determining the value of the decedent's gross estate under chapter 11 of subtitle B (section 2001 and following, relating to estate tax) or section 811 of the Internal Revenue Code of 1939;
 
-&emsp;\[(7), (8) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(74), Dec. 19, 2014, 128 Stat. 4049\]
+&emsp;\[(7), (8) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(74)(B), Dec. 19, 2014, 128 Stat. 4049\]
 
 &emsp;(9) In the case of decedents dying after December 31, 1953, property acquired from the decedent by reason of death, form of ownership, or other conditions (including property acquired through the exercise or non-exercise of a power of appointment), if by reason thereof the property is required to be included in determining the value of the decedent's gross estate under chapter 11 of subtitle B or under the Internal Revenue Code of 1939. In such case, if the property is acquired before the death of the decedent, the basis shall be the amount determined under subsection (a) reduced by the amount allowed to the taxpayer as deductions in computing taxable income under this subtitle or prior income tax laws for exhaustion, wear and tear, obsolescence, amortization, and depletion on such property before the death of the decedent. Such basis shall be applicable to the property commencing on the death of the decedent. This paragraph shall not apply to—
 
@@ -70,7 +70,7 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 #### (B) Treatment of certain property sold by estate
 
-&emsp;&emsp;In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor,rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
+&emsp;&emsp;In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor, rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
 
 #### (f) Basis must be consistent with estate tax return
 
@@ -148,7 +148,7 @@ Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to t
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–41, title II, §2004(d), July 31, 2015, 129 Stat. 456, provided that: "The amendments made by this section \[enacting section 6035 of this title and amending this section and sections 6662 and 6724 of this title\] shall apply to property with respect to which an estatetax return is filed after the date of the enactment of this Act \[July 31, 2015\]."
+Pub. L. 114–41, title II, §2004(d), July 31, 2015, 129 Stat. 456, provided that: "The amendments made by this section \[enacting section 6035 of this title and amending this section and sections 6662 and 6724 of this title\] shall apply to property with respect to which an estate tax return is filed after the date of the enactment of this Act \[July 31, 2015\]."
 
 #### Effective Date of 2014 Amendment
 

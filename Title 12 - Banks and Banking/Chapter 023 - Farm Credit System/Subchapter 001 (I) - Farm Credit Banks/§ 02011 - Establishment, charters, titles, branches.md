@@ -58,7 +58,7 @@ Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by 
 
 "(a)
 
-In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
+In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
 
 "(b)
 
@@ -102,7 +102,7 @@ Operating and merger authority.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), the Federal Intermediate Credit Bank of Jackson may operate subject to such provisions of part A of title II of the Farm Credit Act of 1971 \[12 U.S.C. 2071 et seq.\] (as in effect immediately before the amendment made by section 401 took effect) and such provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) (as in effect afterthe amendment), as the Farm Credit Administration deems appropriate to carry out the purposes of this subsection and such Act. This subparagraph shall take effect as if it had become law at the same time as the amendment made by section 401 and shall remain in effect until the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+In general.—Except as provided in clause (ii), the Federal Intermediate Credit Bank of Jackson may operate subject to such provisions of part A of title II of the Farm Credit Act of 1971 \[12 U.S.C. 2071 et seq.\] (as in effect immediately before the amendment made by section 401 took effect) and such provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) (as in effect after the amendment), as the Farm Credit Administration deems appropriate to carry out the purposes of this subsection and such Act. This subparagraph shall take effect as if it had become law at the same time as the amendment made by section 401 and shall remain in effect until the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -142,7 +142,7 @@ Extension.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
+Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal IntermediateCredit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -206,7 +206,7 @@ Content of plan; farm credit bank.—The plan developed and submitted under clau
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The terms and conditions on which the shares of capital stock of the Federal Intermediate Credit Bank of Jackson and, if necessary, the Farm Credit Bank of Texas, will be converted into shares of the resulting Farm Credit Bank.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The capital structure and capitalization levels of the resulting Farm Credit Bank and the affiliated associations of the Farm Credit Bank in the States of Alabama, Louisiana, and Mississippi as the arbitrator determines necessary to carry out the purposes of this paragraph (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The capital structure and capitalization levels of the resulting Farm Credit Bank andthe affiliated associations of the Farm Credit Bank in the States of Alabama, Louisiana, and Mississippi as the arbitrator determines necessary to carry out the purposes of this paragraph (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) The terms of financing agreements between any production credit associations or agricultural credit associations described in clause (iv), and the resulting Farm Credit Bank (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
@@ -302,7 +302,7 @@ In general.—Beginning on the date of the issuance of an order by the Farm Cred
 
 &emsp;&emsp;&emsp;"(ii)
 
-Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders' equity at the same value reflected on themost recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
+Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders' equity at the same value reflected on the most recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
 
 &emsp;&emsp;&emsp;"(iii)
 

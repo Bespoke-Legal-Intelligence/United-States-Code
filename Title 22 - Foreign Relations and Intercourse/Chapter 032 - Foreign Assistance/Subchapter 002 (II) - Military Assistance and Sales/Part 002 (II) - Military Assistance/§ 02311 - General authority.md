@@ -40,7 +40,7 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(B) to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
 
-(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
+(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1),Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of res
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
 
-<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defenseand providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted "or grant" for ", lease, sale, exchange, grant, or any other means".
 

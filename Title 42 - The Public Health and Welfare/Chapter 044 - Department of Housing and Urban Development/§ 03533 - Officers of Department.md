@@ -34,7 +34,7 @@ There shall be in the Department an Assistant to the Secretary, designated by th
 
 &emsp;(iv) coordinating all programs of the Department relating to Indian and Alaska Native housing and community development.
 
-(D) The Secretary shall include in the annual report under section 3536 of this title a description of the extent of the housing needs for Indian families and community development needs of Indian tribes in the United States and the activities of the Department, and extent of such activities, in meeting such needs.
+(D) The Secretary shall include in the annual report under section 3536 of this title a description of the extent of the housing needs for Indian families and community development needsof Indian tribes in the United States and the activities of the Department, and extent of such activities, in meeting such needs.
 
 (2) The Secretary shall, not later than December 1 of each year, submit to Congress an annual report which shall include—
 
@@ -156,7 +156,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 &emsp;&emsp;(H) carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
 
-(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L.111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–201, title IV, §403(a), July 29, 2016, 130 Stat. 808.)
+(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–201, title IV, §403(a), July 29, 2016, 130 Stat. 808.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Section was formerly classified to section 624b of former Title 5, Executive Dep
 
 Subsec. (e). Pub. L. 101–576 struck out subsec. (e), added by section 121 of Pub. L. 101–235, which related to Chief Financial Officer.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–235, §140(2), designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as (b).
+<b>1989</b>—Subsec. (a). Pub. L. 101–235, §140(2), designated second sentence of subsec. (a), relating to appointment,function, and duties of Federal Housing Commissioner, as (b).
 
 Subsec. (b). Pub. L. 101–235, §140, designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as subsec. (b) and sentence at end requiring Secretary to ensure that managers are accountable for certain aspects of the programs. Former subsec. (b) redesignated (c).
 
@@ -244,7 +244,7 @@ Transfer of functions.—Not later than the expiration of the 180-day period beg
 
 "(3)
 
-Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment ofthis Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection)."
+Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection)."
 
 #### Office of Inspector General
 

@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 &emsp;(12) The designation of the United States segment of the ISS as a National Laboratory, as provided by the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> and the National Aeronautics and Space Administration Authorization Act of 2008,<sup>1</sup> provides an opportunity for multiple United States Government agencies, university-based researchers, research organizations, and others to utilize the unique environment of microgravity for fundamental scientific research and potential economic development.
 
-&emsp;(13) For some potential replacement elements necessary for ISS sustainability, the Space Shuttle may represent the only vehicle, existing or planned, capable of carrying those elements to the ISS in the near term. Additional or alternative transportation capabilities must be identified as contingency delivery options, and accompanied by an independent analysis of projected availability of such capabilities.
+&emsp;(13) For some potential replacement elements necessary for ISS sustainability, the Space Shuttle may represent the only vehicle, existing or planned, capable of carrying those elements to the ISS in the near term. Additional or alternative transportation capabilities must be identified as contingency deliveryoptions, and accompanied by an independent analysis of projected availability of such capabilities.
 
 &emsp;(14) The United States must develop, as rapidly as possible, replacement vehicles capable of providing both human and cargo launch capability to low-Earth orbit and to destinations beyond low-Earth orbit.
 

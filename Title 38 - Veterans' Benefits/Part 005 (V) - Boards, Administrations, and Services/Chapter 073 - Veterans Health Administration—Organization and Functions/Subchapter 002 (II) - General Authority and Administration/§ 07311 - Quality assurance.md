@@ -2,7 +2,7 @@
 
 (a) The Secretary shall—
 
-&emsp;(1) establish and conduct a comprehensive program to monitor and evaluate the qualityof health care furnished by the Veterans Health Administration (hereinafter in this section referred to as the "quality-assurance program"); and
+&emsp;(1) establish and conduct a comprehensive program to monitor and evaluate the quality of health care furnished by the Veterans Health Administration (hereinafter in this section referred to as the "quality-assurance program"); and
 
 &emsp;(2) delineate the responsibilities of the Under Secretary for Health with respect to the quality-assurance program, including the duties prescribed in this section.
 
@@ -86,7 +86,7 @@ Pub. L. 110–387, title V, §501, Oct. 10, 2008, 122 Stat. 4130, provided that:
 
 "(a)
 
-Comprehensive Policy Required.—Not later than October 1, 2009, the Secretary of Veterans Affairsshall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
+Comprehensive Policy Required.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
 
 "(b)
 
@@ -156,7 +156,7 @@ Pub. L. 102–139, title I, §101, Oct. 28, 1991, 105 Stat. 742, provided that:
 
 "(a)
 
-Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act (42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
+Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act\(42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
 
 "(2) Such regulations—
 

@@ -40,7 +40,7 @@ Duties.—The Secretary shall provide for the following:
 
 Additional Authorities.—The Secretary may—
 
-&emsp;(1) enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons to conduct research into transportation service and infrastructure assurance and to carry out other research activities of the Department of Transportation;
+&emsp;(1) enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons toconduct research into transportation service and infrastructure assurance and to carry out other research activities of the Department of Transportation;
 
 &emsp;(2) carry out, on a cost-shared basis, collaborative research and development to encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology with—
 

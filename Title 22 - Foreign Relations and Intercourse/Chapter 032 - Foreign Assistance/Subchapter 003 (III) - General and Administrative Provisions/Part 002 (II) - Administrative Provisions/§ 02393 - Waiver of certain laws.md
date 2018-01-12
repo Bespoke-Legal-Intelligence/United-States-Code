@@ -24,7 +24,7 @@ Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by
 
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 etseq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 
@@ -60,7 +60,7 @@ Section 1. With respect to functions authorized by the Foreign Assistance Act of
 
 (7) Section 3735 of the Revised Statutes (41 U.S.C. 13).
 
-(8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act ofOctober 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
+(8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act of October 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
 
 (9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 U.S.C. \[App.\] 1241(a)) \[now 46 U.S.C. 55302\].
 
@@ -98,7 +98,7 @@ Determination of President of the United States, No. 91–21, Feb. 27, 1991, 56 
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me by section 633(a) of the Foreign Assistance Act of 1961, as amended (the "Act"), 22 U.S.C. 2393(a), I hereby determine it to be in furtherance of the purposes of the Act \[22 U.S.C. 2151 et seq.\] that the functions authorized by the Act be performed without regard to section 1405 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510) \[amending sections 1551 to 1557 of Title 31, Money and Finance, repealing section 2782 of Title 10, Armed Forces, and enacting provisions set out as a note under section 1551 of Title 31\], and amendments contained therein.
+Pursuant to the authority vested in me by section 633(a) of the Foreign Assistance Act of 1961, as amended (the "Act"), 22 U.S.C. 2393(a), I hereby determine it to be in furtherance of the purposes of the Act \[22 U.S.C. 2151 et seq.\] that the functions authorized by the Act be performed without regard to section 1405 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510) \[amending sections 1551 to 1557 ofTitle 31, Money and Finance, repealing section 2782 of Title 10, Armed Forces, and enacting provisions set out as a note under section 1551 of Title 31\], and amendments contained therein.
 
 This determination shall apply only to funds appropriated to carry out the provisions of the Act that were appropriated for fiscal year 1984 and for prior fiscal years, and shall suspend the application of the provisions of section 1405 of the National Defense Authorization Act for Fiscal Year 1991, and amendments contained therein, through September 30, 1992.
 

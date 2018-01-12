@@ -28,7 +28,7 @@ The annual housing goals effective for 2008 pursuant to this subpart, as in effe
 
 #### (2) Remedial actions upon preliminary finding
 
-&emsp;Upon a preliminary finding by the Director that a pattern of disparities in interest rateswith respect to any lender or lenders exists pursuant to the data provided by an enterprise in paragraph (1), the Director shall\_\_<sup>1</sup>
+&emsp;Upon a preliminary finding by the Director that a pattern of disparities in interest rates with respect to any lender or lenders exists pursuant to the data provided by an enterprise in paragraph (1), the Director shall\_\_<sup>1</sup>
 
 &emsp;&emsp;(A) refer the preliminary finding to the appropriate regulatory or enforcement agency for further review; and
 

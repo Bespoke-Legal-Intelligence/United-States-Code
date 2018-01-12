@@ -30,7 +30,7 @@ Each State Domestic Violence Coalition desiring a grant under this section shall
 
 A coalition that receives a grant under this section shall use the grant funds for administration and operations to further the purposes of family violence, domestic violence, and dating violence intervention and prevention, through activities that shall include—
 
-&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providingtraining and technical assistance and conducting State needs assessments;
+&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;
 
 &emsp;(2) participating in planning and monitoring the distribution of subgrants and subgrant funds within the State under section 10408(a) of this title;
 
@@ -54,9 +54,9 @@ A coalition that receives a grant under this section shall use the grant funds f
 
 A coalition that receives a grant under this section shall not be required to use funds received under this chapter for the purposes described in paragraph (5) or (6) of subsection (d) if the coalition provides an annual assurance to the Secretary that the coalition is—
 
-&emsp;(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg(c)(1)) for such purposes; and
+&emsp;(1) using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg(c)(1)) <sup>1</sup> for such purposes; and
 
-&emsp;(2) coordinating the activities carried out by the coalition under subsection (d) with the State's activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg et seq.) that address those purposes.
+&emsp;(2) coordinating the activities carried out by the coalition under subsection (d) with the State's activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg et seq.) <sup>1</sup> that address those purposes.
 
 #### (f) Prohibition on lobbying
 
@@ -78,11 +78,13 @@ For purposes of this section, a State Domestic Violence Coalition may include re
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified generally to subchapter XII–H (§3796gg et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (e), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 2001 of the Act was classified to section 3796gg of this title, prior to editorial reclassification and renumbering as section 10441 of Title 34, Crime Control and Law Enforcement. Part T of title I of the Act was classified generally to subchapter XII–H (§3796gg et seq.) of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XIX (§10441 et seq.) of chapter 101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Prior Provisions
 
 A prior section 10411, Pub. L. 98–457, title III, §312, Oct. 9, 1984, 98 Stat. 1763, related to authority of Secretary to carry out provisions of this chapter, competitive awarding of grants and contracts, and delegation of authority and transfer of funds to Attorney General, prior to repeal by Pub. L. 100–294, title III, §303(a), Apr. 25, 1988, 102 Stat. 124.
 
 A prior section 311 of Pub. L. 98–457 was classified to section 10410 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

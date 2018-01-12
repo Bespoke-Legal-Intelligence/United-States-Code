@@ -12,11 +12,11 @@ Attendance authorized.—
 
 In general.—The Secretary of each military department may permit persons from foreign countries to receive instruction at the Service Academy under the jurisdiction of the Secretary. Such persons shall be in addition to—
 
-&emsp;&emsp;&emsp;(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under 4342 <sup>1</sup> of this title;
+&emsp;&emsp;&emsp;(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 4342 of this title;
 
 &emsp;&emsp;&emsp;(ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 6954 of this title; and
 
-&emsp;&emsp;&emsp;(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under 9342 <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9342 of this title.
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Determination of foreign countries from which persons may be selected.—The Sec
 
 Qualifications and selection.—The Secretary of each military department—
 
-&emsp;&emsp;(A) may establish entrance qualifications and methods of competition for selectionamong individual applicants under this subsection; and
+&emsp;&emsp;(A) may establish entrance qualifications and methods of competition for selection among individual applicants under this subsection; and
 
 &emsp;&emsp;(B) shall select those persons who will be permitted to receive instruction at the Service Academy under the jurisdiction of the Secretary under this subsection.
 
@@ -60,7 +60,7 @@ Waiver authority.—The Secretary of Defense may waive, in whole or in part, the
 
 &emsp;(7)
 
-Applicability of academy regulations, etc..— <sup>2</sup>
+Applicability of academy regulations, etc..— <sup>1</sup>
 
 &emsp;&emsp;(A)
 
@@ -104,7 +104,7 @@ Subsistence, transportation, etc..—The Secretary of the military department co
 
 &emsp;&emsp;(C)
 
-Source of funds.—A Service Academy shall bear all costs of the exchange programfrom funds appropriated for that Academy and from such additional funds as may be available to that Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
+Source of funds.—A Service Academy shall bear all costs of the exchange program from funds appropriated for that Academy and from such additional funds as may be available to that Academy from a source, other than appropriated funds, to supportcultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
 &emsp;&emsp;(D)
 
@@ -156,13 +156,15 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 &emsp;(3) The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522.)
+(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4344 to 4345a, 6957 to 6957b, and 9344 to 9345a, prior to repeal by Pub. L. 114–328.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original.</i>
+<b>2017</b>—Subsec. (a)(1)(A)(i), (iii). Pub. L. 115–91 inserted "section" after "Academy under".
+
+<i><sup>1</sup></i><i> So in original.</i>
 

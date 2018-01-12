@@ -10,7 +10,7 @@ During December of each fiscal year, and at any other time it deems necessary th
 
 #### (b) Satisfactory State enforcement
 
-For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan withinthe coastal waters of the State is being, or will likely be, substantially and adversely affected.
+For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
 
 #### (c) Notification of Secretaries
 

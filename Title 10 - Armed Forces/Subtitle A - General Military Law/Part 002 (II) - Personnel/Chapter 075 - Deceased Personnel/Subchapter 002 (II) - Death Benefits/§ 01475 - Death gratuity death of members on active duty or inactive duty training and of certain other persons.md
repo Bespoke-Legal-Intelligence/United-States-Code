@@ -74,7 +74,7 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments made by this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
+Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments madeby this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
 
 #### Effective Date of 1986 Amendment
 

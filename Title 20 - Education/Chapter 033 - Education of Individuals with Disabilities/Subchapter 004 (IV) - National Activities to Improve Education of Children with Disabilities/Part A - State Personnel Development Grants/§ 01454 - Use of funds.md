@@ -8,7 +8,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;&emsp;(A) provide teacher mentoring, team teaching, reduced class schedules and case loads, and intensive professional development;
 
-&emsp;&emsp;(B) use standards or assessments for guiding beginning teachers that are consistent with challenging State academic achievement standards and with the requirements for professional development, as defined in section 7801 of this title; and
+&emsp;&emsp;(B) use standards or assessments for guiding beginning teachers that are consistent with challenging State academic achievement standards and with the requirementsfor professional development, as defined in section 7801 of this title; and
 
 &emsp;&emsp;(C) encourage collaborative and consultative models of providing early intervention, special education, and related services.
 
@@ -50,7 +50,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;&emsp;&emsp;(iv) provide training to enable personnel to work with and involve parents in their child's education, including parents of low income and limited English proficient children with disabilities;
 
-&emsp;&emsp;&emsp;(v) provide training for special education personnel and regular education personnelin planning, developing, and implementing effective and appropriate IEPs; and
+&emsp;&emsp;&emsp;(v) provide training for special education personnel and regular education personnel in planning, developing, and implementing effective and appropriate IEPs; and
 
 &emsp;&emsp;&emsp;(vi) provide training to meet the needs of students with significant health, mobility, or behavioral needs prior to serving such students;
 
@@ -82,7 +82,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 #### (b) Other activities
 
-A State educational agency that receives a grant under this part shall use the grant funds to support activities in accordance with the State's plan described in section 1453 of this title, including 1 or more of the following:
+A State educational agency that receives a grant under this part shall use the grant fundsto support activities in accordance with the State's plan described in section 1453 of this title, including 1 or more of the following:
 
 &emsp;(1) Reforming special education and regular education teacher certification (including recertification) or licensing requirements to ensure that—
 
@@ -142,7 +142,7 @@ Section 7801 of this title, referred to in subsec. (a)(1)(B), was in the origina
 
 The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Section 6613(c)(18) of this title (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means section 6613(c)(18) of this title prior to repeal by Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new section 6613 of this title.
+Section 6613(c)(18) of this title (as such section was in effect on the day before December 10, 2015), referred toin subsec. (b)(10), means section 6613(c)(18) of this title prior to repeal by Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new section 6613 of this title.
 
 Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 

@@ -6,7 +6,7 @@ The Department of Agriculture shall be the lead agency in carrying out this subc
 
 #### (b) Scope of program
 
-The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate basic and applied research, technology development, and technology transfer leading to effective and economical methods for large-scale culturing of plantations and the extraction of latex from Parthenium or other hydrocarbon-containing plants, and for the development of other critical agricultural materials from native agricultural crops having strategic and industrial importance. Such research shall include, but not be limited to—
+The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate basic and applied research, technology development, and technology transfer leading to effective and economical methods for large-scale culturing of plantations and the extraction of latex from Parthenium or other hydrocarbon-containingplants, and for the development of other critical agricultural materials from native agricultural crops having strategic and industrial importance. Such research shall include, but not be limited to—
 
 &emsp;(1) carrying out extensive seed collections from wild plants in Texas, Mexico, and other areas and borrowing or purchasing seeds from other sources;
 

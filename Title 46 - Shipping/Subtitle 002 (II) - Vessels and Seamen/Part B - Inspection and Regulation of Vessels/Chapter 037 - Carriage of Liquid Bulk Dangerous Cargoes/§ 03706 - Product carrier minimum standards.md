@@ -46,7 +46,7 @@ Section 3706(b) requires new product carriers of 20,000 deadweight tons or above
 
 Section 3706(c) requires existing product carriers of 40,000 deadweight tons or above, to have segregated ballast tanks or to operate with dedicated clean ballast tanks.
 
-Section 3706(d) requires existing product carriers of 20,000 deadweight tons or above, but less than 40,000 deadweight tons, that are 15 years or older, to have segregated ballast tanks by January 1, 1985, or on the date on which it reaches 15 years of age or, in the alternative, that the vessel operate with dedicated clean ballast tanks.
+Section 3706(d) requires existing product carriers of 20,000 deadweight tons or above, but less than 40,000deadweight tons, that are 15 years or older, to have segregated ballast tanks by January 1, 1985, or on the date on which it reaches 15 years of age or, in the alternative, that the vessel operate with dedicated clean ballast tanks.
 
 Section 3706(e) requires existing product carriers of 40,000 deadweight tons or above, or to existing product carriers, fitted with high-capacity tank washing machines, of 20,000 deadweight tons but less than 40,000 deadweight tons, to install an inert gas system.
 

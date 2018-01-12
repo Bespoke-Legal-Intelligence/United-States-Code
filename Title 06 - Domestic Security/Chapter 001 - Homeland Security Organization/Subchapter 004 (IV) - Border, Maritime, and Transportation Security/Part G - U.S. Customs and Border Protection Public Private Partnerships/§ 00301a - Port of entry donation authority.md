@@ -22,7 +22,7 @@
 
 #### (3) Uses
 
-&emsp;Donations accepted pursuant to this subsection may be used for activities of the Officeof Field Operations set forth in subparagraphs (A) through (F) of section 211(g)(3) of this title, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned land port of entry described in paragraph (1), including expenses related to—
+&emsp;Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in subparagraphs (A) through (F) of section 211(g)(3) of this title, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned land port of entry described in paragraph (1), including expenses related to—
 
 &emsp;&emsp;(A) furniture, fixtures, equipment, or technology, including the installation or deployment of such items; and
 
@@ -74,7 +74,7 @@
 
 #### (2) Criteria
 
-&emsp;In carrying out an agreement entered into under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection, in consultation with the Administrator of General Services, shall establish criteria regarding—
+&emsp;In carrying out an agreement entered into under subsection (a) or (b), the Commissionerof U.S. Customs and Border Protection, in consultation with the Administrator of General Services, shall establish criteria regarding—
 
 &emsp;&emsp;(A) the selection and evaluation of donors;
 

@@ -52,7 +52,7 @@ Study by national academy of sciences.—Within 90 days after the date of the en
 
 &emsp;&emsp;"(B) whether it is reasonable to assume that a system for post-closure oversight of the repository can be developed, based upon active institutional controls, that will prevent an unreasonable risk of breaching the repository's engineered or geologic barriers or increasing the exposure of individual members of the public to radiation beyond allowable limits; and
 
-&emsp;&emsp;"(C) whether it is possible to make scientifically supportable predictions of the probability that the repository's engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years.
+&emsp;&emsp;"(C) whether it is possible to make scientifically supportable predictions of the probability that the repository's engineered or geologic barriers will bebreached as a result of human intrusion over a period of 10,000 years.
 
 &emsp;"(3)
 

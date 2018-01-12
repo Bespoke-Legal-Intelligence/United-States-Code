@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the date on which Commission staff completes the on-site portion of its compliance examination or inspection or receives all records requested from the entity being examined or inspected, whichever is later, Commission staff shall provide the entity being examined or inspected with written notification indicating either that the examination or inspection has concluded, has concluded without findings, or that the staff requests the entity undertake corrective action.
+&emsp;Not later than 180 days after the date on which Commission staff completes the on-site portion of its compliance examination or inspection or receives all records requested fromthe entity being examined or inspected, whichever is later, Commission staff shall provide the entity being examined or inspected with written notification indicating either that the examination or inspection has concluded, has concluded without findings, or that the staff requests the entity undertake corrective action.
 
 #### (2) Exception for certain complex actions
 

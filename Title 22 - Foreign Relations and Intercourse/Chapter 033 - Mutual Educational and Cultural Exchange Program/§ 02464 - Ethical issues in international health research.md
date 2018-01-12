@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries to participate in activities related to ethical issues in human subject research, as described in subsection (c).
+The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries toparticipate in activities related to ethical issues in human subject research, as described in subsection (c).
 
 #### (b) Coordination with other programs
 

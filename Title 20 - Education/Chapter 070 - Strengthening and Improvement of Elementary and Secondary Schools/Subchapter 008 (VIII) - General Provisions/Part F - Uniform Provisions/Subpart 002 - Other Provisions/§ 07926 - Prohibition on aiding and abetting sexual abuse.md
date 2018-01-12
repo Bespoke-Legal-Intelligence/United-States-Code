@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State, State educational agency, or local educational agency in the case of a local educational agency that receives Federal funds under this chapter shall have laws, regulations, or policies that prohibit any individual who is a school employee, contractor, or agent, or any State educational agency or local educational agency, from assisting a school employee, contractor, or agent in obtaining a new job, apartfrom the routine transmission of administrative and personnel files, if the individual or agency knows, or has probable cause to believe, that such school employee, contractor, or agent engaged in sexual misconduct regarding a minor or student in violation of the law.
+A State, State educational agency, or local educational agency in the case of a local educational agency that receives Federal funds under this chapter shall have laws, regulations, or policies that prohibit any individual who is a school employee, contractor, or agent, or any State educational agency or local educational agency, from assisting a school employee, contractor, or agent in obtaining a new job, apart from the routine transmission of administrative and personnel files, if the individual or agency knows, or has probable cause to believe, that such school employee, contractor, or agent engaged in sexual misconduct regarding a minor or student in violation of the law.
 
 #### (b) Exception
 
@@ -30,7 +30,7 @@ Nothing in this section shall be construed to prevent a State from adopting, or 
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat.235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
 #### Effective Date
 

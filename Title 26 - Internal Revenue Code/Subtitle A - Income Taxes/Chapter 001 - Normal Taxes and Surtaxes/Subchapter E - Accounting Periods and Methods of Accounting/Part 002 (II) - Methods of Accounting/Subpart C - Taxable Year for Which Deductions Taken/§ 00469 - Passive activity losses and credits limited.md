@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (C) Real property trade or business
 
-&emsp;&emsp;For purposes of this paragraph, the term "real property trade or business" means any real property development, redevelopment, construction, reconstruction, acquisition, conversion, rental, operation, management, leasing, or brokerage trade or business.
+&emsp;&emsp;For purposes of this paragraph, the term "real property trade or business" means anyreal property development, redevelopment, construction, reconstruction, acquisition, conversion, rental, operation, management, leasing, or brokerage trade or business.
 
 #### (D) Special rules for subparagraph (B)
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 135 and 137,
 
-&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 199, 219, 221, and 222, and
+&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 219, 221, 222, and 250, and
 
 &emsp;&emsp;&emsp;(iv) any passive activity loss or any loss allowable by reason of subsection (c)(7).
 
@@ -498,9 +498,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i)(3)(F)(iii). Pub. L. 115–97, §14202(b)(3), substituted "222, and 250" for "and 222".
+
+Pub. L. 115–97, §13305(b)(1), struck out "199," after "sections".
 
 <b>2014</b>—Subsec. (e)(4). Pub. L. 113–295, §221(a)(41)(G), struck out ", 244," after "section 243".
 
@@ -636,6 +640,12 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 <b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+
+Amendment by section 14202(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, set out as a note under section 172 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by section 221(a)(41)(G) of Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
@@ -658,7 +668,7 @@ Amendment by Pub. L. 107–16 applicable to payments made in taxable years begin
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1996 Amendment
 

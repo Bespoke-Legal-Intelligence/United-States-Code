@@ -106,7 +106,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 (ii) Garbage described in clauses (ii) and (iii) of subparagraph (A) may not be discharged within 12 nautical miles of land.
 
-(C) This paragraph applies to any ship that is owned or operated by the Department of theNavy that, as determined by the Secretary of the Navy—
+(C) This paragraph applies to any ship that is owned or operated by the Department of the Navy that, as determined by the Secretary of the Navy—
 
 &emsp;(i) has unique military design, construction, manning, or operating requirements; and
 
@@ -158,7 +158,7 @@ Nothing in this section shall be construed to restrict in a manner inconsistent 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the "Act to Prevent Pollution from Ships" which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the "Act to Prevent Pollution from Ships" which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (f)(4)(B) and (g), is section 1003(e) of Pub. L. 103–160, which is set out below.
 

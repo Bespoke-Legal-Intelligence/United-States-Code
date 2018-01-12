@@ -154,7 +154,7 @@ In the case of any investment with respect to which the Secretary makes a grant 
 
 #### (1) Denial of credit
 
-&emsp;No credit shall be determined under this section with respect to such investment for thetaxable year in which such grant is made or any subsequent taxable year.
+&emsp;No credit shall be determined under this section with respect to such investment for the taxable year in which such grant is made or any subsequent taxable year.
 
 #### (2) Recapture of credits for progress expenditures made before grant
 
@@ -264,7 +264,7 @@ Exception for certain non-taxpayers.—The Secretary of the Treasury shall not m
 
 &emsp;"(B) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
 
-&emsp;"(C) any entity referred to in paragraph (4) of section 54(j) of such Code, or
+&emsp;"(C) any entity referred to in paragraph (4) of \[former\] section 54(j) of such Code, or
 
 &emsp;"(D) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in subparagraph (A), (B) or (C).
 

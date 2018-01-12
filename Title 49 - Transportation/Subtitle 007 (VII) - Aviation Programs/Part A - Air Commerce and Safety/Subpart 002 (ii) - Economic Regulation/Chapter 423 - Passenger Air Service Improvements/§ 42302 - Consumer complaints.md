@@ -20,7 +20,7 @@ Notice to Passengers on the Internet.—An air carrier or foreign air carrier pr
 
 (c)
 
-Notice to Passengers on Boarding Documentation.—An air carrier or foreign air carrier providing scheduled air transportation usingany aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include the hotline telephone number established under subsection (a) on—
+Notice to Passengers on Boarding Documentation.—An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include the hotline telephone number established under subsection (a) on—
 
 &emsp;(1) prominently displayed signs of the carrier at the airport ticket counters in the United States where the air carrier operates; and
 

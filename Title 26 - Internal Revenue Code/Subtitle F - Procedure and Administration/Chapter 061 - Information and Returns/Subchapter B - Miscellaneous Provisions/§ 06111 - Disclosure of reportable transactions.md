@@ -24,7 +24,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) who provides any material aid, assistance, or advice with respect to organizing, managing, promoting, selling, implementing, insuring, or carrying out any reportable transaction, and
 
-&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may be prescribed by the Secretary) for such aid, assistance, or advice.
+&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may beprescribed by the Secretary) for such aid, assistance, or advice.
 
 #### (B) Threshold amount
 
@@ -78,7 +78,7 @@ Pub. L. 105–34, title X, §1028(e), Aug. 5, 1997, 111 Stat. 928, provided that
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
 
 "(2)
 

@@ -20,7 +20,7 @@ Pub. L. 87–624, title V, §501, as added by Pub. L. 95–564, Nov. 1, 1978, 92
 
 #### Stylistic Consistency
 
-Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: "The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\]."
+Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: "The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications SatelliteAct of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\]."
 
 #### International Telecommunications Satellite Organization
 
@@ -60,7 +60,7 @@ Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with
 
 "(d)
 
-Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommendsuch a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
+Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
 
 &emsp;"(1) the foreign policy reasons for the President's determination, and
 

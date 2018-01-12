@@ -68,7 +68,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) a financial contract between a person and a consumer which is in force;
 
-&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services,or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
+&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
 
 &emsp;&emsp;(C) an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or
 
@@ -126,7 +126,7 @@ Timing.—Regulations required by this subsection shall—
 
 &emsp;"(B) become effective not later than 6 months after the date on which they are issued in final form."
 
-\[For definitions of terms used in section 214(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+\[For definitions of terms used in section 214(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159,set out as a Definitions note under section 1681 of this title.\]
 
 #### Studies of Information Sharing Practices
 
@@ -170,7 +170,7 @@ Followup reports.—The Federal banking agencies, the National Credit Union Admi
 
 &emsp;&emsp;"(i) documents any changes in the areas of study referred to in paragraph (2)(A) occurring since the date of submission of the previous report;
 
-&emsp;&emsp;"(ii) identifies any changes in the practices of financial institutions and other creditors and usersof consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
+&emsp;&emsp;"(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
 
 &emsp;&emsp;"(iii) examines the effects that changes described in clause (ii) have had, if any, on the degree to which such affiliate sharing practices reduce the need for financial institutions, creditors, and other users of consumer reports to rely on consumer reports for such decisions."
 

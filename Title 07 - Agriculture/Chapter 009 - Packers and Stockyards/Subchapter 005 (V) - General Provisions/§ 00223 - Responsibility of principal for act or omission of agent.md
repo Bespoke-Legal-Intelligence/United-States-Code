@@ -2,7 +2,7 @@
 
 When construing and enforcing the provisions of this chapter, the act, omission, or failure of any agent, officer, or other person acting for or employed by any packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, or dealer, within the scope of his employment or office, shall in every case also be deemed the act, omission, or failure of such packer, any swine contractor, and any live poultry dealer, stockyard owner, market agency, or dealer, as well as that of such agent, officer, or other person.
 
-(Aug. 15, 1921, ch. 64, title IV, §403, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; amended Pub. L. 100–173, §6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, §10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
+(Aug. 15, 1921, ch. 64, title IV, §403, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; amended Pub. L.100–173, §6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, §10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
 
 #### Amendments
 

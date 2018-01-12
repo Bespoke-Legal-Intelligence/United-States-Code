@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) that country's current account balance as a percentage of its gross domestic product;
 
-&emsp;&emsp;&emsp;&emsp;(III) the change in that country's current account balance as a percentage of its gross domestic product during the 3-year period preceding the submission of the report;
+&emsp;&emsp;&emsp;&emsp;(III) the change in that country's current account balance as a percentage ofits gross domestic product during the 3-year period preceding the submission of the report;
 
 &emsp;&emsp;&emsp;&emsp;(IV) that country's foreign exchange reserves as a percentage of its short-term debt; and
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;The President, through the Secretary, shall commence enhanced bilateral engagementwith each country for which an enhanced analysis of macroeconomic and currency exchange rate policies is included in the report submitted under subsection (a), in order to, as appropriate—
+&emsp;The President, through the Secretary, shall commence enhanced bilateral engagement with each country for which an enhanced analysis of macroeconomic and currency exchange rate policies is included in the report submitted under subsection (a), in order to, as appropriate—
 
 &emsp;&emsp;(A) urge implementation of policies to address the causes of the undervaluation of its currency, its significant bilateral trade surplus with the United States, and its material current account surplus, including undervaluation and surpluses relating to exchange rate management;
 

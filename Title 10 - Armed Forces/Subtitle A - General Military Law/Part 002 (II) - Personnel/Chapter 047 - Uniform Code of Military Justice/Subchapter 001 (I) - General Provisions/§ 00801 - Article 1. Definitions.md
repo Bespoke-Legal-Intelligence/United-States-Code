@@ -1,6 +1,6 @@
 ### §801. Article 1. Definitions
 
-In this chapter:
+In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(1) The term "Judge Advocate General" means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
 
@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
 
 #### Amendment of Clauses (10) and (13)
 
@@ -80,7 +80,7 @@ The words "In this chapter" are substituted for the introductory clause.
 
 In the introductory clause and throughout the revised chapter the word "chapter" is substituted for the word "code".
 
-Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words "commissioned officer" are substituted for the word "officer" for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
+Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and\(14) of section 101 of this title. The words "commissioned officer" are substituted for the word "officer" for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
 
 In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word "means" is substituted for the words "shall be construed to refer to" and "shall be construed to refer \* \* \* to".
 
@@ -95,6 +95,10 @@ In clause (8), the word "refers" is substituted for the words "shall be construe
 In clause (12), the words "Marine Corps" are inserted to make explicit that the clause applies to the Marine Corps. The word "commissioned" is inserted for clarity.
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, §1081(c)(1)(A), which directed insertion of "(the Uniform Code of Military Justice)" after "chapter" in introductory provisions, was not executed in light of the prior amendment by section 1081(a)(21) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and section 1081(c)(4) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note below.
+
+Pub. L. 115–91, §1081(a)(21), inserted "(the Uniform Code of Military Justice)" after "chapter" in introductory provisions.
 
 <b>2016</b>—Cl. (10). Pub. L. 114–328, §5101(a), amended cl. (10) generally. Prior to amendment, cl. (10) read as follows: "The term 'military judge' means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26)."
 
@@ -126,9 +130,15 @@ Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 <b>1966</b>—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of "Judge Advocate General" applicable to the Coast Guard when operating as a service in the Navy.
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title V, §531(p), Dec. 12, 2017, 131 Stat. 1388, provided that: "The amendments made by this section \[amending sections 806b, 830a, 838, 853a, 856, 858a, 858b, 862, 863, 866, 946, 1059, and 1408 of this title and provisions set out as a note below\] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E \[§§5001–5542\] of Public Law 114–328 \[enacting, amending, and transferring numerous sections throughout this chapter\]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) \[set out below\]."
+
+Pub. L. 115–91, div. A, title X, §1081(c)(4), Dec. 12, 2017, 131 Stat. 1599, provided that: "The amendments made by this subsection \[amending this section and sections 673, 674, 806b, 816, 839, 843, 848, 853, 853a, 864, 865, 866, 869, 882, 919a, 920, 928, 932, 937, 1034, and 1044e of this title and section 8312 of Title 5, Government Organization and Employees\] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E \[§§5001–5542\] of Public Law 114–328 \[enacting, amending, and transferring numerous sections throughout this chapter\]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) \[set out below\]."
+
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. E, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2967, provided that:
+Pub. L. 114–328, div. E, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title V, §531(n)(1), Dec. 12, 2017, 131 Stat. 1387, provided that:
 
 "(a)
 
@@ -144,7 +154,7 @@ Applicability.—
 
 &emsp;"(1)
 
-In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments.
+In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which a specification alleges the commission, before the effective date of such amendments, of one or more offenses or to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments.
 
 &emsp;"(2)
 
@@ -160,7 +170,7 @@ In general.—The amendments made by title LX \[§§5401–5452 of div. E of Pub
 
 &emsp;&emsp;"(B)
 
-Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments.
+Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution ofany offense committed before the effective date of such amendments.
 
 &emsp;"(4)
 
@@ -228,15 +238,43 @@ Navy law specialists redesignated judge advocates, see section 8 of Pub. L. 90�
 
 #### Savings Provision
 
-Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Judge Advocate General's Corpsin Navy, see section 10 of Pub. L. 90–179, set out as a note under section 5148 of this title.
+Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Judge Advocate General's Corps in Navy, see section 10 of Pub. L. 90–179, set out as a note under section 5148 of this title.
 
 #### Legislative Construction
 
-Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 47 of title 10, United States Code \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter."
+Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 47 of title 10, United StatesCode \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter."
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Sentencing in Certain Transitional Cases
+
+Pub. L. 115–91, div. A, title V, §531(o), Dec. 12, 2017, 131 Stat. 1387, provided that:
+
+"(1)
+
+In general.—In any transition-period court-martial, the relevant sentencing sections of chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), shall be applied as follows:
+
+&emsp;"(A) Except as provided in subparagraph (B), the relevant sentencing sections shall be applied as if the amendments to such sections made by the Military Justice Act of 2016 (division E of Public Law 114–328 \[enacting, amending, and transferring numerous sections throughout this chapter\]) and this section \[see section 531(p) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note above\] had not been enacted.
+
+&emsp;"(B) If the accused so requests, the relevant sentencing sections shall be applied as amended by the Military Justice Act of 2016 (division E of Public Law 114–328) and this section.
+
+"(2)
+
+Definitions.—In this subsection:
+
+&emsp;"(A)
+
+Transition-period court-martial.—The term 'transition-period court-martial' means a court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that consists of both of the following:
+
+&emsp;&emsp;"(i) A prosecution of one or more offenses committed before the date designated by the President under section 5542(a) of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2967) \[set out above\].
+
+&emsp;&emsp;"(ii) A prosecution of one or more offenses committed on or after that date.
+
+&emsp;"(B)
+
+Relevant sentencing sections.—The term 'relevant sentencing sections' means section 856 of title 10, United States Code (article 56 of the Uniform Code of Military Justice), and any other sections (articles) of chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that, by regulation prescribed by the President, are designated as relevant to sentencing for the purposes of paragraph (1)."
 
 #### Improved Implementation of Changes to Uniform Code of Military Justice
 
@@ -510,7 +548,7 @@ Elements.—The procedures for implementing this section shall include, but not 
 
 &emsp;&emsp;"(D) Procedures providing that the requirement for military custody under subsection (a)(1) does not apply when intelligence, law enforcement, or other Government officials of the United States are granted access to an individual who remains in the custody of a third country.
 
-&emsp;&emsp;"(E) Procedures providing that a certification of national security interests under subsection (a)(4)may be granted for the purpose of transferring a covered person from a third country if such a transfer is in the interest of the United States and could not otherwise be accomplished.
+&emsp;&emsp;"(E) Procedures providing that a certification of national security interests under subsection (a)(4) may be granted for the purpose of transferring a covered person from a third country if such a transfer is in the interest of the United States and could not otherwise be accomplished.
 
 "(d)
 
@@ -590,7 +628,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a national security protocol governing communications to and from individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), and related issues.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall develop and submit to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a national security protocol governing communications to and from individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), and related issues.
 
 "(b)
 
@@ -810,7 +848,7 @@ Pub. L. 111–32, title III, §319, June 24, 2009, 123 Stat. 1874, as amended by
 
 "(a)
 
-Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit tothe members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
+Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
 
 "(b)
 
@@ -882,7 +920,7 @@ Report.—Not later than March 1, 2006, the Secretary shall submit to the congre
 
 #### Detainee Interrogation, Status Review, and Treatment
 
-Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended by Pub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended byPub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 #### "SEC. 1402. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -906,7 +944,7 @@ Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, 
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committeeon Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
 &emsp;&emsp;"(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary of Defense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
 
@@ -1026,7 +1064,7 @@ Required Policies.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall prescribe policies designed to ensure that all military and civilian Department of Defense personnel or contractor personnel of the Department of Defense responsible for the training of any unit of the Iraqi Security Forces provide training to such units regarding the international obligations and laws applicableto the humane treatment of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
+In general.—The Secretary of Defense shall prescribe policies designed to ensure that all military and civilian Department of Defense personnel or contractor personnel of the Department of Defense responsible for the training of any unit of the Iraqi Security Forces provide training to such units regarding the international obligations and laws applicable to the humane treatment of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
 &emsp;"(2)
 
@@ -1418,7 +1456,7 @@ Section 1. <i>Definitions</i>. As used in this order:
 
 &emsp;(iv) the Convention Relative to the Protection of Civilian Persons in Time of War, August 12, 1949 (6 UST 3516).
 
-(c) "Individuals currently detained at Guantanamo" and "individuals covered by this order" mean individuals currently detained by the Department of Defense in facilities at the Guantanamo Bay Naval Base whomthe Department of Defense has ever determined to be, or treated as, enemy combatants.
+(c) "Individuals currently detained at Guantanamo" and "individuals covered by this order" mean individuals currently detained by the Department of Defense in facilities at the Guantanamo Bay Naval Base whom the Department of Defense has ever determined to be, or treated as, enemy combatants.
 
 Sec. 2. <i>Findings</i>.
 
@@ -1466,7 +1504,7 @@ Sec. 4. <i>Immediate Review of All Guantanamo Detentions.</i>
 
 &emsp;(3) <i>Determination of Prosecution</i>. In accordance with United States law, the cases of individuals detained at Guantanamo not approved for release or transfer shall be evaluated to determine whether the Federal Government should seek to prosecute the detained individuals for any offenses they may have committed, including whether it is feasible to prosecute such individuals before a court established pursuant to Article III of the United States Constitution, and the Review participants shall in turn take the necessary and appropriate steps based on such determinations.
 
-&emsp;(4) <i>Determination of Other Disposition</i>. With respect to any individuals currently detained at Guantanamo whose disposition is not achieved under paragraphs (2) or (3) of this subsection, the Review shall select lawful means, consistent with the national security and foreign policy interests of the United States and the interests of justice, for the disposition of such individuals. The appropriate authorities shall promptly implement such dispositions.
+&emsp;(4) <i>Determination of Other Disposition</i>. With respect to any individuals currently detained at Guantanamowhose disposition is not achieved under paragraphs (2) or (3) of this subsection, the Review shall select lawful means, consistent with the national security and foreign policy interests of the United States and the interests of justice, for the disposition of such individuals. The appropriate authorities shall promptly implement such dispositions.
 
 &emsp;(5) <i>Consideration of Issues Relating to Transfer to the United States</i>. The Review shall identify and consider legal, logistical, and security issues relating to the potential transfer of individuals currently detained at Guantanamo to facilities within the United States, and the Review participants shall work with the Congress on any legislation that may be appropriate.
 
@@ -1516,7 +1554,7 @@ Sec. 3. <i>Periodic Review</i>. The Secretary of Defense shall coordinate a proc
 
 (6) The PRB shall conduct a hearing to consider the information described in subsection (a)(4) of this section, and other relevant information provided by the detainee or the detainee's representative or counsel, to determine whether the standard in section 2 of this order is met. The PRB shall consider the reliability of any information provided to it in making its determination.
 
-(7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee'scontinued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
+(7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee's continued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
 
 (8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutes or summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
 
@@ -1554,7 +1592,7 @@ Sec. 9. <i>Definitions</i>. (a) "Law of War Detention" means: detention authoriz
 
 (b) "Periodic Review Board" means: a board composed of senior officials tasked with fulfilling the functions described in section 3 of this order, one appointed by each of the following departments and offices: the Departments of State, Defense, Justice, and Homeland Security, as well as the Offices of the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff.
 
-(c) "Conditional Detention" means: the status of those detainees designated by the Executive Order 13492 review as eligible for transfer if one of the following conditions is satisfied: (1) the security situation improves in Yemen; (2) an appropriate rehabilitation program becomes available; or (3) an appropriate third-country resettlement option becomes available.
+(c) "Conditional Detention" means: the status of those detainees designated by the Executive Order 13492review as eligible for transfer if one of the following conditions is satisfied: (1) the security situation improves in Yemen; (2) an appropriate rehabilitation program becomes available; or (3) an appropriate third-country resettlement option becomes available.
 
 (d) "Review Committee" means: a committee composed of the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and the Chairman of the Joint Chiefs of Staff.
 

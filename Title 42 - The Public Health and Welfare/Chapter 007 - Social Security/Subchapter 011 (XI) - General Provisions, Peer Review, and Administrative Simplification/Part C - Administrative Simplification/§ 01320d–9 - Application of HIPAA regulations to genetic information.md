@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (1) Genetic information; genetic test; family member
 
-&emsp;The terms "genetic information", "genetic test", and "family member" have the meanings given such terms in section 300gg–91 ofthis title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
+&emsp;The terms "genetic information", "genetic test", and "family member" have the meanings given such terms in section 300gg–91 of this title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
 
 #### (2) Group health plan; health insurance coverage; medicare supplemental policy
 
@@ -42,7 +42,7 @@ The revisions under subsection (a) shall be made by notice in the Federal Regist
 
 #### (d) Enforcement
 
-In addition to any other sanctions or remedies that may be available under law, a covered entity that is a group health plan, health insurance issuer, or issuer of a medicare supplemental policy and that violates the HIPAA privacy regulation (as revised under subsection (a) or otherwise) with respect to the use or disclosure of genetic information shall be subject to the penalties described in sections 1320d–5 and 1320d–6 of this title in the same manner and to the same extent that such penalties apply to violations of this part.
+In addition to any other sanctions or remedies that may be available under law, a covered entity that is a group health plan, health insurance issuer, or issuer of a medicare supplemental policy and that violates the HIPAA privacy regulation (as revised under subsection (a) or otherwise) with respect to the use or disclosure of genetic information shall be subject to the penalties described in sections 1320d–5 and1320d–6 of this title in the same manner and to the same extent that such penalties apply to violations of this part.
 
 (Aug. 14, 1935, ch. 531, title XI, §1180, as added Pub. L. 110–233, title I, §105(a), May 21, 2008, 122 Stat. 903.)
 

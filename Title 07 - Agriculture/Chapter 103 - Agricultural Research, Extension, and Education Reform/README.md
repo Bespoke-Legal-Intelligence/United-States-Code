@@ -46,6 +46,7 @@
 | :--- | ---: |
 | [7641\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20Miscellaneous/%C2%A7%2007641%20-%20Patent%20Culture%20Collection%20fees.md) | Patent Culture Collection fees. |
 | [7642\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20Miscellaneous/%C2%A7%2007642%20-%20Food%20Animal%20Residue%20Avoidance%20Database%20program.md) | Food Animal Residue Avoidance Database program. |
+| [7643\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20A%20-%20Miscellaneous/%C2%A7%2007643%20-%20Distribution%20of%20farmers%27%20bulletins.md) | Distribution of farmers' bulletins. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

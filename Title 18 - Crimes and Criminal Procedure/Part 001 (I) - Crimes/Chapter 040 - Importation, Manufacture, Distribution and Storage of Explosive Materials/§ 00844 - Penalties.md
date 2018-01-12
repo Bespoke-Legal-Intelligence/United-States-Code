@@ -20,7 +20,7 @@
 
 > the Attorney General shall make an allowance to the claimant not exceeding the value of the property destroyed.
 
-(d) Whoever transports or receives, or attempts to transport or receive, in interstate or foreign commerce any explosive with the knowledge or intent that it will be used to kill, injure,or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
+(d) Whoever transports or receives, or attempts to transport or receive, in interstate or foreign commerce any explosive with the knowledge or intent that it will be used to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
 (e) Whoever, through the use of the mail, telephone, telegraph, or other instrument of interstate or foreign commerce, or in or affecting interstate or foreign commerce, willfully makes any threat, or maliciously conveys false information knowing the same to be false, concerning an attempt or alleged attempt being made, or to be made, to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property by means of fire or an explosive shall be imprisoned for not more than 10 years or fined under this title, or both.
 
@@ -52,7 +52,7 @@
 
 (k) A person who steals any explosives materials which are moving as, or are a part of, or which have moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
-(l) A person who steals any explosive material from a licensed importer, licensed manufacturer, or licensed dealer, or from any permittee shall be fined under this title, imprisoned not more than 10 years, or both.
+(l) A person who steals any explosive material from a licensed importer, licensed manufacturer, or licensed dealer, or from any permitteeshall be fined under this title, imprisoned not more than 10 years, or both.
 
 (m) A person who conspires to commit an offense under subsection (h) shall be imprisoned for any term of years not exceeding 20, fined under this title, or both.
 

@@ -64,7 +64,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, familyleave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacationleave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
 
 #### (e) Foreseeable leave
 
@@ -136,11 +136,15 @@ Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted "(or 26 workweeks
 
 Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted "(C), or (E)" for "or (C)".
 
-Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end "An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part ofthe 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave."
+Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end "An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave."
 
 Subsec. (e)(2). Pub. L. 110–181, §585(a)(3)(C)(i), inserted "or under subsection (a)(3)" after "subsection (a)(1)" in introductory provisions.
 
 Subsec. (e)(3). Pub. L. 110–181, §585(a)(3)(C)(ii), added par. (3).
 
 Subsec. (f). Pub. L. 110–181, §585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 

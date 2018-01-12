@@ -24,7 +24,7 @@ The Secretary shall also determine the aggregate preservation rents under this s
 
 #### (2) Sale
 
-&emsp;The aggregate preservation rent for purposes of receiving incentives pursuant to sale undersection 4110 or 4111 of this title shall be the gross income for the project determined by the Secretary, that would be required to support the following costs:
+&emsp;The aggregate preservation rent for purposes of receiving incentives pursuant to sale under section 4110 or 4111 of this title shall be the gross income for the project determined by the Secretary, that would be required to support the following costs:
 
 &emsp;&emsp;(A) Debt service on the loan for acquisition of the housing.
 

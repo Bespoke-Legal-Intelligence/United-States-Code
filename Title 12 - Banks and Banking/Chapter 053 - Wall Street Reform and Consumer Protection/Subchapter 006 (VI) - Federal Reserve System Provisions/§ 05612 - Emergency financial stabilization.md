@@ -44,7 +44,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the 4th day after the date on which Congress receives a request under subsection (c), and ending on the 7th day after that date (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the jointresolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+&emsp;&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order atany time during the period beginning on the 4th day after the date on which Congress receives a request under subsection (c), and ending on the 7th day after that date (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 #### (ii) Debate
 
@@ -114,7 +114,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 &emsp;The Corporation—
 
-&emsp;&emsp;(A) may borrow funds from the Secretary of the Treasury and issue obligations of the Corporation to the Secretary for amounts borrowed, and the amounts borrowed shall be available to the Corporation for purposes of carrying out a program established pursuant to this section, including the payment of reasonable costs of administering the program, and the obligations issued shall be repaid in full with interest through fees and charges paid by participants in accordancewith paragraphs (1) and (4), as applicable; and
+&emsp;&emsp;(A) may borrow funds from the Secretary of the Treasury and issue obligations of the Corporation to the Secretary for amounts borrowed, and the amounts borrowed shall be available to the Corporation for purposesof carrying out a program established pursuant to this section, including the payment of reasonable costs of administering the program, and the obligations issued shall be repaid in full with interest through fees and charges paid by participants in accordance with paragraphs (1) and (4), as applicable; and
 
 &emsp;&emsp;(B) may not borrow funds from the Deposit Insurance Fund established pursuant to section 1821(a)(4) of this title.
 

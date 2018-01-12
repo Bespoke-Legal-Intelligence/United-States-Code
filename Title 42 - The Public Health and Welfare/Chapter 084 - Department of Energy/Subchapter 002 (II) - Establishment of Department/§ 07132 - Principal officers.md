@@ -26,7 +26,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 &emsp;(D) advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
 
-&emsp;(E) advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department;
+&emsp;(E) advise the Secretary with respect to grants and other forms of financial assistancerequired for effective short- and long-term basic and applied research activities of the Department;
 
 &emsp;(F) advise the Secretary with respect to long-term planning, coordination, and development of a strategic framework for Department research and development activities; and
 

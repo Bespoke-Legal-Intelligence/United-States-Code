@@ -26,7 +26,7 @@ The President shall direct the Trade Representative to enter into consultations 
 
 #### (c) Enforcement of rights
 
-If the President, after taking into account information and advice received under subsections (a) and (b), section 2805 of this title or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
+If the President, after taking into account information and advice received under subsections\(a) and (b), section 2805 of this title or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
 
 &emsp;(1) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement; or
 
@@ -40,7 +40,7 @@ If the President, after taking into account information and advice received unde
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally tochapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Reports on Negotiations To Eliminate Wine Trade Barriers
 

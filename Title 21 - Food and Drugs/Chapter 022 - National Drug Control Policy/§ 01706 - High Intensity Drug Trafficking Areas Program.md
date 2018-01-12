@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the UnitedStates as a high intensity drug trafficking area.
+&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area.
 
 #### (2) Activities
 

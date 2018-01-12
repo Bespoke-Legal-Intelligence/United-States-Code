@@ -8,7 +8,7 @@
 
 #### (b) Administrative review
 
-(1) The person assessed shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of assessment. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5. If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.
+(1) The person assessed shall be afforded an opportunity for agency hearing, upon requestmade within thirty days after the date of issuance of the notice of assessment. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5. If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.
 
 (2) If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within thirty days after the decision of the administrative law judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subsection (c).
 
@@ -29,4 +29,8 @@ All penalties collected under authority of this section shall be paid into the T
 #### References in Text
 
 The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 

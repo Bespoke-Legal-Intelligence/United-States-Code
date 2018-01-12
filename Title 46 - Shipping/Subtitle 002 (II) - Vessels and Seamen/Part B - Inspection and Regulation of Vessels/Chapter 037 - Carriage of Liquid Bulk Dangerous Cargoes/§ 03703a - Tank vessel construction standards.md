@@ -26,7 +26,7 @@
 
 &emsp;(5) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
 
-&emsp;(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).<sup>1</sup>
+&emsp;(6) a vessel in the National Defense Reserve Fleet pursuant to section 57100.
 
 (c)(1) In this subsection, the age of a vessel is determined from the later of the date on which the vessel—
 
@@ -38,7 +38,7 @@
 
 (2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
-(3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vesselthat had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
+(3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under section 12112 of this title before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
 &emsp;(A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) after January 1, 1996, if the vessel is 38 years old or older and has a single hull, or is 43 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 36 years old or older and has a single hull, or is 41 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 36 years old or older and has a single hull, or is41 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(iv) after January 1, 1998, if the vessel is 34 years old or older and has a single hull, or is 39 years old or older and has a double bottom or double sides;
 
@@ -130,17 +130,17 @@
 
 (3) This subsection does not apply to a tank vessel that, before July 1, 1997, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
 
-(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966; Pub. L. 105–85, div. C, title XXXVI, §3606, Nov. 18, 1997, 111 Stat. 2077; Pub. L. 109–304, §15(15), Oct. 6, 2006, 120 Stat. 1703.)
+(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966; Pub. L. 105–85, div. C, title XXXVI, §3606, Nov. 18, 1997, 111 Stat. 2077; Pub. L. 109–304, §15(15), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–91, div. C, title XXXV, §3502(b)(3), Dec. 12, 2017, 131 Stat. 1910.)
 
 #### References in Text
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
-
-Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (b)(6), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified to section 4405 of Title 50.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, asamended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(6). Pub. L. 115–91 substituted "section 57100" for "section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744)".
 
 <b>2006</b>—Subsec. (c)(1)(C), (2), (3). Pub. L. 109–304 substituted "documentation as a wrecked vessel under section 12112 of this title" for "documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14)".
 
@@ -178,7 +178,7 @@ Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended
 
 "(1)
 
-Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\],the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
+Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
 
 "(2)
 
@@ -195,6 +195,4 @@ Review and assessment.—The Secretary shall—
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

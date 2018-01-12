@@ -1,6 +1,6 @@
 ### §1961. Economic assistance
 
-The President is authorized to cooperate with and assist any nation or group of nations in thegeneral area of the Middle East desiring such assistance in the development of economic strength dedicated to the maintenance of national independence.
+The President is authorized to cooperate with and assist any nation or group of nations in the general area of the Middle East desiring such assistance in the development of economic strength dedicated to the maintenance of national independence.
 
 (Pub. L. 85–7, §1, Mar. 9, 1957, 71 Stat. 5.)
 

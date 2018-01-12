@@ -2,7 +2,7 @@
 
 #### (a) Ozone transport regions
 
-A single transport region for ozone (within the meaning of section 7506a(a) of this title), comprised of the States of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, and the Consolidated Metropolitan Statistical Area that includes the District of Columbia, is hereby established by operation of law. The provisions of section 7506a(a)(1) and (2) of this title shall apply with respect to the transport region establishedunder this section and any other transport region established for ozone, except to the extent inconsistent with the provisions of this section. The Administrator shall convene the commission required (under section 7506a(b) of this title) as a result of the establishment of such region within 6 months of November 15, 1990.
+A single transport region for ozone (within the meaning of section 7506a(a) of this title), comprised of the States of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, and the Consolidated Metropolitan Statistical Area that includes the District of Columbia, is hereby established by operation of law. The provisions of section 7506a(a)(1) and (2) of this title shall apply with respect to the transport region established under this section and any other transport region established for ozone, except to the extent inconsistent with the provisions of this section. The Administrator shall convene the commission required (under section 7506a(b) of this title) as a result of the establishment of such region within 6 months of November 15, 1990.
 
 #### (b) Plan provisions for States in ozone transport regions
 
@@ -34,7 +34,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (4) Approval and disapproval
 
-&emsp;Within 9 months after the receipt date, the Administrator shall (A) determine whether to approve, disapprove, or partially disapprove and partially approve the recommendations; (B) notify the commission in writing of such approval, disapproval, or partial disapproval; and (C) publish such determination in the Federal Register. If the Administrator disapproves or partially disapproves the recommendations, the Administrator shall specify—
+&emsp;Within 9 months after the receipt date, the Administrator shall (A) determine whether to approve, disapprove, or partially disapprove and partially approve the recommendations; (B) notify the commission in writing of such approval, disapproval, or partial disapproval;and (C) publish such determination in the Federal Register. If the Administrator disapproves or partially disapproves the recommendations, the Administrator shall specify—
 
 &emsp;&emsp;(i) why any disapproved additional control measures are not necessary to bring any area in such region into attainment by the dates provided by this subpart or are otherwise not consistent with the <sup>2</sup> chapter; and
 
@@ -46,7 +46,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (d) Best available air quality monitoring and modeling
 
-For purposes of this section, not later than 6 months after November 15, 1990, the Administrator shall promulgate criteria for purposes of determining the contribution of sources in one area to concentrations of ozone in another area which is a nonattainment area for ozone. Suchcriteria shall require that the best available air quality monitoring and modeling techniques be used for purposes of making such determinations.
+For purposes of this section, not later than 6 months after November 15, 1990, the Administrator shall promulgate criteria for purposes of determining the contribution of sources in one area to concentrations of ozone in another area which is a nonattainment area for ozone. Such criteria shall require that the best available air quality monitoring and modeling techniques be used for purposes of making such determinations.
 
 (July 14, 1955, ch. 360, title I, §184, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2448.)
 

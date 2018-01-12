@@ -42,7 +42,7 @@ Any land that is subject to a unit agreement approved or prescribed by the Secre
 
 #### (e) Pooling of certain land
 
-If separate tracts of land cannot be independently developed and operated to use geothermalresources pursuant to any section of this chapter—
+If separate tracts of land cannot be independently developed and operated to use geothermal resources pursuant to any section of this chapter—
 
 &emsp;(1) the land, or a portion of the land, may be pooled with other land, whether or not owned by the United States, for purposes of development and operation under a communitization agreement providing for an apportionment of production or royalties among the separate tracts of land comprising the production unit, if the pooling is determined by the Secretary to be in the public interest; and
 

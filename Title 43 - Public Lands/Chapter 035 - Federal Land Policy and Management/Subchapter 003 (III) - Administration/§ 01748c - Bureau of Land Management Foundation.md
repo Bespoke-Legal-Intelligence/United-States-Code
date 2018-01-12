@@ -1,0 +1,332 @@
+### §1748c. Bureau of Land Management Foundation
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Board
+
+&emsp;The term "Board" means the Board of Directors of the Foundation established under subsection (c).
+
+#### (2) Foundation
+
+&emsp;The term "Foundation" means the Bureau of Land Management Foundation established by subsection (b)(1)(A).
+
+#### (3) Public land
+
+&emsp;The term "public land" has the meaning given the term "public lands" in section 1702 of this title.
+
+#### (4) Secretary
+
+&emsp;The term "Secretary" means the Secretary of the Interior.
+
+#### (5) Wild free-roaming horses and burros
+
+&emsp;The term "wild free-roaming horses and burros" has the meaning given the term in section 1332 of title 16.
+
+#### (b) Establishment and purposes
+
+#### (1) Establishment
+
+#### (A) In general
+
+&emsp;&emsp;There is established a foundation, to be known as the "Bureau of Land Management Foundation".
+
+#### (B) Limitation
+
+&emsp;&emsp;The Foundation shall not be considered to be an agency or establishment of the United States.
+
+#### (C) Tax exemption
+
+&emsp;&emsp;The Foundation shall be considered to be a charitable and nonprofit corporation under section 501(c)(3) of title 26.
+
+#### (2) Purposes
+
+&emsp;The purposes of the Foundation are—
+
+&emsp;&emsp;(A) to encourage, accept, and administer private gifts of money and real and personal property for the benefit of, or in connection with the activities and services of, the Bureau of Land Management;
+
+&emsp;&emsp;(B) to carry out activities that advance the purposes for which public land is administered;
+
+&emsp;&emsp;(C) to carry out and encourage educational, technical, scientific, and other assistance or activities that support the mission of the Bureau of Land Management; and
+
+&emsp;&emsp;(D) to assist the Bureau of Land Management with challenges that could be better addressed with the support of a foundation, including—
+
+&emsp;&emsp;&emsp;(i) reclamation and conservation activities;
+
+&emsp;&emsp;&emsp;(ii) activities relating to wild free-roaming horses and burros; and
+
+&emsp;&emsp;&emsp;(iii) the stewardship of cultural and archeological treasures on public land.
+
+#### (c) Board of Directors
+
+#### (1) Establishment
+
+#### (A) In general
+
+&emsp;&emsp;The Foundation shall be governed by a Board of Directors.
+
+#### (B) Composition
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Board shall consist of not more than 9 members.
+
+#### (ii) Ex-officio member
+
+&emsp;&emsp;&emsp;The Director of the Bureau of Land Management shall be an ex-officio, nonvoting member of the Board.
+
+#### (C) Requirements
+
+#### (i) Citizenship
+
+&emsp;&emsp;&emsp;A member appointed to the Board shall be a citizen of the United States.
+
+#### (ii) Expertise
+
+&emsp;&emsp;&emsp;A majority of members appointed to the Board shall have education or experience relating to natural, cultural, conservation, or other resource management, law, or research.
+
+#### (iii) Diverse points of view
+
+&emsp;&emsp;&emsp;To the maximum extent practicable, the members of the Board shall represent diverse points of view.
+
+#### (2) Date of initial appointment
+
+&emsp;Not later than 1 year after May 5, 2017, the Secretary shall appoint the initial members of the Board.
+
+#### (3) Terms
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), a member of the Board shall be appointed for a term of 6 years.
+
+#### (B) Initial appointments
+
+&emsp;&emsp;The Secretary shall stagger the initial appointments to the Board, as the Secretary determines to be appropriate, in a manner that ensures that—
+
+&emsp;&emsp;&emsp;(i) 1/3 of the members shall serve for a term of 2 years;
+
+&emsp;&emsp;&emsp;(ii) 1/3 of the members shall serve for a term of 4 years; and
+
+&emsp;&emsp;&emsp;(iii) 1/3 of the members shall serve for a term of 6 years.
+
+#### (C) Vacancies
+
+&emsp;&emsp;A vacancy on the Board shall be filled—
+
+&emsp;&emsp;&emsp;(i) not later than 60 days after the date of the vacancy;
+
+&emsp;&emsp;&emsp;(ii) in the manner in which the original appointment was made; and
+
+&emsp;&emsp;&emsp;(iii) for the remainder of the term of the member vacating the Board.
+
+#### (D) Removal for failure to attend meetings
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A member of the Board may be removed from the Board by a majority vote of the Board, if the individual fails to attend 3 consecutive regularly scheduled meetings of the Board.
+
+#### (ii) Requirements
+
+&emsp;&emsp;&emsp;A vacancy as the result of a removal under clause (i) shall be filled in accordance with subparagraph (C).
+
+#### (E) Limitation
+
+&emsp;&emsp;A member of the Board shall not serve more than 12 consecutive years on the Board.
+
+#### (4) Chairperson
+
+#### (A) In general
+
+&emsp;&emsp;The Board shall elect a Chairperson from among the members of the Board.
+
+#### (B) Term
+
+&emsp;&emsp;The Chairperson of the Board—
+
+&emsp;&emsp;&emsp;(i) shall serve as Chairperson for a 2-year term; and
+
+&emsp;&emsp;&emsp;(ii) may be reelected as Chairperson while serving as a member of the Board.
+
+#### (5) Quorum
+
+&emsp;A majority of the voting members of the Board shall constitute a quorum for the transaction of business of the Board.
+
+#### (6) Meetings
+
+&emsp;The Board shall meet—
+
+&emsp;&emsp;(A) at the call of the Chairperson; but
+
+&emsp;&emsp;(B) not less than once each calendar year.
+
+#### (7) Reimbursement of expenses
+
+#### (A) In general
+
+&emsp;&emsp;Serving as a member of the Board shall not constitute employment by the Federal Government for any purpose.
+
+#### (B) Reimbursement
+
+&emsp;&emsp;A member of the Board shall serve without pay, other than reimbursement for the actual and necessary traveling and subsistence expenses incurred in the performance of the duties of the member for the Foundation, in accordance with section 5703 of title 5.
+
+#### (8) General powers
+
+&emsp;The Board may—
+
+&emsp;&emsp;(A) appoint officers and employees in accordance with paragraph (9);
+
+&emsp;&emsp;(B) adopt a constitution and bylaws consistent with the purposes of the Foundation and this section; and
+
+&emsp;&emsp;(C) carry out any other activities that may be necessary to function and to carry out this section.
+
+#### (9) Officers and employees
+
+#### (A) In general
+
+&emsp;&emsp;No officer or employee may be appointed to the Foundation until the date on which the Board determines that the Foundationhas sufficient funds to pay for the service of the officer or employee.
+
+#### (B) Limitation
+
+&emsp;&emsp;Appointment as an officer or employee of the Foundation shall not constitute employment by the Federal Government.
+
+#### (10) Limitation and conflicts of interest
+
+#### (A) Prohibition on political activity
+
+&emsp;&emsp;The Foundation shall not participate or intervene in a political campaign on behalf of any candidate for public office.
+
+#### (B) Limitation on participation
+
+&emsp;&emsp;No member of the Board or officer or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any question before the Foundation that affects—
+
+&emsp;&emsp;&emsp;(i) the financial interests of the member of the Board, officer, or employee; or
+
+&emsp;&emsp;&emsp;(ii) the interests of any corporation partnership, entity, or organization in which the member of the Board, officer, or employee—
+
+&emsp;&emsp;&emsp;&emsp;(I) is an officer, director, or trustee; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has any direct or indirect financial interest.
+
+#### (d) Powers and obligations
+
+#### (1) In general
+
+&emsp;The Foundation—
+
+&emsp;&emsp;(A) shall have perpetual succession; and
+
+&emsp;&emsp;(B) may conduct business throughout the several States, territories, and possessions of the United States.
+
+#### (2) Notice; service of process
+
+#### (A) Designated agent
+
+&emsp;&emsp;The Foundation shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
+
+#### (B) Service of process
+
+&emsp;&emsp;The serving of notice to, or service of process on, the agent required under this paragraph, or mailed to the business address of the agent, shall be deemed to be notice to, or the service of process on, the Foundation.
+
+#### (3) Seal
+
+&emsp;The Foundation shall have an official seal, to be selected by the Board, which shall be judicially noticed.
+
+#### (4) Powers
+
+&emsp;To carry out the purposes of the Foundation, the Foundation shall have, in addition to powers otherwise authorized by this section, the usual powers of a not-for-profit corporation in the District of Columbia, including the power—
+
+&emsp;&emsp;(A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, absolutely or in trust, of real or personal property, or any income from, or other interest in, the property;
+
+&emsp;&emsp;(B) to acquire by donation, gift, devise, purchase, or exchange, and to dispose of, any real or personal property or interest in the property;
+
+&emsp;&emsp;(C) to sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income from property, unless limited by the instrument of transfer;
+
+&emsp;&emsp;(D) to borrow money and issue bonds, debentures, or other debt instruments;
+
+&emsp;&emsp;(E) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the members of the Board shall not be held personally liable, except in a case of gross negligence;
+
+&emsp;&emsp;(F)(i) to enter into contracts or other agreements with public agencies, private organizations, and persons; and
+
+&emsp;&emsp;(ii) to make such payments as may be necessary to carry out the purposes of the contracts or agreements; and
+
+&emsp;&emsp;(G) to carry out any activity necessary and proper to advance the purposes of the Foundation.
+
+#### (5) Real property
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, an interest in real property shall include mineral and water rights, rights-of-way, and easements, appurtenant or in gross.
+
+#### (B) Acceptance
+
+&emsp;&emsp;A gift, devise, or bequest of real property may be accepted by the Foundation, regardless of whether the property is encumbered, restricted, or subject to beneficial interests of a private person, if any current or future interest in the property is for the benefit of the Foundation.
+
+#### (C) Declining gifts
+
+&emsp;&emsp;The Foundation may, at the discretion of the Foundation, decline any gift, devise, or bequest of real property.
+
+#### (D) Prohibition on condemnation
+
+&emsp;&emsp;No land, water, or interest in land or water, that is owned by the Foundation shall be subject to condemnation by any State, political subdivision of a State, or agent or instrumentality of a State or political subdivision of a State.
+
+#### (e) Administrative services and support
+
+#### (1) Funding
+
+#### (A) In general
+
+&emsp;&emsp;For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other expenses, the Secretary may provide to the Foundation, from funds appropriated under subsection (j), such sums as are necessary for fiscal years 2017 and 2018.
+
+#### (B) Availability of funds
+
+&emsp;&emsp;Funds made available under subparagraph (A) shall remain available to the Foundation until expended for authorized purposes.
+
+#### (2) Administrative expenses
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may provide to the Foundation personnel, facilities, equipment, and other administrative services, subject to such limitations, terms, and conditions as the Secretary may establish.
+
+#### (B) Reimbursement
+
+&emsp;&emsp;The Foundation may reimburse the Secretary for any support provided under subparagraph (A), in whole or in part, and any reimbursement received by the Secretary under this subparagraph shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
+
+#### (f) Volunteers
+
+The Secretary may accept, without regard to the civil service classification laws (including regulations), the services of the Foundation, the Board, and the officers, employees, and agents of the Foundation, without compensation from the Department of the Interior, as volunteers for the performance of the functions under section 1737(d) of this title.
+
+#### (g) Audits and report requirements
+
+#### (1) Audits
+
+&emsp;For purposes of section 10101 of title 36, the Foundation shall be considered to be a private corporation established under Federal law.
+
+#### (2) Annual reports
+
+&emsp;At the end of each fiscal year, the Board shall submit to Congress a report that describes the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of the receipts, expenditures, and investments.
+
+#### (h) United States release from liability
+
+#### (1) In general
+
+&emsp;The United States shall not be liable for any debt, default, act, or omission of the Foundation.
+
+#### (2) Full faith and credit
+
+&emsp;The full faith and credit of the United States shall not extend to any obligation of the Foundation.
+
+#### (i) Limitation on authority
+
+Nothing in this section authorizes the Foundation to perform any function the authority for which is provided to the Bureau of Land Management under any other provision of law.
+
+#### (j) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(Pub. L. 115–31, div. G, title I, §122, May 5, 2017, 131 Stat. 463.)
+
+#### Codification
+
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+

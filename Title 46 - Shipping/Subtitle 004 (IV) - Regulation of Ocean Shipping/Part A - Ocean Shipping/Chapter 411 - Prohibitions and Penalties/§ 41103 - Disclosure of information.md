@@ -62,7 +62,7 @@ In subsection (a), the words "marine terminal operator, or ocean freight forward
 
 In subsection (b), the words "does not prevent" are substituted for "Nothing . . . shall be construed to prevent" to eliminate unnecessary words.
 
-In subsection (c)(1), the words "may give information" are substituted for "Nor shall it be prohibited . . . to give information" to eliminate unnecessary words. The words "firm, corporation" are omitted as unnecessary because firms and corporations are persons.
+In subsection (c)(1), the words "may give information" are substituted for "Nor shall it be prohibited. . . to give information" to eliminate unnecessary words. The words "firm, corporation" are omitted as unnecessary because firms and corporations are persons.
 
 In subsection (c)(2), the words "may not prevent" are substituted for "Nor shall it be prohibited . . . to prevent" to reflect the probable intent of Congress. The words "but the use of such information for any other purpose prohibited by this chapter or any other Act is prohibited" are omitted as unnecessary.
 

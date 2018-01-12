@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation tobe known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
+The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation to be known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -228,7 +228,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendmentsmade by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
 
 #### (9) Limitation of activities
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of theFoundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of the Foundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted "an individual to serve as the initial Chair" for "an appointed member of the Board to serve as the Chair", and added subpar. (B).
 
@@ -388,7 +388,7 @@ Subsec. (i). Pub. L. 103–43, §1701(2), redesignated subsec. (g) as (i). Forme
 
 Subsec. (i)(4). Pub. L. 103–43, §1701(5)(A), inserted before period at end ", and define the duties of the officers and employees".
 
-Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
+Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
 
 &emsp;"(A) its officers, employees, and agents are selected;
 

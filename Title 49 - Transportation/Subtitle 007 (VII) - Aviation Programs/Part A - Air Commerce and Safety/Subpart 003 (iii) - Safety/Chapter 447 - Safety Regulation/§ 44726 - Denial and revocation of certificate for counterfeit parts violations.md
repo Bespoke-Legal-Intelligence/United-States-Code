@@ -32,7 +32,7 @@ In general.—Except as provided in subsections (f) and (g), the Administrator s
 
 &emsp;(2)
 
-No authority to review violation.—In carrying out paragraph (1), the Administrator may not review whether a person violated a law described in paragraph (1)(A).
+No authority to review violation.—In carrying out paragraph (1), the Administratormay not review whether a person violated a law described in paragraph (1)(A).
 
 (c)
 

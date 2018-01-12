@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The running of the period of limitations provided in section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a)).<sup>1</sup> on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+&emsp;The running of the period of limitations provided in section 6501 or 6502.<sup>1</sup> on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (2) Corporation joining in consolidated income tax return
 
@@ -116,10 +116,6 @@ The running of any period of limitations for collection of any amount of undistr
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719,title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201; Pub. L. 114–74, title XI, §1101(f)(4), Nov. 2, 2015, 129 Stat. 638.)
 
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 114–74, title XI, §1101(f)(4), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, subsection (a)(1) of this section is amended by striking "(or section 6229" and all that follows through "of section 6230(a))". See 2015 Amendment note below.</i>
-
 #### Codification
 
 Pub. L. 94–452, §3(b), redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to extension of time for collecting certain taxes.
@@ -160,7 +156,7 @@ Subsec. (l). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection re
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (l) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
-<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) "Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970" which read as follows: "The running of the period of limitations for collection of thetax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax."
+<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) "Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970" which read as follows: "The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax."
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
@@ -240,7 +236,7 @@ Subsec. (h). Pub. L. 89–719, §106(c), redesignated former subsec. (g) as (h).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -248,7 +244,7 @@ Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007,
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1237(d) of Pub. L. 105–34, set out as a note under section 6230 of this title.
+Pub. L. 105–34, title XII, §1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: "The amendments made by this section \[amending this section and section 6230 of this title\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pu b. L. 97–248\]."
 
 #### Effective Date of 1996 Amendments
 
@@ -258,7 +254,7 @@ Pub. L. 104–168, title X, §1002(d), July 30, 1996, 110 Stat. 1468, provided t
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11311(b), Nov. 5, 1990, 104 Stat. 1388–453, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the period prescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment."
+Pub. L. 101–508, title XI, §11311(b), Nov. 5, 1990, 104 Stat. 1388–453, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the periodprescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment."
 
 #### Effective Date of 1987 Amendment
 
@@ -268,7 +264,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1235(d) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
-Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6230 of this title.
+Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6213 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -332,11 +328,11 @@ For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 1
 
 #### Annual Report to Congress Concerning Designated Summonses
 
-Pub. L. 104–168, title X, §1003, July 30, 1996, 110 Stat. 1468, provided that: "Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months."
+Pub. L. 104–168, title X, §1003, July 30, 1996, 110 Stat. 1468, provided that: "Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Application of Prior Amendments
 

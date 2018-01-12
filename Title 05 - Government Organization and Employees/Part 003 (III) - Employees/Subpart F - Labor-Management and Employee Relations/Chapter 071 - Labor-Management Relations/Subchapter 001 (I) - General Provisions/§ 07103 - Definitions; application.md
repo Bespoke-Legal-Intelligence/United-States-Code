@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(ii) any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment;
 
-&emsp;(10) "supervisor" means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term "supervisor" includes only those individuals who devote a preponderance of their employment time to exercising such authority;
+&emsp;(10) "supervisor" means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign,promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term "supervisor" includes only those individuals who devote a preponderance of their employment time to exercising such authority;
 
 &emsp;(11) "management official" means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
@@ -176,7 +176,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -208,77 +208,135 @@ Exclusions
 
 1–204. Agencies or subdivisions of the Department of the Army, Department of Defense:
 
-(a) Office of Assistant Chief of Staff for Intelligence.
+(a) Office of the Deputy Chief of Staff, G–2 (Intelligence), and all G–2 Intelligence offices within Army Commands, Army Service Component Commands, and Direct Reporting Units.
 
-(b) U.S. Army Intelligence and Security Command.
+(b) United States Army Intelligence and Security Command.
 
-(c) U.S. Army Foreign Science and Technology Center.
+(c) The following subdivisions of the United States Army Cyber Command (ARCYBER) and Second Army:
 
-(d) U.S. Army Intelligence Center and School.
+(1) Headquarters, United States ARCYBER and Second Army.
 
-(e) U.S. Army Missile Intelligence Agency.
+(2) Joint Forces Headquarters—Cyber.
 
-(f) Foreign Intelligence Office, U.S. Army Missile Research and Development Command.
+(3) Army Cyber Operations and Integration Center.
+
+(d) United States Army Intelligence Center of Excellence (USAICoE), United States Army Training and Doctrine Command (TRADOC).
+
+(e) United States Army Cyber Protection Brigade, United States Army Network Enterprise Technology Command.
+
+(f) 114th Signal Battalion, 21st Signal Brigade, United States Army Network Enterprise Technology Command.
+
+(g) 302nd Signal Battalion, 21st Signal Brigade, United States Army Network Enterprise Technology Command.
+
+(h) United States Army Criminal Investigation Command (USACIDC).
+
+(i) United States Army Special Operations Command (USASOC).
+
+(j) Rapid Equipping Force (REF), United States Army Training and Doctrine Command (TRADOC).
+
+(k) Asymmetric Warfare Group (AWG), United States Army Training and Doctrine Command (TRADOC).
 
 1–205. Agencies or subdivisions of the Department of the Navy, Department of Defense:
 
-(a) Office of Naval Intelligence.
+(a) Office of the Director of Naval Intelligence, and all Intelligence offices within Navy Commands, Navy Service Component Commands, and Direct Reporting Units, including the following:
 
-(b) Naval Intelligence Command Headquarters and Subordinate Commands.
+&emsp;(1) Naval Intelligence Activity.
 
-(c) Headquarters, Naval Security Group Command.
+&emsp;(2) Office of Naval Intelligence.
 
-(d) Naval Security Group Activities and Detachments.
+&emsp;(3) Farragut Technical Analysis Center.
 
-(e) Fleet Intelligence Center, Europe and Atlantic (FICEURLANT).
+&emsp;(4) Nimitz Operational Intelligence Center.
 
-(f) Fleet Intelligence Center, Pacific (FICPAC).
+&emsp;(5) Hopper Information Services Center.
 
-(g) Units composed primarily of employees engaged in the operation, repair, and/or maintenance of "off line" or "on line" cryptographic equipment.
+&emsp;(6) Kennedy Irregular Warfare Center.
 
-(h) Units composed primarily of employees of naval telecommunications activities in positions which require a cryptographic authorization.
+&emsp;(7) Brooks Center for Maritime Engagement.
 
-(i) Naval Special Warfare Development Group.
+(b) Naval Criminal Investigative Service.
+
+(c) United States Fleet Cyber Command.
+
+(d) Headquarters, Marine Corps Intelligence Department and subordinate activities, United States Marine Corps.
+
+(e) Marine Forces Cyber Command, United States Marine Corps.
+
+(f) Naval Computer and Telecommunications Station, San Diego, Detachment, Naval Strategic Communications Unit, Tinker Air Force Base.
+
+(g) Naval Information Force Reserve, Navy Reserve Force.
+
+(h) Center for Information Warfare Training, Naval Education and Training Command.
+
+(i) Naval Special Warfare Command (NSW).
+
+(j) Marine Special Operations Command (MARSOC).
+
+(k) Navy Information Operations Commands and Detachments.
+
+(l) Naval Communications Security Material System.
 
 1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 
-(a) Office of Space Systems, Office of the Secretary of the Air Force.
+(a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
 
-(b) Office of Special Projects, Office of the Secretary of the Air Force.
+&emsp;(1) 67th Cyberspace Wing.
 
-(c) Engineering Office, Space and Missile Systems Organization (Air Force Systems Command).
+&emsp;(2) 624th Operations Center.
 
-(d) Program Control Office, Space and Missile Systems Organization (Air Force Systems Command).
+&emsp;(3) The following subdivisions of the 688th Cyberspace Operations Wing:
 
-(e) Detachment 3, Space and Missile Systems Organization (Air Force Systems Command).
+&emsp;(A) 318th Cyberspace Operations Group.
 
-(f) Defense Dissemination Systems Program Office, Space and Missile Systems Organization (Air Force Systems Command).
+&emsp;(B) 688th Cyberspace Operations Group.
 
-(g) Satellite Data System Program Office, Space and Missile Systems Organization (Air Force Systems Command).
+&emsp;(4) 5th Combat Communications Group.
 
-(h) Project Office at El Segundo, California, Office of the Secretary of the Air Force.
+(b) Headquarters, 25th Air Force, Air Combat Command, and the following wings, groups, and elements under the operational control of the 25th Air Force:
 
-(i) Project Office at Patrick Air Force Base, Florida, Office of the Secretary of the Air Force.
+&emsp;(1) 70th Intelligence, Surveillance and Reconnaissance Wing.
 
-(j) Project Office at Fort Myer, Virginia, Office of the Secretary of the Air Force.
+&emsp;(2) 363rd Intelligence, Surveillance and Reconnaissance Wing.
 
-(k) Air Force Office of Special Investigations.
+&emsp;(3) 480th Intelligence, Surveillance and Reconnaissance Wing.
 
-(l) U.S. Air Force Security Service.
+&emsp;(4) 625th Operations Center.
 
-(m) Foreign Technology Division, Air Force Systems Command, Wright-Patterson Air Force Base.
+&emsp;(5) The following subdivisions of the 9th Reconnaissance Wing:
 
-(n) 1035 Technical Operations Group (Air Force Technical Applications Center), Air Force Systems Command, and subordinate units.
+&emsp;(A) 9th Operations Group.
 
-(o) 3480 Technical Training Wing, Air Training Command, Goodfellow Air Force Base, Texas.
+&emsp;(B) 69th Reconnaissance Group.
 
-(p) Office of the Assistant Chief of Staff, Intelligence.
+&emsp;(6) 55th Operations Group, 55th Wing.
 
-(q) Air Force Intelligence Service.
+(c) Air Force Technical Applications Center (AFTAC), 25th Air Force, Air Combat Command.
 
-1–207. The Defense Intelligence Agency, Department of Defense.
+(d) Office of the Deputy Chief of Staff, Intelligence, Surveillance and Reconnaissance (A2), Headquarters, United States Air Force, and all A2 staff within Air Force Commands, Air Force Service Component Commands, Field Operating Agencies, and Direct Reporting Units.
 
-1–208. The Defense Investigative Service, Department of Defense.
+(e) National Air and Space Intelligence Center and all elements under its operational control.
+
+(f) Air Force Special Operations Command (AFSOC), with the exception of the following subdivisions:
+
+&emsp;(1) The following groups of the 1st Special Operations Wing, Hurlburt Field, Florida:
+
+&emsp;(A) Mission Support Group.
+
+&emsp;(B) Medical Group.
+
+&emsp;(2) The following groups of the 27th Special Operations Wing, Cannon Air Force Base, New Mexico:
+
+&emsp;(A) Mission Support Group.
+
+&emsp;(B) Medical Group.
+
+(g) Air Force Office of Special Investigations.
+
+(h) 17th Training Wing, Air Education and Training Command, Goodfellow Air Force Base, Texas.
+
+1–207. Defense Intelligence Agency, Department of Defense.
+
+1–208. Defense Security Service, Department of Defense.
 
 1–209. Agencies or subdivisions of the Department of Justice:
 
@@ -320,51 +378,85 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (d) The Office of the Area Auditor General/Washington.
 
-1–212. Agencies or subdivisions under the operational jurisdiction of the Joint Chiefs of Staff (JCS).
+1–212. Agencies or subdivisions under the authority of the Chairman of the Joint Chiefs of Staff and the Commanders of the Combatant Commands, Department of Defense.
 
-(a) Intelligence Division (J–2), Headquarters Atlantic Command (LANTCOM).
+(a) Office of the Chairman of the Joint Chiefs of Staff (OCJCS) and the Joint Staff.
 
-(b) Atlantic Command Electronic Intelligence Center.
+(b) United States Africa Command (USAFRICOM).
 
-(c) Intelligence Directorate (J–2), Headquarters U.S. European Command (USEUCOM).
+(c) United States Central Command (USCENTCOM).
 
-(d) Special Security Office (SSO), Headquarters U.S. European Command (USEUCOM).
+(d) United States European Command (USEUCOM).
 
-(e) European Defense Analysis Center (EUDAC).
+(e) United States Pacific Command (USPACOM).
 
-(f) Intelligence Directorate (J–2), Headquarters Pacific Command (PACOM).
+(f) United States Southern Command (USSOUTHCOM).
 
-(g) Intelligence Center Pacific (IPAC).
+(g) North American Aerospace Defense Command (NORAD).
 
-(h) Intelligence Directorate (J–2), Headquarters U.S. Southern Command (USSOUTHCOM).
+(h) United States Northern Command (USNORTHCOM).
 
-(i) Intelligence Directorate (J–2), Headquarters U.S. Readiness Command (USREDCOM)/Joint Deployment Agency.
+(i) Headquarters, United States Transportation Command (USTRANSCOM), and its subordinate command, the Joint Enabling Capabilities Command.
 
-(j) Deputy Chief of Staff/Intelligence, Headquarters Strategic Air Command (SAC).
+(j) United States Strategic Command (USSTRATCOM) and all components, centers, or sub-unified commands currently assigned to USSTRATCOM, including the following:
 
-(k) 544th Strategic Intelligence Wing, Strategic Air Command (SAC).
+&emsp;(1) United States Cyber Command (USCYBERCOM).
 
-(l) Deputy Chief of Staff/Intelligence, Headquarters 15th Air Force, Strategic Air Command (SAC).
+&emsp;(2) Joint Functional Component Command—Global Strike (JFCC GS).
 
-(m) Deputy Chief of Staff/Intelligence, Headquarters 8th Air Force, Strategic Air Command (SAC).
+&emsp;(3) Joint Functional Component Command—Space (JFCC Space).
 
-(n) Strategic Reconnaissance Center, Headquarters Strategic Air Command (SAC).
+&emsp;(4) Joint Functional Component Command—Integrated Missile Defense (JFCC IMD).
 
-(o) 6th Strategic Wing, Strategic Air Command (SAC).
+&emsp;(5) Joint Functional Component Command—Intelligence, Surveillance and Reconnaissance (JFCC ISR).
 
-(p) 9th Strategic Reconnaissance Wing, Strategic Air Command (SAC).
+&emsp;(6) USSTRATCOM Center for Combating Weapons of Mass Destruction (SCC WMD).
 
-(q) 55th Strategic Reconnaissance Wing, Strategic Air Command (SAC).
+&emsp;(7) Standing Joint Force Headquarters for Elimination (SJFHQ–E).
 
-(r) 306th Strategic Wing, Strategic Air Command (SAC).
+&emsp;(8) Joint Warfare Analysis Center (JWAC).
 
-(s) 376th Strategic Wing, Strategic Air Command (SAC).
+(k) United States Special Operations Command (USSOCOM) and all components and sub-unified commands under its administrative and operational control, including the following:
 
-(t) Deputy Chief of Staff/Operations Plans, Headquarters Strategic Air Command (SAC).
+&emsp;(1) Components:
 
-(u) The Joint Strategic Target Planning Staff (JSTPS).
+&emsp;(A) Marine Special Operations Command (MARSOC).
 
-(v) The Joint Special Operations Command (JSOC) and all elements under its operational control.
+&emsp;(B) Naval Special Warfare Command (NSW).
+
+&emsp;(C) Air Force Special Operations Command (AFSOC), with the exception of the following subdivisions:
+
+&emsp;&emsp;(i) The following groups of the 1st Special Operations Wing, Hurlburt Field, Florida:
+
+&emsp;&emsp;(I) Mission Support Group.
+
+&emsp;&emsp;(II) Medical Group.
+
+&emsp;&emsp;(ii) The following groups of the 27th Special Operations Wing, Cannon Air Force Base, New Mexico:
+
+&emsp;&emsp;(I) Mission Support Group.
+
+&emsp;&emsp;(II) Medical Group.
+
+&emsp;(D) United States Army Special Operations Command (USASOC).
+
+&emsp;(2) Sub-unified Commands:
+
+&emsp;(A) Joint Special Operations Command (JSOC).
+
+&emsp;(B) Special Operations Command Korea (SOCKOR).
+
+&emsp;(C) Special Operations Command Europe (SOCEUR).
+
+&emsp;(D) Special Operations Command South (SOCSOUTH).
+
+&emsp;(E) Special Operations Command Pacific (SOCPAC).
+
+&emsp;(F) Special Operations Command Africa (SOCAFRICA).
+
+&emsp;(G) Special Operations Command Central (SOCCENT).
+
+&emsp;(H) Special Operations Command North (SOCNORTH).
 
 1–213. The following subdivision of the Federal Aviation Administration (FAA), Department of Transportation: National Security Coordination Division, Office of Emergency Operations and Investigations, FAA Office of Security and Hazardous Materials.
 
@@ -436,7 +528,7 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (C) The Alternate FEMA Operations Center.
 
-1–215. The Defense Mapping Agency Reston Center, Department of Defense.
+Sec. 1–215. National Geospatial-Intelligence Agency (NGA), Department of Defense.
 
 1–216. Agencies or subdivisions of the Office of Personnel Management:
 
@@ -447,6 +539,32 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 (c) Units with a primary Suitability Executive Agent mission, including adjudicating suitability investigations and conducting related policy, advisory services, operations support, and agency oversight.
 
 (d) Units with a primary mission of engineering, information technology, and cybersecurity support for personnel background investigations and adjudications.
+
+1–217. Defense Advanced Research Projects Agency, Department of Defense.
+
+1–218. National Reconnaissance Office, Department of Defense.
+
+1–219. Office of the Under Secretary of Defense for Intelligence, Department of Defense.
+
+1–220. Field Detachment, Defense Contract Audit Agency, Department of Defense.
+
+1–221. Special Programs Directorate, Defense Contract Management Agency, Department of Defense.
+
+1–222. The following subdivisions of the Defense Information Systems Agency, Department of Defense:
+
+(a) Joint Force Headquarters—Department of Defense Information Networks.
+
+(b) White House Communications Agency.
+
+1–223. The following subdivisions of the Defense Logistics Agency, Department of Defense:
+
+(a) Defense Logistics Agency Intelligence.
+
+(b) Joint Logistics Operations Center.
+
+(c) Computer Emergency Response Team and Incident Response Branch.
+
+1–224. Strategic Capabilities Office, Department of Defense.
 
 #### 1–3.
 
@@ -462,7 +580,7 @@ States and the District of Columbia
 
 Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and havingdetermined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
@@ -517,6 +635,284 @@ Sec. 2. <i>Amendment of Executive Order 12171</i>. Executive Order 12171 of Nove
 \["\](g) Office of Intelligence Policy and Review."
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13760. Exclusions From the Federal Labor-Management Relations Program
+
+Ex. Ord. No. 13760, Jan. 12, 2017, 82 F.R. 5325, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7103(b)(1) of title 5, United States Code, and in order to reflect the effects of the reorganization and restructuring of the Department of Defense on its agencies and subdivisions exempted from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+
+Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
+
+Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979, as amended, is further amended by:
+
+(a) revising section 1–204 to read as follows:
+
+"1–204. Agencies or subdivisions of the Department of the Army, Department of Defense:
+
+\["\](a) Office of the Deputy Chief of Staff, G–2 (Intelligence), and all G–2 Intelligence offices within Army Commands, Army Service Component Commands, and Direct Reporting Units.
+
+\["\](b) United States Army Intelligence and Security Command.
+
+\["\](c) The following subdivisions of the United States Army Cyber Command (ARCYBER) and Second Army:
+
+&emsp;\["\](1) Headquarters, United States ARCYBER and Second Army.
+
+&emsp;\["\](2) Joint Forces Headquarters—Cyber.
+
+&emsp;\["\](3) Army Cyber Operations and Integration Center.
+
+\["\](d) United States Army Intelligence Center of Excellence (USAICoE), United States Army Training and Doctrine Command (TRADOC).
+
+\["\](e) United States Army Cyber Protection Brigade, United States Army Network Enterprise Technology Command.
+
+\["\](f) 114th Signal Battalion, 21st Signal Brigade, United States Army Network Enterprise Technology Command.
+
+\["\](g) 302nd Signal Battalion, 21st Signal Brigade, United States Army Network Enterprise Technology Command.
+
+\["\](h) United States Army Criminal Investigation Command (USACIDC).
+
+\["\](i) United States Army Special Operations Command (USASOC).
+
+\["\](j) Rapid Equipping Force (REF), United States Army Training and Doctrine Command (TRADOC).
+
+\["\](k) Asymmetric Warfare Group (AWG), United States Army Training and Doctrine Command (TRADOC).";
+
+(b) revising section 1–205 to read as follows:
+
+"1–205. Agencies or subdivisions of the Department of the Navy, Department of Defense:
+
+\["\](a) Office of the Director of Naval Intelligence, and all Intelligence offices within Navy Commands, Navy Service Component Commands, and Direct Reporting Units, including the following:
+
+&emsp;\["\](1) Naval Intelligence Activity.
+
+&emsp;\["\](2) Office of Naval Intelligence.
+
+&emsp;\["\](3) Farragut Technical Analysis Center.
+
+&emsp;\["\](4) Nimitz Operational Intelligence Center.
+
+&emsp;\["\](5) Hopper Information Services Center.
+
+&emsp;\["\](6) Kennedy Irregular Warfare Center.
+
+&emsp;\["\](7) Brooks Center for Maritime Engagement.
+
+\["\](b) Naval Criminal Investigative Service.
+
+\["\](c) United States Fleet Cyber Command.
+
+\["\](d) Headquarters, Marine Corps Intelligence Department and subordinate activities, United States Marine Corps.
+
+\["\](e) Marine Forces Cyber Command, United States Marine Corps.
+
+\["\](f) Naval Computer and Telecommunications Station, San Diego, Detachment, Naval Strategic Communications Unit, Tinker Air Force Base.
+
+\["\](g) Naval Information Force Reserve, Navy Reserve Force.
+
+\["\](h) Center for Information Warfare Training, Naval Education and Training Command.
+
+\["\](i) Naval Special Warfare Command (NSW).
+
+\["\](j) Marine Special Operations Command (MARSOC).
+
+\["\](k) Navy Information Operations Commands and Detachments.
+
+\["\](l) Naval Communications Security Material System.";
+
+(c) revising section 1–206 to read as follows:
+
+"1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
+
+\["\](a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
+
+&emsp;\["\](1) 67th Cyberspace Wing.
+
+&emsp;\["\](2) 624th Operations Center.
+
+&emsp;\["\](3) The following subdivisions of the 688th Cyberspace Operations Wing:
+
+&emsp;\["\](A) 318th Cyberspace Operations Group.
+
+&emsp;\["\](B) 688th Cyberspace Operations Group.
+
+&emsp;\["\](4) 5th Combat Communications Group.
+
+\["\](b) Headquarters, 25th Air Force, Air Combat Command, and the following wings, groups, and elements under the operational control of the 25th Air Force:
+
+&emsp;\["\](1) 70th Intelligence, Surveillance and Reconnaissance Wing.
+
+&emsp;\["\](2) 363rd Intelligence, Surveillance and Reconnaissance Wing.
+
+&emsp;\["\](3) 480th Intelligence, Surveillance and Reconnaissance Wing.
+
+&emsp;\["\](4) 625th Operations Center.
+
+&emsp;\["\](5) The following subdivisions of the 9th Reconnaissance Wing:
+
+&emsp;\["\](A) 9th Operations Group.
+
+&emsp;\["\](B) 69th Reconnaissance Group.
+
+&emsp;\["\](6) 55th Operations Group, 55th Wing.
+
+\["\](c) Air Force Technical Applications Center (AFTAC), 25th Air Force, Air Combat Command.
+
+\["\](d) Office of the Deputy Chief of Staff, Intelligence, Surveillance and Reconnaissance (A2), Headquarters, United States Air Force, and all A2 staff within Air Force Commands, Air Force Service Component Commands, Field Operating Agencies, and Direct Reporting Units.
+
+\["\](e) National Air and Space Intelligence Center and all elements under its operational control.
+
+\["\](f) Air Force Special Operations Command (AFSOC), with the exception of the following subdivisions:
+
+&emsp;\["\](1) The following groups of the 1st Special Operations Wing, Hurlburt Field, Florida:
+
+&emsp;\["\](A) Mission Support Group.
+
+&emsp;\["\](B) Medical Group.
+
+&emsp;\["\](2) The following groups of the 27th Special Operations Wing, Cannon Air Force Base, New Mexico:
+
+&emsp;\["\](A) Mission Support Group.
+
+&emsp;\["\](B) Medical Group.
+
+\["\](g) Air Force Office of Special Investigations.
+
+\["\](h) 17th Training Wing, Air Education and Training Command, Goodfellow Air Force Base, Texas.";
+
+(d) revising section 1–207 to read as follows:
+
+"1–207. Defense Intelligence Agency, Department of Defense.";
+
+(e) revising section 1–208 to read as follows:
+
+"1–208. Defense Security Service, Department of Defense.";
+
+(f) revising section 1–212 to read as follows:
+
+"1–212. Agencies or subdivisions under the authority of the Chairman of the Joint Chiefs of Staff and the Commanders of the Combatant Commands, Department of Defense.
+
+\["\](a) Office of the Chairman of the Joint Chiefs of Staff (OCJCS) and the Joint Staff.
+
+\["\](b) United States Africa Command (USAFRICOM).
+
+\["\](c) United States Central Command (USCENTCOM).
+
+\["\](d) United States European Command (USEUCOM).
+
+\["\](e) United States Pacific Command (USPACOM).
+
+\["\](f) United States Southern Command (USSOUTHCOM).
+
+\["\](g) North American Aerospace Defense Command (NORAD).
+
+\["\](h) United States Northern Command (USNORTHCOM).
+
+\["\](i) Headquarters, United States Transportation Command (USTRANSCOM), and its subordinate command, the Joint Enabling Capabilities Command.
+
+\["\](j) United States Strategic Command (USSTRATCOM) and all components, centers, or sub-unified commands currently assigned to USSTRATCOM, including the following:
+
+&emsp;\["\](1) United States Cyber Command (USCYBERCOM).
+
+&emsp;\["\](2) Joint Functional Component Command—Global Strike (JFCC GS).
+
+&emsp;\["\](3) Joint Functional Component Command—Space (JFCC Space).
+
+&emsp;\["\](4) Joint Functional Component Command—Integrated Missile Defense (JFCC IMD).
+
+&emsp;\["\](5) Joint Functional Component Command—Intelligence, Surveillance and Reconnaissance (JFCC ISR).
+
+&emsp;\["\](6) USSTRATCOM Center for Combating Weapons of Mass Destruction (SCC WMD).
+
+&emsp;\["\](7) Standing Joint Force Headquarters for Elimination (SJFHQ–E).
+
+&emsp;\["\](8) Joint Warfare Analysis Center (JWAC).
+
+\["\](k) United States Special Operations Command (USSOCOM) and all components and sub-unified commands under its administrative and operational control, including the following:
+
+&emsp;\["\](1) Components:
+
+&emsp;\["\](A) Marine Special Operations Command (MARSOC).
+
+&emsp;\["\](B) Naval Special Warfare Command (NSW).
+
+&emsp;\["\](C) Air Force Special Operations Command (AFSOC), with the exception of the following subdivisions:
+
+&emsp;&emsp;\["\](i) The following groups of the 1st Special Operations Wing, Hurlburt Field, Florida:
+
+&emsp;&emsp;\["\](I) Mission Support Group.
+
+&emsp;&emsp;\["\](II) Medical Group.
+
+&emsp;&emsp;\["\](ii) The following groups of the 27th Special Operations Wing, Cannon Air Force Base, New Mexico:
+
+&emsp;&emsp;\["\](I) Mission Support Group.
+
+&emsp;&emsp;\["\](II) Medical Group.
+
+&emsp;\["\](D) United States Army Special Operations Command (USASOC).
+
+&emsp;\["\](2) Sub-unified Commands:
+
+&emsp;\["\](A) Joint Special Operations Command (JSOC).
+
+&emsp;\["\](B) Special Operations Command Korea (SOCKOR).
+
+&emsp;\["\](C) Special Operations Command Europe (SOCEUR).
+
+&emsp;\["\](D) Special Operations Command South (SOCSOUTH).
+
+&emsp;\["\](E) Special Operations Command Pacific (SOCPAC).
+
+&emsp;\["\](F) Special Operations Command Africa (SOCAFRICA).
+
+&emsp;\["\](G) Special Operations Command Central (SOCCENT).
+
+&emsp;\["\](H) Special Operations Command North (SOCNORTH).";
+
+(g) revising section 1–215 to read as follows:
+
+"Sec. 1–215. National Geospatial-Intelligence Agency (NGA), Department of Defense."; and
+
+(h) inserting after section 1–216 the following new sections:
+
+"1–217. Defense Advanced Research Projects Agency, Department of Defense.
+
+\["\]1–218. National Reconnaissance Office, Department of Defense.
+
+\["\]1–219. Office of the Under Secretary of Defense for Intelligence, Department of Defense.
+
+\["\]1–220. Field Detachment, Defense Contract Audit Agency, Department of Defense.
+
+\["\]1–221. Special Programs Directorate, Defense Contract Management Agency, Department of Defense.
+
+\["\]1–222. The following subdivisions of the Defense Information Systems Agency, Department of Defense:
+
+\["\](a) Joint Force Headquarters—Department of Defense Information Networks.
+
+\["\](b) White House Communications Agency.
+
+\["\]1–223. The following subdivisions of the Defense Logistics Agency, Department of Defense:
+
+\["\](a) Defense Logistics Agency Intelligence.
+
+\["\](b) Joint Logistics Operations Center.
+
+\["\](c) Computer Emergency Response Team and Incident Response Branch.
+
+\["\]1–224. Strategic Capabilities Office, Department of Defense.".
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

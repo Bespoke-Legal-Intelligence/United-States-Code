@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;The determination under subparagraph (A) shall be based on—
 
-&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners' standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements prescribed in regulations to be promulgated by the Secretary or that do not exceed the mortality charges specified in the prevailing commissioners' standard tables as defined in subsection (f)(10),
 
 &emsp;&emsp;&emsp;(ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (i) Charges not specified in the contract
 
-&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into accountunder subparagraph (B)(ii) for such charge shall be zero.
+&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into account under subparagraph (B)(ii) for such charge shall be zero.
 
 #### (ii) New companies, etc.
 
@@ -258,6 +258,10 @@ For purposes of this section—
 
 &emsp;In the case of any contract which is a variable contract (as defined in section 817), the determination of whether such contract meets the requirements of subsection (a) shall be made whenever the death benefits under such contract change but not less frequently than once during each 12-month period.
 
+#### (10) Prevailing commissioners' standard tables
+
+&emsp;For purposes of subsection (c)(3)(B)(i), the term "prevailing commissioners' standard tables" means the most recent commissioners' standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the "year of change") are different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+
 #### (g) Treatment of contracts which do not meet subsection (a) test
 
 #### (1) Income inclusion
@@ -356,9 +360,13 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709.)
+(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(3)(B)(i). Pub. L. 115–97, §13517(a)(4)(A), added cl. (i) and struck out former cl. (i) which read as follows: "reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners' standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,".
+
+Subsec. (f)(10). Pub. L. 115–97, §13517(a)(4)(B), added par. (10).
 
 <b>1988</b>—Subsec. (c)(3)(B)(i), (ii). Pub. L. 100–647, §5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -387,6 +395,10 @@ Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess 
 Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
 Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -430,7 +442,7 @@ Exception for certain contracts.—Subparagraph (A) shall not apply to any contr
 
 &emsp;&emsp;"(iii) under such contract—
 
-&emsp;&emsp;&emsp;"(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and anannual effective interest rate of not less than 3 percent, or
+&emsp;&emsp;&emsp;"(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
 
 &emsp;&emsp;&emsp;"(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
 
@@ -456,7 +468,7 @@ In general.—Except as provided in subclause (II), terms used in clause (i) sha
 
 &emsp;&emsp;&emsp;"(II)
 
-Net single premium.—The term 'net single premium' shall be determined by substituting '3 percent' for '4 percent' in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
+Net single premium.—The term 'net single premium' shall be determined by substituting '3 percent' for '4 percent' in section 7702(b)(2) ofsuch Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
 
 "(3)
 

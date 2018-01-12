@@ -6,7 +6,7 @@ Without the prior consent of the taxpayer given directly to the Secretary or the
 
 &emsp;(1) at any unusual time or place or a time or place known or which should be known to be inconvenient to the taxpayer;
 
-&emsp;(2) if the Secretary knows the taxpayer is represented by any person authorized to practice before the Internal Revenue Service with respect to such unpaid tax and has knowledge of, or can readily ascertain, such person's name and address, unless such person fails to respond within a reasonable period of time to a communication from the Secretary or unless such person consents to direct communication with the taxpayer; or
+&emsp;(2) if the Secretary knows the taxpayer is represented by any person authorized to practice before the Internal Revenue Service with respect to such unpaid tax and has knowledge of, or can readily ascertain, such person's name and address, unless such person fails torespond within a reasonable period of time to a communication from the Secretary or unless such person consents to direct communication with the taxpayer; or
 
 &emsp;(3) at the taxpayer's place of employment if the Secretary knows or has reason to know that the taxpayer's employer prohibits the taxpayer from receiving such communication.
 

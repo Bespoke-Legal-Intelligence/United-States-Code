@@ -4,7 +4,7 @@
 
 Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
-&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
+&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial developmentorganizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
 &emsp;(2) to negotiate licensing agreements under section 207 of title 35, or under other authorities (in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for inventions made or other intellectual property developed at the laboratory and other inventions or other intellectual property that may be voluntarily assigned to the Government.
 
@@ -74,7 +74,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(B) give preference to business units located in the United States which agree that products embodying inventions made under the cooperative research and development agreement or produced through the use of such inventions will be manufactured substantially in the United States and, in the case of any industrial organization or other person subject to the control of a foreign company or government, as appropriate, take into consideration whether or not such foreign government permits United States agencies, organizations, or other persons to enter into cooperative research and development agreements and licensing agreements.
 
-(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operatedlaboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
+(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operated laboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
 
 (B) In any case in which the head of an agency or his designee disapproves or requires the modification of an agreement presented by the director of a Government-operated laboratory under this section, the head of the agency or such designee shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
@@ -146,7 +146,7 @@ Subsec. (b)(1). Pub. L. 106–404, in first sentence, inserted "or, subject to s
 
 Subsec. (b)(6). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(b)\], added par. (6).
 
-Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out "with a small business firm" after "enter into" and inserted "if" after "statement" in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
+Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out "with a small business firm" after "enter into" and inserted "if" after "statement" in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respectto review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
@@ -222,7 +222,7 @@ Procedures.—Within 1 year after the date of the enactment of this Act \[Nov. 1
 
 "(c)
 
-Limitation.—Nothing in this Act \[see Short Title of 2000 Amendment note set out under section 3701 of this title\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), of another Federal agency."
+Limitation.—Nothing in this Act \[see Short Title of 2000 Amendment note set out under section 3701 ofthis title\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), of another Federal agency."
 
 #### Magnetic Levitation Technology
 
@@ -254,7 +254,7 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 &emsp;"(F) provides for an accounting of all royalty or other income received under cooperative research and development agreements.
 
-"(2) The requirements described in paragraph (1)(C) and (D) shall not apply in a case where the negotiatingor approving employee advises the agency that reviewed the applicable joint work statement under section 12(c)(5)(C)(i) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3710a(c)(5)(C)(i)\] in advance of the matter in which he is to participate and the nature of any financial interest described in paragraph (1)(C), and where the agency employee determines that such financial interest is not so substantial as to be considered likely to affect the integrity of the laboratory employee's service in that matter.
+"(2) The requirements described in paragraph (1)(C) and (D) shall not apply in a case where the negotiating or approving employee advises the agency that reviewed the applicable joint work statement under section 12(c)(5)(C)(i) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3710a(c)(5)(C)(i)\] in advance of the matter in which he is to participate and the nature of any financial interest described in paragraph (1)(C), and where the agency employee determines that such financial interest is not so substantial as to be considered likely to affect the integrity of the laboratory employee's service in that matter.
 
 "(3) Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1989\], each agency which has contracted with a non-Federal entity to operate a Government-owned laboratory shall submit a report to the Congress which includes a copy of each contract provision amended pursuant to this subsection.
 

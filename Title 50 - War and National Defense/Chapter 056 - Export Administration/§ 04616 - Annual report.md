@@ -6,7 +6,7 @@ Not later than December 31 of each year, the Secretary shall submit to the Congr
 
 &emsp;(1) the implementation of the policies set forth in section 4602 of this title;
 
-&emsp;(2) general licensing activities under sections 4604, 4605, and 4606 of this title, and any changes in the exercise of the authorities contained in sections 4604(a), 4605(a), and 4606(a) of this title;
+&emsp;(2) general licensing activities under sections 4604, 4605, and 4606 of this title, and anychanges in the exercise of the authorities contained in sections 4604(a), 4605(a), and 4606(a) of this title;
 
 &emsp;(3) the results of the review of United States policy toward individual countries pursuant to section 4604(b) of this title;
 
@@ -68,7 +68,7 @@ The Secretary shall include in each annual report a detailed description of the 
 
 #### (f) Annual report of the President
 
-The President shall submit an annual report to the Congress estimating the additional defense expenditures of the United States arising from illegal technology transfers, focusing on estimated defense costs arising from illegal technology transfers that resulted in a serious adverse impact on the strategic balance of forces. These estimates shall be based on assessment by the intelligence community of any technology transfers that resulted in such serious adverse impact. This report may have a classified annex covering any information of a sensitive nature.
+The President shall submit an annual report to the Congress estimating the additional defense expenditures of the United States arising from illegal technology transfers, focusing on estimated defense costs arising from illegaltechnology transfers that resulted in a serious adverse impact on the strategic balance of forces. These estimates shall be based on assessment by the intelligence community of any technology transfers that resulted in such serious adverse impact. This report may have a classified annex covering any information of a sensitive nature.
 
 (Pub. L. 96–72, §14, Sept. 29, 1979, 93 Stat. 532; Pub. L. 99–64, title I, §115, July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2418(c), 2445, Aug. 23, 1988, 102 Stat. 1357, 1369.)
 

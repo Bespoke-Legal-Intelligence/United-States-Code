@@ -20,7 +20,7 @@ In par. (2), "section 6101 of title 41" substituted for "section 3709 of the Rev
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before "If the Secretary" and subsec. (b) which read as follows: "Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year."
+<b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before "If the Secretary" and subsec. (b) whichread as follows: "Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 

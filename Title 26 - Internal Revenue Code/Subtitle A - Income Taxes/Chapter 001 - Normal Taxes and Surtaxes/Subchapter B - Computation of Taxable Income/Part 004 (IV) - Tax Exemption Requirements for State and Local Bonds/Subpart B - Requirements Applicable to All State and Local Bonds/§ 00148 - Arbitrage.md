@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (B) Shorter temporary period for loan repayments, etc.
 
-&emsp;&emsp;Subparagraph (A) shall be applied by substituting "3 months" for "6 months" with respect to the proceeds from the sale or repayment of any loan which are to be used tomake or finance any loan. For purposes of the preceding sentence, a nonpurpose investment shall not be treated as a loan.
+&emsp;&emsp;Subparagraph (A) shall be applied by substituting "3 months" for "6 months" with respect to the proceeds from the sale or repayment of any loan which are to be used to make or finance any loan. For purposes of the preceding sentence, a nonpurpose investment shall not be treated as a loan.
 
 #### (C) Bonds used to provide construction financing
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Earnings on reserve included only for certain periods
 
-&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earned on any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
+&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earnedon any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
 
 #### (III) Payments on acquired purpose obligations excluded
 
@@ -392,19 +392,15 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;The requirements of paragraph (2) shall be treated as met with respect to earnings for any period if a penalty is paid under clause (vii) or (viii) with respect to such earnings for such period.
 
-#### (xiv) Determination of initial temporary period
-
-&emsp;&emsp;&emsp;For purposes of this subpargraph,<sup>1</sup> the end of the initial temporary period shall be determined without regard to section 149(d)(3)(A)(iv).
-
-#### (xv) Elections
+#### (xiv) Elections
 
 &emsp;&emsp;&emsp;Any election under this subparagraph (other than clauses (viii) and (ix)) shall be made on or before the date the bonds are issued; and, once made, shall be irrevocable.
 
-#### (xvi) Time for payment of penalties
+#### (xv) Time for payment of penalties
 
 &emsp;&emsp;&emsp;Any penalty under this subparagraph shall be paid to the United States not later than 90 days after the period to which the penalty relates.
 
-#### (xvii) Treatment of bona fide debt service funds
+#### (xvi) Treatment of bona fide debt service funds
 
 &emsp;&emsp;&emsp;If the spending requirements of clause (ii) are met with respect to the available construction proceeds of a construction issue, then paragraph (2) shall not apply to earnings on a bona fide debt service fund for such issue.
 
@@ -444,7 +440,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which, when added to the aggregate face amount of other issues issued by such entity, does not exceed the portion of the $5,000,000 limitation under clause (i)(IV) which such governmental unit allocates to such entity.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinate entity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinateentity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
 
 #### (v) Determination of whether refunding bonds eligible for exception from rebate requirement
 
@@ -478,7 +474,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (5) Exemption from gross income of sum rebated
 
-&emsp;Gross income shall not include the sum described in paragraph (2). Notwithstanding anyother provision of this title, no deduction shall be allowed for any amount paid to the United States under paragraph (2).
+&emsp;Gross income shall not include the sum described in paragraph (2). Notwithstanding any other provision of this title, no deduction shall be allowed for any amount paid to the United States under paragraph (2).
 
 #### (6) Definitions
 
@@ -528,7 +524,7 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362; Pub. L. 115–97, title I, §13532(b)(2), Dec. 22, 2017, 131 Stat. 2154.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -541,6 +537,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Section 438 of the Higher Education Act of 1965, referred to in subsec. (g), is classified to section 1087–1 of Title 20, Education.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(4)(C)(xiv) to (xvii). Pub. L. 115–97 redesignated cls. (xv) to (xvii) as (xiv) to (xvi), respectively, and struck out former cl. (xiv). Prior to amendment, text of cl. (xiv) read as follows: "For purposes of this subpargraph, the end of the initial temporary period shall be determined without regard to section 149(d)(3)(A)(iv)."
 
 <b>2006</b>—Subsec. (f)(4)(D)(ii)(II) to (IV). Pub. L. 109–222 redesignated subcls. (III) and (IV) as (II) and (III), respectively, and struck out former subcl. (II) which read as follows: "all bonds issued by a governmental unit to make loans to other governmental units with general taxing powers not subordinate to such unit shall, for purposes of applying such subclause to such unit, be treated as not issued by such unit."
 
@@ -564,7 +562,7 @@ Subsec. (f)(4)(E). Pub. L. 105–34, §1444(b), struck out subpar. (E) which rel
 
 Subsec. (c)(2)(D), (E). Pub. L. 101–508, §11701(j)(6), made technical amendment to Pub. L. 101–239, §7652(c). See 1989 Amendment note below.
 
-Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sentence "replacement fund, and gross proceeds which arise after such 6 months and which were not reasonably anticipated as of the date of issuance, shall not be considered gross proceeds for purposes of subclause (I) only" for "replacement fund shallnot be considered gross proceeds for purposes of this subparagraph only" in concluding provisions.
+Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sentence "replacement fund, and gross proceeds which arise after such 6 months and which were not reasonably anticipated as of the date of issuance, shall not be considered gross proceeds for purposes of subclause (I) only" for "replacement fund shall not be considered gross proceeds for purposes of this subparagraph only" in concluding provisions.
 
 Subsec. (f)(4)(B)(i)(II). Pub. L. 101–508, §11701(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the requirements of paragraph (2) are met after such 6 months with respect to earnings on amounts in any reasonably required reserve or replacement fund."
 
@@ -616,9 +614,13 @@ Subsec. (f)(4)(D)(i). Pub. L. 100–647, §1013(a)(18), inserted "for a program"
 
 Subsec. (f)(7)(B). Pub. L. 100–647, §1013(a)(19), substituted "not due" for "due to reasonable cause and not".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13532(c), Dec. 22, 2017, 131 Stat. 2154, provided that: "The amendments made by this section \[amending this section and section 149 of this title\] shall apply to advance refunding bonds issued after December 31, 2017."
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–222 applicable to bonds issued after May 17, 2006, see section 508(e) of Pub. L. 109–222, set out as a note under section 54 of this title.
+Pub. L. 109–222, title V, §508(e), May 17, 2006, 120 Stat. 362, provided that: "The amendments made by this section \[amending this section and sections 54 and 149 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[May 17, 2006\]."
 
 #### Effective Date of 2005 Amendment
 
@@ -658,7 +660,7 @@ Pub. L. 100–647, title I, §1013(a)(17)(C), Nov. 10, 1988, 102 Stat. 3542, pro
 
 Pub. L. 100–647, title I, §1013(a)(43)(C), Nov. 10, 1988, 102 Stat. 3545, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after March 31, 1988."
 
-Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Actof 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
@@ -693,6 +695,4 @@ Pub. L. 101–508, title XI, §11701(j)(7), Nov. 5, 1990, 104 Stat. 1388–513, 
 #### Amendment to Arbitrage Regulations
 
 Pub. L. 99–514, title XIII, §1301(c), Oct. 22, 1986, 100 Stat. 2654, provided that: "The provision in the Federal income tax regulations relating to the arbitrage requirements which permits a higher yield on acquired obligations if the issuer elects to waive the benefits of the temporary period provisions shall not apply to bonds issued after August 31, 1986."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph,".</i>
 

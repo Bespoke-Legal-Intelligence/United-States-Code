@@ -88,7 +88,7 @@ Pub. L. 101–535, §6(b), Nov. 8, 1990, 104 Stat. 2363, provided that:
 
 "(2) The contract under paragraph (1) shall provide that the study required by such paragraph shall be completed within 6 months of the date of the enactment of this Act \[Nov. 8, 1990\].
 
-"(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication ofthe lists, the Secretary shall provide 60 days for comments on such lists.
+"(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication of the lists, the Secretary shall provide 60 days for comments on such lists.
 
 "(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
 

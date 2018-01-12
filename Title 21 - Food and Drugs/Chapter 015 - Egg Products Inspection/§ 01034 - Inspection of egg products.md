@@ -6,7 +6,7 @@ For the purpose of preventing the entry into or flow or movement in commerce of,
 
 #### (b) Authority of Secretary to retain, segregate, and reinspect eggs and egg products
 
-The Secretary, at any time, shall cause such retention, segregation, and reinspection as hedeems necessary of eggs and egg products capable of use as human food in each official plant.
+The Secretary, at any time, shall cause such retention, segregation, and reinspection as he deems necessary of eggs and egg products capable of use as human food in each official plant.
 
 #### (c) Condemnation of adulterated products; destruction or reprocessing; procedure upon appeal from determination of adulteration
 
@@ -18,7 +18,7 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 #### (e) Refrigeration and labeling requirements
 
-(1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility of an egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
+(1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility ofan egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
 
 &emsp;(A) are being held under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit after packing; and
 
@@ -49,4 +49,8 @@ This chapter, referred to in subsecs. (a) and (d), was in the original "this Act
 #### Effective Date of 1991 Amendment
 
 Pub. L. 102–237, title X, §1012(h), Dec. 13, 1991, 105 Stat. 1901, provided that: "This section and the amendments made by this section \[amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1031 of this title\] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments." \[Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.\]
+
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 

@@ -28,7 +28,7 @@ Subject to the availability of appropriations for this purpose, the Corporation 
 
 #### (5) Application of requirements
 
-&emsp;A requirement under this chapter that applies to an entity receiving assistance under this section (other than a requirement limited to an entity receiving assistance under subsection (a)) shall be considered to apply to a Federal agency that enters into an interagency agreement under this subsection, even though no Federal agency may receive financial assistance under such an agreement.
+&emsp;A requirement under this chapter that applies to an entity receiving assistance underthis section (other than a requirement limited to an entity receiving assistance under subsection (a)) shall be considered to apply to a Federal agency that enters into an interagency agreement under this subsection, even though no Federal agency may receive financial assistance under such an agreement.
 
 #### (c) Provision of approved national service positions
 
@@ -122,7 +122,7 @@ The Corporation shall—
 
 &emsp;&emsp;(C) ensure that the increases described in subparagraph (B) are achieved through an appropriate balance of full- and part-time service positions;
 
-&emsp;(2) not later than 1 year after April 21, 2009, submit a report to the authorizing committees on the status of the plan described in paragraph (1); and
+&emsp;(2) not later than 1 year after April 21, 2009, submit a report to the authorizing committeeson the status of the plan described in paragraph (1); and
 
 &emsp;(3) subject to the availability of appropriations and quality service opportunities, implement the plan described in paragraph (1).
 
@@ -178,9 +178,11 @@ Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as
 
 #### Overall Minimum Share Requirement
 
-Pub. L. 114–113, div. H, title IV, §404, Dec. 18, 2015, 129 Stat. 2642, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
+Pub. L. 115–31, div. H, title IV, §402, May 5, 2017, 131 Stat. 555, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. H, title IV, §404, Dec. 18, 2015, 129 Stat. 2642.
 
 Pub. L. 113–235, div. G, title IV, §402, Dec. 16, 2014, 128 Stat. 2508.
 

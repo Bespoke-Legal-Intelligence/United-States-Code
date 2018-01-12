@@ -2,7 +2,7 @@
 
 (a)
 
-Scope.—This section applies to any article or commodity tendered by a producer or vendorfor sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
+Scope.—This section applies to any article or commodity tendered by a producer or vendor for sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
 
 (b)
 

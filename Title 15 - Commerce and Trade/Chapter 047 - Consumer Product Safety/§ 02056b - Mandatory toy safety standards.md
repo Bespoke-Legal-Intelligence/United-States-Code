@@ -28,7 +28,7 @@ Beginning 180 days after August 14, 2008, the provisions of ASTM International S
 
 &emsp;&emsp;(A) take into account other children's product safety rules; and
 
-&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines thatmore stringent standards would further reduce the risk of injury of such toys.
+&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines that more stringent standards would further reduce the risk of injury of such toys.
 
 #### (c) Periodic review
 
@@ -68,7 +68,7 @@ If ASTM International (or its successor entity) proposes to revise ASTM F963–0
 
 &emsp;&emsp;(B) does not unduly burden interstate commerce.
 
-> &emsp;In determining the burden, if any, of a State or political subdivision standard or regulation on interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this Act for such consumer product.
+> &emsp;In determining the burden, if any, of a State or political subdivision standard or regulationon interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this Act for such consumer product.
 
 #### (2) Effect of standards on established State laws
 

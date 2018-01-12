@@ -24,7 +24,7 @@ For purposes of this chapter, if—
 
 #### (B) Nontax portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the nontax portion of any distribution is theamount of such distribution multiplied by the applicable fraction which applies to such distribution.
+&emsp;&emsp;For purposes of subparagraph (A), the nontax portion of any distribution is the amount of such distribution multiplied by the applicable fraction which applies to such distribution.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2727.)
 

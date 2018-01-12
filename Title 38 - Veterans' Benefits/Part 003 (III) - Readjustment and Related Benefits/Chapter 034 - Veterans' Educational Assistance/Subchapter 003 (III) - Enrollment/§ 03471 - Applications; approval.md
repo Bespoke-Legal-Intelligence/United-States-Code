@@ -10,7 +10,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–183 inserted before last sentence "The Secretary shall not treat a person as alreadyqualified for the objective of a program of education offered by a qualified provider of entrepreneurship courses solely because such person is the owner or operator of a business."
+<b>2003</b>—Pub. L. 108–183 inserted before last sentence "The Secretary shall not treat a person as already qualified for the objective of a program of education offered by a qualified provider of entrepreneurship courses solely because such person is the owner or operator of a business."
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1671 of this title as this section.
 

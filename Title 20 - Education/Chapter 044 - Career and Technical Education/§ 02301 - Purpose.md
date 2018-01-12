@@ -2,7 +2,7 @@
 
 The purpose of this chapter is to develop more fully the academic and career and technical skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs, by—
 
-&emsp;(1) building on the efforts of States and localities to develop challenging academic andtechnical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or high demand occupations in current or emerging professions;
+&emsp;(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or high demand occupations in current or emerging professions;
 
 &emsp;(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
 

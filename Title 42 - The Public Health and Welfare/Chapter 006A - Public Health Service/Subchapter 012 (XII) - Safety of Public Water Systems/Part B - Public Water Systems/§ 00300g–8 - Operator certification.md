@@ -16,7 +16,7 @@ For any State exercising primary enforcement responsibility for public water sys
 
 #### (1) In general
 
-&emsp;The Administrator shall provide reimbursement for the costs of training, including an appropriate per diem for unsalaried operators, and certification for persons operating systems serving 3,300 persons or fewer that are required to undergo training pursuant to this section.
+&emsp;The Administrator shall provide reimbursement for the costs of training, including an appropriate per diem for unsalaried operators,and certification for persons operating systems serving 3,300 persons or fewer that are required to undergo training pursuant to this section.
 
 #### (2) State grants
 

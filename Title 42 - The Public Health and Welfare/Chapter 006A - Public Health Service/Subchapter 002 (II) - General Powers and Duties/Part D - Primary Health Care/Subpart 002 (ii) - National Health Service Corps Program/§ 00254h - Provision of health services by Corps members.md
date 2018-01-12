@@ -2,7 +2,7 @@
 
 #### (a) Means of delivery of services; cooperation with other health care providers
 
-In providing health services in a health professional shortage area, Corps members shall utilize the techniques, facilities, and organizational forms most appropriate for the area, population group, medical facility, or other publicfacility, and shall, to the maximum extent feasible, provide such services (1) to all individuals in, or served by, such health professional shortage area regardless of their ability to pay for the services, and (2) in a manner which is cooperative with other health care providers serving such health professional shortage area.
+In providing health services in a health professional shortage area, Corps members shall utilize the techniques, facilities, and organizational forms most appropriate for the area, population group, medical facility, or other public facility, and shall, to the maximum extent feasible, provide such services (1) to all individuals in, or served by, such health professional shortage area regardless of their ability to pay for the services, and (2) in a manner which is cooperative with other health care providers serving such health professional shortage area.
 
 #### (b) Utilization of existing health facilities; lease, acquisition, and use of equipment and supplies; permanent and temporary professional services
 
@@ -30,7 +30,7 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 ofthis title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

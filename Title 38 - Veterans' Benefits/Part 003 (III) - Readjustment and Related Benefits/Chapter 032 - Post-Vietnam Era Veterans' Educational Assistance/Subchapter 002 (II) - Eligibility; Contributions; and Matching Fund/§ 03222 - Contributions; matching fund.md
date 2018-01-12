@@ -8,9 +8,9 @@
 
 (d) Subject to the maximum contribution prescribed by subsection (a) of this section, a participant shall be permitted, while serving on active duty, to make a lump-sum contribution to the fund. A lump-sum contribution to the fund by a participant shall be in addition to or in lieu of monthly deductions made from such participant's military pay and shall be considered, for the purposes of paragraph (2) of section 3231(a) of this title, to have been made by monthly deductions from such participant's military pay in the amount of $100 per month or in such lesser amount as may be specified by such participant pursuant to regulations issued jointly by the Secretary of Defense and the Secretary.
 
-(e) Any amount transferred to the Secretary from the Secretary of a military department under an interagency agreement for the administration by the Department of Veterans Affairs of an educational assistance program established by the Secretary of Defense under chapter 107 of title 10 may be deposited into and disbursed from the fund for the purposes of such program.
+(e) Any amount transferred to the Secretary from the Secretary of a military department under an interagency agreement for the administration by the Department of Veterans Affairs of an educational assistance program established by the Secretary of Defense under chapter107 of title 10 may be deposited into and disbursed from the fund for the purposes of such program.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1622; amended Pub. L. 94–502, titleIV, §408(b), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 96–466, title IV, §406, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–306, title II, §§209, 210, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–160, title VII, §702(6), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3222 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1622; amended Pub. L. 94–502, title IV, §408(b), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 96–466, title IV, §406, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–306, title II, §§209, 210, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–160, title VII, §702(6), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3222 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -47,6 +47,10 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–502 effective Jan. 1, 1982, because new enrollments after Dec. 31, 1981, in the educational assistance program provided by this chapter, were authorized after application of provisions of section 408(a) of Pub. L. 94–502, see section 408(b) of Pub. L. 94–502, set out as a note under section 3221 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under section 3201 of this title.
 
 #### Refunds for Certain Service Academy Graduates
 

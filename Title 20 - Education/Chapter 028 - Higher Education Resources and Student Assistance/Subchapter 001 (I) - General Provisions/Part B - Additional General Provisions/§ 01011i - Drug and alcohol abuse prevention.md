@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, no institution of higher education s
 
 &emsp;&emsp;(D) a description of any drug or alcohol counseling, treatment, or rehabilitation or re-entry programs that are available to employees or students; and
 
-&emsp;&emsp;(E) a clear statement that the institution will impose sanctions on students and employees (consistent with local, State, and Federal law), and a description of thosesanctions, up to and including expulsion or termination of employment and referral for prosecution, for violations of the standards of conduct required by subparagraph (A); and
+&emsp;&emsp;(E) a clear statement that the institution will impose sanctions on students and employees (consistent with local, State, and Federal law), and a description of those sanctions, up to and including expulsion or termination of employment and referral for prosecution, for violations of the standards of conduct required by subparagraph (A); and
 
 &emsp;(2) a biennial review by the institution of the institution's program to—
 

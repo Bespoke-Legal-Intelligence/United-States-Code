@@ -6,7 +6,7 @@ Not later than July 1, 2000, and July 1 of each year thereafter, the Secretary s
 
 #### (b) Inclusions
 
-Each report required under subsection (a) of this section shall—
+Each report required under subsection (a) shall—
 
 &emsp;(1) include a list of all grant recipients by State, including the projected private sector dollar to Federal dollar investment ratio for each grant recipient;
 
@@ -29,4 +29,8 @@ A prior section 603 of Pub. L. 89–136 was classified to section 3203 of this t
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

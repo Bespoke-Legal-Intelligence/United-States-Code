@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) a principal goal of Federal Indian policy is to promote tribal economic development, tribal self-sufficiency, and strong tribal government; and
 
-&emsp;(5) Indian tribes have the exclusive right to regulate gaming activity on Indian lands ifthe gaming activity is not specifically prohibited by Federal law and is conducted within a State which does not, as a matter of criminal law and public policy, prohibit such gaming activity.
+&emsp;(5) Indian tribes have the exclusive right to regulate gaming activity on Indian lands if the gaming activity is not specifically prohibited by Federal law and is conducted within a State which does not, as a matter of criminal law and public policy, prohibit such gaming activity.
 
 (Pub. L. 100–497, §2, Oct. 17, 1988, 102 Stat. 2467.)
 

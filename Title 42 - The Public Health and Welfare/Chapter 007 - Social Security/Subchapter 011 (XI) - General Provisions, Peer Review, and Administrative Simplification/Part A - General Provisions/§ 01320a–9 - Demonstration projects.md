@@ -42,7 +42,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State shall demonstrate that the State has implemented, or plans to implement within 3 years of the date on which the State submits its application to conduct the demonstration project or 2 years after the date on which the Secretary approves such demonstration project (whichever is later), at least 2 of the child welfareprogram improvement policies described in paragraph (7).
+&emsp;&emsp;&emsp;The State shall demonstrate that the State has implemented, or plans to implement within 3 years of the date on which the State submits its application to conduct the demonstration project or 2 years after the date on which the Secretary approves such demonstration project (whichever is later), at least 2 of the child welfare program improvement policies described in paragraph (7).
 
 #### (ii) Previous implementation
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(I) The inclusion in the State plan under section 671 of this title of a description of State procedures for—
 
-&emsp;&emsp;&emsp;(i) ensuring that youth in foster care who have attained age 16 are engaged in discussions, including during the development of the transition plans requiredunder paragraphs (1)(D) and (5)(H) of section 675 of this title, that explore whether the youth wishes to reconnect with the youth's biological family, including parents, grandparents, and siblings, and, if so, what skills and strategies the youth will need to successfully and safely reconnect with those family members;
+&emsp;&emsp;&emsp;(i) ensuring that youth in foster care who have attained age 16 are engaged in discussions, including during the development of the transition plans required under paragraphs (1)(D) and (5)(H) of section 675 of this title, that explore whether the youth wishes to reconnect with the youth's biological family, including parents, grandparents, and siblings, and, if so, what skills and strategies the youth will need to successfully and safely reconnect with those family members;
 
 &emsp;&emsp;&emsp;(ii) providing appropriate guidance and services to youth whom <sup>1</sup> affirm an intent to reconnect with biological family members on how to successfully and safely manage such reconnections; and
 

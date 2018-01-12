@@ -200,7 +200,7 @@ Sec. 69. \[Amended Ex. Ord. No. 11079, set out as a note under section 2603 of T
 
 Sec. 70. \[Amended Ex. Ord. No. 11046, set out as a note under section 3746 of Title 10, Armed Forces.\]
 
-Sec. 71. \[Amended Ex. Ord. No. 11016.\]
+Sec. 71. \[Amended Ex. Ord. No. 11016, set out as a note under section 1129 of Title 10, Armed Forces.\]
 
 Sec. 72. \[Amended Ex. Ord. No. 10977.\]
 
@@ -230,7 +230,7 @@ Sec. 84. \[Amended Ex. Ord. No. 4601.\]
 
 Sec. 85. <i>Designation as a Defense Agency of the United States.</i>
 
-I hereby designate the Department of Homeland Security as a defense agency of the United States for the purposes of chapter 17 of title 35 of the United States Code.
+I hereby designate the Department of Homeland Security as a defense agency of the United States for thepurposes of chapter 17 of title 35 of the United States Code.
 
 Sec. 86. <i>Exception from the Provisions of the Government Employees Training Act.</i>
 

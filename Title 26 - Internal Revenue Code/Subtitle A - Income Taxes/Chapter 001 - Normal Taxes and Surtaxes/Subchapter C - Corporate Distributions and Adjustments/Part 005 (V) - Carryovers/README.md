@@ -13,7 +13,7 @@
 
 <b>1987</b>—Pub. L. 100–203, title X, §10226(b), Dec. 22, 1987, 101 Stat. 1330–415, added item 384.
 
-<b>1986</b>—Pub. L. 99–514, title VI, §621(c)(2), Oct. 22, 1986, 100 Stat. 2266, substituted "Limitation on net operating loss carryforwards and certain built-in losses following ownership change" for "Special limitations on net operating loss carryovers" in item 382 and "Special limitations on certain excess credits, etc." for "Speciallimitations on unused business credits, research credits, foreign taxes, and capital losses" in item 383.
+<b>1986</b>—Pub. L. 99–514, title VI, §621(c)(2), Oct. 22, 1986, 100 Stat. 2266, substituted "Limitation on net operating loss carryforwards and certain built-in losses following ownership change" for "Special limitations on net operating loss carryovers" in item 382 and "Special limitations on certain excess credits, etc." for "Special limitations on unused business credits, research credits, foreign taxes, and capital losses" in item 383.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §474(r)(12)(C), July 18, 1984, 98 Stat. 842, substituted "unused business credits, research credits, foreign taxes, and capital losses" for "carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses" in item 383.
 

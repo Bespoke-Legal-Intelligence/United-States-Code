@@ -16,7 +16,7 @@ Not later than eighteen months after October 21, 1976, and after notice and hear
 
 #### (c) Considerations for State plan guidelines
 
-The guidelines promulgated under subsection (b) of this section shall consider—
+The guidelines promulgated under subsection (b) shall consider—
 
 &emsp;(1) the varying regional, geologic, hydrologic, climatic, and other circumstances under which different solid waste practices are required in order to insure the reasonable protection of the quality of the ground and surface waters from leachate contamination, the reasonable protection of the quality of the surface waters from surface runoff contamination, and the reasonable protection of ambient air quality;
 
@@ -38,7 +38,7 @@ The guidelines promulgated under subsection (b) of this section shall consider�
 
 &emsp;(10) types of resource recovery facilities and resource conservation systems which are appropriate; and
 
-&emsp;(11) available new and additional markets for recovered material and energy and energy resources recovered from solid waste as well asmethods for conserving such materials and energy.
+&emsp;(11) available new and additional markets for recovered material and energy and energy resources recovered from solid waste as well as methods for conserving such materials and energy.
 
 (Pub. L. 89–272, title II, §4002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2813; amended Pub. L. 96–482, §32(c), Oct. 21, 1980, 94 Stat. 2353.)
 

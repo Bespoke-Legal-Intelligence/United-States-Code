@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (4) Authority to include certain other private inurement
 
-&emsp;To the extent provided in regulations prescribed by the Secretary, the term "excess benefit transaction" includes any transactionin which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results in inurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
+&emsp;To the extent provided in regulations prescribed by the Secretary, the term "excess benefit transaction" includes any transaction in which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results in inurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
 
 #### (d) Special rules
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (4) Family members
 
-&emsp;The members of an individual's family shall be determined under section 4946(d); except that such members also shall include the brothers and sisters (whether by the whole or half blood) of the individual and their spouses.
+&emsp;The members of an individual's family shall be determined under section 4946(d); exceptthat such members also shall include the brothers and sisters (whether by the whole or half blood) of the individual and their spouses.
 
 #### (5) Taxable period
 

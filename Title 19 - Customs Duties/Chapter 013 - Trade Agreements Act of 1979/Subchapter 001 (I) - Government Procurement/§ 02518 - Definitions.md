@@ -52,7 +52,7 @@ As used in this subchapter—
 
 #### (B) Rule of origin
 
-&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly thegrowth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
 
 #### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
 
@@ -78,7 +78,7 @@ As used in this subchapter—
 
 &emsp;The term "major industrial country" means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, §401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, §401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, §401, Oct. 21, 2011, 125 Stat. 529.)
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, titleIII, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, §401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, §401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, §401, Oct. 21, 2011, 125 Stat. 529.)
 
 #### Amendment of Section
 

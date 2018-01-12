@@ -26,13 +26,13 @@
 
 (2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performed by the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
 
-(c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
+(c) The head of each agency may also employ or assign one or more personal assistants whothe head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
 (d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling on official business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel period involved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
 
 (2) With respect to any individual paid to accompany or assist a handicapped employee under paragraph (1) of this subsection—
 
-&emsp;(A) the amount paid to that individual shall not exceed the limit or limits which the Office of Personnel Management shall prescribe by regulation to ensure that the payment doesnot exceed amounts (including pay and, if appropriate, travel expenses and per diem allowances) which could be paid to an employee assigned to accompany or assist the handicapped employee; and
+&emsp;(A) the amount paid to that individual shall not exceed the limit or limits which the Office of Personnel Management shall prescribe by regulation to ensure that the payment does not exceed amounts (including pay and, if appropriate, travel expenses and per diem allowances) which could be paid to an employee assigned to accompany or assist the handicapped employee; and
 
 &emsp;(B) that individual shall be considered an employee, but only for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 

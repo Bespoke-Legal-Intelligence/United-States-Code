@@ -46,7 +46,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 &emsp;(5) Education for the parents concerning behaviors that adversely affect health.
 
-&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
+&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV andXIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
 
 #### (c) Considerations in making grants
 
@@ -128,7 +128,7 @@ The Secretary may award a grant under subsection (a) only if the entity involved
 
 &emsp;(1) the entity will provide home visiting services with reasonable frequency—
 
-&emsp;&emsp;(A) to families with pregnant women, as early in the pregnancy as is practicable, and until the infant reaches at least 2 years of age; and
+&emsp;&emsp;(A) to families with pregnant women, as early in the pregnancy as is practicable, anduntil the infant reaches at least 2 years of age; and
 
 &emsp;&emsp;(B) to other eligible families, for at least 2 years; and
 
@@ -296,7 +296,7 @@ Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: 
 
 &emsp;"(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
 
-&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
+&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced orare at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
 
 &emsp;"(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
 

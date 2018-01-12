@@ -26,7 +26,7 @@
 
 #### (2) Use of forms and clauses deemed in compliance
 
-&emsp;Nothing in this chapter may be construed to require a depository institution to use anysuch model form or clause prescribed by the Bureau under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
+&emsp;Nothing in this chapter may be construed to require a depository institution to use any such model form or clause prescribed by the Bureau under this subsection. A depository institution shall be deemed to be in compliance with the disclosure provisions of this chapter if the depository institution—
 
 &emsp;&emsp;(A) uses any appropriate model form or clause as published by the Bureau; or
 
@@ -46,7 +46,7 @@
 
 #### References in Text
 
-Section 4311(b) of this title, referred to in subsec. (a)(4), was in the original "section 12(b)", probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress.
+Section 4311(b) of this title, referred to in subsec. (a)(4), was in the original "section 12(b)", probably meaning section 12(b) of Pub. L. 102–242, and was translated as meaning section 272(b) of Pub. L. 102–242, to reflect the probable intent of Congress. There is no section 12 of Pub. L. 102–242, and section 272(b) of Pub. L. 102–242 relates to regulations prescribed by the National Credit Union Administration Board.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 (4) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28 and with the same effect.
 
-(Pub. L. 93–113, title IV, §415, Oct. 1, 1973, 87 Stat. 411; Pub. L. 96–143, §§11, 18(c)(2), Dec. 13, 1979, 93 Stat. 1078, 1083; Pub. L. 96–465, title II, §2206(h), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–551, §10(i)(9), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §366, Sept. 21, 1993, 107 Stat.908; Pub. L. 111–13, title II, §2152, Apr. 21, 2009, 123 Stat. 1591.)
+(Pub. L. 93–113, title IV, §415, Oct. 1, 1973, 87 Stat. 411; Pub. L. 96–143, §§11, 18(c)(2), Dec. 13, 1979, 93 Stat. 1078, 1083; Pub. L. 96–465, title II, §2206(h), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–551, §10(i)(9), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §366, Sept. 21, 1993, 107 Stat. 908; Pub. L. 111–13, title II, §2152, Apr. 21, 2009, 123 Stat. 1591.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 99–551 substituted "the Director" for "he" before "shall 
 
 Subsec. (c)(2). Pub. L. 96–465, §2206(h)(2), substituted "Foreign Service Act of 1980" for "Foreign Service Act of 1946".
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) "as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter" for "in programs under subchapter I of this chapter for periods of service of at least one year" and in cl. (4)(A) "the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director" for "the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee" and added cl. (5).
+<b>1979</b>—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) "as volunteers for periods offull-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter" for "in programs under subchapter I of this chapter for periods of service of at least one year" and in cl. (4)(A) "the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director" for "the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee" and added cl. (5).
 
 Subsec. (c)(2). Pub. L. 96–143, §18(c)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 

@@ -66,7 +66,7 @@ Congress—
 
 &emsp;&emsp;(A) to immediately designate North Korea as a jurisdiction of primary money laundering concern; and
 
-&emsp;&emsp;(B) to adopt stringent special measures to safeguard the financial system against therisks posed by North Korea's willful evasion of sanctions and its illicit activities; and
+&emsp;&emsp;(B) to adopt stringent special measures to safeguard the financial system against the risks posed by North Korea's willful evasion of sanctions and its illicit activities; and
 
 &emsp;(3) urges the President to seek the prompt implementation by other countries of enhanced monitoring and due diligence to prevent North Korea's misuse of the international financial system, including by sharing information about activities, transactions, and property that could contribute to—
 

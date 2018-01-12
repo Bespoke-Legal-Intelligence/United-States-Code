@@ -50,7 +50,7 @@
 
 (c) The annuity of a survivor named under section 8339(k)(1) of this title is 55 percent of the reduced annuity of the retired employee or Member. The annuity of the survivor commences on the day after the retired employee or Member dies. This annuity and the right thereto terminate on the last day of the month before the survivor dies.
 
-(d) If an employee or Member dies after completing at least 18 months of civilian service, his widow or widower is entitled to an annuity equal to 55 percent of an annuity computed under section 8339(a)–(f), (i), (n), (p), (q), (r), and (s) as may apply with respect to the employee or Member, except that, in the computation of the annuity under such section, the annuity of the employee or Member shall be at least the smaller of—
+(d) If an employee or Member dies after completing at least 18 months of civilian service, his widow or widower is entitled to an annuity equal to 55 percent of an annuity computedunder section 8339(a)–(f), (i), (n), (p), (q), (r), and (s) as may apply with respect to the employee or Member, except that, in the computation of the annuity under such section, the annuity of the employee or Member shall be at least the smaller of—
 
 &emsp;(1) 40 percent of his average pay; or
 
@@ -68,7 +68,7 @@
 
 &emsp;(ii) except as provided in subsection (k), remarries before becoming 55 years of age.
 
-(e)(1) For the purposes of this subsection, "former spouse" includes a former spouse whowas married to an employee or Member for less than 9 months and a former spouse of an employee or Member who completed less than 18 months of service covered by this subchapter.
+(e)(1) For the purposes of this subsection, "former spouse" includes a former spouse who was married to an employee or Member for less than 9 months and a former spouse of an employee or Member who completed less than 18 months of service covered by this subchapter.
 
 (2) If an employee or Member dies after completing at least 18 months of civilian service, or an employee or Member dies after retiring under this subchapter, and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the employee or Member, that surviving child is entitled to an annuity equal to the smallest of—
 
@@ -180,7 +180,7 @@
 
 (2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8339(j)(5)(B) or (C) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362; Pub. L. 105–61, title V, §§516(a)(4), 518(a), Oct. 10, 1997, 111 Stat. 1306, 1307; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(7)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112,July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362; Pub. L. 105–61, title V, §§516(a)(4), 518(a), Oct. 10, 1997, 111 Stat. 1306, 1307; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(7)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89.)
 
 Historical and Revision Notes<br>1966
 
@@ -220,7 +220,7 @@ Sept. 6, 1960, Pub. L. 86–713, §1(a), 74 Stat. 813.
 
 Oct. 11, 1962, Pub. L. 87–793, §1103 (less (a) and (f)(A)), 76 Stat. 870, 871.
 
-In subsection (b), the words "designated for this purpose under section 8339(i) of this title" are substitutedfor "designated in writing for such purpose by the employee or Member at the time of retirement" in view of the provisions of section 8339(i).
+In subsection (b), the words "designated for this purpose under section 8339(i) of this title" are substituted for "designated in writing for such purpose by the employee or Member at the time of retirement" in view of the provisions of section 8339(i).
 
 In subsection (f), the words "heretofore or hereafter" are substituted "either prior to, on, or after the effective date of the Civil Service Retirement Act Amendments of 1956".
 
@@ -322,7 +322,7 @@ Subsec. (b)(3)(B). Pub. L. 98–615, §2(4)(B)(iii), substituted "55 years of ag
 
 Subsec. (b)(4). Pub. L. 98–615, §2(4)(B)(iv), added par. (4).
 
-Subsec. (d). Pub. L. 98–615, §2(4)(C)(i), inserted provision that the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between the amount which would otherwise be payable to such widow or widower under this subsection and the amount of the survivor annuity payable to any former spouse of such employee or Member under subsec. (h).
+Subsec. (d). Pub. L. 98–615, §2(4)(C)(i), inserted provision that the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between the amount which would otherwise be payable to such widow or widowerunder this subsection and the amount of the survivor annuity payable to any former spouse of such employee or Member under subsec. (h).
 
 Pub. L. 98–353 substituted "and (n)" for "and (o)".
 
@@ -344,7 +344,7 @@ Subsecs. (h), (i). Pub. L. 98–615, §2(4)(G), added subsecs. (h) and (i).
 
 Subsec. (a)(3). Pub. L. 96–179, §1(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), substituted "unmarried dependent child" for "unmarried child" wherever appearing insubpars. (A), (B), and (C), substituted "but only if the stepchild" for "or recognized natural child who" in subpar. (A)(ii), and inserted "a recognized natural child, and (iv)" after "(iii)".
+Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), substituted "unmarried dependent child" for "unmarried child" wherever appearing in subpars. (A), (B), and (C), substituted "but only if the stepchild" for "or recognized natural child who" in subpar. (A)(ii), and inserted "a recognized natural child, and (iv)" after "(iii)".
 
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 99–272 effective with respect to service performed on or 
 
 #### Effective Date of 1984 Amendments
 
-Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986, 100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L. 99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
+Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986,100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L. 99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
 
 "(a)(1) Except as provided in paragraphs (3), (4), (5), and (6) and subsections (b) and (c), the amendments made by section 2 of this Act \[amending this section and sections 8331, 8334, 8339, 8342, 8345, and 8348 of this title\] shall take effect May 7, 1985, and shall apply—
 
@@ -510,7 +510,7 @@ Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–2
 
 &emsp;"(3) who is entitled (other than as described in paragraph (2)) to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees as of May 7, 1985,
 
-> shall be considered to have satisfied section 8901(10)(C) of title 5, United States Code, as amended by this Act. Notwithstanding subsection (a)(2) of this section, any such individual who otherwise meets the definition of a former spouse under section 8901 of title 5, United States Code, as so amended, may, within 12 months after the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb. 27, 1986\], enroll in an approved health benefits plan described by section 8903 of such title, under the conditions set forth in section 8905(c) of such title, as so amended (other than the conditions prescribed in subparagraphs (A) and (B) of paragraph (1) of such section 8905(c)).
+> shall be considered to have satisfied section 8901(10)(C) of title 5, United States Code, as amended by this Act. Notwithstanding subsection (a)(2) of this section, any such individual who otherwise meets the definition of a former spouse under section 8901 of title 5, UnitedStates Code, as so amended, may, within 12 months after the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb. 27, 1986\], enroll in an approved health benefits plan described by section 8903 of such title, under the conditions set forth in section 8905(c) of such title, as so amended (other than the conditions prescribed in subparagraphs (A) and (B) of paragraph (1) of such section 8905(c)).
 
 "(g)(1) For purposes of subsections (a)(1), (b), (c), (d), and (e), 'employee', 'Member', and 'former spouse' each has the meaning given that term under section 8331 of title 5, United States Code, as amended by this Act.
 
@@ -522,7 +522,7 @@ Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–2
 
 \[Section 9(b) of Pub. L. 99–549 provided that: "The amendments made by this section \[amending note above\] shall be effective as of May 7, 1985."\]
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–615, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency RetirementAct and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–615, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
 
@@ -594,7 +594,7 @@ Section 1 of Pub. L. 95–318, eff. Oct. 1, 1978, provided that:
 
 > shall be restored in accordance with the provisions of subsection (b) of this section.
 
-"(b)(1) In the case of a remarriage occurring after the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund. If such amount is paid, theannuity shall be so restored commencing on the effective date of this section at the rate which would have been in effect if the annuity had not been terminated.
+"(b)(1) In the case of a remarriage occurring after the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund. If such amount is paid, the annuity shall be so restored commencing on the effective date of this section at the rate which would have been in effect if the annuity had not been terminated.
 
 "(2) In the case of a remarriage occurring before the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if—
 

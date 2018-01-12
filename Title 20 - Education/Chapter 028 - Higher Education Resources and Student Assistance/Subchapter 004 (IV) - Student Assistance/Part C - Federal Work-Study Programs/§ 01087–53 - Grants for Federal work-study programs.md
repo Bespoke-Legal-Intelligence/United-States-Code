@@ -20,7 +20,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
 
-&emsp;&emsp;(A) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
+&emsp;&emsp;(A) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
 
 &emsp;&emsp;(B) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of this title, may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 1087–56 of this title, and may transfer funds in accordance with the provisions of section 1095 of this title;
 
@@ -82,7 +82,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### (1) Use of funds
 
-&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
+&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensurethat funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
 
 &emsp;&emsp;(A) employed as reading tutors for children who are preschool age or are in elementary school; or
 
@@ -150,7 +150,7 @@ A prior section 123 of Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 514, w
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39, §403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39, §403(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this section.
 
 Subsec. (d)(1). Pub. L. 111–39, §403(2), substituted "subsection (b)(2)(A)" for "subsection (b)(2)(B)".
 

@@ -30,7 +30,7 @@ The implementation plan shall include:
 
 &emsp;(3) a prioritized list of carrier equipment, facilities, and services deployed on or before January 1, 1995, to be modified by carriers at the request of law enforcement based on its investigative needs;
 
-&emsp;(4) a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on theprioritization of law enforcement needs as outlined in (3),<sup>1</sup> of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995.
+&emsp;(4) a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on the prioritization of law enforcement needs as outlined in (3),<sup>1</sup> of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995.
 
 #### (f) Annual report to Congress
 

@@ -10,7 +10,7 @@
 
 #### (2) Qualification of articles
 
-&emsp;The determination of whether an article originates in Mexico shall be made in accordance with section 3332 of this title, except that operations performed in, or materials obtained from, any country other than the UnitedStates or Mexico shall be treated as if performed in or obtained from a country other than a NAFTA country.
+&emsp;The determination of whether an article originates in Mexico shall be made in accordance with section 3332 of this title, except that operations performed in, or materials obtained from, any country other than the United States or Mexico shall be treated as if performed in or obtained from a country other than a NAFTA country.
 
 #### (c) Tariff rate quotas
 
@@ -90,7 +90,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (A) Wheat
 
-&emsp;&emsp;If a foreign country or instrumentality that requires end-use certificates for imports of United States-produced wheat as of the effective date of the requirement under paragraph (1)(A) eliminates the requirement, the Secretary shall suspend the requirement under paragraph (1)(A) beginning 30 calendardays after suspension by the foreign country or instrumentality.
+&emsp;&emsp;If a foreign country or instrumentality that requires end-use certificates for imports of United States-produced wheat as of the effective date of the requirement under paragraph (1)(A) eliminates the requirement, the Secretary shall suspend the requirement under paragraph (1)(A) beginning 30 calendar days after suspension by the foreign country or instrumentality.
 
 #### (B) Barley
 
@@ -158,7 +158,7 @@ Section 1445c–3(f) of title 7, referred to in subsec. (d)(1)(A)(ii), was repea
 
 #### Codification
 
-Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section 321 of Pub. L. 103–182 amended provisions set out as a note under section 2253 of this title. Subsec. (d)(1)(B) of section 321 of Pub. L. 103–182 amended section 1359a of Title 7, Agriculture. Subsec. (g) of section 321 of Pub. L. 103–182 amended provisions set out as a note under section 5622 of Title 7.
+Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section 321 of Pub. L. 103–182 amendedprovisions set out as a note under section 2253 of this title. Subsec. (d)(1)(B) of section 321 of Pub. L. 103–182 amended section 1359a of Title 7, Agriculture. Subsec. (g) of section 321 of Pub. L. 103–182 amended provisions set out as a note under section 5622 of Title 7.
 
 #### Change of Name
 
@@ -166,7 +166,7 @@ Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

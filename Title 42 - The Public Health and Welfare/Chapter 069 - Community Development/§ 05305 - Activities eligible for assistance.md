@@ -4,7 +4,7 @@
 
 Activities assisted under this chapter may include only—
 
-&emsp;(1) the acquisition of real property (including air rights, water rights, and other interests therein) which is (A) blighted, deteriorated, deteriorating, undeveloped, or inappropriately developed from the standpoint of sound community development and growth; (B) appropriate for rehabilitation or conservation activities; (C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservation of open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development; (D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this chapter; or (E) to be used for other public purposes;
+&emsp;(1) the acquisition of real property (including air rights, water rights, and other interests therein) which is (A) blighted, deteriorated, deteriorating, undeveloped, or inappropriately developed from the standpoint of sound community development and growth; (B) appropriate for rehabilitation or conservation activities; (C) appropriate for the preservation or restoration of historic sites, the beautification of urban land, the conservationof open spaces, natural resources, and scenic areas, the provision of recreational opportunities, or the guidance of urban development; (D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this chapter; or (E) to be used for other public purposes;
 
 &emsp;(2) the acquisition, construction, reconstruction, or installation (including design features and improvements with respect to such construction, reconstruction, or installation that promote energy efficiency) of public works, facilities (except for buildings for the general conduct of government), and site or other improvements;
 
@@ -104,11 +104,11 @@ Activities assisted under this chapter may include only—
 
 #### (b) Reimbursement of Secretary for administrative services connected with rehabilitation of properties
 
-Upon the request of the recipient of assistance under this chapter, the Secretary may agree to perform administrative services on a reimbursable basis on behalf of such recipient in connection with loans or grants for the rehabilitation of properties as authorized under subsection (a)(4) of this section.
+Upon the request of the recipient of assistance under this chapter, the Secretary may agree to perform administrative services on a reimbursable basis on behalf of such recipient in connection with loans or grants for the rehabilitation of properties as authorized under subsection (a)(4).
 
 #### (c) Activities benefiting persons of low and moderate income
 
-(1) In any case in which an assisted activity described in paragraph (14) or (17) of subsection (a) of this section is identified as principally benefiting persons of low and moderate income, such activity shall—
+(1) In any case in which an assisted activity described in paragraph (14) or (17) of subsection (a) is identified as principally benefiting persons of low and moderate income, such activity shall—
 
 &emsp;(A) be carried out in a neighborhood consisting predominately of persons of low and moderate income and provide services for such persons; or
 
@@ -116,7 +116,7 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 &emsp;(C) involve employment of persons, a majority of whom are persons of low and moderate income.
 
-(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
+(2)(A) In any case in which an assisted activity described in subsection (a) is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
 
 (B) The requirements of subparagraph (A) do not prevent the use of assistance under this chapter for the development, establishment, and operation for not to exceed 2 years after its establishment of a uniform emergency telephone number system if the Secretary determines that—
 
@@ -124,13 +124,13 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 &emsp;(ii) not less than 51 percent of the use of the system will be by persons of low and moderate income; and
 
-&emsp;(iii) other Federal funds received by the grantee are not available for the development, establishment, and operation of such system due to the insufficiency of the amount of such funds, the restrictions on the use of such funds, or the prior commitment of such funds for other purposes by the grantee.
+&emsp;(iii) other Federal funds received by the grantee are not available for the development, establishment, and operation of such systemdue to the insufficiency of the amount of such funds, the restrictions on the use of such funds, or the prior commitment of such funds for other purposes by the grantee.
 
 > The percentage of the cost of the development, establishment, and operation of such a system that may be paid from assistance under this chapter and that is considered to benefit low and moderate income persons is the percentage of the population to be served that is made up of persons of low and moderate income.
 
 (3) Any assisted activity under this chapter that involves the acquisition or rehabilitation of property to provide housing shall be considered to benefit persons of low and moderate income only to the extent such housing will, upon completion, be occupied by such persons.
 
-(4) For the purposes of subsection (c)(1)(C) of this section—
+(4) For the purposes of subsection (c)(1)(C)—
 
 &emsp;(A) if an employee resides in, or the assisted activity through which he or she is employed, is located in a census tract that meets the Federal enterprise zone eligibility criteria, the employee shall be presumed to be a person of low- or moderate-income; or
 
@@ -138,13 +138,13 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 #### (d) Training program
 
-The Secretary shall implement, using funds recaptured pursuant to section 5318(o) of this title, an on-going education and training program for officers and employees of the Department, especially officers and employees of area and other field offices of the Department, who are responsible for monitoring and administering activities pursuant to paragraphs (14), (15), and (17) of subsection (a) of this section for the purpose of ensuring that (A) such personnel possess a thorough understanding of such activities; and (B) regulations and guidelines are implemented in a consistent fashion.
+The Secretary shall implement, using funds recaptured pursuant to section 5318(o) of this title, an on-going education and training program for officers and employees of the Department, especially officers and employees of area and other field offices of the Department, who are responsible for monitoring and administering activities pursuant to paragraphs (14), (15), and (17) of subsection (a) for the purpose of ensuring that (A) such personnel possess a thorough understanding of such activities; and (B) regulations and guidelines are implemented in a consistent fashion.
 
 #### (e) Guidelines for evaluating and selecting economic development projects
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, by regulation, guidelines to assist grant recipients under this chapter to evaluate and select activities described in subsection (a)(14), (15), and (17) of this section for assistance with grant amounts. The Secretary shall not base a determination of eligibility of the use of funds under this chapter for such assistance solely on the basis that the recipient fails to achieve one or more of the guidelines' objectives as stated in paragraph (2).
+&emsp;The Secretary shall establish, by regulation, guidelines to assist grant recipients under this chapter to evaluate and select activities described in subsection (a)(14), (15), and (17) for assistance with grant amounts. The Secretary shall not base a determination of eligibility of the use of funds under this chapter for such assistance solely on the basis that the recipient fails to achieve one or more of the guidelines' objectives as stated in paragraph (2).
 
 #### (2) Project costs and financial requirements
 
@@ -168,21 +168,21 @@ The Secretary shall implement, using funds recaptured pursuant to section 5318(o
 
 #### (f) Assistance to for-profit entities
 
-In any case in which an activity described in paragraph (17) of subsection (a) of this section is provided assistance such assistance shall not be limited to activities for which no other forms of assistance are available or could not be accomplished but for that assistance.
+In any case in which an activity described in paragraph (17) of subsection (a) is provided assistance such assistance shall not be limited to activities for which no other forms of assistance are available or could not be accomplished but for that assistance.
 
 #### (g) Microenterprise and small business program requirements
 
-In developing program requirements and providing assistance pursuant to paragraph (17) of subsection (a) of this section to a microenterprise or small business, the Secretary shall—
+In developing program requirements and providing assistance pursuant to paragraph (17) of subsection (a) to a microenterprise or small business, the Secretary shall—
 
 &emsp;(1) take into account the special needs and limitations arising from the size of the entity; and
 
-&emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
+&emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) or an administrative cost pursuant to subsection (a)(13).
 
 #### (h) Prohibition on use of assistance for employment relocation activities
 
 Notwithstanding any other provision of law, no amount from a grant under section 5306 of this title made in fiscal year 1999 or any succeeding fiscal year may be used to assist directly in the relocation of any industrial or commercial plant, facility, or operation, from 1 area to another area, if the relocation is likely to result in a significant loss of employment in the labor market area from which the relocation occurs.
 
-(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981,95 Stat. 387, 396; Pub. L. 98–181, title I \[title I, §105(a), (b)(1), (c)–(e), title III, §302(a)\], Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 108–146, §2, Dec. 3, 2003, 117 Stat. 1883; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. F, title II, §100243(a), (b), July 6, 2012, 126 Stat. 963, 966.)
+(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I \[title I, §105(a), (b)(1), (c)–(e), title III, §302(a)\], Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c),807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 108–146, §2, Dec. 3, 2003, 117 Stat. 1883; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. F, title II, §100243(a), (b), July 6, 2012, 126 Stat. 963, 966.)
 
 #### References in Text
 
@@ -338,7 +338,7 @@ Subsec. (c). Pub. L. 98–181, §105(e), added subsec. (c).
 
 Subsec. (a)(6). Pub. L. 97–35, §309(f)(2), struck out "program" after "displaced by".
 
-Subsec. (a)(8). Pub. L. 97–35, §303(a)(1), added new par. (8) which generally revised and restructured provisions relating to provision of public services if such services have not been provided by the relevant unit of local government or State in which such unit is located, and limited amount of assistance under this paragraph to not more than 10 per centum of the amount of any assistance to a unit of general local government under this chapter.
+Subsec. (a)(8). Pub. L. 97–35, §303(a)(1), added new par. (8) which generally revised and restructured provisionsrelating to provision of public services if such services have not been provided by the relevant unit of local government or State in which such unit is located, and limited amount of assistance under this paragraph to not more than 10 per centum of the amount of any assistance to a unit of general local government under this chapter.
 
 Subsec. (a)(9). Pub. L. 97–35, §309(f)(3), substituted "activities assisted under this chapter" for "Community Development Program".
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2887, provided in part: "That for fiscal year 1997 and thereafter, section 105(a)(25) of such Act \[section 105(a)(25) \[now (24)\] of Pub. L. 93–383, classified to subsec. (a)(24) of this section\], shall continue to be effective and the termination and conforming provisions of section 907(b)(2) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, set out below\] shall not be effective".
 
-Pub. L. 104–134, title I, §101(e) \[title II\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–272, provided in part: "That section 105(a)(25) of such Act \[section 105(a)(25) \[now (24)\]of Pub. L. 93–383, classified to subsec. (a)(24) of this section\], as added by section 907(b)(1) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\], shall continue to be effective after September 30, 1995, notwithstanding section 907(b)(2) of such Act \[set out below\]".
+Pub. L. 104–134, title I, §101(e) \[title II\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–272, provided in part: "That section 105(a)(25) of such Act \[section 105(a)(25) \[now (24)\] of Pub. L. 93–383, classified to subsec. (a)(24) of this section\], as added by section 907(b)(1) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\], shall continue to be effective after September 30, 1995, notwithstanding section 907(b)(2) of such Act \[set out below\]".
 
 Pub. L. 104–120, §3(a), Mar. 28, 1996, 110 Stat. 835, provided that: "Notwithstanding the amendments made by section 907(b)(2) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, set out below\], section 105(a)(25) of the Housing and Community Development Act of 1974 \[subsec. (a)(25) \[now (24)\] of this section\], as in existence on September 30, 1995, shall apply to the use of assistance made available under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] during fiscal year 1996."
 

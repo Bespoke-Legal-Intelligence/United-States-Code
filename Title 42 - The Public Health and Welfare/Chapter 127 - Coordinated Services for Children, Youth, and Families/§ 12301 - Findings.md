@@ -32,7 +32,7 @@ Congress finds that—
 
 #### Effective Date
 
-Chapter effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
 
 #### Short Title
 
@@ -88,7 +88,7 @@ Performance Partnership Agreements.—Federal agencies may use Federal discretio
 
 &emsp;&emsp;"(B) the Federal programs and federally funded services that are involved in the Pilot;
 
-&emsp;&emsp;"(C) the Federal discretionary funds that are being used in the Pilot (by the respective Federal account identifier, and the total amount from suchaccount that is being used in the Pilot), and the period (or periods) of availability for obligation (by the Federal Government) of such funds;
+&emsp;&emsp;"(C) the Federal discretionary funds that are being used in the Pilot (by the respective Federal account identifier, and the total amount from such account that is being used in the Pilot), and the period (or periods) of availability for obligation (by the Federal Government) of such funds;
 
 &emsp;&emsp;"(D) the non-Federal funds that are involved in the Pilot, by source (which may include private funds as well as governmental funds) and by amount;
 

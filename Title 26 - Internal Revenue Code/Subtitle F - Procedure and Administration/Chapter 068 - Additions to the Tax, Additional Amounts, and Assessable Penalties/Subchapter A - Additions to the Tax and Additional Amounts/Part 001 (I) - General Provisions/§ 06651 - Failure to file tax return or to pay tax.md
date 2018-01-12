@@ -6,7 +6,7 @@ In case of failure—
 
 &emsp;(1) to file any return required under authority of subchapter A of chapter 61 (other than part III thereof), subchapter A of chapter 51 (relating to distilled spirits, wines, and beer), or of subchapter A of chapter 52 (relating to tobacco, cigars, cigarettes, and cigarette papers and tubes), or of subchapter A of chapter 53 (relating to machine guns and certain other firearms), on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return 5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate;
 
-&emsp;(2) to pay the amount shown on tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
+&emsp;(2) to pay the amount shown as tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
 
 &emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
@@ -28,7 +28,7 @@ For purposes of—
 
 &emsp;With respect to any return, the amount of the addition under paragraph (1) of subsection (a) shall be reduced by the amount of the addition under paragraph (2) of subsection (a) for any month (or fraction thereof) to which an addition to tax applies under both paragraphs (1) and (2). In any case described in the last sentence of subsection (a), the amount of the addition under paragraph (1) of subsection (a) shall not be reduced under the preceding sentence below the amount provided in such last sentence.
 
-#### (2) Amounts of tax shown more than amount required to be shown
+#### (2) Amount of tax shown more than amount required to be shown
 
 &emsp;If the amount required to be shown as tax on a return is less than the amount shown as tax on such return, subsections (a)(2) and (b)(2) shall be applied by substituting such lower amount.
 
@@ -68,25 +68,27 @@ In the case of any return made by the Secretary under section 6020(b)—
 
 #### (h) Limitation on penalty on individual's failure to pay for months during period of installment agreement
 
-In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting "0.25" for "0.5" each place it appears for purposes of determining the addition to tax for any month during which an installment agreement under section 6159 is in effect for the payment of such tax.
+In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting "0.25" for "0.5" each place it appears for purposes of determining the addition to tax for any month during which an installment agreementunder section 6159 is in effect for the payment of such tax.
 
 #### (i) Adjustment for inflation
 
 #### (1) In general
 
-&emsp;In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (2) Rounding
 
 &emsp;If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649; Pub. L. 113–295, div. B, title II, §208(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 114–125, title IX, §921(a), (b), Feb. 24, 2016, 130 Stat. 281.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649; Pub. L. 113–295, div. B, title II, §208(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 114–125, title IX, §921(a), (b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–97, title I, §11002(d)(1)(KK), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i)(1). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–125, §921(a), substituted "$205" for "$135" in concluding provisions.
 
@@ -114,7 +116,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1502(a), added subsec. (d) and redesignat
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248, §318(a), inserted provision that, in the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under par. (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
 
-Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) ofsubsec. (a) shall not be reduced under first sentence of this subpar. below the amount provided in such last sentence.
+Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) of subsec. (a) shall not be reduced under first sentence of this subpar. below the amount provided in such last sentence.
 
 Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted "(determined without regard to the last sentence of such subsection)" after "paragraph (1) of subsection (a)".
 
@@ -129,6 +131,10 @@ Subsec. (b). Pub. L. 91–172 designated existing provisions as par. (1) and add
 Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to section 6016 of this title and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2016 Amendment
 

@@ -20,6 +20,14 @@ Last seven words in the statute, "who shall have the powers hereinafter stated",
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–114, §1, Jan. 10, 2018, 131 Stat. 2278, provided that: "This Act \[enacting section 3559 of this title\] may be cited as the 'Connected Government Act'."
+
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–85, §1, Nov. 21, 2017, 131 Stat. 1274, provided that: "This Act \[amending sections 2902, 2904, 2906, and 3102 of this title\] may be cited as the 'Federal Agency Mail Management Act of 2017'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–283, §1, Dec. 18, 2014, 128 Stat. 3073, provided that: "This Act \[enacting subchapter II of chapter 35 of this title, amending sections 143 and 511 of Title 6, Domestic Security, sections 2222, 2223, and 2315 of Title 10, Armed Forces, and sections 278g–3, 278g–4, and 7406 of Title 15, Commerce and Trade, repealing subchapters II and III of chapter 35 of this title, and enacting provisions set out as notes under sections 3553 and 3554 of this title\] may be cited as the 'Federal Information Security Modernization Act of 2014'."
@@ -60,7 +68,7 @@ Pub. L. 103–40, §1, June 8, 1993, 107 Stat. 112, provided that: "This Act \[e
 
 Pub. L. 100–504, title II, §201, Oct. 18, 1988, 102 Stat. 2530, provided that: "This title \[enacting sections 3901 to 3904 of this title and provisions set out as notes under section 3901 of this title\] may be cited as the 'Government Printing Office Inspector General Act of 1988'."
 
-Pub. L. 100–365, §1, July 13, 1988, 102 Stat. 823, provided that: "This Act \[amending sections 2501, 2503, and 2504 of this title\] may be cited as the 'National Historical Publications and Records Commission Amendments of 1988'."
+Pub. L. 100–365, §1, July 13, 1988, 102 Stat. 823, provided that: "This Act \[amending sections 2501, 2503, and2504 of this title\] may be cited as the 'National Historical Publications and Records Commission Amendments of 1988'."
 
 #### Short Title of 1986 Amendments
 

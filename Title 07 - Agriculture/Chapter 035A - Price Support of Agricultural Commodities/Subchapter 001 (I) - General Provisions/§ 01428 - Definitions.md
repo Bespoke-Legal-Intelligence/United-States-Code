@@ -16,7 +16,7 @@ For the purposes of this Act—
 
 (g) "Carry-over" of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop or production of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
 
-(h) "Normal supply" of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply isdetermined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
+(h) "Normal supply" of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
 (i) "Marketing year" for any nonbasic agricultural commodity means any period determined by the Secretary during which substantially all of a crop or production of such commodity is normally marketed by the producers thereof.
 
@@ -80,7 +80,7 @@ Subsecs. (k), (l). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub.L. 108–357, set out as an Effective Date note under section 518 of this title.
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
 
 #### Effective Date of 1990 Amendment
 

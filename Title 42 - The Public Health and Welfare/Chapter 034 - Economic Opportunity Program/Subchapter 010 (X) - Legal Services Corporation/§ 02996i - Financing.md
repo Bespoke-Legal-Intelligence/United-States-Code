@@ -20,7 +20,7 @@ Not more than 10 percent of the amounts appropriated pursuant to subsection (a) 
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–222, §15, inserted provisions authorizing appropriations for fiscal year 1978 andtwo succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
+<b>1977</b>—Subsec. (a). Pub. L. 95–222, §15, inserted provisions authorizing appropriations for fiscal year 1978 and two succeeding fiscal years, and substituted provisions requiring appropriations to be made for not more than two fiscal years and payments in annual installments at beginning of each fiscal year in appropriated amounts, for provisions requiring appropriations to be for not more than two fiscal years, and, if for more than one year, in payments in annual installments at beginning of each fiscal year in appropriated amounts.
 
 Subsec. (d). Pub. L. 95–222, §5(c), added subsec. (d).
 

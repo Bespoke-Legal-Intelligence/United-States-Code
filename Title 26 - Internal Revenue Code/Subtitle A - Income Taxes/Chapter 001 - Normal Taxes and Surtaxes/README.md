@@ -37,10 +37,13 @@
 | <b>W.</b> | <b>District of Columbia Enterprise Zone</b> | <b>1400</b> |
 | <b>X.</b> | <b>Renewal Communities</b> | <b>1400E</b> |
 | <b>Y.</b> | <b>Short-Term Regional Benefits</b> | <b>1400L</b> |
+| <b>Z.</b> | <b>Opportunity zones</b> | <b>1400Z–1</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13823(c), Dec. 22, 2017, 131 Stat. 2188, added subchapter Z.
 
 <b>2005</b>—Pub. L. 109–135, title I, §101(b)(4), Dec. 21, 2005, 119 Stat. 2593, substituted "Short-Term Regional Benefits" for "New York Liberty Zone Benefits" in subchapter Y.
 
@@ -104,3 +107,4 @@
 - [Subchapter W - District of Columbia Enterprise Zone](Subchapter%20W%20-%20District%20of%20Columbia%20Enterprise%20Zone/README.md)
 - [Subchapter X - Renewal Communities](Subchapter%20X%20-%20Renewal%20Communities/README.md)
 - [Subchapter Y - Short-Term Regional Benefits](Subchapter%20Y%20-%20Short-Term%20Regional%20Benefits/README.md)
+- [Subchapter Z - Opportunity Zones](Subchapter%20Z%20-%20Opportunity%20Zones/README.md)

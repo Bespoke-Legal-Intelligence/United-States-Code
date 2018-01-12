@@ -6,7 +6,7 @@ If, during the 3-year period after the date on which the employee stock ownershi
 
 &emsp;(1) the total number of shares held by such plan or cooperative after such disposition is less than the total number of employer securities held immediately after such sale, or
 
-&emsp;(2) except to the extent provided in regulations, the value of qualified securities held by such plan or cooperative after such disposition is less than 30 percent of the total value of all employer securities as of such disposition (60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied),
+&emsp;(2) except to the extent provided in regulations, the value of qualified securities held by such plan or cooperative after such dispositionis less than 30 percent of the total value of all employer securities as of such disposition (60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied),
 
 > there is hereby imposed a tax on the disposition equal to the amount determined under subsection (b).
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(11)(A), inserted "or acquired any qualified employer securities in a qualified gratuitous transfer to which section 664(g) applied" after "section 1042 applied" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 105–34, §1530(c)(11)(B), inserted before comma at end "60 percent of the total value of all employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied)".
+Subsec. (a)(2). Pub. L. 105–34, §1530(c)(11)(B), inserted before comma at end "60 percent of the total value ofall employer securities as of such disposition in the case of any qualified employer securities acquired in a qualified gratuitous transfer to which section 664(g) applied)".
 
 Subsec. (b)(2). Pub. L. 105–34, §1530(c)(12)(A), inserted "or acquired in the qualified gratuitous transfer to which section 664(g) applied" after "section 1042 applied" in introductory provisions.
 

@@ -6,7 +6,7 @@
 
 (c) Notwithstanding section 2005(d)(5) or 2011(e)(4)(E) of this title, obligations issued by the Postal Service shall be obligations of the Government of the United States, and payment of principal and interest thereon shall be fully guaranteed by the Government of the United States, such guaranty being expressed on the face thereof, if and to the extent that—
 
-&emsp;(1) the Postal Service requests the Secretary of the Treasury to pledge the full faith andcredit of the Government of the United States for the payment of principal and interest thereon; and
+&emsp;(1) the Postal Service requests the Secretary of the Treasury to pledge the full faith and credit of the Government of the United States for the payment of principal and interest thereon; and
 
 &emsp;(2) the Secretary, in his discretion, determines that it would be in the public interest to do so.
 
@@ -19,4 +19,8 @@
 Subsec. (b). Pub. L. 109–435, §401(b)(4)(B), inserted "under section 2005" before "in such amounts" in first sentence and before "in excess of such amount." in second sentence.
 
 Subsec. (c). Pub. L. 109–435, §401(b)(4)(C), inserted "or 2011(e)(4)(E)" after "section 2005(d)(5)".
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

@@ -4,7 +4,7 @@
 
 The Board shall—
 
-&emsp;(1) supervise or conduct elections and determine whether a labor organization has been selected as the exclusive representative by a majority of employees who cast valid ballots and otherwise administer the provisions of this subchapter relating to the according of exclusive recognition to a labor organization;
+&emsp;(1) supervise or conduct elections and determine whether a labor organization has been selected as the exclusive representative by amajority of employees who cast valid ballots and otherwise administer the provisions of this subchapter relating to the according of exclusive recognition to a labor organization;
 
 &emsp;(2) resolve complaints of alleged unfair labor practices;
 

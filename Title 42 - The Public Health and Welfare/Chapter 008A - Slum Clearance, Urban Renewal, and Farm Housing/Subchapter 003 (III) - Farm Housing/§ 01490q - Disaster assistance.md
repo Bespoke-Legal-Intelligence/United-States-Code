@@ -28,7 +28,7 @@ The Secretary may waive the application of the provisions of section 1490 of thi
 
 #### (e) Rural Housing Insurance Fund
 
-The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums asmay be necessary to meet the requirements of subsection (a)(1), subject to limits previously approved in appropriations Acts.
+The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1), subject to limits previously approved in appropriations Acts.
 
 (July 15, 1949, ch. 338, title V, §541, as added Pub. L. 101–625, title IX, §934, Nov. 28, 1990, 104 Stat. 4404; amended Pub. L. 102–550, title VII, §713, Oct. 28, 1992, 106 Stat. 3842.)
 

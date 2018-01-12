@@ -66,7 +66,7 @@ The Administrator shall undertake a study and publish a report respecting discar
 
 #### (i) Resource recovery facilities
 
-The Administrator shall conduct research and report on the economics of, and impediments, tothe effective functioning of resource recovery facilities.
+The Administrator shall conduct research and report on the economics of, and impediments, to the effective functioning of resource recovery facilities.
 
 #### (j) Resource Conservation Committee
 
@@ -106,7 +106,7 @@ The Administrator shall undertake a comprehensive study and analysis of and publ
 
 #### (l) Completion of research and studies
 
-The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 #### (o) Cement kiln dust waste
 
-The Administrator shall conduct a detailed and comprehensive study of the adverse effects on human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study of the adverse effectson human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -196,11 +196,11 @@ The Administrator shall conduct a detailed and comprehensive study on the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties,including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (q) Authorization of appropriations
 
-There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j) of this section.
+There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j).
 
 #### (r) Minimization of hazardous waste
 
@@ -224,7 +224,7 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 &emsp;(7) methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
 
-> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
+> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 

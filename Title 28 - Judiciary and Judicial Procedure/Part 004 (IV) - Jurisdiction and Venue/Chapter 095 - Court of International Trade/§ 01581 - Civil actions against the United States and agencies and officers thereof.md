@@ -12,7 +12,7 @@
 
 &emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
-&emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
+&emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of acommunity for adjustment assistance under such Act; and
 
 &emsp;(4) any final determination of the Secretary of Agriculture under section 293 or 296 of the Trade Act of 1974 (19 U.S.C. 2401b) <sup>1</sup> with respect to the eligibility of a group of agricultural commodity producers for adjustment assistance under such Act.
 
@@ -94,7 +94,7 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted "the North American Free Trade Agreement or" before "the United States-Canada Free-Trade Agreement" in last sentence.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end "This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of theUnited States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930." See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end "This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930." See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted "(3)" for "(3) or (c)".
 

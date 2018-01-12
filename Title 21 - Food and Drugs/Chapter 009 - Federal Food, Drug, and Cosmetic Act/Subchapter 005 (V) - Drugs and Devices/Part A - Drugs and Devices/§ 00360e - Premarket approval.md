@@ -18,7 +18,7 @@ A class III device—
 
 &emsp;(B) is (i) of a type so introduced or delivered, and (ii) is substantially equivalent to another device within that type,
 
-> the Secretary shall by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5, require that such device have an approval under this section of an application for premarket approval. Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.
+> the Secretary shall by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of thistitle, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5, require that such device have an approval under this section of an application for premarket approval. Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.
 
 (2) A proposed order required under paragraph (1) shall contain—
 
@@ -30,7 +30,7 @@ A class III device—
 
 &emsp;(D) opportunity to request a change in the classification of the device based on new information relevant to the classification of the device.
 
-(3) After the expiration of the period for comment on a proposed order and proposed findings published under paragraph (2), consideration of comments submitted on such proposed order and findings, and a meeting of a device classification panel described in section 360c(b) of this title, the Secretary shall (A) issue an administrative order under paragraph (1) and publish in the Federal Register findings on the matters referred to in paragraph (2)(B), or (B) publish a notice terminating the proceeding for the issuance of the administrative order together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) ofthis title to reclassify the device subject to the proceeding terminated by such notice.
+(3) After the expiration of the period for comment on a proposed order and proposed findings published under paragraph (2), consideration of comments submitted on such proposed order and findings, and a meeting of a device classification panel described in section 360c(b) of this title, the Secretary shall (A) issue an administrative order under paragraph (1) and publish in the Federal Register findings on the matters referred to in paragraph (2)(B), or (B) publish a notice terminating the proceeding for the issuance of the administrative order together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 #### (c) Application for premarket approval
 
@@ -96,7 +96,7 @@ A class III device—
 
 > refer such application to the appropriate panel under section 360c of this title for study and for submission (within such period as he may establish) of a report and recommendation respecting approval of the application, together with all underlying data and the reasons or basis for the recommendation. Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.
 
-(4)(A) Prior to the submission of an application under this subsection, the Secretary shallaccept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(h) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
+(4)(A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
 
 (B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
 
@@ -186,7 +186,7 @@ A class III device—
 
 &emsp;(E) on the basis of new information before him with respect to such device, evaluated together with the evidence before him when the application was approved, that the methods used in, or the facilities and controls used for, the manufacture, processing, packing, or installation of such device do not conform with the requirements of section 360j(f) of this title and were not brought into conformity with such requirements within a reasonable time after receipt of written notice from the Secretary of nonconformity;
 
-&emsp;(F) on the basis of new information before him, evaluated together with the evidence before him when the application was approved,that the labeling of such device, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary of such fact; or
+&emsp;(F) on the basis of new information before him, evaluated together with the evidence before him when the application was approved, that the labeling of such device, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary of such fact; or
 
 &emsp;(G) on the basis of new information before him, evaluated together with the evidence before him when the application was approved, that such device is not shown to conform in all respects to a performance standard which is in effect under section 360d of this title compliance with which was a condition to approval of the application and that there is a lack of adequate information to justify the deviation from such standard.
 
@@ -234,7 +234,7 @@ A class III device—
 
 &emsp;(B) setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1).
 
-(6)(A) The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any timeprior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
+(6)(A) The Secretary may, after providing the person who has an approved protocol an opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
 
 &emsp;(i) such person has failed substantially to comply with the requirements of the protocol,
 
@@ -264,7 +264,7 @@ A class III device—
 
 &emsp;(B) an order under subsection (f)(6)(A) revoking an approved protocol, under subsection (f)(6)(B) declaring that an approved protocol has not been completed, or under subsection (f)(7) revoking the approval of a device,
 
-> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
+> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approvingthe protocol, or placing in effect a notice of completion.
 
 (2)(A) Upon petition for review of—
 
@@ -296,9 +296,11 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, titleVIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154; Pub. L. 115–52, title II, §203(f)(2)(A), Aug. 18, 2017, 131 Stat. 1015.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(4)(A). Pub. L. 115–52 substituted "section 379j(g)" for "section 379j(h)".
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3101(a)(2)(J), substituted "subject to an order" for "subject to a an order".
 
@@ -318,7 +320,7 @@ Subsec. (d)(5), (6). Pub. L. 114–255, §3051(c)(1), redesignated par. (6) as (
 
 Subsec. (b). Pub. L. 112–144, §608(b)(1)(B)(i)(I), which directed substitution of "Order" for "Regulation" in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 112–144, §608(b)(1)(B)(i)(II), in concluding provisions, substituted "by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5" for "by regulation, promulgated in accordance with this subsection" and inserted at end "Authority to issue such administrative order shall not be delegated below theDirector of the Center for Devices and Radiological Health, acting in consultation with the Commissioner."
+Subsec. (b)(1). Pub. L. 112–144, §608(b)(1)(B)(i)(II), in concluding provisions, substituted "by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5" for "by regulation, promulgated in accordance with this subsection" and inserted at end "Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner."
 
 Subsec. (b)(2). Pub. L. 112–144, §608(b)(1)(B)(ii), struck out subpar. (A) designation after "(2)" and substituted "A proposed order required under paragraph (1) shall contain—" for "A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—" in introductory provisions, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, substituted "order" for "regulation" in subpars. (A) and (C), and struck out former subpar. (B) which read as follows: "If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title."
 
@@ -377,6 +379,10 @@ Subsec. (e). Pub. L. 101–629, §9(a)(2), inserted "and temporary suspension" a
 Subsec. (e)(3). Pub. L. 101–629, §9(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, §4(b)(1), added subsec. (i).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 2012 Amendment
 

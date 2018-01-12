@@ -20,11 +20,11 @@
 
 #### (b) Buying, selling, delivering, possessing, training, or transporting animals for participation in animal fighting venture
 
-It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver, or receive any animal for purposes of having the animal participate in an animal fighting venture.
+It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver,or receive any animal for purposes of having the animal participate in an animal fighting venture.
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture, promoting <sup>2</sup> or in any other manner furthering an animal fighting ventureexcept as performed outside the limits of the States of the United States.
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture, promoting <sup>2</sup> or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 
 #### (d) Violation of State law
 
@@ -70,7 +70,7 @@ The criminal penalties for violations of subsection (a), (b), (c), or (e) are pr
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (i)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 

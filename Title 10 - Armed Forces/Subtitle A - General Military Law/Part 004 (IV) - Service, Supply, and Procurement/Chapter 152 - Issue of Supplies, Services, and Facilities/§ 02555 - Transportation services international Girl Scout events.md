@@ -4,7 +4,7 @@
 
 (b) Before furnishing any transportation under subsection (a), the Secretary of Defense shall take from the Girl Scouts of the United States of America a good and sufficient bond for the reimbursement to the United States by the Girl Scouts of the United States of America, of the actual costs of transportation furnished under subsection (a).
 
-(c) Amounts paid to the United States to reimburse it for the actual costs of transportation furnished under subsection (a) shall be credited to the current applicable appropriations orfunds to which such costs were charged and shall be available for the same purposes as such appropriations or funds.
+(c) Amounts paid to the United States to reimburse it for the actual costs of transportation furnished under subsection (a) shall be credited to the current applicable appropriations or funds to which such costs were charged and shall be available for the same purposes as such appropriations or funds.
 
 (Added Pub. L. 95–492, §1, Oct. 20, 1978, 92 Stat. 1642, §2545; renumbered §2555, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title IX, §931(a), Dec. 28, 2001, 115 Stat. 1200.)
 

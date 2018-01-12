@@ -6,7 +6,7 @@ Participation in the supplemental nutrition assistance program shall be limited 
 
 #### (b) Eligibility standards
 
-Except as otherwise provided in this chapter, the Secretary shall establish uniform national standards of eligibility (other than the income standards for Alaska, Hawaii, Guam, and the Virgin Islands of the United States established in accordance with subsections (c) and (e) of this section) for participation by households in the supplemental nutrition assistance program in accordance with the provisions of this section. No plan of operation submitted by a State agency shall be approved unless the standards of eligibility meet those established by the Secretary, and no State agency shall impose any other standards of eligibility as a condition for participating in the program.
+Except as otherwise provided in this chapter, the Secretary shall establish uniform nationalstandards of eligibility (other than the income standards for Alaska, Hawaii, Guam, and the Virgin Islands of the United States established in accordance with subsections (c) and (e) of this section) for participation by households in the supplemental nutrition assistance program in accordance with the provisions of this section. No plan of operation submitted by a State agency shall be approved unless the standards of eligibility meet those established by the Secretary, and no State agency shall impose any other standards of eligibility as a condition for participating in the program.
 
 #### (c) Gross income standard
 
@@ -30,7 +30,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 &emsp;&emsp;(A) awarded to a household member enrolled at a recognized institution of post-secondary education, at a school for the handicapped, in a vocational education program, or in a program that provides for completion of a secondary school diploma or obtaining the equivalent thereof;
 
-&emsp;&emsp;(B) to the extent that they do not exceed the amount used for or made available as anallowance determined by such school, institution, program, or other grantor, for tuition and mandatory fees (including the rental or purchase of any equipment, materials, and supplies related to the pursuit of the course of study involved), books, supplies, transportation, and other miscellaneous personal expenses (other than living expenses), of the student incidental to attending such school, institution, or program; and
+&emsp;&emsp;(B) to the extent that they do not exceed the amount used for or made available as an allowance determined by such school, institution, program, or other grantor, for tuition and mandatory fees (including the rental or purchase of any equipment, materials, and supplies related to the pursuit of the course of study involved), books, supplies, transportation, and other miscellaneous personal expenses (other than living expenses), of the student incidental to attending such school, institution, or program; and
 
 &emsp;&emsp;(C) to the extent loans include any origination fees and insurance premiums;
 
@@ -190,7 +190,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 #### (A) In general
 
-&emsp;&emsp;A household shall be entitled, with respect to expenses other than expenses paid on behalf of the household by a third party, to an excess shelter expense deduction to the extent that the monthly amount expended by a household for shelter exceeds an amount equal to 50 percent of monthly household income after all other applicable deductions have been allowed.
+&emsp;&emsp;A household shall be entitled, with respect to expenses other than expenses paid on behalf of the household by a third party, to anexcess shelter expense deduction to the extent that the monthly amount expended by a household for shelter exceeds an amount equal to 50 percent of monthly household income after all other applicable deductions have been allowed.
 
 #### (B) Maximum amount of deduction
 
@@ -254,7 +254,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 #### (III) States not electing to use separate allowance
 
-&emsp;&emsp;&emsp;&emsp;A State agency that does not elect to use a separate allowance but makes a single standard utility allowance available to households incurring heating or cooling expenses (other than a household described in subclause (I) or (II) of clause (ii)) may not be required to reduce the allowance due to the provision (directly or indirectly) of assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.).
+&emsp;&emsp;&emsp;&emsp;A State agency that does not elect to use a separate allowance but makes a single standard utility allowance available to households incurring heating or cooling expenses (other than a household described in subclause (I) or (II) of clause (ii)) may not be required to reduce the allowance due to the provision (directly or indirectly) of assistance under theLow-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.).
 
 #### (IV) Proration of assistance
 
@@ -304,7 +304,7 @@ Changes that may not be disregarded.—Under clause (i), a State agency may not 
 
 (B) Calculation of household income on a retrospective basis is the calculation of income for the period for which eligibility or benefits are being determined on the basis of income received in a previous period. Such calculation shall be made in accordance with regulations prescribed by the Secretary which may provide for the determination of eligibility on a prospective basis in some or all cases in which benefits are calculated under this paragraph. Such regulations shall provide for supplementing the initial allotments of newly applying households in those cases in which the determination of income under this paragraph causes serious hardship.
 
-(4) In promulgating regulations under this subsection, the Secretary shall consult with the Secretary of Health and Human Services in order to assure that, to the extent feasible and consistent with the purposes of this chapter and the Social Security Act \[42 U.S.C. 301 et seq.\], the income of households receiving benefits under this chapter and title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] is calculated on a comparable basis under this chapter and the Social Security Act. The Secretary is authorized, upon the request of a State agency, to waive any of the provisions of this subsection (except the provisions of paragraph (2)(A)) to the extent necessary to permit the State agency to calculate income for purposes of this chapter on the same basis that income is calculated under title IV–A of the Social Security Act in that State.
+(4) In promulgating regulations under this subsection, the Secretary shall consult with the Secretary of Health and Human Services in order to assure that, to the extent feasible and consistent with the purposes of this chapter and the Social Security Act \[42 U.S.C. 301 et seq.\], the income of households receiving benefits under this chapter and title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] is calculated on a comparable basis under this chapter and the Social Security Act. The Secretary is authorized, upon the request of a State agency, to waive any of the provisions of this subsection (except the provisions of paragraph (2)(A)) to the extent necessary to permit the State agency to calculate income for purposes of this chapter on the same basis that income is calculated undertitle IV–A of the Social Security Act in that State.
 
 #### (g) Allowable financial resources
 
@@ -362,7 +362,7 @@ Excluded vehicles.—A vehicle (and any other property, real or personal, to the
 
 &emsp;(D)
 
-Alternative vehicle allowance.—If the vehicle allowance standards that a State agency uses to determine eligibility for assistanceunder the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) would result in a lower attribution of resources to certain households than under subparagraph (B)(iv), in lieu of applying subparagraph (B)(iv), the State agency may elect to apply the State vehicle allowance standards to all households that would incur a lower attribution of resources under the State vehicle allowance standards.
+Alternative vehicle allowance.—If the vehicle allowance standards that a State agency uses to determine eligibility for assistance under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) would result in a lower attribution of resources to certain households than under subparagraph (B)(iv), in lieu of applying subparagraph (B)(iv), the State agency may elect to apply the State vehicle allowance standards to all households that would incur a lower attribution of resources under the State vehicle allowance standards.
 
 (3) The Secretary shall exclude from financial resources the value of a burial plot for each member of a household and nonliquid resources necessary to allow the household to carry out a plan for self-sufficiency approved by the State agency that constitutes adequate participation in an employment and training program under section 2015(d) of this title or a pilot project under section 2025(h)(1)(F) of this title. The Secretary shall also exclude from financial resources any earned income tax credits received by any member of the household for a period of 12 months from receipt if such member was participating in the supplemental nutrition assistance program at the time the credits were received and participated in such program continuously during the 12-month period.
 
@@ -384,7 +384,7 @@ In general.—Subject to subparagraph (B), a State agency may, at the option of 
 
 &emsp;(B)
 
-Limitations.—Except to the extent that any of the types of resources specified in clauses (i) through (iv) are excluded under another paragraph of this subsection, subparagraph (A) does not authorize a State agency to exclude—
+Limitations.—Except to the extent that any of the types of resources specified inclauses (i) through (iv) are excluded under another paragraph of this subsection, subparagraph (A) does not authorize a State agency to exclude—
 
 &emsp;&emsp;(i) cash;
 
@@ -448,7 +448,7 @@ Discretionary exclusions.—The Secretary may exclude from financial resources u
 
 &emsp;(iii) the monthly income attributed to such alien shall be one-twelfth of the amount calculated under clause (ii) of this subparagraph.
 
-(B) The amount of resources of a sponsor, and the sponsor's spouse if living with the sponsor, which shall be deemed to be the resources of an alien for any year shall be determined as follows:
+(B) The amount of resources of a sponsor, and the sponsor's spouse if living with the sponsor,which shall be deemed to be the resources of an alien for any year shall be determined as follows:
 
 &emsp;(i) the total amount of the resources of such sponsor and such sponsor's spouse if such spouse is living with the sponsor shall be determined under rules prescribed by the Secretary;
 
@@ -514,7 +514,7 @@ Energy assistance expenses.—For purposes of subsection (e)(6), an expense paid
 
 Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3241(a)(2)\], earnings to individuals participating in on-the-job training under title I of such Act \[29 U.S.C. 3111 et seq.\] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 
-#### (m) Simplified calculation of income for self-employed
+#### (m) Simplified calculation of income for the self-employed
 
 #### (1) In general
 
@@ -532,7 +532,7 @@ Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Ac
 
 Regardless of whether a State agency elects to provide a deduction under subsection (e)(4), the Secretary shall establish simplified procedures to allow State agencies, at the option of the State agencies, to determine the amount of any legally obligated child support payments made, including procedures to allow the State agency to rely on information from the agency responsible for implementing the program under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) concerning payments made in prior months in lieu of obtaining current information from the households.
 
-(Pub. L. 88–525, §5, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §4, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 93–86, §3(d), (e), (g), (h), Aug. 10, 1973, 87 Stat. 246, 247; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 962; Pub. L. 96–58, §2, Aug. 14, 1979, 93 Stat. 390; Pub. L. 96–223, title III, §313(c)(2), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–249, title I, §§102–108, 112, 136–138, May 26, 1980, 94 Stat. 357–359, 361, 369, 370; Pub. L. 97–35, title I, §§104(a), 105–107, 115, 116(a)(1), title XXVI, §2611, Aug. 13, 1981, 95 Stat. 358–361, 364, 902; Pub. L. 97–98, title XIII, §§1305–1309, Dec. 22, 1981, 95 Stat. 1283, 1284; Pub. L. 97–253, title I, §§143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, 96 Stat. 773–776, 787; Pub. L. 98–204, §4, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, 99 Stat. 1567–1572; Pub. L. 99–500, §101(a) \[title VI, §638(a)\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §638(a)\], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 100–77, title VIII, §§803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, 101 Stat. 534, 535; Pub. L. 100–232, §2(a), Jan. 5, 1988, 101 Stat. 1566; Pub. L. 100–387, title V, §501(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §§201, 202(a), title III, §§340–343, 351, title IV, §§402, 403, 404(f), Sept. 19, 1988, 102 Stat. 1655, 1656, 1663–1665, 1668; Pub. L. 100–707,title I, §109(d), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XVII, §§1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, 104 Stat. 3783–3787; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–237, title IX, §§902–906, 941(2), Dec. 13, 1991, 105 Stat. 1884, 1885, 1892; Pub. L. 102–265, §1(a), Mar. 26, 1992, 106 Stat. 90; Pub. L. 102–367, title VII, §702(b), Sept. 7, 1992, 106 Stat. 1113; Pub. L. 103–66, title XIII, §§13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, 107 Stat. 673–675; Pub. L. 103–225, title I, §101(b)(2), Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title I, §109(a), title VIII, §§806–809(a), 810–812, Aug. 22, 1996, 110 Stat. 2169, 2309, 2313, 2314; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(A), (f)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 106–387, §1(a) \[title VIII, §§846(a), 847(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, 1549A–66; Pub. L. 107–171, title IV, §§4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, 116 Stat. 305–309, 313, 333; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, 122 Stat. 1092, 1098–1100, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1859–1861, 1867; Pub. L. 113–79, title IV, §§4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, 128 Stat. 786–788, 808, 814; Pub. L. 113–128, title V, §512(l)(1), July 22, 2014, 128 Stat. 1709.)
+(Pub. L. 88–525, §5, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §4, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 93–86, §3(d), (e), (g), (h), Aug. 10, 1973, 87 Stat. 246, 247; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 962; Pub. L. 96–58, §2, Aug. 14, 1979, 93 Stat. 390; Pub. L. 96–223, title III, §313(c)(2), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–249, title I, §§102–108, 112, 136–138, May 26, 1980, 94 Stat. 357–359, 361, 369, 370; Pub. L. 97–35, title I, §§104(a), 105–107, 115, 116(a)(1), title XXVI, §2611, Aug. 13, 1981, 95 Stat. 358–361, 364, 902; Pub. L. 97–98, title XIII, §§1305–1309, Dec. 22, 1981, 95 Stat. 1283, 1284; Pub. L. 97–253, title I, §§143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, 96 Stat. 773–776, 787; Pub. L. 98–204, §4, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, 99 Stat. 1567–1572; Pub. L. 99–500, §101(a) \[title VI, §638(a)\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §638(a)\], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 100–77, title VIII, §§803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, 101 Stat. 534, 535; Pub. L. 100–232, §2(a), Jan. 5, 1988, 101 Stat. 1566; Pub. L. 100–387, title V, §501(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §§201, 202(a), title III, §§340–343, 351, title IV, §§402, 403, 404(f), Sept. 19, 1988, 102 Stat. 1655, 1656, 1663–1665, 1668; Pub. L. 100–707, title I, §109(d), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XVII, §§1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, 104 Stat. 3783–3787; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–237, title IX, §§902–906, 941(2), Dec. 13, 1991, 105 Stat. 1884, 1885, 1892; Pub. L. 102–265, §1(a), Mar. 26, 1992, 106 Stat. 90; Pub. L. 102–367, title VII, §702(b), Sept. 7, 1992, 106 Stat. 1113; Pub. L. 103–66, title XIII, §§13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, 107 Stat. 673–675; Pub. L. 103–225, title I, §101(b)(2), Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title I, §109(a), title VIII, §§806–809(a), 810–812, Aug. 22, 1996, 110 Stat. 2169, 2309, 2313, 2314; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(A), (f)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 106–387, §1(a) \[title VIII, §§846(a), 847(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, 1549A–66; Pub. L. 107–171, title IV, §§4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, 116 Stat. 305–309, 313, 333; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, 122 Stat. 1092, 1098–1100, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1859–1861, 1867; Pub. L. 113–79, title IV, §§4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, 128 Stat. 786–788, 808, 814; Pub. L. 113–128, title V, §512(l)(1), July 22, 2014, 128 Stat. 1709.)
 
 #### References in Text
 
@@ -554,7 +554,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–79, §4008(b), substituted "subsections (b), (d)(2), (g), and (r) of section 2015 of this title" for "sections 2015(b), 2015(d)(2), and 2015(g) of this title".
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §4008(b), substituted "subsections (b), (d)(2), (g), and (r) of section 2015 ofthis title" for "sections 2015(b), 2015(d)(2), and 2015(g) of this title".
 
 Subsec. (d)(14). Pub. L. 113–79, §4022(b)(1)(A), inserted "or a pilot project under section 2025(h)(1)(F) of this title" after "section 2015(d)(4)(I) of this title".
 
@@ -634,7 +634,7 @@ In general.—A household shall be entitled to a deduction for child support pay
 
 Methods for determining amount.—The Secretary may prescribe by regulation the methods, including calculation on a retrospective basis, that a State agency shall use to determine the amount of the deduction for child support payments."
 
-Subsec. (e)(5), (6). Pub. L. 107–171, §4105(b)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: "Under rules prescribed by the Secretary, a State agency may develop a standard homeless shelter allowance, which shall not exceed $143 per month, for such expenses as may reasonably be expected to be incurred by households in which all members are homeless individuals but are not receiving free shelter throughout the month. A State agency that develops the allowance may use the allowance in determining eligibility and allotments for the households. The State agency may make a household with extremely low shelter costs ineligible for the allowance."
+Subsec. (e)(5), (6). Pub. L. 107–171, §4105(b)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: "Under rules prescribed by the Secretary, a State agency may develop a standard homeless shelter allowance, which shall not exceed $143 per month, for such expenses as may reasonably be expected to be incurred by households in which all members are homeless individuals but are not receiving freeshelter throughout the month. A State agency that develops the allowance may use the allowance in determining eligibility and allotments for the households. The State agency may make a household with extremely low shelter costs ineligible for the allowance."
 
 Subsec. (e)(7). Pub. L. 107–171, §4105(b)(1)(B), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
@@ -716,7 +716,7 @@ Pub. L. 103–66, §13912(b)(1), inserted new fifth and sixth sentences: "In the
 
 Pub. L. 103–66, §13912(a)(2), in seventh sentence struck out "under clause (2) of the preceding sentence" after "shelter expense deduction".
 
-Pub. L. 103–66, §13921, inserted at end: "Before determining the excess shelter expense deduction, all households shall be entitled to a deduction for child support payments made by a household member to or for an individual who is not a member of the household if such household member was legally obligated to make such payments, except that the Secretary is authorized to prescribe by regulation the methods, including calculation on a retrospective basis, that State agencies shalluse to determine the amount of the deduction for child support payments."
+Pub. L. 103–66, §13921, inserted at end: "Before determining the excess shelter expense deduction, all households shall be entitled to a deduction for child support payments made by a household member to or for an individual who is not a member of the household if such household member was legally obligated to make such payments, except that the Secretary is authorized to prescribe by regulation the methods, including calculation on a retrospective basis, that State agencies shall use to determine the amount of the deduction for child support payments."
 
 Subsec. (g)(2). Pub. L. 103–66, §13924, inserted at end: "The Secretary shall exclude from financial resources the value of a vehicle that a household depends upon to carry fuel for heating or water for home use when such transported fuel or water is the primary source of fuel or water for the household."
 
@@ -762,7 +762,7 @@ Subsec. (d)(3). Pub. L. 101–624, §1715(a)(1), inserted "(A)" after "the like"
 
 Subsec. (d)(5). Pub. L. 101–624, §1716, inserted "and any allowance a State agency provides no more frequently than annually to families with children on the occasion of those children's entering or returning to school or child care for the purpose of obtaining school clothes (except that no such allowance shall be excluded if the State agency reduces monthly assistance to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in the month for which the allowance is provided)" after "household".
 
-Pub. L. 101–624, §1715(a)(2), inserted "and" after "1988),", struck out "non-Federal" after "no portion of any", and struck out "and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans' benefits, and the liketo the extent it provides income assistance beyond that used for tuition and mandatory school fees," before "shall be considered such reimbursement".
+Pub. L. 101–624, §1715(a)(2), inserted "and" after "1988),", struck out "non-Federal" after "no portion of any", and struck out "and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans' benefits, and the like to the extent it provides income assistance beyond that used for tuition and mandatory school fees," before "shall be considered such reimbursement".
 
 Subsec. (e). Pub. L. 101–624, §1717, inserted before period at end of last sentence ", shall rely on reasonable estimates of the member's expected medical expenses for the certification period (including changes that can be reasonably anticipated based on available information about the member's medical condition, public or private medical insurance coverage, and the current verified medical expenses incurred by the member), and shall not require further reporting or verification of a change in medical expenses if such a change has been anticipated for the certification period".
 
@@ -838,7 +838,7 @@ Subsec. (k)(2)(E) to (G). Pub. L. 100–387 added subpar. (E) and redesignated f
 
 Subsec. (e). Pub. L. 100–77, §804(a), in second sentence substituted "(3)" for "and (3)" and "October 1, 1986" for "each October 1 thereafter", and inserted cl. (4).
 
-Pub. L. 100–77, §805(a), inserted at end of third sentence ", except that such additional deduction shall not be allowed with respect to earned income that a household willfully or fraudulently fails (as proven in aproceeding provided for in section 2015(b) of this title) to report in a timely manner".
+Pub. L. 100–77, §805(a), inserted at end of third sentence ", except that such additional deduction shall not be allowed with respect to earned income that a household willfully or fraudulently fails (as proven in a proceeding provided for in section 2015(b) of this title) to report in a timely manner".
 
 Pub. L. 100–77, §806(a), amended proviso in fourth sentence generally. Prior to amendment, the proviso read as follows: "That the amount of such excess shelter expense deduction shall not exceed $147 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $256, $210, $179, and $109 a month, respectively, adjusted on October 1, 1986, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeowners' costs and maintenance and repair component of shelter costs), fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30."
 
@@ -880,7 +880,7 @@ Subsec. (f)(1)(A). Pub. L. 99–198, §1512, inserted sentence at end providing 
 
 Subsec. (f)(2)(A). Pub. L. 99–198, §1513(a)(1), amended subpar. (A) generally, inserting reference to households that have no earned income and in which all adult members are elderly or disabled members.
 
-Subsec. (f)(2)(B). Pub. L. 99–198, §1513(a)(2), substituted "households that are permitted to report household circumstances at specified intervals less frequent than monthly under the first sentence of section 2015(c)(1) of this title, may, with the approval" for "households that (i) are permitted to report household circumstances at specified intervals less frequent than monthly under section 2015(c)(1) of this title, (ii) have no earned income and in which all adult members areelderly or disabled members, or (iii) are any other households, other than a migrant household, not required to report monthly or at less frequent intervals under section 2015(c)(1) of this title, may, with the approval".
+Subsec. (f)(2)(B). Pub. L. 99–198, §1513(a)(2), substituted "households that are permitted to report household circumstances at specified intervals less frequent than monthly under the first sentence of section 2015(c)(1) of this title, may, with the approval" for "households that (i) are permitted to report household circumstances at specified intervals less frequent than monthly under section 2015(c)(1) of this title, (ii) have no earned income and in which all adult members are elderly or disabled members, or (iii) are any other households, other than a migrant household, not required to report monthly or at less frequent intervals under section 2015(c)(1) of this title, may, with the approval".
 
 Subsec. (f)(2)(C). Pub. L. 99–198, §1513(a)(3), substituted "Except as provided in subparagraphs (A) and (B), household income for households that have earned income and for households that include any member who has recent work history shall be calculated on a retrospective basis as provided in paragraph (3)(B)" for "Household income for all other households shall be calculated on a retrospective basis as provided in paragraph (3)(B)".
 
@@ -906,7 +906,7 @@ Subsec. (m). Pub. L. 99–198, §1510(2), added subsec. (m).
 
 Subsec. (d)(12). Pub. L. 97–253, §147, added cl. (12).
 
-Subsec. (e). Pub. L. 97–253, §§143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence, respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
+Subsec. (e). Pub. L. 97–253, §§143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence,respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
 
 Subsec. (f)(2)(A). Pub. L. 97–253, §189(a), corrected a typographical error by substituting "prospective" for "propsective".
 
@@ -926,7 +926,7 @@ Pub. L. 97–35, §§107(c), 2611, struck out "(2)" after "(f)" in cl. (2), stru
 
 Subsec. (e). Pub. L. 97–98, §1307, inserted ", with respect to expenses other than expenses paid on behalf of the household by a third party," after "entitled" in two places.
 
-Pub. L. 97–35, §§104(a)(2), 105, 106, 115, 116(a)(1), completely revised and reorganized provisions to providefor computation of standard deduction of $85 per month instead of standard deduction of $60 per month and accompanying determinations respecting adjustments, applicability, etc., for computation.
+Pub. L. 97–35, §§104(a)(2), 105, 106, 115, 116(a)(1), completely revised and reorganized provisions to provide for computation of standard deduction of $85 per month instead of standard deduction of $60 per month and accompanying determinations respecting adjustments, applicability, etc., for computation.
 
 Subsec. (f). Pub. L. 97–35, §107(a), completely revised and reorganized provisions to provide for calculation of household income through a prospective or retrospective basis instead of calculation of household income by the State agency, and accompanying determination respecting criteria, methodologies, etc., for calculation.
 
@@ -1026,7 +1026,7 @@ Pub. L. 106–387, §1(a) \[title VIII, §847(b)\], Oct. 28, 2000, 114 Stat. 154
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(2)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(2)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(2)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(2)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as anote under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 
@@ -1066,7 +1066,7 @@ Limitation on application of section.—Notwithstanding section 11(b) of the Foo
 
 #### Effective Date of 1991 Amendment
 
-Amendment by sections 902, 903(1), (2), 904–906, and 941(2) of Pub. L. 102–237 effective and to be implementedno later than Feb. 1, 1992, and amendment by section 903(3) of Pub. L. 102–237 effective on the earlier of Dec. 13, 1991, Oct. 1, 1990, for certain supplemental nutrition assistance program benefits households, or beginning on date of request for hearing where exclusion of certain amounts for supplemental nutrition assistance program benefits purposes was denied, with limitation on application of amendment, see section 1101(d)(1), (2) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by sections 902, 903(1), (2), 904–906, and 941(2) of Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, and amendment by section 903(3) of Pub. L. 102–237 effective on the earlier of Dec. 13, 1991, Oct. 1, 1990, for certain supplemental nutrition assistance program benefits households, or beginning on date of request for hearing where exclusion of certain amounts for supplemental nutrition assistance program benefits purposes was denied, with limitation on application of amendment, see section 1101(d)(1), (2) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -1094,7 +1094,7 @@ Application of Amendment.—The amendment made by this section shall not apply w
 
 #### Effective and Termination Dates of 1987 Amendment
 
-Pub. L. 100–77, title VIII, §803(b), July 22, 1987, 101 Stat. 534, provided that: "The amendment made by this section \[amending this section\] shall become effective on July 1, 1988."
+Pub. L. 100–77, title VIII, §803(b), July 22, 1987, 101 Stat. 534, provided that: "The amendment made by thissection \[amending this section\] shall become effective on July 1, 1988."
 
 Pub. L. 100–77, title VIII, §804(b), July 22, 1987, 101 Stat. 534, provided that: "The amendments made by this section \[amending this section\] shall become effective on October 1, 1987."
 
@@ -1176,7 +1176,7 @@ Section 313(c)(2) of Pub. L. 96–223, cited as a credit to this section, was re
 
 #### Calculation of Household Income
 
-Pub. L. 101–624, title XVII, §1718(b), Nov. 28, 1990, 104 Stat. 3785, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, §1718(b), Nov. 28, 1990, 104 Stat. 3785, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098;Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 "(1)
 

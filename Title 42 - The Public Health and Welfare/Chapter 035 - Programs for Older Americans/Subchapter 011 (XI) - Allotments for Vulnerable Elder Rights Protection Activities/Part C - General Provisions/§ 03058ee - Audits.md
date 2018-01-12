@@ -2,7 +2,7 @@
 
 #### (a) Access
 
-The Assistant Secretary, the Comptroller General of the United States, and any duly authorized representative of the Assistant Secretary or the Comptroller shall have access, for the purpose of conducting an audit or examination, to any books, documents, papers, and records thatare pertinent to financial assistance received under this subchapter.
+The Assistant Secretary, the Comptroller General of the United States, and any duly authorized representative of the Assistant Secretary or the Comptroller shall have access, for the purpose of conducting an audit or examination, to any books, documents, papers, and records that are pertinent to financial assistance received under this subchapter.
 
 #### (b) Limitation
 
@@ -15,4 +15,10 @@ State agencies and area agencies on aging shall not request information or data 
 <b>2000</b>—Subsec. (b). Pub. L. 106–501 substituted "and area agencies on aging" for ", area agencies on aging, and entities described in section 3058aa(c) of this title".
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in two places.
+
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 

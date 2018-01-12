@@ -60,7 +60,7 @@ A corporation, partnership, or other business entity may provide appraisal servi
 
 #### (g) Appraiser independence monitoring
 
-The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purpose of determining whether such agency's policies, practices, and procedures are consistent with the purposes of maintaining appraiser independence and whether such State has adopted and maintains effective laws, regulations, and policies aimed at maintaining appraiser independence.
+The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purpose of determining whether such agency's policies, practices, and procedures are consistent with the purposes of maintainingappraiser independence and whether such State has adopted and maintains effective laws, regulations, and policies aimed at maintaining appraiser independence.
 
 #### (h) Approved education
 

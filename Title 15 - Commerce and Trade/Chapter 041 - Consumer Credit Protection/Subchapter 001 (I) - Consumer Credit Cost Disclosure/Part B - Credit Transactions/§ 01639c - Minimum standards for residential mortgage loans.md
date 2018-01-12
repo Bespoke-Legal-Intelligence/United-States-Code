@@ -84,7 +84,7 @@
 
 #### (9) Seasonal income
 
-&emsp;If documented income, including income from a small business, is a repayment sourcefor a residential mortgage loan, a creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
+&emsp;If documented income, including income from a small business, is a repayment source for a residential mortgage loan, a creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
 
 #### (b) Presumption of ability to repay
 
@@ -134,7 +134,7 @@
 
 #### (ii) Computation
 
-&emsp;&emsp;&emsp;For purposes of computing the total points and fees under this subparagraph, the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
+&emsp;&emsp;&emsp;For purposes of computing the total points and fees under this subparagraph,the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
 
 &emsp;&emsp;&emsp;&emsp;(I) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point the average prime offer rate.
 
@@ -150,7 +150,7 @@
 
 #### (D) Smaller loans
 
-&emsp;&emsp;The Bureau shall prescribe rules adjusting the criteria under subparagraph (A)(vii) inorder to permit lenders that extend smaller loans to meet the requirements of the presumption of compliance under paragraph (1). In prescribing such rules, the Bureau shall consider the potential impact of such rules on rural areas and other areas where home values are lower.
+&emsp;&emsp;The Bureau shall prescribe rules adjusting the criteria under subparagraph (A)(vii) in order to permit lenders that extend smaller loans to meet the requirements of the presumption of compliance under paragraph (1). In prescribing such rules, the Bureau shall consider the potential impact of such rules on rural areas and other areas where home values are lower.
 
 #### (E) Balloon loans
 
@@ -202,7 +202,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A residential mortgage loan that is not a "qualified mortgage", as defined under subsection (b)(2), may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
+&emsp;&emsp;A residential mortgage loan that is not a "qualified mortgage", as defined under subsection (b)(2), may not contain terms underwhich a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
 
 #### (B) Exclusions
 
@@ -264,7 +264,7 @@ No creditor may finance, directly or indirectly, in connection with any resident
 
 #### (3) No waiver of statutory cause of action
 
-&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
+&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to inparagraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
 
 #### (f) Mortgages with negative amortization
 
@@ -336,7 +336,7 @@ Subsecs. (h), (i). Pub. L. 111–203, §1414(d), added subsecs. (h) and (i).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1412 and 1414(a), (c), (d) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date, if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

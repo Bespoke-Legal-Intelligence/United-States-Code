@@ -4,7 +4,7 @@
 
 \[(b) Repealed. Pub. L. 98–557, §18, Oct. 30, 1984, 98 Stat. 2869.\]
 
-(c) A vessel to which section 3702(b) of this title applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualified for the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under section 7101 of this title is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
+(c) A vessel to which section 3702(b) of this title applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualifiedfor the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under section 7101 of this title is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 98–557, §18, Oct. 30, 1984, 98 Stat. 2869.)
 

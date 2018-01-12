@@ -80,7 +80,7 @@
 
 #### (2) Two-year registration period for small community-based agencies
 
-&emsp;For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
+&emsp;For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewerthan 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
 
 #### (3) Criteria for registration
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(C) The agency has demonstrated that it will be able to provide the United States Government with all information related to the elements described in section 14914(b) of this title and provides such information.
 
-&emsp;&emsp;(D) The agency has initiated the process of becoming accredited under the provisions ofthis chapter and is actively taking steps to become an accredited agency.
+&emsp;&emsp;(D) The agency has initiated the process of becoming accredited under the provisions of this chapter and is actively taking steps to become an accredited agency.
 
 &emsp;&emsp;(E) The agency has not been found to be involved in any improper conduct relating to intercountry adoptions.
 

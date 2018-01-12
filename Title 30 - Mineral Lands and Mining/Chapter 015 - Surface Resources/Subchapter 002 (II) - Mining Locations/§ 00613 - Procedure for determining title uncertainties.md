@@ -10,7 +10,7 @@ The filing of such request for publication shall also be accompanied by the cert
 
 Thereupon the Secretary of the Interior, at the expense of the requesting department or agency, shall cause notice to mining claimants to be published in a newspaper having general circulation in the county in which the lands involved are situate.
 
-Such notice shall describe the lands covered by such request, as provided heretofore, and shall notify whomever it may concern that if any person claiming or asserting under, or by virtue of, any unpatented mining claim heretofore located, rights as to such lands or any part thereof, shall fail to file in the office where such request for publication was filed (which office shall be specified in such notice) and withinone hundred and fifty days from the date of the first publication of such notice (which date shall be specified in such notice), a verified statement which shall set forth, as to such unpatented mining claim—
+Such notice shall describe the lands covered by such request, as provided heretofore, and shall notify whomever it may concern that if any person claiming or asserting under, or by virtue of, any unpatented mining claim heretofore located, rights as to such lands or any part thereof, shall fail to file in the office where such request for publication was filed (which office shall be specified in such notice) and within one hundred and fifty days from the date of the first publication of such notice (which date shall be specified in such notice), a verified statement which shall set forth, as to such unpatented mining claim—
 
 &emsp;(1) the date of location;
 

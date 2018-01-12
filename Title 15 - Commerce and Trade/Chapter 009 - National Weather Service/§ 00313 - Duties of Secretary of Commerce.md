@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -76,29 +76,7 @@ Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce s
 
 #### United States Weather Research Program
 
-Pub. L. 102–567, title I, §108, Oct. 29, 1992, 106 Stat. 4276, provided that:
-
-"(a)
-
-Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
-
-&emsp;"(1) increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;
-
-&emsp;"(2) improve local and regional weather forecasts and warnings;
-
-&emsp;"(3) address critical weather-related scientific issues; and
-
-&emsp;"(4) coordinate governmental, university, and private-sector efforts.
-
-"(b)
-
-Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
-
-&emsp;"(1) establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;
-
-&emsp;"(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, demonstration of potential operational forecast applications, and education and training required to achieve such goals and priorities; and
-
-&emsp;"(3) set forth the role of each Federal agency and department to be involved in the United States Weather Research Program, identifying and addressing, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to such Program."
+Pub. L. 102–567, title I, §108, Oct. 29, 1992, 106 Stat. 4276, as amended by Pub. L. 115–25, title I, §109, Apr. 18, 2017, 131 Stat. 97, formerly set out as a note under this section, was transferred to section 8520 of this title.
 
 #### Weather Service Modernization
 
@@ -324,19 +302,7 @@ Pub. L. 100–685, title IV, §408, Nov. 17, 1988, 102 Stat. 4099, prohibited Se
 
 #### Weather and Climate Information in Agriculture
 
-Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651, provided that:
-
-"(a) Congress finds that—
-
-&emsp;"(1) agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
-
-&emsp;"(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
-
-&emsp;"(3) agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
-
-&emsp;"(4) efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
-
-"(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information."
+Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651, as amended by Pub. L. 115–25, title II, §201, Apr. 18, 2017, 131 Stat. 98, formerly set out as a note under this section, was transferred to section 8521 of this title.
 
 #### National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency
 
@@ -364,5 +330,5 @@ Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures a
 
 "
 
-Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with the Chief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control."
+Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with theChief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control."
 

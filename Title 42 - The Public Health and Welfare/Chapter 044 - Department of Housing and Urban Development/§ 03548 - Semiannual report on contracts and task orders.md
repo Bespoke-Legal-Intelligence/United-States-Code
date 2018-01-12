@@ -6,5 +6,5 @@ The Secretary shall submit semi-annually to the Committees on Appropriations a l
 
 #### Codification
 
-Section was enacted as part of the 1997 Emergency Supplemental Appropriations Act for Recovery from Natural Disasters, and for Overseas Peacekeeping Efforts, Including Those in Bosnia, and not as part of theDepartment of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the 1997 Emergency Supplemental Appropriations Act for Recovery from Natural Disasters, and for Overseas Peacekeeping Efforts, Including Those in Bosnia, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 

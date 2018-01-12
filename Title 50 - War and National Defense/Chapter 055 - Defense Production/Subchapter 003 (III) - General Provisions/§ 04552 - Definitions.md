@@ -4,7 +4,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Critical component
 
-&emsp;The term "critical component" includes such components, subsystems, systems, and related special tooling and test equipment essential to the production, repair, maintenance, or operation of weapon systems or other items of equipment identified by the President as being essential to the execution of the national security strategy of the United States. Components identified as critical by a National Security Assessment conducted pursuant to section 113(i) of title 10 or by a Presidential determination as a result of a petition filed under section 1862 of title 19 shall be designated as critical components for purposes of this chapter, unless the President determines that the designation is unwarranted.
+&emsp;The term "critical component" includes such components, subsystems, systems, and related special tooling and test equipment essential to the production, repair, maintenance, or operation of weapon systems or other items of equipment identified by the President as being essential to the execution of the national security strategy of the United States. Components identified as critical by aNational Security Assessment conducted pursuant to section 113(i) of title 10 or by a Presidential determination as a result of a petition filed under section 1862 of title 19 shall be designated as critical components for purposes of this chapter, unless the President determines that the designation is unwarranted.
 
 #### (2) Critical infrastructure
 
@@ -76,7 +76,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (14) National defense
 
-&emsp;The term "national defense" means programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity. Such term includes emergency preparedness activities conductedpursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\] and critical infrastructure protection and restoration.
+&emsp;The term "national defense" means programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity. Such term includes emergency preparedness activities conducted pursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\] and critical infrastructure protection and restoration.
 
 #### (15) Person
 
@@ -96,7 +96,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (17) Small business concern
 
-&emsp;The term "small business concern" means a business concern that meets the requirements of section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
+&emsp;The term "small business concern" means a business concern that meets the requirementsof section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
 
 (Sept. 8, 1950, ch. 932, title VII, §702, 64 Stat. 815; June 30, 1953, ch. 171, §8, 67 Stat. 130; Pub. L. 91–379, title I, §102, Aug. 15, 1970, 84 Stat. 796; Pub. L. 102–558, title I, §132, Oct. 28, 1992, 106 Stat. 4210; Pub. L. 103–337, div. C, title XXXIV, §3411(b), Oct. 5, 1994, 108 Stat. 3110; Pub. L. 108–195, §5, Dec. 19, 2003, 117 Stat. 2893; Pub. L. 111–67, §8, Sept. 30, 2009, 123 Stat. 2017.)
 

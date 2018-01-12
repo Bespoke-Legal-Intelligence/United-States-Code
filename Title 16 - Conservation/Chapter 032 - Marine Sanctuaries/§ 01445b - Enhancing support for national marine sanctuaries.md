@@ -68,7 +68,7 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 
 &emsp;&emsp;(B) is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
 
-(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049; renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
+(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049;renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
 
 #### Codification
 
@@ -128,7 +128,7 @@ Subsec. (h). Pub. L. 104–283, §6(b)(1), struck out heading and text of subsec
 
 &emsp;"(1) the term 'national marine sanctuary' or 'national marine sanctuaries' means a national marine sanctuary or sanctuaries designated under this chapter, or by other law in accordance with this chapter;
 
-&emsp;"(2) the term 'official sponsor' means any person designated by the Secretary who is authorized tomanufacture, reproduce, or use any symbol created, adopted, and published in the Federal Register under this section for a fee paid to the Secretary; and
+&emsp;"(2) the term 'official sponsor' means any person designated by the Secretary who is authorized to manufacture, reproduce, or use any symbol created, adopted, and published in the Federal Register under this section for a fee paid to the Secretary; and
 
 &emsp;"(3) the term 'Secretary' means the Secretary of Commerce."
 

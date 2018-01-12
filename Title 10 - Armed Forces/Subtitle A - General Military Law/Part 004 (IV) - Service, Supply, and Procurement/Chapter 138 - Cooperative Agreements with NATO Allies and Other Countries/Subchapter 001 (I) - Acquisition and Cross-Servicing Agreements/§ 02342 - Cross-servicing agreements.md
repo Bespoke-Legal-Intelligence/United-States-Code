@@ -32,7 +32,7 @@
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted "unless" after "section" in introductory provisions, struck out "unless" after "(1)" in par. (1), and substituted "the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives notice of the intended designation" for "notifies the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives" in par. (2).
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §1317(b)(1), substituted "with any of the following:" for "with—" in introductory provisions, substituted "The government" for "the government" and a period for the semicolon in subpar. (A), substituted "A subsidiary" for "a subsidiary" and "Organization." for "Organization; or" in subpar. (B), added subpar. (C), redesignated former subpar. (C) as (D) and substituted "The government" for "the government".
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §1317(b)(1), substituted "with any of the following:" for "with—" in introductory provisions, substituted "The government" for "the government" and a period for the semicolon in subpar. (A), substituted "A subsidiary" for "a subsidiary" and "Organization." for "Organization; or" in subpar. (B), added subpar. (C), redesignated former subpar.\(C) as (D) and substituted "The government" for "the government".
 
 Subsec. (a)(2). Pub. L. 103–337, §1317(b)(2), substituted "organization" for "subsidiary body" in two places.
 
@@ -54,11 +54,11 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) ofPub. L. 103–337, set out as a note under section 2341 of this title.
+Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
 
 #### Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations
 
-Pub. L. 113–291, div. A, title XII, §1207, Dec. 19, 2014, 128 Stat. 3539, provided that:
+Pub. L. 113–291, div. A, title XII, §1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(4), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 "(a)
 
@@ -118,10 +118,6 @@ Waiver on a case-by-case basis.—Any waiver under this subsection may be made o
 
 "(d)
 
-Reports to Congress.—If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, in coordination with the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
-
-"(e)
-
 Definitions.—In this section:
 
 &emsp;"(1) The term 'appropriate committees of Congress' means—
@@ -132,7 +128,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'personnel protection and personnel survivability equipment' means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)\[)\] that the Secretary of Defense designates as available for loan under this section.
 
-"(f)
+"(e)
 
 Expiration of Authority.—The authority in subsection (a) shall expire on September 30, 2019."
 

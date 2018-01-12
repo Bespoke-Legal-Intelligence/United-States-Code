@@ -12,7 +12,7 @@
 
 &emsp;(5) the name of the successful bidder and the amount of the successful bid.
 
-(b) The deed executed by the foreclosure commissioner, the foreclosure commissioner's affidavit and any other instruments submitted for recordation in relation to the foreclosure of the security property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments.
+(b) The deed executed by the foreclosure commissioner, the foreclosure commissioner's affidavit and any other instruments submitted for recordation in relation to the foreclosure of thesecurity property under this chapter shall be accepted for recordation by the registrar of deeds or other appropriate official of the county or counties in which the security property is located upon tendering of payment of the usual recording fees for such instruments.
 
 (Pub. L. 97–35, title III, §369F, Aug. 13, 1981, 95 Stat. 430.)
 

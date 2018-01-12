@@ -6,7 +6,7 @@ Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.�
 
 (b)
 
-Aeronautical and Space Activities for Welfare and Security of United States.—Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which agency has responsibility for and direction of any such activity shall be made by the President.
+Aeronautical and Space Activities for Welfare and Security of United States.—Congress declares that the general welfare andsecurity of the United States require that adequate provision be made for aeronautical and space activities. Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which agency has responsibility for and direction of any such activity shall be made by the President.
 
 (c)
 
@@ -28,11 +28,13 @@ Objectives of Aeronautical and Space Activities.—The aeronautical and space ac
 
 &emsp;(6) The making available to agencies directly concerned with national defense of discoveries that have military value or significance, and the furnishing by such agencies, to the civilian agency established to direct and control nonmilitary aeronautical and space activities, of information as to discoveries which have value or significance to that agency.
 
-&emsp;(7) Cooperation by the United States with other nations and groups of nations in workdone pursuant to this chapter and in the peaceful application of the results thereof.
+&emsp;(7) Cooperation by the United States with other nations and groups of nations in work done pursuant to this chapter and in the peaceful application of the results thereof.
 
 &emsp;(8) The most effective utilization of the scientific and engineering resources of the United States, with close cooperation among all interested agencies of the United States in order to avoid unnecessary duplication of effort, facilities, and equipment.
 
 &emsp;(9) The preservation of the United States preeminent position in aeronautics and space through research and technology development related to associated manufacturing processes.
+
+&emsp;(10) The search for life's origin, evolution, distribution, and future in the universe.
 
 (e)
 
@@ -50,7 +52,7 @@ Warning and Mitigation of Potential Hazards of Near-Earth Objects.—Congress de
 
 Purpose of Chapter.—It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a) to (g).
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3330.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3330; Pub. L. 115–10, title V, §507, Mar. 21, 2017, 131 Stat. 50.)
 
 Historical and Revision Notes
 
@@ -73,6 +75,10 @@ In subsection (b), the words "in conformity with section 201(e)", which appeared
 In subsection (c), the words "(as established by title II of this Act)", which appeared after "Administration", are omitted as unnecessary.
 
 In subsection (d), the word "and", appearing at the end of paragraph (8), is omitted as unnecessary because of the introductory words "one or more of the following".
+
+#### Amendments
+
+<b>2017</b>—Subsec. (d)(10). Pub. L. 115–10 added par. (10).
 
 #### Congressional Findings and Policy
 
@@ -182,7 +188,7 @@ Pub. L. 101–611, title I, §§101, 102, Nov. 16, 1990, 104 Stat. 3188, 3189, p
 
 &emsp;"(12) the United States needs to maintain a strong program with respect to transatmospheric research and technology by developing and demonstrating National Aero-Space Plane technology by a mid-decade date certain;
 
-&emsp;"(13) the National Aeronautics and Space Administration is primarily responsible for formulating andimplementing policy that supports and encourages civil aeronautics and space activities in the United States; and
+&emsp;"(13) the National Aeronautics and Space Administration is primarily responsible for formulating and implementing policy that supports and encourages civil aeronautics and space activities in the United States; and
 
 &emsp;"(14) commercial activities of the private sector will substantially and increasingly contribute to the strength of both the United States space program and the national economy.
 

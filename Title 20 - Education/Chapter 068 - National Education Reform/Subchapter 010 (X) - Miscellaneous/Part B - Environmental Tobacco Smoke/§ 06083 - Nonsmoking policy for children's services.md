@@ -20,7 +20,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (2) Health or day care or early childhood development services
 
-&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (or portion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhooddevelopment (Head Start) services to children, except that this paragraph shall not apply to—
+&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (or portion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children, except that this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any portion of such facility that is used for inpatient hospital treatment of individuals dependent on, or addicted to, drugs or alcohol; and
 

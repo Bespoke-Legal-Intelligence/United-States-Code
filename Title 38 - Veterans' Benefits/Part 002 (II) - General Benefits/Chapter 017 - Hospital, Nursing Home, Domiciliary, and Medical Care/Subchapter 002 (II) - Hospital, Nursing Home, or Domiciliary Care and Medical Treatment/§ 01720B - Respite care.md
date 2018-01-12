@@ -46,5 +46,5 @@ Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: "Notwiths
 
 #### Report
 
-Pub. L. 99–576, title II, §201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans' Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans' Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
+Pub. L. 99–576, title II, §201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans' Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans' Affairs of the Senate and House of Representatives notlater than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
 

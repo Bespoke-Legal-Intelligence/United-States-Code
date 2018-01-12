@@ -24,7 +24,7 @@
 
 #### (2) Authority of Attorney General
 
-&emsp;When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+&emsp;When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States forsuch relief as may be appropriate, including injunctive relief.
 
 (July 1, 1944, ch. 373, title V, §533, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 522; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4732.)
 

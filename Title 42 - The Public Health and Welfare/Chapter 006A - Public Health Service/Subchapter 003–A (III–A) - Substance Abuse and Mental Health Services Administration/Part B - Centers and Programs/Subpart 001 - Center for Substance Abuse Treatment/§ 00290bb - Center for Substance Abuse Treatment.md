@@ -18,7 +18,7 @@ The Director of the Center shall—
 
 &emsp;(5) collaborate with the Director of the National Institute on Drug Abuse, with the Director of the National Institute on Alcohol Abuse and Alcoholism, and with the States to promote the study, dissemination, and implementation of research findings that will improve the delivery and effectiveness of treatment services;
 
-&emsp;(6) collaborate with the Administrator of the Health Resources and Services Administration and the Administrator of the Centers for Medicare \& Medicaid Services to promote the increased integration into the mainstream of the health care system of the United States of programs for providing treatment services;
+&emsp;(6) collaborate with the Administrator of the Health Resources and Services Administration and the Administrator of the Centers for Medicare \& Medicaid Services to promote the increased integration into the mainstream ofthe health care system of the United States of programs for providing treatment services;
 
 &emsp;(7) evaluate plans submitted by the States pursuant to section 300x–32(a)(6) of this title in order to determine whether the plans adequately provide for the availability, allocation, and effectiveness of treatment services;
 

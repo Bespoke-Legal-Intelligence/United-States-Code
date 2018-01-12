@@ -10,3 +10,7 @@ A prior section 3194, Pub. L. 89–136, title V, §515, as added Pub. L. 94–18
 
 A prior section 504 of Pub. L. 89–136 was classified to section 3184 of this title prior to repeal by Pub. L. 97–35, §1821(a)(8).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

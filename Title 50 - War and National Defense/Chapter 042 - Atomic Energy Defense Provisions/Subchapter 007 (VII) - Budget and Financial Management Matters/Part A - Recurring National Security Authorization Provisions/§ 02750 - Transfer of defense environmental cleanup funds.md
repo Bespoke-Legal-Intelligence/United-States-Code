@@ -38,7 +38,7 @@ The Secretary, acting through the Assistant Secretary of Energy for Environmenta
 
 In this section:
 
-&emsp;(1) The term "program or project" means, with respect to a field office of the Department of Energy, a program or project that is for defense environmental cleanup activities necessary for national security programs of the Department, that is being carried out by that office, and for which defense environmental cleanup funds have been authorized and appropriated.
+&emsp;(1) The term "program or project" means, with respect to a field office of the Department of Energy, a program or project that isfor defense environmental cleanup activities necessary for national security programs of the Department, that is being carried out by that office, and for which defense environmental cleanup funds have been authorized and appropriated.
 
 &emsp;(2) The term "defense environmental cleanup funds" means funds appropriated to the Department of Energy pursuant to an authorization for carrying out defense environmental cleanup activities necessary for national security programs.
 

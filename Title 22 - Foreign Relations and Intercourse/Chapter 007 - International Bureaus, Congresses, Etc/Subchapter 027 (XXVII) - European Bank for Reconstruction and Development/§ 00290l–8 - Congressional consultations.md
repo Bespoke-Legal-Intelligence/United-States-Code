@@ -22,7 +22,7 @@ Pub. L. 101–513, title V, §584, Nov. 5, 1990, 104 Stat. 2046, provided that: 
 
 &emsp;"(2) establishment of an environmental unit with sufficient staff to review proposed operations, monitor compliance with environmental provisions, and provide overall policy guidance;
 
-&emsp;"(3) establishment of procedures for systematic consultation with and involvement of the public and interested nongovernmental organizations, including an opportunity for comment by local communities which may be affected by EBRD operations and establishment of a system of public notification and comment during the development of EBRD policies and operating procedures; and
+&emsp;"(3) establishment of procedures for systematic consultation with and involvement of the public andinterested nongovernmental organizations, including an opportunity for comment by local communities which may be affected by EBRD operations and establishment of a system of public notification and comment during the development of EBRD policies and operating procedures; and
 
 &emsp;"(4) agreement that a significant portion of the EBRD's funds shall be devoted to projects focused on environmental restoration and protection."
 

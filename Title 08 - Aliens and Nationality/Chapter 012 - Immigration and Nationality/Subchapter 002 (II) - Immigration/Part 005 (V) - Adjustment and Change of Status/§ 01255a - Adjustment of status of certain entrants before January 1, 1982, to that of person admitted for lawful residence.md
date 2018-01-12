@@ -206,7 +206,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Immigration-related unfair employment practices
 
-&emsp;&emsp;Not to exceed $3,000,000 of the unobligated balances remaining in the account established in subparagraph (B) shall be available in fiscal year 1992 and each fiscal year thereafter for grants, contracts, and cooperative agreements to community-based organizations for outreach programs, to be administered by the Office of Special Counsel for Immigration-Related Unfair Employment Practices: <i>Provided</i>, That such amounts shall be in addition to any funds appropriated to the Office of Special Counsel for such purposes:<i>Provided further</i>, That none of the funds made available by this section shall be used by the Office of Special Counsel to establish regional offices.
+&emsp;&emsp;Not to exceed $3,000,000 of the unobligated balances remaining in the account established in subparagraph (B) shall be available in fiscal year 1992 and each fiscal year thereafter for grants, contracts, and cooperative agreements to community-based organizations for outreach programs, to be administered by the Office of Special Counsel for Immigration-Related Unfair Employment Practices: <i>Provided</i>, That such amounts shall be in addition to any funds appropriated to the Office of Special Counsel for such purposes: <i>Provided further</i>, That none of the funds made available by this section shall be used by the Office of Special Counsel to establish regional offices.
 
 #### (d) Waiver of numerical limitations and certain grounds for exclusion
 
@@ -292,7 +292,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) Limitation to review of deportation
 
-&emsp;&emsp;There shall be judicial review of such a denial only in the judicial review of an order ofdeportation under section 1105a of this title (as in effect before October 1, 1996).
+&emsp;&emsp;There shall be judicial review of such a denial only in the judicial review of an order of deportation under section 1105a of this title (as in effect before October 1, 1996).
 
 #### (B) Standard for judicial review
 
@@ -402,7 +402,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Treatment of certain programs
 
-&emsp;Assistance furnished under any of the following provisions of law shall not be construed to be financial assistance described in paragraph (1)(A)(i):
+&emsp;Assistance furnished under any of the following provisions of law shall not be construedto be financial assistance described in paragraph (1)(A)(i):
 
 &emsp;&emsp;(A) The Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
@@ -430,7 +430,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title V, §512(q), July 22, 2014, 128 Stat. 1712.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title V, §512(q), July 22, 2014, 128 Stat. 1712.)
 
 #### References in Text
 
@@ -456,7 +456,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L.88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -528,7 +528,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 102–232, substituted "Subclause (IV)" for "Subc
 
 Subsec. (b)(2)(C). Pub. L. 101–649, §703(a)(2), substituted "43rd" for "thirty-first".
 
-Subsec. (c)(7)(A). Pub. L. 101–649, §703(b), inserted at end "The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section."
+Subsec. (c)(7)(A). Pub. L. 101–649, §703(b), inserted at end "The Attorney General shall provide for an additional fee for filing an application for adjustment undersubsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section."
 
 Subsec. (d)(2)(A). Pub. L. 101–649, §603(a)(13)(A), substituted "(5) and (7)(A)" for "(14), (20), (21), (25), and (32)".
 
@@ -572,7 +572,7 @@ Amendment by section 4002(b)(1)(B), (2)(J) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendments
 

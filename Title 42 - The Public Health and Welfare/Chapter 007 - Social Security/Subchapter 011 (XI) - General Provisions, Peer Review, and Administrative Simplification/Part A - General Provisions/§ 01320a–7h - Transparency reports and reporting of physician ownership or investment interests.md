@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On March 31, 2013, and on the 90th day of each calendar year beginning thereafter, any applicable manufacturer that provides a payment or other transfer of value to a covered recipient (or to an entity or individual at the request of or designated on behalf of a covered recipient), shall submit to the Secretary, in such electronic form as the Secretary shall require, the following information with respect to the preceding calendar year:
+&emsp;&emsp;On March 31, 2013, and on the 90th day of each calendar year beginning thereafter, anyapplicable manufacturer that provides a payment or other transfer of value to a covered recipient (or to an entity or individual at the request of or designated on behalf of a covered recipient), shall submit to the Secretary, in such electronic form as the Secretary shall require, the following information with respect to the preceding calendar year:
 
 &emsp;&emsp;&emsp;(i) The name of the covered recipient.
 
@@ -88,7 +88,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The total amount of civil money penalties imposed under subparagraph (A) with respect to each annual submission of information under subsection (a) by an applicable manufacturer or applicable group purchasing organization shall not exceed $150,000.
+&emsp;&emsp;The total amount of civil money penalties imposed under subparagraph (A) with respect to each annual submission of information under subsection (a) by an applicablemanufacturer or applicable group purchasing organization shall not exceed $150,000.
 
 #### (2) Knowing failure to report
 

@@ -74,7 +74,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, the tax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, thetax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (or predecessor employer) during the preceding taxable year for group health plans, or
 
@@ -106,7 +106,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (5) Waiver by Secretary
 
-&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, theSecretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
+&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
 
 #### (d) Tax not to apply to certain plans
 
@@ -154,7 +154,7 @@ This section shall not apply to—
 
 #### (1) In general
 
-&emsp;A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) <sup>1</sup> is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
+&emsp;A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) <sup>1</sup>is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
 
 #### (2) Continuation coverage
 
@@ -208,7 +208,7 @@ This section shall not apply to—
 
 #### (iii) Failure to pay premium
 
-&emsp;&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of subparagraph (C)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to maketimely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of subparagraph (C)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
 
 #### (iv) Group health plan coverage or medicare entitlement
 
@@ -230,7 +230,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" isdeemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
+> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
 
 #### (D) No requirement of insurability
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 #### (B) Effect of election on other beneficiaries
 
-&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any otherqualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
+&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
 
 #### (C) Temporary extension of COBRA election period for certain individuals
 
@@ -360,7 +360,7 @@ This section shall not apply to—
 
 &emsp;In accordance with regulations prescribed by the Secretary—
 
-&emsp;&emsp;(A) The group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection.
+&emsp;&emsp;(A) The group health plan shall provide, at the time of commencement of coverageunder the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection.
 
 &emsp;&emsp;(B) The employer of an employee under a plan must notify the plan administrator of a qualifying event described in subparagraph (A), (B), (D), or (F) of paragraph (3) with respect to such employee within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event.
 
@@ -374,7 +374,7 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of thecovered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to section 1396s of Title 42, The Public Health and Welfare, and which relates to pediatric vaccines.
 
-The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 ofTitle 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -540,7 +540,7 @@ Amendment by section 321(d)(1) of Pub. L. 104–191 applicable to contracts issu
 
 Pub. L. 104–191, title IV, §421(d), Aug. 21, 1996, 110 Stat. 2089, provided that: "The amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\] shall become effective on January 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date."
 
-Pub. L. 104–188, title I, §1704(g)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendments made by this subsection \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 1989."
+Pub. L. 104–188, title I, §1704(g)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendments made by this subsection \[amending this section, section 1162 ofTitle 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 1989."
 
 #### Effective Date of 1993 Amendment
 

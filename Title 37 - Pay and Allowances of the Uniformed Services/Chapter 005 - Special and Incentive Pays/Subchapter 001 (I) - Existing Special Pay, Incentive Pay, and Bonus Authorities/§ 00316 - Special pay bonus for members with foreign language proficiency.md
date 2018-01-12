@@ -18,7 +18,7 @@ Bonus Amount; Time for Payment.—A bonus under subsection (a) may not exceed $1
 
 (c)
 
-Certification of Proficiency.—To be eligible to receive a bonus under this section, a member described in subsection (a) must be certified by the Secretary concerned as being proficient in the foreign language for which the bonus is offered. The certification of the member shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
+Certification of Proficiency.—To be eligible to receive a bonus under this section, amember described in subsection (a) must be certified by the Secretary concerned as being proficient in the foreign language for which the bonus is offered. The certification of the member shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
 
 (d)
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 109–163, §687(b)(25), amended heading and text of subsec
 
 "(2) The Secretary concerned shall prescribe in regulations whether repayment of an amount otherwise required under paragraph (1) shall be made in whole or in part, the method for computing the amount of such repayment, and any conditions under which an exception to required repayment would apply.
 
-"(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the date on which the member received the bonus does not discharge the member from a debt arising under paragraph (1)."
+"(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcyunder title 11 that is entered less than five years after the date on which the member received the bonus does not discharge the member from a debt arising under paragraph (1)."
 
 Pub. L. 109–163, §639(b)(1), (c), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 

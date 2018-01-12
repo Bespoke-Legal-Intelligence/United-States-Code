@@ -1,0 +1,6 @@
+### §422. Omitted
+
+#### Codification
+
+Section, act May 29, 1928, ch. 892, §1, 45 Stat. 981, directed Secretary of Agriculture to establish a dairying station in Lewisburg, Tennessee, and was omitted from the Code as obsolete.
+

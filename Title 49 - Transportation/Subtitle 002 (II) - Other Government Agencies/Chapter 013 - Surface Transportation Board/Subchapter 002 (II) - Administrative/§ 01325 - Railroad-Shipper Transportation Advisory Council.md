@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the "Council") to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
+Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the "Council") to be composed of 19 members, of which 15 members shall be appointed by theChairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
 
 &emsp;(1) The members of the Council shall be appointed from among citizens of the United States who are not regular full-time employees of the United States and shall be selected for appointment so as to provide as nearly as practicable a broad representation of the various segments of the railroad and rail shipper industries.
 
@@ -52,11 +52,11 @@ Expenses.—(1) The members of the Council shall receive no compensation for the
 
 &emsp;(B) each Federal agency may, in its discretion, furnish the Council with such information, services, and facilities as the Council Chairman may request to the extent permitted by law and within the limits of available funds; and
 
-&emsp;(C) each Federal agency may, in its discretion, detail to temporary duty with the Council, such personnel as the Council Chairman may request for carrying out the functions of the Council, each such detail to be without loss of seniority, pay, or other employee status.
+&emsp;(C) each Federal agency may, in its discretion, detail to temporary duty with the Council, such personnel as the Council Chairman may request for carrying out the functions ofthe Council, each such detail to be without loss of seniority, pay, or other employee status.
 
 (e)
 
-Meetings.—The Council shall meet at least semi-annually and shall hold other meetings at the call of the Council Chairman. Appropriate Federal facilities, where available, may be used for such meetings. Whenever the Council, or a committee of the Council, considers matters that affect the jurisdictional interests of Federal agencies that are not represented on the Council, the Council Chairman may invite theheads of such agencies, or their designees, to participate in the deliberations of the Council.
+Meetings.—The Council shall meet at least semi-annually and shall hold other meetings at the call of the Council Chairman. Appropriate Federal facilities, where available, may be used for such meetings. Whenever the Council, or a committee of the Council, considers matters that affect the jurisdictional interests of Federal agencies that are not represented on the Council, the Council Chairman may invite the heads of such agencies, or their designees, to participate in the deliberations of the Council.
 
 (f)
 

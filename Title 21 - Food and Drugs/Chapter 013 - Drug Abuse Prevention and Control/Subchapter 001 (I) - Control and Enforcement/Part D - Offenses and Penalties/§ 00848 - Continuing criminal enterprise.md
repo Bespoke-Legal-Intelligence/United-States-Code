@@ -92,7 +92,7 @@ Pub. L. 100–690, §7001(a)(1), which directed redesignation of former subsec. 
 
 Subsecs. (g) to (r). Pub. L. 100–690, §7001(b), added subsecs. (g) to (r).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted "to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or$2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual," for "to a fine of not more than $100,000," and "to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual," for "to a fine of not more than $200,000,".
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted "to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual," for "to a fine of not more than $100,000," and "to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual," for "to a fine of not more than $200,000,".
 
 Subsecs. (b) to (e). Pub. L. 99–570, §1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 
@@ -109,6 +109,10 @@ Amendment by section 903(b) of Pub. L. 104–132 effective as to cases commenced
 #### Effective Date of 1984 Amendment
 
 Amendment by section 224(b) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### GAO Study of Cost of Executions
 

@@ -2,7 +2,7 @@
 
 (a) The United States Governor of the Bank is authorized on behalf of the United States to contribute to the Fund for Special Operations $70,000,000: <i>Provided, however</i>, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
-(b) In order to pay for a portion of the increase in the United States subscription to the capital stock of the Bank provided for in section 283z–1(a) of this title and for the United States contribution to the Fund for Special Operations provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury, (1) $274,920,799 for the United States subscription, and (2) $70,000,000 for the United States contribution to the Fund for Special Operations: <i>Provided, however</i>, That no funds may be made available for such contribution to the Fund for Special Operations for the fiscal year 1982.
+(b) In order to pay for a portion of the increase in the United States subscription to the capital stock of the Bank provided for in section 283z–1(a) of this title and for the United States contribution to the Fund for Special Operations provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury, (1) $274,920,799 for the United States subscription, and (2) $70,000,000 for the UnitedStates contribution to the Fund for Special Operations: <i>Provided, however</i>, That no funds may be made available for such contribution to the Fund for Special Operations for the fiscal year 1982.
 
 (Pub. L. 86–147, §30, as added Pub. L. 97–35, title XIII, §1351(a), Aug. 13, 1981, 95 Stat. 744.)
 

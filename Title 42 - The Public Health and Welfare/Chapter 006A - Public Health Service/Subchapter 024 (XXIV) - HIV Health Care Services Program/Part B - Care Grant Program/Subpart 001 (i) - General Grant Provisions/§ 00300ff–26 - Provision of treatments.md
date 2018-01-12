@@ -42,7 +42,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of this title to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
+&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of thistitle to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
 
 #### (2) Limitation
 

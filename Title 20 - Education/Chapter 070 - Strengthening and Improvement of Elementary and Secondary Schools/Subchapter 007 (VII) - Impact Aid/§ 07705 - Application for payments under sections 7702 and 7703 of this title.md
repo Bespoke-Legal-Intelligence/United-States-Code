@@ -48,7 +48,7 @@ The Secretary shall establish deadlines for the submission of applications under
 
 &emsp;Notwithstanding any other provision of law, a State educational agency that had been accepted as an applicant for funds under section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) in fiscal year 1994 shall be permitted to continue as an applicant under the same conditions by which such agency made application during such fiscal year only if such State educational agency distributes all funds received for the students for which application is being made by such State educational agency to the local educational agencies providing educational services to such students.
 
-(Pub. L. 89–10, title VII, §7005, formerly title VIII, §8005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3761; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; renumbered titleVII, §7005, and amended Pub. L. 114–95, title VII, §§7001(c)(1), (d)(1), 7006, Dec. 10, 2015, 129 Stat. 2074, 2086.)
+(Pub. L. 89–10, title VII, §7005, formerly title VIII, §8005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3761; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; renumbered title VII, §7005, and amended Pub. L. 114–95, title VII, §§7001(c)(1), (d)(1), 7006, Dec. 10, 2015, 129 Stat. 2074, 2086.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Subsec. (d)(3)(A). Pub. L. 114–95, §7006(2), made technical amendment to refe
 
 Pub. L. 114–95, §7001(d)(1), made technical amendment to reference in original act which appears in text as reference to section 7702 of this title.
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 daysafter the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
 
 Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
 

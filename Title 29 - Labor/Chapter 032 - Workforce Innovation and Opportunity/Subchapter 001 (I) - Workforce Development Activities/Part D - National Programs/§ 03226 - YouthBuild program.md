@@ -50,7 +50,7 @@ In this section:
 
 #### (4) Homeless individual
 
-&emsp;The term "homeless individual" means a homeless individual (as defined in section 14043e–2(6) of title 42) or a homeless child or youth (as defined in section 11434a(2) of title 42).
+&emsp;The term "homeless individual" means a homeless individual (as defined in section 12473(6) of title 34) or a homeless child or youth (as defined in section 11434a(2) of title 42).
 
 #### (5) Housing development agency
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (2) Eligible activities
 
-&emsp;An entity that receives a grant under this subsection shall use the funds made availablethrough the grant to carry out a YouthBuild program, which may include the following activities:
+&emsp;An entity that receives a grant under this subsection shall use the funds made available through the grant to carry out a YouthBuild program, which may include the following activities:
 
 &emsp;&emsp;(A) Education and workforce investment activities including—
 
@@ -178,7 +178,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, such as their role in developing the proposed program and assisting in service provision and in placement activities;
 
-&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
+&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with otherFederal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
 
 &emsp;&emsp;&emsp;(xi) assurances that there will be a sufficient number of adequately trained supervisory personnel in the proposed program;
 
@@ -222,7 +222,7 @@ In this section:
 
 &emsp;&emsp;(B) an applicant's potential for developing a successful YouthBuild program;
 
-&emsp;&emsp;(C) the need for an applicant's proposed program, as determined by the degree of economic distress of the community from which participants would be recruited (measured by indicators such as poverty, youth unemployment, and the number of individuals who have dropped out of secondary school) and of the community in which the housingand community and public facilities proposed to be rehabilitated or constructed is located (measured by indicators such as incidence of homelessness, shortage of affordable housing, and poverty);
+&emsp;&emsp;(C) the need for an applicant's proposed program, as determined by the degree of economic distress of the community from which participants would be recruited (measured by indicators such as poverty, youth unemployment, and the number of individuals who have dropped out of secondary school) and of the community in which the housing and community and public facilities proposed to be rehabilitated or constructed is located (measured by indicators such as incidence of homelessness, shortage of affordable housing, and poverty);
 
 &emsp;&emsp;(D) the commitment of an applicant to providing skills training, leadership development, and education to participants;
 
@@ -316,7 +316,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (1) Secretary assistance
 
-&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to the Secretary in the management, supervision, and coordination of the program carried out under this section.
+&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to theSecretary in the management, supervision, and coordination of the program carried out under this section.
 
 #### (2) Technical assistance
 
@@ -398,7 +398,7 @@ Personnel Provisions.—
 
 &emsp;"(1)
 
-Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers andemployees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
+Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
 
 &emsp;"(2)
 

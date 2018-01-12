@@ -88,7 +88,7 @@ The Secretary shall conduct public notice and scoping for any project or action 
 
 #### (2) Submission
 
-&emsp;Not later than 1 year after February 7, 2014, and each year thereafter, the Secretary shallsubmit the reports required under paragraph (1) to—
+&emsp;Not later than 1 year after February 7, 2014, and each year thereafter, the Secretary shall submit the reports required under paragraph (1) to—
 
 &emsp;&emsp;(A) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 

@@ -1,6 +1,6 @@
 ### §7321. Committee on Care of Severely Chronically Mentally Ill Veterans
 
-(a) The Secretary, acting through the Under Secretary for Health, shall establish in the Veterans Health Administration a Committee on Care of Severely Chronically Mentally Ill Veterans. The Under Secretary shall appoint employees of the Department with expertise in the care of the chronically mentally ill to serve on the committee.
+(a) The Secretary, acting through the Under Secretary for Health, shall establish in the Veterans Health Administration a Committee on Care of Severely Chronically Mentally Ill Veterans. The Under Secretary shall appoint employees of the Department with expertise in the careof the chronically mentally ill to serve on the committee.
 
 (b) The committee shall assess, and carry out a continuing assessment of, the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of mentally ill veterans whose mental illness is severe and chronic and who are eligible for health care furnished by the Department, including the needs of such veterans who are women. In carrying out that responsibility, the committee shall—
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) regarding the appropriate allocation of resources for all such activities.
 
-(d)(1) Not later than April 1, 1997, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the implementation ofthis section. The report shall include the following:
+(d)(1) Not later than April 1, 1997, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the implementation of this section. The report shall include the following:
 
 &emsp;(A) A list of the members of the committee.
 

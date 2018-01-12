@@ -34,7 +34,7 @@ The report required by subsection (b) shall be submitted in unclassified form an
 
 #### (2) Law enforcement
 
-&emsp;Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the name of anyperson if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
+&emsp;Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
 
 &emsp;&emsp;(A) compromise the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution that furnished information on a confidential basis;
 
@@ -54,7 +54,7 @@ The report required by subsection (b) shall be submitted in unclassified form an
 
 (1) The President may waive the application to a significant foreign narcotics trafficker of any sanction authorized by this chapter if the President determines that the application of sanctions under this chapter would significantly harm the national security of the United States.
 
-(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
+(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the SelectCommittee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
 
 #### (h) Changes in determinations to impose sanctions
 

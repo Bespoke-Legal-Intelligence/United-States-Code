@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary inaccordance with the regulations described in subparagraph (B).
+&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary in accordance with the regulations described in subparagraph (B).
 
 #### (B) Regulations
 
@@ -62,7 +62,7 @@
 
 #### (5) Coordinated waiver process
 
-&emsp;The Secretary shall develop a process for coordinating and consolidating the State waiver processes applicable under the provisions of this section, and the existing waiver processes applicable under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], and any other Federal law relating to the provision of health care items or services. Such process shall permit a State to submit a single application for a waiver under any or all of such provisions.
+&emsp;The Secretary shall develop a process for coordinating and consolidating the State waiver processes applicable under the provisions of this section, and the existing waiver processesapplicable under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], and any other Federal law relating to the provision of health care items or services. Such process shall permit a State to submit a single application for a waiver under any or all of such provisions.
 
 #### (6) Definition
 
@@ -124,7 +124,7 @@
 
 #### (e) Term of waiver
 
-No waiver under this section may extend over a period of longer than 5 years unless the Staterequests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
+No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
 
 (Pub. L. 111–148, title I, §1332, Mar. 23, 2010, 124 Stat. 203.)
 
@@ -138,7 +138,7 @@ The Administrative Procedures Act, referred to in subsec. (a)(4)(B)(iii), probab
 
 The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-This Act, referred to in subsec. (b)(1)(A), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+This Act, referred to in subsec. (b)(1)(A), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For completeclassification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

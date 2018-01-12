@@ -110,5 +110,5 @@ Pub. L. 103–355, title I, §1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, provide
 
 &emsp;"(A) Past contract performance of an offeror is one of the relevant factors that a contracting official of an executive agency should consider in awarding a contract.
 
-&emsp;"(B) It is appropriate for a contracting official to consider past contract performance of an offeror as an indicator of the likelihood that the offeror will successfully perform a contract to be awarded by that official."
+&emsp;"(B) It is appropriate for a contracting official to consider past contract performance of an offeror as an indicator of the likelihood that the offeror willsuccessfully perform a contract to be awarded by that official."
 

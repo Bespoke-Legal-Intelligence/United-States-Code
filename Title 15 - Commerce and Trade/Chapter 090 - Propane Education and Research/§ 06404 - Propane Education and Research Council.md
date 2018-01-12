@@ -26,7 +26,7 @@ Council members shall receive no compensation for their services, nor shall Coun
 
 #### (e) Terms
 
-Council members shall serve terms of 3 years and may serve not more than 2 full consecutive terms. Members filling unexpired terms may serve not more than a total of 7 consecutive years. Former members of the Council may be returned to the Council if they have not been members for a period of 2 years. Initial appointments to the Council shall be for terms of 1, 2, and 3 years, staggered to provide for the selection of 7 members each year.
+Council members shall serve terms of 3 years and may serve not more than 2 full consecutive terms. Members filling unexpired terms may serve not more than a total of 7 consecutiveyears. Former members of the Council may be returned to the Council if they have not been members for a period of 2 years. Initial appointments to the Council shall be for terms of 1, 2, and 3 years, staggered to provide for the selection of 7 members each year.
 
 #### (f) Functions
 
@@ -34,7 +34,7 @@ The Council shall develop programs and projects and enter into contracts or agre
 
 #### (g) Use of funds
 
-Not less than 5 percent of the funds collected through assessments pursuant to this chapter shall be used for programs and projects intended to benefit the agriculture industry in the United States. The Council shall coordinate its activities in this regard with agriculture industry trade associations and other organizations representing the agriculture industry. The percentage of funds collected through assessments pursuant to this chapter to be used for projects relating to the use of propane as an over-the-roadmotor fuel shall not exceed the percentage of the total market for odorized propane that is used as a motor vehicle fuel, based on the historical average of such use over the previous 3-year period.
+Not less than 5 percent of the funds collected through assessments pursuant to this chapter shall be used for programs and projects intended to benefit the agriculture industry in the United States. The Council shall coordinate its activities in this regard with agriculture industry trade associations and other organizations representing the agriculture industry. The percentage of funds collected through assessments pursuant to this chapter to be used for projects relating to the use of propane as an over-the-road motor fuel shall not exceed the percentage of the total market for odorized propane that is used as a motor vehicle fuel, based on the historical average of such use over the previous 3-year period.
 
 #### (h) Priorities
 

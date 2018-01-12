@@ -1,0 +1,6 @@
+### §3714. Transferred
+
+#### Codification
+
+Section 3714 was editorially reclassified as a note under section 603 of Title 6, Domestic Security.
+

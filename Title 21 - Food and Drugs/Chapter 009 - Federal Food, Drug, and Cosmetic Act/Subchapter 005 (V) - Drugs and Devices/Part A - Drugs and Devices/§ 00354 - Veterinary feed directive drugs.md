@@ -22,7 +22,7 @@ A veterinary feed directive drug and any feed bearing or containing a veterinary
 
 #### (c) Nonprescription status
 
-Neither a drug subject to this section, nor animal feed bearing or containing such a drug, shall be deemed to be a prescription article under any Federal or State law.
+Neither a drug subject to this section, nor animal feed bearing or containing such a drug,shall be deemed to be a prescription article under any Federal or State law.
 
 (June 25, 1938, ch. 675, §504, as added Pub. L. 104–250, §5(b), Oct. 9, 1996, 110 Stat. 3155; amended Pub. L. 108–282, title I, §102(b)(5)(G), (H), Aug. 2, 2004, 118 Stat. 903.)
 

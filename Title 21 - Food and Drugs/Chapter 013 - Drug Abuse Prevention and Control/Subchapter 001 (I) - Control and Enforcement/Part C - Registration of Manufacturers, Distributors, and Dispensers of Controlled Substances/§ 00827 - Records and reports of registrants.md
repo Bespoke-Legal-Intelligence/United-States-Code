@@ -22,7 +22,7 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(B) to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual;
 
-&emsp;(2)(A) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect tosuch substances, in research conducted in conformity with an exemption granted under section 355(i) or 360b(j) of this title;
+&emsp;(2)(A) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in research conducted in conformity with an exemption granted under section 355(i) or 360b(j) of this title;
 
 &emsp;(B) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in preclinical research or in teaching; or
 
@@ -32,7 +32,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (d) Periodic reports to Attorney General
 
-(1) Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
+(1) Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying bythe registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
 
 (2) Each pharmacy with a modified registration under section 823(f) of this title that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this paragraph, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
 
@@ -64,7 +64,7 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(4) That all reports under this section must include the registered person's registration number as well as the registration numbers, names, and other identifying information of vendors, suppliers, and customers, sufficient to allow the Attorney General to track the receipt and distribution of the drug.
 
-&emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, thename of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
+&emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, the name of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
 
 &emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
@@ -99,4 +99,8 @@ Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 

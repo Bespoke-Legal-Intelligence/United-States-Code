@@ -4,7 +4,7 @@
 
 #### (1) Department of Energy program
 
-&emsp;The Secretary of Energy shall establish a program to support, on a merit-reviewed andcompetitive basis, consortia to conduct interdisciplinary nanotechnology research and development designed to integrate newly developed nanotechnology and microfluidic tools with systems biology and molecular imaging.
+&emsp;The Secretary of Energy shall establish a program to support, on a merit-reviewed and competitive basis, consortia to conduct interdisciplinary nanotechnology research and development designed to integrate newly developed nanotechnology and microfluidic tools with systems biology and molecular imaging.
 
 #### (2) Authorization of appropriations
 

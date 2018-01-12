@@ -12,7 +12,7 @@ Whenever more than one of the pursuits or occupations described in this subchapt
 
 #### (1) Liability for tax
 
-&emsp;The payment of a special tax imposed by this subchapter shall not exempt from an additional special tax the person carrying on a trade or business in any other place than that stated in the register kept in the office of the official in charge of the internal revenue district.
+&emsp;The payment of a special tax imposed by this subchapter shall not exempt from an additional special tax the person carrying on a trade or business in any other place than thatstated in the register kept in the office of the official in charge of the internal revenue district.
 
 #### (2) Storage
 
@@ -34,7 +34,7 @@ Certain persons, other than the person who has paid the special tax under this s
 
 &emsp;(4) the partner or partners remaining after death or withdrawal of a member of a partnership.
 
-> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additionalspecial tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
+> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additional special tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
 
 #### (e) Federal agencies or instrumentalities
 

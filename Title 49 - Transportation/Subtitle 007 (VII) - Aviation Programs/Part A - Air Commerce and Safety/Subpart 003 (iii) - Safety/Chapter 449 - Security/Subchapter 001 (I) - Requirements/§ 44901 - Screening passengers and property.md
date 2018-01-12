@@ -70,7 +70,7 @@ Preclearance airports.—
 
 &emsp;&emsp;(A)
 
-In general.—For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination withU.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
+In general.—For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
 
 &emsp;&emsp;(B)
 
@@ -138,7 +138,7 @@ In general.—If the Secretary issues an interim final rule under subparagraph (
 
 &emsp;&emsp;&emsp;(ii)
 
-Failure to act.—If the Secretary does not issue a final rule in accordance with clause (i) on or before the last day of the one-year period referred to in clause (i), the Secretary shall submit to the Committee on Homeland Security of the House of Representatives, Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on whichthe final rule will be issued. The Secretary shall submit the first such report within 10 days after such last day and submit a report to the Committees containing updated information every 30 days thereafter until the final rule is issued.
+Failure to act.—If the Secretary does not issue a final rule in accordance with clause (i) on or before the last day of the one-year period referred to in clause (i), the Secretary shall submit to the Committee on Homeland Security of the House of Representatives, Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on which the final rule will be issued. The Secretary shall submit the first such report within 10 days after such last day and submit a report to the Committees containing updated information every 30 days thereafter until the final rule is issued.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -498,7 +498,7 @@ Pub. L. 114–293, Dec. 16, 2016, 130 Stat. 1503, provided that:
 
 "Not later than 90 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Administrator of the Transportation Security Administration shall—
 
-&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration's guidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
+&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration'sguidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
 
 &emsp;"(2) in training procedures for security screening personnel of the Administration and private security companies providing security screening pursuant to section 44920 of title 49, United States Code, include training on special screening procedures."
 
@@ -962,7 +962,7 @@ Look back.—In revising the regulations under paragraph (1), the Administrator 
 
 &emsp;"(5)
 
-Certifications.—The Administrator shall require an airport or aircraft operator, as applicable, tocertify for each individual who receives unescorted access to any SIDA of an airport that—
+Certifications.—The Administrator shall require an airport or aircraft operator, as applicable, to certify for each individual who receives unescorted access to any SIDA of an airport that—
 
 &emsp;&emsp;"(A) a specific need exists for providing the individual with unescorted access authority; and
 
@@ -1452,7 +1452,7 @@ Debate on resolution.—Debate in the Senate on an approval resolution, and appe
 
 &emsp;&emsp;"(C)
 
-Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, themover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
 &emsp;&emsp;"(D)
 
@@ -1534,11 +1534,11 @@ Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provide
 
 #### Installation and Use of Explosive Detection Equipment
 
-Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: "Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action, including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act".
+Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: "Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action,including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act".
 
 #### Research and Development of Improved Airport Security Systems
 
-Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: "The Administrator of the Federal Aviation Administration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date ofthis Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code."
+Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: "The Administrator of the Federal Aviation Administration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code."
 
 #### Definitions of Terms in Title IV of Pub. L. 108–458
 

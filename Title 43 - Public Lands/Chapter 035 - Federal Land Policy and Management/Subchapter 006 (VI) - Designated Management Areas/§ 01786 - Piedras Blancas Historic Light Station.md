@@ -76,7 +76,7 @@ Congress finds as follows:
 
 #### (3) Management plan
 
-&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies, with full public participation, and the contents shall include—
+&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies,with full public participation, and the contents shall include—
 
 &emsp;&emsp;(A) provisions designed to ensure the protection of the resources and values described in subsection (c)(1);
 

@@ -36,7 +36,7 @@
 
 #### (1) Determination
 
-&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a foreign nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the foreign nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the foreign nonbank financial company, could pose a threat to the financial stability of the United States.
+&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine thata foreign nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the foreign nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the foreign nonbank financial company, could pose a threat to the financial stability of the United States.
 
 #### (2) Considerations
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) the extent and nature of the United States related off-balance-sheet exposures of the company;
 
-&emsp;&emsp;(C) the extent and nature of the transactions and relationships of the companywith other significant nonbank financial companies and significant bank holding companies;
+&emsp;&emsp;(C) the extent and nature of the transactions and relationships of the company with other significant nonbank financial companies and significant bank holding companies;
 
 &emsp;&emsp;(D) the importance of the company as a source of credit for United States households, businesses, and State and local governments and as a source of liquidity for the United States financial system;
 
@@ -106,7 +106,7 @@
 
 #### (6) Only financial activities subject to prudential supervision
 
-&emsp;Nonfinancial activities of the company shall not be subject to supervision by the Board of Governors and prudential standards of the Board. For purposes of this Act, the financial activities that are the subject of the determination in paragraph (1) shall be subject to the same requirements as a nonbank financial company supervised by the Board of Governors. Nothing in this paragraph shall prohibit or limit the authority of the Board of Governors to apply prudential standards underthis subchapter to the financial activities that are subject to the determination in paragraph (1).
+&emsp;Nonfinancial activities of the company shall not be subject to supervision by the Board of Governors and prudential standards of the Board. For purposes of this Act, the financial activities that are the subject of the determination in paragraph (1) shall be subject to the same requirements as a nonbank financial company supervised by the Board of Governors. Nothing in this paragraph shall prohibit or limit the authority of the Board of Governors to apply prudential standards under this subchapter to the financial activities that are subject to the determination in paragraph (1).
 
 #### (d) Reevaluation and rescission
 
@@ -158,7 +158,7 @@ The Council shall—
 
 #### (g) Consultation
 
-The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes any final determination with respect to such nonbank financial company under subsection (a), (b), or (c).
+The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes anyfinal determination with respect to such nonbank financial company under subsection (a), (b), or (c).
 
 #### (h) Judicial review
 

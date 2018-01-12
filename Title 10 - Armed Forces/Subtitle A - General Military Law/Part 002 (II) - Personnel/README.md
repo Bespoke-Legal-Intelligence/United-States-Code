@@ -150,7 +150,7 @@ Processing for Administrative Separation.—
 
 &emsp;"(1)
 
-In general.—(A) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall require the processing for administrative separation of any member of theArmed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
+In general.—(A) The Secretary of Defense and the Secretary of the Department in which the CoastGuard is operating shall require the processing for administrative separation of any member of the Armed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
 
 &emsp;"(B) The Secretary of a military department shall revise regulations applicable to the Armed Forces under the jurisdiction of that Secretary as necessary to ensure compliance with the requirement under subparagraph (A).
 

@@ -114,15 +114,19 @@
 
 &emsp;(iv) a summary of the rationale for the award;
 
-&emsp;(v) in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
+&emsp;(v) in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract;
 
-&emsp;(vi) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency.
+&emsp;(vi) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency; and
 
-(C) The debriefing may not include point-by-point comparisons of the debriefed offeror's offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5.
+&emsp;(vii) an opportunity for a disappointed offeror to submit, within two business days after receiving a post-award debriefing, additional questions related to the debriefing.
 
-(D) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
+(C) The agency shall respond in writing to any additional question submitted under subparagraph (B)(vii) within five business days after receipt of the question. The agency shall not consider the debriefing to be concluded until the agency delivers its written responses to the disappointed offeror.
 
-(E) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(D) The debriefing may not include point-by-point comparisons of the debriefed offeror's offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5.
+
+(E) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
+
+(F) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -158,7 +162,7 @@
 
 &emsp;(2) there is a review of both the procurement history of the item and a description of the item, including, when necessary for an adequate description of the item, a picture, drawing, diagram, or other graphic representation of the item.
 
-(d)(1)(A) The Secretary of Defense shall ensure that, in preparing a solicitation for the award of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is beingprocured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+(d)(1)(A) The Secretary of Defense shall ensure that, in preparing a solicitation for the award of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are the following:
 
@@ -192,7 +196,7 @@ Protest File.—(1) If, in the case of a solicitation for a contract issued by, 
 
 (f)
 
-Agency Actions on Protests.—If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency—
+Agency Actions on Protests.—If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, oraward does not comply with the requirements of law or regulation, the head of the agency—
 
 &emsp;(1) may take any action set out in subparagraphs (A) through (F) of subsection (b)(1) of section 3554 of title 31; and
 
@@ -206,7 +210,7 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term "proposal" means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII,§802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463.)
 
 Historical and Revision Notes<br>1956
 
@@ -260,6 +264,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b)(5)(B)(vii). Pub. L. 115–91, §818(b)(2), added cl. (vii).
+
+Subsec. (b)(5)(C) to (F). Pub. L. 115–91, §818(b)(1), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
 <b>2016</b>—Subsec. (a)(3)(A)(i), (ii). Pub. L. 114–328, §825(a)(1), inserted "(except as provided in subparagraph (C))" after "shall".
 
 Subsec. (a)(3)(C) to (E). Pub. L. 114–328, §825(a)(2), added subpars. (C) to (E).
@@ -294,7 +302,7 @@ Subsec. (e)(3). Pub. L. 104–106, §5601(a), as amended by Pub. L. 104–201, �
 
 Subsec. (g). Pub. L. 104–201, §821(a), added subsec. (g).
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted "a purchase for an amount not greater than the simplified acquisition threshold)" for "small purchases)" in introductory provisions.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted "a purchase for an amount not greater thanthe simplified acquisition threshold)" for "small purchases)" in introductory provisions.
 
 Subsec. (a)(2)(A)(i). Pub. L. 103–355, §1011(a)(1), substituted "and significant subfactors" for "(and significant subfactors)" and "cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors" for "cost- or price-related factors, and noncost- or nonprice-related factors".
 
@@ -398,9 +406,21 @@ Pub. L. 98–525, title XII, §1213(b), Oct. 19, 1984, 98 Stat. 2592, provided t
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
+#### Enhanced Post-Award Debriefing Rights; Release of Contract Award Information
+
+Pub. L. 115–91, div. A, title VIII, §818(a), Dec. 12, 2017, 131 Stat. 1463, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that all required post-award debriefings, while protecting the confidential and proprietary information of other offerors, include, at a minimum, the following:
+
+&emsp;"(1) In the case of a contract award in excess of $100,000,000, a requirement for disclosure of the agency's written source selection award determination, redacted to protect the confidential and proprietary information of other offerors for the contract award, and, in the case of a contract award in excess of $10,000,000 and not in excess of $100,000,000 with a small business or nontraditional contractor, an option for the small business or nontraditional contractor to request such disclosure.
+
+&emsp;"(2) A requirement for a written or oral debriefing for all contract awards and task or delivery orders valued at $10,000,000 or higher.
+
+&emsp;"(3) Provisions ensuring that both unsuccessful and winning offerors are entitled to the disclosure described in paragraph (1) and the debriefing described in paragraph (2).
+
+&emsp;"(4) Robust procedures, consistent with section 2305(b)(5)(D) of title 10, United States Code, and provisions implementing that section in the Federal Acquisition Regulation, to protect the confidential and proprietary information of other offerors."
+
 #### Use Of Lowest Price Technically Acceptable Source Selection Process
 
-Pub. L. 114–328, div. A, title VIII, §813, Dec. 23, 2016, 130 Stat. 2270, provided that:
+Pub. L. 114–328, div. A, title VIII, §813, Dec. 23, 2016, 130 Stat. 2270, as amended by Pub. L. 115–91, div. A, title VIII, §822(a), (b)(1), Dec. 12, 2017, 131 Stat. 1465, provided that:
 
 "(a)
 
@@ -418,9 +438,13 @@ Revision of Defense Federal Acquisition Regulation Supplement.—Not later than 
 
 &emsp;"(4) the source selection authority has a high degree of confidence that a review of technical proposals of offerors other than the lowest bidder would not result in the identification of factors that could provide value or benefit to the Department;
 
-&emsp;"(5) the contracting officer has included a justification for the use of a lowest price technically acceptable evaluation methodology in the contract file; and
+&emsp;"(5) the contracting officer has included a justification for the use of a lowest price technically acceptable evaluation methodology in the contract file;
 
-&emsp;"(6) the Department of Defense has determined that the lowest price reflects full life-cycle costs, including for operations and support.
+&emsp;"(6) the Department of Defense has determined that the lowest price reflects full life-cycle costs, including for operations and support;
+
+&emsp;"(7) the Department of Defense would realize no, or minimal, additional innovation or future technological advantage by using a different methodology; and
+
+&emsp;"(8) with respect to a contract for procurement of goods, the goods procured are predominantly expendable in nature, nontechnical, or have a short life expectancy or short shelf life.
 
 "(c)
 
@@ -434,7 +458,9 @@ Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteri
 
 "(d)
 
-Reporting.—Not later than December 1, 2017, and annually thereafter for three years, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the number of instances in which lowest price technically acceptable source selection criteria is used for a contract exceeding $10,000,000, including an explanation of how the situations listed in subsection (b) were considered in making a determination to use lowest price technically acceptable source selection criteria."
+Reporting.—Not later than December 1, 2017, and annually thereafter for three years, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the number of instances in which lowest price technically acceptable source selection criteria is used for a contract exceeding $5,000,000, including an explanation of how the situations listed in subsection (b) were considered in making a determination to use lowest price technically acceptable source selection criteria."
+
+\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
 
 #### Use of Commercial or Non-Government Standards in Lieu of Military Specifications and Standards
 

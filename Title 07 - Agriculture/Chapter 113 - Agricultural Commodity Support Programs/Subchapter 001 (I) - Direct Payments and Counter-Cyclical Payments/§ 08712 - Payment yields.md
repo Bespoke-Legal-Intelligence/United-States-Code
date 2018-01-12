@@ -18,7 +18,7 @@ For the purpose of making direct payments and counter-cyclical payments under th
 
 &emsp;&emsp;&emsp;(i) The average yield for the designated oilseed or pulse crop determined under paragraph (1).
 
-&emsp;&emsp;&emsp;(ii) The ratio resulting from dividing the national average yield for the designatedoilseed or pulse crop for the 1981 through 1985 crops by the national average yield for the designated oilseed or pulse crop for the 1998 through 2001 crops.
+&emsp;&emsp;&emsp;(ii) The ratio resulting from dividing the national average yield for the designated oilseed or pulse crop for the 1981 through 1985 crops by the national average yield for the designated oilseed or pulse crop for the 1998 through 2001 crops.
 
 #### (B) No national average yield information available
 

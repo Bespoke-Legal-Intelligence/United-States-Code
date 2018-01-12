@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) any check guarantee or authorization service which does not directly result in a debit or credit to a consumer's account: <sup>3</sup>
 
-&emsp;&emsp;(B) any transfer of funds, other than those processed by automated clearinghouse, made by a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which is not designed primarily to transfer funds on behalf of a consumer;
+&emsp;&emsp;(B) any transfer of funds, other than those processed by automated clearinghouse, madeby a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which is not designed primarily to transfer funds on behalf of a consumer;
 
 &emsp;&emsp;(C) any transaction the primary purpose of which is the purchase or sale of securities or commodities through a broker-dealer registered with or regulated by the Securities and Exchange Commission;
 

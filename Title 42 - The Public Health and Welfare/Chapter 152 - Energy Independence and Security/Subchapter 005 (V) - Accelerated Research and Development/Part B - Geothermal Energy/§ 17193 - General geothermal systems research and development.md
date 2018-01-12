@@ -16,7 +16,11 @@ The Secretary shall—
 
 &emsp;(2) in conjunction with the Assistant Administrator for Research and Development at the Environmental Protection Agency, support a research program to identify potential environmental impacts of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including effects on groundwater and local hydrology; and
 
-&emsp;(3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use.
+&emsp;(3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gasesgained by geothermal energy development, production, and use.
 
 (Pub. L. 110–140, title VI, §614, Dec. 19, 2007, 121 Stat. 1680.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

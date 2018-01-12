@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Nonprofit
 
-&emsp;The term "'nonprofit", as applied to any agency, institution, or organization, means anagency, institution, or organization that is, or is owned and operated by, one or more corporations or associations, no part of the net earnings of which may lawfully inure to the benefit of any private shareholder or individual.
+&emsp;The term "'nonprofit", as applied to any agency, institution, or organization, means an agency, institution, or organization that is, or is owned and operated by, one or more corporations or associations, no part of the net earnings of which may lawfully inure to the benefit of any private shareholder or individual.
 
 #### (4) Secretary
 
@@ -27,6 +27,10 @@ As used in this chapter:
 &emsp;The term "young individual" means any child or youth from birth to 21 years of age.
 
 (Pub. L. 101–501, title IX, §903, Nov. 3, 1990, 104 Stat. 1262.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -22,13 +22,13 @@ Authority of Court.—In an action under this section, the court—
 
 &emsp;&emsp;(B) an injunction; or
 
-&emsp;&emsp;(C) another order, including suspension, termination, or repayment of, payments under this chapter or placement of additional payments under this chapter in escrow pending the outcome of the action; and
+&emsp;&emsp;(C) another order, including suspension, termination, or repayment of, paymentsunder this chapter or placement of additional payments under this chapter in escrow pending the outcome of the action; and
 
 &emsp;(2) to enforce compliance with section 6711(a) or (b), may allow a prevailing party (except the United States Government) a reasonable attorney's fee.
 
 (d)
 
-Intervention by Attorney General.—In an action under this section to enforce compliance with section 6711(a) or (b), the Attorney General may intervene in the action if the Attorney General certifies that the action is of general public importance. The United States Government is entitled to the same relief as if the Government had brought the action and isliable for the same fees and costs as a private person.
+Intervention by Attorney General.—In an action under this section to enforce compliance with section 6711(a) or (b), the Attorney General may intervene in the action if the Attorney General certifies that the action is of general public importance. The United States Government is entitled to the same relief as if the Government had brought the action and is liable for the same fees and costs as a private person.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1878.)
 

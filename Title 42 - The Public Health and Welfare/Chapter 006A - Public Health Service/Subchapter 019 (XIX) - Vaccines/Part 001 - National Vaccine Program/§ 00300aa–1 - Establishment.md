@@ -30,7 +30,7 @@ Special Rule.—If any amendment made by section 6601 of the Omnibus Budget Reco
 
 #### Evaluation of Program; Study and Report to Congress
 
-Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amended by Pub. L. 102–168, title II, §201(b), Nov. 26, 1991, 105 Stat. 1103, directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
+Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amended by Pub. L. 102–168, title II,§201(b), Nov. 26, 1991, 105 Stat. 1103, directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
 
 #### Related Studies
 

@@ -1,0 +1,6 @@
+### §17503. Transferred
+
+#### Codification
+
+Section 17503 was editorially reclassified as section 60503 of Title 34, Crime Control and Law Enforcement.
+

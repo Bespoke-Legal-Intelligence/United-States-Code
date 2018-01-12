@@ -4,7 +4,7 @@
 
 In General.—The functions of the Administrator include—
 
-&emsp;(1) providing leadership and ensuring action by the executive agencies in establishing, developing, and maintaining the single system of simplified Government-wide procurement regulations and resolving differences among the executive agencies in developing simplified Government-wide procurement regulations, procedures, and forms;
+&emsp;(1) providing leadership and ensuring action by the executive agencies in establishing, developing, and maintaining the single system of simplified Government-wide procurement regulations and resolving differences among theexecutive agencies in developing simplified Government-wide procurement regulations, procedures, and forms;
 
 &emsp;(2) coordinating the development of Government-wide procurement system standards that executive agencies shall implement in their procurement systems;
 
@@ -62,7 +62,11 @@ Within office.—The Administrator may make and authorize delegations within the
 
 To another executive agency.—The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, §864(b)(3), Dec. 31, 2011, 125 Stat. 1524.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112–81, div. A, title VIII, §864(b)(3), Dec. 31, 2011, 125 Stat. 1524; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(i), Dec. 12, 2017, 131 Stat. 1796.)
+
+#### Amendment of Paragraphs (11) and (12)
+
+<i>Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(i), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking "section 3(p) of the Small Business Act (15 U.S.C. 632(p))" each place it appears and inserting "section 31(b) of the Small Business Act". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -102,11 +106,17 @@ Pub. L. 93–400, §12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §8, Oct. 
 
 41:411(a).
 
-In clause (12), the words "small business concerns owned and controlled by service-disabled veterans" areadded to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
+In clause (12), the words "small business concerns owned and controlled by service-disabled veterans" are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
 
 #### Amendments
 
+<b>2017</b>—Pars. (11), (12). Pub. L. 115–91, §1701(a)(4)(F)(i), substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act (15 U.S.C. 632(p))".
+
 <b>2011</b>—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
 
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 

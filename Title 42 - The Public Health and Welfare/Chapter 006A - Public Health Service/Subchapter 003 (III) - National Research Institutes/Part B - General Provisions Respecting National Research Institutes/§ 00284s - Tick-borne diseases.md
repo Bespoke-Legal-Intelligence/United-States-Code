@@ -28,7 +28,7 @@ The Secretary shall ensure that each triennial report under section 283 of this 
 
 &emsp;&emsp;&emsp;&emsp;(I) epidemiological activities related to tick-borne diseases; and
 
-&emsp;&emsp;&emsp;&emsp;(II) basic, clinical, and translational tick-borne disease research related tothe pathogenesis, prevention, diagnosis, and treatment of tick-borne diseases;
+&emsp;&emsp;&emsp;&emsp;(II) basic, clinical, and translational tick-borne disease research related to the pathogenesis, prevention, diagnosis, and treatment of tick-borne diseases;
 
 &emsp;&emsp;&emsp;(iv) gaps in tick-borne disease research described in clause (iii)(II);
 
@@ -42,7 +42,7 @@ The Secretary shall ensure that each triennial report under section 283 of this 
 
 #### (3) Membership
 
-&emsp;The members of the working group shall represent a diversity of scientific disciplines and views and shall be composed of the following members:
+&emsp;The members of the working group shall represent a diversity of scientific disciplines andviews and shall be composed of the following members:
 
 #### (A) Federal members
 

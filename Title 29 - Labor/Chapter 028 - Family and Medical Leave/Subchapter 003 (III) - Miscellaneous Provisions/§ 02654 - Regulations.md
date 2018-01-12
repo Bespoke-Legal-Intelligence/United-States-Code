@@ -4,3 +4,7 @@ The Secretary of Labor shall prescribe such regulations as are necessary to carr
 
 (Pub. L. 103–3, title IV, §404, Feb. 5, 1993, 107 Stat. 26.)
 
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+

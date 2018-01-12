@@ -32,7 +32,7 @@ Section 103 of title 41, referred to in text, probably means section 3 of act Ju
 
 <b>2008</b>—Pub. L. 110–417, §855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
 
-Pub. L. 110–329, in first par., inserted "or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b))," after "is at war" and "or directly connected with or related to the authorized use of the Armed Forces" after "prosecutionof the war" and substituted "5 years" for "three years" and "proclaimed by a Presidential proclamation, with notice to Congress," for "proclaimed by the President", and, in second par., inserted last sentence.
+Pub. L. 110–329, in first par., inserted "or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b))," after "is at war" and "or directly connected with or related to the authorized use of the Armed Forces" after "prosecution of the war" and substituted "5 years" for "three years" and "proclaimed by a Presidential proclamation, with notice to Congress," for "proclaimed by the President", and, in second par., inserted last sentence.
 
 #### Effective Date of 2009 Amendment
 

@@ -31,7 +31,7 @@
 
 Act June 30, 1953, ch. 176, §6, 67 Stat. 135, repealed section 1(a)(13) of Joint Res. July 3, 1952, ch. 570, 66 Stat. 332, which, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, provided for the continuation of this chapter until July 1, 1953.
 
-Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal shall take effectas of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal shall take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
 
 ---

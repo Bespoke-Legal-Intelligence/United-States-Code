@@ -46,7 +46,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;&emsp;&emsp;(iv) exercise and enjoy the privileges granted to it by law;
 
-&emsp;(17) provide by its board of directors for a manager or other chief executive officer, and provide for such other officers or employees as may be necessary, including joint employeesas provided in this chapter, define their duties, and require surety bonds or make other provisions against losses occasioned by employees, but no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which he served;
+&emsp;(17) provide by its board of directors for a manager or other chief executive officer, and provide for such other officers or employees as may be necessary, including joint employees as provided in this chapter, define their duties, and require surety bonds or make other provisions against losses occasioned by employees, but no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which he served;
 
 &emsp;(18) elect by the board of directors of the association a loan committee with power to approve applications for membership in the association and loans or participations or, with the approval of the bank, delegate the approval of applications for membership and loans or participations within specified limits to other committees or to authorized officers and employees of the association;
 

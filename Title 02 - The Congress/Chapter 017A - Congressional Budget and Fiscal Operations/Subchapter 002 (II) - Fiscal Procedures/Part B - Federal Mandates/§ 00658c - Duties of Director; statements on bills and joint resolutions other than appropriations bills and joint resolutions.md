@@ -28,7 +28,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (4) Estimate not feasible
 
-&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, butshall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
+&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, but shall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
 
 #### (b) Federal private sector mandates in reported bills and joint resolutions
 
@@ -36,7 +36,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (1) Contents
 
-&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in the bill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
+&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in the bill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation)would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
 
 #### (2) Estimates
 

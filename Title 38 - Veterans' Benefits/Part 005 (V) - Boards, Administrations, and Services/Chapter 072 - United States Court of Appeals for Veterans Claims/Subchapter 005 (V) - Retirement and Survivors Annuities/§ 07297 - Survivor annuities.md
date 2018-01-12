@@ -62,7 +62,7 @@
 
 (4) In case of the death of a surviving spouse of a judge leaving a dependent child or children of the judge surviving the spouse, the annuity of such child or children under paragraph (1)(B) of this subsection shall be recomputed and paid as provided in paragraph (1)(C) of this subsection. In any case in which the annuity of a dependent child is terminated, the annuities of any remaining dependent child or children, based upon the service of the same judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived the judge.
 
-(5) If a judge dies as a result of an assassination and leaves a survivor or survivors who are otherwise entitled to receive annuity paymentsunder this section, the 18-month requirement in the matter in paragraph (1) preceding subparagraph (A) shall not apply.
+(5) If a judge dies as a result of an assassination and leaves a survivor or survivors who are otherwise entitled to receive annuity payments under this section, the 18-month requirement in the matter in paragraph (1) preceding subparagraph (A) shall not apply.
 
 (g) Questions of family relationships, dependency, and disability arising under this section shall be determined in the same manner as such questions arising under chapter 84 of title 5 are determined.
 
@@ -118,7 +118,7 @@
 
 (2) An annuity computed under this subsection may not exceed 50 percent of the judge's average annual pay and may not be less than 25 percent of such average annual pay. Such annuity shall be further reduced in accordance with subsection (d) of this section (if applicable).
 
-(3) For purposes of this subsection, the term "average annual pay", with respect to a judge, means the average annual pay received by thejudge for judicial service (including periods in which the judge received retired pay under section 7296(d) of this title) or for any other prior allowable service during the period of three consecutive years in which the judge received the largest such average annual pay.
+(3) For purposes of this subsection, the term "average annual pay", with respect to a judge, means the average annual pay received by the judge for judicial service (including periods in which the judge received retired pay under section 7296(d) of this title) or for any other prior allowable service during the period of three consecutive years in which the judge received the largest such average annual pay.
 
 (l) Subject to subsection (d) of this section, the years of service of a judge which are allowable as the basis for calculating the amount of the annuity of the judge's surviving spouse shall include the judge's years of service as a judge of the Court, the judge's years of service as a Member of Congress, the judge's years of active service as a member of the Armed Forces not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and the judge's years of any other civilian service within the purview of section 8332 of title 5.
 

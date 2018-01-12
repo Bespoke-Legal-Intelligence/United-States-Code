@@ -146,7 +146,7 @@ The Under Secretary shall—
 
 #### (5) Organization
 
-&emsp;The Under Secretary shall integrate leadership functions of the national program staff ofthe research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
+&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
 
 #### (f) National Institute of Food and Agriculture
 
@@ -202,7 +202,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;The term "competitive program" means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
 
-&emsp;&emsp;&emsp;(i) The Agriculture and Food Research Initiative established under section 450i(b) of this title.
+&emsp;&emsp;&emsp;(i) The Agriculture and Food Research Initiative established under section 3157(b) of this title.
 
 &emsp;&emsp;&emsp;(ii) The program providing competitive grants for risk management education established under section 1524(a)(3) of this title.
 
@@ -314,7 +314,7 @@ The Under Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall organize offices and functions within the Institute to administerfundamental and applied research and extension and education programs.
+&emsp;&emsp;The Director shall organize offices and functions within the Institute to administer fundamental and applied research and extension and education programs.
 
 #### (B) Research priorities
 
@@ -360,7 +360,7 @@ This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994,
 
 The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec.\(f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 

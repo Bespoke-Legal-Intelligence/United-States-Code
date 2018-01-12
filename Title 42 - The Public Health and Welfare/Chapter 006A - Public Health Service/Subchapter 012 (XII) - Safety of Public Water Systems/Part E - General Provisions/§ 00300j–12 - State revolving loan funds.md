@@ -18,7 +18,7 @@
 
 #### (D) Allotment formula
 
-&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to thissection (other than the District of Columbia) in accordance with—
+&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
 
 &emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimum proportionate share for the State of Wyoming and the District of Columbia; and
 
@@ -50,7 +50,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
+&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but notincluding monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
 
 #### (C) Sale of bonds
 
@@ -144,7 +144,7 @@
 
 #### (G) Effective date
 
-&emsp;&emsp;This paragraph does not apply with respect to a project if a State agency approves theengineering plans and specifications for the project, in that agency's capacity to approve such plans and specifications prior to a project requesting bids, prior to December 16, 2016.
+&emsp;&emsp;This paragraph does not apply with respect to a project if a State agency approves the engineering plans and specifications for the project, in that agency's capacity to approve such plans and specifications prior to a project requesting bids, prior to December 16, 2016.
 
 #### (b) Intended use plans
 
@@ -220,7 +220,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;(2) to buy or refinance the debt obligation of a municipality or an intermunicipal or interstate agency within the State at an interest rate that is less than or equal to the market interest rate in any case in which a debt obligation is incurred after July 1, 1993;
 
-&emsp;(3) to guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible for assistance underthis section) if the guarantee or purchase would improve credit market access or reduce the interest rate applicable to the obligation;
+&emsp;(3) to guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible for assistance under this section) if the guarantee or purchase would improve credit market access or reduce the interest rate applicable to the obligation;
 
 &emsp;(4) as a source of revenue or security for the payment of principal and interest on revenue or general obligation bonds issued by the State if the proceeds of the sale of the bonds will be deposited into the State loan fund; and
 
@@ -306,7 +306,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (1) In general
 
-&emsp;1½ percent of the amounts appropriated annually to carry out this section may be usedby the Administrator to make grants to Indian Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5), intertribal consortia or tribal organizations, that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. Except as otherwise provided, the grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2).
+&emsp;1½ percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5), intertribal consortia or tribal organizations, that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. Except as otherwise provided, the grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2).
 
 #### (2) Use of funds
 
@@ -500,7 +500,7 @@ Exclusion.—Assistance provided under subparagraph (A) shall not include assist
 
 &emsp;&emsp;&emsp;"(i) the interest of which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]; or
 
-&emsp;&emsp;&emsp;"(ii) with respect to which credit is allowable under subpart I \[26 U.S.C. 54A et seq.\] or J \[26 U.S.C. 54AA\] of part IV of subchapter A of chapter 1 of such Code.
+&emsp;&emsp;&emsp;"(ii) with respect to which credit is allowable under subpart I \[former 26 U.S.C. 54A et seq.\] or J \[former 26 U.S.C. 54AA\] of part IV of subchapter A of chapter 1 of such Code.
 
 &emsp;"(3)
 

@@ -20,7 +20,7 @@ Each manufacturer of a covered product to which a rule under section 6294 of thi
 
 &emsp;(B) by the Commission for purposes of ascertaining whether the information set out on a label of a product, as required under section 6294 of this title, is accurate,
 
-> each manufacturer of such a product shall supply at his expense a reasonable number of such covered products to any laboratory designated by the Secretary or the Commission, as the case may be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
+> each manufacturer of such a product shall supply at his expense a reasonable number of such covered products to any laboratory designated by the Secretary or the Commission, as the casemay be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
 
 (4) Each manufacturer of a covered product to which a rule under section 6294 of this title applies shall annually, at a time specified by the Commission, supply to the Commission relevant data respecting energy consumption or water use developed in accordance with the test procedures applicable to such product under section 6293 of this title.
 

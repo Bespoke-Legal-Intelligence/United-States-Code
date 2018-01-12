@@ -34,7 +34,7 @@
 
 #### (b) Methods of provision of assistance
 
-In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a) of this section, may—
+In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a), may—
 
 &emsp;(1) provide research and technical assistance through officers or employees of the Department;
 
@@ -49,4 +49,8 @@ In providing research and technical assistance under this section, the Secretary
 <b>2004</b>—Subsec. (a)(2)(G) to (I). Pub. L. 108–373, §205(a), added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
 Subsec. (a)(3). Pub. L. 108–373, §205(b), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "In the case of a project assisted under this section, the Secretary may reduce or waive the non-Federal share, without regard to section 3144 or 3145 of this title, if the Secretary finds that the project is not feasible without, and merits, such a reduction or waiver."
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

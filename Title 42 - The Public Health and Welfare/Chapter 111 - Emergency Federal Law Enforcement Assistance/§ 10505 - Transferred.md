@@ -1,0 +1,6 @@
+### §10505. Transferred
+
+#### Codification
+
+Section 10505 was editorially reclassified as section 50105 of Title 34, Crime Control and Law Enforcement.
+

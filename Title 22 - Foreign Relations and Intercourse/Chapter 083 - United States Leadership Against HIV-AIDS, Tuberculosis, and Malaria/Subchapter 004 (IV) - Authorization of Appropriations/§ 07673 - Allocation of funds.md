@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) provide balanced funding for prevention activities for sexual transmission of HIV/AIDS; and
 
-&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of eachhost county <sup>1</sup> involved in HIV/AIDS prevention activities.
+&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county <sup>1</sup> involved in HIV/AIDS prevention activities.
 
 #### (2) Prevention strategy
 
@@ -22,7 +22,7 @@
 
 #### (3) Exclusion
 
-&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promoting universal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
+&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promotinguniversal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
 
 #### (4) Report
 
@@ -74,7 +74,7 @@ This chapter, referred to in subsec. (a)(2)(A), was in the original "this Act", 
 
 Subsec. (c). Pub. L. 113–56, §6(b), substituted "2018" for "2013" and "amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title" for "amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title" in introductory provisions.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–293, §403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuantto the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs."
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs."
 
 Subsec. (b). Pub. L. 110–293, §403(2), substituted "fiscal years 2009 through 2013" for "fiscal years 2006 through 2008" and "other children affected by, or vulnerable to," for "vulnerable children affected by".
 

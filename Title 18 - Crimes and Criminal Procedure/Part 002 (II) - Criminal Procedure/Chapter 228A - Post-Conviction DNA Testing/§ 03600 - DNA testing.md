@@ -160,7 +160,7 @@ Entry into ndis.—If the DNA test results obtained under this section are incon
 
 &emsp;&emsp;(B)
 
-Match with other offense.—If the DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, and a comparison of the DNA sample of the applicant results in a match between the DNA sample of the applicant and another offense, the Attorney General shall notify the appropriate agency and preserve the DNA sample of the applicant.
+Match with other offense.—If the DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, and a comparison of the DNA sample of the applicant results in a match between the DNA sample of the applicantand another offense, the Attorney General shall notify the appropriate agency and preserve the DNA sample of the applicant.
 
 &emsp;&emsp;(C)
 

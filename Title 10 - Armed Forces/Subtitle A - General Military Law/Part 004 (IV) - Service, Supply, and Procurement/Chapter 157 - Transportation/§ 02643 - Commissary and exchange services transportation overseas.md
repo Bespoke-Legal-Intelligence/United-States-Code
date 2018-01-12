@@ -14,5 +14,5 @@ Payment of Transportation Costs.—Section 2483(b)(5) of this title, regarding t
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–328 inserted at end "Such appropriated funds may be supplemented with additional funds derived from improved management practices implemented pursuant to sections 2481(c)(3) and 2487(c) of this title."
 
-<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted "to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command," for "by sea without relying on the Military Sealift Command" and "contracts for sea-borne transportation" for "transportation contracts", and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted "to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command," for "by sea without relying on theMilitary Sealift Command" and "contracts for sea-borne transportation" for "transportation contracts", and added subsec. (b).
 

@@ -50,7 +50,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 &emsp;"(2) the Secretary shall compensate Plum Creek for the lands placed into escrow, based upon the values determined for each such parcel during the Appraisal process in the context of the whole estate to be conveyed, through the following, including any combination thereof:
 
-&emsp;&emsp;"(A) conveyance of any other lands under the jurisdiction of the Secretary acceptable to Plum Creek and the Secretary after compliance with all applicable Federal environmental and other laws; and
+&emsp;&emsp;"(A) conveyance of any other lands under the jurisdiction of the Secretary acceptable to PlumCreek and the Secretary after compliance with all applicable Federal environmental and other laws; and
 
 &emsp;&emsp;"(B) to the extent sufficient acceptable lands are not available pursuant to paragraph (A) of this subsection, cash payments as and to the extent funds become available through appropriations, private sources, or, if necessary, by reprogramming.
 
@@ -116,7 +116,7 @@ Findings.—Congress finds that—
 
 &emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
-&emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that theoffered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
+&emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
 "(b)
 
@@ -168,7 +168,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 "(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land whichthe Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### "SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -190,7 +190,7 @@ Appraisal assumption.—In order to ensure the equitable and uniform appraisal o
 
 &emsp;"(3)
 
-Appraisals.—The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1716(d)).
+Appraisals.—The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the FederalLand Policy and Management Act of 1976, as amended (43 U.S.C. 1716(d)).
 
 &emsp;"(4)
 
@@ -302,7 +302,7 @@ In general.—Land acquired by the Secretary under this Act shall become part of
 
 Modification of boundaries.—
 
-&emsp;&emsp;&emsp;"(1) If any land acquired by the Secretary lies outside the exterior boundaries of the nationalforests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land.
+&emsp;&emsp;&emsp;"(1) If any land acquired by the Secretary lies outside the exterior boundaries of the national forests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land.
 
 &emsp;&emsp;&emsp;"(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the 'Weeks Act') \[16 U.S.C. 521\].
 
@@ -392,7 +392,7 @@ Other Agreements.—Nothing in this Act shall be construed to prohibit the Secre
 
 #### "SEC. 608. TIETON RIVER STUDY.
 
-"The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase PlumCreek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
+"The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
 
 #### "SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.
 
@@ -406,7 +406,7 @@ Future Exchange.—In furtherance of subsection (a), the Secretary is authorized
 
 "(c)
 
-Report to Congress.—Not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States House of Representatives briefly outlining future land exchange opportunities with Plum Creek, including those for which the Secretary is required to consult under section 608, which the Secretary determines merit detailed analysis and consideration. The Secretary should identify the most urgent acquisitions for purchase or exchange in the report.
+Report to Congress.—Not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States Houseof Representatives briefly outlining future land exchange opportunities with Plum Creek, including those for which the Secretary is required to consult under section 608, which the Secretary determines merit detailed analysis and consideration. The Secretary should identify the most urgent acquisitions for purchase or exchange in the report.
 
 #### "SEC. 610. WILDERNESS STUDY AREA.
 

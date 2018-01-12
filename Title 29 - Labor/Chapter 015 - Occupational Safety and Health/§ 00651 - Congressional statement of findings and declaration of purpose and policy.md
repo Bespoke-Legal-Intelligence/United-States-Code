@@ -42,7 +42,7 @@ Pub. L. 91–596, §34, Dec. 29, 1970, 84 Stat. 1620, provided that: "This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: "This Act \[amending section 670 of this title\] may be cited as the 'Occupational Safety andHealth Administration Compliance Assistance Authorization Act of 1998'."
+Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: "This Act \[amending section 670 of this title\] may be cited as the 'Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998'."
 
 #### Short Title
 

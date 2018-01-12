@@ -102,7 +102,7 @@ Subsec. (b)(1)(A)(iii). Pub. L. 114–281, §102(a)(2)(A), substituted "as well 
 
 Subsec. (b)(1)(A)(iv) to (vii). Pub. L. 114–281, §102(a)(2)(B), (C), added cls. (iv) to (vi) and redesignated former cl. (iv) as (vii).
 
-Subsec. (b)(1)(B). Pub. L. 114–281, §102(a)(3), in introductory provisions, inserted "persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision,"after "entire religions," and "policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country," after "such groups,".
+Subsec. (b)(1)(B). Pub. L. 114–281, §102(a)(3), in introductory provisions, inserted "persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision," after "entire religions," and "policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country," after "such groups,".
 
 Subsec. (b)(1)(C). Pub. L. 114–281, §102(a)(4), substituted "A detailed description of United States actions, diplomatic and political coordination efforts, and other" for "A description of United States actions and".
 

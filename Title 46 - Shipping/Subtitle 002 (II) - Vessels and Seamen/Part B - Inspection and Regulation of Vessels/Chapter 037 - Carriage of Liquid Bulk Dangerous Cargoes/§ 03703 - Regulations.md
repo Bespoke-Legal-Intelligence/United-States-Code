@@ -64,7 +64,7 @@ Pub. L. 111–281, title VI, §617(f), Oct. 15, 2010, 124 Stat. 2974, as amended
 
 "(1)
 
-In general.—Not later than January 1, 2012, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 2101 of this title\] for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
+In general.—Not later than January 1, 2012, the Secretary of the department in which the Coast Guardis operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 2101 of this title\] for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 "(2)
 
@@ -218,7 +218,7 @@ Coordination of study.—The Secretary of Transportation shall coordinate with t
 
 &emsp;"(2)
 
-Matters to be included.—The study under this subsection shall include a review and analysis ofcurrent monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
+Matters to be included.—The study under this subsection shall include a review and analysis of current monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
 
 &emsp;"(3)
 

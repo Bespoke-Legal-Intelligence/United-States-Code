@@ -70,7 +70,7 @@ In this part:
 
 <b>2015</b>—Par. (5)(A). Pub. L. 114–113, §204(1)(A), inserted ", including information related to cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
-Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after"critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
+Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
 Par. (5)(C). Pub. L. 114–113, §204(1)(C), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information".
 

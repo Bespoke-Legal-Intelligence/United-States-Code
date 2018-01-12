@@ -6,7 +6,7 @@ There is hereby established in the Department of Agriculture the position of Adm
 
 #### (b) Duties
 
-The Administrator of the Foreign Agricultural Service is authorized to exercise such functionsand perform such duties related to foreign agriculture, and shall perform such other duties, as may be required by law or prescribed by the Secretary of Agriculture.
+The Administrator of the Foreign Agricultural Service is authorized to exercise such functions and perform such duties related to foreign agriculture, and shall perform such other duties, as may be required by law or prescribed by the Secretary of Agriculture.
 
 #### (c) Use of Service
 

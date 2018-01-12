@@ -20,5 +20,5 @@ References to Post Office Department, Postal Service, Postal Field Service, Fiel
 
 #### Effective Date
 
-Chapter effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
 

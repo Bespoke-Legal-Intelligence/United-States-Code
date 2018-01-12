@@ -8,7 +8,7 @@ The Administrator shall make matching grants to States for programs to promote t
 
 When evaluating the requests for grants under this section, the Administrator shall consider, among other things, whether the proposed State program would accomplish the following:
 
-&emsp;(1) Make specific technical assistance available to businesses seeking information about source reduction opportunities, including funding for experts to provide onsite technical advice to business <sup>1</sup> seeking assistance and toassist in the development of source reduction plans.
+&emsp;(1) Make specific technical assistance available to businesses seeking information about source reduction opportunities, including funding for experts to provide onsite technical advice to business <sup>1</sup> seeking assistance and to assist in the development of source reduction plans.
 
 &emsp;(2) Target assistance to businesses for whom lack of information is an impediment to source reduction.
 

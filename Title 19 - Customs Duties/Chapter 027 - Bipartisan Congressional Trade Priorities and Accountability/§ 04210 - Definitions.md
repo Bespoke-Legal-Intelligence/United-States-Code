@@ -26,7 +26,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "common multilateral environmental agreement" means any agreement specified in subparagraph (B) or included under subparagraph (C) to which both theUnited States and one or more other parties to the negotiations are full parties, including any current or future mutually agreed upon protocols, amendments, annexes, or adjustments to such an agreement.
+&emsp;&emsp;The term "common multilateral environmental agreement" means any agreementspecified in subparagraph (B) or included under subparagraph (C) to which both the United States and one or more other parties to the negotiations are full parties, including any current or future mutually agreed upon protocols, amendments, annexes, or adjustments to such an agreement.
 
 #### (B) Agreements specified
 
@@ -120,7 +120,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a partnership, corporation, or other legal entity that is organized under the laws of the United States; and
 
-&emsp;&emsp;(C) a partnership, corporation, or other legal entity that is organized under the lawsof a foreign country and is controlled by entities described in subparagraph (B) or United States citizens, or both.
+&emsp;&emsp;(C) a partnership, corporation, or other legal entity that is organized under the laws of a foreign country and is controlled by entities described in subparagraph (B) or United States citizens, or both.
 
 #### (20) Uruguay Round Agreements
 

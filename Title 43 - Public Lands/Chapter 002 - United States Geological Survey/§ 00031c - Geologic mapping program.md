@@ -22,7 +22,7 @@
 
 &emsp;The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-&emsp;&emsp;(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
+&emsp;&emsp;(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives andthe Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
 
 &emsp;&emsp;(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009, in accordance with section 31d of this title; and
 
@@ -48,7 +48,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
-&emsp;(2) development of a complementary national geochronologic and paleontologic database that provides value-added descriptive and interpretative information to the geologic-map data base;
+&emsp;(2) development of a complementary national geochronologic and paleontologic data base that provides value-added descriptive and interpretative information to the geologic-map data base;
 
 &emsp;(3) application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and
 

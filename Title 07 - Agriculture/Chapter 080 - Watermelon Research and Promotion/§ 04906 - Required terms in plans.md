@@ -72,7 +72,7 @@ The plan shall provide the following:
 
 #### (i) Submission of programs or projects; approval by Secretary
 
-The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g),shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
+The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g), shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
 
 #### (j) Contract authority
 

@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (b) Countries eligible for designation; congressional notification
 
-(1) In designating countries as beneficiary countries under this chapter, the President shall consider only the following countries or successor political entities:
+(1) In designating countries as beneficiary countries under this chapter, the President shallconsider only the following countries or successor political entities:
 
 &emsp;Bolivia
 
@@ -32,7 +32,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;(2) if such country—
 
-&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen orby a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens,
+&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens,
 
 &emsp;&emsp;(B) has taken steps to repudiate or nullify—
 
@@ -160,7 +160,7 @@ This chapter, referred to in subsec. (d)(12), was in the original "this Act" and
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (f). Pub. L. 107–210, §3103(e), substituted "Reporting requirements" for "Report" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter."
+Subsec. (f). Pub. L. 107–210, §3103(e), substituted "Reporting requirements" for "Report" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and\(d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter."
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–200 substituted "Report" for "Triennial report" in heading and "Not later than January 31, 2001" for "On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991" in text.
 

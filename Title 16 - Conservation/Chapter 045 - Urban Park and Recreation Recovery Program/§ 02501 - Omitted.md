@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 95–625, title X, §1002, Nov. 10, 1978, 92 Stat. 3538, which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287.
+Section, Pub. L. 95–625, title X, §1002, Nov. 10, 1978, 92 Stat. 3538, which related to congressional findings, wasomitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287.
 

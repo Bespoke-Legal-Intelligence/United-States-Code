@@ -22,7 +22,7 @@ Traffic signal preemption transmitter.—The term "traffic signal preemption tra
 
 &emsp;(2)
 
-Nonqualifying user.—The term "nonqualifying user" means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to provide fire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
+Nonqualifying user.—The term "nonqualifying user" means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to providefire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
 
 (Added Pub. L. 109–59, title II, §2018(a), Aug. 10, 2005, 119 Stat. 1542.)
 

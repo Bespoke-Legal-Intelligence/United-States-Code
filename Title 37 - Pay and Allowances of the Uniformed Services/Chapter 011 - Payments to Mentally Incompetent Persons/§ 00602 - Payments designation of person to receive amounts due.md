@@ -74,7 +74,7 @@ In subsection (c), the words "or persons" are omitted for the reasons given in t
 
 In subsection (d), the words "under the authority of" are omitted as surplusage.
 
-In subsection (e), the words "have been" and "including a requirement" are omitted as surplusage. The words "or persons" are omitted for the reason stated in the explanation under subsection (a), above.
+In subsection (e), the words "have been" and "including a requirement" are omitted as surplusage. Thewords "or persons" are omitted for the reason stated in the explanation under subsection (a), above.
 
 #### Amendments
 

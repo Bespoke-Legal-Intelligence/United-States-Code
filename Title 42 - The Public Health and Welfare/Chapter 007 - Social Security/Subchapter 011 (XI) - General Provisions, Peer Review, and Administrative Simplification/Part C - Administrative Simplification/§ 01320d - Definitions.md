@@ -12,7 +12,7 @@ For purposes of this part:
 
 #### (3) Health care provider
 
-&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section1395x(s) of this title), and any other person furnishing health care services or supplies.
+&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section 1395x(s) of this title), and any other person furnishing health care services or supplies.
 
 #### (4) Health information
 

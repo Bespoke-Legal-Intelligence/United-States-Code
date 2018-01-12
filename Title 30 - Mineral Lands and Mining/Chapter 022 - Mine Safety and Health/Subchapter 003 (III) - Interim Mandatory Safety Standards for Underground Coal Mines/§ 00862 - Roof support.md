@@ -18,7 +18,7 @@ When installation of roof bolts is permitted, such roof bolts shall be tested in
 
 #### (e) Recovery of roof bolts
 
-Roof bolts shall not be recovered where complete extractions of pillars are attempted, where adjacent to clay veins, or at the locations of other irregularities, whether natural or otherwise, that induce abnormal hazards. Where roofbolt recovery is permitted, it shall be conducted only in accordance with methods prescribed in the approved roof control plan, and shall be conducted by experienced miners and only where adequate temporary support is provided.
+Roof bolts shall not be recovered where complete extractions of pillars are attempted, where adjacent to clay veins, or at the locations of other irregularities, whether natural or otherwise, that induce abnormal hazards. Where roof bolt recovery is permitted, it shall be conducted only in accordance with methods prescribed in the approved roof control plan, and shall be conducted by experienced miners and only where adequate temporary support is provided.
 
 #### (f) Safety inspections; correction of dangerous conditions
 
@@ -29,4 +29,8 @@ Where miners are exposed to danger from falls of roof, face, and ribs the operat
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsec. (a), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

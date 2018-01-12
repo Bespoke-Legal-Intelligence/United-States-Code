@@ -36,7 +36,7 @@
 
 #### (C) Covered property
 
-&emsp;&emsp;The term "covered property" means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities,bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
+&emsp;&emsp;The term "covered property" means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities, bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
 
 #### (D) Regulation as including order
 

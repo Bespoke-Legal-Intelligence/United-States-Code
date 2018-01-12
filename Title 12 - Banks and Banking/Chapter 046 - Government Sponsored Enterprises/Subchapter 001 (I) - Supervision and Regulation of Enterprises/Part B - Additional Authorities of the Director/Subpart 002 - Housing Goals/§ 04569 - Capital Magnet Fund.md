@@ -66,7 +66,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 #### (1) In general
 
-&emsp;Any 1 eligible grantee and its subsidiaries and affiliates may not be awarded more than15 percent of the aggregate funds available for grants during any year from the Capital Magnet Fund.
+&emsp;Any 1 eligible grantee and its subsidiaries and affiliates may not be awarded more than 15 percent of the aggregate funds available for grants during any year from the Capital Magnet Fund.
 
 #### (2) Geographic diversity
 
@@ -142,7 +142,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 &emsp;&emsp;&emsp;(i) reduce the amount of assistance under this section to the grantee by an amount equal to the amount of Capital Magnet Fund grant amounts which were not used in accordance with this section;
 
-&emsp;&emsp;&emsp;(ii) require the grantee to repay the Secretary any amount of the Capital MagnetFund grant amounts which were not used in accordance with this section;
+&emsp;&emsp;&emsp;(ii) require the grantee to repay the Secretary any amount of the Capital Magnet Fund grant amounts which were not used in accordance with this section;
 
 &emsp;&emsp;&emsp;(iii) limit the availability of assistance under this section to the grantee to activities or recipients not affected by such failure to comply; or
 

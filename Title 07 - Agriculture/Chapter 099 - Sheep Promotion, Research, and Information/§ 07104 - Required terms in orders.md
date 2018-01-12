@@ -41,7 +41,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Massachusetts | 1&nbsp;&nbsp;&nbsp; |
 | Michigan | 1&nbsp;&nbsp;&nbsp; |
 | Minnesota | 2&nbsp;&nbsp;&nbsp; |
-| Mississippi | 1    |
+| Mississippi | 1&nbsp;&nbsp;&nbsp; |
 | Missouri | 1&nbsp;&nbsp;&nbsp; |
 | Montana | 5&nbsp;&nbsp;&nbsp; |
 | Nebraska | 1&nbsp;&nbsp;&nbsp; |
@@ -93,7 +93,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (C) Importers
 
-&emsp;&emsp;The Secretary shall appoint importers to seats established under paragraph (1)(C) from nominations submitted by qualified organizations that represent importers, as determined by the Secretary. To be represented on the Board, importers shall provide at least 1.5 nominations for each appointment to the Board for which importers are entitled to representation, as determined under paragraph (1)(C).
+&emsp;&emsp;The Secretary shall appoint importers to seats established under paragraph (1)(C)from nominations submitted by qualified organizations that represent importers, as determined by the Secretary. To be represented on the Board, importers shall provide at least 1.5 nominations for each appointment to the Board for which importers are entitled to representation, as determined under paragraph (1)(C).
 
 #### (c) Method for obtaining nominations
 
@@ -235,7 +235,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) Plans or projects
 
-&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research,consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
+&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
 
 #### (B) Budgets
 
@@ -283,7 +283,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each person making payment to a producer or feeder for sheep purchased from the producer or feeder shall, in the manner prescribed by the order, collect an assessment from the producer or feeder on each sheep sold by the producer or feeder.
+&emsp;&emsp;The order shall provide that each person making payment to a producer or feeder for sheep purchased from the producer or feeder shall, in the manner prescribed by the order,collect an assessment from the producer or feeder on each sheep sold by the producer or feeder.
 
 #### (B) Processing
 
@@ -373,7 +373,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the order shall provide that 20 percent of the total assessments collected by the Board on the marketing of domestic sheep and domestic sheep products in any 1 year from a State shall be returned to the qualified State sheep board of the State.
+&emsp;&emsp;Except as provided in subparagraph (B), the order shall provide that 20 percent of the total assessments collected by the Board onthe marketing of domestic sheep and domestic sheep products in any 1 year from a State shall be returned to the qualified State sheep board of the State.
 
 #### (B) Exception
 
@@ -435,7 +435,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by theBoard under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
+&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
 
 #### (2) Exceptions
 

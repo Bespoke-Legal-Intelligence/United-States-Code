@@ -20,7 +20,7 @@ There are authorized to be appropriated to the Department of Commerce to carry o
 
 &emsp;(2) such sums as may be necessary for the fiscal year 1994; and
 
-&emsp;(3) such additional amounts, for each such fiscal year, as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
+&emsp;(3) such additional amounts, for each such fiscal year, as may be necessary for increasesin salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
 
 (Pub. L. 96–72, §18, Sept. 29, 1979, 93 Stat. 534; Pub. L. 97–145, §2(a), Dec. 29, 1981, 95 Stat. 1727; Pub. L. 99–64, title I, §119, July 12, 1985, 99 Stat. 154; Pub. L. 99–633, §1, Nov. 7, 1986, 100 Stat. 3522; Pub. L. 100–418, title II, §2430, Aug. 23, 1988, 102 Stat. 1362; Pub. L. 103–10, §1, Mar. 27, 1993, 107 Stat. 40.)
 

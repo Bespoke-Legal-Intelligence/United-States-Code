@@ -108,7 +108,7 @@ Transfer of Personnel.—In addition to any other authorities available under la
 
 &emsp;"(1) is authorized within the Office of the Director of National Intelligence the total of 500 new personnel positions; and
 
-&emsp;"(2) with the approval of the Director of the Office of Management and Budget, may detail not morethan 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
+&emsp;"(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
 
 #### "SEC. 1097. EFFECTIVE DATES.
 
@@ -229,7 +229,7 @@ Head of Central Intelligence Agency.—(1) During the period beginning on the da
 
 "(2) Upon the appointment of an individual as Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the Central Intelligence Agency shall be deemed to be a reference to the Director of the Central Intelligence Agency."
 
-Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
+Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in whichsuch function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
 
 #### Separability
 
@@ -238,6 +238,126 @@ Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that
 #### Construction of References to Director of Central Intelligence
 
 Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community."
+
+#### Committee to Counter Active Measures by the Russian Federation To Exert Covert Influence Over Peoples and Governments
+
+Pub. L. 115–31, div. N, title V, §501, May 5, 2017, 131 Stat. 823, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Active measures by russia to exert covert influence.—The term 'active measures by Russia to exert covert influence' means activities intended to influence a person or government that are carried out in coordination with, or at the behest of, political leaders or the security services of the Russian Federation and the role of the Russian Federation has been hidden or not acknowledged publicly, including the following:
+
+&emsp;&emsp;"(A) Establishment or funding of a front group.
+
+&emsp;&emsp;"(B) Covert broadcasting.
+
+&emsp;&emsp;"(C) Media manipulation.
+
+&emsp;&emsp;"(D) Disinformation and forgeries.
+
+&emsp;&emsp;"(E) Funding agents of influence.
+
+&emsp;&emsp;"(F) Incitement and offensive counterintelligence.
+
+&emsp;&emsp;"(G) Assassinations.
+
+&emsp;&emsp;"(H) Terrorist acts.
+
+&emsp;"(2)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\];
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(C) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+"(b)
+
+Establishment.—There is established within the executive branch an interagency committee to counter active measures by the Russian Federation to exert covert influence.
+
+"(c)
+
+Membership.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Appointment.—Each head of an agency or department of the Government set out under subparagraph (B) shall appoint one member of the committee established by subsection (b) from among officials of such agency or department who occupy a position that is required to be appointed by the President, with the advice and consent of the Senate.
+
+&emsp;&emsp;"(B)
+
+Head of an agency or department.—The head of an agency or department of the Government set out under this subparagraph are the following:
+
+&emsp;&emsp;&emsp;"(i) The Director of National Intelligence.
+
+&emsp;&emsp;&emsp;"(ii) The Secretary of State.
+
+&emsp;&emsp;&emsp;"(iii) The Secretary of Defense.
+
+&emsp;&emsp;&emsp;"(iv) The Secretary of the Treasury.
+
+&emsp;&emsp;&emsp;"(v) The Attorney General.
+
+&emsp;&emsp;&emsp;"(vi) The Secretary of Energy.
+
+&emsp;&emsp;&emsp;"(vii) The Director of the Federal Bureau of Investigation.
+
+&emsp;&emsp;&emsp;"(viii) The head of any other agency or department of the United States Government designated by the President for purposes of this section.
+
+"(d)
+
+Meetings.—The committee shall meet on a regular basis.
+
+"(e)
+
+Duties.—The duties of the committee established by subsection (b) shall be as follows:
+
+&emsp;"(1) To counter active measures by Russia to exert covert influence, including by exposing falsehoods, agents of influence, corruption, human rights abuses, terrorism, and assassinations carried out by the security services or political elites of the Russian Federation or their proxies.
+
+&emsp;"(2) Such other duties as the President may designate for purposes of this section.
+
+"(f)
+
+Staff.—The committee established by subsection (b) may employ such staff as the members of such committee consider appropriate.
+
+"(g)
+
+Budget Request.—A request for funds required for the functioning of the committee established by subsection (b) may be included in each budget for a fiscal year submitted by the President pursuant to section 1105(a) of title 31, United States Code.
+
+"(h)
+
+Annual Report.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[May 5, 2017\], and annually thereafter, and consistent with the protection of intelligence sources and methods, the committee established by subsection (b) shall submit to the appropriate committees of Congress a report describing steps being taken by the committee to counter active measures by Russia to exert covert influence.
+
+&emsp;"(2)
+
+Content.—Each report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A summary of the active measures by the Russian Federation to exert covert influence during the previous year, including significant incidents and notable trends.
+
+&emsp;&emsp;"(B) A description of the key initiatives of the committee.
+
+&emsp;&emsp;"(C) A description of the implementation of the committee's initiatives by the head of an agency or department of the Government set out under subsection (c)(1)(B).
+
+&emsp;&emsp;"(D) An analysis of the impact of the committee's initiatives.
+
+&emsp;&emsp;"(E) Recommendations for changes to the committee's initiatives from the previous year.
+
+&emsp;"(3)
+
+Separate reporting requirement.—The requirement to submit an annual report under paragraph (1) is in addition to any other reporting requirements with respect to Russia."
 
 #### Charter for the National Reconnaissance Office
 
@@ -389,7 +509,7 @@ Deadline for Appointments.—Members of the Commission shall be appointed not la
 
 "(a)
 
-Initial Report.—The Commission shall transmit to the President and to Congress an initial report notlater than six months after the date on which the Commission is first constituted with a quorum.
+Initial Report.—The Commission shall transmit to the President and to Congress an initial report not later than six months after the date on which the Commission is first constituted with a quorum.
 
 "(b)
 
@@ -483,7 +603,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709
 
 3\. The decoration established by this order shall be awarded by the President of the United States or, under regulations approved by him, by such person or persons as he may designate.
 
-4\. No more than one National Security Medal shall be awarded to any one person, but for subsequent servicesjustifying an award, a suitable device may be awarded to be worn with the Medal.
+4\. No more than one National Security Medal shall be awarded to any one person, but for subsequent services justifying an award, a suitable device may be awarded to be worn with the Medal.
 
 5\. Members of the armed forces of the United States who are awarded the decoration established by this order are authorized to wear the medal and the ribbon symbolic of the award, as may be authorized by uniform regulations approved by the Secretary of Defense.
 
@@ -515,7 +635,7 @@ Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 1328
 
 #### TABLE OF CONTENTS \[Omitted.\]
 
-Timely, accurate, and insightful information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and the laws of the United States of America, including the National Security Act of 1947, as amended (Act) \[50 U.S.C. 3001 et seq.\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activities and the protection of constitutional rights, it is hereby ordered as follows:
+Timely, accurate, and insightful information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and the laws of the United States of America, including the National Security Act of 1947, as amended (Act) \[50 U.S.C. 3001 et seq.\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activitiesand the protection of constitutional rights, it is hereby ordered as follows:
 
 #### PART 1—GOALS, DIRECTIONS, DUTIES, AND RESPONSIBILITIES WITH RESPECT TO UNITED STATES INTELLIGENCE EFFORTS
 
@@ -679,7 +799,7 @@ Consistent with applicable Federal law and with the other provisions of this ord
 
 (e) Conduct research, development, and procurement of technical systems and devices relating to authorized functions and missions or the provision of services of common concern for the Intelligence Community;
 
-(f) Protect the security of intelligence related activities, information, installations, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the Intelligence Community elements as are necessary;
+(f) Protect the security of intelligence related activities, information, installations, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and otherpersons with similar associations with the Intelligence Community elements as are necessary;
 
 (g) Take into account State, local, and tribal governments' and, as appropriate, private sector entities' information needs relating to national and homeland security;
 
@@ -913,7 +1033,7 @@ In addition to the authorities exercised by the Office of Intelligence and Count
 
 The Federal Bureau of Investigation
 
-In addition to the authorities exercised by the intelligence elements of the Federal Bureau of Investigation of the Department of Justice under sections 1.4 and 1.7(g) of this order and under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the Director of the Federal Bureau of Investigation shall provide technical assistance, within or outside the United States, to foreign intelligence and law enforcement services, consistent with section 1.3(b)(20) and (21) of this order, as may be necessary to support national or departmental missions.
+In addition to the authorities exercised by the intelligence elements of the Federal Bureau of Investigationof the Department of Justice under sections 1.4 and 1.7(g) of this order and under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the Director of the Federal Bureau of Investigation shall provide technical assistance, within or outside the United States, to foreign intelligence and law enforcement services, consistent with section 1.3(b)(20) and (21) of this order, as may be necessary to support national or departmental missions.
 
 #### PART 2—CONDUCT OF INTELLIGENCE ACTIVITIES
 
@@ -983,7 +1103,7 @@ Elements of the Intelligence Community shall use the least intrusive collection 
 
 Attorney General Approval
 
-The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. The authority delegated pursuant to this paragraph, including the authority to approve the use of electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978, as amended, shall be exercised in accordance with that Act.
+The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within theUnited States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. The authority delegated pursuant to this paragraph, including the authority to approve the use of electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978, as amended, shall be exercised in accordance with that Act.
 
 #### 2\.6
 
@@ -1163,7 +1283,7 @@ General Provisions
 
 #### Executive Order No. 12334
 
-Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, formerly set out below.
+Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R.5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, formerly set out below.
 
 #### Executive Order No. 12863
 
@@ -1277,7 +1397,7 @@ Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a)
 
 (ii) while engaged in the work of the PIAB or the IOB, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707).
 
-(e) The PIAB shall utilize such full-time professional and administrative staff as authorized by the Chair andapproved by the President or the President's designee. Such staff shall be supervised by an Executive Director of the PIAB, appointed by the President, whom the President may designate to serve also as the Executive Director of the IOB.
+(e) The PIAB shall utilize such full-time professional and administrative staff as authorized by the Chair and approved by the President or the President's designee. Such staff shall be supervised by an Executive Director of the PIAB, appointed by the President, whom the President may designate to serve also as the Executive Director of the IOB.
 
 Sec. 4. <i>Functions of the PIAB</i>. Consistent with the policy set forth in section 1 of this order, the PIAB shall have the authority to, as the PIAB determines appropriate, or shall, when directed by the President:
 
@@ -1357,7 +1477,7 @@ Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions 
 
 (iii) ensure that departments concerned comply with instructions issued by the DNI under subsection 7(a)(ii) of this order.
 
-(c) The head of a department concerned who does not implement a recommendation to that head of department from the PIAB under subsection 4(b) of this order or from the IOB under subsections 6(c) or 6(d) of this order shall promptly report through the DNI to theBoard that made the recommendation, or to the President, the reasons for not implementing the recommendation.
+(c) The head of a department concerned who does not implement a recommendation to that head of department from the PIAB under subsection 4(b) of this order or from the IOB under subsections 6(c) or 6(d) of this order shall promptly report through the DNI to the Board that made the recommendation, or to the President, the reasons for not implementing the recommendation.
 
 (d) The DNI shall ensure that the Director of the Central Intelligence Agency performs the functions with respect to the Central Intelligence Agency under this order that a head of a department concerned performs with respect to organizations within the intelligence community that are part of that department.
 

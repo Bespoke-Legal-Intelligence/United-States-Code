@@ -18,7 +18,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) with respect to an adjustable rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—
 
-&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
+&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, isfirst scheduled to reach 80 percent of the original value of the property securing the loan; or
 
 &emsp;&emsp;&emsp;(ii) based solely on actual payments, first reaches 80 percent of the original value of the property securing the loan.
 
@@ -150,7 +150,7 @@ Pars. (17), (18). Pub. L. 106–569, §402(a)(1)(C), redesignated pars. (15) and
 
 #### Effective Date
 
-Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: "This Act \[enacting this chapter andamending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\]."
+Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: "This Act \[enacting this chapter and amending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\]."
 
 #### Short Title of 2000 Amendment
 

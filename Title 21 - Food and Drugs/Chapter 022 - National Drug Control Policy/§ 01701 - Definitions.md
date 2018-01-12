@@ -158,7 +158,7 @@ Pub. L. 109–469, title XI, §1105, Dec. 29, 2006, 120 Stat. 3541, provided tha
 
 In General.—The Director of the Office of National Drug Control Policy shall provide for or shall enter into an agreement with a non-profit corporation that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from tax under section 501(a) of such Code to—
 
-&emsp;"(1) advise States on establishing laws and policies to address alcohol and other drug issues, based on themodel State drug laws developed by the President's Commission on Model State Drug Laws in 1993; and
+&emsp;"(1) advise States on establishing laws and policies to address alcohol and other drug issues, based on the model State drug laws developed by the President's Commission on Model State Drug Laws in 1993; and
 
 &emsp;"(2) revise such model State drug laws and draft supplementary model State laws to take into consideration changes in the alcohol and drug abuse problems in the State involved.
 

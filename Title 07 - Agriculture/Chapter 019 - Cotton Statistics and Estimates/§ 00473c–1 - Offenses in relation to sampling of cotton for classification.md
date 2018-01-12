@@ -2,7 +2,7 @@
 
 It shall be unlawful—
 
-&emsp;(a) for any person sampling cotton for classification under this chapter knowingly to sample cotton improperly, or to identify cotton samples improperly, or to accept money or other consideration, directly or indirectly, for any neglect or improper performance of duty as a sampler;
+&emsp;(a) for any person sampling cotton for classification under this chapter knowingly to sample cotton improperly, or to identify cotton samples improperly, or to accept money orother consideration, directly or indirectly, for any neglect or improper performance of duty as a sampler;
 
 &emsp;(b) for any person to influence improperly or to attempt to influence improperly or to forcibly assault, resist, impede, or interfere with any sampler in the taking of samples for classification under this chapter;
 

@@ -10,7 +10,7 @@ In general.—Subject to subsection (b), a member or former member of the unifor
 
 &emsp;&emsp;(A) A qualified retiree receiving veterans' disability compensation for a disability rated as 100 percent.
 
-&emsp;&emsp;(B) A qualified retiree receiving veterans' disability compensation at the rate payablefor a 100 percent disability by reason of a determination of individual unemployability.
+&emsp;&emsp;(B) A qualified retiree receiving veterans' disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability.
 
 &emsp;(2)
 

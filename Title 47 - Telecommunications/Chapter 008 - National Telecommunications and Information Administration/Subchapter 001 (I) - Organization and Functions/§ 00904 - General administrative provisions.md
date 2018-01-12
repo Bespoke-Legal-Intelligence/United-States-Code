@@ -4,7 +4,7 @@
 
 #### (1) Agency consultation
 
-&emsp;Federal agencies shall consult with the Assistant Secretary and the NTIA to ensure thatthe conduct of telecommunications activities by such agencies is consistent with the policies developed under section 902(b)(2)(K) of this title.
+&emsp;Federal agencies shall consult with the Assistant Secretary and the NTIA to ensure that the conduct of telecommunications activities by such agencies is consistent with the policies developed under section 902(b)(2)(K) of this title.
 
 #### (2) Report to President
 
@@ -40,7 +40,7 @@ To the extent the Assistant Secretary deems it necessary to continue the Interde
 
 #### (2) Limitation on authority
 
-&emsp;The Secretary may not make any reassignment of a function (or portion thereof) required to be assigned to the NTIA by section 902(b) of this title unless the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a statement describing the proposed reassignment and containing an explanation of the reasons for the reassignment. No reassignment of any such function (or portion thereof) shall be effective until 90 legislative days after the Secretary submits that statement to such Committees. For purposes of this paragraph, the term "legislative days" includes only days on which both Houses of Congress are in session.
+&emsp;The Secretary may not make any reassignment of a function (or portion thereof) required to be assigned to the NTIA by section 902(b) of this title unless the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Energy and Commerce of the House of Representatives a statement describing the proposed reassignment and containing an explanation of the reasons for the reassignment. No reassignment of any such function (or portion thereof) shall be effective until 90 legislative days after the Secretary submits that statement to such Committees. For purposes of this paragraph, the term "legislative days" includes only days on which both Houses of Congress are in session.
 
 #### (e) Limitation on solicitations
 

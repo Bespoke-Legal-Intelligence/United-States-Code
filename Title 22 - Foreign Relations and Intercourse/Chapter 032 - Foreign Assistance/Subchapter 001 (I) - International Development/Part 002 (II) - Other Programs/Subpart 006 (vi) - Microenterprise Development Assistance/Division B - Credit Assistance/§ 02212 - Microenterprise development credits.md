@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 108–31, §2(b), amended heading and text of subsec. (b) g
 
 &emsp;"(3) training programs for microentrepreneurs in order to enable them to make better use of credit and to better manage their enterprises."
 
-Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted "microfinance institutions" for "credit institutions"and "microenterprise households" for "micro- and small enterprises" in introductory provisions.
+Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted "microfinance institutions" for "credit institutions" and "microenterprise households" for "micro- and small enterprises" in introductory provisions.
 
 Subsec. (c)(1), (2). Pub. L. 108–31, §2(c)(2), substituted "financial services" for "credit".
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 108–31, §2(d), substituted "programs for microenterprise
 
 Subsec. (f)(1). Pub. L. 108–31, §2(e), substituted "for each of fiscal years 2001 through 2004" for "for each of fiscal years 2001 and 2002".
 
-<b>2000</b>—Pub. L. 106–309 amended section catchline and text generally, substituting provisions promoting micro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
+<b>2000</b>—Pub. L. 106–309 amended section catchline and text generally, substituting provisions promotingmicro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–418 added subsec. (i).
 

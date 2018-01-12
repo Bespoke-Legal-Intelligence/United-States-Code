@@ -30,7 +30,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19,1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
+&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
 
 #### (3) Authority to select and convey
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (A) Memorandum of Understanding
 
-&emsp;&emsp;The Secretary and Elim shall, acting in good faith, enter into a Memorandum of Understanding (hereinafter referred to as the "MOU") to implement the provisions of this subsection. The MOU shall include among its provisions reasonable measures to protect plants and animals in the hot springs on the Conveyance Lands and on the land within ¼ mile of the hot springs. The parties shall agree to meet periodically to review the matters contained in the MOU and to exercise their right to amend, replace, or extend the MOU. Such reviews shall include the authority to relocate any of the easements set forth in subparagraph (D) if the parties deem it advisable.
+&emsp;&emsp;The Secretary and Elim shall, acting in good faith, enter into a Memorandum of Understanding (hereinafter referred to as the "MOU") to implement the provisions of this subsection. The MOU shall include among its provisions reasonable measures to protect plants and animals in the hot springs on the Conveyance Lands and on the land within ¼ mile of the hot springs. The parties shall agree to meet periodically to reviewthe matters contained in the MOU and to exercise their right to amend, replace, or extend the MOU. Such reviews shall include the authority to relocate any of the easements set forth in subparagraph (D) if the parties deem it advisable.
 
 #### (B) Incorporation of terms
 

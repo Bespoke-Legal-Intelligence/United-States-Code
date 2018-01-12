@@ -50,7 +50,7 @@ Exemption from criminal prosecution.—The Corporation shall be exempt from all 
 
 #### (5) Maximum amount limitation on outstanding obligations
 
-&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue orincur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of—
+&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of—
 
 &emsp;&emsp;(A) the amount of cash or the equivalent of cash held by the Deposit Insurance Fund;
 

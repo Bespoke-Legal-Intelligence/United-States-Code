@@ -28,7 +28,7 @@ In general.—Not later than September 1 of each year, the Assistant Secretary, 
 
 &emsp;(2)
 
-Publications.—Not later than January 30 of each year, the Secretary shall publish on a public website each plan and outlook that has been approved under paragraph (1)(B)(i).
+Publications.—Not later than January 30 of each year, the Secretary shall publish on apublic website each plan and outlook that has been approved under paragraph (1)(B)(i).
 
 &emsp;(3)
 

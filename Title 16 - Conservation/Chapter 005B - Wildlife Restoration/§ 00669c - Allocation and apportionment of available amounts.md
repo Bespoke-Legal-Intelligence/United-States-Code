@@ -70,7 +70,7 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 &emsp;(B) provisions for the development and implementation of—
 
-&emsp;&emsp;(i) wildlife conservation projects that expand and support existing wildlife programs,giving appropriate consideration to all wildlife;
+&emsp;&emsp;(i) wildlife conservation projects that expand and support existing wildlife programs, giving appropriate consideration to all wildlife;
 
 &emsp;&emsp;(ii) wildlife-associated recreation projects; and
 
@@ -106,7 +106,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I,§111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
 
 #### Amendments
 

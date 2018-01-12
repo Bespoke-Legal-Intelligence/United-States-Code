@@ -76,7 +76,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1511(c)(8) of Pub. L. 99–514 applicable for purposes of determining interest for periodsafter Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
+Amendment by section 1511(c)(8) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
 Pub. L. 99–514, title XV, §1554(b), Oct. 22, 1986, 100 Stat. 2754, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any action or proceeding in the Tax Court with respect to which a decision has not become final (as determined under section 7481 of the Internal Revenue Code of 1954 \[now 1986\]) before the date of the enactment of this Act \[Oct. 22, 1986\]."
 
@@ -114,5 +114,5 @@ Amendment by section 960(a) of Pub. L. 91–172 effective one year after Dec. 30
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

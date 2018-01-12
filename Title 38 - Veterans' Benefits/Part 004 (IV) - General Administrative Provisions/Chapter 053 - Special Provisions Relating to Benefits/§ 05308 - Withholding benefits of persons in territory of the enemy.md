@@ -6,7 +6,7 @@
 
 (c) While such alien is located in territory of, or under military control of, an enemy of the United States or of any of its allies, the Secretary, in the Secretary's discretion, may apportion and pay any part of such benefits to the dependents of such alien. No dependent of such alien shall receive benefits by reason of this subsection in excess of the amount to which the dependent would be entitled if such alien were dead.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1231, §3108; Pub. L. 99–576, title VII, §701(74), Oct. 28, 1986, 100 Stat. 3297; renumbered §5308 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991,105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1231, §3108; Pub. L. 99–576, title VII, §701(74), Oct. 28, 1986, 100 Stat. 3297; renumbered §5308 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 

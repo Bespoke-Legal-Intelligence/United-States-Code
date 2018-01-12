@@ -40,7 +40,7 @@ The Research Center shall—
 
 &emsp;&emsp;(C) rigorous, peer-reviewed, large-scale, long-term, and broadly applicable empirical research that is designed to determine which approaches to the use of technology are most effective and cost-efficient in practice and under what conditions; and
 
-&emsp;&emsp;(D) field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding <sup>1</sup> how these resources are being accessed, put to use, and the effectiveness of such resources; and
+&emsp;&emsp;(D) field-based research on how teachers implement technology and Internet-basedresources in the classroom, including an understanding <sup>1</sup> how these resources are being accessed, put to use, and the effectiveness of such resources; and
 
 &emsp;(11) carry out research that is rigorous, peer-reviewed, and large scale to determine which methods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 

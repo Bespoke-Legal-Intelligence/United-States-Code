@@ -38,5 +38,5 @@ Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendme
 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 
-Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: "The United States Executive Director to theFund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists."
+Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: "The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists."
 

@@ -200,7 +200,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 &emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
 
-&emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board andthe Secretary such books and records as may be required by the order; and
+&emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 
 &emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by the order, reports regarding the collection, payment, or remittance of such assessments.
 

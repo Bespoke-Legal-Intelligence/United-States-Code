@@ -24,7 +24,7 @@ Punishment.—The punishment for an offense under subsection (a) of this section
 
 &emsp;&emsp;(A) a fine under this title or imprisonment for not more than 1 year or both, in the case of a first offense under this paragraph; and
 
-&emsp;&emsp;(B) a fine under this title or imprisonment for not more than 5 years, or both, in thecase of an offense under this subparagraph that occurs after a conviction of another offense under this section.
+&emsp;&emsp;(B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under this subparagraph that occurs after a conviction of another offense under this section.
 
 (c)
 

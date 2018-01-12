@@ -1,6 +1,6 @@
 ### §5012. Effect on other law
 
-This chapter shall supersede any provision of Federal or State law, including the UniformCommercial Code, that is inconsistent with this chapter, but only to the extent of the inconsistency.
+This chapter shall supersede any provision of Federal or State law, including the Uniform Commercial Code, that is inconsistent with this chapter, but only to the extent of the inconsistency.
 
 (Pub. L. 108–100, §13, Oct. 28, 2003, 117 Stat. 1190.)
 

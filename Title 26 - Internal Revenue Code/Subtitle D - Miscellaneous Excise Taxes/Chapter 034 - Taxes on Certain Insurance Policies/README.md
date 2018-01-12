@@ -52,13 +52,13 @@ A prior section 4312, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, §4312, former
 
 A prior section 4313, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, §4313, formerly §4314; renumbered §4313, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1294, provided for the method of determining the rate of taxation in the case of a bond conditioned for the repayment of money and given in a penal sum greater than the debt secured.
 
-A prior section 4314, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, §4314, formerly §4315; renumbered §4314, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1294, granted an exemption to instruments under the terms of which the obligee was required to make installment payments of not more than 20 percent annually, and made reference to section 4382 for other exemptions.
+A prior section 4314, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, §4314, formerly §4315; renumbered §4314, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1294, granted an exemption to instruments under the terms of which the obligee was required to make installmentpayments of not more than 20 percent annually, and made reference to section 4382 for other exemptions.
 
 A prior section 4315, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, §4315, formerly §4316; renumbered §4315 and amended Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1294, made cross references to sections 4381 and 4384 and subtitle F.
 
 A prior section 4321, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1295; Sept. 21, 1959, Pub. L. 86–344, §5(a), 73 Stat. 619, imposed a tax upon the sale or transfer of shares or certificates of stock or of rights to subscribe to receive such shares or certificates issued by a corporation.
 
-A prior section 4322, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1295, granted exemptions in the case of sales by brokers or registered nominees and in the case of odd lot sales.
+A prior section 4322, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1295, granted exemptions in the case of sales by brokers or registered nominees and in the case of odd lot sales.
 
 A prior section 4323, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296; Sept. 21, 1959, Pub. L. 86–344, §5(b), 73 Stat. 619, called for the affixing of the stamps representing the tax upon the books of the corporation and the certification of the actual value of the shares transferred, and made reference to section 4352 in the case of transfers shown otherwise than by the books of the corporation.
 
@@ -118,7 +118,7 @@ A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, §4384, former
 
 Pub. L. 89–44, title VII, §701(c)(1), June 21, 1965, 79 Stat. 157, provided that: "The amendments made by section 401 \[repealing sections 4301 to 4305, 4311 to 4315, 4321 to 4324, 4331 to 4333, 4341 to 4346, 4351 to 4354 and 4381 of this title\] (relating to documentary stamp taxes) shall apply on and after January 1, 1966."
 
-Repeal of sections 4361 to 4363, 4375, 4382 to 4384 by section 1904(a)(12) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
+Repeal of sections 4361 to 4363, 4375, 4382 to 4384 by section 1904(a)(12) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days afterOct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 

@@ -8,7 +8,7 @@ Subject to the direction and control of the Secretary, and consistent with any a
 
 &emsp;(3) To incorporate the input of the Under Secretary for Intelligence and Analysis with respect to performance appraisals, bonus or award recommendations, pay adjustments, and other forms of commendation.
 
-&emsp;(4) To coordinate with the Under Secretary for Intelligence and Analysis in developing policies and requirements for the recruitment and selection of intelligence officials of the intelligence component.
+&emsp;(4) To coordinate with the Under Secretary for Intelligence and Analysis in developing policies and requirements for the recruitmentand selection of intelligence officials of the intelligence component.
 
 &emsp;(5) To advise and coordinate with the Under Secretary for Intelligence and Analysis on any plan to reorganize or restructure the intelligence component that would, if implemented, result in realignments of intelligence functions.
 

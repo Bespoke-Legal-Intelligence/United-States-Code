@@ -22,6 +22,86 @@ Covered Officials.—Subsection (a) applies to the following officials of the De
 
 A prior section 2359, added Pub. L. 96–107, title VIII, §819(a)(1), Nov. 9, 1979, 93 Stat. 818, related to reports on salaries of officers of Federal contract research centers, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(a)(5), Nov. 5, 1990, 104 Stat. 1671.
 
+#### Support for National Security Innovation and Entrepreneurial Education
+
+Pub. L. 115–91, div. A, title II, §225, Dec. 12, 2017, 131 Stat. 1334, provided that:
+
+"(a)
+
+Support Authorized.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may, acting through the Under Secretary of Defense for Research and Engineering, support national security innovation and entrepreneurial education programs.
+
+&emsp;"(2)
+
+Elements.—Support under paragraph (1) may include the following:
+
+&emsp;&emsp;"(A) Materials to recruit participants, including veterans, for programs described in paragraph (1).
+
+&emsp;&emsp;"(B) Model curriculum for such programs.
+
+&emsp;&emsp;"(C) Training materials for such programs.
+
+&emsp;&emsp;"(D) Best practices for the conduct of such programs.
+
+&emsp;&emsp;"(E) Experimental learning opportunities for program participants to interact with operational forces and better understand national security challenges.
+
+&emsp;&emsp;"(F) Exchanges and partnerships with Department of Defense science and technology activities.
+
+&emsp;&emsp;"(G) Activities consistent with the Proof of Concept Commercialization Pilot Program established under section 1603 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2359 note).
+
+"(b)
+
+Consultation.—In carrying out subsection (a), the Secretary may consult with the heads of such Federal agencies, universities, and public and private entities engaged in the development of advanced technologies as the Secretary determines to be appropriate.
+
+"(c)
+
+Authorities.—The Secretary may—
+
+&emsp;"(1) develop and maintain metrics to assess national security innovation and entrepreneurial education activities to ensure standards for programs supported under subsection (b) are consistent and being met; and
+
+&emsp;"(2) ensure that any recipient of an award under the Small Business Technology Transfer program, the Small Business Innovation Research program, and science and technology programs of the Department of Defense has the option to participate in training under a national security innovation and entrepreneurial education program supported under subsection (b).
+
+"(d)
+
+Participation by Federal Employees and Members of the Armed Forces.—The Secretary may encourage Federal employees and members of the Armed Forces to participate in a national security innovation and entrepreneurial education program supported under subsection (a) in order to gain exposure to modern innovation and entrepreneurial methodologies.
+
+"(e)
+
+Coordination.—In carrying out this section, the Secretary shall consider coordinating and partnering with activities and organizations involved in the following:
+
+&emsp;"(1) Hack the Army.
+
+&emsp;"(2) Hack the Air Force.
+
+&emsp;"(3) Hack the Pentagon.
+
+&emsp;"(4) The Army Digital Service.
+
+&emsp;"(5) The Defense Digital Service.
+
+&emsp;"(6) The Air Force Digital Service.
+
+&emsp;"(7) Challenge and prize competitions of the Defense Advanced Research Projects Agency (DARPA).
+
+&emsp;"(8) The Defense Science Study Group.
+
+&emsp;"(9) The Small Business Innovation Research Program (SBIR).
+
+&emsp;"(10) The Small Business Technology Transfer Program (STTR).
+
+&emsp;"(11) War colleges of the military departments.
+
+&emsp;"(12) Hacking for Defense.
+
+&emsp;"(13) The National Security Science and Engineering Faculty Fellowship (NSSEFF) program.
+
+&emsp;"(14) The Science, Mathematics and Research for Transformation (SMART) scholarship program.
+
+&emsp;"(15) The young faculty award program of the Defense Advanced Research Projects Agency."
+
 #### Proof of Concept Commercialization Pilot Program
 
 Pub. L. 113–66, div. A, title XVI, §1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, §818, Dec. 19, 2014, 128 Stat. 3432, provided that:

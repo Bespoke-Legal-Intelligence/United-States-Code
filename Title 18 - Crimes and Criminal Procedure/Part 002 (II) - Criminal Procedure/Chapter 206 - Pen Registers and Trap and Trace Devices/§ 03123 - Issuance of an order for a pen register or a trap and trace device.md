@@ -68,3 +68,7 @@ Subsec. (b)(1)(C). Pub. L. 107–56, §216(b)(2)(B), added subpar. (C) and struc
 
 Subsec. (d)(2). Pub. L. 107–56, §216(b)(3), inserted "or other facility" after "leasing the line" and substituted "or applied, or who is obligated by the order" for ", or who has been ordered by the court".
 
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.
+

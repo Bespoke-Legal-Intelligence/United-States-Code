@@ -8,9 +8,9 @@ Findings.—Congress finds that—
 
 &emsp;(2) private applications of space technology have achieved a significant level of commercial and economic activity and offer the potential for growth in the future, particularly in the United States;
 
-&emsp;(3) new and innovative equipment and services are being sought, produced, and offered byentrepreneurs in telecommunications, information services, microgravity research, human space flight, and remote sensing technologies;
+&emsp;(3) new and innovative equipment and services are being sought, produced, and offered by entrepreneurs in telecommunications, information services, microgravity research, human space flight, and remote sensing technologies;
 
-&emsp;(4) the private sector in the United States has the capability of developing and providing private launching, reentry, and associated services that would complement the launching, reentry, and associated capabilities of the United States Government;
+&emsp;(4) the private sector in the United States has the capability of developing and providing private launching, reentry, and associatedservices that would complement the launching, reentry, and associated capabilities of the United States Government;
 
 &emsp;(5) the development of commercial launch vehicles, reentry vehicles, and associated services would enable the United States to retain its competitive position internationally, contributing to the national interest and economic well-being of the United States;
 
@@ -80,7 +80,7 @@ In subsection (b), before clause (1), the word "therefore" is omitted as surplus
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(15). Pub. L. 114–90, which directed amendment of section "50901(15)" by inserting", government astronauts," after "crew" wherever appearing, was executed by making the insertion in subsec. (a)(15) in two places, to reflect the probable intent of Congress.
+<b>2015</b>—Subsec. (a)(15). Pub. L. 114–90, which directed amendment of section "50901(15)" by inserting ", government astronauts," after "crew" wherever appearing, was executed by making the insertion in subsec. (a)(15) in two places, to reflect the probable intent of Congress.
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70101 of title 49 and section 70101 of this title as this section.
 

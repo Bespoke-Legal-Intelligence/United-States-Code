@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resourcesthat the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -54,7 +54,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (1) Other government assistance
 
-&emsp;Information regarding any related assistance from the Federal Government, a State, ora unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
+&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
 
 #### (2) Interested parties
 
@@ -70,11 +70,11 @@ During the period when an application is pending or assistance is being provided
 
 #### (d) Limitation of assistance
 
-The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
+The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such termshall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1). The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c).
 
 #### (e) Administrative remedies
 
-If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) of this section has occurred, the Secretary shall—
+If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) has occurred, the Secretary shall—
 
 &emsp;(1) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 
@@ -96,7 +96,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;Whenever any person knowingly and materially violates any provision of subsection (b) or (c) of this section, the Secretary may impose a civil money penalty on that person in accordance with the provisions of this section. This penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;Whenever any person knowingly and materially violates any provision of subsection (b) or (c), the Secretary may impose a civil money penalty on that person in accordance with the provisions of this section. This penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -106,7 +106,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (f) of this section. These standards and procedures—
+&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (f). These standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary to make the determination to impose the penalty or to use an administrative entity to make the determination;
 
@@ -118,21 +118,21 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+&emsp;In determining the amount of a penalty under subsection (f), consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
 #### (3) Reviewability of imposition of a penalty
 
-&emsp;The Secretary's determination or order imposing a penalty under subsection (f) of thissection shall not be subject to review, except as provided in subsection (h) of this section.
+&emsp;The Secretary's determination or order imposing a penalty under subsection (f) shall not be subject to review, except as provided in subsection (h).
 
 #### (h) Judicial review of agency determination
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1) of this section, a person against whom the Secretary has imposed a civil money penalty under subsection (f) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1), a person against whom the Secretary has imposed a civil money penalty under subsection (f) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -144,7 +144,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (i) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f), after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (j) Settlement by Secretary
 
@@ -196,7 +196,7 @@ Pub. L. 102–550, title IX, §911, Oct. 28, 1992, 106 Stat. 3875, as amended by
 
 "(a)
 
-Certification of Subsidy Layering Compliance.—The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Departmentof Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
+Certification of Subsidy Layering Compliance.—The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
 
 "(b)
 

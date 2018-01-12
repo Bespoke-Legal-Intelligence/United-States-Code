@@ -22,7 +22,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted "applicable" for "following" before "percentage of the" and provision defining the term "applicable percentage" for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal tothe following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
 &nbsp;
 
@@ -37,7 +37,7 @@ Pub. L. 98–76, §211(a), substituted "2.75 percent" for "2.0 percent".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34 added subsec. (a).
 
-Subsec. (b). Pub. L. 97–34 designated existing provisions as subsec. (b) and substituted "The rate of tax imposed by subsection (a) shall be increased by" for "In addition to other taxes, there is hereby imposed on the income of every employee a tax rate equal to".
+Subsec. (b). Pub. L. 97–34 designated existing provisions as subsec. (b) and substituted "The rate of tax imposed by subsection (a) shall be increased by" for "Inaddition to other taxes, there is hereby imposed on the income of every employee a tax rate equal to".
 
 <b>1976</b>—Pub. L. 94–455 struck out "of the Internal Revenue Code of 1954" after "wages by section 3101(a)", "of such Code" after "rate imposed by section 3101(b)", "after September 30, 1973," after "for services rendered by him", "of the Internal Revenue Code of 1954" after "as defined in section 3121", and "after September 30, 1973" after "for any month".
 
@@ -75,7 +75,7 @@ Pub. L. 100–203, title IX, §9031(b), Dec. 22, 1987, 101 Stat. 1330–296, pro
 
 Pub. L. 98–76, title II, §212, Aug. 12, 1983, 97 Stat. 419, provided that: "The amendments made by this part \[part I (§§211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare\] shall apply to compensation paid for services rendered after December 31, 1983, and before January 1, 1985."
 
-Pub. L. 98–76, title II, §227(a), Aug. 12, 1983, 97 Stat. 426, provided that: "The amendments made by sections221, 222, 223, and 225 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42\] shall apply to remuneration paid after December 31, 1984."
+Pub. L. 98–76, title II, §227(a), Aug. 12, 1983, 97 Stat. 426, provided that: "The amendments made by sections 221, 222, 223, and 225 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42\] shall apply to remuneration paid after December 31, 1984."
 
 #### Effective Date of 1981 Amendment
 
@@ -87,7 +87,7 @@ Amendment by Pub. L. 94–455 applicable with respect to compensation paid for s
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–93, title II, §207, Aug. 9, 1975, 89 Stat. 467, provided that: "The amendments made by sections 201 through 205 of this title \[amending this section and sections 3211, 3221, and 3231 of this title\] shall apply for taxable years ending on or after the date of the enactment of this Act \[Aug. 9, 1975\] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title \[amending section 3231 of this title\] shall apply for taxable years beginning on or after the date of enactment of this Act: <i>Provided, however</i>, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act."
+Pub. L. 94–93, title II, §207, Aug. 9, 1975, 89 Stat. 467, provided that: "The amendments made by sections 201 through 205 of this title \[amending this section and sections 3211, 3221, and 3231 of this title\] shall apply for taxable years ending on or after the date of the enactment of this Act \[Aug. 9, 1975\] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title \[amending section 3231 of this title\] shall apply for taxable years beginning on or after the date of enactment of this Act:<i>Provided, however</i>, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act."
 
 #### Effective Date of 1973 Amendment
 

@@ -182,7 +182,7 @@ Interim Planning and Reporting.—
 
 &emsp;"(1)
 
-In general.—The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements ofthis Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
+In general.—The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements of this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
 
 &emsp;"(2)
 

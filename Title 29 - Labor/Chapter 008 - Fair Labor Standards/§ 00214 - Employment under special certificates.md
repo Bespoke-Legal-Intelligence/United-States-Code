@@ -104,7 +104,7 @@ The Secretary may by regulation or order provide that sections 206 and 207 of th
 
 #### References in Text
 
-Effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (b)(1)(B)(i), (ii), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+Effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (b)(1)(B)(i), (ii), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L.93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
 
 Section 206(a)(5) of this title, referred to in subsec. (b)(2), was redesignated section 206(a)(4) of this title by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 

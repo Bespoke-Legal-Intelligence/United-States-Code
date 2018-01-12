@@ -1,6 +1,6 @@
 ### §1951. Entry into force of Compact
 
-Notwithstanding the provisions of Section 101(d)(1)(B) of Public Law 99–658 \[48 U.S.C. 1931(d)(1)(B)\], entry into force of the Compact ofFree Association between the United States and Palau (set forth in title II of Public Law 99–658 and hereafter in this joint resolution referred to as the "Compact") in accordance with subsections (a) and (d) of section 101 of Public Law 99–658 (100 Stat. 3673) \[48 U.S.C. 1931(a), (d)\] is hereby authorized—
+Notwithstanding the provisions of Section 101(d)(1)(B) of Public Law 99–658 \[48 U.S.C. 1931(d)(1)(B)\], entry into force of the Compact of Free Association between the United States and Palau (set forth in title II of Public Law 99–658 and hereafter in this joint resolution referred to as the "Compact") in accordance with subsections (a) and (d) of section 101 of Public Law 99–658 (100 Stat. 3673) \[48 U.S.C. 1931(a), (d)\] is hereby authorized—
 
 &emsp;(1) subject to the condition that the Compact, as approved by the Congress in Public Law 99–658, is approved by the requisite percentage of the votes cast in a referendum conducted pursuant to the Constitution of Palau, and such approval is free from any legal challenge, and
 
@@ -14,7 +14,7 @@ Public Law 99–658, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 10
 
 The Compact of Free Association between the United States and Palau, referred to in text, is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
-This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and section 3791 of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 1905 of Title 44, Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
+This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and section 10251 of Title 34, Crime Control and Law Enforcement, and enacted provisions set out as a note under section 1905 of Title 44, Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
 
 For Oct. 1, 1994, as the effective date of the Compact, referred to in par. (2), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
 

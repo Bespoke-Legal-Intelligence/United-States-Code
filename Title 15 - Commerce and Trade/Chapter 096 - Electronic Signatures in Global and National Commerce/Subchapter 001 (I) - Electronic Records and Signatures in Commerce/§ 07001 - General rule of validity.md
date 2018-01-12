@@ -88,7 +88,7 @@ This subchapter does not—
 
 #### (3) Originals
 
-&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating to a transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
+&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating toa transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
 
 #### (4) Checks
 

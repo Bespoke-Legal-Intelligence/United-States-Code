@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(B) is not known to the Commission from any other source, unless the whistleblower is the original source of the information; and
 
-&emsp;&emsp;(C) is not exclusively derived from an allegation made in a judicial or administrativehearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
+&emsp;&emsp;(C) is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
 
 #### (5) Related action
 

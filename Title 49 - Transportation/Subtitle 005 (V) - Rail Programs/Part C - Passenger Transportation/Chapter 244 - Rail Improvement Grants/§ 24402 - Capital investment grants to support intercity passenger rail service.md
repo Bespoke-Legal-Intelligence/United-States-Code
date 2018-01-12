@@ -168,7 +168,7 @@ Large Capital Project Requirements.—
 
 &emsp;(1)
 
-In general.—For a grant awarded under this chapter for an amount in excess of$1,000,000,000, the following conditions shall apply:
+In general.—For a grant awarded under this chapter for an amount in excess of $1,000,000,000, the following conditions shall apply:
 
 &emsp;&emsp;(A) The Secretary may not obligate any funding unless the applicant demonstrates, to the satisfaction of the Secretary, that the applicant has committed, and will be able to fulfill, the non-Federal share required for the grant within the applicant's proposed project completion timetable.
 
@@ -194,7 +194,7 @@ Small Capital Projects.—The Secretary shall make not less than 5 percent annua
 
 (l)
 
-Nonmotorized Transportation Access and Storage.—Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
+Nonmotorized Transportation Access and Storage.—Grants under this chapter may beused to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
 
 (Added Pub. L. 110–432, div. B, title III, §301(a), Oct. 16, 2008, 122 Stat. 4936; amended Pub. L. 114–94, div. A, title XI, §§11303(b)(1)(C), 11309, Dec. 4, 2015, 129 Stat. 1654, 1669.)
 

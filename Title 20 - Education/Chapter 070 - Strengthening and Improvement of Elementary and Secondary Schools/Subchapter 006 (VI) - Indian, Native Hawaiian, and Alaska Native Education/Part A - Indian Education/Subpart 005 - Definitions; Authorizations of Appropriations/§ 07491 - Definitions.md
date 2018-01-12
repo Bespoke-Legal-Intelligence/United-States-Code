@@ -44,7 +44,7 @@ For the purposes of this part:
 
 #### References in Text
 
-The Indian Education Act of 1988, as in effect the day preceding October 20, 1994, referred to in par. (3)(E), ispart C (§§5301–5352) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 395, which was classified principally to chapter 28 (§2601 et seq.) of Title 25, Indians, prior to repeal by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
+The Indian Education Act of 1988, as in effect the day preceding October 20, 1994, referred to in par. (3)(E), is part C (§§5301–5352) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 395, which was classified principally to chapter 28 (§2601 et seq.) of Title 25, Indians, prior to repeal by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
 
 #### Prior Provisions
 

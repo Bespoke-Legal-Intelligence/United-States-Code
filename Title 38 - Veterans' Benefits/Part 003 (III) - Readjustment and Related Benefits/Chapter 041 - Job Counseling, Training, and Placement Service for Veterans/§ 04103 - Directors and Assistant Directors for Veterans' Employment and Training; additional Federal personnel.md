@@ -12,7 +12,7 @@ Directors and Assistant Directors.—(1) The Secretary shall assign to each Stat
 
 (b)
 
-Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans' Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans' Employment and Training.
+Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans' Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement servicesrequired under this chapter, including Assistant Directors for Veterans' Employment and Training.
 
 (c)
 
@@ -34,7 +34,7 @@ Provisions similar to those comprising this section were contained in section 20
 
 <b>2002</b>—Pub. L. 107–288 substituted "Directors and Assistant Directors for Veterans' Employment and Training; additional Federal personnel" for "Directors and Assistant Directors for Veterans' Employment and Training" in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for"full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for "full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–446 substituted "subchapter II of chapter 77" for "subchapter IV of chapter 3".
 

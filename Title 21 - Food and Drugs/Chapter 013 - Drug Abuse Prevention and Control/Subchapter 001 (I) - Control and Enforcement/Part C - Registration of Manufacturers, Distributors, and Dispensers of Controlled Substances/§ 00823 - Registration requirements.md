@@ -12,7 +12,7 @@ The Attorney General shall register an applicant to manufacture controlled subst
 
 &emsp;(4) prior conviction record of applicant under Federal and State laws relating to the manufacture, distribution, or dispensing of such substances;
 
-&emsp;(5) past experience in the manufacture of controlled substances, and the existence in the establishment of effective control against diversion; and
+&emsp;(5) past experience in the manufacture of controlled substances, and the existence in theestablishment of effective control against diversion; and
 
 &emsp;(6) such other factors as may be relevant to and consistent with the public health and safety.
 
@@ -38,7 +38,7 @@ Registration granted under subsections (a) and (b) of this section shall not ent
 
 The Attorney General shall register an applicant to manufacture controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
-&emsp;(1) maintenance of effective controls against diversion of particular controlled substances and any controlled substance in schedule III, IV, or V compounded therefrom into otherthan legitimate medical, scientific, or industrial channels;
+&emsp;(1) maintenance of effective controls against diversion of particular controlled substances and any controlled substance in schedule III, IV, or V compounded therefrom into other than legitimate medical, scientific, or industrial channels;
 
 &emsp;(2) compliance with applicable State and local law;
 
@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency ofeach practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
 
@@ -90,7 +90,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(C) if the Secretary determines that the applicant will comply with standards established by the Secretary (after consultation with the Attorney General) respecting the quantities of narcotic drugs which may be provided for unsupervised use by individuals in such treatment.
 
-(2)(A) Subject to subparagraphs (D) and (J), the requirements of paragraph (1) are waived inthe case of the dispensing (including the prescribing), by a practitioner, of narcotic drugs in schedule III, IV, or V or combinations of such drugs if the practitioner meets the conditions specified in subparagraph (B) and the narcotic drugs or combinations of such drugs meet the conditions specified in subparagraph (C).
+(2)(A) Subject to subparagraphs (D) and (J), the requirements of paragraph (1) are waived in the case of the dispensing (including the prescribing), by a practitioner, of narcotic drugs in schedule III, IV, or V or combinations of such drugs if the practitioner meets the conditions specified in subparagraph (B) and the narcotic drugs or combinations of such drugs meet the conditions specified in subparagraph (C).
 
 (B) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to a practitioner are that, before the initial dispensing of narcotic drugs in schedule III, IV, or V or combinations of such drugs to patients for maintenance or detoxification treatment, the practitioner submit to the Secretary a notification of the intent of the practitioner to begin dispensing the drugs or combinations for such purpose, and that the notification contain the following certifications by the practitioner:
 
@@ -170,7 +170,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;&emsp;(V) The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
 
-&emsp;&emsp;(VI) The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
+&emsp;&emsp;(VI) The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate theability of the physician to treat and manage opiate-dependent patients.
 
 &emsp;&emsp;(VII) The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
 
@@ -232,27 +232,209 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, unless the Attorney General has granted a hearing on the application under section 958(i) of this title.
 
-#### (j) "Factors as may be relevant to and consistent with the public health and safety" defined
+#### (j) Emergency medical services that administer controlled substances
+
+#### (1) Registration
+
+&emsp;For the purpose of enabling emergency medical services professionals to administer controlled substances in schedule II, III, IV, or V to ultimate users receiving emergency medical services in accordance with the requirements of this subsection, the Attorney General—
+
+&emsp;&emsp;(A) shall register an emergency medical services agency if the agency submits an application demonstrating it is authorized to conduct such activity under the laws of each State in which the agency practices; and
+
+&emsp;&emsp;(B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (f).
+
+#### (2) Option for single registration
+
+&emsp;In registering an emergency medical services agency pursuant to paragraph (1), the Attorney General shall allow such agency the option of a single registration in each State where the agency administers controlled substances in lieu of requiring a separate registration for each location of the emergency medical services agency.
+
+#### (3) Hospital-based agency
+
+&emsp;If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+
+#### (4) Administration outside physical presence of medical director or authorizing medical professional
+
+&emsp;Emergency medical services professionals of a registered emergency medical services agency may administer controlled substances in schedule II, III, IV, or V outside the physical presence of a medical director or authorizing medical professional in the course of providing emergency medical services if the administration is—
+
+&emsp;&emsp;(A) authorized by the law of the State in which it occurs; and
+
+&emsp;&emsp;(B) pursuant to—
+
+&emsp;&emsp;&emsp;(i) a standing order that is issued and adopted by one or more medical directors of the agency, including any such order that may be developed by a specific State authority; or
+
+&emsp;&emsp;&emsp;(ii) a verbal order that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) issued in accordance with a policy of the agency; and
+
+&emsp;&emsp;&emsp;&emsp;(II) provided by a medical director or authorizing medical professional in response to a request by the emergency medical services professional with respect to a specific patient—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a mass casualty incident; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to ensure the proper care and treatment of a specific patient.
+
+#### (5) Delivery
+
+&emsp;A registered emergency medical services agency may deliver controlled substances from a registered location of the agency to an unregistered location of the agency only if the agency—
+
+&emsp;&emsp;(A) designates the unregistered location for such delivery; and
+
+&emsp;&emsp;(B) notifies the Attorney General at least 30 days prior to first delivering controlled substances to the unregistered location.
+
+#### (6) Storage
+
+&emsp;A registered emergency medical services agency may store controlled substances—
+
+&emsp;&emsp;(A) at a registered location of the agency;
+
+&emsp;&emsp;(B) at any designated location of the agency or in an emergency services vehicle situated at a registered or designated location of the agency; or
+
+&emsp;&emsp;(C) in an emergency medical services vehicle used by the agency that is—
+
+&emsp;&emsp;&emsp;(i) traveling from, or returning to, a registered or designated location of the agency in the course of responding to an emergency; or
+
+&emsp;&emsp;&emsp;(ii) otherwise actively in use by the agency under circumstances that provide for security of the controlled substances consistent with the requirements established by regulations of the Attorney General.
+
+#### (7) No treatment as distribution
+
+&emsp;The delivery of controlled substances by a registered emergency medical services agency pursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title.
+
+#### (8) Restocking of emergency medical services vehicles at a hospital
+
+&emsp;Notwithstanding paragraph (13)(J), a registered emergency medical services agency may receive controlled substances from a hospital for purposes of restocking an emergency medical services vehicle following an emergency response, and without being subject to the requirements of section 828 of this title, provided all of the following conditions are satisfied:
+
+&emsp;&emsp;(A) The registered or designated location of the agency where the vehicle is primarily situated maintains a record of such receipt in accordance with paragraph (9).
+
+&emsp;&emsp;(B) The hospital maintains a record of such delivery to the agency in accordance with section 827 of this title.
+
+&emsp;&emsp;(C) If the vehicle is primarily situated at a designated location, such location notifies the registered location of the agency within 72 hours of the vehicle receiving the controlled substances.
+
+#### (9) Maintenance of records
+
+#### (A) In general
+
+&emsp;&emsp;A registered emergency medical services agency shall maintain records in accordance with subsections (a) and (b) of section 827 of this title of all controlled substances that are received, administered, or otherwise disposed of pursuant to the agency's registration, without regard to subsection 827(c)(1)(B) of this title.
+
+#### (B) Requirements
+
+&emsp;&emsp;Such records—
+
+&emsp;&emsp;&emsp;(i) shall include records of deliveries of controlled substances between all locations of the agency; and
+
+&emsp;&emsp;&emsp;(ii) shall be maintained, whether electronically or otherwise, at each registered and designated location of the agency where the controlled substances involved are received, administered, or otherwise disposed of.
+
+#### (10) Other requirements
+
+&emsp;A registered emergency medical services agency, under the supervision of a medical director, shall be responsible for ensuring that—
+
+&emsp;&emsp;(A) all emergency medical services professionals who administer controlled substances using the agency's registration act in accordance with the requirements of this subsection;
+
+&emsp;&emsp;(B) the recordkeeping requirements of paragraph (9) are met with respect to a registered location and each designated location of the agency;
+
+&emsp;&emsp;(C) the applicable physical security requirements established by regulation of the Attorney General are complied with wherever controlled substances are stored by the agency in accordance with paragraph (6); and
+
+&emsp;&emsp;(D) the agency maintains, at a registered location of the agency, a record of the standing orders issued or adopted in accordance with paragraph (9).
+
+#### (11) Regulations
+
+&emsp;The Attorney General may issue regulations—
+
+&emsp;&emsp;(A) specifying, with regard to delivery of controlled substances under paragraph (5)—
+
+&emsp;&emsp;&emsp;(i) the types of locations that may be designated under such paragraph; and
+
+&emsp;&emsp;&emsp;(ii) the manner in which a notification under paragraph (5)(B) must be made;
+
+&emsp;&emsp;(B) specifying, with regard to the storage of controlled substances under paragraph (6), the manner in which such substances must be stored at registered and designated locations, including in emergency medical service vehicles; and
+
+&emsp;&emsp;(C) addressing the ability of hospitals, emergency medical services agencies, registered locations, and designated locations to deliver controlled substances to each other in the event of—
+
+&emsp;&emsp;&emsp;(i) shortages of such substances;
+
+&emsp;&emsp;&emsp;(ii) a public health emergency; or
+
+&emsp;&emsp;&emsp;(iii) a mass casualty event.
+
+#### (12) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed—
+
+&emsp;&emsp;(A) to limit the authority vested in the Attorney General by other provisions of this subchapter to take measures to prevent diversion of controlled substances; or
+
+&emsp;&emsp;(B) to override the authority of any State to regulate the provision of emergency medical services consistent with this subsection.
+
+#### (13) Definitions
+
+&emsp;In this section:
+
+&emsp;&emsp;(A) The term "authorizing medical professional" means an emergency or other physician, or another medical professional (including an advanced practice registered nurse or physician assistant)—
+
+&emsp;&emsp;&emsp;(i) who is registered under this chapter;
+
+&emsp;&emsp;&emsp;(ii) who is acting within the scope of the registration; and
+
+&emsp;&emsp;&emsp;(iii) whose scope of practice under a State license or certification includes the ability to provide verbal orders.
+
+&emsp;&emsp;(B) The term "designated location" means a location designated by an emergency medical services agency under paragraph (5).
+
+&emsp;&emsp;(C) The term "emergency medical services" means emergency medical response and emergency mobile medical services provided outside of a fixed medical facility.
+
+&emsp;&emsp;(D) The term "emergency medical services agency" means an organization providing emergency medical services, including such an organization that—
+
+&emsp;&emsp;&emsp;(i) is governmental (including fire-based and hospital-based agencies), nongovernmental (including hospital-based agencies), private, or volunteer-based;
+
+&emsp;&emsp;&emsp;(ii) provides emergency medical services by ground, air, or otherwise; and
+
+&emsp;&emsp;&emsp;(iii) is authorized by the State in which the organization is providing such servicesto provide emergency medical care, including the administering of controlled substances, to members of the general public on an emergency basis.
+
+&emsp;&emsp;(E) The term "emergency medical services professional" means a health care professional (including a nurse, paramedic, or emergency medical technician) licensed or certified by the State in which the professional practices and credentialed by a medical director of the respective emergency medical services agency to provide emergency medical services within the scope of the professional's State license or certification.
+
+&emsp;&emsp;(F) The term "emergency medical services vehicle" means an ambulance, fire apparatus, supervisor truck, or other vehicle used by an emergency medical services agency for the purpose of providing or facilitating emergency medical care and transport or transporting controlled substances to and from the registered and designated locations.
+
+&emsp;&emsp;(G) The term "hospital-based" means, with respect to an agency, owned or operated by a hospital.
+
+&emsp;&emsp;(H) The term "medical director" means a physician who is registered under subsection (f) and provides medical oversight for an emergency medical services agency.
+
+&emsp;&emsp;(I) The term "medical oversight" means supervision of the provision of medical care by an emergency medical services agency.
+
+&emsp;&emsp;(J) The term "registered emergency medical services agency" means—
+
+&emsp;&emsp;&emsp;(i) an emergency medical services agency that is registered pursuant to this subsection; or
+
+&emsp;&emsp;&emsp;(ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (f).
+
+&emsp;&emsp;(K) The term "registered location" means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (f), which shall be where the agency receives controlled substances from distributors.
+
+&emsp;&emsp;(L) The term "specific State authority" means a governmental agency or other such authority, including a regional oversight and coordinating body, that, pursuant to State law or regulation, develops clinical protocols regarding the delivery of emergency medical services in the geographic jurisdiction of such agency or authority within the State that may be adopted by medical directors.
+
+&emsp;&emsp;(M) The term "standing order" means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
+
+&emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
+
+#### (k) "Factors as may be relevant to and consistent with the public health and safety" defined
 
 In this section, the phrase "factors as may be relevant to and consistent with the public health and safety" means factors that are relevant to and consistent with the findings contained in section 801 of this title.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, §2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, §303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723.)
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, §2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, §303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, §2, Nov. 17, 2017, 131 Stat. 1267.)
 
 #### References in Text
 
-Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f) and (g)(2), are set out in section 812(c) of this title.
+Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f), (g)(2), and (j)(1), (4), are set out in section 812(c) of this title.
+
+This subchapter, referred to in subsecs. (f) and (j)(12)(A), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (g)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
 
+This chapter, referred to in subsec. (j)(13)(A)(i), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
 #### Amendments
+
+<b>2017</b>—Subsecs. (j), (k). Pub. L. 115–83 added subsec. (j) and redesignated former subsec. (j) as (k).
 
 <b>2016</b>—Subsec. (g)(2)(B). Pub. L. 114–198, §303(a)(1)(A), added cls. (i) to (iii) and struck out former cls. (i) to (iii) which read as follows:
 
 "(i) The practitioner is a qualifying physician (as defined in subparagraph (G)).
 
-"(ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to refer the patients for appropriate counseling and other appropriate ancillary services.
+"(ii) With respect to patients to whom the practitioner will provide such drugs or combinations ofdrugs, the practitioner has the capacity to refer the patients for appropriate counseling and other appropriate ancillary services.
 
 "(iii) The total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The Secretary may by regulation change such total number."
 
@@ -288,7 +470,7 @@ Subsec. (g)(2)(J)(i). Pub. L. 109–469, §1102(2)(A), substituted "thereafter."
 
 Subsec. (g)(2)(J)(ii). Pub. L. 109–469, §1102(2)(B), substituted "December 29, 2006" for "October 17, 2000" in introductory provisions.
 
-Subsec. (g)(2)(J)(iii). Pub. L. 109–469, §1102(2)(C), substituted "subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shallnot apply, effective" for "this paragraph should not remain in effect, this paragraph ceases to be in effect".
+Subsec. (g)(2)(J)(iii). Pub. L. 109–469, §1102(2)(C), substituted "subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective" for "this paragraph should not remain in effect, this paragraph ceases to be in effect".
 
 Subsec. (h). Pub. L. 109–177 substituted "clause (iv) or (v) of section 802(39)(A) of this title" for "section 802(39)(A)(iv) of this title" in introductory provisions.
 
@@ -300,7 +482,7 @@ Subsec. (g)(2)(B)(iv). Pub. L. 109–56, §1(a), struck out cl. (iv) which read 
 
 Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitution of "the date referred to in subparagraph (I)," for "October 17, 2000," was executed by making the substitution for text which in the original read "the date of the enactment of the Drug Addiction Treatment Act of 2000," rather than the editorial translation "October 17, 2000," to reflect the probable intent of Congress.
 
-<b>2000</b>—Subsec. (g). Pub. L. 106–310 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), practitioners who dispense" for "Practitioners who dispense", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and redesignated former subpars. (A) and (B) of former par. (2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
+<b>2000</b>—Subsec. (g). Pub. L. 106–310 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), practitioners who dispense" for "Practitioners who dispense", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and redesignated former subpars. (A) and (B) of former par.\(2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
 
 <b>1993</b>—Subsec. (h). Pub. L. 103–200 added subsec. (h).
 
@@ -325,6 +507,10 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Update Regulations
 

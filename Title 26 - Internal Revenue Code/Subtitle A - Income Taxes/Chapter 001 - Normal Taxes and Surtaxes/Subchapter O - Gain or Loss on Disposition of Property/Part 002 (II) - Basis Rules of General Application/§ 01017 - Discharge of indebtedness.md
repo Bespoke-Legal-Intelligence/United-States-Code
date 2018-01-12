@@ -34,7 +34,7 @@ If—
 
 #### (B) Depreciable property
 
-&emsp;&emsp;For purposes of this section, the term "depreciable property" means any property of a character subject to the allowance for depreciation, but only if a basis reduction under subsection (a) will reduce the amount of depreciation or amortization which otherwise would be allowable for the period immediately following such reduction.
+&emsp;&emsp;For purposes of this section, the term "depreciable property" means any property of acharacter subject to the allowance for depreciation, but only if a basis reduction under subsection (a) will reduce the amount of depreciation or amortization which otherwise would be allowable for the period immediately following such reduction.
 
 #### (C) Special rule for partnership interests
 
@@ -118,7 +118,7 @@ If—
 
 &emsp;For purposes of section 1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 301; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), Oct. 4, 1976, 90 Stat. 1834, 1840; Pub. L. 96–589, §2(b), Dec. 24, 1980, 94 Stat. 3394; Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), Oct. 22, 1986, 100 Stat. 2224, 2373; Pub. L. 100–647, title I, §1004(a)(5), Nov. 10, 1988, 102 Stat. 3386; Pub. L. 101–508, title XI, §11704(a)(12), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13150(c)(6)–(8), Aug. 10, 1993, 107 Stat. 448; Pub. L. 104–188, title I, §1703(n)(5), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–206, title VI, §6023(11), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(S), Dec. 17, 1999, 113 Stat. 1931.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 301; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), Oct. 4, 1976, 90 Stat. 1834, 1840; Pub. L. 96–589, §2(b), Dec. 24, 1980, 94 Stat. 3394; Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), Oct. 22, 1986, 100 Stat. 2224, 2373; Pub. L. 100–647, title I, §1004(a)(5), Nov. 10, 1988, 102 Stat. 3386; Pub. L. 101–508, title XI, §11704(a)(12), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13150(c)(6)–(8), Aug. 10, 1993, 107 Stat. 448; Pub. L. 104–188, title I, §1703(n)(5), Aug. 20, 1996, 110Stat. 1877; Pub. L. 105–206, title VI, §6023(11), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(S), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 405(b) of Pub. L. 99–514 applicable to discharges of indebtedness occurring after Apr. 9, 1986, in taxable years ending after such date, see section 405(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
 
-Amendment by section 822(b)(4), (5) of Pub. L. 99–514 applicable to discharges after Dec. 31, 1986, see section822(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
+Amendment by section 822(b)(4), (5) of Pub. L. 99–514 applicable to discharges after Dec. 31, 1986, see section 822(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -32,7 +32,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (A) Disclosure
 
-&emsp;&emsp;No Federal department, bureau, agency, officer, or employee and no recipient of a Federal grant, contract, or cooperativeagreement may, for any reason, require the Director, any Commissioner of a National Education Center, or any other employee of the Institute to disclose individually identifiable information that has been collected or retained under this subchapter.
+&emsp;&emsp;No Federal department, bureau, agency, officer, or employee and no recipient of a Federal grant, contract, or cooperative agreement may, for any reason, require the Director, any Commissioner of a National Education Center, or any other employee of the Institute to disclose individually identifiable information that has been collected or retained under this subchapter.
 
 #### (B) Immunity
 

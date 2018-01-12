@@ -84,7 +84,7 @@
 
 &emsp;(3) shall complete the first dockside examination of a vessel under this subsection not later than October 15, 2015.
 
-(g)(1) The individual in charge of a vessel described in subsection (b) must pass a training program approved by the Secretary that meets the requirements in paragraph (2) of this subsection and hold a valid certificate issued under that program.
+(g)(1) The individual in charge of a vessel described in subsection (b) must pass a training program approved by the Secretary that meetsthe requirements in paragraph (2) of this subsection and hold a valid certificate issued under that program.
 
 (2) The training program shall—
 
@@ -242,7 +242,7 @@ Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided t
 
 Pub. L. 100–424, §5(a), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
-Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct astudy of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
 
 #### Territorial Sea of United States
 

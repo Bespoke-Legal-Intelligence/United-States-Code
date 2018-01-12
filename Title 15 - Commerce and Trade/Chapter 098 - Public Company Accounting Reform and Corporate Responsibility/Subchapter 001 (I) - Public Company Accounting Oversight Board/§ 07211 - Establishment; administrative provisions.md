@@ -10,7 +10,7 @@ The Board shall not be an agency or establishment of the United States Governmen
 
 #### (c) Duties of the Board
 
-The Board shall, subject to action by the Commission under section 7217 of this title, and once a determination is made by the Commission under subsection (d) of this section—
+The Board shall, subject to action by the Commission under section 7217 of this title, and oncea determination is made by the Commission under subsection (d) of this section—
 
 &emsp;(1) register public accounting firms that prepare audit reports for issuers, brokers, and dealers, in accordance with section 7212 of this title;
 
@@ -28,7 +28,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 #### (d) Commission determination
 
-The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and has the capacity to carry out the requirements ofthis subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
+The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and has the capacity to carry out the requirements of this subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
 
 #### (e) Board membership
 
@@ -94,7 +94,7 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 &emsp;(1) provide for the operation and administration of the Board, the exercise of its authority, and the performance of its responsibilities under this Act;
 
-&emsp;(2) permit, as the Board determines necessary or appropriate, delegation by the Board of any of its functions to an individual member or employee of the Board, or to a divisionof the Board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any matter, except that—
+&emsp;(2) permit, as the Board determines necessary or appropriate, delegation by the Board of any of its functions to an individual member or employee of the Board, or to a division of the Board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any matter, except that—
 
 &emsp;&emsp;(A) the Board shall retain a discretionary right to review any action pursuant to any such delegated function, upon its own motion;
 

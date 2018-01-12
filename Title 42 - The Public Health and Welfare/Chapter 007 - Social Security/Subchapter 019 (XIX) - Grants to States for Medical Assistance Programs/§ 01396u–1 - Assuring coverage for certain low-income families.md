@@ -28,7 +28,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 &emsp;&emsp;(B) may increase income or resource standards under the State plan referred to in paragraph (1) over a period (beginning after July 16, 1996) by a percentage that does not exceed the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over such period; and
 
-&emsp;&emsp;(C) may use income and resource methodologies that are less restrictive than themethodologies used under the State plan under such part as of July 16, 1996.
+&emsp;&emsp;(C) may use income and resource methodologies that are less restrictive than the methodologies used under the State plan under such part as of July 16, 1996.
 
 #### (3) Option to terminate medical assistance for failure to meet work requirement
 
@@ -64,7 +64,7 @@ In the case of a waiver of a provision of part A of subchapter IV in effect with
 
 #### (e) State option to use 1 application form
 
-Nothing in this section, or part A of subchapter IV, shall be construed as preventing a State from providing for the same application form for assistance under a State program funded under part A of subchapter IV (on or after the welfare reform effective date) and for medical assistance under this subchapter.
+Nothing in this section, or part A of subchapter IV, shall be construed as preventing aState from providing for the same application form for assistance under a State program funded under part A of subchapter IV (on or after the welfare reform effective date) and for medical assistance under this subchapter.
 
 #### (f) Additional rules of construction
 

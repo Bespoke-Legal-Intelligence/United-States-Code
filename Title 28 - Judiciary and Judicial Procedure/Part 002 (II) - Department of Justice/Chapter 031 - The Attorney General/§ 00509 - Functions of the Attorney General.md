@@ -178,7 +178,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $2,00
 
 "(a)
 
-In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
+In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years for the purpose of investigating and prosecuting violations of criminal civilrights statutes that occurred not later than December 31, 1979, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
 
 "(b)
 
@@ -216,51 +216,15 @@ Eligible entity.—The term 'eligible entity' means an organization whose primar
 
 #### "SEC. 9. AUTHORITY OF INSPECTORS GENERAL.
 
-"\[Enacted section 5780a of Title 42, The Public Health and Welfare.\]"
+"\[Enacted section 11298 of Title 34, Crime Control and Law Enforcement.\]"
 
 #### Organized Retail Theft
 
-Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, §8(a), Aug. 12, 2006, 120 Stat. 766, provided that:
-
-"(a)
-
-National Data.—(1) The Attorney General and the Federal Bureau of Investigation, in consultation with the retail community, shall establish a task force to combat organized retail theft and provide expertise to the retail community for the establishment of a national database or clearinghouse housed and maintained in the private sector to track and identify where organized retail theft type crimes are being committed in the United Sates \[sic\]. The national database shall allow Federal, State, and local law enforcement officials as well as authorized retail companies (and authorized associated retail databases) to transmit information into the database electronically and to review information that has been submitted electronically.
-
-"(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
-
-"(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base \[sic\] project.
-
-"(b)
-
-Authorization of Appropriations.—There is authorized to be appropriated for each of fiscal years 2006 through 2009, $5,000,000 for educating and training federal law enforcement regarding organized retail theft, for investigating, apprehending and prosecuting individuals engaged in organized retail theft, and for working with the private sector to establish and utilize the database described in subsection (a).
-
-"(c)
-
-Definition of Organized Retail Theft.—For purposes of this section, 'organized retail theft' means—
-
-&emsp;"(1) the violation of a State prohibition on retail merchandise theft or shoplifting, if the violation consists of the theft of quantities of items that would not normally be purchased for personal use or consumption and for the purpose of reselling the items or for reentering the items into commerce;
-
-&emsp;"(2) the receipt, possession, concealment, bartering, sale, transport, or disposal of any property that is know \[sic\] or should be known to have been taken in violation of paragraph (1); or
-
-&emsp;"(3) the coordination, organization, or recruitment of persons to undertake the conduct described in paragraph (1) or (2)."
+Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, §8(a), Aug. 12, 2006, 120 Stat. 766, which authorized a task force established by the Attorney General and the FBI to establish an organized retail theft database in the private sector, was editorially reclassified as section 41505 of Title 34, Crime Control and Law Enforcement.
 
 #### United States-Mexico Border Violence Task Force
 
-Pub. L. 109–162, title XI, §1106, Jan. 5, 2006, 119 Stat. 3093, provided that:
-
-"(a)
-
-Task Force.—(1) The Attorney General shall establish the United States-Mexico Border Violence Task Force in Laredo, Texas, to combat drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico and to provide expertise to the law enforcement and homeland security agencies along the border between the United States and Mexico. The Task Force shall include personnel from the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Immigration and Customs Enforcement, the Drug Enforcement Administration, Customs and Border Protection, other Federal agencies (as appropriate), the Texas Department of Public Safety, and local law enforcement agencies.
-
-"(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to Federal, State, and local law enforcement agencies participating in the Task Force.
-
-"(b)
-
-Authorization of Appropriations.—There are authorized to be appropriated $10,000,000 for each of the fiscal years 2006 through 2009, for—
-
-&emsp;"(1) the establishment and operation of the United States-Mexico Border Violence Task Force; and
-
-&emsp;"(2) the investigation, apprehension, and prosecution of individuals engaged in drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico."
+Pub. L. 109–162, title XI, §1106, Jan. 5, 2006, 119 Stat. 3093, providing for the establishment of the United States-Mexico Border Violence Task Force, was editorially reclassified as section 41506 of Title 34, Crime Control and Law Enforcement.
 
 #### Privacy Officer
 
@@ -296,7 +260,7 @@ Annual Report.—The privacy official shall submit a report to the Committees on
 
 #### Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism
 
-Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that: "Not less often than once every 12months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
+Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that: "Not less often than once every 12 months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
 
 &emsp;"(1) specify the number of persons or residents so detained; and
 
@@ -322,47 +286,11 @@ Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, as amended b
 
 #### Authorization for Additional Assistant United States Attorneys for Project Safe Neighborhoods
 
-Pub. L. 107–273, div. A, title I, §104, Nov. 2, 2002, 116 Stat. 1766, provided that:
-
-"(a)
-
-In General.—The Attorney General shall establish a program for each United States Attorney to provide for coordination with State and local law enforcement officials in the identification and prosecution of violations of Federal firearms laws including school gun violence and juvenile gun offenses.
-
-"(b)
-
-Authorization for Hiring 94
-
-Additional Assistant United States Attorneys.—There are authorized to be appropriated to carry out this section $9,000,000 for fiscal year 2002 to hire an additional Assistant United States Attorney in each United States Attorney Office."
+Pub. L. 107–273, div. A, title I, §104, Nov. 2, 2002, 116 Stat. 1766, which required the Attorney General to establish the Project Safe Neighborhoods program, was editorially reclassified as section 41504 of Title 34, Crime Control and Law Enforcement.
 
 #### Development and Support of Cybersecurity Forensic Capabilities
 
-Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that:
-
-"(a)
-
-In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
-
-&emsp;"(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
-
-&emsp;"(2) to provide training and education for Federal, State, and local law enforcement personnel and prosecutors regarding investigations, forensic analyses, and prosecutions of computer-related crime (including cyberterrorism);
-
-&emsp;"(3) to assist Federal, State, and local law enforcement in enforcing Federal, State, and local criminal laws relating to computer-related crime;
-
-&emsp;"(4) to facilitate and promote the sharing of Federal law enforcement expertise and information about the investigation, analysis, and prosecution of computer-related crime with State and local law enforcement personnel and prosecutors, including the use of multijurisdictional task forces; and
-
-&emsp;"(5) to carry out such other activities as the Attorney General considers appropriate.
-
-"(b)
-
-Authorization of Appropriations.—
-
-&emsp;"(1)
-
-Authorization.—There is hereby authorized to be appropriated in each fiscal year $50,000,000 for purposes of carrying out this section.
-
-&emsp;"(2)
-
-Availability.—Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended."
+Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, which related to development and support of cybersecurity forensic capabilities, was editorially reclassified as section 30102 of Title 34, Crime Control and Law Enforcement.
 
 #### Training of Government Officials Regarding Identification and Use of Foreign Intelligence
 
@@ -454,7 +382,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $25,0
 
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminalor civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
 
 #### Overseas Law Enforcement Training Activities
 
@@ -474,7 +402,7 @@ Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided th
 
 #### Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions
 
-Pub. L. 101–647, title XXV, §§2536–2539, Nov. 29, 1990, 104 Stat. 4883, 4884, as amended by Pub. L. 111–203, title III, §359(1), July 21, 2010, 124 Stat. 1548, provided that:
+Pub. L. 101–647, title XXV, §§2536–2538, Nov. 29, 1990, 104 Stat. 4883, 4884, provided that:
 
 #### "SEC. 2536. ESTABLISHMENT OF FINANCIAL INSTITUTIONS CRIME UNIT AND OFFICE OF SPECIAL COUNSEL FOR FINANCIAL INSTITUTIONS CRIME UNIT.
 
@@ -512,45 +440,9 @@ Compensation.—The Special Counsel shall be paid at the basic pay payable for l
 
 #### "SEC. 2538. ASSIGNMENT OF PERSONNEL.
 
-"There shall be assigned to the Financial Institutions Fraud Unit such personnel as the Attorney General deems necessary to provide an appropriate level of enforcement activity in the area of fraud and other criminal activity in and against the financial services industry.
+"There shall be assigned to the Financial Institutions Fraud Unit such personnel as the Attorney General deems necessary to provide an appropriate level of enforcement activity in the area of fraud and other criminal activity in and against the financial services industry."
 
-#### "SEC. 2539. FINANCIAL INSTITUTIONS FRAUD TASK FORCES.
-
-"(a)
-
-Establishment.—The Attorney General shall establish such financial institutions fraud task forces as the Attorney General deems appropriate to ensure that adequate resources are made available to investigate and prosecute crimes in or against financial institutions and to recover the proceeds of unlawful activities from persons who have committed fraud or have engaged in other criminal activity in or against the financial services industry.
-
-"(b)
-
-Supervision.—The Attorney General shall determine how each task force shall be supervised and may provide for the supervision of any task force by the Special Counsel.
-
-"(c)
-
-Senior Interagency Group.—
-
-&emsp;"(1)
-
-Establishment.—The Attorney General shall establish a senior interagency group to assist in identifying the most significant financial institution fraud cases and in allocating investigative and prosecutorial resources where they are most needed.
-
-&emsp;"(2)
-
-Membership.—The senior interagency group shall be chaired by the Special Counsel and shall include senior officials from—
-
-&emsp;&emsp;"(A) the Department of Justice, including representatives of the Federal Bureau of Investigation, the Advisory Committee of United States Attorneys, and other relevant entities;
-
-&emsp;&emsp;"(B) the Department of the Treasury;
-
-&emsp;&emsp;"(C) the Federal Deposit Insurance Corporation;
-
-&emsp;&emsp;"(D) the Office of the Comptroller of the Currency;
-
-&emsp;&emsp;"(E) the Board of Governors of the Federal Reserve System; and
-
-&emsp;&emsp;"(F) the National Credit Union Administration.
-
-&emsp;"(3)
-
-Duties.—This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud."
+\[Section 2539 of Pub. L. 101–647, formerly set out in the note above, relating to financial institutions fraud task forces, was editorially reclassified as section 41501 of Title 34, Crime Control and Law Enforcement.\]
 
 \[Pub. L. 111–203, title III, §§351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, which provided that, effective on the transfer date (see section 5411 of Title 12, Banks and Banking), section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as "(C) through (G), respectively", was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.\]
 
@@ -562,7 +454,7 @@ Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amende
 
 #### Investigation of Financial Institutions; Assistance of Government Personnel
 
-Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXII, §320923, Sept. 13, 1994, 108 Stat. 2131, provided that:
+Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by Pub. L. 101–650, title III, §321, Dec.1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXII, §320923, Sept. 13, 1994, 108 Stat. 2131, provided that:
 
 "(a) Notwithstanding any other law and in any fiscal year—
 
@@ -578,13 +470,13 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;"(2) shall expire on December 31, 2004.
 
-"(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the FederalGovernment to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority."
+"(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority."
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes
 
-Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, provided in part: "That for fiscal year 1990 and hereafter the Chief, United States National Central Bureau, INTERPOL, may establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes and, notwithstanding the provisions of 31 U.S.C. 3302, credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services".
+Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, which authorized the Chief, United States National Central Bureau, INTERPOL, to establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes, was editorially reclassified as section 41103 of Title 34, Crime Control and Law Enforcement.
 
 #### Expenses of Legal Defense for Federal Government Employees Performing Official Duties; Fees and Expenses of Witnesses
 
@@ -624,7 +516,7 @@ Pub. L. 100–690, title I, subtitle B, Nov. 18, 1988, 102 Stat. 4189, provided 
 
 "(a)
 
-Report.—Not later than 1 year after the date of the enactment of this title \[Nov. 18, 1988\], the Director of National Drug Control Policy (the Director) in consultation with the Attorney General, shall report to the Congress on the necessity to establish a new division or make other organizational changes within the Department of Justice in order to promote better civil and criminal law enforcement. In preparing such report, the Director shall consider restructuring and consolidating one or more of the following divisions and programs—
+Report.—Not later than 1 year after the date of the enactment of this title \[Nov. 18, 1988\], the Director of National Drug Control Policy (the Director) in consultation with the Attorney General, shall report to the Congress on the necessity to establish a new division or make other organizational changes within the Department of Justice in order to promote better civiland criminal law enforcement. In preparing such report, the Director shall consider restructuring and consolidating one or more of the following divisions and programs—
 
 &emsp;"(1) the Organized Crime and Racketeering Section of the Criminal Division and all subordinate strike forces therein;
 
@@ -658,7 +550,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
-"(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the OrganizedCrime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
+"(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the Organized Crime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
 
 "(d)
 
@@ -744,7 +636,7 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 "(3) The provisions of sections 7512 and 7701 of title 5, United States Code, and otherwise applicable Executive orders, shall not apply with respect to actions taken by the Administrator under paragraph (1) or any reduction in rank or pay (under paragraph (2) or otherwise) of any individual in a position described in subsection (a).
 
-"(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basicpay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies."
+"(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies."
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -794,7 +686,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 (a) There are hereby transferred to the Department of Justice all of the positions, personnel, property, records, and unexpended balances of appropriations, allocations, and other funds, available or to be made available, (1) of the Bureau of Narcotics, and (2) of the Bureau of Drug Abuse Control of the Department of Health, Education, and Welfare.
 
-(b) There shall be transferred to the Department of Justice, at such time or times as the Director of the Bureau of the Budget shall direct, so much as the Director shall determine of other positions, personnel, property, records and unexpended balances of appropriations, allocations, and other funds of the Department of the Treasury and of the Department of Health, Education, and Welfare employed, used, held, available or to be made available in connection with functions transferred by the provisions of this reorganization plan.
+(b) There shall be transferred to the Department of Justice, at such time or times as the Director of theBureau of the Budget shall direct, so much as the Director shall determine of other positions, personnel, property, records and unexpended balances of appropriations, allocations, and other funds of the Department of the Treasury and of the Department of Health, Education, and Welfare employed, used, held, available or to be made available in connection with functions transferred by the provisions of this reorganization plan.
 
 (c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided in this section shall be carried out in such manner as he may direct and by such agencies as he shall designate.
 
@@ -816,7 +708,7 @@ This separation of responsibilities—despite the relentless and dedicated effor
 
 For example, more than nine out of ten seizures of LSD made by the Bureau of Drug Abuse Control have also turned up marihuana—but that Bureau has no jurisdiction over marihuana.
 
-In many instances, we are confronted by well organized disciplined and resourceful criminals who reaphuge profits at the expense of their unfortunate victims.
+In many instances, we are confronted by well organized disciplined and resourceful criminals who reap huge profits at the expense of their unfortunate victims.
 
 The response of the Federal Government must be unified. And it must be total.
 
@@ -942,7 +834,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. TheTreasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -994,7 +886,7 @@ No heroin or cocaine is produced within the United States; domestic availability
 
 At the present time, however, Federal responsibility for conducting port-of-entry inspections is awkwardly divided among several Cabinet departments. The principal agencies involved are the Treasury Department's Bureau of Customs, which inspects goods, and the Justice Department's Immigration and Naturalization Service, which inspects persons and their papers. The two utilize separate inspection procedures, hold differing views of inspection priorities, and employ dissimilar personnel management practices.
 
-To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested inJustice Department officials to inspect persons, or the documents of persons.
+To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested in Justice Department officials to inspect persons, or the documents of persons.
 
 When the plan takes effect, it is my intention to direct the Secretary of the Treasury to use the resources so transferred—including some 1,000 employees of the Immigration and Naturalization Service—to augment the staff and budget of the Bureau of Customs. The Bureau's primary responsibilities would then include:
 
@@ -1162,7 +1054,7 @@ Section 1. <i>Policy</i>. It is the policy of the United States to use Federal r
 
 (a) increased aggressive law enforcement actions designed to prevent, investigate, and prosecute identity theft crimes, recover the proceeds of such crimes, and ensure just and effective punishment of those who perpetrate identity theft;
 
-(b) improved public outreach by the Federal Government to better (i) educate the public about identity theft and protective measures against identity theft, and (ii) address how the private sector can take appropriate steps to protect personal data and educate the public about identity theft; and
+(b) improved public outreach by the Federal Government to better (i) educate the public about identitytheft and protective measures against identity theft, and (ii) address how the private sector can take appropriate steps to protect personal data and educate the public about identity theft; and
 
 (c) increased safeguards that Federal departments, agencies, and instrumentalities can implement to better secure government-held personal data.
 
@@ -1206,7 +1098,7 @@ Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
 
 (xi) such other officers of the United States as the Attorney General may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairmanmay also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
+(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
 
 (d) A member of the Task Force, including the Chairman and Co-Chairman, may designate, to perform the Task Force or Task Force subgroup functions of the member, any person who is a part of the member's department, agency, or instrumentality and who has high-level policy or operational duties or responsibilities related to the mission of the Task Force.
 
@@ -1304,7 +1196,7 @@ Sec. 2. <i>Membership and Operation</i>. The Task Force shall be chaired by the 
 
 (y) such other executive branch departments, agencies, or offices as the President may, from time to time, designate or that the Attorney General may invite.
 
-The Attorney General shall convene and, through the Deputy Attorney General, direct the work of the Task Force in fulfilling all its functions under this order. The Attorney General shall convene the first meeting of the Task Force within 30 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate. At the direction of the Attorney General, the Task Force may establishsubgroups consisting exclusively of Task Force members or their designees under this section, including but not limited to a Steering Committee chaired by the Deputy Attorney General, and subcommittees addressing enforcement efforts, training and information sharing, and victims' rights, as the Attorney General deems appropriate.
+The Attorney General shall convene and, through the Deputy Attorney General, direct the work of the Task Force in fulfilling all its functions under this order. The Attorney General shall convene the first meeting of the Task Force within 30 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate. At the direction of the Attorney General, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, including but not limited to a Steering Committee chaired by the Deputy Attorney General, and subcommittees addressing enforcement efforts, training and information sharing, and victims' rights, as the Attorney General deems appropriate.
 
 Sec. 3. <i>Mission and Functions</i>. Consistent with the authorities assigned to the Attorney General by law, and other applicable law, the Task Force shall:
 
@@ -1341,4 +1233,12 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 Sec. 8. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Executive Order No. 13774
+
+Ex. Ord. No. 13774, Feb. 9, 2017, 82 F.R. 10695, which sets forth executive policy on the prevention of violence against Federal, State, tribal, and local law enforcement officers, was editorially reclassified as a note preceding section 50101 of Title 34, Crime Control and Law Enforcement.
+
+#### Executive Order No. 13776
+
+Ex. Ord. No. 13776, Feb. 9, 2017, 82 F.R. 10699, which directs the Attorney General to establish a Task Force on Crime Reduction and Public Safety, was editorially reclassified as a note preceding section 60101 of Title 34, Crime Control and Law Enforcement.
 

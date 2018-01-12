@@ -24,7 +24,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;&emsp;&emsp;(i) the contributing partner shall be treated as recognizing gain or loss (as the case may be) from the sale of such property in an amount equal to the gain or loss which would have been allocated to such partner under subparagraph (A) by reason of the variation described in subparagraph (A) if the property had been sold at its fair market value at the time of the distribution,
 
-&emsp;&emsp;&emsp;(ii) the character of such gain or loss shall be determined by reference to the character of the gain or loss which would have resulted if such property had been sold by the partnership to the distributee, and
+&emsp;&emsp;&emsp;(ii) the character of such gain or loss shall be determined by reference to thecharacter of the gain or loss which would have resulted if such property had been sold by the partnership to the distributee, and
 
 &emsp;&emsp;&emsp;(iii) appropriate adjustments shall be made to the adjusted basis of the contributing partner's interest in the partnership and to the adjusted basis of the property distributed to reflect any gain or loss recognized under this subparagraph, and
 
@@ -56,7 +56,23 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (d) Limitation on allowance of losses
 
-A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner's interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+#### (1) In general
+
+&emsp;A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner's interest in the partnership at the end of the partnership year in which such loss occurred.
+
+#### (2) Carryover
+
+&emsp;Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+
+#### (3) Special rules
+
+#### (A) In general
+
+&emsp;&emsp;In determining the amount of any loss under paragraph (1), there shall be taken into account the partner's distributive share of amounts described in paragraphs (4) and (6) of section 702(a).
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of a charitable contribution of property whose fair market value exceeds its adjusted basis, subparagraph (A) shall not apply to the extent of the partner's distributive share of such excess.
 
 #### (e) Partnership interests created by gift
 
@@ -72,9 +88,11 @@ A partner's distributive share of partnership loss (including capital loss) shal
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see section 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, §833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, §1102(b), Nov. 2, 2015, 129 Stat. 639.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, §833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, §1102(b), Nov. 2,2015, 129 Stat. 639; Pub. L. 115–97, title I, §13503(a), Dec. 22, 2017, 131 Stat. 2141.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d). Pub. L. 115–97 designated first and second sentences of existing provisions as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–74 substituted "Partnership interests created by gift" for "Family partnerships" in heading, redesignated pars. (2) and (3) as (1) and (2), respectively, substituted "this subsection" for "this section" in par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "A person shall be recognized as a partner for purposes of this subtitle if he owns a capital interest in a partnership in which capital is a material income-producing factor, whether or not such interest was derived by purchase or gift from any other person."
 
@@ -99,6 +117,10 @@ Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 Subsec. (d). Pub. L. 94–455, §213(e), inserted provision relating to the determination of the adjusted basis of a partner's liability where there is no personal liability and the applicability of such determination where section 465 of this title applies or the principal activity of the partnership is real estate investment.
 
 Subsec. (f). Pub. L. 94–455, §213(c)(3)(A), added subsec. (f).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13503(b), Dec. 22, 2017, 131 Stat. 2141, provided that: "The amendments made by this section \[amending this section\] shall apply to partnership taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -134,7 +156,7 @@ Pub. L. 98–369, div. A, title I, §71(c), July 18, 1984, 98 Stat. 589, provide
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 and enactment of provision set out as a note under this section by section 201(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 204(a) of Pub. L. 95–600, set out as a note under section 465 of this title.
+Amendment by Pub. L. 95–600 and enactment of provision set out as a note under this section by section201(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 204(a) of Pub. L. 95–600, set out as a note under section 465 of this title.
 
 #### Effective Date of 1976 Amendment
 

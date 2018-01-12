@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) a State university or college, or a public high school, having a regular course of military instruction; or
 
-&emsp;&emsp;(B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, Air Force, or Marine Corps as instructor in military science and tactics.
+&emsp;&emsp;(B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, AirForce, or Marine Corps as instructor in military science and tactics.
 
 &emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
 

@@ -42,7 +42,7 @@ The official designated under subsection (b) shall assist the Secretary of Homel
 
 #### (d) Report
 
-Not later than 180 days after August 3, 2007, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the implementation of this section.
+Not later than 180 days after August 3, 2007, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the Houseof Representatives a report on the implementation of this section.
 
 (Pub. L. 108–458, title VII, §7215, Dec. 17, 2004, 118 Stat. 3832; Pub. L. 110–53, title VII, §722, Aug. 3, 2007, 121 Stat. 348.)
 
@@ -56,7 +56,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head ofthe program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
+<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head of the program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
 
 #### National Strategy To Combat Terrorist Travel
 
@@ -168,7 +168,7 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 "(f)
 
-Special Rule for Certain Receipt.—The definition under subsection (e) shall be treated as including the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate for purposes of receipt of those portions of—
+Special Rule for Certain Receipt.—The definition under subsection (e) shall be treated as includingthe Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate for purposes of receipt of those portions of—
 
 &emsp;"(1) the national strategy (including updates thereto), and
 

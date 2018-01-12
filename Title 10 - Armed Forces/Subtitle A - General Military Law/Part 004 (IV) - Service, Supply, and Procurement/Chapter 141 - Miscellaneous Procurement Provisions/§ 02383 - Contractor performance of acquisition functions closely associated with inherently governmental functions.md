@@ -12,7 +12,7 @@ Limitation.—The head of an agency may enter into a contract for the performanc
 
 &emsp;&emsp;(B) to perform all inherently governmental functions associated with the functions to be performed under the contract; and
 
-&emsp;(3) the agency addresses any potential organizational conflict of interest of the contractor in the performance of the functions under the contract, consistent with subpart 9.5 of part 9 of the Federal Acquisition Regulationand the best interests of the Department of Defense.
+&emsp;(3) the agency addresses any potential organizational conflict of interest of the contractor in the performance of the functions under the contract, consistent with subpart 9.5 of part 9 of the Federal Acquisition Regulation and the best interests of the Department of Defense.
 
 (b)
 

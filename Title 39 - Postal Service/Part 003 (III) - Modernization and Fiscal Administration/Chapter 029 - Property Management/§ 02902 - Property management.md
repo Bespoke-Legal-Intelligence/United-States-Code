@@ -10,7 +10,7 @@ In General.—The Postal Service—
 
 &emsp;(3) may develop a 5-year management template that—
 
-&emsp;&emsp;(A) establishes goals and policies that will lead to the reduction of excess property andunderutilized property in the inventory of the Postal Service;
+&emsp;&emsp;(A) establishes goals and policies that will lead to the reduction of excess property and underutilized property in the inventory of the Postal Service;
 
 &emsp;&emsp;(B) adopts workplace practices, configurations, and management techniques that can achieve increased levels of productivity and decrease the need for real property assets;
 

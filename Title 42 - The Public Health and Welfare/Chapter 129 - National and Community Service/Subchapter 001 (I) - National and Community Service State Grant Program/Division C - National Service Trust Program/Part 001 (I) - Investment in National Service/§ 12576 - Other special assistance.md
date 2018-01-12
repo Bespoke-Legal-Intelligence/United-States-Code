@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 111–13, §1305(2), added subsec. (b) and struck out forme
 
 Subsec. (c)(1). Pub. L. 111–13, §1305(3)(A), substituted "to programs supported under the national service laws" for "to national service programs that receive assistance under section 12571 of this title".
 
-Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excess of amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection."
+Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excessof amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection."
 
 #### Effective Date of 2009 Amendment
 

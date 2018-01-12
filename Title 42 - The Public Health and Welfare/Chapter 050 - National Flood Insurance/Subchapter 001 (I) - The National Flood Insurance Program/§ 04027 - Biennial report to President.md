@@ -6,7 +6,7 @@ The Administrator shall biennially submit a report of operations under this chap
 
 #### (b) Effects of flood insurance program
 
-The Administrator shall include, as part of the biennial report submitted under subsection (a) of this section, a chapter reporting on the effects on the flood insurance program observed through implementation of requirements under the Riegle Community Development and Regulatory Improvement Act of 1994.
+The Administrator shall include, as part of the biennial report submitted under subsection (a), a chapter reporting on the effects on the flood insurance program observed through implementation of requirements under the Riegle Community Development and Regulatory Improvement Act of 1994.
 
 (Pub. L. 90–448, title XIII, §1320, Aug. 1, 1968, 82 Stat. 581; Pub. L. 96–470, title II, §205(b), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §581, Sept. 23, 1994, 108 Stat. 2286; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
@@ -25,6 +25,10 @@ The Riegle Community Development and Regulatory Improvement Act of 1994, referre
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary".
 
 <b>1980</b>—Pub. L. 96–470 substituted "biennially submit" for "include" and struck out "in the annual report" after "under this chapter" and "required by section 3536 of this title" after "the Congress".
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

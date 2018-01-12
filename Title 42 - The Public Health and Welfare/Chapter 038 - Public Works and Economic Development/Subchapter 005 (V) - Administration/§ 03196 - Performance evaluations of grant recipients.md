@@ -6,17 +6,17 @@ The Secretary shall conduct an evaluation of each university center and each eco
 
 #### (b) Purpose of evaluations of university centers
 
-The purpose of the evaluations of university centers under subsection (a) of this section shall be to determine which university centers are performing well and are worthy of continued grant assistance under this chapter, and which should not receive continued assistance, so that university centers that have not previously received assistance may receive assistance.
+The purpose of the evaluations of university centers under subsection (a) shall be to determine which university centers are performing well and are worthy of continued grant assistance under this chapter, and which should not receive continued assistance, so that university centers that have not previously received assistance may receive assistance.
 
 #### (c) Timing of evaluations
 
-Evaluations under subsection (a) of this section shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
+Evaluations under subsection (a) shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
 
 #### (d) Evaluation criteria
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish criteria for use in conducting evaluations under subsection (a) of this section.
+&emsp;The Secretary shall establish criteria for use in conducting evaluations under subsection (a).
 
 #### (2) Evaluation criteria for university centers
 
@@ -28,7 +28,7 @@ Evaluations under subsection (a) of this section shall be conducted on a continu
 
 #### (e) Peer review
 
-In conducting an evaluation of a university center or economic development district under subsection (a) of this section, the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
+In conducting an evaluation of a university center or economic development district under subsection (a), the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
 
 (Pub. L. 89–136, title V, §506, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611; amended Pub. L. 108–373, title V, §503, Oct. 27, 2004, 118 Stat. 1769.)
 
@@ -43,4 +43,8 @@ A prior section 506 of Pub. L. 89–136 was classified to section 3186 of this t
 2004–Subsec. (c). Pub. L. 108–373, §503(a), struck out "after the effective date of the Economic Development Administration Reform Act of 1998" after "assistance to the grantee".
 
 Subsec. (d)(2). Pub. L. 108–373, §503(b), inserted "program performance," after "applied research,".
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

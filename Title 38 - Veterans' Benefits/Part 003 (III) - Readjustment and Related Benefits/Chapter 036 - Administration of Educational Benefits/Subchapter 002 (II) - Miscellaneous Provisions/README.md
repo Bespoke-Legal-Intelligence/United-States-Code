@@ -26,4 +26,7 @@
 - [&sect; 03696 - Limitation on certain advertising, sales, and enrollment practices](%C2%A7%2003696%20-%20Limitation%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md)
 - [&sect; 03697 - Funding of contract educational and vocational counseling](%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md)
 - [&sect; 03697A - Educational and vocational counseling](%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md)
+- [&sect; 03697B - On-campus educational and vocational counseling](%C2%A7%2003697B%20-%20On-campus%20educational%20and%20vocational%20counseling.md)
 - [&sect; 03698 - Comprehensive policy on providing education information to veterans](%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md)
+- [&sect; 03699 - Effects of closure or disapproval of educational institution](%C2%A7%2003699%20-%20Effects%20of%20closure%20or%20disapproval%20of%20educational%20institution.md)
+- [&sect; 03699A - Provision of certain information to educational institutions](%C2%A7%2003699A%20-%20Provision%20of%20certain%20information%20to%20educational%20institutions.md)

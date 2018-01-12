@@ -56,7 +56,7 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters intoforce in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
 #### Effect of Grants
 

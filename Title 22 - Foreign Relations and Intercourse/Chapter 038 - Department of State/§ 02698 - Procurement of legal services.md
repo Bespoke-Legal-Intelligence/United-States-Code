@@ -4,7 +4,7 @@
 
 (b) The authority available to the Secretary of State under this section shall be available to the Broadcasting Board of Governors,<sup>1</sup> and the Administrator of the Agency for International Development with respect to the Board and the Agency.
 
-(Aug. 1, 1956, ch. 841, title I, §26, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2154; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; amended Pub. L. 101–246, title III, §303, Feb. 16, 1990, 104 Stat. 64; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(l)(3), title XIV, §1422(b)(3)(B), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §802(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–468.)
+(Aug. 1, 1956, ch. 841, title I, §26, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat.2154; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; amended Pub. L. 101–246, title III, §303, Feb. 16, 1990, 104 Stat. 64; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(l)(3), title XIV, §1422(b)(3)(B), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §802(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–468.)
 
 #### Amendments
 

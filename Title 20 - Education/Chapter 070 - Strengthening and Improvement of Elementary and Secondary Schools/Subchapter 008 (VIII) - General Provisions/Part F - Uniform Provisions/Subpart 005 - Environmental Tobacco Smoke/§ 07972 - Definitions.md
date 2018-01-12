@@ -32,7 +32,7 @@ As used in this subpart: <sup>1</sup>
 
 &emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
-(Pub. L. 89–10, title VIII, §8572, formerly title IV, §4302, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; renumbered title IX, §9562, renumbered title VIII, §8572, Pub. L.114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8572, formerly title IV, §4302, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; renumbered title IX, §9562, renumbered title VIII, §8572, Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
 
 #### References in Text
 

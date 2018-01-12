@@ -66,7 +66,7 @@
 
 &emsp;(B) from disapproving any collection of information contained in an agency rule, if the agency failed to comply with the requirements of paragraph (1) of this subsection;
 
-&emsp;(C) from disapproving any collection of information contained in a final agency rule, ifthe Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
+&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
 
 &emsp;(D) from disapproving any collection of information contained in a final rule, if—
 
@@ -114,7 +114,7 @@
 
 (i)(1) If the Director finds that a senior official of an agency designated under section 3506(a) is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved and has sufficient resources to carry out this responsibility effectively, the Director may, by rule in accordance with the notice and comment provisions of chapter 5 of title 5, United States Code, delegate to such official the authority to approve proposed collections of information in specific program areas, for specific purposes, or for all agency purposes.
 
-(2) A delegation by the Director under this section shall not preclude the Director from reviewing individual collections of information if the Director determines that circumstances warrant such a review. The Director shall retain authority to revoke such delegations, both in general and with regard to any specific matter. In acting for the Director, any official to whom approval authority has been delegated under this section shall comply fully with the rules and regulations promulgated by the Director.
+(2) A delegation by the Director under this section shall not preclude the Director from reviewing individual collections of information if the Director determines that circumstances warrant such a review. The Director shall retain authority to revoke such delegations, both in general and with regard to any specific matter. In acting for the Director, any official to whomapproval authority has been delegated under this section shall comply fully with the rules and regulations promulgated by the Director.
 
 (j)(1) The agency head may request the Director to authorize a collection of information, if an agency head determines that—
 
@@ -155,4 +155,8 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
+
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
 

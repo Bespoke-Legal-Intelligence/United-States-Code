@@ -26,7 +26,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;&emsp;(H) the effectiveness of existing private and local and State government educational, counseling, and other programs designed to prevent and control sex offenses.
 
-&emsp;(2) The compilation, analysis, and publication of summaries of the continuing study conducted under paragraph (1) and the research and demonstration projects conducted under paragraph (5). The Secretary shall submit not later than March 30, 1983, to the Congress a summary of such study and projectstogether with a review of their effectiveness and recommendations where appropriate.
+&emsp;(2) The compilation, analysis, and publication of summaries of the continuing study conducted under paragraph (1) and the research and demonstration projects conducted under paragraph (5). The Secretary shall submit not later than March 30, 1983, to the Congress a summary of such study and projects together with a review of their effectiveness and recommendations where appropriate.
 
 &emsp;(3) The development and maintenance of an information clearinghouse with regard to—
 

@@ -34,7 +34,7 @@ For the purpose of ascertaining whether issuance of an order is approved by prod
 
 #### (d) Confidentiality
 
-The ballots and other information or reports that reveal, or tend to reveal, the identity orvote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.
+The ballots and other information or reports that reveal, or tend to reveal, the identity or vote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.
 
 (Pub. L. 98–590, §12, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 105–185, title VI, §605(k), June 23, 1998, 112 Stat. 600.)
 

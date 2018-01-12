@@ -28,7 +28,7 @@ For the purposes of this section—
 
 #### (2) Boundaries
 
-&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committeeon Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 &emsp;(B) The recreation area shall include the following:
 
@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall beto coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
+&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall be to coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
 
 #### (2) Membership
 
@@ -176,7 +176,7 @@ For the purposes of this section—
 
 #### (14) Obtaining property
 
-&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property,facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
+&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
 
 #### (15) Cooperative agreements
 

@@ -16,6 +16,7 @@
 - [&sect; 03316 - Rules and regulations](%C2%A7%2003316%20-%20Rules%20and%20regulations.md)
 - [&sect; 03317 - Program evaluation studies](%C2%A7%2003317%20-%20Program%20evaluation%20studies.md)
 - [&sect; 03318 - Contract, grant, and cooperative agreement authorities](%C2%A7%2003318%20-%20Contract%2C%20grant%2C%20and%20cooperative%20agreement%20authorities.md)
+- [&sect; 03318a - Cooperative research projects; agreements with and receipt of funds from State and other agencies](%C2%A7%2003318a%20-%20Cooperative%20research%20projects%3B%20agreements%20with%20and%20receipt%20of%20funds%20from%20State%20and%20other%20agencies.md)
 - [&sect; 03319 - Restriction on treatment of indirect costs and tuition remission](%C2%A7%2003319%20-%20Restriction%20on%20treatment%20of%20indirect%20costs%20and%20tuition%20remission.md)
 - [&sect; 03319a - Cost-reimbursable agreements](%C2%A7%2003319a%20-%20Cost-reimbursable%20agreements.md)
 - [&sect; 03319b - Joint requests for proposals](%C2%A7%2003319b%20-%20Joint%20requests%20for%20proposals.md)

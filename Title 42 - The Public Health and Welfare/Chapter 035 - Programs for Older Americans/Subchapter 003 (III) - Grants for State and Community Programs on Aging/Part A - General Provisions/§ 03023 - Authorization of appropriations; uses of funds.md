@@ -16,9 +16,9 @@
 
 (d) There are authorized to be appropriated to carry out part D (relating to disease prevention and health promotion services) $20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.
 
-(e) There are authorized to be appropriated to carry out part E (relating to family caregiver support) $154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.
+(e) There are authorized to be appropriated to carry out part E (relating to family caregiversupport) $154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.
 
-(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518;amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538; Pub. L. 114–144, §4(a), Apr. 19, 2016, 130 Stat. 337.)
+(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538; Pub. L. 114–144, §4(a), Apr. 19, 2016, 130 Stat. 337.)
 
 #### Prior Provisions
 
@@ -72,9 +72,9 @@ Pub. L. 102–375, §303(a)(1), substituted "$461,376,000 for fiscal year 1992 a
 
 Subsec. (a)(2). Pub. L. 102–375, §303(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $20,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991 to carry out section 3027(a)(12) of this title."
 
-Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989, $10,000,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991 to carry out section 3026(a)(6)(P) of this title. Amounts appropriated under this subsection shall remain available until expended."
+Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989, $10,000,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991 to carry out section 3026(a)(6)(P) of thistitle. Amounts appropriated under this subsection shall remain available until expended."
 
-Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted "$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995" for"$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991".
+Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted "$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995" for "$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991".
 
 Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted "$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995" for "$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991".
 
@@ -143,4 +143,8 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 

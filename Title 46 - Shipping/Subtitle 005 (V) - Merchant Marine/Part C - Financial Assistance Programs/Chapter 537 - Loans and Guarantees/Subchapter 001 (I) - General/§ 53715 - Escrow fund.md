@@ -14,7 +14,7 @@ In General.—If the proceeds of an obligation guaranteed under this chapter are
 
 (b)
 
-Security Involving Both Uncompleted and Delivered Vessels.—If the security for theguarantee of an obligation relates both to a vessel to be constructed, reconstructed, or reconditioned and to a delivered vessel, the principal amount of the obligation shall be prorated for purposes of subsection (a) under regulations prescribed by the Secretary or Administrator.
+Security Involving Both Uncompleted and Delivered Vessels.—If the security for the guarantee of an obligation relates both to a vessel to be constructed, reconstructed, or reconditioned and to a delivered vessel, the principal amount of the obligation shall be prorated for purposes of subsection (a) under regulations prescribed by the Secretary or Administrator.
 
 (c)
 

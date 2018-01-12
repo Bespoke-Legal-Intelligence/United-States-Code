@@ -30,7 +30,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 &emsp;(C) recommends maintenance and improvement of water quality within the basin or portion thereof and recommends methods of adequately financing those facilities as may be necessary to implement the plan; and
 
-&emsp;(D) as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste management plans developed pursuant to section 1288 of this title, and any State plan developed pursuant to section 1313(e) of this title.
+&emsp;(D) as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste managementplans developed pursuant to section 1288 of this title, and any State plan developed pursuant to section 1313(e) of this title.
 
 (3) For the purposes of this subsection the term "basin" includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 

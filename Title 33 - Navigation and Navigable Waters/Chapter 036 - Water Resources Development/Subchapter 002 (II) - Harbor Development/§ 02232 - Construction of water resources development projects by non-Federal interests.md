@@ -36,7 +36,7 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 #### (1) General rule
 
-&emsp;Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shall be eligible for credit or reimbursement for theFederal share of work carried out on a project or separable element of a project if—
+&emsp;Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shall be eligible for credit or reimbursement for the Federal share of work carried out on a project or separable element of a project if—
 
 &emsp;&emsp;(A) before initiation of construction of the project or separable element—
 
@@ -46,7 +46,7 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 &emsp;&emsp;&emsp;(iii) the non-Federal interest enters into a written agreement with the Secretary under section 1962d–5b of title 42, including an agreement to pay the non-Federal share, if any, of the cost of operation and maintenance of the project; and
 
-&emsp;&emsp;(B) the Secretary determines that all Federal laws and regulations applicable to the construction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
+&emsp;&emsp;(B) the Secretary determines that all Federal laws and regulations applicable to theconstruction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
 
 #### (2) Application of credit
 

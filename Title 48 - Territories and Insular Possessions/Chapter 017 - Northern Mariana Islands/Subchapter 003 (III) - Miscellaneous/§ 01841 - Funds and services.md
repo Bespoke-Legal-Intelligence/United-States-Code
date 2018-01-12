@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated for expenditure after October 1, 1
 
 #### (b) Services and facilities of Federal agencies; grants-in-aid; availability of appropriations in succeeding fiscal years
 
-(1) The government of the Northern Marianas in carrying out the purposes of this Act, Public Law 95–134, or Public Law 94–241 \[48 U.S.C. 1801et seq.\], may utilize, to the extent practicable, the available services and facilities of agencies and instrumentalities of the Federal Government on a reimbursable basis. Such amounts may be credited to the appropriation or fund which provided the services and facilities. Agencies and instrumentalities of the Federal Government may, when practicable, make available to the government of the Northern Marianas, upon request of the Secretary, such services and facilities as they are equipped to render or furnish, and they may do so without reimbursement if otherwise authorized by law.
+(1) The government of the Northern Marianas in carrying out the purposes of this Act, Public Law 95–134, or Public Law 94–241 \[48 U.S.C. 1801 et seq.\], may utilize, to the extent practicable, the available services and facilities of agencies and instrumentalities of the Federal Government on a reimbursable basis. Such amounts may be credited to the appropriation or fund which provided the services and facilities. Agencies and instrumentalities of the Federal Government may, when practicable, make available to the government of the Northern Marianas, upon request of the Secretary, such services and facilities as they are equipped to render or furnish, and they may do so without reimbursement if otherwise authorized by law.
 
 (2) Any funds made available to the Northern Mariana Islands under grant-in-aid programs by section 502 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241), or pursuant to any other Act of Congress enacted after March 24, 1976, are hereby authorized to remain available until expended.
 
@@ -24,7 +24,7 @@ Notwithstanding the provisions of the Food and Nutrition Act of 2008 \[7 U.S.C. 
 
 (3) As part of the administration of taxes required by this subsection, the Secretary or his delegate shall establish, at no cost to the Northern Marianas government, a taxpayers information service to provide such information and assistance to citizens of the Northern Mariana Islands (as so defined) as may be necessary for the filing of returns and the payment of such taxes.
 
-(Pub. L. 95–348, §3, Aug. 18, 1978, 92 Stat. 489; Pub. L. 96–205, title II, §204(a), Mar. 12, 1980, 94 Stat. 86; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(HH), May 22, 2008, 122 Stat. 1095, 1096,1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(HH), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 95–348, §3, Aug. 18, 1978, 92 Stat. 489; Pub. L. 96–205, title II, §204(a), Mar. 12, 1980, 94 Stat. 86; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(HH), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(HH), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 

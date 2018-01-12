@@ -10,7 +10,7 @@ The Secretary shall award grants, contracts or cooperative agreements to public 
 
 #### (b) Priorities
 
-In awarding grants, contracts or cooperative agreements under subsection (a)(2) (related to the development of knowledge on evidence-based practices for treating mental, behavioral, andbiological disorders associated with psychological trauma), the Secretary shall give priority to universities, hospitals, mental health agencies, and other programs that have established clinical expertise and research experience in the field of trauma-related mental disorders.
+In awarding grants, contracts or cooperative agreements under subsection (a)(2) (related to the development of knowledge on evidence-based practices for treating mental, behavioral, and biological disorders associated with psychological trauma), the Secretary shall give priority to universities, hospitals, mental health agencies, and other programs that have established clinical expertise and research experience in the field of trauma-related mental disorders.
 
 #### (c) Child outcome data
 

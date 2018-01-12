@@ -8,7 +8,7 @@
 
 #### (2) Claims established under quality control system
 
-&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest onany unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
+&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest on any unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
 
 #### (3) Computation of interest
 
@@ -34,7 +34,7 @@
 
 #### (2) Cost effectiveness
 
-&emsp;Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of the Secretary that all of the means referred to in paragraph (1) are not cost effective.
+&emsp;Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of theSecretary that all of the means referred to in paragraph (1) are not cost effective.
 
 #### (3) Maximum reduction absent fraud
 
@@ -84,7 +84,7 @@
 
 #### (II) Determination appealed
 
-&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon as practicable, remit to the Secretary adollar amount subject to the finding made in the administrative and judicial review.
+&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon as practicable, remit to the Secretary a dollar amount subject to the finding made in the administrative and judicial review.
 
 #### (vi) Alternative method of collection
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(ii) furnishing a copy of the agreement to the State agency administering the unemployment compensation law; or
 
-&emsp;(B) in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment from a court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
+&emsp;(B) in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment froma court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
 
 #### (d) Recovery of overissuance of benefits
 
@@ -148,7 +148,7 @@ Subsec. (d). Pub. L. 103–66, §13941(b), added subsec. (d).
 
 <b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–624 substituted "on the date of receipt (or, if the date of receipt is not a business day, on the next business day)" for "within thirty days".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans forprogram investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans for program investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
 
 Pub. L. 100–435, §602, inserted provisions relating to failure of State agency to pay a claim under section 2025(c)(1)(C) of this title and interest with respect to unpaid portion of such claims.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13941(b) of Pub. L. 103–66 effective, and to be implemented beginning on, Oct. 1, 1993, and amendment by section 13951(a) of Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(a), (b)(1)(A) of Pub. L. 103–66, set out as a note under section 2025 of this title.
+Amendment by section 13941(b) of Pub. L. 103–66 effective, and to be implemented beginning on, Oct. 1, 1993,and amendment by section 13951(a) of Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(a), (b)(1)(A) of Pub. L. 103–66, set out as a note under section 2025 of this title.
 
 #### Effective Date of 1991 Amendment
 

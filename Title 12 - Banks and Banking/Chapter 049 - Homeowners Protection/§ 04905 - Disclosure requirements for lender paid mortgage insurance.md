@@ -28,7 +28,7 @@ In the case of lender paid mortgage insurance that is required in connection wit
 
 &emsp;&emsp;&emsp;(ii) terminates only when the residential mortgage is refinanced (under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.)), paid off, or otherwise terminated; and
 
-&emsp;&emsp;(C) that lender paid mortgage insurance and borrower paid mortgage insurance bothhave benefits and disadvantages, including a generic analysis of the differing costs and benefits of a residential mortgage in the case lender paid mortgage insurance versus borrower paid mortgage insurance over a 10-year period, assuming prevailing interest and property appreciation rates;
+&emsp;&emsp;(C) that lender paid mortgage insurance and borrower paid mortgage insurance both have benefits and disadvantages, including a generic analysis of the differing costs and benefits of a residential mortgage in the case lender paid mortgage insurance versus borrower paid mortgage insurance over a 10-year period, assuming prevailing interest and property appreciation rates;
 
 &emsp;&emsp;(D) that lender paid mortgage insurance may be tax-deductible for purposes of Federal income taxes, if the mortgagor itemizes expenses for that purpose; and
 

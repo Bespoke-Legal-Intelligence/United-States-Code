@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term "small impoverished community" means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
+In this section, the term "small impoverished community" means a community of 3,000 orfewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -10,7 +10,7 @@ The President may establish a program to provide technical and financial assista
 
 #### (c) Approval by President
 
-If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the "Fund"), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
+If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the "Fund"), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
 
 #### (d) State recommendations
 
@@ -26,7 +26,7 @@ If the President determines that a State or local government has identified natu
 
 #### (C) Criteria
 
-&emsp;&emsp;In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g) of this section.
+&emsp;&emsp;In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g).
 
 #### (2) Use
 
@@ -40,7 +40,7 @@ If the President determines that a State or local government has identified natu
 
 #### (3) Effect of failure to nominate
 
-&emsp;If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g) of this section, any local governments of the State to receive assistance under this section.
+&emsp;If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g), any local governments of the State to receive assistance under this section.
 
 #### (e) Uses of technical and financial assistance
 
@@ -70,7 +70,7 @@ If the President determines that a State or local government has identified natu
 
 #### (2) Minimum and maximum amounts
 
-&emsp;In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made availableto a State (including amounts made available to local governments of the State) for a fiscal year—
+&emsp;In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made available to a State (including amounts made available to local governments of the State) for a fiscal year—
 
 &emsp;&emsp;(A) is not less than the lesser of—
 
@@ -172,7 +172,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (1) Definition of multihazard advisory map
 
-&emsp;In this subsection, the term "multihazard advisory map" means a map on which hazarddata concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
+&emsp;In this subsection, the term "multihazard advisory map" means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
 
 #### (2) Development of maps
 
@@ -194,7 +194,7 @@ The President shall not provide financial assistance under this section in an am
 
 &emsp;&emsp;&emsp;(i) informing the general public about the risks of natural hazards in the areas described in paragraph (2);
 
-&emsp;&emsp;&emsp;(ii) supporting the activities described in subsection (e) of this section; and
+&emsp;&emsp;&emsp;(ii) supporting the activities described in subsection (e); and
 
 &emsp;&emsp;&emsp;(iii) other public uses.
 
@@ -260,7 +260,7 @@ Pub. L. 111–351, §2, Jan. 4, 2011, 124 Stat. 3863, provided that: "Congress f
 
 &emsp;"(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
 
-&emsp;"(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Lookingat a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
+&emsp;"(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
 
 &emsp;"(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment."
 

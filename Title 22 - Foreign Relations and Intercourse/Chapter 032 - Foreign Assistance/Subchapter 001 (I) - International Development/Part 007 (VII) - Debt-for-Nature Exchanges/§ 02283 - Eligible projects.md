@@ -1,6 +1,6 @@
 ### §2283. Eligible projects
 
-(a) The Administrator of the Agency for International Development shall seek to ensure thatdebt-for-nature exchanges under this part support one or more of the following activities by either the host government, a local private conservation group, or a combination thereof:
+(a) The Administrator of the Agency for International Development shall seek to ensure that debt-for-nature exchanges under this part support one or more of the following activities by either the host government, a local private conservation group, or a combination thereof:
 
 &emsp;(1) restoration, protection, or sustainable use of the world's oceans and atmosphere;
 

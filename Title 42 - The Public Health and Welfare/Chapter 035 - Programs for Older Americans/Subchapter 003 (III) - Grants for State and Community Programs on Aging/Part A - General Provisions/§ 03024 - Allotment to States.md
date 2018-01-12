@@ -22,11 +22,11 @@
 
 #### (b) Unused funds
 
-Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a)) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### (c) Withholding of funds; disbursement
 
-If the Assistant Secretary finds that any State has failed to qualify under the State plan requirements of section 3027 of this title or the Assistant Secretary does not approve the funding formula required under section 3025(a)(2)(C) of this title, the Assistant Secretary shall withhold the allotment of funds to such State referred to in subsection (a) of this section. The Assistant Secretary shall disburse the funds so withheld directly to any public or private nonprofit institution or organization, agency, or political subdivision of such State submitting an approved plan under section 3027 of this title, which includes an agreement that any such payment shall be matched in the proportion determined under subsection (d)(1)(D) of this section for such State, by funds or in-kind resources from non-Federal sources.
+If the Assistant Secretary finds that any State has failed to qualify under the State plan requirements of section 3027 of this title or the Assistant Secretary does not approve the funding formula required under section 3025(a)(2)(C) of this title, the Assistant Secretary shall withhold the allotment of funds to such State referred to in subsection (a). The Assistant Secretary shall disburse the funds so withheld directly to any public or private nonprofit institution or organization, agency, or political subdivision of such State submitting an approved plan under section 3027 of this title, which includes an agreement that any such payment shall be matched in the proportion determined under subsection (d)(1)(D) for such State, by funds or in-kind resources from non-Federal sources.
 
 #### (d) Costs of administration, ombudsman program, demonstration projects, supportive services, senior centers and nutrition services; payment and determination of non-Federal share
 
@@ -42,7 +42,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c),\(d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539; Pub. L. 114–144, §4(b), Apr. 19, 2016, 130 Stat. 338.)
+(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539; Pub. L. 114–144, §4(b), Apr. 19, 2016, 130 Stat. 338.)
 
 #### Prior Provisions
 
@@ -110,7 +110,7 @@ Subsec. (a)(2), (3). Pub. L. 98–459, §304(a)(6)–(8), added par. (2), redesi
 
 Subsec. (b). Pub. L. 98–459, §304(b), substituted "the Commissioner shall make" for "he shall make" and "to the extent the Commissioner determines" for "to the extent he determines".
 
-Subsec. (c). Pub. L. 98–459, §304(c), substituted "subsection (d)(1)(D) of this section" for "subsection (d)(1)(B) of this section" and "or in-kind resources" for "for in-kind resources".
+Subsec. (c). Pub. L. 98–459, §304(c), substituted "subsection (d)(1)(D)" for "subsection (d)(1)(B)" and "or in-kind resources" for "for in-kind resources".
 
 Subsec. (d)(1). Pub. L. 98–459, §304(d), inserted ", after the application of section 3028(b) of this title" in provisions before par. (1), added subpar. (C), and redesignated former subpar. (C) as (D).
 
@@ -133,4 +133,8 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 

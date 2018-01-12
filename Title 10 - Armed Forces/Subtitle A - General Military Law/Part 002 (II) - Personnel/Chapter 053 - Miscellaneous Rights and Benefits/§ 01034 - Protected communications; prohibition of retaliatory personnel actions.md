@@ -46,11 +46,11 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 (c)
 
-Inspector General Investigation of Allegations of Prohibited Personnel Actions.—(1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) hasbeen taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (4).
+Inspector General Investigation of Allegations of Prohibited Personnel Actions.—(1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (4).
 
 (2) A communication described in this paragraph is a communication in which a member of the armed forces complains of, or discloses information that the member reasonably believes constitutes evidence of, any of the following:
 
-&emsp;(A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or unlawful discrimination.
+&emsp;(A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Codeof Military Justice), sexual harassment, or unlawful discrimination.
 
 &emsp;(B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
@@ -96,7 +96,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
+Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after thecompletion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
@@ -150,13 +150,13 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;(A) may be provided with representation by a judge advocate if—
 
-&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there isprobable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
+&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
 
 &emsp;&emsp;(ii) the Judge Advocate General concerned determines that the member or former member would benefit from judge advocate assistance to ensure proper presentation of the legal issues in the case; and
 
 &emsp;&emsp;(iii) the member is not represented by outside counsel chosen by the member; and
 
-&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
+&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request theproduction of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
 (4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
@@ -188,7 +188,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term "unlawful discrimination" means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599.)
+
+#### Amendment of Subsection (c)(2)(A)
+
+<i>Pub. L. 115–91, div. A, title X, §1081(c)(2)(C), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (c)(2)(A) of this section is amended by striking "sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)" and inserting "section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)". See 2017 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -212,13 +216,15 @@ The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(2)(A). Pub. L. 115–91 substituted "section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)" for "sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)".
+
 <b>2016</b>—Subsec. (b)(2). Pub. L. 114–328, §531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member's grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection."
 
 Subsec. (c)(4)(E), (F). Pub. L. 114–328, §531(b)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
 Subsec. (e)(1). Pub. L. 114–328, §531(b)(2), substituted "subsection (c)(4)(F)" for "subsection (c)(4)(E)".
 
-Subsec. (e)(3). Pub. L. 114–328, §531(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when theCoast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+Subsec. (e)(3). Pub. L. 114–328, §531(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
 &emsp;"(A) of that determination (including the reasons why the report may not be submitted within that time); and
 
@@ -294,7 +300,7 @@ Subsec. (i)(2)(C) to (G). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b
 
 <b>1998</b>—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted "subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978" for "subsection (j))".
 
-Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action."
+Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General ofthe Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action."
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted "Gross mismanagement" for "Mismanagement".
 
@@ -370,6 +376,10 @@ Subsec. (e). Pub. L. 101–225, §202(4), inserted "(except for a member or form
 
 <b>1984</b>—Pub. L. 98–525 substituted "Member" for "member" in section catchline and text.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title V, §532(c), Dec. 23, 2016, 130 Stat. 2121, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 23, 2016\], and shall apply with respect to reports received by the Secretaries of the military departments and the Secretary of Homeland Security under section 1034(e) of title 10, United States Code, on or after that date."
@@ -442,7 +452,7 @@ Requests or requirements before date of enactment.—In the case of nondisclosur
 
 &emsp;"(2)
 
-Requests or requirements after date of enactment.—In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into after the date of the enactment of this Act, the notice required by subsection (a) shall be submitted not later than 30 days after the date on which the Secretary first requests or requires that the members or employees enter into the agreements."
+Requests or requirements after date of enactment.—In the case of nondisclosure agreementsdescribed in subsection (a) that members or employees were first requested or required to enter into after the date of the enactment of this Act, the notice required by subsection (a) shall be submitted not later than 30 days after the date on which the Secretary first requests or requires that the members or employees enter into the agreements."
 
 #### Whistleblower Protections for Members of Armed Forces
 
@@ -450,7 +460,7 @@ Pub. L. 102–190, div. A, title VIII, §843, Dec. 5, 1991, 105 Stat. 1449, prov
 
 "(a)
 
-Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening totake any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
+Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
 
 "(b)
 

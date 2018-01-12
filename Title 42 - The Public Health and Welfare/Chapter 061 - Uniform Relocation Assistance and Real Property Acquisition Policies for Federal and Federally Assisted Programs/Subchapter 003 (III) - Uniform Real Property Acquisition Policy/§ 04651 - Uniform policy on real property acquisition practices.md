@@ -30,7 +30,7 @@ Subchapter II, referred to in par. (5), was in the original "title II", meaning 
 
 This chapter, referred to in par. (9), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
-This subchapter, referred to in par. (10), was in the original "this title", meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which is classified principallyto this subchapter. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in par. (10), was in the original "this title", meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
 #### Codification
 

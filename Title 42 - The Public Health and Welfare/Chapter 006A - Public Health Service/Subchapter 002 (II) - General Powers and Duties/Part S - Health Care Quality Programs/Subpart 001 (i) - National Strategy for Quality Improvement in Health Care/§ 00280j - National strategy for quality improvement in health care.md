@@ -4,7 +4,7 @@
 
 #### (1) National strategy
 
-&emsp;The Secretary, through a transparent collaborative process, shall establish a national strategy to improve the delivery of health care services, patient health outcomes, and population health.
+&emsp;The Secretary, through a transparent collaborative process, shall establish a nationalstrategy to improve the delivery of health care services, patient health outcomes, and population health.
 
 #### (2) Identification of priorities
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) identify areas in the delivery of health care services that have the potential for rapid improvement in the quality and efficiency of patient care;
 
-&emsp;&emsp;&emsp;(iii) address gaps in quality, efficiency, comparative effectiveness information\(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act \[42 U.S.C. 1320e–1(c), (d)\]), and health outcomes measures and data aggregation techniques;
+&emsp;&emsp;&emsp;(iii) address gaps in quality, efficiency, comparative effectiveness information (taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act \[42 U.S.C. 1320e–1(c), (d)\]), and health outcomes measures and data aggregation techniques;
 
 &emsp;&emsp;&emsp;(iv) improve Federal payment policy to emphasize quality and efficiency;
 
@@ -90,7 +90,7 @@ The Secretary shall update the national strategy not less than annually. Any suc
 
 &emsp;&emsp;&emsp;(iii) the information reported under section 1139A of the Social Security Act \[42 U.S.C. 1320b–9a\], consistent with the reporting requirements of such section; and
 
-&emsp;&emsp;&emsp;(iv) in the case of an update required to be submitted on or after January 1, 2014, the information reported under section 1139B(b)(4) of the Social Security Act \[42 U.S.C. 1320b–9b(b)(4)\], consistent with the reporting requirements of such section.
+&emsp;&emsp;&emsp;(iv) in the case of an update required to be submitted on or after January 1, 2014,the information reported under section 1139B(b)(4) of the Social Security Act \[42 U.S.C. 1320b–9b(b)(4)\], consistent with the reporting requirements of such section.
 
 #### (C) Satisfaction of other reporting requirements
 

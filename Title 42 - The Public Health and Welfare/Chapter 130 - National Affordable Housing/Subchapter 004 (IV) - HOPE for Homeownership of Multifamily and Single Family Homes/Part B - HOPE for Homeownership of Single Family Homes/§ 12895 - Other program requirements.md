@@ -22,7 +22,7 @@ Any entity that transfers ownership interests in, or shares representing, units 
 
 #### (C) Promissory note required
 
-&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between themarket value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
+&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
 
 #### (2) 6 years or less
 
@@ -42,7 +42,7 @@ Any entity that transfers ownership interests in, or shares representing, units 
 
 #### (4) Use of recaptured funds
 
-&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
+&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families,or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
 
 #### (d) Third party rights
 

@@ -116,7 +116,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (A) Annual registration
 
-&emsp;&emsp;Upon electing and in order to become an outsourcing facility, and during the period beginning on October 1 and ending on December 31 of each year thereafter, a facility—
+&emsp;&emsp;Upon electing and in order to become an outsourcing facility, and during the periodbeginning on October 1 and ending on December 31 of each year thereafter, a facility—
 
 &emsp;&emsp;&emsp;(i) shall register with the Secretary its name, place of business, and unique facility identifier (which shall conform to the requirements for the unique facility identifier established under section 360 of this title), and a point of contact email address; and
 
@@ -196,7 +196,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (2) Advisory committee on compounding
 
-&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
+&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association ofBoards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
 
 #### (3) Interim list
 
@@ -230,7 +230,7 @@ In this section:
 
 &emsp;(2) The term "essentially a copy of an approved drug" means—
 
-&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at thetime of compounding, distribution, and dispensing; or
+&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at the time of compounding, distribution, and dispensing; or
 
 &emsp;&emsp;(B) a drug, a component of which is a bulk drug substance that is a component of an approved drug or a marketed drug that is not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless there is a change that produces for an individual patient a clinical difference, as determined by the prescribing practitioner, between the compounded drug and the comparable approved drug.
 

@@ -1,0 +1,6 @@
+### §5791d. Transferred
+
+#### Codification
+
+Section 5791d was editorially reclassified as section 20505 of Title 34, Crime Control and Law Enforcement.
+

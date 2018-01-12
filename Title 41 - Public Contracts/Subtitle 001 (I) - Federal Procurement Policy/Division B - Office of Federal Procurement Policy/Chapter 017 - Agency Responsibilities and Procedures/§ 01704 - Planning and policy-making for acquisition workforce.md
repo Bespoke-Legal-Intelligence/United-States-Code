@@ -106,7 +106,7 @@ Criteria.—The Acquisition Workforce Development Strategic Plan shall include a
 
 &emsp;&emsp;(E) Government-wide training standards and certification requirements necessary to enhance the mobility and career opportunities of the Federal acquisition workforce within the Federal agencies covered by the plan.
 
-&emsp;&emsp;(F) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in subparagraphs (A) to (E) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent,or an explanation why such a level of growth would not be in the best interest of the Federal Government.
+&emsp;&emsp;(F) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in subparagraphs (A) to (E) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent, or an explanation why such a level of growth would not be in the best interest of the Federal Government.
 
 &emsp;(4)
 
@@ -202,7 +202,7 @@ Pub. L. 113–291, div. A, title VIII, §835, Dec. 19, 2014, 128 Stat. 3449, pro
 
 "(a)
 
-Purpose.—The purpose of this section is to ensure timely progress by Federal agencies toward developing, strengthening, and deploying information technology acquisition cadres consisting of personnel with highly specialized skills in information technology acquisition, including program and project managers.
+Purpose.—The purpose of this section is to ensure timely progress by Federal agencies toward developing, strengthening, and deploying information technology acquisition cadres consisting of personnel withhighly specialized skills in information technology acquisition, including program and project managers.
 
 "(b)
 

@@ -4,5 +4,5 @@ Section, Pub. L. 107–251, title I, §102, Oct. 26, 2002, 116 Stat. 1627, provi
 
 #### Effective Date of Repeal
 
-Repeal deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
+Repeal deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 ofPub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
 

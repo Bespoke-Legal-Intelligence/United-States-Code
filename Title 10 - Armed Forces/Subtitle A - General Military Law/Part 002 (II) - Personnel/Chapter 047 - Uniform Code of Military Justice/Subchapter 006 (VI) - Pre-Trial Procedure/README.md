@@ -5,18 +5,18 @@
 | Sec. | Art. | &nbsp; |
 | :--- | :---: | ---: |
 | [830\.](%C2%A7%2000830%20-%20Art.%2030.%20Charges%20and%20specifications.md) | 30\. | Charges and specifications. |
-| 830\.<sup>1</sup> | 30a. | Certain proceedings conducted before referral. |
+| [830a.](%C2%A7%2000830a%20-%20Art.%2030a.%20Certain%20proceedings%20conducted%20before%20referral.md) | 30a. | Certain proceedings conducted before referral. |
 | [831\.](%C2%A7%2000831%20-%20Art.%2031.%20Compulsory%20self-incrimination%20prohibited.md) | 31\. | Compulsory self-incrimination prohibited. |
 | [832\.](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing.md) | 32\. | Preliminary hearing. |
 | [833\.](%C2%A7%2000833%20-%20Art.%2033.%20Forwarding%20of%20charges.md) | 33\. | Forwarding of charges. |
 | [834\.](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20of%20staff%20judge%20advocate%20and%20reference%20for%20trial.md) | 34\. | Advice of staff judge advocate and reference for trial. |
 | [835\.](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges.md) | 35\. | Service of charges. |
 
-&nbsp;
-
 #### Amendment of Analysis
 
-<i>Pub. L. 114–328, div. E, title LXIII, §§5541(3)(B), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 832 to 835 and inserting the following new items:</i>
+<i>Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(3), set out in part below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.</i>
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(3)(B), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 832 to 835 and inserting the following new items:</i>
 
 &nbsp;
 
@@ -31,11 +31,11 @@
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(3), Dec. 23, 2016, 130 Stat. 2965, added item 830 relating to certain proceedings conducted before referral and substituted "Preliminary hearing required before referral to general court-martial" for "Preliminary hearing" in item 832, "Disposition guidance" for "Forwarding of charges" in item 833, "Advice to convening authority before referral for trial" for "Advice of staff judge advocate and reference for trial" in item 834, and "Service of charges; commencement of trial" for "Service of charges" in item 835.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, §5541(3). See 2016 Amendment note below.
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(3), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, added item 830a and substituted "Preliminary hearing required before referral to general court-martial" for "Preliminary hearing" in item 832, "Disposition guidance" for "Forwarding of charges" in item 833, "Advice to convening authority before referral for trial" for "Advice of staff judge advocate and reference for trial" in item 834, and "Service of charges; commencement of trial" for "Service of charges" in item 835.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted "Preliminary hearing" for "Investigation" in item 832.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "830a."</i>
 
 
 ---

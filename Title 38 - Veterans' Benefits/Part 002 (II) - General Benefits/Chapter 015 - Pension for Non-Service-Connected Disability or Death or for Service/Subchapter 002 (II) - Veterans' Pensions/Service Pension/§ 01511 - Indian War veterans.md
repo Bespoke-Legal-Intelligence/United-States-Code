@@ -24,7 +24,7 @@
 
 Prior section 1511 was renumbered section 3111 of this title.
 
-Another prior section 1511, Pub. L. 85–857, Sept. 2,1958, 72 Stat. 1171, §1503, renumbered Pub. L. 89–138, §2(4), Aug. 26, 1965, 79 Stat. 578, and amended Pub. L. 94–502, title , §§103, 104(11), Oct. 15, 1976, 90 Stat. 2384, related to training and training facilities under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1511continue in effect until Mar. 31, 1981. See section 3115 of this title.
+Another prior section 1511, Pub. L. 85–857, Sept. 2,1958, 72 Stat. 1171, §1503, renumbered Pub. L. 89–138, §2(4), Aug. 26, 1965, 79 Stat. 578, and amended Pub. L. 94–502, title , §§103, 104(11), Oct. 15, 1976, 90 Stat. 2384, related to training and training facilities under chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1511 continue in effect until Mar. 31, 1981. See section 3115 of this title.
 
 #### Amendments
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2016</b>—Subsecs. (b) to (d). Pub. L. 114–328 redesignated subsecs. (c) and (d) as (b) and (c), respectively, andstruck out former subsec. (b) which read as follows: "An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general."
+<b>2016</b>—Subsecs. (b) to (d). Pub. L. 114–328 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: "An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general."
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs" for "Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments".
 

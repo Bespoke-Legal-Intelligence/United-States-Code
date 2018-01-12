@@ -1,0 +1,6 @@
+### §1211. Transferred
+
+#### Codification
+
+Section 1211 was editorially reclassified as section 1476 of this title.
+

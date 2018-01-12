@@ -20,7 +20,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 (c)
 
-Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety andsecurity needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
+Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
 (d)
 
@@ -86,7 +86,7 @@ This makes a clarifying amendment to the catchline for 49:47128(d).
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

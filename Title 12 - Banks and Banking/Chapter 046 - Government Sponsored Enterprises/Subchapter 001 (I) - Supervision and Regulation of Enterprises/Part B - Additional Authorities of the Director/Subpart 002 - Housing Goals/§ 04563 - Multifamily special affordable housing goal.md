@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) the performance and effort of the enterprise in making mortgage credit available for multifamily housing in previous years;
 
-&emsp;&emsp;(C) the size of the multifamily mortgage market for housing affordable to low-income and very low-income families, including the size of the multifamily markets for housing of a smaller or limited size;
+&emsp;&emsp;(C) the size of the multifamily mortgage market for housing affordable to low-income and very low-income families, including thesize of the multifamily markets for housing of a smaller or limited size;
 
 &emsp;&emsp;(D) the ability of the enterprise to lead the market in making multifamily mortgage credit available, especially for multifamily housing described in paragraphs (1) and (2);
 

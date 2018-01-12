@@ -112,7 +112,7 @@ In this section:
 
 #### (c) Limitation on use of funds
 
-Not more than 4 percent of funds made available for grants under this section may be used topay the administrative costs of the Administrator.
+Not more than 4 percent of funds made available for grants under this section may be used to pay the administrative costs of the Administrator.
 
 #### (d) Authorization of appropriations
 

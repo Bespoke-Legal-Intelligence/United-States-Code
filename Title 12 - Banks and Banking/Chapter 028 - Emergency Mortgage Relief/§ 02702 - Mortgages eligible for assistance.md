@@ -8,7 +8,7 @@ No assistance shall be extended with respect to any mortgage under this chapter 
 
 &emsp;(3) payments under the mortgage have been delinquent for at least three months;
 
-&emsp;(4) the mortgagor has incurred a substantial reduction in income as a result of involuntaryunemployment or underemployment due to adverse economic conditions or medical conditions and is financially unable to make full mortgage payments;
+&emsp;(4) the mortgagor has incurred a substantial reduction in income as a result of involuntary unemployment or underemployment due to adverse economic conditions or medical conditions and is financially unable to make full mortgage payments;
 
 &emsp;(5) there is a reasonable prospect that the mortgagor will be able to make the adjustments necessary for a full resumption of mortgage payments; and
 

@@ -12,7 +12,7 @@ Subsec. (a). Pub. L. 104–150, §2(a), substituted "1997, 1998, and 1999" for "
 
 <b>1992</b>—Pub. L. 102–587 substituted "coastal state" for "coastal State" in last sentence of subsec. (a) and in subsec. (b).
 
-<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized management program development grants, established program requirements, set limits on grants, provided for grants for completion of development and implementation of management programs, provided for allocation of grants, reversion of unobligated grants, and grants to other political subdivisions, required submission of program for review and approval, and set forth an expiration date of grant authority.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized management program development grants, established program requirements, set limits on grants, provided for grants for completion of development andimplementation of management programs, provided for allocation of grants, reversion of unobligated grants, and grants to other political subdivisions, required submission of program for review and approval, and set forth an expiration date of grant authority.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–370 incorporated existing provisions into par. (1), limiting applicability of such provisions to subsec. (c), and added par. (2).
 

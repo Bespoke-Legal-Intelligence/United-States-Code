@@ -1,0 +1,6 @@
+### §3796d. Transferred
+
+#### Codification
+
+Section 3796d was editorially reclassified as section 10301 of Title 34, Crime Control and Law Enforcement.
+

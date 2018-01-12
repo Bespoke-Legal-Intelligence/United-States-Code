@@ -134,7 +134,7 @@ Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: 
 
 #### Short Title of 1978 Amendments
 
-Pub. L. 95–567, §1, Nov. 2, 1978, 92 Stat. 2405, provided: "That this Act \[enacting section 395 of this title,amending sections 390 to 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under sections 390, 392, and 396 of this title and section 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Public Telecommunications Financing Act of 1978'."
+Pub. L. 95–567, §1, Nov. 2, 1978, 92 Stat. 2405, provided: "That this Act \[enacting section 395 of this title, amending sections 390 to 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under sections 390, 392, and 396 of this title and section 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Public Telecommunications Financing Act of 1978'."
 
 Pub. L. 95–234, §1, Feb. 21, 1978, 92 Stat. 33, provided: "That this Act \[enacting section 224 of this title, amending sections 152, 503, and 504 of this title, repealing section 510 of this title, and enacting provisions set out as a note under section 152 of this title\] may be cited as the 'Communications Act Amendments of 1978'."
 

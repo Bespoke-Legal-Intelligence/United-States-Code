@@ -62,6 +62,250 @@ Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
 
 Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\]."
 
+#### Background and Security Investigations for Department of Defense Personnel by Defense Security Service
+
+Pub. L. 115–91, div. A, title IX, §925, Dec. 12, 2017, 131 Stat. 1526, provided that:
+
+"(a)
+
+Transition To Discharge by Defense Security Service.—
+
+&emsp;"(1)
+
+Secretarial authority.—The Secretary of Defense has the authority to conduct security, suitability, and credentialing background investigations for Department of Defense personnel. In carrying out such authority, the Secretary may use such authority, or may delegate such authority to another entity.
+
+&emsp;"(2)
+
+Phased transition.—As part of providing for the conduct of background investigations initiated by the Department of Defense through the Defense Security Service by not later than the deadline specified in subsection (b), the Secretary shall, in consultation with the Director of the Office of Personnel Management, provide for a phased transition from the conduct of such investigations by the National Background Investigations Bureau of the Office of Personnel Management to the conduct of such investigations by the Defense Security Service by that deadline.
+
+&emsp;"(3)
+
+Transition elements.—The phased transition required by paragraph (2) shall—
+
+&emsp;&emsp;"(A) provide for the transition of the conduct of investigations to the Defense Security Service using a risk management approach; and
+
+&emsp;&emsp;"(B) be consistent with the transition from legacy information technology operated by the Office of Personnel Management to the new information technology, including the National Background Investigations System, as described in subsection (f).
+
+"(b)
+
+Commencement of Implementation Plan for Ongoing Discharge of Investigations Through DSS.—Not later than October 1, 2020, the Secretary of Defense shall commence carrying out the implementation plan developed pursuant to section 951(a)(1) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2371; 10 U.S.C. 1564 note).
+
+"(c)
+
+Transfer of Certain Functions Within DoD to DSS.—
+
+&emsp;"(1)
+
+Transfer required.—For purposes of meeting the requirements in subsections (a) and (b), the Secretary of Defense shall transfer to the Defense Security Service the functions, personnel, and associated resources of the following organizations:
+
+&emsp;&emsp;"(A) The Consolidated Adjudications Facility.
+
+&emsp;&emsp;"(B) Other organizations identified by the Secretary for purposes of this paragraph.
+
+&emsp;"(2)
+
+Supporting organizations.—In addition to the organizations identified pursuant to paragraph (1), the following organizations shall prioritize resources to directly support the execution of requirements in subsections (a) and (b):
+
+&emsp;&emsp;"(A) The Office of Cost Analysis and Program Evaluation.
+
+&emsp;&emsp;"(B) The Defense Digital Service.
+
+&emsp;&emsp;"(C) Other organizations designated by the Secretary for purposes of this paragraph.
+
+&emsp;"(3)
+
+Timing and manner of transfer.—The Secretary—
+
+&emsp;&emsp;"(A) may carry out the transfer required by paragraph (1) at any time before the date specified in subsection (b) that the Secretary considers appropriate for purposes of this section; and
+
+&emsp;&emsp;"(B) shall carry out the transfer in a manner designed to minimize disruptions to the conduct of background investigations for personnel of the Department of Defense.
+
+"(d)
+
+Transfer of Certain Functions in OPM to DSS.—
+
+&emsp;"(1)
+
+In general.—For purposes of meeting the requirements in subsections (a) and (b), the Secretary of Defense shall provide for the transfer of the functions described in paragraph (2), and any associated personnel and resources, to the Department of Defense.
+
+&emsp;"(2)
+
+Functions.—The functions to be transferred pursuant to paragraph (1) are the following:
+
+&emsp;&emsp;"(A) Any personnel security investigations functions transferred by the Secretary to the Directorof the Office of Personnel Management pursuant to section 906 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 1101 note).
+
+&emsp;&emsp;"(B) Any other functions of the Office of Personnel Management in connection with background investigations initiated by the Department of Defense that the Secretary and the Director jointly consider appropriate.
+
+&emsp;"(3)
+
+Assessment.—In carrying out the transfer of functions pursuant to paragraph (1), the Secretary shall conduct a comprehensive assessment of workforce requirements for both the Department of Defense and the National Background Investigations Bureau synchronized to the transition plan, including a forecast of workforce needs across the current future-years defense plan for the Department. Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary shall submit to the appropriate congressional committees a report containing the results of the assessment.
+
+&emsp;"(4)
+
+Consultation.—The Secretary shall carry out paragraphs (1), (2), and (3) in consultation with the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
+
+&emsp;"(5)
+
+Location within dod.—Any functions transferred to the Department of Defense pursuant to this subsection shall be located within the Defense Security Service.
+
+"(e)
+
+Conduct of Certain Actions.—For purposes of the conduct of background investigations following the commencement of carrying out the implementation plan referred to in subsection (b), the Secretary of Defense shall provide for the following:
+
+&emsp;"(1) A single capability for the centralized funding, submissions, and processing of all background investigations, from within the Defense Security Service.
+
+&emsp;"(2) The discharge by the Consolidated Adjudications Facility, from within the Defense Security Service pursuant to transfer under subsection (c), of adjudications in connection with the following:
+
+&emsp;&emsp;"(A) Background investigations.
+
+&emsp;&emsp;"(B) Continuous evaluation and vetting checks.
+
+"(f)
+
+Enhancement of Information Technology Capabilities of NBIS.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall conduct a review of the information technology capabilities of the National Background Investigations System in order to determine whether enhancements to such capabilities are required for the following:
+
+&emsp;&emsp;"(A) Support for background investigations pursuant to this section and section 951 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2371; 10 U.S.C. 1564 note).
+
+&emsp;&emsp;"(B) Support of the National Background Investigations Bureau.
+
+&emsp;&emsp;"(C) Execution of the conduct of background investigations initiated by the Department of Defense pursuant to this section, including submissions and adjudications.
+
+&emsp;"(2)
+
+Common component.—In providing for the transition and operation of the National Background Investigations System as described in paragraph (1)(C), the Secretary shall develop a common component of the System usable for background investigations by both the Defense Security Service and the National Background Investigations Bureau.
+
+&emsp;"(3)
+
+Enhancements.—If the review pursuant to paragraph (1) determines that enhancements described in that paragraph are required, the Secretary shall carry out such enhancements.
+
+&emsp;"(4)
+
+Consultation.—The Secretary shall carry out this subsection in consultation with the Director of the Office of Personnel Management.
+
+"(g)
+
+Use of Certain Private Industry Data.—In carrying out background and security investigations pursuant to this section and section 951 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2371; 10 U.S.C. 1564 note), the Secretary of Defense may use background materials collected on individuals by the private sector, in accordance with national policies and standards, that are applicable to such investigations, including materials as follows:
+
+&emsp;"(1) Financial information, including credit scores and credit status.
+
+&emsp;"(2) Criminal records.
+
+&emsp;"(3) Drug screening.
+
+&emsp;"(4) Verifications of information on resumes and employment applications, such as previous employers, educational achievement, and educational institutions attended.
+
+&emsp;"(5) Other publicly available electronic information.
+
+"(h)
+
+Security Clearances for Contractor Personnel.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall review the requirements of the Department of Defense relating to position sensitivity designations for contractor personnel in order to determine whether such requirements may be reassessed or modified to reduce the number and range of contractor personnel who are issued security clearances in connection with work under contracts with the Department.
+
+&emsp;"(2)
+
+Guidance.—The Secretary shall issue guidance to program managers, contracting officers, and security personnel of the Department specifying requirements for the review of contractor position sensitivity designations and the number of contractor personnel of the Department who are issued security clearances for the purposes of determining whether the number of such personnel who are issued security clearances should and can be reduced.
+
+"(i)
+
+Personnel To Support the Transfer of Functions.—The Secretary of Defense shall authorize the Director of the Defense Security Service to promptly increase the number of personnel of the Defense Security Service for the purpose of beginning the establishment and expansion of investigative capacity to support the phased transfer of investigative functions from the Office of Personnel Management to the Department of Defense under this section. The Director of Cost Analysis and Program Assessment shall advise the Secretary on the size of the initial investigative workforce and the rate of growth of that workforce.
+
+"(j)
+
+Report on Future Periodic Reinvestigations, Insider Threat, and Continuous Vetting.—
+
+&emsp;"(1)
+
+Report required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall submit to the appropriate congressional committees a report that includes the following:
+
+&emsp;&emsp;"(A) An assessment of the feasibility and advisability of periodic reinvestigations of backgrounds of Government and contractor personnel with security clearances, including lessons from all of the continuous evaluation pilots being conducted throughout the Government, and identification of new or additional data sources and data analytic tools needed for improving current continuous evaluation or vetting capabilities.
+
+&emsp;&emsp;"(B) A plan to provide the Government with an enhanced risk management model that reduces the gaps in coverage perpetuated by the current time-based periodic reinvestigations model, particularly in light of the increasing use of continuous background evaluations of personnel referred to in subparagraph (A).
+
+&emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the Installation Matching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
+
+&emsp;&emsp;"(D) A plan to fully integrate and incorporate insider threat data, tools, and capabilities into thenew end-to-end vetting processes and supporting information technology established by the Defense Security Service to ensure a holistic and transformational approach to detecting, deterring, and mitigating threats posed by trusted insiders.
+
+&emsp;"(2)
+
+Consultation.—The Secretary shall prepare the report under paragraph (1) in consultation with the Director of National Intelligence and the Director of the Office of Personnel Management.
+
+"(k)
+
+Quarterly and Annual Briefings and Reports.—
+
+&emsp;"(1)
+
+Annual assessment of timeliness.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Security Executive Agent, in coordination with the Chair and other Principals of the Security, Suitability, and Credentialing Performance Accountability Council, shall submit to the appropriate committees of Congress a report on the timeliness of personnel security clearance initiations, investigations, and adjudications, by clearance level, for both initial investigations and periodic reinvestigations during the prior fiscal year for Government and contractor employees, including the following:
+
+&emsp;&emsp;"(A) The average periods of time taken by each authorized investigative agency and authorized adjudicative agency to initiate cases, conduct investigations, and adjudicate cases as compared with established timeliness objectives, from the date a completed security clearance application is received to the date of adjudication and notification to the subject and the subject's employer.
+
+&emsp;&emsp;"(B) The number of initial investigations and periodic reinvestigations initiated and adjudicated by each authorized adjudicative agency.
+
+&emsp;&emsp;"(C) The number of initial investigations and periodic reinvestigations carried over from prior fiscal years by each authorized investigative and adjudicative agency.
+
+&emsp;&emsp;"(D) The number of initial investigations and periodic reinvestigations that resulted in a denial or revocation of a security clearance by each authorized adjudicative agency.
+
+&emsp;&emsp;"(E) The costs to the executive branch related to personnel security clearance initiations, investigations, adjudications, revocations, and continuous evaluation.
+
+&emsp;&emsp;"(F) A discussion of any impediments to the timely processing of personnel security clearances.
+
+&emsp;&emsp;"(G) The number of clearance holders enrolled in continuous evaluation and the numbers and types of adverse actions taken as a result by each authorized adjudicative agency.
+
+&emsp;&emsp;"(H) The number of personnel security clearance cases, both initial investigations and periodic reinvestigations, awaiting or under investigation by the National Background Investigations Bureau.
+
+&emsp;&emsp;"(I) Other information as appropriate, including any recommendations to improve the timeliness and efficiency of personnel security clearance initiations, investigations, and adjudications.
+
+&emsp;"(2)
+
+Quarterly briefings.—Not later than the end of each calendar-year quarter beginning after January 1, 2018, through the date specified in paragraph (4), the Secretary of Defense shall provide the appropriate congressional committees a briefing on the progress of the Secretary in carrying out the requirements of this section during that calendar-year quarter. Until the backlog of security clearance applications at the National Background Investigations Bureau is eliminated, each quarterly briefing shall also include the current status of the backlog and the resulting mission and resource impact to the Department of Defense and the defense industrial base. Until the phased transition described in subsection (a) is complete, each quarterly briefing shall also include identification of any resources planned for movement from the National Background Investigations Bureau to the Department of Defense during the next calendar-year quarter.
+
+&emsp;"(3)
+
+Annual reports.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Secretary of Defense shall submit to the appropriate congressional committees a report on the following for the calendar year in which the report is to be submitted:
+
+&emsp;&emsp;"(A) The status of the Secretary in meeting the requirements in subsections (a), (b), and (c).
+
+&emsp;&emsp;"(B) The status of any transfers to be carried out pursuant to subsection (d).
+
+&emsp;&emsp;"(C) An assessment of the personnel security capabilities of the Department of Defense.
+
+&emsp;&emsp;"(D) The average periods of time taken by each authorized investigative agency and authorized adjudicative agency to initiate cases, conduct investigations, and adjudicate cases as compared with established timeliness objectives, from the date a completed security clearance application is received to the date of adjudication and notification to the subject and the subject's employer.
+
+&emsp;&emsp;"(E) The number of initial investigations and periodic reinvestigations initiated and adjudicated by each authorized adjudicative agency.
+
+&emsp;&emsp;"(F) The number of initial investigations and periodic reinvestigations carried over from prior fiscal years by each authorized investigative and adjudicative agency.
+
+&emsp;&emsp;"(G) The number of initial investigations and periodic reinvestigations that resulted in a denial or revocation of a security clearance by each authorized adjudicative agency.
+
+&emsp;&emsp;"(H) The costs to the Department of Defense related to personnel security clearance initiations, investigations, adjudications, revocations, and continuous evaluation.
+
+&emsp;&emsp;"(I) A discussion of any impediments to the timely processing of personnel security clearances.
+
+&emsp;&emsp;"(J) The number of clearance holders enrolled in continuous evaluation and the numbers and types of adverse actions taken as a result.
+
+&emsp;&emsp;"(K) The number of personnel security clearance cases, both initial investigations and periodic reinvestigations, awaiting or under investigation by the National Background Investigations Bureau.
+
+&emsp;&emsp;"(L) Other information that the Secretary considers appropriate, including any recommendations to improve the timeliness and efficiency of personnel security clearance initiations, investigations, and adjudications.
+
+&emsp;"(4)
+
+Termination.—No briefing or report is required under this subsection after December 31, 2021.
+
+"(l)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committees on Armed Services, Appropriations, Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;"(2) the Committees on Armed Services, Appropriations, Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives."
+
 #### Enhanced Security Programs for Department of Defense Personnel and Innovation Initiatives
 
 Pub. L. 114–328, div. A, title IX, §951, Dec. 23, 2016, 130 Stat. 2371, provided that:
@@ -182,7 +426,7 @@ Waiver of Certain Deadlines.—For each of fiscal years 2017 through 2019, the S
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'appropriate committees of Congress' has the meaning given that term in section 3001(a)(8) of the Intelligence Reform and Prevention of Terrorism Act of 2004 (50 U.S.C. 3341(a)(8)).
+&emsp;"(1) The term 'appropriate committees of Congress' has the meaning given that term in section 3001(a)(8)of the Intelligence Reform and Prevention of Terrorism Act of 2004 (50 U.S.C. 3341(a)(8)).
 
 &emsp;"(2) The term 'business process mapping' has the meaning given that term in section 2222(i) of title 10, United States Code.
 
@@ -274,7 +518,7 @@ Reporting Requirements Implementation.—Not later than 180 days after the date 
 
 &emsp;"(1) implement the Security Executive Agent Directive on common, standardized employee and contractor security reporting requirements;
 
-&emsp;"(2) establish and implement uniform reporting requirements for employees and Federal contractors, according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
+&emsp;"(2) establish and implement uniform reporting requirements for employees and Federal contractors,according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
 
 &emsp;"(3) ensure that reported information is shared appropriately.
 
@@ -400,7 +644,7 @@ Definitions.—In this section—
 
 #### Personnel Security
 
-Pub. L. 113–66, div. A, title IX, §907, Dec. 26, 2013, 127 Stat. 818, provided that:
+Pub. L. 113–66, div. A, title IX, §907, Dec. 26, 2013, 127 Stat. 818, as amended by Pub. L. 115–91, div. A, title X, §1051(s)(1), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 "(a)
 
@@ -436,15 +680,7 @@ Consideration of analysis.—In developing the strategy under paragraph (1), the
 
 &emsp;"(3)
 
-Metrics.—
-
-&emsp;&emsp;"(A)
-
-Metrics required.—In developing the strategy required by paragraph (1), the Secretary and the Directors shall jointly establish metrics to measure the effectiveness of the strategy in meeting the objectives specified in that paragraph.
-
-&emsp;&emsp;"(B)
-
-Report.—At the same time the budget of the President for each of fiscal years 2016 through 2019 is submitted to Congress pursuant to section 1105 of title 31, United States Code, the Secretary and the Directors shall jointly submit to the appropriate committees of Congress a report on the metrics established under paragraph (1), including an assessment using the metrics of the effectiveness of the strategy in meeting the objectives specified in paragraph (1).
+Metrics.—In developing the strategy required by paragraph (1), the Secretary and the Directors shall jointly establish metrics to measure the effectiveness of the strategy in meeting the objectives specified in that paragraph.
 
 &emsp;"(4)
 
@@ -592,5 +828,5 @@ Policy Described.—The policy referred to in subsection (a) is the policy of in
 
 #### Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that: "The process required by section 1564(a) of title 10, United States Code, as added by subsection (a), for expediting the completion of the background investigations necessary for granting security clearances for certain persons shall be prescribed not later than January 1, 2001."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that: "The process required by section 1564(a) of title 10, United States Code, as added by subsection (a), for expediting thecompletion of the background investigations necessary for granting security clearances for certain persons shall be prescribed not later than January 1, 2001."
 

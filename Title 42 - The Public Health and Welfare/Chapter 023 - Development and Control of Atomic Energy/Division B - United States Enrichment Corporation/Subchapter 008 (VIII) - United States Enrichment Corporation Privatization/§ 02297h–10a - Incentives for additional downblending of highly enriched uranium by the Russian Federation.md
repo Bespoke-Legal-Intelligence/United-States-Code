@@ -122,7 +122,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (B) Incentive adjustment
 
-&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(B) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(B)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
+&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretaryof Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(B) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(B)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
 
 #### (C) Publication of adjustments
 
@@ -144,7 +144,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (B) Adjustment for other uranium
 
-&emsp;&emsp;Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in suchparagraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
+&emsp;&emsp;Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in such paragraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
 
 #### (8) Downblending of other highly enriched uranium
 

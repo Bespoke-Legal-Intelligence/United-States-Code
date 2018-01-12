@@ -28,13 +28,13 @@ The Administrator is authorized to make grants pursuant to this section to any S
 
 &emsp;(B) provides deadlines for submission of, and action on, grant requests.
 
-(2) In taking action on applications for grants under this section, consideration shall be givenby the Administrator (A) to the public benefits to be derived by the construction and the propriety of Federal aid in making such grant; (B) to the extent applicable, to the economic and commercial viability of the project (including contractual arrangements with the private sector to market any resources recovered); (C) to the potential of such project for general application to community solid waste disposal problems; and (D) to the use by the applicant of comprehensive regional or metropolitan area planning.
+(2) In taking action on applications for grants under this section, consideration shall be given by the Administrator (A) to the public benefits to be derived by the construction and the propriety of Federal aid in making such grant; (B) to the extent applicable, to the economic and commercial viability of the project (including contractual arrangements with the private sector to market any resources recovered); (C) to the potential of such project for general application to community solid waste disposal problems; and (D) to the use by the applicant of comprehensive regional or metropolitan area planning.
 
 #### (e) Additional limitations
 
 A grant under this section—
 
-&emsp;(1) may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) of this section applies, the first-year operation and maintenance costs;
+&emsp;(1) may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) applies, the first-year operation and maintenance costs;
 
 &emsp;(2) may not be provided for land acquisition or (except as otherwise provided in paragraph (1)(B)) for operating or maintenance costs;
 

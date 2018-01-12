@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or section 1413 of this title for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
+<b>1974</b>—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or section 1413 ofthis title for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
 
 Subsec. (b). Pub. L. 93–254 substituted reference to permits issued under section 1412 of this title for former reference to such issuance under this subchapter, made any ocean dumping subject to regulations issued under section 1418 of this title, and substituted prohibition against dumping of any material for former prohibition against dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
 

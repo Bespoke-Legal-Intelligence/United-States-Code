@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 46:1457
 
-Section 4303 authorizes the Secretary to delegate to certain persons or agencies or organizations any work, business, or function related to the testing, inspection, and examination necessary for compliance enforcement. The Secretary may also conduct research, testing, and development necessary to carry out this chapter, including procurement of vessels and equipment and their subsequent sale. The Committee wishes tomake clear that the Secretary may sell anything that was purchased to test.
+Section 4303 authorizes the Secretary to delegate to certain persons or agencies or organizations any work, business, or function related to the testing, inspection, and examination necessary for compliance enforcement. The Secretary may also conduct research, testing, and development necessary to carry out this chapter, including procurement of vessels and equipment and their subsequent sale. The Committee wishes to make clear that the Secretary may sell anything that was purchased to test.
 

@@ -1,0 +1,10 @@
+### §3711. Transferred
+
+#### Codification
+
+Section 3711 was editorially reclassified as section 10101 of Title 34, Crime Control and Law Enforcement.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–322, title XXXII, §320701, Sept. 13, 1994, 108 Stat. 2121, provided that subtitle G of title XXXII of Pub. L. 103–322, which amended former section 3760 of this title and enacted provisions formerly set out as a note under former section 3760 of this title, could be cited as the "Safer Streets and Neighborhoods Act of 1994".
+

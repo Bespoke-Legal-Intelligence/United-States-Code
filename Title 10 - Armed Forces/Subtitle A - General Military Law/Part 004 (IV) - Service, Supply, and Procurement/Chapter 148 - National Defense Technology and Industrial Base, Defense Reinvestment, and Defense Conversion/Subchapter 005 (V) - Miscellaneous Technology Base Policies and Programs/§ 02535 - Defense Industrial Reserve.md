@@ -20,7 +20,7 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 &emsp;(B) designate what excess industrial property shall be disposed of;
 
-&emsp;(C) establish general policies and provide for the transportation, handling, care, storage, protection, maintenance, repair, rebuilding,utilization, recording, leasing and security of such property;
+&emsp;(C) establish general policies and provide for the transportation, handling, care, storage, protection, maintenance, repair, rebuilding, utilization, recording, leasing and security of such property;
 
 &emsp;(D) direct the transfer without reimbursement of such property to other Government agencies with the consent of such agencies;
 
@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) those industrial plants and installations under the control of the Secretary which are not required for the immediate need of any department or agency of the Government and which should be sold, leased, or otherwise disposed of.
 
-&emsp;(2) The term "plant equipment package" means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved by the Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
+&emsp;(2) The term "plant equipment package" means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved bythe Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
 
 (Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, title X, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224; Pub. L. 107–217, §3(b)(7), Aug. 21, 2002, 116 Stat. 1295.)
 

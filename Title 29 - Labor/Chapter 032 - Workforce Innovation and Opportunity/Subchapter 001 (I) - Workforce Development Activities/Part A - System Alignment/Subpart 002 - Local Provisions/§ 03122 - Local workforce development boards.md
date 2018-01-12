@@ -304,7 +304,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient forsuch funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 

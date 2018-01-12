@@ -4,7 +4,7 @@
 
 (b) The price of honey shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof; and the price of tung nuts for each crop of tung nuts through the 1976 crop shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price therefor: <i>Provided</i>, That in any crop year through the 1976 crop year in which the Secretary determines that the domestic production of tung oil will be less than the anticipated domestic demand for such oil, the price of tung nuts shall be supported at not less than 65 per centum of the parity price therefor.
 
-(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported atsuch level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
+(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported at such level not in excess of 90 per centum nor lessthan 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
 
 (d) Notwithstanding any other provision of law—
 
@@ -46,7 +46,7 @@
 
 &emsp;(F)(i) The Secretary—
 
-&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
+&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
 
 &emsp;&emsp;(II) in lieu of making any reduction in payments for the purchase of milk or the products of milk under this subsection during such fiscal year under any such order;
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) In setting the terms and conditions of any milk diversion or milk production termination under this paragraph and of each contract made under this subparagraph, the Secretary shall take into account any adverse effect of such program or contracts on beef, pork, and poultry producers in the United States and shall take all feasible steps to minimize such effect.
 
-&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligibleto enter into a contract for payments under this subparagraph if such producer's entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term "member of the family of the producer" means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
+&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligible to enter into a contract for payments under this subparagraph if such producer's entiremilk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term "member of the family of the producer" means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
 
 &emsp;(E) Application for payment shall be made by producers through the county committees established under section 590h(b) of title 16.
 
@@ -108,7 +108,7 @@
 
 &emsp;(iii) Each person who retains or acquires an interest in dairy cattle or the production of milk in violation of a contract entered into under this paragraph shall be liable, in addition to any amount due under paragraph (3)(A)(iv), to a marketing penalty on the quantity of milk produced during the period in which such ownership is prohibited under the contract. Such penalty shall be computed at the rate or rates of the support price for milk in effect during the period in which the milk production occurred.
 
-&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) asto (I) the marketings of milk for commercial use by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
+&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) as to (I) the marketings of milk for commercialuse by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
 
 &emsp;(v) Each person who makes a false statement as to the number of dairy cattle that was sold for slaughter or export under a contract under paragraph (3)(A) shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of not more than $5,000 for each head of cattle to which such statement applied.
 
@@ -152,7 +152,7 @@ Subsecs. (b), (c). Pub. L. 101–624, §1161(b)(2), (3), redesignated subsec. (c
 
 Subsec. (k)(2). Pub. L. 101–624, §2236(a), temporarily designated existing text as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 1990 Amendment note below.
 
-<b>1989</b>—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, §1007(1), temporarily inserted in cl. (ii) "clause (iii) and" after "Except as provided in" and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
+<b>1989</b>—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, §1007(1), temporarily inserted in cl. (ii) "clause (iii)and" after "Except as provided in" and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
 Subsec. (d)(1)(D)(i). Pub. L. 101–239, §1007(2), temporarily substituted "calendar year 1990" for "each of the calendar years 1988 and 1990" and "may reduce by not more than" for "shall reduce by". See Effective and Termination Dates of 1989 Amendment note below.
 
@@ -206,7 +206,7 @@ Subsec. (d)(3)(D). Pub. L. 99–198, §101(b)(1), in amending subpar. (D) genera
 
 Subsec. (d)(3)(E). Pub. L. 99–198, §101(b)(1), (3), struck out subpar. (E) which specified conditions under which Secretary could modify contracts entered into under this paragraph, and redesignated subpar. (K) as (E).
 
-Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milkseeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer's marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
+Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milk seeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer'smarketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
 
 Subsec. (d)(3)(G). Pub. L. 99–198, §101(b)(1), struck out subpar. (G) which provided that no marketing history could be assigned to any producer who commenced marketing milk after Dec. 31, 1982, except as provided in subpar. (H).
 
@@ -270,7 +270,7 @@ Subsec. (c). Pub. L. 93–86 inserted "of pure and wholesome milk to meet curren
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–799 inserted "Notwithstanding the foregoing provisions, for the period beginning with September 16, 1960, and ending March 31, 1961, the price of milk for manufacturing purposes and the price of butterfat shall be supported at not less than $3.22 per hundredweight and 59.6 cents per pound, respectively."
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–835 required minimum support level of tung oil to be 65 per centum of parity whenever domestic production is less than anticipated domestic demand.
+<b>1958</b>—Subsec. (b). Pub. L. 85–835 required minimum support level of tung oil to be 65 per centum of paritywhenever domestic production is less than anticipated domestic demand.
 
 <b>1956</b>—Subsec. (c). Act July 20, 1956, struck out "as are" before "devoted," and substituted "children" for "underprivileged children on a public welfare or charitable basis".
 
@@ -366,7 +366,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Application of 1990 Amendments
 
-Pub. L. 101–624, title I, §107, Nov. 28, 1990, 104 Stat. 3380, provided that: "The amendments made by this title \[enacting section 1446e of this title, amending sections 450l, 608c, and 1446a of this title and section 713a–14 of Title 15, Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title\] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act \[Nov. 28, 1990\]."
+Pub. L. 101–624, title I, §107, Nov. 28, 1990, 104 Stat. 3380, provided that: "The amendments made by this title \[enacting section 1446e of this title, amending sections 608c, 1446a, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title\] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act \[Nov. 28, 1990\]."
 
 #### Modification of Milk Production Termination Program
 

@@ -14,7 +14,7 @@ In text, "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the
 
 #### Applicability of Labor Standards to Construction of Treatment Works
 
-Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part that: "For fiscal year 2012 and each fiscal year thereafter, the requirements of section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) shall apply to the construction of treatment works carried out in whole or in part with assistance made available by a State water pollution control revolving fund as authorized by title VI of that Act (33 U.S.C. 1381 et seq.), or with assistance made available under section 205(m) of that Act (33 U.S.C. 1285(m)), or both."
+Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part that: "For fiscal year 2012 and each fiscal year thereafter, the requirements of section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) shall apply to the construction of treatment works carried out in whole or in part with assistance made available by a State water pollution controlrevolving fund as authorized by title VI of that Act (33 U.S.C. 1381 et seq.), or with assistance made available under section 205(m) of that Act (33 U.S.C. 1285(m)), or both."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

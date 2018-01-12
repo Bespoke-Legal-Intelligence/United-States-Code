@@ -64,7 +64,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the child is a ward of the State and is not residing with the child's parent,the agency shall make reasonable efforts to obtain the informed consent from the parent (as defined in section 1401 of this title) of the child for an initial evaluation to determine whether the child is a child with a disability.
+&emsp;&emsp;&emsp;&emsp;If the child is a ward of the State and is not residing with the child's parent, the agency shall make reasonable efforts to obtain the informed consent from the parent (as defined in section 1401 of this title) of the child for an initial evaluation to determine whether the child is a child with a disability.
 
 #### (II) Exception
 
@@ -484,7 +484,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
+&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representativesand the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
 
 &emsp;&emsp;&emsp;(i) reducing—
 
@@ -520,7 +520,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 

@@ -6,7 +6,7 @@ The district courts of the United States at the instance of the United States sh
 
 #### (b) To enforce summons
 
-If any person is summoned under the internal revenue laws to appear, to testify, or to produce books, papers, or other data, the district court of the United States for the district in which such person resides or may be found shall have jurisdiction by appropriate process to compel such attendance, testimony, or production of books, papers, or other data.
+If any person is summoned under the internal revenue laws to appear, to testify, or to producebooks, papers, or other data, the district court of the United States for the district in which such person resides or may be found shall have jurisdiction by appropriate process to compel such attendance, testimony, or production of books, papers, or other data.
 
 #### (c) For damages to United States officers or employees
 

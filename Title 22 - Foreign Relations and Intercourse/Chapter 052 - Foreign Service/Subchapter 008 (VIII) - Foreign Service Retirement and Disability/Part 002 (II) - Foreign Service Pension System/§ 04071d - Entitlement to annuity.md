@@ -14,7 +14,7 @@
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051,4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completedat least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -72,7 +72,7 @@ Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of "4010a," afte
 
 Pub. L. 105–277, §2312(b)(2), substituted "4010, or 4010a" for "or 4010".
 
-<b>1993</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted "under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))" for "under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act".
+<b>1993</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted "under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))"for "under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act".
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–556, §406(a), substituted "as a member of the Foreign Service" for "of service subject to this subchapter".
 

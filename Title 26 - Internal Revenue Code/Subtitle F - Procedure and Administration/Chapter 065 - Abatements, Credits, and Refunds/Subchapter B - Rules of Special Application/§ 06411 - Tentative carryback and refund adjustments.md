@@ -2,13 +2,13 @@
 
 #### (a) Application for adjustment
 
-A taxpayer may file an application for a tentative carryback adjustment of the tax for theprior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
+A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) The amount of the net operating loss, net capital loss, or unused business credit;
 
 &emsp;(2) The amount of the tax previously determined for the prior taxable year affected by such carryback, the tax previously determined being ascertained in accordance with the method prescribed in section 1314(a);
 
-&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback in the manner provided by law to the items on the basis of which such tax was determined;
+&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback inthe manner provided by law to the items on the basis of which such tax was determined;
 
 &emsp;(4) The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
 
@@ -118,7 +118,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 <b>1971</b>—Pub. L. 92–178, §601(e)(1)(A), substituted "unused investment credit, or unused work incentive program credit" for "or unused investment credit" wherever appearing in subsecs. (a), (a)(1), (b), and (c).
 
-Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted "by a work incentive program carryback provided in section 50A(b)," after "section 46(b)," in first sentence, and "or a work incentive program carryback" after "investment credit carryback" in second sentence, respectively.
+Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted "by a work incentive program carryback provided in section 50A(b)," after "section 46(b)," in firstsentence, and "or a work incentive program carryback" after "investment credit carryback" in second sentence, respectively.
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted "net operating loss, net capital loss, or unused investment credit" for "net operating loss or unused investment credit" in par. (1).
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–721, §2(g), Nov. 2, 1966, 80 Stat. 1150, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentative carryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966."
+Pub. L. 89–721, §2(g), Nov. 2, 1966, 80 Stat. 1150, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentativecarryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

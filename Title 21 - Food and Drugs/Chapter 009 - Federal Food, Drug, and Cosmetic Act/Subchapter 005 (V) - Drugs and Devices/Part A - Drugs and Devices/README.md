@@ -33,6 +33,8 @@ Part A—Drugs and Devices
 - [&sect; 00356e - Drug shortage list](%C2%A7%2000356e%20-%20Drug%20shortage%20list.md)
 - [&sect; 00356f - Hospital repackaging of drugs in shortage](%C2%A7%2000356f%20-%20Hospital%20repackaging%20of%20drugs%20in%20shortage.md)
 - [&sect; 00356g - Standards for regenerative medicine and regenerative advanced therapies](%C2%A7%2000356g%20-%20Standards%20for%20regenerative%20medicine%20and%20regenerative%20advanced%20therapies.md)
+- [&sect; 00356h - Competitive generic therapies](%C2%A7%2000356h%20-%20Competitive%20generic%20therapies.md)
+- [&sect; 00356i - Prompt reports of marketing status](%C2%A7%2000356i%20-%20Prompt%20reports%20of%20marketing%20status.md)
 - [&sect; 00357 - Qualification of drug development tools](%C2%A7%2000357%20-%20Qualification%20of%20drug%20development%20tools.md)
 - [&sect; 00358 - Authority to designate official names](%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md)
 - [&sect; 00359 - Nonapplicability of subchapter to cosmetics](%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md)

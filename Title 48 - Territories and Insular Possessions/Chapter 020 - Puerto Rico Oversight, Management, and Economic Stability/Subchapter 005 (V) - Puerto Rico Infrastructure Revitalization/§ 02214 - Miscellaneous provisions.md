@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 60 days after the date on which the Revitalization Coordinator is appointed, the Interagency Environmental Subcommittee shall be established and shallevaluate environmental documents required under Puerto Rico law for any Critical Project within the Expedited Permitting Process established by the Revitalization Coordinator under section 2213(a)(3) of this title.
+&emsp;Not later than 60 days after the date on which the Revitalization Coordinator is appointed, the Interagency Environmental Subcommittee shall be established and shall evaluate environmental documents required under Puerto Rico law for any Critical Project within the Expedited Permitting Process established by the Revitalization Coordinator under section 2213(a)(3) of this title.
 
 #### (2) Composition
 

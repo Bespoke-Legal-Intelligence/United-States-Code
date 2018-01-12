@@ -188,7 +188,7 @@ Pub. L. 109–364, div. A, title VII, §738(f), Oct. 17, 2006, 120 Stat. 2304, p
 
 #### Interim Standards for Blood Sampling
 
-Pub. L. 108–375, div. A, title VII, §733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
+Pub. L. 108–375, div. A, title VII, §733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A,title X, §1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
 
 "(1)
 

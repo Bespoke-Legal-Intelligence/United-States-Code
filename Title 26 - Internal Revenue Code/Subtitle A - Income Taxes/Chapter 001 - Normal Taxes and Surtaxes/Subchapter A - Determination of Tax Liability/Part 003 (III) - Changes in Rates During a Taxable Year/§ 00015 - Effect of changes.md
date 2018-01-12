@@ -44,7 +44,7 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendmentsmade by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
 
 <b>1984</b>—Pub. L. 98–369 renumbered section 21 of this title as this section.
 
@@ -56,7 +56,7 @@ Subsecs. (e), (f). Pub. L. 97–34 struck out subsecs. (e) and (f) which had rel
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–30, §101(d)(2)(A), (B), redesignated subsec. (f) as (d). Former subsec. (d), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Tax Reform Act of 1969 in part I or in the application of part IV or V of subchapter B for purposes of the determination of taxable income should be treated as a change in a rate of tax, was struck out.
 
-Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individualwhich was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
+Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 
@@ -103,6 +103,10 @@ Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1964 Amendment
 
 Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30, provided that the amendment made by that section is effective with respect to taxable years ending after Dec. 31, 1963.
+
+#### Coordination of 2017 Amendment With Section 15
+
+This section not to apply to any change in a rate of tax by reason of section 1(j) of this title, as added by Pub. L. 115–97, see section 1(j)(6) of this title.
 
 #### Coordination of 1997 Amendment With Section 15
 

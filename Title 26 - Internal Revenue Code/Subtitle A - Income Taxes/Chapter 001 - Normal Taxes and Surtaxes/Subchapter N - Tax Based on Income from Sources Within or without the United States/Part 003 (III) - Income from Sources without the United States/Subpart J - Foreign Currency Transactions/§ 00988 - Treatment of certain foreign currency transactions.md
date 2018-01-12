@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an individual, the country in which such individual's tax home (as defined in section 911(d)(3)) is located,
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any corporation, partnership, trust, or estate which is a United States person (as defined in section 7701(a)(30)), the United States, and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any corporation, partnership, trust, or estate which is aUnited States person (as defined in section 7701(a)(30)), the United States, and
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of any corporation, partnership, trust, or estate which is not a United States person, a country other than the United States.
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (II) Time for making election
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, an election under subclause (I) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later,on or before the 1st day during such year on which the taxpayer holds a contract described in clause (i)).
+&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, an election under subclause (I) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later, on or before the 1st day during such year on which the taxpayer holds a contract described in clause (i)).
 
 #### (III) Special rule for partnerships, etc.
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (3) Personal transactions
 
-&emsp;For purposes of this subsection, the term "personal transaction" means any transaction entered into by an individual, except that such term shall not include any transaction to the extent that expenses properly allocable to such transaction meet the requirements of—
+&emsp;For purposes of this subsection, the term "personal transaction" means any transactionentered into by an individual, except that such term shall not include any transaction to the extent that expenses properly allocable to such transaction meet the requirements of—
 
 &emsp;&emsp;(A) section 162 (other than traveling expenses described in subsection (a)(2) thereof), or
 

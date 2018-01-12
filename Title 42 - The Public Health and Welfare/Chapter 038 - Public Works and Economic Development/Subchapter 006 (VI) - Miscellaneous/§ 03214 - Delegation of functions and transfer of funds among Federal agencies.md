@@ -34,3 +34,7 @@ A prior section 3214, Pub. L. 89–136, title VII, §704, Aug. 26, 1965, 79 Stat
 
 A prior section 604 of Pub. L. 89–136 was classified to section 3204 of this title prior to repeal by Pub. L. 105–393, §102(a).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

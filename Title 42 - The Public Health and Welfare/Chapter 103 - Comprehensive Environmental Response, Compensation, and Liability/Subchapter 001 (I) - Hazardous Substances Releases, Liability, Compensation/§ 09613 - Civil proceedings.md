@@ -24,11 +24,11 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (1) Contribution
 
-&emsp;Any person may seek contribution from any other person who is liable or potentially liableunder section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
 
 #### (2) Settlement
 
-&emsp;A person who has resolved its liability to the United States or a State in an administrative or judicially approved settlement shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A person who has resolved its liability to the United States or a State in an administrative or judicially approved settlement shall not beliable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (3) Persons not party to settlement
 
@@ -70,7 +70,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (4) Subrogation
 
-&emsp;No action based on rights subrogated pursuant to this section by reason of payment of aclaim may be commenced under this subchapter more than 3 years after the date of payment of such claim.
+&emsp;No action based on rights subrogated pursuant to this section by reason of payment of a claim may be commenced under this subchapter more than 3 years after the date of payment of such claim.
 
 #### (5) Actions to recover indemnification payments
 
@@ -134,7 +134,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (B) Remedial action
 
-&emsp;&emsp;The President shall provide for the participation of interested persons, including potentially responsible parties, in the development of the administrative record on which the President will base the selection of remedial actions and on which judicial reviewof remedial actions will be based. The procedures developed under this subparagraph shall include, at a minimum, each of the following:
+&emsp;&emsp;The President shall provide for the participation of interested persons, including potentially responsible parties, in the development of the administrative record on which the President will base the selection of remedial actions and on which judicial review of remedial actions will be based. The procedures developed under this subparagraph shall include, at a minimum, each of the following:
 
 &emsp;&emsp;&emsp;(i) Notice to potentially affected persons and the public, which shall be accompanied by a brief analysis of the plan and alternative plans that were considered.
 

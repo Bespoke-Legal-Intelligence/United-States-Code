@@ -6,7 +6,7 @@ Except as provided in subsection (b), if any provision of this chapter or the ap
 
 #### (b) Uniformity
 
-If a court holds invalid any provision of this chapter or the application thereof on the groundthat the provision fails to treat similarly situated territories uniformly, then the court shall, in granting a remedy, order that the provision of this chapter or the application thereof be extended to any other similarly situated territory, provided that the legislature of that territory adopts a resolution signed by the territory's governor requesting the establishment and organization of a Financial Oversight and Management Board pursuant to section 2121 of this title.
+If a court holds invalid any provision of this chapter or the application thereof on the ground that the provision fails to treat similarly situated territories uniformly, then the court shall, in granting a remedy, order that the provision of this chapter or the application thereof be extended to any other similarly situated territory, provided that the legislature of that territory adopts a resolution signed by the territory's governor requesting the establishment and organization of a Financial Oversight and Management Board pursuant to section 2121 of this title.
 
 (Pub. L. 114–187, §3, June 30, 2016, 130 Stat. 550.)
 

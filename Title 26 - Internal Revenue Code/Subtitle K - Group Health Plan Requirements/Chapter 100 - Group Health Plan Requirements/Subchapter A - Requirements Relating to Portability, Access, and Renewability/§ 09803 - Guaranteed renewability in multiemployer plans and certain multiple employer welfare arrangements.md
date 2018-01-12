@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A group health plan which is a multiemployer plan (as defined in section 414(f)) or which is a multiple employer welfare arrangement may not deny an employer continued access to the same or different coverage under such plan, other than—
+A group health plan which is a multiemployer plan (as defined in section 414(f)) or which is a multiple employer welfare arrangement may notdeny an employer continued access to the same or different coverage under such plan, other than—
 
 &emsp;(1) for nonpayment of contributions;
 
@@ -27,4 +27,8 @@ For purposes of subsection (a), the term "multiple employer welfare arrangement"
 Section 3(40) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b), is classified to section 1002(40) of Title 29, Labor.
 
 The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 104–191, which was approved Aug. 21, 1996.
+
+#### Effective Date
+
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 

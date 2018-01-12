@@ -1,0 +1,6 @@
+### §13705. Transferred
+
+#### Codification
+
+Section 13705 was editorially reclassified as section 12105 of Title 34, Crime Control and Law Enforcement.
+

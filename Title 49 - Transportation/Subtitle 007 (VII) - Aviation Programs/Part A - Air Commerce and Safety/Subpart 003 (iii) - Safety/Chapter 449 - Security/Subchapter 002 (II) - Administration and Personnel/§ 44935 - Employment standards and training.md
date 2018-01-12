@@ -72,7 +72,7 @@ Background checks.—The Under Secretary shall require that an individual to be 
 
 &emsp;&emsp;(C)
 
-Disqualification of individuals who present national security risks.—The Under Secretary, in consultation with the heads of other appropriate Federal agencies, shall establish procedures, in addition to any background check conducted under section 44936, to ensure that no individual who presents a threat to national security is employed as a security screener.
+Disqualification of individuals who present national security risks.—TheUnder Secretary, in consultation with the heads of other appropriate Federal agencies, shall establish procedures, in addition to any background check conducted under section 44936, to ensure that no individual who presents a threat to national security is employed as a security screener.
 
 &emsp;(3)
 

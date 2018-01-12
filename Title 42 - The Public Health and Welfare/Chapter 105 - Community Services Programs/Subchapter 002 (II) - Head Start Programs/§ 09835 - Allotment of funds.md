@@ -18,7 +18,7 @@
 
 &emsp;(v) to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and
 
-&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
+&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal HeadStart programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
 (C)(i) The Secretary shall reserve for each fiscal year an amount that is not less than 2.5 percent and not more than 3 percent of the sums appropriated pursuant to section 9834 of this title for that fiscal year, to fund training and technical assistance activities, from which reserved amount—
 
@@ -60,13 +60,13 @@
 
 &emsp;&emsp;(II) for fiscal year 2011 and each subsequent fiscal year—
 
-&emsp;&emsp;&emsp;(aa) provide, for each Head Start agency (including each Early Head Start agency)funded as described in clause (i)(I), the cost of living increase described in clause (i); and
+&emsp;&emsp;&emsp;(aa) provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the cost of living increase described in clause (i); and
 
 &emsp;&emsp;&emsp;(bb) subject to subparagraph (B), with any portion of the remaining amount that is not used under item (aa), provide equal amounts for Indian Head Start programs (including Early Head Start programs), and for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
 &emsp;(iii) if the remaining amount is not sufficient to carry out clause (ii) for the fiscal year involved, use that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage of the cost of living increase described in clause (i).
 
-(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
+(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programsshall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
 
 (ii)(I) Funds that are appropriated under section 9834 of this title for a fiscal year, and made available to Indian Head Start programs or migrant or seasonal Head Start programs under the special expansion provisions, shall remain available until the end of the following fiscal year.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(I) use 50 percent for Head Start programs funded under paragraph (2)(B)(i) (other than Early Head Start programs), of which—
 
-&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred to in this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
+&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred toin this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
 
 &emsp;&emsp;&emsp;(bb) the remainder shall be allocated proportionately among the States on the basis of the number of young low-income children; and
 
@@ -176,7 +176,7 @@
 
 (7) In this subsection:
 
-&emsp;(A) The term "base grant", used with respect to a fiscal year, means the amount of permanent ongoing funding (other than funding described in sections 9840a(g)(2)(A)(i) of this title and paragraph (2)(C)(i)(II)(aa)) provided to a Head Start agency (including anEarly Head Start agency) under this subchapter for that fiscal year.
+&emsp;(A) The term "base grant", used with respect to a fiscal year, means the amount of permanent ongoing funding (other than funding described in sections 9840a(g)(2)(A)(i) of this title and paragraph (2)(C)(i)(II)(aa)) provided to a Head Start agency (including an Early Head Start agency) under this subchapter for that fiscal year.
 
 &emsp;(B) The term "cost-of-living increase", used with respect to an agency for a fiscal year, means an increase in the funding for that agency, based on the percentage change in the Consumer Price Index for All Urban Consumers (issued by the Bureau of Labor Statistics) for the prior fiscal year, calculated on the amount of the base grant for that agency for the prior fiscal year.
 
@@ -332,7 +332,7 @@ Nothing in this subchapter shall be construed to require a State to establish a 
 
 All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401,§2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
 
 #### References in Text
 
@@ -460,7 +460,7 @@ Subsec. (g)(2)(A). Pub. L. 105–285, §106(c)(1)(A), inserted before semicolon 
 
 Subsec. (g)(2)(C). Pub. L. 105–285, §106(c)(1)(B), inserted ", and organizations and public entities serving children with disabilities" before semicolon at end.
 
-Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
+Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent towhich, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
 
 Subsec. (g)(2)(E). Pub. L. 105–285, §106(c)(1)(D), substituted "program or any other early childhood program;" for "program; and".
 

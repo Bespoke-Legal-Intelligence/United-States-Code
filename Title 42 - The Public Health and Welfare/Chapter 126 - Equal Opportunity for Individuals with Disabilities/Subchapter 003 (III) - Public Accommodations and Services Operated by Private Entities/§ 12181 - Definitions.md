@@ -40,7 +40,7 @@ As used in this subchapter:
 
 #### (7) Public accommodation
 
-&emsp;The following private entities are considered public accommodations for purposes of this subchapter, if the operations of such entities affect commerce—
+&emsp;The following private entities are considered public accommodations for purposes of thissubchapter, if the operations of such entities affect commerce—
 
 &emsp;&emsp;(A) an inn, hotel, motel, or other place of lodging, except for an establishment located within a building that contains not more than five rooms for rent or hire and that is actually occupied by the proprietor of such establishment as the residence of such proprietor;
 

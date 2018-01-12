@@ -134,7 +134,7 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
-(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(9), Dec. 10, 2015, 129 Stat. 2170.)
+(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22,2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(9), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### Prior Provisions
 

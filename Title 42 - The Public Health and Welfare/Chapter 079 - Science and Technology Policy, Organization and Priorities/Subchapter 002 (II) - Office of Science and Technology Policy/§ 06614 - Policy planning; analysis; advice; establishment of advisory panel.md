@@ -82,7 +82,7 @@ Study.—The Director of the Office of Science and Technology Policy, in consult
 
 &emsp;"(3) recommend mechanisms for identifying federally-funded research and development programs which are unsuccessful or unproductive;
 
-&emsp;"(4) evaluate the extent to which independent, merit-based evaluation of federally-funded researchand development programs and projects achieves the goal of eliminating unsuccessful or unproductive programs and projects; and
+&emsp;"(4) evaluate the extent to which independent, merit-based evaluation of federally-funded research and development programs and projects achieves the goal of eliminating unsuccessful or unproductive programs and projects; and
 
 &emsp;"(5) investigate and report on the validity of using quantitative performance goals for aspects of programs which relate to administrative management of the program and for which such goals would be appropriate, including aspects related to—
 

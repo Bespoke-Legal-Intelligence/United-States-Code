@@ -68,7 +68,7 @@
 
 &emsp;(B) the phased retirement percentage for the phased retiree.
 
-(2) A phased retirement annuity shall be paid in addition to the basic pay for the position to which a phased retiree is appointed during the phased employment.
+(2) A phased retirement annuity shall be paid in addition to the basic pay for the position towhich a phased retiree is appointed during the phased employment.
 
 (3) A phased retirement annuity shall be adjusted in accordance with section 8462.
 

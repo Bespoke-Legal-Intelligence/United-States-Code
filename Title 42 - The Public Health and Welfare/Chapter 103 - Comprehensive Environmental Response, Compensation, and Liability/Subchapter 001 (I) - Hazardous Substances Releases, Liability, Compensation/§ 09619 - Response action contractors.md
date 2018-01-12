@@ -4,7 +4,7 @@
 
 #### (1) Response action contractors
 
-&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries,costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
+&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
 
 #### (2) Negligence, etc.
 
@@ -12,7 +12,7 @@
 
 #### (3) Effect on warranties; employer liability
 
-&emsp;Nothing in this subsection shall affect the liability of any person under any warranty under Federal, State, or common law. Nothing in this subsection shall affect the liability of an employer who is a response action contractor to any employee of such employer under any provision of law, including any provision of any law relating to worker's compensation.
+&emsp;Nothing in this subsection shall affect the liability of any person under any warranty under Federal, State, or common law. Nothingin this subsection shall affect the liability of an employer who is a response action contractor to any employee of such employer under any provision of law, including any provision of any law relating to worker's compensation.
 
 #### (4) Governmental employees
 
@@ -74,7 +74,7 @@
 
 #### (i) Decision to indemnify
 
-&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a responseaction contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
+&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and theadequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
 
 #### (ii) Conditions
 
@@ -132,11 +132,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
-&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this titlefor the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 
-&emsp;&emsp;(C) any surety who after October 16, 1990, provides a bid, performance or payment bond to a response action contractor, and begins activities to meet its obligations under such bond, but only in connection with such activities or obligations.
+&emsp;&emsp;(C) any surety who after October 16, 1990, provides a bid, performance or payment bond to a response action contractor, and begins activities to meet its obligations under suchbond, but only in connection with such activities or obligations.
 
 #### (3) Insurance
 

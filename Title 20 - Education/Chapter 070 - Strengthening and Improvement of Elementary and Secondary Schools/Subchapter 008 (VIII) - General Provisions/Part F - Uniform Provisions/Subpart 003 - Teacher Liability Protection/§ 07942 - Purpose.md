@@ -2,7 +2,7 @@
 
 The purpose of this subpart is to provide teachers, principals, and other school professionals the tools they need to undertake reasonable actions to maintain order, discipline, and an appropriate educational environment.
 
-(Pub. L. 89–10, title VIII, §8552, formerly title II, §2362, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9542, renumbered title VIII, §8552, Pub. L. 114–95, titleII, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8552, formerly title II, §2362, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9542, renumbered title VIII, §8552, Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
 
 #### Codification
 

@@ -64,7 +64,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;(B) an explanation of why the agency proposes or refuses to take the action and a description of each evaluation procedure, assessment, record, or report the agency used as a basis for the proposed or refused action;
 
-&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referral for evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
+&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referralfor evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
 
 &emsp;&emsp;(D) sources for parents to contact to obtain assistance in understanding the provisions of this subchapter;
 
@@ -304,7 +304,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (C) Timeline for requesting hearing
 
-&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of thedate the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
+&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of the date the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
 
 #### (D) Exceptions to the timeline
 
@@ -470,7 +470,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (j) Maintenance of current educational placement
 
-Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or localeducational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
+Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
 
 #### (k) Placement in alternative educational setting
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant membersof the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -528,7 +528,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) knowingly possesses or uses illegal drugs, or sells or solicits the sale of a controlled substance, while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency; or
 
-&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school functionunder the jurisdiction of a State or local educational agency.
+&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency.
 
 #### (H) Notification
 
@@ -570,7 +570,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (A) In general
 
-&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
+&emsp;&emsp;A child who has not been determined to be eligible for special education and relatedservices under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
 
 #### (B) Basis of knowledge
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educationalplacement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 
@@ -634,7 +634,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (1) In general
 
-&emsp;A State that receives amounts from a grant under this subchapter may provide that, when a child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
+&emsp;A State that receives amounts from a grant under this subchapter may provide that, whena child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
 
 &emsp;&emsp;(A) the agency shall provide any notice required by this section to both the individual and the parents;
 
@@ -672,7 +672,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112,
 
 #### Prior Provisions
 
-A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

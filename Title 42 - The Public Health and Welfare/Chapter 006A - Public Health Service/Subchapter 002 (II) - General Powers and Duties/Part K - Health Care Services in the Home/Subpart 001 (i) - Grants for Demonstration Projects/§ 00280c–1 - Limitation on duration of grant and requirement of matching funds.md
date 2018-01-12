@@ -16,7 +16,7 @@ The period during which payments are made to a State from a grant under section 
 
 &emsp;(A) for the first year of payments to the State from the grant, not less than $25 (in cash or in kind under subsection (c)) for each $75 of Federal funds provided in the grant;
 
-&emsp;(B) for the second year of such payments to the State, not less than $35 (in cash or in kindunder subsection (c)) for each $65 of such Federal funds; and
+&emsp;(B) for the second year of such payments to the State, not less than $35 (in cash or in kind under subsection (c)) for each $65 of such Federal funds; and
 
 &emsp;(C) for the third year of such payments to the State, not less than $45 (in cash or in kind under subsection (c)) for each $55 of such Federal funds.
 
@@ -29,4 +29,8 @@ Non-Federal contributions required in subsection (b) may be in cash or in kind, 
 #### Prior Provisions
 
 A prior section 396 of act July 1, 1944, ch. 373, title III, formerly §398, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1065; renumbered §397 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(f), 7, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(e), 87 Stat. 92; renumbered §396 and amended July 23, 1974, Pub. L. 93–353, title II, §§202(e), (f), 203(d), 204, 88 Stat. 372, 373, which related to grants for establishment of regional medical libraries, was classified to section 280b–8 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

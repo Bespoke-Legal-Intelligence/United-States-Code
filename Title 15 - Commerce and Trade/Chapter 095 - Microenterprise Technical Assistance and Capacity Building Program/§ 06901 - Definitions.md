@@ -12,7 +12,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (3) Capacity building services
 
-&emsp;The term "capacity building services" means services provided to an organizationthat is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
+&emsp;The term "capacity building services" means services provided to an organization that is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
 
 #### (4) Collaborative
 

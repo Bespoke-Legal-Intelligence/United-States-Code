@@ -1,0 +1,6 @@
+### §3797u–5. Transferred
+
+#### Codification
+
+Section 3797u–5 was editorially reclassified as section 10616 of Title 34, Crime Control and Law Enforcement.
+

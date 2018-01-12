@@ -72,6 +72,10 @@ For purposes of this section—
 
 &emsp;The term "post-change year" means any taxable year ending after the change date.
 
+#### (3) Application to carryforward of disallowed interest
+
+&emsp;The term "pre-change loss" shall include any carryover of disallowed interest described in section 163(j)(2) under rules similar to the rules of paragraph (1).
+
 #### (e) Value of old loss corporation
 
 For purposes of this section—
@@ -194,7 +198,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxableyear shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
+&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
 
 #### (ii) Limitation
 
@@ -288,7 +292,7 @@ For purposes of this section—
 
 &emsp;For purposes of subsection (b)(3)—
 
-&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed withoutregard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
+&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
 
 &emsp;&emsp;(B) in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
 
@@ -304,7 +308,7 @@ For purposes of this section—
 
 #### (C) Adjustments
 
-&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted foramounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
 
 #### (7) Recognition period, etc.
 
@@ -354,7 +358,7 @@ For purposes of this section—
 
 #### (1) Loss corporation
 
-&emsp;The term "loss corporation" means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
+&emsp;The term "loss corporation" means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20). Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
 
 #### (2) Old loss corporation
 
@@ -474,7 +478,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
 
-&emsp;&emsp;&emsp;(iii) stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
+&emsp;&emsp;&emsp;(iii) <sup>1</sup> stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
 
 > &emsp;&emsp;such person shall be treated as owning such stock during the period such stock was owned by the person from whom it was acquired.
 
@@ -622,13 +626,27 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
+
+#### Amendment of Subsection (l)(3)(B)(iii)
+
+<i>Pub. L. 115–97, title I, §11051(b)(3)(F), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (l)(3)(B)(iii) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (l)(3)(B)(iii) reads as follows:</i>
+
+&emsp;&emsp;&emsp;<i>(iii) stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L.110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(3). Pub. L. 115–97, §13301(b)(2), added par. (3).
+
+Subsec. (k)(1). Pub. L. 115–97, §13301(b)(3), inserted after first sentence "Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20)."
+
+Subsec. (l)(3)(B)(iii). Pub. L. 115–97, §11051(b)(3)(F), substituted "section 121(d)(3)(C)" for "section 71(b)(2)".
 
 <b>2014</b>—Subsec. (l)(5)(F) to (H). Pub. L. 113–295 redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which related to a special rule for certain financial institutions for certain equity structure shifts and transactions occurring before May 10, 1989.
 
@@ -714,7 +732,7 @@ Subsec. (l)(5)(A)(ii). Pub. L. 100–647, §1006(d)(25), substituted "stock of a
 
 Pub. L. 100–647, §1006(d)(7), substituted "after such ownership change and as a result of being shareholders or creditors immediately before such change" for "immediately after such ownership change".
 
-Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits\(within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
+Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
 
 Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
 
@@ -758,6 +776,12 @@ Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e).
 
 <b>1964</b>—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11051(b)(3)(F) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+
+Amendment by section 13301(b)(2), (3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13301(c) of Pub. L. 115–97, set out as a note under section 163 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -784,7 +808,7 @@ Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwis
 
 Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
 
-Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided,as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Pub. L. 101–73, title XIV, §1401(c)(2), Aug. 9, 1989, 103 Stat. 550, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall apply to transactions on or after May 10, 1989."
 
@@ -878,7 +902,7 @@ Election to have amendments apply.—
 
 Application of old rules to certain debt.—In the case of debt of a corporation incorporated in Colorado on November 8, 1924, and reincorporated in Delaware in 1987, with headquarters in Denver, Colorado—
 
-&emsp;&emsp;"(i) the amendments made by subsections (a), (b), and (c) shall not apply to any debt restructuring of such debt which was approved by the debtor's Board of Directors and the lenders in 1986, and
+&emsp;&emsp;"(i) the amendments made by subsections (a), (b), and (c) shall not apply to any debt restructuring ofsuch debt which was approved by the debtor's Board of Directors and the lenders in 1986, and
 
 &emsp;&emsp;"(ii) the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 shall not apply to such debt restructuring, except that the amendment treated as part of such subsections under section 59(b) of the Tax Reform Act of 1984 (relating to qualified workouts) shall apply to such debt restructuring.
 
@@ -944,7 +968,7 @@ Pub. L. 98–369, div. A, title I, §62(b)(2), July 18, 1984, 98 Stat. 583, prov
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) of Pub. L. 97–34, set out as a note under section 368 of this title.
+Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) ofPub. L. 97–34, set out as a note under section 368 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -954,7 +978,7 @@ Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title VIII, §806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III,§368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, §8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, §9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, §111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, §62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, §621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
+Pub. L. 94–455, title VIII, §806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III, §368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, §8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, §9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, §111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, §62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, §621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
 
 #### Effective Date of 1964 Amendment
 
@@ -1005,4 +1029,6 @@ Binding contracts.—Notwithstanding paragraph (1), Internal Revenue Service Not
 #### Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts
 
 Pub. L. 99–514, title VI, §621(d), Oct. 22, 1986, 100 Stat. 2266, directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, §11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
+
+<i><sup>1</sup></i><i> See Amendment of Subsection (l)(3)(B)(iii) note below.</i>
 

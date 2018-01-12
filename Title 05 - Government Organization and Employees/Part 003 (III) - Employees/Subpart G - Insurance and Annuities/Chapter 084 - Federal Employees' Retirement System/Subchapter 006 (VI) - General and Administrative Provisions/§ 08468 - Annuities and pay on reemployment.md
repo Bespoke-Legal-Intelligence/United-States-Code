@@ -16,13 +16,13 @@
 
 (c) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
-(d) If an annuitant becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, the annuitant may, at anytime prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8424(a), the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
+(d) If an annuitant becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, the annuitant may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8424(a), the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
 
 (e) A reference in this section to an "annuity" shall not be considered to include any amount payable from a source other than the Fund.
 
 (f)(1) The Director of the Office of Personnel Management may, at the request of the head of an Executive agency—
 
-&emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+&emsp;(A) waive the application of the preceding provisions of this section on a case-by-casebasis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
 &emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) for more than a total of 3120 hours of service performed by that annuitant.
 
-(4)(A) The total number of annuitants to whom a waiver by the head of an agency underthis subsection or section 8344(l) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
+(4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
 
 (B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 113–291 effective as of Oct. 28, 2014, see section 1107(c
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 #### Effective Date of 1997 Amendment
 

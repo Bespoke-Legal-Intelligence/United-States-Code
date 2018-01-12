@@ -8,7 +8,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (1) In general
 
-&emsp;For the purpose of the exercise by the Federal Trade Commission of the Commission's functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], any violation of any requirement or prohibition imposed under this subchapter with respect to credit repair organizations shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\].
+&emsp;For the purpose of the exercise by the Federal Trade Commission of the Commission'sfunctions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], any violation of any requirement or prohibition imposed under this subchapter with respect to credit repair organizations shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\].
 
 #### (2) Enforcement authority under other law
 

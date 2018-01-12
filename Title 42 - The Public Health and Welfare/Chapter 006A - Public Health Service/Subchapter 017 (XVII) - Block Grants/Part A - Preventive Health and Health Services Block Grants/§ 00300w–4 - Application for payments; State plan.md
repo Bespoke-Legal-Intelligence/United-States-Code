@@ -92,7 +92,7 @@ The certification referred to in subsection (a)(3) for a fiscal year is a certif
 
 &emsp;&emsp;(A) to hold public hearings on the State plan required in subsection (a)(2); and
 
-&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) regarding the developmentand implementation of such plan, including recommendations on—
+&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) regarding the development and implementation of such plan, including recommendations on—
 
 &emsp;&emsp;&emsp;(i) the conduct of assessments of the public health;
 
@@ -139,6 +139,10 @@ Subsec. (e). Pub. L. 98–555, §5(d), struck out subsec. (e) which related to g
 #### Effective Date of 1986 Amendments
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, respectively, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date
+
+Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in part as a note under section 300w of this title.
 
 #### Delayed Applicability of Requirement Regarding Advisory Committees
 

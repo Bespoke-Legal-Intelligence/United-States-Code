@@ -22,7 +22,7 @@ Movement of Personal Property.—(1) A member of a uniformed service may be allo
 
 (d)
 
-Unusual or Emergency Circumstances.—An authorized traveler may be provided traveland transportation allowances under this section for unusual, extraordinary, hardship, or emergency circumstances, including circumstances warranting evacuation from a permanent duty assignment location.
+Unusual or Emergency Circumstances.—An authorized traveler may be provided travel and transportation allowances under this section for unusual, extraordinary, hardship, or emergency circumstances, including circumstances warranting evacuation from a permanent duty assignment location.
 
 (e)
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) the language used to specify each such formula in the law authorizing the program;
 
-&emsp;&emsp;(B) the language used to specify each such formula in any Federal rule promulgated pursuant to the law authorizing the program; or
+&emsp;&emsp;(B) the language used to specify each such formula in any Federal rule promulgatedpursuant to the law authorizing the program; or
 
 &emsp;&emsp;(C) a mathematical statement which is derived from the language referred to in subparagraphs (A) and (B) of this paragraph;
 

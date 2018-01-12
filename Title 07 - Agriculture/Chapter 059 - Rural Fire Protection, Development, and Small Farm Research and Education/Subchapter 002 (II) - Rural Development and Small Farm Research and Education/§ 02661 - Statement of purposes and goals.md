@@ -10,7 +10,7 @@
 
 &emsp;(4) expand small farm research and extend training and technical assistance to small farm families in assessing their needs and opportunities and in using the best available knowledge on sound economic approaches to small farm operations and on existing services offered by the Department of Agriculture and other public and private agencies and organizations to improve their income and to gain access to essential facilities and services; and
 
-&emsp;(5) support activities to supplement and extend programs that address special research and education needs in States experiencing rapid social and economic adjustments orunique problems caused by rural isolation and that address national and regional rural development policies, strategies, issues, and programs.
+&emsp;(5) support activities to supplement and extend programs that address special research and education needs in States experiencing rapid social and economic adjustments or unique problems caused by rural isolation and that address national and regional rural development policies, strategies, issues, and programs.
 
 (b) the <sup>1</sup> goals of this subchapter are to—
 

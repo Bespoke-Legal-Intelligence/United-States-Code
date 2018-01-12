@@ -6,7 +6,7 @@ There are established in the Department of Labor nine offices of Assistant Secre
 
 #### Codification
 
-Provisions of this section which prescribed the basic annual compensation of the Assistant Secretaries were omitted to conform to the provisions of the Executive Schedule. See section 5315 of Title 5, Government Organization and Employees.
+Provisions of this section which prescribed the basic annual compensation of the Assistant Secretaries were omitted to conform to the provisions of the ExecutiveSchedule. See section 5315 of Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 611b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 

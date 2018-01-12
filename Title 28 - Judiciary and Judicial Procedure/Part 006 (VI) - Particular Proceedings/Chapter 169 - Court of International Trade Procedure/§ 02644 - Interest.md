@@ -1,6 +1,6 @@
 ### §2644. Interest
 
-If, in a civil action in the Court of International Trade under section 515 of the Tariff Act of 1930, the plaintiff obtains monetary relief by a judgment or under a stipulation agreement, interest shall be allowed at an annual rate established under section 6621 of the Internal Revenue Code of 1986. Such interest shall be calculated from the date of the filing of the summons in such action to the date of the refund.
+If, in a civil action in the Court of International Trade under section 515 of the TariffAct of 1930, the plaintiff obtains monetary relief by a judgment or under a stipulation agreement, interest shall be allowed at an annual rate established under section 6621 of the Internal Revenue Code of 1986. Such interest shall be calculated from the date of the filing of the summons in such action to the date of the refund.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -16,5 +16,5 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in text, is class
 
 #### Effective Date
 
-Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B)of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 

@@ -16,13 +16,13 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(1) such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which they will be entitled under section 9004, and
 
-&emsp;(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(d),<sup>1</sup> and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
+&emsp;(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(d),<sup>1</sup> and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted bysuch candidates or any of their authorized committees.
 
 > Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
 
 #### (c) Minor and new parties
 
-In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission under penalty of perjury, that—
+In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission, under penalty of perjury, that—
 
 &emsp;(1) such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004, and
 
@@ -52,7 +52,7 @@ No candidate for the office of President or Vice President may receive amounts f
 
 Pub. L. 94–283 added subsec. (d).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing, struck out in par. (1) "with respect to which paymentis sought" after "campaign expenses" and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing, struck out in par. (1) "with respect to which payment is sought" after "campaign expenses" and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
 
 Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "Comptroller General" wherever appearing.
 

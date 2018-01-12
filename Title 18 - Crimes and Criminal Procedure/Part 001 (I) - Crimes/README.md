@@ -101,7 +101,7 @@
 | [<b>111.</b>](Chapter%20111%20-%20Shipping/README.md) | <b>Shipping</b> | <b>2271</b> |
 | [<b>111A.</b>](Chapter%20111A%20-%20Destruction%20of%2C%20or%20Interference%20with%2C%20Vessels%20or%20Maritime%20Facilities/README.md) | <b>Destruction of, or interference with, vessels or maritime facilities</b> | <b>2290</b> |
 | [<b>113.</b>](Chapter%20113%20-%20Stolen%20Property/README.md) | <b>Stolen property</b> | <b>2311</b> |
-| [<b>113A.</b>](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md) | <b>Telemarketing fraud</b> | <b>2325</b> |
+| [<b>113A.</b>](Chapter%20113A%20-%20Telemarketing%20and%20Email%20Marketing%20Fraud/README.md) | <b>Telemarketing and email marketing fraud</b> | <b>2325</b> |
 | [<b>113B.</b>](Chapter%20113B%20-%20Terrorism/README.md) | <b>Terrorism</b> | <b>2331</b> |
 | [<b>113C.</b>](Chapter%20113C%20-%20Torture/README.md) | <b>Torture</b> | <b>2340</b> |
 | [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes%20and%20Smokeless%20Tobacco/README.md) | <b>Trafficking in contraband cigarettes and smokeless tobacco</b> | <b>2341</b> |
@@ -120,6 +120,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–70, title IV, §402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted "Telemarketing and email marketing fraud" for "Telemarketing fraud" in item for chapter 113A.
 
 <b>2006</b>—Pub. L. 109–248, title I, §141(a)(2), July 27, 2006, 120 Stat. 602, added item for chapter 109B.
 
@@ -167,7 +169,7 @@ Pub. L. 101–298, §3(c), May 22, 1990, 104 Stat. 203, added item for chapter 1
 
 Pub. L. 100–606, §2(b), Nov. 4, 1988, 102 Stat. 3047, added item for chapter 50A.
 
-<b>1986</b>—Pub. L. 99–646, §87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, §3(a)(7), Nov. 14, 1986, 100 Stat. 3663, amended analysis identically, striking out item for chapter 99 "Rape" and adding item for chapter 109A.
+<b>1986</b>—Pub. L. 99–646, §87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, §3(a)(7), Nov. 14, 1986, 100 Stat.3663, amended analysis identically, striking out item for chapter 99 "Rape" and adding item for chapter 109A.
 
 Pub. L. 99–628, §5(a)(2), Nov. 7, 1986, 100 Stat. 3511, substituted "Transportation for illegal sexual activity and related crimes" for "White slave traffic" as item for chapter 117.
 
@@ -302,7 +304,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 111 - Shipping](Chapter%20111%20-%20Shipping/README.md)
 - [Chapter 111A - Destruction of, or Interference with, Vessels or Maritime Facilities](Chapter%20111A%20-%20Destruction%20of%2C%20or%20Interference%20with%2C%20Vessels%20or%20Maritime%20Facilities/README.md)
 - [Chapter 113 - Stolen Property](Chapter%20113%20-%20Stolen%20Property/README.md)
-- [Chapter 113A - Telemarketing Fraud](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md)
+- [Chapter 113A - Telemarketing and Email Marketing Fraud](Chapter%20113A%20-%20Telemarketing%20and%20Email%20Marketing%20Fraud/README.md)
 - [Chapter 113B - Terrorism](Chapter%20113B%20-%20Terrorism/README.md)
 - [Chapter 113C - Torture](Chapter%20113C%20-%20Torture/README.md)
 - [Chapter 114 - Trafficking in Contraband Cigarettes and Smokeless Tobacco](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes%20and%20Smokeless%20Tobacco/README.md)

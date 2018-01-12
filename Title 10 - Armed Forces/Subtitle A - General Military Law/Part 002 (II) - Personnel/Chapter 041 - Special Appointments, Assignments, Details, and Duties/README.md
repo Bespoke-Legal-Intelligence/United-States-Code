@@ -48,7 +48,7 @@ Pub. L. 96–215, §2(b), Mar. 25, 1980, 94 Stat. 123, inserted "and to and from
 
 <b>1962</b>—Pub. L. 87–651, title I, §103(b), title II, §205(b), Sept. 7, 1962, 76 Stat. 508, 519, redesignated item 716, relating to participation of members of the armed forces in international sports, as 717, and added item 718.
 
-<b>1960</b>—Pub. L. 86–533, §1(5)(B), June 29, 1960, 74 Stat. 246, repealed item 714 "Reports to Congress on length oftours of duty outside United States by members of Army and Air Force".
+<b>1960</b>—Pub. L. 86–533, §1(5)(B), June 29, 1960, 74 Stat. 246, repealed item 714 "Reports to Congress on length of tours of duty outside United States by members of Army and Air Force".
 
 <b>1958</b>—Pub. L. 85–861, §1(18), Sept. 2, 1958, 72 Stat. 1442, added item 716, relating to participation of members of the armed forces in international sports.
 

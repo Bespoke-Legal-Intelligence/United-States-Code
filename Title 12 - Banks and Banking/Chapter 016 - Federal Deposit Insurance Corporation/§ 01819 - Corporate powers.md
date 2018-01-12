@@ -62,7 +62,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 #### (3) Service of process
 
-&emsp;The Board of Directors shall designate agents upon whom service of process may be made in any State, territory, or jurisdiction in which any insured depository institution is located.
+&emsp;The Board of Directors shall designate agents upon whom service of process may bemade in any State, territory, or jurisdiction in which any insured depository institution is located.
 
 #### (4) Bonds or fees
 

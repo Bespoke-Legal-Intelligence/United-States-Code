@@ -16,7 +16,7 @@ Whenever any patent has been declared affected with the public interest, pursuan
 
 Any person—
 
-&emsp;(1) who has made application to the Commission for a license under sections 2073, 2092, 2093, 2111, 2133 or 2134 of this title, or a permit or lease under section 2097 of this title;
+&emsp;(1) who has made application to the Commission for a license under sections 2073, 2092,2093, 2111, 2133 or 2134 of this title, or a permit or lease under section 2097 of this title;
 
 &emsp;(2) to whom such license, permit, or lease has been issued by the Commission;
 
@@ -34,7 +34,7 @@ Whenever any person has made an application to the Commission for a patent licen
 
 &emsp;(2) the Commission shall hold a hearing within 60 days after the filing of such application at a time and place designated by the Commission; and
 
-&emsp;(3) in the event an applicant applies for two or more patent licenses, the Commission may,in its discretion, order the consolidation of such applications, and if the patents are owned by more than one owner, such owners may be made parties to one hearing.
+&emsp;(3) in the event an applicant applies for two or more patent licenses, the Commission may, in its discretion, order the consolidation of such applications, and if the patents are owned by more than one owner, such owners may be made parties to one hearing.
 
 #### (e) Commission's findings
 

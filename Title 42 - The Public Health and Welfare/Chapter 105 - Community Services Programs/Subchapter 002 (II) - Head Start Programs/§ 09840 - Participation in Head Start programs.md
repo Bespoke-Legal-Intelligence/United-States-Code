@@ -44,13 +44,13 @@
 
 &emsp;(A) there is no other preschool program in the community;
 
-&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) <sup>2</sup> of this title and is located in a health professionalshortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
+&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) <sup>2</sup> of this title and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
 
 &emsp;(C) the community is in a location which, by reason of remoteness, does not permit reasonable access to the types of services described in clauses (A) and (B); and
 
 &emsp;(D) not less than 50 percent of the families to be served in the community are eligible under the eligibility criteria established by the Secretary under paragraph (1);
 
-> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
+> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994,and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
 
 (3)(A) In this paragraph:
 
@@ -92,7 +92,7 @@
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
-The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so. A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving theservices through participation in a program carried out by another agency or entity.
+The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so. A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.
 
 #### (c) Availability of more than one year of services; children eligible
 
@@ -104,7 +104,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 &emsp;(A) operates a Head Start program;
 
-&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
+&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribalgovernment, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
 
 &emsp;(C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 
 Subsec. (a)(2)(B). Pub. L. 101–597 substituted "health professional shortage area" for "health manpower shortage area".
 
-Subsec. (c). Pub. L. 101–501, §114, inserted at end "The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start programin accordance with the authority described in the preceding sentence."
+Subsec. (c). Pub. L. 101–501, §114, inserted at end "The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence."
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–425 substituted "1990" for "1986" in closing provisions.
 

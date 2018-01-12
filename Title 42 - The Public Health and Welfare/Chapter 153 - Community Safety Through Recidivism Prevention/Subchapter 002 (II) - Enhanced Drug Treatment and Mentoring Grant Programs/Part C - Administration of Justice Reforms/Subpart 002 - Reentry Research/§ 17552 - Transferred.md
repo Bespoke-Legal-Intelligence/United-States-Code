@@ -1,0 +1,6 @@
+### §17552. Transferred
+
+#### Codification
+
+Section 17552 was editorially reclassified as section 60552 of Title 34, Crime Control and Law Enforcement.
+

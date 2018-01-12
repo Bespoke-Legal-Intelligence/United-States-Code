@@ -40,7 +40,7 @@
 
 #### (b) United States policy concerning reform of diplomatic immunity
 
-It is the sense of the Congress that the Secretary of State should explore, in appropriate fora, whether states should enter into agreements and adopt legislation—
+It is the sense of the Congress that the Secretary of State should explore, in appropriatefora, whether states should enter into agreements and adopt legislation—
 
 &emsp;(1) to provide jurisdiction in the sending state to prosecute crimes committed in the receiving state by persons entitled to immunity from criminal jurisdiction under laws extending diplomatic privileges and immunities; and
 

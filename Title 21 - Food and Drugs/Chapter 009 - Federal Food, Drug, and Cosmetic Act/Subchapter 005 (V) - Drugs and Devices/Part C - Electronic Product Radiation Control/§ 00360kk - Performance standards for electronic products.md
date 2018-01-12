@@ -36,7 +36,7 @@ Each regulation prescribing, amending, or revoking a standard shall specify the 
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Secretary, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendations, if any, for the modification or setting aside of his original regulation, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the regulation in accordance with chapter 7 of title 5 and togrant appropriate relief as provided in such chapter.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such regulation of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 

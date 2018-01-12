@@ -49,7 +49,7 @@
 
 > as the case may be.
 
-(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
+(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
 
 #### Prior Provisions
 
@@ -75,7 +75,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3452(a)(1)" for "1652(a)(
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–237 substituted "$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training" for "computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course".
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column Vfrom $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column V from $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "section 2 of the Act of August 16, 1937 (popularly known as the 'National Apprenticeship Act') (29 U.S.C. 50a)" for "section 50a of title 29" in cl. (1), and inserted "of this title" after "34 and 35" in provisions following cl. (2).
 
@@ -153,7 +153,7 @@ Section effective Oct. 1, 1972, except for those veterans and eligible persons i
 
 Pub. L. 108–454, title I, §103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
 
-"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section3687 of title 38, United States Code, shall be applied as if—
+"(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section 3687 of title 38, United States Code, shall be applied as if—
 
 &emsp;"(A) the reference to '$574 for the first six months' were a reference to '$650 for the first six months';
 

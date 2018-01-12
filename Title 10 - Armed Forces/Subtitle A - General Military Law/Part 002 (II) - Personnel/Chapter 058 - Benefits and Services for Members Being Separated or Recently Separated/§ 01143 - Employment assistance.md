@@ -2,7 +2,15 @@
 
 (a)
 
-Employment Skills Verification.—The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+
+(2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
+
+&emsp;(A) establish a database to record all training performed by members of the Army, Navy, Air Force, and Marine Corps that may have application to employment in the civilian sector; and
+
+&emsp;(B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
+
+(3) The Secretary of Defense shall ensure that a certification or verification of job skills and experience required by paragraph (1) is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
 
 (b)
 
@@ -10,7 +18,15 @@ Employment Assistance Centers.—The Secretary of Defense shall establish perman
 
 (c)
 
-Information to Civilian Entities.—For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+Information to Civilian Entities.—(1) For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+
+(2)(A) A State may—
+
+&emsp;(i) use a certification or verification of job skills and experience provided to a member of the armed forces under subsection (a); and
+
+&emsp;(ii) in the case of members of the Army, Navy, Air Force, and Marine Corps, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
+
+(B) A response confirming or denying the information shall be provided within five business days.
 
 (d)
 
@@ -28,9 +44,13 @@ Employment Skills Training.—(1) The Secretary of a military department may car
 
 (3) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91, §542(a), (b), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (c). Pub. L. 115–91, §542(c), designated existing provisions as par. (1) and added par. (2).
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted "when it is not operating as a service in the Navy" after "Coast Guard".
 
@@ -57,6 +77,18 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Authority To Expand Eligibility for the United States Military Apprenticeship Program
+
+Pub. L. 115–91, div. A, title V, §546, Dec. 12, 2017, 131 Stat. 1397, provided that:
+
+"(a)
+
+Expansion Authorized.—The Secretary of Defense may expand eligibility for the United Services Military Apprenticeship Program to include any member of the uniformed services.
+
+"(b)
+
+Definition.—In this section, the term 'uniformed services' has the meaning given such term in section 101(a)(5) of title 10, United States Code."
 
 #### Pilot Program To Assist Members of the Armed Forces in Obtaining Post-Service Employment
 
@@ -100,7 +132,7 @@ Eligible Civilian Employment Staffing Agencies.—In consultation with the progr
 
 "(e)
 
-Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member's hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have been verified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
+Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member's hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have beenverified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
 
 "(f)
 
@@ -196,7 +228,7 @@ Provision of Assistance.—
 
 &emsp;"(1)
 
-Determination of amount.—The amount of assistance provided under subsection (a) to a member of the Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic pay to which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
+Determination of amount.—The amount of assistance provided under subsection (a) to a member ofthe Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic pay to which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
 
 &emsp;"(2)
 
@@ -274,7 +306,7 @@ State Agencies.—(1) The implementing official may enter into contracts or agre
 
 "(c)
 
-Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basis for a delay in carrying out this program within the time limit established by subsection (a).
+Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basisfor a delay in carrying out this program within the time limit established by subsection (a).
 
 #### "SEC. 4485. ELIGIBILITY FOR PROGRAM; PERIOD OF TRAINING.
 
@@ -508,7 +540,7 @@ Rate of Completion.—(1) If the implementing official determines that the rate 
 
 "(a)
 
-Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well as other records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well asother records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 "(b)
 
@@ -608,7 +640,7 @@ Assistance To Participate.—The Secretary, the Secretary of Veterans Affairs, a
 
 "(f)
 
-Collection of Certain Information.—The Secretary of Labor shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State informationavailable to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of eligible persons who receive counseling services pursuant to section 4493, who are referred to employers participating under this subtitle, who participate in programs of job training under this subtitle (including a description of the nature of the training and salaries that are part of such programs), and who complete such programs, and the reasons for eligible persons' noncompletion.
+Collection of Certain Information.—The Secretary of Labor shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of eligible persons who receive counseling services pursuant to section 4493, who are referred to employers participating under this subtitle, who participate in programs of job training under this subtitle (including a description of the nature of the training and salaries that are part of such programs), and who complete such programs, and the reasons for eligible persons' noncompletion.
 
 #### "SEC. 4495. AUTHORIZATION OF APPROPRIATIONS.
 

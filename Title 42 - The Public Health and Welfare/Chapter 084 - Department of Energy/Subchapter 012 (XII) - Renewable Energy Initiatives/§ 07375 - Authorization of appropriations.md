@@ -4,7 +4,7 @@
 
 (b) There is authorized to be appropriated for each of the fiscal years 1981 and 1982 not to exceed $100,000,000 for loans under section 403 of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 2703\]; and the amounts appropriated pursuant to this subsection shall remain available until expended.
 
-(c) There is authorized to be appropriated for the fiscal year 1981 not to exceed $10,000,000 tocarry out section 7374 of this title (relating to energy self-sufficiency initiatives).
+(c) There is authorized to be appropriated for the fiscal year 1981 not to exceed $10,000,000 to carry out section 7374 of this title (relating to energy self-sufficiency initiatives).
 
 (Pub. L. 96–294, title IV, §409, June 30, 1980, 94 Stat. 719.)
 

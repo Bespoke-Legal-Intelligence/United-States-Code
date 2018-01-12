@@ -54,7 +54,7 @@ Nothing in section 894 or 7852(d) or in any other provision of law shall be cons
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted "and regulations providing that any tax imposed on theforeign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation".
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted "and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation".
 
 Subsec. (e). Pub. L. 99–514, §1810(j)(2), added subsec. (e).
 
@@ -142,7 +142,7 @@ Pub. L. 105–206, title VII, §7002, July 22, 1998, 112 Stat. 827, provided tha
 
 "(a)
 
-In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
+In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L.98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
 
 "(b)
 

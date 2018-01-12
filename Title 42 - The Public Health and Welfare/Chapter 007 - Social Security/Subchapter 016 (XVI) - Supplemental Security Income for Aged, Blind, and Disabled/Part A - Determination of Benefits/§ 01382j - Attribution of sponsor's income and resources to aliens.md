@@ -2,7 +2,7 @@
 
 #### (a) Attribution as unearned income
 
-For purposes of determining eligibility for and the amount of benefits under this subchapter for an individual who is an alien, the income and resources of any person who (as a sponsor of such individual's entry into the United States) executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse, shall be deemed to be the income and resources of such individual (in accordance with subsections (b) and (c)) for a period of 3 years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+For purposes of determining eligibility for and the amount of benefits under this subchapter foran individual who is an alien, the income and resources of any person who (as a sponsor of such individual's entry into the United States) executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse, shall be deemed to be the income and resources of such individual (in accordance with subsections (b) and (c)) for a period of 3 years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 #### (b) Determination of amount and resources
 
@@ -30,7 +30,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 (1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
-(2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determinationunder this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
+(2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 

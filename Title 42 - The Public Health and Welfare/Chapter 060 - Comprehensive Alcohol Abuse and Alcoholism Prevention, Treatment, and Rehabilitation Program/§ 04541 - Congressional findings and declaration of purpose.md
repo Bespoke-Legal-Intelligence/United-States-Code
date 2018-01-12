@@ -24,7 +24,7 @@
 
 &emsp;(2) the development of methods for diverting problem drinkers from criminal justice systems into prevention and treatment programs;
 
-&emsp;(3) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
+&emsp;(3) the development and encouragement of prevention programs designed to combat thespread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
 
 &emsp;(4) the development and encouragement of effective occupational prevention and treatment programs within government and in cooperation with the private sector; and
 
@@ -66,7 +66,7 @@ Pub. L. 94–371, §1, July 26, 1976, 90 Stat. 1035, provided: "That this Act \[
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–282, title I, §101, May 14, 1974, 88 Stat. 126, provided that: "This title \[enacting this section and sections 4542, 4553, 4576, and 4577 of this title, amendingsections 242a, 4571, 4572, 4573, 4581, and 4582 of this title, and enacting provisions set out as notes under sections 4581 and 4582 of this title\] may be cited as the 'Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1974'."
+Pub. L. 93–282, title I, §101, May 14, 1974, 88 Stat. 126, provided that: "This title \[enacting this section and sections 4542, 4553, 4576, and 4577 of this title, amending sections 242a, 4571, 4572, 4573, 4581, and 4582 of this title, and enacting provisions set out as notes under sections 4581 and 4582 of this title\] may be cited as the 'Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1974'."
 
 #### Short Title
 

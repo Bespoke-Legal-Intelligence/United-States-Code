@@ -8,7 +8,7 @@ Section 1882, definitions;
 
 Section 1883, cooperative agreements and period of assignment;
 
-Section 1884, amended Aug. 4, 1965, Pub. L. 89–106, §6, 79 Stat. 432, Departmental employees, status, salaryand leave rights, and disability or death arising out of injury;
+Section 1884, amended Aug. 4, 1965, Pub. L. 89–106, §6, 79 Stat. 432, Departmental employees, status, salary and leave rights, and disability or death arising out of injury;
 
 Section 1885, travel expenses of departmental employees;
 

@@ -30,7 +30,7 @@ Subsecs. (c), (d). Pub. L. 92–226, §101(c)(2), added subsecs. (c) and (d).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Establishment of Standard Governing Allocation of Development Assistance for Production and Export of Commodities in Surplus in World Market; Presidential Initiation of International Consultations; Report by President to Congress
 

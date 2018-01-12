@@ -135,7 +135,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 Pub. L. 96–222, title I, §§101(a)(7)(L)(v)(X), 107(a)(2)(E), Apr. 1, 1980, 94 Stat. 201, 223, redesignated item 6698, relating to failure to file information with respect to carry-over basis property, as 6698A and substituted "tax credit employee stock ownership plan" for "ESOP" in item 6699.
 
-<b>1978</b>—Pub. L. 95–600, title VII, §701(r)(1)(C), Nov. 6, 1978, 92 Stat. 2938, which redesignated item 6694 "Failure to file information with respect to carryover basis property" as item 6698, was repealed by Pub. L. 96–223, §401(a). See section 401(b), (e) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments and Revival of Prior Law note under section 1023 of this title.
+<b>1978</b>—Pub. L. 95–600, title VII, §701(r)(1)(C), Nov. 6, 1978, 92 Stat. 2938, which redesignated item 6694 "Failure to file information with respect to carryover basisproperty" as item 6698, was repealed by Pub. L. 96–223, §401(a). See section 401(b), (e) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments and Revival of Prior Law note under section 1023 of this title.
 
 Pub. L. 95–600, title I, §141(c)(2), title II, §211(b), title III, §362(d)(9), Nov. 6, 1978, 92 Stat. 2794, 2818, 2852, substituted "qualified investment entities" for "real estate investment trusts" in item 6697, and added item 6698 "Failure to file partnership return" and item 6699 "Assessable penalties relating to ESOP".
 

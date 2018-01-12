@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 86–108, §401(f)(2), substituted provisions making the Se
 
 #### Repeals
 
-Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565,pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected this section.
+Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected this section.
 
 #### Delegation of Functions
 

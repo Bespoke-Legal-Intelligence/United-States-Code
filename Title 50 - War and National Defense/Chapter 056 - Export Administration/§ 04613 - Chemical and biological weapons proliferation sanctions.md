@@ -48,7 +48,7 @@
 
 #### (2) Actions by government of jurisdiction
 
-&emsp;In order to pursue such consultations with that government, the President may delay imposition of sanctions pursuant to this section for a period of up to 90 days. Following these consultations, the President shall impose sanctions unless the President determines and certifies to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay imposition of sanctions for an additional period of up to 90 days if the President determines and certifies to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+&emsp;In order to pursue such consultations with that government, the President may delay imposition of sanctions pursuant to this section for a period of up to 90 days. Following these consultations, the President shall impose sanctions unless the President determines and certifies to the Congress that that governmenthas taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay imposition of sanctions for an additional period of up to 90 days if the President determines and certifies to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
 #### (3) Report to Congress
 

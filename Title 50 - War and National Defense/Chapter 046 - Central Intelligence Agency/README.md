@@ -15,7 +15,7 @@
 | [3510\.](%C2%A7%2003510%20-%20Appropriations.md) | Appropriations. |
 | [3510a.](%C2%A7%2003510a%20-%20Availability%20of%20appropriations%20for%20construction%20projects.md) | Availability of appropriations for construction projects. |
 | [3510b.](%C2%A7%2003510b%20-%20Acquisition%20of%20critical%20skills.md) | Acquisition of critical skills. |
-| [3511\.](%C2%A7%2003511%20-%20Authority%20to%20pay%20death%20gratuities.md) | Authority to pay death gratuities. |
+| [3511\.](%C2%A7%2003511%20-%20Benefits%20available%20in%20event%20of%20the%20death%20of%20personnel.md) | Benefits available in event of the death of personnel. |
 | [3512\.](%C2%A7%2003512%20-%20Gifts%2C%20devises%2C%20and%20bequests.md) | Gifts, devises, and bequests. |
 | [3513\.](%C2%A7%2003513%20-%20Misuse%20of%20Agency%20name%2C%20initials%2C%20or%20seal.md) | Misuse of Agency name, initials, or seal. |
 | [3514\.](%C2%A7%2003514%20-%20Retirement%20equity%20for%20spouses%20of%20certain%20employees.md) | Retirement equity for spouses of certain employees. |
@@ -52,7 +52,7 @@
 - [&sect; 03510 - Appropriations](%C2%A7%2003510%20-%20Appropriations.md)
 - [&sect; 03510a - Availability of appropriations for construction projects](%C2%A7%2003510a%20-%20Availability%20of%20appropriations%20for%20construction%20projects.md)
 - [&sect; 03510b - Acquisition of critical skills](%C2%A7%2003510b%20-%20Acquisition%20of%20critical%20skills.md)
-- [&sect; 03511 - Authority to pay death gratuities](%C2%A7%2003511%20-%20Authority%20to%20pay%20death%20gratuities.md)
+- [&sect; 03511 - Benefits available in event of the death of personnel](%C2%A7%2003511%20-%20Benefits%20available%20in%20event%20of%20the%20death%20of%20personnel.md)
 - [&sect; 03512 - Gifts, devises, and bequests](%C2%A7%2003512%20-%20Gifts%2C%20devises%2C%20and%20bequests.md)
 - [&sect; 03513 - Misuse of Agency name, initials, or seal](%C2%A7%2003513%20-%20Misuse%20of%20Agency%20name%2C%20initials%2C%20or%20seal.md)
 - [&sect; 03514 - Retirement equity for spouses of certain employees](%C2%A7%2003514%20-%20Retirement%20equity%20for%20spouses%20of%20certain%20employees.md)

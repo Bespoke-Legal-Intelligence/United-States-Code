@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(iv) any combination of clause (i), (ii), or (iii); and
 
-&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federalbenefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
+&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federal benefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
 
 (2) The penalties and conditions which may be imposed under this subsection shall be waived in the case of a person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
 

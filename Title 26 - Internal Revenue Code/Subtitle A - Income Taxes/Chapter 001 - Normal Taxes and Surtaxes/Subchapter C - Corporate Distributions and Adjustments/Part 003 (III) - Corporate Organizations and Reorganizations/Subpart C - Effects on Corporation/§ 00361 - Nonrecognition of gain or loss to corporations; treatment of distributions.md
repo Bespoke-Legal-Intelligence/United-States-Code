@@ -22,7 +22,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (2) Loss
 
-&emsp;If subsection (a) would apply to an exchange but for the fact that the property received in exchange consists not only of property permitted by subsection (a) to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+&emsp;If subsection (a) would apply to an exchange but for the fact that the property received in exchange consists not only of property permitted by subsection (a) to be received without the recognition of gain or loss, but also ofother property or money, then no loss from the exchange shall be recognized.
 
 #### (3) Treatment of transfers to creditors
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 101–508 applicable to distributions after Oct. 9, 1990, b
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

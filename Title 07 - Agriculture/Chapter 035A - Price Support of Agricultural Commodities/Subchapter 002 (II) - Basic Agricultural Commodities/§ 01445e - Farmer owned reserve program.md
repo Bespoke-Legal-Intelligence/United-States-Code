@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall formulate and administer a farmer owned reserve program under which producers of wheat and feed grains will be able to store wheat and feed grains when the commodities are in abundant supply, extend the time period for the orderly marketing of the commodities, and provide for adequate carryover stocks to ensure a reliable supply of the commodities.
+The Secretary shall formulate and administer a farmer owned reserve program under whichproducers of wheat and feed grains will be able to store wheat and feed grains when the commodities are in abundant supply, extend the time period for the orderly marketing of the commodities, and provide for adequate carryover stocks to ensure a reliable supply of the commodities.
 
 #### (b) Terms of program
 
@@ -148,7 +148,7 @@ Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
 Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
-<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to theestablishment and maintenance of the producer reserve program for wheat and feed grains.
+<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
 
 Subsec. (k). Pub. L. 101–624, §2010, added subsec. (k) relating to review.
 

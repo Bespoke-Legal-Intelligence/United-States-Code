@@ -104,7 +104,7 @@ Issuing notice of solicitation and establishing deadline for submitting bids and
 
 &emsp;&emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline for the submission of all bids or proposals in response to the notice required by subsection (a)(2) that—
 
-&emsp;&emsp;&emsp;(i) in the case of a solicitation for research and development, is earlier than 45days after the date the notice required for a bid or proposal for a contract described in subsection (a)(2)(A) is published;
+&emsp;&emsp;&emsp;(i) in the case of a solicitation for research and development, is earlier than 45 days after the date the notice required for a bid or proposal for a contract described in subsection (a)(2)(A) is published;
 
 &emsp;&emsp;&emsp;(ii) in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than 30 days after the date the notice required for an order described in subsection (a)(2)(B) is published; or
 

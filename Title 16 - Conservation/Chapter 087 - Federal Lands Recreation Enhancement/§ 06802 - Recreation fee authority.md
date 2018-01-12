@@ -72,7 +72,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 &emsp;&emsp;(F) Entrance on units of the National Park System containing deed restrictions on charging fees.
 
-&emsp;&emsp;(G) An area or unit covered under section 203 of the Alaska National Interest LandsConservation Act (Public Law 96–487; 16 U.S.C. 410hh–2), with the exception of Denali National Park and Preserve.
+&emsp;&emsp;(G) An area or unit covered under section 203 of the Alaska National Interest Lands Conservation Act (Public Law 96–487; 16 U.S.C. 410hh–2), with the exception of Denali National Park and Preserve.
 
 &emsp;&emsp;(H) A unit of the National Wildlife Refuge System created, expanded, or modified by the Alaska National Interest Lands Conservation Act (Public Law 96–487).
 
@@ -190,7 +190,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 #### (h) Special recreation permit fee
 
-The Secretary may issue a special recreation permit, and charge a special recreation permitfee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.
+The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.
 
 (Pub. L. 108–447, div. J, title VIII, §803, Dec. 8, 2004, 118 Stat. 3378.)
 

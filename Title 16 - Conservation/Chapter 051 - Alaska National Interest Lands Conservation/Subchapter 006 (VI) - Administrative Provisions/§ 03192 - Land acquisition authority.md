@@ -66,7 +66,7 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 This Act, referred to in subsecs. (a), (d), (e), (h), and (i)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7,1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 

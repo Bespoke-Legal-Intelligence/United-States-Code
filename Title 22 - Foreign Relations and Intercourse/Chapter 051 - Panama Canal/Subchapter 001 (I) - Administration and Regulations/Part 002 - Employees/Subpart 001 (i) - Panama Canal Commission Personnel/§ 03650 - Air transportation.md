@@ -4,7 +4,7 @@
 
 (b) An official or employee of the Commission who is a citizen of the Republic of Panama may elect, for security or other reasons, to travel by an air carrier holding a certificate under section 41102 of title 49.
 
-(Pub. L. 96–70, title I, §1210, as added Pub. L. 99–223, §5(b)(1), Dec. 28, 1985, 99 Stat. 1739;amended Pub. L. 104–201, div. C, title XXXV, §3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, §1210, as added Pub. L. 99–223, §5(b)(1), Dec. 28, 1985, 99 Stat. 1739; amended Pub. L. 104–201, div. C, title XXXV, §3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
 
 #### Amendments
 

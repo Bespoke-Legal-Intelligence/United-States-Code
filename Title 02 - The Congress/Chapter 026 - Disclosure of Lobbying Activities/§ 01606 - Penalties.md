@@ -12,7 +12,7 @@ Whoever knowingly fails to—
 
 #### (b) Criminal penalty
 
-Whoever knowingly and corruptly fails to comply with any provision of this chapter shallbe imprisoned for not more than 5 years or fined under title 18, or both.
+Whoever knowingly and corruptly fails to comply with any provision of this chapter shall be imprisoned for not more than 5 years or fined under title 18, or both.
 
 (Pub. L. 104–65, §7, Dec. 19, 1995, 109 Stat. 699; Pub. L. 110–81, title II, §211(a), Sept. 14, 2007, 121 Stat. 749.)
 

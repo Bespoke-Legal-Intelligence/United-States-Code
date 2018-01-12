@@ -2,7 +2,7 @@
 
 (a)
 
-Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agenton whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
+Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
 
 (2) The designation—
 

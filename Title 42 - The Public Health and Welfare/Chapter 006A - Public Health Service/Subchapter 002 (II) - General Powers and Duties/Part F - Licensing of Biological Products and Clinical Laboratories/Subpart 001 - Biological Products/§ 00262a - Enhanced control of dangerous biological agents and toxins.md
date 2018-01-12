@@ -70,7 +70,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(A) provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
 
-&emsp;&emsp;(B) submit the names and other identifying information for such individuals to theSecretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
+&emsp;&emsp;(B) submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
 
 &emsp;&emsp;(C) deny access to such agents and toxins by individuals whom the Attorney General has identified as restricted persons; and
 
@@ -228,7 +228,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections (b) and (c), or any notification of theft or loss submitted under such subsections.
 
-&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
+&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) that identifies the listed agent or toxin possessed bya specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
 
 #### (2) Covered agencies
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: "Subsection (h) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(h)\], asadded by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\]."
+Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: "Subsection (h) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(h)\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\]."
 
 #### Regulations
 

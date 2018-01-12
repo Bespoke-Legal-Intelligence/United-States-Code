@@ -138,7 +138,7 @@ The application submitted under subsection (a) shall contain—
 
 #### (2) Assessment of charge
 
-&emsp;With respect to compliance with the assurance made under paragraph (1), a grantee under section 300ff–21 of this title may, in the case of individuals subject to a charge for purposes of such paragraph—
+&emsp;With respect to compliance with the assurance made under paragraph (1), a granteeunder section 300ff–21 of this title may, in the case of individuals subject to a charge for purposes of such paragraph—
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules regarding limitation on the maximum amount of charges; and
 

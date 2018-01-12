@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in the case of such building not described in subparagraph (A), such building—
 
-&emsp;&emsp;&emsp;(i) is substantially rehabilitated (within the meaning of section 47(c)(1)(C)) by the taxpayer, and
+&emsp;&emsp;&emsp;(i) is substantially rehabilitated (within the meaning of section 47(c)(1)(C)) <sup>1</sup> by the taxpayer, and
 
 &emsp;&emsp;&emsp;(ii) is placed in service by the taxpayer after the rehabilitation in a renewal community.
 
@@ -68,7 +68,7 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 #### (3) Commercial revitalization agency
 
-&emsp;For purposes of this section, the term "commercial revitalization agency" means anyagency authorized by a State to carry out this section.
+&emsp;For purposes of this section, the term "commercial revitalization agency" means any agency authorized by a State to carry out this section.
 
 #### (4) Time and manner of allocations
 
@@ -116,7 +116,7 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 #### (3) Substantial rehabilitations treated as separate buildings
 
-&emsp;A substantial rehabilitation (within the meaning of section 47(c)(1)(C)) of a building shall be treated as a separate building for purposes of subsection (a).
+&emsp;A substantial rehabilitation (within the meaning of section 47(c)(1)(C)) <sup>1</sup> of a building shall be treated as a separate building for purposes of subsection (a).
 
 #### (4) Clarification of allowance of deduction under minimum tax
 
@@ -127,4 +127,10 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 This section shall not apply to any building placed in service after December 31, 2009.
 
 (Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–596.)
+
+#### References in Text
+
+Section 47(c)(1)(C), referred to in subsecs. (b)(1)(B)(i) and (f)(3), was redesignated as section 47(c)(1)(B) by Pub. L. 115–97, title I, §13402(b)(1)(iii), Dec. 22, 2017, 131 Stat. 2134.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

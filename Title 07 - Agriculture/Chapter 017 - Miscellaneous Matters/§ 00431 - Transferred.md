@@ -1,0 +1,6 @@
+### §431. Transferred
+
+#### Codification
+
+Section 431 was editorially reclassified as section 626 of Title 21, Food and Drugs.
+

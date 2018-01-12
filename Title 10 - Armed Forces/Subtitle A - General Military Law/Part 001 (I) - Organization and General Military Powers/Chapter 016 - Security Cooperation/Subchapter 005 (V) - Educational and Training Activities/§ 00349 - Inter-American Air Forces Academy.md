@@ -2,7 +2,7 @@
 
 (a)
 
-Operation.—The Secretary of the Air Force may operate the Air Force education andtraining facility known as the Inter-American Air Forces Academy for the purpose of providing military education and training to military personnel of Central and South American countries, Caribbean countries, and other countries eligible for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.).
+Operation.—The Secretary of the Air Force may operate the Air Force education and training facility known as the Inter-American Air Forces Academy for the purpose of providing military education and training to military personnel of Central and South American countries, Caribbean countries, and other countries eligible for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.).
 
 (b)
 

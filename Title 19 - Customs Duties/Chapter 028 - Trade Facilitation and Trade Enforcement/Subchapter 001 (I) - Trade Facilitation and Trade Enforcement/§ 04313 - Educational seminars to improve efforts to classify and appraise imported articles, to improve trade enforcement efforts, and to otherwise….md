@@ -4,7 +4,7 @@
 
 The Commissioner and the Director shall establish and carry out on a fiscal year basis educational seminars to—
 
-&emsp;(1) improve the ability of personnel of U.S. Customs and Border Protection to classify and appraise articles imported into the United States in accordance with the customs and trade laws of the United States;
+&emsp;(1) improve the ability of personnel of U.S. Customs and Border Protection to classify andappraise articles imported into the United States in accordance with the customs and trade laws of the United States;
 
 &emsp;(2) improve the trade enforcement efforts of personnel of U.S. Customs and Border Protection and personnel of U.S. Immigration and Customs Enforcement; and
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (2) United States
 
-&emsp;The term "United States" means the customs territory of the United States, as defined in General Note 2 to the Harmonized Tariff Schedule of the United States.
+&emsp;The term "United States" means the customs territory of the United States, as definedin General Note 2 to the Harmonized Tariff Schedule of the United States.
 
 #### (3) U.S. Customs and Border Protection personnel
 
@@ -102,7 +102,7 @@ In this section:
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsec. (b)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I (§1671 et seq.) and II (§1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (b)(2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Act are classified generally to parts I (§671 et seq.) and II (§1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (g)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 

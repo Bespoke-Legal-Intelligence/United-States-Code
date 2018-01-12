@@ -8,7 +8,7 @@
 
 &emsp;&emsp;&emsp;(i) the overthrow, by force, violence, or other unconstitutional means, of the Government of the United States;
 
-&emsp;&emsp;&emsp;(ii) the establishment, by force, violence, or other unconstitutional means, of aCommunist totalitarian dictatorship in the United States; or
+&emsp;&emsp;&emsp;(ii) the establishment, by force, violence, or other unconstitutional means, of a Communist totalitarian dictatorship in the United States; or
 
 &emsp;&emsp;&emsp;(iii) the right to strike against the United States;
 

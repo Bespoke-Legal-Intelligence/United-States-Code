@@ -4,7 +4,7 @@ It is the sense of the Congress that—
 
 &emsp;(1) the position of Assistant United States Trade Representative for African Affairs is integral to the United States commitment to increasing United States-sub-Saharan African trade and investment;
 
-&emsp;(2) the position of Assistant United States Trade Representative for African Affairs should be maintained within the Office of the United States Trade Representative to direct and coordinate interagency activities onUnited States-Africa trade policy and investment matters and serve as—
+&emsp;(2) the position of Assistant United States Trade Representative for African Affairs should be maintained within the Office of the United States Trade Representative to direct and coordinate interagency activities on United States-Africa trade policy and investment matters and serve as—
 
 &emsp;&emsp;(A) a primary point of contact in the executive branch for those persons engaged in trade between the United States and sub-Saharan Africa; and
 

@@ -102,7 +102,7 @@ Subsec. (b)(1)(B). Pub. L. 103–252, §207(2), substituted "After the first fun
 
 Subsec. (c)(1). Pub. L. 103–252, §207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up."
 
-Subsec. (c)(4). Pub. L. 103–252, §207(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: "Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated."
+Subsec. (c)(4). Pub. L. 103–252, §207(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated."
 
 Subsec. (h). Pub. L. 103–252, §207(4), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows:
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 103–252, §207(4), amended heading and text of subsec. (h
 
 <b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–501, §601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted "subsection (d)" for "subsection (c)" in par. (2) and "subsection (e)(2)" for "subsection (d)(2)" in par. (4). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted "subsection (d)" for "subsection (c)" in par. (2) and "subsection (e)(2)" for"subsection (d)(2)" in par. (4). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 101–501, §601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 

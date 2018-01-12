@@ -1,0 +1,6 @@
+### §14031. Transferred
+
+#### Codification
+
+Section 14031 was editorially reclassified as section 12401 of Title 34, Crime Control and Law Enforcement.
+

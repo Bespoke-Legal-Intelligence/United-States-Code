@@ -2,11 +2,11 @@
 
 #### (a) Federal and State agencies; private institutions and organizations
 
-The Secretary may cooperate with agencies of the United States government,<sup>1</sup> any public orprivate institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
+The Secretary may cooperate with agencies of the United States government,<sup>1</sup> any public or private institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
 
 #### (b) Scientific and other programs; facilities and personnel
 
-All Federal agencies are authorized, upon the request of the Secretary, to cooperate in the conduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
+All Federal agencies are authorized, upon the request of the Secretary, to cooperate in theconduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
 
 #### (c) Sanctioned fishing operations and biological experiments
 

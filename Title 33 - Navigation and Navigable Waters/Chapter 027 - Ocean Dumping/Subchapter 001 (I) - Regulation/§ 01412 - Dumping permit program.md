@@ -2,7 +2,7 @@
 
 #### (a) Environmental Protection Agency permits
 
-Except in relation to dredged material, as provided for in section 1413 of this title, and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in section 1411(b) of this title, where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. TheAdministrator shall establish and apply criteria for reviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
+Except in relation to dredged material, as provided for in section 1413 of this title, and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in section 1411(b) of this title, where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. The Administrator shall establish and apply criteria for reviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
 
 &emsp;(A) The need for the proposed dumping.
 
@@ -38,7 +38,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (1) In general
 
-&emsp;The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+&emsp;The Administrator shall, in a manner consistent with the criteria established pursuantto subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
 
 #### (2) Prohibitions regarding site or time period
 
@@ -105,4 +105,8 @@ Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 Pub. L. 93–254, §2, Mar. 22, 1974, 88 Stat. 51, provided in part that: "The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States." \[The Convention entered into force for the United States Aug. 30, 1975.\]
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
+
+#### Effective Date
+
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 

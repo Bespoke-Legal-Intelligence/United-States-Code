@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 109–363, §302(h)(3)(B), substituted "Fund" for "Account"
 
 #### Transfer of Funds
 
-Pub. L. 109–363, title III, §302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: "The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act \[Oct. 17, 2006\]."
+Pub. L. 109–363, title III, §302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: "The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in theNeotropical Migratory Bird Conservation Account immediately before the enactment of this Act \[Oct. 17, 2006\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

@@ -74,7 +74,7 @@ Minimum financial security.—Each broker subject to the requirements of this se
 
 Cancellation notice.—If a financial security required under this subsection is canceled—
 
-&emsp;&emsp;(A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
+&emsp;&emsp;(A) the holder of the financial security shall provide electronic notification to theSecretary of the cancellation not later than 30 days before the effective date of the cancellation; and
 
 &emsp;&emsp;(B) the Secretary shall immediately post such notification on the public Internet Website of the Department of Transportation.
 
@@ -126,7 +126,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a freight forwarder undersection 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
 
 &emsp;&emsp;(B)
 
@@ -252,7 +252,7 @@ Form of Endorsement.—The Secretary shall also prescribe the appropriate form o
 
 #### References in Text
 
-Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
+Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) ofthis section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 

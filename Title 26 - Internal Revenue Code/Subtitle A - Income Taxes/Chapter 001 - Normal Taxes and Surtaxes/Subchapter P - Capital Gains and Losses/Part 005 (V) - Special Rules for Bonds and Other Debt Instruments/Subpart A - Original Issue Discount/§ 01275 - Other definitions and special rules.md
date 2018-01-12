@@ -8,7 +8,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "debt instrument" means a bond,debenture, note, or certificate or other evidence of indebtedness.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "debt instrument" means a bond, debenture, note, or certificate or other evidence of indebtedness.
 
 #### (B) Exception for certain annuity contracts
 

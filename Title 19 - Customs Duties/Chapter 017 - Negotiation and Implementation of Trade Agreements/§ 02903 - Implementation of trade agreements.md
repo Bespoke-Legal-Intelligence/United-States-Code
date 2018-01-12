@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(III) why the implementing bill and proposed administrative action is required or appropriate to carry out the agreement;
 
-&emsp;&emsp;(iii) describing the efforts made by the President to obtain international exchangerate equilibrium and any effect the agreement may have regarding increased international monetary stability; and
+&emsp;&emsp;(iii) describing the efforts made by the President to obtain international exchange rate equilibrium and any effect the agreement may have regarding increased international monetary stability; and
 
 &emsp;&emsp;(iv) describing the extent, if any, to which—
 
@@ -78,7 +78,7 @@
 
 &emsp;(ii) shall be jointly referred, in the House of Representatives, to the Committee on Ways and Means and the Committee on Rules.
 
-(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration of certain resolutions in the House and Senate) apply to extension disapproval resolutions.
+(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration ofcertain resolutions in the House and Senate) apply to extension disapproval resolutions.
 
 (D) It is not in order for—
 
@@ -96,7 +96,7 @@
 
 &emsp;(i) in the House of Representatives—
 
-&emsp;&emsp;(I) shall be introduced by the chairman or ranking minority member of the Committeeon Ways and Means or the chairman or ranking minority member of the Committee on Rules,
+&emsp;&emsp;(I) shall be introduced by the chairman or ranking minority member of the Committee on Ways and Means or the chairman or ranking minority member of the Committee on Rules,
 
 &emsp;&emsp;(II) shall be jointly referred to the Committee on Ways and Means and the Committee on Rules, and
 

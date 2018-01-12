@@ -58,7 +58,7 @@ Not less frequently than every 90 days, the Secretary of Energy shall submit to 
 
 #### (d) Report on compliance of covered foreign countries and end-users
 
-Not less frequently than annually, the Secretary of Energy shall submit to the appropriatecongressional committees a report that includes—
+Not less frequently than annually, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
 
 &emsp;(1) an assessment of whether each covered foreign country is in compliance with its obligations under any authorization for the transfer of United States civil nuclear technology under section 2077(b) of this title;
 
@@ -144,7 +144,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### "Congressional Defense Committees" Defined
 
-Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3of Pub. L. 114–92, 129 Stat. 745. See note under section 101 of Title 10, Armed Forces.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–92, 129 Stat. 745. See note under section 101 of Title 10, Armed Forces.
 
 #### Delegation of Authority Pursuant to Section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016
 

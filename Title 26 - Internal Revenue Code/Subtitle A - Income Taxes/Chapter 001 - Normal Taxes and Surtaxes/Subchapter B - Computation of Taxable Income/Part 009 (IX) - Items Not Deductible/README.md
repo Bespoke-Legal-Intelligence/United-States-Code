@@ -10,6 +10,7 @@
 | [265\.](%C2%A7%2000265%20-%20Expenses%20and%20interest%20relating%20to%20tax-exempt%20income.md) | Expenses and interest relating to tax-exempt income. |
 | [266\.](%C2%A7%2000266%20-%20Carrying%20charges.md) | Carrying charges. |
 | [267\.](%C2%A7%2000267%20-%20Losses%2C%20expenses%2C%20and%20interest%20with%20respect%20to%20transactions%20between%20related%20taxpayers.md) | Losses, expenses, and interest with respect to transactions between related taxpayers. |
+| [267A.](%C2%A7%2000267A%20-%20Certain%20related%20party%20amounts%20paid%20or%20accrued%20in%20hybrid%20transactions%20or%20with%20hybrid%20entities.md) | Certain related party amounts paid or accrued in hybrid transactions or with hybrid entities. |
 | [268\.](%C2%A7%2000268%20-%20Sale%20of%20land%20with%20unharvested%20crop.md) | Sale of land with unharvested crop. |
 | [269\.](%C2%A7%2000269%20-%20Acquisitions%20made%20to%20evade%20or%20avoid%20income%20tax.md) | Acquisitions made to evade or avoid income tax. |
 | [269A.](%C2%A7%2000269A%20-%20Personal%20service%20corporations%20formed%20or%20availed%20of%20to%20avoid%20or%20evade%20income%20tax.md) | Personal service corporations formed or availed of to avoid or evade income tax. |
@@ -37,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §14222(b), Dec. 22, 2017, 131 Stat. 2220, added item 267A.
 
 <b>1996</b>—Pub. L. 104–188, title I, §1704(t)(55), Aug. 20, 1996, 110 Stat. 1890, provided that section 11813(b)(13)(F) of Pub. L. 101–508 shall be applied as if "tax" appeared after "investment" in the material proposed to be stricken. See 1990 Amendment note below.
 
@@ -85,6 +88,7 @@
 - [&sect; 00265 - Expenses and interest relating to tax-exempt income](%C2%A7%2000265%20-%20Expenses%20and%20interest%20relating%20to%20tax-exempt%20income.md)
 - [&sect; 00266 - Carrying charges](%C2%A7%2000266%20-%20Carrying%20charges.md)
 - [&sect; 00267 - Losses, expenses, and interest with respect to transactions between related taxpayers](%C2%A7%2000267%20-%20Losses%2C%20expenses%2C%20and%20interest%20with%20respect%20to%20transactions%20between%20related%20taxpayers.md)
+- [&sect; 00267A - Certain related party amounts paid or accrued in hybrid transactions or with hybrid entities](%C2%A7%2000267A%20-%20Certain%20related%20party%20amounts%20paid%20or%20accrued%20in%20hybrid%20transactions%20or%20with%20hybrid%20entities.md)
 - [&sect; 00268 - Sale of land with unharvested crop](%C2%A7%2000268%20-%20Sale%20of%20land%20with%20unharvested%20crop.md)
 - [&sect; 00269 - Acquisitions made to evade or avoid income tax](%C2%A7%2000269%20-%20Acquisitions%20made%20to%20evade%20or%20avoid%20income%20tax.md)
 - [&sect; 00269A - Personal service corporations formed or availed of to avoid or evade income tax](%C2%A7%2000269A%20-%20Personal%20service%20corporations%20formed%20or%20availed%20of%20to%20avoid%20or%20evade%20income%20tax.md)

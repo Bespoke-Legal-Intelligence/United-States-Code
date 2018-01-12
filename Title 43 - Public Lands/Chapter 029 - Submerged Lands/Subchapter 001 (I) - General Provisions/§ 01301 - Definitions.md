@@ -4,7 +4,7 @@ When used in this subchapter and subchapter II—
 
 (a) The term "lands beneath navigable waters" means—
 
-&emsp;(1) all lands within the boundaries of each of the respective States which are covered bynontidal waters that were navigable under the laws of the United States at the time such State became a member of the Union, or acquired sovereignty over such lands and waters thereafter, up to the ordinary high water mark as heretofore or hereafter modified by accretion, erosion, and reliction;
+&emsp;(1) all lands within the boundaries of each of the respective States which are covered by nontidal waters that were navigable under the laws of the United States at the time such State became a member of the Union, or acquired sovereignty over such lands and waters thereafter, up to the ordinary high water mark as heretofore or hereafter modified by accretion, erosion, and reliction;
 
 &emsp;(2) all lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coast line of each such State and to the boundary line of each such State where in any case such boundary as it existed at the time such State became a member of the Union, or as heretofore approved by Congress, extends seaward (or into the Gulf of Mexico) beyond three geographical miles,<sup>1</sup> and
 
@@ -18,7 +18,7 @@ When used in this subchapter and subchapter II—
 
 (e) The term "natural resources" includes, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power, or the use of water for the production of power;
 
-(f) The term "lands beneath navigable waters" does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
+(f) The term "lands beneath navigable waters" does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of theUnited States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
 
 (g) The term "State" means any State of the Union;
 

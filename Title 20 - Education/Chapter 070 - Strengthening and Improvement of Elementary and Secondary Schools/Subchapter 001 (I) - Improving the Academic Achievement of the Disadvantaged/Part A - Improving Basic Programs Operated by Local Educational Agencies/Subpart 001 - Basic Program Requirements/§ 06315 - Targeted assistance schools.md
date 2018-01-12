@@ -150,7 +150,7 @@ Subsec. (c)(2)(B). Pub. L. 114–95, §1009(4)(B)(ii), in heading, substituted "
 
 Subsec. (c)(2)(C). Pub. L. 114–95, §1009(4)(B)(iii), substituted "Migrant children" for "Part C children" in heading.
 
-Subsec. (e)(2)(B)(iii) to (v). Pub. L. 114–95, §1009(5)(A), added cls. (iii) and (iv), redesignated former cl. (iii) as (v), and, in cl. (v), substituted "specialized instructional support" for "pupil services".
+Subsec. (e)(2)(B)(iii) to (v). Pub. L. 114–95, §1009(5)(A), added cls. (iii) and (iv), redesignated former cl. (iii) as\(v), and, in cl. (v), substituted "specialized instructional support" for "pupil services".
 
 Subsec. (e)(3). Pub. L. 114–95, §1009(5)(B), struck out par. (3). Text read as follows: "Each school receiving funds under this part for any fiscal year shall devote sufficient resources to carry out effectively the professional development activities described in subparagraph (F) of subsection (c)(1) of this section in accordance with section 6319 of this title for such fiscal year, and a school may enter into a consortium with another school to carry out such activities."
 

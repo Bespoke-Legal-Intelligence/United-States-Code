@@ -360,6 +360,52 @@ Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: "This A
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: "This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the 'Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994'."
 
+#### Collaboration Between Federal Aviation Administration and Department of Defense on Unmanned Aircraft Systems
+
+Pub. L. 115–91, div. A, title X, §1092, Dec. 12, 2017, 131 Stat. 1610, provided that:
+
+"(a)
+
+Collaboration.—
+
+&emsp;"(1)
+
+In general.—The Administrator of the Federal Aviation Administration and the Secretary of Defense may collaborate on sense-and-avoid capabilities for unmanned aircraft systems.
+
+&emsp;"(2)
+
+Elements.—The collaboration described in paragraph (1) may include, as appropriate, the following:
+
+&emsp;&emsp;"(A) Sharing information on safely integrating unmanned aircraft systems and manned aircraft in the national airspace system.
+
+&emsp;&emsp;"(B) The development of civil standards, policies, and procedures for the Federal Aviation Administration for integrating unmanned aircraft systems in the national airspace system by leveraging the historical and current testing, training, and operational experiences of the Department of Defense, particularly the Air Force, of unmanned flight operations\[.\]
+
+&emsp;&emsp;"(C) Informing stakeholders about—
+
+&emsp;&emsp;&emsp;"(i) the development of airborne and ground-based sense-and-avoid capabilities for unmanned aircraft systems; and
+
+&emsp;&emsp;&emsp;"(ii) research and development on unmanned aircraft systems, especially with respect to matters involving human factors, information assurance, and security.
+
+"(b)
+
+Participation by FAA in DOD Activities.—
+
+&emsp;"(1)
+
+In general.—The Administrator of the Federal Aviation Administration may participate, and provide assistance to the Secretary of Defense for activities during the test and evaluation efforts of the Department of Defense, including the Air Force, relating to airborne and ground-based sense-and-avoid capabilities for unmanned aircraft systems.
+
+&emsp;"(2)
+
+Participation through test sites.—Participation under paragraph (1) may include provision of assistance through Department of Defense unmanned aircraft systems test sites or a Federal Aviation Administration test range.
+
+"(c)
+
+Definitions.—In this section, the terms 'unmanned aircraft system' and 'test range' have the meaning given such terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note).
+
+"(d)
+
+Restoration of Rules for Registration and Marking of Unmanned Aircraft.—The rules adopted by the Administrator of the Federal Aviation Administration in the matter of registration and marking requirements for small unmanned aircraft (FAA-2015-7396; published on December 16, 2015) that were vacated by the United States Court of Appeals for the District of Columbia Circuit in Taylor v. Huerta (No. 15-1495; decided on May 19, 2017) shall be restored to effect on the date of enactment of this Act \[Dec. 12, 2017\]."
+
 #### Unmanned Aircraft Joint Training and Usage Plan
 
 Pub. L. 113–66, div. A, title X, §1075(a), Dec. 26, 2013, 127 Stat. 870, provided that:
@@ -922,7 +968,7 @@ Process for Employee Inclusion.—Notwithstanding any other law or agreement, th
 
 "(b)
 
-Adherence to Deadlines.—Participants in these processes shall adhere, to the greatest extent possible, to all deadlines and milestones established pursuant to this title.
+Adherence to Deadlines.—Participants in these processes shall adhere, to the greatest extent possible,to all deadlines and milestones established pursuant to this title.
 
 "(c)
 
@@ -1170,7 +1216,7 @@ Firefighting Operations.—The Administrator of the Federal Aviation Administrat
 
 "(b)
 
-Utility Restoration.—The Administrator shall enter into agreements with the Secretary of Energy and with such other agencies or parties, including the Federal Emergency Management Agency, as are necessary to facilitate the expeditious authorization of safe unmanned aircraft system operations in support of service restoration efforts of utilities.
+Utility Restoration.—The Administrator shall enter into agreements with the Secretary of Energy and with such other agencies or parties, including the Federal Emergency Management Agency, as are necessary to facilitate the expeditious authorization ofsafe unmanned aircraft system operations in support of service restoration efforts of utilities.
 
 "(c)
 
@@ -1378,7 +1424,7 @@ Considerations.—In making a determination whether to grant or deny an applicat
 
 &emsp;&emsp;"(D)
 
-Opportunity for resubmission.—If an application is denied, and the applicant can reasonablyaddress the reason for the denial, the Administrator may allow the applicant to reapply for designation.
+Opportunity for resubmission.—If an application is denied, and the applicant can reasonably address the reason for the denial, the Administrator may allow the applicant to reapply for designation.
 
 "(c)
 
@@ -1496,7 +1542,7 @@ Study.—Not later than 30 days after the date of enactment of this Act \[July 1
 
 Completion Date.—Not later than 1 year after the date of enactment of this Act, the Administrator shall provide the results of the study to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
-Pub. L. 112–95, title III, subtitle B, Feb. 14, 2012, 126 Stat. 72, as amended by Pub. L. 114–190, title I, §1102(i),title II, §§2201(b), 2211, July 15, 2016, 130 Stat. 618, 628, 636, provided that:
+Pub. L. 112–95, title III, subtitle B, Feb. 14, 2012, 126 Stat. 72, as amended by Pub. L. 114–190, title I, §1102(i), title II, §§2201(b), 2211, July 15, 2016, 130 Stat. 618, 628, 636, provided that:
 
 #### "SEC. 331. DEFINITIONS.
 
@@ -1568,7 +1614,7 @@ Contents of plan.—The plan required under paragraph (1) shall contain, at a mi
 
 &emsp;&emsp;&emsp;"(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
 
-&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
+&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve thesafe and routine operation of civil unmanned aircraft systems in the national airspace system;
 
 &emsp;&emsp;"(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
 
@@ -1782,7 +1828,7 @@ In General.—Notwithstanding any other provision of law relating to the incorpo
 
 "(b)
 
-Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue enforcement action against persons operating model aircraft who endanger the safety of the national airspace system.
+Statutory Construction.—Nothing in this section shall be construed to limit the authority of theAdministrator to pursue enforcement action against persons operating model aircraft who endanger the safety of the national airspace system.
 
 "(c)
 
@@ -1910,7 +1956,7 @@ Definition.—In this section:
 
 Pub. L. 110–113, §2, Nov. 8, 2007, 121 Stat. 1039, provided that: "Congress finds the following:
 
-&emsp;"(1) The September 11th Victims Compensation Fund of 2001 \[title IV of Pub. L. 107–42\] (49 U.S.C. 40101 note) establishes a Federal cause of action in the United States District Court for the Southern District of New York as the exclusive remedy for damages arising out of the hijacking and subsequent crash of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001.
+&emsp;"(1) The September 11th Victims Compensation Fund of 2001 \[title IV of Pub. L. 107–42\] (49 U.S.C. 40101note) establishes a Federal cause of action in the United States District Court for the Southern District of New York as the exclusive remedy for damages arising out of the hijacking and subsequent crash of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001.
 
 &emsp;"(2) Rules 45(b)(2) and 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] effectively limit service of a subpoena to any place within, or within 100 miles of, the district of the court by which it is issued, unless a statute of the United States expressly provides that the court, upon proper application and cause shown, may authorize the service of a subpoena at any other place.
 
@@ -1942,7 +1988,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(8) Despite the downturn in the global economy, projections of the Federal Aviation Administration indicate that upwards of 1,000,000,000 people will fly annually by 2013. Efforts must begin now to prepare for future growth in the number of airline passengers.
 
-&emsp;"(9) The United States must increase its investment in research and development to revitalize the aviation and aerospace industries, to create jobs, andto provide educational assistance and training to prepare workers in those industries for the future."
+&emsp;"(9) The United States must increase its investment in research and development to revitalize the aviation and aerospace industries, to create jobs, and to provide educational assistance and training to prepare workers in those industries for the future."
 
 #### Report on Long-Term Environmental Improvements
 
@@ -2166,7 +2212,7 @@ Function.—The senior policy committee shall—
 
 "(d)
 
-Consultation.—In carrying out its functions under this section, the senior policy committee shall consult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.
+Consultation.—In carrying out its functions under this section, the senior policy committee shallconsult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.
 
 "(e)
 
@@ -2214,7 +2260,7 @@ In General.—The Secretary of Transportation may make grants to reimburse the f
 
 "(b)
 
-Documentation.—Reimbursement under this section shall be made in accordance with sworn financialstatements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
+Documentation.—Reimbursement under this section shall be made in accordance with sworn financial statements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
 
 "(c)
 
@@ -2280,13 +2326,13 @@ Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pu
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
-Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\]."
+Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) \[now 34 U.S.C. 20102\] shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[34 U.S.C. 20101 et seq.\]."
 
 #### Air Transportation Safety and System Stabilization
 
 Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, as amended by Pub. L. 114–113, div. O, title IV, §402(h), Dec. 18, 2015, 129 Stat. 3007, provided that: "Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) and (2) of such Act. Costs for payments for compensation for claims in Group A, as described in section 405(a)(3)(C)(ii) of such Act, shall be paid from amounts made available under section 406 of such Act. Costs for payments for compensation for claims in Group B, as described in section 405(a)(3)(C)(iii) of such Act, shall be paid from amounts in the Victims Compensation Fund established under section 410 of such Act."
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I,§114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -2346,7 +2392,7 @@ Maximum Amount of Compensation Payable Per Air Carrier.—The maximum total amou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the revenue ton miles or other auditable measure of the air carrier for cargo for the latest quarter for which data is available as reported to the Secretary; to
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the total revenue ton miles or other auditable measure of all such air carriers for cargo for such quarter as reported to the Secretary.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the total revenue ton miles or other auditable measure of all such air carriers forcargo for such quarter as reported to the Secretary.
 
 "(c)
 
@@ -2530,7 +2576,7 @@ Immediate aftermath.—The term 'immediate aftermath' means any period beginning
 
 &emsp;"(12)
 
-Noneconomic losses.—The term 'noneconomic losses' means losses for physical and emotional pain,suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
+Noneconomic losses.—The term 'noneconomic losses' means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
 
 &emsp;"(13)
 
@@ -2732,7 +2778,7 @@ In general.—Subject to the limitation described in clause (ii) and with respec
 
 &emsp;&emsp;&emsp;"(ii)
 
-Annual gross income limitation.—In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limit the annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than $200,000.
+Annual gross income limitation.—In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limitthe annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than $200,000.
 
 &emsp;&emsp;"(C)
 
@@ -2892,7 +2938,7 @@ In general.—Not later than 30 days after the date of enactment of the James Za
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Limitation.—The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims inGroup B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
+Limitation.—The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims in Group B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 
@@ -3032,7 +3078,7 @@ In general.—A subpoena requiring the attendance of a witness at trial or a hea
 
 &emsp;&emsp;"(B)
 
-Rule of construction.—Nothing in this subsection is intended to diminish the authority of a court to quash or modify a subpoena for the reasons provided in clause (i), (iii), or (iv) of subparagraph (A) or subparagraph (B) of rule 45(c)(3) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\].
+Rule of construction.—Nothing in this subsection is intended to diminish the authority of acourt to quash or modify a subpoena for the reasons provided in clause (i), (iii), or (iv) of subparagraph (A) or subparagraph (B) of rule 45(c)(3) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\].
 
 "(c)
 
@@ -3496,7 +3542,7 @@ Report by the secretary based on final report of aviation funding task force.—
 
 &emsp;&emsp;"(A)
 
-Consideration of task force's preliminary report.—Not later than 30 days after receiving the preliminary report of the aviation funding task force, the Secretary, in consultation with the Secretary of the Treasury, shall furnish comments on the report to the task force.
+Consideration of task force's preliminary report.—Not later than 30 days after receiving the preliminary report of the aviation funding taskforce, the Secretary, in consultation with the Secretary of the Treasury, shall furnish comments on the report to the task force.
 
 &emsp;&emsp;"(B)
 
@@ -3662,7 +3708,7 @@ Participation.—In carrying out the research program established under subsecti
 
 "(e)
 
-Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administratorshall submit to the Congress a plan for implementation of the research program established under subsection (a).
+Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administrator shall submit to the Congress a plan for implementation of the research program established under subsection (a).
 
 "(2) The Administrator shall annually submit to the Congress a report on the progress made during the year for which the report is submitted toward meeting the goals set forth in subsection (c).
 
@@ -3754,13 +3800,45 @@ Application of Act.—This Act shall not apply with respect to civil actions com
 
 Pub. L. 102–581, title II, §204, Oct. 31, 1992, 106 Stat. 4891, as amended Pub. L. 103–13, §1, Apr. 7, 1993, 107 Stat. 43, provided for establishment of National Commission to Ensure a Strong Competitive Airline Industry to make a complete investigation and study of financial condition of the airline industry, adequacy of competition in the airline industry, and legal impediments to a financially strong and competitive airline industry, to report to President and Congress not later than 90 days after the date on which initial appointments of members to the Commission were completed, and to terminate on the 30th day following transmission of report.
 
+#### Definition of Term in Pub. L. 114–190
+
+Pub. L. 114–190, §2, July 15, 2016, 130 Stat. 617, provided that: "In this Act \[see Tables for classification\], unless expressly provided otherwise, the term 'appropriate committees of Congress' means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+
+#### Definitions of Terms in Title II of Pub. L. 112–95
+
+Pub. L. 112–95, title IX, §902, Feb. 14, 2012, 126 Stat. 138, provided that: " In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under section 44504 of this title\], the following definitions apply:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the FAA.
+
+&emsp;"(2)
+
+FAA.—The term 'FAA' means the Federal Aviation Administration.
+
+&emsp;"(3)
+
+Institution of higher education.—The term 'institution of higher education' has the same meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+&emsp;"(4)
+
+NASA.—The term 'NASA' means the National Aeronautics and Space Administration.
+
+&emsp;"(5)
+
+NOAA.—The term 'NOAA' means the National Oceanic and Atmospheric Administration."
+
+#### Definitions of Terms in Pub. L. 107–71
+
+For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
 #### Ex. Ord. No. 13479. Transformation of the National Air Transportation System
 
 Ex. Ord. No. 13479, Nov. 18, 2008, 73 F.R. 70241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to establish and maintain a national air transportationsystem that meets the present and future civil aviation, homeland security, economic, environmental protection, and national defense needs of the United States, including through effective implementation of the Next Generation Air Transportation System (NextGen).
+Section 1. <i>Policy</i>. It is the policy of the United States to establish and maintain a national air transportation system that meets the present and future civil aviation, homeland security, economic, environmental protection, and national defense needs of the United States, including through effective implementation of the Next Generation Air Transportation System (NextGen).
 
 Sec. 2. <i>Definitions</i>. As used in this order the term "Next Generation Air Transportation System" means the system to which section 709 of the Vision 100—Century of Aviation Reauthorization Act (Public Law 108–176) (Act) refers.
 
@@ -3834,7 +3912,7 @@ As UAS are integrated into the NAS, the Federal Government will take steps to en
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish transparent principles that govern the Federal Government's use of UAS in the NAS, and to promote the responsible use of this technology in the private and commercial sectors, it is hereby ordered as follows:
 
-Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permits individuals to seek access to and amendment of records.
+Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permitsindividuals to seek access to and amendment of records.
 
 (a) <i>Privacy Protections</i>. Particularly in light of the diverse potential uses of UAS in the NAS, expected advancements in UAS technologies, and the anticipated increase in UAS use in the future, the Federal Government shall take steps to ensure that privacy protections and policies relative to UAS continue to keep pace with these developments. Accordingly, agencies shall, prior to deployment of new UAS technology and at least every 3 years, examine their existing UAS policies and procedures relating to the collection, use, retention, and dissemination of information obtained by UAS, to ensure that privacy, civil rights, and civil liberties are protected. Agencies shall update their policies and procedures, or issue new policies and procedures, as necessary. In addition to requiring compliance with the Privacy Act in applicable circumstances, agencies that collect information through UAS in the NAS shall ensure that their policies and procedures with respect to such information incorporate the following requirements:
 
@@ -3876,7 +3954,7 @@ Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Fe
 
 (e) <i>Reports</i>. Within 180 days of the date of this memorandum, agencies shall provide the President with a status report on the implementation of this section. Within 1 year of the date of this memorandum, agencies shall publish information on how to access their publicly available policies and procedures implementing this section.
 
-Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Althoughthese opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
+Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Although these opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
 
 (a) There is hereby established a multi-stakeholder engagement process to develop and communicate best practices for privacy, accountability, and transparency issues regarding commercial and private UAS use in the NAS. The process will include stakeholders from the private sector.
 
@@ -3912,35 +3990,119 @@ Sec. 4. <i>General Provisions</i>. (a) This memorandum complements and is not in
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Definition of Term in Pub. L. 114–190
+#### Unmanned Aircraft Systems Integration Pilot Program
 
-Pub. L. 114–190, §2, July 15, 2016, 130 Stat. 617, provided that: "In this Act \[see Tables for classification\], unless expressly provided otherwise, the term 'appropriate committees of Congress' means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+Memorandum of President of the United States, Oct. 25, 2017, 82 F.R. 50301, provided:
 
-#### Definitions of Terms in Title II of Pub. L. 112–95
+Memorandum for the Secretary of Transportation
 
-Pub. L. 112–95, title IX, §902, Feb. 14, 2012, 126 Stat. 138, provided that: " In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under section 44504 of this title\], the following definitions apply:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-&emsp;"(1)
+Section 1. <i>Policy</i>. It shall be the policy of the United States to promote the safe operation of unmanned aircraft systems (UAS) and enable the development of UAS technologies for use in agriculture, commerce, emergency management, human transportation, and other sectors. Compared to manned aircraft, UAS provide novel, low-cost capabilities for both public and private applications. UAS present opportunities to enhance the safety of the American public, increase the efficiency and productivity of American industry, and create tens of thousands of new American jobs.
 
-Administrator.—The term 'Administrator' means the Administrator of the FAA.
+The private sector has rapidly advanced UAS capabilities to address the needs of recreational, commercial, and public users. To promote continued technological innovation and to ensure the global leadership of the United States in this emerging industry, the regulatory framework for UAS operations must be sufficiently flexible to keep pace with the advancement of UAS technology, while balancing the vital Federal roles in protecting privacy and civil liberties; mitigating risks to national security and homeland security; and protecting the safety of the American public, critical infrastructure, and the Nation's airspace. Well-coordinated integration of UAS into the national airspace system (NAS) alongside manned aircraft will increase the safety of the NAS and enable the authorization of more complex UAS operations.
 
-&emsp;"(2)
+The Federal Aviation Administration (FAA) has taken steps to integrate UAS into the NAS at specific test sites and has issued operational requirements for small UAS operations in the NAS. Further integration will require continued private-sector cooperation and the involvement of State, local, and tribal governments in Federal efforts to develop and enforce regulations on UAS operations in their jurisdictions. Input from State, local, tribal, and private-sector stakeholders will be necessary to craft an optimal strategy for the national management of UAS operations. A coordinated effort between the private sector and among these governments will provide certainty and stability to UAS owners and operators, maximize the benefits of UAS technologies for the public, and mitigate risks to public safety and security.
 
-FAA.—The term 'FAA' means the Federal Aviation Administration.
+Sec. 2. <i>UAS Integration Pilot Program</i>. (a) Within 90 days of the date of this memorandum, the Secretary of Transportation (Secretary), in consultation with the Administrator of the FAA (Administrator), shall establish a UAS Integration Pilot Program (Program) to test the further integration of UAS into the NAS in a select number of State, local, and tribal jurisdictions.
 
-&emsp;"(3)
+(b) The objectives of the Program shall be to:
 
-Institution of higher education.—The term 'institution of higher education' has the same meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+(i) test and evaluate various models of State, local, and tribal government involvement in the development and enforcement of Federal regulations for UAS operations;
 
-&emsp;"(4)
+(ii) encourage UAS owners and operators to develop and safely test new and innovative UAS concepts of operations; and
 
-NASA.—The term 'NASA' means the National Aeronautics and Space Administration.
+(iii) inform the development of future Federal guidelines and regulatory decisions on UAS operations nationwide.
 
-&emsp;"(5)
+Sec. 3. <i>Implementation</i>. (a) To implement the Program, the Secretary or the Administrator, as appropriate, shall:
 
-NOAA.—The term 'NOAA' means the National Oceanic and Atmospheric Administration."
+(i) solicit proposals from State, local, and tribal governments to test within their jurisdictions the integration of civil and public UAS operations into the NAS below 200 feet above ground level, or up to 400 feet above ground level if the Secretary determines that such an adjustment would be appropriate;
 
-#### Definitions of Terms in Pub. L. 107–71
+(ii) select proposals by State, local, and tribal governments for participation in the Program according to the criteria listed in subsection (b) of this section;
 
-For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+(iii) enter into agreements with the selected governments to establish the terms of their involvement in UAS operations within their jurisdictions, including their support for Federal enforcement responsibilities; describe the proposed UAS operations to be conducted; and identify the entities that will conduct such operations, including, if applicable, the governments themselves; and
+
+(iv) as necessary, use existing authorities to grant exceptions, exemptions, authorizations, and waivers from FAA regulations to the entities identified in the agreements described in subsection (iii) of this section \[sic\], including through the issuance of waivers under 14 CFR Part 107 and Certificates of Waiver or Authorization under section 333 of the FAA Modernization and Reform Act of 2012 (FMRA) (Public Law 112–95).
+
+(b) In selecting proposals for participation in the Program under subsection (a) of this section, the Secretary shall consider:
+
+(i) overall economic, geographic, and climatic diversity of the selected jurisdictions;
+
+(ii) overall diversity of the proposed models of government involvement;
+
+(iii) overall diversity of the UAS operations to be conducted;
+
+(iv) the location of critical infrastructure;
+
+(v) the involvement of commercial entities in the proposal, and their ability to advance objectives that may serve the public interest as a result of further integration of UAS into the NAS;
+
+(vi) the involvement of affected communities in, and their support for, participating in the Program;
+
+(vii) the commitment of the governments and UAS operators involved in the proposal to comply with requirements related to national defense, homeland security, and public safety, and to address competition, privacy, and civil liberties concerns; and
+
+(viii) the commitment of the governments and UAS operators involved in the proposal to achieve the following policy objectives:
+
+&emsp;(A) promoting innovation and economic development;
+
+&emsp;(B) enhancing transportation safety;
+
+&emsp;(C) enhancing workplace safety;
+
+&emsp;(D) improving emergency response and search and rescue functions; and
+
+&emsp;(E) using radio spectrum efficiently and competitively.
+
+(c) Within 180 days of the establishment of the Program, the Secretary shall enter into agreements with State, local, or tribal governments to participate in the Program, with the goal of entering into at least 5 such agreements by that time.
+
+(d) In carrying out subsection (c) of this section, the Secretary shall select State, local, or tribal governments that plan to begin integration of UAS into the NAS in their jurisdictions within 90 days after the date on which the agreement is established.
+
+(e) The Secretary shall consider new proposals for participation in the Program up to 1 year before the Program is scheduled to terminate.
+
+(f) The Secretary shall apply best practices from existing FAA test sites, waivers granted under 14 CFR part 107, exemptions granted under section 333 of the FMRA, the FAA Focus Area Pathfinder Program, and any other relevant programs in order to expedite the consideration of exceptions, exemptions, authorizations, and waivers from FAA regulations to be granted under the Program, as described in subsection (a)(iv) of this section.
+
+(g) The Secretary shall address any non-compliance with the terms of exceptions, exemptions, authorizations, waivers granted, or agreements made with UAS users or participating jurisdictions in a timely and appropriate manner, including by revoking or modifying the relevant terms.
+
+Sec. 4. <i>Coordination</i>. (a) The Administrator, in coordination with the Administrator of the National Aeronautics and Space Administration, shall apply relevant information collected during the Program and preliminary findings to inform the development of the UAS Traffic Management System under section 2208 of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190).
+
+(b) The Secretary, in coordination with the Secretaries of Defense and Homeland Security and the Attorney General, shall take necessary and appropriate steps to:
+
+(i) mitigate risks to public safety and homeland and national security when selecting proposals and implementing the Program; and
+
+(ii) monitor compliance with relevant laws and regulations to ensure that Program activities do not interfere with national defense, homeland security, or law enforcement operations and missions.
+
+(c) The heads of executive departments and agencies with relevant law enforcement responsibilities (Federal law enforcement agencies), including the Attorney General and the Secretary of Homeland Security, shall develop and implement best practices to enforce the laws and regulations governing UAS operations conducted under the Program.
+
+(d) In carrying out the responsibilities set forth in subsection (c) of this section, the heads of Federal law enforcement agencies shall coordinate with the Secretaries of Defense and Transportation, as well as with the relevant State, local, or tribal law enforcement agencies.
+
+(e) In implementing the Program, the Secretary shall coordinate with the Secretaries of Defense and Homeland Security and the Attorney General to test counter-UAS capabilities, as well as platform and system-wide cybersecurity, to the extent appropriate and consistent with law.
+
+Sec. 5. <i>Evaluation and Termination of UAS Integration Pilot Program</i>. (a) The Program shall terminate 3 years from the date of this memorandum, unless extended by the Secretary.
+
+(b) Before and after the termination of the Program, the Secretary shall use the information and experience yielded by the Program to inform the development of regulations, initiatives, and plans to enable safer and more complex UAS operations, and shall, as appropriate, share information with the Secretaries of Defense and Homeland Security, the Attorney General, and the heads of other executive departments and agencies.
+
+(c) After the date of this memorandum and until the Program is terminated, the Secretary, in consultation with the Secretaries of Defense and Homeland Security and the Attorney General, shall submit an annual report to the President setting forth the Secretary's interim findings and conclusions concerning the Program. Not later than 90 days after the Program is terminated, the Secretary shall submit a final report to the President setting forth the Secretary's findings and conclusions concerning the Program.
+
+Sec. 6. <i>Definitions</i>. As used in this memorandum, the next stated terms, in singular and plural, are defined as follows:
+
+(a) The term "unmanned aircraft system" has the meaning given that term in section 331 of the FMRA.
+
+(b) The term "public unmanned aircraft system" has the meaning given that term in section 331 of the FMRA.
+
+(c) The term "civil unmanned aircraft system" means an unmanned aircraft system that meets the qualifications and conditions required for operation of a civil aircraft, as defined in 49 U.S.C. 40102.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals; or
+
+(iii) the conduct of public aircraft operations, as defined in 49 U.S.C. 40102(a)(41) and 40125, by executive departments and agencies, consistent with applicable Federal law.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

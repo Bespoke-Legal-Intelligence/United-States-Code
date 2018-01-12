@@ -10,7 +10,7 @@ Military Status.—An officer of the armed forces, while serving in a position c
 
 (b)
 
-Director and Deputy Director of CIA.—When the position of Director or Deputy Director of the Central Intelligence Agency is held by an officer of the armed forces, the position, so long as the officer serves in the position, shall be designated, pursuant to subsection (b) of section 526 of this title, as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+Director and Deputy Director of CIA.—When the position of Director or Deputy Director of the Central Intelligence Agency is held by an officer of the armed forces, the position, solong as the officer serves in the position, shall be designated, pursuant to subsection (b) of section 526 of this title, as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
 (c)
 

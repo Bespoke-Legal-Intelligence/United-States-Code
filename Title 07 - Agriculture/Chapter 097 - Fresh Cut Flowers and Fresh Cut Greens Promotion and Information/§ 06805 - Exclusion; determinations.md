@@ -30,7 +30,7 @@ An order shall exclude from assessments under the order any sale of cut flowers 
 
 #### (B) Stock and ownership interest
 
-&emsp;&emsp;For the purpose of this paragraph, stock or an ownership interest in an entity that isowned by the spouse, children, grandchildren, parents, grandparents, or partners of an individual, or by a partnership in which a person is a partner, or by a corporation more than 50 percent of the stock of which is owned by a person, shall be treated as owned by the individual or person.
+&emsp;&emsp;For the purpose of this paragraph, stock or an ownership interest in an entity that is owned by the spouse, children, grandchildren, parents, grandparents, or partners of an individual, or by a partnership in which a person is a partner, or by a corporation more than 50 percent of the stock of which is owned by a person, shall be treated as owned by the individual or person.
 
 #### (3) Reports
 

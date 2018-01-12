@@ -8,7 +8,7 @@
 
 #### (2) Allotment
 
-&emsp;From amounts described in paragraph (1) for a fiscal year, the Secretary shall allot to each State educational agency for that fiscal year an amount that bears the same ratio to those amounts as the number of students in average daily attendance served by eligible local educational agencies in the State for that fiscal year bears to the number of all such students served by eligible local educational agencies in all States for that fiscal year.
+&emsp;From amounts described in paragraph (1) for a fiscal year, the Secretary shall allot to eachState educational agency for that fiscal year an amount that bears the same ratio to those amounts as the number of students in average daily attendance served by eligible local educational agencies in the State for that fiscal year bears to the number of all such students served by eligible local educational agencies in all States for that fiscal year.
 
 #### (3) Specially qualified agencies
 

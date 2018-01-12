@@ -22,7 +22,7 @@ The Commission is authorized to—
 
 #### (e) Penalties
 
-(1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed $100,000 for each such violation, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
+(1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed$100,000 for each such violation, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
 
 (2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
 
@@ -78,7 +78,7 @@ Subsec. (e)(5)(B). Pub. L. 110–314, §217(a)(3)(C), which directed the substit
 
 Subsec. (e). Pub. L. 101–608, §115(c), added subsec. (e).
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–189, §4(a), inserted ", including provisions for maintenance of records relating to fabrics, related materials, and products," after "rules and regulations" and inserted sentencemaking violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+<b>1967</b>—Subsec. (c). Pub. L. 90–189, §4(a), inserted ", including provisions for maintenance of records relating to fabrics, related materials, and products," after "rules and regulations" and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
 
 Subsec. (d)(1). Pub. L. 90–189, §4(b), substituted "product, fabric or related material" for "article of wearing apparel or fabric".
 
@@ -86,7 +86,7 @@ Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted "or territory or with the 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made by this subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
+Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made bythis subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Transfer of Functions
 

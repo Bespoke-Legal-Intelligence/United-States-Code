@@ -44,7 +44,7 @@
 
 #### (C) Recommendations
 
-&emsp;&emsp;Recommendations for appropriate actions that should be taken to advance research in the areas described in subparagraph (A)(i)and to address the research questions identified in subparagraph (B), as well as for appropriate benchmarks to measure progress on achieving such actions, including the following:
+&emsp;&emsp;Recommendations for appropriate actions that should be taken to advance research in the areas described in subparagraph (A)(i) and to address the research questions identified in subparagraph (B), as well as for appropriate benchmarks to measure progress on achieving such actions, including the following:
 
 #### (i) Researchers
 

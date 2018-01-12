@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (i) Controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer undersubsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
+&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
 
 #### (ii) Predecessors
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug onlyif such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account holder attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account holder attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -310,7 +310,7 @@ For purposes of this section—
 
 &emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
 
-#### (7) Transfer of account incident to divorce
+#### (7) <sup>1</sup> Transfer of account incident to divorce
 
 &emsp;The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
 
@@ -334,7 +334,7 @@ For purposes of this section—
 
 #### (I) Reduction of inclusion for pre-death expenses
 
-&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (otherthan the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
+&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
 
 #### (II) Deduction for estate taxes
 
@@ -346,7 +346,7 @@ In the case of any taxable year beginning in a calendar year after 1998, each do
 
 &emsp;(1) such dollar amount, multiplied by
 
-&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting "calendar year 1997" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > If any increase under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
@@ -450,7 +450,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;&emsp;(ii) the Secretary's estimate (determined on the basis of the returns described in clause (i)) of the number of MSA returns for such taxable years which will be filed after such date,
 
-> &emsp;&emsp;exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, the term "MSA return" means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
+> &emsp;&emsp;exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, theterm "MSA return" means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
 
 #### (B) Alternative computation of limitation
 
@@ -508,7 +508,17 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854; Pub. L. 115–97, title I, §§11002(d)(1)(T), 11051(b)(3)(D), Dec. 22, 2017, 131 Stat. 2060, 2090.)
+
+#### Amendment of Subsection (f)(7)
+
+<i>Pub. L. 115–97, title I, §11051(b)(3)(D), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (f)(7) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (f)(7) reads as follows:</i>
+
+#### <i>(7) Transfer of account incident to divorce</i>
+
+&emsp;<i>The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -516,7 +526,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generallyto subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -527,6 +537,10 @@ Another prior section 220, added Pub. L. 100–647, title VI, §6007(a), Nov. 10
 Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f)(7). Pub. L. 115–97, §11051(b)(3)(D), substituted "clause (i) of section 121(d)(3)(C)" for "subparagraph (A) of section 71(b)(2)".
+
+Subsec. (g)(2). Pub. L. 115–97, §11002(d)(1)(T), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(b), inserted at end "Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin."
 
@@ -592,7 +606,7 @@ Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(B)\], subst
 
 Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted "an Archer MSA" for "a Archer MSA" wherever appearing.
 
-Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(4), (b)(2)(B)\], substituted "Archer MSA" for "medical savings account" wherever appearing and "Archer MSAs" for"medical savings accounts" in introductory provisions of par. (3)(A).
+Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(4), (b)(2)(B)\], substituted "Archer MSA" for "medical savings account" wherever appearing and "Archer MSAs" for "medical savings accounts" in introductory provisions of par. (3)(A).
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted "an Archer MSA" for "a Archer MSA".
 
@@ -641,6 +655,12 @@ Subsec. (j)(4)(D). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(B)\], su
 Subsec. (c)(3). Pub. L. 105–34, §1602(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "Medicare supplemental insurance,".
 
 Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted "described in clauses (i) and (ii) of subsection (c)(1)(A)" for "an eligible individual".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(T) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 11051(b)(3)(D) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -715,4 +735,6 @@ Pub. L. 104–191, title III, §301(l), Aug. 21, 1996, 110 Stat. 2052, provided 
 &emsp;"(6) other relevant items.
 
 > A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999."
+
+<i><sup>1</sup></i><i> See Amendment of Subsection (f)(7) note below.</i>
 

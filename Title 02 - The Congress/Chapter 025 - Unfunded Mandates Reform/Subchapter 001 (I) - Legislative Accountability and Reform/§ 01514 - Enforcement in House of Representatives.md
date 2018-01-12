@@ -18,7 +18,7 @@ Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 1
 
 #### Effective Date
 
-Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after suchdate, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

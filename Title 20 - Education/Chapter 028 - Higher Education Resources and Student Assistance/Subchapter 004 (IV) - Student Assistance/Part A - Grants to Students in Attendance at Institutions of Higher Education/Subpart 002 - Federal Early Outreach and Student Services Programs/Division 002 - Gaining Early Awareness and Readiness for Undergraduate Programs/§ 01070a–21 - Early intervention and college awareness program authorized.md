@@ -24,7 +24,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 &emsp;&emsp;(A) six years; or
 
-&emsp;&emsp;(B) in the case of an eligible entity that applies for a grant under this division for seven years to enable the eligible entity to provide services to a student through thestudent's first year of attendance at an institution of higher education, seven years.
+&emsp;&emsp;(B) in the case of an eligible entity that applies for a grant under this division for seven years to enable the eligible entity to provide services to a student through the student's first year of attendance at an institution of higher education, seven years.
 
 #### (3) Priority
 
@@ -58,7 +58,7 @@ For the purposes of this division, the term "eligible entity" means—
 
 #### Prior Provisions
 
-A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(12), Dec. 20, 1993, 107 Stat. 2459, authorized establishment of early intervention program, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(12), Dec. 20, 1993, 107 Stat. 2459, authorized establishment of early intervention program, prior to the general amendment of this division by Pub. L. 105–244.
 
 #### Amendments
 

@@ -30,7 +30,7 @@ July 25, 1956, ch. 727, §3(b), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff. Ju
 
 31:703(b)(1st sentence words after 4th comma, last sentence).
 
-In the section, the word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In the section, the word "President" is substituted for "Director of the Office of Management and Budget"because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 #### Amendments
 

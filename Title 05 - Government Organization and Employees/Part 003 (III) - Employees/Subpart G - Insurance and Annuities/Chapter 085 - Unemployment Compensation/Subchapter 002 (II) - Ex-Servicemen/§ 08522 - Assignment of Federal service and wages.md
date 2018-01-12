@@ -1,6 +1,6 @@
 ### §8522. Assignment of Federal service and wages
 
-Notwithstanding section 8504 of this title, Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed as assignment under section 8504 of this title for the purpose of this subchapter.
+Notwithstanding section 8504 of this title, Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed an assignment under section 8504 of this title for the purpose of this subchapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 94–566, title I, §116(e)(5), Oct. 20, 1976, 90 Stat. 2673.)
 
@@ -30,5 +30,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
+Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1,1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 

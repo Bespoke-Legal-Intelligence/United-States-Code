@@ -36,7 +36,7 @@
 
 (f)(1) Upon the recommendation of the Under Secretary for Health, the Secretary may—
 
-&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject to paragraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
+&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject toparagraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
 
 &emsp;(B) use the authority provided in subsection (c) for the promotion and advancement of Department employees serving in such positions.
 
@@ -80,7 +80,7 @@
 
 (6) In implementing a system of promotion and advancement under this subsection, the Secretary shall—
 
-&emsp;(A) develop and implement mechanisms to permit exclusive employee representatives to participate in the periodic review and evaluation of the system, including peer review, andin any further planning or development required with respect to the system as a result of such review and evaluation; and
+&emsp;(A) develop and implement mechanisms to permit exclusive employee representatives to participate in the periodic review and evaluation of the system, including peer review, and in any further planning or development required with respect to the system as a result of such review and evaluation; and
 
 &emsp;(B) provide exclusive employee representatives appropriate access to information to ensure that the participation of such exclusive employee representative in activities under subparagraph (A) is productive.
 

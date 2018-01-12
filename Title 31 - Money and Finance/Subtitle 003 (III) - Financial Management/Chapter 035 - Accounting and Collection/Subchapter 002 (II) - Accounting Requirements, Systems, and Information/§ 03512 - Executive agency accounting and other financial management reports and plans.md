@@ -20,11 +20,11 @@
 
 &emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
 
-&emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
+&emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement ofthe efforts underway to remedy the noncompliance; and
 
 &emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
-(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of theOffice of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
+(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
 (B) Each governmentwide 5-year financial management plan prepared under this subsection shall—
 
@@ -202,13 +202,13 @@ In subsection (b)(1), before clause (A), the words "the head of" are added for c
 
 In subsection (c)(1)(A), the words "the head of each executive agency shall follow" are substituted for "agencies" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because of the restatement. The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word "related" is omitted as surplus.
+In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because ofthe restatement. The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word "related" is omitted as surplus.
 
 In subsection (c)(3)(A), the words "provision of" are omitted as surplus.
 
 #### References in Text
 
-The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255,Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
 The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
@@ -410,7 +410,7 @@ Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Ac
 
 &emsp;"(1)
 
-Agency.—The term 'agency' means a department or agency of the United States Government asdefined in section 901(b) of title 31, United States Code.
+Agency.—The term 'agency' means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
 
 &emsp;"(2)
 

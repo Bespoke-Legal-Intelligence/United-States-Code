@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) submit to the Secretary a plan to coordinate functions with quality improvement organizations and area health education centers if such entities are members of the Hub not described in subsection (b)(2)(A);
 
-&emsp;&emsp;(B) contract with a county- or local-level entity that shall serve as the Primary Care Extension Agency to administer the services described in paragraph (2);
+&emsp;&emsp;(B) contract with a county- or local-level entity that shall serve as the Primary CareExtension Agency to administer the services described in paragraph (2);
 
 &emsp;&emsp;(C) organize and administer grant funds to county- or local-level Primary Care Extension Agencies that serve a catchment area, as determined by the State; and
 

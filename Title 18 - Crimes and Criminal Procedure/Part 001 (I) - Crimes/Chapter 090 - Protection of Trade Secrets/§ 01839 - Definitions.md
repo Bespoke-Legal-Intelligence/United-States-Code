@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) does not include reverse engineering, independent derivation, or any other lawful means of acquisition; and
 
-&emsp;(7) the term "Trademark Act of 1946" means the Act entitled "An Act to provide for theregistration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes <sup>1</sup>, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the 'Trademark Act of 1946' or the 'Lanham Act')" <sup>1</sup>.
+&emsp;(7) the term "Trademark Act of 1946" means the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes <sup>1</sup>, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the 'Trademark Act of 1946' or the 'Lanham Act')" <sup>1</sup>.
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, §2(b), May 11, 2016, 130 Stat. 380.)
 

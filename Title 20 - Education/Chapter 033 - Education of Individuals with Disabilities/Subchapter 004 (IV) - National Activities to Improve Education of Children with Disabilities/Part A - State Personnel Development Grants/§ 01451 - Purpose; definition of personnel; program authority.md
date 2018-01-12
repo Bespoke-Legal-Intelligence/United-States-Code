@@ -94,7 +94,7 @@ In this part the term "personnel" means special education teachers, regular educ
 
 A prior section 1451, Pub. L. 91–230, title VI, §651, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 123, related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1451, Pub. L. 91–230, title VI, §651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, §106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, §601, title IX, §901(b)(150), Oct. 30, 1990, 104 Stat.1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1451, Pub. L. 91–230, title VI, §651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, §106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, §601, title IX, §901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make implementation grants to applicants for the purpose of carrying out homeownership programs approved under this part.
+The Secretary is authorized to make implementation grants to applicants for the purposeof carrying out homeownership programs approved under this part.
 
 #### (b) Eligible activities
 

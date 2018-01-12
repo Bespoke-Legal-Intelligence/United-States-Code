@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–323, §10, formerly §9, Sept. 21, 1994, 108 Stat. 2155; renumbered §10, Pub. L. 103–435,§20(1), Nov. 2, 1994, 108 Stat. 4574, which set out definitions, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–323, §10, formerly §9, Sept. 21, 1994, 108 Stat. 2155; renumbered §10, Pub. L. 103–435, §20(1), Nov. 2, 1994, 108 Stat. 4574, which set out definitions, was omitted from the Code as being of special and not general application.
 

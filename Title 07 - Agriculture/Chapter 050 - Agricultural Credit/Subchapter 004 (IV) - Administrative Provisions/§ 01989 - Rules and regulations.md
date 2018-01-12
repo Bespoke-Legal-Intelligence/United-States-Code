@@ -32,7 +32,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 &emsp;Notwithstanding any other provision of law:
 
-&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection by a certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
+&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection bya certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
 
 &emsp;&emsp;(B) With respect to loans to be guaranteed by the Secretary under this subsection, the Secretary shall permit certified lending institutions to make appropriate certifications (as provided by regulations issued by the Secretary)—
 
@@ -66,7 +66,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (3) Condition of certification
 
-&emsp;As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standardsconcerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each preferred certified lender to ensure that the conditions of such certification are being met.
+&emsp;As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each preferred certified lender to ensure that the conditions of such certification are being met.
 
 #### (4) Effect of preferred lender certification
 
@@ -102,7 +102,7 @@ Pub. L. 102–554, §23, Oct. 28, 1992, 106 Stat. 4161, provided that:
 
 "(a)
 
-Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
+Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interimregulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
 
 "(b)
 

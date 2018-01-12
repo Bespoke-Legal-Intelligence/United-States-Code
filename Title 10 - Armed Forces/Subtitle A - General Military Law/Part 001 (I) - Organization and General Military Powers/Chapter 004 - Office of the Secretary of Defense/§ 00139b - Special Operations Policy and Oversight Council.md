@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In order to fulfill the responsibilities specified in section 138(b)(4) of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the "Special Operations Policy and Oversight Council" (in this section referred to as the "Council").
+In General.—In order to fulfill the responsibilities specified in section 138(b)(4) <sup>1</sup> of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the "Special Operations Policy and Oversight Council" (in this section referred to as the "Council").
 
 (b)
 
@@ -36,13 +36,17 @@ Membership.—The Council shall include the following:
 
 &emsp;&emsp;(J) The United States Special Operations Command.
 
-&emsp;&emsp;(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate <sup>1</sup>
+&emsp;&emsp;(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
 
 (d)
 
 Operation.—The Council shall operate continuously.
 
-(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355.)
+(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594.)
+
+#### References in Text
+
+Section 138(b)(4) of this title, referred to in subsec. (a), was redesignated section 138(b)(2) of this title by Pub. L. 115–91, div. A, title IX, §907(b)(2), Dec. 12, 2017, 131 Stat. 1514.
 
 #### Prior Provisions
 
@@ -52,5 +56,9 @@ Another prior section 139b was renumbered section 138c of this title.
 
 Another prior section 139b was renumbered section 2433 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+#### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(K). Pub. L. 115–91 inserted period at end.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

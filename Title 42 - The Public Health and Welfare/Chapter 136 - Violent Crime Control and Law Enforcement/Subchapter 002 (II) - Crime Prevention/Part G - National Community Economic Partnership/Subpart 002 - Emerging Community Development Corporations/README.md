@@ -5,5 +5,5 @@ subpart 2—emerging community development corporations
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 13841 - Community development corporation improvement grants](%C2%A7%2013841%20-%20Community%20development%20corporation%20improvement%20grants.md)
-- [&sect; 13842 - Emerging community development corporation revolving loan funds](%C2%A7%2013842%20-%20Emerging%20community%20development%20corporation%20revolving%20loan%20funds.md)
+- [&sect; 13841 - Transferred](%C2%A7%2013841%20-%20Transferred.md)
+- [&sect; 13842 - Transferred](%C2%A7%2013842%20-%20Transferred.md)

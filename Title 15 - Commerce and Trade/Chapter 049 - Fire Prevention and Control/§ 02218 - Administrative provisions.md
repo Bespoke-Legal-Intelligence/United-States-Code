@@ -50,7 +50,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679 of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679 of the Revised Statutes (31 U.S.C.665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

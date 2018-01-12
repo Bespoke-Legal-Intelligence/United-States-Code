@@ -46,7 +46,7 @@ List of passengers.—An assurance that the foreign air carrier shall provide, i
 
 &emsp;(5)
 
-Consultation regarding disposition of remains and effects.—An assurance that the family of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
+Consultation regarding disposition of remains and effects.—An assurance that thefamily of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
 
 &emsp;(6)
 
@@ -86,7 +86,7 @@ Substitute measures.—If a foreign air carrier does not wish to comply with par
 
 &emsp;(15)
 
-Training of employees and agents.—An assurance that the foreign air carrier will provide adequate training to the employeesand agents of the carrier to meet the needs of survivors and family members following an accident.
+Training of employees and agents.—An assurance that the foreign air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
 
 &emsp;(16)
 

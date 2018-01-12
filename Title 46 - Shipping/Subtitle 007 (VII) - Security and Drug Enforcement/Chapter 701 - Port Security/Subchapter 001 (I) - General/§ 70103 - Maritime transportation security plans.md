@@ -20,7 +20,7 @@ National Maritime Transportation Security Plan.—(1) Not later than April 1, 20
 
 &emsp;(E) A system of surveillance and notice designed to safeguard against as well as ensure earliest possible notice of a transportation security incident and imminent threats of such a security incident to the appropriate State and Federal agencies.
 
-&emsp;(F) Establishment of criteria and procedures to ensure immediate and effective Federalidentification of a transportation security incident, or the substantial threat of such a security incident.
+&emsp;(F) Establishment of criteria and procedures to ensure immediate and effective Federal identification of a transportation security incident, or the substantial threat of such a security incident.
 
 &emsp;(G) Designation of—
 
@@ -184,7 +184,7 @@ Resource deficiency reporting.—
 
 &emsp;&emsp;(A)
 
-In general.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report that includes—
+In general.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
 
 &emsp;&emsp;&emsp;(i) for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
 

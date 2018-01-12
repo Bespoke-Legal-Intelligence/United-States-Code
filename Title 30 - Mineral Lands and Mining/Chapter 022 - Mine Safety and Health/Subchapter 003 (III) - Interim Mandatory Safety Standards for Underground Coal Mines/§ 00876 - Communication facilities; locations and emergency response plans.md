@@ -62,7 +62,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 &emsp;&emsp;&emsp;&emsp;(III) a maintenance schedule for checking the reliability of self rescuers, retiring older self-rescuers first, and introducing new self-rescuer technology, such as units with interchangeable air or oxygen cylinders not requiring doffing to replenish airflow and units with supplies of greater than 60 minutes, as they are approved by the Administration and become available on the market; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) training for each miner in proper procedures for donning self-rescuers,switching from one unit to another, and ensuring a proper fit.
+&emsp;&emsp;&emsp;&emsp;(IV) training for each miner in proper procedures for donning self-rescuers, switching from one unit to another, and ensuring a proper fit.
 
 #### (iv) Post-accident lifelines
 
@@ -113,6 +113,10 @@ This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original "th
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–236 inserted "and emergency response plans" after "locations" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

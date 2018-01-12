@@ -32,7 +32,7 @@ Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, provided that: "The Congr
 
 &emsp;"(4) Negotiated rulemaking, in which the parties who will be significantly affected by a rule participate in the development of the rule, can provide significant advantages over adversarial rulemaking.
 
-&emsp;"(5) Negotiated rulemaking can increase the acceptability and improve the substance of rules, making it less likely that the affected parties will resist enforcement or challenge such rules in court. It may also shorten the amount of time needed to issue final rules.
+&emsp;"(5) Negotiated rulemaking can increase the acceptability and improve the substance of rules, making it less likely that the affected parties will resist enforcement or challenge such rules in court. It mayalso shorten the amount of time needed to issue final rules.
 
 &emsp;"(6) Agencies have the authority to establish negotiated rulemaking committees under the laws establishing such agencies and their activities and under the Federal Advisory Committee Act (5 U.S.C. App.). Several agencies have successfully used negotiated rulemaking. The process has not been widely used by other agencies, however, in part because such agencies are unfamiliar with the process or uncertain as to the authority for such rulemaking."
 

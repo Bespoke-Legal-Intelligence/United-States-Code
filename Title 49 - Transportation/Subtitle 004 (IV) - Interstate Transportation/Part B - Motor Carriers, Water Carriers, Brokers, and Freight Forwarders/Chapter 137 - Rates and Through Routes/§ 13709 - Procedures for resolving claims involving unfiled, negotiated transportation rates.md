@@ -24,7 +24,7 @@ In general.—When a claim is made by a motor carrier of property (other than a 
 
 &emsp;(2)
 
-Forum.—If there is a dispute as to the showing under paragraph (1)(A), such dispute shall be resolved by the court in which the claim is brought. If there is a dispute as to the showing under paragraph (1)(B), such dispute shall be resolved by the Board. Pending the resolution of any such dispute, the personshall not have to pay any additional compensation to the carrier or freight forwarder.
+Forum.—If there is a dispute as to the showing under paragraph (1)(A), such dispute shall be resolved by the court in which the claim is brought. If there is a dispute as to the showing under paragraph (1)(B), such dispute shall be resolved by the Board. Pending the resolution of any such dispute, the person shall not have to pay any additional compensation to the carrier or freight forwarder.
 
 &emsp;(3)
 
@@ -64,7 +64,7 @@ General rule.—A person must notify the carrier or freight forwarder as to its 
 
 &emsp;(2)
 
-Demands for payment initially made after december 3, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
+Demands for payment initially made after december 3, 1993.—If the carrier orfreight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 

@@ -6,7 +6,7 @@
 
 #### (A) Contents of report
 
-&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
+&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the Stateprogram funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &emsp;&emsp;&emsp;(i) The county of residence of the family.
 
@@ -80,7 +80,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated caserecord information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
+&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
 
 #### (ii) Sampling and other methods
 
@@ -220,7 +220,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (A) Designation
 
-&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a dataexchange standard for any category of information required to be reported under this part.
+&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a data exchange standard for any category of information required to be reported under this part.
 
 #### (B) Data exchange standards must be nonproprietary and interoperable
 
@@ -304,7 +304,7 @@ Subsec. (a)(1)(B). Pub. L. 105–33, §5507(1)(B), substituted "samples" for "es
 
 Subsec. (a)(2). Pub. L. 105–33, §5001(e)(2), inserted before period at end ", with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title".
 
-Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of thetotal amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
+Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
 
 Subsec. (a)(4). Pub. L. 105–33, §5001(e)(4), inserted before period at end ", with a separate statement of the number of such parents who participated in programs operated with funds provided under section 603(a)(5) of this title".
 

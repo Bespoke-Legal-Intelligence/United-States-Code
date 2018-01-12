@@ -14,7 +14,7 @@ Authority To Sell Outside DoD.—The Secretary of the Army may sell to an eligib
 
 (b)
 
-Method of Sale.—The Secretary shall use competitive procedures to sell ammunition and ammunition components under this section, except that the Secretary may use procedures other than competitive procedures in any case in which the Secretary determines that there is only one potential buyer of the items being offered for sale.
+Method of Sale.—The Secretary shall use competitive procedures to sell ammunition and ammunition components under this section, except that the Secretary may use procedures other than competitive procedures in any casein which the Secretary determines that there is only one potential buyer of the items being offered for sale.
 
 (c)
 

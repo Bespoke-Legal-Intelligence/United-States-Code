@@ -30,7 +30,7 @@ The duties of the owner's agent under subsection (a) shall include advising the 
 
 &emsp;The report required by paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) Information on the status of, and the plan for resolving, each unreviewed safetyquestion at each facility covered by the contract described in subsection (b).
+&emsp;&emsp;(A) Information on the status of, and the plan for resolving, each unreviewed safety question at each facility covered by the contract described in subsection (b).
 
 &emsp;&emsp;(B) An identification of each instance of disagreement between the owner's agent and the contractor with respect to whether an unreviewed safety question exists and the plan for resolution of the disagreement.
 

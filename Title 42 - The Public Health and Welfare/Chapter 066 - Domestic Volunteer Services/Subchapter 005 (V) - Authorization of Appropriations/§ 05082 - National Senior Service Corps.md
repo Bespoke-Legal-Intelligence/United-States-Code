@@ -56,7 +56,7 @@ Subsec. (b)(2). Pub. L. 95–478, §402(d)(2), authorized appropriations of $55,
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–135, §205(a)(1), authorized appropriations of $6,000,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $22,000,000 for fiscal years ending Sept. 30, 1977, and 1978.
 
-Subsec. (b). Pub. L. 94–135, §205(a)(2), authorized appropriations of $10,750,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $43,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in introductory text; $8,750,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $35,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in cl. (A); and $2,000,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $8,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in cl. (B).
+Subsec. (b). Pub. L. 94–135, §205(a)(2), authorized appropriations of $10,750,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $43,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in introductory text; $8,750,000 for period beginning July 1, 1976, and ending Sept. 30, 1976, and $35,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in cl. (A); and $2,000,000 for period beginning July 1, 1976, and ending Sept. 30, 1976,and $8,000,000 for fiscal years ending Sept. 30, 1977, and 1978, in cl. (B).
 
 #### Effective Date of 2009 Amendment
 

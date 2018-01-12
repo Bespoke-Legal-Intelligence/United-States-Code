@@ -1,0 +1,6 @@
+### §14142. Transferred
+
+#### Codification
+
+Section 14142 was editorially reclassified as section 12602 of Title 34, Crime Control and Law Enforcement.
+

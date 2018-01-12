@@ -118,11 +118,11 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, andsection 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to this subchapter (§631 et seq.) and subchapter II (§651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344,July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to this subchapter (§631 et seq.) and subchapter II (§651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -250,13 +250,13 @@ Definitions.—For purposes of this subsection:
 
 &emsp;"(4) The term 'previous legislation' shall not include legislation enacted before fiscal year 1991.
 
-&emsp;"(5) The term '5-year estimating period' means, with respect to any legislation, the fiscal year inwhich such legislation becomes or would become effective and the next 4 fiscal years.
+&emsp;"(5) The term '5-year estimating period' means, with respect to any legislation, the fiscal year in which such legislation becomes or would become effective and the next 4 fiscal years.
 
 &emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits."
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
-Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981,a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 

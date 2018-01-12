@@ -3650,6 +3650,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXXIX—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [460bbbb.](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/%C2%A7%2000460bbbb%20-%20Establishment%20of%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park.md) | Establishment of Martin Luther King, Jr. National Historical Park. |
+| 460bbbb–1. | Administration. |
+| 460bbbb–2. | Authority of Secretary regarding property and concessions. |
+| 460bbbb–3. | Establishment of Advisory Commission. |
+| 460bbbb–4. | Entrance or admission fees prohibited. |
+| 460bbbb–5. | Authorization of appropriations; limitation on authority. |
+| 460bbbb–6. | Minimizing adverse impacts on preservation district. |
+| 460bbbb–7. | Submission of comprehensive general management plan. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3844,3 +3859,4 @@
 - [Subchapter 136 (CXXXVI) - Fort Stanton-Snowy River Cave National Conservation Area](Subchapter%20136%20%28CXXXVI%29%20-%20Fort%20Stanton-Snowy%20River%20Cave%20National%20Conservation%20Area/README.md)
 - [Subchapter 137 (CXXXVII) - Dominguez-Escalante National Conservation Area](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/README.md)
 - [Subchapter 138 (CXXXVIII) - Nellis Dunes Off-Highway Vehicle Recreation Area](Subchapter%20138%20%28CXXXVIII%29%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area/README.md)
+- [Subchapter 139 (CXXXIX) - Martin Luther King, Jr. National Historical Park](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/README.md)

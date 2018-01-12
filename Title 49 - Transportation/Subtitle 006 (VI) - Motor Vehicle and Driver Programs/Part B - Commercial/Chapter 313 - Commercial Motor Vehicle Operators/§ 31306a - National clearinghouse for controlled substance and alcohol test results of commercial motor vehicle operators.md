@@ -54,7 +54,7 @@ Development of secure processes.—In establishing the clearinghouse, the Secret
 
 &emsp;&emsp;(E) storing and transmitting data;
 
-&emsp;&emsp;(F) persons required to report to the clearinghouse under subsection (g) to timely and accurately submit electronic data to the clearinghouse;
+&emsp;&emsp;(F) persons required to report to the clearinghouse under subsection (g) to timely andaccurately submit electronic data to the clearinghouse;
 
 &emsp;&emsp;(G) generating timely and accurate reports from the clearinghouse in response to requests for information by authorized users; and
 
@@ -270,7 +270,7 @@ State licensing authorities.—The Secretary shall establish a process for the c
 
 &emsp;&emsp;(A)
 
-Consent.—The Secretary may grant access to an individual's record in the clearinghouse under this paragraph without the prior written or electronic consent of the individual. An individual who holds a commercial driver's license shall be deemed to consent to such access by obtaining a commercial driver's license.
+Consent.—The Secretary may grant access to an individual's record in the clearinghouse under this paragraph without theprior written or electronic consent of the individual. An individual who holds a commercial driver's license shall be deemed to consent to such access by obtaining a commercial driver's license.
 
 &emsp;&emsp;(B)
 
@@ -392,7 +392,7 @@ Secretary.—The term "Secretary" means the Secretary of Transportation.
 
 &emsp;(8)
 
-Service agent.—The term "service agent" means a person or entity, other than an employee of the employer, who provides services to employers or employees under the testing program.
+Service agent.—The term "service agent" means a person or entity, other than an employee of the employer, who providesservices to employers or employees under the testing program.
 
 &emsp;(9)
 

@@ -36,7 +36,7 @@
 
 &emsp;(B) such increase is approved in a referendum conducted under section 4811(b) of this title.
 
-(4)(A) Pork or pork products imported into the United States shall be assessed based on the equivalent value of the live porcine animal from which such pork or pork products were produced, as determined by the Secretary.
+(4)(A) Pork or pork products imported into the United States shall be assessed based on theequivalent value of the live porcine animal from which such pork or pork products were produced, as determined by the Secretary.
 
 (B) The Secretary may waive the collection of assessments on a type of such imported pork or pork products if the Secretary determines that such collection is not practicable.
 

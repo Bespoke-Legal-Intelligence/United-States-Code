@@ -1,0 +1,6 @@
+### §1195. Transferred
+
+#### Codification
+
+Section 1195 was editorially reclassified as section 424 of Title 25, Indians.
+

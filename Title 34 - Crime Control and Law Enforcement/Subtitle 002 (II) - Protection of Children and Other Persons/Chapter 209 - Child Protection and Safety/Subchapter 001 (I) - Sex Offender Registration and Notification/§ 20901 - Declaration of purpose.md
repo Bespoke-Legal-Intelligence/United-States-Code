@@ -1,0 +1,48 @@
+### §20901. Declaration of purpose
+
+In order to protect the public from sex offenders and offenders against children, and in response to the vicious attacks by violent predators against the victims listed below, Congress in this chapter establishes a comprehensive national system for the registration of those offenders:
+
+&emsp;(1) Jacob Wetterling, who was 11 years old, was abducted in 1989 in Minnesota, and remains missing.
+
+&emsp;(2) Megan Nicole Kanka, who was 7 years old, was abducted, sexually assaulted, and murdered in 1994, in New Jersey.
+
+&emsp;(3) Pam Lychner, who was 31 years old, was attacked by a career offender in Houston, Texas.
+
+&emsp;(4) Jetseta Gage, who was 10 years old, was kidnapped, sexually assaulted, and murdered in 2005, in Cedar Rapids, Iowa.
+
+&emsp;(5) Dru Sjodin, who was 22 years old, was sexually assaulted and murdered in 2003, in North Dakota.
+
+&emsp;(6) Jessica Lunsford, who was 9 years old, was abducted, sexually assaulted, buried alive, and murdered in 2005, in Homosassa, Florida.
+
+&emsp;(7) Sarah Lunde, who was 13 years old, was strangled and murdered in 2005, in Ruskin, Florida.
+
+&emsp;(8) Amie Zyla, who was 8 years old, was sexually assaulted in 1996 by a juvenile offender in Waukesha, Wisconsin, and has become an advocate for child victims and protection of children from juvenile sex offenders.
+
+&emsp;(9) Christy Ann Fornoff, who was 13 years old, was abducted, sexually assaulted, and murdered in 1984, in Tempe, Arizona.
+
+&emsp;(10) Alexandra Nicole Zapp, who was 30 years old, was brutally attacked and murdered in a public restroom by a repeat sex offender in 2002, in Bridgewater, Massachusetts.
+
+&emsp;(11) Polly Klaas, who was 12 years old, was abducted, sexually assaulted, and murdered in 1993 by a career offender in California.
+
+&emsp;(12) Jimmy Ryce, who was 9 years old, was kidnapped and murdered in Florida on September 11, 1995.
+
+&emsp;(13) Carlie Brucia, who was 11 years old, was abducted and murdered in Florida in February, 2004.
+
+&emsp;(14) Amanda Brown, who was 7 years old, was abducted and murdered in Florida in 1998.
+
+&emsp;(15) Elizabeth Smart, who was 14 years old, was abducted in Salt Lake City, Utah in June 2002.
+
+&emsp;(16) Molly Bish, who was 16 years old, was abducted in 2000 while working as a lifeguard in Warren, Massachusetts, where her remains were found 3 years later.
+
+&emsp;(17) Samantha Runnion, who was 5 years old, was abducted, sexually assaulted, and murdered in California on July 15, 2002.
+
+(Pub. L. 109–248, title I, §102, July 27, 2006, 120 Stat. 590.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+
+#### Codification
+
+Section was formerly classified to section 16901 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+

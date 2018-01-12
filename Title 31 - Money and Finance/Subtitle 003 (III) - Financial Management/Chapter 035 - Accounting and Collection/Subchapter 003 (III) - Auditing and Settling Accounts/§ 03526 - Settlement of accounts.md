@@ -28,7 +28,7 @@
 
 (f) The Comptroller General shall keep all settled accounts, vouchers, certificates, and related papers until they are disposed of as prescribed by law.
 
-(g) This subchapter does not prohibit the Comptroller General from suspending an item inan account to get additional evidence or explanations needed to settle an account.
+(g) This subchapter does not prohibit the Comptroller General from suspending an item in an account to get additional evidence or explanations needed to settle an account.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 964.)
 

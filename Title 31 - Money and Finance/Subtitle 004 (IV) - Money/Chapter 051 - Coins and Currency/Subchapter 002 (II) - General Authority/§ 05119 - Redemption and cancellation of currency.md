@@ -32,7 +32,7 @@ Redemption, cancellation, and destruction of currency.—The Secretary shall—
 
 (2) When the Secretary makes a determination under this subsection, the Secretary shall reduce the amount of that currency outstanding by the amount the Secretary determines will not be redeemed and credit the appropriate receipt account.
 
-(d) To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
+(d) To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) afterredemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 102–390, title II, §226(b), Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–325, title VI, §602(g)(14), Sept. 23, 1994, 108 Stat. 2294.)
 
@@ -110,7 +110,7 @@ R.S. §3580.
 
 31:917.
 
-In subsection (a), the words "Secretary may not redeem" are substituted for "no . . . shall be redeemed" in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words "United States currency (including Federal reserve notes and circulating notes of Federal reservebanks and national banks)" are substituted for "currency of the United States" and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
+In subsection (a), the words "Secretary may not redeem" are substituted for "no . . . shall be redeemed" in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words "United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks)" are substituted for "currency of the United States" and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words "upon completion of the transfers and credits authorized and directed by section 912 of this title" in 31:915 and "and the amount of the payment credited as a public debt receipt in accordance with such section" are omitted as executed. In clause (B), the text of 31:405a–3(last sentence) and 31:915(a)(4) is consolidated. The text of 31:405a–3(1st sentence) is omitted as executed. In clauses (C) and (E), the citations in parentheses are included only for information purposes.
 

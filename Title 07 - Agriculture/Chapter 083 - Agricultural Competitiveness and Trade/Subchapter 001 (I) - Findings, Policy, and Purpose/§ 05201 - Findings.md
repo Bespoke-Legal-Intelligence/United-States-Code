@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) increase livestock production to enhance the demand for United States feed grains;
 
-&emsp;(10) food aid and export assistance programs in developing countries stimulate economic activity which causes incomes to rise, and, as incomes rise, diets improve and the demand for and ability to purchase food increases;
+&emsp;(10) food aid and export assistance programs in developing countries stimulate economic activity which causes incomes to rise, and, asincomes rise, diets improve and the demand for and ability to purchase food increases;
 
 &emsp;(11) private voluntary organizations and cooperatives are important and successful partners in our food aid and development programs; and
 

@@ -6,11 +6,11 @@ The Assistant Secretary shall make grants to institutions of higher education, i
 
 #### (b) Definitions
 
-For purposes of subsection (a) of this section:
+For purposes of subsection (a):
 
 #### (1) Hispanic Center of Excellence in Applied Gerontology
 
-&emsp;The term "Hispanic Center of Excellence in Applied Gerontology" means an institution ofhigher education with a program in applied gerontology that—
+&emsp;The term "Hispanic Center of Excellence in Applied Gerontology" means an institution of higher education with a program in applied gerontology that—
 
 &emsp;&emsp;(A) has a significant number of Hispanic individuals enrolled in the program, including individuals accepted for enrollment in the program;
 

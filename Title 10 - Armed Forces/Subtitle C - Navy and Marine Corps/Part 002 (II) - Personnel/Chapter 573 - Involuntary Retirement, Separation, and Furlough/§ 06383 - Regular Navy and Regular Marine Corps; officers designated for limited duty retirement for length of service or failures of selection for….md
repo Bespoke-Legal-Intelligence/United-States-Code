@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Retirement.—(1) Except as provided in subsection (k), each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer designated for limited duty shall be retired on the last day of the month following the month in which hecompletes 30 years of active naval service, exclusive of active duty for training in a reserve component.
+Mandatory Retirement.—(1) Except as provided in subsection (k), each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer designated for limited duty shall be retired on the last day of the month following the month in which he completes 30 years of active naval service, exclusive of active duty for training in a reserve component.
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
@@ -42,7 +42,7 @@ Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promoti
 
 (f) 18-
 
-Year Retirement Sanctuary.—If an officer subject to discharge under subsection (b),\(d), or (e) is (as of the date on which the officer is to be discharged) not eligible for retirement under any provision of law but is within two years of qualifying for retirement under section 6323 of this title, the officer shall be retained on active duty as an officer designated for limited duty until becoming qualified for retirement under that section and shall then be retired under that section, unless the officer is sooner retired or discharged under another provision of law or the officer reverts to a warrant officer grade pursuant to subsection (h).
+Year Retirement Sanctuary.—If an officer subject to discharge under subsection (b), (d), or (e) is (as of the date on which the officer is to be discharged) not eligible for retirement under any provision of law but is within two years of qualifying for retirement under section 6323 of this title, the officer shall be retained on active duty as an officer designated for limited duty until becoming qualified for retirement under that section and shall then be retired under that section, unless the officer is sooner retired or discharged under another provision of law or the officer reverts to a warrant officer grade pursuant to subsection (h).
 
 (g)
 
@@ -262,7 +262,7 @@ Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

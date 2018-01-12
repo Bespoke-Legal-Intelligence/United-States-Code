@@ -58,7 +58,7 @@ The purposes of the Program are—
 
 #### (2) Administration
 
-&emsp;Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a competitive grant under this section.
+&emsp;Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of a competitive grant under this section.
 
 #### (3) Maintenance of effort
 

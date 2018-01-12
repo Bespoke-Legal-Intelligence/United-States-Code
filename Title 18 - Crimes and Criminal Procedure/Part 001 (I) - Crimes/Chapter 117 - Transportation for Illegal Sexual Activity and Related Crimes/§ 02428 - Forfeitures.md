@@ -4,7 +4,7 @@
 
 In General.—The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
-&emsp;(1) such person's interest in any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of such violation; and
+&emsp;(1) such person's interest in any property, real or personal, that was used or intended tobe used to commit or to facilitate the commission of such violation; and
 
 &emsp;(2) any property, real or personal, constituting or derived from any proceeds that such person obtained, directly or indirectly, as a result of such violation.
 
@@ -22,7 +22,7 @@ In general.—The following shall be subject to forfeiture to the United States 
 
 &emsp;(2)
 
-Applicability of chapter 46.—The provisions of chapter 46 of this title relating to civilforfeitures shall apply to any seizure or civil forfeiture under this subsection.
+Applicability of chapter 46.—The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
 
 (Added Pub. L. 109–164, title I, §103(d)(1), Jan. 10, 2006, 119 Stat. 3563.)
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, no regulation and no modification of
 
 #### References in Text
 
-Subsec. (e) of section 418 of this title, referred to in text, which related to payments and reports by States,was repealed, and subsec. (f) of section 418 of this title was redesignated as subsec. (e), by Pub. L. 99–509, title IX, §9002(c)(1), Oct. 21, 1986, 100 Stat. 1971.
+Subsec. (e) of section 418 of this title, referred to in text, which related to payments and reports by States, was repealed, and subsec. (f) of section 418 of this title was redesignated as subsec. (e), by Pub. L. 99–509, title IX, §9002(c)(1), Oct. 21, 1986, 100 Stat. 1971.
 
 #### Codification
 

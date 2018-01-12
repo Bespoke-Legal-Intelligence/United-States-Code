@@ -20,7 +20,7 @@ Section 905 of the Senate amendment is incorporated as section 921(b) of the Hou
 
 #### senate report no. 95–989
 
-Section 905 \[enacted as section 921(b)\] adopts the procedures for selection of the judge for the chapter 9 case as found in current section 82(d) \[section 402(d) of former title 11\]. It is expected that the large chapter 9case might take up almost all the judicial time of the presiding judge and involve very complex legal questions. Selection should not be left to chance or the luck of the draw. This provision will insure that calendar demands and levels of experience can be considered in the selection of the judge in a chapter 9 case.
+Section 905 \[enacted as section 921(b)\] adopts the procedures for selection of the judge for the chapter 9 case as found in current section 82(d) \[section 402(d) of former title 11\]. It is expected that the large chapter 9 case might take up almost all the judicial time of the presiding judge and involve very complex legal questions. Selection should not be left to chance or the luck of the draw. This provision will insure that calendar demands and levels of experience can be considered in the selection of the judge in a chapter 9 case.
 
 #### house report no. 95–595
 

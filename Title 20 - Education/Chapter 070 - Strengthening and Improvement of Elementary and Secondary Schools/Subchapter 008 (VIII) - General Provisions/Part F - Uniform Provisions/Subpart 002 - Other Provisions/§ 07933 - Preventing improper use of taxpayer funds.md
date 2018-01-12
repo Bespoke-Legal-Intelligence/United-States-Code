@@ -16,7 +16,7 @@ To address the misuse of taxpayer funds, the Secretary of Education shall—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965 and such Act, referred to in pars. (1) and (3), are Pub.L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965 and such Act, referred to in pars. (1) and (3), are Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 

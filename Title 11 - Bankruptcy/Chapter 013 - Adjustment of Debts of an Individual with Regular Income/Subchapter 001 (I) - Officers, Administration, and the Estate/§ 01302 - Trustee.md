@@ -62,7 +62,7 @@ Section 1302 of the House amendment adopts a provision contained in the Senate a
 
 #### senate report no. 95–989
 
-The principal administrator in a chapter 13 case is the chapter 13 trustee. Experience under chapter XIII ofthe Bankruptcy Act \[chapter 13 of former title 11\] has shown that the more efficient and effective wage earner programs have been conducted by standing chapter XIII trustees who exercise a broad range of responsibilities in both the design and the effectuation of debtor plans.
+The principal administrator in a chapter 13 case is the chapter 13 trustee. Experience under chapter XIII of the Bankruptcy Act \[chapter 13 of former title 11\] has shown that the more efficient and effective wage earner programs have been conducted by standing chapter XIII trustees who exercise a broad range of responsibilities in both the design and the effectuation of debtor plans.
 
 Subsection (a) provides administrative flexibility by permitting the bankruptcy judge to appoint an individual from the panel of trustees established pursuant to 28 U.S.C. §604(f) and qualified under section 322 of title 11, either to serve as a standing trustee in all chapter 13 cases filed in the district or a portion thereof, or to serve in a single case.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Effective date and applicability of amendment by section 228 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Effective date and applicability of amendment by section 228 of Pub. L. 99–554 dependent upon the judicialdistrict involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 

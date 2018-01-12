@@ -60,7 +60,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(B) earnings on investments of the fund or on assets credited to the fund.
 
-> The fund shall be available to make payments pursuant to the supplemental program established under section 1402 of this title, includingthose expenses and other charges determined to be appropriate by the corporation.
+> The fund shall be available to make payments pursuant to the supplemental program established under section 1402 of this title, including those expenses and other charges determined to be appropriate by the corporation.
 
 (2) The corporation may invest amounts of the fund in such obligations as the corporation considers appropriate.
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 99–272, §11016(c)(7), added subsec. (g).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(a)(1), substituted provisions respecting benefits guaranteed under sections 1322 and 1322a of this title, for provisions respecting benefits guaranteed under sections 1322 and 1323 of this title.
 
-Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title,struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
+Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title, struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
 
 Subsecs. (d) to (f). Pub. L. 96–364, §403(a)(4), added subsecs. (d) to (f).
 

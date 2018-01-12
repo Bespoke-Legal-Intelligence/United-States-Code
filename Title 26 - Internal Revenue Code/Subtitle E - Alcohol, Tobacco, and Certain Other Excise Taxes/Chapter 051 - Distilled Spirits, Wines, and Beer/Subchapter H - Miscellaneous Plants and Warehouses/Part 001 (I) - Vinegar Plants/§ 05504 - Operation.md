@@ -16,7 +16,7 @@ Every person manufacturing vinegar by the vaporizing process shall keep such rec
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in prior section5216(a)(1)(2), act Aug. 16, 1954, ch. 736, 68A Stat. 640, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in prior section 5216(a)(1)(2), act Aug. 16, 1954, ch. 736, 68A Stat. 640, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

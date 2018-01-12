@@ -50,5 +50,5 @@ Pub. L. 88–130, §5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–
 
 "(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 
-"(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officerwho is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\]."
+"(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\]."
 

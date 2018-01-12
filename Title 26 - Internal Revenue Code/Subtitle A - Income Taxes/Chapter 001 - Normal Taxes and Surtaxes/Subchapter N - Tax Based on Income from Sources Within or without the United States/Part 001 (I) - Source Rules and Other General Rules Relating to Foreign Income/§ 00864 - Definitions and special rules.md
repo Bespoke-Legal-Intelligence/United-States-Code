@@ -54,9 +54,9 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), (7), and (8) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
-&emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(B) Except as provided in paragraph (6) <sup>1</sup> (7), or (8) or in section 871(d) or sections882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 #### (2) Periodical, etc., income from sources within United States—factors
 
@@ -123,6 +123,42 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 &emsp;&emsp;(B) such property is disposed of within 10 years after such cessation,
 
 > &emsp;the determination of whether any income or gain attributable to such disposition is taxable under section 871(b) or 882 (as the case may be) shall be made as if such sale or exchange occurred immediately before such cessation and without regard to the requirement that the taxpayer be engaged in a trade or business within the United States during the taxable year for which such income or gain is taken into account.
+
+#### (8) Gain or loss of foreign persons from sale or exchange of certain partnership interests
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this subtitle, if a nonresident alien individual or foreign corporation owns, directly or indirectly, an interest in a partnership which is engaged in any trade or business within the United States, gain or loss on the sale or exchange of all (or any portion of) such interest shall be treated as effectively connected with the conduct of such trade or business to the extent such gain or loss does not exceed the amount determined under subparagraph (B).
+
+#### (B) Amount treated as effectively connected
+
+&emsp;&emsp;The amount determined under this subparagraph with respect to any partnership interest sold or exchanged—
+
+&emsp;&emsp;&emsp;(i) in the case of any gain on the sale or exchange of the partnership interest, is—
+
+&emsp;&emsp;&emsp;&emsp;(I) the portion of the partner's distributive share of the amount of gain which would have been effectively connected with the conduct of a trade or business within the United States if the partnership had sold all of its assets at their fair market value as of the date of the sale or exchange of such interest, or
+
+&emsp;&emsp;&emsp;&emsp;(II) zero if no gain on such deemed sale would have been so effectively connected, and
+
+&emsp;&emsp;&emsp;(ii) in the case of any loss on the sale or exchange of the partnership interest, is—
+
+&emsp;&emsp;&emsp;&emsp;(I) the portion of the partner's distributive share of the amount of loss on the deemed sale described in clause (i)(I) which would have been so effectively connected, or
+
+&emsp;&emsp;&emsp;&emsp;(II) zero if no loss on such deemed sale would be have been so effectively connected.
+
+&emsp;&emsp;&nbsp;For purposes of this subparagraph, a partner's distributive share of gain or loss on the deemed sale shall be determined in the same manner as such partner's distributive share of the non-separately stated taxable income or loss of such partnership.
+
+#### (C) Coordination with United States real property interests
+
+&emsp;&emsp;If a partnership described in subparagraph (A) holds any United States real property interest (as defined in section 897(c)) at the time of the sale or exchange of the partnership interest, then the gain or loss treated as effectively connected income under subparagraph (A) shall be reduced by the amount so treated with respect to such United States real property interest under section 897.
+
+#### (D) Sale or exchange
+
+&emsp;&emsp;For purposes of this paragraph, the term "sale or exchange" means any sale, exchange, or other disposition.
+
+#### (E) Secretarial authority
+
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application of this paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
 
 #### (d) Treatment of related person factoring income
 
@@ -192,7 +228,7 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (8) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(b)(3).<sup>1</sup>
+&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(b)(3).<sup>2</sup>
 
 #### (e) Rules for allocating interest, etc.
 
@@ -202,9 +238,9 @@ For purposes of this subchapter—
 
 &emsp;The taxable income of each member of an affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
 
-#### (2) Gross income method may not be used for interest
+#### (2) Gross income and fair market value methods may not be used for interest
 
-&emsp;All allocations and apportionments of interest expense shall be made on the basis of assets rather than gross income.
+&emsp;All allocations and apportionments of interest expense shall be determined using the adjusted bases of assets rather than on the basis of the fair market value of the assets or gross income.
 
 #### (3) Tax-exempt assets not taken into account
 
@@ -226,7 +262,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) such corporation is not included in the taxpayer's affiliated group, and
 
-&emsp;&emsp;&emsp;(ii) members of such affiliated group own 10 percent or more of the total combined voting power of all classes of stock of such corporation entitled to vote.
+&emsp;&emsp;&emsp;(ii) members of such affiliated group own 10 percent or more of the total combinedvoting power of all classes of stock of such corporation entitled to vote.
 
 #### (C) Earnings and profits of lower tier corporations taken into account
 
@@ -294,7 +330,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) for direct allocation of interest expense incurred to carry out an integrated financial transaction to any interest (or interest-type income) derived from such transaction and in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
 
-&emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among themembers of the affiliated group and various categories of income described in section 904(d)(1),
+&emsp;&emsp;(C) for the apportionment of expenses allocated to foreign source income among the members of the affiliated group and various categories of income described in section 904(d)(1),
 
 &emsp;&emsp;(D) for direct allocation of interest expense in the case of indebtedness resulting in a disallowance under section 246A,
 
@@ -376,7 +412,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;(ii) are not corporations described in paragraph (4)(B),
 
-> &emsp;&emsp;shall be treated as described in paragraph (4)(B) for purposes of applying paragraph (4)(A). This subsection (other than this paragraph) shall apply to any such group in the same manner as this subsection (other than this paragraph) applies to the pre-election worldwide affiliated group of which such group is a part.
+> &emsp;&emsp;shall be treated as described in paragraph (4)(B) for purposes of applying paragraph\(4)(A). This subsection (other than this paragraph) shall apply to any such group in the same manner as this subsection (other than this paragraph) applies to the pre-election worldwide affiliated group of which such group is a part.
 
 #### (B) Financial corporation
 
@@ -444,7 +480,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (2) Qualified research and experimental expenditures
 
-&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) <sup>2</sup> of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) <sup>2</sup> of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
 
 #### (3) Special rules for expenditures attributable to activities conducted in space, etc.
 
@@ -490,9 +526,9 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (6) Applicability
 
-&emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
+&emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544;Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235.)
 
 #### References in Text
 
@@ -502,7 +538,17 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (e)
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(5)(C)(i), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
+Section 174, referred to in subsec. (g)(2), was amended generally by Pub. L. 115–97, title I, §13206(a), Dec. 22, 2017, 131 Stat. 2111. Provisions similar to those contained in former subsec. (c) of section 174 are now contained in subsec. (c)(1) of section 174. For provisions similar to those contained in former subsec. (b) of section 174 relating to amortization of certain research and experimental expenditures, see subsecs. (a) and (b) of section 174.
+
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1)(A). Pub. L. 115–97, §13501(a)(2)(A), substituted "(7), and (8)" for "and (7)".
+
+Subsec. (c)(1)(B). Pub. L. 115–97, §13501(a)(2)(B), substituted "(7), or (8)" for "or (7)".
+
+Subsec. (c)(8). Pub. L. 115–97, §13501(a)(1), added par. (8).
+
+Subsec. (e)(2). Pub. L. 115–97, §14502(a), amended par. (2) generally. Prior to amendment, text read as follows: "All allocations and apportionments of interest expense shall be made on the basis of assets rather than gross income."
 
 <b>2010</b>—Subsec. (c)(4)(B)(ii). Pub. L. 111–240 substituted "dividends, interest, or amounts received for the provision of guarantees of indebtedness" for "dividends or interest".
 
@@ -558,7 +604,7 @@ Reduction.—Notwithstanding subparagraph (A), in the case of the taxpayer's fir
 
 "(A)
 
-In general.—Except as provided in this paragraph, this subsection shall apply to the taxpayer's first taxable year beginning after August 1, 1989, and before August 2, 1990.
+In general.—Except as provided in this paragraph, this subsection shall apply to the taxpayer'sfirst taxable year beginning after August 1, 1989, and before August 2, 1990.
 
 "(B)
 
@@ -647,6 +693,12 @@ Subsec. (c)(4)(B)(iii). Pub. L. 94–455, §1901(a)(113)(B), (C), substituted "s
 Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted "sale or exchange" for "sale" wherever appearing.
 
 <b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13501(c)(1), Dec. 22, 2017, 131 Stat. 2141, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and dispositions on or after November 27, 2017."
+
+Pub. L. 115–97, title I, §14502(b), Dec. 22, 2017, 131 Stat. 2235, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2010 Amendment
 
@@ -747,7 +799,7 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 | &nbsp; | <b>The applicable</b> |
 | <b>"In the case of the:</b> | <b>percentage is:</b> |
 | 1st taxable year | 75&nbsp; |
-| 2nd taxable year | 50  |
+| 2nd taxable year | 50&nbsp; |
 | 3rd taxable year | 25\. |
 
 &emsp;&emsp;"(iii)
@@ -857,7 +909,7 @@ Special rules.—
 | &nbsp;&nbsp;"In the case of the: | <b>The applicable percentage is:</b> |
 | :--- | ---: |
 | 1st taxable year | 90&nbsp;&nbsp; |
-| 2nd taxable year | 80&nbsp;&nbsp; |
+| 2nd taxable year | 80   |
 | 3rd taxable year | 70&nbsp;&nbsp; |
 | 4th taxable year | 60&nbsp;&nbsp; |
 | 5th taxable year | 50&nbsp;&nbsp; |
@@ -878,7 +930,7 @@ Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this cl
 
 &emsp;"(E)
 
-Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, asadded by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
+Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
 &emsp;"(F)
 
@@ -1000,5 +1052,7 @@ For applicability of amendment by section 1201(d)(4) of Pub. L. 99–514 notwith
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

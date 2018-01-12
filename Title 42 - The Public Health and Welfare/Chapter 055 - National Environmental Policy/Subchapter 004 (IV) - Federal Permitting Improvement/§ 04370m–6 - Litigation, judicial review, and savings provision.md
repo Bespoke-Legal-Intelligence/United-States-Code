@@ -38,7 +38,7 @@ In addition to considering any other applicable equitable factors, in any action
 
 #### (c) Judicial review
 
-Except as provided in subsection (a), nothing in this subchapter affects the reviewability ofany final Federal agency action in a court of competent jurisdiction.
+Except as provided in subsection (a), nothing in this subchapter affects the reviewability of any final Federal agency action in a court of competent jurisdiction.
 
 #### (d) Savings clause
 

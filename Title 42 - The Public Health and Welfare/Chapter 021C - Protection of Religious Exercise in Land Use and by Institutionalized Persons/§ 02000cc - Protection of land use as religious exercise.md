@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) the substantial burden affects, or removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes, even if the burden results from a rule of general applicability; or
 
-&emsp;&emsp;(C) the substantial burden is imposed in the implementation of a land use regulation or system of land use regulations, under which a government makes, or has in placeformal or informal procedures or practices that permit the government to make, individualized assessments of the proposed uses for the property involved.
+&emsp;&emsp;(C) the substantial burden is imposed in the implementation of a land use regulation or system of land use regulations, under which a government makes, or has in place formal or informal procedures or practices that permit the government to make, individualized assessments of the proposed uses for the property involved.
 
 #### (b) Discrimination and exclusion
 

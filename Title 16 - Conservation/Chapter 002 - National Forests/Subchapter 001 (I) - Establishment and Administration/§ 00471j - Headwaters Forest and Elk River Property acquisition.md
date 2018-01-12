@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, the amount paid by the United States
 
 #### (2) Report
 
-&emsp;If the Pacific Lumber Company submits an application for an incidental take permit under section 10(a) of the Endangered Species Act \[16 U.S.C. 1539(a)\] for the transaction authorized by subsection (a), and the permit is not issued, then the United States Fish and Wildlife Service and the National Marine Fisheries Service shall set forth the substantive rationale or rationales for why the measures proposed by the applicant for such permit didnot meet the issuance criteria for the species at issue. Such report shall be submitted to the Congress within 60 days of the decision not to issue such permit or by May 1, 1999, whichever is earlier.
+&emsp;If the Pacific Lumber Company submits an application for an incidental take permit under section 10(a) of the Endangered Species Act \[16 U.S.C. 1539(a)\] for the transaction authorized by subsection (a), and the permit is not issued, then the United States Fish and Wildlife Service and the National Marine Fisheries Service shall set forth the substantive rationale or rationales for why the measures proposed by the applicant for such permit did not meet the issuance criteria for the species at issue. Such report shall be submitted to the Congress within 60 days of the decision not to issue such permit or by May 1, 1999, whichever is earlier.
 
 #### (3) HCP standards
 
@@ -56,7 +56,7 @@ The following funding limitations and parameters shall apply to the Headwaters F
 
 &emsp;(1) At least 50 percent of the total funds for management of such lands above the annual level of $100,000 shall (with the exception of law enforcement activities and emergency activities) be from non-Federal sources.
 
-&emsp;(2) Subject to appropriations, the authorized annual Federal funding for management of such land is $300,000 (with the exception of law enforcement activities and emergency activities).
+&emsp;(2) Subject to appropriations, the authorized annual Federal funding for management of such land is $300,000 (with the exception of lawenforcement activities and emergency activities).
 
 &emsp;(3) The Secretary of the Interior or the Headwaters Forest Management Trust referenced in subsection (h) is authorized to accept and use donations of funds and personal property from the State of California, private individuals, and other nongovernmental entities for the purpose of management of the Headwaters Forest.
 
@@ -116,7 +116,7 @@ The Secretary of the Interior is authorized, with the written concurrence of the
 
 This Act, referred to in subsec. (a), is Pub. L. 105–83, Nov. 14, 1997, 111 Stat. 1543, known as the Department of the Interior and Related Agencies Appropriations Act, 1998. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (b)(7) and (i)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (b)(7) and (i)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classifiedgenerally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Endangered Species Act, referred to in subsec. (d)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

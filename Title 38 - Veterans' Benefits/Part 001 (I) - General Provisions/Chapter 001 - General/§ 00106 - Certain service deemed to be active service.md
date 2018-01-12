@@ -18,7 +18,7 @@
 
 (d)(1) For the purposes of this title, any individual—
 
-&emsp;(A) who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
+&emsp;(A) who, when authorized or required by competent authority, assumes an obligationto perform active duty for training or inactive duty training; and
 
 &emsp;(B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 

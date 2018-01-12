@@ -82,7 +82,7 @@ A State law may, without being deemed to violate the standards set forth in subs
 
 #### (e) Payments by certain nonprofit organizations
 
-A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to theamounts of compensation attributable under the State law to service performed in the employ of such organization (or group).
+A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to the amounts of compensation attributable under the State law to service performed in the employ of such organization (or group).
 
 #### (f) Prohibition on noncharging due to employer fault
 
@@ -96,7 +96,7 @@ A State may, without being deemed to violate the standards set forth in subsecti
 
 #### (2) State authority to impose stricter standards
 
-&emsp;Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
+&emsp;Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of afailure to respond timely or adequately to requests described in paragraph (1)(A).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, §206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
 

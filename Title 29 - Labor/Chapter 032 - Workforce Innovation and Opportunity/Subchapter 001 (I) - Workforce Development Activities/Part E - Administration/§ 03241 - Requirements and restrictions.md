@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Individuals in on-the-job training or individuals employed in activities under this subchapter shall be compensated at the same rates, including periodic increases, astrainees or employees who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills, and such rates shall be in accordance with applicable law, but in no event less than the higher of the rate specified in section 206(a)(1) of this title or the applicable State or local minimum wage law.
+&emsp;&emsp;Individuals in on-the-job training or individuals employed in activities under this subchapter shall be compensated at the same rates, including periodic increases, as trainees or employees who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills, and such rates shall be in accordance with applicable law, but in no event less than the higher of the rate specified in section 206(a)(1) of this title or the applicable State or local minimum wage law.
 
 #### (B) Rule of construction
 

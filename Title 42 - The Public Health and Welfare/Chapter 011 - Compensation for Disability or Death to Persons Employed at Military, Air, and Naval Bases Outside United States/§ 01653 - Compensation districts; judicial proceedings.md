@@ -22,5 +22,5 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 "Secretary of Labor" and "Secretary" substituted for "Federal Security Administrator" and "Administrator", respectively, in subsec. (a), pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator to Secretary of Labor.
 
-Previously, "Federal Security Administrator" and "Administrator" substituted for "United States Employees' Compensation Commission" and "Commission" pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees' Compensation Commission and transferred its functions to Federal Security Administrator.
+Previously, "Federal Security Administrator" and "Administrator" substituted for "United States Employees' Compensation Commission" and "Commission" pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees' Compensation Commission and transferred its functions to Federal Security Administrator.
 

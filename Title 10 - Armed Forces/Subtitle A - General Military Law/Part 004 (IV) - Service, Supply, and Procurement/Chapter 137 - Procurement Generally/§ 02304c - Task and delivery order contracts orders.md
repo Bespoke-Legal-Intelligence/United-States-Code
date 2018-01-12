@@ -20,7 +20,7 @@ Multiple Award Contracts.—When multiple task or delivery order contracts are a
 
 &emsp;(4) it is necessary to place the order with a particular contractor in order to satisfy a minimum guarantee; or
 
-&emsp;(5) the task or delivery order satisfies one of the exceptions in section 2304(c) of this title tothe requirement to use competitive procedures.
+&emsp;(5) the task or delivery order satisfies one of the exceptions in section 2304(c) of this title to the requirement to use competitive procedures.
 
 (c)
 
@@ -84,7 +84,7 @@ Subsecs. (f), (g). Pub. L. 110–181, §843(a)(2)(A), redesignated subsecs. (e) 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: "The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date."
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: "The amendmentsmade by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date."
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ Application.—This section shall only apply to—
 
 (b)
 
-General Authority.—The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
+General Authority.—The Secretary of Transportation may withhold not more than 5percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
 
 (c)
 
@@ -42,7 +42,7 @@ Availability of Withheld Amounts.—(1) An amount withheld under subsection (b) 
 
 #### Repeal of Section
 
-<i>Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years</i><i>after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under section 5329(e) of this title (see 81 F.R. 14230), this section is repealed.</i>
+<i>Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under section 5329(e) of this title (see 81 F.R. 14230), this section is repealed.</i>
 
 Historical and Revision Notes
 

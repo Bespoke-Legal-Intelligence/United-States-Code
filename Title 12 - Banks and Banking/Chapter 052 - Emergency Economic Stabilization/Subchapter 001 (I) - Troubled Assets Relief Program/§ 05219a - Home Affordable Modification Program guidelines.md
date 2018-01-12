@@ -34,7 +34,7 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is
 
 #### Codification
 
-Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part ofthe Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
+Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
 
 #### Effective Date
 

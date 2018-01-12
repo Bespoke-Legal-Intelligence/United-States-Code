@@ -74,7 +74,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance use disorder services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill;
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Centers for Medicare \& Medicaid Services, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate;
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are ormay be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Centers for Medicare \& Medicaid Services, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate;
 
 &emsp;(19) consult with State, local, and tribal governments, nongovernmental entities, and individuals with mental illness, particularly adults with a serious mental illness, children with a serious emotional disturbance, and the family members of such adults and children, with respect to improving community-based and other mental health services;
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (3) Report
 
-&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through theAssociate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
+&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
 
 &emsp;(B) Each report under subparagraph (A) shall include a description of any revisions in the plan under paragraph (2) made during the preceding 2 years.
 
@@ -124,7 +124,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (1) Appointment
 
-&emsp;The Assistant Secretary, with the approval of the Secretary, shall appoint an Associate Administrator for Women's Services who shall report directly to the Assistant Secretary.
+&emsp;The Assistant Secretary, with the approval of the Secretary, shall appoint an AssociateAdministrator for Women's Services who shall report directly to the Assistant Secretary.
 
 #### (2) Duties
 
@@ -316,7 +316,7 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 &emsp;&emsp;(D) information on how the National Mental Health and Substance Use Policy Laboratory is consulting with the Assistant Secretary for Planning and Evaluation and collaborating with the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, the Center for Behavioral Health Statistics and Quality, and the Center for Mental Health Services to carry out such activities; and
 
-&emsp;(7) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
+&emsp;(7) recommendations made by the Assistant Secretary for Planning and Evaluation undersection 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
 
 > The Assistant Secretary may meet reporting requirements established under this subchapter by providing the contents of such reports as an addendum to the biennial report established under this subsection, notwithstanding the timeline of other reporting requirements in this subchapter. Nothing in this subsection shall be construed to alter the content requirements of such reports or authorize the Assistant Secretary to alter the timeline of any such reports to be less frequent than biennially, unless as specified in this subchapter.
 
@@ -466,7 +466,7 @@ Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and re
 
 <b>2003</b>—Subsec. (d)(18). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
-<b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption."
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department ofHealth and Human Services and the Department of Agriculture related to alcohol consumption."
 
 Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "1993, and such sums as may be necessary for fiscal year 1994" before period at end.
 
@@ -546,7 +546,7 @@ Pub. L. 102–321, title I, subtitle D, July 10, 1992, 106 Stat. 370, as amended
 
 "(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as specifically provided otherwise in this Act \[see Tables for classification\] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act \[July 10, 1992\] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration.
+Substance Abuse and Mental Health Services Administration.—Except as specifically providedotherwise in this Act \[see Tables for classification\] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act \[July 10, 1992\] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration.
 
 "(b)
 
@@ -646,7 +646,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### "SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.
 
-"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C.285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
+"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C. 285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
 
 #### "SEC. 150. SEPARABILITY.
 

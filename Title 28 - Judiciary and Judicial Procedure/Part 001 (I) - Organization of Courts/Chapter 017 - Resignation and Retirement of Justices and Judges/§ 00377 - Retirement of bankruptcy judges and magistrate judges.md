@@ -30,7 +30,7 @@ Cost-of-Living Adjustments.—A bankruptcy judge or magistrate judge who is enti
 
 (f)
 
-Election; Annuity in Lieu of Other Annuities.—A bankruptcy judge or magistrate judge shall be entitled to an annuity under this section if the judge or magistrate judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts. A bankruptcy judge or magistrate judge who elects to receive an annuity under this section shall not be entitled to receive <sup>1</sup>
+Election; Annuity in Lieu of Other Annuities.—A bankruptcy judge or magistrate judge shall be entitled to an annuity under this section if the judge or magistrate judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts. A bankruptcy judge or magistrate judge who elects to receive an annuityunder this section shall not be entitled to receive <sup>1</sup>
 
 &emsp;(1) any annuity to which such judge or magistrate judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as such a judge or magistrate judge or otherwise;
 
@@ -90,7 +90,7 @@ Consent to Deductions; Discharge of Claims.—Each bankruptcy judge or magistrat
 
 (k)
 
-Deposits for Prior Service.—Each bankruptcy judge or magistrate judge who makes an election under subsection (f) may deposit, for service performed before such election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for that service. Credit for any period covered by that service may not be allowed for purposes of an annuity under this section until a deposit under this subsection has been made for that period.
+Deposits for Prior Service.—Each bankruptcy judge or magistrate judge who makes an election under subsection (f) may deposit, for service performed before such election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for that service. Credit for any periodcovered by that service may not be allowed for purposes of an annuity under this section until a deposit under this subsection has been made for that period.
 
 (l)
 
@@ -176,7 +176,7 @@ Spouses and former spouses.—(A) Payment of the lump-sum credit under paragraph
 
 &emsp;&emsp;&emsp;(II) payment of the lump-sum credit or other payment would extinguish entitlement of the bankruptcy judge's or magistrate judge's spouse or former spouse to any portion of an annuity under subsection (i).
 
-&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director thatthe whereabouts of such spouse or former spouse cannot be determined.
+&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director that the whereabouts of such spouse or former spouse cannot be determined.
 
 &emsp;(C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 
@@ -250,7 +250,7 @@ Pub. L. 100–659, §9, Nov. 15, 1988, 102 Stat. 3921, as amended by Pub. L. 101
 
 "(a)
 
-In General.—Subject to subsection (b), this Act \[enacting this section and section 8440a \[now 8440b\] of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under this section and sections 1 and 376 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Nov. 15, 1988\] and shall apply to bankruptcy judges and magistrate judges who retire on or after the date of the enactment of this Act.
+In General.—Subject to subsection (b), this Act \[enacting this section and section 8440a \[now 8440b\] of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enactingprovisions set out as notes under this section and sections 1 and 376 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Nov. 15, 1988\] and shall apply to bankruptcy judges and magistrate judges who retire on or after the date of the enactment of this Act.
 
 "(b)
 

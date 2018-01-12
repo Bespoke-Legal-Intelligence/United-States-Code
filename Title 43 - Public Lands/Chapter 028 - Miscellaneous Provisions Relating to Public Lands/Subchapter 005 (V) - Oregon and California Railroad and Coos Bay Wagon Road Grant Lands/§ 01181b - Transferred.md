@@ -1,0 +1,6 @@
+### §1181b. Transferred
+
+#### Codification
+
+Section 1181b was editorially reclassified as section 2602 of this title.
+

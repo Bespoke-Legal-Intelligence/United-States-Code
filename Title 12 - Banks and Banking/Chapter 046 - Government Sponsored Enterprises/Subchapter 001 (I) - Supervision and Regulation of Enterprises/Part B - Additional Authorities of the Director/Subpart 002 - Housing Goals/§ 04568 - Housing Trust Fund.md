@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) means the cost of construction or building rehabilitation in the State relative to the national cost of construction or building rehabilitation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall be calculated such that values higher than 1.0 indicate that the State's construction costs are higher than the national average, a value of 1.0 indicates that the State's construction costs are exactly the same as the national average, and values lower than 1.0 indicate that the State's cost of construction are lower than the national average.
+&emsp;&emsp;&emsp;&emsp;(II) shall be calculated such that values higher than 1.0 indicate that theState's construction costs are higher than the national average, a value of 1.0 indicates that the State's construction costs are exactly the same as the national average, and values lower than 1.0 indicate that the State's cost of construction are lower than the national average.
 
 #### (C) Priority
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(b)(2)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) first-time homebuyers, as such term is defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704), except that any reference in such section to assistance under title II of such Act \[42 U.S.C. 12721 et seq.\] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
+&emsp;&emsp;&emsp;&emsp;(II) first-time homebuyers, as such term is defined in section 104 of theCranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704), except that any reference in such section to assistance under title II of such Act \[42 U.S.C. 12721 et seq.\] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
 
 &emsp;&emsp;&emsp;(ii) has an initial purchase price that meets the requirements of section 215(b)(1) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12745(b)(1)\];
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;(B) demonstrates the ability and financial capacity to undertake, comply, and manage the eligible activity;
 
-&emsp;&emsp;(C) demonstrates its familiarity with the requirements of any other Federal, State, or local housing program that will be used inconjunction with such grant amounts to ensure compliance with all applicable requirements and regulations of such programs; and
+&emsp;&emsp;(C) demonstrates its familiarity with the requirements of any other Federal, State, or local housing program that will be used in conjunction with such grant amounts to ensure compliance with all applicable requirements and regulations of such programs; and
 
 &emsp;&emsp;(D) makes such assurances to the State or State designated entity as the Secretary shall, by regulation, require to ensure that the recipient will comply with the requirements of this subsection during the entire period that begins upon selection of the recipient to receive such grant amounts and ending upon the conclusion of all activities under paragraph (8) that are engaged in by the recipient and funded with such grant amounts.
 
@@ -244,7 +244,7 @@ If in any year a State or State designated entity fails to obtain reimbursement 
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) require each State or State designated entity to develop and maintain asystem to ensure that each recipient of assistance under this section uses such amounts in accordance with this section, the regulations issued under this section, and any requirements or conditions under which such amounts were provided; and
+&emsp;&emsp;&emsp;(i) require each State or State designated entity to develop and maintain a system to ensure that each recipient of assistance under this section uses such amounts in accordance with this section, the regulations issued under this section, and any requirements or conditions under which such amounts were provided; and
 
 &emsp;&emsp;&emsp;(ii) establish minimum requirements for agreements, between the State or State designated entity and recipients, regarding assistance under this section, which shall include—
 
@@ -354,7 +354,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts under this section by States or State designated entities is audited not less than annually to ensure compliance with this section;
 
-&emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify a State or State designated entity's activities to ensure compliance with this section;
+&emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify aState or State designated entity's activities to ensure compliance with this section;
 
 &emsp;&emsp;(C) a requirement that, for the purposes of subparagraphs (A) and (B), any financial statement submitted by a grantee or recipient to the Secretary shall be reviewed by an independent certified public accountant in accordance with Statements on Standards for Accounting and Review Services, issued by the American Institute of Certified Public Accountants;
 
@@ -382,7 +382,7 @@ If, after July 30, 2008, in any year, there is enacted any provision of Federal 
 
 #### (i) Funding accountability and transparency
 
-Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Uponthe request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
+Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
 (Pub. L. 102–550, title XIII, §1338, as added Pub. L. 110–289, div. A, title I, §1131(b), July 30, 2008, 122 Stat. 2712.)
 

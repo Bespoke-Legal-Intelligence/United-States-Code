@@ -20,7 +20,7 @@ Any regulation of the Bureau, or any amendment or interpretation thereof, requir
 
 #### (1) In general
 
-&emsp;The Bureau may exempt, by regulation, from all or part of this subchapter all or any class of transactions, other than transactions involving any mortgage described in section 1602(aa) <sup>1</sup> of this title, for which, in the determination of the Bureau, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
+&emsp;The Bureau may exempt, by regulation, from all or part of this subchapter all or anyclass of transactions, other than transactions involving any mortgage described in section 1602(aa) <sup>1</sup> of this title, for which, in the determination of the Bureau, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
 
 #### (2) Factors for consideration
 

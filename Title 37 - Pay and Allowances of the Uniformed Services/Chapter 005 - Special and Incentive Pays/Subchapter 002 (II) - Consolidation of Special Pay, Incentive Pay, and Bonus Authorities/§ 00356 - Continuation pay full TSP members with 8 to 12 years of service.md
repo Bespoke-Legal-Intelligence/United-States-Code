@@ -10,7 +10,7 @@ Continuation Pay.—The Secretary concerned shall make a payment of continuation
 
 (b)
 
-Payment Amount.—The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member's monthly basic pay. The multiple for a full TSP member who is a member of a regular component or a reserve component, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10), shall not be less than 2.5 times the member's monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
+Payment Amount.—The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member's monthly basic pay. The multiple for afull TSP member who is a member of a regular component or a reserve component, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10), shall not be less than 2.5 times the member's monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
 
 &emsp;(1) in the case of a member of a regular component—
 
@@ -26,7 +26,7 @@ Payment Amount.—The Secretary concerned shall determine the payment amount und
 
 (c)
 
-Additional Discretionary Authority.—In addition to the continuation pay required under subsection (a), the Secretary concerned may provide continuation pay under this subsection to a full TSP member described in subsection (a), and subject to the service agreement referred to in paragraph (2) of such subsection, inan amount determined by the Secretary concerned.
+Additional Discretionary Authority.—In addition to the continuation pay required under subsection (a), the Secretary concerned may provide continuation pay under this subsection to a full TSP member described in subsection (a), and subject to the service agreement referred to in paragraph (2) of such subsection, in an amount determined by the Secretary concerned.
 
 (d)
 

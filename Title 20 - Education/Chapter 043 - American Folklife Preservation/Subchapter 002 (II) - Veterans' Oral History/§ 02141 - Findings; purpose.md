@@ -6,7 +6,7 @@ Congress finds as follows:
 
 &emsp;(1) Military service during a time of war is the highest sacrifice a citizen may make for his or her country.
 
-&emsp;(2) 4,700,000 Americans served in World War I, 16,500,000 Americans served in World War II, 6,800,000 Americans served in the Korean Conflict, 9,200,000 Americans served in the Vietnam Conflict, 3,800,000 Americans served in the Persian Gulf War, and countless other Americans served in military engagements overseas throughout the 20th century.
+&emsp;(2) 4,700,000 Americans served in World War I, 16,500,000 Americans served in World War II, 6,800,000 Americans served in the Korean Conflict, 9,200,000 Americans served in the Vietnam Conflict, 3,800,000 Americans served in thePersian Gulf War, and countless other Americans served in military engagements overseas throughout the 20th century.
 
 &emsp;(3) The Department of Veterans Affairs reports that there are almost 19,000,000 war veterans living in this Nation today.
 

@@ -22,7 +22,7 @@ If the book value of the stock, participation certificates, and other similar eq
 
 &emsp;&emsp;(A) the institution requests such certification;
 
-&emsp;&emsp;(B) the book value of the stock, participation certificates, and other similar equitiesof the institution, based on generally accepted accounting principles, has declined to 75 percent of the par value of the stock or the face value of the certificates or equities; and
+&emsp;&emsp;(B) the book value of the stock, participation certificates, and other similar equities of the institution, based on generally accepted accounting principles, has declined to 75 percent of the par value of the stock or the face value of the certificates or equities; and
 
 &emsp;&emsp;(C) the institution agrees to meet the terms and conditions specified by the Assistance Board pursuant to section 2278a–6 of this title.
 

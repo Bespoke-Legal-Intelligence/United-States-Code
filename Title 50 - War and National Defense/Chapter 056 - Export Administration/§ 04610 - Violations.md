@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, whoever knowingly violates
 
 #### (b) Willful violations
 
-(1) Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination ofthe goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes—
+(1) Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes—
 
 &emsp;(A) except in the case of an individual, shall be fined not more than five times the value of the exports involved or $1,000,000, whichever is greater; and
 
@@ -110,7 +110,7 @@ A prior section 2410 of the former Appendix to this title, Pub. L. 91–184, §1
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–64, §112(a), inserted "or conspires to or attempts to violate".
 
-Subsec. (b)(1). Pub. L. 99–64, §112(b)(1), in provisions preceding subpar. (A), substituted "Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or anycountry to which exports are controlled for foreign policy purposes" for "Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes".
+Subsec. (b)(1). Pub. L. 99–64, §112(b)(1), in provisions preceding subpar. (A), substituted "Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes" for "Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes".
 
 Subsec. (b)(2). Pub. L. 99–64, §112(b)(2), struck out sentence which provided that for purposes of this paragraph, "controlled country" means any country described in section 2370(f) of title 22.
 

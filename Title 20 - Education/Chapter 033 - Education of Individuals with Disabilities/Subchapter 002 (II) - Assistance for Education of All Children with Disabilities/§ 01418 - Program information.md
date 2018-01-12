@@ -34,7 +34,7 @@ Each State that receives assistance under this subchapter, and the Secretary of 
 
 &emsp;(H) The number of mediations held and the number of settlement agreements reached through such mediations.
 
-&emsp;(2) The number and percentage of infants and toddlers, by race, and ethnicity, who areat risk of having substantial developmental delays (as defined in section 1432 of this title), and who are receiving early intervention services under subchapter III.
+&emsp;(2) The number and percentage of infants and toddlers, by race, and ethnicity, who are at risk of having substantial developmental delays (as defined in section 1432 of this title), and who are receiving early intervention services under subchapter III.
 
 &emsp;(3) Any other information that may be required by the Secretary.
 

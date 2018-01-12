@@ -35,7 +35,7 @@ Covered Officials.—The officials specified in this subsection are the followin
 
 "(c)
 
-Electronic Writing Systems for Department of State and USAID.—Notwithstanding subsection (b)(2), the Secretary of State and the Administrator of the United States Agency for International Development may meet the requirements of subsection (a)(2) with respect to approved electronic contract writing systems for the Department of State and the United States Agency for International Development, respectively, if the Secretary and the Administrator, as the case may be, demonstrate to the Administrator for Federal Procurement Policy that prior investment ofresources in existing contract writing systems will result in the most cost effective and efficient means to satisfy such requirements.
+Electronic Writing Systems for Department of State and USAID.—Notwithstanding subsection (b)(2), the Secretary of State and the Administrator of the United States Agency for International Development may meet the requirements of subsection (a)(2) with respect to approved electronic contract writing systems for the Department of State and the United States Agency for International Development, respectively, if the Secretary and the Administrator, as the case may be, demonstrate to the Administrator for Federal Procurement Policy that prior investment of resources in existing contract writing systems will result in the most cost effective and efficient means to satisfy such requirements.
 
 "(d)
 

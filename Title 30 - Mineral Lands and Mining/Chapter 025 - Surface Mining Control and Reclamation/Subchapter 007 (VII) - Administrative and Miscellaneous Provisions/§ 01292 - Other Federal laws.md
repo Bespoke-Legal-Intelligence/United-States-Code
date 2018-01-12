@@ -36,7 +36,7 @@ Approval of the State programs, pursuant to section 1253(b) of this title, promu
 
 #### References in Text
 
-The Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted section 21a of this title and provisions set out as a note under section 21a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 21a of this title and Tables.
+The Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted section 21a of this title and provisions set out as a note under section 21a of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 21a of this title and Tables.
 
 The National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

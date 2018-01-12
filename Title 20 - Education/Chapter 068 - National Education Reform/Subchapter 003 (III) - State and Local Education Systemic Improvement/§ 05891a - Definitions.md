@@ -46,7 +46,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Pub. L. 106–25, §2, Apr. 29, 1999, 113 Stat. 41, provided that: "Congress makes the following findings:
 
-&emsp;"(1) States differ substantially in demographics, in school governance, and in school finance and funding.The administrative and funding mechanisms that help schools in one State improve may not prove successful in other States.
+&emsp;"(1) States differ substantially in demographics, in school governance, and in school finance and funding. The administrative and funding mechanisms that help schools in one State improve may not prove successful in other States.
 
 &emsp;"(2) Although the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and other Federal education statutes afford flexibility to State educational agencies and local educational agencies in implementing Federal programs, certain requirements of Federal education statutes or regulations may impede local efforts to reform and improve education.
 

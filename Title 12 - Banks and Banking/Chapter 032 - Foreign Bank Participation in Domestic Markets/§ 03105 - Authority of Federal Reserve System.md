@@ -34,7 +34,7 @@
 
 #### (C) On-site examination
 
-&emsp;&emsp;Each Federal branch or agency, and each State branch or agency, of a foreign bankshall be subject to on-site examination by an appropriate Federal banking agency or State bank supervisor as frequently as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.
+&emsp;&emsp;Each Federal branch or agency, and each State branch or agency, of a foreign bank shall be subject to on-site examination by an appropriate Federal banking agency or State bank supervisor as frequently as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.
 
 #### (D) Cost of examinations
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) the financial and managerial resources of the foreign bank, including the bank's experience and capacity to engage in international banking;
 
-&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law;
+&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with thischapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law;
 
 &emsp;&emsp;(D) whether the foreign bank and the United States affiliates of the bank are in compliance with applicable United States law; and
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B)(i) there is reasonable cause to believe that such foreign bank, or any affiliate of such foreign bank, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and
 
-&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreign bank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
+&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreignbank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
 
 &emsp;&emsp;(C) for a foreign bank that presents a risk to the stability of the United States financial system, the home country of the foreign bank has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
@@ -200,7 +200,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 &emsp;&emsp;(A) the Board has determined that such activity is consistent with sound banking practice; and
 
-&emsp;&emsp;(B) in the case of an insured branch, the Federal Deposit Insurance Corporation has determined that the activity would pose no significant risk to the deposit insurance fund.
+&emsp;&emsp;(B) in the case of an insured branch, the Federal Deposit Insurance Corporation hasdetermined that the activity would pose no significant risk to the deposit insurance fund.
 
 #### (2) Single borrower lending limit
 
@@ -244,7 +244,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 &emsp;(1) analyzing the capital standards contained in the framework for measurement of capital adequacy established by the Supervisory Committee of the Bank for International Settlements, foreign regulatory capital standards that apply to foreign banks conducting banking operations in the United States, and the relationship of the Basle and foreign standards to risk-based capital and leverage requirements for United States banks; and
 
-&emsp;(2) establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leveragerequirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under this section and sections 3 and 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1842, 1843\].
+&emsp;(2) establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leverage requirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under this section and sections 3 and 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1842, 1843\].
 
 > An update shall be prepared annually explaining any changes in the analysis under paragraph (1) and resulting changes in the guidelines pursuant to paragraph (2).
 

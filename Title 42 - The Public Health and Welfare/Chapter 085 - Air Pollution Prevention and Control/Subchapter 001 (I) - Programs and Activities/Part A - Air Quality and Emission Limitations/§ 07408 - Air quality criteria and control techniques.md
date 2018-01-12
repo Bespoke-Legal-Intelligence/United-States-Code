@@ -10,7 +10,7 @@
 
 &emsp;(C) for which air quality criteria had not been issued before December 31, 1970 but for which he plans to issue air quality criteria under this section.
 
-(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
+(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a listunder paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
 &emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 
@@ -20,9 +20,9 @@
 
 #### (b) Issuance by Administrator of information on air pollution control techniques; standing consulting committees for air pollutants; establishment; membership
 
-(1) Simultaneously with the issuance of criteria under subsection (a) of this section, the Administrator shall, after consultation with appropriate advisory committees and Federal departments and agencies, issue to the States and appropriate air pollution control agencies information on air pollution control techniques, which information shall include data relating to the cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology. Such information shall include such data as are available on available technology and alternative methods of prevention and control of air pollution. Such information shall also include data on alternative fuels, processes, and operating methods which will result in elimination or significant reduction of emissions.
+(1) Simultaneously with the issuance of criteria under subsection (a), the Administrator shall, after consultation with appropriate advisory committees and Federal departments and agencies, issue to the States and appropriate air pollution control agencies information on air pollution control techniques, which information shall include data relating to the cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology. Such information shall include such data as are available on available technology and alternative methods of prevention and control of air pollution. Such information shall also include data on alternative fuels, processes, and operating methods which will result in elimination or significant reduction of emissions.
 
-(2) In order to assist in the development of information on pollution control techniques, the Administrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1) of this section, which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
+(2) In order to assist in the development of information on pollution control techniques, the Administrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1), which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
 
 #### (c) Review, modification, and reissuance of criteria or information
 
@@ -106,7 +106,7 @@ The Administrator may assess the risks to ecosystems from exposure to criteria a
 
 The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
-(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678;amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
+(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
 #### Codification
 

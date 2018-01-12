@@ -20,7 +20,7 @@ In general.—The Appalachian Regional Commission may make grants—
 
 &emsp;&emsp;&emsp;(ii) grants for administrative expenses shall not be made for a state agency certified as a local development district for a period of more than three years beginning on the date the initial grant is made for the development district; and
 
-&emsp;&emsp;&emsp;(iii) the local development district contributions for administrative expensesmay be in cash or in kind, fairly evaluated, including space, equipment, and services;
+&emsp;&emsp;&emsp;(iii) the local development district contributions for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services;
 
 &emsp;&emsp;(B) for assistance to States for a period of not more than two years to strengthen the state development planning process for the Appalachian region and the coordination of state planning under this subtitle, the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.), and other federal and state programs; and
 

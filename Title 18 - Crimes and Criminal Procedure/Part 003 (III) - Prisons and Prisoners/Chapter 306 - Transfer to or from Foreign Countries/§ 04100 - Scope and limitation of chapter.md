@@ -62,7 +62,7 @@ Prisoner Consent.—Notwithstanding any other provision of law, except as requir
 
 "(d)
 
-Annual Report.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
+Annual Report.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary ofthe House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
 
 "(e)
 
@@ -74,7 +74,7 @@ Training Foreign Law Enforcement Personnel.—(1) Subject to paragraph (2), the 
 
 &emsp;"(C) Preventing the illegal entry of goods into the United States (including goods the sale of which is illegal in the United States, the entry of which would cause a quota to be exceeded, or the appropriate duty or tariff for which has not been paid).
 
-"(2) The appointments described in paragraph (1) shall be made only to the extent there is capacity insuch academies beyond what is required to train United States citizens needed in the Border Patrol and Customs Service, and only of personnel from a country with which the prisoner transfer treaty has been stated to be effective in the most recent report referred to in subsection (d).
+"(2) The appointments described in paragraph (1) shall be made only to the extent there is capacity in such academies beyond what is required to train United States citizens needed in the Border Patrol and Customs Service, and only of personnel from a country with which the prisoner transfer treaty has been stated to be effective in the most recent report referred to in subsection (d).
 
 "(f)
 

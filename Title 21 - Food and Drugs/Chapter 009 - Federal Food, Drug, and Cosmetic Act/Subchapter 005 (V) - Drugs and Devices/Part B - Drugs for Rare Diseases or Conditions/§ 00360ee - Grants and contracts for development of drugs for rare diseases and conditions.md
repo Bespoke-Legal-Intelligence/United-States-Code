@@ -30,15 +30,17 @@ For purposes of subsection (a):
 
 #### (c) Authorization of appropriations
 
-For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2013 through 2017.
+For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048.)
 
 #### Codification
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–52 substituted "2018 through 2022" for "2013 through 2017".
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3015(1), added par. (1) and struck out former par. (1) which read as follows: "defraying the costs of qualified testing expenses incurred in connection with the development of drugs for rare diseases and conditions,".
 
@@ -56,7 +58,7 @@ Subsec. (c). Pub. L. 112–144, §906(b), amended subsec. (c) generally. Prior t
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted "(1)" after "assist in" and added pars. (2) and (3).
 
-Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted "(1) in the case of a drug," after "means", added cls. (2)and (3), and substituted "under section 360bb of this title" for "under this subsection" in last sentence.
+Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted "(1) in the case of a drug," after "means", added cls. (2) and (3), and substituted "under section 360bb of this title" for "under this subsection" in last sentence.
 
 Subsec. (b)(3). Pub. L. 100–290, §3(b)(3), added par. (3).
 

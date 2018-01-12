@@ -62,7 +62,7 @@ Qualified steel company.—The term 'qualified steel company' means any company 
 
 &emsp;&emsp;"(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
 
-&emsp;&emsp;"(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
+&emsp;&emsp;"(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operatessubstantial assets of a company that meets these qualifications.
 
 "(d)
 
@@ -310,7 +310,7 @@ Requirements for Loan Guarantees.—The Board may issue a loan guarantee on appl
 
 &emsp;"(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
 
-&emsp;"(4) the company has agreed to an audit by the Government Accountability Office before issuance of the loan guarantee and annually while the guaranteed loan is outstanding.
+&emsp;"(4) the company has agreed to an audit by the Government Accountability Office before issuance ofthe loan guarantee and annually while the guaranteed loan is outstanding.
 
 "(g)
 

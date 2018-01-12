@@ -26,9 +26,9 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;(A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
 
-&emsp;(B) a general or flag officer in that member's chain of command (including an officer in thegrade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
+&emsp;(B) a general or flag officer in that member's chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
 
-(4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell time a member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
+(4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell timea member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
 
 (b)
 
@@ -98,7 +98,7 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term "personnel tempo" means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
 
-(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401.)
+(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30,2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
 
-Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, §618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: "The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when themember may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly."
+Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, §618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: "The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly."
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 

@@ -44,7 +44,7 @@ No proclamation pursuant to subsection (a) shall be made—
 
 (3) Repealed. Pub. L. 93–618, title VI, §602(d), Jan. 3, 1975, 88 Stat. 2072.
 
-(4) In advising the President under this subsection as to the probable economic effect onthe industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
+(4) In advising the President under this subsection as to the probable economic effect on the industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
 
 (5) Advice by the United States International Trade Commission under this subsection shall be given on the basis of an investigation during the course of which the United States International Trade Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 

@@ -44,7 +44,7 @@ From the amount specified in subsection (a) for a fiscal year, the Secretary sha
 
 &emsp;The Secretary shall reserve for awarding grants under section 629g(f) of this title $20,000,000 for each of fiscal years 2012 through 2016.
 
-(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373.)
+(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288,§§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373.)
 
 #### Prior Provisions
 

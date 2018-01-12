@@ -38,3 +38,7 @@ Not later than 180 days after August 8, 2005, and each year thereafter, the inte
 
 (Pub. L. 101–240, title VII, §735, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1115.)
 
+#### Effective Date
+
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
+

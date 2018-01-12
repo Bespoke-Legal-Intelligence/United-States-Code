@@ -34,7 +34,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (6) Liability for funding tax
 
-&emsp;For a plan year the liability under section 4971 of each employer who is a party to the collective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
+&emsp;For a plan year the liability under section 4971 of each employer who is a party to thecollective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) first on the basis of their respective delinquencies in meeting required employer contributions under the plan, and
 
@@ -48,7 +48,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (8) Employees of labor unions
 
-&emsp;For purposes of this subsection, employees or employee representatives shall be treated as employees of an employer described in subsection (a)(1) if such representatives meet the requirements of sections 401(a)(4) and 410 with respect to such employees.
+&emsp;For purposes of this subsection, employees of employee representatives shall be treated as employees of an employer described in subsection (a)(1) if such representatives meet the requirements of sections 401(a)(4) and 410 with respect to such employees.
 
 #### (9) Plans covering a professional employee
 
@@ -102,7 +102,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions forsuch plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (7) Allocations
 

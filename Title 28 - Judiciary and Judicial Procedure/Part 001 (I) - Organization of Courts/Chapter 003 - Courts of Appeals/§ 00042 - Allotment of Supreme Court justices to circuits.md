@@ -14,7 +14,7 @@ The authority of the Chief Justice in vacation to assign a circuit justice to mo
 
 The provision in section 215 of Title 28, U.S.C., 1940 ed., that, for the purposes of said section, the "District of Columbia shall be deemed to be a judicial circuit," was omitted, since the District of Columbia is made a judicial circuit by section 41 of this title.
 
-The last paragraph was added to make clear the intent of Congress that the powers of the Court to assignthe justices among the several circuits should be completely flexible.
+The last paragraph was added to make clear the intent of Congress that the powers of the Court to assign the justices among the several circuits should be completely flexible.
 
 Changes were made in phraseology.
 

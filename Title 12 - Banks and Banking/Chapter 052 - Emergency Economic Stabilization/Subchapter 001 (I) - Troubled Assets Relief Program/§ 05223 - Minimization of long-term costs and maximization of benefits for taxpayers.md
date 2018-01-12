@@ -10,7 +10,7 @@
 
 &emsp;In carrying out paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) hold the assets to maturity or for resale for and until such time as the Secretary determines that the market is optimal forselling such assets, in order to maximize the value for taxpayers; and
+&emsp;&emsp;(A) hold the assets to maturity or for resale for and until such time as the Secretary determines that the market is optimal for selling such assets, in order to maximize the value for taxpayers; and
 
 &emsp;&emsp;(B) sell such assets at a price that the Secretary determines, based on available financial analysis, will maximize return on investment for the Federal Government.
 

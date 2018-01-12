@@ -10,7 +10,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(d) to make advance, progress, and other payments which relate to scientific or engineering activities without regard to the provisions of section 3324(a) and (b) of title 31;
 
-&emsp;(e) to acquire by purchase, lease, loan, gift, or condemnation, and to hold and dispose of by grant, sale, lease, or loan, real and personal property of all kinds necessary for, or resulting from, the exercise of authority granted by this chapter;
+&emsp;(e) to acquire by purchase, lease, loan, gift, or condemnation, and to hold and dispose of bygrant, sale, lease, or loan, real and personal property of all kinds necessary for, or resulting from, the exercise of authority granted by this chapter;
 
 &emsp;(f) to receive and use funds donated by others, if such funds are donated without restriction other than that they be used in furtherance of one or more of the general purposes of the Foundation, except that funds may be donated for specific prize competitions for "basic research" as defined in the Office of Management and Budget Circular No. A–11;
 

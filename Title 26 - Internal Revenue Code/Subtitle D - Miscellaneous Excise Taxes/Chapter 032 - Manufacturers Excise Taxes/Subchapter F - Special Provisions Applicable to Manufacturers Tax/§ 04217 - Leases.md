@@ -88,7 +88,7 @@ Subsecs. (b) to (d). Pub. L. 85–859 added subsecs. (b) to (d).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
+Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
 #### Effective Date of 1976 Amendment
 

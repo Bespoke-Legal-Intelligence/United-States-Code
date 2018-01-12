@@ -24,11 +24,11 @@
 
 (B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
-(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
+(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except thatpeer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
 #### (c) Development and dissemination of statistics
 
-The Secretary shall take such action as may be necessary to assure that statistics developed under sections 242b and 242k of this title are ofhigh quality, timely, comprehensive as well as specific, standardized, and adequately analyzed and indexed, and shall publish, make available, and disseminate such statistics on as wide a basis as is practicable.
+The Secretary shall take such action as may be necessary to assure that statistics developed under sections 242b and 242k of this title are of high quality, timely, comprehensive as well as specific, standardized, and adequately analyzed and indexed, and shall publish, make available, and disseminate such statistics on as wide a basis as is practicable.
 
 #### (d) Information; publication restrictions
 
@@ -82,7 +82,7 @@ Subsec. (g). Pub. L. 103–183, §501(c)(2)(B), (C), (E), redesignated par. (2) 
 
 &emsp;"(B) make available to the public data developed in such research, demonstrations, and evaluations; and
 
-&emsp;"(C) provide indexing, abstracting, translating, publishing, and other services leading to a more effective and timely dissemination of information on health services research, demonstrations, and evaluations in health care delivery to public and private entities and individuals engaged in the improvement ofhealth care delivery and the general public; and undertake programs to develop new or improved methods for making such information available."
+&emsp;"(C) provide indexing, abstracting, translating, publishing, and other services leading to a more effective and timely dissemination of information on health services research, demonstrations, and evaluations in health care delivery to public and private entities and individuals engaged in the improvement of health care delivery and the general public; and undertake programs to develop new or improved methods for making such information available."
 
 Subsec. (h). Pub. L. 103–183, §501(c)(5), struck out subsec. (h) which read as follows:
 
@@ -132,7 +132,7 @@ Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which au
 
 <b>1987</b>—Subsec. (a)(1), (2). Pub. L. 100–177, §106(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-"(1) Not later than December 1 of each year, the Secretary shall make a report to Congress respecting (A) the administration of sections 242b, 242c, 242k, and 242l and section 242n of this title during the preceding fiscal year, and (B) the current state and progress of health services research and, health statistics, and health care technology.
+"(1) Not later than December 1 of each year, the Secretary shall make a report to Congress respecting (A)the administration of sections 242b, 242c, 242k, and 242l and section 242n of this title during the preceding fiscal year, and (B) the current state and progress of health services research and, health statistics, and health care technology.
 
 "(2) The Secretary, acting through the National Center for Health Services Research and the National Center for Health Statistics, shall assemble and submit to the President and the Congress not later than December 1 of each year the following reports:
 
@@ -192,7 +192,7 @@ Pub. L. 105–392, title IV, §401(e), Nov. 13, 1998, 112 Stat. 3587, provided t
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–690, title II, §2600, 102 Stat. 4233, provided that: "Except as provided in section 2613(b)(1) \[42 U.S.C. 285m note\], the amendments made by this subtitle \[subtitle G (§§2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a,295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and section 393 of Title 21, Food and Drugs, enacting provisions set out as notes under section 285m of this title, amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under section 285m of this title\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\]."
+Pub. L. 100–690, title II, §2600, 102 Stat. 4233, provided that: "Except as provided in section 2613(b)(1) \[42 U.S.C. 285m note\], the amendments made by this subtitle \[subtitle G (§§2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and section 393 of Title 21, Food and Drugs, enacting provisions set out as notes under section 285m of this title, amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under section 285m of this title\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\]."
 
 #### Effective Date of 1987 Amendment
 

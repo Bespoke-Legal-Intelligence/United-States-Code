@@ -34,7 +34,7 @@ Exclusions.—Except as provided in paragraph (3), the term "consumer report" do
 
 &emsp;&emsp;(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
 
-&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if thethird party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
+&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
 &emsp;&emsp;(D) a communication described in subsection (o) or (x).<sup>1</sup>
 
@@ -94,7 +94,7 @@ Actions included.—The term "adverse action"—
 
 &emsp;&emsp;(B) means—
 
-&emsp;&emsp;&emsp;(i) a denial or cancellation of, an increase in any charge for, or a reduction or other adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for, in connection with the underwriting of insurance;
+&emsp;&emsp;&emsp;(i) a denial or cancellation of, an increase in any charge for, or a reduction orother adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for, in connection with the underwriting of insurance;
 
 &emsp;&emsp;&emsp;(ii) a denial of employment or any other decision for employment purposes that adversely affects any current or prospective employee;
 
@@ -320,7 +320,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;(2)
 
-Subsequent disclosure.—After taking any adverse action based in whole or in parton a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
+Subsequent disclosure.—After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
 
 &emsp;(3)
 

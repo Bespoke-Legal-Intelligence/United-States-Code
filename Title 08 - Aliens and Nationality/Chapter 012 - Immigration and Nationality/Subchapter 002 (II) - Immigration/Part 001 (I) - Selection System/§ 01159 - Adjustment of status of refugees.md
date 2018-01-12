@@ -16,7 +16,7 @@
 
 #### (b) Requirements for adjustment
 
-The Secretary of Homeland Security or the Attorney General, in the Secretary's or the Attorney General's discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of analien lawfully admitted for permanent residence the status of any alien granted asylum who—
+The Secretary of Homeland Security or the Attorney General, in the Secretary's or the Attorney General's discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
 
 &emsp;(1) applies for such adjustment,
 
@@ -38,7 +38,7 @@ The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this tit
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2) and (b)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2) and (b)(5), was in the original, "this Act", meaning act June 27,1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as ame
 
 "(c)
 
-Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted undersection 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
+Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
 
 "(d)
 

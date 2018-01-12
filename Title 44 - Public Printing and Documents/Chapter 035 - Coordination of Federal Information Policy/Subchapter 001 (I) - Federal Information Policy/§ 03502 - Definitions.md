@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or anyindependent regulatory agency, but does not include—
+&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) Government-owned contractor-operated facilities, including laboratories engaged in national defense research and production activities;
 
-&emsp;(2) the term "burden" means time, effort, or financial resources expended by persons to generate, maintain, or provide information to or for a Federal agency, including the resources expended for—
+&emsp;(2) the term "burden" means time, effort, or financial resources expended by persons togenerate, maintain, or provide information to or for a Federal agency, including the resources expended for—
 
 &emsp;&emsp;(A) reviewing instructions;
 
@@ -70,7 +70,7 @@ As used in this subchapter—
 
 #### Prior Provisions
 
-A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct.4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub. L. 93–153, title IV, §409(a), Nov. 16, 1973, 87 Stat. 593, defined "Federal agency", "person", and "information", prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -107,6 +107,10 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
+
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

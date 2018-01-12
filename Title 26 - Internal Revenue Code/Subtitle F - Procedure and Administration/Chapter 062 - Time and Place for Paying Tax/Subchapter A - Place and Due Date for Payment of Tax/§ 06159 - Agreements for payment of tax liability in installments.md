@@ -138,7 +138,7 @@ Pub. L. 104–168, title II, §202(b), July 30, 1996, 110 Stat. 1457, provided t
 
 #### Effective Date
 
-Pub. L. 100–647, title VI, §6234(c), Nov. 10, 1988, 102 Stat. 3736, provided that: "The amendments made bythis section \[enacting this section and amending section 6601 of this title\] shall apply to agreements entered into after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VI, §6234(c), Nov. 10, 1988, 102 Stat. 3736, provided that: "The amendments made by this section \[enacting this section and amending section 6601 of this title\] shall apply to agreements entered into after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Statements Regarding Installment Agreements
 

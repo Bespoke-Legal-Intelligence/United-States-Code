@@ -1,0 +1,10 @@
+Part B—Discretionary Grants
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Subpart 001 - Grants to Public Agencies](Subpart%20001%20-%20Grants%20to%20Public%20Agencies/README.md)
+- [Subpart 002 - General Requirements](Subpart%20002%20-%20General%20Requirements/README.md)
+- [Subpart 003 - Grants to Private Entities](Subpart%20003%20-%20Grants%20to%20Private%20Entities/README.md)

@@ -34,7 +34,7 @@ Fees and Regulations.—
 
 &emsp;(1)
 
-Fees.—The Director shall, by regulation, establish fees for the submission of a request for supplemental examination of a patent, and to consider each item of information submitted in the request. If reexamination is ordered under subsection (b), fees established and applicable to ex parte reexamination proceedings under chapter 30 shall be paid, in addition to fees applicable to supplemental examination.
+Fees.—The Director shall, by regulation, establish fees for the submission of a request for supplemental examination of a patent, and to consider each item of information submitted in the request. If reexamination is ordered under subsection (b), fees established and applicable to ex parte reexamination proceedingsunder chapter 30 shall be paid, in addition to fees applicable to supplemental examination.
 
 &emsp;(2)
 
@@ -68,7 +68,7 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (f)(1), is
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commencedon or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ A person is guilty of an offense if he intentionally—
 
 #### (b) Defense
 
-It is a defense to a prosecution under subsection (a) that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the electronic surveillance was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
+It is a defense to a prosecution under subsection (a) that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the electronicsurveillance was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
 
 #### (c) Penalties
 
@@ -32,7 +32,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 Subsec. (a)(2). Pub. L. 111–259, §801(3)(B), substituted "title." for "title.."
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted "authorized by this chapter, chapter 119, 121, or 206 of title 18,or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title." for "authorized by statute" in pars. (1) and (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–261 substituted "authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under section 1812 of this title." for "authorized by statute" in pars. (1) and (2).
 
 #### Effective Date of 2008 Amendment
 

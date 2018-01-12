@@ -4,7 +4,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) The development of country-specific poverty reduction strategies (Poverty Reduction Strategies) under the leadership of such countries that—
 
-&emsp;&emsp;(A) will be set out in poverty reduction strategy papers (PRSPs) that provide the basis for the lending operations of the International Development Association (IDA) andthe reformed Enhanced Structural Adjustment Facility (ESAF);
+&emsp;&emsp;(A) will be set out in poverty reduction strategy papers (PRSPs) that provide the basis for the lending operations of the International Development Association (IDA) and the reformed Enhanced Structural Adjustment Facility (ESAF);
 
 &emsp;&emsp;(B) will reflect the World Bank's role in poverty reduction and the IMF's role in macroeconomic issues;
 

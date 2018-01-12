@@ -262,7 +262,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 &emsp;&emsp;&emsp;"(II) the second 5 years of the lease, at least 16.25 percent of the rents payable by the lessee under the agreement are paid.
 
-&nbsp;&nbsp;Paragraph (3)(B)(ii)(II) shall apply for purposes of clauses (ii) and (iii) of subparagraph (C), as if, as of the beginning of the last stage, the separate agreements were treated as 1 single agreement relating to all property covered by the agreements, including any property placed in service before the property to which the agreement for the last stage relates. If the lessor under the agreement described in subparagraph (C) leases the property from another person, this exception shall also apply to any agreement between the lessor and such person which is integrally related to, and entered into at the sametime as, such agreement, and which calls for comparable payments of rent over the primary term of the agreement.
+&nbsp;&nbsp;Paragraph (3)(B)(ii)(II) shall apply for purposes of clauses (ii) and (iii) of subparagraph (C), as if, as of the beginning of the last stage, the separate agreements were treated as 1 single agreement relating to all property covered by the agreements, including any property placed in service before the property to which the agreement for the last stage relates. If the lessor under the agreement described in subparagraph (C) leases the property from another person, this exception shall also apply to any agreement between the lessor and such person which is integrally related to, and entered into at the same time as, such agreement, and which calls for comparable payments of rent over the primary term of the agreement.
 
 "(3)
 

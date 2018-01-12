@@ -14,7 +14,7 @@ With respect to section 8201 of this title and subsections (a) and (b) of this s
 
 #### (d) Workers' compensation exception
 
-This section may not be construed to preempt any State law, rule, or regulation that restrictsthe placement of workers' compensation insurance or excess insurance for self-funded workers' compensation plans with a nonadmitted insurer.
+This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers' compensation insurance or excess insurance for self-funded workers' compensation plans with a nonadmitted insurer.
 
 (Pub. L. 111–203, title V, §522, July 21, 2010, 124 Stat. 1590.)
 

@@ -1,6 +1,6 @@
 ### §3556. Order of restitution
 
-The court, in imposing a sentence on a defendant who has been found guilty of an offense shall order restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
+The court, in imposing a sentence on a defendant who has been found guilty of an offense shallorder restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 99–646, §20(b), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–132, title II, §202, Apr. 24, 1996, 110 Stat. 1227.)
 

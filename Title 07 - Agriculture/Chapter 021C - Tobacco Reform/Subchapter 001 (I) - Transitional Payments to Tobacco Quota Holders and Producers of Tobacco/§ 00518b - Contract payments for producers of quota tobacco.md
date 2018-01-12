@@ -28,7 +28,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 &emsp;In the case of each kind of tobacco (other than tobacco covered by paragraph (2)), for the purpose of calculating a contract payment to a producer of quota tobacco, the base quota level for the producer of quota tobacco shall be the quantity obtained by multiplying—
 
-&emsp;&emsp;(A) the basic tobacco farm acreage allotment for the 2002 marketing year establishedby the Secretary for quota tobacco produced on the farm; by
+&emsp;&emsp;(A) the basic tobacco farm acreage allotment for the 2002 marketing year established by the Secretary for quota tobacco produced on the farm; by
 
 &emsp;&emsp;(B) the average annual yield, per acre, of quota tobacco produced on the farm for the period covering the 2001, 2002, and 2003 crop years.
 

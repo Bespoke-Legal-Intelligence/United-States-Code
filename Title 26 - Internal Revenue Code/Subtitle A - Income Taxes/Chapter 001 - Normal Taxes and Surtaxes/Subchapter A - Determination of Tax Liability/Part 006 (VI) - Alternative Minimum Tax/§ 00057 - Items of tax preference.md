@@ -116,7 +116,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (6) Accelerated depreciation or amortization on certain property placed in service before January 1, 1987
 
-&emsp;The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs (2), (3), (4), and (12) of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shallnot apply to any property to which section 56(a)(1) or (5) applies.
+&emsp;The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs (2), (3), (4), and (12) of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shall not apply to any property to which section 56(a)(1) or (5) applies.
 
 #### (7) Exclusion for gains on sale of certain small business stock
 
@@ -132,7 +132,7 @@ For purposes of paragraph (2) of subsection (a)—
 
 #### (2) Election
 
-&emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term "straight line recovery of intangibles" means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
+&emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term "straight line recovery of intangibles" means any method which would be permitted for purposes of determining costdepletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354; Pub. L. 113–295, div. A, title II, §221(a)(10), (11), Dec. 19, 2014, 128 Stat. 4038.)
 
@@ -272,5 +272,5 @@ Pub. L. 100–647, title I, §1007(f)(4), Nov. 10, 1988, 102 Stat. 3433, provide
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes anyamendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

@@ -6,7 +6,7 @@ Any person who commits any offense prohibited by section 1037 of this title shal
 
 #### (b) Persons preventing enforcement of chapter; term of imprisonment and fine
 
-Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under this chapter shall be fined not more than $5,000 or imprisoned not more than three years or both. Whoever, in the commission of any such act, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1112 of title 18.
+Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under thischapter shall be fined not more than $5,000 or imprisoned not more than three years or both. Whoever, in the commission of any such act, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1112 of title 18.
 
 #### (c) Civil penalty
 
@@ -63,6 +63,10 @@ Subsec. (e). Pub. L. 102–237, §1012(d)(3), redesignated subsec. (b) as (e).
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
+
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (c)".</i>
 

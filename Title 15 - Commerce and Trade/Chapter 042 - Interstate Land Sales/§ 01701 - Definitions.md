@@ -18,7 +18,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(8) "interstate commerce" means trade or commerce among the several States or between any foreign country and any State;
 
-&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
+&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth ofPuerto Rico, and the territories and possessions of the United States;
 
 &emsp;(10) "purchaser" means an actual or prospective purchaser or lessee of any lot in a subdivision;
 

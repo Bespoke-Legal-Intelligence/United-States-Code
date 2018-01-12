@@ -42,7 +42,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
+&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effectunder section 2001 as of the date of the decedent's death.
 
 #### (ii) Refund of excess when tax finally determined
 

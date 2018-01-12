@@ -36,7 +36,7 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 #### (A) Waiver
 
-&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote ofthree-fifths of the Members, duly chosen and sworn.
+&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
 #### (B) Appeals
 

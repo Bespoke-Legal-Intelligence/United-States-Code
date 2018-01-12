@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(G) a partnership in which persons described in subparagraph (A), (B), (C), (D), or (E), own more than 35 percent of the profits interest, or
 
-&emsp;&emsp;(H) a trust or estate in which persons described in subparagraph (A), (B), (C), (D), or\(E), hold more than 35 percent of the beneficial interest.
+&emsp;&emsp;(H) a trust or estate in which persons described in subparagraph (A), (B), (C), (D), or (E), hold more than 35 percent of the beneficial interest.
 
 > &emsp;For purposes of subparagraphs (C)(i) and (F), there shall be taken into account indirect stockholdings which would be taken into account under section 267(c), except that, for purposes of this paragraph, section 267(c)(4) shall be treated as providing that the members of the family of an individual are only those individuals described in subparagraph (E) of this paragraph. For purposes of subparagraphs (C) (ii) and (iii), (G), and (H), the ownership of profits or beneficial interests shall be determined in accordance with the rules for constructive ownership of stock provided in section 267(c) (other than paragraph (3) thereof), except that section 267(c)(4) shall be treated as providing that the members of the family of an individual are only those individuals described in subparagraph (E) of this paragraph.
 

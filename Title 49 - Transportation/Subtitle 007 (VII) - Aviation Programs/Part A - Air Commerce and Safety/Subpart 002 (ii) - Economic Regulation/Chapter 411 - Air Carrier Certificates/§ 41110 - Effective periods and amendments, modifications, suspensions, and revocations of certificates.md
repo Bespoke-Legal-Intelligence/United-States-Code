@@ -18,7 +18,7 @@ General.—(1) Each certificate issued under section 41102 of this title is effe
 
 (3) The Secretary may revoke a certificate under paragraph (2)(B) of this subsection only if the holder of the certificate does not comply, within a reasonable time the Secretary specifies, with an order to the holder requiring compliance.
 
-(4) A certificate to provide foreign air transportation may not be amended, modified, suspended, or revoked under section 41111 of this title if the holder of the certificate requests anoral evidentiary hearing or the Secretary finds, under all the facts and circumstances, that the hearing is required in the public interest.
+(4) A certificate to provide foreign air transportation may not be amended, modified, suspended, or revoked under section 41111 of this title if the holder of the certificate requests an oral evidentiary hearing or the Secretary finds, under all the facts and circumstances, that the hearing is required in the public interest.
 
 (b)
 
@@ -166,7 +166,7 @@ In subsection (a)(1)(C), the words "transportation is no longer being provided u
 
 In subsections (a)(2) and (e), the words "opportunity for a" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(2), before clause (A), the word "application" is substituted for "petition or complaint" for consistency in the revised title and with other titles of the Code and to eliminate unnecessary words. The words "except as provided in paragraph (4) of this subsection" are added for clarity. The words "the simplified procedures under" are omitted as surplus. In clause (A), the word "alter" is omitted as surplus. Inclause (B), the reference to 49 App.:1372 is omitted from the cross-references of "this subchapter" because 49 App.:1372 is concerned with foreign air carrier permits and not relevant to air carrier certificate revocation. The word "rule" is omitted as being synonymous with "regulation". The words "condition, or limitation" are omitted as surplus.
+In subsection (a)(2), before clause (A), the word "application" is substituted for "petition or complaint" for consistency in the revised title and with other titles of the Code and to eliminate unnecessary words. The words "except as provided in paragraph (4) of this subsection" are added for clarity. The words "the simplified procedures under" are omitted as surplus. In clause (A), the word "alter" is omitted as surplus. In clause (B), the reference to 49 App.:1372 is omitted from the cross-references of "this subchapter" because 49 App.:1372 is concerned with foreign air carrier permits and not relevant to air carrier certificate revocation. The word "rule" is omitted as being synonymous with "regulation". The words "condition, or limitation" are omitted as surplus.
 
 In subsection (a)(3), the words "to the provision, or to the order (other than an order issued in accordance with this sentence), rule, regulation, term, condition, or limitation found by the Board to have been violated" are omitted as surplus.
 

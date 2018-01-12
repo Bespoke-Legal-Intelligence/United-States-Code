@@ -102,7 +102,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(A) the claims have been submitted to the State agencies not later than 60 days after the last day of the month for which the reimbursement is claimed; and
 
-&emsp;(B) the final program operations report for the month is submitted to the Secretary not later than 90 days after the last day of the month.
+&emsp;(B) the final program operations report for the month is submitted to the Secretary notlater than 90 days after the last day of the month.
 
 (2) The Secretary may waive the requirements of paragraph (1) at the discretion of the Secretary.
 
@@ -242,7 +242,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (4) Applicability to Puerto Rico
 
-&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of PuertoRico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of Puerto Rico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (o) Procurement contracts
 
@@ -352,7 +352,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 Any school, institution, service institution, facility, or individual that has been terminated from any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and is on a list of disqualified institutions and individuals under section 1761 of this title or section 1766(d)(5)(E) of this title may not be approved to participate in or administer any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996,110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188.)
 
 #### References in Text
 
@@ -550,7 +550,7 @@ Subsec. (d)(7). Pub. L. 95–166, §19(c), added par. (7).
 
 <b>1975</b>—Subsec. (d)(1). Pub. L. 94–105, §9(b), inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including,but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
+Subsec. (d)(3) to (7). Pub. L. 94–105, §9(a), (c), struck out par. (3) defining "Nonprofit private schools", redesignated pars. (4) to (7) as (3) to (6), respectively, and in par. (6), as so redesignated, expanded definition of "school" to include any public or licensed nonprofit private residential child care institution, including, but not limited to, orphanages and homes for the mentally retarded, and inserted provision defining "nonprofit" as any school or institution exempt under section 501(c)(3) of title 26.
 
 Subsec. (e). Pub. L. 94–105, §9(d), added subsec. (e).
 

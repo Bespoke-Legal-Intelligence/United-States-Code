@@ -36,7 +36,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Transfer of Functions
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2,1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 #### Ex. Ord. No. 10982. Administration of Provisions of Chapter
 
@@ -62,7 +62,7 @@ Sec. 3. The following regulations are hereby prescribed as necessary and appropr
 
 (b) Advance payments of compensation, allowances, and differentials, as authorized by section 2 of the act \[section 5522 of this title\], shall be held to the minimum period during which the order for evacuation is anticipated to continue, and shall in no event be made for a period of more than thirty days.
 
-(c) It is hereby determined to be in the interest of the United States that payments of monetary amounts as authorized by section 3 of the act \[section 5523 of this title\] to and for the account of an employee whose evacuation is ordered and who is prevented from performing the duties of his position, under the circumstances set forth in section 3 of the act, should be extended beyond sixty days for not more than one hundred and twenty additional days only upon determination, pursuant to regulations of the head of the Federal agency concerned, that such additional payments are reasonably necessary to maintain a civilian staff available for performance of duty. Such payments of monetary amounts under the authority of section 3 of the act shall be terminated as of such dates as may be determined by the Secretary of State or the Office of Personnel Management, as appropriate, but not later than the date on which an employee resumes his duties at the post from which he has been evacuated or is assigned to another position.
+(c) It is hereby determined to be in the interest of the United States that payments of monetary amounts asauthorized by section 3 of the act \[section 5523 of this title\] to and for the account of an employee whose evacuation is ordered and who is prevented from performing the duties of his position, under the circumstances set forth in section 3 of the act, should be extended beyond sixty days for not more than one hundred and twenty additional days only upon determination, pursuant to regulations of the head of the Federal agency concerned, that such additional payments are reasonably necessary to maintain a civilian staff available for performance of duty. Such payments of monetary amounts under the authority of section 3 of the act shall be terminated as of such dates as may be determined by the Secretary of State or the Office of Personnel Management, as appropriate, but not later than the date on which an employee resumes his duties at the post from which he has been evacuated or is assigned to another position.
 
 Sec. 4. (a) The head of each Federal agency shall issue as soon as practicable such regulations as may be necessary and appropriate to carry out his functions under the act and this order.
 

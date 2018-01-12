@@ -64,7 +64,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 Exemption From Taxes Levied After September 30, 1981.—(1)
 
-In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
+In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge,or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
 
 (2) The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this subsection and may grant equitable or declaratory relief requested by Amtrak.
 
@@ -86,7 +86,7 @@ Rail Transportation Treated Equally.—When authorizing transportation in the co
 
 Applicability of District of Columbia Law.—Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a),title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303; Pub. L. 110–53, title XV, §1527, Aug. 3, 2007, 121 Stat. 452.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303; Pub. L. 110–53, title XV, §1527, Aug. 3, 2007, 121 Stat. 452.)
 
 Historical and Revision Notes
 

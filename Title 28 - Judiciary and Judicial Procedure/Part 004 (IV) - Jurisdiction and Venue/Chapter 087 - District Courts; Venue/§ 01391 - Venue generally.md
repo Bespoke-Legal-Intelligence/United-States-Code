@@ -48,7 +48,7 @@ Service.—The summons and complaint in such an action shall be served as provid
 
 Civil Actions Against a Foreign State.—A civil action against a foreign state as defined in section 1603(a) of this title may be brought—
 
-&emsp;(1) in any judicial district in which a substantial part of the events or omissions givingrise to the claim occurred, or a substantial part of property that is the subject of the action is situated;
+&emsp;(1) in any judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated;
 
 &emsp;(2) in any judicial district in which the vessel or cargo of a foreign state is situated, if the claim is asserted under section 1605(b) of this title;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Payment.—Except as otherwise provided in subsection (c), a governmental entity obtaining the contents of communications, records, or other information under section 2702, 2703, or 2704 of this title shall pay to the person or entity assembling or providing such information afee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, assembling, reproducing, or otherwise providing such information. Such reimbursable costs shall include any costs due to necessary disruption of normal operations of any electronic communication service or remote computing service in which such information may be stored.
+Payment.—Except as otherwise provided in subsection (c), a governmental entity obtaining the contents of communications, records, or other information under section 2702, 2703, or 2704 of this title shall pay to the person or entity assembling or providing such information a fee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, assembling, reproducing, or otherwise providing such information. Such reimbursable costs shall include any costs due to necessary disruption of normal operations of any electronic communication service or remote computing service in which such information may be stored.
 
 (b)
 
@@ -17,4 +17,8 @@ Exception.—The requirement of subsection (a) of this section does not apply wi
 #### Amendments
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted heading.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

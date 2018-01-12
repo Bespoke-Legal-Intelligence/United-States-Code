@@ -44,7 +44,7 @@ The Council shall meet at the call of the chairman as necessary to consider prop
 
 #### (f) Consideration of Council comments
 
-The Federal Acquisition Regulatory Council and other appropriate regulatory authoritiesshall consider comments submitted in a timely manner pursuant to subsection (b)(2).
+The Federal Acquisition Regulatory Council and other appropriate regulatory authorities shall consider comments submitted in a timely manner pursuant to subsection (b)(2).
 
 (Pub. L. 103–355, title VII, §7104, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 112–239, div. A, title XVI, §1692, Jan. 2, 2013, 126 Stat. 2089.)
 

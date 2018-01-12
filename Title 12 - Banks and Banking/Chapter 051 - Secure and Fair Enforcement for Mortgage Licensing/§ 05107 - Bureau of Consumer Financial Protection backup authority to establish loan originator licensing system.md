@@ -26,7 +26,7 @@ For purposes of this section, the law in effect in a State meets the requirement
 
 &emsp;(5) The State loan originator supervisory authority has established a mechanism to assess civil money penalties for individuals acting as mortgage originators in their State without a valid license or registration.
 
-&emsp;(6) The State loan originator supervisory authority has established minimum net worth or surety bonding requirements that reflect the dollar amount of loans originated by a residential mortgage loan originator, or has established a recovery fund paid into by the loan originators.
+&emsp;(6) The State loan originator supervisory authority has established minimum net worth orsurety bonding requirements that reflect the dollar amount of loans originated by a residential mortgage loan originator, or has established a recovery fund paid into by the loan originators.
 
 #### (e) Temporary extension of period
 

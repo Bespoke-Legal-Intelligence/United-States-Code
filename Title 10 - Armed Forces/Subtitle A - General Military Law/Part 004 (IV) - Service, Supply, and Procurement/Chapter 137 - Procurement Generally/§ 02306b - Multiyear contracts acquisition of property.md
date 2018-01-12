@@ -110,7 +110,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 (B) The Secretary may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
 
-(6) The Secretary may make the certification under paragraph (3) notwithstanding the factthat one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
+(6) The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
 
 (7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -120,7 +120,7 @@ Defense Contract Options for Varying Quantities.—The Secretary of Defense may 
 
 (k)
 
-Multiyear Contract Defined.—For the purposes of this section, a multiyear contract is a contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+Multiyear Contract Defined.—For the purposes of this section, a multiyear contract isa contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
 (l)
 
@@ -140,7 +140,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided in an appropriations Act.
 
-(4) Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
+(4) Each report required by paragraph (5) with respect to a contract (or contract extension) shall contain the following:
 
 &emsp;(A) The amount of total obligational authority under the contract (or contract extension) and the percentage that such amount represents of—
 
@@ -180,7 +180,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat.3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ Section 2334(e)(1) of this title, referred to in subsec. (i)(2)(B), was redesign
 Section 2334(e)(2) of this title, referred to in subsec. (i)(3)(B), was redesignated as section 2334(f)(2) of this title by Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (l)(4). Pub. L. 115–91, in introductory provisions, substituted "Each report required by paragraph (5) with respect to a contract (or contract extension) shall contain the following:" for "Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:".
 
 <b>2015</b>—Subsecs. (a)(1), (i)(4). Pub. L. 114–92 substituted "significant" for "substantial".
 
@@ -343,6 +345,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;"(3) the Secretary of Defense makes such request in writing to the congressional defense committees."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. C, title VIII, §8010, May 5, 2017, 131 Stat. 247.
 
 Pub. L. 114–113, div. C, title VIII, §8010, Dec. 18, 2015, 129 Stat. 2352.
 

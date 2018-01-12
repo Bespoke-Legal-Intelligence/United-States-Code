@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) to deliver instruction to students who are separated from the instructor; and
 
-&emsp;&emsp;&emsp;(ii) to support regular and substantive interaction between the students and the instructor, synchronously or asynchronously.
+&emsp;&emsp;&emsp;(ii) to support regular and substantive interaction between the students and theinstructor, synchronously or asynchronously.
 
 #### (B) Inclusions
 
@@ -164,7 +164,7 @@ Section 212(d) of the Education for Economic Security Act, referred to in par. (
 
 The Head Start Act, referred to in par. (8)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act isclassified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Section 12511(23) of title 42, referred to in par. (18), was redesignated section 12511(40) by Pub. L. 111–13, title I, §1102(b)(1), Apr. 21, 2009, 123 Stat. 1467.
 
@@ -226,7 +226,7 @@ Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 

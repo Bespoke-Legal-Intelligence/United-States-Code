@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States."
 
-<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award ofcertain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government." as section catchline.
+<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government." as section catchline.
 
 Pub. L. 103–35 struck out period at end of section catchline.
 
@@ -71,4 +71,50 @@ Subsec. (c)(1). Pub. L. 103–160, §842(b), inserted at end "Such term does not
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: "Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
+
+#### Review Regarding Applicability of Foreign Ownership, Control, or Influence Requirements of National Industrial Security Program to National Technology and Industrial Base Companies
+
+Pub. L. 115–91, div. A, title XVII, §1712, Dec. 12, 2017, 131 Stat. 1811, provided that:
+
+"(a)
+
+Review.—The Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall review whether organizations whose ownership or majority control is based in a country that is part of the national technology and industrial base should be exempted from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program.
+
+"(b)
+
+Authority.—The Secretary of Defense may establish a program to exempt organizations described under subsection (a) from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program. Any such program shall comply with the requirements of this subsection.
+
+&emsp;"(1)
+
+In general.—Under a program established under this subsection, the Secretary, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall maintain a list of organizations owned or controlled by a country that is part of the national technology and industrial base that are eligible for exemption from the requirements described under such subsection.
+
+&emsp;"(2)
+
+Determinations of eligibility.—Under a program established under this subsection, the Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, may (on a case-by-case basis and for the purpose of supporting specific needs of the Department of Defense) designate an organization whose ownership or majority control is based in a country that is part of the national technology and industrial base as exempt from the requirements described under subsection (a) upon a determination that such exemption—
+
+&emsp;&emsp;"(A) is beneficial to improving collaboration within countries that are a part of the national technology and industrial base;
+
+&emsp;&emsp;"(B) is in the national security interest of the United States; and
+
+&emsp;&emsp;"(C) will not result in a greater risk of the disclosure of classified or sensitive information consistent with the National Industrial Security Program.
+
+&emsp;"(3)
+
+Exercise of authority.—The authority under this subsection may be exercised beginning on the date that is the later of—
+
+&emsp;&emsp;"(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and
+
+&emsp;&emsp;"(B) the date that is 30 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a written notification of a determination made under paragraph (2), including a discussion of the issues related to the foreign ownership or control of the organization that were considered as part of the determination.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' has the meaning given the term in section 301 of title 10, United States Code.
+
+&emsp;"(2)
+
+National technology and industrial base.—the \[sic\] term 'national technology and industrial base' has the meaning given the term in section 2500 of title 10, United States Code."
 

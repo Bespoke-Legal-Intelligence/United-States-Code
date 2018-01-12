@@ -26,7 +26,7 @@
 
 (d) For the purposes of this section:
 
-&emsp;(1) The term "health-care item" includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
+&emsp;(1) The term "health-care item" includes any item listed in, or (as determined by theSecretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
 
 &emsp;(2) The term "local contract" means a contract entered into by a Department medical center for procurement of an item for use by that medical center.
 

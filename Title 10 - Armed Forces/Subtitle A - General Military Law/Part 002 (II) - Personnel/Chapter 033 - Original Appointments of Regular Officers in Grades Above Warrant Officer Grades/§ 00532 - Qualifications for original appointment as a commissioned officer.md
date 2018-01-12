@@ -12,7 +12,7 @@
 
 &emsp;(5) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
 
-(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) throughcaptain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
+(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
@@ -44,7 +44,7 @@
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §501(a)(2), substituted "sixty-second birthday" for "fifty-fifth birthday".
 
-Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component."
+Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service onactive duty as a commissioned officer (other than a warrant officer) of a reserve component."
 
 Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 

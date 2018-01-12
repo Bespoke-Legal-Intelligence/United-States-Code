@@ -10,7 +10,7 @@ The Administrator shall keep the Committee on Science, Space, and Technology of 
 
 #### (c) Comment by Government agencies and the public
 
-The reports provided for in section 5910 <sup>1</sup> of this title shall be made available to the publicfor comment, and to the heads of affected agencies for comment and, in the case of recommendations for action, for response.
+The reports provided for in section 5910 <sup>1</sup> of this title shall be made available to the public for comment, and to the heads of affected agencies for comment and, in the case of recommendations for action, for response.
 
 #### (d) Transmittal of research information to the Department of Energy
 

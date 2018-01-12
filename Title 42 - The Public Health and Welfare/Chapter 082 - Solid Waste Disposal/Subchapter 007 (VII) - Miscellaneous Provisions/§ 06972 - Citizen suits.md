@@ -10,7 +10,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator.
 
-> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
+> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B),to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
 
 #### (b) Actions prohibited
 
@@ -28,7 +28,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, prohibition, or order.
 
-> In any action under subsection (a)(1)(A) of this section in a court of the United States, any person may intervene as a matter of right.
+> In any action under subsection (a)(1)(A) in a court of the United States, any person may intervene as a matter of right.
 
 (2)(A) No action may be commenced under subsection (a)(1)(B) of this section prior to ninety days after the plaintiff has given notice of the endangerment to—
 
@@ -36,7 +36,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(ii) the State in which the alleged endangerment may occur;
 
-&emsp;(iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B) of this section,
+&emsp;(iii) any person alleged to have contributed or to be contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in subsection (a)(1)(B),
 
 > except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter.
 
@@ -48,27 +48,27 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9604\] and is diligently proceeding with a remedial action under that Act \[42 U.S.C. 9601 et seq.\]; or
 
-&emsp;(iv) has obtained a court order (including a consent decree) or issued an administrativeorder under section 106 of the Comprehensive Environmental Response, Compensation and Liability Act of 980 <sup>2</sup> \[42 U.S.C. 9606\] or section 6973 of this title pursuant to which a responsible party is diligently conducting a removal action, Remedial Investigation and Feasibility Study (RIFS), or proceeding with a remedial action.
+&emsp;(iv) has obtained a court order (including a consent decree) or issued an administrative order under section 106 of the Comprehensive Environmental Response, Compensation and Liability Act of 980 <sup>2</sup> \[42 U.S.C. 9606\] or section 6973 of this title pursuant to which a responsible party is diligently conducting a removal action, Remedial Investigation and Feasibility Study (RIFS), or proceeding with a remedial action.
 
-> In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) of this section are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
+> In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
 (C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
-&emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B) of this section;
+&emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 
 &emsp;(ii) is actually engaging in a removal action under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9604\]; or
 
 &emsp;(iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9604\] and is diligently proceeding with a remedial action under that Act \[42 U.S.C. 9601 et seq.\].
 
-(D) No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
+(D) No action may be commenced under subsection (a)(1)(B) by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
 
-(E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
+(E) In any action under subsection (a)(1)(B) in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
 
-(F) Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
+(F) Whenever any action is brought under subsection (a)(1)(B) in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
 
 #### (c) Notice
 
-No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
+No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be broughtunder this section only in the judicial district in which such alleged violation occurs.
 
 #### (d) Intervention
 
@@ -84,7 +84,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (g) Transporters
 
-A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
 (Pub. L. 89–272, title II, §7002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2825; amended Pub. L. 95–609, §7(p), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 98–616, title IV, §401, Nov. 8, 1984, 98 Stat. 3268.)
 

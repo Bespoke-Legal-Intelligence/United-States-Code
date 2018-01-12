@@ -26,7 +26,7 @@
 
 (C) The amount of optional life insurance continued under subparagraph (A) or subparagraph (B) of this paragraph shall be reduced by 2 percent at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury. The Office shall prescribe minimum amounts, not less than 25 percent of the amount of life insurance in force before the first reduction, to which the insurance may be reduced.
 
-(3) Notwithstanding paragraph (c)(1) of this section,<sup>1</sup> a justice or judge of the United States as defined by section 8701(a)(5) of this title who resigns his office without meeting the requirements of section 371(a) of title 28, United States Code, for continuation of the judicial salary shall have the right to convert regular optional life insurance coverage issued under this section during his judicial service to an individual policy of life insurance under the same conditions approved by the Office governing conversion of basic life insurance coverage for employees eligible as provided in section 8706(a) of this title.
+(3) Notwithstanding paragraph (c)(1) of this section,<sup>1</sup> a justice or judge of the United Statesas defined by section 8701(a)(5) of this title who resigns his office without meeting the requirements of section 371(a) of title 28, United States Code, for continuation of the judicial salary shall have the right to convert regular optional life insurance coverage issued under this section during his judicial service to an individual policy of life insurance under the same conditions approved by the Office governing conversion of basic life insurance coverage for employees eligible as provided in section 8706(a) of this title.
 
 (d)(1) During each period in which an employee has the optional insurance the full cost thereof shall be withheld from his pay. During each period in which an employee continues optional life insurance after retirement or while in receipt of compensation for work injuries, as provided in section 8706(b) of this title, the full cost thereof shall be withheld from his annuity or compensation, except that, at the end of the calendar month in which he becomes 65 years of age, the optional life insurance shall be without cost to him. Amounts so withheld shall be deposited, used, and invested as provided in section 8714 of this title and shall be reported and accounted for separately from amounts withheld and contributed under sections 8707 and 8708 of this title.
 
@@ -84,7 +84,7 @@ Subsec. (e). Pub. L. 95–454 substituted "Office" for "Commission".
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–311 effective on the first day of the first applicable pay period beginning on or after Oct. 30, 1998, see section 11(d) of Pub. L. 105–311, set out as a note under section 8701 of this title.
+Amendment by Pub. L. 105–311 effective on the first day of the first applicable pay period beginning on orafter Oct. 30, 1998, see section 11(d) of Pub. L. 105–311, set out as a note under section 8701 of this title.
 
 #### Effective Date of 1986 Amendment
 

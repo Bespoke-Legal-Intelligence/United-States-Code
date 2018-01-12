@@ -58,7 +58,7 @@ Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to determination of incidence of, and types of complications resulting from, diabetes among Indians, measures for treatment and control of diabetes among tribes, screening of each Indian receiving services from the Service, model diabetes projects, establishment by diabetes control officers of registry of patients with diabetes, and authorization of appropriations.
 
-Subsec. (c)(1). Pub. L. 111–148 struck out "through fiscal year 2000" before "each model diabetes project" inintroductory provisions prior to general amendment of section. See above.
+Subsec. (c)(1). Pub. L. 111–148 struck out "through fiscal year 2000" before "each model diabetes project" in introductory provisions prior to general amendment of section. See above.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted "paragraph (1)" for "subparagraph (A)" in par. (2), and struck out former par. (2) which read as follows: "Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians."
 

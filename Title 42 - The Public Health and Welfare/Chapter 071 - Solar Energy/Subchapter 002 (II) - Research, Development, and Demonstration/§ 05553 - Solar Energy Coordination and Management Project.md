@@ -44,7 +44,7 @@ The Project shall have overall responsibility for the provision of effective man
 
 &emsp;(C) the Atomic Energy Commission, the responsibilities of which shall include the development of technologies;
 
-&emsp;(D) the Department of Housing and Urban Development, the responsibilities of which shall include fostering the utilization of solarenergy for the heating and cooling of buildings, pursuant to subchapter I of this chapter; and
+&emsp;(D) the Department of Housing and Urban Development, the responsibilities of which shall include fostering the utilization of solar energy for the heating and cooling of buildings, pursuant to subchapter I of this chapter; and
 
 &emsp;(E) the Federal Power Commission, the responsibilities of which shall include fostering the utilization of solar energy for the generation of electricity and for the production of synthetic fuels.
 

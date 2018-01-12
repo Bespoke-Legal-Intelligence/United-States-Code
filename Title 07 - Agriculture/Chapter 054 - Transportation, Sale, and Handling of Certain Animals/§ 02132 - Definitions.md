@@ -44,7 +44,7 @@ In this chapter:
 
 Subsecs. (a), (b), (d), (e). Pub. L. 113–79, §12308(a)(1)(C), substituted period for semicolon at end.
 
-Subsec. (f)(2). Pub. L. 113–79, §12308(a)(1)(B), substituted "(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store\(other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer)." for "(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
+Subsec. (f)(2). Pub. L. 113–79, §12308(a)(1)(B), substituted "(2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer)." for "(2) any dog for hunting, security, or breeding purposes, except that this term does not include—
 
 &emsp;"(i) a retail pet store except such store which sells any animals to a research facility, an exhibitor, or a dealer; or
 

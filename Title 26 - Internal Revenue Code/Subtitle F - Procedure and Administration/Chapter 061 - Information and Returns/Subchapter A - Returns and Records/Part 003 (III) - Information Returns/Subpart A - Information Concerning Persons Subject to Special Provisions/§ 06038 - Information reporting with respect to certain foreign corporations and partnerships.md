@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the name, the principal place of business, and the nature of business of such entity, and the country under whose laws such entity is incorporated (or organized in the case of a partnership);
 
-&emsp;&emsp;(B) in the case of a foreign corporation, its post-1986 undistributed earnings (as defined in section 902(c));
+&emsp;&emsp;(B) in the case of a foreign corporation, its post-1986 undistributed earnings (as defined in section 902(c)); <sup>1</sup>
 
 &emsp;&emsp;(C) a balance sheet for such entity listing assets, liabilities, and capital;
 
@@ -44,7 +44,7 @@
 
 #### (5) Information required from 10-percent partner of controlled foreign partnership
 
-&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner's ownership interests in the partnershipand allocations to such partner of partnership items.
+&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner's ownership interests in the partnership and allocations to such partner of partnership items.
 
 #### (b) Dollar penalty for failure to furnish information
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(A) in applying section 901 (relating to taxes of foreign countries and possessions of the United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
 
-&emsp;&emsp;(B) in the case of a foreign business entity which is a foreign corporation, in applying sections 902 (relating to foreign tax credit for corporate stockholder in foreign corporation) and 960 (relating to special rules for foreign tax credit) to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
+&emsp;&emsp;(B) in the case of a foreign business entity which is a foreign corporation, in applying section 960 to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which suchinformation is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
 
 > &emsp;If such failure continues 90 days or more after notice of such failure by the Secretary to the United States person, then the amount of the reduction under this paragraph shall be 10 percent plus an additional 5 percent for each 3-month period, or fraction thereof, during which such failure to furnish information continues after the expiration of such 90-day period.
 
@@ -86,8 +86,6 @@
 
 &emsp;(B) For purposes of this subsection and subsection (b), the time prescribed under paragraph (2) of subsection (a) to furnish information (and the beginning of the 90-day period after notice by the Secretary) shall be treated as being not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish such information.
 
-&emsp;(C) In applying subsections (a) and (b) of section 902, and in applying subsection (a) of section 960, the reduction provided by this subsection shall not apply for purposes of determining the amount of post-1986 undistributed earnings.
-
 #### (d) Two or more persons required to furnish information with respect to same foreign corporation
 
 Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable, the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
@@ -102,7 +100,7 @@ For purposes of this section—
 
 #### (2) Control of corporation
 
-&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of thepreceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
+&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of the preceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
 
 &emsp;&emsp;(A) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person, and
 
@@ -138,13 +136,21 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(2) For definition of the term "United States person", see section 7701(a)(30).</b>
 
-(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III, §338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 104–188, title I, §1704(f)(5)(A), (t)(40), (46), Aug. 20, 1996, 110 Stat. 1880, 1889; Pub. L. 105–34, title XI, §1142(a)–(e)(2), Aug. 5, 1997, 111 Stat. 981–983; Pub. L. 105–206, title VI, §6011(f), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III,§338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 104–188, title I, §1704(f)(5)(A), (t)(40), (46), Aug. 20, 1996, 110 Stat. 1880, 1889; Pub. L. 105–34, title XI, §1142(a)–(e)(2), Aug. 5, 1997, 111 Stat. 981–983; Pub. L. 105–206, title VI, §6011(f), July 22, 1998, 112 Stat. 818; Pub. L. 115–97, title I, §14301(c)(36), (37), Dec. 22, 2017, 131 Stat. 2224.)
+
+#### References in Text
+
+Section 902, referred to in subsec. (a)(1)(B), was repealed by Pub. L. 115–97, title I, §14301(a), Dec. 22, 2017, 131 Stat. 2221.
 
 #### Prior Provisions
 
 A prior section 6038 was renumbered section 6040 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1)(B). Pub. L. 115–97, §14301(c)(36), substituted "section 960" for "sections 902 (relating to foreign tax credit for corporate stockholder in foreign corporation) and 960 (relating to special rules for foreign tax credit)".
+
+Subsec. (c)(4)(C). Pub. L. 115–97, §14301(c)(37), struck out subpar. (C) which read as follows: "In applying subsections (a) and (b) of section 902, and in applying subsection (a) of section 960, the reduction provided by this subsection shall not apply for purposes of determining the amount of post-1986 undistributed earnings."
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §6011(f)(1), struck out "by regulations" before "prescribe".
 
@@ -208,7 +214,7 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 <b>1964</b>—Subsec. (d)(1). Pub. L. 88–554 substituted "subparagraphs (A), (B), and (C) of section 318(a)(3)" for "the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)" in subpar. (A), and deleted "clause (i) of" after "in applying" in subpar. (B).
 
-<b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions "Every United States person shall furnish" for "A domestic corporation shall furnish", in subpar. (D)(i) "such person" for "any foreign corporation controlled by the domestic corporation", in subpar. (D)(ii) "any other corporation which such person controls" for "any foreign subsidiary of a foreign corporation controlled by the domestic corporation", in subpar. (D)(iii) "any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation" for "the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation", and in subpar. (E) "each United States person who is a shareholder" for "each citizen or resident of the United States and each domestic corporation who is a shareholder", and struck out provisions throughout the subsection which related to foreign subsidiaries.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions "Every United States person shall furnish" for "A domestic corporation shall furnish", in subpar. (D)(i) "such person" for "any foreign corporation controlled by the domestic corporation", in subpar. (D)(ii) "any other corporation which such person controls" for "any foreign subsidiary of a foreign corporation controlled by the domestic corporation", in subpar. (D)(iii) "any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation" for"the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation", and in subpar. (E) "each United States person who is a shareholder" for "each citizen or resident of the United States and each domestic corporation who is a shareholder", and struck out provisions throughout the subsection which related to foreign subsidiaries.
 
 Subsec. (a)(2). Pub. L. 87–834 substituted provisions requiring the information to be furnished for the annual accounting period ending with or within the United States person's taxable year for provisions which required such information to be furnished for the annual accounting period ending with or within the domestic corporation's taxable year, and struck out provisions which related to the furnishing of information in the case of foreign subsidiaries.
 
@@ -221,6 +227,10 @@ Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 
 Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -240,7 +250,7 @@ Pub. L. 101–239, title VII, §7712(b), Dec. 19, 1989, 103 Stat. 2394, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1202(c) of Pub. L. 99–514 applicable to distributions by foreign corporations out of, and to inclusions under section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 902 of this title.
+Amendment by section 1202(c) of Pub. L. 99–514 applicable to distributions by foreign corporations out of, and to inclusions under section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 960 of this title.
 
 Amendment by section 1245(b)(5) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1245(c) of Pub. L. 99–514, set out as a note under section 6038A of this title.
 
@@ -259,4 +269,6 @@ Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: "The 
 #### Effective Date
 
 Pub. L. 86–780, §6(c), Sept. 14, 1960, 74 Stat. 1016, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

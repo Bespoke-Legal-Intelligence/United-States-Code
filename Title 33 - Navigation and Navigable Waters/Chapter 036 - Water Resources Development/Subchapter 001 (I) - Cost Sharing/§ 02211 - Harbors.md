@@ -36,7 +36,7 @@
 
 #### (2) Dredged material disposal facilities
 
-&emsp;The Federal share of the cost of constructing land-based and aquatic dredged materialdisposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
 
 #### (c) Erosion or shoaling attributable to Federal navigation works
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on November 17, 1986."
+Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986."
 
 #### Deep Draft Harbor Cost Sharing
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2016-title14",
+ "package": "USCODE-2017-title14",
  "pieces": [
   {
    "id": "14_",
@@ -1024,14 +1024,10 @@
    "id": "14_182",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       108,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 41]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00182 - Cadets; number, appointment, obligation to serve.md",
@@ -1062,10 +1058,14 @@
    "id": "14_185",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 42]",
-     true
+     "I",
+     2,
+     [
+      [
+       136,
+       "[Page 42]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00185 - Cadets; appointment as ensign.md",
@@ -1087,10 +1087,14 @@
    "id": "14_187",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 43]",
-     true
+     "I",
+     16,
+     [
+      [
+       1644,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00187 - Permanent commissioned teaching staff; composition.md",
@@ -1122,10 +1126,10 @@
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       104,
+       105,
        "[Page 44]"
       ]
      ]
@@ -1168,10 +1172,14 @@
    "id": "14_194",
    "marks": [
     [
-     "L",
-     68,
-     "[Page 45]",
-     true
+     "I",
+     50,
+     [
+      [
+       173,
+       "[Page 45]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00194 - Annual Board of Visitors.md",
@@ -1182,26 +1190,30 @@
   },
   {
    "id": "14_195",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       320,
+       "[Page 46]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00195 - Admission of foreign nationals for instruction; restrictions; conditions.md",
    "printed_pages": [
     45,
-    45
+    46
    ]
   },
   {
    "id": "14_196",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 46]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00196 - Participation in Federal, State, or other educational research grants.md",
    "printed_pages": [
-    45,
+    46,
     46
    ]
   },
@@ -1237,19 +1249,23 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       93,
+       86,
        "[Page 47]"
       ]
      ]
     ],
     [
-     "L",
-     102,
-     "[Page 48]",
-     true
+     "I",
+     98,
+     [
+      [
+       84,
+       "[Page 48]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 009 - Coast Guard Academy/§ 00200 - Policy on sexual harassment and sexual violence.md",
@@ -1263,17 +1279,17 @@
    "marks": [
     [
      "I",
-     129,
+     123,
      [
       [
-       59,
+       46,
        "[Page 49]"
       ]
      ]
     ],
     [
      "L",
-     228,
+     222,
      "[Page 50]",
      true
     ]
@@ -1306,14 +1322,10 @@
    "id": "14_211",
    "marks": [
     [
-     "I",
+     "L",
      52,
-     [
-      [
-       164,
-       "[Page 51]"
-      ]
-     ]
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/a. appointments/§ 00211 - Original appointment of permanent commissioned officers.md",
@@ -1335,10 +1347,14 @@
    "id": "14_214",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 52]",
-     true
+     "I",
+     48,
+     [
+      [
+       109,
+       "[Page 52]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/a. appointments/§ 00214 - Appointment of temporary officers.md",
@@ -1405,10 +1421,14 @@
    "id": "14_[240_to_244",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 53]",
-     true
+     "I",
+     8,
+     [
+      [
+       116,
+       "[Page 53]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/a. appointments/§ 00240 to 244 - Repealed. Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.md",
@@ -1493,10 +1513,14 @@
    "id": "14_256",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 54]",
-     true
+     "I",
+     2,
+     [
+      [
+       466,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/b. selection for promotion/§ 00256 - Promotion zones.md",
@@ -1528,10 +1552,10 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       116,
+       103,
        "[Page 55]"
       ]
      ]
@@ -1554,30 +1578,26 @@
   },
   {
    "id": "14_260",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/b. selection for promotion/§ 00260 - Selection boards; reports.md",
    "printed_pages": [
     55,
-    55
+    56
    ]
   },
   {
    "id": "14_261",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       97,
-       "[Page 56]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/b. selection for promotion/§ 00261 - Selection boards; submission of reports.md",
    "printed_pages": [
-    55,
+    56,
     56
    ]
   },
@@ -1595,13 +1615,13 @@
    "marks": [
     [
      "L",
-     36,
+     34,
      "[Page 57]",
      true
     ],
     [
      "L",
-     108,
+     106,
      "[Page 58]",
      true
     ]
@@ -1625,10 +1645,14 @@
    "id": "14_271",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 59]",
-     true
+     "I",
+     58,
+     [
+      [
+       109,
+       "[Page 59]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/c. promotions/§ 00271 - Promotions; appointments.md",
@@ -1668,14 +1692,10 @@
    "id": "14_275",
    "marks": [
     [
-     "I",
+     "L",
      14,
-     [
-      [
-       140,
-       "[Page 60]"
-      ]
-     ]
+     "[Page 60]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/c. promotions/§ 00275 - Wartime temporary service promotions.md",
@@ -1724,14 +1744,10 @@
    "id": "14_282",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       110,
-       "[Page 61]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 61]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00282 - Regular lieutenants (junior grade); separation for failure of selection for promotion.md",
@@ -1754,7 +1770,7 @@
    "marks": [
     [
      "L",
-     10,
+     8,
      "[Page 62]",
      true
     ]
@@ -1778,14 +1794,10 @@
    "id": "14_286",
    "marks": [
     [
-     "I",
+     "L",
      6,
-     [
-      [
-       142,
-       "[Page 63]"
-      ]
-     ]
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00286 - Discharge in lieu of retirement; separation pay.md",
@@ -1798,10 +1810,14 @@
    "id": "14_286a",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 64]",
-     true
+     "I",
+     32,
+     [
+      [
+       109,
+       "[Page 64]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00286a - Regular warrant officers separation pay.md",
@@ -1832,14 +1848,10 @@
    "id": "14_289",
    "marks": [
     [
-     "I",
+     "L",
      6,
-     [
-      [
-       91,
-       "[Page 65]"
-      ]
-     ]
+     "[Page 65]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 011 - Personnel/Officers/d. discharges; retirements; revocation of commissions/§ 00289 - Captains; continuation on active duty; involuntary retirement.md",
@@ -1856,7 +1868,7 @@
      8,
      [
       [
-       190,
+       94,
        "[Page 66]"
       ]
      ]
@@ -5798,6 +5810,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2016-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2017-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

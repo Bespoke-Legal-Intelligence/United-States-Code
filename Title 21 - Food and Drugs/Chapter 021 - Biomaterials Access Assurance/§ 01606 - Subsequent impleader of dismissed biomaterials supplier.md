@@ -2,7 +2,7 @@
 
 #### (a) Impleading of dismissed defendant
 
-A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
+A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against amanufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
 
 &emsp;(1) the manufacturer has made an assertion, either in a motion or other pleading filed with the court or in an opening or closing statement at trial, or as part of a claim for contribution or indemnification, and the court finds based on the court's independent review of the evidence contained in the record of the action, that under applicable law—
 
@@ -29,4 +29,8 @@ Notwithstanding any preliminary finding under subsection (a), a biomaterials sup
 Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title.
 
 (Pub. L. 105–230, §7, Aug. 13, 1998, 112 Stat. 1528.)
+
+#### Effective Date
+
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 

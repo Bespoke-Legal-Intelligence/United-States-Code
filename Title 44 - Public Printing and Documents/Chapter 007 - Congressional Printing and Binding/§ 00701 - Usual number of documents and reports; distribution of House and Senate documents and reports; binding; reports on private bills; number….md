@@ -42,7 +42,7 @@ In general.—Notwithstanding any provision of title 44, United States Code, or 
 
 &emsp;"(2)
 
-Preparation of estimates.—Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, United States Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study).
+Preparation of estimates.—Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, UnitedStates Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study).
 
 &emsp;"(3)
 

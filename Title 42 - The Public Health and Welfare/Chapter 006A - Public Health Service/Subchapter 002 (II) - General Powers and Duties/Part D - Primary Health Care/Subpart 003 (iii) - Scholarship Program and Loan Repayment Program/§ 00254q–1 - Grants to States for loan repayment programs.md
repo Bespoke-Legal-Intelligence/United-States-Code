@@ -108,7 +108,7 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 
 #### (1) In general
 
-&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under whichsuch States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
+&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under which such States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
 
 #### (2) Loans eligible for repayment
 

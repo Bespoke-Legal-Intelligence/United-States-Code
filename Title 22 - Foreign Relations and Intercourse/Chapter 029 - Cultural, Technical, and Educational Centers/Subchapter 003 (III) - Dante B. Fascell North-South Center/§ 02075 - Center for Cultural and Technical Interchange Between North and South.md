@@ -14,7 +14,7 @@ In order to carry out the purpose of this section, the Director of the United St
 
 #### (d) Authorities
 
-The Director of the United States Information Agency, in carrying out this section, may utilize the authorities of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 etseq.\]. Section 2056(b) of this title shall apply in the administration of this section. In order to carry out the purposes of this section, the Dante B. Fascell North-South Center is authorized to use funds made available under this section to acquire property and facilities, by construction, lease, or purchase.
+The Director of the United States Information Agency, in carrying out this section, may utilize the authorities of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\]. Section 2056(b) of this title shall apply in the administration of this section. In order to carry out the purposes of this section, the Dante B. Fascell North-South Center is authorized to use funds made available under this section to acquire property and facilities, by construction, lease, or purchase.
 
 #### (e) Authorization of appropriations
 

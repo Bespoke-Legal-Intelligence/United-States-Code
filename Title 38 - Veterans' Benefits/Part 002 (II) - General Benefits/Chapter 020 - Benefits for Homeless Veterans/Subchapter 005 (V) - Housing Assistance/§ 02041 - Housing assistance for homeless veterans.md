@@ -1,6 +1,6 @@
 ### §2041. Housing assistance for homeless veterans
 
-(a)(1) To assist homeless veterans and their families in acquiring shelter, the Secretary may enter into agreements described in paragraph (2) with—
+(a)(1) To assist homeless veterans and their families in acquiring shelter, the Secretary mayenter into agreements described in paragraph (2) with—
 
 &emsp;(A) nonprofit organizations, with preference being given to any organization named in, or approved by the Secretary under, section 5902 of this title; or
 
@@ -46,7 +46,7 @@
 
 (c) The Secretary may not enter into agreements under subsection (a) after September 30, 2017.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83,§5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, §10(e), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §205, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, §10, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, §205, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §303, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §304, Sept. 29, 2016, 130 Stat. 939.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, §10(e), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §205, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, §10, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, §205, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §303, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §304, Sept. 29, 2016, 130 Stat. 939.)
 
 #### Amendments
 

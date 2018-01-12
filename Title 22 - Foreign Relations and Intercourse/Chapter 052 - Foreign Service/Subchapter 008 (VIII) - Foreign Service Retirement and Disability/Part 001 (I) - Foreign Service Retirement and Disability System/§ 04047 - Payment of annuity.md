@@ -28,7 +28,7 @@ An individual entitled to annuity from the Fund may decline to accept all or any
 
 #### (d) Recovery of overpayment
 
-Recovery of overpayments under this part may not be made from an individual when, in the judgment of the Secretary of State, the individual is without fault and recovery would beagainst equity and good conscience or administratively infeasible.
+Recovery of overpayments under this part may not be made from an individual when, in the judgment of the Secretary of State, the individual is without fault and recovery would be against equity and good conscience or administratively infeasible.
 
 #### (e) Alternate forms of annuities
 

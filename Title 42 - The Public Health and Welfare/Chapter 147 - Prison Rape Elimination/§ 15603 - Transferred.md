@@ -1,0 +1,6 @@
+### §15603. Transferred
+
+#### Codification
+
+Section 15603 was editorially reclassified as section 30303 of Title 34, Crime Control and Law Enforcement.
+

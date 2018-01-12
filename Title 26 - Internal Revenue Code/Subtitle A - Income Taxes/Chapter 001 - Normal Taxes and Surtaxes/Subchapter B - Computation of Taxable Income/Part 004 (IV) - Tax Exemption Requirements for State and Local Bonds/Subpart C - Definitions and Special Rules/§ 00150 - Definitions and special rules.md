@@ -174,7 +174,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;&emsp;(II) the fair market value of all assets transferred in exchange for such stock and reduced by the amount of all liabilities of the corporation which has made an election under this paragraph assumed by the transferee corporation in such transfer;
 
-&emsp;&emsp;&emsp;(iii) the holder of which has the right to require the transferee corporation to redeem on a date that is not later than 10 years after the date on which an electionunder this paragraph was made and pursuant to such election such stock was issued; and
+&emsp;&emsp;&emsp;(iii) the holder of which has the right to require the transferee corporation to redeem on a date that is not later than 10 years after the date on which an election under this paragraph was made and pursuant to such election such stock was issued; and
 
 &emsp;&emsp;&emsp;(iv) in respect of which, during the time such stock is outstanding, there is not outstanding any equity interest in the corporation having any liquidation, redemption or dividend rights in the corporation which are superior to those of such stock.
 

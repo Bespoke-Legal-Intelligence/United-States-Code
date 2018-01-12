@@ -6,7 +6,7 @@
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
-(4) Payment of benefits under this chapter may be made after a participant has completed his or her first obligated period of active duty (which began after December 31, 1976), or 6 years of active duty (which began after December 31, 1976), whichever period is less.
+(4) Payment of benefits under this chapter may be made after a participant has completedhis or her first obligated period of active duty (which began after December 31, 1976), or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
 (5)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph—
 
@@ -18,7 +18,7 @@
 
 &emsp;(i) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 
-&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuitas a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
+&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
@@ -46,11 +46,11 @@
 
 (2) No payment may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
-(3) The entitlement of an eligible veteran pursuing a program of education described in paragraph (1) of this subsection shall be charged at the rate of one month for each amount of educational assistance paid which is equal to the monthly benefit otherwise payable to such veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
+(3) The entitlement of an eligible veteran pursuing a program of education described in paragraph (1) of this subsection shall be charged at the rate of one month for each amount of educational assistance paid which is equal to themonthly benefit otherwise payable to such veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat.3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979; Pub. L. 109–461, title X, §1002(c), Dec. 22, 2006, 120 Stat. 3465.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979; Pub. L. 109–461, title X, §1002(c), Dec. 22, 2006, 120 Stat. 3465.)
 
 #### Amendments
 
@@ -134,9 +134,13 @@ Pub. L. 97–35, title XX, §2006, Aug. 13, 1981, 95 Stat. 783, provided that:
 
 "(a) Except as provided in subsection (b), the amendments made by sections 2003 \[amending this section and sections 1641, 1662, 1673, 1681, 1682, and 1780 \[now 3241, 3462, 3473, 3481, 3482, and 3680\] of this title and repealing section 1677 of this title\] and 2005 \[amending this section and sections 1686 \[repealed\], 1737 \[repealed\], and 1798 \[now 3698\] of this title\] shall take effect on October 1, 1981.
 
-"(b) The amendments made by such sections shall not apply to any person receiving educational assistance under section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981, for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
+"(b) The amendments made by such sections shall not apply to any person receiving educational assistanceunder section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981, for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of Pub. L. 96–466, set out as a note under section 3224 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under section 3201 of this title.
 

@@ -44,7 +44,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(E) the new animal drug is safe with respect to individuals exposed to the new animal drug through its manufacture or use.
 
-> If the Secretary denies the request, the Secretary shall thereafter provide due notice and an opportunity for an informal conference. A decision of the Secretary to deny an eligibility request following an informal conference shall constitute final agency action subject to judicial review.
+> If the Secretary denies the request, the Secretary shall thereafter provide due notice and an opportunity for an informal conference. A decision of the Secretary to deny an eligibility request following an informal conference shallconstitute final agency action subject to judicial review.
 
 #### (d) Request for addition to index
 
@@ -128,7 +128,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 > the Secretary shall remove the new animal drug from the index. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
 
-(2) If the Secretary finds that there is a reasonable probability that the use of the drug would present a risk to the health of humans or other animals, the Secretary may—
+(2) If the Secretary finds that there is a reasonable probability that the use of the drugwould present a risk to the health of humans or other animals, the Secretary may—
 
 &emsp;(A) suspend the listing of such drug immediately;
 
@@ -180,13 +180,13 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 #### (k) Date of determination in the case of recommended controls under the CSA
 
-In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientificand medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(3)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

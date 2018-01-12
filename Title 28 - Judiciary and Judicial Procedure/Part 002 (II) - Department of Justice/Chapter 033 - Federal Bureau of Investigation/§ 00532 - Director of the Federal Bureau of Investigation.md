@@ -40,7 +40,7 @@ Improvement of Intelligence Capabilities.—The Director of the Federal Bureau o
 
 National Intelligence Workforce.—(1) In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation of an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
 
-"(2) Each agent employed by the Bureau after the date of the enactment of this Act \[Dec. 17, 2004\] shallreceive basic training in both criminal justice matters and national intelligence matters.
+"(2) Each agent employed by the Bureau after the date of the enactment of this Act \[Dec. 17, 2004\] shall receive basic training in both criminal justice matters and national intelligence matters.
 
 "(3) Each agent employed by the Bureau after the date of the enactment of this Act shall, to the maximum extent practicable, be given the opportunity to undergo, during such agent's early service with the Bureau, meaningful assignments in criminal justice matters and in national intelligence matters.
 
@@ -50,7 +50,7 @@ National Intelligence Workforce.—(1) In developing and maintaining a national 
 
 &emsp;"(B) in furtherance of the requirement under subparagraph (A) and to the maximum extent practicable, afford agents, analysts, and related personnel of the Bureau the opportunity to work in the career specialty selected by such agents, analysts, and related personnel over their entire career with the Bureau.
 
-"(5) The Director shall carry out a program to enhance the capacity of the Bureau to recruit and retain individuals with backgrounds in intelligence, international relations, language, technology, and other skills relevant to the intelligence mission of the Bureau.
+"(5) The Director shall carry out a program to enhance the capacity of the Bureau to recruit and retain individuals with backgrounds in intelligence, international relations, language, technology, and otherskills relevant to the intelligence mission of the Bureau.
 
 "(6) The Director shall, to the maximum extent practicable, afford the analysts of the Bureau training and career opportunities commensurate with the training and career opportunities afforded analysts in other elements of the intelligence community.
 

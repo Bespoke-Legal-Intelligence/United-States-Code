@@ -6,7 +6,7 @@ The Congress finds as follows:
 
 &emsp;(2) Such export expansion, along with an increase in trade generally, has helped fuel the longest economic expansion in United States history.
 
-&emsp;(3) The United States Government must continue to be vigilant in monitoring and enforcing the compliance by our trading partners with trade agreements in order for United States businesses, workers, and farmers tocontinue to benefit from the opportunities created by market-opening trade agreements.
+&emsp;(3) The United States Government must continue to be vigilant in monitoring and enforcing the compliance by our trading partners with trade agreements in order for United States businesses, workers, and farmers to continue to benefit from the opportunities created by market-opening trade agreements.
 
 &emsp;(4) The People's Republic of China, as part of its accession to the World Trade Organization, has committed to eliminating significant trade barriers in the agricultural, services, and manufacturing sectors that, if realized, would provide considerable opportunities for United States farmers, businesses, and workers.
 

@@ -12,7 +12,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (1) In general
 
-&emsp;A State shall provide a designated provider, a team of health care professionals operating with such a provider, or a health team with payments for the provision of health home services to each eligible individual with chronic conditions that selects such provider, team of health care professionals, or health team as the individual's health home. Payments made to a designated provider, a team of health care professionals operating with such a provider, or a health team for such services shall be treated as medical assistance for purposes of section 1396b(a) of this title, except that, during the first 8 fiscal year quarters that the State plan amendment is in effect, the Federal medical assistance percentage applicable to such payments shall be equal to 90 percent.
+&emsp;A State shall provide a designated provider, a team of health care professionals operating with such a provider, or a health team with payments for the provision of health home services to each eligible individual with chronic conditions that selects such provider, team of health care professionals, or health team asthe individual's health home. Payments made to a designated provider, a team of health care professionals operating with such a provider, or a health team for such services shall be treated as medical assistance for purposes of section 1396b(a) of this title, except that, during the first 8 fiscal year quarters that the State plan amendment is in effect, the Federal medical assistance percentage applicable to such payments shall be equal to 90 percent.
 
 #### (2) Methodology
 
@@ -48,7 +48,7 @@ A State shall include in the State plan amendment a requirement for hospitals th
 
 #### (e) Coordination
 
-A State shall consult and coordinate, as appropriate, with the Substance Abuse and MentalHealth Services Administration in addressing issues regarding the prevention and treatment of mental illness and substance abuse among eligible individuals with chronic conditions.
+A State shall consult and coordinate, as appropriate, with the Substance Abuse and Mental Health Services Administration in addressing issues regarding the prevention and treatment of mental illness and substance abuse among eligible individuals with chronic conditions.
 
 #### (f) Monitoring
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (3) Health home
 
-&emsp;The term "health home" means a designated provider (including a provider that operates in coordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
+&emsp;The term "health home" means a designated provider (including a provider that operates incoordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
 
 #### (4) Health home services
 

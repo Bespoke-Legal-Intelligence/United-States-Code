@@ -40,7 +40,7 @@
 
 &emsp;For purposes of this subsection, the term "modified adjusted gross income" means adjusted gross income—
 
-&emsp;&emsp;(A) determined without regard to this section and sections 135, 137, 199, 221, 222, 911, 931, and 933, and
+&emsp;&emsp;(A) determined without regard to this section and sections 135, 137, 221, 222, 911, 931, and 933, and
 
 &emsp;&emsp;(B) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (1), the term "tier 1 railroad retirement benefit" means—
 
-&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is beingpaid) had been included in the term "employment" as defined in the Social Security Act, and
+&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term "employment" as defined in the Social Security Act, and
 
 &emsp;&emsp;(B) a monthly annuity amount under section 3(f)(3) of the Railroad Retirement Act of 1974.
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (B) Election
 
-&emsp;&emsp;An election under this subsection shall be made at such time and in such manner as the Secretary shall by regulations prescribe. Such election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;An election under this subsection shall be made at such time and in such manner as the Secretary shall by regulations prescribe.Such election, once made, may be revoked only with the consent of the Secretary.
 
 #### (f) Treatment as pension or annuity for certain purposes
 
@@ -144,7 +144,7 @@ For purposes of—
 
 > any social security benefit shall be treated as an amount received as a pension or annuity.
 
-(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
+(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126.)
 
 #### References in Text
 
@@ -157,6 +157,8 @@ The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act 
 A prior section 86 was renumbered section 87 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(A). Pub. L. 115–97 struck out "199," before "221".
 
 <b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–357 inserted "199," before "221".
 
@@ -208,6 +210,10 @@ Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(o)(1), redesignated pars. (1) to 
 
 Subsec. (d)(4). Pub. L. 98–76 inserted "3(f)(3)," after "3(a),".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
@@ -218,7 +224,7 @@ Amendment by Pub. L. 107–16 applicable to payments made in taxable years begin
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4003(l), Oct. 21, 1998, 112 Stat. 2681–910, provided that: "The amendments made by this section \[amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001, 6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title\] shall take effect as if included in the provisions of the 1997 Act \[Pub. L. 105–34\] to which they relate."
+Pub. L. 105–277, div. J, title IV, §4003(l), Oct. 21, 1998, 112 Stat. 2681–910, provided that: "The amendments made by this section \[amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001,6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title\] shall take effect as if included in the provisions of the 1997 Act \[Pub. L. 105–34\] to which they relate."
 
 #### Effective Date of 1996 Amendment
 
@@ -274,5 +280,5 @@ Treatment of certain lump-sum payments received after december 31, 1983.—The a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

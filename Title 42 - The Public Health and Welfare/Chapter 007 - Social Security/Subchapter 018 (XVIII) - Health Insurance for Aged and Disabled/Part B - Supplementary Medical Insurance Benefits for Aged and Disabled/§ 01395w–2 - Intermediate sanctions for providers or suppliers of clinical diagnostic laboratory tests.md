@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 100–360, §411(g)(3)(G)(vii), substituted "any penalti
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5)of Pub. L. 101–508, set out as a note under section 1395l of this title.
+Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
 #### Effective Date of 1989 Amendment
 

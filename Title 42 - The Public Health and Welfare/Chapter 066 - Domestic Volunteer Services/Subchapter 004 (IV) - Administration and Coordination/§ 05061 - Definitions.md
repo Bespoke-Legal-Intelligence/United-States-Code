@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for National and Community Service appointed under section 12651c of this title;
+&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for Nationaland Community Service appointed under section 12651c of this title;
 
 &emsp;(2) the terms "United States" and "States" mean the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, and <sup>1</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, and, for the purposes of subchapter II of this chapter, the Trust Territory of the Pacific Islands;
 
@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 &emsp;(19) the term "VISTA volunteer" means a volunteer in VISTA; and
 
-&emsp;(20) the term "authorizing committees" means the Committee on Education and Laborof the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+&emsp;(20) the term "authorizing committees" means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 (Pub. L. 93–113, title IV, §421, Oct. 1, 1973, 87 Stat. 414; Pub. L. 99–551, §§6(b), 10(h), Oct. 27, 1986, 100 Stat. 3074, 3078; Pub. L. 101–204, title IV, §403, title V, §502(b), Dec. 7, 1989, 103 Stat. 1815, 1817; Pub. L. 103–82, title IV, §§401, 404, 405(a)(10), Sept. 21, 1993, 107 Stat. 917, 920, 921; Pub. L. 105–220, title IV, §414(e), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 108–36, title III, §306, June 25, 2003, 117 Stat. 825; Pub. L. 111–13, title II, §2154, Apr. 21, 2009, 123 Stat. 1591.)
 

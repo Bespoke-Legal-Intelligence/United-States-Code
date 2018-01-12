@@ -20,7 +20,7 @@ In this section, the term "Administrator" means the Administrator of General Ser
 
 &emsp;&emsp;(C) establish methods to track the success of Federal departments and agencies with respect to that goal; and
 
-&emsp;&emsp;(D) be fully coordinated with and no less stringent nor less energy-conserving or water-conserving than required by other provisions of this Act and other applicable law, including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections.
+&emsp;&emsp;(D) be fully coordinated with and no less stringent nor less energy-conserving or water-conserving than required by other provisions of this Act and other applicable law,including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections.
 
 #### (c) Accelerated use of technologies
 
@@ -130,7 +130,11 @@ Section 432, referred to in subsec. (d)(1), is section 432 of Pub. L. 110–140,
 
 Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140, December 19, 2007, 121 Stat. 1663, which amended section 8259b of this title and enacted provisions set out as a note under section 8259b of this title.
 
-This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions setout as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (3) Actions under contractual agreements between issuers and indenture trustees
 
-&emsp;Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
+&emsp;Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and anindenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
 
 #### (4) Remand of removed actions
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated,or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 #### (3) Covered security
 

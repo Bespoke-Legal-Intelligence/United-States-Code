@@ -36,7 +36,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

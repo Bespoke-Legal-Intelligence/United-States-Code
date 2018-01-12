@@ -30,7 +30,7 @@
 
 (4) Any unobligated and unexpended balances in the fund which the Office determines to be in excess of amounts needed for activities financed by the fund shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(5)(A) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+(5)(A) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and suchbudget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
 
 (B) Such budget shall include an estimate from the Inspector General of the Office of the amount required to pay the expenses to audit, investigate, and provide other oversight activities with respect to the fund and the activities financed by the fund.
 
@@ -114,7 +114,7 @@ Subsec. (e)(5). Pub. L. 113–80, §2(2), designated existing provisions as subp
 
 <b>1978</b>—Subsecs. (a) to (f). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
-<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) "of $4,000,000" after "revolving fund" and inserted in par. (2)(A) ", which appropriations are hereby authorized".
+<b>1971</b>—Subsec. (e). Pub. L. 91–648 struck out in par. (1) "of $4,000,000" after "revolving fund" and inserted inpar. (2)(A) ", which appropriations are hereby authorized".
 
 <b>1969</b>—Subsec. (e). Pub. L. 91–189, §1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 

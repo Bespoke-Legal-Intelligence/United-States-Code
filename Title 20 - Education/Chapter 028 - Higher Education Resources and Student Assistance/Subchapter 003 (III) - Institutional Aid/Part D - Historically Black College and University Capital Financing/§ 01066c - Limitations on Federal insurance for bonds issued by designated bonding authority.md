@@ -20,7 +20,7 @@ No loan may be made under this part for any educational program, activity or ser
 
 #### (d) Discrimination prohibition
 
-No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), or disabling condition; except that the prohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
+No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), or disabling condition; except that theprohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
 
 (Pub. L. 89–329, title III, §344, formerly title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; renumbered title III, §344, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636; Pub. L. 110–315, title III, §314(c), Aug. 14, 2008, 122 Stat. 3181.)
 

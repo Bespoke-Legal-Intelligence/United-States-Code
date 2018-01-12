@@ -250,7 +250,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(6) the trafficking in the relatively more common, commercially available, and usable nuclear and byproduct materials creates the potential for significant loss of life and environmental damage;
 
-&emsp;"(7) report trafficking incidents in the early 1990's suggest that the individuals involved in trafficking inthese materials from Eurasia and Eastern Europe frequently conducted their black market sales of these materials within the Federal Republic of Germany, the Baltic States, the former Soviet Union, Central Europe, and to a lesser extent in the Middle European countries;
+&emsp;"(7) report trafficking incidents in the early 1990's suggest that the individuals involved in trafficking in these materials from Eurasia and Eastern Europe frequently conducted their black market sales of these materials within the Federal Republic of Germany, the Baltic States, the former Soviet Union, Central Europe, and to a lesser extent in the Middle European countries;
 
 &emsp;"(8) the international community has become increasingly concerned over the illegal possession of nuclear and nuclear byproduct materials;
 

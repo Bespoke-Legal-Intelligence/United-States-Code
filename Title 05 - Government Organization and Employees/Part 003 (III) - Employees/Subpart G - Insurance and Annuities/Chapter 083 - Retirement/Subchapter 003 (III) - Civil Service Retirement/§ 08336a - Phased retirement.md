@@ -94,7 +94,7 @@
 
 &emsp;(B) the product obtained by multiplying—
 
-&emsp;&emsp;(i) the amount of an annuity computed under section 8339 that would have been payable at the time of full retirement if the individual had not elected a phased retirement and as if the individual was employed on a full-time basis in the position occupied during the phased retirement period and before any reduction for survivor annuity or reduction based on an election under section 8334(d)(2); by
+&emsp;&emsp;(i) the amount of an annuity computed under section 8339 that would have been payable at the time of full retirement if the individual had not elected a phased retirement and as if the individual was employed on a full-time basis in the position occupied during the phased retirement period and beforeany reduction for survivor annuity or reduction based on an election under section 8334(d)(2); by
 
 &emsp;&emsp;(ii) the working percentage.
 

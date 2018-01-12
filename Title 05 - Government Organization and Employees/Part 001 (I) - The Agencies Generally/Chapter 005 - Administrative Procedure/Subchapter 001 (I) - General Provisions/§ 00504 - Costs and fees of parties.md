@@ -16,7 +16,7 @@
 
 &emsp;(C) "adversary adjudication" means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 7103 of title 41 before an agency board of contract appeals as provided in section 7105 of title 41, (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
-&emsp;(D) "adjudicative officer" means the deciding official, without regard to whether the official is designated as an administrative law judge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
+&emsp;(D) "adjudicative officer" means the deciding official, without regard to whether the official is designated as an administrative lawjudge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
 
 &emsp;(E) "position of the agency" means, in addition to the position taken by the agency in the adversary adjudication, the action or failure to act by the agency upon which the adversary adjudication is based; except that fees and other expenses may not be awarded to a party for any portion of the adversary adjudication in which the party has unreasonably protracted the proceedings; and
 
@@ -78,7 +78,7 @@ Subsec. (c)(2). Pub. L. 99–80, §1(d), amended par. (2) generally. Prior to am
 
 Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-"(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency,by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
+"(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
 
 "(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years."
 
@@ -132,7 +132,7 @@ For termination of Administrative Conference of United States, see provision of 
 
 #### Prohibition on Use of Energy and Water Development Appropriations To Pay Intervening Parties in Regulatory or Adjudicatory Proceedings
 
-Pub. L. 102–377, title V, §502, Oct. 2, 1992, 106 Stat. 1342, provided that: "None of the funds in this Act or subsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts."
+Pub. L. 102–377, title V, §502, Oct. 2, 1992, 106 Stat. 1342, provided that: "None of the funds in this Act orsubsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts."
 
 #### Revival of Previously Repealed Provisions
 

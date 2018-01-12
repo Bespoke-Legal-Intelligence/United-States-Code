@@ -4,7 +4,7 @@
 
 #### (1) Timing
 
-&emsp;Not later than 6 months after receipt of the information from the Secretary under section4106 of this title an owner seeking to terminate the low-income affordability restrictions through prepayment of the mortgage or voluntary termination under section 4108 of this title, or to extend the low-income affordability restriction on the housing under section 4109 of this title, shall submit a plan of action to the Secretary in such form and manner as the Secretary shall prescribe. Any owner or purchaser seeking a transfer of the housing under section 4110 or 4111 of this title shall submit a plan of action under this section to the Secretary upon acceptance of a bona fide offer under section 4110(b) or (c) of this title or upon making of any bona fide offer under section 4111 of this title.
+&emsp;Not later than 6 months after receipt of the information from the Secretary under section 4106 of this title an owner seeking to terminate the low-income affordability restrictions through prepayment of the mortgage or voluntary termination under section 4108 of this title, or to extend the low-income affordability restriction on the housing under section 4109 of this title, shall submit a plan of action to the Secretary in such form and manner as the Secretary shall prescribe. Any owner or purchaser seeking a transfer of the housing under section 4110 or 4111 of this title shall submit a plan of action under this section to the Secretary upon acceptance of a bona fide offer under section 4110(b) or (c) of this title or upon making of any bona fide offer under section 4111 of this title.
 
 #### (2) Copies to tenants
 

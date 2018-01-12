@@ -32,5 +32,5 @@ Subsecs. (a)(2) to (4), (7) and (c)(2), (6), (7) of this section ceased to be ef
 
 #### Executive Order No. 11191
 
-Ex. Ord. No. 11191, Jan. 4, 1965, 30 F.R. 29, as amended by Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, which related to the administration of the Communications Satellite Act of 1962 \[this chapter\], was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of this title.
+Ex. Ord. No. 11191, Jan. 4, 1965, 30 F.R. 29, as amended by Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, whichrelated to the administration of the Communications Satellite Act of 1962 \[this chapter\], was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of this title.
 

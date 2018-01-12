@@ -18,7 +18,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Secret
 
 &emsp;(7) increase the reliability and survivability of marine and hydrokinetic renewable energy technologies, including development of corrosive-resistant materials;
 
-&emsp;(8) identify, in conjunction with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, and other Federal agencies as appropriate, the potential environmental impacts,including potential impacts on fisheries and other marine resources, of marine and hydrokinetic renewable energy technologies, measures to prevent adverse impacts, and technologies and other means available for monitoring and determining environmental impacts;
+&emsp;(8) identify, in conjunction with the Secretary of Commerce, acting through the UnderSecretary of Commerce for Oceans and Atmosphere, and other Federal agencies as appropriate, the potential environmental impacts, including potential impacts on fisheries and other marine resources, of marine and hydrokinetic renewable energy technologies, measures to prevent adverse impacts, and technologies and other means available for monitoring and determining environmental impacts;
 
 &emsp;(9) identify, in conjunction with the Secretary of the Department in which the United States Coast Guard is operating, acting through the Commandant of the United States Coast Guard, the potential navigational impacts of marine and hydrokinetic renewable energy technologies and measures to prevent adverse impacts on navigation;
 
@@ -45,6 +45,10 @@ Not later than 18 months after December 19, 2007, the Secretary, in conjunction 
 &emsp;(4) the necessary components of such an adaptive management program.
 
 (Pub. L. 110–140, title VI, §633, Dec. 19, 2007, 121 Stat. 1686.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "identify".</i>
 

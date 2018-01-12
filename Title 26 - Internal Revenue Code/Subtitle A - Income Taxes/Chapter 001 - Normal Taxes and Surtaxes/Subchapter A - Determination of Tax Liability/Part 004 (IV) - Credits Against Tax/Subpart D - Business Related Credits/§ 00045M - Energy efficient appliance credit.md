@@ -74,7 +74,7 @@ The eligible production in a calendar year with respect to each type of energy e
 
 &emsp;(1) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
 
-&emsp;(2) the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 2-calendar year period.
+&emsp;(2) the average number of appliances of such type which were produced by the taxpayer (orany predecessor) in the United States during the preceding 2-calendar year period.
 
 #### (d) Types of energy efficient appliance
 

@@ -20,7 +20,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) enactment of relevant sections of the Export Administration Act of 1979 (50 U.S.C. 4601 et seq.) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), including sections to ensure foreign persons comply with applicable reporting requirements relating to the Boycott;
 
-&emsp;&emsp;(C) enactment of the Tax Reform Act of 1976 (Public Law 94–455; 90 Stat. 1520) that denies certain tax benefits to entities abiding by the Boycott;
+&emsp;&emsp;(C) enactment of the Tax Reform Act of 1976 (Public Law 94–455; 90 Stat. 1520) thatdenies certain tax benefits to entities abiding by the Boycott;
 
 &emsp;&emsp;(D) ensuring through free trade agreements with Bahrain and Oman that such countries no longer participate in the Boycott; and
 

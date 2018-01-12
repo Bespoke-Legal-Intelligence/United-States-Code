@@ -10,3 +10,7 @@ A prior section 3172, Pub. L. 89–136, title IV, §404, as added Pub. L. 93–4
 
 A prior section 402 of Pub. L. 89–136 was classified to section 3162 of this title prior to repeal by Pub. L. 105–393, §102(a).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

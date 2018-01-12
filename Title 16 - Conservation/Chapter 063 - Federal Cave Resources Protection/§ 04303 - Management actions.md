@@ -10,7 +10,7 @@ The Secretary shall take such actions as may be necessary to further the purpose
 
 &emsp;(1) identification of significant caves on Federal lands:
 
-&emsp;&emsp;(A) The Secretary shall prepare an initial list of significant caves for lands under his jurisdiction not later than one year after the publication of final regulations using the significance criteria defined in such regulations. Such a list shall be developed after consultation with appropriate private sector interests, including cavers.
+&emsp;&emsp;(A) The Secretary shall prepare an initial list of significant caves for lands under his jurisdiction not later than one year after thepublication of final regulations using the significance criteria defined in such regulations. Such a list shall be developed after consultation with appropriate private sector interests, including cavers.
 
 &emsp;&emsp;(B) The initial list of significant caves shall be updated periodically, after consultation with appropriate private sector interests, including cavers. The Secretary shall prescribe by policy or regulation the requirements and process by which the initial list will be updated, including management measures to assure that caves under consideration for the list are protected during the period of consideration. Each cave recommended to the Secretary by interested groups for possible inclusion on the list of significant caves shall be considered by the Secretary according to the requirements prescribed pursuant to this paragraph, and shall be added to the list if the Secretary determines that the cave meets the criteria for significance as defined by the regulations.
 
@@ -24,7 +24,7 @@ The Secretary shall take such actions as may be necessary to further the purpose
 
 The Secretary shall—
 
-&emsp;(1) ensure that significant caves are considered in the preparation or implementation ofany land management plan if the preparation or revision of the plan began after November 18, 1988; and
+&emsp;(1) ensure that significant caves are considered in the preparation or implementation of any land management plan if the preparation or revision of the plan began after November 18, 1988; and
 
 &emsp;(2) foster communication, cooperation, and exchange of information between land managers, those who utilize caves, and the public.
 

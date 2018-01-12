@@ -58,7 +58,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under thispart notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under this part notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -100,7 +100,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;(B) For purposes of subparagraph (A), the term "agency or instrumentality of the Government of Cuba" means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to "a foreign state" deemed to be a reference to "Cuba".
 
-(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
+(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I,§106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

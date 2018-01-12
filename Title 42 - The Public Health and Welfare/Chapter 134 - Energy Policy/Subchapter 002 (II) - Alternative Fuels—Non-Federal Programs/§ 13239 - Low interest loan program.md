@@ -26,7 +26,7 @@ In deciding to whom loans shall be made under this subsection, the Secretary sha
 
 #### (d) Priorities
 
-Priority shall be given under this section to fleets where the use of alternative fuels would have a significant beneficial effect on energy security and the environment.
+Priority shall be given under this section to fleets where the use of alternative fuels wouldhave a significant beneficial effect on energy security and the environment.
 
 #### (e) Authorization of appropriations
 

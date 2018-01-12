@@ -14,7 +14,7 @@ Special Rules.—The removal of an action under this section shall be made in ac
 
 (c)
 
-Clarification of Jurisdiction in Certain Cases.—The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in the civil action because the State court from which the civil action is removed did not have jurisdiction over that claim.
+Clarification of Jurisdiction in Certain Cases.—The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in the civilaction because the State court from which the civil action is removed did not have jurisdiction over that claim.
 
 (d)
 

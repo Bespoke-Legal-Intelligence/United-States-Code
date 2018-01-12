@@ -390,7 +390,7 @@ Definitions.—In this section, the terms 'small business concern', 'socially an
 
 "(f)
 
-Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to develop its stations, terminals, or other assets, to constrain Amtrak's ability to enter into and carry out agreementswith other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act."
+Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to develop its stations, terminals, or other assets, to constrain Amtrak's ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act."
 
 #### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
 
@@ -450,7 +450,7 @@ Definitions.—
 
 Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: "Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code."
 
-Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code."
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b)and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code."
 
 #### Rail and Motor Carrier Passenger Service
 

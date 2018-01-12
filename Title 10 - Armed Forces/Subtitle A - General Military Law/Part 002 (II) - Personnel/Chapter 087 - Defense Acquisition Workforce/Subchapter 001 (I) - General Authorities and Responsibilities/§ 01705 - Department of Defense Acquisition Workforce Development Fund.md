@@ -34,7 +34,7 @@ Credits to the fund.—(A) There shall be credited to the Fund an amount equal t
 
 &emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in such fiscal year.
 
-&emsp;(D) The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000.
+&emsp;(D) The Secretary of Defense may adjust the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater or less than reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not adjust the amount for a fiscal year to an amount that is more than $600,000,000 or less than $400,000,000.
 
 &emsp;(3)
 
@@ -42,7 +42,7 @@ Transfer of certain unobligated balances.—To the extent provided in appropriat
 
 &emsp;(4)
 
-Additional requirements and limitations on remittances.—(A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
+Additional requirements and limitations on remittances.—(A) In the eventamounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
 
 &emsp;(B) Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
 
@@ -52,7 +52,9 @@ Availability of Funds.—
 
 &emsp;(1)
 
-In general.—Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
+In general.—(A) Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (g)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
+
+&emsp;(B) Amounts in the Fund also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund.
 
 &emsp;(2)
 
@@ -72,9 +74,11 @@ Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 
 &emsp;&emsp;(B) describing the manner and timing for applications for amounts in the Fund to be submitted;
 
-&emsp;&emsp;(C) describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year; and
+&emsp;&emsp;(C) describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year;
 
-&emsp;&emsp;(D) describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section.
+&emsp;&emsp;(D) describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section; and
+
+&emsp;&emsp;(E) describing the amount from the Fund that may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund and the circumstances under which such amounts may be used for such purpose.
 
 &emsp;(4)
 
@@ -96,17 +100,13 @@ Duration of availability.—Amounts credited to the Fund in accordance with subs
 
 (f)
 
-Annual Report.—Not later than February 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during the preceding fiscal year.
-
-(g)
-
 Expedited Hiring Authority.—For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
 &emsp;(1) designate any category of positions in the acquisition workforce as positions for which there exists a shortage of candidates or there is a critical hiring need; and
 
 &emsp;(2) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
 
-(h)
+(g)
 
 Acquisition Workforce Defined.—In this section, the term "acquisition workforce" means the following:
 
@@ -114,17 +114,35 @@ Acquisition Workforce Defined.—In this section, the term "acquisition workforc
 
 &emsp;(2) Other military personnel or civilian employees of the Department of Defense who—
 
-&emsp;&emsp;(A) contribute significantly to the acquisition process by virtue of their assigned duties; and
+&emsp;&emsp;(A)(i) contribute significantly to the acquisition process by virtue of their assigned duties; or
+
+&emsp;&emsp;(ii) contribute significantly to the acquisition or development of systems relating to cybersecurity; and
 
 &emsp;&emsp;(B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913; Pub. L. 114–328, div. A, title VIII, §863(a), (b), title X, §1081(a)(5), Dec. 23, 2016, 130 Stat. 2302, 2303, 2417.)
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913; Pub. L. 114–328, div. A, title VIII, §863(a), (b), title X, §1081(a)(5), Dec. 23, 2016, 130 Stat. 2302, 2303, 2417; Pub. L. 115–91, div. A, title VIII, §§842, 843(a)(1), title X, §1051(a)(7), title XVI, §1636, Dec. 12, 2017, 131 Stat. 1479, 1480, 1560, 1741.)
 
 #### Prior Provisions
 
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(2)(D). Pub. L. 115–91, §842, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000."
+
+Subsec. (e)(1). Pub. L. 115–91, §843(a)(1)(A), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(1)(A). Pub. L. 115–91, §1051(a)(7)(A), substituted "subsection (g)(2)" for "subsection (h)(2)".
+
+Subsec. (e)(3)(E). Pub. L. 115–91, §843(a)(1)(B), added subpar. (E).
+
+Subsec. (f). Pub. L. 115–91, §1051(a)(7)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Not later than February 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during the preceding fiscal year."
+
+Subsec. (g). Pub. L. 115–91, §1051(a)(7)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(2)(A). Pub. L. 115–91, §1636, which directed amendment of subsec. (h)(2)(A) by inserting "(i)" after "(A)", substituting "; or" for "; and", and adding cl. (ii), was executed by making the amendment in subsec. (g)(2)(A) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (g), see below.
+
+Subsec. (h). Pub. L. 115–91, §1051(a)(7)(C), redesignated subsec. (h) as (g).
 
 <b>2016</b>—Subsec. (d)(2)(C). Pub. L. 114–328, §863(b)(1), substituted "in such" for "in each".
 
@@ -221,6 +239,10 @@ Technical amendments.—The amendments made by subsections (f) and (g) \[amendin
 #### Effective Date
 
 Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, provided that: "Section 1705 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\]."
+
+#### Guidance
+
+Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall issue, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1)."
 
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 

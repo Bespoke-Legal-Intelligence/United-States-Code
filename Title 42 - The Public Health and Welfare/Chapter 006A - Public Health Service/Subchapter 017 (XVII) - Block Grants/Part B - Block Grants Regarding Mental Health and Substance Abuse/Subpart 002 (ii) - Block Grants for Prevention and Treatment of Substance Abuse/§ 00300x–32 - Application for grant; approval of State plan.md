@@ -32,7 +32,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 &emsp;&emsp;&emsp;(ii) provides information on the need for substance use disorder prevention and treatment services in the State, including estimates on the number of individuals who need treatment, who are pregnant women, women with dependent children, individuals with a co-occurring mental health and substance use disorder, persons who inject drugs, and persons who are experiencing homelessness;
 
-&emsp;&emsp;&emsp;(iii) provides aggregate information on the number of individuals in treatmentwithin the State, including the number of such individuals who are pregnant women, women with dependent children, individuals with a co-occurring mental health and substance use disorder, persons who inject drugs, and persons who are experiencing homelessness;
+&emsp;&emsp;&emsp;(iii) provides aggregate information on the number of individuals in treatment within the State, including the number of such individuals who are pregnant women, women with dependent children, individuals with a co-occurring mental health and substance use disorder, persons who inject drugs, and persons who are experiencing homelessness;
 
 &emsp;&emsp;&emsp;(iv) provides a description of the system that is available to provide services by modality, including the provision of recovery support services;
 
@@ -96,7 +96,7 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 
 &emsp;The Secretary shall annually report to the general public on the States that receive a waiver under this subsection.
 
-(July 1, 1944, ch. 373, title XIX, §1932, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106Stat. 399; amended Pub. L. 106–310, div. B, title XXXIII, §3303(d)–(f)(1), Oct. 17, 2000, 114 Stat. 1211; Pub. L. 114–255, div. B, title VIII, §8002(i), Dec. 13, 2016, 130 Stat. 1231.)
+(July 1, 1944, ch. 373, title XIX, §1932, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 399; amended Pub. L. 106–310, div. B, title XXXIII, §3303(d)–(f)(1), Oct. 17, 2000, 114 Stat. 1211; Pub. L. 114–255, div. B, title VIII, §8002(i), Dec. 13, 2016, 130 Stat. 1231.)
 
 #### Prior Provisions
 

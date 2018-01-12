@@ -40,7 +40,7 @@ For purposes of this subtitle—
 
 > &emsp;then the person making such sale or other disposition shall be considered to have held such property for more than 1 year.
 
-&emsp;(11) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
+&emsp;(11) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)),there shall be included the period for which such qualified securities had been held by the taxpayer.
 
 &emsp;(12) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
 

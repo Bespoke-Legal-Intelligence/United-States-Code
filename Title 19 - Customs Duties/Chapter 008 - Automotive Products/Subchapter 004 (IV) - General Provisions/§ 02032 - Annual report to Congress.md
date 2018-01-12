@@ -20,7 +20,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 Ex. Ord. No. 12713, May 1, 1990, 55 F.R. 18719, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including the Automotive Products Trade Act of 1965 (19 U.S.C. 2001 <i>et seq</i>.) ("Act"), and in order to provide for the submission to the Congress of the annual report required by section 502 of the Act (19 U.S.C. 2032), it is hereby ordered that authority for submission of the report is delegated to the Secretary of Commerce.
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Automotive Products Trade Act of 1965 (19 U.S.C. 2001 <i>et seq</i>.) ("Act"), and in order to provide for the submission to the Congress of the annual report required by section 502 of the Act (19 U.S.C. 2032), it is hereby ordered that authority for submission of the report is delegated to the Secretary of Commerce.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

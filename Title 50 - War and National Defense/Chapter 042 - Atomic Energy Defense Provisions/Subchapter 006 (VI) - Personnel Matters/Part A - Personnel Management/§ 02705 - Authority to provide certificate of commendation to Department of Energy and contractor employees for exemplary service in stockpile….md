@@ -6,7 +6,7 @@ The Secretary of Energy may present a certificate of commendation to any current
 
 #### (b) Certificate
 
-The certificate of commendation presented to a current or former employee under subsection (a) shall include an appropriate citation of the service of the current or former employee described in that subsection, including a citation for dedication, intellect, and sacrifice in furthering the national security interests of the United States by maintaining a strong, safe, and viable United States nuclear deterrent during the cold war or thereafter.
+The certificate of commendation presented to a current or former employee under subsection\(a) shall include an appropriate citation of the service of the current or former employee described in that subsection, including a citation for dedication, intellect, and sacrifice in furthering the national security interests of the United States by maintaining a strong, safe, and viable United States nuclear deterrent during the cold war or thereafter.
 
 #### (c) Department of Energy defined
 

@@ -50,7 +50,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;(B) no person is subject to tax under this title on such gain,
 
-> &emsp;then, for purposes of determining basis under subsections (a) and (b), the amount of gainrecognized by the transferor as a result of the assumption of the liability shall be determined as if the liability assumed by the transferee equaled such transferee's ratable portion of such liability determined on the basis of the relative fair market values (determined without regard to section 7701(g)) of all of the assets subject to such liability.
+> &emsp;then, for purposes of determining basis under subsections (a) and (b), the amount of gain recognized by the transferor as a result of the assumption of the liability shall be determined as if the liability assumed by the transferee equaled such transferee's ratable portion of such liability determined on the basis of the relative fair market values (determined without regard to section 7701(g)) of all of the assets subject to such liability.
 
 #### (e) Limitations on built-in losses
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1999 Amendment
 

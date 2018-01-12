@@ -130,5 +130,5 @@ Subsec. (a). Pub. L. 108–267, §1(a), substituted "a foundation to be known as
 
 #### Short Title
 
-For short title of this subchapter as the "American Indian Education Foundation Act of 2000", see section1301 of Pub. L. 106–568, set out as a Short Title of 2000 Amendment note under section 5301 of this title.
+For short title of this subchapter as the "American Indian Education Foundation Act of 2000", see section 1301 of Pub. L. 106–568, set out as a Short Title of 2000 Amendment note under section 5301 of this title.
 

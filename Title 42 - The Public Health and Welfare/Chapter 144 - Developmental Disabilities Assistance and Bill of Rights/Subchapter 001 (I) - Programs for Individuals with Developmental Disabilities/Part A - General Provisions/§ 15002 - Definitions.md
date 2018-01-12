@@ -106,7 +106,7 @@ In this subchapter:
 
 #### (B) Specific services
 
-&emsp;&emsp;Such term includes respite care, provision of rehabilitation technology and assistive technology, personal assistance services, parent training and counseling, support for families headed by aging caregivers, vehicular and home modifications, and assistance with extraordinary expenses, associated with the needs of individuals with developmental disabilities.
+&emsp;&emsp;Such term includes respite care, provision of rehabilitation technology and assistive technology, personal assistance services, parent training and counseling, support for families headed by aging caregivers, vehicular and home modifications, and assistancewith extraordinary expenses, associated with the needs of individuals with developmental disabilities.
 
 #### (13) Health-related activities
 

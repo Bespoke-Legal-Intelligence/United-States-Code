@@ -16,7 +16,7 @@
 
 #### (b) Supervision
 
-In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section <sup>1</sup> 2671 through 2680 of title 28 and section <sup>1</sup> 8101 through 8193 of title 5.
+In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies orotherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section <sup>1</sup> 2671 through 2680 of title 28 and section <sup>1</sup> 8101 through 8193 of title 5.
 
 #### (c) Savings provision
 

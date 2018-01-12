@@ -22,7 +22,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;(6) developing, strengthening, and facilitating training including—
 
-&emsp;&emsp;(A) training regarding research-based strategies, including the use of differential response, to promote collaboration with the families;
+&emsp;&emsp;(A) training regarding research-based strategies, including the use of differentialresponse, to promote collaboration with the families;
 
 &emsp;&emsp;(B) training regarding the legal duties of such individuals;
 
@@ -96,7 +96,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriateservices) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
@@ -144,7 +144,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) to make recommendations to the court concerning the best interests of the child;
 
-&emsp;&emsp;&emsp;(xiv) the establishment of citizen review panels in accordance with subsection (c) of this section;
+&emsp;&emsp;&emsp;(xiv) the establishment of citizen review panels in accordance with subsection (c);
 
 &emsp;&emsp;&emsp;(xv) provisions, procedures, and mechanisms—
 
@@ -152,7 +152,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) by which individuals who disagree with an official finding of child abuse or neglect can appeal such finding;
 
-&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does not require reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
+&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does notrequire reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
 
 &emsp;&emsp;&emsp;&emsp;(I) to have committed murder (which would have been an offense under section 1111(a) of title 18 if the offense had occurred in the special maritime or territorial jurisdiction of the United States) of another child of such parent;
 
@@ -164,7 +164,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(V) to have committed sexual abuse against the surviving child or another child of such parent; or
 
-&emsp;&emsp;&emsp;&emsp;(VI) to be required to register with a sex offender registry under section 16913(a) of this title;
+&emsp;&emsp;&emsp;&emsp;(VI) to be required to register with a sex offender registry under section 20913(a) of title 34;
 
 &emsp;&emsp;&emsp;(xvii) an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xvi), conviction of any one of the felonies listed in clause (xvi) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
 
@@ -176,9 +176,13 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xxi) provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
 
-&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
+&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household;
 
 &emsp;&emsp;&emsp;(xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
+
+&emsp;&emsp;&emsp;(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22); and
+
+&emsp;&emsp;&emsp;(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
 
 &emsp;&emsp;(C) an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
 
@@ -194,7 +198,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(ii) the training to be provided under the grant to support direct line and supervisory personnel in report taking, screening, assessment, decision making, and referral for investigating suspected instances of child abuse and neglect;
 
-&emsp;&emsp;&emsp;(iii) the training to be provided under the grant for individuals who are required to report suspected cases of child abuse and neglect;
+&emsp;&emsp;&emsp;(iii) the training to be provided under the grant for individuals who are requiredto report suspected cases of child abuse and neglect;
 
 &emsp;&emsp;&emsp;(iv) policies and procedures encouraging the appropriate involvement of families in decisionmaking pertaining to children who experienced child abuse or neglect;
 
@@ -254,15 +258,15 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;Each panel established pursuant to paragraph (1) shall, by examining the policies, procedures, and practices of State and local agencies and where appropriate, specific cases, evaluate the extent to which State and local child protection system agencies are effectively discharging their child protection responsibilities in accordance with—
 
-&emsp;&emsp;&emsp;(i) the State plan under subsection (b) of this section;
+&emsp;&emsp;&emsp;(i) the State plan under subsection (b);
 
-&emsp;&emsp;&emsp;(ii) the child protection standards set forth in subsection (b) of this section; and
+&emsp;&emsp;&emsp;(ii) the child protection standards set forth in subsection (b); and
 
 &emsp;&emsp;&emsp;(iii) any other criteria that the panel considers important to ensure the protection of children, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) a review of the extent to which the State and local child protective services system is coordinated with the foster care and adoption programs established under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.); and
 
-&emsp;&emsp;&emsp;&emsp;(II) a review of child fatalities and near fatalities (as defined in subsection (b)(4) of this section).
+&emsp;&emsp;&emsp;&emsp;(II) a review of child fatalities and near fatalities (as defined in subsection (b)(4)).
 
 #### (B) Confidentiality
 
@@ -292,7 +296,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response toState and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -352,15 +356,17 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 
-&emsp;(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6) of this section.
+&emsp;(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
 
-&emsp;(14) The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
+&emsp;(14) The number of children under the care of the State child protection system who aretransferred into the custody of the State juvenile justice system.
 
 &emsp;(15) The number of children referred to a child protective services system under subsection (b)(2)(B)(ii).
 
 &emsp;(16) The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.).
 
-&emsp;(17) The number of infants—
+&emsp;(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
+
+&emsp;(18) The number of infants—
 
 &emsp;&emsp;(A) identified under subsection (b)(2)(B)(ii);
 
@@ -370,7 +376,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 #### (e) Annual report by Secretary
 
-Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
+Within 6 months after receiving the State reports under subsection (d), the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
 
 #### (f) Allotments
 
@@ -428,31 +434,9 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 (Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730.)
 
-#### Amendment of Section
-
-<i>Pub. L. 114–198, title V, §503(c)(2), July 22, 2016, 130 Stat. 730, provided that, effective May 29, 2017, subsection (d) of this section is amended by redesignating the paragraph (17) added by Pub. L. 114–198 as (18). See 2016 Amendment note below.</i>
-
-<i>Pub. L. 114–22, title VIII, §802(a), (b), May 29, 2015, 129 Stat. 263, provided that, effective 2 years after May 29, 2015, this section is amended—</i>
-
-<i>(1) in subsection (b)(2)(B)—</i>
-
-<i>(A) in clause (xxii), by striking "and" at the end; and</i>
-
-<i>(B) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22); and</i>
-
-&emsp;&emsp;&emsp;<i>"(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;"; and</i>
-
-<i>(2) in subsection (d), by adding at the end the following:</i>
-
-&emsp;<i>"(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv)."</i>
-
-<i>See 2015 Amendment notes below.</i>
-
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch.531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(2)(B)(xxi) and (d)(16), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

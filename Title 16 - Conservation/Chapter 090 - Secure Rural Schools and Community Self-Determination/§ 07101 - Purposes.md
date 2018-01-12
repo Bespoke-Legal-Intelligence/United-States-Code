@@ -44,9 +44,9 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Prior Provisions
 
-A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Short Title
 
-Pub. L. 106–393, §1, as added by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893, provided that: "This Act \[enacting this chapter, amending section 191 of Title 30, Mineral Lands and Mining, and section 6903 of Title 31, Money and Finance, enacting provisions set out as notes under sections 181 and 191 of Title 30, and repealing provisions set out as notes under section 500 of this title and section 1181f of Title 43, Public Lands\] may be cited as the 'Secure Rural Schools and Community Self-Determination Act of 2000'."
+Pub. L. 106–393, §1, as added by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893, provided that: "This Act \[enacting this chapter, amending section 191 of Title 30, Mineral Lands and Mining, and section 6903 of Title 31, Money and Finance, enacting provisions set out as notes under sections 181 and 191 of Title 30, and repealing provisions set out as notes under section 500 of this title and former section 1181f of Title 43, Public Lands\] may be cited as the 'Secure Rural Schools and Community Self-Determination Act of 2000'."
 

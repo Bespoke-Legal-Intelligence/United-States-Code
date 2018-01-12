@@ -6,7 +6,7 @@ An annuitant receiving a disability retirement annuity from the Fund shall be ex
 
 &emsp;(2) annually thereafter until becoming 60 years of age;
 
-> unless the disability is permanent in character. If the annuitant fails to submit to examination as required by this section, payment of the annuity shall be suspended until continuance of the disability is satisfactorily established.
+> unless the disability is permanent in character. If the annuitant fails to submit to examinationas required by this section, payment of the annuity shall be suspended until continuance of the disability is satisfactorily established.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 568.)
 

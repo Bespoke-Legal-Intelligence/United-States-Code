@@ -32,7 +32,7 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;&emsp;(vii) the sources of non-Federal funding used in the State plan.
 
-&emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in theState in increasing the availability of affordable quality individual and family health insurance for children.
+&emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in the State in increasing the availability of affordable quality individual and family health insurance for children.
 
 &emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
 
@@ -102,7 +102,7 @@ For the purpose of evaluating and auditing the program established under this su
 
 The State shall include the following information in the annual report required under subsection (a):
 
-&emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect tocontinuity of coverage or duration of benefits).
+&emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect to continuity of coverage or duration of benefits).
 
 &emsp;(2) Data regarding the extent to which the State uses process measures with respect to determining the eligibility of children under the State child health plan, including measures such as 12-month continuous eligibility, self-declaration of income for applications or renewals, or presumptive eligibility.
 
@@ -156,7 +156,7 @@ Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports submitted for years beginning after Feb. 4, 2009, see section 501(e)(3) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 

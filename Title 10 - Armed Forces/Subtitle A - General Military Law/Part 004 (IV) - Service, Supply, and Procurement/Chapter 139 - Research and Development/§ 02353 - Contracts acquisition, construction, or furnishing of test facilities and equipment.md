@@ -2,7 +2,7 @@
 
 (a) A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility.
 
-(b) Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
+(b) Facilities that would not be readily removable or separable without unreasonable expenseor unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
 
 &emsp;(1) a provision for reimbursing the United States for the fair value of the facilities at the completion or termination of the contract or within a reasonable time thereafter;
 
@@ -126,7 +126,7 @@ Additional Terms and Conditions.—The Secretary shall require that the transfer
 
 &emsp;"(1) A condition stipulating that the transfer of the X-49A aircraft is for the sole purpose of further development, test, and evaluation of vectored thrust ducted propeller (hereinafter in this section referred to as 'VTDP') technology.
 
-&emsp;"(2) A condition providing the Government the right to procure the VTDP technology demonstratedunder this program at a discounted cost based on the value of the X-49A aircraft and associated equipment at the time of transfer, with such valuation and terms determined by the Secretary.
+&emsp;"(2) A condition providing the Government the right to procure the VTDP technology demonstrated under this program at a discounted cost based on the value of the X-49A aircraft and associated equipment at the time of transfer, with such valuation and terms determined by the Secretary.
 
 &emsp;"(3) A condition that the transferee not transfer any interest in, or transfer possession of, the military equipment transferred under subsection (b) to any other party without the prior written approval of the Secretary.
 

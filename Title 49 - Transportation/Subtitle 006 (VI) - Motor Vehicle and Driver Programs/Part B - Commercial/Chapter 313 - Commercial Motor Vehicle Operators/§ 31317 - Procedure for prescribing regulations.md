@@ -1,6 +1,6 @@
 ### §31317. Procedure for prescribing regulations
 
-Regulations prescribed by the Secretary of Transportation to carry out this chapter (except section 31307) shall be prescribed under section 553 of title 5 without regard to sections 556 and 557 of title 5.
+Regulations prescribed by the Secretary of Transportation to carry out this chapter (exceptsection 31307) shall be prescribed under section 553 of title 5 without regard to sections 556 and 557 of title 5.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1029.)
 

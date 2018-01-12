@@ -12,7 +12,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(C) consistent with the objectives of this subchapter, to vest in public housing agencies that perform well, the maximum amount of responsibility and flexibility in program administration, with appropriate accountability to public housing residents, localities, and the general public;
 
-&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even amajority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
+&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even a majority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
 
 &emsp;(3) that the Federal Government should act where there is a serious need that private citizens or groups cannot or are not addressing responsibly; and
 
@@ -60,7 +60,7 @@ It is the policy of the United States—
 
 #### (4) Nondiscrimination
 
-&emsp;No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title.
+&emsp;No person shall be prohibited from serving on the board of directors or similar governingbody of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title.
 
 (Sept. 1, 1937, ch. 896, title I, §2, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236; Pub. L. 105–276, title V, §505, Oct. 21, 1998, 112 Stat. 2522; Pub. L. 114–201, title I, §114, July 29, 2016, 130 Stat. 804.)
 
@@ -136,7 +136,7 @@ Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, pro
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
+Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437vof this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
@@ -158,7 +158,7 @@ Act Sept. 1, 1937, ch. 896, title I, §1, as added by Pub. L. 93–383, title II
 
 Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) \[amending provisions set out as notes under sections 1437a, 1437c, and 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C.1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
+Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
 Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
@@ -188,17 +188,7 @@ Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided th
 
 #### Reports on Number and Cost of Federally Assisted Units
 
-Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, provided that: "The Secretary of Housing and Urban Development shall submit an annual report no later than August 30, 2008 and annually thereafter to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of these units to the Department of Housing and Urban Development."
-
-Similar provisions were contained in the following prior appropriation acts:
-
-Pub. L. 109–115, div. A, title III, §314, Nov. 30, 2005, 119 Stat. 2463.
-
-Pub. L. 108–447, div. I, title II, §214, Dec. 8, 2004, 118 Stat. 3318.
-
-Pub. L. 108–199, div. G, title II, §213, Jan. 23, 2004, 118 Stat. 393.
-
-Pub. L. 108–7, div. K, title II, §217, Feb. 20, 2003, 117 Stat. 504.
+Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, which directed the Secretary of Housing andUrban Development to submit an annual report to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of such units, was repealed by Pub. L. 115–31, div. K, title II, §238, May 5, 2017, 131 Stat. 789.
 
 #### Funding of Certain Public Housing
 

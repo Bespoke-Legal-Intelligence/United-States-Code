@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 113–121, §1051(a), added subsec. (f).
 
 #### Short Title of 1961 Amendment
 
-Pub. L. 87–88, §11, July 20, 1961, 75 Stat. 210, provided that: "This Act \[amending this section, and sections1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1961'."
+Pub. L. 87–88, §11, July 20, 1961, 75 Stat. 210, provided that: "This Act \[amending this section, and sections 1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1961'."
 
 #### Short Title
 
@@ -196,7 +196,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1) $335,000,000 of funding in section 4011(e) \[130 Stat. 1881\] is authorized to remain available until expended.
 
-&emsp;"(2) Projects can only receive funding if enacted appropriations legislation designates funding to themby name, after the Secretary recommends specific projects for funding pursuant to this section and transmits such recommendations to the appropriate committees of Congress.
+&emsp;"(2) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to this section and transmits such recommendations to the appropriate committees of Congress.
 
 "(i)
 

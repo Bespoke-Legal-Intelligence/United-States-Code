@@ -76,7 +76,7 @@ For purposes of this subpart:
 
 #### Termination of Section
 
-<i>For termination of section by section 105(a) of Pub. L. 112–144, see Termination Date note below.</i>
+<i>For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.</i>
 
 #### Amendments
 
@@ -142,6 +142,10 @@ Par. (8)(B). Pub. L. 105–115, §102(6)(B), substituted "section 254(c)" for "s
 
 Par. (9). Pub. L. 105–115, §102(7), added par. (9).
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–52, title I, §105, Aug. 18, 2017, 131 Stat. 1012, provided that: "The amendments made by this title \[see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] shall take effect on October 1, 2017, or the date of the enactment of this Act \[Aug. 18, 2017\], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] shall be assessed for all human drug applications received on or after October 1, 2017, regardless of the date of the enactment of this Act."
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–144, title I, §106, July 9, 2012, 126 Stat. 1002, provided that: "The amendments made by this title \[amending this section and sections 379h and 379h–2 of this title and repealing provisions set out as notes under this section and section 379h–2 of this title\] shall take effect on October 1, 2012, or the date of the enactment of this Act \[July 9, 2012\], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all human drug applications received on or after October 1, 2012, regardless of the date of the enactment of this Act."
@@ -172,13 +176,19 @@ Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, which provided
 
 #### Termination Date
 
-Pub. L. 112–144, title I, §105(a), July 9, 2012, 126 Stat. 1001, provided that: "Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) shall cease to be effective October 1, 2017."
+Pub. L. 115–52, title I, §104(a), Aug. 18, 2017, 131 Stat. 1012, provided that: "Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) shall cease to be effective October 1, 2022."
+
+Pub. L. 112–144, title I, §105(a), July 9, 2012, 126 Stat. 1001, which provided that sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012.
+
+\[Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012, provided that the repeal of section 105(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
 Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, which provided that the amendment by section 103 of Pub. L. 102–571 (enacting this subpart) would not be in effect after Oct. 1, 1997, and the amendment by section 104 of Pub. L. 102–571 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 1997, was repealed by Pub. L. 112–144, title I, §105(d)(3), July 9, 2012, 126 Stat. 1002.
 
 \[Pub. L. 112–144, title I, §105(d)(3), July 9, 2012, 126 Stat. 1002, provided that the repeal of section 105 of Pub. L. 102–571, formerly set out above, is effective Sept. 30, 1997.\]
 
 #### Savings Provision
+
+Pub. L. 115–52, title I, §106, Aug. 18, 2017, 131 Stat. 1013, provided that: "Notwithstanding the amendments made by this title \[see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\], as in effect on the day before the date of the enactment of this title \[Aug. 18, 2017\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
 
 Pub. L. 112–144, title I, §107, July 9, 2012, 126 Stat. 1002, provided that: "Notwithstanding the amendments made by this title \[amending this section and section 379h and 379h–2 of this title and repealing provisions set out as notes under this section and section 379h–2 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2012."
 
@@ -208,13 +218,15 @@ Recommendations.—The Secretary shall publish in the Federal Register recommend
 
 "(b)
 
-Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goalsidentified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
 "(c)
 
 Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made."
 
 #### Congressional Findings Concerning Fees Relating to Drugs
+
+Pub. L. 115–52, title I, §101(b), Aug. 18, 2017, 131 Stat. 1006, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 Pub. L. 112–144, title I, §101(b), July 9, 2012, 126 Stat. 996, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379h and 379h–2 of this title and repealing sections set out as notes under this section and section 379h–2 of this title\] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
@@ -238,7 +250,7 @@ Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: 
 
 &emsp;&emsp;&emsp;"(iii) developing principles for improving first-cycle reviews; and
 
-&emsp;"(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman of the Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record."
+&emsp;"(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman ofthe Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record."
 
 Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that: "Congress finds that—
 
@@ -260,7 +272,7 @@ Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that:
 
 &emsp;"(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of human drug applications; and
 
-&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
+&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section 301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
 
 #### Annual Reports
 

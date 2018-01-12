@@ -70,7 +70,7 @@ In making available assistance in any area under this section or section 1486 of
 
 #### (i) Domestic farm labor housing available for other families
 
-Housing and related facilities constructed with loans under this section may be used fortenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
+Housing and related facilities constructed with loans under this section may be used for tenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
 
 &emsp;(1) there is no longer a need in the area for farm labor housing; or
 

@@ -8,19 +8,33 @@ For the purposes of this chapter, the following definitions apply:
 
 #### (2) Indian tribe
 
-&emsp;The terms "Indian tribe" and "tribe" shall have the meaning given the term "Indian tribe" in section 5304(e) of this title.
+#### (A) In general
+
+&emsp;&emsp;The terms "Indian tribe" and "tribe" have the meaning given the term "Indian tribe" in section 5304 of this title.
+
+#### (B) Inclusion
+
+&emsp;&emsp;The term "Indian tribe" includes tribal organizations (as defined in section 5304 of this title).
 
 #### (3) Indian
 
 &emsp;The term "Indian" shall have the meaning given such term in section 5304(d) of this title.
 
-#### (4) Secretary
+#### (4) Program
+
+&emsp;The term "program" means a program described in section 3404(a) of this title.
+
+#### (5) Secretary
 
 &emsp;Except where otherwise provided, the term "Secretary" means the Secretary of the Interior.
 
-(Pub. L. 102–477, §3, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, §1103(a), Dec. 27, 2000, 114 Stat. 2931.)
+(Pub. L. 102–477, §3, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, §1103(a), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, §4, Dec. 18, 2017, 131 Stat. 2026.)
 
 #### Amendments
+
+<b>2017</b>—Par. (2). Pub. L. 115–93, §4(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The terms 'Indian tribe' and 'tribe' shall have the meaning given the term 'Indian tribe' in section 5304(e) of this title."
+
+Pars. (4), (5). Pub. L. 115–93, §4(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 <b>2000</b>—Pub. L. 106–568 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 

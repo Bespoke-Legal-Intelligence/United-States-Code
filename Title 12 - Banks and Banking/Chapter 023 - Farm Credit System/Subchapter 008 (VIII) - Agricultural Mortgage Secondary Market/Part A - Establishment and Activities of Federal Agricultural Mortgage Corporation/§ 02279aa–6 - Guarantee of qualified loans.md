@@ -20,7 +20,7 @@
 
 #### (3) Power of Corporation
 
-&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right,title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
+&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
 
 #### (b) Other responsibilities of and limitations on certified facilities
 

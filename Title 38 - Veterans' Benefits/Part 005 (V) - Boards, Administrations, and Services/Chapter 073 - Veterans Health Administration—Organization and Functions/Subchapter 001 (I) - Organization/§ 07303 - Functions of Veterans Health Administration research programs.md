@@ -40,7 +40,7 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: "Amounts for the activities of the field offices of the Office of Research Complianceand Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research)."
+<b>2003</b>—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: "Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research)."
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–135 added subsec. (e).
 

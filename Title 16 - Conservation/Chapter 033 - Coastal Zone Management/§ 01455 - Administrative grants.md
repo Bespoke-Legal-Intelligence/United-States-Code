@@ -14,7 +14,7 @@ The Secretary may make a grant to a coastal state under subsection (a) only if t
 
 #### (c) Allocation of grants to coastal states
 
-Grants under this section shall be allocated to coastal states with approved programs based on rules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and otherrelevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
+Grants under this section shall be allocated to coastal states with approved programs based on rules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and other relevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
 
 #### (d) Mandatory adoption of State management program for coastal zone
 
@@ -76,7 +76,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;(9) The management program includes procedures whereby specific areas may be designated for the purpose of preserving or restoring them for their conservation, recreational, ecological, historical, or esthetic values.
 
-&emsp;(10) The State, acting through its chosen agency or agencies (including local governments, areawide agencies, regional agencies, or interstate agencies) has authority for the management of the coastal zone in accordancewith the management program. Such authority shall include power—
+&emsp;(10) The State, acting through its chosen agency or agencies (including local governments, areawide agencies, regional agencies, or interstate agencies) has authority for the management of the coastal zone in accordance with the management program. Such authority shall include power—
 
 &emsp;&emsp;(A) to administer land use and water use regulations to control development <sup>1</sup> to ensure compliance with the management program, and to resolve conflicts among competing uses; and
 
@@ -126,7 +126,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 <b>1992</b>—Subsecs. (a) to (d), (e)(2), (3)(A). Pub. L. 102–587 substituted "coastal state" and "coastal states" for "coastal State" and "coastal States", respectively, wherever appearing, and substituted period for semicolon at end of subsec. (b).
 
-<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocationto other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §6043(b)(1), amended introductory text generally, which prior to amendment read as follows: "The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state's management program if the Secretary—".
 

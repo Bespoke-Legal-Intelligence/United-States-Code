@@ -1,6 +1,6 @@
 ### §433. Exemptions with respect to certain contracts
 
-Sections 431 and 432 of this title shall not extend to any contract or agreement made or entered into, or accepted by any incorporated company for the general benefit of such corporation; nor to the purchase or sale of bills of exchange or other property where the same are ready for delivery and payment therefor is made at the time of making or entering into the contract or agreement. Nor shall the provisions of such sections apply to advances, loans, discounts, purchase or repurchase agreements, extensions, or renewals thereof, or acceptances, releases or substitutions of security therefor or other contracts or agreements made or entered into under the Reconstruction Finance Corporation Act, the Agricultural Adjustment Act, the Federal Farm Loan Act, the Emergency Farm Mortgage Act of 1933, the Farm Credit Act of 1933, or the Home Owners Loan Act of 1933, the Farmers' Home Administration Act of 1946, the Bankhead-Jones Farm Tenant Act, or to crop insurance agreements or contracts or agreements of a kind which the Secretary of Agriculture may enter into with farmers.
+Sections 431 and 432 of this title shall not extend to any contract or agreement made or entered into, or accepted by any incorporated company for the general benefit of such corporation; nor to the purchase or sale of bills of exchange or other property where the same are ready for delivery and payment therefor is made at thetime of making or entering into the contract or agreement. Nor shall the provisions of such sections apply to advances, loans, discounts, purchase or repurchase agreements, extensions, or renewals thereof, or acceptances, releases or substitutions of security therefor or other contracts or agreements made or entered into under the Reconstruction Finance Corporation Act, the Agricultural Adjustment Act, the Federal Farm Loan Act, the Emergency Farm Mortgage Act of 1933, the Farm Credit Act of 1933, or the Home Owners Loan Act of 1933, the Farmers' Home Administration Act of 1946, the Bankhead-Jones Farm Tenant Act, or to crop insurance agreements or contracts or agreements of a kind which the Secretary of Agriculture may enter into with farmers.
 
 Any exemption permitted by this section shall be made a matter of public record.
 
@@ -40,7 +40,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 #### Abolition of Reconstruction Finance Corporation
 
-The Reconstruction Finance Corporation, which was created by the Reconstruction Finance CorporationAct, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
+The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of Home Owners' Loan Corporation
 

@@ -28,7 +28,7 @@ The Secretary shall prescribe by regulations the circumstances under which the a
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369 substituted "for any partnership oil and gas property to the extent suchdeduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D)" for "under section 611 with respect to oil and gas wells".
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369 substituted "for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D)" for "under section 611 with respect to oil and gas wells".
 
 <b>1976</b>—Subsec. (a)(3). Pub. L. 94–455, §2115(c)(3), added par. (3).
 

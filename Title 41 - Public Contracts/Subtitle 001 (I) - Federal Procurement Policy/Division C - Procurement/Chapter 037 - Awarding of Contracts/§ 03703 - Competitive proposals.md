@@ -10,7 +10,7 @@ Evaluation and Award.—An executive agency shall evaluate competitive proposals
 
 (b)
 
-Limit on Number of Proposals.—If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under subsection (a)(1) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with those criteria.
+Limit on Number of Proposals.—If the contracting officer determines that the numberof offerors that would otherwise be included in the competitive range under subsection (a)(1) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with those criteria.
 
 (c)
 

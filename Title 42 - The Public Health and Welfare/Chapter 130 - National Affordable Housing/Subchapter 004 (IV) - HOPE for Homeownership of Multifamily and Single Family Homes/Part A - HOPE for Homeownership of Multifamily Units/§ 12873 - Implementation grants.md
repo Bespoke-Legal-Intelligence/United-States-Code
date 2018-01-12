@@ -122,7 +122,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 #### References in Text
 
-Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated asreading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
+Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated as reading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
 
 Section 12874 of this title and section 12874(b) of this title, referred to in subsec. (d)(2)(D), were in the original "section 324" and "section 324(b)", respectively, and were translated as reading "section 424" and "section 424(b)", respectively, meaning section 424 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 324 of Pub. L. 101–625, which proposed an amendment to section 1709 of Title 12, never took effect pursuant to section 351 of Pub. L. 101–625. Such section 324 did not contain a subsec. (b).
 

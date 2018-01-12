@@ -10,7 +10,7 @@ Where imports of an agricultural product are subject to a tariff-rate quota, and
 
 #### (c) Monitoring
 
-The Secretary of Agriculture shall monitor the domestic supply of agricultural products subject to a tariff-rate quota as the Secretary considers appropriate and shall advise the President when the domestic supply of the products and substitutable products combined with the estimated imports of the products under the tariff-rate quota may be inadequate to meet domestic demand at reasonable prices.
+The Secretary of Agriculture shall monitor the domestic supply of agricultural products subject to a tariff-rate quota as the Secretaryconsiders appropriate and shall advise the President when the domestic supply of the products and substitutable products combined with the estimated imports of the products under the tariff-rate quota may be inadequate to meet domestic demand at reasonable prices.
 
 #### (d) Coverage of tariff-rate quotas
 
@@ -44,7 +44,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 #### (5) Continuation of sugar headnote
 
-&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 ofthe HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
+&emsp;The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
 
 (Pub. L. 103–465, title IV, §404, Dec. 8, 1994, 108 Stat. 4959.)
 
@@ -68,7 +68,7 @@ Proc. No. 7235, Oct. 7, 1999, 64 F.R. 55611, provided:
 
 1\. On April 15, 1994, the President entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations ("Uruguay Round Agreements"). As part of those agreements, the United States converted quotas on imports of beef, cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products (as defined in additional U.S. notes 2 and 3 of the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\]) into tariff-rate quotas. In section 101(a) of the Uruguay Round Agreements Act \[19 U.S.C. 3511(a)\] (the "URAA") (Public Law 103–65 \[Pub. L. 103–465\]; 108 Stat. 4809), Congress approved the Uruguay Round Agreements listed in section 101(d) of that Act, including the General Agreement on Tariffs and Trade 1994.
 
-2\. On December 23, 1994, the President issued Presidential Proclamation 6763 \[19 U.S.C. 3511 note\], implementing the Uruguay Round Agreements consistent with the URAA. Presidential Proclamation 6763 included a delegation of the President's authority under the statutes cited in the proclamation, including section 404(a) of the URAA, 19 U.S.C. 3601(a), to the Secretary of Agriculture, the Secretary of the Treasury, and the United States Trade Representative, as necessary to perform functions assigned to them to implement the proclamation. Section 404(a) directs the President to take such action as may be necessary in implementing the tariff-rate quotas set out in Schedule XX - United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade 1994, to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
+2\. On December 23, 1994, the President issued Presidential Proclamation 6763 \[19 U.S.C. 3511 note\], implementing the Uruguay Round Agreements consistent with the URAA. Presidential Proclamation 6763 included a delegation of the President's authority under the statutes cited in the proclamation, including section 404(a) of the URAA, 19 U.S.C. 3601(a), to the Secretary of Agriculture, the Secretary of the Treasury, and the United States Trade Representative, as necessary to perform functions assigned to them to implement the proclamation. Section 404(a) directs the President to take such action as may be necessary inimplementing the tariff-rate quotas set out in Schedule XX - United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade 1994, to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
 
 3\. I have determined that it is necessary to delegate my authority under section 404(a) to administer the tariff-rate quotas relating to cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products to the United States Trade Representative and to delegate to the Secretary of Agriculture authority to issue licenses governing the importation of such products under the applicable tariff-rate quotas. The Secretary of Agriculture shall exercise such licensing authority in consultation with the United States Trade Representative.
 

@@ -64,7 +64,7 @@ A pension plan contract which is not a life, accident, or health, property, casu
 
 #### (2) Additional separate computations
 
-&emsp;Under regulations prescribed by the Secretary, such additional separate computationsshall be made, with respect to the items separately accounted for in accordance with subsection (c), as may be necessary to carry out the purposes of this section and this part.
+&emsp;Under regulations prescribed by the Secretary, such additional separate computations shall be made, with respect to the items separately accounted for in accordance with subsection (c), as may be necessary to carry out the purposes of this section and this part.
 
 #### (g) Variable annuity contracts treated as annuity contracts
 
@@ -86,7 +86,7 @@ For purposes of this part, the term "annuity contract" includes a contract which
 
 #### (2) Safe harbor for diversification
 
-&emsp;A segregated asset account shall be treated as meeting the requirements of paragraph (1) for any quarter of a taxable year if as of the close of such quarter—
+&emsp;A segregated asset account shall be treated as meeting the requirements of paragraph (1)for any quarter of a taxable year if as of the close of such quarter—
 
 &emsp;&emsp;(A) it meets the requirements of section 851(b)(3), and
 

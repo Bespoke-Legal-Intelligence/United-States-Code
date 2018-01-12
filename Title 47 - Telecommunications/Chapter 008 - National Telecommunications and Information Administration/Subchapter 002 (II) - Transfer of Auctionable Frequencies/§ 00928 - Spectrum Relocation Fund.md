@@ -194,7 +194,7 @@ No amounts in the Fund on the day before February 22, 2012, may be used for any 
 
 &emsp;(2) to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
 
-(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252; Pub. L. 114–74, title X, §1005(a), Nov. 2, 2015, 129 Stat. 622.)
+(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a),Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252; Pub. L. 114–74, title X, §1005(a), Nov. 2, 2015, 129 Stat. 622.)
 
 #### Amendments
 
@@ -234,5 +234,5 @@ Pub. L. 108–494, title II, §207, Dec. 23, 2004, 118 Stat. 3996, provided that
 
 &emsp;"(1) the progress made in adhering to the timelines applicable to relocation from eligible frequencies required under \[former\] section 118(d)(2)(A) of the National Telecommunications and Information Administration Organization Act \[now 47 U.S.C. 928(d)(2)(B)\], separately stated on a communication system-by-system basis and on an auction-by-auction basis; and
 
-&emsp;"(2) with respect to each relocated communication system and auction, a statement of the estimate ofrelocation costs required under section 113(g)(4) of such Act \[47 U.S.C. 923(g)(4)\], the actual relocations costs incurred, and the amount of such costs paid from the Spectrum Relocation Fund."
+&emsp;"(2) with respect to each relocated communication system and auction, a statement of the estimate of relocation costs required under section 113(g)(4) of such Act \[47 U.S.C. 923(g)(4)\], the actual relocations costs incurred, and the amount of such costs paid from the Spectrum Relocation Fund."
 

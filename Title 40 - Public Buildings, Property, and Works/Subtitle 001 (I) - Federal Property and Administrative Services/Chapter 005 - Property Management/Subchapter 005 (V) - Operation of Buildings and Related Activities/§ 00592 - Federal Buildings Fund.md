@@ -62,7 +62,7 @@ Receiving cash incentives.—The Administrator may receive amounts from rebates 
 
 &emsp;(2)
 
-Receiving goods or services.—The Administrator may accept, from a utility, goodsor services that enhance the energy efficiency of federal facilities.
+Receiving goods or services.—The Administrator may accept, from a utility, goods or services that enhance the energy efficiency of federal facilities.
 
 &emsp;(3)
 

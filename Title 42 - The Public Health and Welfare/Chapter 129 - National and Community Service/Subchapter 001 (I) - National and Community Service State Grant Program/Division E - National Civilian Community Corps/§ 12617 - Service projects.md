@@ -18,7 +18,7 @@ The service projects carried out by the National Civilian Community Corps shallâ
 
 #### (A) Specific executive departments
 
-&emsp;&emsp;Upon the establishment of the Program, the Secretary of Agriculture, the Secretaryof the Interior, the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
+&emsp;&emsp;Upon the establishment of the Program, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
 
 #### (B) Other sources
 

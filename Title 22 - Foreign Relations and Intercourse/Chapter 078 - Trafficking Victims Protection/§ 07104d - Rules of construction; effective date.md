@@ -48,5 +48,5 @@ The date of enactment, referred to in subsec. (c)(3), probably means the date of
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as partof the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 

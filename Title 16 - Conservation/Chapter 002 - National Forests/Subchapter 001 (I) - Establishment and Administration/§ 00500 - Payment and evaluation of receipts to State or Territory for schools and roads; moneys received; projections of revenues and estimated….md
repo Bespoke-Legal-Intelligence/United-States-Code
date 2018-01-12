@@ -64,7 +64,7 @@ Pub. L. 106–393, titles I–IV, Oct. 30, 2000, 114 Stat. 1611–1623, as amend
 
 #### Advisory Committee on Forest Counties Payments
 
-Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, established the Forest Counties Payments Committee to recommend methods for making payments to States and counties with Federal lands and provided for its termination on Sept. 30, 2007.
+Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118Stat. 1212, established the Forest Counties Payments Committee to recommend methods for making payments to States and counties with Federal lands and provided for its termination on Sept. 30, 2007.
 
 \[Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that the amendment made by section 1 to section 320 of Pub. L. 106–291 was effective as of Oct. 11, 2003.\]
 

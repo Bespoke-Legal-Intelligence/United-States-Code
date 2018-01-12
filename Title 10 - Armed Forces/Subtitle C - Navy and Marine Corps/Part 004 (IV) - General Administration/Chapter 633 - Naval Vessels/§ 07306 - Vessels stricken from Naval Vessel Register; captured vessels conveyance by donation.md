@@ -60,7 +60,7 @@ Subsec. (a). Pub. L. 113–66, §1022(a), amended subsec. (a) generally. Prior t
 
 &emsp;"(3) any not-for-profit or nonprofit entity."
 
-Subsec. (b). Pub. L. 113–66, §1022(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary."
+Subsec. (b). Pub. L. 113–66, §1022(b), amended subsec. (b) generally. Prior to amendment, text read as follows:"An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary."
 
 Subsec. (c). Pub. L. 113–66, §1022(c), in heading, substituted "Department of Defense" for "United States" and in text, inserted ", the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial," after "under this section" and substituted "the Department of Defense" for "the United States".
 

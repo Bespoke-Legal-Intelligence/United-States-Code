@@ -22,7 +22,7 @@ The State educational agency may allocate the amounts of grants under sections 6
 
 #### (c) Reallocation
 
-If a State educational agency determines that the amount of a grant a local educational agency would receive under sections 6333, 6334, 6335, and 6337 of this title is more than such local educational agency will use, the State educational agency shall make the excess amount available to other local educational agencies in the Statethat need additional funds in accordance with criteria established by the State educational agency.
+If a State educational agency determines that the amount of a grant a local educational agency would receive under sections 6333, 6334, 6335, and 6337 of this title is more than such local educational agency will use, the State educational agency shall make the excess amount available to other local educational agencies in the State that need additional funds in accordance with criteria established by the State educational agency.
 
 (Pub. L. 89–10, title I, §1126, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1534.)
 

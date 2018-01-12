@@ -18,7 +18,7 @@
 
 (3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $13,456, as increased from time to time under section 5312 of this title.
 
-(d)(1) If there are two parents who are living together, or if a parent has remarried and is living with such parent's spouse, the monthly rate of dependency and indemnity compensation paid to such parent shall be $387, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of the combined annual income of the parents or the parent and the parent's spouse, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
+(d)(1) If there are two parents who are living together, or if a parent has remarried and is living with such parent's spouse, the monthly rate of dependency and indemnity compensation paid to such parent shall be $387, as increased from time to time under section 5312(b)(1) of this titleand reduced by an amount, based upon the amount of the combined annual income of the parents or the parent and the parent's spouse, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
 (2) In no case may the amount of dependency and indemnity compensation payable to any parent under this subsection be less than $5 monthly.
 
@@ -178,7 +178,7 @@ Subsec. (c)(1). Pub. L. 94–432, §301(3), increased monthly rate of compensati
 
 Subsec. (c)(3). Pub. L. 94–432, §301(4), substituted "$3,540" for "$3,300".
 
-Subsec. (d)(1). Pub. L. 94–432, §301(5), increased monthly compensation from $90 to $96 and substituted $1,000 to $2,100 for $1,000 to $2,300, $2,100 to $3,100 for $2,300 to $3,300 and $3,100 to $3,800 for $3,300 to $4,500, and inserted provision for reduction by $.05 for each $1 of total combined annual income which is more than $3,800 but not more than $4,760.
+Subsec. (d)(1). Pub. L. 94–432, §301(5), increased monthly compensation from $90 to $96 and substituted$1,000 to $2,100 for $1,000 to $2,300, $2,100 to $3,100 for $2,300 to $3,300 and $3,100 to $3,800 for $3,300 to $4,500, and inserted provision for reduction by $.05 for each $1 of total combined annual income which is more than $3,800 but not more than $4,760.
 
 Subsec. (d)(3). Pub. L. 94–432, §301(6), substituted "$4,760" for "$4,500".
 
@@ -232,7 +232,7 @@ Subsec. (g)(2), (3). Pub. L. 92–197, §4(d), redesignated par. (2) as par. (3)
 
 Subsec. (h). Pub. L. 92–197, §4(e), added subsec. (h).
 
-<b>1970</b>—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II "$96" for "$87", "94" for "81", "91" for "75", "87" for "69", "81" for "62", "75" for "54", "69" for "46", "62" for "38", "54" for "31", "46" for "25", "38" for "18", "31" for "12", and "25" for "10".
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–588, §2(a), provided new annual income limits to measure monthly compensation of one parent by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $18, $12, and $10, respectively, and within existing annualincome limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II "$96" for "$87", "94" for "81", "91" for "75", "87" for "69", "81" for "62", "75" for "54", "69" for "46", "62" for "38", "54" for "31", "46" for "25", "38" for "18", "31" for "12", and "25" for "10".
 
 Subsec. (c). Pub. L. 91–588, §2(b), provided new annual income limits to measure monthly compensation of two parents not living together by adding minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $14, $12, and $10, respectively, and within existing annual income limits from a maximum of $800 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II "$66" for "$58", "64" for "54", "61" for "50", "58" for "46", "54" for "41", "50" for "35", "46" for "29", "41" for "23", "35" for "20", "29" for "16", "23" for "12", "20" for "11", and "16" for "10".
 
@@ -244,7 +244,7 @@ Subsec. (g)(1)(C). Pub. L. 91–588, §8(a), inserted reference to first sentenc
 
 Subsec. (g)(1)(M). Pub. L. 91–588, §8(a), added subpar. (M).
 
-<b>1968</b>—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–275, §2(a), in providing new annual income limits to measure monthly compensation of one parent, reenacted minimum income limit of $800 for monthly benefit of $87, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $81 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $69, $52, $35, and $18, respectively.
 
 Subsec. (c). Pub. L. 90–275, §2(b), in providing new annual income limits to measure monthly compensation of two parents not living together, reenacted minimum income limit of $800 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $54 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $46, $35, $23, and $12, respectively.
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by sections 2(a)–(c) and 8(a) of Pub. L. 91–588, effective Jan. 1, 1971, and amendment by section 2(d) of Pub. L. 91–588, effective on Jan. 1, 1972, see section 10 of Pub. L. 91–588, set out as a note under section 1521 of this title.
+Amendment by sections 2(a)–(c) and 8(a) of Pub. L. 91–588, effective Jan. 1, 1971, and amendment by section2(d) of Pub. L. 91–588, effective on Jan. 1, 1972, see section 10 of Pub. L. 91–588, set out as a note under section 1521 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -52,5 +52,5 @@ Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that th
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 

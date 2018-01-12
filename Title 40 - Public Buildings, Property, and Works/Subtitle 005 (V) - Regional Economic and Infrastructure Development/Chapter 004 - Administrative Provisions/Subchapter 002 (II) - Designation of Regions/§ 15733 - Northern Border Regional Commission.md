@@ -4,7 +4,7 @@ The region of the Northern Border Regional Commission shall include the followin
 
 &emsp;(1)
 
-Maine.—The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec,Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
+Maine.—The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec, Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
 
 &emsp;(2)
 
@@ -23,4 +23,8 @@ Vermont.—The counties of Caledonia, Essex, Franklin, Grand Isle, Lamoille, and
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 

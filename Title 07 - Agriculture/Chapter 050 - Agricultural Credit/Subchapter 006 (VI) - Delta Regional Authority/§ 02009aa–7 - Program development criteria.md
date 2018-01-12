@@ -18,7 +18,7 @@ In considering programs and projects to be provided assistance under this subcha
 
 #### (b) No relocation assistance
 
-No financial assistance authorized by this subchapter shall be used to assist a person or entity in relocating from one area to another, exceptthat financial assistance may be used as otherwise authorized by this chapter to attract businesses from outside the region to the region.
+No financial assistance authorized by this subchapter shall be used to assist a person or entity in relocating from one area to another, except that financial assistance may be used as otherwise authorized by this chapter to attract businesses from outside the region to the region.
 
 #### (c) Reduction of funds
 

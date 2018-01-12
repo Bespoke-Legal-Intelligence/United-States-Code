@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establishthat the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
+&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establish that the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
 
 #### (ii) Sustaining burden
 
@@ -52,7 +52,7 @@
 
 #### (iii) Credibility determination
 
-&emsp;&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, a trier of fact may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoods in such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility, however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
+&emsp;&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, a trier of fact may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoods in such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility,however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
 
 #### (2) Exceptions
 
@@ -186,7 +186,7 @@
 
 #### (e) Commonwealth of the Northern Mariana Islands
 
-The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
+The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having beeninterdicted in international or United States waters) only on or after January 1, 2014.
 
 (June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080.)
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date\(except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments
 
@@ -264,7 +264,7 @@ Pub. L. 110–340, §2(d), Oct. 3, 2008, 122 Stat. 3736, provided that:
 
 "(1)
 
-Issuance of regulations.—Not later than 60 days after the date of enactment of this Act \[Oct. 3, 2008\], the Attorney General and the Secretary of Homeland Security shall promulgate final regulations establishing that, for purposes of sections 241(b)(3)(B)(iii) and 208(b)(2)(A)(iii) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)(iii); 8 U.S.C. 1158(b)(2)(A)(iii)), an alien who is deportable under section 237(a)(4)(F) of such Act (8 U.S.C. 1227(a)(4)(F)) or inadmissible under section 212(a)(3)(G) of such Act (8 U.S.C. 1182(a)(3)(G)) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
+Issuance of regulations.—Not later than 60 days after the date of enactment of this Act \[Oct. 3,2008\], the Attorney General and the Secretary of Homeland Security shall promulgate final regulations establishing that, for purposes of sections 241(b)(3)(B)(iii) and 208(b)(2)(A)(iii) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)(iii); 8 U.S.C. 1158(b)(2)(A)(iii)), an alien who is deportable under section 237(a)(4)(F) of such Act (8 U.S.C. 1227(a)(4)(F)) or inadmissible under section 212(a)(3)(G) of such Act (8 U.S.C. 1182(a)(3)(G)) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
 
 "(2)
 

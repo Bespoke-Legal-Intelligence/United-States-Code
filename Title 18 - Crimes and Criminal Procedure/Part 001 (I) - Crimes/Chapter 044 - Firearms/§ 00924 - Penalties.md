@@ -32,7 +32,7 @@
 
 &emsp;(I) the offense of which the juvenile is charged is possession of a handgun or ammunition in violation of section 922(x)(2); and
 
-&emsp;(II) the juvenile has not been convicted in any court of an offense (including an offense under section 922(x) or a similar State law, but not including any other offense consisting ofconduct that if engaged in by an adult would not constitute an offense) or adjudicated as a juvenile delinquent for conduct that if engaged in by an adult would constitute an offense.
+&emsp;(II) the juvenile has not been convicted in any court of an offense (including an offense under section 922(x) or a similar State law, but not including any other offense consisting of conduct that if engaged in by an adult would not constitute an offense) or adjudicated as a juvenile delinquent for conduct that if engaged in by an adult would constitute an offense.
 
 (B) A person other than a juvenile who knowingly violates section 922(x)—
 
@@ -42,7 +42,7 @@
 
 (7) Whoever knowingly violates section 931 shall be fined under this title, imprisoned not more than 3 years, or both.
 
-(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
+(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for aterm exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
 
@@ -150,7 +150,7 @@
 
 (i)(1) A person who knowingly violates section 922(u) shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(2) Nothing contained in this subsection shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this subsection operate to the exclusion of State laws on the same subject matter, nor shall any provision of this subsection be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this subsection.
+(2) Nothing contained in this subsection shall be construed as indicating an intent on the partof Congress to occupy the field in which provisions of this subsection operate to the exclusion of State laws on the same subject matter, nor shall any provision of this subsection be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this subsection.
 
 (j) A person who, in the course of a violation of subsection (c), causes the death of a person through the use of a firearm, shall—
 
@@ -212,7 +212,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as 
 
 Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to section 5845(a) of Title 26.
 
-The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), istitle II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
@@ -294,7 +294,7 @@ Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted "fined under this ti
 
 Subsec. (c)(1). Pub. L. 103–322, §330011(j), amended directory language of Pub. L. 101–647, §3527. See 1990 Amendment note below.
 
-Pub. L. 103–322, §110510(b), which directed the amendment of subsec. (c)(1) by striking "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.", was executed by striking the last sentence, which read "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.", to reflect the probable intent of Congress.
+Pub. L. 103–322, §110510(b), which directed the amendment of subsec. (c)(1) by striking "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.", was executed by striking the last sentence,which read "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.", to reflect the probable intent of Congress.
 
 Pub. L. 103–322, §§110102(c)(2), 110105(2), as amended by Pub. L. 104–294, §603(p)(1), temporarily amended subsec. (c)(1) by inserting ", or semiautomatic assault weapon," after "short-barreled shotgun". See Effective and Termination Dates of 1994 Amendment note below.
 
@@ -368,13 +368,13 @@ Pub. L. 100–649, §2(b)(2), added subsec. (f) relating to penalty for violatin
 
 Subsec. (g). Pub. L. 100–690, §6211, added subsec. (g).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–308, §104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or inapplying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine."
+<b>1986</b>—Subsec. (a). Pub. L. 99–308, §104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or in applying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine."
 
 Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted "violence or drug trafficking crime," for "violence" in four places and inserted ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years" after "five years", ", and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years" after "ten years", and "or drug trafficking crime" before "in which the firearm was used or carried".
 
 Subsec. (c)(2), (3). Pub. L. 99–308, §104(a)(2)(F), added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 99–308, §104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter."
+Subsec. (d). Pub. L. 99–308, §104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture,and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter."
 
 Subsec. (d)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
@@ -435,4 +435,8 @@ Amendment by section 223(a) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+
+#### Effective Date
+
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 

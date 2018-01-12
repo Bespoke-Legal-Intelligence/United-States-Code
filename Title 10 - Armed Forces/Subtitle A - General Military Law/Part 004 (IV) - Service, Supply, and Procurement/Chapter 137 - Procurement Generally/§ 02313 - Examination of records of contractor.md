@@ -4,7 +4,7 @@
 
 Agency Authority.—(1) The head of an agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
 
-&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials,labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
+&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
@@ -72,7 +72,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term "records" includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat.502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
 
 Historical and Revision Notes
 
@@ -172,7 +172,7 @@ Review required.—The Secretary of Defense shall review the oversight and audit
 
 &emsp;"(2)
 
-Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in the report required under paragraph (3) for any necessary changes in law.
+Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in thereport required under paragraph (3) for any necessary changes in law.
 
 &emsp;"(3)
 
@@ -260,7 +260,7 @@ Flowdown.—A clause described in paragraph (2) shall also be required in any su
 
 "(b)
 
-Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
+Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
 
 "(c)
 
@@ -276,7 +276,7 @@ Sunset.—
 
 &emsp;"(1)
 
-In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded afterthe date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
+In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
 
 &emsp;"(2)
 

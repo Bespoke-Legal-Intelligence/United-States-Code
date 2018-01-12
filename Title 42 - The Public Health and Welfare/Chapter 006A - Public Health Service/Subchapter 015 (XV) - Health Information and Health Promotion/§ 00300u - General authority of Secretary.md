@@ -40,7 +40,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B) coordinate such activities with similar activities in the private sector;
 
-&emsp;&emsp;(C) establish a national information clearinghouse to facilitate the exchange of information concerning matters relating tohealth information and health promotion, preventive health services (which may include information concerning models and standards for insurance coverage of such services), and education in the appropriate use of health care, to facilitate access to such information, and to assist in the analysis of issues and problems relating to such matters; and
+&emsp;&emsp;(C) establish a national information clearinghouse to facilitate the exchange of information concerning matters relating to health information and health promotion, preventive health services (which may include information concerning models and standards for insurance coverage of such services), and education in the appropriate use of health care, to facilitate access to such information, and to assist in the analysis of issues and problems relating to such matters; and
 
 &emsp;&emsp;(D) support projects, conduct research, and disseminate information relating to preventive medicine, health promotion, and physical fitness and sports medicine.
 
@@ -98,7 +98,7 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 
 #### Executive Order No. 12345
 
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex.Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
+Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
 #### Ex. Ord. No. 13265. President's Council on Fitness, Sports, and Nutrition
 
@@ -152,9 +152,11 @@ Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition
 
-Term of President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -242,7 +244,7 @@ Sec. 2. <i>Policy</i>. In fulfilling its responsibilities, the work of the Natio
 
 (d) Promotes a more effective marketplace, greater competition, and increased choice through the wider availability of accurate information on health care costs, quality, and outcomes;
 
-(e) Improves the coordination of care and information among hospitals, laboratories, physician offices, and other ambulatory care providers through an effectiveinfrastructure for the secure and authorized exchange of health care information; and
+(e) Improves the coordination of care and information among hospitals, laboratories, physician offices, and other ambulatory care providers through an effective infrastructure for the secure and authorized exchange of health care information; and
 
 (f) Ensures that patients' individually identifiable health information is secure and protected.
 
@@ -304,7 +306,7 @@ Sec. 3. <i>Directives for Agencies</i>. Agencies shall perform the following fun
 
 (a) Health Information Technology.
 
-(1) For Federal Agencies. As each agency implements, acquires, or upgrades health information technology systems used for the direct exchange of health information between agencies and with non-Federal entities, itshall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
+(1) For Federal Agencies. As each agency implements, acquires, or upgrades health information technology systems used for the direct exchange of health information between agencies and with non-Federal entities, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
 
 (2) For Contracting Purposes. Each agency shall require in contracts or agreements with health care providers, health plans, or health insurance issuers that as each provider, plan, or issuer implements, acquires, or upgrades health information technology systems, it shall utilize, where available, health information technology systems and products that meet recognized interoperability standards.
 

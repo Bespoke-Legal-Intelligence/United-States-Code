@@ -1,0 +1,44 @@
+### §2902. Objectives of records management
+
+It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to require the establishment of standards and procedures to assure efficient and effective records management. Such records management standards and procedures shall seek to implement the following goals:
+
+&emsp;(1) Accurate and complete documentation of the policies and transactions of the Federal Government.
+
+&emsp;(2) Control of the quantity and quality of records produced by the Federal Government.
+
+&emsp;(3) Establishment and maintenance of mechanisms of control with respect to records creation in order to prevent the creation of unnecessary records and with respect to the effective and economical operations of an agency.
+
+&emsp;(4) Simplification of the activities, systems, and processes of records creation, maintenance, transfer, and use.
+
+&emsp;(5) Judicious preservation and disposal of records.
+
+&emsp;(6) Direction of continuing attention on records from their initial creation to their final disposition, with particular emphasis on the prevention of unnecessary Federal paperwork and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible.
+
+&emsp;(7) Establishment and maintenance of such other systems or techniques as the Archivist or the Administrator considers necessary to carry out the purposes of this chapter, and chapters 21, 31, and 33 of this title.
+
+(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2724; amended Pub. L. 98–497, title I, §107(b)(14), Oct. 19, 1984, 98 Stat. 2288; Pub. L. 113–187, §9(a), Nov. 26, 2014, 128 Stat. 2012; Pub. L. 115–85, §2(a)(1), Nov. 21, 2017, 131 Stat. 1274.)
+
+#### Prior Provisions
+
+A prior section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, related to activities of the Administrator of General Services with respect to records management, surveys, and reports, prior to repeal by Pub. L. 94–575, §2(a)(1). See section 2904 of this title.
+
+#### Amendments
+
+<b>2017</b>—Par. (7). Pub. L. 115–85, §2(a)(1), amended Pub. L. 113–187, §9(a)(3). See 2014 Amendment note below.
+
+<b>2014</b>—Par. (4). Pub. L. 113–187, §9(a)(1), substituted "creation, maintenance, transfer, and use" for "creation and of records maintenance and use".
+
+Par. (6). Pub. L. 113–187, §9(a)(2), inserted before period at end "and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible".
+
+Par. (7). Pub. L. 113–187, §9(a)(3), as amended by Pub. L. 115–85, §2(a)(1), substituted "the Archivist or the Administrator" for "the Administrator or the Archivist".
+
+<b>1984</b>—Par. (7). Pub. L. 98–497 inserted "or the Archivist" after "Administrator".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–85, §2(b), Nov. 21, 2017, 131 Stat. 1275, provided that: "The amendments made by this section \[amending this section and sections 2904, 2906, and 3102 of this title\] shall take effect as if included in the Presidential and Federal Records Act Amendments of 2014 (Public Law 113–187)."
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+

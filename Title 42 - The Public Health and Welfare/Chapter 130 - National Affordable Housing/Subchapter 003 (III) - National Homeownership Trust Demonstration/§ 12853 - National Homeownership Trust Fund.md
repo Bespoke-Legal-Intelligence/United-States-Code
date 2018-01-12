@@ -24,7 +24,7 @@ Any amounts in the Fund determined by the Trust to be in excess of the amounts c
 
 #### (e) Demonstration programs
 
-Using not more than $20,000,000 of any amounts appropriated for the Fund under section 12857 of this title in fiscal year 1991, theSecretary shall carry out demonstration programs for combining housing activities and economic development activities, as follows:
+Using not more than $20,000,000 of any amounts appropriated for the Fund under section 12857 of this title in fiscal year 1991, the Secretary shall carry out demonstration programs for combining housing activities and economic development activities, as follows:
 
 &emsp;(1) In Milwaukee, Wisconsin, in an amount not to exceed $4,200,000, for development, rehabilitation, and revitalization of 2 vacant structures in a blighted minority neighborhood.
 

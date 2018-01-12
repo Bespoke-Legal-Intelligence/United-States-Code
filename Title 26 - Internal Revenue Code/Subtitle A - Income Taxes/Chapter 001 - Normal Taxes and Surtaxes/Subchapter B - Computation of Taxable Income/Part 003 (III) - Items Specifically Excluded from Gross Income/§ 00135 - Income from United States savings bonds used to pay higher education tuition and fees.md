@@ -26,7 +26,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (A) In general
 
-&emsp;&emsp;If the modified adjusted gross income of the taxpayer for the taxable year exceeds$40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
+&emsp;&emsp;If the modified adjusted gross income of the taxpayer for the taxable year exceeds $40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
 
 #### (B) Inflation adjustment
 
@@ -34,11 +34,11 @@ In the case of an individual who pays qualified higher education expenses during
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 1989" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 1989" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (C) Rounding
 
-&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
+&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, suchamount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
 
 #### (c) Definitions
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;The term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 137, 199, 221, 222, 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 469, and 219.
 
@@ -116,9 +116,9 @@ For purposes of this section—
 
 #### (4) Regulations
 
-&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate tocarry out this section, including regulations requiring record keeping and information reporting.
+&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 115–97, title I, §§11002(d)(1)(M), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -129,6 +129,10 @@ For purposes of this section—
 A prior section 135 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(B)(ii). Pub. L. 115–97, §11002(d)(1)(M), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (c)(4)(A). Pub. L. 115–97, §13305(b)(1), struck out "199," before "221".
 
 <b>2004</b>—Subsec. (c)(4)(A). Pub. L. 108–357 inserted "199," before "221".
 
@@ -176,6 +180,12 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out "(A) or" after "
 
 <b>1989</b>—Subsec. (d)(1). Pub. L. 101–239 substituted "subsection (a) with respect to" for "subsection (a) respect to".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(M) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
@@ -200,7 +210,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d) of Pub. L. 105–34 applicable to expenses paid after Dec. 31, 1997 (in taxable years ending after such date), for education furnished in academic periods beginning after such date, see section 201(f) of Pub. L. 105–34, set out as an Effective Date note under section 25A of this title.
 
-Amendment by section 211(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 211(f) of Pub. L. 105–34, set out as a note under section 529 of this title.
+Amendment by section 211(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 211(f) of Pub. L. 105–34, set out as a note under section 529 of this title.
 
 Amendment by section 213(e)(2) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 

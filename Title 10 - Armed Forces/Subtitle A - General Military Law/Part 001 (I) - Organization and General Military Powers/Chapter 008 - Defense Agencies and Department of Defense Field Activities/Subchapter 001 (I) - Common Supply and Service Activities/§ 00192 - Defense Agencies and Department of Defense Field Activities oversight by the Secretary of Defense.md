@@ -34,13 +34,13 @@ Special Rule for Defense Commissary Agency.—Notwithstanding the results of any
 
 Special Rule for Defense Business Transformation Agency.—(1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
 
-(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
+(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.<sup>1</sup>
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L.110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5,1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597.)
 
-#### Reference in Subsection (e)(2)
+#### References in Text
 
-<i>Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.</i>
+The Deputy Chief Management Officer of the Department of Defense, referred to in subsec. (e)(2), was established by section 132a of this title prior to the general amendment of that section by Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516. As amended by Pub. L. 115–91, section 132a of this title established the Chief Management Officer of the Department of Defense.
 
 #### Prior Provisions
 
@@ -60,9 +60,11 @@ Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted "that the Director of t
 
 #### Change of Name
 
-Reference to "Deputy Chief Management Officer of the Department of Defense" in subsec. (e)(2) deemed to refer to "Under Secretary of Defense for Business Management and Information" after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.
+Reference to "Deputy Chief Management Officer of the Department of Defense" in subsec. (e)(2) was to be deemed to refer to "Under Secretary of Defense for Business Management and Information" after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, formerly set out as a References note under section 131 of this title. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016. Section 901(n)(1) of Pub. L. 113–291 was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
 
 #### First Review of Defense Agencies by Secretary of Defense
 
 Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

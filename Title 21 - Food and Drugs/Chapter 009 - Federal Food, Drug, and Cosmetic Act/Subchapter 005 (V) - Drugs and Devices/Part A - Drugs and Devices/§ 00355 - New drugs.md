@@ -6,7 +6,7 @@ No person shall introduce or deliver for introduction into interstate commerce a
 
 #### (b) Filing application; contents
 
-(1) Any person may file with the Secretary an application with respect to any drug subject to the provisions of subsection (a). Such person shall submit to the Secretary as a part of the application (A) full reports of investigations which have been made to show whether or not such drug is safe for use and whether such drug is effective in use; (B) a full list of the articles used as components of such drug; (C) a full statement of the composition of such drug; (D) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such drug; (E) such samples of such drug and of the articles used as components thereof as the Secretary may require; (F) specimens of the labeling proposed to be used for such drug, and (G) any assessments required under section 355c of this title. The applicant shall file with the application the patent number and the expiration date of any patent which claims the drug for which the applicant submitted the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably be asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug. If an application is filed under this subsection for a drug anda patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, the applicant shall amend the application to include the information required by the preceding sentence. Upon approval of the application, the Secretary shall publish information submitted under the two preceding sentences. The Secretary shall, in consultation with the Director of the National Institutes of Health and with representatives of the drug manufacturing industry, review and develop guidance, as appropriate, on the inclusion of women and minorities in clinical trials required by clause (A).
+(1) Any person may file with the Secretary an application with respect to any drug subject to the provisions of subsection (a). Such person shall submit to the Secretary as a part of the application (A) full reports of investigations which have been made to show whether or not such drug is safe for use and whether such drug is effective in use; (B) a full list of the articles used as components of such drug; (C) a full statement of the composition of such drug; (D) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such drug; (E) such samples of such drug and of the articles used as components thereof as the Secretary may require; (F) specimens of the labeling proposed to be used for such drug, and (G) any assessments required under section 355c of this title. The applicant shall file with the application the patent number and the expiration date of any patent which claims the drug for which the applicant submitted the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably be asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug. If an application is filed under this subsection for a drug and a patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, the applicant shall amend the application to include the information required by the preceding sentence. Upon approval of the application, the Secretary shall publish information submitted under the two preceding sentences. The Secretary shall, in consultation with the Director of the National Institutes of Health and with representatives of the drug manufacturing industry, review and develop guidance, as appropriate, on the inclusion of women and minorities in clinical trials required by clause (A).
 
 (2) An application submitted under paragraph (1) for a drug for which the investigations described in clause (A) of such paragraph and relied upon by the applicant for approval of the application were not conducted by or for the applicant and for which the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted shall also include—
 
@@ -68,7 +68,7 @@ Contents of notice.—A notice required under this paragraph shall—
 
 &emsp;(ii) with respect to an application for approval of a biological product under section 262(k) of title 42, of any necessary clinical study or studies.
 
-> The sponsor or applicant shall provide information necessary for discussion and agreement onthe design and size of the clinical trials. Minutes of any such meeting shall be prepared by the Secretary and made available to the sponsor or applicant upon request.
+> The sponsor or applicant shall provide information necessary for discussion and agreement on the design and size of the clinical trials. Minutes of any such meeting shall be prepared by the Secretary and made available to the sponsor or applicant upon request.
 
 (C) Any agreement regarding the parameters of the design and size of clinical trials of a new drug under this paragraph that is reached between the Secretary and a sponsor or applicant shall be reduced to writing and made part of the administrative record by the Secretary. Such agreement shall not be changed after the testing begins, except—
 
@@ -102,7 +102,7 @@ Contents of notice.—A notice required under this paragraph shall—
 
 &emsp;(B) If the applicant made a certification described in clause (iii) of subsection (b)(2)(A), the approval may be made effective on the date certified under clause (iii).
 
-&emsp;(C) If the applicant made a certification described in clause (iv) of subsection (b)(2)(A), the approval shall be made effective immediately unless, before the expiration of 45 days after the date on which the notice described in subsection (b)(3) is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under paragraph (2) or subsection (b)(1) before the date on which the application (excluding an amendment or supplement to the application) was submitted. If such an action is brought before the expiration of such days, the approval may be made effective upon the expiration of the thirty-month period beginning on the date of the receipt of the notice provided under subsection (b)(3) or such shorter or longer period as the court may order because either party to the action failed to reasonablycooperate in expediting the action, except that—
+&emsp;(C) If the applicant made a certification described in clause (iv) of subsection (b)(2)(A), the approval shall be made effective immediately unless, before the expiration of 45 days after the date on which the notice described in subsection (b)(3) is received, an action is brought for infringement of the patent that is the subject of the certification and for which information was submitted to the Secretary under paragraph (2) or subsection (b)(1) before the date on which the application (excluding an amendment or supplement to the application) was submitted. If such an action is brought before the expiration of such days, the approval may be made effective upon the expiration of the thirty-month period beginning on the date of the receipt of the notice provided under subsection (b)(3) or such shorter or longer period as the court may order because either party to the action failed to reasonably cooperate in expediting the action, except that—
 
 &emsp;&emsp;(i) if before the expiration of such period the district court decides that the patent is invalid or not infringed (including any substantive determination that there is no cause of action for patent infringement or invalidity), the approval shall be made effective on—
 
@@ -150,7 +150,7 @@ Filing of civil action.—If the conditions described in items (aa), (bb), and a
 
 &emsp;&emsp;&emsp;(III)
 
-Offer of confidential access to application.—For purposes of subclause (I)(cc), the document described in this subclause is a document providing an offer of confidential access to the application that is in the custody of the applicant referred to in subsection (b)(2) for the purpose of determining whether an action referred to in subparagraph (C) should be brought. The document providing the offer of confidential access shall contain such restrictions as to persons entitled to access, and on the use and disposition of any information accessed, as would apply had a protective order been entered for the purpose of protecting trade secrets and other confidential business information. A request for access to an application under an offer of confidential access shall be considered acceptance of the offer of confidential access with the restrictions as to persons entitled to access, and on the use and disposition of any information accessed, contained in the offer of confidential access, and those restrictions and other terms of the offer of confidential access shall be considered terms of an enforceable contract. Any person provided an offer of confidential access shall review the application for the sole and limited purpose of evaluating possible infringement of the patent that is the subject of the certification under subsection\(b)(2)(A)(iv) and for no other purpose, and may not disclose information of no relevance to any issue of patent infringement to any person other than a person provided an offer of confidential access. Further, the application may be redacted by the applicant to remove any information of no relevance to any issue of patent infringement.
+Offer of confidential access to application.—For purposes of subclause (I)(cc), the document described in this subclause is a document providing an offer of confidential access to the application that is in the custody of the applicant referred to in subsection (b)(2) for the purpose of determining whether an action referred to in subparagraph (C) should be brought. The document providing the offer of confidential access shall contain such restrictions as to persons entitled to access, and on the use and disposition of any information accessed, as would apply had a protective order been entered for the purpose of protecting trade secrets and other confidential business information. A request for access to an application under an offer of confidential access shall be considered acceptance of the offer of confidential access with the restrictions as to persons entitled to access, and on the use and disposition of any information accessed, contained in the offer of confidential access, and those restrictions and other terms of the offer of confidential access shall be considered terms of an enforceable contract. Any person provided an offer of confidential access shall review the application for the sole and limited purpose of evaluating possible infringement of the patent that is the subject of the certification under subsection (b)(2)(A)(iv) and for no other purpose, and may not disclose information of no relevance to any issue of patent infringement to any person other than a person provided an offer of confidential access. Further, the application may be redacted by the applicant to remove any information of no relevance to any issue of patent infringement.
 
 &emsp;&emsp;(ii)
 
@@ -180,7 +180,7 @@ No damages.—An applicant shall not be entitled to damages in a civil action un
 
 &emsp;(iv) If a supplement to an application approved under subsection (b) is approved after September 24, 1984, and the supplement contains reports of new clinical investigations (other than bioavailabilty <sup>1</sup> studies) essential to the approval of the supplement and conducted or sponsored by the person submitting the supplement, the Secretary may not make the approval of an application submitted under subsection (b) for a change approved in the supplement effective before the expiration of three years from the date of the approval of the supplement under subsection (b) if the investigations described in clause (A) of subsection (b)(1) and relied upon by the applicant for approval of the application were not conducted by or for the applicant and if the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted.
 
-&emsp;(v) If an application (or supplement to an application) submitted under subsection (b) for adrug, which includes an active ingredient (including any ester or salt of the active ingredient) that has been approved in another application under subsection (b), was approved during the period beginning January 1, 1982, and ending on September 24, 1984, the Secretary may not make the approval of an application submitted under this subsection and for which the investigations described in clause (A) of subsection (b)(1) and relied upon by the applicant for approval of the application were not conducted by or for the applicant and for which the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted and which refers to the drug for which the subsection (b) application was submitted effective before the expiration of two years from September 24, 1984.
+&emsp;(v) If an application (or supplement to an application) submitted under subsection (b) for a drug, which includes an active ingredient (including any ester or salt of the active ingredient) that has been approved in another application under subsection (b), was approved during the period beginning January 1, 1982, and ending on September 24, 1984, the Secretary may not make the approval of an application submitted under this subsection and for which the investigations described in clause (A) of subsection (b)(1) and relied upon by the applicant for approval of the application were not conducted by or for the applicant and for which the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted and which refers to the drug for which the subsection (b) application was submitted effective before the expiration of two years from September 24, 1984.
 
 (4) A drug manufactured in a pilot or other small facility may be used to demonstrate the safety and effectiveness of the drug and to obtain approval for the drug prior to manufacture of the drug in a larger facility, unless the Secretary makes a determination that a full scale production facility is necessary to ensure the safety or effectiveness of the drug.
 
@@ -226,7 +226,7 @@ Orders of the Secretary issued under this section shall be served (1) in person 
 
 #### (h) Appeal from order
 
-An appeal may be taken by the applicant from an order of the Secretary refusing or withdrawing approval of an application under this section. Such appeal shall be taken by filing in the United States court of appeals for the circuit wherein such applicant resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within sixty days after the entry of such order, a written petition praying that the order of the Secretary be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall certify and file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have exclusive jurisdiction to affirm or set aside such order, except that until the filing of the record the Secretary may modify or set aside his order. No objection to the order of the Secretary shall be considered by the court unless such objection shall have been urged before the Secretary or unless there were reasonable grounds for failure so to do. The finding of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive. If any person shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be adducedupon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts by reason of the additional evidence so taken, and he shall file with the court such modified findings which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the setting aside of the original order. The judgment of the court affirming or setting aside any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this subsection shall not, unless specifically ordered by the court to the contrary, operate as a stay of the Secretary's order.
+An appeal may be taken by the applicant from an order of the Secretary refusing or withdrawing approval of an application under this section. Such appeal shall be taken by filing in the United States court of appeals for the circuit wherein such applicant resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within sixty days after the entry of such order, a written petition praying that the order of the Secretary be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall certify and file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have exclusive jurisdiction to affirm or set aside such order, except that until the filing of the record the Secretary may modify or set aside his order. No objection to the order of the Secretary shall be considered by the court unless such objection shall have been urged before the Secretary or unless there were reasonable grounds for failure so to do. The finding of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive. If any person shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts by reason of the additional evidence so taken, and he shall file with the court such modified findings which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the setting aside of the original order. The judgment of the court affirming or setting aside any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this subsection shall not, unless specifically ordered by the court to the contrary, operate as a stay of the Secretary's order.
 
 #### (i) Exemptions of drugs for research; discretionary and mandatory conditions; direct reports to Secretary
 
@@ -322,7 +322,7 @@ Recipients of notice.—An applicant required under this subparagraph to give no
 
 Contents of notice.—A notice required under this subparagraph shall—
 
-&emsp;&emsp;(I) state that an application that contains data from bioavailability or bioequivalencestudies has been submitted under this subsection for the drug with respect to which the certification is made to obtain approval to engage in the commercial manufacture, use, or sale of the drug before the expiration of the patent referred to in the certification; and
+&emsp;&emsp;(I) state that an application that contains data from bioavailability or bioequivalence studies has been submitted under this subsection for the drug with respect to which the certification is made to obtain approval to engage in the commercial manufacture, use, or sale of the drug before the expiration of the patent referred to in the certification; and
 
 &emsp;&emsp;(II) include a detailed statement of the factual and legal basis of the opinion of the applicant that the patent is invalid or will not be infringed.
 
@@ -370,7 +370,7 @@ Contents of notice.—A notice required under this subparagraph shall—
 
 &emsp;&emsp;(I) that the other active ingredients are the same as the active ingredients of the listed drug, or
 
-&emsp;&emsp;(II) that the different active ingredient is an active ingredient of a listed drug or adrug which does not meet the requirements of section 321(p) of this title,
+&emsp;&emsp;(II) that the different active ingredient is an active ingredient of a listed drug or a drug which does not meet the requirements of section 321(p) of this title,
 
 > &emsp;or no petition to file an application for the drug with the different ingredient was approved under paragraph (2)(C);
 
@@ -460,6 +460,36 @@ In general.—The term "tentative approval" means notification to an applicant b
 
 Limitation.—A drug that is granted tentative approval by the Secretary is not an approved drug and shall not have an effective approval until the Secretary issues an approval after any necessary additional review of the application.
 
+&emsp;(v) 180-
+
+day exclusivity period for competitive generic therapies.—
+
+&emsp;&emsp;(I)
+
+Effectiveness of application.—Subject to subparagraph (D)(iv), if the application is for a drug that is the same as a competitive generic therapy for which any first approved applicant has commenced commercial marketing, the application shall be made effective on the date that is 180 days after the date of the first commercial marketing of the competitive generic therapy (including the commercial marketing of the listed drug) by any first approved applicant.
+
+&emsp;&emsp;(II)
+
+Limitation.—The exclusivity period under subclause (I) shall not apply with respect to a competitive generic therapy that has previously received an exclusivity period under subclause (I).
+
+&emsp;&emsp;(III)
+
+Definitions.—In this clause and subparagraph (D)(iv):
+
+&emsp;&emsp;&emsp;(aa) The term "competitive generic therapy" means a drug—
+
+&emsp;&emsp;&emsp;&emsp;(AA) that is designated as a competitive generic therapy under section 356h of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(BB) for which there are no unexpired patents or exclusivities on the list of products described in section 355(j)(7)(A) of this title at the time of submission.
+
+&emsp;&emsp;&emsp;(bb) The term "first approved applicant" means any applicant that has submitted an application that—
+
+&emsp;&emsp;&emsp;&emsp;(AA) is for a competitive generic therapy that is approved on the first day on which any application for such competitive generic therapy is approved;
+
+&emsp;&emsp;&emsp;&emsp;(BB) is not eligible for a 180-day exclusivity period under clause (iv) for the drug that is the subject of the application for the competitive generic therapy; and
+
+&emsp;&emsp;&emsp;&emsp;(CC) is not for a drug for which all drug versions have forfeited eligibility for a 180-day exclusivity period under clause (iv) pursuant to subparagraph (D).
+
 (C)
 
 Civil action to obtain patent certainty.—
@@ -480,7 +510,7 @@ In general.—No action may be brought under section 2201 of title 28 by an appl
 
 &emsp;&emsp;(II)
 
-Filing of civil action.—If the conditions described in items (aa), (bb), and as applicable, (cc) of subclause (I) have been met, the applicant referred to in such subclause may, in accordance with section 2201 of title 28, bring a civil action under such section against the owner or holder referred to in such subclause (but not against any owner or holder that has brought such a civil action against the applicant, unless that civil action was dismissed without prejudice) for a declaratory judgment that the patent is invalid or will not be infringed by the drug for which the applicant seeks approval, except that such civil action may be brought for a declaratory judgment that the patentwill not be infringed only in a case in which the condition described in subclause (I)(cc) is applicable. A civil action referred to in this subclause shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.
+Filing of civil action.—If the conditions described in items (aa), (bb), and as applicable, (cc) of subclause (I) have been met, the applicant referred to in such subclause may, in accordance with section 2201 of title 28, bring a civil action under such section against the owner or holder referred to in such subclause (but not against any owner or holder that has brought such a civil action against the applicant, unless that civil action was dismissed without prejudice) for a declaratory judgment that the patent is invalid or will not be infringed by the drug for which the applicant seeks approval, except that such civil action may be brought for a declaratory judgment that the patent will not be infringed only in a case in which the condition described in subclause (I)(cc) is applicable. A civil action referred to in this subclause shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.
 
 &emsp;&emsp;(III)
 
@@ -564,6 +594,10 @@ Subsequent applicant.—If all first applicants forfeit the 180-day exclusivity 
 
 &emsp;&emsp;(II) no applicant shall be eligible for a 180-day exclusivity period.
 
+&emsp;(iv)
+
+Special forfeiture rule for competitive generic therapy.—The 180-day exclusivity period described in subparagraph (B)(v) shall be forfeited by a first approved applicant if the applicant fails to market the competitive generic therapy within 75 days after the date on which the approval of the first approved applicant's application for the competitive generic therapy is made effective.
+
 (E) If the Secretary decides to disapprove an application, the Secretary shall give the applicant notice of an opportunity for a hearing before the Secretary on the question of whether such application is approvable. If the applicant elects to accept the opportunity for hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary's order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
 
 (F)(i) If an application (other than an abbreviated new drug application) submitted under subsection (b) for a drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under subsection (b), was approved during the period beginning January 1, 1982, and ending on September 24, 1984, the Secretary may not make the approval of an application submitted under this subsection which refers to the drug for which the subsection (b) application was submitted effective before the expiration of ten years from the date of the approval of the application under subsection (b).
@@ -630,7 +664,7 @@ Subsequent applicant.—If all first applicants forfeit the 180-day exclusivity 
 
 > The information the Secretary is required to maintain under this paragraph with respect to an application submitted under this subsection shall be made available to the public after the approval of such application.
 
-(10)(A) If the proposed labeling of a drug that is the subject of an application under this subsection differs from the listed drug due to a labeling revision described under clause (i), thedrug that is the subject of such application shall, notwithstanding any other provision of this chapter, be eligible for approval and shall not be considered misbranded under section 352 of this title if—
+(10)(A) If the proposed labeling of a drug that is the subject of an application under this subsection differs from the listed drug due to a labeling revision described under clause (i), the drug that is the subject of such application shall, notwithstanding any other provision of this chapter, be eligible for approval and shall not be considered misbranded under section 352 of this title if—
 
 &emsp;(i) the application is otherwise eligible for approval under this subsection but for expiration of patent, an exclusivity period, or of a delay in approval described in paragraph (5)(B)(iii), and a revision to the labeling of the listed drug has been approved by the Secretary within 60 days of such expiration;
 
@@ -640,7 +674,23 @@ Subsequent applicant.—If all first applicants forfeit the 180-day exclusivity 
 
 &emsp;(iv) such application otherwise meets the applicable requirements for approval under this subsection.
 
-(B) If, after a labeling revision described in subparagraph (A)(i), the Secretary determines that the continued presence in interstate commerce of the labeling of the listed drug (as in effect before the revision described in subparagraph (A)(i)) adversely impacts the safe use of the drug, no application under this subsection shall be eligible for approval with such labeling.
+(B) If, after a labeling revision described in subparagraph (A)(i), the Secretary determinesthat the continued presence in interstate commerce of the labeling of the listed drug (as in effect before the revision described in subparagraph (A)(i)) adversely impacts the safe use of the drug, no application under this subsection shall be eligible for approval with such labeling.
+
+(11)(A) Subject to subparagraph (B), the Secretary shall prioritize the review of, and act within 8 months of the date of the submission of, an original abbreviated new drug application submitted for review under this subsection that is for a drug—
+
+&emsp;(i) for which there are not more than 3 approved drug products listed under paragraph (7) and for which there are no blocking patents and exclusivities; or
+
+&emsp;(ii) that has been included on the list under section 356e of this title.
+
+(B) To qualify for priority review under this paragraph, not later than 60 days prior to the submission of an application described in subparagraph (A) or that the Secretary may prioritize pursuant to subparagraph (D), the applicant shall provide complete, accurate information regarding facilities involved in manufacturing processes and testing of the drug that is the subject of the application, including facilities in corresponding Type II active pharmaceutical ingredients drug master files referenced in an application and sites or organizations involved in bioequivalence and clinical studies used to support the application, to enable the Secretary to make a determination regarding whether an inspection of a facility is necessary. Such information shall include the relevant (as determined by the Secretary) sections of such application, which shall be unchanged relative to the date of the submission of such application, except to the extent that a change is made to such information to exclude a facility that was not used to generate data to meet any application requirements for such submission and that is not the only facility intended to conduct one or more unit operations in commercial production. Information provided by an applicant under this subparagraph shall not be considered the submission of an application under this subsection.
+
+(C) The Secretary may expedite an inspection or reinspection under section 374 of this title of an establishment that proposes to manufacture a drug described in subparagraph (A).
+
+(D) Nothing in this paragraph shall prevent the Secretary from prioritizing the review of other applications as the Secretary determines appropriate.
+
+(12) The Secretary shall publish on the internet website of the Food and Drug Administration, and update at least once every 6 months, a list of all drugs approved under subsection (c) for which all patents and periods of exclusivity under this chapter have expired and for which no application has been approved under this subsection.
+
+(13) Upon the request of an applicant regarding one or more specified pending applications under this subsection, the Secretary shall, as appropriate, provide review status updates indicating the categorical status of the applications by each relevant review discipline.
 
 #### (k) Records and reports; required information; regulations and orders; access to records
 
@@ -752,7 +802,7 @@ Procedures for the development of drug safety collaborations.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 180 days after the date of the establishment of the active postmarket risk identification and analysis system under this subsection, the Secretary shall establish and implement procedures under which the Secretary may routinely contract with one or more qualified entities to—
+In general.—Not later than 180 days after the date of the establishment of the active postmarket risk identification andanalysis system under this subsection, the Secretary shall establish and implement procedures under which the Secretary may routinely contract with one or more qualified entities to—
 
 &emsp;&emsp;&emsp;(I) classify, analyze, or aggregate data described in paragraph (3)(C) and information that is publicly available or is provided by the Secretary;
 
@@ -770,7 +820,7 @@ In general.—Not later than 180 days after the date of the establishment of the
 
 &emsp;&emsp;(ii)
 
-Request for specific methodology.—The procedures described in clause (i) shallpermit the Secretary to request that a specific methodology be used by the qualified entity. The qualified entity shall work with the Secretary to finalize the methodology to be used.
+Request for specific methodology.—The procedures described in clause (i) shall permit the Secretary to request that a specific methodology be used by the qualified entity. The qualified entity shall work with the Secretary to finalize the methodology to be used.
 
 &emsp;(E)
 
@@ -840,7 +890,7 @@ Competitive procedures.—The Secretary shall use competitive procedures (as def
 
 &emsp;(I)
 
-Review of contract in the event of a merger or acquisition.—The Secretary shall review the contract with a qualified entity under this paragraph in the event of a merger or acquisition of the entity in order to ensure that the requirements under this paragraph will continue to be met.
+Review of contract in the event of a merger or acquisition.—The Secretary shall review the contract with a qualified entityunder this paragraph in the event of a merger or acquisition of the entity in order to ensure that the requirements under this paragraph will continue to be met.
 
 &emsp;(J)
 
@@ -942,7 +992,7 @@ For purposes of this section, the term "patent" means a patent issued by the Uni
 
 &emsp;(D) two or more members who are specialists or have other expertise in the particular disease or condition for which the drug under review is proposed to be indicated.
 
-> Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ ofthe United States and engaged in the administration of this chapter may be a voting member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
+> Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a voting member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
 
 (4) The Secretary shall, as appropriate, provide education and training to each new panel member before such member participates in a panel's activities, including education regarding requirements under this chapter and related regulations of the Secretary, and the administrative processes and procedures related to panel meetings.
 
@@ -1016,7 +1066,7 @@ For purposes of this section, the term "patent" means a patent issued by the Uni
 
 #### (i) Notification
 
-&emsp;&emsp;&emsp;The Secretary shall notify the responsible person regarding a requirement under this paragraph to conduct a postapprovalstudy or clinical trial by the target dates for communication of feedback from the review team to the responsible person regarding proposed labeling and postmarketing study commitments as set forth in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
+&emsp;&emsp;&emsp;The Secretary shall notify the responsible person regarding a requirement under this paragraph to conduct a postapproval study or clinical trial by the target dates for communication of feedback from the review team to the responsible person regarding proposed labeling and postmarketing study commitments as set forth in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
 
 #### (ii) Timetable; periodic reports
 
@@ -1062,7 +1112,7 @@ For purposes of this section, the term "patent" means a patent issued by the Uni
 
 #### (H) Public health threat
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) through (F), if the Secretary concludes thatsuch a labeling change is necessary to protect the public health, the Secretary may accelerate the timelines in such subparagraphs.
+&emsp;&emsp;Notwithstanding subparagraphs (A) through (F), if the Secretary concludes that such a labeling change is necessary to protect the public health, the Secretary may accelerate the timelines in such subparagraphs.
 
 #### (I) Rule of construction
 
@@ -1172,7 +1222,7 @@ For purposes of this section, the term "patent" means a patent issued by the Uni
 
 &emsp;&emsp;&emsp;(ii) the Secretary's response to such petition, if issued; and
 
-&emsp;&emsp;&emsp;(iii) other information, as designated by the Secretary, related to the Secretary's determinations regarding the issues raised in such petition, as long as the information was considered by the agency no later than the date of final agency action as defined under subparagraph (2)(A), and regardless of whether the Secretary responded to the petition at or before the approval of the application at issue in the petition.
+&emsp;&emsp;&emsp;(iii) other information, as designated by the Secretary, related to the Secretary'sdeterminations regarding the issues raised in such petition, as long as the information was considered by the agency no later than the date of final agency action as defined under subparagraph (2)(A), and regardless of whether the Secretary responded to the petition at or before the approval of the application at issue in the petition.
 
 #### (3) Annual report on delays in approvals per petitions
 
@@ -1328,7 +1378,7 @@ Prior to the approval of a drug no active ingredient (including any ester or sal
 
 #### (A) No approval in certain therapeutic categories
 
-&emsp;&emsp;Until the date that is 10 years after the date of approval of a non-racemic drug described in paragraph (1) and with respect to which the applicant has made the election provided for by such paragraph, the Secretary shall not approve such non-racemic drug for any condition of use in the therapeutic category in which the racemic drug has been approved.
+&emsp;&emsp;Until the date that is 10 years after the date of approval of a non-racemic drug described in paragraph (1) and with respect to which the applicant has made the electionprovided for by such paragraph, the Secretary shall not approve such non-racemic drug for any condition of use in the therapeutic category in which the racemic drug has been approved.
 
 #### (B) Labeling
 
@@ -1346,7 +1396,7 @@ Prior to the approval of a drug no active ingredient (including any ester or sal
 
 #### (4) Availability
 
-&emsp;The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007, and before October 1, 2017.
+&emsp;The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007, and before October 1, 2022.
 
 #### (v) Antibiotic drugs submitted before November 21, 1997
 
@@ -1354,7 +1404,7 @@ Prior to the approval of a drug no active ingredient (including any ester or sal
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any provision of the Food and Drug Administration Modernization Actof 1997 or any other provision of law, a sponsor of a drug that is the subject of an application described in subparagraph (B)(i) shall be eligible for, with respect to the drug, the 3-year exclusivity period referred to under clauses (iii) and (iv) of subsection (c)(3)(E) and under clauses (iii) and (iv) of subsection (j)(5)(F), subject to the requirements of such clauses, as applicable.
+&emsp;&emsp;Notwithstanding any provision of the Food and Drug Administration Modernization Act of 1997 or any other provision of law, a sponsor of a drug that is the subject of an application described in subparagraph (B)(i) shall be eligible for, with respect to the drug, the 3-year exclusivity period referred to under clauses (iii) and (iv) of subsection (c)(3)(E) and under clauses (iii) and (iv) of subsection (j)(5)(F), subject to the requirements of such clauses, as applicable.
 
 #### (B) Application; antibiotic drug described
 
@@ -1404,7 +1454,7 @@ Prior to the approval of a drug no active ingredient (including any ester or sal
 
 #### (w) Deadline for determination on certain petitions
 
-The Secretary shall issue a final, substantive determination on a petition submitted pursuant to subsection (b) of section 314.161 of title 21, Code of Federal Regulations (or any successor regulations), no later than 270 days after the date the petition is submitted.
+The Secretary shall issue a final, substantive determination on a petition submitted pursuantto subsection (b) of section 314.161 of title 21, Code of Federal Regulations (or any successor regulations), no later than 270 days after the date the petition is submitted.
 
 #### (x) Date of approval in the case of recommended controls under the CSA
 
@@ -1420,7 +1470,29 @@ The Secretary shall issue a final, substantive determination on a petition submi
 
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the drug.
 
-(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a),Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–109, §15(c)(1), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 108–155, §2(b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §§1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, 117 Stat. 2448, 2452, 2457, 2460; Pub. L. 110–85, title VII, §701(b), title VIII, §801(b)(3)(A), (B), title IX, §§901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, §1113, Sept. 27, 2007, 121 Stat. 903, 921, 922, 943, 944, 953, 957, 958, 960–962, 976; Pub. L. 110–316, title III, §301, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 110–379, §4(a), Oct. 8, 2008, 122 Stat. 4076; Pub. L. 111–31, div. A, title I, §103(e), June 22, 2009, 123 Stat. 1837; Pub. L. 111–148, title VII, §7002(d)(1), title X, §10609, Mar. 23, 2010, 124 Stat. 816, 1014; Pub. L. 112–144, title IX, §905, title XI, §§1101, 1134(a), 1135, July 9, 2012, 126 Stat. 1092, 1108, 1123; Pub. L. 113–5, title III, §301, Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–89, §2(a)(1), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §§3024(b), 3031(a), 3075(a), (b), 3101(a)(2)(B), 3102(1), Dec. 13, 2016, 130 Stat. 1099, 1138, 1152, 1156.)
+#### (y) Contrast agents intended for use with applicable medical imaging devices
+
+#### (1) In general
+
+&emsp;The sponsor of a contrast agent for which an application has been approved under this section may submit a supplement to the application seeking approval for a new use following the authorization of a premarket submission for an applicable medical imaging device for that use with the contrast agent pursuant to section 360j(p)(1) of this title.
+
+#### (2) Review of supplement
+
+&emsp;In reviewing a supplement submitted under this subsection, the agency center charged with the premarket review of drugs may—
+
+&emsp;&emsp;(A) consult with the center charged with the premarket review of devices; and
+
+&emsp;&emsp;(B) review information and data submitted to the Secretary by the sponsor of an applicable medical imaging device pursuant to section 360e, 360(k), or 360c(f)(2) of this title so long as the sponsor of such applicable medical imaging device has provided to the sponsor of the contrast agent a right of reference.
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection—
+
+&emsp;&emsp;(A) the term "new use" means a use of a contrast agent that is described in the approved labeling of an applicable medical imaging device described in section 360j(p) of this title, but that is not described in the approved labeling of the contrast agent; and
+
+&emsp;&emsp;(B) the terms "applicable medical imaging device" and "contrast agent" have the meanings given such terms in section 360j(p) of this title.
+
+(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a), Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–109, §15(c)(1), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 108–155, §2(b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §§1101(a), (b), 1102(a), 1103(a), Dec. 8, 2003, 117 Stat. 2448, 2452, 2457, 2460; Pub. L. 110–85, title VII, §701(b), title VIII, §801(b)(3)(A), (B), title IX, §§901(a), 903, 905(a), 914(a), 915, 916, 918, 920, 921, title XI, §1113, Sept. 27, 2007, 121 Stat. 903, 921, 922, 943, 944, 953, 957, 958, 960–962, 976; Pub. L. 110–316, title III, §301, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 110–379, §4(a), Oct. 8, 2008, 122 Stat. 4076; Pub. L. 111–31, div. A, title I, §103(e), June 22, 2009, 123 Stat. 1837; Pub. L. 111–148, title VII, §7002(d)(1), title X, §10609, Mar. 23, 2010, 124 Stat. 816, 1014; Pub. L. 112–144, title IX, §905, title XI, §§1101, 1134(a), 1135, July 9, 2012, 126 Stat. 1092, 1108, 1123; Pub. L. 113–5, title III, §301, Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–89, §2(a)(1), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §§3024(b), 3031(a), 3075(a), (b), 3101(a)(2)(B), 3102(1), Dec. 13, 2016, 130 Stat. 1099, 1138, 1152, 1156; Pub. L. 115–52, title VI, §601, title VII, §706(b), title VIII, §§801, 802, 808, title IX, §901(a), Aug. 18, 2017, 131 Stat. 1048, 1059, 1068, 1069, 1074, 1076.)
 
 #### References in Text
 
@@ -1440,9 +1512,21 @@ The Controlled Substances Act, referred to in subsec. (x)(1), is title II of Pub
 
 In subsec. (k)(4)(H), "section 132 of title 41" substituted for "section 4(5) of the Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Amendments made by section 3075(a) of Pub. L. 114–255 were executed as directed to subsec. (k)(5) of this section as amended by section 3102 of Pub. L. 114–255, notwithstanding directory language referring to the amendments made by section "2074". There is no section 2074 of Pub. L. 114–255. See 2016 Amendment notes below.
-
 #### Amendments
+
+<b>2017</b>—Subsec. (j)(5)(B)(v). Pub. L. 115–52, §808(1), added cl. (v).
+
+Subsec. (j)(5)(D)(iv). Pub. L. 115–52, §808(2), added cl. (iv).
+
+Subsec. (j)(11), (12). Pub. L. 115–52, §801, added pars. (11) and (12).
+
+Subsec. (j)(13). Pub. L. 115–52, §802, added par. (13).
+
+Subsec. (k)(5). Pub. L. 115–52, §901(a), made technical amendments to directory language of Pub. L. 114–255, §3075(a). See 2016 Amendment notes below.
+
+Subsec. (u)(4). Pub. L. 115–52, §601, substituted "2022" for "2017".
+
+Subsec. (y). Pub. L. 115–52, §706(b), added subsec. (y).
 
 <b>2016</b>—Subsec. (c)(5). Pub. L. 114–255, §3031(a), added par. (5).
 
@@ -1450,15 +1534,15 @@ Subsec. (d). Pub. L. 114–255, §3101(a)(2)(B)(i), substituted "marketing appro
 
 Subsec. (i)(4). Pub. L. 114–255, §3024(b), substituted "except where it is not feasible, it is contrary to the best interests of such human beings, or the proposed clinical testing poses no more than minimal risk to such human beings and includes appropriate safeguards as prescribed to protect the rights, safety, and welfare of such human beings" for "except where it is not feasible or it is contrary to the best interests of such human beings".
 
-Subsec. (k)(5)(A). Pub. L. 114–255, §3075(a)(1), substituted "screenings" for ", bi-weekly screening". See Codification note above.
+Subsec. (k)(5)(A). Pub. L. 114–255, §3075(a)(1), as amended by Pub. L. 115–52, §901(a)(1), substituted "screenings" for ", bi-weekly screening".
 
 Pub. L. 114–255, §3102(1)(A), inserted "and" after the semicolon.
 
-Subsec. (k)(5)(B). Pub. L. 114–255, §3075(a)(2), substituted "; and" for period at end. See Codification note above.
+Subsec. (k)(5)(B). Pub. L. 114–255, §3075(a)(2), as amended by Pub. L. 115–52, §901(a), substituted "; and" for period at end.
 
 Pub. L. 114–255, §3102(1)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "report to Congress not later than 2 year after September 27, 2007, on procedures and processes of the Food and Drug Administration for addressing ongoing post market safety issues identified by the Office of Surveillance and Epidemiology and how recommendations of the Office of Surveillance and Epidemiology are handled within the agency; and".
 
-Subsec. (k)(5)(C). Pub. L. 114–255, §3075(a)(3), added subpar. (C). See Codification note above.
+Subsec. (k)(5)(C). Pub. L. 114–255, §3075(a)(3), as amended by Pub. L. 115–52, §901(a)(1), added subpar. (C).
 
 Pub. L. 114–255, §3102(1)(C), redesignated subpar. (C) as (B).
 
@@ -1628,7 +1712,7 @@ Subsec. (k)(1). Pub. L. 103–80, §3(n)(2), substituted "section. Regulations" 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–417, §102(b)(1), inserted "or (j)" after "subsection (b)".
 
-Subsec. (b). Pub. L. 98–417, §§102(a)(1), 103(a), designated existing provisions of subsec. (b) as par. (1)thereof and redesignated existing cls. (1) through (6) of such par. (1) as cls. (A) through (F) thereof, respectively, inserted requirement that the applicant file with the application the patent number and the expiration date of any patent which claims the drug for which the applicant submitted the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably by asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug, that the applicant amend the application to include such information if an application is filed under this subsection for a drug and a patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, and that upon approval of the application, the Secretary publish the information submitted, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 98–417, §§102(a)(1), 103(a), designated existing provisions of subsec. (b) as par. (1) thereof and redesignated existing cls. (1) through (6) of such par. (1) as cls. (A) through (F) thereof, respectively, inserted requirement that the applicant file with the application the patent number and the expiration date of any patent which claims the drug for which the applicant submitted the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably by asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug, that the applicant amend the application to include such information if an application is filed under this subsection for a drug and a patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, and that upon approval of the application, the Secretary publish the information submitted, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 98–417, §§102(a)(2), (b)(2), 103(b), designated existing provisions of subsec. (c) as par. (1) thereof and in par. (1) as so designated substituted "subsection (b)" for "this subsection" and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added pars. (2) and (3).
 
@@ -1650,7 +1734,7 @@ Subsecs. (l), (m). Pub. L. 98–417, §104, added subsecs. (l) and (m).
 
 Subsec. (b). Pub. L. 87–781, §102(b), inserted "and whether such drug is effective in use" after "is safe for use".
 
-Subsec. (c). Pub. L. 87–781, §104(b), substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements of subsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise, that such hearing shall be expedited, and that the Secretary's order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filing thereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
+Subsec. (c). Pub. L. 87–781, §104(b), substituted provisions requiring the Secretary, within 180 days after filing an application, or such additional period as the Secretary and the applicant agree upon, to either approve the application, if meeting the requirements ofsubsec. (d) of this section, or give notice of opportunity for hearing on question of whether such application is approvable, and providing that if applicant requests hearing in writing within 30 days, the hearing shall begin within 90 days after expiration of said 30 days, unless the Secretary and applicant agree otherwise, that such hearing shall be expedited, and that the Secretary's order shall be issued within 90 days after date for filing final briefs, for provisions which had an application become effective on the sixtieth day after filing thereof unless prior thereto the Secretary postponed the date by written notice to such time, but not more than 180 days after filing, as the Secretary deemed necessary to study and investigate the application.
 
 Subsec. (d). Pub. L. 87–781, §102(c), inserted references to subsec. (c), added cls. (5) and (6), provided that if after notice and opportunity for hearing, the Secretary finds that cls. (1) to (6) do not apply, he shall approve the application, and defined "substantial evidence" as used in this subsection and subsec. (e) of this section.
 
@@ -1696,7 +1780,7 @@ Pub. L. 108–173, title XI, §1102(b), Dec. 8, 2003, 117 Stat. 2460, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective only with respect to an application filed under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) after the date of the enactment of this Act \[Dec. 8, 2003\] for a listed drug for which no certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective only with respect to an application filed under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) after the dateof the enactment of this Act \[Dec. 8, 2003\] for a listed drug for which no certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act.
 
 "(2)
 
@@ -1744,9 +1828,21 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
+#### Annual Report on Inspections
+
+Pub. L. 115–52, title IX, §902, Aug. 18, 2017, 131 Stat. 1077, provided that: "Not later than March 1 of each year, the Secretary of Health and Human Services shall post on the internet website of the Food and Drug Administration information related to inspections of facilities necessary for approval of a drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), approval of a device under section 515 of such Act (21 U.S.C. 360e), or clearance of a device under section 510(k) of such Act (21 U.S.C. 360(k)) that were conducted during the previous calendar year. Such information shall include the following:
+
+&emsp;"(1) The median time following a request from staff of the Food and Drug Administration reviewing an application or report to the beginning of the inspection, and the median time from the beginning of an inspection to the issuance of a report pursuant to section 704(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374(b)).
+
+&emsp;"(2) The median time from the issuance of a report pursuant to such section 704(b) to the sending of a warning letter, issuance of an import alert, or holding of a regulatory meeting for inspections for which the Secretary concluded that regulatory or enforcement action was indicated.
+
+&emsp;"(3) The median time from the sending of a warning letter, issuance of an import alert, or holding of a regulatory meeting to resolution of the regulatory or enforcement action indicated for inspections for which the Secretary concluded that such action was indicated.
+
+&emsp;"(4) The number of times that a facility was issued a report pursuant to such section 704(b) and approval of an application was delayed due to the issuance of a withhold recommendation."
+
 #### Report on Patient Experience Drug Development
 
-Pub. L. 114–255, div. A, title III, §3004, Dec. 13, 2016, 130 Stat. 1085, provided that: "Not later than June 1 of 2021, 2026, and 2031, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall prepare and publish on the Internet website of the Food and Drug Administration a report assessing the use of patient experience data in regulatory decisionmaking, in particular with respect to the review of patient experience data and information on patient-focused drug development tools as part of applications approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(c)) or section 351(a) of the Public Health Service Act (42 U.S.C. 262(a))."
+Pub. L. 114–255, div. A, title III, §3004, Dec. 13, 2016, 130 Stat. 1085, provided that: "Not later than June 1 of 2021, 2026, and 2031, the Secretary of Health and Human Services, acting through the Commissioner of Food andDrugs, shall prepare and publish on the Internet website of the Food and Drug Administration a report assessing the use of patient experience data in regulatory decisionmaking, in particular with respect to the review of patient experience data and information on patient-focused drug development tools as part of applications approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(c)) or section 351(a) of the Public Health Service Act (42 U.S.C. 262(a))."
 
 #### Novel Clinical Trial Designs
 
@@ -1834,7 +1930,7 @@ Pub. L. 112–144, title VIII, §806, July 9, 2012, 126 Stat. 1082, provided tha
 
 Draft Guidance.—Not later than June 30, 2013, in order to facilitate the development of antibacterial drugs for serious or life-threatening bacterial infections, particularly in areas of unmet need, the Secretary of Health and Human Services shall publish draft guidance that—
 
-&emsp;"(1) specifies how preclinical and clinical data can be utilized to inform an efficient and streamlined pathogen-focused antibacterial drug development program that meets the approval standards of the Food and Drug Administration; and
+&emsp;"(1) specifies how preclinical and clinical data can be utilized to inform an efficient and streamlinedpathogen-focused antibacterial drug development program that meets the approval standards of the Food and Drug Administration; and
 
 &emsp;"(2) provides advice on approaches for the development of antibacterial drugs that target a more limited spectrum of pathogens.
 
@@ -2022,7 +2118,7 @@ Pub. L. 107–109, §15(d), Jan. 4, 2002, 115 Stat. 1421, provided that: "Not la
 
 #### Data Requirements for Drugs and Biologics
 
-Pub. L. 105–115, title I, §118, Nov. 21, 1997, 111 Stat. 2316, provided that: "Within 12 months after the date ofenactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue guidance that describes when abbreviated study reports may be submitted, in lieu of full reports, with a new drug application under section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) and with a biologics license application under section 351 of the Public Health Service Act (42 U.S.C. 262) for certain types of studies. Such guidance shall describe the kinds of studies for which abbreviated reports are appropriate and the appropriate abbreviated report formats."
+Pub. L. 105–115, title I, §118, Nov. 21, 1997, 111 Stat. 2316, provided that: "Within 12 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue guidance that describes when abbreviated study reports may be submitted, in lieu of full reports, with a new drug application under section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) and with a biologics license application under section 351 of the Public Health Service Act (42 U.S.C. 262) for certain types of studies. Such guidance shall describe the kinds of studies for which abbreviated reports are appropriate and the appropriate abbreviated report formats."
 
 #### Requirements for Review of Approval Procedures and Current Good Manufacturing Practices for Positron Emission Technology
 
@@ -2106,9 +2202,9 @@ Pub. L. 110–379, §4(b), Oct. 8, 2008, 122 Stat. 4077, provided that:
 
 "(1) With respect to a patent issued on or before the date of the enactment of this Act \[Oct. 8, 2008\], any patent information required to be filed with the Secretary of Health and Human Services under subsection (b)(1) or (c)(2) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) to be listed on a drug to which subsection (v)(1) of such section 505 (as added by this section) applies shall be filed with the Secretary not later than 60 days after the date of the enactment of this Act.
 
-"(2) With respect to any patent information referred to in paragraph (1) of this subsection that is filed withthe Secretary within the 60-day period after the date of the enactment of this Act \[Oct. 8, 2008\], the Secretary shall publish such information in the electronic version of the list referred to at section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) as soon as it is received, but in no event later than the date that is 90 days after the enactment of this Act.
+"(2) With respect to any patent information referred to in paragraph (1) of this subsection that is filed with the Secretary within the 60-day period after the date of the enactment of this Act \[Oct. 8, 2008\], the Secretary shall publish such information in the electronic version of the list referred to at section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) as soon as it is received, but in no event later than the date that is 90 days after the enactment of this Act.
 
-"(3) With respect to any patent information referred to in paragraph (1) that is filed with the Secretary within the 60-day period after the date of enactment of this Act \[Oct. 8, 2008\], each applicant that, not later than 120 days after the date of the enactment of this Act, amends an application that is, on or before the date of the enactment of this Act, a substantially complete application (as defined in paragraph (5)(B)(iv) of section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j))) to contain a certification described in paragraph (2)(A)(vii)(IV) of such section 505(j) with respect to that patent shall be deemed to be a first applicant (as defined in paragraph (5)(B)(iv) of such section 505(j))."
+"(3) With respect to any patent information referred to in paragraph (1) that is filed with the Secretary within the 60-day period after the date of enactment of this Act \[Oct. 8, 2008\], each applicant that, not later than 120 days after the date of the enactment of this Act, amends an application that is, on or before the date of the enactment of this Act, a substantially complete application (as defined in paragraph (5)(B)(iv) of section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j))) to contain a certification described in paragraph (2)(A)(vii)(IV) of such section 505(j) with respect to that patent shall be deemed to be a firstapplicant (as defined in paragraph (5)(B)(iv) of such section 505(j))."
 
 Pub. L. 105–115, title I, §125(d), Nov. 21, 1997, 111 Stat. 2326, provided that:
 

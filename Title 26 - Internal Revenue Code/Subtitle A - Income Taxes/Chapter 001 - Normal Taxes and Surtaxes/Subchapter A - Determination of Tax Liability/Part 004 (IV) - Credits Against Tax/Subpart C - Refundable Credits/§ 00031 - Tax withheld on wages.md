@@ -52,7 +52,7 @@ General Rule.—Except as otherwise provided in this section, the amendments mad
 
 "(b)
 
-Section 102.—The amendments made by section 102 \[amending this section and sections 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as a note under section 3451 of this title, and repealing provisions set out as a note under section 3451 of this title\] shall take effect as of the close of June 30, 1983.
+Section 102.—The amendments made by section 102 \[amending this section and sections 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401,6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as a note under section 3451 of this title, and repealing provisions set out as a note under section 3451 of this title\] shall take effect as of the close of June 30, 1983.
 
 "(c)
 
@@ -64,5 +64,5 @@ Pub. L. 97–448, title III, §311(d), Jan. 12, 1983, 96 Stat. 2412, provided th
 
 #### Construction of Amendment by Title VII of Division A of Pub. L. 98–369
 
-Pub. L. 98–369, div. A, title VII, §701, July 18, 1984, 98 Stat. 942, provided that: "For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisionsof this title shall be treated as having been enacted immediately before the provisions of such other titles."
+Pub. L. 98–369, div. A, title VII, §701, July 18, 1984, 98 Stat. 942, provided that: "For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles."
 

@@ -1,0 +1,6 @@
+### §13771. Transferred
+
+#### Codification
+
+Section 13771 was editorially reclassified as section 12141 of Title 34, Crime Control and Law Enforcement.
+

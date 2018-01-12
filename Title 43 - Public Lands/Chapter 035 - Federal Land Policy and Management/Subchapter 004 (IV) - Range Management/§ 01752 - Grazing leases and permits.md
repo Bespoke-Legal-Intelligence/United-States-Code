@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions
 
-Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
+Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j),<sup>1</sup> or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
 
 #### (b) Terms of lesser duration
 
@@ -12,7 +12,7 @@ Permits or leases may be issued by the Secretary concerned for a period shorter 
 
 &emsp;(2) the land will be devoted to a public purpose prior to the end of ten years; or
 
-&emsp;(3) it will be in the best interest of sound land management to specify a shorter term: <i>Provided</i>, That the absence from an allotment management plan of details the Secretary concerned would like to include but which are undeveloped shall not be the basis for establishing a term shorter than ten years: <i>Provided further</i>, That the absence of completed landuse plans or court ordered environmental statements shall not be the sole basis for establishing a term shorter than ten years unless the Secretary determines on a case-by-case basis that the information to be contained in such land use plan or court ordered environmental impact statement is necessary to determine whether a shorter term should be established for any of the reasons set forth in items (1) through (3) of this subsection.
+&emsp;(3) it will be in the best interest of sound land management to specify a shorter term: <i>Provided</i>, That the absence from an allotment management plan of details the Secretary concerned would like to include but which are undeveloped shall not be the basis for establishing a term shorter than ten years: <i>Provided further</i>, That the absence of completed land use plans or court ordered environmental statements shall not be the sole basis for establishing a term shorter than ten years unless the Secretary determines on a case-by-case basis that the information to be contained in such land use plan or court ordered environmental impact statement is necessary to determine whether a shorter term should be established for any of the reasons set forth in items (1) through (3) of this subsection.
 
 #### (c) First priority for renewal of expiring permit or lease
 
@@ -46,7 +46,7 @@ Allotment management plans shall not refer to livestock operations or range impr
 
 #### (g) Cancellation of permit or lease; determination of reasonable compensation; notice
 
-Whenever a permit or lease for grazing domestic livestock is canceled in whole or in part, inorder to devote the lands covered by the permit or lease to another public purpose, including disposal, the permittee or lessee shall receive from the United States a reasonable compensation for the adjusted value, to be determined by the Secretary concerned, of his interest in authorized permanent improvements placed or constructed by the permittee or lessee on lands covered by such permit or lease, but not to exceed the fair market value of the terminated portion of the permittee's or lessee's interest therein. Except in cases of emergency, no permit or lease shall be canceled under this subsection without two years' prior notification.
+Whenever a permit or lease for grazing domestic livestock is canceled in whole or in part, in order to devote the lands covered by the permit or lease to another public purpose, including disposal, the permittee or lessee shall receive from the United States a reasonable compensation for the adjusted value, to be determined by the Secretary concerned, of his interest in authorized permanent improvements placed or constructed by the permittee or lessee on lands covered by such permit or lease, but not to exceed the fair market value of the terminated portion of the permittee's or lessee's interest therein. Except in cases of emergency, no permit or lease shall be canceled under this subsection without two years' prior notification.
 
 #### (h) National Environmental Policy Act of 1969
 
@@ -96,7 +96,7 @@ Nothing in this Act shall be construed as modifying in any way law existing on O
 
 Act of June 28, 1934, referred to in subsec. (a), is act June 28, 1934, ch. 865, 48 Stat. 1269, known as the Taylor Grazing Act, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 315 of this title and Tables.
 
-Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
+Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (a), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, which was formerly classified principally to sections 1181a to 1181f of this title prior to editorial reclassification, and is now classified principally to subchapter I (§2601 et seq.) of chapter 44 of this title. Section 3 of the Act, former section 1181c of this title, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. Sections 1181f–1 to 1181f–4 of this title, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753, and were editorially reclassified as subchapter II (§2621 et seq.) of chapter 44 of this title. Sections 1181g to 1181j of this title, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270, and were editorially reclassified as subchapter III (§2631 et seq.) of chapter 44 of this title. For complete classification of these Acts to the Code, see Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (c)(2), (4) and (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 95–514, §8(b), substituted introductory word "In" for "P
 
 #### Grazing Permit Renewals
 
-Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: "That beginning in November 2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazing permits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries' budget proposals".
+Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: "That beginning in November 2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazingpermits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries' budget proposals".
 
 #### Appeals of Reductions in Grazing Allotments on Public Rangeland; Time; Effective Date of Reductions; Suspension Pending Final Action on Appeal
 
@@ -153,4 +153,6 @@ Pub. L. 97–100, title I, Dec. 23, 1981, 95 Stat. 1393.
 Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2959.
 
 Pub. L. 96–126, title I, Nov. 27, 1979, 93 Stat. 956.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

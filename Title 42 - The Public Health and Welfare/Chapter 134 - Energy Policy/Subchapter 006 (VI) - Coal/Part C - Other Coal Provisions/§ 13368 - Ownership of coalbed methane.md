@@ -94,9 +94,9 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (3) The Secretary of the Interior shall by rule establish, for an Affected State, a region thereof, or a multi-State region comprised of Affected States, the boundaries within which a coalbed methane operator shall be required to obtain written consent from a coal operator pursuant to paragraph (1). Such boundaries shall be stated in terms of a horizontal and a vertical distance from the point of stimulation and shall be determined based on an evaluation of the maximum length, height and depth of fracture producible in a coal seam in such Affected State, region thereof, or multi-State region comprised of Affected States.
 
-(4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract orcoalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
+(4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
-(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operator from seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
+(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operatorfrom seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
 
 #### (k) Notice and objection
 
@@ -154,7 +154,7 @@ As used in this section—
 
 &emsp;(3) The term "unit operator" means the entity designated in a pooling order to develop a spacing unit by the drilling of one or more wells on the unit.
 
-&emsp;(4) The term "nonparticipating working interest owner" means a gas or oil owner of atract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3).
+&emsp;(4) The term "nonparticipating working interest owner" means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3).
 
 &emsp;(5) The term "participating working interest owner" means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) <sup>2</sup> plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
 

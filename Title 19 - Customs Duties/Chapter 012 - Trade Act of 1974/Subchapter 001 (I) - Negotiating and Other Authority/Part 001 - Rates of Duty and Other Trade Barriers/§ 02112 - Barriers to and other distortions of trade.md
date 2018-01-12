@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings; directives; disavowal of prior approval of legislation
 
-The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
+The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate tradeagreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
 
 #### (b) Presidential determinations prerequisite to entry into trade agreements; trade with Israel
 
@@ -10,7 +10,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (2)(A) Trade agreements that provide for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) only with Israel.
 
-(B) The negotiation of any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States shall take fully into account any product that benefits from a discriminatory preferential tariff arrangement between Israel and a third country if the tariff preference on such product has been the subject of a challenge by the United StatesGovernment under the authority of section 2411 of this title and the General Agreement on Tariffs and Trade.
+(B) The negotiation of any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States shall take fully into account any product that benefits from a discriminatory preferential tariff arrangement between Israel and a third country if the tariff preference on such product has been the subject of a challenge by the United States Government under the authority of section 2411 of this title and the General Agreement on Tariffs and Trade.
 
 (C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
 
@@ -52,7 +52,7 @@ Before the President enters into any trade agreement under this section providin
 
 #### (d) Submission to Congress of agreements, drafts of implementing bills, and statements of proposed administrative action
 
-Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
+Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (describedin section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
 
 #### (e) Steps prerequisite to entry into force of trade agreements
 
@@ -282,7 +282,7 @@ Certain made-up articles, textile articles in the piece, and certain other texti
 
 &emsp;&emsp;"(B)
 
-Certain knit-to-shape textiles and textile articles.—Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, a textile or apparel article which is knit-to-shape in Jordan shall be considered to meet the requirements of paragraph (1)(A) of subsection (a).
+Certain knit-to-shape textiles and textile articles.—Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, a textile or apparel article whichis knit-to-shape in Jordan shall be considered to meet the requirements of paragraph (1)(A) of subsection (a).
 
 &emsp;&emsp;"(C)
 
@@ -400,7 +400,7 @@ Public Notice.—Upon submitting a report to the President under subsection (c),
 
 "(e)
 
-Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
+Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) ofsection 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
 
 #### "SEC. 213. PROVISION OF RELIEF.
 
@@ -546,7 +546,7 @@ Effect of Agreement With Respect to Private Remedies.—No person other than the
 
 &emsp;"(2) other appropriate officers of the United States may issue such regulations,
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no suchproclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
 
 #### "SEC. 404. EFFECTIVE DATES; EFFECT OF TERMINATION.
 
@@ -848,7 +848,7 @@ Annex Rules.—
 
 Automotive Products.—
 
-&emsp;"(1) The President is authorized to proclaim such modifications to the definition of Canadian articles (relating to the administration of the AutomotiveProducts Trade Act of 1965 \[19 U.S.C. 2001 et seq.\]) in the general notes of the Harmonized System as may be necessary to conform that definition with chapter 3 of the Agreement.
+&emsp;"(1) The President is authorized to proclaim such modifications to the definition of Canadian articles (relating to the administration of the Automotive Products Trade Act of 1965 \[19 U.S.C. 2001 et seq.\]) in the general notes of the Harmonized System as may be necessary to conform that definition with chapter 3 of the Agreement.
 
 &emsp;"(2) For purposes of administering the value requirement (as defined in section 304(c)(3)) with respect to vehicles, the Secretary of the Treasury shall prescribe regulations governing the averaging of the value content of vehicles of the same class, or of sister vehicles, assembled in the same plant as an alternative to the calculation of the value content of each vehicle.
 
@@ -928,7 +928,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;"(ii) the foreign trade zones located in the United States, and the Commonwealth of Puerto Rico, and
 
-&emsp;&emsp;&emsp;"(iii) any area beyond the territorial seas of the United States within which, in accordance with international law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
+&emsp;&emsp;&emsp;"(iii) any area beyond the territorial seas of the United States within which, in accordance withinternational law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
 
 &emsp;"(8) The term 'third country' means any country other than Canada or the United States or any territory not a part of the territory of either.
 
@@ -954,7 +954,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;"(ii) duties, taxes, and brokerage fees on all materials paid in the territory of either Party or both Parties;
 
-&emsp;&emsp;&emsp;"(iii) the cost of waste or spoilage resulting from the use or consumption of such materials,less the value of renewable scrap or byproduct; and
+&emsp;&emsp;&emsp;"(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
 
 &emsp;&emsp;&emsp;"(iv) the value of goods and services relating to all materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade; and
 
@@ -1084,7 +1084,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;&emsp;"(B) The planted acreage in the United States for the like fresh fruit or vegetable is no higher than the average planted acreage over the preceding 5 years, excluding the years with the highest and lowest acreage. For the purposes of applying this subparagraph, any acreage increase attributed directly to a reduction in the acreage that was planted to wine grapes as of October 4, 1987, shall be excluded.
 
-> &emsp;Whenever the Secretary makes a determination that the conditions referred to in subparagraphs (A) and\(B) regarding any Canadian fresh fruit or vegetable exist, the Secretary shall immediately submit for publication in the Federal Register notice of the determination.
+> &emsp;Whenever the Secretary makes a determination that the conditions referred to in subparagraphs (A) and (B) regarding any Canadian fresh fruit or vegetable exist, the Secretary shall immediately submit for publication in the Federal Register notice of the determination.
 
 &emsp;"(2) No later than 6 days after publication in the Federal Register of the notice described in paragraph (1), the Secretary shall decide whether to recommend the imposition of a temporary duty to the President, and if the Secretary decides to make such a recommendation, the recommendation shall be forwarded immediately to the President.
 
@@ -1190,7 +1190,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(1) A petition requesting action under this section for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the United States International Trade Commission (hereafter in this section referred to as the 'Commission') by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry. The Commission shall transmit a copy of any petition filed under this paragraph to the United States Trade Representative.
 
-&emsp;"(2)(A) Upon the filing of a petition under paragraph (1), the Commission shall promptly initiate an investigation to determine whether, as a result of areduction or elimination of a duty provided for under the United States-Canada Free-Trade Agreement, an article originating in Canada is being imported into the United States in such increased quantities, in absolute terms, and under such conditions, so that imports of such Canadian article, alone, constitute a substantial cause of serious injury to the domestic industry producing an article like, or directly competitive with, the imported article.
+&emsp;"(2)(A) Upon the filing of a petition under paragraph (1), the Commission shall promptly initiate an investigation to determine whether, as a result of a reduction or elimination of a duty provided for under the United States-Canada Free-Trade Agreement, an article originating in Canada is being imported into the United States in such increased quantities, in absolute terms, and under such conditions, so that imports of such Canadian article, alone, constitute a substantial cause of serious injury to the domestic industry producing an article like, or directly competitive with, the imported article.
 
 &emsp;"(B) The provisions of—
 
@@ -1234,7 +1234,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(4)(A) No investigation may be initiated under paragraph (2)(A) with respect to any article for which import relief has been provided under this subsection.
 
-&emsp;"(B) No import relief may be provided under this subsection after the date that is 10 years after the date on which the Agreement enters into force \[Jan. 1, 1989\].
+&emsp;"(B) No import relief may be provided under this subsection after the date that is 10 years after thedate on which the Agreement enters into force \[Jan. 1, 1989\].
 
 &emsp;"(5) For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under paragraph (3) shall be treated as action taken under chapter I \[1\] of title II of such Act \[19 U.S.C. 2251 et seq.\].
 
@@ -1252,7 +1252,7 @@ Relief From Imports From All Countries.—
 
 &emsp;"(B) In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974, the President shall exclude from such action imports from Canada if the President has made a negative determination under subparagraph (A) regarding imports from Canada.
 
-&emsp;"(3)(A) If, under paragraph (2)(B), the President excludes imports from Canada from action taken underchapter 1 of title II of the Trade Act of 1974, the President may, if the President thereafter determines that a surge in imports from Canada of the article that is the subject of the action is undermining the effectiveness of the action, take appropriate action under such chapter with respect to such imports from Canada to include such imports in such action.
+&emsp;"(3)(A) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, the President may, if the President thereafter determines that a surge in imports from Canada of the article that is the subject of the action is undermining the effectiveness of the action, take appropriate action under such chapter with respect to such imports from Canada to include such imports in such action.
 
 &emsp;"(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
 
@@ -1340,7 +1340,7 @@ Negotiating Objectives Regarding Automotive Products.—
 
 &emsp;"(2) The President is authorized, through January 1, 1999, to proclaim any agreed increase in the value requirement.
 
-&emsp;"(3) As used in this section, the term 'value requirement' means the minimum percentage of the value of an automotive product that must be accounted for by the value of the materials in the product that originated in the United States or Canada, or both, plus the direct cost of processing or assembly performedin the United States or Canada, or both, with respect to the product.
+&emsp;"(3) As used in this section, the term 'value requirement' means the minimum percentage of the value of an automotive product that must be accounted for by the value of the materials in the product that originated in the United States or Canada, or both, plus the direct cost of processing or assembly performed in the United States or Canada, or both, with respect to the product.
 
 "(d)
 
@@ -1514,7 +1514,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;"(C) The Trade Representative may add or delete individuals from the preliminary candidate lists submitted under subparagraph (A) after consulting the appropriate Congressional Committees with regard to such addition or deletion. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the preliminary candidate lists.
 
-&emsp;"(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to the appropriate Congressional Committees under this subparagraph.
+&emsp;"(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriateCongressional Committees at least 15 days before the date on which that final candidate list is submitted to the appropriate Congressional Committees under this subparagraph.
 
 &emsp;"(B) Except as provided in paragraph (5), no additions may be made to the final candidate lists after the final candidate lists are submitted to the appropriate Congressional Committees under subparagraph (A).
 
@@ -1530,7 +1530,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;"(C) The Trade Representative may add or delete individuals from any proposed amendment submitted under subparagraph (A)(iii) after consulting the appropriate Congressional Committees with regard to such addition or deletion. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the proposed amendment.
 
-&emsp;"(D)(i) If the Trade Representative submits under subparagraph (A)(iii) in any calendar year a proposedamendment to a final candidate list, the Trade Representative shall, by no later than September 30 of such calendar year, submit to the appropriate Congressional Committees the final form of such amendment. On October 1 of such calendar year, such amendment shall take effect and the individuals included in the final form of such amendment shall be added to the final candidate list.
+&emsp;"(D)(i) If the Trade Representative submits under subparagraph (A)(iii) in any calendar year a proposed amendment to a final candidate list, the Trade Representative shall, by no later than September 30 of such calendar year, submit to the appropriate Congressional Committees the final form of such amendment. On October 1 of such calendar year, such amendment shall take effect and the individuals included in the final form of such amendment shall be added to the final candidate list.
 
 &emsp;"(ii) An individual may be included in the final form of an amendment submitted under clause (i) only if written notice of the addition of such individual to the proposed form of such amendment was submitted to the appropriate Congressional Committees at least 15 days before the date on which the final form of such amendment is submitted under clause (i).
 
@@ -1582,7 +1582,7 @@ Status of Panelists.—Notwithstanding any other provision of law, individuals a
 
 "(c)
 
-Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committees convened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
+Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committeesconvened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 "(d)
 
@@ -1726,7 +1726,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;"(4)(A) The Trade Representative and the Secretary of Commerce shall review information obtained under paragraph (3) and consult with the industry identified under paragraph (2) with a view to deciding whether any action is appropriate under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\], including the initiation of an investigation under section 302(c) of that Act \[19 U.S.C. 2412(c)\] (in the case of the Trade Representative), or under subtitle A of title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], including the initiation of an investigation under section 702(a) of that Act \[19 U.S.C. 1671a(a)\] (in the case of the Secretary of Commerce).
 
-&emsp;"(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
+&emsp;"(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
 
 &emsp;&emsp;"(i) shall seek the advice of the advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\];
 
@@ -1744,7 +1744,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;"(B) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the United States International Trade Commission, or the Trade Representative pursuant to such a petition,
 
-&emsp;&emsp;"(C) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determinationunder section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\], title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], or any other trade law.
+&emsp;&emsp;"(C) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\], title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], or any other trade law.
 
 &emsp;"(6) Nothing in this subsection may be construed to alter in any manner the requirements in effect before the enactment of this Act \[Sept. 28, 1988\] for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
 
@@ -2020,7 +2020,7 @@ Imported directly.—For purposes of this section—
 
 &emsp;&emsp;&emsp;"(ii) if shipment is through the territory of an intermediate country, the articles in the shipment do not enter into the commerce of any intermediate country and the invoices, bills of lading, and other shipping documents specify the United States as the final destination; or
 
-&emsp;&emsp;"(B) if articles are shipped through an intermediate country and the invoices and other documents do not specify the United States as the final destination, then the articles in the shipment, upon arrival in the United States, are imported directly only if they—
+&emsp;&emsp;"(B) if articles are shipped through an intermediate country and the invoices and other documents do not specify the United States as the final destination, then the articles in the shipment, uponarrival in the United States, are imported directly only if they—
 
 &emsp;&emsp;&emsp;"(i) remain under the control of the customs authority in an intermediate country;
 
@@ -2044,7 +2044,7 @@ Documentation required.—An article is eligible for the duty exemption under th
 
 &emsp;&emsp;&emsp;"(iv) A description of the operations performed on, and a statement as to the origin and cost or value of, any foreign materials used in the article which are claimed to have been sufficiently processed in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel so as to be materials produced in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel.
 
-&emsp;&emsp;&emsp;"(v) A description of the origin and cost or value of any foreign materials used in the articlewhich have not been substantially transformed in the West Bank, the Gaza Strip, or a qualifying industrial zone.
+&emsp;&emsp;&emsp;"(v) A description of the origin and cost or value of any foreign materials used in the article which have not been substantially transformed in the West Bank, the Gaza Strip, or a qualifying industrial zone.
 
 "(c)
 
@@ -2120,7 +2120,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 "(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect to any article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
 
-"(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effectwhen an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
+"(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 
 "(2) If any article is subject to import relief at the time an agreement is entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\], the President may reduce or terminate the application of such import relief to the importation of such article before the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of sections 203 and 204 of the Trade Act of 1974 \[19 U.S.C. 2253, 2254\].
 
@@ -2164,7 +2164,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 \[Amendment of sections 403 and 404 of Pub. L. 98–573 by section 1401 of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of this chapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.\]
 
-\[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+\[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication ofHarmonized Tariff Schedule note set out under section 1202 of this title.\]
 
 #### Presidential Determination Regarding Multilateral Trade Negotiations
 
@@ -2246,7 +2246,7 @@ Memorandum of President of the United States, Feb. 11, 1991, 56 F.R. 6789, provi
 
 Memorandum for the United States Trade Representative
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority to perform the functions necessary to fulfill the consultation and lay-over requirements set forth in section 103(a)(1) through (4) of the United States-Canada Free-Trade Agreement Implementation Act of 1988 ("the Act") \[Pub. L. 100–449, set out as a note above\], including:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority to perform the functions necessary to fulfill the consultation and lay-over requirements set forth in section 103(a)(1) through (4) of the United States-Canada Free-Trade AgreementImplementation Act of 1988 ("the Act") \[Pub. L. 100–449, set out as a note above\], including:
 
 (1) obtaining advice from the appropriate advisory committees and the U.S. International Trade Commission on the proposed implementation of an action by Presidential proclamation;
 

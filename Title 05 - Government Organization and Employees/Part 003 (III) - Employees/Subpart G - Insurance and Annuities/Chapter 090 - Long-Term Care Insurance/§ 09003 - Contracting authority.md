@@ -22,7 +22,7 @@ In general.—Each master contract under this chapter shall contain—
 
 &emsp;(2)
 
-Premiums.—Premiums charged under each master contract entered into under thissection shall reasonably and equitably reflect the cost of the benefits provided, as determined by the Office. The premiums shall not be adjusted during the term of the contract unless mutually agreed to by the Office and the carrier.
+Premiums.—Premiums charged under each master contract entered into under this section shall reasonably and equitably reflect the cost of the benefits provided, as determined by the Office. The premiums shall not be adjusted during the term of the contract unless mutually agreed to by the Office and the carrier.
 
 &emsp;(3)
 

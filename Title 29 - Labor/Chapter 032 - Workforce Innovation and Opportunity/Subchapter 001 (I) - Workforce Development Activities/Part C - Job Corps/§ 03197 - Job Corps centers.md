@@ -16,7 +16,7 @@
 
 #### (A) Competitive basis
 
-&emsp;&emsp;Except as provided in subsections (a) and (b) of section 3304 of title 41, the Secretaryshall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this part to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the workforce council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
+&emsp;&emsp;Except as provided in subsections (a) and (b) of section 3304 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this part to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the workforce council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
 
 #### (B) Recommendations and considerations
 
@@ -140,7 +140,7 @@ The agreement described in subsection (a)(1)(A) shall be for not more than a 2-y
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall not renew the terms of an agreement for any 1-year additional period described in subsection (f) for an entity to operate a particular Job Corps center if, for both of the 2 most recent preceding program years for which information is available at the time the determination is made, or if a second program year isnot available, the preceding year for which information is available, such center—
+&emsp;Subject to paragraph (2), the Secretary shall not renew the terms of an agreement for any 1-year additional period described in subsection (f) for an entity to operate a particular Job Corps center if, for both of the 2 most recent preceding program years for which information is available at the time the determination is made, or if a second program year is not available, the preceding year for which information is available, such center—
 
 &emsp;&emsp;(A) has been ranked in the lowest 10 percent of Job Corps centers; and
 
@@ -152,7 +152,7 @@ The agreement described in subsection (a)(1)(A) shall be for not more than a 2-y
 
 &emsp;&emsp;(A) significant improvements in program performance in carrying out a performance improvement plan under section 3209(f)(2) of this title;
 
-&emsp;&emsp;(B) that the performance is due to circumstances beyond the control of the entity, such as an emergency or disaster, as defined in section 3225(a)(1) of this title;
+&emsp;&emsp;(B) that the performance is due to circumstances beyond the control of the entity,such as an emergency or disaster, as defined in section 3225(a)(1) of this title;
 
 &emsp;&emsp;(C) a significant disruption in the operations of the center, including in the ability to continue to provide services to students, or significant increase in the cost of such operations; or
 

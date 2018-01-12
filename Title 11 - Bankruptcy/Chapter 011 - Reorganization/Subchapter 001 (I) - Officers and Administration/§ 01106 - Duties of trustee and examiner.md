@@ -16,7 +16,7 @@
 
 &emsp;(5) as soon as practicable, file a plan under section 1121 of this title, file a report of why the trustee will not file a plan, or recommend conversion of the case to a case under chapter 7, 12, or 13 of this title or dismissal of the case;
 
-&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish,without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
+&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
 
 &emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders; and
 
@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 98–353, §502, inserted ", except to the extent that the
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a),\(c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

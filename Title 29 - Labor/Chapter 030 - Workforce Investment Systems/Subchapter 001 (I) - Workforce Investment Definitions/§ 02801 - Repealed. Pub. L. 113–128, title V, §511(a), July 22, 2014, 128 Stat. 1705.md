@@ -14,5 +14,5 @@ Pub. L. 110–140, title X, §1001, Dec. 19, 2007, 121 Stat. 1748, provided that
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: "This Act \[enacting section 2918a of thistitle, amending section 2939 of this title, section 1701u of Title 12, Banks and Banking, section 4183 of Title 25, Indians, and section 12870 of Title 42, The Public Health and Welfare, repealing sections 12899 to 12899i of Title 42, and enacting provisions set out as notes under section 2918a of this title and section 1701u of Title 12\] may be cited as the 'YouthBuild Transfer Act'."
+Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: "This Act \[enacting section 2918a of this title, amending section 2939 of this title, section 1701u of Title 12, Banks and Banking, section 4183 of Title 25, Indians, and section 12870 of Title 42, The Public Health and Welfare, repealing sections 12899 to 12899i of Title 42, and enacting provisions set out as notes under section 2918a of this title and section 1701u of Title 12\] may be cited as the 'YouthBuild Transfer Act'."
 

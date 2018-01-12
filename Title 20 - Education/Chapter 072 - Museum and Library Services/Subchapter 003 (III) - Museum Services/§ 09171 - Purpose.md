@@ -20,7 +20,7 @@ It is the purpose of this subchapter—
 
 &emsp;(9) to support efforts at the State level to leverage museum resources and maximize museum services.
 
-(Pub. L. 94–462, title II, §272, formerly §271, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; renumbered §272 and amended Pub. L. 108–81, title III, §§301, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §301, Dec. 22, 2010, 124 Stat. 3603.)
+(Pub. L. 94–462, title II, §272, formerly §271, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; renumbered §272 and amended Pub. L.108–81, title III, §§301, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §301, Dec. 22, 2010, 124 Stat. 3603.)
 
 #### Prior Provisions
 

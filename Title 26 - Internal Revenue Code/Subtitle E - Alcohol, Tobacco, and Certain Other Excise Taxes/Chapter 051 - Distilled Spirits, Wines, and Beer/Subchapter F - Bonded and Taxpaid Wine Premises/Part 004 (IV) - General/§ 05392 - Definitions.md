@@ -2,7 +2,7 @@
 
 #### (a) Standard wine
 
-For purposes of this subchapter the term "standard wine" means natural wine, specially sweetened natural wine, special natural wine,and standard agricultural wine, produced in accordance with the provisions of sections 5381, 5385, 5386, and 5387, respectively.
+For purposes of this subchapter the term "standard wine" means natural wine, specially sweetened natural wine, special natural wine, and standard agricultural wine, produced in accordance with the provisions of sections 5381, 5385, 5386, and 5387, respectively.
 
 #### (b) Heavy bodied blending wine
 
@@ -10,7 +10,7 @@ For purposes of this subchapter the term "heavy bodied blending wine" means wine
 
 #### (c) Pure sugar
 
-For purposes of this subchapter the term "pure sugar" means pure refined sugar, suitable for human consumption, having a dextrose equivalent of not less than 95 percent on a dry basis, and produced from cane, beets, or fruit, or from grain or other sources of starch. Invert sugar syrup produced from such pure sugar by recognized methods of inversion may be used to prepare any sugar syrup, or solution of water and pure sugar, authorized in this subchapter.
+For purposes of this subchapter the term "pure sugar" means pure refined sugar, suitable for human consumption, having a dextrose equivalent of not less than 95 percent on a dry basis, and produced from cane, beets, or fruit, or from grain or other sources of starch. Invert sugar syrup produced from such pure sugar byrecognized methods of inversion may be used to prepare any sugar syrup, or solution of water and pure sugar, authorized in this subchapter.
 
 #### (d) Total solids
 

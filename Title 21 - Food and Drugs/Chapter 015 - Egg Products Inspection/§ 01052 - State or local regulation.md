@@ -2,7 +2,7 @@
 
 #### (a) Prohibition against additional or different requirements than Federal requirements relating to premises, facilities, and operations at official plants; authority to impose recordkeeping and related requirements consistent with Federal requirements
 
-Requirements within the scope of this chapter with respect to premises, facilities, and operations of any official plant which are in addition to or different than those made under this chapter may not be imposed by any State or local jurisdiction except that any such jurisdiction may impose recordkeeping and other requirements within the scope of section 1040 of this title, ifconsistent therewith, with respect to any such plant.
+Requirements within the scope of this chapter with respect to premises, facilities, and operations of any official plant which are in addition to or different than those made under this chapter may not be imposed by any State or local jurisdiction except that any such jurisdiction may impose recordkeeping and other requirements within the scope of section 1040 of this title, if consistent therewith, with respect to any such plant.
 
 #### (b) Prohibition against additional or different standards than Federal standards of quality, etc., or requiring labeling to show area of production or origin; authority to require name, address, and license number of processor or packer on containers; prohibition against additional or different requirements than Federal requirements relating to labeling, packaging or ingredients; authority to prevent distribution of violative articles; validity of nonconflicting laws
 
@@ -37,4 +37,8 @@ The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
+
+#### Effective Date
+
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 

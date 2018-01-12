@@ -110,7 +110,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;&emsp;The Director may waive the requirements of clause (i) with respect to a project funded by a grant or contract under this section if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Director and the Board (by a unanimous vote of the Board members)determine that the general public will benefit significantly due to the project not being freely and nonexclusively available to the general public in a timely manner; and
+&emsp;&emsp;&emsp;&emsp;(I) the Director and the Board (by a unanimous vote of the Board members) determine that the general public will benefit significantly due to the project not being freely and nonexclusively available to the general public in a timely manner; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Board issues a public statement as to the specific reasons of the determination under subclause (I).
 

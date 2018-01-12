@@ -18,7 +18,7 @@ The Secretary shall promulgate regulations to carry out this section.
 
 #### (e) Applicability
 
-This section shall not apply to quantities of agricultural commodities and products with respect to which an exporter has entered into acontract, prior to November 28, 1990, for an export sale.
+This section shall not apply to quantities of agricultural commodities and products with respect to which an exporter has entered into a contract, prior to November 28, 1990, for an export sale.
 
 (Pub. L. 95–501, title IV, §416, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 102–237, title III, §313, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
 

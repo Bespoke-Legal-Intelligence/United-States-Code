@@ -1,0 +1,6 @@
+### §13722. Transferred
+
+#### Codification
+
+Section 13722 was editorially reclassified as section 12122 of Title 34, Crime Control and Law Enforcement.
+

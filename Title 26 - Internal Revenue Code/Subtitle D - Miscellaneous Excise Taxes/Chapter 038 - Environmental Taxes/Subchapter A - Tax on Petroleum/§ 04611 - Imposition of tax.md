@@ -100,7 +100,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### Codification
 
-Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall nottake effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
 
@@ -200,7 +200,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Coordination with superfund reauthorization.—The amendments made by this section shall take effect only if the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499, approved Oct. 17, 1986\] is enacted."
 
-\[Pub. L. 101–239, title VII, §7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: "For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes above and under section 9509 of this title\], the commencement date is January 1, 1990."\]
+\[Pub. L. 101–239, title VII, §7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: "For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes aboveand under section 9509 of this title\], the commencement date is January 1, 1990."\]
 
 Pub. L. 99–499, title V, §511(c), Oct. 17, 1986, 100 Stat. 1761, provided that: "The amendments made by this section \[amending this section and repealing section 9653 of Title 42, The Public Health and Welfare\] shall take effect on January 1, 1987."
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals who are entitled to medical assistance under this subchapter (and, in the case of an individual under age 19, to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title.
+A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals who are entitled to medical assistance under thissubchapter (and, in the case of an individual under age 19, to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title.
 
 #### (b) Qualified employer-sponsored coverage
 
@@ -40,7 +40,7 @@ In this section, the term "premium assistance subsidy" means the amount of the e
 
 #### (2) Beneficiaries
 
-&emsp;No subsidy shall be provided to an individual under this section unless the individual (or theindividual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.
+&emsp;No subsidy shall be provided to an individual under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.
 
 #### (3) Opt-out permitted for any month
 

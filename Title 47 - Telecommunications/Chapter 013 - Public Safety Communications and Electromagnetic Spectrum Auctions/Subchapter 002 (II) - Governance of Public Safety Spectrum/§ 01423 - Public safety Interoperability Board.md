@@ -10,7 +10,7 @@ There is established within the Commission an advisory board to be known as the 
 
 #### (A) Voting members
 
-&emsp;&emsp;Not later than 30 days after February 22, 2012, the Chairman of the Commission shallappoint 14 voting members to the Interoperability Board, of which—
+&emsp;&emsp;Not later than 30 days after February 22, 2012, the Chairman of the Commission shall appoint 14 voting members to the Interoperability Board, of which—
 
 &emsp;&emsp;&emsp;(i) 4 members shall be representatives of wireless providers, of which—
 
@@ -64,7 +64,7 @@ There is established within the Commission an advisory board to be known as the 
 
 &emsp;Not later than 90 days after February 22, 2012, the Interoperability Board, in consultation with the NTIA, NIST, and the Office of Emergency Communications of the Department of Homeland Security, shall—
 
-&emsp;&emsp;(A) develop recommended minimum technical requirements to ensure a nationwide level of interoperability for the nationwide public safety broadband network; and
+&emsp;&emsp;(A) develop recommended minimum technical requirements to ensure a nationwidelevel of interoperability for the nationwide public safety broadband network; and
 
 &emsp;&emsp;(B) submit to the Commission for review in accordance with paragraph (3) recommended minimum technical requirements described in subparagraph (A).
 

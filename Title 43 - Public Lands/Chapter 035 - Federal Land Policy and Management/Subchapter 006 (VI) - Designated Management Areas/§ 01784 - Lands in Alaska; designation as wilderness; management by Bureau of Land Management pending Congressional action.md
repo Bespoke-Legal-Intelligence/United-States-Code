@@ -118,7 +118,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;"(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW¼, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
-&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract.This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
 &emsp;&emsp;"(C)
 
@@ -158,7 +158,7 @@ Acceptance.—KNA may accept the offer made in this section by notifying the Sec
 
 &emsp;&emsp;"(D)
 
-Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a finalreport and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
+Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a final report and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
 "(e)
 

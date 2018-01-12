@@ -10,7 +10,7 @@ The Assistant Secretary shall carry out a program for making grants to States wi
 
 #### (b) Support services
 
-The services provided, in a State program under subsection (a) of this section, by an area agency on aging, or entity that such agency has contracted with, shall include—
+The services provided, in a State program under subsection (a), by an area agency on aging, or entity that such agency has contracted with, shall include—
 
 &emsp;(1) information to caregivers about available services;
 
@@ -28,9 +28,9 @@ The services provided, in a State program under subsection (a) of this section, 
 
 &emsp;Services under a State program under this part shall be provided to family caregivers, and older relative caregivers, who—
 
-&emsp;&emsp;(A) are described in paragraph (1) or (2) of subsection (a) of this section; and
+&emsp;&emsp;(A) are described in paragraph (1) or (2) of subsection (a); and
 
-&emsp;&emsp;(B) with regard to the services specified in paragraphs (4) and (5) of subsection (b) of this section, in the case of a caregiver described in paragraph (1), is providing care to an older individual who meets the condition specified in subparagraph (A)(i) or (B) of section 3002(22) of this title.
+&emsp;&emsp;(B) with regard to the services specified in paragraphs (4) and (5) of subsection (b), in the case of a caregiver described in paragraph (1), is providing care to an older individual who meets the condition specified in subparagraph (A)(i) or (B) of section 3002(22) of this title.
 
 #### (2) Priority
 
@@ -56,7 +56,7 @@ In carrying out this part, each area agency on aging shall make use of trained v
 
 #### (3) Reports
 
-&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms bywhich the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
 #### (f) Caregiver allotment
 

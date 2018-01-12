@@ -72,7 +72,7 @@ Administration.—In carrying out this section, the Administrator shall, to the 
 
 Negotiated rulemaking.—(A) The Administrator shall enter into a negotiated rulemaking pursuant to subchapter III of chapter 5 of title 5 to develop and publish, not later than 3 years after June 22, 2016, a proposed rule providing for limiting the reporting requirements, under this subsection, for manufacturers of any inorganic byproducts, when such byproducts, whether by the byproduct manufacturer or by any other person, are subsequently recycled, reused, or reprocessed.
 
-(B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish a final rule resulting from such negotiated rulemaking.
+(B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish afinal rule resulting from such negotiated rulemaking.
 
 #### (b) Inventory
 
@@ -108,7 +108,7 @@ Rules.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 1 year after June 22, 2016, the Administrator, by rule, shall require manufacturers, and may require processors, subject to the limitations under subsection (a)(5)(A), to notify the Administrator, by not later than 180 days afterthe date on which the final rule is published in the Federal Register, of each chemical substance on the list published under paragraph (1) that the manufacturer or processor, as applicable, has manufactured or processed for a nonexempt commercial purpose during the 10-year period ending on the day before June 22, 2016.
+In general.—Not later than 1 year after June 22, 2016, the Administrator, by rule, shall require manufacturers, and may require processors, subject to the limitations under subsection (a)(5)(A), to notify the Administrator, by not later than 180 days after the date on which the final rule is published in the Federal Register, of each chemical substance on the list published under paragraph (1) that the manufacturer or processor, as applicable, has manufactured or processed for a nonexempt commercial purpose during the 10-year period ending on the day before June 22, 2016.
 
 &emsp;&emsp;(ii)
 
@@ -194,7 +194,7 @@ Change to active status.—
 
 &emsp;&emsp;(i)
 
-In general.—Any person that intends to manufacture or process for a nonexempt commercial purpose a chemical substancethat is designated as an inactive substance shall notify the Administrator before the date on which the inactive substance is manufactured or processed.
+In general.—Any person that intends to manufacture or process for a nonexempt commercial purpose a chemical substance that is designated as an inactive substance shall notify the Administrator before the date on which the inactive substance is manufactured or processed.
 
 &emsp;&emsp;(ii)
 
@@ -226,7 +226,7 @@ Category status.—The list of inactive substances shall not be considered to be
 
 (6)
 
-Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
+Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations\(as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
 
 (7)
 
@@ -286,7 +286,7 @@ Reporting.—
 
 &emsp;&emsp;(i)
 
-In general.—To assist in the preparation of the inventory under subparagraph\(B), any person who manufactures mercury or mercury-added products or otherwise intentionally uses mercury in a manufacturing process shall make periodic reports to the Administrator, at such time and including such information as the Administrator shall determine by rule promulgated not later than 2 years after June 22, 2016.
+In general.—To assist in the preparation of the inventory under subparagraph (B), any person who manufactures mercury or mercury-added products or otherwise intentionally uses mercury in a manufacturing process shall make periodic reports to the Administrator, at such time and including such information as the Administrator shall determine by rule promulgated not later than 2 years after June 22, 2016.
 
 &emsp;&emsp;(ii)
 
@@ -304,7 +304,7 @@ Any person who manufactures, processes, or distributes in commerce any chemical 
 
 The Administrator shall promulgate rules under which the Administrator shall require any person who manufactures, processes, or distributes in commerce or who proposes to manufacture, process, or distribute in commerce any chemical substance or mixture (or with respect to paragraph (2), any person who has possession of a study) to submit to the Administrator—
 
-&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirements of this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
+&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirementsof this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
 
 &emsp;(2) copies of any study contained on a list submitted pursuant to paragraph (1) or otherwise known by such person.
 
@@ -352,7 +352,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### "SEC. 3. PUBLICATION OF INFORMATION.
 
-"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publisha notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
 &emsp;"(1) review the information submitted under section 2 for accuracy, or
 

@@ -72,6 +72,10 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Exemption to Report Termination Requirements
+
+Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code."
+
 #### Organizational Strategy for the Department of Defense
 
 Pub. L. 114–328, div. A, title IX, §911, Dec. 23, 2016, 130 Stat. 2345, provided that:
@@ -194,7 +198,7 @@ Review of teams.—Not later than 18 months after the date on which the first cr
 
 &emsp;"(8)
 
-Report on establishment.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to Congress a report on the establishment of cross-functional teams under this subsection, including descriptions from the leaders of teams established prior to the date on which this report is submitted of the manner in which the teams were designed and how they functioned.
+Report on establishment.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to Congress a report on the establishment of cross-functional teams under this subsection, including descriptionsfrom the leaders of teams established prior to the date on which this report is submitted of the manner in which the teams were designed and how they functioned.
 
 "(d)
 
@@ -236,7 +240,7 @@ Assessment team.—The Comptroller General may establish within the Government A
 
 #### Temporary Continuation of Certain Department of Defense Reporting Requirements
 
-Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, provided that:
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600, provided that:
 
 "(a)
 
@@ -394,6 +398,14 @@ Reports Required by Title 10
 
 &emsp;"(63) Section 10543.
 
+&emsp;"(64) Section 10504(b).
+
+&emsp;"(65) Section 235.
+
+&emsp;"(66) Section 115a.
+
+&emsp;"(67) Section 2193b(g).
+
 "(d)
 
 Reports Required by National Defense Authorization Act for Fiscal Year 2015.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291):
@@ -432,6 +444,8 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2015.—S
 
 &emsp;"(17) Section 2821(a)(3) (10 U.S.C. 2687 note).
 
+&emsp;"(18) Section 1209(d) (128 Stat. 3542).
+
 "(e)
 
 Reports Required by National Defense Authorization Act for Fiscal Year 2014.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66):
@@ -450,7 +464,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2013.—S
 
 &emsp;"(1) Section 524(c)(2) (10 U.S.C. 1222 note).
 
-&emsp;"(2) Section 904(h)(1) and (2) (10 U.S.C. 133 note).
+&emsp;"(2) Section 904(h)(1) and (2) (10 U.S.C. 133 note) \[now 10 U.S.C. 133a note\].
 
 &emsp;"(3) Section 1009 (126 Stat. 1906).
 
@@ -532,9 +546,9 @@ Reports Required by Other Laws.—Subject to subsection (b), subsection (a) appl
 
 &emsp;"(22) Section 219(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note).
 
-&emsp;"(23) Section 533(i) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2010 \[2009\] (Public Law 110–417) \[10 U.S.C. note prec. 701\].
+&emsp;"(23) Section 533(i) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. prec. 701 note).
 
-&emsp;"(24) Section 1047(d)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2010 \[2009\] (Public Law 110–417; 10 U.S.C. 2366b note).
+&emsp;"(24) Section 1047(d)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2366b note).
 
 &emsp;"(25) Section 1201(b)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1619).
 
@@ -554,6 +568,10 @@ Reports Required by Other Laws.—Subject to subsection (b), subsection (a) appl
 
 &emsp;"(33) Section 310b(i)(2) \[probably should be "301b(i)(2)"\] of title 37, United States Code.
 
+&emsp;"(34) Section 509(k) of title 32, United States Code.
+
+&emsp;"(35) Section 1022(c) of the National Defense Authorization Act for \[Fiscal Year\] 2004 (Public Law 108–136; 10 U.S.C. 371 note \[probably should be "10 U.S.C. 271 note"\]).
+
 "(j) \[Amended section 1080(a) of Pub. L. 114–92, set out below.\]
 
 "(k)
@@ -564,9 +582,11 @@ Report to Congress.—Not later than February 1, 2017, the Secretary of Defense 
 
 &emsp;"(2) For each such report, a citation to the provision of law under which the report is or was required to be submitted."
 
+\[Pub. L. 115–91, div. A, title X, §1051(u)–(w), Dec. 12, 2017, 131 Stat. 1566, 1567, provided that the amendments made by section 1051(u)–(w) to section 1061 of Pub. L. 114–328, set out above, are effective as of Dec. 23, 2016, and as if included in section 1061 as enacted.\]
+
 #### Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities
 
-Pub. L. 114–92, div. A, title III, §346(a), (b), Nov. 25, 2015, 129 Stat. 796, provided that:
+Pub. L. 114–92, div. A, title III, §346(a), (b), Nov. 25, 2015, 129 Stat. 796, as amended by Pub. L. 115–91, div. A, title IX, §§922, 923, Dec. 12, 2017, 131 Stat. 1525, provided that:
 
 "(a)
 
@@ -606,7 +626,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Baseline amount.—For the purposes of this subsection, the baseline amount is the amount authorized to be appropriated by this Act \[see Tables for classification\] for fiscal year 2016 for major Department of Defense headquarters activities, adjusted by a credit for reductions in such headquarters activities that are documented, as of the date that is 90 days after the date of the enactment of this Act, as having been accomplished in earlier fiscal years in accordance with the December 2013 directive of the Secretary of Defense on headquarters reductions. The modified plan issued pursuant to paragraph (1) shall include an overall baseline amount for all of the major Department of Defense headquarters activities that credits reductions accomplished in earlier fiscal years in accordance with the December 2013 directive, and a specific baseline amount for each such headquarters activity that credits such reductions.
+Baseline amount.—For the purposes of this subsection, the baseline amount is the amount authorized to be appropriated by this Act \[see Tables for classification\] for fiscal year 2016 for major Department of Defense headquarters activities, adjusted by a credit for reductions in such headquarters activities that are documented, as of the date that is 90 days after the date of the enactment of this Act, as having been accomplished in earlier fiscal years in accordance with the December 2013 directive of the Secretary of Defense on headquarters reductions. The modified plan issued pursuant to paragraph (1) shall include an overall baseline amount for all of the major Department of Defense headquarters activities that credits reductions accomplished in earlier fiscalyears in accordance with the December 2013 directive, and a specific baseline amount for each such headquarters activity that credits such reductions.
 
 &emsp;"(3)
 
@@ -652,7 +672,35 @@ Implementation.—Not later than 120 days after the date of the enactment of thi
 
 &emsp;&emsp;"(C) ensure that the budget and accounting systems of the Department of Defense are modified to track funding for the major Department of Defense headquarters activities as separate funding lines; and
 
-&emsp;&emsp;"(D) identify and address any deviation from the specific savings objective established for a headquarters activity in the modified plan issued by the Secretary pursuant to the requirement in paragraph (1)."
+&emsp;&emsp;"(D) identify and address any deviation from the specific savings objective established for a headquarters activity in the modified plan issued by the Secretary pursuant to the requirement in paragraph (1).
+
+&emsp;"(5)
+
+Manner of carrying out reductions.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense shall implement the headquarters reduction plan referred to in paragraph (1), as modified pursuant to that paragraph, so that reductions in major Department of Defense headquarters activities pursuant to the plan are carried out only after consideration of—
+
+&emsp;&emsp;&emsp;"(i) the current manpower levels of major Department of Defense headquarters activities;
+
+&emsp;&emsp;&emsp;"(ii) the historic manpower levels of major Department of Defense headquarters activities;
+
+&emsp;&emsp;&emsp;"(iii) the mission requirements of major Department of Defense headquarters activities; and
+
+&emsp;&emsp;&emsp;"(iv) the anticipated staffing needs of major Department of Defense headquarters activities necessary to meet national defense objectives.
+
+&emsp;&emsp;"(B)
+
+Conforming modification of plan for achievement of cost savings.—The Secretary of Defense shall modify the plan for achievement of cost savings required by subsection (a) to take into account the requirement specified in subparagraph (A).
+
+&emsp;"(6)
+
+Certifications on cost savings achieved.—Not later than 120 days after the date of the enactment of this paragraph \[Dec. 12, 2017\], and not later than 60 days after the end of each of fiscal years 2018 through 2020, the Director of Cost Assessment and Program Evaluation shall certify to the Secretary of Defense, and to the congressional defense committees, the following:
+
+&emsp;&emsp;"(A) The validity of the cost savings achieved for each major Department of Defense headquarters activity during the previous fiscal year, including the cost of personnel detailed by another Department entity to the headquarters activity.
+
+&emsp;&emsp;"(B) Whether the cost savings achieved for each major Department of Defense headquarters activity during that fiscal year met the savings objective for the headquarters activity for that fiscal year, as established pursuant to paragraph (1)."
 
 #### Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute
 
@@ -868,7 +916,7 @@ Specified Entities.—Subsection (a) applies—
 
 &emsp;"(1) effective as of September 23, 1996, to members of the National Defense Panel established by section 924 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2626) \[formerly set out below\]; and
 
-&emsp;"(2) effective as of October 9, 1996, to members of the Commission on Servicemembers and Veterans Transition Assistance established by section 701 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 110 Stat. 3346; 38 U.S.C. 545 note)."
+&emsp;"(2) effective as of October 9, 1996, to members of the Commission on Servicemembers and VeteransTransition Assistance established by section 701 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 110 Stat. 3346; 38 U.S.C. 545 note)."
 
 #### Mission of White House Communications Agency
 
@@ -906,7 +954,7 @@ Termination of Report Requirements.—Unless otherwise provided by a law enacted
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit thatreport is unnecessary or incompatible with the efficient management of the Department of Defense.
+"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
 "(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
@@ -928,7 +976,7 @@ Pub. L. 101–510, div. A, title XIII, §1321, Nov. 5, 1990, 104 Stat. 1670, pro
 
 #### Restoration of Certain Reporting Requirements of Title 10 Terminated by Goldwater-Nichols Act
 
-Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
+Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 

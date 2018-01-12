@@ -2,10 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2911\.](%C2%A7%2002911%20-%20Energy%20performance%20goals%20and%20master%20plan%20for%20the%20Department%20of%20Defense.md) | Energy performance goals and master plan for the Department of Defense. |
+| [2911\.](%C2%A7%2002911%20-%20Energy%20policy%20of%20the%20Department%20of%20Defense.md) | Energy policy of the Department of Defense. |
 | [2912\.](%C2%A7%2002912%20-%20Availability%20and%20use%20of%20energy%20cost%20savings.md) | Availability and use of energy cost savings. |
 | [2913\.](%C2%A7%2002913%20-%20Energy%20savings%20contracts%20and%20activities.md) | Energy savings contracts and activities. |
-| [2914\.](%C2%A7%2002914%20-%20Energy%20resiliency%20and%20conservation%20construction%20projects.md) | Energy resiliency and conservation construction projects. |
+| [2914\.](%C2%A7%2002914%20-%20Energy%20resiliency%201%20and%20conservation%20construction%20projects.md) | Energy resiliency and conservation construction projects. |
 | [2915\.](%C2%A7%2002915%20-%20Facilities%20use%20of%20renewable%20forms%20of%20energy%20and%20energy%20efficient%20products.md) | Facilities: use of renewable forms of energy and energy efficient products. |
 | [2916\.](%C2%A7%2002916%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md) | Sale of electricity from alternate energy and cogeneration production facilities. |
 | [2917\.](%C2%A7%2002917%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md) | Development of geothermal energy on military lands. |
@@ -15,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
@@ -27,10 +29,10 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02911 - Energy performance goals and master plan for the Department of Defense](%C2%A7%2002911%20-%20Energy%20performance%20goals%20and%20master%20plan%20for%20the%20Department%20of%20Defense.md)
+- [&sect; 02911 - Energy policy of the Department of Defense](%C2%A7%2002911%20-%20Energy%20policy%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 02912 - Availability and use of energy cost savings](%C2%A7%2002912%20-%20Availability%20and%20use%20of%20energy%20cost%20savings.md)
 - [&sect; 02913 - Energy savings contracts and activities](%C2%A7%2002913%20-%20Energy%20savings%20contracts%20and%20activities.md)
-- [&sect; 02914 - Energy resiliency and conservation construction projects](%C2%A7%2002914%20-%20Energy%20resiliency%20and%20conservation%20construction%20projects.md)
+- [&sect; 02914 - Energy resiliency 1 and conservation construction projects](%C2%A7%2002914%20-%20Energy%20resiliency%201%20and%20conservation%20construction%20projects.md)
 - [&sect; 02915 - Facilities use of renewable forms of energy and energy efficient products](%C2%A7%2002915%20-%20Facilities%20use%20of%20renewable%20forms%20of%20energy%20and%20energy%20efficient%20products.md)
 - [&sect; 02916 - Sale of electricity from alternate energy and cogeneration production facilities](%C2%A7%2002916%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md)
 - [&sect; 02917 - Development of geothermal energy on military lands](%C2%A7%2002917%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md)

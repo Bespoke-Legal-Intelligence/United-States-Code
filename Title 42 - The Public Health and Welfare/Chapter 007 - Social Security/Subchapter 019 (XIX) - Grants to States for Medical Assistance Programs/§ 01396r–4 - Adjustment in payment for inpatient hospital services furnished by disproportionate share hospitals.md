@@ -8,7 +8,7 @@
 
 &emsp;(B) provides, effective for inpatient hospital services provided not later than July 1, 1988, for an appropriate increase in the rate or amount of payment for such services provided by such hospitals, consistent with subsection (c).
 
-(2)(A) In order to be considered to have met such requirement of section 1396a(a)(13)(A) ofthis title as of July 1, 1989, the State must submit to the Secretary by not later than April 1, 1989, the State plan amendment described in paragraph (1), consistent with subsection (c), effective for inpatient hospital services provided on or after July 1, 1989.
+(2)(A) In order to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1989, the State must submit to the Secretary by not later than April 1, 1989, the State plan amendment described in paragraph (1), consistent with subsection (c), effective for inpatient hospital services provided on or after July 1, 1989.
 
 (B) In order to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1990, the State must submit to the Secretary by not later than April 1, 1990, the State plan amendment described in paragraph (1), consistent with subsections (c) and (f), effective for inpatient hospital services provided on or after July 1, 1990.
 
@@ -84,7 +84,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 (2) In the case of a State that used a health insuring organization before January 1, 1986, to administer a portion of its plan on a statewide basis, beginning on July 1, 1988—
 
-&emsp;(A) the requirements of subsections (b) and (c) (other than the last sentence of subsection (c)) shall not apply if the aggregate amount of the payment adjustments under the plan for disproportionate share hospitals (as definedunder the State plan) is not less than the aggregate amount of payment adjustments otherwise required to be made if such subsections applied,
+&emsp;(A) the requirements of subsections (b) and (c) (other than the last sentence of subsection (c)) shall not apply if the aggregate amount of the payment adjustments under the plan for disproportionate share hospitals (as defined under the State plan) is not less than the aggregate amount of payment adjustments otherwise required to be made if such subsections applied,
 
 &emsp;(B) subsection (d)(2)(B) shall apply to hospitals located in urban areas, as well as in rural areas,
 
@@ -261,7 +261,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 &emsp;&emsp;&emsp;(I) The total amount of Essential Access Hospital supplemental pool payments that may be made under the TennCare Demonstration Project for fiscal year 2007, 2008, 2009, 2010, 2011, or for a period in fiscal year 2012 described in clause (i) shall be reduced on a dollar for dollar basis by the amount of any payments made under section 1396b(a) of this title to Tennessee with respect to payment adjustments made under this section for hospitals in the State for such fiscal year or period.
 
-&emsp;&emsp;&emsp;(II) The sum of the total amount of payments made under section 1396b(a) of this title to Tennessee with respect to payment adjustments made under this section for hospitals in the State for fiscal year 2007, 2008, 2009, 2010, 2011, or for a period in fiscal year 2012 described in clause (i) and the total amount of Essential Access Hospital supplemental pool payments made under the TennCare Demonstration Project for such fiscal year or period shall not exceed the State's DSH allotment for such fiscal year or period established under clause (i).
+&emsp;&emsp;&emsp;(II) The sum of the total amount of payments made under section 1396b(a) of this title to Tennessee with respect to paymentadjustments made under this section for hospitals in the State for fiscal year 2007, 2008, 2009, 2010, 2011, or for a period in fiscal year 2012 described in clause (i) and the total amount of Essential Access Hospital supplemental pool payments made under the TennCare Demonstration Project for such fiscal year or period shall not exceed the State's DSH allotment for such fiscal year or period established under clause (i).
 
 #### (v) Allotment for 2d, 3rd, and 4th quarters of fiscal year 2012 and for fiscal year 2013
 
@@ -451,7 +451,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 &emsp;&emsp;The percentage determined under this subparagraph is the ratio (determined as a percentage) of—
 
-&emsp;&emsp;&emsp;(i) the Federal share of payment adjustments made to hospitals in the State under subsection (c) that are attributableto the 1995 DSH allotment for the State (as reported by the State not later than January 1, 1997, on HCFA Form 64, and as approved by the Secretary) for payments to institutions for mental diseases and other mental health facilities, to
+&emsp;&emsp;&emsp;(i) the Federal share of payment adjustments made to hospitals in the State under subsection (c) that are attributable to the 1995 DSH allotment for the State (as reported by the State not later than January 1, 1997, on HCFA Form 64, and as approved by the Secretary) for payments to institutions for mental diseases and other mental health facilities, to
 
 &emsp;&emsp;&emsp;(ii) the State 1995 DSH spending amount.
 
@@ -483,7 +483,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;&emsp;(A) An identification of each disproportionate share hospital that received a payment adjustment under this section for the preceding fiscal year and the amount of the payment adjustment made to such hospital for the preceding fiscal year.
 
-&emsp;&emsp;(B) Such other information as the Secretary determines necessary to ensure the appropriateness of the payment adjustments made under this section for the preceding fiscal year.
+&emsp;&emsp;(B) Such other information as the Secretary determines necessary to ensure theappropriateness of the payment adjustments made under this section for the preceding fiscal year.
 
 #### (2) Independent certified audit
 
@@ -503,7 +503,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 
@@ -601,7 +601,7 @@ Subsec. (f)(6)(B)(i). Pub. L. 111–3, §616(3)(A), substituted "2007 through 20
 
 <b>2008</b>—Subsec. (f)(6). Pub. L. 110–275, §202(1), substituted "fiscal years 2007 through 2009 and the first calendar quarter of fiscal year 2010" for "for fiscal year 2007 and portions of fiscal year 2008" in heading.
 
-Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only withrespect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
+Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
 
 Subsec. (f)(6)(A)(ii). Pub. L. 110–275, §202(2)(B), substituted ", 2008, 2009, or for a period in fiscal year 2010" for "or for a period in fiscal year 2008".
 
@@ -771,7 +771,7 @@ Pub. L. 109–171, title VI, §6054(b), Feb. 8, 2006, 120 Stat. 96, provided tha
 
 Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] take effect on the date the final regulation required under section 705(a) \[114 Stat. 2763A–575\] (relating to the application of an aggregate upper payment limit test for State medicaid spending for inpatient hospital services, outpatient hospital services, nursing facility services, intermediate care facility services for the mentally retarded, and clinic services provided by government facilities that are not State-owned or operated facilities) is published in the Federal Register." \[The final regulation was published Jan. 12, 2001, 66 Fed. Reg. 3147.\]
 
-Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–571, provided that: "Theamendments made by paragraph (2) \[amending this section\] shall apply to payments made on or after January 1, 2001."
+Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–571, provided that: "The amendments made by paragraph (2) \[amending this section\] shall apply to payments made on or after January 1, 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -809,7 +809,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 "(B)
 
-Delay in implementation for private hospitals.—With respect to a hospital that is not owned or operated by a State (or by an instrumentality or a unit of government within a State), the amendments made by this subsection shall apply to payments to States under section 1903(a) for payments to hospitals made under State plans for State fiscal years that begin during or after 1995, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date."
+Delay in implementation for private hospitals.—With respect to a hospital that is not owned or operated by a State (or by an instrumentality or a unit of government within a State), the amendments made by this subsection shall apply to payments to States under section 1903(a) for payments to hospitals made under State plans for State fiscal years that begin during or after 1995, without regard to whether or not finalregulations to carry out such amendments have been promulgated by such date."
 
 #### Effective Date of 1991 Amendment
 

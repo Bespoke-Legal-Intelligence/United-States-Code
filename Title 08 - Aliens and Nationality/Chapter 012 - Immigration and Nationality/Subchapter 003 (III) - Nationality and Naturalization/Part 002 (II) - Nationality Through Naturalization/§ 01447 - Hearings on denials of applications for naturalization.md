@@ -14,7 +14,7 @@ The Attorney General shall have the right to appear before any immigration offic
 
 #### (d) Subpena of witnesses
 
-The immigration officer shall, if the applicant requests it at the time of filing the request for the hearing, issue a subpena for the witnesses named by such applicant to appear upon the day set for the hearing, but in case such witnesses cannot be produced upon the hearing other witnesses may be summoned upon notice to the Attorney General, in such manner and at such time as the Attorney General may by regulation prescribe. Such subpenas may be enforced in the same manner as subpenas under section 1446(b) of this title may be enforced.
+The immigration officer shall, if the applicant requests it at the time of filing the request for the hearing, issue a subpena for the witnesses named by such applicant to appear upon the day set for the hearing, but in case such witnesses cannot be produced upon the hearing other witnesses may be summoned upon notice to the Attorney General, in such manner and at such time as the Attorney General may by regulationprescribe. Such subpenas may be enforced in the same manner as subpenas under section 1446(b) of this title may be enforced.
 
 #### (e) Change of name
 
@@ -60,7 +60,7 @@ Subsec. (f). Pub. L. 97–116, §15(d)(5), redesignated subsec. (f) as (e).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

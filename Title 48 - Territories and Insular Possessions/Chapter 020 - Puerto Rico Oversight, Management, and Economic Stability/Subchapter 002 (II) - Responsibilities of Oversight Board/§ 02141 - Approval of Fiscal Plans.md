@@ -44,7 +44,7 @@ As soon as practicable after all of the members and the Chair have been appointe
 
 #### (2) Term
 
-&emsp;A Fiscal Plan developed under this section shall cover a period of fiscal years as determined by the Oversight Board in its sole discretion but in any case a period of not lessthan 5 fiscal years from the fiscal year in which it is certified by the Oversight Board.
+&emsp;A Fiscal Plan developed under this section shall cover a period of fiscal years as determined by the Oversight Board in its sole discretion but in any case a period of not less than 5 fiscal years from the fiscal year in which it is certified by the Oversight Board.
 
 #### (c) Development, review, approval, and certification of Fiscal Plans
 

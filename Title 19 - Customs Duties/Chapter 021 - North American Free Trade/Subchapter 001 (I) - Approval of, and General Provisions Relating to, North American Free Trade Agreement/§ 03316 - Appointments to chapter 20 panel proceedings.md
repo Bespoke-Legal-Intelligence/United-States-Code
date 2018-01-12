@@ -2,7 +2,7 @@
 
 #### (a) Consultation
 
-The Trade Representative shall consult with the Committee on Ways and Means of the Houseof Representatives and the Committee on Finance of the Senate regarding the selection and appointment of candidates for the rosters described in article 2009 of the Agreement.
+The Trade Representative shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding the selection and appointment of candidates for the rosters described in article 2009 of the Agreement.
 
 #### (b) Selection of individuals with environmental expertise
 

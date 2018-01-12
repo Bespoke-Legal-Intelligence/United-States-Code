@@ -34,7 +34,7 @@ In the case of an exchange to which section 351, 354, 355, 356, or 361 appliesâ€
 
 #### (2) Special rule for section 355
 
-&emsp;In the case of an exchange to which section 355 (or so much of section 356 as relates to section 355) applies, then in making the allocation under paragraph (1) of this subsection,there shall be taken into account not only the property so permitted to be received without the recognition of gain or loss, but also the stock or securities (if any) of the distributing corporation which are retained, and the allocation of basis shall be made among all such properties.
+&emsp;In the case of an exchange to which section 355 (or so much of section 356 as relates to section 355) applies, then in making the allocation under paragraph (1) of this subsection, there shall be taken into account not only the property so permitted to be received without the recognition of gain or loss, but also the stock or securities (if any) of the distributing corporation which are retained, and the allocation of basis shall be made among all such properties.
 
 #### (c) Section 355 transactions which are not exchanges
 
@@ -52,7 +52,7 @@ For purposes of this section, a distribution to which section 355 (or so much of
 
 #### (e) Exception
 
-This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+This section shall not apply to property acquired by a corporation by the exchange of itsstock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 

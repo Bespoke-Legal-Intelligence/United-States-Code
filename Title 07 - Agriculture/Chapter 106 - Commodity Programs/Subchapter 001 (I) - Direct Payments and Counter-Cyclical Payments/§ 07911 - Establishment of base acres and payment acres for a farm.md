@@ -42,7 +42,7 @@
 
 #### (4) Treatment of multiple planting or prevented planting
 
-&emsp;For the purpose of determining under paragraph (1)(A) the acreage on a farm that producers planted or were prevented from planting during the 1998 through 2001 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice of double cropping), the owner may elect the commodity to be used for that crop year in determining the 4-year average, but may not include both the initial commodity and the subsequent commodity.
+&emsp;For the purpose of determining under paragraph (1)(A) the acreage on a farm that producers planted or were prevented from planting during the 1998 through 2001 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice ofdouble cropping), the owner may elect the commodity to be used for that crop year in determining the 4-year average, but may not include both the initial commodity and the subsequent commodity.
 
 #### (b) Single election; time for election
 
@@ -120,9 +120,9 @@ The owner of a farm may reduce, at any time, the base acres for any covered comm
 
 #### References in Text
 
-Subchapter III, referred to in subsec. (g)(1), (2)(A), (3), was in the original "subtitle C", meaning subtitle C\(§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III, referred to in subsec. (g)(1), (2)(A), (3), was in the original "subtitle C", meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. Forcomplete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Popcorn Acreage
 

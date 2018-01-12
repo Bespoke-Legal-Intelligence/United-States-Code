@@ -42,7 +42,7 @@
 
 #### (3) Designation
 
-&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretaryshall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
 
 #### (c) Accelerated approval of a drug for a serious or life-threatening disease or condition, including a fast track product
 
@@ -50,7 +50,7 @@
 
 #### (A) Accelerated approval
 
-&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as "accelerated approval".
+&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] upon adetermination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as "accelerated approval".
 
 #### (B) Evidence
 
@@ -226,7 +226,7 @@ The Secretary shall—
 
 #### (B) GAO report
 
-&emsp;&emsp;Not later than December 2021, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act \[42 U.S.C. 247d–5\]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would beappropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
+&emsp;&emsp;Not later than December 2021, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act \[42 U.S.C. 247d–5\]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would be appropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
 
 (June 25, 1938, ch. 675, §506, as added Pub. L. 105–115, title I, §112(a), Nov. 21, 1997, 111 Stat. 2309; amended Pub. L. 112–144, title VIII, §803, title IX, §§901(b), 902(a), July 9, 2012, 126 Stat. 1079, 1083, 1086; Pub. L. 114–255, div. A, title III, §§3033(a), (c), 3042, Dec. 13, 2016, 130 Stat. 1101, 1103, 1112.)
 
@@ -238,7 +238,7 @@ The 21st Century Cures Act, referred to in subsec. (e)(1), is Pub. L. 114–255.
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (g)(6)(A), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
-The Public Health Service Act, referred to in subsec. (h)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, which isclassified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -310,7 +310,7 @@ Findings.—Congress finds as follows:
 
 &emsp;"(C) As a result of these remarkable scientific and medical advances, the FDA should be encouraged to implement more broadly effective processes for the expedited development and review of innovative new medicines intended to address unmet medical needs for serious or life-threatening diseases or conditions, including those for rare diseases or conditions, using a broad range of surrogate or clinical endpoints and modern scientific tools earlier in the drug development cycle when appropriate. This may result in fewer, smaller, or shorter clinical trials for the intended patient population or targeted subpopulation without compromising or altering the high standards of the FDA for the approval of drugs.
 
-&emsp;"(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmet medical needs for serious or life-threatening diseases or conditions.
+&emsp;"(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmetmedical needs for serious or life-threatening diseases or conditions.
 
 &emsp;"(E) For these reasons, the statutory authority in effect on the day before the date of enactment of this Act \[July 9, 2012\] governing expedited approval of drugs for serious or life-threatening diseases or conditions should be amended in order to enhance the authority of the FDA to consider appropriate scientific data, methods, and tools, and to expedite development and access to novel treatments for patients with a broad range of serious or life-threatening diseases or conditions.
 

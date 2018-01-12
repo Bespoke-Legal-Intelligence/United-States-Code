@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as "eligible individuals"). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the "Secretary")shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as "eligible individuals"). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -40,7 +40,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (c) Special grants
 
-(1) A State that is conducting a health insurance information, counseling, and assistanceprogram that is substantially similar to a program described in subsection (b)(2) shall, as a requirement for eligibility for a grant under this section, demonstrate, to the satisfaction of the Secretary, that such State shall maintain the activities of such program at least at the level that such activities were conducted immediately preceding the date of the issuance of any grant during the period of time covered by such grant under this section.
+(1) A State that is conducting a health insurance information, counseling, and assistance program that is substantially similar to a program described in subsection (b)(2) shall, as a requirement for eligibility for a grant under this section, demonstrate, to the satisfaction of the Secretary, that such State shall maintain the activities of such program at least at the level that such activities were conducted immediately preceding the date of the issuance of any grant during the period of time covered by such grant under this section.
 
 (2) If the Secretary determines that the existing health insurance information, counseling, and assistance program is substantially similar to a program described in subsection (b)(2), the Secretary may waive some or all of the requirements described in such subsection and issue a grant to the State for the purpose of increasing the number of services offered by the health insurance information, counseling, and assistance program, experimenting with new methods of outreach in conducting such program, or expanding such program to geographic areas of the State not previously served by the program.
 

@@ -82,7 +82,7 @@ Consistency with Medicare Claims Requirements.—The Secretary of Defense shall 
 
 "(d)
 
-Identification Card.—The Secretary of Defense shall take appropriate actions to determine whether the use by covered beneficiaries of a standard identification card containing electronically readable information will enhance the capability of the claims processing center to carry out the activities set forth in subsection (b).
+Identification Card.—The Secretary of Defense shall take appropriate actions to determine whetherthe use by covered beneficiaries of a standard identification card containing electronically readable information will enhance the capability of the claims processing center to carry out the activities set forth in subsection (b).
 
 "(e)
 

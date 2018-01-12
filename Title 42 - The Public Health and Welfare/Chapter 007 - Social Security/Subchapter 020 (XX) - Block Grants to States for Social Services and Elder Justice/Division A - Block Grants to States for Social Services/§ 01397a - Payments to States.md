@@ -6,7 +6,7 @@
 
 (2) For purposes of paragraph (1)—
 
-&emsp;(A) services which are directed at the goals set forth in section 1397 of this title include, but are not limited to, child care services, protective services for children and adults, services for children and adults in foster care, services related to the management and maintenance of the home, day care services for adults, transportation services, family planning services, training and related services, employment services, information, referral, and counseling services, the preparation and delivery of meals, health support services and appropriate combinations of services designed to meet the special needs of children, the aged, the mentally retarded, the blind, the emotionally disturbed, the physically handicapped, and alcoholics and drug addicts; and
+&emsp;(A) services which are directed at the goals set forth in section 1397 of this title include, but are not limited to, child care services, protective services for children and adults, services for children and adults in foster care, services related to the management and maintenance of the home, day care services for adults, transportation services, family planning services, training and related services, employment services, information, referral, and counseling services, the preparation and delivery of meals, health support services and appropriate combinations of services designed to meet the special needs of children, the aged,the mentally retarded, the blind, the emotionally disturbed, the physically handicapped, and alcoholics and drug addicts; and
 
 &emsp;(B) expenditures for such services may include expenditures for—
 

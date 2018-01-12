@@ -348,7 +348,7 @@ Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each o
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-YearExtension of Agricultural Programs note under section 8701 of this title.
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 

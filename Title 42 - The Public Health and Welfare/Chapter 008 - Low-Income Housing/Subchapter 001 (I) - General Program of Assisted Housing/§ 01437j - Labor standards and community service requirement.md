@@ -38,7 +38,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;(D) meets the requirements for being exempted from having to engage in a work activity under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under any other welfare program of the State in which the public housing agency is located, including a State-administered welfare-to-work program; or
 
-&emsp;&emsp;(E) is in a family receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under any other welfare program of the State in which the public housing agency is located, including a State-administered welfare-to-work program, and has not been found by the State or other administering entity to be in noncompliance with such program.
+&emsp;&emsp;(E) is in a family receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under any other welfare program of the State in which the publichousing agency is located, including a State-administered welfare-to-work program, and has not been found by the State or other administering entity to be in noncompliance with such program.
 
 #### (3) Annual determinations
 
@@ -62,7 +62,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;&emsp;&emsp;(III) that, unless the resident enters into an agreement under clause (ii) of this subparagraph, the resident's lease will not be renewed; and
 
-&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of thelease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
+&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of the lease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
 
 #### (4) Ineligibility for occupancy for noncompliance
 
@@ -102,7 +102,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (B) No reduction based on time limit for assistance
 
-&emsp;&emsp;For purposes of this paragraph, a reduction in benefits as a result of the expiration of a lifetime time limit for a family receiving welfare or public assistance benefits shall not be considered to be a failure to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement. This paragraph shall apply beginning on October 21, 1998.
+&emsp;&emsp;For purposes of this paragraph, a reduction in benefits as a result of the expiration of a lifetime time limit for a family receiving welfare or public assistance benefitsshall not be considered to be a failure to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement. This paragraph shall apply beginning on October 21, 1998.
 
 #### (3) Effect of fraud
 
@@ -150,7 +150,7 @@ For purposes of this section, the term "economic self-sufficiency program" means
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Subsection (k), referred to in subsec. (c)(3)(C)(i)(II), probably means section 1437d(k) of this title, which relates to administrative grievance procedures. This section does not contain a subsec. (k).
 

@@ -36,7 +36,7 @@ Implementation.—(1) The Secretary of Defense shall implement the program withi
 
 (c)
 
-Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a)shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
+Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
 (d)
 
@@ -114,7 +114,7 @@ Subsec. (f)(3). Pub. L. 113–291, §916(d)(3)(C), added par. (3).
 
 "(a)
 
-Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a personspecified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title."
+Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title."
 
 Subsec. (d). Pub. L. 105–85, §599(e)(2), added subsec. (d).
 

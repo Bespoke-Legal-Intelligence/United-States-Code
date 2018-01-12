@@ -36,7 +36,7 @@ No gain or loss shall be recognized to a purchaser of a contract described in su
 
 #### (e) Simplified reporting
 
-The Secretary may prescribe rules for simplified reporting of all trusts having a single trustee and of trusts terminated during the year.
+The Secretary may prescribe rules for simplified reporting of all trusts having a singletrustee and of trusts terminated during the year.
 
 (Added Pub. L. 105–34, title XIII, §1309(a), Aug. 5, 1997, 111 Stat. 1042; amended Pub. L. 105–206, title VI, §6013(b), July 22, 1998, 112 Stat. 820; Pub. L. 110–317, §9(a), (b), Aug. 29, 2008, 122 Stat. 3530.)
 

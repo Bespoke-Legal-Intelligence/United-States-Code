@@ -18,5 +18,5 @@ Section was formerly classified to section 623h of former Title 5, Executive Dep
 
 #### Assistant Secretary for Public Affairs
 
-Pub. L. 112–166, §2(e)(1), Aug. 10, 2012, 126 Stat. 1284, provided that: "Notwithstanding any other provision oflaw, the appointment of an individual to serve as the Assistant Secretary for Public Affairs within the Department of Health and Human Services shall not be subject to the advice and consent of the Senate."
+Pub. L. 112–166, §2(e)(1), Aug. 10, 2012, 126 Stat. 1284, provided that: "Notwithstanding any other provision of law, the appointment of an individual to serve as the Assistant Secretary for Public Affairs within the Department of Health and Human Services shall not be subject to the advice and consent of the Senate."
 

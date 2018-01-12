@@ -46,7 +46,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
 
-(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require theUnited States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
+(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
 (d)
 
@@ -114,7 +114,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 Substantive and Procedural Rights and Protections for Children.—(1) The Secretary shall provide the following substantive rights, protections, and procedural safeguards (including due process procedures) in the educational programs provided for under this section:
 
-&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available tochildren with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
+&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
 &emsp;(B) In the case of infants or toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants or toddlers with disabilities under part C of such Act (20 U.S.C. 1431 et seq.).
 
@@ -166,7 +166,7 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 (k)
 
-Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
+Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense educationprogram provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
 
 &emsp;(A) the dependents departed the overseas location as a result of a evacuation order;
 
@@ -234,7 +234,7 @@ Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end "If a member of 
 
 Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: "A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time."
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: "A dependent referred to in subparagraph\(A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time."
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 
@@ -244,7 +244,7 @@ Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply onlywith respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
+Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
 
 #### Effective Date of 1998 Amendment
 

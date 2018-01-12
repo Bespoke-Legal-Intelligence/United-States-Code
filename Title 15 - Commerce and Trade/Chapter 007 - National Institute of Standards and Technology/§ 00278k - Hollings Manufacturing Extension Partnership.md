@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Community college
 
-&emsp;The term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
+&emsp;The term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highestdegree that is predominately awarded to students is an associate's degree.
 
 #### (5) Eligible entity
 
@@ -48,7 +48,7 @@ The Secretary, acting through the Director and, if appropriate, through other Fe
 
 The objective of the Program shall be to enhance competitiveness, productivity, and technological performance in United States manufacturing through—
 
-&emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute toCenters and, through them, to manufacturing companies throughout the United States;
+&emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
 &emsp;(2) the participation of individuals from industry, institutions of higher education, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
@@ -238,7 +238,7 @@ The activities of a Center shall include—
 
 #### (1) In general
 
-&emsp;If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operatethe Center in accordance with the process plan under subsection (i).
+&emsp;If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operate the Center in accordance with the process plan under subsection (i).
 
 #### (2) Incumbent eligible entities
 
@@ -354,7 +354,7 @@ In addition to such sums as may be appropriated to the Secretary and Director to
 
 #### (C) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the termfor which his predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (D) Serving consecutive terms
 

@@ -1,6 +1,6 @@
 ### §256. Promotion zones
 
-(a) Before convening a selection board to recommend officers for promotion to any grade above lieutenant (junior grade) and below rear admiral (lower half), the Secretary shall establish a promotion zone for the grade to be considered. The promotion zone for each grade shall consist of the most senior officers of that grade on the active duty promotion list who are eligible for consideration for promotion to the next higher grade and who have not previously been placed in a promotion zone for selection for promotion to the next higher grade. The number of officers in each zone shall be determined after considering—
+(a) Before convening a selection board to recommend officers for promotion to any grade above lieutenant (junior grade) and below rear admiral (lower half), the Secretary shall establish a promotion zone for the grade to be considered. The promotion zone for each grade shall consist of the most senior officers of that grade on the active duty promotion list who are eligible for consideration for promotion to the next higher grade and who have not previously beenplaced in a promotion zone for selection for promotion to the next higher grade. The number of officers in each zone shall be determined after considering—
 
 &emsp;(1) the needs of the service;
 

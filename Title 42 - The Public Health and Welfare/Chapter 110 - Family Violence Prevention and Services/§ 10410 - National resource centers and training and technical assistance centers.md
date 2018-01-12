@@ -40,15 +40,15 @@
 
 &emsp;&emsp;(B) a National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women, which shall—
 
-&emsp;&emsp;&emsp;(i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note);
+&emsp;&emsp;&emsp;(i) offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 \[42 U.S.C. 3796gg–10 note\]; and
+&emsp;&emsp;&emsp;(ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 \[42 U.S.C. 3796gg–10 note\]; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(iii) coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiians that experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.
 
 #### (2) Special issue resource centers
 
-&emsp;In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligible entities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violenceservice providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:
+&emsp;In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligible entities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violence service providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:
 
 &emsp;&emsp;(A) The response of the criminal and civil justice systems to domestic violence victims, which may include the response to the use of the self-defense plea by domestic violence victims and the issuance and use of protective orders.
 
@@ -92,9 +92,9 @@
 
 &emsp;To be eligible to receive a grant under subsection (b)(1)(B), an entity shall be a tribal organization or a nonprofit private organization that focuses primarily on issues of domestic violence within Indian tribes and that submits documentation to the Secretary demonstrating—
 
-&emsp;&emsp;(A) experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note);
+&emsp;&emsp;(A) experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note); <sup>1</sup>
 
-&emsp;&emsp;(B) experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note);
+&emsp;&emsp;(B) experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note); <sup>1</sup>
 
 &emsp;&emsp;(C) strong support for the entity's designation as the National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;
 
@@ -126,17 +126,19 @@
 
 #### (d) Reports and evaluation
 
-Each entity receiving a grant under this section shall submit a performance report to the Secretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
+Each entity receiving a grant under this section shall submit a performance report to theSecretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
 
 (Pub. L. 98–457, title III, §310, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3497.)
 
 #### References in Text
 
-Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which are set out as a note under section 3796gg–10 of this title.
+Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under section 3796gg–10 of this title, prior to editorial reclassification as a note under section 10452 of Title 34, Crime Control and Law Enforcement.
 
 #### Prior Provisions
 
 A prior section 10410, Pub. L. 98–457, title III, §311, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §303(b), Apr. 25, 1988, 102 Stat. 125; Pub. L. 102–295, title III, §317, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40272(c), Sept. 13, 1994, 108 Stat. 1938; Pub. L. 108–36, title IV, §§406(c), 407, 415(6), June 25, 2003, 117 Stat. 827, 830, related to grants for State domestic violence coalitions, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10411 of this title.
 
 A prior section 310 of Pub. L. 98–457 was classified to section 10409 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

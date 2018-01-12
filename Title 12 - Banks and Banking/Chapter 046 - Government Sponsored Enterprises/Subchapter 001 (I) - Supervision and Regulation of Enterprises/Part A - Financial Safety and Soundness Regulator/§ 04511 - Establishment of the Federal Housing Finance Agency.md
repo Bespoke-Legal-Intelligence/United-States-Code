@@ -268,7 +268,7 @@ In General.—Effective at the end of the 1-year period beginning on the date of
 
 Disposition of Affairs.—During the 1-year period beginning on the date of enactment of this Act \[July 30, 2008\], the Board, solely for the purpose of winding up the affairs of the Board—
 
-&emsp;"(1) shall manage the employees of the Board and provide for the payment of the compensation and benefits of any such employee which accrue beforethe effective date of the transfer of such employee under section 1313; and
+&emsp;"(1) shall manage the employees of the Board and provide for the payment of the compensation and benefits of any such employee which accrue before the effective date of the transfer of such employee under section 1313; and
 
 &emsp;"(2) may take any other action necessary for the purpose of winding up the affairs of the Board.
 
@@ -316,7 +316,7 @@ Continuation of suits.—No action or other proceeding commenced by or against t
 
 "(a)
 
-In General.—All regulations, orders, determinations, and resolutions described under subsection (b) shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
+In General.—All regulations, orders, determinations, and resolutions described under subsection (b)shall remain in effect according to the terms of such regulations, orders, determinations, and resolutions, and shall be enforceable by or against the Director until modified, terminated, set aside, or superseded in accordance with applicable law by the Director, any court of competent jurisdiction, or operation of law.
 
 "(b)
 

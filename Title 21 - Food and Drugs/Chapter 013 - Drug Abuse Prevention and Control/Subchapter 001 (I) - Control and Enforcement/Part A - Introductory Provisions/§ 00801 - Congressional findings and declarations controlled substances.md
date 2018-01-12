@@ -38,6 +38,10 @@ Pub. L. 91–513, title II, §704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 
 "(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\]."
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–83, §1, Nov. 17, 2017, 131 Stat. 1267, provided that: "This Act \[amending section 823 of this title\] may be cited as the 'Protecting Patient Access to Emergency Medications Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–145, §1, Apr. 19, 2016, 130 Stat. 354, provided that: "This Act \[amending sections 823 and 824 of this title\] may be cited as the 'Ensuring Patient Access and Effective Drug Enforcement Act of 2016'."
@@ -140,7 +144,7 @@ Pub. L. 99–570, title I, §1251, Oct. 27, 1986, 100 Stat. 3207–14, provided 
 
 Pub. L. 99–570, title I, §1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: "This subtitle \[subtitle G (§§1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title\] may be cited as the 'Controlled Substances Import and Export Penalties Enhancement Act of 1986'."
 
-Pub. L. 99–570, title I, §1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§1821–1823) oftitle I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the "Mail Order Drug Paraphernalia Control Act", was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
+Pub. L. 99–570, title I, §1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§1821–1823) of title I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the "Mail Order Drug Paraphernalia Control Act", was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
 
 Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided that: "This subtitle \[subtitle U (§§1991, 1992) of title I of Pub. L. 99–570, amending section 881 of this title\] may be cited as the 'Federal Drug Law Enforcement Agent Protection Act of 1986'."
 
@@ -160,7 +164,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: "That this Act \[am
 
 #### Short Title
 
-Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
+Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246,257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
@@ -192,7 +196,7 @@ In General.—The Attorney General, in consultation with the Administrator of th
 
 &emsp;"(1) develop—
 
-&emsp;&emsp;"(A) model protocols for the collection of toxicology specimens and the taking of victim statements in connection with investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] orother Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving abuse of gamma hydroxybutyric acid, other controlled substances, or so-called 'designer drugs'; and
+&emsp;&emsp;"(A) model protocols for the collection of toxicology specimens and the taking of victim statements in connection with investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving abuse of gamma hydroxybutyric acid, other controlled substances, or so-called 'designer drugs'; and
 
 &emsp;&emsp;"(B) model training materials for law enforcement personnel involved in such investigations; and
 
@@ -230,7 +234,7 @@ Development of plan; recommendations of advisory committee.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary, in consultation with the Attorney General, shall develop a plan for carrying out a national campaign to educate individuals described in subparagraph (B) on the following:
+In general.—The Secretary, in consultation with the Attorney General, shall develop a plan forcarrying out a national campaign to educate individuals described in subparagraph (B) on the following:
 
 &emsp;&emsp;&emsp;"(i) The dangers of date-rape drugs.
 
@@ -322,7 +326,7 @@ Demonstration Projects.—
 
 &emsp;"(2) The Attorney General may not under this subsection make a grant or enter into a contract unless the applicant for such assistance agrees to comply with the guidelines issued pursuant to subsection (d).
 
-&emsp;"(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
+&emsp;"(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection andshall recommend appropriate legislation to the Congress.
 
 "(f)
 
@@ -368,7 +372,7 @@ Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 320
 
 #### "SEC. 3001. SHORT TITLE.
 
-"This title \[enacting section 379 of Title 10, Armed Forces, sections 1590, 1628, 1629, and 2081 of Title 19,Customs Duties, and section 312a of Title 47, Telecommunications, amending section 959 of this title, sections 374 and 911 of Title 10, sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of Title 19, section 5316 of Title 31, Money and Finance, section 12109 of Title 46, Shipping, sections 1901 to 1904 of Title 46, Appendix, Shipping, and sections 1401, 1472, 1474, and 1509 of former Title 49, Transportation, repealing section 1460 of Title 19, enacting provisions set out as notes under section 801 of this title, sections 371, 374, 525, and 9441 of Title 10, sections 1613b and 1654 of Title 19, section 403 of Title 23, Highways, section 1901 of Title 46, Appendix, section 11344 of Title 49, and section 1509 of former Title 49, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'National Drug Interdiction Improvement Act of 1986'.
+"This title \[enacting section 379 of Title 10, Armed Forces, sections 1590, 1628, 1629, and 2081 of Title 19, Customs Duties, and section 312a of Title 47, Telecommunications, amending section 959 of this title, sections 374 and 911 of Title 10, sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of Title 19, section 5316 of Title 31, Money and Finance, section 12109 of Title 46, Shipping, sections 1901 to 1904 of Title 46, Appendix, Shipping, and sections 1401, 1472, 1474, and 1509 of former Title 49, Transportation, repealing section 1460 of Title 19, enacting provisions set out as notes under section 801 of this title, sections 371, 374, 525, and 9441 of Title 10, sections 1613b and 1654 of Title 19, section 403 of Title 23, Highways, section 1901 of Title 46, Appendix, section 11344 of Title 49, and section 1509 of former Title 49, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'National Drug Interdiction Improvement Act of 1986'.
 
 #### "SEC. 3002. FINDINGS.
 
@@ -474,7 +478,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) the total cost of drug abuse to the Nation in 1983 was over $60,000,000,000; and
 
-&emsp;"(5) the vast majority of health benefits plans provide only limited coverage for treatment of drug and alcohol addiction, which is a fact that can discourage the abuser from seeking treatment or, if the abuser does seek treatment, can cause the abuser to face significant out of pocket expenses for the treatment.
+&emsp;"(5) the vast majority of health benefits plans provide only limited coverage for treatment of drug andalcohol addiction, which is a fact that can discourage the abuser from seeking treatment or, if the abuser does seek treatment, can cause the abuser to face significant out of pocket expenses for the treatment.
 
 "(b)
 
@@ -532,7 +536,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 &emsp;"(F) the international control of marihuana.
 
-"(2) Within one year after the date on which funds first become available to carry out this section, theCommission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations.
+"(2) Within one year after the date on which funds first become available to carry out this section, the Commission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations.
 
 "(e)
 
@@ -579,4 +583,34 @@ Sec. 5. The Attorney General shall provide for the winding up of the affairs of 
 Sec. 6. This order shall be effective as of July 1, 1973.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Combatting the National Drug Demand and Opioid Crisis
+
+Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50305, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, and in 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
+
+This crisis has devastated our communities. It has been particularly harmful for children affected by their parents' drug abuse. The number of infants born drug-dependent increased by nearly 500 percent from 2000 to 2012. The number of children being placed into foster care due, at least in part, to parental drug abuse is increasing, and accounted for almost a third of all child removals in Fiscal Year 2015. Serious drug users are also more likely to be arrested for crimes such as burglary, robbery, and handling stolen goods. Moreover, the drug trafficking that supplies illegal drugs to our country is associated with other illegal activities, including murder and other violent crimes. All of this devastates lives and harms communities in both the United States and foreign countries involved in the illegal drug supply chain. Federal, State, and local governments; law enforcement; first responders; the medical, public health, and substance abuse treatment community; and faith-based and community organizations are working tirelessly and have even expanded their efforts to combat the drug demand and opioid crisis.
+
+Three factors are driving the opioid aspect of this crisis in particular. First, since the 1990s, there has been a dramatic rise in opioid pain medication prescriptions. Second, heroin from Mexico has flooded the country. Third, the illicit manufacture and illegal importation of fentanyl—an extremely deadly synthetic opioid—and its analogues and related compounds have proliferated. Fentanyl is currently manufactured almost exclusively in China, and it is either shipped into the United States or smuggled across the southern border by drug traffickers. Between 2013 and 2016, the amount of fentanyl seized by Customs and Border Protection at the border increased more than 200 times over. Dealers are increasingly lacing fentanyl into other drugs and pressing it into counterfeit opioid pills. Because fentanyl is lethal in even miniscule doses, this is an extremely deadly tactic, as it too often causes users to ingest a fatal amount unknowingly.
+
+Sec. 2. <i>Agency Action</i>. The Secretary of Health and Human Services shall, consistent with section 319 of the Public Health Service Act, 42 U.S.C. 247d, consider declaring that the drug demand and opioid crisis described in section 1 of this memorandum constitutes a Public Health Emergency. Additionally, the heads of executive departments and agencies, as appropriate and consistent with law, shall exercise all appropriate emergency authorities, as well as other relevant authorities, to reduce the number of deaths and minimize the devastation the drug demand and opioid crisis inflicts upon American communities.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Health and Human Services is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

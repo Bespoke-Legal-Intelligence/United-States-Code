@@ -16,7 +16,7 @@ If, on completion of the 30-day period described in subsection (a)(2), the Secre
 
 &emsp;(2) continues to willfully violate section 1638a of this title with respect to the violation about which the retailer or person received notification under subsection (a)(1),
 
-> after providing notice and an opportunity for a hearing before the Secretary with respect to theviolation, the Secretary may fine the retailer or person in an amount of not more than $1,000 for each violation.
+> after providing notice and an opportunity for a hearing before the Secretary with respect to the violation, the Secretary may fine the retailer or person in an amount of not more than $1,000 for each violation.
 
 (Aug. 14, 1946, ch. 966, title II, §283, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 110–234, title XI, §11002(3), May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, §4(a), title XI, §11002(3), June 18, 2008, 122 Stat. 1664, 2116.)
 

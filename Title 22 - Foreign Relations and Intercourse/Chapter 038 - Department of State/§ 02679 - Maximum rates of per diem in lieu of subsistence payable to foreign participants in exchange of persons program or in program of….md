@@ -10,7 +10,7 @@ Section was formerly classified to section 170q of Title 5 prior to the general 
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors, respectively, of Office of Management and Budget. Section 103 of Reorg. Plan No. 2 of 1970 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See Part I of Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors, respectively, of Office of Management and Budget. Section 103 of Reorg. Plan No. 2 of 1970 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See Part I of Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

@@ -6,7 +6,7 @@
 
 &emsp;In the course of negotiations conducted under this chapter, the United States Trade Representative shall—
 
-&emsp;&emsp;(A) meet upon request with any Member of Congress regarding negotiating objectives, the status of negotiations in progress, and the nature of any changes in the laws of the United States or the administration of those laws that may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, that agreement;
+&emsp;&emsp;(A) meet upon request with any Member of Congress regarding negotiating objectives, the status of negotiations in progress, and the nature of any changes in the laws of the United States or the administration of thoselaws that may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, that agreement;
 
 &emsp;&emsp;(B) upon request of any Member of Congress, provide access to pertinent documents relating to the negotiations, including classified materials;
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;By not later than 60 days after June 29, 2015, and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives shall convene the House Advisory Group on Negotiations and the chairman of the Committee on Finance of the Senateshall convene the Senate Advisory Group on Negotiations (in this subsection referred to collectively as the "congressional advisory groups").
+&emsp;By not later than 60 days after June 29, 2015, and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives shall convene the House Advisory Group on Negotiations and the chairman of the Committee on Finance of the Senate shall convene the Senate Advisory Group on Negotiations (in this subsection referred to collectively as the "congressional advisory groups").
 
 #### (2) Members and functions
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(i) detailed briefings on a fixed timetable to be specified in the guidelines of the congressional advisory groups regarding negotiating objectives and positions and the status of the applicable negotiations, beginning as soon as practicable after the congressional advisory groups are convened, with more frequent briefings as trade negotiations enter the final stage;
 
-&emsp;&emsp;&emsp;(ii) access by members of the congressional advisory groups, and staff with proper security clearances, to pertinent documents relating to the negotiations, including classified materials;
+&emsp;&emsp;&emsp;(ii) access by members of the congressional advisory groups, and staff withproper security clearances, to pertinent documents relating to the negotiations, including classified materials;
 
 &emsp;&emsp;&emsp;(iii) the closest practicable coordination between the Trade Representative and the congressional advisory groups at all critical periods during the negotiations, including at negotiation sites;
 

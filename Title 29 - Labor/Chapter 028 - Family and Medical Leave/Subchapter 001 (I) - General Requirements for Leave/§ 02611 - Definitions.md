@@ -32,7 +32,7 @@ As used in this subchapter:
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
+&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours ofservice requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
@@ -130,7 +130,7 @@ As used in this subchapter:
 
 &emsp;The term "covered active duty" means—
 
-&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty duringthe deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 
@@ -138,7 +138,7 @@ As used in this subchapter:
 
 &emsp;The term "covered servicemember" means—
 
-&emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on thetemporary disability retired list, for a serious injury or illness; or
+&emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
 
 &emsp;&emsp;(B) a veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of 5 years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy.
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 104–1 effective one year after transmission to Congress o
 
 #### Effective Date
 
-Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
 #### Regulations
 

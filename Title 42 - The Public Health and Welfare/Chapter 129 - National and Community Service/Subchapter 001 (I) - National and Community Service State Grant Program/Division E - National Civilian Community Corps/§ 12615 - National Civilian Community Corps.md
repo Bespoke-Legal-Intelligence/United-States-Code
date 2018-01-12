@@ -36,7 +36,7 @@ Upon the establishment of the National Civilian Community Corps Program, the Nat
 
 #### (2) Unit leaders
 
-&emsp;The leader of each unit shall be selected from among persons in the permanent cadre established pursuant to section 12619(c)(2) ofthis title. The designated leader shall accompany the unit throughout the period of agreed service of the members of the unit.
+&emsp;The leader of each unit shall be selected from among persons in the permanent cadre established pursuant to section 12619(c)(2) of this title. The designated leader shall accompany the unit throughout the period of agreed service of the members of the unit.
 
 #### (d) Campuses
 

@@ -18,7 +18,7 @@ Shall be fined not more than $500 for every such offense. Only the United States
 
 Based on Title 35, U.S.C., 1946 ed., §50 (R.S. 4901).
 
-This is a criminal provision. The first two paragraphs of the corresponding section of existing statute areconsolidated, a new paragraph relating to false marking of "patent applied for" is added, and false advertising is included in all the offenses. The minimum fine which has been interpreted by the courts as a maximum, is replaced by a higher maximum. The informer action is included as additional to an ordinary criminal action.
+This is a criminal provision. The first two paragraphs of the corresponding section of existing statute are consolidated, a new paragraph relating to false marking of "patent applied for" is added, and false advertising is included in all the offenses. The minimum fine which has been interpreted by the courts as a maximum, is replaced by a higher maximum. The informer action is included as additional to an ordinary criminal action.
 
 #### Amendments
 

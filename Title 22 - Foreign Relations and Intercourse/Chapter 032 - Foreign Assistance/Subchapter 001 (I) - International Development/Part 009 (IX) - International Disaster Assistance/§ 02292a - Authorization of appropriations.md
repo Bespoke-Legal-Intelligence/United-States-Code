@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 96–533, §404(a)(2), added subsec. (b).
 
 <b>1979</b>—Pub. L. 96–53 substituted "$21,800,000" for "$25,000,000" and "1980" for "1979".
 
-<b>1978</b>—Pub. L. 95–424 substituted "the fiscal year 1979" for "each of the fiscal years 1977 and 1978" and struck out provision requiring the President to submit quarterly reports to the Committee on Foreign Relations of the Senate and to the Speaker of the House of Representatives on the programming and obligation of funds.
+<b>1978</b>—Pub. L. 95–424 substituted "the fiscal year 1979" for "each of the fiscal years 1977 and 1978" and struckout provision requiring the President to submit quarterly reports to the Committee on Foreign Relations of the Senate and to the Speaker of the House of Representatives on the programming and obligation of funds.
 
 <b>1977</b>—Pub. L. 95–88 substituted "fiscal years 1977 and 1978" for "fiscal years 1976 and 1977".
 

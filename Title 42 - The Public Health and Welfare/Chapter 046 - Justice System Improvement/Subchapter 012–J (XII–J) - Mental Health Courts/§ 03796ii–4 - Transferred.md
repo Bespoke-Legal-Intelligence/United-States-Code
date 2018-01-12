@@ -1,0 +1,6 @@
+### §3796ii–4. Transferred
+
+#### Codification
+
+Section 3796ii–4 was editorially reclassified as section 10475 of Title 34, Crime Control and Law Enforcement.
+

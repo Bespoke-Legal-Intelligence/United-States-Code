@@ -6,7 +6,7 @@ Using operation and maintenance funds or facilities and infrastructure funds aut
 
 #### (b) Annual report
 
-The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
+The Secretary shall submit to the congressional defense committees on an annual basis areport on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
 
 #### (c) Cost variation reports to congressional committees
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 7386b of Title 42, The Public Health 
 
 #### Notification
 
-Pub. L. 111–84, div. C, title XXXI, §3118(c), Oct. 28, 2009, 123 Stat. 2709, as amended by Pub. L. 111–383, div. C, title XXXI, §3121(b), Jan. 7, 2011, 124 Stat. 4514, provided that: "Notwithstanding section 4703 of such Act \[probably means section 4703 of Pub. L. 111–84\] (50 U.S.C. 2743), in carrying out construction projects, the Secretary of Energy may not start a general plant project with a total estimated cost of more than $5,000,000 until—
+Pub. L. 111–84, div. C, title XXXI, §3118(c), Oct. 28, 2009, 123 Stat. 2709, as amended by Pub. L. 111–383, div. C, title XXXI, §3121(b), Jan. 7, 2011, 124 Stat. 4514, provided that: "Notwithstanding section 4703 of such Act \[probably means section 4703 of Pub. L. 107–314\] (50 U.S.C. 2743), in carrying out construction projects, the Secretary of Energy may not start a general plant project with a total estimated cost of more than $5,000,000 until—
 
 &emsp;"(1) the Secretary notifies the congressional defense committees \[Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives\] of such project and total estimated cost; and
 

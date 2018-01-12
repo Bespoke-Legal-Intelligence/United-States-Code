@@ -8,7 +8,7 @@
 
 #### (2) Transfer of FSLIC assets and liabilities
 
-&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the FederalSavings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
+&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
 
 #### (3) Separate holding
 

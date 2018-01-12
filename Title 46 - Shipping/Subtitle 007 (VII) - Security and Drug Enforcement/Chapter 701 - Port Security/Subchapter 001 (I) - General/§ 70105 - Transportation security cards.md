@@ -394,7 +394,7 @@ Pub. L. 114–328, div. C, title XXXV, §3509(b), Dec. 23, 2016, 130 Stat. 2781,
 
 #### Deadline for Section 70105 Regulations
 
-Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, theSecretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
+Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
 
 #### Transportation Worker Identification Credential Security Card Program Improvements and Assessment
 
@@ -478,7 +478,7 @@ Contents.—The assessment commissioned under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;"(ii) evaluating the potential for a non-biometric credential alternative;
 
-&emsp;&emsp;&emsp;"(iii) identifying the technology, business process, and operational impacts of the use of the transportation security card and transportation security card readers in the maritime and port environments;
+&emsp;&emsp;&emsp;"(iii) identifying the technology, business process, and operational impacts of the use of thetransportation security card and transportation security card readers in the maritime and port environments;
 
 &emsp;&emsp;&emsp;"(iv) assessing the costs and benefits of the Program, as implemented; and
 

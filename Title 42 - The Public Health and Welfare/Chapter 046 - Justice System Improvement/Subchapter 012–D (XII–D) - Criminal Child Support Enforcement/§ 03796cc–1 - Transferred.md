@@ -1,0 +1,6 @@
+### §3796cc–1. Transferred
+
+#### Codification
+
+Section 3796cc–1 was editorially reclassified as section 10362 of Title 34, Crime Control and Law Enforcement.
+

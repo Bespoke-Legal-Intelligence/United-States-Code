@@ -18,7 +18,7 @@ As used in this chapter—
 
 #### References in Text
 
-Section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (6), is classified to section 5772(1) of Title 42, The Public Health and Welfare.
+Section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (6), is section403 of Pub. L. 93–415, which is classified to section 11292 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
 
@@ -26,5 +26,5 @@ Section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974, r
 
 #### Effective Date
 
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

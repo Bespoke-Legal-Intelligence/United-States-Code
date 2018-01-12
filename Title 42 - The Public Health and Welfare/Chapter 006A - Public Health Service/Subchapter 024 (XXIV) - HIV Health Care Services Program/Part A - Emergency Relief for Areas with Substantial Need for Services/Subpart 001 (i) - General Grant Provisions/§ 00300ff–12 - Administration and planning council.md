@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Assistance made available under grants awarded under this subpart shall be directed to the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
+&emsp;Assistance made available under grants awarded under this subpart shall be directedto the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
 
 #### (2) Requirements
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(iv) includes a strategy, coordinated as appropriate with other community strategies and efforts, including discrete goals, a timetable, and appropriate funding, for identifying individuals with HIV/AIDS who do not know their HIV status, making such individuals aware of such status, and enabling such individuals to use the health and support services described in section 300ff–14 of this title, with particular attention to reducing barriers to routine testing and disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating fundsto the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
+&emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating funds to the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
 
 &emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B;
 

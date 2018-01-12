@@ -10,7 +10,7 @@ Planning Grants.—
 
 &emsp;(1)
 
-Authority to provide amounts and make grants.—The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development and operation of demonstration health projects for the region.
+Authority to provide amounts and make grants.—The Secretary may provideamounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development and operation of demonstration health projects for the region.
 
 &emsp;(2)
 
@@ -198,7 +198,7 @@ The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 194
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

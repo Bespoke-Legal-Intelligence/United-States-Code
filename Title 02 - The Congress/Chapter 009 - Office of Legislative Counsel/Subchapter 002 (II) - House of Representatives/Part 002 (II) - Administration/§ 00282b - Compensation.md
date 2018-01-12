@@ -20,7 +20,7 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 
 #### Amendments
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) ofRule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
+<b>1977</b>—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
 
 #### Increases in Compensation
 

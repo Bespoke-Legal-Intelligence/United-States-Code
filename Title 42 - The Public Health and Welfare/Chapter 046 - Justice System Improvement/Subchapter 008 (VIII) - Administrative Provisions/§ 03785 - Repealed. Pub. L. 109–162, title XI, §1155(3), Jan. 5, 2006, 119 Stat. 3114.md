@@ -4,5 +4,5 @@ Section, Pub. L. 90–351, title I, §804, formerly §805, as added Pub. L. 96�
 
 Another section 804 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 223, is set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
-A prior section 804 of Pub. L. 90–351 was renumbered section 803 and is classified to section 3784 of this title.
+A prior section 804 of Pub. L. 90–351 was renumbered section 803 and is classified to section 10223 of Title 34, Crime Control and Law Enforcement.
 

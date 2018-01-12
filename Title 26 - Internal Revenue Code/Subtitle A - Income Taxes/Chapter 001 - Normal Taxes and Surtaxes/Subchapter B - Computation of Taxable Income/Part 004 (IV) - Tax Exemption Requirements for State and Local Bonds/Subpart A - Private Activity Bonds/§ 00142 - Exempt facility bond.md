@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (D) Single-room occupancy units
 
-&emsp;&emsp;A unit shall not fail to be treated as a residential unit merely because such unit is asingle-room occupancy unit (within the meaning of section 42).
+&emsp;&emsp;A unit shall not fail to be treated as a residential unit merely because such unit is a single-room occupancy unit (within the meaning of section 42).
 
 #### (E) Hold harmless for reductions in area median gross income
 
@@ -470,7 +470,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;&emsp;(A) the project is nominated by a State or local government within 180 days of the enactment of this subsection, and
 
-&emsp;&emsp;(B) such State or local government provides written assurances that the projectwill satisfy the eligibility criteria described in paragraph (4).
+&emsp;&emsp;(B) such State or local government provides written assurances that the project will satisfy the eligibility criteria described in paragraph (4).
 
 #### (4) Application
 
@@ -630,7 +630,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI,§6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355.)
 
 #### References in Text
 
@@ -732,7 +732,7 @@ Pub. L. 111–5, div. B, title I, §1504(b), Feb. 17, 2009, 123 Stat. 355, provi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, as amended by Pub. L. 112–240, title III,§303(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §113(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §132(a), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments made by this section \[amending this section\] shall apply to—
+Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, as amended by Pub. L. 112–240, title III, §303(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §113(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §132(a), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments made by this section \[amending this section\] shall apply to—
 
 &emsp;"(1) determinations made after the date of the enactment of this Act \[July 30, 2008\], in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
 
@@ -764,7 +764,7 @@ Pub. L. 109–222, title II, §209(c), May 17, 2006, 120 Stat. 352, provided tha
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] apply to bonds issued after the date of the enactment of this Act \[Aug. 10, 2005\]."
+Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided that: "The amendments made by this section \[amending this section and section 146 ofthis title\] apply to bonds issued after the date of the enactment of this Act \[Aug. 10, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -794,7 +794,7 @@ Pub. L. 100–647, title VI, §6180(c), Nov. 10, 1988, 102 Stat. 3728, provided 
 
 #### Accountability
 
-Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: "Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(l)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(l)(4) of such Code, amounts in the reserve account, including all interest,shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury."
+Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: "Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(l)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(l)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury."
 
 #### No Inference With Respect to Outstanding Bonds From Use of Term "Person"
 

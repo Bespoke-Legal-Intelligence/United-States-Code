@@ -2,7 +2,7 @@
 
 #### (a) Authorization; financial and technical assistance; selection of training sites and location of housing
 
-Upon the application of any State or political subdivision thereof, or any public or private nonprofit organization, the Secretary is authorized, after consultation with the Secretary ofLabor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, and the Director of the Office of Economic Opportunity, and after the Secretary determines that the housing and related facilities cannot reasonably be provided in any other way, to provide financial and technical assistance for the establishment, in rural areas, of housing and related facilities for trainees and their families who are residents of a rural area and have a rural background, while such trainees are enrolled and participating in training courses designed to improve their employment capability. The selection of training sites and location of housing shall be made with due regard to the economic viability of the area, and only after consideration of a labor area survey and full coordination among all Government agencies having primary responsibility for administering related programs.
+Upon the application of any State or political subdivision thereof, or any public or private nonprofit organization, the Secretary is authorized, after consultation with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, and the Director of the Office of Economic Opportunity, and after the Secretary determines that the housing and related facilities cannot reasonably be provided in any other way, to provide financial and technical assistance for the establishment, in rural areas, of housing and related facilities for trainees and their families who are residents of a rural area and have a rural background, while such trainees are enrolled and participating in training courses designed to improve their employment capability. The selection of training sites and location of housing shall be made with due regard to the economic viability of the area, and only after consideration of a labor area survey and full coordination among all Government agencies having primary responsibility for administering related programs.
 
 #### (b) Quality of housing and related facilities; design and location
 
@@ -24,7 +24,7 @@ No financial assistance shall be made available under this section unless, to th
 
 #### (e) Advances; repayment; limitation on amount
 
-The Secretary may make advances pursuant to any contract for financial assistance under this section at such times and in such manner as may be specified in the contract. Such advances for the purchase of land shall be repayable with interest and within a period not to exceed thirty-three years and may be made upon such security, if any, as the Secretary requires. Advances for other purposes may be made repayable with or without interest or nonrepayable, as determined by the Secretary on the basis of the anticipated income, and cost of operation of the housing and related facilities and the ability of each applicant to finance such facilities. Any advances shall be limited to cover the capital costs of constructing such facilities, plus interest on borrowings to cover such costs.
+The Secretary may make advances pursuant to any contract for financial assistance under this section at such times and in such manner as may be specified in the contract. Such advances for the purchase of land shall be repayable with interest and within a period not to exceed thirty-three years and may be made upon such security, if any, as the Secretary requires. Advances for other purposes may be made repayable with or without interest or nonrepayable, as determined by the Secretary on the basis of the anticipated income, and cost of operation of the housing and related facilities and the ability of each applicant to finance such facilities. Anyadvances shall be limited to cover the capital costs of constructing such facilities, plus interest on borrowings to cover such costs.
 
 #### (f) Sale of housing and related facilities to ineligible transferee or diversion to use other than primary purpose; repayment of advances; return of property to original condition
 
@@ -46,7 +46,7 @@ As used in this section (1) the term "related facilities" shall include any nece
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 15, 1949, ch. 338, title V, §522, as added Pub. L. 90–448, title X, §1002, Aug. 1, 1968, 82 Stat. 551; amended Pub. L. 98–479, title II, §201(c), Oct. 17,1984, 98 Stat. 2228; Pub. L. 100–242, title III, §316(e), Feb. 5, 1988, 101 Stat. 1898.)
+(July 15, 1949, ch. 338, title V, §522, as added Pub. L. 90–448, title X, §1002, Aug. 1, 1968, 82 Stat. 551; amended Pub. L. 98–479, title II, §201(c), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–242, title III, §316(e), Feb. 5, 1988, 101 Stat. 1898.)
 
 #### Amendments
 

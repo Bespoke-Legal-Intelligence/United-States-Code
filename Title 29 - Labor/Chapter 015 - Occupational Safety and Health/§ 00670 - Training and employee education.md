@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations
 
-The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide an adequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
+The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide anadequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
 
 #### (b) Authority of Secretary of Labor to conduct short-term training of personnel
 
@@ -30,7 +30,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 &emsp;(A) which requests and undergoes an on-site consultative visit provided under this subsection;
 
-&emsp;(B) which corrects the hazards that have been identified during the visit within thetime frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
+&emsp;(B) which corrects the hazards that have been identified during the visit within the time frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
 
 &emsp;(C) which is implementing procedures for regularly identifying and preventing hazards regulated under this chapter and maintains appropriate involvement of, and training for, management and non-management employees in achieving safe and healthful working conditions,
 

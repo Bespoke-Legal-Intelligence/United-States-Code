@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 95–339 added subsec. (f).
 
 Subsec. (g). Pub. L. 95–339 redesignated second subsec. (e), relating to cross references, as (g).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(17)(A), 2105(a), added par. (2) relating to qualified scholarship funding bonds. Former pars. (2) and (3), relating to obligations of the United States and to the obligations of corporations organized under an Act of Congress, were struck out.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(17)(A), 2105(a), added par. (2) relating to qualified scholarship funding bonds. Former pars. (2) and (3), relating to obligations of the United States and to the obligations ofcorporations organized under an Act of Congress, were struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(17)(B), (C), redesignated subsec. (c) as (b) and in par. (1) of subsec. (b) as so redesignated substituted "subsection (a)(1) or (2)" for "subsection (a)(1)". Former subsec. (b), which created an exception to the rule that gross income did not include interest on obligations of the United States, by providing that the exception did not apply to obligations of the United States (with specified exceptions) unless under the authorizing Acts such interest is wholly exempt from the taxes imposed by this subtitle, was struck out.
 
@@ -495,7 +495,7 @@ Exception.—Subparagraph (A) shall not apply with respect to the amendment made
 
 &emsp;"(4)
 
-Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of thisparagraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
+Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to \[former\] section 149(d)(2)..\[sic\]
 
 &emsp;"(5)
 
@@ -525,7 +525,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;"(5) Any solid waste disposal facility described in section 103(b)(4)(E) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] if—
 
-&emsp;&emsp;"(A) a city government, by resolutions adopted on April 10, 1980, and December 27, 1982, took formal action to authorize the submission of a proposal for a feasibility study for such facility and to authorize the presentation to the Department of the Army (U.S. Army Missile Command) of a proposed agreement to jointly pursue construction and operation of such facility,
+&emsp;&emsp;"(A) a city government, by resolutions adopted on April 10, 1980, and December 27, 1982, took formalaction to authorize the submission of a proposal for a feasibility study for such facility and to authorize the presentation to the Department of the Army (U.S. Army Missile Command) of a proposed agreement to jointly pursue construction and operation of such facility,
 
 &emsp;&emsp;"(B) such city government (or a public authority on its behalf) issues obligations for such facility before January 1, 1988, and
 
@@ -693,7 +693,7 @@ Pub. L. 94–164, §7(b), Dec. 23, 1975, 89 Stat. 976, provided that: "The amend
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title III, §315(c), Dec. 10, 1971, 85 Stat. 529, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. Theamendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\]."
+Pub. L. 92–178, title III, §315(c), Dec. 10, 1971, 85 Stat. 529, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\]."
 
 #### Effective Date of 1969 Amendment
 
@@ -721,7 +721,7 @@ Pub. L. 100–647, title I, §1013(a)(35), Nov. 10, 1988, 102 Stat. 3544, provid
 
 "(B)(i) Except as provided in clause (ii), subparagraph (A) shall apply to obligations sold after May 2, 1978, and to which such regulation was provided to apply.
 
-"(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by the Secretary of the Treasury or his delegate by regulations."
+"(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by theSecretary of the Treasury or his delegate by regulations."
 
 #### Bonds Issued To Refund Subsection (o)(3) Obligations
 
@@ -811,7 +811,7 @@ Pub. L. 99–514, title XVIII, §1866, Oct. 22, 1986, 100 Stat. 2887, as amended
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall notapply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;"(1) such obligation is issued before January 1, 1986, or
 
@@ -1103,7 +1103,7 @@ In general.—Subparagraph (C) of section 103(g)(3) of the Internal Revenue Code
 
 &emsp;&emsp;"(iii) is located in the same metropolitan area as the alcohol-producing facility, and
 
-&emsp;"(B) before March 1, 1980, there were negotiations between a governmental body and an organization described in section 501(c)(3) of the Internal RevenueCode of 1986 with respect to the utilization of a special process for the production of alcohol at such alcohol-producing facility.
+&emsp;"(B) before March 1, 1980, there were negotiations between a governmental body and an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 with respect to the utilization of a special process for the production of alcohol at such alcohol-producing facility.
 
 "(2)
 
@@ -1215,7 +1215,7 @@ Refund profit.—The term 'Refund profit' means interest, profit, or other amoun
 
 &emsp;"(2)
 
-Charitable organization.—The term 'charitable organization' means an organization describedin section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
+Charitable organization.—The term 'charitable organization' means an organization described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
 
 &emsp;"(3)
 

@@ -18,15 +18,15 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any casewhere numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 
-In describing the costs of a standard described in subsection (a) of this section, the Administrator shall consider the effects of such standard on employment, productivity, cost of living, economic growth, and the overall economy of the United States.
+In describing the costs of a standard described in subsection (a), the Administrator shall consider the effects of such standard on employment, productivity, cost of living, economic growth, and the overall economy of the United States.
 
 #### (d) Initial report
 
-Not later than 12 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a) of this section, which reports—
+Not later than 12 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a), which reports—
 
 &emsp;(1) all costs incurred previous to November 15, 1990, in the effort to comply with such standards; and
 
@@ -46,7 +46,7 @@ The Council shall—
 
 &emsp;(2) review the methodology used to analyze such data and make recommendations to the Administrator on the use of such methodology; and
 
-&emsp;(3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
+&emsp;(3) prior to the issuance of a report required under subsection (d) or (e), review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
 
 (July 14, 1955, ch. 360, title III, §312, formerly §305, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §312 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713; Pub. L. 95–95, title II, §224(c), Aug. 7, 1977, 91 Stat. 767; Pub. L. 101–549, title VIII, §812(a), Nov. 15, 1990, 104 Stat. 2691.)
 
@@ -110,7 +110,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
 
-&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
+&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options\(such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 
 &emsp;"(3)
 

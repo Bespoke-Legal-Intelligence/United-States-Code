@@ -6,7 +6,7 @@ No Federal agency may enter into any contract with any person who is convicted o
 
 #### (b) Notification procedures
 
-The Administrator shall establish procedures to provide all Federal agencies with the notification necessary for the purposes of subsection (a) of this section.
+The Administrator shall establish procedures to provide all Federal agencies with the notification necessary for the purposes of subsection (a).
 
 #### (c) Federal agency contracts
 
@@ -20,7 +20,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 #### Codification
 
-Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as anote under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
+Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
 
 Section was formerly classified to section 1857h–4 of this title.
 

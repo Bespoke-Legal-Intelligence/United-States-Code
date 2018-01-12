@@ -54,7 +54,7 @@ the scientific, economic, political, legal, social, psychological, military, and
 
 such related problems as the Secretary of State may determine to be in need of research, development, or study in order to carry out the provisions of this chapter.
 
-(Pub. L. 87–297, title III, §301, formerly §31, Sept. 26, 1961, 75 Stat. 633; Pub. L. 88–186, §5, Nov. 26, 1963, 77 Stat. 342; Pub. L. 95–108, §3, Aug. 17, 1977, 91 Stat. 871; Pub. L. 97–339, §4, Oct. 15, 1982, 96 Stat. 1636; Pub. L. 103–236, title VII, §719(c), Apr. 30, 1994, 108 Stat. 501; renumbered §301 and amended Pub. L. 105–277, div. G, subdiv. A, titleXII, §1223(6), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
+(Pub. L. 87–297, title III, §301, formerly §31, Sept. 26, 1961, 75 Stat. 633; Pub. L. 88–186, §5, Nov. 26, 1963, 77 Stat. 342; Pub. L. 95–108, §3, Aug. 17, 1977, 91 Stat. 871; Pub. L. 97–339, §4, Oct. 15, 1982, 96 Stat. 1636; Pub. L. 103–236, title VII, §719(c), Apr. 30, 1994, 108 Stat. 501; renumbered §301 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(6), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
 
 #### Amendments
 

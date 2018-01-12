@@ -2,7 +2,7 @@
 
 #### (a) Furnishing copy to taxpayer
 
-Any person who is a tax return preparer with respect to any return or claim for refund shall furnish a completed copy of such return or claim to the taxpayer not later than the time such return or claim is presented for such taxpayer's signature.
+Any person who is a tax return preparer with respect to any return or claim for refund shallfurnish a completed copy of such return or claim to the taxpayer not later than the time such return or claim is presented for such taxpayer's signature.
 
 #### (b) Copy or list to be retained by tax return preparer
 

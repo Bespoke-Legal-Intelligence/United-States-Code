@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (7) Significant foreign narcotics trafficker
 
-&emsp;The term "significant foreign narcotics trafficker" means any foreign person that plays a significant role in international narcotics trafficking, that the President has determined to be appropriate for sanctions pursuant to this chapter, and that the President has publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title.
+&emsp;The term "significant foreign narcotics trafficker" means any foreign person that plays asignificant role in international narcotics trafficking, that the President has determined to be appropriate for sanctions pursuant to this chapter, and that the President has publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title.
 
 (Pub. L. 106–120, title VIII, §808, Dec. 3, 1999, 113 Stat. 1632.)
 

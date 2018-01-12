@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (e), payment for services descri
 
 &emsp;&emsp;(B) in the case of medical and other health services, except services described in subparagraphs (B), (C), and (D) of section 1395x(s)(2) of this title, such services are or were medically required;
 
-&emsp;&emsp;(C) in the case of outpatient physical therapy services or outpatient occupational therapy services, (i) such services are or were required because the individual needed physical therapy services or occupational therapy services, respectively, (ii) a plan for furnishing such services has been established by a physician or by the qualified physical therapist or qualified occupational therapist, respectively, providing such services and is periodically reviewed by a physician, and (iii) such services are or were furnished while the individual is or was under the care of a physician;
+&emsp;&emsp;(C) in the case of outpatient physical therapy services or outpatient occupational therapy services, (i) such services are or were required because the individual needed physical therapy services or occupationaltherapy services, respectively, (ii) a plan for furnishing such services has been established by a physician or by the qualified physical therapist or qualified occupational therapist, respectively, providing such services and is periodically reviewed by a physician, and (iii) such services are or were furnished while the individual is or was under the care of a physician;
 
 &emsp;&emsp;(D) in the case of outpatient speech pathology services, (i) such services are or were required because the individual needed speech pathology services, (ii) a plan for furnishing such services has been established by a physician or by the speech pathologist providing such services and is periodically reviewed by a physician, and (iii) such services are or were furnished while the individual is or was under the care of a physician;
 
@@ -40,7 +40,7 @@ Subject to section 1395qq of this title, no payment may be made under this part 
 
 #### (e) Payment to fund designated by medical staff or faculty of medical school
 
-For purposes of services (1) which are inpatient hospital services by reason of paragraph (7) of section 1395x(b) of this title or for which entitlement exists by reason of clause (II) of section 1395k(a)(2)(B)(i) of this title, and (2) for which the reasonable cost thereof is determined under section 1395x(v)(1)(D) of this title (or would be if section 1395ww of this title did not apply), payment under this part shall be made to such fundas may be designated by the organized medical staff of the hospital in which such services were furnished or, if such services were furnished in such hospital by the faculty of a medical school, to such fund as may be designated by such faculty, but only if—
+For purposes of services (1) which are inpatient hospital services by reason of paragraph (7) of section 1395x(b) of this title or for which entitlement exists by reason of clause (II) of section 1395k(a)(2)(B)(i) of this title, and (2) for which the reasonable cost thereof is determined under section 1395x(v)(1)(D) of this title (or would be if section 1395ww of this title did not apply), payment under this part shall be made to such fund as may be designated by the organized medical staff of the hospital in which such services were furnished or, if such services were furnished in such hospital by the faculty of a medical school, to such fund as may be designated by such faculty, but only if—
 
 &emsp;(A) such hospital has an agreement with the Secretary under section 1395cc of this title, and
 
@@ -86,7 +86,7 @@ Subsec. (a)(2)(C)(i). Pub. L. 100–203, §4085(i)(4), struck out second comma a
 
 Subsec. (a)(2)(F). Pub. L. 100–203, §4070(b)(3), added subpar. (F).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9337(c)(2), inserted in second sentence "(or meets the requirements of suchsection through the operation of section 1395x(g) of this title)" in two places, and "or (through the operation of section 1395x(g) of this title) with respect to the furnishing of outpatient occupational therapy services".
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9337(c)(2), inserted in second sentence "(or meets the requirements of such section through the operation of section 1395x(g) of this title)" in two places, and "or (through the operation of section 1395x(g) of this title) with respect to the furnishing of outpatient occupational therapy services".
 
 Subsec. (a)(2)(C). Pub. L. 99–509, §9337(c)(1), inserted "or outpatient occupational therapy services" in introductory provisions, "or occupational therapy services, respectively," in cl. (i), and "or qualified occupational therapist, respectively," in cl. (ii).
 

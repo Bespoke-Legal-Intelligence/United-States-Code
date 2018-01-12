@@ -44,7 +44,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (3) Structural flood control projects
 
-&emsp;Any structural flood control projects carried out under this section shall be subject to costsharing in accordance with section 2213(a) of this title.
+&emsp;Any structural flood control projects carried out under this section shall be subject to cost sharing in accordance with section 2213(a) of this title.
 
 #### (4) Operation and maintenance
 
@@ -174,7 +174,7 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 #### (A) Limitation on appropriations
 
-&emsp;&emsp;No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not beenapproved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+&emsp;&emsp;No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 #### (B) Report
 

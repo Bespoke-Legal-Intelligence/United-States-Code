@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(A) encouraging a diversity of public and private sources for information based on government public information;
 
-&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronicformat, providing timely and equitable access to the underlying data (in whole or in part); and
+&emsp;&emsp;(B) in cases in which the agency provides public information maintained in electronic format, providing timely and equitable access to the underlying data (in whole or in part); and
 
 &emsp;&emsp;(C) agency dissemination of public information in an efficient, effective, and economical manner;
 
@@ -236,6 +236,10 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
+
 #### Ex. Ord. No. 13073. Year 2000 Conversion
 
 Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, as amended by Ex. Ord. No. 13127, June 14, 1999, 64 F.R. 32793, provided:
@@ -276,9 +280,9 @@ Sec. 3. <i>Responsibilities of Agency Heads</i>. (a) The head of each agency sha
 
 (b) The heads of executive departments and the agencies designated by the Chair under section 2(a) of this order shall identify a responsible official to represent the head of the executive department or agency on the Council with sufficient authority and experience to commit agency resources to address the Y2K problem.
 
-Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
+Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial OfficersCouncil, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
 
-Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y2K response duties included undersection 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
+Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y2K response duties included under section 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
 
 (b) At the direction of the Chair, the ICC will assist in making preparations for information sharing and coordination within the Federal Government and key components of the public and private sectors, coordinating agency assessments of Y2K emergencies that could have an adverse affect on U.S. interests at home and abroad, and, if necessary, assisting Federal agencies and the Chair in reconstitution processes where appropriate.
 

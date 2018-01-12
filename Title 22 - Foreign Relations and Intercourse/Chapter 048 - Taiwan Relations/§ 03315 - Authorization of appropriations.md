@@ -4,3 +4,7 @@ In addition to funds otherwise available to carry out the provisions of this cha
 
 (Pub. L. 96–8, §16, Apr. 10, 1979, 93 Stat. 21.)
 
+#### Effective Date
+
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
+

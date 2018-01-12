@@ -74,7 +74,7 @@
 
 (D) For purposes of this paragraph, the term "joint resolution" means a joint resolution the matter after the resolving clause of which is as follows: "That the Congress having received on \_\_\_\_ a certification by the President under section 102(b)(4) of the Arms Export Control Act with respect to \_\_\_\_, the Congress hereby authorizes the President to exercise the waiver authority contained in section 102(b)(5) of that Act.", with the date of receipt of the certification inserted in the first blank and the name of the country inserted in the second blank.
 
-(5) Notwithstanding paragraph (1) of this subsection, if the Congress enacts a joint resolution under paragraph (4) of this subsection, the President may waive any sanction which would otherwise be required under paragraph (1)(A) or (1)(B) if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the imposition of such sanction would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+(5) Notwithstanding paragraph (1) of this subsection, if the Congress enacts a joint resolutionunder paragraph (4) of this subsection, the President may waive any sanction which would otherwise be required under paragraph (1)(A) or (1)(B) if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the imposition of such sanction would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
 (6)(A) In the event the President is required to impose sanctions against a country under paragraph (1)(C) or (1)(D), the President shall forthwith so inform such country and shall impose the required sanctions beginning 30 days after submitting to the Congress the report required by paragraph (1) unless, and to the extent that, there is enacted during the 30-day period a law prohibiting the imposition of such sanctions.
 
@@ -122,6 +122,10 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: "The amendment made by subsection (a)(3) \[amending this section\] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act \[July 14, 1998\] through September 30, 1999."
 
+#### Effective Date
+
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
+
 #### Delegation of Functions
 
 Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
@@ -136,7 +140,7 @@ Waiver Authority.—
 
 &emsp;"(1)
 
-In general.—Except as provided in subsection (b), the President may waive in whole or in part, with respect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export Control Act (22 U.S.C. 2799aa–1(b)\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
+In general.—Except as provided in subsection (b), the President may waive in whole or in part, with respect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export ControlAct (22 U.S.C. 2799aa–1(b)\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
 
 &emsp;&emsp;"(A) the implementation and verification of the compliance by North Korea with its commitment, undertaken in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula; and
 
@@ -184,7 +188,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives."
 
-\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 ofPub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
+\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 

@@ -26,7 +26,7 @@ Grants to States.—(1) In cooperation with the States and not later than Januar
 
 &emsp;(B) determine for each State the cost of making titling information maintained by that State available to the operator to meet the requirements of section 30502(d) of this title.
 
-(2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling informationmaintained by those States available to the operator.
+(2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.
 
 (d)
 
@@ -84,7 +84,7 @@ Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to 
 
 &emsp;"(A) the grant to a State is not more than the lesser of—
 
-&emsp;&emsp;"(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
+&emsp;&emsp;"(i) 25 percent of the cost of making titling information maintained by that State available to theoperator as determined by the Secretary under paragraph (1)(B) of this subsection; or
 
 &emsp;&emsp;"(ii) $300,000; and
 

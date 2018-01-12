@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(d) "lists of actual voters" shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
-&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
+&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2)in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
 &emsp;(f) "district court of the United States", "district court", and "court" shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
@@ -32,7 +32,7 @@ Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Sta
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare,prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 100–702, §804, amended subsec. (f) generally. Prior to a
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–650 struck out "except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia" after "Canal Zone Code;".
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting "chapter 6 of title 28, United States Code," after "chapter 5 of title 28, United States Code,", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting "chapter 6 of title 28,United States Code," after "chapter 5 of title 28, United States Code,", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Subsec. (h). Pub. L. 95–572, §3(b), struck out "by pardon or amnesty" after "civil rights restored".
 

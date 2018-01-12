@@ -2,7 +2,7 @@
 
 (a) The United States Court of Federal Claims may grant a plaintiff a new trial on any ground established by rules of common law or equity applicable as between private parties.
 
-(b) Such court, at any time while any suit is pending before it, or after proceedings for review have been instituted, or within two years after the final disposition of the suit, may grant the United States a new trial and stay the payment of any judgment upon satisfactory evidence, cumulative or otherwise, that any fraud, wrong, or injustice has been done the United States.
+(b) Such court, at any time while any suit is pending before it, or after proceedings for reviewhave been instituted, or within two years after the final disposition of the suit, may grant the United States a new trial and stay the payment of any judgment upon satisfactory evidence, cumulative or otherwise, that any fraud, wrong, or injustice has been done the United States.
 
 (June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

@@ -1,8 +1,8 @@
 Part E—Rice Certificates
 
-#### Amendments
+#### Codification
 
-<b>1962</b>—Pub. L. 87–703, title III, §324(1), Sept. 27, 1962, 76 Stat. 626, redesignated D as E.
+Pub. L. 87–703, title III, §324(1), Sept. 27, 1962, 76 Stat. 626, redesignated part D as E.
 
 
 ---

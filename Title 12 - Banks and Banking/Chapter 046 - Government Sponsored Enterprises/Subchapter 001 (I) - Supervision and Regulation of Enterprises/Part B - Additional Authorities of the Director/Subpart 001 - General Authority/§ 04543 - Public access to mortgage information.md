@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall make available to the public, in forms useful to the public (includingforms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title.
+&emsp;The Director shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title.
 
 #### (2) Census tract level reporting
 

@@ -30,6 +30,10 @@ The Congress finds and declares that—
 
 This chapter, referred to in pars. (e), (f), and (k), was in the original "this Act", meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 114–223, div. C, §202(a), as added by Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134, provided that: "This section \[amending section 1232 of this title\] may be cited as the 'Further Continued Health Benefits for Miners Act'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–223, div. C, §167(a), as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: "This section \[amending section 1232 of this title\] may be cited as the 'Continued Health Benefits for Miners Act'."
@@ -46,7 +50,7 @@ Pub. L. 101–498, §1, Nov. 2, 1990, 104 Stat. 1207, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222,1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
+Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
 
 #### Short Title
 

@@ -54,13 +54,13 @@ Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A),
 
 &emsp;&emsp;&emsp;(i) passenger boardings at the airport fell below 10,000 in the calendar year used to calculate the apportionment;
 
-&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
+&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings in the calendar year priorto the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
 
 &emsp;&emsp;&emsp;(iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
 &emsp;&emsp;(F)
 
-Special rule for fiscal year 2017.—Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for fiscal year 2017 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+Special rule.—Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for each of fiscal years 2017 and 2018 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
 
 &emsp;&emsp;&emsp;(i) had 10,000 or more passenger boardings during calendar year 2012;
 
@@ -90,7 +90,7 @@ Distribution to other airports.—Before apportioning amounts to the sponsors of
 
 &emsp;(E)
 
-Determination of landed weight.—Landed weight under this paragraph is thelanded weight of aircraft landing at each airport described in subparagraph (A) during the prior calendar year.
+Determination of landed weight.—Landed weight under this paragraph is the landed weight of aircraft landing at each airport described in subparagraph (A) during the prior calendar year.
 
 (d)
 
@@ -174,7 +174,7 @@ Supplemental Apportionment for Alaska.—
 
 &emsp;(1)
 
-In general.—Notwithstanding subsections (c) and (d) of this section, the Secretary may apportion amounts for airports in Alaska in the way in which amounts were apportioned in the fiscal year ending September30, 1980, under section 15(a) of the Act. However, in apportioning amounts for a fiscal year under this subsection, the Secretary shall apportion—
+In general.—Notwithstanding subsections (c) and (d) of this section, the Secretary may apportion amounts for airports in Alaska in the way in which amounts were apportioned in the fiscal year ending September 30, 1980, under section 15(a) of the Act. However, in apportioning amounts for a fiscal year under this subsection, the Secretary shall apportion—
 
 &emsp;&emsp;(A) for each primary airport at least as much as would be apportioned for the airport under subsection (c)(1) of this section; and
 
@@ -240,7 +240,7 @@ Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
 Supplemental Apportionment for Puerto Rico and United States Territories.—The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169.)
 
 Historical and Revision Notes
 
@@ -349,6 +349,8 @@ Section 15(a) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(1)(F). Pub. L. 115–63 struck out "for fiscal year 2017" after "rule" in heading and substituted "for each of fiscal years 2017 and 2018 an amount" for "for fiscal year 2017 an amount" in introductory provisions.
+
 <b>2016</b>—Subsec. (c)(1)(F). Pub. L. 114–190 amended subpar. (F) generally. Prior to amendment, text read as follows: "Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009."
 
 <b>2012</b>—Subsec. (c)(1)(F), (G). Pub. L. 112–95, §141(b), added subpar. (F) and struck out former subpars. (F) and (G) which related, respectively, to special rules for fiscal years 2004 and 2005 and to special rule for fiscal year 2006.
@@ -421,7 +423,7 @@ Subsec. (c)(3). Pub. L. 104–264, §121(a)(3), struck out par. (3) which read a
 
 "(3)(A) Except as provided in subparagraph (B) of this paragraph, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 49.5 percent limit is achieved.
 
-"(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved."
+"(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, thetotal of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved."
 
 Subsec. (d)(2). Pub. L. 104–264, §121(b)(1), substituted "18.5" for "12" in introductory provisions.
 

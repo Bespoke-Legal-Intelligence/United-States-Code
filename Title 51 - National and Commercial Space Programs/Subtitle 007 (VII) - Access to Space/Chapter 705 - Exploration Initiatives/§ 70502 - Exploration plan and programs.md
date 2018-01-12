@@ -4,13 +4,13 @@ The Administrator shall—
 
 &emsp;(1) construct an architecture and implementation plan for the Administration's human exploration program that is not critically dependent on the achievement of milestones by fixed dates;
 
-&emsp;(2) implement an exploration technology development program to enable lunar human and robotic operations consistent with section 20302(b) of this title, including surface power to use on the Moon and other locations;
+&emsp;(2) implement an exploration research and technology development program to enable human and robotic operations consistent with section 20302(b) of this title;
 
-&emsp;(3) conduct an in-situ resource utilization technology program to develop the capability to use space resources to increase independence from Earth, and sustain exploration beyond low-Earth orbit; and
+&emsp;(3) conduct an in-situ resource utilization technology program to develop the capabilityto use space resources to increase independence from Earth, and sustain exploration beyond low-Earth orbit; and
 
 &emsp;(4) pursue aggressively automated rendezvous and docking capabilities that can support the International Space Station and other mission requirements.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3430.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3430; Pub. L. 115–10, title IV, §415, Mar. 21, 2017, 131 Stat. 34.)
 
 Historical and Revision Notes
 
@@ -27,4 +27,8 @@ Historical and Revision Notes
 42 U.S.C. 16763.
 
 Pub. L. 109–155, title V, §503, Dec. 30, 2005, 119 Stat. 2929.
+
+#### Amendments
+
+<b>2017</b>—Par. (2). Pub. L. 115–10 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "implement an exploration technology development program to enable lunar human and robotic operations consistent with section 20302(b) of this title, including surface power to use on the Moon and other locations;".
 

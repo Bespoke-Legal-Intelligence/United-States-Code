@@ -22,7 +22,7 @@
 
 (d)(1) With respect to benefits under chapter 23 of this title, in the case of an individual described in paragraph (2), the second sentence of subsection (a) or (b), as otherwise applicable, shall not apply.
 
-(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after November 1, 2000, or whose service is described in subsection (b) and who dies after the date of the enactment of the Veterans Benefits Act of 2003, if the individual, on the individual's date of death—
+(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after November 1, 2000, or whose service is described in subsection (b) and who dies afterthe date of the enactment of the Veterans Benefits Act of 2003, if the individual, on the individual's date of death—
 
 &emsp;(A) is a citizen of, or an alien lawfully admitted for permanent residence in, the United States;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) if the individual's service had been deemed to be active military, naval, or air service, would have been paid pension under section 1521 of this title without denial or discontinuance by reason of section 1522 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377,§1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657; Pub. L. 111–275, title V, §502(d)(1), Oct. 13, 2010, 124 Stat. 2882.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657; Pub. L. 111–275, title V, §502(d)(1), Oct. 13, 2010, 124 Stat. 2882.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Pub. L. 106–419, title III, §331(c), Nov. 1, 2000, 114 Stat. 1856, provided t
 
 Pub. L. 106–419, title III, §332(b), Nov. 1, 2000, 114 Stat. 1856, provided that: "No benefits shall accrue to any person for any period before the date of the enactment of this Act \[Nov. 1, 2000\] by reason of the amendments made by subsection (a) \[amending this section\]."
 
-Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57, provided that: "Theamendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 27, 2000\] and shall apply to benefits paid for months beginning on or after that date."
+Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 27, 2000\] and shall apply to benefits paid for months beginning on or after that date."
 
 #### Effective Date of 1994 Amendment
 
@@ -222,7 +222,7 @@ In General.—Except as provided in paragraph (2), the acceptance by an eligible
 
 &emsp;"(2)
 
-Payment of Prior Eligibility Status.—Nothing in this section shall prohibit a person from receiving any benefit (including health care, survivor,or burial benefits) which the person would have been eligible to receive based on laws in effect as of the day before the date of the enactment of this Act \[Feb. 17, 2009\].
+Payment of Prior Eligibility Status.—Nothing in this section shall prohibit a person from receiving any benefit (including health care, survivor, or burial benefits) which the person would have been eligible to receive based on laws in effect as of the day before the date of the enactment of this Act \[Feb. 17, 2009\].
 
 "(i)
 

@@ -30,7 +30,7 @@
 
 #### (3) Technical assistance and information
 
-&emsp;On receipt of a written request from an Indian tribe, the Secretary shall provide to theIndian tribe any technical assistance and information, including budgetary information, that the Indian tribe determines to be necessary for preparation of a proposed plan.
+&emsp;On receipt of a written request from an Indian tribe, the Secretary shall provide to the Indian tribe any technical assistance and information, including budgetary information, that the Indian tribe determines to be necessary for preparation of a proposed plan.
 
 #### (b) Approval and disapproval of proposed plans
 
@@ -80,7 +80,7 @@ Subject to section 5614 of this title, an Indian trust asset management plan, an
 
 #### (1) In general
 
-&emsp;An Indian tribe may terminate an Indian trust asset management plan on any date after the date on which a proposed Indian trust asset management plan is approved by providing to the Secretary—
+&emsp;An Indian tribe may terminate an Indian trust asset management plan on any date afterthe date on which a proposed Indian trust asset management plan is approved by providing to the Secretary—
 
 &emsp;&emsp;(A) a notice of the intent of the Indian tribe to terminate the plan; and
 

@@ -36,6 +36,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—INDEMNITY PAYMENTS TO DAIRY FARMERS
+
+|  |  |
+| :--- | ---: |
+| [4551\.](Subchapter%20003%20%28III%29%20-%20Indemnity%20Payments%20to%20Dairy%20Farmers/%C2%A7%2004551%20-%20Indemnity%20payments%20to%20dairy%20farmers%20and%20manufacturers%20of%20dairy%20products%3B%20milk%20removed%20for%20its%20residue%20of%20chemical%20or%20toxic%20substances%E2%80%A6.md) | Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse. |
+| [4552\.](Subchapter%20003%20%28III%29%20-%20Indemnity%20Payments%20to%20Dairy%20Farmers/%C2%A7%2004552%20-%20Authorization%20of%20appropriations%20for%20dairy%20farmer%20indemnities.md) | Authorization of appropriations for dairy farmer indemnities. |
+| [4553\.](Subchapter%20003%20%28III%29%20-%20Indemnity%20Payments%20to%20Dairy%20Farmers/%C2%A7%2004553%20-%20Expiration%20of%20dairy%20farmer%20indemnity%20program.md) | Expiration of dairy farmer indemnity program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -43,3 +53,4 @@
 
 - [Subchapter 001 (I) - Dairy Promotion Program](Subchapter%20001%20%28I%29%20-%20Dairy%20Promotion%20Program/README.md)
 - [Subchapter 002 (II) - Dairy Research Program](Subchapter%20002%20%28II%29%20-%20Dairy%20Research%20Program/README.md)
+- [Subchapter 003 (III) - Indemnity Payments to Dairy Farmers](Subchapter%20003%20%28III%29%20-%20Indemnity%20Payments%20to%20Dairy%20Farmers/README.md)

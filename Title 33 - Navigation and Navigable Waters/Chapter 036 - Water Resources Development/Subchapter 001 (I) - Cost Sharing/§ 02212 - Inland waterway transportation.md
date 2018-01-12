@@ -28,7 +28,7 @@ The Federal share of the cost of operation and maintenance of any project for na
 
 #### (2) Non-Federal cost share
 
-&emsp;The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, and replacement of any structure under this subsection shall be 35 percent.
+&emsp;The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, andreplacement of any structure under this subsection shall be 35 percent.
 
 #### (d) Authorizations from general fund
 

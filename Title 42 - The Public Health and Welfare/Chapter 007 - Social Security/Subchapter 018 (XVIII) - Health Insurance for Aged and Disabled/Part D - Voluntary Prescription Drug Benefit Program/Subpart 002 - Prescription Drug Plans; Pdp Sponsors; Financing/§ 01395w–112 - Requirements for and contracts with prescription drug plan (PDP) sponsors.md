@@ -16,7 +16,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (B) Reinsurance permitted
 
-&emsp;&emsp;The plan sponsor may obtain insurance or make other arrangements for the cost ofcoverage provided to any enrollee to the extent that the sponsor is at risk for providing such coverage.
+&emsp;&emsp;The plan sponsor may obtain insurance or make other arrangements for the cost of coverage provided to any enrollee to the extent that the sponsor is at risk for providing such coverage.
 
 #### (3) Solvency for unlicensed sponsors
 
@@ -66,7 +66,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
 
-&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup> oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
+&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup>oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
 
 #### (E) Intermediate sanctions
 

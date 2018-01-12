@@ -92,7 +92,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
+Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 daysafter Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
 #### Effective Date of 1965 Amendment
 

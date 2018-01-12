@@ -1,0 +1,6 @@
+### §1181g. Transferred
+
+#### Codification
+
+Section 1181g was editorially reclassified as section 2631 of this title.
+

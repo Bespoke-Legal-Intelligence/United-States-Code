@@ -1,6 +1,6 @@
 ### §2131. Reference to chapter 1606
 
-Provisions of law relating to educational assistance for members of the Selected Reserve under the Montgomery GI Bill program are set forth in chapter 1606 of this title (beginning with section 16131).
+Provisions of law relating to educational assistance for members of the Selected Reserve under the Montgomery GI Bill program are setforth in chapter 1606 of this title (beginning with section 16131).
 
 (Added Pub. L. 103–337, div. A, title XVI, §1663(b)(7), Oct. 5, 1994, 108 Stat. 3007.)
 

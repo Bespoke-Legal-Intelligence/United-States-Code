@@ -8,7 +8,7 @@
 
 &emsp;(C) the employee's performance under such term appointment or appointments met established retention standards, or, if not covered by a performance management system established under section 9508, was rated at the fully successful level or higher (or equivalent thereof); and
 
-&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential forsubsequent conversion to a permanent appointment.
+&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential for subsequent conversion to a permanent appointment.
 
 (2) An appointment under this section may be made only to a position in the same line of work as a position to which the employee received a term appointment under competitive procedures.
 
@@ -30,7 +30,7 @@
 
 &emsp;(1) any employment priority established under direction of the President for the placement of surplus or displaced employees; or
 
-&emsp;(2) any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
+&emsp;(2) any obligation under a court order or decree relating to the employment practices ofthe Internal Revenue Service or the Department of the Treasury.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, §2(c), Mar. 18, 2016, 130 Stat. 312.)
 

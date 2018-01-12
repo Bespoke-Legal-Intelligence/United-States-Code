@@ -78,11 +78,11 @@ Pursuant to the agreements under subsection (a), the Secretary, through the Agen
 
 #### (h) Eligible technologies
 
-Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligibletechnologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
+Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
 
 #### (i) Selection of projects
 
-(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e), select one or more proposals under this section.
+(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agencyfor International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e), select one or more proposals under this section.
 
 (2) In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
 

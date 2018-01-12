@@ -114,7 +114,7 @@ Savings Provision.—Mortgage protection life insurance granted to any veteran u
 
 "(d)
 
-Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy of insurance purchased in accordance with the former section 806.
+Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy ofinsurance purchased in accordance with the former section 806.
 
 "(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the 'Veterans Insurance and Indemnities' appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid by the insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
 

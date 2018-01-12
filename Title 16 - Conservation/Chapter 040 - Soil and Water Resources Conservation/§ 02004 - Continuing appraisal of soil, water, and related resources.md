@@ -28,7 +28,7 @@ The appraisal shall be made in cooperation with conservation districts, State an
 
 #### (d) Evaluation of appraisal
 
-In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
+In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope,process, participation in, and other elements of the appraisal, as determined by the Secretary.
 
 #### (e) Completion dates
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 113–79, §2508(b)(3), substituted "State and tribal soil"
 
 <b>2008</b>—Subsec. (a)(7). Pub. L. 110–246, §2804(b)(1), added par. (7).
 
-Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted "The Secretary shall conduct comprehensive appraisals under this section, to be completed byDecember 31, 2010, and December 31, 2015." for "The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively."
+Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted "The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015." for "The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively."
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect."
 

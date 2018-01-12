@@ -62,11 +62,11 @@ The interest charge determined under this section shall not be allowed as a dedu
 
 #### Prior Provisions
 
-A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
+A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986;Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "For purposes of the tax determined under section 667(a), the interest charge is an amount equal to 6 percent of the partial tax computed under section 667(b) multiplied by a fraction—
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of the tax determined under section 667(a), the interest charge is an amount equal to 6 percent of the partial tax computed under section 667(b) multiplied by a fraction—
 
 &emsp;"(1) the numerator of which is the sum of the number of taxable years between each taxable year to which the distribution is allocated under section 666(a) and the taxable year of the distribution (counting in each case the taxable year to which the distribution is allocated but not counting the taxable year of the distribution), and
 

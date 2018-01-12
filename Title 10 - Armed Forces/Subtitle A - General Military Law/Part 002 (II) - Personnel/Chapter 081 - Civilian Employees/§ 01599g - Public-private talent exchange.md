@@ -10,7 +10,7 @@ Agreements.—(1) The Secretary of Defense shall provide for a written agreement
 
 &emsp;(A) shall require that the employee of the Department of Defense, upon completion of the assignment, will serve in the Department of Defense, or elsewhere in the civil service if approved by the Secretary, for a period equal to twice the length of the assignment;
 
-&emsp;(B) shall provide that if the employee of the Department of Defense or of the private-sectororganization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
+&emsp;(B) shall provide that if the employee of the Department of Defense or of the private-sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
 
 &emsp;(C) shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.
 
@@ -84,7 +84,7 @@ Considerations.—In carrying out this section, the Secretary of Defense—
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b)and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 

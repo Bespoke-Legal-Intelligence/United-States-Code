@@ -38,7 +38,7 @@
 
 &emsp;(i) creditable service of an annuitant shall be increased by including any period (or periods) before the annuitant's redetermination date during which the annuitant was entitled to an annuity under this subchapter; and
 
-&emsp;(ii) the average pay which would otherwise be used shall be adjusted to reflect all adjustments made under section 8462(b) with respect to any period (or periods) referred to in clause (i) (without regard to whether the annuitant's annuity was affected by any of those adjustments).
+&emsp;(ii) the average pay which would otherwise be used shall be adjusted to reflect all adjustments made under section 8462(b) with respect to any period (or periods) referred to in clause\(i) (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
 (c) Except as provided in subsection (d), the annuity of an annuitant under this subchapter shall be computed under section 8415 if—
 

@@ -1,6 +1,6 @@
 ### §2339a. Cooperative agreements with Indian tribes
 
-The Secretary may enter into a cooperative agreement with an Indian tribe (or a designated representative of an Indian tribe) to carry out authorized activities of the Corps of Engineers to protect fish, wildlife, water quality, and cultural resources.
+The Secretary may enter into a cooperative agreement with an Indian tribe (or a designated representative of an Indian tribe) to carry out authorized activities of the Corps of Engineersto protect fish, wildlife, water quality, and cultural resources.
 
 (Pub. L. 113–121, title I, §1031(b), June 10, 2014, 128 Stat. 1233.)
 

@@ -90,7 +90,7 @@
 
 #### (1) Cause
 
-&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall havesuffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
 
 #### (2) Assistance
 
@@ -170,7 +170,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (5) Limitation on receipt of subsequent assigned yield
 
-&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were not submitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
+&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were notsubmitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
 
 #### (6) Yield variations due to different farming practices
 
@@ -216,7 +216,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (4) Adjusted gross income limitation
 
-&emsp;A person or legal entity that has an average adjusted gross income in excess of the averageadjusted gross income limitation applicable under section 1308–3a(b)(1)(A) <sup>2</sup> of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
+&emsp;A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) <sup>2</sup> of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
 
 #### (5) Regulations
 
@@ -354,7 +354,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 113–79, §11014(b)(2), inserted " ,or the prod
 
 Subsec. (a)(4)(B). Pub. L. 113–79, §11014(b)(3)(A), substituted "Reduction in" for "Ineligibility for" in heading.
 
-Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior toamendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
 &emsp;"(I) this section; and
 
@@ -402,7 +402,7 @@ Subsec. (k). Pub. L. 106–224, §109(e), added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 2000 Amendment
 

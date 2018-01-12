@@ -82,7 +82,7 @@ Defense Contracts.—
 
 &emsp;"(1)
 
-Waiver authority.—The head of an agency may issue a waiver to extend a task order contract entered into under section 2304b of title 10, United States Code, for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—
+Waiver authority.—The head of an agency may issue a waiver to extend a task order contractentered into under section 2304b of title 10, United States Code, for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—
 
 &emsp;&emsp;"(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
 
@@ -110,7 +110,7 @@ Report.—Not later than April 1, 2007, the Secretary of Defense shall submit to
 
 &emsp;"(4)
 
-Prohibition on use of authority by department of defense if report not submitted.—Thehead of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
+Prohibition on use of authority by department of defense if report not submitted.—The head of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
 
 "(b)
 

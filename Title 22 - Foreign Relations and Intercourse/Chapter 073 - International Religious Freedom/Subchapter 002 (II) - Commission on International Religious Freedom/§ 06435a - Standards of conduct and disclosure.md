@@ -8,7 +8,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) Member affiliations
 
-&emsp;Except as provided in paragraph (3), in order to ensure the independence and integrity of the Commission, the Commission may not compensate any nongovernmental agency, project, or person related to or affiliated with any member of the Commission, whether in that member's direct employ or not. Staff employed by the Commission may not serve in the employ of any nongovernmental agency, project, or person related to or affiliated with any member of the Commission while employed by the Commission.
+&emsp;Except as provided in paragraph (3), in order to ensure the independence and integrity ofthe Commission, the Commission may not compensate any nongovernmental agency, project, or person related to or affiliated with any member of the Commission, whether in that member's direct employ or not. Staff employed by the Commission may not serve in the employ of any nongovernmental agency, project, or person related to or affiliated with any member of the Commission while employed by the Commission.
 
 #### (2) Staff compensation
 
@@ -70,7 +70,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
-(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273.)
+(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403;amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, §5, Dec. 23, 2011, 125 Stat. 1273.)
 
 #### References in Text
 

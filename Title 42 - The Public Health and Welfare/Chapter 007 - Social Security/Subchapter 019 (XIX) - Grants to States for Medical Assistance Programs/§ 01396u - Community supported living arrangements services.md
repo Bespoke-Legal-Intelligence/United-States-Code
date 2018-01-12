@@ -50,7 +50,7 @@ A State selected by the Secretary to provide services under this section shall i
 
 &emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
 
-> The Secretary shall not approve a quality assurance plan under this subsection and allow a State to continue to receive Federal financial participation under this section unless the State provides for public hearings on the plan prior to adoption and implementation of its plan under this subsection.
+> The Secretary shall not approve a quality assurance plan under this subsection and allow aState to continue to receive Federal financial participation under this section unless the State provides for public hearings on the plan prior to adoption and implementation of its plan under this subsection.
 
 #### (e) Maintenance of effort
 

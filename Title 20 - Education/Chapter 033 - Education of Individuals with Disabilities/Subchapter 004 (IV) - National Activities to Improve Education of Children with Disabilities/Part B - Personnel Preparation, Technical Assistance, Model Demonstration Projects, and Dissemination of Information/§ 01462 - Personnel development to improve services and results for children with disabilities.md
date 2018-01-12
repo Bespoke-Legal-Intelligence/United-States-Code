@@ -68,7 +68,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(vi) effectively constructing IEPs, participating in IEP meetings, and implementing IEPs;
 
-&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments\(with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
 &emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
 
@@ -90,7 +90,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;In carrying out paragraph (1)(B), the Secretary shall support not less than 1 of the following activities:
 
-&emsp;&emsp;(A) Enhancing and restructuring existing programs or developing preservice teacher education programs to prepare special education teachers, at colleges or departmentsof education within institutions of higher education, by incorporating an extended (such as an additional 5th year) clinical learning opportunity, field experience, or supervised practicum into such programs.
+&emsp;&emsp;(A) Enhancing and restructuring existing programs or developing preservice teacher education programs to prepare special education teachers, at colleges or departments of education within institutions of higher education, by incorporating an extended (such as an additional 5th year) clinical learning opportunity, field experience, or supervised practicum into such programs.
 
 &emsp;&emsp;(B) Creating or supporting teacher-faculty partnerships (such as professional development schools) that—
 
@@ -168,7 +168,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall support leadership preparation activitiesthat are consistent with the objectives described in subsection (a).
+&emsp;In carrying out this section, the Secretary shall support leadership preparation activities that are consistent with the objectives described in subsection (a).
 
 #### (2) Authorized activities
 

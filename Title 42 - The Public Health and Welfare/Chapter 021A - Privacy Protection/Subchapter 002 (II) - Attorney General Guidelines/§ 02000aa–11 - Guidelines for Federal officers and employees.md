@@ -6,7 +6,7 @@ The Attorney General shall, within six months of October 13, 1980, issue guideli
 
 &emsp;(1) a recognition of the personal privacy interests of the person in possession of such documentary materials;
 
-&emsp;(2) a requirement that the least intrusive method or means of obtaining such materialsbe used which do not substantially jeopardize the availability or usefulness of the materials sought to be obtained;
+&emsp;(2) a requirement that the least intrusive method or means of obtaining such materials be used which do not substantially jeopardize the availability or usefulness of the materials sought to be obtained;
 
 &emsp;(3) a recognition of special concern for privacy interests in cases in which a search or seizure for such documents would intrude upon a known confidential relationship such as that which may exist between clergyman and parishioner; lawyer and client; or doctor and patient; and
 

@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) for an allocation from the dollar amount specified in clause (i) or (ii) of paragraph (3)(B) during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1), and
 
-&emsp;&emsp;&emsp;(ii) for an allocation from the dollar amount specified in paragraph (3)(B)(iii) during the 3-year period beginning at the earlier of the termination of the period described in clause (i) or the date prescribed by the Secretary.
+&emsp;&emsp;&emsp;(ii) for an allocation from the dollar amount specified in paragraph (3)(B)(iii)during the 3-year period beginning at the earlier of the termination of the period described in clause (i) or the date prescribed by the Secretary.
 
 #### (B) Requirements for applications for certification
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (D) Time to meet criteria for certification
 
-&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by theSecretary of the application during which to provide to the Secretary evidence that the criteria set forth in subsection (e)(2) have been met.
+&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the criteria set forth in subsection (e)(2) have been met.
 
 #### (E) Period of issuance
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 &emsp;For the purpose of subsection (d)(2)(D), a project shall be eligible for certification only if the Secretary determines that—
 
-&emsp;&emsp;(A) the applicant for certification has received all Federal and State environmental authorizations or reviews necessary to commence construction of the project; and
+&emsp;&emsp;(A) the applicant for certification has received all Federal and State environmentalauthorizations or reviews necessary to commence construction of the project; and
 
 &emsp;&emsp;(B) the applicant for certification, except in the case of a retrofit or repower of an existing electric generation unit, has purchased or entered into a binding contract for the purchase of the main steam turbine or turbines for the project, except that such contract may be contingent upon receipt of a certification under subsection (d)(2).
 
@@ -357,5 +357,5 @@ Pub. L. 109–432, div. A, title II, §203(b), Dec. 20, 2006, 120 Stat. 2945, pr
 
 #### Effective Date
 
-Section applicable to periods after Aug. 8, 2005, under rules similar to the rules of section 48(m) of this title, as in effect on the day before Nov. 5, 1990, see section 1307(d) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendment note under section 46 of this title.
+Section applicable to periods after Aug. 8, 2005, under rules similar to the rules of section 48(m) of this title,as in effect on the day before Nov. 5, 1990, see section 1307(d) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendment note under section 46 of this title.
 

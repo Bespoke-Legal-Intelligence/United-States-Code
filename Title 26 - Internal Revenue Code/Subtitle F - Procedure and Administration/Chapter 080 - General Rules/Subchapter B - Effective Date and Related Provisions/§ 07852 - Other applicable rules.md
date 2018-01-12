@@ -10,7 +10,7 @@ Any reference in any other law of the United States or in any Executive order to
 
 #### (c) Items not to be twice included in income or deducted therefrom
 
-Except as otherwise distinctly expressed or manifestly intended, the same item (whether ofincome, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
+Except as otherwise distinctly expressed or manifestly intended, the same item (whether of income, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
 
 #### (d) Treaty obligations
 

@@ -114,7 +114,7 @@ In general.—Not later than 90 days after the date of enactment of this Act \[O
 
 &emsp;&emsp;"(B)
 
-Authority.—The Secretary shall use to carry out this paragraph the authority provided under section 3 of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l).
+Authority.—The Secretary shall use to carry out this paragraph the authority providedunder section 3 of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l).
 
 &emsp;"(3)
 

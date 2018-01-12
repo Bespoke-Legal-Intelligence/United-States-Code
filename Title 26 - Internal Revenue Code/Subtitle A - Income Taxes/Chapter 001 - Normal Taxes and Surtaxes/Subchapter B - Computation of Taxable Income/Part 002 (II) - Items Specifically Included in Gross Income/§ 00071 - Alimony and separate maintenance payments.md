@@ -134,6 +134,10 @@ This section and section 215 shall not apply if the spouses make a joint return 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 19; Pub. L. 98–369, div. A, title IV, §422(a), July 18, 1984, 98 Stat. 795; Pub. L. 99–514, title XVIII, §1843(a)–(c)(1), (d), Oct. 22, 1986, 100 Stat. 2853, 2855.)
 
+#### Repeal of Section
+
+<i>Pub. L. 115–97, title I, §11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this section is repealed.</i>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b)(1)(D). Pub. L. 99–514, §1843(b), struck out "(and the divorce or separation instrument states that there is no such liability)" after "for such payments after the death of the payee spouse".
@@ -144,7 +148,11 @@ Subsec. (f). Pub. L. 99–514, §1843(c)(1), amended subsec. (f) generally, subs
 
 Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
-<b>1984</b>—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments,par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
+
+#### Effective Date of Repeal
+
+Repeal applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 61 of this title.
 
 #### Effective Date of 1986 Amendment; Transitional Rule
 
@@ -156,15 +164,15 @@ Effective dates.—
 
 &emsp;"(A)
 
-In general.—The amendment made by paragraph (1) \[amending this section\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
+In general.—The amendment made by paragraph (1) \[amending this section\] shall apply with respect to divorce or separation instruments (as defined in \[former\] section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
 
 &emsp;"(B)
 
-Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly providesthat the amendments made by paragraph (1) shall apply to such modification.
+Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
 "(3)
 
-Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) \[amending this section\] does not apply, paragraph (2) of section 71(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) shall apply only with respect to the first 3 post-separation years."
+Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) \[amending this section\] does not apply, paragraph (2) of \[former\] section 71(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) shall apply only with respect to the first 3 post-separation years."
 
 #### Effective Date of 1984 Amendment
 
@@ -172,7 +180,7 @@ Pub. L. 98–369, div. A, title IV, §422(e), July 18, 1984, 98 Stat. 798, as am
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 215, 219, 682, 6676, and 7701 of this title\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section) executed after December 31, 1984.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 215, 219, 682, 6676, and 7701 of this title\] shall apply with respect to divorce or separation instruments (as defined in \[former\] section 71(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section) executed after December 31, 1984.
 
 "(2)
 

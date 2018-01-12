@@ -2,7 +2,7 @@
 
 If necessary to obtain such assets the Secretary, through the Secretary's authorized attorneys, may bring and prosecute appropriate actions at law or other legal proceedings, the costs and expenses thereof to be paid as are other administrative expenses of the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, §5225; Pub. L. 99–576, title VII, §701(104), Oct. 28, 1986,100 Stat. 3301; renumbered §8525, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, §5225; Pub. L. 99–576, title VII, §701(104), Oct. 28, 1986, 100 Stat. 3301; renumbered §8525, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

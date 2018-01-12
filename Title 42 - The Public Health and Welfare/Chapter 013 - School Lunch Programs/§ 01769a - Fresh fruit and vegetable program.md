@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the school year beginning July 2008 and each subsequent school year, the Secretary shallprovide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the "program").
+For the school year beginning July 2008 and each subsequent school year, the Secretary shall provide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the "program").
 
 #### (b) Program
 
@@ -44,7 +44,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;&emsp;(ii) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
 
-&emsp;&emsp;&emsp;(iii) a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health and nutrition, reduce overweight and obesity, or promote physical activity; and
+&emsp;&emsp;&emsp;(iii) a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health andnutrition, reduce overweight and obesity, or promote physical activity; and
 
 &emsp;&emsp;&emsp;(iv) such other information as may be requested by the Secretary; and
 
@@ -174,7 +174,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 
@@ -234,7 +234,7 @@ Pub. L. 110–234, title IV, §4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub
 
 "(A)
 
-Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
+Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended byparagraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
 
 "(B)
 

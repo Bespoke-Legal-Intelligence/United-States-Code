@@ -36,7 +36,7 @@ Within 36 months after November 15, 1990, the Administrator shall promulgate reg
 
 #### (2) Sales
 
-&emsp;Allowances in the subaccount shall be offered for direct sale to any person at the timesand in the amounts specified in table 1 at a price of $1,500 per allowance, adjusted by the Consumer Price Index in the same manner as provided in paragraph (3). Requests to purchase allowances from the Direct Sale Subaccount established under paragraph (1) shall be approved in the order of receipt until no allowances remain in such subaccount, except that an opportunity to purchase such allowances shall be provided to the independent power producers referred to in this subsection before such allowances are offered to any other person. Each applicant shall be required to pay 50 percent of the total purchase price of the allowances within 6 months after the approval of the request to purchase. The remainder shall be paid on or before the transfer of the allowances.
+&emsp;Allowances in the subaccount shall be offered for direct sale to any person at the times and in the amounts specified in table 1 at a price of $1,500 per allowance, adjusted by the Consumer Price Index in the same manner as provided in paragraph (3). Requests to purchase allowances from the Direct Sale Subaccount established under paragraph (1) shall be approved in the order of receipt until no allowances remain in such subaccount, except that an opportunity to purchase such allowances shall be provided to the independent power producers referred to in this subsection before such allowances are offered to any other person. Each applicant shall be required to pay 50 percent of the total purchase price of the allowances within 6 months after the approval of the request to purchase. The remainder shall be paid on or before the transfer of the allowances.
 
 Table 1
 
@@ -94,11 +94,11 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (6) Proceeds
 
-&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administrator shall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a pro rata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) of this section and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d) of this section. No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
+&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administrator shall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a pro rata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d). No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
 
 #### (7) Termination of subaccount
 
-&emsp;If the Administrator determines that, during any period of 2 consecutive calendar years, less than 20 percent of the allowances available in the subaccount for direct sales established under this subsection have been purchased under this paragraph, the Administrator shall terminate the subaccount and transfer such allowances to the Auction Subaccount under subsection (d) of this section.
+&emsp;If the Administrator determines that, during any period of 2 consecutive calendar years, less than 20 percent of the allowances available in the subaccount for direct sales established under this subsection have been purchased under this paragraph, the Administrator shall terminate the subaccount and transfer such allowances to the Auction Subaccount under subsection (d).
 
 #### (d) Auction sales
 
@@ -176,7 +176,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (3) Proceeds
 
-&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section, on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
+&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section, on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b). No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
 &emsp;(B) At the end of each year, any allowances offered for sale but not sold at the auction shall be returned without charge, on a pro rata basis, to the owner or operator of the affected units from whose allocation the allowances were withheld.
 

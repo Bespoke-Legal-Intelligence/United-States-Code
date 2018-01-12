@@ -38,7 +38,7 @@
 
 #### (4) Appropriation
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated,there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
 
 (Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§703(a), 705(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403; Pub. L. 110–173, title II, §205, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–3, title VI, §602, Feb. 4, 2009, 123 Stat. 98; Pub. L. 111–148, title II, §2102(a)(6), Mar. 23, 2010, 124 Stat. 288.)
 

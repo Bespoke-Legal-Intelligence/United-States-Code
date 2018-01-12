@@ -4,7 +4,7 @@
 
 The Secretary shall carry out a program of financial assistance to—
 
-&emsp;(1) facilitate the production and generation of coal-based power, through the deployment of clean coal electric generating equipment and processes that, compared to equipment or processes that are in operation on a full scale—
+&emsp;(1) facilitate the production and generation of coal-based power, through the deployment of clean coal electric generating equipment and processes that, compared to equipment orprocesses that are in operation on a full scale—
 
 &emsp;&emsp;(A) improve—
 

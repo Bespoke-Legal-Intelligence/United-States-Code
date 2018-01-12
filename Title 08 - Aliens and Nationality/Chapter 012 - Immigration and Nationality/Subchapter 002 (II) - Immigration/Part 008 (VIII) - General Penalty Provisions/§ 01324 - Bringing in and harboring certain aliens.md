@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) an offense in which the alien is not upon arrival immediately brought and presented to an appropriate immigration officer at a designated port of entry,
 
-> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation ofsubparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
+> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
 
 (3)(A) Any person who, during any 12-month period, knowingly hires for employment at least 10 individuals with actual knowledge that the individuals are aliens described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 5 years, or both.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
-&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alienhad not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;&emsp;(C) Testimony, by an immigration officer having personal knowledge of the facts concerning that alien's status, that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -144,7 +144,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;"(1) brings into or lands in the United States, by any means of transportation or otherwise, or attempts, by himself or through another, to bring into or land in the United States, by any means of transportation or otherwise;
 
-&emsp;"(2) knowing that he is in the United States in violation of law, and knowing or having reasonable grounds to believe that his last entry into the United States occurred less than three years prior thereto, transports, or moves, or attempts to transport or move, within the United States by means of transportation or otherwise, in furtherance of such violation of law;
+&emsp;"(2) knowing that he is in the United States in violation of law, and knowing or having reasonable grounds to believe that his last entry into the United States occurred less than three years prior thereto,transports, or moves, or attempts to transport or move, within the United States by means of transportation or otherwise, in furtherance of such violation of law;
 
 &emsp;"(3) willfully or knowingly conceals, harbors, or shields from detection, or attempts to conceal, harbor, or shield from detection, in any place, including any building or any means of transportation; or
 
@@ -170,7 +170,7 @@ Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100�
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set out as an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
+Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set out as an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
 
 #### Effective Date of 1996 Amendment
 

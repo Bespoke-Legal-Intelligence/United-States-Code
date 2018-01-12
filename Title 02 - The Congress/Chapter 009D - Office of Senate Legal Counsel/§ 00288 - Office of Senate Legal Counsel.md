@@ -32,7 +32,7 @@ The counsel <sup>1</sup> may delegate authority for the performance of any func
 
 #### (f) Attorney-client relationship
 
-The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
+The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications betweenthem and any Member, officer, or employee of the Senate.
 
 (Pub. L. 95–521, title VII, §701, Oct. 26, 1978, 92 Stat. 1875.)
 

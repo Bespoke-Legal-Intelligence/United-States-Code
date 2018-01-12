@@ -2,7 +2,7 @@
 
 (a) There is authorized to be appropriated annually to each agency of the Government of the United States, including a Government owned corporation, and of the government of the District of Columbia, on a showing of necessity or desirability, such sums as may be necessary to carry out this subchapter. The head of the agency concerned, out of funds made available by the appropriation, shall—
 
-&emsp;(1) furnish to each of these employees a uniform at a cost not to exceed $400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902); or
+&emsp;(1) furnish to each of these employees a uniform at a cost not to exceed $400 a year (orsuch higher maximum amount as the Office of Personnel Management may establish under section 5902); or
 
 &emsp;(2) pay to each of these employees an allowance for a uniform not to exceed $400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).
 

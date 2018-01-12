@@ -26,7 +26,7 @@ Duties of the Chairman.—The Chief Financial Officer of the Department of Defen
 
 Duties.—The Defense Cost Accounting Standards Board—
 
-&emsp;(1) shall review cost accounting standards established under section 1502 of title 41 andrecommend changes to such cost accounting standards to the Cost Accounting Standards Board established under section 1501 of such title;
+&emsp;(1) shall review cost accounting standards established under section 1502 of title 41 and recommend changes to such cost accounting standards to the Cost Accounting Standards Board established under section 1501 of such title;
 
 &emsp;(2) has exclusive authority, with respect to the Department of Defense, to implement such cost accounting standards to achieve uniformity and consistency in the standards governing measurement, assignment, and allocation of costs to contracts with the Department of Defense; and
 
@@ -40,21 +40,15 @@ Compensation.—(1) Members of the Defense Cost Accounting Standards Board who a
 
 (3) While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis shall be allowed travel expenses in accordance with section 5703 of title 5.
 
-(f)
-
-Auditing Requirements.—(1) Notwithstanding any other provision of law, contractors with the Department of Defense may present, and the Defense Contract Audit Agency shall accept without performing additional audits, a summary of audit findings prepared by a commercial auditor if—
-
-&emsp;(A) the auditor previously performed an audit of the allowability, measurement, assignment to accounting periods, and allocation of indirect costs of the contractor; and
-
-&emsp;(B) such audit was performed using relevant commercial accounting standards (such as Generally Accepted Accounting Principles) and relevant commercial auditing standards established by the commercial auditing industry for the relevant accounting period.
-
-(2) The Defense Contract Audit Agency may audit direct costs of Department of Defense cost contracts and shall rely on commercial audits of indirect costs without performing additional audits, except that in the case of companies or business units that have a predominance of cost-type contracts as a percentage of sales, the Defense Contract Audit Agency may audit both direct and indirect costs.
-
-(Added Pub. L. 114–328, div. A, title VIII, §820(b)(1), Dec. 23, 2016, 130 Stat. 2274.)
+(Added Pub. L. 114–328, div. A, title VIII, §820(b)(1), Dec. 23, 2016, 130 Stat. 2274; amended Pub. L. 115–91, div. A, title VIII, §804, Dec. 12, 2017, 131 Stat. 1456.)
 
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (e)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (f). Pub. L. 115–91 struck out subsec. (f) which related to auditing requirements.
 
 #### Effective Date
 

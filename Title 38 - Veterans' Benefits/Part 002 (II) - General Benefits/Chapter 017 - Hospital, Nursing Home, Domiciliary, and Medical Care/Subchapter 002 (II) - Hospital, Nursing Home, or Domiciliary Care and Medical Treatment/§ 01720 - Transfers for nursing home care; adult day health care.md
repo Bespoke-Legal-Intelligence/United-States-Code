@@ -52,7 +52,7 @@
 
 (B) In entering into an agreement under subparagraph (A) with a provider of services described in clause (i) of that subparagraph or a provider described in clause (ii) of that subparagraph, the Secretary may use the procedures available for entering into provider agreements under section 1866(a) of the Social Security Act.
 
-(2) In applying the provisions of section 6704(a) of title 41 with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b))shall be deemed to constitute compliance with such provisions.
+(2) In applying the provisions of section 6704(a) of title 41 with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
 
 (d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
 
@@ -100,7 +100,7 @@ Prior section 1720 was renumbered section 3520 of this title.
 
 Subsec. (f)(1)(B). Pub. L. 108–170, §105(b), inserted "or agreement" after "contract" in two places.
 
-<b>1999</b>—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The Secretary is authorized to furnishadult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
+<b>1999</b>—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
 &emsp;"(i) references to 'nursing home care' in subsections (a) through (d) of this section shall be deemed to be references to 'adult day health care'; and
 
@@ -164,7 +164,7 @@ Subsec. (f)(3). Pub. L. 100–322, §111(a), substituted "September 30, 1991" fo
 
 &emsp;"(i) such veteran has received maximum benefits from such care in such hospital, but will require a protracted period of nursing home care which can be furnished in such institution, and
 
-&emsp;"(ii) the cost of such nursing home care in such institution will not exceed 45 percent of the cost of care furnished by the Veterans' Administration in a general hospital under the direct and exclusive jurisdiction of the Administrator, as such cost may be determined annually by the Administrator, or not to exceed 50 percent of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care.
+&emsp;"(ii) the cost of such nursing home care in such institution will not exceed 45 percent of the cost of carefurnished by the Veterans' Administration in a general hospital under the direct and exclusive jurisdiction of the Administrator, as such cost may be determined annually by the Administrator, or not to exceed 50 percent of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care.
 
 > Nursing home care may not be furnished pursuant to this section at the expense of the United States for more than six months in the aggregate in connection with any one transfer, except (I) in the case of the veteran whose hospitalization was primarily for a service-connected disability, or (II) where in the judgment of the Administrator a longer period is warranted in the case of any other veteran. Any veteran who is furnished care by the Administrator in a hospital in Alaska or Hawaii may be furnished nursing home care under the provisions of this section even if such hospital is not under the direct jurisdiction of the Administrator."
 
@@ -180,7 +180,7 @@ Subsec. (f). Pub. L. 98–160, §103(a)(1), added subsec. (f).
 
 Subsec. (c). Pub. L. 97–295, §4(19)(B), inserted "(41 U.S.C. 351(b)(1))" after "the Service Contract Act of 1965" and substituted "(29 U.S.C. 206(b))" for ", as amended,".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted "and except as provided in subsection (e)" after "subsection (b)" in provisions preceding par. (1), substituted "direct jurisdiction" for "direct and exclusive jurisdiction" in par. (1), substituted "45 per centum"for "40 per centum" and "annually" for "from time to time" in cl. (ii) and inserted ", or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care" at the end thereof, and substituted "direct jurisdiction" for "direct and exclusive jurisdiction" in provisions following cl. (ii).
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted "and except as provided in subsection (e)" after "subsection (b)" in provisions preceding par. (1), substituted "direct jurisdiction" for "direct and exclusive jurisdiction" in par. (1), substituted "45 per centum" for "40 per centum" and "annually" for "from time to time" in cl. (ii) and inserted ", or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care" at the end thereof, and substituted "direct jurisdiction" for "direct and exclusive jurisdiction" in provisions following cl. (ii).
 
 Subsec. (b). Pub. L. 94–581, §210(a)(7), substituted "such standards as the Administrator may prescribe" for "such standards as he may prescribe".
 

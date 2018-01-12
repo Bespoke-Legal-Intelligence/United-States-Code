@@ -140,3 +140,7 @@ There is authorized to be appropriated to carry out this section $20,000,000 for
 
 (Pub. L. 110–140, title VII, §712, Dec. 19, 2007, 121 Stat. 1713.)
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+

@@ -156,7 +156,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (B) Recovery of funds prohibited
 
-&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available withrespect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
 
 #### (C) Recommencement of payments
 
@@ -200,7 +200,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### References in Text
 
-For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see§1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
@@ -246,7 +246,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 1
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended by Pub. L. 114–95, title IX, §9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended byPub. L. 114–95, title IX, §9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
 
 "(1)
 

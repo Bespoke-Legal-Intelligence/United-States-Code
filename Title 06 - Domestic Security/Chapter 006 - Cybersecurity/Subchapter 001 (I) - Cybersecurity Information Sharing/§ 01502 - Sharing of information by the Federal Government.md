@@ -38,7 +38,7 @@ Consistent with the protection of classified information, intelligence sources a
 
 #### (2) Consultation
 
-&emsp;In developing the procedures required under this section, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of Defense, and the Attorney General shall consult with appropriate Federal entities, including the Small Business Administration and the National Laboratories (as defined in section 15801 of title 42), to ensure that effective protocols are implemented that will facilitate and promote the sharing of cyber threat indicators by the Federal Government in a timely manner.
+&emsp;In developing the procedures required under this section, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of Defense, and the Attorney General shall consult with appropriate Federal entities, including the Small Business Administration and the National Laboratories (as defined in section 15801 of title 42), to ensure that effective protocols are implemented that will facilitate and promote the sharing ofcyber threat indicators by the Federal Government in a timely manner.
 
 #### (c) Submittal to Congress
 

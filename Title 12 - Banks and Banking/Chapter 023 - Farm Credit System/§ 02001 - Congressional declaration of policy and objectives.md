@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a notebelow. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
+The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Pub. L. 99–509, title I, §1031, Oct. 21, 1986, 100 Stat. 1877, provided that:
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–205, §1, Dec. 23, 1985, 99 Stat. 1678, provided: "That this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] may be cited as the 'Farm Credit Amendments Act of 1985'."
+Pub. L. 99–205, §1, Dec. 23, 1985, 99 Stat. 1678, provided: "That this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254of this title, and repealing sections 2152, 2247, and 2253 of this title\] may be cited as the 'Farm Credit Amendments Act of 1985'."
 
 #### Short Title of 1980 Amendment
 

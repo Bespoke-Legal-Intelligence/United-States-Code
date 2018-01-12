@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 104–208, §308(d)(4)(I)(i)(III), struck out "excluding" a
 
 <b>1990</b>—Pub. L. 101–649, §603(a)(15)(D), substituted "exclusion on a health-related ground" for "disability or afflicted with disease" in section catchline.
 
-Subsec. (a). Pub. L. 101–649, §603(a)(15)(A), substituted "excludable under section 1182(a)(1) of this title" for"(1) mentally retarded, (2) insane, (3) afflicted with psychopathic personality, or with sexual deviation, (4) a chronic alcoholic, (5) afflicted with any dangerous contagious disease, or (6) a narcotic drug addict" and "the excluding condition" for "such disease or disability".
+Subsec. (a). Pub. L. 101–649, §603(a)(15)(A), substituted "excludable under section 1182(a)(1) of this title" for "(1) mentally retarded, (2) insane, (3) afflicted with psychopathic personality, or with sexual deviation, (4) a chronic alcoholic, (5) afflicted with any dangerous contagious disease, or (6) a narcotic drug addict" and "the excluding condition" for "such disease or disability".
 
 Pub. L. 101–649, §543(a)(9)(A), substituted "Commissioner" for "collector of customs of the customs district in which the place of arrival is located" and "$3,000" for "$1,000".
 

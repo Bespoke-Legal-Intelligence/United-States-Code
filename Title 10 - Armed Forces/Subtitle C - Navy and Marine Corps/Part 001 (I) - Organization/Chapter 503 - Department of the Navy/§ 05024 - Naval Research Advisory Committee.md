@@ -32,7 +32,7 @@ In subsection (d) references to sections of title 18 and to R.S. 190 are omitted
 
 Subsec. (c). Pub. L. 99–433, §514(d)(2), substituted "claim, proceeding," for "claim proceeding".
 
-<b>1981</b>—Subsecs. (c), (d). Pub. L. 97–60 redesignated subsec. (d) as (c). Former subsec. (c), which allowed each member of the Committee compensation of $50 for each day or part of a day that the member attended any regularly called meeting of the Committee and also allowed that member reimbursement for all travel expenses incident to that attendance, was struck out.
+<b>1981</b>—Subsecs. (c), (d). Pub. L. 97–60 redesignated subsec. (d) as (c). Former subsec. (c), which allowed eachmember of the Committee compensation of $50 for each day or part of a day that the member attended any regularly called meeting of the Committee and also allowed that member reimbursement for all travel expenses incident to that attendance, was struck out.
 
 #### Termination of Advisory Committees
 

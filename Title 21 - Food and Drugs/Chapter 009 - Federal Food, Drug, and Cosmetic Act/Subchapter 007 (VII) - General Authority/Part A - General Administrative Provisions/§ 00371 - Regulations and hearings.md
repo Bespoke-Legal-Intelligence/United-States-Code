@@ -10,11 +10,11 @@ The Secretary of the Treasury and the Secretary of Health and Human Services sha
 
 #### (c) Conduct of hearings
 
-Hearings authorized or required by this chapter shall be conducted by the Secretary or suchofficer or employee as he may designate for the purpose.
+Hearings authorized or required by this chapter shall be conducted by the Secretary or such officer or employee as he may designate for the purpose.
 
 #### (d) Effectiveness of definitions and standards of identity
 
-The definitions and standards of identity promulgated in accordance with the provisions of this chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
+The definitions and standards of identity promulgated in accordance with the provisions ofthis chapter shall be effective for the purposes of the enforcement of this chapter, notwithstanding such definitions and standards as may be contained in other laws of the United States and regulations promulgated thereunder.
 
 #### (e) Procedure for establishment
 
@@ -40,7 +40,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (g) Copies of records of hearings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal,libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f).
+A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f).
 
 #### (h) Guidance documents
 
@@ -92,7 +92,7 @@ Subsec. (f)(3). Pub. L. 85–791, §21(b), inserted "Upon the filing of the peti
 
 <b>1956</b>—Subsec. (e). Act Aug. 1, 1956, simplified procedures governing prescribing of regulations under certain provisions of this chapter.
 
-<b>1954</b>—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before "343(j)", such section 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
+<b>1954</b>—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before "343(j)", suchsection 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
 
 #### Change of Name
 
@@ -122,19 +122,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Notification of FDA Intent To Regulate Laboratory-Developed Tests
 
-Pub. L. 112–144, title XI, §1143, July 9, 2012, 126 Stat. 1130, provided that:
-
-"(a)
-
-In General.—The Food and Drug Administration may not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) without, at least 60 days prior to such issuance—
-
-&emsp;"(1) notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration's intent to take such action; and
-
-&emsp;"(2) including in such notification the anticipated details of such action.
-
-"(b)
-
-Sunset.—Subsection (a) shall cease to have force or effect on the date that is 5 years after the date of enactment of this Act \[July 9, 2012\]."
+Pub. L. 112–144, title XI, §1143, July 9, 2012, 126 Stat. 1130, provided that the Food and Drug Administration could not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) without, at least 60 days prior to such issuance, notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration's intent to take such action and including in such notification the anticipated details of such action, and that such provision ceased to have force or effect on the date that was 5 years after the date of enactment of Pub. L. 112–144, which was approved July 9, 2012.
 
 #### Approval of Supplemental Applications for Approved Products
 

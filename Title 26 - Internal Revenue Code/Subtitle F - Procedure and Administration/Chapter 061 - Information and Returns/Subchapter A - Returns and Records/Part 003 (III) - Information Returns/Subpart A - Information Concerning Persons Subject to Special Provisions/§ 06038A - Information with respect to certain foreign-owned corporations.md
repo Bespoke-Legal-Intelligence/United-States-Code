@@ -8,21 +8,33 @@ If, at any time during a taxable year, a corporation (hereinafter in this sectio
 
 &emsp;(2) is 25-percent foreign-owned,
 
-> such corporation shall furnish, at such time and in such manner as the Secretary shall by regulations prescribe, the information described in subsection (b) and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records).
+> such corporation shall furnish, at such time and in such manner as the Secretary shall by regulations prescribe, the information described insubsection (b) and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records).
 
 #### (b) Required information
 
-For purposes of subsection (a), the information described in this subsection is such information as the Secretary may prescribe by regulations relating to—
+#### (1) In general
 
-&emsp;(1) the name, principal place of business, nature of business, and country or countries in which organized or resident, of each person which—
+&emsp;For purposes of subsection (a), the information described in this subsection is such information as the Secretary prescribes by regulations relating to—
 
-&emsp;&emsp;(A) is a related party to the reporting corporation, and
+&emsp;&emsp;(A) the name, principal place of business, nature of business, and country or countries in which organized or resident, of each person which—
 
-&emsp;&emsp;(B) had any transaction with the reporting corporation during its taxable year,
+&emsp;&emsp;&emsp;(i) is a related party to the reporting corporation, and
 
-&emsp;(2) the manner in which the reporting corporation is related to each person referred to in paragraph (1), and
+&emsp;&emsp;&emsp;(ii) had any transaction with the reporting corporation during its taxable year,
 
-&emsp;(3) transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation.
+&emsp;&emsp;(B) the manner in which the reporting corporation is related to each person referred to in subparagraph (A), and
+
+&emsp;&emsp;(C) transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation.
+
+#### (2) Additional information regarding base erosion payments
+
+&emsp;For purposes of subsection (a) and section 6038C, if the reporting corporation or the foreign corporation to whom section 6038C applies is an applicable taxpayer, the information described in this subsection shall include—
+
+&emsp;&emsp;(A) such information as the Secretary determines necessary to determine the base erosion minimum tax amount, base erosion payments, and base erosion tax benefits of the taxpayer for purposes of section 59A for the taxable year, and
+
+&emsp;&emsp;(B) such other information as the Secretary determines necessary to carry out such section.
+
+> &emsp;For purposes of this paragraph, any term used in this paragraph which is also used in section 59A shall have the same meaning as when used in such section.
 
 #### (c) Definitions
 
@@ -74,11 +86,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) fails to maintain (or cause another to maintain) records as required by subsection (a),
 
-> &emsp;such corporation shall pay a penalty of $10,000 for each taxable year with respect to which such failure occurs.
+> &emsp;such corporation shall pay a penalty of $25,000 for each taxable year with respect to which such failure occurs.
 
 #### (2) Increase in penalty where failure continues after notification
 
-&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day onwhich the Secretary mails notice of such failure to the reporting corporation, such corporation shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period.
+&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the reporting corporation, such corporation shall pay a penalty (in addition to the amount required under paragraph (1)) of $25,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period.
 
 #### (3) Reasonable cause
 
@@ -128,15 +140,19 @@ For purposes of this section—
 
 #### (D) Suspension of statute of limitations
 
-&emsp;&emsp;If the reporting corporation brings an action under subparagraph (A) or (B), the running of any period of limitations under section 6501 (relating to assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to anyaffected taxable year shall be suspended for the period during which such proceeding, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such proceeding. For purposes of this subparagraph, the term "affected taxable year" means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.
+&emsp;&emsp;If the reporting corporation brings an action under subparagraph (A) or (B), the running of any period of limitations under section 6501 (relating to assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to any affected taxable year shall be suspended for the period during which such proceeding, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such proceeding. For purposes of this subparagraph, the term "affected taxable year" means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.
 
 #### (f) Cross reference
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880; Pub. L. 115–97, title I, §14401(b), Dec. 22, 2017, 131 Stat. 2232.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97, §14401(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) described information required to be furnished by certain foreign-owned corporations.
+
+Subsec. (d)(1), (2). Pub. L. 115–97, §14401(b)(2), substituted "$25,000" for "$10,000".
 
 <b>1996</b>—Subsec. (b)(2) to (4). Pub. L. 104–188, §1704(f)(5)(B), inserted "and" at end of par. (2), substituted a period for ", and" at end of par. (3), and struck out par. (4) which read as follows: "such information as the Secretary may require for purposes of carrying out the provisions of section 453C."
 
@@ -177,6 +193,10 @@ Subsec. (c)(2). Pub. L. 99–514, §1245(b)(4), amended par. (2) generally. Prio
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–369 substituted section "6038(e)(1)" for "6038(d)(1)".
 
 <b>1983</b>—Subsec. (c)(2)(B). Pub. L. 97–448 inserted ", (b)(2)(C)," after "(a)(4)".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendment
 

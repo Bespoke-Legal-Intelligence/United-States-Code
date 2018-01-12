@@ -42,7 +42,7 @@
 
 #### (7) Limitation
 
-&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 10 weeks' consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed theequivalent of 10 weeks' consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (b) Limited global import quota for upland cotton
 
@@ -128,7 +128,7 @@
 
 #### (5) Improper use of assistance
 
-&emsp;If the Secretary determines, after a review or audit of the records of the domestic user,that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
+&emsp;If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
 
 &emsp;&emsp;(A) liable for the repayment of the assistance to the Secretary, plus interest, as determined by the Secretary; and
 

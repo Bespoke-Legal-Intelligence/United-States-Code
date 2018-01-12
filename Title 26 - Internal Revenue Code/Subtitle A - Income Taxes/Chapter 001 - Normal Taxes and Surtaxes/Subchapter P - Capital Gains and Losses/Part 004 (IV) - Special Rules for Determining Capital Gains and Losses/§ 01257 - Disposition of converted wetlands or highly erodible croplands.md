@@ -2,7 +2,7 @@
 
 #### (a) Gain treated as ordinary income
 
-Any gain on the disposition of converted wetland or highly erodible cropland shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision ofthis subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
+Any gain on the disposition of converted wetland or highly erodible cropland shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
 
 #### (b) Loss treated as long-term capital loss
 

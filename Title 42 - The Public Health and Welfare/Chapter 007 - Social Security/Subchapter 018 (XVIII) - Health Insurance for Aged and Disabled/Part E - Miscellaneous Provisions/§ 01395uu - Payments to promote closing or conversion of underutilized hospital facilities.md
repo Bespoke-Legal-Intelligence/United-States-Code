@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 #### Effective Date
 
-Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided that: "The amendment made by subsection (a) \[enacting this section and amending section 1396b of this title\] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981."
+Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided that: "The amendment made by subsection (a) \[enacting this section and amending section1396b of this title\] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981."
 
 #### Payments To Promote Closure and Conversion of Underutilized Hospital Facilities
 

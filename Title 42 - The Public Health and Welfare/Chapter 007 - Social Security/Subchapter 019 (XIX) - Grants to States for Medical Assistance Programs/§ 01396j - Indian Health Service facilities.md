@@ -6,7 +6,7 @@ A facility of the Indian Health Service (including a hospital, nursing facility,
 
 #### (b) Facilities deemed to meet requirements upon submission of acceptable plan for achieving compliance
 
-Notwithstanding subsection (a), a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a type otherwise covered under the State plan) which does not meet all of the conditions and requirements of this title which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
+Notwithstanding subsection (a), a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a type otherwise covered under the State plan) which does not meet all of the conditions and requirements of this subchapter which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
 
 #### (c) Agreement to reimburse State agency for providing care and services
 
@@ -58,7 +58,7 @@ Pub. L. 94–437, title IV, §402(c), Sept. 30, 1976, 90 Stat. 1409, as amended 
 
 #### Medicaid Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Pub. L. 94–437, title IV, §402(d), Sept. 30, 1976, 90 Stat. 1410, provided that any payments received for services provided recipients under this section were not to be considered in determining appropriations for the provision of health care and services to Indians, prior to the general amendment of section 402 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Pub. L. 94–437, title IV, §402(d), Sept. 30, 1976, 90 Stat. 1410, provided that any payments received for services provided recipients under this section were not to be considered in determining appropriations for the provision of health care and services to Indians, prior to the general amendment of section 402 of Pub. L. 94–437 byPub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

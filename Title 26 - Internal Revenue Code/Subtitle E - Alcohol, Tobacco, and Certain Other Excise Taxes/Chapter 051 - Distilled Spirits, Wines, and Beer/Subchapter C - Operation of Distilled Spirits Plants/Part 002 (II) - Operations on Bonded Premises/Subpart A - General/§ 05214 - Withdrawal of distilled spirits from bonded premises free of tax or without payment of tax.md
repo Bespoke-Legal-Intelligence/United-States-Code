@@ -68,7 +68,7 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 A prior section 5214, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to regulation of traffic in containers of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5301(a), (c), (d) of this title.
 
-Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to (5) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to (5) of this section were containedin prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 

@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 96–427 added subsec. (d).
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
-<b>1967</b>—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined bythe Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
+<b>1967</b>—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
 
 #### Effective Date of 1998 Amendment
 

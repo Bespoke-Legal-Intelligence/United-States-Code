@@ -2,7 +2,7 @@
 
 #### (a) Examination results and other information
 
-(1) The appropriate Federal banking agency shall provide the Commission upon request theresults of any examination, reports, records, or other information to which such agency may have access—
+(1) The appropriate Federal banking agency shall provide the Commission upon request the results of any examination, reports, records, or other information to which such agency may have access—
 
 &emsp;(A) with respect to the investment advisory activities of any—
 

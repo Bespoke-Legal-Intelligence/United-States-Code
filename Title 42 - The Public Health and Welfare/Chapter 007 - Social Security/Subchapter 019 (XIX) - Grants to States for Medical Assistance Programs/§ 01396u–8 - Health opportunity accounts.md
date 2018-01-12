@@ -110,7 +110,7 @@
 
 #### (2) Annual deductible
 
-&emsp;The amount of the annual deductible described in paragraph (1)(A) shall be at least 100 percent, but no more than 110 percent, of the annualized amount of contributions to the health opportunity account under subsection (d)(2)(A)(i), determined without regard to any limitation described in subsection (d)(2)(C)(i)(II).
+&emsp;The amount of the annual deductible described in paragraph (1)(A) shall be at least 100percent, but no more than 110 percent, of the annualized amount of contributions to the health opportunity account under subsection (d)(2)(A)(i), determined without regard to any limitation described in subsection (d)(2)(C)(i)(II).
 
 #### (3) Access to negotiated provider payment rates
 
@@ -216,7 +216,7 @@
 
 #### (i) State contribution
 
-&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III),but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
+&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III), but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
 
 #### (ii) No FFP for private contributions
 

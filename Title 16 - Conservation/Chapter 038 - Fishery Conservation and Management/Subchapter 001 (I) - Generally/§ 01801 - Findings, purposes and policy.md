@@ -156,11 +156,11 @@ Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
+Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 ofTitle 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: "This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note undersection 1826d of this title\] may be cited as the 'High Seas Driftnet Fishing Moratorium Protection Act'."
+Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: "This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the 'High Seas Driftnet Fishing Moratorium Protection Act'."
 
 #### Short Title of 1992 Amendment
 

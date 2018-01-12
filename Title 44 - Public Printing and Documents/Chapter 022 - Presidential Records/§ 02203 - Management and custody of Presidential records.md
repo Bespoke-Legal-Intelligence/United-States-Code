@@ -4,13 +4,13 @@
 
 (b) Documentary materials produced or received by the President, the President's staff, or units or individuals in the Executive Office of the President the function of which is to advise or assist the President, shall, to the extent practicable, be categorized as Presidential records or personal records upon their creation or receipt and be filed separately.
 
-(c) During the President's term of office, the President may dispose of those Presidential records of such President that no longer have administrative, historical, informational, or evidentiary value if—
+(c) During the President's term of office, the President may dispose of those Presidentialrecords of such President that no longer have administrative, historical, informational, or evidentiary value if—
 
 &emsp;(1) the President obtains the views, in writing, of the Archivist concerning the proposed disposal of such Presidential records; and
 
 &emsp;(2) the Archivist states that the Archivist does not intend to take any action under subsection (e) of this section.
 
-(d) In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation ofthe days in which Congress is in continuous session.
+(d) In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
 
 (e) The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Oversight and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever the Archivist considers that—
 
@@ -66,7 +66,11 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date
+
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
 
 #### Classified National Security Information
 

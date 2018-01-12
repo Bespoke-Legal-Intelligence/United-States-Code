@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Penalties.—A person that violates section 2102 of this title to exchange information covered by section 2102 of this title for anything of value or to obtain or give a person a competitive advantage in the award of a Federal agency procurement contract shall be fined under title 18, imprisoned for not more than 5 years, or both.
+Criminal Penalties.—A person that violates section 2102 of this title to exchange information covered by section 2102 of this title for anything of value or to obtain or give a person a competitive advantage in the award of a Federal agency procurement contract shall be finedunder title 18, imprisoned for not more than 5 years, or both.
 
 (b)
 

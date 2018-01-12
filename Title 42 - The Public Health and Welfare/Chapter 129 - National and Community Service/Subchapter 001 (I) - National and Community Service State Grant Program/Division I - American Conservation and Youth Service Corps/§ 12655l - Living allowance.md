@@ -12,7 +12,7 @@
 
 #### (3) Maximum living allowance
 
-&emsp;The total amount of an annual living allowance that may be provided to a participant ina full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;The total amount of an annual living allowance that may be provided to a participant in a full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (4) Waiver or reduction of living allowance
 
@@ -44,7 +44,7 @@ In addition to the living allowance provided under subsection (a), program agenc
 
 #### (1) In general
 
-&emsp;The program agency may deduct, from amounts provided under subsection (a) to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
+&emsp;The program agency may deduct, from amounts provided under subsection (a) to aparticipant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
 
 #### (2) Evaluation
 

@@ -8,7 +8,7 @@ Notwithstanding any provision of title 18, the Secretary of Energy may take such
 
 (1) The actions described in this paragraph are the following:
 
-&emsp;(A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire, oral, or electronic communication used to control the unmanned aircraft system or unmanned aircraft.
+&emsp;(A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including bymeans of intercept or other access of a wire, oral, or electronic communication used to control the unmanned aircraft system or unmanned aircraft.
 
 &emsp;(B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
 

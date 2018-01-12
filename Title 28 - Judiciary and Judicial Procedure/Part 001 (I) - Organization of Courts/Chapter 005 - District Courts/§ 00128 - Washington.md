@@ -14,7 +14,7 @@ Washington is divided into two judicial districts to be known as the Eastern and
 
 &emsp;&emsp;Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4, June 2, 1970, 84 Stat. 297; Pub. L. 110–161, div. D, title III, §308, Dec. 26, 2007, 121 Stat. 1990.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4,June 2, 1970, 84 Stat. 297; Pub. L. 110–161, div. D, title III, §308, Dec. 26, 2007, 121 Stat. 1990.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Words "with the waters thereof," after the list of counties in each division, we
 
 A provision relating to the maintenance of offices by the clerks were omitted as covered by section 751 of this title.
 
-Provisions that the counties in both divisions of the eastern district included all Indian reservations in such counties and that the counties in both divisions of the western district included all Indian reservations insuch counties were omitted as surplusage. (See Reviser's Note under section 114 of this title.)
+Provisions that the counties in both divisions of the eastern district included all Indian reservations in such counties and that the counties in both divisions of the western district included all Indian reservations in such counties were omitted as surplusage. (See Reviser's Note under section 114 of this title.)
 
 Pend Oreille County of the northern division of the eastern district and Grays Harbor of the southern division of the western district were created since the enactment of the Judicial Code.
 

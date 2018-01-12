@@ -50,7 +50,7 @@
 
 #### (2) Large banks
 
-&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for anypreceding taxable year beginning after December 31, 1986)—
+&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for any preceding taxable year beginning after December 31, 1986)—
 
 &emsp;&emsp;(A) the average adjusted bases of all assets of such bank exceeded $500,000,000, or
 
@@ -224,7 +224,7 @@ Pub. L. 100–203, title X, §10301(c), Dec. 22, 1987, 101 Stat. 1330–429, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) ofPub. L. 99–514, set out as a note under section 166 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
 #### Effective Date of 1981 Amendment
 

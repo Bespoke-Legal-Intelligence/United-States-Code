@@ -16,7 +16,7 @@ Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a 
 
 (c)
 
-Notification by Manufacturer.—A manufacturer of a motor vehicle or replacementequipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
+Notification by Manufacturer.—A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
 
 &emsp;(1) learns the vehicle or equipment contains a defect and decides in good faith that the defect is related to motor vehicle safety; or
 
@@ -28,7 +28,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (e)
 
-Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has notreasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800; Pub. L. 114–94, div. B, title XXIV, §24104(b), Dec. 4, 2015, 129 Stat. 1703.)
 

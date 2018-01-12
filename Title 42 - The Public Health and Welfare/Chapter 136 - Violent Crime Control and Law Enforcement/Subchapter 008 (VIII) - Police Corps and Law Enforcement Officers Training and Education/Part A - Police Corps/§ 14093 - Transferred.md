@@ -1,0 +1,6 @@
+### §14093. Transferred
+
+#### Codification
+
+Section 14093 was editorially reclassified as section 12553 of Title 34, Crime Control and Law Enforcement.
+

@@ -1,0 +1,6 @@
+### §5732a. Transferred
+
+#### Codification
+
+Section 5732a was editorially reclassified as section 11279 of Title 34, Crime Control and Law Enforcement.
+

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Use Funds.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programsconducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
+Authority To Use Funds.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
 
 (b)
 

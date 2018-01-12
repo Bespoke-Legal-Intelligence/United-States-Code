@@ -6,7 +6,7 @@ Not later than one year after February 24, 2016, and every 2 years thereafter, t
 
 #### (b) Contents
 
-The joint strategic plan required under this section shall be comprised of a comprehensivemultiyear plan for trade enforcement and trade facilitation, and shall include—
+The joint strategic plan required under this section shall be comprised of a comprehensive multiyear plan for trade enforcement and trade facilitation, and shall include—
 
 &emsp;(1) a summary of actions taken during the 2-year period preceding the submission of the plan to improve trade enforcement and trade facilitation, including a description and analysis of specific performance measures to evaluate the progress of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement in meeting each such responsibility;
 

@@ -76,7 +76,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 For purposes of this title—
 
-&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shallapply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
+&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shall apply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
 
 &emsp;(2) the credit under this section shall be treated in the same manner as the credit under section 936, and
 
@@ -178,7 +178,7 @@ Application of Section.—Notwithstanding section 30A(h) or section 936(j) of su
 
 "(e)
 
-Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
+Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in \[former\] subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
 
 \[Pub. L. 114–113, div. Q, title I, §173(b), Dec. 18, 2015, 129 Stat. 3071, provided that: "The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2014."\]
 

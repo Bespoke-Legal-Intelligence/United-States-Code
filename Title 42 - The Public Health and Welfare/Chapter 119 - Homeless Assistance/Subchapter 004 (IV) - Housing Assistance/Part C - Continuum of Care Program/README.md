@@ -1,8 +1,8 @@
 Part C—Continuum of Care Program
 
-#### Amendments
+#### Codification
 
-<b>2009</b>—Pub. L. 111–22, div. B, title III, §1301(1), May 20, 2009, 123 Stat. 1680, substituted "Continuum of Care Program" for "Supportive Housing Program" in heading.
+Pub. L. 111–22, div. B, title III, §1301(1), May 20, 2009, 123 Stat. 1680, substituted "Continuum of Care Program" for "Supportive Housing Program" in heading.
 
 
 ---

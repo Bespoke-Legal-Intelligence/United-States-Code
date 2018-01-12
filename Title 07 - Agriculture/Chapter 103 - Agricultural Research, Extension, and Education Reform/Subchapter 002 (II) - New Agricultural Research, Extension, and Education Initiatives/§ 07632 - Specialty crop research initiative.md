@@ -74,7 +74,7 @@ In carrying out this section, the Secretary shall award competitive grants on th
 
 #### (e) Consultation
 
-Each fiscal year, before conducting the scientific peer review described in paragraph (1) of subsection (d) and the merit and relevancy review described in paragraph (2) of such subsection, the Secretary shall consult with the specialty crops committee regarding such reviews. The committee shall provide the Secretary—
+Each fiscal year, before conducting the scientific peer review described in paragraph (1) ofsubsection (d) and the merit and relevancy review described in paragraph (2) of such subsection, the Secretary shall consult with the specialty crops committee regarding such reviews. The committee shall provide the Secretary—
 
 &emsp;(1) in the first fiscal year in which that consultation occurs, any recommendations for conducting such reviews in such fiscal year; and
 
@@ -162,7 +162,7 @@ Funds made available under this section shall not be used for the construction o
 
 #### (A) Citrus
 
-&emsp;&emsp;The term "citrus" means edible fruit of the family Rutaceae, including any hybrid of such fruits and products of such hybrids that are produced for commercial purposes in the United States.
+&emsp;&emsp;The term "citrus" means edible fruit of the family Rutaceae, including any hybrid ofsuch fruits and products of such hybrids that are produced for commercial purposes in the United States.
 
 #### (B) Citrus producer
 
@@ -208,7 +208,7 @@ Funds made available under this section shall not be used for the construction o
 
 &emsp;Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.
 
-(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat.1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub. L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(3)(B), 7306, Feb. 7, 2014, 128 Stat. 879, 888.)
+(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub. L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(3)(B), 7306, Feb. 7, 2014, 128 Stat. 879, 888.)
 
 #### References in Text
 

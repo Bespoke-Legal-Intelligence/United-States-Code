@@ -106,7 +106,7 @@ BATFE Authority.—The amendments made by section 4 \[amending section 2343 of T
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: "This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Prevent All Cigarette Trafficking Act of 2009' or 'PACT Act'."
+Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: "This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Prevent All Cigarette Trafficking Act of 2009' or 'PACT Act'."
 
 #### Short Title
 

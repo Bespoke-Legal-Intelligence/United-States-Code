@@ -12,7 +12,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Material Safe
 
 &emsp;(2) Review safety and safeguards of all such facilities and materials licensed under the Atomic Energy Act of 1954, as amended, and such review shall include, but not be limited to—
 
-&emsp;&emsp;(A) monitoring, testing, and recommending upgrading of internal accounting systems for special nuclear and other nuclearmaterials licensed under the Atomic Energy Act of 1954, as amended;
+&emsp;&emsp;(A) monitoring, testing, and recommending upgrading of internal accounting systems for special nuclear and other nuclear materials licensed under the Atomic Energy Act of 1954, as amended;
 
 &emsp;&emsp;(B) developing, in consultation and coordination with the Administration, contingency plans for dealing with threats, thefts, and sabotage relating to special nuclear materials, high-level radioactive wastes and nuclear facilities resulting from all activities licensed under the Atomic Energy Act of 1954, as amended;
 

@@ -82,7 +82,7 @@
 
 #### (4) Voting by alternate members
 
-&emsp;An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State representative for which the alternate member is an alternate.
+&emsp;An alternate member shall vote in the case of the absence, death, disability, removal, orresignation of the Federal or State representative for which the alternate member is an alternate.
 
 #### (d) Duties
 
@@ -118,7 +118,7 @@ In carrying out subsection (d), the Authority may—
 
 &emsp;(4) adopt, amend, and repeal bylaws, rules, and regulations governing the conduct of Authority business and the performance of Authority duties;
 
-&emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each suchdetail to be without loss of seniority, pay, or other employee status;
+&emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
 &emsp;(6) request the head of any State department or agency or local government to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
@@ -224,7 +224,7 @@ A Federal agency shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director andsuch other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
+&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
 
 #### (ii) Exception
 

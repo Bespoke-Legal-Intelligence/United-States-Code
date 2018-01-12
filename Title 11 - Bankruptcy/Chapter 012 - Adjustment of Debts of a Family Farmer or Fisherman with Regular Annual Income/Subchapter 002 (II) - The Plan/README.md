@@ -16,3 +16,4 @@
 - [&sect; 01229 - Modification of plan after confirmation](%C2%A7%2001229%20-%20Modification%20of%20plan%20after%20confirmation.md)
 - [&sect; 01230 - Revocation of an order of confirmation](%C2%A7%2001230%20-%20Revocation%20of%20an%20order%20of%20confirmation.md)
 - [&sect; 01231 - Special tax provisions](%C2%A7%2001231%20-%20Special%20tax%20provisions.md)
+- [&sect; 01232 - Claim by a governmental unit based on the disposition of property used in a farming operation](%C2%A7%2001232%20-%20Claim%20by%20a%20governmental%20unit%20based%20on%20the%20disposition%20of%20property%20used%20in%20a%20farming%20operation.md)

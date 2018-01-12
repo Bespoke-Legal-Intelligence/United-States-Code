@@ -84,7 +84,7 @@ Report on Requests for National Security Letters.—
 
 &emsp;"(1)
 
-In general.—In April of each year, the Attorney General shall submit to Congress an aggregate report setting forth with respect to the preceding year the total number of requests made by the Department of Justice for information concerning different persons under—
+In general.—In April of each year, the Attorney General shall submit to Congress an aggregatereport setting forth with respect to the preceding year the total number of requests made by the Department of Justice for information concerning different persons under—
 
 &emsp;&emsp;"(A) section 2709 of title 18, United States Code (to access certain communication service provider records);
 

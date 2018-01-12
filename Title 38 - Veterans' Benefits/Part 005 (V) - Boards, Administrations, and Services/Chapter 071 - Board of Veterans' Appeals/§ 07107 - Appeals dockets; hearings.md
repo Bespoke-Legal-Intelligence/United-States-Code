@@ -1,34 +1,28 @@
 ### §7107. Appeals: dockets; hearings
 
-(a)(1) Except as provided in paragraphs (2) and (3) and in subsection (f), each case received pursuant to application for review on appeal shall be considered and decided in regular order according to its place upon the docket.
+(a)
 
-(2) A case referred to in paragraph (1) may, for cause shown, be advanced on motion for earlier consideration and determination. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+Dockets.—(1) Subject to paragraph (2), the Board shall maintain at least two separate dockets.
 
-&emsp;(A) if the case involves interpretation of law of general application affecting other claims;
+(2) The Board may not maintain more than two separate dockets unless the Board notifies the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives of any additional docket, including a justification for maintaining such additional docket.
 
-&emsp;(B) if the appellant is seriously ill or is under severe financial hardship; or
+(3)(A) The Board may assign to each docket maintained under paragraph (1) such cases as the Board considers appropriate, except that cases described in clause (i) of subparagraph (B) may not be assigned to any docket to which cases described in clause (ii) of such paragraph are assigned.
 
-&emsp;(C) for other sufficient cause shown.
+(B) Cases described in this paragraph are the following:
 
-(3) A case referred to in paragraph (1) may be postponed for later consideration and determination if such postponement is necessary to afford the appellant a hearing.
+&emsp;(i) Cases in which no Board hearing is requested.
 
-(b) The Board shall decide any appeal only after affording the appellant an opportunity for a hearing.
+&emsp;(ii) Cases in which a Board hearing is requested in the notice of disagreement.
 
-(c) A hearing docket shall be maintained and formal recorded hearings shall be held by such member or members of the Board as the Chairman may designate. Such member or members designated by the Chairman to conduct the hearing shall, except in the case of a reconsideration of a decision under section 7103 of this title, participate in making the final determination of the claim.
+(4) Except as provided in subsection (b), each case before the Board will be decided in regular order according to its respective place on the docket to which it is assigned by the Board.
 
-(d)(1)(A)(i) Upon request for a hearing, the Board shall determine, for purposes of scheduling the hearing for the earliest possible date, whether a hearing before the Board will be held at its principal location or at a facility of the Department or other appropriate Federal facility located within the area served by a regional office of the Department.
+(b)
 
-(ii) The Board shall also determine whether to provide a hearing through the use of the facilities and equipment described in subsection (e)(1) or by the appellant personally appearing before a Board member or panel.
+Advancement on the Docket.—(1) A case on one of the dockets of the Board maintained under subsection (a) may, for cause shown, be advanced on motion for earlier consideration and determination.
 
-(B)(i) The Board shall notify the appellant of the determinations of the location and type of hearing made under subparagraph (A).
+(2) Any such motion shall set forth succinctly the grounds upon which the motion is based.
 
-(ii) Upon notification, the appellant may request a different location or type of hearing as described in such subparagraph.
-
-(iii) If so requested, the Board shall grant such request and ensure that the hearing is scheduled at the earliest possible date without any undue delay or other prejudice to the appellant.
-
-(2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
-
-(3) A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+(3) Such a motion may be granted only—
 
 &emsp;(A) if the case involves interpretation of law of general application affecting other claims;
 
@@ -36,19 +30,39 @@
 
 &emsp;(C) for other sufficient cause shown.
 
-(e)(1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board's principal location.
+(c)
 
-(2) Any hearing provided through the use of the facilities and equipment described in paragraph (1) shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing.
+Manner and Scheduling of Hearings for Cases on a Docket That May Include a Hearing.—(1) For cases on a docket maintained by the Board under subsection (a) that may include a hearing, in which a hearing is requested in the notice of disagreement, the Board shall notify the appellant whether a Board hearing will be held—
 
-(f) Nothing in this section shall preclude the screening of cases for purposes of—
+&emsp;(A) at its principal location; or
+
+&emsp;(B) by picture and voice transmission at a facility of the Department where the Secretary has provided suitable facilities and equipment to conduct such hearings.
+
+(2)(A) Upon notification of a Board hearing at the Board's principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph. If so requested, the Board shall grant such request.
+
+(B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph. If so requested, the Board shall grant such request.
+
+(d)
+
+Screening of Cases.—Nothing in this section shall be construed to preclude the screening of cases for purposes of—
 
 &emsp;(1) determining the adequacy of the record for decisional purposes; or
 
 &emsp;(2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363; Pub. L. 114–315, title I, §102, Dec. 16, 2016, 130 Stat. 1540.)
+(e)
+
+Policy on Changing Dockets.—The Secretary shall develop and implement a policy allowing an appellant to move the appellant's case from one docket to another docket.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363; Pub. L. 114–315, title I, §102, Dec. 16, 2016, 130 Stat. 1540; Pub. L. 115–55, §2(t), Aug. 23, 2017, 131 Stat. 1112.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2(t) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–55 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to order of cases, opportunity for hearing, maintenance of hearing docket and holding of hearings by the Board, location and type of hearings, hearings conducted by electronic or other means, and screening of cases, respectively.
 
 <b>2016</b>—Subsec. (d)(1). Pub. L. 114–315, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department."
 
@@ -66,9 +80,13 @@ Subsec. (d)(3). Pub. L. 105–368, §1003(b)(2), added par. (3) and struck out f
 
 <b>1994</b>—Pub. L. 103–446 substituted "Except as provided in subsection (f), each case" for "Each case" in subsec. (a)(1) and added subsec. (f).
 
-Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows: "All cases receivedpursuant to application for review on appeal shall be considered and decided in regular order according to their places upon the docket; however, for cause shown a case may be advanced on motion for earlier consideration and determination. Every such motion shall set forth succinctly the grounds upon which it is based. No such motion shall be granted except in cases involving interpretation of law of general application affecting other claims, or for other sufficient cause shown."
+Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows: "All cases received pursuant to application for review on appeal shall be considered and decided in regular order according to their places upon the docket; however, for cause shown a case may be advanced on motion for earlier consideration and determination. Every such motion shall set forth succinctly the grounds upon which it is based. No such motion shall be granted except in cases involving interpretation of law of general application affecting other claims, or for other sufficient cause shown."
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 4007 of this title as this section.
 
 <b>1962</b>—Pub. L. 87–666 renumbered section 4006 of this title as this section.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
 

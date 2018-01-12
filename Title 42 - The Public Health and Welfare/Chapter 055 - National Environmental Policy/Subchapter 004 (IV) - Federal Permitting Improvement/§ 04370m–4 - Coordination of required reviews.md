@@ -72,7 +72,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (A) In general
 
-&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
+&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency atappropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
 
 #### (B) Environmental review
 

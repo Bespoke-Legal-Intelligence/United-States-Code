@@ -14,13 +14,13 @@ The guidelines established under subsection (a) shall provide for crediting the 
 
 &emsp;(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
 
-&emsp;(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with theproject shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a).
+&emsp;(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a).
 
 > In no event may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
 
 #### (d) Procedure for work done before November 17, 1986
 
-The Secretary shall consider, under subsections (b) and (c), work carried out before November 17, 1986, by non-Federal interests on a project for flood control, if the non-Federal interests apply to the Secretary for consideration of such work not later than March 31, 1987. The Secretary shall make determinations under subsections (b) and (c) with respect to such work not later than 6 months after guidelines are issued under subsection (a).
+The Secretary shall consider, under subsections (b) and (c), work carried out before November 17, 1986, by non-Federal interests on a project for flood control, if the non-Federal interests apply to the Secretary for consideration of such work not later than March 31, 1987. The Secretary shall make determinations under subsections (b) and (c) with respect to such worknot later than 6 months after guidelines are issued under subsection (a).
 
 #### (e) Procedure for work done after November 17, 1986
 

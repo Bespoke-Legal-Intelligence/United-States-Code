@@ -18,7 +18,7 @@ Within 10 days after the date on which any export license application is submitt
 
 &emsp;(3) return the application without action if the application is improperly completed or if additional information is required, with sufficient information to permit the application to be properly resubmitted, in which case if such application is resubmitted, it shall be treated as a new application for the purpose of calculating the time periods prescribed in this section;
 
-&emsp;(4) determine whether it is necessary to refer the application to any other department or agency and, if such referral is determined to be necessary, inform the applicant of any suchdepartment or agency to which the application will be referred; and
+&emsp;(4) determine whether it is necessary to refer the application to any other department or agency and, if such referral is determined to be necessary, inform the applicant of any such department or agency to which the application will be referred; and
 
 &emsp;(5) determine whether it is necessary to submit the application to a multilateral review process, pursuant to a multilateral agreement, formal or informal, to which the United States is a party and, if so, inform the applicant of this requirement.
 
@@ -28,7 +28,7 @@ Except as provided in subsection (o), in each case in which the Secretary determ
 
 #### (d) Referral to other departments and agencies
 
-Except in the case of exports described in subsection (o), in each case in which the Secretary determines that it is necessary to refer an application to any other department or agency for its information and recommendations, the Secretary shall, within 20 days after the submission of a properly completed application—
+Except in the case of exports described in subsection (o), in each case in which the Secretarydetermines that it is necessary to refer an application to any other department or agency for its information and recommendations, the Secretary shall, within 20 days after the submission of a properly completed application—
 
 &emsp;(1) refer the application, together with all necessary analysis and recommendations of the Department of Commerce, concurrently to all such departments or agencies; and
 
@@ -68,7 +68,7 @@ Except in the case of exports described in subsection (o), in each case in which
 
 &emsp;(E) which officers and employees of the Department of Commerce who are familiar with the application will be made reasonably available to the applicant for considerations with regard to such modifications or restrictions, if appropriate,
 
-&emsp;(F) to the extent consistent with the national security and foreign policy of the United States, the specific considerations which led to the determination to deny the application, and
+&emsp;(F) to the extent consistent with the national security and foreign policy of the United States, the specific considerationswhich led to the determination to deny the application, and
 
 &emsp;(G) the availability of appeal procedures.
 
@@ -94,7 +94,7 @@ Except in the case of exports described in subsection (o), in each case in which
 
 #### (h) Multilateral controls
 
-In any case in which an application, which has been finally approved under subsection (c), (f), or (g) of this section, is required to be submitted to a multilateral review process, pursuant to a multilateral agreement, formal or informal, to which the United States is a party, the license shall not be issued as prescribed in such subsections, but the Secretary shall notify the applicant of the approval of the application (and the date of such approval) by the Secretary subject to such multilateral review. The license shall be issued upon approval of the application under such multilateral review. If such multilateral review has not resulted in a determination with respect to the application within 40 days after such date, the Secretary's approval of the license shall be final and the license shall be issued, unless the Secretary determines that issuance of the license would prove detrimental to the national security of the United States. At the time at which the Secretary makes such adetermination, the Secretary shall notify the applicant of the determination and shall notify the Congress of the determination, the reasons for the determination, the reasons for which the multilateral review could not be concluded within such 40-day period, and the actions planned or being taken by the United States Government to secure conclusion of the multilateral review. At the end of every 40-day period after such notification to Congress, the Secretary shall advise the applicant and the Congress of the status of the application, and shall report to the Congress in detail on the reasons for the further delay and any further actions being taken by the United States Government to secure conclusion of the multilateral review. In addition, at the time at which the Secretary issues or denies the license upon conclusion of the multilateral review, the Secretary shall notify the Congress of such issuance or denial and of the total time required for the multilateral review.
+In any case in which an application, which has been finally approved under subsection (c), (f), or (g) of this section, is required to be submitted to a multilateral review process, pursuant to a multilateral agreement, formal or informal, to which the United States is a party, the license shall not be issued as prescribed in such subsections, but the Secretary shall notify the applicant of the approval of the application (and the date of such approval) by the Secretary subject to such multilateral review. The license shall be issued upon approval of the application under such multilateral review. If such multilateral review has not resulted in a determination with respect to the application within 40 days after such date, the Secretary's approval of the license shall be final and the license shall be issued, unless the Secretary determines that issuance of the license would prove detrimental to the national security of the United States. At the time at which the Secretary makes such a determination, the Secretary shall notify the applicant of the determination and shall notify the Congress of the determination, the reasons for the determination, the reasons for which the multilateral review could not be concluded within such 40-day period, and the actions planned or being taken by the United States Government to secure conclusion of the multilateral review. At the end of every 40-day period after such notification to Congress, the Secretary shall advise the applicant and the Congress of the status of the application, and shall report to the Congress in detail on the reasons for the further delay and any further actions being taken by the United States Government to secure conclusion of the multilateral review. In addition, at the time at which the Secretary issues or denies the license upon conclusion of the multilateral review, the Secretary shall notify the Congress of such issuance or denial and of the total time required for the multilateral review.
 
 #### (i) Records
 
@@ -154,7 +154,7 @@ Not later than 120 days after July 12, 1985, the Secretary shall develop and tra
 
 &emsp;(C) the date or dates on which recommendations were received from those departments or agencies.
 
-(4) With respect to an application referred to any other department or agency which did not submit or has not submitted its recommendations on the application within the period permitted under subsection (e) of this section to submit such recommendations, the listing shall also include—
+(4) With respect to an application referred to any other department or agency which did notsubmit or has not submitted its recommendations on the application within the period permitted under subsection (e) of this section to submit such recommendations, the listing shall also include—
 
 &emsp;(A) the office responsible for processing the application and the position of the officer responsible for the office; and
 
@@ -206,7 +206,7 @@ This chapter, referred to in subsecs. (a)(1), (f)(3)(D), (l)(2), and (m), was in
 
 Section was formerly classified to section 2409 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-A prior section 2409 of the former Appendix to this title, Pub. L. 91–184, §10, Dec. 30, 1969, 83 Stat. 846; Pub.L. 93–500, §3(b), Oct. 29, 1974, 88 Stat. 1552; Pub. L. 93–608, §2(1), Jan. 2, 1975, 88 Stat. 1971; Pub. L. 95–52, title I, §116(a), (b)(2), June 22, 1977, 91 Stat. 241, 242, set forth requirements respecting semiannual reports to President and Congress, prior to the expiration of Pub. L. 91–184 on Sept. 30, 1979. See section 4616 of this title.
+A prior section 2409 of the former Appendix to this title, Pub. L. 91–184, §10, Dec. 30, 1969, 83 Stat. 846; Pub. L. 93–500, §3(b), Oct. 29, 1974, 88 Stat. 1552; Pub. L. 93–608, §2(1), Jan. 2, 1975, 88 Stat. 1971; Pub. L. 95–52, title I, §116(a), (b)(2), June 22, 1977, 91 Stat. 241, 242, set forth requirements respecting semiannual reports to President and Congress, prior to the expiration of Pub. L. 91–184 on Sept. 30, 1979. See section 4616 of this title.
 
 #### Amendments
 

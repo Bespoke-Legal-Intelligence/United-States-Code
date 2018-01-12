@@ -62,7 +62,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 > &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources, excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
 
-&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute for each of the fiscal years 1994 through 1997 to make grants under this paragraph.
+&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute foreach of the fiscal years 1994 through 1997 to make grants under this paragraph.
 
 #### (2) Evaluation of programs
 
@@ -128,7 +128,7 @@ The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L
 
 In subsec. (e)(7), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e)(8), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e)(8), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, asamended (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

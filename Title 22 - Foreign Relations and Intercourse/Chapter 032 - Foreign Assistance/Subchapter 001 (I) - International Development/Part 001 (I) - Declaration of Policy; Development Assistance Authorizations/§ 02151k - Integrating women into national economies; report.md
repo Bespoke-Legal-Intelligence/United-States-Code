@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 96–53 redesignated subsec. (d) as (b).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–424 added subsec. (d).
 
-<b>1977</b>—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, familysupport, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
+<b>1977</b>—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
 
 <b>1975</b>—Pub. L. 94–161 substituted "This subchapter" for "Sections 2151a through 2151e of this title".
 

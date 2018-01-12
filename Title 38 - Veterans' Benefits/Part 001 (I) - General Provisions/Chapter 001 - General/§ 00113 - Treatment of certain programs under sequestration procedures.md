@@ -6,7 +6,7 @@
 
 &emsp;(2) Benefits under section 2307 of this title, relating to burial benefits for veterans who die as the result of a service-connected disability.
 
-&emsp;(3) Benefits under chapter 39 of this title, relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
+&emsp;(3) Benefits under chapter 39 of this title, relating to automobiles and adaptive equipmentfor certain disabled veterans and members of the Armed Forces.
 
 &emsp;(4) Assistance and services under chapter 31 of this title, relating to training and rehabilitation for certain veterans with service-connected disabilities.
 
@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 100–322, §411(c), substituted "a report of the Director 
 
 Subsec. (c)(2). Pub. L. 100–198, §12(a)(3), substituted "31, 34, 35, or 36" for "34, or 36".
 
-Subsecs. (e) to (g). Pub. L. 100–198, §12(a)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: "Ifa final order issued by the President pursuant to a law providing for the cancellation of loan guarantee commitments imposes a limitation on the total amount of loans that may be guaranteed under chapter 37 of this title in any fiscal year, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a monthly report (not later than the 10th day of each month during the remainder of such fiscal year following the issuance of such final order) providing the following information:
+Subsecs. (e) to (g). Pub. L. 100–198, §12(a)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: "If a final order issued by the President pursuant to a law providing for the cancellation of loan guarantee commitments imposes a limitation on the total amount of loans that may be guaranteed under chapter 37 of this title in any fiscal year, the Administrator shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a monthly report (not later than the 10th day of each month during the remainder of such fiscal year following the issuance of such final order) providing the following information:
 
 &emsp;"(1) The total amount of the loans for which commitments of guarantees were made under such chapter during the preceding month.
 

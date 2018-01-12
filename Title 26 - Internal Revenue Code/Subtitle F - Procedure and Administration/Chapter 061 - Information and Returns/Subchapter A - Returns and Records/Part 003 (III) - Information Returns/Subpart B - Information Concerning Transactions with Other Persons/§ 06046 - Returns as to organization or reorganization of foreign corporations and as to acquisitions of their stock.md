@@ -124,7 +124,7 @@ Pub. L. 97–248, title III, §341(c), Sept. 3, 1982, 96 Stat. 635, provided tha
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §20(e)(2), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1963."
+Pub. L. 87–834, §20(e)(2), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection\(b) \[amending this section\] shall take effect on January 1, 1963."
 
 #### Effective Date of 1960 Amendment
 

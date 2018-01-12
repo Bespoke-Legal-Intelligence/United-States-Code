@@ -16,7 +16,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 &emsp;(4) to focus Department of Defense support for the development and application of advanced manufacturing technologies and processes for use to meet manufacturing requirements that are essential to the national defense, as well as for repair and remanufacturing in support of the operations of systems commands, depots, air logistics centers, and shipyards;
 
-&emsp;(5) to disseminate information concerning improved manufacturing improvement concepts, including information on such mattersas best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
+&emsp;(5) to disseminate information concerning improved manufacturing improvement concepts, including information on such matters as best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
 
 &emsp;(6) to sustain and enhance the skills and capabilities of the manufacturing work force;
 
@@ -128,7 +128,7 @@ Subsec. (f)(3). Pub. L. 113–291, §212(b), substituted "not less frequently th
 
 &emsp;"(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program."
 
-Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted "establish" for "include" in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted "establish" for "include" in introductory provisionsand amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
 "(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
 

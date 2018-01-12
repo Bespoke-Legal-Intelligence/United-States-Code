@@ -50,7 +50,7 @@ The Administrator is authorized to undertake and carry out such studies and inve
 
 #### (b) Utilization of services of other Departments and agencies
 
-In carrying out subsection (a) of this section, the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
+In carrying out subsection (a), the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
 
 #### (c) Priority to studies and investigations in States or areas evidencing positive interest in securing insurance under program
 
@@ -165,6 +165,10 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ",
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 
@@ -318,7 +322,7 @@ Additional authority.—Notwithstanding subsection (a), in exceptional and exige
 
 &emsp;&emsp;"(B) the Administrator submits a written report setting forth findings of the exceptional and exigent circumstances on which the Administrator based an affirmative determination to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives not later than 15 days before making the determination; and
 
-&emsp;&emsp;"(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after the date on which the Administrator makes the determination.
+&emsp;&emsp;"(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after thedate on which the Administrator makes the determination.
 
 &emsp;"(2)
 
@@ -332,7 +336,7 @@ Termination.—The authority provided under paragraphs (1) and (2) shall termina
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C.4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

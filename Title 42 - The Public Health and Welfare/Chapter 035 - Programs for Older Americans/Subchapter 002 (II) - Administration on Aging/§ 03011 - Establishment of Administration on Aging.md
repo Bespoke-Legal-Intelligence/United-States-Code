@@ -30,7 +30,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(F) collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans;
 
-&emsp;(G) develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
+&emsp;(G) develop research plans, and conduct and arrange for research, in the field of AmericanNative aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
 
 &emsp;(H) develop and provide technical assistance and training programs to grantees under subchapter X;
 
@@ -180,7 +180,7 @@ Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted "a Director of
 
 Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted "Director" for "Associate Commissioner" in introductory provisions and "Assistant Secretary" for "Commissioner" in subpars. (B) to (F) and (H).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out "(hereinafter in this chapter referred to asthe 'Administration')" after "Administration on Aging" and "(hereinafter in this chapter referred to as the 'Commissioner')" after "Commissioner on Aging" and inserted "(including the functions of the Commissioner carried out through regional offices)" after "functions of the Commissioner".
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out "(hereinafter in this chapter referred to as the 'Administration')" after "Administration on Aging" and "(hereinafter in this chapter referred to as the 'Commissioner')" after "Commissioner on Aging" and inserted "(including the functions of the Commissioner carried out through regional offices)" after "functions of the Commissioner".
 
 Subsec. (c)(1). Pub. L. 102–375, §102(b)(1)(A), substituted "Administration" for "Administration on Aging".
 

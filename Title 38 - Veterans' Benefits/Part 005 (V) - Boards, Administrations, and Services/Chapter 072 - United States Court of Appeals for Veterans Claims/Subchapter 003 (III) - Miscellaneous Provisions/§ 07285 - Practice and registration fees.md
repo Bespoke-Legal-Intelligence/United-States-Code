@@ -1,6 +1,6 @@
 ### §7285. Practice and registration fees
 
-(a) The Court of Appeals for Veterans Claims may impose a reasonable periodic registrationfee on persons admitted to practice before the Court. The frequency and amount of such fee shall be determined by the Court. The Court may also impose a reasonable registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.
+(a) The Court of Appeals for Veterans Claims may impose a reasonable periodic registration fee on persons admitted to practice before the Court. The frequency and amount of such fee shall be determined by the Court. The Court may also impose a reasonable registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.
 
 (b) Amounts received by the Court under subsection (a) of this section shall be available to the Court for the following purposes:
 

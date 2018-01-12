@@ -40,7 +40,7 @@
 
 &emsp;(2) with respect to any entity in the executive branch which is not such an agency or part of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
 
-> which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.
+> which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensurethat personnel management is based on and embodies the merit system principles.
 
 (Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1113; amended Pub. L. 101–474, §5(c), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
@@ -55,6 +55,16 @@
 #### Effective Date
 
 Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+
+#### Training for Supervisors
+
+Pub. L. 115–73, title I, §106, Oct. 26, 2017, 131 Stat. 1238, provided that: "In consultation with the Special Counsel and the Inspector General of the agency (or senior ethics official of the agency for an agency without an Inspector General), the head of each agency shall provide training regarding how to respond to complaints alleging a violation of whistleblower protections (as defined in \[former\] section 2307 of title 5, United States Code, as added by section 107) available to employees of the agency—
+
+&emsp;"(1) to employees appointed to supervisory positions in the agency who have not previously served as a supervisor; and
+
+&emsp;"(2) on an annual basis, to all employees of the agency serving in a supervisory position."
+
+\[For definitions of "agency" and "employee" as used in section 106 of Pub. L. 115–73, set out above, see section 101 of Pub. L. 115–73, set out as a note under section 1212 of this title.\]
 
 #### Notification and Federal Employee Antidiscrimination and Retaliation
 
@@ -292,7 +302,7 @@ Study on Ascertainment of Certain Costs of the Department of Justice in Defendin
 
 &emsp;"(1)
 
-Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the GeneralAccounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
+Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
 &emsp;"(2)
 

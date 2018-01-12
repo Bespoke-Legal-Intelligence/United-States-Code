@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) performing analysis, engineering, and administrative functions, including the maintenance of necessary files and data bases, as necessary for the performance of assigned functions for the management of electromagnetic spectrum resources;
 
-&emsp;&emsp;&emsp;(iii) conducting research and analysis of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research andanalysis performed by other Federal agencies in their areas of responsibility; and
+&emsp;&emsp;&emsp;(iii) conducting research and analysis of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research and analysis performed by other Federal agencies in their areas of responsibility; and
 
 &emsp;&emsp;&emsp;(iv) conducting research and analysis in the general field of telecommunications sciences in support of assigned functions and in support of other Government agencies.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children's Educational Television under section 394 of this title; and
 
-&emsp;&emsp;(C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
+&emsp;&emsp;(C) shall assign to the NTIA responsibility for providing for the establishment, andoverseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
 
 (Pub. L. 102–538, title I, §103, Oct. 27, 1992, 106 Stat. 3534; Pub. L. 107–317, §3, Dec. 4, 2002, 116 Stat. 2767; Pub. L. 112–96, title VI, §6410, Feb. 22, 2012, 126 Stat. 234.)
 
@@ -142,7 +142,7 @@ Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as ame
 
 &emsp;&emsp;"(3) The term 'historically Black college or university' means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
 
-&emsp;"(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shallaward not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
+&emsp;"(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
 
 &emsp;"(B)(i) The Administrator shall award a total of 9 grants under this subsection.
 

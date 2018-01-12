@@ -20,7 +20,7 @@
 
 #### (5) Production and procurement of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Developmentmeet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Development meet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
 
 #### (6) Distribution and use of vaccines
 

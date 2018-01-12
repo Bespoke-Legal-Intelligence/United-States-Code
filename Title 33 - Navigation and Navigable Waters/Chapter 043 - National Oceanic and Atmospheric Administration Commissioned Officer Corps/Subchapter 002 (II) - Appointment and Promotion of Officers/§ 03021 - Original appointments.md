@@ -34,7 +34,7 @@ Each person appointed under this section shall be placed on the lineal list in a
 
 #### (2) Higher credit under other law
 
-&emsp;If a person appointed under this section is entitled to credit for the purpose of basic pay under any other provision of law that would exceed the amount of credit authorized by paragraph (1), that person shall be credited with that amount of service in lieu of the credit authorized by paragraph (1).
+&emsp;If a person appointed under this section is entitled to credit for the purpose of basic pay under any other provision of law that wouldexceed the amount of credit authorized by paragraph (1), that person shall be credited with that amount of service in lieu of the credit authorized by paragraph (1).
 
 (Pub. L. 107–372, title II, §221, Dec. 19, 2002, 116 Stat. 3084.)
 

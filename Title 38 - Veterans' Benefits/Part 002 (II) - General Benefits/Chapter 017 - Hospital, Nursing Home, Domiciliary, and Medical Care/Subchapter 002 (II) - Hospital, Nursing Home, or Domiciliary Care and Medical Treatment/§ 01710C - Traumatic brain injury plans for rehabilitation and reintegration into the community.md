@@ -218,7 +218,7 @@ Notification.—When possible, the Secretary shall notify each individual listed
 
 #### Pilot Program on Community-Based Brain Injury Residential Rehabilitative Care Services for Veterans With Traumatic Brain Injury
 
-Pub. L. 110–181, div. A, title XVII, §1705, Jan. 28, 2008, 122 Stat. 491, as amended by Pub. L. 113–146, title V, §501, Aug. 7, 2014, 128 Stat. 1792; Pub. L. 113–257, §2(a), (b), Dec. 18, 2014, 128 Stat. 2924, 2925, provided that:
+Pub. L. 110–181, div. A, title XVII, §1705, Jan. 28, 2008, 122 Stat. 491, as amended by Pub. L. 113–146, title V, §501, Aug. 7, 2014, 128 Stat. 1792; Pub. L. 113–257, §2(a), (b), Dec. 18, 2014, 128 Stat. 2924, 2925; Pub. L. 115–62, title I, §107(a), (b), Sept. 29, 2017, 131 Stat. 1161, provided that:
 
 "(a)
 
@@ -290,7 +290,7 @@ Final report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a final report on the pilot program.
+In general.—Not later than December 6, 2017, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a final report on the pilot program.
 
 &emsp;&emsp;"(B)
 
@@ -318,7 +318,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'community-based brain injury rehabilitative care services' means services of a facility in providing room, board, rehabilitation, and personal care for and supervision of residents for their health, safety, and welfare.
 
-&emsp;"(2) The term 'case management services' includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through a contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by anentity other than the Department), monitoring, reassessment, and followup.
+&emsp;"(2) The term 'case management services' includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through a contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
 
 &emsp;"(3) The term 'eligible veteran' means a veteran who—
 
@@ -332,7 +332,9 @@ Definitions.—In this section:
 
 "(g)
 
-Termination.—The pilot program shall terminate on October 6, 2017."
+Termination.—The pilot program shall terminate on January 6, 2018."
+
+\[Pub. L. 115–62, title I, §107(c), Sept. 29, 2017, 131 Stat. 1161, provided that: "Not later than December 6, 2017, the Secretary of Veterans Affairs shall notify veterans participating in the pilot program under such section \[section 1705 of Pub. L. 110–181, set out above\] regarding a plan for transition of care for such veterans."\]
 
 \[Pub. L. 113–257, §2(c), Dec. 18, 2014, 128 Stat. 2925, provided that: "The amendments made by this section \[amending section 1705 of Pub. L. 110–181, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2014\]."\]
 

@@ -86,7 +86,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, the taxes on distilledspirits, wines, and beer for the period beginning on September 16 and ending on September 26 shall be paid not later than September 29.
+&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, the taxes on distilled spirits, wines, and beer for the period beginning on September 16 and ending on September 26 shall be paid not later than September 29.
 
 #### (B) Safe harbor
 
@@ -156,7 +156,7 @@ Subsec. (e)(3). Pub. L. 99–514 added par. (3).
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(9)(A), struck out "rectified distilled spirits and wines," after "distilled spirits, wines,".
 
-Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out "rectified distilled spiritsand wines" after "spirits, wines," and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
+Subsec. (b). Pub. L. 96–39, §807(a)(9)(B), in provisions preceding par. (1) struck out "rectified distilled spirits and wines" after "spirits, wines," and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
 
 Subsec. (d). Pub. L. 96–39, §804(b), added subsec. (d).
 
@@ -296,7 +296,7 @@ Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to 
 
 "(e)
 
-Return of Distilled Spirits Products Containing Other Alcoholic Ingredients.—With respect to distilled spirits to which alcoholic ingredients other than distilled spirits have been added and which have been withdrawn from a distilled spirits plant before January 1, 1980, section 5215(a) of the Internal Revenue Code of 1986 shall apply only if such spirits are returned to the distilled spirits plant from which withdrawn.
+Return of Distilled Spirits Products Containing Other Alcoholic Ingredients.—With respect todistilled spirits to which alcoholic ingredients other than distilled spirits have been added and which have been withdrawn from a distilled spirits plant before January 1, 1980, section 5215(a) of the Internal Revenue Code of 1986 shall apply only if such spirits are returned to the distilled spirits plant from which withdrawn.
 
 "(f)
 

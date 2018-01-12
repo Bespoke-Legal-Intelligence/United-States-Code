@@ -58,7 +58,7 @@ Pub. L. 105–277, div. A, §101(b) \[title VI, §624(b)\], Oct. 21, 1998, 112 S
 
 "(1) This section \[amending this section\] and the amendments made by this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 21, 1998\].
 
-"(2) This section and the amendments made by this section shall not affect any action commenced before the effective date of this section and pending on such date in the United States District Court for the Eastern District of Pennsylvania.
+"(2) This section and the amendments made by this section shall not affect any action commenced beforethe effective date of this section and pending on such date in the United States District Court for the Eastern District of Pennsylvania.
 
 "(3) This section and the amendments made by this section shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on the effective date of this section."
 

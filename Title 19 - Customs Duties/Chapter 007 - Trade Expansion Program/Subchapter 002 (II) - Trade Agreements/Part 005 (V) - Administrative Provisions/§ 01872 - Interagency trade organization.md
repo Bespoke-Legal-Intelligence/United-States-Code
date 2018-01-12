@@ -44,7 +44,7 @@ In assisting the President, the organization shall—
 
 #### (c) Use of resources of agencies; procedures and committees
 
-The organization shall, to the maximum extent practicable, draw upon the resources of the agencies represented in the organization, as wellas such other agencies as it may determine, including the United States International Trade Commission. In addition, the President may establish by regulation such procedures and committees as he may determine to be necessary to enable the organization to provide for the conduct of hearings pursuant to section 2412(b)(2) of this title, and for the carrying out of other functions assigned to the organization pursuant to this section.
+The organization shall, to the maximum extent practicable, draw upon the resources of the agencies represented in the organization, as well as such other agencies as it may determine, including the United States International Trade Commission. In addition, the President may establish by regulation such procedures and committees as he may determine to be necessary to enable the organization to provide for the conduct of hearings pursuant to section 2412(b)(2) of this title, and for the carrying out of other functions assigned to the organization pursuant to this section.
 
 (Pub. L. 87–794, title II, §242, Oct. 11, 1962, 76 Stat. 878; Pub. L. 93–618, title I, §171(b), title VI, §602(b), Jan. 3, 1975, 88 Stat. 2009, 2072; Pub. L. 96–39, title IX, §902(c), July 26, 1979, 93 Stat. 300; Pub. L. 100–418, title I, §1621(a), Aug. 23, 1988, 102 Stat. 1263.)
 
@@ -84,7 +84,7 @@ East-West Foreign Trade Board, which was established by Pub. L. 93–618, title 
 
 For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 19 of the North American Free Trade Agreement as well as the oversight of the United States Section established under section 3315 of this title, see section 3432(c)(2) of this title.
 
-For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapters 18 and 19 of the United States-Canada Free-Trade Agreement, see section 405 of Pub. L. 100–449, set out in a note under section 2112 of this title.
+For provisions establishing an interagency group within the interagency organization established underthis section, relating to the implementation of chapters 18 and 19 of the United States-Canada Free-Trade Agreement, see section 405 of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Sense of Congress Respecting Role of Interagency Organization
 

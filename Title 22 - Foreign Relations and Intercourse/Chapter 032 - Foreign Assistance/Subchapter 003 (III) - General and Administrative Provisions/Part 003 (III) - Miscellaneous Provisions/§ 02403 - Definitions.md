@@ -22,7 +22,7 @@ As used in this chapter—
 
 (e) "Defense information" includes any document, writing, sketch, photograph, plan, model, specification, design, prototype, or other recorded or oral information relating to any defense article or defense service, but shall not include Restricted Data as defined by the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and data removed from the Restricted Data category under section 142d of that Act \[42 U.S.C. 2162(d)\].
 
-(f) "Defense service" includes any service, test, inspection, repair, publication, or technical or other assistance or defense information usedfor the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
+(f) "Defense service" includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
 (g) "Excess defense articles" means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under this chapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
 
-&emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreign countries or international organizations under this chapter, the contract or production costs of such article;
+&emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreigncountries or international organizations under this chapter, the contract or production costs of such article;
 
 &emsp;(4) with respect to a defense service, the cost to the United States Government of such service; and
 
@@ -80,7 +80,7 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(b) of H.R. 2992, 
 
 <b>1980</b>—Subsec. (m)(5). Pub. L. 96–533 added par. (5).
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–92 defined "defense article" to include uranium depleted in the isotope 235which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
+<b>1979</b>—Subsec. (d). Pub. L. 96–92 defined "defense article" to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
 <b>1978</b>—Subsecs. (o), (p). Pub. L. 95–424 added subsecs. (o) and (p).
 

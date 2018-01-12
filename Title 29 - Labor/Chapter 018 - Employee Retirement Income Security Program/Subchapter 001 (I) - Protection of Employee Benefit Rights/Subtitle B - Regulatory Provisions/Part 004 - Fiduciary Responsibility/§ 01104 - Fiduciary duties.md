@@ -14,7 +14,7 @@
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
-&emsp;(D) in accordance with the documents and instruments governing the plan insofar assuch documents and instruments are consistent with the provisions of this subchapter and subchapter III.
+&emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III.
 
 (2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 
@@ -42,7 +42,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(C) one year after the simple retirement account is established.
 
-> No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
+> No reports, other than those required under section 1021(g) of this title, shall be required withrespect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
 (3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
 
@@ -208,7 +208,7 @@ Pub. L. 109–280, title VI, §625, Aug. 17, 2006, 120 Stat. 980, provided that:
 
 "(a)
 
-In General.—Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
+In General.—Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], theSecretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
 
 &emsp;"(1) is not subject to the safest available annuity standard under Interpretive Bulletin 95–1 (29 CFR 2509.95–1), and
 

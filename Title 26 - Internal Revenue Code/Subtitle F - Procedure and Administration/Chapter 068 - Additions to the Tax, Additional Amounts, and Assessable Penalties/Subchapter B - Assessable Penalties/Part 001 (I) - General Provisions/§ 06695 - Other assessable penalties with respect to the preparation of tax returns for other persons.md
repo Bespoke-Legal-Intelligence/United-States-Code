@@ -30,15 +30,21 @@ Any person required to make a return under section 6060 who fails to comply with
 
 Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
-#### (g) Failure to be diligent in determining eligibility for child tax credit; American Opportunity Tax Credit; and earned income credit
+#### (g) Failure to be diligent in determining eligibility for certain tax benefits
 
-Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32 shall pay a penalty of $500 for each such failure.
+Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining—
+
+&emsp;(1) eligibility to file as a head of household (as defined in section 2(b)) on the return, or
+
+&emsp;(2) eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32,
+
+> shall pay a penalty of $500 for each such failure.
 
 #### (h) Adjustment for inflation
 
 #### (1) In general
 
-&emsp;In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (2) Rounding
 
@@ -48,13 +54,17 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 &emsp;&emsp;(B) is not described in clause (i) <sup>2</sup> and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1692; amended Pub. L. 95–600, title VII, §701(cc)(1), Nov. 6, 1978, 92 Stat. 2923; Pub. L. 98–369, div. A, title I, §179(b)(2), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 101–239, title VII, §7733(a)–(d), Dec. 19, 1989, 103 Stat. 2402, 2403; Pub. L. 105–34, title X, §1085(a)(2), Aug. 5, 1997, 111 Stat. 956; Pub. L. 110–28, title VIII, §8246(a)(2)(G)(i), (ii), May 25, 2007, 121 Stat. 202; Pub. L. 112–41, title V, §501(a), Oct. 21, 2011, 125 Stat. 459; Pub. L. 113–295, div. B, title II, §208(c), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 114–113, div. Q, title II, §207(a), Dec. 18, 2015, 129 Stat. 3082.)
+(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1692; amended Pub. L. 95–600, title VII, §701(cc)(1), Nov. 6, 1978, 92 Stat. 2923; Pub. L. 98–369, div. A, title I, §179(b)(2), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 101–239, title VII, §7733(a)–(d), Dec. 19, 1989, 103 Stat. 2402, 2403; Pub. L. 105–34, title X, §1085(a)(2), Aug. 5, 1997, 111 Stat. 956; Pub. L. 110–28, title VIII, §8246(a)(2)(G)(i), (ii), May 25, 2007, 121 Stat. 202; Pub. L. 112–41, title V, §501(a), Oct. 21, 2011, 125 Stat. 459; Pub. L. 113–295, div. B, title II, §208(c), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 114–113, div. Q, title II, §207(a), Dec. 18, 2015, 129 Stat. 3082; Pub. L. 115–97, title I, §§11001(b), 11002(d)(1)(MM), Dec. 22, 2017, 131 Stat. 2058, 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–97, §11001(b), amended subsec. (g) generally. Prior to amendment, text read asfollows: "Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32 shall pay a penalty of $500 for each such failure."
+
+Subsec. (h)(1). Pub. L. 115–97, §11002(d)(1)(MM), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–113 inserted "child tax credit; American Opportunity Tax Credit; and" before "earned income credit" in heading and substituted "section 24, 25A(a)(1), or 32" for "section 32" in text.
 
@@ -88,6 +98,12 @@ Subsec. (e). Pub. L. 101–239, §7733(d), substituted "returns" for "return" in
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–600 inserted provision relating to deposits by a bank.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11001(b) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11001(c) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 11002(d)(1)(MM) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title II, §207(c), Dec. 18, 2015, 129 Stat. 3083, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
@@ -98,7 +114,7 @@ Amendment by Pub. L. 113–295 applicable to returns required to be filed after 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–41 applicable to returns required to be filed after Dec. 31, 2011, see section 501(b)of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
+Amendment by Pub. L. 112–41 applicable to returns required to be filed after Dec. 31, 2011, see section 501(b) of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
 
 #### Effective Date of 2007 Amendment
 

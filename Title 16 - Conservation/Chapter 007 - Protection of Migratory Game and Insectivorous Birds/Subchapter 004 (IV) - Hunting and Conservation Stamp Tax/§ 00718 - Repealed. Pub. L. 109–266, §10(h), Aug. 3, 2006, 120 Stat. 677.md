@@ -216,7 +216,7 @@ Duration.—An electronic stamp issued by a State under the pilot program shall 
 
 "(a)
 
-Evaluation.—The Secretary, in consultation with State fish and wildlife management agencies andappropriate stakeholders with expertise specific to the duck stamp program, shall evaluate the pilot program and determine whether the pilot program has provided a cost-effective and convenient means for issuing migratory-bird hunting and conservation stamps, including whether the program has—
+Evaluation.—The Secretary, in consultation with State fish and wildlife management agencies and appropriate stakeholders with expertise specific to the duck stamp program, shall evaluate the pilot program and determine whether the pilot program has provided a cost-effective and convenient means for issuing migratory-bird hunting and conservation stamps, including whether the program has—
 
 &emsp;"(1) increased the availability of those stamps;
 

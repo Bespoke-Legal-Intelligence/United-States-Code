@@ -6,7 +6,7 @@
 
 &emsp;(A) The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
 
-&emsp;(B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises.
+&emsp;(B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters.
 
 &emsp;(C) In awarding grants under this subsection, the Administrator of FEMA may give preferential consideration to applications that involve a non-Federal contribution exceeding the minimums under subparagraph (E).
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) explain the applicant's inability to address the need without Federal assistance;
 
-&emsp;(B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
+&emsp;(B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(F);
 
 &emsp;(C) specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
 
@@ -48,9 +48,9 @@
 
 #### (c) Limitation on use of funds
 
-(1) Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used to supplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
+(1) Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used tosupplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
 
-(2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to November 24, 2003.
+(2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to the date of the application for the grant.
 
 (3) Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing firefighting functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) waive the requirements of subsection (c)(1); or
 
-&emsp;&emsp;(B) waive or reduce the requirements in subsection (a)(1)(E) or subsection (c)(2).
+&emsp;&emsp;(B) waive or reduce the requirements in subsection (a)(1)(E), (c)(2), or (c)(4).
 
 #### (2) Guidelines
 
@@ -152,7 +152,7 @@ In this section:
 
 &emsp;&emsp;(H) $750,000,000 for fiscal year 2013; and
 
-&emsp;&emsp;(I) for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+&emsp;&emsp;(I) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
 
 &emsp;&emsp;&emsp;(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
 
@@ -168,19 +168,31 @@ In this section:
 
 #### (k) Sunset of authorities
 
-The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
+The authority to award assistance and grants under this section shall expire on September 30, 2024.
 
-(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, §1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, §14001(c), Dec. 13, 2016, 130 Stat. 1288.)
+(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, §1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, §14001(c), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–98, §4, Jan. 3, 2018, 131 Stat. 2240.)
 
 #### References in Text
 
-Section 203(y) of title 29, referred to in subsec. (i)(1), was in the original "section 3(y) of the Fair LaborStandards Act" and has been translated as reading "section 3(y) of the Fair Labor Standards Act of 1938" to reflect the probable intent of Congress.
+Section 203(y) of title 29, referred to in subsec. (i)(1), was in the original "section 3(y) of the Fair Labor Standards Act" and has been translated as reading "section 3(y) of the Fair Labor Standards Act of 1938" to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classified to section 2231 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–98, §4(f), substituted "firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters" for "firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises".
+
+Subsec. (b)(3)(B). Pub. L. 115–98, §4(c), substituted "of subsection (a)(1)(F)" for "of subsection (a)(1)(B)(ii) and (F)".
+
+Subsec. (c)(2). Pub. L. 115–98, §4(d), substituted "prior to the date of the application for the grant" for "prior to November 24, 2003".
+
+Subsec. (d)(1)(B). Pub. L. 115–98, §4(e), substituted "subsection (a)(1)(E), (c)(2), or (c)(4)" for "subsection (a)(1)(E) or subsection (c)(2)".
+
+Subsec. (j)(1)(I). Pub. L. 115–98, §4(b), substituted "2023" for "2017" in introductory provisions.
+
+Subsec. (k). Pub. L. 115–98, §4(a), substituted "September 30, 2024" for "the date that is 5 years after January 2, 2013".
 
 <b>2016</b>—Subsec. (a)(1)(B). Pub. L. 114–255 inserted before period at end "and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises".
 
@@ -220,7 +232,7 @@ Subsec. (e). Pub. L. 112–239, §1804(e), added par. (1) and designated existin
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 112–239, §1804(f), substituted "Report" for "Sunset and reports" in heading and "Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on" for "The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning" in text.
+Subsec. (f). Pub. L. 112–239, §1804(f), substituted "Report" for "Sunset and reports" in heading and "Not later than September 30, 2014, the Administrator ofFEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on" for "The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning" in text.
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

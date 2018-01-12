@@ -148,7 +148,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 &emsp;"(1) be appointed as a limited term appointee to a Senior Executive Service position if the position then held by such employee will terminate within 3 years of the date of such appointment;
 
-&emsp;"(2) be appointed as a noncareer appointee to a Senior Executive Service position if the position then held by such employee is designated as a general position; or
+&emsp;"(2) be appointed as a noncareer appointee to a Senior Executive Service position if the position thenheld by such employee is designated as a general position; or
 
 &emsp;"(3) be appointed as a noncareer appointee to a general position if the position then held by such employee is designated as a career reserved position.
 

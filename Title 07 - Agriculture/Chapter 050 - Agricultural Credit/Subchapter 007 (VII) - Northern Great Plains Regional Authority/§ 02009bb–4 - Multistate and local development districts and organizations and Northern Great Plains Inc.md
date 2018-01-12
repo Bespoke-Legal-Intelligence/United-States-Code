@@ -18,7 +18,7 @@ In this section, the term "multistate and local development district or organiza
 
 &emsp;&emsp;&emsp;(iv) a public organization established before May 13, 2002, under State law for creation of multijurisdictional, area-wide planning organizations;
 
-&emsp;&emsp;&emsp;(v) a nonprofit agency or instrumentality of a State that was established for the purpose of assisting with multistate cooperation; or
+&emsp;&emsp;&emsp;(v) a nonprofit agency or instrumentality of a State that was established for thepurpose of assisting with multistate cooperation; or
 
 &emsp;&emsp;&emsp;(vi) a nonprofit association or combination of bodies, agencies, and instrumentalities described in clauses (ii) through (v); and
 

@@ -14,7 +14,7 @@ As part of the Program described in subchapter I, the Secretary of Energy shall�
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 114–329, §105(l)(1), (4), struck out subsec. (a) designation and heading "General responsibilities"and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.
+<b>2017</b>—Pub. L. 114–329, §105(l)(1), (4), struck out subsec. (a) designation and heading "General responsibilities" and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.
 
 Par. (1). Pub. L. 114–329, §105(l)(2), substituted "networking and information technology" for "high-performance computing and networking".
 

@@ -10,7 +10,7 @@ In order to create an independent and objective office—
 
 > there is hereby established an Office of Inspector General in the Government Publishing Office.
 
-(Added Pub. L. 100–504, title II, §202, Oct. 18, 1988, 102 Stat. 2530; amended Pub. L. 113–235, div. H,title I, §1301(b), (c)(1), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 100–504, title II, §202, Oct. 18, 1988, 102 Stat. 2530; amended Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ For short title of title II of Pub. L. 100–504, which enacted this chapter, as
 
 #### Transfer of Office
 
-Pub. L. 100–504, title II, §203, Oct. 18, 1988, 102 Stat. 2531 transferred the office of the Government Printing Office referred to as the "Office of Inspector General", and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
+Pub. L. 100–504, title II, §203, Oct. 18, 1988, 102 Stat. 2531 transferred the office of the Government PrintingOffice referred to as the "Office of Inspector General", and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
 
 #### Payment Authority Subject to Appropriations
 

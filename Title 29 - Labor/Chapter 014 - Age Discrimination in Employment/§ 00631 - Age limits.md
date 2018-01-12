@@ -14,7 +14,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 (2) In applying the retirement benefit test of paragraph (1) of this subsection, if any such retirement benefit is in a form other than a straight life annuity (with no ancillary benefits), or if employees contribute to any such plan or make rollover contributions, such benefit shall be adjusted in accordance with regulations prescribed by the Equal Employment Opportunity Commission, after consultation with the Secretary of the Treasury, so that the benefit is the equivalent of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions are made.
 
-(Pub. L. 90–202, §12, Dec. 15, 1967, 81 Stat. 607; Pub. L. 95–256, §3(a), (b)(3), Apr. 6, 1978, 92 Stat. 189, 190; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 98–459, title VIII, §802(c)(1), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(2), Apr. 7, 1986,100 Stat. 171; Pub. L. 99–592, §§2(c), 6(a), Oct. 31, 1986, 100 Stat. 3342, 3344; Pub. L. 101–239, title VI, §6202(b)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2233.)
+(Pub. L. 90–202, §12, Dec. 15, 1967, 81 Stat. 607; Pub. L. 95–256, §3(a), (b)(3), Apr. 6, 1978, 92 Stat. 189, 190; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 98–459, title VIII, §802(c)(1), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–592, §§2(c), 6(a), Oct. 31, 1986, 100 Stat. 3342, 3344; Pub. L. 101–239, title VI, §6202(b)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2233.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 99–592, §6(a), (b), temporarily added subsec. (d) which 
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–459 substituted "$44,000" for "$27,000".
 
-Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substituted "40 years of age but less than 70 years of age" for "forty years of age but less than sixty-five years of age", added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
+<b>1978</b>—Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substituted "40 years of age but less than 70 years of age" for "forty years of age but less than sixty-five years of age", added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
 
 #### Effective Date of 1989 Amendment
 

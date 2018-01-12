@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastalcommunities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -188,7 +188,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(iv) Chapter 35 of title 44 (commonly known as the Paperwork Reduction Act) does not apply to the referenda conducted under this subparagraph.
 
-&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described in clause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
+&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described inclause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
 
 &emsp;&emsp;(vi) In this subparagraph, the term "individual fishing quota" does not include a sector allocation.
 

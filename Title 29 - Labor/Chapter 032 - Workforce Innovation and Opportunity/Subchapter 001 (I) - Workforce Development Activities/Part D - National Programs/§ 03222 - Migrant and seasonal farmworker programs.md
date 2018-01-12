@@ -18,7 +18,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 &emsp;Such plan shall—
 
-&emsp;&emsp;(A) describe the population to be served and identify the education and employmentneeds of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment, or stabilize their unsubsidized employment, including upgraded employment in agriculture;
+&emsp;&emsp;(A) describe the population to be served and identify the education and employment needs of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment, or stabilize their unsubsidized employment, including upgraded employment in agriculture;
 
 &emsp;&emsp;(B) describe the related assistance and supportive services to be provided and the manner in which such assistance and services are to be integrated and coordinated with other appropriate services;
 
@@ -30,7 +30,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 #### (3) Agreement on adjusted levels of performance
 
-&emsp;The Secretary and the entity described in subsection (b) shall reach agreement on the levels of performance for each of the primary indicators of performance described in section 3141(b)(2)(A) of this title, taking into account economic conditions, characteristics of the individuals served, and other appropriate factors, and using, to the extent practicable, the statistical adjustment model under section 3141(b)(3)(A)(viii) of this title. The levels agreed to shall be the adjusted levels of performance and shall be incorporated in the program plan.
+&emsp;The Secretary and the entity described in subsection (b) shall reach agreement on thelevels of performance for each of the primary indicators of performance described in section 3141(b)(2)(A) of this title, taking into account economic conditions, characteristics of the individuals served, and other appropriate factors, and using, to the extent practicable, the statistical adjustment model under section 3141(b)(3)(A)(viii) of this title. The levels agreed to shall be the adjusted levels of performance and shall be incorporated in the program plan.
 
 #### (4) Administration
 

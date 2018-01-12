@@ -26,7 +26,7 @@ The Corporation shall transfer to the private corporation the right to purchase 
 
 &emsp;(A) arises out of an obligation under a contract, agreement, or lease transferred under subsection (a), and
 
-&emsp;(B) arises out of actions of the private corporation between the privatization date andthe date of a termination, extension, or material amendment of such contract, agreement, or lease.
+&emsp;(B) arises out of actions of the private corporation between the privatization date and the date of a termination, extension, or material amendment of such contract, agreement, or lease.
 
 #### (d) Pricing
 

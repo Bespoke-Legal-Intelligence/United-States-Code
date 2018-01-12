@@ -90,7 +90,7 @@ The Administrator may provide grants for eligible mitigation activities as follo
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d) of this section, the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d), the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (f) Reports
 
@@ -98,7 +98,7 @@ Not later than 1 year after July 6, 2012, and biennially thereafter, the Adminis
 
 #### (g) Failure to make grant award within 5 years
 
-For any application for a grant under this section for which the Administrator fails to makea grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
+For any application for a grant under this section for which the Administrator fails to make a grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
 
 #### (h) Definitions
 
@@ -178,7 +178,7 @@ Pub. L. 112–141, §100225(a)(5)(D)(ii), (iii), redesignated subpar. (G) as (H)
 
 Subsec. (c)(3)(I), (J). Pub. L. 112–141, §100225(a)(5)(D)(vi), (vii), added subpars. (I) and (J).
 
-Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and struck out former par. (4). Prior toamendment, text read as follows: "In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available."
+Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available."
 
 Subsec. (c)(5). Pub. L. 112–141, §100225(a)(5)(C), redesignated par. (5) as (3).
 

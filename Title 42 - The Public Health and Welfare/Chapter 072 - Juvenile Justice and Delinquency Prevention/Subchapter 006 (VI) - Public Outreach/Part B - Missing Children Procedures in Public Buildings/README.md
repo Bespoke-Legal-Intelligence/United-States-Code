@@ -9,5 +9,5 @@ Part was enacted as part of the Code Adam Act of 2003 and also as part of the Pr
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05792 - Definitions](%C2%A7%2005792%20-%20Definitions.md)
-- [&sect; 05792a - Procedures in public buildings regarding a missing or lost child](%C2%A7%2005792a%20-%20Procedures%20in%20public%20buildings%20regarding%20a%20missing%20or%20lost%20child.md)
+- [&sect; 05792 - Transferred](%C2%A7%2005792%20-%20Transferred.md)
+- [&sect; 05792a - Transferred](%C2%A7%2005792a%20-%20Transferred.md)

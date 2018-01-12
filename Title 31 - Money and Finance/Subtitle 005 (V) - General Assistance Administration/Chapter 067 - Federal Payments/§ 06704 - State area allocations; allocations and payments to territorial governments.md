@@ -46,7 +46,7 @@ Relative rate of labor force.—The relative rate of the labor force unemployed 
 
 (c)
 
-Alternative Formula.—For the payment period beginning October 1, 1994, the amount allocated to a State under this subsection for apayment period is the total amount the State would receive if—
+Alternative Formula.—For the payment period beginning October 1, 1994, the amount allocated to a State under this subsection for a payment period is the total amount the State would receive if—
 
 &emsp;(1) $1,166,666,667 were allocated among the States on the basis of population by allocating to each State an amount bearing the same ratio to the total amount to be allocated under this paragraph as the population of the State bears to the population of all States;
 
@@ -100,7 +100,7 @@ Allocation for Puerto Rico, Guam, American Samoa, and the Virgin Islands.—
 
 &emsp;(1)
 
-In general.—(A) For each payment period for which funds are available for allocation under this chapter, the Secretary shall allocate to each territorial government an amount equal to the product of 1 percent of the amount of funds available for allocation multiplied by the applicable territorial percentage.
+In general.—(A) For each payment period for which funds are available for allocation under this chapter, the Secretary shall allocate to each territorial government an amount equal to the product of 1 percent ofthe amount of funds available for allocation multiplied by the applicable territorial percentage.
 
 &emsp;(B) For the purposes of this paragraph, the applicable territorial percentage of a territory is equal to the quotient resulting from the division of the territorial population of such territory by the sum of the territorial population for all territories.
 
@@ -116,7 +116,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(B) the term "territory" means Puerto Rico, Guam, American Samoa, and the Virgin Islands; and
 
-&emsp;&emsp;(C) the term "territorial population" means the most recent population for eachterritory as determined by the Bureau of <sup>1</sup> Census.
+&emsp;&emsp;(C) the term "territorial population" means the most recent population for each territory as determined by the Bureau of <sup>1</sup> Census.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1864.)
 

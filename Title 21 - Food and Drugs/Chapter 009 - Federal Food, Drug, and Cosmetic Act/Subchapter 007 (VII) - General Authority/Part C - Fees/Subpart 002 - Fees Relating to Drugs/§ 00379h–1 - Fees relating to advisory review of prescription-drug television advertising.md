@@ -46,7 +46,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Submissions
 
-&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisement and acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person maycarry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
+&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisement and acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
 
 #### (ii) No refunds
 
@@ -76,7 +76,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (C) Late notice of submission
 
-&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person in response to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Fees under this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
+&emsp;&emsp;If, in the first fiscal year of a person's participation in the program under this section, that person submits any DTC advertisements for advisory review that are in excess of the number identified by that person in response to the Federal Register notice described in subsection (a)(1)(C), that person shall pay an operating reserve fee for each of those advisory reviews equal to the advisory review fee for each submission established under paragraph (1)(E)(ii). Fees required by this subparagraph shall be in addition to any fees required by subparagraph (A). Feesunder this subparagraph shall be due 20 days before any DTC advertisement is submitted by such person to the Secretary for advisory review.
 
 #### (D) Late payment
 
@@ -170,7 +170,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (2) Later fiscal years
 
-&emsp;Beginning in fiscal year 2009, if, on November 1 of the fiscal year, the combination of the operating reserves, annual fee revenues from that fiscal year, and unobligated fee revenues from prior fiscal years falls below $9,000,000, adjusted for inflation (as described in subsection (c)(1)), the program under this section shall terminate, and the Secretary shall notify all participants, retain any money from theunused advisory review fees and the operating reserves needed to terminate the program, and refund the remainder of the unused fees and operating reserves. To the extent required to terminate the program, the Secretary shall first use unobligated advisory review fee revenues from prior fiscal years, then the operating reserves, and finally, unused advisory review fees from the relevant fiscal year.
+&emsp;Beginning in fiscal year 2009, if, on November 1 of the fiscal year, the combination of the operating reserves, annual fee revenues from that fiscal year, and unobligated fee revenues from prior fiscal years falls below $9,000,000, adjusted for inflation (as described in subsection (c)(1)), the program under this section shall terminate, and the Secretary shall notify all participants, retain any money from the unused advisory review fees and the operating reserves needed to terminate the program, and refund the remainder of the unused fees and operating reserves. To the extent required to terminate the program, the Secretary shall first use unobligated advisory review fee revenues from prior fiscal years, then the operating reserves, and finally, unused advisory review fees from the relevant fiscal year.
 
 #### (g) Crediting and availability of fees
 
@@ -198,7 +198,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
+&emsp;For each of the fiscal years 2008 through 2012, there is authorized to be appropriated for fees under this section an amount equal to thetotal revenue amount determined under subsection (b) for the fiscal year, as adjusted pursuant to subsection (c) and paragraph (4) of this subsection, plus amounts collected for the reserve fund under subsection (d).
 
 #### (4) Offset
 

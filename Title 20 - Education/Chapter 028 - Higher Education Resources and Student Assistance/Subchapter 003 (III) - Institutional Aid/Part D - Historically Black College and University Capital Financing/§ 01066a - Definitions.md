@@ -18,7 +18,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(C) instructional equipment, technology, research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
 
-&emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property oran interest therein, described in this paragraph;
+&emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property or an interest therein, described in this paragraph;
 
 &emsp;&emsp;(E) a facility designed to provide primarily outpatient health care for students or faculty;
 

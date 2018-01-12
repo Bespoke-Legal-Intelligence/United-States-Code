@@ -6,7 +6,7 @@ Except as otherwise provided in any section of this title—
 
 #### (1) Subtitle A
 
-&emsp;(A) Chapters 1, 2, 4,<sup>1</sup> and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1 (except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
+&emsp;(A) Chapters 1, 2, 4,<sup>1</sup> and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1\(except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
 
 &emsp;(B) Chapters 3 and 5 <sup>1</sup> of this title shall apply with respect to payments and transfers occurring after December 31, 1954, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
 
@@ -26,7 +26,7 @@ Except as otherwise provided in any section of this title—
 
 #### (3) Subtitle C
 
-&emsp;Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B ofsuch chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
+&emsp;Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B of such chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
 
 #### (4) Subtitle D
 
@@ -44,7 +44,7 @@ Except as otherwise provided in any section of this title—
 
 #### (B) Assessment, collection, and refunds
 
-&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Code of 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
+&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Codeof 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
 
 #### (C) Taxes imposed under the 1939 Code
 
@@ -132,7 +132,7 @@ Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B)
 
 The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code.
 
-Sections 13(b)(3), 26(b)(2)(C), 26(h)(1)(C), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(i), were classified to former sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) of formerTitle 26, Internal Revenue Code. Sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) were repealed by subsec. (a)(1)(d)(i) of this section.
+Sections 13(b)(3), 26(b)(2)(C), 26(h)(1)(C), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(i), were classified to former sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) of former Title 26, Internal Revenue Code. Sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) were repealed by subsec. (a)(1)(d)(i) of this section.
 
 Sections 13(b)(2), 26(b)(2)(B), 26(h)(1)(B), 26(i)(2), 207(a)(1)(B), 207(a)(3)(B), 421(a)(1)(B), and the second sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(ii), were classified to sections 13(b)(2), 26(b)(2)(B), (h)(1)(B), (i)(2), 207(a)(1)(B), (3)(B), 421(a)(1)(B), and 362(b)(3) of former Title 26, Internal Revenue Code.
 

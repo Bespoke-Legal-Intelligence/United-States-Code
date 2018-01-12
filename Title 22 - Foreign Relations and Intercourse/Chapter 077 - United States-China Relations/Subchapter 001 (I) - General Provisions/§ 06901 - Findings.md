@@ -66,7 +66,7 @@ Agreement Defined.—For purposes of this section, the term 'Agreement' means th
 
 "(d)
 
-Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The working group shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
+Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The workinggroup shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
 
 &emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under the Agreement for science and technology transfers between the United States and the People's Republic of China.
 
@@ -80,7 +80,7 @@ Interagency Working Group.—The President shall establish an interagency workin
 
 #### Tibetan Policy
 
-Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946, provided that:
+Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, §13, Dec. 18, 2017, 131 Stat. 2041, provided that:
 
 #### "SEC. 611. SHORT TITLE.
 
@@ -94,11 +94,23 @@ Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396,
 
 "(a)
 
+Policy.—
+
+&emsp;"(1)
+
 In general.—The President and the Secretary should encourage the Government of the People's Republic of China to enter into a dialogue with the Dalai Lama or his representatives leading to a negotiated agreement on Tibet.
+
+&emsp;"(2)
+
+Compliance.—After such an agreement is reached, the President and the Secretary should work to ensure compliance with the agreement.
 
 "(b)
 
-Compliance.—After such an agreement is reached, the President and the Secretary should work to ensure compliance with the agreement.
+Periodic Reports.—Not later than 180 days after the date of the enactment of the Department of State Authorities Act, Fiscal Year 2017, Improvements Act \[Dec. 18, 2017\], and annually thereafter until December 31, 2021, the President shall transmit to the appropriate congressional committees a report on—
+
+&emsp;"(1) the steps taken by the President and the Secretary in accordance with subsection (a)(1) to implement the Tibetan Policy Act of 2002; and
+
+&emsp;"(2) the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama's own choosing or the representatives of such successor.
 
 #### "SEC. 614. REPORTING ON TIBET.
 
@@ -264,7 +276,7 @@ Export Controls.—
 
 &emsp;"(1)
 
-In general.—The export control laws, regulations, and practices of the United States shall apply to Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
+In general.—The export control laws, regulations, and practices of the United States shall applyto Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
 
 &emsp;"(2)
 

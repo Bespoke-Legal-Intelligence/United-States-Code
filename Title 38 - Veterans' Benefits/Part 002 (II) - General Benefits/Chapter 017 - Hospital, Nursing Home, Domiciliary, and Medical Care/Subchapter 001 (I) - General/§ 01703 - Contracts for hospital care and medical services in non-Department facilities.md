@@ -42,7 +42,7 @@
 
 (4) The authority of the Secretary under this subsection terminates on September 30, 2020.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943;Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ In General.—The Secretary of Veterans Affairs may, through the Director of the
 
 "(b)
 
-Geographic Distribution.—The Secretary shall ensure that the demonstration projects carried outunder subsection (a) are located at facilities that are geographically distributed throughout the United States.
+Geographic Distribution.—The Secretary shall ensure that the demonstration projects carried out under subsection (a) are located at facilities that are geographically distributed throughout the United States.
 
 "(c)
 
@@ -256,7 +256,7 @@ Use of Existing Contracts.—Notwithstanding any provision of law relating to th
 
 "(k)
 
-Reports.—Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report which includes—
+Reports.—Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans' Affairs of the Senate and theCommittee on Veterans' Affairs of the House of Representatives a report which includes—
 
 &emsp;"(1) the assessment of the Secretary of the pilot program during the preceding year, including its cost, volume, quality, patient satisfaction, benefit to veterans, and such other findings and conclusions with respect to pilot program as the Secretary considers appropriate; and
 

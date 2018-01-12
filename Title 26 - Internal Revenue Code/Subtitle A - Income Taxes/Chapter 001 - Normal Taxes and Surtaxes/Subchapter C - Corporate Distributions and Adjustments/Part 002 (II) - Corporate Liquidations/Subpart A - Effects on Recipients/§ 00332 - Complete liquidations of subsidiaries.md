@@ -8,7 +8,7 @@ No gain or loss shall be recognized on the receipt by a corporation of property 
 
 For purposes of this section, a distribution shall be considered to be in complete liquidation only if—
 
-&emsp;(1) the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) meeting the requirements of section 1504(a)(2); and either
+&emsp;(1) the corporation receiving such property was, on the date of the adoption of the plan ofliquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) meeting the requirements of section 1504(a)(2); and either
 
 &emsp;(2) the distribution is by such other corporation in complete cancellation or redemption of all its stock, and the transfer of all the property occurs within the taxable year; in such case the adoption by the shareholders of the resolution under which is authorized the distribution of all the assets of such corporation in complete cancellation or redemption of all its stock shall be considered an adoption of a plan of liquidation, even though no time for the completion of the transfer of the property is specified in such resolution; or
 
@@ -48,7 +48,7 @@ If a corporation receives a distribution from a regulated investment company or 
 
 #### (B) Affiliated group
 
-&emsp;&emsp;For purposes of this subsection, the term "affiliated group" has the meaning givensuch term by section 1504(a) (without regard to paragraphs (2) and (4) of section 1504(b)).
+&emsp;&emsp;For purposes of this subsection, the term "affiliated group" has the meaning given such term by section 1504(a) (without regard to paragraphs (2) and (4) of section 1504(b)).
 
 #### (3) Coordination with subpart F
 

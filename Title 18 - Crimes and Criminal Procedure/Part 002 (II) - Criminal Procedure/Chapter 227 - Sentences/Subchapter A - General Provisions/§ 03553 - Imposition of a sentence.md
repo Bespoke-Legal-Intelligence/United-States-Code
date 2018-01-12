@@ -26,7 +26,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;&emsp;&emsp;(ii) that, except as provided in section 3742(g), are in effect on the date the defendant is sentenced; or
 
-&emsp;&emsp;(B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to section 994(a)(3) of title 28, United States Code, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28);
+&emsp;&emsp;(B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to section994(a)(3) of title 28, United States Code, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28);
 
 &emsp;(5) any pertinent policy statement—
 
@@ -64,7 +64,7 @@ Sentencing.—In sentencing a defendant convicted of an offense under section 12
 
 &emsp;&emsp;&emsp;&emsp;(III) should result in a sentence different from that described; or
 
-&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another personwho has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
+&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another person who has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
 
 > In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission, together with any amendments thereto by act of Congress. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission, together with any amendments to such guidelines or policy statements by act of Congress.
 
@@ -198,7 +198,7 @@ Pub. L. 108–21, title IV, §401(l), Apr. 30, 2003, 117 Stat. 674, provided tha
 
 "(1)
 
-Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term 'report described in paragraph (3)' means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
+Defined term.—For purposes of this section \[amending this section, section 3742 of this title, andsection 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term 'report described in paragraph (3)' means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
 
 &emsp;"(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;
 

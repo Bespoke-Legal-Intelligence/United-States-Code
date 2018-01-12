@@ -48,7 +48,7 @@ Patient Advocacy Responsibilities.—The responsibilities of each patient advoca
 
 &emsp;(11) To understand all laws, directives, and other rules with respect to the rights and responsibilities of veterans in receiving such health care, including the appeals processes available to veterans.
 
-&emsp;(12) To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10803) to protect and advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
+&emsp;(12) To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10803) to protectand advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
 
 &emsp;(13) To fulfill requirements established by the Secretary with respect to the inspection of controlled substances.
 

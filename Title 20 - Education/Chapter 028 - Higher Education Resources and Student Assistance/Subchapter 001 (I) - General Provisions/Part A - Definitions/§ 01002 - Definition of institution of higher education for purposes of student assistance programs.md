@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the nursing school has an agreement with an accredited school of nursing located in the United States providing that the students graduating from the nursing school located outside of the United States also receive a degree from the accredited school of nursing located in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
+&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, FederalDirect Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the nursing school reimburses the Secretary for the cost of any loan defaults for current and former students included in the calculation of the institution's cohort default rate during the previous fiscal year; and
 
@@ -242,7 +242,7 @@ Subsec. (c)(2). Pub. L. 110–315, §102(d)(1)(B), added par. (2) and struck out
 
 <b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–270 substituted "2302(3)(C) of this title" for "2471(4)(C) of this title".
 
-Pub. L. 109–171, §8002(1), inserted "(excluding courses offered by telecommunications as defined in section 1091(l)(4) of this title)" after "courses by correspondence".
+Pub. L. 109–171, §8002(1), inserted "(excluding courses offered by telecommunications as defined in section1091(l)(4) of this title)" after "courses by correspondence".
 
 Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted "(excluding courses offered by telecommunications as defined in section 1091(l)(4) of this title)" after "correspondence courses".
 
@@ -262,7 +262,7 @@ Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VIII, §8001(c), Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise providedin this subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1001 of this title\] or the amendments made by this subtitle, the amendments made by this subtitle shall be effective July 1, 2006."
+Pub. L. 109–171, title VIII, §8001(c), Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided in this subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1001 of this title\] or the amendments made by this subtitle, the amendments made by this subtitle shall be effective July 1, 2006."
 
 #### Effective Date of 2003 Amendment
 

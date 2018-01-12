@@ -48,7 +48,7 @@ Establishment of account.—The Comptroller General shall maintain a separate ac
 
 Use of amounts.—Amounts in the account maintained under this paragraph shall be available to the Comptroller General, without fiscal year limitation, solely to establish and operate the electronic system under this subsection.
 
-(d) The Comptroller General may use any authority available under chapter 7 of this titleand this chapter to verify assertions made by parties in protests under this subchapter.
+(d) The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
 (Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, §1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, §1501, Jan. 17, 2014, 128 Stat. 433.)
 

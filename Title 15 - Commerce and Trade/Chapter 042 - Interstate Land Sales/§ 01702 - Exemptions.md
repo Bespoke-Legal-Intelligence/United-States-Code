@@ -28,7 +28,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(D) the purchaser or lessee of such real estate affirms in writing to the seller or lessor that it either (i) is purchasing or leasing such real estate substantially for its own use, or (ii) has a binding commitment to sell, lease, or sublease such real estate to an entity which meets the requirements of subparagraph (B), is engaged in commercial or industrial business, and is not affiliated with the seller, lessor, or agent thereof; and
 
-&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document, the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
+&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document,the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
 
 #### (b) Sale or lease of lots subject to other statutory registration and disclosure requirements
 
@@ -42,7 +42,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;(4) the sale or lease of lots in a subdivision in which each of the lots is at least twenty acres (inclusive of easements for ingress and egress or public utilities);
 
-&emsp;(5) the sale or lease of a lot which is located within a municipality or county where a unitof local government specifies minimum standards for the development of subdivision lots taking place within its boundaries, when—
+&emsp;(5) the sale or lease of a lot which is located within a municipality or county where a unit of local government specifies minimum standards for the development of subdivision lots taking place within its boundaries, when—
 
 &emsp;&emsp;(A)(i) the subdivision meets all local codes and standards, and (ii) each lot is either zoned for single family residences or, in the absence of a zoning ordinance, is limited exclusively to single family residences;
 
@@ -74,7 +74,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(iv) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing the receipt of a written statement by the developer containing good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot.
 
-&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms "liens", "encumbrances", and "adverse claims" do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other publicbody having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
+&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms "liens", "encumbrances", and "adverse claims" do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
 
 &emsp;&emsp;(i) the developer, prior to the time the contract of sale or lease is entered into, has furnished each purchaser or lessee with a statement setting forth in descriptive and concise terms all such liens, reservations, taxes, assessments and restrictions which are applicable to the lot to be purchased or leased; and
 

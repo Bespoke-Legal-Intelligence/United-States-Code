@@ -20,7 +20,17 @@ Performance of Certain Acquisition-related Functions.—The Secretary of Defense
 
 (b)
 
-Adherence to Requirements in Major Defense Acquisition Programs.—The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under section 2448a(a) of this title.
+Adherence to Requirements in Major Defense Acquisition Programs.—(1) The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under section 2448a(a) of this title.
+
+(2) Consistent with the performance of duties under subsection (a), the Chief of the armed force concerned, or in the case of a joint program the chiefs of the armed forces concerned, with respect to major defense acquisition programs, shall—
+
+&emsp;(A) concur with the need for a material solution as identified in the Material Development Decision Review prior to entry into the Material Solution Analysis Phase under Department of Defense Instruction 5000.02;
+
+&emsp;(B) concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under section 2366a of this title;
+
+&emsp;(C) concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under section 2366b of this title; and
+
+&emsp;(D) concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.
 
 (c)
 
@@ -42,13 +52,15 @@ Definitions.—In this section:
 
 &emsp;(3) The term "program capability document" has the meaning provided in section 2446a(b)(5) of this title.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, §807(c), Dec. 23, 2016, 130 Stat. 2261.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, §807(c), Dec. 23, 2016, 130 Stat. 2261; Pub. L. 115–91, div. A, title VIII, §833, Dec. 12, 2017, 131 Stat. 1468.)
 
 #### Prior Provisions
 
 A prior section 2547 was renumbered section 2557 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–91 designated existing provisions as par. (1) and added par. (2).
 
 <b>2016</b>—Subsecs. (b), (c). Pub. L. 114–328, §807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 

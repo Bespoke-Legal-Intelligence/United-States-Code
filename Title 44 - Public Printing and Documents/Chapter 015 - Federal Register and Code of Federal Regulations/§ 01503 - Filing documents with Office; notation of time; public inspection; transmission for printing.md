@@ -16,7 +16,7 @@ Based on 44 U.S. Code, 1964 ed., §302 (July 26, 1935, ch. 417, §2, 49 Stat. 50
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in text on authority ofsection 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 
 #### Effective Date of 1984 Amendment
 

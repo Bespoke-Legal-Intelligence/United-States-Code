@@ -90,7 +90,7 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 (1) There is authorized to be appropriated to the Secretary of the Interior an additional $50,000,000 to remain available until expended.
 
-(2) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
+(2) Projects can only receive funding if enacted appropriations legislation designates funding tothem by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819; Pub. L. 114–322, title III, §4009(c), Dec. 16, 2016, 130 Stat. 1868.)
 
@@ -114,7 +114,7 @@ Pub. L. 109–70, §1, Sept. 21, 2005, 119 Stat. 2009, provided that: "This Act 
 
 #### Short Title of 2004 Amendments
 
-Pub. L. 108–316, §1(a), Oct. 5, 2004, 118 Stat. 1202, provided that: "This section \[enacting section 390h–17a ofthis title\] may be cited as the 'Williamson County Water Recycling Act of 2004'."
+Pub. L. 108–316, §1(a), Oct. 5, 2004, 118 Stat. 1202, provided that: "This section \[enacting section 390h–17a of this title\] may be cited as the 'Williamson County Water Recycling Act of 2004'."
 
 Pub. L. 108–233, §1, May 28, 2004, 118 Stat. 654, provided that: "This Act \[enacting section 390h–18 of this title\] may be cited as the 'Irvine Basin Surface and Groundwater Improvement Act of 2004'."
 

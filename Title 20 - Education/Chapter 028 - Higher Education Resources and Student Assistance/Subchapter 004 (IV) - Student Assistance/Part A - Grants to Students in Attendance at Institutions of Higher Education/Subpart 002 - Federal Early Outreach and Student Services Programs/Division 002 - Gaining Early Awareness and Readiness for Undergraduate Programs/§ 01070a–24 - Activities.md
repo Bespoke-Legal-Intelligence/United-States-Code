@@ -82,7 +82,7 @@ An eligible entity that receives a grant under this division may use grant funds
 
 &emsp;(14) Disseminating information that promotes the importance of higher education, explains college preparation and admission requirements, and raises awareness of the resources and services provided by the eligible entities to eligible students, their families, and communities.
 
-&emsp;(15) In the event that matching funds described in the application are no longer available, engaging entities described in section 1070a–21(c)(2) of this title in a collaborative manner to provide matching resources and participate in other activities authorized under this section.
+&emsp;(15) In the event that matching funds described in the application are no longer available, engaging entities described in section 1070a–21(c)(2) of this title in a collaborativemanner to provide matching resources and participate in other activities authorized under this section.
 
 #### (c) Additional permissible activities for States
 
@@ -132,7 +132,7 @@ For eligible entities not using a cohort approach, the eligible entity shall tre
 
 In the case of eligible entities described in section 1070a–21(c)(1) of this title, the activities required by this section may be provided by service providers such as community-based organizations, schools, institutions of higher education, public and private agencies, nonprofit and philanthropic organizations, businesses, institutions and agencies sponsoring programs authorized under subpart 4, and other organizations the State determines appropriate.
 
-(Pub. L. 89–329, title IV, §404D, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1659;amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–315, title IV, §404(d), Aug. 14, 2008, 122 Stat. 3210.)
+(Pub. L. 89–329, title IV, §404D, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1659; amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–315, title IV, §404(d), Aug. 14, 2008, 122 Stat. 3210.)
 
 #### References in Text
 

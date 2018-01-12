@@ -32,7 +32,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;&emsp;(F) a public hospital or health system;
 
-&emsp;(2) be within a program accredited by the Commission on Dental Accreditation or within a dental education program in an accredited institution; and
+&emsp;(2) be within a program accredited by the Commission on Dental Accreditation or withina dental education program in an accredited institution; and
 
 &emsp;(3) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 

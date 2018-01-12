@@ -66,7 +66,7 @@ If the Secretary elects to use the authority provided by this section, the Secre
 
 The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
 
-(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
+(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat.1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
 
 #### Amendments
 

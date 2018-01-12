@@ -82,7 +82,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(21)(F) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(21)(F) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 2115(c)(2) of Pub. L. 94–455 effective on Jan. 1, 1975 and applicable to taxable years ending after Dec. 31, 1974, see section 2115(f) of Pub. L. 94–455, set out as a note under section 613A of this title.
 

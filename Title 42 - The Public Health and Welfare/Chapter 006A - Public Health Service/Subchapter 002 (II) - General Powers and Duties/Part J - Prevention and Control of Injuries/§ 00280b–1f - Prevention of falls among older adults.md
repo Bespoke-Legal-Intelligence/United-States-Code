@@ -40,7 +40,7 @@ The Secretary may—
 
 #### (2) Educational support
 
-&emsp;The Secretary, either directly or through awarding grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, may provide professional education for physiciansand allied health professionals, and aging service providers in fall prevention, evaluation, and management.
+&emsp;The Secretary, either directly or through awarding grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, may provide professional education for physicians and allied health professionals, and aging service providers in fall prevention, evaluation, and management.
 
 #### (c) Demonstration projects
 

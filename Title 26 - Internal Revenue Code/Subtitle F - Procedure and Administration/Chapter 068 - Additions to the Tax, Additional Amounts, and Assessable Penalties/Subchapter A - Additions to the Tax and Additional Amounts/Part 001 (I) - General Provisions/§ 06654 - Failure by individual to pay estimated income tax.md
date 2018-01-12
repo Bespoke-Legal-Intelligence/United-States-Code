@@ -83,7 +83,7 @@ For purposes of this section—
 
 | <b>  If the preceding taxable year   begins in:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| 1998 | 105&nbsp;&nbsp; |
+| 1998 | 105   |
 | 1999 | 108\.6&nbsp;&nbsp; |
 | 2000 | 110&nbsp;&nbsp; |
 | 2001 | 112&nbsp;&nbsp; |
@@ -161,7 +161,7 @@ For purposes of this section—
 | :--- | ---: |
 | 1st | 22\.5&nbsp;&nbsp; |
 | 2nd | 45&nbsp;&nbsp; |
-| 3rd | 67\.5   |
+| 3rd | 67\.5&nbsp;&nbsp; |
 | 4th | 90\. |
 
 #### (iii) Adjusted self-employment income
@@ -172,7 +172,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+&emsp;&emsp;&emsp;Any amounts required to be included in gross income under section 936(h) or 951(a)\(and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
 
 #### (ii) Prior year safe harbor
 
@@ -359,7 +359,7 @@ For purposes of this section, the tax imposed under section 3101(b)(2) (to the e
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7),title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I, §1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug.10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I, §1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063.)
 
 #### Amendments
 
@@ -593,7 +593,7 @@ Amendment by section 106(a)(4)(C) of Pub. L. 97–448 effective Jan. 1, 1982, se
 
 Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
-Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included inthe provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
+Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -671,7 +671,7 @@ Pub. L. 103–66, title XIII, §13001(d), Aug. 10, 1993, 107 Stat. 416, provided
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
-No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of former section 420(b)(4)(B) of this title, see section 12011(c)(2) of Pub. L. 101–508, setout as an Effective Date note under section 420 of this title.
+No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of former section 420(b)(4)(B) of this title, see section 12011(c)(2) of Pub. L. 101–508, set out as an Effective Date note under section 420 of this title.
 
 #### Waiver of Estimated Penalties for 1988 Underpayments Attributable to Technical and Miscellaneous Revenue Act of 1988
 
@@ -679,7 +679,7 @@ No addition to tax to be made under this section for any period before Apr. 16, 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Waiver of Estimated Penalties for 1986 Underpayments Attributable to Tax Reform Act of 1986
 

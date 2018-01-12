@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If a partner engages in a transaction with a partnership other than in his capacity as amember of such partnership, the transaction shall, except as otherwise provided in this section, be considered as occurring between the partnership and one who is not a partner.
+&emsp;If a partner engages in a transaction with a partnership other than in his capacity as a member of such partnership, the transaction shall, except as otherwise provided in this section, be considered as occurring between the partnership and one who is not a partner.
 
 #### (2) Treatment of payments to partners for property or services
 
@@ -38,7 +38,7 @@
 
 #### (1) Losses disallowed
 
-&emsp;No deduction shall be allowed in respect of losses from sales or exchanges of property (other than an interest in the partnership), directly or indirectly, between—
+&emsp;No deduction shall be allowed in respect of losses from sales or exchanges of property\(other than an interest in the partnership), directly or indirectly, between—
 
 &emsp;&emsp;(A) a partnership and a person owning, directly or indirectly, more than 50 percent of the capital interest, or the profits interest, in such partnership, or
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) between a partnership and a person owning, directly or indirectly, more than 50 percent of the capital interest, or profits interest, in such partnership, or
 
-&emsp;&emsp;(B) between two partnerships in which the same persons own, directly or indirectly, more than 50 percent of the capital interest or profits interests,
+&emsp;&emsp;(B) between two partnerships in which the same persons own, directly or indirectly, more than 50 percent of the capital interests or profits interests,
 
 > &emsp;any gain recognized shall be considered as ordinary income.
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 94–455, §213(b)(3), substituted "and, subject to section
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all timesthereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
+Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
 Amendment by sections 1805(b) and 1812(c)(3)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

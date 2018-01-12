@@ -8,7 +8,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (1) In general
 
-&emsp;If any individual (whether or not eligible for benefits under this subchapter) comes to ahospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either—
+&emsp;If any individual (whether or not eligible for benefits under this subchapter) comes to a hospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either—
 
 &emsp;&emsp;(A) within the staff and facilities available at the hospital, for such further medical examination and such treatment as may be required to stabilize the medical condition, or
 
@@ -88,7 +88,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (3) Consultation with quality improvement organizations
 
-&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
+&emsp;In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process ofterminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
 
 #### (4) Notice upon closing an investigation
 
@@ -144,7 +144,7 @@ A participating hospital may not penalize or take adverse action against a quali
 
 #### Prior Provisions
 
-A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
+A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, titleI, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments
 
@@ -212,7 +212,7 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §6211(c)(5), added subpar. (A). Former su
 
 Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted "the individual" for "the patient" in cls. (i) and (ii). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C)) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
+Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to"for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C)) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
 
 Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
@@ -288,7 +288,7 @@ Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations to carry out such amendments have been promulgated by such date."
+Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations to carry out such amendments have been promulgated by such date."
 
 #### Effective Date of 1988 Amendment
 
@@ -410,7 +410,7 @@ Based on number of undocumented alien apprehension states.—
 
 &emsp;&emsp;"(A)
 
-In general.—Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $83,000,000 of such amount to make allotments, in addition to amounts allotted under paragraph (1), for such fiscal year for each of the 6 States with the highest number of undocumented alien apprehensions for such fiscal year.
+In general.—Out of the amount appropriated under subsection (a) for a fiscal year, theSecretary shall use $83,000,000 of such amount to make allotments, in addition to amounts allotted under paragraph (1), for such fiscal year for each of the 6 States with the highest number of undocumented alien apprehensions for such fiscal year.
 
 &emsp;&emsp;"(B)
 
@@ -530,7 +530,7 @@ State.—The term 'State' means the 50 States and the District of Columbia."
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
-Pub. L. 101–508, title IV, §4008(c), Nov. 5, 1990, 104 Stat. 1388–44, directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+Pub. L. 101–508, title IV, §4008(c), Nov. 5, 1990, 104 Stat. 1388–44, directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit areport to Congress on the study not later than 1 year after Nov. 5, 1990.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

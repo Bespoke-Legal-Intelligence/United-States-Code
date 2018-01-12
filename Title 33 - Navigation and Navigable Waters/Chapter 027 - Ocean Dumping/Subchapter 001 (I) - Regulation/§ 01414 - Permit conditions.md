@@ -22,7 +22,7 @@ The Administrator or the Secretary, as the case may be, shall require an applica
 
 #### (f) Public information
 
-Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall beavailable to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
+Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
 
 #### (g) Display of issued permits
 
@@ -106,9 +106,13 @@ Subsec. (d). Pub. L. 102–580, §507(c), inserted ", based upon monitoring dat
 
 <b>1983</b>—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
 
+#### Effective Date
+
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

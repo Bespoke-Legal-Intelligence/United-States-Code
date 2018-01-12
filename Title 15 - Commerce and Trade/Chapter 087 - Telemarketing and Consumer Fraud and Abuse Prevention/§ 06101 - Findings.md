@@ -10,7 +10,7 @@ The Congress makes the following findings:
 
 &emsp;(4) Consumers are victimized by other forms of telemarketing deception and abuse.
 
-&emsp;(5) Consequently, Congress should enact legislation that will offer consumers necessary protection from telemarketing deception and abuse.
+&emsp;(5) Consequently, Congress should enact legislation that will offer consumers necessaryprotection from telemarketing deception and abuse.
 
 (Pub. L. 103–297, §2, Aug. 16, 1994, 108 Stat. 1545.)
 

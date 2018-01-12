@@ -48,5 +48,5 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made."
+<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of the reductionin allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made."
 

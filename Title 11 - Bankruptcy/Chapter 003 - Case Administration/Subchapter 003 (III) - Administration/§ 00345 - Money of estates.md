@@ -1,6 +1,6 @@
 ### §345. Money of estates
 
-(a) A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves aswill yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
+(a) A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves as will yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
 
 (b) Except with respect to a deposit or investment that is insured or guaranteed by the United States or by a department, agency, or instrumentality of the United States or backed by the full faith and credit of the United States, the trustee shall require from an entity with which such money is deposited or invested—
 

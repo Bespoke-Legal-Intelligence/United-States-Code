@@ -2,7 +2,7 @@
 
 #### (a) Educational and general expenditures
 
-For the purpose of this part, the term "educational and general expenditures" means the total amount expended by an institution of higher education for instruction, research, public service, academic support (including library expenditures), student services, institutional support, scholarships and fellowships, operationand maintenance expenditures for the physical plant, and any mandatory transfers which the institution is required to pay by law.
+For the purpose of this part, the term "educational and general expenditures" means the total amount expended by an institution of higher education for instruction, research, public service, academic support (including library expenditures), student services, institutional support, scholarships and fellowships, operation and maintenance expenditures for the physical plant, and any mandatory transfers which the institution is required to pay by law.
 
 #### (b) Eligible institution
 
@@ -76,7 +76,7 @@ For the purpose of this part, the term "low-income individual" means an individu
 
 For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
-(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18,1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639; Pub. L. 110–315, title III, §§302, 305(b), Aug. 14, 2008, 122 Stat. 3167, 3173.)
+(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639; Pub. L. 110–315, title III, §§302, 305(b), Aug. 14, 2008, 122 Stat. 3167, 3173.)
 
 #### Prior Provisions
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -6,7 +6,7 @@
 
 (2) The activities described in this paragraph are as follows:
 
-&emsp;(A) The conduct, or provision for conduct, of research and development which could lead tothe production of a new nuclear weapon by the United States.
+&emsp;(A) The conduct, or provision for conduct, of research and development which could lead to the production of a new nuclear weapon by the United States.
 
 &emsp;(B) The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a new nuclear weapon by the United States.
 

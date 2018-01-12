@@ -22,7 +22,7 @@ Depositions.—(1) In a proceeding or investigation, the Secretary, Under Secret
 
 (2) A deposition may be taken before an individual designated by the Secretary, Under Secretary, or Administrator and having the power to administer oaths.
 
-(3) Before taking a deposition, the party or the attorney of the party proposing to take the deposition must give reasonable notice in writing to the opposing party or the attorney of recordof that party. The notice shall state the name of the witness and the time and place of taking the deposition.
+(3) Before taking a deposition, the party or the attorney of the party proposing to take the deposition must give reasonable notice in writing to the opposing party or the attorney of record of that party. The notice shall state the name of the witness and the time and place of taking the deposition.
 
 (4) The testimony of a person deposed under this subsection shall be under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent. Each deposition shall be filed promptly with the Secretary, Under Secretary, or Administrator.
 

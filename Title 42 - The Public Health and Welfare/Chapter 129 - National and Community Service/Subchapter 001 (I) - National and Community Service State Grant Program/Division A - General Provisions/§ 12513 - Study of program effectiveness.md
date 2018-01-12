@@ -38,7 +38,7 @@ In this section:
 
 #### References in Text
 
-Subtitle C, referred to in subsec. (d)(2), probably means subtitle C (§121 et seq.) of title I of Pub. L.101–610, which is classified generally to division C (§12571 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+Subtitle C, referred to in subsec. (d)(2), probably means subtitle C (§121 et seq.) of title I of Pub. L. 101–610, which is classified generally to division C (§12571 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
 #### Codification
 

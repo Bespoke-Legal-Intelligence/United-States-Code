@@ -74,7 +74,7 @@ The land management goals of a project under subsection (b) may include any of t
 
 #### (5) Relation to other laws
 
-&emsp;Notwithstanding subsections (d) and (g) of section 472a of this title, the Chief may enter into an agreement or contract under subsection (b).
+&emsp;Notwithstanding subsections (d) and (g) of section 472a of this title, the Chief may enter into an agreement or contract under subsection (b). Notwithstanding the Materials Act of 1947 (30 U.S.C. 602(a)),<sup>1</sup> the Director may enter into an agreement or contract under subsection (b).
 
 #### (6) Contracting officer
 
@@ -82,7 +82,7 @@ The land management goals of a project under subsection (b) may include any of t
 
 #### (7) Fire liability provisions
 
-&emsp;Not later than 90 days after February 7, 2014, the Chief and the Director shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
+&emsp;Not later than 90 days after February 7, 2014, the Chief shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
 
 &emsp;&emsp;(A) integrated resource timber contracts, as described in the Forest Service contract numbered 2400–13, part H, section H.4; and
 
@@ -108,13 +108,13 @@ The land management goals of a project under subsection (b) may include any of t
 
 &emsp;&emsp;Notwithstanding any other provision of law, the value of services received by the Chief or the Director under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor, Chief, or Director shall not be considered monies received from the National Forest System or the public lands.
 
-#### (B) Knutson-Vanderberg <sup>1</sup> Act
+#### (B) Knutson-Vanderberg <sup>2</sup> Act
 
-&emsp;&emsp;The Act of June 9, 1930 (commonly known as the "Knutson-Vanderberg <sup>1</sup> Act") (16 U.S.C. 576 et seq.) shall not apply to any agreement or contract under subsection (b).
+&emsp;&emsp;The Act of June 9, 1930 (commonly known as the "Knutson-Vanderberg <sup>2</sup> Act") (16 U.S.C. 576 et seq.) shall not apply to any agreement or contract under subsection (b).
 
 #### (f) Costs of removal
 
-Notwithstanding the fact that a contractor did not harvest the timber, the Chief may collect deposits from a contractor covering the costs of removal of timber or other forest products under—
+Notwithstanding the fact that a contractor did not harvest the timber, the Chief may collectdeposits from a contractor covering the costs of removal of timber or other forest products under—
 
 &emsp;(1) section 490 of this title; and
 
@@ -130,7 +130,7 @@ Notwithstanding the fact that a contractor did not harvest the timber, the Chief
 
 &emsp;If the offset value of the forest products exceeds the value of the resource improvement treatments, the Chief and the Director may—
 
-&emsp;&emsp;(A) collect any residual receipts under the Act of June 9, 1930 (commonly known as the "Knutson-Vanderberg <sup>1</sup> Act") (16 U.S.C. 576 et seq.); and
+&emsp;&emsp;(A) collect any residual receipts under the Act of June 9, 1930 (commonly known as the "Knutson-Vanderberg <sup>2</sup> Act") (16 U.S.C. 576 et seq.); and
 
 &emsp;&emsp;(B) apply the excess to other authorized stewardship projects.
 
@@ -158,9 +158,11 @@ Not later than 1 year after February 7, 2014, and annually thereafter, the Chief
 
 &emsp;(3) the role of local communities in the development of agreements or contract plans.
 
-(Pub. L. 108–148, title VI, §604, as added Pub. L. 113–79, title VIII, §8205(a), Feb. 7, 2014, 128 Stat. 918.)
+(Pub. L. 108–148, title VI, §604, as added Pub. L. 113–79, title VIII, §8205(a), Feb. 7, 2014, 128 Stat. 918; amended Pub. L. 115–31, div. G, title IV, §422, May 5, 2017, 131 Stat. 499.)
 
 #### References in Text
+
+The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. Section 602(a) of Title 30 is section 2(a) of the Act. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 The Act of June 9, 1930, referred to in subsecs. (e)(3)(B) and (g)(2)(A), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 576 of this title and Tables.
 
@@ -168,5 +170,13 @@ Section 490 of this title, referred to in subsec. (f)(1), was in the original "t
 
 Section 498 of this title, referred to in subsec. (f)(2), was in the original "the Act of June 30, 1914 (16 U.S.C. 498)", and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, as amended, which are classified to section 498 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "Knutson-Vandenberg".</i>
+#### Amendments
+
+<b>2017</b>—Subsec. (d)(5). Pub. L. 115–31, §422(1), inserted at end "Notwithstanding the Materials Act of 1947 (30 U.S.C. 602(a)), the Director may enter into an agreement or contract under subsection (b)."
+
+Subsec. (d)(7). Pub. L. 115–31, §422(2), struck out "and the Director" after "the Chief" in introductory provisions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "Knutson-Vandenberg".</i>
 

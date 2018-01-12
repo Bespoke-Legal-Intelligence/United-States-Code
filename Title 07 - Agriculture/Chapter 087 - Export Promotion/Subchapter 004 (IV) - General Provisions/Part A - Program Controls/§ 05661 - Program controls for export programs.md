@@ -10,7 +10,7 @@ The unauthorized diversion of commodities under the programs authorized in secti
 
 #### (c) Good faith
 
-The failure of an exporter, seller or other person to comply with the provisions of this section shall not affect the validity of any credit guarantee or other obligation of the Commodity Credit Corporation under the programs under this chapter with respect to any exporter, seller, or person who had no knowledge of such failure to comply at the time such exporter, seller, or person was assigned the credit guarantee or at the time the Corporation entered into such obligation.
+The failure of an exporter, seller or other person to comply with the provisions of this sectionshall not affect the validity of any credit guarantee or other obligation of the Commodity Credit Corporation under the programs under this chapter with respect to any exporter, seller, or person who had no knowledge of such failure to comply at the time such exporter, seller, or person was assigned the credit guarantee or at the time the Corporation entered into such obligation.
 
 (Pub. L. 95–501, title IV, §401, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3680; amended Pub. L. 104–127, title II, §246, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, §3103(b)(4), June 18, 2008, 122 Stat. 1832.)
 

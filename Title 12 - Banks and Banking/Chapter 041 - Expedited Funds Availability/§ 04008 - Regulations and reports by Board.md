@@ -114,7 +114,7 @@ In prescribing regulations under subsections (a) and (b), the Board and the Dire
 
 #### Codification
 
-In subsec. (d)(3), "September 1, 1988" substituted for "section 603(b) takes effect" on authority of section 613(b) of Pub. L. 100–86, set out as an Effective Date note under section 4001 of this title.
+In subsec. (d)(3), "September 1, 1988" substituted for "section 603(b) takes effect" on authority of section613(b) of Pub. L. 100–86, set out as an Effective Date note under section 4001 of this title.
 
 #### Amendments
 

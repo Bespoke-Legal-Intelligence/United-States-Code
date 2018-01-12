@@ -8,7 +8,7 @@
 
 #### (2) Projects funded using other funds
 
-&emsp;A resource advisory committee may submit to the Secretary concerned a description ofany projects that the committee proposes the Secretary undertake using funds from State or local governments, or from the private sector, other than project funds and funds appropriated and otherwise available to do similar work.
+&emsp;A resource advisory committee may submit to the Secretary concerned a description of any projects that the committee proposes the Secretary undertake using funds from State or local governments, or from the private sector,other than project funds and funds appropriated and otherwise available to do similar work.
 
 #### (3) Joint projects
 

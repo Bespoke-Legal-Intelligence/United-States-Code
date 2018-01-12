@@ -1,0 +1,6 @@
+### §3797dd–1. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–351, title I, §3002, as added Pub. L. 110–199, title I, §114(2), Apr. 9, 2008, 122 Stat. 677, which authorized appropriations for fiscal years 2009 and 2010, was omitted as obsolete.
+

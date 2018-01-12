@@ -64,7 +64,7 @@ The Secretary shall—
 
 &emsp;Nothing in this subsection shall be construed to prohibit the Secretary from providing information the Secretary considers to be confidential business information under paragraph (1) to a court in camera or to another party under a protective order issued by a court.
 
-(Pub. L. 93–618, title II, §255A, as added Pub. L. 112–40, title II, §221(a)(1), Oct. 21, 2011, 125 Stat.409, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §255A, as added Pub. L. 112–40, title II, §221(a)(1), Oct. 21, 2011, 125 Stat. 409, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Section
 

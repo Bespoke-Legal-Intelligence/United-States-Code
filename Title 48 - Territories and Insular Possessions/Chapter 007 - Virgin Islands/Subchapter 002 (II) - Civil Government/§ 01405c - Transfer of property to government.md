@@ -54,7 +54,7 @@ It is ordered that all of the navigation and vessel inspection laws of the Unite
 
 (1) The coastwise laws of the United States.
 
-(2) The act of Congress approved June 7, 1897 (30 Stat. 96), as amended by the acts of February 19, 1900 (31 Stat. 30), May 25, 1914 (38 Stat. 381), March 1, 1933 (47 Stat. 1417), Aug. 21, 1935 (49 Stat. 668, 669), May 20, 1936 (49 Stat. 1367), and April 22, 1940 (54 Stat. 150).
+(2) The act of Congress approved June 7, 1897 (30 Stat. 96), as amended by the acts of February 19, 1900 (31Stat. 30), May 25, 1914 (38 Stat. 381), March 1, 1933 (47 Stat. 1417), Aug. 21, 1935 (49 Stat. 668, 669), May 20, 1936 (49 Stat. 1367), and April 22, 1940 (54 Stat. 150).
 
 (3) So much of the vessel inspection laws of the United States as requires the inspection as a passenger vessel of any cargo vessel, foreign or domestic, when carrying more than twelve passengers or persons in addition to the crew.
 

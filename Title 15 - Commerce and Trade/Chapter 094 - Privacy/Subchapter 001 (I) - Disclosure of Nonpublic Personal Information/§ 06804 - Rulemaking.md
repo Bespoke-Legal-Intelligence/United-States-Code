@@ -18,7 +18,7 @@
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to alter, affect, or otherwise limit the authority of a State insurance authority to adopt regulations to carry out this subchapter.
+&emsp;&emsp;Nothing in this paragraph shall be construed to alter, affect, or otherwise limit theauthority of a State insurance authority to adopt regulations to carry out this subchapter.
 
 #### (2) Coordination, consistency, and comparability
 

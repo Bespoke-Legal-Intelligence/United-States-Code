@@ -112,7 +112,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (3) The amount of the unfunded vested benefits allocable to an employer under this paragraph is the product of—
 
-&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, lessthe value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
+&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
 
 &emsp;(B) a fraction—
 
@@ -190,7 +190,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (E)
 
-Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method described in subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980.
+Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method describedin subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980.
 
 #### (d) Method of calculating allocable share of employer of unfunded vested benefits set forth in subsection (c)(3); applicability of certain statutory provisions
 
@@ -216,7 +216,7 @@ In the case of a withdrawal following a merger of multiemployer plans, subsectio
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369, §558(b)(1)(A), (B), substituted "September 25, 1980" for "April 28, 1980" in pars. (1)(A) and (2)(A), (B)(ii)(II), and "September 26, 1980" for "April 29, 1980" in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
 
-Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted "September 25, 1980" for "April 28, 1980" insubpars. (B)(ii)(II) and (C)(i)(II) and "September 26, 1980" for "April 29, 1980" in subpar. (B)(i), (ii)(I), (II).
+Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted "September 25, 1980" for "April 28, 1980" in subpars. (B)(ii)(II) and (C)(i)(II) and "September 26, 1980" for "April 29, 1980" in subpar. (B)(i), (ii)(I), (II).
 
 #### Effective Date of 2006 Amendment
 

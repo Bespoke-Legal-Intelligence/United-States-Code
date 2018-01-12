@@ -88,7 +88,7 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 (f)
 
-Construction.—Nothing in this section may be construed to authorize the discharge of,demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
+Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
 (g)
 
@@ -168,9 +168,9 @@ Subsecs. (f), (g). Pub. L. 112–239, §827(d)(1), redesignated subsecs. (d) and
 
 Subsec. (g)(6). Pub. L. 112–239, §827(f), added par. (6).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste ofDepartment of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
 
-Subsec. (b). Pub. L. 110–181, §846(b), designated existing provisions as par. (1), substituted "the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration" for "an agency", and added par. (2).
+Subsec. (b). Pub. L. 110–181, §846(b), designated existing provisions as par. (1), substituted "the Departmentof Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration" for "an agency", and added par. (2).
 
 Subsec. (c)(1). Pub. L. 110–181, §846(c)(1), in introductory provisions, substituted "Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the agency concerned shall determine whether there is sufficient basis to conclude that the contractor concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall" for "If the head of the agency determines that a contractor has subjected a person to a reprisal prohibited by subsection (a), the head of the agency may".
 

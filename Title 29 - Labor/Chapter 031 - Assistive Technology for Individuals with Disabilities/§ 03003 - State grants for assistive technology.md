@@ -284,7 +284,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities with demonstrated expertise in collaborating with public or private agencies that serve individuals with disabilities, to develop and disseminate training materials, conduct training, and provide technical assistance, for individuals from local settings statewide, including representatives of State and local educational agencies, other State and local agencies, early intervention programs, adult service programs, hospitals and other health care facilities, institutions of higher education, and businesses.
+&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities with demonstrated expertise in collaborating with public or private agencies that serve individuals with disabilities, to develop and disseminate training materials, conduct training, and provide technical assistance, for individuals from local settings statewide, including representatives of State and local educational agencies, other State and local agencies, early intervention programs,adult service programs, hospitals and other health care facilities, institutions of higher education, and businesses.
 
 #### (II) Authorized activities
 
@@ -322,7 +322,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (II) Collaboration
 
-&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers,children, transition-age youth, employment-age adults, seniors, and employers.
+&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers, children, transition-age youth, employment-age adults, seniors, and employers.
 
 #### (III) Statewide information and referral system
 

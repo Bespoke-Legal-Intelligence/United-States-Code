@@ -63,11 +63,11 @@ Subsec. (a)(2)(C). Pub. L. 113–67, §402(b)(2), added subpar. (C).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–228 effective with the first pay period beginning on or after the date that is 90 daysafter Sept. 30, 2002, see section 322(c)(2) of Pub. L. 107–228, set out as a note under section 4045 of this title.
+Amendment by Pub. L. 107–228 effective with the first pay period beginning on or after the date that is 90 days after Sept. 30, 2002, see section 322(c)(2) of Pub. L. 107–228, set out as a note under section 4045 of this title.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter,see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

@@ -46,7 +46,7 @@ In general.—Except as provided in clause (ii) and notwithstanding subparagraph
 
 &emsp;(ii)
 
-Exception.—Clause (i) does not apply to a loan for a specific project that is the subjectof a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
+Exception.—Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
 (4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
@@ -64,7 +64,7 @@ Exception.—Clause (i) does not apply to a loan for a specific project that is 
 
 &emsp;(iii) section 1932(d) of this title.
 
-(C) For purposes of this paragraph, the term "prime farmland" means prime farmlands and unique farmland as those terms are defined in sections 657.5(a) and (b) of title 7, Code of Federal Regulations (1980).
+(C) For purposes of this paragraph, the term "prime farmland" means prime farmlands andunique farmland as those terms are defined in sections 657.5(a) and (b) of title 7, Code of Federal Regulations (1980).
 
 #### (b) Payment of charges; prepayment of taxes and insurance
 
@@ -130,7 +130,7 @@ Subsec. (a)(5). Pub. L. 103–328, §113(a)(2), substituted "(5)(A) Except as pr
 
 <b>1990</b>—Subsec. (a)(3)(A). Pub. L. 101–624, §2383(1), substituted "guaranteed" for "guranteed".
 
-Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Except as provided in paragraph (6), the interest rates on loans (other than guaranteed loans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum."
+Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Except as provided in paragraph (6), the interest rates on loans (other than guaranteedloans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum."
 
 Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
@@ -166,7 +166,7 @@ In general.—Except as provided in paragraphs (2) and (3), the amendments made 
 
 "(2)
 
-State option.—Except as provided in paragraph (3), the amendments made by subsection (a) shall not apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in aState after the date (that occurs during the 3-year period beginning on the date of enactment of this Act) on which the State adopts a law or certifies that the voters of the State have voted in favor of a provision of the constitution or law of the State that states that the State does not want the amendments made by subsection (a) to apply with respect to loans made, insured, or guaranteed under such Act in the State.
+State option.—Except as provided in paragraph (3), the amendments made by subsection (a) shall not apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in a State after the date (that occurs during the 3-year period beginning on the date of enactment of this Act) on which the State adopts a law or certifies that the voters of the State have voted in favor of a provision of the constitution or law of the State that states that the State does not want the amendments made by subsection (a) to apply with respect to loans made, insured, or guaranteed under such Act in the State.
 
 "(3)
 

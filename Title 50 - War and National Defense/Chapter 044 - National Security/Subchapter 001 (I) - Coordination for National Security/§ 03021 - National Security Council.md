@@ -18,7 +18,7 @@ Consistent with the direction of the President, the functions of the Council sha
 
 #### (1) In general
 
-&emsp;The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, and such other officers of the United States Government as the President may designate.
+&emsp;The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and such other officers of the United States Government as the President may designate.
 
 #### (2) Attendance and participation in meetings
 
@@ -46,7 +46,7 @@ At meetings of the Council, the President shall preside or, in the absence of th
 
 It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422; Pub. L. 114–328, div. A, title X, §1085(a), Dec. 23, 2016, 130 Stat. 2422.)
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422; Pub. L. 114–328, div. A, title X, §1085(a), Dec. 23, 2016, 130 Stat. 2422; Pub. L. 115–44, title II, §274(a), Aug. 2, 2017, 131 Stat. 938.)
 
 #### Codification
 
@@ -55,6 +55,8 @@ Section was formerly classified to section 402 of this title prior to editorial 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–44 inserted "the Secretary of the Treasury," before "and such other officers".
 
 <b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the National Security Council.
 
@@ -126,9 +128,13 @@ Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed on Sept. 30
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
+#### Construction of 2017 Amendment
+
+Pub. L. 115–44, title II, §274(b), Aug. 2, 2017, 131 Stat. 938, provided that: "The amendment made by subsection (a) \[amending this section\] may not be construed to authorize the National Security Council to have a professional staff level that exceeds the limitation set forth under section 101(e)(3) of the National Security Act of 1947 (50 U.S.C. 3021(e)(3))."
+
 #### Transfer of Functions
 
-Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department ofState to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
+Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
 
 National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out under section 3042 of this title. Functions of Chairman with limited exception, including his functions as a member of National Security Council transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. Functions of Director of Office of Defense Mobilization with respect to being a member of National Security Council transferred to Director of Office of Civil and Defense Mobilization by Reorg. Plan No. 1 of 1958, §4, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, set out as a note under section 5195 of Title 42, The Public Health and Welfare. For subsequent transfers or delegations to Office of Emergency Planning, Office of Emergency Preparedness, President, Federal Preparedness Agency, and Secretary of Homeland Security, see Transfer of Functions notes set out under section 3042 of this title.
 
@@ -184,7 +190,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;&emsp;(D) coordinate development of monitoring protocols and equipment for use in detecting the release of biological, chemical, and radiological hazards; and
 
-&emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promoteexchange of such information with and among State and local governments and private entities.
+&emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promote exchange of such information with and among State and local governments and private entities.
 
 &emsp;(ii) Executive departments and agencies shall, to the extent permitted by law, make available to the Office all information relating to terrorist threats and activities within the United States.
 
@@ -242,7 +248,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
-(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programsfor educating the public about the nature of terrorist threats and appropriate precautions and responses.
+(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs for educating the public about the nature of terrorist threats and appropriate precautions and responses.
 
 (j) <i>Cooperation with State and Local Governments and Private Entities</i>. The Office shall encourage and invite the participation of State and local governments and private entities, as appropriate, in carrying out the Office's functions.
 
@@ -256,7 +262,7 @@ Sec. 4. <i>Administration.</i>
 
 (b) The Office of Administration within the Executive Office of the President shall provide the Office of Homeland Security with such personnel, funding, and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to carry out the provisions of this order.
 
-(c) Heads of executive departments and agencies are authorized, to the extent permitted by law, to detail or assign personnel of such departments and agencies to the Office of Homeland Security upon request of the Assistant to the President for Homeland Security, subject to the approval of the Chief of Staff.
+(c) Heads of executive departments and agencies are authorized, to the extent permitted by law, to detail orassign personnel of such departments and agencies to the Office of Homeland Security upon request of the Assistant to the President for Homeland Security, subject to the approval of the Chief of Staff.
 
 Sec. 5. <i>Establishment of Homeland Security Council.</i>
 
@@ -316,7 +322,7 @@ Sec. 2. <i>Definition</i>. For purposes of this order, the term "mass atrocities
 
 Sec. 3. <i>Responsibilities</i>. The Board shall seek to ensure that mass atrocities and the risk thereof are effectively considered and appropriately addressed by the U.S. Government, and shall coordinate the development and execution of policies and tools to enhance our capacity to prevent and respond to mass atrocities.
 
-(a) In order to ensure that emerging mass atrocity risks and mass atrocity situations are considered and addressed, the Board shall monitor developments around the world that heighten the risk of mass atrocities, and analyze and closely review specific mass atrocity threats or situations of heightened concern.
+(a) In order to ensure that emerging mass atrocity risks and mass atrocity situations are considered and addressed, the Board shall monitor developmentsaround the world that heighten the risk of mass atrocities, and analyze and closely review specific mass atrocity threats or situations of heightened concern.
 
 (b) The Board shall also identify any gaps related to the prevention of and response to mass atrocities in the current policies and ongoing interagency processes concerning particular regions or countries and shall make recommendations to strengthen policies, programs, resources, and tools related to mass atrocity prevention and response to relevant executive departments and agencies (agencies), including through the Board's function as an interagency policy committee, as detailed in section 4 of this order. In these efforts, the Board shall focus in particular on ways for the U.S. Government to develop, strengthen, and enhance its capabilities to:
 
@@ -376,7 +382,7 @@ Sec. 4. <i>Structure and Protocols of the Atrocities Prevention Board</i>. The B
 
 (f) The Chair shall prepare written updates for the public, on an annual basis, on the work of the U.S. Government in mass atrocity prevention and response, including the work of the Board.
 
-(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Board shall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with itswork on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
+(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Board shall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with its work on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
 
 (h) In order to conduct the work set forth in this order effectively, the Board may:
 
@@ -434,7 +440,7 @@ Ex. Ord. No. 13747, Nov. 4, 2016, 81 F.R. 78701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. As articulated in the National Strategy for Countering Biological Threats and implemented in Presidential Policy Directive 2 (PPD–2), promoting global health security is a core tenet of our national strategy for countering biological threats. No single nation can be prepared if other nations remain unprepared to counter biological threats; therefore, it is the policy of the United States to advance the Global Health Security Agenda (GHSA), which is a multi-faceted, multi-country initiative intended to accelerate partner countries' measurable capabilities to achieve specific targets to prevent, detect, and respond to infectious disease threats (GHSA targets), whether naturally occurring, deliberate, or accidental. The roles, responsibilities, and activities described in this order willsupport the goals of the International Health Regulations (IHR) and will be conducted, as appropriate, in coordination with the World Health Organization (WHO), Food and Agriculture Organization of the United Nations (FAO), World Organisation for Animal Health (OIE), Global Partnership Against the Spread of Weapons and Materials of Mass Destruction, the International Criminal Police Organization (INTERPOL), and other relevant organizations and stakeholders. To advance the achievement of the GHSA targets and to support the implementation of the IHR within partner countries, each executive department, agency, and office (agency) shall, as appropriate, partner, consult, and coordinate with other governments, international financial institutions, international organizations, regional organizations, economic communities, and nongovernmental stakeholders, including the private sector.
+Section 1. <i>Policy</i>. As articulated in the National Strategy for Countering Biological Threats and implemented in Presidential Policy Directive 2 (PPD–2), promoting global health security is a core tenet of our national strategy for countering biological threats. No single nation can be prepared if other nations remain unprepared to counter biological threats; therefore, it is the policy of the United States to advance the Global Health Security Agenda (GHSA), which is a multi-faceted, multi-country initiative intended to accelerate partner countries' measurable capabilities to achieve specific targets to prevent, detect, and respond to infectious disease threats (GHSA targets), whether naturally occurring, deliberate, or accidental. The roles, responsibilities, and activities described in this order will support the goals of the International Health Regulations (IHR) and will be conducted, as appropriate, in coordination with the World Health Organization (WHO), Food and Agriculture Organization of the United Nations (FAO), World Organisation for Animal Health (OIE), Global Partnership Against the Spread of Weapons and Materials of Mass Destruction, the International Criminal Police Organization (INTERPOL), and other relevant organizations and stakeholders. To advance the achievement of the GHSA targets and to support the implementation of the IHR within partner countries, each executive department, agency, and office (agency) shall, as appropriate, partner, consult, and coordinate with other governments, international financial institutions, international organizations, regional organizations, economic communities, and nongovernmental stakeholders, including the private sector.
 
 Sec. 2. <i>GHSA Interagency Review Council</i>.
 
@@ -598,6 +604,72 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13773. Enforcing Federal Law With Respect to Transnational Criminal Organizations and Preventing International Trafficking
+
+Ex. Ord. No. 13773, Feb. 9, 2017, 82 F.R. 10691, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Transnational criminal organizations and subsidiary organizations, including transnational drug cartels, have spread throughout the Nation, threatening the safety of the United States and its citizens. These organizations derive revenue through widespread illegal conduct, including acts of violence and abuse that exhibit a wanton disregard for human life. They, for example, have been known to commit brutal murders, rapes, and other barbaric acts.
+
+These groups are drivers of crime, corruption, violence, and misery. In particular, the trafficking by cartels of controlled substances has triggered a resurgence in deadly drug abuse and a corresponding rise in violent crime related to drugs. Likewise, the trafficking and smuggling of human beings by transnational criminal groups risks creating a humanitarian crisis. These crimes, along with many others, are enriching and empowering these organizations to the detriment of the American people.
+
+A comprehensive and decisive approach is required to dismantle these organized crime syndicates and restore safety for the American people.
+
+Sec. 2. <i>Policy</i>. It shall be the policy of the executive branch to:
+
+(a) strengthen enforcement of Federal law in order to thwart transnational criminal organizations and subsidiary organizations, including criminal gangs, cartels, racketeering organizations, and other groups engaged in illicit activities that present a threat to public safety and national security and that are related to, for example:
+
+(i) the illegal smuggling and trafficking of humans, drugs or other substances, wildlife, and weapons;
+
+(ii) corruption, cybercrime, fraud, financial crimes, and intellectual-property theft; or
+
+(iii) the illegal concealment or transfer of proceeds derived from such illicit activities.
+
+(b) ensure that Federal law enforcement agencies give a high priority and devote sufficient resources to efforts to identify, interdict, disrupt, and dismantle transnational criminal organizations and subsidiary organizations, including through the investigation, apprehension, and prosecution of members of such organizations, the extradition of members of such organizations to face justice in the United States and, where appropriate and to the extent permitted by law, the swift removal from the United States of foreign nationals who are members of such organizations;
+
+(c) maximize the extent to which all Federal agencies share information and coordinate with Federal law enforcement agencies, as permitted by law, in order to identify, interdict, and dismantle transnational criminal organizations and subsidiary organizations;
+
+(d) enhance cooperation with foreign counterparts against transnational criminal organizations and subsidiary organizations, including, where appropriate and permitted by law, through sharing of intelligence and law enforcement information and through increased security sector assistance to foreign partners by the Attorney General and the Secretary of Homeland Security;
+
+(e) develop strategies, under the guidance of the Secretary of State, the Attorney General, and the Secretary of Homeland Security, to maximize coordination among agencies—such as through the Organized Crime Drug Enforcement Task Forces (OCDETF), Special Operations Division, the OCDETF Fusion Center, and the International Organized Crime Intelligence and Operations Center—to counter the crimes described in subsection (a) of this section, consistent with applicable Federal law; and
+
+(f) pursue and support additional efforts to prevent the operational success of transnational criminal organizations and subsidiary organizations within and beyond the United States, to include prosecution of ancillary criminal offenses, such as immigration fraud and visa fraud, and the seizure of the implements of such organizations and forfeiture of the proceeds of their criminal activity.
+
+Sec. 3. <i>Implementation</i>. In furtherance of the policy set forth in section 2 of this order, the Secretary of State, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence, or their designees, shall co-chair and direct the existing interagency Threat Mitigation Working Group (TMWG), which shall:
+
+(a) work to support and improve the coordination of Federal agencies' efforts to identify, interdict, investigate, prosecute, and dismantle transnational criminal organizations and subsidiary organizations within and beyond the United States;
+
+(b) work to improve Federal agencies' provision, collection, reporting, and sharing of, and access to, data relevant to Federal efforts against transnational criminal organizations and subsidiary organizations;
+
+(c) work to increase intelligence and law enforcement information sharing with foreign partners battling transnational criminal organizations and subsidiary organizations, and to enhance international operational capabilities and cooperation;
+
+(d) assess Federal agencies' allocation of monetary and personnel resources for identifying, interdicting, and dismantling transnational criminal organizations and subsidiary organizations, as well as any resources that should be redirected toward these efforts;
+
+(e) identify Federal agencies' practices, any absence of practices, and funding needs that might hinder Federal efforts to effectively combat transnational criminal organizations and subsidiary organizations;
+
+(f) review relevant Federal laws to determine existing ways in which to identify, interdict, and disrupt the activity of transnational criminal organizations and subsidiary organizations, and ascertain which statutory authorities, including provisions under the Immigration and Nationality Act, could be better enforced or amended to prevent foreign members of these organizations or their associates from obtaining entry into the United States and from exploiting the United States immigration system;
+
+(g) in the interest of transparency and public safety, and in compliance with all applicable law, including the Privacy Act, issue reports at least once per quarter detailing convictions in the United States relating to transnational criminal organizations and their subsidiaries;
+
+(h) to the extent deemed useful by the Co-Chairs, and in their discretion, identify methods for Federal agencies to coordinate, as permitted by law, with State, tribal, and local governments and law enforcement agencies, foreign law enforcement partners, public-health organizations, and non-governmental organizations in order to aid in the identification, interdiction, and dismantling of transnational criminal organizations and subsidiary organizations;
+
+(i) to the extent deemed useful by the Co-Chairs, and in their discretion, consult with the Office of National Drug Control Policy in implementing this order; and
+
+(j) within 120 days of the date of this order, submit to the President a report on transnational criminal organizations and subsidiary organizations, including the extent of penetration of such organizations into the United States, and issue additional reports annually thereafter to describe the progress made in combating these criminal organizations, along with any recommended actions for dismantling them.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Steps for Increased Legal and Policy Transparency Concerning the United States Use of Military Force and Related National Security Operations
 
 Memorandum of President of the United States, Dec. 5, 2016, 81 F.R. 94213, provided:
@@ -623,4 +695,68 @@ Sec. 3. <i>Definitions</i>. For the purposes of this memorandum:
 Sec. 4. <i>Publication</i>. The Secretary of State is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### National Security Presidential Memorandum–2. Organization of the National Security Council and the Homeland Security Council
+
+National Security Presidential Memorandum–2, Jan. 28, 2017, 82 F.R. 9119, which related to the organization and functions of the National Security Council, the Homeland Security Council, National Security Council staff, Principals Committee, Deputies Committee, and Policy Coordination Committees, was revoked by Memorandum of President of the United States, part E, Apr. 4, 2017, 82 F.R. 16884, set out below.
+
+#### National Security Presidential Memorandum–4. Organization of the National Security Council, the Homeland Security Council, and Subcommittees
+
+National Security Presidential Memorandum–4, Apr. 4, 2017, 82 F.R. 16881, provided:
+
+Memorandum for the Vice President\[,\] the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Agriculture\[,\] the Secretary of Health and Human Services\[,\] the Secretary of Transportation\[,\] the Secretary of Commerce\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Assistant to the President and Chief of Staff\[,\] the Director of the Office of Management and Budget\[,\] the Representative of the United States to the United Nations\[,\] the United States Trade Representative\[,\] the Chairman of the Council of Economic Advisers\[,\] the Chairman of the Board of Governors of the Federal Reserve System\[,\] the Director of National Intelligence\[,\] the Director of the Central Intelligence Agency\[,\] the Chairman of the Joint Chiefs of Staff\[,\] the Assistant to the President for National Security Affairs\[,\] the Assistant to the President for Homeland Security and Counterterrorism\[,\] the Assistant to the President for Economic Policy\[,\] the Assistant to the President for Trade and Manufacturing Policy\[,\] the Assistant to the President for Intragovernmental and Technology Initiatives\[,\] the Counsel to the President\[,\] the Deputy Assistant to the President and National Security Advisor to the Vice President\[,\] the Administrator of the United States Agency for International Development\[,\] the Administrator of the National Aeronautics and Space Administration\[,\] the Chairman of the Nuclear Regulatory Commission\[,\] the Director of the Federal Bureau of Investigation\[,\] the Director of the Office of Science and Technology Policy\[,\] the Director of National Drug Control Policy\[,\] the Chairman of the President's Intelligence Advisory Board\[,\] the Administrator of the Federal Emergency Management Agency\[, and\] the Archivist of the United States
+
+As President, my highest priority is to ensure the safety and security of the American people. In order to advise and assist me in executing this solemn responsibility, as well as to protect and advance the national interests of the United States at home and abroad, I hereby direct that my system for national security policy development and decision making shall be organized as follows:
+
+A. <i>The National Security Council, the Homeland Security Council, and Supporting Staff</i>
+
+The National Security Act of 1947, as amended, established the National Security Council (NSC) to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security. There is also a Homeland Security Council (HSC)—established through Executive Order 13228 of October 8, 2001, and subsequently codified in the Homeland Security Act of 2002—that has the purpose of advising the President on matters pertaining to homeland security. Each Council is also responsible for the effective coordination of the security-related activities and functions of the executive departments and agencies.
+
+The security threats facing the United States in the 21st century transcend international boundaries. Accordingly, the United States Government's decision-making structures and processes to address these challenges must remain equally adaptive and transformative. Both Councils are statutory bodies that the President will continue to chair. Invitations to participate in specific Council meetings shall be extended to those heads of executive departments and agencies, and other senior officials, who are needed to address the issue or issues under consideration. When the President is absent from a meeting of either Council, the Vice President may preside at the President's direction.
+
+The Assistant to the President for National Security Affairs (National Security Advisor) shall be responsible, as appropriate and at the President's direction, for determining the agenda for the NSC or HSC, respectively, ensuring that the necessary papers are prepared and recording Council actions and Presidential decisions in a timely manner. The Assistant to the President for Homeland Security and Counterterrorism (Homeland Security Advisor) may, at the sole discretion of the National Security Advisor, perform those functions. When international economic issues are on the agenda of the NSC, the Assistant to the President for Economic Policy may, at the sole discretion of the National Security Advisor, perform those functions.
+
+The NSC and HSC shall have as their regular attendees (both statutory and non-statutory) the President, the Vice President, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Secretary of Homeland Security, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Director of National Intelligence and the Chairman of the Joint Chiefs of Staff, as statutory advisors to the NSC, shall also be regular attendees, as will the Director of the Central Intelligence Agency.
+
+When international economic issues are on the agenda of the NSC, the NSC's regular attendees will include the Secretary of Commerce, the United States Trade Representative, and the Assistant to the President for Economic Policy.
+
+The Assistant to the President and Chief of Staff (Chief of Staff to the President), the Counsel to the President, the Deputy Counsel to the President for National Security Affairs, and the Director of the Office of Management and Budget are invited as attendees to any NSC meeting.
+
+In addition to the NSC and HSC, there is also a single NSC staff within the Executive Office of the President that serves both the NSC and HSC. The staff is composed of regional, issue-focused, and functional directorates and headed by a single civilian Executive Secretary, pursuant to 50 U.S.C. 3021, who is also the Chief of Staff. All policy and staff activity decisions will be transmitted to the Executive Secretary for appropriate distribution and awareness. The purpose of the staff is to advise the President, the National Security Advisor, the Homeland Security Advisor, the NSC members, the HSC members, and others in the White House; to facilitate the implementation of Administration policy; and to help coordinate the national-security-related activities of the executive departments and agencies.
+
+B. <i>The Principals Committee</i>
+
+The Principals Committee (PC) shall continue to serve as the Cabinet-level senior interagency forum for considering policy issues that affect the national security interests of the United States. The PC shall be convened and chaired by the National Security Advisor. The Homeland Security Advisor may, at the sole discretion of the National Security Advisor, also convene and chair the PC. The Chair shall determine the agenda in consultation with the appropriate committee members, and the Executive Secretary shall ensure that necessary papers are prepared, and that conclusions and decisions are communicated in a timely manner. Invitations to participate in or attend a specific PC shall be extended at the discretion of the Chair, and may include those Cabinet-level heads of executive departments and agencies, and other senior officials, who are needed to address any issue under consideration.
+
+The PC shall have as its regular attendees the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Secretary of Homeland Security, the Chief of Staff to the President, the Director of National Intelligence, the Chairman of the Joint Chiefs of Staff, the Director of the Central Intelligence Agency, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Counsel to the President, the Deputy Counsel to the President for National Security Affairs, and the Director of the Office of Management and Budget may attend all PC meetings.
+
+The Assistant to the President and Deputy National Security Advisor (Deputy National Security Advisor), the Deputy National Security Advisor for Strategy, the Deputy Assistant to the President and National Security Advisor to the Vice President, and the Executive Secretary (who shall serve as the Executive Secretary of the PC) shall attend all of the meetings of the PC, and the Assistant to the President for Intragovernmental and Technology Initiatives may attend as appropriate.
+
+When international economic issues are on the agenda of the PC, the Committee's regular attendees will include the Secretary of Commerce, the United States Trade Representative, and the Assistant to the President for Economic Policy (who shall serve as Chair for agenda items that principally pertain to international economics).
+
+C. <i>The Deputies Committee</i>
+
+The Deputies Committee (DC) shall continue to serve as the senior sub-Cabinet interagency forum for consideration of, and where appropriate, decision making on, policy issues that affect the national security interests of the United States. The DC shall be convened and chaired by the Deputy National Security Advisor. The Deputy Homeland Security Advisor may, at the sole discretion of the National Security Advisor, also convene and Chair the DC. The Chair shall determine the agenda in consultation with the regular DC attendees, and the Executive Secretary shall ensure that necessary papers are prepared and that conclusions and decisions are communicated in a timely manner. Invitations to participate in or attend a specific DC meeting shall be extended by the Chair to those at the Deputy Secretary or Under Secretary level of executive departments and agencies, and to other senior officials, who are needed to address any issue under consideration.
+
+The DC shall have as its regular attendees the Deputy Secretary of State, the Deputy Secretary of the Treasury, the Deputy Secretary of Defense, the Deputy Attorney General, the Deputy Secretary of Energy, the Deputy Secretary of Homeland Security, the Deputy Director of the Office of Management and Budget, the Deputy Director of National Intelligence, the Vice Chairman of the Joint Chiefs of Staff, the Deputy Director of the Central Intelligence Agency, the Deputy National Security Advisor, the Deputy National Security Advisor for Strategy, the Deputy Homeland Security Advisor, the Deputy Assistant to the President and National Security Advisor to the Vice President, and the Administrator of the United States Agency for International Development.
+
+The Executive Secretary shall attend the DC meetings. The Deputy Counsel to the President for National Security Affairs may attend all DC meetings. Other senior officials, including the Deputy Representative of the United States to the United Nations, may be invited when appropriate.
+
+The DC shall review and monitor the work of the interagency national security process, including the interagency groups established pursuant to section D below. The DC shall help to ensure that issues brought before the NSC, HSC, and PC have been properly analyzed and prepared for decision. The DC shall also focus significant attention on monitoring the implementation of policies and decisions and shall conduct periodic reviews of the Administration's major national security and foreign policy initiatives. The DC is responsible for establishing Policy Coordination Committees (PCCs) and for providing objectives and clear guidance.
+
+D. <i>Policy Coordination Committees</i>
+
+Management of the development and implementation of national security policies by multiple executive departments and agencies typically shall be accomplished by the PCCs, with participation primarily occurring at the Assistant Secretary level. As the main day-to-day fora for interagency coordination of national security policies, the PCCs shall provide policy analysis for consideration by the more senior committees of the national security system and ensure timely responses to the President's decisions.
+
+Regional and issue-related PCCs shall be established at the direction of the DC. Members of the NSC staff (or National Economic Council staff, as appropriate) will chair the PCCs; the DC, at its discretion, may add co-chairs to any PCC. The PCCs shall review and coordinate the implementation of Presidential decisions in their respective policy areas. The Chair of each PCC, in consultation with the Executive Secretary, shall invite representatives of other executive departments and agencies to attend meetings of the PCC where appropriate. The Chair of each PCC, with the agreement of the Executive Secretary, may establish subordinate working groups to assist that PCC in the performance of its duties.
+
+E. <i>General</i>
+
+The President and the Vice President may attend any and all meetings of any entity established by or under this memorandum.
+
+This document is part of a series of National Security Presidential Memoranda, which have replaced both Presidential Policy Directives and Presidential Study Directives as the instrument for communicating relevant Presidential decisions. This memorandum shall supersede all other existing Presidential directives and guidance on the organization or support of the NSC and the HSC, including National Security Presidential Memorandum–2 (January 28, 2017), which is hereby revoked. With regard to its application to economic matters, this document shall be interpreted in concert with any Executive Order governing the National Economic Council and with Presidential Memoranda signed hereafter that implement it or those Executive Orders.
+
+The Secretary of Defense is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

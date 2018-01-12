@@ -37,6 +37,8 @@
 | 1433d to 1433f. | Omitted or Repealed. |
 | [1434\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001434%20-%20Encouragement%20of%20production%20of%20crops%20of%20which%20United%20States%20is%20a%20net%20importer%20and%20for%20which%20price%20support%20programs%20are%20not%20in%20effect%E2%80%A6.md) | Encouragement of production of crops of which United States is a net importer and for which price support programs are not in effect; authority to plant on set-aside acreage with no reduction in payment rate. |
 | [1435\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001435%20-%20Production%20of%20commodities%20for%20conversion%20into%20alcohol%20or%20hydrocarbons%20for%20use%20as%20motor%20fuels%20or%20other%20fuels%3B%20terms%20and%20conditions%E2%80%A6.md) | Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program. |
+| [1436\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001436%20-%20Reimbursement%20of%20appropriations%20available%20for%20classing%20or%20grading%20agriculture%20commodities%20without%20charge.md) | Reimbursement of appropriations available for classing or grading agriculture commodities without charge. |
+| [1436a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001436a%20-%20Transfer%20of%20nonadministrative%20funds%20of%20Commodity%20Credit%20Corporation%20for%20classing%20and%20grading%20purposes.md) | Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

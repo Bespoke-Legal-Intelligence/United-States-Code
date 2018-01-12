@@ -1,6 +1,6 @@
 ### §9628. Airplane parts and accessories: civilian flying schools
 
-The Secretary of the Air Force may sell, to civilian flying schools at which personnel of the Department of the Air Force or the Department of the Army are receiving flight training under contracts requiring these schools to maintain and repair airplanes of the Air Force furnished to them for flight training, the spare parts and accessories needed for those repairs.
+The Secretary of the Air Force may sell, to civilian flying schools at which personnel of the Department of the Air Force or the Departmentof the Army are receiving flight training under contracts requiring these schools to maintain and repair airplanes of the Air Force furnished to them for flight training, the spare parts and accessories needed for those repairs.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 581.)
 

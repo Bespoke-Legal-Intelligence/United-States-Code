@@ -2,7 +2,7 @@
 
 #### (a) Requirement of mitigation plan
 
-As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e) of this section, a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
+As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e), a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
 
 #### (b) Local and tribal plans
 
@@ -28,7 +28,7 @@ The State process of development of a mitigation plan under this section shallâ€
 
 #### (1) In general
 
-&emsp;Federal contributions under section 5170c of this title may be used to fund the development and updating of mitigation plans under this section.
+&emsp;Federal contributions under section 5170c of this title may be used to fund the developmentand updating of mitigation plans under this section.
 
 #### (2) Maximum Federal contribution
 

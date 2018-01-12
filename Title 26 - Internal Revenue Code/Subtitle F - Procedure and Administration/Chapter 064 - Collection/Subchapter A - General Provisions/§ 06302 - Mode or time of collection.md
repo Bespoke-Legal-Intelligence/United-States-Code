@@ -10,7 +10,7 @@ Whether or not the method of collecting any tax imposed by chapter 21, 31, 32, o
 
 #### (c) Use of Government depositaries
 
-The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies,domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
+The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies, domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
 
 #### (d) Time for payment of manufacturers' excise tax on recreational equipment
 
@@ -256,7 +256,7 @@ Pub. L. 95–147, §3(c), Oct. 28, 1977, 91 Stat. 1228, provided that: "The amen
 
 #### Regulations
 
-Pub. L. 103–182, title V, §523(b)(2), Dec. 8, 1993, 107 Stat. 2163, provided that: "Not later than 210 days afterthe date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section)."
+Pub. L. 103–182, title V, §523(b)(2), Dec. 8, 1993, 107 Stat. 2163, provided that: "Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section)."
 
 #### Savings Provision
 

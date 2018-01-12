@@ -54,7 +54,7 @@ In general.—An eligible person entitled to covered retired pay (including an e
 
 Discounted present value.—The Secretary of Defense shall compute the discounted present value of amounts of covered retired pay that an eligible person is otherwise entitled to receive for a period for purposes of paragraph (1)(A) by—
 
-&emsp;&emsp;(A) estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under section 1401a of this title projected by the Secretary at the time the person separates from service and would otherwise begin receiving covered retired pay; and
+&emsp;&emsp;(A) estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under section 1401a of this title projected by the Secretary at the time the person separates from service and wouldotherwise begin receiving covered retired pay; and
 
 &emsp;&emsp;(B) reducing the aggregate amount estimated pursuant to subparagraph (A) by an appropriate percentage determined by the Secretary—
 
@@ -72,7 +72,7 @@ Single payment or combination of payments.—An eligible person may elect to rec
 
 &emsp;(5)
 
-Commencement of payment.—An eligible person who makes an election under this subsection shall receive the lump sum payment,or the first installment of a combination of payments of the lump sum payment if elected under paragraph (4), as follows:
+Commencement of payment.—An eligible person who makes an election under this subsection shall receive the lump sum payment, or the first installment of a combination of payments of the lump sum payment if elected under paragraph (4), as follows:
 
 &emsp;&emsp;(A) Not later than 60 days after the date of the retirement of the eligible person from the uniformed services.
 

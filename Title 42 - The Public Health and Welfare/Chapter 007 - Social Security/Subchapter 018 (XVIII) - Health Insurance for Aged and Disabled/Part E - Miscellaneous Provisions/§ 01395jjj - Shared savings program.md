@@ -68,7 +68,7 @@
 
 #### (D) Other reporting requirements
 
-&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reportingrequirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
+&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reporting requirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
 
 #### (4) No duplication in participation in shared savings programs
 
@@ -102,7 +102,7 @@ The Secretary shall determine an appropriate method to assign Medicare fee-for-s
 
 #### (i) Determining savings
 
-&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
+&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for partsA and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
 
 #### (ii) Establish and update benchmark
 

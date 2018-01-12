@@ -26,7 +26,7 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 &emsp;&emsp;(A) establishing data collection guidelines and providing such guidelines to the appropriate homeland security official of each State;
 
-&emsp;&emsp;(B) regularly reviewing the guidelines established under subparagraph (A), including by consulting with the appropriate homeland security officials of States, to solicit feedback about the guidelines, as appropriate;
+&emsp;&emsp;(B) regularly reviewing the guidelines established under subparagraph (A), includingby consulting with the appropriate homeland security officials of States, to solicit feedback about the guidelines, as appropriate;
 
 &emsp;&emsp;(C) after providing the homeland security official of a State with the guidelines under subparagraph (A), allowing the official a reasonable amount of time to submit to the Secretary any data submissions recommended by the official for inclusion in the database established under subsection (a)(1);
 
@@ -94,5 +94,5 @@ The Secretary may establish a consortium to be known as the "National Infrastruc
 
 #### Deadlines for Implementation and Notification of Congress
 
-Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 \[6 U.S.C. 124l(d)\], as added by subsection (a)."
+Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: "Not later than 180 days after thedate of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 \[6 U.S.C. 124l(d)\], as added by subsection (a)."
 

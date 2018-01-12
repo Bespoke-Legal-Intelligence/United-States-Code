@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
 
-&emsp;(4) compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards thatmandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
+&emsp;(4) compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards that mandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
 
 #### (b) Compatible interfaces
 

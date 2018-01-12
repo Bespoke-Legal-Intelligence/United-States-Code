@@ -64,7 +64,7 @@ Subsecs. (b)(3), (c) to (e). Act June 6, 1934, amended subsecs. (b)(3) and (c) t
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: "The amendments made by this title \[amending this section and section 78u–4 of this title\] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act \[Dec. 22, 1995\]."
+Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: "The amendments made by this title\[amending this section and section 78u–4 of this title\] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act \[Dec. 22, 1995\]."
 
 #### Construction of 1995 Amendment
 

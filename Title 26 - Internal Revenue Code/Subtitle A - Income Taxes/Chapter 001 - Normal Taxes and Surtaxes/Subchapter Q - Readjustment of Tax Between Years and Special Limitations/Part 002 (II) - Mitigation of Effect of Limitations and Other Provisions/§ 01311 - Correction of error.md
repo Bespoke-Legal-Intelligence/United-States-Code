@@ -14,13 +14,13 @@ If a determination (as defined in section 1313) is described in one or more of t
 
 &emsp;&emsp;(B) in case the amount of the adjustment would be assessed and collected in the same manner as a deficiency under section 1314, there is adopted in the determination a position maintained by the taxpayer with respect to whom the determination is made,
 
-> &emsp;and the position maintained by the Secretary in the case described in subparagraph (A) or maintained by the taxpayer in the case described in subparagraph (B) is inconsistent with the erroneous inclusion, exclusion, omission, allowance, disallowance, recognition, or non-recognition, as the case may be.
+> &emsp;and the position maintained by the Secretary in the case described in subparagraph (A) or maintained by the taxpayer in the case described in subparagraph (B) is inconsistent with the erroneous inclusion, exclusion, omission, allowance, disallowance, recognition, or nonrecognition, as the case may be.
 
 #### (2) Correction not barred at time of erroneous action
 
 #### (A) Determination described in section 1312(3)(B)
 
-&emsp;&emsp;In the case of a determination described in section 1312(3)(B) (relating to certain exclusions from income), adjustment shall be made under this part only if assessment of a deficiency for the taxable year in which the item is includible or against the related taxpayer was not barred, by any law or rule of law, at the time the Secretary first maintained, in a notice of deficiency sent pursuant to section 6212 or before the Tax Court that the item described in section 1312(3)(B) should be included in the gross income of the taxpayer for the taxable year to which the determination relates.
+&emsp;&emsp;In the case of a determination described in section 1312(3)(B) (relating to certain exclusions from income), adjustment shall be made under this part only if assessment of a deficiency for the taxable year in which the item is includible or against the related taxpayer was not barred, by any law or rule of law, at the time the Secretary first maintained, in a notice of deficiency sent pursuant to section 6212 or before the Tax Court,that the item described in section 1312(3)(B) should be included in the gross income of the taxpayer for the taxable year to which the determination relates.
 
 #### (B) Determination described in section 1312(4)
 

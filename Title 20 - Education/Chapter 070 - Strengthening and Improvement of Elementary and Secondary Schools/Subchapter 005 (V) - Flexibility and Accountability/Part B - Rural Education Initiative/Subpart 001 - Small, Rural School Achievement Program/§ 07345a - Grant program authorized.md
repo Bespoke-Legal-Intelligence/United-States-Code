@@ -32,7 +32,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 #### (B) Special rule
 
-&emsp;&emsp;For any fiscal year for which the amount made available to carry out this part is $265,000,000 or more, subparagraph (A) shall be applied—
+&emsp;&emsp;For any fiscal year for which the amount made available to carry out this part is$265,000,000 or more, subparagraph (A) shall be applied—
 
 &emsp;&emsp;&emsp;(i) by substituting "$25,000" for "$20,000"; and
 

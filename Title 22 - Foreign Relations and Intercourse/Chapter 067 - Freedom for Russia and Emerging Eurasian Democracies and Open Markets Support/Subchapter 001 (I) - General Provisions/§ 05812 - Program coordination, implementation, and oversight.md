@@ -32,7 +32,7 @@ Any agency managing and implementing an assistance program for the independent s
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, knownas the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -244,7 +244,7 @@ Sec. 3. <i>Secretary of State-Additional Functions</i>. There are delegated to t
 
 (c) paragraph (3) of section 498A(c) of the Foreign Assistance Act \[22 U.S.C. 2295a(c)(3)\] and the requirement to make reports under that section regarding determinations under that paragraph;
 
-(d) subsection (d) under the heading "Assistance for the New Independent States of the Former Soviet Union" contained in Title II of Public Law 102–391 \[106 Stat. 1650\]; and
+(d) subsection (d) under the heading "Assistance for the New Independent States of the Former SovietUnion" contained in Title II of Public Law 102–391 \[106 Stat. 1650\]; and
 
 (e) section 592 of Public Law 102–391 \[106 Stat. 1691\], except to the extent otherwise provided in section 5(b) of this order.
 

@@ -1,6 +1,6 @@
 ### §1319. Geological Survey: specific appropriations required for monographs and bulletins
 
-The scientific reports known as the monographs and bulletins of the Geological Survey may not be published until specific and detailedestimates and specific appropriations based on these estimates are made for them. Engravings for the annual reports for monographs and bulletins, or of illustrations, sections, and maps, may not be made until specific estimates are submitted and specific appropriations made based on the estimates.
+The scientific reports known as the monographs and bulletins of the Geological Survey may not be published until specific and detailed estimates and specific appropriations based on these estimates are made for them. Engravings for the annual reports for monographs and bulletins, or of illustrations, sections, and maps, may not be made until specific estimates are submitted and specific appropriations made based on the estimates.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1269.)
 

@@ -115,7 +115,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income of the partnership shall be determined by not taking such guaranteed payment into account.
+&emsp;&emsp;Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income ofthe partnership shall be determined by not taking such guaranteed payment into account.
 
 #### (B) Guaranteed payment
 
@@ -205,7 +205,7 @@ Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted "part II of sub
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the amount of the required payment for the preceding applicable election year."
 
-Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess."
+Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) readas follows: "If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess."
 
 Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted "(other than credits and tax-exempt income)" for "(other than credits)".
 

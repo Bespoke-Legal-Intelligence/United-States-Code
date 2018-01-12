@@ -310,7 +310,7 @@ Projects.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to the requirements of this subsection, the Secretary of the Interior mayparticipate in an eligible desalination project in an amount equal to not more than 25 percent of the total cost of the eligible desalination project.
+In general.—Subject to the requirements of this subsection, the Secretary of the Interior may participate in an eligible desalination project in an amount equal to not more than 25 percent of the total cost of the eligible desalination project.
 
 &emsp;&emsp;"(B)
 
@@ -438,7 +438,7 @@ Pub. L. 99–662, title XI, §1121, Nov. 17, 1986, 100 Stat. 4239, provided that
 
 "(a) The Congress finds that—
 
-&emsp;"(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the High Plains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming;
+&emsp;"(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the HighPlains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming;
 
 &emsp;"(2) the High Plains region has become an important source of agricultural commodities and livestock for domestic and international markets, providing 15 percent of the Nation's supply of wheat, corn, feed grains, sorghum, and cotton, plus 38 percent of the value of livestock raised in the United States; and
 
@@ -462,7 +462,7 @@ Pub. L. 99–662, title XI, §1121, Nov. 17, 1986, 100 Stat. 4239, provided that
 
 Sec. 301. (a) There is hereby established the High Plains Study Council composed of—
 
-&emsp;" '(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the 'High Plains region'), or a designee of the Governor;
+&emsp;" '(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the "High Plains region"), or a designee of the Governor;
 
 &emsp;" '(2) a representative of the Department of Agriculture; and
 
@@ -476,7 +476,7 @@ Sec. 301. (a) There is hereby established the High Plains Study Council composed
 
 " '
 
-Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the 'State committee'). Each State committee shall be composed of no more than seven members, including—
+Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the "State committee"). Each State committee shall be composed of no more than seven members, including—
 
 &emsp;" '(1) a representative of the United States Department of Agriculture;
 

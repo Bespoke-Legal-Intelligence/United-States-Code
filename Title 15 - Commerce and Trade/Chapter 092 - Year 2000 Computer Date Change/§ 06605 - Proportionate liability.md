@@ -48,7 +48,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 &emsp;&emsp;&emsp;(i) made an untrue statement of a material fact, with actual knowledge that the statement was false;
 
-&emsp;&emsp;&emsp;(ii) omitted a fact necessary to make the statement not be misleading, with actualknowledge that, as a result of the omission, the statement was false; and
+&emsp;&emsp;&emsp;(ii) omitted a fact necessary to make the statement not be misleading, with actual knowledge that, as a result of the omission, the statement was false; and
 
 &emsp;&emsp;&emsp;(iii) knew that the plaintiff was reasonably likely to rely on the false statement.
 

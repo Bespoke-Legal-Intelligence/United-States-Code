@@ -72,7 +72,7 @@
 
 #### (2) Results of testing
 
-&emsp;The results of any such testing shall be sent directly to the Food and Drug Administration, except the Secretary may by regulation exempt test results from such submission requirement if the Secretary determines that such results do not contribute to the protection of public health. Test results required to be submitted may be submitted to the Food and Drug Administration through electronic means.
+&emsp;The results of any such testing shall be sent directly to the Food and Drug Administration,except the Secretary may by regulation exempt test results from such submission requirement if the Secretary determines that such results do not contribute to the protection of public health. Test results required to be submitted may be submitted to the Food and Drug Administration through electronic means.
 
 #### (3) Exception
 

@@ -2,7 +2,7 @@
 
 #### (a) Federal employees
 
-Notwithstanding any other provision of law, Executive order or regulation, a Federal employee who, with the approval of the Federal agency or the head of the department by which he is employed, leaves his position to enter the employ of the Agency shall not be considered for the purposes of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, as separated from his Federal position during such employment with the Agency but not to extend beyond the first three consecutive years of his entering the employ of the Agency: <i>Provided</i>, (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agency contributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the International Atomic Energy Agency. If such employee, within three years from the date of his employment with the Agency, and within ninety days from the date he is separated without prejudice from the Agency, applies to be restored to his Federal position, he shall within thirty days of such application be restored to such position or to a position of like seniority, status and pay.
+Notwithstanding any other provision of law, Executive order or regulation, a Federal employee who, with the approval of the Federal agency or the head of the department by which he is employed, leaves his position to enter the employ of the Agency shall not be considered for the purposes of subchapter III of chapter 83 of title 5, and chapter 87 of title 5, as separated from his Federal position during such employment with the Agency but not to extend beyond the first three consecutive years of his entering the employ of the Agency: <i>Provided</i>, (1) That he shall pay to the Director of the Office of Personnel Management within ninety days from the date he is separated without prejudice from the Agency all necessary deductions and agencycontributions for coverage under subchapter III of chapter 83 of title 5 for the period of his employment by the Agency, and (2) That all deductions and agency contributions necessary for continued coverage under chapter 87 of title 5, shall be made during the term of his employment with the International Atomic Energy Agency. If such employee, within three years from the date of his employment with the Agency, and within ninety days from the date he is separated without prejudice from the Agency, applies to be restored to his Federal position, he shall within thirty days of such application be restored to such position or to a position of like seniority, status and pay.
 
 #### (b) Presidential appointees or elected officers
 
@@ -14,15 +14,13 @@ The President is authorized to prescribe such regulations as may be necessary to
 
 (Pub. L. 85–177, §6, Aug. 28, 1957, 71 Stat. 454; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
-#### Repeals
-
-<i>Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, provided that: "Section 6(a) of the International Atomic Energy Agency Participation Act of 1957 \[subsec. (a) of this section\], is</i><i>repealed except that it shall be considered to remain in effect with respect to any employee subject thereto who is serving as an employee of the International Atomic Energy Agency on the date of enactment of this Act \[Aug. 28, 1958\] and who does not make the election referred to in section 6, and for the purposes of any rights and benefits vested thereunder prior to such date."</i>
-
-<i>Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660. See section 8 of Pub. L. 89–554, set out as a note preceding section 101 of Title 5, Government Organization and Employees.</i>
-
 #### Codification
 
 In subsecs. (a) and (b), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" and "the Civil Service Retirement Act" in each subsection and "chapter 87 of title 5" substituted for "the Federal Employees' Group Life Insurance Act of 1954, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### Repeals
+
+Pub. L. 85–795, §7, Aug. 28, 1958, 72 Stat. 962, which repealed subsec. (a) of this section, subject to a continuation provision for certain employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660. See section 8(a)–(c) of Pub. L. 89–554, set out as notes preceding section 101 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

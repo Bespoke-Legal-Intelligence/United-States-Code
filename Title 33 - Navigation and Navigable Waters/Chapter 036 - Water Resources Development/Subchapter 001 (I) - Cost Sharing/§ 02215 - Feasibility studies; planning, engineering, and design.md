@@ -52,7 +52,7 @@
 
 #### (b) Planning and engineering
 
-The Secretary shall not initiate any planning or engineering for a water resources projectuntil appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
+The Secretary shall not initiate any planning or engineering for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
 
 #### (c) Design
 
@@ -64,7 +64,7 @@ In this section, the following definitions apply:
 
 #### (1) Detailed project report
 
-&emsp;The term "detailed project report" means a report for a project not specifically authorized by Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
+&emsp;The term "detailed project report" means a report for a project not specifically authorizedby Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
 
 #### (2) Feasibility study
 

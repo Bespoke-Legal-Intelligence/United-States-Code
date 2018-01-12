@@ -76,7 +76,7 @@ Entry.—As used in this subsection, the term 'entry' includes a withdrawal from
 
 "(3)
 
-Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry onlyif a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
+Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 
 &emsp;"(A) to locate the entry; or
 

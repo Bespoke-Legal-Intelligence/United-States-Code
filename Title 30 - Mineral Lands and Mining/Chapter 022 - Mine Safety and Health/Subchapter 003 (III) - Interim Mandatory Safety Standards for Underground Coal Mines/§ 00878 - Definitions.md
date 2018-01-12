@@ -36,7 +36,7 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 &emsp;(i) "permissible" as applied to electric face equipment means all electrically operated equipment taken into or used inby the last open crosscut of an entry or a room of any coal mine the electrical parts of which, including, but not limited to, associated electrical equipment, components, and accessories, are designed, constructed, and installed, in accordance with the specifications of the Secretary, to assure that such equipment will not cause a mine explosion or mine fire, and the other features of which are designed and constructed, in accordance with the specifications of the Secretary, to prevent, to the greatest extent possible, other accidents in the use of such equipment; and the regulations of the Secretary or the Director of the United States Bureau of Mines in effect on the operative date of this subchapter relating to the requirements for investigation, testing, approval, certification, and acceptance of such equipment as permissible shall continue in effect until modified or superseded by the Secretary, except that the Secretary shall provide procedures, including, where feasible, testing, approval, certification, and acceptance in the field by an authorized representative of the Secretary, to facilitate compliance by an operator with the requirements of section 865(a) of this title within the periods prescribed therein;
 
-&emsp;(j) "low voltage" means up to and including 660 volts; "medium voltage" means voltagesfrom 661 to 1,000 volts; and "high voltage" means more than 1,000 volts;
+&emsp;(j) "low voltage" means up to and including 660 volts; "medium voltage" means voltages from 661 to 1,000 volts; and "high voltage" means more than 1,000 volts;
 
 &emsp;(k) Repealed. Pub. L. 95–164, title II, §202(b), Nov. 9, 1977, 91 Stat. 1317.
 
@@ -61,4 +61,8 @@ For the operative date of this subchapter, referred to in par. (i), see section 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

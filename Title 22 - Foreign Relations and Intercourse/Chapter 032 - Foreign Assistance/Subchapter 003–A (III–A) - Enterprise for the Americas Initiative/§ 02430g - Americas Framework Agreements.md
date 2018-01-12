@@ -14,7 +14,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;(3) require that country to make prompt disbursements from the Americas Fund to the administering body described in subsection (c);
 
-&emsp;(4) when appropriate, seek to maintain the value of the local currency resources of theAmericas Fund in terms of United States dollars;
+&emsp;(4) when appropriate, seek to maintain the value of the local currency resources of the Americas Fund in terms of United States dollars;
 
 &emsp;(5) specify, in accordance with subsection (d), the purposes for which amounts in an Americas Fund may be used; and
 

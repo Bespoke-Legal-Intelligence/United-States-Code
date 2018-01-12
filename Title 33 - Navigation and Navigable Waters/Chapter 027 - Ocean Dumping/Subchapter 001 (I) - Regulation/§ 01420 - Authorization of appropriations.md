@@ -22,3 +22,7 @@ There are authorized to be appropriated, for purposes of carrying out this subch
 
 <b>1974</b>—Pub. L. 93–472 substituted "fiscal years 1974 and 1975," for "fiscal year 1974,".
 
+#### Effective Date
+
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
+

@@ -14,7 +14,7 @@ Affiliate.—The term "affiliate" means, with respect to any person, any other p
 
 &emsp;(2)
 
-Cargo.—The term "cargo" does not include cargo to which title is held for non-commercial reasons and primarily for the purposeof evading the requirements of subsection (c)(3).
+Cargo.—The term "cargo" does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of subsection (c)(3).
 
 &emsp;(3)
 

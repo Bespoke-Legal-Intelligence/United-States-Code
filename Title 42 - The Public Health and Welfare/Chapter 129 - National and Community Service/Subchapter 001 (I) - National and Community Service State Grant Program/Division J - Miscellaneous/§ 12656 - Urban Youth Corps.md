@@ -110,7 +110,7 @@ Each participant in the Urban Youth Corps shall agree to participate in the Corp
 
 #### (2) Forbearance in the collection of Stafford loans
 
-&emsp;For purposes of section 1078 of title 20, in the case of borrowers who are participants in the Urban Youth Corps, upon written request, alender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant and eligible for a national service educational award under paragraph (1).
+&emsp;For purposes of section 1078 of title 20, in the case of borrowers who are participants in the Urban Youth Corps, upon written request, a lender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant and eligible for a national service educational award under paragraph (1).
 
 #### (h) Nondisplacement
 

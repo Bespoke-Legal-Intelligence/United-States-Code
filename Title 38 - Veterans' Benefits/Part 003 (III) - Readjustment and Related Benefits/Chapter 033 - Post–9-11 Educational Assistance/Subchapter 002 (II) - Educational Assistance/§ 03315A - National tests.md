@@ -8,6 +8,8 @@ In General.—An individual entitled to educational assistance under this chapte
 
 &emsp;(2) A national test providing an opportunity for course credit at an institution of higher learning as so described.
 
+&emsp;(3) A national test that evaluates prior learning and knowledge and provides an opportunity for course credit at an institution of higher learning as so described.
+
 (b)
 
 Amount.—The amount of educational assistance payable under this chapter for a test described in subsection (a) is the lesser of—
@@ -18,13 +20,27 @@ Amount.—The amount of educational assistance payable under this chapter for a 
 
 (c)
 
-Charge Against Entitlement.—The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
+Charge Against Entitlement.—The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable—
 
 &emsp;(1) for the academic year beginning on August 1, 2011, $1,460; or
 
 &emsp;(2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
-(Added Pub. L. 111–377, title I, §108(a)(1), Jan. 4, 2011, 124 Stat. 4118.)
+(Added Pub. L. 111–377, title I, §108(a)(1), Jan. 4, 2011, 124 Stat. 4118; amended Pub. L. 115–48, title I, §108(b), Aug. 16, 2017, 131 Stat. 978.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 108(b) of Pub. L. 115–48 applicable to a test taken on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–48, §108(b)(1), added par. (3).
+
+Subsec. (c). Pub. L. 115–48, §108(b)(2), in introductory provisions, substituted "shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable" for "shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–48 applicable to a test taken on or after Aug. 1, 2018, see section 108(d) of Pub. L. 115–48, set out as a note under section 3315 of this title.
 
 #### Effective Date
 

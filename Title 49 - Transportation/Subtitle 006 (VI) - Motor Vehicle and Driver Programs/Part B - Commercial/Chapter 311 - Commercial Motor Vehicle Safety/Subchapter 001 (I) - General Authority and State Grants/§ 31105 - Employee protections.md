@@ -46,7 +46,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (c)
 
-De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
+De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the requestof either party to such action, be tried by the court with a jury.
 
 (d)
 
@@ -90,7 +90,7 @@ Steps to address problem.—The Secretary of Homeland Security shall review and 
 
 (j)
 
-Definition.—In this section, "employee" means a driver of a commercial motor vehicle\(including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
+Definition.—In this section, "employee" means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
 &emsp;(1) directly affects commercial motor vehicle safety or security in the course of employment by a commercial motor carrier; and
 

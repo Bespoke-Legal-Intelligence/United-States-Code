@@ -14,7 +14,7 @@
 
 &emsp;(i) $5,000;
 
-&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part inthe second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
+&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
 
 &emsp;(iii) 90 percent of the institution's allocation under this part for the preceding fiscal year.
 
@@ -144,7 +144,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 105–244, §442(b)(4), substituted "subsection (c
 
 Subsec. (c). Pub. L. 105–244, §442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out "the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years," after "professional students," in introductory provisions.
+Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out "the Secretary, for academic year 1988–1989 shall usethe procedures employed for academic year 1986–1987, and, for any subsequent academic years," after "professional students," in introductory provisions.
 
 Subsec. (d). Pub. L. 105–244, §442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

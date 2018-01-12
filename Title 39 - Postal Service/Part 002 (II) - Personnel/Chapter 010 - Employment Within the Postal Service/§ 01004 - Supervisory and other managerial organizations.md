@@ -56,7 +56,7 @@
 
 (5) Not more than 15 days after the panel has made its recommendation, the Postal Service shall provide the supervisors' organization its final decision on the matters covered by factfinding under this subsection. The Postal Service shall give full and fair consideration to the panel's recommendation and shall explain in writing any differences between its final decision and the panel's recommendation.
 
-(g) Not earlier than 3 years after the date of the enactment of this subsection, and from time to time thereafter, the Postal Service or the supervisors' organization may request, by written notice to the Federal Mediation and Conciliation Service and to the other party, the creation of a panel to review the effectiveness of the procedures and the other provisions of this section and the provisions of section 1003 of this title. The panel shall be designated in accordance with the procedure established in subsection (f)(2) of this section. The panel shall make recommendations to the Congress for changes in this title as it finds appropriate.
+(g) Not earlier than 3 years after the date of the enactment of this subsection, and from time to time thereafter, the Postal Service or the supervisors' organization may request, by written notice to the Federal Mediation and Conciliation Service and to the other party, the creation of a panel to review the effectiveness of the procedures and the other provisions of this section and the provisions of section 1003 of this title.The panel shall be designated in accordance with the procedure established in subsection (f)(2) of this section. The panel shall make recommendations to the Congress for changes in this title as it finds appropriate.
 
 (h)(1) In order to ensure that postmasters and postmasters' organizations are afforded the same rights under this section as are afforded to supervisors and the supervisors' organization, subsections (c) through (g) shall be applied with respect to postmasters and postmasters' organizations—
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) if 2 or more postmasters' organizations exist, by treating such organizations as if they constituted a single organization, in accordance with such arrangements as such organizations shall mutually agree to.
 
-(2) If 2 or more postmasters' organizations exist, such organizations shall, in the case of any factfinding panel convened at the request ofsuch organizations (in accordance with paragraph (1)(B)), be jointly and severally liable for the cost of such panel, apart from the portion to be borne by the Postal Service (as determined under subsection (f)(4)).
+(2) If 2 or more postmasters' organizations exist, such organizations shall, in the case of any factfinding panel convened at the request of such organizations (in accordance with paragraph (1)(B)), be jointly and severally liable for the cost of such panel, apart from the portion to be borne by the Postal Service (as determined under subsection (f)(4)).
 
 (i) For purposes of this section—
 

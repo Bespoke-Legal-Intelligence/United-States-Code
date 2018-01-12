@@ -22,7 +22,7 @@
 
 &emsp;(10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 
-> Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
+> Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 (b) In addition, there may be appointed each year at the Academy cadets as follows:
 
@@ -54,7 +54,7 @@
 
 (f) Each candidate for admission nominated under paragraphs (3) through (9) of subsection (a) must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
-(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of theSenate and the Committee on Armed Services of the House of Representatives, subject to the following:
+(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, subject to the following:
 
 &emsp;(1) Cadets chargeable to each nominating authority named in subsection (a)(3) or (4) may not be limited to less than four.
 
@@ -86,15 +86,11 @@
 
 (2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Army Reserve Officers' Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
-(3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Army Senior Reserve Officers' Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
+(3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for thepreceding academic year in the total number of cadets enrolled in the Army Senior Reserve Officers' Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
 (4) In this subsection, the term "cadet strength limit" means the authorized maximum strength of the Corps of Cadets of the Academy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(28), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title V, §525, Jan. 28, 2008, 122 Stat. 104; Pub. L. 110–229, title VII, §718(a), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(a), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, §527(a), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, §1076(f)(38), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, §556(a), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, §566(a), Dec. 23, 2016, 130 Stat. 2138.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 114–328, div. A, title V, §566(a), (e), Dec. 23, 2016, 130 Stat. 2138, 2139, provided that, applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, subsection (a) of this section is amended by inserting at end of concluding provisions "When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours be</i><i>fore the official notification or announcement of the appointment is made." See 2016 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -232,7 +228,7 @@ Subsec. (g). Pub. L. 104–106, §1502(a)(1), substituted "Committee on Armed Se
 
 <b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–337 substituted "section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)" for "section 1331 of this title".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160 in concluding provisions substituted "10 persons" for "a principal candidate and nine alternates" and inserted at end "Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates.Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter."
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 in concluding provisions substituted "10 persons" for "a principal candidate and nine alternates" and inserted at end "Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter."
 
 <b>1990</b>—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(a)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: "One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States."
 
@@ -292,7 +288,7 @@ Pub. L. 114–328, div. A, title V, §566(e), Dec. 23, 2016, 130 Stat. 2139, pro
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–92, div. A, title V, §556(d), Nov. 25, 2015, 129 Stat. 825, provided that: "The amendments made by this section \[amending this section and sections 6954 and 9342 of this title\] shall apply with respect to the nomination of candidates for appointment to theUnited States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act \[Nov. 25, 2015\]."
+Pub. L. 114–92, div. A, title V, §556(d), Nov. 25, 2015, 129 Stat. 825, provided that: "The amendments made by this section \[amending this section and sections 6954 and 9342 of this title\] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act \[Nov. 25, 2015\]."
 
 #### Effective Date of 2009 Amendment
 
@@ -342,7 +338,7 @@ Pub. L. 106–65, div. A, title V, §531(a), Oct. 5, 1999, 113 Stat. 601, requir
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359, 1360, provided that authorized strength of Corps of Cadets of United States Military Academy, Air Force Cadets of United States Air Force Academy, and brigade of midshipmen of United States Naval Academy could not exceed 4,000 for each service academy for class years beginning after 1994, and contained provisions concerning effect of class reductions on certain appointments and requiring Comptroller General to make determinations and reports, prior to repeal by Pub. L. 106–65, div. A, title V, §531(b)(4), Oct. 5, 1999, 113 Stat. 602.
+Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359, 1360, provided that authorized strength ofCorps of Cadets of United States Military Academy, Air Force Cadets of United States Air Force Academy, and brigade of midshipmen of United States Naval Academy could not exceed 4,000 for each service academy for class years beginning after 1994, and contained provisions concerning effect of class reductions on certain appointments and requiring Comptroller General to make determinations and reports, prior to repeal by Pub. L. 106–65, div. A, title V, §531(b)(4), Oct. 5, 1999, 113 Stat. 602.
 
 Pub. L. 101–510, div. A, title V, §531, Nov. 5, 1990, 104 Stat. 1563, which required that number of appointments made for class entering service academy in 1991 not exceed the number 100 less than the number entering service academy in 1990, and that number of such appointments not exceed 1,000 in 1995, was repealed by Pub. L. 102–190, div. A, title V, §511(e), Dec. 5, 1991, 105 Stat. 1360.
 
@@ -352,5 +348,5 @@ Pub. L. 94–106, title VIII, §803(a), Oct. 7, 1975, 89 Stat. 537, provided tha
 
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 
-Pub. L. 94–106, title VIII, §803(c), Oct. 7, 1975, 89 Stat. 538, provided that: "It is the sense of Congress that, subject to the provisions of subsection (a) \[note set out above\], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs ofthe services, with the implementation of such program upon enactment of this Act \[Oct. 7, 1975\]."
+Pub. L. 94–106, title VIII, §803(c), Oct. 7, 1975, 89 Stat. 538, provided that: "It is the sense of Congress that, subject to the provisions of subsection (a) \[note set out above\], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act \[Oct. 7, 1975\]."
 

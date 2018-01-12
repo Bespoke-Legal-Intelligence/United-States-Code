@@ -42,7 +42,7 @@
 
 #### (B) State medicaid "wrap-around" option
 
-&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependentchild. In the case of such coverage offered by an employer of the caretaker relative—
+&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependent child. In the case of such coverage offered by an employer of the caretaker relative—
 
 &emsp;&emsp;&emsp;(i) the State may require the caretaker relative, as a condition of extension of coverage under this subsection for the caretaker and the caretaker's family, to make application for such employer coverage, but only if—
 
@@ -70,7 +70,7 @@
 
 #### (i) Notice during initial extension period of option and requirements
 
-&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a), shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
+&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a), shall notify the family of the family's option for additional extended assistanceunder this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
 
 #### (ii) Notice during additional extension period of reporting requirements and premiums
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines that the family's average gross monthly earnings (less such costs for such child care as is necessary for the employment of the caretaker relative) during the immediately preceding 3-month period exceed 185 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
-> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
+> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>1</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
 
 #### (B) Notice before termination
 
@@ -142,7 +142,7 @@
 
 #### (B) Elimination of most non-acute care benefits
 
-&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>2</sup> of section 1396d(a) of this title.
+&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>1</sup> of section 1396d(a) of this title.
 
 #### (C) State medicaid "wrap-around" option
 
@@ -246,7 +246,7 @@ In this section, the term "caretaker relative" has the meaning of such term as u
 
 &emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §202, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §212(a), Apr. 16, 2015, 129 Stat. 152.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §202, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §212(a), Apr. 16, 2015, 129 Stat. 152.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ Subsec. (g). Pub. L. 111–5, §5004(d), added subsec. (g).
 
 Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of "(i)(IV), (i)(VI), (i)(VII)," for "(i)(IV) (i)(VI) (i)(VII),,", was executed by making the substitution for "(i)(IV), (i)(VI) (i)(VII),," to reflect the probable intent of Congress.
 
-<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out "less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance withsection 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title" after "(as defined in section 1396b(m)(1)(A) of this title)".
+<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out "less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title" after "(as defined in section 1396b(m)(1)(A) of this title)".
 
 Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted "medicaid managed care organization" for "health maintenance organization" in two places.
 
@@ -366,9 +366,7 @@ For provisions that certain references to provisions of part A (§601 et seq.) o
 
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 
-Pub. L. 100–485, title III, §303(c), Oct. 13, 1988, 102 Stat. 2392, directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus oncosts of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
+Pub. L. 100–485, title III, §303(c), Oct. 13, 1988, 102 Stat. 2392, directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus on costs of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

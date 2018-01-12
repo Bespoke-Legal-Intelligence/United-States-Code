@@ -2,7 +2,7 @@
 
 #### (a) Cost of service
 
-In undertaking the consideration and making the determination under section 2621 of this title with respect to the standard concerning cost of service established by section 2621(d)(1) of this title, the costs of providing electric service to each class of electric consumers shall, to the maximum extent practicable, be determined on the basis of methods prescribed by the State regulatory authority (in the case of a State regulated electric utility) or by the electric utility (in the case of a nonregulated electric utility). Such methods shall to the maximum extent practicable—
+In undertaking the consideration and making the determination under section 2621 of this title with respect to the standard concerning cost of service established by section 2621(d)(1) of this title, the costs of providing electric service to each class of electric consumers shall, to the maximum extent practicable, be determined on the basis of methods prescribed by the Stateregulatory authority (in the case of a State regulated electric utility) or by the electric utility (in the case of a nonregulated electric utility). Such methods shall to the maximum extent practicable—
 
 &emsp;(1) permit identification of differences in cost-incurrence, for each such class of electric consumers, attributable to daily and seasonal time of use of service and
 
@@ -54,7 +54,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 &emsp;(B) not later than thirty days (sixty days in the case of an electric utility which uses a bimonthly billing system) after such utility's application for any change in a rate schedule applicable to such consumer (or proposal of such a change in the case of a nonregulated utility).
 
-(2) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers not less frequently than once each year—
+(2) For purposes of the standard for information to consumers established by section2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers not less frequently than once each year—
 
 &emsp;(A) a clear and concise summary of the existing rate schedules applicable to each of the major classes of its electric consumers for which there is a separate rate, and
 

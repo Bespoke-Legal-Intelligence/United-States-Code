@@ -10,7 +10,7 @@ The production of a person's books, records, or other documentary evidence shall
 
 #### (c) Performance of prohibited act or failure to perform required act
 
-Any person who willfully performs any act prohibited or willfully fails to perform any act required by the above provisions of this section, or any rule, regulation, or order thereunder,shall upon conviction be fined not more than $10,000 or imprisoned for not more than one year or both.
+Any person who willfully performs any act prohibited or willfully fails to perform any act required by the above provisions of this section, or any rule, regulation, or order thereunder, shall upon conviction be fined not more than $10,000 or imprisoned for not more than one year or both.
 
 #### (d) Protection of confidentiality; sanction for violation
 
@@ -20,7 +20,7 @@ Information obtained under this section which the President deems confidential o
 
 Any person subpoenaed under this section shall have the right to make a record of his testimony and to be represented by counsel.
 
-(Sept. 8, 1950, ch. 932, title VII, §705, 64 Stat. 816; July 31, 1951, ch. 275, title I, §109(d), 65 Stat. 139; June 30, 1952, ch. 530, title I, §117, 66 Stat. 306; June 30, 1953, ch. 171, §9, 67 Stat. 131; Pub. L. 91–452, title II, §251, Oct. 15, 1970, 84 Stat. 931; Pub. L. 102–558, title I, §142, Oct. 28, 1992, 106 Stat. 4217; Pub. L. 108–195, §4, Dec. 19, 2003, 117 Stat. 2893.)
+(Sept. 8, 1950, ch. 932, title VII, §705, 64 Stat. 816; July 31, 1951, ch. 275, title I, §109(d), 65 Stat. 139; June 30, 1952, ch. 530, title I, §117, 66 Stat. 306; June 30, 1953, ch. 171, §9, 67 Stat. 131; Pub. L.91–452, title II, §251, Oct. 15, 1970, 84 Stat. 931; Pub. L. 102–558, title I, §142, Oct. 28, 1992, 106 Stat. 4217; Pub. L. 108–195, §4, Dec. 19, 2003, 117 Stat. 2893.)
 
 #### Termination of Section
 

@@ -8,7 +8,7 @@
 
 #### (2) Program coordination
 
-&emsp;A State program under this section shall be coordinated closely with State and local waterquality plans and programs developed pursuant to sections 1288, 1313, 1329, and 1330 of title 33 and with State plans developed pursuant to the Coastal Zone Management Act of 1972, as amended by this Act \[16 U.S.C. 1451 et seq.\]. The program shall serve as an update and expansion of the State nonpoint source management program developed under section 1329 of title 33, as the program under that section relates to land and water uses affecting coastal waters.
+&emsp;A State program under this section shall be coordinated closely with State and local water quality plans and programs developed pursuant to sections 1288, 1313, 1329, and 1330 of title 33 and with State plans developed pursuant to the Coastal Zone Management Act of 1972, as amended by this Act \[16 U.S.C. 1451 et seq.\]. The program shall serve as an update and expansion of the State nonpoint source management program developed under section 1329 of title 33, as the program under that section relates to land and water uses affecting coastal waters.
 
 #### (b) Program contents
 
@@ -32,7 +32,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (4) Technical assistance
 
-&emsp;The provision of technical and other assistance to local governments and the public for implementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
+&emsp;The provision of technical and other assistance to local governments and the public forimplementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
 
 #### (5) Public participation
 
@@ -76,7 +76,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(D) 30 percent for fiscal year 1999 and each fiscal year thereafter.
 
-> &emsp;The Secretary shall make amounts withheld under this paragraph available to coastalStates having programs approved under this section.
+> &emsp;The Secretary shall make amounts withheld under this paragraph available to coastal States having programs approved under this section.
 
 #### (4) Withholding water pollution control assistance
 
@@ -108,7 +108,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Review
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approvalunder section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
 
 #### (2) Recommendation
 
@@ -152,7 +152,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 &emsp;&emsp;(E) a description of the factors which should be taken into account in adapting the measures to specific sites or locations; and
 
-&emsp;&emsp;(F) any necessary monitoring techniques to accompany the measures to assess overtime the success of the measures in reducing pollution loads and improving water quality.
+&emsp;&emsp;(F) any necessary monitoring techniques to accompany the measures to assess over time the success of the measures in reducing pollution loads and improving water quality.
 
 #### (3) Publication
 

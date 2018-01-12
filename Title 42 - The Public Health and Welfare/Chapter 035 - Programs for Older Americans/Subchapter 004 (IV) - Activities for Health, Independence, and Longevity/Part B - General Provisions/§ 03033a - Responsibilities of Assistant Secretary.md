@@ -86,11 +86,11 @@ Another prior section 3035f, Pub. L. 89–73, title IV, §425, as added Pub. L. 
 
 Section 3035g, Pub. L. 89–73, title IV, §428, as added Pub. L. 100–175, title I, §157(a), Nov. 29, 1987, 101 Stat. 955; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to consumer protection demonstration projects for services provided in the home.
 
-Another prior section 3035g, Pub. L. 89–73, title IV, §431, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, related to mortgage insurance grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3035g, Pub. L. 89–73, title IV, §431, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct.18, 1978, 92 Stat. 1543, related to mortgage insurance grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Section 3035h, Pub. L. 89–73, title IV, §429, as added Pub. L. 102–375, title IV, §409, Sept. 30, 1992, 106 Stat. 1249; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to demonstration projects for multigenerational activities.
 
-Another prior section 3035h, Pub. L. 89–73, title IV, §432, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct.18, 1978, 92 Stat. 1545, related to mortgage interest grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3035h, Pub. L. 89–73, title IV, §432, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1545, related to mortgage interest grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Section 3035i, Pub. L. 89–73, title IV, §429A, as added Pub. L. 102–375, title IV, §410, Sept. 30, 1992, 106 Stat. 1251; amended Pub. L. 103–171, §3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1990, related to supportive services in the federally assisted housing demonstration program.
 

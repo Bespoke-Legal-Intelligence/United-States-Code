@@ -58,7 +58,7 @@
 
 #### (3) Reciprocal benefits
 
-&emsp;In order to ensure that a foreign country that is not a party to a trade agreement entered into under section 4202(b) of this title does not receive benefits under the agreement unless the country is also subject to the obligations under the agreement, the implementing bill submitted with respect to the agreement shall provide that the benefits and obligations under the agreement apply only to theparties to the agreement, if such application is consistent with the terms of the agreement. The implementing bill may also provide that the benefits and obligations under the agreement do not apply uniformly to all parties to the agreement, if such application is consistent with the terms of the agreement.
+&emsp;In order to ensure that a foreign country that is not a party to a trade agreement entered into under section 4202(b) of this title does not receive benefits under the agreement unless the country is also subject to the obligations under the agreement, the implementing bill submitted with respect to the agreement shall provide that the benefits and obligations under the agreement apply only to the parties to the agreement, if such application is consistent with the terms of the agreement. The implementing bill may also provide that the benefits and obligations under the agreement do not apply uniformly to all parties to the agreement, if such application is consistent with the terms of the agreement.
 
 #### (4) Disclosure of commitments
 
@@ -122,7 +122,7 @@
 
 #### (A) Reporting of resolution
 
-&emsp;&emsp;If, when the Committee on Finance of the Senate meets on whether to report an implementing bill with respect to a trade agreement or agreements entered into under section 4202(b) of this title, the committee failsto favorably report the bill, the committee shall report a resolution described in subparagraph (C).
+&emsp;&emsp;If, when the Committee on Finance of the Senate meets on whether to report an implementing bill with respect to a trade agreement or agreements entered into under section 4202(b) of this title, the committee fails to favorably report the bill, the committee shall report a resolution described in subparagraph (C).
 
 #### (B) Applicability of trade authorities procedures
 
@@ -176,7 +176,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section 4202(b) of this title with a country listed asa tier 3 country in the most recent annual report on trafficking in persons.
+&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section 4202(b) of this title with a country listed as a tier 3 country in the most recent annual report on trafficking in persons.
 
 #### (B) Exception
 
@@ -250,7 +250,7 @@ The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, re
 
 <b>2016</b>—Subsec. (b)(5). Pub. L. 114–125, §914(f)(2), substituted "section 4201(b)(16)(C)" for "section 4201(b)(15)(C)".
 
-Subsec. (b)(6)(A). Pub. L. 114–125, §914(e)(2), substituted "listed as a tier 3 country in the most recentannual report on trafficking in persons" for "to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a 'tier 3' country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(1))".
+Subsec. (b)(6)(A). Pub. L. 114–125, §914(e)(2), substituted "listed as a tier 3 country in the most recent annual report on trafficking in persons" for "to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a 'tier 3' country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(1))".
 
 Subsec. (b)(6)(B) to (E). Pub. L. 114–125, §914(e)(1), added subpars. (B) to (E) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In this paragraph, the term 'minimum standards for the elimination of trafficking' means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106)."
 

@@ -58,7 +58,7 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 #### (2) Contents of application
 
-&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental Protection Agency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.
+&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental ProtectionAgency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.
 
 #### (3) Review period
 
@@ -78,7 +78,7 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a)for the taxable year may, at the election of the organization, be apportioned among patrons eligible to share in patronage dividends on the basis of the quantity or value of business done with or for such patrons for the taxable year.
+&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons eligible to share in patronage dividends on the basis of the quantity or value of business done with or for such patrons for the taxable year.
 
 #### (B) Form and effect of election
 

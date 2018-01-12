@@ -22,7 +22,7 @@ In carrying out the Congressional Award Program, the Board shall—
 
 #### (c) Presentation of awards
 
-The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information andviews with Members of Congress in connection with the presentation of the awards.
+The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress in connection with the presentation of the awards.
 
 #### (d) Scholarships for recipients of Congressional Award Gold, Silver, and Bronze Medals
 

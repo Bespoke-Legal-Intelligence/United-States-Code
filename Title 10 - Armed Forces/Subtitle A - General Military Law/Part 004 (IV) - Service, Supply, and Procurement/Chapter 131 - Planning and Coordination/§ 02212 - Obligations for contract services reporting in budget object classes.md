@@ -26,7 +26,7 @@ Engineering and technical services.—The term "engineering and technical servic
 
 (c)
 
-Proper Classification of Advisory and Assistance Services.—Before the submission to the Office of Management and Budget of the proposed Department of Defense budget for inclusion in the President's budget for a fiscal yearpursuant to section 1105 of title 31, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall conduct a review of Department of Defense services expected to be performed as contract services during the fiscal year for which that budget is to be submitted in order to ensure that those services that are advisory and assistance services (as defined in accordance with subsection (b)) are in fact properly classified, in accordance with that subsection, in the advisory and assistance services object class.
+Proper Classification of Advisory and Assistance Services.—Before the submission to the Office of Management and Budget of the proposed Department of Defense budget for inclusion in the President's budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall conduct a review of Department of Defense services expected to be performed as contract services during the fiscal year for which that budget is to be submitted in order to ensure that those services that are advisory and assistance services (as defined in accordance with subsection (b)) are in fact properly classified, in accordance with that subsection, in the advisory and assistance services object class.
 
 (d)
 
@@ -70,7 +70,7 @@ Subsec. (f)(4). Pub. L. 106–65, §1066(a)(17)(B), substituted "as of October 1
 
 #### Change of Name
 
-Reference to Under Secretary of Defense for Acquisition and Technology deemed to refer to Under Secretary of Defense for Acquisition, Technology, and Logistics, pursuant to section 911(a)(1) of Pub. L. 106–65, set out as a note under section 133 of this title.
+Reference to Under Secretary of Defense for Acquisition and Technology deemed to refer to Under Secretary of Defense for Acquisition, Technology, and Logistics, pursuant to section 911(a)(1) of Pub. L. 106–65, formerly set out as a note under section 133 of this title.
 
 #### Transition
 

@@ -66,7 +66,7 @@ Amendment by Pub. L. 105–34 applicable to any tax shelter, as defined in secti
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1532(b), Oct. 22, 1986, 100 Stat. 2750, provided that: "The amendment made by this section \[amending this section\] shall apply to failures with respect to tax shelters interests in which are first offered for sale after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XV, §1532(b), Oct. 22, 1986, 100 Stat. 2750, provided that: "The amendment made bythis section \[amending this section\] shall apply to failures with respect to tax shelters interests in which are first offered for sale after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 Pub. L. 99–514, title XV, §1533(b), Oct. 22, 1986, 100 Stat. 2750, provided that: "The amendment made by this section \[amending this section\] shall apply to returns filed after the date of the enactment of this Act \[Oct 22, 1986\]."
 

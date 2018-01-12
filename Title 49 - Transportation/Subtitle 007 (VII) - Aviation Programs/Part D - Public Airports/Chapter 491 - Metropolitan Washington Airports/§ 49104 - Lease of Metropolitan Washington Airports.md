@@ -2,9 +2,9 @@
 
 (a)
 
-General.—The lease between the Secretary of Transportation and the Metropolitan Washington Airports Authority under section 6005(a) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378), for the Metropolitan Washington Airports must provide during its 50-year term at least the following:
+General.—The lease between the Secretary of Transportation and the Metropolitan Washington Airports Authority under section 6005(a) of the Metropolitan Washington AirportsAct of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378), for the Metropolitan Washington Airports must provide during its 50-year term at least the following:
 
-&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop theMetropolitan Washington Airports as a unit and as primary airports serving the Metropolitan Washington area.
+&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop the Metropolitan Washington Airports as a unit and as primary airports serving the Metropolitan Washington area.
 
 &emsp;(2)(A) In this paragraph, "airport purposes" means a use of property interests (except a sale) for—
 
@@ -46,7 +46,7 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;(7) The Comptroller General may conduct periodic audits of the activities and transactions of the Airports Authority in accordance with generally accepted management principles, and under regulations the Comptroller General may prescribe. An audit shall be conducted where the Comptroller General considers it appropriate. All records and property of the Airports Authority shall remain in possession and custody of the Airports Authority.
 
-&emsp;(8) The Airports Authority shall develop a code of ethics and financial disclosure to ensure the integrity of all decisions made by its board of directors and employees. The code shall include standards by which members of the board will decide, for purposes of section 49106(d) of this title, what constitutes a substantial financial interest and the circumstances under which an exception to the conflict of interest prohibition may be granted.
+&emsp;(8) The Airports Authority shall develop a code of ethics and financial disclosure to ensure the integrity of all decisions made by its board of directors and employees. The codeshall include standards by which members of the board will decide, for purposes of section 49106(d) of this title, what constitutes a substantial financial interest and the circumstances under which an exception to the conflict of interest prohibition may be granted.
 
 &emsp;(9) A landing fee imposed for operating an aircraft or revenues derived from parking automobiles—
 

@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;All records required to be maintained and preserved in accordance with subsection (a) shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
+&emsp;All records required to be maintained and preserved in accordance with subsection (a) shall be subject at any time and from time totime to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
 
 #### (2) Availability
 
@@ -30,7 +30,7 @@
 
 #### (3) Commission action
 
-&emsp;The Commission shall exercise its authority under this subsection with due regard for thebenefits of internal compliance policies and procedures and the effective implementation and operation thereof.
+&emsp;The Commission shall exercise its authority under this subsection with due regard for the benefits of internal compliance policies and procedures and the effective implementation and operation thereof.
 
 #### (4) Records of persons with custody or use
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 111–203, §929I(b)(3), redesignated subsec. (f) as (e).
 
 "(a) Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and preserve for such period or periods as the Commission may prescribe by rules and regulations, such accounts, books, and other documents as constitute the record forming the basis for financial statements required to be filed pursuant to section 80a–29 of this title, and of the auditor's certificates relating thereto. Every investment adviser not a majority-owned subsidiary of, and every depositor of any registered investment company, and every principal underwriter for any registered investment company other than a closed-end company, shall maintain and preserve for such period or periods as the Commission shall prescribe by rules and regulations, such accounts, books, and other documents as are necessary or appropriate to record such person's transactions with such registered company.
 
-"(b) All accounts, books, and other records, required to be maintained and preserved by any person pursuantto subsection (a) of this section, shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require."
+"(b) All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section, shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require."
 
 Subsecs. (c), (d). Pub. L. 104–290, §207(3), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 

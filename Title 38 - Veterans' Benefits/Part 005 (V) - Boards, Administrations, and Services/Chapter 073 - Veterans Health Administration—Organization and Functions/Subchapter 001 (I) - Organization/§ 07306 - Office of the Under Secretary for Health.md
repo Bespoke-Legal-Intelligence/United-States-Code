@@ -64,7 +64,7 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: "The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration."
+<b>2010</b>—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: "The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and whoshall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration."
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–135 inserted ", and report directly to," after "responsible to".
 

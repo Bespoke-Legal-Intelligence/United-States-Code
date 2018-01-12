@@ -1,6 +1,6 @@
 ### §8312. Conviction of certain offenses
 
-(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
+(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired payon the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual—
 
 &emsp;(1) was convicted, before, on, or after September 1, 1954, of an offense named by subsection (b) of this section, to the extent provided by that subsection; or
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(C) section 783 (conspiracy and communication or receipt of classified information) of title 50 or section 601 of the National Security Act of 1947 (50 U.S.C. 421) <sup>1</sup> (relating to intelligence identities).
 
-&emsp;(2) An offense within the purview of a current article of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which the current article is based, as the case may be, on the basis of charges and specifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
+&emsp;(2) An offense within the purview of a current article of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which the current article is based, as the case may be, on the basis of charges andspecifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
 
 &emsp;(3) Perjury committed under the statutes of the United States or the District of Columbia in falsely denying the commission of an act which constitutes an offense within the purview of a statute named by paragraph (1) of this subsection.
 
@@ -74,7 +74,11 @@
 
 (2) Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs <sup>2</sup> (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 559; Pub. L. 92–128, §2(b), Sept. 25, 1971, 85 Stat. 348; Pub. L. 99–569, title VI, §603, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 103–337, div. A, title VI, §639(a), Oct. 5, 1994, 108 Stat. 2791; Pub. L. 103–359, title VIII, §805, Oct. 14, 1994, 108 Stat. 3441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 559; Pub. L. 92–128, §2(b), Sept. 25, 1971, 85 Stat. 348; Pub. L. 99–569, title VI, §603, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 103–337, div. A, title VI, §639(a), Oct. 5, 1994, 108 Stat. 2791; Pub. L. 103–359, title VIII, §805, Oct. 14, 1994, 108 Stat. 3441; Pub. L. 115–91, div. A, title X, §1081(c)(3), Dec. 12, 2017, 131 Stat. 1599.)
+
+#### Amendment of Subsection (b)(2)(A)
+
+<i>Pub. L. 115–91, div. A, title X, §1081(c)(3), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 (see Tables for classification) take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (b)(2)(A) of this section is amended by striking "article 106 (spies), or article 106a (espionage)" and inserting "article 103a (espionage), or article 106 (spies)".</i>
 
 Historical and Revision Notes
 
@@ -106,6 +110,8 @@ The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is t
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b)(2)(A). Pub. L. 115–91 substituted "article 103a (espionage), or article 106 (spies)" for "article 106 (spies), or article 106a (espionage)".
+
 <b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted ", article 106 (spies), or article 106a (espionage)" for "or article 106 (spies)".
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
@@ -113,6 +119,10 @@ Subsec. (d). Pub. L. 103–359 added subsec. (d).
 <b>1986</b>—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
 <b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out ", 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)" after "classified information)".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of Title 10, Armed Forces.
 
 #### Effective Date of 1994 Amendment
 

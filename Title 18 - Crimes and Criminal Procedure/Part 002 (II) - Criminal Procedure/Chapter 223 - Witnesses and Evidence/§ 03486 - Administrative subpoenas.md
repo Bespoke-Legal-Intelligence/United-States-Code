@@ -28,13 +28,13 @@ Authorization.—(1)(A) In any investigation of—
 
 &emsp;(i) the term "Federal offense involving the sexual exploitation or abuse of children" means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years; and
 
-&emsp;(ii) the term "sex offender" means an individual required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).
+&emsp;(ii) the term "sex offender" means an individual required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).<sup>2</sup>
 
 (2) A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
 
 (3) The production of records relating to a Federal health care offense shall not be required under this section at any place more than 500 miles distant from the place where the subpoena for the production of such records is served. The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.
 
-(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
+(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that arepaid witnesses in the courts of the United States.
 
 (5) At any time before the return date specified in the summons, the person or entity summoned may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the summons, or a prohibition of disclosure ordered by a court under paragraph (6).
 
@@ -66,7 +66,7 @@ Service.—A subpoena issued under this section may be served by any person who 
 
 (c)
 
-Enforcement.—In the case of contumacy by or refusal to obey a subpoena issued to anyperson, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpoenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpoena. The court may issue an order requiring the subpoenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony concerning the production and authentication of such records. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
+Enforcement.—In the case of contumacy by or refusal to obey a subpoena issued to any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpoenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpoena. The court may issue an order requiring the subpoenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony concerning the production and authentication of such records. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
 
 (d)
 
@@ -84,7 +84,7 @@ Limitation on Use.—(1) Health information about an individual that is disclose
 
 #### References in Text
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Prior Provisions
 
@@ -126,7 +126,9 @@ Subsec. (a)(1). Pub. L. 105–277 inserted "or any act or activity involving a F
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security,and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "3056(a),".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

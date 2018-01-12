@@ -16,7 +16,7 @@ The Congress finds—
 
 &emsp;(7) present knowledge of methods to prevent mental illness through discovery and elimination of its causes and through early detection and treatment is too limited;
 
-&emsp;(8) a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon acooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
+&emsp;(8) a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon a cooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
 
 &emsp;(9) because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatric nurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
 

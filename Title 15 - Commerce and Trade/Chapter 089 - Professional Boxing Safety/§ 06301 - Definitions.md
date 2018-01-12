@@ -114,7 +114,7 @@ Pub. L. 106–210, §2, May 26, 2000, 114 Stat. 321, provided that: "The Congres
 
 &emsp;"(5) Open competition in the professional boxing industry has been significantly interfered with by restrictive and anticompetitive business practices of certain promoters and sanctioning bodies, to the detriment of the athletes and the ticket-buying public. Common practices of promoters and sanctioning organizations represent restraints of interstate trade in the United States.
 
-&emsp;"(6) It is necessary and appropriate to establish national contracting reforms to protect professional boxers and prevent exploitive business practices, and to require enhanced financial disclosures to Stateathletic commissions to improve the public oversight of the sport."
+&emsp;"(6) It is necessary and appropriate to establish national contracting reforms to protect professional boxers and prevent exploitive business practices, and to require enhanced financial disclosures to State athletic commissions to improve the public oversight of the sport."
 
 #### Purposes of 2000 Amendment
 

@@ -20,7 +20,7 @@ Subsection (a) shall not apply to—
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6801(a)(2), Dec. 19, 1989, 103 Stat. 2297, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to years beginning after December 31, 1986."
+Pub. L. 101–239, title VI, §6801(a)(2), Dec. 19, 1989, 103 Stat. 2297, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to years beginning after December 31, 1986."
 
 #### Effective Date
 

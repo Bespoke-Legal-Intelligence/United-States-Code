@@ -74,7 +74,7 @@ Appointees from private sector.—Each member of the Board appointed from the pr
 
 &emsp;(3)
 
-Temporary and intermittent personnel.—An individual hired under subsection (e)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
+Temporary and intermittent personnel.—An individual hired under subsection (e)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed thedaily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
 
 &emsp;(4)
 
@@ -172,7 +172,7 @@ Detailed and Temporary Personnel.—For service on advisory committees and task 
 
 &emsp;(1) the Board, with the consent of the head of a Federal agency, may use, without reimbursement, personnel of that agency; and
 
-&emsp;(2) the Administrator, after consultation with the Board, may procure temporary and intermittent services of personnel under section 3109(b) of title 5.
+&emsp;(2) the Administrator, after consultation with the Board, may procure temporary andintermittent services of personnel under section 3109(b) of title 5.
 
 (i)
 

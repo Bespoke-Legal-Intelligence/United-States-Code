@@ -140,7 +140,7 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 #### (6) Definition
 
-&emsp;In this subsection, the term "Commissioner" means the Commissioner responsiblefor United States Customs and Border Protection in the Department of Homeland Security.
+&emsp;In this subsection, the term "Commissioner" means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
 
 (Pub. L. 95–410, title III, §301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, §2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, §702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, §13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, §8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 100–203, title IX, §9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, §7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, §3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, §311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973; Pub. L. 109–347, title IV, §403, Oct. 13, 2006, 120 Stat. 1926; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall promulgate regulations to address administrative and enforcement issues involved in carrying out the margin protection program.
+The Secretary shall promulgate regulations to address administrative and enforcement issuesinvolved in carrying out the margin protection program.
 
 #### (b) Reconstitution
 

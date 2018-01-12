@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the projected amount of the assets of the plan (as of a proposed date of final distribution of assets),
 
-&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities (determined as of the proposed termination date) under the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities\(determined as of the proposed termination date) under the plan, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) it determines, based on the notice sent under paragraph (2)(A) of subsection (b), that there is reason to believe that the plan is not sufficient for benefit liabilities,
 
-&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believethat the plan is not sufficient for benefit liabilities, or
+&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
 
 &emsp;&emsp;&emsp;&emsp;(III) it determines that any other requirement of subparagraph (A) or (B) of this paragraph or of subsection (a)(2) has not been met, unless it further determines that the issuance of such notice would be inconsistent with the interests of participants and beneficiaries.
 
@@ -108,7 +108,7 @@
 
 #### (B) Certification to the corporation of final distribution of assets
 
-&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
+&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send anotice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
 
 #### (4) Continuing authority
 
@@ -140,7 +140,7 @@
 
 #### (C) Fully funded
 
-&emsp;&emsp;For purposes of subparagraph (A), a plan shall be treated as fully funded with respectto any transaction or series of transactions if—
+&emsp;&emsp;For purposes of subparagraph (A), a plan shall be treated as fully funded with respect to any transaction or series of transactions if—
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction or series of transactions which occur in a plan year beginning before January 1, 2008, the funded current liability percentage determined under section 1082(d) of this title for the plan year is at least 100 percent, and
 
@@ -250,7 +250,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title 5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
+&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
 
 #### (iii) Form and manner of information; charges
 
@@ -310,7 +310,7 @@
 
 &emsp;&emsp;&emsp;The plan administrator shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2) and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
+&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2)and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet the requirements of clause (ii) commencing on the date on which the plan administrator or the corporation makes a finding under subparagraph (C)(ii).
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22,1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
 #### References in Text
 
@@ -428,7 +428,7 @@ Subsec. (c)(2)(A)(iv). Pub. L. 100–203, §9314(a)(2)(A), added cl. (iv) and st
 
 Subsec. (c)(2)(B). Pub. L. 100–203, §9313(b)(1)(A), substituted "a member" for "a substantial member" in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted"proposed termination date" for "termination date" in subcls. (I) and (II).
+Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted "proposed termination date" for "termination date" in subcls. (I) and (II).
 
 Pub. L. 100–203, §9313(b)(4), inserted "(or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought)" in subcl. (I).
 
@@ -500,7 +500,7 @@ Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Em
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice ofnoncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
+Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
 
 Pub. L. 103–465, title VII, §778(b)(2), Dec. 8, 1994, 108 Stat. 5050, provided that: "The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\]."
 
@@ -582,7 +582,7 @@ Terminations for which notices of sufficiency have been issued.—In the case of
 
 &emsp;&emsp;"(C)
 
-Terminations proceeding as distress termination.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirementsof section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
+Terminations proceeding as distress termination.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirements of section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
 
 &emsp;&emsp;"(D)
 
@@ -624,7 +624,7 @@ Pub. L. 99–272, title XI, §11008(d), Apr. 7, 1986, 100 Stat. 247, provided th
 
 "(1)
 
-Requirements to be met before final distribution of assets.—In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
+Requirements to be met before final distribution of assets.—In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assetspursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
 
 &emsp;"(A) determines that the assets of the plan are sufficient for benefit commitments (within the meaning of section 4041(d)(1) of the Employee Retirement Income Security Act of 1974 (as amended by section 11007) \[29 U.S.C. 1341(d)(1)\]) under the plan, and
 

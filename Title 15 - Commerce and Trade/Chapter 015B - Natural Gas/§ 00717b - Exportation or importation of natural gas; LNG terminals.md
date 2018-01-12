@@ -2,7 +2,7 @@
 
 #### (a) Mandatory authorization order
 
-After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistentwith the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
+After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistent with the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
 
 #### (b) Free trade agreements
 
@@ -78,7 +78,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title
 
 The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see ShortTitle note set out under section 1251 of Title 33 and Tables.
 
 #### Amendments
 

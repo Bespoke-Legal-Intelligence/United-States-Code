@@ -42,7 +42,7 @@ In determining the amount of any award in any class action, the court shall cons
 
 #### (d) Jurisdiction
 
-Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year after the date of the occurrence of the violation involved.
+Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, withinone year after the date of the occurrence of the violation involved.
 
 #### (e) Reliance on Board rulings
 

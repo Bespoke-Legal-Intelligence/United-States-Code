@@ -60,7 +60,7 @@
 
 #### (B) Limiting fall across for certain countries subject to subsection (e)
 
-&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) applies, if the total number of visas issued under section 1153(b) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(b) of this title consistent with subsection (e) (determined without regard tothis paragraph), in applying subsection (e) all visas shall be deemed to have been required for the classes of aliens specified in section 1153(b) of this title.
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) applies, if the total number of visas issued under section 1153(b) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(b) of this title consistent with subsection (e) (determined without regard to this paragraph), in applying subsection (e) all visas shall be deemed to have been required for the classes of aliens specified in section 1153(b) of this title.
 
 #### (b) Rules for chargeability
 
@@ -142,7 +142,7 @@ Subsec. (c). Pub. L. 94–571, §3(2), in revising provisions, substituted "over
 
 Subsec. (e). Pub. L. 94–571, §3(3), added subsec. (e).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions prohibiting preferences or priorities or discrimination in the issuance of an immigrant visa because ofrace, sex, nationality, place of birth, or place of residence, setting a limit of 20,000 per year on the total number of entries available to natives of any single foreign state, and prohibiting the 20,000 limitation from reducing the number of immigrants under the quota of any quota area before June 30, 1968, for provisions calling for the charging of immigrants, with certain exceptions, to the annual quota of the quota area of his birth.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions prohibiting preferences or priorities or discrimination in the issuance of an immigrant visa because of race, sex, nationality, place of birth, or place of residence, setting a limit of 20,000 per year on the total number of entries available to natives of any single foreign state, and prohibiting the 20,000 limitation from reducing the number of immigrants under the quota of any quota area before June 30, 1968, for provisions calling for the charging of immigrants, with certain exceptions, to the annual quota of the quota area of his birth.
 
 Subsec. (b). Pub. L. 89–236 substituted provisions calling for treatment of each independent country, self-governing dominion, mandated territory, and trusteeship territory as a separate foreign state for purposes of determining the numerical limitation imposed on each foreign state, and chargeability of immigrants to the country of their birth except where such chargeability would cause the family unit to be divided, for provisions setting up the Asia-Pacific triangle and providing for the special treatment of quota chargeability thereunder on the basis of racial ancestry.
 
@@ -156,7 +156,7 @@ Subsec. (e). Pub. L. 89–236 repealed subsec. (e) which allowed revision of quo
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

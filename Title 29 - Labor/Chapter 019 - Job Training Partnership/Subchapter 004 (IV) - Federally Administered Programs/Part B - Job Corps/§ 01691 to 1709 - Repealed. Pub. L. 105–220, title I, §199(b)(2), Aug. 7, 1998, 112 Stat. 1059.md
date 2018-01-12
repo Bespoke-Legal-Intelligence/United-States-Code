@@ -34,7 +34,7 @@ Section 1705, Pub. L. 97–300, title IV, §435, Oct. 13, 1982, 96 Stat. 1378, r
 
 Section 1706, Pub. L. 97–300, title IV, §436, Oct. 13, 1982, 96 Stat. 1378; Pub. L. 102–367, title VII, §702(a)(15), Sept. 7, 1992, 106 Stat. 1112, related to application of provisions of Federal law.
 
-Section 1707, Pub. L. 97–300, title IV, §437, Oct. 13, 1982, 96 Stat. 1379; Pub. L. 99–496, §12, Oct. 16, 1986, 100Stat. 1264; Pub. L. 102–367, title IV, §402(f), Sept. 7, 1992, 106 Stat. 1077, contained special provisions relating to enrollment of women, documents and data, taxation, and management fees.
+Section 1707, Pub. L. 97–300, title IV, §437, Oct. 13, 1982, 96 Stat. 1379; Pub. L. 99–496, §12, Oct. 16, 1986, 100 Stat. 1264; Pub. L. 102–367, title IV, §402(f), Sept. 7, 1992, 106 Stat. 1077, contained special provisions relating to enrollment of women, documents and data, taxation, and management fees.
 
 Section 1708, Pub. L. 97–300, title IV, §438, Oct. 13, 1982, 96 Stat. 1379, contained general provisions relating to dissemination of information, collections, and expenditures.
 

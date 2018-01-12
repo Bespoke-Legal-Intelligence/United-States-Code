@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 91–283, §4, June 19, 1970, 84 Stat. 313, which exempted funds distributed under the provisions of this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 91–283, §4, June 19, 1970, 84 Stat. 313, which exempted funds distributed under the provisions of this subchapter from Federal and State incometaxes, was omitted from the Code as being of special and not general application.
 

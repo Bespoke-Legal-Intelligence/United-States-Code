@@ -26,7 +26,7 @@ In general.—Subject to disapproval by the Administrator or the Secretary of De
 
 &emsp;(2)
 
-Conveyance requirements.—A transfer of property may be made under this sectiononly after the Secretary of Transportation has—
+Conveyance requirements.—A transfer of property may be made under this section only after the Secretary of Transportation has—
 
 &emsp;&emsp;(A) determined, after consultation with the Secretary of Labor, that the property to be conveyed is located in an area of serious economic disruption;
 

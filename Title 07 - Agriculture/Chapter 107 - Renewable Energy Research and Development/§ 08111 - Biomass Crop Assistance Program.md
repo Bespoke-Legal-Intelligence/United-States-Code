@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) agricultural and nonindustrial private forest lands (as defined in section 2103a(c) of title 16); and
 
-&emsp;&emsp;&emsp;(ii) land enrolled in the conservation reserve program established under subchapter B of chapter I of subtitle D of title XII of the Food Security Act of 1985 (16U.S.C. 3831 et seq.), or the Agricultural Conservation Easement Program established under subtitle H of title XII of that Act \[16 U.S.C. 3865 et seq.\], under a contract that will expire at the end of the current fiscal year.
+&emsp;&emsp;&emsp;(ii) land enrolled in the conservation reserve program established under subchapter B of chapter I of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.), or the Agricultural Conservation Easement Program established under subtitle H of title XII of that Act \[16 U.S.C. 3865 et seq.\], under a contract that will expire at the end of the current fiscal year.
 
 #### (B) Exclusions
 
@@ -178,7 +178,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 &emsp;&emsp;&emsp;(ii) a letter of commitment from a biomass conversion facility that the facility will use the eligible crops intended to be produced in the proposed BCAP project area;
 
-&emsp;&emsp;&emsp;(iii) evidence that the biomass conversion facility has sufficient equity available, as determined by the Secretary, if the biomass conversion facility is not operational at the time the proposal is submitted to the Secretary; and
+&emsp;&emsp;&emsp;(iii) evidence that the biomass conversion facility has sufficient equity available, as determined by the Secretary, if the biomass conversion facility is notoperational at the time the proposal is submitted to the Secretary; and
 
 &emsp;&emsp;&emsp;(iv) any other information about the biomass conversion facility or proposed biomass conversion facility that the Secretary determines necessary for the Secretary to be reasonably assured that the plant will be in operation by the date on which the eligible crops are ready for harvest.
 
@@ -358,7 +358,7 @@ Not later than 4 years after February 7, 2014, the Secretary shall submit to the
 
 #### References in Text
 
-The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), (iv), and (c)(3)(B)(ii), (5)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B, C, and H of title XII of the Act are classified generally to subchapters II (§3811 et seq.), III (§3821 et seq.), and VII (§3865 et seq.), respectively, of chapter 58 of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

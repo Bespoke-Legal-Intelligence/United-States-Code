@@ -2,7 +2,7 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determinethe amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
@@ -54,7 +54,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 > if the provider of such services elects to receive, and qualifies for, such payments.
 
-(3) In the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as defined for purposes of section 1395ww of this title) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital's operation, the Secretary may make available appropriate accelerated payments.
+(3) In the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as definedfor purposes of section 1395ww of this title) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital's operation, the Secretary may make available appropriate accelerated payments.
 
 (4) A hospital created by the merger or consolidation of 2 or more hospitals or hospital campuses shall be eligible to receive periodic interim payment on the basis described in paragraph (1)(B) if—
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004."
+Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004."
 
 #### Effective Date of 1997 Amendment
 

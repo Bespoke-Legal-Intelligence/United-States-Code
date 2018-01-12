@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (C) Special rule for retirees and widows
 
-&emsp;&emsp;In the case of a qualifying event described in section 1163(6) of this title, the term "qualified beneficiary" includes a covered employee who had retired on or before the date of substantial elimination of coverage and any other individual who, on the day before such qualifying event, is a beneficiary under the plan—
+&emsp;&emsp;In the case of a qualifying event described in section 1163(6) of this title, the term"qualified beneficiary" includes a covered employee who had retired on or before the date of substantial elimination of coverage and any other individual who, on the day before such qualifying event, is a beneficiary under the plan—
 
 &emsp;&emsp;&emsp;(i) as the spouse of the covered employee,
 
@@ -62,7 +62,7 @@ Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end "Such term shall al
 
 Par. (1). Pub. L. 101–239, §7862(c)(6)(A), repealed Pub. L. 100–647, §3011(b)(6), see 1988 Amendment note below.
 
-Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954",which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Par. (2). Pub. L. 101–239, §7862(c)(2)(A), substituted "the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)" for "the individual's employment or previous employment with an employer".
 

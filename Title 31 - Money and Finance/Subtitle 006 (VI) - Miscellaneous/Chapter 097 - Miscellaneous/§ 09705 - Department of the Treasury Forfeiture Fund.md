@@ -80,7 +80,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;(E) the payment of claims against employees of the Customs Service settled by the Secretary under section 630 of the Tariff Act of 1930;
 
-&emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official useby a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
+&emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
 &emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
@@ -138,7 +138,7 @@ Deposits and Credits.—
 
 &emsp;&emsp;(B) all income from investments made under subsection (e); and
 
-&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
+&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury lawenforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
 
 (e)
 
@@ -278,7 +278,7 @@ Transfers to Attorney General and Postmaster General.—
 
 &emsp;(1) The Secretary shall transfer from the Fund to the Attorney General for deposit in the Department of Justice Assets Forfeiture Fund amounts appropriate to reflect the degree of participation of participating Federal agencies in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization. For purposes of the preceding sentence, a "participating Federal agency" is an agency that participates in the Department of Justice Assets Forfeiture Fund.
 
-&emsp;(2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of theUnited States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
+&emsp;(2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of the United States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
 
 (o)
 
@@ -342,7 +342,7 @@ Subsec. (a)(2)(H). Pub. L. 114–22, §105(c)(1)(B)(ii)(III), substituted period
 
 &emsp;"(III) section 924(c) of title 18;".
 
-Subsec. (o). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (o) and struck out former subsec. (o) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
+Subsec. (o). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (o) and struck out former subsec. (o) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeitureof property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
 
 Subsec. (o)(1). Pub. L. 107–296, §1112(n)(4), substituted "Tax and Trade Bureau" for "Bureau of Alcohol, Tobacco and Firearms".
 

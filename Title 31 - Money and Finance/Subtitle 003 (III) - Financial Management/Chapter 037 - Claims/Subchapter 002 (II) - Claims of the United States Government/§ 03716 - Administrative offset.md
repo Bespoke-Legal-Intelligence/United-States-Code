@@ -56,9 +56,9 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6)(A) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 120 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6)(A) Any Federal agency that is owed by a person a past due, legally enforceable nontaxdebt that is over 120 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
-(B) The Secretary of the Treasury shall notify Congress of any instance in which an agencyfails to notify the Secretary as required under subparagraph (A).
+(B) The Secretary of the Treasury shall notify Congress of any instance in which an agency fails to notify the Secretary as required under subparagraph (A).
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
@@ -144,7 +144,7 @@ In subsection (c)(2), the word "either" is omitted as surplus.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, ofTitle 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 

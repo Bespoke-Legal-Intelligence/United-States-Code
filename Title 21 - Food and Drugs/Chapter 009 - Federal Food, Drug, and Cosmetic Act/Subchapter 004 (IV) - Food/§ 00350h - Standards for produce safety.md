@@ -92,7 +92,7 @@
 
 #### (D) Modification or revocation of a variance
 
-&emsp;&emsp;The Secretary, after notice and an opportunity for a hearing, may modify or revoke a variance if the Secretary determines that such variance is not reasonably likely to ensure that the food is not adulterated under section 342 of this title and is not reasonably likely to provide the same level of public health protection as the requirements of the regulations adopted under subsection (b).
+&emsp;&emsp;The Secretary, after notice and an opportunity for a hearing, may modify or revokea variance if the Secretary determines that such variance is not reasonably likely to ensure that the food is not adulterated under section 342 of this title and is not reasonably likely to provide the same level of public health protection as the requirements of the regulations adopted under subsection (b).
 
 #### (d) Enforcement
 
@@ -198,7 +198,7 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 #### Scientific and Economic Analysis of the FDA Food Safety Modernization Act
 
-Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: "When publishing a final rulewith respect to 'Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption' published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall ensure that the final rule (referred to in this section as the 'final rule') includes the following information:
+Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: "When publishing a final rule with respect to 'Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption' published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall ensure that the final rule (referred to in this section as the 'final rule') includes the following information:
 
 &emsp;"(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods.
 

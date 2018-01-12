@@ -14,7 +14,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;(3) derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within a possession of the United States and its sale or exchange within the United States,
 
-> shall be treated as derived partly from sources within and partly from sources without the United States.
+> shall be treated as derived partly from sources within and partly from sources without the United States. Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and without the United States solely on the basis of the production activities with respect to the property.
 
 #### (c) Source rule for certain transportation income
 
@@ -36,7 +36,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (B) Special rule for personal service income
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any transportation income which is income derived from personal services performed bythe taxpayer, unless such income is attributable to transportation which—
+&emsp;&emsp;Subparagraph (A) shall not apply to any transportation income which is income derived from personal services performed by the taxpayer, unless such income is attributable to transportation which—
 
 &emsp;&emsp;&emsp;(i) begins in the United States and ends in a possession of the United States, or
 
@@ -112,9 +112,11 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;For purposes of this section, the term "international communications income" includes all income derived from the transmission of communications or data from the United States to any foreign country (or possession of the United States) or from any foreign country (or possession of the United States) to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 277; Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1799, 1834; Pub. L. 98–369, div. A, title I, §124(a), July 18, 1984, 98 Stat. 646; Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, 100 Stat. 2536, 2539, 2540; Pub. L. 100–647, title I, §1012(e)(3)(A), (f), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 105–34, title XI, §1174(a)(2), Aug. 5, 1997, 111 Stat. 989.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 277; Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1799, 1834; Pub. L. 98–369, div. A, title I, §124(a), July 18, 1984, 98 Stat. 646; Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, 100 Stat. 2536, 2539, 2540; Pub. L. 100–647, title I, §1012(e)(3)(A), (f), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 105–34, title XI, §1174(a)(2), Aug. 5, 1997, 111 Stat. 989; Pub. L. 115–97, title I, §14303(a), Dec. 22, 2017, 131 Stat. 2225.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and without the United States solely on the basis of the production activities with respect to the property."
 
 <b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–34 inserted concluding provisions "In the case of transportation income derived from, or in connection with, a vessel, this subparagraph shall only apply if the taxpayer is a citizen or resident alien."
 
@@ -137,6 +139,10 @@ Subsecs. (d), (e). Pub. L. 99–514, §1213(a), added subsecs. (d) and (e).
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–455, §§1901(b)(26)(C), (D), 1906(b)(13)(A), struck out "or his delegate" after "Secretary" in introductory provisions, and inserted "or exchange" after "sale" in pars. (2) and (3), and "or exchanged" after "sold" in par. (2) wherever appearing.
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §14303(b), Dec. 22, 2017, 131 Stat. 2225, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 1997 Amendment
 
@@ -193,7 +199,7 @@ Pub. L. 98–369, div. A, title I, §124(b), July 18, 1984, 98 Stat. 647, provid
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxable years beginning after Dec.31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

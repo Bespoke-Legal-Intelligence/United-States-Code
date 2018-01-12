@@ -2,11 +2,11 @@
 
 #### (a) Demonstration program
 
-Not later than January 1, 1994, the Secretary, in cooperation with the Administrator of General Services, shall establish a demonstrationprogram to install, in federally owned facilities or federally assisted housing, energy conservation measures for which the Secretary has determined that such installation would accelerate commercial viability. In those cases where technologies are determined to be equivalent, priority shall be given to those technologies that have received or are receiving Federal financial assistance.
+Not later than January 1, 1994, the Secretary, in cooperation with the Administrator of General Services, shall establish a demonstration program to install, in federally owned facilities or federally assisted housing, energy conservation measures for which the Secretary has determined that such installation would accelerate commercial viability. In those cases where technologies are determined to be equivalent, priority shall be given to those technologies that have received or are receiving Federal financial assistance.
 
 #### (b) Selection criteria
 
-In addition to the determination under subsection (a) of this section, the Secretary shall select, in cooperation with the Administrator of General Services, proposals to be funded under this section on the basis of—
+In addition to the determination under subsection (a), the Secretary shall select, in cooperation with the Administrator of General Services, proposals to be funded under this section on the basis of—
 
 &emsp;(1) cost-effectiveness;
 

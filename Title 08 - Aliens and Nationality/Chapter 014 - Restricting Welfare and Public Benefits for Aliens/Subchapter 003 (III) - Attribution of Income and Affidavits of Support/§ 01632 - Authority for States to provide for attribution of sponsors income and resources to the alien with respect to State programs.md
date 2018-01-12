@@ -50,5 +50,5 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days, and not later than 90 days after the date the Attorney General formulates the form for such affidavits, see section 551(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment; Promulgation of Form note under section 1183a of this title.
+Amendment by Pub. L. 104–208 applicable to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days, and not later than 90 days after the date the Attorney General formulates the form for such affidavits, see section 551(c) of Pub. L. 104–208, set out as anEffective Date of 1996 Amendment; Promulgation of Form note under section 1183a of this title.
 

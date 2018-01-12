@@ -6,7 +6,7 @@ The United States shall not be liable for any debt, default, act, or omission of
 
 #### (b) Statement
 
-An obligation issued by the Foundation, and a document offering an obligation, shall include aprominent statement that the obligation is not directly or indirectly guaranteed, in whole or in part, by the United States (or an agency or instrumentality of the United States).
+An obligation issued by the Foundation, and a document offering an obligation, shall include a prominent statement that the obligation is not directly or indirectly guaranteed, in whole or in part, by the United States (or an agency or instrumentality of the United States).
 
 (Pub. L. 104–127, title III, §359, Apr. 4, 1996, 110 Stat. 1014.)
 

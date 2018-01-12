@@ -54,3 +54,8 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 - [&sect; 02152g - Annual report](%C2%A7%2002152g%20-%20Annual%20report.md)
 - [&sect; 02152h - Assistance to provide safe water, sanitation, and hygiene](%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%2C%20sanitation%2C%20and%20hygiene.md)
 - [&sect; 02152i - Small Grants Program](%C2%A7%2002152i%20-%20Small%20Grants%20Program.md)
+- [&sect; 02152j - Statement of policy](%C2%A7%2002152j%20-%20Statement%20of%20policy.md)
+- [&sect; 02152j&#8211;1 - United States strategy to promote the participation of women in conflict prevention and peace building](%C2%A7%2002152j%E2%80%931%20-%20United%20States%20strategy%20to%20promote%20the%20participation%20of%20women%20in%20conflict%20prevention%20and%20peace%20building.md)
+- [&sect; 02152j&#8211;2 - Training requirements regarding the participation of women in conflict prevention and peace building](%C2%A7%2002152j%E2%80%932%20-%20Training%20requirements%20regarding%20the%20participation%20of%20women%20in%20conflict%20prevention%20and%20peace%20building.md)
+- [&sect; 02152j&#8211;3 - Consultation and collaboration](%C2%A7%2002152j%E2%80%933%20-%20Consultation%20and%20collaboration.md)
+- [&sect; 02152j&#8211;4 - Definitions](%C2%A7%2002152j%E2%80%934%20-%20Definitions.md)

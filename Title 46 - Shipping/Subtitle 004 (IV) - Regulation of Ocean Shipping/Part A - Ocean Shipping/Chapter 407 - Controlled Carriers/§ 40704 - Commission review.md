@@ -30,7 +30,7 @@ Maximum suspension.—A period of suspension under this subsection may not excee
 
 (e)
 
-Replacement During Suspension.—Whenever the Commission has suspended a rate, charge, classification, rule, or regulation under this section, the controlled carrier may publish a new rate, charge, classification, rule, or regulation to take effect immediately during the suspension in lieu of the suspended rate, charge, classification, rule, or regulation. However, the Commission may reject the new rate, charge, classification, rule, or regulation if the Commission believes it is unjust and unreasonable.
+Replacement During Suspension.—Whenever the Commission has suspended a rate,charge, classification, rule, or regulation under this section, the controlled carrier may publish a new rate, charge, classification, rule, or regulation to take effect immediately during the suspension in lieu of the suspended rate, charge, classification, rule, or regulation. However, the Commission may reject the new rate, charge, classification, rule, or regulation if the Commission believes it is unjust and unreasonable.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1536.)
 

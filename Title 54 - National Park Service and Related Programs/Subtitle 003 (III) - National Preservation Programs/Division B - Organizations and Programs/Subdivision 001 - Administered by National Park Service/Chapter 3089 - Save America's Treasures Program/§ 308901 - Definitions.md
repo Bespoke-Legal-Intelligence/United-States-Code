@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1)
 
-Collection.—The term "collection" means a collection of intellectual and culturalartifacts, including documents, sculpture, and works of art.
+Collection.—The term "collection" means a collection of intellectual and cultural artifacts, including documents, sculpture, and works of art.
 
 &emsp;(2)
 

@@ -50,7 +50,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
-(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–228, div. A, title II, §202(a), (b), Sept. 30, 2002, 116 Stat. 1362; Pub. L. 109–177, title VI, §605(e)(2)(A), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–323, title IV, §408(a), Dec. 16, 2016, 130 Stat. 1930.)
+(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1),Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–228, div. A, title II, §202(a), (b), Sept. 30, 2002, 116 Stat. 1362; Pub. L. 109–177, title VI, §605(e)(2)(A), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–323, title IV, §408(a), Dec. 16, 2016, 130 Stat. 1930.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prio
 
 &emsp;"(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent."
 
-Subsec. (b). Pub. L. 107–228, §202(b), substituted "Agreements with Attorney General and Secretary ofthe Treasury and firearms regulations" for "Agreement with Attorney General and firearms regulations" in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
+Subsec. (b). Pub. L. 107–228, §202(b), substituted "Agreements with Attorney General and Secretary of the Treasury and firearms regulations" for "Agreement with Attorney General and firearms regulations" in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
 
 <b>2000</b>—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 

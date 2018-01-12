@@ -24,7 +24,7 @@ As used in this subpart—
 
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set outunder section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
 Section 1509(b)(3) of this title, referred to in subsec. (f), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), 68 Stat. 861.
 

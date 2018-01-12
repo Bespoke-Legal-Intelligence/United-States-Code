@@ -6,9 +6,9 @@ The Corporation shall have a Board of Directors, a President, an Executive Vice 
 
 #### (b) Board of directors
 
-All powers of the Corporation shall vest in and be exercised by or under the authority of its Board of Directors ("the Board") which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. Eight Directors shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organizedlabor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed.
+All powers of the Corporation shall vest in and be exercised by or under the authority of its Board of Directors ("the Board") which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. Eight Directors shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organized labor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed.
 
-The other Directors shall be principal officers of the Government of the United States whose duties relate to the programs of the Corporation, including the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and one such officer of the Department of Labor, designated by and serving at the pleasure of the President of the United States. The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.
+The other Directors shall be principal officers of the Government of the United States whose duties relate to the programs of the Corporation, including the President of the Corporation, the Administrator of the Agency for International Development, the United States TradeRepresentative, and one such officer of the Department of Labor, designated by and serving at the pleasure of the President of the United States. The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.
 
 There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.
 
@@ -52,7 +52,7 @@ Pub. L. 106–158, §4(4), inserted after second par. "There shall be a Chairman
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–65, §3(c), Oct. 16, 1981, 95 Stat. 1022, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1981."
+Pub. L. 97–65, §3(c), Oct. 16, 1981, 95 Stat. 1022, provided that: "The amendments made by this section\[amending this section\] shall take effect on October 1, 1981."
 
 #### Delegation of Functions
 

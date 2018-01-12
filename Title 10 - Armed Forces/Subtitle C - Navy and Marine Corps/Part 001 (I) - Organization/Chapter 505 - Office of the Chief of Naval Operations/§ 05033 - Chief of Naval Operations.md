@@ -1,6 +1,6 @@
 ### §5033. Chief of Naval Operations
 
-(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the adviceand consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as the Chief of Naval Operations only if—
 
@@ -8,7 +8,7 @@
 
 &emsp;(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a flag officer.
 
-(3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
+\*ERR13\*(3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
 (b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy, the Chief of Naval Operations takes precedence above all other officers of the naval service.
 
@@ -61,4 +61,6 @@ Pub. L. 108–136, div. A, title V, §508, Nov. 24, 2003, 117 Stat. 1458, provid
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

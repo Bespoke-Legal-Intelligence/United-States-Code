@@ -48,7 +48,7 @@
 
 #### (ii) Treatment as covered financial company
 
-&emsp;&emsp;&emsp;If the Corporation is appointed as receiver of a covered subsidiary of a coveredfinancial company under clause (i), the covered subsidiary shall thereafter be considered a covered financial company under this subchapter, and the Corporation shall thereafter have all the powers and rights with respect to that covered subsidiary as it has with respect to a covered financial company under this subchapter.
+&emsp;&emsp;&emsp;If the Corporation is appointed as receiver of a covered subsidiary of a covered financial company under clause (i), the covered subsidiary shall thereafter be considered a covered financial company under this subchapter, and the Corporation shall thereafter have all the powers and rights with respect to that covered subsidiary as it has with respect to a covered financial company under this subchapter.
 
 #### (F) Organization of bridge companies
 
@@ -106,7 +106,7 @@
 
 #### (M) Shareholders and creditors of covered financial company
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Corporation, as receiver for a covered financial company, shall succeed by operation of law to the rights, titles, powers, and privileges described in subparagraph (A), and shall terminate all rights and claims that the stockholders and creditors of thecovered financial company may have against the assets of the covered financial company or the Corporation arising out of their status as stockholders or creditors, except for their right to payment, resolution, or other satisfaction of their claims, as permitted under this section. The Corporation shall ensure that shareholders and unsecured creditors bear losses, consistent with the priority of claims provisions under this section.
+&emsp;&emsp;Notwithstanding any other provision of law, the Corporation, as receiver for a covered financial company, shall succeed by operation of law to the rights, titles, powers, and privileges described in subparagraph (A), and shall terminate all rights and claims that the stockholders and creditors of the covered financial company may have against the assets of the covered financial company or the Corporation arising out of their status as stockholders or creditors, except for their right to payment, resolution, or other satisfaction of their claims, as permitted under this section. The Corporation shall ensure that shareholders and unsecured creditors bear losses, consistent with the priority of claims provisions under this section.
 
 #### (N) Coordination with foreign financial authorities
 
@@ -164,11 +164,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Prior to the 180th day after the date on which a claim against a covered financial company is filed with the Corporation as receiver, or such later date as may be agreed as provided in clause (ii), the Corporation shall notify the claimant whether it allows or disallows the claim, in accordance with subparagraphs (B), (C), and (D).
+&emsp;&emsp;&emsp;Prior to the 180th day after the date on which a claim against a covered financial company is filed with the Corporation as receiver, or such later date as may beagreed as provided in clause (ii), the Corporation shall notify the claimant whether it allows or disallows the claim, in accordance with subparagraphs (B), (C), and (D).
 
 #### (ii) Extension of time
 
-&emsp;&emsp;&emsp;By written agreement executed not later than 180 days after the date on which a claim against a covered financial companyis filed with the Corporation, the period described in clause (i) may be extended by written agreement between the claimant and the Corporation. Failure to notify the claimant of any disallowance within the time period set forth in clause (i), as it may be extended by agreement under this clause, shall be deemed to be a disallowance of such claim, and the claimant may file or continue an action in court, as provided in paragraph (4).
+&emsp;&emsp;&emsp;By written agreement executed not later than 180 days after the date on which a claim against a covered financial company is filed with the Corporation, the period described in clause (i) may be extended by written agreement between the claimant and the Corporation. Failure to notify the claimant of any disallowance within the time period set forth in clause (i), as it may be extended by agreement under this clause, shall be deemed to be a disallowance of such claim, and the claimant may file or continue an action in court, as provided in paragraph (4).
 
 #### (iii) Mailing of notice sufficient
 
@@ -254,7 +254,7 @@
 
 #### (C) Statute of limitations
 
-&emsp;&emsp;If any claimant fails to file suit on such claim (or to continue an action on suchclaim commenced before the date of appointment of the Corporation as receiver) prior to the end of the 60-day period described in subparagraph (B), the claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the receiver) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+&emsp;&emsp;If any claimant fails to file suit on such claim (or to continue an action on such claim commenced before the date of appointment of the Corporation as receiver) prior to the end of the 60-day period described in subparagraph (B), the claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the receiver) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
 
 #### (5) Expedited determination of claims
 
@@ -330,7 +330,7 @@
 
 #### (C) Payment of dividends on claims
 
-&emsp;&emsp;The Corporation as receiver may, in its sole discretion, and to the extent otherwise permitted by this section, pay dividends on proven claims at any time, and no liability shall attach to the Corporation as receiver, by reason of any such payment or for failure to pay dividends to a claimant whose claimis not proved at the time of any such payment.
+&emsp;&emsp;The Corporation as receiver may, in its sole discretion, and to the extent otherwise permitted by this section, pay dividends on proven claims at any time, and no liability shall attach to the Corporation as receiver, by reason of any such payment or for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
 
 #### (D) Rulemaking by the Corporation
 
@@ -498,7 +498,7 @@
 
 #### (G) Rights under this section
 
-&emsp;&emsp;The rights of the Corporation as receiver under this section shall be superior to any rights of a trustee or any other party (other than a Federal agency) under the Bankruptcy Code.
+&emsp;&emsp;The rights of the Corporation as receiver under this section shall be superior to any rights of a trustee or any other party (otherthan a Federal agency) under the Bankruptcy Code.
 
 #### (H) Rules of construction; definitions
 
@@ -786,7 +786,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the receiver repudiates any contract (which meets the requirements of subsection\(a)(6)) for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+&emsp;&emsp;If the receiver repudiates any contract (which meets the requirements of subsection (a)(6)) for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
 
 &emsp;&emsp;&emsp;(i) treat the contract as terminated by such repudiation; or
 
@@ -862,7 +862,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding subsection (a)(11), (a)(12), or (c)(12), section 91 of this title, or any other provision of Federal or State law relating to the avoidance of preferential or fraudulent transfers, the Corporation, whether acting as the Corporation or as receiver for a covered financial company, may not avoid any transfer of money or other property in connection with any qualified financial contract with a covered financial company.
+&emsp;&emsp;&emsp;Notwithstanding subsection (a)(11), (a)(12), or (c)(12), section 91 of this title, or any other provision of Federal or Statelaw relating to the avoidance of preferential or fraudulent transfers, the Corporation, whether acting as the Corporation or as receiver for a covered financial company, may not avoid any transfer of money or other property in connection with any qualified financial contract with a covered financial company.
 
 #### (ii) Exception for certain transfers
 
@@ -914,7 +914,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) with respect to a leverage transaction merchant, a leverage transaction;
 
-&emsp;&emsp;&emsp;&emsp;(IV) with respect to a clearing organization, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is clearedby such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+&emsp;&emsp;&emsp;&emsp;(IV) with respect to a clearing organization, a contract for the purchase or sale of a commodity for future deliveryon, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
 
 &emsp;&emsp;&emsp;&emsp;(V) with respect to a commodity options dealer, a commodity option;
 
@@ -954,7 +954,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) means any option to enter into any agreement or transaction referred to in subclause (I) or (III);
 
-&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV),together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transactionreferred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -996,7 +996,7 @@
 
 #### (viii) Treatment of master agreement as one agreement
 
-&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any of clauses (i) through (vi) (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contact. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the masteragreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
+&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any of clauses (i) through (vi) (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contact. If a master agreementcontains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
 
 #### (ix) Transfer
 
@@ -1044,7 +1044,7 @@
 
 #### (iii) Back-up rulemaking authority
 
-&emsp;&emsp;&emsp;If the Federal primary financial regulatory agencies do not prescribe joint final or interim final regulations within the time frame in clause (ii), the Chairperson of the Council shall prescribe, in consultation with the Corporation, the regulations required by clause (i).
+&emsp;&emsp;&emsp;If the Federal primary financial regulatory agencies do not prescribe joint final or interim final regulations within thetime frame in clause (ii), the Chairperson of the Council shall prescribe, in consultation with the Corporation, the regulations required by clause (i).
 
 #### (iv) Categorization and tiering
 
@@ -1232,7 +1232,7 @@
 
 #### (C) Manner of payment
 
-&emsp;&emsp;The Corporation may make payments or credit amounts under subparagraph (A) directly to the claimants or may make suchpayments or credit such amounts to a company other than a covered financial company or a bridge financial company established with respect thereto in order to induce such other company to accept liability for such claims.
+&emsp;&emsp;The Corporation may make payments or credit amounts under subparagraph (A) directly to the claimants or may make such payments or credit such amounts to a company other than a covered financial company or a bridge financial company established with respect thereto in order to induce such other company to accept liability for such claims.
 
 #### (e) Limitation on court action
 
@@ -1300,7 +1300,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;&emsp;&emsp;(i) establish the terms of the charter of a bridge financial company and the rights, powers, authorities, and privileges of a bridge financial company granted by the charter or as an incident thereto; and
 
-&emsp;&emsp;&emsp;(ii) provide for, and establish the terms and conditions governing, the management (including the bylaws and the number of directors of the board of directors) and operations of the bridge financial company.
+&emsp;&emsp;&emsp;(ii) provide for, and establish the terms and conditions governing, the management (including the bylaws and the number of directors of the board of directors)and operations of the bridge financial company.
 
 #### (E) Transfer of rights and privileges of covered financial company
 

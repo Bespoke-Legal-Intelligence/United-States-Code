@@ -22,7 +22,7 @@ In this section:
 
 &emsp;(2) The term "nuclear security budget materials" means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
 
-(Pub. L. 106–65, div. C, title XXXII, §3255, as added Pub. L. 111–84, div. C, title XXXI, §3116(a), Oct. 28, 2009, 123 Stat. 2707; amended Pub. L. 111–383, div. C, title XXXI, §3113(a), Jan. 7, 2011,124 Stat. 4509; Pub. L. 112–239, div. C, title XXXI, §3132(a)(2), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 114–92, div. A, title X, §1062(a), Nov. 25, 2015, 129 Stat. 988; Pub. L. 114–328, div. C, title XXXI, §3137(c), Dec. 23, 2016, 130 Stat. 2771.)
+(Pub. L. 106–65, div. C, title XXXII, §3255, as added Pub. L. 111–84, div. C, title XXXI, §3116(a), Oct. 28, 2009, 123 Stat. 2707; amended Pub. L. 111–383, div. C, title XXXI, §3113(a), Jan. 7, 2011, 124 Stat. 4509; Pub. L. 112–239, div. C, title XXXI, §3132(a)(2), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 114–92, div. A, title X, §1062(a), Nov. 25, 2015, 129 Stat. 988; Pub. L. 114–328, div. C, title XXXI, §3137(c), Dec. 23, 2016, 130 Stat. 2771.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@
 
 &emsp;(3) may be exercised only in retaining employees of the Administration or in appointing individuals who were not employees of another Federal agency as defined under section 5102(a)(1).
 
-(c)(1) Notwithstanding section 5377, the Administrator may fix the rate of basic pay for a position in the Administration in accordancewith this section. The Administrator may not delegate this authority.
+(c)(1) Notwithstanding section 5377, the Administrator may fix the rate of basic pay for a position in the Administration in accordance with this section. The Administrator may not delegate this authority.
 
 (2) The number of positions with pay fixed under this section may not exceed 10 at any time.
 

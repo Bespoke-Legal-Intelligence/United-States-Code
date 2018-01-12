@@ -70,7 +70,7 @@
 
 (ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a), in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
-(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its programfor the provision of the assistance described in subsection (a)(2)(B), and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
+(2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its program for the provision of the assistance described in subsection (a)(2)(B), and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
 
 (B) Within 120 days of the end of the fiscal year, the Commonwealth shall provide the Secretary with a statement as to whether the payments received under subsection (a) for that fiscal year exceeded the expenditures by it during that year for which payment is authorized under this section, and if so, by how much, and such other information as the Secretary may require.
 
@@ -190,7 +190,7 @@ Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted "the agency or ag
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 ofPub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 
@@ -286,5 +286,5 @@ Pub. L. 98–204, §2, Dec. 2, 1983, 97 Stat. 1385, directed the Secretary of Ag
 
 #### Amount Payable to the Commonwealth of Puerto Rico for Fiscal Year 1982; Plans To Be Submitted to the Secretary for Grants for Fiscal Years 1982 and 1983
 
-Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico forfiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
+Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
 

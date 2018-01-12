@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 106–53, §219(a)(2), redesignated subsec. (e) as (f).
 
 #### Change of Name
 
-References to the Director of the Federal Emergency Management Agency to be considered to refer andapply to the Administrator of the Federal Emergency Management Agency, see section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
+References to the Director of the Federal Emergency Management Agency to be considered to refer and apply to the Administrator of the Federal Emergency Management Agency, see section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
 
 #### Transfer of Functions
 

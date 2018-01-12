@@ -10,7 +10,7 @@ Selection of Commission.—A political subdivision included in the region of mor
 
 (c)
 
-Changes in Selections.—The selection of a Commission by a political subdivision shall apply in the fiscal year in which the selection is made, and shall apply in each subsequent fiscal year unless the political subdivision, at least 90 days before the first day of the fiscal year, notifies the Cochairpersons of another Commission in writing that the political subdivision will participate in that Commission and also transmits a copy of such notification to the Cochairpersons of the Commission in which the political subdivision is currently participating.
+Changes in Selections.—The selection of a Commission by a political subdivision shall apply in the fiscal year in which the selection ismade, and shall apply in each subsequent fiscal year unless the political subdivision, at least 90 days before the first day of the fiscal year, notifies the Cochairpersons of another Commission in writing that the political subdivision will participate in that Commission and also transmits a copy of such notification to the Cochairpersons of the Commission in which the political subdivision is currently participating.
 
 (d)
 
@@ -21,4 +21,8 @@ Inclusion of Appalachian Regional Commission.—In this section, the term "Commi
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 

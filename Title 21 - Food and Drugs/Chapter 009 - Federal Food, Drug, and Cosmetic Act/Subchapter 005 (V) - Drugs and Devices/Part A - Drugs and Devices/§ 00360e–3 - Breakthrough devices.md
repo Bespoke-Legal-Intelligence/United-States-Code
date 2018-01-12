@@ -94,7 +94,7 @@ A sponsor of a device may request that the Secretary designate such device for e
 
 #### (2) Process
 
-&emsp;Prior to finalizing the guidance under paragraph (1), the Secretary shall seek public comment on a proposed guidance.
+&emsp;Prior to finalizing the guidance under paragraph (1), the Secretary shall seek public comment on a draft version of that guidance.
 
 #### (g) Rule of construction
 
@@ -108,9 +108,15 @@ Nothing in this section shall be construed to affect—
 
 &emsp;(4) the authority of the Secretary with respect to postmarket surveillance under sections 360i(h) and 360l of this title.
 
-(June 25, 1938, ch. 675, §515C, as added Pub. L. 114–255, div. A, title III, §3051(a), Dec. 13, 2016, 130 Stat. 1121.)
+(June 25, 1938, ch. 675, §515B, formerly §515C, as added Pub. L. 114–255, div. A, title III, §3051(a), Dec. 13, 2016, 130 Stat. 1121; renumbered §515B and amended Pub. L. 115–52, title IX, §901(f), (g), Aug. 18, 2017, 131 Stat. 1076, 1077.)
 
-#### Codification
+#### Amendments
 
-Section 3051(a) of Pub. L. 114–255, which directed amendment of chapter V of the Federal Food, Drug, and Cosmetic Act by adding section 515C "after section 515B, as added by section 3034(b)", was executed by adding section 515C after section 515A of such Act to reflect the probable intent of Congress. Neither section 3034(b) nor any other provision of Pub. L. 114–255 added a section 515B.
+<b>2017</b>—Pub. L. 115–52, §901(f)(1), made technical amendment to directory language of Pub. L. 114–255, §3051(a), which added this section.
+
+Subsec. (f)(2). Pub. L. 115–52, §901(g), substituted "a draft version of that guidance" for "a proposed guidance".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–52, title IX, §901(f), Aug. 18, 2017, 131 Stat. 1076, provided that the renumbering and amendment made by section 901(f) is effective as of the enactment of Pub. L. 114–255.
 

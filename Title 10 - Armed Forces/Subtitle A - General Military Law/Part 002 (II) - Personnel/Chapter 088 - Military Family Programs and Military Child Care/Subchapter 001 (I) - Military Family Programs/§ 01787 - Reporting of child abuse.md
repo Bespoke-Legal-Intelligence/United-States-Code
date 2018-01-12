@@ -28,7 +28,7 @@ In general.—The following information shall be reported immediately to the Fam
 
 &emsp;&emsp;"(A) Credible information (which may include a reasonable belief), obtained by any individual within the chain of command of the member, that a child in the family or home of the member has suffered an incident of child abuse.
 
-&emsp;&emsp;"(B) Information, learned by a member of the Armed Forces engaged in a profession or activity described in section 226(b) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13031(b)) for members of the Armed Forces and their dependents, that gives reason to suspect that a child in the family or home of the member has suffered an incident of child abuse.
+&emsp;&emsp;"(B) Information, learned by a member of the Armed Forces engaged in a profession or activity described in section 226(b) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13031(b)) \[now 34 U.S.C. 20341(b)\] for members of the Armed Forces and their dependents, that gives reason to suspect that a child in the family or home of the member has suffered an incident of child abuse.
 
 &emsp;"(2)
 
@@ -36,7 +36,7 @@ Regulations.—The Secretary of Defense and the Secretary of Homeland Security (
 
 &emsp;"(3)
 
-Child abuse defined.—In this subsection, the term 'child abuse' has the meaning given that term in section 226(c) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13031(c))."
+Child abuse defined.—In this subsection, the term 'child abuse' has the meaning given that term in section 226(c) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13031(c)) \[now 34 U.S.C. 20341(c)\]."
 
 #### Plan for Implementation of Accreditation Requirement
 

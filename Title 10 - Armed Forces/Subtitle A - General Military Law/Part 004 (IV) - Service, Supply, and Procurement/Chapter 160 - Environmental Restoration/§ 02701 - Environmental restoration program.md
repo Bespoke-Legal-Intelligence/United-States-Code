@@ -74,9 +74,9 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A) The term "Indian tribe" has the meaning given such term in section 101(36) of CERCLA (42 U.S.C. 9601(36)).
 
-&emsp;&emsp;(B) The term "nonprofit conservation organization" means any non-governmentalnonprofit organization whose primary purpose is conservation of open space or natural resources.
+&emsp;&emsp;(B) The term "nonprofit conservation organization" means any non-governmental nonprofit organization whose primary purpose is conservation of open space or natural resources.
 
-&emsp;&emsp;(C) The term "owner of covenant property" means an owner of property subject to a covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
+&emsp;&emsp;(C) The term "owner of covenant property" means an owner of property subject toa covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
 
 &emsp;(5)
 
@@ -544,11 +544,11 @@ Guidelines.—(1) The regulations prescribed under subsection (a) shall contain 
 
 "(c)
 
-Requirements.—The regulations prescribed under subsection (a) shall contain requirements for theSecretaries of the military departments and the heads of defense agencies to—
+Requirements.—The regulations prescribed under subsection (a) shall contain requirements for the Secretaries of the military departments and the heads of defense agencies to—
 
 &emsp;"(1) obtain all data that is relevant for purposes of cost-recovery and cost-sharing activities; and
 
-&emsp;"(2) identify any negligence or other misconduct that may preclude indemnification or reimbursement by the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
+&emsp;"(2) identify any negligence or other misconduct that may preclude indemnification or reimbursementby the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
 
 "(d)
 
@@ -628,7 +628,7 @@ Establishment.—The Secretary of Defense shall establish and conduct an educati
 
 "(b)
 
-Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to develop such expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
+Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to develop such expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of thefacility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
@@ -850,7 +850,7 @@ Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships
 
 Application; Period for Submission.—(1) Each individual desiring a scholarship under this section shall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
-"(2) A member of the Armed Forces described in subsection (d)(1) who desires to apply for a scholarship under this section shall submit an application under this subsection not later than 180 days after the date of the separation of the member. In the case of members described in subsection (d)(1) who were separated before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these members submitted during the 180-day period beginning on the date of the enactment of this Act.
+"(2) A member of the Armed Forces described in subsection (d)(1) who desires to apply for a scholarshipunder this section shall submit an application under this subsection not later than 180 days after the date of the separation of the member. In the case of members described in subsection (d)(1) who were separated before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these members submitted during the 180-day period beginning on the date of the enactment of this Act.
 
 "(3) A civilian employee described in paragraph (2) or (3) of subsection (d) who desires to apply for a scholarship under this section, but who receives no prior notice of such termination or lay off, may submit an application under this subsection at any time after such termination or lay off. A civilian employee described in paragraph (1) or (2) of subsection (d) who receives a notice of termination or lay off shall submit an application not later than 180 days before the effective date of the termination or lay off. In the case of employees described in such paragraphs who were terminated or laid off before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these employees submitted during the 180-day period beginning on the date of the enactment of this Act.
 
@@ -926,7 +926,7 @@ Effect on Other Environmental Requirements.—Nothing in this section shall be c
 
 #### Cooperative Agreements and Grants To Implement Legacy Resource Management Program
 
-Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisions of the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
+Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisions of the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperativeagreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
 
 #### Pilot Program for Expedited Environmental Response Actions
 
@@ -1022,7 +1022,7 @@ Eligibility.—To be eligible to participate in the scholarship or fellowship pr
 
 Agreement.—An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be in writing, shall be signed by the individual, and shall include the following provisions:
 
-&emsp;"(1) The agreement of the Secretary to provide the individual with educational assistance for a specified number of school years (not to exceed 5 years) during which the individual is pursuing a course of education in a qualifying field. The assistance may include payment of tuition, fees, books, laboratory expenses, and (in the case of a fellowship) a stipend.
+&emsp;"(1) The agreement of the Secretary to provide the individual with educational assistance for a specifiednumber of school years (not to exceed 5 years) during which the individual is pursuing a course of education in a qualifying field. The assistance may include payment of tuition, fees, books, laboratory expenses, and (in the case of a fellowship) a stipend.
 
 &emsp;"(2) The agreement of the individual to perform the following:
 
@@ -1164,11 +1164,11 @@ Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as a
 
 "(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carryout, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 "(b)
 
-Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
+Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], theSecretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
 "(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 

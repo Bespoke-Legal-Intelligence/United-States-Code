@@ -42,7 +42,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 #### (c) Residential and custodial care and service
 
-The amount of any compensation for residential and custodial care and service expenses under subsection (a)(1) shall be sufficient to enable the compensated person to remain living at home.
+The amount of any compensation for residential and custodial care and service expensesunder subsection (a)(1) shall be sufficient to enable the compensated person to remain living at home.
 
 #### (d) Types of compensation prohibited
 
@@ -70,7 +70,7 @@ Compensation awarded under the Program may not include the following:
 
 (1) Except as provided in paragraph (2), no compensation may be paid until an election has been made, or has been deemed to have been made, under section 300aa–21(a) of this title to receive compensation.
 
-(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action fordamages for the vaccine-related injury or death for which such compensation was awarded.
+(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action for damages for the vaccine-related injury or death for which such compensation was awarded.
 
 (3) Payments of compensation under the Program and the costs of carrying out the Program shall be exempt from reduction under any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
@@ -148,7 +148,7 @@ Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of firs
 
 Subsec. (e)(1). Pub. L. 101–239, §6601(l)(2)(A), substituted "In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover" for "The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover".
 
-Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action".
+Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith andthere was a reasonable basis for the claim for which the civil action".
 
 Subsec. (e)(2). Pub. L. 101–239, §6601(l)(2)(D), which directed amendment of par. (2) by substituting "the special master or court may also award an amount of compensation" for "the judgment of the court on such petition may include an amount", could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
@@ -178,7 +178,7 @@ Subsec. (j). Pub. L. 100–360, §411(o)(1)(B), inserted "to the Department of H
 
 Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: "Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum."
 
-Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shallbe limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
+Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
 
 Subsec. (b). Pub. L. 100–203, §4303(e), substituted "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000" for "shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section".
 

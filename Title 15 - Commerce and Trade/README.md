@@ -140,6 +140,7 @@
 | [<b>108.</b>](Chapter%20108%20-%20State-Based%20Insurance%20Reform/README.md) | <b>State-Based Insurance Reform</b> | <b>8201</b> |
 | [<b>109.</b>](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md) | <b>Wall Street Transparency and Accountability</b> | <b>8301</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md) | <b>Online Shopper Protection</b> | <b>8401</b> |
+| [<b>111.</b>](Chapter%20111%20-%20Weather%20Research%20and%20Forecasting%20Innovation/README.md) | <b>Weather Research and Forecasting Innovation</b> | <b>8501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -285,3 +286,4 @@
 - [Chapter 108 - State-Based Insurance Reform](Chapter%20108%20-%20State-Based%20Insurance%20Reform/README.md)
 - [Chapter 109 - Wall Street Transparency and Accountability](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md)
 - [Chapter 110 - Online Shopper Protection](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md)
+- [Chapter 111 - Weather Research and Forecasting Innovation](Chapter%20111%20-%20Weather%20Research%20and%20Forecasting%20Innovation/README.md)

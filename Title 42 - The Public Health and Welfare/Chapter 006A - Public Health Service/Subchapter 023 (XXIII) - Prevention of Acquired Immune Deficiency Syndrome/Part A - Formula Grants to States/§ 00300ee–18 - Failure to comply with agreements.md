@@ -24,7 +24,7 @@ The Secretary shall promptly respond to any complaint of a substantial or seriou
 
 #### (e) Investigations
 
-(1) The Secretary shall conduct in several States in each fiscal year investigations of the expenditure of payments received by the States under section 300ee–11(a) of this title in order to evaluate compliance with the agreements required to be contained in the applications submitted to the Secretary pursuant to section 300ee–13 of this title.
+(1) The Secretary shall conduct in several States in each fiscal year investigations of theexpenditure of payments received by the States under section 300ee–11(a) of this title in order to evaluate compliance with the agreements required to be contained in the applications submitted to the Secretary pursuant to section 300ee–13 of this title.
 
 (2) The Comptroller General of the United States may conduct investigations of the expenditure of funds received under section 300ee–11(a) of this title by a State in order to ensure compliance with the agreements referred to in paragraph (1).
 

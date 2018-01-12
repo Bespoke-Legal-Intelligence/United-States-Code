@@ -214,7 +214,7 @@
 
 &emsp;&emsp;(B) Amounts in the account may be used only for projects which will identify, develop, and implement—
 
-&emsp;&emsp;&emsp;(i) an alternative system, and any interim measures, for the management ofsewage sludge and industrial waste, including but not limited to any such system or measures utilizing resource recovery, recycling, thermal reduction, or composting techniques; or
+&emsp;&emsp;&emsp;(i) an alternative system, and any interim measures, for the management of sewage sludge and industrial waste, including but not limited to any such system or measures utilizing resource recovery, recycling, thermal reduction, or composting techniques; or
 
 &emsp;&emsp;&emsp;(ii) improvements in pretreatment, treatment, and storage techniques for sewage sludge and industrial waste to facilitate the implementation of such alternative system or interim measures.
 
@@ -284,7 +284,7 @@
 
 &emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
 
-&emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to paysuch penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
+&emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
 &emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 

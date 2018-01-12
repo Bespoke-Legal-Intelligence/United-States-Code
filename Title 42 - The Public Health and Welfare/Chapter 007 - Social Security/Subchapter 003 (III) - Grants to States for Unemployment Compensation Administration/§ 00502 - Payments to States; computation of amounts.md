@@ -80,5 +80,5 @@ Specific Requirements.—The report required by subsection (a) shall include an 
 
 "(c)
 
-Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[42 U.S.C. 502\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress."
+Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 ofthe Social Security Act \[42 U.S.C. 502\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress."
 

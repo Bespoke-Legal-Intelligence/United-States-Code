@@ -22,7 +22,7 @@ Based on 44 U.S. Code, 1964 ed., §311 (July 26, 1935, ch. 417, §11, 49 Stat. 5
 
 #### Retroactive and Prospective Application
 
-Pub. L. 88–190, §2, Dec. 2, 1963, 77 Stat. 344, provided that: "Section 11 of the Federal Register Act \[section 311 of former Title 44, Public Printing and Documents, now this section\], as amended by the first section of this Act \[amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section\], shall apply to the Code of Federal Regulations previously authorized and published as well as to future publications made pursuant to that section as so amended."
+Pub. L. 88–190, §2, Dec. 2, 1963, 77 Stat. 344, provided that: "Section 11 of the Federal Register Act \[section 311 of former Title 44, Public Printing and Documents, now this section\], as amended by the first section of this Act \[amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section\], shall apply to the Code of Federal Regulationspreviously authorized and published as well as to future publications made pursuant to that section as so amended."
 
 #### Delegation of Functions
 

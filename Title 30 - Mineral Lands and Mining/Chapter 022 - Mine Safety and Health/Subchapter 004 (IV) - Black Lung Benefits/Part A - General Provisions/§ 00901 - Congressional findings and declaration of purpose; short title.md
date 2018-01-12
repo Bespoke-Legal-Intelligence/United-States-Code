@@ -42,7 +42,7 @@ Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1806, provided that: "For c
 
 #### Study of Current Medical Methods for Diagnosis of Pneumoconiosis and Nature and Extent of Impairment Attributable to Simple and Complicated Pneumoconiosis; Report to Congress
 
-Pub. L. 97–119, title II, §202(e), Dec. 29, 1981, 95 Stat. 1643, directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis ofpneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, §202(e), Dec. 29, 1981, 95 Stat. 1643, directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis of pneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 
 #### Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers' Compensation Programs Applicable; Report to Congress
 

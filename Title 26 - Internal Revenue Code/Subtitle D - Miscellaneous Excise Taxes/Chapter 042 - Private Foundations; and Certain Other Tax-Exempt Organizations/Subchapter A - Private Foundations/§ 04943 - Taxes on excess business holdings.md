@@ -170,7 +170,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a member of the family of an individual described in subparagraph (A), or
 
-&emsp;&emsp;(C) a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting"persons described in subparagraph (A) or (B) of section 4943(e)(2)" for "persons described in subparagraph (A) or (B) of paragraph (1)" in subparagraph (A)(i) thereof).
+&emsp;&emsp;(C) a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting "persons described in subparagraph (A) or (B) of section 4943(e)(2)" for "persons described in subparagraph (A) or (B) of paragraph (1)" in subparagraph (A)(i) thereof).
 
 #### (3) Present holdings
 

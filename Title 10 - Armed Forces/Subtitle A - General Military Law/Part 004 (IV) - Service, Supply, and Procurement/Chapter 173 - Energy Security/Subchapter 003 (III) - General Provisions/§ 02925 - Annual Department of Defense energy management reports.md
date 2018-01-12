@@ -2,19 +2,31 @@
 
 (a)
 
-Annual Report Related to Installations Energy Management, Resiliency, and Mission Assurance.—Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:
+Annual Report Related to Installations Energy Management, Energy Resilience, and Mission Assurance.—Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:
 
-&emsp;(1) A description of the progress made to achieve the goals of the Energy Policy Act of 2005 (Public Law 109–58), section 2911(e) of this title, section 553 of the National Energy Conservation Policy Act (42 U.S.C. 8259b), the Energy Independence and Security Act of 2007 (Public Law 110–140), and the energy performance goals for the Department of Defense during the preceding fiscal year.
+&emsp;(1) A description of the progress made to achieve the goals of the Energy Policy Act of 2005 (Public Law 109–58), section 2911(g) of this title, section 553 of the National Energy Conservation Policy Act (42 U.S.C. 8259b), the Energy Independence and Security Act of 2007 (Public Law 110–140), and the energy performance goals for the Department of Defense during the preceding fiscal year, including progress on energy resilience at military installations according to metrics developed by the Secretary.
 
 &emsp;(2) A description of the energy savings, return on investment, and enhancements to installation mission assurance realized by the fulfillment of the goals described in paragraph (1).
 
-&emsp;(3) Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.
+&emsp;(3) Details of all utility outages impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the mission requirements associated with disruption tolerances based on risk to mission, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.
 
-&emsp;(4) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+&emsp;(4) Details of a military installation's total energy requirements and critical energy requirements, and the current energy resilience and emergency backup systems servicing critical energy requirements, including, at a minimum—
+
+&emsp;&emsp;(A) energy resilience and emergency backup system power requirements;
+
+&emsp;&emsp;(B) the critical missions, facility, or facilities serviced;
+
+&emsp;&emsp;(C) system service life;
+
+&emsp;&emsp;(D) capital, operations, maintenance, and testing costs; and
+
+&emsp;&emsp;(E) other information the Secretary determines necessary.
+
+&emsp;(5) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 (b)
 
-Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c <sup>1</sup> of this title.
+Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(b) of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -34,11 +46,11 @@ Annual Report Related to Operational Energy.—(1) Simultaneous with the annual 
 
 &emsp;(F) An evaluation of practices used in contingency operations during the previous fiscal year and potential improvements to such practices to reduce vulnerabilities associated with fuel convoys, including improvements in tent and structure efficiency, improvements in generator efficiency, and displacement of liquid fuels with on-site renewable energy generation. Such evaluation should identify challenges associated with the deployment of more efficient structures and equipment and renewable energy generation, and recommendations for overcoming such challenges.
 
-&emsp;(G) Such recommendations as the Assistant Secretary considers appropriate for additionalchanges in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
+&emsp;(G) Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
 
 (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, §313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, §311, Dec. 23, 2016, 130 Stat. 2072.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, §313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, §311, Dec. 23, 2016, 130 Stat. 2072; Pub. L. 115–91, div. A, title X, §1081(a)(48), div. B, title XXVIII, §§2831(c)(7), 2836, Dec. 12, 2017, 131 Stat. 1597, 1858, 1859.)
 
 #### References in Text
 
@@ -46,9 +58,19 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
-Section 138c of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–291, div. A, title IX, §901(g)(2), Dec. 19, 2014, 128 Stat. 3466. See now section 2926 of this title, enacted by Pub. L. 113–291, which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
-
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91, §2831(c)(7)(A), substituted "Energy Resilience" for "Resiliency" in heading.
+
+Subsec. (a)(1). Pub. L. 115–91, §2836(1), inserted ", including progress on energy resilience at military installations according to metrics developed by the Secretary" before period at end.
+
+Pub. L. 115–91, §2831(c)(7)(B), substituted "2911(g)" for "2911(e)".
+
+Subsec. (a)(3). Pub. L. 115–91, §2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense."
+
+Subsec. (a)(4), (5). Pub. L. 115–91, §2836(3), (4), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (b)(1). Pub. L. 115–91, §1081(a)(48), substituted "section 2926(b)" for "section 138c".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §311(1), inserted ", Resiliency, and Mission Assurance" after "Annual Report Related to Installations Energy Management" in heading.
 
@@ -123,6 +145,4 @@ Subsec. (b). Pub. L. 110–417, §331(a), added subsec. (b) and struck out forme
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

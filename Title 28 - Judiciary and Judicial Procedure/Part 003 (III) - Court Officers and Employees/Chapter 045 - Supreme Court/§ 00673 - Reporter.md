@@ -24,7 +24,7 @@ The provisions of section 333 of title 28, U.S.C., 1940 ed., fixing the reporter
 
 Provisions of section 333 of title 28, U.S.C., 1940 ed., for allowance of stationery, supplies, equipment, and office rent are omitted as obsolete. Offices are now provided in the Supreme Court building and supplies are furnished by the marshal.
 
-The last sentence of section 333 of title 28, U.S.C., 1940 ed., relating to the payment of the reporter's expenses from appropriation for the Supreme Court, was omitted as surplusage.
+The last sentence of section 333 of title 28, U.S.C., 1940 ed., relating to the payment of the reporter's expensesfrom appropriation for the Supreme Court, was omitted as surplusage.
 
 The revised section makes specific the implied power to fix the compensation of the reporter's assistants.
 

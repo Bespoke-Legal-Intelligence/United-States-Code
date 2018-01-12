@@ -28,7 +28,7 @@ Pub. L. 100–233, §805(v), substituted "section 2252(a)(2) of this title" for 
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(c), substituted "regulation by" for "supervision of".
 
-Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted "Farm Credit Administration" for "Federal Farm Credit Board" in first and second sentences, and made a technical amendment to reference to section 2252(2)of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted "Farm Credit Administration" for "Federal Farm Credit Board" in first and second sentences, and made a technical amendment to reference to section 2252(2) of this title to reflect the renumbering of the corresponding section of the original act.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–592 inserted provisions relating to Virgin Islands of the United States.
 

@@ -18,3 +18,7 @@ Notwithstanding sections 952, 953, and 957 of this title—
 
 Schedules I, II, III, and IV, referred to in text, are set out in section 812(c) of this title.
 
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
+

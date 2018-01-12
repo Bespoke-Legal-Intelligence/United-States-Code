@@ -8,7 +8,7 @@ Budget Justification Display.—The Secretary of Defense shall submit to Congres
 
 Requirements for Budget Display.—The consolidated budget justification display under subsection (a) for a fiscal year shall include the following:
 
-&emsp;(1) The amount for personal protection equipment included in both the base budget of the President and any overseas contingency operations budget of the President.
+&emsp;(1) The amount for personal protection equipment included in both the base budget ofthe President and any overseas contingency operations budget of the President.
 
 &emsp;(2) A brief description of each category of personal protection equipment for each military department planned to be procured and developed.
 

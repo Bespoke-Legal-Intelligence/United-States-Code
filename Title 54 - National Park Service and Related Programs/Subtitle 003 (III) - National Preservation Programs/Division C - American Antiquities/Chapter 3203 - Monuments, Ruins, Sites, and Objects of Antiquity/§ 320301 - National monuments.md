@@ -72,7 +72,7 @@ Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Sta
 
 Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
 
-Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139.
+Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -83,6 +83,8 @@ Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93
 Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975.
 
 Big Hole Battlefield National Monument, Montana \[Monument redesignated Big Hole National Battlefield, see section 430uu of Title 16, Conservation\].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544.
+
+Birmingham Civil Rights National Monument, Alabama.—Proc. No. 9565, Jan. 12, 2017, 82 F.R. 6151.
 
 Black Canyon of the Gunnison National Monument, Colorado \[Monument abolished and lands incorporated in, and funds made available for, Black Canyon of the Gunnison National Park, see section 410fff–2 of Title 16, Conservation\].—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat.
 
@@ -98,7 +100,7 @@ Cabrillo National Monument, California.—Proc. No. 1255, Oct. 14, 1913, 38 Stat
 
 c19; Proc. No. 4319, Sept. 28, 1974, 88 Stat. 2514.
 
-California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821; Proc. No. 9089, Mar. 11, 2014, 79 F.R. 14603.
+California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821; Proc. No. 9089, Mar. 11, 2014, 79 F.R. 14603; Proc. No. 9563, Jan. 12, 2017, 82 F.R. 6131.
 
 Canyon De Chelly National Monument, Arizona \[see section 445 of Title 16, Conservation\].—Proc. No. 1945, Apr. 1, 1931, 47 Stat. 2448; Proc. No. 2036, Mar. 3, 1933, 47 Stat. 2562.
 
@@ -120,7 +122,7 @@ Carrizo Plain National Monument, California.—Proc. No. 7393, Jan. 17, 2001, 66
 
 Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat. 1818.
 
-Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249; Pub. L. 111–11, title I, §§1401–1406, Mar. 30, 2009, 123 Stat. 1026–1031.
+Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249; Pub. L. 111–11, title I, §§1401–1406, Mar. 30, 2009, 123 Stat. 1026–1031; Proc. No. 9564, Jan. 12, 2017, 82 F.R. 6145.
 
 Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Pub. L. 108–480, Dec. 23, 2004, 118 Stat. 3907.
 
@@ -198,6 +200,8 @@ Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat.
 
 Fossil Cycad National Monument, South Dakota.—Proc. No. 1641, Oct. 21, 1922, 42 Stat. 2286.
 
+Freedom Riders National Monument, Alabama.—Proc. No. 9566, Jan. 12, 2017, 82 F.R. 6159.
+
 Gates of the Arctic National Monument, Alaska.—Proc. No. 4617, Dec. 1, 1978, 93 Stat. 1457.
 
 Giant Sequoia National Monument, California.—Proc. No. 7295, Apr. 15, 2000, 65 F.R. 24095.
@@ -208,7 +212,7 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
-Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149.
+Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364.
 
 Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
@@ -218,7 +222,7 @@ Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat
 
 Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000, 65 F.R. 2825.
 
-Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33.
+Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089.
 
 Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of Title 16, Conservation\].—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
@@ -342,6 +346,8 @@ Pullman National Monument, Illinois.—Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10
 
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
 
+Reconstruction Era National Monument, South Carolina.—Proc. No. 9567, Jan. 12, 2017, 82 F.R. 6167.
+
 Río Grande del Norte National Monument, New Mexico.—Proc. No. 8946, Mar. 25, 2013, 78 F.R. 18783.
 
 Rose Atoll Marine National Monument, American Samoa.—Proc. No. 8337, Jan. 6, 2009, 74 F.R. 1577.
@@ -352,7 +358,7 @@ Saguaro National Monument, Arizona \[Monument abolished and incorporated in Sagu
 
 San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
 
-San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272.
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364.
 
 Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379.
 

@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term "octane rating" means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
 
-&emsp;(2) The terms "research octane number" and "motor octane number" have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specification for Automotive Spark-Ignition Engine Fuel" designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
+&emsp;(2) The terms "research octane number" and "motor octane number" have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specification forAutomotive Spark-Ignition Engine Fuel" designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
 
 &emsp;(3) The term "knock" means the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.
 

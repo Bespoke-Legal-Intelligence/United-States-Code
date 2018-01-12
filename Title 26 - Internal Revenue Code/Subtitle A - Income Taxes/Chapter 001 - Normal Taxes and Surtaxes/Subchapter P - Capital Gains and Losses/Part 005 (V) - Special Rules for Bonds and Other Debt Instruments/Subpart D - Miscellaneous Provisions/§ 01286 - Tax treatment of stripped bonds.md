@@ -36,7 +36,7 @@ If a bond issued at any time with interest coupons—
 
 &emsp;(2) is purchased after December 31, 1957, and before July 2, 1982, and the purchaser does not receive all the coupons which first become payable after the date of the purchase,
 
-> then the gain on the sale or other disposition of such bond by such purchaser (or by a person whose basis is determined by reference to the basis in the hands of such purchaser) shall be considered as ordinary income to the extent that the fair market value (determined as of the time of the purchase) of the bond with coupons attached exceeds the purchase price. If this subsection and section 1271(a)(2)(A) apply with respect to gain realized on the sale or exchange of any evidence of indebtedness, then section 1271(a)(2)(A) shall apply with respect to that part of the gain to which this subsection does not apply.
+> then the gain on the sale or other disposition of such bond by such purchaser (or by a person whose basis is determined by reference to the basis in the hands of such purchaser) shall be considered as ordinary income to the extent that the fair market value (determined as of the time of the purchase) of the bond with couponsattached exceeds the purchase price. If this subsection and section 1271(a)(2)(A) apply with respect to gain realized on the sale or exchange of any evidence of indebtedness, then section 1271(a)(2)(A) shall apply with respect to that part of the gain to which this subsection does not apply.
 
 #### (d) Special rules for tax-exempt obligations
 
@@ -44,7 +44,7 @@ If a bond issued at any time with interest coupons—
 
 &emsp;In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
 
-&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) withrespect to any stripped bond or stripped coupon—
+&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) with respect to any stripped bond or stripped coupon—
 
 &emsp;&emsp;&emsp;(i) shall be treated as original issue discount on a tax-exempt obligation to the extent such discount does not exceed the tax-exempt portion of such discount, and
 

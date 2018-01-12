@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Mid-tier value chain
 
-&emsp;The term "mid-tier value chain" means local and regional supply networks that link independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
+&emsp;The term "mid-tier value chain" means local and regional supply networks that linkindependent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
 
 &emsp;&emsp;(A) targets and strengthens the profitability and competitiveness of small and medium-sized farms and ranches that are structured as a family farm; and
 
@@ -196,7 +196,7 @@ Subsec. (b)(4) to (7). Pub. L. 110–246, §6202(b)(2), added pars. (4) to (7) a
 
 Subsec. (c). Pub. L. 107–171, §6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted "subsection (b)(2)" for "subsection (a)(2)", "5 percent" for "$5,000,000", and "subsection (b)" for "subsection (a)" in introductory provisions. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 107–171, §6401(a)(4), which directed amendment of subsec. (d) by substituting "subsections (b) and (c)" for "subsections (a) and (b)", could not be executed because that phrase does not appear.
+Subsec. (d). Pub. L. 107–171, §6401(a)(4), which directed amendment of subsec. (d) by substituting "subsections\(b) and (c)" for "subsections (a) and (b)", could not be executed because that phrase does not appear.
 
 Pub. L. 107–171, §6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -204,7 +204,7 @@ Subsec. (e). Pub. L. 107–171, §6401(a)(1), redesignated subsec. (d) as (e).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 2002 Amendment
 

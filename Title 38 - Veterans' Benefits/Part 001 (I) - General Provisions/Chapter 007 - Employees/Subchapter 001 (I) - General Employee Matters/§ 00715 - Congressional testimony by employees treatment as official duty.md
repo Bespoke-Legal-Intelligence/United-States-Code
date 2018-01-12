@@ -12,5 +12,5 @@ Travel Expenses.—The Secretary shall provide travel expenses, including per di
 
 #### Prior Provisions
 
-A prior section 715 was renumbered section 1915 of this title.
+Prior sections 715 and 716 were renumbered sections 1915 and 1916 of this title, respectively.
 

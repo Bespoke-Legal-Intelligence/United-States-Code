@@ -1338,9 +1338,11 @@ Pub. L. 109–59, title I, §1102, Aug. 10, 2005, 119 Stat. 1157, as amended by 
 
 Pub. L. 105–178, title I, §1102, June 9, 1998, 112 Stat. 115, as amended by Pub. L. 105–206, title IX, §9002(b), July 22, 1998, 112 Stat. 834; Pub. L. 106–159, title I, §103(b)(2), Dec. 9, 1999, 113 Stat. 1753.
 
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2844, provided in part that: "Funds available for the implementation or execution of Federal-aid highway and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of the Fixing America's Surface Transportation Act \[Pub. L. 114–94, see Tables for classification\] shall not exceed total obligations of $42,361,000,000 for fiscal year 2016".
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 735, provided in part that: "Funds available for the implementation or execution of Federal-aid highway and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of the Fixing America's Surface Transportation Act \[Pub. L. 114–94, see Tables for classification\] shall not exceed total obligations of $43,266,100,000 for fiscal year 2017".
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2844.
 
 Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2705.
 
@@ -1348,9 +1350,9 @@ Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 583.
 
 Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 650.
 
-Pub. L. 114–113, div. L, title I, §120, Dec. 18, 2015, 129 Stat. 2844, provided that:
+Pub. L. 115–31, div. K, title I, §120, May 5, 2017, 131 Stat. 736, provided that:
 
-"(a) For fiscal year 2016, the Secretary of Transportation shall—
+"(a) For fiscal year 2017, the Secretary of Transportation shall—
 
 &emsp;"(1) not distribute from the obligation limitation for Federal-aid highways—
 
@@ -1408,7 +1410,7 @@ Exceptions From Obligation Limitation.—The obligation limitation for Federal-a
 
 &emsp;"(11) section 1603 of SAFETEA–LU \[Pub. L. 109–59\] (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
 
-&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2016, only in an amount equal to $639,000,000).
+&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2017, only in an amount equal to $639,000,000).
 
 "(c)
 
@@ -1459,6 +1461,8 @@ Ratio.—Funds shall be distributed under paragraph (1) in the same proportion a
 Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(b) of title 23, United States Code."
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 114–113, div. L, title I, §120, Dec. 18, 2015, 129 Stat. 2844.
 
 Pub. L. 113–235, div. K, title I, §120, Dec. 16, 2014, 128 Stat. 2705.
 

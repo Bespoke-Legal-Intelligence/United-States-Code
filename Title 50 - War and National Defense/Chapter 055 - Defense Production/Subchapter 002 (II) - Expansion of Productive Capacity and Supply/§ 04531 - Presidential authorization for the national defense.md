@@ -52,7 +52,7 @@
 
 #### (2) Funds
 
-&emsp;All such funds as may be necessary to enable any fiscal agent described in paragraph (1) tocarry out any guarantee made by it on behalf of any guaranteeing agency shall be supplied and disbursed by or under authority from such guaranteeing agency.
+&emsp;All such funds as may be necessary to enable any fiscal agent described in paragraph (1) to carry out any guarantee made by it on behalf of any guaranteeing agency shall be supplied and disbursed by or under authority from such guaranteeing agency.
 
 #### (3) Limit on liability
 

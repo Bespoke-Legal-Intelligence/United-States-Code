@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;From the funds provided under section 9835(a)(2)(C)(i) of this title, the Secretary shallprovide, directly or through grants, contracts, or other agreements or arrangements as the Secretary considers appropriate, technical assistance and training for Head Start programs for the purposes of improving program quality and helping prepare children to succeed in school.
+&emsp;From the funds provided under section 9835(a)(2)(C)(i) of this title, the Secretary shall provide, directly or through grants, contracts, or other agreements or arrangements as the Secretary considers appropriate, technical assistance and training for Head Start programs for the purposes of improving program quality and helping prepare children to succeed in school.
 
 #### (2) Process
 
@@ -182,7 +182,7 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 &emsp;&emsp;(A) to implement education programs that increase the number of associate, baccalaureate, and graduate degrees in early childhood education and related fields that are earned by Head Start agency staff members, parents of children served by such agencies, and members of the communities involved;
 
-&emsp;&emsp;(B) to provide assistance for stipends and costs related to tuition, fees, and books for enrolling Head Start agency staff members, parents of children served by such an agency, and members of the communities involved in courses required to complete the degree and certification requirement to become teachers in early childhood education and related fields;
+&emsp;&emsp;(B) to provide assistance for stipends and costs related to tuition, fees, and books forenrolling Head Start agency staff members, parents of children served by such an agency, and members of the communities involved in courses required to complete the degree and certification requirement to become teachers in early childhood education and related fields;
 
 &emsp;&emsp;(C) to develop program curricula to promote high-quality services and instruction to children with diverse backgrounds, including—
 
@@ -224,7 +224,7 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 &emsp;A student at an institution receiving a grant under this subsection who receives assistance under a program funded under this subsection shall teach in a center-based Head Start program for a period of time equivalent to the period for which they received assistance or shall repay such assistance.
 
-(Pub. L. 97–35, title VI, §648, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §106, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 101–501, title I, §116(a), Nov. 3, 1990, 104 Stat. 1232; Pub. L. 102–586, §7(b), Nov. 4, 1992, 106 Stat. 5035; Pub. L. 103–252, titleI, §114, May 18, 1994, 108 Stat. 642; Pub. L. 105–285, title I, §114, Oct. 27, 1998, 112 Stat. 2721; Pub. L. 110–134, §18, Dec. 12, 2007, 121 Stat. 1423; Pub. L. 114–95, title IX, §9215(nn)(5), Dec. 10, 2015, 129 Stat. 2177.)
+(Pub. L. 97–35, title VI, §648, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §106, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 101–501, title I, §116(a), Nov. 3, 1990, 104 Stat. 1232; Pub. L. 102–586, §7(b), Nov. 4, 1992, 106 Stat. 5035; Pub. L. 103–252, title I, §114, May 18, 1994, 108 Stat. 642; Pub. L. 105–285, title I, §114, Oct. 27, 1998, 112 Stat. 2721; Pub. L. 110–134, §18, Dec. 12, 2007, 121 Stat. 1423; Pub. L. 114–95, title IX, §9215(nn)(5), Dec. 10, 2015, 129 Stat. 2177.)
 
 #### Amendments
 

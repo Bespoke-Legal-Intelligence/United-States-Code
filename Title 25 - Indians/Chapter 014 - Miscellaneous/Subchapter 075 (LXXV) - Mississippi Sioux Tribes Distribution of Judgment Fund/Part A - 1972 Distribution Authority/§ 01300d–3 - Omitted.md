@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 92–555, title II, §201, Oct. 25, 1972, 86 Stat. 1169; Pub. L. 105–387, §7(d)(2), Nov. 13, 1998, 112 Stat. 3475, which related to membership rolls of UpperCouncil Sioux tribal groups, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–555, title II, §201, Oct. 25, 1972, 86 Stat. 1169; Pub. L. 105–387, §7(d)(2), Nov. 13, 1998, 112 Stat. 3475, which related to membership rolls of Upper Council Sioux tribal groups, was omitted from the Code as being of special and not general application.
 

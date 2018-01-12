@@ -50,7 +50,7 @@
 
 &emsp;(C) any other place.
 
-> However, if the member selects as his home a place other than a place described in clause (A)or (B) of the preceding sentence, the travel and transportation allowances authorized by subsection (a) may not exceed the allowances which would be payable if the place selected as his home were in the United States (other than Hawaii or Alaska).
+> However, if the member selects as his home a place other than a place described in clause (A) or (B) of the preceding sentence, the travel and transportation allowances authorized by subsection (a) may not exceed the allowances which would be payable if the place selected as his home were in the United States (other than Hawaii or Alaska).
 
 (d)(1) The travel and transportation allowances authorized for each kind of travel may not be more than one of the following:
 
@@ -74,7 +74,7 @@
 
 (5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described in paragraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
 
-(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
+(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command,the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
 (f)(1) The travel and transportation allowances authorized under this section for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed.
 
@@ -134,7 +134,7 @@
 
 (4) Decisions regarding the availability or adequacy of government housing at a military installation under paragraph (1) shall be made by the installation commander.
 
-(j) In this section (except subsection (a)(6)), the term "involuntarily separated" has the meaning given that term in section 1141 of title 10.
+(j) In this section (except subsection (a)(6)), the term "involuntarily separated" has themeaning given that term in section 1141 of title 10.
 
 (k) No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
@@ -272,7 +272,7 @@ Subsec. (d)(1)(C). Pub. L. 99–661, §1343(b)(2), substituted "subparagraph (A)
 
 Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and struck out former par. (2) which read as follows: "Under regulations prescribed by the Secretaries concerned, when either travel is to an area designated as a high cost area in those regulations or the per diem of paragraph (1)(B) of this subsection is less than the amount of the actual and necessary expenses required by the unusual circumstances of the travel assignment, reimbursement may be authorized for actual and necessary expenses, but not for more than $75 for each day in a travel status."
 
-<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par.\(2), and in par. (2) substituted "paragraph (1)(B)" for "clause (2)". Prior to amendment, first sentence read as follows: "The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted "paragraph (1)(B)" for "clause (2)". Prior to amendment, first sentence read as follows: "The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
 
 &emsp;"(1) transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation at a rate per mile prescribed by the Secretaries concerned and based on distances established, over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of the Army;
 
@@ -306,7 +306,7 @@ Pub. L. 96–342 substituted in par. (2) "$50" for "$35" and in provision follow
 
 <b>1967</b>—Subsec. (a)(4). Pub. L. 90–168 added cl. (4).
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes of the travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
+<b>1966</b>—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes ofthe travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
 
 Subsec. (d). Pub. L. 89–718, §55, struck out reference to the Chief of Finance of the Army in cl. (1), substituted "subsection" for "section" and "$16" for "$12" in cl. (2), substituted "subsection" for "section" in cl. (3), and inserted provision authorizing reimbursement on an actual expenses basis where, due to unusual circumstances of a travel assignment, per diem reimbursement is not enough, but placing a limit of $30 for each day in a travel status.
 
@@ -344,7 +344,7 @@ Amendment by section 1402(c) of Pub. L. 98–525 effective Oct. 1, 1985, see sec
 
 Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
-"(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply tomembers who are separated from the service or released from active duty on or after November 1, 1981.
+"(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are separated from the service or released from active duty on or after November 1, 1981.
 
 "(2) Paragraph (2) of section 474(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
@@ -412,5 +412,5 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 St
 
 Increase in Per Diem Rates; Reimbursement for Actual Expenses Incident to Travel
 
-The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the deviceof effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
+The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the device of effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
 

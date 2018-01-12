@@ -10,7 +10,7 @@
 
 &emsp;(B) An explanation of budgetary expenditures and proposed budget for the fiscal year.
 
-&emsp;(C) The total number of children and families served, the average monthly enrollment\(as a percentage of funded enrollment), and the percentage of eligible children served.
+&emsp;(C) The total number of children and families served, the average monthly enrollment (as a percentage of funded enrollment), and the percentage of eligible children served.
 
 &emsp;(D) The results of the most recent review by the Secretary and the financial audit.
 
@@ -26,7 +26,7 @@
 
 &emsp;(A) establish specific standards governing salaries, salary increases, travel and per diem allowances, and other employee benefits;
 
-&emsp;(B) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees are promoted or advanced under impartial procedures calculated to improve agency performance and effectiveness;
+&emsp;(B) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees arepromoted or advanced under impartial procedures calculated to improve agency performance and effectiveness;
 
 &emsp;(C) guard against personal or financial conflicts of interest; and
 
@@ -74,7 +74,7 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 #### (g) Payments for capital expenditures
 
-(1) Upon a determination by the Secretary that suitable facilities (including public school facilities) are not otherwise available to Indian tribes, rural communities, and other low-income communities to carry out Head Start programs, that the lack of suitable facilities will inhibit the operation of such programs, and that construction of such facilities is more cost effective than purchase of available facilities or renovation, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance under this subchapter to make payments for capital expenditures related to facilities that will be used to carry out such programs. The Secretary shall establish uniform procedures for Head Start agencies to request approval for such payments, and shall promote, to the extent practicable, the collocation of Head Start programs with other programs serving low-income children and families.
+(1) Upon a determination by the Secretary that suitable facilities (including public schoolfacilities) are not otherwise available to Indian tribes, rural communities, and other low-income communities to carry out Head Start programs, that the lack of suitable facilities will inhibit the operation of such programs, and that construction of such facilities is more cost effective than purchase of available facilities or renovation, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance under this subchapter to make payments for capital expenditures related to facilities that will be used to carry out such programs. The Secretary shall establish uniform procedures for Head Start agencies to request approval for such payments, and shall promote, to the extent practicable, the collocation of Head Start programs with other programs serving low-income children and families.
 
 (2) Such payments may be used for capital expenditures (including paying the cost of amortizing the principal, and paying interest on, loans) such as expenditures for—
 
@@ -136,7 +136,7 @@ Subsec. (e). Pub. L. 101–501, §112, added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1992 Amendment
 

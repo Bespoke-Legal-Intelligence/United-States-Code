@@ -60,9 +60,13 @@ In this section:
 
 &emsp;&emsp;(A) is a human drug application as defined in section 379g(1) of this title—
 
-&emsp;&emsp;&emsp;(i) for prevention or treatment of a tropical disease; and
+&emsp;&emsp;&emsp;(i) for prevention or treatment of a tropical disease;
 
 &emsp;&emsp;&emsp;(ii) the Secretary deems eligible for priority review;
+
+&emsp;&emsp;&emsp;(iii) that contains reports of one or more new clinical investigations (other than bioavailability studies) that are essential to the approval of the application and conducted or sponsored by the sponsor of such application; and
+
+&emsp;&emsp;&emsp;(iv) that contains an attestation from the sponsor of the application that such reports were not submitted as part of an application for marketing approval or licensure by a regulatory authority in India, Brazil, Thailand, or any country that is a member of the Pharmaceutical Inspection Convention or the Pharmaceutical Inspection Cooperation Scheme prior to September 27, 2007.<sup>1</sup>
 
 &emsp;&emsp;(B) is approved after September 27, 2007, by the Secretary for use in the prevention, detection, or treatment of a tropical disease; and
 
@@ -76,13 +80,13 @@ In this section:
 
 #### (2) Transferability
 
-&emsp;The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
+&emsp;The sponsor of a tropical disease product that receives a priority review voucher underthis section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
 
 #### (3) Limitation
 
 #### (A) No award for prior approved application
 
-&emsp;&emsp;A sponsor of a tropical disease product may not receive a priority review voucherunder this section if the tropical disease product application was submitted to the Secretary prior to September 27, 2007.
+&emsp;&emsp;A sponsor of a tropical disease product may not receive a priority review voucher under this section if the tropical disease product application was submitted to the Secretary prior to September 27, 2007.
 
 #### (B) One-year waiting period
 
@@ -128,13 +132,15 @@ In this section:
 
 &emsp;&emsp;(B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154.)
+(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, §611(a), Aug. 18, 2017, 131 Stat. 1054.)
 
 #### References in Text
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv).
 
 <b>2016</b>—Subsec. (a)(3)(Q). Pub. L. 114–146, §2(2), substituted "Filovirus Diseases" for "Filoviruses".
 
@@ -147,4 +153,10 @@ Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in or
 Subsec. (b)(2). Pub. L. 113–233, §2(2)(A), inserted at end "There is no limit on the number of times a priority review voucher may be transferred before such voucher is used."
 
 Subsec. (b)(4). Pub. L. 113–233, §2(2)(B), substituted "90 days" for "365 days".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–52, title VI, §611(b), Aug. 18, 2017, 131 Stat. 1054, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to human drug applications submitted after September 30, 2017."
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

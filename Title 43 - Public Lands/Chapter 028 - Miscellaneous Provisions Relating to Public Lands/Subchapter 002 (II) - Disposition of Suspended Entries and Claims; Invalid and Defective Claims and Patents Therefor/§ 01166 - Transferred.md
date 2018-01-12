@@ -1,0 +1,6 @@
+### §1166. Transferred
+
+#### Codification
+
+Section 1166 was editorially reclassified as section 2506 of this title.
+

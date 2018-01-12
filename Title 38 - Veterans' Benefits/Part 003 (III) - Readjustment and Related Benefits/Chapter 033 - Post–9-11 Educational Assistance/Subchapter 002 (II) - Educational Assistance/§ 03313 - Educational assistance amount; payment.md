@@ -16,7 +16,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;(A) An amount equal to the following:
 
-&emsp;&emsp;&emsp;(i) In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
+&emsp;&emsp;&emsp;(i) In the case of a program of education pursued at a public institution of higherlearning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
 
 &emsp;&emsp;&emsp;&emsp;(I) any waiver of, or reduction in, tuition and fees; and
 
@@ -40,7 +40,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;(i) Except as provided in clauses (ii) and (iii), for each month an individual pursues a program of education on more than a half-time basis, a monthly housing stipend equal to the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled, multiplied by
+&emsp;&emsp;&emsp;&emsp;(I) the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of higher learning where the individual physically participates in a majority of classes, multiplied by
 
 &emsp;&emsp;&emsp;&emsp;(II) the lesser of—
 
@@ -72,7 +72,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(5) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(5) In the case of an individual entitled to educational assistance under this chapter byreason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(6) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -140,7 +140,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;(3)
 
-Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program ofeducation shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
 &emsp;(4)
 
@@ -218,7 +218,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(I) of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of an individual pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution at which the individual is enrolled; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of an individual pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of where the individual physically participates in a majority of classes; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of an individual pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the amount payable under item (aa), multiplied by
 
@@ -236,7 +236,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(i) Subject to clauses (iii) and (iv), for each month the individual pursues the program of education, a monthly housing stipend equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) during the first six-month period of the program, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a memberwith dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the employer at which the individual pursues such program;
+&emsp;&emsp;&emsp;&emsp;(I) during the first six-month period of the program, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the employer at which the individual pursues such program;
 
 &emsp;&emsp;&emsp;&emsp;(II) during the second six-month period of the program, 80 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I);
 
@@ -294,7 +294,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reasonof paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
 &emsp;(4)
 
@@ -344,7 +344,61 @@ Payment of Established Charges to Educational Institutions.—Amounts payable un
 
 Determination of Housing Stipend Payments for Academic Years.—Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539.)
+(j)
+
+Determination of Monthly Housing Stipends During Active Duty Service.—For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of suchstipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166.)
+
+#### Applicability of Amendment
+
+<i>Amendment of this section by section 107(a) of Pub. L. 115–48 and section 501(b)(1) of Pub. L. 115–62 applicable with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
+
+<i>Amendment of this section by section 113(a) of Pub. L. 115–48 and subsec. (j) of this section as amended by section 501(c)(1) of Pub. L. 115–62 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
+
+#### Amendment of Section
+
+<i>Pub. L. 115–48, title I, §102(b), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (c)(1) of this section is amended by striking "or (9)" and inserting "(9), or (10)".</i>
+
+<i>Pub. L. 115–48, title I, §105(b), (c)(2), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—</i>
+
+<i>(1) in subsection (c)—</i>
+
+<i>(A) in paragraph (1), by striking "(9), or (10)" and inserting "(8), or (9)"; and</i>
+
+<i>(B) by striking paragraph (7);</i>
+
+<i>(2) in subsection (d), by striking "paragraphs (2) through (7)" each place it appears and inserting "paragraphs (2) through (6)";</i>
+
+<i>(3) in subsection (e)(2)(C)—</i>
+
+<i>(A) by striking "paragraphs (3) through (8)" and inserting "paragraphs (3) through (7)"; and</i>
+
+<i>(B) by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)";</i>
+
+<i>(4) in subsection (f)(2)(A)(ii), by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)";</i>
+
+<i>(5) in subsection (g)(3)—</i>
+
+<i>(A) in subparagraphs (A)(iv) and (B)(iii)—</i>
+
+<i>(i) by striking "paragraphs (3) through (8)" and inserting "paragraphs (3) through (7)"; and</i>
+
+<i>(ii) by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)"; and</i>
+
+<i>(B) in subparagraphs (C)(ii) and (D)(ii)—</i>
+
+<i>(i) in subclause (I), by striking "(9)" and inserting "(8)"; and</i>
+
+<i>(ii) in subclause (II)—</i>
+
+<i>(I) by striking "paragraphs (3) through (8)" and inserting "paragraphs (3) through (7)"; and</i>
+
+<i>(II) by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)"; and</i>
+
+<i>(6) in subsection (h), by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)".</i>
+
+<i>See 2017 Amendment notes below.</i>
 
 #### References in Text
 
@@ -352,13 +406,41 @@ Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–48, §105(c)(2)(A), substituted "(8), or (9)" for "(9), or (10)".
+
+Pub. L. 115–48, §102(b), substituted "(9), or (10)" for "or (9)".
+
+Subsec. (c)(1)(B)(i)(I). Pub. L. 115–48, §107(a), substituted "the campus of the institution of higher learning where the individual physically participates in a majority of classes" for "the institution of higher learning at which the individual is enrolled".
+
+Subsec. (c)(7). Pub. L. 115–48, §105(b), struck out par. (7) which read as follows: "In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph."
+
+Subsec. (d)(1), (2). Pub. L. 115–48, §105(c)(2)(B), substituted "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (e)(2)(C). Pub. L. 115–48, §105(c)(2)(C), substituted "paragraphs (3) through (7)" for "paragraphs (3) through (8)" and "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (f)(2)(A)(ii). Pub. L. 115–48, §105(c)(2)(D), substituted "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (g)(3)(A)(ii)(I)(aa). Pub. L. 115–62, §501(b)(1), substituted "the campus of the institution of where the individual physically participates in a majority of classes" for "the institution at which the individual is enrolled".
+
+Subsec. (g)(3)(A)(iv), (B)(iii). Pub. L. 115–48, §105(c)(2)(E)(i), (ii), substituted "paragraphs (3) through (7)" for "paragraphs (3) through (8)" and "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (g)(3)(C)(ii). Pub. L. 115–48, §105(c)(2)(E)(iii), in subcl. (I), substituted "(8)" for "(9)" and in subcl. (II), substituted "paragraphs (3) through (7)" for "paragraphs (3) through (8)" and "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (g)(3)(D)(ii). Pub. L. 115–48, §105(c)(2)(E)(iv), in subcl. (I), substituted "(8)" for "(9)" and in subcl. (II), substituted "paragraphs (3) through (7)" for "paragraphs (3) through (8)" and "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (h). Pub. L. 115–48, §105(c)(2)(F), substituted "paragraphs (2) through (6)" for "paragraphs (2) through (7)".
+
+Subsec. (j). Pub. L. 115–62, §501(c)(1), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to determination of monthly stipends during certain active duty service.
+
+Pub. L. 115–48, §113(a), added subsec. (j).
+
 <b>2015</b>—Pub. L. 114–58, §601(16), substituted "1070a(b)" for "1070a" wherever appearing.
 
 Subsec. (e)(2)(A)(iii). Pub. L. 114–58, §601(17), struck out second period at end.
 
 Subsec. (g)(3)(A)(iii). Pub. L. 114–58, §601(18), substituted "books," for "books".
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–377, §105(a), struck out "is offered by an institution of higher learning (as that term is defined in section 3452(f)) and" before "is approved".
+<b>2011</b>—Subsec. (b). Pub. L. 111–377, §105(a), struck out "is offered by an institution of higher learning (as thatterm is defined in section 3452(f)) and" before "is approved".
 
 Subsec. (c). Pub. L. 111–377, §102(a)(2), amended heading generally. Prior to amendment, heading read as follows: "Amount of Educational Assistance".
 
@@ -412,6 +494,20 @@ Subsec. (e)(2)(B). Pub. L. 111–275, §1001(g)(3), inserted period at end.
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–32 substituted "paragraph (1), (2), or (9) of section 3311(b)" for "section 3311(b)(1) or 3311(b)(2)".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–62, title V, §501(b)(2), Sept. 29, 2017, 131 Stat. 1165, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
+
+Pub. L. 115–62, title V, §501(c)(2), Sept. 29, 2017, 131 Stat. 1166, provided that: "Such subsection \[meaning subsec. (j) of this section\], as amended by paragraph (1), shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
+
+Amendment by section 102(b) of Pub. L. 115–48 effective Aug. 1, 2018, see section 102(c) of Pub. L. 115–48, set out as a note under section 3311 of this title.
+
+Amendment by section 105(b), (c)(2) of Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
+
+Pub. L. 115–48, title I, §107(b), Aug. 16, 2017, 131 Stat. 977, as amended by Pub. L. 115–62, title V, §501(b)(3), Sept. 29, 2017, 131 Stat. 1166, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
+
+Pub. L. 115–48, title I, §113(b), Aug. 16, 2017, 131 Stat. 985, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2018."
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–377, title I, §102(c), Jan. 4, 2011, 124 Stat. 4110, provided that:
@@ -428,7 +524,7 @@ Pub. L. 111–377, title I, §103(c), Jan. 4, 2011, 124 Stat. 4112, provided tha
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
 
 "(2)
 
@@ -443,6 +539,14 @@ Pub. L. 111–377, title I, §106(b), Jan. 4, 2011, 124 Stat. 4118, provided tha
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under section 3311 of this title.
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+
+#### Duration of Assistance
+
+Pub. L. 115–48, title I, §106(d), Aug. 16, 2017, 131 Stat. 977, provided that: "Notwithstanding section 3312 of title 38, United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under section 3313 of title 38, United States Code, equal to the number of months of entitlement remaining under chapter 1607 of title 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code."
 
 #### Preservation of Higher Rates for Tuition and Fees for Programs of Education at Non-Public Institutions of Higher Learning Pursued by Individuals Enrolled in Such Programs Prior to Change in Maximum Amount
 
@@ -460,7 +564,7 @@ In General.—Notwithstanding paragraph (1)(A)(ii) of section 3313(c) of title 3
 
 Covered Individuals.—An individual described in this subsection is an individual entitled to educational assistance under chapter 33 of title 38, United States Code, who, since January 4, 2011, has been enrolled in the same non-public institution of higher learning in a State in which—
 
-&emsp;"(1) the maximum amount of tuition per credit in the 2010–2011 academic year, as determined pursuantto the table referred to in subsection (a)(2), exceeded $700; and
+&emsp;"(1) the maximum amount of tuition per credit in the 2010–2011 academic year, as determined pursuant to the table referred to in subsection (a)(2), exceeded $700; and
 
 &emsp;"(2) the combined amount of tuition and fees for full-time attendance in the program of education in such academic year exceeded $17,500.
 

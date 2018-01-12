@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-(a) "Hospital" includes diagnostic or treatment centers and general hospitals, and related facilities, such as laboratories, outpatient departments, nurses' home and training facilities, and central service facilities operated in connection with hospitals, but does not include any hospital furnishing primarily domiciliary care;
+(a) "Hospital" includes diagnostic or treatment centers and general hospitals, and relatedfacilities, such as laboratories, outpatient departments, nurses' home and training facilities, and central service facilities operated in connection with hospitals, but does not include any hospital furnishing primarily domiciliary care;
 
 (b) "Diagnostic or treatment center" means a facility for the diagnosis or diagnosis and treatment of ambulatory patients—
 

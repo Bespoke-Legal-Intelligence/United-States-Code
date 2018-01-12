@@ -48,7 +48,7 @@ The President shall not apply sanctions under this section to a parent, affiliat
 
 &emsp;(1) the parent, affiliate, subsidiary, or successor entity (as the case may be) has not knowingly violated the export control regulation violated by the foreign person, and
 
-&emsp;(2) the government of the country with jurisdiction over the parent, affiliate, subsidiary, or successor entity had in effect, at the timeof the violation by the foreign person, an effective export control system consistent with principles agreed to in the Coordinating Committee, including the following:
+&emsp;(2) the government of the country with jurisdiction over the parent, affiliate, subsidiary, or successor entity had in effect, at the time of the violation by the foreign person, an effective export control system consistent with principles agreed to in the Coordinating Committee, including the following:
 
 &emsp;&emsp;(A) national laws providing appropriate civil and criminal penalties and statutes of limitations sufficient to deter potential violations;
 
@@ -112,7 +112,7 @@ Upon making a determination under subsection (a) or (h), the President shall—
 
 (1) In any case in which the President makes a determination under subsection (a), the Secretary of Defense shall determine the costs of restoring the military preparedness of the United States on account of the violation involved. The Secretary of Defense shall notify the Attorney General of his determination, and the Attorney General may bring an action for damages, in any appropriate district court of the United States, to recover such costs against the person who committed the violation, any person that is owned or controlled by the person who committed the violation, and any person who owns and controls the person who committed the violation.
 
-(3) <sup>1</sup> The total amount awarded in any case brought under paragraph (2) <sup>1</sup> shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of the United States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
+(3) <sup>1</sup> The total amount awarded in any case brought under paragraph (2) <sup>1</sup> shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of theUnited States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
 
 #### (l) Definition
 

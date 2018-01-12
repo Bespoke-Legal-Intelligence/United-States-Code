@@ -8,7 +8,7 @@
 
 (2) A facility described in this paragraph is—
 
-&emsp;(A) a facility of the Department (as defined in section 1701(3) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
+&emsp;(A) a facility of the Department (as defined in section 1701(3) of this title) to which the deceased was properly admitted for hospital,nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
 
 &emsp;(B) an institution at which the deceased veteran was, at the time of death, receiving—
 
@@ -52,7 +52,7 @@ Subsec. (b)(2). Pub. L. 108–183, §501(a)(2), substituted "is eligible for a b
 
 <b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–114 substituted "a facility of the Department (as defined in section 1701(3) of this title)" for "a Department facility (as defined in section 1701(4) of this title)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "When a veteran dies in a Department facility (as defined in section 1701(4) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title or in an institution at which the deceased veteran was receiving hospital care in accordance with section 1703 of this title or nursing home care under section 1720 of this title at the expense of the United States at the time of death, the Secretary—
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "When a veteran dies in a Department facility (as defined in section 1701(4) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title or in an institution at which the deceased veteran was receiving hospital care in accordance with section 1703 of this title or nursing home care undersection 1720 of this title at the expense of the United States at the time of death, the Secretary—
 
 &emsp;"(1) shall pay the actual cost (not to exceed $300) of the burial and funeral or, within such limits, may make contracts for such services without regard to the laws requiring advertisement for proposals for supplies and services for the Department; and
 

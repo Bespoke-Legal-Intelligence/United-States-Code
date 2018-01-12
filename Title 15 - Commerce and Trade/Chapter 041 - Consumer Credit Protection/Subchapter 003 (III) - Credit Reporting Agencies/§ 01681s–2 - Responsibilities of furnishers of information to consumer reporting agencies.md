@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) has furnished to a consumer reporting agency information that the person determines is not complete or accurate,
 
-> &emsp;shall promptly notify the consumer reporting agency of that determination and provide tothe agency any corrections to that information, or any additional information, that is necessary to make the information provided by the person to the agency complete and accurate, and shall not thereafter furnish to the agency any of the information that remains not complete or accurate.
+> &emsp;shall promptly notify the consumer reporting agency of that determination and provide to the agency any corrections to that information, or any additional information, that is necessary to make the information provided by the person to the agency complete and accurate, and shall not thereafter furnish to the agency any of the information that remains not complete or accurate.
 
 #### (3) Duty to provide notice of dispute
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;&emsp;(iii) complete such person's investigation of the dispute and report the results of the investigation to the consumer before the expiration of the period under section 1681i(a)(1) of this title within which a consumer reporting agency would be required to complete its action if the consumer had elected to dispute the information under that section; and
 
-&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate,promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
+&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
 
 #### (F) Frivolous or irrelevant dispute
 
@@ -250,7 +250,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (1) Guidelines
 
-&emsp;The Bureau shall, with respect to persons or entities that are subject to the enforcementauthority of the Bureau under section 1681s of this title—
+&emsp;The Bureau shall, with respect to persons or entities that are subject to the enforcement authority of the Bureau under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and
 

@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (B) U.S. liabilities
 
-&emsp;&emsp;The term "U.S. liabilities" means the liabilities of the foreign corporation treatedas connected with the conduct of a trade or business in the United States under regulations prescribed by the Secretary.
+&emsp;&emsp;The term "U.S. liabilities" means the liabilities of the foreign corporation treated as connected with the conduct of a trade or business in the United States under regulations prescribed by the Secretary.
 
 #### (C) Regulations to be consistent with allocation of deductions
 

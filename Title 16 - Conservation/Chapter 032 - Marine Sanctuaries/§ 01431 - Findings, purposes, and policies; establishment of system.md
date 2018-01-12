@@ -132,7 +132,7 @@ For statement of Congressional findings, policy, and declaration of purpose of P
 
 #### Environmental Effects Abroad of Major Federal Actions
 
-For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114,Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Federal Compliance With Pollution Control Standards
 
@@ -154,7 +154,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order: (a) "Marine protecte
 
 (b) "Marine environment" means those areas of coastal and ocean waters, the Great Lakes and their connecting waters, and submerged lands thereunder, over which the United States exercises jurisdiction, consistent with international law.
 
-(c) The term "United States" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+(c) The term "United States" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States,American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
 Sec. 3. <i>MPA Establishment, Protection, and Management</i>. Each Federal agency whose authorities provide for the establishment or management of MPAs shall take appropriate actions to enhance or expand protection of existing MPAs and establish or recommend, as appropriate, new MPAs. Agencies implementing this section shall consult with the agencies identified in subsection 4(a) of this order, consistent with existing requirements.
 
@@ -202,5 +202,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Marine Protected Areas Federal Advisory Committee
 
-Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a noteunder section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of Marine Protected Areas Federal Advisory Committee was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

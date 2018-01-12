@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 16 percent of theoutstanding principal and interest at the time of the loan sale; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) retain such amount from the proceeds of the loan sale; and
 
@@ -50,7 +50,7 @@
 
 #### (F) Eligible lender limitation
 
-&emsp;&emsp;A loan shall not be sold to an eligible lender under subparagraph (A)(i) if such lender has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part.
+&emsp;&emsp;A loan shall not be sold to an eligible lender under subparagraph (A)(i) if such lenderhas been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part.
 
 #### (G) Default due to error
 
@@ -102,7 +102,7 @@ Subsec. (a)(1)(D)(i). Pub. L. 113–67, §501(2), added cl. (i) and struck out f
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §402(d)(1)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
 
-Subsec. (a)(2). Pub. L. 111–39, §402(d)(1)(A)(ii), substituted "paragraph (1)(A)(i)" for "paragraph (1) of thissubsection" and "paragraph (1)(D)(ii)(I)" for "paragraph (1)(B)(ii) of this subsection".
+Subsec. (a)(2). Pub. L. 111–39, §402(d)(1)(A)(ii), substituted "paragraph (1)(A)(i)" for "paragraph (1) of this subsection" and "paragraph (1)(D)(ii)(I)" for "paragraph (1)(B)(ii) of this subsection".
 
 Subsec. (a)(3). Pub. L. 111–39, §402(d)(1)(A)(iii)(II), substituted "sale or assignment." for "sale."
 

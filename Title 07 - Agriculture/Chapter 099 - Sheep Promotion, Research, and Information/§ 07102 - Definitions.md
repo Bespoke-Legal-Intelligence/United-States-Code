@@ -56,7 +56,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (14) Industry information
 
-&emsp;The term "industry information" means information and programs that will lead to increased efficiency in processing and the development of new markets, marketing strategies, increased marketing efficiency, and activities to enhance the image of sheep or sheep products on a national or international basis.
+&emsp;The term "industry information" means information and programs that will lead to increased efficiency in processing and the development of new markets, marketing strategies, increased marketing efficiency, and activitiesto enhance the image of sheep or sheep products on a national or international basis.
 
 #### (15) Order
 
@@ -104,7 +104,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (24) Research
 
-&emsp;The term "research" means development projects and studies relating to the production (including the feeding of sheep), processing, distribution, or use of sheep or sheep products to encourage, expand, improve, or make moreefficient the marketing of sheep or sheep products.
+&emsp;The term "research" means development projects and studies relating to the production (including the feeding of sheep), processing, distribution, or use of sheep or sheep products to encourage, expand, improve, or make more efficient the marketing of sheep or sheep products.
 
 #### (25) Secretary
 

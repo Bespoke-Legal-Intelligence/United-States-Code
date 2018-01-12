@@ -40,5 +40,9 @@ The remedies provided for in this section shall be the exclusive remedies for an
 
 (Pub. L. 100–379, §5, Aug. 4, 1988, 102 Stat. 893.)
 
+#### Effective Date
+
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
+
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

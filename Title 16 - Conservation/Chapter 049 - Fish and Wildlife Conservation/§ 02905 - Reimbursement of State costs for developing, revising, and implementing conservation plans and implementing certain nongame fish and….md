@@ -30,7 +30,7 @@ No State is eligible for reimbursement under this section unless the Secretary f
 
 &emsp;(4) If reimbursement is sought under subsection (a)(4), such costs have been incurred in implementing conservation actions specified in, and in a manner consistent with, the approved conservation plan.
 
-&emsp;(5) If reimbursement is sought under subsection (a)(5), such costs have been incurred in consolidating, coordinating or implementing conservation plans and actions approved under this chapter with approved plans and actions under the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] and the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] in a manner consistent with sections 2901 and 2903 of this title.
+&emsp;(5) If reimbursement is sought under subsection (a)(5), such costs have been incurred in consolidating, coordinating or implementing conservation plans and actions approved under this chapter with approved plans and actionsunder the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] and the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] in a manner consistent with sections 2901 and 2903 of this title.
 
 #### (d) Reimbursement
 
@@ -56,7 +56,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;&emsp;(ii) as penalties (including forfeitures) for violations of the hunting, fishing, and trapping laws of the State; or
 
-&emsp;(F) in implementing an approved conservation plan or any nongame fish and wildlifeconservation action approved under section 2904(c) or (d) of this title, to the extent that—
+&emsp;(F) in implementing an approved conservation plan or any nongame fish and wildlife conservation action approved under section 2904(c) or (d) of this title, to the extent that—
 
 &emsp;&emsp;(i) more than 10 percent of such costs are applied for purposes of conservation law enforcement under any such plan or action, and
 
@@ -90,7 +90,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 #### References in Text
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 

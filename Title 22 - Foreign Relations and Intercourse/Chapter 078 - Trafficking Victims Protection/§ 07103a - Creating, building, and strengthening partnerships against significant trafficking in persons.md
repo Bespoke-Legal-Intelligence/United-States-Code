@@ -12,7 +12,7 @@ The purpose of this section is to promote collaboration and cooperation—
 
 #### (b) Partnerships
 
-The Director of the office established pursuant to section 7103(e)(1) of this title, in coordination and cooperation with other officials at the Department of State, officials at the Department of Labor, and other relevant officials of the United States Government, shall promote, build,and sustain partnerships between the United States Government and private entities, including foundations, universities, corporations, community-based organizations, and other nongovernmental organizations, to ensure that—
+The Director of the office established pursuant to section 7103(e)(1) of this title, in coordination and cooperation with other officials at the Department of State, officials at the Department of Labor, and other relevant officials of the United States Government, shall promote, build, and sustain partnerships between the United States Government and private entities, including foundations, universities, corporations, community-based organizations, and other nongovernmental organizations, to ensure that—
 
 &emsp;(1) United States citizens do not use any item, product, or material produced or extracted with the use and labor from victims of severe forms of trafficking; and
 
@@ -30,7 +30,7 @@ The Secretary of State, acting through the Director established pursuant to sect
 
 &emsp;&emsp;(A) prevent and respond to violence, exploitation, and abuse against children; and
 
-&emsp;&emsp;(B) measurably reduce the trafficking of minors by building sustainable and effective systems of justice, prevention, and protection.
+&emsp;&emsp;(B) measurably reduce the trafficking of minors by building sustainable and effectivesystems of justice, prevention, and protection.
 
 #### (2) Elements
 
@@ -84,7 +84,7 @@ The Secretary of State, acting through the Director established pursuant to sect
 
 #### (B) Reinstatement
 
-&emsp;&emsp;The Secretary may reinstate assistance for a country or entity suspended or terminated under this paragraph only if the Secretary determines that the country or entityhas demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subparagraph (A).
+&emsp;&emsp;The Secretary may reinstate assistance for a country or entity suspended or terminated under this paragraph only if the Secretary determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subparagraph (A).
 
 (Pub. L. 106–386, div. A, §105A, as added Pub. L. 113–4, title XII, §1202, Mar. 7, 2013, 127 Stat. 136.)
 

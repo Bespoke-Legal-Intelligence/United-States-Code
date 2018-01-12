@@ -156,7 +156,7 @@ Analysis.—The Secretary shall—
 
 &emsp;&emsp;"(B) as soon as practicable after completion of the updated analysis under subparagraph (A), solicit public comment in the Federal Register on the analysis for a period of not more than 30 days; and
 
-&emsp;&emsp;"(C) not later than 60 days after the end of the public comment period under subparagraph (B), post the final updated regulatory impact analysis on the Department of Transportation's Internet Web site.
+&emsp;&emsp;"(C) not later than 60 days after the end of the public comment period under subparagraph (B),post the final updated regulatory impact analysis on the Department of Transportation's Internet Web site.
 
 &emsp;"(2)
 

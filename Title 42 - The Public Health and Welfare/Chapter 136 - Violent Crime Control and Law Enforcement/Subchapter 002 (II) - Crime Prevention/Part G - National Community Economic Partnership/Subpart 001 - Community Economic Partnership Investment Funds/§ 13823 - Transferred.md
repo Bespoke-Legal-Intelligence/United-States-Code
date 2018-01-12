@@ -1,0 +1,6 @@
+### §13823. Transferred
+
+#### Codification
+
+Section 13823 was editorially reclassified as section 12183 of Title 34, Crime Control and Law Enforcement.
+

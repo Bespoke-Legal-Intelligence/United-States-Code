@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, if—
 
 If the Secretary makes payments available to producers under subsection (a), the amount of such payment shall be determined—
 
-&emsp;(1) in the case of an agricultural commodity for which payments are authorized to be madeto producers under Title I of the Agricultural Act of 1949 (7 U.S.C. 1441 et seq.), by multiplying—
+&emsp;(1) in the case of an agricultural commodity for which payments are authorized to be made to producers under Title I of the Agricultural Act of 1949 (7 U.S.C. 1441 et seq.), by multiplying—
 
 &emsp;&emsp;(A) the farm program payment yield for the producer or the yield established for the farm for the commodity involved; by
 

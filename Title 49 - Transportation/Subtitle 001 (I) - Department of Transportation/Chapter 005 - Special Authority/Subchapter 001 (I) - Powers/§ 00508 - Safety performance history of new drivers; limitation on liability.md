@@ -4,7 +4,7 @@
 
 Limitation on Liability.—No action or proceeding for defamation, invasion of privacy, or interference with a contract that is based on the furnishing or use of safety performance records in accordance with regulations issued by the Secretary may be brought against—
 
-&emsp;(1) a motor carrier requesting the safety performance records of an individual under consideration for employment as a commercial motor vehicle driver as required by and in accordance with regulations issued by the Secretary;
+&emsp;(1) a motor carrier requesting the safety performance records of an individual under consideration for employment as a commercialmotor vehicle driver as required by and in accordance with regulations issued by the Secretary;
 
 &emsp;(2) a person who has complied with such a request; or
 
@@ -28,7 +28,7 @@ Motor carrier requesting.—Subsection (a) does not apply to a motor carrier req
 
 Person complying with requests.—Subsection (a) does not apply to a person complying with a request for safety performance records unless—
 
-&emsp;&emsp;(A) the complying person and any agents of the complying person have taken all precautions reasonably necessary to ensure theaccuracy of the records and have complied with the regulations issued by the Secretary in furnishing the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records; and
+&emsp;&emsp;(A) the complying person and any agents of the complying person have taken all precautions reasonably necessary to ensure the accuracy of the records and have complied with the regulations issued by the Secretary in furnishing the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records; and
 
 &emsp;&emsp;(B) the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
 

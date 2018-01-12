@@ -26,7 +26,7 @@
 
 (6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
 
-(b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
+(b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or privateagencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
@@ -74,7 +74,7 @@ Elements.—The report submitted under paragraph (1) shall include the following
 
 #### Pilot Program on Display of Wait Times at Urgent Care Clinics and Pharmacies of Military Medical Treatment Facilities
 
-Pub. L. 114–328, div. A, title VII, §744, Dec. 23, 2016, 130 Stat. 2239, provided that:
+Pub. L. 114–328, div. A, title VII, §744, Dec. 23, 2016, 130 Stat. 2239, as amended by Pub. L. 115–91, div. A, title VII, §717, Dec. 12, 2017, 131 Stat. 1439, provided that:
 
 "(a)
 
@@ -112,7 +112,7 @@ Placement.—With respect to each military medical treatment facility participat
 
 &emsp;"(2)
 
-Determination.—In carrying out paragraph (1), every 30 minutes, the Secretary shall determine theaverage wait time to display under such paragraph by calculating, for the four-hour period preceding the calculation, the average length of time beginning at the time of the arrival of a patient at the urgent care clinic and ending at the time at which the patient is first seen by a qualified medical professional.
+Determination.—In carrying out paragraph (1), the Secretary shall determine the average wait time to display under such paragraph by using a formula derived from best practices in the health care industry.
 
 "(d)
 
@@ -124,7 +124,7 @@ Placement.—With respect to each military medical treatment facility participat
 
 &emsp;"(2)
 
-Determination.—In carrying out paragraph (1), every 30 minutes, the Secretary shall determine the average wait time to display under such paragraph by calculating, for the four-hour period preceding the calculation, the average length of time beginning at the time of submission by a patient of a prescription for a pharmaceutical agent and ending at the time at which the pharmacy dispenses the pharmaceutical agent to the patient.
+Determination.—In carrying out paragraph (1), the Secretary shall determine the average wait time to display under such paragraph by using a formula derived from best practices in the health care industry.
 
 "(e)
 
@@ -388,7 +388,7 @@ Implementation and Report.—Not later than September 30, 2006, the Secretary of
 
 #### Pilot Program for Health Care Delivery
 
-Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, titleVII, §707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, \[div. A\], title X, §1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
+Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, title VII, §707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, \[div. A\], title X, §1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
 "(a)
 
@@ -560,7 +560,7 @@ Report Required.—Not later than January 31, 2001, the Secretary of Defense sha
 
 GAO Reports.—The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation."
 
-Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan.31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
+Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
 Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
 

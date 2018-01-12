@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the monthfollowing the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 

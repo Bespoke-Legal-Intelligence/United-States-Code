@@ -88,7 +88,7 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 #### Hearing Examiners Employed by Department of Justice
 
-Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Labor
 

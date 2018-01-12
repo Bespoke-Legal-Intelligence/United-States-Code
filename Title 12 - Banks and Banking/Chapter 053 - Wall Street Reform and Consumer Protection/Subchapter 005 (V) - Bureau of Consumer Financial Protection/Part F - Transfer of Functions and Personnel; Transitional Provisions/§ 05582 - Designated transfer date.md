@@ -4,7 +4,7 @@
 
 Not later than 60 days after July 21, 2010, the Secretary shall—
 
-&emsp;(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date for the transfer of functions to the Bureau under section 5581 of this title; and
+&emsp;(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a singlecalendar date <sup>1</sup> for the transfer of functions to the Bureau under section 5581 of this title; and
 
 &emsp;(2) publish notice of that designated date in the Federal Register.
 
@@ -26,7 +26,7 @@ The Secretary—
 
 &emsp;The Secretary may designate a date that is later than 12 months after July 21, 2010, if the Secretary transmits to appropriate committees of Congress—
 
-&emsp;&emsp;(A) a written determination that orderly implementation of this title <sup>1</sup> is not feasible before the date that is 12 months after July 21, 2010;
+&emsp;&emsp;(A) a written determination that orderly implementation of this title <sup>2</sup> is not feasible before the date that is 12 months after July 21, 2010;
 
 &emsp;&emsp;(B) an explanation of why an extension is necessary for the orderly implementation of this title; <sup>1</sup> and
 
@@ -38,13 +38,15 @@ The Secretary—
 
 (Pub. L. 111–203, title X, §1062, July 21, 2010, 124 Stat. 2039.)
 
-#### Definition of Designated Transfer Date
-
-<i>Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.</i>
-
 #### References in Text
 
 This title, referred to in subsec. (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Definition of Designated Transfer Date
+
+Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
+
+<i><sup>1</sup></i><i> See Definition of Designated Transfer Date note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

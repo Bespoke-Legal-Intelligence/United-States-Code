@@ -4,7 +4,7 @@
 
 #### (1) Petition
 
-&emsp;With respect to any final order by the Secretary under section 3246 of this title by which the Secretary awards, declines to award, or only conditionally awards, financial assistance under this subchapter, or any final order of the Secretary under section 3246 of this title with respect to a corrective action or sanction imposed under section 3244 of this title, any party to a proceeding that resulted in such final order may obtain review of such final order in the United States Court of Appealshaving jurisdiction over the applicant for or recipient of the funds involved, by filing a review petition within 30 days after the date of issuance of such final order.
+&emsp;With respect to any final order by the Secretary under section 3246 of this title by which the Secretary awards, declines to award, or only conditionally awards, financial assistance under this subchapter, or any final order of the Secretary under section 3246 of this title with respect to a corrective action or sanction imposed under section 3244 of this title, any party to a proceeding that resulted in such final order may obtain review of such final order in the United States Court of Appeals having jurisdiction over the applicant for or recipient of the funds involved, by filing a review petition within 30 days after the date of issuance of such final order.
 
 #### (2) Action on petition
 
@@ -22,5 +22,5 @@ The court shall have jurisdiction to make and enter a decree affirming, modifyin
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

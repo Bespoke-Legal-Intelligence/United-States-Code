@@ -1,0 +1,6 @@
+### §10510. Transferred
+
+#### Codification
+
+Section 10510 was editorially reclassified as section 50109 of Title 34, Crime Control and Law Enforcement.
+

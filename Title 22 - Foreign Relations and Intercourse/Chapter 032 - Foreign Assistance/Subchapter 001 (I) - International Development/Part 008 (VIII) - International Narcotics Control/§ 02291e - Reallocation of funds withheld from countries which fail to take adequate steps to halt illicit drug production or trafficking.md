@@ -10,7 +10,7 @@ If any funds authorized to be appropriated for any fiscal year for assistance un
 
 &emsp;Any such funds not used under paragraph (1) shall be reprogrammed within the account for which they were appropriated (subject to the regular reprogramming procedures under section 2394–1 of this title) in order to provide additional assistance for those countries.
 
-(Pub. L. 87–195, pt. I, §486, as added Pub. L. 100–690, title IV, §4206(a), Nov. 18, 1988, 102 Stat.4270; amended Pub. L. 102–583, §6(b)(5), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(d), Nov. 2, 1994, 108 Stat. 4692.)
+(Pub. L. 87–195, pt. I, §486, as added Pub. L. 100–690, title IV, §4206(a), Nov. 18, 1988, 102 Stat. 4270; amended Pub. L. 102–583, §6(b)(5), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(d), Nov. 2, 1994, 108 Stat. 4692.)
 
 #### References in Text
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 102–583, §6(b)(5)(B), substituted "(relating to the 'For
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 

@@ -20,7 +20,7 @@ The facility established under subsection (a) shall be utilized to train Federal
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a).
+&emsp;There are authorized to be appropriated such sums as may be necessary to establish andmaintain the facility established under subsection (a).
 
 #### (2) Availability of funds
 

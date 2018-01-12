@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) the administration of this subchapter and subchapter III of this chapter; and
 
-&emsp;(2) perform such other duties as the Board may direct with respect to investment fundsestablished in accordance with subchapter III of this chapter.
+&emsp;(2) perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
 
 (f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
 

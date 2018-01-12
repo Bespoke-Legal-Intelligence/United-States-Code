@@ -38,7 +38,7 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the President shall submit to Congress a report on the use of riot control agents by members of the Armed Forces.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], thePresident shall submit to Congress a report on the use of riot control agents by members of the Armed Forces.
 
 &emsp;"(2)
 

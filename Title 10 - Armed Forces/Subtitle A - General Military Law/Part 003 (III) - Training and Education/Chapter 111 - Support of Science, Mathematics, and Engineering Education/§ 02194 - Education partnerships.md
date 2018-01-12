@@ -42,7 +42,7 @@
 
 #### References in Text
 
-Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referredto in subsec. (c), were repealed by Pub. L. 102–325, title III, §302(a)(3), July 23, 1992, 106 Stat. 472.
+Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, §302(a)(3), July 23, 1992, 106 Stat. 472.
 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(2), is classified to section 7801 of Title 20, Education.
 

@@ -16,7 +16,7 @@ Pub. L. 114–322, title I, §1001, Dec. 16, 2016, 130 Stat. 1632, provided that
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This Act \[see Tables for classification\]may be cited as the 'Water Resources Reform and Development Act of 2014'."
+Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Reform and Development Act of 2014'."
 
 #### Short Title of 2007 Amendment
 
@@ -36,7 +36,7 @@ Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: "This A
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: "This Act \[enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the 'Water Resources Development Act of 1992'."
+Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: "This Act \[enacting sections 59gg, 426i–1,569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the 'Water Resources Development Act of 1992'."
 
 #### Short Title of 1990 Amendment
 
@@ -128,7 +128,7 @@ Purposes.—The purposes of the pilot program are—
 
 &emsp;&emsp;"(A) to identify project delivery and cost-saving alternatives to the existing feasibility study process;
 
-&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and
+&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interestcarrying out a feasibility study of 1 or more projects; and
 
 &emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers.
 
@@ -224,7 +224,7 @@ Update.—Not later than 5 years after the date of enactment of this Act, the Se
 
 &emsp;&emsp;"(C)
 
-Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportationand Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
 
 &emsp;"(6)
 
@@ -324,7 +324,7 @@ Update.—Not later than 5 years after the date of enactment of this Act, the Se
 
 &emsp;&emsp;"(C)
 
-Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Worksof the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
 
 &emsp;"(6)
 
@@ -344,7 +344,7 @@ Pub. L. 113–121, title V, §5014, June 10, 2014, 128 Stat. 1329, provided that
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
+In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized waterresources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
 
 "(b)
 
@@ -462,7 +462,7 @@ Non-Federal Funding.—The non-Federal pilot applicant may finance the non-Feder
 
 "(l)
 
-Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to a non-Federal pilot applicant carrying out a project under this section.
+Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to anon-Federal pilot applicant carrying out a project under this section.
 
 "(m)
 
@@ -574,7 +574,7 @@ Pub. L. 113–121, §2, June 10, 2014, 128 Stat. 1195, provided that: "In this A
 
 Pub. L. 110–114, §2, Nov. 8, 2007, 121 Stat. 1049, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
-Pub. L. 106–541, §2, Dec. 11, 2000, 114 Stat. 2575, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
+Pub. L. 106–541, §2, Dec. 11, 2000, 114 Stat. 2575, provided that: "In this Act \[see Tables for classification\],the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 106–53, §2, Aug. 17, 1999, 113 Stat. 273, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 

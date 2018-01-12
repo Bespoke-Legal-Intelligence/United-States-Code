@@ -106,7 +106,7 @@ The Secretary may prescribe procedures under which a taxpayer determined to be a
 
 #### (j) Report to Congress
 
-Not later than 90 days after the last day of each fiscal year (beginning with the first such fiscal year ending after the date of the enactment of this subsection), the Secretary shall submit to the Committee on Ways and Means ofthe House of Representatives and the Committee on Finance of the Senate a report with respect to qualified tax collection contracts under this section which shall include—
+Not later than 90 days after the last day of each fiscal year (beginning with the first such fiscal year ending after the date of the enactment of this subsection), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report with respect to qualified tax collection contracts under this section which shall include—
 
 &emsp;(1) annually, with respect to such fiscal year—
 
@@ -182,5 +182,5 @@ Pub. L. 108–357, title VIII, §881(f), Oct. 22, 2004, 118 Stat. 1627, provided
 
 #### Biennial Report
 
-Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, §32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
+Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a reportwith respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, §32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
 

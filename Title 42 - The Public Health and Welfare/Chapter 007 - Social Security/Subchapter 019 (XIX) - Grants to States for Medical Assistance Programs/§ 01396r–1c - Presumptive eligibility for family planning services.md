@@ -2,7 +2,7 @@
 
 #### (a) State option
 
-State <sup>1</sup> plan approved under section 1396a of this title may provide for making medical assistance available to an individual described in section 1396a(ii) of this title (relating to individuals who meet certain income eligibility standard) during a presumptive eligibility period. Inthe case of an individual described in section 1396a(ii) of this title, such medical assistance shall be limited to family planning services and supplies described in 1396d(a)(4)(C) <sup>2</sup> of this title and, at the State's option, medical diagnosis and treatment services that are provided in conjunction with a family planning service in a family planning setting.
+State <sup>1</sup> plan approved under section 1396a of this title may provide for making medical assistance available to an individual described in section 1396a(ii) of this title (relating to individuals who meet certain income eligibility standard) during a presumptive eligibility period. In the case of an individual described in section 1396a(ii) of this title, such medical assistance shall be limited to family planning services and supplies described in 1396d(a)(4)(C) <sup>2</sup> of this title and, at the State's option, medical diagnosis and treatment services that are provided in conjunction with a family planning service in a family planning setting.
 
 #### (b) Definitions
 

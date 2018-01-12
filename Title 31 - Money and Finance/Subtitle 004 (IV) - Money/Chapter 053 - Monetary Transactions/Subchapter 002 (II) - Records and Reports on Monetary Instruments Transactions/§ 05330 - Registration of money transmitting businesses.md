@@ -122,7 +122,7 @@ Findings.—The Congress hereby finds the following:
 
 &emsp;&emsp;"(ii) evade the requirements of such subchapter II, the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], and other laws of the United States.
 
-&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons whoown or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
+&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
 
 "(2)
 

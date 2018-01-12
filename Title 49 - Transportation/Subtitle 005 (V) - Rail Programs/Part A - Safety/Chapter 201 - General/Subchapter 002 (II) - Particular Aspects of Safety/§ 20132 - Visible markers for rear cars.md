@@ -4,7 +4,7 @@
 
 General.—The Secretary of Transportation shall prescribe regulations and issue orders that may be necessary to require that—
 
-&emsp;(1) the rear car of each passenger and commuter train has at least one highly visible marker that is lighted during darkness andwhen weather conditions restrict clear visibility; and
+&emsp;(1) the rear car of each passenger and commuter train has at least one highly visible marker that is lighted during darkness and when weather conditions restrict clear visibility; and
 
 &emsp;(2) the rear car of each freight train has highly visible markers during darkness and when weather conditions restrict clear visibility.
 

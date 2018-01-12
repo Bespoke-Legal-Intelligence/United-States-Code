@@ -10,3 +10,7 @@ The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 
 
 The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
+#### Effective Date
+
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
+

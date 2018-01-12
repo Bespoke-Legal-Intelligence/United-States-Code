@@ -8,7 +8,7 @@ Section 982, Pub. L. 89–287, §3, Oct. 22, 1965, 79 Stat. 1037, authorized Com
 
 Section 983, Pub. L. 89–287, §4, Oct. 22, 1965, 79 Stat. 1038, prohibited Commissioner from issuing certificates of insurance to lenders in States having adequate non-Federal loan insurance programs.
 
-Section 984, Pub. L. 89–287, §5, Oct. 22, 1965, 79 Stat. 1038; Pub. L. 90–460, §1(b)(1), Aug. 3, 1968, 82 Stat. 634,set forth scope and duration of loan insurance program of this chapter.
+Section 984, Pub. L. 89–287, §5, Oct. 22, 1965, 79 Stat. 1038; Pub. L. 90–460, §1(b)(1), Aug. 3, 1968, 82 Stat. 634, set forth scope and duration of loan insurance program of this chapter.
 
 Section 985, Pub. L. 89–287, §6, Oct. 22, 1965, 79 Stat. 1039, limited annual and aggregate amounts available to individuals as loans and covered by insurance under this chapter.
 

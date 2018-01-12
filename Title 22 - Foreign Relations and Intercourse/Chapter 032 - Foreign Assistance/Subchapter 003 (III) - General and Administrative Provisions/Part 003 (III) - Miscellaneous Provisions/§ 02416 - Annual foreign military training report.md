@@ -8,7 +8,7 @@
 
 #### (2) Exception for certain countries
 
-&emsp;Paragraph (1) does not apply to any NATO member, Australia, Japan, or New Zealand, unless one of the appropriate congressional committees has specifically requested, in writing, inclusion of such country in the report. Such request shall be made not later than 90 calendar days prior to the date on which the report is required to be transmitted.
+&emsp;Paragraph (1) does not apply to any NATO member, Australia, Japan, or New Zealand, unless one of the appropriate congressionalcommittees has specifically requested, in writing, inclusion of such country in the report. Such request shall be made not later than 90 calendar days prior to the date on which the report is required to be transmitted.
 
 #### (b) Contents
 

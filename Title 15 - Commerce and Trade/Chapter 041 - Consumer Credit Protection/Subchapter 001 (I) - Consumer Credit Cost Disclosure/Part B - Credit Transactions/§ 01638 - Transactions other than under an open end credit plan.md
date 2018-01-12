@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicatewhether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -86,7 +86,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
-(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
+(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to theconsumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
 
 (F)
 
@@ -102,7 +102,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made inaccordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -298,7 +298,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next awardyear (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 #### (f) Periodic statements for residential mortgage loans
 
@@ -356,7 +356,7 @@ Pub. L. 110–289, §2502(a)(5), (6), struck out ", whichever is earlier" after
 
 Pub. L. 110–289, §2502(a)(4), which directed insertion of ", which shall be at least 7 business days before consummation of the transaction" after "written application", was executed by making the insertion after "written application" the first place appearing.
 
-Pub. L. 110–289, §2502(a)(2), (3), substituted "any extension of credit that is secured by the dwelling of a consumer" for "a residential mortgage transaction, as defined in section 1602(w) of this title" and "and" for "before the credit is extended, or".
+Pub. L. 110–289, §2502(a)(2), (3), substituted "any extension of credit that is secured by the dwelling of aconsumer" for "a residential mortgage transaction, as defined in section 1602(w) of this title" and "and" for "before the credit is extended, or".
 
 Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
 

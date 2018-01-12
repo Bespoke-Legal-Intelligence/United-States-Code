@@ -20,5 +20,5 @@ Another section 40A of Pub. L. 90–629 is classified to section 2785 of this ti
 
 #### Delegation of Functions
 
-For delegation of functions of the President under this section, see section 1(q) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under this section, see section 1(q) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subjectto a savings provision, by section 4 of Ex. Ord. No. 13637.
 

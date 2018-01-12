@@ -112,7 +112,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;&emsp;(I) who meets minimum qualifications established by the Secretary not later than July 1, 1989,
 
-&emsp;&emsp;(II) who is not serving (or has not served within the previous 2 years) as a member of the staff of, or as a consultant to, the home health agency surveyed respecting compliance with the conditions of participationspecified in or pursuant to section 1395x(o) of this title or subsection (a) of this section, and
+&emsp;&emsp;(II) who is not serving (or has not served within the previous 2 years) as a member of the staff of, or as a consultant to, the home health agency surveyed respecting compliance with the conditions of participation specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section, and
 
 &emsp;&emsp;(III) who has no personal or familial financial interest in the home health agency surveyed.
 
@@ -142,7 +142,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f), in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a), the Secretary shall terminate the certification of the agency.
 
-(3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) for the days in which it finds that the agency was not in compliance with such requirements.
+(3) If the Secretary determines that a home health agency that is certified for participationunder this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) for the days in which it finds that the agency was not in compliance with such requirements.
 
 (4) The Secretary may continue payments under this subchapter with respect to a home health agency not in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) over a period of not longer than 6 months, if—
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 105–33 applicable to cost reporting periods beginning on 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or afterthe first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
+Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to services furnished on or after the first day of the first month beginning more than 1 year after Nov. 5, 1990, see section 4206(e)(1) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
 
 Pub. L. 101–508, title IV, §4207(i)(1), formerly §4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.
 
@@ -270,7 +270,7 @@ In general.—Notwithstanding any other provision of law, in determining for pur
 
 &emsp;"(2)
 
-Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes 'supervision' for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
+Consideration of forms of technology in definition of supervision.—The Secretary of Healthand Human Services may include forms of technology in determining what constitutes 'supervision' for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
 
 "(b)
 

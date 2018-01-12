@@ -2,7 +2,7 @@
 
 #### (a) General definition
 
-Except as otherwise provided in this subtitle, gross income means all income from whateversource derived, including (but not limited to) the following items:
+Except as otherwise provided in this subtitle, gross income means all income from whatever source derived, including (but not limited to) the following items:
 
 &emsp;(1) Compensation for services, including fees, commissions, fringe benefits, and similar items;
 
@@ -18,7 +18,7 @@ Except as otherwise provided in this subtitle, gross income means all income fro
 
 &emsp;(7) Dividends;
 
-&emsp;(8) Alimony and separate maintenance payments;
+&emsp;(8) <sup>1</sup> Alimony and separate maintenance payments;
 
 &emsp;(9) Annuities;
 
@@ -38,11 +38,25 @@ Except as otherwise provided in this subtitle, gross income means all income fro
 
 &emsp;&emsp;<b>For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 98–369, div. A, title V, §531(c), July 18, 1984, 98 Stat. 884.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 98–369, div. A, title V, §531(c), July 18, 1984, 98 Stat. 884; Pub. L. 115–97, title I, §11051(b)(1)(A), Dec. 22, 2017, 131 Stat. 2089.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 115–97, title I, §11051(b)(1)(A), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, subsection (a) of this section is amended by striking par. (8) and redesignating pars. (9) to (15) as (8) to (14), respectively. See 2017 Amendment note below.</i>
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(8) to (15). Pub. L. 115–97 redesignated pars. (9) to (15) as (8) to (14), respectively, and struck out former par. (8) which read as follows: "Alimony and separate maintenance payments;".
+
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11051(c), Dec. 22, 2017, 131 Stat. 2090, provided that: "The amendments made by this section \[amending this section and sections 62, 121, 152, 219, 220, 223, 382, 408, 3402, 6724, and 7701 of this title and repealing sections 71, 215, and 682 of this title\] shall apply to—
+
+&emsp;"(1) any divorce or separation instrument (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 as in effect before the date of the enactment of this Act \[Dec. 22, 2017\]) executed after December 31, 2018, and
+
+&emsp;"(2) any divorce or separation instrument (as so defined) executed on or before such date and modified after such date if the modification expressly provides that the amendments made by this section apply to such modification."
 
 #### Effective Date of 1984 Amendment
 
@@ -252,9 +266,11 @@ Regulations To Be Prospective Only.—Any regulations issued after the date of t
 
 "(c)
 
-Prepublication Expenditures Defined.—For purposes of this section, the term 'prepublication expenditures' means expenditures paid or incurred by thetaxpayer (in connection with his trade or business of publishing) for the writing, editing, compiling, illustrating, designing, or other development or improvement of a book, teaching aid, or similar product."
+Prepublication Expenditures Defined.—For purposes of this section, the term 'prepublication expenditures' means expenditures paid or incurred by the taxpayer (in connection with his trade or business of publishing) for the writing, editing, compiling, illustrating, designing, or other development or improvement of a book, teaching aid, or similar product."
 
 #### Reimbursement of Moving Expenses of Employees of Certain Corporations Excluded From Gross Income; Claim for Refund or Credit; Limitations; Interest
 
 Pub. L. 86–780, §5, Sept. 14, 1960, 74 Stat. 1013, provided for the exclusion from gross income of any amount received after Dec. 31, 1949, and before Oct. 1, 1955, by employees of certain corporations as reimbursement for moving expenses, and the refund or credit of any overpayments.
+
+<i><sup>1</sup></i><i> See Amendment of Subsection (a) note below.</i>
 

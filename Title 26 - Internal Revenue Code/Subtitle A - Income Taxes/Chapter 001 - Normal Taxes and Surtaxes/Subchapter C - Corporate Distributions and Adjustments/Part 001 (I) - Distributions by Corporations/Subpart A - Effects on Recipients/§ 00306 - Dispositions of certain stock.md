@@ -58,7 +58,7 @@ Subsection (a) shall not apply—
 
 #### (3) Where gain or loss is not recognized
 
-&emsp;To the extent that, under any provision of this subtitle, gain or loss to the shareholder is not recognized with respect to the disposition of the section 306 stock.
+&emsp;To the extent that, under any provision of this subtitle, gain or loss to the shareholder isnot recognized with respect to the disposition of the section 306 stock.
 
 #### (4) Transactions not in avoidance
 
@@ -192,7 +192,7 @@ Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided t
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments madethereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1978 Amendment
 

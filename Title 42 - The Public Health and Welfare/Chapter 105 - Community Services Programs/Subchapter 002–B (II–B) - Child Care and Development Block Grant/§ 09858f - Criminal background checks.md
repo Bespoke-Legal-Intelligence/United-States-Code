@@ -20,7 +20,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 &emsp;(4) a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
 
-&emsp;(5) a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).
+&emsp;(5) a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).<sup>1</sup>
 
 #### (c) Prohibitions
 
@@ -32,7 +32,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 &emsp;&emsp;(B) knowingly makes a materially false statement in connection with such criminal background check;
 
-&emsp;&emsp;(C) is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); or
+&emsp;&emsp;(C) is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); <sup>1</sup> or
 
 &emsp;&emsp;(D) has been convicted of a felony consisting of—
 
@@ -162,7 +162,7 @@ The State must ensure that the policies and procedures under this section are pu
 
 In this section—
 
-&emsp;(1) the term "child care provider" means a center-based child care provider, a familychild care provider, or another provider of child care services for compensation and on a regular basis that—
+&emsp;(1) the term "child care provider" means a center-based child care provider, a family child care provider, or another provider of child care services for compensation and on a regular basis that—
 
 &emsp;&emsp;(A) is not an individual who is related to all children for whom child care services are provided; and
 
@@ -192,11 +192,13 @@ In this section—
 
 #### References in Text
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(5) and (c)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 151 (§16901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(5) and (c)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which was classified principally to chapter 151 (§16901 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (e)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 9858f, Pub. L. 97–35, title VI, §658H, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, related to early childhood development and before- and after-school services, prior to repeal by Pub. L. 104–193, title VI, §608, Aug. 22, 1996, 110 Stat. 2284.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

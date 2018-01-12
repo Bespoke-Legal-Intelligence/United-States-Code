@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products bythe States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -178,7 +178,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;(iv) serve as a catalyst for increased citizen participation and greater collaboration among all sectors and organizations of a community that first demonstrates a long-term commitment to reducing alcohol use among youth;
 
-&emsp;&emsp;&emsp;(v) disseminate to communities timely information regarding state-of-the-art practices and initiatives that have proven to be effective in preventing and reducing alcohol use among youth; and
+&emsp;&emsp;&emsp;(v) disseminate to communities timely information regarding state-of-the-art practices and initiatives that have provento be effective in preventing and reducing alcohol use among youth; and
 
 &emsp;&emsp;&emsp;(vi) enhance, not supplant, effective local community initiatives for preventing and reducing alcohol use among youth.
 
@@ -254,9 +254,9 @@ It is the sense of the Congress that:
 
 #### (D) Accountability
 
-&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under thisparagraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
+&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under this paragraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
 
-&emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of student studies, mental health referrals, illnesses, or deaths);
+&emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of studentstudies, mental health referrals, illnesses, or deaths);
 
 &emsp;&emsp;&emsp;(ii) to measure the quality and accessibility of the programs or information offered by the eligible entity; and
 

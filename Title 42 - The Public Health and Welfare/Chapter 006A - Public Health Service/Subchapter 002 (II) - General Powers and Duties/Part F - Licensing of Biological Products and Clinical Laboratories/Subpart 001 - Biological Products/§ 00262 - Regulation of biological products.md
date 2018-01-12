@@ -198,7 +198,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(ii) 18 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has not been sued under subsection (l)(6).
 
-> &emsp;For purposes of this paragraph, the term "final court decision" means a final decisionof a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
+> &emsp;For purposes of this paragraph, the term "final court decision" means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
 
 #### (7) Exclusivity for reference product
 
@@ -254,7 +254,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Guidance
 
-&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance, with respect to a product or product class (not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
+&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance,with respect to a product or product class (not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
 
 #### (ii) Modification or reversal
 
@@ -336,7 +336,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;Not later than 60 days after the receipt of the application and information under paragraph (2), the reference product sponsor shall provide to the subsection (k) applicant—
 
-&emsp;&emsp;&emsp;(i) a list of patents for which the reference product sponsor believes a claim of patent infringement could reasonably be asserted by the reference product sponsor, or by a patent owner that has granted an exclusive license to the reference productsponsor with respect to the reference product, if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application; and
+&emsp;&emsp;&emsp;(i) a list of patents for which the reference product sponsor believes a claim of patent infringement could reasonably be asserted by the reference product sponsor, or by a patent owner that has granted an exclusive license to the reference product sponsor with respect to the reference product, if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application; and
 
 &emsp;&emsp;&emsp;(ii) an identification of the patents on such list that the reference product sponsor would be prepared to license to the subsection (k) applicant.
 
@@ -398,7 +398,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (A) Action if agreement on patent list
 
-&emsp;&emsp;If the subsection (k) applicant and the reference product sponsor agree on patents as described in paragraph (4), not later than 30 days after such agreement, the reference product sponsor shall bring an action forpatent infringement with respect to each such patent.
+&emsp;&emsp;If the subsection (k) applicant and the reference product sponsor agree on patents as described in paragraph (4), not later than 30 days after such agreement, the reference product sponsor shall bring an action for patent infringement with respect to each such patent.
 
 #### (B) Action if no agreement on patent list
 
@@ -464,11 +464,11 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (1) Application of certain provisions
 
-&emsp;The provisions of subsections (a), (d), (e), (f), (h), (i), (j), (k), (l), (n), and (p) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(a), (d), (e), (f), (h), (i), (j), (k), (l), (n), (p)\] shall apply with respect to the extension of a period under paragraphs (2) and (3)to the same extent and in the same manner as such provisions apply with respect to the extension of a period under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(b), (c)\].
+&emsp;The provisions of subsections (a), (d), (e), (f), (h), (i), (j), (k), (l), (n), and (p) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(a), (d), (e), (f), (h), (i), (j), (k), (l), (n), (p)\] shall apply with respect to the extension of a period under paragraphs (2) and (3) to the same extent and in the same manner as such provisions apply with respect to the extension of a period under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(b), (c)\].
 
 #### (2) Market exclusivity for new biological products
 
-&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -476,7 +476,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (3) Market exclusivity for already-marketed biological products
 
-&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If the Secretary determines that information relating to the use of a licensed biological product in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under subsection (a) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -484,13 +484,13 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (4) Exception
 
-&emsp;The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(3) <sup>1</sup> \[21 U.S.C. 355a(d)(3)\] is made later than 9 months prior to the expiration of such period.
+&emsp;The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(4) <sup>1</sup> \[21 U.S.C. 355a(d)(4)\] is made later than 9 months prior to the expiration of such period.
 
 #### (n) Date of approval in the case of recommended controls under the CSA
 
 #### (1) In general
 
-&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biologicalproduct is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 #### (2) Date of approval
 
@@ -500,7 +500,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the biological product.
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046.)
 
 #### References in Text
 
@@ -508,11 +508,13 @@ The effective date of this paragraph, referred to in subsec. (d)(2), is the effe
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Sections 526, 527(a), and 505A(d)(3), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(3), respectively, of Title 21, Food and Drugs.
+Sections 526, 527(a), and 505A(d)(4), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(4), respectively, of Title 21, Food and Drugs.
 
-The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, seeShort Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (m)(2) to (4). Pub. L. 115–52 substituted "section 505A(d)(4)" for "section 505A(d)(3)".
 
 <b>2016</b>—Subsec. (a)(2)(E). Pub. L. 114–255 added subpar. (E).
 
@@ -640,7 +642,7 @@ In general.—On the date that is 2 years after first receiving a user fee appli
 
 &emsp;"(ii)
 
-Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
+Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alterthe user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
 
 &emsp;"(iii)
 
@@ -680,7 +682,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
 
-&emsp;"(4) efforts to protect the public from exposure to such agents should ensure that individuals andgroups with legitimate objectives continue to have access to such agents for clinical and research purposes.
+&emsp;"(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
 "(b)
 

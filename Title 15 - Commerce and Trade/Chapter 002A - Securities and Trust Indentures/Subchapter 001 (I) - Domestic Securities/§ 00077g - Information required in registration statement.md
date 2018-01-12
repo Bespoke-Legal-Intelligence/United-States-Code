@@ -132,7 +132,7 @@ Pub. L. 114–94, div. G, title LXXII, §72002, Dec. 4, 2015, 129 Stat. 1784, pr
 
 #### Forward Incorporation by Reference for Form S–1
 
-Pub. L. 114–94, div. G, title LXXXIV, §84001, Dec. 4, 2015, 129 Stat. 1797, provided that: "Not later than 45days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement."
+Pub. L. 114–94, div. G, title LXXXIV, §84001, Dec. 4, 2015, 129 Stat. 1797, provided that: "Not later than 45 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement."
 
 #### Other Disclosures
 

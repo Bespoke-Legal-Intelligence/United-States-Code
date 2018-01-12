@@ -44,7 +44,7 @@
 
 Subsec. (d). Pub. L. 98–564, §4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration".
 
-Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose".
+Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "In any case where the amount to be paid is not more than $5,000, the authority contained in subsection\(a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose".
 
 <b>1974</b>—Subsecs. (a), (d). Pub. L. 93–336, §3(1), (2), substituted "$25,000" for "$15,000".
 

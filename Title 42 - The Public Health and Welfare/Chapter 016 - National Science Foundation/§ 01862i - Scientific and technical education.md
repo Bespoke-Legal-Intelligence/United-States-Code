@@ -74,7 +74,7 @@ In carrying out this section, the Director shall consult, cooperate, and coordin
 
 #### (e) Limitation on funding
 
-To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate tothe Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
 
 #### (f) Functions of Director
 

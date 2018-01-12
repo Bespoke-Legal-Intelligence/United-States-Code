@@ -58,7 +58,7 @@ In this section:
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008. For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of this title.</i>
 
 #### References in Text
 
@@ -82,5 +82,5 @@ Subsec. (e). Pub. L. 110–261, §103(c), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective Dec. 31, 2017. For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of this title.
 

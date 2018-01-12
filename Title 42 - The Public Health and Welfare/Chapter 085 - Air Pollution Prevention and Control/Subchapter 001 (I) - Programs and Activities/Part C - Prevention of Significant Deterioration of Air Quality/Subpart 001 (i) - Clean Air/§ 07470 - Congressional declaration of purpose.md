@@ -2,7 +2,7 @@
 
 The purposes of this part are as follows:
 
-&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution orfrom exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
+&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution or from exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
 
 &emsp;(2) to preserve, protect, and enhance the air quality in national parks, national wilderness areas, national monuments, national seashores, and other areas of special national or regional natural, recreational, scenic, or historic value;
 

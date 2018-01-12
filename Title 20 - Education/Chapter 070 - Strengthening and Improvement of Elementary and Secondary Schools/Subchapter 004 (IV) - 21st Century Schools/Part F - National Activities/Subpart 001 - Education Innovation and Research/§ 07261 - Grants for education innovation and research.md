@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From funds reserved under section 7251(b)(2)(A) of this title, the Secretary shallmake grants to eligible entities to enable the eligible entities to—
+&emsp;From funds reserved under section 7251(b)(2)(A) of this title, the Secretary shall make grants to eligible entities to enable the eligible entities to—
 
 &emsp;&emsp;(A) create, develop, implement, replicate, or take to scale entrepreneurial, evidence-based, field-initiated innovations to improve student achievement and attainment for high-need students; and
 
@@ -110,7 +110,7 @@ The Social Security Act, referred to in subsec. (d)(2)(C), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-Prior sections 7261 to 7261f were repealed by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat. 1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Prior sections 7261 to 7261f were repealed by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat.1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Section 7261, Pub. L. 89–10, title V, §5501, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1841, provided that subpart 10 of part D of former subchapter V of this chapter could be cited as the "Carol M. White Physical Education Program".
 
@@ -178,7 +178,7 @@ Section 7267e, Pub. L. 89–10, title V, §5536, as added Pub. L. 107–110, tit
 
 Section 7267f, Pub. L. 89–10, title V, §5537, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1851, provided that funds were to supplement, not supplant, any other Federal, State, or local funds.
 
-A prior section 7268, Pub. L. 89–10, title V, §5308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3706, which authorized appropriations for school dropout assistance, was omitted in the general amendment of former subchapter V of this chapter by Pub. L. 107–110.
+A prior section 7268, Pub. L. 89–10, title V, §5308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3706, which authorized appropriations for school dropout assistance, was omitted in the general amendment of former subchapter V of this chapter by Pub. L. 107–110.
 
 Prior sections 7269 and 7269a were repealed by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat. 1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 

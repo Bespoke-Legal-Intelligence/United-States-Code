@@ -26,7 +26,7 @@ Local development district.—The term "local development district" means an ent
 
 &emsp;&emsp;&emsp;&emsp;(bb) designees or employees of a general purpose unit of local government that have been appointed to represent the unit of local government; and
 
-&emsp;&emsp;&emsp;(III) is certified by the Governor or appropriate State officer as having a charter or authority that includes the economic development of counties, portions of counties, or other political subdivisions within the region; and
+&emsp;&emsp;&emsp;(III) is certified by the Governor or appropriate State officer as having a charteror authority that includes the economic development of counties, portions of counties, or other political subdivisions within the region; and
 
 &emsp;&emsp;(B) has not, as certified by the Federal Cochairperson—
 

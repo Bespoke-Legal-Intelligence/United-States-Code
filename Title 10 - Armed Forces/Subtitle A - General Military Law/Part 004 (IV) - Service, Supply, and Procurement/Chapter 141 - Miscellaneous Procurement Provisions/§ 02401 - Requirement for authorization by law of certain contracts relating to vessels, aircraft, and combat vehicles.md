@@ -40,7 +40,7 @@
 
 &emsp;(A) the long-term lease or charter of any aircraft, naval vessel, or combat vehicle; or
 
-&emsp;(B) for the lease or charter of any aircraft, naval vessel, or combat vehicle the terms ofwhich provide for a substantial termination liability on the part of the United States,
+&emsp;(B) for the lease or charter of any aircraft, naval vessel, or combat vehicle the terms of which provide for a substantial termination liability on the part of the United States,
 
 > unless funds for that purpose have been specifically authorized by law.
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) funds appropriated to the Department of Defense for operation and maintenance may not be obligated or expended for the lease or charter.
 
-(2) In this subsection, the terms "capital lease" and "lease-purchase" have the meaningsgiven those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on January 6, 2006.
+(2) In this subsection, the terms "capital lease" and "lease-purchase" have the meanings given those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on January 6, 2006.
 
 (g) The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end "Such guidelines 
 
 #### Effective Date
 
-Pub. L. 98–94, title XII, §1202(a)(3), Sept. 24, 1983, 97 Stat. 681, provided that: "Section 2401 of title 10, United States Code, as added by paragraph (1), shall not applyin the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983."
+Pub. L. 98–94, title XII, §1202(a)(3), Sept. 24, 1983, 97 Stat. 681, provided that: "Section 2401 of title 10, United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983."
 
 #### Riding Gang Member Requirements
 
@@ -178,7 +178,7 @@ Pub. L. 109–364, div. A, title X, §1018, Oct. 17, 2006, 120 Stat. 2380, as am
 
 "(a)
 
-In General.—The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that—
+In General.—The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 oftitle 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that—
 
 &emsp;"(1) subject to paragraph (2), allow riding gang members to perform work on the vessel during the effective period of the charter or contract only under terms, conditions, restrictions, and requirements as provided in section 8106 of title 46, United States Code; and
 
@@ -264,7 +264,7 @@ Pub. L. 98–94, title XII, §1202(d), Sept. 24, 1983, 97 Stat. 682, provided th
 
 #### Limitation on Use of Funds Appropriated Pursuant to Authorizations Contained in Department of Defense Authorization Act, 1984
 
-Pub. L. 98–94, title XII, §1202(b), Sept. 24, 1983, 97 Stat. 681, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "Funds appropriated pursuant to an authorization contained in this Act may not be used to indemnify any person under the terms of a contract entered into with the United States under section 2401 of title 10, United States Code (as added by subsection (a))—
+Pub. L. 98–94, title XII, §1202(b), Sept. 24, 1983, 97 Stat. 681, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Funds appropriated pursuant to an authorization contained in this Act may not be used to indemnify any person under the terms of a contract entered into with the United States under section 2401 of title 10, United States Code (as added by subsection (a))—
 
 &emsp;"(1) for any amount paid or due by any person to the United States for any liability arising under the Internal Revenue Code of 1986 \[Title 26, Internal Revenue Code\]; or
 

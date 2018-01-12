@@ -98,7 +98,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) Any amounts that would be eligible for exclusion under section 1382b(a)(7) of title 42.
 
-&emsp;&emsp;(C) Any amounts received by any member of the family as disability compensation under chapter 11 of title 38 or dependency and indemnity compensation under chapter 13 of such title.
+&emsp;&emsp;(C) Any amounts received by any member of the family as disability compensationunder chapter 11 of title 38 or dependency and indemnity compensation under chapter 13 of such title.
 
 #### (10) Indian
 
@@ -136,7 +136,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;Notwithstanding clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the allocation formula under section 4152 of this title shall be determinedfor a State recognized tribe under tribal membership eligibility criteria in existence on October 26, 1996; and
+&emsp;&emsp;&emsp;&emsp;(I) the allocation formula under section 4152 of this title shall be determined for a State recognized tribe under tribal membership eligibility criteria in existence on October 26, 1996; and
 
 &emsp;&emsp;&emsp;&emsp;(II) nothing in this paragraph shall be construed to confer upon a State recognized tribe any rights, privileges, responsibilities, or obligations otherwise accorded groups recognized as Indian tribes by the United States for other purposes.
 
@@ -220,7 +220,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV,§401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, §3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, §2, Oct. 12, 2010, 124 Stat. 2850.)
+(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, §3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, §2, Oct. 12, 2010, 124 Stat. 2850.)
 
 #### References in Text
 

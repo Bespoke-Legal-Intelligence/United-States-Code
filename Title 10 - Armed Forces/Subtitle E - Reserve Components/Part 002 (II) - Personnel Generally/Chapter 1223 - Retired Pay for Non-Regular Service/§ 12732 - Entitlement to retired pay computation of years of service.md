@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
-> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall betreated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -60,7 +60,7 @@
 
 (b) The following service may not be counted under subsection (a):
 
-&emsp;(1) Service (other than active service) in an inactive section of the Organized ReserveCorps or of the Army Reserve, or in an inactive section of the officers' section of the Air Force Reserve.
+&emsp;(1) Service (other than active service) in an inactive section of the Organized Reserve Corps or of the Army Reserve, or in an inactive section of the officers' section of the Air Force Reserve.
 
 &emsp;(2) Service (other than active service) after June 30, 1949, while on the Honorary Retired List of the Navy Reserve or of the Marine Corps Reserve.
 
@@ -162,7 +162,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words "other than active Federal service" are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been usedand authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 
@@ -174,7 +174,7 @@ The word "full-time" is inserted for clarity. The other change reflects the opin
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, whichamended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
@@ -250,7 +250,7 @@ Sec. 2. Creditable constructive service for a person qualified under section 1 h
 
 "
 
-Sec. 3. Additional pay accruing to any person by virtue of increased creditable service resulting from the inclusion of constructive service creditable by application of section 1 hereof shall not be made for active orinactive duty for which pay is authorized by competent authority which is performed prior to the first day of the calendar quarter next succeeding the calendar quarter in which this Act becomes effective."
+Sec. 3. Additional pay accruing to any person by virtue of increased creditable service resulting from the inclusion of constructive service creditable by application of section 1 hereof shall not be made for active or inactive duty for which pay is authorized by competent authority which is performed prior to the first day of the calendar quarter next succeeding the calendar quarter in which this Act becomes effective."
 
 #### Additional Clerical Service Creditable Under This Chapter
 

@@ -14,7 +14,7 @@ Subject to the allocation of funds described in subsection (d), amounts in the F
 
 &emsp;&emsp;(B) improvement of monitoring and observer coverage through the expanded use of electronic monitoring devices and satellite tracking systems such as VMS on small vessels;
 
-&emsp;(2) cooperative fishery research and analysis, in collaboration with fishery participants,academic institutions, community residents, and other interested parties;
+&emsp;(2) cooperative fishery research and analysis, in collaboration with fishery participants, academic institutions, community residents, and other interested parties;
 
 &emsp;(3) development of methods or new technologies to improve the quality, health safety, and value of fish landed;
 

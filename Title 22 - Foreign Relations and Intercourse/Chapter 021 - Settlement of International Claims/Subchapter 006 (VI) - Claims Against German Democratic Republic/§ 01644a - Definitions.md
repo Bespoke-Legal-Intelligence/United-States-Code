@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(a) a natural person who is a citizen of the United States;
 
-&emsp;(b) a corporation or other legal entity which is organized under the laws of the UnitedStates or of any State, the District of Columbia, or the Commonwealth of Puerto Rico, if natural persons who are citizens of the United States own, directly or indirectly, 50 per centum or more of the outstanding capital stock or other beneficial interest of such corporation or entity. The term does not include aliens.
+&emsp;(b) a corporation or other legal entity which is organized under the laws of the United States or of any State, the District of Columbia, or the Commonwealth of Puerto Rico, if natural persons who are citizens of the United States own, directly or indirectly, 50 per centum or more of the outstanding capital stock or other beneficial interest of such corporation or entity. The term does not include aliens.
 
 (2) The term "Commission" means the Foreign Claims Settlement Commission of the United States.
 
@@ -14,7 +14,7 @@ As used in this subchapter—
 
 (4) The term "German Democratic Republic" includes the government of any political subdivision, agency, or instrumentality thereof or under its control.
 
-(5) The term "Claims Fund" is the special fund established in the Treasury of the United States composed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
+(5) The term "Claims Fund" is the special fund established in the Treasury of the United Statescomposed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
 
 (Mar. 10, 1950, ch. 54, title VI, §601, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 

@@ -18,7 +18,7 @@ The Administrator shall from time to time, after consultation with the advisory 
 
 #### (b) Regulations respecting amount of coverage
 
-In addition to any other terms and conditions under subsection (a) of this section, such regulations shall provide that—
+In addition to any other terms and conditions under subsection (a), such regulations shall provide that—
 
 &emsp;(1) any flood insurance coverage based on chargeable premium rates under section 4015 of this title which are less than the estimated premium rates under section 4014(a)(1) of this title shall not exceed—
 
@@ -40,7 +40,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;(2) in the case of any residential building designed for the occupancy of from 1 to 4 families for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (i) of subparagraph (A) of paragraph (1) shall be made available, with respect to any single such building, up to an aggregate liability (including such limits specified in paragraph (1)(A)(i)) of $250,000;
 
-&emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
+&emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause\(ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
 
 &emsp;(4) in the case of any nonresidential building, including a church, for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liability for each unit within the building for contents owned by the tenant; and
 
@@ -90,7 +90,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -152,13 +152,17 @@ Subsec. (b)(1)(C). Pub. L. 93–234, §101(c), increased cl. (i) limits to $100,
 
 Pub. L. 100–242, title V, §544(b), Feb. 5, 1988, 101 Stat. 1942, provided that: "The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Feb. 5, 1988\]."
 
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+
 #### Savings Provision
 
 Pub. L. 103–325, title V, §552(c), Sept. 23, 1994, 108 Stat. 2269, required the Director of the Federal Emergency Management Agency to make payments under flood insurance contracts based on commitments made before the expiration of the 1-year period beginning on Sept. 23, 1994, pursuant to the authority under subsec. (c) of this section or section 552(b) of Pub. L. 103–325, formerly set out below.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

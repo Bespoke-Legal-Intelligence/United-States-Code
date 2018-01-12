@@ -22,7 +22,7 @@ Notice to State and Tribal Governments.—Not later than 24 hours after receivin
 
 (2) This part applies, to the extent consistent with generally recognized principles of international law, to a foreign vessel constructed or adapted to carry, or that carries, oil in bulk as cargo or cargo residue involved in a marine casualty described under subsection (a)(4) or (5) in waters subject to the jurisdiction of the United States, including the Exclusive Economic Zone.
 
-(e) A marine casualty not resulting in the death of an individual shall be classified according to the gravity of the casualty, as prescribedby regulation, giving consideration to the extent of injuries to individuals, the extent of property damage, the dangers that the casualty creates, and the size, occupation, and means of propulsion of each vessel involved.
+(e) A marine casualty not resulting in the death of an individual shall be classified according to the gravity of the casualty, as prescribed by regulation, giving consideration to the extent of injuries to individuals, the extent of property damage, the dangers that the casualty creates, and the size, occupation, and means of propulsion of each vessel involved.
 
 (f)(1) This chapter applies to a marine casualty involving a United States citizen on a foreign passenger vessel operating south of 75 degrees north latitude, west of 35 degrees west longitude, and east of the International Date Line; or operating in the area south of 60 degrees south latitude that—
 
@@ -142,5 +142,5 @@ Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

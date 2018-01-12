@@ -56,7 +56,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 #### (3) Minimum core proficiencies
 
-&emsp;The Secretary shall not award a grant to an entity under this section unless such entityprovides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
+&emsp;The Secretary shall not award a grant to an entity under this section unless such entity provides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
 
 #### (f) Uniform baseline measures
 

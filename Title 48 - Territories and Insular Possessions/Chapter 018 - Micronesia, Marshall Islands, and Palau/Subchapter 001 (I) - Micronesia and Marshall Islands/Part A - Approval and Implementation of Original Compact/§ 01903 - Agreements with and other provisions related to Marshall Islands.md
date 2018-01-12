@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the UnitedStates and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -20,7 +20,7 @@
 
 #### (2) Technical and training assistance
 
-&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Marshall Islands to develop and adequately enforce laws of the Marshall Islands and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1905(l) of this title may be used to reimburse State or local agencies providing such assistance.
+&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Marshall Islands to develop and adequately enforce laws of the Marshall Islands and to cooperate with the United States in the enforcement of criminal laws of the UnitedStates. Funds appropriated pursuant to section 1905(l) of this title may be used to reimburse State or local agencies providing such assistance.
 
 #### (3) Consultation
 
@@ -88,7 +88,7 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, whichamounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (2) Cleanup funds
 
-&emsp;There are hereby authorized to be appropriated such sums as are necessary to implement the settlement agreement of March 15, 1985, in The People of Bikini, et al. against United States of America, et al., Civ. No. 84–0425 (D. Ha.).
+&emsp;There are hereby authorized to be appropriated such sums as are necessary to implement the settlement agreement of March 15,1985, in The People of Bikini, et al. against United States of America, et al., Civ. No. 84–0425 (D. Ha.).
 
 #### (3) Conditions of funding
 
@@ -284,7 +284,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 "(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982."
 
-Pub. L. 98–213, §8, Dec. 8, 1983, 97 Stat. 1460, provided that: "The Secretary of the Interior is directed to implement the health care program required by section 106 of Public Law 95–134 (91 Stat. 1159) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify the Committee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Natural Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposed budget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program."
+Pub. L. 98–213, §8, Dec. 8, 1983, 97 Stat. 1460, provided that: "The Secretary of the Interior is directed to implement the health care program required by section 106 of Public Law 95–134 (91 Stat. 1159) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify theCommittee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Natural Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposed budget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

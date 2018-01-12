@@ -74,7 +74,7 @@ For the purpose of this subchapter—
 
 &emsp;(16) "war activities" includes activities directly relating to military operations;
 
-&emsp;(17) "student" means an individual under 23 years of age who has not completed 4 years of education beyond the high school level andwho is regularly pursuing a full-time course of study or training at an institution which is—
+&emsp;(17) "student" means an individual under 23 years of age who has not completed 4 years of education beyond the high school level and who is regularly pursuing a full-time course of study or training at an institution which is—
 
 &emsp;&emsp;(A) a school or college or university operated or directly supported by the United States, or by a State or local government or political subdivision thereof;
 
@@ -244,7 +244,7 @@ Par. (1)(F), (G). Pub. L. 114–326, §2(b)(1)(B)–(D), transferred subpar. (F)
 
 <b>1983</b>—Par. (1)(F). Pub. L. 97–463 substituted "grand juror;" for "grand juror and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection."
 
-<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined "base month" as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
+<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined "base month" as the month of July 1966 and each later month which was used as a basis forcalculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
 <b>1974</b>—Par. (1)(D). Pub. L. 93–416, §1(g), struck out "and" after the semicolon.
 

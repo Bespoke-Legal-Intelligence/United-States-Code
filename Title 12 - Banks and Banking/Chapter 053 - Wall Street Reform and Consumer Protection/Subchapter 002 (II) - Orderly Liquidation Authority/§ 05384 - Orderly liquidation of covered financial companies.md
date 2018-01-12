@@ -28,7 +28,7 @@ The Corporation, as receiver—
 
 #### (d) Funding for orderly liquidation
 
-Upon its appointment as receiver for a covered financial company, and thereafter as the Corporation may, in its discretion, determine to be necessary or appropriate, the Corporation may make available to the receivership, subject to the conditions set forth in section 5386 of this title and subject to the plan described in section 5390(n)(9) of this title, funds for the orderly liquidation of the covered financial company. All funds provided by the Corporation under this subsection shall have a priority of claims under subparagraph (A) or (B) of section 5390(b)(1) of this title, as applicable, including funds used for—
+Upon its appointment as receiver for a covered financial company, and thereafter as the Corporation may, in its discretion, determine to be necessary or appropriate, the Corporation may make available to the receivership, subject to the conditions set forth in section 5386 of this title and subject to the plan described in section5390(n)(9) of this title, funds for the orderly liquidation of the covered financial company. All funds provided by the Corporation under this subsection shall have a priority of claims under subparagraph (A) or (B) of section 5390(b)(1) of this title, as applicable, including funds used for—
 
 &emsp;(1) making loans to, or purchasing any debt obligation of, the covered financial company or any covered subsidiary;
 

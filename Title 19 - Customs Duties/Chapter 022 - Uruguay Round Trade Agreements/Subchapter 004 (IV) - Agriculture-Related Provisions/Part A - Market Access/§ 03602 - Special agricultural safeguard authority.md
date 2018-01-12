@@ -22,7 +22,7 @@ If the President determines with respect to a special safeguard agricultural goo
 
 &emsp;(2) the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
 
-> the President shall, consistent with Article 5 as determined by the President, determine theamount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
+> the President shall, consistent with Article 5 as determined by the President, determine the amount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
 
 #### (c) Imposition of safeguard
 
@@ -62,11 +62,15 @@ For purposes of this section—
 
 Subsec. (b)(2). Pub. L. 104–295, §11(2), substituted "1(a)" for "1(b)".
 
+#### Effective Date
+
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
+
 #### Uruguay Round Agreements: Entry Into Force
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 #### Delegation of Authority
 
-Authority of President under subsec. (a) of this section delegated to Secretary of Agriculture by par. (4) of Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1010, set out as a note under section 3511 of this title.
+Authority of President under subsec. (a) of this section delegated to Secretary of Agriculture by par. (4) ofProc. No. 6763, Dec. 23, 1994, 60 F.R. 1010, set out as a note under section 3511 of this title.
 

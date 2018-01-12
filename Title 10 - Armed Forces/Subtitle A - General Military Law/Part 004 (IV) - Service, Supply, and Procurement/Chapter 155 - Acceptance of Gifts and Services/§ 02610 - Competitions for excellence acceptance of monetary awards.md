@@ -6,7 +6,7 @@ Acceptance Authorized.—The Secretary of Defense may accept a monetary award gi
 
 (b)
 
-Disposition of Awards.—A monetary award accepted under subsection (a) shall be credited to one or more nonappropriated fund accounts supporting morale, welfare, and recreation activities for the command, installation, or other activity that is recognized for the award. Amounts so credited may be expended only for such activities.
+Disposition of Awards.—A monetary award accepted under subsection (a) shall be credited to one or more nonappropriated fund accounts supporting morale, welfare, and recreation activities for the command, installation,or other activity that is recognized for the award. Amounts so credited may be expended only for such activities.
 
 (c)
 
@@ -14,7 +14,7 @@ Incidental Expenses.—Subject to such limitations as may be provided in appropr
 
 (d)
 
-Regulations and Reporting.—(1) The Secretary shall prescribe regulations to determinethe disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
+Regulations and Reporting.—(1) The Secretary shall prescribe regulations to determine the disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
 
 (2) At the end of each year, the Secretary shall submit to Congress a report for that year describing the disposition of monetary awards accepted under this section and the payment of incidental expenses under subsection (c).
 

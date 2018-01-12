@@ -10,7 +10,7 @@ Overcharges.—A person must begin a civil action to recover overcharges within 
 
 (c)
 
-Damages.—A person must file a complaint with the Board or Secretary, as applicable, torecover damages under section 14704(b) within 2 years after the claim accrues.
+Damages.—A person must file a complaint with the Board or Secretary, as applicable, to recover damages under section 14704(b) within 2 years after the claim accrues.
 
 (d)
 

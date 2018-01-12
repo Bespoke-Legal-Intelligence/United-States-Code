@@ -42,7 +42,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (1) Establishment and purpose
 
-&emsp;The Secretary, in carrying out the duties of the chairperson of the TPCC, shall establish the Environmental Technologies Trade Advisory Committee (hereafter in this section referred to as the "Committee"). The purpose of the Committee shall be to provide advice and guidance to the Working Group in the development and administration of programs to expand United States exports of environmental technologies, goods, and services and products that comply with United States environmental, safety, and related requirements.
+&emsp;The Secretary, in carrying out the duties of the chairperson of the TPCC, shall establishthe Environmental Technologies Trade Advisory Committee (hereafter in this section referred to as the "Committee"). The purpose of the Committee shall be to provide advice and guidance to the Working Group in the development and administration of programs to expand United States exports of environmental technologies, goods, and services and products that comply with United States environmental, safety, and related requirements.
 
 #### (2) Membership
 
@@ -118,7 +118,7 @@ In addition to the training provided under subsection (f)(2)(C), the Secretary s
 
 &emsp;(2) Commercial Service Officers assigned to district offices in districts having large numbers of environmental businesses,
 
-> in environmental technologies and in the international environmental marketplace, and ensure that such officers receive appropriate training under such mechanism. Such training may be provided by officers or employees of the Department of Commerce, and other United StatesGovernment departments and agencies, with appropriate expertise in environmental technologies and the international environmental workplace, and by appropriate representatives of the private sector.
+> in environmental technologies and in the international environmental marketplace, and ensure that such officers receive appropriate training under such mechanism. Such training may be provided by officers or employees of the Department of Commerce, and other United States Government departments and agencies, with appropriate expertise in environmental technologies and the international environmental workplace, and by appropriate representatives of the private sector.
 
 #### (h) International regional environmental initiatives
 
@@ -166,7 +166,7 @@ For purposes of this section, the term "environmental business" means a business
 
 #### References in Text
 
-Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and section 4721(i)(5) does not define "States". However, such term is defined elsewhere in that section.
+Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and section 4721(i)(5) does notdefine "States". However, such term is defined elsewhere in that section.
 
 #### Amendments
 

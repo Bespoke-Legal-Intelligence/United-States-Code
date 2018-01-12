@@ -18,5 +18,5 @@ Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall precl
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–323 added subsec. (b).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–236 struck out subsec. (b) which read as follows: "Before implementing any proposal to limit either the number of Foreign Serviceofficers who may receive a special differential under subsection (a) of this section or the amounts of such special differentials, the Secretary shall submit such proposal to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives."
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 struck out subsec. (b) which read as follows: "Before implementing any proposal to limit either the number of Foreign Service officers who may receive a special differential under subsection (a) of this section or the amounts of such special differentials, the Secretary shall submit such proposal to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives."
 

@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1621\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001621%20-%20Definitions.md) | Definitions. |
-| [1622\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622%20-%20Establishment%20of%20Commission.md) | Establishment of Commission. |
+| [1622\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622%20-%20Establishment%20of%20International%20Claims%20Commission.md) | Establishment of International Claims Commission. |
 | [1622a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622a%20-%20Transfer%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States%20to%20Department%20of%20Justice.md) | Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice. |
 | [1622b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622b%20-%20Transfer%20of%20functions%2C%20powers%2C%20and%20duties%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States.md) | Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States. |
 | [1622c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622c%20-%20Membership%20of%20Foreign%20Claims%20Settlement%20Commission%20of%20the%20United%20States.md) | Membership of Foreign Claims Settlement Commission of the United States. |

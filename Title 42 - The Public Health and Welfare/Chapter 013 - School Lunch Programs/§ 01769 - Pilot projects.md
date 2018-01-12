@@ -6,7 +6,7 @@
 
 (1) Upon request to the Secretary, any school district that on January 1, 1987, was receiving all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program beginning July 1, 1987. The Secretary, directly or through contract, shall administer the project under this subsection.
 
-(2) Any school district that elects under paragraph (1) to receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive bonus commodities in the same manner as if such school district was receiving all entitlement commodities for its school lunch program.
+(2) Any school district that elects under paragraph (1) to receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive bonus commodities in the same manner as if such school district was receivingall entitlement commodities for its school lunch program.
 
 #### (c) Alternative counting and claiming procedures
 
@@ -214,7 +214,7 @@
 
 #### (2) Income eligibility
 
-&emsp;The income guidelines for determining eligibility for free lunches or breakfasts under this subsection shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
+&emsp;The income guidelines for determining eligibility for free lunches or breakfasts under thissubsection shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
 
 #### (3) Evaluation
 
@@ -324,7 +324,7 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–296, §441(a)(9), struck out subsec. (a) which related to pilot projects for administration of child nutrition programs by contract or direct disbursement.
 
-Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted "The Secretary may conduct" for "In addition to the pilot projects described in this subsection, the Secretary may conduct other", and struck outformer pars. (1) and (2) which related to certain pilot programs.
+Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted "The Secretary may conduct" for "In addition to the pilot projects described in this subsection, the Secretary may conduct other", and struck out former pars. (1) and (2) which related to certain pilot programs.
 
 Subsecs. (d) to (f). Pub. L. 111–296, §441(a)(11)–(13), struck out subsecs. (d) to (f) which related to fortified fluid milk, breakfast pilot projects, and summer food service residential camp eligibility, respectively.
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise speci
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4303 and 4304(b) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

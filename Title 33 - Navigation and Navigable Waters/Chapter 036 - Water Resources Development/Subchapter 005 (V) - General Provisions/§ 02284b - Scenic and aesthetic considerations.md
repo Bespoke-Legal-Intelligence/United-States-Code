@@ -1,6 +1,6 @@
 ### §2284b. Scenic and aesthetic considerations
 
-In conducting studies of potential water resources projects, the Secretary shall consider measures to preserve and enhance scenic and aesthetic qualities in the vicinity of such projects.
+In conducting studies of potential water resources projects, the Secretary shall consider measures to preserve and enhance scenic andaesthetic qualities in the vicinity of such projects.
 
 (Pub. L. 104–303, title II, §232, Oct. 12, 1996, 110 Stat. 3704.)
 

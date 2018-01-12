@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the United States does not have a clearly defined policy for United States noncontiguous Pacific areas (including the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the State of Hawaii, and the State of Alaska) and for United States-associated noncontiguous Pacific areas\(including the Federated States of Micronesia, the Marshall Islands, and Palau);
+&emsp;(1) the United States does not have a clearly defined policy for United States noncontiguous Pacific areas (including the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the State of Hawaii, and the State of Alaska) and for United States-associated noncontiguous Pacific areas (including the Federated States of Micronesia, the Marshall Islands, and Palau);
 
 &emsp;(2) the Federal Government has often failed to consider the implications for, effects on, and potential of noncontiguous Pacific areas in the formulation and conduct of foreign and domestic policy, to the detriment of both the attainment of the objectives of Federal policy and noncontiguous Pacific areas;
 

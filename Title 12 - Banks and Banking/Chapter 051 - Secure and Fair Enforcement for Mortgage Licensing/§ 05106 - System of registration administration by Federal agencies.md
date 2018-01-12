@@ -18,7 +18,7 @@
 
 #### (1) Unique identifier
 
-&emsp;The Bureau,<sup>1</sup> and the Bureau of Consumer Financial Protection shall coordinate with the Nationwide Mortgage Licensing System and Registry to establish protocols for assigning a unique identifier to each registered loan originator that will facilitate electronic tracking and uniform identification of, and public access to, the employment history of and publicly adjudicated disciplinary and enforcement actions against loan originators.
+&emsp;The Bureau,<sup>1</sup> and the Bureau of Consumer Financial Protection shall coordinate with the Nationwide Mortgage Licensing System and Registry to establish protocols for assigning aunique identifier to each registered loan originator that will facilitate electronic tracking and uniform identification of, and public access to, the employment history of and publicly adjudicated disciplinary and enforcement actions against loan originators.
 
 #### (2) Nationwide Mortgage Licensing System and Registry development
 

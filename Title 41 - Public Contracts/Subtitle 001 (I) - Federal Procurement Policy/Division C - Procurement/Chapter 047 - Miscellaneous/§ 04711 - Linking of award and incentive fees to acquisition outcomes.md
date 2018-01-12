@@ -22,7 +22,7 @@ Elements.—The regulations under subsection (b) shall—
 
 &emsp;(5) ensure that no award fee may be paid for contractor performance that is judged to be below satisfactory performance or performance that does not meet the basic requirements of the contract;
 
-&emsp;(6) provide specific direction on the circumstances, if any, in which it may be appropriate to roll over award fees that are not earned in one award fee period to a subsequent award fee period or periods;
+&emsp;(6) provide specific direction on the circumstances, if any, in which it may be appropriate to roll over award fees that are not earned inone award fee period to a subsequent award fee period or periods;
 
 &emsp;(7) ensure consistent use of guidelines and definitions relating to award and incentive fees across the Federal Government;
 

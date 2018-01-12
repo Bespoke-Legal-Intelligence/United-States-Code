@@ -18,7 +18,7 @@ A person may not—
 
 #### (A) Persons to be accredited
 
-&emsp;&emsp;Within 180 days after October 22, 1986, the Administrator, in consultation with affected organizations, shall develop a model contractor accreditation plan for States to give accreditation to persons in the following categories:
+&emsp;&emsp;Within 180 days after October 22, 1986, the Administrator, in consultation with affectedorganizations, shall develop a model contractor accreditation plan for States to give accreditation to persons in the following categories:
 
 &emsp;&emsp;&emsp;(i) Persons who inspect for asbestos-containing material in school buildings under the authority of a local educational agency or in public or commercial buildings.
 
@@ -54,7 +54,7 @@ A person may not—
 
 #### (2) State adoption of plan
 
-&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the model plan developed by the Administrator underparagraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents' education system provided for under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
+&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the model plan developed by the Administrator under paragraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents' education system provided for under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
 
 #### (c) Accreditation by Administrator-approved course
 
@@ -142,7 +142,7 @@ Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "No
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 
-Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
+Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)".</i>
 

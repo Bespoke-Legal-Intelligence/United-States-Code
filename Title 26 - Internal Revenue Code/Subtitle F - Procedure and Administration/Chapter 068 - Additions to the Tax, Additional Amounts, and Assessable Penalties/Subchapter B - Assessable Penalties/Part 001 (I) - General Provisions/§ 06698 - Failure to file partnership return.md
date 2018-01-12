@@ -30,13 +30,13 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 #### (1) In general
 
-&emsp;In the case of any return required to be filed in a calendar year beginning after 2014, the $195 dollar amount under subsection (b)(1) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;In the case of any return required to be filed in a calendar year beginning after 2014, the $195 dollar amount under subsection (b)(1) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (2) Rounding
 
 &emsp;If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–458, title I, §127(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(d), Dec. 19, 2014, 128 Stat. 4073.)
+(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–458, title I, §127(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(d), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 115–97, title I, §11002(d)(1)(NN), Dec. 22, 2017, 131 Stat. 2061.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -48,6 +48,8 @@ Another section 6698, formerly section 6694, relating to failure to file informa
 
 #### Amendments
 
+<b>2017</b>—Subsec. (e)(1). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
 <b>2014</b>—Subsec. (e). Pub. L. 113–295 added subsec. (e).
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–92 substituted "$195" for "$89".
@@ -58,13 +60,17 @@ Another section 6698, formerly section 6694, relating to failure to file informa
 
 Subsec. (b)(1). Pub. L. 110–142, §8(b), substituted "$85" for "$50".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §16(b), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section \[amending this section and section 6699 of this title\] shall apply to returns for taxable years beginning after December 31, 2009."
+Pub. L. 111–92, §16(b), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section \[amending this section and section 6699 of this title\]shall apply to returns for taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 

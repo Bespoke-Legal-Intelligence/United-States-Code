@@ -86,7 +86,7 @@ Dispute Resolution.—
 
 &emsp;(1)
 
-Request for dispute resolution.—If a dispute arises with respect to the rules andprocedures implemented under subsection (a)(4), an invoice or a report provided under subsection (b), implementation or compliance with the cost allocation methodology developed under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note) or amended under subsection (a)(6) of this section, either Amtrak or the State may request that the Surface Transportation Board conduct dispute resolution under this subsection.
+Request for dispute resolution.—If a dispute arises with respect to the rules and procedures implemented under subsection (a)(4), an invoice or a report provided under subsection (b), implementation or compliance with the cost allocation methodology developed under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note) or amended under subsection (a)(6) of this section, either Amtrak or the State may request that the Surface Transportation Board conduct dispute resolution under this subsection.
 
 &emsp;(2)
 

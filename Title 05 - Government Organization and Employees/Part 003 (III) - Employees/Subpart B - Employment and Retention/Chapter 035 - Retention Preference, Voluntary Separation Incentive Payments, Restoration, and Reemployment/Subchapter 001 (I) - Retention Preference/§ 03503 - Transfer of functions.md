@@ -22,7 +22,7 @@ June 27, 1944, ch. 287, §12 (3d proviso), 58 Stat. 390.
 
 In subsection (a), the words "a function" are substituted for "any or all of the functions". The word "receiving" is substituted for "replacing" in the phrase "receiving agency" to avoid confusion with subsection (b).
 
-In subsections (a) and (b), the word "first" in the phrase "shall first be transferred" is omitted as redundant in view of the subsequent limitation imposed by the words following "before". The words "make an appointment from another source to that position" are substituted for "appoint additional employees from any other source for such position".
+In subsections (a) and (b), the word "first" in the phrase "shall first be transferred" is omitted as redundant in view of the subsequent limitation imposed by the words following "before". The words "make an appointment from another source to that position" aresubstituted for "appoint additional employees from any other source for such position".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

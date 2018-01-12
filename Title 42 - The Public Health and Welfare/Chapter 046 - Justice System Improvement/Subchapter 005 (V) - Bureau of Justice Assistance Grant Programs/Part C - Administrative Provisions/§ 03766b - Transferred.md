@@ -1,0 +1,6 @@
+### §3766b. Transferred
+
+#### Codification
+
+Section 3766b was editorially reclassified as section 10203 of Title 34, Crime Control and Law Enforcement.
+

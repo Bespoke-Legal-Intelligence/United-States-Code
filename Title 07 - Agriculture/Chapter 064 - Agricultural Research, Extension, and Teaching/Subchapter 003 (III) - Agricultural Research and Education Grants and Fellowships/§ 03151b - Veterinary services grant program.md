@@ -80,7 +80,7 @@ In this section:
 
 &emsp;&emsp;(C) To establish or expand accredited veterinary education programs (including faculty recruitment and retention), veterinary residency and fellowship programs, or veterinary internship and externship programs carried out in coordination with accredited colleges of veterinary medicine.
 
-&emsp;&emsp;(D) To provide continuing education and extension, including veterinary telemedicine and other distance-based education, for veterinarians, veterinary technicians, and other health professionals needed to strengthen veterinary programs and enhance food safety.
+&emsp;&emsp;(D) To provide continuing education and extension, including veterinary telemedicineand other distance-based education, for veterinarians, veterinary technicians, and other health professionals needed to strengthen veterinary programs and enhance food safety.
 
 &emsp;&emsp;(E) To provide technical assistance for the preparation of applications submitted to the Secretary for designation as a veterinarian shortage situation under this section or section 3151a of this title.
 

@@ -28,7 +28,7 @@ Guarantee.—No funds may be appropriated or limited for aviation investment pro
 
 &emsp;(2)
 
-Additional authorizations of appropriations from the general fund.—In any fiscal year through fiscal year 2017, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
+Additional authorizations of appropriations from the general fund.—In any fiscal year through fiscal year 2018, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
 
 (b)
 
@@ -60,9 +60,9 @@ Total airport and airway trust fund funding.—It shall not be in order in the H
 
 &emsp;(2)
 
-Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2017 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
+Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2018 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
-(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618.)
+(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §107(a), Sept. 29, 2017, 131 Stat. 1170.)
 
 #### References in Text
 
@@ -71,6 +71,10 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is classified to section 907 of Title 2, The Congress.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(2). Pub. L. 115–63, §107(a)(1), substituted "2018" for "2017".
+
+Subsec. (c)(2). Pub. L. 115–63, §107(a)(2), substituted "2018" for "2017".
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–190, §1106(a)(1), substituted "fiscal year 2017," for "fiscal year 2016,".
 

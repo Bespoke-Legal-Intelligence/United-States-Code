@@ -22,7 +22,7 @@ The Indian tribe shall assume responsibility for the successful completion of th
 
 #### (e) Funding
 
-Funding for construction projects carried out under this subchapter shall be included in funding agreements as annual advance payments, with semiannual payments at the option of the Indian tribe. Annual advance and semiannual payment amounts shall be determined based on mutually agreeable project schedules reflecting work to be accomplished within the advance payment period, work accomplished and funds expended in previous payment periods, and the total prior payments. The Secretary shall include associated project contingency funds with each advance payment installment. The Indian tribe shall be responsible for the management of the contingency funds included in funding agreements.
+Funding for construction projects carried out under this subchapter shall be included in funding agreements as annual advance payments, with semiannual payments at the option of the Indian tribe. Annual advance and semiannual payment amounts shall be determined based onmutually agreeable project schedules reflecting work to be accomplished within the advance payment period, work accomplished and funds expended in previous payment periods, and the total prior payments. The Secretary shall include associated project contingency funds with each advance payment installment. The Indian tribe shall be responsible for the management of the contingency funds included in funding agreements.
 
 #### (f) Approval
 
@@ -42,7 +42,7 @@ Unless otherwise agreed to by the Indian tribe, no provision of division B (exce
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classifiedprincipally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -84,7 +84,7 @@
 
 &emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the applicable rate of interest determined under this subparagraph shall be determined on the preceding June 26 and be equal to—
 
-&emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by theBoard of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
+&emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
 
 &emsp;&emsp;(II) 3.1 percent,
 
@@ -180,7 +180,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (B) PLUS loans
 
@@ -240,7 +240,7 @@
 
 #### (E) Consultation
 
-&emsp;&emsp;The Secretary shall determine the applicable rate of interest under this paragraphafter consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;&emsp;The Secretary shall determine the applicable rate of interest under this paragraph after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (F) Rate
 
@@ -298,7 +298,7 @@
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
 
-&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
+&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf ofa dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
 
 #### (2) Selection by Secretary
 
@@ -348,7 +348,7 @@
 
 &emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
 
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determinewhether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (7) Maximum repayment period
 
@@ -422,7 +422,7 @@ Notwithstanding any other provision of State or Federal law, the Secretary shall
 
 #### (i) Loan application and promissory note
 
-The common financial reporting form required in section 1090(a)(1) of this title shall constitutethe application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
+The common financial reporting form required in section 1090(a)(1) of this title shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
 
 #### (j) Loan disbursement
 
@@ -568,7 +568,7 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439;amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### References in Text
 
@@ -736,7 +736,7 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
-Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
+Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education maynot consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

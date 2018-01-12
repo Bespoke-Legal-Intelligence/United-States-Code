@@ -32,7 +32,7 @@ All persons appointed in pursuance of authority contained in this section shall 
 
 The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the Vienna office of the United Nations with appropriate rank and status, who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such individual shall, at the direction of the Secretary of State, represent the United States at the Vienna office of the United Nations and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State from time to time may direct. The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.
 
-(Dec. 20, 1945, ch. 583, §2, 59 Stat. 619; Oct. 10, 1949, ch. 660, §§1, 2, 63 Stat. 734, 735; Pub. L. 89–206, §§1, 2, Sept. 28, 1965, 79 Stat. 841, 842; Pub. L. 96–465, title II, §2206(a)(2)(A), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 97–241, title I, §118, Aug. 24, 1982, 96 Stat. 279; Pub. L. 106–113, div. B,§1000(a)(7) \[div. A, title VII, §708(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
+(Dec. 20, 1945, ch. 583, §2, 59 Stat. 619; Oct. 10, 1949, ch. 660, §§1, 2, 63 Stat. 734, 735; Pub. L. 89–206, §§1, 2, Sept. 28, 1965, 79 Stat. 841, 842; Pub. L. 96–465, title II, §2206(a)(2)(A), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 97–241, title I, §118, Aug. 24, 1982, 96 Stat. 279; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
 
 #### References in Text
 
@@ -76,15 +76,39 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Act Dec. 20, 1945, ch. 583, §1, 59 Stat. 619, provided that: "This Act \[enacting this subchapter\] may be cited as the 'United Nations Participation Act of 1945'."
 
+#### Restriction on Funding for the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization
+
+Pub. L. 115–91, div. A, title XII, §1279E, Dec. 12, 2017, 131 Stat. 1704, provided that:
+
+"(a)
+
+Statement of Policy.—Congress declares that United Nations Security Council Resolution 2310 (September 23, 2016) does not obligate the United States nor does it impose an obligation on the United States to refrain from actions that would run counter to the object and purpose of the Comprehensive Nuclear-Test-Ban Treaty.
+
+"(b)
+
+Restriction on Funding.—
+
+&emsp;"(1)
+
+In general.—No United States funds may be made available to the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization.
+
+&emsp;"(2)
+
+Exception.—The restriction under paragraph (1) shall not apply with respect to the availability of—
+
+&emsp;&emsp;"(A) United States funds for the Comprehensive Nuclear-Test-Ban Treaty Organization's International Monitoring System; or
+
+&emsp;&emsp;"(B) United States funds used solely for analysis and dissemination of data collected under the International Monitoring System."
+
 #### United Nations Peacekeeping Operations; Oversight and Accountability
 
-Pub. L. 114–323, title III, §§301–305, Dec. 16, 2016, 130 Stat. 1917–1920, provided that:
+Pub. L. 114–323, title III, §§301–305, Dec. 16, 2016, 130 Stat. 1917–1920, as amended by Pub. L. 115–94, §§2(c), 3, Dec. 18, 2017, 131 Stat. 2038, 2039, provided that:
 
 #### "SEC. 301. OVERSIGHT OF AND ACCOUNTABILITY FOR PEACEKEEPER ABUSES.
 
 "(a)
 
-Strategy To Ensure Reform and Accountability.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary \[of State\] shall submit, in unclassified form, to the appropriate congressional committees \[Committees on Foreign Relations of the Senate and the House of Representatives\]—
+Strategy To Ensure Reform and Accountability.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary \[of State\] shall submit, in unclassified form, to the appropriate congressional committees \[Committees on Foreign Relations of the Senate and the House of Representatives\] and the Committees on Appropriations of the Senate and the House of Representatives—
 
 &emsp;"(1) a United States strategy for combating sexual exploitation and abuse in United Nations peacekeeping operations; and
 
@@ -136,7 +160,7 @@ Elements.—The strategy required under subsection (a) shall include the followi
 
 &emsp;&emsp;"(B) make such DNA samples available to investigators from the troop- or police-contributing country (except that such should not be made available to the United Nations) if allegations of sexual exploitation or abuse arise.
 
-&emsp;"(7) The adoption of a United Nations policy that bars troop- or police-contributing countries that fail to fulfill their obligation to ensure good order and discipline among their troops from providing any further troops for peace operations or restricts peacekeeper reimbursements to such countries until appropriate training, institutional reform, and oversight mechanisms to prevent such problems from recurring have been put in place.
+&emsp;"(7) The adoption of a United Nations policy that bars troop- or police-contributing countries that failto fulfill their obligation to ensure good order and discipline among their troops from providing any further troops for peace operations or restricts peacekeeper reimbursements to such countries until appropriate training, institutional reform, and oversight mechanisms to prevent such problems from recurring have been put in place.
 
 &emsp;"(8) The implementation of appropriate risk reduction policies, including refusal by the United Nations to deploy uniformed personnel from any troop- or police-contributing country that does not adequately—
 
@@ -152,11 +176,11 @@ Implementation.—The United States Permanent Representative to the United Natio
 
 Peacekeeping Training.—The United States should deny further United States peacekeeper training or related assistance, except for training specifically designed to reduce the incidence of sexual exploitation or abuse, or to assist in its identification or prosecution, to any troop- or police-contributing country that does not—
 
-&emsp;"(1) implement and maintain effective measures to enhance the discovery of sexual exploitation and abuse offenses committed by peacekeeping personnel who are nationals of such country;
+&emsp;"(1) implement and maintain effective measures to investigate allegations of sexual exploitation and abuse offenses committed by peacekeeping personnel who are nationals of such country;
 
-&emsp;"(2) adequately respond to complaints about such offenses by carrying out swift and effective disciplinary action against the personnel who are found to have committed such offenses; and
+&emsp;"(2) appropriately hold accountable personnel who are found to have committed such offenses; and
 
-&emsp;"(3) provide detailed reporting to the ombudsman described in subsection (c)(4) (or other appropriate United Nations official) that describes the offenses committed by the nationals of such country and such country's responses to such offenses.
+&emsp;"(3) provide detailed reporting to the ombudsman described in subsection (c)(4) (or other appropriate United Nations official) that describes the offenses committed by the nationals of such country and such country's responses to such offenses, including compensation to victims, as appropriate.
 
 "(f)
 
@@ -164,13 +188,13 @@ Assistance.—The United States should develop support mechanisms to assist troo
 
 &emsp;"(1) to improve their capacity to investigate allegations of sexual exploitation and abuse offenses committed by nationals of such countries while participating in a United Nations peacekeeping operation; and
 
-&emsp;"(2) to appropriately hold accountable any individual who commits an act of sexual exploitation or abuse.
+&emsp;"(2) to appropriately hold accountable personnel who are found to have committed acts of sexual exploitation or abuse.
 
 "(g)
 
 Human Rights Reporting.—In coordination with the ombudsman described in subsection (c)(4) (or other appropriate United Nations official), the Secretary \[of State\] shall identify, in the Department \[of State\]'s annual country reports on human rights practices, the countries of origin of any peacekeeping personnel or units that—
 
-&emsp;"(1) are characterized by noteworthy patterns of sexual exploitation or abuse; or
+&emsp;"(1) are characterized by patterns of sexual exploitation or abuse; or
 
 &emsp;"(2) have failed to institute appropriate institutional and procedural reforms after being made aware of any such patterns.
 
@@ -194,7 +218,7 @@ Human Rights Reporting.—In coordination with the ombudsman described in subsec
 
 #### "SEC. 305. REIMBURSEMENT OR APPLICATION OF CREDITS.
 
-"Notwithstanding any other provision of law, the President shall direct the United States PermanentRepresentative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to seek and timely obtain a commitment from the United Nations to make available to the United States any peacekeeping credits that are generated from a closed peacekeeping operation."
+"Notwithstanding any other provision of law, the President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to seek and timely obtain a commitment from the United Nations to make available to the United States any peacekeeping credits that are generated from a closed peacekeeping operation."
 
 \[For definition of "peacekeeping credits" as used in sections 301–305 of Pub. L. 114–323, set out above, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.\]
 
@@ -236,7 +260,7 @@ Pub. L. 114–323, title III, §307, Dec. 16, 2016, 130 Stat. 1921, provided tha
 
 #### Qualifications of the United Nations Secretary General
 
-Pub. L. 114–323, title III, §310, Dec. 16, 2016, 130 Stat. 1924, provided that:
+Pub. L. 114–323, title III, §310, Dec. 16, 2016, 130 Stat. 1924, as amended by Pub. L. 115–94, §4, Dec. 18, 2017, 131 Stat. 2039, provided that:
 
 "(a)
 
@@ -244,7 +268,7 @@ Sense of Congress.—The Secretary \[of State\] shall direct the United States P
 
 "(b)
 
-Proposal for United Nations Reform.—The descriptions referred to in subsection (a) shall include the following elements:
+Proposal for United Nations Reform.—In addition to the descriptions referred to in subsection (a), each such candidate shall be urged to describe the following:
 
 &emsp;"(1) A process for determining the goals, objectives, and benchmarks for the timely withdrawal of peacekeeping forces prior to the approval by the United Nations Security Council of a new or expanded peacekeeping operation.
 
@@ -252,7 +276,7 @@ Proposal for United Nations Reform.—The descriptions referred to in subsection
 
 "(c)
 
-Statement of Policy.—It is the policy of the United States to withhold support for any candidate for the position of United Nations Secretary General unless such candidate has produced a clear vision for leading the United Nations, including a robust reform agenda as described in subsection (b), and circulated such l \[sic\] to the Member States of the General Assembly."
+Statement of Policy.—It is the policy of the United States to withhold support for any candidate for the position of United Nations Secretary General unless such candidate has produced a clear vision for leading the United Nations, including a robust reform agenda as described in subsection (b), and circulated such agenda to the Member States of the General Assembly."
 
 #### United States Membership on the United Nations Commission on Human Rights and International Narcotics Control Board
 
@@ -342,7 +366,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the said Charter of the United Nations came into force with respect to the United States on October 24, 1945; and
 
-"Whereas article 104 of the Charter provides that 'The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes'; and
+"Whereas article 104 of the Charter provides that 'The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessaryfor the exercise of its functions and the fulfillment of its purposes'; and
 
 "Whereas article 105 of the Charter provides that:
 
@@ -474,7 +498,7 @@ The United Nations may expel or exclude persons from the headquarters district f
 
 #### section 11
 
-The federal, state or local authorities of the United States shall not impose any impediments to transit to or from the headquarters district of (1) representatives of Members or officials of the United Nations, or of specialized agencies as defined in Article 57, paragraph 2, of the Charter, or the families of such representatives or officials, (2) experts performing missions for the United Nations or for such specialized agencies, (3) representatives of the press, or of radio, film or other information agencies, who have been accredited by the United Nations (or by such a specialized agency) in its discretion after consultation with the United States, (4) representatives of nongovernmental organizations recognized by the United Nations for the purpose of consultation under Article 71 of the Charter, or (5) other persons invited to the headquarters district by the United Nations or by such specialized agency on official business. The appropriate American authorities shall afford any necessary protection to such persons while in transit to or from the headquarters district. This section does not apply to general interruptions of transportation which are to be dealt with as provided in Section 17, and does not impair the effectiveness of generally applicable laws and regulations as to the operation of means of transportation.
+The federal, state or local authorities of the United States shall not impose any impediments to transit to or from the headquarters district of (1) representatives of Members or officials of the United Nations, or of specialized agencies as defined in Article 57, paragraph 2, of the Charter, or the families of such representatives or officials, (2) experts performing missions for the United Nations or for such specialized agencies, (3) representatives of the press, or of radio, film or other information agencies, who have been accredited by the United Nations (or by such a specialized agency) in its discretion after consultation with the United States, (4) representatives of nongovernmental organizations recognized by the United Nations for the purpose of consultation under Article 71 of the Charter, or (5) other persons invited to the headquarters district by the United Nations or by such specialized agency on official business. The appropriate American authorities shall afford any necessary protection to such persons while in transit to or from the headquarters district.This section does not apply to general interruptions of transportation which are to be dealt with as provided in Section 17, and does not impair the effectiveness of generally applicable laws and regulations as to the operation of means of transportation.
 
 #### section 12
 
@@ -528,7 +552,7 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 #### section 17
 
-(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable terms with the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
+(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable termswith the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
 
 (b) Special provisions with reference to maintenance of utilities and underground construction are contained in Annex 2.
 
@@ -570,7 +594,7 @@ The seat of the United Nations shall not be removed from the headquarters distri
 
 #### section 24
 
-This agreement shall cease to be in force if the seat of the United Nations is removed from the territory ofthe United States, except for such provisions as may be applicable in connection with the orderly termination of the operations of the United Nations at its seat in the United States and the disposition of its property therein.
+This agreement shall cease to be in force if the seat of the United Nations is removed from the territory of the United States, except for such provisions as may be applicable in connection with the orderly termination of the operations of the United Nations at its seat in the United States and the disposition of its property therein.
 
 #### section 25
 
@@ -634,7 +658,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 Sec. 3. The President, or the Secretary of State under his direction, is authorized to enter into agreements with the State of New York or any other State of the United States and to the extent not inconsistent with State law, with any one or more of the political subdivisions thereof in aid of effectuating the provisions of the agreement.
 
-Sec. 4. Any States, or, to the extent not inconsistent with State law any political subdivisions thereof, affected by the establishment of the headquarters of the United Nations in the United States are authorized to enter into agreements with the United Nations or with each other consistent with the agreement and for the purpose of facilitating compliance with the same: <i>Provided</i>, That, except in cases of emergency and agreements of a routine contractual character, a representative of the United States, to be appointed by the Secretary of State, may, at the discretion of the Secretary of State, participate in the negotiations, and that anysuch agreement entered into by such State or States or political subdivisions thereof shall be subject to approval by the Secretary of State.
+Sec. 4. Any States, or, to the extent not inconsistent with State law any political subdivisions thereof, affected by the establishment of the headquarters of the United Nations in the United States are authorized to enter into agreements with the United Nations or with each other consistent with the agreement and for the purpose of facilitating compliance with the same: <i>Provided</i>, That, except in cases of emergency and agreements of a routine contractual character, a representative of the United States, to be appointed by the Secretary of State, may, at the discretion of the Secretary of State, participate in the negotiations, and that any such agreement entered into by such State or States or political subdivisions thereof shall be subject to approval by the Secretary of State.
 
 Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
@@ -706,7 +730,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from the Secretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
 
-2\. With respect to all applicants for short term appointments which will not exceed six months and which are not appointments to United Nations Secretariat professional posts or posts subject to geographical distribution, the Secretary of State shall cause an investigation to be conducted, which investigation shall be limited to a search of the files of the Department ofState. If the investigation reveals any derogatory information within the meaning of the standard set forth in Part II of this order, the information received from the Secretary General of the United Nations shall be forwarded to the Office of Personnel Management, which shall conduct an investigation.
+2\. With respect to all applicants for short term appointments which will not exceed six months and which are not appointments to United Nations Secretariat professional posts or posts subject to geographical distribution, the Secretary of State shall cause an investigation to be conducted, which investigation shall be limited to a search of the files of the Department of State. If the investigation reveals any derogatory information within the meaning of the standard set forth in Part II of this order, the information received from the Secretary General of the United Nations shall be forwarded to the Office of Personnel Management, which shall conduct an investigation.
 
 3\. (a) Whenever the Office of Personnel Management receives the information forwarded by the Secretary General to the Secretary of State, the Office of Personnel Management shall conduct a National Agency Check. Each National Agency Check shall include reference to the following: (1) Federal Bureau of Investigation files; (2) Office of Personnel Management files; (3) Military Intelligence files as appropriate; and (4) files of any other appropriate Government investigative or intelligence agency.
 
@@ -714,7 +738,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 
-5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
+5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees LoyaltyBoard, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
 
 6\. At any stage during the investigation or Board proceeding, the Board may transmit to the Secretary of State, for forwarding to the Secretary General, in as much detail as the Board determines that security considerations permit, the derogatory information disclosed by investigation. This shall be for the purpose of assisting the Secretary General in determining whether or not he should take action with respect to the employee, or the person being considered for employment, prior to the completion of the procedures outlined in this order. The making available of any such information shall be without prejudice to the right of full hearing as provided for herein.
 
@@ -748,7 +772,7 @@ The provisions of Parts I and II of this order shall be applicable to United Sta
 
 2\. The Board shall have authority in cases referred to it under this order to inquire into the loyalty to the Government of the United States of United States citizens employed, or considered for employment, by international organizations of which the United States is a member, and to make advisory determinations in such cases, under the standard set forth in Part II of this order, for transmission by the Secretary of State to the executive heads of the international organizations coming under the arrangements made pursuant to Parts I and III of this order.
 
-3\. The Board shall make necessary rules and regulations, not inconsistent with the provisions of this order, for the execution of its functions. There shall be included in such rules and regulations provisions forfurnishing each person whose case is considered by the Board:
+3\. The Board shall make necessary rules and regulations, not inconsistent with the provisions of this order, for the execution of its functions. There shall be included in such rules and regulations provisions for furnishing each person whose case is considered by the Board:
 
 (a) A written statement of the alleged derogatory information, in as much detail as security considerations permit.
 

@@ -24,7 +24,7 @@ Considerations.—Priority shall be given to projects that—
 
 &emsp;(3)
 
-Implementation plans.—Grants may not be awarded under this section to entities that fail to develop and submit to the Secretary the plans required by sections 20156(e)(2) and 20157.
+Implementation plans.—Grants may not be awarded under this section to entities thatfail to develop and submit to the Secretary the plans required by sections 20156(e)(2) and 20157.
 
 &emsp;(4)
 

@@ -12,7 +12,7 @@ Development of Certification Examination.—(1) The Secretary shall provide for 
 
 (b)
 
-Employee and Manager Requirement.—The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary to take the examination provided under subsection (a).
+Employee and Manager Requirement.—The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary totake the examination provided under subsection (a).
 
 (Added Pub. L. 110–389, title II, §225(a)(1), Oct. 10, 2008, 122 Stat. 4158.)
 

@@ -16,7 +16,7 @@
 
 &emsp;Fellowships under this section shall be available only to—
 
-&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as "National Science Foundation Teaching Fellows" and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
+&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall bereferred to as "National Science Foundation Teaching Fellows" and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
 
 &emsp;&emsp;(B) mathematics and science teachers, who shall be referred to as "National Science Foundation Master Teaching Fellows" and who possess a master's or bachelor's degree in their field.
 
@@ -52,7 +52,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
 
-&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teacherswith bachelor's degrees in their field and working toward a master's degree—
+&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
 
 &emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
 
@@ -138,7 +138,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (A) Amount
 
-&emsp;&emsp;Salary supplements provided under paragraph (1) shall be not less than $10,000 per year, except that, in the case of a National Science Foundation Teaching Fellow, while enrolled in the master's degree program as described in subsection (c)(2)(A), such fellow shall receive not more than the cost of attendance at such fellow's institution.
+&emsp;&emsp;Salary supplements provided under paragraph (1) shall be not less than $10,000 peryear, except that, in the case of a National Science Foundation Teaching Fellow, while enrolled in the master's degree program as described in subsection (c)(2)(A), such fellow shall receive not more than the cost of attendance at such fellow's institution.
 
 #### (B) Support while enrolled in master's degree program
 

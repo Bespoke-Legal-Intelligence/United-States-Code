@@ -1,0 +1,10 @@
+### §3743. Transferred
+
+#### Codification
+
+Section 3743 was editorially reclassified as section 20143 of Title 34, Crime Control and Law Enforcement.
+
+#### Prior Provisions
+
+For prior sections 3743 of this title, see note set out preceding section 3741 of this title.
+

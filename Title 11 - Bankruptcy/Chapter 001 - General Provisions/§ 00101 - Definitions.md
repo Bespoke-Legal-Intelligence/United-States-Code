@@ -22,7 +22,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(D) entity that operates the business or substantially all of the property of the debtor under a lease or operating agreement.
 
-&emsp;(3) The term "assisted person" means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.
+&emsp;(3) The term "assisted person" means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.<sup>1</sup>
 
 &emsp;(4) The term "attorney" means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.
 
@@ -138,7 +138,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) a determination made in accordance with applicable nonbankruptcy law by a governmental unit; and
 
-&emsp;&emsp;(D) not assigned to a nongovernmental entity, unless that obligation is assigned voluntarily by the spouse, former spouse, child of the debtor, or such child's parent, legalguardian, or responsible relative for the purpose of collecting the debt.
+&emsp;&emsp;(D) not assigned to a nongovernmental entity, unless that obligation is assigned voluntarily by the spouse, former spouse, child of the debtor, or such child's parent, legal guardian, or responsible relative for the purpose of collecting the debt.
 
 &emsp;(15) The term "entity" includes person, estate, trust, governmental unit, and United States trustee.
 
@@ -154,7 +154,7 @@ In this title the following definitions shall apply:
 
 &emsp;(18) The term "family farmer" means—
 
-&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for—
+&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 <sup>1</sup> and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for—
 
 &emsp;&emsp;&emsp;(i) the taxable year preceding; or
 
@@ -166,7 +166,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $3,237,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $3,237,000 <sup>1</sup> and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
 &emsp;&emsp;&emsp;(iii) if such corporation issues stock, such stock is not publicly traded.
 
@@ -176,7 +176,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(A) an individual or individual and spouse engaged in a commercial fishing operation—
 
-&emsp;&emsp;&emsp;(i) whose aggregate debts do not exceed $1,500,000 and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
+&emsp;&emsp;&emsp;(i) whose aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
 
 &emsp;&emsp;&emsp;(ii) who receive from such commercial fishing operation more than 50 percent of such individual's or such individual's and spouse's gross income for the taxable year preceding the taxable year in which the case concerning such individual or such individual and spouse was filed; or
 
@@ -190,7 +190,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii)(I) more than 80 percent of the value of its assets consists of assets related to the commercial fishing operation;
 
-&emsp;&emsp;&emsp;(II) its aggregate debts do not exceed $1,500,000 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
+&emsp;&emsp;&emsp;(II) its aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
 
 &emsp;&emsp;&emsp;(III) if such corporation issues stock, such stock is not publicly traded.
 
@@ -198,7 +198,7 @@ In this title the following definitions shall apply:
 
 &emsp;(20) The term "farmer" means (except when such term appears in the term "family farmer") person that received more than 80 percent of such person's gross income during the taxable year of such person immediately preceding the taxable year of such person during which the case under this title concerning such person was commenced from a farming operation owned or operated by such person.
 
-&emsp;(21) The term "farming operation" includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state.
+&emsp;(21) The term "farming operation" includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry orlivestock products in an unmanufactured state.
 
 &emsp;(21A) The term "farmout agreement" means a written agreement in which—
 
@@ -234,13 +234,13 @@ In this title the following definitions shall apply:
 
 &emsp;(25) The term "forward contract" means—
 
-&emsp;&emsp;(A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in this section) <sup>1</sup> consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+&emsp;&emsp;(A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in this section) <sup>2</sup> consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 &emsp;&emsp;(B) any combination of agreements or transactions referred to in subparagraphs (A) and (C);
 
 &emsp;&emsp;(C) any option to enter into an agreement or transaction referred to in subparagraph (A) or (B);
 
-&emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph only with respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
+&emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph onlywith respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
 
 &emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred to in subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
 
@@ -350,7 +350,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) property that may be exempted from property of the estate under section 522 of this title;
 
-&emsp;&emsp;(B) with reference to a partnership, financial condition such that the sum of suchpartnership's debts is greater than the aggregate of, at a fair valuation—
+&emsp;&emsp;(B) with reference to a partnership, financial condition such that the sum of such partnership's debts is greater than the aggregate of, at a fair valuation—
 
 &emsp;&emsp;&emsp;(i) all of such partnership's property, exclusive of property of the kind specified in subparagraph (A)(i) of this paragraph; and
 
@@ -460,7 +460,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-&emsp;(42) The term "petition" means petition filed under section 301, 302, 303 and <sup>2</sup> 1504 of this title, as the case may be, commencing a case under this title.
+&emsp;(42) The term "petition" means petition filed under section 301, 302, 303 and <sup>3</sup> 1504 of this title, as the case may be, commencing a case under this title.
 
 &emsp;(42A) The term "production payment" means a term overriding royalty satisfiable in cash or in kind—
 
@@ -492,7 +492,7 @@ In this title the following definitions shall apply:
 
 &emsp;&emsp;(B) does not include a repurchase obligation under a participation in a commercial mortgage loan.
 
-&emsp;(48) The term "securities clearing agency" means person that is registered as a clearingagency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
+&emsp;(48) The term "securities clearing agency" means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
 
 &emsp;(48A) The term "securities self regulatory organization" means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a national securities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
 
@@ -558,13 +558,13 @@ In this title the following definitions shall apply:
 
 &emsp;(51D) The term "small business debtor"—
 
-&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 <sup>1</sup> (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
 
-&emsp;&emsp;(B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 (excluding debt owed to 1 or more affiliates or insiders).
+&emsp;&emsp;(B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 <sup>1</sup> (excluding debt owed to 1 or more affiliates or insiders).
 
 &emsp;(52) The term "State" includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
-&emsp;(53) The term "statutory lien" means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
+&emsp;(53) The term "statutory lien" means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute andwhether or not such interest or lien is made fully effective by statute.
 
 &emsp;(53A) The term "stockbroker" means person—
 
@@ -620,7 +620,7 @@ In this title the following definitions shall apply:
 
 &emsp;(53C) The term "swap participant" means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
 
-&emsp;(56A) <sup>3</sup> The term "term overriding royalty" means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+&emsp;(56A) <sup>4</sup> The term "term overriding royalty" means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
 
 &emsp;(53D) The term "timeshare plan" means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A "timeshare interest" is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
 
@@ -644,10 +644,6 @@ In this title the following definitions shall apply:
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, §2(a)(1), Dec. 22, 2010, 124 Stat. 3557.)
 
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -670,7 +666,7 @@ Section 101(9) of the Senate amendment contained a definition of "court." The Ho
 
 Section 101(11) defines "debt" to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that "debt" does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a "debt" does not include a policy loan made by a life insurance company. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
 
-Section 101(14) adopts the definition of "entity" contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S.trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of "United States trustee" in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
+Section 101(14) adopts the definition of "entity" contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees underchapter 15 requires insertion of "United States trustee" in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
 
 Section 101(17) defines "farmer," as in the Senate amendment with an income limitation percentage of 80 percent instead of 75 percent.
 
@@ -714,7 +710,7 @@ Paragraph (10) \[enacted as (9)\] defines "creditor" to include holders of prepe
 
 Paragraph (11) \[enacted as (10)\] defines "custodian." There is no similar definition in current law. It is defined to facilitate drafting, and means a prepetition liquidator of the debtor's property, such as an assignee for the benefit of creditors, a receiver of the debtor's property, or administrator of the debtor's property. The definition of custodian to include a receiver or trustee is descriptive, and not meant to be limited to court officers with those titles. The definition is intended to include other officers of the court if their functions are substantially similar to those of a receiver or trustee.
 
-"Debt" is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms "debt" and "claim" are coextensive: a creditor has a "claim" against the debtor; the debtor owes a "debt" to the creditor. This definition of "debt" and the definition of "claim" on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payableunder the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
+"Debt" is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms "debt" and "claim" are coextensive: a creditor has a "claim" against the debtor; the debtor owes a "debt" to the creditor. This definition of "debt" and the definition of "claim" on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
 
 Paragraph (13) \[enacted as (12)\] defines "debtor." Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the "bankrupt", and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a "debtor." The term "debtor" is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
@@ -786,9 +782,9 @@ Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78o–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade.Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, seeShort Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
@@ -1094,7 +1090,7 @@ Pars. (4) to (23). Pub. L. 101–647, §2522(e)(3), redesignated pars. (3) to (2
 
 Par. (24). Pub. L. 101–647, §2522(e)(3), redesignated par. (23) as (24). Former par. (24) redesignated (25).
 
-Pub. L. 101–311, §201(1), inserted "as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade," after "transfer of commodity," and ", including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon" after "entered into".
+Pub. L. 101–311, §201(1), inserted "as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade," after "transfer of commodity," and ", including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment,lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon" after "entered into".
 
 Par. (25). Pub. L. 101–647, §2522(e)(3), redesignated par. (24) as (25). Former par. (25) redesignated (26).
 
@@ -1314,7 +1310,7 @@ Pub. L. 100–597, §12, Nov. 3, 1988, 102 Stat. 3030, provided that:
 
 "(a)
 
-Effective Date.—Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
+Effective Date.—Except as provided in subsection (b), this Act and the amendments made by thisAct \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
 "(b)
 
@@ -1394,7 +1390,7 @@ Pub. L. 107–377, §1, Dec. 19, 2002, 116 Stat. 3115, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548,707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
+Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
 
 #### Short Title of 1994 Amendment
 
@@ -1448,9 +1444,11 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3)
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount "150,000" was adjusted to "164,250"; in par. (18), dollar amount "3,237,000" was adjusted to "3,544,525" each time it appeared; in par. (19A), dollar amount "1,500,000" was adjusted to "1,642,500" each time it appeared; and, in par. (51D), dollar amount "2,000,000" was adjusted to "2,190,000" each time it appeared.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "or". See 2010 Amendment note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "or". See 2010 Amendment note below.</i>
+
+<i><sup>4</sup></i><i> So in original.</i>
 

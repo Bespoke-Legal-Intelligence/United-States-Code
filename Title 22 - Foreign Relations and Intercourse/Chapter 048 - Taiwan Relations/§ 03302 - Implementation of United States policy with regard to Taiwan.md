@@ -14,6 +14,72 @@ The President is directed to inform the Congress promptly of any threat to the s
 
 (Pub. L. 96–8, §3, Apr. 10, 1979, 93 Stat. 15.)
 
+#### Effective Date
+
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
+
+#### Normalizing the Transfer of Defense Articles and Defense Services to Taiwan
+
+Pub. L. 115–91, div. A, title XII, §1259A, Dec. 12, 2017, 131 Stat. 1685, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that any requests from the Government of Taiwan for defense articles and defense services should receive a case-by-case review by the Secretary of Defense, in consultation with the Secretary of State, that is consistent with the standard processes and procedures in an effort to normalize the arms sales process with Taiwan.
+
+"(b)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date on which the Secretary of Defense receives a Letter of Request from Taiwan with respect to the transfer of a defense article or defense service to Taiwan, the Secretary, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report that includes—
+
+&emsp;&emsp;"(A) the status of such request;
+
+&emsp;&emsp;"(B) if the transfer of such article or service would require a certification or report to Congress pursuant to any applicable provision of section 36 of the Arms Export Control Act (22 U.S.C. 2776), the status of any Letter of Offer and Acceptance the Secretary of Defense intends to issue with respect to such request; and
+
+&emsp;&emsp;"(C) an assessment of whether the transfer of such article or service would be consistent with United States obligations under the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.).
+
+&emsp;"(2)
+
+Elements.—Each report required under paragraph (1) shall specify the following:
+
+&emsp;&emsp;"(A) The date the Secretary of Defense received the Letter of Request.
+
+&emsp;&emsp;"(B) The value of the sale proposed by such Letter of Request.
+
+&emsp;&emsp;"(C) A description of the defense article or defense service proposed to be transferred.
+
+&emsp;&emsp;"(D) The view of the Secretary of Defense with respect to such proposed sale and whether such sale would be consistent with United States defense initiatives with Taiwan.
+
+&emsp;"(3)
+
+Form.—Each report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+
+"(c)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], and every 180 days thereafter, the Secretary of Defense, in coordination with the Secretary of State, shall provide a briefing to the appropriate congressional committees with respect to the security challenges faced by Taiwan and the military cooperation between the UnitedStates and Taiwan, including a description of any requests from Taiwan for the transfer of defense articles or defense services and the status, whether signed or unsigned, of any Letters of Offer and Acceptance with respect to such requests.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.
+
+&emsp;"(2)
+
+Defense article; defense service.—The terms 'defense article' and 'defense service' have the meanings given such terms in section 47 of the Arms Export Control Act (22 U.S.C. 2794).
+
+&emsp;"(3)
+
+Letter of request; letter of offer and acceptance.—The terms 'Letter of Request' and 'Letter of Offer and Acceptance' have the meanings given such terms for purposes of Chapter 5 of the Security Assistance Management Manual of the Defense Security Cooperation Agency, as in effect on the date of the enactment of this Act."
+
 #### Consultation With Congress With Regard to Taiwan
 
 Pub. L. 107–228, div. B, title XII, §1263, Sept. 30, 2002, 116 Stat. 1434, provided that: "Beginning 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 180 days thereafter, the President shall provide detailed briefings to and consult with the appropriate congressional committees regarding the United States security assistance to Taiwan, including the provision of defense articles and defense services."

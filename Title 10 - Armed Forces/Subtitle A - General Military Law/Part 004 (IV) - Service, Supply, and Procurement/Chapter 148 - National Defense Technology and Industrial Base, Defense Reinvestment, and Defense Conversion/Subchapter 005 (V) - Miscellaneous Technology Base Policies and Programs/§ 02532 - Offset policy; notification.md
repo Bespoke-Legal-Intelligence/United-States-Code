@@ -16,7 +16,7 @@ Technology Transfer.—(1) No official of the United States may enter into a mem
 
 (2) Paragraph (1) shall not apply in the case of a memorandum of understanding or agreement described in paragraph (1) if the Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, determines that a transfer of United States defense technology pursuant to such understanding or agreement will result in strengthening the national security of the United States and so certifies to Congress.
 
-(3) If a United States firm is required under the terms of a memorandum of understanding,or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, shall make the final determination of the validity of the protesting firm's claim.
+(3) If a United States firm is required under the terms of a memorandum of understanding, or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, shall make the final determination of the validity of the protesting firm's claim.
 
 (c)
 
@@ -52,7 +52,7 @@ Pub. L. 100–456, div. A, title VIII, §825(a), Sept. 29, 1988, 102 Stat. 2019,
 
 &emsp;&emsp;"(C) to invest a specified amount in domestic businesses of such foreign countries.
 
-> &emsp;Such contractual arrangements, known as 'offsets', are a component of international trade and could have an impact on United States defense industry opportunities in domestic and foreign markets.
+> &emsp;Such contractual arrangements, known as 'offsets', are a component of international trade and couldhave an impact on United States defense industry opportunities in domestic and foreign markets.
 
 &emsp;"(2) Some United States contractors and subcontractors may be adversely affected by such contractual arrangements.
 

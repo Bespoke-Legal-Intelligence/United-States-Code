@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) The term "agency" means the local administrative entity of the Bureau of Indian Affairs serving one or more Indian tribes within a defined geographic area.
 
-&emsp;(2) The term "youth" shall have the meaning given it in any particular Tribal Action Plan adopted pursuant to section 2411 of this title, except that, for purposes of statistical reporting under this chapter, it shall mean a person who is 19 years or younger or who is in attendance at a secondary school.
+&emsp;(2) The term "youth" shall have the meaning given it in any particular Tribal Action Plan adopted pursuant to section 2411 of this title, except that, for purposes of statistical reporting under this chapter, it shall mean aperson who is 19 years or younger or who is in attendance at a secondary school.
 
 &emsp;(3) The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians.
 

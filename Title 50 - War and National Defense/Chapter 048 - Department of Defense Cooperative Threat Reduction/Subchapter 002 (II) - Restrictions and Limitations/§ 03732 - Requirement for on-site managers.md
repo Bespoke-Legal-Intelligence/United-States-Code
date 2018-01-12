@@ -34,7 +34,7 @@ The on-site manager appointed under subsection (a) shall—
 
 #### (2) Limitation
 
-&emsp;If such an employee serves as on-site manager for more than one project in a fiscal year, the total cost of the projects for that fiscal year may not exceed $150,000,000.
+&emsp;If such an employee serves as on-site manager for more than one project in a fiscal year,the total cost of the projects for that fiscal year may not exceed $150,000,000.
 
 #### (e) Steps or activities
 

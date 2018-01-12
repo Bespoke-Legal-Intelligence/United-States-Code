@@ -6,7 +6,7 @@ In the case of States whose laws or regulations are in accordance with subsectio
 
 #### (b) Description of compliant State programs
 
-For purposes of subsection (a), the laws or regulations of a State are in accordance with thissubsection if under such laws or regulations (including programs carried out pursuant to the discretion of State officials) the following policies are in effect:
+For purposes of subsection (a), the laws or regulations of a State are in accordance with this subsection if under such laws or regulations (including programs carried out pursuant to the discretion of State officials) the following policies are in effect:
 
 &emsp;(1) The State requires that the public health officer of the State carry out a program of partner notification to inform partners of individuals with HIV/AIDS that the partners may have been exposed to the disease.
 

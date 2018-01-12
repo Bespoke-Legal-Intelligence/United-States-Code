@@ -60,7 +60,7 @@ The programs in this section shall supplement and be developed in cooperation wi
 
 #### (g) "Qualified entity" defined
 
-For purposes of this section, the term "qualified entity" means a nonprofit corporation, association, or institution that has demonstrated special knowledge of, and experience with, the education of low-income and first generation college students and whose primary mission is the operation of national programs that focus on low-income students and provide training and other services to educators.
+For purposes of this section, the term "qualified entity" means a nonprofit corporation, association, or institution that has demonstrated special knowledge of, and experience with, the education of low-income and first generation college students and whose primary mission is the operation of national programs that focus onlow-income students and provide training and other services to educators.
 
 #### (h) Authorization of appropriations
 

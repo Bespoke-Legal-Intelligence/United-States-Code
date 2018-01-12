@@ -18,6 +18,18 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Policy of the United States on Minimum Number of Battle Force Ships
+
+Pub. L. 115–91, div. A, title X, §1025, Dec. 12, 2017, 131 Stat. 1549, provided that:
+
+"(a)
+
+Policy.—It shall be the policy of the United States to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds.
+
+"(b)
+
+Battle Force Ships Defined.—In this section, the term 'battle force ship' has the meaning given the term in Secretary of the Navy Instruction 5030.8C."
+
 #### Metering of Navy Piers to Accurately Measure Energy Consumption
 
 Pub. L. 112–81, div. B, title XXVIII, §2828, Dec. 31, 2011, 125 Stat. 1694, provided that:
@@ -150,7 +162,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) Given the recent increase in the cost of crude oil, which cannot realistically be expected to improve over the long term, other energy sources must be seriously considered.
 
-&emsp;"(4) Alternate propulsion sources such as nuclear power offer many advantages over conventionalpower for major surface combatant ships of the Navy, including—
+&emsp;"(4) Alternate propulsion sources such as nuclear power offer many advantages over conventional power for major surface combatant ships of the Navy, including—
 
 &emsp;&emsp;"(A) virtually unlimited high-speed endurance;
 
@@ -342,7 +354,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 &emsp;"(C) shall require that the vessel be documented (and remain documented) under the laws of the United States.
 
-"(2) The Secretary may enter into a charter under paragraph (1) only through the use of competitive bidding procedures that ensure that the highest charter rates are obtained by the United States consistent with good business practice, except that the Secretary may operate the vessel (or contract to have the vessel operated) in direct support of United States military forces during a time of war or national emergency and at other times when the Administrator of the Maritime Administration determines that that operation would not unfairly compete with another United States-flag vessel.
+"(2) The Secretary may enter into a charter under paragraph (1) only through the use of competitive bidding procedures that ensure that the highest charter rates are obtained by the United States consistent with good business practice, except that the Secretary may operate the vessel (or contract to have the vessel operated) in direct support of United States military forces during a time of war or national emergency and at other times when the Administrator of the MaritimeAdministration determines that that operation would not unfairly compete with another United States-flag vessel.
 
 "(3) If the Secretary determines that a vessel previously chartered under the program no longer has commercial utility, the Secretary may transfer the vessel to the National Defense Reserve Fleet.
 
@@ -414,11 +426,11 @@ Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 &emsp;"(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 
-&emsp;"(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century."
+&emsp;"(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessaryto reach a six hundred-ship goal at least by the end of the present century."
 
 #### Construction of Advanced, Versatile, Survivable, and Cost-Effective Combatant Ships; Plans and Programs; Presidential Conclusions and Recommendations To Accompany Ship Authorization Requests
 
-Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 ofthis title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
+Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 of this title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
 
 #### Conversion, Overhaul, or Repair Work Under Service Life Extension Program or DDG–2
 

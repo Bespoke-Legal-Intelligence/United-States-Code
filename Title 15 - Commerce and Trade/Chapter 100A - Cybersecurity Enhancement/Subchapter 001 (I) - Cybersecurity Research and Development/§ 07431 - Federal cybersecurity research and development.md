@@ -106,7 +106,7 @@ The Director of the National Science Foundation shall support research that—
 
 #### (B) Requirement
 
-&emsp;&emsp;The cybersecurity test beds under subparagraph (A) shall be sufficiently robust in order to model the scale and complexity ofreal-time cyber attacks and defenses on real world networks and environments.
+&emsp;&emsp;The cybersecurity test beds under subparagraph (A) shall be sufficiently robust in order to model the scale and complexity of real-time cyber attacks and defenses on real world networks and environments.
 
 #### (C) Assessment required
 

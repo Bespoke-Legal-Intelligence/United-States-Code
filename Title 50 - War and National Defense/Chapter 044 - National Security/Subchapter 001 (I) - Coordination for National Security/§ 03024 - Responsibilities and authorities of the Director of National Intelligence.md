@@ -106,7 +106,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(iii) in the case of the transfer of personnel to or from the Department of Defense, the Committees on Armed Services of the Senate and the House of Representatives; and
 
-&emsp;(iv) in the case of the transfer of personnel to or from the Department of Justice, to the Committees on the Judiciary of the Senate and the House of Representatives.
+&emsp;(iv) in the case of the transfer of personnel to or from the Department of Justice, to theCommittees on the Judiciary of the Senate and the House of Representatives.
 
 (C) The Director shall include in any notice under subparagraph (B) an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
 
@@ -176,7 +176,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(iii) to the direct dissemination of information to State government and local government officials and private sector entities pursuant to sections 121 and 482 of title 6.
 
-(2) The Director of National Intelligence shall oversee the National Counterterrorism Center and may establish such other national intelligence centers as the Director determines necessary.
+(2) The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation Center, and the National Counterintelligence and Security Center and may establish such other national intelligence centers as the Director determines necessary.
 
 (3)(A) The Director of National Intelligence shall prescribe, in consultation with the heads of other agencies or elements of the intelligence community, and the heads of their respective departments, personnel policies and programs applicable to the intelligence community that—
 
@@ -230,7 +230,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(F) have procurement approval authority over all enterprise architecture-related information technology items funded in the National Intelligence Program; and
 
-&emsp;(G) in accordance with Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) (or any subsequent corresponding executive order), and part 2001 of title 32, Code of Federal Regulations (or any subsequent corresponding regulation), establish—
+&emsp;(G) in accordance with Executive Order No. 13526 (75 Fed. Reg. 707; relating to classifiednational security information) (or any subsequent corresponding executive order), and part 2001 of title 32, Code of Federal Regulations (or any subsequent corresponding regulation), establish—
 
 &emsp;&emsp;(i) guidance to standardize, in appropriate cases, the formats for classified and unclassified intelligence products created by elements of the intelligence community for purposes of promoting the sharing of intelligence products; and
 
@@ -320,9 +320,15 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(ii) The provision of rewards for service in positions undertaking analysis and planning of operations involving two or more elements of the intelligence community.
 
-&emsp;(iii) The establishment of requirements for education, training, service, and evaluationfor service involving more than one element of the intelligence community.
+&emsp;(iii) The establishment of requirements for education, training, service, and evaluation for service involving more than one element of the intelligence community.
 
 (C) It is the sense of Congress that the mechanisms prescribed under this subsection should, to the extent practical, seek to duplicate for civilian personnel within the intelligence community the joint officer management policies established by chapter 38 of title 10 and the other amendments made by title IV of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433).
+
+(D) The mechanisms prescribed under subparagraph (A) and any other policies of the Director—
+
+&emsp;(i) may not require an employee of an office of inspector general for an element of the intelligence community, including the Office of the Inspector General of the Intelligence Community, to rotate to a position in an office or organization of such an element over which such office of inspector general exercises jurisdiction; and
+
+&emsp;(ii) shall be implemented in a manner that exempts employees of an office of inspector general from a rotation that may impact the independence of such office.
 
 (4)(A) Except as provided in subparagraph (B) and subparagraph (D), this subsection shall not apply with respect to personnel of the elements of the intelligence community who are members of the uniformed services.
 
@@ -334,7 +340,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 #### (m) Additional authority with respect to personnel
 
-(1) In addition to the authorities under subsection (f)(3), the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
+(1) In addition to the authorities under subsection (f)(3), the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the CentralIntelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
 
 (2) Employees and applicants for employment of the Office of the Director of National Intelligence shall have the same rights and protections under the Office of the Director of National Intelligence as employees of the Central Intelligence Agency have under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004.
 
@@ -388,7 +394,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (G) The Director of National Intelligence shall submit—
 
-&emsp;(i) to the congressional intelligence committees a notification of an authorization to exercise an authority referred to in subparagraph (A) or an extension of such authorization that includes the written authorization referred to in subparagraph (B)(ii); and
+&emsp;(i) to the congressional intelligence committees a notification of an authorization to exercise an authority referred to in subparagraph (A) or an extension of such authorization thatincludes the written authorization referred to in subparagraph (B)(ii); and
 
 &emsp;(ii) to the Director of the Office of Management and Budget a notification of an authorization to exercise an authority referred to in subparagraph (A) for an acquisition or class of acquisitions that will exceed $50,000,000 annually.
 
@@ -446,7 +452,7 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 &emsp;(B) to the extent necessary to recruit or retain an individual exceptionally well qualified for the position.
 
-(3) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level II of the Executive Schedule under section 5313 of title 5, except upon written approval of the Director of National Intelligence or as otherwise authorized by law.
+(3) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level II of the Executive Schedule under section 5313of title 5, except upon written approval of the Director of National Intelligence or as otherwise authorized by law.
 
 (4) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level I of the Executive Schedule under section 5312 of title 5, except upon written approval of the President in response to a request by the Director of National Intelligence or as otherwise authorized by law.
 
@@ -498,7 +504,31 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929.)
+#### (y) Fundraising
+
+(1) The Director of National Intelligence may engage in fundraising in an official capacity for the benefit of nonprofit organizations that—
+
+&emsp;(A) provide support to surviving family members of a deceased employee of an element of the intelligence community; or
+
+&emsp;(B) otherwise provide support for the welfare, education, or recreation of employees of an element of the intelligence community, former employees of an element of the intelligence community, or family members of such employees.
+
+(2) In this subsection, the term "fundraising" means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
+
+(3) Not later than 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
+
+(4) The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this subsection. Such regulations shall ensure that such authority is exercised in a manner that is consistent with all relevant ethical constraints and principles, including the avoidance of any prohibited conflict of interest or appearance of impropriety.
+
+#### (z) Analyses and impact statements regarding proposed investment into the United States
+
+(1) Not later than 20 days after the completion of a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials, the Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representative copies of such analytic materials, including any supplements or amendments to such analysis made by the Director.
+
+(2) Not later than 60 days after the completion of consideration by the United States Government of any investment described in paragraph (1), the Director shall determine whether such investment will have an operational impact on the intelligence community, and, if so, shall submit a report on such impact to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. Each such report shall—
+
+&emsp;(A) describe the operational impact of the investment on the intelligence community; and
+
+&emsp;(B) describe any actions that have been or will be taken to mitigate such impact.
+
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929; Pub. L. 115–31, div. N, title III, §§303(a), 309(b), title IV, §§401(c), 402, May 5, 2017, 131 Stat. 810, 815, 818, 820.)
 
 #### References in Text
 
@@ -528,11 +558,19 @@ Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (f)(2). Pub. L. 115–31, §401(c), inserted ", the National Counterproliferation Center, and the National Counterintelligence and Security Center" after "National Counterterrorism Center".
+
+Subsec. (l)(3)(D). Pub. L. 115–31, §309(b), added subpar. (D).
+
+Subsec. (y). Pub. L. 115–31, §303(a), added subsec. (y).
+
+Subsec. (z). Pub. L. 115–31, §402, added subsec. (z).
+
 <b>2015</b>—Subsec. (u). Pub. L. 114–113, §701(c)(1), struck out par. (1) designation before "The Director of National Intelligence" and struck out par. (2) which read as follows: "The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in section 3106 of this title."
 
 Subsec. (v)(3), (4). Pub. L. 114–113, §105(a), added par. (3) and redesignated former par. (3) as (4).
 
-<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report thatidentifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
 
 Subsec. (j). Pub. L. 113–126, §501(1), substituted "classified information" for "sensitive compartmented information" in heading.
 
@@ -586,6 +624,50 @@ For Determination by President that section take effect on Apr. 21, 2005, see Me
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
+#### Limitation on Activities of Employees of an Office of Inspector General
+
+Pub. L. 115–31, div. N, title III, §309(a), May 5, 2017, 131 Stat. 814, provided that:
+
+"(1)
+
+Limitations.—Not later than 180 days after the date of the enactment of this Act \[May 5, 2017\], the Director of National Intelligence shall develop and implement a uniform policy for each covered office of an inspector general to better ensure the independence of each such office. Such policy shall include—
+
+&emsp;"(A) provisions to prevent any conflict of interest related to a matter any employee of a covered office of an inspector general personally and substantially participated in during previous employment;
+
+&emsp;"(B) standards to ensure personnel of a covered office of an inspector general are free both in fact and in appearance from personal, external, and organizational impairments to independence;
+
+&emsp;"(C) provisions to permit the head of each covered office of an inspector general to waive the application of the policy with respect to an individual if such head—
+
+&emsp;&emsp;"(i) prepares a written and signed justification for such waiver that sets out, in detail, the need for such waiver, provided that waivers shall not be issued for in fact impairments to independence; and
+
+&emsp;&emsp;"(ii) submits to the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\] each such justification; and
+
+&emsp;"(D) any other protections the Director determines appropriate.
+
+"(2)
+
+Covered office of an inspector general defined.—The term 'covered office of an inspector general' means—
+
+&emsp;"(A) the Office of the Inspector General of the Intelligence Community; and
+
+&emsp;"(B) the office of an inspector general for—
+
+&emsp;&emsp;"(i) the Office of the Director of National Intelligence;
+
+&emsp;&emsp;"(ii) the Central Intelligence Agency;
+
+&emsp;&emsp;"(iii) the National Security Agency;
+
+&emsp;&emsp;"(iv) the Defense Intelligence Agency;
+
+&emsp;&emsp;"(v) the National Geospatial-Intelligence Agency; and
+
+&emsp;&emsp;"(vi) the National Reconnaissance Office.
+
+"(3)
+
+Briefing to the congressional intelligence committees.—Prior to the date that the policy required by paragraph (1) takes effect, the Director of National Intelligence shall provide the congressional intelligence committees a briefing on such policy."
+
 #### Designation of Lead Intelligence Officer for Tunnels
 
 Pub. L. 114–113, div. M, title III, §309, Dec. 18, 2015, 129 Stat. 2918, provided that:
@@ -632,7 +714,7 @@ Report.—Not later than December 1, 2011, the Director of National Intelligence
 
 "(d)
 
-Information Resources Defined.—In this section, the term 'information resources' means networks,systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence."
+Information Resources Defined.—In this section, the term 'information resources' means networks, systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence."
 
 \[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 402 of Pub. L. 112–18, set out above, see section 2 of Pub. L. 112–18, set out below.\]
 
@@ -788,7 +870,7 @@ Sec. 2. <i>Responsibilities of the Cyber Threat Intelligence Integration Center<
 
 (e) facilitate and support interagency efforts to develop and implement coordinated plans to counter foreign cyber threats to U.S. national interests using all instruments of national power, including diplomatic, economic, military, intelligence, homeland security, and law enforcement activities.
 
-Sec. 3. <i>Implementation</i>. (a) Agencies shall provide the CTIIC with all intelligence related to foreign cyber threats or related to cyber incidents affecting U.S. national interests, subject to applicable law and policy. The CTIIC shall access, assess, use, retain, and disseminate such information, in a manner that protects privacy and civil liberties and is consistent with applicable law, Executive Orders, Presidential directives, and guidelines, such as guidelines established under section 102A(b) of the National Security Act of 1947, as amended, Executive Order 12333 of December 4, 1981 (UnitedStates Intelligence Activities), as amended, and Presidential Policy Directive–28; and that is consistent with the need to protect sources and methods.
+Sec. 3. <i>Implementation</i>. (a) Agencies shall provide the CTIIC with all intelligence related to foreign cyber threats or related to cyber incidents affecting U.S. national interests, subject to applicable law and policy. The CTIIC shall access, assess, use, retain, and disseminate such information, in a manner that protects privacy and civil liberties and is consistent with applicable law, Executive Orders, Presidential directives, and guidelines, such as guidelines established under section 102A(b) of the National Security Act of 1947, as amended, Executive Order 12333 of December 4, 1981 (United States Intelligence Activities), as amended, and Presidential Policy Directive–28; and that is consistent with the need to protect sources and methods.
 
 (b) Within 90 days of the date of this memorandum, the DNI, in consultation with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Director of the National Security Agency shall provide a status report to the Director of the Office of Management and Budget and the Assistant to the President for Homeland Security and Counterterrorism on the establishment of the CTIIC. This report shall further refine the CTIIC's mission, roles, and responsibilities, consistent with this memorandum, ensuring that those roles and responsibilities are appropriately aligned with other Presidential policies as well as existing policy coordination mechanisms.
 

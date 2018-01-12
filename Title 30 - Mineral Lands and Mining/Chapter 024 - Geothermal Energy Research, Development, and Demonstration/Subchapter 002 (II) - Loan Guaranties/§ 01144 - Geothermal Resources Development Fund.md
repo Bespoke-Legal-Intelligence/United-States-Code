@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purposes for which Fund moneys may be expended
 
-There is established in the Treasury of the United States a Geothermal Resources Development Fund, which shall be available to the head of the designated agency for carrying out the loan guaranty and interest assistance program authorized by this subchapter, including the payment of administrative expenses incurred inconnection therewith. Moneys in the fund not needed for current operations may, with the approval of the Secretary of the Treasury, be invested in bonds or other obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States a Geothermal Resources Development Fund, which shall be available to the head of the designated agency for carrying out the loan guaranty and interest assistance program authorized by this subchapter, including the payment of administrative expenses incurred in connection therewith. Moneys in the fund not needed for current operations may, with the approval of the Secretary of the Treasury, be invested in bonds or other obligations of, or guaranteed by, the United States.
 
 #### (b) Deposits into the Fund
 
@@ -28,5 +28,5 @@ Subsec. (d) of this section, which required the head of the designated agency to
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted in subsec. (c) for "Administrator" (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted in subsec. (c) for "Administrator" (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 ofTitle 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

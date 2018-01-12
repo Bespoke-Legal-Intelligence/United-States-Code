@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 95–281, §1, May 15, 1978, 92 Stat. 246, which related to Federal recognition of the Wyandotte,Ottawa, and Peoria Tribes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 95–281, §1, May 15, 1978, 92 Stat. 246, which related to Federal recognition of the Wyandotte, Ottawa, and Peoria Tribes, was omitted from the Code as being of special and not general application.
 

@@ -152,7 +152,7 @@
 
 #### (2) Alignment of claims data with standardized patient assessment data
 
-&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
+&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described inclauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
 
 #### (3) Replacement of certain existing data
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessmentinstrument as necessary to enable the use of such instrument with respect to such quality measures.
+&emsp;&emsp;To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessment instrument as necessary to enable the use of such instrument with respect to such quality measures.
 
 #### (B) Limitation
 
@@ -270,7 +270,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practicalmeasure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
+&emsp;&emsp;In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
 
 #### (3) Treatment of application of pre-rulemaking process (measure applications partnership process)
 
@@ -302,7 +302,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide for public reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
+&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide forpublic reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
 
 #### (2) Opportunity to review
 
@@ -362,7 +362,7 @@ For purposes of carrying out this section, the Secretary shall provide for the t
 
 #### (l) Limitation
 
-There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+There shall be no administrative or judicial review under sections 1395ff and 1395oo of thistitle or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 
 #### (m) Non-application of Paperwork Reduction Act
 
@@ -412,7 +412,7 @@ Report.—Not later than 5 years after the date of the enactment of this Act, th
 
 &emsp;"(C)
 
-Examination of data in conducting studies.—In conducting the studies under subparagraphs (A)and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
+Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
 
 &emsp;"(D)
 
@@ -456,5 +456,5 @@ Funding.—There are hereby appropriated to the Secretary from the Federal Hospi
 
 "(3)
 
-Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures under subsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
+Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures undersubsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
 

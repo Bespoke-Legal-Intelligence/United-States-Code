@@ -38,5 +38,5 @@ The Federal and State laws described in this subsection are those Federal and St
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10104(n), substituted ", or a multi-State qualified health plan under section 18054 of this title" for ", a community healthinsurance option under section 18043 of this title, or a nationwide qualified health plan under section 18053(b) of this title".
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10104(n), substituted ", or a multi-State qualified health plan under section 18054 of this title" for ", a community health insurance option under section 18043 of this title, or a nationwide qualified health plan under section 18053(b) of this title".
 

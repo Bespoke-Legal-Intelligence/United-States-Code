@@ -28,7 +28,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (2) Exception
 
-&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a communityor locality in which it has been demonstrated by the applicant consortium that—
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
 
 &emsp;&emsp;(A) subpopulations exist within the community to be served that have unique service requirements; and
 

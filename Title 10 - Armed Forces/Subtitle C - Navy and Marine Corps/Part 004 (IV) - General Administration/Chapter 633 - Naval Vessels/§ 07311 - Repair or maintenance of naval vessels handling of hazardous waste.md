@@ -14,7 +14,7 @@ Compensation.—A provision specifying that the contractor shall be compensated 
 
 &emsp;(3)
 
-Statement of work.—A provision specifying the responsibilities of the Navy and of the contractor, respectively, for the removal (including the handling, storage, transportation, and disposal) of hazardous wastes.
+Statement of work.—A provision specifying the responsibilities of the Navy and ofthe contractor, respectively, for the removal (including the handling, storage, transportation, and disposal) of hazardous wastes.
 
 &emsp;(4)
 
@@ -38,7 +38,7 @@ Renegotiation of Contract.—The Secretary of the Navy shall renegotiate a contr
 
 (c)
 
-Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wastesfrom a vessel before the vessel's arrival at a contractor's facility for performance of a contract, to the extent such removal is feasible.
+Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wastes from a vessel before the vessel's arrival at a contractor's facility for performance of a contract, to the extent such removal is feasible.
 
 (d)
 

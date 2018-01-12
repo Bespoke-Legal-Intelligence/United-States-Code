@@ -14,6 +14,216 @@ The Congress makes the following findings:
 
 <b>1988</b>—Par. (2). Pub. L. 100–323, §15(b)(1), inserted "and Training" after "for Veterans' Employment".
 
+#### Honoring Investments in Recruiting and Employing American Military Veterans
+
+Pub. L. 115–31, div. O, May 5, 2017, 131 Stat. 838, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This division may be cited as the 'Honoring Investments in Recruiting and Employing American Military Veterans Act of 2017' or the 'HIRE Vets Act'.
+
+#### "SEC. 2. HIRE VETS MEDALLION AWARD PROGRAM.
+
+"(a)
+
+Program Established.—Not later than 2 years after the date of enactment of this Act \[May 5, 2017\], the Secretary of Labor shall establish, by rule, a HIRE Vets Medallion Program to solicit voluntary information from employers for purposes of recognizing, by means of an award to be designated a 'HIRE Vets Medallion Award', verified efforts by such employers—
+
+&emsp;"(1) to recruit, employ, and retain veterans; and
+
+&emsp;"(2) to provide community and charitable services supporting the veteran community.
+
+"(b)
+
+Application Process.—Beginning in the calendar year following the calendar year in which the Secretary establishes the program, the Secretary shall annually—
+
+&emsp;"(1) solicit and accept voluntary applications from employers in order to consider whether those employers should receive a HIRE Vets Medallion Award;
+
+&emsp;"(2) review applications received in each calendar year; and
+
+&emsp;"(3) notify such recipients of their awards; and
+
+&emsp;"(4) at a time to coincide with the annual commemoration of Veterans Day—
+
+&emsp;&emsp;"(A) announce the names of such recipients;
+
+&emsp;&emsp;"(B) recognize such recipients through publication in the Federal Register; and
+
+&emsp;&emsp;"(C) issue to each such recipient—
+
+&emsp;&emsp;&emsp;"(i) a HIRE Vets Medallion Award of the level determined under section 3; and
+
+&emsp;&emsp;&emsp;"(ii) a certificate stating that such employer is entitled to display such HIRE Vets Medallion Award.
+
+"(c)
+
+Timing.—
+
+&emsp;"(1)
+
+Solicitation period.—The Secretary shall solicit applications not later than January 31st of each calendar year for the Awards to be awarded in November of that calendar year.
+
+&emsp;"(2)
+
+End of acceptance period.—The Secretary shall stop accepting applications not earlier than April 30th of each calendar year for the Awards to be awarded in November of that calendar year.
+
+&emsp;"(3)
+
+Review period.—The Secretary shall finish reviewing applications not later than August 31st of each calendar year for the Awards to be awarded in November of that calendar year.
+
+&emsp;"(4)
+
+Selection of recipients.—The Secretary shall select the employers to receive HIRE Vets Medallion Awards not later than September 30th of each calendar year for the Awards to be awarded in November of that calendar year.
+
+&emsp;"(5)
+
+Notice to recipients.—The Secretary shall notify employers who will receive HIRE Vets Medallion Awards not later than October 11th of each calendar year for the Awards to be awarded in November of that calendar year.
+
+"(d)
+
+Limitation.—An employer who receives a HIRE Vets Medallion Award for one calendar year is not eligible to receive a HIRE Vets Medallion Award for the subsequent calendar year.
+
+#### "SEC. 3. SELECTION OF RECIPIENTS.
+
+"(a)
+
+Application Review Process.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall review all applications received in a calendar year to determine whether an employer should receive a HIRE Vets Medallion Award, and, if so, of what level.
+
+&emsp;"(2)
+
+Application contents.—The Secretary shall require that all applications provide information on the programs and other efforts of applicant employers during the calendar year prior to that in which the medallion is to be awarded, including the categories and activities governing the level of award for which the applicant is eligible under subsection (b).
+
+&emsp;"(3)
+
+Verification.—The Secretary shall verify all information provided in the applications, to the extent that such information is relevant in determining whether or not an employer should receive a HIRE Vets Medallion Award or in determining the appropriate level of HIRE Vets Medallion Award for that employer to receive, including by requiring the chief executive officer or the chief human relations officer of the employer to attest under penalty of perjury that the employer has met the criteria described in subsection (b) for a particular level of Award.
+
+"(b)
+
+Awards.—
+
+&emsp;"(1)
+
+Large employers.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall establish 2 levels of HIRE Vets Medallion Awards to be awarded to employers employing 500 or more employees, to be designated the 'Gold HIRE Vets Medallion Award' and the 'Platinum HIRE Vets Medallion Award'.
+
+&emsp;&emsp;"(B)
+
+Gold hire vets medallion award.—No employer shall be eligible to receive a Gold HIRE Vets Medallion Award in a given calendar year unless—
+
+&emsp;&emsp;&emsp;"(i) veterans constitute not less than 7 percent of all employees hired by such employer during the prior calendar year;
+
+&emsp;&emsp;&emsp;"(ii) such employer has retained not less than 75 percent of the veteran employees hired during the calendar year preceding the preceding calendar year for a period of at least 12 months from the date on which the employees were hired;
+
+&emsp;&emsp;&emsp;"(iii) such employer has established an employee veteran organization or resource group to assist new veteran employees with integration, including coaching and mentoring; and
+
+&emsp;&emsp;&emsp;"(iv) such employer has established programs to enhance the leadership skills of veteran employees during their employment.
+
+&emsp;&emsp;"(C) Platinum hire vets medallion award.—No employer shall be eligible to receive a Platinum HIRE Vets Medallion Award in a given calendar year unless—
+
+&emsp;&emsp;&emsp;"(i) the employer meets all the requirements for eligibility for a Gold HIRE Vets Medallion Award under subparagraph (B);
+
+&emsp;&emsp;&emsp;"(ii) veterans constitute not less than 10 percent of all employees hired by such employer during the prior calendar year;
+
+&emsp;&emsp;&emsp;"(iii) such employer has retained not less than 85 percent of the veteran employees hired during the calendar year preceding the preceding calendar year for a period of at least 12 months from the date on which the employees were hired;
+
+&emsp;&emsp;&emsp;"(iv) such employer employs dedicated human resources professionals to support hiring and retention of veteran employees, including efforts focused on veteran hiring and training;
+
+&emsp;&emsp;&emsp;"(v) such employer provides each of its employees serving on active duty in the United States National Guard or Reserve with compensation sufficient, in combination with the employee's active duty pay, to achieve a combined level of income commensurate with the employee's salary prior to undertaking active duty; and
+
+&emsp;&emsp;&emsp;"(vi) such employer has a tuition assistance program to support veteran employees' attendance in postsecondary education during the term of their employment.
+
+&emsp;&emsp;"(D)
+
+Exemption for smaller employers.—An employer shall be deemed to meet the requirements of subparagraph (C)(iv) if such employer—
+
+&emsp;&emsp;&emsp;"(i) employs 5,000 or fewer employees; and
+
+&emsp;&emsp;&emsp;"(ii) employs at least one human resources professional whose regular work duties include those described under subparagraph (C)(iv).
+
+&emsp;&emsp;"(E)
+
+Additional criteria.—The Secretary may provide, by rule, additional criteria with which to determine qualifications for receipt of each level of HIRE Vets Medallion Award.
+
+&emsp;"(2)
+
+Small- and medium-sized employers.—The Secretary shall establish similar awards in order to recognize achievements in supporting veterans by—
+
+&emsp;&emsp;"(A) employers with 50 or fewer employees; and
+
+&emsp;&emsp;"(B) employers with more than 50 but fewer than 500 employees.
+
+"(c)
+
+Design by Secretary.—The Secretary shall establish the shape, form, and design of each HIRE Vets Medallion Award, except that the Award shall be in the form of a certificate and shall state the year for which it was awarded.
+
+#### "SEC. 4. DISPLAY OF AWARD.
+
+"It is unlawful for any employer to publicly display a HIRE Vets Medallion Award, in connection with, or as a part of, any advertisement, solicitation, business activity, or product—
+
+&emsp;"(1) for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression that the employer received the Award through the HIRE Vets Medallion Award Program, if such employer did not receive such Award through the HIRE Vets Medallion Award Program; or
+
+&emsp;"(2) for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression that the employer received the Award through the HIRE Vets Medallion Award Program for a year for which such employer did not receive such Award.
+
+#### "SEC. 5. APPLICATION FEE AND FUNDING.
+
+"(a)
+
+Fund Established.—There is established in the Treasury of the United States a fund to be designated the 'HIRE Vets Medallion Award Fund'. Amounts appropriated to the fund pursuant to subsection (c) shall remain available until expended.
+
+"(b)
+
+Fee Authorized.—The Secretary may assess a reasonable fee on employers that apply for receipt of a HIRE Vets Medallion Award and the Secretary shall deposit such fees into the HIRE Vets Medallion Award Fund. The Secretary shall establish the amount of the fee such that the amounts collected as fees and deposited into the Fund are sufficient to cover the costs associated with carrying out this division.
+
+"(c)
+
+Use of Funds.—Amounts in the HIRE Vets Medallion Award Fund shall be available, subject to appropriation, to the Secretary to carry out the HIRE Vets Medallion Award Program.
+
+#### "SEC. 6. INITIAL IMPLEMENTATION.
+
+"The HIRE Vets Medallion Program shall begin to solicit applications on January 31 of the year that is 2 fiscal years after the fiscal year during which funds are first appropriated to carry out this division.
+
+#### "SEC. 7. REPORT TO CONGRESS.
+
+"(a)
+
+Reports.—Beginning not later than 2 years after the date of enactment of this Act \[May 5, 2017\], the Secretary shall submit to Congress annual reports on—
+
+&emsp;"(1) the fees collected from applicants for HIRE Vets Medallion Awards in the prior year and any changes in fees to be proposed in the present year;
+
+&emsp;"(2) the cost of administering the HIRE Vets Medallion Award Program in the prior year;
+
+&emsp;"(3) the number of applications for HIRE Vets Medallion Awards received in the prior year; and
+
+&emsp;"(4) the HIRE Vets Medallion Awards awarded in the prior year, including the name of each employer to whom a HIRE Vets Medallion Award was awarded and the level of medallion awarded to each such employer.
+
+"(b)
+
+Committees.—The Secretary shall provide the reports required under subsection (a) to the Chairman and Ranking Member of—
+
+&emsp;"(1) the Committees on Education and the Workforce and Veterans' Affairs of the House of Representatives; and
+
+&emsp;"(2) the Committees on Health, Education, Labor, and Pensions and Veterans' Affairs of the Senate.
+
+#### "SEC. 8. DEFINITIONS.
+
+"In this division:
+
+"(a) The term 'employer' means any person, institution, organization, or other entity that pays salary or wages for work performed or that has control over employee opportunities, except that such term does not include—
+
+&emsp;"(1) the Federal Government; or
+
+&emsp;"(2) any State government.
+
+"(b) The term 'Secretary' means the Secretary of Labor.
+
+"(c) The term 'veteran' has the meaning given such term under section 101 of title 38, United States Code."
+
 #### Veterans Retraining Assistance Program
 
 Pub. L. 112–56, title II, §211, Nov. 21, 2011, 125 Stat. 713, provided that:
@@ -74,7 +284,7 @@ In general.—For purposes of this section, an eligible veteran is a veteran who
 
 &emsp;&emsp;"(E) is not in receipt of compensation for a service-connected disability rated totally disabling by reason of unemployability;
 
-&emsp;&emsp;"(F) was not and is not enrolled in any Federal or State job training program at any time during the180-day period ending on the date of the submittal of the application for assistance under this section; and
+&emsp;&emsp;"(F) was not and is not enrolled in any Federal or State job training program at any time during the 180-day period ending on the date of the submittal of the application for assistance under this section; and
 
 &emsp;&emsp;"(G) by not later than October 1, 2013, submits to the Secretary of Labor an application for assistance under this section containing such information and assurances as that Secretary may require.
 

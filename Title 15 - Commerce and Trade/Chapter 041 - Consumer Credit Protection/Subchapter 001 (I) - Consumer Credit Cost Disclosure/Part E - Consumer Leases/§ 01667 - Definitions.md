@@ -2,7 +2,7 @@
 
 For purposes of this part—
 
-&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000, primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>1</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
+&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
 
 &emsp;(2) The term "lessee" means a natural person who leases or is offered a consumer lease.
 
@@ -13,10 +13,6 @@ For purposes of this part—
 &emsp;(5) The terms "security" and "security interest" mean any interest in property which secures payment or performance of an obligation.
 
 (Pub. L. 90–321, title I, §181, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, §1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
-
-#### Adjustments for Inflation
-
-<i>For requirement of inflation adjustment of dollar amounts in par. (1) of this section, see section 1100E(b) of Pub. L. 111–203, set out as a note under section 1603 of this title.</i>
 
 #### References in Text
 
@@ -38,5 +34,7 @@ Pub. L. 94–240, §6, Mar. 23, 1976, 90 Stat. 261, provided that: "This Act \[e
 
 On and after Dec. 31, 2011, dollar amount described in par. (1) of this section to be adjusted annually by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, see section 1100E(b) of Pub. L. 111–203, set out as a note under section 1603 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See Adjustments for Inflation note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

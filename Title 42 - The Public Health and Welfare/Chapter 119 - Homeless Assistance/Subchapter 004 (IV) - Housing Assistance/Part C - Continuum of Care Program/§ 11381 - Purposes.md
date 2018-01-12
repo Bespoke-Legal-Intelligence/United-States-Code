@@ -14,13 +14,13 @@ The purposes of this part are—
 
 #### Prior Provisions
 
-A prior section 11381, Pub. L. 100–77, title IV, §421, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013, which related to the purpose of the supportive housing program, was repealed by Pub. L. 111–22, div. B, title III, §1301(2), May 20, 2009, 123 Stat. 1680.
+A prior section 11381, Pub. L. 100–77, title IV, §421, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992,106 Stat. 4013, which related to the purpose of the supportive housing program, was repealed by Pub. L. 111–22, div. B, title III, §1301(2), May 20, 2009, 123 Stat. 1680.
 
 Another prior section 11381, Pub. L. 100–77, title IV, §421, July 22, 1987, 101 Stat. 498, which related to establishment of a supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certainfinal regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Transitional Provision
 

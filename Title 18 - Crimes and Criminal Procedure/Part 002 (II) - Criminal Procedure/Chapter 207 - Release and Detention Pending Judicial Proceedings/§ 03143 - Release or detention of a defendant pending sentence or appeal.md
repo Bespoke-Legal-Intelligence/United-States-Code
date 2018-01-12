@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 101–647, §902(b), designated existing provisions as par.
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–690, §7091(2), inserted ", except that in the circumstance described in paragraph (b)(2)(D), the judicial officer shall order the detention terminated at the expiration of the likely reduced sentence" before period at end.
 
-Subsec. (b)(2). Pub. L. 100–690, §7091(1), added par. (2) and struck out former par. (2) which read as follows: "that the appeal is not for purpose of delay and raises a substantial question of law or fact likely to result in reversal, an order for a new trial, or a sentence that does not include a term of imprisonment."
+Subsec. (b)(2). Pub. L. 100–690, §7091(1), added par. (2) and struck out former par. (2) which read as follows:"that the appeal is not for purpose of delay and raises a substantial question of law or fact likely to result in reversal, an order for a new trial, or a sentence that does not include a term of imprisonment."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(d)(1), (2), (4), substituted "under" for "pursuant to" and "such judicial officer" for "he" and struck out "the provisions of" after "in accordance with".
 

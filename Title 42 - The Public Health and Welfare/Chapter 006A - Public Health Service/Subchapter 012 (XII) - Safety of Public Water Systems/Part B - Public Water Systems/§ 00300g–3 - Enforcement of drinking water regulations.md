@@ -8,7 +8,7 @@
 
 &emsp;(ii) for which a variance under section 300g–4 or an exemption under section 300g–5 of this title is in effect, does not comply with any schedule or other requirement imposed pursuant thereto,
 
-> he shall so notify the State and such public water system and provide such advice and technical assistance to such State and public watersystem as may be appropriate to bring the system into compliance with the requirement by the earliest feasible time.
+> he shall so notify the State and such public water system and provide such advice and technical assistance to such State and public water system as may be appropriate to bring the system into compliance with the requirement by the earliest feasible time.
 
 (B) If, beyond the thirtieth day after the Administrator's notification under subparagraph (A), the State has not commenced appropriate enforcement action, the Administrator shall issue an order under subsection (g) requiring the public water system to comply with such applicable requirement or the Administrator shall commence a civil action under subsection (b).
 
@@ -140,7 +140,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
+&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violationswith respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
 
 #### (ii) Distribution
 
@@ -188,7 +188,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;The Governor of a State may determine not to apply the mailing requirement of subparagraph (A) to a community water system serving fewer than 10,000 persons. Any such system shall—
 
-&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means, its customers that the system will not be mailing the report as required by subparagraph (A);
+&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means,its customers that the system will not be mailing the report as required by subparagraph (A);
 
 &emsp;&emsp;&emsp;(ii) make the consumer confidence report available upon request to the public; and
 
@@ -244,7 +244,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;The Administrator shall, as soon as practicable, disseminate to affected households the information described in subparagraph (C) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the owner or operator of the public water system does not disseminate the information to the affected households within the time period determined by the Administrator, as required by clause (ii); and
+&emsp;&emsp;&emsp;&emsp;(I) the owner or operator of the public water system does not disseminate the information to the affected householdswithin the time period determined by the Administrator, as required by clause (ii); and
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) the Administrator and the applicable Governor do not agree on a plan described in clause (iii)(I) during the consultation period under that clause; or
 

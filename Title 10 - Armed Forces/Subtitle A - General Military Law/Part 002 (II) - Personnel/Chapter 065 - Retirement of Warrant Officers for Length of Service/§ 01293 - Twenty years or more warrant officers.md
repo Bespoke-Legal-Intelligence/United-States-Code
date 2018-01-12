@@ -44,7 +44,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Pub. L. 112–213, title II, §219, Dec. 20, 2012, 126 Stat. 1558, provided that: "For fiscal years 2013 through 2018—
 
-&emsp;"(1) notwithstanding subsection (c)(2)(A) of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
+&emsp;"(1) notwithstanding subsection (c)(2)(A) of section 4403 of the National Defense Authorization Act forFiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
 
 &emsp;&emsp;"(A) the Secretary of Homeland Security shall implement such section with respect to the Coast Guard and, for purposes of that implementation, shall apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel; and
 
@@ -74,7 +74,7 @@ Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as
 
 "(a)
 
-Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additionalforce management tool with which to effect the drawdown of military forces during the active force drawdown period.
+Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces during the active force drawdown period.
 
 "(b)
 

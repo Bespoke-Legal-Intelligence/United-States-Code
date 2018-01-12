@@ -102,7 +102,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;(II) transcend any single system of education's ability to address; and
 
-&emsp;&emsp;&emsp;(iv) implementing activities designed to ensure the enrollment of all elementary school and secondary school students in rigorous coursework, which may include—
+&emsp;&emsp;&emsp;(iv) implementing activities designed to ensure the enrollment of all elementaryschool and secondary school students in rigorous coursework, which may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) specifying the courses and performance levels necessary for acceptance into institutions of higher education; and
 
@@ -158,11 +158,11 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) prohibits the party from using the information for any purpose other than the purpose specified in the agreement; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) requires the party to destroy the information when the purpose forwhich the disclosure was made is accomplished;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) requires the party to destroy the information when the purpose for which the disclosure was made is accomplished;
 
 &emsp;&emsp;&emsp;&emsp;(VI) maintain adequate security measures to ensure the confidentiality and integrity of the statewide P–16 education data system, such as protecting a student record from identification by a unique identifier;
 
-&emsp;&emsp;&emsp;&emsp;(VII) where rights are provided to parents under this clause, provide those rights to the student instead of the parent if the student has reached the age of 18 or is enrolled in a postsecondary educational institution; and
+&emsp;&emsp;&emsp;&emsp;(VII) where rights are provided to parents under this clause, provide thoserights to the student instead of the parent if the student has reached the age of 18 or is enrolled in a postsecondary educational institution; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) ensure adequate enforcement of the requirements of this clause.
 
@@ -234,7 +234,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 #### (2) Application contents
 
-&emsp;Each application submitted under this section shall specify whether the State application is for the conduct of P–16 education alignment activities, or the establishment or improvement of a statewide P–16 education datasystem. The application shall include, at a minimum, the following:
+&emsp;Each application submitted under this section shall specify whether the State application is for the conduct of P–16 education alignment activities, or the establishment or improvement of a statewide P–16 education data system. The application shall include, at a minimum, the following:
 
 &emsp;&emsp;(A) A description of the activities and programs to be carried out with the grant funds and a comprehensive plan for carrying out the activities.
 

@@ -14,3 +14,7 @@ During the period for which the certificate of registration is in effect, each f
 
 (Pub. L. 97–470, title I, §105, Jan. 14, 1983, 96 Stat. 2589.)
 
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
+

@@ -14,7 +14,7 @@ Limitations on Response.—The President shall not provide for a removal or reme
 
 &emsp;(A) of a naturally occurring substance in its unaltered form, or altered solely through naturally occurring processes or phenomena, from a location where it is naturally found;
 
-&emsp;(B) from products which are part of the structure of, and result in exposure within, residential buildings or business or community structures; or
+&emsp;(B) from products which are part of the structure of, and result in exposure within,residential buildings or business or community structures; or
 
 &emsp;(C) into public or private drinking water supplies due to deterioration of the system through ordinary use.
 
@@ -42,7 +42,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 (4)
 
-Selection of Remedial Action.—The President shall select remedial actions to carry out this section in accordance with section 9621 of this title (relating to cleanup standards).
+Selection of Remedial Action.—The President shall select remedial actions to carryout this section in accordance with section 9621 of this title (relating to cleanup standards).
 
 (5)
 
@@ -92,7 +92,7 @@ Recontracting.—The President is authorized to undertake or continue whatever i
 
 Siting.—Effective 3 years after October 17, 1986, the President shall not provide any remedial actions pursuant to this section unless the State in which the release occurs first enters into a contract or cooperative agreement with the President providing assurances deemed adequate by the President that the State will assure the availability of hazardous waste treatment or disposal facilities which—
 
-&emsp;(A) have adequate capacity for the destruction, treatment, or secure disposition of allhazardous wastes that are reasonably expected to be generated within the State during the 20-year period following the date of such contract or cooperative agreement and to be disposed of, treated, or destroyed,
+&emsp;(A) have adequate capacity for the destruction, treatment, or secure disposition of all hazardous wastes that are reasonably expected to be generated within the State during the 20-year period following the date of such contract or cooperative agreement and to be disposed of, treated, or destroyed,
 
 &emsp;(B) are within the State or outside the State in accordance with an interstate agreement or regional agreement or authority,
 
@@ -146,7 +146,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;Any officer, employee, or representative described in paragraph (1) is authorized to enter at reasonable times any of the following:
 
-&emsp;&emsp;(A) Any vessel, facility, establishment, or other place or property where any hazardoussubstance or pollutant or contaminant may be or has been generated, stored, treated, disposed of, or transported from.
+&emsp;&emsp;(A) Any vessel, facility, establishment, or other place or property where any hazardous substance or pollutant or contaminant may be or has been generated, stored, treated, disposed of, or transported from.
 
 &emsp;&emsp;(B) Any vessel, facility, establishment, or other place or property from which or to which a hazardous substance or pollutant or contaminant has been or may have been released.
 
@@ -158,7 +158,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (A) Authority
 
-&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized to inspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
+&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized toinspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
 
 #### (B) Samples
 
@@ -246,11 +246,11 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(C) in cooperation with the States, and other agencies of the Federal Government, establish and maintain a complete listing of areas closed to the public or otherwise restricted in use because of toxic substance contamination;
 
-&emsp;(D) in cases of public health emergencies caused or believed to be caused by exposure totoxic substances, provide medical care and testing to exposed individuals, including but not limited to tissue sampling, chromosomal testing where appropriate, epidemiological studies, or any other assistance appropriate under the circumstances; and
+&emsp;(D) in cases of public health emergencies caused or believed to be caused by exposure to toxic substances, provide medical care and testing to exposed individuals, including but not limited to tissue sampling, chromosomal testing where appropriate, epidemiological studies, or any other assistance appropriate under the circumstances; and
 
 &emsp;(E) either independently or as part of other health status survey, conduct periodic survey and screening programs to determine relationships between exposure to toxic substances and illness. In cases of public health emergencies, exposed persons shall be eligible for admission to hospitals and other facilities and services operated or provided by the Public Health Service.
 
-(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
+(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substanceswhich are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
 
 (B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list prepared under subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
 
@@ -272,7 +272,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(ii) laboratory and other studies to determine organ-specific, site-specific, and system-specific acute and chronic toxicity;
 
-&emsp;(iii) laboratory and other studies to determine the manner in which such substances aremetabolized or to otherwise develop an understanding of the biokinetics of such substances; and
+&emsp;(iii) laboratory and other studies to determine the manner in which such substances are metabolized or to otherwise develop an understanding of the biokinetics of such substances; and
 
 &emsp;(iv) where there is a possibility of obtaining human data, the collection of such information.
 
@@ -334,11 +334,11 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(B) permanent or temporary relocation of individuals.
 
-> In any case in which information is insufficient, in the judgment of the Administrator of ATSDR or the President to determine a significanthuman exposure level with respect to a hazardous substance, the President may take such steps as may be necessary to reduce the exposure of any person to such hazardous substance to such level as the President deems necessary to protect human health.
+> In any case in which information is insufficient, in the judgment of the Administrator of ATSDR or the President to determine a significant human exposure level with respect to a hazardous substance, the President may take such steps as may be necessary to reduce the exposure of any person to such hazardous substance to such level as the President deems necessary to protect human health.
 
 (12) In any case which is the subject of a petition, a health assessment or study, or a research program under this subsection, nothing in this subsection shall be construed to delay or otherwise affect or impair the authority of the President, the Administrator of ATSDR, or the Administrator of EPA to exercise any authority vested in the President, the Administrator of ATSDR or the Administrator of EPA under any other provision of law (including, but not limited to, the imminent hazard authority of section 7003 of the Solid Waste Disposal Act \[42 U.S.C. 6973\]) or the response and abatement authorities of this chapter.
 
-(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted only after appropriate peer review. Such peer review shall be completed, to the maximum extent practicable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
+(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted onlyafter appropriate peer review. Such peer review shall be completed, to the maximum extent practicable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
 
 (14) In the implementation of this subsection and other health-related authorities of this chapter, the Administrator of ATSDR shall assemble, develop as necessary, and distribute to the States, and upon request to medical colleges, physicians, and other health professionals, appropriate educational materials (including short courses) on the medical surveillance, screening, and methods of diagnosis and treatment of injury or disease related to exposure to hazardous substances (giving priority to those listed in paragraph (2)), through such means as the Administrator of ATSDR deems appropriate.
 
@@ -400,7 +400,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On approval of an application made by an eligible entity, the Administrator may make a grant to the eligible entity to be used for programs to inventory, characterize, assess, and conduct planning related to one or more brownfield sites.
+&emsp;&emsp;&emsp;On approval of an application made by an eligible entity, the Administrator maymake a grant to the eligible entity to be used for programs to inventory, characterize, assess, and conduct planning related to one or more brownfield sites.
 
 #### (ii) Site characterization and assessment
 
@@ -654,7 +654,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -700,7 +700,7 @@ Subsec. (c)(1)(C). Pub. L. 99–499, §104(e)(2), added cl. (C).
 
 Subsec. (c)(3). Pub. L. 99–499, §§104(f), 207(b), substituted text of cl. (C)(ii) and sentence providing that "facility" does not include navigable waters or beds underlying those waters for "(ii) at least 50 per centum or such greater amount as the President may determine appropriate, taking into account the degree of responsibility of the State or political subdivision, of any sums expended in response to a release at a facility that was owned at the time of any disposal of hazardous substances therein by the State or a political subdivision thereof. The President shall grant the State a credit against the share of the costs for which it is responsible under this paragraph for any documented direct out-of-pocket non-Federal funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under section 9611 of this title relating to the specific release in question: <i>Provided, however</i>, That in no event shall the amount of the credit granted exceed the total response costs relating to the release." and inserted provisions relating to remedial action to be taken on land or water held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian Tribe (if such land or water is subject to a trust restriction on alienation), or otherwise within the borders of an Indian reservation.
 
-Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action."
+Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action."
 
 Subsec. (c)(5). Pub. L. 99–499, §104(h), added par. (5).
 

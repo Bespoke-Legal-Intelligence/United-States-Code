@@ -42,7 +42,7 @@ Pub. L. 107–228, div. A, title VI, §699, Sept. 30, 2002, 116 Stat. 1418, prov
 
 "(a)
 
-Determination Regarding Transfers.—If the President determines, based on a preponderance of the evidence, that a foreign person or entity has knowingly transferred proscribed weapons to Palestinian entities in the West Bank or Gaza, then, for the period specified in subsection (b), no assistance may be provided to the person or entity under part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2301 et seq.\] and no sales of defense articles or defense services may be made to the person or entity under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\].
+Determination Regarding Transfers.—If the President determines, based on a preponderance of the evidence, that a foreign person or entity has knowingly transferred proscribed weapons to Palestinian entities in the West Bank or Gaza, then, for the period specified in subsection (b), no assistance may be provided to theperson or entity under part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2301 et seq.\] and no sales of defense articles or defense services may be made to the person or entity under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\].
 
 "(b)
 

@@ -1,0 +1,6 @@
+### §14119. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–322, title XX, §200210, Sept. 13, 1994, 108 Stat. 2061, which authorized appropriations for fiscal years 1996 to 2000, was omitted as obsolete.
+

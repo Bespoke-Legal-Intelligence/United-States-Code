@@ -28,7 +28,7 @@
 
 #### (3) Reasonable in amount defined
 
-&emsp;For purposes of paragraph (2), the term "reasonable in amount" shall have the meaninggiven such term by the Secretary by regulation.
+&emsp;For purposes of paragraph (2), the term "reasonable in amount" shall have the meaning given such term by the Secretary by regulation.
 
 #### (4) Direct or indirect payment
 
@@ -47,6 +47,10 @@ This section shall apply to written communications occurring on or after the eff
 #### References in Text
 
 Section 13423, referred to in subsec. (c), means section 13423 of div. A of Pub. L. 111–5, which is set out as an Effective Date note under section 17931 of this title.
+
+#### Effective Date
+
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under section 17931 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

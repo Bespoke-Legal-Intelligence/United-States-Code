@@ -42,3 +42,7 @@ Section 3307 requires each vessel subject to inspection to undergo an initial in
 
 Pars. (2), (3). Pub. L. 104–324, §605(a)(2), (3), redesignated par. (3) as (2), substituted "5 years" for "2 years", and struck out former par. (2) which read as follows: "each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and".
 
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+

@@ -2,11 +2,15 @@
 
 (a)
 
-Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defense shall include with the defense budget materials for a fiscal year—
+Annual Naval Vessel Construction Plan and Certification.—The Secretary of Defense shall include with the defense budget materials for a fiscal year each of the following:
 
-&emsp;(1) a plan for the construction of combatant and support vessels for the Navy developed in accordance with this section; and
+&emsp;(1) A plan for the construction of naval vessels developed in accordance with this section for each of the following classes of ships: and <sup>1</sup>
 
-&emsp;(2) a certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
+&emsp;&emsp;(A) Combatant and support vessels.
+
+&emsp;&emsp;(B) Auxiliary vessels.
+
+&emsp;(2) A certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
 
 (b)
 
@@ -16,15 +20,17 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 
 &emsp;(A) A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
 
-&emsp;(B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+&emsp;(B) A detailed program for the construction of auxiliary vessels for the Navy over the next 30 fiscal years.
 
-&emsp;(C) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+&emsp;(C) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
-&emsp;(D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
+&emsp;(D) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+
+&emsp;(E) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (D).
 
 (c)
 
-Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title.
+Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include ananalysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title.
 
 (d)
 
@@ -48,13 +54,29 @@ Definitions.—In this section:
 
 &emsp;(4) The term "combatant and support vessel" means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965.)
+&emsp;(5) The term "auxiliary vessel" means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
+
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547.)
 
 #### References in Text
 
 Section 118 of this title, referred to in subsec. (f)(3), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118, see section 113(g) of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91, §1021(d)(1)(A), substituted "year each of the following:" for "year—" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–91, §1021(d)(1)(B), substituted "A plan for the construction of naval vessels developed in accordance with this section for each of the following classes of ships:" for "a plan for the construction of combatant and support vessels for the Navy developed in accordance with this section;" and added subpars. (A) and (B).
+
+Subsec. (a)(2). Pub. L. 115–91, §1021(d)(1)(C), substituted "A certification" for "a certification".
+
+Subsec. (b)(2)(B) to (D). Pub. L. 115–91, §1021(d)(2)(A), (B), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+
+Subsec. (b)(2)(E). Pub. L. 115–91, §1021(d)(2)(C), substituted "subparagraph (D)" for "subparagraph (C)".
+
+Pub. L. 115–91, §1021(d)(2)(A), redesignated subpar. (D) as (E).
+
+Subsec. (f)(5). Pub. L. 115–91, §1021(d)(3), added par. (5).
 
 <b>2015</b>—Subsec. (b)(2)(C). Pub. L. 114–92 inserted "by ship class in both graphical and tabular form" after "The estimated levels of annual funding".
 
@@ -79,6 +101,8 @@ Pub. L. 111–383 amended section generally. Prior to amendment, section related
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

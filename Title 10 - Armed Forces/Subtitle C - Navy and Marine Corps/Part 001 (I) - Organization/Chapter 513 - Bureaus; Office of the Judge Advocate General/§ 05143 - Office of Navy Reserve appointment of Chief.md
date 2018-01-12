@@ -10,7 +10,7 @@ Establishment of Office: Chief of Navy Reserve.—There is in the executive part
 
 (b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Navy Reserve from flag officers of the Navy (as defined in section 5001(1)) who have had at least 10 years of commissioned service.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Navy Reserve from flag officers of the Navy (as defined in section 5001(1))who have had at least 10 years of commissioned service.
 
 (2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Navy Reserve unless the officer—
 

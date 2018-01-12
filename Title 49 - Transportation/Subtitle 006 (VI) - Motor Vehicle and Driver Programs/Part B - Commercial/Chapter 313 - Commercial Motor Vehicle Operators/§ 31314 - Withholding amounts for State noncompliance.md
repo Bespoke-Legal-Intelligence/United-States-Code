@@ -22,7 +22,7 @@ and Thereafter.—Effective beginning on October 1, 2011—
 
 Availability for Apportionment.—Amounts withheld under this section from apportionment to a State after September 30, 1995, are not available for apportionment to the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title IV, §4124(c), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 112–141, div. A, title I, §1404(j), July 6, 2012, 126 Stat. 559.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863; Pub. L. 109–59, titleIV, §4124(c), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 112–141, div. A, title I, §1404(j), July 6, 2012, 126 Stat. 559.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,7 @@ In subsection (e), the words "by the Secretary" are omitted as surplus.
 
 #### References in Text
 
-Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1),\(3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1), (3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Amendments
 

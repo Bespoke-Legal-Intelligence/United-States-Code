@@ -144,7 +144,7 @@ Authorization of Appropriations.—There are authorized to be appropriated (and 
 
 "(f)
 
-Transmission of Department Budget Requests.—The Secretary of Energy shall prepare and submit in the Department's annual budget request to Congress—
+Transmission of Department Budget Requests.—The Secretary of Energy shall prepare andsubmit in the Department's annual budget request to Congress—
 
 &emsp;"(1) an itemization of the amounts of funds necessary to carry out subsection (d); and
 

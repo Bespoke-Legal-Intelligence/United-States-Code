@@ -12,3 +12,7 @@ In any case in which a grant (including a supplementary grant described in secti
 
 For the effective date of the Economic Development Administration Reform Act of 1998, referred to in text, see section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title.
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

@@ -146,7 +146,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -710,7 +710,7 @@ Data availability.—The Secretary shall enter into memoranda of understanding w
 
 &emsp;"(3)
 
-Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
 
 #### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
 
@@ -770,11 +770,11 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (a) Follow government-wide criteria and government-wide minimum due process procedures when they act to debar or suspend participants in affected programs.
 
-(b) Send to the agency designated pursuant to Section 5 identifying information concerning debarred and suspended participants in affected programs, participants who have agreed to exclusion from participation, and participants declared ineligible under applicable law, including Executive Orders. This information shall be included in the list to be maintained pursuant to Section 5.
+(b) Send to the agency designated pursuant to Section 5 identifying information concerning debarred andsuspended participants in affected programs, participants who have agreed to exclusion from participation, and participants declared ineligible under applicable law, including Executive Orders. This information shall be included in the list to be maintained pursuant to Section 5.
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

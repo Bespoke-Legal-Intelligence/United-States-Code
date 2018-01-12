@@ -14,7 +14,7 @@ Core capacity improvement project.—The term "core capacity improvement project
 
 &emsp;(3)
 
-Corridor-based bus rapid transit project.—The term "corridor-based bus rapid transit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+Corridor-based bus rapid transit project.—The term "corridor-based bus rapid transit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part ofweekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
 
 &emsp;(4)
 
@@ -52,7 +52,7 @@ Program of interrelated projects.—The term "program of interrelated projects" 
 
 &emsp;(7)
 
-Small start project.—The term "small start project" means a new fixed guidewaycapital project or corridor-based bus rapid transit project for which—
+Small start project.—The term "small start project" means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
 
 &emsp;&emsp;(A) the Federal assistance provided or to be provided under this section is less than $100,000,000; and
 
@@ -294,7 +294,7 @@ Ratings.—
 
 &emsp;&emsp;(A)
 
-Overall rating.—In making a determination under paragraph (1), the Secretary shall evaluate and rate a project as a whole on a 5-point scale (high, medium-high, medium, medium-low, or low) based on—
+Overall rating.—In making a determination under paragraph (1), the Secretary shall evaluate and rate a project as a wholeon a 5-point scale (high, medium-high, medium, medium-low, or low) based on—
 
 &emsp;&emsp;&emsp;(i) in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), and the degree of local financial commitment; and
 
@@ -330,7 +330,7 @@ Warrants.—The Secretary shall, to the maximum extent practicable, develop and 
 
 &emsp;(4)
 
-Letters of intent and early systems work agreements.—In order to expedite aproject under this subsection, the Secretary shall, to the maximum extent practicable, issue letters of intent and enter into early systems work agreements upon issuance of a record of decision for projects that receive an overall project rating of medium or better.
+Letters of intent and early systems work agreements.—In order to expedite a project under this subsection, the Secretary shall, to the maximum extent practicable, issue letters of intent and enter into early systems work agreements upon issuance of a record of decision for projects that receive an overall project rating of medium or better.
 
 &emsp;(5)
 
@@ -470,7 +470,7 @@ Project advancement and ratings.—
 
 &emsp;&emsp;(A)
 
-Project advancement.—A project receiving a grant under this section that is part of a program of interrelated projects may not advance—
+Project advancement.—A project receiving a grant under this section that ispart of a program of interrelated projects may not advance—
 
 &emsp;&emsp;&emsp;(i) in the case of a small start project, from the project development phase to the construction phase unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements; or
 
@@ -502,7 +502,7 @@ Review required.—The Secretary shall annually review the program implementatio
 
 &emsp;&emsp;(B)
 
-Extension of time.—If a program of interrelated projects is not adhering to itsschedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
+Extension of time.—If a program of interrelated projects is not adhering to its schedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
 
 &emsp;&emsp;&emsp;(i) evidence of continued adequate funding; and
 
@@ -656,7 +656,7 @@ Contents.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—An early systems work agreement under this paragraph obligates budget authority available under this chapter and title 23 and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
+In general.—An early systems work agreement under this paragraph obligatesbudget authority available under this chapter and title 23 and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -780,7 +780,7 @@ In general.—The Secretary may pay the Government share of the net capital proj
 
 &emsp;&emsp;(B) the Secretary approves the payment; and
 
-&emsp;&emsp;(C) before the State or local governmental authority carries out the part of the project,the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
+&emsp;&emsp;(C) before the State or local governmental authority carries out the part of the project, the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
 
 &emsp;(2)
 
@@ -850,7 +850,7 @@ Joint Public Transportation and Intercity Passenger Rail Projects.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants for new fixed guideway capital projects and core capacity improvement projects that provide both public transportation and intercity passenger rail service.
+In general.—The Secretary may make grants for new fixed guideway capital projects and core capacity improvement projects thatprovide both public transportation and intercity passenger rail service.
 
 &emsp;(2)
 
@@ -1146,7 +1146,7 @@ Subsec. (i)(2)(D). Pub. L. 114–94, §3005(a)(5)(B)(ii), added subpar. (D) and 
 
 Subsec. (i)(2)(F). Pub. L. 114–94, §3005(a)(5)(B)(iii), inserted "or subsection (h)(5), as applicable" after "subsection (f)".
 
-Subsec. (i)(3)(A). Pub. L. 114–94, §3005(a)(5)(C), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements."
+Subsec. (i)(3)(A). Pub. L. 114–94, §3005(a)(5)(C), added subpar. (A) and struck out former subpar. (A). Prior toamendment, text read as follows: "A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements."
 
 Subsec. (l)(1). Pub. L. 114–94, §3005(a)(6)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost. A grant for a fixed guideway project or small start project shall not exceed 80 percent of the net capital project cost. A grant for a core capacity project shall not exceed 80 percent of the net capital project cost of the incremental cost of increasing the capacity in the corridor."
 
@@ -1214,7 +1214,7 @@ Pub. L. 112–102, §303(3)(A)(iv)–(vii), substituted "for each fiscal year an
 
 Subsec. (m)(7)(A)(vii). Pub. L. 112–141, §113003(3)(A)(viii), struck out "for each fiscal year and $487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012," after "$650,000".
 
-Pub. L. 112–140, §§1(c), 303(3)(A)(viii), temporarily substituted "$494,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 303(3)(A)(viii), temporarily substituted "$494,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$487,500 for theperiod beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §303(3)(A)(viii), substituted "for each fiscal year and $487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
@@ -1750,7 +1750,7 @@ Financial commitment.—
 
 &emsp;&emsp;"(i)
 
-Requirements.—In determining whether an eligible project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sourcesfor purposes of subparagraph (A)(v), the Secretary shall require that—
+Requirements.—In determining whether an eligible project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sources for purposes of subparagraph (A)(v), the Secretary shall require that—
 
 &emsp;&emsp;&emsp;"(I) each proposed source of capital and operating financing is stable, reliable, and available within the proposed eligible project timetable; and
 

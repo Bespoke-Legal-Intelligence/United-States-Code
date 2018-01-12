@@ -39,7 +39,7 @@
 
 (7) For the purpose of this section, the term "nonforfeitable account balance" has the same meaning as under section 8401(32).
 
-(8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a positionsubject to this subchapter, pursuant to chapter 43 of title 38—
+(8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a position subject to this subchapter, pursuant to chapter 43 of title 38—
 
 &emsp;(A) any reference in such section to contributions under section 8432(a) shall be considered a reference to employee contributions under this section, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;
 
@@ -93,7 +93,7 @@ Subsec. (b)(5)(D). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §2
 
 Subsec. (b)(6). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(2)\]\], substituted "less than an amount that the Executive Director prescribes by regulation" for "$3,500 or less" and struck out "unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)" before period at end.
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title."
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: "Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title."
 
 Subsec. (b)(5). Pub. L. 103–226, §9(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: "Section 8433(c) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates entitled to a deferred annuity under this subchapter."
 

@@ -50,7 +50,7 @@ It shall be unlawful for any person to—
 
 Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any person (1) who holds a certificate issued in accordance with section 2063(a) of this title to the effect that such consumer product conforms to all applicable consumer product safety rules, unless such person knows that such consumer product does not conform, or (2) who relies in good faith on the representation of the manufacturer or a distributor of such product that the product is not subject to an applicable product safety rule.
 
-(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, §216(a), Aug. 14, 2008, 122 Stat. 3056; Pub. L. 112–28, §2(b), Aug. 12, 2011, 125 Stat. 279.)
+(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, §216(a), Aug. 14, 2008, 122 Stat. 3056; Pub. L. 112–28, §2(b), Aug. 12, 2011, 125 Stat. 279.)
 
 #### Amendments
 

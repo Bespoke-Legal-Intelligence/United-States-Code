@@ -6,7 +6,7 @@ Congress makes the following declarations:
 
 &emsp;(2) The United States, in particular, should provide its expertise to meet immediate humanitarian and refugee needs, fight the production and flow of illicit narcotics, and aid in the reconstruction of Afghanistan.
 
-&emsp;(3) By promoting peace and security in Afghanistan and preventing a return to conflict,the United States and the international community can help ensure that Afghanistan does not again become a source for international terrorism.
+&emsp;(3) By promoting peace and security in Afghanistan and preventing a return to conflict, the United States and the international community can help ensure that Afghanistan does not again become a source for international terrorism.
 
 &emsp;(4) The United States should support the objectives agreed to on December 5, 2001, in Bonn, Germany, regarding the provisional arrangement for Afghanistan as it moves toward the establishment of permanent institutions and, in particular, should work intensively toward ensuring the future neutrality of Afghanistan, establishing the principle that neighboring countries and other countries in the region do not threaten or interfere in one another's sovereignty, territorial integrity, or political independence, including supporting diplomatic initiatives to support this goal.
 

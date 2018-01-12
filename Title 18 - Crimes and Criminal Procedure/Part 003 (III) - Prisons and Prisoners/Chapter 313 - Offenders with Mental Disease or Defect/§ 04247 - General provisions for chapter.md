@@ -64,7 +64,7 @@ Periodic Report and Information Requirements.—(1) The director of the facility
 
 &emsp;(B) section 4243, 4244, 4245, 4246, or 4248 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued commitment. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person committed after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
 
-(2) The director of the facility in which a person is committed pursuant to section 4241, 4243, 4244, 4245, 4246, or 4248 shall inform such person of any rehabilitation programs that are available for persons committed in that facility.
+(2) The director of the facility in which a person is committed pursuant to section 4241, 4243,4244, 4245, 4246, or 4248 shall inform such person of any rehabilitation programs that are available for persons committed in that facility.
 
 (f)
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 

@@ -58,9 +58,11 @@ The Commissioner shall—
 
 &emsp;(16) establish the standard operating procedures described in subsection (k);
 
-&emsp;(17) carry out the training required under subsection (l); and
+&emsp;(17) carry out the training required under subsection (l);
 
-&emsp;(18) carry out other duties and powers prescribed by law or delegated by the Secretary.
+&emsp;(18) carry out section 218 of this title, relating to the issuance of Asia-Pacific Economic Cooperation Business Travel Cards; and
+
+&emsp;(19) carry out other duties and powers prescribed by law or delegated by the Secretary.
 
 #### (d) Deputy Commissioner
 
@@ -382,7 +384,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (3) Short-term detention defined
 
-&emsp;In this subsection, the term "short-term detention" means detention in a U.S. Customsand Border Protection processing center for 72 hours or less, before repatriation to a country of nationality or last habitual residence.
+&emsp;In this subsection, the term "short-term detention" means detention in a U.S. Customs and Border Protection processing center for 72 hours or less, before repatriation to a country of nationality or last habitual residence.
 
 #### (4) Daytime repatriation
 
@@ -440,7 +442,7 @@ Nothing in this section may be construed as affecting in any manner the authorit
 
 In this section, the terms "commercial operations", "customs and trade laws of the United States", "trade enforcement", and "trade facilitation" have the meanings given such terms in section 4301 of title 19.
 
-(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199.)
+(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199; Pub. L. 115–79, §4(a), Nov. 2, 2017, 131 Stat. 1260.)
 
 #### References in Text
 
@@ -452,7 +454,9 @@ Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) 
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–125 amended section generally. Prior to amendment, section established the United StatesCustoms Service headed by a Commissioner of Customs.
+<b>2017</b>—Subsec. (c)(18), (19). Pub. L. 115–79 added par. (18) and redesignated former par. (18) as (19).
+
+<b>2016</b>—Pub. L. 114–125 amended section generally. Prior to amendment, section established the United States Customs Service headed by a Commissioner of Customs.
 
 #### Change of Name
 
@@ -477,6 +481,48 @@ Rules and regulations.—Notwithstanding paragraph (1), nothing in this title \[
 &emsp;"(B)
 
 Other actions.—Notwithstanding paragraph (1), nothing in this Act \[see Tables for classification\] may be construed as affecting in any manner any action, determination, policy, or decision pursuant to section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act, and any such action, determination, policy, or decision shall continue to have full force and effect on and after such date."
+
+#### Detecting Incoming Contraband with Technology
+
+Pub. L. 115–112, Jan. 10, 2018, 131 Stat. 2274, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act' or the 'INTERDICT Act'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Chemical screening device.—The term 'chemical screening device' means an immunoassay, narcotics field test kit, infrared spectrophotometer, mass spectrometer, nuclear magnetic resonance spectrometer, Raman spectrophotometer, or other scientific instrumentation able to collect data that can be interpreted to determine the presence of fentanyl, other synthetic opioids, and other narcotics and psychoactive substances.
+
+&emsp;"(2)
+
+Commissioner.—The term 'Commissioner' means the Commissioner of U.S. Customs and Border Protection.
+
+&emsp;"(3)
+
+Express consignment operator or carrier.—The term 'express consignment operator or carrier' has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation).
+
+#### "SEC. 3. INTERDICTION OF FENTANYL, OTHER SYNTHETIC OPIOIDS, AND OTHER NARCOTICS AND PSYCHOACTIVE SUBSTANCES.
+
+"(a)
+
+Chemical Screening Devices.—The Commissioner shall—
+
+&emsp;"(1) increase the number of chemical screening devices available to U.S. Customs and Border Protection officers over the number of such devices that are available on the date of the enactment of this Act \[Jan. 10, 2018\]; and
+
+&emsp;"(2) make such additional chemical screening devices available to U.S. Customs and Border Protection officers as the Commissioner determines are necessary to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, including such substances that are imported through the mail or by an express consignment operator or carrier.
+
+"(b)
+
+Personnel to Interpret Data.—The Commissioner shall dedicate the appropriate number of U.S. Customs and Border Protection personnel, including scientists, so that such personnel are available during all operational hours to interpret data collected by chemical screening devices.
+
+#### "SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+"There is authorized to be appropriated to the Commissioner $9,000,000 to ensure that U.S. Customs and Border Protection has resources, including chemical screening devices, personnel, and scientists, available during all operational hours to prevent, detect, and interdict the unlawful importation of fentanyl, other synthetic opioids, and other narcotics and psychoactive substances."
 
 #### Continuation in Office
 
@@ -542,7 +588,7 @@ Elements.—The enhanced recruiting efforts under subsection (a) shall—
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2015\], and byDecember 31 of each of the next 3 years thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on Homeland Security and the Committee on Armed Services of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate that includes a description and assessment of the efforts of the Department of Homeland Security to hire members of the Armed Forces who are separating from military service as Customs and Border Protection officers under section 4.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2015\], and by December 31 of each of the next 3 years thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on Homeland Security and the Committee on Armed Services of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate that includes a description and assessment of the efforts of the Department of Homeland Security to hire members of the Armed Forces who are separating from military service as Customs and Border Protection officers under section 4.
 
 "(b)
 

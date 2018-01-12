@@ -1,0 +1,6 @@
+### §14223. Transferred
+
+#### Codification
+
+Section 14223 was editorially reclassified as section 12643 of Title 34, Crime Control and Law Enforcement.
+

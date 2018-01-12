@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) "Person" means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 
-(b) "Commerce" means trade, commerce, transportation, transmission, or communicationamong the several States or between any State and any place outside thereof.
+(b) "Commerce" means trade, commerce, transportation, transmission, or communication among the several States or between any State and any place outside thereof.
 
 (c) "State" means any State of the United States or the District of Columbia or any Territory or possession of the United States.
 
@@ -50,7 +50,7 @@ As used in this chapter—
 
 (4)(A) The term "employee" does not include any individual who volunteers to perform services for a public agency which is a State, a political subdivision of a State, or an interstate governmental agency, if—
 
-&emsp;(i) the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered; and
+&emsp;(i) the individual receives no compensation or is paid expenses, reasonable benefits, or anominal fee to perform the services for which the individual volunteered; and
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
@@ -70,7 +70,7 @@ As used in this chapter—
 
 (k) "Sale" or "sell" includes any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.
 
-(l) "Oppressive child labor" means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteenyears in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
+(l) "Oppressive child labor" means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
 
 (m) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: <i>Provided</i>, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: <i>Provided further</i>, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee. In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
@@ -78,7 +78,7 @@ As used in this chapter—
 
 &emsp;(2) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
 
-> The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
+> The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of thissubsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
 
 (n) "Resale" shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: <i>Provided</i>, That the sale is recognized as a bona fide retail sale in the industry.
 
@@ -94,7 +94,7 @@ As used in this chapter—
 
 &emsp;(A) in connection with the operation of a hospital, an institution primarily engaged in the care of the sick, the aged, the mentally ill or defective who reside on the premises of such institution, a school for mentally or physically handicapped or gifted children, a preschool, elementary or secondary school, or an institution of higher education (regardless of whether or not such hospital, institution, or school is operated for profit or not for profit), or
 
-&emsp;(B) in connection with the operation of a street, suburban or interurban electric railway, or local trolley or motorbus carrier, if the rates and services of such railway or carrier are subject to regulation by a State orlocal agency (regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), or
+&emsp;(B) in connection with the operation of a street, suburban or interurban electric railway, or local trolley or motorbus carrier, if the rates and services of such railway or carrier are subject to regulation by a State or local agency (regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), or
 
 &emsp;(C) in connection with the activities of a public agency,
 
@@ -124,7 +124,7 @@ As used in this chapter—
 
 (y) "Employee in fire protection activities" means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
 
-&emsp;(1) is trained in fire suppression, has the legal authority and responsibility to engage in fire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
+&emsp;(1) is trained in fire suppression, has the legal authority and responsibility to engage infire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
@@ -154,7 +154,7 @@ Pub. L. 104–188 in last sentence substituted "preceding 2 sentences" for "prev
 
 <b>1995</b>—Subsec. (e)(2)(A). Pub. L. 104–1 struck out "legislative or" before "judicial branch" in cl. (iii) and added cl. (vi).
 
-<b>1989</b>—Subsec. (m). Pub. L. 101–157, §5, substituted "in excess of (1) 45 percent of the applicable minimum wagerate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991," for "in excess of 40 per centum of the applicable minimum wage rate,".
+<b>1989</b>—Subsec. (m). Pub. L. 101–157, §5, substituted "in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991," for "in excess of 40 per centum of the applicable minimum wage rate,".
 
 Subsec. (r). Pub. L. 101–157, §3(d), designated first sentence as par. (1), made a separate sentence out of the existing proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted "school is operated" for "school is public or private or operated".
 
@@ -178,7 +178,7 @@ Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of "employee", 
 
 Subsec. (h). Pub. L. 93–259, §6(a)(3), substituted "other activity, or branch or group thereof" for "branch thereof, or group of industries".
 
-Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
+Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid suchemployee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 

@@ -6,7 +6,7 @@ Submission of Applications.—If a sponsor intends to sell or lease a general av
 
 (b)
 
-Approval of Applications.—The Secretary may approve, with respect to not more than 10 airports, applications submitted under subsection (a) granting exemptions from the following provisions:
+Approval of Applications.—The Secretary may approve, with respect to not morethan 10 airports, applications submitted under subsection (a) granting exemptions from the following provisions:
 
 &emsp;(1)
 

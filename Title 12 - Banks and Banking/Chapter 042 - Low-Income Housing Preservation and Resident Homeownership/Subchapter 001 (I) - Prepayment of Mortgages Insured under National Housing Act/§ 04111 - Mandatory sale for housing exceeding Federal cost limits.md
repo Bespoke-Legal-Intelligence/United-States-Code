@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to any eligible low-income housing for which the aggregate preservation rentsdetermined under section 4104(b) of this title exceed the Federal cost limit, the owner shall offer the housing for sale to qualified purchasers as provided in this section.
+With respect to any eligible low-income housing for which the aggregate preservation rents determined under section 4104(b) of this title exceed the Federal cost limit, the owner shall offer the housing for sale to qualified purchasers as provided in this section.
 
 #### (b) Right of first refusal to priority purchasers
 
@@ -26,7 +26,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (1) Federal cost limit
 
-&emsp;Subject to the availability of amounts approved in appropriations Acts, the Secretary shall, for approvable plans of action, provide to qualified purchasers assistance under section 1437f of title 42 sufficient to produce a gross income potential equal to the amount determined by multiplying 120 percent of the prevailing rents in the relevant local market area in which the housing is located by the number of units in the project (according to appropriate unit sizes), and any other incentives authorized under section 4109(b) of this title that would have been provided to a qualified purchaser under section 4110 of this title.
+&emsp;Subject to the availability of amounts approved in appropriations Acts, the Secretary shall, for approvable plans of action, provide to qualified purchasers assistance under section 1437f of title 42 sufficient to produce a gross income potential equal to the amount determined by multiplying 120 percent of the prevailing rents in the relevant local market area in which the housing is located by the number of units in the project (according to appropriate unit sizes), and any other incentives authorized under section 4109(b) of thistitle that would have been provided to a qualified purchaser under section 4110 of this title.
 
 #### (2) Additional assistance
 

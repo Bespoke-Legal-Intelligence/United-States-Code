@@ -14,7 +14,7 @@ The Director of the Government Publishing Office shall deposit moneys accruing u
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §162 (Jan. 12, 1895, ch. 23, §37, 28 Stat. 606; Mar. 2, 1895, ch. 189, §1, 28 Stat. 961;Jan. 30, 1904, ch. 39, 33 Stat. 9; Mar. 4, 1925, ch. 549, §1, 43 Stat. 1300).
+Based on 44 U.S. Code, 1964 ed., §162 (Jan. 12, 1895, ch. 23, §37, 28 Stat. 606; Mar. 2, 1895, ch. 189, §1, 28 Stat. 961; Jan. 30, 1904, ch. 39, 33 Stat. 9; Mar. 4, 1925, ch. 549, §1, 43 Stat. 1300).
 
 Section 893 of Title 48, U.S. Code, provides that: "The Resident Commissioner of Puerto Rico shall . . . be allowed the franking privilege granted Members of Congress."
 

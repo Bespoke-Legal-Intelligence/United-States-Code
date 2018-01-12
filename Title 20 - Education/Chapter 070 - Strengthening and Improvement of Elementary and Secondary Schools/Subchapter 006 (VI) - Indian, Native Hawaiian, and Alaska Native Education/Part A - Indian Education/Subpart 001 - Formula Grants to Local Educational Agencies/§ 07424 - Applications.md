@@ -60,7 +60,7 @@ Each application submitted under subsection (a) shall include assurances that—
 
 &emsp;&emsp;(B) will use the best available talents and resources, including individuals from the Indian community; and
 
-&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian childrenand teachers, representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations, and, if appropriate, Indian students from secondary schools, including through public hearings held by such agency to provide to the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program;
+&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian children and teachers, representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations, and, if appropriate, Indian students from secondary schools, including through public hearings held by such agency to provide to the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program;
 
 &emsp;(4) the local educational agency developed the program with the participation and written approval of a committee—
 
@@ -136,7 +136,7 @@ Subsec. (c)(2)(C). Pub. L. 114–95, §6002(f)(3)(B)(i), (iii), added subpar. (C
 
 Subsec. (c)(3)(A). Pub. L. 114–95, §6002(f)(3)(C)(i), substituted "Indian" for "American Indian and Alaska Native".
 
-Subsec. (c)(3)(C). Pub. L. 114–95, §6002(f)(3)(C)(ii), inserted "representatives of Indian tribes on Indian lands located within 50 miles of any school that the agencywill serve if such tribes have any children in such school, Indian organizations," after "parents of Indian children and teachers," and struck out "and" after semicolon.
+Subsec. (c)(3)(C). Pub. L. 114–95, §6002(f)(3)(C)(ii), inserted "representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations," after "parents of Indian children and teachers," and struck out "and" after semicolon.
 
 Subsec. (c)(4)(A)(i). Pub. L. 114–95, §6002(f)(3)(D)(i)(I), inserted "and family members" after "parents".
 

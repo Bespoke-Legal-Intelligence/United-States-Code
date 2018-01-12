@@ -164,7 +164,7 @@ Cost of Living Adjustment.—Notwithstanding section 601(a)(2) of the Legislativ
 
 "(b)
 
-Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the applicationof such provision to other persons or circumstances, shall not be affected."
+Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected."
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 

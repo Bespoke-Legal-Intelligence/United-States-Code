@@ -4,7 +4,7 @@
 
 (2) Any judge of the Court of Federal Claims receiving an annuity under section 178(c) of this title (pertaining to disability) who, in the estimation of the chief judge, has recovered sufficiently to render judicial service, shall be known and designated as a senior judge and may perform duties as a judge when recalled under subsection (b) of this section.
 
-(b) The chief judge of the Court of Federal Claims may, whenever he deems it advisable, recall any senior judge, with such judge's consent, to perform such duties as a judge and for such period of time as the chief judge may specify.
+(b) The chief judge of the Court of Federal Claims may, whenever he deems it advisable, recall any senior judge, with such judge's consent,to perform such duties as a judge and for such period of time as the chief judge may specify.
 
 (c) Any senior judge performing duties pursuant to this section shall not be counted as a judge for purposes of the number of judgeships authorized by section 171 of this title.
 

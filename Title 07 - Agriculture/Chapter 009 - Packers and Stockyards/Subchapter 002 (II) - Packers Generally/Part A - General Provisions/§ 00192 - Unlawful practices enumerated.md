@@ -8,7 +8,7 @@ It shall be unlawful for any packer or swine contractor with respect to livestoc
 
 (c) Sell or otherwise transfer to or for any other packer, swine contractor, or any live poultry dealer, or buy or otherwise receive from or for any other packer, swine contractor, or any live poultry dealer, any article for the purpose or with the effect of apportioning the supply between any such persons, if such apportionment has the tendency or effect of restraining commerce or of creating a monopoly; or
 
-(d) Sell or otherwise transfer to or for any other person, or buy or otherwise receive from or for any other person, any article for the purpose or with the effect of manipulating or controlling prices, or of creating a monopoly in the acquisition of, buying, selling, or dealing in, any article, or of restraining commerce; or
+(d) Sell or otherwise transfer to or for any other person, or buy or otherwise receive fromor for any other person, any article for the purpose or with the effect of manipulating or controlling prices, or of creating a monopoly in the acquisition of, buying, selling, or dealing in, any article, or of restraining commerce; or
 
 (e) Engage in any course of business or do any act for the purpose or with the effect of manipulating or controlling prices, or of creating a monopoly in the acquisition of, buying, selling, or dealing in, any article, or of restraining commerce; or
 

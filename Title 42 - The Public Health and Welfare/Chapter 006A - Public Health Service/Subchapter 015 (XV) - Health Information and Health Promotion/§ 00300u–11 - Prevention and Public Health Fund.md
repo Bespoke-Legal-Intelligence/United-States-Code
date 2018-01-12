@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the "Fund"), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate ofgrowth in private and public sector health care costs.
+It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the "Fund"), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs.
 
 #### (b) Funding
 
@@ -12,17 +12,19 @@ There are hereby authorized to be appropriated, and appropriated, to the Fund, o
 
 &emsp;(2) for each of fiscal years 2012 through 2017, $1,000,000,000;
 
-&emsp;(3) for each of fiscal years 2018 and 2019, $900,000,000;
+&emsp;(3) for fiscal year 2018, $900,000,000;
 
-&emsp;(4) for each of fiscal years 2020 and 2021, $1,000,000,000; and <sup>1</sup>
+&emsp;(4) for fiscal year 2019, $800,000,000;
 
-&emsp;(5) for fiscal year 2022, $1,500,000,000;
+&emsp;(5) for each of fiscal years 2020 and 2021, $800,000,000; and <sup>1</sup>
 
-&emsp;(6) for fiscal year 2023, $1,000,000,000;
+&emsp;(6) for fiscal year 2022, $1,250,000,000;
 
-&emsp;(7) for fiscal year 2024, $1,700,000,000; and
+&emsp;(7) for fiscal year 2023, $1,000,000,000;
 
-&emsp;(8) for fiscal year 2025 and each fiscal year thereafter, $2,000,000,000.
+&emsp;(8) for fiscal year 2024, $1,700,000,000; and
+
+&emsp;(9) for fiscal year 2025 and each fiscal year thereafter, $2,000,000,000.
 
 #### (c) Use of Fund
 
@@ -32,7 +34,7 @@ The Secretary shall transfer amounts in the Fund to accounts within the Departme
 
 The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
-(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197.)
+(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–96, div. C, title I, §3103, Dec. 22, 2017, 131 Stat. 2049.)
 
 #### References in Text
 
@@ -43,6 +45,16 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(3). Pub. L. 115–96, §3103(1), substituted "fiscal year 2018" for "each of fiscal years 2018 and 2019".
+
+Subsec. (b)(4). Pub. L. 115–96, §3103(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 115–96, §3103(2), (4), redesignated par. (4) as (5) and substituted "$800,000,000" for "$1,000,000,000". Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 115–96, §3103(2), (5), redesignated par. (5) as (6) and substituted "$1,250,000,000" for "$1,500,000,000". Former par. (6) redesignated (7).
+
+Subsec. (b)(7) to (9). Pub. L. 115–96, §3103(2), redesignated pars. (6) to (8) as (7) to (9), respectively.
 
 <b>2016</b>—Subsec. (b)(3). Pub. L. 114–255, §5009(1), substituted "$900,000,000" for "$1,250,000,000".
 
@@ -56,7 +68,7 @@ Subsec. (b)(5) to (8). Pub. L. 114–255, §5009(3), added pars. (5) to (8) and 
 
 #### Website
 
-Pub. L. 114–113, div. H, title II, §220, Dec. 18, 2015, 129 Stat. 2622, provided that:
+Pub. L. 115–31, div. H, title II, §219, May 5, 2017, 131 Stat. 541, provided that:
 
 "(a) The Secretary shall establish a publicly accessible Web site to provide information regarding the uses of funds made available under section 4002 of the Patient Protection and Affordable Care Act of 2010 ('ACA') \[42 U.S.C. 300u–11\].
 
@@ -70,7 +82,7 @@ Pub. L. 114–113, div. H, title II, §220, Dec. 18, 2015, 129 Stat. 2622, provi
 
 &emsp;"(4) A report detailing the uses of all funds transferred under section 4002(c) during the fiscal year, to be posted not later than 90 days after the end of the fiscal year.
 
-"(c) With respect to awards made in fiscal years 2013 through 2016, the Secretary shall also include on the Web site established under subsection (a), semi-annual reports from each entity awarded a grant, cooperative agreement, or contract from such funds with a value of $25,000 or more, summarizing the activities undertaken and identifying any sub-grants or sub-contracts awarded (including the purpose of the award and the identity of the recipient), to be posted not later than 30 days after the end of each 6-month period.
+"(c) With respect to awards made in fiscal years 2013 through 2017, the Secretary shall also include on the Web site established under subsection (a), semi-annual reports from each entity awarded a grant, cooperative agreement, or contract from such funds with a value of $25,000 or more, summarizing the activities undertaken and identifying any sub-grants or sub-contracts awarded (including the purpose of the award and the identity of the recipient), to be posted not later than 30 days after the end of each 6-month period.
 
 "(d) In carrying out this section, the Secretary shall—
 
@@ -81,6 +93,8 @@ Pub. L. 114–113, div. H, title II, §220, Dec. 18, 2015, 129 Stat. 2622, provi
 &emsp;"(3) ensure that all information required in this section is able to be organized by program or State."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. H, title II, §220, Dec. 18, 2015, 129 Stat. 2622.
 
 Pub. L. 113–235, div. G, title II, §218, Dec. 16, 2014, 128 Stat. 2488.
 

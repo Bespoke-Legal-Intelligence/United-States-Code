@@ -1,6 +1,6 @@
 ### §5547. Limitation on premium pay
 
-(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent thatthe payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
 &emsp;(1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -14,7 +14,7 @@
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
-(3) Subject to regulations prescribed by the Office of Personnel Management, the head of an agency may determine that subsection (a) shall not apply to an employee who is paid premium pay to perform work that is critical to the mission of the agency. Such employees may be paid premium pay under the provisions of law cited in subsection (a) if, or to the extent that, the aggregate of the basic pay and premium pay under those provisions for such employee would not, in any calendar year, exceed the greater of—
+(3) Subject to regulations prescribed by the Office of Personnel Management, the head of anagency may determine that subsection (a) shall not apply to an employee who is paid premium pay to perform work that is critical to the mission of the agency. Such employees may be paid premium pay under the provisions of law cited in subsection (a) if, or to the extent that, the aggregate of the basic pay and premium pay under those provisions for such employee would not, in any calendar year, exceed the greater of—
 
 &emsp;(A) the maximum rate of basic pay payable for GS–15 in effect at the end of such calendar year (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -166,7 +166,7 @@ Technical and conforming amendment.—\[Amended section 1(a)(3) \[title I, §118
 
 "(c)
 
-Treatment of Additional Pay.—If subsection (b) results in the payment of additional premium payto a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—
+Treatment of Additional Pay.—If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—
 
 &emsp;"(1) be considered to be basic pay of the covered employee for any purpose; or
 
@@ -182,7 +182,7 @@ Effective Date.—This section and the amendments made by this section shall tak
 
 #### Premium Pay for Protective Services of United States Secret Service
 
-Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, §2(b)(2), Dec. 16, 2016, 130 Stat. 1531, provided that: "Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 \[Pub. L. 114–311, set out above\], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code. The term premium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year."
+Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, §2(b)(2), Dec. 16, 2016, 130 Stat. 1531, provided that: "Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 \[Pub. L. 114–311, set out above\], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code. The termpremium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year."
 
 Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29, 1999, 113 Stat. 441.
 

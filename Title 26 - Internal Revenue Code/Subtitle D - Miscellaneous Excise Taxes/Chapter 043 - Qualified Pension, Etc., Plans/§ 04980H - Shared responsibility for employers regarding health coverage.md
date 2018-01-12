@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "applicable large employer" means, with respect to a calendar year, an employer who employed an average of at least 50 full-time employees on business days during the preceding calendar year.
+&emsp;&emsp;The term "applicable large employer" means, with respect to a calendar year, anemployer who employed an average of at least 50 full-time employees on business days during the preceding calendar year.
 
 #### (B) Exemption for certain employers
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056of this title and former section 139D of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former section 139D of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
 #### Amendments
 

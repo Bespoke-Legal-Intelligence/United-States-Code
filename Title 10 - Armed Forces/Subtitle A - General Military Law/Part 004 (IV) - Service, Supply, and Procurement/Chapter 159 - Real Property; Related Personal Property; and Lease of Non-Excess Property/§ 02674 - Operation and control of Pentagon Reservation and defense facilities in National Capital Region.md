@@ -6,7 +6,7 @@ Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and 
 
 (b)
 
-Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the buildings, grounds, and property located in the National Capital Region that are occupied by, or under the jurisdiction, custody, or control of, the Department of Defense, and the persons on that property.
+Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the buildings, grounds, and property located in the National Capital Region that are occupied by, or under the jurisdiction, custody, or control of,the Department of Defense, and the persons on that property.
 
 (2) The Secretary may designate military or civilian personnel to perform law enforcement functions and military, civilian, or contract personnel to perform security functions for such buildings, grounds, property, and persons, including, with regard to civilian personnel designated under this section, duty in areas outside the property referred to in paragraph (1) to the extent necessary to protect that property and persons on that property. Subject to the authorization of the Secretary, any such military or civilian personnel so designated may exercise the authorities listed in paragraphs (1) through (5) of section 2672(c) of this title.
 
@@ -60,13 +60,13 @@ Definitions.— In this section:
 
 &emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia,containing the Pentagon Office Building and its supporting facilities.
+&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
 
-&emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
+&emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia,and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
 
 &emsp;(5) The term "Raven Rock Mountain Complex" means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, §1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
 
 #### Prior Provisions
 
@@ -80,6 +80,8 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(4), is t
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b)(1). Pub. L. 115–91, §1081(d)(16), repealed Pub. L. 114–328, §2829E(a)(3). See 2016 Amendment note below.
+
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §2829E(d)(1), inserted heading.
 
 Pub. L. 114–328, §2829E(c), struck out par. (1) designation after subsec. (a) designation and struck out pars. (2) and (3) which related to annual report on the state of the renovation of the Pentagon Reservation for specified congressional committees.
@@ -88,7 +90,7 @@ Pub. L. 114–328, §2829E(b), substituted "The Secretary of Defense has jurisdi
 
 Subsec. (b). Pub. L. 114–328, §2829E(d)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 114–328, §2829E(a)(3), which directed insertion of "for the Pentagon Reservation and" after "law enforcement and security functions", could not be executed because of intervening amendment by Pub. L. 114–328, §952(a)(2). See below.
+Subsec. (b)(1). Pub. L. 114–328, §2829E(a)(3), which directed insertion of "for the Pentagon Reservation and" after "law enforcement and security functions" and could not be executed, was repealed by Pub. L. 115–91, §1081(d)(16).
 
 Pub. L. 114–328, §952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows "The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
@@ -141,6 +143,10 @@ Subsec. (b). Pub. L. 104–201, §369(a), substituted "in the National Capital R
 <b>1991</b>—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property."
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted "misdemeanor" for "misdeameanor".
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(16) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Transfer of Functions
 

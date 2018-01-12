@@ -2,7 +2,7 @@
 
 #### (a) Establishment and availability
 
-The Administrator shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) of this section and shall be available, to the extent provided in appropriation Acts, for providing assistance under section 4104c of this title.
+The Administrator shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) and shall be available, to the extent provided in appropriation Acts, for providing assistance under section 4104c of this title.
 
 #### (b) Credits
 
@@ -22,7 +22,7 @@ The National Flood Mitigation Fund shall be credited with—
 
 #### (c) Administrative expenses
 
-The Administrator may use not more than 5 percent of amounts made available under subsection (b) of this section to cover salaries, expenses, and other administrative costs incurred by the Administrator to make grants and provide assistance under section 4104c of this title.
+The Administrator may use not more than 5 percent of amounts made available under subsection (b) to cover salaries, expenses, and other administrative costs incurred by the Administrator to make grants and provide assistance under section 4104c of this title.
 
 #### (d) Prohibition on offsetting collections
 
@@ -30,11 +30,11 @@ Notwithstanding any other provision of this chapter, amounts made available purs
 
 #### (e) Continued availability and reallocation
 
-Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsection (b)(1) that are not used in any fiscal year shall continue to be available for the purposes specified in the subparagraph of subsection (b)(1) pursuant to which such amounts were made available,unless the Administrator determines that reallocation of such unused amounts to meet demonstrated need for other mitigation activities under section 4104c of this title is in the best interest of the National Flood Insurance Fund.
+Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsection (b)(1) that are not used in any fiscal year shall continue to be available for the purposes specified in the subparagraph of subsection (b)(1) pursuant to which such amounts were made available, unless the Administrator determines that reallocation of such unused amounts to meet demonstrated need for other mitigation activities under section 4104c of this title is in the best interest of the National Flood Insurance Fund.
 
 #### (f) Investment
 
-If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a), the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 
 #### (g) Report
 

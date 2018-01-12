@@ -44,7 +44,7 @@ In this chapter:
 
 #### (5) Indian-owned business
 
-&emsp;The term "Indian-owned business" means an entity organized for the conduct of trade or commerce with respect to which at least 50 percent of the property interests of the entity are owned by Indians or Indian tribes (or a combination thereof).
+&emsp;The term "Indian-owned business" means an entity organized for the conduct of trade orcommerce with respect to which at least 50 percent of the property interests of the entity are owned by Indians or Indian tribes (or a combination thereof).
 
 #### (6) Indian tribe
 

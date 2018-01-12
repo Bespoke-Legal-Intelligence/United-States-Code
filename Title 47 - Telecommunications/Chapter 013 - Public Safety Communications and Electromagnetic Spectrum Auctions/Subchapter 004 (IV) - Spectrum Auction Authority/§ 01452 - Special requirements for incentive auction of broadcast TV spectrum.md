@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(A) prior to the end of fiscal year 2022, transfer such amounts to the Public Safety Trust Fund established by section 1457(a)(1) of this title; and
 
-&emsp;&emsp;(B) after the end of fiscal year 2022, transfer such amounts to the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+&emsp;&emsp;(B) after the end of fiscal year 2022, transfer such amounts to the general fund of theTreasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
 
 #### (e) Numerical limitation on auctions and reorganization
 

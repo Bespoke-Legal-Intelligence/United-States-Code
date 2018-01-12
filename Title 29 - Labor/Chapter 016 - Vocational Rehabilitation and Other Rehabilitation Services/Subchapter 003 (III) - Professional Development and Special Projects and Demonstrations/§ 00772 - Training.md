@@ -40,7 +40,7 @@
 
 #### (5) Joint funding
 
-&emsp;Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\].
+&emsp;Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of titleI of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\].
 
 #### (b) Grants and contracts for academic degrees and academic certificate granting training projects
 
@@ -138,7 +138,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofitagencies or organizations to pay part of the costs—
+&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofit agencies or organizations to pay part of the costs—
 
 &emsp;&emsp;&emsp;(i) for the establishment of interpreter training programs; or
 
@@ -176,7 +176,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (1) Technical assistance
 
-&emsp;The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.
+&emsp;The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focusedon the employment outcome of competitive integrated employment for individuals with disabilities.
 
 #### (2) Compensation
 
@@ -204,7 +204,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4) and 
 
 Provisions similar to this section were contained in section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 772, Pub. L. 93–112, title III, §303, formerly §302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, §105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, §105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, §132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §402, title X, §1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, §204(b), Nov. 7, 1988, 102Stat. 3308; Pub. L. 102–52, §4(b), June 6, 1991, 105 Stat. 261; renumbered §303 and amended Pub. L. 102–569, title I, §102(p)(16), title III, §§301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 772, Pub. L. 93–112, title III, §303, formerly §302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, §105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, §105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, §132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §402, title X, §1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, §204(b), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, §4(b), June 6, 1991, 105 Stat. 261; renumbered §303 and amended Pub. L. 102–569, title I, §102(p)(16), title III, §§301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 302 of Pub. L. 93–112 was classified to section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 

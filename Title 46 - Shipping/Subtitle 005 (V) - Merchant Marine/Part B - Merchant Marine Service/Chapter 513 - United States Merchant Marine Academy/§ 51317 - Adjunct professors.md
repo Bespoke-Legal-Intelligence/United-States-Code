@@ -8,25 +8,19 @@ In General.—The Maritime Administrator may establish a program for the purpose
 
 Contract Requirements.—Each contract under the program—
 
-&emsp;(1) must be approved by the Maritime Administrator; and <sup>1</sup>
+&emsp;(1) must be approved by the Maritime Administrator;
 
-&emsp;(2) shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year.<sup>2</sup>
+&emsp;(2) shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year; and
 
 &emsp;(3) shall be subject to the availability of appropriations.
 
-(c)
+(Added Pub. L. 111–84, div. C, title XXXV, §3503(a), Oct. 28, 2009, 123 Stat. 2719; amended Pub. L. 115–91, div. C, title XXXV, §3509, Dec. 12, 2017, 131 Stat. 1916.)
 
-Limitation on Number of Contractors.—In awarding contacts <sup>3</sup> under this section, the Maritime Administrator shall ensure that not more than 25 individuals actively provide services in any one academic trimester, or equivalent, as contractors under subsection (a).
+#### Amendments
 
-(d)
+<b>2017</b>—Subsec. (b)(1). Pub. L. 115–91, §3509(1)(A), struck out "and" at end.
 
-Reporting Requirements.—When the authority granted by subsection (a) is used to hire an adjunct professor at the Academy in fiscal year 2010 or fiscal year 2011, the Administrator shall notify the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate, including the need for and the term of employment for the adjunct professor.
+Subsec. (b)(2). Pub. L. 115–91, §3509(1)(B), substituted "; and" for period at end.
 
-(Added Pub. L. 111–84, div. C, title XXXV, §3503(a), Oct. 28, 2009, 123 Stat. 2719.)
-
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be "; and".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "contracts".</i>
+Subsecs. (c), (d). Pub. L. 115–91, §3509(2), struck out subsecs. (c) and (d) which related to limitation on number of contractors and reporting requirements, respectively.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is developed with timely and meaningful consultation with teachers, principals, other school leaders, paraprofessionals, specialized instructional support personnel, charter school leaders (in a local educational agency that has charter schools), administrators (including administrators of programs described in other parts of this subchapter), other appropriate school personnel, and with parents of children in schools served under this part; and
 
-&emsp;&emsp;(B) as appropriate, is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), the Adult Education and Family Literacy Act (29U.S.C. 3271 et seq.), and other Acts as appropriate.
+&emsp;&emsp;(B) as appropriate, is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), the Adult Education and Family Literacy Act (29 U.S.C. 3271 et seq.), and other Acts as appropriate.
 
 #### (2) Consolidated application
 
@@ -154,7 +154,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;(i) information on the level of achievement and academic growth of the student, if applicable and available, on each of the State academic assessments required under this part; and
 
-&emsp;&emsp;&emsp;(ii) timely notice that the student has been assigned, or has been taught for 4 or more consecutive weeks by, a teacher who does not meet applicable State certification or licensure requirements at the grade level and subject area in which the teacher has been assigned.
+&emsp;&emsp;&emsp;(ii) timely notice that the student has been assigned, or has been taught for 4 or more consecutive weeks by, a teacher whodoes not meet applicable State certification or licensure requirements at the grade level and subject area in which the teacher has been assigned.
 
 #### (2) Testing transparency
 

@@ -58,7 +58,7 @@ Pub. L. 114–223, div. A, title II, §258, Sept. 29, 2016, 130 Stat. 895, provi
 
 #### Notice to Congressional Veterans Committees of Certain Transfers of Funds
 
-Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
+Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to anyother account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
 
 #### National Center on War-Related Illnesses and Post-Deployment Health Issues
 

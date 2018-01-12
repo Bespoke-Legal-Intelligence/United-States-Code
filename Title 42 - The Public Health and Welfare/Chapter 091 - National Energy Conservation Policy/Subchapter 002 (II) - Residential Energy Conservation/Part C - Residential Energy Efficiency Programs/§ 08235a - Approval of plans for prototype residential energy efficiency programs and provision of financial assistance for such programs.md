@@ -4,7 +4,7 @@
 
 The Secretary may approve any plan developed by a State or local government, for the establishment of a prototype residential energy efficiency program, which is designed to demonstrate the feasibility, economics, and energy conserving potential of such program, if an application for such plan is submitted pursuant to section 8235b of this title, the application is approved pursuant to section 8235c of this title, and the plan provides for—
 
-&emsp;(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility's service area designated by the contract, which contract includes the provisions described in subsection (b) of this section;
+&emsp;(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility's service area designated by the contract, which contract includes the provisions described in subsection (b);
 
 &emsp;(2) the selection by the public utility in a fair, open, and nondiscriminatory manner of the person or persons to contract with pursuant to paragraph (1);
 
@@ -14,11 +14,11 @@ The Secretary may approve any plan developed by a State or local government, for
 
 &emsp;(5) in the case of a regulated public utility, the approval in writing by the State regulatory authority exercising ratemaking authority over such utility of the contract described in paragraph (1), the manner of selection described in paragraph (2), the payment described in paragraph (3), and the procedure described in paragraph (4); and
 
-&emsp;(6) the enforcement of the provisions of the contract, entered into pursuant to paragraph (1), which are required to be included pursuant to subsection (b) of this section.
+&emsp;(6) the enforcement of the provisions of the contract, entered into pursuant to paragraph (1), which are required to be included pursuant to subsection (b).
 
 #### (b) Contract requirements
 
-Any contract entered into by a public utility under subsection (a)(1) of this section shall require any person or persons entering into such contract with a public utility to offer to the owner or occupant of each residential building in the portion of the utility's service area designated in the contract, without charge—
+Any contract entered into by a public utility under subsection (a)(1) shall require any person or persons entering into such contract with a public utility to offer to the owner or occupant of each residential building in the portion of the utility's service area designated in the contract, without charge—
 
 &emsp;(1) an inspection of such building to determine and inform such owner or occupant of—
 
@@ -26,7 +26,7 @@ Any contract entered into by a public utility under subsection (a)(1) of this se
 
 &emsp;&emsp;(B) the savings in energy costs that are likely to result from the installation of such energy conservation measures;
 
-&emsp;&emsp;(C) suggestions (including suggestions developed by the Secretary) of energy conservation techniques, including adjustments in energy use patterns and modifications in household activities, which can be used by the owner or occupant of the building tosave energy and which do not require the installation of energy conservation measures; and
+&emsp;&emsp;(C) suggestions (including suggestions developed by the Secretary) of energy conservation techniques, including adjustments in energy use patterns and modifications in household activities, which can be used by the owner or occupant of the building to save energy and which do not require the installation of energy conservation measures; and
 
 &emsp;&emsp;(D) the savings in energy costs that are likely to result from the adoption of such suggested energy conservation techniques;
 
@@ -36,11 +36,11 @@ Any contract entered into by a public utility under subsection (a)(1) of this se
 
 #### (c) Provision of financial assistance
 
-The Secretary may provide financial assistance to any State or local government to carry out any plan for the establishment of a prototype residential energy efficiency program if the plan is approved under subsection (a) of this section.
+The Secretary may provide financial assistance to any State or local government to carry out any plan for the establishment of a prototype residential energy efficiency program if the plan is approved under subsection (a).
 
 #### (d) Limitation
 
-The Secretary may approve under subsection (a) of this section not more than 4 plans for the establishment of prototype residential energy efficiency programs.
+The Secretary may approve under subsection (a) not more than 4 plans for the establishment of prototype residential energy efficiency programs.
 
 (Pub. L. 95–619, title II, §262, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 746.)
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan under which applicable life insurance benefits are provided, provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).
+&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefitsare provided, and each group-term life insurance plan under which applicable life insurance benefits are provided, provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).
 
 #### (B) Applicable employer cost
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The terms "qualified future transfer" and "collectively bargained transfer" mean a transfer which meets all of the requirements for a qualified transfer, except that—
+&emsp;&emsp;The terms "qualified future transfer" and "collectively bargained transfer" mean atransfer which meets all of the requirements for a qualified transfer, except that—
 
 &emsp;&emsp;&emsp;(i) the determination of excess pension assets shall be made under subparagraph (B),
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is providedor financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 
@@ -344,11 +344,11 @@ For purposes of this section—
 
 #### (ii) Reduction for amounts previously set aside
 
-&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts, applicable life insurance accounts, or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree liabilities. The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.
+&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year ofthe collectively bargained transfer) of the assets in all health benefits accounts, applicable life insurance accounts, or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree liabilities. The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.
 
 #### (iii) Key employees excluded
 
-&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectivelybargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
 
 #### (C) Collectively bargained health benefits
 
@@ -576,7 +576,7 @@ Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013,
 
 Amendment by section 40211(a)(2)(D) of Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
 
-Pub. L. 112–141, div. D, title II, §40241(c), July 6, 2012, 126 Stat. 859, provided that: "The amendments made by this Act \[probably should be "section", amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\]."
+Pub. L. 112–141, div. D, title II, §40241(c), July 6, 2012, 126 Stat. 859, provided that: "The amendments made by this Act \[probably should be "section", amending this section and sections 1021, 1103, and 1108 of Title 29,Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\]."
 
 Pub. L. 112–141, div. D, title II, §40242(h), July 6, 2012, 126 Stat. 864, provided that:
 

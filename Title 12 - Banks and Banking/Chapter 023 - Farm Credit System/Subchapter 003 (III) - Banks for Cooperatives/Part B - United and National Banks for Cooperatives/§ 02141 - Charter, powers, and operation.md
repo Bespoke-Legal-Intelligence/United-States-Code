@@ -2,7 +2,7 @@
 
 #### (a) Charter
 
-The National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be (hereinafter in this part referred to as the "consolidated bank"), established under section 413 of the Agricultural Credit Act of 1987, shall be a federally chartered instrumentality of the United States and an institution of the Farm Credit System.
+The National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be (hereinafter in this part referred to as the "consolidated bank"), established under section413 of the Agricultural Credit Act of 1987, shall be a federally chartered instrumentality of the United States and an institution of the Farm Credit System.
 
 #### (b) Powers
 

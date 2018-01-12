@@ -36,7 +36,7 @@
 
 #### (c) Consultation with DNI in certain positions
 
-(1) In the event of a vacancy in a position referred to in paragraph (2), the head of the department or agency having jurisdiction over the position shall consult with the Director of National Intelligence before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy.
+(1) In the event of a vacancy in a position referred to in paragraph (2), the head of the department or agency having jurisdiction over the position shall consult with the Director of National Intelligence before appointing an individual to fill the vacancy or recommending to thePresident an individual to be nominated to fill the vacancy.
 
 (2) Paragraph (1) applies to the following positions:
 

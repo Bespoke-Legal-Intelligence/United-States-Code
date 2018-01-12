@@ -2,7 +2,7 @@
 
 #### (a) Procedures for issuance of reports
 
-The Statistics Commissioner,<sup>1</sup> shall establish procedures, in accordance with section 9576 ofthis title, to ensure that the reports issued under this section are relevant, of high quality, useful to customers, subject to rigorous peer review, produced in a timely fashion, and free from any partisan political influence.
+The Statistics Commissioner,<sup>1</sup> shall establish procedures, in accordance with section 9576 of this title, to ensure that the reports issued under this section are relevant, of high quality, useful to customers, subject to rigorous peer review, produced in a timely fashion, and free from any partisan political influence.
 
 #### (b) Report on condition and progress of education
 

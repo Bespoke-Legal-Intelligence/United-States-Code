@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known asthe "Inland Waterways Trust Fund", consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
+There is hereby established in the Treasury of the United States a trust fund to be known as the "Inland Waterways Trust Fund", consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 
@@ -18,7 +18,7 @@ There are hereby appropriated to the Inland Waterways Trust Fund amounts equival
 
 &emsp;Not more than ½ of the cost of any construction to which section 102(a) of the Water Resources Development Act of 1986 applies (as in effect on the date of the enactment of this section) may be paid from the Inland Waterways Trust Fund.
 
-(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499, title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
+(Added Pub. L. 99–662, title XIV, §1405(a), Nov. 17, 1986, 100 Stat. 4271; amended Pub. L. 99–499,title V, §521(b)(3), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–647, title I, §1018(u)(18), Nov. 10, 1988, 102 Stat. 3591.)
 
 #### References in Text
 

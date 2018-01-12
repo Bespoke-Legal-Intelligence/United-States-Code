@@ -20,7 +20,7 @@
 
 &emsp;(2) standards that the Attorney General, the Secretary of the Treasury, may prescribe.<sup>1</sup>
 
-(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reportingagency information from a system of records that a person is responsible for a claim if—
+(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reporting agency information from a system of records that a person is responsible for a claim if—
 
 &emsp;(A) notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency;
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(i) is in litigation or foreclosure;
 
-&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistentwith an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
+&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistent with an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
 
 &emsp;&emsp;(iii) has been referred to a private collection contractor for collection for a period of time determined by the Secretary of the Treasury;
 
@@ -150,7 +150,7 @@
 
 &emsp;(H) litigation or foreclosure.
 
-(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures asthe Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
+(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
 (h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
@@ -306,7 +306,7 @@ Subsec. (e)(2). Pub. L. 104–134, §31001(g)(1)(C), inserted ", the Secretary 
 
 Subsec. (f). Pub. L. 104–316, §115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted "the head of an executive, judicial, or legislative agency shall" for "the head of an executive or legislative agency may" and "a person" for "an individual".
+Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted "the head of an executive, judicial, or legislative agency shall" for "thehead of an executive or legislative agency may" and "a person" for "an individual".
 
 Subsec. (f)(1)(C), (D), (F). Pub. L. 104–134, §31001(k)(3), substituted "the person" for "the individual" wherever appearing.
 

@@ -36,9 +36,9 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (2) For purposes of this subsection, the term "resolution" means only a resolution of either House of Congress described in subparagraph (A) or (B) of this paragraph.
 
-&emsp;(A) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not object to the energy action numbered \_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank spacetherein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one energy action.
+&emsp;(A) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not object to the energy action numbered \_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one energy action.
 
-&emsp;(B) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not favor the energy action numbered \_\_\_\_\_\_ transmitted to Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank space therein being filled with the name of the resolving House and the other blank spaces therein being appropriately filled; but does not include a resolution which specifies more than one energy action.
+&emsp;(B) A resolution the matter after the resolving clause of which is as follows: "That the\_\_\_\_\_\_ does not favor the energy action numbered \_\_\_\_\_\_ transmitted to Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank space therein being filled with the name of the resolving House and the other blank spaces therein being appropriately filled; but does not include a resolution which specifies more than one energy action.
 
 (3) A resolution once introduced with respect to an energy action shall immediately be referred to a committee (and all resolutions with respect to the same plan shall be referred to the same committee) by the President of the Senate or the Speaker of the House of Representatives, as the case may be.
 

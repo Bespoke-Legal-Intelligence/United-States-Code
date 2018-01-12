@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term "client" means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person orentity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term "client" means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 

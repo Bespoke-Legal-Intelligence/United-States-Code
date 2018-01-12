@@ -6,7 +6,7 @@ To achieve the purposes of the international energy program with respect to inte
 
 #### (b) Transcript of meetings
 
-A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall be made available for public inspection and copying in accordance with section 552 of title 5, except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c) of this section.
+A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall be made available for public inspection and copying in accordance with section 552 of title 5, except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c).
 
 #### (c) Suspension of application of certain requirements by President
 
@@ -18,9 +18,9 @@ The President, after consultation with the Secretary of State, the Federal Trade
 
 &emsp;(3) the requirement under subsection (a) of this section that meetings be open to the public, and
 
-&emsp;(4) the second sentence of subsection (b) of this section;
+&emsp;(4) the second sentence of subsection (b);
 
-> if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that suchsuspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in section 552(b)(1) of title 5. Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
+> if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that such suspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in section 552(b)(1) of title 5. Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
 
 (Pub. L. 94–163, title II, §253, Dec. 22, 1975, 89 Stat. 898; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288.)
 
@@ -38,7 +38,7 @@ Section 17 of the Federal Energy Administration Act of 1974, referred to in subs
 
 #### Classification of Certain Information and Material
 
-For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
+For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International EnergyProgram, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Termination of Advisory Committees
 

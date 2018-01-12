@@ -34,7 +34,7 @@ For purposes of subsection (a)—
 
 #### (4) Exception for certain amounts charged against existing reserve
 
-&emsp;Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefitscharged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
+&emsp;Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefits charged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
 
 #### (c) Definitions
 
@@ -90,5 +90,5 @@ Section applicable to benefits provided after Dec. 31, 1985, see section 511(e)(
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

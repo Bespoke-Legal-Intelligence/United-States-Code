@@ -28,7 +28,7 @@
 
 > The Attorney General shall establish an accurate, efficient, and effective system of records concerning the criminal history of persons provided protection under this chapter in order to provide the information described in subparagraph (G).
 
-(2) Deductions shall be made from any payment made to a person pursuant to paragraph (1)(D) to satisfy obligations of that person for family support payments pursuant to a State court order.
+(2) Deductions shall be made from any payment made to a person pursuant to paragraph\(1)(D) to satisfy obligations of that person for family support payments pursuant to a State court order.
 
 (3) Any person who, without the authorization of the Attorney General, knowingly discloses any information received from the Attorney General under paragraph (1)(G) shall be fined $5,000 or imprisoned five years, or both.
 

@@ -2,7 +2,7 @@
 
 #### (a) Investigation by International Trade Commission; report; publication
 
-(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the International Trade Commission (hereafter in thissection referred to as the "Commission") shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
+(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the International Trade Commission (hereafter in this section referred to as the "Commission") shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
 
 (2) The provisions of subsections (a)(3), (b)(4),<sup>1</sup> and (c)(4) of section 2252 of this title shall apply with respect to investigations by the Commission under paragraph (1).
 

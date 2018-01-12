@@ -38,7 +38,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers, but does not regularly sell to wholesale distributors,
 
-> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
+> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall bethe lower of the constructive sale price determined under this paragraph or paragraph (4).
 
 #### (4) Constructive sale price in case of certain other articles
 
@@ -104,7 +104,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(A) The sum of (i) the aggregate of the charges for local advertising excluded under paragraph (1), plus (ii) the aggregate of the readjustments for local advertising under section 6416(b)(1) (relating to credits or refunds for price readjustments), shall not exceed
 
-&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at which such articles were sold in sales on which tax was imposed by such section of this chapter.
+&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at whichsuch articles were sold in sales on which tax was imposed by such section of this chapter.
 
 > &emsp;The preceding sentence shall be applied to each manufacturer, producer, and importer as of the close of each calendar quarter, taking into account the items specified in subparagraphs (A) and (B) for such calendar quarter and preceding calendar quarters in the same calendar year.
 
@@ -144,7 +144,7 @@ Subsec. (b). Pub. L. 94–455, §§1904(a)(2)(B), 1906(b)(13)(A), struck out "or
 
 Subsecs. (d) to (g). Pub. L. 94–455, §1904(a)(2)(A), redesignated subsecs. (e) to (g) as (d) to (f), respectively.
 
-<b>1971</b>—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted "(relating to trucks, buses,tractor, etc.)" for "(relating to automobiles, trucks, etc.)".
+<b>1971</b>—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted "(relating to trucks, buses, tractor, etc.)" for "(relating to automobiles, trucks, etc.)".
 
 Subsec. (g). Pub. L. 92–178, §401(g)(4)(B), inserted reference to "tractors," after "buses,".
 
@@ -224,7 +224,7 @@ Pub. L. 87–770, §2(b), Oct. 9, 1962, 76 Stat. 768, provided that: "The amendm
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–781, §3, Sept. 14, 1960, 74 Stat. 1018, provided that: "The amendments made by this Act \[amending this section and section 6416 of this title\] shall applywith respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\]."
+Pub. L. 86–781, §3, Sept. 14, 1960, 74 Stat. 1018, provided that: "The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\]."
 
 #### Effective Date of 1958 Amendment
 

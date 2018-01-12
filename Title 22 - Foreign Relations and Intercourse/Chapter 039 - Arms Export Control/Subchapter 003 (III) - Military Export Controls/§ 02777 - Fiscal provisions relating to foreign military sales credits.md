@@ -22,3 +22,7 @@ Subsec. (c). Pub. L. 96–533, §104(b), added subsec. (c).
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–189 inserted provisions relating to indebtedness under section 2764(b) of this title and exclusions of portions of the sales proceeds required at the time of disposition as a reserve for payment of claims under guaranties issued under section 2764(b) of this title.
 
+#### Effective Date
+
+Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
+

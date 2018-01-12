@@ -24,7 +24,7 @@ The Secretary, through the Office of Correctional Education established under su
 
 &emsp;(2) provide technical support to State and local educational agencies and schools funded by the Bureau of Indian Affairs on correctional education programs and curricula;
 
-&emsp;(3) provide an annual report to the Congress on the progress of the Office of CorrectionalEducation and the status of correctional education in the United States;
+&emsp;(3) provide an annual report to the Congress on the progress of the Office of Correctional Education and the status of correctional education in the United States;
 
 &emsp;(4) cooperate with other Federal agencies carrying out correctional education programs to ensure coordination of such programs;
 

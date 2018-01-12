@@ -48,7 +48,7 @@ In this section:
 
 #### (6) Qualified electric transportation project
 
-&emsp;The term "qualified electric transportation project" means an electric transportationtechnology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
+&emsp;The term "qualified electric transportation project" means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
 
 &emsp;&emsp;(A) shipside or shoreside electrification for vessels;
 
@@ -147,4 +147,8 @@ In this section:
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
 (Pub. L. 110–140, title I, §131, Dec. 19, 2007, 121 Stat. 1508.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

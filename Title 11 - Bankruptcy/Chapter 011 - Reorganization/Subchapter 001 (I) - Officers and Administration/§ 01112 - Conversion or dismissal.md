@@ -66,7 +66,7 @@
 
 &emsp;(3) if the debtor requests conversion to chapter 12 of this title, such conversion is equitable.
 
-(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
+(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional timeas the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 
 (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

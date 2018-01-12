@@ -12,7 +12,7 @@ This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, a
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of United States by section 101 of Reorg. Plan. No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2, of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of United States by section 101 of Reorg. Plan. No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees.Section 102 of Reorg. Plan No. 2, of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### Ex. Ord. No. 10296. Performance of Defense Housing Functions
 

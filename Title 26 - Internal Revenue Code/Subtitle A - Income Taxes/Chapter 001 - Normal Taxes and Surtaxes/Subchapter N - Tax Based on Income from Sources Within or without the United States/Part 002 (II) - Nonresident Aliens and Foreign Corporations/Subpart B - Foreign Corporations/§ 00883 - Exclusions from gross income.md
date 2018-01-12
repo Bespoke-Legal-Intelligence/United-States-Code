@@ -32,7 +32,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### (1) In general
 
-&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreign corporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
+&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreigncorporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
 
 #### (2) Treatment of controlled foreign corporations
 
@@ -78,7 +78,7 @@ Subsec. (c)(3). Pub. L. 100–647, §1012(e)(1)(A), substituted "Special rules" 
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1212(c)(3), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: "Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
-Subsec. (a)(2). Pub. L. 99–514, §1212(c)(3), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: "Earnings derived from the operation of aircraft registered under the laws of aforeign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
+Subsec. (a)(2). Pub. L. 99–514, §1212(c)(3), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: "Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States."
 
 Subsec. (a)(4). Pub. L. 99–514, §1212(c)(4), added par. (4).
 
@@ -110,7 +110,7 @@ Pub. L. 94–164, §6(b), Dec. 23, 1975, 89 Stat. 976, provided that: "The amend
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–622, §1(b), Oct. 22, 1968, 82 Stat. 1311, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966."
+Pub. L. 90–622, §1(b), Oct. 22, 1968, 82 Stat. 1311, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

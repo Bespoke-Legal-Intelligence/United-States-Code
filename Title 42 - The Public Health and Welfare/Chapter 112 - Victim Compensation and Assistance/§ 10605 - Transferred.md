@@ -1,0 +1,6 @@
+### §10605. Transferred
+
+#### Codification
+
+Section 10605 was editorially reclassified as section 20111 of Title 34, Crime Control and Law Enforcement.
+

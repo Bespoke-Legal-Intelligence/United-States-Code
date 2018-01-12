@@ -16,7 +16,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (2) Reference price
 
-&emsp;For purposes of this subsection, the term "reference price" means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
+&emsp;For purposes of this subsection, the term "reference price" means, with respect to anycalendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
 
 #### (3) Inflation adjustment
 
@@ -30,7 +30,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term "inflation adjustment factor" means, with respect to any calendar year, a fraction the numerator of which is the GNPimplicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
+&emsp;&emsp;The term "inflation adjustment factor" means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
 
 #### (c) Qualified enhanced oil recovery costs
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Disallowance of deduction
 
-&emsp;Any deduction allowable under this chapter for any costs taken into account in computing the amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
+&emsp;Any deduction allowable under this chapter for any costs taken into account in computingthe amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
 
 #### (2) Basis adjustments
 
@@ -191,6 +191,10 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2017</b>—Internal Revenue Notice 2017–25.
+
+<b>2016</b>—Internal Revenue Notice 2016–44.
 
 <b>2015</b>—Internal Revenue Notice 2015–64.
 

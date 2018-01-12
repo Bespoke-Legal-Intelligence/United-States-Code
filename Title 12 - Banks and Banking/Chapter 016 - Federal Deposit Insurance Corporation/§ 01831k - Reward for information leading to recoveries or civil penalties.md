@@ -38,7 +38,7 @@ An appropriate Federal banking agency may not pay a reward under subsection (a) 
 
 An appropriate Federal banking agency may not pay a reward under subsection (a) to—
 
-&emsp;(1) an officer or employee of the United States or of a State or local government who provides information described in subsection\(a), obtained in the performance of official duties; or
+&emsp;(1) an officer or employee of the United States or of a State or local government who provides information described in subsection (a), obtained in the performance of official duties; or
 
 &emsp;(2) a person who—
 

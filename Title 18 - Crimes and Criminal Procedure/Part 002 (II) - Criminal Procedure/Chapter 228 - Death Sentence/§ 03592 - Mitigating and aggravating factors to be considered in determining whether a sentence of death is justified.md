@@ -2,7 +2,7 @@
 
 (a)
 
-Mitigating Factors.—In determining whether a sentence of death is to be imposed ona defendant, the finder of fact shall consider any mitigating factor, including the following:
+Mitigating Factors.—In determining whether a sentence of death is to be imposed on a defendant, the finder of fact shall consider any mitigating factor, including the following:
 
 &emsp;(1)
 
@@ -50,7 +50,7 @@ Grave risk to national security.—In the commission of the offense the defendan
 
 &emsp;(3)
 
-Grave risk of death.—In the commission of the offense the defendant knowingly created a grave risk of death to another person.
+Grave risk of death.—In the commission of the offense the defendant knowinglycreated a grave risk of death to another person.
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 

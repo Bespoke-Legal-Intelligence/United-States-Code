@@ -32,7 +32,7 @@
 
 &emsp;(B) to the extent not so credited, shall be deposited in the Treasury as miscellaneous receipts as provided in section 3302(b) of title 31.
 
-(3) Of the amount available in the Special Defense Acquisition Fund in any fiscal year after fiscal year 2016, $500,000,000 may be used in such fiscal year only to procure and stock precision guided munitions that may be required by partner and allied forces to enhance the effectiveness of current or future contributions of such forces to overseas contingency operations conducted or supported by the United States.
+(3) Of the amount of annual obligations from the Special Defense Acquisition Fund in each of fiscal years 2018 through 2022, not less than 20 percent shall be for funds to procure and stock precision guided munitions that may be required by partner and allied forces to enhance the effectiveness of current or future contributions of such forces to overseas contingency operations conducted or supported by the United States.
 
 (d) Funds may be appropriated for the armed forces for use as an emergency fund for research, development, test, and evaluation, or related procurement or production, only if the appropriation of the funds is authorized by law after June 30, 1966.
 
@@ -40,7 +40,7 @@
 
 (f) In each budget submitted by the President to Congress under section 1105 of title 31, amounts requested for procurement of ammunition for the Navy and Marine Corps, and for procurement of ammunition for the Air Force, shall be set forth separately from other amounts requested for procurement.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L.101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632; Pub. L. 114–328, div. A, title XII, §1202(a), (b), Dec. 23, 2016, 130 Stat. 2474.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632; Pub. L. 114–328, div. A, title XII, §1202(a), (b), Dec. 23, 2016, 130 Stat. 2474; Pub. L. 115–91, div. A, title XII, §1203(a), Dec. 12, 2017, 131 Stat. 1642.)
 
 Historical and Revision Notes<br>1982
 
@@ -79,6 +79,8 @@ Provisions similar to those in subsec. (c)(2) of this section were contained in 
 Prior similar provisions were contained in Pub. L. 86–149, title IV, §412, Aug. 10, 1959, 73 Stat. 322, as amended by Pub. L. 87–436, §2, Apr. 27, 1962, 76 Stat. 55; Pub. L. 88–174, title VI, §610, Nov. 7, 1963, 77 Stat. 329; Pub. L. 89–37, title III, §304, June 11, 1965, 79 Stat. 128; Pub. L. 90–168, §6, Dec. 1, 1967, 81 Stat. 526; Pub. L. 91–121, title IV, §405, Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–441, title V, §§505, 509, Oct. 7, 1970, 84 Stat. 912, 913; Pub. L. 92–129, title VII, §701, Sept. 28, 1971, 85 Stat. 362; Pub. L. 92–436, title III, §302, title VI, §604, Sept. 26, 1972, 86 Stat. 736, 739, prior to repeal by Pub. L. 93–155, §803(b)(1).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(3). Pub. L. 115–91 substituted "Of the amount of annual obligations from the Special Defense Acquisition Fund in each of fiscal years 2018 through 2022, not less than 20 percent shall be for funds to procure" for "Of the amount available in the Special Defense Acquisition Fund in any fiscal year after fiscal year 2016, $500,000,000 may be used in such fiscal year only to procure".
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §1202(a), substituted "$2,500,000,000" for "$1,070,000,000".
 
@@ -186,6 +188,10 @@ Pub. L. 96–342, §1001(b)(2), (c), redesignated subsec. (e) as (f), substitute
 
 Subsec. (e). Pub. L. 94–106, §801(a)(2), added subsec. (e).
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title XII, §1203(b), Dec. 12, 2017, 131 Stat. 1642, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 2017."
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title XII, §1202(a), Dec. 23, 2016, 130 Stat. 2474, provided that the amendment made by section 1202(a) is effective as of Oct. 1, 2016.
@@ -224,7 +230,7 @@ The following general provisions, which had been repeated as fiscal year provisi
 
 "
 
-Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair afterexpiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (l)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
+Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed$12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (l)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
 
 "
 
@@ -408,7 +414,7 @@ Pub. L. 101–510, div. A, title XIV, §1409, Nov. 5, 1990, 104 Stat. 1681.
 
 #### Budget Act Limitation
 
-Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, provided that: "New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by the amendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts."
+Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, provided that: "New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by theamendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts."
 
 #### Limitation on Source of Funds for Nicaraguan Democratic Resistance
 

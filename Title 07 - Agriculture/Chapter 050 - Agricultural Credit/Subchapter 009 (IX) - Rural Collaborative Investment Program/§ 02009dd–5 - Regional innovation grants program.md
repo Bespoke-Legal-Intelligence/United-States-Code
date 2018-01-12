@@ -170,7 +170,7 @@ If a Regional Board or other eligible grantee fails to comply with any requireme
 
 &emsp;Paragraph (1) shall not apply to the provision of rural development assistance under any program relating to basic health, safety, or infrastructure, including broadband deployment or minimum environmental needs.
 
-(Pub. L. 87–128, title III, §385F, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1190; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1951.)
+(Pub. L. 87–128, title III, §385F, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407;amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1190; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1951.)
 
 #### Codification
 

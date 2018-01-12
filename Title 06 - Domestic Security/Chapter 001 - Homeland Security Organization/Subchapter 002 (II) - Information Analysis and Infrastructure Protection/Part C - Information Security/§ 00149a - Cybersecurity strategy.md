@@ -32,7 +32,7 @@ In developing the strategy required under subsection (a), the Secretary shall—
 
 &emsp;&emsp;(C) the most recent Quadrennial Homeland Security Review issued pursuant to section 347 of this title; and
 
-&emsp;(2) include information on the roles and responsibilities of components and offices of the Department, to the extent practicable, to carry out such strategy.
+&emsp;(2) include information on the roles and responsibilities of components and offices of theDepartment, to the extent practicable, to carry out such strategy.
 
 #### (d) Implementation plan
 

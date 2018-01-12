@@ -10,7 +10,7 @@ A country shall be considered to be a least developed country and eligible for t
 
 #### (b) Indicators of food deficit countries
 
-To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the countrymeets all of the following indicators of national food deficit and malnutrition:
+To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
 
 #### (1) Calorie consumption
 

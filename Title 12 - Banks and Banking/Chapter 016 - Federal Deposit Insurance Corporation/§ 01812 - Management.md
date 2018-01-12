@@ -80,7 +80,7 @@
 
 #### (3) Certification
 
-&emsp;Upon taking office, each member of the Board of Directors shall certify under oaththat such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
+&emsp;Upon taking office, each member of the Board of Directors shall certify under oath that such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
 
 #### (f) Status of employees
 

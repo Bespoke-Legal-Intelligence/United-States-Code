@@ -368,7 +368,7 @@ The purposes of the Center shall be to—
 
 #### (2) Other officers and employees
 
-&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall bevested with such powers and duties as the Board may determine.
+&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall be vested with such powers and duties as the Board may determine.
 
 #### (3) Delegation
 
@@ -456,7 +456,7 @@ Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (
 
 Subsec. (e)(3)(E). Pub. L. 106–78, §816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Textread as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
+Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
 
 Subsec. (e)(3)(F) to (H). Pub. L. 106–78, §816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
 

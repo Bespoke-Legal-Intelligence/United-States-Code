@@ -42,7 +42,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;&emsp;&emsp;(iv) the use of a committee that is independent, as determined in accordance with rules prescribed by the association, of the general partner or sponsor, that has been approved by a majority of the outstanding securities of each of the participating partnerships, and that has such authority as is necessary to protect the interest of limited partners, including the authority to hire independent advisors, to negotiate with the general partner or sponsor on behalf of the limited partners, and to make a recommendation to the limited partners with respect to the proposed transaction; or
 
-&emsp;&emsp;&emsp;(v) other comparable rights that are prescribed by rule by the association and that are designed to protect dissenting limited partners;
+&emsp;&emsp;&emsp;(v) other comparable rights that are prescribed by rule by the association and thatare designed to protect dissenting limited partners;
 
 &emsp;&emsp;(B) the right not to have their voting power unfairly reduced or abridged;
 
@@ -98,7 +98,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 #### (c) National association rules; provision for registration of affiliated securities association
 
-The Commission may permit or require the rules of an association applying for registration pursuant to subsection (b), to provide for the admission of an association registered as an affiliated securities association pursuant to subsection (d), to participation in said applicant association as an affiliate thereof, under terms permitting such powers and responsibilities to such affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of said applicant association, if such rules appear to the Commission to be necessary or appropriate in the public interest or for the protection of investors and to carry out the purposes of this section. The duties and powers of the Commission with respect to any national securities association or any affiliated securities association shall in no way be limited by reason of any such affiliation.
+The Commission may permit or require the rules of an association applying for registrationpursuant to subsection (b), to provide for the admission of an association registered as an affiliated securities association pursuant to subsection (d), to participation in said applicant association as an affiliate thereof, under terms permitting such powers and responsibilities to such affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of said applicant association, if such rules appear to the Commission to be necessary or appropriate in the public interest or for the protection of investors and to carry out the purposes of this section. The duties and powers of the Commission with respect to any national securities association or any affiliated securities association shall in no way be limited by reason of any such affiliation.
 
 #### (d) Registration as affiliated association; prerequisites; association rules
 
@@ -282,7 +282,7 @@ Subsec. (f). Pub. L. 103–202, §106(b)(1)(A), redesignated par. (3) as entire 
 
 Subsec. (g)(3)(D). Pub. L. 103–202, §106(b)(1)(B)(i), substituted "transactions in municipal securities" for "transactions in exempted securities".
 
-Subsec. (g)(4), (5). Pub. L. 103–202, §106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78o–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78o–5(c) of this title.
+Subsec. (g)(4), (5). Pub. L. 103–202, §106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out formerpar. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78o–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78o–5(c) of this title.
 
 <b>1990</b>—Subsec. (i). Pub. L. 101–429 added subsec. (i).
 

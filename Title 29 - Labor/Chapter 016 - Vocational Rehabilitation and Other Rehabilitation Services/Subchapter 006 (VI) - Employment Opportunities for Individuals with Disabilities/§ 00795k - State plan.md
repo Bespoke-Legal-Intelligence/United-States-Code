@@ -52,7 +52,7 @@ Each such plan supplement shall—
 
 &emsp;(8) contain such other information and be submitted in such manner as the Commissioner may require.
 
-(Pub. L. 93–112, title VI, §606, formerly §625, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998,112 Stat. 1215; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §606 and amended Pub. L. 113–128, title IV, §461(3), (8), July 22, 2014, 128 Stat. 1679, 1681.)
+(Pub. L. 93–112, title VI, §606, formerly §625, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §606 and amended Pub. L. 113–128, title IV, §461(3), (8), July 22, 2014, 128 Stat. 1679, 1681.)
 
 #### Prior Provisions
 

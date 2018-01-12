@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 108–203, §211(a)(3), added subsec. (c). See Codification
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–840 included within definition of "currently insured individual" an individual entitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
 
-<b>1956</b>—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
+<b>1956</b>—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirementage or died, whichever first occurred, are quarters of coverage.
 
 <b>1954</b>—Subsec. (a)(2)(B). Act Sept. 1, 1954, §106(b)(1), excluded from the elapsed period under subsec. (a)(2)(A) any quarter any part of which was included in a period of disability, unless such quarter was a quarter of coverage.
 
@@ -86,7 +86,7 @@ Pub. L. 92–603, title I, §104(j), Oct. 30, 1972, 86 Stat. 1341, provided that
 
 Pub. L. 87–64, title I, §103(b), June 30, 1961, 75 Stat. 137, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply—
 
-&emsp;"(1) in the case of monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] formonths beginning on or after the effective date of this title \[see note set out under section 402 of this title\], based on applications filed in or after March 1961,
+&emsp;"(1) in the case of monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for months beginning on or after the effective date of this title \[see note set out under section 402 of this title\], based on applications filed in or after March 1961,
 
 &emsp;"(2) in the case of lump-sum death payments under such title with respect to deaths on or after the effective date of this title, and
 
@@ -118,7 +118,7 @@ Pub. L. 98–21, title I, §102(e), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 &emsp;"(B) after December 31, 1983, acquires the number of quarters of coverage (within the meaning of section 213 of the Social Security Act \[42 U.S.C. 413\]) which is required for purposes of this subparagraph under paragraph (2),
 
-> then such individual shall be deemed to be a fully insured individual (as defined in section 214 of the Social Security Act \[42 U.S.C. 414\]) for all of the purposes of title II of such Act \[42 U.S.C. 401 et seq.\].
+> then such individual shall be deemed to be a fully insured individual (as defined in section 214 of the SocialSecurity Act \[42 U.S.C. 414\]) for all of the purposes of title II of such Act \[42 U.S.C. 401 et seq.\].
 
 "(2) The number of quarters of coverage which is required for purposes of subparagraph (B) of paragraph (1) shall be determined as follows:
 

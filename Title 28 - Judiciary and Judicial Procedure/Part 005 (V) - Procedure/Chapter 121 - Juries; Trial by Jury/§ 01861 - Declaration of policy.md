@@ -1,6 +1,6 @@
 ### §1861. Declaration of policy
 
-It is the policy of the United States that all litigants in Federal courts entitled to trial byjury shall have the right to grand and petit juries selected at random from a fair cross section of the community in the district or division wherein the court convenes. It is further the policy of the United States that all citizens shall have the opportunity to be considered for service on grand and petit juries in the district courts of the United States, and shall have an obligation to serve as jurors when summoned for that purpose.
+It is the policy of the United States that all litigants in Federal courts entitled to trial by jury shall have the right to grand and petit juries selected at random from a fair cross section of the community in the district or division wherein the court convenes. It is further the policy of the United States that all citizens shall have the opportunity to be considered for service on grand and petit juries in the district courts of the United States, and shall have an obligation to serve as jurors when summoned for that purpose.
 
 (June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 85–315, part V, §152, Sept. 9, 1957, 71 Stat. 638; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 54.)
 

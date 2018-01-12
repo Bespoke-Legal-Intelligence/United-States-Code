@@ -50,7 +50,7 @@ As used in this chapter:
 
 #### (9) Variety
 
-&emsp;The term "variety" means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
+&emsp;The term "variety" means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by theexpression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
 
 #### (b) Rules of construction
 
@@ -58,7 +58,7 @@ For the purposes of this chapter:
 
 #### (1) Sale or disposition for nonreproductive purposes
 
-&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics ofthe variety, or as a by-product of increasing a variety, shall not be considered to be a sale or disposition for purposes of exploitation of the variety.
+&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics of the variety, or as a by-product of increasing a variety, shall not be considered to be a sale or disposition for purposes of exploitation of the variety.
 
 #### (2) Sale or disposition for reproductive purposes
 

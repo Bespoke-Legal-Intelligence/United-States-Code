@@ -40,7 +40,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 #### (e) Exceptions in or waiver of regulations
 
-The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title.
+The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served bythe contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title.
 
 (Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
@@ -102,5 +102,5 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 
 #### Effective Date and Construction of 1996 Amendment
 
-Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: "Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)) \[now 25 U.S.C. 5328(b)\], as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted."
+Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: "Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)) \[now 25 U.S.C. 5328(b)\], as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted."
 

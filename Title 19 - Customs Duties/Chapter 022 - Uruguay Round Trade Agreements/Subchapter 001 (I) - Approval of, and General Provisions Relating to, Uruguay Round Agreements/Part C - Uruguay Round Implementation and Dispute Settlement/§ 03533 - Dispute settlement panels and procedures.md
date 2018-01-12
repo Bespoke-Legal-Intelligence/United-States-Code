@@ -48,7 +48,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (1) Changes in agency regulations or practice
 
-&emsp;In any case in which a dispute settlement panel or the Appellate Body finds in its reportthat a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
+&emsp;In any case in which a dispute settlement panel or the Appellate Body finds in its report that a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
 
 &emsp;&emsp;(A) the appropriate congressional committees have been consulted under subsection (f);
 
@@ -79,4 +79,8 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994, together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
 
 (Pub. L. 103–465, title I, §123, Dec. 8, 1994, 108 Stat. 4830.)
+
+#### Effective Date
+
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

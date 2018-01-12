@@ -12,7 +12,7 @@
 
 (2) If any operator liable to the fund under paragraph (1) refuses to pay, after demand, the amount of such liability (including interest), then there shall be a lien in favor of the United States for such amount upon all property and rights to property, whether real or personal, belonging to such operator. The lien arises on the date on which such liability is finally determined, and continues until it is satisfied or becomes unenforceable by reason of lapse of time.
 
-(3)(A) Except as otherwise provided under this subsection, the priority of the lien shall be determined in the same manner as under section 6323 of title 26. That section shall be applied for such purposes—
+(3)(A) Except as otherwise provided under this subsection, the priority of the lien shall be determined in the same manner as under section6323 of title 26. That section shall be applied for such purposes—
 
 &emsp;(i) by substituting "lien imposed by section 424(b)(2) of the Federal Mine Safety and Health Act of 1977" for "lien imposed by section 6321"; "operator liability lien" for "tax lien"; "operator" for "taxpayer"; "lien arising under section 424(b)(2) of the Federal Mine Safety and Health Act of 1977" for "assessment of the tax"; "payment of the liability is made to the Black Lung Disability Trust Fund" for "satisfaction of a levy pursuant to section 6332(b)"; and "satisfaction of operator liability" for "collection of any tax under this title" each place such terms appear; and
 

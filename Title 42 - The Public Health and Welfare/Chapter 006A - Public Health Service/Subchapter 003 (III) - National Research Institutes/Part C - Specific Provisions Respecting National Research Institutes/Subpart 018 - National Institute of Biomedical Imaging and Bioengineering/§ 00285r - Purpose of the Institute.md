@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purpose of the National Institute of Biomedical Imaging and Bioengineering (inthis section referred to as the "Institute") is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging, biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as "biomedical imaging and bioengineering").
+The general purpose of the National Institute of Biomedical Imaging and Bioengineering (in this section referred to as the "Institute") is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging, biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as "biomedical imaging and bioengineering").
 
 #### (b) National Biomedical Imaging and Bioengineering Program
 
@@ -70,7 +70,7 @@ Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: "The Congr
 
 &emsp;"(2) Advances based on medical research promise new, more effective treatments for a wide variety of diseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
 
-&emsp;"(3) The development of advanced genetic and molecular imaging techniques is necessary to continuethe current rapid pace of discovery in molecular biology.
+&emsp;"(3) The development of advanced genetic and molecular imaging techniques is necessary to continue the current rapid pace of discovery in molecular biology.
 
 &emsp;"(4) Advances in telemedicine, and teleradiology in particular, are increasingly important in the delivery of high quality, reliable medical care to rural citizens and other underserved populations. To fulfill the promise of telemedicine and related technologies fully, a structure is needed at the NIH to support basic research focused on the acquisition, transmission, processing, and optimal display of images.
 

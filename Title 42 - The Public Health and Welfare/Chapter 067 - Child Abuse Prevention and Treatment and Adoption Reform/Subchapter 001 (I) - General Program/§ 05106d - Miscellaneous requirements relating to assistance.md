@@ -42,7 +42,7 @@ A prior section 108 of Pub. L. 93–247 was classified to section 5106b of this 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–320 amended subsec. (d) generally. Prior to amendment, text read as follows: "It is the sense of Congress that the Secretary should encourage all States and public and private agencies or organizations that receive assistance under this subchapter to ensure that children and families with limited English proficiency who participate in programsunder this subchapter are provided materials and services under such programs in an appropriate language other than English."
+<b>2010</b>—Subsec. (d). Pub. L. 111–320 amended subsec. (d) generally. Prior to amendment, text read as follows: "It is the sense of Congress that the Secretary should encourage all States and public and private agencies or organizations that receive assistance under this subchapter to ensure that children and families with limited English proficiency who participate in programs under this subchapter are provided materials and services under such programs in an appropriate language other than English."
 
 <b>2003</b>—Subsecs. (d), (e). Pub. L. 108–36 added subsecs. (d) and (e).
 

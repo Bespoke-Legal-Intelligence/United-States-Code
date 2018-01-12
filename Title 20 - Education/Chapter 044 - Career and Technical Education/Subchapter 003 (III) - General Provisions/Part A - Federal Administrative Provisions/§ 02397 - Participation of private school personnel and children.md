@@ -38,7 +38,7 @@ Section 2397f, Pub. L. 88–210, title III, §388, as added Pub. L. 101–392, t
 
 Section 2397g, Pub. L. 88–210, title III, §389, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803, related to report on facilities and facilities improvement.
 
-Section 2397h, Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
+Section 2397h, Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat.803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
 
 #### Short Title
 

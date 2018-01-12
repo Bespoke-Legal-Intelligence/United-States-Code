@@ -1,6 +1,6 @@
 ### §6439. Technical assistance
 
-The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year to provide technical assistance to and support the capacity building of State agency programs assisted under this subpart.
+The Secretary may reserve not more than 2.5 percent of the amount made available to carryout this subpart for a fiscal year to provide technical assistance to and support the capacity building of State agency programs assisted under this subpart.
 
 (Pub. L. 89–10, title I, §1419, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1587; amended Pub. L. 114–95, title I, §1401(7), Dec. 10, 2015, 129 Stat. 1903.)
 

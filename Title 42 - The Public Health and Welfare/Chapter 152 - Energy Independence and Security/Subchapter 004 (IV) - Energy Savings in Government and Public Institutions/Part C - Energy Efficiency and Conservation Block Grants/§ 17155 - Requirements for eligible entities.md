@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under the program, each eligible applicant shall submit to the Secretary a written assurance that all laborers and mechanics employed by any contractor or subcontractor of the eligible entity during any construction, alteration, or repair activity funded, in whole or in part, by the grant shall be paid wages at rates not less than the prevailing wages for similar construction activities in the locality, as determined by the Secretary of Labor, in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
+&emsp;To be eligible to receive a grant under the program, each eligible applicant shall submit to the Secretary a written assurance that all laborers and mechanics employed by any contractor or subcontractor of the eligible entityduring any construction, alteration, or repair activity funded, in whole or in part, by the grant shall be paid wages at rates not less than the prevailing wages for similar construction activities in the locality, as determined by the Secretary of Labor, in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
 
 #### (2) Secretary of Labor
 
@@ -96,7 +96,7 @@
 
 #### (B) Deadline
 
-&emsp;&emsp;The State shall provide the subgrants required under subparagraph (A) by not later than 180 days after the date on which the Secretary approves a proposed energy efficiency and conservation strategy of the State under paragraph (3).
+&emsp;&emsp;The State shall provide the subgrants required under subparagraph (A) by not laterthan 180 days after the date on which the Secretary approves a proposed energy efficiency and conservation strategy of the State under paragraph (3).
 
 #### (2) Revision of conservation plan; proposed strategy
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(i) the Secretary shall provide to the State the reasons for the disapproval; and
 
-&emsp;&emsp;&emsp;(ii) the State may revise and resubmit the proposed strategy as many times asnecessary until the Secretary approves a proposed strategy.
+&emsp;&emsp;&emsp;(ii) the State may revise and resubmit the proposed strategy as many times as necessary until the Secretary approves a proposed strategy.
 
 #### (C) Requirement
 
@@ -149,6 +149,10 @@
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is set out in the Appendix to Title 5, Government Organization and Employees. Section 903 of Title 5 relates to Presidential authority regarding reorganization plans.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

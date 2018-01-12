@@ -12,7 +12,7 @@
 
 #### (b) Stabilization assistance, debt relief, and agricultural assistance for Poland
 
-To the extent that Poland continues to evolve toward pluralism and democracy and to develop and implement comprehensive economic reform programs, the United States Government shall do the following:
+To the extent that Poland continues to evolve toward pluralism and democracy and to develop and implement comprehensive economic reformprograms, the United States Government shall do the following:
 
 #### (1) Stabilization assistance
 

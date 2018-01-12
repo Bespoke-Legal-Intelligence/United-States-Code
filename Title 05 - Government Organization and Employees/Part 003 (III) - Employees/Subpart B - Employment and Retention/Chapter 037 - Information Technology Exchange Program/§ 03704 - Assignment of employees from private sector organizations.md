@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An employee of a private sector organization assigned to an agency under this chapter is deemed, during the period of the assignment, to be on detail to such agency.
+In General.—An employee of a private sector organization assigned to an agency underthis chapter is deemed, during the period of the assignment, to be on detail to such agency.
 
 (b)
 
@@ -26,7 +26,7 @@ Terms and Conditions.—An employee of a private sector organization assigned to
 
 &emsp;&emsp;(G) chapter 21 of title 41;
 
-&emsp;(3) may not have access to any trade secrets or to any other nonpublic information whichis of commercial value to the private sector organization from which he is assigned; and
+&emsp;(3) may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which he is assigned; and
 
 &emsp;(4) is subject to such regulations as the President may prescribe.
 

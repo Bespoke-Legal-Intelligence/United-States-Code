@@ -38,7 +38,7 @@ The goals of the program established under subsection (a) shall include—
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section $339,710,000 for fiscal year 1993 and $380,000,000 for fiscal year 1994.
+There are authorized to be appropriated to the Secretary for carrying out this section$339,710,000 for fiscal year 1993 and $380,000,000 for fiscal year 1994.
 
 (Pub. L. 102–486, title XXI, §2114, Oct. 24, 1992, 106 Stat. 3073; Pub. L. 104–66, title I, §1052(i), Dec. 21, 1995, 109 Stat. 719.)
 

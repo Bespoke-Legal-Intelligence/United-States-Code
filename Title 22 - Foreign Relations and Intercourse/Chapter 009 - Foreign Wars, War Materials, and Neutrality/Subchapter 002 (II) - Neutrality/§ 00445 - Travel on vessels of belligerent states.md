@@ -6,7 +6,7 @@ Whenever the President shall have issued a proclamation under the authority of s
 
 #### (b) Revocation of proclamation; effect
 
-Whenever any proclamation issued under the authority of section 441(a) of this title shall have been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
+Whenever any proclamation issued under the authority of section 441(a) of this title shallhave been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
 
 (Nov. 4, 1939, ch. 2, §5, 54 Stat. 7.)
 

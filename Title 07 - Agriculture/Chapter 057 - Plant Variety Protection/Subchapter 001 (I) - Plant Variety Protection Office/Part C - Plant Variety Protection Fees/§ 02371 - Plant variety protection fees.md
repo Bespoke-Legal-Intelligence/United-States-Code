@@ -10,11 +10,11 @@ On failure to pay such fees, the Secretary shall assess a late payment penalty. 
 
 #### (c) Disposition of funds
 
-Such fees, late payment penalties, and accrued interest collected shall be credited to the account that incurs the cost and shall remain available without fiscal year limitation to pay the expenses incurred by the Secretary in carrying out this chapter. Such funds collected (including late payment penalties and any interest earned) may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments.
+Such fees, late payment penalties, and accrued interest collected shall be credited to the account that incurs the cost and shall remainavailable without fiscal year limitation to pay the expenses incurred by the Secretary in carrying out this chapter. Such funds collected (including late payment penalties and any interest earned) may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments.
 
 #### (d) Actions for nonpayment
 
-The Attorney General may bring an action for the recovery of charges that have not been paid in accordance with this chapter against any person obligated for payment of such charges underthis chapter in any United States district court or other United States court for any territory or possession in any jurisdiction in which the person is found, resides, or transacts business. The court shall have jurisdiction to hear and decide the action.
+The Attorney General may bring an action for the recovery of charges that have not been paid in accordance with this chapter against any person obligated for payment of such charges under this chapter in any United States district court or other United States court for any territory or possession in any jurisdiction in which the person is found, resides, or transacts business. The court shall have jurisdiction to hear and decide the action.
 
 #### (e) Authorization of appropriations
 

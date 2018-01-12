@@ -18,7 +18,7 @@ The Secretary shall prescribe regulations for carrying out this section, and suc
 
 > Such regulations shall provide for the application of this section in the case of husband and wife, including provisions determining when a joint return under this section may be permitted or required, whether the liability shall be joint and several, and whether one spouse may make return under this section and the other without regard to this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 736; Pub. L. 88–272, title II, §201(d)(14), title III, §301(b)(2), Feb. 26, 1964, 78 Stat. 32, 140; Pub. L. 91–172, title VIII, §803(d)(1), title IX, §942(a), Dec. 30, 1969, 83 Stat. 684, 726; Pub. L. 94–455, title V, §§501(b)(8),\(9), 503(b)(2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1559, 1562, 1834; Pub. L. 95–30, title I, §101(d)(13), (14), May 23, 1977, 91 Stat. 134; Pub. L. 99–514, title I, §104(b)(16), Oct. 22, 1986, 100 Stat. 2106.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 736; Pub. L. 88–272, title II, §201(d)(14), title III, §301(b)(2), Feb. 26, 1964, 78 Stat. 32, 140; Pub. L. 91–172, title VIII, §803(d)(1), title IX, §942(a), Dec. 30, 1969, 83 Stat. 684, 726; Pub. L. 94–455, title V, §§501(b)(8), (9), 503(b)(2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1559, 1562, 1834; Pub. L. 95–30, title I, §101(d)(13), (14), May 23, 1977, 91 Stat. 134; Pub. L. 99–514, title I, §104(b)(16), Oct. 22, 1986, 100 Stat. 2106.)
 
 #### Amendments
 

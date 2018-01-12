@@ -2,7 +2,7 @@
 
 #### (a) Preparation; contents
 
-The Attorney General and the Secretary of State jointly are authorized and directed to prepare forms for the registration of aliens under section 1301 of this title, and the Attorney General is authorized and directed to prepare forms for the registration and fingerprinting of aliens under section 1302 of this title. Such forms shall contain inquiries with respect to (1) the date and place of entry of the alien into the United States; (2) activities in which he has been and intends to be engaged; (3) the length of time heexpects to remain in the United States; (4) the police and criminal record, if any, of such alien; and (5) such additional matters as may be prescribed.
+The Attorney General and the Secretary of State jointly are authorized and directed to prepare forms for the registration of aliens under section 1301 of this title, and the Attorney General is authorized and directed to prepare forms for the registration and fingerprinting of aliens under section 1302 of this title. Such forms shall contain inquiries with respect to (1) the date and place of entry of the alien into the United States; (2) activities in which he has been and intends to be engaged; (3) the length of time he expects to remain in the United States; (4) the police and criminal record, if any, of such alien; and (5) such additional matters as may be prescribed.
 
 #### (b) Confidential nature
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the Attorney General is authorized t
 
 The Alien Registration Act, 1940, referred to in subsec. (d), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Title III of that act, which related to register and fingerprinting of aliens, was classified to sections 451 to 460 of this title, was repealed by section 403(a)(39) of act June 27, 1952.
 
-This chapter, referred to in subsec. (d), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

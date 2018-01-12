@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) timely filing tax returns and other required government filings and paying taxes and other administrative expenses when due;
 
-&emsp;(5) if the debtor is not in compliance with the requirements referred to in paragraph (4)(A) or filing tax returns and other required government filings and making the payments referred to in paragraph (4)(B), what the failures are and how, at what cost, and when the debtor intends to remedy such failures; and
+&emsp;(5) if the debtor is not in compliance with the requirements referred to in paragraph\(4)(A) or filing tax returns and other required government filings and making the payments referred to in paragraph (4)(B), what the failures are and how, at what cost, and when the debtor intends to remedy such failures; and
 
 &emsp;(6) such other matters as are in the best interests of the debtor and creditors, and in the public interest in fair and efficient procedures under chapter 11 of this title.
 

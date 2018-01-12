@@ -44,7 +44,7 @@ Wines other than standard wines may be removed for consumption or sale and be ma
 
 &emsp;&emsp;(i) The requirement of this clause is met if there appears in direct conjunction with the semi-generic designation an appropriate appellation of origin disclosing the origin of the wine.
 
-&emsp;&emsp;(ii) The requirement of this clause is met if the wine conforms to the standard of identity, if any, for such wine contained in the regulations under this section or, if there is no such standard, to the trade understanding of such class or type.
+&emsp;&emsp;(ii) The requirement of this clause is met if the wine conforms to the standard of identity, if any, for such wine contained in theregulations under this section or, if there is no such standard, to the trade understanding of such class or type.
 
 &emsp;&emsp;(iii) The requirement of this clause is met if the person, or its successor in interest, using the semi-generic designation held a Certificate of Label Approval or Certificate of Exemption from Label Approval issued by the Secretary for a wine label bearing such brand name, or brand name and fanciful name, before March 10, 2006, on which such semi-generic designation appeared.
 

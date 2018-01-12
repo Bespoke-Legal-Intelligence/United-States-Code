@@ -26,7 +26,7 @@
 
 #### (b) Posting requirements imposed upon employers
 
-Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, oragricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
+Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
 
 #### (c) Recordkeeping and information requirements imposed upon employers
 
@@ -69,6 +69,10 @@ The information required to be disclosed by subsections (a) and (b) of this sect
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the date final regulations are issued by Secretary of Labor to implement such amendment, see section 4(c) of Pub. L. 104–49, set out as a note under section 1821 of this title.
+
+#### Effective Date
+
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -66,7 +66,7 @@
 
 #### (5) Accrual period
 
-&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term "accrualperiod" means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
+&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term "accrual period" means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
 
 #### (6) Determination of daily portions where principal subject to acceleration
 
@@ -146,7 +146,7 @@
 
 #### (B) Transfers during month
 
-&emsp;&emsp;In any case where a debt instrument is acquired on any day other than a day determined under subparagraph (A), the ratable monthly portion of original issue discount for the complete month (or partial month) in which such acquisition occurs shall be allocated between the transferor and the transferee in accordance with the number of days in such complete (or partial) month each held the debt instrument.
+&emsp;&emsp;In any case where a debt instrument is acquired on any day other than a day determined under subparagraph (A), the ratable monthly portion of original issue discountfor the complete month (or partial month) in which such acquisition occurs shall be allocated between the transferor and the transferee in accordance with the number of days in such complete (or partial) month each held the debt instrument.
 
 #### (4) Reduction where subsequent holder pays acquisition premium
 

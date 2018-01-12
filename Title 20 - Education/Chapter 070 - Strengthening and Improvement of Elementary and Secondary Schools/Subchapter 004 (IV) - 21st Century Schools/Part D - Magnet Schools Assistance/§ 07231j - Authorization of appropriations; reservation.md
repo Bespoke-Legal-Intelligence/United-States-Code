@@ -44,7 +44,7 @@ Section 7238, Pub. L. 89–10, title V, §5208, as added Pub. L. 103–382, titl
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §4401(6)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "For the purpose ofcarrying out this part, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years."
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §4401(6)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years."
 
 Subsecs. (b), (c). Pub. L. 114–95, §4401(6)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
 

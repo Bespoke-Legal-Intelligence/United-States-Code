@@ -22,7 +22,7 @@ Subject to such rules and regulations as may be adopted by the Commission, the C
 
 #### (e) Applicability of other laws to employees
 
-Except as otherwise provided in this chapter, persons in the employ of the Commission undersubsections (c) and (d)(1) of this section shall be considered to be Federal employees for all purposes, including—
+Except as otherwise provided in this chapter, persons in the employ of the Commission under subsections (c) and (d)(1) of this section shall be considered to be Federal employees for all purposes, including—
 
 &emsp;(1) subchapter III of chapter 83 of title 5,
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

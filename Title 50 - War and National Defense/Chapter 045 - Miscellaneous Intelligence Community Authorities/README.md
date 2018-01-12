@@ -16,6 +16,10 @@
 | [3309\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003309%20-%20Notification%20of%20establishment%20of%20advisory%20committee.md) | Notification of establishment of advisory committee. |
 | [3310\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003310%20-%20Annual%20report%20on%20United%20States%20security%20arrangements%20and%20commitments%20with%20other%20nations.md) | Annual report on United States security arrangements and commitments with other nations. |
 | [3311\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003311%20-%20Submittal%20to%20Congress%20by%20heads%20of%20elements%20of%20intelligence%20community%20of%20plans%20for%20orderly%20shutdown%20in%20event%20of%20absence%20of%20appropriations.md) | Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations. |
+| [3312\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003312%20-%20Congressional%20oversight%20of%20policy%20directives%20and%20guidance.md) | Congressional oversight of policy directives and guidance. |
+| [3313\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003313%20-%20Notification%20of%20memoranda%20of%20understanding.md) | Notification of memoranda of understanding. |
+| [3314\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003314%20-%20Report%20on%20national%20security%20systems.md) | Report on national security systems. |
+| [3315\.](Subchapter%20001%20%28I%29%20-%20Budget%20and%20Oversight/%C2%A7%2003315%20-%20Annual%20certification%20of%20controlled%20access%20programs.md) | Annual certification of controlled access programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +37,9 @@
 | [3328\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003328%20-%20Study%20or%20plan%20of%20surrender%3B%20use%20of%20appropriations.md) | Study or plan of surrender; use of appropriations. |
 | [3329\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003329%20-%20Intelligence%20community%20contracting.md) | Intelligence community contracting. |
 | [3330\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003330%20-%20Reports%20to%20the%20intelligence%20community%20on%20penetrations%20of%20networks%20and%20information%20systems%20of%20certain%20contractors.md) | Reports to the intelligence community on penetrations of networks and information systems of certain contractors. |
+| [3331\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003331%20-%20Management%20of%20intelligence%20community%20personnel.md) | Management of intelligence community personnel. |
+| [3332\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003332%20-%20Guidance%20and%20reporting%20requirement%20regarding%20the%20interactions%20between%20the%20intelligence%20community%20and%20entertainment%20industry.md) | Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry. |
+| [3333\.](Subchapter%20002%20%28II%29%20-%20Personnel%20and%20Administrative%20Authorities/%C2%A7%2003333%20-%20Joint%20facilities%20certification.md) | Joint facilities certification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,6 +56,7 @@
 | [3347\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003347%20-%20Secrecy%20agreements%20used%20in%20intelligence%20activities.md) | Secrecy agreements used in intelligence activities. |
 | [3348\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003348%20-%20Reports%20relating%20to%20certain%20special%20access%20programs%20and%20similar%20programs.md) | Reports relating to certain special access programs and similar programs. |
 | [3349\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003349%20-%20Notification%20regarding%20the%20authorized%20public%20disclosure%20of%20national%20intelligence.md) | Notification regarding the authorized public disclosure of national intelligence. |
+| [3350\.](Subchapter%20003%20%28III%29%20-%20Security%20Clearances%20and%20Classified%20Information/%C2%A7%2003350%20-%20Maximum%20amount%20charged%20for%20declassification%20reviews.md) | Maximum amount charged for declassification reviews. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,6 +71,7 @@
 | [3365\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003365%20-%20Foreign%20intelligence%20information.md) | Foreign intelligence information. |
 | [3366\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003366%20-%20Authorities%20of%20heads%20of%20other%20departments%20and%20agencies.md) | Authorities of heads of other departments and agencies. |
 | [3367\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003367%20-%20Requirement%20for%20efficient%20use%20by%20intelligence%20community%20of%20open-source%20intelligence.md) | Requirement for efficient use by intelligence community of open-source intelligence. |
+| [3368\.](Subchapter%20004%20%28IV%29%20-%20Collection%2C%20Analysis%2C%20and%20Sharing%20of%20Intelligence/%C2%A7%2003368%20-%20Assistance%20for%20governmental%20entities%20and%20private%20entities%20in%20recognizing%20online%20violent%20extremist%20content.md) | Assistance for governmental entities and private entities in recognizing online violent extremist content. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,8 +80,8 @@
 |  |  |
 | :--- | ---: |
 | [3381\.](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/%C2%A7%2003381%20-%20Coordination%20of%20counterintelligence%20activities.md) | Coordination of counterintelligence activities. |
-| [3382\.](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/%C2%A7%2003382%20-%20National%20Counterintelligence%20Executive.md) | National Counterintelligence Executive. |
-| [3383\.](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/%C2%A7%2003383%20-%20Office%20of%20the%20National%20Counterintelligence%20Executive.md) | Office of the National Counterintelligence Executive. |
+| [3382\.](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/%C2%A7%2003382%20-%20Director%20of%20the%20National%20Counterintelligence%20and%20Security%20Center.md) | Director of the National Counterintelligence and Security Center. |
+| [3383\.](Subchapter%20005%20%28V%29%20-%20Management%20of%20Counterintelligence%20Activities/%C2%A7%2003383%20-%20National%20Counterintelligence%20and%20Security%20Center.md) | National Counterintelligence and Security Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

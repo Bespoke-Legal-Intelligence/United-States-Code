@@ -18,5 +18,5 @@
 
 #### References in Text
 
-The date of the enactment of the Human Rights Enforcement Act of 2009, referred to in subsec. (a), is thedate of enactment of Pub. L. 111–122, which was approved Dec. 22, 2009.
+The date of the enactment of the Human Rights Enforcement Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–122, which was approved Dec. 22, 2009.
 

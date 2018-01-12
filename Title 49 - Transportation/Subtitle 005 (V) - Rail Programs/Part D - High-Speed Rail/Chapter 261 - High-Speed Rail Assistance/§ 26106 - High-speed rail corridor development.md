@@ -60,7 +60,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;(A) require—
 
-&emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008;
+&emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section211 of the Passenger Rail Investment and Improvement Act of 2008;
 
 &emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
 

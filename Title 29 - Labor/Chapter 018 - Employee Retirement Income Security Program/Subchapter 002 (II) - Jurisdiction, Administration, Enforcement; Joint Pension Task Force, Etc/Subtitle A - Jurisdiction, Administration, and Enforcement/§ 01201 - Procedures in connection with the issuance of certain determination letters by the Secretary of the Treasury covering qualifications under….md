@@ -6,7 +6,7 @@ Before issuing an advance determination of whether a pension, profit-sharing, or
 
 #### (b) Opportunity to comment on application
 
-(1) Whenever an application is made to the Secretary of the Treasury for a determination of whether a pension, profit-sharing, or stock bonus plan, a trust which is a part of such a plan, or an annuity or bond purchase plan meets the requirements of part I of subchapter D of chapter 1 of title 26, the Secretary shall upon request afford an opportunity to comment on the application at any time within 45 days after receipt thereof to—
+(1) Whenever an application is made to the Secretary of the Treasury for a determination of whether a pension, profit-sharing, or stock bonus plan, a trust which is a part of such a plan, or an annuity or bond purchase plan meetsthe requirements of part I of subchapter D of chapter 1 of title 26, the Secretary shall upon request afford an opportunity to comment on the application at any time within 45 days after receipt thereof to—
 
 &emsp;(A) any employee or class of employee qualifying as an interested party within the meaning of the regulations referred to in subsection (a).<sup>1</sup>
 

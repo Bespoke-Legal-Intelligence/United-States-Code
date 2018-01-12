@@ -10,7 +10,7 @@
 
 &emsp;(2) a majority of the members of the board finds that the officer is fully qualified for promotion; and
 
-&emsp;(3) a majority of the members of the board, after consideration by all members of theboard of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
+&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
 
 (d) Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and appli
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

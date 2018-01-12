@@ -2,13 +2,13 @@
 
 #### (a) Form; assurances; public hearings
 
-(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
+(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b).
 
 (2) After the expiration of the first fiscal year for which a State receives funds under this subchapter, no funds shall be allotted to such State for any fiscal year under this subchapter unless such State conducts public hearings with respect to the proposed use and distribution of funds to be provided under this subchapter for such fiscal year.
 
 #### (b) Certifications required for covered activities
 
-As part of the annual application required by subsection (a) of this section, the chief executive officer of each State shall certify that the State agrees to—
+As part of the annual application required by subsection (a), the chief executive officer of each State shall certify that the State agrees to—
 
 &emsp;(1) use the funds available under this subchapter to—
 
@@ -76,9 +76,9 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(11) permit and cooperate with Federal investigations undertaken in accordance with section 8627 of this title;
 
-&emsp;(12) provide for timely and meaningful public participation in the development of the plan described in subsection (c) of this section;
+&emsp;(12) provide for timely and meaningful public participation in the development of the plan described in subsection (c);
 
-&emsp;(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) of this section are denied or are not acted upon with reasonable promptness;
+&emsp;(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) are denied or are not acted upon with reasonable promptness;
 
 &emsp;(14) cooperate with the Secretary with respect to data collecting and reporting under section 8629 of this title;
 
@@ -92,7 +92,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 #### (c) State plan; revision; public inspection
 
-(1) As part of the annual application required in subsection (a) of this section, the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
+(1) As part of the annual application required in subsection (a), the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
 
 &emsp;(A) describes the eligibility requirements to be used by the State for each type of assistance to be provided under this subchapter, including criteria for designating an emergency under section 8623(c) of this title;
 
@@ -100,11 +100,11 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 &emsp;(C) contains estimates of the amount of funds the State will use for each of the programs under such plan and describes the alternative use of funds reserved under section 8623(c) of this title in the event any portion of the amount so reserved is not expended for emergencies;
 
-&emsp;(D) describes weatherization and other energy-related home repair the State will provide under subsection (k) of this section, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
+&emsp;(D) describes weatherization and other energy-related home repair the State will provide under subsection (k), including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
 
-&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
+&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b)) to target assistance to households with high home energy burdens;
 
-&emsp;(F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b) of this section;
+&emsp;(F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b);
 
 &emsp;(G) states, with respect to the 12-month period specified by the Secretary, the number and income levels of households which apply and the number which are assisted with funds provided under this subchapter, and the number of households so assisted with—
 
@@ -128,7 +128,7 @@ The State shall expend funds in accordance with the State plan under this subcha
 
 #### (e) Conduct of audits
 
-Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall beconducted in accordance with chapter 75 of title 31.
+Each State shall, in carrying out the requirements of subsection (b)(10), obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
 
 #### (f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction
 
@@ -150,7 +150,7 @@ The Comptroller General of the United States shall, from time to time <sup>2</s
 
 #### (i) Certain recipients of supplemental security income ineligible for payments or assistance
 
-A household which is described in subsection (b)(2)(A) of this section solely by reason of clause (ii) thereof shall not be treated as a household described in subsection (b)(2) of this section if the eligibility of the household is dependent upon—
+A household which is described in subsection (b)(2)(A) solely by reason of clause (ii) thereof shall not be treated as a household described in subsection (b)(2) if the eligibility of the household is dependent upon—
 
 &emsp;(1) an individual whose annual supplemental security income benefit rate is reduced pursuant to section 1611(e)(1) of the Social Security Act \[42 U.S.C. 1382(e)(1)\] by reason of being in an institution receiving payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] with respect to such individual;
 
@@ -160,7 +160,7 @@ A household which is described in subsection (b)(2)(A) of this section solely by
 
 #### (j) State verification of income eligibility; policies and procedures applicable
 
-In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
+In verifying income eligibility for purposes of subsection (b)(2)(B), the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
 
 #### (k) Limitation on use of funds; waiver
 
@@ -182,7 +182,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request to the Secretary after March 31 of such fiscal year and if the Secretary determines, after reviewing such request and any public comments, that—
 
-&emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not befewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
+&emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not be fewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
 
 &emsp;(II) the aggregate amounts of benefits that will be received under this subchapter by all households in the State in such fiscal year will not be less than the aggregate amount of such benefits that were received under this subchapter by all households in the State in the preceding fiscal year; and
 
@@ -192,11 +192,11 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 #### (l) State tax credits to energy suppliers who supply home energy at reduced rates to low-income households
 
-(1) Any State may use amounts provided under this subchapter for the purpose of providing credits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
+(1) Any State may use amounts provided under this subchapter for the purpose of providingcredits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
 
 (2) Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
 
-(3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
+(3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) and suppliers will not be impeded by the use of such data.
 
 (Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–79, title IV, §4006(b), Feb. 7, 2014, 128 Stat. 787.)
 
@@ -234,7 +234,7 @@ Subsec. (f)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(EE), substituted "Food a
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–285, §306(1)(C), (D), struck out "The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection." in provisions after par. (14) and inserted identical language before "The Secretary shall issue" in concluding provisions after par. (16).
 
-Subsec. (b)(9)(A). Pub. L. 105–285, §306(1)(A), struck out "and not transferred pursuant to section 8623(f) ofthis title for use under another block grant" before the semicolon.
+Subsec. (b)(9)(A). Pub. L. 105–285, §306(1)(A), struck out "and not transferred pursuant to section 8623(f) of this title for use under another block grant" before the semicolon.
 
 Subsec. (b)(14). Pub. L. 105–285, §306(1)(B), struck out "and" at end.
 
@@ -250,7 +250,7 @@ Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at e
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
-Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
+Pub. L. 103–252, §311(b), inserted at end "Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the successof the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements."
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;".
 
@@ -390,7 +390,7 @@ Applicability.—This section applies to programs under the United States Housin
 
 "(d)
 
-Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to theamount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5))."
+Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(K) In Tennessee, the counties of Anderson, Bledsoe, Blount, Bradley, Campbell, Cannon, Carter, Claiborne, Clay, Cocke, Coffee, Cumberland, De Kalb, Fentress, Franklin, Grainger, Greene, Grundy, Hamblen, Hamilton, Hancock, Hawkins, Jackson, Jefferson, Johnson, Knox, Lawrence, Lewis, Loudon, McMinn, Macon, Marion, Meigs, Monroe, Morgan, Overton, Pickett, Polk, Putnam, Rhea, Roane, Scott, Sequatchie, Sevier, Smith, Sullivan, Unicoi, Union, Van Buren, Warren, Washington, and White.
 
-&emsp;&emsp;(L) In Virginia, the counties of Alleghany, Bath, Bland, Botetourt, Buchanan, Carroll, Craig, Dickenson, Floyd, Giles, Grayson, Henry, Highland, Lee, Montgomery, Patrick, Pulaski, Rockbridge, Russell, Scott, Smyth, Tazewell, Washington, Wise, and Wythe.
+&emsp;&emsp;(L) In Virginia, the counties of Alleghany, Bath, Bland, Botetourt, Buchanan, Carroll,Craig, Dickenson, Floyd, Giles, Grayson, Henry, Highland, Lee, Montgomery, Patrick, Pulaski, Rockbridge, Russell, Scott, Smyth, Tazewell, Washington, Wise, and Wythe.
 
 &emsp;&emsp;(M) All the counties of West Virginia.
 

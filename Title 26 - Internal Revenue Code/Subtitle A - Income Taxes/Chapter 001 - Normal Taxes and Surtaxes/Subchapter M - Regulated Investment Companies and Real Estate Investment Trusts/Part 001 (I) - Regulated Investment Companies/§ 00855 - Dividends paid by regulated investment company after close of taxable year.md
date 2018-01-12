@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 99–514, §655(a)(5), substituted "60 days" for "45 days".
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 effective as if included in the provision of the Regulated Investment CompanyModernization Act of 2010, Pub. L. 111–325, to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under section 852(b)(8) of this title, see section 205(f) of Pub. L. 113–295, set out as a note under section 852 of this title.
+Amendment by Pub. L. 113–295 effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, Pub. L. 111–325, to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under section 852(b)(8) of this title, see section 205(f) of Pub. L. 113–295, set out as a note under section 852 of this title.
 
 #### Effective Date of 2010 Amendment
 

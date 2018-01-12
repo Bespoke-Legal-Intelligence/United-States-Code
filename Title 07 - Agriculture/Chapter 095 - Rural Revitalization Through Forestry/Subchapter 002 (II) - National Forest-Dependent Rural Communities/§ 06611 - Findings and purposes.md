@@ -40,5 +40,5 @@ Subsec. (a)(5). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(C)\], s
 
 Subsec. (a)(6). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(D)\], substituted "National Forest System land resources" for "national forest resources".
 
-Subsec. (b)(1). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(2)\], substituted "National Forest System land" for "national forests" and "natural resources" for "forest resources".
+Subsec. (b)(1). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(2)\], substituted "National Forest System land"for "national forests" and "natural resources" for "forest resources".
 

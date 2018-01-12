@@ -54,7 +54,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
-(ii) Complaints may be filed by any aggrieved person or organization (including bargainingrepresentatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
+(ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 
 (iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity has misrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
 
@@ -64,7 +64,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (D) Under the process established under subparagraph (B), the Secretary shall provide, within 180 days after the date a complaint is filed (or later for good cause shown), for a determination as to whether or not a basis exists to make a finding described in subparagraph (E). The Secretary shall provide notice of such determination to the interested parties and an opportunity for a hearing on the complaint within 60 days of the date of the determination.
 
-(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
+(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the AttorneyGeneral shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
 
 (ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, that, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in subparagraph (B)(i), the Secretary shall notify the Attorney General of such finding and, thereafter, the attestation described in paragraph (1) shall be required of the employer for the performance of the particular activity.
 
@@ -118,7 +118,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (4) Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 
-&emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
+&emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipatesthe longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
 &emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
@@ -152,7 +152,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;For purposes of this subsection, the term "in practice" refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29,1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 

@@ -1,0 +1,6 @@
+### §5676. Transferred
+
+#### Codification
+
+Section 5676 was editorially reclassified as section 11186 of Title 34, Crime Control and Law Enforcement.
+

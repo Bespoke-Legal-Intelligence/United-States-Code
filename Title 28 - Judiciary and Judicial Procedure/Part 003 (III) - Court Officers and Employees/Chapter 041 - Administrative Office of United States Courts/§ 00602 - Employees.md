@@ -8,7 +8,7 @@
 
 (d) All functions of other officers and employees of the Administrative Office and all functions of organizational units of the Administrative Office are vested in the Director. The Director may delegate any of the Director's functions, powers, duties, and authority (except the authority to promulgate rules and regulations) to such officers and employees of the judicial branch of Government as the Director may designate, and subject to such terms and conditions as the Director may consider appropriate; and may authorize the successive redelegation of such functions, powers, duties, and authority as the Director may deem desirable. All official acts performed by such officers and employees shall have the same force and effect as though performed by the Director in person.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 95–539, §5, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 101–474, §5(a), (q), Oct. 30, 1990, 104 Stat. 1099, 1101; Pub. L. 101–650, title III, §325(b)(4), Dec. 1, 1990, 104 Stat. 5121.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 95–539, §5, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 101–474,§5(a), (q), Oct. 30, 1990, 104 Stat. 1099, 1101; Pub. L. 101–650, title III, §325(b)(4), Dec. 1, 1990, 104 Stat. 5121.)
 
 #### Historical and Revision Notes
 
@@ -86,7 +86,7 @@ Pub. L. 101–474, §§1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, pro
 
 &emsp;"(8) prohibit personnel practices prohibited under section 2302(b) of title 5, United States Code;
 
-&emsp;"(9) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; the Director must promulgate regulations providing procedures for resolving complaints of discrimination by employees and applicants for employment;
+&emsp;"(9) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; the Director must promulgate regulations providingprocedures for resolving complaints of discrimination by employees and applicants for employment;
 
 &emsp;"(10) provide for the basic pay of not more than 5 percent of the authorized positions of the Administrative Office (excluding the positions referred to in section 603 of title 28, United States Code) to be set at rates not to exceed the rate of basic pay for positions at level IV of the Executive Schedule; the aggregate pay (including basic pay and incentive awards) of any individual whose basic pay is set under this subsection may not exceed the salary of the Director; and
 
@@ -128,5 +128,5 @@ Pub. L. 95–539, §11, Oct. 28, 1978, 92 Stat. 2045, provided that: "Any contra
 
 #### Employment of Experts or Consultants; Rates
 
-Pub. L. 86–370, §5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office ofthe United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, §8, Oct. 28, 1978, 92 Stat. 2044.
+Pub. L. 86–370, §5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, §8, Oct. 28, 1978, 92 Stat. 2044.
 

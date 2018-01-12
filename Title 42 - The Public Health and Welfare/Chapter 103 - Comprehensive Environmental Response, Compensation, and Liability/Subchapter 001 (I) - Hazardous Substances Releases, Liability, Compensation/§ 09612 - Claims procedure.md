@@ -2,7 +2,7 @@
 
 #### (a) Claims against Fund for response costs
 
-No claim may be asserted against the Fund pursuant to section 9611(a) of this title unless such claim is presented in the first instance tothe owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within 60 days of presentation in accordance with this subsection, the claimant may present the claim to the Fund for payment. No claim against the Fund may be approved or certified during the pendency of an action by the claimant in court to recover costs which are the subject of the claim.
+No claim may be asserted against the Fund pursuant to section 9611(a) of this title unless such claim is presented in the first instance to the owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within 60 days of presentation in accordance with this subsection, the claimant may present the claim to the Fund for payment. No claim against the Fund may be approved or certified during the pendency of an action by the claimant in court to recover costs which are the subject of the claim.
 
 #### (b) Forms and procedures applicable
 
@@ -62,7 +62,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (e) Other statutory or common law claims not waived, etc.
 
-Regardless of any State statutory or common law to the contrary, no person who asserts a claim against the Fund pursuant to this subchapter shall be deemed or held to have waived any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances, nor to have split a cause of action. Further, no person asserting a claim against the Fund pursuant to this subchapter shall as a result of any determination of a question of fact or law made in connection with that claim be deemed or held to be collaterally estopped from raising such question in connection with any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances.
+Regardless of any State statutory or common law to the contrary, no person who asserts a claim against the Fund pursuant to this subchapter shall be deemed or held to have waived any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances, nor to have split a cause of action. Further, no person asserting a claim against the Fund pursuant to this subchapter shall as a result of any determination of a question of fact or law made in connection with that claim be deemed or held to be collaterally estopped from raising such question in connection with any other claim not covered or assertable against the Fund under this subchapter arisingfrom the same incident, transaction, or set of circumstances.
 
 #### (f) Double recovery prohibited
 

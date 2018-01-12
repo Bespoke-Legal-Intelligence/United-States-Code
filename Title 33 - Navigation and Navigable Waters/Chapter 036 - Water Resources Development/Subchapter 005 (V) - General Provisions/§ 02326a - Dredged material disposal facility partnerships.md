@@ -32,7 +32,7 @@
 
 #### (2) Performance
 
-&emsp;One or more of the parties to a partnership agreement under this subsection may performthe acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility.
+&emsp;One or more of the parties to a partnership agreement under this subsection may perform the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility.
 
 #### (3) Multiple projects
 
@@ -112,7 +112,7 @@
 
 #### References in Text
 
-The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Codification
 

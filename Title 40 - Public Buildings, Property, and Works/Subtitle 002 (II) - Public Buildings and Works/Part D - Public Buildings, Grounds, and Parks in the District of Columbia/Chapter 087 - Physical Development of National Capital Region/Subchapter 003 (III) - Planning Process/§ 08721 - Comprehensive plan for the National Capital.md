@@ -46,7 +46,7 @@ Findings and recommendations rejected.—If the Council rejects the findings and
 
 (d)
 
-Resubmission Deemed New Element or Amendment.—Any element or amendment which the Commission has determined has a negativeimpact on the federal establishment in the National Capital which is submitted again in a modified form not less than one year from the day it was last rejected by the Commission is deemed to be a new element or amendment for purposes of the review procedure specified in this section.
+Resubmission Deemed New Element or Amendment.—Any element or amendment which the Commission has determined has a negative impact on the federal establishment in the National Capital which is submitted again in a modified form not less than one year from the day it was last rejected by the Commission is deemed to be a new element or amendment for purposes of the review procedure specified in this section.
 
 (e)
 
@@ -134,7 +134,7 @@ June 6, 1924, ch. 270, §2(a)(3), (4), as added July 19, 1952, ch. 949, §1, 66 
 
 June 6, 1924, ch. 270, §2(d), as added July 19, 1952, ch. 949, §1, 66 Stat. 783.
 
-In subsection (a), the text of 40:71c(a) (2d, 3d sentences) and reference to the National Capital Regional Planning Council are omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). The words "from time to time" are omitted as unnecessary.
+In subsection (a), the text of 40:71c(a) (2d, 3d sentences) and reference to the National Capital RegionalPlanning Council are omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). The words "from time to time" are omitted as unnecessary.
 
 In subsection (e)(2), before clause (A), the words "in addition and at its discretion" are omitted as unnecessary.
 

@@ -1,6 +1,6 @@
 ### §§802 to 807. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section 802, acts Aug. 13, 1946, ch. 957, title I, §121, 60 Stat. 1000; Oct. 7, 1978, Pub. L. 95–426, title I, §116, 92 Stat. 969, set forth definitions applicable to provisions of this chapter.
+Section 802, acts Aug. 13, 1946, ch. 957, title I, §121, 60 Stat. 1000; Oct. 7, 1978, Pub. L. 95–426, title I, §116, 92Stat. 969, set forth definitions applicable to provisions of this chapter.
 
 Section 803, act Aug. 13, 1946, ch. 957, title X, §1001, 60 Stat. 1030, related to prohibition on wearing of uniforms.
 

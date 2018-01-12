@@ -26,7 +26,7 @@ Words "or aid in concealing" were omitted as unnecessary in view of definitive s
 
 Words "or any corporation in which the United States of America is a stockholder" in said section 82 were omitted as unnecessary in view of definition of "agency" in section 6 of this title.
 
-The provisions for fine of not more than $1,000 or imprisonment of not more than 1 year for an offense involving $100 or less and for fine of not more than $10,000 or imprisonment of not more than 10 years, or both, foran offense involving a greater amount were written into this section as more in conformity with the later congressional policy expressed in sections 82 and 87 of title 18, U.S.C., 1940 ed., than the nongraduated penalties of sections 100 and 101 of said title 18.
+The provisions for fine of not more than $1,000 or imprisonment of not more than 1 year for an offense involving $100 or less and for fine of not more than $10,000 or imprisonment of not more than 10 years, or both, for an offense involving a greater amount were written into this section as more in conformity with the later congressional policy expressed in sections 82 and 87 of title 18, U.S.C., 1940 ed., than the nongraduated penalties of sections 100 and 101 of said title 18.
 
 Since the purchasing power of the dollar is less than it was when $50 was the figure which determined whether larceny was petit larceny or grand larceny, the sum $100 was substituted as more consistent with modern values.
 
@@ -34,7 +34,7 @@ The meaning of "value" in the last paragraph of the revised section is written t
 
 This section incorporates the recommendation of Paul W. Hyatt, president, board of commissioners of the Idaho State Bar Association, that sections 82 and 100 of title 18, U.S.C., 1940 ed., be combined and simplified.
 
-Also, with respect to section 101 of title 18, U.S.C., 1940 ed., this section meets the suggestion of P. F. Herrick, United States attorney for Puerto Rico, that the punishment provision of said section be amended to make the offense a misdemeanor where the amount involved is $50 or less.
+Also, with respect to section 101 of title 18, U.S.C., 1940 ed., this section meets the suggestion of P. F. Herrick, United States attorney for Puerto Rico, that thepunishment provision of said section be amended to make the offense a misdemeanor where the amount involved is $50 or less.
 
 Changes were made in phraseology.
 

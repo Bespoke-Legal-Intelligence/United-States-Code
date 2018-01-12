@@ -46,6 +46,10 @@ The Secretary of Agriculture is authorized to undertake emergency measures, incl
 
 <b>1996</b>—Pub. L. 104–127 inserted ", including the purchase of floodplain easements," after "emergency measures".
 
+#### Effective Date
+
+Section effective Oct. 1, 1978, see section 406 of Pub. L. 95–334, set out as a note under section 2201 of this title.
+
 #### Disaster Assistance for Watershed Protection Activities
 
 Pub. L. 100–387, title IV, §402, as added Pub. L. 101–82, title V, §503, Aug. 14, 1989, 103 Stat. 586, provided that:

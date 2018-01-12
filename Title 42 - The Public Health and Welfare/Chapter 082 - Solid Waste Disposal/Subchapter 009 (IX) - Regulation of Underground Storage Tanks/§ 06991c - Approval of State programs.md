@@ -28,27 +28,27 @@ Beginning 30 months after November 8, 1984, any State may,<sup>1</sup> submit an
 
 #### (b) Federal standards
 
-(1) A State program submitted under this section may be approved only if the requirements under paragraphs (1) through (7) of subsection (a) of this section are no less stringent than the corresponding requirements standards promulgated by the Administrator pursuant to section 6991b(a) of this title.
+(1) A State program submitted under this section may be approved only if the requirements under paragraphs (1) through (7) of subsection (a) are no less stringent than the corresponding requirements standards promulgated by the Administrator pursuant to section 6991b(a) of this title.
 
-(2)(A) A State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) of this section are less stringent than the corresponding standards under section 6991b(a) of this title during the one-year period commencing on the date of promulgation of regulations under section 6991b(a) of this title if State regulatory action but no State legislative action is required in order to adopt a State program.
+(2)(A) A State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) are less stringent than the corresponding standards under section 6991b(a) of this title during the one-year period commencing on the date of promulgation of regulations under section 6991b(a) of this title if State regulatory action but no State legislative action is required in order to adopt a State program.
 
-(B) If such State legislative action is required, the State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) of this section are less stringent than the corresponding standards under section 6991b(a) of this title during the two-year period commencing on the date of promulgation of regulations under section 6991b(a) of this title (and during an additional one-year period after such legislative action if regulations are required to be promulgated by the State pursuant to such legislative action).
+(B) If such State legislative action is required, the State program may be approved without regard to whether or not the requirements referred to in paragraphs (1), (2), (3), and (5) of subsection (a) are less stringent than the corresponding standards under section 6991b(a) of this title during the two-year period commencing on the date of promulgation of regulations under section 6991b(a) of this title (and during an additional one-year period after such legislative action if regulations are required to be promulgated by the State pursuant to such legislative action).
 
 #### (c) Financial responsibility
 
-(1) Corrective action and compensation programs administered by State or local agencies or departments may be submitted for approval under subsection (a)(6) of this section as evidence of financial responsibility.
+(1) Corrective action and compensation programs administered by State or local agencies or departments may be submitted for approval under subsection (a)(6) as evidence of financial responsibility.
 
 (2) Financial responsibility required by this subsection may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, qualification as a self-insurer or any other method satisfactory to the Administrator. In promulgating requirements under this subsection, the Administrator is authorized to specify policy or other contractual terms including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this subchapter.
 
 (3) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where with reasonable diligence jurisdiction in any State court of the Federal courts cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this subsection may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this paragraph such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(4) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financialresponsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(4) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
 (5) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
 (6)
 
-Withdrawal of approval.—After an opportunity for good faith, collaborative efforts to correct financial deficiencies with a State fund, the Administrator may withdraw approval of any State fund or State assurance program to be used as a financial responsibility mechanism without withdrawing approval of a State underground storage tank program under subsection (a) of this section.
+Withdrawal of approval.—After an opportunity for good faith, collaborative efforts to correct financial deficiencies with a State fund, the Administrator may withdraw approval of any State fund or State assurance program to be used as a financial responsibility mechanism without withdrawing approval of a State underground storage tank program under subsection (a).
 
 #### (d) EPA determination
 
@@ -70,7 +70,7 @@ Whenever the Administrator determines after public hearing that a State is not a
 
 &emsp;&emsp;&emsp;(i) corrective actions taken by the State under section 6991b(h)(7)(A) of this title;
 
-&emsp;&emsp;&emsp;(ii) necessary administrative expenses, as determined by the Administrator, that are directly related to State fund or State assurance programs under subsection (c)(1) of this section; or
+&emsp;&emsp;&emsp;(ii) necessary administrative expenses, as determined by the Administrator, thatare directly related to State fund or State assurance programs under subsection (c)(1); or
 
 &emsp;&emsp;&emsp;(iii) enforcement, by a State or a local government, of State or local regulations pertaining to underground storage tanks regulated under this subchapter.
 
@@ -90,7 +90,7 @@ Whenever the Administrator determines after public hearing that a State is not a
 
 #### (B) Diversion of State funds
 
-&emsp;&emsp;The Administrator shall not distribute funds under subparagraph (A)(iii) of subsection (f)(1) of this section to any State that has diverted funds from a State fund or State assurance program for purposes other than those related to the regulation of underground storage tanks covered by this subchapter, with the exception of those transfers that had been completed earlier than August 8, 2005.
+&emsp;&emsp;The Administrator shall not distribute funds under subparagraph (A)(iii) of subsection (f)(1) to any State that has diverted funds from a State fund or State assurance program for purposes other than those related to the regulation of underground storage tanks covered by this subchapter, with the exception of those transfers that had been completed earlier than August 8, 2005.
 
 #### (C) Revisions to process
 

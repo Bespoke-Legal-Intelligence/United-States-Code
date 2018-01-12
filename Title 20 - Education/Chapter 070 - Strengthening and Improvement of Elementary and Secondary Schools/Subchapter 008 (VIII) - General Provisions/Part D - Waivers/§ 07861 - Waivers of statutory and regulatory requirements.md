@@ -56,7 +56,7 @@
 
 #### (A) State educational agencies
 
-&emsp;&emsp;In the case of a waiver request submitted by a State educational agency acting on its own behalf, or on behalf of local educational agencies in the State under subsection (a)(2), the State educational agency shall—
+&emsp;&emsp;In the case of a waiver request submitted by a State educational agency acting on itsown behalf, or on behalf of local educational agencies in the State under subsection (a)(2), the State educational agency shall—
 
 &emsp;&emsp;&emsp;(i) provide the public and any interested local educational agency in the State with notice and a reasonable opportunity to comment and provide input on the request, to the extent that the request impacts the local educational agency;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) notify the State educational agency, local educational agency (through the State educational agency), school (through the local educational agency), or Indian tribe, as applicable, of such determination; and
 
-&emsp;&emsp;&emsp;&emsp;(II) provide detailed reasons for such determination in writing to the applicable entity under subclause (I) to the public, such as posting in a clear and easilyaccessible format to the Department's website;
+&emsp;&emsp;&emsp;&emsp;(II) provide detailed reasons for such determination in writing to the applicable entity under subclause (I) to the public, such as posting in a clear and easily accessible format to the Department's website;
 
 &emsp;&emsp;&emsp;(ii) offer the State educational agency, local educational agency (through the State educational agency), school (through the local educational agency), or Indian tribe an opportunity to revise and resubmit the waiver request by a date that is not more than 60 days after the date of such determination; and
 
@@ -190,7 +190,7 @@ A State educational agency, local educational agency, school, or Indian tribe re
 
 The Secretary shall terminate a waiver under this section if, after notice and an opportunity for a hearing, the Secretary—
 
-&emsp;(A) presents a rationale and supporting information that clearly demonstrates that thewaiver is not contributing to the progress of schools described in subsection (e)(1); or
+&emsp;(A) presents a rationale and supporting information that clearly demonstrates that the waiver is not contributing to the progress of schools described in subsection (e)(1); or
 
 &emsp;(B) determines that the waiver is no longer necessary to achieve its original purposes.
 
@@ -218,7 +218,7 @@ Subsec. (b)(1)(B) to (E). Pub. L. 114–95, §8013(2)(A)(iii), added subpars. (B
 
 Subsec. (b)(1)(F). Pub. L. 114–95, §8013(2)(A)(ii), (iv), redesignated subpar. (E) as (F) and inserted "and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement and school performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title" after "waivers are requested".
 
-Subsec. (b)(2)(B)(i)(II). Pub. L. 114–95, §8013(2)(B), substituted "(on behalf of those agencies or on behalf of, and based on the requests of, local educational agencies in the State)" for "(on behalf of, and based on the requests of, local educational agencies)".
+Subsec. (b)(2)(B)(i)(II). Pub. L. 114–95, §8013(2)(B), substituted "(on behalf of those agencies or on behalf of, and based on the requests of, local educational agenciesin the State)" for "(on behalf of, and based on the requests of, local educational agencies)".
 
 Subsec. (b)(3)(A). Pub. L. 114–95, §8013(2)(C)(i), inserted "or on behalf of local educational agencies in the State under subsection (a)(2)," after "acting on its own behalf," in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) to (iii) which read as follows:
 

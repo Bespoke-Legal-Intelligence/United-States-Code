@@ -42,7 +42,7 @@
 
 &emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in a withholding order issued in an action under this section with respect to the individual, and
 
-&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due anemployee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
+&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
 
 (2)(A) The head of an executive, judicial, or legislative agency may sue an employer in a State or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
 

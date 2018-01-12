@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) which is with respect to any applicable retained interest that is held by the transferor or an applicable family member immediately after the transfer,
 
-> &emsp;shall be determined under paragraph (3). This paragraph shall not apply to the transfer of any interest for which market quotations are readily available (as of the date of transfer) on an established securities market.
+> &emsp;shall be determined under paragraph (3). This paragraph shall not apply to the transfer ofany interest for which market quotations are readily available (as of the date of transfer) on an established securities market.
 
 #### (2) Exceptions for marketable retained interests, etc.
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) The taxable estate of the transferor in the case of a taxable event described in paragraph (3)(A)(i).
 
-&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable eventoccurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
+&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable event occurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
 
 #### (2) Amount of increase
 

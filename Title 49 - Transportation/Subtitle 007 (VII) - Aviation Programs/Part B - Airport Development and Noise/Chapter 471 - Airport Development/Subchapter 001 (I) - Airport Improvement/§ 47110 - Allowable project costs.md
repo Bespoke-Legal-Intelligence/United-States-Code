@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United StatesGovernment may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
@@ -166,7 +166,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §513(d); added Dec. 30, 1987, Pu
 
 Sept. 3, 1982, Pub. L. 97–248, §513(c), 96 Stat. 691; Dec. 30, 1987, Pub. L. 100–223, §111(b), 101 Stat. 1503; Oct. 31, 1992, Pub. L. 102–581, §107(c)(2), 106 Stat. 4879.
 
-In subsection (a), the words "for airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title.The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
+In subsection (a), the words "for airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title. The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
 
 In subsection (b)(1), the word "approved" is omitted as surplus because a project that was not approved could not be carried out in compliance with a grant agreement. The words "in compliance with the grant agreement made for the project under this subchapter" are substituted for "in conformity with the terms and conditions of the grant agreement entered into in connection with the project" to eliminate unnecessary words. The word "sponsor" is substituted for "recipient" for clarity.
 
@@ -239,7 +239,7 @@ Subsec. (e)(5). Pub. L. 106–181, §127(2), added par. (5) and struck out forme
 
 &emsp;"(i) during the fiscal year ending September 30, 1994;
 
-&emsp;"(ii) before a grant agreement is executed for the project but according to an airport layout plan theSecretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
+&emsp;"(ii) before a grant agreement is executed for the project but according to an airport layout plan the Secretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
 
 &emsp;"(iii) for work related to a project for which a grant agreement previously was executed during the fiscal year ending September 30, 1994;".
 
@@ -291,7 +291,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
-Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], toissue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–143, title III, §320, Oct. 28, 1991, 105 Stat. 942.
 

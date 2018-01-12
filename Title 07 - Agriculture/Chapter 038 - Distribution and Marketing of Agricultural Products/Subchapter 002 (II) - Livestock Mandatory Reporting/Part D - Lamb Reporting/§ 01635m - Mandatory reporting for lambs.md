@@ -18,7 +18,7 @@ If the Secretary establishes a mandatory price reporting program under subsectio
 
 #### Lamb Reporting
 
-Pub. L. 114–54, title I, §103, Sept. 30, 2015, 129 Stat. 514, provided that: "Not later than 180 days after the dateof enactment of this Act \[Sept. 30, 2015\], the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—
+Pub. L. 114–54, title I, §103, Sept. 30, 2015, 129 Stat. 514, provided that: "Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2015\], the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—
 
 &emsp;"(1) the definition of the term 'importer'—
 

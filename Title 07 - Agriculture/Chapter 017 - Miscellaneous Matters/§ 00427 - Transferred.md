@@ -1,0 +1,6 @@
+### §427. Transferred
+
+#### Codification
+
+Section 427 was editorially reclassified as section 3104 of this title.
+

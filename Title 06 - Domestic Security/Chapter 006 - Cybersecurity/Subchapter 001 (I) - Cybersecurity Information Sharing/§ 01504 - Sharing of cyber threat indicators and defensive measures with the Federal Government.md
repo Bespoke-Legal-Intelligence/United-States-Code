@@ -66,7 +66,7 @@
 
 #### (1) Interim guidelines
 
-&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entityobtained in connection with activities authorized in this subchapter.
+&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
 
 #### (2) Final guidelines
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(E) does not limit or prohibit otherwise lawful disclosures of communications, records, or other information, including—
 
-&emsp;&emsp;&emsp;(i) reporting of known or suspected criminal activity, by a non-Federal entityto any other non-Federal entity or a Federal entity, including cyber threat indicators or defensive measures shared with a Federal entity in furtherance of opening a Federal law enforcement investigation;
+&emsp;&emsp;&emsp;(i) reporting of known or suspected criminal activity, by a non-Federal entity to any other non-Federal entity or a Federal entity, including cyber threat indicators or defensive measures shared with a Federal entity in furtherance of opening a Federal law enforcement investigation;
 
 &emsp;&emsp;&emsp;(ii) voluntary or legally compelled participation in a Federal investigation; and
 
@@ -140,7 +140,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At any time after certification is submitted under subparagraph (A), the President may designate an appropriate Federal entity, other than the Department of Defense (including the National Security Agency), to develop and implement a capability and process as described in paragraph (1) in addition to the capability and process developed under such paragraph by the Secretary of Homeland Security, if, not fewer than 30 days before making such designation, the President submits to Congress a certification and explanation that—
+&emsp;&emsp;&emsp;At any time after certification is submitted under subparagraph (A), the President may designate an appropriate Federal entity, other than the Department of Defense (including the National Security Agency), to develop and implement a capability and process as described in paragraph (1) in addition to the capability andprocess developed under such paragraph by the Secretary of Homeland Security, if, not fewer than 30 days before making such designation, the President submits to Congress a certification and explanation that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such designation is necessary to ensure that full, effective, and secure operation of a capability and process for the Federal Government to receive from any non-Federal entity cyber threat indicators or defensive measures under this subchapter;
 
@@ -184,7 +184,7 @@
 
 #### (4) Ex parte communications
 
-&emsp;The provision of a cyber threat indicator or defensive measure to the Federal Governmentunder this subchapter shall not be subject to a rule of any Federal agency or department or any judicial doctrine regarding ex parte communications with a decision-making official.
+&emsp;The provision of a cyber threat indicator or defensive measure to the Federal Government under this subchapter shall not be subject to a rule of any Federal agency or department or any judicial doctrine regarding ex parte communications with a decision-making official.
 
 #### (5) Disclosure, retention, and use
 

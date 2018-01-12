@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulationof less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -68,7 +68,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures ascompiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -80,7 +80,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
-&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used inthe operation of a farm, if no more than five employees are employed in the establishment in such operations; or
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
@@ -118,7 +118,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (c) Child labor requirements
 
-(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relatingto child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
+(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
 &emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
@@ -268,7 +268,7 @@ The provisions of sections 206, 207, 211, and 212 of this title shall not apply 
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
-The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employing such employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is under common control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
+The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employing such employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is undercommon control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
 
 #### (h) Maximum hour requirement: fourteen workweek limitation
 
@@ -332,7 +332,7 @@ Section 206(a)(5) of this title, referred to in subsec. (c)(1)(A), was redesigna
 
 Section 206(a)(3) of this title, referred to in subsec. (e), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, asamended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification
 
@@ -390,7 +390,7 @@ Subsec. (i). Pub. L. 95–151, §6(b), added subsec. (i).
 
 Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L.93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L. 93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
@@ -458,7 +458,7 @@ Subsec. (a)(8). Pub. L. 89–601, §205, substituted "where published" for "wher
 
 Subsec. (a)(9). Pub. L. 89–601, §§206(a), 207, repealed par. (9) relating to employees of street, suburban, or interurban electric railways, or local trolleys or motor bus carriers not in a section 203(s) enterprise and enacted a new par. (9) relating to employees employed by motion picture theaters. See subsec. (b)(7) of this section.
 
-Subsec. (a)(10). Pub. L. 89–601, §§204(a), 215(b)(1), repealed par. (10) relating to employees engaged in handling and processing of agricultural, horticultural, and dairy products and redesignated par. (11) as (10). See section 207(d) of this title.
+Subsec. (a)(10). Pub. L. 89–601, §§204(a), 215(b)(1), repealed par. (10) relating to employees engaged in handling and processing of agricultural, horticultural, anddairy products and redesignated par. (11) as (10). See section 207(d) of this title.
 
 Subsec. (a)(11). Pub. L. 89–601, §215(b)(1), redesignated par. (13) as (11). Former par. (11) redesignated (10).
 

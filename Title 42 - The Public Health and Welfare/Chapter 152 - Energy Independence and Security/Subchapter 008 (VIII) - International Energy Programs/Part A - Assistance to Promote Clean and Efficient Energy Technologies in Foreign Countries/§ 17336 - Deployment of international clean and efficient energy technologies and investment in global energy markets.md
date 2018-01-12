@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(C) integrate into the foreign policy objectives of the United States the promotion of—
 
-&emsp;&emsp;&emsp;(i) the deployment of clean and efficient energy technologies and the reduction ofgreenhouse gas emissions in developing countries; and
+&emsp;&emsp;&emsp;(i) the deployment of clean and efficient energy technologies and the reduction of greenhouse gas emissions in developing countries; and
 
 &emsp;&emsp;&emsp;(ii) the export of clean and efficient energy technologies; and
 
@@ -141,6 +141,10 @@
 There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2020.
 
 (Pub. L. 110–140, title IX, §916, Dec. 19, 2007, 121 Stat. 1728.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

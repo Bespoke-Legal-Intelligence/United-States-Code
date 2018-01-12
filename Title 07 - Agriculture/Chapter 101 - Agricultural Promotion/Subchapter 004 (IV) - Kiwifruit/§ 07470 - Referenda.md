@@ -4,7 +4,7 @@
 
 #### (1) Referendum required
 
-&emsp;During the 60-day period immediately preceding the proposed effective date of an order issued under section 7463 of this title, the Secretary shall conduct a referendum among kiwifruit producers and importers who will be subject to assessments under the order, to ascertain whether producers and importers approve the implementation of the order.
+&emsp;During the 60-day period immediately preceding the proposed effective date of an orderissued under section 7463 of this title, the Secretary shall conduct a referendum among kiwifruit producers and importers who will be subject to assessments under the order, to ascertain whether producers and importers approve the implementation of the order.
 
 #### (2) Approval of order
 

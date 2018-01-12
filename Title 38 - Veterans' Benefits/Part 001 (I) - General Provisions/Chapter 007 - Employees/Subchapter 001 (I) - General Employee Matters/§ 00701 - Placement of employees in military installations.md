@@ -10,3 +10,161 @@ Prior sections 701 and 702 were renumbered sections 1901 and 1902 of this title,
 
 Provisions similar to those in this section were contained in section 231 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Reemployment of Former Employees at Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §204, Aug. 12, 2017, 131 Stat. 963, provided that:
+
+"(a)
+
+In General.—Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Secretary of Veterans Affairs may noncompetitively appoint a qualified former career or career conditional employee to any position within the competitive service at the Department of Veterans Affairs that is one grade or equivalent higher than the grade or equivalent of the position at the Department most recently occupied by the employee.
+
+"(b)
+
+Limitation.—The Secretary may not appoint a qualified former employee to a position that is more than one grade (or equivalent) higher than the position at the Department most recently occupied by the employee.
+
+"(c)
+
+Definition of Qualified Former Employee.—For purposes of this section, the term 'qualified former employee' means any individual who—
+
+&emsp;"(1) formerly occupied any career or career conditional position at the Department of Veterans Affairs within 2 years before applying for reemployment at the Department;
+
+&emsp;"(2) voluntarily left such position, or was subject to a reduction in force, and had a satisfactory performance record while occupying such position; and
+
+&emsp;"(3) since leaving such position has maintained licensing requirements, related to the position, if any, and gained skill, knowledge, or other factors related to the position."
+
+#### Promotional Opportunities for Technical Experts at Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §205, Aug. 12, 2017, 131 Stat. 963, provided that: "Not later than one year after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall establish a promotional track system for employees of the Department of Veterans Affairs that the Secretary determines are technical experts pursuant to regulations prescribed by the Secretary for purposes of carrying out this section. Such system shall—
+
+&emsp;"(1) provide any such employee the opportunity to advance within the Department without being required to transition to a management position; and
+
+&emsp;"(2) for purposes of achieving career advancement—
+
+&emsp;&emsp;"(A) provide for the establishment of new positions within the Department; and
+
+&emsp;&emsp;"(B) notwithstanding any other provision of law, provide for increases in pay for any such employee."
+
+#### Employment of Students and Recent Graduates by Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §206, Aug. 12, 2017, 131 Stat. 963, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall prescribe regulations to allow for excepted service appointments of students and recent graduates leading to conversion to career or career conditional employment of a student or recent graduate of a qualifying educational institution, as defined by the Department.
+
+"(b)
+
+Applicability.—The conversion authority described in subsection (a) shall be applicable to individuals in good standing who—
+
+&emsp;"(1) are employed in a qualifying internship or fellowship program at the Department;
+
+&emsp;"(2) are employed in the Department in a volunteer capacity and performing substantive duties comparable to those of individuals in internship or fellowship programs and meet the required number of hours for conversion;
+
+&emsp;"(3) are employed in the Department under a contract or agreement with an external nonprofit organization and performing substantive duties comparable to those of individuals in internship or fellowship programs;
+
+&emsp;"(4) have received educational assistance under chapter 33 of title 38, United States Code; or
+
+&emsp;"(5) graduated from a qualifying educational institution, as defined by the Department, and have not reached 30 years of age.
+
+"(c)
+
+Uniformity.—For the purposes of paragraphs (2) and (3) of subsection (b), hours of work performed by an individual employed shall be considered equal to those performed by an individual employed in a qualifying internship or fellowship program by the Department."
+
+#### Recruiting Database at Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §208, Aug. 12, 2017, 131 Stat. 964, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Veterans Affairs shall establish a single database that lists—
+
+&emsp;"(1) each vacant position in the Department of Veterans Affairs that the Secretary determines is critical to the mission of the Department, difficult to fill, or both; and
+
+&emsp;"(2) each vacant position in the Department of Veterans Affairs for a mental health professional.
+
+"(b)
+
+Qualified Applicant.—If the Secretary determines that an applicant for a vacant position listed in the database established under subsection (a) is qualified for such position but does not select the applicant for such position, the Secretary, at the election of the applicant, may consider the applicant for other similar vacant positions listed in the database for which the applicant is qualified.
+
+"(c)
+
+Prolonged Vacancies.—If the Secretary does not fill a vacant position listed in the database established under subsection (a) after a period determined appropriate by the Secretary, the Secretary—
+
+&emsp;"(1) may ensure that applicants described in subsection (b) are considered for such position; and
+
+&emsp;"(2) may use the database established under subsection (a) to assist in filling such position.
+
+"(d)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary shall submit to Congress a report on the use and efficacy of the database established under subsection (a)."
+
+#### Exit Surveys at Department of Veterans Affairs
+
+Pub. L. 115–46, title II, §211, Aug. 12, 2017, 131 Stat. 966, provided that:
+
+"(a)
+
+Exit Surveys Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall develop and carry out a standardized exit survey to be voluntarily completed by career and noncareer employees and executives of the Department of Veterans Affairs who voluntarily separate from the Department.
+
+&emsp;"(2)
+
+Consultation.—Such exit survey shall be developed in consultation with an appropriate non-Department entity with experience developing such surveys.
+
+"(b)
+
+Survey Content.—The survey shall include, at a minimum, the following:
+
+&emsp;"(1) Reasons for leaving the Department.
+
+&emsp;"(2) Efforts made by the supervisor of the employee to retain the individual.
+
+&emsp;"(3) The extent of job satisfaction and engagement during the employment.
+
+&emsp;"(4) The intent of \[the\] employee to either remain employed within the Federal Government or to leave employment with the Federal Government.
+
+&emsp;"(5) Such other matters as the Secretary determines appropriate.
+
+"(c)
+
+Anonymity of Survey Content.—The Secretary shall ensure that data collected under subsection (a)—
+
+&emsp;"(1) is anonymized, including through the use of a location that allows for privacy;
+
+&emsp;"(2) is not directly visible by another employee; and
+
+&emsp;"(3) does not require the departing employee to input any personally identifiable data.
+
+"(d)
+
+Sharing of Survey Data.—The Secretary shall ensure that the results of the survey required by subsection (a) are—
+
+&emsp;"(1) aggregated at the Veterans Integrated Service Network level; and
+
+&emsp;"(2) shared on an annual basis with directors and managers of facilities of the Department and the Veterans Integrated Service Networks.
+
+"(e)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Aug. 12, 2017\] and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing the aggregate results of the exit survey under subsection (a) covering the year prior to the report.
+
+&emsp;"(2)
+
+Contents.—Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
+
+&emsp;&emsp;"(A) An analysis of the most common reasons employees choose to leave the Department.
+
+&emsp;&emsp;"(B) The steps the Secretary is taking to improve retention, particularly for mission-critical occupations.
+
+&emsp;&emsp;"(C) The demographic characteristics of employees choosing to leave the Department.
+
+&emsp;&emsp;"(D) Any legislative barriers to improving employee retention.
+
+&emsp;&emsp;"(E) The total number of employees who voluntarily separated from the Department and the number and percentage of whom took the exit survey under subsection (a)."
+

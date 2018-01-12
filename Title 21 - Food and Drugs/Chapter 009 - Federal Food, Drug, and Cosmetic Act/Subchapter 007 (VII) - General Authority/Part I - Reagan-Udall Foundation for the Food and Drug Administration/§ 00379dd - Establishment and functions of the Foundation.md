@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the "Foundation") shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors undersubsection (e).<sup>1</sup> The Foundation shall not be an agency or instrumentality of the United States Government.
+A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the "Foundation") shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors under subsection (e).<sup>1</sup> The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -76,7 +76,7 @@ The Foundation shall—
 
 #### (ii) Additional members
 
-&emsp;&emsp;&emsp;The Board, through amendments to the bylaws of the Foundation, may providethat the number of voting members of the Board shall be a number (to be specified in such amendment) greater than 14. Any Board positions that are established by any such amendment shall be appointed (by majority vote) by the individuals who, as of the date of such amendment, are voting members of the Board and persons so appointed may represent any of the categories specified in subclauses (I) through (V) of clause (i), so long as no more than 30 percent of the total voting members of the Board (including members whose positions are established by such amendment) are representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries.
+&emsp;&emsp;&emsp;The Board, through amendments to the bylaws of the Foundation, may provide that the number of voting members of the Board shall be a number (to be specified in such amendment) greater than 14. Any Board positions that are established by any such amendment shall be appointed (by majority vote) by the individuals who, as of the date of such amendment, are voting members of the Board and persons so appointed may represent any of the categories specified in subclauses (I) through (V) of clause (i), so long as no more than 30 percent of the total voting members of the Board (including members whose positions are established by such amendment) are representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries.
 
 #### (iii) Requirements
 
@@ -236,7 +236,7 @@ The Executive Director may solicit and accept on behalf of the Foundation, any f
 
 #### (j) Service of Federal employees
 
-Federal Government employees may serve on committees advisory to the Foundation andotherwise cooperate with and assist the Foundation in carrying out its functions, so long as such employees do not direct or control Foundation activities.
+Federal Government employees may serve on committees advisory to the Foundation and otherwise cooperate with and assist the Foundation in carrying out its functions, so long as such employees do not direct or control Foundation activities.
 
 #### (k) Detail of Government employees; fellowships
 

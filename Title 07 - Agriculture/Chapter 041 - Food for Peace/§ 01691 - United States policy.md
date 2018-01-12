@@ -46,7 +46,7 @@ Pub. L. 89–808, §5, Nov. 11, 1966, 80 Stat. 1538, provided that: "This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: "This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Africa: Seeds of Hope Act of 1998'."
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: "This Act \[amending sections 1736f–1 and4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Africa: Seeds of Hope Act of 1998'."
 
 Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: "This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Bill Emerson Humanitarian Trust Act of 1998'."
 
@@ -80,7 +80,7 @@ Pub. L. 89–808, §1, Nov. 11, 1966, 80 Stat. 1526, provided: "That this Act \[
 
 #### Short Title
 
-Act July 10, 1954, ch. 469, §1, 68 Stat. 454, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104Stat. 3633; Pub. L. 110–246, title III, §3001(a), June 18, 2008, 122 Stat. 1820, provided that: "This Act \[enacting this chapter\] may be cited as the 'Food for Peace Act'."
+Act July 10, 1954, ch. 469, §1, 68 Stat. 454, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633; Pub. L. 110–246, title III, §3001(a), June 18, 2008, 122 Stat. 1820, provided that: "This Act \[enacting this chapter\] may be cited as the 'Food for Peace Act'."
 
 #### Minimum Level of Food Assistance
 
@@ -116,7 +116,7 @@ Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by
 
 #### Special Task Force
 
-Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint aspecial task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
 
 #### Executive Order No. 10560
 
@@ -170,7 +170,7 @@ Sec. 3. <i>Policy Coordination</i>. (a) To ensure policy coordination of assista
 
 Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon the President in section 403(j) of the Agricultural Trade Development Act \[7 U.S.C. 1733(j)\] is hereby delegated to the Secretary of State.
 
-(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
+(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act\[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
 (c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 

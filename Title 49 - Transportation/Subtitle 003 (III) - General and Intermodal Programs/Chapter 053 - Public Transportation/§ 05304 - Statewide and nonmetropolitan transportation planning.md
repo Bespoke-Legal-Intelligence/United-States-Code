@@ -44,7 +44,7 @@ Scope of Planning Process.—
 
 In general.—Each State shall carry out a statewide transportation planning process that provides for consideration and implementation of projects, strategies, and services that will—
 
-&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitan areas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
+&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitanareas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
 
 &emsp;&emsp;(B) increase the safety of the transportation system for motorized and nonmotorized users;
 
@@ -52,7 +52,7 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(D) increase the accessibility and mobility of people and freight;
 
-&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve thequality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
@@ -248,7 +248,7 @@ Consultation with governments.—
 
 &emsp;&emsp;(A)
 
-Metropolitan areas.—With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organizationdesignated for the metropolitan area under section 5303.
+Metropolitan areas.—With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organization designated for the metropolitan area under section 5303.
 
 &emsp;&emsp;(B)
 
@@ -342,7 +342,7 @@ No required selection.—Notwithstanding subparagraph (F), a State shall not be 
 
 &emsp;&emsp;&emsp;(ii)
 
-Required action by the secretary.—Action by the Secretary shall be required for a State to select any project from the illustrative list of additional projects included in the financial plan under subparagraph (F) for inclusion in an approved transportation improvement program.
+Required action by the secretary.—Action by the Secretary shall be required for a State to select any project from the illustrative list of additionalprojects included in the financial plan under subparagraph (F) for inclusion in an approved transportation improvement program.
 
 &emsp;&emsp;(H)
 
@@ -424,7 +424,7 @@ Designation of Regional Transportation Planning Organizations.—
 
 &emsp;(1)
 
-In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizationsto enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
+In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
 
 &emsp;(2)
 
@@ -520,11 +520,11 @@ Subsec. (d)(2)(B)(ii). Pub. L. 114–94, §3003(b)(2)(B)(i), struck out "urbaniz
 
 Subsec. (d)(2)(C). Pub. L. 114–94, §3003(b)(2)(B)(ii), struck out "urbanized" after "public transportation in".
 
-Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," before "freight shippers," and "(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
+Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," before "freight shippers," and"(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updatingof a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

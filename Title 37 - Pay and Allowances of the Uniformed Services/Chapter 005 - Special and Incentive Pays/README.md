@@ -81,6 +81,7 @@
 | [332\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000332%20-%20General%20bonus%20authority%20for%20officers.md) | General bonus authority for officers. |
 | [333\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000333%20-%20Special%20bonus%20and%20incentive%20pay%20authorities%20for%20nuclear%20officers.md) | Special bonus and incentive pay authorities for nuclear officers. |
 | [334\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000334%20-%20Special%20aviation%20incentive%20pay%20and%20bonus%20authorities%20for%20officers.md) | Special aviation incentive pay and bonus authorities for officers. |
+| [334a.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000334a%20-%20Special%20aviation%20incentive%20pay%20and%20bonus%20authorities%20enlisted%20members%20who%20operate%20remotely%20piloted%20aircraft.md) | Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft. |
 | [335\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000335%20-%20Special%20bonus%20and%20incentive%20pay%20authorities%20for%20officers%20in%20health%20professions.md) | Special bonus and incentive pay authorities for officers in health professions. |
 | [336\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000336%20-%20Contracting%20bonus%20for%20cadets%20and%20midshipmen%20enrolled%20in%20the%20Senior%20Reserve%20Officers%27%20Training%20Corps.md) | Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers' Training Corps. |
 | [351\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000351%20-%20Hazardous%20duty%20pay.md) | Hazardous duty pay. |
@@ -104,6 +105,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title VI, §617(b), Dec. 12, 2017, 131 Stat. 1426, added item 334a.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VI, §647(b), Dec. 23, 2016, 130 Stat. 2168, struck out item 328 "Combat-related injury rehabilitation pay".
 
@@ -157,7 +160,7 @@ Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substitut
 
 <b>1985</b>—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted "dental officers of the armed forces" for "dentists" in item 302b, added item 308i, and struck out item 311 "Special pay: continuation pay for dentists in the armed forces".
 
-<b>1984</b>—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted "special duty assignment pay for enlisted members" for "proficiency pay for enlisted members" in item 307, and added item 306a.
+<b>1984</b>—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted "special duty assignment pay for enlisted members"for "proficiency pay for enlisted members" in item 307, and added item 306a.
 
 <b>1983</b>—Pub. L. 98–94, title IX, §905(b)(2), title X, §1011(b)(2), Sept. 24, 1983, 97 Stat. 664, struck out item 308d "Special pay: bonus for enlistment, reenlistment, or extension of enlistment in elements of the ready Reserve other than the Selected Reserve", added items 308g and 308h, and in item 310 inserted "or imminent danger".
 
@@ -191,7 +194,7 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted "p
 
 <b>1967</b>—Pub. L. 90–207, §1(2)(B), Dec. 16, 1967, 81 Stat. 651, added item 311.
 
-<b>1963</b>—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted "while on sea duty or duty atcertain places" for "sea and foreign duty" in item 305, and added item 310.
+<b>1963</b>—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted "while on sea duty or duty at certain places" for "sea and foreign duty" in item 305, and added item 310.
 
 
 ---

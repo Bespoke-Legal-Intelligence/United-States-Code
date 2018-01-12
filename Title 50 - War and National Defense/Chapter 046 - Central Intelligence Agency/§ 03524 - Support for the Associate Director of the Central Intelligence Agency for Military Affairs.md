@@ -8,7 +8,7 @@ The Associate Director of the Central Intelligence Agency for Military Affairs s
 
 #### (1) In general
 
-&emsp;In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
+&emsp;In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the CentralIntelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
 
 &emsp;&emsp;(A) To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
 

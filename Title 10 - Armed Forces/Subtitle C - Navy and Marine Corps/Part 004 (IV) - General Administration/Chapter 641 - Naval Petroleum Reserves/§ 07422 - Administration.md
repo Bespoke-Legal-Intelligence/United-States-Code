@@ -32,7 +32,7 @@
 
 &emsp;(C) if neither House of Congress within ninety days after receipt of such report and certification adopts a resolution disapproving further production from such naval petroleum reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 99–413, §1(a)(2), struck out par. (3) which condition
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–525 struck out "of this section" after "subsection (c)" in provisions preceding par. (1).
 
-<b>1980</b>—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted "provided in section 7430 of this title" for "hereinafter provided", and in text following cl. (D) substituted "discrimination" for "discrimiation", and "(40 U.S.C. 258a–258e)" for ", chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))".
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination onApril 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted "provided in section 7430 of this title" for "hereinafter provided", and in text following cl. (D) substituted "discrimination" for "discrimiation", and "(40 U.S.C. 258a–258e)" for ", chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))".
 
 Subsec. (c)(2). Pub. L. 96–513, §513(31)(E), substituted "After April 5, 1982," for "At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection".
 

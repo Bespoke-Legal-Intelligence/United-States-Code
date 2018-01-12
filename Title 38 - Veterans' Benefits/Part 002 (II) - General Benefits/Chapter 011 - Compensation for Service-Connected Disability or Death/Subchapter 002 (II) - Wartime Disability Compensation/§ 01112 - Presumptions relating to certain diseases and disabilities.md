@@ -128,7 +128,7 @@
 
 #### References in Text
 
-The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
+The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Subsec. (c)(4). Pub. L. 108–454, §302(a), added par. (4).
 
 &emsp;"(15) peptic ulcer disease,
 
-> which became manifest to a degree of 10 percent or more after active military, naval, or air service shallbe considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service."
+> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service."
 
 <b>1999</b>—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
 

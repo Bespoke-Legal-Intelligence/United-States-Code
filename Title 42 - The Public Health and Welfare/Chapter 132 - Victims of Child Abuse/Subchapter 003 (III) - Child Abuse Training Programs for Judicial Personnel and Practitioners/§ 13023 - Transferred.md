@@ -1,0 +1,6 @@
+### §13023. Transferred
+
+#### Codification
+
+Section 13023 was editorially reclassified as section 20333 of Title 34, Crime Control and Law Enforcement.
+

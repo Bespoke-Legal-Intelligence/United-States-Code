@@ -112,7 +112,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (1) Purpose; authority to enter into cooperative agreement
 
-&emsp;The Secretary shall enter into a cooperative agreement with an eligible entity that meets the requirements of paragraph (2) for the purpose of requiring the entity to conduct a demonstration project consistent with this subsection under which the entity shall—
+&emsp;The Secretary shall enter into a cooperative agreement with an eligible entity that meetsthe requirements of paragraph (2) for the purpose of requiring the entity to conduct a demonstration project consistent with this subsection under which the entity shall—
 
 &emsp;&emsp;(A) identify children of prisoners in need of mentoring services who have not been matched with a mentor by an applicant awarded a grant under this section, with a priority for identifying children who—
 
@@ -282,7 +282,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (9) No effect on eligibility for other Federal assistance
 
-&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amount of, any other Federal or federally-supported assistance for the family.
+&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amountof, any other Federal or federally-supported assistance for the family.
 
 #### (h) Independent evaluation; reports
 

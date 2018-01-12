@@ -6,7 +6,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
-&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature,or a legislative body of a political subdivision of a State.
+&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
 &emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
@@ -140,7 +140,7 @@ Pub. L. 103–355, title II, §2192, Oct. 13, 1994, 108 Stat. 3315, provided tha
 
 Costs Not Allowable.—(1) The costs of gifts or recreation for employees of a contractor or members of their families that are provided by the contractor to improve employee morale or performance or for any other purpose are not allowable under a covered contract unless, within 120 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Federal Acquisition Regulatory Council prescribes amendments to the Federal Acquisition Regulation specifying circumstances under which such costs are allowable under a covered contract.
 
-"(2) Not later than 90 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the cost principle in the Federal Acquisition Regulation that is set out in section 31.205–14 of title 48, Code of Federal Regulations, relating to unallowability of entertainment costs—
+"(2) Not later than 90 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the cost principle in the FederalAcquisition Regulation that is set out in section 31.205–14 of title 48, Code of Federal Regulations, relating to unallowability of entertainment costs—
 
 &emsp;"(A) by inserting in the cost principle a statement that costs made specifically unallowable under that cost principle are not allowable under any other cost principle; and
 

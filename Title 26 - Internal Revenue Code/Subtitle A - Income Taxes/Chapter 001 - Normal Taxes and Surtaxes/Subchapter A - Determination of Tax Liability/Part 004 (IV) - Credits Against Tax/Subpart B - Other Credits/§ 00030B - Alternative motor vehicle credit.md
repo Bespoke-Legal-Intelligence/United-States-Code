@@ -44,7 +44,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(v) $3,000, if such vehicle achieves at least 250 percent but less than 275 percent of the 2002 model year city fuel economy,
 
-&emsp;&emsp;&emsp;(vi) $3,500, if such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and
+&emsp;&emsp;&emsp;(vi) $3,500, if such vehicle achieves at least 275 percent but less than 300 percentof the 2002 model year city fuel economy, and
 
 &emsp;&emsp;&emsp;(vii) $4,000, if such vehicle achieves at least 300 percent of the 2002 model year city fuel economy.
 
@@ -87,7 +87,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 | 3,000 lbs | 24\.9 mpg&nbsp;&nbsp; |
 | 3,500 lbs | 21\.8 mpg&nbsp;&nbsp; |
 | 4,000 lbs | 19\.4 mpg&nbsp;&nbsp; |
-| 4,500 lbs | 17\.6 mpg   |
+| 4,500 lbs | 17\.6 mpg&nbsp;&nbsp; |
 | 5,000 lbs | 16\.1 mpg&nbsp;&nbsp; |
 | 5,500 lbs | 14\.8 mpg&nbsp;&nbsp; |
 | 6,000 lbs | 13\.7 mpg&nbsp;&nbsp; |
@@ -502,7 +502,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary shall promulgate such regulations asnecessary to carry out the provisions of this section.
+&emsp;Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
 
 #### (2) Coordination in prescription of certain regulations
 
@@ -566,7 +566,7 @@ Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of su
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title I, §193(b), Dec. 18, 2015, 129 Stat. 3076, provided that: "The amendment made by this section \[amending this section\] shall apply to property purchased after December 31, 2014."
+Pub. L. 114–113, div. Q, title I, §193(b), Dec. 18, 2015, 129 Stat. 3076, provided that: "The amendment made bythis section \[amending this section\] shall apply to property purchased after December 31, 2014."
 
 #### Effective Date of 2014 Amendment
 

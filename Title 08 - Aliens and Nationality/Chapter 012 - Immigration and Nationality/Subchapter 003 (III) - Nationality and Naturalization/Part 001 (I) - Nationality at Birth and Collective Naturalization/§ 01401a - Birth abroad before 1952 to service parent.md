@@ -6,7 +6,7 @@ Section 1401(g) of this title shall be considered to have been and to be applica
 
 #### References in Text
 
-Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27, 1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
+Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27,1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
 
 "The following shall be nationals and citizens of the United States at birth:
 

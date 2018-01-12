@@ -184,7 +184,7 @@ For purposes of this subchapter—
 
 #### (D) Taxation of nonqualified sale or use
 
-&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or usessuch chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
+&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
 
 #### (10) Hydrocarbon streams containing mixtures of organic taxable chemicals
 
@@ -256,7 +256,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such substance as a qualified fertilizer substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard tosubsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (3) Use as qualified fuel
 
@@ -354,7 +354,7 @@ Subsec. (b)(10). Pub. L. 99–499, §513(g), added par. (10).
 
 Subsec. (c). Pub. L. 99–499, §513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person."
 
-Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted "which is a taxable chemical" for "the sale of which by such person would be taxable under such section", in subpar. (B), and substituted "imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)" for "imposed by such section on the other substance manufactured or produced" in last sentence.
+Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted "which is a taxable chemical" for "the sale of which by such person would be taxable under such section", insubpar. (B), and substituted "imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)" for "imposed by such section on the other substance manufactured or produced" in last sentence.
 
 Subsec. (d)(4). Pub. L. 99–499, §513(e)(2), added par. (4).
 
@@ -370,7 +370,7 @@ Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 98–369, §1019(c), substituted "Except as provided in subsection (b), if" for "If".
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out", or sells such substance for use," after "such substance".
+Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out ", or sells such substance for use," after "such substance".
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
 

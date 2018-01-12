@@ -32,7 +32,7 @@ Within 1 year after October 24, 1992, the Secretary shall submit a report to Con
 
 &emsp;(8) an evaluation of any other barriers to the use of such technologies.
 
-> In preparing the report required by this subsection, the Secretary shall consult with the Administrator of the Environmental Protection Agency, any other Federal, State, or local official the Secretary considers necessary, representatives of appropriate industries, members of organizations formed to further the goals of environmental protection or energy efficiency, and other appropriate interested members of the public, as determined by the Secretary.
+> In preparing the report required by this subsection, the Secretary shall consult with the Administrator of the Environmental ProtectionAgency, any other Federal, State, or local official the Secretary considers necessary, representatives of appropriate industries, members of organizations formed to further the goals of environmental protection or energy efficiency, and other appropriate interested members of the public, as determined by the Secretary.
 
 #### (d) Proposals
 

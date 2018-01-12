@@ -46,7 +46,7 @@ The Corporation may support the development and dissemination of materials, incl
 
 #### (3) Activities
 
-&emsp;The Corporation and other Federal departments and agencies may make grants to public or private nonprofit organizations with demonstrated ability to carry out appropriateactivities, in order to support such activities on Global Youth Service Day.
+&emsp;The Corporation and other Federal departments and agencies may make grants to public or private nonprofit organizations with demonstrated ability to carry out appropriate activities, in order to support such activities on Global Youth Service Day.
 
 #### (h) Assistance for Head Start
 
@@ -74,7 +74,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (j) Call to Service Campaign
 
-Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide "Call To Service" campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
+Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide "Call ToService" campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
 
 #### (k) September 11th Day of Service
 
@@ -104,7 +104,7 @@ A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102�
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply forassistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
+<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
 Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted "subsection (g)" for "subsection (r) of this section".
 

@@ -18,7 +18,7 @@ In order that transfers of defense articles under subsection (a) will not cause 
 
 &emsp;(2) the defense capability provided by those defense articles is needed by the Armed Forces of the Republic of Korea in order to maintain the military balance on the Korean peninsula; and
 
-&emsp;(3) a comparable defense capability could be provided by less advanced defense articles in the stocks of the Department of Defense whichcould be transferred without significant adverse impact on the readiness of the United States Armed Forces.
+&emsp;(3) a comparable defense capability could be provided by less advanced defense articles in the stocks of the Department of Defense which could be transferred without significant adverse impact on the readiness of the United States Armed Forces.
 
 > The President shall report to the Congress each determination made under this subsection prior to the transfer of the defense articles described in such determination.
 
@@ -38,7 +38,7 @@ The President shall transmit to the Congress, together with the presentation mat
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Actto the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

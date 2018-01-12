@@ -1,6 +1,6 @@
 ### §2118. Records of Congress
 
-The Secretary of the Senate and the Clerk of the House of Representatives, acting jointly, shall obtain at the close of each Congress all the noncurrent records of the Congress and of each congressional committee and transfer them to the National Archives and Records Administration for preservation, subject to the orders of the Senate or the House of Representatives, respectively.
+The Secretary of the Senate and the Clerk of the House of Representatives, acting jointly,shall obtain at the close of each Congress all the noncurrent records of the Congress and of each congressional committee and transfer them to the National Archives and Records Administration for preservation, subject to the orders of the Senate or the House of Representatives, respectively.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1291, §2114; renumbered §2118 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(10), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 

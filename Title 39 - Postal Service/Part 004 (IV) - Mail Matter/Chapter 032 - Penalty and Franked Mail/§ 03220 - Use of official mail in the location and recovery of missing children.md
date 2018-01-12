@@ -20,11 +20,11 @@
 
 #### References in Text
 
-Section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is section 201 of Pub. L. 93–415, which enacted section 5611 of Title 42, The Public Health and Welfare, and amended section 5108 of Title 5, Government Organization and Employees.
+Section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is section 201 of Pub. L. 93–415, which enacted section 11111 of Title 34, Crime Control and Law Enforcement, and amended section 5108 of Title 5, Government Organization and Employees.
 
 #### Termination Date
 
-Pub. L. 99–87, §5, Aug. 9, 1985, 99 Stat. 290, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(2),Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(2), Dec. 1, 1997, 111 Stat. 2542, which provided that the amendments made by section 1 of Pub. L. 99–87, enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents, and any guidelines, rules, or regulations prescribed to carry out such amendments were to cease to be effective after December 31, 2002, was repealed by Pub. L. 109–426, §1, Dec. 20, 2006, 120 Stat. 2911.
+Pub. L. 99–87, §5, Aug. 9, 1985, 99 Stat. 290, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(2), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(2), Dec. 1, 1997, 111 Stat. 2542, which provided that the amendments made by section 1 of Pub. L. 99–87, enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents, and any guidelines, rules, or regulations prescribed to carry out such amendments were to cease to be effective after December 31, 2002, was repealed by Pub. L. 109–426, §1, Dec. 20, 2006, 120 Stat. 2911.
 
 #### Issuance of Guidelines, Rules, and Regulations
 

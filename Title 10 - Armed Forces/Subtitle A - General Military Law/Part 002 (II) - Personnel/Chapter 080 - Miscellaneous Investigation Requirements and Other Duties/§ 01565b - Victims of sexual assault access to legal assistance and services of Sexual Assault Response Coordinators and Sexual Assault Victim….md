@@ -18,7 +18,7 @@ Availability of Legal Assistance and Victim Advocate Services.—(1) A member of
 
 (b)
 
-Restricted Reporting.—(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces, or an adult dependent of a member, who is the victim of a sexualassault may elect to confidentially disclose the details of the assault to an individual specified in paragraph (2) and receive medical treatment, legal assistance under section 1044 of this title, or counseling, without initiating an official investigation of the allegations.
+Restricted Reporting.—(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces, or an adult dependent of a member, who is the victim of a sexual assault may elect to confidentially disclose the details of the assault to an individual specified in paragraph (2) and receive medical treatment, legal assistance under section 1044 of this title, or counseling, without initiating an official investigation of the allegations.
 
 (2) The individuals specified in this paragraph are the following:
 

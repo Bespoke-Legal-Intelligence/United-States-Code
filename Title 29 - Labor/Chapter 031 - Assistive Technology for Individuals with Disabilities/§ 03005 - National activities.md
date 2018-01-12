@@ -214,7 +214,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(i) focus on quantitative and qualitative data elements;
 
-&emsp;&emsp;&emsp;(ii) measure the outcomes of the required activities described in section 3003 of this title that are implemented by the States and the progress of the States toward achieving the measurable goals described in section 3003(d)(3) of this title;
+&emsp;&emsp;&emsp;(ii) measure the outcomes of the required activities described in section 3003of this title that are implemented by the States and the progress of the States toward achieving the measurable goals described in section 3003(d)(3) of this title;
 
 &emsp;&emsp;&emsp;(iii) provide States with the necessary information required under this chapter or by the Secretary for reports described in section 3003(f)(2) of this title; and
 

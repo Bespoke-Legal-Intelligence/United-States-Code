@@ -36,7 +36,7 @@ Nothing in this chapter provides for the control of production, or otherwise lim
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that: "This title \[amending provisions set out as a note under this section\] may be cited as the 'Wool Suit and Textile Trade Extension Act of 2004'."
+Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that: "This title \[amending provisionsset out as a note under this section\] may be cited as the 'Wool Suit and Textile Trade Extension Act of 2004'."
 
 #### Short Title
 

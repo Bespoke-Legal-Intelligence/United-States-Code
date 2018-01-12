@@ -96,7 +96,7 @@ An Oversight Board established under this section—
 
 &emsp;(E) With respect to the appointment of a Board member in Category A, B, C, D, or E, such an appointment shall be by and with the advice and consent of the Senate, unless the President appoints an individual from a list, as provided in this subsection, in which case no Senate confirmation is required.
 
-&emsp;(F) In the event of a vacancy of a Category A, B, C, D, or E Board seat, the corresponding congressional leader referenced in subparagraph (A) shall submit a list pursuant to thissubsection within a timely manner of the Board member's resignation or removal becoming effective.
+&emsp;(F) In the event of a vacancy of a Category A, B, C, D, or E Board seat, the corresponding congressional leader referenced in subparagraph (A) shall submit a list pursuant to this subsection within a timely manner of the Board member's resignation or removal becoming effective.
 
 &emsp;(G) With respect to an Oversight Board for Puerto Rico, in the event any of the 7 members have not been appointed by September 1, 2016, then the President shall appoint an individual from the list for the current vacant category by September 15, 2016, provided that such list includes at least 2 individuals per vacancy who meet the requirements set forth in subsection (f) and section 2129 of this title, and are willing to serve.
 

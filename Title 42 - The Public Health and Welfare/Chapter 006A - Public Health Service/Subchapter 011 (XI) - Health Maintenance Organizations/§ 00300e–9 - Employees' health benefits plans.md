@@ -24,7 +24,7 @@ In accordance with regulations which the Secretary shall prescribe—
 
 #### (c) "Qualified health maintenance organization" defined
 
-For purposes of this section, the term "qualified health maintenance organization" means (1) a health maintenance organization which has provided assurances satisfactory to the Secretary that it provides basic and supplementalhealth services to its members in the manner prescribed by section 300e(b) of this title and that it is organized and operated in the manner prescribed by section 300e(c) of this title, and (2) an entity which proposes to become a health maintenance organization and which the Secretary determines will when it becomes operational provide basic and supplemental health services to its members in the manner prescribed by section 300e(b) of this title and will be organized and operated in the manner prescribed by section 300e(c) of this title.
+For purposes of this section, the term "qualified health maintenance organization" means (1) a health maintenance organization which has provided assurances satisfactory to the Secretary that it provides basic and supplemental health services to its members in the manner prescribed by section 300e(b) of this title and that it is organized and operated in the manner prescribed by section 300e(c) of this title, and (2) an entity which proposes to become a health maintenance organization and which the Secretary determines will when it becomes operational provide basic and supplemental health services to its members in the manner prescribed by section 300e(b) of this title and will be organized and operated in the manner prescribed by section 300e(c) of this title.
 
 #### (d) Civil penalty; notice and presentation of views; review
 
@@ -102,5 +102,5 @@ Amendment by section 110(a)(1), (2) of Pub. L. 94–460 applicable with respect 
 
 #### Collective Bargaining Agreements in Effect on October 24, 1988, Unaffected
 
-Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the Public Health Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
+Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the PublicHealth Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
 

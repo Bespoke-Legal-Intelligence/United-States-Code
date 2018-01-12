@@ -12,7 +12,7 @@ The report required by subsection (a) shall include—
 
 &emsp;(2) the quantity and price of any item furnished to the House of Representatives;
 
-&emsp;(3) a description of any service rendered to the House of Representatives, together with astatement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+&emsp;(3) a description of any service rendered to the House of Representatives, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
 
 &emsp;(4) a statement of all amounts appropriated to, or received, or expended by the House of Representatives, and any unexpended balances of such amounts;
 
@@ -22,7 +22,7 @@ The report required by subsection (a) shall include—
 
 #### (c) Exclusion
 
-Notwithstanding subsection (b), if a voucher is for payment to an individual for attendance as a witness before a committee of the Congress in executive session, the report for the semiannual period in which the appearance occurs shall show only the date of payment, voucher number, and amount paid. Any information excluded from a report under the preceding sentence shall be included in the report for the next period.
+Notwithstanding subsection (b), if a voucher is for payment to an individual for attendance asa witness before a committee of the Congress in executive session, the report for the semiannual period in which the appearance occurs shall show only the date of payment, voucher number, and amount paid. Any information excluded from a report under the preceding sentence shall be included in the report for the next period.
 
 #### (d) House document
 

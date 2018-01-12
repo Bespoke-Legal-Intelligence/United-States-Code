@@ -216,7 +216,7 @@ Sources.—The matching amounts referred to in clause (i) may include amounts ma
 
 &emsp;&emsp;(C)
 
-Focused research.—In awarding grants under this section, consideration shall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 (20 U.S.C. 1067k), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
+Focused research.—In awarding grants under this section, considerationshall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 (20 U.S.C. 1067k), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
 
 (d)
 

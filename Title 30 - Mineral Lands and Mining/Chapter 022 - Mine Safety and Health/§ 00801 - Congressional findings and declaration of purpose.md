@@ -4,7 +4,7 @@ Congress declares that—
 
 &emsp;(a) the first priority and concern of all in the coal or other mining industry must be the health and safety of its most precious resource—the miner;
 
-&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices inthe coal or other mines cause grief and suffering to the miners and to their families;
+&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices in the coal or other mines cause grief and suffering to the miners and to their families;
 
 &emsp;(c) there is an urgent need to provide more effective means and measures for improving the working conditions and practices in the Nation's coal or other mines in order to prevent death and serious physical harm, and in order to prevent occupational diseases originating in such mines;
 
@@ -58,7 +58,7 @@ Pub. L. 95–239, §1, Mar. 1, 1978, 92 Stat. 95, provided that: "This Act \[ena
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–164, §1, Nov. 9, 1977, 91 Stat. 1290, provided: "That this Act \[enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the 'Federal Mine Safety and Health Amendments Act of 1977'."
+Pub. L. 95–164, §1, Nov. 9, 1977, 91 Stat. 1290, provided: "That this Act \[enacting sections 822 to 825 and 961 ofthis title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance\] may be cited as the 'Federal Mine Safety and Health Amendments Act of 1977'."
 
 #### Short Title of 1972 Amendment
 

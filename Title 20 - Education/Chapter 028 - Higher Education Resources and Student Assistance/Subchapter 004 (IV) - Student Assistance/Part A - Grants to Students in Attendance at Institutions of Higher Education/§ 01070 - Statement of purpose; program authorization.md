@@ -66,7 +66,7 @@ Scholarships Authorized.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Education is authorized to provide financial assistance to the UnitedStates Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 \[20 U.S.C. 1088(a)\]).
+In general.—The Secretary of Education is authorized to provide financial assistance to the United States Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 \[20 U.S.C. 1088(a)\]).
 
 &emsp;"(2)
 
@@ -114,7 +114,7 @@ Purpose.—It is the purpose of this section to ensure that—
 
 Waiver Requirement.—Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education shall waive or modify any statutory or regulatory provision applicable to the student financial aid programs under title IV of the Act that the Secretary deems necessary to achieve the purposes stated in subsection (a), including—
 
-&emsp;"(1) the length of, and eligibility requirements for, the military deferments authorized under sections 427(a)(2)(C)(ii), 428(b)(1)(M)(ii), and 464(c)(2)(A)(ii) of the Act \[20 U.S.C. 1077(a)(2)(C)(ii), 1078(b)(1)(M)(ii), 1087dd(c)(2)(A)(ii)\], in order to enable the borrower of a Stafford Loan or a Perkins Loan who is or was serving on active duty in connection with Operation Desert Shield or Operation Desert Storm to obtain a military deferment, under which interest shall accrue and shall, if otherwise payable by the Secretary, be paid by the Secretary of Education, for the duration of such service;
+&emsp;"(1) the length of, and eligibility requirements for, the military deferments authorized under sections 427(a)(2)(C)(ii), 428(b)(1)(M)(ii), and 464(c)(2)(A)(ii) of the Act \[20 U.S.C. 1077(a)(2)(C)(ii), 1078(b)(1)(M)(ii), 1087dd(c)(2)(A)(ii)\], in order to enable the borrower ofa Stafford Loan or a Perkins Loan who is or was serving on active duty in connection with Operation Desert Shield or Operation Desert Storm to obtain a military deferment, under which interest shall accrue and shall, if otherwise payable by the Secretary, be paid by the Secretary of Education, for the duration of such service;
 
 &emsp;"(2) administrative requirements placed on all borrowers of student loans made in accordance with title IV of the Act who are or were engaged in such military service;
 

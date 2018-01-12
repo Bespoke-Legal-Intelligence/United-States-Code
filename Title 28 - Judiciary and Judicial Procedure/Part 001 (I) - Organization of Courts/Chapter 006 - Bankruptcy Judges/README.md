@@ -37,7 +37,7 @@ Pub. L. 95–598, title IV, §406, Nov. 6, 1978, 92 Stat. 2686, as amended by Pu
 
 #### Judicial Administration During Transition
 
-Pub. L. 95–598, title IV, §407, Nov. 6, 1978, 92 Stat. 2686, which provided that the Director of the Administrative Office of the United States Courts appoint a committee of not fewer than seven United States bankruptcy judges to advise the Director with respect to matters arising during the transition period or that are relevant to the purposes of the transition period, and directed that during the transition period, the chief judge of each circuit summon at least one bankruptcy judge from each judicial district within the circuit to the judicial conference of such circuit called and held under section 332 of this title, was repealed by Pub. L. 98–353, title I, §§114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
+Pub. L. 95–598, title IV, §407, Nov. 6, 1978, 92 Stat. 2686, which provided that the Director of the AdministrativeOffice of the United States Courts appoint a committee of not fewer than seven United States bankruptcy judges to advise the Director with respect to matters arising during the transition period or that are relevant to the purposes of the transition period, and directed that during the transition period, the chief judge of each circuit summon at least one bankruptcy judge from each judicial district within the circuit to the judicial conference of such circuit called and held under section 332 of this title, was repealed by Pub. L. 98–353, title I, §§114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
 
 #### Extension and Termination of Term of Office of Bankruptcy Judge Serving on June 27, 1984
 

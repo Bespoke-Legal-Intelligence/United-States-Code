@@ -338,7 +338,7 @@ Facilities and Support Services.—The Administrator of General Services shall p
 
 "(d)
 
-Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or insuch amounts as are provided in advance in appropriation Acts.
+Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 "(e)
 
@@ -460,7 +460,7 @@ In general.—For the purpose of completing the study under subsection (a)(1), a
 
 Non-participating institutions.—Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection."
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2,Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, §2, Aug. 6, 2015, 129 Stat. 472, provided that:
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, §2, Aug. 6, 2015, 129 Stat. 472, provided that:
 
 "(a)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, an eligible local educational agency may usethe applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
+&emsp;Notwithstanding any other provision of law, an eligible local educational agency may use the applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
 
 &emsp;&emsp;(A) Part A of subchapter I.
 

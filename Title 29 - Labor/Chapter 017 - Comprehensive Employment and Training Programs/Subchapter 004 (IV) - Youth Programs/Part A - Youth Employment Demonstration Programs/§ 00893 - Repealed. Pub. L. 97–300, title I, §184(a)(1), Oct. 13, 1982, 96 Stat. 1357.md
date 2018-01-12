@@ -4,7 +4,7 @@ Section 893, Pub. L. 93–203, title IV, §411, as added Pub. L. 95–524, §2, 
 
 A prior section 893, Pub. L. 93–203, title III, §331, added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 636, provided for a Congressional declaration of purpose with respect to a program of community conservation and improvement projects, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-A prior section 411 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 868, which related to activities designed toestablish a mutually beneficial relationship between Job Corps centers and nearby communities, was classified to former section 921 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 411 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 868, which related to activities designed to establish a mutually beneficial relationship between Job Corps centers and nearby communities, was classified to former section 921 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 891 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

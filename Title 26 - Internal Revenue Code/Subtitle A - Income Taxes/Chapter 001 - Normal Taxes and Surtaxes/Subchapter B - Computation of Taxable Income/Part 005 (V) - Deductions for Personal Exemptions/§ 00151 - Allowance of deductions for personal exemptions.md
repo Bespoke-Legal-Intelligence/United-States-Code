@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "applicable percentage" means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting "$1,250" for "$2,500". In no event shall the applicable percentage exceed 100 percent.
+&emsp;&emsp;For purposes of subparagraph (A), the term "applicable percentage" means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separatereturn, the preceding sentence shall be applied by substituting "$1,250" for "$2,500". In no event shall the applicable percentage exceed 100 percent.
 
 #### (C) Coordination with other provisions
 
@@ -40,23 +40,41 @@ For purposes of this section—
 
 #### (4) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
+&emsp;Except as provided in paragraph (5), in the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+#### (5) Special rules for taxable years 2018 through 2025
+
+&emsp;In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026—
+
+#### (A) Exemption amount
+
+&emsp;&emsp;The term "exemption amount" means zero.
+
+#### (B) References
+
+&emsp;&emsp;For purposes of any other provision of this title, the reduction of the exemption amount to zero under subparagraph (A) shall not be taken into account in determining whether a deduction is allowed or allowable, or whether a taxpayer is entitled to a deduction, under this section.
 
 #### (e) Identifying information required
 
 No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §§11002(d)(1)(Q), 11041(a), Dec. 22, 2017, 131 Stat. 2060, 2082.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(4). Pub. L. 115–97, §11041(a)(1), substituted "Except as provided in paragraph (5), in the case of" for "In the case of" in introductory provisions.
+
+Subsec. (d)(4)(B). Pub. L. 115–97, §11002(d)(1)(Q), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (d)(5). Pub. L. 115–97, §11041(a)(2), added par. (5).
 
 <b>2013</b>—Subsec. (d)(3)(A), (B). Pub. L. 112–240, §101(b)(2)(B)(i)(I), substituted "the applicable amount in effect under section 68(b)" for "the threshold amount".
 
@@ -146,6 +164,20 @@ Subsec. (f). Pub. L. 97–34, §104(c)(2), added subsec. (f).
 
 Subsecs. (b), (c), Pub. L. 91–172, §941(b), substituted "if a joint return is not made by the taxpayer and his spouse" for "if a separate return is made by the taxpayer".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(Q) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §11041(f), Dec. 22, 2017, 131 Stat. 2085, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 642, 3401, 3402, 3405, 6012, and 6334 of this title\] shall apply to taxable years beginning after December 31, 2017.
+
+"(2)
+
+Wage withholding.—The Secretary of the Treasury may administer section 3402 for taxable years beginning before January 1, 2019, without regard to the amendments made by subsections (a) and (c) \[amending this section and sections 3401, 3402, 3405, 6012, and 6334 of this title\]."
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 101(b)(3) of Pub. L. 112–240, set out as a note under section 1 of this title.
@@ -170,7 +202,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §306(b)\], Dec. 21, 2000, 114 Stat. 2
 
 Amendment by section 1615(a)(1) of Pub. L. 104–188 applicable with respect to returns the due date for which, without regard to extensions, is on or after the 30th day after Aug. 20, 1996, with special rule for 1995 and 1996, see section 1615(d) of Pub. L. 104–188, set out as a note under section 21 of this title.
 
-Amendment by section 1702(a)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(a)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which suchamendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -218,7 +250,7 @@ Pub. L. 91–172, title VIII, §801(a)(1), Dec. 30, 1969, 83 Stat. 675, provided
 
 Pub. L. 91–172, title VIII, §801(b)(1), Dec. 30, 1969, 83 Stat. 676, provided in part that the increase in the exemption from $625 to $650 is effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972.
 
-Pub. L. 91–172, title IX, §941(c), Dec. 30, 1969, 83 Stat. 726, provided that: "The amendments made by subsections (a) \[amending section 6012 of this title\] and (b)\[amending this section\] shall apply to taxable years beginning after December 31, 1969."
+Pub. L. 91–172, title IX, §941(c), Dec. 30, 1969, 83 Stat. 726, provided that: "The amendments made by subsections (a) \[amending section 6012 of this title\] and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969."
 
 #### Repeals
 

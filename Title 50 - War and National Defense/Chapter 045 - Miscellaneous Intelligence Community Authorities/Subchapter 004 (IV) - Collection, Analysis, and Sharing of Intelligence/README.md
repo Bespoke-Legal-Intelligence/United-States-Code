@@ -12,3 +12,4 @@
 - [&sect; 03365 - Foreign intelligence information](%C2%A7%2003365%20-%20Foreign%20intelligence%20information.md)
 - [&sect; 03366 - Authorities of heads of other departments and agencies](%C2%A7%2003366%20-%20Authorities%20of%20heads%20of%20other%20departments%20and%20agencies.md)
 - [&sect; 03367 - Requirement for efficient use by intelligence community of open-source intelligence](%C2%A7%2003367%20-%20Requirement%20for%20efficient%20use%20by%20intelligence%20community%20of%20open-source%20intelligence.md)
+- [&sect; 03368 - Assistance for governmental entities and private entities in recognizing online violent extremist content](%C2%A7%2003368%20-%20Assistance%20for%20governmental%20entities%20and%20private%20entities%20in%20recognizing%20online%20violent%20extremist%20content.md)

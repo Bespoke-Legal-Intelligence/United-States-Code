@@ -36,5 +36,5 @@ Provisions similar to those in this section were contained in section 6618 of th
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission ofbiennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
 

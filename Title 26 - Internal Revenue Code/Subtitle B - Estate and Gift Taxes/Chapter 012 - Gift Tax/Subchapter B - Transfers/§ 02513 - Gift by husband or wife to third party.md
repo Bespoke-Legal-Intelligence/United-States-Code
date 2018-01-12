@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 97–34, §442(b)(2)(F), substituted "any calendar year" an
 
 <b>1970</b>—Subsecs. (a), (b)(2). Pub. L. 91–614, §102(b)(2)(A), substituted "calendar quarter" for "calendar year".
 
-Subsec. (b)(2)(A). Pub. L. 91–614, §102(b)(2)(B), substituted "the 15th day of the second month" for "the15th day of April" and substituted "such calendar quarter" for "such year".
+Subsec. (b)(2)(A). Pub. L. 91–614, §102(b)(2)(B), substituted "the 15th day of the second month" for "the 15th day of April" and substituted "such calendar quarter" for "such year".
 
 Subsec. (b)(2)(B). Pub. L. 91–614, §102(b)(2)(C), substituted "such calendar quarter" for "such year".
 

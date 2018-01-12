@@ -26,11 +26,11 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 #### (b) Approval by Assistant Secretary
 
-The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
+The Assistant Secretary shall approve any application which complies with the provisions of subsection (a).
 
 #### (c) Disapproval by Assistant Secretary
 
-Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) of this section the Assistant Secretary shall—
+Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) the Assistant Secretary shall—
 
 &emsp;(1) state objections in writing to the nonprofit private organization within 60 days after such decision;
 
@@ -55,4 +55,8 @@ Subsec. (a)(7). Pub. L. 102–375, §102(b)(4), substituted "information and ass
 #### Effective Date of 1992 Amendment
 
 Amendment by section 603 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

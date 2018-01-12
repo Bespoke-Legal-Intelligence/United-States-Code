@@ -10,7 +10,7 @@ Each online pharmacy shall comply with the requirements of State law concerning 
 
 #### (c) Internet pharmacy site disclosure information
 
-Each online pharmacy shall post in a visible and clear manner on the homepage of eachInternet site it operates, or on a page directly linked thereto in which the hyperlink is also visible and clear on the homepage, the following information for each pharmacy that delivers, distributes, or dispenses controlled substances pursuant to orders made on, through, or on behalf of, that website:
+Each online pharmacy shall post in a visible and clear manner on the homepage of each Internet site it operates, or on a page directly linked thereto in which the hyperlink is also visible and clear on the homepage, the following information for each pharmacy that delivers, distributes, or dispenses controlled substances pursuant to orders made on, through, or on behalf of, that website:
 
 &emsp;(1) The name and address of the pharmacy as it appears on the pharmacy's Drug Enforcement Administration certificate of registration.
 
@@ -74,7 +74,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner,upon application for such special registration—
+&emsp;The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner, upon application for such special registration—
 
 &emsp;&emsp;(A) demonstrates a legitimate need for the special registration; and
 
@@ -82,7 +82,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 &emsp;&emsp;&emsp;(i) is exempted from such registration in all States under section 822(d) of this title; or
 
-&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title.
+&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of VeteransAffairs registered under section 823(f) of this title.
 
 #### (2) Regulations
 

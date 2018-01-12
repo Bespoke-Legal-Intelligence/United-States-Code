@@ -96,7 +96,7 @@
 
 #### (4) Attorneys in the office of the General Counsel
 
-&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary to enable the General Counsel to perform the General Counsel's duties.
+&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary toenable the General Counsel to perform the General Counsel's duties.
 
 #### (5) Term
 

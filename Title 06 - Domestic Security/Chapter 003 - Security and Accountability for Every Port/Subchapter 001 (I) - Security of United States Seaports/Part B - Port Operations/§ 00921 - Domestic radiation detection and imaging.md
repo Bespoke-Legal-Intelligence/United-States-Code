@@ -18,7 +18,7 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 &emsp;(5) operator training plans;
 
-&emsp;(6) an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiation exposure of workers and the public to levels as low as reasonably achievable;
+&emsp;(6) an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiationexposure of workers and the public to levels as low as reasonably achievable;
 
 &emsp;(7) the policy of the Department for using nonintrusive imaging equipment in tandem with radiation detection equipment; and
 

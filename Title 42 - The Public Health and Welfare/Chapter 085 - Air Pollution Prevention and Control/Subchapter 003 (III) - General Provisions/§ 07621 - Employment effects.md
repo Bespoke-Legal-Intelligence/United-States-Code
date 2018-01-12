@@ -14,7 +14,7 @@ In connection with any investigation or public hearing conducted under subsectio
 
 #### (d) Limitations on construction of section
 
-Nothing in this section shall be construed to require or authorize the Administrator, theStates, or political subdivisions thereof, to modify or withdraw any requirement imposed or proposed to be imposed under this chapter.
+Nothing in this section shall be construed to require or authorize the Administrator, the States, or political subdivisions thereof, to modify or withdraw any requirement imposed or proposed to be imposed under this chapter.
 
 (July 14, 1955, ch. 360, title III, §321, as added Pub. L. 95–95, title III, §311, Aug. 7, 1977, 91 Stat. 782.)
 

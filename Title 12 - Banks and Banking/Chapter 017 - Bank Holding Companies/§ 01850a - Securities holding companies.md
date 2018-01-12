@@ -50,7 +50,7 @@ In this section—
 
 #### (B) Effective date
 
-&emsp;&emsp;A securities holding company that registers under subparagraph (A) shall be deemed to be a supervised securities holding company, effective on the date that is 45 days after the date of receipt of the registration information and documents under subparagraph (A) by the Board of Governors, or within such shorter period as the Board of Governors, by rule or order, may determine.
+&emsp;&emsp;A securities holding company that registers under subparagraph (A) shall bedeemed to be a supervised securities holding company, effective on the date that is 45 days after the date of receipt of the registration information and documents under subparagraph (A) by the Board of Governors, or within such shorter period as the Board of Governors, by rule or order, may determine.
 
 #### (c) Supervision of securities holding companies
 
@@ -126,7 +126,7 @@ In this section—
 
 &emsp;&emsp;(E) the extent and nature of the transactions and relationships of the supervised securities holding company with other financial companies;
 
-&emsp;&emsp;(F) the importance of the supervised securities holding company as a source of credit for households, businesses, and State and local governments, and as a source of liquidity for the financial system; and
+&emsp;&emsp;(F) the importance of the supervised securities holding company as a source of creditfor households, businesses, and State and local governments, and as a source of liquidity for the financial system; and
 
 &emsp;&emsp;(G) the nature, scope, and mix of the activities of the supervised securities holding company.
 

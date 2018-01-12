@@ -60,7 +60,7 @@ Department of defense report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any assistance provided by the Department of Defense to the border security mission of the Department of Homeland Security at the international borders of the United States during the fiscal year preceding the fiscal year during which the report is submitted.
+In general.—Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committeeson Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any assistance provided by the Department of Defense to the border security mission of the Department of Homeland Security at the international borders of the United States during the fiscal year preceding the fiscal year during which the report is submitted.
 
 &emsp;&emsp;"(B)
 
@@ -116,7 +116,7 @@ Termination.—The requirement to submit a report under paragraph (1) or (2) sha
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat.1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601, provided that:
 
 "(a)
 
@@ -148,9 +148,11 @@ Conditions.—(1) Any support provided under subsection (a) may only be provided
 
 "(e)
 
-Definitions.—(1) In this section, the term 'transnational organized crime' has the meaning given such term in \[former\] section 1004(j) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; \[former\] 10 U.S.C. 374 note).
+Definitions.—(1) In this section, the term 'transnational organized crime' has the meaning given such term in section 284(i) of title 10, United States Code\[.\]
 
 "(2) For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term 'illegal means', as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense."
+
+\[Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of section 1022(e) of Pub. L. 108–136, set out above, by substituting "section 284(i) of title 10, United States Code" for "section 1004(j)" and all that followed through the end of the subsection, was executed by making the substitution for "section 1004(j)" and all that followed through the end of par. (1), to reflect the probable intent of Congress.\]
 
 \[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
 

@@ -176,11 +176,11 @@ Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109�
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
+Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 tosection 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
 
 #### Effective Date
 
-Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that: "Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the InternationalConvention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\]."
+Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that: "Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\]."
 
 #### Disclaimer
 

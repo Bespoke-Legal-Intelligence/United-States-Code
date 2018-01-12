@@ -2,7 +2,7 @@
 
 #### (a) General prohibition
 
-Nothing in this chapter shall be construed to authorize an officer or employee of the FederalGovernment, including through a grant, contract, or cooperative agreement, to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter.
+Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government, including through a grant, contract, or cooperative agreement, to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter.
 
 #### (b) Prohibition on endorsement of curriculum
 
@@ -28,7 +28,7 @@ Nothing in this section shall be construed to—
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this chapter shall be construed to prohibit a State, local educational agency, or school from using funds provided under this chapter for the development or implementation of any instructional content, academic standards, academic assessments, curriculum, or program of instruction that a State, local educational agency, or school chooses, as permitted under State and local law, as long as the use of such funds is consistent with the terms of the grant, contract, or cooperative agreement providing such funds.
+&emsp;Nothing in this chapter shall be construed to prohibit a State, local educational agency, or school from using funds provided under this chapter for the development or implementation of any instructional content, academic standards, academic assessments, curriculum, or program of instruction that a State, local educational agency, or school chooses, as permitted under State and local law, as long as the use of such funds is consistent with theterms of the grant, contract, or cooperative agreement providing such funds.
 
 #### (3) Building standards
 

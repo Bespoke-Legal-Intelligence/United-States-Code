@@ -1,8 +1,8 @@
 ### §3014. Payment of basic educational assistance
 
-(a) The Secretary shall pay to each individual entitled to basic educational assistance who is pursuing an approved program of education a basic educational assistance allowance to help meet, in part, the expenses of such individual's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall pay to each individual entitled to basic educational assistance who ispursuing an approved program of education a basic educational assistance allowance to help meet, in part, the expenses of such individual's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
-(b)(1) In the case of an individual entitled to basic educational assistance who is pursuingeducation or training described in subsection (a) or (c) of section 2007 of title 10, the Secretary shall, at the election of the individual, pay the individual a basic educational assistance allowance to meet all or a portion of the charges of the educational institution for the education or training that are not paid by the Secretary of the military department concerned under such subsection.
+(b)(1) In the case of an individual entitled to basic educational assistance who is pursuing education or training described in subsection (a) or (c) of section 2007 of title 10, the Secretary shall, at the election of the individual, pay the individual a basic educational assistance allowance to meet all or a portion of the charges of the educational institution for the education or training that are not paid by the Secretary of the military department concerned under such subsection.
 
 (2)(A) The amount of the basic educational assistance allowance payable to an individual under this subsection for a month shall be the amount of the basic educational assistance allowance to which the individual would be entitled for the month under section 3015 of this title.
 

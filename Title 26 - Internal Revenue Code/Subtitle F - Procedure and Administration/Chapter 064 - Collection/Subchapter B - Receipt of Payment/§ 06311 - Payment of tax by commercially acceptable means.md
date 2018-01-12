@@ -10,7 +10,7 @@ If a check, money order, or other method of payment, including payment by credit
 
 #### (c) Liability of banks and others
 
-If any certified, treasurer's, or cashier's check (or other guaranteed draft), or any money order,or any other means of payment that has been guaranteed by a financial institution (such as a credit card, debit card, or charge card transaction which has been guaranteed expressly by a financial institution) so received is not duly paid, the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for—
+If any certified, treasurer's, or cashier's check (or other guaranteed draft), or any money order, or any other means of payment that has been guaranteed by a financial institution (such as a credit card, debit card, or charge card transaction which has been guaranteed expressly by a financial institution) so received is not duly paid, the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for—
 
 &emsp;(1) the amount of such check (or draft) upon all assets of the financial institution on which drawn,
 
@@ -56,7 +56,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 #### (1) In general
 
-&emsp;Except as otherwise authorized by this subsection, no person may use or disclose any information relating to credit or debit card transactions obtained pursuant to section 6103(k)(9) other than for purposes directly related to the processing of such transactions, or the billing or collection of amounts charged or debited pursuant thereto.
+&emsp;Except as otherwise authorized by this subsection, no person may use or disclose any information relating to credit or debit card transactions obtained pursuant to section 6103(k)(9) other than for purposes directly related to the processing of such transactions, orthe billing or collection of amounts charged or debited pursuant thereto.
 
 #### (2) Exceptions
 

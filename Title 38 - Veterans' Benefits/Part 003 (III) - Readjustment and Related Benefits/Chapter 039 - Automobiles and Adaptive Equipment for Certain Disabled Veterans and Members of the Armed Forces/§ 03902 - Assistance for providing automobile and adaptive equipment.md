@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 93–538, §3(3), substituted "person may previously or sub
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–275, title VIII, §804(c), Oct. 13, 2010, 124 Stat. 2890, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2011."
+Pub. L. 111–275, title VIII, §804(c), Oct. 13, 2010, 124 Stat. 2890, provided that: "The amendments made bythis section \[amending this section\] shall take effect on October 1, 2011."
 
 #### Effective Date of 2003 Amendment
 
@@ -164,7 +164,7 @@ Biennial Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date on which the Secretary updates Veterans HealthAdministration Handbook 1173.4, or any successor handbook or directive, under subsection (d), and not less frequently than once every other year thereafter through 2022, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation and facility compliance with the policy developed under subsection (a).
+In general.—Not later than 1 year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (d), and not less frequently than once every other year thereafter through 2022, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation and facility compliance with the policy developed under subsection (a).
 
 &emsp;"(2)
 

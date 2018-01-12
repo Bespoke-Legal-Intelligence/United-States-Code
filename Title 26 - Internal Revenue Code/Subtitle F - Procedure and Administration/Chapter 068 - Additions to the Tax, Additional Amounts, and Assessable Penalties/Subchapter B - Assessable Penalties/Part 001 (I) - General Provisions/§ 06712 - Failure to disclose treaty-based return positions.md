@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If a taxpayer fails to meet the requirements of section 6114, there is hereby imposed a penalty equal to $1,000 ($10,000 in the case of a C corporation) on each such failure.
+If a taxpayer fails to meet the requirements of section 6114, there is hereby imposed a penaltyequal to $1,000 ($10,000 in the case of a C corporation) on each such failure.
 
 #### (b) Authority to waive
 

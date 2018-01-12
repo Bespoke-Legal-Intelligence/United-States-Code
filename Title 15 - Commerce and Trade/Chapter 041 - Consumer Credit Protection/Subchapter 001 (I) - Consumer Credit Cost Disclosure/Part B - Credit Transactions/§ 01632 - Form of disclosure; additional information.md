@@ -34,7 +34,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than the order in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section1637(c) of this title if such terminology conveys substantially the same meaning.
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section 1637(c) of this title if such terminology conveys substantially the same meaning.
 
 #### (C) Grace period
 

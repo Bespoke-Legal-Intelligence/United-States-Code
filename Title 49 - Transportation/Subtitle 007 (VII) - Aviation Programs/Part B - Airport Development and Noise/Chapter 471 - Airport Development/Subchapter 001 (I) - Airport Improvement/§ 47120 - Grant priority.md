@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In making a grant under this subchapter, the Secretary of Transportation may give priority to a project that is consistent with an integrated airport system plan.
+In General.—In making a grant under this subchapter, the Secretary of Transportationmay give priority to a project that is consistent with an integrated airport system plan.
 
 (b)
 

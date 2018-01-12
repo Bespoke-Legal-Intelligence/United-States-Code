@@ -8,7 +8,7 @@ Private Operation.—Under such regulations as the Secretary of Defense may appr
 
 Contracts With Other Agencies and Instrumentalities.—(1) The Defense Commissary Agency, and any other agency of the Department of Defense that supports the operation of the commissary system, may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain services beneficial to the efficient management and operation of the commissary system. However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 107 of title 41.
 
-(2) A commissary store operated by a nonappropriated fund instrumentality of the Department of Defense shall be operated in accordance with section 2483 of this title. Subject to such section, the Secretary of Defense may authorize a transfer of goods, supplies, and facilities of, and funds appropriated for, the Defense Commissary Agency or any other agency of the Department of Defense that supports the operation of the commissary system to a nonappropriated fund instrumentality for the operation of a commissary store.
+(2) A commissary store operated by a nonappropriated fund instrumentality of the Department of Defense shall be operated in accordance with section 2483 of this title. Subject to such section, the Secretary of Defense may authorize a transfer of goods, supplies, and facilities of, and funds appropriated for, the Defense Commissary Agency or any other agency of the Department of Defense that supports the operationof the commissary system to a nonappropriated fund instrumentality for the operation of a commissary store.
 
 (c)
 
@@ -104,7 +104,7 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (E) Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
 
-(4) Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer orthat provides information making it possible to identify any customer.
+(4) Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
 
 (5) Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under section 2484(e) of this title, shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
 
@@ -140,7 +140,7 @@ A prior section 2486 was renumbered section 2484 of this title.
 
 <b>2016</b>—Subsec. (i). Pub. L. 114–328 added subsec. (i).
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before "Under such regulations" and struck out par. (2) which read as follows: "Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
+<b>2011</b>—Subsec. (a). Pub. L. 112–81 struck out par. (1) designation before "Under such regulations" and struck out par. (2) which read as follows: "Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change. Until December 31, 2008,the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions."
 
 Subsec. (b)(1). Pub. L. 111–350 substituted "section 107 of title 41" for "section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6))".
 

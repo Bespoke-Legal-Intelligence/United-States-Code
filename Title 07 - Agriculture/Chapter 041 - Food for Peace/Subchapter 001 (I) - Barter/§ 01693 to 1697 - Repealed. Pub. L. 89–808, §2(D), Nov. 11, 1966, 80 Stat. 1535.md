@@ -1,6 +1,6 @@
 ### §§1693 to 1697. Repealed. Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535
 
-Section 1693, acts July 10, 1954, ch. 469, title III, §304, 68 Stat. 459; Aug. 13, 1957, Pub. L. 85–128, §1(6), 71 Stat. 345; Oct. 8, 1964, Pub. L. 88–638, §1(16), 78 Stat. 1037, provided for assistance to friendly nations in being independent of Russian or Communist Chinese trade, prevention of increased availability of commodities to unfriendly nations, and nonauthorization of transactions with Russia or Communist China. See section 1703(j) of this title.
+Section 1693, acts July 10, 1954, ch. 469, title III, §304, 68 Stat. 459; Aug. 13, 1957, Pub. L. 85–128, §1(6), 71 Stat.345; Oct. 8, 1964, Pub. L. 88–638, §1(16), 78 Stat. 1037, provided for assistance to friendly nations in being independent of Russian or Communist Chinese trade, prevention of increased availability of commodities to unfriendly nations, and nonauthorization of transactions with Russia or Communist China. See section 1703(j) of this title.
 
 Section 1694, acts July 10, 1954, ch. 469, title III, §305, 68 Stat. 459; Sept. 21, 1959, Pub. L. 86–341, title I, §10, 73 Stat. 607, provided for identification of packages and containers by appropriate markings. See section 1722 of this title.
 

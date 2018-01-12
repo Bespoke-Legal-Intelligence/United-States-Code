@@ -12,13 +12,13 @@
 
 #### (3) Eligibility
 
-&emsp;To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive an award under paragraph (1), an entity shall be a public ornonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (b) Centers of excellence in autism spectrum disorder epidemiology
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes ofautism spectrum disorder and other developmental disabilities for children and adults.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
 
 #### (2) Requirements
 

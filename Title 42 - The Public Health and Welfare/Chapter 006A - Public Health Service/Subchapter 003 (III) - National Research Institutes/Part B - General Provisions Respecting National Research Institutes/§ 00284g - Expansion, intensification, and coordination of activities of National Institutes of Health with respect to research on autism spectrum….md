@@ -22,7 +22,7 @@
 
 #### (2) Research
 
-&emsp;Each center under paragraph (1) shall conduct basic and clinical research into autismspectrum disorder. Such research should include investigations into the cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, and psychopharmacology.
+&emsp;Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, and psychopharmacology.
 
 #### (3) Services for patients
 

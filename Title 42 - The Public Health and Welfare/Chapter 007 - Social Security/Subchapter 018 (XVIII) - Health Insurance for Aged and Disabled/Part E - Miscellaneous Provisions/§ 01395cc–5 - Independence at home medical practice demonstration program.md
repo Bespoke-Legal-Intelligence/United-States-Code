@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) is not enrolled in a Medicare Advantage plan under part C or a PACE program under section 1395eee of this title;
 
-&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Disease and neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
+&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Diseaseand neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
 
 &emsp;&emsp;(D) within the past 12 months has had a nonelective hospital admission;
 

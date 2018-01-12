@@ -18,7 +18,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) in the case of a plan in existence on January 1, 1974, the unfunded past service liability under the plan on the first day of the first plan year to which section 1082 of this title applies, over a period of 40 plan years,
+&emsp;&emsp;&emsp;(i) in the case of a plan in existence on January 1, 1974, the unfunded past serviceliability under the plan on the first day of the first plan year to which section 1082 of this title applies, over a period of 40 plan years,
 
 &emsp;&emsp;&emsp;(ii) in the case of a plan which comes into existence after January 1, 1974, but before the first day of the first plan year beginning after December 31, 2013, the unfunded past service liability under the plan on the first day of the first plan year to which section 1082 of this title applies, over a period of 30 plan years,
 
@@ -126,7 +126,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3))used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
+&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3)) used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
 
 #### (ii) Plans to which subparagraph applies
 
@@ -214,7 +214,7 @@ Assets.—For purposes of clause (i), assets shall not be reduced by any credit 
 
 #### (d) Extension of amortization periods
 
-The period of years required to amortize any unfunded liability (described in any clause ofsubsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
+The period of years required to amortize any unfunded liability (described in any clause of subsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
 
 &emsp;(1) a substantial risk to the voluntary continuation of the plan, or
 
@@ -399,7 +399,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (2) Plans to which subsection applies
 
-&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
+&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than 100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
 
 #### (3) Amount of lien
 
@@ -539,7 +539,7 @@ Notwithstanding any other provisions of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, for purposes of section 1082 of this title, the term "accumulated funding deficiency" means, for such plan year, the greater of—
+&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, for purposes of section 1082 of this title, theterm "accumulated funding deficiency" means, for such plan year, the greater of—
 
 &emsp;&emsp;&emsp;(i) the amount described in subsection (a), or
 
@@ -603,7 +603,7 @@ This chapter, referred to in subsec. (d), was in the original "this Act", meanin
 
 #### Prior Provisions
 
-A prior section 1085a, Pub. L. 93–406, title I, §306, as added Pub. L. 99–272, title XI, §11015(a)(1)(A)(ii), Apr. 7, 1986, 100 Stat. 264; amended Pub. L. 100–203, title IX, §9306(e)(2), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to security for waivers of minimum funding standard and extensions of amortization period, prior to repeal by Pub. L. 109–280, title I, §101(a), Aug. 17, 2006, 120 Stat. 784.
+A prior section 1085a, Pub. L. 93–406, title I, §306, as added Pub. L. 99–272, title XI, §11015(a)(1)(A)(ii), Apr. 7, 1986, 100 Stat. 264; amended Pub. L. 100–203, title IX, §9306(e)(2), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to security for waivers of minimum funding standard and extensions of amortization period, priorto repeal by Pub. L. 109–280, title I, §101(a), Aug. 17, 2006, 120 Stat. 784.
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(6) amounts received pursuant to—
 
-&emsp;&emsp;(A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796); or
+&emsp;&emsp;(A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796); <sup>1</sup> or
 
 &emsp;&emsp;(B) a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
 
@@ -60,7 +60,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 #### (4) Amount excluded to be not less than veterans' disability compensation
 
-&emsp;In the case of any individual described in paragraph (2), the amounts excludable under subsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans' Administration.
+&emsp;In the case of any individual described in paragraph (2), the amounts excludable undersubsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans' Administration.
 
 #### (c) Application of prior law in certain cases
 
@@ -83,6 +83,8 @@ The phrase "(other than punitive damages)" shall not apply to punitive damages a
 #### References in Text
 
 Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, title I, §808, Oct. 17, 1980, 94 Stat. 2110, which is classified to section 4048 of Title 22, Foreign Relations and Intercourse.
+
+Section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(6)(A), was classified to section 3796 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 10281 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
 
@@ -110,7 +112,7 @@ Subsec. (a)(5). Pub. L. 94–455, §505(e)(1), added par. (5).
 
 Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated former subsec. (b) as (c) and, as so redesignated, §1901(a)(18)(B), substituted "1403 of title 10, United States Code (relating to career compensation laws)" for "402(h) of the Career Compensation Act of 1949 (37 U.S.C. 272(h))".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individualwho is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
+<b>1962</b>—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individual who is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
 
 <b>1960</b>—Subsec. (a)(4). Pub. L. 86–723 provided for exclusion from gross income of amounts received as a disability annuity payable under the provisions of section 831 of the Foreign Service Act of 1946, as amended.
 
@@ -126,7 +128,7 @@ Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided th
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title III, §311(c), Aug. 21, 1996, 110 Stat. 2053, provided that: "The amendments made by this section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996."
+Pub. L. 104–191, title III, §311(c), Aug. 21, 1996, 110 Stat. 2053, provided that: "The amendments made bythis section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996."
 
 Pub. L. 104–188, title I, §1605(d), Aug. 20, 1996, 110 Stat. 1839, provided that:
 
@@ -179,4 +181,6 @@ Pub. L. 86–723, §56(e), Sept. 8, 1960, 74 Stat. 848, provided that: "The amen
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

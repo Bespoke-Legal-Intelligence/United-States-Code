@@ -6,7 +6,7 @@ Spouse and Former Spouse Annuities.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—Except as provided in subsection (b), the retired pay of a participant in the Plan who is providing spouse coverage (as described in paragraph (5)) shall be reduced as follows:
+Required reduction in retired pay.—Except as provided in subsection (b), the retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing spouse coverage (as described in paragraph (5)) shall be reduced as follows:
 
 &emsp;&emsp;(A)
 
@@ -82,7 +82,7 @@ Child-Only Annuities.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—The retired pay of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
+Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Reduction for Insurable Interest Coverage.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) <sup>1</sup> of this title shall be reduced as follows:
+Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(5) of this title shall be reduced as follows:
 
 &emsp;&emsp;(A)
 
@@ -122,11 +122,11 @@ Limitation on total reduction.—The total reduction under paragraph (1) may not
 
 &emsp;(3)
 
-Duration of reduction.—The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) <sup>1</sup> of this title or until the person receiving retired pay changes his election under section 1450(f) of this title.
+Duration of reduction.—The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(5) of this title or until the person receiving retired pay changes his election under section 1450(f) of this title.
 
 &emsp;(4)
 
-Rule for computation.—Computation of a member's retired pay for purposes of this subsection shall be made without regard to any reduction under section 1409(b)(2) of this title.
+Rule for computation.—Computation of a member's retired pay for purposes of this subsection shall be made without regard to any reduction under section 1409(b)(2) or 1415(b)(1)(B) of this title.
 
 &emsp;(5)
 
@@ -188,7 +188,7 @@ Conditions.—Notwithstanding any other provision of this subchapter but subject
 
 &emsp;&emsp;(B)
 
-Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
+Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation inthe Plan, such person may discontinue making such deposits effective on such date.
 
 &emsp;&emsp;(C)
 
@@ -228,7 +228,7 @@ Conditions for resumption.—A person described in paragraph (1) who discontinue
 
 &emsp;&emsp;(B)
 
-Effective date of resumed coverage.—Such person's participation in the Plan under this paragraph is effective beginning on the first day of the month after themonth in which the Secretary concerned receives the application for resumption of participation in the Plan.
+Effective date of resumed coverage.—Such person's participation in the Plan under this paragraph is effective beginning on the first day of the month after the month in which the Secretary concerned receives the application for resumption of participation in the Plan.
 
 &emsp;&emsp;(C)
 
@@ -268,15 +268,25 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct.9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166; Pub. L. 115–91, div. A, title VI, §622(b), title X, §1081(a)(26), Dec. 12, 2017, 131 Stat. 1428, 1595.)
 
 #### References in Text
-
-Section 1450(a)(4) of this title, referred to in subsec. (c)(1), (3), was redesignated section 1450(a)(5) of this title by Pub. L. 113–291, div. A, title VI, §624(a)(1)(A), Dec. 19, 2014, 128 Stat. 3403.
 
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–91, §622(b)(1), inserted ", other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title," after "the retired pay" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–91, §622(b)(2), inserted ", other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title," after "The retired pay".
+
+Subsec. (c)(1). Pub. L. 115–91, §1081(a)(26), substituted "section 1450(a)(5)" for "section 1450(a)(4)" in introductory provisions.
+
+Pub. L. 115–91, §622(b)(3)(A), inserted ", other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title," after "The retired pay" in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 115–91, §1081(a)(26), substituted "section 1450(a)(5)" for "section 1450(a)(4)".
+
+Subsec. (c)(4). Pub. L. 115–91, §622(b)(3)(B), inserted "or 1415(b)(1)(B)" after "section 1409(b)(2)".
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–328, §643(b)(1)(A), inserted "or Not Sufficient" after "Not Paid" in heading.
 
@@ -441,6 +451,4 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 "(4)
 
 SBP premium defined.—For purposes of this subsection, the term 'SBP premium' means a reduction in retired pay under section 1452 of title 10, United States Code."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

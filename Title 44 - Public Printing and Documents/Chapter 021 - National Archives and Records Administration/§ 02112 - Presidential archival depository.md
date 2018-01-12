@@ -30,7 +30,7 @@
 
 &emsp;(F) an estimate of the total annual cost to the United States of maintaining, operating, and protecting the depository; and
 
-&emsp;(G) a certification that such facility and equipment (whether offered as a gift or made available without transfer of title) comply with standards promulgated by the Archivist pursuant to paragraph (2) of this subsection.
+&emsp;(G) a certification that such facility and equipment (whether offered as a gift or made available without transfer of title) complywith standards promulgated by the Archivist pursuant to paragraph (2) of this subsection.
 
 (4) Prior to accepting any gift under subparagraph (C) of paragraph (1) for the purpose of making any physical or material change or addition to a Presidential archival depository, or prior to implementing any provision of law requiring the making of such a change or addition, the Archivist shall submit a report in writing on the proposed change or addition to the President of the Senate and the Speaker of the House of Representatives. The report shall include—
 

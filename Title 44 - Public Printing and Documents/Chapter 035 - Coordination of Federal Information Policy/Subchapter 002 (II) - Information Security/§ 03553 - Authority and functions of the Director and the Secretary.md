@@ -18,7 +18,7 @@ Director.—The Director shall oversee agency information security policies and 
 
 &emsp;(5) overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements; and
 
-&emsp;(6) coordinating information security policies and procedures with related informationresources management policies and procedures.
+&emsp;(6) coordinating information security policies and procedures with related information resources management policies and procedures.
 
 (b)
 
@@ -92,7 +92,7 @@ In general.—In carrying out the responsibilities under subsection (b), the Sec
 
 Directives.—The Secretary shall—
 
-&emsp;&emsp;(A) consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards andguidelines developed by the National Institute of Standards and Technology; and
+&emsp;&emsp;(A) consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards and guidelines developed by the National Institute of Standards and Technology; and
 
 &emsp;&emsp;(B) ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40.<sup>1</sup>
 
@@ -148,7 +148,7 @@ Procedures for use of authority.—The Secretary shall—
 
 &emsp;&emsp;(G) consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40; and
 
-&emsp;&emsp;(H) not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+&emsp;&emsp;(H) not later than February 1 of each year, submit to the appropriate congressionalcommittees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
 
 &emsp;(3)
 

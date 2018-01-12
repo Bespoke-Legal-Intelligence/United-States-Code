@@ -240,7 +240,7 @@ Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided t
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -268,7 +268,7 @@ Divisive transactions.—The amendments made by subsection (c) \[amending this s
 
 "(3)
 
-Transition rule.—The amendments made by this section \[amending this section and sections 355, 358, and 368 of this title\] shall not apply to any distribution pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 (or, in the case of the amendments made by subsection (c), any transfer) occurring after April 16, 1997, if such acquisition or transfer is—
+Transition rule.—The amendments made by this section \[amending this section and sections 355, 358, and 368 of this title\] shall not apply to any distribution pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 (or, in the case of the amendments made by subsection\(c), any transfer) occurring after April 16, 1997, if such acquisition or transfer is—
 
 &emsp;"(A) made pursuant to an agreement which was binding on such date and at all times thereafter,
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) improve information resources management in ways that increase the productivity, efficiency and effectiveness of Federal programs, including service delivery to the public;
 
-&emsp;(2) with selected agencies and non-Federal entities on a voluntary basis, conduct pilot projects to test alternative policies, practices, regulations, and procedures to fulfill the purposes of this subchapter, particularly with regard to minimizing the Federal information collection burden; and
+&emsp;(2) with selected agencies and non-Federal entities on a voluntary basis, conduct pilotprojects to test alternative policies, practices, regulations, and procedures to fulfill the purposes of this subchapter, particularly with regard to minimizing the Federal information collection burden; and
 
 &emsp;(3) in consultation with the Administrator of General Services, the Director of the National Institute of Standards and Technology, the Archivist of the United States, and the Director of the Office of Personnel Management, develop and maintain a Governmentwide strategic plan for information resources management, that shall include—
 
@@ -107,6 +107,10 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

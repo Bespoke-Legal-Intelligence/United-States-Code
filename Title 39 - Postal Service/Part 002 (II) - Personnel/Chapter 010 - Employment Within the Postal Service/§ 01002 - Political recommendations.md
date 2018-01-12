@@ -6,7 +6,7 @@
 
 &emsp;(2) any elected official of the government of any State (including the Commonwealth of Puerto Rico) or of any county, city, or other political subdivision of such State or Commonwealth;
 
-&emsp;(3) any official of a national political party or of a political party of any State (including the Commonwealth of Puerto Rico), county, city, or other subdivision of such State or Commonwealth; or
+&emsp;(3) any official of a national political party or of a political party of any State (includingthe Commonwealth of Puerto Rico), county, city, or other subdivision of such State or Commonwealth; or
 
 &emsp;(4) any other individual or organization.
 

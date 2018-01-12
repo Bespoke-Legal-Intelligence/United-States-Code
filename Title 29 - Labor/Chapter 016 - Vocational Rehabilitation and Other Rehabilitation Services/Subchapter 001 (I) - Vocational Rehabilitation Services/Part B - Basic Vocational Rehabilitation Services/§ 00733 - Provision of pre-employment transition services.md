@@ -24,7 +24,7 @@ Funds available under subsection (a) and remaining after the provision of the re
 
 &emsp;(1) implementing effective strategies to increase the likelihood of independent living and inclusion in communities and competitive integrated workplaces;
 
-&emsp;(2) developing and improving strategies for individuals with intellectual disabilities and individuals with significant disabilities to liveindependently, participate in postsecondary education experiences, and obtain and retain competitive integrated employment;
+&emsp;(2) developing and improving strategies for individuals with intellectual disabilities and individuals with significant disabilities to live independently, participate in postsecondary education experiences, and obtain and retain competitive integrated employment;
 
 &emsp;(3) providing instruction to vocational rehabilitation counselors, school transition personnel, and other persons supporting students with disabilities;
 

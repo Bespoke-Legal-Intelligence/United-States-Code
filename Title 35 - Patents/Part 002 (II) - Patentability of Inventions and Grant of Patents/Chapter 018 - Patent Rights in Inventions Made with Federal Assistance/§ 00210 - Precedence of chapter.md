@@ -2,7 +2,7 @@
 
 (a) This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
 
-&emsp;(1) section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 (7 U.S.C. 427i(a); 60 Stat. 1085);
+&emsp;(1) section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 (7 U.S.C. 427i(a); 60 Stat. 1085); <sup>1</sup>
 
 &emsp;(2) section 205(a) of the Act of August 14, 1946 (7 U.S.C. 1624(a); 60 Stat. 1090);
 
@@ -60,6 +60,8 @@
 
 The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
+Section 10 of the Act of June 29, 1935, referred to in subsec. (a)(1), is section 10 of act June 29, 1935, ch. 338, title I, as added Aug. 14, 1946, ch. 966, title I, §101(2), 60 Stat. 1085, which was formerly classified to section 427i of Title 7, Agriculture, prior to editorial reclassification as section 3105 of Title 7.
+
 Section 30168 of title 49, referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, §31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
 
 Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, §109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
@@ -105,6 +107,10 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
+#### Effective Date
+
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

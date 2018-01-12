@@ -14,6 +14,76 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Education and Outreach
+
+Pub. L. 115–10, title VIII, §824, Mar. 21, 2017, 131 Stat. 64, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) United States competitiveness in the 21st century requires engaging the science, technology, engineering, and mathematics (referred to in this section as 'STEM') talent in all States;
+
+&emsp;"(2) the \[National Aeronautics and Space\] Administration is uniquely positioned to educate and inspire students and the broader public on STEM subjects and careers;
+
+&emsp;"(3) the Administration's Education and Communication Offices, Mission Directorates, and Centers have been effective in delivering educational content because of the strong engagement of Administration scientists and engineers in the Administration's education and outreach activities;
+
+&emsp;"(4) the Administration's education and outreach programs, including the Experimental Program to Stimulate Competitive Research (EPSCoR) and the Space Grant College and Fellowship Program, reflect the Administration's successful commitment to growing and diversifying the national science and engineering workforce; and
+
+&emsp;"(5) in order to grow and diversify the Nation's engineering workforce, it is vital for the Administration to bolster programs, such as High Schools United with NASA to Create Hardware (HUNCH) program, that conduct outreach activities to underserved rural communities, vocational schools, and tribal colleges and universities and encourage new participation in the STEM workforce.
+
+"(b)
+
+Continuation of Education and Outreach Activities and Programs.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the National Aeronautics and Space Administration\] shall continue engagement with the public and education opportunities for students via all the Administration's mission directorates to the maximum extent practicable.
+
+&emsp;"(2)
+
+Report.—Not later than 60 days after the date of enactment of this Act \[Mar. 21, 2017\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives\] a report on the Administration's near-term outreach plans for advancing space law education."
+
+#### Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women
+
+Pub. L. 115–7, Feb. 28, 2017, 131 Stat. 13, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act'.
+
+#### "SEC. 2. FINDINGS.
+
+"The Congress finds that—
+
+&emsp;"(1) NASA GIRLS and NASA BOYS are virtual mentoring programs using commercially available video chat programs to pair National Aeronautics and Space Administration mentors with young students anywhere in the country. NASA GIRLS and NASA BOYS give young students the opportunity to interact and learn from real engineers, scientists, and technologists.
+
+&emsp;"(2) The Aspire to Inspire (A2I) program engages young girls to present science, technology, engineering, and mathematics (STEM) career opportunities through the real lives and jobs of early career women at NASA.
+
+&emsp;"(3) The Summer Institute in Science, Technology, Engineering, and Research (SISTER) program at the Goddard Space Flight Center is designed to increase awareness of, and provide an opportunity for, female middle school students to be exposed to and explore nontraditional career fields with Goddard Space Flight Center women engineers, mathematicians, scientists, technicians, and researchers.
+
+#### "SEC. 3. SUPPORTING WOMEN'S INVOLVEMENT IN THE FIELDS OF AEROSPACE AND SPACE EXPLORATION.
+
+"The Administrator of the National Aeronautics and Space Administration shall encourage women and girls to study science, technology, engineering, and mathematics, pursue careers in aerospace, and further advance the Nation's space science and exploration efforts through support of the following initiatives:
+
+&emsp;"(1) NASA GIRLS and NASA BOYS.
+
+&emsp;"(2) Aspire to Inspire.
+
+&emsp;"(3) Summer Institute in Science, Technology, Engineering, and Research.
+
+#### "SEC. 4. PLAN.
+
+"Not later than 90 days after the date of enactment of this Act \[Feb. 28, 2017\], the Administrator shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for how NASA can best facilitate and support both current and retired astronauts, scientists, engineers, and innovators, including early career female astronauts, scientists, engineers, and innovators, to engage with K–12 female STEM students and inspire the next generation of women to consider participating in the fields of science, technology, engineering, and mathematics and to pursue careers in aerospace. This plan shall—
+
+&emsp;"(1) report on existing activities with current and retired NASA astronauts, scientists, engineers, and innovators;
+
+&emsp;"(2) identify how NASA could best leverage existing authorities to facilitate and support current and retired astronaut, scientist, engineer, and innovator participation in NASA outreach efforts;
+
+&emsp;"(3) propose and describe a program specific to retired astronauts, scientists, engineers, and innovators; and
+
+&emsp;"(4) identify any additional authorities necessary to institute such a program."
+
 #### NASA's Contribution to Education
 
 Pub. L. 111–358, title II, §202, Jan. 4, 2011, 124 Stat. 3993, provided that:
@@ -40,7 +110,7 @@ Educational Program Goals.—NASA shall develop and maintain educational program
 
 &emsp;&emsp;"(C) promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
 
-&emsp;"(5) to create and support opportunities for enhanced and ongoing professional development for teachers using best practices that improve the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level."
+&emsp;"(5) to create and support opportunities for enhanced and ongoing professional development forteachers using best practices that improve the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level."
 
 \[For definition of "STEM" as used in section 202 of Pub. L. 111–358, set out above, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of Title 42, The Public Health and Welfare.\]
 
@@ -126,7 +196,7 @@ Report.—Not later than one year after the date of enactment of this Act \[Dec.
 
 &emsp;&emsp;"(B) lists the research and development programs of Federal agencies other than NASA that were reviewed as part of the study, which shall include any program supporting research and development in an area related to the programs of NASA, and the most recent budget figures for those programs of other agencies;
 
-&emsp;&emsp;"(C) recommends any changes to the research and development programs of NASA that should bemade in response to the findings of the study required by paragraph (1); and
+&emsp;&emsp;"(C) recommends any changes to the research and development programs of NASA that should be made in response to the findings of the study required by paragraph (1); and
 
 &emsp;&emsp;"(D) describes mechanisms the Office of Science and Technology Policy will use to ensure adequate coordination between NASA and Federal agencies that operate related programs.
 

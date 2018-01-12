@@ -10,11 +10,11 @@ A prior section 405 of Pub. L. 89–136 was classified to section 3173 of this t
 
 Prior sections 3181 to 3190 were repealed by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
-Section 3181, Pub. L. 89–136, title V, §501, Aug. 26, 1965, 79 Stat. 564; Pub. L. 91–123, title II, §202, Nov. 25, 1969, 83 Stat. 216; Pub. L. 94–188, title II, §209(a), Dec. 31, 1975, 89 Stat. 1091, related to designation, etc., of economic development regions.
+Section 3181, Pub. L. 89–136, title V, §501, Aug. 26, 1965, 79 Stat. 564; Pub. L. 91–123, title II, §202, Nov. 25, 1969,83 Stat. 216; Pub. L. 94–188, title II, §209(a), Dec. 31, 1975, 89 Stat. 1091, related to designation, etc., of economic development regions.
 
 Section 3182, Pub. L. 89–136, title V, §502, Aug. 26, 1965, 79 Stat. 564; Pub. L. 94–188, title II, §§208, 209(b), Dec. 31, 1975, 89 Stat. 1091, related to establishment, membership, etc., of regional commissions.
 
-Section 3183, Pub. L. 89–136, title V, §503, Aug. 26, 1965, 79 Stat. 565; Pub. L. 90–103, title II, §201, Oct. 11, 1967,81 Stat. 266; Pub. L. 93–423, §9(a), Sept. 27, 1974, 88 Stat. 1162, set forth functions of Commissions.
+Section 3183, Pub. L. 89–136, title V, §503, Aug. 26, 1965, 79 Stat. 565; Pub. L. 90–103, title II, §201, Oct. 11, 1967, 81 Stat. 266; Pub. L. 93–423, §9(a), Sept. 27, 1974, 88 Stat. 1162, set forth functions of Commissions.
 
 Section 3184, Pub. L. 89–136, title V, §504, Aug. 26, 1965, 79 Stat. 566, set out program development criteria.
 
@@ -31,4 +31,8 @@ Section 3188a, Pub. L. 89–136, title V, §509, as added Pub. L. 90–103, titl
 Section 3189, Pub. L. 89–136, title V, §510, formerly §509, Aug. 26, 1965, 79 Stat. 569; renumbered §510, Pub. L. 90–103, title II, §203, Oct. 11, 1967, 81 Stat. 266; Pub. L. 94–273, §25, Apr. 21, 1976, 90 Stat. 380, related to annual reports to Congress.
 
 Section 3190, Pub. L. 89–136, title V, §511, as added Pub. L. 91–123, title II, §206, Nov. 25, 1969, 83 Stat. 218; amended Pub. L. 93–423, §9(d), Sept. 27, 1974, 88 Stat. 1162, required coordination of activities between Secretary and Federal cochairmen in grants and loans.
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

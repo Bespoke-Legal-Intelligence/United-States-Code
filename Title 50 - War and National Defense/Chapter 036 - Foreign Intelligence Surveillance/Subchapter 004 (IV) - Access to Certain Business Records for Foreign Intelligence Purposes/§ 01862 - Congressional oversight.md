@@ -1,6 +1,6 @@
 ### §1862. Congressional oversight
 
-(a) On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence andthe Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under section 1861 of this title.
+(a) On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under section 1861 of this title.
 
 (b) In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year—
 
@@ -54,7 +54,7 @@
 
 #### <i>(a) Application for authorization</i>
 
-<i>The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.</i>
+<i>The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall</i><i>be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.</i>
 
 #### <i>(b) Recipient and contents of application</i>
 
@@ -130,5 +130,5 @@ Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 15, 2019, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 15, 2019, or with respect to any particular offense or potential offense that began or occurred before Dec. 15, 2019, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 15, 2019, except that former provisions tocontinue in effect with respect to any particular foreign intelligence investigation that began before Dec. 15, 2019, or with respect to any particular offense or potential offense that began or occurred before Dec. 15, 2019, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
 

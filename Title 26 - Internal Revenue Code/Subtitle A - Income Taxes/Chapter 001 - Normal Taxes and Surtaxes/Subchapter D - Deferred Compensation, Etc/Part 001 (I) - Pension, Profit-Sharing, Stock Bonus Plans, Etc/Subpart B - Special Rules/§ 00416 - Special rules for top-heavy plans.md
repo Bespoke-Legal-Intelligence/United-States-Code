@@ -16,7 +16,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (A) 3-year vesting
 
-&emsp;&emsp;A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with theemployer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
+&emsp;&emsp;A plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with the employer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
 
 #### (B) 6-year graded vesting
 
@@ -94,7 +94,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (E) Annual retirement benefit
 
-&emsp;&emsp;For purposes of this paragraph, the term "annual retirement benefit" means a benefit payable annually in the form of a single life annuity (with no ancillary benefits) beginning at the normal retirement age under the plan.
+&emsp;&emsp;For purposes of this paragraph, the term "annual retirement benefit" means a benefitpayable annually in the form of a single life annuity (with no ancillary benefits) beginning at the normal retirement age under the plan.
 
 #### (2) Defined contribution plans
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amount of the account of any employee,
 
-> &emsp;&emsp;such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 1-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.
+> &emsp;&emsp;such present value or amount shall be increased by the aggregate distributions madewith respect to such employee under the plan during the 1-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.
 
 #### (B) 5-year period in case of in-service distribution
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (B) Benefits not taken into account if employee ceases to be key employee
 
-&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year,any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
+&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year, any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
 
 #### (C) Determination date
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, the term "5-percent owner" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the employer is a corporation, any person who owns (or is considered as owning within the meaning of section 318) more than 5 percent of the outstanding stock of the corporation or stock possessing more than 5 percent of the total combined voting power of all stock of the corporation, or
+&emsp;&emsp;&emsp;&emsp;(I) if the employer is a corporation, any person who owns (or is considered asowning within the meaning of section 318) more than 5 percent of the outstanding stock of the corporation or stock possessing more than 5 percent of the total combined voting power of all stock of the corporation, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if the employer is not a corporation, any person who owns more than 5 percent of the capital or profits interest in the employer.
 

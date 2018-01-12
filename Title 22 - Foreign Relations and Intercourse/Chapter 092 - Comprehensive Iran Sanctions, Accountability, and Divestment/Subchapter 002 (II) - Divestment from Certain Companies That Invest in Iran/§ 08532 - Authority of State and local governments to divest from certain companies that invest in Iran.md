@@ -38,7 +38,7 @@ Any measure taken by a State or local government under subsection (b) shall meet
 
 #### (e) Notice to Department of Justice
 
-Not later than 30 days after adopting a measure pursuant to subsection (b), a State or local government shall submit written notice to the Attorney General describing the measure.
+Not later than 30 days after adopting a measure pursuant to subsection (b), a State or localgovernment shall submit written notice to the Attorney General describing the measure.
 
 #### (f) Nonpreemption
 

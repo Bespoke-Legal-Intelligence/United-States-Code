@@ -44,7 +44,7 @@ A sale of qualified securities meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) the employer whose employees are covered by the plan described in paragraph (1), or
 
-&emsp;&emsp;&emsp;(ii) any authorized officer of the cooperative described in paragraph (l),
+&emsp;&emsp;&emsp;(ii) any authorized officer of the cooperative described in paragraph (l),<sup>1</sup>
 
 > &emsp;&emsp;consenting to the application of sections 4978 and 4979A with respect to such employer or cooperative.
 
@@ -168,7 +168,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 #### (1) In general
 
-&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstandingany other provision of this title, gain (if any) shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
+&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any) shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
 
 #### (2) Special rule for corporations controlled by the taxpayer
 
@@ -254,7 +254,7 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–51
 
 <b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–188, §1316(d)(3), substituted "domestic C corporation" for "domestic corporation".
 
-Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shallbe applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
+Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shall be applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
 
 Subsec. (c)(4)(A)(i). Pub. L. 104–188, §1311(b)(3), substituted "section 1362(d)(3)(C)" for "section 1362(d)(3)(D)".
 
@@ -381,4 +381,6 @@ Pub. L. 99–514, title XVIII, §1854(a)(5)(B), Oct. 22, 1986, 100 Stat. 2875, p
 &emsp;"(iii) such property does not meet the requirements of section 1042(c)(4) of such Code (as amended by subparagraph (A)),
 
 > then, with respect to so much of any gain which the taxpayer treated as not recognized under section 1042(a) by reason of the acquisition of such property, the replacement period for purposes of such section shall not expire before January 1, 1987."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
 

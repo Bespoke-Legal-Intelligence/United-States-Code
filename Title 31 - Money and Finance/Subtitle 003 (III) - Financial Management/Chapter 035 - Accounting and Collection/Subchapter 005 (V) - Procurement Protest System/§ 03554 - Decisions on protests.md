@@ -40,7 +40,7 @@
 
 &emsp;(A) costs for consultant and expert witness fees that exceed the highest rate of compensation for expert witnesses paid by the Federal Government; or
 
-&emsp;(B) costs for attorneys' fees that exceed $150 per hour unless the agency determines, based on the recommendation of the ComptrollerGeneral on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
+&emsp;(B) costs for attorneys' fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
 
 (3) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency shall—
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 103–355, §1403(b)(2), amended subsec. (c) generally. Pri
 
 &emsp;"(B) bid and proposal preparation.
 
-"(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned out of funds available to or for the use of the Federal agency for the procurement of property and services."
+"(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned outof funds available to or for the use of the Federal agency for the procurement of property and services."
 
 Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 "(2) Not later than January 31 of each year, the Comptroller General shall transmit to Congress a report describing each instance in which a Federal agency did not fully implement the Comptroller General's recommendations during the preceding fiscal year."
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out "unless the Comptroller General determines and states in writing the reasons that the specific circumstances of theprotest require a longer period" after "submitted to the Comptroller General" before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out "unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period" after "submitted to the Comptroller General" before period at end.
 
 #### Change of Name
 

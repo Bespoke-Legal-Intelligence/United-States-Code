@@ -24,5 +24,5 @@ None of the funds appropriated by this or any subsequent appropriations Act may 
 
 #### Codification
 
-Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2010,and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of the Public Health Service Act which comprises this chapter.
 

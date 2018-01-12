@@ -20,7 +20,7 @@
 
 &emsp;(3) subject to the supervision of an individual named by paragraph (1) of this subsection while engaged in the performance of the duties of his position.
 
-(b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (if any), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
+(b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (if any), and whose employment in such a positionbegan before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
 (c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Navy Ships Stores Program, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
@@ -136,7 +136,7 @@ Subsec. (c)(2). Pub. L. 99–335 substituted "chapter 81, chapter 84," for "chap
 
 <b>1979</b>—Subsec. (a)(1)(F). Pub. L. 96–54, §2(a)(5), substituted "an adjutant" for "the adjutants" and struck out ", United States Code" after "32".
 
-Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
+Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manner as amendment by section703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
 
 <b>1978</b>—Subsec. (c)(1). Pub. L. 95–454 substituted "7204" for "7154", and "Office of Personnel Management" for "Civil Service Commission". Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
 
@@ -152,7 +152,7 @@ Pub. L. 104–201, div. A, title III, §370(e), Sept. 23, 1996, 110 Stat. 2499, 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set outas an Effective Date note under section 2601 of Title 29, Labor.
+Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as an Effective Date note under section 2601 of Title 29, Labor.
 
 #### Effective Date of 1990 Amendment
 
@@ -210,7 +210,7 @@ Pub. L. 101–508, title VII, §7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as 
 
 "(4) If an individual makes an election under section 8347(q)(2) or 8461(n)(2) of title 5, United States Code, to remain covered by a retirement system established for employees described in section 2105(c) of such title, any Government agency thereafter employing such individual shall, in lieu of any deductions or contributions for which it would otherwise be responsible with respect to such individual under chapter 83 or 84 of such title, make such deductions from pay and such contributions as would be required (under the retirement system for nonappropriated fund employees involved) if it were a nonappropriated fund instrumentality. Any such deductions and contributions shall be remitted to the Department of Defense or the Coast Guard, as applicable, for transmission to the appropriate retirement system."
 
-\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an EffectiveDate of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 7202(n) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
 #### Prohibition of Decrease in Basic Pay Rate of Employees of Nonappropriated Fund Instrumentalities
 

@@ -50,7 +50,7 @@
 
 &emsp;(11) Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
 
-(b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
+(b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) (or any portion thereof) for which such individual will be responsible.
 
 (Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970; Pub. L. 109–58, title X, §1006(b)(1), Aug. 8, 2005, 119 Stat. 931; Pub. L. 111–11, title XIII, §13004(a), Mar. 30, 2009, 123 Stat. 1449.)
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 
 #### Federal Power Marketing Administration Employment Levels
 
-Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
+Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities underthis chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
 
 #### Marketing and Exchange of Surplus Electricity From Navajo Generating Station
 

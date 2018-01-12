@@ -112,11 +112,11 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (f)
 
-Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel uponreport of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
 (2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
 
-(3) The assistance of a Special Victims' Counsel under this subsection shall be available to anindividual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
+(3) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
 (g)
 
@@ -130,9 +130,21 @@ Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-re
 
 Regulations.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816.)
+(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599.)
+
+#### Amendment of Subsection (g)(1)
+
+<i>Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (g)(1) of this section is amended—</i>
+
+<i>(1) by striking "920a, 920b, 920c, or 925" and inserting "920b, 920c, or 930"; and</i>
+
+<i>(2) by striking "120a, 120b, 120c, or 125" and inserting "120b, 120c, or 130".</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g)(1). Pub. L. 115–91 substituted "920b, 920c, or 930" for "920a, 920b, 920c, or 925" and "120b, 120c, or 130" for "120a, 120b, 120c, or 125".
 
 <b>2015</b>—Subsec. (a)(2)(C). Pub. L. 114–92, §532, added subpar. (C).
 
@@ -156,6 +168,14 @@ Subsec. (e)(1). Pub. L. 113–291, §531(c)(3), inserted "concerned" after "juri
 
 Subsec. (f). Pub. L. 113–291, §533(b), substituted "described in subsection (a)(2)" for "eligible for military legal assistance under section 1044 of this title" in pars. (1) and (2).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+
+#### Special Victims' Counsel Training Regarding the Unique Challenges Often Faced by Male Victims of Sexual Assault
+
+Pub. L. 115–91, div. A, title V, §536, Dec. 12, 2017, 131 Stat. 1392, provided that: "The baseline Special Victims' Counsel training established under section 1044e(d)(2) of title 10, United States Code, shall include training for Special Victims' Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault."
+
 #### Enhancement of Victims' Rights in Connection With Prosecution of Certain Sex-Related Offenses
 
 Pub. L. 113–291, div. A, title V, §534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that:
@@ -174,7 +194,7 @@ Convening authority consideration of preference.—The preference expressed by t
 
 &emsp;"(3)
 
-Notice to appropriate jurisdiction of victim's preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim's preference for civilian prosecution.
+Notice to appropriate jurisdiction of victim's preference for civilian prosecution.—If thevictim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim's preference for civilian prosecution.
 
 &emsp;"(4)
 
@@ -202,5 +222,5 @@ Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969
 
 #### Enhanced Training Requirement
 
-Pub. L. 113–66, div. A, title XVII, §1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: "The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelinesprovided under section 1044e of title 10, United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses."
+Pub. L. 113–66, div. A, title XVII, §1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: "The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under section 1044e of title 10, United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses."
 

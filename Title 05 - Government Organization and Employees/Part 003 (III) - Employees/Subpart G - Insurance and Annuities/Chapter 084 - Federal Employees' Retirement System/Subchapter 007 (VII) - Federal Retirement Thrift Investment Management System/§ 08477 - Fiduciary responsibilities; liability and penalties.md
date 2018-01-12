@@ -182,7 +182,7 @@
 
 &emsp;(ii) deemed a tort action brought against the United States under the provisions of title 28 and all references thereto.
 
-(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
+(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall notapply to claims based upon an alleged violation of subsection (b) or (c).
 
 (E) For the purposes of paragraph (3)(C)(ii) the provisions of sections 2680(h) of title 28 shall not apply to any claim based upon an alleged violation of subsection (b) or (c).
 
@@ -258,7 +258,7 @@ Subsec. (e)(2), (3). Pub. L. 100–238, §133(a)(5), added pars. (2) and (3) and
 
 &emsp;&emsp;"(ii) to obtain any other appropriate equitable relief to redress a violation of any such provision; or
 
-&emsp;"(C) by any participant or beneficiary to recover benefits due to him or her under the provisions of subchapter III of this chapter, to enforce his or her rights under such provisions, or to clarify his or her rights to future benefits under such provisions.
+&emsp;"(C) by any participant or beneficiary to recover benefits due to him or her under the provisions of subchapter III of this chapter, to enforce his or herrights under such provisions, or to clarify his or her rights to future benefits under such provisions.
 
 "(3) An action may not be commenced under paragraph (2) with respect to a fiduciary's breach of any responsibility, duty, or obligation under subsection (b) or a violation of subsection (c) after the earlier of—
 

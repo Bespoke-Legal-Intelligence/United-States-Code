@@ -186,7 +186,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 #### (2) Notice that data is subject to correction after final review
 
-&emsp;Any disclosure statement provided pursuant to paragraph (1) shall be accompanied by aclear and conspicuous notice that the statement is subject to final review and revision, if necessary.
+&emsp;Any disclosure statement provided pursuant to paragraph (1) shall be accompanied by a clear and conspicuous notice that the statement is subject to final review and revision, if necessary.
 
 #### (3) Reasonable charge for information
 
@@ -230,7 +230,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 #### (B) Provision of information upon request
 
-&emsp;&emsp;Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
+&emsp;&emsp;Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institutionreceiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
 
 #### (2) Form of information
 

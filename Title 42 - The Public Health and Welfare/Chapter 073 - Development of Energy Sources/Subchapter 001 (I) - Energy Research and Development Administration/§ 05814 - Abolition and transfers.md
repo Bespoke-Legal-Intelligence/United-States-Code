@@ -88,7 +88,7 @@ The legislative history of Pub. L. 93–438 (which is classified principally to 
 
 Subsection 31b. \[42 U.S.C. 2051(b)\] (certain grants and contributions).
 
-Section 33 \[42 U.S.C. 2053\] ("Research for Others"); provided that the NSLC retains authority to contract out for research as it deems necessary to exercise its licensing and related regulatory functions.
+Section 33 \[42 U.S.C. 2053\] ("Research for Others"); provided that the NSLC retains authority to contractout for research as it deems necessary to exercise its licensing and related regulatory functions.
 
 Chapter 5 \[(sections 41–44) 42 U.S.C. 2061–2064\] ("Production of Special Nuclear Material").
 
@@ -292,7 +292,7 @@ Section 281 \[42 U.S.C. 2011 note\] ("Separability") and Section 291 \[42 U.S.C.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

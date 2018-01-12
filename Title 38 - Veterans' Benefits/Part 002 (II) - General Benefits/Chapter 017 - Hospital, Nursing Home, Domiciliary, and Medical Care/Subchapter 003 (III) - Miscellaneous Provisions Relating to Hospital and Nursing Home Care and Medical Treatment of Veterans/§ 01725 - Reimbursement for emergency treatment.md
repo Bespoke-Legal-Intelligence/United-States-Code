@@ -90,7 +90,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(A) An insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement under which health services for individuals are provided or the expenses of such services are paid.
 
-&emsp;&emsp;(B) An insurance program described in section 1811 of the Social Security Act (42U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
+&emsp;&emsp;(B) An insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
 
 &emsp;&emsp;(C) A State plan for medical assistance approved under title XIX of such Act (42 U.S.C. 1396 et seq.).
 
@@ -144,5 +144,5 @@ Pub. L. 106–117, title I, §111(c), Nov. 30, 1999, 113 Stat. 1556, provided th
 
 #### Implementation Reports
 
-Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, provided that: "The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of section 1725 of title 38, United States Code, as added by subsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section."
+Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, provided that: "The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of section 1725 of title 38, United States Code, as added bysubsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section."
 

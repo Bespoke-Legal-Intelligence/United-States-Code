@@ -30,7 +30,7 @@ Temporary Operations.—The Secretary may allow temporary operation of an aircra
 
 (d)
 
-Regulations.—The Secretary may prescribe such regulations or other guidance as may be necessary for the implementation of this section.
+Regulations.—The Secretary may prescribe such regulations or other guidance asmay be necessary for the implementation of this section.
 
 (e)
 

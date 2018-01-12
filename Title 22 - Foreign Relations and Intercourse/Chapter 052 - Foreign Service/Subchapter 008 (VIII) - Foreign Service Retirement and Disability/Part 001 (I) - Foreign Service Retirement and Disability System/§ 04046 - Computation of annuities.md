@@ -24,7 +24,7 @@
 
 (B) A special agent described in this subparagraph is any such agent or former agent who—
 
-&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing an immediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
+&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing animmediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
 
 &emsp;(II) at the time of retirement—
 
@@ -58,11 +58,11 @@
 
 (2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
-(3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a), or 55 percent of any lesser amount elected as thebase for the survivor benefit under paragraph (1)(B).
+(3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a), or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
 (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under section 4054(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under section 4054(b)(4)(B) of this title.
 
-(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same ratecommencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 #### (c) Surviving children
 
@@ -256,7 +256,7 @@ Month Period to Elect Survivor Annuity.—(1) Notwithstanding section 702 of thi
 
 &emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
 
-&emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
+&emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard tothe provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
 
 "(3) For purposes of this subsection, the term 'participant' has the meaning given that term in section 803 of the Foreign Service Act of 1980 (22 U.S.C. 4043)."
 

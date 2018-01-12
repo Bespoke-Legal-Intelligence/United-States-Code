@@ -34,7 +34,7 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 (5) The holder of a license or a permit under this chapter may launch or reenter a space flight participant only if—
 
-&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
+&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flightparticipant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
 
 &emsp;(B) the holder of the license or permit has informed any space flight participant in writing, prior to receiving any compensation from that space flight participant or (in the case of a space flight participant not providing compensation) otherwise concluding any agreement to fly that space flight participant, that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants;
 
@@ -186,7 +186,7 @@ In subsection (b)(2)(C), the words "that would otherwise apply to the launch of 
 
 Subsection (b)(2)(D), referred to in subsec. (a)(1), was redesignated subsection (b)(2)(E) by Pub. L. 108–492, §2(c)(10), Dec. 23, 2004, 118 Stat. 3977.
 
-The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec. (b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
+The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec.\(b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
 
 The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
 

@@ -74,7 +74,7 @@ Amendment by Pub. L. 101–234 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–360 applicable to taxable years beginning after Dec. 31, 1988, see section 111(e) of Pub. L. 100–360, set out as an Effective Date note under section 59B of this title.
+Amendment by Pub. L. 100–360 applicable to taxable years beginning after Dec. 31, 1988, see section 111(e) ofPub. L. 100–360, set out as an Effective Date note under section 59B of this title.
 
 #### Effective Date of 1986 Amendment
 

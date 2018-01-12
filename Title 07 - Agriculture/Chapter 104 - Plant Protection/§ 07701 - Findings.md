@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) biological control is often a desirable, low-risk means of ridding crops and other plants of plant pests and noxious weeds, and its use should be facilitated by the Department of Agriculture, other Federal agencies, and States whenever feasible;
 
-&emsp;(3) it is the responsibility of the Secretary to facilitate exports, imports, and interstate commerce in agricultural products and other commodities that pose a risk of harboring plant pests or noxious weeds in ways that will reduce, to the extent practicable, as determined by the Secretary, the risk of dissemination of plant pests or noxious weeds;
+&emsp;(3) it is the responsibility of the Secretary to facilitate exports, imports, and interstate commerce in agricultural products and other commodities that pose a risk of harboringplant pests or noxious weeds in ways that will reduce, to the extent practicable, as determined by the Secretary, the risk of dissemination of plant pests or noxious weeds;
 
 &emsp;(4) decisions affecting imports, exports, and interstate movement of products regulated under this chapter shall be based on sound science;
 

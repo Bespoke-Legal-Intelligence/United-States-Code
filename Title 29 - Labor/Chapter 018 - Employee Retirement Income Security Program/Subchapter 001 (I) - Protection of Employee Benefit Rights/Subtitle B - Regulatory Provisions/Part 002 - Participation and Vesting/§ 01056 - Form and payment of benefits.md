@@ -30,7 +30,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 (1) Each pension plan shall provide that benefits provided under the plan may not be assigned or alienated.
 
-(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated asan assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
+(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated as an assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
 
 (3)(A) Paragraph (1) shall apply to the creation, assignment, or recognition of a right to any benefit payable with respect to a participant pursuant to a domestic relations order, except that paragraph (1) shall not apply if the order is determined to be a qualified domestic relations order. Each pension plan shall provide for the payment of benefits in accordance with the applicable requirements of any qualified domestic relations order.
 
@@ -66,7 +66,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(iii) does not require the payment of benefits to an alternate payee which are required to be paid to another alternate payee under another order previously determined to be a qualified domestic relations order.
 
-(E)(i) A domestic relations order shall not be treated as failing to meet the requirements of clause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
+(E)(i) A domestic relations order shall not be treated as failing to meet the requirements ofclause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
 
 &emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
 
@@ -98,7 +98,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) shall be in writing,
 
-&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under theplan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
+&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
 
 &emsp;(III) shall permit an alternate payee to designate a representative for receipt of copies of notices that are sent to the alternate payee with respect to a domestic relations order.
 
@@ -160,7 +160,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
 
-> A plan shall not be treated as failing to meet the requirements of section 1055 of this titlesolely by reason of an offset under this paragraph.
+> A plan shall not be treated as failing to meet the requirements of section 1055 of this title solely by reason of an offset under this paragraph.
 
 (5)(A) The survivor annuity described in paragraph (4)(C)(iii) shall be determined as if—
 
@@ -202,7 +202,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (f) Missing participants in terminated plans
 
-In the case of a plan covered by section 1350 of this title, upon termination of the plan, benefits of missing participants shall be treated in accordance with section 1350 of this title.
+In the case of a plan covered by section 1350 of this title, upon termination of the plan, benefitsof missing participants shall be treated in accordance with section 1350 of this title.
 
 #### (g) Funding-based limits on benefits and benefit accruals under single-employer plans
 
@@ -244,7 +244,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Exemption
 
-&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of thefirst day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—
+&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—
 
 &emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the amendment, and
 
@@ -272,7 +272,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount of the payment which could be made without regard to this subsection, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title) of the maximum guarantee with respect to the participant under section 1322 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title)of the maximum guarantee with respect to the participant under section 1322 of this title.
 
 #### (ii) One-time application
 
@@ -304,7 +304,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, benefit accrualsunder the plan shall cease as of the valuation date for the plan year.
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, benefit accruals under the plan shall cease as of the valuation date for the plan year.
 
 #### (B) Exemption
 
@@ -344,7 +344,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Prefunding balance or funding standard carryover balance may not be used
 
-&emsp;&emsp;No prefunding balance or funding standard carryover balance under section 1083(f) of this title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
+&emsp;&emsp;No prefunding balance or funding standard carryover balance under section 1083(f) ofthis title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
 
 #### (C) Deemed reduction of funding balances
 
@@ -406,7 +406,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Adjusted funding target attainment percentage
 
-&emsp;&emsp;The term "adjusted funding target attainment percentage" means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
+&emsp;&emsp;The term "adjusted funding target attainment percentage" means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by theaggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
 
 #### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
@@ -522,7 +522,7 @@ Amendment by section 103(a) of Pub. L. 109–280 applicable to plan years beginn
 
 Amendment by section 108(a)(9), (10) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Pub. L. 109–280, title IV, §410(c), Aug. 17, 2006, 120 Stat. 935, provided that: "The amendments made by this section \[amending this section and section 1350 ofthis title\] shall apply to distributions made after final regulations implementing subsections (c) and (d) of section 4050 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1350(c), (d)\] (as added by subsection (a)), respectively, are prescribed."
+Pub. L. 109–280, title IV, §410(c), Aug. 17, 2006, 120 Stat. 935, provided that: "The amendments made by this section \[amending this section and section 1350 of this title\] shall apply to distributions made after final regulations implementing subsections (c) and (d) of section 4050 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1350(c), (d)\] (as added by subsection (a)), respectively, are prescribed."
 
 #### Effective Date of 1997 Amendment
 
@@ -560,7 +560,7 @@ Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provid
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

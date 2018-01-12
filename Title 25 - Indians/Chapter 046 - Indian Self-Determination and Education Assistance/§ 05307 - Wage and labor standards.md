@@ -2,7 +2,7 @@
 
 #### (a) Similar construction in locality
 
-All laborers and mechanics employed by contractors or subcontractors (excluding tribes andtribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this chapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 <sup>1</sup> is applicable under the terms of this section, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14, of 1950, and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this chapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 <sup>1</sup> is applicable under the terms of this section, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14, of 1950, and section 3145 of title 40.
 
 #### (b) Preference requirements for wages and grants
 
@@ -26,7 +26,7 @@ Act of March 3, 1921, referred to in subsec. (a), probably means the act of Marc
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known asthe Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

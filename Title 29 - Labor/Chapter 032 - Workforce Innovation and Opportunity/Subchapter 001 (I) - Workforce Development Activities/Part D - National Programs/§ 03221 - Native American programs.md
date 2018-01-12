@@ -76,7 +76,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 #### (f) Consolidation of funds
 
-Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
+Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
 
 #### (g) Nonduplicative and nonexclusive services
 
@@ -92,7 +92,7 @@ Nothing in this section shall be construed—
 
 #### (A) Development of indicators and standards
 
-&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performanceindicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
+&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performance indicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
 
 #### (B) Special considerations
 
@@ -112,7 +112,7 @@ Nothing in this section shall be construed—
 
 #### (1) Organizational unit established
 
-&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibility for the administration of the activities authorized under this section.
+&emsp;The Secretary shall designate a single organizational unit within the Department ofLabor that shall have primary responsibility for the administration of the activities authorized under this section.
 
 #### (2) Regulations
 
@@ -188,7 +188,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to award grants, on a competitive basis, to entities with demonstrated experience and expertise in developing and implementing programs for the unique populations who reside in Alaska or Hawaii, including public and private nonprofit organizations, tribal organizations, American Indian tribal colleges or universities, institutions of higher education, or consortia of such organizations or institutions, to improve job training and workforce investment activities for such unique populations.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to award grants, on a competitive basis, to entities with demonstrated experience and expertise in developing and implementing programs for the unique populations who reside in Alaska or Hawaii, including public and private nonprofit organizations, tribal organizations, American Indiantribal colleges or universities, institutions of higher education, or consortia of such organizations or institutions, to improve job training and workforce investment activities for such unique populations.
 
 #### (2) Authorization of appropriations
 
@@ -214,7 +214,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, §2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

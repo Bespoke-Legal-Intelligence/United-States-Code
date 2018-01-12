@@ -42,7 +42,7 @@ The Secretary shall undertake the activities described in subsection (b), in cou
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title VI of Pub. L. 101–513, Nov. 5, 1990, 104 Stat. 2070, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title VI of Pub. L.101–513, Nov. 5, 1990, 104 Stat. 2070, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) the date that is 18 months after the date on which the investigation is initiated, or
 
-&emsp;(B) in all cases not described in subparagraph (A) or paragraph (3), the date that is 12 months after the date on which the investigation is initiated.
+&emsp;(B) in all cases not described in subparagraph (A) or paragraph (3), the date that is 12months after the date on which the investigation is initiated.
 
 (3)(A) If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and—
 
@@ -36,7 +36,7 @@
 
 &emsp;(iii) such foreign country is undertaking enforcement measures to provide adequate and effective protection of intellectual property rights,
 
-> the Trade Representative shall publish in the Federal Register notice of such determination and shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 9months after the date on which such investigation is initiated.
+> the Trade Representative shall publish in the Federal Register notice of such determination and shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 9 months after the date on which such investigation is initiated.
 
 (4) In any case in which a dispute is not resolved before the close of the minimum dispute settlement period provided for in a trade agreement, the Trade Representative, within 15 days after the close of such dispute settlement period, shall submit a report to Congress setting forth the reasons why the dispute was not resolved within the minimum dispute settlement period, the status of the case at the close of the period, and the prospects for resolution. For purposes of this paragraph, the minimum dispute settlement period provided for under any such trade agreement is the total period of time that results if all stages of the formal dispute settlement procedures are carried out within the time limitations specified in the agreement, but computed without regard to any extension authorized under the agreement at any stage.
 
@@ -68,7 +68,7 @@ Subsec. (a)(3)(A). Pub. L. 108–429, §2201(b), amended subpar. (A) generally. 
 
 <b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–465, §314(d)(1), struck out "(other than the agreement on subsidies and countervailing measures described in section 2503(c)(5) of this title)" after "trade agreement".
 
-Subsec. (a)(3)(A). Pub. L. 103–465, §314(d)(2)(A), inserted "does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property (referred to in section 3511(d)(15) of this title), is involved or" after "Trade Representative" the first place appearing.
+Subsec. (a)(3)(A). Pub. L. 103–465, §314(d)(2)(A), inserted "does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property (referred to in section 3511(d)(15) ofthis title), is involved or" after "Trade Representative" the first place appearing.
 
 Subsec. (a)(3)(B). Pub. L. 103–465, §314(d)(2)(B), in introductory provisions, substituted "an investigation initiated by reason of section 2412(b)(2) of this title (other than an investigation involving a trade agreement)" for "any investigation initiated by reason of section 2412(b)(2) of this title".
 

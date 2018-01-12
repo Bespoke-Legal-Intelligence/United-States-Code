@@ -46,7 +46,7 @@ Cooperative Research and Development Agreements.—(1) In engaging in research a
 
 (2) The National Defense University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
-(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, §522(a), Jan. 6, 2006, 119 Stat. 3240; Pub. L. 109–364, div. A, title IX, §904(b)(2), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 112–81, div. B, title XXVIII, §2861(b), Dec. 31, 2011, 125 Stat. 1701; Pub. L. 114–328, div. A, title II, §214(a), title XVI, §1648(a), Dec. 23, 2016, 130 Stat. 2048, 2606.)
+(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, §522(a), Jan. 6, 2006, 119Stat. 3240; Pub. L. 109–364, div. A, title IX, §904(b)(2), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 112–81, div. B, title XXVIII, §2861(b), Dec. 31, 2011, 125 Stat. 1701; Pub. L. 114–328, div. A, title II, §214(a), title XVI, §1648(a), Dec. 23, 2016, 130 Stat. 2048, 2606.)
 
 #### Amendments
 

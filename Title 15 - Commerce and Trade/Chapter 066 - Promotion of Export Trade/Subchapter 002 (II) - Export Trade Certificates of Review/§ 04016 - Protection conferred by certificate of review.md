@@ -10,7 +10,7 @@ Except as provided in subsection (b), no criminal or civil action may be brought
 
 (2) Any action brought under paragraph (1) shall be filed within two years of the date the plaintiff has notice of the failure to comply with the standards of section 4013(a) of this title but in any event within four years after the cause of action accrues.
 
-(3) In any action brought under paragraph (1), there shall be a presumption that conduct whichis specified in and complies with a certificate of review does comply with the standards of section 4013(a) of this title.
+(3) In any action brought under paragraph (1), there shall be a presumption that conduct which is specified in and complies with a certificate of review does comply with the standards of section 4013(a) of this title.
 
 (4) In any action brought under paragraph (1), if the court finds that the conduct does comply with the standards of section 4013(a) of this title, the court shall award to the person against whom the claim is brought the cost of suit attributable to defending against the claim (including a reasonable attorney's fee).
 

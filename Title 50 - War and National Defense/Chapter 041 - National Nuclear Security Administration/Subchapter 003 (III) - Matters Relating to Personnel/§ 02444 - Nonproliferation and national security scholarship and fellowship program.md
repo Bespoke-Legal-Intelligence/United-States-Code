@@ -74,7 +74,7 @@ A scholarship or fellowship awarded under the program established under this sec
 
 #### (g) Report to Congress
 
-Not later than January 1, 2010, the Administrator shall submit to the congressional defensecommittees a report on the activities carried out under the program established under this section, including any recommendations for future activities under such program.
+Not later than January 1, 2010, the Administrator shall submit to the congressional defense committees a report on the activities carried out under the program established under this section, including any recommendations for future activities under such program.
 
 #### (h) Funding
 

@@ -44,7 +44,7 @@ Acquisition of Interests in Land When Need Is Urgent.—(1) The Secretary of a m
 
 &emsp;(C) considerations of urgency do not permit the delay necessary to include the required acquisition in an annual Military Construction Authorization Act.
 
-(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
+(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit, in an electronic medium pursuant to section 480 of this title, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
 
 (3) Appropriations available for military construction may be used for the purposes of this subsection.
 
@@ -70,7 +70,7 @@ Advance Notice of Use of Condemnation.—(1) Before commencing any legal proceed
 
 &emsp;&emsp;(iii) an explanation of the other approaches considered for acquiring use of the land, the reasons for the acquisition of the land, and the reasons why alternative acquisition strategies are inadequate.
 
-(2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+(2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees in an electronic medium pursuant to section 480 of this title.
 
 (g)
 
@@ -82,7 +82,7 @@ Land Acquisition Options in Advance of Military Construction Projects.—(1) The
 
 (2) As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–91, div. B, title XXVIII, §2811(b), (c), Dec. 12, 2017, 131 Stat. 1848.)
 
 Historical and Revision Notes<br>1956
 
@@ -132,13 +132,17 @@ The deletion of the last sentence of section 2663(a) and the last sentence of se
 
 #### Codification
 
-The text of section 2672, part of which was transferred to this section, redesignated subsec. (c), and amended by Pub. L. 109–163, div. B, title XXVIII, §2821(a)(2)–(5), was based on Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, §707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, §806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, §810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L.99–661, div. A, title XIII, §1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, §2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, §2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, §2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, §2821(d)(1), Oct. 28, 2004, 118 Stat. 2130.
+The text of section 2672, part of which was transferred to this section, redesignated subsec. (c), and amended by Pub. L. 109–163, div. B, title XXVIII, §2821(a)(2)–(5), was based on Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, §707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, §806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, §810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, §1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, §2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, §2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, §2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, §2821(d)(1), Oct. 28, 2004, 118 Stat. 2130.
 
 The text of section 2672a of this title, which was transferred to this section, redesignated subsec. (d), and amended by Pub. L. 109–163, div. B, title XXVIII, §2821(a)(6)–(9), was based on Pub. L. 94–107, title VI, §607(8), Oct. 7, 1975, 89 Stat. 566; amended Pub. L. 98–525, title XIV, §1405(39), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(29), Nov. 24, 2003, 117 Stat. 1599; Pub. L. 108–375, div. A, title X, §1084(d)(23), Oct. 28, 2004, 118 Stat. 2062.
 
 The text of section 2676(b) of this title, which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (11), was based on Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(2). Pub. L. 115–91, §2811(b), inserted ", in an electronic medium pursuant to section 480 of this title," after "submit" and substituted "a notice" for "written notice".
+
+Subsec. (f)(2). Pub. L. 115–91, §2811(c), struck out "or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided" after "received by the committees".
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, §2821(b)(1). See 2006 Amendment note below.
 
@@ -180,7 +184,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Sense of Congress
 
-Pub. L. 109–364, div. B, title XXVIII, §2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that: "It is the sense of Congress that the Secretary of Defense, when acquiring land for military purposes, should—
+Pub. L. 109–364, div. B, title XXVIII, §2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that: "It is the sense ofCongress that the Secretary of Defense, when acquiring land for military purposes, should—
 
 &emsp;"(1) make every effort to acquire the land by means of purchases from willing sellers; and
 

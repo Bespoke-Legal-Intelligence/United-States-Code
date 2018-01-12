@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out the purposes of this chapter, $7,000,000 for each of fiscal years 2005, 2006, 2007, and 2008. Amounts appropriated for each such year are to remain available until expended.
 
-(Pub. L. 98–620, title II, §215, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 100–690, title VII, §7321(a), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §607, Nov. 19, 1988, 102 Stat. 4654; Pub. L. 101–162, titleV, Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–572, title VIII, §801, Oct. 29, 1992, 106 Stat. 4515; Pub. L. 108–372, §2, Oct. 25, 2004, 118 Stat. 1754.)
+(Pub. L. 98–620, title II, §215, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 100–690, title VII, §7321(a), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §607, Nov. 19, 1988, 102 Stat. 4654; Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–572, title VIII, §801, Oct. 29, 1992, 106 Stat. 4515; Pub. L. 108–372, §2, Oct. 25, 2004, 118 Stat. 1754.)
 
 #### References in Text
 
@@ -19,4 +19,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>1988</b>—Pub. L. 100–702, §607, which amended section generally, substituting appropriations authorization of $15,000,000 for fiscal years 1989 and 1990, such amounts to remain available until expended for authorization of $15,000,000 for fiscal years 1989, 1990, 1991, and 1992, was repealed by Pub. L. 101–162, title V.
 
 Pub. L. 100–690, §7321(a), as revived by Pub. L. 101–162, title V, amended section generally, substituting appropriations authorization of $15,000,000 for fiscal years 1989 through 1992 for authorization of $13,000,000 for fiscal year 1986 and $15,000,000 for fiscal years 1987 and 1988.
+
+#### Effective Date
+
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under section 10701 of this title.
 

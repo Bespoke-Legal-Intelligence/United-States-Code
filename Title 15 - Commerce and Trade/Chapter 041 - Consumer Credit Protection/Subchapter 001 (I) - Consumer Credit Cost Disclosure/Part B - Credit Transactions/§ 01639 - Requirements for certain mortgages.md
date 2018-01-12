@@ -72,7 +72,7 @@ A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not i
 
 #### (g) No prepaid payments
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advancefrom the loan proceeds provided to the consumer.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
 
 #### (h) Prohibition on extending credit without regard to payment ability of consumer
 
@@ -230,7 +230,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2)
 
 #### Prior Provisions
 
-A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L.96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
 #### Amendments
 

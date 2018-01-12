@@ -20,7 +20,7 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 &emsp;(D) permits nonwasteful, environmentally sound development of renewable and nonrenewable resources.
 
-(2) On or before December 31, 1995, the Secretary of Commerce shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate a report containing the results of theworkshop under this subsection, proposed regulatory or research actions, and recommended legislative action.
+(2) On or before December 31, 1995, the Secretary of Commerce shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate a report containing the results of the workshop under this subsection, proposed regulatory or research actions, and recommended legislative action.
 
 #### (d) Bering Sea ecosystem protection
 
@@ -55,6 +55,10 @@ Section 1404 of this title, referred to in subsec. (d)(3), was omitted from the 
 #### Effective Date of 1997 Amendment
 
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

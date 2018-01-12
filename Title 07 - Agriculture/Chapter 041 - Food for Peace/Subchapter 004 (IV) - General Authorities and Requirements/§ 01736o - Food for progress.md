@@ -58,7 +58,7 @@ In this section:
 
 #### (c) Program
 
-In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to thecountries eligible commodities made available under subsections (e) and (f).
+In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f).
 
 #### (d) Consideration for agreements
 
@@ -88,7 +88,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (5)
 
-No effect on domestic programs.—The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the President.
+No effect on domestic programs.—The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feedingprograms or agencies, as determined by the President.
 
 #### (f) Provision of eligible commodities to developing countries
 
@@ -130,7 +130,7 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (1) In general
 
-&emsp;In carrying out this section, the President, on request and subject to the availability of eligible commodities, is encouraged to approveagreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
+&emsp;In carrying out this section, the President, on request and subject to the availability of eligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (2) Deadline for program announcements
 

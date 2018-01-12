@@ -20,7 +20,7 @@
 
 #### (b) No offset of amounts
 
-The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because ofthe receipt of reimbursements under subsection (a).
+The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
 
 (Pub. L. 94–437, title II, §207, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, §701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

@@ -30,7 +30,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approveddirectly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
 
@@ -44,7 +44,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
-&emsp;&emsp;(B) may use any such available amounts for the expense for administration only afterthe end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
+&emsp;&emsp;(B) may use any such available amounts for the expense for administration only after the end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
 
 #### (2) Maximum amount
 

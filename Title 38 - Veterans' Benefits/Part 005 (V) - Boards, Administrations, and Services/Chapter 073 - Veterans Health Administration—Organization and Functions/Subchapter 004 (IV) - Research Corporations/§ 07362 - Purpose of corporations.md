@@ -1,6 +1,6 @@
 ### §7362. Purpose of corporations
 
-(a) A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of research as described in section 7303(a) of this title and education and training as described in sections 7302, 7471, 8154, and 1701(6)(B) <sup>1</sup> of this title in conjunction with the applicable Department medical center or centers.
+(a) A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of research as described in section 7303(a) of this title and education and training as described in sections 7302, 7471, 8154,and 1701(6)(B) <sup>1</sup> of this title in conjunction with the applicable Department medical center or centers.
 
 (b) For purposes of this section, the term "education" includes education and training and means the following:
 

@@ -82,7 +82,7 @@ Treatment of transfers from disc to fsc.—Except to the extent provided in regu
 
 "(5)
 
-Deemed termination of a disc.—Under regulations prescribed by the Secretary, if any controlled group of corporations of which a DISC is a member establishes a FSC, then any DISC which is a member ofsuch group shall be treated as having terminated its DISC status.
+Deemed termination of a disc.—Under regulations prescribed by the Secretary, if any controlled group of corporations of which a DISC is a member establishes a FSC, then any DISC which is a member of such group shall be treated as having terminated its DISC status.
 
 "(6)
 

@@ -8,7 +8,7 @@
 
 #### (2) Construction and cost of construction
 
-&emsp;For purposes of this section, the terms "construction" and "cost of construction" include the construction of new buildings and the expansion, renovation, remodeling, and alteration of existing buildings, including architects' fees, but do not include the cost of acquisition of land or off-site improvements.
+&emsp;For purposes of this section, the terms "construction" and "cost of construction" includethe construction of new buildings and the expansion, renovation, remodeling, and alteration of existing buildings, including architects' fees, but do not include the cost of acquisition of land or off-site improvements.
 
 #### (b) Scientific and technical review boards for merit-based review of proposals
 
@@ -228,7 +228,7 @@ Subsec. (b)(4). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NI
 
 Subsec. (b)(6)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center".
 
-Subsec. (c)(1). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases" in introductory provisions.
+Subsec. (c)(1). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office ofthe Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases" in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center" in two places in introductory provisions.
 

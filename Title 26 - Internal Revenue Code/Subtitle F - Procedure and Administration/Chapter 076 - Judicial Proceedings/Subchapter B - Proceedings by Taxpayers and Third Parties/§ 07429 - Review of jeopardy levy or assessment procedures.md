@@ -84,7 +84,7 @@ For purposes of this section, Saturday, Sunday, or a legal holiday in the Distri
 
 #### (2) Transfer of actions
 
-&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds that there is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action had been filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
+&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds that there is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action hadbeen filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
 
 #### (f) Finality of determination
 

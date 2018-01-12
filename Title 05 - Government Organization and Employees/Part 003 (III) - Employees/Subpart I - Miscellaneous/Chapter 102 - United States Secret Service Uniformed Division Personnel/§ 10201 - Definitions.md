@@ -80,7 +80,7 @@ Step 13 conversion maximum rate.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—A member who, at the time of conversion, is in step 13 of any rank below Deputy Chief, is entitled to that rate of basic pay which is the greater of—
+In general.—A member who, at the time of conversion, is in step 13 of any rank belowDeputy Chief, is entitled to that rate of basic pay which is the greater of—
 
 &emsp;&emsp;&emsp;"(aa) the rate of pay for step 13 under the new salary schedule; or
 
@@ -112,7 +112,7 @@ Credit for service.—Each member whose position is converted to the salary sche
 
 &emsp;"(3)
 
-Adjustments during transition.—The schedule of rates of basic pay shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, or any other authority, which takes effect during the period beginning on January 1, 2010, through the last day of the last pay period preceding the first pay period which begins after the date of the enactment of this Act. The Secretary of Homeland Security may establish a methodology of schedule adjustment that results in uniform fixed-dollar step increments within any givenrank and preserves the established percentage differences among rates of different ranks at the same step position.
+Adjustments during transition.—The schedule of rates of basic pay shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, or any other authority, which takes effect during the period beginning on January 1, 2010, through the last day of the last pay period preceding the first pay period which begins after the date of the enactment of this Act. The Secretary of Homeland Security may establish a methodology of schedule adjustment that results in uniform fixed-dollar step increments within any given rank and preserves the established percentage differences among rates of different ranks at the same step position.
 
 "(b)
 

@@ -1,6 +1,6 @@
 ### §9104. Deputy Directors
 
-The Office of Library Services shall be headed by a Deputy Director, who shall be appointed bythe Director from among individuals who have a graduate degree in library science and expertise in library and information services. The Office of Museum Services shall be headed by a Deputy Director, who shall be appointed by the Director from among individuals who have expertise in museum services.
+The Office of Library Services shall be headed by a Deputy Director, who shall be appointed by the Director from among individuals who have a graduate degree in library science and expertise in library and information services. The Office of Museum Services shall be headed by a Deputy Director, who shall be appointed by the Director from among individuals who have expertise in museum services.
 
 (Pub. L. 94–462, title II, §205, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295.)
 

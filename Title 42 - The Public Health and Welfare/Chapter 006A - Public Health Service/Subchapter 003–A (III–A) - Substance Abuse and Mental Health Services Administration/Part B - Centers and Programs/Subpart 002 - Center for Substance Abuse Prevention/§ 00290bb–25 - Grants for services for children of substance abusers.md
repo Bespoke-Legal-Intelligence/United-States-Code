@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Assistant Secretary for Mental Health and SubstanceUse, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
+&emsp;The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
 
 &emsp;&emsp;(A) to provide the services described in subsection (b) to children of substance abusers;
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) to identify such children and such families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and
 
-&emsp;&emsp;(D) to provide education and training to health, substance abuse and mental health professionals, and other providers of services to children and families through youth service agencies, family social services, child care, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, and other providers of services to children and families.
+&emsp;&emsp;(D) to provide education and training to health, substance abuse and mental healthprofessionals, and other providers of services to children and families through youth service agencies, family social services, child care, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, and other providers of services to children and families.
 
 #### (2) Administrative consultations
 
@@ -156,7 +156,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
+&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare,education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
 
 &emsp;(3) such other information as the Secretary determines to be appropriate.
 

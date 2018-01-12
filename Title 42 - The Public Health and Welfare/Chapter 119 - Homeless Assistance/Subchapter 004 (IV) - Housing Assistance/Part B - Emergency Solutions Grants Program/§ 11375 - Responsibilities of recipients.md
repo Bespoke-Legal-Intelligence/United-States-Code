@@ -36,7 +36,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;(5) it will develop and implement procedures to ensure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services under any project assisted under this part and that the address or location of any family violence shelter project assisted under this part will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
-&emsp;(6) activities undertaken by the recipient with assistance under this part are consistent with any housing strategy submitted by thegrantee in accordance with section 12705 of this title; and
+&emsp;(6) activities undertaken by the recipient with assistance under this part are consistent with any housing strategy submitted by the grantee in accordance with section 12705 of this title; and
 
 &emsp;(7) to the maximum extent practicable, it will involve, through employment, volunteer services, or otherwise, homeless individuals and families in constructing, renovating, maintaining, and operating facilities assisted under this part, in providing services assisted under this part, and in providing services for occupants of facilities assisted under this part.
 

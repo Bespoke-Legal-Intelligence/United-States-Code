@@ -16,9 +16,9 @@
 
 &emsp;(E) $1,000,000 for development and application of a public education program,
 
-&emsp;(F) $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c) of this section, which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
+&emsp;(F) $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c), which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
 
-&emsp;(G) $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) of this section for earthquake activities in the Center.
+&emsp;(G) $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) for earthquake activities in the Center.
 
 (3) There are authorized to be appropriated to the Director for the fiscal year ending September 30, 1982, $2,000,000 to carry out the provisions of sections 7704 and 7705 <sup>1</sup> of this title.
 
@@ -90,7 +90,7 @@
 
 #### (d) National Institute of Standards and Technology
 
-(1) To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending September 30, 1981; $425,000 for the fiscal year ending September 30, 1982; $475,000 for the fiscal year ending September 30, 1983; $475,000 for the fiscal year ending September 30, 1984; $498,750 for the fiscal year ending September 30, 1985 <sup>2</sup> $499,000 for the fiscal year ending September 30, 1986; $521,000 for the fiscal year ending September 30, 1987; $525,000 for the fiscal year ending September 30, 1988; $525,000 for the fiscal year ending September 30, 1989; $2,525,000 for the fiscal year ending September 30, 1990; $1,000,000 for the fiscal year ending September 30, 1991; $3,000,000 for the fiscal year ending September 30, 1992; and $4,750,000 for the fiscal year ending September 30, 1993. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995, $1,957,000 for the fiscal year ending September 30, 1996, $2,000,000 for the fiscal year ending September 30, 1998, $2,060,000 for the fiscal year ending September 30, 1999, $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
+(1) To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending September 30, 1981; $425,000 for the fiscal year ending September 30, 1982; $475,000 for the fiscal year ending September 30, 1983; $475,000 for the fiscal year ending September 30, 1984; $498,750 for the fiscal year ending September 30, 1985 <sup>2</sup> $499,000 for the fiscal year ending September 30, 1986; $521,000 for the fiscal year ending September 30, 1987; $525,000 for the fiscal year ending September 30, 1988; $525,000 for the fiscal year ending September 30, 1989; $2,525,000 for the fiscal year ending September 30, 1990; $1,000,000 for the fiscal year ending September 30, 1991; $3,000,000 for the fiscal year ending September 30, 1992; and $4,750,000 for the fiscal year ending September 30, 1993. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated tothe National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995, $1,957,000 for the fiscal year ending September 30, 1996, $2,000,000 for the fiscal year ending September 30, 1998, $2,060,000 for the fiscal year ending September 30, 1999, $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
 
 (2) There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
 
@@ -150,7 +150,7 @@ Subsec. (b). Pub. L. 105–47, §1(2), substituted "$50,676,000 for the fiscal y
 
 Subsec. (c). Pub. L. 105–47, §1(3), struck out "and" after "September 30, 1995," and inserted before period at end ", (3) $18,450,000 for engineering research and $11,920,000 for geosciences research for the fiscal year ending September 30, 1998, and (4) $19,000,000 for engineering research and $12,280,000 for geosciences research for the fiscal year ending September 30, 1999".
 
-Subsec. (d). Pub. L. 105–47, §1(4), struck out "and" after "September 30, 1995," and inserted before period at end ", $2,000,000 for the fiscal year ending September 30, 1998, and $2,060,000 for the fiscal year ending September 30, 1999".
+Subsec. (d). Pub. L. 105–47, §1(4), struck out "and" after "September 30, 1995," and inserted before periodat end ", $2,000,000 for the fiscal year ending September 30, 1998, and $2,060,000 for the fiscal year ending September 30, 1999".
 
 <b>1994</b>—Subsec. (a)(7). Pub. L. 103–374, §1(1), inserted "of the Agency" after "to the Director", struck out "and" after "September 30, 1992,", and inserted before period at end ", $25,000,000 for the fiscal year ending September 30, 1995, and $25,750,000 for the fiscal year ending September 30, 1996" after "September 30, 1993".
 
@@ -222,7 +222,7 @@ Subsec. (d). Pub. L. 96–472, §103(d), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

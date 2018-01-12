@@ -20,5 +20,5 @@ Section was formerly classified to section 450a of this title prior to editorial
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–472 added subsec. (b) and struck out former subsec. (b) which read as follows:"The Congress declares its commitment to the maintenance of the Federal Government's unique and continuing relationship with and responsibility to the Indian people through the establishment of a meaningful Indian self-determination policy which will permit an orderly transition from Federal domination of programs for and services to Indians to effective and meaningful participation by the Indian people in the planning, conduct, and administration of those programs and services."
+<b>1988</b>—Subsec. (b). Pub. L. 100–472 added subsec. (b) and struck out former subsec. (b) which read as follows: "The Congress declares its commitment to the maintenance of the Federal Government's unique and continuing relationship with and responsibility to the Indian people through the establishment of a meaningful Indian self-determination policy which will permit an orderly transition from Federal domination of programs for and services to Indians to effective and meaningful participation by the Indian people in the planning, conduct, and administration of those programs and services."
 

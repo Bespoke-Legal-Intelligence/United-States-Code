@@ -76,7 +76,7 @@
 
 (3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or section 1118 of this title may not be terminated pursuant to paragraph (1).
 
-(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1),\(d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415.)
+(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415.)
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Agreement.—(1) The Secretary of Veterans Affairs shall seek to enter into an a
 
 "(c)
 
-Review of Scientific Evidence.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct a comprehensive review and evaluation of the available scientific and medical information regarding the health status of veterans who served in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations and the health consequences of exposures to risk factors during such service. In conducting such review and evaluation, the Academy shall—
+Review of Scientific Evidence.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct a comprehensive review and evaluation of the available scientific and medical information regarding the health status of veterans who served in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations and the health consequences of exposuresto risk factors during such service. In conducting such review and evaluation, the Academy shall—
 
 &emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines (including the agents specified in subsection (d)(1)) to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations;
 
@@ -284,7 +284,7 @@ Reports by Academy.—(1) Under the agreement under subsection (b), the National
 
 "(i)
 
-Reports by Secretary.—(1) The Secretary shall review each report from the Academy under subsection\(h). As part of such review, the Secretary shall seek comments on, and evaluation of, the Academy's report from the heads of other affected departments and agencies of the United States.
+Reports by Secretary.—(1) The Secretary shall review each report from the Academy under subsection (h). As part of such review, the Secretary shall seek comments on, and evaluation of, the Academy's report from the heads of other affected departments and agencies of the United States.
 
 "(2) Based upon a review under paragraph (1), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the available scientific and medical information regarding the health consequences of service described in subsection (c)(1)(A) and of exposures to risk factors during such service. The Secretary shall include in the report the Secretary's recommendations as to whether there is sufficient evidence to warrant a presumption of service-connection for the occurrence of a specified condition in veterans described in subsection (c)(1)(A). In determining whether to make such a recommendation, the Secretary shall consider the matters specified in subparagraphs (A) through (F) of subsection (e)(1).
 
@@ -472,7 +472,7 @@ Subsequent Reviews.—(1) Under the agreement under subsection (b), the National
 
 "(2) As part of each review under this subsection, the Academy shall—
 
-&emsp;"(A) conduct as comprehensive a review as is practicable of the evidence referred to in subsection (c) and the data referred to in subsections (e), (f), and (g) that became available since the last review of such evidence and data under this section; and
+&emsp;"(A) conduct as comprehensive a review as is practicable of the evidence referred to in subsection (c) and the data referred to in subsections (e), (f), and (g)that became available since the last review of such evidence and data under this section; and
 
 &emsp;"(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section.
 
@@ -512,7 +512,7 @@ Sunset.—This section shall cease to be effective on October 1, 2015.
 
 "(k)
 
-Alternative Contract Scientific Organization.—(1) If the Secretary is unable within the time period set forth in subsection (b) to enter into an agreement with the National Academy of Sciences for thepurposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the National Academy of Sciences.
+Alternative Contract Scientific Organization.—(1) If the Secretary is unable within the time period set forth in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the National Academy of Sciences.
 
 "(2) If the Secretary enters into an agreement with another organization under this subsection, any reference in this section and section 1118 of title 38, United States Code (as added by section 1602(a)), to the National Academy of Sciences shall be treated as a reference to such other organization.
 
@@ -610,7 +610,7 @@ In General.—The Secretary of Veterans Affairs shall implement a comprehensive 
 
 "(b)
 
-Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
+Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed tothe veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
 
 "(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003.
 

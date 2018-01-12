@@ -6,7 +6,7 @@
 
 &emsp;(2) Whoever, with the intent to deceive, defraud, or profit significantly, knowingly violates any provision of this chapter shall be imprisoned not more than 5 years, fined not more than $1,000,000 per day for each day during which the violation continues, or both.
 
-> Every officer, director, agent, and employee of a bank holding company shall be subject to thesame penalties for false entries in any book, report, or statement of such bank holding company as are applicable to officers, directors, agents, and employees of member banks for false entries in any books, reports, or statements of member banks under section 1005 of title 18.
+> Every officer, director, agent, and employee of a bank holding company shall be subject to the same penalties for false entries in any book, report, or statement of such bank holding company as are applicable to officers, directors, agents, and employees of member banks for false entries in any books, reports, or statements of member banks under section 1005 of title 18.
 
 #### (b) Civil money penalty
 
@@ -76,7 +76,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
 
-(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15,1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
+(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except thatincreased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

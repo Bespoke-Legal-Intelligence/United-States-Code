@@ -32,7 +32,7 @@ Pub. L. 102–575, §1, Oct. 30, 1992, 106 Stat. 4600, provided that: "This Act 
 
 #### Short Title of 1984 Amendments
 
-For short title of Pub. L. 98–434 as the "High Plains States Groundwater Demonstration Program Act of 1983", see section 1 of Pub. L. 98–434, set out as a Short Title note under section 390g of this title.
+For short title of Pub. L. 98–434 as the "High Plains States Groundwater Demonstration Program Act of1983", see section 1 of Pub. L. 98–434, set out as a Short Title note under section 390g of this title.
 
 For short title of Pub. L. 98–404 as "The Reclamation Safety of Dams Act Amendments of 1984", see section 1 of Pub. L. 98–404, set out as a note under section 506 of this title.
 
@@ -112,7 +112,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;&emsp;"(D) at least one representative chosen from a list submitted by Tribal governments located in the Western States.
 
-&emsp;"(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
+&emsp;"(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For theUnited States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
 
 "(c) The President shall appoint one member of the Commission to serve as Chairman.
 
@@ -132,7 +132,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;"(4) review the need and opportunities for additional storage or other arrangements to augment existing water supplies including, but not limited to, conservation;
 
-&emsp;"(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstatewater compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law;
+&emsp;"(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstate water compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law;
 
 &emsp;"(6) review the legal regime governing the development and use of water and the respective roles of both the Federal Government and the States over the allocation and use of water, including an examination of riparian zones, appropriation and mixed systems, market transfers, administrative allocations, ground water management, interbasin transfers, recordation of rights, Federal-State relations including the various doctrines of Federal reserved water rights (including Indian water rights and the development in several States of the concept of a public trust doctrine); and
 

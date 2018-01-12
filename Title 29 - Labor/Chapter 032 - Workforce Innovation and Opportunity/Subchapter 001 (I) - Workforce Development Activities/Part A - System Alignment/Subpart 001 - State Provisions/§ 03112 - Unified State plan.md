@@ -36,7 +36,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(i) the activities that will be funded by the entities carrying out the respective core programs to implement the strategy and how such activities will be aligned across the programs and among the entities administering the programs, including using co-enrollment and other strategies;
 
-&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities providedunder employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
+&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities provided under employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
 
 &emsp;&emsp;&emsp;(iii) how the entities carrying out the respective core programs will coordinate activities and provide comprehensive, high-quality services including supportive services, to individuals;
 
@@ -172,7 +172,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 #### (A) Modifications
 
-&emsp;&emsp;At the end of the first 2-year period of any 4-year unified State plan, the State board shall review the unified State plan, and the Governor shall submit modifications to the plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the unified State plan.
+&emsp;&emsp;At the end of the first 2-year period of any 4-year unified State plan, the State boardshall review the unified State plan, and the Governor shall submit modifications to the plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the unified State plan.
 
 #### (B) Approval
 

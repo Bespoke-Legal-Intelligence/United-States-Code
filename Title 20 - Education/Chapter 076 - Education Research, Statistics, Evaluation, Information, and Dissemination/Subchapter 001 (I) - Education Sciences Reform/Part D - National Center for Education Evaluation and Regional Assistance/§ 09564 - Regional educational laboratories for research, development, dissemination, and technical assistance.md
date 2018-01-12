@@ -38,7 +38,7 @@ The Director may enter into contracts under this section with research organizat
 
 &emsp;&emsp;(A) share information about the activities of each regional educational laboratory awarded a contract under this section with each other regional educational laboratory awarded a contract under this section and with the Department of Education, including the Director and the Board;
 
-&emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratory awarded a contract under this section increases collaboration and resource-sharing in such activities;
+&emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratoryawarded a contract under this section increases collaboration and resource-sharing in such activities;
 
 &emsp;&emsp;(C) ensure, where appropriate, that the activities of each regional educational laboratory awarded a contract under this section also serve national interests; and
 
@@ -68,7 +68,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;(A) the administration and implementation of programs under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.);
 
-&emsp;&emsp;(B) scientifically valid research in education on teaching methods, assessmenttools, and high quality, challenging curriculum frameworks for use by teachers and administrators in, at a minimum—
+&emsp;&emsp;(B) scientifically valid research in education on teaching methods, assessment tools, and high quality, challenging curriculum frameworks for use by teachers and administrators in, at a minimum—
 
 &emsp;&emsp;&emsp;(i) the core academic subjects of mathematics, science, and reading;
 

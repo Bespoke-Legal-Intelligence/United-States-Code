@@ -38,13 +38,13 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (b) only with the consent of the parent or guardian.
 
-(g) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) of title 37.
+(g) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, §687(d), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 111–281, title IX, §903(b)(4), Oct. 15, 2010, 124 Stat. 3011.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, §687(d), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 111–281, title IX, §903(b)(4), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 115–91, div. A, title VI, §618(a)(2), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### Historical and Revision Notes
 
-Based on the proviso under the heading "Revenue Cutter Service" of act Feb. 25, 1903, ch. 755, 32 Stat. 869,and on title 14, U.S.C., 1946 ed., §§15, 15a–1, 25 (June 23, 1906, ch. 3520, §2, 34 Stat. 452; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; July 3, 1926, ch. 742, §6, 44 Stat. 816; July 30, 1937, ch. 545, §5, 50 Stat. 549; May 25, 1943, ch. 99, 57 Stat. 84).
+Based on the proviso under the heading "Revenue Cutter Service" of act Feb. 25, 1903, ch. 755, 32 Stat. 869, and on title 14, U.S.C., 1946 ed., §§15, 15a–1, 25 (June 23, 1906, ch. 3520, §2, 34 Stat. 452; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; July 3, 1926, ch. 742, §6, 44 Stat. 816; July 30, 1937, ch. 545, §5, 50 Stat. 549; May 25, 1943, ch. 99, 57 Stat. 84).
 
 Section 15 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with clothing allowance for cadets is placed in section 183 of this title and the other parts are incorporated with the proviso of title 14, U.S.C., 1946 ed., §15a–1 to form this section.
 
@@ -55,6 +55,8 @@ The length of term of service as a cadet prior to graduation is added to the lis
 The period of required service after graduation is increased from 3 to 4 years, to attain uniformity with the other service academies. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out "All such appointments shall be made without regard to the sex, race, color, or religious beliefs of an applicant." before "In the administration".
 

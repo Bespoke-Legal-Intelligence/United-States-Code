@@ -20,7 +20,7 @@ As used in this subpart:
 
 &emsp;&emsp;(D) respite care of children to provide temporary relief for parents and other caregivers (including foster parents);
 
-&emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents' confidence intheir strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition; and
+&emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents' confidence in their strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition; and
 
 &emsp;&emsp;(F) infant safe haven programs to provide a way for a parent to safely relinquish a newborn infant at a safe haven designated pursuant to a State law.
 
@@ -118,7 +118,7 @@ Tribal organization.—The term 'tribal organization' means the recognized gover
 
 "(6)
 
-Indian tribe.—The term 'Indian tribe' means any Indian tribe (as defined in section 682(i)(5) of this title,as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect)."
+Indian tribe.—The term 'Indian tribe' means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1996) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect)."
 
 Subsec. (a)(7)(B)(vi) to (viii). Pub. L. 112–34, §102(c)(2), added cls. (vi) and (vii) and redesignated former cl. (vi) as (viii).
 

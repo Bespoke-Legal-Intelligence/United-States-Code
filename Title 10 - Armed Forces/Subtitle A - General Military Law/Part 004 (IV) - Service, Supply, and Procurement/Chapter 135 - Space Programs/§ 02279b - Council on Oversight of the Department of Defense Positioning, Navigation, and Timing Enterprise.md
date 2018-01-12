@@ -68,7 +68,7 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 &emsp;(B) if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
 
-(2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staffreceives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
+(2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
 
 &emsp;(A) such assessment as it was submitted to the Chairman; and
 

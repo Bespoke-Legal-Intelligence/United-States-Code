@@ -1,0 +1,10 @@
+### §10604. Transferred
+
+#### Codification
+
+Section 10604 was editorially reclassified as section 20110 of Title 34, Crime Control and Law Enforcement.
+
+#### Reports on Amounts Received and Distributed From Fines for Violations of Trade Secrets Provisions
+
+Pub. L. 104–294, title I, §101(c), Oct. 11, 1996, 110 Stat. 3491, required the Attorney General to report to Congress no later than 2 years and 4 years after Oct. 11, 1996, on fines for offenses under chapter 90 of title 18 deposited in the Crime Victims Fund.
+

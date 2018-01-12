@@ -88,7 +88,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 #### (2) Public availability
 
-&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretaryshall make each such report available to the public.
+&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretary shall make each such report available to the public.
 
 #### (f) Periodic review of guidance
 

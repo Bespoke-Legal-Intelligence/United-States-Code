@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 111–340, §304(2), (3), redesignated subsec. (c) as (b) a
 
 Subsec. (c). Pub. L. 111–340, §304(4), added subsec. (c). Former subsec. (c) redesignated (b).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–81, §305(1), substituted "$38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009." for "$28,700,000 for the fiscal year 1997, and such sums asmay be necessary for each of the fiscal years 1998 through 2002."
+<b>2003</b>—Subsec. (a). Pub. L. 108–81, §305(1), substituted "$38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009." for "$28,700,000 for the fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2002."
 
 #### Effective Date of 2003 Amendment
 

@@ -34,7 +34,7 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d) ofPub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 

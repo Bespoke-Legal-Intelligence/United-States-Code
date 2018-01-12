@@ -28,7 +28,7 @@ From the amount allotted to each State under section 2321 of this title for a fi
 
 #### (b) Matching requirement
 
-Each eligible agency receiving funds made available under subsection (a)(3) shall match, from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3).
+Each eligible agency receiving funds made available under subsection (a)(3) shall match,from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3).
 
 #### (c) Reserve
 

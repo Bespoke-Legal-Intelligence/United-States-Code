@@ -56,7 +56,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (D) Inspection of applications
 
-&emsp;&emsp;Randomly inspect visa and passport applications for accuracy, efficiency, and fraud, especially at high terrorist threat posts, in order to prevent a recurrence of the issuance of visas to those who submit incomplete, fraudulent, or otherwise irregular or incomplete applications.
+&emsp;&emsp;Randomly inspect visa and passport applications for accuracy, efficiency, and fraud, especially at high terrorist threat posts, in order to prevent a recurrence of the issuanceof visas to those who submit incomplete, fraudulent, or otherwise irregular or incomplete applications.
 
 #### (d) Report
 

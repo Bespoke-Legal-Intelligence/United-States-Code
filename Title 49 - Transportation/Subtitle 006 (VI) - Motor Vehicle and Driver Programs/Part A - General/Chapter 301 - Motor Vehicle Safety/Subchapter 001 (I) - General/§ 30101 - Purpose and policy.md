@@ -26,6 +26,14 @@ Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words "Congress hereby declares that", "to persons", and "Congress determines that" are omitted as surplus. The words "motor vehicle" before "equipment" are added for consistency. The words "and to expand the national driver register" are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–106, §1, Jan. 8, 2018, 131 Stat. 2265, provided that: "This Act \[amending section 31310 of this title\] may be cited as the 'No Human Trafficking on Our Roads Act'."
+
+Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this title and enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
+
+Pub. L. 115–99, §1, Jan. 3, 2018, 131 Stat. 2242, provided that: "This Act \[amending sections 31110 and 31313 of this title and enacting provisions set out as a note under section 102 of this title\] may be cited as the 'Combating Human Trafficking in Commercial Vehicles Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–94, div. B, title XXIV, §24109(a), Dec. 4, 2015, 129 Stat. 1706, provided that: "This section \[amending sections 30102, 30120, 30122, and 30166 of this title and enacting provisions set out as notes under section 30102 of this title\] may be cited as the 'Raechel and Jacqueline Houck Safe Rental Car Act of 2015'."
@@ -216,7 +224,7 @@ Period.—Action under paragraphs (1) through (4) of section 2503 which was begu
 
 &emsp;&emsp;&emsp;"(ii)
 
-Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may includedeferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
+Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
 
 &emsp;&emsp;&emsp;"(iii)
 

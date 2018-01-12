@@ -104,7 +104,7 @@ The following Federal standards are hereby established:
 
 #### (12) Fuel sources
 
-&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and toensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
+&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
 
 #### (13) Fossil fuel generation efficiency
 
@@ -134,7 +134,7 @@ The following Federal standards are hereby established:
 
 #### (15) Interconnection
 
-&emsp;Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term "interconnection service" means service to an electric consumer under which an on-site generating facility on the consumer's premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
+&emsp;Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term "interconnection service" means serviceto an electric consumer under which an on-site generating facility on the consumer's premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
 
 #### (16) Integrated resource planning
 
@@ -224,7 +224,7 @@ The following Federal standards are hereby established:
 
 #### (iv) Sources
 
-&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
+&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associatedwith each type of generation, for intervals during which such information is available on a cost-effective basis.
 
 #### (C) Access
 
@@ -260,7 +260,7 @@ Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### State Authorities; Construction
 

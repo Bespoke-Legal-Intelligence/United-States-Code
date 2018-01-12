@@ -114,11 +114,11 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Regulations; Effective Date of 1996 Amendment
 
-For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L. 104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
+For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L.104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
 
 #### Transfer of Functions
 

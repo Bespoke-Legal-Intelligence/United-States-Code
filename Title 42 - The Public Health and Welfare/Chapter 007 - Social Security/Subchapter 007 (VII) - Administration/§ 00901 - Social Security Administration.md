@@ -1,6 +1,6 @@
 ### §901. Social Security Administration
 
-(a) There is hereby established, as an independent agency in the executive branch of theGovernment, a Social Security Administration (in this subchapter referred to as the "Administration").
+(a) There is hereby established, as an independent agency in the executive branch of the Government, a Social Security Administration (in this subchapter referred to as the "Administration").
 
 (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II and the supplemental security income program under subchapter XVI.
 
@@ -92,7 +92,7 @@ Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (4
 
 Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services and the Commissioner of Social Security shall enter into a written inter-agency transfer arrangement (in this subsection referred to as the 'arrangement'), which shall be effective March 31, 1995. Transfers made pursuant to this section shall be in accordance with the arrangement, which shall specify the personnel and resources to be transferred as provided under this section. The terms of such arrangement shall be transmitted not later than January 1, 1995, to the Committee on Ways and Means of the House of Representatives, to the Committee on Finance of the Senate, and to the Comptroller General of the United States. Not later than February 15, 1995, the Comptroller General shall submit a report to each such Committee setting forth an evaluation of such arrangement."
 
-\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub.L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
+\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub. L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 
 #### Transition Rules
 
@@ -120,7 +120,7 @@ Compensation for initial officers and board members before effective date of new
 
 &emsp;"(5)
 
-Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[42 U.S.C. 301 et seq.\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
+Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[42 U.S.C. 301 et seq.\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and HumanServices shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
 
 &emsp;"(6)
 
@@ -146,7 +146,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 "(c)
 
-Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuantto such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
+Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
 
 "(d)
 
@@ -180,7 +180,7 @@ References to the Department of Health and Human Services.—Whenever any refere
 
 "(b)
 
-References to the Secretary of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to the Secretary of Health and Human Services with respect to such Secretary's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the Commissioner of Social Security pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the Commissioner of Social Security.
+References to the Secretary of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule,record, or document to the Secretary of Health and Human Services with respect to such Secretary's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the Commissioner of Social Security pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the Commissioner of Social Security.
 
 "(c)
 

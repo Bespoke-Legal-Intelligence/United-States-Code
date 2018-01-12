@@ -22,7 +22,7 @@
 
 #### (b) Planning grants
 
-(1) The Secretary of Agriculture may make a grant to any State in which there is an area designated and approved under subsection (a) of this section for the purposes of developing a plan for such area which shall include determinations of—
+(1) The Secretary of Agriculture may make a grant to any State in which there is an area designated and approved under subsection (a) for the purposes of developing a plan for such area which shall include determinations of—
 
 &emsp;(A) the anticipated level of coal or uranium production activities in such area;
 
@@ -42,7 +42,7 @@
 
 (1) In the case of any real property—
 
-&emsp;(A) within an area for which a plan meeting the requirements of subsection (b)(1) of this section has been approved;
+&emsp;(A) within an area for which a plan meeting the requirements of subsection (b)(1) has been approved;
 
 &emsp;(B) which is for housing or public facilities determined in such plan as necessary due to an increase in employment due to coal or uranium development activities;
 
@@ -62,9 +62,9 @@
 
 &emsp;(C) the State and the local governments serving such area lack the legal authority to acquire such property by condemnation.
 
-(4)(A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b) of this section.
+(4)(A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b).
 
-(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1) and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
+(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1)and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
 
 (C) Grants for real property acquisition or site development or both under this paragraph may not exceed 75 percent of the costs thereof, as determined by the Secretary of Agriculture.
 
@@ -78,7 +78,7 @@
 
 (1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
 
-(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a) of this section, or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
+(2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a), or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 
 (3) The Secretary of Agriculture shall prescribe, by rule, criteria for the allocation of assistance under this section. Such criteria shall give due weight to the magnitude of the employment increase involved, the financial resources of the designated area, and the ratio of the financial burden on the area to the resources available to such area.
 
@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (f) Reports
 
-Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
+Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
 
 &emsp;(1) projected employment levels for such activity by such person within such area during each of the following 3 calendar years;
 
@@ -120,7 +120,7 @@ The Secretary of Agriculture shall carry out his responsibilities under this sec
 
 #### (i) Protection from certain hazardous actions
 
-Federal agencies having responsibilities concerning the health and safety of any person working in any coal, uranium, metal, or nonmetallic mine regulated by any Federal agency shall interpret and utilize their authorities fully and promptly, including the promulgation of standards and regulations, to protect existing and future housing, property, persons, and public facilities located adjacent to or near active and abandoned coal, uranium, metal, and nonmetallic mines from actions occurring at suchactivities that pose a hazard to such property or persons.
+Federal agencies having responsibilities concerning the health and safety of any person working in any coal, uranium, metal, or nonmetallic mine regulated by any Federal agency shall interpret and utilize their authorities fully and promptly, including the promulgation of standards and regulations, to protect existing and future housing, property, persons, and public facilities located adjacent to or near active and abandoned coal, uranium, metal, and nonmetallic mines from actions occurring at such activities that pose a hazard to such property or persons.
 
 #### (j) Reorganization
 

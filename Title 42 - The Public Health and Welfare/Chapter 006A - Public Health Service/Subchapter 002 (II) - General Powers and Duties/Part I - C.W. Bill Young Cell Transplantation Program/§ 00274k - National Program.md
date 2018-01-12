@@ -284,7 +284,7 @@ In developing policies affecting the Program, the Secretary shall consult with t
 
 #### (1) Application
 
-&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an applicationat such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
+&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an application at such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
 
 #### (2) Considerations
 

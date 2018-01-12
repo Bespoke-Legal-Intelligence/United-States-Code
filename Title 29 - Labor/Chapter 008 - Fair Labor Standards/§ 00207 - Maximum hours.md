@@ -48,7 +48,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
-&emsp;(5) extra compensation provided by a premium rate paid for certain hours worked by the employee in any day of workweek because such hours are hours worked in excess of eight in a day or in excess of the maximum workweek applicable to such employee under subsection (a) or in excess of the employee's normal working hours or regular working hours, as the case may be;
+&emsp;(5) extra compensation provided by a premium rate paid for certain hours worked by the employee in any day or workweek because such hours are hours worked in excess of eight in a day or in excess of the maximum workweek applicable to such employee under subsection (a) or in excess of the employee's normal working hours or regular working hours, as the case may be;
 
 &emsp;(6) extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days;
 
@@ -66,7 +66,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;&emsp;&emsp;(i) made based upon meeting previously established performance criteria (which may include hours of work, efficiency, or productivity) of any business unit consisting of at least 10 employees or of a facility, except that, any determinations may be based on length of service or minimum schedule of hours or days of work; or
 
-&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the solediscretion of the employer and not pursuant to any prior contract.
+&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the sole discretion of the employer and not pursuant to any prior contract.
 
 #### (f) Employment necessitating irregular hours of work
 
@@ -104,7 +104,7 @@ No public agency shall be deemed to have violated subsection (a) with respect to
 
 &emsp;(1) in a work period of 28 consecutive days the employee receives for tours of duty which in the aggregate exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975; or
 
-&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
+&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28 days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
 
 > compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
@@ -282,7 +282,7 @@ Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer notqualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
 Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -310,7 +310,7 @@ Subsec. (h). Pub. L. 87–30, §6(g), added subsec. (h).
 
 Subsec. (b)(1). Act Oct. 26, 1949, increased employment period limitation from one thousand hours to one thousand and forty hours in semi-annual agreements.
 
-Subsec. (b)(2). Act Oct. 26, 1949, increased employment period limitation from two thousand and eighty hours to two thousand two hundred and forty hours in annual agreements, fixed minimum and maximum guaranteed employment periods, and provided for overtime rate for hours worked in excess of the guaranty.
+Subsec. (b)(2). Act Oct. 26, 1949, increased employment period limitation from two thousand and eighty hours to two thousand two hundred and forty hours in annual agreements, fixed minimum and maximumguaranteed employment periods, and provided for overtime rate for hours worked in excess of the guaranty.
 
 Subsec. (c). Act Oct. 26, 1949, added buttermilk to commodities listed for first processing.
 

@@ -14,7 +14,7 @@ The Secretary may provide assistance under section 3141 or 3149 of this title (e
 
 #### (b) Approval of comprehensive economic development strategy
 
-The Secretary shall approve a comprehensive economic development strategy that meets the requirements of subsection (a) of this section to the satisfaction of the Secretary.
+The Secretary shall approve a comprehensive economic development strategy that meets the requirements of subsection (a) to the satisfaction of the Secretary.
 
 #### (c) Approval of other plan
 
@@ -39,4 +39,8 @@ A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this 
 <b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–373, §302(a), inserted "maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications)," after "access,".
 
 Subsec. (c). Pub. L. 108–373, §302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

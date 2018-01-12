@@ -10,11 +10,11 @@ This subchapter may be cited as the "Federal Trade Commission Act".
 
 #### Termination Date of 2006 Amendment
 
-Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under section 44 of this title.
+Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L.109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under section 44 of this title.
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–274, §1, Dec. 14, 2016, 130 Stat. 1401, provided that: "This Act \[enacting section 45c of this titleand provisions set out as a note under section 45c of this title\] may be cited as the 'Better Online Ticket Sales Act of 2016' or the 'BOTS Act of 2016'."
+Pub. L. 114–274, §1, Dec. 14, 2016, 130 Stat. 1401, provided that: "This Act \[enacting section 45c of this title and provisions set out as a note under section 45c of this title\] may be cited as the 'Better Online Ticket Sales Act of 2016' or the 'BOTS Act of 2016'."
 
 Pub. L. 114–258, §1, Dec. 14, 2016, 130 Stat. 1355, provided that: "This Act \[enacting section 45b of this title\] may be cited as the 'Consumer Review Fairness Act of 2016'."
 

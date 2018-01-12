@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(x) The demonstration of the effectiveness of early intervention activities in improving employment outcomes.
 
-&emsp;&emsp;&emsp;(xi) Alternative methods of providing affordable transportation services to individuals with disabilities who are employed,seeking employment, or receiving vocational rehabilitation services from public or private organizations and who reside in geographic areas in which public transportation or paratransit service is not available.
+&emsp;&emsp;&emsp;(xi) Alternative methods of providing affordable transportation services to individuals with disabilities who are employed, seeking employment, or receiving vocational rehabilitation services from public or private organizations and who reside in geographic areas in which public transportation or paratransit service is not available.
 
 #### (c) Parent information and training program
 
@@ -214,7 +214,7 @@
 
 #### (A) Quarterly review
 
-&emsp;&emsp;The board of directors or special governing committee of an organization receiving agrant under this subsection shall meet at least once in each calendar quarter to review the training and information program, and each such committee shall directly advise the governing board regarding the views and recommendations of the committee.
+&emsp;&emsp;The board of directors or special governing committee of an organization receiving a grant under this subsection shall meet at least once in each calendar quarter to review the training and information program, and each such committee shall directly advise the governing board regarding the views and recommendations of the committee.
 
 #### (B) Review for grant renewal
 

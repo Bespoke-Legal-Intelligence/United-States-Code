@@ -16,7 +16,7 @@ In this section, the term "designated Federal grant program" means any Federal g
 
 #### (b) Supplementary grants
 
-Subject to subsection (c) of this section, in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
+Subject to subsection (c), in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
 
 #### (c) Requirements applicable to supplementary grants
 
@@ -73,4 +73,8 @@ Indian tribes.—In the case of a grant to an Indian tribe, the Secretary may re
 "(B)
 
 Certain States, political subdivisions, and nonprofit organizations.—In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted its effective taxing and borrowing capacity, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted its effective borrowing capacity, the Secretary may reduce the non-Federal share below the percentage specified in paragraph (1)."
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

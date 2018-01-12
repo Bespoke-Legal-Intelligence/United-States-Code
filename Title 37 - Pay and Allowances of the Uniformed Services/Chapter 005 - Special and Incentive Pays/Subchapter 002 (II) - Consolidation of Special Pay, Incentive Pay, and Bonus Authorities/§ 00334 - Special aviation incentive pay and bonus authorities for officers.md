@@ -52,7 +52,7 @@ Annual business case for payment of aviation bonus amounts.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary concerned shall determine the amount of the aviation bonus payable under paragraph (1)(B) under agreements entered into under subsection (d) during a fiscal year solely through abusiness case analysis of the amount required to be paid under such agreements in order to address anticipated manning shortfalls for such fiscal year by aircraft type category.
+In general.—The Secretary concerned shall determine the amount of the aviation bonus payable under paragraph (1)(B) under agreements entered into under subsection (d) during a fiscal year solely through a business case analysis of the amount required to be paid under such agreements in order to address anticipated manning shortfalls for such fiscal year by aircraft type category.
 
 &emsp;&emsp;(B)
 
@@ -120,11 +120,13 @@ Definitions.—In this section:
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2017.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2018.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840; Pub. L. 114–328, div. A, title VI, §§614(4), 616, Dec. 23, 2016, 130 Stat. 2158, 2159.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, titleVI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840; Pub. L. 114–328, div. A, title VI, §§614(4), 616, Dec. 23, 2016, 130 Stat. 2158, 2159; Pub. L. 115–91, div. A, title VI, §614(4), Dec. 12, 2017, 131 Stat. 1422.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2016</b>—Subsec. (c)(1)(A), (B). Pub. L. 114–328, §616(a), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 

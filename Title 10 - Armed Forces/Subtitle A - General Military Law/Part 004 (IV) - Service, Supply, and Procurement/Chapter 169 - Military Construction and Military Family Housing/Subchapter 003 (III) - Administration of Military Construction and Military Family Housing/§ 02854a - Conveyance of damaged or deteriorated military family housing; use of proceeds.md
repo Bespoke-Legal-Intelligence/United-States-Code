@@ -4,7 +4,7 @@
 
 Authority To Convey.—(1) The Secretary concerned may convey any family housing facility that, due to damage or deterioration, is in a condition that is uneconomical to repair. Any conveyance of a family housing facility under this section may include a conveyance of the real property associated with the facility conveyed.
 
-(2) The authority of this section does not apply to family housing facilities located at military installations approved for closure under a base closure law or family housing facilities located at an installation outside the United States at which the Secretary of Defense terminates operations.
+(2) The authority of this section does not apply to family housing facilities located atmilitary installations approved for closure under a base closure law or family housing facilities located at an installation outside the United States at which the Secretary of Defense terminates operations.
 
 (3) The aggregate total value of the family housing facilities conveyed by the Department of Defense under the authority in this subsection in any fiscal year may not exceed $5,000,000.
 
@@ -18,17 +18,15 @@ Consideration.—(1) As consideration for the conveyance of a family housing fac
 
 (c)
 
-Notice and Wait Requirements.—The Secretary concerned may not enter into an agreement to convey a family housing facility under this section until—
+Notice and Wait Requirements.—(1) The Secretary concerned may enter into an agreement to convey a family housing facility under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice containing a justification for the conveyance under the agreement.
 
-&emsp;(1) the Secretary submits to the appropriate committees of Congress, in writing, a justification for the conveyance under the agreement, including—
+(2) A notice under paragraph (1) shall include—
 
-&emsp;&emsp;(A) an estimate of the consideration to be provided the United States under the agreement;
+&emsp;(A) an estimate of the consideration to be provided the United States under the agreement;
 
-&emsp;&emsp;(B) an estimate of the cost of repairing the family housing facility to be conveyed; and
+&emsp;(B) an estimate of the cost of repairing the family housing facility to be conveyed; and
 
-&emsp;&emsp;(C) an estimate of the cost of replacing the family housing facility to be conveyed; and
-
-&emsp;(2) a period of 21 days has elapsed after the date on which the justification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title.
+&emsp;(C) an estimate of the cost of replacing the family housing facility to be conveyed.
 
 (d)
 
@@ -58,13 +56,15 @@ Description of Property.—The exact acreage and legal description of any family
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(49), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(49), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, §2801(c)(3), Dec. 12, 2017, 131 Stat. 1843.)
 
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title V of the Act is classified generally to subchapter V (§11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 added subsec. (c) and struck out former subsec. (c) which set out written notice and wait requirements.
 
 <b>2011</b>—Subsec. (d)(1). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 

@@ -12,11 +12,14 @@
 | [1059\.](%C2%A7%2001059%20-%20Corporate%20shareholder%27s%20basis%20in%20stock%20reduced%20by%20nontaxed%20portion%20of%20extraordinary%20dividends.md) | Corporate shareholder's basis in stock reduced by nontaxed portion of extraordinary dividends. |
 | [1059A.](%C2%A7%2001059A%20-%20Limitation%20on%20taxpayer%27s%20basis%20or%20inventory%20cost%20in%20property%20imported%20from%20related%20persons.md) | Limitation on taxpayer's basis or inventory cost in property imported from related persons. |
 | [1060\.](%C2%A7%2001060%20-%20Special%20allocation%20rules%20for%20certain%20asset%20acquisitions.md) | Special allocation rules for certain asset acquisitions. |
-| [1061\.](%C2%A7%2001061%20-%20Cross%20references.md) | Cross references. |
+| [1061\.](%C2%A7%2001061%20-%20Partnership%20interests%20held%20in%20connection%20with%20performance%20of%20services.md) | Partnership interests held in connection with performance of services. |
+| [1062\.](%C2%A7%2001062%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13309(b), Dec. 22, 2017, 131 Stat. 2131, added items 1061 and 1062 and struck out former item 1061 "Cross references".
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(78), Dec. 19, 2014, 128 Stat. 4049, struck out item 1051 "Property acquired during affiliation".
 
@@ -52,4 +55,5 @@
 - [&sect; 01059 - Corporate shareholder's basis in stock reduced by nontaxed portion of extraordinary dividends](%C2%A7%2001059%20-%20Corporate%20shareholder%27s%20basis%20in%20stock%20reduced%20by%20nontaxed%20portion%20of%20extraordinary%20dividends.md)
 - [&sect; 01059A - Limitation on taxpayer's basis or inventory cost in property imported from related persons](%C2%A7%2001059A%20-%20Limitation%20on%20taxpayer%27s%20basis%20or%20inventory%20cost%20in%20property%20imported%20from%20related%20persons.md)
 - [&sect; 01060 - Special allocation rules for certain asset acquisitions](%C2%A7%2001060%20-%20Special%20allocation%20rules%20for%20certain%20asset%20acquisitions.md)
-- [&sect; 01061 - Cross references](%C2%A7%2001061%20-%20Cross%20references.md)
+- [&sect; 01061 - Partnership interests held in connection with performance of services](%C2%A7%2001061%20-%20Partnership%20interests%20held%20in%20connection%20with%20performance%20of%20services.md)
+- [&sect; 01062 - Cross references](%C2%A7%2001062%20-%20Cross%20references.md)

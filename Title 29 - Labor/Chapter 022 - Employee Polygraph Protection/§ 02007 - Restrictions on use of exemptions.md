@@ -46,7 +46,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;(C) is informed, in writing—
 
-&emsp;&emsp;&emsp;(i) whether the testing area contains a two-way mirror, a camera, or any other device through which the test can be observed,
+&emsp;&emsp;&emsp;(i) whether the testing area contains a two-way mirror, a camera, or any otherdevice through which the test can be observed,
 
 &emsp;&emsp;&emsp;(ii) whether any other device, including any device for recording or monitoring the test, will be used, or
 
@@ -113,4 +113,8 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 &emsp;&emsp;(B) maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
 
 (Pub. L. 100–347, §8, June 27, 1988, 102 Stat. 650.)
+
+#### Effective Date
+
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 

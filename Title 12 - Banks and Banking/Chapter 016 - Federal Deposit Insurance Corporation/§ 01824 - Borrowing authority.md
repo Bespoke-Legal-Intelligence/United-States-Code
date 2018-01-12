@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation is authorized to borrow from the Treasury, and the Secretary of theTreasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $100,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Deposit Insurance Fund and the borrowing shall become a liability of the Deposit Insurance Fund to the extent funds are employed therefor.
+&emsp;The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $100,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Deposit Insurance Fund and the borrowing shall become a liability of the Deposit Insurance Fund to the extent funds are employed therefor.
 
 #### (2) Funding
 
@@ -22,7 +22,7 @@
 
 #### (C) Restriction on usage
 
-&emsp;&emsp;The Corporation may not borrow pursuant to subparagraph (A) to fund obligations of the Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] to purchase or guarantee assets.
+&emsp;&emsp;The Corporation may not borrow pursuant to subparagraph (A) to fund obligations ofthe Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] to purchase or guarantee assets.
 
 #### (b) Borrowing from Federal Financing Bank
 
@@ -120,7 +120,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(3)(C), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat.937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
+The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
 
 #### Codification
 
@@ -168,7 +168,7 @@ Subsec. (d)(5). Pub. L. 109–173, §8(a)(23)(A), (F), substituted "insured depo
 
 Subsec. (e). Pub. L. 109–173, §8(a)(24), added subsec. (e).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund" and "the Deposit Insurance Fund" for "each such fund" in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund" and "the Deposit Insurance Fund" for "each such fund" in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996Amendment note below and 2006 Amendment note above.
 
 Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

@@ -204,7 +204,7 @@ In general.—The Secretary of Health and Human Services (referred to in this su
 
 "(2)
 
-Recommendations regarding certain issues.—The Secretary shall ensure that, in addition to making determinations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:
+Recommendations regarding certain issues.—The Secretary shall ensure that, in addition to makingdeterminations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:
 
 &emsp;"(A) The costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans, health insurance and government programs cover such costs.
 

@@ -112,7 +112,7 @@ Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of a rail passenger carrier aboard a train;
 
-&emsp;&emsp;(B) any other person aboard the train without regard to whether the person paidfor the transportation, occupied a seat, or held a reservation for the rail transportation; and
+&emsp;&emsp;(B) any other person aboard the train without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the rail transportation; and
 
 &emsp;&emsp;(C) any other person injured or killed in a rail passenger accident, as determined appropriate by the Board.
 

@@ -158,7 +158,7 @@ Section 7002, Pub. L. 89–10, title III, §3602, as added Pub. L. 103–382, ti
 
 Section 7003, Pub. L. 89–10, title III, §3603, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3671, required State plans meeting certain criteria.
 
-Section 7004, Pub. L. 89–10, title III, §3604, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672, related to distribution of allocations to local educational agencies.
+Section 7004, Pub. L. 89–10, title III, §3604, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672,related to distribution of allocations to local educational agencies.
 
 Section 7005, Pub. L. 89–10, title III, §3605, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3672, authorized appropriations.
 

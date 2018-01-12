@@ -62,7 +62,7 @@ Non-major information technology investments.—For a contract or agreement for 
 
 Personnel-related authority.—Notwithstanding any other provision of law, for each covered agency other than the Department of Defense, the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency.
 
-(c) <sup>1</sup>
+(c)
 
 Limitation.—None of the authorities provided in this section shall apply to telecommunications or information technology that is fully funded by amounts made available—
 
@@ -72,7 +72,7 @@ Limitation.—None of the authorities provided in this section shall apply to te
 
 &emsp;(3) jointly under the National Intelligence Program and the Military Intelligence Program (or any successor program or programs).
 
-(c) <sup>1</sup>
+(d)
 
 Information Technology Portfolio, Program, and Resource Reviews.—
 
@@ -106,7 +106,7 @@ Annual review.—The Chief Information Officer of each covered agency, in conjun
 
 &emsp;(4)
 
-Applicability to the department of defense.—In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title. The annual review required by paragraph (3) shall be carried out by the Deputy Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
+Applicability to the department of defense.—In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title. The annual review required by paragraph (3) shall be carried out by the Deputy Chief Management Officer of the Department of Defense <sup>1</sup> (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
 
 &emsp;(5)
 
@@ -126,23 +126,23 @@ In general.—The Administrator of the Office of Electronic Government shall sub
 
 Inclusion in other reports.—The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
 
-&emsp;(6)
+(Added and amended Pub. L. 113–291, div. A, title VIII, §§831(a), 833, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, §3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, §819(b), title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597.)
 
-Sunset.—This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015.
+#### References in Text
 
-(Added and amended Pub. L. 113–291, div. A, title VIII, §§831(a), 833, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469.)
-
-#### Reference in Subsection (c)(4)
-
-<i>Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.</i>
+The Deputy Chief Management Officer of the Department of Defense, referred to in subsec. (d)(4), was established by section 132a of this title prior to the general amendment of that section by Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516. As amended by Pub. L. 115–91, section 132a of this title established the Chief Management Officer of the Department of Defense.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (c), (d). Pub. L. 115–88, §3(1), and Pub. L. 115–91, §819(b)(1), amended section identically, redesignating subsec. (c) relating to information technology portfolio, program, and resource reviews as (d).
+
+Subsec. (d)(6). Pub. L. 115–88, §3(2), and Pub. L. 115–91, §819(b)(2), amended subsec. (d) identically, striking out par. (6). Text read as follows: "This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015."
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–291, §833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
 
 #### Change of Name
 
-Reference to "Deputy Chief Management Officer of the Department of Defense" in subsec. (c)(4) deemed to refer to "Under Secretary of Defense for Business Management and Information" after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, set out as a note under section 131 of Title 10, Armed Forces. However, section 901(a)(1) of Pub. L. 113–291, which amended section 132a of Title 10, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
+Reference to "Deputy Chief Management Officer of the Department of Defense" in subsec. (d)(4) was to be deemed to refer to "Under Secretary of Defense for Business Management and Information" after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, formerly set out as a References note under section 131 of Title 10, Armed Forces. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of Title 10, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016. Section 901(n)(1) of Pub. L. 113–291 was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

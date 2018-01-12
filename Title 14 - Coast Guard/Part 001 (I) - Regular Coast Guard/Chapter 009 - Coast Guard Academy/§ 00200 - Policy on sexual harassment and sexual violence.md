@@ -6,7 +6,7 @@ Required Policy.—The Commandant of the Coast Guard shall direct the Superinten
 
 (b)
 
-Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence under this section shall include specification of the following:
+Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violenceunder this section shall include specification of the following:
 
 &emsp;(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel.
 
@@ -96,7 +96,7 @@ Inclusion in reports.—Information derived from a focus group under subparagrap
 
 (e)
 
-Victim Confidentiality.—To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
+Victim Confidentiality.—To the extent that information collected under the authorityof this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
 
 (Added Pub. L. 112–213, title II, §205(a), Dec. 20, 2012, 126 Stat. 1543.)
 

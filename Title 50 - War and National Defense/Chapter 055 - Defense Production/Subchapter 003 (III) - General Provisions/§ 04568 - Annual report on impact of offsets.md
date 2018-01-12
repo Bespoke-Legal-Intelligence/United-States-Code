@@ -28,7 +28,7 @@
 
 #### (2) Use of data
 
-&emsp;Data developed or compiled by any agency while conducting any interagency study or other independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary's responsibilities with respect to trade offset and countertrade policy development.
+&emsp;Data developed or compiled by any agency while conducting any interagency study orother independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary's responsibilities with respect to trade offset and countertrade policy development.
 
 #### (c) Notice of offset agreements
 
@@ -206,7 +206,7 @@ WTO agreement.—The term 'WTO Agreement' means the Agreement Establishing the W
 
 "(a)
 
-In General.—There is established a National Commission on the Use of Offsets in Defense Trade (inthis section referred to as the 'Commission') to address all aspects of the use of offsets in international defense trade.
+In General.—There is established a National Commission on the Use of Offsets in Defense Trade (in this section referred to as the 'Commission') to address all aspects of the use of offsets in international defense trade.
 
 "(b)
 
@@ -346,7 +346,7 @@ Pub. L. 102–558, title I, §123, Oct. 28, 1992, 106 Stat. 4206, as amended by 
 
 "(a)
 
-In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimize the adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—
+In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimizethe adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—
 
 &emsp;"(1) no agency of the United States Government shall encourage, enter directly into, or commit United States firms to any offset arrangement in connection with the sale of defense goods or services to foreign governments;
 
@@ -398,7 +398,7 @@ Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Co
 
 Sec. 2. <i>Duties</i>. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
 
-Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of theUnited States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
+Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
 
 Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
 
@@ -406,7 +406,7 @@ Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 
-(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
+(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) ofPublic Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
 
 \[
 

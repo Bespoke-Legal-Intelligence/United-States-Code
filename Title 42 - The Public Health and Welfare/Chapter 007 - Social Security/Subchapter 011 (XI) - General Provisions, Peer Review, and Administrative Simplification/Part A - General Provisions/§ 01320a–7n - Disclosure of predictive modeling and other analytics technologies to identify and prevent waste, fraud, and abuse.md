@@ -30,7 +30,7 @@ In implementing such provisions under such section 1320a–7m with respect to co
 
 In this section, the term "covered algorithm"—
 
-&emsp;(1) means a predictive modeling or other analytics technology, as used for purposes ofsection 1320a–7m(a) of this title to identify and prevent waste, fraud, and abuse with respect to the Medicare program under subchapter XVIII, the Medicaid program under subchapter XIX, and the Children's Health Insurance Program under subchapter XXI; and
+&emsp;(1) means a predictive modeling or other analytics technology, as used for purposes of section 1320a–7m(a) of this title to identify and prevent waste, fraud, and abuse with respect to the Medicare program under subchapter XVIII, the Medicaid program under subchapter XIX, and the Children's Health Insurance Program under subchapter XXI; and
 
 &emsp;(2) includes the mathematical expressions utilized in the application of such technology and the means by which such technology is developed.
 

@@ -14,7 +14,7 @@ Facilitating Commercial Launches and Reentries.—In carrying out this chapter, 
 
 (c)
 
-Safety.—In carrying out the responsibilities under subsection (b), the Secretary shall encourage, facilitate, and promote the continuous improvement of the safety of launch vehicles designed to carry humans, and the Secretary may, consistent with this chapter, promulgate regulations to carry out this subsection.
+Safety.—In carrying out the responsibilities under subsection (b), the Secretary shallencourage, facilitate, and promote the continuous improvement of the safety of launch vehicles designed to carry humans, and the Secretary may, consistent with this chapter, promulgate regulations to carry out this subsection.
 
 (d)
 
@@ -118,7 +118,7 @@ Sec. 4. <i>Responsibilities of Other Agencies</i>. All executive departments and
 
 (a) provide the Secretary of Transportation with information concerning agency regulatory actions which may affect development of commercial ELV operations;
 
-(b) review and revise their regulations and procedures to eliminate unnecessary regulatory obstacles to the development of commercial ELV operations and to ensure that those regulations and procedures found essential are administered as efficiently as possible; and
+(b) review and revise their regulations and procedures to eliminate unnecessary regulatory obstacles to thedevelopment of commercial ELV operations and to ensure that those regulations and procedures found essential are administered as efficiently as possible; and
 
 (c) establish timetables for the expeditious handling of and response to applications for licenses and approvals for commercial ELV activities.
 

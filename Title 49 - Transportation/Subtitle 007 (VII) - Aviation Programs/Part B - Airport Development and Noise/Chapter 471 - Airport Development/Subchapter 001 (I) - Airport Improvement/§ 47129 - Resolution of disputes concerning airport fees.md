@@ -38,7 +38,7 @@ Decisions By Secretary.—The final regulations, policy statements, or guideline
 
 &emsp;(1) Not more than 120 days after an air carrier or foreign air carrier files with the Secretary a written complaint relating to an airport fee, the Secretary shall issue a final order determining whether such fee is reasonable.
 
-&emsp;(2) Within 30 days after such complaint is filed with the Secretary, the Secretary shall dismiss the complaint if no significant dispute exists or shall assign the matter to an administrative law judge; and thereafter the matter shall be handled in accordance with part 302 of title 14, Code of Federal Regulations, or as modified by the Secretary to ensure an orderly disposition of the matter within the 120-day period and any specifically applicable provisions of this section.
+&emsp;(2) Within 30 days after such complaint is filed with the Secretary, the Secretary shall dismiss the complaint if no significant dispute exists or shall assign the matter to an administrative law judge; and thereafter the matter shall be handled in accordance with part 302 of title 14, Code of Federal Regulations, or as modified by the Secretary to ensure an orderlydisposition of the matter within the 120-day period and any specifically applicable provisions of this section.
 
 &emsp;(3) The administrative law judge shall issue a recommended decision within 60 days after the complaint is assigned or within such shorter period as the Secretary may specify.
 
@@ -74,7 +74,7 @@ Deadline.—The letter of credit, or surety bond, or other suitable credit facil
 
 &emsp;(2)
 
-Guarantee of air carrier and foreign air carrier access.—Contingent upon an air carrier's or foreign air carrier's compliance with the requirements of paragraph (1) andpending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier or foreign air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's or foreign air carrier's prices, routes, or services, as a means of enforcing the fee.
+Guarantee of air carrier and foreign air carrier access.—Contingent upon an air carrier's or foreign air carrier's compliance with the requirements of paragraph (1) and pending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier or foreign air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's or foreign air carrier's prices, routes, or services, as a means of enforcing the fee.
 
 (e)
 

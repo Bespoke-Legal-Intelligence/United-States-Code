@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(x) the extent to which reports of suspected or known instances of child abuse or neglect involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, are being screened out solely on the basis of the cross-jurisdictional complications; and
 
-&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
+&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reported within the context of divorce, custody, orother family court proceedings, and the interaction between this venue and the child protective services system.
 
 #### (2) Research
 
@@ -134,7 +134,7 @@
 
 #### (3) Preference for long-term studies
 
-&emsp;In making grants for purposes of conducting research under subsection (a) of this section, the Secretary shall give special consideration to applications for long-term projects.
+&emsp;In making grants for purposes of conducting research under subsection (a), the Secretary shall give special consideration to applications for long-term projects.
 
 #### (d) Peer review for grants
 
@@ -352,7 +352,7 @@ Pub. L. 100–294, title I, §102, Apr. 25, 1988, 102 Stat. 118, directed Direct
 
 #### Child Abuse and Alcoholic Families
 
-Pub. L. 100–294, title I, §103, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse in alcoholic families and relationship between child abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
+Pub. L. 100–294, title I, §103, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse in alcoholic families and relationship betweenchild abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
 
 #### Study of Guardian-Ad-Litem
 

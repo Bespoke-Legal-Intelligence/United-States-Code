@@ -34,7 +34,7 @@ As used in this chapter:
 
 &emsp;The definition of "disability" in paragraph (1) shall be construed in accordance with the following:
 
-&emsp;&emsp;(A) The definition of disability in this chapter shall be construed in favor of broadcoverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
+&emsp;&emsp;(A) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
 
 &emsp;&emsp;(B) The term "substantially limits" shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
 

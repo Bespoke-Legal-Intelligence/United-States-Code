@@ -1,6 +1,6 @@
 ### §2274a. Firearm authority of employees conducting field work in remote locations
 
-On and after December 8, 2004, the Secretary of Agriculture is authorized to permit employeesof the United States Department of Agriculture to carry and use firearms for personal protection while conducting field work in remote locations in the performance of their official duties.
+On and after December 8, 2004, the Secretary of Agriculture is authorized to permit employees of the United States Department of Agriculture to carry and use firearms for personal protection while conducting field work in remote locations in the performance of their official duties.
 
 (Pub. L. 108–447, div. A, title VII, §742, Dec. 8, 2004, 118 Stat. 2844.)
 

@@ -6,5 +6,5 @@ The punishment which a military commission under this chapter may direct for an 
 
 #### Prior Provisions
 
-A prior section 949t, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to maximum limits of punishment, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949t, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to maximum limitsof punishment, prior to the general amendment of this chapter by Pub. L. 111–84.
 

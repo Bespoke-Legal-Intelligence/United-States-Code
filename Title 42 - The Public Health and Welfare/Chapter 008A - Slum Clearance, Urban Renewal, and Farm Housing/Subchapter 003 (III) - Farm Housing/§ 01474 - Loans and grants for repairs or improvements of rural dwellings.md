@@ -28,7 +28,7 @@ The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified principally to chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Community Service Senior Opportunities Act, referred to in subsec. (c)(3), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Community Service Senior Opportunities Act, referred to in subsec. (c)(3), is title V of Pub. L. 89–73,as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Amendments
 

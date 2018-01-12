@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality ofcare furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -142,7 +142,7 @@
 
 #### (B) Termination or modification
 
-&emsp;&emsp;The Secretary shall terminate or modify the design and implementation of a model unless the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services, with respect to program spending under the applicable subchapter, certifies), after testing has begun, that the model is expected to—
+&emsp;&emsp;The Secretary shall terminate or modify the design and implementation of a model unless the Secretary determines (and the Chief Actuary of the Centers for Medicare \&Medicaid Services, with respect to program spending under the applicable subchapter, certifies), after testing has begun, that the model is expected to—
 
 &emsp;&emsp;&emsp;(i) improve the quality of care (as determined by the Administrator of the Centers for Medicare \& Medicaid Services) without increasing spending under the applicable subchapter;
 
@@ -288,7 +288,7 @@ Duration and Scope.—The demonstration project conducted under this section sha
 
 "(c)
 
-Eligible Safety Net Hospital System or Network.—For purposes of this section, the term 'eligible safety net hospital system or network' means a large, safety net hospital system or network (as defined bythe Secretary) that operates within a State selected by the Secretary under subsection (b).
+Eligible Safety Net Hospital System or Network.—For purposes of this section, the term 'eligible safety net hospital system or network' means a large, safety net hospital system or network (as defined by the Secretary) that operates within a State selected by the Secretary under subsection (b).
 
 "(d)
 

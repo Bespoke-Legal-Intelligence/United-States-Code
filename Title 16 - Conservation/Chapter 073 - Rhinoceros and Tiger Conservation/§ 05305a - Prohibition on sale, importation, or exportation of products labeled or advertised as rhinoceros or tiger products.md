@@ -22,7 +22,7 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (c) Products, items, and substances
 
-Any product, item, or substance sold, imported, or exported, or attempted to be sold, imported, or exported, in violation of this section or any regulation issued under this section shallbe subject to seizure and forfeiture to the United States.
+Any product, item, or substance sold, imported, or exported, or attempted to be sold, imported, or exported, in violation of this section or any regulation issued under this section shall be subject to seizure and forfeiture to the United States.
 
 #### (d) Regulations
 

@@ -48,7 +48,7 @@ Pub. L. 95–461, §1, Oct. 14, 1978, 92 Stat. 1268, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 92–255, §1, Mar. 21, 1972, 86 Stat. 65, as amended by Pub. L. 96–181, §15(a), Jan. 2, 1980, 93 Stat. 1316, provided that: "This Act \[enacting this chapter, and amending sections 5313, 5315, and 5316 of Title 5, Government Organization and Employees, and sections 218, 246, 257, 2684, 2688a, 2688k, 2688n–1, and 2688t of Title 42, The Public Health and Welfare\] may be cited as the'Drug Abuse Prevention, Treatment, and Rehabilitation Act'."
+Pub. L. 92–255, §1, Mar. 21, 1972, 86 Stat. 65, as amended by Pub. L. 96–181, §15(a), Jan. 2, 1980, 93 Stat. 1316, provided that: "This Act \[enacting this chapter, and amending sections 5313, 5315, and 5316 of Title 5, Government Organization and Employees, and sections 218, 246, 257, 2684, 2688a, 2688k, 2688n–1, and 2688t of Title 42, The Public Health and Welfare\] may be cited as the 'Drug Abuse Prevention, Treatment, and Rehabilitation Act'."
 
 #### References to Drug Abuse Office and Treatment Act of 1972
 

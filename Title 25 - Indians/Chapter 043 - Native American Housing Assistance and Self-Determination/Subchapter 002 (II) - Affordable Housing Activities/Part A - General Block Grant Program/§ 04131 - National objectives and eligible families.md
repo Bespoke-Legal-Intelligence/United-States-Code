@@ -4,7 +4,7 @@
 
 The national objectives of this chapter are—
 
-&emsp;(1) to assist and promote affordable housing activities to develop, maintain, and operate affordable housing in safe and healthy environments on Indian reservations and in other Indian areas for occupancy by low-income Indian families;
+&emsp;(1) to assist and promote affordable housing activities to develop, maintain, and operate affordable housing in safe and healthy environments on Indian reservations and in otherIndian areas for occupancy by low-income Indian families;
 
 &emsp;(2) to ensure better access to private mortgage markets for Indian tribes and their members and to promote self-sufficiency of Indian tribes and their members;
 
@@ -32,7 +32,7 @@ The national objectives of this chapter are—
 
 #### (3) Essential families
 
-&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activitiesassisted with grant amounts under this chapter for a family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
+&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter for a family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
 
 #### (4) Law enforcement officers
 
@@ -64,7 +64,7 @@ The national objectives of this chapter are—
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 

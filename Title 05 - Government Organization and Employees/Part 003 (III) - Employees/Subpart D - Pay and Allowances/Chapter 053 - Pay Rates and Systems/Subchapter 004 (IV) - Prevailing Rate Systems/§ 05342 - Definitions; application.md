@@ -60,7 +60,7 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 <b>2004</b>—Subsec. (a)(1)(H). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §3548(a)(3)(A), which directed amendment of subsec. (a)(1) by strikingsubpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
 Subsec. (a)(1)(L). Pub. L. 104–201, §1122(a)(1), substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 

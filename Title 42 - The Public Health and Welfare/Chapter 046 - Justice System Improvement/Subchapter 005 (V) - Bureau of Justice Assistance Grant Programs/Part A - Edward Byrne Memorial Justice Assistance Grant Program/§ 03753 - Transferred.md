@@ -1,0 +1,6 @@
+### §3753. Transferred
+
+#### Codification
+
+Section 3753 was editorially reclassified as section 10154 of Title 34, Crime Control and Law Enforcement.
+

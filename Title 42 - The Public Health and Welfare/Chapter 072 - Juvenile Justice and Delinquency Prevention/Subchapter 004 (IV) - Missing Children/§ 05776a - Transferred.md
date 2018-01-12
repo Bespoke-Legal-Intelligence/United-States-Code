@@ -1,0 +1,6 @@
+### §5776a. Transferred
+
+#### Codification
+
+Section 5776a was editorially reclassified as section 11296 of Title 34, Crime Control and Law Enforcement.
+

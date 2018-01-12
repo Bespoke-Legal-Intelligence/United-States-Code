@@ -20,7 +20,7 @@ Notwithstanding any other provision of this subchapter, an exempted operational 
 
 Notwithstanding subsection (a) or (b), an exempted operational file shall continue to be subject to search and review for information concerning any of the following:
 
-&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 or 552a of title 5.
+&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuantto the provisions of section 552 or 552a of title 5.
 
 &emsp;(2) Any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5.
 

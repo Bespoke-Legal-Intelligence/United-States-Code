@@ -8,6 +8,7 @@
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
 | \[2302c. | Repealed.\] |
 | [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
+| [2302e.](%C2%A7%2002302e%20-%20Contract%20authority%20for%20advanced%20development%20of%20initial%20or%20additional%20prototype%20units.md) | Contract authority for advanced development of initial or additional prototype units. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
 | [2304\.](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md) | Contracts: competition requirements. |
@@ -30,6 +31,7 @@
 | [2312\.](%C2%A7%2002312%20-%20Remission%20of%20liquidated%20damages.md) | Remission of liquidated damages. |
 | [2313\.](%C2%A7%2002313%20-%20Examination%20of%20records%20of%20contractor.md) | Examination of records of contractor. |
 | [2313a.](%C2%A7%2002313a%20-%20Defense%20Contract%20Audit%20Agency%20annual%20report.md) | Defense Contract Audit Agency: annual report. |
+| [2313b.](%C2%A7%2002313b%20-%20Performance%20of%20incurred%20cost%20audits.md) | Performance of incurred cost audits. |
 | [2314\.](%C2%A7%2002314%20-%20Laws%20inapplicable%20to%20agencies%20named%20in%20section%202303%20of%20this%20title.md) | Laws inapplicable to agencies named in section 2303 of this title. |
 | [2315\.](%C2%A7%2002315%20-%20Law%20inapplicable%20to%20the%20procurement%20of%20automatic%20data%20processing%20equipment%20and%20services%20for%20certain%20defense%20purposes.md) | Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes. |
 | [2316\.](%C2%A7%2002316%20-%20Disclosure%20of%20identity%20of%20contractor.md) | Disclosure of identity of contractor. |
@@ -38,7 +40,8 @@
 | [2319\.](%C2%A7%2002319%20-%20Encouragement%20of%20new%20competitors.md) | Encouragement of new competitors. |
 | [2320\.](%C2%A7%2002320%20-%20Rights%20in%20technical%20data.md) | Rights in technical data. |
 | [2321\.](%C2%A7%2002321%20-%20Validation%20of%20proprietary%20data%20restrictions.md) | Validation of proprietary data restrictions. |
-| \[2322. | Repealed.\] |
+| [2322\.](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md) | Management of intellectual property matters within the Department of Defense. |
+| [2322a.](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md) | Requirement for consideration of certain matters during acquisition of noncommercial computer software. |
 | [2323\.](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md) | Contract goal for small disadvantaged businesses and certain institutions of higher education. |
 | [2323a.](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md) | Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education. |
 | [2324\.](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md) | Allowable costs under defense contracts. |
@@ -46,7 +49,7 @@
 | [2326\.](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md) | Undefinitized contractual actions: restrictions. |
 | [2327\.](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md) | Contracts: consideration of national security objectives. |
 | [2328\.](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md) | Release of technical data under Freedom of Information Act: recovery of costs. |
-| \[2329. | Repealed.\] |
+| [2329\.](%C2%A7%2002329%20-%20Procurement%20of%20services%20data%20analysis%20and%20requirements%20validation.md) | Procurement of services: data analysis and requirements validation. |
 | [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md) | Procurement of contract services: management structure. |
 | [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
@@ -56,6 +59,7 @@
 | [2335\.](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md) | Prohibition on collection of political information. |
 | \[2336. | Repealed.\] |
 | [2337\.](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md) | Life-cycle management and product support. |
+| [2337a.](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md) | Assessment, management, and control of operating and support costs for major weapon systems. |
 | [2338\.](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md) | Micro-purchase threshold. |
 | [2339\.](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md) | Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories. |
 
@@ -63,7 +67,15 @@
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title II, §217(a)(2), title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2051, 2276, 2285, added items 2338 and 2339 and struck out item 2302c "Implementation of electronic commerce capability".
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, amended directory language of Pub. L. 114–328, §217(a)(2), effective Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2016 Amendment note below.
+
+Pub. L. 115–91, div. A, title VIII, §§803(b), 836(a)(2), 851(a)(2), 861(a)(2), 871(a)(2), Dec. 12, 2017, 131 Stat. 1455, 1473, 1492, 1494, 1497, added items 2302e, 2313b, 2322a, 2329, and 2337a.
+
+Pub. L. 115–91, div. A, title VIII, §802(a)(2), Dec. 12, 2017, 131 Stat. 1451, which directed amendment of the table of sections for this chapter by adding item 2322 at the end, was executed by adding item 2322 after item 2321, to reflect the probable intent of Congress.
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2276, 2285, added item 2338 and struck out item 2302c "Implementation of electronic commerce capability".
+
+Pub. L. 114–328, div. A, title II, §217(a)(2), Dec. 23, 2016, 130 Stat. 2051, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, added item 2339.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title III, §351(c)(1), Dec. 19, 2014, 128 Stat. 3347, struck out item 2336 "Intergovernmental support agreements with State and local governments".
 
@@ -140,6 +152,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02302b - Implementation of simplified acquisition procedures](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md)
 - [&sect; 02302c - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(5)(A)(i), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002302c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%285%29%28A%29%28i%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
 - [&sect; 02302d - Major system definitional threshold amounts](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md)
+- [&sect; 02302e - Contract authority for advanced development of initial or additional prototype units](%C2%A7%2002302e%20-%20Contract%20authority%20for%20advanced%20development%20of%20initial%20or%20additional%20prototype%20units.md)
 - [&sect; 02303 - Applicability of chapter](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md)
 - [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
 - [&sect; 02304 - Contracts competition requirements](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md)
@@ -162,6 +175,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02312 - Remission of liquidated damages](%C2%A7%2002312%20-%20Remission%20of%20liquidated%20damages.md)
 - [&sect; 02313 - Examination of records of contractor](%C2%A7%2002313%20-%20Examination%20of%20records%20of%20contractor.md)
 - [&sect; 02313a - Defense Contract Audit Agency annual report](%C2%A7%2002313a%20-%20Defense%20Contract%20Audit%20Agency%20annual%20report.md)
+- [&sect; 02313b - Performance of incurred cost audits](%C2%A7%2002313b%20-%20Performance%20of%20incurred%20cost%20audits.md)
 - [&sect; 02314 - Laws inapplicable to agencies named in section 2303 of this title](%C2%A7%2002314%20-%20Laws%20inapplicable%20to%20agencies%20named%20in%20section%202303%20of%20this%20title.md)
 - [&sect; 02315 - Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes](%C2%A7%2002315%20-%20Law%20inapplicable%20to%20the%20procurement%20of%20automatic%20data%20processing%20equipment%20and%20services%20for%20certain%20defense%20purposes.md)
 - [&sect; 02316 - Disclosure of identity of contractor](%C2%A7%2002316%20-%20Disclosure%20of%20identity%20of%20contractor.md)
@@ -170,7 +184,8 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02319 - Encouragement of new competitors](%C2%A7%2002319%20-%20Encouragement%20of%20new%20competitors.md)
 - [&sect; 02320 - Rights in technical data](%C2%A7%2002320%20-%20Rights%20in%20technical%20data.md)
 - [&sect; 02321 - Validation of proprietary data restrictions](%C2%A7%2002321%20-%20Validation%20of%20proprietary%20data%20restrictions.md)
-- [&sect; 02322 - Repealed. Pub. L. 102&#8211;484, div. A, title X, &sect;1052(25)(A), Oct. 23, 1992, 106 Stat. 2500](%C2%A7%2002322%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71052%2825%29%28A%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202500.md)
+- [&sect; 02322 - Management of intellectual property matters within the Department of Defense](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md)
+- [&sect; 02322a - Requirement for consideration of certain matters during acquisition of noncommercial computer software](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md)
 - [&sect; 02323 - Contract goal for small disadvantaged businesses and certain institutions of higher education](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md)
 - [&sect; 02323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of&#8230;](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md)
 - [&sect; 02324 - Allowable costs under defense contracts](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md)
@@ -178,7 +193,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02326 - Undefinitized contractual actions restrictions](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md)
 - [&sect; 02327 - Contracts consideration of national security objectives](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md)
 - [&sect; 02328 - Release of technical data under Freedom of Information Act recovery of costs](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md)
-- [&sect; 02329 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1506(a), Oct. 13, 1994, 108 Stat. 3298](%C2%A7%2002329%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71506%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203298.md)
+- [&sect; 02329 - Procurement of services data analysis and requirements validation](%C2%A7%2002329%20-%20Procurement%20of%20services%20data%20analysis%20and%20requirements%20validation.md)
 - [&sect; 02330 - Procurement of contract services management structure](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md)
 - [&sect; 02330a - Procurement of services tracking of purchases](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md)
 - [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)
@@ -188,5 +203,6 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02335 - Prohibition on collection of political information](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md)
 - [&sect; 02336 - Renumbered &sect;2679](%C2%A7%2002336%20-%20Renumbered%20%C2%A72679.md)
 - [&sect; 02337 - Life-cycle management and product support](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md)
+- [&sect; 02337a - Assessment, management, and control of operating and support costs for major weapon systems](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md)
 - [&sect; 02338 - Micro-purchase threshold](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md)
 - [&sect; 02339 - Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention&#8230;](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md)

@@ -20,7 +20,7 @@ Nothing in this section shall be construed to affect the requirements under sect
 
 For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with section 6311(b)(1) of this title.
 
-(Pub. L. 88–210, §8, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub.L. 114–95, title IX, §9215(n)(2), Dec. 10, 2015, 129 Stat. 2169.)
+(Pub. L. 88–210, §8, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 114–95, title IX, §9215(n)(2), Dec. 10, 2015, 129 Stat. 2169.)
 
 #### Prior Provisions
 

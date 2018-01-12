@@ -58,3 +58,7 @@ As used in this part:
 
 (Pub. L. 101–501, title IX, §926, Nov. 3, 1990, 104 Stat. 1268.)
 
+#### Effective Date
+
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+

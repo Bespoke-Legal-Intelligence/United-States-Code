@@ -28,7 +28,7 @@
 
 (2) The Secretary, in consultation with the Administrator of General Services where appropriate, may permit a Federal fleet to acquire a smaller percentage than is required in paragraph (1), so long as the aggregate percentage acquired by all Federal fleets is at least equal to the required percentage.
 
-(3) For purposes of this subsection, the term "Federal fleet" means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned toany Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
+(3) For purposes of this subsection, the term "Federal fleet" means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
 
 &emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -110,7 +110,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated for carrying out this section, such sums as may benecessary for fiscal years 1993 through 1998, to remain available until expended.
+There are authorized to be appropriated for carrying out this section, such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
 (Pub. L. 102–486, title III, §303, Oct. 24, 1992, 106 Stat. 2871; Pub. L. 109–58, title VII, §702, Aug. 8, 2005, 119 Stat. 815; Pub. L. 110–140, title I, §141, Dec. 19, 2007, 121 Stat. 1517.)
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Executive Order No. 12844
 
-Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
+Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, wasrevoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
 
 #### Executive Order No. 13031
 

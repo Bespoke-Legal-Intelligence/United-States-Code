@@ -206,7 +206,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (iv) Existing housing price ratio
 
-&emsp;&emsp;&emsp;The existing housing price ratio for any area is the ratio determined in accordance with clause (iii) but with respect to residences described in subsection (e)(3)(B).
+&emsp;&emsp;&emsp;The existing housing price ratio for any area is the ratio determined in accordancewith clause (iii) but with respect to residences described in subsection (e)(3)(B).
 
 #### (6) Adjustment to income requirements based on family size
 
@@ -390,7 +390,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term "qualified census tract" means a census tract in which 70 percent or more of the families have income which is 80 percent or less of the statewide median family income.
+&emsp;&emsp;For purposes of paragraph (1), the term "qualified census tract" means a censustract in which 70 percent or more of the families have income which is 80 percent or less of the statewide median family income.
 
 #### (B) Data used
 
@@ -698,7 +698,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;In the case of any State to which clause (ii) does not apply, the State veterans limit for any calendar year is the amount equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) insuch period for which the amount of such bonds so issued was the lowest), divided by
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) in such period for which the amount of such bonds so issued was the lowest), divided by
 
 &emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985 during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
 
@@ -867,7 +867,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;(i) the highest family income which (as of the date the financing was provided) would have met the requirements of subsection (f) with respect to the residents, and
 
-&emsp;&emsp;&emsp;(ii) 1.05 to the nth power where "n" equals the number of full years during the period beginning on the date the financing was provided and ending on the date of the disposition.
+&emsp;&emsp;&emsp;(ii) 1.05 to the nth power where "n" equals the number of full years during theperiod beginning on the date the financing was provided and ending on the date of the disposition.
 
 > &emsp;&emsp;For purposes of clause (i), highest family income shall be determined without regard to subsection (f)(3)(A) and on the basis of the number of members of the taxpayer's family as of the date of the disposition.
 
@@ -1071,7 +1071,7 @@ Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165,168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
+Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
 
 #### Effective Date of 2008 Amendment
 
@@ -1109,7 +1109,7 @@ Pub. L. 103–66, title XIII, §13141(f)(1), Aug. 10, 1993, 107 Stat. 437, provi
 
 Pub. L. 103–66, title XIII, §13141(f)(3), Aug. 10, 1993, 107 Stat. 437, provided that: "The amendments made by subsections (c) and (e) \[amending this section\] shall apply to qualified mortgage bonds issued and mortgage credit certificates provided on or after the date of enactment of this Act \[Aug. 10, 1993\]."
 
-Pub. L. 103–66, title XIII, §13141(f)(4), Aug. 10, 1993, 107 Stat. 437, provided that: "The amendments made by subsection (d) \[amending this section\] shall apply to loans originated and credit certificates provided after the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13141(f)(4), Aug. 10, 1993, 107 Stat. 437, provided that: "The amendments made bysubsection (d) \[amending this section\] shall apply to loans originated and credit certificates provided after the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 #### Effective Date of 1991 Amendment
 
@@ -1167,7 +1167,7 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Transition Rule
 
-Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, asamended by this section, shall be applied by substituting '30 years' for '25 years'."
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting '30 years' for '25 years'."
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 

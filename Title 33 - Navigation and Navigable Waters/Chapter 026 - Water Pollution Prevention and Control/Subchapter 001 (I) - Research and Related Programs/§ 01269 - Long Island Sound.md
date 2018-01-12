@@ -354,7 +354,7 @@ Membership.—
 
 &emsp;"(1)
 
-In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act (33 U.S.C. 1330(c)), except that the Governor of each State may appoint 2 members of the Advisory Committee.
+In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act (33U.S.C. 1330(c)), except that the Governor of each State may appoint 2 members of the Advisory Committee.
 
 &emsp;"(2)
 

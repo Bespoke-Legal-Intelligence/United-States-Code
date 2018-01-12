@@ -10,7 +10,7 @@ Each Job Corps center shall have a workforce council, appointed by the director 
 
 &emsp;A workforce council shall be comprised of—
 
-&emsp;&emsp;(A) a majority of members who shall be owners of business concerns, chief executives or chief operating officers of nongovernmental employers, or other private sector employers, who—
+&emsp;&emsp;(A) a majority of members who shall be owners of business concerns, chief executivesor chief operating officers of nongovernmental employers, or other private sector employers, who—
 
 &emsp;&emsp;&emsp;(i) have substantial management, hiring, or policy responsibility; and
 

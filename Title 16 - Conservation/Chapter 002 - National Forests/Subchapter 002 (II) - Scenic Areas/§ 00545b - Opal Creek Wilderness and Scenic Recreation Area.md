@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Bull of the Woods Wilderness
 
-&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness bysection 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
+&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
 
 #### (2) Opal Creek Wilderness
 
@@ -248,7 +248,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(D) 1 member from a city within a 25-mile radius of the Opal Creek Scenic Recreation Area, to be designated by the Governor of the State of Oregon from a list of candidates provided by the mayors of the cities located within a 25-mile radius of the Opal Creek Scenic Recreation Area; and
 
-&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal Creek Wilderness and Scenic Recreation Area, economic development interests and Indian tribes.
+&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal CreekWilderness and Scenic Recreation Area, economic development interests and Indian tribes.
 
 #### (3) Staggered terms
 
@@ -326,7 +326,7 @@ The purposes of this section are—
 
 #### (2) Land to be offered by Rosboro
 
-&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall compriseSection 36, Township 8 South, Range 4 East, Willamette Meridian.
+&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall comprise Section 36, Township 8 South, Range 4 East, Willamette Meridian.
 
 #### (3) Land to be conveyed by the United States
 
@@ -404,7 +404,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Codification
 
-Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 also enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
+Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 alsoenacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
 
 Provisions substantially identical to the text of this section were enacted by title I of div. B of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–523, known as the Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996.
 

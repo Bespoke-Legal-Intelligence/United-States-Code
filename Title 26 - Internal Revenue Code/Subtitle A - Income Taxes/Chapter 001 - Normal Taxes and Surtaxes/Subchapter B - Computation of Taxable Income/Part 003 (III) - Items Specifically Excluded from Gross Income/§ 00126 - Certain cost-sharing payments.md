@@ -18,7 +18,7 @@ Gross income does not include the excludable portion of payments received under�
 
 &emsp;(7) The forestry incentives program authorized by section 4 <sup>1</sup> of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103).
 
-&emsp;(8) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
+&emsp;(8) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar tothe type of programs described in paragraphs (1) through (8).
 
 &emsp;(9) Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
 
@@ -62,7 +62,7 @@ Notwithstanding any provision of section 1016 to the contrary, no adjustment to 
 
 The Water Bank Act, referred to in subsec. (a)(3), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
 
-The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–334, Aug. 4, 1978, 92 Stat. 420, as amended. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§2201 et seq.)of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–334, Aug. 4, 1978, 92 Stat. 420, as amended. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§2201 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (6), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 

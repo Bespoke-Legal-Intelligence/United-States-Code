@@ -52,7 +52,7 @@ As used in this chapter:
 
 This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-Act approved July 2, 1890, referred to in par. (9)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+Act approved July 2, 1890, referred to in par. (9)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, knownas the Sherman Act, which is classified to sections 1 to 7 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
 Act approved October 15, 1914, referred to in par. (9)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 

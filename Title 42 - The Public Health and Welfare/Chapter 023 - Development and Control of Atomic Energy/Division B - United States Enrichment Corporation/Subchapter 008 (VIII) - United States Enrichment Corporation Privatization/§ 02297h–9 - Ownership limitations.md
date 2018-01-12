@@ -12,7 +12,7 @@ No director, officer, or employee of the Corporation may acquire any securities,
 
 #### (b) Ownership limitation
 
-Immediately following the consummation of the transaction or series of transactions pursuant to which 100 percent of the ownership of the Corporation is transferred to private investors, and for a period of three years thereafter, noperson may acquire, directly or indirectly, beneficial ownership of securities representing more than 10 percent of the total votes of all outstanding voting securities of the Corporation. The foregoing limitation shall not apply to—
+Immediately following the consummation of the transaction or series of transactions pursuant to which 100 percent of the ownership of the Corporation is transferred to private investors, and for a period of three years thereafter, no person may acquire, directly or indirectly, beneficial ownership of securities representing more than 10 percent of the total votes of all outstanding voting securities of the Corporation. The foregoing limitation shall not apply to—
 
 &emsp;(1) any employee stock ownership plan of the Corporation,
 

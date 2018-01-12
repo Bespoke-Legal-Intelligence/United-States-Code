@@ -38,7 +38,7 @@ Except as provided in subsection (e), amounts provided under a grant under this 
 
 #### (e) Public-private partnerships
 
-The Director shall make all reasonable efforts, consistent with the purposes of this subchapter,to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title.
+The Director shall make all reasonable efforts, consistent with the purposes of this subchapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title.
 
 (Pub. L. 104–330, title VIII, §802, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2877, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2971.)
 

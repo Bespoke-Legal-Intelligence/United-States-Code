@@ -56,6 +56,7 @@
 | [1748\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748%20-%20Funding%20requirements.md) | Funding requirements. |
 | [1748a.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748a%20-%20FLAME%20Wildfire%20Suppression%20Reserve%20Funds.md) | FLAME Wildfire Suppression Reserve Funds. |
 | [1748b.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748b%20-%20Cohesive%20wildfire%20management%20strategy.md) | Cohesive wildfire management strategy. |
+| [1748c.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748c%20-%20Bureau%20of%20Land%20Management%20Foundation.md) | Bureau of Land Management Foundation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

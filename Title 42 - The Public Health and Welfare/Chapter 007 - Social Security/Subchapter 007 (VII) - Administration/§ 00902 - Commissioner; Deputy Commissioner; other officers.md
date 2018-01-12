@@ -12,7 +12,7 @@
 
 (5) The Commissioner may prescribe such rules and regulations as the Commissioner determines necessary or appropriate to carry out the functions of the Administration. The regulations prescribed by the Commissioner shall be subject to the rulemaking procedures established under section 553 of title 5.
 
-(6) The Commissioner may establish, alter, consolidate, or discontinue such organizational units or components within the Administrationas the Commissioner considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit, component, or provision provided for by this chapter.
+(6) The Commissioner may establish, alter, consolidate, or discontinue such organizational units or components within the Administration as the Commissioner considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit, component, or provision provided for by this chapter.
 
 (7) The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
 
@@ -34,7 +34,7 @@
 
 #### (c) Chief Actuary
 
-(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards ofactuarial independence. The Chief Actuary may be removed only for cause.
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 

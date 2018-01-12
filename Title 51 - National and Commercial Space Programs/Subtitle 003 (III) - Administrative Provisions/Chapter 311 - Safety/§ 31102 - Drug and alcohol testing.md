@@ -54,7 +54,7 @@ Establishment and maintenance of program for administration employees.—The Adm
 
 (e)
 
-Procedures for Testing.—In establishing the programs required under subsection (b), the Administrator shall develop requirements which shall—
+Procedures for Testing.—In establishing the programs required under subsection (b), theAdministrator shall develop requirements which shall—
 
 &emsp;(1) promote, to the maximum extent practicable, individual privacy in the collection of specimen samples;
 

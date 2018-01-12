@@ -86,7 +86,7 @@
 
 #### (D) Prohibition
 
-&emsp;&emsp;Neither the Secretary nor the political appointees of the Department, may attempt to participate in, or influence, the peer-review process.
+&emsp;&emsp;Neither the Secretary nor the political appointees of the Department, may attempt toparticipate in, or influence, the peer-review process.
 
 #### (5) Public review
 
@@ -302,7 +302,7 @@
 
 #### (i) Alternate assessments aligned with alternate academic achievement standards
 
-&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challenging State academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with the most significant cognitive disabilities, if the State—
+&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challengingState academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with the most significant cognitive disabilities, if the State—
 
 &emsp;&emsp;&emsp;&emsp;(I) consistent with clause (ii), ensures that, for each subject, the total number of students assessed in such subject using the alternate assessments does not exceed 1 percent of the total number of all students in the State who are assessed in such subject;
 
@@ -492,7 +492,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) include a measure of student growth on the assessments described in subclause (I) in the second year of the student's enrollment in such a school; and
 
-&emsp;&emsp;&emsp;&emsp;(cc) include proficiency on the assessments described in subclause (I) in the third year of the student's enrollment in such a school, and each succeeding year of such enrollment.
+&emsp;&emsp;&emsp;&emsp;(cc) include proficiency on the assessments described in subclause (I) in thethird year of the student's enrollment in such a school, and each succeeding year of such enrollment.
 
 #### (B) English learner subgroup
 
@@ -558,7 +558,7 @@
 
 &emsp;&emsp;Except for the indicator described in clause (iv), annually measure, for all students and separately for each subgroup of students, the following indicators:
 
-&emsp;&emsp;&emsp;(i) For all public schools in the State, based on the long-term goals establishedunder subparagraph (A), academic achievement—
+&emsp;&emsp;&emsp;(i) For all public schools in the State, based on the long-term goals established under subparagraph (A), academic achievement—
 
 &emsp;&emsp;&emsp;&emsp;(I) as measured by proficiency on the annual assessments required under subsection (b)(2)(B)(v)(I); and
 
@@ -718,7 +718,7 @@
 
 #### (v) Funding for transportation
 
-&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percentof its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
+&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percent of its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
 
 #### (2) Targeted support and improvement
 
@@ -974,7 +974,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) the long-term goals and measurements of interim progress for all students and for each of the subgroups of students, as defined in subsection (c)(2);
 
-&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfullydifferentiate all public schools in the State;
+&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfully differentiate all public schools in the State;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the State's system for meaningfully differentiating all public schools in the State, including—
 
@@ -1028,7 +1028,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(xi) The number and percentages of students with the most significant cognitive disabilities who take an alternate assessment under subsection (b)(2)(D), by grade and subject.
 
-&emsp;&emsp;&emsp;(xii) Results on the State academic assessments in reading and mathematics in grades 4 and 8 of the National Assessmentof Educational Progress carried out under section 303(b)(3) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)(3)), compared to the national average of such results.
+&emsp;&emsp;&emsp;(xii) Results on the State academic assessments in reading and mathematics in grades 4 and 8 of the National Assessment of Educational Progress carried out under section 303(b)(3) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)(3)), compared to the national average of such results.
 
 &emsp;&emsp;&emsp;(xiii) Where available, for each high school in the State, and beginning with the report card prepared under this paragraph for 2017, the cohort rate (in the aggregate, and disaggregated for each subgroup of students defined in subsection (c)(2)), at which students who graduate from the high school enroll, for the first academic year that begins after the students' graduation—
 
@@ -1036,7 +1036,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
 
-&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( <sup>9</sup> as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c)).
+&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( <sup>9</sup> as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c)).
 
 #### (D) Rules of construction
 
@@ -1092,7 +1092,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Each State educational agency receiving assistance under this part shall report annually to the Secretary, and make widely available within the State—
 
-&emsp;&emsp;(A) information on the achievement of students on the academic assessments requiredby subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
+&emsp;&emsp;(A) information on the achievement of students on the academic assessments required by subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
 
 &emsp;&emsp;(B) information on the acquisition of English proficiency by English learners;
 
@@ -1168,7 +1168,7 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 The Education Sciences Reform Act of 2002, referred to in subsec. (a)(1)(B), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(1)(B), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(1)(B), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 The National Assessment of Educational Progress Authorization Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1982, which is classified generally to subchapter III (§9621 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 

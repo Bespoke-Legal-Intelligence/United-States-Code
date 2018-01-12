@@ -6,6 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 09221 - Determinations with respect to North Korea as a jurisdiction of primary money laundering concern](%C2%A7%2009221%20-%20Determinations%20with%20respect%20to%20North%20Korea%20as%20a%20jurisdiction%20of%20primary%20money%20laundering%20concern.md)
+- [&sect; 09221a - Prohibition on indirect correspondent accounts](%C2%A7%2009221a%20-%20Prohibition%20on%20indirect%20correspondent%20accounts.md)
 - [&sect; 09222 - Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea](%C2%A7%2009222%20-%20Ensuring%20the%20consistent%20enforcement%20of%20United%20Nations%20Security%20Council%20resolutions%20and%20financial%20restrictions%20on%20North%20Korea.md)
 - [&sect; 09223 - Proliferation prevention sanctions](%C2%A7%2009223%20-%20Proliferation%20prevention%20sanctions.md)
 - [&sect; 09224 - Procurement sanctions](%C2%A7%2009224%20-%20Procurement%20sanctions.md)

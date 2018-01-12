@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;The term "qualified contaminated site" means any area—
 
-&emsp;&emsp;(A) which is held by the taxpayer for use in a trade or business or for the production ofincome, or which is property described in section 1221(a)(1) in the hands of the taxpayer, and
+&emsp;&emsp;(A) which is held by the taxpayer for use in a trade or business or for the production of income, or which is property described in section 1221(a)(1) in the hands of the taxpayer, and
 
 &emsp;&emsp;(B) at or on which there has been a release (or threat of release) or disposal of any hazardous substance.
 

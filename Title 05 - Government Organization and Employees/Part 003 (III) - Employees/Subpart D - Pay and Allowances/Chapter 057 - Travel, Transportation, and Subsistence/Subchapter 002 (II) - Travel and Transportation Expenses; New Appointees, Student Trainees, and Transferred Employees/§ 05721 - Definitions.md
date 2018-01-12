@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 #### Historical and Revision Notes
 
-The section is based on sections 18 and 19 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811, 812. Sections 18 and 19 of the Act of Aug. 2, 1946, are omitted from this title and transferred to other titles of the United States Code since such sections apply also to sections 9, 11, and 16(a) of the Act of Aug. 2, 1946, which sections appear in titles 31 and 41 of the United States Code.
+The section is based on sections 18 and 19 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811, 812. Sections 18 and19 of the Act of Aug. 2, 1946, are omitted from this title and transferred to other titles of the United States Code since such sections apply also to sections 9, 11, and 16(a) of the Act of Aug. 2, 1946, which sections appear in titles 31 and 41 of the United States Code.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

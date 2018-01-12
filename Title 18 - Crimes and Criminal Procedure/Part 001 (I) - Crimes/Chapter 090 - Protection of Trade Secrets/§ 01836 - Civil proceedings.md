@@ -26,7 +26,7 @@ Application.—Based on an affidavit or verified complaint satisfying the requir
 
 Requirements for issuing order.—The court may not grant an application under clause (i) unless the court finds that it clearly appears from specific facts that—
 
-&emsp;&emsp;&emsp;&emsp;(I) an order issued pursuant to Rule 65 of the Federal Rules of Civil Procedureor another form of equitable relief would be inadequate to achieve the purpose of this paragraph because the party to which the order would be issued would evade, avoid, or otherwise not comply with such an order;
+&emsp;&emsp;&emsp;&emsp;(I) an order issued pursuant to Rule 65 of the Federal Rules of Civil Procedure or another form of equitable relief would be inadequate to achieve the purpose of this paragraph because the party to which the order would be issued would evade, avoid, or otherwise not comply with such an order;
 
 &emsp;&emsp;&emsp;&emsp;(II) an immediate and irreparable injury will occur if such seizure is not ordered;
 
@@ -60,7 +60,7 @@ Elements of order.—If an order is issued under subparagraph (A), it shall—
 
 &emsp;&emsp;&emsp;(i) set forth findings of fact and conclusions of law required for the order;
 
-&emsp;&emsp;&emsp;(ii) provide for the narrowest seizure of property necessary to achieve the purpose of this paragraph and direct that the seizure be conducted in a manner that minimizes any interruption of the business operations of third parties and, to the extent possible, does not interrupt the legitimate business operations of the person accused of misappropriating the trade secret;
+&emsp;&emsp;&emsp;(ii) provide for the narrowest seizure of property necessary to achieve the purpose of this paragraph and direct that the seizure be conducted in a manner that minimizes any interruption of the business operations of third parties and, to the extent possible, does not interrupt the legitimatebusiness operations of the person accused of misappropriating the trade secret;
 
 &emsp;&emsp;&emsp;(iii)(I) be accompanied by an order protecting the seized property from disclosure by prohibiting access by the applicant or the person against whom the order is directed, and prohibiting any copies, in whole or in part, of the seized property, to prevent undue damage to the party against whom the order has issued or others, until such parties have an opportunity to be heard in court; and
 
@@ -98,7 +98,7 @@ Protection of confidentiality.—The court shall take appropriate measures to pr
 
 &emsp;&emsp;&emsp;(iv)
 
-Appointment of special master.—The court may appoint a special master to locate and isolate all misappropriated trade secret information and to facilitate the return of unrelated property and data to the person from whom the property was seized. The special master appointed bythe court shall agree to be bound by a non-disclosure agreement approved by the court.
+Appointment of special master.—The court may appoint a special master to locate and isolate all misappropriated trade secret information and to facilitate the return of unrelated property and data to the person from whom the property was seized. The special master appointed by the court shall agree to be bound by a non-disclosure agreement approved by the court.
 
 &emsp;&emsp;(E)
 
@@ -126,7 +126,7 @@ Discovery time limits.—The court may make such orders modifying the time limit
 
 &emsp;&emsp;(G)
 
-Action for damage caused by wrongful seizure.—A person who suffers damage by reason of a wrongful or excessive seizure under this paragraph has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to the same relief as is provided under section 34(d)(11) of the Trademark Act of 1946 (15 U.S.C. 1116(d)(11)). The security posted with the court under subparagraph (B)(vi) shall not limit the recovery of third parties for damages.
+Action for damage caused by wrongful seizure.—A person who suffers damage by reason of a wrongful or excessive seizure under this paragraph has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to the same relief as is provided under section 34(d)(11) of the Trademark Act of 1946 (15 U.S.C. 1116(d)(11)). The securityposted with the court under subparagraph (B)(vi) shall not limit the recovery of third parties for damages.
 
 &emsp;&emsp;(H)
 
@@ -168,7 +168,7 @@ Jurisdiction.—The district courts of the United States shall have original jur
 
 Period of Limitations.—A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, a continuing misappropriation constitutes a single claim of misappropriation.
 
-(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, §4002(e)(9), Nov. 2, 2002, 116 Stat. 1810;Pub. L. 114–153, §2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
+(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, §4002(e)(9), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 114–153, §2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
 
 #### References in Text
 

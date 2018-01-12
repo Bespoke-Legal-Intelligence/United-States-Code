@@ -84,65 +84,13 @@ Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided 
 
 #### Asia-Pacific Economic Cooperation Business Travel Cards
 
-Pub. L. 112–54, Nov. 12, 2011, 125 Stat. 550, provided that:
+Pub. L. 115–79, §4(b)(2), Nov. 2, 2017, 131 Stat. 1260, provided that: "Notwithstanding the repeal under paragraph (1) \[repealing Pub. L. 112–54, below\], an ABT Card issued pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 before the date of the enactment of this Act \[Nov. 2, 2017\] that, as of such date, is still valid, shall remain valid on and after such date until such time as such Card would otherwise expire."
 
-#### "SECTION 1. SHORT TITLE.
-
-"This Act may be cited as the 'Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011'.
-
-#### "SEC. 2. ASIA-PACIFIC ECONOMIC COOPERATION BUSINESS TRAVEL CARDS.
-
-"(a)
-
-In General.—During the 7-year period ending on September 30, 2018, the Secretary of Homeland Security, in coordination with the Secretary of State, is authorized to issue Asia-Pacific Economic Cooperation Business Travel Cards (referred to in this section as 'ABT Cards') to any eligible person, including business leaders and United States Government officials who are actively engaged in Asia-Pacific Economic Cooperation business. An individual may not receive an ABT Card under this section unless the individual has been approved and is in good standing in an international trusted traveler program of the Department of Homeland Security.
-
-"(b)
-
-Integration With Existing Travel Programs.—The Secretary of Homeland Security may integrate application procedures for, and issuance, suspension, and revocation of, ABT Cards with other appropriate international trusted traveler programs of the Department of Homeland Security.
-
-"(c)
-
-Cooperation With Private Entities.—In carrying out this section, the Secretary of Homeland Security may consult with appropriate private sector entities.
-
-"(d)
-
-Rulemaking.—The Secretary of Homeland Security, in coordination with the Secretary of State, may prescribe such regulations as may be necessary to carry out this section, including regulations regarding conditions of or limitations on eligibility for an ABT Card.
-
-"(e)
-
-Fee.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Homeland Security may—
-
-&emsp;&emsp;"(A) prescribe and collect a fee for the issuance of ABT Cards; and
-
-&emsp;&emsp;"(B) adjust such fee to the extent the Secretary determines to be necessary to comply with paragraph (2).
-
-&emsp;"(2)
-
-Limitation.—The Secretary of Homeland Security shall ensure that the total amount of the fees collected under paragraph (1) during any fiscal year is sufficient to offset the direct and indirect costs associated with carrying out this section during such fiscal year, including the costs associated with establishing the program.
-
-&emsp;"(3)
-
-Account for collections.—There is established in the Treasury of the United States an 'APEC Business Travel Card Account' into which the fees collected under paragraph (1) shall be deposited as offsetting receipts.
-
-&emsp;"(4)
-
-Use of funds.—Amounts deposited into the APEC Business Travel Card Account—
-
-&emsp;&emsp;"(A) shall be credited to the appropriate account of the Department of Homeland Security for expenses incurred in carrying out this section; and
-
-&emsp;&emsp;"(B) shall remain available until expended.
-
-"(f)
-
-Termination of Program.—The Secretary of Homeland Security, in coordination with the Secretary of State, may terminate activities under this section if the Secretary of Homeland Security determines such action to be in the interest of the United States."
+Pub. L. 112–54, Nov. 12, 2011, 125 Stat. 550, known as the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011, provided for the issuance of Asia-Pacific Economic Cooperation Business Travel Cards for a 7-year period ending on Sept. 30, 2018, prior to repeal by Pub. L. 115–79, §4(b)(1), Nov. 2, 2017, 131 Stat. 1260. See section 218 of Title 6, Domestic Security.
 
 #### Western Hemisphere Travel Initiative
 
-Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reformand Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
+Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
 
 &emsp;"(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
 
@@ -214,7 +162,7 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 
 &emsp;"(2) the President may not exercise discretion under section 215(b) of such Act (8 U.S.C. 1185(b)) to waive documentary requirements for United States citizens departing from or entering, or attempting to depart from or enter, the United States except—
 
-&emsp;&emsp;"(A) where the Secretary of Homeland Security determines that the alternative documentationthat is the basis for the waiver of the documentary requirement is sufficient to denote identity and citizenship;
+&emsp;&emsp;"(A) where the Secretary of Homeland Security determines that the alternative documentation that is the basis for the waiver of the documentary requirement is sufficient to denote identity and citizenship;
 
 &emsp;&emsp;"(B) in the case of an unforeseen emergency in individual cases; or
 
@@ -244,7 +192,7 @@ Ex. Ord. No. 13323, Dec. 30, 2003, 69 F.R. 241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
 
-Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
+Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) ofthe INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
 
 Sec. 2. <i>Functions of the Secretary of State</i>. The Secretary of State is assigned the functions of the President under section 215(a) and (b) of the INA with respect to citizens of the United States, including those functions concerning United States passports. In addition, the Secretary may amend or revoke part 46 of title 22, Code of Federal Regulations, which concern persons other than citizens of the United States. In exercising these functions, the Secretary of State shall not issue, amend, or revoke any rules, regulations, or orders without first consulting with the Secretary of Homeland Security.
 

@@ -23,7 +23,7 @@ Part V—Enforcement Provisions
 - [&sect; 01593a - Penalties for false drawback claims](%C2%A7%2001593a%20-%20Penalties%20for%20false%20drawback%20claims.md)
 - [&sect; 01594 - Seizure of conveyances](%C2%A7%2001594%20-%20Seizure%20of%20conveyances.md)
 - [&sect; 01595 - Searches and seizures](%C2%A7%2001595%20-%20Searches%20and%20seizures.md)
-- [&sect; 01595a - Forfeitures and other penalties](%C2%A7%2001595a%20-%20Forfeitures%20and%20other%20penalties.md)
+- [&sect; 01595a - Aiding unlawful importation](%C2%A7%2001595a%20-%20Aiding%20unlawful%20importation.md)
 - [&sect; 01596 to 1598 - Repealed. June 25, 1948, ch. 645, &sect;21, 62 Stat. 862, eff. Sept. 1, 1948](%C2%A7%2001596%20to%201598%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862%2C%20eff.%20Sept.%201%2C%201948.md)
 - [&sect; 01599 - Officers not to be interested in vessels or cargo](%C2%A7%2001599%20-%20Officers%20not%20to%20be%20interested%20in%20vessels%20or%20cargo.md)
 - [&sect; 01600 - Application of the customs laws to other seizures by customs officers](%C2%A7%2001600%20-%20Application%20of%20the%20customs%20laws%20to%20other%20seizures%20by%20customs%20officers.md)

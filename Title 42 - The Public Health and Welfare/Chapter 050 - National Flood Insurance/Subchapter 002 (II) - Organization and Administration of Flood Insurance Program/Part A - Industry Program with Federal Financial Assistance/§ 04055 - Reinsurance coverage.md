@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
+&emsp;The Administrator is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c).
 
 #### (2) Private reinsurance
 
@@ -35,6 +35,10 @@ This chapter, referred to in subsec. (c), was in the original a reference to "th
 Subsecs. (b) to (d). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

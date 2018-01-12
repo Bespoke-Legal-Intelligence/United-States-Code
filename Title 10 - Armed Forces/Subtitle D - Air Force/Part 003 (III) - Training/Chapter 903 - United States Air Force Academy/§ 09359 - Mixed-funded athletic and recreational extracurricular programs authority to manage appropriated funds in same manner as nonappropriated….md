@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—In the case of an Academy mixed-funded athletic or recreational extracurricular program, the Secretary of the Air Force may designate funds appropriated to the Department of the Air Force and available for that program to be treated as nonappropriated funds and expended for that program in accordance with laws applicable to the expenditure of nonappropriated funds. Appropriated funds so designated shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
+Authority.—In the case of an Academy mixed-funded athletic or recreational extracurricular program, the Secretary of the Air Force may designate funds appropriated to theDepartment of the Air Force and available for that program to be treated as nonappropriated funds and expended for that program in accordance with laws applicable to the expenditure of nonappropriated funds. Appropriated funds so designated shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
 (b)
 

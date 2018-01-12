@@ -180,13 +180,13 @@ nc
 
 &emsp;&emsp;&emsp;(i) freight, insurance, packing, and all other costs incurred in transporting the material to the location of the producer;
 
-&emsp;&emsp;&emsp;(ii) duties, taxes, and customs brokerage fees paid on the material in the territory of one or more of the NAFTA countries; and
+&emsp;&emsp;&emsp;(ii) duties, taxes, and customs brokerage fees paid on the material in the territoryof one or more of the NAFTA countries; and
 
 &emsp;&emsp;&emsp;(iii) the cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or by-product.
 
 #### (10) Intermediate material
 
-&emsp;Except for goods described in subsection (c)(1), any self-produced material, other than acomponent identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
+&emsp;Except for goods described in subsection (c)(1), any self-produced material, other than a component identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
 
 #### (11) Value of intermediate material
 
@@ -254,7 +254,7 @@ nc
 
 &emsp;&emsp;&emsp;(iii) over its fiscal year, if the good is sold as an aftermarket part;
 
-&emsp;&emsp;(B) calculate the average referred to in subparagraph (A) separately for any or allgoods sold to one or more motor vehicle producers; or
+&emsp;&emsp;(B) calculate the average referred to in subparagraph (A) separately for any or all goods sold to one or more motor vehicle producers; or
 
 &emsp;&emsp;(C) with respect to any calculation under this paragraph, make a separate calculation for goods that are exported to the territory of one or more NAFTA countries.
 
@@ -536,7 +536,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) goods (such as fish, shellfish, and other marine life) taken from the sea by vessels registered or recorded with a NAFTA country and flying its flag;
 
-&emsp;&emsp;(F) goods produced on board factory ships from the goods referred to in subparagraph\(E), if such factory ships are registered or recorded with that NAFTA country and fly its flag;
+&emsp;&emsp;(F) goods produced on board factory ships from the goods referred to in subparagraph (E), if such factory ships are registered or recorded with that NAFTA country and fly its flag;
 
 &emsp;&emsp;(G) goods taken by a NAFTA country or a person of a NAFTA country from the seabed or beneath the seabed outside territorial waters, provided that a NAFTA country has rights to exploit such seabed;
 
@@ -706,7 +706,7 @@ For purposes of this section—
 
 #### (29) Shipping and packing costs
 
-&emsp;The term "shipping and packing costs" means the costs incurred in packing a good for shipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
+&emsp;The term "shipping and packing costs" means the costs incurred in packing a good forshipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
 
 #### (30) Size category
 

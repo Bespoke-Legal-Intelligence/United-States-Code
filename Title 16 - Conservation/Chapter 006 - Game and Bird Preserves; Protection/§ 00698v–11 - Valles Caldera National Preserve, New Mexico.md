@@ -116,7 +116,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) beginning on the date on which a management plan is completed in accordance with paragraph (3)(C), establish a science and education program for the Preserve that—
 
-&emsp;&emsp;&emsp;&emsp;(I) allows for research and interpretation of the natural, historic, cultural,geologic and other scientific features of the Preserve;
+&emsp;&emsp;&emsp;&emsp;(I) allows for research and interpretation of the natural, historic, cultural, geologic and other scientific features of the Preserve;
 
 &emsp;&emsp;&emsp;&emsp;(II) provides for improved methods of ecological restoration and science-based adaptive management of the Preserve; and
 
@@ -414,7 +414,7 @@ Status of land acquired.—As of the date of acquisition, the fee title lands, a
 
 "(3)
 
-Mineral estate.—Any mineral estate acquired by the United States pursuant to section 104(e) \[former 16 U.S.C. 698v–2(e)\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
+Mineral estate.—Any mineral estate acquired by the United States pursuant to section 104(e) \[former16 U.S.C. 698v–2(e)\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
 
 "(4)
 

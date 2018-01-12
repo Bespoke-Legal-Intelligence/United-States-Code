@@ -22,3 +22,7 @@ When applying for a grant under this section, an applicant shall include a descr
 
 (Pub. L. 110–140, title VI, §634, Dec. 19, 2007, 121 Stat. 1687.)
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+

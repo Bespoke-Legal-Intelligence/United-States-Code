@@ -98,7 +98,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 (iii) Not later than 90 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall conduct an internal review and implement reforms of the merger review process in order to eliminate unnecessary burden, remove costly duplication, and eliminate undue delay, in order to achieve a more effective and more efficient merger review process.
 
-(iv) Not later than 120 days after December 21, 2000, the Assistant Attorney General and theFederal Trade Commission shall issue or amend their respective industry guidance, regulations, operating manuals and relevant policy documents, to the extent appropriate, to implement each reform in this subparagraph.
+(iv) Not later than 120 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall issue or amend their respective industry guidance, regulations, operating manuals and relevant policy documents, to the extent appropriate, to implement each reform in this subparagraph.
 
 (v) Not later than 180 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall each report to Congress—
 
@@ -136,7 +136,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 (1) Any action taken by the Federal Trade Commission or the Assistant Attorney General or any failure of the Federal Trade Commission or the Assistant Attorney General to take any action under this section shall not bar any proceeding or any action with respect to such acquisition at any time under any other section of this Act or any other provision of law.
 
-(2) Nothing contained in this section shall limit the authority of the Assistant Attorney General or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], or any other provision of law.
+(2) Nothing contained in this section shall limit the authority of the Assistant Attorney General or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act\[15 U.S.C. 41 et seq.\], or any other provision of law.
 
 #### (j) Omitted
 
@@ -144,17 +144,17 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 If the end of any period of time provided in this section falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103(a) of title 5), then such period shall be extended to the end of the next day that is not a Saturday, Sunday, or legal public holiday.
 
-(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390;amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) \[title VI, §630(a), (c), (d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
+(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) \[title VI, §630(a), (c), (d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
 
 #### References in Text
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
 
-This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 #### Codification
 
@@ -212,9 +212,9 @@ Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that:
 
 #### Assessment and Collection of Filing Fees
 
-Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) \[title VI, §630(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
+Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25,1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) \[title VI, §630(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
 
-"(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant tothis section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': <i>Provided</i>, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: <i>Provided further</i>, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
+"(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': <i>Provided</i>, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: <i>Provided further</i>, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
 "(b) The filing fees referred to in subsection (a) are—
 

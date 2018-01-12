@@ -20,7 +20,7 @@
 
 (4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or natural resources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
 
-(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
+(5) An agricultural resources intern shall be required to report for service with the Bureau ofIndian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
 
 #### (b) Cooperative education program
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shallimplement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
@@ -72,7 +72,7 @@ The Secretary shall administer the programs described in this section until a su
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 5301 of this title and Tables.
 
 #### Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems
 

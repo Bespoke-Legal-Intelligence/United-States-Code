@@ -1,6 +1,6 @@
 ### §2208. Working-capital funds
 
-(a) To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defense may require the establishment of working-capital funds in the Department of Defense to—
+(a) To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defensemay require the establishment of working-capital funds in the Department of Defense to—
 
 &emsp;(1) finance inventories of such supplies as he may designate; and
 
@@ -28,7 +28,7 @@
 
 (i) For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 4543 of this title.
 
-(j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles,as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
+(j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
 
 &emsp;(A) the person purchasing the article or service is fulfilling a Department of Defense contract or a subcontract under a Department of Defense contract, and the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms; or
 
@@ -38,7 +38,7 @@
 
 (k)(1) Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
 
-(2) Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $250,000:
+(2) Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities:
 
 &emsp;(A) An unspecified minor military construction project under section 2805(c) of this title.
 
@@ -124,7 +124,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 Notification of Transfers.—(1) Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
 
-(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
+(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may bemade for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
 
 (s)
 
@@ -150,7 +150,7 @@ Market Fluctuation Account.—(1) From amounts available for Working Capital Fun
 
 (2) A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324.)
 
 Historical and Revision Notes<br>1956
 
@@ -234,6 +234,8 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
+<b>2017</b>—Subsec. (k)(2). Pub. L. 115–91 substituted "$500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities" for "$250,000" in introductory provisions.
+
 <b>2015</b>—Subsec. (s). Pub. L. 114–92, §1421, added subsec. (s).
 
 Subsec. (t). Pub. L. 114–92, §1422, added subsec. (t).
@@ -302,7 +304,7 @@ Pub. L. 98–94, title XII, §1204(b), Sept. 24, 1983, 97 Stat. 683, provided th
 
 #### Pilot Program for Acquisition of Commercial Satellite Communication Services
 
-Pub. L. 113–291, div. A, title XVI, §1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, titleXVI, §1612, Nov. 25, 2015, 129 Stat. 1103; Pub. L. 114–328, div. A, title XVI, §1606(a), Dec. 23, 2016, 130 Stat. 2586, provided that:
+Pub. L. 113–291, div. A, title XVI, §1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1612, Nov. 25, 2015, 129 Stat. 1103; Pub. L. 114–328, div. A, title XVI, §1606(a), Dec. 23, 2016, 130 Stat. 2586, provided that:
 
 "(a)
 
@@ -398,7 +400,7 @@ Pub. L. 103–160, div. A, title III, §333(a), (b), Nov. 30, 1993, 107 Stat. 16
 
 #### Capital Asset Subaccount
 
-Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amountsfor depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Limitations on Use of Defense Business Operations Fund
 

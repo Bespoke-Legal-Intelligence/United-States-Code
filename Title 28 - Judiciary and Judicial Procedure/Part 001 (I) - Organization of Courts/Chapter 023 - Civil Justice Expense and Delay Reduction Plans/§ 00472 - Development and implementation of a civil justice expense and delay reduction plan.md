@@ -12,7 +12,7 @@
 
 &emsp;(4) an explanation of the manner in which the recommended plan complies with section 473 of this title.
 
-(c)(1) In developing its recommendations, the advisory group of a district court shall promptly complete a thorough assessment of the state ofthe court's civil and criminal dockets. In performing the assessment for a district court, the advisory group shall—
+(c)(1) In developing its recommendations, the advisory group of a district court shall promptly complete a thorough assessment of the state of the court's civil and criminal dockets. In performing the assessment for a district court, the advisory group shall—
 
 &emsp;(A) determine the condition of the civil and criminal dockets;
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) 27 months; or
 
-&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
+&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specificproject area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
 
 &emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(P) will post in such project workplace a notice, and will make available to each person associated with such project a written explanation—
 
-&emsp;&emsp;&emsp;(i) clarifying the law with respect to political activities allowable and unallowable under chapter 15 of title 5 applicableto the project and to each category of individuals associated with such project; and
+&emsp;&emsp;&emsp;(i) clarifying the law with respect to political activities allowable and unallowable under chapter 15 of title 5 applicable to the project and to each category of individuals associated with such project; and
 
 &emsp;&emsp;&emsp;(ii) containing the address and telephone number of the Inspector General of the Department of Labor, to whom questions regarding the application of such chapter may be addressed;
 
@@ -270,7 +270,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), 
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification ofthis Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (b)(1)(N)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -330,7 +330,7 @@ Regulations.—Effective on the date of enactment of this Act \[Oct. 17, 2006\],
 
 &emsp;"(2)
 
-Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out theactivities authorized in section 513(a)(2) of the Older Americans Act of 1965 \[42 U.S.C. 3056k(a)(2)\] (as so amended), in preparation for program year 2007."
+Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 \[42 U.S.C. 3056k(a)(2)\] (as so amended), in preparation for program year 2007."
 
 #### Short Title
 

@@ -8,7 +8,7 @@ Section 1153, act June 6, 1874, ch. 223, §1, 18 Stat. 62, related to confirming
 
 Section 1154, act June 6, 1874, ch. 223, §2, 18 Stat. 62, related to unimpairing, etc., rights in existence prior to June 6, 1874.
 
-Section 1155, act Jan. 28, 1879, ch. 30, §§1–4, 20 Stat. 274, 275; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946,11 F.R. 7876, 60 Stat. 1100, authorized issuance of certificates of location of private land claims for certain States.
+Section 1155, act Jan. 28, 1879, ch. 30, §§1–4, 20 Stat. 274, 275; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized issuance of certificates of location of private land claims for certain States.
 
 Section 1156, act May 30, 1894, ch. 87, 28 Stat. 84; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized issuance of patents for locations under certificates made prior to Jan. 28, 1879, under former section 1155 of this title.
 

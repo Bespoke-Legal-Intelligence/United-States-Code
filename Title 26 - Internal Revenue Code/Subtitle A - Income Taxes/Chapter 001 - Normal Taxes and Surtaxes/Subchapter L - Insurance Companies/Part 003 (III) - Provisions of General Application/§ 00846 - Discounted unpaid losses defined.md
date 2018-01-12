@@ -4,7 +4,7 @@
 
 #### (1) Separately computed for each accident year
 
-&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of such time) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
+&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of suchtime) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
 
 #### (2) Method of discounting
 
@@ -50,17 +50,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the rate of interest determined under this subsection shallbe the annual rate determined by the Secretary under paragraph (2).
+&emsp;For purposes of this section, the rate of interest determined under this subsection shall be the annual rate determined by the Secretary under paragraph (2).
 
 #### (2) Determination of annual rate
 
-#### (A) In general
-
-&emsp;&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate equal to the average of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the test period.
-
-#### (B) Test period
-
-&emsp;&emsp;For purposes of subparagraph (A), the test period is the most recent 60-calendar-month period ending before the beginning of the calendar year for which the determination is made; except that there shall be excluded from the test period any month beginning before August 1, 1986.
+&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate determined on the basis of the corporate bond yield curve (as defined in section 430(h)(2)(D)(i), determined by substituting "60-month period" for "24-month period" therein).
 
 #### (d) Loss payment pattern
 
@@ -94,75 +88,25 @@ For purposes of this section—
 
 #### (B) Treatment of certain losses
 
-&emsp;&emsp;Except as otherwise provided in this paragraph—
+#### (i) 3-year loss payment pattern
 
-&emsp;&emsp;&emsp;(i) in the case of any line of business not described in subparagraph (A)(ii), losses paid after the 1st year following the accident year shall be treated as paid equally in the 2nd and 3rd year following the accident year, and
+&emsp;&emsp;&emsp;In the case of any line of business not described in subparagraph (A)(ii), losses paid after the 1st year following the accident year shall be treated as paid equally in the 2nd and 3rd year following the accident year.
 
-&emsp;&emsp;&emsp;(ii) in the case of a line of business described in subparagraph (A)(ii), losses paid after the close of the period applicable under subparagraph (A)(ii) shall be treated as paid in the last year of such period.
+#### (ii) 10-year loss payment pattern
 
-#### (C) Special rule for certain long-tail lines
+#### (I) In general
 
-&emsp;&emsp;In the case of any long-tail line of business—
+&emsp;&emsp;&emsp;&emsp;The period taken into account under subparagraph (A)(ii) shall be extended to the extent required under subclause (II).
 
-&emsp;&emsp;&emsp;(i) the period taken into account under subparagraph (A)(ii) shall be extended (but not by more than 5 years) to the extent required under clause (ii), and
+#### (II) Computation of extension
 
-&emsp;&emsp;&emsp;(ii) the amount of losses which would have been treated as paid in the 10th year after the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the losses treated as paid in the 9th year after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account).
-
-> &emsp;&emsp;Notwithstanding clause (ii), to the extent such unpaid losses have not been treated as paid before the last year of the extension, they shall be treated as paid in such last year.
-
-#### (D) Long-tail line of business
-
-&emsp;&emsp;For purposes of subparagraph (C), the term "long-tail line of business" means any line of business described in subparagraph (A)(ii) if the amount of losses which (without regard to subparagraph (C)) would be treated as paid in the 10th year after the accident year exceeds the losses treated as paid in the 9th year after the accident year.
-
-#### (E) Special rule for international and reinsurance lines of business
-
-&emsp;&emsp;Except as otherwise provided by regulations, any determination made under subsection (a) with respect to unpaid losses relating to the international or reinsurance lines of business shall be made using, in lieu of the loss payment pattern applicable to the respective lines of business, a pattern determined by the Secretary under paragraphs (1) and (2) based on the combined losses for all lines of business described in subparagraph (A)(ii).
-
-#### (F) Adjustments if loss experience information available for longer periods
-
-&emsp;&emsp;The Secretary shall make appropriate adjustments in the application of this paragraph if annual statement data with respect to payment of losses is available for longer periods after the accident year than the periods assumed under the rules of this paragraph.
-
-#### (G) Special rule for 9th year if negative or zero
-
-&emsp;&emsp;If the amount of the losses treated as paid in the 9th year after the accident year iszero or a negative amount, subparagraphs (C)(ii) and (D) shall be applied by substituting the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year for the losses treated as paid in the 9th year after the accident year.
+&emsp;&emsp;&emsp;&emsp;The amount of losses which would have been treated as paid in the 10th yearafter the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account). To the extent such unpaid losses have not been treated as paid before the 24th year after the accident year, they shall be treated as paid in such 24th year.
 
 #### (4) Determination year
 
 &emsp;For purposes of this section, the term "determination year" means calendar year 1987 and each 5th calendar year thereafter.
 
-#### (e) Election to use company's historical payment pattern
-
-#### (1) In general
-
-&emsp;The taxpayer may elect to apply subsection (a)(2)(C) with respect to all lines of business by using a loss payment pattern determined by reference to the taxpayer's loss payment pattern for the most recent calendar year for which an annual statement was filed before the beginning of the accident year. Any such determination shall be made with the application of the rules of paragraphs (2)(C) and (3) of subsection (d).
-
-#### (2) Election
-
-#### (A) In general
-
-&emsp;&emsp;An election under paragraph (1) shall be made separately with respect to each determination year under subsection (d).
-
-#### (B) Period for which election in effect
-
-&emsp;&emsp;Unless revoked with the consent of the Secretary, an election under paragraph (1) with respect to any determination year shall apply to accident years ending with the determination year and to each of the 4 succeeding accident years.
-
-#### (C) Time for making election
-
-&emsp;&emsp;An election under paragraph (1) with respect to any determination year shall be made on the taxpayer's return for the taxable year in which (or with which) the determination year ends.
-
-#### (3) No election for international or reinsurance business
-
-&emsp;No election under this subsection shall apply to any international or reinsurance line of business.
-
-#### (4) Regulations
-
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection including—
-
-&emsp;&emsp;(A) regulations providing that a taxpayer may not make an election under this subsection if such taxpayer does not have sufficient historical experience for the line of business to determine a loss payment pattern, and
-
-&emsp;&emsp;(B) regulations to prevent the avoidance (through the use of separate corporations or otherwise) of the requirement of this subsection that an election under this subsection applies to all lines of business of the taxpayer.
-
-#### (f) Other definitions and special rules
+#### (e) Other definitions and special rules
 
 For purposes of this section—
 
@@ -190,15 +134,11 @@ For purposes of this section—
 
 &emsp;Any determination under subsection (a) with respect to unpaid losses relating to accident and health insurance lines of businesses (other than credit disability insurance) shall be made—
 
-&emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rules prescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that—
-
-&emsp;&emsp;&emsp;(i) the prevailing State assumed interest rate shall be the rate in effect for the year in which the loss occurred rather than the year in which the contract was issued, and
-
-&emsp;&emsp;&emsp;(ii) the limitation of subsection (a)(3) shall apply in lieu of the limitation of the last sentence of section 807(d)(1), and
+&emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rules prescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that the limitation of subsection (a)(3) shall apply, and
 
 &emsp;&emsp;(B) in all other cases, by using an assumption (in lieu of a loss payment pattern) that unpaid losses are paid in the middle of the year following the accident year.
 
-#### (g) Regulations
+#### (f) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
 
@@ -206,15 +146,43 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing appropriate adjustments in the application of this section to a taxpayer having a taxable year which is not the calendar year.
 
-(Added Pub. L. 99–514, title X, §1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, titleI, §1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, §11305(b), Nov. 5, 1990, 104 Stat. 1388–451.)
+(Added Pub. L. 99–514, title X, §1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, title I, §1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, §11305(b), Nov. 5, 1990, 104 Stat. 1388–451; Pub. L. 115–97, title I, §§13517(b)(3), 13523(a)–(c), Dec. 22, 2017, 131 Stat. 2147, 2152.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2). Pub. L. 115–97, §13523(a), amended par. (2) generally. Prior to amendment, text read as follows:
+
+"(A)
+
+In general.—The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate equal to the average of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the test period.
+
+"(B)
+
+Test period.—For purposes of subparagraph (A), the test period is the most recent 60-calendar-month period ending before the beginning of the calendar year for which the determination is made; except that there shall be excluded from the test period any month beginning before August 1, 1986."
+
+Subsec. (d)(3)(B) to (G). Pub. L. 115–97, §13523(b), added subpar. (B) and struck out former subpars. (B) to (G) which related to treatment of certain losses, special rule for certain long-tail lines, long-tail line of business, special rule for international and reinsurance lines of business, adjustments if loss experience information available for longer periods, and special rule for 9th year if negative or zero, respectively.
+
+Subsecs. (e), (f). Pub. L. 115–97, §13523(c), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to election to use company's historical payment pattern.
+
+Subsec. (f)(6)(A). Pub. L. 115–97, §13517(b)(3), substituted "except that the limitation of subsection (a)(3) shall apply, and" for "except that—
+
+&emsp;"(i) the prevailing State assumed interest rate shall be the rate in effect for the year in which the loss occurred rather than the year in which the contract was issued, and
+
+&emsp;"(ii) the limitation of subsection (a)(3) shall apply in lieu of the limitation of the last sentence of section 807(d)(1), and".
+
+Subsec. (g). Pub. L. 115–97, §13523(c), redesignated subsec. (g) as (f).
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–508 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
 
 <b>1988</b>—Subsec. (f)(6)(B). Pub. L. 100–647, §1010(e)(1), substituted "paid in the middle of the year" for "paid during the year".
 
 Subsec. (g)(3). Pub. L. 100–647, §1010(e)(2), added par. (3).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13517(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
+
+Pub. L. 115–97, title I, §13523(d), Dec. 22, 2017, 131 Stat. 2152, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 1990 Amendment
 
@@ -279,4 +247,14 @@ tax in later taxable year.—If—
 &emsp;"(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
 
 > paragraph (2) and subparagraphs (A) and (C) of paragraph (3) shall be applied by treating such later taxable year as its 1st taxable year beginning after December 31, 1986, and by treating the calendar year in which such later taxable year begins as 1987; and paragraph (3)(B) shall not apply."
+
+#### Transitional Rule
+
+Pub. L. 115–97, title I, §13523(e), Dec. 22, 2017, 131 Stat. 2152, provided that: "For the first taxable year beginning after December 31, 2017—
+
+&emsp;"(1) the unpaid losses and the expenses unpaid (as defined in paragraphs (5)(B) and (6) of section 832(b) of the Internal Revenue Code of 1986) at the end of the preceding taxable year, and
+
+&emsp;"(2) the unpaid losses as defined in sections 807(c)(2) and 805(a)(1) of such Code at the end of the preceding taxable year,
+
+> shall be determined as if the amendments made by this section \[amending this section\] had applied to such unpaid losses and expenses unpaid in the preceding taxable year and by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 2018, and any adjustment shall be taken into account ratably in such first taxable year and the 7 succeeding taxable years. For subsequent taxable years, such amendments shall be applied with respect to such unpaid losses and expenses unpaid by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 2018."
 

@@ -58,7 +58,7 @@ Every such organization shall register by filing with the Attorney General, on s
 
 (c) The qualifications for membership in the organization;
 
-(d) The existing and proposed aims and purposes of the organization, and all the means by which these aims or purposes are being attained or are to be attained;
+(d) The existing and proposed aims and purposes of the organization, and all the means bywhich these aims or purposes are being attained or are to be attained;
 
 (e) The address or addresses of meeting places of the organization, and of each branch, chapter, or affiliate of the organization, and the times of meetings;
 

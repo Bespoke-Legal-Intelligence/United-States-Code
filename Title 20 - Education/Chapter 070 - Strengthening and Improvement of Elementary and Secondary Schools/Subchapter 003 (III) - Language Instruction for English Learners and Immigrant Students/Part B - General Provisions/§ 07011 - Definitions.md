@@ -74,7 +74,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;(A) does not participate in a program under subpart 1 of part A for a fiscal year; or
 
-&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
+&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonablenotice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
 
 #### (13) State
 
@@ -142,7 +142,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;"(1) studies to determine and evaluate effective models for bilingual education programs;
 
-&emsp;"(2) studies which examine the process by which individuals acquire a second language and master thesubject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English;
+&emsp;"(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English;
 
 &emsp;"(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 \[former 20 U.S.C. 3281 et seq.\] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates);
 

@@ -22,7 +22,7 @@
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
-&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognizedand taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
 
 #### (3) Taxation of social security benefits
 
@@ -82,7 +82,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;&emsp;&emsp;(ii) personal services described in section 864(b)(1) performed within the United States by such individual, and
 
-&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by the trust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
+&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by thetrust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
 
 #### (2) Exclusion
 
@@ -174,7 +174,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to the 50-percent limitation therein; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owns in such corporation bears to the value of all stock in such corporation, and
+&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stockwhich such shareholder owns in such corporation bears to the value of all stock in such corporation, and
 
 &emsp;&emsp;&emsp;(iii) any stock which a person is treated as owning after application of section 318(a)(4) shall not, for purposes of applying paragraphs (2) and (3) of section 318(a), be treated as actually owned by such person.
 
@@ -438,7 +438,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (III) Aggregate reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term "aggregate reported amount" means the aggregate amount of dividends reported by the company under clause (i) as short-term capital gain dividends for the taxable year (includingshort-term capital gain dividends paid after the close of the taxable year described in section 855).
+&emsp;&emsp;&emsp;&emsp;The term "aggregate reported amount" means the aggregate amount of dividends reported by the company under clause (i) as short-term capital gain dividends for the taxable year (including short-term capital gain dividends paid after the close of the taxable year described in section 855).
 
 #### (IV) Post-December reported amount
 
@@ -488,7 +488,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (iii) Testing period
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term "testing period" means the 3-year period ending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "testing period" means the 3-year periodending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
 
 #### (iv) Transition rule
 
@@ -568,7 +568,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (A) Long party
 
-&emsp;&emsp;The term "long party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive any payment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
+&emsp;&emsp;The term "long party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive anypayment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
 
 #### (B) Short party
 
@@ -956,7 +956,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
 
 Amendment by section 421(e)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 
@@ -1020,7 +1020,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

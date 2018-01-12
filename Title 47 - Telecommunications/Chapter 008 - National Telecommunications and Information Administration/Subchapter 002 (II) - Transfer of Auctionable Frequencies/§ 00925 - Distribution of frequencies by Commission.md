@@ -104,7 +104,7 @@ Use of bands at 2,110–2,150 megahertz.—The Commission shall reallocate spect
 
 Use of 15
 
-megahertz from bands at 1,990–2,110 megahertz.—The Commission shall reallocate 15 megahertz from spectrum located at 1,990–2,110 megahertz for assignment by competitive bidding unless the President determines such spectrum cannot be reallocated due to the need to protect incumbent Federal systems from interference, and that allocation of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce comparable receipts. If the President makes such a determination, then the President shall, within 2 years after the date of enactment of this Act, identifyalternative bands of frequencies totalling 15 megahertz, and report to the Congress an identification of such alternative bands for assignment by competitive bidding.
+megahertz from bands at 1,990–2,110 megahertz.—The Commission shall reallocate 15 megahertz from spectrum located at 1,990–2,110 megahertz for assignment by competitive bidding unless the President determines such spectrum cannot be reallocated due to the need to protect incumbent Federal systems from interference, and that allocation of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce comparable receipts. If the President makes such a determination, then the President shall, within 2 years after the date of enactment of this Act, identify alternative bands of frequencies totalling 15 megahertz, and report to the Congress an identification of such alternative bands for assignment by competitive bidding.
 
 "(5)
 

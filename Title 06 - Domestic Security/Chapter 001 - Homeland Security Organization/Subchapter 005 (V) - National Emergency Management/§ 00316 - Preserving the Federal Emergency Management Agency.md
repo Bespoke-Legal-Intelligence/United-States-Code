@@ -22,7 +22,7 @@ Section 452 of this title shall not apply to the Agency, including any function 
 
 In reprogramming or transferring funds, the Secretary shall comply with any applicable provisions of any Act making appropriations for the Department for fiscal year 2007, or any succeeding fiscal year, relating to the reprogramming or transfer of funds.
 
-(Pub. L. 107–296, title V, §506, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat.1400; amended Pub. L. 114–328, div. A, title XIX, §1901(d)(1), Dec. 23, 2016, 130 Stat. 2670.)
+(Pub. L. 107–296, title V, §506, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1400; amended Pub. L. 114–328, div. A, title XIX, §1901(d)(1), Dec. 23, 2016, 130 Stat. 2670.)
 
 #### Prior Provisions
 

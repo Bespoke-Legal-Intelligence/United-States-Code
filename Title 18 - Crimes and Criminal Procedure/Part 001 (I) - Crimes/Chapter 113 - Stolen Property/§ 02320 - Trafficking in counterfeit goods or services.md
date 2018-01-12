@@ -48,7 +48,7 @@ Counterfeit military goods or services and counterfeit drugs.—Whoever commits 
 
 (c)
 
-Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided inthat section, in addition to any other similar remedies provided by law.
+Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
 (d)
 
@@ -184,7 +184,7 @@ Subsec. (e)(1)(A). Pub. L. 109–181, §1(b)(3)(A), added subpar. (A) and struck
 
 &emsp;"(i) that is used in connection with trafficking in goods or services;
 
-&emsp;"(ii) that is identical with, or substantially indistinguishable from, a mark registered for those goods or services on the principal register in the United States Patent and Trademark Office and in use,whether or not the defendant knew such mark was so registered; and
+&emsp;"(ii) that is identical with, or substantially indistinguishable from, a mark registered for those goods or services on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered; and
 
 &emsp;"(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or".
 
@@ -212,7 +212,7 @@ Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, �
 
 <b>1994</b>—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking "not more than $250,000" and inserting "under this title", could not be executed because the phrase "not more than $250,000" did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
 
-Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted "$2,000,000 or imprisoned not more than 10 years" for "$250,000 or imprisoned not more than five years" and "$5,000,000" for "$1,000,000", and in second sentence, substituted "$5,000,000 or imprisoned not more than 20 years" for "$1,000,000 or imprisoned not more than fifteen years" and "$15,000,000" for "$5,000,000".
+Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted "$2,000,000 or imprisoned not more than 10 years" for "$250,000 or imprisoned not more than five years" and "$5,000,000" for "$1,000,000", and insecond sentence, substituted "$5,000,000 or imprisoned not more than 20 years" for "$1,000,000 or imprisoned not more than fifteen years" and "$15,000,000" for "$5,000,000".
 
 #### Effective Date of 1998 Amendment
 

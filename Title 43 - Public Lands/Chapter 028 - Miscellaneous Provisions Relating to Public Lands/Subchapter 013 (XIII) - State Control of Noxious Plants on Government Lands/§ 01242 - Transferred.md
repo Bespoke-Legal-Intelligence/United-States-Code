@@ -1,0 +1,6 @@
+### §1242. Transferred
+
+#### Codification
+
+Section 1242 was editorially reclassified as section 2702 of this title.
+

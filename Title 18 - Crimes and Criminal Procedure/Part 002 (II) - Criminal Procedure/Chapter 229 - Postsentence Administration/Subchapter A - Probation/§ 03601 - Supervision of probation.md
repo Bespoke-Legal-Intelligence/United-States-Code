@@ -22,7 +22,7 @@ Federal Reentry Center Demonstration.—
 
 &emsp;"(1)
 
-Authority and establishment of demonstration project.—The Attorney General, in consultation with the Director of the Administrative Office ofthe United States Courts, shall establish the Federal Reentry Center Demonstration project. The project shall involve appropriate prisoners from the Federal prison population and shall utilize community corrections facilities, home confinement, and a coordinated response by Federal agencies to assist participating prisoners in preparing for and adjusting to reentry into the community.
+Authority and establishment of demonstration project.—The Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, shall establish the Federal Reentry Center Demonstration project. The project shall involve appropriate prisoners from the Federal prison population and shall utilize community corrections facilities, home confinement, and a coordinated response by Federal agencies to assist participating prisoners in preparing for and adjusting to reentry into the community.
 
 &emsp;"(2)
 

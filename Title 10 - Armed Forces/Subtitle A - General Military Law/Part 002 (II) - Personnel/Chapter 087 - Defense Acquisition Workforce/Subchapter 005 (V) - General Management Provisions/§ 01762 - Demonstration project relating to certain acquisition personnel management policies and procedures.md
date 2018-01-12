@@ -30,7 +30,7 @@ Terms and Conditions.—(1) Except as otherwise provided in this subsection, any
 
 (c)
 
-Limitation on Number of Participants.—The total number of persons who may participate in the demonstration project under this section may not exceed 120,000.
+Limitation on Number of Participants.—The total number of persons who may participate in at <sup>1</sup> any one time the demonstration project under this section may not exceed 130,000.
 
 (d)
 
@@ -84,13 +84,13 @@ Covered Congressional Committees.—In this section, the term "covered congressi
 
 (g)
 
-Termination of Authority.—The authority to conduct a demonstration project under this section shall terminate on December 31, 2020.
+Termination of Authority.—The authority to conduct a demonstration project under this section shall terminate on December 31, 2023.
 
 (h)
 
 Conversion.—Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5.
 
-(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306.)
+(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amendedPub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482.)
 
 #### Prior Provisions
 
@@ -100,6 +100,10 @@ Provisions similar to those in this section were contained in Pub. L. 104–106,
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c). Pub. L. 115–91, §844(b), substituted "at any one time the demonstration project under this section may not exceed 130,000" for "the demonstration project under this section may not exceed 120,000".
+
+Subsec. (g). Pub. L. 115–91, §844(a), substituted "December 31, 2023" for "December 31, 2020".
+
 <b>2016</b>—Subsec. (b)(4). Pub. L. 114–328 added par. (4).
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "demonstration project" for "demonstration program" and "December 31, 2020" for "September 30, 2017".
@@ -107,4 +111,6 @@ Provisions similar to those in this section were contained in Pub. L. 104–106,
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title VIII, §867(b), Dec. 23, 2016, 130 Stat. 2306, provided that: "Paragraph (4) of section 1762(b) of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning 60 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

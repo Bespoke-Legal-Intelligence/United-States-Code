@@ -13,6 +13,7 @@
 | [1457\.](%C2%A7%2001457%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
 | [1457a.](%C2%A7%2001457a%20-%20Authorization%20of%20appropriations%20for%20particular%20programs.md) | Authorization of appropriations for particular programs. |
 | [1457b.](%C2%A7%2001457b%20-%20Use%20of%20cooperative%20agreements.md) | Use of cooperative agreements. |
+| [1457c.](%C2%A7%2001457c%20-%20Power%20of%20Secretary%20or%20designated%20officer.md) | Power of Secretary or designated officer. |
 | [1458\.](%C2%A7%2001458%20-%20Secretary%20to%20exercise%20certain%20powers%20over%20Territories.md) | Secretary to exercise certain powers over Territories. |
 | [1459\.](%C2%A7%2001459%20-%20Expenditures%20of%20department.md) | Expenditures of department. |
 | [1460\.](%C2%A7%2001460%20-%20Copies%20of%20records%2C%20documents%2C%20etc.%3B%20charges%3B%20disposition%20of%20receipts.md) | Copies of records, documents, etc.; charges; disposition of receipts. |
@@ -56,6 +57,8 @@
 | [1475\.](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md) | Bureau of Reclamation acceptance of services of volunteers. |
 | [1475a.](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md) | Participation of non-Federal entities in contract negotiations and source selection proceedings. |
 | [1475b](%C2%A7%2001475b%20-%20Volunteer%20authority.md) | Volunteer authority. |
+| [1476\.](%C2%A7%2001476%20-%20Elimination%20of%20oaths%20for%20written%20statements%3B%20discretion%20of%20Secretary%20of%20the%20Interior.md) | Elimination of oaths for written statements; discretion of Secretary of the Interior. |
+| [1476a.](%C2%A7%2001476a%20-%20Unsworn%20written%20statements%20subject%20to%20penalties%20of%20presenting%20false%20claims.md) | Unsworn written statements subject to penalties of presenting false claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +78,7 @@
 - [&sect; 01457 - Duties of Secretary](%C2%A7%2001457%20-%20Duties%20of%20Secretary.md)
 - [&sect; 01457a - Authorization of appropriations for particular programs](%C2%A7%2001457a%20-%20Authorization%20of%20appropriations%20for%20particular%20programs.md)
 - [&sect; 01457b - Use of cooperative agreements](%C2%A7%2001457b%20-%20Use%20of%20cooperative%20agreements.md)
+- [&sect; 01457c - Power of Secretary or designated officer](%C2%A7%2001457c%20-%20Power%20of%20Secretary%20or%20designated%20officer.md)
 - [&sect; 01458 - Secretary to exercise certain powers over Territories](%C2%A7%2001458%20-%20Secretary%20to%20exercise%20certain%20powers%20over%20Territories.md)
 - [&sect; 01459 - Expenditures of department](%C2%A7%2001459%20-%20Expenditures%20of%20department.md)
 - [&sect; 01460 - Copies of records, documents, etc.; charges; disposition of receipts](%C2%A7%2001460%20-%20Copies%20of%20records%2C%20documents%2C%20etc.%3B%20charges%3B%20disposition%20of%20receipts.md)
@@ -118,3 +122,5 @@
 - [&sect; 01475 - Bureau of Reclamation acceptance of services of volunteers](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 01475a - Participation of non-Federal entities in contract negotiations and source selection proceedings](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md)
 - [&sect; 01475b - Volunteer authority](%C2%A7%2001475b%20-%20Volunteer%20authority.md)
+- [&sect; 01476 - Elimination of oaths for written statements; discretion of Secretary of the Interior](%C2%A7%2001476%20-%20Elimination%20of%20oaths%20for%20written%20statements%3B%20discretion%20of%20Secretary%20of%20the%20Interior.md)
+- [&sect; 01476a - Unsworn written statements subject to penalties of presenting false claims](%C2%A7%2001476a%20-%20Unsworn%20written%20statements%20subject%20to%20penalties%20of%20presenting%20false%20claims.md)

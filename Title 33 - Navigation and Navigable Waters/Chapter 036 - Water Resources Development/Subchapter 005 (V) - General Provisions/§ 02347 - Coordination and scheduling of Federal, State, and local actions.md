@@ -10,7 +10,7 @@ The Secretary shall seek, to the extent practicable, to consolidate hearing and 
 
 #### (c) Costs of coordination
 
-The costs incurred by the Secretary to establish and carry out a schedule to consolidate Federal, State, and local agency and Indian tribe environmental assessments, project reviews, and permit issuance for a project under this section shall be paid by the non-Federal interest.
+The costs incurred by the Secretary to establish and carry out a schedule to consolidate Federal, State, and local agency and Indian tribeenvironmental assessments, project reviews, and permit issuance for a project under this section shall be paid by the non-Federal interest.
 
 #### (d) Report on timesavings methods
 

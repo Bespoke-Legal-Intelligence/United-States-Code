@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 101–595, §312(b)(3), substituted "a proportionate share"
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–448, §6(b)(4), substituted "1986" for "1954." in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 100–448, §6(b)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "the program submitted by that State designates a State lead authority or agency that will carry out or coordinate carrying out out the State recreational boating safety program supported by financial assistance of the United States Government in that State,including the requirement that the designated State authority or agency submit required reports that are necessary and reasonable to carry out properly and efficiently the program and that are in the form prescribed by the Secretary."
+Subsec. (a)(4). Pub. L. 100–448, §6(b)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "the program submitted by that State designates a State lead authority or agency that will carry out or coordinate carrying out out the State recreational boating safety program supported by financial assistance of the United States Government in that State, including the requirement that the designated State authority or agency submit required reports that are necessary and reasonable to carry out properly and efficiently the program and that are in the form prescribed by the Secretary."
 
 Subsec. (b). Pub. L. 100–448, §6(b)(3), substituted "(except amounts from" for "from sources (except".
 

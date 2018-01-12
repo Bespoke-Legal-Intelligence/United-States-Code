@@ -8,7 +8,7 @@ In the case of a member or former member of the uniformed services of the United
 
 #### (1) Amount excluded from gross income
 
-&emsp;In the case of any individual referred to in subsection (a), all amounts received as retired or retainer pay shall be excluded from gross income until there has been so excluded an amount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
+&emsp;In the case of any individual referred to in subsection (a), all amounts received as retired or retainer pay shall be excluded from gross income until there has been so excluded anamount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
 
 #### (2) Consideration for the contract
 

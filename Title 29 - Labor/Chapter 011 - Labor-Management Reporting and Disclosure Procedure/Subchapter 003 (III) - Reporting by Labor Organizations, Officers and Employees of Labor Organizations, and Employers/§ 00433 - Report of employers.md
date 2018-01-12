@@ -18,7 +18,7 @@ Every employer who in any fiscal year made—
 
 #### (b) Persuasive activities relating to the right to organize and bargain collectively; supplying information of activities in connection with labor disputes; filing and contents of report of agreement or arrangement
 
-Every person who pursuant to any agreement or arrangement with an employer undertakes activities where an object thereof is, directly or indirectly—
+Every person who pursuant to any agreement or arrangement with an employer undertakesactivities where an object thereof is, directly or indirectly—
 
 &emsp;(1) to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing; or
 
@@ -40,7 +40,7 @@ Nothing contained in this section shall be construed to require any regular offi
 
 #### (f) Rights protected by section 158(c) of this title
 
-Nothing contained in this section shall be construed as an amendment to, or modification ofthe rights protected by, section 158(c) of this title.
+Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, section 158(c) of this title.
 
 #### (g) "Interfere with, restrain, or coerce" defined
 

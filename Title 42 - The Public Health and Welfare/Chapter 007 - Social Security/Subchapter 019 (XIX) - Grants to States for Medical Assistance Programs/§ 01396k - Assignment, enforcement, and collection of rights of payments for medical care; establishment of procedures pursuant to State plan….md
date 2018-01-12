@@ -18,7 +18,7 @@
 
 #### Amendment of Subsection (a)(1)(A)
 
-<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, as amended by Pub. L. 113–93, title II, §211, Apr. 1, 2014, 128 Stat. 1047; Pub. L. 114–10, title II, §220, Apr. 16, 2015, 129 Stat. 154, provided that, effective Oct. 1, 2017, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below.</i>
+<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, as amended by Pub. L. 113–93, title II, §211, Apr. 1, 2014, 128 Stat. 1047; Pub. L. 114–10, title II, §220, Apr. 16, 2015, 129 Stat. 154, provided that, effective Oct. 1, 2017, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below. Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298, repealed section 202(b)(2) of Pub. L. 113–67, effective as of Sept. 30, 2017.</i>
 
 #### Amendments
 

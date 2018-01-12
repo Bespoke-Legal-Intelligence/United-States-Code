@@ -40,7 +40,7 @@ If the United States district court pursuant to subsection (g) determines that t
 
 #### (i) Finality of orders
 
-Orders granting motions or requests under subsection (h), decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
+Orders granting motions or requests under subsection (h), decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the UnitedStates and the several States except a United States Court of Appeals or the Supreme Court.
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
@@ -56,7 +56,7 @@ Orders granting motions or requests under subsection (h), decisions under this s
 
 #### (k) Coordination with law enforcement on national security matters
 
-(1) Federal officers who conduct physical searches to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision whohas the authority to appoint or direct the chief law enforcement officer of that State or political subdivision) to coordinate efforts to investigate or protect against—
+(1) Federal officers who conduct physical searches to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision) to coordinate efforts to investigate or protect against—
 
 &emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 

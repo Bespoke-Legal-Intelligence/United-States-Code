@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) the likelihood of the alien's resuming or following a course of conduct which made or would make the alien deportable;
 
-&emsp;&emsp;(D) the character of the efforts made by such alien himself and by representatives of the country or countries to which the alien's removal is directed to expedite the alien's departure from the United States;
+&emsp;&emsp;(D) the character of the efforts made by such alien himself and by representatives of the country or countries to which the alien'sremoval is directed to expedite the alien's departure from the United States;
 
 &emsp;&emsp;(E) the reason for the inability of the Government of the United States to secure passports, other travel documents, or removal facilities from the country or countries to which the alien has been ordered removed; and
 
@@ -104,7 +104,7 @@ Pub. L. 104–132, title IV, §413(g), Apr. 24, 1996, 110 Stat. 1269, provided t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 515(a)(2) of Pub. L. 101–649 applicable to convictions entered before, on, or after Nov. 29, 1990, and to applications for withholding of deportation made on or after such date, see section 515(b)(2) of Pub. L. 101–649, as amended, set out as a note under section 1158 of this title.
+Amendment by section 515(a)(2) of Pub. L. 101–649 applicable to convictions entered before, on, or after Nov.29, 1990, and to applications for withholding of deportation made on or after such date, see section 515(b)(2) of Pub. L. 101–649, as amended, set out as a note under section 1158 of this title.
 
 Amendment by section 603(b)(3) of Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), an application submitted to the Corporation under section 12582 of this title shall include an assuranceby the applicant that any national service program carried out using assistance provided under section 12571 of this title and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
+Except as provided in subsection (b), an application submitted to the Corporation under section 12582 of this title shall include an assurance by the applicant that any national service program carried out using assistance provided under section 12571 of this title and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
 
 &emsp;(1) business organized for profit;
 
@@ -32,7 +32,7 @@ The requirement of subsection (a) relating to an assurance regarding direct bene
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

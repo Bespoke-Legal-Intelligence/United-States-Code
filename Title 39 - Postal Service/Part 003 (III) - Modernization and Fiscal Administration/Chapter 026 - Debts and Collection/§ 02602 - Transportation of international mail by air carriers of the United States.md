@@ -14,7 +14,7 @@
 
 &emsp;(3) deposit in the Postal Service Fund that portion of the amount so credited which is due the United States on its own account.
 
-(c) The Postal Service may advance to an air carrier, out of funds available for payment of balances due other countries, the amounts determined by the Postal Service to be due from another country to an air carrier for the transportation of its mails when—
+(c) The Postal Service may advance to an air carrier, out of funds available for payment ofbalances due other countries, the amounts determined by the Postal Service to be due from another country to an air carrier for the transportation of its mails when—
 
 &emsp;(1) collections are to be made by the United States for the account of air carriers; and
 
@@ -27,4 +27,8 @@
 (e) The Postal Service shall adopt such accounting procedures as may be necessary to conform to and carry out the purposes of this section.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744.)
+
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

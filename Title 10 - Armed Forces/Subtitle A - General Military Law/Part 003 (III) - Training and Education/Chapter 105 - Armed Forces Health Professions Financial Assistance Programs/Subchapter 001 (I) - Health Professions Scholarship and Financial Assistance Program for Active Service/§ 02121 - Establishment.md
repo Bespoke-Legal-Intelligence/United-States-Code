@@ -42,9 +42,9 @@
 
 Subsec. (b). Pub. L. 101–189, §725(b)(2), substituted "study and specialized training" for "study".
 
-Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted "pursuing a course of study" for "of the program" and inserted after second sentence "Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program."
+Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted "pursuing a course of study" for "of the program" andinserted after second sentence "Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program."
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting "a stipend at the rate of $579 per month" for "a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program" and inserting provision relating to an annual increase inthe rate by the Secretary of Defense effective on July 1 of each year.
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting "a stipend at the rate of $579 per month" for "a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program" and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–107 substituted provisions relating to entitlement to a stipend at the rate in effect for students in the National Health Services Corps Scholarship program, for provisions authorizing a stipend at the rate of $400 per month.
 

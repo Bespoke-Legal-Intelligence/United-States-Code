@@ -88,7 +88,7 @@
 
 &emsp;Notwithstanding subparagraph (A) or (E) of paragraph (1), the President may designate the following as eligible articles under subsection (a):
 
-&emsp;&emsp;(A) Articles classifiable under subheading 4202.11.00, 4202.12.40, 4202.21.60, 4202.21.90, 4202.22.15, 4202.22.45, 4202.31.60, 4202.32.40, 4202.32.80, 4202.92.15, 4202.92.20, 4202.92.45, or 4202.99.90 of the Harmonized Tariff Schedule of the United States.
+&emsp;&emsp;(A) Articles classifiable under subheading 4202.11.00, 4202.12.40, 4202.21.60, 4202.21.90,4202.22.15, 4202.22.45, 4202.31.60, 4202.32.40, 4202.32.80, 4202.92.15, 4202.92.20, 4202.92.45, or 4202.99.90 of the Harmonized Tariff Schedule of the United States.
 
 &emsp;&emsp;(B) Articles classifiable under statistical reporting number 4202.12.2020, 4202.12.2050, 4202.12.8030, 4202.12.8070, 4202.22.8050, 4202.32.9550, 4202.32.9560, 4202.91.0030, 4202.91.0090, 4202.92.3020, 4202.92.3031, 4202.92.3091, 4202.92.9026, or 4202.92.9060 of the Harmonized Tariff Schedule of the United States, as such statistical reporting numbers are in effect on June 29, 2015.
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d), whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
 
-&emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of theapplicable amount for the calendar year, or
+&emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
 &emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
+&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
 
 #### (B) Other waiver limits
 
@@ -252,11 +252,15 @@ Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
 
 <b>2000</b>—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "Subparagraph (A) shall not apply to any least-developed beneficiary developing country."
 
-<b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: "the direct costs ofprocessing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered."
+<b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: "the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered."
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–429, title I, §1555(c), Dec. 3, 2004, 118 Stat. 2579, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to any article entered, or withdrawn from warehouse for consumption, on or after the date on which the President makes a designation with respect to the article under section 503(b)(4) of the Trade Act of 1974 \[subsec. (b)(4) of this section\], as added by subsection (a)."
+
+#### Effective Date
+
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under section 2461 of this title.
 
 #### Application of Competitive Need Limitation and Waiver Under Generalized System of Preferences With Respect to Articles of Beneficiary Developing Countries Exported to the United States During Calendar Year 2014
 

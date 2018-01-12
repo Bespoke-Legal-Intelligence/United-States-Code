@@ -78,7 +78,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (2) Use of funds
 
-&emsp;The amounts made available by paragraph (1) shall be available to provide assistance toall Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
+&emsp;The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
 
 #### (h) Absolute priority prohibited in Upward Bound Program
 

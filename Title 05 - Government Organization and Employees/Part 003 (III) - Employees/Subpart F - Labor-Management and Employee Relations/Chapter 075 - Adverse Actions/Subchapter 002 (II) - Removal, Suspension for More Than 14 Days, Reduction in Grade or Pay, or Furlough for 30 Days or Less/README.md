@@ -13,3 +13,4 @@
 - [&sect; 07512 - Actions covered](%C2%A7%2007512%20-%20Actions%20covered.md)
 - [&sect; 07513 - Cause and procedure](%C2%A7%2007513%20-%20Cause%20and%20procedure.md)
 - [&sect; 07514 - Regulations](%C2%A7%2007514%20-%20Regulations.md)
+- [&sect; 07515 - Discipline of supervisors based on retaliation against whistleblowers](%C2%A7%2007515%20-%20Discipline%20of%20supervisors%20based%20on%20retaliation%20against%20whistleblowers.md)

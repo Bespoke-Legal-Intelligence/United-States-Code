@@ -44,7 +44,7 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 &emsp;(7) perform any other law enforcement related duty; and
 
-&emsp;(8) when requested, assist (with or without reimbursement) any Federal, tribal, State, orlocal law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
+&emsp;(8) when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
 
 (Pub. L. 101–379, §4, Aug. 18, 1990, 104 Stat. 475; Pub. L. 109–162, title IX, §908(b), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 111–211, title II, §211(c), July 29, 2010, 124 Stat. 2266.)
 
@@ -52,7 +52,7 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 The Controlled Substances Act, referred to in par. (3)(D)(i)(I)(aa), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in par. (3)(D)(i)(I)(bb), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IX of the Act enacted section 862b of Title 21, Food and Drugs, and sections 608a, 710, and 14016 of Title 42, The Public Health and Welfare, amended section 1693b of Title 15, Commerce and Trade, section 32 of Title 26, Internal Revenue Code, and sections 1396a, 1396g, 1397a, 1397b, 1437d, 1437f, and 1437z of Title 42, and enacted provisions set out as notes under section 32 of Title 26 and sections 601, 710, and 1396a of Title 42. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of Title 42 and Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in par. (3)(D)(i)(I)(bb), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IX of the Act enacted section 862b of Title 21, Food and Drugs, section 12392 of Title 34, Crime Control and Law Enforcement, and sections 608a and 710 of Title 42, The Public Health and Welfare, amended section 1693b of Title 15, Commerce and Trade, section 32 of Title 26, Internal Revenue Code, and sections 1396a, 1396g, 1397a, 1397b, 1437d, 1437f, and 1437z of Title 42, and enacted provisions set out as notes under section 32 of Title 26 and sections 601, 710, and 1396a of Title 42. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of Title 42 and Tables.
 
 #### Amendments
 

@@ -118,11 +118,11 @@ For purposes of this section, the term "qualified hospital bond" means any bond 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 47(c)(1)(C) shall apply in determining for purposes of paragraph (2)(C) whether property is substantially rehabilitated.
+&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 47(c)(1)(B) shall apply in determining for purposes of paragraph (2)(C) whether property is substantially rehabilitated.
 
 #### (B) Exception
 
-&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(C) shall not apply, but the Secretary may extend the 24-month period in section 47(c)(1)(C)(i) where appropriate due to circumstances not within the control of the owner.
+&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, but the Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
 
 #### (e) Election out
 
@@ -132,7 +132,7 @@ This section shall not apply to an issue if—
 
 &emsp;(2) such issue is an issue of exempt facility bonds, or qualified redevelopment bonds, to which section 146 applies.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2629; amended Pub. L. 100–647, title I, §1013(a)(6)–(8), title V, §5053(a), Nov. 10, 1988, 102 Stat. 3538, 3677; Pub. L. 101–239, title VII, §7815(f), Dec. 19, 1989, 103 Stat. 2419; Pub. L. 101–508, title XI, §11813(b)(7), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 105–34, title II, §222, Aug. 5, 1997, 111 Stat. 818.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2629; amended Pub. L. 100–647, title I, §1013(a)(6)–(8), title V, §5053(a), Nov. 10, 1988, 102 Stat. 3538, 3677; Pub. L. 101–239, title VII, §7815(f), Dec. 19, 1989, 103 Stat. 2419; Pub. L. 101–508, title XI, §11813(b)(7), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 105–34, title II, §222, Aug. 5, 1997, 111 Stat. 818; Pub. L. 115–97, title I, §13402(b)(2), Dec. 22, 2017, 131 Stat. 2134.)
 
 #### References in Text
 
@@ -145,6 +145,8 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(5), is t
 A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross reference to section 36 of this title, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(4). Pub. L. 115–97 substituted "of section 47(c)(1)(B)" for "of section 47(c)(1)(C)" in subpars. (A) and (B) and "section 47(c)(1)(B)(i)" for "section 47(c)(1)(C)(i)" in subpar. (B).
 
 <b>1997</b>—Subsec. (b)(5). Pub. L. 105–34 added par. (5).
 
@@ -160,6 +162,10 @@ Subsec. (b)(4). Pub. L. 100–647, §1013(a)(8), substituted "subparagraphs (C),
 
 Subsecs. (d), (e). Pub. L. 100–647, §5053(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to amounts paid or incurred after Dec. 31, 2017, see section 13402(c) of Pub. L. 115–97, set out as a note under section 47 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
@@ -170,7 +176,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title V, §5053(c), Nov. 10, 1988, 102 Stat. 3678, provided that:
 

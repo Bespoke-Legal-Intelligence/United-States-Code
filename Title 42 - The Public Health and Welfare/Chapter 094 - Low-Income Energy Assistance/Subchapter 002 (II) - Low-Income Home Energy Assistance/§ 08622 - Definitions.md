@@ -36,9 +36,9 @@ As used in this subchapter:
 
 &emsp;(10) The term "State" means each of the several States and the District of Columbia.
 
-&emsp;(11) The term "State median income" means the State median income promulgated by theSecretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+&emsp;(11) The term "State median income" means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
-(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27,1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 

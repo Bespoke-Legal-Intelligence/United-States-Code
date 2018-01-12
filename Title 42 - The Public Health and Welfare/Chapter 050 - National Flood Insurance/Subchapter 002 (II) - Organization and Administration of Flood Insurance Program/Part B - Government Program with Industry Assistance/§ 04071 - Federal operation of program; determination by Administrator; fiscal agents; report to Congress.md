@@ -8,7 +8,7 @@
 
 &emsp;(3) both the alternatives specified in paragraphs (1) and (2).
 
-(b) Upon making the determination referred to in subsection (a) of this section, the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title. Such report shall—
+(b) Upon making the determination referred to in subsection (a), the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title. Such report shall—
 
 &emsp;(1) state the reason for such determinations,
 
@@ -47,6 +47,10 @@ Subsec. (a)(2). Pub. L. 98–181, §451(d)(4), struck out "officers and employee
 Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary".
 
 Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary" wherever appearing.
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

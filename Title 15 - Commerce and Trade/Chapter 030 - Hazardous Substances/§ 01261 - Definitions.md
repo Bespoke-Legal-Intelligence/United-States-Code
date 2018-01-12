@@ -30,7 +30,7 @@ For the purposes of this chapter—
 
 (g) The term "toxic" shall apply to any substance (other than a radioactive substance) which has the capacity to produce personal injury or illness to man through ingestion, inhalation, or absorption through any body surface.
 
-(h)(1) The term "highly toxic" means any substance which falls within any of the following categories: (a) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of fifty milligrams or less per kilogram of body weight, when orally administered; or (b) produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two hundred parts per million by volume or less of gas or vapor or two milligrams per liter by volume or less of mist or dust, provided such concentration is likely to be encountered by manwhen the substance is used in any reasonably foreseeable manner; or (c) produces death within fourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of two hundred milligrams or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less.
+(h)(1) The term "highly toxic" means any substance which falls within any of the following categories: (a) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of fifty milligrams or less per kilogram of body weight, when orally administered; or (b) produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two hundred parts per million by volume or less of gas or vapor or two milligrams per liter by volume or less of mist or dust, provided such concentration is likely to be encountered by man when the substance is used in any reasonably foreseeable manner; or (c) produces death within fourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of two hundred milligrams or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less.
 
 (2) If the Commission finds that available data on human experience with any substance indicate results different from those obtained on animals in the above-named dosages or concentrations, the human data shall take precedence.
 
@@ -156,7 +156,7 @@ Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered P
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–267, §1, June 16, 1994, 108 Stat. 722, provided that: "This Act \[enacting sections 1278 and 6001 to 6006 of this title and provisions set out as notes under this section and sections 1278, 2064, and 6001 of thistitle\] may be cited as the 'Child Safety Protection Act'."
+Pub. L. 103–267, §1, June 16, 1994, 108 Stat. 722, provided that: "This Act \[enacting sections 1278 and 6001 to 6006 of this title and provisions set out as notes under this section and sections 1278, 2064, and 6001 of this title\] may be cited as the 'Child Safety Protection Act'."
 
 #### Short Title of 1984 Amendment
 
@@ -164,7 +164,7 @@ Pub. L. 98–491, §1, Oct. 17, 1984, 98 Stat. 2269, provided: "That this Act \[
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: "This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title\] may be cited as the 'Child Protection and Toy Safety Act of 1969'."
+Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: "This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under thissection and section 401 of this title\] may be cited as the 'Child Protection and Toy Safety Act of 1969'."
 
 #### Short Title of 1966 Amendment
 

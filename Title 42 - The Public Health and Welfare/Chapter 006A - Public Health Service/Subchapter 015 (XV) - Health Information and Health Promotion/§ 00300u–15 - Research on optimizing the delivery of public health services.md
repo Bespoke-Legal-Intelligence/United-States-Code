@@ -8,7 +8,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 Research supported under this section shall include—
 
-&emsp;(1) examining evidence-based practices relating to prevention, with a particular focus onhigh priority areas as identified by the Secretary in the National Prevention Strategy or Healthy People 2020, and including comparing community-based public health interventions in terms of effectiveness and cost;
+&emsp;(1) examining evidence-based practices relating to prevention, with a particular focus on high priority areas as identified by the Secretary in the National Prevention Strategy or Healthy People 2020, and including comparing community-based public health interventions in terms of effectiveness and cost;
 
 &emsp;(2) analyzing the translation of interventions from academic settings to real world settings; and
 

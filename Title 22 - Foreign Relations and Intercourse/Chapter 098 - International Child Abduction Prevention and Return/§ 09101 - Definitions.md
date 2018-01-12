@@ -148,7 +148,7 @@ In this chapter:
 
 #### (22) Rights of interim contact
 
-&emsp;The term "rights of interim contact" means the rights of contact between a child and aleft-behind parent, which has been provided as a provisional measure while an abduction case is pending, under the laws of the country in which the child is located—
+&emsp;The term "rights of interim contact" means the rights of contact between a child and a left-behind parent, which has been provided as a provisional measure while an abduction case is pending, under the laws of the country in which the child is located—
 
 &emsp;&emsp;(A) by operation of law; or
 
@@ -224,7 +224,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(12) In addition to using the Hague Abduction Convention to achieve the return of abducted children, the United States has an array of Federal, State, and local law enforcement, criminal justice, and judicial tools at its disposal to prevent international abductions.
 
-&emsp;"(13) Federal agencies tasked with preventing international abductions have indicated that themost effective way to stop international child abductions is while they are in progress, rather than after the child has been removed to a foreign destination.
+&emsp;"(13) Federal agencies tasked with preventing international abductions have indicated that the most effective way to stop international child abductions is while they are in progress, rather than after the child has been removed to a foreign destination.
 
 &emsp;"(14) Parental awareness of abductions in progress, rapid response by relevant law enforcement, and effective coordination among Federal, State, local, and international stakeholders are critical in preventing such abductions.
 

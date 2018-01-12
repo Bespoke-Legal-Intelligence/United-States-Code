@@ -12,7 +12,7 @@
 
 (b) It is the purpose of this chapter—
 
-&emsp;(1) to clarify, reaffirm, expand, and define the responsibilities and obligations of lessees, operators, and other persons involved in transportation or sale of oil and gas from the Federal and Indian lands and the Outer Continental Shelf;
+&emsp;(1) to clarify, reaffirm, expand, and define the responsibilities and obligations of lessees,operators, and other persons involved in transportation or sale of oil and gas from the Federal and Indian lands and the Outer Continental Shelf;
 
 &emsp;(2) to clarify, reaffirm, expand and define the authorities and responsibilities of the Secretary of the Interior to implement and maintain a royalty management system for oil and gas leases on Federal lands, Indian lands, and the Outer Continental Shelf;
 
@@ -34,7 +34,7 @@ Pub. L. 97–451, title III, §305, Jan. 12, 1983, 96 Stat. 2461, provided that:
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–185, §1, Aug. 13, 1996, 110 Stat. 1700, provided that: "This Act \[enacting sections 1721a and 1724to 1726 of this title, amending sections 1702, 1712, 1721, and 1735 of this title, repealing section 1339 of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 1732 of this title, and section 1339 of Title 43\] may be cited as the 'Federal Oil and Gas Royalty Simplification and Fairness Act of 1996'."
+Pub. L. 104–185, §1, Aug. 13, 1996, 110 Stat. 1700, provided that: "This Act \[enacting sections 1721a and 1724 to 1726 of this title, amending sections 1702, 1712, 1721, and 1735 of this title, repealing section 1339 of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 1732 of this title, and section 1339 of Title 43\] may be cited as the 'Federal Oil and Gas Royalty Simplification and Fairness Act of 1996'."
 
 #### Short Title
 

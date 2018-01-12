@@ -34,7 +34,7 @@
 
 #### (3) No effect on existing programs for House and Senate
 
-Nothing in this subsection affects the installation, construction, operation, or maintenance ofbattery recharging stations by the Architect of the Capitol—
+Nothing in this subsection affects the installation, construction, operation, or maintenance of battery recharging stations by the Architect of the Capitol—
 
 &emsp;(A) under section 2171 of title 2, relating to employees of the House of Representatives and individuals authorized to park in any parking area under the jurisdiction of the House of Representatives on the Capitol Grounds; or
 

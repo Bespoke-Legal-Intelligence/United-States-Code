@@ -78,7 +78,7 @@ The plan shall provide that the State will provide independent living services u
 
 #### (f) Scope and arrangements
 
-The plan shall describe the extent and scope of independent living services to be provided underthis part to meet such objectives. If the State makes arrangements, by grant or contract, for providing such services, such arrangements shall be described in the plan.
+The plan shall describe the extent and scope of independent living services to be provided under this part to meet such objectives. If the State makes arrangements, by grant or contract, for providing such services, such arrangements shall be described in the plan.
 
 #### (g) Network
 
@@ -158,7 +158,7 @@ Another prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–128, §474(1)(A), substituted "Administrator" for "Commissioner" in twoplaces and inserted "developed and signed in accordance with paragraph (2)," after "State plan".
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–128, §474(1)(A), substituted "Administrator" for "Commissioner" in two places and inserted "developed and signed in accordance with paragraph (2)," after "State plan".
 
 Subsec. (a)(2). Pub. L. 113–128, §474(1)(B), struck out "developed and signed by" after "jointly" in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 

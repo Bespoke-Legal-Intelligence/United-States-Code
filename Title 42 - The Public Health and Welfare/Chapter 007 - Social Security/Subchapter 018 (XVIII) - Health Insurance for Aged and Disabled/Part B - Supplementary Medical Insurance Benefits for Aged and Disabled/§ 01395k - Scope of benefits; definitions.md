@@ -200,7 +200,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, andapplicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 203(a) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
@@ -226,7 +226,7 @@ Pub. L. 99–509, title IX, §9337(e), Oct. 21, 1986, 100 Stat. 2034, provided t
 
 Pub. L. 98–369, div. B, title III, §2341(d), July 18, 1984, 98 Stat. 1094, provided that: "The amendments made by this section \[amending this section and section 1395x of this title\] apply to services furnished on or after the date of the enactment of this Act \[July 18, 1984\]."
 
-Amendment by section 2354(b)(6) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(6) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -262,7 +262,7 @@ Pub. L. 110–275, title I, §143(d), July 15, 2008, 122 Stat. 2543, provided th
 
 #### Construction of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9320(j), Oct. 21, 1986, 100 Stat. 2016, provided that: "Nothing in this section or the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision."
+Pub. L. 99–509, title IX, §9320(j), Oct. 21, 1986, 100 Stat. 2016, provided that: "Nothing in this section or the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions ofState law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision."
 
 #### Report on Immunosuppressive Drug Benefit
 

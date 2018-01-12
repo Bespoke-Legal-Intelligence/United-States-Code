@@ -28,7 +28,7 @@
 
 The instruments under which the loan is made and the security given shall—
 
-&emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
+&emsp;(1) provide for security upon the applicant's equity in the farm or such other security orcollateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
 &emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
@@ -154,7 +154,7 @@ Exception.—This paragraph shall not apply to any offer to prepay, or any reque
 
 &emsp;(ii) the Secretary determines that housing opportunities of minorities will not be materially affected as a result of the prepayment or refinancing, and that—
 
-&emsp;&emsp;(I) the borrower (and any successor in interest thereof) are obligated to ensure that tenants of the housing and related facilities financed with the loan will not be displaceddue to a change in the use of the housing, or to an increase in rental or other charges, as a result of the prepayment or refinancing; or
+&emsp;&emsp;(I) the borrower (and any successor in interest thereof) are obligated to ensure that tenants of the housing and related facilities financed with the loan will not be displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of the prepayment or refinancing; or
 
 &emsp;&emsp;(II) there is an adequate supply of safe, decent, and affordable rental housing within the market area of the housing and related facilities and sufficient actions have been taken to ensure that the rental housing will be made available to each tenant upon displacement.
 
@@ -230,7 +230,7 @@ On and after November 30, 1983—
 
 #### (2) Prohibition
 
-&emsp;The Secretary may not refuse to make, insure, or guarantee a loan that otherwise meets the requirements under this section solely onthe basis that the housing involved is located in an area that is excessively rural in character or excessively remote or on tribal allotted or Indian trust land.
+&emsp;The Secretary may not refuse to make, insure, or guarantee a loan that otherwise meets the requirements under this section solely on the basis that the housing involved is located in an area that is excessively rural in character or excessively remote or on tribal allotted or Indian trust land.
 
 #### (g) Deferred mortgage demonstration
 
@@ -274,7 +274,7 @@ On and after November 30, 1983—
 
 &emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (17)).
 
-&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
+&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is afirst-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
 
 #### (6) Eligible lenders
 
@@ -304,7 +304,7 @@ On and after November 30, 1983—
 
 #### (9) Refinancing
 
-&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordancewith terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
+&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
 
 #### (10) Nonassumption
 
@@ -336,7 +336,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(E) the Secretary may authorize compensation to the mortgagee for lost income on monthly mortgage payments due to interest rate reduction;
 
-&emsp;&emsp;(F) the Secretary may reimburse the mortgagee from the appropriate guaranty fund in connection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary;
+&emsp;&emsp;(F) the Secretary may reimburse the mortgagee from the appropriate guaranty fund inconnection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary;
 
 &emsp;&emsp;(G) the Secretary may authorize payments to the mortgagee on behalf of the borrower, under such terms and conditions as are defined by the Secretary, based on successful performance under the terms of the mortgage modification, which shall be used to reduce the principal obligation under the modified mortgage; and
 
@@ -456,7 +456,7 @@ On and after November 30, 1983—
 
 Section 1484(j) of this title, referred to in subsec. (c)(4)(B)(iv), was repealed by Pub. L. 106–569, title VII, §708(b), Dec. 27, 2000, 114 Stat. 3018.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generally to chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generallyto chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
@@ -612,7 +612,7 @@ Pub. L. 101–625, title VII, §706(d), Nov. 28, 1990, 104 Stat. 4286, provided 
 
 "(1)
 
-Proposed regulations and comment period.—Not later than 120 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations to implement the amendments made by this section \[amending this section and section 1701x of Title 12, Banks and Banking\]. The Secretary shall receive comments regarding the regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
+Proposed regulations and comment period.—Not later than 120 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations to implement the amendments made by this section \[amending this section and section 1701x of Title 12, Banks and Banking\]. The Secretary shall receivecomments regarding the regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
 
 "(2)
 
@@ -702,7 +702,7 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as aresult of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 

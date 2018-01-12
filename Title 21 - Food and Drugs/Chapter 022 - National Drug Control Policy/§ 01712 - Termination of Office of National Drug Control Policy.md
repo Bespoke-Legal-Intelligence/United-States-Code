@@ -6,7 +6,7 @@ Except as provided in subsection (b), effective on September 30, 2010, this chap
 
 #### (b) Exception
 
-Subsection (a) does not apply to section 713 or the amendments made by that section.
+Subsection (a) does not apply to section 713 <sup>1</sup> or the amendments made by that section.
 
 (Pub. L. 105–277, div. C, title VII, §715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, §602, Dec. 29, 2006, 120 Stat. 3533.)
 
@@ -23,4 +23,6 @@ The repeal of this chapter and of the amendments made by this chapter, effective
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–469 substituted "September 30, 2010, this chapter and the amendments made to this chapter" for "September 30, 2003, this chapter and the amendments made by this chapter".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

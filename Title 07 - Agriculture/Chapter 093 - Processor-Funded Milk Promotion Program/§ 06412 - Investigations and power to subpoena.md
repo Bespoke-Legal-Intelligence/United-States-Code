@@ -12,7 +12,7 @@ The Secretary may make such investigations as the Secretary considers necessaryâ
 
 #### (1) In general
 
-&emsp;For the purpose of an investigation under subsection (a), the Secretary may administer oaths and affirmations, and issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
+&emsp;For the purpose of an investigation under subsection (a), the Secretary may administeroaths and affirmations, and issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
 
 #### (2) Administrative hearings
 

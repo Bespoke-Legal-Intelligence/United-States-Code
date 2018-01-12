@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 104–188, §1202(a), substituted "May 31, 1997. In the cas
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–227 substituted "June 30, 1992" for "December 31, 1991".
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end "The term 'educational assistance' also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of akind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree."
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end "The term 'educational assistance' also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree."
 
 Subsec. (d). Pub. L. 101–508, §11403(a), substituted "December 31, 1991" for "September 30, 1990".
 
@@ -260,7 +260,7 @@ No penalties or interest on failure to withhold.—No penalty or interest shall 
 
 "(5)
 
-Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section 117(d) of such Code shall be treated as in effect on and after January 1, 1984."
+Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section117(d) of such Code shall be treated as in effect on and after January 1, 1984."
 
 #### Effective Date
 

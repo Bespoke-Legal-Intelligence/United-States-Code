@@ -38,7 +38,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (2) Collection and reporting requirements
 
-&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
+&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volumeguaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
 &emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
@@ -148,7 +148,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 > &emsp;the Secretary shall limit, suspend, or terminate that lender from participation in the insurance programs operated by guaranty agencies under this part.
 
-&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender'sfailure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
+&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender's failure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
 
 &emsp;&emsp;(i) exercise the necessary care and diligence,
 
@@ -210,7 +210,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Length of emergency action
 
-&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation,suspension, or termination proceeding is initiated against the lender under subsection (h) before the expiration of that period.
+&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) before the expiration of that period.
 
 #### (3) Opportunity to show cause
 
@@ -348,7 +348,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Plan for use required
 
-&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year,the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
+&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
 
 &emsp;&emsp;(A) why the goal was not met, including an indication of any managerial deficiencies or of any legal obstacles;
 
@@ -428,7 +428,7 @@ Subsec. (p). Pub. L. 105–244, §427(e), struck out "State postsecondary review
 
 &emsp;"(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
+&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claimsfor payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
 
 <b>1993</b>—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
@@ -488,7 +488,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

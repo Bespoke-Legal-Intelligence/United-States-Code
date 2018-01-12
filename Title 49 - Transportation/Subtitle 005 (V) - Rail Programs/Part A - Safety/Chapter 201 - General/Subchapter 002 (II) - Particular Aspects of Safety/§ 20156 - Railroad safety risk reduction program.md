@@ -28,7 +28,7 @@ Voluntary compliance.—A railroad carrier that is not required to submit a rail
 
 (b)
 
-Certification.—The chief official responsible for safety of each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
+Certification.—The chief official responsible for safety of each railroad carrier requiredto submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
 
 (c)
 
@@ -64,7 +64,7 @@ Technology analysis.—A railroad carrier's technology implementation plan shall
 
 &emsp;(3)
 
-Implementation schedule.—A railroad carrier's technology implementation plan shall contain a prioritized implementationschedule for the development, adoption, implementation, and use of current, new, or novel technologies on its system to reduce safety risks identified under the railroad safety risk reduction program.
+Implementation schedule.—A railroad carrier's technology implementation plan shall contain a prioritized implementation schedule for the development, adoption, implementation, and use of current, new, or novel technologies on its system to reduce safety risks identified under the railroad safety risk reduction program.
 
 &emsp;(4)
 

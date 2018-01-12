@@ -56,7 +56,7 @@
 
 #### (A) Personnel, disbursements, and contracts
 
-&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Servicesunder subsection (a), the Director of Accessibility Services shall have the authority to—
+&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Services under subsection (a), the Director of Accessibility Services shall have the authority to—
 
 &emsp;&emsp;&emsp;(i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
 

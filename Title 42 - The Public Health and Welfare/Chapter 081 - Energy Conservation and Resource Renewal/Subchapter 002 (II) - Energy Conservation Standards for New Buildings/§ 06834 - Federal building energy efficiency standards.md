@@ -34,9 +34,9 @@
 
 (D) Not later than 1 year after December 19, 2007, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
 
-&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, withrespect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
+&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
 
-&emsp;&emsp;(I) The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
+&emsp;&emsp;(I) The buildings shall be designed so that the fossil fuel-generated energy consumptionof the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
 
 &nbsp;
 
@@ -78,7 +78,7 @@
 
 &emsp;(v) The Secretary may by rule allow Federal agencies to develop internal certification processes, using certified professionals, in lieu of certification by the certification entity identified under clause (i)(III). The Secretary shall include in any such rule guidelines to ensure that the certification process results in buildings meeting the applicable certification system and level identified under clause (i)(III). An agency employing an internal certification process must continue to obtain external certification by the certification entity identified under clause (i)(III) for at least 5 percent of the total number of buildings certified annually by the agency.
 
-&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) ofclause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
+&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
 
 &emsp;(vii) In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.
 
@@ -90,7 +90,7 @@ The Secretary shall periodically, but not less than once every 5 years, review t
 
 #### (d) Interim standards
 
-Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) of this section become effective.
+Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) become effective.
 
 (Pub. L. 94–385, title III, §305, as added Pub. L. 102–486, title I, §101(a)(2), Oct. 24, 1992, 106 Stat. 2784; amended Pub. L. 109–58, title I, §109, Aug. 8, 2005, 119 Stat. 614; Pub. L. 110–140, title IV, §433(a), title V, §523, Dec. 19, 2007, 121 Stat. 1612, 1662.)
 

@@ -118,7 +118,7 @@
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which isconvenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+&emsp;The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
 #### (e) Treatment of period for purposes of naturalization
 
@@ -252,7 +252,7 @@ In general.—With respect to each eligible alien described in subsection (b)(1)
 
 &emsp;&emsp;&emsp;"(i) the petition described in subsection (b)(1)(C) contains any material misrepresentation in the facts and information described in section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) and alleged in the petition with respect to a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation);
 
-&emsp;&emsp;&emsp;"(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
+&emsp;&emsp;&emsp;"(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewerthan 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
 
 &emsp;&emsp;&emsp;"(iii) on any of the dates described in subparagraph (D), the alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)(B)).
 
@@ -292,7 +292,7 @@ Continuation of conditional basis if certain adverse determinations.—If the At
 
 &emsp;&emsp;&emsp;"(iii)
 
-Termination if adverse determination.—If the Attorney General renders an adverse determination with respect to subparagraph (A)(i), and the eligible alien's rebuttal does not cause the Attorney General to reverse such determination, the Attorney General shall so notifythe alien involved and, subject to subsection (d), shall terminate the permanent resident status of the alien (and that of the alien's spouse and children if it was obtained on a conditional basis under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)).
+Termination if adverse determination.—If the Attorney General renders an adverse determination with respect to subparagraph (A)(i), and the eligible alien's rebuttal does not cause the Attorney General to reverse such determination, the Attorney General shall so notify the alien involved and, subject to subsection (d), shall terminate the permanent resident status of the alien (and that of the alien's spouse and children if it was obtained on a conditional basis under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)).
 
 &emsp;&emsp;&emsp;"(iv)
 
@@ -320,7 +320,7 @@ day period before second anniversary.—Except as provided in clause (ii), the p
 
 &emsp;&emsp;&emsp;"(ii)
 
-Date petitions for good cause.—Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
+Date petitions for good cause.—Such a petition may be considered if filed after suchdate, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
 
 &emsp;&emsp;"(D)
 

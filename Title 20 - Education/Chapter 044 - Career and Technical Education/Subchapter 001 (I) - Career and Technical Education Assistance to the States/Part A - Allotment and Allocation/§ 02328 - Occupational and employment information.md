@@ -18,7 +18,7 @@ From funds appropriated under subsection (g), the Secretary, in consultation wit
 
 #### (1) In general
 
-&emsp;A jointly designated State entity described in subsection (c) that desires to receive agrant under this section shall submit an application to the Secretary at the same time the State submits its State plan under section 2342 of this title, in such manner, and accompanied by such additional information, as the Secretary may reasonably require.
+&emsp;A jointly designated State entity described in subsection (c) that desires to receive a grant under this section shall submit an application to the Secretary at the same time the State submits its State plan under section 2342 of this title, in such manner, and accompanied by such additional information, as the Secretary may reasonably require.
 
 #### (2) Contents
 

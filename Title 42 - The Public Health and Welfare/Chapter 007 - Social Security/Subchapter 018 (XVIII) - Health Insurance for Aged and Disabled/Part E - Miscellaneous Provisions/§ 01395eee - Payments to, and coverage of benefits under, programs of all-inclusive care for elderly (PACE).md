@@ -334,7 +334,7 @@
 
 #### (B) Application of intermediate sanctions
 
-&emsp;&emsp;Under regulations, the Secretary may provide for the application against a PACE provider of remedies described in section 1395w–27(g)(2) (or, for periods before January1, 1999, section 1395mm(i)(6)(B) of this title) or 1396b(m)(5)(B) of this title in the case of violations by the provider of the type described in section 1395w–27(g)(1) (or section 1395mm(i)(6)(A) of this title for such periods) or 1396b(m)(5)(A) of this title, respectively (in relation to agreements, enrollees, and requirements under this section or section 1396u–4 of this title, respectively).
+&emsp;&emsp;Under regulations, the Secretary may provide for the application against a PACE provider of remedies described in section 1395w–27(g)(2) (or, for periods before January 1, 1999, section 1395mm(i)(6)(B) of this title) or 1396b(m)(5)(B) of this title in the case of violations by the provider of the type described in section 1395w–27(g)(1) (or section 1395mm(i)(6)(A) of this title for such periods) or 1396b(m)(5)(A) of this title, respectively (in relation to agreements, enrollees, and requirements under this section or section 1396u–4 of this title, respectively).
 
 #### (7) Procedures for termination or imposition of sanctions
 
@@ -372,7 +372,7 @@
 
 #### (C) Continuation of modifications or waivers of operational requirements under demonstration status
 
-&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
+&emsp;&emsp;If a PACE program operating under demonstration authority has contractual orother operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
 
 #### (3) Application of certain additional beneficiary and program protections
 
@@ -392,7 +392,7 @@
 
 #### (4) Construction
 
-&emsp;Nothing in this subsection shall be construed as preventing the Secretary from including in regulations provisions to ensure the health and safety of individuals enrolled in a PACE program under this section that are inaddition to those otherwise provided under paragraphs (2) and (3).
+&emsp;Nothing in this subsection shall be construed as preventing the Secretary from including in regulations provisions to ensure the health and safety of individuals enrolled in a PACE program under this section that are in addition to those otherwise provided under paragraphs (2) and (3).
 
 #### (g) Waivers of requirements
 
@@ -584,7 +584,7 @@ Cost Outlier Protection for Rural PACE Pilot Sites.—
 
 &emsp;"(1)
 
-Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
+Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fundto reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
 
 &emsp;"(2)
 
@@ -696,7 +696,7 @@ Expansion in current number and extension of demonstration projects.—Section 9
 
 &emsp;&emsp;&emsp;"(i) in subparagraph (A), by striking ', including permitting the organization to assume progressively (over the initial 3-year period of the waiver) the full financial risk'; and
 
-&emsp;&emsp;&emsp;"(ii) in subparagraph (C), by adding at the end the following: 'In granting further extensions, an organization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.'
+&emsp;&emsp;&emsp;"(ii) in subparagraph (C), by adding at the end the following: 'In granting further extensions, anorganization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.'
 
 &emsp;"(2)
 

@@ -1,0 +1,18 @@
+### §14042. Transferred
+
+#### Codification
+
+Section 14042 was editorially reclassified as section 12431 of Title 34, Crime Control and Law Enforcement.
+
+#### Study of State Laws Regarding Insurance Discrimination Against Victims of Violence Against Women
+
+Pub. L. 106–386, div. B, title II, §1206, Oct. 28, 2000, 114 Stat. 1507, directed the Attorney General to conduct a national study to identify State laws that address insurance discrimination against victims of domestic violence and sexual assault and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
+
+#### Study of Workplace Effects From Violence Against Women
+
+Pub. L. 106–386, div. B, title II, §1207, Oct. 28, 2000, 114 Stat. 1507, directed the Attorney General to conduct a national survey of programs to assist employers and employees on appropriate responses in the workplace to victims of domestic violence, stalking, or sexual assault, and not later than 18 months after Oct. 28, 2000, to submit to Congress a report and recommendations based on that survey.
+
+#### Study of Unemployment Compensation for Victims of Violence Against Women
+
+Pub. L. 106–386, div. B, title II, §1208, Oct. 28, 2000, 114 Stat. 1508, directed the Secretary of Labor, in consultation with the Attorney General, to conduct a national study to identify the impact of State unemployment compensation laws on victims of domestic violence when the victim's separation from employment is a direct result of the domestic violence and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
+

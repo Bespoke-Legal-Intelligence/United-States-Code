@@ -16,7 +16,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### (c) Coordination of program
 
-(1) The Secretary of Defense shall designate the Army as executive agent for the Departmentof Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
+(1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
 
 (2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
 
@@ -136,7 +136,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(A) the threat of the use of chemical and biological weapons by Third World countries and by terrorist organizations has increased in recent years and is now a problem of worldwide significance;
 
-&emsp;"(B) the military and law enforcement agencies in the United States that are responsible for responding to the use of such weapons require additional testing, training, and evaluation facilities to ensure that the personnel of such agencies discharge their responsibilities effectively; and
+&emsp;"(B) the military and law enforcement agencies in the United States that are responsible for respondingto the use of such weapons require additional testing, training, and evaluation facilities to ensure that the personnel of such agencies discharge their responsibilities effectively; and
 
 &emsp;"(C) a facility that recreates urban and suburban locations would provide an especially effective environment in which to test, train, and evaluate such personnel for that purpose.
 

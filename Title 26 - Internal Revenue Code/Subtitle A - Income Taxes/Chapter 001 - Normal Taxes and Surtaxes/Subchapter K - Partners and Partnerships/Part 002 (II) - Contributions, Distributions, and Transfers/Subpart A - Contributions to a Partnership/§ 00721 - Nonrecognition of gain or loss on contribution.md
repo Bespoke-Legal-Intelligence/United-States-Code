@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 105–34, §1131(b)(5)(B), added subsec. (d).
 
 Pub. L. 94–455, title XXI, §2131(f)(3)–(5), Oct. 4, 1976, 90 Stat. 1924, 1925, provided that:
 
-"(3) Except as provided in paragraph (4), the amendments made by subsections (b) and (c) \[amending thissection and sections 722 and 723 of this title\] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
+"(3) Except as provided in paragraph (4), the amendments made by subsections (b) and (c) \[amending this section and sections 722 and 723 of this title\] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 
 "(4) The amendments made by subsections (b) and (c) shall not apply to transfers to a partnership made on or before the 90th day after the date of the enactment of this Act \[Oct. 4, 1976\] if—
 

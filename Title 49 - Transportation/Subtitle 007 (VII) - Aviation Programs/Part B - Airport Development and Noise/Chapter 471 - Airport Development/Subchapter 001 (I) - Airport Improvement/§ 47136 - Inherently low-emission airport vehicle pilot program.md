@@ -68,7 +68,7 @@ Inherently Low-Emission Vehicle Activity Defined.—In this section, the term "i
 
 &emsp;(2) the construction of infrastructure or modifications at public-use airports to enable the delivery of fuel and services necessary for the use of nonroad vehicles that—
 
-&emsp;&emsp;(A) operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or a blend at least 85 percent of which is methanol;
+&emsp;&emsp;(A) operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or ablend at least 85 percent of which is methanol;
 
 &emsp;&emsp;(B) meet or exceed the standards set forth in section 86.1708–99 of such title or the standards set forth in section 89.112(a) of such title, and are in compliance with the requirements of section 89.112(b) of such title; and
 

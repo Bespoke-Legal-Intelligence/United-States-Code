@@ -1,0 +1,6 @@
+### §5714–2. Transferred
+
+#### Codification
+
+Section 5714–2 was editorially reclassified as section 11222 of Title 34, Crime Control and Law Enforcement.
+

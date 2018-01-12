@@ -54,7 +54,7 @@ The purpose of BEST is to establish units to enhance border security by addressi
 
 #### (d) Operation
 
-After determining the jurisdictions in which to establish BEST units under subsection (c)(2),and in order to provide Federal assistance to such jurisdictions, the Secretary may—
+After determining the jurisdictions in which to establish BEST units under subsection (c)(2), and in order to provide Federal assistance to such jurisdictions, the Secretary may—
 
 &emsp;(1) direct the assignment of Federal personnel to BEST, subject to the approval of the head of the department or agency that employs such personnel; and
 

@@ -1,6 +1,6 @@
 ### §2504. Plaintiff's testimony
 
-The United States Court of Federal Claims may, at the instance of the Attorney General, order any plaintiff to appear, upon reasonable notice, before any judge of the court and be examined on oath as to all matters pertaining to his claim. Such examination shall be reduced to writing by the judge, and shall be returned to and filed in the court, and may, at the discretion of the attorneys for the United States, be read and used as evidence on the trial. If any plaintiff, after such order is made and due and reasonable notice thereof is given to him, fails to appear, or refuses to testify or answer fully as to all material matters within his knowledge, the court may order that the case shall not be tried until he fully complies with such order.
+The United States Court of Federal Claims may, at the instance of the Attorney General,order any plaintiff to appear, upon reasonable notice, before any judge of the court and be examined on oath as to all matters pertaining to his claim. Such examination shall be reduced to writing by the judge, and shall be returned to and filed in the court, and may, at the discretion of the attorneys for the United States, be read and used as evidence on the trial. If any plaintiff, after such order is made and due and reasonable notice thereof is given to him, fails to appear, or refuses to testify or answer fully as to all material matters within his knowledge, the court may order that the case shall not be tried until he fully complies with such order.
 
 (June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 97–164, title I, §139(c), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -8,7 +8,7 @@ The United States Court of Federal Claims may, at the instance of the Attorney G
 
 Based on title 28, U.S.C., 1940 ed., §274 (Mar. 3, 1911, ch. 231, §166, 36 Stat. 1140).
 
-Words "Attorney General" were substituted for "attorney or solicitor appearing in behalf of the UnitedStates," in view of section 309 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
+Words "Attorney General" were substituted for "attorney or solicitor appearing in behalf of the United States," in view of section 309 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
 Changes were made in phraseology.
 

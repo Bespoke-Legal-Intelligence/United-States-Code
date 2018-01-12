@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the National Institutes of Health 
 
 The Director—
 
-&emsp;(1) shall provide for the conduct of activities under the Program by the Directors of the agencies of the National Institutes of Health involved in research with respect to trauma;
+&emsp;(1) shall provide for the conduct of activities under the Program by the Directors of theagencies of the National Institutes of Health involved in research with respect to trauma;
 
 &emsp;(2) shall ensure that the activities of the Program are coordinated among such agencies; and
 
@@ -96,7 +96,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-<b>2014</b>—Subsec. (h)(3). Pub. L. 113–152 amended par. (3) generally. Prior to amendment, text read as follows: "The term 'trauma' means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center."
+<b>2014</b>—Subsec. (h)(3). Pub. L. 113–152 amended par. (3) generally. Prior to amendment, text read as follows:"The term 'trauma' means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center."
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 

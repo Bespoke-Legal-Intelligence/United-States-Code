@@ -32,7 +32,7 @@ In subsection (d) the words "foreign government" are substituted for the words "
 
 Subsection (e) is derived from the next to the last sentence of R.S. 4652 which, when enacted, read:
 
-"The whole amount awarded as salvage shall be decreed to the captors and no part to the United States, and shall be distributed as in the case of proceeds of property condemned as prize."
+"The whole amount awarded as salvage shall be decreed to the captors and no part to the United States,and shall be distributed as in the case of proceeds of property condemned as prize."
 
 The Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, repealed all laws authorizing the distribution of prize money to captors. Accordingly, 34 U.S.C. 1158 states:
 

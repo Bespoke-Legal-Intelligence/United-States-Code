@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits ondifferent categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -148,7 +148,7 @@ Nothing in this section shall be construed—
 
 #### (d) Separate application to each option offered
 
-In the case of a group health plan that offers a participant or beneficiary two or more benefitpackage options under the plan, the requirements of this section shall be applied separately with respect to each such option.
+In the case of a group health plan that offers a participant or beneficiary two or more benefit package options under the plan, the requirements of this section shall be applied separately with respect to each such option.
 
 #### (e) Definitions
 
@@ -235,6 +235,10 @@ Pub. L. 108–311, title III, §302(d), Oct. 4, 2004, 118 Stat. 1179, provided t
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title VI, §610(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning after December 31, 2000."
+
+#### Effective Date
+
+Section applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

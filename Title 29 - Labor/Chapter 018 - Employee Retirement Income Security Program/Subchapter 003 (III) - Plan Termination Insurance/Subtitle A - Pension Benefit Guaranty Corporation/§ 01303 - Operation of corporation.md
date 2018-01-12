@@ -122,7 +122,7 @@ Amendment by section 776(b)(1) of Pub. L. 103–465 effective with respect to di
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–272, title XI, §11014(b)(3), Apr. 7, 1986, 100 Stat. 264, provided that: "The amendments made bythis subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\]."
+Pub. L. 99–272, title XI, §11014(b)(3), Apr. 7, 1986, 100 Stat. 264, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 Amendment by section 11016(c)(5) of Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

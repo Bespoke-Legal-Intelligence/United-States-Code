@@ -10,7 +10,7 @@ General.—A State may enact a law to permit the State or a political subdivisio
 
 (b)
 
-Limitation.—This chapter does not require a person tendering a loaded container or trailerto a first carrier to ensure that the first carrier or any other carrier involved in the intermodal transportation will comply with any State highway weight law or regulation, other than as required by this chapter.
+Limitation.—This chapter does not require a person tendering a loaded container or trailer to a first carrier to ensure that the first carrier or any other carrier involved in the intermodal transportation will comply with any State highway weight law or regulation, other than as required by this chapter.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 861.)
 

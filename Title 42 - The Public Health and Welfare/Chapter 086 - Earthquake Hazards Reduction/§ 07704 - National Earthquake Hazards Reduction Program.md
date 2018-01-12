@@ -54,15 +54,15 @@
 
 &emsp;&emsp;&emsp;(i) develop, not later than 6 months after October 25, 2004, and update periodically—
 
-&emsp;&emsp;&emsp;&emsp;(I) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
 
 &emsp;&emsp;&emsp;&emsp;(II) a detailed management plan to implement such strategic plan; and
 
-&emsp;&emsp;&emsp;(ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2) of this section, and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
+&emsp;&emsp;&emsp;(ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2), and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
 
 #### (4) Annual report
 
-&emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce,Science, and Transportation of the Senate. Such report shall include—
+&emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
 
 &emsp;&emsp;(A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(E) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
 
-&emsp;&emsp;(F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i) of this section.
+&emsp;&emsp;(F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i).
 
 #### (5) Advisory Committee
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) trends and developments in the science and engineering of earthquake hazards reduction;
 
-&emsp;&emsp;&emsp;(ii) effectiveness of the Program in carrying out the activities under (a)(2) <sup>3</sup> of this section;
+&emsp;&emsp;&emsp;(ii) effectiveness of the Program in carrying out the activities under (a)(2) <sup>3</sup>;
 
 &emsp;&emsp;&emsp;(iii) the need to revise the Program; and
 
@@ -198,7 +198,7 @@
 
 #### (4) National Science Foundation
 
-&emsp;The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response to earthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
+&emsp;The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response toearthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
 
 &emsp;&emsp;(A) encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used by appropriate organizations to mitigate earthquake damage;
 
@@ -254,7 +254,7 @@ Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in s
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "There is established a National Earthquake Hazards Reduction Program."
+<b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "There is established a National Earthquake Hazards Reduction Program."
 
 Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted "National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute" for "Federal Emergency Management Agency (hereafter in this chapter referred to as the 'Agency') shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency" and struck out concluding provisions which read as follows: "The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director."
 
@@ -488,7 +488,7 @@ Contents of assessment.—The assessment conducted under this subsection shall i
 
 &emsp;&emsp;"(A) a review of the disaster training programs offered by the Federal Emergency Management Agency at the time of the assessment;
 
-&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of thetraining capabilities of the Federal Emergency Management Agency; and
+&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
 
 &emsp;&emsp;"(C) a recommendation on the need to provide additional Federal disaster-response training centers.
 
@@ -514,7 +514,7 @@ Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Earthquake Hazards Reduction Act of 1977, as amended, and section 121(a) of title 40, United States Code, and to improve the Nation's resilience to earthquakes, I hereby direct the following:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to strengthen the security and resilience of the Nation against earthquakes, to promote public safety, economic strength, and national security. To that end, the Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned, leased, financed, or regulated by the Federal Government. When making investment decisions related to Federal buildings, each executive department and agency (agency) responsible for implementing this order shall seek to enhance resilience by reducing risk to the lives of building occupants and improving continued performance of essential functions following future earthquakes. The Federal Government recognizes that building codes and standards primarily focus on ensuring minimum acceptable levels of earthquake safety for preserving the lives of building occupants. To achieve true resilience against earthquakes, however, new and existing buildings may need to exceed those codes and standards to ensure, for example, that the buildings can continue to perform their essential functions following future earthquakes. Agencies are thus encouraged to consider going beyond the codes and standards set out in this order to ensure that buildings are fully earthquake resilient.
+Section 1. <i>Policy</i>. It is the policy of the United States to strengthen the security and resilience of the Nation against earthquakes, to promote public safety, economic strength, and national security. To that end, the Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned, leased, financed, or regulated by the Federal Government. When making investment decisions related to Federal buildings, each executive department and agency (agency) responsible for implementing this order shall seek to enhance resilience by reducing risk to the lives of building occupants and improving continued performance of essential functions following future earthquakes. The Federal Government recognizes that building codes and standards primarily focus onensuring minimum acceptable levels of earthquake safety for preserving the lives of building occupants. To achieve true resilience against earthquakes, however, new and existing buildings may need to exceed those codes and standards to ensure, for example, that the buildings can continue to perform their essential functions following future earthquakes. Agencies are thus encouraged to consider going beyond the codes and standards set out in this order to ensure that buildings are fully earthquake resilient.
 
 Sec. 2. <i>Requirements for Earthquake Safety of New Federal Buildings, Improvements to Existing Federal Buildings, and Federally Leased, Financed, or Regulated Buildings</i>.
 
@@ -554,7 +554,7 @@ Sec. 6. <i>Definitions</i>. As used in this order:
 
 (a) "building" means any structure, fully or partially enclosed, used or intended for sheltering persons or property;
 
-(b) "alteration to an existing building" means an action that alters, as defined in 40 U.S.C. 3301(a)(1), a building and that significantly extends the building's useful life and totals more than the replacement values established in the Standards for the building's assigned Seismic Design Category; and
+(b) "alteration to an existing building" means an action that alters, as defined in 40 U.S.C. 3301(a)(1), a building and that significantly extends the building'suseful life and totals more than the replacement values established in the Standards for the building's assigned Seismic Design Category; and
 
 (c) "programming" means developing and validating project assumptions, scope, budgets, and implementation strategy for a building.
 

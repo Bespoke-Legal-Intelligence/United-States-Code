@@ -10,7 +10,7 @@
 
 #### (B) Access to information
 
-&emsp;&emsp;The Department and each recipient of a grant administered by the Department shallprovide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
+&emsp;&emsp;The Department and each recipient of a grant administered by the Department shall provide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
 
 #### (C) Improper payments
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not less than once every 2 years, the Administrator shall conduct, for each State and high-risk urban area receiving a grant administered by the Department, a programmatic and financial review of all grants awarded by the Department to prevent, prepare for, protect against, or respond to natural disasters, acts of terrorism, or other man-made disasters, excluding assistance provided under section 203, title IV, or title V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133, 5170 et seq., and 5191 et seq.).
+&emsp;&emsp;Not less than once every 2 years, the Administrator shall conduct, for each Stateand high-risk urban area receiving a grant administered by the Department, a programmatic and financial review of all grants awarded by the Department to prevent, prepare for, protect against, or respond to natural disasters, acts of terrorism, or other man-made disasters, excluding assistance provided under section 203, title IV, or title V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133, 5170 et seq., and 5191 et seq.).
 
 #### (B) Contents
 

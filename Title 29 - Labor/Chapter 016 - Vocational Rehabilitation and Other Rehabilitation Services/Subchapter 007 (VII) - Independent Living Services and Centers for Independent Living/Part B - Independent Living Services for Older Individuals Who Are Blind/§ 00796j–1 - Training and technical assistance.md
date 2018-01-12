@@ -10,7 +10,7 @@ The Commissioner shall conduct a survey of designated State agencies that receiv
 
 #### (c) Application for grant
 
-To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
+To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner,containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
 
 (Pub. L. 93–112, title VII, §751A, as added Pub. L. 113–128, title IV, §486, July 22, 2014, 128 Stat. 1693.)
 

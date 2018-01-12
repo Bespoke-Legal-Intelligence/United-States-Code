@@ -50,7 +50,7 @@ The Director shall provide for the development or substantial expansion of cente
 
 &emsp;&emsp;(C) training physicians and scientists in research on such diseases; and
 
-&emsp;(4) may perform research and participate in epidemiological studies and data collection relevant to kidney and urologic diseases in order to disseminate such research, studies, and data to the health care profession and to the public.
+&emsp;(4) may perform research and participate in epidemiological studies and data collectionrelevant to kidney and urologic diseases in order to disseminate such research, studies, and data to the health care profession and to the public.
 
 #### (d) Nutritional disorders
 

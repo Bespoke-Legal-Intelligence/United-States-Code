@@ -1,6 +1,6 @@
 ### §960. Tax liability
 
-(a) Any officers and agents conducting any business under authority of a United States court shall be subject to all Federal, State and local taxes applicable to such business to thesame extent as if it were conducted by an individual or corporation.
+(a) Any officers and agents conducting any business under authority of a United States court shall be subject to all Federal, State and local taxes applicable to such business to the same extent as if it were conducted by an individual or corporation.
 
 (b) A tax under subsection (a) shall be paid on or before the due date of the tax under applicable nonbankruptcy law, unless—
 

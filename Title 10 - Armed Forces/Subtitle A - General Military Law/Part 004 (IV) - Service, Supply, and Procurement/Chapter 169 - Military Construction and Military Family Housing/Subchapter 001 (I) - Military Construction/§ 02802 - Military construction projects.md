@@ -34,15 +34,17 @@
 
 (3) This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in section 2805(b) of this title.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, §2811(b), (c), Dec. 23, 2016, 130 Stat. 2716.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, titleXXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, §2811(b), (c), Dec. 23, 2016, 130 Stat. 2716; Pub. L. 115–91, div. A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600.)
 
 #### Amendments
 
-<b>2016</b>—Subsec. (d). Pub. L. 114–328, §2811(b), which directed striking out subsec. (d), was executed by striking out subsec. (d) as it read after the repeal of Pub. L. 113–291, §2803(b), and restoration of the text prior to those amendments, to reflect the probable intent of Congress. As restored, subsec. (d) related to requirements for military construction projects funded through payment-in-kind contributions, inclusion of such projects in budget justification documents, and exceptions to those requirements.
+<b>2017</b>—Subsec. (d). Pub. L. 115–91, §1081(d)(15), amended Pub. L. 114–328, §2811(c). See 2016 Amendment note below.
 
-Pub. L. 114–328, §2811(c), repealed Pub. L. 113–291, §2803(b), and provided that the provisions of law amended by such section 2803(b) are restored as if such section had not been enacted into law. See 2014 Amendment note below.
+<b>2016</b>—Subsec. (d). Pub. L. 114–328, §2811(b), struck out subsec. (d) which related to requirements for military construction projects funded through payments-in-kind or in-kind contributions, inclusion of such projects in budget justification documents, and exceptions to those requirements.
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–291, §2803(b), which substituted "payments-in-kind or in-kind contributions" for "payment-in-kind contributions" in par. (1), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply, and substituted "paragraph (3), by reference to section 2687a(f)(4)(D) of this title," for "paragraph (3)(C)" in par. (4), was repealed by Pub. L. 114–328, §2811(c).
+Pub. L. 114–328, §2811(c), as amended by Pub. L. 115–91, §1081(d)(15), repealed Pub. L. 113–291, §2803(b). See 2014 Amendment note below.
+
+<b>2014</b>—Subsec. (d). Pub. L. 113–291, §2803(b), which substituted "payments-in-kind or in-kind contributions" for "payment-in-kind contributions" in par. (1), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply, and substituted "paragraph (3), by reference to section 2687a(f)(4)(D) of this title," for "paragraph (3)(C)" in par. (4), was repealed by Pub. L. 114–328, §2811(c), as amended by Pub. L. 115–91, §1081(d)(15).
 
 Subsec. (e). Pub. L. 113–291, §2801, added subsec. (e).
 
@@ -51,6 +53,10 @@ Subsec. (e). Pub. L. 113–291, §2801, added subsec. (e).
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted ", land acquisitions, and defense access road projects (as described under section 210 of title 23)" after "military construction projects".
 
 Subsec. (c). Pub. L. 110–417 added subsec. (c).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Effective Date
 
@@ -144,7 +150,7 @@ Additional reports.—Not later than February 1, 2011, and each February 1 there
 
 &emsp;"(6)
 
-Assessment of recommendations.—Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
+Assessment of recommendations.—Not later than 30 days after the date of the submission of eachreport under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
 
 &emsp;&emsp;"(A) a copy of the panel's assessment;
 

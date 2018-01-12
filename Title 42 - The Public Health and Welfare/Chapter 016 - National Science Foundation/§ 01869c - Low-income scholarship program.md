@@ -40,7 +40,7 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original "sec
 
 #### Codification
 
-Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

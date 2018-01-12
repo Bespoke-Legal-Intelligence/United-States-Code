@@ -32,7 +32,7 @@ After consultation with the Secretary of State and the Secretary of the Treasury
 
 The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 93–205, Dec.28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 
@@ -62,7 +62,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;"(1) initiate negotiations as soon as possible for the development of bilateral or multilateral agreements with other nations for the protection and conservation of such species of sea turtles;
 
-&emsp;"(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined by the Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
+&emsp;"(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined bythe Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
 
 &emsp;"(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
 

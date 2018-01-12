@@ -20,7 +20,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 &emsp;Except as provided in paragraphs (2), (3), and (4), for purposes of this part, the term "disposition" includes a sale, exchange, gift, or a transfer of legal title, but does not include—
 
-&emsp;&emsp;(A) a transfer from a decedent to an estate or a transfer by request or inheritance;
+&emsp;&emsp;(A) a transfer from a decedent to an estate or a transfer by bequest or inheritance;
 
 &emsp;&emsp;(B) an exchange to which section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies; or
 
@@ -68,11 +68,11 @@ For purposes of this part, the term "parent corporation" means any corporation (
 
 #### (f) Subsidiary corporation
 
-For purposes of this part, the term "subsidiary corporation" means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employercorporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+For purposes of this part, the term "subsidiary corporation" means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term "employer corporation" wherever it appears in subsection (e) and (f) the term "grantor corporation" or the term "corporation issuing or assuming a stock option in a transaction to which section 424(a) applies" as the case may be.
+In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term "employer corporation" wherever it appears in subsections (e) and (f) the term "grantor corporation" or the term "corporation issuing or assuming a stock option in a transaction to which section 424(a) applies", as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -116,7 +116,7 @@ A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted "an incentive stock option or an option granted under an employee stock purchase plan" for "a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option".
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted "an incentive stock option or an option granted under anemployee stock purchase plan" for "a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option".
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 

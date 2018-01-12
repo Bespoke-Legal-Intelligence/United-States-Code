@@ -26,7 +26,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(2) that, if an investigative subcommittee by majority vote of its membership adopts a statement of alleged violation, the remaining members of the committee shall comprise an adjudicatory subcommittee to hold a disciplinary hearing on the violation alleged in the statement;
 
-&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
+&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearingor meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
 
 &emsp;(4) that a quorum for an adjudicatory subcommittee for the purpose of taking testimony and conducting any business shall consist of a majority of the membership of the subcommittee plus one; and
 
@@ -96,7 +96,7 @@ Restrictions.—The Committee on Standards of Official Conduct \[now Committee o
 
 "(b)
 
-Exemption Authority.—The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives is authorized to grant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances."
+Exemption Authority.—The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives is authorized togrant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

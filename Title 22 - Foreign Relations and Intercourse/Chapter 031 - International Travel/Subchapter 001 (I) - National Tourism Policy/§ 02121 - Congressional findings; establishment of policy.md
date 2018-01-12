@@ -34,7 +34,7 @@
 
 &emsp;(9) eliminate unnecessary trade barriers to the United States tourism industry operating throughout the world;
 
-&emsp;(10) encourage competition in the tourism industry and maximum consumer choice through the continued viability of the retail travel agent industry and the independent tour operator industry;
+&emsp;(10) encourage competition in the tourism industry and maximum consumer choice through the continued viability of the retailtravel agent industry and the independent tour operator industry;
 
 &emsp;(11) promote the continued development and availability of alternative personal payment mechanisms which facilitate national and international travel;
 
@@ -56,7 +56,7 @@
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
-<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings andestablishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
+<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
 #### Effective Date of 1981 Amendment
 
@@ -106,7 +106,7 @@ Pub. L. 102–372, §2, Sept. 30, 1992, 106 Stat. 1170, provided that: "The Cong
 
 &emsp;"(9) foreign tourists entering the United States are frequently faced with unnecessary delays at the United States border;
 
-&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
+&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and theflight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
 &emsp;"(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
@@ -160,7 +160,7 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 #### Ex. Ord. No. 13597. Establishing Visa and Foreign Visitor Processing Goals and the Task Force On Travel and Competitiveness
 
-Ex. Ord. No. 13597, Jan. 19, 2012, 77 F.R. 3373, provided:
+Ex. Ord. No. 13597, Jan. 19, 2012, 77 F.R. 3373, as amended by Ex. Ord. No. 13802, §1, June 21, 2017, 82 F.R. 28747, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to improve visa and foreign visitor processing and travel promotion in order to create jobs and spur economic growth in the United States, while continuing to protect our national security, it is hereby ordered as follows:
 
@@ -174,7 +174,7 @@ Sec. 2. <i>Visa and Foreign Visitor Processing</i>. (a) The Assistant to the Pre
 
 (i) increase nonimmigrant visa processing capacity in China and Brazil by 40 percent over the coming year;
 
-(ii) ensure that 80 percent of nonimmigrant visa applicants are interviewed within 3 weeks of receipt of application, recognizing that resource and security considerations and the need to ensure provision of consular services to U.S. citizens may dictate specific exceptions;
+(ii) \[Revoked by Ex. Ord. No. 13802, §1, June 21, 2017, 82 F.R. 28747.\]
 
 (iii) increase efforts to expand the Visa Waiver Program and travel by nationals of Visa Waiver Program participants; and
 
@@ -186,7 +186,7 @@ This plan should also identify other appropriate measures that will enhance and 
 
 (d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to the economy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
 
-Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (TaskForce) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
+Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (Task Force) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
 
 (i) Department of State;
 
@@ -225,6 +225,4 @@ Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities\[,\] its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

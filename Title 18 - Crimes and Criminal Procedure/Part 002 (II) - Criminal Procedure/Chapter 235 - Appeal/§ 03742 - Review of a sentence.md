@@ -30,7 +30,7 @@ Appeal by the Government.—The Government may file a notice of appeal in the di
 
 Plea Agreements.—In the case of a plea agreement that includes a specific sentence under rule 11(e)(1)(C) of the Federal Rules of Criminal Procedure—
 
-&emsp;(1) a defendant may not file a notice of appeal under paragraph (3) or (4) of subsection (a) unless the sentence imposed is greater than the sentence set forth in such agreement; and
+&emsp;(1) a defendant may not file a notice of appeal under paragraph (3) or (4) of subsection\(a) unless the sentence imposed is greater than the sentence set forth in such agreement; and
 
 &emsp;(2) the Government may not file a notice of appeal under paragraph (3) or (4) of subsection (b) unless the sentence imposed is less than the sentence set forth in such agreement.
 
@@ -86,7 +86,7 @@ Decision and Disposition.—If the court of appeals determines that—
 
 (g)
 
-Sentencing Upon Remand.—A district court to which a case is remanded pursuant tosubsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
+Sentencing Upon Remand.—A district court to which a case is remanded pursuant to subsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
 
 &emsp;(1) In determining the range referred to in subsection 3553(a)(4), the court shall apply the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that were in effect on the date of the previous sentencing of the defendant prior to the appeal, together with any amendments thereto by any act of Congress that was in effect on such date; and
 

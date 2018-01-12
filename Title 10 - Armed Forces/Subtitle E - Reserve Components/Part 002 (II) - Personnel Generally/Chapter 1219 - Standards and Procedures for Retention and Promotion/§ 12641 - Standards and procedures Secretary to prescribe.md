@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 June 29, 1948, ch. 708, §304 (less last sentence), 62 Stat. 1088.
 
-In subsection (a), the words "As soon as may be practicable after the effective date of sections 1036–1036i\[440h–440q\] of this title" are omitted as executed. The words "not inconsistent with said sections or any other Act" and "appropriate" are omitted as surplusage.
+In subsection (a), the words "As soon as may be practicable after the effective date of sections 1036–1036i \[440h–440q\] of this title" are omitted as executed. The words "not inconsistent with said sections or any other Act" and "appropriate" are omitted as surplusage.
 
 #### Amendments
 

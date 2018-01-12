@@ -42,7 +42,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub.L. 105–330, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 

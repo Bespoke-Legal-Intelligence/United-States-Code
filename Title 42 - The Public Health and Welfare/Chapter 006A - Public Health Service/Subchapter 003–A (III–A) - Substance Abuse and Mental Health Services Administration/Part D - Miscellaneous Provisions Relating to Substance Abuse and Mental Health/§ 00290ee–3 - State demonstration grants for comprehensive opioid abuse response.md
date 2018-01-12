@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) expanding the availability of treatment for prescription drug and opioid addiction, including medication-assisted treatment and behavioral health therapy, as appropriate;
 
-&emsp;&emsp;&emsp;(ii) developing, implementing, or expanding screening for individuals in treatment for prescription drug and opioid addiction for hepatitis C and HIV, and treating or referring those individuals if clinically appropriate; or
+&emsp;&emsp;&emsp;(ii) developing, implementing, or expanding screening for individuals in treatmentfor prescription drug and opioid addiction for hepatitis C and HIV, and treating or referring those individuals if clinically appropriate; or
 
 &emsp;&emsp;&emsp;(iii) developing, implementing, or expanding recovery support services and programs at high schools or institutions of higher education;
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (B) Plan for interoperability
 
-&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county or other unit of local government shall submit a plan outlining the methods such county orunit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
+&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county or other unit of local government shall submit a plan outlining the methods such county or unit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
 
 #### (c) Authorization of funding
 
@@ -114,9 +114,9 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(5)(A)(i), (ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(5)(A)(i), (ii)(I), is act June 25, 1938, ch.675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to in subsec. (b)(6), is section 701 of Pub. L. 114–198, which enacted sections 290aa–15, 290aa–16, 3797ff–5, and 3797ff–6 of this title and provisions set out as a note under section 290aa–15 of this title.
+Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to in subsec. (b)(6), is section 701 of Pub. L. 114–198, which enacted sections 290aa–15 and 290aa–16 of this title, sections 10706 and 10707 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under section 290aa–15 of this title.
 
 #### Prior Provisions
 

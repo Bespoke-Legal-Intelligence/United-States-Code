@@ -2,7 +2,7 @@
 
 (a)
 
-Exemption From Disclosure.—The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—
+Exemption From Disclosure.—The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Securitymay, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—
 
 &emsp;(1) any member of the armed forces assigned to an overseas unit, a sensitive unit, or a routinely deployable unit; and
 

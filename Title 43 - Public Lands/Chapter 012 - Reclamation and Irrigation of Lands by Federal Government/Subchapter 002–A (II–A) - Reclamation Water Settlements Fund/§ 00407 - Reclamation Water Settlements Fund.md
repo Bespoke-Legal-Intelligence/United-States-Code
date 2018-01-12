@@ -28,7 +28,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (A) Expenditures
 
-&emsp;&emsp;Subject to subparagraph (B), for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000, plus the interest accruedin the Fund, for the fiscal year in which expenditures are made pursuant to paragraphs (2) and (3).
+&emsp;&emsp;Subject to subparagraph (B), for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000, plus the interest accrued in the Fund, for the fiscal year in which expenditures are made pursuant to paragraphs (2) and (3).
 
 #### (B) Additional expenditures
 
@@ -96,7 +96,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled "In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana",if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled "In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana", if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
 
 #### (II) Maximum amount
 
@@ -144,7 +144,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (2) Credits to Fund
 
-&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to, and form a part of, the Fund.
+&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held inthe Fund shall be credited to, and form a part of, the Fund.
 
 #### (e) Transfers of amounts
 
@@ -310,7 +310,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior, acting th
 
 &emsp;"(27)
 
-Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, etal., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
 &emsp;"(28)
 

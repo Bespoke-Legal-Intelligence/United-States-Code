@@ -152,7 +152,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 &emsp;&emsp;(ii) specify the extent to which those objectives were not achieved, with an explanation of why they were not achieved.
 
-&emsp;(B) A description of the amount and nature of economic assistance provided by other donors during the preceding 3 fiscal years, set forth by development sector to the extent possible.
+&emsp;(B) A description of the amount and nature of economic assistance provided by other donors during the preceding 3 fiscal years, setforth by development sector to the extent possible.
 
 &emsp;(C) A discussion of the commitment of the host government to addressing the country's needs in each development sector, including a description of the resources devoted by that government to each development sector during the preceding 3 fiscal years.
 

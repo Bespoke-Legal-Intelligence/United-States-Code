@@ -138,7 +138,7 @@
 
 &emsp;&emsp;The Agency shall, as conservator or receiver, and by operation of law, immediately succeed to—
 
-&emsp;&emsp;&emsp;(i) all rights, titles, powers, and privileges of the regulated entity, and of any stockholder, officer, or director of suchregulated entity with respect to the regulated entity and the assets of the regulated entity; and
+&emsp;&emsp;&emsp;(i) all rights, titles, powers, and privileges of the regulated entity, and of any stockholder, officer, or director of such regulated entity with respect to the regulated entity and the assets of the regulated entity; and
 
 &emsp;&emsp;&emsp;(ii) title to the books, records, and assets of any other legal custodian of such regulated entity.
 
@@ -178,7 +178,7 @@
 
 #### (G) Transfer or sale of assets and liabilities
 
-&emsp;&emsp;The Agency may, as conservator or receiver, transfer or sell any asset or liability of the regulated entity in default, and may do so without any approval, assignment, or consent with respect to such transfer or sale.
+&emsp;&emsp;The Agency may, as conservator or receiver, transfer or sell any asset or liabilityof the regulated entity in default, and may do so without any approval, assignment, or consent with respect to such transfer or sale.
 
 #### (H) Payment of valid obligations
 
@@ -316,7 +316,7 @@
 
 #### (i) Statute of limitation tolled
 
-&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with thereceiver shall constitute a commencement of an action.
+&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with the receiver shall constitute a commencement of an action.
 
 #### (ii) No prejudice to other actions
 
@@ -398,7 +398,7 @@
 
 #### (ii) No prejudice to other actions
 
-&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudiceany right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
+&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
 
 #### (9) Payment of claims
 
@@ -566,7 +566,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for thebreach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for the breach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
 
 #### (B) No limitation of power
 
@@ -596,7 +596,7 @@
 
 #### (1) In general
 
-&emsp;Unsecured claims against a regulated entity, or the receiver therefor, that are proven to the satisfaction of the receiver shall have priority in the following order:
+&emsp;Unsecured claims against a regulated entity, or the receiver therefor, that are proven to thesatisfaction of the receiver shall have priority in the following order:
 
 &emsp;&emsp;(A) Administrative expenses of the receiver.
 
@@ -770,7 +770,7 @@
 
 #### (C) Acceptance of performance no bar to subsequent repudiation
 
-&emsp;&emsp;The acceptance by the conservator or receiver of services referred to under subparagraph (B) in connection with a contract described in such subparagraph shall not affect the right of the conservator or receiver to repudiate such contract under this section at any time after such performance.
+&emsp;&emsp;The acceptance by the conservator or receiver of services referred to under subparagraph (B) in connection with a contract described in such subparagraph shall not affect the right of the conservator or receiver torepudiate such contract under this section at any time after such performance.
 
 #### (8) Certain qualified financial contracts
 
@@ -810,7 +810,7 @@
 
 &emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on anyof the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
@@ -826,7 +826,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VIII) means any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
+&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to insubclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
 
 &emsp;&emsp;&emsp;&emsp;(X) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
@@ -1046,7 +1046,7 @@
 
 #### (2) Maximum liability
 
-&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity without exercising the authority of the Agency under subsection (i).
+&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity withoutexercising the authority of the Agency under subsection (i).
 
 #### (f) Limitation on court action
 
@@ -1120,7 +1120,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;&emsp;Notwithstanding subparagraph (A) or any other provision of law—
 
-&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilities are transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
+&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilitiesare transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
 
 &emsp;&emsp;&emsp;(ii) a limited-life regulated entity shall not assume, acquire, or succeed to any obligation that a regulated entity for which a receiver has been appointed may have to any shareholder of the regulated entity that arises as a result of the status of that person as a shareholder of the regulated entity; and
 
@@ -1338,7 +1338,7 @@ The Commodity Exchange Act, referred to in subsec. (d)(14), is act Sept. 21, 192
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (i)(2)(A)(i)(I), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known asthe Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (i)(2)(A)(ii)(I), probably means the Federal Home Loan Mortgage Corporation Act, title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 

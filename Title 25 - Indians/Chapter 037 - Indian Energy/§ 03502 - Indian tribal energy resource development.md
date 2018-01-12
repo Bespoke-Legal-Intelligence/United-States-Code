@@ -26,7 +26,7 @@
 
 (1) The Director shall establish programs to assist consenting Indian tribes in meeting energy education, research and development, planning, and management needs.
 
-(2) In carrying out this subsection, the Director may provide grants, on a competitive basis, to an Indian tribe or tribal energy resource development organization for use in carrying out—
+(2) In carrying out this subsection, the Director may provide grants, on a competitive basis,to an Indian tribe or tribal energy resource development organization for use in carrying out—
 
 &emsp;(A) energy, energy efficiency, and energy conservation programs;
 

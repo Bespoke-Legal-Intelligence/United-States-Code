@@ -22,7 +22,7 @@ Effective with respect to new engines or vehicles to which standards under this 
 
 #### (d) Enforcement
 
-The standards under this section shall be subject to sections 7525, 7541, 7542, and 7543 of this title, with such modifications of the applicable regulations implementing such sections as the Administrator deems appropriate, and shall be enforced in the same manner as standards prescribed under section 7521 of this title. The Administrator shall revise or promulgate regulations as may be necessary to determine compliance with, and enforce, standards in effect under this section.
+The standards under this section shall be subject to sections 7525, 7541, 7542, and 7543 of this title, with such modifications of the applicable regulations implementing such sections as theAdministrator deems appropriate, and shall be enforced in the same manner as standards prescribed under section 7521 of this title. The Administrator shall revise or promulgate regulations as may be necessary to determine compliance with, and enforce, standards in effect under this section.
 
 (July 14, 1955, ch. 360, title II, §213, as added Pub. L. 93–319, §10, June 22, 1974, 88 Stat. 261; amended Pub. L. 101–549, title II, §222(a), Nov. 15, 1990, 104 Stat. 2500.)
 

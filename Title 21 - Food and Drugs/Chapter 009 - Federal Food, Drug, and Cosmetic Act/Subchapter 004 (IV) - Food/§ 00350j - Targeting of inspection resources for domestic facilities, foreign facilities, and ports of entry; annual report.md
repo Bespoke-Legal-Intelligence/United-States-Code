@@ -78,7 +78,7 @@ The Secretary, in consultation with the Secretary of Homeland Security, shall al
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services, the Secretary of Commerce, the Secretary of Homeland Security, the Chairman of the Federal Trade Commission, and the headsof other appropriate agencies may enter into such agreements as may be necessary or appropriate to improve seafood safety.
+&emsp;The Secretary of Health and Human Services, the Secretary of Commerce, the Secretary of Homeland Security, the Chairman of the Federal Trade Commission, and the heads of other appropriate agencies may enter into such agreements as may be necessary or appropriate to improve seafood safety.
 
 #### (2) Scope of agreements
 

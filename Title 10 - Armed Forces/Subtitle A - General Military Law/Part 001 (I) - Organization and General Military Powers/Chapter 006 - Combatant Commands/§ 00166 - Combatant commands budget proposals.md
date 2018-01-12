@@ -18,21 +18,17 @@ Content of Proposals.—A budget proposal under subsection (a) for funding of ac
 
 (c)
 
-SOF Training With Foreign Forces.—A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in section 2011 of this title.<sup>1</sup>
+SOF Training With Foreign Forces.—A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in section 322 of this title.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1016; amended Pub. L. 102–190, div. A, title X, §1052(b), Dec. 5, 1991, 105 Stat. 1471.)
-
-#### References in Text
-
-Section 2011 of this title, referred to in subsec. (c), was renumbered section 322 of this title by Pub. L. 114–328, div. A, title XII, §1244(b), Dec. 23, 2016, 130 Stat. 2518.
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1016; amended Pub. L. 102–190, div. A, title X, §1052(b), Dec. 5, 1991, 105 Stat. 1471; Pub. L. 115–91, div. A, title X, §1081(a)(11), Dec. 12, 2017, 131 Stat. 1594.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "section 322" for "section 2011".
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–190 added subsec. (c).
 
 #### Effective Date
 
 Pub. L. 99–433, title II, §214(d), Oct. 1, 1986, 100 Stat. 1019, provided that: "Section 166 of title 10, United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

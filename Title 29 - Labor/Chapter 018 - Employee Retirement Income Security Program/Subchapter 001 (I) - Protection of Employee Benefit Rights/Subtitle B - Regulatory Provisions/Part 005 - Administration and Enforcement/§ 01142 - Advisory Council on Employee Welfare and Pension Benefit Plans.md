@@ -12,7 +12,7 @@
 
 #### (b) Duties and functions
 
-It shall be the duty of the Council to advise the Secretary with respect to the carrying outof his functions under this chapter and to submit to the Secretary recommendations with respect thereto. The Council shall meet at least four times each year and at such other times as the Secretary requests. In his annual report submitted pursuant to section 1143(b) <sup>1</sup> of this title, the Secretary shall include each recommendation which he has received from the Council during the preceding calendar year.
+It shall be the duty of the Council to advise the Secretary with respect to the carrying out of his functions under this chapter and to submit to the Secretary recommendations with respect thereto. The Council shall meet at least four times each year and at such other times as the Secretary requests. In his annual report submitted pursuant to section 1143(b) <sup>1</sup> of this title, the Secretary shall include each recommendation which he has received from the Council during the preceding calendar year.
 
 #### (c) Executive secretary; secretarial and clerical services
 
@@ -46,7 +46,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,7 +54,7 @@ In subsec. (b)(1)(I), "sections 3141–3144, 3146, and 3147 of title 40" substit
 
 A prior section 300s–1 was redesignated 300s–1a and amended as part of the general revision of this subchapter by Pub. L. 96–79.
 
-A prior section 1621 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2265, which related to the allocation among States of the total amount of principal of loans and loan guarantees, was classified to section 300q–1 of this title, prior to repeal as part of the general revision of this subchapter by Pub. L. 96–79.
+A prior section 1621 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2265, which related to the allocation among States of the total amount ofprincipal of loans and loan guarantees, was classified to section 300q–1 of this title, prior to repeal as part of the general revision of this subchapter by Pub. L. 96–79.
 
 #### Effective Date
 

@@ -70,7 +70,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) considerable specialized or supervisory training and experience;
 
-&emsp;&emsp;&emsp;(ii) comprehensive working knowledge of a special and complex subject matter; procedure, or practice, or of the principles of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) comprehensive working knowledge of a special and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) to a considerable extent the exercise of independent judgment;
 
@@ -106,7 +106,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;(B) with considerable latitude for the exercise of independent judgment, to perform moderately difficult and responsible work, requiring—
 
-&emsp;&emsp;&emsp;(i) professional, scientific, or technical training equivalent to that represented bygraduation from a college or university of recognized standing; and
+&emsp;&emsp;&emsp;(i) professional, scientific, or technical training equivalent to that represented by graduation from a college or university of recognized standing; and
 
 &emsp;&emsp;&emsp;(ii) considerable additional professional, scientific, or technical training or experience which has demonstrated capacity for sound independent work; or
 
@@ -118,7 +118,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) somewhat extended specialized, supervisory, or administrative training and experience which has demonstrated capacity for sound independent work;
 
-&emsp;&emsp;&emsp;(ii) thorough and fundamental knowledge of a specialized and complex subject matter, or of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) thorough and fundamental knowledge of a specialized and complex subjectmatter, or of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) considerable latitude for the exercise of independent judgment; or
 
@@ -166,7 +166,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;(C) to plan and direct or to plan and execute major professional, scientific, technical, administrative, fiscal, or other specialized programs, requiring extended training and experience which has demonstrated leadership and unusual attainments in professional, scientific, or technical research, practice, or administration, or in administrative, fiscal, or other specialized activities; or
 
-&emsp;&emsp;(D) to perform consulting or other professional, scientific, technical, administrative,fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
+&emsp;&emsp;(D) to perform consulting or other professional, scientific, technical, administrative, fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
 &emsp;(15) Grade GS–15 includes those classes of positions the duties of which are—
 
@@ -280,7 +280,7 @@ Sec. 302. In carrying out its functions under section 301 of this Act, the Commi
 
 "
 
-Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by section 105 of title 5, United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance for the purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
+Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by section 105 of title 5, United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance forthe purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
 
 "
 

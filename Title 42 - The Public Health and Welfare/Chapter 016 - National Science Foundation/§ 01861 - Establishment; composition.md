@@ -6,6 +6,8 @@ There is established in the executive branch of the Government an independent ag
 
 #### Short Title of 2017 Amendment
 
+Pub. L. 115–6, §1, Feb. 28, 2017, 131 Stat. 11, provided that: "This Act \[amending section 1885a of this title and enacting provisions set out as a note under section 1885a of this title\] may be cited as the 'Promoting Women in Entrepreneurship Act'."
+
 Pub. L. 114–329, §1(a), Jan. 6, 2017, 130 Stat. 2969, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Innovation and Competitiveness Act'."
 
 #### Short Title of 2016 Amendment
@@ -156,7 +158,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providingfor certain reorganizations in the field of science and technology.
+I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
 
 Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
@@ -180,7 +182,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 &emsp;(2) The Office of the Special Assistant to the President for Science and Technology was established in 1957. The Special Assistant serves as Chairman of both the President's Science Advisory Committee and the Federal Council for Science and Technology, mentioned below.
 
-&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the White House Office as the President's Science Advisory Committee.
+&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the WhiteHouse Office as the President's Science Advisory Committee.
 
 &emsp;(4) The Federal Council for Science and Technology, composed of policy officials of the principal agencies engaged in scientific and technical activities, was established in 1959.
 

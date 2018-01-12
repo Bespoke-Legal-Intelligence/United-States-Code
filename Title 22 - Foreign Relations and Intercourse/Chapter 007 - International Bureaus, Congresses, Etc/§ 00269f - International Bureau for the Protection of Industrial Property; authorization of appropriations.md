@@ -16,5 +16,5 @@ Subsec. (b). Pub. L. 92–511, §1(2), substituted provisions authorizing approp
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
 

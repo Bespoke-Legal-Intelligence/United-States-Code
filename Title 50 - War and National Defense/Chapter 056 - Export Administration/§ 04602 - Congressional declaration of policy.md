@@ -24,7 +24,7 @@ The Congress makes the following declarations:
 
 &emsp;&emsp;(C) to foster international cooperation and the development of international rules and institutions to assure reasonable access to world supplies.
 
-&emsp;(6) It is the policy of the United States that the desirability of subjecting, or continuing to subject, particular goods or technology or other information to United States export controls should be subjected to review by and consultation with representatives of appropriate United States Government agencies and private industry.
+&emsp;(6) It is the policy of the United States that the desirability of subjecting, or continuing to subject, particular goods or technology or other information to United States exportcontrols should be subjected to review by and consultation with representatives of appropriate United States Government agencies and private industry.
 
 &emsp;(7) It is the policy of the United States to use export controls, including license fees, to secure the removal by foreign countries of restrictions on access to supplies where such restrictions have or may have a serious domestic inflationary impact, have caused or may cause a serious domestic shortage, or have been imposed for purposes of influencing the foreign policy of the United States. In effecting this policy, the President shall make reasonable and prompt efforts to secure the removal or reduction of such restrictions, policies, or actions through international cooperation and agreement before imposing export controls. No action taken in fulfillment of the policy set forth in this paragraph shall apply to the export of medicine or medical supplies.
 
@@ -52,7 +52,7 @@ The Congress makes the following declarations:
 
 Section was formerly classified to section 2402 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-A prior section 2402 of the former Appendix to this title, Pub. L. 91–184, §3, Dec. 30, 1969, 83 Stat. 841; Pub. L. 92–412, title I, §103, Aug. 29, 1972, 86 Stat. 644; Pub. L.93–500, §§2, 4(b), (c), 11, Oct. 29, 1974, 88 Stat. 1552, 1553, 1556; Pub. L. 95–52, title I, §115, title II, §202, June 22, 1977, 91 Stat. 241, 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+A prior section 2402 of the former Appendix to this title, Pub. L. 91–184, §3, Dec. 30, 1969, 83 Stat. 841; Pub. L. 92–412, title I, §103, Aug. 29, 1972, 86 Stat. 644; Pub. L. 93–500, §§2, 4(b), (c), 11, Oct. 29, 1974, 88 Stat. 1552, 1553, 1556; Pub. L. 95–52, title I, §115, title II, §202, June 22, 1977, 91 Stat. 241, 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Pars. (12) to (15). Pub. L. 99–64, §103(5), added pars. (12) to (15).
 
 #### Delegation of Functions
 
-Functions conferred upon President under this section delegated to Secretary of Commerce by Ex. Ord. No. 12214, May 2, 1980, 45 F.R. 29783, set out under section 4603 of this title.
+Functions conferred upon President under this section delegated to Secretary of Commerce by Ex. Ord.No. 12214, May 2, 1980, 45 F.R. 29783, set out under section 4603 of this title.
 
 #### Policy Regarding KAL
 

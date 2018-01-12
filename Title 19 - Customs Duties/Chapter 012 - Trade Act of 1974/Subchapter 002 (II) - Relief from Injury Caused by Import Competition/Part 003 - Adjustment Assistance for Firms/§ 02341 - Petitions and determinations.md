@@ -62,7 +62,7 @@ Upon receiving notice from the Secretary of Labor under section 2275 of this tit
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb.13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -100,7 +100,7 @@ Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (
 
 &emsp;&emsp;"(A) sales or production, or both, of the firm have decreased absolutely, or
 
-&emsp;&emsp;"(B) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
+&emsp;&emsp;"(B) sales or production, or both, of an article that accounted for not less than 25 percent of thetotal production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
 
 &emsp;"(3) that increases of imports of articles like or directly competitive with articles produced by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 

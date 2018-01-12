@@ -56,7 +56,7 @@ In general.—The Secretary may convey the right, title, and interest of the Uni
 
 &emsp;&emsp;&emsp;(i) is a nonprofit organization, a State, or a political subdivision of a State;
 
-&emsp;&emsp;&emsp;(ii) agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos, polychlorinated biphenyls, or lead paint, after conveyance of the property;
+&emsp;&emsp;&emsp;(ii) agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos,polychlorinated biphenyls, or lead paint, after conveyance of the property;
 
 &emsp;&emsp;&emsp;(iii) provides a description and explanation of the intended use of the property to the Secretary for approval;
 

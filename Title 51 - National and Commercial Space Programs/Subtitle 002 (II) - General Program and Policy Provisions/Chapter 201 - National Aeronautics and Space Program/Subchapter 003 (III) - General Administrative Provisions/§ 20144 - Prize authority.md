@@ -132,7 +132,7 @@ Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, 
 
 In subsection (i)(2), subparagraph (A) is added, and the words "provisions known as the Anti-Deficiency Act" are substituted for "the Anti-Deficiency Act (31 U.S.C. 1341)", for clarity.
 
-In subsection (i)(4), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (i)(4), the words "Committee on Science and Technology" are substituted for "Committee onScience" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 
@@ -140,5 +140,5 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Purpose
 
-Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: "Prizes can play a useful rolein encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged."
+Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: "Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged."
 

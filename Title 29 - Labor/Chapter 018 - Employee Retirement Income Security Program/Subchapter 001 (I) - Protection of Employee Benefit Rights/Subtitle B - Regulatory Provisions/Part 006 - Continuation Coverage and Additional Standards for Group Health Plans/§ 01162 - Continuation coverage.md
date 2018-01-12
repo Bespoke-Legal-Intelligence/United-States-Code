@@ -72,7 +72,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 &emsp;&emsp;(B) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;In no event may the plan require the payment of any premium before the day which is 45days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 #### (4) No requirement of insurability
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
+Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made bythis section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
 
 Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 

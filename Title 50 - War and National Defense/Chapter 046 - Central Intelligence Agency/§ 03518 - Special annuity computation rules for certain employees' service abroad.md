@@ -22,7 +22,7 @@ For purposes of subsections (f) through (m) of section 8339 of title 5, an annui
 
 The provisions of subsection (a) of this section shall not apply to an officer or employee of the Central Intelligence Agency who would otherwise be entitled to a greater annuity computed under an otherwise applicable subsection of section 8339 of title 5.
 
-(June 20, 1949, ch. 227, §18, as added Pub. L. 101–193, title III, §305, Nov. 30, 1989, 103 Stat. 1704;amended Pub. L. 102–496, title VIII, §803(a)(2), Oct. 24, 1992, 106 Stat. 3252.)
+(June 20, 1949, ch. 227, §18, as added Pub. L. 101–193, title III, §305, Nov. 30, 1989, 103 Stat. 1704; amended Pub. L. 102–496, title VIII, §803(a)(2), Oct. 24, 1992, 106 Stat. 3252.)
 
 #### References in Text
 

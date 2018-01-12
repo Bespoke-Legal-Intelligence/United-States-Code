@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, the President, through the appropria
 
 Except as expressly provided in this chapter, funds available to the Panama Canal Commission may not be made available to any other agency as that term is defined in section 551 of title 5, nor may funds be authorized or appropriated for any function other than Panama Canal Commission activities.
 
-(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, §3529(3),Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, §3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 #### References in Text
 

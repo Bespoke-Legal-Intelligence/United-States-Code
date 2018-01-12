@@ -6,7 +6,7 @@ Except as otherwise provided in this section, in the case of a taxpayer who is a
 
 #### (b) Exception for interest, taxes, casualty losses, etc.
 
-Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard to its connection with his trade or business (or with his income-producing activity).
+Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard toits connection with his trade or business (or with his income-producing activity).
 
 #### (c) Exceptions for certain business or rental use; limitation on deductions for such use
 
@@ -208,7 +208,7 @@ Subsec. (c)(2). Pub. L. 104–188, §1113(a), substituted "inventory or product 
 
 <b>1988</b>—Subsec. (c)(5). Pub. L. 100–647 inserted "(or rental activity)" after "trade or business" in subpar. (B)(ii) and inserted at end "Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year."
 
-<b>1986</b>—Subsec. (c)(5)(B). Pub. L. 99–514, §143(c), added subpar. (B) and struck out former subpar. (B) whichread as follows: "the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used."
+<b>1986</b>—Subsec. (c)(5)(B). Pub. L. 99–514, §143(c), added subpar. (B) and struck out former subpar. (B) which read as follows: "the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used."
 
 Subsec. (c)(6). Pub. L. 99–514, §143(b), added par. (6).
 
@@ -228,7 +228,7 @@ Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 
 <b>1978</b>—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
-<b>1977</b>—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
+<b>1977</b>—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted"paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
 
 #### Effective Date of 1997 Amendment
 

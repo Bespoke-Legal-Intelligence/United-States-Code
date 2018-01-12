@@ -138,7 +138,7 @@ The Task Force shall, with the program developed under subsection (a), establish
 
 &emsp;&emsp;Not later than 18 months after October 26, 1996, the Assistant Secretary shall issue a report to the Congress that includes recommendations concerning—
 
-&emsp;&emsp;&emsp;(i) which of the methods that are identified under the study conducted under this paragraph are most promising with respect to preventing and reducing the dispersal of aquatic nuisance species; and
+&emsp;&emsp;&emsp;(i) which of the methods that are identified under the study conducted under thisparagraph are most promising with respect to preventing and reducing the dispersal of aquatic nuisance species; and
 
 &emsp;&emsp;&emsp;(ii) ways to incorporate those methods into ongoing operations of the United States Army Corps of Engineers that are conducted at the Chicago River Ship and Sanitary Canal.
 

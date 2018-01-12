@@ -24,7 +24,7 @@ Service as a member of the Board shall not constitute employment by, or the hold
 
 #### (1) Initial members
 
-&emsp;The Secretary shall appoint 9 persons who meet the criteria established under subsection (a) as the initial members of the Board anddesignate 1 of the members as the initial chairperson for a 2-year term.
+&emsp;The Secretary shall appoint 9 persons who meet the criteria established under subsection (a) as the initial members of the Board and designate 1 of the members as the initial chairperson for a 2-year term.
 
 #### (2) Terms of office
 

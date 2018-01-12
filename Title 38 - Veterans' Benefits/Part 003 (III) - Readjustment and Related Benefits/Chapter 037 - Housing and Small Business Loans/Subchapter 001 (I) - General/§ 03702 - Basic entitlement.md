@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) the Secretary has been released from liability as to the loan and, if the Secretary has suffered a loss on the loan, the loss has been paid in full.
 
-> The Secretary may, in any case involving circumstances the Secretary deems appropriate, waive one or more of the conditions prescribed in paragraph (1). The authority of the Secretary under this subsection to exclude an amount ofguaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).
+> The Secretary may, in any case involving circumstances the Secretary deems appropriate, waive one or more of the conditions prescribed in paragraph (1). The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).
 
 (c) An honorable discharge shall be deemed to be a certificate of eligibility to apply for a guaranteed loan. Any veteran who does not have a discharge certificate, or who received a discharge other than honorable, may apply to the Secretary for a certificate of eligibility. Upon making a loan guaranteed or insured under this chapter, the lender shall forthwith transmit to the Secretary a report thereon in such detail as the Secretary may, from time to time, prescribe. Where the loan is guaranteed, the Secretary shall provide the lender with a loan guaranty certificate or other evidence of the guaranty. The Secretary shall also endorse on the veteran's discharge, or eligibility certificate, the amount and type of guaranty used, and the amount, if any, remaining. Nothing in this chapter shall preclude the assignment of any guaranteed loan or the security therefor.
 
@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 101–237, §310, added par. (3).
 
 Subsecs. (c) to (e). Pub. L. 101–237, §313(b)(1), substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted"The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter" for "Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter", substituted "in paragraph (2)" for "in the preceding sentence, or in section 1818 of this title," and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted "The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter" for "Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter", substituted "in paragraph (2)" for "in the preceding sentence, or in section 1818 of this title," and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
 
 Subsec. (a)(2), (3). Pub. L. 100–322, §415(a)(1)(F), added pars. (2) and (3).
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547
 
-Pub. L. 102–547, §2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans' Affairs of Senate and House of Representatives no later than Dec.31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans' Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### References in Other Laws
 

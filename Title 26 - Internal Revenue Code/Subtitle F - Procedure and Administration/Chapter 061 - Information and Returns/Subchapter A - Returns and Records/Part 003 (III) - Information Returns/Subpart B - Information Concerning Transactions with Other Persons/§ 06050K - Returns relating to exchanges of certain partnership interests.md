@@ -30,7 +30,7 @@ Every partnership required to make a return under subsection (a) shall furnish t
 
 &emsp;A partnership shall not be required to make a return under this section with respect to any exchange until the partnership is notified of such exchange.
 
-(Added Pub. L. 98–369, div. A, title I, §149(a), July 18, 1984, 98 Stat. 689; amended Pub. L.99–514, title XV, §1501(c)(13), title XVIII, §1811(b)(2), Oct. 22, 1986, 100 Stat. 2739, 2833; Pub. L. 104–168, title XII, §1201(a)(11), July 30, 1996, 110 Stat. 1470.)
+(Added Pub. L. 98–369, div. A, title I, §149(a), July 18, 1984, 98 Stat. 689; amended Pub. L. 99–514, title XV, §1501(c)(13), title XVIII, §1811(b)(2), Oct. 22, 1986, 100 Stat. 2739, 2833; Pub. L. 104–168, title XII, §1201(a)(11), July 30, 1996, 110 Stat. 1470.)
 
 #### Amendments
 

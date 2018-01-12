@@ -46,6 +46,10 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 Pub. L. 96–152, §7, Dec. 20, 1979, 93 Stat. 1100, provided that: "This Act \[enacting section 1902 of this title and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\]."
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–45, §1, Aug. 4, 2017, 131 Stat. 956, provided that: "This Act \[amending sections 1951, 1952, and 1954 of this title\] may be cited as the 'Wounded Officers Recovery Act of 2017'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–145, §1, Mar. 4, 2010, 124 Stat. 49, provided that: "This Act \[see Tables for classification\] may be cited as the 'United States Capitol Police Administrative Technical Corrections Act of 2009'."
@@ -68,7 +72,7 @@ Capitol Police Board; Composition; Redefining Mission.—
 
 &emsp;"(1)
 
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcementcapacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 &emsp;"(2)
 
@@ -284,7 +288,7 @@ Treatment of Alleged Violations of Certain Employment Laws With Respect to Trans
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law and except as provided in paragraph (3), inthe case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
+In general.—Notwithstanding any other provision of law and except as provided in paragraph (3), in the case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
 
 &emsp;&emsp;"(A) The individual may not initiate any procedure which is available for the consideration of the alleged violation of the covered law which is provided for employees of the Library of Congress under the covered law.
 
@@ -440,7 +444,7 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended byPub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

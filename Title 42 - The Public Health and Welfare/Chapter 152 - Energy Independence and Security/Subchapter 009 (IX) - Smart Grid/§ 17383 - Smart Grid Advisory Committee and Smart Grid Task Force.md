@@ -18,7 +18,7 @@
 
 #### (1) Establishment
 
-&emsp;The Assistant Secretary of the Office of Electricity Delivery and Energy Reliability shall establish, within 90 days of December 19, 2007, a Smart Grid Task Force composed of designated employees from the various divisions of that office who have responsibilities related to the transition to smart-grid technologies and practices. The Assistant Secretary or his designee shall be identified as the Director of the Smart Grid Task Force. The Chairman of the Federal Energy Regulatory Commission and the Director of the National Institute of Standards and Technology shall each designate at least one employee to participate on the Smart Grid Task Force. Other members may come from other agencies at theinvitation of the Assistant Secretary or the nomination of the head of such other agency. The Smart Grid Task Force shall, without disrupting the work of the Divisions or Offices from which its members are drawn, provide an identifiable Federal entity to embody the Federal role in the national transition toward development and use of smart grid technologies.
+&emsp;The Assistant Secretary of the Office of Electricity Delivery and Energy Reliability shall establish, within 90 days of December 19, 2007, a Smart Grid Task Force composed of designated employees from the various divisions of that office who have responsibilities related to the transition to smart-grid technologies and practices. The Assistant Secretary or his designee shall be identified as the Director of the Smart Grid Task Force. The Chairman of the Federal Energy Regulatory Commission and the Director of the National Institute of Standards and Technology shall each designate at least one employee to participate on the Smart Grid Task Force. Other members may come from other agencies at the invitation of the Assistant Secretary or the nomination of the head of such other agency. The Smart Grid Task Force shall, without disrupting the work of the Divisions or Offices from which its members are drawn, provide an identifiable Federal entity to embody the Federal role in the national transition toward development and use of smart grid technologies.
 
 #### (2) Mission
 
@@ -33,4 +33,8 @@ There are authorized to be appropriated for the purposes of this section such su
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

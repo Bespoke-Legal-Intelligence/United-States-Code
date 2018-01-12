@@ -6,7 +6,7 @@
 
 &emsp;For purposes of this title, gain or loss of a nonresident alien individual or a foreign corporation from the disposition of a United States real property interest shall be taken into account—
 
-&emsp;&emsp;(A) in the case of a nonresident alien individual, under section 871(B)(1), or
+&emsp;&emsp;(A) in the case of a nonresident alien individual, under section 871(B)(1),<sup>1</sup> or
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
+&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
 
 &emsp;&emsp;&emsp;(i) the individual's alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;Paragraph (1)(A)(ii) shall be applied by substituting "any corporation (whether foreign or domestic)" for "any domestic corporation".
 
-#### (B) Interests held by partnerships, etc.
+#### (B) Assets held by partnerships, etc.
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, assets held by a partnership, trust, or estate shall be treated as held proportionately by its partners or beneficiaries. Any asset treated as held by a partner or beneficiary by reason of this subparagraph which is used or held for use by the partnership, trust, or estate in a trade or business shall be treated as so used or held by the partner or beneficiary. Any asset treated as held by a partner or beneficiary by reason of this subparagraph shall be so treated for purposes of applying this subparagraph successively to partnerships, trusts, or estates which are above the first partnership, trust, or estate in a chain thereof.
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
+&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, ifany corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
 
 &emsp;&emsp;&emsp;(i) the stock which the first corporation holds in the second corporation shall not be taken into account,
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 #### (4) Exclusive method of claiming nondiscrimination
 
-&emsp;The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1145, and section 6039C.
+&emsp;The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1445, and section 6039C.
 
 #### (j) Certain contributions to capital
 
@@ -352,7 +352,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;&emsp;(i) in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
 
-&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) <sup>2</sup> as a dividend from a real estate investment trust notwithstanding any other provision of this title.
 
 #### (D) Applicable investor
 
@@ -386,7 +386,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;For purposes of this subsection, the term "qualified collective investment vehicle" means a foreign person—
 
-&emsp;&emsp;&emsp;(i) which, under the comprehensive income tax treaty described in subparagraph (A)(i), is eligible for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
+&emsp;&emsp;&emsp;(i) which, under the comprehensive income tax treaty described in subparagraph\(A)(i), is eligible for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
 
 &emsp;&emsp;&emsp;(ii) which—
 
@@ -460,13 +460,17 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6),formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103; Pub. L. 115–97, title I, §12001(b)(3)(D), Dec. 22, 2017, 131 Stat. 2093.)
 
 #### References in Text
 
 Section 2 of the Investment Company Act of 1940, referred to in subsec. (h)(4)(E)(ii)(II), is classified to section 80a–2 of Title 15, Commerce and Trade.
 
+Section 857(b)(3)(F), referred to in subsec. (k)(2)(C)(ii), was redesignated section 857(b)(3)(E) and a new subsec. (b)(3)(F) added by Pub. L. 115–97, title I, §13001(b)(2)(K)(i), (iv), Dec. 22, 2017, 131 Stat. 2096, 2097.
+
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–97 substituted "section 55(b)(1)" for "section 55(b)(1)(A)" in introductory provisions.
 
 <b>2015</b>—Subsec. (c)(1)(A). Pub. L. 114–113, §322(a)(2)(A), inserted "or subsection (k)" after "subparagraph (B)" in introductory provisions.
 
@@ -562,9 +566,13 @@ Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted "Assets" for "Interest
 
 Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted "Exceptions" for "Exception where there is a carryover basis" in heading, inserted introductory text "Gain shall not be recognized under subparagraph (A)", inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation" for subpar. (B) provision "Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation."
 
-Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a United States real property interest" for "has a permanent establishment in the United States", in par. (1)(B) substituted "treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest" for "treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities", in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted "such other conditions as the Secretary may prescribe by regulationswith respect to the corporation or its shareholders" for "such conditions as may be prescribed by the Secretary", and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
+Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a United States real property interest" for "has a permanent establishment in the United States", in par. (1)(B) substituted "treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest" for "treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities", in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted "such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders" for "such conditions as may be prescribed by the Secretary", and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
 Subsecs. (j) to (l). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (l).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -668,7 +676,7 @@ Amounts withheld on or before date of enactment.—In the case of a regulated in
 
 &emsp;"(A) which makes a distribution after December 31, 2007, and before October 4, 2008, and
 
-&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold withrespect to such distribution under section 1445 of such Code,
+&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
 
 > such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury."
 
@@ -740,7 +748,7 @@ For applicability of amendment by section 701(e)(4)(G) of Pub. L. 99–514 notwi
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Applying Section 897
 
@@ -807,4 +815,8 @@ Nontaxed gain.—For purposes of paragraph (1), the term 'nontaxed gain' means a
 &emsp;"(A) because the disposition occurred before June 19, 1980, or
 
 &emsp;"(B) because of any treaty obligation of the United States."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "871(b)(1),".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

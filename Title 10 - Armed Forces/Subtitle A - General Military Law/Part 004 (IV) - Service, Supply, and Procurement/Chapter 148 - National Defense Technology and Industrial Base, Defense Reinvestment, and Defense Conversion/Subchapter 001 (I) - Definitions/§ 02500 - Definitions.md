@@ -82,7 +82,7 @@ Par. (15). Pub. L. 111–383, §895(a)(4), added par. (15).
 
 <b>1997</b>—Pub. L. 105–85, §371(b)(3), renumbered section 2491 of this title as this section.
 
-Par. (8). Pub. L. 105–85, §1073(a)(53), substituted "that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title." for "that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title."
+Par. (8). Pub. L. 105–85, §1073(a)(53), substituted "that is identified under section 2505 of this title as criticalfor attaining the national security objectives set forth in section 2501(a) of this title." for "that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title."
 
 <b>1996</b>—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
 
@@ -124,7 +124,7 @@ Pub. L. 114–92, div. A, title VIII, §897, Nov. 25, 2015, 129 Stat. 954, provi
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
-Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect onthe day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
+Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
 
 #### Congressional Findings
 
@@ -154,7 +154,7 @@ Pub. L. 102–484, div. D, title XLII, §4201, Oct. 23, 1992, 106 Stat. 2659, pr
 
 #### Transition Provision; "Defense Critical Technology" Defined
 
-Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defense critical technology" for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
+Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defensecritical technology" for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

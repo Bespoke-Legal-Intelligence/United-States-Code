@@ -92,7 +92,7 @@ Elements.—Each report required by subsection (a) shall include, with respect t
 
 "(c)
 
-Briefings by Comptroller General.—The Comptroller General shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on a report submitted under subsection (a)—
+Briefings by Comptroller General.—The Comptroller General shall provide to the congressionaldefense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on a report submitted under subsection (a)—
 
 &emsp;"(1) in the case of the first such report, not later than 30 days after receiving that report; and
 
@@ -104,67 +104,7 @@ Termination.—The requirement under subsection (a) shall terminate with respect
 
 #### Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments
 
-Pub. L. 113–66, div. A, title XVI, §1602(b), Dec. 26, 2013, 127 Stat. 943, provided that:
-
-"(1)
-
-Certification.—
-
-&emsp;"(A)
-
-In general.—The President may not authorize or permit the construction of a global navigation satellite system ground monitoring station directly or indirectly controlled by a foreign government (including a ground monitoring station owned, operated, or controlled on behalf of a foreign government) in the territory of the United States unless the Secretary of Defense and the Director of National Intelligence jointly certify to the appropriate congressional committees that such ground monitoring station will not possess the capability or potential to be used for the purpose of gathering intelligence in the United States or improving any foreign weapon system.
-
-&emsp;"(B)
-
-Form.—Each certification under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
-
-"(2)
-
-National security waiver.—The Secretary of Defense and the Director of National Intelligence may jointly waive the certification requirement in paragraph (1) for a ground monitoring station if—
-
-&emsp;"(A) the Secretary and the Director jointly determine that the waiver is in the vital interests of the national security of the United States; and
-
-&emsp;"(B) the Secretary and the Director ensure that—
-
-&emsp;&emsp;"(i) all data collected or transmitted from ground monitoring stations covered by the waiver are not encrypted;
-
-&emsp;&emsp;"(ii) all persons involved in the construction, operation, and maintenance of such ground monitoring stations are United States persons;
-
-&emsp;&emsp;"(iii) such ground monitoring stations are not located in geographic proximity to sensitive United States national security sites;
-
-&emsp;&emsp;"(iv) the United States approves all equipment to be located at such ground monitoring stations;
-
-&emsp;&emsp;"(v) appropriate actions are taken to ensure that any such ground monitoring stations do not pose a cyber espionage or other threat, including intelligence or counterintelligence, to the national security of the United States; and
-
-&emsp;&emsp;"(vi) any improvements to such ground monitoring stations do not reduce or compete with the advantages of Global Positioning System technology for users.
-
-"(3)
-
-Waiver report.—For each waiver under paragraph (2), the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, shall jointly submit to the appropriate congressional committees a report containing—
-
-&emsp;"(A) the reason why it is not possible to provide the certification under paragraph (1) for the ground monitoring stations covered by such waiver;
-
-&emsp;"(B) an assessment of the impact of the exercise of authority under paragraph (2) with respect to such ground monitoring stations on the national security of the United States;
-
-&emsp;"(C) a description of the means to be used to mitigate any such impact to the United States for the duration that such ground monitoring stations are operated in the territory of the United States; and
-
-&emsp;"(D) any other information in connection with the waiver that the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, consider appropriate.
-
-"(4)
-
-Notice.—Not later than 30 days before the exercise of the authority to waive under paragraph (2) the certification requirement under paragraph (1) for a ground monitoring station, the Secretary of Defense and the Director of National Intelligence shall jointly provide to the appropriate congressional committees notice of the exercise of such authority and the report required under paragraph (3) with respect to such ground monitoring station.
-
-"(5)
-
-Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
-
-&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
-
-&emsp;"(B) the Committee on Armed Services, the committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
-
-"(6)
-
-Sunset.—Effective on the date that is five years after the date of the enactment of this Act \[Dec. 26, 2013\], paragraphs (1) through (5) are repealed."
+Pub. L. 113–66, div. A, title XVI, §1602(b), Dec. 26, 2013, 127 Stat. 943, which limited construction within United States territory of global navigation satellite system ground monitoring stations controlled by foreign governments, was transferred to subsec. (a) of section 2279c of this title by Pub. L. 115–91, div. A, title XVI, §1602(b)(1), Dec. 12, 2017, 131 Stat. 1722.
 
 #### Use of Funds for Global Positioning System
 
@@ -304,7 +244,7 @@ Plan.—Subsection (a) shall cease to apply upon submission by the Secretary of 
 
 Pub. L. 103–160, div. A, title I, §152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, §218(e), Oct. 17, 1998, 112 Stat. 1952; Pub. L. 109–163, div. A, title II, §260(a), Jan. 6, 2006, 119 Stat. 3185, provided that: "After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver."
 
-\[Pub. L. 109–163, div. A, title II, §260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: "The amendment made by subsection (a) \[amending section 152(b) of Pub. L. 103–160, set out above\] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act \[Jan. 6, 2006\] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fireweapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a)."\]
+\[Pub. L. 109–163, div. A, title II, §260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: "The amendment made by subsection (a) \[amending section 152(b) of Pub. L. 103–160, set out above\] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act \[Jan. 6, 2006\] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a)."\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

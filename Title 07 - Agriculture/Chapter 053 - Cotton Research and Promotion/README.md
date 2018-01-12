@@ -21,6 +21,9 @@
 | [2117\.](%C2%A7%2002117%20-%20Separability.md) | Separability. |
 | [2118\.](%C2%A7%2002118%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2119\.](%C2%A7%2002119%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93366%2C%20%C2%A71%2C%20July%2014%2C%201976%2C%2090%20Stat.%20991.md) | Repealed. |
+| [2120\.](%C2%A7%2002120%20-%20Cotton%3B%20investigation%20of%20new%20uses%3B%20cooperation%20with%20State%20and%20other%20agencies.md) | Cotton; investigation of new uses; cooperation with State and other agencies. |
+| [2121\.](%C2%A7%2002121%20-%20Cotton%20ginning%20investigations%3B%20publication%20of%20results%3B%20cooperation%20with%20Federal%20and%20State%20departments%20and%20agencies.md) | Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies. |
+| [2122\.](%C2%A7%2002122%20-%20Authorization%20of%20appropriations%20for%20cotton%20ginning%20studies.md) | Authorization of appropriations for cotton ginning studies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,3 +51,6 @@
 - [&sect; 02117 - Separability](%C2%A7%2002117%20-%20Separability.md)
 - [&sect; 02118 - Authorization of appropriations](%C2%A7%2002118%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02119 - Repealed. Pub. L. 94&#8211;366, &sect;1, July 14, 1976, 90 Stat. 991](%C2%A7%2002119%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93366%2C%20%C2%A71%2C%20July%2014%2C%201976%2C%2090%20Stat.%20991.md)
+- [&sect; 02120 - Cotton; investigation of new uses; cooperation with State and other agencies](%C2%A7%2002120%20-%20Cotton%3B%20investigation%20of%20new%20uses%3B%20cooperation%20with%20State%20and%20other%20agencies.md)
+- [&sect; 02121 - Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies](%C2%A7%2002121%20-%20Cotton%20ginning%20investigations%3B%20publication%20of%20results%3B%20cooperation%20with%20Federal%20and%20State%20departments%20and%20agencies.md)
+- [&sect; 02122 - Authorization of appropriations for cotton ginning studies](%C2%A7%2002122%20-%20Authorization%20of%20appropriations%20for%20cotton%20ginning%20studies.md)

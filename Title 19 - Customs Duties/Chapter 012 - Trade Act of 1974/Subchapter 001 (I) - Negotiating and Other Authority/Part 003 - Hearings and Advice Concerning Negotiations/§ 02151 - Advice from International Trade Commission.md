@@ -12,7 +12,7 @@ Within 6 months after receipt of a list under subsection (a) or, in the case of 
 
 #### (c) Additional investigations and reports requested by President or Trade Representative
 
-In addition, in order to assist the President in his determination whether to enter into any agreement under section 2133 of this title or section 4202(a) of this title, or how to develop trade policy, priorities or other matters (such as priorities for actions to improve opportunities in foreign markets), the Commission shall make such investigations and reports as may be requested by the President or the United States Trade Representative on matters such as effects of modification of any barrier to (or other distortion of) international trade on domestic workers, industries or sectors, purchasers, prices and quantities of articles in the United States.
+In addition, in order to assist the President in his determination whether to enter into any agreement under section 2133 of this title or section 4202(a) of this title, or how to develop trade policy, priorities or other matters (such as priorities for actions to improve opportunities in foreign markets), the Commission shall make such investigations and reports as may be requested by the President or the United StatesTrade Representative on matters such as effects of modification of any barrier to (or other distortion of) international trade on domestic workers, industries or sectors, purchasers, prices and quantities of articles in the United States.
 
 #### (d) Commission steps in preparing its advice to President
 
@@ -22,7 +22,7 @@ In preparing its advice to the President under this section, the Commission shal
 
 &emsp;(2) analyze the production, trade, and consumption of each like or directly competitive article or service, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production;
 
-&emsp;(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possiblechanges on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
+&emsp;(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possible changes on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
 
 &emsp;(4) make special studies (including studies of real wages paid in foreign supplying countries), whenever deemed to be warranted, of particular proposed modifications affecting United States manufacturing, agriculture, mining, fishing, labor, consumers, services, intellectual property and investment, using to the fullest extent practicable United States Government facilities abroad and appropriate personnel of the United States.
 

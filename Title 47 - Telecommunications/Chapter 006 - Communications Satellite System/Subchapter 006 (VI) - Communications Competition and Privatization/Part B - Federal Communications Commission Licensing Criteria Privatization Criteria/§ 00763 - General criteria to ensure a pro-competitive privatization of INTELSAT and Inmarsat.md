@@ -12,7 +12,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 #### (2) Independence
 
-&emsp;The privatized successor entities and separated entities of INTELSAT and Inmarsat shall operate as independent commercial entities, and have a pro-competitive ownership structure. The successor entities and separated entities of INTELSAT and Inmarsat shall conduct an initial public offering in accordance with paragraph (5) to achieve such independence. Such offering shall substantially dilute the aggregate ownership of such entities by such signatories or former signatories. In determining whether a public offering attains such substantial dilution, the Commission shall take into account the purposes and intent, privatization criteria, and other provisions of this subchapter, as well as market conditions. No intergovernmental organization, including INTELSAT or Inmarsat, shall have—
+&emsp;The privatized successor entities and separated entities of INTELSAT and Inmarsat shall operate as independent commercial entities, and have a pro-competitive ownership structure. The successor entities and separated entities of INTELSAT and Inmarsat shall conduct an initial public offering in accordance with paragraph (5) to achieve suchindependence. Such offering shall substantially dilute the aggregate ownership of such entities by such signatories or former signatories. In determining whether a public offering attains such substantial dilution, the Commission shall take into account the purposes and intent, privatization criteria, and other provisions of this subchapter, as well as market conditions. No intergovernmental organization, including INTELSAT or Inmarsat, shall have—
 
 &emsp;&emsp;(A) an ownership interest in INTELSAT or the successor or separated entities of INTELSAT; or
 
@@ -44,7 +44,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2005, except that the Commission may extend this deadline to not later than December 31, 2004.
 
-&emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed fortrading on one or more major stock exchanges with transparent and effective securities regulation.
+&emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
 
 &emsp;&emsp;(C) A majority of the members of the board of directors of any successor entity or separated entity shall not be directors, employees, officers, or managers or otherwise serve as representatives of any signatory or former signatory. No member of the board of directors of any successor or separated entity shall be a director, employee, officer or manager of any intergovernmental organization remaining after the privatization.
 
@@ -118,7 +118,7 @@ Par. (5)(F), (G). Pub. L. 108–371, §1(2), added subpars. (F) and (G).
 
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 
-Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and specialimmigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
+Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and special immigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

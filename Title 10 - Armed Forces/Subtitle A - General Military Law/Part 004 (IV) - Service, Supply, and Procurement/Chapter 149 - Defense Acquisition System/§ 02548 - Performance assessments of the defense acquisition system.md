@@ -8,7 +8,7 @@ Performance Assessments Required.—The Secretary of Defense, acting through the
 
 &emsp;(2) assisting senior officials of the Department of Defense in identifying and developing lessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
 
-&emsp;(3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under section 1701a of this title.
+&emsp;(3) assisting senior officials of the Department of Defense in developing acquisitionworkforce excellence under section 1701a of this title.
 
 (b)
 
@@ -24,7 +24,7 @@ Areas Considered in Performance Assessments.—(1) Each performance assessment c
 
 &emsp;&emsp;(i) the extent of competition and the use of exceptions to competition requirements;
 
-&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation ofsmall business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
+&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation of small business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
 
 &emsp;&emsp;(iii) the quality of market research;
 
@@ -80,25 +80,21 @@ Performance Goals Under Government Performance and Results Act of 1993.—The an
 
 (e)
 
-Reporting Requirements.—Beginning with fiscal year 2012—
+Reporting Requirement.—The annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31 shall address the Department's success in achieving performance goals established pursuant to such section for elements of the defense acquisition system.
 
-&emsp;(1) the annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31 shall address the Department's success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
-
-&emsp;(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) <sup>1</sup> of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
-
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, §1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, §1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, §1081(a)(41), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### References in Text
 
 The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
-
-Section 2438(f) of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 114–92, div. A, title X, §1077(b), Nov. 25, 2015, 129 Stat. 998.
 
 #### Prior Provisions
 
 A prior section 2548 was renumbered section 2558 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–91 substituted "Requirement" for "Requirements" in heading, struck out introductory provisions "Beginning with fiscal year 2012—", substituted "The annual report prepared by the Secretary" for "(1) the annual report prepared by the Secretary", and struck out par. (2) which read as follows: "the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments."
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(f)(30)(A)(i), substituted "The Secretary" for "Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary" in introductory provisions.
 
@@ -109,6 +105,4 @@ Subsec. (d). Pub. L. 112–239, §1076(f)(30)(B), inserted "and" after "Governme
 Subsec. (e)(1). Pub. L. 112–239, §1076(f)(30)(C), struck out ", United States Code," after "title 31".
 
 Subsec. (e)(2). Pub. L. 112–239, §1076(d)(5), substituted "section 2438(f) of this title" for "section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 (10 U.S.C. 2430 note),".
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

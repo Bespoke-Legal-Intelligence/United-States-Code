@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interestby no more than 1 heir, so that the interest does not further fractionate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the tribal rule does not apply to any interest disposed of by a valid will;
 
@@ -112,7 +112,7 @@
 
 #### (3) Right of representation
 
-&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issue who survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
+&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issuewho survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
 
 #### (4) Special rule relating to survival
 
@@ -200,7 +200,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other duly adopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other dulyadopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
 
 #### (II) Effect
 
@@ -348,7 +348,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 #### (3) Limitation on effect of paragraph
 
-&emsp;Except to the extent that this chapter would amend or otherwise affect the application of aFederal law specified or described in paragraph (1) or (2), nothing in paragraph (2) limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
+&emsp;Except to the extent that this chapter would amend or otherwise affect the application of a Federal law specified or described in paragraph (1) or (2), nothing in paragraph (2) limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
 
 #### (h) Rules of interpretation
 
@@ -514,7 +514,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 or more children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
+&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 ormore children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
 
 #### (ii) Adopted heirs
 
@@ -568,7 +568,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 &emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
 
-&emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the propertyor as of the time of the decedent's death, whichever occurs first.
+&emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent's death, whichever occurs first.
 
 &emsp;(C) If the recipient of the trust personalty predeceases the decedent, the property shall not be treated as an advancement or taken into account in computing the division and distribution of the decedent's intestate estate unless the decedent's contemporaneous writing provides otherwise.
 
@@ -584,7 +584,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Combined notices
 
-&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be provided with the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
+&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be providedwith the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
 
 #### (8) Renunciation or disclaimer of interests
 
@@ -792,7 +792,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### (B) Holding in trust
 
-&emsp;&emsp;Proceeds described in subparagraph (A) shall be deposited and held in an account astrust personalty if the interest sold would otherwise pass to—
+&emsp;&emsp;Proceeds described in subparagraph (A) shall be deposited and held in an account as trust personalty if the interest sold would otherwise pass to—
 
 &emsp;&emsp;&emsp;(i) the heir, by intestate succession under subsection (a); or
 

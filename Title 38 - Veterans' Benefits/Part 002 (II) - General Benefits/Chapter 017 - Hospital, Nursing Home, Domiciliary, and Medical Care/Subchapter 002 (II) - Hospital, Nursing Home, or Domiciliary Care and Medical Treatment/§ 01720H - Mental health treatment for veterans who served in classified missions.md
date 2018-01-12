@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) in the course of serving in the Armed Forces, participated in a sensitive mission or served in a sensitive unit.
 
-&emsp;(3) The term "sensitive mission" means a mission of the Armed Forces that, at the timeat which an eligible veteran seeks treatment, is classified.
+&emsp;(3) The term "sensitive mission" means a mission of the Armed Forces that, at the time at which an eligible veteran seeks treatment, is classified.
 
 &emsp;(4) The term "sensitive unit" has the meaning given that term in section 130b(c)(4) of title 10.
 

@@ -6,7 +6,7 @@ If any portion of the qualified business credits determined for any taxable year
 
 #### (b) Taxpayer's dying or ceasing to exist
 
-If a taxpayer dies or ceases to exist before the first taxable year following the last taxable yearfor which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
 
 #### (c) Qualified business credits
 
@@ -18,7 +18,7 @@ For purposes of this section, the term "qualified business credits" means—
 
 &emsp;(3) the alcohol fuels credit determined under section 40(a),
 
-&emsp;(4) the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) for taxable years beginning after December 31, 1988,
+&emsp;(4) the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) <sup>1</sup> for taxable years beginning after December 31, 1988,
 
 &emsp;(5) the enhanced oil recovery credit determined under section 43(a),
 
@@ -53,6 +53,10 @@ Subsection (a) shall be applied by substituting "an amount equal to 50 percent o
 #### Codification
 
 Another section 339(e) of Pub. L. 108–357 amended the table of sections for subpart D of part IV of subchapter A of this chapter.
+
+#### References in Text
+
+Section 280C(c)(3), referred to in subsec. (c)(4), was redesignated section 280C(c)(2) by Pub. L. 115–97, title I, §13206(d)(2)(C), Dec. 22, 2017, 131 Stat. 2113.
 
 #### Amendments
 
@@ -209,4 +213,6 @@ Certain projects with respect to historic structures.—In the case of any certi
 #### Savings Provision
 
 For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

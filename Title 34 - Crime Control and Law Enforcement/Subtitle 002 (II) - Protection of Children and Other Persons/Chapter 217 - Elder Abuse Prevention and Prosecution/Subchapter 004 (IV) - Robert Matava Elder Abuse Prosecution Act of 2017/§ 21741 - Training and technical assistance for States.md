@@ -1,0 +1,16 @@
+### §21741. Training and technical assistance for States
+
+The Attorney General, in consultation with the Secretary of Health and Human Services andin coordination with the Elder Justice Coordinating Council (established under section 1397k of title 42), shall create, compile, evaluate, and disseminate materials and information, and provide the necessary training and technical assistance, to assist States and units of local government in—
+
+&emsp;(1) investigating, prosecuting, pursuing, preventing, understanding, and mitigating the impact of—
+
+&emsp;&emsp;(A) physical, sexual, and psychological abuse of elders;
+
+&emsp;&emsp;(B) exploitation of elders, including financial abuse and scams targeting elders; and
+
+&emsp;&emsp;(C) neglect of elders; and
+
+&emsp;(2) assessing, addressing, and mitigating the physical and psychological trauma to victims of elder abuse.
+
+(Pub. L. 115–70, title IV, §403, Oct. 18, 2017, 131 Stat. 1214.)
+

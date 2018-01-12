@@ -12,7 +12,7 @@ No hazardous waste may be disposed of by underground injection—
 
 #### (b) Actions under Comprehensive Environmental Response, Compensation, and Liability Act
 
-Subsection (a) of this section shall not apply to the injection of contaminated ground water into the aquifer from which it was withdrawn, if—
+Subsection (a) shall not apply to the injection of contaminated ground water into the aquifer from which it was withdrawn, if—
 
 &emsp;(1) such injection is—
 
@@ -28,7 +28,7 @@ Subsection (a) of this section shall not apply to the injection of contaminated 
 
 #### (c) Enforcement
 
-In addition to enforcement under the provisions of this chapter, the prohibitions established under paragraphs (1) and (2) of subsection (a) of this section shall be enforceable under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] in any State—
+In addition to enforcement under the provisions of this chapter, the prohibitions established under paragraphs (1) and (2) of subsection (a) shall be enforceable under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] in any State—
 
 &emsp;(1) which has adopted identical or more stringent prohibitions under part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\] and which has assumed primary enforcement responsibility under that Act for enforcement of such prohibitions; or
 
@@ -36,7 +36,7 @@ In addition to enforcement under the provisions of this chapter, the prohibition
 
 #### (d) Definitions
 
-The terms "primary enforcement responsibility", "underground source of drinking water", "formation" and "well" have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act \[42U.S.C. 300f et seq.\]. The term "Safe Drinking Water Act" means title XIV of the Public Health Service Act.
+The terms "primary enforcement responsibility", "underground source of drinking water", "formation" and "well" have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\]. The term "Safe Drinking Water Act" means title XIV of the Public Health Service Act.
 
 (Pub. L. 89–272, title II, §3020, formerly §7010, as added Pub. L. 98–616, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3273; renumbered §3020, and amended Pub. L. 99–339, title II, §201(c), June 19, 1986, 100 Stat. 654.)
 

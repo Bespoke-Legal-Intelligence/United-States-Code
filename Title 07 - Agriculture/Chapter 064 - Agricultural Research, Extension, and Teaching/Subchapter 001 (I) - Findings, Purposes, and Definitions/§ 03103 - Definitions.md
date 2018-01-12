@@ -124,7 +124,7 @@ Insular area.—The term "insular area" means—
 
 &emsp;&emsp;(H) the Virgin Islands of the United States.
 
-&emsp;(13) The term "land-grant colleges and universities" means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
+&emsp;(13) The term "land-grant colleges and universities" means those institutions eligible toreceive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
 
 &emsp;(14) NLGCA
 
@@ -212,7 +212,7 @@ The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act
 
 Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 321 of this title and Tables.
 
 The Equity in Educational Land-Grant Status Act of 1994, referred to in par. (14)(C)(ii)(III), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, which is set out as a note under section 301 of this title. For complete classification of this Act to the Code, see Tables.
 

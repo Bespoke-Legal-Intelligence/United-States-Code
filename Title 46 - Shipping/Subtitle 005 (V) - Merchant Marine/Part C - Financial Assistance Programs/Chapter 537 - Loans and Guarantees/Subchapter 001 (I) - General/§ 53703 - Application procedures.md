@@ -82,7 +82,7 @@ Deadline for action on application.—
 
 &emsp;&emsp;"(A)
 
-Traditional applications.—In the comprehensive plan the Administrator will ensure thatwithin the 90-day period following receipt of all pertinent documentation required for review of a traditional loan application, the application shall be either accepted or rejected.
+Traditional applications.—In the comprehensive plan the Administrator will ensure that within the 90-day period following receipt of all pertinent documentation required for review of a traditional loan application, the application shall be either accepted or rejected.
 
 &emsp;&emsp;"(B)
 

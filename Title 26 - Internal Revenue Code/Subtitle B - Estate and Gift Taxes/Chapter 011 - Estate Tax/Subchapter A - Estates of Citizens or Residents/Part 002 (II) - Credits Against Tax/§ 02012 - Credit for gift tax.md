@@ -34,7 +34,7 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 #### (e) Section inapplicable to gifts made after December 31, 1976
 
-No credit shall be allowed under this section with respect to the amount of any tax paidunder chapter 12 on any gift made after December 31, 1976.
+No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, §102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(1), title XX, §2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, §403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301; Pub. L. 107–16, title V, §532(c)(1), June 7, 2001, 115 Stat. 73.)
 

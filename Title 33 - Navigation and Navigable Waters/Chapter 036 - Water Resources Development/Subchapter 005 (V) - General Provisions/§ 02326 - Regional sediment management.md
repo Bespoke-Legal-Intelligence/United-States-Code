@@ -90,7 +90,7 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 The Secretary may—
 
-&emsp;(1) cooperate with any State or group of States in the preparation of a comprehensiveState or regional sediment management plan within the boundaries of the State or among States;
+&emsp;(1) cooperate with any State or group of States in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State or among States;
 
 &emsp;(2) encourage State participation in the implementation of the plan; and
 
@@ -232,7 +232,7 @@ Membership.—The membership of each regional beneficial use team shall include�
 
 &emsp;&emsp;&emsp;"(ii) representatives of relevant State and local agencies; and
 
-&emsp;&emsp;&emsp;"(iii) representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section.
+&emsp;&emsp;&emsp;"(iii) representatives of Federal agencies and such other entities as the Secretary determinesappropriate, consistent with the purposes of this section.
 
 "(d)
 

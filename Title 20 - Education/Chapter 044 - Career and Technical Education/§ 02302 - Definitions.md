@@ -158,7 +158,7 @@ Unless otherwise specified, in this chapter:
 
 #### (20) Non-traditional fields
 
-&emsp;The term "non-traditional fields" means occupations or fields of work, including careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term "non-traditional fields" means occupations or fields of work, including careersin computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
 
 #### (21) Outlying area
 
@@ -256,7 +256,7 @@ Unless otherwise specified, in this chapter:
 
 #### References in Text
 
-The Social Security Act, referred to in par. (10)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (10)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (13)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 

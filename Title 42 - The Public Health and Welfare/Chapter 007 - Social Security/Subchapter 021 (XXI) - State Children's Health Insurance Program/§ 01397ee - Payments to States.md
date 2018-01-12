@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;The number of first tier above baseline child enrollees for a State for a fiscal year under subchapter XIX is equal to the number (if any, as determined by the Secretary) by which—
 
-&emsp;&emsp;&emsp;&emsp;(I) the monthly average unduplicated number of qualifying children (as definedin subparagraph (F)) enrolled during the fiscal year under the State plan under subchapter XIX; exceeds
+&emsp;&emsp;&emsp;&emsp;(I) the monthly average unduplicated number of qualifying children (as defined in subparagraph (F)) enrolled during the fiscal year under the State plan under subchapter XIX; exceeds
 
 &emsp;&emsp;&emsp;&emsp;(II) the baseline number of enrollees described in clause (iii) for the State and fiscal year under subchapter XIX;
 
@@ -110,7 +110,7 @@
 
 #### (bb) First half of fiscal year 2013
 
-&emsp;&emsp;&emsp;&emsp;&emsp;As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A) <sup>2</sup> and under section108 of the Children's Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) <sup>1</sup> for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A) <sup>2</sup> and under section 108 of the Children's Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) <sup>1</sup> for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
 
 #### (cc) Second half of fiscal year 2013
 
@@ -140,7 +140,7 @@
 
 #### (iii) Exclusion
 
-&emsp;&emsp;&emsp;Such term does not include any children for whom the State has made an election to provide medical assistance under paragraph (4) of section 1396b(v) of this title or any children enrolled on or after October 1, 2013.
+&emsp;&emsp;&emsp;Such term does not include any children for whom the State has made an election to provide medical assistance under paragraph (4) of section 1396b(v) of this title orany children enrolled on or after October 1, 2013.
 
 #### (G) Application to commonwealths and territories
 
@@ -202,7 +202,7 @@
 
 #### (G) Express Lane
 
-&emsp;&emsp;The State is implementing the option described in section 1396a(e)(13) of this title under subchapter XIX as well as, pursuant to section 1397gg(e)(1) of this title, under this subchapter.
+&emsp;&emsp;The State is implementing the option described in section 1396a(e)(13) of this titleunder subchapter XIX as well as, pursuant to section 1397gg(e)(1) of this title, under this subchapter.
 
 #### (H) Premium assistance subsidies
 
@@ -312,7 +312,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (A) In general
 
-&emsp;&emsp;No payment may be made under this section with respect to an individual who has, or is, declared to be a citizen or national of the United States for purposes of establishing eligibility under this subchapter unless the State meets the requirements of section 1396a(a)(46)(B) of this title with respect to the individual.
+&emsp;&emsp;No payment may be made under this section with respect to an individual who has,or is, declared to be a citizen or national of the United States for purposes of establishing eligibility under this subchapter unless the State meets the requirements of section 1396a(a)(46)(B) of this title with respect to the individual.
 
 #### (B) Enhanced payments
 
@@ -426,7 +426,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (L) Application to qualified employer-sponsored benchmark coverage
 
-&emsp;&emsp;If a group health plan or health insurance coverage offered through an employer is certified by an actuary as health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section 1397cc(b) of this title or benchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title, the State may provide premium assistance subsidies for enrollment of targeted low-income children in such group health plan or health insurance coverage in the same manner as such subsidies are provided under this paragraph for enrollment in qualified employer-sponsored coverage, but without regard to the requirement to provide supplemental coverage for benefits and cost-sharing protection provided under the State child health plan under subparagraph (E).
+&emsp;&emsp;If a group health plan or health insurance coverage offered through an employer is certified by an actuary as health benefits coverage that is equivalent to the benefits coverage in a benchmark benefit package described in section 1397cc(b) of this title orbenchmark-equivalent coverage that meets the requirements of section 1397cc(a)(2) of this title, the State may provide premium assistance subsidies for enrollment of targeted low-income children in such group health plan or health insurance coverage in the same manner as such subsidies are provided under this paragraph for enrollment in qualified employer-sponsored coverage, but without regard to the requirement to provide supplemental coverage for benefits and cost-sharing protection provided under the State child health plan under subparagraph (E).
 
 #### (M) Coordination with medicaid
 
@@ -476,7 +476,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (B) Assurance of exchange coverage for targeted low-income children unable to be provided child health assistance as a result of funding shortfalls
 
-&emsp;&emsp;In the event that allotments provided under section 1397dd of this title are insufficient to provide coverage to all children who are eligible to be targeted low-income children under the State child health plan under this subchapter, a State shall establish procedures to ensure that such children are screened for eligibility for medical assistance under the State plan under subchapter XIX or a waiver of that plan and, if found eligible, enrolled in such plan or a waiver. In the case of such children who, as a result of such screening, are determined to not be eligible for medical assistance under the State plan or a waiver under subchapter XIX, the State shall establish procedures to ensure that the children are enrolled in a qualified health plan that has been certified by the Secretary under subparagraph (C) and is offered through an Exchange established by the State under section 18031 of this title. For purposes of eligibility for premium assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 and reduced cost-sharing under section 18071 of this title, children described in the preceding sentence shall be deemed to be ineligible for coverage under the State child health plan.
+&emsp;&emsp;In the event that allotments provided under section 1397dd of this title are insufficient to provide coverage to all children who are eligible to be targeted low-income children under the State child health plan under this subchapter, a State shall establish procedures to ensure that such children are screened for eligibility for medical assistance under the State plan under subchapter XIX or a waiver of that plan and, if found eligible, enrolled in such plan or a waiver. In the case of such children who, as a result of such screening, are determined to not be eligible for medical assistance under the State plan or a waiver under subchapter XIX, the State shall establish procedures to ensure that the children are enrolled in a qualifiedhealth plan that has been certified by the Secretary under subparagraph (C) and is offered through an Exchange established by the State under section 18031 of this title. For purposes of eligibility for premium assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 and reduced cost-sharing under section 18071 of this title, children described in the preceding sentence shall be deemed to be ineligible for coverage under the State child health plan.
 
 #### (C) Certification of comparability of pediatric coverage offered by qualified health plans
 
@@ -684,7 +684,7 @@ Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354, provided that the amendme
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, seesection 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
+Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -726,7 +726,7 @@ Requirements for New Final Rule.—For purposes of subsection (b), the requireme
 
 "(d)
 
-Option for Application of Data for States in First Application Cycle Under the Interim Final Rule.—After the new final rule implementing the PERM requirements in accordance with the requirements of subsection (c) is in effect for all States, a State for which the PERM requirements were first in effect under an interim final rule for fiscal year 2007 or under a final rule for fiscal year 2008 may elect to accept any payment error rate determined in whole or in part for the State on the basis of data for that fiscal year or may elect to not have any payment error rate determined on the basis of such data and, instead, shall be treated as if fiscal year 2010 or fiscal year 2011 were the first fiscal year for which the PERM requirements apply to the State.
+Option for Application of Data for States in First Application Cycle Under the Interim Final Rule.—After the new final rule implementing the PERM requirements in accordance with the requirements of subsection (c) is in effect for all States, a State for which the PERM requirements were first in effect under an interim final rule for fiscal year 2007 orunder a final rule for fiscal year 2008 may elect to accept any payment error rate determined in whole or in part for the State on the basis of data for that fiscal year or may elect to not have any payment error rate determined on the basis of such data and, instead, shall be treated as if fiscal year 2010 or fiscal year 2011 were the first fiscal year for which the PERM requirements apply to the State.
 
 "(e)
 

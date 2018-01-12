@@ -16,7 +16,7 @@ General.—(1) In the interest of safety, the Secretary of Transportation shall 
 
 &emsp;&emsp;(ii) to have used a controlled substance, whether or not on duty, except as allowed for medical purposes by law or a regulation or order under this chapter.
 
-(2) When the Secretary of Transportation considers it appropriate in the interest of safety,the Secretary may prescribe regulations and issue orders requiring railroad carriers to conduct periodic recurring testing of railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(2) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations and issue orders requiring railroad carriers to conduct periodic recurring testing of railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (c)
 

@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the excess of the net income from foreclosure property (as defined in section 857(b)(4)(B)) over the tax on such income imposed by section 857(b)(4)(A),
 
-&emsp;&emsp;(B) any increase in the amount of the excess described in section 857(b)(3)(A)(ii) (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
+&emsp;&emsp;(B) any increase in the amount of the excess described in section 857(b)(3)(A)(ii) <sup>1</sup> (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
 
 &emsp;&emsp;(C) any decrease in the deduction for dividends paid (as defined in section 561) determined without regard to capital gains dividends.
 
@@ -82,7 +82,7 @@ For purposes of this section, the term "determination" means—
 
 &emsp;&emsp;&emsp;(i) the excess of the amount of increase referred to in subparagraph (A) of paragraph (1) or (2) of subsection (d) (whichever applies) over the amount of any increase in the deduction for dividends paid (computed without regard to capital gain dividends) for such taxable year which results from such determination, and
 
-&emsp;&emsp;&emsp;(ii) the amount of decreased <sup>1</sup> referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
+&emsp;&emsp;&emsp;(ii) the amount of decreased <sup>2</sup> referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
 
 #### (B) Capital gain dividends
 
@@ -96,7 +96,7 @@ For purposes of this section, the term "determination" means—
 
 #### (B) For prior taxable year
 
-&emsp;&emsp;Deficiency dividends paid in any taxable year shall not be allowed for purposes of section 855(a) or 858(a) in the computation of the dividends paid deduction for the taxable year preceding the taxable year in which paid.
+&emsp;&emsp;Deficiency dividends paid in any taxable year shall not be allowed for purposes of section 855(a) or 858(a) in the computation of the dividends paid deduction for the taxableyear preceding the taxable year in which paid.
 
 #### (g) Claim required
 
@@ -106,7 +106,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 #### (1) Suspension of running of statute
 
-&emsp;If the qualified investment entity files a claim as provided in subsection (g), the running of the statute of limitations provided insection 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency established by a determination under this section, and all interest, additions to tax, additional amounts, or assessable penalties in respect thereof, shall be suspended for a period of 2 years after the date of the determination.
+&emsp;If the qualified investment entity files a claim as provided in subsection (g), the running of the statute of limitations provided in section 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency established by a determination under this section, and all interest, additions to tax, additional amounts, or assessable penalties in respect thereof, shall be suspended for a period of 2 years after the date of the determination.
 
 #### (2) Stay of collection
 
@@ -120,9 +120,13 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 #### (i) Deduction denied in case of fraud
 
-No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull <sup>2</sup> failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
+No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull <sup>3</sup> failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
 (Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445; Pub. L. 111–325, title III, §301(a)(2), title V, §501(b), Dec. 22, 2010, 124 Stat. 3542, 3554.)
+
+#### References in Text
+
+Section 857(b)(3)(A), referred to in subsec. (d)(2)(B), relating to alternative tax in case of capital gains, was repealed by Pub. L. 115–97, title I, §13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096. Subsec. (b)(3)(B) of section 857, relating to treatment of capital gain dividends by shareholders, was redesignated subsec. (b)(3)(A) of that section.
 
 #### Prior Provisions
 
@@ -158,7 +162,9 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 95–600, title III, §362(e), Nov. 6, 1978, 92 Stat. 2852, as amended by Pub. L. 96–222, title I, §103(a)(11)(A), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing section 859 of this title, and redesignating prior section 860 as 859 of this title\] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "decrease".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "willful".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "decrease".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "willful".</i>
 

@@ -96,7 +96,7 @@
 
 &emsp;(A) shall include all real and personal property and other assets included within the individual's estate, as defined for purposes of State probate law; and
 
-&emsp;(B) may include, at the option of the State (and shall include, in the case of an individual to whom paragraph (1)(C)(i) applies), any other real and personal property and other assets in which the individual had any legal title or interest at the time of death (to the extent of such interest), including such assets conveyed to a survivor, heir, or assign of the deceased individual through joint tenancy, tenancy in common, survivorship, life estate, living trust, or other arrangement.
+&emsp;(B) may include, at the option of the State (and shall include, in the case of an individual to whom paragraph (1)(C)(i) applies), any otherreal and personal property and other assets in which the individual had any legal title or interest at the time of death (to the extent of such interest), including such assets conveyed to a survivor, heir, or assign of the deceased individual through joint tenancy, tenancy in common, survivorship, life estate, living trust, or other arrangement.
 
 (5)(A) For purposes of clause (iii)(III), the model regulations and the requirements of the model Act specified in this paragraph are:
 
@@ -174,7 +174,7 @@
 
 (1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
-(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) or in the case of any other disposal of assets made on or after February 8, 2006, 60 months) before the date specified in clause (ii).
+(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in thecase of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) or in the case of any other disposal of assets made on or after February 8, 2006, 60 months) before the date specified in clause (ii).
 
 (ii) The date specified in this clause, with respect to—
 
@@ -290,7 +290,7 @@
 
 > The procedures established under subparagraph (D) shall permit the facility in which the institutionalized individual is residing to file an undue hardship waiver application on behalf of the individual with the consent of the individual or the personal representative of the individual. While an application for an undue hardship waiver is pending under subparagraph (D) in the case of an individual who is a resident of a nursing facility, if the application meets such criteria as the Secretary specifies, the State may provide for payments for nursing facility services in order to hold the bed for the individual at the facility, but not in excess of payments for 30 days.
 
-(3) For purposes of this subsection, in the case of an asset held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the asset (or the affected portion of such asset) shall be considered to be transferred by such individual when any action is taken, either by such individual or by any other person, that reduces or eliminates such individual's ownership or control of such asset.
+(3) For purposes of this subsection, in the case of an asset held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the asset (or the affected portion of such asset) shall be considered to be transferred bysuch individual when any action is taken, either by such individual or by any other person, that reduces or eliminates such individual's ownership or control of such asset.
 
 (4) A State (including a State which has elected treatment under section 1396a(f) of this title) may not provide for any period of ineligibility for an individual due to transfer of resources for less than fair market value except in accordance with this subsection. In the case of a transfer by the spouse of an individual which results in a period of ineligibility for medical assistance under a State plan for such individual, a State shall, using a reasonable methodology (as specified by the Secretary), apportion such period of ineligibility (or any portion of such period) among the individual and the individual's spouse if the spouse otherwise becomes eligible for medical assistance under the State plan.
 
@@ -358,7 +358,7 @@
 
 &emsp;&emsp;(ii) A separate account is maintained for each beneficiary of the trust, but, for purposes of investment and management of funds, the trust pools these accounts.
 
-&emsp;&emsp;(iii) Accounts in the trust are established solely for the benefit of individuals who are disabled (as defined in section 1382c(a)(3) of this title) by the parent, grandparent, or legal guardian of such individuals, by such individuals, or by a court.
+&emsp;&emsp;(iii) Accounts in the trust are established solely for the benefit of individuals who aredisabled (as defined in section 1382c(a)(3) of this title) by the parent, grandparent, or legal guardian of such individuals, by such individuals, or by a court.
 
 &emsp;&emsp;(iv) To the extent that amounts remaining in the beneficiary's account upon the death of the beneficiary are not retained by the trust, the trust pays to the State from such remaining amounts in the account an amount equal to the total amount of medical assistance paid on behalf of the beneficiary under the State plan under this subchapter.
 
@@ -408,7 +408,7 @@
 
 &emsp;For purposes of this subsection, an individual's entrance fee in a continuing care retirement community or life care community shall be considered a resource available to the individual to the extent that—
 
-&emsp;&emsp;(A) the individual has the ability to use the entrance fee, or the contract provides that the entrance fee may be used, to pay for care should other resources or income of the individual be insufficient to pay for such care;
+&emsp;&emsp;(A) the individual has the ability to use the entrance fee, or the contract providesthat the entrance fee may be used, to pay for care should other resources or income of the individual be insufficient to pay for such care;
 
 &emsp;&emsp;(B) the individual is eligible for a refund of any remaining entrance fee when the individual dies or terminates the continuing care retirement community or life care community contract and leaves the community; and
 
@@ -434,7 +434,7 @@ In this section, the following definitions shall apply:
 
 &emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat.507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197.)
+(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197.)
 
 #### Amendment of Subsection (a)(1)(A)
 
@@ -446,7 +446,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;<i>(ii) rights acquired by or assigned to the State in accordance with section 1396a(a)(25)(H) of this title or section 1396k(a)(1)(A) of this title, or</i>
 
-<i>See 2013 Amendment note below.</i>
+<i>See 2013 Amendment note below. Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298, repealed section 202(b)(3) of Pub. L. 113–67, effective as of Sept. 30, 2017.</i>
 
 #### References in Text
 
@@ -524,7 +524,7 @@ Subsec. (c)(2)(C). Pub. L. 103–66, §13611(a)(2)(C), in introductory provision
 
 Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the State determines that denial of eligibility would work an undue hardship."
 
-Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: "In this subsection, the term 'institutionalized individual' means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is madebased on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title."
+Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: "In this subsection, the term 'institutionalized individual' means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title."
 
 Subsec. (c)(4). Pub. L. 103–66, §13611(a)(2)(F), inserted at end "In the case of a transfer by the spouse of an individual which results in a period of ineligibility for medical assistance under a State plan for such individual, a State shall, using a reasonable methodology (as specified by the Secretary), apportion such period of ineligibility (or any portion of such period) among the individual and the individual's spouse if the spouse otherwise becomes eligible for medical assistance under the State plan."
 
@@ -630,7 +630,7 @@ Pub. L. 103–66, title XIII, §13612(d), Aug. 10, 1993, 107 Stat. 628, provided
 
 "(1)(A) Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements imposed by such amendments solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+"(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements imposed by such amendments solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug.10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 "(2) The amendments made by this section shall not apply to individuals who died before October 1, 1993."
 
@@ -714,7 +714,7 @@ In general.—The Secretary of Health and Human Services shall annually report t
 
 &emsp;"(2)
 
-Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out paragraph (1).
+Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriatedto the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out paragraph (1).
 
 "(d)
 

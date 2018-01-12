@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of section 38, in the case of an eligible employer, the Hurricane Katrina employee retention credit for any taxable year is an amount equal to 40 percent of the qualified wages with respect to each eligible employee of such employer for such taxable year. Forpurposes of the preceding sentence, the amount of qualified wages which may be taken into account with respect to any individual shall not exceed $6,000.
+&emsp;For purposes of section 38, in the case of an eligible employer, the Hurricane Katrina employee retention credit for any taxable year is an amount equal to 40 percent of the qualified wages with respect to each eligible employee of such employer for such taxable year. For purposes of the preceding sentence, the amount of qualified wages which may be taken into account with respect to any individual shall not exceed $6,000.
 
 #### (2) Definitions
 

@@ -34,7 +34,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 &emsp;&emsp;(A) review the geographical distribution in the United States of the production of the agricultural commodity covered by the order involved and the quantity or value of the agricultural commodity imported into the United States; and
 
-&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the boardmembership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
+&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the board membership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
 
 #### (4) Notice
 
@@ -82,7 +82,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(2) to develop and recommend to the Secretary for approval such bylaws as may be necessary for the functioning of the board and such rules as may be necessary to administer the order, including activities authorized to be carried out under the order;
 
-&emsp;(3) to meet, organize, and select from among the members of the board a chairperson, other officers, and committees and subcommittees, as the board determines to be appropriate;
+&emsp;(3) to meet, organize, and select from among the members of the board a chairperson, otherofficers, and committees and subcommittees, as the board determines to be appropriate;
 
 &emsp;(4) to employ persons, other than the members, as the board considers necessary to assist the board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

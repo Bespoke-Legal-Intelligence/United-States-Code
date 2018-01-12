@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall take all necessary actions to implement the decisions and determinations of the Commission under paragraph 7 of article 8 of the Agreement.
+The Secretary shall take all necessary actions to implement the decisions and determinationsof the Commission under paragraph 7 of article 8 of the Agreement.
 
 #### (b) Taking limitation
 

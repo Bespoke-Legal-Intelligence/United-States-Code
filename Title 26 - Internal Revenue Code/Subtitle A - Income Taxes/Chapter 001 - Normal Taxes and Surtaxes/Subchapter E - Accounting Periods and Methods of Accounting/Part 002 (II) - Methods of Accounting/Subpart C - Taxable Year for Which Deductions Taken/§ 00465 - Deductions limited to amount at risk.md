@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a C corporation with respect to which the stock ownership requirement of paragraph (2) of section 542(a) is met,
 
-> &emsp;engaged in an activity to which this section applies, any loss from such activity for thetaxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
+> &emsp;engaged in an activity to which this section applies, any loss from such activity for the taxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
 
 #### (2) Deduction in succeeding year
 
@@ -100,7 +100,7 @@
 
 #### (C) Special rule for partnerships
 
-&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined onthe basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
+&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined on the basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
 
 #### (D) Qualified person defined
 
@@ -254,7 +254,7 @@
 
 #### (C) Qualified leasing member
 
-&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasing member for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasingmember for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) it is a component member of the controlled group of corporations, and
 
@@ -278,7 +278,7 @@
 
 #### (C) Controlled group of corporations; component member
 
-&emsp;&emsp;The terms "controlled group of corporations" and "component members" have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
+&emsp;&emsp;The terms "controlled group of corporations" and "component member" have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
 
 #### (7) Exclusion of active businesses of qualified C corporations
 
@@ -340,7 +340,7 @@
 
 #### (iv) Special rule for banks
 
-&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as defined in section 581) or a financial institution to which section 591 applies—
+&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as definedin section 581) or a financial institution to which section 591 applies—
 
 &emsp;&emsp;&emsp;&emsp;(I) gross income shall be determined without regard to the exclusion of interest from gross income under section 103, and
 
@@ -354,7 +354,7 @@
 
 #### (II) Insurance business
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term "insurance business" means any business which is not a noninsurance business (within the meaning of section 806(b)(3)).
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term "insurance business" means any business which is not a noninsurance business (within the meaning of section 453B(e)(3)).
 
 #### (III) Qualified life insurance company
 
@@ -428,9 +428,11 @@ For purposes of this section, the term "loss" means the excess of the deductions
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §13512(b)(2), Dec. 22, 2017, 131 Stat. 2143.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(7)(D)(v)(II). Pub. L. 115–97 substituted "section 453B(e)(3)" for "section 806(b)(3)".
 
 <b>2014</b>—Subsec. (c)(3)(A). Pub. L. 113–295 substituted "This" for "In the case of taxable years beginning after December 31, 1978, this".
 
@@ -492,6 +494,10 @@ Subsec. (d). Pub. L. 95–600, §701(k)(2), substituted "(determined without reg
 
 Subsec. (e). Pub. L. 95–600, §203, added subsec. (e).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13512(c) of Pub. L. 115–97, set out as a note under section 453B of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -534,7 +540,7 @@ Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1980 Amendment
 

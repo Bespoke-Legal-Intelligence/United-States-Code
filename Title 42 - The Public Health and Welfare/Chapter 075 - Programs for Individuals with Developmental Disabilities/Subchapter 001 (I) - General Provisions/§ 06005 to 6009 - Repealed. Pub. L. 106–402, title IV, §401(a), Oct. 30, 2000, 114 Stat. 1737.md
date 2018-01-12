@@ -10,7 +10,7 @@ A prior section 6006, Pub. L. 88–164, title I, §107, as added Pub. L. 94–10
 
 Section 6007, Pub. L. 88–164, title I, §108, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2669; amended Pub. L. 101–496, §7, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title I, §109, Apr. 6, 1994, 108 Stat. 296, related to responsibilities of the Secretary.
 
-A prior section 6007, Pub. L. 88–164, title I, §108, formerly §133, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1318, and renumbered and amended Pub. L. 94–103, title I, §126(a), Oct. 4, 1975, 89 Stat. 499, established National Advisory Council on Services and Facilities for Developmentally Disabled and provided for membership, terms of office, compensation and traveling expenses, and duties and functions, prior torepeal by Pub. L. 95–602, title V, §504(a), Nov. 6, 1978, 92 Stat. 3006.
+A prior section 6007, Pub. L. 88–164, title I, §108, formerly §133, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1318, and renumbered and amended Pub. L. 94–103, title I, §126(a), Oct. 4, 1975, 89 Stat. 499, established National Advisory Council on Services and Facilities for Developmentally Disabled and provided for membership, terms of office, compensation and traveling expenses, and duties and functions, prior to repeal by Pub. L. 95–602, title V, §504(a), Nov. 6, 1978, 92 Stat. 3006.
 
 Section 6008, Pub. L. 88–164, title I, §109, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2669; amended Pub. L. 101–496, §8, Oct. 31, 1990, 104 Stat. 1195; Pub. L. 103–230, title I, §110, Apr. 6, 1994, 108 Stat. 296, required recipients to employ qualified individuals with disabilities on the same terms and conditions required by the Rehabilitation Act of 1973.
 

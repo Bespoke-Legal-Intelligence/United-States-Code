@@ -56,7 +56,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (1) Grants
 
-&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
+&emsp;The Director may award grants to eligible entities to promote rural health care servicesoutreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
 
 #### (2) Eligibility
 
@@ -162,7 +162,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of ruralhealth or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -228,7 +228,7 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 

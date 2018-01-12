@@ -1,6 +1,6 @@
 ### §714c. Specific powers of Corporation
 
-In the fulfillment of its purposes and in carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
+In the fulfillment of its purposes and in carrying out its annual budget programs submitted toand approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
 
 (a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
@@ -70,7 +70,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) ofthe Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
+In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
 
 &emsp;"(2)
 
@@ -78,7 +78,7 @@ Transportation costs.—Funds or commodities shall be made available under this 
 
 "(c)
 
-Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section."
+Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to servicesperformed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section."
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 

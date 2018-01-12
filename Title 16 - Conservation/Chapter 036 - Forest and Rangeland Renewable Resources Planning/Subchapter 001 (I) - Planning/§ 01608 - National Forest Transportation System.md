@@ -54,7 +54,7 @@ Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 
 &emsp;"(A) a study of whether standards and guidelines in existing land and resource management plans compel or encourage entry into roadless areas within the National Forest System for the purpose of constructing roads or undertaking any other ground-disturbing activities;
 
-&emsp;"(B) an inventory of all roads within the National Forest System and the uses which they serve, in aformat that will inform and facilitate the development of a long-term Forest Service transportation policy; and
+&emsp;"(B) an inventory of all roads within the National Forest System and the uses which they serve, in a format that will inform and facilitate the development of a long-term Forest Service transportation policy; and
 
 &emsp;"(C) a comprehensive and detailed analysis of the economic and social effects of the moratorium referred to in subsection (a)(2) on county, State, and regional levels."
 

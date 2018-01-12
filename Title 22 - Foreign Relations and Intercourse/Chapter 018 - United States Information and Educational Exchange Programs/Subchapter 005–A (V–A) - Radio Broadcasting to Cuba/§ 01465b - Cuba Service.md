@@ -1,6 +1,6 @@
 ### §1465b. Cuba Service
 
-The Broadcasting Board of Governors shall establish within the International Broadcasting Bureau a Cuba Service (hereafter in this section referred to as the "Service"). The Service shall be responsible for all radio broadcasts to Cuba authorized by section 1465a of this title. The Broadcasting Board of Governors shall appoint a head of the Service and shall employ such staff as the head of the Service may need to carry out his duties. The Cuba Service shall be administered separately from other Voice of America functions and the head of the Cuba Service shall report directly to the Board <sup>1</sup> of the International Broadcasting Bureau.
+The Broadcasting Board of Governors shall establish within the International Broadcasting Bureau a Cuba Service (hereafter in this section referred to as the "Service"). The Service shall be responsible for all radio broadcasts to Cuba authorized by section 1465a of this title. The Broadcasting Board of Governors shall appoint a head of the Service and shall employ such staff as the head of the Service may need to carry outhis duties. The Cuba Service shall be administered separately from other Voice of America functions and the head of the Cuba Service shall report directly to the Board <sup>1</sup> of the International Broadcasting Bureau.
 
 (Pub. L. 98–111, §4, Oct. 4, 1983, 97 Stat. 750; Pub. L. 103–236, title III, §305(e)(1), formerly §305(d)(1), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1323(f)(1), 1324(3), (4), (6), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Prohibitions
 
-Pub. L. 114–323, title VII, §703(b), Dec. 16, 2016, 130 Stat. 1941, provided that:
+Pub. L. 114–323, title VII, §703(b), Dec. 16, 2016, 130 Stat. 1941, as amended by Pub. L. 115–94, §11, Dec. 18, 2017, 131 Stat. 2040, provided that:
 
 "(1)
 
@@ -40,7 +40,7 @@ In general.—Notwithstanding any other provision of law, any change to the Fede
 
 "(2)
 
-Definition.—In this subsection, the term 'change to the Federal status', with respect to a service referred to in subparagraph (A) or (B) of paragraph (1), includes any significant restructuring, privatization, subordination to a private or private-public entity, or merger with a private or public-private entity of such service."
+Definition.—In this subsection, the term 'change to the Federal status', with respect to a service referred to in subparagraph (A) or (B) of paragraph (1), includes privatization, subordination to a private or private-public entity, or merger with a private or public-private entity of such service."
 
 <i><sup>1</sup></i><i> So in original. There is no Board of the International Broadcasting Bureau.</i>
 

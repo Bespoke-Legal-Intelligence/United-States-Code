@@ -78,7 +78,7 @@ The applicant may provide the services described in this section through a varie
 
 #### (2) Set-aside
 
-&emsp;Of the total amount approved in appropriation Acts under subsection (o) of this section, there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
+&emsp;Of the total amount approved in appropriation Acts under subsection (o), there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
 
 #### (h) Matching requirement
 
@@ -122,7 +122,7 @@ Effective 2 years after the date of promulgation of regulations under section 26
 
 #### (1) In general
 
-&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>2</sup> Act, established under title II of theCranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
+&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>2</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
 
 #### (2) Applicability
 

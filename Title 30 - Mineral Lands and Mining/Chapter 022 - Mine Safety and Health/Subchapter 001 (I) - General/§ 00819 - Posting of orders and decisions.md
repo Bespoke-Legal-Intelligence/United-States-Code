@@ -2,7 +2,7 @@
 
 #### (a) Mine office; bulletin board
 
-At each coal or other mine there shall be maintained an office with a conspicuous sign designating it as the office of such mine. There shall be a bulletin board at such office or located at a conspicuous place near an entrance of such mine, in such manner that orders, citations, notices and decisions required by law or regulation to be posted, may be posted thereon, and be easily visible to all persons desiring to read them, and be protected against damage by weather and against unauthorized removal. Acopy of any order, citation, notice or decision required by this chapter to be given to an operator shall be delivered to the office of the affected mine, and a copy shall be immediately posted on the bulletin board of such mine by the operator or his agent.
+At each coal or other mine there shall be maintained an office with a conspicuous sign designating it as the office of such mine. There shall be a bulletin board at such office or located at a conspicuous place near an entrance of such mine, in such manner that orders, citations, notices and decisions required by law or regulation to be posted, may be posted thereon, and be easily visible to all persons desiring to read them, and be protected against damage by weather and against unauthorized removal. A copy of any order, citation, notice or decision required by this chapter to be given to an operator shall be delivered to the office of the affected mine, and a copy shall be immediately posted on the bulletin board of such mine by the operator or his agent.
 
 #### (b) Distribution of orders, citations, notices, and decisions
 
@@ -29,4 +29,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

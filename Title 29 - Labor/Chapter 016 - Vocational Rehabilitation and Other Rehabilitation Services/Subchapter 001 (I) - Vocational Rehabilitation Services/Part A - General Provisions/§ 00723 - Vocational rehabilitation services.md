@@ -22,7 +22,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;&emsp;(C) prosthetic and orthotic devices;
 
-&emsp;&emsp;(D) eyeglasses and visual services as prescribed by qualified personnel who meet State licensure laws and who are selected by the individual;
+&emsp;&emsp;(D) eyeglasses and visual services as prescribed by qualified personnel who meetState licensure laws and who are selected by the individual;
 
 &emsp;&emsp;(E) special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the treatment of individuals with end-stage renal disease; and
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
 
-&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>2</sup>
+&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194 <sup>2</sup>
 
 &emsp;&emsp;(D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
 
@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
+&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245 property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
 
 #### (B) Later change in use
 
@@ -100,7 +100,7 @@
 
 #### (7) Timber property
 
-&emsp;In determining, under subsection (a)(2), the recomputed basis of property with respect to which a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
+&emsp;In determining, under subsection (a)(2), the recomputed basis of property with respect towhich a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
 
 #### (8) Disposition of amortizable section 197 intangibles
 
@@ -158,7 +158,7 @@ Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which relate
 
 <b>1997</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted "179A," after "179,".
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisionsgenerally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
 
 <b>1995</b>—Subsec. (b)(5). Pub. L. 104–7 struck out "1071 and" before "1081 transactions" in heading and "section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or" before "section 1081" in text.
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 2
 
 Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
-Amendments by section 403(e)(2), (i)(2) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by section 403(e)(2), (i)(2) of Pub. L. 109–135 effective as if included in the provisions of theAmerican Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 Amendment by section 1323(b)(1) of Pub. L. 109–58 applicable to properties placed in service after Aug. 8, 2005, see section 1323(c) of Pub. L. 109–58, set out as an Effective Date note under section 179C of this title.
 
@@ -338,7 +338,7 @@ Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures 
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
-Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) ofPub. L. 96–223, set out as an Effective Date note under section 193 of this title.
+Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) of Pub. L. 96–223, set out as an Effective Date note under section 193 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -388,5 +388,5 @@ For provisions that nothing in amendment by sections 11801 and 11813 of Pub. L. 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> Comma added editorially.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

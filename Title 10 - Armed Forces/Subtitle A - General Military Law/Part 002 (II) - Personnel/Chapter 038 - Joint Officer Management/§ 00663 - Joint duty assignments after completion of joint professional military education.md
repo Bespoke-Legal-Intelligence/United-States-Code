@@ -30,7 +30,7 @@ Exception for Officers Graduating From Other-than-in-residence Programs.—(1) S
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §503(a)(1), inserted "(or, as authorized by the Secretary in an individual case, to a joint assignment other than a joint duty assignment)" after "to a joint duty assignment".
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §503(a)(1), inserted "(or, as authorized by the Secretary in an individualcase, to a joint assignment other than a joint duty assignment)" after "to a joint duty assignment".
 
 Subsec. (b)(2). Pub. L. 112–81, §503(a)(2), substituted "the assignment" for "the joint duty assignment" and "such an assignment" for "a joint duty assignment".
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 109–364, §518(b), added subsec. (c).
 
 Subsec. (a). Pub. L. 108–375, §532(c)(1)(A), (B), redesignated subsec. (d)(1) as (a), inserted heading, and struck out heading and text of former subsec. (a) which related to capstone course for new general and flag officers. See section 2153 of this title.
 
-Subsec. (b). Pub. L. 108–375, §532(c)(1)(C)–(F), redesignated subsec. (d)(2)(A) as (b)(1) and substituted "in paragraph (2)" for "in subparagraph (B)", redesignatedsubsec. (d)(2)(B) as (b)(2) and substituted "in paragraph (1)" for "in subparagraph (A)", and inserted subsec. heading.
+Subsec. (b). Pub. L. 108–375, §532(c)(1)(C)–(F), redesignated subsec. (d)(2)(A) as (b)(1) and substituted "in paragraph (2)" for "in subparagraph (B)", redesignated subsec. (d)(2)(B) as (b)(2) and substituted "in paragraph (1)" for "in subparagraph (A)", and inserted subsec. heading.
 
 Pub. L. 108–375, §532(b), transferred subsec. (b), relating to joint military education schools, to section 2152(b) of this title.
 

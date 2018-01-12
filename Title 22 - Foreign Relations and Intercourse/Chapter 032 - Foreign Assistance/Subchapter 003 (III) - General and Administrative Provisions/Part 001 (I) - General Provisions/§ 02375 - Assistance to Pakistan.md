@@ -40,7 +40,7 @@ The President may release the Government of Pakistan of its contractual obligati
 
 #### (g) Inapplicability of restrictions to previously owned items
 
-Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
+Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior toOctober 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 
 #### (h) Ballistic missile sanctions not affected
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original "this Act", meanin
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -222,7 +222,7 @@ Declaration of policy.—Congress declares that the amount of funds appropriated
 
 &emsp;&emsp;"(A) preventing al Qaeda and other terrorist organizations from operating in the territory of Pakistan, including eliminating terrorist training camps or facilities, arresting members and leaders of terrorist organizations, and countering recruitment efforts;
 
-&emsp;&emsp;"(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and
+&emsp;&emsp;"(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which tolaunch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and
 
 &emsp;&emsp;"(C) implementing democratic reforms, including allowing free, fair, and inclusive elections at all levels of government in accordance with internationally-recognized democratic norms, and respecting the independence of the press and judiciary.
 

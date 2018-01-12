@@ -50,7 +50,7 @@ The dairy products research order issued under section 4533(b) of this title sha
 
 &emsp;(4) prohibit any monies received under this subchapter by the board to be used in any manner for the purpose of influencing governmental policy or actions, except as provided in paragraph (2)(F); and
 
-&emsp;(5) require that each person receiving milk from producers for commercial use and any person marketing milk of that person's own production directly to consumers maintain and make available for inspection by the Secretary such books and records as may be required by the order and file with the Secretary reports at the time, in the manner, and having the content prescribed by the order.
+&emsp;(5) require that each person receiving milk from producers for commercial use and anyperson marketing milk of that person's own production directly to consumers maintain and make available for inspection by the Secretary such books and records as may be required by the order and file with the Secretary reports at the time, in the manner, and having the content prescribed by the order.
 
 #### (b) Agreements under order
 

@@ -10,13 +10,17 @@ Relation to Other Payments.—An accession bonus paid a person under this sectio
 
 (c)
 
-Repayment.—A person who receives an accession bonus under this section, but fails to comply with the agreement under section 2122(a)(2) of this title or to commence or complete the active duty obligation imposed by section 2123 of this title, shall be subject to the repayment provisions of section 303a(e) of title 37.
+Repayment.—A person who receives an accession bonus under this section, but fails to comply with the agreement under section 2122(a)(2) of this title or to commence or complete the active duty obligation imposed by section 2123 of this title, shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Added Pub. L. 110–181, div. A, title VI, §623(a), Jan. 28, 2008, 122 Stat. 152.)
+(Added Pub. L. 110–181, div. A, title VI, §623(a), Jan. 28, 2008, 122 Stat. 152; amended Pub. L. 115–91, div. A, title VI, §618(a)(1)(F), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### Prior Provisions
 
 Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this title, respectively.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
 #### Effective Date
 

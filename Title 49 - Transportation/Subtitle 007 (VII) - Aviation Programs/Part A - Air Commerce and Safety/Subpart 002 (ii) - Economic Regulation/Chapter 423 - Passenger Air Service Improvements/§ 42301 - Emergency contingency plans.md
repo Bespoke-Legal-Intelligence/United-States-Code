@@ -34,7 +34,7 @@ Contents.—An emergency contingency plan submitted by an air carrier for an air
 
 &emsp;(3)
 
-Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C), an emergency contingency plan submitted by an air carrier under subsection (a) shall incorporate the following requirements:
+Deplaning following an excessive tarmac delay.—For purposes of paragraph\(2)(C), an emergency contingency plan submitted by an air carrier under subsection (a) shall incorporate the following requirements:
 
 &emsp;&emsp;(A) A passenger shall have the option to deplane an aircraft and return to the airport terminal when there is an excessive tarmac delay.
 
@@ -68,7 +68,7 @@ Updates.—
 
 &emsp;(1)
 
-Air carriers.—An air carrier shall update each emergency contingency plan submitted by the carrier under subsection (a)every 3 years and submit the update to the Secretary for review and approval.
+Air carriers.—An air carrier shall update each emergency contingency plan submitted by the carrier under subsection (a) every 3 years and submit the update to the Secretary for review and approval.
 
 &emsp;(2)
 

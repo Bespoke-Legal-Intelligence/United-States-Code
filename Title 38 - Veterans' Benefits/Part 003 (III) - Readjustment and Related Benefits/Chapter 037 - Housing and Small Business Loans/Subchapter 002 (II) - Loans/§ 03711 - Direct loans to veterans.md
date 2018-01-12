@@ -6,7 +6,7 @@
 
 (c) No loan may be made under this section to a veteran unless the veteran shows to the satisfaction of the Secretary that—
 
-&emsp;(1) the veteran is unable to obtain from a private lender in such housing credit shortage area, at an interest rate not in excess of the rate authorized for guaranteed home loans or manufactured home loans, as appropriate, a loan for such purpose for which the veteran is qualified under section 3710 or 3712 of this title, as appropriate; and
+&emsp;(1) the veteran is unable to obtain from a private lender in such housing credit shortage area, at an interest rate not in excess of therate authorized for guaranteed home loans or manufactured home loans, as appropriate, a loan for such purpose for which the veteran is qualified under section 3710 or 3712 of this title, as appropriate; and
 
 &emsp;(2) the veteran is unable to obtain a loan for such purpose from the Secretary of Agriculture under title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.).
 
@@ -26,7 +26,7 @@
 
 (h) The Secretary may exempt dwellings constructed through assistance provided by this section from the minimum land planning and subdivision requirements prescribed pursuant to subsection (a) of section 3704 of this title, and with respect to such dwellings may prescribe special minimum land planning and subdivision requirements which shall be in keeping with the general housing facilities in the locality but shall require that such dwellings meet minimum requirements of structural soundness and general acceptability.
 
-(i) The Secretary is authorized, without regard to the provisions of subsections (a), (b), and (c) of this section, to make or enter into a commitment to make a loan to any veteran to assist the veteran in acquiring a specially adapted housing unit authorized under chapter 21 of this title, if the veteran is determined to be eligiblefor the benefits of such chapter 21, and is eligible for loan guaranty benefits under this chapter.
+(i) The Secretary is authorized, without regard to the provisions of subsections (a), (b), and (c) of this section, to make or enter into a commitment to make a loan to any veteran to assist the veteran in acquiring a specially adapted housing unit authorized under chapter 21 of this title, if the veteran is determined to be eligible for the benefits of such chapter 21, and is eligible for loan guaranty benefits under this chapter.
 
 (j)(1) If any builder or sponsor proposes to construct one or more dwellings in a housing credit shortage area, or in any area for a veteran who is determined to be eligible for assistance in acquiring a specially adapted housing unit under chapter 21 of this title, the Secretary may enter into commitment with such builder or sponsor, under which funds available for loans under this section will be reserved for a period not in excess of three months, or such longer period as the Secretary may authorize to meet the needs in any particular case, for the purpose of making loans to veterans to purchase such dwellings. Such commitment may not be assigned or transferred except with the written approval of the Secretary. The Secretary shall not enter into any such commitment unless such builder or sponsor pays a nonrefundable commitment fee to the Secretary in an amount determined by the Secretary, not to exceed 2 percent of the funds reserved for such builder or sponsor.
 

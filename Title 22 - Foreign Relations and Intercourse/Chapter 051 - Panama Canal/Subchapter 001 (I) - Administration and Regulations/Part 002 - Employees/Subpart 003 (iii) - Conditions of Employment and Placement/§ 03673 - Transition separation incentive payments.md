@@ -2,7 +2,7 @@
 
 (a) In applying to the Commission and employees of the Commission the provisions of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), relating to voluntary separation incentives for employees of certain Federal agencies (in this section referred to as "section 663")—
 
-&emsp;(1) the term "employee" shall mean an employee of the Commission who has served in the Republic of Panama in a position with the Commission for a continuous period of at least three years immediately before the employee's separation under an appointment without time limitation and who is covered under the Civil Service Retirement System or the Federal Employees' Retirement System under subchapter III of chapter 83 or chapter 84, respectively, of title 5, other than—
+&emsp;(1) the term "employee" shall mean an employee of the Commission who has served in the Republic of Panama in a position with the Commission for a continuous period of at leastthree years immediately before the employee's separation under an appointment without time limitation and who is covered under the Civil Service Retirement System or the Federal Employees' Retirement System under subchapter III of chapter 83 or chapter 84, respectively, of title 5, other than—
 
 &emsp;&emsp;(A) an employee described in any of subparagraphs (A) through (F) of subsection (a)(2) of section 663; or
 
@@ -34,9 +34,15 @@
 
 (b) A decision by the Commission to exercise or to not exercise the authority to pay a transition separation incentive under this section shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5.
 
-(Pub. L. 96–70, title I, §1233, as added Pub. L. 105–85, div. C, title XXXV, §3526, Nov. 18, 1997, 111 Stat. 2067.)
+(Pub. L. 96–70, title I, §1233, as added Pub. L. 105–85, div. C, title XXXV, §3526, Nov. 18, 1997, 111 Stat. 2067; amended Pub. L. 115–73, title I, §107(a)(2)(E), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(E), Dec. 12, 2017, 131 Stat. 1618.)
 
 #### References in Text
 
 Section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), referred to in subsec. (a), is set out as a note under section 5597 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "section 2302(d)" for "section 2302(c)".
+
+Pub. L. 115–73 substituted "section 2302(c)" for "section 2302(d)".
 

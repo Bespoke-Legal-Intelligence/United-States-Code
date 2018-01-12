@@ -4,7 +4,7 @@
 
 #### (1) States
 
-&emsp;In order to receive a grant under this division, an eligible entity described in section 1070a–21(c)(1) of this title shall establish or maintain a financial assistance program that awards scholarships to students in accordance with the requirements of this section. The Secretary shall encourage the eligible entity to ensure that a scholarship provided pursuant to this section is available to an eligible student for use at any institution of higher education.
+&emsp;In order to receive a grant under this division, an eligible entity described in section 1070a–21(c)(1) of this title shall establish or maintain a financial assistance program that awards scholarships to students in accordance with the requirements of this section. TheSecretary shall encourage the eligible entity to ensure that a scholarship provided pursuant to this section is available to an eligible student for use at any institution of higher education.
 
 #### (2) Partnerships
 
@@ -78,7 +78,7 @@ A student eligible for assistance under this section is a student who—
 
 &emsp;(2) receives a secondary school diploma or its recognized equivalent on or after January 1, 1993;
 
-&emsp;(3) is enrolled or accepted for enrollment in a program of undergraduate instruction at an institution of higher education that is located within the State's boundaries, except that, at the State's option, an eligible entity may offer scholarship program portability for recipients who attend institutions of higher education outside such State; and
+&emsp;(3) is enrolled or accepted for enrollment in a program of undergraduate instruction at aninstitution of higher education that is located within the State's boundaries, except that, at the State's option, an eligible entity may offer scholarship program portability for recipients who attend institutions of higher education outside such State; and
 
 &emsp;(4) who participated in the activities required under section 1070a–24(a) of this title.
 

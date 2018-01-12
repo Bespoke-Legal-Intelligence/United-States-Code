@@ -11,6 +11,7 @@
 | [1546a.](%C2%A7%2001546a%20-%20Expedited%20procedures%20for%20certain%20joint%20resolutions%20and%20bills.md) | Expedited procedures for certain joint resolutions and bills. |
 | [1547\.](%C2%A7%2001547%20-%20Interpretation%20of%20joint%20resolution.md) | Interpretation of joint resolution. |
 | [1548\.](%C2%A7%2001548%20-%20Separability.md) | Separability. |
+| [1549\.](%C2%A7%2001549%20-%20Report%20on%20and%20notice%20of%20changes%20made%20to%20the%20legal%20and%20policy%20frameworks%20for%20the%20United%20States%27%20use%20of%20military%20force%20and%20related%20national%E2%80%A6.md) | Report on and notice of changes made to the legal and policy frameworks for the United States' use of military force and related national security operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,3 +29,4 @@
 - [&sect; 01546a - Expedited procedures for certain joint resolutions and bills](%C2%A7%2001546a%20-%20Expedited%20procedures%20for%20certain%20joint%20resolutions%20and%20bills.md)
 - [&sect; 01547 - Interpretation of joint resolution](%C2%A7%2001547%20-%20Interpretation%20of%20joint%20resolution.md)
 - [&sect; 01548 - Separability](%C2%A7%2001548%20-%20Separability.md)
+- [&sect; 01549 - Report on and notice of changes made to the legal and policy frameworks for the United States' use of military force and related national&#8230;](%C2%A7%2001549%20-%20Report%20on%20and%20notice%20of%20changes%20made%20to%20the%20legal%20and%20policy%20frameworks%20for%20the%20United%20States%27%20use%20of%20military%20force%20and%20related%20national%E2%80%A6.md)

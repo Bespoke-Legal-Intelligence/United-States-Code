@@ -1,0 +1,6 @@
+### §15231. Transferred
+
+#### Codification
+
+Section 15231 was editorially reclassified as section 50301 of Title 34, Crime Control and Law Enforcement.
+

@@ -76,5 +76,5 @@ Pub. L. 86–778, title V, §522(b), Sept. 13, 1960, 74 Stat. 979, provided that
 
 #### Advances to Alaska
 
-Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obtain from the Federal Unemployment Fund such advances as the Territory of Alaska might qualify for and as might be necessary to obtain for the payment of unemployment compensation benefits to claimants entitled thereto under the Alaska employment security law and provided for the reimbursement of the general fund of the Territory of Alaska from which advances have been made for the payment of unemployment compensation benefits from advances made through the Governor of Alaska from the Federal Unemployment Fund.
+Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obtain from the Federal Unemployment Fund such advances as the Territory of Alaska might qualify for and as might be necessary to obtain for the payment of unemployment compensation benefits to claimants entitled thereto under the Alaskaemployment security law and provided for the reimbursement of the general fund of the Territory of Alaska from which advances have been made for the payment of unemployment compensation benefits from advances made through the Governor of Alaska from the Federal Unemployment Fund.
 

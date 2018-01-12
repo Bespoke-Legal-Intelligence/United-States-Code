@@ -28,7 +28,7 @@ Personnel.—The Secretary may establish within the Department of Transportation
 
 (d)
 
-Consultation.—In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
+Consultation.—In prescribing regulations, issuing orders, and making amendments underthis section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 103–440, title II, §215(a), Nov. 2, 1994, 108 Stat. 4623; Pub. L. 104–287, §5(47), Oct. 11, 1996, 110 Stat. 3393.)
 

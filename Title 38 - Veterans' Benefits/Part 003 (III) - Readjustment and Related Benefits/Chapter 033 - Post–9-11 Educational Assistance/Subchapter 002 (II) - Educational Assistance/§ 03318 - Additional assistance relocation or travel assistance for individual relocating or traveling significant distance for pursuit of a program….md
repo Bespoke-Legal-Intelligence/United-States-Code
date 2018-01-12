@@ -40,3 +40,7 @@ No Charge Against Entitlement.—Any amount paid an individual under this sectio
 
 <b>2010</b>—Subsec. (b)(2)(B). Pub. L. 111–275 substituted "higher learning" for "higher education".
 
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+

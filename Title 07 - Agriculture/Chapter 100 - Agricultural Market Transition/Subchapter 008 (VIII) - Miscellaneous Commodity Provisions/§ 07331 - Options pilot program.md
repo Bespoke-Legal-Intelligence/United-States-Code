@@ -2,7 +2,7 @@
 
 #### (a) Pilot programs authorized
 
-Until December 31, 2002, the Secretary of Agriculture may conduct a pilot program for 1 or more agricultural commodities supported under this chapter to ascertain whether futures and options contracts can provide producers with reasonable protection from the financial risks of fluctuations in price, yield, and income inherent in the production and marketing of the commodities. The pilot program shall be an alternative to other related programs of the Department of Agriculture.
+Until December 31, 2002, the Secretary of Agriculture may conduct a pilot program for 1 or more agricultural commodities supported under this chapter to ascertain whether futures and options contracts can provide producers withreasonable protection from the financial risks of fluctuations in price, yield, and income inherent in the production and marketing of the commodities. The pilot program shall be an alternative to other related programs of the Department of Agriculture.
 
 #### (b) Distribution of pilot program
 
@@ -42,7 +42,7 @@ A producer participating in the pilot program shall compile, maintain, and submi
 
 #### (h) Use of Commodity Credit Corporation
 
-The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of CommodityCredit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
+The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
 
 (Pub. L. 104–127, title I, §191, Apr. 4, 1996, 110 Stat. 941; Pub. L. 106–224, title I, §134, June 20, 2000, 114 Stat. 388.)
 

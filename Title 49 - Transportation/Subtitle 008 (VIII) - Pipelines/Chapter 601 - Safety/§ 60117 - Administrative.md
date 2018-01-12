@@ -192,7 +192,7 @@ Opportunity for review.—Upon receipt of a petition for review from an entity s
 
 &emsp;(5)
 
-Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective onsuch day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
 
 &emsp;(6)
 
@@ -200,7 +200,7 @@ Judicial review of orders.—
 
 &emsp;&emsp;(A)
 
-In general.—After completion of the review process described in paragraph (4), or the issuance of a written determination bythe Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.
+In general.—After completion of the review process described in paragraph (4), or the issuance of a written determination by the Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.
 
 &emsp;&emsp;(B)
 

@@ -10,13 +10,16 @@
 | [5103\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103%20-%20Notice%20to%20claimants%20of%20required%20information%20and%20evidence.md) | Notice to claimants of required information and evidence. |
 | [5103A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103A%20-%20Duty%20to%20assist%20claimants.md) | Duty to assist claimants. |
 | [5104\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005104%20-%20Decisions%20and%20notices%20of%20decisions.md) | Decisions and notices of decisions. |
+| [5104A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005104A%20-%20Binding%20nature%20of%20favorable%20findings.md) | Binding nature of favorable findings. |
+| [5104B.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005104B%20-%20Higher-level%20review%20by%20the%20agency%20of%20original%20jurisdiction.md) | Higher-level review by the agency of original jurisdiction. |
+| [5104C.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005104C%20-%20Options%20following%20decision%20by%20agency%20of%20original%20jurisdiction.md) | Options following decision by agency of original jurisdiction. |
 | [5105\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005105%20-%20Joint%20applications%20for%20social%20security%20and%20dependency%20and%20indemnity%20compensation.md) | Joint applications for social security and dependency and indemnity compensation. |
 | [5106\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005106%20-%20Furnishing%20of%20information%20by%20other%20agencies.md) | Furnishing of information by other agencies. |
 | [5107\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005107%20-%20Claimant%20responsibility%3B%20benefit%20of%20the%20doubt.md) | Claimant responsibility; benefit of the doubt. |
-| [5108\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md) | Reopening disallowed claims. |
+| [5108\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005108%20-%20Supplemental%20claims.md) | Supplemental claims. |
 | [5109\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
 | [5109A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
-| [5109B.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109B%20-%20Expedited%20treatment%20of%20remanded%20claims.md) | Expedited treatment of remanded claims. |
+| [5109B.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109B%20-%20Expedited%20treatment%20of%20returned%20and%20remanded%20claims.md) | Expedited treatment of returned and remanded claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,7 +49,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Applicability of Amendment
+
+<i>Amendment of analysis by section 2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–55, §2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted "Supplemental claims" for "Reopening disallowed claims" in item 5108 and "Expedited treatment of returned and remanded claims" for "Expedited treatment of remanded claims" in item 5109B.
 
 <b>2008</b>—Pub. L. 110–389, title II, §212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
 

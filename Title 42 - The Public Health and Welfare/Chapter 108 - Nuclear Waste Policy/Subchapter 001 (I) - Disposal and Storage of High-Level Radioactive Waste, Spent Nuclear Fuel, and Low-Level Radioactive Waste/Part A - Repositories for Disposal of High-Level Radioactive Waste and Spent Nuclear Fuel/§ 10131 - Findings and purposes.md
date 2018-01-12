@@ -18,13 +18,13 @@
 
 (b) The purposes of this part are—
 
-&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that thepublic and the environment will be adequately protected from the hazards posed by high-level radioactive waste and such spent nuclear fuel as may be disposed of in a repository;
+&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that the public and the environment will be adequately protected from the hazards posed by high-level radioactive waste and such spent nuclear fuel as may be disposed of in a repository;
 
 &emsp;(2) to establish the Federal responsibility, and a definite Federal policy, for the disposal of such waste and spent fuel;
 
 &emsp;(3) to define the relationship between the Federal Government and the State governments with respect to the disposal of such waste and spent fuel; and
 
-&emsp;(4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that will ensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
+&emsp;(4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that willensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
 
 (Pub. L. 97–425, title I, §111, Jan. 7, 1983, 96 Stat. 2207.)
 

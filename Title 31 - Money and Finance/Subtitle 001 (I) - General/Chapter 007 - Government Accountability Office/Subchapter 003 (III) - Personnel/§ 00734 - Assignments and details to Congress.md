@@ -28,7 +28,7 @@ In the section, the words "officer or" are added for consistency in the revised 
 
 In subsection (a), the words "Notwithstanding any other provision of law" are omitted as surplus. The word "continuous" is substituted for "on a continuing basis" to eliminate unnecessary words. The words "committee of Congress" are substituted for "committee of the Senate or House of Representatives or with any joint committee of Congress" for consistency and to eliminate unnecessary words. The words "any period of" are omitted as surplus.
 
-In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code.
+In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" forconsistency. The word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 

@@ -28,7 +28,7 @@
 
 #### (b) Selection criteria
 
-Each person appointed to the Council shall be selected solely on the basis of an establishedrecord of distinguished service and shall be eminent in one of the following fields:
+Each person appointed to the Council shall be selected solely on the basis of an established record of distinguished service and shall be eminent in one of the following fields:
 
 &emsp;(1) public health, including clinical dietetics, public health nutrition, epidemiology, clinical medicine, health education, or nutrition education;
 
@@ -92,7 +92,7 @@ Sec. 2. <i>Membership</i>. (A) <i>Composition</i>. The Council shall consist of 
 
 (D) <i>Chairperson</i>. The Chairperson of the Council shall be elected from and by the Council membership. The term of office shall not exceed 5 years. If a vacancy occurs in the Chairpersonship, the Council shall elect a member to fill such vacancy.
 
-(E) <i>Term of Office</i>. The term of office of each of the voting members of the Council shall be 5 years, exceptthat of the five members first appointed by the President, two members shall be appointed for a term of 2 years, two members for a term of 3 years, and one for a term of 4 years, as designated by the President at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of the term. No voting member shall be eligible to serve continuously for more than two consecutive terms.
+(E) <i>Term of Office</i>. The term of office of each of the voting members of the Council shall be 5 years, except that of the five members first appointed by the President, two members shall be appointed for a term of 2 years, two members for a term of 3 years, and one for a term of 4 years, as designated by the President at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of the term. No voting member shall be eligible to serve continuously for more than two consecutive terms.
 
 (F) <i>Executive Secretary</i>. The Administrator of Nutrition Monitoring and Related Research (if appointed under section 101(d) of the Act \[7 U.S.C. 5311(d)\]) shall serve as the Executive Secretary of the Council.
 
@@ -114,7 +114,7 @@ Sec. 5. <i>Administration</i>. (a) The heads of executive departments, agencies,
 
 (c) To the extent provided by law and subject to the availability of appropriations, the Department of Agriculture shall provide the Council with such administrative services, funds, facilities, staff, and other support services as may be necessary for the performance of its functions.
 
-Sec. 6. <i>General provision</i>. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to the Council shall be performed by the Secretary of Agriculture, in accordance with guidelines and procedures established by the Administrator of General Services.
+Sec. 6. <i>General provision</i>. Notwithstanding the provisions of any other Executive order, the functions of thePresident under the Federal Advisory Committee Act that are applicable to the Council shall be performed by the Secretary of Agriculture, in accordance with guidelines and procedures established by the Administrator of General Services.
 
 Sec. 7. The Council shall terminate 10 years after the final comprehensive plan is prepared under section 103 of the Act.
 

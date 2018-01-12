@@ -6,7 +6,7 @@
 
 &emsp;(1) the proposed projects and programs for which the grant will be made will make a significant contribution to improving the medical education (including continuing education) program of the school;
 
-&emsp;(2) the application contains or is supported by adequate assurance that any Federal funds made available under this subchapter will besupplemented by funds or other resources available from other sources, whether public or private;
+&emsp;(2) the application contains or is supported by adequate assurance that any Federal funds made available under this subchapter will be supplemented by funds or other resources available from other sources, whether public or private;
 
 &emsp;(3) the application sets forth such fiscal control and accounting procedures as may be necessary to assure proper disbursement of, and accounting for, Federal funds expended under this subchapter; and
 

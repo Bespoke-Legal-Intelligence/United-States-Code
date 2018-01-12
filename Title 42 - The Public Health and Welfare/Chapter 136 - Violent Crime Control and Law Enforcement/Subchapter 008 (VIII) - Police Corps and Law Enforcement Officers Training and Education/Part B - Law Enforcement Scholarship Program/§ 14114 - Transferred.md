@@ -1,0 +1,6 @@
+### §14114. Transferred
+
+#### Codification
+
+Section 14114 was editorially reclassified as section 12574 of Title 34, Crime Control and Law Enforcement.
+

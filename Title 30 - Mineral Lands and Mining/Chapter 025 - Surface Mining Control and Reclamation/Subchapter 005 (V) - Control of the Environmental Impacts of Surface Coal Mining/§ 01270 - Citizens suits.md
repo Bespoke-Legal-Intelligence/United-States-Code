@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, any person having an inter
 
 &emsp;(1) against the United States or any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution which is alleged to be in violation of the provisions of this chapter or of any rule, regulation, order or permit issued pursuant thereto, or against any other person who is alleged to be in violation of any rule, regulation, order or permit issued pursuant to this subchapter; or
 
-&emsp;(2) against the Secretary or the appropriate State regulatory authority to the extent permitted by the eleventh amendment to the Constitution where there is alleged a failure of the Secretary or the appropriate State regulatory authority to perform any act or duty under this chapter which is not discretionary with the Secretary or with the appropriate State regulatory authority.
+&emsp;(2) against the Secretary or the appropriate State regulatory authority to the extent permitted by the eleventh amendment to the Constitution where there is alleged a failure of the Secretary or the appropriate State regulatory authority to perform any act or duty under this chapter which is not discretionarywith the Secretary or with the appropriate State regulatory authority.
 
 > The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties.
 
@@ -38,7 +38,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (f) Action for damages
 
-Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issuedpursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen's Compensation laws.
+Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issued pursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen's Compensation laws.
 
 (Pub. L. 95–87, title V, §520, Aug. 3, 1977, 91 Stat. 503.)
 

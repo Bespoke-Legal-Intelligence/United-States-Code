@@ -46,3 +46,9 @@ Subsec. (d). Pub. L. 109–365, §703(3), substituted "this part" for "this sect
 
 <b>1993</b>—Subsecs. (a), (b). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" and "Director of the Office for" for "Associate Commissioner on" in subsec. (a) and "Assistant Secretary" for "Commissioner" in two places in subsec. (b).
 
+#### Effective Date
+
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+

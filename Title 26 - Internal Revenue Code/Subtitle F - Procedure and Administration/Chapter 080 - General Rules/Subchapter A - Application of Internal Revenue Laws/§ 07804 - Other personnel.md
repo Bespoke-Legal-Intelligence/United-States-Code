@@ -18,7 +18,7 @@ Unless otherwise prescribed by the Secretary—
 
 #### (c) Delinquent Internal Revenue officers and employees
 
-If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay theamount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710.)
 
@@ -160,7 +160,7 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers' Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers' rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers' rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title II, §202, Dec. 8, 2004, 118 Stat. 3240.
 
@@ -276,7 +276,7 @@ Powers of the Secretary.—In carrying out his responsibilities under this secti
 
 &emsp;"(2) to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
 
-&emsp;"(3) to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training orproviding tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
+&emsp;"(3) to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training or providing tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
 
 &emsp;"(4) to provide for the use of services, personnel, and facilities of Federal executive agencies and of State and local public agencies with their consent, with or without reimbursement therefor; and
 

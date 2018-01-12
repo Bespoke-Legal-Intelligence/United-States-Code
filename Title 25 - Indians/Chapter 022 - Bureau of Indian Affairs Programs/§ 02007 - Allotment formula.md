@@ -4,7 +4,7 @@
 
 #### (1) Formula
 
-&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2017 of this title, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau-funded school. In establishing such formula, the Secretary shall consider—
+&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2017 of thistitle, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau-funded school. In establishing such formula, the Secretary shall consider—
 
 &emsp;&emsp;(A) the number of eligible Indian students served and total student population of the school;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 #### (1) In general
 
-&emsp;The Secretary shall reserve from the funds available for distribution for each fiscal yearunder this section an amount that, in the aggregate, equals 1 percent of the funds available for such purpose for that fiscal year, to be used, at the discretion of the Director of the Office of Indian Education Programs, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section.
+&emsp;The Secretary shall reserve from the funds available for distribution for each fiscal year under this section an amount that, in the aggregate, equals 1 percent of the funds available for such purpose for that fiscal year, to be used, at the discretion of the Director of the Office of Indian Education Programs, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section.
 
 #### (2) Use of funds
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 #### (1) In general
 
-&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
+&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shallbe paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
 
 #### (2) No administrative cost funds
 
@@ -183,6 +183,10 @@ Notwithstanding any other provision of law, at the election of the school board 
 A prior section 2007, Pub. L. 95–561, title XI, §1127, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2007, Pub. L. 95–561, title XI, §1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "2502(c)(2)".</i>
 

@@ -2,7 +2,7 @@
 
 (a)(1) Any employee or applicant for employment adversely affected or aggrieved by a final order or decision of the Merit Systems Protection Board may obtain judicial review of the order or decision.
 
-(2) The Board shall be named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision on the merits on the underlying personnel action or on a request for attorney fees, in which case the agency responsible for taking the personnel action shall be the respondent.
+(2) The Board shall be named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision on the merits on the underlying personnelaction or on a request for attorney fees, in which case the agency responsible for taking the personnel action shall be the respondent.
 
 (b)(1)(A) Except as provided in subparagraph (B) and paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review shall be filed within 60 days after the Board issues notice of the final order or decision of the Board.
 

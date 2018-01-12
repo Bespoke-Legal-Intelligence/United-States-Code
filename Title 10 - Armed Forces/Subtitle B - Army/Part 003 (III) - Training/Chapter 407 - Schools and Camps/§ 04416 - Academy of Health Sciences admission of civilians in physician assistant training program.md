@@ -10,7 +10,7 @@ In General.—The Secretary of the Army may, pursuant to an agreement entered in
 
 (b)
 
-Agreement for Exchange of Services.—An agreement entered into with an institution of higher education under this section shall require the institution, in exchange for servicesprovided under paragraph (1) of subsection (a), to provide academic services described in paragraph (2) of such subsection that the Secretary and authorized representatives of the institution consider appropriate.
+Agreement for Exchange of Services.—An agreement entered into with an institution of higher education under this section shall require the institution, in exchange for services provided under paragraph (1) of subsection (a), to provide academic services described in paragraph (2) of such subsection that the Secretary and authorized representatives of the institution consider appropriate.
 
 (c)
 

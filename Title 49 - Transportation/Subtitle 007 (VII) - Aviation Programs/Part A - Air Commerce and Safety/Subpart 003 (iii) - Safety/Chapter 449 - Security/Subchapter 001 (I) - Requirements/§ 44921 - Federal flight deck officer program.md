@@ -88,7 +88,7 @@ Elements.—The training of a Federal flight deck officer shall include, at a mi
 
 &emsp;&emsp;&emsp;(ii) Training to ensure that the officer maintains exclusive control over the officer's firearm at all times, including training in defensive maneuvers.
 
-&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use the officer's firearm and when it is appropriate to use less than lethal force.
+&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use theofficer's firearm and when it is appropriate to use less than lethal force.
 
 &emsp;&emsp;(C)
 
@@ -104,7 +104,7 @@ Conduct of training.—The training of a Federal flight deck officer in the use 
 
 &emsp;&emsp;&emsp;(iii)
 
-Requalification.—The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearmunder the program. Such requalification shall occur at an interval required by the Under Secretary.
+Requalification.—The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearm under the program. Such requalification shall occur at an interval required by the Under Secretary.
 
 (d)
 
@@ -182,7 +182,7 @@ Procedures Following Accidental Discharges.—If an accidental discharge of a fi
 
 (j)
 
-Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threaten any retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
+Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threatenany retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
 
 &emsp;(1) prohibit a Federal flight deck officer from piloting an aircraft operated by the air carrier; or
 

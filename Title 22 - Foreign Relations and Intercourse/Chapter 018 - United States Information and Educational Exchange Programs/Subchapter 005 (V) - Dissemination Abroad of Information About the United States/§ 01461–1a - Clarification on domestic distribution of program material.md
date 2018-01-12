@@ -20,7 +20,7 @@ The United States Information and Educational Exchange Act of 1948, referred to 
 
 The United States International Broadcasting Act of 1994, referred to in subsec. (a), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (a), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
@@ -32,7 +32,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, text read as follows: "Except as provided in section 1461 of this title and this section, no funds authorized to be appropriated to the United States Information Agency shall be used to influence public opinion in the United States, and no program material prepared by the United States Information Agency shall be distributed within the United States. This section shall not apply to programs carried out pursuant to the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.). The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs."
+<b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, text read as follows: "Except as provided in section 1461 of this title and this section, no funds authorized to be appropriated to the United States Information Agency shall be used to influence public opinion in the United States, and no program material prepared by the United States Information Agency shall be distributed within the United States.This section shall not apply to programs carried out pursuant to the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.). The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs."
 
 <b>1994</b>—Pub. L. 103–236 inserted at end "The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs."
 

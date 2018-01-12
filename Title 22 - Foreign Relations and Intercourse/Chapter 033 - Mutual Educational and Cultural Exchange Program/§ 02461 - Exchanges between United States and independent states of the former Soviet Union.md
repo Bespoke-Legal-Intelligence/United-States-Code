@@ -12,7 +12,7 @@ Funds made available for the purposes of this section shall be available only to
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21,1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
 
@@ -22,5 +22,5 @@ Subsec. (a). Pub. L. 103–199, §301(2)(B)–(E), substituted "agreements with 
 
 #### Definitions
 
-In subsec. (a), independent states of the former Soviet Union and independent states have the meanings given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+In subsec. (a), independent states of the former Soviet Union and independent states have the meanings givenin section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in the case of—
 
-&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similar to those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
+&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similarto those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
 
 &emsp;&emsp;&emsp;(ii) any other plan, limitations similar to the limitations contained in paragraph (3) of section 404(a), and
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (ii) Rate remains in effect so long as it falls within permissible range
 
-&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remainin effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
+&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remain in effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
 
 #### (iii) Permissible range
 

@@ -5,15 +5,17 @@
 | [841\.](%C2%A7%2000841%20-%20Credit%20for%20foreign%20taxes.md) | Credit for foreign taxes. |
 | [842\.](%C2%A7%2000842%20-%20Foreign%20companies%20carrying%20on%20insurance%20business.md) | Foreign companies carrying on insurance business. |
 | [843\.](%C2%A7%2000843%20-%20Annual%20accounting%20period.md) | Annual accounting period. |
-| [844\.](%C2%A7%2000844%20-%20Special%20loss%20carryover%20rules.md) | Special loss carryover rules. |
+| \[844. | Repealed.\] |
 | [845\.](%C2%A7%2000845%20-%20Certain%20reinsurance%20agreements.md) | Certain reinsurance agreements. |
 | [846\.](%C2%A7%2000846%20-%20Discounted%20unpaid%20losses%20defined.md) | Discounted unpaid losses defined. |
-| [847\.](%C2%A7%2000847%20-%20Special%20estimated%20tax%20payments.md) | Special estimated tax payments. |
+| \[847. | Repealed.\] |
 | [848\.](%C2%A7%2000848%20-%20Capitalization%20of%20certain%20policy%20acquisition%20expenses.md) | Capitalization of certain policy acquisition expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§13511(b)(2)(A), 13516(a), Dec. 22, 2017, 131 Stat. 2142, 2144, struck out items 844 "Special loss carryover rules" and 847 "Special estimated tax payments".
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11301(c), Nov. 5, 1990, 104 Stat. 1388–449, added item 848.
 
@@ -39,8 +41,8 @@
 - [&sect; 00841 - Credit for foreign taxes](%C2%A7%2000841%20-%20Credit%20for%20foreign%20taxes.md)
 - [&sect; 00842 - Foreign companies carrying on insurance business](%C2%A7%2000842%20-%20Foreign%20companies%20carrying%20on%20insurance%20business.md)
 - [&sect; 00843 - Annual accounting period](%C2%A7%2000843%20-%20Annual%20accounting%20period.md)
-- [&sect; 00844 - Special loss carryover rules](%C2%A7%2000844%20-%20Special%20loss%20carryover%20rules.md)
+- [&sect; 00844 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13511(b)(2)(A), Dec. 22, 2017, 131 Stat. 2142](%C2%A7%2000844%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713511%28b%29%282%29%28A%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202142.md)
 - [&sect; 00845 - Certain reinsurance agreements](%C2%A7%2000845%20-%20Certain%20reinsurance%20agreements.md)
 - [&sect; 00846 - Discounted unpaid losses defined](%C2%A7%2000846%20-%20Discounted%20unpaid%20losses%20defined.md)
-- [&sect; 00847 - Special estimated tax payments](%C2%A7%2000847%20-%20Special%20estimated%20tax%20payments.md)
+- [&sect; 00847 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13516(a), Dec. 22, 2017, 131 Stat. 2144](%C2%A7%2000847%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713516%28a%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202144.md)
 - [&sect; 00848 - Capitalization of certain policy acquisition expenses](%C2%A7%2000848%20-%20Capitalization%20of%20certain%20policy%20acquisition%20expenses.md)

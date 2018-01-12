@@ -2,11 +2,11 @@
 
 #### (a) Regulations
 
-The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
+The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f), shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
 
 #### (b) Distinctions in regulations
 
-In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensed from the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
+In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensedfrom the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
 
 #### (c) Requirements
 
@@ -56,15 +56,15 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 &emsp;(ii) such State is taking steps to establish a fund pursuant to section 6991c(c)(1) of this title to be submitted as evidence of financial responsibility.
 
-> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
+> A suspension by the Administrator pursuant to this paragraph shall extend for a period not toexceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
 
 #### (e) New tank performance standards
 
-The Administrator shall, not later than three months prior to the effective date specified in subsection (f) of this section, issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
+The Administrator shall, not later than three months prior to the effective date specified in subsection (f), issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
 
 #### (f) Effective dates
 
-(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
+(1) Regulations issued pursuant to subsections (c) and (d), and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
 
 (2) Standards issued pursuant to subsection (e) of this section (entitled "New Tank Performance Standards") for underground storage tanks containing regulated substances defined in section 6991(7)(A) of this title shall be effective not later than thirty-six months after November 8, 1984.
 
@@ -72,7 +72,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (g) Interim prohibition
 
-(1) Until the effective date of the standards promulgated by the Administrator under subsection (e) of this section and after one hundred and eighty days after November 8, 1984, no person may install an underground storage tank for the purpose of storing regulated substances unless such tank (whether of single or double wall construction)—
+(1) Until the effective date of the standards promulgated by the Administrator under subsection (e) and after one hundred and eighty days after November 8, 1984, no person may install an underground storage tank for the purpose of storing regulated substances unless such tank (whether of single or double wall construction)—
 
 &emsp;(A) will prevent releases due to corrosion or structural failure for the operational life of the tank;
 
@@ -86,7 +86,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (1) Before regulations
 
-&emsp;Before the effective date of regulations under subsection (c) of this section, the Administrator (or a State pursuant to paragraph (7)) is authorized to—
+&emsp;Before the effective date of regulations under subsection (c), the Administrator (or a State pursuant to paragraph (7)) is authorized to—
 
 &emsp;&emsp;(A) require the owner or operator of an underground storage tank to undertake corrective action with respect to any release of petroleum when the Administrator (or the State) determines that such corrective action will be done properly and promptly by the owner or operator of the underground storage tank from which the release occurs; or
 
@@ -96,7 +96,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (2) After regulations
 
-&emsp;Following the effective date of regulations under subsection (c) of this section, all actions or orders of the Administrator (or a State pursuant to paragraph (7)) described in paragraph (1) of this subsection shall be in conformity with such regulations. Following such effective date, the Administrator (or the State) may undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank only if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment and one or more of the following situations exists:
+&emsp;Following the effective date of regulations under subsection (c), all actions or orders of the Administrator (or a State pursuant to paragraph (7)) described in paragraph (1) of this subsection shall be in conformity with such regulations. Following such effective date, the Administrator (or the State) may undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank only if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment and one or more of the following situations exists:
 
 &emsp;&emsp;(A) No person can be found, within 90 days or such shorter period as may be necessary to protect human health and the environment, who is—
 
@@ -118,7 +118,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (4) Corrective action orders
 
-&emsp;The Administrator is authorized to issue orders to the owner or operator of an underground storage tank to carry out subparagraph (A) of paragraph (1) or to carry out regulations issued under subsection (c)(4) of this section. A State acting pursuant to paragraph (7) of this subsection is authorized to carry out subparagraph (A) of paragraph (1) only until the State's program is approved by the Administrator under section 6991c of this title. Such orders shall be issued and enforced in the same manner and subject to the same requirements as orders under section 6991e of this title.
+&emsp;The Administrator is authorized to issue orders to the owner or operator of an underground storage tank to carry out subparagraph (A) of paragraph (1) or to carry out regulations issued under subsection (c)(4). A State acting pursuant to paragraph (7) of this subsection is authorized to carry out subparagraph (A) of paragraph (1) only until the State's program is approved by the Administrator under section 6991c of this title. Such orders shall be issued and enforced in the same manner and subject to the same requirements as orders under section 6991e of this title.
 
 #### (5) Allowable corrective actions
 
@@ -128,11 +128,11 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (A) In general
 
-&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operatorof such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under section 1321 of title 33.
+&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operator of such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under section 1321 of title 33.
 
 #### (B) Recovery
 
-&emsp;&emsp;In determining the equities for seeking the recovery of costs under subparagraph (A), the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5) of this section.
+&emsp;&emsp;In determining the equities for seeking the recovery of costs under subparagraph (A), the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5).
 
 #### (C) Effect on liability
 
@@ -210,7 +210,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to theprovisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 
@@ -250,7 +250,7 @@ The Administrator shall require each State that receives funding under this subc
 
 #### (A) Manufacturer and installer financial responsibility
 
-&emsp;&emsp;A person that manufactures an underground storage tank or piping for an underground storage tank system or that installs an underground storage tank system is required to maintain evidence of financial responsibility under subsection (d) of this section in order to provide for the costs of corrective actions directly related to releases caused by improper manufacture or installation unless the person can demonstrate themselves <sup>1</sup> to be already covered as an owner or operator of an underground storage tank under this section.
+&emsp;&emsp;A person that manufactures an underground storage tank or piping for an underground storage tank system or that installs an underground storage tank system is required to maintain evidence of financial responsibility under subsection (d) in order to provide for the costs of corrective actions directly related to releases caused by improper manufacture or installation unless the person can demonstrate themselves <sup>1</sup> to be already covered as an owner or operator of an underground storage tank under this section.
 
 #### (B) Installer certification
 
@@ -310,7 +310,7 @@ The effective date of this subsection, referred to in subsec. (i)(1)(A), (D), is
 
 <b>2006</b>—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
 
-<b>2005</b>—Subsec. (f)(1). Pub. L. 109–58, §1533(2), substituted "subsections (c) and (d)" for "subsection (c) and (d)".
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–58, §1533(2), substituted "subsections (c) and (d)" for "subsection (c) and (d) of this section".
 
 Pub. L. 109–58, §1532(b)(1)(A), substituted "6991(7)(B)" for "6991(2)(B)".
 
@@ -338,7 +338,7 @@ Pub. L. 109–58, §1526(b), added subsec. (i) relating to government-owned tank
 
 Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by "striking out 'or' after 'credit,' and by striking out the period at the end thereof and inserting in lieu thereof the following: 'or any other method satisfactory to the Administrator.' ", was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
-Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank."
+Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsuddenaccidental releases arising from operating an underground storage tank."
 
 Subsec. (d)(2) to (5). Pub. L. 99–499, §205(c)(2), (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 

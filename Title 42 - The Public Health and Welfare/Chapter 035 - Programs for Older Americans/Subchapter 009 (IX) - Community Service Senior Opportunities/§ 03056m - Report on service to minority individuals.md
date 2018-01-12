@@ -38,5 +38,5 @@ The Secretary shall annually submit such a report to the appropriate committees 
 
 #### Prior Provisions
 
-A prior section 3056m, Pub. L. 89–73, title V, §515, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2286, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 109–365. See section 3056o of this title.
+A prior section 3056m, Pub. L. 89–73, title V, §515, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114Stat. 2286, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 109–365. See section 3056o of this title.
 

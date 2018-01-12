@@ -104,7 +104,7 @@ Grants for establishment of network.—The Secretary of State shall, utilizing a
 
 &emsp;"(2)
 
-Media network.—The media network established using funds under paragraph (1) shall provide an effective forum to convene a broad range of individuals, organizations, and governmental participants involved in journalistic activities and the development of free and independent media in order to—
+Media network.—The media network established using funds under paragraph (1) shall providean effective forum to convene a broad range of individuals, organizations, and governmental participants involved in journalistic activities and the development of free and independent media in order to—
 
 &emsp;&emsp;"(A) fund a clearinghouse to collect and share information concerning international media development and training;
 

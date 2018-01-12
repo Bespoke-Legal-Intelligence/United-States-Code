@@ -1,6 +1,6 @@
 # Printed pages - Title 32 - National Guard
 
-GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
+GPO's 2017 edition (laws in effect as of 2018-01-12), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title32.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -51,39 +51,39 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00334 - Repealed. Pub. L. 97&#8211;124, &sect;3, Dec. 29, 1981, 95 Stat. 1666](Chapter%20003%20-%20Personnel/%C2%A7%2000334%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93124%2C%20%C2%A73%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201666.md) | 29 |
 | [&sect; 00335 - Repealed. Pub. L. 98&#8211;525, title IV, &sect;414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519](Chapter%20003%20-%20Personnel/%C2%A7%2000335%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93525%2C%20title%20IV%2C%20%C2%A7414%28b%29%282%29%28A%29%2C%20Oct.%2019%2C%201984%2C%2098%20Stat.%202519.md) | 29 |
 | [Chapter 005 - Training](Chapter%20005%20-%20Training/README.md) | 29 |
-| [&sect; 00501 - Training generally](Chapter%20005%20-%20Training/%C2%A7%2000501%20-%20Training%20generally.md) | 29–31 |
-| [&sect; 00502 - Required drills and field exercises](Chapter%20005%20-%20Training/%C2%A7%2000502%20-%20Required%20drills%20and%20field%20exercises.md) | 31–33 |
-| [&sect; 00503 - Participation in field exercises](Chapter%20005%20-%20Training/%C2%A7%2000503%20-%20Participation%20in%20field%20exercises.md) | 33 |
-| [&sect; 00504 - National Guard schools and small arms competitions](Chapter%20005%20-%20Training/%C2%A7%2000504%20-%20National%20Guard%20schools%20and%20small%20arms%20competitions.md) | 33–34 |
-| [&sect; 00505 - Army and Air Force schools and field exercises](Chapter%20005%20-%20Training/%C2%A7%2000505%20-%20Army%20and%20Air%20Force%20schools%20and%20field%20exercises.md) | 34 |
-| [&sect; 00506 - Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard](Chapter%20005%20-%20Training/%C2%A7%2000506%20-%20Assignment%20and%20detail%20of%20members%20of%20Regular%20Army%20or%20Regular%20Air%20Force%20for%20instruction%20of%20National%20Guard.md) | 34 |
-| [&sect; 00507 - Instruction in firing; supply of ammunition](Chapter%20005%20-%20Training/%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md) | 34–35 |
-| [&sect; 00508 - Assistance for certain youth and charitable organizations](Chapter%20005%20-%20Training/%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md) | 35 |
-| [&sect; 00509 - National Guard Youth Challenge Program of opportunities for civilian youth](Chapter%20005%20-%20Training/%C2%A7%2000509%20-%20National%20Guard%20Youth%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md) | 35–38 |
-| [Chapter 007 - Service, Supply, and Procurement](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md) | 38 |
-| [&sect; 00701 - Uniforms, arms, and equipment to be same as Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000701%20-%20Uniforms%2C%20arms%2C%20and%20equipment%20to%20be%20same%20as%20Army%20or%20Air%20Force.md) | 38 |
-| [&sect; 00702 - Issue of supplies](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000702%20-%20Issue%20of%20supplies.md) | 38–39 |
-| [&sect; 00703 - Purchases of supplies by States from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000703%20-%20Purchases%20of%20supplies%20by%20States%20from%20Army%20or%20Air%20Force.md) | 39 |
-| [&sect; 00704 - Accountability relief from upon order to active duty](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000704%20-%20Accountability%20relief%20from%20upon%20order%20to%20active%20duty.md) | 39–40 |
-| [&sect; 00705 - Purchase of uniforms and equipment by officers of National Guard from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000705%20-%20Purchase%20of%20uniforms%20and%20equipment%20by%20officers%20of%20National%20Guard%20from%20Army%20or%20Air%20Force.md) | 40 |
-| [&sect; 00706 - Return of arms and equipment upon relief from Federal service](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000706%20-%20Return%20of%20arms%20and%20equipment%20upon%20relief%20from%20Federal%20service.md) | 40 |
-| [&sect; 00707 - Use of public buildings for offices by instructors](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000707%20-%20Use%20of%20public%20buildings%20for%20offices%20by%20instructors.md) | 40 |
-| [&sect; 00708 - Property and fiscal officers](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000708%20-%20Property%20and%20fiscal%20officers.md) | 40–41 |
-| [&sect; 00709 - Technicians employment, use, status](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000709%20-%20Technicians%20employment%2C%20use%2C%20status.md) | 41–47 |
-| [&sect; 00710 - Accountability for property issued to the National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000710%20-%20Accountability%20for%20property%20issued%20to%20the%20National%20Guard.md) | 47–49 |
-| [&sect; 00711 - Disposition of obsolete or condemned property](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000711%20-%20Disposition%20of%20obsolete%20or%20condemned%20property.md) | 49 |
-| [&sect; 00712 - Disposition of proceeds of condemned stores issued to National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000712%20-%20Disposition%20of%20proceeds%20of%20condemned%20stores%20issued%20to%20National%20Guard.md) | 49 |
-| [&sect; 00713 - Official mail free transmission](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000713%20-%20Official%20mail%20free%20transmission.md) | 49 |
-| [&sect; 00714 - Final settlement of accounts deceased members](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | 49–50 |
-| [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | 50–51 |
-| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 51–52 |
-| [&sect; 00717 - Repealed. Pub. L. 109&#8211;163, div. A, title V, &sect;589(b)(2), Jan. 6, 2006, 119 Stat. 3279](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000717%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7589%28b%29%282%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203279.md) | 52 |
-| [Chapter 009 - Homeland Defense Activities](Chapter%20009%20-%20Homeland%20Defense%20Activities/README.md) | 52 |
-| [&sect; 00901 - Definitions](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000901%20-%20Definitions.md) | 52 |
-| [&sect; 00902 - Homeland defense activities funds](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000902%20-%20Homeland%20defense%20activities%20funds.md) | 52 |
-| [&sect; 00903 - Regulations](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000903%20-%20Regulations.md) | 52 |
-| [&sect; 00904 - Homeland defense duty](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000904%20-%20Homeland%20defense%20duty.md) | 52–53 |
-| [&sect; 00905 - Funding assistance](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000905%20-%20Funding%20assistance.md) | 53 |
-| [&sect; 00906 - Requests for funding assistance](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000906%20-%20Requests%20for%20funding%20assistance.md) | 53 |
-| [&sect; 00907 - Relationship to State duty](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000907%20-%20Relationship%20to%20State%20duty.md) | 53 |
-| [&sect; 00908 - Annual report](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000908%20-%20Annual%20report.md) | 53 |
+| [&sect; 00501 - Training generally](Chapter%20005%20-%20Training/%C2%A7%2000501%20-%20Training%20generally.md) | 29–30 |
+| [&sect; 00502 - Required drills and field exercises](Chapter%20005%20-%20Training/%C2%A7%2000502%20-%20Required%20drills%20and%20field%20exercises.md) | 30–31 |
+| [&sect; 00503 - Participation in field exercises](Chapter%20005%20-%20Training/%C2%A7%2000503%20-%20Participation%20in%20field%20exercises.md) | 31–32 |
+| [&sect; 00504 - National Guard schools and small arms competitions](Chapter%20005%20-%20Training/%C2%A7%2000504%20-%20National%20Guard%20schools%20and%20small%20arms%20competitions.md) | 32 |
+| [&sect; 00505 - Army and Air Force schools and field exercises](Chapter%20005%20-%20Training/%C2%A7%2000505%20-%20Army%20and%20Air%20Force%20schools%20and%20field%20exercises.md) | 32–33 |
+| [&sect; 00506 - Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard](Chapter%20005%20-%20Training/%C2%A7%2000506%20-%20Assignment%20and%20detail%20of%20members%20of%20Regular%20Army%20or%20Regular%20Air%20Force%20for%20instruction%20of%20National%20Guard.md) | 33 |
+| [&sect; 00507 - Instruction in firing; supply of ammunition](Chapter%20005%20-%20Training/%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md) | 33 |
+| [&sect; 00508 - Assistance for certain youth and charitable organizations](Chapter%20005%20-%20Training/%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md) | 33–34 |
+| [&sect; 00509 - National Guard Youth Challenge Program of opportunities for civilian youth](Chapter%20005%20-%20Training/%C2%A7%2000509%20-%20National%20Guard%20Youth%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md) | 34–36 |
+| [Chapter 007 - Service, Supply, and Procurement](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md) | 36–37 |
+| [&sect; 00701 - Uniforms, arms, and equipment to be same as Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000701%20-%20Uniforms%2C%20arms%2C%20and%20equipment%20to%20be%20same%20as%20Army%20or%20Air%20Force.md) | 37 |
+| [&sect; 00702 - Issue of supplies](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000702%20-%20Issue%20of%20supplies.md) | 37–38 |
+| [&sect; 00703 - Purchases of supplies by States from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000703%20-%20Purchases%20of%20supplies%20by%20States%20from%20Army%20or%20Air%20Force.md) | 38 |
+| [&sect; 00704 - Accountability relief from upon order to active duty](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000704%20-%20Accountability%20relief%20from%20upon%20order%20to%20active%20duty.md) | 38 |
+| [&sect; 00705 - Purchase of uniforms and equipment by officers of National Guard from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000705%20-%20Purchase%20of%20uniforms%20and%20equipment%20by%20officers%20of%20National%20Guard%20from%20Army%20or%20Air%20Force.md) | 38–39 |
+| [&sect; 00706 - Return of arms and equipment upon relief from Federal service](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000706%20-%20Return%20of%20arms%20and%20equipment%20upon%20relief%20from%20Federal%20service.md) | 39 |
+| [&sect; 00707 - Use of public buildings for offices by instructors](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000707%20-%20Use%20of%20public%20buildings%20for%20offices%20by%20instructors.md) | 39 |
+| [&sect; 00708 - Property and fiscal officers](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000708%20-%20Property%20and%20fiscal%20officers.md) | 39–40 |
+| [&sect; 00709 - Technicians employment, use, status](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000709%20-%20Technicians%20employment%2C%20use%2C%20status.md) | 40–46 |
+| [&sect; 00710 - Accountability for property issued to the National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000710%20-%20Accountability%20for%20property%20issued%20to%20the%20National%20Guard.md) | 46–47 |
+| [&sect; 00711 - Disposition of obsolete or condemned property](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000711%20-%20Disposition%20of%20obsolete%20or%20condemned%20property.md) | 47–48 |
+| [&sect; 00712 - Disposition of proceeds of condemned stores issued to National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000712%20-%20Disposition%20of%20proceeds%20of%20condemned%20stores%20issued%20to%20National%20Guard.md) | 48 |
+| [&sect; 00713 - Official mail free transmission](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000713%20-%20Official%20mail%20free%20transmission.md) | 48 |
+| [&sect; 00714 - Final settlement of accounts deceased members](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | 48–49 |
+| [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | 49–50 |
+| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 50–51 |
+| [&sect; 00717 - Repealed. Pub. L. 109&#8211;163, div. A, title V, &sect;589(b)(2), Jan. 6, 2006, 119 Stat. 3279](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000717%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7589%28b%29%282%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203279.md) | 51 |
+| [Chapter 009 - Homeland Defense Activities](Chapter%20009%20-%20Homeland%20Defense%20Activities/README.md) | 51 |
+| [&sect; 00901 - Definitions](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000901%20-%20Definitions.md) | 51 |
+| [&sect; 00902 - Homeland defense activities funds](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000902%20-%20Homeland%20defense%20activities%20funds.md) | 51 |
+| [&sect; 00903 - Regulations](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000903%20-%20Regulations.md) | 51 |
+| [&sect; 00904 - Homeland defense duty](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000904%20-%20Homeland%20defense%20duty.md) | 51 |
+| [&sect; 00905 - Funding assistance](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000905%20-%20Funding%20assistance.md) | 51–52 |
+| [&sect; 00906 - Requests for funding assistance](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000906%20-%20Requests%20for%20funding%20assistance.md) | 52 |
+| [&sect; 00907 - Relationship to State duty](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000907%20-%20Relationship%20to%20State%20duty.md) | 52 |
+| [&sect; 00908 - Annual report](Chapter%20009%20-%20Homeland%20Defense%20Activities/%C2%A7%2000908%20-%20Annual%20report.md) | 52 |

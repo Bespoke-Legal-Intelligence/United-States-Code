@@ -38,7 +38,7 @@ Pub. L. 114–27, title I, §101, June 29, 2015, 129 Stat. 363, provided that: "
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, provided that: "This title \[amending section3721 of this title\] may be referred to as the 'Africa Investment Incentive Act of 2006'."
+Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, provided that: "This title \[amending section 3721 of this title\] may be referred to as the 'Africa Investment Incentive Act of 2006'."
 
 #### Short Title
 
@@ -210,7 +210,7 @@ Entries.—The entries referred to in subsection (a) are entries of apparel arti
 
 "(a)
 
-Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
+Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
 &emsp;"(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
 

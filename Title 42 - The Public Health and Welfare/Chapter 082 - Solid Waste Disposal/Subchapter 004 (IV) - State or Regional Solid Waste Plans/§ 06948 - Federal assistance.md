@@ -18,7 +18,7 @@
 
 > for grants to States (and where appropriate to regional, local, and interstate agencies) to implement programs requiring compliance by solid waste management facilities with the criteria promulgated under section 6944(a) of this title and section 6907(a)(3) of this title and with the provisions of section 6945 of this title. To the extent practicable, such programs shall require such compliance not later than thirty-six months after November 8, 1984.
 
-(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>4</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
+(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>4</sup> of this title.No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
 
 (B) Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) <sup>4</sup> of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
 
@@ -26,11 +26,11 @@
 
 #### (b) State allotment
 
-The sums appropriated in any fiscal year under subsection (a)(1) of this section shall be allotted by the Administrator among all States, in the ratio that the population in each State bears to the population in all of the States, except that no State shall receive less than one-half of 1 per centum of the sums so allotted in any fiscal year. No State shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for other than non-recurrent expenditures for solid waste management control programs will be less than its expenditures were for such programs during fiscal year 1975, except that such funds may be reduced by an amount equal to their proportionate share of any general reduction of State spending ordered by the Governor or legislature of such State. No State shall receive any grant for solid waste management programs unless the Administrator is satisfied that such grant will be so used as to supplement and, to the extent practicable, increase the level of State, local, regional, or other non-Federal funds that would in the absence of such grant be made available for the maintenance of such programs.
+The sums appropriated in any fiscal year under subsection (a)(1) shall be allotted by the Administrator among all States, in the ratio that the population in each State bears to the population in all of the States, except that no State shall receive less than one-half of 1 per centum of the sums so allotted in any fiscal year. No State shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for other than non-recurrent expenditures for solid waste management control programs will be less than its expenditures were for such programs during fiscal year 1975, except that such funds may be reduced by an amount equal to their proportionate share of any general reduction of State spending ordered by the Governor or legislature of such State. No State shall receive any grant for solid waste management programs unless the Administrator is satisfied that such grant will be so used as to supplement and, to the extent practicable, increase the level of State, local, regional, or other non-Federal funds that would in the absence of such grant be made available for the maintenance of such programs.
 
 #### (c) Distribution of Federal financial assistance within the State
 
-The Federal assistance allotted to the States under subsection (b) of this section shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to section 6946(b) of this title.
+The Federal assistance allotted to the States under subsection (b) shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to section 6946(b) of this title.
 
 #### (d) Technical assistance
 
@@ -56,7 +56,7 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 (1) The Administrator may make grants to States, which have a State plan approved under section 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
-(2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b) of this section.
+(2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b).
 
 (3) No grant may be made under this subsection unless an application therefor is submitted to, and approved by, the Administrator. The application shall be in such form, be submitted in such manner, and contain such information as the Administrator may require.
 

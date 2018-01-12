@@ -34,10 +34,13 @@
 | [7316\.](%C2%A7%2007316%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md) | Support for transfers of decommissioned vessels and shipboard equipment. |
 | [7317\.](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md) | Status of Government rights in the designs of vessels, boats, and craft, and components thereof. |
 | [7318\.](%C2%A7%2007318%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md) | Warranty requirements for shipbuilding contracts. |
+| [7319\.](%C2%A7%2007319%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md) | Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+Pub. L. 115–91, div. C, title XXXI, §3115(b)(2), Dec. 12, 2017, 131 Stat. 1887, added item 7319.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
 
@@ -126,3 +129,4 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 07316 - Support for transfers of decommissioned vessels and shipboard equipment](%C2%A7%2007316%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md)
 - [&sect; 07317 - Status of Government rights in the designs of vessels, boats, and craft, and components thereof](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md)
 - [&sect; 07318 - Warranty requirements for shipbuilding contracts](%C2%A7%2007318%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md)
+- [&sect; 07319 - Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium](%C2%A7%2007319%20-%20Requirements%20for%20availability%20of%20funds%20relating%20to%20advanced%20naval%20nuclear%20fuel%20systems%20based%20on%20low-enriched%20uranium.md)

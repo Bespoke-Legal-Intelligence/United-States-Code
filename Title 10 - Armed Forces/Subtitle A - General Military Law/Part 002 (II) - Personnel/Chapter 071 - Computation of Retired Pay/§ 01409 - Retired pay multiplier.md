@@ -54,85 +54,69 @@ Retirement after december 31, 2006.—In the case of a member who retires after 
 
 &emsp;&emsp;&emsp;&emsp;(II) the member's years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
 
+&emsp;(4)
+
+Modernized retirement system.—
+
+&emsp;&emsp;(A)
+
+Reduced multiplier for full tsp members.—Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a "full TSP member")—
+
+&emsp;&emsp;&emsp;(i) paragraph (1)(A) shall be applied by substituting "2" for "2½";
+
+&emsp;&emsp;&emsp;(ii) clause (i) of paragraph (3)(B) shall be applied by substituting "60 percent" for "75 percent"; and
+
+&emsp;&emsp;&emsp;(iii) clause (ii)(I) of such paragraph shall be applied by substituting "2" for "2½".
+
+&emsp;&emsp;(B)
+
+Election to participate in modernized retirement system.—Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.
+
+&emsp;&emsp;(C)
+
+Election period.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided in clauses (ii), (iii), (iv), and (v), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.
+
+&emsp;&emsp;&emsp;(ii)
+
+Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.
+
+&emsp;&emsp;&emsp;(iii)
+
+Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
+
+&emsp;&emsp;&emsp;(iv)
+
+Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers' Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+&emsp;&emsp;&emsp;&emsp;(I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers' Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+&emsp;&emsp;&emsp;(v)
+
+Inactive reserves.—A member of a reserve component who is not in an active status during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+&emsp;&emsp;&emsp;&emsp;(I) on or after the date on which such member is transferred from an inactive status to an active status or active duty; and
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+&emsp;&emsp;(D)
+
+No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member's election under that subparagraph by reason of the member's election.
+
+&emsp;&emsp;(E)
+
+Regulations.—The Secretary concerned shall prescribe regulations to implement this paragraph.
+
 (c)
 
 Years of Creditable Service Defined.—In this section, the term "years of creditable service" means the number of years of service creditable to a member in computing the member's retired or retainer pay (including 1/12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 
-(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct.17, 2006, 120 Stat. 2259; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 114–92, div. A, title VI, §631(a), Nov. 25, 2015, 129 Stat. 842; Pub. L. 114–328, div. A, title VI, §631(a), Dec. 23, 2016, 130 Stat. 2162.)
-
-#### Amendment of Subsection (b)(4)(C)
-
-<i>Pub. L. 114–328, div. A, title VI, §631, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of Pub. L. 114–92 (see below), subsection (b)(4)(C) is amended:</i>
-
-<i>(1) in clause (i), by striking "and (iii)" and inserting ", (iii), (iv), and (v)"; and</i>
-
-<i>(2) by adding at the end the following new clauses:</i>
-
-&emsp;&emsp;&emsp;<i>(iv)</i>
-
-<i>Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers' Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers' Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) not later than 30 days after such date or the end of such election period, whichever is later.</i>
-
-&emsp;&emsp;&emsp;<i>(v)</i>
-
-<i>Inactive reserves.—A member of a reserve component who is not in an active status during the election period specified in clause (i) shall make the election described in subparagraph (B)—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the date on which such member is transferred from an inactive status to an active status or active duty; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) not later than 30 days after such date or the end of such election period, whichever is later.</i>
-
-<i>See 2016 Amendment note below.</i>
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 114–92, div. A, title VI, §§631(a), 635, Nov. 25, 2015, 129 Stat. 842, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by adding at the end the following new paragraph:</i>
-
-&emsp;<i>(4)</i>
-
-<i>Modernized retirement system.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>Reduced multiplier for full tsp members.—Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a "full TSP member")—</i>
-
-&emsp;&emsp;&emsp;<i>(i) paragraph (1)(A) shall be applied by substituting "2" for "2½";</i>
-
-&emsp;&emsp;&emsp;<i>(ii) clause (i) of paragraph (3)(B) shall be applied by substituting "60 percent" for "75 percent"; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) clause (ii)(I) of such paragraph shall be applied by substituting "2" for "2½".</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Election to participate in modernized retirement system.—Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.</i>
-
-&emsp;&emsp;<i>(C)</i>
-
-<i>Election period.—</i>
-
-&emsp;&emsp;&emsp;<i>(i)</i>
-
-<i>In general.—Except as provided in clauses (ii) and (iii), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.</i>
-
-&emsp;&emsp;&emsp;<i>(ii)</i>
-
-<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.</i>
-
-&emsp;&emsp;&emsp;<i>(iii)</i>
-
-<i>Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.</i>
-
-&emsp;&emsp;<i>(D)</i>
-
-<i>No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member's election under that subparagraph by reason of the member's election.</i>
-
-&emsp;&emsp;<i>(E)</i>
-
-<i>Regulations.—The Secretary concerned shall prescribe regulations to implement this paragraph.</i>
-
-<i>See 2015 Amendment note below.</i>
+(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A,title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 114–92, div. A, title VI, §631(a), Nov. 25, 2015, 129 Stat. 842; Pub. L. 114–328, div. A, title VI, §631(a), Dec. 23, 2016, 130 Stat. 2162.)
 
 #### References in Text
 

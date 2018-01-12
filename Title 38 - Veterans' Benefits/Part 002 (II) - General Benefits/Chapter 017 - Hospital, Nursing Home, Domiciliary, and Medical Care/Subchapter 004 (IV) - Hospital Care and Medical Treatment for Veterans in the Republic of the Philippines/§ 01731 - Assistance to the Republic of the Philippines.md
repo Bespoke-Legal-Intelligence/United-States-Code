@@ -2,7 +2,7 @@
 
 The President is authorized to assist the Republic of the Philippines in fulfilling its responsibility in providing medical care and treatment for Commonwealth Army veterans and new Philippine Scouts in need of such care and treatment for service-connected disabilities and non-service-connected disabilities under certain conditions.
 
-(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §631; amended Pub. L. 97–72, title I,§107(b), Nov. 3, 1981, 95 Stat. 1052; renumbered §1731, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §631; amended Pub. L. 97–72, title I, §107(b), Nov. 3, 1981, 95 Stat. 1052; renumbered §1731, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

@@ -42,7 +42,7 @@ The Director may execute a contract for program oversight and fiscal management 
 
 #### (c) Reports to Congress
 
-The Director shall submit a copy of the annual report required by subsection (b)(1)(F) to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Health, Education, Labor, and Pensions, the House of Representatives Committee on Science and Technology, and the House of Representatives Committee on Education and Labor.
+The Director shall submit a copy of the annual report required by subsection (b)(1)(F) to the Senate Committee on Commerce, Science, andTransportation, the Senate Committee on Health, Education, Labor, and Pensions, the House of Representatives Committee on Science and Technology, and the House of Representatives Committee on Education and Labor.
 
 (Pub. L. 111–358, title V, §554, Jan. 4, 2011, 124 Stat. 4024.)
 

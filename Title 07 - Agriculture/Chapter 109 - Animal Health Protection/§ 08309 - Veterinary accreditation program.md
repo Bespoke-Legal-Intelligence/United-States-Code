@@ -12,7 +12,7 @@ The Secretary shall consult with State animal health officials and veterinary pr
 
 #### (1) In general
 
-&emsp;The Secretary may, after notice and opportunity for a hearing on the record, suspend or revoke the accreditation of any veterinarianaccredited under this title <sup>1</sup> who violates this chapter.
+&emsp;The Secretary may, after notice and opportunity for a hearing on the record, suspend or revoke the accreditation of any veterinarian accredited under this title <sup>1</sup> who violates this chapter.
 
 #### (2) Final order
 

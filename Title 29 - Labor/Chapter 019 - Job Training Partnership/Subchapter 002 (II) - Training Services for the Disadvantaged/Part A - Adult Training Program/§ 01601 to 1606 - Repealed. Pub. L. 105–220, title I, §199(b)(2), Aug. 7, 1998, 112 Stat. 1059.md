@@ -2,7 +2,7 @@
 
 Section 1601, Pub. L. 97–300, title II, §201, as added Pub. L. 102–367, title II, §201, Sept. 7, 1992, 106 Stat. 1052, stated purpose of adult training program.
 
-A prior section 1601, Pub. L. 97–300, title II, §201, Oct. 13, 1982, 96 Stat. 1358, related to allotment of funds under adult and youth programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
+A prior section 1601, Pub. L. 97–300, title II, §201, Oct. 13, 1982, 96 Stat. 1358, related to allotment of fundsunder adult and youth programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
 Section 1602, Pub. L. 97–300, title II, §202, as added Pub. L. 102–367, title VII, §701(c)(1), Sept. 7, 1992, 106 Stat. 1104, related to allotment and allocation.
 

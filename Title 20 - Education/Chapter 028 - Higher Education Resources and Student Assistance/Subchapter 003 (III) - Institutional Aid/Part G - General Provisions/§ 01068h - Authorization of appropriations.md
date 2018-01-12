@@ -54,7 +54,7 @@ A prior section 1069, Pub. L. 89–329, title III, §354, as added Pub. L. 99–
 
 Another prior section 1069, Pub. L. 89–329, title III, §344, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1399, provided for a program of grants to encourage cooperative arrangements between institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1069, Pub. L. 89–329, title IV, §409, Nov. 8, 1965, 79 Stat. 1236, related to definition of academic year, prior to the general amendment of partA of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1069, Pub. L. 89–329, title IV, §409, Nov. 8, 1965, 79 Stat. 1236, related to definition of academic year, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 A prior section 1069a, Pub. L. 89–329, title III, §355, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 100–50, §2(a)(16), (17), June 3, 1987, 101 Stat. 336, related to special payments rules, prior to repeal by Pub. L. 102–325, §2, title III, §305(c), July 23, 1992, 106 Stat. 458, 478, effective Oct. 1, 1992.
 
@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 105–244, §308(h)(5), struck out heading and text of subs
 
 &emsp;"(2) allocate 75 percent of such excess among other eligible institutions."
 
-Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: "In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make the reservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation."
+Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: "In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make thereservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation."
 
 Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: "In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority of paragraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title."
 

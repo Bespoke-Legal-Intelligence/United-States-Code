@@ -2,7 +2,7 @@
 
 Section 1771, Pub. L. 97–300, title IV, §471, Oct. 13, 1982, 96 Stat. 1387, stated purpose to establish National Commission for Employment Policy.
 
-Section 1772, Pub. L. 97–300, title IV, §472, Oct. 13, 1982, 96 Stat. 1387; Pub. L. 98–524, §4(a)(7), Oct. 19, 1984,98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(17), Sept. 7, 1992, 106 Stat. 1112, established National Commission for Employment Policy.
+Section 1772, Pub. L. 97–300, title IV, §472, Oct. 13, 1982, 96 Stat. 1387; Pub. L. 98–524, §4(a)(7), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(17), Sept. 7, 1992, 106 Stat. 1112, established National Commission for Employment Policy.
 
 Section 1773, Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112, related to functions of Commission.
 

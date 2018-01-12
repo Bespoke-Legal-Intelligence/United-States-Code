@@ -6,7 +6,7 @@ The Secretary of the Treasury shall establish in the Treasury of the United Stat
 
 #### (b) Obligation of funds for acquisition, transportation, and injection of petroleum products into SPR
 
-Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, fortest sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
+Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, for test sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
 
 &emsp;(1) Repealed. Pub. L. 106–469, title I, §103(19)(A)(ii), Nov. 9, 2000, 114 Stat. 2033;
 
@@ -18,11 +18,11 @@ Amounts in the Account may be obligated by the Secretary of Energy for the acqui
 
 #### (c) Provision and deposit of funds
 
-The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b).
 
 #### (d) Off-budgeting procedures
 
-The Account, the deposits and withdrawals from the Account, and the transactions, receipts, obligations, outlays associated with such deposits and withdrawals (including petroleum product purchases and related transactions), and receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, and from the sale of petroleum products under section 6240(f) of this title—
+The Account, the deposits and withdrawals from the Account, and the transactions, receipts, obligations, outlays associated with suchdeposits and withdrawals (including petroleum product purchases and related transactions), and receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, and from the sale of petroleum products under section 6240(f) of this title—
 
 &emsp;(1) shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States; and
 
@@ -70,5 +70,5 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1
 
 #### Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)
 
-Pub. L. 97–35, title X, §1034(c), Aug. 13, 1981, 95 Stat. 620, provided that: "The provisions of section 167(d) ofsuch Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account."
+Pub. L. 97–35, title X, §1034(c), Aug. 13, 1981, 95 Stat. 620, provided that: "The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account."
 

@@ -56,7 +56,7 @@ Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6
 
 (6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
-(8)(A) <sup>1</sup> If a small business concern is not included in the database because the Secretary does not verify the status of the concern as asmall business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+(8)(A) <sup>1</sup> If a small business concern is not included in the database because the Secretary does not verify the status of the concern as a small business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
 
 (B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals of the Small Business Administration as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
 
@@ -78,7 +78,7 @@ Enforcement Penalties for Misrepresentation.—(1) Any business concern that is 
 
 (h)
 
-Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph (3), if the death of a veteran causes a small business concern to be less than 51 percent owned by one or more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
+Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph (3), if the death of a veteran causes a small businessconcern to be less than 51 percent owned by one or more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
 
 (2) The period referred to in paragraph (1) is the period beginning on the date on which the veteran dies and ending on the earliest of the following dates:
 
@@ -86,9 +86,13 @@ Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph
 
 &emsp;(B) The date on which the surviving spouse relinquishes an ownership interest in the small business concern.
 
-&emsp;(C) The date that is ten years after the date of the veteran's death.
+&emsp;(C) The date that—
 
-(3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability.
+&emsp;&emsp;(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran's death; or
+
+&emsp;&emsp;(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran's death.
+
+(3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability.
 
 (i)
 
@@ -174,25 +178,9 @@ Definitions.—In this section:
 
 <i>See 2016 Amendment notes below.</i>
 
-#### Amendment of Subsection (h)
-
-<i>Pub. L. 114–315, title V, §501, Dec. 16, 2016, 130 Stat. 1566, provided that, effective on the date that is 180 days after Dec. 16, 2016, and applicable with respect to contracts awarded on or after such date, subsection (h) of this section is amended—</i>
-
-<i>(1) in paragraph (2), by amending subparagraph (C) to read as follows:</i>
-
-&emsp;<i>"(C) The date that—</i>
-
-&emsp;&emsp;<i>"(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran's death; or</i>
-
-&emsp;&emsp;<i>"(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran's death."; and</i>
-
-<i>(2) in paragraph (3), by striking "rated as" and all that follows through "disability." and inserting a period.</i>
-
-<i>See 2016 Amendment notes below.</i>
-
 #### References in Text
 
-The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to section634(i) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to section 634(i) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
 
@@ -266,7 +254,7 @@ Pub. L. 111–275, title I, §104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided
 
 &emsp;"(B) verification of such status shall require that the person who owns and controls the concern apply for inclusion in the database in accordance with such subsection, as so amended;
 
-&emsp;"(C) application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code (commonly referred to as the Privacy Act), for the Secretary to access such personalinformation maintained by the Secretary as may be necessary to verify the information contained in the application; and
+&emsp;"(C) application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code (commonly referred to as the Privacy Act), for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application; and
 
 &emsp;"(D) the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary's notice of such requirement or the concern shall be removed from the database."
 

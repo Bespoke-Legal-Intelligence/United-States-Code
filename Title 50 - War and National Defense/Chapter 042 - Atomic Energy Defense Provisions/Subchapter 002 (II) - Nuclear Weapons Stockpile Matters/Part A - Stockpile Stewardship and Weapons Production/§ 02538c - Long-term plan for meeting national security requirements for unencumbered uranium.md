@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Concurrent with the submission to Congress of the budget of the President under section 1105(a) of title 31, in each even-numbered year beginning in 2016 and ending in 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
+Not later than December 31 of each even-numbered year through 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
 
 #### (b) Plan requirements
 
@@ -14,7 +14,7 @@ The plan required by subsection (a) shall include the following:
 
 &emsp;(3) An identification of national security requirements for unencumbered uranium, by program source and enrichment level.
 
-&emsp;(4) A description of any shortfall in obtaining unencumbered uranium to meet national security requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
+&emsp;(4) A description of any shortfall in obtaining unencumbered uranium to meet nationalsecurity requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
 
 &emsp;(5) An inventory of unencumbered depleted uranium, an assessment of the portion of that uranium that could be allocated to national security requirements through re-enrichment, and an estimate of the costs of re-enriching that uranium.
 
@@ -36,5 +36,9 @@ In this section:
 
 &emsp;(2) The term "unencumbered", with respect to uranium, means that the United States has no obligation to foreign governments to use the uranium for only peaceful purposes.
 
-(Pub. L. 107–314, div. D, title XLII, §4221, as added Pub. L. 114–92, div. C, title XXXI, §3131(a), Nov. 25, 2015, 129 Stat. 1201.)
+(Pub. L. 107–314, div. D, title XLII, §4221, as added Pub. L. 114–92, div. C, title XXXI, §3131(a), Nov. 25, 2015, 129 Stat. 1201; amended Pub. L. 115–91, div. C, title XXXI, §3133(e), Dec. 12, 2017, 131 Stat. 1897.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "Not later than December 31 of each even-numbered year through 2026" for "Concurrent with the submission to Congress of the budget of the President under section 1105(a) of title 31, in each even-numbered year beginning in 2016 and ending in 2026".
 

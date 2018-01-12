@@ -6,7 +6,7 @@
 
 (c) As used in this section, the term "district court" includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term "district" includes the territorial jurisdiction of each such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; May 24, 1949, ch. 139, §81, 63 Stat. 101; Pub. L. 86–770, §1, Sept. 13, 1960, 74 Stat. 912; Pub. L. 87–845, §10, Oct. 18, 1962, 76A Stat. 699; Pub. L. 97–164, title I, §132, Apr. 2, 1982, 96 Stat. 39; Pub. L. 104–317, title VI, §610(b), Oct. 19, 1996, 110 Stat. 3860.)
+(June 25, 1948, ch. 646, 62 Stat. 937; May 24, 1949, ch. 139, §81, 63 Stat. 101; Pub. L. 86–770, §1, Sept.13, 1960, 74 Stat. 912; Pub. L. 87–845, §10, Oct. 18, 1962, 76A Stat. 699; Pub. L. 97–164, title I, §132, Apr. 2, 1982, 96 Stat. 39; Pub. L. 104–317, title VI, §610(b), Oct. 19, 1996, 110 Stat. 3860.)
 
 #### Historical and Revision Notes
 

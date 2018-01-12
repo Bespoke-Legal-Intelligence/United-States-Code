@@ -64,7 +64,7 @@ In general.—The courts of the United States may appoint special masters to hea
 
 &emsp;(2)
 
-Transfer of funds.—The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 (42 U.S.C. 10603c), to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed underparagraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
+Transfer of funds.—The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 (42 U.S.C. 10603c),<sup>1</sup> to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed under paragraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
 
 (f)
 
@@ -120,6 +120,8 @@ The enactment of this section and the date of the enactment of this section, ref
 
 Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], which is set out as a note under section 1605 of this title.
 
+Section 1404C of the Victims of Crime Act of 1984, referred to in subsec. (e)(2), is section 1404C of chapter XIV of title II of Pub. L. 98–473, which was classified to section 10603c of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20106 of Title 34, Crime Control and Law Enforcement.
+
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50.
 
 Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (h)(7), is section 3 of Pub. L. 102–256, which is set out as a note under section 1350 of this title.
@@ -130,7 +132,7 @@ Pub. L. 110–181, div. A, title X, §1083(c), Jan. 28, 2008, 122 Stat. 342, pro
 
 "(1)
 
-In general.—The amendments made by this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] shall apply to any claim arising under section 1605A of title 28, United States Code.
+In general.—The amendments made by this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement\] shall apply to any claim arising under section 1605A of title 28, United States Code.
 
 "(2)
 
@@ -186,7 +188,7 @@ Preserving the jurisdiction of the courts.—Nothing in section 1503 of the Emer
 
 #### Severability
 
-Pub. L. 110–181, div. A, title X, §1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: "If any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
+Pub. L. 110–181, div. A, title X, §1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: "If any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement\] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
 #### Libya Claims Resolution
 
@@ -222,7 +224,7 @@ Designation of Entity.—
 
 &emsp;"(1)
 
-Designation.—The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensation to nationals of the United States, pursuant to a claims agreement.
+Designation.—The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensationto nationals of the United States, pursuant to a claims agreement.
 
 &emsp;"(2)
 
@@ -304,7 +306,7 @@ Pub. L. 110–181, div. A, title X, §1083(d), Jan. 28, 2008, 122 Stat. 343, pro
 
 "(1)
 
-Applicability.—The President may waive any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 10603a of Title 42, The Public Health and Welfare\] with respect to Iraq, insofar as that provision may, in the President's determination, affect Iraq or any agency or instrumentality thereof, if the President determines that—
+Applicability.—The President may waive any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement\] with respect to Iraq, insofar as that provision may, in the President's determination, affect Iraq or any agency or instrumentality thereof, if the President determines that—
 
 &emsp;"(A) the waiver is in the national security interest of the United States;
 

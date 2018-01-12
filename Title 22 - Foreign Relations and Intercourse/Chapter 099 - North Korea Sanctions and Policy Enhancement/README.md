@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [9201\.](%C2%A7%2009201%20-%20Findings%3B%20purposes.md) | Findings; purposes. |
 | [9202\.](%C2%A7%2009202%20-%20Definitions.md) | Definitions. |
+| [9203\.](%C2%A7%2009203%20-%20Strategy%20on%20North%20Korea.md) | Strategy on North Korea. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,6 +24,7 @@
 |  |  |
 | :--- | ---: |
 | [9221\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221%20-%20Determinations%20with%20respect%20to%20North%20Korea%20as%20a%20jurisdiction%20of%20primary%20money%20laundering%20concern.md) | Determinations with respect to North Korea as a jurisdiction of primary money laundering concern. |
+| [9221a.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009221a%20-%20Prohibition%20on%20indirect%20correspondent%20accounts.md) | Prohibition on indirect correspondent accounts. |
 | [9222\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009222%20-%20Ensuring%20the%20consistent%20enforcement%20of%20United%20Nations%20Security%20Council%20resolutions%20and%20financial%20restrictions%20on%20North%20Korea.md) | Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea. |
 | [9223\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009223%20-%20Proliferation%20prevention%20sanctions.md) | Proliferation prevention sanctions. |
 | [9224\.](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/%C2%A7%2009224%20-%20Procurement%20sanctions.md) | Procurement sanctions. |
@@ -41,6 +43,8 @@
 |  |  |
 | :--- | ---: |
 | [9241\.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/%C2%A7%2009241%20-%20Strategy%20to%20promote%20North%20Korean%20human%20rights.md) | Strategy to promote North Korean human rights. |
+| [9241a.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/%C2%A7%2009241a%20-%20Rebuttable%20presumption%20applicable%20to%20goods%20made%20with%20North%20Korean%20labor.md) | Rebuttable presumption applicable to goods made with North Korean labor. |
+| [9241b.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/%C2%A7%2009241b%20-%20Sanctions%20on%20foreign%20persons%20employing%20North%20Korean%20labor.md) | Sanctions on foreign persons employing North Korean labor. |
 | [9242\.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/%C2%A7%2009242%20-%20Report%20on%20North%20Korean%20prison%20camps.md) | Report on North Korean prison camps. |
 | [9243\.](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/%C2%A7%2009243%20-%20Report%20on%20and%20imposition%20of%20sanctions%20with%20respect%20to%20serious%20human%20rights%20abuses%20or%20censorship%20in%20North%20Korea.md) | Report on and imposition of sanctions with respect to serious human rights abuses or censorship in North Korea. |
 
@@ -65,6 +69,7 @@
 
 - [&sect; 09201 - Findings; purposes](%C2%A7%2009201%20-%20Findings%3B%20purposes.md)
 - [&sect; 09202 - Definitions](%C2%A7%2009202%20-%20Definitions.md)
+- [&sect; 09203 - Strategy on North Korea](%C2%A7%2009203%20-%20Strategy%20on%20North%20Korea.md)
 - [Subchapter 001 (I) - Investigations, Prohibited Conduct, and Penalties](Subchapter%20001%20%28I%29%20-%20Investigations%2C%20Prohibited%20Conduct%2C%20and%20Penalties/README.md)
 - [Subchapter 002 (II) - Sanctions Against North Korean Proliferation, Human Rights Abuses, and Illicit Activities](Subchapter%20002%20%28II%29%20-%20Sanctions%20Against%20North%20Korean%20Proliferation%2C%20Human%20Rights%20Abuses%2C%20and%20Illicit%20Activities/README.md)
 - [Subchapter 003 (III) - Promotion of Human Rights](Subchapter%20003%20%28III%29%20-%20Promotion%20of%20Human%20Rights/README.md)

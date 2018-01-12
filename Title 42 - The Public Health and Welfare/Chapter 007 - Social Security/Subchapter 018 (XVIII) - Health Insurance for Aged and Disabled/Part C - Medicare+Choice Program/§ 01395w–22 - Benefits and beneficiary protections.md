@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this part, the term "benefits under the original medicare fee-for-service program option" means those items and services (other than hospice care) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
+&emsp;&emsp;&emsp;For purposes of this part, the term "benefits under the original medicare fee-for-service program option" means those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
 
 #### (ii) Special rule for regional plans
 
@@ -110,13 +110,7 @@
 
 #### (1) Beneficiaries
 
-#### (A) In general
-
-&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage orprovision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 2702(a)(1) of the Public Health Service Act.<sup>1</sup> The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
-
-#### (B) Construction
-
-&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization to enroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title.
+&emsp;A Medicare Advantage organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 2702(a)(1) of the Public Health Service Act.<sup>1</sup> The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
 
 #### (2) Providers
 
@@ -198,7 +192,7 @@
 
 &emsp;&emsp;(B) when medically necessary the organization makes such benefits available and accessible 24 hours a day and 7 days a week;
 
-&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and whichare provided to such an individual other than through the organization, if—
+&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and which are provided to such an individual other than through the organization, if—
 
 &emsp;&emsp;&emsp;(i) the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
 
@@ -452,7 +446,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+Choice plan offered by the organizationunder this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+Choice plan offered by the organization under this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
 
 #### (B) Conscience protection
 
@@ -568,7 +562,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital servicesand for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
@@ -580,7 +574,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;In providing coverage of post-hospital extended care services, a Medicare+Choiceplan shall provide for such coverage through a home skilled nursing facility if the following conditions are met:
+&emsp;&emsp;In providing coverage of post-hospital extended care services, a Medicare+Choice plan shall provide for such coverage through a home skilled nursing facility if the following conditions are met:
 
 #### (i) Enrollee election
 
@@ -632,21 +626,13 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335.)
 
-#### Amendment of Subsections (a)(1)(B)(i) and (b)(1)
+#### Applicability of Amendment
 
-<i>Pub. L. 114–255, div. C, title XVII, §17006(c)(1), (3), Dec. 13, 2016, 130 Stat. 1335, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2021, subsection (a)(1)(B)(i) of this section is amended by inserting "or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title" after "hospice care".</i>
-
-<i>Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (3), Dec. 13, 2016, 130 Stat. 1334, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2021, subsection (b)(1) of this section is amended as follows:</i>
-
-<i>(1) by striking subparagraph (B); and</i>
-
-<i>(2) by striking "Beneficiaries" and all that follows through "A Medicare+Choice organization" and inserting "Beneficiaries.—A Medicare Advantage organization".</i>
-
-<i>See 2016 Amendment notes below.</i>
+<i>Amendment of section by section 17006(a)(2)(A), (c)(1) of Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021. See 2016 Amendment notes below.</i>
 
 #### References in Text
 
-Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A newsection 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1,1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -792,9 +778,9 @@ Pub. L. 111–148, title III, §3202(a)(2), Mar. 23, 2010, 124 Stat. 454, provid
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 125(b)(6) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) of Pub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
+Amendment by section 125(b)(6) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) ofPub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
 
-Pub. L. 110–275, title I, §162(a)(3)(B), July 15, 2008, 122 Stat. 2571, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to plan year 2010 and subsequent plan years."
+Pub. L. 110–275, title I, §162(a)(3)(B), July 15, 2008, 122 Stat. 2571, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to plan year 2010 and subsequent plan years."
 
 Pub. L. 110–275, title I, §163(c), July 15, 2008, 122 Stat. 2571, provided that: "The amendments made by this section \[amending this section\] shall apply to plan years beginning on or after January 1, 2010."
 

@@ -1,6 +1,6 @@
 ### §2334. Innovative technologies for watershed restoration
 
-The Secretary shall examine using, and, if appropriate, encourage the use of, innovativetreatment technologies, including membrane technologies, for watershed and environmental restoration and protection projects involving water quality.
+The Secretary shall examine using, and, if appropriate, encourage the use of, innovative treatment technologies, including membrane technologies, for watershed and environmental restoration and protection projects involving water quality.
 
 (Pub. L. 106–53, title V, §516, Aug. 17, 1999, 113 Stat. 344.)
 

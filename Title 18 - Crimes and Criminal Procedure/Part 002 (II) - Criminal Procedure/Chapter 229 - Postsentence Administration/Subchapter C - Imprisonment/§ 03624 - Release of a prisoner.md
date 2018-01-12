@@ -60,7 +60,7 @@ Allotment of Clothing, Funds, and Transportation.—Upon the release of a prison
 
 (e)
 
-Supervision After Release.—A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified by the sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that theprisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.
+Supervision After Release.—A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified by the sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.
 
 (f)
 
@@ -82,7 +82,7 @@ Mandatory Functional Literacy Requirement.—
 
 &emsp;(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505,Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(E)\], in sixth sentenc
 
 Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Credit toward a prisoner's service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree."
 
-<b>1995</b>—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: "A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete theprogram, and the reasons for failure to successfully complete the program."
+<b>1995</b>—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: "A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §20405(2), substituted "the prisoner's" for "his" after "the expiration of" and "toward the service of".
 
@@ -150,7 +150,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Construction of 2008 Amendment
 
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

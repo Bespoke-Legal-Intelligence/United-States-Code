@@ -106,7 +106,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(H) develop standards and procedures for regional and national comparisons;
 
-&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with theprovisions of this section and section 9622 of this title; and
+&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 

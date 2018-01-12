@@ -20,7 +20,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;(B) the geographic area to be served by the project;
 
-&emsp;(C) the percentage of low-income individuals (as described in subsection (b)) and individuals receiving assistance under a State programfunded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in the area to be served by the project; and
+&emsp;(C) the percentage of low-income individuals (as described in subsection (b)) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in the area to be served by the project; and
 
 &emsp;(D) unemployment rates in the geographic areas to be served and (to the extent practicable) the jobs available and skills necessary to fill those vacancies in such areas.
 

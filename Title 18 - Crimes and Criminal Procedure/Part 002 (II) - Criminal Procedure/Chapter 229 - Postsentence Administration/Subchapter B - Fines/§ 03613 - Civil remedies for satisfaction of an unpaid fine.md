@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement.—The United States may enforce a judgment imposing a fine in accordance with the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
+Enforcement.—The United States may enforce a judgment imposing a fine in accordancewith the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
 
 &emsp;(1) property exempt from levy for taxes pursuant to section 6334(a)(1), (2), (3), (4), (5), (6), (7), (8), (10), and (12) of the Internal Revenue Code of 1986 shall be exempt from enforcement of the judgment under Federal law;
 

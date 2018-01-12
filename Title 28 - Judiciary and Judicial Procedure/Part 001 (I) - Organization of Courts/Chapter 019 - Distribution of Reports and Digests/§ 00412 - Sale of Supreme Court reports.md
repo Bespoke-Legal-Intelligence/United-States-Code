@@ -1,6 +1,6 @@
 ### §412. Sale of Supreme Court reports
 
-The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States shall print such additional bound volumes and preliminary prints of such reports as may be required for sale to the public. Such additional copies shallbe sold by the Superintendent of Documents, as provided by law.
+The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States shall print such additional bound volumes and preliminary prints of such reports as may be required for sale to the public. Such additional copies shall be sold by the Superintendent of Documents, as provided by law.
 
 (June 25, 1948, ch. 646, 62 Stat. 906; July 10, 1952, ch. 632, §5, 66 Stat. 541; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 

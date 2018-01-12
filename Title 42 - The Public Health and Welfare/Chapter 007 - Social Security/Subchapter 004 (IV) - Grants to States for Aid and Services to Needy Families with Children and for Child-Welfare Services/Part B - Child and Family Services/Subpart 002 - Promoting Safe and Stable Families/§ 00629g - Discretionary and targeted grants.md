@@ -24,7 +24,7 @@ From the amount (if any) appropriated pursuant to subsection (a) for a fiscal ye
 
 #### (1) Indian tribes or tribal consortia
 
-&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium anamount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (2) Territories
 
@@ -106,7 +106,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (A) In general
 
-&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2012 through 2016 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $500,000 and not more than $1,000,000 per grant per fiscal year.
+&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2012 through 2016 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not lessthan $500,000 and not more than $1,000,000 per grant per fiscal year.
 
 #### (B) Required minimum period of approval
 
@@ -200,7 +200,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(C) have a lack of capacity for, or access to, comprehensive family treatment services; and
 
-&emsp;&emsp;(D) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period.
+&emsp;&emsp;(D) demonstrate a plan for sustaining the services provided by or activities fundedunder the grant after the conclusion of the grant period.
 
 #### (8) Performance indicators
 
@@ -276,7 +276,7 @@ Subsec. (f)(4)(A). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine
 
 Subsec. (f)(6)(A)(iv), (v). Pub. L. 112–34, §103(c)(2)(D), added cls. (iv) and (v).
 
-Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted "shall" for "shall—", struck out subpar. (A) designation before "take", substituted period for "; and" at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: "after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region."
+Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted "shall" for "shall—", struck out subpar. (A) designation before "take", substituted period for "; and" at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7)and realigned margins, and struck out subpar. (B) which read as follows: "after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region."
 
 Subsec. (f)(7)(A)(i). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 

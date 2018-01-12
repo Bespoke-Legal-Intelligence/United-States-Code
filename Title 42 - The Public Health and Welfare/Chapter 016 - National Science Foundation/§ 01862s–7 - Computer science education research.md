@@ -16,7 +16,7 @@ Congress finds that as the lead Federal agency for building the research knowled
 
 &emsp;&emsp;(A) models of preservice preparation for teachers who will teach computer science and computational thinking;
 
-&emsp;&emsp;(B) scalable and sustainable models of professional development and ongoing supportfor the teachers described in subparagraph (A);
+&emsp;&emsp;(B) scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
 
 &emsp;&emsp;(C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields; and
 

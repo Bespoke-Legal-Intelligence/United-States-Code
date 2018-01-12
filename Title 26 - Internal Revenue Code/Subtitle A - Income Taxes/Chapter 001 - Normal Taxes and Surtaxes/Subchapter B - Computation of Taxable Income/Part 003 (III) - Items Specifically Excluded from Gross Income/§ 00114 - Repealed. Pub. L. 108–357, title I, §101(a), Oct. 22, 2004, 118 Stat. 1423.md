@@ -32,7 +32,7 @@ Applicable percentage.—For purposes of paragraph (1), the applicable percentag
 
 &emsp;"(3)
 
-Coordination with section 199.—This subsection shall be applied without regard to any deduction allowable under section 199 \[probably means section 199 of the Internal Revenue Code of 1986\].
+Coordination with section 199.—This subsection shall be applied without regard to any deduction allowable under section 199 \[probably means former section 199 of the Internal Revenue Code of 1986\].
 
 "(e)
 

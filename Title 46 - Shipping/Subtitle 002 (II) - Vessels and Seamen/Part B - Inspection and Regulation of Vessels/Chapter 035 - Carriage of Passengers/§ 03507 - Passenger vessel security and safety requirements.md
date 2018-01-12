@@ -82,7 +82,7 @@ Embassy and consulate locations.—The owner of a vessel to which this section a
 
 Sexual Assault.—The owner of a vessel to which this section applies shall—
 
-&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications andother medications designed to prevent sexually transmitted diseases after a sexual assault;
 
 &emsp;(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
 
@@ -338,7 +338,7 @@ Pub. L. 111–207, §2, July 27, 2010, 124 Stat. 2243, provided that: "The Congr
 
 &emsp;"(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials.
 
-&emsp;"(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many peoplehave disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
+&emsp;"(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
 
 &emsp;"(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction.
 

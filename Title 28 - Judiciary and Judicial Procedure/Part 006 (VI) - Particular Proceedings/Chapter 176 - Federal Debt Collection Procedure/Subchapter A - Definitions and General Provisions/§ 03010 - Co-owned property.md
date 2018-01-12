@@ -20,3 +20,7 @@ Sections 401(a), 403(a), and 409 of the Internal Revenue Code of 1986, referred 
 
 Section 205 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2), is classified to section 1055 of Title 29, Labor.
 
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
+

@@ -2,7 +2,7 @@
 
 The Secretary of Defense shall—
 
-&emsp;(1) prescribe regulations for the purpose of ensuring that any civilian employee of the Department of Defense who is determined to bean emergency essential employee and who is required to participate in the anthrax vaccine immunization program is notified of the requirement to participate in the program and the consequences of a decision not to participate; and
+&emsp;(1) prescribe regulations for the purpose of ensuring that any civilian employee of the Department of Defense who is determined to be an emergency essential employee and who is required to participate in the anthrax vaccine immunization program is notified of the requirement to participate in the program and the consequences of a decision not to participate; and
 
 &emsp;(2) ensure that any individual who is being considered for a position as such an employee is notified of the obligation to participate in the program before being offered employment in such position.
 

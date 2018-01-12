@@ -82,7 +82,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (5) Proposed placement
 
-&emsp;If a grievance is filed regarding a proposed placement of a participant in a project that receives assistance under this subchapter, such placement shall not be made unless the placement is consistent with the resolution of the grievance pursuant to this subsection.
+&emsp;If a grievance is filed regarding a proposed placement of a participant in a project that receives assistance under this subchapter,such placement shall not be made unless the placement is consistent with the resolution of the grievance pursuant to this subsection.
 
 #### (6) Remedies
 

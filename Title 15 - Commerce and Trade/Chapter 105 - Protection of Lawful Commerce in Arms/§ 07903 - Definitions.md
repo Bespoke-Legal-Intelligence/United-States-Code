@@ -50,7 +50,7 @@ In this chapter:
 
 #### (D) Minor child exception
 
-&emsp;&emsp;Nothing in this chapter shall be construed to limit the right of a person under 17 years of age to recover damages authorized under Federal or State law in a civil action that meets 1 of the requirements under clauses (i) through (v) of subparagraph (A).
+&emsp;&emsp;Nothing in this chapter shall be construed to limit the right of a person under 17 yearsof age to recover damages authorized under Federal or State law in a civil action that meets 1 of the requirements under clauses (i) through (v) of subparagraph (A).
 
 #### (6) Seller
 

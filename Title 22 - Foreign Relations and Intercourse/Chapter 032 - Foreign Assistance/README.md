@@ -54,6 +54,11 @@
 | [2152g.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152g%20-%20Annual%20report.md) | Annual report. |
 | [2152h.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%2C%20sanitation%2C%20and%20hygiene.md) | Assistance to provide safe water, sanitation, and hygiene. |
 | [2152i.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152i%20-%20Small%20Grants%20Program.md) | Small Grants Program. |
+| [2152j.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152j%20-%20Statement%20of%20policy.md) | Statement of policy. |
+| 2152j–1. | United States strategy to promote the participation of women in conflict prevention and peace building. |
+| 2152j–2. | Training requirements regarding the participation of women in conflict prevention and peace building. |
+| 2152j–3. | Consultation and collaboration. |
+| 2152j–4. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

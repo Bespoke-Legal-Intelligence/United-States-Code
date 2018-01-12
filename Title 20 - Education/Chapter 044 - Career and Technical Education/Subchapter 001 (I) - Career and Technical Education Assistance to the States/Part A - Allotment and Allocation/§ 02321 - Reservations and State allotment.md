@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (5), for a fiscal year for which there are no additional funds (as such term is defined in paragraph (4)(D)), no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (5), for a fiscal year for which there are no additional funds (as such term is defined in paragraph (4)(D)), no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of theamount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Requirement
 
@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing suchpayments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 

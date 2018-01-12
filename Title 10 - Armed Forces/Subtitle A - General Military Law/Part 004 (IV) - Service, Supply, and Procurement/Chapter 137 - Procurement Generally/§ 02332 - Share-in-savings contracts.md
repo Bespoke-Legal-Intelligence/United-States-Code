@@ -34,7 +34,7 @@ Cancellation and Termination.—(1) If funds are not made available for the cont
 
 &emsp;(C) funds subsequently appropriated for payments of costs of cancellation or termination, subject to the limitations in paragraph (3).
 
-(2) The amount payable in the event of cancellation or termination of a share-in-savings contract shall be negotiated with the contractor at the time the contract is entered into.
+(2) The amount payable in the event of cancellation or termination of a share-in-savingscontract shall be negotiated with the contractor at the time the contract is entered into.
 
 (3)(A) Subject to subparagraph (B), the head of an agency may enter into share-in-savings contracts under this section in any given fiscal year even if funds are not made specifically available for the full costs of cancellation or termination of the contract if funds are available and sufficient to make payments with respect to the first fiscal year of the contract and the following conditions are met regarding the funding of cancellation and termination liability:
 

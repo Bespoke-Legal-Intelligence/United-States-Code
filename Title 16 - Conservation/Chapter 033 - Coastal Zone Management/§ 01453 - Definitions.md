@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) for the manufacture, production, or assembly of equipment, machinery, products, or devices which are involved in any activity described in subparagraph (A).
 
-> &emsp;The term includes, but is not limited to (i) electric generating plants; (ii) petroleum refineries and associated facilities; (iii) gasification plants; (iv) facilities used for the transportation, conversion, treatment, transfer, or storage of liquefied natural gas; (v) uranium enrichment or nuclear fuel processing facilities; (vi) oil and gas facilities, including platforms, assembly plants, storage depots, tankfarms, crew and supply bases, and refining complexes; (vii) facilities including deepwater ports, for the transfer of petroleum; (viii) pipelines and transmission facilities; and (ix) terminals which are associated with any of the foregoing.
+> &emsp;The term includes, but is not limited to (i) electric generating plants; (ii) petroleum refineries and associated facilities; (iii) gasification plants; (iv) facilities used for the transportation, conversion, treatment, transfer, or storage of liquefied natural gas; (v) uranium enrichment or nuclear fuel processing facilities; (vi) oil and gas facilities, including platforms, assembly plants, storage depots, tank farms, crew and supply bases, and refining complexes; (vii) facilities including deepwater ports, for the transfer of petroleum; (viii) pipelines and transmission facilities; and (ix) terminals which are associated with any of the foregoing.
 
 &emsp;(6a) The term "enforceable policy" means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
@@ -62,9 +62,11 @@ The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 6
 
 Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
 
-Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48. The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America is set out as a note under section 1801 of Title 48. For complete classification of this Act to the Code, see Tables.
+The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in par. (1), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 
-Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
+Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+
+Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
 
 Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended, and section 1502(10) no longer defines the term "deepwater port". However, such term is defined elsewhere in that section.
 

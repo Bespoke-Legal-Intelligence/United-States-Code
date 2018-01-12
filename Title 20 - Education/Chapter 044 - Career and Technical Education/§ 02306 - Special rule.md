@@ -6,5 +6,5 @@ In the case of a local community in which no employees are represented by a labo
 
 #### Prior Provisions
 
-A prior section 2306, Pub. L. 88–210, §7, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, related to special rule, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2306, Pub. L. 88–210, §7, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, related tospecial rule, prior to the general amendment of this chapter by Pub. L. 109–270.
 

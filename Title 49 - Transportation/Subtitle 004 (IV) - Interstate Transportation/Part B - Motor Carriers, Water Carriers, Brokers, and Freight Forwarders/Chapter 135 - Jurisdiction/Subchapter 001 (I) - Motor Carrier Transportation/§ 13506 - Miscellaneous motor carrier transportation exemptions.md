@@ -32,7 +32,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;&emsp;(B) agricultural or horticultural commodities (other than manufactured products thereof);
 
-&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils, or wool waste (carded, spun, woven, or knitted);
+&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils,or wool waste (carded, spun, woven, or knitted);
 
 &emsp;&emsp;(D) cooked or uncooked fish, whether breaded or not, or frozen or fresh shellfish, or byproducts thereof not intended for human consumption, other than fish or shellfish that have been treated for preserving, such as canned, smoked, pickled, spiced, corned, or kippered products; and
 
@@ -66,7 +66,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 
-&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially apart of, the municipality or municipalities, except—
+&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
 
 &emsp;&emsp;(A) when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
 

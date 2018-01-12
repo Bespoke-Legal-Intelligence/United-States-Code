@@ -43,19 +43,16 @@
 | [3696\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003696%20-%20Limitation%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md) | Limitation on certain advertising, sales, and enrollment practices. |
 | [3697\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md) | Funding of contract educational and vocational counseling. |
 | [3697A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md) | Educational and vocational counseling. |
+| [3697B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697B%20-%20On-campus%20educational%20and%20vocational%20counseling.md) | On-campus educational and vocational counseling. |
 | [3698\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md) | Comprehensive policy on providing education information to veterans. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### \[SUBCHAPTER III—REPEALED\]
-
-|  |
-| :--- |
-| \[3699. Repealed.\] |
+| [3699\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699%20-%20Effects%20of%20closure%20or%20disapproval%20of%20educational%20institution.md) | Effects of closure or disapproval of educational institution. |
+| [3699A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699A%20-%20Provision%20of%20certain%20information%20to%20educational%20institutions.md) | Provision of certain information to educational institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 
 <b>2013</b>—Pub. L. 112–249, §1(a)(2), Jan. 10, 2013, 126 Stat. 2400, added item 3698.
 
@@ -108,4 +105,3 @@ Pub. L. 100–323, §13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 
 - [Subchapter 001 (I) - State Approving Agencies](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/README.md)
 - [Subchapter 002 (II) - Miscellaneous Provisions](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/README.md)
-- [Subchapter 003 (III) - Repealed](Subchapter%20003%20%28III%29%20-%20Repealed/README.md)

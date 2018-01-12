@@ -28,7 +28,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (2) Lines of credit
 
-&emsp;If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loanshall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.
+&emsp;If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loan shall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.
 
 #### (f) Enrollment process
 
@@ -56,7 +56,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (g) Coverage amount
 
-In filing a loan for enrollment under the Program, the participating financial institution may specify an amount to be covered under the Program that is less than the full amount of the loan.
+In filing a loan for enrollment under the Program, the participating financial institutionmay specify an amount to be covered under the Program that is less than the full amount of the loan.
 
 #### (h) Premium charges
 
@@ -102,7 +102,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (l) Elements of claims
 
-A claim filed by a participating financial institution may include the amount of principal charged off, not to exceed the covered amount of the loan. Such claim may also include accrued interest and out-of-pocket expenses, if and tothe extent provided for under the participation agreement.
+A claim filed by a participating financial institution may include the amount of principal charged off, not to exceed the covered amount of the loan. Such claim may also include accrued interest and out-of-pocket expenses, if and to the extent provided for under the participation agreement.
 
 #### (m) Payment of claims
 
@@ -188,7 +188,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (3) Conditions for terminating special authority
 
-&emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
+&emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 ofthis title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
 (Pub. L. 103–325, title II, §255, Sept. 23, 1994, 108 Stat. 2207.)
 

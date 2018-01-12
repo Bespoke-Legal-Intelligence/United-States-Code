@@ -12,7 +12,7 @@ The Administrator (or another Federal department or agency designated by the Adm
 
 &emsp;(4) Publication of public information materials concerning radon health risks and methods of radon mitigation.
 
-&emsp;(5) Operation of cooperative projects between the Environmental Protection Agency's Radon Action Program and the State's radon program. Such projects shall include the Home Evaluation Program, in which the Environmental Protection Agency evaluates homes and States demonstrate mitigation methods in these homes. To the maximum extent practicable, consistent with the objectives of the evaluation and demonstration, homes of low-income persons should be selected for evaluation and demonstration.
+&emsp;(5) Operation of cooperative projects between the Environmental Protection Agency'sRadon Action Program and the State's radon program. Such projects shall include the Home Evaluation Program, in which the Environmental Protection Agency evaluates homes and States demonstrate mitigation methods in these homes. To the maximum extent practicable, consistent with the objectives of the evaluation and demonstration, homes of low-income persons should be selected for evaluation and demonstration.
 
 &emsp;(6) Demonstration of radon mitigation methods in various types of structures and in various geographic settings and publication of findings. In the case of demonstration of such methods in homes, the Administrator should select homes of low-income persons, to the maximum extent practicable and consistent with the objectives of the demonstration.
 
@@ -46,7 +46,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (2) Charge imposed
 
-&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating intraining seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
+&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating in training seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
 
 #### (3) Special account
 

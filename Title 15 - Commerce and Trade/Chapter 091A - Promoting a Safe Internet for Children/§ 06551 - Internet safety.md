@@ -6,7 +6,7 @@ For the purposes of this chapter, the issue of Internet safety includes issues r
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 110–385, Oct. 10,2008, 122 Stat. 4102, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 110–385, Oct. 10, 2008, 122 Stat. 4102, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

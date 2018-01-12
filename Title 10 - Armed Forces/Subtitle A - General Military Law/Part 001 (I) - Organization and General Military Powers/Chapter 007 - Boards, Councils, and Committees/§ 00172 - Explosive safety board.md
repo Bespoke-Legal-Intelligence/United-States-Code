@@ -1,0 +1,46 @@
+### §172. Explosive safety board
+
+(a)
+
+In General.—The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, and Marine Corps, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations.
+
+(b)
+
+Oversight by Secretaries of the Military Departments.—The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, §909, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 111–383, div. A, title X, §1075(b)(7), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title III, §341(a), (b)(1), Dec. 12, 2017, 131 Stat. 1361.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+172(a)
+
+172(b)
+
+50:83 (less last sentence).
+
+50:83 (last sentence).
+
+May 29, 1928, ch. 853 (last par. under "Ordnance Establishment"), 45 Stat. 928.
+
+In subsection (a), the words "informed on stored" are substituted for the words "advised of storage". The words "particular regard" are substituted for the words "special reference". The words "inside or outside of" are substituted for the words "within or without". The word "selected" is substituted for the word "appointed", since the filling of the position involved is not appointment to an office in the constitutional sense.
+
+In subsection (b), the words "in carrying out" are substituted for the words "in the execution of".
+
+#### Amendments
+
+<b>2017</b>—Pub. L. 115–91, §341(b)(1), substituted "Explosive safety" for "Ammunition storage" in section catchline.
+
+Pub. L. 115–91, §341(a)(1)–(8), designated existing provisions as subsec. (a) and inserted heading, inserted "that includes members" after "joint board", substituted "selected by the Secretaries of the military departments" for "selected by them", inserted "military" before "officers", "designated as the chair and voting members of the board for each military department" after "officers", and "and other" before "civilian officers", and substituted "as necessary" for "or both" and "provide oversight on storage and transportation of" for "keep informed on stored".
+
+Subsec. (b). Pub. L. 115–91, §341(a)(9), added subsec. (b).
+
+<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec. (b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both" for "a joint board of officers selected by them".
+

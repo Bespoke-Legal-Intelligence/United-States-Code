@@ -64,7 +64,7 @@ The term "innovative assessment system" means a system of assessments that may i
 
 #### (5) Prohibition
 
-&emsp;The Secretary shall not require States that have demonstration authority to submit anyinformation for the purposes of the progress report that is in addition to the information the State is already required to provide under subsection (e)(2)(B)(x).
+&emsp;The Secretary shall not require States that have demonstration authority to submit any information for the purposes of the progress report that is in addition to the information the State is already required to provide under subsection (e)(2)(B)(x).
 
 #### (d) Expansion of the demonstration authority
 
@@ -260,7 +260,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;&emsp;(A) the State has met all of the requirements of this section, except transition to full statewide use of the innovative assessment system; and
 
-&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transition to statewide use of the innovative assessment system in a reasonable period of time.
+&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transitionto statewide use of the innovative assessment system in a reasonable period of time.
 
 #### (k) Available funds
 
@@ -312,7 +312,7 @@ Another prior section 6365, Pub. L. 89–10, title I, §1205, as added Pub. L. 1
 
 Section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1548, related to activities of Secretary of Education.
 
-Another prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Section 6367, Pub. L. 89–10, title I, §1207, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1549; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828, related to dissemination of information.
 
@@ -328,7 +328,7 @@ Section 6369, Pub. L. 89–10, title I, §1209, as added Pub. L. 103–382, titl
 
 Section 6369a, Pub. L. 89–10, title I, §1210, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to indicators of Even Start program quality.
 
-Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research.
+Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L.106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research.
 
 Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions.
 

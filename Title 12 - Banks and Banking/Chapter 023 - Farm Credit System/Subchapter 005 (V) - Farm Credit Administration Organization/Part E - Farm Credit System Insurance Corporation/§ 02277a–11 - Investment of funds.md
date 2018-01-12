@@ -1,6 +1,6 @@
 ### §2277a–11. Investment of funds
 
-Money of the Corporation not otherwise employed shall be invested in obligations of theUnited States or in obligations guaranteed as to principal and interest by the United States.
+Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
 
 (Pub. L. 92–181, title V, §5.62, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1618.)
 

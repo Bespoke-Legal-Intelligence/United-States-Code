@@ -58,7 +58,7 @@ For the purpose of this section, the term—
 
 (1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
-(2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
+(2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with suchinitial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
 #### (c) Initial standards; effective dates; revision; waiver
 
@@ -80,7 +80,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (1)(A) Except as provided in subparagraph (B), after the effective date of the initial standards and regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
 
-(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residenceand is not used primarily as a means of transportation.
+(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
 (2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
@@ -124,7 +124,7 @@ The provisions of this section shall be enforced by the Secretary of the departm
 
 #### (l) Boarding and inspection of vessels; execution of warrants and other process
 
-Anyone authorized by the Secretary of the department in which the Coast Guard is operating to enforce the provisions of this section may, except as to public vessels, (1) board and inspect any vessel upon the navigable waters of the United States and (2) execute any warrant or other process issued by an officer or court of competent jurisdiction.
+Anyone authorized by the Secretary of the department in which the Coast Guard is operating to enforce the provisions of this section may, except as to public vessels, (1) board and inspect any vessel upon the navigable waters of the United States and (2) execute any warrant orother process issued by an officer or court of competent jurisdiction.
 
 #### (m) Enforcement in United States possessions
 
@@ -246,7 +246,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(II) regulations promulgated by the Secretary of Defense under paragraph (4);
 
-&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, theState may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
+&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, the State may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
 
 #### (ii) Documentation
 
@@ -272,7 +272,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;A prohibition under this paragraph—
 
-&emsp;&emsp;&emsp;(i) shall not impose any design, construction, manning, or equipment standard on a foreign flagged vessel engaged in innocent passage unless the prohibition implements a generally accepted international rule or standard; and
+&emsp;&emsp;&emsp;(i) shall not impose any design, construction, manning, or equipment standard on aforeign flagged vessel engaged in innocent passage unless the prohibition implements a generally accepted international rule or standard; and
 
 &emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall not apply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
 
@@ -368,7 +368,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;The Administrator shall—
 
-&emsp;&emsp;&emsp;(i) promulgate standards of performance for a management practice under subparagraph (A) not later than 1 year after the date of a determination under paragraph (2) that the management practice is reasonable and practicable; and
+&emsp;&emsp;&emsp;(i) promulgate standards of performance for a management practice under subparagraph (A) not later than 1 year after the date of a determination under paragraph\(2) that the management practice is reasonable and practicable; and
 
 &emsp;&emsp;&emsp;(ii) every 5 years thereafter—
 
@@ -418,7 +418,7 @@ For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see sectio
 
 Subsec. (a)(12) to (14). Pub. L. 104–106, §325(c)(1)(B), (C), added pars. (12) to (14).
 
-Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted "subsection (g)(1), clause (1) or (2) of subsection (h), orsubsection (n)(8) shall be liable" for "subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable".
+Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted "subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable" for "subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable".
 
 Subsec. (n). Pub. L. 104–106, §325(b), added subsec. (n).
 
@@ -518,7 +518,7 @@ Plan.—Within 6 months after the notification under section 5605(b), and based 
 
 &emsp;"(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
 
-&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in thecoastal zone of the State which are operational on the date of submittal.
+&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
 
 "(c)
 

@@ -94,7 +94,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (D) Conditional appointment for national provision
 
-&emsp;&emsp;If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> to the position to which such individual was appointed.
+&emsp;&emsp;If the individual has applied at the national level for an education position in theBureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> to the position to which such individual was appointed.
 
 #### (3) Statutory construction
 
@@ -124,7 +124,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination by the local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisorbelieves such determination should be overturned.
+&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination by the local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisor believes such determination should be overturned.
 
 #### (ii) Action by board
 
@@ -264,7 +264,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Essential provisions
 
-&emsp;&emsp;&emsp;The Secretary shall allow the local school boards involved authority to implement only the aspects of the Defense Department Overseas Teachers Pay and Personnel Practices Act pay provisions that are considered essential for recruitment and retention of teachers and counselors. Implementation of such provisions shall not be construed to require the implementation of that entire Act.
+&emsp;&emsp;&emsp;The Secretary shall allow the local school boards involved authority to implement only the aspects of the Defense Department Overseas Teachers Pay and Personnel Practices Act pay provisions that are considered essential for recruitment and retention of teachers and counselors. Implementation of such provisions shallnot be construed to require the implementation of that entire Act.
 
 #### (C) Rates for new hires
 
@@ -292,7 +292,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;The establishment of rates of basic compensation and annual salary rates under subparagraphs (B) and (C) shall not—
 
-&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancementsthrough levels of pay that are based on the merit, education, experience, or tenure of the educator; or
+&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
 
 &emsp;&emsp;&emsp;(ii) affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) <sup>3</sup> as in effect on January 1, 1990.
 
@@ -332,7 +332,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (v) Reports
 
-&emsp;&emsp;&emsp;On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and approvals of authorization made under this paragraph during the previous year and listing the positions receiving post differential rates under contracts entered into under those authorizations.
+&emsp;&emsp;&emsp;On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and approvals of authorization made under this paragraph during the previous year and listing the positions receiving post differentialrates under contracts entered into under those authorizations.
 
 #### (h) Liquidation of remaining leave upon termination
 
@@ -362,7 +362,7 @@ In the case of any educator employed in an education position described in subse
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1342 of title 31, the Secretary may, subject to the approval of thelocal school board concerned, accept voluntary services on behalf of Bureau schools.
+&emsp;Notwithstanding section 1342 of title 31, the Secretary may, subject to the approval of the local school board concerned, accept voluntary services on behalf of Bureau schools.
 
 #### (2) Federal employee protection
 
@@ -462,7 +462,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 #### (1) In general
 
-&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not beplaced on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
+&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
 &emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
 
@@ -488,13 +488,17 @@ The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under sect
 
 The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
 
-Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
+Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) ofprior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
 
 #### Prior Provisions
 
 A prior section 2012, Pub. L. 95–561, title XI, §1132, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4002; amended Pub. L. 105–362, title VIII, §801(c)(3), Nov. 10, 1998, 112 Stat. 3288, related to education personnel, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2012, Pub. L. 95–561, title XI, §1132, Nov. 1, 1978, 92 Stat. 2326; Pub. L. 96–46, §2(b)(9), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §508, Oct. 19, 1984, 98 Stat. 2397, related to establishment of a computerized management information system, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 
@@ -504,7 +508,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following theissuance of the Department of Defense salary schedule and shall not be effected retroactively".
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively".
 
 Similar provisions were contained in the following prior appropriation act:
 

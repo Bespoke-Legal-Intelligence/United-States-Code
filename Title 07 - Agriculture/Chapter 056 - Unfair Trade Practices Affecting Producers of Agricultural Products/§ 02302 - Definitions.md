@@ -20,7 +20,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "handler" means any person engaged in the business or practice of (i) acquiring agricultural products from producers or associations of producers for processing or sale; or (ii) grading, packaging, handling, storing, or processing agricultural products received from producers or associations of producers; or (iii) contracting or negotiating contracts or other arrangements, written or oral, with or on behalf of producers or associations of producers with respect to the production or marketing of any agricultural product; or (iv) acting as an agent or broker for a handler in the performance of any function or act specified in clause (i), (ii), or (iii).
+&emsp;&emsp;The term "handler" means any person engaged in the business or practice of (i) acquiring agricultural products from producers or associations of producers for processing or sale; or (ii) grading, packaging, handling, storing, or processing agricultural products received from producers or associations of producers; or (iii) contracting or negotiating contracts or other arrangements, written or oral, with or on behalf of producers or associations of producers with respect to the production or marketing of any agricultural product; or (iv) acting as an agent or brokerfor a handler in the performance of any function or act specified in clause (i), (ii), or (iii).
 
 #### (B) Exclusion
 
@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;The term "producer" means a person engaged in the production of agricultural products as a farmer, planter, rancher, dairyman, fruit, vegetable, or nut grower.
 
-(Pub. L. 90–288, §3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, §11003, May 22, 2008, 122 Stat.1354; Pub. L. 110–246, §4(a), title XI, §11003, June 18, 2008, 122 Stat. 1664, 2116.)
+(Pub. L. 90–288, §3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, §11003, May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, §4(a), title XI, §11003, June 18, 2008, 122 Stat. 1664, 2116.)
 
 #### Codification
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In each State with one or more accredited colleges of veterinary medicine, the deans of the accredited college or colleges and the director of the State agricultural experiment station shall develop a comprehensive animal health and disease research program for the State based on the animal health research capacity of each eligible institution in the State, which shall be submitted to the Secretary for approval and shall be used for the allocation of funds available to the State under this section.
+&emsp;In each State with one or more accredited colleges of veterinary medicine, the deans of the accredited college or colleges and the director of the State agricultural experiment station shall develop a comprehensive animal health and disease research program for the State based on the animal health research capacity of each eligible institution in the State,which shall be submitted to the Secretary for approval and shall be used for the allocation of funds available to the State under this section.
 
 #### (2) Use of funds
 
@@ -92,13 +92,13 @@
 
 #### (4) Additional apportionment
 
-&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carryout the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
+&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carry out the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
 
 &emsp;&emsp;(A) Four percent shall be retained by the Department of Agriculture for administration, program assistance to the eligible institutions, and program coordination.
 
 &emsp;&emsp;(B) 48 percent shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears to the total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
 
-&emsp;&emsp;(C) 48 percent shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determine the animal health research capacity of the eligible institutions.
+&emsp;&emsp;(C) 48 percent shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determinethe animal health research capacity of the eligible institutions.
 
 #### (5) Special rules for apportionment of certain funds
 

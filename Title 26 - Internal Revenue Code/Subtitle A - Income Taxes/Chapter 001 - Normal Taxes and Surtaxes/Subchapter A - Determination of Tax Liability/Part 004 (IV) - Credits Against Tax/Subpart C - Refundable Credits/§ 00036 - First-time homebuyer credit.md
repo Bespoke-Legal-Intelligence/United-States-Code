@@ -220,7 +220,7 @@ Another prior section 36, acts Aug. 16, 1954, ch. 736, 68A Stat. 15; Oct. 4, 197
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(2). Pub. L. 111–198, §2(a), substituted "and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting 'October 1, 2010' " for "paragraph (1) shall be applied by substituting 'July 1, 2010' ".
+<b>2010</b>—Subsec. (h)(2). Pub. L. 111–198, §2(a), substituted "and who purchases such residence before October 1,2010, paragraph (1) shall be applied by substituting 'October 1, 2010' " for "paragraph (1) shall be applied by substituting 'July 1, 2010' ".
 
 Subsec. (h)(3)(B). Pub. L. 111–198, §2(b), inserted ", and for 'October 1, 2010' " after "for 'July 1, 2010' ".
 

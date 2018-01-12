@@ -66,7 +66,7 @@ Definitions.—In this section—
 
 &emsp;(5) the term "medical food" has the meaning given the term in section 5(b) of the Orphan Drug Act; and
 
-&emsp;(6) the term "supply chain" includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber,broker, drug trader, transportation company, hospital, pharmacy, or security company.
+&emsp;(6) the term "supply chain" includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber, broker, drug trader, transportation company, hospital, pharmacy, or security company.
 
 (Added Pub. L. 112–186, §2(a), Oct. 5, 2012, 126 Stat. 1427.)
 
@@ -80,5 +80,5 @@ Section 5(b) of the Orphan Drug Act, referred to in subsec. (e)(5), is classifie
 
 #### Priority Given to Certain Investigations and Prosecutions
 
-Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
+Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increasedpriority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
 

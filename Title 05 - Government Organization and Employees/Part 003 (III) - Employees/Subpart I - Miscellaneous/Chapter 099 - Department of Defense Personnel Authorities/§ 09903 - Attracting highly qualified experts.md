@@ -36,7 +36,7 @@ Limitations on Additional Payments.—(1) The total amount of the additional pay
 
 &emsp;(B) in the case of an employee who is assigned in support of a contingency operation (as defined in section 101(a)(13) of title 10), allowances and any other payments authorized under chapter 59.
 
-(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee underthis section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3. In computing an employee's total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.
+(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee under this section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3. In computing an employee's total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.
 
 (e)
 

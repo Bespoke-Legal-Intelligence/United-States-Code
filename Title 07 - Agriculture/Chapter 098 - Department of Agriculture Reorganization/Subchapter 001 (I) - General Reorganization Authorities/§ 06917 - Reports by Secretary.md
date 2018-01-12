@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), notwithstanding any other provision of law, the Secretary may, but shall not be required to, prepare and submit any report solely to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+Subject to subsection (b), notwithstanding any other provision of law, the Secretary may, butshall not be required to, prepare and submit any report solely to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 #### (b) Limitation
 

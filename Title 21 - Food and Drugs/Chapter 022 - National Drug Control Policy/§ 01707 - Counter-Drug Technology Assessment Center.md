@@ -98,7 +98,7 @@ The Secretary of Defense, the Secretary of Homeland Security, and the Secretary 
 
 Subsec. (c). Pub. L. 109–469, §401(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which related to additional responsibilities of the Director of National Drug Control Policy.
 
-Subsec. (d). Pub. L. 109–469, §401(c), which directed insertion of ", the Secretary of Homeland Security," after "The Secretary of Defense", could not be executed because the words "The Secretary of Defense"did not appear subsequent to amendment by Pub. L. 109–469, §401(b)(1). See below.
+Subsec. (d). Pub. L. 109–469, §401(c), which directed insertion of ", the Secretary of Homeland Security," after "The Secretary of Defense", could not be executed because the words "The Secretary of Defense" did not appear subsequent to amendment by Pub. L. 109–469, §401(b)(1). See below.
 
 Pub. L. 109–469, §401(b)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 

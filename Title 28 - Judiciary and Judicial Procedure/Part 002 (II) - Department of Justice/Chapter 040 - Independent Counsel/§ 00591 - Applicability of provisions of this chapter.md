@@ -20,7 +20,7 @@ Applies.—The persons referred to in subsection (a) are—
 
 &emsp;(5) the Director of Central Intelligence, the Deputy Director of Central Intelligence, and the Commissioner of Internal Revenue;
 
-&emsp;(6) the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, andany officer of that committee exercising authority at the national level, during the incumbency of the President; and
+&emsp;(6) the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of that committee exercising authority at the national level, during the incumbency of the President; and
 
 &emsp;(7) any individual who held an office or position described in paragraph (1), (2), (3), (4), or (5) for 1 year after leaving the office or position.
 
@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or abo
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) "the Director of Central Intelligence" and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted "through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;" for "through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and". Former par. (6) redesignated (8).
+Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted "through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;" for "through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of thesame political party as the incumbent President; and". Former par. (6) redesignated (8).
 
 Subsec. (b)(7). Pub. L. 97–409, §3, added par. (7).
 
@@ -166,7 +166,7 @@ Pub. L. 100–191, §6, Dec. 15, 1987, 101 Stat. 1307, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), the amendments made by this Act \[enacting section 599 of this title, amending this section, sections 49 and 592 to598 of this title, sections 203 and 205 of Pub. L. 95–521 set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 1 of this title, and amending provisions set out below\] take effect on the date of the enactment of this Act \[Dec. 15, 1987\].
+In General.—Subject to subsection (b), the amendments made by this Act \[enacting section 599 of this title, amending this section, sections 49 and 592 to 598 of this title, sections 203 and 205 of Pub. L. 95–521 set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 1 of this title, and amending provisions set out below\] take effect on the date of the enactment of this Act \[Dec. 15, 1987\].
 
 "(b)
 

@@ -26,7 +26,7 @@ The President shall establish the terms and conditions, including the amount to 
 
 #### (c) Appropriations requirement
 
-The authorities provided by this section may be exercised only in such amounts and to such extent as is provided in advance in appropriations Acts.
+The authorities provided by this section may be exercised only in such amounts and to suchextent as is provided in advance in appropriations Acts.
 
 #### (d) Certain prohibitions inapplicable
 

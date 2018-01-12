@@ -6,5 +6,5 @@ Nothing in this chapter shall derogate from the authority of the Secretary of th
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act tothe Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 

@@ -62,7 +62,7 @@ Aug. 7, 1947, ch. 512, §316(j), 61 Stat. 868.
 
 July 24, 1941, ch. 320, §10(e), 55 Stat. 605; Feb. 21, 1946, ch. 34, §8(a), 60 Stat. 28.
 
-In subsection (a) the word "Regular" is inserted before the words "Navy" and "Marine Corps" to reflect the longstanding interpretation that 34 U.S.C. 431 applies only to members of the Regular Navy and Regular Marine Corps. So much of the Act of March 2, 1907, ch. 2515, §1 (34 U.S.C. 431), as pertains to allowances and rations was expressly repealed by the Act of June 16, 1942, ch. 413, 56 Stat. 369. The words "active service in the armed forces" are substituted for 34 U.S.C. 432 for brevity. The reference to the former Revenue Cutter Service in 34 U.S.C. 432 is omitted as obsolete, inasmuch as that Service was absorbed by the Coast Guard in 1915. If there are any enlisted men not yet retired who served in the Revenue Cutter Service, their right to count that service for the purpose of this section is protected by the saving provisions accompanying this title. The reference to active service in the Civil or Spanish-American War in 34 U.S.C. 432 is omitted as obsolete.
+In subsection (a) the word "Regular" is inserted before the words "Navy" and "Marine Corps" to reflect the longstanding interpretation that 34 U.S.C. 431 applies only to members of the Regular Navy and Regular Marine Corps. So much of the Act of March 2, 1907, ch. 2515, §1 (34 U.S.C. 431), as pertains to allowances and rations was expressly repealed by the Act of June 16, 1942, ch. 413, 56 Stat. 369. The words "active service in the armed forces" are substituted for 34 U.S.C. 432 for brevity. The reference to the former Revenue Cutter Service in 34 U.S.C. 432 is omitted as obsolete, inasmuch asthat Service was absorbed by the Coast Guard in 1915. If there are any enlisted men not yet retired who served in the Revenue Cutter Service, their right to count that service for the purpose of this section is protected by the saving provisions accompanying this title. The reference to active service in the Civil or Spanish-American War in 34 U.S.C. 432 is omitted as obsolete.
 
 Subsection (b) is inserted to cover into the section permanent enlisted members who are temporarily appointed to commissioned or warrant grades.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

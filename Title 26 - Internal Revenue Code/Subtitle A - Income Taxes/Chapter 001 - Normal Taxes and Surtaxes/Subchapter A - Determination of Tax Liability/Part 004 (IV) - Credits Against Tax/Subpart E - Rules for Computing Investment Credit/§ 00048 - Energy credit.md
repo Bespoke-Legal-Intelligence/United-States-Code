@@ -160,7 +160,7 @@
 
 #### (b) Certain progress expenditure rules made applicable
 
-Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the RevenueReconciliation Act of 1990) shall apply for purposes of subsection (a).
+Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
 
 #### (c) Definitions
 
@@ -308,7 +308,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;&emsp;(B) shall <sup>4</sup> be taken into account in determining the basis of the property to which such grant relates, except that the basis of such property shall be reduced under section 50(c) in the same manner as a credit allowed under subsection (a).
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c),474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341; Pub. L. 113–295, div. A, title I, §155(b), title II, §209(d), Dec. 19, 2014, 128 Stat. 4021, 4028; Pub. L. 114–113, div. P, title III, §§302(a), (b), 303(a)–(c), div. Q, title I, §187(b), Dec. 18, 2015, 129 Stat. 3038, 3039, 3074.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829,2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341; Pub. L. 113–295, div. A, title I, §155(b), title II, §209(d), Dec. 19, 2014, 128 Stat. 4021, 4028; Pub. L. 114–113, div. P, title III, §§302(a), (b), 303(a)–(c), div. Q, title I, §187(b), Dec. 18, 2015, 129 Stat. 3038, 3039, 3074.)
 
 #### References in Text
 
@@ -480,7 +480,7 @@ Subsec. (s)(9). Pub. L. 100–647, §1002(a)(16)(A), added par. (9).
 
 Subsec. (t). Pub. L. 100–647, §1002(a)(20), redesignated subsec. (s), relating to cross reference, as (t).
 
-<b>1986</b>—Subsec. (a)(2)(B)(vii). Pub. L. 99–514, §§1272(d)(5), 1275(c)(5), struck out "932," after "931," and "or whichis entitled to the benefits of section 934(b)" after "in effect under section 936", and substituted "or 933" for ", 933, or 934(c)".
+<b>1986</b>—Subsec. (a)(2)(B)(vii). Pub. L. 99–514, §§1272(d)(5), 1275(c)(5), struck out "932," after "931," and "or which is entitled to the benefits of section 934(b)" after "in effect under section 936", and substituted "or 933" for ", 933, or 934(c)".
 
 Subsec. (a)(4). Pub. L. 99–514, §1802(a)(9)(A), substituted "514(b)" for "514(c)" and "514(a)" for "514(b)".
 
@@ -526,7 +526,7 @@ Subsec. (b). Pub. L. 98–369, §114(a), amended subsec. (b) generally, substitu
 
 Subsec. (c)(2)(A). Pub. L. 98–369, §11(a), substituted "$125,000 ($150,000 for taxable years beginning after 1987)" for "$150,000 ($125,000 for taxable years beginning in 1981, 1982, 1983, or 1984)" in first sentence, and "$125,000 (or $150,000" for "$150,000 (or $125,000" in two places in second sentence.
 
-Subsec. (c)(2)(B). Pub. L. 98–369, §11(b), substituted "$62,500 ($75,000 for taxable years beginning after 1987)" for "$75,000 ($62,500 for taxable years beginning in 1981, 1982, 1983, or 1984)".
+Subsec. (c)(2)(B). Pub. L. 98–369, §11(b), substituted "$62,500 ($75,000 for taxable years beginning after 1987)"for "$75,000 ($62,500 for taxable years beginning in 1981, 1982, 1983, or 1984)".
 
 Subsec. (c)(3)(B). Pub. L. 98–369, §474(o)(10), substituted "section 39" for "section 46(b)".
 
@@ -844,7 +844,7 @@ Pub. L. 110–343, div. B, title I, §105(b), Oct. 3, 2008, 122 Stat. 3814, prov
 
 Pub. L. 109–58, title XIII, §1336(e), Aug. 8, 2005, 119 Stat. 1038, provided that: "The amendments made by this section \[amending this section\] shall apply to periods after December 31, 2005, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\])."
 
-Pub. L. 109–58, title XIII, §1337(d), Aug. 8, 2005, 119 Stat. 1038, provided that: "The amendments made by this section \[amending this section\] shall apply to periods after December 31, 2005, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\])."
+Pub. L. 109–58, title XIII, §1337(d), Aug. 8, 2005, 119 Stat. 1038, provided that: "The amendments made by this section \[amending this section\] shall apply to periods after December 31, 2005, in taxable years endingafter such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\])."
 
 #### Effective Date of 2004 Amendment
 
@@ -858,7 +858,7 @@ Pub. L. 102–486, title XIX, §1916(b), Oct. 24, 1992, 106 Stat. 3024, provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) ofthis title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -910,7 +910,7 @@ Amendment by section 113(b)(3) of Pub. L. 98–369 applicable as if included in 
 
 Amendment by section 113(b)(4) of Pub. L. 98–369 applicable as if included in the amendments made by section 205(a)(1) of Pub. L. 97–248, see section 113(c)(2)(C) of Pub. L. 98–369, set out as a note under section 168 of this title.
 
-Pub. L. 98–369, div. A, title I, §113(c)(1), July 18, 1984, 98 Stat. 637, provided that: "The amendments made by subsection (a) \[amending this section and section 168 of this title\] shall apply to property placed in service after March 15, 1984, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §113(c)(1), July 18, 1984, 98 Stat. 637, provided that: "The amendments made by subsection (a) \[amending this section and section 168 of this title\] shall apply to property placed in serviceafter March 15, 1984, in taxable years ending after such date."
 
 Pub. L. 98–369, div. A, title I, §114(b), July 18, 1984, 98 Stat. 638, provided that: "The amendment made by this section \[amending this section\] shall apply to property originally placed in service after April 11, 1984 (determined without regard to such amendment)."
 
@@ -1084,7 +1084,7 @@ Binding contract.—The amendments made by subsection (a) \[amending this sectio
 
 &emsp;"(3)
 
-Certain lease-back transactions, etc.—Where a person who is a party to a binding contract described in paragraph (2) transfers rights in suchcontract (or in the property to which such contract relates) to another person but a party to such contract retains a right to use the property under a lease with such other person, then to the extent of the transferred rights such other person shall, for purposes of paragraph (2), succeed to the position of the transferor with respect to such binding contract and such property. The preceding sentence shall apply, in any case in which the lessor does not make an election under section 48(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], only if a party to such contract retains a right to use the property under a long-term lease."
+Certain lease-back transactions, etc.—Where a person who is a party to a binding contract described in paragraph (2) transfers rights in such contract (or in the property to which such contract relates) to another person but a party to such contract retains a right to use the property under a lease with such other person, then to the extent of the transferred rights such other person shall, for purposes of paragraph (2), succeed to the position of the transferor with respect to such binding contract and such property. The preceding sentence shall apply, in any case in which the lessor does not make an election under section 48(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], only if a party to such contract retains a right to use the property under a long-term lease."
 
 #### Effective Date of 1971 Amendment
 
@@ -1166,7 +1166,7 @@ Applicable percentage.—For purposes of paragraph (1), the term 'applicable per
 
 &emsp;"(3)
 
-Dollar limitations.—In the case of property described in paragraph (2), (6), or (7) of subsection (d), the amount of any grant under this section with respect to such property shall not exceed the limitation described in section 48(c)(1)(B), 48(c)(2)(B), or48(c)(3)(B) of the Internal Revenue Code of 1986, respectively, with respect to such property.
+Dollar limitations.—In the case of property described in paragraph (2), (6), or (7) of subsection (d), the amount of any grant under this section with respect to such property shall not exceed the limitation described in section 48(c)(1)(B), 48(c)(2)(B), or 48(c)(3)(B) of the Internal Revenue Code of 1986, respectively, with respect to such property.
 
 "(c)
 
@@ -1238,7 +1238,7 @@ Exception for Certain Non-Taxpayers.—The Secretary of the Treasury shall not m
 
 &emsp;"(2) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
 
-&emsp;"(3) any entity referred to in paragraph (4) of section 54(j) of such Code, or
+&emsp;"(3) any entity referred to in paragraph (4) of \[former\] section 54(j) of such Code, or
 
 &emsp;"(4) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in paragraph (1), (2) or (3).
 
@@ -1266,7 +1266,7 @@ For applicability of amendment by section 701(e)(4)(C) of Pub. L. 99–514 notwi
 
 #### Special Rule
 
-Pub. L. 99–514, title XVIII, §1879(j)(3), Oct. 22, 1986, 100 Stat. 2909, provided that: "If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period."
+Pub. L. 99–514, title XVIII, §1879(j)(3), Oct. 22, 1986, 100 Stat. 2909, provided that: "If refund or credit of anyoverpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period."
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
@@ -1278,7 +1278,7 @@ Pub. L. 94–455, title VIII, §804(c), Oct. 4, 1976, 90 Stat. 1594, as amended 
 
 &emsp;"(1)
 
-General rule for determining useful life, predominant foreign use, etc.—In the case of a qualified film (within the meaning of section 48(k)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service in a taxable yearbeginning before January 1, 1975, with respect to which neither an election under paragraph (2) of this subsection nor an election under subsection (e)(2) applies—
+General rule for determining useful life, predominant foreign use, etc.—In the case of a qualified film (within the meaning of section 48(k)(1)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service in a taxable year beginning before January 1, 1975, with respect to which neither an election under paragraph (2) of this subsection nor an election under subsection (e)(2) applies—
 
 &emsp;&emsp;"(A) the applicable percentage under section 46(c)(2) of such Code shall be determined as if the useful life of the film would have expired at the close of the first taxable year by the close of which the aggregate amount allowable as a deduction under section 167 of such Code would equal or exceed 90 percent of the basis of such property (adjusted for any partial dispositions),
 
@@ -1348,7 +1348,7 @@ Pub. L. 94–455, title VIII, §804(d), Oct. 4, 1976, 90 Stat. 1596, as amended 
 
 Pub. L. 88–272, title II, §203(a)(2), Feb. 26, 1964, 78 Stat. 33, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The basis of any section 38 property (as defined in section 48(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before January 1, 1964, shall be increased, under regulations prescribed by the Secretary of the Treasury or his delegate, by an amount equal to 7 percent of the qualified investment with respect to such property under section 46(c) of the Internal Revenue Code of 1986. If there has been any increase with respect to such property under section 48(g)(2) of such Code, the increase under the preceding sentence shall be appropriately reduced therefor.
+"(A) The basis of any section 38 property (as defined in section 48(a) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\]) placed in service before January 1, 1964, shall be increased, under regulations prescribed by the Secretary of the Treasury or his delegate, by an amount equal to 7 percent of the qualified investment with respect to such property under section 46(c) of the Internal Revenue Code of 1986. If there has been any increase with respect to such property under section 48(g)(2) of such Code, the increase under the preceding sentence shall be appropriately reduced therefor.
 
 "(B) If a lessor made the election provided by section 48(d) of the Internal Revenue Code of 1986 with respect to property placed in service before January 1, 1964—
 

@@ -26,7 +26,7 @@
 
 (i) Any civil action of which the Court of International Trade has jurisdiction, other than an action specified in subsections (a)–(h) of this section, may be commenced in the court by any person adversely affected or aggrieved by agency action within the meaning of section 702 of title 5.
 
-(j)(1) Any person who would be adversely affected or aggrieved by a decision in a civil action pending in the Court of International Trade may, by leave of court, intervene in such action, except that—
+(j)(1) Any person who would be adversely affected or aggrieved by a decision in a civil action pending in the Court of International Trademay, by leave of court, intervene in such action, except that—
 
 &emsp;(A) no person may intervene in a civil action under section 515 or 516 of the Tariff Act of 1930;
 
@@ -110,7 +110,7 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

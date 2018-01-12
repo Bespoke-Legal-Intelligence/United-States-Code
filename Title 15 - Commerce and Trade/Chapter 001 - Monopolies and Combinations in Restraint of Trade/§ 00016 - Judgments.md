@@ -12,7 +12,7 @@ Any proposal for a consent judgment submitted by the United States for entry in 
 
 &emsp;(2) a description of the practices or events giving rise to the alleged violation of the antitrust laws;
 
-&emsp;(3) an explanation of the proposal for a consent judgment, including an explanation of any unusual circumstances giving rise to such proposal or any provision contained therein, relief to be obtained thereby, and the anticipated effects on competition of such relief;
+&emsp;(3) an explanation of the proposal for a consent judgment, including an explanation of any unusual circumstances giving rise to such proposal or any provision contained therein,relief to be obtained thereby, and the anticipated effects on competition of such relief;
 
 &emsp;(4) the remedies available to potential private plaintiffs damaged by the alleged violation in the event that such proposal for the consent judgment is entered in such proceeding;
 

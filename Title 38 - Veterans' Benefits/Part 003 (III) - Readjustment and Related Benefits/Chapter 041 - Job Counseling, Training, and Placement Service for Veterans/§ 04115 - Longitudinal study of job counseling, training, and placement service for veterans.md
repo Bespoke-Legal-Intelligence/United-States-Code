@@ -54,7 +54,7 @@ Study Required.—(1) The Secretary shall enter into a contract with a non-gover
 
 (b)
 
-Annual Report.—(1) By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the outcomes of the study during the preceding year.
+Annual Report.—(1) By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shallsubmit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the outcomes of the study during the preceding year.
 
 (2) The Secretary shall include in each report submitted under paragraph (1) the following:
 

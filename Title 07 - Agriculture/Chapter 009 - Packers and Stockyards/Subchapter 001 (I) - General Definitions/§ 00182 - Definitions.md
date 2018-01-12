@@ -38,7 +38,7 @@ Swine production contract.—The term "swine production contract" means any grow
 
 &emsp;(14)
 
-Swine production contract grower.—The term "swine production contract grower"means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
+Swine production contract grower.—The term "swine production contract grower" means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
 
 (Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §2, Nov. 23, 1987, 101 Stat. 917; Pub. L. 107–171, title X, §10502(a), May 13, 2002, 116 Stat. 509.)
 

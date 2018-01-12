@@ -26,7 +26,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 &emsp;&emsp;(H) where appropriate, a process or processes for consideration of solicited proposals under the Compact as well as a process for consideration of unsolicited proposals by the Corporation and national, regional, or local units of government;
 
-&emsp;&emsp;(I) a requirement that open, fair, and competitive procedures are used in a transparentmanner in the administration of grants or cooperative agreements or the procurement of goods and services for the accomplishment of objectives under the Compact;
+&emsp;&emsp;(I) a requirement that open, fair, and competitive procedures are used in a transparent manner in the administration of grants or cooperative agreements or the procurement of goods and services for the accomplishment of objectives under the Compact;
 
 &emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
 

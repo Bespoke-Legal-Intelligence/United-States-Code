@@ -26,7 +26,7 @@ Collateral Incentive Agreements.—The Secretary concerned shall enter into coll
 
 <b>2013</b>—Subsec. (e). Pub. L. 113–66 struck out subsec. (e). Text read as follows: "Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title."
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the 14-day periodbeginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title".
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title".
 
 <b>1999</b>—Pub. L. 106–65, §2803(h)(1), struck out "in nongovernmental entities" after "Investments" in section catchline.
 

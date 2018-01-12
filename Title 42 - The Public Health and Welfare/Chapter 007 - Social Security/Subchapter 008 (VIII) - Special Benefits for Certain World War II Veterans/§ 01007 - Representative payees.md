@@ -130,7 +130,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (2) Special reports
 
-&emsp;Notwithstanding paragraph (1), the Commissioner of Social Security may require a report at any time from any person receiving payments on behalf of a qualified individual, if the Commissioner of Social Security has reason to believe that the person receiving the payments is misusing the payments.
+&emsp;Notwithstanding paragraph (1), the Commissioner of Social Security may require a reportat any time from any person receiving payments on behalf of a qualified individual, if the Commissioner of Social Security has reason to believe that the person receiving the payments is misusing the payments.
 
 #### (3) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 
@@ -156,7 +156,7 @@ In any case where the negligent failure of the Commissioner of Social Security t
 
 &emsp;(B) is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter II, subchapter XVI, or any combination of such subchapters;
 
-> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to theamount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2). The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2). The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
 #### (j) Misuse of benefits
 
@@ -234,7 +234,7 @@ Subsec. (l). Pub. L. 108–203, §105(b), added subsec. (l).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representativepayee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 Amendment by section 103(b) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 

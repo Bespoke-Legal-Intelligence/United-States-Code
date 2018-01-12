@@ -18,7 +18,7 @@ Loans under this subchapter shall be at rates of interest as follows:
 
 #### (c) Interest subsidies
 
-For guaranteed loans under this subchapter, the Secretary may pay interest subsidies to the lenders for those portions of the loans up to the amount of the actual loss caused by the disaster, as limited under subsection (a)(1) of this section. Any such subsidy shall not exceed the difference between the interest rate being charged for loans up to the amount of the actual loss, as established under subsection (b)(1) of this section, and the maximum interest rate for guaranteed loans, as established under subsection (b)(2) of this section.
+For guaranteed loans under this subchapter, the Secretary may pay interest subsidies to thelenders for those portions of the loans up to the amount of the actual loss caused by the disaster, as limited under subsection (a)(1) of this section. Any such subsidy shall not exceed the difference between the interest rate being charged for loans up to the amount of the actual loss, as established under subsection (b)(1) of this section, and the maximum interest rate for guaranteed loans, as established under subsection (b)(2) of this section.
 
 #### (d) Repayment
 
@@ -58,7 +58,7 @@ The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), 
 
 Subsec. (a). Pub. L. 104–127, §624, added subsec. (a) and struck out former subsec. (a) which read as follows: "No loan made or insured under this subchapter may exceed the amount of the actual loss caused by the disaster or $500,000, whichever is less, for each disaster."
 
-Subsec. (d). Pub. L. 104–127, §625, in last sentence, substituted "establish the value of the assets as of the day before the occurrence of the natural disaster, major disaster, or emergency that is the basis for a request for assistance under this subchapter or the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)." for "value the assets based on the higher of (A) the value of the assets on the day before the date the governor of the State in which the farm is located requests assistance under this subchapter or the Disaster Relief and Emergency Assistance Act for any portion of such State affected by the disaster with respect to which the application for the loan is made, or (B) the value of the assets one year before such day."
+Subsec. (d). Pub. L. 104–127, §625, in last sentence, substituted "establish the value of the assets as of theday before the occurrence of the natural disaster, major disaster, or emergency that is the basis for a request for assistance under this subchapter or the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)." for "value the assets based on the higher of (A) the value of the assets on the day before the date the governor of the State in which the farm is located requests assistance under this subchapter or the Disaster Relief and Emergency Assistance Act for any portion of such State affected by the disaster with respect to which the application for the loan is made, or (B) the value of the assets one year before such day."
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–707 substituted "and Emergency Assistance Act" for "Act of 1974".
 

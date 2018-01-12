@@ -1092,7 +1092,7 @@ In General.—The United States Patent and Trademark Office shall develop and im
 
 "(b)
 
-Definition.—In this section, the term 'rural States' means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) \[3796bb(b)\])."
+Definition.—In this section, the term 'rural States' means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) \[former 42 U.S.C. 3796bb(b), now 34 U.S.C. 10351(b)\])."
 
 #### Waiver of Certain Restrictions
 

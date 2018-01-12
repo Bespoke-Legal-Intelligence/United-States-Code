@@ -12,7 +12,7 @@
 
 #### (3) Assessments
 
-&emsp;As a regular part of its assessments, the National Center for Education Statistics shall collect and report information on career and technical education for a nationally representative sample of students. Such assessment may include international comparisons in the aggregate.
+&emsp;As a regular part of its assessments, the National Center for Education Statistics shall collect and report information on career andtechnical education for a nationally representative sample of students. Such assessment may include international comparisons in the aggregate.
 
 #### (b) Miscellaneous provisions
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall appoint an independent advisory panel to advise the Secretaryon the implementation of the assessment described in paragraph (2), including the issues to be addressed and the methodology of the studies involved to ensure that the assessment adheres to the highest standards of quality.
+&emsp;&emsp;The Secretary shall appoint an independent advisory panel to advise the Secretary on the implementation of the assessment described in paragraph (2), including the issues to be addressed and the methodology of the studies involved to ensure that the assessment adheres to the highest standards of quality.
 
 #### (B) Members
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent and success of the integration of rigorous and challenging academic and career and technical education for students participating in career and technical education programs, including a review of the effect of such integration on the academic and technical proficiency achievement of such students (including the number of such students receiving a secondary school diploma); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the extent to which career and technical education programs prepare students, including special populations, for subsequent employment in high skill, high wage occupations (including those in which mathematics and science skills are critical), or for participation in postsecondary education;
+&emsp;&emsp;&emsp;&emsp;(II) the extent to which career and technical education programs prepare students, including special populations, for subsequent employment in high skill, high wage occupations (including those in which mathematics and science skillsare critical), or for participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(iv) employer involvement in, and satisfaction with, career and technical education programs and career and technical education students' preparation for employment;
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may collect and disseminate information from States regardingState efforts to meet State adjusted levels of performance described in section 2323(b) of this title.
+&emsp;&emsp;The Secretary may collect and disseminate information from States regarding State efforts to meet State adjusted levels of performance described in section 2323(b) of this title.
 
 #### (B) Report
 

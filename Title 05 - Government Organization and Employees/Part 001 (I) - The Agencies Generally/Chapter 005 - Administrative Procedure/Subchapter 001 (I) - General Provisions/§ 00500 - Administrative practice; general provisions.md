@@ -8,7 +8,7 @@
 
 (b) An individual who is a member in good standing of the bar of the highest court of a State may represent a person before an agency on filing with the agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
 
-(c) An individual who is duly qualified to practice as a certified public accountant in a State may represent a person before the Internal Revenue Service of the Treasury Department on filing with that agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
+(c) An individual who is duly qualified to practice as a certified public accountant in a Statemay represent a person before the Internal Revenue Service of the Treasury Department on filing with that agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
 
 (d) This section does not—
 
@@ -22,7 +22,7 @@
 
 (e) Subsections (b)–(d) of this section do not apply to practice before the United States Patent and Trademark Office with respect to patent matters that continue to be covered by chapter 3 (sections 31–33) of title 35.
 
-(f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required orpermitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
+(f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
 
 (Added Pub. L. 90–83, §1(1)(A), Sept. 11, 1967, 81 Stat. 195; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 

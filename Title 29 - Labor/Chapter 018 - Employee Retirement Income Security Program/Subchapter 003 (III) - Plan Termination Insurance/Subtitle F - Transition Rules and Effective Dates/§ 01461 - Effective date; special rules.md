@@ -10,7 +10,7 @@
 
 &emsp;(3) to which section 1321 of this title would apply if that section were effective beginning on July 1, 1974, and
 
-&emsp;(4) with respect to which a notice is filed with the Secretary of Labor and received by him not later than 10 days after September 2, 1974, except that, for reasonable cause shown, such notice may be filed with the Secretary of Labor and received by him not later than October 31, 1974, stating that the plan is a plan described in paragraphs (1), (2), and (3).
+&emsp;(4) with respect to which a notice is filed with the Secretary of Labor and received by him not later than 10 days after September 2, 1974, except that, for reasonable cause shown,such notice may be filed with the Secretary of Labor and received by him not later than October 31, 1974, stating that the plan is a plan described in paragraphs (1), (2), and (3).
 
 > The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D if the plan terminated on or after September 2, 1974. The provisions of subtitle D do not apply in the case of such a plan which terminates before September 2, 1974. For purposes of determining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
 
@@ -176,7 +176,7 @@ Committee on Labor and Public Welfare of Senate abolished and replaced by Commit
 
 Amendment by section 7862(a) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
 
-Pub. L. 101–239, title VII, §7894(h)(5)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall take effect as if originally included in the Reform Act \[Pub. L. 99–514\]."
+Pub. L. 101–239, title VII, §7894(h)(5)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in the Reform Act \[Pub. L. 99–514\]."
 
 #### Effective Date of 1986 Amendment
 

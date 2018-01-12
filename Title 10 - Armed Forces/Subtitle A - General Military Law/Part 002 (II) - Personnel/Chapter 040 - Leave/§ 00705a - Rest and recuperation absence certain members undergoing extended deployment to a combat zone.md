@@ -12,7 +12,7 @@ Covered Members.—A member of the armed forces described in this subsection is 
 
 &emsp;&emsp;(A) that is designated by the President as a combat zone; and
 
-&emsp;&emsp;(B) in which hardship duty pay is authorized to be paid under section 305 of title 37; and
+&emsp;&emsp;(B) in which hardship duty pay is authorized to be paid under section 305 or 352(a) of title 37; and
 
 &emsp;(2) meets such other criteria as the Secretary of Defense may prescribe in the regulations required by subsection (a).
 
@@ -28,5 +28,9 @@ Benefits.—The benefits described in this subsection are the following:
 
 Construction With Other Leave.—Any benefits provided a member under this section are in addition to any other leave or absence to which the member may be entitled.
 
-(Added Pub. L. 111–383, div. A, title V, §532(a), Jan. 7, 2011, 124 Stat. 4216.)
+(Added Pub. L. 111–383, div. A, title V, §532(a), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 115–91, div. A, title VI, §618(e), Dec. 12, 2017, 131 Stat. 1426.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (b)(1)(B). Pub. L. 115–91 inserted "or 352(a)" after "section 305".
 

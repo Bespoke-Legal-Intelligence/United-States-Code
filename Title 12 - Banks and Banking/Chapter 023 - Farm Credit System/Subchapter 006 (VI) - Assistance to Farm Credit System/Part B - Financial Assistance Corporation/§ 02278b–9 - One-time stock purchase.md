@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), for the purpose of obtaining funds for the Trust Fund, each System institution shall purchase from the Financial Assistance Corporation stock issued in accordance with section 2278b–3 of this title in an amount equal to the amount by which the unallocated retained earnings of the institution (after taking into account any funds received by the institution under section 2278a–9(c) of this title) exceeds—
+&emsp;Except as provided in paragraphs (2) and (3), for the purpose of obtaining funds for the Trust Fund, each System institution shall purchase from the Financial Assistance Corporation stock issued in accordance with section 2278b–3 of this title in an amount equal to the amount by which the unallocated retainedearnings of the institution (after taking into account any funds received by the institution under section 2278a–9(c) of this title) exceeds—
 
 &emsp;&emsp;(A) in the case of a System bank, 5 percent of assets; or
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) The program shall provide, with respect to each issuance of debt obligations under section 2278b–6(a) of this title, that each System institution originally required to purchase stock under paragraph (1), or the successor thereto, shall purchase Corporation stock in an amount determined by multiplying the amount of stock such institution was originally required to purchase under that paragraph by a percentage equal to the percentage which the amount of the issuance bears to $4,000,000,000.
 
-&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporationshall deduct from any refund due any System institution, and retain, the amount payable by such institution.
+&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
 
 #### (b) Computations
 
@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the United States district court for
 
 Subsec. (a)(3). Pub. L. 100–460, §646(2), added par. (3).
 
-Subsec. (c). Pub. L. 100–460, §646(3), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (c). Pub. L. 100–460, §646(3), (4), designated existing provisions as par. (1), redesignated former pars.\(1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 #### Effective Date of 1988 Amendments
 

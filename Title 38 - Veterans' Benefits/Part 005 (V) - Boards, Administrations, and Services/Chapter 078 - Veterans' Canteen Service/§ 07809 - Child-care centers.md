@@ -1,6 +1,6 @@
 ### §7809. Child-care centers
 
-(a)(1) The Secretary, through the Service, shall provide for the operation of child-care centers at Department facilities in accordance withthis section. The operation of such centers shall be carried out to the extent that the Secretary determines, based on the demand for the care involved, that such operation is in the best interest of the Department and that is practicable to do so. The centers shall be available for the children of Department employees and, to the extent space is available, the children of other employees of the Federal Government and the children of employees of affiliated schools and corporations created under section 7361 of this title.
+(a)(1) The Secretary, through the Service, shall provide for the operation of child-care centers at Department facilities in accordance with this section. The operation of such centers shall be carried out to the extent that the Secretary determines, based on the demand for the care involved, that such operation is in the best interest of the Department and that is practicable to do so. The centers shall be available for the children of Department employees and, to the extent space is available, the children of other employees of the Federal Government and the children of employees of affiliated schools and corporations created under section 7361 of this title.
 
 (2) There shall be in the Service an official who is responsible for all matters relating to the provision of child-care services under the authority of this section.
 
@@ -12,7 +12,7 @@
 
 &emsp;(2) may, on a reimbursable basis, convert space furnished under clause (1) of this subsection for use as the child-care center and provide other items necessary for the operation of the center, including furniture, office machines and equipment, and telephone service, except that the Secretary may furnish basic telephone service and surplus furniture and equipment without reimbursement;
 
-&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies to govern the operation of the center and in the oversight of the implementation of such policies;
+&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies to govern the operation of the center and in theoversight of the implementation of such policies;
 
 &emsp;(4) shall require the development and use of a process for determining the fitness and suitability of prospective employees of or volunteers at the center; and
 

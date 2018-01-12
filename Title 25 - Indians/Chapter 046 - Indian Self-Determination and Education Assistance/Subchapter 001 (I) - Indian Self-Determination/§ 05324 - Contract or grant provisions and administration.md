@@ -44,7 +44,7 @@
 
 #### (b) Payments; transfer of funds by Treasury for disbursement by tribal organization; accountability for interest accrued prior to disbursement
 
-Payments of any grants or under any contracts pursuant to sections 5321 and 5322 of this title may be made in advance or by way of reimbursement and in such installments and on such conditions as the appropriate Secretary deems necessary to carry out the purposes of this subchapter. The transfer of funds shall be scheduled consistent with program requirements and applicable Treasury regulations, so as to minimizethe time elapsing between the transfer of such funds from the United States Treasury and the disbursement thereof by the tribal organization, whether such disbursement occurs prior to or subsequent to such transfer of funds. Tribal organizations shall not be held accountable for interest earned on such funds, pending their disbursement by such organization.
+Payments of any grants or under any contracts pursuant to sections 5321 and 5322 of this title may be made in advance or by way of reimbursement and in such installments and on such conditions as the appropriate Secretary deems necessary to carry out the purposes of this subchapter. The transfer of funds shall be scheduled consistent with program requirements and applicable Treasury regulations, so as to minimize the time elapsing between the transfer of such funds from the United States Treasury and the disbursement thereof by the tribal organization, whether such disbursement occurs prior to or subsequent to such transfer of funds. Tribal organizations shall not be held accountable for interest earned on such funds, pending their disbursement by such organization.
 
 #### (c) Term of self-determination contracts; annual renegotiation
 
@@ -80,7 +80,7 @@ If an Indian tribe, or a tribal organization authorized by a tribe, requests ret
 
 In connection with any self-determination contract or grant made pursuant to section 5321 or 5322 of this title, the appropriate Secretary may—
 
-&emsp;(1) permit an Indian tribe or tribal organization in carrying out such contract or grant, to utilize existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal property owned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon for their use and maintenance;
+&emsp;(1) permit an Indian tribe or tribal organization in carrying out such contract or grant, to utilize existing school buildings, hospitals, and other facilities and all equipment thereinor appertaining thereto and other personal property owned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon for their use and maintenance;
 
 &emsp;(2) donate to an Indian tribe or tribal organization title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, except that—
 
@@ -116,7 +116,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 #### (l) Lease of facility used for administration and delivery of services
 
-(1) Upon the request of an Indian tribe or tribal organization, the Secretary shall enter into a lease with the Indian tribe or tribal organization that holds title to, a leasehold interest in, or a trust interest in, a facility used by the Indian tribe or tribal organization for the administration and delivery of services under this chapter.
+(1) Upon the request of an Indian tribe or tribal organization, the Secretary shall enter into alease with the Indian tribe or tribal organization that holds title to, a leasehold interest in, or a trust interest in, a facility used by the Indian tribe or tribal organization for the administration and delivery of services under this chapter.
 
 (2) The Secretary shall compensate each Indian tribe or tribal organization that enters into a lease under paragraph (1) for the use of the facility leased for the purposes specified in such paragraph. Such compensation may include rent, depreciation based on the useful life of the facility, principal and interest paid or accrued, operation and maintenance expenses, and such other reasonable expenses that the Secretary determines, by regulation, to be allowable.
 
@@ -140,7 +140,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 &emsp;(D) A negotiation session during which the Secretary and the tribe or tribal organization shall seek to develop a mutually agreeable contract proposal.
 
-&emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative disputeresolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
+&emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative dispute resolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
 
 &emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contract proposal pursuant to section 5321(a) of this title.
 
@@ -278,7 +278,7 @@ Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) a
 
 #### Continued Availability of Certain Funds
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 5321 et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee".
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 5321 et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "provisions".</i>
 

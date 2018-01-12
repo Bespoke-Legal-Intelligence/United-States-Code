@@ -1,28 +1,17 @@
 ### <b>CHAPTER 54—MERCHANT SHIP SALES</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [4401\.](%C2%A7%2004401%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
-| [4402\.](%C2%A7%2004402%20-%20Definitions.md) | Definitions. |
-| [4403\.](%C2%A7%2004403%20-%20Charter%20of%20vessels.md) | Charter of vessels. |
-| [4404\.](%C2%A7%2004404%20-%20Exchange%20of%20vessels.md) | Exchange of vessels. |
-| [4405\.](%C2%A7%2004405%20-%20National%20Defense%20Reserve%20Fleet.md) | National Defense Reserve Fleet. |
-| [4406\.](%C2%A7%2004406%20-%20Reconversion%20of%20vessels%20for%20normal%20commercial%20operation%3B%20applicability%20of%20other%20laws%20to%20construction%20contracts%3B%20coastwise%20trade%E2%80%A6.md) | Reconversion of vessels for normal commercial operation; applicability of other laws to construction contracts; coastwise trade; disposition of moneys; Great Lakes trade. |
+| Sec. |
+| :--- |
+| 4401 to 4406. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Elimination of Title 50, Appendix
-
-Act Mar. 8, 1946, ch. 82, 60 Stat. 41, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see the Elimination ofTitle 50, Appendix note and Table II, set out preceding section 1 of this title.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04401 - Declaration of policy](%C2%A7%2004401%20-%20Declaration%20of%20policy.md)
-- [&sect; 04402 - Definitions](%C2%A7%2004402%20-%20Definitions.md)
-- [&sect; 04403 - Charter of vessels](%C2%A7%2004403%20-%20Charter%20of%20vessels.md)
-- [&sect; 04404 - Exchange of vessels](%C2%A7%2004404%20-%20Exchange%20of%20vessels.md)
-- [&sect; 04405 - National Defense Reserve Fleet](%C2%A7%2004405%20-%20National%20Defense%20Reserve%20Fleet.md)
-- [&sect; 04406 - Reconversion of vessels for normal commercial operation; applicability of other laws to construction contracts; coastwise trade&#8230;](%C2%A7%2004406%20-%20Reconversion%20of%20vessels%20for%20normal%20commercial%20operation%3B%20applicability%20of%20other%20laws%20to%20construction%20contracts%3B%20coastwise%20trade%E2%80%A6.md)
+- [&sect; 04401 to 4403 - Repealed. Pub. L. 115&#8211;91, div. C, title XXXV, &sect;3502(a)(1), Dec. 12, 2017, 131 Stat. 1910](%C2%A7%2004401%20to%204403%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9391%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73502%28a%29%281%29%2C%20Dec.%2012%2C%202017%2C%20131%20Stat.%201910.md)
+- [&sect; 04404 - Repealed or Transferred](%C2%A7%2004404%20-%20Repealed%20or%20Transferred.md)
+- [&sect; 04405 - Transferred](%C2%A7%2004405%20-%20Transferred.md)
+- [&sect; 04406 - Repealed. Pub. L. 115&#8211;91, div. C, title XXXV, &sect;3502(a)(1), Dec. 12, 2017, 131 Stat. 1910](%C2%A7%2004406%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9391%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73502%28a%29%281%29%2C%20Dec.%2012%2C%202017%2C%20131%20Stat.%201910.md)

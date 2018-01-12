@@ -24,7 +24,7 @@ Relationship to Other Pay and Allowances.—Special pay paid to a member under t
 
 (e)
 
-Repayment.—A member who is paid special pay in a lump sum under this section, but who fails to perform the designated hardship duty during the months included in the calculation ofthe amount of the lump sum under subsection (c)(2), shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A member who is paid special pay in a lump sum under this section, but who fails to perform the designated hardship duty during the months included in the calculation of the amount of the lump sum under subsection (c)(2), shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
@@ -62,7 +62,7 @@ In subsection (b), the words "Appropriation of" are substituted for the words "o
 
 "(a)
 
-Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section at a monthly rate not to exceed $750 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
+Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paidspecial pay under this section at a monthly rate not to exceed $750 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
 
 "(b)
 
@@ -148,7 +148,7 @@ Pub. L. 105–85, div. A, title VI, §619(e), Nov. 18, 1997, 111 Stat. 1790, pro
 
 #### Sea Duty Performed Between October 1, 1978, and September 30, 1981
 
-Pub. L. 95–485, title VIII, §804(c), Oct. 20, 1978, 92 Stat. 1621, provided that: "Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a))."
+Pub. L. 95–485, title VIII, §804(c), Oct. 20, 1978, 92 Stat. 1621, provided that: "Any individual who on September30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a))."
 
 #### Executive Order No. 10168
 

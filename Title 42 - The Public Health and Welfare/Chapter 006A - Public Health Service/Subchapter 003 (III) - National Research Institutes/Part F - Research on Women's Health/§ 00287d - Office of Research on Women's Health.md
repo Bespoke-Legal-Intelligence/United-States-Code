@@ -30,7 +30,7 @@ The Director of the Office shall—
 
 (1) In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
-(2) The Coordinating Committee shall be composed of the Directors of the national researchinstitutes (or the senior-level staff designees of the Directors).
+(2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the senior-level staff designees of the Directors).
 
 (3) The Director of the Office shall serve as the chair of the Coordinating Committee.
 
@@ -40,7 +40,7 @@ The Director of the Office shall—
 
 &emsp;(B) identifying needs regarding the coordination of research activities, including intramural and extramural multidisciplinary activities;
 
-&emsp;(C) supporting the development of methodologies to determine the circumstances in which obtaining data specific to women (including data relating to the age of women and the membership of women in ethnic or racial groups) is an appropriate function of clinical trials of treatments and therapies;
+&emsp;(C) supporting the development of methodologies to determine the circumstances inwhich obtaining data specific to women (including data relating to the age of women and the membership of women in ethnic or racial groups) is an appropriate function of clinical trials of treatments and therapies;
 
 &emsp;(D) supporting the development and expansion of clinical trials of treatments and therapies for which obtaining such data has been determined to be an appropriate function; and
 
@@ -116,5 +116,5 @@ For purposes of this part:
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

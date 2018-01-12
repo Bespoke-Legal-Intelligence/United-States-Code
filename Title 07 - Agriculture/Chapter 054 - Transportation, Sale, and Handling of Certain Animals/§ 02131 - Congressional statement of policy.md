@@ -44,7 +44,7 @@ Pub. L. 99–198, title XVII, subtitle F (§§1751–1759), §1751, Dec. 23, 198
 
 &emsp;"(1) the use of animals is instrumental in certain research and education for advancing knowledge of cures and treatment for diseases and injuries which afflict both humans and animals;
 
-&emsp;"(2) methods of testing that do not use animals are being and continue to be developed which are faster, less expensive, and more accurate than traditional animal experiments for some purposes and further opportunities exist for the development of these methods of testing;
+&emsp;"(2) methods of testing that do not use animals are being and continue to be developed which are faster,less expensive, and more accurate than traditional animal experiments for some purposes and further opportunities exist for the development of these methods of testing;
 
 &emsp;"(3) measures which eliminate or minimize the unnecessary duplication of experiments on animals can result in more productive use of Federal funds; and
 

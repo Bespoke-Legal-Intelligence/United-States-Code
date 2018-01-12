@@ -32,7 +32,7 @@ The Congress finds that—
 
 &emsp;(11) during the 1980's, nonprofit community housing development organizations, despite severe obstacles caused by inadequate funding, have played an increasingly important role in the production and rehabilitation of affordable housing in communities across the Nation;
 
-&emsp;(12) additional financial resources and technical skills must be made available in local communities if the Nation is to mobilize the capacity of the private sector, including nonprofit community housing development organizations, to provide a more adequate supply of decent, safe, and sanitary housing that is affordable to very low-income, low-income, and moderate-income families and meets the need for large family units and other additional units that are available to very low-income families receiving rental assistance payments from Federal, State, and local governments; and
+&emsp;(12) additional financial resources and technical skills must be made available in local communities if the Nation is to mobilize thecapacity of the private sector, including nonprofit community housing development organizations, to provide a more adequate supply of decent, safe, and sanitary housing that is affordable to very low-income, low-income, and moderate-income families and meets the need for large family units and other additional units that are available to very low-income families receiving rental assistance payments from Federal, State, and local governments; and
 
 &emsp;(13) the long-term success of efforts to provide more affordable housing depends upon tenants and homeowners being fiscally responsible and able managers.
 

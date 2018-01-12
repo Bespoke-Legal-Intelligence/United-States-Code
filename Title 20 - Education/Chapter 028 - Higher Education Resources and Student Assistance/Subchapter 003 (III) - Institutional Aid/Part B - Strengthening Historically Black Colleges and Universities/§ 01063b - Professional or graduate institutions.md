@@ -130,7 +130,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(2) any amount in excess of $56,900,000, but not in excess of $62,900,000, shall be available for the purpose of making grants to institutions or programs described in subparagraphs (S) through (X) of subsection (e)(1); and
 
-&emsp;(3) any amount in excess of $62,900,000, shall be made available to each of the institutionsor programs identified in subparagraphs (A) through (X) <sup>1</sup> pursuant to a formula developed by the Secretary that uses the following elements:
+&emsp;(3) any amount in excess of $62,900,000, shall be made available to each of the institutions or programs identified in subparagraphs (A) through (X) <sup>1</sup> pursuant to a formula developed by the Secretary that uses the following elements:
 
 &emsp;&emsp;(A) The ability of the institution to match Federal funds with non-Federal funds.
 

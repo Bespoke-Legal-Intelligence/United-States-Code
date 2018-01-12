@@ -56,7 +56,7 @@ Basis adjustments not applicable.—To the extent paragraph (1) applies to any i
 
 &emsp;"(4)
 
-Recognition of gain.—For purposes of paragraph (1), if the foreign corporation referred to in subsection (a) transfers any property acquired by such foreign corporation in the transaction referred to in subsection (a) (or transfers any other property the basis of which is determined in whole or in part by reference to the basis of property so acquired) and\(but for this paragraph) there is not full recognition of gain on such transfer, the excess (if any) of—
+Recognition of gain.—For purposes of paragraph (1), if the foreign corporation referred to in subsection (a) transfers any property acquired by such foreign corporation in the transaction referred to in subsection (a) (or transfers any other property the basis of which is determined in whole or in part by reference to the basis of property so acquired) and (but for this paragraph) there is not full recognition of gain on such transfer, the excess (if any) of—
 
 &emsp;&emsp;"(A) the fair market value of the property transferred, over
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
 
-> &emsp;&emsp;No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under clause (i) or (ii) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited.
+> &emsp;&emsp;No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under clause (i) or (ii) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (asprovided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited.
 
 #### (C) Provision of information to save system
 
@@ -112,11 +112,11 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (2) Income requirement case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -176,7 +176,7 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 &emsp;(B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
+(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13,2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
 
 #### References in Text
 
@@ -222,7 +222,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Fees Relating to Affidavits of Support
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, as amended by Pub. L. 107–228, div. A, title II, §211(b), Sept. 30, 2002, 116 Stat. 1365, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, as amended by Pub. L. 107–228, div. A, title II, §211(b), Sept. 30, 2002, 116 Stat. 1365; Pub. L. 115–31, div. J, title VII, §7081(e), May 5, 2017, 131 Stat. 716, provided that:
 
 "(a)
 
@@ -234,7 +234,7 @@ Limitation.—Any fee established under subsection (a) shall be charged only onc
 
 "(c)
 
-Treatment of Fees.—Fees collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing consular services. Such fees shall remain available for obligation until expended."
+Treatment of Fees.—Fees collected under the authority of subsection (a) shall be deposited in the Consular and Border Security Programs account to recover the cost of providing consular services. Such fees shall remain available for obligation until expended."
 
 #### Pilot Programs To Require Bonding
 
@@ -242,7 +242,7 @@ Pub. L. 104–208, div. C, title V, §564, Sept. 30, 1996, 110 Stat. 3009–683,
 
 #### Benefits Not Subject to Reimbursement
 
-Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: "Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: "Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;"(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 

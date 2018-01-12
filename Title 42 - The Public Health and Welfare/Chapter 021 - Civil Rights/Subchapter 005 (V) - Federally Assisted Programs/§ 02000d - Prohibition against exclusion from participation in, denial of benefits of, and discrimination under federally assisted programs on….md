@@ -50,7 +50,7 @@ Sec. 2. <i>Definitions.</i>
 
 Sec. 3. <i>Exemption from coverage.</i>
 
-3–301. This order does not apply to members of the armed forces, military education or training programs, or authorized intelligence activities. Members of the armed forces, including students at military academies, will continue to be covered by regulations that currently bar specified forms of discrimination that are now enforced by the Department of Defense and the individual service branches. The Department of Defense shall develop procedures to protect the rights of and to provide redress to civilians not otherwise protected by existing Federal law from discrimination on the basis of race, sex, color, national origin, disability, religion, age, sexual orientation, or status as a parent and who participate in military education or training programs or activities conducted by the Department of Defense.
+3–301. This order does not apply to members of the armed forces, military education or training programs, or authorized intelligence activities. Members of the armed forces, including students at military academies, will continue to be covered by regulations that currently bar specified forms of discrimination that are now enforced by the Department of Defense and the individual service branches. The Department of Defenseshall develop procedures to protect the rights of and to provide redress to civilians not otherwise protected by existing Federal law from discrimination on the basis of race, sex, color, national origin, disability, religion, age, sexual orientation, or status as a parent and who participate in military education or training programs or activities conducted by the Department of Defense.
 
 3–302. This order does not apply to, affect, interfere with, or modify the operation of any otherwise lawful affirmative action plan or program.
 
@@ -70,7 +70,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
-4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including theCivil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
+4–403. Any action to discipline an employee who violates this order or its implementing rules, regulations, policies, or guidance, including removal from employment, where appropriate, shall be taken in compliance with otherwise applicable procedures, including the Civil Service Reform Act of 1978, Public Law No. 95–454, 92 Stat. 1111 \[see Tables for classification\].
 
 Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 

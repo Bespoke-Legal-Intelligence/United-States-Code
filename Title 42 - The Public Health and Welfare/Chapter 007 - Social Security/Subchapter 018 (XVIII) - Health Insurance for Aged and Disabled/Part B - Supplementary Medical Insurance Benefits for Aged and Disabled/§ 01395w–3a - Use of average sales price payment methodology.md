@@ -264,7 +264,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the term "widely available market price" means the price that a prudent physician or supplier would pay for the drug or biological. In determining suchprice, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
+&emsp;&emsp;In this subsection, the term "widely available market price" means the price that a prudent physician or supplier would pay for the drug or biological. In determining such price, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
 
 #### (B) Considerations
 
@@ -312,7 +312,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8,2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439.)
 
 #### Amendments
 

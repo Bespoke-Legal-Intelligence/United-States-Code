@@ -44,7 +44,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (8) Non-audit services
 
-&emsp;The term "non-audit services" means any professional services provided to an issuer by a registered public accounting firm, other than those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
+&emsp;The term "non-audit services" means any professional services provided to an issuer by a registered public accounting firm, otherthan those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
 
 #### (9) Person associated with a public accounting firm
 
@@ -118,7 +118,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (17) Foreign auditor oversight authority
 
-&emsp;The term "foreign auditor oversight authority" means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
+&emsp;The term "foreign auditor oversight authority" means any governmental body or otherentity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
 
 (Pub. L. 107–204, §2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
 
@@ -148,5 +148,5 @@ Pub. L. 107–204, §1(a), July 30, 2002, 116 Stat. 745, provided that: "This Ac
 
 #### GAO Study and Report Regarding Consolidation of Public Accounting Firms
 
-Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultationwith the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 

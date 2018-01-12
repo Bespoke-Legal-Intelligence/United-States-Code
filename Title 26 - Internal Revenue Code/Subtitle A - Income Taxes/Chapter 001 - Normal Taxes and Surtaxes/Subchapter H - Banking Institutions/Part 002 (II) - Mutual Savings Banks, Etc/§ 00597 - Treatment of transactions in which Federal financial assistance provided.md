@@ -26,7 +26,7 @@ The treatment for purposes of this chapter of any transaction in which Federal f
 
 For purposes of this section, the term "Federal financial assistance" means—
 
-&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of theFederal Home Loan Bank Act (or under any other similar provision of law), and
+&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of the Federal Home Loan Bank Act (or under any other similar provision of law), and
 
 &emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit Insurance Act (or under any other similar provision of law),
 
@@ -108,7 +108,7 @@ Pub. L. 100–647, title IV, §4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as ame
 
 &emsp;"(B) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after December 31, 1988, and before January 1, 1990.
 
-> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendmentmade by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
+> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
 
 #### Effective Date of Repeal
 

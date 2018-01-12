@@ -48,15 +48,13 @@ Term of Contract.—A contract under this section may be for any period not in e
 
 (f)
 
-Notice and Wait Requirements.—A contract may not be entered into under this section until—
+Notice and Wait Requirements.—The Secretary concerned may enter into a contractunder this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed contract, including an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility.
 
-&emsp;(1) the Secretary concerned submits to the appropriate committees of Congress, in writing, a justification of the need for the facility for which the contract is to be awarded and an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility; and
-
-&emsp;(2) a period of 21 days has expired following the date on which the justification and the economic analysis are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title.
-
-(Added Pub. L. 99–167, title VIII, §811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(20), div. B, title VII, §2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, §2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, §2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, §2805(a)(1), Dec. 5, 1991, 105 Stat. 1537; Pub. L. 108–136, div. A, title X, §1031(a)(38), Nov. 24, 2003, 117 Stat. 1601.)
+(Added Pub. L. 99–167, title VIII, §811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(20), div. B, title VII, §2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, §2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, §2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, §2805(a)(1), Dec. 5, 1991, 105 Stat. 1537; Pub. L. 108–136, div. A, title X, §1031(a)(38), Nov. 24, 2003, 117 Stat. 1601; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(7), Dec. 12, 2017, 131 Stat. 1841.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f). Pub. L. 115–91 added subsec. (f) and struck out former subsec. (f) which related to written or electronic notice and wait requirements for a contract.
 
 <b>2003</b>—Subsec. (f)(2). Pub. L. 108–136 struck out "calendar" after "21" and inserted before period at end "or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title".
 
@@ -128,7 +126,7 @@ Expiration.—The authority under subsection (a) to include requirements referre
 
 "(f)
 
-Funding.—Amounts authorized to be appropriated for the military departments or defense-wide for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year."
+Funding.—Amounts authorized to be appropriated for the military departments or defense-widefor a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year."
 
 \[Pub. L. 107–314, div. B, title XXVIII, §2813(d)(2), Dec. 2, 2002, 116 Stat. 2710, provided that: "The amendment made by paragraph (1) \[amending section 2814(f) of Pub. L. 107–107, set out above\] shall not affect the availability for the purpose of the demonstration program under section 2814 of the Military Construction Authorization Act for Fiscal Year 2002, as amended by this section, of any amounts authorized to be appropriated before the date of the enactment of this Act \[Dec. 2, 2002\] for the Army for military construction that have been obligated for the demonstration program, but not expended, as of that date."\]
 

@@ -22,7 +22,7 @@ As soon as practicable after December 3, 2003, the Secretary shall implement aut
 
 #### (b) Relation to agency plans
 
-An authorized hazardous fuel reduction project shall be conducted consistent with the resource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
+An authorized hazardous fuel reduction project shall be conducted consistent with theresource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
 
 #### (c) Acreage limitation
 
@@ -82,7 +82,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (A) In general
 
-&emsp;&emsp;If the management direction for an old growth stand was established before December 15, 1993, the Secretary shall meet the requirements of paragraph (2) in carrying outa covered project during the applicable period by implementing the management direction.
+&emsp;&emsp;If the management direction for an old growth stand was established before December 15, 1993, the Secretary shall meet the requirements of paragraph (2) in carrying out a covered project during the applicable period by implementing the management direction.
 
 #### (B) Review required
 
@@ -170,7 +170,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (6) Collection of monitoring data
 
-&emsp;The Secretary may collect monitoring data by entering into cooperative agreements or contracts with, or providing grants to, smallor micro-businesses, cooperatives, nonprofit organizations, Youth Conservation Corps work crews, or related State, local, and other non-Federal conservation corps.
+&emsp;The Secretary may collect monitoring data by entering into cooperative agreements or contracts with, or providing grants to, small or micro-businesses, cooperatives, nonprofit organizations, Youth Conservation Corps work crews, or related State, local, and other non-Federal conservation corps.
 
 #### (7) Tracking
 

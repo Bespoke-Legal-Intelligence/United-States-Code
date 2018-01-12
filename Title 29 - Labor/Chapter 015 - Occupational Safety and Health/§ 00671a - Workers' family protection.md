@@ -68,7 +68,7 @@ This section may be cited as the "Workers' Family Protection Act".
 
 &emsp;&emsp;&emsp;(iv) identify the role of Federal and State agencies in responding to incidents of home contamination;
 
-&emsp;&emsp;&emsp;(v) prepare and submit to the Task Force established under paragraph (2) and to the appropriate committees of Congress, a report concerning the results of the matters studied or evaluated under clauses (i) through (iv); and
+&emsp;&emsp;&emsp;(v) prepare and submit to the Task Force established under paragraph (2) and to the appropriate committees of Congress, a report concerning the results of the mattersstudied or evaluated under clauses (i) through (iv); and
 
 &emsp;&emsp;&emsp;(vi) study home contamination incidents and issues and worker and family protection policies and practices related to the special circumstances of firefighters and prepare and submit to the appropriate committees of Congress a report concerning the findings with respect to such study.
 

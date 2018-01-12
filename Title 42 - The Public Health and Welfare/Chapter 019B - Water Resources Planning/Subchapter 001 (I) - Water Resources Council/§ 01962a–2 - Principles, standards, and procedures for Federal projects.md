@@ -6,7 +6,7 @@ The Council shall establish, after such consultation with other interested entit
 
 #### (b) Economic evaluation; primary criterion
 
-The Council shall develop standards and criteria for economic evaluation of water resource projects. For the purpose of those standards and criteria, the primary direct navigation benefits of a water resource project are defined as the product of the savings to shippers using the waterway and the estimated traffic that would use the waterway. "Savings to shippers" means the difference between (1) the freight rates or charges prevailing at the time of the study for the movement by the alternative means, and (2) those which would be charged on the proposed waterway. Estimated traffic that would use the waterway will be based on those freight rates, taking into account projections of the economic growth of the area.
+The Council shall develop standards and criteria for economic evaluation of water resource projects. For the purpose of those standards and criteria, the primary direct navigation benefits of a water resource project are defined as the product of the savings to shippers using the waterway and the estimated traffic that would use the waterway. "Savings to shippers" means the difference between (1) the freight rates or charges prevailing at the time of the study for the movement by the alternative means, and (2) those which would be charged on the proposed waterway. Estimated traffic that would use thewaterway will be based on those freight rates, taking into account projections of the economic growth of the area.
 
 (Pub. L. 89–80, title I, §103, July 22, 1965, 79 Stat. 245; Pub. L. 97–449, §4(a), Jan. 12, 1983, 96 Stat. 2441.)
 

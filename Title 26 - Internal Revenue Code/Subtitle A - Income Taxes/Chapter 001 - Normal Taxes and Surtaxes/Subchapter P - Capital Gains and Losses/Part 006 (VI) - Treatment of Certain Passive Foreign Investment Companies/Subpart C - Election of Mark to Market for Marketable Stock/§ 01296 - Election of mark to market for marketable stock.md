@@ -106,7 +106,7 @@ Except as provided in regulations—
 
 #### (2) Treatment of certain dispositions
 
-&emsp;In any case in which a United States person is treated as owning stock in a passive foreigninvestment company by reason of paragraph (1)—
+&emsp;In any case in which a United States person is treated as owning stock in a passive foreign investment company by reason of paragraph (1)—
 
 &emsp;&emsp;(A) any disposition by the United States person or by any other person which results in the United States person being treated as no longer owning such stock, and
 
@@ -148,7 +148,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 &emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
 
-> &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
+> &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected tomark to market the stock held by such company as of the last day of such preceding taxable year.
 
 #### (B) Disallowance of deduction
 
@@ -178,7 +178,7 @@ A prior section 1296 was renumbered section 1297 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (i). Pub. L. 111–312 amended subsec. (i) to read as if amendment by Pub. L. 107–16, §542(e)(5)(C),had never been enacted. See 2001 Amendment note below.
+<b>2010</b>—Subsec. (i). Pub. L. 111–312 amended subsec. (i) to read as if amendment by Pub. L. 107–16, §542(e)(5)(C), had never been enacted. See 2001 Amendment note below.
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–311 substituted "section 851(b)(2)" for "paragraphs (2) and (3) of section 851(b)".
 

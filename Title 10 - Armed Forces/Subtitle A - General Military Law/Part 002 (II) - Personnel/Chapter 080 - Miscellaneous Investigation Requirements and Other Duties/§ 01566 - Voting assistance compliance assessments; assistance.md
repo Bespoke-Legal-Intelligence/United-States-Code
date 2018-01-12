@@ -42,7 +42,7 @@ Voting Assistance Officers.—(1) Voting assistance officers shall be appointed 
 
 (g)
 
-Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the fourmonths preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
+Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseaslocations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
 
 (2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held.
 
@@ -90,7 +90,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(3) of thi
 
 #### Initial Report
 
-Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report undersubsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
+Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

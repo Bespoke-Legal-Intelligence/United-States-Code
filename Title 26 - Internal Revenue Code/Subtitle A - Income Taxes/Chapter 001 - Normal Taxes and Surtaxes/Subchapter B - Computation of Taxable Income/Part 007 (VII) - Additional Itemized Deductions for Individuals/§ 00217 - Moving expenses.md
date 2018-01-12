@@ -128,7 +128,11 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; amended Pub. L. 91–172, title II, §231(a), Dec. 30, 1969, 83 Stat. 577; Pub. L. 94–455, title V, §506 (a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1568, 1834; Pub. L. 95–615, title II, §204, Nov. 8, 1978, 92 Stat. 3106; Pub. L. 103–66, title XIII, §13213(a)(1)–(2)(D), (b), Aug. 10, 1993, 107 Stat. 473, 474.)
+#### (k) Suspension of deduction for taxable years 2018 through 2025
+
+Except in the case of an individual to whom subsection (g) applies, this section shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
+
+(Added Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; amended Pub. L. 91–172, title II, §231(a), Dec. 30, 1969, 83 Stat. 577; Pub. L. 94–455, title V, §506 (a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1568, 1834; Pub. L. 95–615, title II, §204, Nov. 8, 1978, 92 Stat. 3106; Pub. L.103–66, title XIII, §13213(a)(1)–(2)(D), (b), Aug. 10, 1993, 107 Stat. 473, 474; Pub. L. 115–97, title I, §11049(a), Dec. 22, 2017, 131 Stat. 2088.)
 
 #### Prior Provisions
 
@@ -136,7 +140,9 @@ A prior section 217 was renumbered section 224 of this title.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and\(B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term "moving expenses", par. (2) which defined "qualified residence sale, purchase, or lease expenses", and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
+Subsec. (k). Pub. L. 115–97 added subsec. (k).
+
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term "moving expenses", par. (2) which defined "qualified residence sale, purchase, or lease expenses", and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
 
 Subsec. (c)(1). Pub. L. 103–66, §13213(b), substituted "50 miles" for "35 miles" in subpars. (A) and (B).
 
@@ -180,6 +186,10 @@ Subsecs. (g), (h). Pub. L. 94–455, §§506(c), 1906(b)(13)(A), added subsec. (
 
 <b>1969</b>—Pub. L. 91–172 substantially reenacted existing provisions and extended the coverage to self-employed persons working at the new location for 78 weeks, made it a requirement that the new principal place of work be located 50 miles from the former residence, and redefined the deduction to include costs of house-hunting trips, temporary living expenses prior to locating a new home, and expenses of selling an old home or buying a new one.
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11049(b), Dec. 22, 2017, 131 Stat. 2089, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 1993, see section 13213(e) of Pub. L. 103–66 set out as a note under section 62 of this title.
@@ -212,5 +222,5 @@ Pub. L. 93–490, §2, Oct. 26, 1974, 88 Stat. 1466, authorized the Secretary of
 
 &emsp;(2) permit any taxpayer who was a member of the armed forces not to include in adjusted gross income the amount of any reimbursement in kind of moving expenses made by the Secretary concerned; and
 
-&emsp;(3) permit any taxpayer who was a member of the armed forces to deduct any amount paid by him as moving expenses in connection with any move required by the Secretary concerned, in excess of any reimbursement received for such expenses, withoutregard to the provisions of subsec. (c) of this section, to the extent it was otherwise deductible under this section.
+&emsp;(3) permit any taxpayer who was a member of the armed forces to deduct any amount paid by him as moving expenses in connection with any move required by the Secretary concerned, in excess of any reimbursement received for such expenses, without regard to the provisions of subsec. (c) of this section, to the extent it was otherwise deductible under this section.
 

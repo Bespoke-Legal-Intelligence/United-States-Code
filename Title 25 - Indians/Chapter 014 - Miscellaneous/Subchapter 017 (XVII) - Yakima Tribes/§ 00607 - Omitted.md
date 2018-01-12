@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Aug. 9, 1946, ch. 933, §7, 60 Stat. 969; Pub. L. 91–627, §1, Dec. 31, 1970, 84 Stat. 1874, which relatedto divestment of inheritance of non-members, was omitted from the Code as being of special and not general application.
+Section, act Aug. 9, 1946, ch. 933, §7, 60 Stat. 969; Pub. L. 91–627, §1, Dec. 31, 1970, 84 Stat. 1874, which related to divestment of inheritance of non-members, was omitted from the Code as being of special and not general application.
 

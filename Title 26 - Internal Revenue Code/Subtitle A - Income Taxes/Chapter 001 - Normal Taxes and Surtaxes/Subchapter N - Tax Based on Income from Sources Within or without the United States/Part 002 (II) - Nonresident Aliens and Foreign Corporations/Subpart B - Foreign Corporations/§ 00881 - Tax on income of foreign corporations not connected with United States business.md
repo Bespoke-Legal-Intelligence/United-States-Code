@@ -44,7 +44,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (B) Applicability
 
-&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
+&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of theCommonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
 
 #### (3) Definitions
 

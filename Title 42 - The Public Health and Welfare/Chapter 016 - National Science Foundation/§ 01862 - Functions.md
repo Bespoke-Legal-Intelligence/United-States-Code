@@ -34,7 +34,7 @@ The Board and the Director shall recommend and encourage the pursuit of national
 
 #### (e) Balancing of research and educational activities in the sciences and engineering
 
-In exercising the authority and discharging the functions referred to in the foregoing subsections, it shall be an objective of the Foundation to strengthen research and education in thesciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education.
+In exercising the authority and discharging the functions referred to in the foregoing subsections, it shall be an objective of the Foundation to strengthen research and education in the sciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education.
 
 #### (f) Annual report to the President and Congress
 
@@ -148,7 +148,7 @@ Issues to be examined.—In conducting the review, the Director shall examine, a
 
 &emsp;&emsp;"(B) Efforts by the Foundation to track its progress in addressing the issues and recommendations under subparagraph (A).
 
-&emsp;&emsp;"(C) Efforts by the Foundation to address other opportunities and challenges, including efforts on scientific research, coordination with other Federal agencies and international partners, logistics and transportation, health and safety of participants, oversight and financial management of awardees and contractors, and resources and policy challenges.
+&emsp;&emsp;"(C) Efforts by the Foundation to address other opportunities and challenges, including efforts on scientific research, coordination with other Federal agencies and international partners, logistics and transportation, health and safety of participants, oversight and financial management of awardeesand contractors, and resources and policy challenges.
 
 "(b)
 
@@ -226,7 +226,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 "(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
+"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with areview panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 

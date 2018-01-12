@@ -44,7 +44,7 @@ In this section:
 
 #### (A) Establishment
 
-&emsp;&emsp;There is established in the Treasury of the United States a fund, to be known as the "High-Hazard Indian Dam Safety Deferred Maintenance Fund", consisting of—
+&emsp;&emsp;There is established in the Treasury of the United States a fund, to be known as the"High-Hazard Indian Dam Safety Deferred Maintenance Fund", consisting of—
 
 &emsp;&emsp;&emsp;(i) such amounts as are deposited in the Fund under subparagraph (B); and
 
@@ -78,7 +78,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Fund as is not, inthe judgment of the Secretary, required to meet current withdrawals.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary, required to meet current withdrawals.
 
 #### (ii) Credits to Fund
 
@@ -188,7 +188,7 @@ In this section:
 
 #### (C) Compliance with dam safety policies
 
-&emsp;&emsp;Maintenance, repair, and replacement activities for Indian dams under this sectionshall be carried out in accordance with the dam safety policies of the Director of the Bureau of Indian Affairs established to carry out the Indian Dams Safety Act of 1994 (25 U.S.C. 3801 et seq.).
+&emsp;&emsp;Maintenance, repair, and replacement activities for Indian dams under this section shall be carried out in accordance with the dam safety policies of the Director of the Bureau of Indian Affairs established to carry out the Indian Dams Safety Act of 1994 (25 U.S.C. 3801 et seq.).
 
 #### (2) Eligible dams
 
@@ -434,7 +434,7 @@ In this section:
 
 #### (B) Travel expenses
 
-&emsp;&emsp;The members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
+&emsp;&emsp;The members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from theirhomes or regular places of business in the performance of services for the Committee.
 
 #### (C) Staff
 

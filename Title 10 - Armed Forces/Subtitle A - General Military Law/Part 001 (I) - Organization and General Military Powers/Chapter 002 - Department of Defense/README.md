@@ -49,7 +49,7 @@ Pub. L. 113–291, div. A, title X, §1072(a)(2), Dec. 19, 2014, 128 Stat. 3516,
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1402(a)(3)(B), Nov. 5, 1990, 104 Stat. 1674, which directed amendment of item 114a by substituting "Multiyear" for "Five-year", was executed by substituting "Multiyear" for "Five-Year" as the probable intent of Congress.
 
-Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 5, 1990, 104 Stat. 1673, 1715, substituted "Personnel strengths: requirement for annual authorization" for "Annual authorization of personnel strengths; annual manpower requirements report" in item 115, added items 115a and 115b, and struck out items 117 "Annual report on North Atlantic Treaty Organization readiness" and 118 "Sale or transfer of defense articles: reports to Congress".
+Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 5, 1990, 104 Stat. 1673, 1715, substituted"Personnel strengths: requirement for annual authorization" for "Annual authorization of personnel strengths; annual manpower requirements report" in item 115, added items 115a and 115b, and struck out items 117 "Annual report on North Atlantic Treaty Organization readiness" and 118 "Sale or transfer of defense articles: reports to Congress".
 
 <b>1989</b>—Pub. L. 101–189, div. A, title XVI, §1602(a)(2), Nov. 29, 1989, 103 Stat. 1597, added item 114a.
 

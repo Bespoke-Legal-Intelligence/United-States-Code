@@ -18,7 +18,7 @@ For purposes of this section:
 
 #### (b) Number of reductions required
 
-The Secretary shall achieve Federal employee reductions of at least 7,500 staff years within theDepartment by the end of fiscal year 1999. Reductions in the number of full-time equivalent positions within the Department achieved under section 5 of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 115; 5 U.S.C. 3101 note) shall be counted toward the employee reductions required under this section.
+The Secretary shall achieve Federal employee reductions of at least 7,500 staff years within the Department by the end of fiscal year 1999. Reductions in the number of full-time equivalent positions within the Department achieved under section 5 of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 115; 5 U.S.C. 3101 note) shall be counted toward the employee reductions required under this section.
 
 #### (c) Emphasis on headquarters offices reductions
 

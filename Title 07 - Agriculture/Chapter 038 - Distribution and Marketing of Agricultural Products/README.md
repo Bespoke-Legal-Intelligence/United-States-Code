@@ -25,6 +25,7 @@
 | [1632a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632a%20-%20Value-added%20agricultural%20product%20market%20development%20grants.md) | Value-added agricultural product market development grants. |
 | [1632b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632b%20-%20Agriculture%20Innovation%20Center%20Demonstration%20Program.md) | Agriculture Innovation Center Demonstration Program. |
 | [1632c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632c%20-%20Acer%20access%20and%20development%20program.md) | Acer access and development program. |
+| [1633\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001633%20-%20Cooperation%20with%20State%20agencies%20in%20administration%20and%20enforcement%20of%20laws%20relating%20to%20marketing%20of%20agricultural%20products%20and%20control%20or%E2%80%A6.md) | Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

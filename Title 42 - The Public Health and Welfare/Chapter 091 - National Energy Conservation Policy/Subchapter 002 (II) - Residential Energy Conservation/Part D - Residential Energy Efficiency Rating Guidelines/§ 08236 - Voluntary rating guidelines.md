@@ -6,7 +6,7 @@ Not later than 18 months after October 24, 1992, the Secretary, in consultation 
 
 #### (b) Contents of guidelines
 
-The voluntary guidelines issued under subsection (a) of this section shall—
+The voluntary guidelines issued under subsection (a) shall—
 
 &emsp;(1) encourage uniformity with regard to systems for rating the annual energy efficiency of residential buildings;
 
@@ -32,7 +32,7 @@ The voluntary guidelines issued under subsection (a) of this section shall—
 
 #### References in Text
 
-Section 946 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(3), is section946 of Pub. L. 101–625, which is set out as a note under section 12712 of this title.
+Section 946 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(3), is section 946 of Pub. L. 101–625, which is set out as a note under section 12712 of this title.
 
 Sections 105 and 106 of the Energy Policy Act of 1992, referred to in subsec. (b)(3), are sections 105 and 106 of Pub. L. 102–486. Section 105 amended section 12704 of this title and provisions set out as a note under section 12712 of this title. Section 106 is classified to section 1701z–16 of Title 12, Banks and Banking.
 

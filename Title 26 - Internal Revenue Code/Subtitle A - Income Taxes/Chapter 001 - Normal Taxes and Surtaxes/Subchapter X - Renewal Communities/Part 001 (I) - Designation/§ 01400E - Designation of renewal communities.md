@@ -134,7 +134,7 @@
 
 &emsp;&emsp;(A) the area is one of pervasive poverty, unemployment, and general distress,
 
-&emsp;&emsp;(B) the unemployment rate in the area, as determined by the most recent available data, was at least 1½ times the national unemployment rate for the period to which such data relate,
+&emsp;&emsp;(B) the unemployment rate in the area, as determined by the most recent availabledata, was at least 1½ times the national unemployment rate for the period to which such data relate,
 
 &emsp;&emsp;(C) the poverty rate for each population census tract within the nominated area is at least 20 percent, and
 
@@ -182,7 +182,7 @@
 
 #### (B) Recognition of past efforts
 
-&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the variousburdens borne by employers and employees in the area involved.
+&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
 
 #### (3) Economic growth promotion requirements
 
@@ -304,7 +304,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, 11
 
 #### "SEC. 153. DUTIES OF ADVISORY COUNCIL.
 
-"The Advisory Council shall advise the Secretary of Housing and Urban Development (in this part referred to as the 'Secretary') on the designation of renewal communities pursuant to the amendment made by section 101 \[adding this subchapter and amending section 469 of this title\] and on the exercise of any other authority granted to the Secretary pursuant to the amendments made by this title \[see Tables for classification\].
+"The Advisory Council shall advise the Secretary of Housing and Urban Development (in this part referredto as the 'Secretary') on the designation of renewal communities pursuant to the amendment made by section 101 \[adding this subchapter and amending section 469 of this title\] and on the exercise of any other authority granted to the Secretary pursuant to the amendments made by this title \[see Tables for classification\].
 
 #### "SEC. 154. MEMBERSHIP.
 

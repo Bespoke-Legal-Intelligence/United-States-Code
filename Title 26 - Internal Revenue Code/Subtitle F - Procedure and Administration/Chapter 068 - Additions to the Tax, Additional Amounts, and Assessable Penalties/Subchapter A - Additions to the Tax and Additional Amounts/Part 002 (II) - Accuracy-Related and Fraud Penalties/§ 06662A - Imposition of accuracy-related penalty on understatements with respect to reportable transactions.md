@@ -56,7 +56,7 @@ For purposes of this section, the terms "reportable transaction" and "listed tra
 
 #### (B) Coordination with certain increased underpayment penalties
 
-&emsp;&emsp;This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under subsections (h) or (i) of section 6662.
+&emsp;&emsp;This section shall not apply to any portion of an understatement on which a penalty isimposed under section 6662 if the rate of the penalty is determined under subsections (h) or (i) of section 6662.
 
 #### (3) Special rule for amended returns
 

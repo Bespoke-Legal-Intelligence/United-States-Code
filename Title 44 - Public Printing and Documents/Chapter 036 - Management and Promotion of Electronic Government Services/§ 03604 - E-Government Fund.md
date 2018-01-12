@@ -78,7 +78,7 @@
 
 (d) The Fund may be used to fund the integrated Internet-based system under section 204 of the E-Government Act of 2002.
 
-(e) None of the funds provided from the Fund may be transferred to any agency until 15 days after the Administrator of the General Services Administration has submitted to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the appropriate authorizing committees of the Senate and the House of Representatives, a notification and description of how the funds are to be allocated and how the expenditure will further the purposes of this chapter.
+(e) None of the funds provided from the Fund may be transferred to any agency until 15 days after the Administrator of the General Services Administration has submitted to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the appropriate authorizing committees of the Senate and the House ofRepresentatives, a notification and description of how the funds are to be allocated and how the expenditure will further the purposes of this chapter.
 
 (f)(1) The Director shall report annually to Congress on the operation of the Fund, through the report established under section 3606.
 
@@ -113,4 +113,8 @@ Section 204 of the E-Government Act of 2002, referred to in subsec. (d), is sect
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date
+
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of this title.
 

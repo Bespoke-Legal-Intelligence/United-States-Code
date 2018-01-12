@@ -90,7 +90,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) nutritional counseling and educational services for individuals and their primary caregivers;
 
-&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to theprevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
+&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
 
 &emsp;&emsp;(E) programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
 
@@ -326,7 +326,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) results in substantial functional limitation in 3 or more of the major life activities specified in subparagraphs (A) through (G) of paragraph (8).<sup>4</sup>
 
-&emsp;(49) The term "sexual assault" has the meaning given the term in section 3796gg–2 of this title.<sup>1</sup>
+&emsp;(49) The term "sexual assault" has the meaning given the term in section 10447 of title 34.<sup>1</sup>
 
 &emsp;(50) The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -352,7 +352,7 @@ The Family Violence Prevention and Services Act, referred to in par. (19), is ti
 
 The Alaska Native Claims Settlement Act, referred to in par. (27), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 3796gg–2 of this title, referred to in par. (49), was subsequently amended and no longer defines "sexual assault". However, it now refers to definitions in section 13925 of this title, which defines "sexual assault" in subsec. (a).
+Section 10447 of title 34, referred to in par. (49), was subsequently amended and no longer defines "sexual assault". However, it now refers to definitions in section 12291 of Title 34, Crime Control and Law Enforcement, which defines "sexual assault" in subsec. (a).
 
 #### Amendments
 

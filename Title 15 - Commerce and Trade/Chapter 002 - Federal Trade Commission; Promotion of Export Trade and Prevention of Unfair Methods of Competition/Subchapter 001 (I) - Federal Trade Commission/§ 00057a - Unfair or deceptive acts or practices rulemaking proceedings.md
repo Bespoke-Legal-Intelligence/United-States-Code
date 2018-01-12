@@ -6,9 +6,9 @@
 
 &emsp;(A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
-&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
+&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulationwith regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
 
-(2) The Commission shall have no authority under this subchapter, other than its authorityunder this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
+(2) The Commission shall have no authority under this subchapter, other than its authority under this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
 
 #### (b) Procedures applicable
 
@@ -70,7 +70,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (B) For purposes of this section, the term "rulemaking record" means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5), any written submissions, and any other information which the Commission considers relevant to such rule.
 
-(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
+(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of <sup>1</sup> purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
 (3) Upon the filing of the petition under paragraph (1) of this subsection, the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. The court shall hold unlawful and set aside the rule on any ground specified in subparagraphs (A), (B), (C), or (D) of section 706(2) of title 5 (taking due account of the rule of prejudicial error), or if—
 
@@ -86,7 +86,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 > The term "evidence", as used in this paragraph, means any matter in the rulemaking record.
 
-(4) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+(4) The judgment of the court affirming or setting aside, in whole or in part, any such ruleshall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 (5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
 
@@ -112,13 +112,13 @@ Definition.—For purposes of this subchapter, the term "bank" means—
 
 (4) For purposes of this subchapter, the term "Federal credit union" has the same meaning as in sections 1766 and 1786 of title 12.
 
-> The terms used in this paragraph <sup>1</sup> that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
+> The terms used in this paragraph <sup>2</sup> that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
 
 #### (g) Exemptions and stays from application of rules; procedures
 
 (1) Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or <sup>2</sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
+(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or <sup>3</sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
 (3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B).
 
@@ -140,7 +140,7 @@ The Commission shall not have any authority to promulgate any rule in the childr
 
 Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193;amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, §1092, July 21, 2010, 124 Stat. 2094.)
+(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, §1092, July 21, 2010, 124 Stat. 2094.)
 
 #### References in Text
 
@@ -198,7 +198,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development andutilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted "the text of the rule, including any alternatives, which the Commission proposes to promulgate, and" after "particularity", and added par. (2).
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Restriction on Use of Funds for Purpose of Initiating New Rulemaking Proceeding
 
-Section 11(b) of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L.97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
+Section 11(b) of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
 
 #### Restriction on Use of Funds Respecting Regulation of Funeral Industry; Exception
 
@@ -284,7 +284,9 @@ Pub. L. 93–637, title II, §202(c), Jan. 4, 1975, 88 Stat. 2198, provided that
 
 Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "of".</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "of".</i>
 

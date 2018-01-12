@@ -1,0 +1,6 @@
+### §16982. Transferred
+
+#### Codification
+
+Section 16982 was editorially reclassified as section 20982 of Title 34, Crime Control and Law Enforcement.
+

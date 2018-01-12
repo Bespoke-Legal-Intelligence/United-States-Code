@@ -12,7 +12,7 @@
 
 &emsp;(5) provide a method to assure consistency in the application of job standards.
 
-(b) The Office, from time to time, shall review such numbers of positions in each agency as will enable the Office to determine whether the agency is placing positions in occupations and grades in conformance with or consistently with published job standards. When the Office finds that a position is not placed in its proper occupation and grade in conformance with published standards or that a position for which there is no published standard is not placed in the occupation and grade consistently with published standards, it shall, after consultation with appropriate officials of the agency concerned, place the position in its appropriate occupation and grade and shall certify this action to the agency. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
+(b) The Office, from time to time, shall review such numbers of positions in each agency as will enable the Office to determine whether the agency is placing positions in occupations and grades in conformance with or consistently with published job standards. When the Office finds that a position is not placed in its proper occupation and grade in conformance with published standards or that a position for which there is no published standard is not placed in the occupation and grade consistently with published standards, it shall, after consultation with appropriate officials of the agency concerned,place the position in its appropriate occupation and grade and shall certify this action to the agency. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
 
 (c) On application, made in accordance with regulations prescribed by the Office, by a prevailing rate employee for the review of the action of an employing agency in placing his position in an occupation and grade for pay purposes, the Office shall—
 
@@ -32,7 +32,7 @@
 
 <b>1972</b>—Subsecs. (a), (b). Pub. L. 92–392 added subsecs. (a) and (b).
 
-Subsec. (c). Pub. L. 92–392 designated existing provisions as subsec. (c) and substituted in introductory text "Commission", "a prevailing rate of employee" and "in placing his position in an occupation and grade" for "Civil Service Commission", "an employee subject tosection 5341(a) of this title" and "in classifying his position", respectively, in par. (2) "placed in the proper occupation and grade" for "properly classified", in par. (3) "in placing the position in an occupation and grade" for "in classifying the position" and in last sentence "subsection" for "section".
+Subsec. (c). Pub. L. 92–392 designated existing provisions as subsec. (c) and substituted in introductory text "Commission", "a prevailing rate of employee" and "in placing his position in an occupation and grade" for "Civil Service Commission", "an employee subject to section 5341(a) of this title" and "in classifying his position", respectively, in par. (2) "placed in the proper occupation and grade" for "properly classified", in par. (3) "in placing the position in an occupation and grade" for "in classifying the position" and in last sentence "subsection" for "section".
 
 #### Effective Date of 1978 Amendment
 

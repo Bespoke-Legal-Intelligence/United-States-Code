@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the EPSCoR structure requires each participating State to develop a science and technology plan suited to State and local research, education, and economic interests and objectives;
 
-&emsp;(6) EPSCoR has been credited with advancing the research competitiveness of participating States, improving awareness of science, promoting policies that link scientific investment and economic growth, and encouraging partnerships between government, industry, and academia;
+&emsp;(6) EPSCoR has been credited with advancing the research competitiveness of participating States, improving awareness of science,promoting policies that link scientific investment and economic growth, and encouraging partnerships between government, industry, and academia;
 
 &emsp;(7) EPSCoR proposals are evaluated through a rigorous and competitive merit-review process to ensure that awarded research and development efforts meet high scientific standards; and
 
@@ -138,7 +138,7 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 114–329, §103(a)(1), substituted "the National" for "The National" and "such research and education" for "such research and education,".
 
-Subsec. (a)(2). Pub. L. 114–329, §103(a)(2), substituted "with 28 States and jurisdictions, taken together, receiving only about 12 percent of all National ScienceFoundation research funding;" for "with 27 States and 2 jurisdictions, taken together, receiving only about 10 percent of all NSF research funding; each of these States received only a fraction of one percent of Foundation's research dollars each year;".
+Subsec. (a)(2). Pub. L. 114–329, §103(a)(2), substituted "with 28 States and jurisdictions, taken together, receiving only about 12 percent of all National Science Foundation research funding;" for "with 27 States and 2 jurisdictions, taken together, receiving only about 10 percent of all NSF research funding; each of these States received only a fraction of one percent of Foundation's research dollars each year;".
 
 Subsec. (a)(3). Pub. L. 114–329, §103(a)(3), added par. (3) and struck out former par. (3) which read as follows: "the Nation requires the talent, expertise, and research capabilities of all States in order to prepare sufficient numbers of scientists and engineers, remain globally competitive and support economic development."
 

@@ -86,7 +86,7 @@ Legal Documents.—All orders (including delegations by the Secretary of Transpo
 
 &emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any other authorized official, a court of competent jurisdiction, or operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any otherauthorized official, a court of competent jurisdiction, or operation of law.
 
 "(c)
 
@@ -106,7 +106,7 @@ Suits by or against department.—Any suit by or against the Department begun be
 
 &emsp;"(3)
 
-Procedures for remanded cases.—If the court in a suit described in paragraph (1) remands a case,subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
+Procedures for remanded cases.—If the court in a suit described in paragraph (1) remands a case, subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
 "(e)
 

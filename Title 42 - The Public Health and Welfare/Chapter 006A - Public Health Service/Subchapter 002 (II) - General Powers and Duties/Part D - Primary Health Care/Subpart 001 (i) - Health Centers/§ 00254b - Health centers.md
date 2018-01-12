@@ -158,7 +158,7 @@ For purposes of this section:
 
 &emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section to enable the centers to plan and develop a managed care network or plan. Such a grant may only be made for such a center if—
 
-&emsp;&emsp;&emsp;(i) the center has received grants under subsection (e)(1)(A) for at least 2 consecutive years preceding the year of the grantunder this subparagraph or has otherwise demonstrated, as required by the Secretary, that such center has been providing primary care services for at least the 2 consecutive years immediately preceding such year; and
+&emsp;&emsp;&emsp;(i) the center has received grants under subsection (e)(1)(A) for at least 2 consecutive years preceding the year of the grant under this subparagraph or has otherwise demonstrated, as required by the Secretary, that such center has been providing primary care services for at least the 2 consecutive years immediately preceding such year; and
 
 &emsp;&emsp;&emsp;(ii) the center provides assurances satisfactory to the Secretary that the provision of such services on a prepaid basis, or under another managed care arrangement, will not result in the diminution of the level or quality of health services provided to the medically underserved population served prior to the grant under this subparagraph.
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 #### (B) Foreclosure
 
-&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosure procedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
+&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosureprocedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
 
 #### (5) Limitation
 
@@ -358,7 +358,7 @@ For purposes of this section:
 
 #### (2) Priority
 
-&emsp;In making grants under this subsection the Secretary shall give priority to health centers providing services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
+&emsp;In making grants under this subsection the Secretary shall give priority to health centersproviding services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
 
 #### (3) Requirements
 
@@ -524,7 +524,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a demonstration by the applicant that the area or the population group to be served by the applicant has a shortage of personal health services; and
 
-&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing inthe catchment area or included in such population group.
+&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing in the catchment area or included in such population group.
 
 > &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. In considering an application for a grant under subparagraph (A) or (B) of subsection (e)(1), the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
 
@@ -570,9 +570,9 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
 
-&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
+&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except inthe case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved theapplication, the failure of the governing body to approve the application was unreasonable;
+&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
 
 > &emsp;&emsp;except that, upon a showing of good cause the Secretary shall waive, for the length of the project period, all or part of the requirements of this subparagraph in the case of a health center that receives a grant pursuant to subsection (g), (h), (i), or (p);
 
@@ -634,7 +634,7 @@ In carrying out this section, the Secretary may enter into a memorandum of agree
 
 &emsp;(3) review and comment upon annual program plans and budgets of health centers, including comments upon allocations of health care resources in the State;
 
-&emsp;(4) assist health centers in the development of clinical practices and fiscal and administrative systems through a technical assistance plan which is responsive to the requests of health centers; and
+&emsp;(4) assist health centers in the development of clinical practices and fiscal and administrative systems through a technical assistanceplan which is responsive to the requests of health centers; and
 
 &emsp;(5) share information and data relevant to the operation of new and existing health centers.
 
@@ -710,7 +710,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (A) Public centers
 
-&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (k)(3)) the governing boards of which (as described in subsection (k)(3)(H)) do not establish general policies for such centers, an amount which exceeds 5 percent of the amounts appropriated under this section for that fiscal year. For purposes of applying the preceding sentence, the term "public centers" shall not include health centers that receive grants pursuant to subsection (h) or (i).
+&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (k)(3)) the governing boards of which (as described in subsection (k)(3)(H)) do not establish general policiesfor such centers, an amount which exceeds 5 percent of the amounts appropriated under this section for that fiscal year. For purposes of applying the preceding sentence, the term "public centers" shall not include health centers that receive grants pursuant to subsection (h) or (i).
 
 #### (B) Distribution of grants
 
@@ -788,7 +788,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added byPub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 Section 290cc–34 of this title, referred to in subsec. (h)(5)(B), was subsequently amended, and no longer defines the term "substance abuse".
 
@@ -944,7 +944,7 @@ Subsec. (l). Pub. L. 107–251, §101(8)(A), redesignated subsec. (l) as (s).
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: "(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities."
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how thoseresources can be best used to meet the health needs of the communities served by the entities."
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
@@ -1038,7 +1038,7 @@ Final Committee Report.—If the committee is not terminated under subsection (e
 
 "(g)
 
-Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of notless than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
+Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date.Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
 
 "(h)
 

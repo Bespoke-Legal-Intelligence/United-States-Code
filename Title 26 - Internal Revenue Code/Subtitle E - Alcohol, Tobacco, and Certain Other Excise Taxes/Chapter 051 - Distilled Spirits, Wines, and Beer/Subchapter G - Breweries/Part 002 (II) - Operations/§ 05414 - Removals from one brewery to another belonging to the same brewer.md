@@ -1,8 +1,38 @@
 ### §5414. Removals from one brewery to another belonging to the same brewer
 
-Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to thesame brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2) the controlling interest in each such corporation is owned by the same person or persons.
+#### (a) In general
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to the same brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2)the controlling interest in each such corporation is owned by the same person or persons.
+
+#### (b) Transfer of beer between bonded facilities
+
+#### (1) In general
+
+&emsp;Beer may be removed from one bonded brewery to another bonded brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
+
+&emsp;&emsp;(A) any removal from one brewery to another brewery belonging to the same brewer,
+
+&emsp;&emsp;(B) any removal from a brewery owned by one corporation to a brewery owned by another corporation when—
+
+&emsp;&emsp;&emsp;(i) one such corporation owns the controlling interest in the other such corporation, or
+
+&emsp;&emsp;&emsp;(ii) the controlling interest in each such corporation is owned by the same person or persons, and
+
+&emsp;&emsp;(C) any removal from one brewery to another brewery when—
+
+&emsp;&emsp;&emsp;(i) the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
+
+&emsp;&emsp;&emsp;(ii) the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
+
+#### (2) Transfer of liability for tax
+
+&emsp;For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
+
+#### (3) Termination
+
+&emsp;This subsection shall not apply to any calendar quarter beginning after December 31, 2019.
+
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, §13803(a), Dec. 22, 2017, 131 Stat. 2172.)
 
 #### Prior Provisions
 
@@ -10,5 +40,11 @@ A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 #### Amendments
 
+<b>2017</b>—Pub. L. 115–97 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to any calendar quarters beginning after Dec. 31, 2017, see section 13803(c) of Pub. L. 115–97, set out as a note under section 5412 of this title.
 

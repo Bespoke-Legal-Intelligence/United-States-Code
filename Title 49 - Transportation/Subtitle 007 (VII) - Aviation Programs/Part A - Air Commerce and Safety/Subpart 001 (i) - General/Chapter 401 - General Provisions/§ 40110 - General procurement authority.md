@@ -56,7 +56,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services; and
 
-&emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment usedfor the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -172,7 +172,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, §303(g); added Oct. 31, 1992, Pu
 
 In this section, the word "Administrator" in section 303(a)–(d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
 
-In subsection (a), before clause (1), the words "In carrying out this part" are added for clarity. The words "on behalf of the United States . . . where appropriate" are omitted as surplus. In clause (1), the words "made by the Congress", "by purchase, condemnation . . . or otherwise", and "easements through or other" are omitted as surplus. In clause (2), the words "by sale,lease, or otherwise" and "real or personal" are omitted as surplus. In clause (3), the word "renovate" is omitted as surplus. The words "and to purchase or otherwise acquire real property required therefor" are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
+In subsection (a), before clause (1), the words "In carrying out this part" are added for clarity. The words "on behalf of the United States . . . where appropriate" are omitted as surplus. In clause (1), the words "made by the Congress", "by purchase, condemnation . . . or otherwise", and "easements through or other" are omitted as surplus. In clause (2), the words "by sale, lease, or otherwise" and "real or personal" are omitted as surplus. In clause (3), the word "renovate" is omitted as surplus. The words "and to purchase or otherwise acquire real property required therefor" are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
 
 In subsection (b)(1), the words "procedures other than competitive procedures" are substituted for "noncompetitive procedures" for consistency with subsection (b)(2)(D) of this section and 41:253(f).
 

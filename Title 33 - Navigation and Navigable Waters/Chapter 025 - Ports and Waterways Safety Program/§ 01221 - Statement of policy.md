@@ -14,7 +14,7 @@ The Congress finds and declares—
 
 &emsp;&emsp;(3) insure that vessels operating in the navigable waters of the United States shall comply with all applicable standards and requirements for vessel construction, equipment, manning, and operational procedures; and
 
-&emsp;&emsp;(4) insure that the handling of dangerous articles and substances on the structures in,on, or immediately adjacent to the navigable waters of the United States is conducted in accordance with established standards and requirements; and
+&emsp;&emsp;(4) insure that the handling of dangerous articles and substances on the structures in, on, or immediately adjacent to the navigable waters of the United States is conducted in accordance with established standards and requirements; and
 
 &emsp;(d) that advance planning is critical in determining proper and adequate protective measures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
 

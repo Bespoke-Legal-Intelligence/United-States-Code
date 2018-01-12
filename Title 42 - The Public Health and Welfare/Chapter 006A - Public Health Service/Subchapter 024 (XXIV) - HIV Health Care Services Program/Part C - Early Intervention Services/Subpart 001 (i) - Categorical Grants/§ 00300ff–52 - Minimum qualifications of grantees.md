@@ -22,7 +22,7 @@
 
 #### (2) Underserved populations
 
-&emsp;Entities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-income populations, inner city populations, and rural populations.
+&emsp;Entities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-incomepopulations, inner city populations, and rural populations.
 
 #### (b) Status as medicaid provider
 
@@ -64,7 +64,7 @@ Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 2003 Amendment
 

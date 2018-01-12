@@ -16,9 +16,11 @@ There is authorized to be appropriated, and there is appropriated, out of any mo
 
 &emsp;&emsp;(C) $1,500,000,000 for fiscal year 2013;
 
-&emsp;&emsp;(D) $2,200,000,000 for fiscal year 2014; and
+&emsp;&emsp;(D) $2,200,000,000 for fiscal year 2014;
 
 &emsp;&emsp;(E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
+
+&emsp;&emsp;(F) $550,000,000 for the period of the first and second quarters of fiscal year 2018; <sup>1</sup>
 
 &emsp;(2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -28,13 +30,15 @@ There is authorized to be appropriated, and there is appropriated, out of any mo
 
 &emsp;&emsp;(C) $300,000,000 for fiscal year 2013;
 
-&emsp;&emsp;(D) $305,000,000 for fiscal year 2014; and
+&emsp;&emsp;(D) $305,000,000 for fiscal year 2014;
 
-&emsp;&emsp;(E) $310,000,000 for each of fiscal years 2015 through 2017.
+&emsp;&emsp;(E) $310,000,000 for each of fiscal years 2015 through 2017; and
+
+&emsp;&emsp;(F) $65,000,000 for period of the first and second quarters of fiscal year 2018.
 
 #### (c) Construction
 
-There is authorized to be appropriated, and there is appropriated, out of any monies in theTreasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
+There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
 #### (d) Use of fund
 
@@ -44,13 +48,17 @@ The Secretary of Health and Human Services shall transfer amounts in the CHC Fun
 
 Amounts appropriated under subsections (b) and (c) shall remain available until expended.
 
-(Pub. L. 111–148, title X, §10503, Mar. 23, 2010, 124 Stat. 1004; Pub. L. 111–152, title II, §2303, Mar. 30, 2010, 124 Stat. 1083; Pub. L. 114–10, title II, §221(a), Apr. 16, 2015, 129 Stat. 154.)
+(Pub. L. 111–148, title X, §10503, Mar. 23, 2010, 124 Stat. 1004; Pub. L. 111–152, title II, §2303, Mar. 30, 2010, 124 Stat. 1083; Pub. L. 114–10, title II, §221(a), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–96, div. C, title I, §3101(a), (b), Dec. 22, 2017, 131 Stat. 2048.)
 
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(1)(F). Pub. L. 115–96, §3101(a), added subpar. (F).
+
+Subsec. (b)(2)(F). Pub. L. 115–96, §3101(b), added subpar. (F).
 
 <b>2015</b>—Subsec. (b)(1)(E), (2)(E). Pub. L. 114–10 substituted "for each of fiscal years 2015 through 2017" for "for fiscal year 2015".
 
@@ -63,4 +71,6 @@ Subsec. (b)(1)(C). Pub. L. 111–152, §2303(3), substituted "1,500,000,000" for
 Subsec. (b)(1)(D). Pub. L. 111–152, §2303(4), substituted "2,200,000,000" for "1,600,000,000".
 
 Subsec. (b)(1)(E). Pub. L. 111–152, §2303(5), substituted "3,600,000,000" for "2,900,000,000".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

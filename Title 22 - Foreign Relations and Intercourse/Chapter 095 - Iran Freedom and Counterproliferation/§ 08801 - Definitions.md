@@ -26,7 +26,7 @@ In this chapter:
 
 #### (5) Foreign financial institution
 
-&emsp;The term "foreign financial institution" has the meaning of that term as determined bythe Secretary of the Treasury pursuant to section 8513(i) of this title.
+&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
 
 #### (6) Good
 
@@ -92,7 +92,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 I, BARACK OBAMA, President of the United States of America, have determined that Iran's implementation of the nuclear-related measures specified in sections 15.1–15.11 of Annex V of the Joint Comprehensive Plan of Action of July 14, 2015 (JCPOA) between the P5+1 (China, France, Germany, the Russian Federation, the United Kingdom, and the United States), the European Union, and Iran, as verified by the International Atomic Energy Agency, marks a fundamental shift in circumstances with respect to Iran's nuclear program. In order to give effect to the United States commitments with respect to sanctions described in section 4 of Annex II and section 17.4 of Annex V of the JCPOA, I am revoking Executive Orders 13574 of May 23, 2011, 13590 of November 20, 2011, 13622 of July 30, 2012, and 13645 of June 3, 2013, and amending Executive Order 13628 of October 9, 2012, by revoking sections 5 through 7 and section 15. In addition, in section 3 of this order, I am taking steps with respect to the national emergency declared in Executive Order 12957 of March 15, 1995, to provide implementation authorities for aspects of certain statutory sanctions that are outside the scope of the U.S. commitment to lift nuclear-related sanctions under the JCPOA.
 
-This action is not intended to, and does not, limit the applicability of waiver determinations or any renewals thereof issued by the Secretary of State, or licenses issued by the Secretary of the Treasury, to give effect to sanctions commitments described in sections 17.1–17.3 and 17.5 of Annex V of the JCPOA, or otherwise affect the national emergency declared in Executive Order 12957, which shall remain in place, or any Executive Order issued in furtherance of that national emergency other than Executive Orders 13574, 13590, 13622, 13628, and 13645.
+This action is not intended to, and does not, limit the applicability of waiver determinations or any renewals thereof issued by the Secretary of State, or licenses issued by the Secretary of the Treasury, to give effect to sanctions commitments described in sections 17.1–17.3 and 17.5 of Annex V of the JCPOA, or otherwise affect the national emergency declared in Executive Order 12957, which shall remain in place, or any Executive Order issued in furtherance of that national emergencyother than Executive Orders 13574, 13590, 13622, 13628, and 13645.
 
 I hereby order:
 
@@ -214,7 +214,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1244(c)(1) and (c)(2) \[22 U.S.C. 8803(c)(1), (c)(2)\] to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• Section 1244(d)(1)(A) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative,and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172) (50 U.S.C. 1701 note), as amended (ISA), are selected pursuant to section 1244(d)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1244(d)(1)(A) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172) (50 U.S.C. 1701 note), as amended (ISA), are selected pursuant to section 1244(d)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
 • Section 1244(d)(2) to the Secretary of the Treasury, in consultation with the Secretary of State;
 
@@ -262,7 +262,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1253(a) \[22 U.S.C. 8809(a)\] to the Secretary of the Treasury and the Secretary of State, commensurate with their respective areas of responsibility outlined in this memorandum;
 
-• Section 1253(c)(1) to the Secretary of State, in consultation with the Secretaries of the Treasury andCommerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate;
+• Section 1253(c)(1) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate;
 
 • Section 1253(c)(2) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce, and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1244(d)(1)(A), 1245(a)(1), or 1246(a)(1) (including in each case as informed by section 1253(c)(2)), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA.
 

@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) opening domestic markets to fair and open internal competition among domestic enterprises by eliminating inappropriate favoritism for small or large businesses, eliminating elite monopolies, creating and effectively implementing anti-trust and anti-monopoly laws to protect free competition, and establishing fair and accessible legal procedures for dispute settlement among domestic enterprises;
 
-&emsp;&emsp;(C) privatizing industry in a fair and equitable manner that provides economic opportunities to a broad spectrum of the population, eliminating government and elite monopolies, closing loss-making enterprises, and reducing government control over the factors of production;
+&emsp;&emsp;(C) privatizing industry in a fair and equitable manner that provides economic opportunities to a broad spectrum of the population, eliminating government and elitemonopolies, closing loss-making enterprises, and reducing government control over the factors of production;
 
 &emsp;&emsp;(D) economic deregulation by eliminating inefficient and overly burdensome regulations and strengthening the legal framework supporting private contract and intellectual property rights;
 
@@ -32,7 +32,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) consideration of provisions in debt contracts that would foster dialogue and consultation between a sovereign debtor and its private creditors, and among those creditors;
 
-&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy onlending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
+&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy on lending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
 
 &emsp;&emsp;(E) intensified consideration of mechanisms to facilitate orderly workout mechanisms for countries experiencing debt or liquidity crises;
 
@@ -54,7 +54,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) measures designed to facilitate labor market flexibility are consistent with such core worker rights; and
 
-&emsp;&emsp;(C) the staff of the International Monetary Fund surveys the labor market policies and practices of recipient countries and recommends policy initiatives that will help to ensure the maintenance or improvement of core labor standards.
+&emsp;&emsp;(C) the staff of the International Monetary Fund surveys the labor market policies andpractices of recipient countries and recommends policy initiatives that will help to ensure the maintenance or improvement of core labor standards.
 
 &emsp;(10) Vigorously promote International Monetary Fund programs and assistance that are structured to the maximum extent feasible to discourage practices which may promote ethnic or social strife in a recipient country.
 

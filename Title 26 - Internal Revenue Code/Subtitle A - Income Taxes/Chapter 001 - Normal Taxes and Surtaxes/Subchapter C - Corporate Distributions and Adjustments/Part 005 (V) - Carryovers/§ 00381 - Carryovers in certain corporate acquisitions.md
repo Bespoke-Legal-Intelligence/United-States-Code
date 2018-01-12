@@ -28,7 +28,7 @@ The items referred to in subsection (a) are:
 
 &emsp;The net operating loss carryovers determined under section 172, subject to the following conditions and limitations:
 
-&emsp;&emsp;(A) the taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
+&emsp;&emsp;(A) The taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
@@ -42,9 +42,9 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;&emsp;(iv) the taxable income for such taxable year (computed with the modifications specified in section 172(b)(2)(A) but without a net operating loss deduction) shall be divided between the pre-acquisition part year and the post-acquisition part year in proportion to the number of days in each;
 
-&emsp;&emsp;&emsp;(v) the net operating loss deduction for the pre-acquisition part year shall be determined as provided in section 172(b)(2)(B), but without regard to a net operating loss year of the distributor or transferor corporation; and
+&emsp;&emsp;&emsp;(v) the net operating loss deduction for the pre-acquisition part year shall be determined as provided in section 172(b)(2)(B),<sup>1</sup> but without regard to a net operating loss year of the distributor or transferor corporation; and
 
-&emsp;&emsp;&emsp;(vi) the net operating loss deduction for the post-acquisition part year shall be determined as provided in section 172(b)(2)(B).
+&emsp;&emsp;&emsp;(vi) the net operating loss deduction for the post-acquisition part year shall be determined as provided in section 172(b)(2)(B).<sup>1</sup>
 
 #### (2) Earnings and profits
 
@@ -86,9 +86,9 @@ The items referred to in subsection (a) are:
 
 &emsp;If the acquiring corporation assumes liability for bonds of the distributor or transferor corporation issued at a discount or premium, the acquiring corporation shall be treated as the distributor or transferor corporation after the date of distribution or transfer for purposes of determining the amount of amortization allowable or includible with respect to such discount or premium.
 
-#### (10) Treatment of certain mining development and exploration expenses of distributor of transferor corporation
+#### (10) Treatment of certain mining development and exploration expenses of distributor or transferor corporation
 
-&emsp;The acquiring corporation shall be entitled to deduct, if it were the distributor or transferor corporation, expenses deferred under section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected.
+&emsp;The acquiring corporation shall be entitled to deduct, as if it were the distributor or transferor corporation, expenses deferred under section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected.
 
 #### (11) Contributions to pension plans, employees' annuity plans, and stock bonus and profit-sharing plans
 
@@ -116,7 +116,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) such liability, if paid or accrued by the distributor or transferor corporation, would have been deductible in computing its taxable income,
 
-> &emsp;the acquiring corporation shall be entitled to deduct such items when paid or accrued, as the case may be, as if such corporation were the distributor or transferor corporation. A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation. This paragraph shall not apply if such obligations are reflected in the amount of stock, securities, or property transferred by the acquiring corporation to the transferor corporation for the property of the transferor corporation.
+> &emsp;the acquiring corporation shall be entitled to deduct such items when paid or accrued, as the case may be, as if such corporation were the distributor or transferor corporation. A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions ofthis subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation. This paragraph shall not apply if such obligations are reflected in the amount of stock, securities, or property transferred by the acquiring corporation to the transferor corporation for the property of the transferor corporation.
 
 #### (17) Deficiency dividend of personal holding company
 
@@ -126,11 +126,15 @@ The items referred to in subsection (a) are:
 
 &emsp;The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of section 613(c)(3) (relating to extraction of ores or minerals from the ground).
 
-#### (19) Charitable contributions in excess of prior years' limitation
+#### (19) Charitable contributions in excess of prior years' limitations
 
 &emsp;Contributions made in the taxable year ending on the date of distribution or transfer and the 4 prior taxable years by the distributor or transferor corporation in excess of the amount deductible under section 170(b)(2) for such taxable years shall be deductible by the acquiring corporation for its taxable years which begin after the date of distribution or transfer, subject to the limitations imposed in section 170(b)(2). In applying the preceding sentence, each taxable year of the distributor or transferor corporation beginning on or before the date of distribution or transfer shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
-#### \[(20), (21) Repealed. Pub. L. 94–455, title XIX, §1901(a)(54), (b)(16), Oct. 4, 1976, 90 Stat. 1773, 1796\]
+#### (20) Carryforward of disallowed business interest
+
+&emsp;The carryover of disallowed business interest described in section 163(j)(2) to taxable years ending after the date of distribution or transfer.
+
+#### \[(21) Repealed. Pub. L. 94–455, title XIX, §1901(b)(16), Oct. 4, 1976, 90 Stat. 1796\]
 
 #### (22) Successor insurance company
 
@@ -146,19 +150,23 @@ The items referred to in subsection (a) are:
 
 #### (25) Credit under section 53
 
-&emsp;The acquiring corporation shall take into account (to the extent proper to carry out thepurposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
+&emsp;The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
 
 #### (26) Enterprise zone provisions
 
 &emsp;The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and subchapter U, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter U in respect of the distributor or transferor corporation.
 
-#### (d) Operations loss carrybacks and carryovers of life insurance companies
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203,title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142.)
 
-&emsp;&emsp;<b>For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.</b>
+#### References in Text
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888.)
+Section 172(b)(2)(B), referred to in subsec. (c)(1)(C)(v), (vi), was amended by Pub. L. 115–97, title I, §13302(a)(2), Dec. 22, 2017, 131 Stat. 2121, and, as so amended, no longer relates to net operating loss deductions. Provisions similar to those contained in former subpar. (B) of section 172(b)(2) of this title are now contained in subpar. (A) of section 172(b)(2) of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(20). Pub. L. 115–97, §13301(b)(1), added par. (20).
+
+Subsec. (d). Pub. L. 115–97, §13511(b)(3), struck out subsec. (d). Text read as follows: "For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810."
 
 <b>1996</b>—Subsec. (c)(26), (27). Pub. L. 104–188 amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
@@ -268,6 +276,12 @@ Subsec. (d). Pub. L. 86–69, §3(c)(2), added subsec. (d).
 
 <b>1955</b>—Subsec. (c)(7). Act June 15, 1955, repealed par. (7) which related to carryover of prepaid income.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 13301 of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13301(c) of Pub. L. 115–97, set out as a note under section 163 of this title.
+
+Pub. L. 115–97, title I, §13511(c), Dec. 22, 2017, 131 Stat. 2142, provided that: "The amendments made by this section \[amending this section and sections 805, 831, 953, and 1351 of this title and repealing sections 810 and 844 of this title\] shall apply to losses arising in taxable years beginning after December 31, 2017."
+
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11812(b)(6) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
@@ -302,7 +316,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to any target corporation with respect to which the acquisition date occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
+Amendment by Pub. L. 97–248 applicable to any target corporation with respect to which the acquisitiondate occurs after Aug. 31, 1982, with special rules for certain acquisitions before Sept. 1, 1982, and certain acquisitions of financial institutions in which there was a binding contract on July 22, 1982, to acquire control, see section 224(d) of Pub. L. 97–248, set out as an Effective Date note under section 338 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -446,5 +460,7 @@ For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwiths
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

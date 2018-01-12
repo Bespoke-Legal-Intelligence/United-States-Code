@@ -80,7 +80,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§102(13), 103(a)–(c), (e), (f), 107 (relat
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §103(j); added Dec. 18, 1991, Pub. L. 102–240, §2505, 105 Stat. 2084.
 
-In subsection (a), the words "shall prescribe" are substituted for "shall establish by order" in 15:1392(a) and "may by order" in 15:1392(e) (1st sentence) for consistency. The words "amend or revoke" in 15:1392(e) (1st sentence) and 1397(b)(1) (last sentence) are omitted because they are included in "prescribe". The words "appropriate Federal" in 15:1392(a) and "Federal" in 15:1392(e) (1st sentence) are omitted as surplus. The words "established under this section" are omitted because of the restatement. The text of 15:1392(b) is omitted as surplus because 5:chs. 5, subch. II, and 7 apply unless otherwise stated.
+In subsection (a), the words "shall prescribe" are substituted for "shall establish by order" in 15:1392(a) and"may by order" in 15:1392(e) (1st sentence) for consistency. The words "amend or revoke" in 15:1392(e) (1st sentence) and 1397(b)(1) (last sentence) are omitted because they are included in "prescribe". The words "appropriate Federal" in 15:1392(a) and "Federal" in 15:1392(e) (1st sentence) are omitted as surplus. The words "established under this section" are omitted because of the restatement. The text of 15:1392(b) is omitted as surplus because 5:chs. 5, subch. II, and 7 apply unless otherwise stated.
 
 In subsection (b)(1), the words "including the results of research, development, testing and evaluation activities conducted pursuant to this chapter" are omitted as surplus.
 
@@ -152,7 +152,7 @@ Compliance with successor standards.—Any rule promulgated pursuant to this sec
 
 &emsp;"(2)
 
-No retrofitting required.—Any rule promulgated pursuant to this section may not require theretrofitting of agricultural equipment that was manufactured before the date on which the lighting and marking standards are enforceable under subsection (b)(2)(A).
+No retrofitting required.—Any rule promulgated pursuant to this section may not require the retrofitting of agricultural equipment that was manufactured before the date on which the lighting and marking standards are enforceable under subsection (b)(2)(A).
 
 &emsp;"(3)
 
@@ -252,7 +252,7 @@ Required Consultation.—When conducting the required study and rulemaking, the 
 
 "(e)
 
-Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United StatesCode, to extend the standard to conventional motor vehicles.
+Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
 
 #### "SEC. 4. FUNDING.
 

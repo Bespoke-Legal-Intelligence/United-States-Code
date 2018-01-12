@@ -18,7 +18,7 @@
 
 #### (B) Publication of proposed modifications and proposed additional safe harbors
 
-&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
+&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, theSecretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
 
 #### (C) Report
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) with leave of the court, from other interlocutory orders and decrees;
 
-> and, with leave of the court, from interlocutory orders and decrees, of bankruptcy judges entered in cases and proceedings referred to the bankruptcy judges under section 157 of this title. An appeal under this subsection shall be taken only to the district court for the judicial district in which the bankruptcy judge is serving.
+> of bankruptcy judges entered in cases and proceedings referred to the bankruptcy judges under section 157 of this title. An appeal under this subsection shall be taken only to the district court for the judicial district in which the bankruptcy judge is serving.
 
 (b)(1) The judicial council of a circuit shall establish a bankruptcy appellate panel service composed of bankruptcy judges of the districts in the circuit who are appointed by the judicial council in accordance with paragraph (3), to hear and determine, with the consent of all the parties, appeals under subsection (a) unless the judicial council finds that—
 
@@ -32,7 +32,7 @@
 
 (5) An appeal to be heard under this subsection shall be heard by a panel of 3 members of the bankruptcy appellate panel service, except that a member of such service may not hear an appeal originating in the district for which such member is appointed or designated under section 152 of this title.
 
-(6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellate panel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
+(6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellatepanel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
 
 (c)(1) Subject to subsections (b) and (d)(2), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless—
 
@@ -84,7 +84,7 @@ The Bankruptcy Rules, referred to in subsec. (c)(2), are set out in the Appendix
 
 Subsec. (d). Pub. L. 109–8, §1233(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking "from" the first place it appears and all that follows through "decrees," and inserting pars. (1) to (3), was executed by making the insertion and striking after "appeals" "from final judgments, orders, and decrees,", which is through "decrees," the first place appearing, to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking "from" the first place it appears and all that follows through "decrees," and inserting pars. (1) to (3), was executed by making the insertion and by striking after "appeals" "from final judgments, orders, and decrees, and, with leave of the court, from interlocutory orders and decrees,", which is through "decrees," the second place appearing, to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 103–394, §104(c)(3), added par. (1) and struck out former par. (1) which read as follows: "The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section."
 
@@ -124,7 +124,7 @@ Certification.—A district court, a bankruptcy court, or a bankruptcy appellate
 
 Procedure.—Subject to any other provision of this subsection, an appeal authorized by the court of appeals under section 158(d)(2)(A) of title 28, United States Code, shall be taken in the manner prescribed in subdivisions (a)(1), (b), (c), and (d) of rule 5 of the Federal Rules of Appellate Procedure. For purposes of subdivision (a)(1) of rule 5—
 
-&emsp;"(A) a reference in such subdivision to a district court shall be deemed to include a reference to abankruptcy court and a bankruptcy appellate panel, as appropriate; and
+&emsp;"(A) a reference in such subdivision to a district court shall be deemed to include a reference to a bankruptcy court and a bankruptcy appellate panel, as appropriate; and
 
 &emsp;"(B) a reference in such subdivision to the parties requesting permission to appeal to be served with the petition shall be deemed to include a reference to the parties to the judgment, order, or decree from which the appeal is taken.
 

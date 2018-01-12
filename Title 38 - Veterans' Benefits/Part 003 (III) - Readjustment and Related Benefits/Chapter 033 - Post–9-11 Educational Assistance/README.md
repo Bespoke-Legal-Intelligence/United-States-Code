@@ -10,7 +10,7 @@
 
 #### SUBCHAPTER II—EDUCATIONAL ASSISTANCE
 
-|  |  |
+| Sec. |  |
 | :--- | ---: |
 | [3311\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003311%20-%20Educational%20assistance%20for%20service%20in%20the%20Armed%20Forces%20commencing%20on%20or%20after%20September%2011%2C%202001%20entitlement.md) | Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement. |
 | [3312\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003312%20-%20Educational%20assistance%20duration.md) | Educational assistance: duration. |
@@ -22,6 +22,7 @@
 | [3317\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003317%20-%20Public-private%20contributions%20for%20additional%20educational%20assistance.md) | Public-private contributions for additional educational assistance. |
 | [3318\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003318%20-%20Additional%20assistance%20relocation%20or%20travel%20assistance%20for%20individual%20relocating%20or%20traveling%20significant%20distance%20for%20pursuit%20of%20a%20program%E2%80%A6.md) | Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education. |
 | [3319\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003319%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members.md) | Authority to transfer unused education benefits to family members. |
+| [3320\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003320%20-%20Edith%20Nourse%20Rogers%20STEM%20Scholarship.md) | Edith Nourse Rogers STEM Scholarship. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,6 +41,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–48, title I, §111(b), Aug. 16, 2017, 131 Stat. 983, added item 3320.
 
 <b>2016</b>—Pub. L. 114–315, title IV, §§404(b), 405(b), Dec. 16, 2016, 130 Stat. 1554, 1558, added items 3326 and 3327.
 

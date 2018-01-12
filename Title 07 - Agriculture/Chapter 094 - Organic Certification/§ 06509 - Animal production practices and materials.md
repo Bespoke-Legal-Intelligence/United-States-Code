@@ -50,7 +50,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a dairy animal from which milk or milk products will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter for not less thanthe 12-month period immediately prior to the sale of such milk and milk products.
+&emsp;&emsp;Except as provided in subparagraph (B), a dairy animal from which milk or milk products will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter for not less than the 12-month period immediately prior to the sale of such milk and milk products.
 
 #### (B) Transition guideline
 

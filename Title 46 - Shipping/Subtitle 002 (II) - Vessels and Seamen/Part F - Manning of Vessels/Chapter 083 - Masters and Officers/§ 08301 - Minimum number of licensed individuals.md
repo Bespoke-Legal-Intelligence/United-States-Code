@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 104–324, §1104(d), amended subsec. (e) generally. Prior 
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–206 added subsec. (e).
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A vessel of at least 1,000 gross tons and propelled by machinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A vessel of at least 1,000 gross tons and propelled bymachinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–640 inserted ", a mobile offshore drilling unit when on location,".
 

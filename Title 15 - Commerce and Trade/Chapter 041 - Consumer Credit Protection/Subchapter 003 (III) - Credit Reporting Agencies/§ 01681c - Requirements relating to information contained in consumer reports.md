@@ -22,7 +22,7 @@ Except as authorized under subsection (b), no consumer reporting agency may make
 
 #### (b) Exempted cases
 
-The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case ofany consumer credit report to be used in connection with—
+The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
 
 &emsp;(1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -62,7 +62,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of thecard number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
 
 #### (2) Limitation
 
@@ -86,7 +86,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (A) Regulations required
 
-&emsp;&emsp;The Bureau shall,,<sup>2</sup> in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,<sup>2</sup> prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when suchuser has received a notice of discrepancy under paragraph (1).
+&emsp;&emsp;The Bureau shall,,<sup>2</sup> in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,<sup>2</sup> prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
 
 #### (B) Policies and procedures to be included
 

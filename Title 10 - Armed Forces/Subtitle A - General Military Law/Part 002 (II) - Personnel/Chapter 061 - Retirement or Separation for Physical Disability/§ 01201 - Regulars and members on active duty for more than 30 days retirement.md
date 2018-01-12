@@ -32,7 +32,7 @@ Eligible Members.—This section and sections 1202 and 1203 of this title apply 
 
 &emsp;(1) A member of a regular component of the armed forces entitled to basic pay.
 
-&emsp;(2) Any other member of the armed forces entitled to basic pay who has been called orordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days.
+&emsp;(2) Any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days.
 
 &emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 

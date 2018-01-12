@@ -52,13 +52,17 @@ Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided th
 
 &emsp;"(3) shall be implemented by revised procurement regulations, which shall be issued prior to such effective date."
 
+#### Effective Date
+
+Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
+
 #### Delegation of Functions
 
 For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales
 
-Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, provided that:
+Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, §812, Dec. 12, 2017, 131 Stat. 1461, provided that:
 
 "(a)
 
@@ -84,11 +88,19 @@ Pilot Program for Acceleration of Foreign Military Sales.—
 
 In general.—The Secretary of Defense shall establish a pilot program to reform and accelerate the contracting and pricing processes associated with full rate production of major weapon systems for no more than 10 foreign military sales contracts by—
 
-&emsp;&emsp;"(A) basing price reasonableness determinations on actual cost and pricing data for purchases of the same product for the Department of Defense; and
+&emsp;&emsp;"(A) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar product for the Department of Defense; and
 
 &emsp;&emsp;"(B) reducing the cost and pricing data to be submitted in accordance with section 2306a of title 10, United States Code.
 
 &emsp;"(2)
+
+Determination of same or similar product.—The Secretary of Defense and the Secretary of State shall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
+
+&emsp;"(3)
+
+Waiver of cost or pricing certification.—The Secretary of Defense may waive the certification requirement under section 2306a(a)(2) of title 10, United States Code, if the Secretary determines that the Federal Government has sufficient data and information regarding the reasonableness of the price.
+
+&emsp;"(4)
 
 Expiration of authority.—Authority for the pilot program under this subsection expires on January 1, 2020."
 

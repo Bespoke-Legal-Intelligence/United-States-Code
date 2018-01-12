@@ -26,7 +26,7 @@ Amendment by Pub. L. 95–600 applicable with respect to years beginning after J
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1970 Amendment
 

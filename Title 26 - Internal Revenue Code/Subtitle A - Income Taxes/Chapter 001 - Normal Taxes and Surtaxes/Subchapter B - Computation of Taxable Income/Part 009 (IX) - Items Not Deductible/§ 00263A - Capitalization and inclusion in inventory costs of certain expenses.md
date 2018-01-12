@@ -30,17 +30,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (2) Property acquired for resale
 
-#### (A) In general
-
-&emsp;&emsp;Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
-
-#### (B) Exception for taxpayer with gross receipts of $10,000,000 or less
-
-&emsp;&emsp;Subparagraph (A) shall not apply to any personal property acquired during any taxable year by the taxpayer for resale if the average annual gross receipts of the taxpayer (or any predecessor) for the 3-taxable year period ending with the taxable year preceding such taxable year do not exceed $10,000,000.
-
-#### (C) Aggregation rules, etc.
-
-&emsp;&emsp;For purposes of subparagraph (B), rules similar to the rules of paragraphs (2) and (3) of section 448(c) shall apply.
+&emsp;Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
 
 > For purposes of paragraph (1), the term "tangible personal property" shall include a film, sound recording, video tape, book, or similar property.
 
@@ -106,9 +96,23 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;(i) the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
 
-&emsp;&emsp;&emsp;(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of such the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
+&emsp;&emsp;&emsp;(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
 
 > &emsp;&emsp;The determination of whether an individual materially participates in any activity shall be made in a manner similar to the manner in which such determination is made under section 2032A(e)(6).
+
+#### (C) Special temporary rule for citrus plants lost by reason of casualty
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of the replanting of citrus plants, subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the taxpayer described in subparagraph (A) has an equity interest of not less than 50 percent in the replanted citrus plants at all times during the taxable year in which such amounts were paid or incurred and such other person holds any part of the remaining equity interest, or
+
+&emsp;&emsp;&emsp;&emsp;(II) such other person acquired the entirety of such taxpayer's equity interest in the land on which the lost or damaged citrus plants were located at the time of such loss or damage, and the replanting is on such land.
+
+#### (ii) Termination
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any cost paid or incurred after the date which is 10 years after the date of the enactment of the Tax Cuts and Jobs Act.
 
 #### (3) Election to have this section not apply
 
@@ -118,7 +122,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (B) Certain persons not eligible
 
-&emsp;&emsp;No election may be made under this paragraph by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
+&emsp;&emsp;No election may be made under this paragraph by a corporation, partnership, or taxshelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
 
 #### (C) Special rule for citrus and almond growers
 
@@ -164,7 +168,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Members of family
 
-&emsp;&emsp;For purposes of this paragraph, the term "family" means the taxpayer, the spouse of the taxpayer, and any of their children whohave not attained age 18 before the close of the taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term "family" means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
 
 #### (3) Preproductive period
 
@@ -242,7 +246,23 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
-#### (4) Definitions
+#### (4) Exemption for aging process of beer, wine, and distilled spirits
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, the production period shall not include the aging period for—
+
+&emsp;&emsp;&emsp;(i) beer (as defined in section 5052(a)),
+
+&emsp;&emsp;&emsp;(ii) wine (as described in section 5041(a)), or
+
+&emsp;&emsp;&emsp;(iii) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
+
+#### (B) Termination
+
+&emsp;&emsp;This paragraph shall not apply to interest costs paid or accrued after December 31, 2019.
+
+#### (5) Definitions
 
 &emsp;For purposes of this subsection—
 
@@ -260,7 +280,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;(i) beginning on the date on which production of the property begins, and
 
-&emsp;&emsp;&emsp;(ii) ending on the date on which the property is ready to be placed in service or is ready to be held for sale.
+&emsp;&emsp;&emsp;(ii) except as provided in paragraph (4), ending on the date on which the property is ready to be placed in service or is ready to be held for sale.
 
 #### (C) Production expenditures
 
@@ -276,7 +296,7 @@ For purposes of this section—
 
 #### (2) Treatment of property produced under contract for the taxpayer
 
-&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall betaken into account in applying subsection (a) to the taxpayer.
+&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall be taken into account in applying subsection (a) to the taxpayer.
 
 #### (h) Exemption for free lance authors, photographers, and artists
 
@@ -336,7 +356,21 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified employee-owner" means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
 
-#### (i) Regulations
+#### (i) Exemption for certain small businesses
+
+#### (1) In general
+
+&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
+
+#### (2) Application of gross receipts test to individuals, etc.
+
+&emsp;In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+
+#### (3) Coordination with section 481
+
+&emsp;Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+
+#### (j) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
 
@@ -344,9 +378,23 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064.)
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064; Pub. L. 115–97, title I, §§13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, 131 Stat. 2103, 2113, 2169, 2170.)
+
+#### References in Text
+
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §13102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) related to property acquired for resale.
+
+Subsec. (d)(2)(C). Pub. L. 115–97, §13207(a), added subpar. (C).
+
+Subsec. (f)(4), (5). Pub. L. 115–97, §13801(a), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (f)(5)(B)(ii). Pub. L. 115–97, §13801(b), inserted "except as provided in paragraph (4)," before "ending on the date".
+
+Subsecs. (i), (j). Pub. L. 115–97, §13102(b)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 <b>2015</b>—Subsec. (c)(7). Pub. L. 114–113 added par. (7).
 
@@ -364,13 +412,13 @@ In general.—In the case of a personal service corporation, this subsection sha
 
 "(ii)
 
-Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is an employee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
+Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is anemployee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
 
 "(iii)
 
 Personal service corporation.—For purposes of this subparagraph, the term 'personal service corporation' means any personal service corporation (as defined in section 269A(b))."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end "Any cost which (but for this subsection)could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end "Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph."
 
 Subsec. (c)(3). Pub. L. 100–647, §1008(b)(2)(A), substituted "section 263(c), 263(i), 291(b)(2), 616, or 617" for "section 263(c), 616(a), or 617(a)".
 
@@ -397,6 +445,26 @@ Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "p
 Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted "allocable (as determined under paragraph (2)) to" for "incurred or continued in connection with" and inserted "(as so determined)" after "allocable".
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13102(e), Dec. 22, 2017, 131 Stat. 2104, provided that:
+
+"(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 447, 448, 460, and 471 of this title\] shall apply to taxable years beginning after December 31, 2017.
+
+"(2)
+
+Preservation of suspense account rules with respect to any existing suspense accounts.—So much of the amendments made by subsection (a)(5)(C) as relate to section 447(i) of the Internal Revenue Code of 1986 shall not apply with respect to any suspense account established under such section before the date of the enactment of this Act \[Dec. 22, 2017\].
+
+"(3)
+
+Exemption from percentage completion for long-term contracts.—The amendments made by subsection (d) \[amending section 460 of this title\] shall apply to contracts entered into after December 31, 2017, in taxable years ending after such date."
+
+Pub. L. 115–97, title I, §13207(b), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendment made by this section \[amending this section\] shall apply to costs paid or incurred after the date of the enactment of this Act \[Dec. 22, 2017\]."
+
+Pub. L. 115–97, title I, §13801(c), Dec. 22, 2017, 131 Stat. 2170, provided that: "The amendments made by this section \[amending this section\] shall apply to interest costs paid or accrued in calendar years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 

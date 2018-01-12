@@ -14,7 +14,7 @@
 
 &emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
 
-> Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 onand after the dates on which the provisions of those sections <sup>2</sup> become effective.
+> Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 on and after the dates on which the provisions of those sections <sup>2</sup> become effective.
 
 (c) The term "Secretary" means the Secretary of the Interior.
 

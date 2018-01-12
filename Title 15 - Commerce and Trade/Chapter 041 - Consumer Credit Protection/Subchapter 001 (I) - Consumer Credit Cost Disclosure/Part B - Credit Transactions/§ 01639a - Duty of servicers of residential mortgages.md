@@ -20,7 +20,7 @@ A servicer that is deemed to be acting in the best interests of all investors or
 
 #### (c) Standard industry practice
 
-The qualified loss mitigation plan guidelines issued by the Secretary of the Treasury under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] shall constitute standard industry practice for purposes of all Federal and State laws.
+The qualified loss mitigation plan guidelines issued by the Secretary of the Treasury under the Emergency Economic Stabilization Act of2008 \[12 U.S.C. 5201 et seq.\] shall constitute standard industry practice for purposes of all Federal and State laws.
 
 #### (d) Scope of safe harbor
 

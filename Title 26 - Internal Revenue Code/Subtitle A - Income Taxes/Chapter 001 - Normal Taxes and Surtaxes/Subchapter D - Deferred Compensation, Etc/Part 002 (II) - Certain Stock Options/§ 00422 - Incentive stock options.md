@@ -22,15 +22,15 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing morethan 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
-> Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.
+> Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option. Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option.
 
 #### (c) Special rules
 
-#### (1) Good faith efforts to value of stock
+#### (1) Good faith efforts to value stock
 
-&emsp;If a share of stock is transferred pursuant to the exercise by an individual of an option which would fail to qualify as an incentive stock option under subsection (b) because there was a failure in an attempt, made ingood faith, to meet the requirement of subsection (b)(4), the requirement of subsection (b)(4) shall be considered to have been met. To the extent provided in regulations by the Secretary, a similar rule shall apply for purposes of subsection (d).
+&emsp;If a share of stock is transferred pursuant to the exercise by an individual of an option which would fail to qualify as an incentive stock option under subsection (b) because there was a failure in an attempt, made in good faith, to meet the requirement of subsection (b)(4), the requirement of subsection (b)(4) shall be considered to have been met. To the extent provided in regulations by the Secretary, a similar rule shall apply for purposes of subsection (d).
 
 #### (2) Certain disqualifying dispositions where amount realized is less than value at exercise
 
@@ -84,13 +84,15 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
+(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 115–97, title I, §13603(c)(1)(A), Dec. 22, 2017, 131 Stat. 2163.)
 
 #### Prior Provisions
 
 A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 64; amended Pub. L. 94–455, title VI, §603(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1574, 1834; Pub. L. 96–589, §6(i)(3), Dec. 24, 1980, 94 Stat. 3410, related to qualified stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(20), Nov. 5, 1990, 104 Stat. 1388–521. For savings provision, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Such term shall not include anyoption if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option."
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 422A of this title as this section.
 
@@ -100,7 +102,7 @@ Subsec. (c)(5) to (8). Pub. L. 101–508, §11801(c)(9)(C)(ii), redesignated par
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end "Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option."
 
-Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendaryear (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
+Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
 
 Subsec. (c)(1). Pub. L. 100–647, §1003(d)(2)(C), substituted "subsection (d)" for "paragraph (7) of subsection (b)".
 
@@ -138,6 +140,10 @@ Subsec. (c)(2)(A). Pub. L. 97–448, §102(j)(3), substituted "either of the per
 
 Subsec. (c)(4)(A)(ii). Pub. L. 97–448, §102(j)(4), substituted "granted incentive stock options" for "granted options".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -172,7 +178,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;"(B)
 
-Election and designation of options.—In the case of an option granted before January 1, 1981, the amendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
+Election and designation of options.—In the case of an option granted before January 1, 1981, theamendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
 
 "(2)
 
@@ -180,7 +186,7 @@ Changes in terms of options.—In the case of an option granted on or after Janu
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Treatment of Options as Incentive Stock Options
 

@@ -32,7 +32,7 @@
 
 (3) Each packaged terminal air conditioner and packaged terminal heat pump manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in thecooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
+&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
 
 &emsp;(B) The minimum coefficient of performance (COP) of packaged terminal heat pumps in the heating mode shall be 1.3 + (0.16 x the minimum cooling EER as specified in subparagraph (A)) (at a standard rating of 47 degrees F db).
 
@@ -260,7 +260,7 @@ In general.—Single package vertical air conditioners and single package vertic
 
 &emsp;&emsp;(iv) The minimum energy efficiency ratio of single package vertical air conditioners at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6.
 
-&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
+&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps lessthan 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
 &emsp;&emsp;(vi) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
@@ -391,13 +391,13 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (5)(A) Not later than January 1, 2009, the Secretary shall issue, by rule, standard levels for ice-cream freezers, self-contained commercial refrigerators, freezers, and refrigerator-freezers without doors, and remote condensing commercial refrigerators, freezers, and refrigerator-freezers, with the standard levels effective for equipment manufactured on or after January 1, 2012.
 
-(B) The Secretary may issue, by rule, standard levels for other types of commercial refrigerators, freezers, and refrigerator-freezers not covered by paragraph (2)(A) with the standardlevels effective for equipment manufactured 3 or more years after the date on which the final rule is published.
+(B) The Secretary may issue, by rule, standard levels for other types of commercial refrigerators, freezers, and refrigerator-freezers not covered by paragraph (2)(A) with the standard levels effective for equipment manufactured 3 or more years after the date on which the final rule is published.
 
 (6)(A) Not later than January 1, 2013, the Secretary shall issue a final rule to determine whether the standards established under this subsection should be amended.
 
 (B) Not later than 3 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that the standards should not be amended, the Secretary shall issue a final rule to determine whether the standards established under this subsection or the amended standards, as applicable, should be amended.
 
-(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amended standards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
+(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amendedstandards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
@@ -455,7 +455,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
-&emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 yearsafter the date on which the final amended standard is published.
+&emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final amended standard is published.
 
 (4) A final rule issued under paragraph (2) or (3) shall establish standards at the maximum level that is technically feasible and economically justified, as provided in subsections (o) and (p) of section 6295 of this title.
 
@@ -571,13 +571,19 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
 
-(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570; Pub. L. 112–210, §§2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, 126 Stat. 1514, 1516, 1518, 1522, 1524; Pub. L. 113–188, title VI, §601(c), Nov. 26, 2014, 128 Stat. 2019.)
+#### (g) Lighting power supply circuits
+
+If the Secretary, acting pursuant to section 6312(b) of this title, includes as covered equipment solid state lighting power supply circuits, drivers, or devices described in section 6291(36)(A)(ii) of this title, the Secretary may prescribe under this part, not earlier than 1 year after the date on which a test procedure has been prescribed, an energy conservation standard for such equipment.
+
+(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570; Pub. L. 112–210, §§2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, 126 Stat. 1514, 1516, 1518, 1522, 1524; Pub. L. 113–188, title VI, §601(c), Nov. 26, 2014, 128 Stat. 2019; Pub. L. 115–115, §2(b)(2), Jan. 12, 2018, 131 Stat. 2280.)
 
 #### References in Text
 
 Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by Pub. L. 110–140, §313(b)(1)(A).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–115 added subsec. (g).
 
 <b>2014</b>—Subsec. (a)(6)(C)(v), (vi). Pub. L. 113–188, which directed amendment of subsec. (a)(6)(C) by striking cl. (v) and redesignating the cl. (vi) "as added by section 310(a)(4) of Public Law 112–110" as (v), was executed by striking cl. (v) and redesignating as (v) the cl. (vi) (relating to consideration of prices and operating patterns) which had been redesignated by section 10(a)(4) of Pub. L. 112–210, to reflect the probable intent of Congress. Prior to amendment, text of par. (v) read as follows: "The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph."
 
@@ -611,7 +617,7 @@ Subsec. (f)(6). Pub. L. 112–210, §2(2), added par. (6).
 
 Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 110–140, §305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of arulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
+Subsec. (a)(6). Pub. L. 110–140, §305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of a rulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
 
 Subsec. (a)(6)(B)(iii). Pub. L. 110–140, §306(c), added cl. (iii) at end.
 

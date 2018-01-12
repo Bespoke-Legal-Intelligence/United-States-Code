@@ -14,7 +14,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 &emsp;(3) the proposed minimization procedures meet the definition of minimization procedures under section 1801(h) of this title; and
 
-&emsp;(4) the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) <sup>1</sup> of this title and any other information furnished under section 1804(d) <sup>1</sup> of this title.
+&emsp;(4) the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) <sup>1</sup> of this title andany other information furnished under section 1804(d) <sup>1</sup> of this title.
 
 #### (b) Determination of probable cause
 
@@ -200,7 +200,7 @@ As originally enacted, Pub. L. 107–56, §225, amended this section by adding s
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(2). Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See2006 Amendment note below. Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by Pub. L. 114–23, which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.
+<b>2015</b>—Subsec. (c)(2). Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below. Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by Pub. L. 114–23, which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.
 
 Subsecs. (f) to (j). Pub. L. 114–23, §701(a), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 

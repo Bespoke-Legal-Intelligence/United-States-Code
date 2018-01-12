@@ -62,7 +62,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(D) coordinate actions of the Agency (including actions by headquarters and regional offices thereof) aimed at improving Great Lakes water quality; and
 
-&emsp;&emsp;(E) coordinate actions of the Agency with the actions of other Federal agencies and State and local authorities, so as to ensure the input of those agencies and authorities in developing water quality strategies and obtain the support of those agencies and authorities in achieving the objectives of such agreement.
+&emsp;&emsp;(E) coordinate actions of the Agency with the actions of other Federal agencies and State and local authorities, so as to ensure the input of those agencies and authorities in developing water quality strategies andobtain the support of those agencies and authorities in achieving the objectives of such agreement.
 
 #### (2) Great Lakes water quality guidance
 
@@ -106,11 +106,11 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;(C) by January 1, 1994, publish in the Federal Register a final Lakewide Management Plan for Lake Michigan and begin implementation.
 
-> &emsp;Nothing in this subparagraph shall preclude the simultaneous development of Lakewide Management Plans for the other Great Lakes.
+> &emsp;Nothing in this subparagraph <sup>2</sup> shall preclude the simultaneous development of Lakewide Management Plans for the other Great Lakes.
 
 #### (5) Spills of oil and hazardous materials
 
-&emsp;The Program Office, in consultation with the Coast Guard, shall identify areas within the Great Lakes which are likely to experience numerous or voluminous spills of oil or other hazardous materials from land based facilities, vessels, or other sources and, in consultation with the Great Lakes States, shall identify weaknesses in Federal and State programs and systems to prevent and respond to such spills. This information shall be included on at least a biennial basis in the report required by this section.
+&emsp;The Program Office, in consultation with the Coast Guard, shall identify areas within the Great Lakes which are likely to experience numerous or voluminous spills of oil or other hazardous materials from land based facilities, vessels, or other sources and, in consultation with the Great Lakes States, shall identify weaknesses in Federal and State programs and systems to prevent and respond to such spills. This information shall be includedon at least a biennial basis in the report required by this section.
 
 #### (6) 5-year plan and program
 
@@ -332,7 +332,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
 
-&emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a writtenproject agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
+&emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
 
 &emsp;&emsp;&emsp;(iv) unless the Administrator provides assurance that the Agency has conducted a reasonable inquiry to identify potentially responsible parties connected with the site.
 
@@ -416,7 +416,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator, acting through the Program Office and in coordination withStates, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
+&emsp;&emsp;The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
 
 #### (B) Authorization of appropriations
 
@@ -430,11 +430,11 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (2) Identification of issues
 
-&emsp;The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system <sup>2</sup> with respect to such issues.
+&emsp;The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system <sup>3</sup> with respect to such issues.
 
 #### (3) Inventory
 
-&emsp;The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system,<sup>2</sup> and shall update that inventory every four years.
+&emsp;The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system,<sup>3</sup> and shall update that inventory every four years.
 
 #### (4) Research exchange
 
@@ -442,7 +442,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (5) Research program
 
-&emsp;The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system.<sup>2</sup> The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
+&emsp;The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system.<sup>3</sup> The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
 
 #### (6) Monitoring
 
@@ -456,13 +456,13 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (1) Joint plan
 
-&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
+&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare ajoint research plan for the fiscal year which begins in the following calendar year.
 
 #### (2) Contents of plan
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>1</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -476,7 +476,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>1</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -740,7 +740,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) Help convene and establish a process for collaboration among the members of the Task Force and the members of the Working Group that is established in paragraph b(ii) of this section, with the Great Lakes States, local communities, tribes, regional bodies, and other interests in the Great Lakes region regarding policies, strategies, plans, programs, projects, activities, and priorities for the Great Lakes system.
 
-&emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakes region regarding policies, strategies, projects, and priorities for the Great Lakes system.
+&emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakesregion regarding policies, strategies, projects, and priorities for the Great Lakes system.
 
 &emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
 
@@ -762,7 +762,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
 
-&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineerswithin the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
+&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
 
 (c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
 
@@ -776,7 +776,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -16,7 +16,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (3) Appropriations authorized for establishment
 
-&emsp;There is hereby authorized to be appropriated to the Secretary $5,000,000 for making advances for the purpose of helping to establish the Association. Such advances shall be repaid within such period as the Secretary may deem to be appropriate in light of the maturity and solvency of the Association. Such advances shall bear interest at a rate not less than (A) a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining period to maturity comparable to the maturity of such advances, adjusted to the nearest one-eighth of 1 percent, plus (B) an allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses. Repayments of such advances shall be deposited into miscellaneous receipts of the Treasury.
+&emsp;There is hereby authorized to be appropriated to the Secretary $5,000,000 for making advances for the purpose of helping to establish the Association. Such advances shall berepaid within such period as the Secretary may deem to be appropriate in light of the maturity and solvency of the Association. Such advances shall bear interest at a rate not less than (A) a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining period to maturity comparable to the maturity of such advances, adjusted to the nearest one-eighth of 1 percent, plus (B) an allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses. Repayments of such advances shall be deposited into miscellaneous receipts of the Treasury.
 
 #### (c) Board of Directors
 
@@ -98,7 +98,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (e) Advances to lenders that do not discriminate
 
-The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of aloan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
+The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
 
 #### (f) Stock of the Association
 
@@ -112,7 +112,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (3) Dividends
 
-&emsp;To the extent that net income is earned and realized, subject to subsection (g)(2), dividends may be declared on voting common stock by the Board of Directors. Such dividends as may be declared by the Board of Directors shall be paid to the holders of outstanding shares of voting common stock, except that no such dividends shall be payable with respect to any share which has been called for redemption past the effective date of such call.
+&emsp;To the extent that net income is earned and realized, subject to subsection (g)(2), dividendsmay be declared on voting common stock by the Board of Directors. Such dividends as may be declared by the Board of Directors shall be paid to the holders of outstanding shares of voting common stock, except that no such dividends shall be payable with respect to any share which has been called for redemption past the effective date of such call.
 
 #### (4) Single class of voting common stock
 
@@ -184,13 +184,13 @@ The Association shall have power—
 
 &emsp;(7) to sell, convey, mortgage, pledge, lease, exchange, and otherwise dispose of its property and assets;
 
-&emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define theirduties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
+&emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
 &emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (j) Accounting, auditing, and reporting
 
-The accounts of the Association shall be audited annually. Such audits shall be conducted in accordance with generally accepted auditing standards by independent certified public accountants or by independent licensed public accountants, licensed on or before December 31, 1970, who are certified or licensed by a regulatory authority of a State or other political subdivision of the United States, except that independent public accountants licensed to practice by such regulatory authority after December 31, 1970, and persons who, although not so certified or licensed, meet, in the opinion of the Secretary, standards of education and experience representative of the highest standards prescribed by the licensing authorities of the several States which provide for the continuing licensing of public accountants and which are prescribed by the Secretary in appropriate regulations may perform such audits until December 31, 1975. A report of each such audit shall be furnished to the Secretary of the Treasury. The audit shall be conducted at the place or places where the accounts are normally kept. The representatives of the Secretary shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Association and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians.
+The accounts of the Association shall be audited annually. Such audits shall be conducted in accordance with generally accepted auditing standards by independent certified public accountants or by independent licensed public accountants, licensed on or before December 31, 1970, who are certified or licensed by a regulatory authority of a State or other political subdivision of the United States, except that independent public accountants licensed to practice by such regulatory authority after December 31, 1970, and persons who, although not so certified or licensed, meet, in the opinion of the Secretary, standards of education and experience representative of the highest standards prescribed by the licensing authorities of the several States which provide for the continuing licensing of public accountants and which are prescribed by the Secretary in appropriate regulations may perform such audits until December 31, 1975. A report of each such audit shall be furnished to the Secretary of the Treasury. Theaudit shall be conducted at the place or places where the accounts are normally kept. The representatives of the Secretary shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Association and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians.
 
 #### (k) Report on audits by Treasury
 
@@ -282,7 +282,7 @@ In general.—For each fiscal year beginning on or after October 1, 1996, the Se
 
 &emsp;&emsp;(ii)
 
-Deposit.—Amounts collected from assessments under this subparagraph shall be deposited in an account within the Treasury of the United States as designated by the Secretary of the Treasury for that purpose. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account the reasonable costs and expenses of carrying out the duties of the Secretary of the Treasury under this section and section 1087–3 of this title. None of the funds deposited into such account shall be available for any purpose other than making payments for such costs and expenses.
+Deposit.—Amounts collected from assessments under this subparagraph shall be deposited in an account within the Treasury of the United States as designated by the Secretary of the Treasury for that purpose. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account the reasonable costs and expenses of carrying out the duties ofthe Secretary of the Treasury under this section and section 1087–3 of this title. None of the funds deposited into such account shall be available for any purpose other than making payments for such costs and expenses.
 
 &emsp;(E)
 
@@ -336,11 +336,11 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of theTreasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
-&emsp;&emsp;If the Secretary of the Treasury does not approve a capital restoration plan as provided in subparagraph (A), then not later than the earlier of the date the Secretary of the Treasury disapproves of such plan by written notice to the Association or the expiration of the 30-day consideration period referred to in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall submit the Association's capital restoration plan, in the form most recently proposed to the Secretary of the Treasury by the Association, together with a report on the Secretary of the Treasury's reasons for disapproval of such plan and an alternative capital restoration plan, to the Chairman and ranking minority member of the Senate Committee on Labor and Human Resources and to the Chairman and ranking minority member of the House Committee on Education and Labor. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury.
+&emsp;&emsp;If the Secretary of the Treasury does not approve a capital restoration plan as provided in subparagraph (A), then not later than the earlier of the date the Secretary of the Treasury disapproves of such plan by written notice to the Association or the expiration of the 30-day consideration period referred to in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall submit the Association's capital restoration plan, in the form most recently proposed to the Secretary of the Treasury by the Association, together with a report onthe Secretary of the Treasury's reasons for disapproval of such plan and an alternative capital restoration plan, to the Chairman and ranking minority member of the Senate Committee on Labor and Human Resources and to the Chairman and ranking minority member of the House Committee on Education and Labor. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury.
 
 #### (C) Association implementation and response
 
@@ -358,7 +358,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (C) Review by Congress; Association implementation
 
-&emsp;&emsp;Congress shall have 60 legislative days after the date on which Congress receives the alternative plan under subparagraph (B) from the Secretary of the Treasury to review such plan. If Congress does not take statutory action with respect to any such plan within such 60-day period, the Association shall immediately proceed with diligence to implement the alternative capital restoration plan of the Secretary of the Treasury under subparagraph (B). If Congress is out of session when any such alternative plan is received, such 60-day periodshall begin on the first day of the next session of Congress.
+&emsp;&emsp;Congress shall have 60 legislative days after the date on which Congress receives the alternative plan under subparagraph (B) from the Secretary of the Treasury to review such plan. If Congress does not take statutory action with respect to any such plan within such 60-day period, the Association shall immediately proceed with diligence to implement the alternative capital restoration plan of the Secretary of the Treasury under subparagraph (B). If Congress is out of session when any such alternative plan is received, such 60-day period shall begin on the first day of the next session of Congress.
 
 #### (7) Actions by Secretary of the Treasury
 
@@ -518,7 +518,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Use of trust assets
 
-&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, anyremaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
+&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, any remaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
 
 #### (C) Obligations not transferred to the trust
 
@@ -674,7 +674,7 @@ Association Names.—Upon dissolution in accordance with section 439(s) of the H
 
 "(f)
 
-Right to Enforce.—The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of subsection (e), or may, under the direction or control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance with subsection (e)."
+Right to Enforce.—The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of subsection (e), or may, under the direction or control of the Attorney General, bring such an action. Such courtshall have jurisdiction and power to order and require compliance with subsection (e)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

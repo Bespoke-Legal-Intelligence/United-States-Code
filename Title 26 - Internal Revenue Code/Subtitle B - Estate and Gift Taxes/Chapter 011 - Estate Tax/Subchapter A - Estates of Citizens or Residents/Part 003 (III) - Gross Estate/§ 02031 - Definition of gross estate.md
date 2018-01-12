@@ -54,7 +54,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by thedonor in the conveyance of a qualified conservation easement.
+&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by the donor in the conveyance of a qualified conservation easement.
 
 #### (B) Termination of retained development right
 
@@ -128,7 +128,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;&emsp;<b>For executor's right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a),\(b), June 7, 2001, 115 Stat. 86; Pub. L. 113–295, div. A, title II, §221(a)(96), (97)(B), Dec. 19, 2014, 128 Stat. 4051.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a), (b), June 7, 2001, 115 Stat. 86; Pub. L. 113–295, div. A, title II, §221(a)(96), (97)(B), Dec. 19, 2014, 128 Stat. 4051.)
 
 #### References in Text
 

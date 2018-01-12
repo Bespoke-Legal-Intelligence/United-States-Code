@@ -40,7 +40,7 @@ It shall be unlawful for any person—
 
 &emsp;(16) to violate subsection (e) of section 825 of this title.<sup>2</sup>
 
-> As used in paragraph (11), the term "laboratory supply" means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratorysupply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.
+> As used in paragraph (11), the term "laboratory supply" means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the listreferred to under section 830(e)(1)(B)(v) of this title.
 
 #### (b) Manufacture
 
@@ -88,7 +88,7 @@ Subsec. (c)(1)(A). Pub. L. 113–260, §3(c)(2)(A), inserted ", (C), or (D)" af
 
 Subsec. (c)(1)(C), (D). Pub. L. 113–260, §3(c)(2)(B), added subpars. (C) and (D).
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–268, §4(4), inserted "For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title." at end of concluding provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–268, §4(4), inserted "For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributormay rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title." at end of concluding provisions.
 
 Subsec. (a)(10). Pub. L. 111–268, §5, inserted "or negligently to fail to self-certify as required under section 830 of this title" before semicolon.
 
@@ -139,6 +139,10 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub. L. 95–633 set out as an Effective Date note under section 830 of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Repeals
 

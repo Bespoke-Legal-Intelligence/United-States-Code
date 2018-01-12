@@ -44,7 +44,7 @@ Extension of Policies.—
 
 &emsp;(1)
 
-In general.—The Secretary shall extend through December 11, 2014, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers,and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+In general.—The Secretary shall extend through December 11, 2014, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 &emsp;(2)
 

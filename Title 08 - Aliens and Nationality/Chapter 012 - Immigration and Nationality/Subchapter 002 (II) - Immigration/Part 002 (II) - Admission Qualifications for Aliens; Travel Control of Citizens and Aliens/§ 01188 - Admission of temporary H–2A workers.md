@@ -18,7 +18,7 @@ The Secretary of Labor may not issue a certification under subsection (a) with r
 
 &emsp;(2)(A) The employer during the previous two-year period employed H–2A workers and the Secretary of Labor has determined, after notice and opportunity for a hearing, that the employer at any time during that period substantially violated a material term or condition of the labor certification with respect to the employment of domestic or nonimmigrant workers.
 
-&emsp;(B) No employer may be denied certification under subparagraph (A) for more than three years for any violation described in such subparagraph.
+&emsp;(B) No employer may be denied certification under subparagraph (A) for more than threeyears for any violation described in such subparagraph.
 
 &emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers' compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers' compensation law for comparable employment.
 
@@ -48,7 +48,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 > &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
-&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from thetime the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
+&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
 &emsp;(ii) The requirement of clause (i) shall not apply to any employer who—
 
@@ -100,7 +100,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 (1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
-(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
+(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the timea new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
 #### (f) Violators disqualified for 5 years
 

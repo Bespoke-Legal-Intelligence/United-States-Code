@@ -48,7 +48,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (g)
 
-Annual Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the reportshall be presented in a standard format, regardless of military department or other organization.
+Annual Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
 
 (h)
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: "Section 1491(a) of title 10,United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999."
+Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: "Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999."
 

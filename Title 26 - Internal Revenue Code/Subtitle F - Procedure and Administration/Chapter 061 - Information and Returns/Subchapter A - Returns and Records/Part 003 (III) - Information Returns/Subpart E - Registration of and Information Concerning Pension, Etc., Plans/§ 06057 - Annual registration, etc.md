@@ -100,7 +100,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1984 Amendments
 

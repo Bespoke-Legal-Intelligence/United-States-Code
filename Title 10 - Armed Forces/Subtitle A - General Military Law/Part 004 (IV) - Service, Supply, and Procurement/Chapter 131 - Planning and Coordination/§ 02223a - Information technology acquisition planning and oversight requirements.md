@@ -28,6 +28,170 @@ Program Components.—The program established under subsection (a) shall include
 
 (Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259.)
 
+#### Pilot Program To Use Agile or Iterative Development Methods To Tailor Major Software-Intensive Warfighting Systems and Defense Business Systems
+
+Pub. L. 115–91, div. A, title VIII, §873, Dec. 12, 2017, 131 Stat. 1498, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense, in consultation with the Secretaries of the military departments and the chiefs of the armed forces, shall establish a pilot program to tailor and simplify software development requirements and methods for major software-intensive warfighting systems and defense business systems.
+
+&emsp;"(2)
+
+Implementation plan for pilot program.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments and the chiefs of the armed forces, shall develop a plan for implementing the pilot program required under this subsection, including guidance for implementing the program and for selecting systems for participation in the program.
+
+&emsp;"(3)
+
+Selection of systems for pilot program.—
+
+&emsp;&emsp;"(A) The implementation plan shall require that systems be selected as follows:
+
+&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, one system per armed force and one defense-wide system, including at least one major defense acquisition program or major automated information system.
+
+&emsp;&emsp;&emsp;"(ii) For defense business systems, not fewer than two systems and not greater than eight systems.
+
+&emsp;&emsp;"(B) In selecting systems for participation, the Secretary shall prioritize systems as follows:
+
+&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, systems that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have identified software development as a high risk;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) have experienced cost growth and schedule delay; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) did not deliver any operational capability within the prior calendar year.
+
+&emsp;&emsp;&emsp;"(ii) For defense business systems, systems that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have experienced cost growth and schedule delay;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) did not deliver any operational capability within the prior calendar year; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) are underperforming other systems within a defense business system portfolio with similar user requirements.
+
+"(b)
+
+Realignment Plans.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after selecting a system for the pilot program under subsection (a)(3), the Secretary shall develop a plan for realigning the system by breaking down the system into smaller increments using agile or iterative development methods. The realignment plan shall include a revised cost estimate that is lower than the cost estimate for the system that was current as of the date of the enactment of this Act \[Dec. 12, 2017\].
+
+&emsp;"(2)
+
+Realignment execution.—Each increment for a realigned system shall—
+
+&emsp;&emsp;"(A) be designed to deliver a meaningfully useful capability within the first 180 days following realignment;
+
+&emsp;&emsp;"(B) be designed to deliver subsequent meaningfully useful capabilities in time periods of less than 180 days;
+
+&emsp;&emsp;"(C) incorporate multidisciplinary teams focused on software production that prioritize user needs and control of total cost of ownership;
+
+&emsp;&emsp;"(D) be staffed with highly qualified technically trained staff and personnel with management and business process expertise in leadership positions to support requirements modification, acquisition strategy, and program decisionmaking;
+
+&emsp;&emsp;"(E) ensure that the acquisition strategy for the realigned system is broad enough to allow for proposals of a service, system, modified business practice, configuration of personnel, or combination thereof for implementing the strategy;
+
+&emsp;&emsp;"(F) include periodic engagement with the user community, as well as representation by the user community in program management and software production activity;
+
+&emsp;&emsp;"(G) ensure that the acquisition strategy for the realigned system favors outcomes-based requirements definition and capability as a service, including the establishment of technical evaluation criteria as outcomes to be used to negotiate service-level agreements with vendors; and
+
+&emsp;&emsp;"(H) consider options for termination of the relationship with any vendor unable or unwilling to offer terms that meet the requirements of this section.
+
+"(c)
+
+Removal of Systems.—The Secretary may remove a system selected for the pilot program under subsection (a)(3) only after the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a written determination that indicates that the selected system has been unsuccessful in reducing cost or schedule growth, or is not meeting the overall needs of the pilot program.
+
+"(d)
+
+Education and Training in Agile or Iterative Development Methods.—
+
+&emsp;"(1)
+
+Training requirement.—The Secretary shall ensure that any personnel from the relevant organizations in each of the military departments and Defense Agencies participating in the pilot program, including organizations responsible for engineering, budgeting, contracting, test and evaluation, requirements validation, and certification and accreditation, receive targeted training in agile or iterative development methods, including the interim course required by section 891 of this Act \[10 U.S.C. 1746 note\].
+
+&emsp;"(2)
+
+Support.—In carrying out the pilot program under subsection (a), the Secretary shall ensure that personnel participating in the program provide feedback to inform the development of education and training curricula as required by section 891.
+
+"(e)
+
+Sunset.—The pilot program required under subsection (a) shall terminate on September 30, 2023. Any system selected under subsection (a)(3) for the pilot program shall continue after that date through the execution of its realignment plan.
+
+"(f)
+
+Agile or Iterative Development Defined.—In this section, the term 'agile or iterative development', with respect to software—
+
+&emsp;"(1) means acquisition pursuant to a method for delivering multiple, rapid, incremental capabilities to the user for operational use, evaluation, and feedback not exclusively linked to any single, proprietary method or process; and
+
+&emsp;"(2) involves—
+
+&emsp;&emsp;"(A) the incremental development and fielding of capabilities, commonly called 'spirals', 'spins', or 'sprints', which can be measured in a few weeks or months; and
+
+&emsp;&emsp;"(B) continuous participation and collaboration by users, testers, and requirements authorities."
+
+#### Global Theater Security Cooperation Management Information System
+
+Pub. L. 115–91, div. A, title XII, §1272, Dec. 12, 2017, 131 Stat. 1695, provided that:
+
+"(a)
+
+Update of Guidance.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall—
+
+&emsp;&emsp;"(A) update relevant security cooperation guidance issued by the Secretary for use of the Global Theater Security Cooperation Management Information System (in this section referred to as 'G-TSCMIS'), including guidance relating to the matters described in paragraph (3); and
+
+&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that contains such guidance.
+
+&emsp;"(2)
+
+Successor system.—Not later than 180 days after the date of the adoption of any security cooperation information system that is a successor to G-TSCMIS, the Secretary of Defense shall—
+
+&emsp;&emsp;"(A) update relevant security cooperation guidance issued by the Secretary for use of such system, including guidance relating to the matters described in paragraph (3); and
+
+&emsp;&emsp;"(B) submit to the congressional defense committees a report that contains such guidance.
+
+&emsp;"(3)
+
+Matters described.—The matters described in this paragraph are the following:
+
+&emsp;&emsp;"(A) Designation of an authoritative data repository for security cooperation information, with enforceable data standards and data controls.
+
+&emsp;&emsp;"(B) Responsibilities for entry of data relating to programs and activities into the system.
+
+&emsp;&emsp;"(C) Oversight and accountability measures to ensure the full scope of activities are entered into the system consistently and in a timely manner.
+
+&emsp;&emsp;"(D) Such other matters as the Secretary considers appropriate.
+
+"(b)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the adoption of any security cooperation information system that is the successor to G-TSCMIS, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a review of measures for evaluating the system in order to comply with guidance required by subsection (a).
+
+&emsp;"(2)
+
+Elements.—The review required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An evaluation of the impacts of inconsistent information on the system's functionality as a tool for planning, resource allocation, and adjustment.
+
+&emsp;&emsp;"(B) An evaluation of the effectiveness of oversight and accountability measures.
+
+&emsp;&emsp;"(C) An evaluation of feedback from the operational community to inform future requirements.
+
+&emsp;&emsp;"(D) Such other matters as the Secretary considers appropriate.
+
+&emsp;"(3)
+
+Form.—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex."
+
 #### Guidance on Acquisition of Business Systems
 
 Pub. L. 114–92, div. A, title VIII, §883(e), Nov. 25, 2015, 129 Stat. 947, provided that: "The Secretary of Defense shall issue guidance for major automated information systems acquisition programs to promote the use of best acquisition, contracting, requirement development, systems engineering, program management, and sustainment practices, including—
@@ -166,7 +330,7 @@ Open systems approach.—The term 'open systems approach' means, with respect to
 
 &emsp;&emsp;"(A) employs a modular design and uses widely supported and consensus-based standards for key interfaces;
 
-&emsp;&emsp;"(B) is subjected to successful validation and verification tests to ensure key interfaces comply withwidely supported and consensus-based standards; and
+&emsp;&emsp;"(B) is subjected to successful validation and verification tests to ensure key interfaces comply with widely supported and consensus-based standards; and
 
 &emsp;&emsp;"(C) uses a system architecture that allows components to be added, modified, replaced, removed, or supported by different vendors throughout the lifecycle of the system to afford opportunities for enhanced competition and innovation while yielding—
 
@@ -256,7 +420,7 @@ Report.—At the same time the budget of the President for fiscal year 2015 is s
 
 #### Data Servers and Centers
 
-Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, as amended by Pub. L. 112–239, div. B, title XXVIII, §2853, Jan. 2, 2013, 126 Stat. 2161, provided that:
+Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, as amended by Pub. L. 112–239, div. B, title XXVIII, §2853, Jan. 2, 2013, 126 Stat. 2161; Pub. L. 115–91, div. A, title X, §1051(q)(3), Dec. 12, 2017, 131 Stat. 1565, provided that:
 
 "(a)
 
@@ -268,7 +432,7 @@ Limitations.—
 
 &emsp;&emsp;"(A)
 
-Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Departmentof Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
+Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
 
 &emsp;&emsp;"(B)
 
@@ -364,23 +528,7 @@ Intelligence components.—The Chief Information Officer of the Department and t
 
 &emsp;"(2)
 
-Research, development, test, and evaluation programs.—The Chief Information Officer of the Department may exempt from the applicability of this section research, development, test, and evaluation programs that use authorization of appropriations for the High Performance Computing Modernization Program (Program Element 0603461A) if the Chief Information Officer determines that the exemption is in the best interest of national security.
-
-"(d)
-
-Reports on Cost Savings.—
-
-&emsp;"(1)
-
-In general.—Not later than March 1 of each fiscal year, and ending in fiscal year 2016, the Chief Information Officer of the Department shall submit to the appropriate committees of Congress a report on the cost savings, cost reductions, cost avoidances, and performance gains achieved, and anticipated to be achieved, as of the date of such report as a result of activities undertaken under this section.
-
-&emsp;"(2)
-
-Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
-
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
-
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
+Research, development, test, and evaluation programs.—The Chief Information Officer of the Department may exempt from the applicability of this section research, development, test, and evaluation programs that use authorization of appropriations for the High Performance Computing Modernization Program (Program Element 0603461A) if the Chief Information Officer determines that the exemption is in the best interest of national security."
 
 #### Demonstration and Pilot Projects on Cybersecurity
 
@@ -418,7 +566,7 @@ Reports.—
 
 &emsp;"(1)
 
-Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress a report on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
+Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress areport on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
 
 &emsp;"(2)
 

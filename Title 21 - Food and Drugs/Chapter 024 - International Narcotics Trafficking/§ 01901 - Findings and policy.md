@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
 
-&emsp;(4) There is a national emergency resulting from the activities of international narcoticstraffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
+&emsp;(4) There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
 
 #### (b) Policy
 

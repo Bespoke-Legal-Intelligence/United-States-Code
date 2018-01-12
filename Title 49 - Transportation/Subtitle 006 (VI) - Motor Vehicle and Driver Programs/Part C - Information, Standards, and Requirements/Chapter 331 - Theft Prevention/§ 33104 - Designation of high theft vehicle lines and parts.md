@@ -18,7 +18,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 (5) A manufacturer may not be required to comply with the standard under a selection under paragraph (3) of this subsection for a model year beginning earlier than 6 months after the date of the selection.
 
-(6) A passenger motor vehicle line subject on October 25, 1992, to parts marking requirements under sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947), as added by section 101(a) of the Motor Vehicle Theft Law Enforcement Actof 1984 (Public Law 98–547, 98 Stat. 2756), continues to be subject to the requirements of this section and section 33102 of this title unless the line is exempted under section 33106 of this title.
+(6) A passenger motor vehicle line subject on October 25, 1992, to parts marking requirements under sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act (Public Law 92–513, 86 Stat. 947), as added by section 101(a) of the Motor Vehicle Theft Law Enforcement Act of 1984 (Public Law 98–547, 98 Stat. 2756), continues to be subject to the requirements of this section and section 33102 of this title unless the line is exempted under section 33106 of this title.
 
 (b)
 

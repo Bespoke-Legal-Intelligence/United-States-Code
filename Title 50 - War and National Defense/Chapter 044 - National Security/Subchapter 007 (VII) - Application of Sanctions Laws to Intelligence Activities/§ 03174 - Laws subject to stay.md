@@ -14,7 +14,7 @@ Title XVII of the National Defense Authorization Act for Fiscal Year 1991, refer
 
 The Iran-Iraq Arms Nonproliferation Act of 1992, referred to in text, is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, as amended, which is set out as a note under section 1701 of this title.
 
-Section 573 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1994, referred to in text, probably means section 573 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994, Pub. L. 103–87, title V,Sept. 30, 1993, 107 Stat. 972, which is not classified to the Code.
+Section 573 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1994, referred to in text, probably means section 573 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994, Pub. L. 103–87, title V, Sept. 30, 1993, 107 Stat. 972, which is not classified to the Code.
 
 Section 563 of the Foreign Operations, Export Financing Related Programs Appropriations Act, 1995, referred to in text, probably means section 563 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995, Pub. L. 103–306, title V, Aug. 23, 1994, 108 Stat. 1649, which is not classified to the Code.
 

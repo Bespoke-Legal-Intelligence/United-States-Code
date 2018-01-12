@@ -2,7 +2,7 @@
 
 #### (a) Federal control prohibited
 
-Nothing in this subchapter shall be construed to permit, allow, encourage, or authorize any Federal control over any aspect of any private, religious, or home school, whether or not a home school is treated as a private school or home school under State law. This section shallnot be construed to prohibit private, religious, or home schools from participation in programs or services under this subchapter.
+Nothing in this subchapter shall be construed to permit, allow, encourage, or authorize any Federal control over any aspect of any private, religious, or home school, whether or not a home school is treated as a private school or home school under State law. This section shall not be construed to prohibit private, religious, or home schools from participation in programs or services under this subchapter.
 
 #### (b) No change in State control encouraged or required
 
@@ -64,7 +64,7 @@ Section 1047c, Pub. L. 89–329, title II, §244, as added Pub. L. 96–374, tit
 
 Section 1047d, Pub. L. 89–329, title II, §245, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to director and staff of National Periodical System Corporation.
 
-Section 1047e, Pub. L. 89–329, title II, §246, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388,related to nonprofit nature of National Periodical System Corporation.
+Section 1047e, Pub. L. 89–329, title II, §246, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to nonprofit nature of National Periodical System Corporation.
 
 Section 1047f, Pub. L. 89–329, title II, §247, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1388, related to authority of National Periodical System Corporation.
 

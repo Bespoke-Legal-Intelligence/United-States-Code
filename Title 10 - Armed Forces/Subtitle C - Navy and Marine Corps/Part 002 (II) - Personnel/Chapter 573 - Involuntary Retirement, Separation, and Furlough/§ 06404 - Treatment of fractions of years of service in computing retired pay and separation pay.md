@@ -2,7 +2,7 @@
 
 In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 96–513, title V, §503(50), Dec. 12, 1980, 94 Stat.2915; Pub. L. 98–94, title IX, §923(c)(4), Sept. 24, 1983, 97 Stat. 643.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 96–513, title V, §503(50), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 98–94, title IX, §923(c)(4), Sept. 24, 1983, 97 Stat. 643.)
 
 Historical and Revision Notes
 

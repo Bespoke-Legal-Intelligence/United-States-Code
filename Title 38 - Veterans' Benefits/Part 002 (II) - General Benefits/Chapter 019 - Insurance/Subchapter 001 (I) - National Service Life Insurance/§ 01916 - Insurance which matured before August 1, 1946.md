@@ -8,7 +8,7 @@
 
 &emsp;(3) If elected by the insured or a beneficiary entitled to make such an election under prior provisions of law, as a refund life income in monthly installments payable for such period certain as may be required in order that the sum of the installments certain, including a last installment of such reduced amount as may be necessary, shall equal the face value of the contract, less any indebtedness, with such payments continuing throughout the lifetime of the first beneficiary. A refund life income optional settlement is not available in any case in which such settlement would result in payments of installments over a shorter period than one hundred and twenty months. If the mode of payment is changed to a refund life income in accordance with prior provisions of law, after payment has commenced, payment of monthly installments will be adjusted as of the date of maturity of such policy with credit being allowed for payments previously made on the insurance.
 
-(b) Such insurance shall be payable only to a widow, widower, child, parent, brother or sister of the insured. Any installments certain of suchinsurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the following classes, and in the order named, unless designated by the insured in a different order:
+(b) Such insurance shall be payable only to a widow, widower, child, parent, brother or sister of the insured. Any installments certain of such insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the following classes, and in the order named, unless designated by the insured in a different order:
 
 &emsp;(1) To the widow or widower of the insured, if living.
 
@@ -26,7 +26,7 @@
 
 (f) Any payments of insurance made to a person, represented by the insured to be within the permitted class of beneficiaries, shall be deemed to have been properly made and to satisfy fully the obligation of the United States under such insurance policy to the extent of such payments.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, §716; Pub. L. 99–576, title VII, §701(27), Oct. 28, 1986, 100 Stat. 3292; renumbered §1916 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, §506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, §716; Pub. L. 99–576, title VII, §701(27), Oct. 28, 1986, 100Stat. 3292; renumbered §1916 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, §506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
 
 #### References in Text
 

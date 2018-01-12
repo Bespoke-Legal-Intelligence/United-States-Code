@@ -2,7 +2,7 @@
 
 (a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
-(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit undersection 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
+(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
 (c)(1) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from the member's pay in monthly installments.
 
@@ -44,7 +44,7 @@
 
 (g) An amount due the United States from an officer of the Army or the Air Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
 
-(h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed bya member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
+(h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
 (2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
 
@@ -258,5 +258,5 @@ Pub. L. 100–180, div. A, title VI, §633(b), Dec. 4, 1987, 101 Stat. 1106, pro
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

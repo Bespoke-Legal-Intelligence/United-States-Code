@@ -8,7 +8,7 @@
 
 &emsp;(B) a joint resolution of the two Houses of Congress, the matter after the resolving clause of which is as follows: "That the Congress does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.", with the first blank space being filled in accordance with paragraph (2), and the second blank space being filled with the appropriate date.
 
-(2) The first blank space referred to in paragraph (1)(B) shall be filled, in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase "the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_" (with the first blank space being filled with "402(b)" or "409(b)", as appropriate, and the second blank space being filled with the name of the country involved).
+(2) The first blank space referred to in paragraph (1)(B) shall be filled, in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase "the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_" (with the first blank space being filled with "402(b)" or"409(b)", as appropriate, and the second blank space being filled with the name of the country involved).
 
 #### (b) Reference to committees
 
@@ -26,7 +26,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 #### (d) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. Anamendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on a resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to, or motion to recommit, the resolution shall be in order. It shall not be in order to move to reconsider the vote by which a resolution is agreed to or disagreed to.
 
@@ -54,7 +54,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(ii) If a resolution to which this section applies was introduced in the Senate before receipt of a resolution that has passed the House of Representatives, the resolution from the House of Representatives shall, when received in the Senate, be placed on the calendar. If this clause applies, the procedures in the Senate with respect to a resolution introduced in the Senate that contains the identical matter as the resolution that passed the House of Representatives shall be the same as if no resolution had been received from the House of Representatives, except that the vote on passage in the Senate shall be on the resolution that passed the House of Representatives.
 
-&emsp;(B) If the Senate passes a resolution before receiving from the House of Representatives a joint resolution that contains the identical matter, the joint resolution shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of the joint resolution from the House of Representatives, such joint resolution shall be deemed to be read twice, considered, read the third time, and passed.
+&emsp;(B) If the Senate passes a resolution before receiving from the House of Representatives a joint resolution that contains the identicalmatter, the joint resolution shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of the joint resolution from the House of Representatives, such joint resolution shall be deemed to be read twice, considered, read the third time, and passed.
 
 (2) If the texts of joint resolutions described in this section or section 2193(a) of this title, whichever is applicable, concerning any matter are not identical—
 

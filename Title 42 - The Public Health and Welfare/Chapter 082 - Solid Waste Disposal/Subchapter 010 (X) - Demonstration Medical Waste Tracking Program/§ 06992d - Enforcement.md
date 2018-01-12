@@ -16,7 +16,7 @@
 
 #### (4) Violation of compliance orders
 
-&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
+&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than$25,000 for each day of continued noncompliance with the order.
 
 #### (b) Criminal penalties
 
@@ -32,7 +32,7 @@ Any person who—
 
 #### (c) Knowing endangerment
 
-Any person who knowingly violates any provision of subsection (b) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under section 6928(f) of this title.
+Any person who knowingly violates any provision of subsection (b) who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under section 6928(f) of this title.
 
 #### (d) Civil penalties
 

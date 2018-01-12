@@ -2,7 +2,7 @@
 
 #### (a) Persons liable
 
-If any facility with respect to which funds have been paid under this subchapter shall, atany time within 20 years after the completion of construction or modernization—
+If any facility with respect to which funds have been paid under this subchapter shall, at any time within 20 years after the completion of construction or modernization—
 
 &emsp;(1) be sold or transferred to any entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or (B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor, or
 
@@ -68,7 +68,7 @@ A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–64
 
 <b>1984</b>—Pub. L. 98–369 amended section generally. Prior to the amendment, section read as follows:
 
-"(a) If any facility constructed, modernized, or converted with funds provided under this subchapter is, atany time within twenty years after the completion of such construction, modernization, or conversion with such funds—
+"(a) If any facility constructed, modernized, or converted with funds provided under this subchapter is, at any time within twenty years after the completion of such construction, modernization, or conversion with such funds—
 
 &emsp;"(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or (B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor; or
 

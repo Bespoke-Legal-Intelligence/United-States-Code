@@ -12,7 +12,7 @@ The Administrator shall—
 
 &emsp;(2) examine in consultation and coordination with the Secretary of Defense and the heads of other relevant Federal agencies and departments, including the General Services Administration, Federal procurement practices with respect to class I and class II substances and recommend measures to promote the transition by the Federal Government, as expeditiously as possible, to the use of safe substitutes;
 
-&emsp;(3) specify initiatives, including appropriate intergovernmental, international, and commercial information and technology transfers,to promote the development and use of safe substitutes for class I and class II substances, including alternative chemicals, product substitutes, and alternative manufacturing processes; and
+&emsp;(3) specify initiatives, including appropriate intergovernmental, international, and commercial information and technology transfers, to promote the development and use of safe substitutes for class I and class II substances, including alternative chemicals, product substitutes, and alternative manufacturing processes; and
 
 &emsp;(4) maintain a public clearinghouse of alternative chemicals, product substitutes, and alternative manufacturing processes that are available for products and manufacturing processes which use class I and class II substances.
 
@@ -28,7 +28,7 @@ Within 2 years after November 15, 1990, the Administrator shall promulgate rules
 
 #### (d) Right to petition
 
-Any person may petition the Administrator to add a substance to the lists under subsection (c) of this section or to remove a substance from either of such lists. The Administrator shall grant or deny the petition within 90 days after receipt of any such petition. If the Administrator denies the petition, the Administrator shall publish an explanation of why the petition was denied. If the Administrator grants such petition the Administrator shall publish such revised list within 6 months thereafter. Any petition under this subsection shall include a showing by the petitioner that there are data on the substance adequate to support the petition. If the Administrator determines that information on the substance is not sufficient to make a determination under this subsection, the Administrator shall use any authority available to the Administrator, under any law administered by the Administrator, to acquire such information.
+Any person may petition the Administrator to add a substance to the lists under subsection (c) or to remove a substance from either of such lists. The Administrator shall grant or deny the petition within 90 days after receipt of any such petition. If the Administrator denies the petition, the Administrator shall publish an explanation of why the petition was denied. If the Administrator grants such petition the Administrator shall publish such revised list within 6 months thereafter. Any petition under this subsection shall include a showing by the petitioner that there are data on the substance adequate to support the petition. If the Administrator determines that information on the substance is not sufficient to make a determination under this subsection, the Administrator shall use any authority available to the Administrator, under any law administered by the Administrator, to acquire such information.
 
 #### (e) Studies and notification
 

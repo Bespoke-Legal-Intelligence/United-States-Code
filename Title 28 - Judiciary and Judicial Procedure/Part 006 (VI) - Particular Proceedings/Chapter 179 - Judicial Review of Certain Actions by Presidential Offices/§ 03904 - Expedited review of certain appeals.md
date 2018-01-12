@@ -10,3 +10,7 @@ Jurisdiction.—The Supreme Court shall, if it has not previously ruled on the q
 
 (Added Pub. L. 104–331, §3(c), Oct. 26, 1996, 110 Stat. 4070.)
 
+#### Effective Date
+
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under section 1296 of this title.
+

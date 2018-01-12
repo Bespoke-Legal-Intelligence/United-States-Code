@@ -4,7 +4,7 @@
 
 #### (1) Major Federal action
 
-&emsp;The issuance of a license under sections 2073 and 2093 of this title for the construction and operation of any uranium enrichment facility shall be considered a major Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;The issuance of a license under sections 2073 and 2093 of this title for the construction and operation of any uranium enrichment facility shall be considered a major Federal action significantly affecting the quality of the humanenvironment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Timing
 
@@ -32,7 +32,7 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 (1) The Commission shall require, as a condition of the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
 
-(2) The Commission shall require, as a condition for the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee provide adequateassurance of the availability of funds for the decommissioning (including decontamination) of such facility using funding mechanisms that may include, but are not necessarily limited to, the following:
+(2) The Commission shall require, as a condition for the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee provide adequate assurance of the availability of funds for the decommissioning (including decontamination) of such facility using funding mechanisms that may include, but are not necessarily limited to, the following:
 
 &emsp;(A) Prepayment (in the form of a trust, escrow account, government fund, certificate of deposit, or deposit of government securities).
 

@@ -6,7 +6,9 @@
 
 &emsp;(A) Registered nurse.
 
-&emsp;(B) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, andregistered nurse) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+&emsp;(B) Physician assistant.
+
+&emsp;(C) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, registered nurse, and physician assistant) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)(A) Except as provided in subparagraph (B), the rates of basic pay for covered positions in the Department shall be established and adjusted in accordance with this section instead of subsection (b)(1) of section 7404 of this title or chapter 53 of title 5.
 
@@ -62,7 +64,7 @@
 
 &emsp;(A) The term "beginning rate of compensation", with respect to health-care personnel positions in non-Department health-care facilities corresponding to a grade of a covered position, means the sum of—
 
-&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who have education, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
+&emsp;&emsp;(i) the minimum rate of pay established for personnel in such positions who haveeducation, training, and experience equivalent or similar to the education, training, and experience required for health-care personnel employed in the same category of Department covered positions; and
 
 &emsp;&emsp;(ii) other employee benefits for those positions to the extent that those benefits are reasonably quantifiable.
 
@@ -102,7 +104,7 @@
 
 (f) For the purposes of this section, the term "health-care facility" means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23,2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, §212, Aug. 12, 2017, 131 Stat. 967.)
 
 #### References in Text
 
@@ -114,6 +116,8 @@ The General Schedule, referred to in subsec. (d)(1)(A), is set out under section
 
 #### Amendments
 
+<b>2017</b>—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted "registered nurse, and physician assistant" for "and registered nurse".
+
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–163, §601(g), (h), substituted "level IV" for "level V" and inserted at end "The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence."
 
 Subsec. (d)(3)(F). Pub. L. 111–163, §601(j)(1), added subpar. (F).
@@ -122,7 +126,7 @@ Subsec. (e)(4)(D), (E). Pub. L. 111–163, §601(j)(2), added subpar. (D) and re
 
 Subsec. (e)(6). Pub. L. 111–163, §601(j)(3), added par. (6).
 
-Subsecs. (f), (g). Pub. L. 111–163, §501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report regarding any pay adjustments under theauthority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase."
+Subsecs. (f), (g). Pub. L. 111–163, §501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase."
 
 <b>2002</b>—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out "beginning rates of" before "compensation for corresponding health-care professionals" in two places.
 
@@ -266,7 +270,7 @@ Pub. L. 105–368, title IX, §905, Nov. 11, 1998, 112 Stat. 3361, provided that
 
 "(a)
 
-Report Required.—(1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 (Public Law 101–366) and now set forth in section 7451 of title 38, United States Code.
+Report Required.—(1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submitto the Committees on Veterans' Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 (Public Law 101–366) and now set forth in section 7451 of title 38, United States Code.
 
 "(2) The Secretary shall submit with the report under paragraph (1) a copy of the report on the locality pay system prepared by the contractor pursuant to a contract with Systems Flow, Inc., that was entered into on May 22, 1998.
 
@@ -288,7 +292,7 @@ Updated Report.—Not later than February 1, 2000, the Secretary shall submit to
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended bytitle I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Nursing Personnel Qualification Standards
 

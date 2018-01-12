@@ -50,7 +50,7 @@ Alternatives to Live In-Court Testimony.—
 
 Child's live testimony by 2-way closed circuit television.—
 
-&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 7 days before the trial date, unlessthe court finds on the record that the need for such an order was not reasonably foreseeable.
+&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 7 days before the trial date, unless the court finds on the record that the need for such an order was not reasonably foreseeable.
 
 &emsp;&emsp;(B) The court may order that the testimony of the child be taken by closed-circuit television as provided in subparagraph (A) if the court finds that the child is unable to testify in open court in the presence of the defendant, for any of the following reasons:
 
@@ -78,7 +78,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;(2)
 
-Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
+Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for anorder that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
 
 &emsp;(B)(i) Upon timely receipt of an application described in subparagraph (A), the court shall make a preliminary finding regarding whether at the time of trial the child is likely to be unable to testify in open court in the physical presence of the defendant, jury, judge, and public for any of the following reasons:
 
@@ -112,7 +112,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 &emsp;(v)
 
-Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. Thevideotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
+Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. The videotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
 
 &emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support a ruling under this subparagraph with findings on the record.
 
@@ -162,7 +162,7 @@ Not before jury.—A competency examination regarding a child witness shall be c
 
 &emsp;(7)
 
-Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
+Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on thebasis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
 &emsp;(8)
 
@@ -236,7 +236,7 @@ In general.—A multidisciplinary child abuse team shall be used when it is feas
 
 Role of multidisciplinary child abuse teams.—The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
-&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation of x-rays, laboratory tests, and related services, as needed, and documentation of findings;
+&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation ofx-rays, laboratory tests, and related services, as needed, and documentation of findings;
 
 &emsp;&emsp;(B) telephone consultation services in emergencies and in other situations;
 
@@ -268,7 +268,7 @@ Immunities.—A guardian ad litem shall be presumed to be acting in good faith a
 
 (i)
 
-Adult Attendant.—A child testifying at or attending a judicial proceeding shall have the right to be accompanied by an adult attendant to provide emotional support to the child. The court, at its discretion, may allow the adult attendant to remain in close physical proximity to or in contact with the child while the child testifies. The court may allow the adult attendant to hold the child's hand or allow the child to siton the adult attendant's lap throughout the course of the proceeding. An adult attendant shall not provide the child with an answer to any question directed to the child during the course of the child's testimony or otherwise prompt the child. The image of the child attendant, for the time the child is testifying or being deposed, shall be recorded on videotape.
+Adult Attendant.—A child testifying at or attending a judicial proceeding shall have the right to be accompanied by an adult attendant to provide emotional support to the child. The court, at its discretion, may allow the adult attendant to remain in close physical proximity to or in contact with the child while the child testifies. The court may allow the adult attendant to hold the child's hand or allow the child to sit on the adult attendant's lap throughout the course of the proceeding. An adult attendant shall not provide the child with an answer to any question directed to the child during the course of the child's testimony or otherwise prompt the child. The image of the child attendant, for the time the child is testifying or being deposed, shall be recorded on videotape.
 
 (j)
 
@@ -292,7 +292,7 @@ Prohibition on Reproduction of Child Pornography.—
 
 &emsp;(B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
-(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
+(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, titleXXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ Subject to subsection (e), if the Secretary determines that a State has material
 
 #### (2) Termination of withholding
 
-&emsp;The Secretary shall cease withholding payments from a State under paragraph (1) if the Secretary determines that there are reasonable assurances that the State will expend amounts received under the program involvedin accordance with the agreements required under the program.
+&emsp;The Secretary shall cease withholding payments from a State under paragraph (1) if the Secretary determines that there are reasonable assurances that the State will expend amounts received under the program involved in accordance with the agreements required under the program.
 
 #### (d) Applicability of remedies to certain violations
 

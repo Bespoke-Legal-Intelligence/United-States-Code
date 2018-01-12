@@ -52,7 +52,7 @@ Prior similar provisions were set out in section 38 of this title.
 
 Pub. L. 105–220, §341(c)(1), inserted "and the Smithsonian Institution" after "Government" in fourth sentence.
 
-Subsec. (b). Pub. L. 105–220, §341(c)(2), in first sentence, inserted "and the Smithsonian Institution" after "in the executive branch" and substituted "such department, agency, instrumentality, or Institution" for "such department, agency, or instrumentality".
+Subsec. (b). Pub. L. 105–220, §341(c)(2), in first sentence, inserted "and the Smithsonian Institution"after "in the executive branch" and substituted "such department, agency, instrumentality, or Institution" for "such department, agency, or instrumentality".
 
 Subsec. (d). Pub. L. 105–220, §341(c)(3), inserted "and the Smithsonian Institution" after "instrumentality".
 
@@ -178,7 +178,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 #### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R.4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 #### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
@@ -238,7 +238,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 &emsp;(10) Encourage the use of informal dispute resolution processes to allow individuals with disabilities to obtain prompt reconsideration of denials of reasonable accommodation. Agencies must also inform individuals with disabilities that they have the right to file complaints in the Equal Employment Opportunity process and other statutory processes, as appropriate, if their requests for reasonable accommodation are denied.
 
-Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commis</i><i>sion (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
+Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
 
 Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
 

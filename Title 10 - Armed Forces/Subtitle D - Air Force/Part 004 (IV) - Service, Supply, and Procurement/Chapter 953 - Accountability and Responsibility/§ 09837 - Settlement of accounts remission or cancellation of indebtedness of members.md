@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the Air Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
+In General.—The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the UnitedStates incurred while the person was serving as a member of the Air Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
 
 (b)
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with resp
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, andas if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 #### Termination Date of 2006 Amendment
 

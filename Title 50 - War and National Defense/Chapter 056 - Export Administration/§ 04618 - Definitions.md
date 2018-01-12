@@ -48,5 +48,5 @@ Pars. (5) to (8). Pub. L. 99–64, §117(3), (4), added pars. (5) to (7) and red
 
 #### Delegation of Functions
 
-Functions conferred upon President under this section delegated to Secretary of Commerce by Ex. Ord. No. 12214, May 2, 1980, 45 F.R. 29783, set out under section 4603 of this title.
+Functions conferred upon President under this section delegated to Secretary of Commerce by Ex. Ord.No. 12214, May 2, 1980, 45 F.R. 29783, set out under section 4603 of this title.
 

@@ -88,7 +88,7 @@ Until a majority of the voting members of the board of directors of the Corporat
 
 #### References in Text
 
-January 6, 1988, referred to in subsecs. (e) and (f)(3), was in the original "the enactment of this section", "the date of the enactment of this section", and "such date of enactment", which were translated as meaning the date of enactment of Pub. L. 100–233, which amended this section generally, to reflect the probable intent of Congress.
+January 6, 1988, referred to in subsecs. (e) and (f)(3), was in the original "the enactment of this section","the date of the enactment of this section", and "such date of enactment", which were translated as meaning the date of enactment of Pub. L. 100–233, which amended this section generally, to reflect the probable intent of Congress.
 
 Section 2156 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 100–233, title II, §204(b), Jan. 6, 1988, 101 Stat. 1607.
 

@@ -86,7 +86,7 @@ The Secretary of Agriculture (hereinafter referred to as "the Secretary") is aut
 
 #### (7) Effect on existing authorized activities and facilities
 
-&emsp;Nothing in this subsection affects any activity or facility authorized by a ski area permit in effect on November 7, 2011, during the term of the permit.
+&emsp;Nothing in this subsection affects any activity or facility authorized by a ski area permitin effect on November 7, 2011, during the term of the permit.
 
 #### (d) Regulations
 
@@ -140,7 +140,7 @@ Pub. L. 112–46, §4, Nov. 7, 2011, 125 Stat. 540, provided that: "Nothing in t
 
 Pub. L. 112–46, §2, Nov. 7, 2011, 125 Stat. 538, provided that: "The purpose of this Act \[see Short Title of 2011 Amendment note above\] is to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
 
-&emsp;"(1) to enable snow-sports (other than nordic and alpine skiing) to be permitted on National ForestSystem land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
+&emsp;"(1) to enable snow-sports (other than nordic and alpine skiing) to be permitted on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
 
 &emsp;"(2) to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)."
 

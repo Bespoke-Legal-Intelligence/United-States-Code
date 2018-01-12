@@ -50,6 +50,10 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 
 Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: "This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the 'Atlantic Striped Bass Conservation Act Amendments of 1997'."
 
+#### Limitation on Funding for Fishery Management Plan for the Reef Fish Resources of the Gulf of Mexico
+
+Pub. L. 115–31, div. B, title I, §110, May 5, 2017, 131 Stat. 191, provided that: "None of the funds appropriated or otherwise made available in this or any other Act, with respect to any fiscal year, may be used in contravention of section 110 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2016 (Public Law 114–113) \[129 Stat. 2295\]."
+
 #### Longline Catcher Processor Subsector Single Fishery Cooperative
 
 Pub. L. 111–335, Dec. 22, 2010, 124 Stat. 3583, provided that:
@@ -94,7 +98,7 @@ Status Quo Fishery.—If the longline catcher processor subsector does not submi
 
 &emsp;"(1) harvest the total amount of BSAI Pacific cod total allowable catch, less any amount allocated to the longline catcher processor subsector non-cooperative limited access fishery;
 
-&emsp;"(2) utilize the total amount of BSAI Pacific cod prohibited species catch allocation, less any amount allocated to a longline catcher processor subsector non-cooperative limited access fishery; and
+&emsp;"(2) utilize the total amount of BSAI Pacific cod prohibited species catch allocation, less any amountallocated to a longline catcher processor subsector non-cooperative limited access fishery; and
 
 &emsp;"(3) harvest any reallocation of Pacific cod to the longline catcher processor subsector during a fishing year by the Secretary.
 
@@ -194,7 +198,7 @@ Secretary.—The term 'Secretary' means the Secretary of Commerce."
 
 #### Gulf of Alaska Rockfish Demonstration Program
 
-Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, §218, Jan. 12, 2007, 120 Stat. 3621, which directed the Secretary of Commerce to establish a pilot program for management of pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in the Central Gulf of Alaska, expired Dec. 31, 2011. See 76 F.R. 81248.
+Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, §218, Jan. 12, 2007, 120 Stat. 3621, which directed the Secretary of Commerce to establish a pilot program formanagement of pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in the Central Gulf of Alaska, expired Dec. 31, 2011. See 76 F.R. 81248.
 
 #### Implementation of Steller Sea Lion Protective Measures
 
@@ -206,7 +210,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) the western population of Steller sea lions has substantially declined over the last 25 years.
 
-&emsp;"(2) scientists should closely research and analyze all possible factors relating to such decline, includingthe possible interactions between commercial fishing and Steller sea lions and the localized depletion hypothesis;
+&emsp;"(2) scientists should closely research and analyze all possible factors relating to such decline, including the possible interactions between commercial fishing and Steller sea lions and the localized depletion hypothesis;
 
 &emsp;"(3) the authority to manage commercial fisheries in Federal waters lies with the regional councils and the Secretary of Commerce (hereafter in this section 'Secretary') pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\] (hereafter in this section 'Magnuson-Stevens Act'); and
 
@@ -288,7 +292,7 @@ Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary 
 
 Pub. L. 105–277, div. A, §101(b) \[title VI, §617\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115, as amended by Pub. L. 106–31, title III, §3025, May 21, 1999, 113 Stat. 100, provided that:
 
-"(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing forAtlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
+"(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
 
 "(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in this Act \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States."
 
@@ -354,7 +358,7 @@ Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of 
 
 "(b)
 
-Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area, after the subtraction of the allocation under subsection (a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
+Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area,after the subtraction of the allocation under subsection (a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
 
 &emsp;"(1) 50 percent to catcher vessels harvesting pollock for processing by the inshore component;
 
@@ -568,7 +572,7 @@ Shoreside Processors.—(1) Effective January 1, 2000 and except as provided in 
 
 &emsp;"(A) shoreside processors (including vessels in a single geographic location in Alaska State waters) determined by the Secretary to have processed more than 2,000 metric tons round-weight of pollock in the inshore component of the directed pollock fishery during each of 1996 and 1997; and
 
-&emsp;"(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
+&emsp;"(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metrictons round-weight from such directed fishing allowance in any year.
 
 "(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowance under section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
 
@@ -736,9 +740,9 @@ Eligibility for fishery endorsement.—Except as provided in subparagraph (C), a
 
 Limitations on statutory construction.—Nothing in this paragraph shall be construed—
 
-&emsp;&emsp;&emsp;"(i) to make the vessels AJ (United States official number 905625), DONA MARTITA (United States official number 651751), NORDIC EXPLORER (United States official number 678234), and PROVIDIAN (United States official number 1062183) ineligible for a fishery endorsement or any permit necessary to participate in any fishery under the authority of the New England Fishery Management Council or the Mid-Atlantic Fishery Management Council established, respectively, under subparagraphs (A) and (B) of section 302(a)(1) of the Magnuson-Stevens Act \[16 U.S.C. 1852(a)(1)\]; or
+&emsp;&emsp;&emsp;"(i) to make the vessels AJ (United States official number 905625), DONA MARTITA (UnitedStates official number 651751), NORDIC EXPLORER (United States official number 678234), and PROVIDIAN (United States official number 1062183) ineligible for a fishery endorsement or any permit necessary to participate in any fishery under the authority of the New England Fishery Management Council or the Mid-Atlantic Fishery Management Council established, respectively, under subparagraphs (A) and (B) of section 302(a)(1) of the Magnuson-Stevens Act \[16 U.S.C. 1852(a)(1)\]; or
 
-&emsp;&emsp;&emsp;"(ii) to allow the vessels referred to in clause (i) to participate in any fishery under the authority of the Councils referred to in clause (i) in any manner that is not consistent with the fishery management plan for the fishery developed by theCouncils under section 303 of the Magnuson-Stevens Act \[16 U.S.C. 1853\].
+&emsp;&emsp;&emsp;"(ii) to allow the vessels referred to in clause (i) to participate in any fishery under the authority of the Councils referred to in clause (i) in any manner that is not consistent with the fishery management plan for the fishery developed by the Councils under section 303 of the Magnuson-Stevens Act \[16 U.S.C. 1853\].
 
 "(c)
 
@@ -798,7 +802,7 @@ General.—The restrictions in this subsection shall take effect on January 1, 1
 
 Bering sea fishing.—The catcher/processors eligible under paragraphs (1) through (20) of section 208(e) are hereby prohibited from, in the aggregate—
 
-&emsp;&emsp;"(A) exceeding the percentage of the harvest available in the offshore component of any Bering Sea and Aleutian Islands groundfish fishery (other than the pollock fishery) that is equivalent to the total harvest by such catcher/processors and the catcher/processors listed in section 209 in the fishery in 1995, 1996, and 1997 relative to the total amount available to be harvested by the offshore component in the fishery in 1995, 1996, and 1997;
+&emsp;&emsp;"(A) exceeding the percentage of the harvest available in the offshore component of any BeringSea and Aleutian Islands groundfish fishery (other than the pollock fishery) that is equivalent to the total harvest by such catcher/processors and the catcher/processors listed in section 209 in the fishery in 1995, 1996, and 1997 relative to the total amount available to be harvested by the offshore component in the fishery in 1995, 1996, and 1997;
 
 &emsp;&emsp;"(B) exceeding the percentage of the prohibited species available in the offshore component of any Bering Sea and Aleutian Islands groundfish fishery (other than the pollock fishery) that is equivalent to the total of the prohibited species harvested by such catcher/processors and the catcher/processors listed in section 209 in the fishery in 1995, 1996, and 1997 relative to the total amount of prohibited species available to be harvested by the offshore component in the fishery in 1995, 1996, and 1997; and
 
@@ -870,7 +874,7 @@ Fisheries other than north pacific.—
 
 &emsp;&emsp;"(A) By not later than July 1, 2000, the Pacific Fishery Management Council established under section 302(a)(1)(F) of the Magnuson-Stevens Act (16 U.S.C. 1852(a)(1)(F)) shall recommend for approval by the Secretary conservation and management measures to protect fisheries under its jurisdiction and the participants in those fisheries from adverse impacts caused by this Act \[probably should be "this title", see Tables for classification\] or by any fishery cooperatives in the directed pollock fishery.
 
-&emsp;&emsp;"(B) If the Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation implement adequatemeasures including, but not limited to, restrictions on vessels which harvest pollock under a fishery cooperative which will prevent such vessels from harvesting Pacific groundfish, and restrictions on the number of processors eligible to process Pacific groundfish.
+&emsp;&emsp;"(B) If the Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation implement adequate measures including, but not limited to, restrictions on vessels which harvest pollock under a fishery cooperative which will prevent such vessels from harvesting Pacific groundfish, and restrictions on the number of processors eligible to process Pacific groundfish.
 
 "(d)
 
@@ -924,7 +928,7 @@ International Agreements.—In the event that any provision of section 12102(c) 
 
 #### Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §§208, 211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: "None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term 'individual fishing quota' does not include a community development quota."
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §§208, 211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: "None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quotaprograms (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term 'individual fishing quota' does not include a community development quota."
 
 Similar provisions were contained in the following prior appropriation act:
 

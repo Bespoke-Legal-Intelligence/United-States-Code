@@ -40,7 +40,7 @@ Citations, notices, and notifications.—The Secretary of Labor shall have the a
 
 Hearings and review.—If after issuing a citation or notification, the Secretary of Labor determines that a violation has not been corrected—
 
-&emsp;&emsp;(A) the citation and notification shall be deemed a final order (within the meaning of section 10(b) of the Occupational Safety and Health Act of 1970) if the employer fails to notify the Secretary of Labor within 15 days (excluding Saturdays, Sundays, and Federal holidays) after receipt of the notice that the employer intends to contest the citation or notification; or
+&emsp;&emsp;(A) the citation and notification shall be deemed a final order (within the meaning of section 10(b) of the Occupational Safety and Health Act of 1970) if the employer fails to notify the Secretary of Labor within 15 days (excluding Saturdays, Sundays, and Federalholidays) after receipt of the notice that the employer intends to contest the citation or notification; or
 
 &emsp;&emsp;(B) opportunity for a hearing before the Occupational Safety and Health Review Commission shall be afforded in accordance with section 10(c) of the Occupational Safety and Health Act of 1970, if the employer gives timely notice to the Secretary that he intends to contest the citation or notification.
 

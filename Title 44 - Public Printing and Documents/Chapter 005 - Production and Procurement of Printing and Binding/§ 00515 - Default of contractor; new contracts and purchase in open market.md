@@ -1,6 +1,6 @@
 ### §515. Default of contractor; new contracts and purchase in open market
 
-If a contractor fails to comply with his contract, the Director of the Government Publishing Office shall report the default to the Joint Committee on Printing, and under its direction, enter into a new contract with the lowest, best, and most responsible bidder for the interest of the Government among those whose proposals were rejected at the last opening of bids, or he shall advertise for new proposals, under the regulations provided by sections 509–517 of this title. During the interval that may thus occur he may, under the direction of the Joint Committee on Printing, purchase in open market, at the lowest market price, paper necessary for the public printing.
+If a contractor fails to comply with his contract, the Director of the Government Publishing Office shall report the default to the JointCommittee on Printing, and under its direction, enter into a new contract with the lowest, best, and most responsible bidder for the interest of the Government among those whose proposals were rejected at the last opening of bids, or he shall advertise for new proposals, under the regulations provided by sections 509–517 of this title. During the interval that may thus occur he may, under the direction of the Joint Committee on Printing, purchase in open market, at the lowest market price, paper necessary for the public printing.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1245; Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 

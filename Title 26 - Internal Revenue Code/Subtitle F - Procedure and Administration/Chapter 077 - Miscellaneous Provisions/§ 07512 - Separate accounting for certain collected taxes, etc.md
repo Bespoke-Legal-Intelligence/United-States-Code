@@ -18,7 +18,7 @@ Any person who is required to collect, account for, and pay over any tax imposed
 
 Whenever the Secretary is satisfied, with respect to any notification made under subsection (a), that all requirements of law and regulations with respect to the taxes imposed by subtitle C or chapter 33, as the case may be, will henceforth be complied with, he may cancel such notification. Such cancellation shall take effect at such time as is specified in the notice of such cancellation.
 
-(Added Pub. L. 85–321, §1, Feb. 11, 1958, 72 Stat. 5; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–223, title I, §101(c)(3), Apr. 2, 1980, 94 Stat. 251; Pub. L. 100–418, title I, §1941(b)(2)(O), Aug. 23, 1988, 102 Stat. 1324.)
+(Added Pub. L. 85–321, §1, Feb. 11, 1958, 72 Stat. 5; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–223, title I, §101(c)(3), Apr. 2, 1980, 94 Stat. 251; Pub. L. 100–418, title I, §1941(b)(2)(O), Aug. 23, 1988, 102 Stat. 1324.)
 
 #### Amendments
 

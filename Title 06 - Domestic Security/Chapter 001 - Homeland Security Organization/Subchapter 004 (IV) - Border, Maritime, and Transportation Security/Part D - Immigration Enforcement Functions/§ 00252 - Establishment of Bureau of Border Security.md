@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) making policy recommendations and performing policy research and analysis on immigration enforcement issues; and
 
-&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
+&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for theBureau of Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
 
 #### (c) Legal advisor
 

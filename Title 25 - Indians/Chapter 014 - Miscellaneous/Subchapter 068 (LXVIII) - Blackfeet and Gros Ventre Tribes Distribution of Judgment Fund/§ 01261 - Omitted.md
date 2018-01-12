@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 92–254, §1, Mar. 18, 1972, 86 Stat. 64, which related to distribution of judgment funds andpayment of attorney fees and expenses, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–254, §1, Mar. 18, 1972, 86 Stat. 64, which related to distribution of judgment funds and payment of attorney fees and expenses, was omitted from the Code as being of special and not general application.
 

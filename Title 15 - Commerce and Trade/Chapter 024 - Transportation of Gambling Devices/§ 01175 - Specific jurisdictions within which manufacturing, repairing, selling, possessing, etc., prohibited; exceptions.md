@@ -36,7 +36,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### (C) Exclusion of certain voyages and segments
 
-&emsp;&emsp;Except for a voyage or segment of a voyage that occurs within the boundaries of the State of Hawaii, a voyage or segment of a voyage is not described in subparagraph (B) if it includes or consists of a segment—
+&emsp;&emsp;Except for a voyage or segment of a voyage that occurs within the boundaries of theState of Hawaii, a voyage or segment of a voyage is not described in subparagraph (B) if it includes or consists of a segment—
 
 &emsp;&emsp;&emsp;(i) that begins and ends in the same State;
 

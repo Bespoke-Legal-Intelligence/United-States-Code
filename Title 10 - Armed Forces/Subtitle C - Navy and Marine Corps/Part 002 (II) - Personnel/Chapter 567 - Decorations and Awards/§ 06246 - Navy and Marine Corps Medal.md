@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Feb. 4, 1919, ch. 14, §5; added Aug. 7, 1942, ch. 551, §1, 56 Stat. 744.
 
-The word "award" is substituted for the word "present" to cover the determination of the recipient as well as the actual presenting of the award. The words "but not in the name of Congress" are omitted since a decoration is presented in the name of Congress only if the law so directs. The words "including the Naval Reserve and Marine Corps Reserve" are omitted as covered by the definitions of the Navy and the Marine Corps. The last sentence, relating to additional pay, is omitted for the reason that, under the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.), there is no additional pay authorized for any medal. The words "since December 6, 1941" are omitted as executed. The words "or herself" are omitted as covered by the rules of construction in 1 U.S.C. 1.
+The word "award" is substituted for the word "present" to cover the determination of the recipient as well as the actual presenting of the award. The words "but not in the name of Congress" are omittedsince a decoration is presented in the name of Congress only if the law so directs. The words "including the Naval Reserve and Marine Corps Reserve" are omitted as covered by the definitions of the Navy and the Marine Corps. The last sentence, relating to additional pay, is omitted for the reason that, under the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.), there is no additional pay authorized for any medal. The words "since December 6, 1941" are omitted as executed. The words "or herself" are omitted as covered by the rules of construction in 1 U.S.C. 1.
 
 #### Amendments
 

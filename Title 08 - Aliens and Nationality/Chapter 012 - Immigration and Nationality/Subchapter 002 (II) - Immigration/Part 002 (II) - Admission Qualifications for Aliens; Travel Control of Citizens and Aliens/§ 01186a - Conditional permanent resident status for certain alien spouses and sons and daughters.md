@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
-&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse orchild was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
+&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
 &emsp;&emsp;(D) the alien meets the requirements under section 1154(a)(1)(A)(iii)(II)(aa)(BB) of this title and following the marriage ceremony was battered by or subject to extreme cruelty perpetrated by the alien's intended spouse and was not at fault in failing to meet the requirements of paragraph (1).
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) was not entered into for the purpose of procuring an alien's admission as an immigrant; and
 
-&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
+&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filingof a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
 
 #### (B) Statement of additional information
 
@@ -188,7 +188,7 @@ In this section:
 
 &emsp;(4) The term "petitioning spouse" means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsec. (f). Pub. L. 104–208, §308(d)(4)(E), substituted "inadmissibility" fo
 
 <b>1991</b>—Subsec. (g)(1). Pub. L. 102–232 substituted "section 1153(d)" for "section 1153(a)(8)" in closing provisions.
 
-<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse for good cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), addedsubpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse for good cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), added subpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
 
 <b>1988</b>—Pub. L. 100–525, §7(a)(1), made technical amendment to directory language of Pub. L. 99–639, §2(a), which enacted this section.
 

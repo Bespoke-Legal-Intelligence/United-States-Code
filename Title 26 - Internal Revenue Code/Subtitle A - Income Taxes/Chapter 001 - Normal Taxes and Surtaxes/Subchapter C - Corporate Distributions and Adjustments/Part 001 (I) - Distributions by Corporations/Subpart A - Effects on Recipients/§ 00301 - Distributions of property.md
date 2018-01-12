@@ -52,7 +52,7 @@ The basis of property received in a distribution to which subsection (a) applies
 
 #### (1) In general
 
-&emsp;Except to the extent otherwise provided in regulations, solely for purposes of determiningthe taxable income of any 20 percent corporate shareholder (and its adjusted basis in the stock of the distributing corporation), section 312 shall be applied with respect to the distributing corporation as if it did not contain subsections (k) and (n) thereof.
+&emsp;Except to the extent otherwise provided in regulations, solely for purposes of determining the taxable income of any 20 percent corporate shareholder (and its adjusted basis in the stock of the distributing corporation), section 312 shall be applied with respect to the distributing corporation as if it did not contain subsections (k) and (n) thereof.
 
 #### (2) 20 percent corporate shareholder
 

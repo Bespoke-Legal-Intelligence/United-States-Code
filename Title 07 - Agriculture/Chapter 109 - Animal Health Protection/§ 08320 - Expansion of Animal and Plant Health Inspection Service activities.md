@@ -28,7 +28,7 @@ The Administrator of the Animal and Plant Health Inspection Service may implemen
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year2002, and such sums as may be necessary for each subsequent fiscal year.
+There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
 
 (Pub. L. 107–188, title III, §331, June 12, 2002, 116 Stat. 678.)
 

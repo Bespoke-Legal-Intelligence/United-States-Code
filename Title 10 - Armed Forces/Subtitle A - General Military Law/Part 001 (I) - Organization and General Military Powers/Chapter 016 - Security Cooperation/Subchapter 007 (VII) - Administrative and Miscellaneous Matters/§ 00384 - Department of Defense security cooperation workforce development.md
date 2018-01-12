@@ -12,7 +12,7 @@ Program Required.—The Secretary of Defense shall carry out a program to be kno
 
 Purpose.—The purpose of the Program is to improve the quality and professionalism of the security cooperation workforce in order to ensure that the workforce—
 
-&emsp;(1) has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate support to the assessment, planning, monitoring, execution, evaluation, and administration of security cooperation programs and activities described in subsection (a), and ensure that the Department receives the best value for the expenditure of public resources on such programs and activities; and
+&emsp;(1) has the capacity, in both personnel and skills, needed to properly perform its mission,provide appropriate support to the assessment, planning, monitoring, execution, evaluation, and administration of security cooperation programs and activities described in subsection (a), and ensure that the Department receives the best value for the expenditure of public resources on such programs and activities; and
 
 &emsp;(2) is assigned in a manner that ensures personnel with the appropriate level of expertise and experience are assigned in sufficient numbers to fulfill requirements for the security cooperation programs and activities of the Department of Defense and the execution of security assistance programs and activities described in subsection (a)(2).
 
@@ -92,7 +92,7 @@ Security Cooperation Workforce Defined.—In this section, the term "security co
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 etseq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 

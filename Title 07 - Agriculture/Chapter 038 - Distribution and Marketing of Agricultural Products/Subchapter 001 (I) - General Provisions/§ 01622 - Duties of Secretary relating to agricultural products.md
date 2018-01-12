@@ -8,11 +8,11 @@ To conduct, assist, and foster research, investigation, and experimentation to d
 
 #### (b) Determination of costs
 
-To determine costs of marketing agricultural products in their various forms and through the various channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, and facilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
+To determine costs of marketing agricultural products in their various forms and through the various channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, andfacilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
 
 #### (c) Improvement of standards of quality, condition, etc.; standard of quality for ice cream
 
-To develop and improve standards of quality, condition, quantity, grade, and packaging, andrecommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for "ice cream".
+To develop and improve standards of quality, condition, quantity, grade, and packaging, and recommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for "ice cream".
 
 #### (d) Elimination of artificial barriers to free movement
 
@@ -60,7 +60,7 @@ To collect and disseminate marketing information, including adequate outlook inf
 
 (3) Any official certificate issued under the authority of this subsection shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the statements therein contained.
 
-(4) Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any such falsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact notbeen so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+(4) Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any suchfalsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact not been so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
 (5) Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.
 
@@ -116,7 +116,7 @@ To conduct such other research and services and to perform such other activities
 
 #### References in Text
 
-This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended section 427 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended section 3104 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -192,7 +192,7 @@ Pub. L. 105–277, div. A, §101(a) \[title VII, §747\], Oct. 21, 1998, 112 Sta
 
 #### Collection and Dissemination of Information on Prices Received for Bulk Cheese
 
-Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
+Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
 
 #### Lamb Price and Supply Reporting Services Report and System
 
@@ -320,7 +320,7 @@ Membership.—The Advisory Committee shall consist of 12 members comprised of th
 
 "(f)
 
-Report.—The Secretary of Agriculture shall report to Congress on the research conducted under this section no later than September 30, 1992. The Secretary shall report on the research conducted under subsection (c) no later than September 30, 1993.
+Report.—The Secretary of Agriculture shall report to Congress on the research conducted under thissection no later than September 30, 1992. The Secretary shall report on the research conducted under subsection (c) no later than September 30, 1993.
 
 #### "SEC. 1353. CHANGES IN PROCEDURAL REGULATIONS.
 

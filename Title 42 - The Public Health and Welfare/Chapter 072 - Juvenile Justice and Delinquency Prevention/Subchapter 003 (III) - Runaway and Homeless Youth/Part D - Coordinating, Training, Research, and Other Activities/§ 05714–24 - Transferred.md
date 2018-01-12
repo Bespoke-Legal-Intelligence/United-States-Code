@@ -1,0 +1,6 @@
+### §5714–24. Transferred
+
+#### Codification
+
+Section 5714–24 was editorially reclassified as section 11244 of Title 34, Crime Control and Law Enforcement.
+

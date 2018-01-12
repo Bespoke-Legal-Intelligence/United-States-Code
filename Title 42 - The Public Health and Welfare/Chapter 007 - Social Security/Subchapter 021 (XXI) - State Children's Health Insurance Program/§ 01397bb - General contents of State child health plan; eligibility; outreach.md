@@ -72,7 +72,7 @@ A State child health plan shall include a description, consistent with the requi
 
 #### (B) Deemed compliance if joint application and renewal process that permits application other than in person
 
-&emsp;&emsp;A State shall be deemed to comply with subparagraph (A) if the State's application and renewal forms and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children and pregnant women for medical assistance under subchapter XIX and child health assistance under this subchapter, and such process does not require an application to be made in person or a face-to-face interview.
+&emsp;&emsp;A State shall be deemed to comply with subparagraph (A) if the State's applicationand renewal forms and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children and pregnant women for medical assistance under subchapter XIX and child health assistance under this subchapter, and such process does not require an application to be made in person or a face-to-face interview.
 
 #### (5) Nonentitlement
 

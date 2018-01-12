@@ -22,3 +22,5 @@
 - [&sect; 20145 - Lease of non-excess property](%C2%A7%2020145%20-%20Lease%20of%20non-excess%20property.md)
 - [&sect; 20146 - Retrocession of jurisdiction](%C2%A7%2020146%20-%20Retrocession%20of%20jurisdiction.md)
 - [&sect; 20147 - Recovery and disposition authority](%C2%A7%2020147%20-%20Recovery%20and%20disposition%20authority.md)
+- [&sect; 20148 - Indemnification; NASA launch services and reentry services](%C2%A7%2020148%20-%20Indemnification%3B%20NASA%20launch%20services%20and%20reentry%20services.md)
+- [&sect; 20149 - Medical monitoring and research relating to human space flight](%C2%A7%2020149%20-%20Medical%20monitoring%20and%20research%20relating%20to%20human%20space%20flight.md)

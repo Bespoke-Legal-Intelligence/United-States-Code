@@ -24,7 +24,7 @@ MWR retail facilities.—The term "MWR retail facilities" has the meaning given 
 
 National emergency.—The term "national emergency" means a national emergency declared by the President or Congress.
 
-(Added Pub. L. 105–261, div. A, title III, §362(c), Oct. 17, 1998, 112 Stat. 1985, §1063a; amended Pub.L. 107–314, div. A, title III, §322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered §1064 and amended Pub. L. 108–136, div. A, title VI, §651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
+(Added Pub. L. 105–261, div. A, title III, §362(c), Oct. 17, 1998, 112 Stat. 1985, §1063a; amended Pub. L. 107–314, div. A, title III, §322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered §1064 and amended Pub. L. 108–136, div. A, title VI, §651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
 
 #### Prior Provisions
 

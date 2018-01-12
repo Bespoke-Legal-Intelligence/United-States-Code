@@ -146,6 +146,10 @@ Subsec. (d). Pub. L. 100–702, §604, which directed the substitution of "court
 
 Pub. L. 100–690, §7321(b)(4), substituted "court (or other unit of State or local government)" for "judicial system".
 
+#### Effective Date
+
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under section 10701 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "to conduct".</i>

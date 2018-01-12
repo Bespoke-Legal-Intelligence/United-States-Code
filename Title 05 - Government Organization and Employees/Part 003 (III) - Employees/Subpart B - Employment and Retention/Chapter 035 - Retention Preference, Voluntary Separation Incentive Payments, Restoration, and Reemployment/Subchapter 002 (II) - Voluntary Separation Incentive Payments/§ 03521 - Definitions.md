@@ -18,7 +18,7 @@ In this subchapter, the term—
 
 &emsp;&emsp;&emsp;(ii) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under subchapter III of chapter 83 or 84 or another retirement system for employees of the Government;
 
-&emsp;&emsp;&emsp;(iii) an employee who is in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance;
+&emsp;&emsp;&emsp;(iii) an employee who is in receipt of a decision notice of involuntary separationfor misconduct or unacceptable performance;
 
 &emsp;&emsp;&emsp;(iv) an employee who has previously received any voluntary separation incentive payment from the Federal Government under this subchapter or any other authority;
 

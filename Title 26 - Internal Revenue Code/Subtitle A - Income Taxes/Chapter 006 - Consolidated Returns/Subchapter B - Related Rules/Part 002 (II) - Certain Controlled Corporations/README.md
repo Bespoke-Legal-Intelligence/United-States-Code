@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1561\.](%C2%A7%2001561%20-%20Limitations%20on%20certain%20multiple%20tax%20benefits%20in%20the%20case%20of%20certain%20controlled%20corporations.md) | Limitations on certain multiple tax benefits in the case of certain controlled corporations. |
+| [1561\.](%C2%A7%2001561%20-%20Limitation%20on%20accumulated%20earnings%20credit%20in%20the%20case%20of%20certain%20controlled%20corporations.md) | Limitation on accumulated earnings credit in the case of certain controlled corporations. |
 | \[1562. | Repealed.\] |
 | [1563\.](%C2%A7%2001563%20-%20Definitions%20and%20special%20rules.md) | Definitions and special rules. |
 | \[1564. | Repealed.\] |
@@ -10,6 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §13001(b)(6)(B), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part II of subchapter B of chapter 5 by substituting "Limitation on accumulated earnings credit in the case of certain controlled corporations" for "Limitations on certain multiple tax benefits in the case of certain controlled corporations" in item 1561, was executed to the table of sections for part II of subchapter B of this chapter to reflect the probable intent of Congress.
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(12), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 1564 "Transitional rules in the case of certain controlled corporations".
 
@@ -22,7 +24,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01561 - Limitations on certain multiple tax benefits in the case of certain controlled corporations](%C2%A7%2001561%20-%20Limitations%20on%20certain%20multiple%20tax%20benefits%20in%20the%20case%20of%20certain%20controlled%20corporations.md)
+- [&sect; 01561 - Limitation on accumulated earnings credit in the case of certain controlled corporations](%C2%A7%2001561%20-%20Limitation%20on%20accumulated%20earnings%20credit%20in%20the%20case%20of%20certain%20controlled%20corporations.md)
 - [&sect; 01562 - Repealed. Pub. L. 91&#8211;172, title IV, &sect;401(a)(2), Dec. 30, 1969, 83 Stat. 600](%C2%A7%2001562%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93172%2C%20title%20IV%2C%20%C2%A7401%28a%29%282%29%2C%20Dec.%2030%2C%201969%2C%2083%20Stat.%20600.md)
 - [&sect; 01563 - Definitions and special rules](%C2%A7%2001563%20-%20Definitions%20and%20special%20rules.md)
 - [&sect; 01564 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(38), Nov. 5, 1990, 104 Stat. 1388&#8211;521](%C2%A7%2001564%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2838%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93521.md)

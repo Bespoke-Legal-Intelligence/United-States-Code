@@ -28,7 +28,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (2) Deadline for requests
 
-&emsp;The Secretary shall include in each notice required by this subsection a requirement thatnon-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.
+&emsp;The Secretary shall include in each notice required by this subsection a requirement that non-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.
 
 #### (3) Notification
 

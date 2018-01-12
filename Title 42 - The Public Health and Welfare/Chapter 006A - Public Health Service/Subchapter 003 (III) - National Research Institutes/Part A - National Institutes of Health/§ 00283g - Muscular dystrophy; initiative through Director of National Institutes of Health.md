@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Musculoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expandand intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as "FSHD") and other forms of muscular dystrophy.
+&emsp;The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Musculoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as "FSHD") and other forms of muscular dystrophy.
 
 #### (2) Coordination
 
@@ -44,7 +44,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) under wh
 
 #### (1) In general
 
-&emsp;The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referred to in this section as the "Coordinating Committee") to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
+&emsp;The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referredto in this section as the "Coordinating Committee") to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
 
 #### (2) Composition
 
@@ -60,7 +60,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) under wh
 
 #### (A) In general
 
-&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The CoordinatingCommittee shall select the Chair for a term not to exceed 2 years.
+&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
 
 #### (B) Appointment
 
@@ -108,7 +108,7 @@ The Secretary shall, under subsection (a)(1), provide for a means through which 
 
 The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
 
-(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
+(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824;amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
 
 #### References in Text
 

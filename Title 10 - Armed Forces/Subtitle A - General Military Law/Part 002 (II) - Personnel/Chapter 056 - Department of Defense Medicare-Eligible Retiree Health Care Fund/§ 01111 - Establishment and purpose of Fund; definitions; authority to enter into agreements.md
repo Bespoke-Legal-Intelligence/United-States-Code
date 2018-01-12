@@ -10,7 +10,7 @@
 
 &emsp;(3) The term "medicare-eligible", with respect to any person, means entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
 
-&emsp;(4) The term "participating uniformed service" means the Army, Navy, Air Force, and Marine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
+&emsp;(4) The term "participating uniformed service" means the Army, Navy, Air Force, andMarine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
 
 &emsp;(5) The term "members of the uniformed services on active duty" does not include a cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy or a midshipman at the United States Naval Academy.
 
@@ -54,7 +54,7 @@ Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, pro
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VII, §725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: "The amendments madeby this section \[amending this section and sections 1115 and 1116 of this title\] shall take effect on October 1, 2005."
+Pub. L. 108–375, div. A, title VII, §725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: "The amendments made by this section \[amending this section and sections 1115 and 1116 of this title\] shall take effect on October 1, 2005."
 
 #### Effective Date of 2001 Amendment
 

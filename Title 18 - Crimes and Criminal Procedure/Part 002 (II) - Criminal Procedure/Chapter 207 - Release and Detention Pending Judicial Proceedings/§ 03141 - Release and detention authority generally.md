@@ -38,7 +38,7 @@ Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: 
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: "That this Act \[amending sections 3152 to 3155 ofthis title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title\] may be cited as the 'Pretrial Services Act of 1982'."
+Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: "That this Act \[amending sections 3152 to 3155 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title\] may be cited as the 'Pretrial Services Act of 1982'."
 
 #### Short Title
 

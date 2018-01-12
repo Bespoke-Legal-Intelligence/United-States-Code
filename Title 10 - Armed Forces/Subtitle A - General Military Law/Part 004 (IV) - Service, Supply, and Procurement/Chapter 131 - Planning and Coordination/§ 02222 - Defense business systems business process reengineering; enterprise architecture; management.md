@@ -26,7 +26,7 @@ Secretary of defense guidance.—The Secretary shall issue guidance to provide f
 
 &emsp;(2)
 
-Supporting guidance.—The Secretary shall direct the Under Secretary of Defense for Business Management and Information,<sup>1</sup> the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
+Supporting guidance.—The Secretary shall direct the Deputy Chief Management Officer of the Department of Defense,<sup>1</sup> the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
 
 (d)
 
@@ -54,7 +54,7 @@ Defense Business Enterprise Architecture.—
 
 &emsp;(1)
 
-Blueprint.—The Secretary, working through the Under Secretary of Defense for Business Management and Information,<sup>1</sup> shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
+Blueprint.—The Secretary, working through the Deputy Chief Management Officer of the Department of Defense,<sup>1</sup> shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
 
 &emsp;(2)
 
@@ -82,13 +82,45 @@ Integration into information technology architecture.—(A) The defense business
 
 &emsp;(B) The Chief Information Officer of the Department of Defense shall develop an information technology enterprise architecture. The architecture shall describe a plan for improving the information technology and computing infrastructure of the Department of Defense, including for each of the major business processes conducted by the Department of Defense.
 
+&emsp;(5)
+
+Common enterprise data.—The defense business enterprise shall include enterprise data that may be automatically extracted from the relevant systems to facilitate Department of Defense-wide analysis and management of its business operations.
+
+&emsp;(6)
+
+Roles and responsibilities.—
+
+&emsp;&emsp;(A) The Chief Management Officer of the Department of Defense shall have primary decision-making authority with respect to the development of common enterprise data. In consultation with the Defense Business Council, the Chief Management Officer shall—
+
+&emsp;&emsp;&emsp;(i) develop an associated data governance process; and
+
+&emsp;&emsp;&emsp;(ii) oversee the preparation, extraction, and provision of data across the defense business enterprise.
+
+&emsp;&emsp;(B) The Chief Management Officer and the Under Secretary of Defense (Comptroller) shall—
+
+&emsp;&emsp;&emsp;(i) in consultation with the Defense Business Council, document and maintain any common enterprise data for their respective areas of authority;
+
+&emsp;&emsp;&emsp;(ii) participate in any related data governance process;
+
+&emsp;&emsp;&emsp;(iii) extract data from defense business systems as needed to support priority activities and analyses;
+
+&emsp;&emsp;&emsp;(iv) when appropriate, ensure the source data is the same as that used to produce the financial statements subject to annual audit;
+
+&emsp;&emsp;&emsp;(v) in consultation with the Defense Business Council, provide access, except as otherwise provided by law or regulation, to such data to the Office of the Secretary of Defense, the Joint Staff, the military departments, the combatant commands, the Defense Agencies, the Department of Defense Field Activities, and all other offices, agencies, activities, and commands of the Department of Defense; and
+
+&emsp;&emsp;&emsp;(vi) ensure consistency of the common enterprise data maintained by their respective organizations.
+
+&emsp;&emsp;(C) The Director of Cost Assessment and Program Evaluation shall have access to data for the purpose of executing missions as designated by the Secretary of Defense.
+
+&emsp;&emsp;(D) The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
+
 (f)
 
 Defense Business Council.—
 
 &emsp;(1)
 
-Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Under Secretary of Defense for Business Management and Information <sup>1</sup> and the Chief Information Officer of the Department of Defense.
+Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Deputy Chief Management Officer <sup>1</sup> and the Chief Information Officer of the Department of Defense.
 
 &emsp;(2)
 
@@ -114,11 +146,11 @@ Initial approval required.—The Secretary shall ensure that a covered defense b
 
 &emsp;&emsp;(A) the system has been, or is being, reengineered to be as streamlined and efficient as practicable, and the implementation of the system will maximize the elimination of unique software requirements and unique interfaces;
 
-&emsp;&emsp;(B) the system and business system portfolio are or will be in compliance with the defense business enterprise architecture developed pursuant to subsection (e) or will be in compliance as a result of modifications planned;
+&emsp;&emsp;(B) the system and business system portfolio are or will be in compliance with the defense business enterprise architecture developed pursuant to subsection (e) or will bein compliance as a result of modifications planned;
 
 &emsp;&emsp;(C) the system has valid, achievable requirements and a viable plan for implementing those requirements (including, as appropriate, market research, business process reengineering, and prototyping activities);
 
-&emsp;&emsp;(D) the system has an acquisition strategy designed to eliminate or reduce the need to tailor commercial off-the-shelf systems tomeet unique requirements, incorporate unique requirements, or incorporate unique interfaces to the maximum extent practicable; and
+&emsp;&emsp;(D) the system has an acquisition strategy designed to eliminate or reduce the need to tailor commercial off-the-shelf systems to meet unique requirements, incorporate unique requirements, or incorporate unique interfaces to the maximum extent practicable; and
 
 &emsp;&emsp;(E) the system is in compliance with the Department's auditability requirements.
 
@@ -126,13 +158,13 @@ Initial approval required.—The Secretary shall ensure that a covered defense b
 
 Appropriate official.—For purposes of paragraph (1), the appropriate approval official with respect to a covered defense business system is the following:
 
-&emsp;&emsp;(A) Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Under Secretary of Defense for Business Management and Information.<sup>1</sup>
+&emsp;&emsp;(A) Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Deputy Chief Management Officer of the Department of Defense.<sup>1</sup>
 
 &emsp;&emsp;(B) Except as may be provided in subparagraph (C), for any defense business system other than a priority defense business system—
 
 &emsp;&emsp;&emsp;(i) in the case of a system of a military department, the Chief Management Officer of that military department; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Under Secretary of Defense for Business Management and Information.<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Deputy Chief Management Officer of the Department of Defense.<sup>1</sup>
 
 &emsp;&emsp;(C) In the case of any defense business system, such official other than the applicable official under subparagraph (A) or (B) as the Secretary designates for such purpose.
 
@@ -196,7 +228,7 @@ Priority defense business system.—The term "priority defense business system" 
 
 &emsp;&emsp;(A) expected to have a total amount of budget authority over the period of the current future-years defense program submitted to Congress under section 221 of this title in excess of $250,000,000; or
 
-&emsp;&emsp;(B) designated by the Under Secretary of Defense for Business Management and Information <sup>1</sup> as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
+&emsp;&emsp;(B) designated by the Deputy Chief Management Officer of the Department of Defense <sup>1</sup> as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
 
 &emsp;(6)
 
@@ -214,17 +246,35 @@ National security system.—The term "national security system" has the meaning 
 
 Business process mapping.—The term "business process mapping" means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17,2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419.)
+&emsp;(10)
 
-#### Codification
+Common enterprise data.—The term "common enterprise data" means business operations or management-related data, generally from defense business systems, in a usable format that is automatically accessible by authorized personnel and organizations.
 
-Pub. L. 113–291, §901(a)(1), which amended section 132a of this title, effective Feb. 1, 2017, by substituting provisions establishing the Under Secretary of Defense for Business Management and Information for provisions establishing the Deputy Chief Management Officer of the Department of Defense, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016. Notwithstanding this repeal, the amendments made to this section by Pub. L. 114–92, §883(f)(1), as added by Pub. L. 114–328, §1081(c)(5), have been executed as directed. See 2015 Amendment notes below.
+&emsp;(11)
+
+Data governance process.—The term "data governance process" means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A).<sup>2</sup>
+
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, §912(a), title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597.)
+
+#### References in Text
+
+The Deputy Chief Management Officer of the Department of Defense, referred to in subsecs. (c)(2), (e)(1), (f)(1), (g)(2)(A), (B)(ii), and (i)(5)(B), was established by section 132a of this title prior to the general amendment of that section by Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516. As amended by Pub. L. 115–91, section 132a of this title established the Chief Management Officer of the Department of Defense.
 
 #### Prior Provisions
 
 A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
+
+<b>2017</b>—Subsecs. (c)(2), (e)(1). Pub. L. 115–91, §1081(b)(2), repealed Pub. L. 114–92, §883(f)(1)(A). See 2015 Amendment notes below.
+
+Subsec. (e)(5), (6). Pub. L. 115–91, §912(a)(1), added pars. (5) and (6).
+
+Subsec. (f)(1). Pub. L. 115–91, §1081(b)(2), repealed Pub. L. 114–92, §883(f)(1)(B). See 2015 Amendment note below.
+
+Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 115–91, §1081(b)(2), repealed Pub. L. 114–92, §883(f)(1)(A). See 2015 Amendment notes below.
+
+Subsec. (i)(10), (11). Pub. L. 115–91, §912(a)(2), added pars. (10) and (11).
 
 <b>2016</b>—Pub. L. 114–328, §1081(c)(5), added subsec. (f) to section 883 of Pub. L. 114–92. See 2015 Amendment notes below.
 
@@ -238,15 +288,11 @@ Subsec. (i)(5). Pub. L. 114–328, §1081(a)(6)(C), struck out "program" after "
 
 Pub. L. 114–92, §883(a)(1), amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
-Subsec. (c)(2). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense".
+Subsecs. (c)(2), (e)(1). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), which directed the substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense", was repealed by Pub. L. 115–91, §1081(b)(2).
 
-Subsec. (e)(1). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense".
+Subsec. (f)(1). Pub. L. 114–92, §883(f)(1)(B), as added by Pub. L. 114–328, §1081(c)(5), which directed the substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer", was repealed by Pub. L. 115–91, §1081(b)(2).
 
-Subsec. (f)(1). Pub. L. 114–92, §883(f)(1)(B), as added by Pub. L. 114–328, §1081(c)(5), substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer".
-
-Subsec. (g)(2)(A), (B)(ii). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense".
-
-Subsec. (i)(5)(B). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense".
+Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 114–92, §883(f)(1)(A), as added by Pub. L. 114–328, §1081(c)(5), which directed the substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer of the Department of Defense", was repealed by Pub. L. 115–91, §1081(b)(2).
 
 Subsec. (j)(5). Pub. L. 114–92, §1081(a)(7), substituted "section 3552(b)(6)" for "section 3552(b)(5)". Amendment was executed prior to amendment by Pub. L. 114–92, §883(a)(1), see above, pursuant to section 1081(e) of Pub. L. 114–92, set out as a note under section 101 of this title.
 
@@ -264,7 +310,7 @@ Pub. L. 113–291, §901(d)(3)(A), struck out ", not later than March 15, 2012,
 
 Subsec. (g)(2)(C). Pub. L. 113–291, §901(d)(3)(B), substituted "the investment review" for "each investment review" in introductory provisions.
 
-Subsec. (g)(2)(F). Pub. L. 113–291, §901(d)(3)(C), struck out "and the Defense Business Systems Management Committee, as required by section 186(c) of this title," after "Secretary of Defense".
+Subsec. (g)(2)(F). Pub. L. 113–291, §901(d)(3)(C), struck out "and the Defense Business Systems ManagementCommittee, as required by section 186(c) of this title," after "Secretary of Defense".
 
 Subsec. (g)(3). Pub. L. 113–291, §1071(f)(16), struck out "(A)" after "(3)".
 
@@ -300,17 +346,165 @@ Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as p
 
 <b>2006</b>—Subsec. (j)(6). Pub. L. 109–364 substituted "in section 3542(b)(2) of title 44" for "in section 2315 of this title".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(2) is effective as of Nov. 25, 2015.
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(5) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–92, div. A, title VIII, §883(f)(1), as added by Pub. L. 114–328, div. A, title X, §1081(c)(5), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 883(f)(1) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 114–92, div. A, title VIII, §883(f)(1), as added by Pub. L. 114–328, div. A, title X, §1081(c)(5), Dec. 23, 2016, 130 Stat. 2419, which provided that the amendment made by section 883(f)(1) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1597.
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(k)(3) was effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, was repealed by Pub. L. 114–92, div. A, title VIII, §883(f)(2), as added by Pub. L. 114–328, div. A, title X, §1081(c)(5), Dec. 23, 2016, 130 Stat. 2420.
+Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(k)(3) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 114–92, div. A, title VIII, §883(f)(2), as added by Pub. L. 114–328, div. A, title X, §1081(c)(5), Dec. 23, 2016, 130 Stat. 2420.
+
+#### Policy on Treatment of Defense Business System Data Related to Business Operations and Management
+
+Pub. L. 115–91, div. A, title IX, §911, Dec. 12, 2017, 131 Stat. 1519, provided that:
+
+"(a)
+
+Establishment of Policy.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall establish a data policy for the Department of Defense that mandates that any data contained in a defense business system related to business operations and management is an asset of the Department of Defense.
+
+"(b)
+
+Availability.—As part of the policy required by subsection (a), the Secretary of Defense shall ensure that, except as otherwise provided by law or regulation, data described in such subsection shall be made readily available to members of the Office of the Secretary of Defense, the Joint Staff, the military departments, the combatant commands, the Defense Agencies, the Department of Defense Field Activities, and all other offices, agencies, activities, and commands of the Department of Defense, as applicable."
+
+#### Establishment of Data Analytics Capability
+
+Pub. L. 115–91, div. A, title IX, §912(e), Dec. 12, 2017, 131 Stat. 1521, provided that:
+
+"(1)
+
+Data analytics capability required.—Not later than September 30, 2020, the Chief Management Officer of the Department of Defense shall establish and maintain within the Department of Defense a data analytics capability for purposes of supporting enhanced oversight and management of the Defense Agencies and Department of Defense Field Activities.
+
+"(2)
+
+Elements.—The data analytics capability shall permit the following:
+
+&emsp;"(A) The maintenance on a continuing basis of an accurate tabulation of the amounts expended by the Defense Agencies and Department of Defense Field Activities on Government and contractor personnel.
+
+&emsp;"(B) The maintenance on a continuing basis of an accurate number of the personnel currently supporting the Defense Agencies and Department of Defense Field Activities, including the following:
+
+&emsp;&emsp;"(i) Members of the regular components of the Armed Forces.
+
+&emsp;&emsp;"(ii) Members of the reserve components of the Armed Forces.
+
+&emsp;&emsp;"(iii) Civilian employees of the Department of Defense.
+
+&emsp;&emsp;"(iv) Detailees, whether from another organization or element of the Department or from another department or agency of the Federal Government.
+
+&emsp;"(C) The tracking of costs for employing contract personnel, including federally funded research and development centers.
+
+&emsp;"(D) The maintenance on a continuing basis of the following:
+
+&emsp;&emsp;"(i) An identification of the functions being performed by each Defense Agency and Department of Defense Field Activity.
+
+&emsp;&emsp;"(ii) An accurate tabulation of the amounts being expended by each Defense Agency and Department of Defense Field Activity on its functions.
+
+"(3)
+
+Reporting requirements.—
+
+&emsp;"(A)
+
+Interim report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Chief Management Officer of the Department of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on progress in establishing the data analytics capability. The report shall include the following:
+
+&emsp;&emsp;"(i) A description and assessment of the efforts of the Chief Management Officer through the date of the report to establish the data analytics capability.
+
+&emsp;&emsp;"(ii) A description of current gaps in the data required to establish the data analytics capability, and a description of the efforts to be undertaken to eliminate such gaps.
+
+&emsp;"(B)
+
+Final report.—Not later than December 31, 2020, the Chief Management Officer shall submit to the congressional defense committees a report on the data analytics capability as established pursuant to this section."
+
+#### Data Integration Strategies Pilot Programs
+
+Pub. L. 115–91, div. A, title IX, §912(f), Dec. 12, 2017, 131 Stat. 1522, provided that:
+
+"(1)
+
+In general.—The Secretary of Defense shall carry out pilot programs to develop data integration strategies for the Department of Defense to address high-priority management challenges of the Department.
+
+"(2)
+
+Elements.—The pilot programs carried out under the authority of this subsection shall involve data integration strategies to address challenges of the Department with respect to the following:
+
+&emsp;"(A) The budget of the Department.
+
+&emsp;"(B) Logistics.
+
+&emsp;"(C) Personnel security and insider threats.
+
+&emsp;"(D) At least two other high-priority challenges of the Department identified by the Secretary for purposes of this subsection.
+
+"(3)
+
+Report on pilot programs.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the pilot programs to be carried out under this section, including the challenge of the Department to be addressed by the pilot program and the manner in which the data integration strategy under the pilot program will address the challenge. If any proposed pilot program requires legislative action for the waiver or modification of a statutory requirement that otherwise prevents or impedes the implementation of the pilot program, the Secretary shall include in the report a recommendation for legislative action to waive or modify the statutory requirement."
+
+#### Improper Payment Matters
+
+Pub. L. 115–91, div. A, title X, §1003, Dec. 12, 2017, 131 Stat. 1542, provided that: "Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense (Comptroller) shall take the following actions:
+
+&emsp;"(1) With regard to estimating improper payments:
+
+&emsp;&emsp;"(A) Establish and implement key quality assurance procedures, such as reconciliations, to ensure the completeness and accuracy of sampled populations.
+
+&emsp;&emsp;"(B) Revise the procedures for the sampling methodologies of the Department of Defense so that such procedures—
+
+&emsp;&emsp;&emsp;"(i) comply with Office of Management and Budget guidance and generally accepted statistical standards;
+
+&emsp;&emsp;&emsp;"(ii) produce statistically valid improper payment error rates, statistically valid improper payment dollar estimates, and appropriate confidence intervals for both; and
+
+&emsp;&emsp;&emsp;"(iii) in meeting clauses (i) and (ii), take into account the size and complexity of the transactions being sampled.
+
+&emsp;"(2) With regard to identifying programs susceptible to significant improper payments, conduct a risk assessment that complies with the Improper Payments Elimination and Recovery Act of 2010 (Public Law 111–204 \[See Short Title of 2010 Amendment note set out under section 3301 of Title 31, Money and Finance\]) and the amendments made by that Act (in this section collectively referred to as 'IPERA').
+
+&emsp;"(3) With regard to reducing improper payments, establish procedures that produce corrective action plans that—
+
+&emsp;&emsp;"(A) comply fully with IPERA and associated Office of Management and Budget guidance, including by holding individuals responsible for implementing corrective actions and monitoring the status of corrective actions; and
+
+&emsp;&emsp;"(B) are in accordance with best practices, such as those recommended by the Chief Financial Officers Council, including by providing for—
+
+&emsp;&emsp;&emsp;"(i) measurement of the progress made toward remediating root causes of improper payments; and
+
+&emsp;&emsp;&emsp;"(ii) communication to the Secretary of Defense and the heads of departments, agencies, and organizations and elements of the Department of Defense, and key stakeholders, on the progress made toward remediating the root causes of improper payments.
+
+&emsp;"(4) With regard to implementing recovery audits for improper payments, develop and implement procedures to—
+
+&emsp;&emsp;"(A) identify costs related to the recovery audits and recovery efforts of the Department of Defense; and
+
+&emsp;&emsp;"(B) evaluate improper payment recovery efforts in order to ensure that they are cost effective.
+
+&emsp;"(5) Monitor the implementation of the revised chapter of the Financial Management Regulations on recovery audits in order to ensure that the Department of Defense, the military departments, the Defense Agencies, and the other organizations and elements of the Department of Defense either conduct recovery audits or demonstrate that it is not cost effective to do so.
+
+&emsp;"(6) Develop and submit to the Office of Management and Budget for approval a payment recapture audit plan that fully complies with Office of Management and Budget guidance.
+
+&emsp;"(7) With regard to reporting on improper payments, design and implement procedures to ensure that the annual improper payment and recovery audit reporting of the Department of Defense is complete, accurate, and complies with IPERA and associated Office of Management and Budget guidance."
+
+#### Financial Operations Dashboard for the Department of Defense
+
+Pub. L. 115–91, div. A, title X, §1005, Dec. 12, 2017, 131 Stat. 1544, provided that:
+
+"(a)
+
+In General.—The Under Secretary of Defense (Comptroller) shall develop and maintain on an Internet website available to Department of Defense agencies a tool (commonly referred to as a 'dashboard)' \[sic\] to permit officials to track key indicators of the financial performance of the Department of Defense. Such key indicators may include outstanding accounts payable, abnormal accounts payable, outstanding advances, unmatched disbursements, abnormal undelivered orders, negative unliquidated obligations, violations of sections 1341 and 1517(a) of title 31, United States Code (commonly referred to as the 'Anti-Deficiency Act'), costs deriving from payment delays, interest penalty payments, and improper payments, and actual savings realized through interest payments made, discounts for timely or advanced payments, and other financial management and improvement initiatives.
+
+"(b)
+
+Information Covered.—The tool shall cover financial performance information for the military departments, the defense agencies, and any other organizations or elements of the Department of Defense.
+
+"(c)
+
+Tracking of Performance Over Time.—The tool shall permit the tracking of financial performance over time, including by month, quarter, and year, and permit users of the tool to export both current and historical data on financial performance.
+
+"(d)
+
+Updates.—The information covered by the tool shall be updated not less frequently than quarterly."
 
 #### Improved Management Practices To Reduce Cost and Improve Performance of Certain Department of Defense Organizations
 
@@ -364,19 +558,125 @@ Budget Baselines.—Beginning not later than one year after the date of the enac
 
 #### Increased Use of Commercial Data Integration and Analysis Products for the Purpose of Preparing Financial Statement Audits
 
-Pub. L. 114–328, div. A, title X, §1003, Dec. 23, 2016, 130 Stat. 2380, provided that:
+Pub. L. 114–328, div. A, title X, §1003, Dec. 23, 2016, 130 Stat. 2380, which required the Secretary of Defense to procure or develop technologies or services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense, was repealed by Pub. L. 115–91, div. A, title X, §1002(f)(3), Dec. 12, 2017, 131 Stat. 1542. See section 254a of this title.
+
+#### Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs
+
+Pub. L. 114–92, div. A, title II, §217, Nov. 25, 2015, 129 Stat. 770, provided that:
 
 "(a)
 
-Deployment of Data Analytics Capabilities.—The Secretary of Defense shall use competitive procedures under chapter 137 of title 10, United States Code, to procure or develop, as soon as practicable, technologies or services, including those based on commercially available information technologies and services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense.
+In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Deputy Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
 
 "(b)
 
-Use of Funding and Resources.—The Secretary of Defense may use science and technology funding, prototypes, and test and evaluation resources as appropriate in support of this deployment.
+Execution of Activities.—The activities established under subsection (a) shall be carried out by such military departments and Defense Agencies as the Under Secretary and the Deputy Chief Management Officer consider appropriate.
 
 "(c)
 
-Report on Performance.—Not later than 180 days after the date of the enactment of this Act \[Dec.23, 2016\], the Secretary of Defense, in consultation with the Chief Financial Officer and the Chief Management Officer of the Department of Defense, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the capabilities procured pursuant to subsection (a), including the results of using such capabilities in connection with auditing a financial statement of the Department of Defense."
+Activities.—
+
+&emsp;"(1)
+
+In general.—The set of activities established under subsection (a) may include the following:
+
+&emsp;&emsp;"(A) Development of capabilities in Department of Defense laboratories, test centers, and federally funded research and development centers to provide technical support for acquisition program management and business process re-engineering activities.
+
+&emsp;&emsp;"(B) Funding of intramural and extramural research and development activities as described in subsection (e).
+
+&emsp;"(2)
+
+Current activities.—The Secretary shall identify the current activities described in subparagraphs (A) and (B) of paragraph (1) that are being carried out as of the date of the enactment of this Act \[Nov. 25, 2015\]. The Secretary shall consider such current activities in determining the set of activities to establish pursuant to subsection (a).
+
+"(d)
+
+Gap Analysis.—In establishing the set of activities under subsection (a), not later than 270 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—
+
+&emsp;"(1) the set of activities to establish pursuant to subsection (a) that carry out the purposes specified in subsection (c)(1); and
+
+&emsp;"(2) the proposed funding requirements and timelines.
+
+"(e)
+
+Funding of Intramural and Extramural Research and Development.—
+
+&emsp;"(1)
+
+In general.—In carrying out the set of activities required by subsection (a), the Secretary may award grants or contracts to eligible entities to carry out intramural or extramural research and development in areas of interest described in paragraph (3).
+
+&emsp;"(2)
+
+Eligible entities.—For purposes of this subsection, an eligible entity includes the following:
+
+&emsp;&emsp;"(A) Entities in the defense industry.
+
+&emsp;&emsp;"(B) Institutions of higher education.
+
+&emsp;&emsp;"(C) Small businesses.
+
+&emsp;&emsp;"(D) Nontraditional defense contractors (as defined in section 2302 of title 10, United States Code).
+
+&emsp;&emsp;"(E) Federally funded research and development centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+&emsp;&emsp;"(F) Nonprofit research institutions.
+
+&emsp;&emsp;"(G) Government laboratories and test centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+&emsp;"(3)
+
+Areas of interest.—The areas of interest described in this paragraph are the following:
+
+&emsp;&emsp;"(A) Management innovation, including personnel and financial management policy innovation.
+
+&emsp;&emsp;"(B) Business process re-engineering.
+
+&emsp;&emsp;"(C) Systems engineering of information technology business systems.
+
+&emsp;&emsp;"(D) Cloud computing to support business systems and business processes.
+
+&emsp;&emsp;"(E) Software development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial software to meet the needs of the Department of Defense.
+
+&emsp;&emsp;"(F) Hardware development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial hardware to meet the needs of the Department of Defense.
+
+&emsp;&emsp;"(G) Development of methodologies and tools to support development and operational test of large and complex business systems.
+
+&emsp;&emsp;"(H) Analysis tools to allow decision-makers to make tradeoffs between requirements, costs, technical risks, and schedule in major automated information system acquisition programs.
+
+&emsp;&emsp;"(I) Information security in major automated information system systems.
+
+&emsp;&emsp;"(J) Innovative acquisition policies and practices to streamline acquisition of information technology systems.
+
+&emsp;&emsp;"(K) Such other areas as the Secretary considers appropriate.
+
+"(f)
+
+Priorities.—
+
+&emsp;"(1)
+
+In general.—In carrying out the set of activities required by subsection (a), the Secretary shall give priority to—
+
+&emsp;&emsp;"(A) projects that—
+
+&emsp;&emsp;&emsp;"(i) address the innovation and technology needs of the Department of Defense; and
+
+&emsp;&emsp;&emsp;"(ii) support activities of initiatives, programs, and offices identified by the Under Secretary and Deputy Chief Management Officer; and
+
+&emsp;&emsp;"(B) the projects and programs identified in paragraph (2).
+
+&emsp;"(2)
+
+Projects and programs identified.—The projects and programs identified in this paragraph are the following:
+
+&emsp;&emsp;"(A) Major automated information system programs.
+
+&emsp;&emsp;"(B) Projects and programs under the oversight of the Deputy Chief Management Officer.
+
+&emsp;&emsp;"(C) Projects and programs relating to defense procurement acquisition policy.
+
+&emsp;&emsp;"(D) Projects and programs of the agencies and field activities of the Office of the Secretary of Defense that support business missions such as finance, human resources, security, management, logistics, and contract management.
+
+&emsp;&emsp;"(E) Military and civilian personnel policy development for information technology workforce."
 
 #### Deadline for Guidance on Covered Defense Business Systems
 
@@ -400,51 +700,7 @@ Deadline.—The accounting standards required by subsection (a) shall be establi
 
 #### Annual Audit of Financial Statements of Department of Defense Components by Independent External Auditors
 
-Pub. L. 114–92, div. A, title X, §1005, Nov. 25, 2015, 129 Stat. 961, provided that:
-
-"(a)
-
-Audits Required.—For purposes of satisfying the requirement under section 3521(e) of title 31, United States Code, for audits of financial statements of Department of Defense components identified by the Director of the Office of Management and Budget under section 3515(c) of such title, the Inspector General of the Department of Defense shall obtain each year audits of the financial statements of each such component by an independent external auditor.
-
-"(b)
-
-Selection of Auditors.—The selection of independent external auditors for purposes of subsection (a) shall be based, among other appropriate criteria, on their qualifications, independence, and capacity to conduct audits described in subsection (a) in accordance with applicable generally accepted government auditing standards. The Inspector General shall participate in the selection of the independent external auditors.
-
-"(c)
-
-Monitoring Audits.—The Inspector General shall monitor the conduct of all audits by independent external auditors under subsection (a).
-
-"(d)
-
-Reports on Audits.—
-
-&emsp;"(1)
-
-In general.—The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
-
-&emsp;&emsp;"(A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31, United States Code;
-
-&emsp;&emsp;"(B) the Controller of the Office of Federal Financial Management in the Office of Management and Budget; and
-
-&emsp;&emsp;"(C) the appropriate committees of Congress.
-
-&emsp;"(2)
-
-Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
-
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
-
-"(e)
-
-Relationship to Existing Law.—The requirements of this section—
-
-&emsp;"(1) shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 113 note);
-
-&emsp;"(2) shall not be construed to alter the requirement under section 3521(e) of title 31, United States Code, that the financial statements of the Department of Defense as a whole be audited by the Inspector General or by an independent external auditor, as determined by the Inspector General; and
-
-&emsp;"(3) shall not be construed to limit or alter the authorities of the Comptroller General of the United States under section 3521(g) of title 31, United States Code."
+Pub. L. 114–92, div. A, title X, §1005, Nov. 25, 2015, 129 Stat. 961, which required an annual audit of financial statements of Department of Defense components by independent external auditors, was repealed by Pub. L. 115–91, div. A, title X, §1002(e)(4), Dec. 12, 2017, 131 Stat. 1541. See section 254 of this title.
 
 #### Deadline for Establishment of Investment Review Board and Investment Management Process
 
@@ -452,11 +708,11 @@ Pub. L. 113–291, div. A, title IX, §901(e), Dec. 19, 2014, 128 Stat. 3464, pr
 
 #### Audit of Department of Defense Fiscal Year 2018 Financial Statements
 
-Pub. L. 113–66, div. A, title X, §1003(a), Dec. 26, 2013, 127 Stat. 842, provided that: "In addition to the requirement under section 1003(a)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2222 note) that the Financial Improvement and Audit Readiness Plan describe specific actions to be taken and the costs associated with ensuring that the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, upon the conclusion of fiscal year 2018, the Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for such fiscal year. The Secretary shall submit to Congress the results of that audit by not later than March 31, 2019."
+Pub. L. 113–66, div. A, title X, §1003(a), Dec. 26, 2013, 127 Stat. 842, which required a full audit of the financial statements of the Department of Defense for fiscal year 2018, was repealed by Pub. L. 115–91, div. A, title X, §1002(b)(2), Dec. 12, 2017, 131 Stat. 1538. For similar provisions requiring annual audits, see section 251 of this title.
 
 #### Review of Obligation and Expenditure Thresholds
 
-Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
+Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 "(a)
 
@@ -476,7 +732,7 @@ Training.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 
 Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under section 131 of this title, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.\]</i>
+\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
 #### Audit Readiness of Financial Statements of the Department of Defense
 
@@ -502,7 +758,7 @@ Additional elements in fiar plan report.—Each semi-annual report on the Financ
 
 &emsp;&emsp;"(iii) a description of the plan of the military department for meeting the alternative deadline."
 
-Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
+Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 "(a)
 
@@ -546,9 +802,9 @@ Matters covered.—The report shall include a corrective action plan for any ide
 
 &emsp;&emsp;"(D) provide timeframes for implementation of such measures."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under section 131 of this title, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which</i><i>amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.\]</i>
+\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
-Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that:
+Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91,div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 "(a)
 
@@ -640,83 +896,9 @@ Report.—The Under Secretary shall include a discussion of the review performed
 
 &emsp;&emsp;"(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under section 131 of this title, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328,</i><i>div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.\]</i>
+\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
-Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, §1003(b), Dec. 26, 2013, 127 Stat. 842, provided that:
-
-"(a)
-
-Financial Improvement Audit Readiness Plan.—
-
-&emsp;"(1)
-
-In general.—The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), develop and maintain a plan to be known as the 'Financial Improvement and Audit Readiness Plan'.
-
-&emsp;"(2)
-
-Elements.—The plan required by paragraph (1) shall—
-
-&emsp;&emsp;"(A) describe specific actions to be taken and the costs associated with—
-
-&emsp;&emsp;&emsp;"(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information;
-
-&emsp;&emsp;&emsp;"(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014; and
-
-&emsp;&emsp;&emsp;"(iii) ensuring the audit of the financial statements of the Department of Defense for fiscal year 2018 occurs by not later than March 31, 2019.
-
-&emsp;&emsp;"(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by section 2222 of title 10, United States Code;
-
-&emsp;&emsp;"(C) prioritize—
-
-&emsp;&emsp;&emsp;"(i) improving the budgetary information of the Department of Defense, in order to achieve an unqualified audit opinion on the Department's statements of budgetary resources; and
-
-&emsp;&emsp;&emsp;"(ii) as a secondary goal, improving the accuracy and reliability of management information on the Department's mission-critical assets (military and general equipment, real property, inventory, and operating materials and supplies) and validating its accuracy through existence and completeness audits; and
-
-&emsp;&emsp;"(D) include interim goals, including—
-
-&emsp;&emsp;&emsp;"(i) the objective of ensuring that the financial statement of each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency is validated as ready for audit: and
-
-&emsp;&emsp;&emsp;"(ii) a schedule setting forth milestones for elements of the military departments and financial statements of the military departments to be made ready for audit as part of the progress required to meet the objectives established pursuant to clause (i) of this subparagraph and clause (ii) of subparagraph (A) of this paragraph.
-
-"(b)
-
-Semi-annual Reports on Financial Improvement and Audit Readiness Plan.—
-
-&emsp;"(1)
-
-In general.—Not later than May 15 and November 15 each year, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the implementation by the Department of Defense of the Financial Improvement and Audit Readiness Plan required by subsection (a).
-
-&emsp;"(2)
-
-Elements.—Each report under paragraph (1) shall include, at a minimum—
-
-&emsp;&emsp;"(A) an overview of the steps the Department has taken or plans to take to meet the objectives specified in subsection (a)(2)(A), including progress toward achieving the interim goals and milestone schedule established pursuant to subsection (a)(2)(D); and
-
-&emsp;&emsp;"(B) a description of any impediments identified in the efforts of the Department to meet such objectives, and of the actions the Department has taken or plans to take to address such impediments.
-
-&emsp;"(3)
-
-Additional issues to be addressed in first report.—The first report submitted under paragraph (1) after the date of the enactment of this Act \[Oct. 28, 2009\] shall address, in addition to the elements required by paragraph (2), the actions taken or to be taken by the Department as follows:
-
-&emsp;&emsp;"(A) To develop standardized guidance for financial improvement plans by components of the Department.
-
-&emsp;&emsp;"(B) To establish a baseline of financial management capabilities and weaknesses at the component level of the Department.
-
-&emsp;&emsp;"(C) To provide results-oriented metrics for measuring and reporting quantifiable results toward addressing financial management deficiencies.
-
-&emsp;&emsp;"(D) To define the oversight roles of the Chief Management Officer of the Department of Defense, the chief management officers of the military departments, and other appropriate elements of the Department to ensure that the requirements of the Financial Improvement and Audit Readiness Plan are carried out.
-
-&emsp;&emsp;"(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials and organizations at the component level of the Department.
-
-&emsp;&emsp;"(F) To develop mechanisms to track budgets and expenditures for the implementation of the requirements of the Financial Improvement and Audit Readiness Plan.
-
-&emsp;&emsp;"(G) To develop a mechanism to conduct audits of the military intelligence programs and agencies and to submit audited financial statements for such agencies to Congress in a classified manner.
-
-"(c)
-
-Relationship to Existing Law.—The requirements of this section shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1204; 10 U.S.C. 2222 \[113\] note)."
-
-\[For termination, effective Dec. 31, 2021, of semi-annual reporting provisions in section 1003(b) of Pub. L. 111–84, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, §1003(b), Dec. 26, 2013, 127 Stat. 842, which directed the Chief Management Officer of the Department of Defense to develop a Financial Improvement and Audit Readiness Plan and to submit semi-annual reports to Congress on the status of the implementation of such plan, was repealed by Pub. L. 115–91, div. A, title X, §1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Business Process Reengineering Efforts; Ongoing Programs
 
@@ -926,5 +1108,7 @@ Exception.—The limitation in subsection (a) shall not apply to an activity dir
 
 Pub. L. 109–364, div. A, title VIII, §811, Oct. 17, 2006, 120 Stat. 2316, which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by Pub. L. 114–92, div. A, title VIII, §883(c), Nov. 25, 2015, 129 Stat. 947.
 
-<i><sup>1</sup></i><i> See Codification note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (e)(6)(A)."</i>
 

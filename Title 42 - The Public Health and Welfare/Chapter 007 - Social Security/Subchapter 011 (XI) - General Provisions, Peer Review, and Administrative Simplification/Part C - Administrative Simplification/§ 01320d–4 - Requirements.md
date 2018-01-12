@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the health plan may not refuse to conduct such transaction as a standard transaction;
 
-&emsp;&emsp;(B) the insurance plan may not delay such transaction, or otherwise adversely affect, or attempt to adversely affect, the person or the transaction on the ground that the transaction is a standard transaction; and
+&emsp;&emsp;(B) the insurance plan may not delay such transaction, or otherwise adversely affect, or attempt to adversely affect, the person orthe transaction on the ground that the transaction is a standard transaction; and
 
 &emsp;&emsp;(C) the information transmitted and received in connection with the transaction shall be in the form of standard data elements of health information.
 

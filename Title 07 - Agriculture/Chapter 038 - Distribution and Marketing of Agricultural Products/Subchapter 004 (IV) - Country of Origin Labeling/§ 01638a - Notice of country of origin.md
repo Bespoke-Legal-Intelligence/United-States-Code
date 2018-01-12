@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) not imported into the United States for immediate slaughter,
 
-&emsp;&emsp;&nbsp;may designate the country of origin of such covered commodity as all of thecountries in which the animal may have been born, raised, or slaughtered.
+&emsp;&emsp;&nbsp;may designate the country of origin of such covered commodity as all of the countries in which the animal may have been born, raised, or slaughtered.
 
 #### (ii) Relation to general requirement
 
@@ -144,7 +144,7 @@ Any person engaged in the business of supplying a covered commodity to a retaile
 
 #### References in Text
 
-This Act, referred to in subsec. (f)(2)(A), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended section 427 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (f)(2)(A), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended section 3104 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

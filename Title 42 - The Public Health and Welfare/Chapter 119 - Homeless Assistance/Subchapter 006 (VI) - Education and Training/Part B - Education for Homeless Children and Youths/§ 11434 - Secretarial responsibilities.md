@@ -2,7 +2,7 @@
 
 #### (a) Review of State plans
 
-In reviewing the State plan submitted by a State educational agency under section 11432(g)of this title, the Secretary shall use a peer review process and shall evaluate whether State laws, policies, and practices described in such plan adequately address the problems of homeless children and youths relating to access to education and placement as described in such plan.
+In reviewing the State plan submitted by a State educational agency under section 11432(g) of this title, the Secretary shall use a peer review process and shall evaluate whether State laws, policies, and practices described in such plan adequately address the problems of homeless children and youths relating to access to education and placement as described in such plan.
 
 #### (b) Technical assistance
 
@@ -68,7 +68,7 @@ Not later than 4 years after December 10, 2015, the Secretary shall prepare and 
 
 #### References in Text
 
-That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The Every Student Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
+That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The EveryStudent Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ Another prior section 11434, Pub. L. 100–77, title VII, §724, July 22, 1987, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c). Pub. L. 114–95, §9104(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Secretary shall, before the next school year that begins after January8, 2002, create and disseminate nationwide a public notice of the educational rights of homeless children and youths and disseminate such notice to other Federal agencies, programs, and grantees, including Head Start grantees, Health Care for the Homeless grantees, Emergency Food and Shelter grantees, and homeless assistance programs administered by the Department of Housing and Urban Development."
+<b>2015</b>—Subsec. (c). Pub. L. 114–95, §9104(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Secretary shall, before the next school year that begins after January 8, 2002, create and disseminate nationwide a public notice of the educational rights of homeless children and youths and disseminate such notice to other Federal agencies, programs, and grantees, including Head Start grantees, Health Care for the Homeless grantees, Emergency Food and Shelter grantees, and homeless assistance programs administered by the Department of Housing and Urban Development."
 
 Subsec. (d). Pub. L. 114–95, §9104(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Secretary shall conduct evaluation and dissemination activities of programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under section 11435 of this title to conduct such activities."
 
@@ -99,4 +99,8 @@ Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "J
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 

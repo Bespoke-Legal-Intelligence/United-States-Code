@@ -24,7 +24,7 @@
 
 &emsp;(1) performs an act of violence against any individual on board any civil aircraft registered in a country other than the United States while such aircraft is in flight, if such act is likely to endanger the safety of that aircraft;
 
-&emsp;(2) destroys a civil aircraft registered in a country other than the United States while such aircraft is in service or causes damage to such an aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft's safety in flight;
+&emsp;(2) destroys a civil aircraft registered in a country other than the United States while such aircraft is in service or causes damage to such an aircraft which renders that aircraftincapable of flight or which is likely to endanger that aircraft's safety in flight;
 
 &emsp;(3) places or causes to be placed on a civil aircraft registered in a country other than the United States while such aircraft is in service, a device or substance which is likely to destroy that aircraft, or to cause damage to that aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft's safety in flight; or
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 103–322, §330016(1)(O), substituted "fined under this ti
 
 "Whoever, with like intent, willfully places or causes to be placed any destructive substance in, upon, or in proximity to any such aircraft, or any aircraft engine, propeller, appliance, spare part, fuel, lubricant, hydraulic fluid, or other material used or intended to be used in connection with the operation of any such aircraft, or any cargo carried or intended to be carried on any such aircraft, or otherwise makes or causes to be made any such aircraft, aircraft engine, propeller, appliance, spare part, fuel, lubricant, hydraulic fluid, or other material unworkable or unusable or hazardous to work or use; or
 
-"Whoever, with like intent, willfully sets fire to, damages, destroys, disables, or wrecks, or places orcauses to be placed any destructive substance in, upon, or in proximity to any shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus used or intended to be used in connection with the operation, loading, or unloading of any such aircraft or making any such aircraft ready for flight, or otherwise makes or causes to be made any such shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus unworkable or unusable or hazardous to work or use; or
+"Whoever, with like intent, willfully sets fire to, damages, destroys, disables, or wrecks, or places or causes to be placed any destructive substance in, upon, or in proximity to any shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus used or intended to be used in connection with the operation, loading, or unloading of any such aircraft or making any such aircraft ready for flight, or otherwise makes or causes to be made any such shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus unworkable or unusable or hazardous to work or use; or
 
 "Whoever, with like intent, willfully incapacitates any member of the crew of any such aircraft; or
 

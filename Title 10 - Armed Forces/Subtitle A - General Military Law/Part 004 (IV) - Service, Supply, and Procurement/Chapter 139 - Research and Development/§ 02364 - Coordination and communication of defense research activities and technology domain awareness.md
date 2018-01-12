@@ -12,9 +12,9 @@ Coordination of Department of Defense Research, Development, and Technological D
 
 &emsp;(4) among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
 
-&emsp;(5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it mayoccur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
+&emsp;(5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
 
-&emsp;(6) through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that conveys <sup>1</sup> successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
+&emsp;(6) through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that convey successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
 
 (b)
 
@@ -40,9 +40,11 @@ Definitions.—In this section, the term "Defense research facility" means a Dep
 
 &emsp;(2) applied research known as exploratory development.
 
-(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390; Pub. L. 113–291, div. A, title II, §213, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 114–92, div. A, title II, §214(a), Nov. 25, 2015, 129 Stat. 767.)
+(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390; Pub. L. 113–291, div. A, title II, §213, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 114–92, div. A, title II, §214(a), Nov. 25, 2015, 129 Stat. 767; Pub. L. 115–91, div. A, title X, §1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(6). Pub. L. 115–91 substituted "convey" for "conveys".
 
 <b>2015</b>—Pub. L. 114–92, §214(a)(3), inserted "and technology domain awareness" after "activities" in section catchline.
 
@@ -119,6 +121,4 @@ Findings.—The Congress finds that centralized coordination of the collection a
 &emsp;"(1) to ensure that personnel of the Department are currently informed about emerging technology for defense systems; and
 
 &emsp;"(2) to avoid unnecessary and costly duplication of research staffs and projects."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "convey".</i>
 

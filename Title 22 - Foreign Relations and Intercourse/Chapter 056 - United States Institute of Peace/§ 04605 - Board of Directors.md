@@ -58,7 +58,7 @@ A member of the Board appointed under subsection (b)(4) may be removed by the Pr
 
 #### (g) Conflict of interests
 
-No member of the Board may participate in any decision, action, or recommendation withrespect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
+No member of the Board may participate in any decision, action, or recommendation with respect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
 
 #### (h) Meetings; Chairman; Vice Chairman; quorum; notice in Federal Register; closure
 
@@ -90,7 +90,7 @@ Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pu
 
 Subsec. (e)(5). Pub. L. 110–315, §921(b)(1)(B), added par. (5).
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate)."
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3)which read as follows: "The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate)."
 
 Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted "Twelve" for "Eleven". Former par. (4) redesignated (3).
 

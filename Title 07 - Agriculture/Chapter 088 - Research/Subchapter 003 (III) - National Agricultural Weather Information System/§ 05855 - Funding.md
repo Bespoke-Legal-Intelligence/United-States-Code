@@ -8,7 +8,7 @@
 
 #### (2) Competitive grants program
 
-&emsp;Not less than 15 percent and not more than 25 percent of such funds shall be used by theNational Institute of Food and Agriculture for a competitive grants program under section 5852(c) of this title.
+&emsp;Not less than 15 percent and not more than 25 percent of such funds shall be used by the National Institute of Food and Agriculture for a competitive grants program under section 5852(c) of this title.
 
 #### (3) Weather information systems
 
@@ -30,7 +30,7 @@ There are authorized to be appropriated to carry out this subchapter $5,000,000 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

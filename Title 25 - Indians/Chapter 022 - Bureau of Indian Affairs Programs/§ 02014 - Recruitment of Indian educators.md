@@ -10,3 +10,7 @@ A prior section 2014, Pub. L. 95–561, title XI, §1134, as added Pub. L. 103�
 
 Another prior section 2014, Pub. L. 95–561, title XI, §1134, Nov. 1, 1978, 92 Stat. 2327, related to uniform education procedures and practices by Bureau divisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+

@@ -50,7 +50,7 @@ Pub. L. 95–454, title IX, §902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
 "(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
 
-"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to anysuch suit, action, or other proceeding shall be made as if this Act had not been enacted."
+"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office ofPersonnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted."
 
 #### Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates
 
@@ -140,7 +140,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 "(d)
 
-Actions After Transfer.—(1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make a written determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
+Actions After Transfer.—(1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make awritten determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
 
 "(2) A function performed by Defense Security Service employees as of the date of the enactment of this Act \[Nov. 24, 2003\] may not be converted to contractor performance by the Director of the Office of Personnel Management until—
 
@@ -410,7 +410,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 (d) When in the judgment of the Special Counsel, such personnel practices exist, he shall report his findings and recommendations to the Chairman of the Merit Systems Protection Board, the agency affected, and to the Office of Personnel Management, and may report such findings to the President.
 
-(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is within the jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board. Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
+(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is within the jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board.Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
 
 (f) The Special Counsel may appoint personnel necessary to assist in the performance of his functions.
 
@@ -480,7 +480,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### Sec. 403. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before January 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before January 1, 1979, as the President shall specify, but notsooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, this Reorg. Plan is generally effective Jan. 1, 1979.\]
 
@@ -562,7 +562,7 @@ Merit Systems Protection Board
 
 The Special Counsel
 
-1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel tothe Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 1–302. <i>Functions of the Special Counsel</i>. The transfer of functions provided for in Section 204(b) and the performance of functions set forth in Section 204(c)–(g) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
@@ -754,7 +754,7 @@ Redesignations
 
 12105
 
-2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as a note under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words "Merit Systems Protection Board" for the words "Civil Service Commission" or "Commission" when used as a reference to the Civil Service Commission wherever such words appear.
+2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as anote under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words "Merit Systems Protection Board" for the words "Civil Service Commission" or "Commission" when used as a reference to the Civil Service Commission wherever such words appear.
 
 2–103. \[Amended Civil Service Rules under section 101 of Ex. Ord. No. 10577, formerly set out as a note under section 3301 of this title.\]
 
@@ -814,7 +814,7 @@ Sec. 2. (a) The Director shall establish criteria for determining the eligibilit
 
 (1) The objectives of the Combined Federal Campaign are to lessen the burdens of government in meeting needs of human health and welfare; to provide a convenient channel through which Federal public servants may contribute to these efforts; to minimize or eliminate disruption of the Federal workplace and costs to Federal taxpayers that such fund-raising may entail; and to avoid the reality and appearance of the use of Federal resources in aid of fund-raising for political activity or advocacy of public policy, lobbying, or philanthropy of any kind that does not directly serve needs of human health and welfare.
 
-(2) To meet these objectives, eligibility for participation in the Combined Federal Campaign shall be limited to voluntary, charitable, health and welfare organizations that provide or support direct health and welfare services to individuals or their families. Such direct health and welfare services must be available to Federal employees in the local campaign solicitation area, unless they are rendered to needy persons overseas. Such services must directly benefit human beings, whether children, youth, adults, the aged, the ill and infirm, or the mentally or physically handicapped. Such services must consist of care, research or education in the fields of human health or social adjustment and rehabilitation; relief of victims of natural disasters and other emergencies; or assistance to those who are impoverished and therefore in need of food,shelter, clothing, education, and basic human welfare services.
+(2) To meet these objectives, eligibility for participation in the Combined Federal Campaign shall be limited to voluntary, charitable, health and welfare organizations that provide or support direct health and welfare services to individuals or their families. Such direct health and welfare services must be available to Federal employees in the local campaign solicitation area, unless they are rendered to needy persons overseas. Such services must directly benefit human beings, whether children, youth, adults, the aged, the ill and infirm, or the mentally or physically handicapped. Such services must consist of care, research or education in the fields of human health or social adjustment and rehabilitation; relief of victims of natural disasters and other emergencies; or assistance to those who are impoverished and therefore in need of food, shelter, clothing, education, and basic human welfare services.
 
 (3) Organizations that seek to influence the outcomes of elections or the determination of public policy through political activity or advocacy, lobbying, or litigation on behalf of parties other than themselves shall not be deemed charitable health and welfare organizations and shall not be eligible to participate in the Combined Federal Campaign.
 

@@ -12,13 +12,13 @@
 
 #### (b) Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending
 
-(1) The Office may make a loan or loan guarantee to a borrower under subsection (a)(1)(A) of this section only if the Office determines that—
+(1) The Office may make a loan or loan guarantee to a borrower under subsection (a)(1)(A) only if the Office determines that—
 
 &emsp;(A) the borrower is unable to obtain financing from other sources on reasonable terms and conditions; and
 
 &emsp;(B) there is a reasonable prospect that the borrower will repay the loan.
 
-(2) Each loan or loan guarantee made under subsection (a)(1)(A) of this section shall be—
+(2) Each loan or loan guarantee made under subsection (a)(1)(A) shall be—
 
 &emsp;(A) for a term that does not exceed 7 years; and
 
@@ -28,17 +28,17 @@
 
 &emsp;&emsp;(II) 3 percentage points.
 
-(3) The Office may require any borrower of a loan made under subsection (a)(1)(A) of this section to provide such collateral as the Office determines to be necessary to secure the loan.
+(3) The Office may require any borrower of a loan made under subsection (a)(1)(A) to provide such collateral as the Office determines to be necessary to secure the loan.
 
-(4) Prior to making loans under subsection (a)(1)(A) of this section, the Office shall establish written procedures and definitions pertaining to defaults and collections of payments under the loans which shall be subject to the review and approval of the Commissioner. Such Office shall provide to each applicant for a loan under subsection (a)(1)(A) of this section, at the time application for the loan is made, a written copy of such procedures and definitions.
+(4) Prior to making loans under subsection (a)(1)(A), the Office shall establish written procedures and definitions pertaining to defaults and collections of payments under the loans which shall be subject to the review and approval of the Commissioner. Such Office shall provide to each applicant for a loan under subsection (a)(1)(A), at the time application for the loan is made, a written copy of such procedures and definitions.
 
 (5) The Office may not lend to itself any of the funds awarded under the grant.
 
 #### (c) Notice to Commissioner of loans in default and uncollectability of such loans; instructions by Commissioner
 
-(1) The Office shall provide the Commissioner at regular intervals written notice of each loan made under subsection (a)(1)(A) of this section that is in default and the status of such loan.
+(1) The Office shall provide the Commissioner at regular intervals written notice of each loan made under subsection (a)(1)(A) that is in default and the status of such loan.
 
-(2)(A) After making reasonable efforts to collect all amounts payable under a loan made under subsection (a)(1)(A) of this section that is in default, the Office shall notify the Commissioner that such loan is uncollectable or collectable only at an unreasonable cost. Such notice shall include recommendations for future action to be taken by the Office.
+(2)(A) After making reasonable efforts to collect all amounts payable under a loan made under subsection (a)(1)(A) that is in default, the Office shall notify the Commissioner that such loan is uncollectable or collectable only at an unreasonable cost. Such notice shall include recommendations for future action to be taken by the Office.
 
 (B) Upon receiving such notice, the Commissioner shall instruct the Office—
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) pay expenses incurred by the Office in administering the revolving loan fund; and
 
-&emsp;(B) provide competent management and technical assistance to borrowers of loans made under subsection (a)(1)(A) of this section to assist the borrowers to achieve the purposes of such loans.
+&emsp;(B) provide competent management and technical assistance to borrowers of loans made under subsection (a)(1)(A) to assist the borrowers to achieve the purposes of such loans.
 
 (2) The Commissioner shall provide to the Office such management and technical assistance as the Office may request in order to carry out the provisions of this section.
 
@@ -64,9 +64,9 @@
 
 Not later than 120 days after November 29, 1987, the Commissioner, in consultation with appropriate agencies of the State of Hawaii and community-based Native Hawaiian organizations, shall prescribe regulations which set forth the procedures and criteria to be used—
 
-&emsp;(1) in making loans under subsection (a)(1)(A) of this section; and
+&emsp;(1) in making loans under subsection (a)(1)(A); and
 
-&emsp;(2) in canceling, adjusting, compromising, and reducing under subsection (c) of this section the outstanding amounts of such loans.
+&emsp;(2) in canceling, adjusting, compromising, and reducing under subsection (c) the outstanding amounts of such loans.
 
 > The Commissioner may prescribe such other regulations as may be necessary to carry out the purposes of this section, including regulations involving reporting and auditing.
 
@@ -74,15 +74,15 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 (1) There is authorized to be appropriated for each of the fiscal years 2000 and 2001, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated under this paragraph shall remain available for expenditure without fiscal year limitation.
 
-(2) The revolving loan fund that is required to be established under subsection (a)(1) of this section shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
+(2) The revolving loan fund that is required to be established under subsection (a)(1) shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
 
 #### (g) Reports to Congress; contents
 
 (1) The Commissioner, in consultation with the Office, shall submit a report to the President pro tempore of the Senate and the Speaker of the House of Representatives not later than January 1 following each fiscal year, regarding the administration of this section in such fiscal year.
 
-(2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) of this section and with respect to loans made from such fund, and shall—
+(2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) and with respect to loans made from such fund, and shall—
 
-&emsp;(A) describe the effectiveness of the operation of such fund in improving the economic and social self-sufficiency of Native Hawaiians;
+&emsp;(A) describe the effectiveness of the operation of such fund in improving the economicand social self-sufficiency of Native Hawaiians;
 
 &emsp;(B) specify the number of loans made in such fiscal year;
 
@@ -104,7 +104,7 @@ Subsec. (b)(2). Pub. L. 105–361, §3(a)(2)(B)(i), substituted "Each loan or lo
 
 Subsec. (b)(2)(A). Pub. L. 105–361, §3(a)(2)(B)(ii), substituted "7 years" for "5 years".
 
-Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted "that does not exceed a rate equal to the sum of—" for "that is 2 percentage points below the average market yield on the most recent public offering ofUnited States Treasury bills occurring before the date on which the loan is made." and added cls. (I) and (II).
+Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted "that does not exceed a rate equal to the sum of—" for "that is 2 percentage points below the average market yield on the most recent public offering of United States Treasury bills occurring before the date on which the loan is made." and added cls. (I) and (II).
 
 Subsec. (f)(1). Pub. L. 105–361, §3(a)(3), substituted "2000 and 2001," for "1992, 1993, and 1994,".
 

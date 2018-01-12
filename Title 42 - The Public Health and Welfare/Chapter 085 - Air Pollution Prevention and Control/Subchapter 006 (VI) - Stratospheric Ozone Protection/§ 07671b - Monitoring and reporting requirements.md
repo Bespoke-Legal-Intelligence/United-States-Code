@@ -10,7 +10,7 @@ On a quarterly basis, or such other basis (not less than annually) as determined
 
 #### (c) Baseline reports for class I substances
 
-Unless such information has previously been reported to the Administrator, on the date on which the first report under subsection (b) of this section is required to be filed, each person who produced, imported, or exported a class I substance (other than a substance added to the list of class I substances after the publication of the initial list of such substances under this section) shall file a report with the Administrator setting forth the amount of such substance that such person produced, imported, and exported during the baseline year. In the case of a substance added to the list of class I substances after publication of the initial list of such substances under this section, the regulations shall require that each person who produced, imported, or exported such substance shall file areport with the Administrator within 180 days after the date on which such substance is added to the list, setting forth the amount of the substance that such person produced, imported, and exported in the baseline year.
+Unless such information has previously been reported to the Administrator, on the date on which the first report under subsection (b) is required to be filed, each person who produced, imported, or exported a class I substance (other than a substance added to the list of class I substances after the publication of the initial list of such substances under this section) shall file a report with the Administrator setting forth the amount of such substance that such person produced, imported, and exported during the baseline year. In the case of a substance added to the list of class I substances after publication of the initial list of such substances under this section, the regulations shall require that each person who produced, imported, or exported such substance shall file a report with the Administrator within 180 days after the date on which such substance is added to the list, setting forth the amount of the substance that such person produced, imported, and exported in the baseline year.
 
 #### (d) Monitoring and reports to Congress
 
@@ -38,7 +38,7 @@ The Administrator shall review, on a periodic basis, the progress being made in 
 
 #### (f) Emergency report
 
-If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5/10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) of this section and updated not less often than every 3 years.
+If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5/10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) and updated not less often than every 3 years.
 
 (July 14, 1955, ch. 360, title VI, §603, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2653.)
 
@@ -64,7 +64,7 @@ Domestic Methane Source Inventory and Control.—Not later than 2 years after th
 
 &emsp;"(3) Methane emissions associated with management of solid waste. Such report shall include an inventory of methane emissions associated with all forms of waste management in the United States, including storage, treatment, and disposal.
 
-&emsp;"(4) Methane emissions associated with agriculture. Such report shall include an inventory of methaneemissions associated with rice and livestock production in the United States.
+&emsp;"(4) Methane emissions associated with agriculture. Such report shall include an inventory of methane emissions associated with rice and livestock production in the United States.
 
 &emsp;"(5) Methane emissions associated with biomass burning. Such report shall include an inventory of methane emissions associated with the intentional burning of agricultural wastes, wood, grasslands, and forests.
 
@@ -92,7 +92,7 @@ Natural Sources.—Not later than 2 years after the enactment of this Act \[Nov.
 
 "(e)
 
-Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
+Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities orsources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
 
 "(f)
 

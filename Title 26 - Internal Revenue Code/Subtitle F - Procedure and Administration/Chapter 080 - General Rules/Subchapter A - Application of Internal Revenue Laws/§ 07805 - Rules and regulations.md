@@ -18,7 +18,7 @@ Except where such authority is expressly given by this title to any person other
 
 #### (2) Exception for promptly issued regulations
 
-&emsp;Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date of the enactment of the statutory provision to which the regulation relates.
+&emsp;Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date ofthe enactment of the statutory provision to which the regulation relates.
 
 #### (3) Prevention of abuse
 
@@ -102,7 +102,7 @@ Except to the extent otherwise provided by this title, any election under this t
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title XI, §1101(b), July 30, 1996, 110 Stat. 1469, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\]."
+Pub. L. 104–168, title XI, §1101(b), July 30, 1996, 110 Stat. 1469, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\]."
 
 #### Effective Date of 1990 Amendment
 

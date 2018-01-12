@@ -26,7 +26,7 @@ The amount of the direct payment to be paid to an historic peanut producer for t
 
 #### (d) Payment amount for subsequent crop years
 
-The amount of the direct payment to be paid to the producers on a farm for the 2003 through 2007 crops of peanuts shall be equal to the product of the following:
+The amount of the direct payment to be paid to the producers on a farm for the 2003 through2007 crops of peanuts shall be equal to the product of the following:
 
 &emsp;(1) The payment rate specified in subsection (b).
 

@@ -94,7 +94,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (1) Statutory construction
 
-&emsp;(A) Nothing in this Act shall constitute or be construed to constitute either an express orimplied reservation of any water or water rights with respect to the lands within the Protection Area.
+&emsp;(A) Nothing in this Act shall constitute or be construed to constitute either an express or implied reservation of any water or water rights with respect to the lands within the Protection Area.
 
 &emsp;(B) Nothing in this Act shall affect any conditional or absolute water rights in the State of Colorado existing on August 21, 2002.
 
@@ -108,7 +108,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (3) Water infrastructure
 
-&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
+&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, orconstruction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 

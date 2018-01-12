@@ -18,7 +18,7 @@ With respect to the document entitled "Indian Affairs, Laws and Treaties" as rev
 
 There is authorized to be appropriated for carrying out the provisions of this subchapter such sum as may be necessary.
 
-(Pub. L. 90–284, title VII, §701, Apr. 11, 1968, 82 Stat. 80; Pub. L. 93–265, Apr. 12, 1974, 88 Stat. 84;Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 90–284, title VII, §701, Apr. 11, 1968, 82 Stat. 80; Pub. L. 93–265, Apr. 12, 1974, 88 Stat. 84; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments
 
@@ -26,5 +26,5 @@ There is authorized to be appropriated for carrying out the provisions of this s
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(1), (3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(1), (3) onauthority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

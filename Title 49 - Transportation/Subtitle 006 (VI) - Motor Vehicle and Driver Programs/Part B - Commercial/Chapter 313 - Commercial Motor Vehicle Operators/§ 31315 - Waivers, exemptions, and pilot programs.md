@@ -48,7 +48,7 @@ Requests for exemption.—Not later than 180 days after the date of enactment of
 
 &emsp;&emsp;(C) An analysis of the safety impacts the requested exemption may cause.
 
-&emsp;&emsp;(D) The specific countermeasures the person would undertake to ensure an equivalentor greater level of safety than would be achieved absent the requested exemption.
+&emsp;&emsp;(D) The specific countermeasures the person would undertake to ensure an equivalent or greater level of safety than would be achieved absent the requested exemption.
 
 &emsp;(6)
 
@@ -116,7 +116,7 @@ Report to congress.—At the conclusion of each pilot program, the Secretary sha
 
 (d)
 
-Preemption of State Rules.—During the time period that a waiver, exemption, or pilotprogram is in effect under this chapter or section 31136, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.
+Preemption of State Rules.—During the time period that a waiver, exemption, or pilot program is in effect under this chapter or section 31136, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.
 
 (e)
 
@@ -194,7 +194,7 @@ Subsec. (b)(4)(B). Pub. L. 112–141, §32913(a)(2), amended subpar. (B) general
 
 Subsec. (b)(4)(C). Pub. L. 112–141, §32913(a)(3), inserted "(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)" after "Federal Register".
 
-Subsec. (b)(7). Pub. L. 112–141, §32913(b), amended par. (7) generally. Prior to amendment, text read as follows: "Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption."
+Subsec. (b)(7). Pub. L. 112–141, §32913(b), amended par. (7) generally. Prior to amendment, text read as follows:"Before granting a request for exemption, the Secretary shall notify State safety compliance and enforcement personnel, including roadside inspectors, and the public that a person will be operating pursuant to an exemption and any terms and conditions that will apply to the exemption."
 
 Subsec. (c)(1). Pub. L. 112–141, §32913(c), struck out "in the Federal Register" after "shall publish".
 
@@ -204,7 +204,7 @@ Subsecs. (e), (f). Pub. L. 112–141, §32913(d), added subsecs. (e) and (f).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

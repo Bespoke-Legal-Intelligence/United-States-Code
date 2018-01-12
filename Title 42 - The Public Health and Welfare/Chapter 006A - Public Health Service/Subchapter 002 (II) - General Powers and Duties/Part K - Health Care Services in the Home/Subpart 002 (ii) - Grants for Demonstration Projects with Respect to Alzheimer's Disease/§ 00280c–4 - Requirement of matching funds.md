@@ -30,6 +30,10 @@ Subsec. (a). Pub. L. 105–392, §302(b)(2)–(4), redesignated subsec. (b) as (
 
 Subsecs. (b), (c). Pub. L. 105–392, §302(b)(3), redesignated subsecs. (b) and (c) as (a) and (b), respectively.
 
+#### Effective Date
+
+Section effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
+
 <i><sup>1</sup></i><i> Probably should be "subsection (b)".</i>
 
 <i><sup>2</sup></i><i> Probably should be "subsection (a)".</i>

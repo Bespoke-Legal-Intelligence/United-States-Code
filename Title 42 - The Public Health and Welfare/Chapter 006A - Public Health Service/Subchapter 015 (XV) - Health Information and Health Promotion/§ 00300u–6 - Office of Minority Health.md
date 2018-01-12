@@ -64,7 +64,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (6) Vacancies
 
-&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretarywithin 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
 
 #### (7) Compensation
 
@@ -188,7 +188,7 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Reports
 
-Pub. L. 111–148, title X, §10334(a)(3), Mar. 23, 2010, 124 Stat. 972, provided that: "Not later than 1 year after the date of enactment of this section \[Mar. 23, 2010\], and biennially thereafter, the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report describing the activities carried out under section 1707 of the Public Health Service Act \[42 U.S.C. 300u–6\] (as amended by this subsection) during the period for which the report is being prepared. Not later than 1 year after the date of enactment of this section, and biennially thereafter, the heads of each of the agencies of the Department of Health and Human Services shall submit to the Deputy Assistant Secretary for Minority Health a report summarizing the minority health activities of each of the respective agencies."
+Pub. L. 111–148, title X, §10334(a)(3), Mar. 23, 2010, 124 Stat. 972, provided that: "Not later than 1 year after the date of enactment of this section \[Mar. 23, 2010\], and biennially thereafter, the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report describing the activities carried out under section 1707 of the Public Health Service Act \[42 U.S.C. 300u–6\] (as amended by this subsection) during the period for which the report is being prepared. Not later than 1 year after the date of enactment of this section, and biennially thereafter,the heads of each of the agencies of the Department of Health and Human Services shall submit to the Deputy Assistant Secretary for Minority Health a report summarizing the minority health activities of each of the respective agencies."
 
 #### Congressional Findings
 

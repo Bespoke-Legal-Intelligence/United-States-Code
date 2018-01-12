@@ -2,7 +2,7 @@
 
 (a) An agency may use appropriated funds or funds otherwise available to the agency to pay for—
 
-&emsp;(1) expenses for employees to obtain professional credentials, including expenses for professional accreditation, State-imposed andprofessional licenses, and professional certification; and
+&emsp;(1) expenses for employees to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
 
 &emsp;(2) examinations to obtain such credentials.
 

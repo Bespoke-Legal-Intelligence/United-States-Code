@@ -16,7 +16,7 @@ Notwithstanding any other provision of this chapter, the limitations on eligibil
 
 #### (c) Not applicable to foreign assistance
 
-This chapter does not apply to any Federal, State, or local governmental program, assistance, or benefits provided to an alien under any program of foreign assistance as determined by the Secretary of State in consultation with the Attorney General.
+This chapter does not apply to any Federal, State, or local governmental program, assistance, or benefits provided to an alien under anyprogram of foreign assistance as determined by the Secretary of State in consultation with the Attorney General.
 
 #### (d) Severability
 

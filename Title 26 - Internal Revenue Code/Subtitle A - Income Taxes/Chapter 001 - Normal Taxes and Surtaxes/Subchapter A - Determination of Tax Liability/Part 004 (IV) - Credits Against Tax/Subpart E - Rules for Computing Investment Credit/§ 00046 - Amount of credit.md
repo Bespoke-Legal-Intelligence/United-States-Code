@@ -46,7 +46,7 @@ Subsec. (c)(7). Pub. L. 100–647, §1002(a)(17), substituted "property to which
 
 Subsec. (d)(1)(B)(i). Pub. L. 100–647, §1002(a)(25)(A), substituted "property to which section 168 applies" for "recovery property (within the meaning of section 168)".
 
-Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1002(a)(25)(B), substituted "to which section 168 does not apply" for"which is not recovery property (within the meaning of section 168)".
+Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1002(a)(25)(B), substituted "to which section 168 does not apply" for "which is not recovery property (within the meaning of section 168)".
 
 Subsec. (e)(3). Pub. L. 100–647, §1002(a)(15), substituted "property to which section 168 applies" for "recovery property (within the meaning of section 168)", "class life" for "present class life", and "168(i)(1)" for "168(g)(2)".
 
@@ -134,7 +134,7 @@ Subsec. (h)(1). Pub. L. 98–369, §474(o)(7), substituted "the credit determine
 
 <b>1983</b>—Subsec. (a)(2)(C)(i). Pub. L. 97–424, §546(b), added section VII to the table.
 
-Subsec. (a)(2)(C)(iii)(I). Pub. L. 97–448, §202(f), substituted "before January 1, 1983, all engineering studies in connection with the commencement of the construction of the project have been completed and all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project have been applied for, and" for "before January 1, 1983, the taxpayer has completed all engineering studies in connection with the commencement of the construction of the project, and has applied for all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project, and".
+Subsec. (a)(2)(C)(iii)(I). Pub. L. 97–448, §202(f), substituted "before January 1, 1983, all engineering studies in connection with the commencement of the construction of the project have been completed and all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project havebeen applied for, and" for "before January 1, 1983, the taxpayer has completed all engineering studies in connection with the commencement of the construction of the project, and has applied for all environmental and construction permits required under Federal, State, or local law in connection with the commencement of the construction of the project, and".
 
 Subsec. (a)(2)(F)(iii)(II). Pub. L. 97–448, §102(f)(5)(A), substituted "a qualified rehabilitated building" for "any building".
 
@@ -264,7 +264,7 @@ Subsec. (a)(3). Pub. L. 94–455, §802(a)(1), redesignated former par. (2) as (
 
 Subsec. (a)(4). Pub. L. 94–455, §§503(b)(4), 802(a)(1), (b)(1), 1901(a)(4)(A), (b)(1)(C), as amended by Pub. L. 95–600, §703(j)(9), redesignated former par. (3) as (4), and in par. (4) as so redesignated, redesignated former subpar. (C) as (B) and substituted in provisions preceding subpar. (A) "paragraph (3)" for "paragraph (2)", in subpar. (B) as so redesignated "credit for the elderly" for "retirement income", and in provisions following subpar. (B) "section 408(f)" for "section 408(e)". Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 94–455, §802(a)(1), (b)(1), redesignated former par. (4) as (5) and substituted "paragraph\(3)" for "paragraph (2)". Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 94–455, §802(a)(1), (b)(1), redesignated former par. (4) as (5) and substituted "paragraph (3)" for "paragraph (2)". Former par. (5) redesignated (6).
 
 Subsec. (a)(6). Pub. L. 94–455, §§802(a)(1), (b)(1), 1906(b)(13)(A), redesignated former par. (5) as (6) and substituted "paragraph (3)" for "paragraph (2)" and struck out "or his delegate" after "Secretary". Former par. (6) redesignated (7).
 
@@ -582,7 +582,7 @@ Special rule.—In the case of the rehabilitation of the Willard Hotel in Washin
 
 Pub. L. 99–514, title IV, §421(c), Oct. 22, 1986, 100 Stat. 2229, provided that: "The amendments made by this section \[amending this section\] shall apply to periods beginning after December 31, 1985, under rules similar to rules under section 48(m) of the Internal Revenue Code of 1986."
 
-Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, exceptas otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -686,7 +686,7 @@ Payments may be made in two equal installments.—
 
 &emsp;&emsp;"(i)
 
-In general.—The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being due on the last date on which a taxpayer may enter into a closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.
+In general.—The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being dueon the last date on which a taxpayer may enter into a closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.
 
 &emsp;&emsp;"(ii)
 
@@ -862,7 +862,7 @@ Pub. L. 92–178, title I, §108(d), Dec. 10, 1971, 85 Stat. 508, provided that:
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 301(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, seesection 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by section 301(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 Amendment by section 401(e)(1) of Pub. L. 91–172 applicable with respect to taxable years ending on or after Dec. 31, 1970, see section 401(h)(3) of Pub. L. 91–172, set out as a note under section 1561 of this title.
 
@@ -872,7 +872,7 @@ Pub. L. 90–225, §2(g), Dec. 27, 1967, 81 Stat. 732, provided that: "The amend
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–800, §4, Nov. 8, 1966, 80 Stat. 1514, provided that: "The amendments made by this Act \[amending this section and sections 48 and 167 of this title\] shall apply to taxable years ending after October 9, 1966, except that the amendments made by section 3(b) \[amending this section\] shall apply only if the fifth taxable year following the unused credit year ends after December 31, 1966."
+Pub. L. 89–800, §4, Nov. 8, 1966, 80 Stat. 1514, provided that: "The amendments made by this Act \[amending this section and sections 48 and 167 of this title\] shall apply to taxable years ending after October 9, 1966, except that the amendments made by section 3(b)\[amending this section\] shall apply only if the fifth taxable year following the unused credit year ends after December 31, 1966."
 
 Pub. L. 89–389, §2(c), Apr. 14, 1966, 80 Stat. 114, provided that: "The amendments made by this section \[enacting section 1378 of this title and amending this section and sections 1372, 1373, and 1375 of this title\] shall apply with respect to taxable years of electing small business corporations beginning after the date of enactment of this Act \[Apr. 14, 1966\], but such amendments shall not apply with respect to sales or exchanges occurring before February 24, 1966."
 

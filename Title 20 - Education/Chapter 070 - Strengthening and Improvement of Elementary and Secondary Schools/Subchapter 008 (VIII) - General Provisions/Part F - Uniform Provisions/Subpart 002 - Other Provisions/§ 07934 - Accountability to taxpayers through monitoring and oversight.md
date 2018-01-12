@@ -22,7 +22,7 @@ To improve monitoring and oversight of taxpayer funds authorized for appropriati
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965 and such Act, referred to in text, are Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965 and such Act, referred to in text, are Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 

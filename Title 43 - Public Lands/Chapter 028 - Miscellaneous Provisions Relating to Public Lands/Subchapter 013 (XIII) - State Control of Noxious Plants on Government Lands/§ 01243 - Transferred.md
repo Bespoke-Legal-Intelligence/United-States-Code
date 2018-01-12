@@ -1,0 +1,6 @@
+### §1243. Transferred
+
+#### Codification
+
+Section 1243 was editorially reclassified as section 2703 of this title.
+

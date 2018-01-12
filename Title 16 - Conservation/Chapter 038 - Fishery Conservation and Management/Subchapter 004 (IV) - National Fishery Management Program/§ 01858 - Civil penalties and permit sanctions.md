@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (g)(1), was in the original "this Act", mea
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–297, §114(a), struck out "ability to pay," after "history of prior offenses," and inserted at end "In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing."
+<b>1996</b>—Subsec. (a). Pub. L. 104–297, §114(a), struck out "ability to pay," after "history of prior offenses," and inserted at end "In assessing such penalty the Secretary may also consider any information provided bythe violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing."
 
 Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney."
 

@@ -36,7 +36,7 @@
 
 (3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) and to the maximum extent prudent and determinable—
 
-&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species,designate any habitat of such species which is then considered to be critical habitat; and
 
 &emsp;(ii) may, from time-to-time thereafter as appropriate, revise such designation.
 
@@ -122,7 +122,7 @@
 
 (B)(i) If the Secretary finds with respect to a proposed regulation referred to in subparagraph (A)(i) that there is substantial disagreement regarding the sufficiency or accuracy of the available data relevant to the determination or revision concerned, the Secretary may extend the one-year period specified in subparagraph (A) for not more than six months for purposes of soliciting additional data.
 
-(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there isnot sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
+(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there is not sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
@@ -168,7 +168,7 @@ Whenever any species is listed as a threatened species pursuant to subsection (c
 
 The Secretary may, by regulation of commerce or taking, and to the extent he deems advisable, treat any species as an endangered species or threatened species even though it is not listed pursuant to this section if he finds that—
 
-&emsp;(A) such species so closely resembles in appearance, at the point in question, a specieswhich has been listed pursuant to such section that enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species;
+&emsp;(A) such species so closely resembles in appearance, at the point in question, a species which has been listed pursuant to such section that enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species;
 
 &emsp;(B) the effect of this substantial difficulty is an additional threat to an endangered or threatened species; and
 
@@ -224,7 +224,7 @@ If, in the case of any regulation proposed by the Secretary under the authority 
 
 #### References in Text
 
-Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in theAppendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. This chapter, referred to in subsec. (b)(3)(B)(iii)(II), was in the original "the Act" and was translated as if it read "this Act", to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
@@ -244,7 +244,7 @@ Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to 
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–304, §2(a)(1)(B), (D), inserted "promulgated in accordance with subsection (b)" after "shall by regulation" in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, atthe time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
 Subsec. (a)(1)(A). Pub. L. 97–304, §2(a)(1)(A), redesignated subpar. (1) as (A).
 

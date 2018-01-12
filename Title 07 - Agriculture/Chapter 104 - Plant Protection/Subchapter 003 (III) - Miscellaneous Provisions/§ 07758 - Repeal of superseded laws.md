@@ -4,7 +4,7 @@
 
 #### (c) Effect on regulations
 
-Regulations issued under the authority of a provision of law repealed by subsection (a) <sup>1</sup>shall remain in effect until such time as the Secretary issues a regulation under section 7754 of this title that supersedes the earlier regulation.
+Regulations issued under the authority of a provision of law repealed by subsection (a) <sup>1</sup> shall remain in effect until such time as the Secretary issues a regulation under section 7754 of this title that supersedes the earlier regulation.
 
 (Pub. L. 106–224, title IV, §438, June 20, 2000, 114 Stat. 454.)
 
@@ -14,7 +14,7 @@ Section is comprised of section 438 of Pub. L. 106–224. Subsec. (a) of section
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretaryof Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

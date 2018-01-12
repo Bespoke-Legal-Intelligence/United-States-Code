@@ -70,7 +70,7 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 (1) If the President finds that—
 
-&emsp;(A) a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
+&emsp;(A) a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
 
 &emsp;(B) action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
 
@@ -208,7 +208,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198.)
 
 #### References in Text
 
@@ -301,6 +301,28 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 &emsp;"(B) section 501 of the Department of Energy Organization Act (42 U.S.C. 7191)."
 
 #### Strategic Petroleum Reserve Drawdown and Sale
+
+Pub. L. 115–97, title II, §20003, Dec. 22, 2017, 131 Stat. 2237, provided that:
+
+"(a)
+
+Drawdown and Sale.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c), the Secretary of Energy shall draw down and sell from the Strategic Petroleum Reserve 7,000,000 barrels of crude oil during the period of fiscal years 2026 through 2027.
+
+&emsp;"(2)
+
+Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
+
+"(b)
+
+Emergency Protection.—The Secretary of Energy shall not draw down and sell crude oil under subsection (a) in a quantity that would limit the authority to sell petroleum products under subsection (h) of section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241) in the full quantity authorized by that subsection.
+
+"(c)
+
+Limitation.—The Secretary of Energy shall not drawdown or conduct sales of crude oil under subsection (a) after the date on which a total of $600,000,000 has been deposited in the general fund of the Treasury from sales authorized under that subsection."
 
 Pub. L. 114–255, div. A, title V, §5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198, provided that:
 

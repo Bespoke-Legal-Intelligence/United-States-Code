@@ -6,7 +6,7 @@ The purpose of the National Center for Advancing Translational Sciences (in this
 
 &emsp;(1) coordinating and developing resources that leverage basic research in support of translational science; and
 
-&emsp;(2) developing partnerships and working cooperatively to foster synergy in ways that donot create duplication, redundancy, and competition with industry activities.
+&emsp;(2) developing partnerships and working cooperatively to foster synergy in ways that do not create duplication, redundancy, and competition with industry activities.
 
 #### (b) Clinical trial activities
 

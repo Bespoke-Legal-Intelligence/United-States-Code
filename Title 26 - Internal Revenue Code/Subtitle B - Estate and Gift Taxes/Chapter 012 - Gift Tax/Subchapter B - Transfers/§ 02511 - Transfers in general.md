@@ -44,5 +44,5 @@ Amendment by Pub. L. 107–16 applicable to gifts made after Dec. 31, 2009, see 
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to calendar year 1967 and all calendar years thereafter,see section 109(c) of Pub. L. 89–809, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to calendar year 1967 and all calendar years thereafter, see section 109(c) of Pub. L. 89–809, set out as a note under section 2501 of this title.
 

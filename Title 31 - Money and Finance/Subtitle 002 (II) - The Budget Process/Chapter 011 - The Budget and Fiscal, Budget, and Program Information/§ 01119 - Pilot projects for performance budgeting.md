@@ -16,7 +16,7 @@
 
 &emsp;(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, and 9703 of this title, and this section.
 
-(e) After receipt of the report required under subsection (d), the Congress may specify that a performance budget be submitted as part of the annual budget submitted under section 1105.
+(e) After receipt of the report required under subsection (d), the Congress may specify that aperformance budget be submitted as part of the annual budget submitted under section 1105.
 
 (Added Pub. L. 103–62, §6(c), Aug. 3, 1993, 107 Stat. 291.)
 

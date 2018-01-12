@@ -24,7 +24,7 @@ For the purpose of carrying out this section,<sup>1</sup> there is authorized to
 
 #### (b) Scholarships for new participants
 
-Of the amounts appropriated under subsection (a) for a fiscal year, the Secretary shall obligate not less than 10 percent for the purpose of providing contracts for—
+Of the amounts appropriated under subsection (a) for a fiscal year, the Secretary shall obligatenot less than 10 percent for the purpose of providing contracts for—
 
 &emsp;(1) scholarships under this subpart to individuals who have not previously received such scholarships; or
 

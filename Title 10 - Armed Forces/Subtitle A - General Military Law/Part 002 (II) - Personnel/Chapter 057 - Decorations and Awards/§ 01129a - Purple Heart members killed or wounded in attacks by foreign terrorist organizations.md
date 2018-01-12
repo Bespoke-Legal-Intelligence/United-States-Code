@@ -30,7 +30,7 @@ Effective date.—The amendments made by paragraph (1) \[enacting this section\]
 
 "(B)
 
-Review of certain previous incidents.—The Secretary concerned shall undertake a review of each death or wounding of a member of the Armed Forces that occurred between September 11, 2001, and the date of the enactment of this Act \[Dec. 19, 2014\] under circumstances that could qualify as being the result of an attack described in section 1129a of title 10, United States Code (as added by paragraph (1)), to determine whether the death or wounding qualifies as a death or wounding resulting from an attack by a foreign terrorist organization for purposes of the award of the Purple Heart pursuant to such section (as so added).
+Review of certain previous incidents.—The Secretary concerned shall undertake a review of each death or wounding of a member of the Armed Forces that occurred between September 11, 2001, and the date of the enactment of this Act \[Dec. 19, 2014\] under circumstances that could qualify as being the result of anattack described in section 1129a of title 10, United States Code (as added by paragraph (1)), to determine whether the death or wounding qualifies as a death or wounding resulting from an attack by a foreign terrorist organization for purposes of the award of the Purple Heart pursuant to such section (as so added).
 
 "(C)
 

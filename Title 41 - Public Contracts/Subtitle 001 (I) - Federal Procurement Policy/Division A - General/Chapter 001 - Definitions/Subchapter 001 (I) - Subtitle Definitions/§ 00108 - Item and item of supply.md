@@ -2,7 +2,7 @@
 
 In this subtitle, the terms "item" and "item of supply"—
 
-&emsp;(1) mean an individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, including spare parts and replenishment spare parts; but
+&emsp;(1) mean an individual part, component, subassembly, assembly, or subsystem integral toa major system, and other property which may be replaced during the service life of the system, including spare parts and replenishment spare parts; but
 
 &emsp;(2) do not include packaging or labeling associated with shipment or identification of an item.
 

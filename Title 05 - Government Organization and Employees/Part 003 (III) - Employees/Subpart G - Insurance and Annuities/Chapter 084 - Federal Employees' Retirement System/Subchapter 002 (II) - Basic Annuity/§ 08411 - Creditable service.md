@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) incurred in combat with an enemy of the United States; or
 
-&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in line of duty during a periodof war as defined by section 1101 of title 38; or
+&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in line of duty during a period of war as defined by section 1101 of title 38; or
 
 &emsp;(B) under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act).
 
@@ -124,7 +124,7 @@
 
 &emsp;(B) provisions under which the Office may provide for—
 
-&emsp;&emsp;(i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which\(but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (5); and
+&emsp;&emsp;(i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (5); and
 
 &emsp;&emsp;(ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
 
@@ -388,7 +388,7 @@ Retroactive effect.—Any computation or recomputation of an annuity or survivor
 
 &emsp;&emsp;"(D)
 
-Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (asthe case may be) shall be payable in the form of a lump-sum payment.
 
 &emsp;&emsp;"(E)
 

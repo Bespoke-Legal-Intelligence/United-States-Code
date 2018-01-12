@@ -6,7 +6,7 @@ Discrimination Against Airline Employees.—No air carrier or contractor or subc
 
 &emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
 
-&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision ofFederal law relating to air carrier safety under this subtitle or any other law of the United States;
+&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
 
 &emsp;(3) testified or is about to testify in such a proceeding; or
 
@@ -70,7 +70,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;(C)
 
-Frivolous complaints.—If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has beenbrought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney's fee not exceeding $1,000.
+Frivolous complaints.—If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney's fee not exceeding $1,000.
 
 &emsp;(4)
 

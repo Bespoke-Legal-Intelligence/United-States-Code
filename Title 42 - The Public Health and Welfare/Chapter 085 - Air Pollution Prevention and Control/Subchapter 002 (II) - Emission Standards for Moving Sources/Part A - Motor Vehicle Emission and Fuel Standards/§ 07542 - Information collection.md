@@ -8,9 +8,9 @@ Every manufacturer of new motor vehicles or new motor vehicle engines, and every
 
 For the purposes of enforcement of this section, officers or employees duly designated by the Administrator upon presenting appropriate credentials are authorized—
 
-&emsp;(1) to enter, at reasonable times, any establishment of the manufacturer, or of any person whom the manufacturer engages to perform any activity required by subsection (a) of this section, for the purposes of inspecting or observing any activity conducted pursuant to subsection (a) of this section, and
+&emsp;(1) to enter, at reasonable times, any establishment of the manufacturer, or of any person whom the manufacturer engages to perform any activity required by subsection (a), for the purposes of inspecting or observing any activity conducted pursuant to subsection (a), and
 
-&emsp;(2) to inspect records, files, papers, processes, controls, and facilities used in performing any activity required by subsection (a) of this section, by such manufacturer or by any person whom the manufacturer engages to perform any such activity.
+&emsp;(2) to inspect records, files, papers, processes, controls, and facilities used in performing any activity required by subsection (a), by such manufacturer or by any person whom the manufacturer engages to perform any such activity.
 
 #### (c) Availability to public; trade secrets
 
@@ -34,7 +34,7 @@ Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, Pub. L. 
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–604, §§11(a)(2)(A), 15(c)(2), substituted "Administrator" for "Secretary" wherever appearing and "part" for "subchapter".
 
-Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions authorizing the Administrator to make available to the public any records, reports, of information obtained under subsec. (a) of this section, except those shown to the Administrator to be entitled to protection as trade secrets, for provisions that all information reported or otherwise obtained by the Secretary or his representative pursuant to subsec. (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, be considered confidential for the purpose of such section 1905, and substituted "Administrator" for "Secretary".
+Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions authorizing the Administrator to make available to the public any records, reports, of information obtained under subsec. (a) of this section, except those shown to the Administrator to be entitled to protection as trade secrets, for provisions that all information reported or otherwise obtained by the Secretary or his representative pursuant to subsec. (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, be considered confidential for the purpose ofsuch section 1905, and substituted "Administrator" for "Secretary".
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 

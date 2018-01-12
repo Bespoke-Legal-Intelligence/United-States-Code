@@ -4,7 +4,7 @@
 
 #### (1) General orders of removal
 
-&emsp;Judicial review of a final order of removal (other than an order of removal without ahearing pursuant to section 1225(b)(1) of this title) is governed only by chapter 158 of title 28, except as provided in subsection (b) and except that the court may not order the taking of additional evidence under section 2347(c) of such title.
+&emsp;Judicial review of a final order of removal (other than an order of removal without a hearing pursuant to section 1225(b)(1) of this title) is governed only by chapter 158 of title 28, except as provided in subsection (b) and except that the court may not order the taking of additional evidence under section 2347(c) of such title.
 
 #### (2) Matters not subject to judicial review
 
@@ -64,7 +64,7 @@ With respect to review of an order of removal under subsection (a)(1), the follo
 
 #### (A) In general
 
-&emsp;&emsp;The respondent is the Attorney General. The petition shall be served on the AttorneyGeneral and on the officer or employee of the Service in charge of the Service district in which the final order of removal under section 1229a of this title was entered.
+&emsp;&emsp;The respondent is the Attorney General. The petition shall be served on the Attorney General and on the officer or employee of the Service in charge of the Service district in which the final order of removal under section 1229a of this title was entered.
 
 #### (B) Stay of order
 
@@ -212,7 +212,7 @@ A court may review a final order of removal only if—
 
 #### (5) Scope of inquiry
 
-&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of thistitle, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. There shall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
+&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of this title, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. There shall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
 
 #### (f) Limit on injunctive relief
 
@@ -232,7 +232,7 @@ Except as provided in this section and notwithstanding any other provision of la
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(D), (5), and (g), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2)(D), (5), and (g), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
 
@@ -302,7 +302,7 @@ Subsec. (e). Pub. L. 102–232, §307(m)(2), substituted "paragraph (2), (3), or
 
 Subsec. (h). Pub. L. 102–232, §309(b)(9), inserted a comma after "Parole".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted "upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)" for "upon completion of the alien's sentence for such conviction" and "Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)" for "Notwithstanding subsection (a) of this section", and added subpar. (B).
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted "uponrelease of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)" for "upon completion of the alien's sentence for such conviction" and "Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)" for "Notwithstanding subsection (a) of this section", and added subpar. (B).
 
 Subsec. (b). Pub. L. 101–649, §603(b)(2)(A), substituted "(2), (3), or (4)" for "(4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)".
 
@@ -382,7 +382,7 @@ Pub. L. 102–232, title III, §307(m), Dec. 12, 1991, 105 Stat. 1757, provided 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–649, title V, §504(c), Nov. 29, 1990, 104 Stat. 5050, provided that: "The amendments made by this section \[amending this section and section 1226 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\]."
+Pub. L. 101–649, title V, §504(c), Nov. 29, 1990, 104 Stat. 5050, provided that: "The amendments made by thissection \[amending this section and section 1226 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\]."
 
 Pub. L. 101–649, title V, §545(g), Nov. 29, 1990, 104 Stat. 5066, as amended by Pub. L. 104–208, div. C, title III, §308(b)(6)(B), Sept. 30, 1996, 110 Stat. 3009–623, provided that:
 

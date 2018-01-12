@@ -24,7 +24,7 @@
 
 #### (C) Filing
 
-&emsp;&emsp;The Secretary, upon receipt of the copy of the petition, shall file in the court therecord of the proceedings on which the Secretary based the action, as provided in section 2112 of title 28.
+&emsp;&emsp;The Secretary, upon receipt of the copy of the petition, shall file in the court the record of the proceedings on which the Secretary based the action, as provided in section 2112 of title 28.
 
 #### (3) Findings of fact
 

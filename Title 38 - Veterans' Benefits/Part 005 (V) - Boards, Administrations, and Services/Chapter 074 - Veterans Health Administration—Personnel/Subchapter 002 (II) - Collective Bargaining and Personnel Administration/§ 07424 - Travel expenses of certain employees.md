@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary may prescribe regulations establishing conditions under which officers and employees of the Administration who are nationally recognized principal investigators in medical research may be permitted to accept payment, in cash or in kind, from non-Federal agencies, organizations, and individuals for travel and such reasonable subsistence expenses as are approved by the Secretary pursuant to such regulations—
 
-&emsp;(A) in connection with their attendance at meetings or in performing advisory services concerned with the functions or activities of the Department; or
+&emsp;(A) in connection with their attendance at meetings or in performing advisory servicesconcerned with the functions or activities of the Department; or
 
 &emsp;(B) in connection with acceptance of significant awards or with activity related thereto concerned with functions or activities of the Department.
 
@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 4108(d) and 4113 of this title prior tothe repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this section were contained in sections 4108(d) and 4113 of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 

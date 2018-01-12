@@ -6,7 +6,7 @@ The Commission may establish special advisory committees to consult with and mak
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §393(e) (June 30, 1949, ch. 288, title V, §503, as added Sept. 5, 1950, ch. 849,§6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
+Based on 44 U.S. Code, 1964 ed., §393(e) (June 30, 1949, ch. 288, title V, §503, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
 #### Termination of Advisory Committees
 

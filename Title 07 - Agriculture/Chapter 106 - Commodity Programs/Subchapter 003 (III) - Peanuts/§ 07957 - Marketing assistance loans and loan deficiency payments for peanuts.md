@@ -72,7 +72,7 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) s
 
 #### (2) Good faith exception to beneficial interest requirement
 
-&emsp;For the 2002 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in the peanuts for which a marketing assistance loan was made under this section before repaying the loan, the Secretary shall permit the producers to repay the loan at the applicable repayment rate that was in effect for peanuts under this subsection on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
+&emsp;For the 2002 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in the peanuts for which a marketing assistance loan was made under this section before repayingthe loan, the Secretary shall permit the producers to repay the loan at the applicable repayment rate that was in effect for peanuts under this subsection on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
 
 #### (e) Loan deficiency payments
 

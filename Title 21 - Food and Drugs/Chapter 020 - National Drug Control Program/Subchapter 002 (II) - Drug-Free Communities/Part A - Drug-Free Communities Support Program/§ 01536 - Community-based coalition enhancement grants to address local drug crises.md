@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) significantly higher than the national average as determined by the Secretary (including appropriate consideration of the results of the Monitoring the Future Survey published by the National Institute on Drug Abuse and the National Survey on Drug Use and Health published by the Substance Abuse and Mental Health Services Administration); or
 
-&emsp;&emsp;&emsp;(ii) higher than the national average, as determined by the Secretary (including appropriate consideration of the results ofthe surveys described in clause (i)), over a sustained period of time.
+&emsp;&emsp;&emsp;(ii) higher than the national average, as determined by the Secretary (including appropriate consideration of the results of the surveys described in clause (i)), over a sustained period of time.
 
 #### (5) Emerging drug abuse issue
 

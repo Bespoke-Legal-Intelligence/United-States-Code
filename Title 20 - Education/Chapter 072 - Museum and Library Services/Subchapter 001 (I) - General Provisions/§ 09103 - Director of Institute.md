@@ -78,7 +78,7 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (1) In general
 
-&emsp;In order to be eligible to receive financial assistance under this chapter, a person oragency shall submit an application in accordance with procedures established by the Director by regulation.
+&emsp;In order to be eligible to receive financial assistance under this chapter, a person or agency shall submit an application in accordance with procedures established by the Director by regulation.
 
 #### (2) Review and evaluation
 
@@ -106,7 +106,7 @@ This chapter, referred to in subsec. (e)(2) and the second place it appears in s
 
 The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, §9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to section 9836(d)(2)(H)(vi) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of thistitle, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Prior Provisions
 

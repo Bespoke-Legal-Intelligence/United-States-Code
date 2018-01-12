@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (i) Short-term disability benefits
 
-&emsp;&emsp;&emsp;In the case of short-term disability benefits, the safe harbor limit for any taxable year is 17.5 percent of the qualified direct costs (other than insurance premiums) forthe immediately preceding taxable year with respect to such benefits.
+&emsp;&emsp;&emsp;In the case of short-term disability benefits, the safe harbor limit for any taxable year is 17.5 percent of the qualified direct costs (other than insurance premiums) for the immediately preceding taxable year with respect to such benefits.
 
 #### (ii) Medical benefits
 
@@ -241,7 +241,7 @@ For purposes of this subpart—
 
 #### (B) Permissive aggregation for purposes not specified in subparagraph (A)
 
-&emsp;&emsp;For purposes of this section (other than the provisions specified in subparagraph (A)), at the election of the employer, 2 or more welfare benefit funds of such employer may (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
+&emsp;&emsp;For purposes of this section (other than the provisions specified in subparagraph (A)), at the election of the employer, 2 or more welfare benefit funds of such employermay (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
 
 #### (2) Treatment of related employers
 
@@ -251,7 +251,7 @@ For purposes of this subpart—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L.99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010.)
+(Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010.)
 
 #### References in Text
 

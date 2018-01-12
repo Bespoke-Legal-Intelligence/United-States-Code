@@ -44,7 +44,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (3) Periodic consultation
 
-&emsp;Not less frequently than once every 4 months during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of veterinary, patient, and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
+&emsp;Not less frequently than once every 4 months during negotiations with the regulatedindustry, the Secretary shall hold discussions with representatives of veterinary, patient, and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
 #### (4) Public review of recommendations
 

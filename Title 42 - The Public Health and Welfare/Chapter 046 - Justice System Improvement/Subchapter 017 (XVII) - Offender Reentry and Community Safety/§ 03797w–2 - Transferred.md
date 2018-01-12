@@ -1,0 +1,6 @@
+### §3797w–2. Transferred
+
+#### Codification
+
+Section 3797w–2 was editorially reclassified as section 10633 of Title 34, Crime Control and Law Enforcement.
+

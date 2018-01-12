@@ -130,7 +130,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 722(a)(3) of Pub. L. 97–34 applicable to returns filed after Dec. 31, 1981, see section722(a)(4) of Pub. L. 97–34, set out as a note under section 5684 of this title.
+Amendment by section 722(a)(3) of Pub. L. 97–34 applicable to returns filed after Dec. 31, 1981, see section 722(a)(4) of Pub. L. 97–34, set out as a note under section 5684 of this title.
 
 Amendment by section 724(b)(5) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section 724(c) of Pub. L. 97–34, set out as a note under section 6656 of this title.
 

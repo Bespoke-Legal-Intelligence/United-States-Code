@@ -24,7 +24,7 @@
 
 #### (3) Availability
 
-&emsp;Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
+&emsp;Upon the request of the Board of Governors, a nonbank financial company supervised bythe Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
 
 #### (b) Examinations
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) the nature of the operations and financial condition of the company and such subsidiary;
 
-&emsp;&emsp;(B) the financial, operational, and other risks of the company or such subsidiary thatmay pose a threat to the safety and soundness of such company or subsidiary or to the financial stability of the United States;
+&emsp;&emsp;(B) the financial, operational, and other risks of the company or such subsidiary that may pose a threat to the safety and soundness of such company or subsidiary or to the financial stability of the United States;
 
 &emsp;&emsp;(C) the systems for monitoring and controlling such risks; and
 

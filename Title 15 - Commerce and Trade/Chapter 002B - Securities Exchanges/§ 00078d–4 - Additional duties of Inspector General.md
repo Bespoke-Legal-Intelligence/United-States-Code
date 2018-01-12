@@ -38,7 +38,7 @@ The Inspector General of the Commission shall submit to Congress an annual repor
 
 &emsp;(2) the nature, number, and seriousness of any allegations received under subsection (a);
 
-&emsp;(3) any recommendations made or actions taken by the Inspector General in response tosubstantiated allegations received under subsection (a); and
+&emsp;(3) any recommendations made or actions taken by the Inspector General in response to substantiated allegations received under subsection (a); and
 
 &emsp;(4) any action the Commission has taken in response to suggestions or allegations received under subsection (a).
 

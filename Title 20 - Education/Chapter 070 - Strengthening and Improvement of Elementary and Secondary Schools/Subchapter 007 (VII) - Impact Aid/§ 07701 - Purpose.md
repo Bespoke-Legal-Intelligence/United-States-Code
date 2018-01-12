@@ -32,7 +32,7 @@ Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for useunder this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2000 Amendment
 

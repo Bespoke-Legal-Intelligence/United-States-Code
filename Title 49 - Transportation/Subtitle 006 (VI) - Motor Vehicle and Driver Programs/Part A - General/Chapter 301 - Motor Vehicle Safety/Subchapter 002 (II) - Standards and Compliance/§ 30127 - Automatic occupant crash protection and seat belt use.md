@@ -162,7 +162,7 @@ In subsection (b)(2), the words "after August 31, 1998" are substituted for "on 
 
 In subsection (c), before clause (1), the words "In amending Standard 208, the Secretary of Transportation shall require" are substituted for "The amendment to such Standard 208 shall also require" for clarity and to eliminate unnecessary words.
 
-In subsection (e)(3), the words "Only an affected manufacturer may apply for an exemption" are added for clarity. The words "consolidate similar applications from different manufacturers" are substituted for "consolidate applications of a similar nature of 1 or more manufacturers" for clarity.
+In subsection (e)(3), the words "Only an affected manufacturer may apply for an exemption" are added for clarity. The words "consolidate similar applications from different manufacturers" are substituted for"consolidate applications of a similar nature of 1 or more manufacturers" for clarity.
 
 In subsection (f)(1), before clause (A), the words "by the Secretary or any other person, including any court" are omitted as surplus. In clause (A), the word "affecting" is substituted for "altering or affecting" to eliminate an unnecessary word.
 
@@ -454,7 +454,7 @@ Child Restraint Safety Ratings Program.—No later than 12 months after the date
 
 "(h)
 
-Booster Seat Study.—In addition to consideration of booster seat performance and structural integrity contained in subsection (b)(7), not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate and complete a study, taking into account the views of the public, on the use and effectiveness of automobile booster seats for children, compiling information on the advantages and disadvantages of usingbooster seats and determining the benefits, if any, to children from use of booster with lap and shoulder belts compared to children using lap and shoulder belts alone, and submit a report on the results of that study to the Congress.
+Booster Seat Study.—In addition to consideration of booster seat performance and structural integrity contained in subsection (b)(7), not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate and complete a study, taking into account the views of the public, on the use and effectiveness of automobile booster seats for children, compiling information on the advantages and disadvantages of using booster seats and determining the benefits, if any, to children from use of booster with lap and shoulder belts compared to children using lap and shoulder belts alone, and submit a report on the results of that study to the Congress.
 
 "(i)
 

@@ -70,7 +70,7 @@ The duties of each RECC Working Group shall include—
 
 &emsp;(2) reporting annually to the relevant Regional Administrator, the Director for Emergency Communications, the Chairman of the Federal Communications Commission, and the Assistant Secretary for Communications and Information of the Department of Commerce on the status of its region in building robust and sustainable interoperable voice and data emergency communications networks and, not later than 60 days after the completion of the initial National Emergency Communications Plan under section 572 of this title, on the progress of the region in meeting the goals of such plan;
 
-&emsp;(3) ensuring a process for the coordination of effective multijurisdictional, multi-agency emergency communications networks for use during natural disasters, acts of terrorism,and other man-made disasters through the expanded use of emergency management and public safety communications mutual aid agreements; and
+&emsp;(3) ensuring a process for the coordination of effective multijurisdictional, multi-agency emergency communications networks for use during natural disasters, acts of terrorism, and other man-made disasters through the expanded use of emergency management and public safety communications mutual aid agreements; and
 
 &emsp;(4) coordinating the establishment of Federal, State, local, and tribal support services and networks designed to address the immediate and critical human needs in responding to natural disasters, acts of terrorism, and other man-made disasters.
 

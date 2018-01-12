@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any partial principal payment on a market discount bond shall be included in gross income as ordinary income to the extent such payment does not exceed the accrued market discount on such bond.
+&emsp;&emsp;Any partial principal payment on a market discount bond shall be included in grossincome as ordinary income to the extent such payment does not exceed the accrued market discount on such bond.
 
 #### (B) Adjustment
 
@@ -94,13 +94,13 @@ Under regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) paragraph (1) of such subsection shall not apply,
 
-&emsp;&emsp;(B) an exchange qualifying under section 354(a), 355(a), or 356(a) (determined without regard to subsection (a) of this section) shall be treated as an exchange described in paragraph (3) of such subsection, and
+&emsp;&emsp;(B) an exchange qualifying under section 354(a), 355(a), or 356(a) (determined withoutregard to subsection (a) of this section) shall be treated as an exchange described in paragraph (3) of such subsection, and
 
 &emsp;&emsp;(C) paragraph (3) of section 1245(b) shall be applied as if it did not contain a reference to section 351, and
 
 &emsp;(2) appropriate adjustments shall be made to the basis of any property to reflect gain recognized under subsection (a).
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 543; amended Pub. L. 99–514,title VI, §631(e)(15), title XVIII, §§1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, 100 Stat. 2275, 2793, 2796, 2960; Pub. L. 100–647, title I, §1018(u)(46), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(A), (2)(B)(i), Aug. 10, 1993, 107 Stat. 465.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 543; amended Pub. L. 99–514, title VI, §631(e)(15), title XVIII, §§1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, 100 Stat. 2275, 2793, 2796, 2960; Pub. L. 100–647, title I, §1018(u)(46), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(A), (2)(B)(i), Aug. 10, 1993, 107 Stat. 465.)
 
 #### Amendments
 

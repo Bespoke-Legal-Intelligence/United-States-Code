@@ -24,7 +24,7 @@ If in an action under this section to review a rule, or an order under section 2
 
 &emsp;(i) in the case of review of—
 
-&emsp;&emsp;(I) a rule under section 2603(a), 2604(b)(4), 2605(a) (including review of the associated determination under section 2605(b)(4)(A)), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the courtshall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record taken as a whole; and
+&emsp;&emsp;(I) a rule under section 2603(a), 2604(b)(4), 2605(a) (including review of the associated determination under section 2605(b)(4)(A)), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record taken as a whole; and
 
 &emsp;&emsp;(II) an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such order if the court finds that the order is not supported by substantial evidence in the record taken as a whole; and
 

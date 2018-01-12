@@ -90,7 +90,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;An accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) may not accredit a third-party auditor unless such third-party auditor agrees to issue a written and, as appropriate, electronic food certification, described in section 381(q) of this title, or facility certification under section 384b(a) of this title, as appropriate, to accompany each food shipment for import into the United States from an eligible entity, subject to requirements set forth by the Secretary. Such written or electronic certification may be included with other documentation regarding such food shipment. The Secretary shall consider certifications under section 381(q) of this title and participation in the voluntary qualified importer program described in section 384b of this title when targeting inspection resources under section 350j of this title.
+&emsp;&emsp;An accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) may not accredita third-party auditor unless such third-party auditor agrees to issue a written and, as appropriate, electronic food certification, described in section 381(q) of this title, or facility certification under section 384b(a) of this title, as appropriate, to accompany each food shipment for import into the United States from an eligible entity, subject to requirements set forth by the Secretary. Such written or electronic certification may be included with other documentation regarding such food shipment. The Secretary shall consider certifications under section 381(q) of this title and participation in the voluntary qualified importer program described in section 384b of this title when targeting inspection resources under section 350j of this title.
 
 #### (B) Purpose of certification
 
@@ -108,7 +108,7 @@ In this section:
 
 #### (ii) Provision of certification
 
-&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of thistitle. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
+&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of this title. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
 
 #### (3) Audit report submission requirements
 

@@ -20,7 +20,7 @@ Damages.—The court may assess as damages in a civil action under this section 
 
 (d)
 
-Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines thatdisciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
 (e)
 
@@ -50,7 +50,7 @@ Improper Disclosure.—Any willful disclosure of a "record", as that term is def
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(b)(1), inserted ", other than the United States," after "person or entity".
 
-Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d).Text read as follows: "If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
+Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
 
 Subsec. (e)(1). Pub. L. 107–56, §815, as amended by Pub. L. 107–273, inserted "(including a request of a governmental entity under section 2703(f) of this title)" after "or a statutory authorization".
 
@@ -65,4 +65,8 @@ Subsecs. (d) to (f). Pub. L. 104–293, §601(c)(3), (4), added subsec. (d) and 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(2) is effective Oct. 26, 2001.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

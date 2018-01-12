@@ -12,11 +12,11 @@ In addition to the responsibilities set forth in chapter 14 of title 5 and other
 
 &emsp;(2) develop performance measures to provide a basis for monitoring and evaluating Department-wide strategic workforce planning efforts;
 
-&emsp;(3) develop, improve, and implement policies, including compensation flexibilitiesavailable to Federal agencies where appropriate, to recruit, hire, train, and retain the workforce of the Department, in coordination with all components of the Department;
+&emsp;(3) develop, improve, and implement policies, including compensation flexibilities available to Federal agencies where appropriate, to recruit, hire, train, and retain the workforce of the Department, in coordination with all components of the Department;
 
 &emsp;(4) identify methods for managing and overseeing human capital programs and initiatives, in coordination with the head of each component of the Department;
 
-&emsp;(5) develop a career path framework and create opportunities for leader development in coordination with all components of the Department;
+&emsp;(5) develop a career path framework and create opportunities for leader development incoordination with all components of the Department;
 
 &emsp;(6) lead the efforts of the Department for managing employee resources, including training and development opportunities, in coordination with each component of the Department;
 

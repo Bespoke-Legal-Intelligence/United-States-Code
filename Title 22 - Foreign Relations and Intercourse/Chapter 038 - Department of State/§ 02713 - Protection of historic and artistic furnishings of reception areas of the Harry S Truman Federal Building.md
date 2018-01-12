@@ -8,7 +8,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (1) Items covered
 
-&emsp;Articles of furniture, fixtures, and decorative objects of the reception areas (and similar articles, fixtures, and objects acquired by the Secretary of State), when declared by the Secretary of State to be of historic or artistic interest, shall thereafter be considered to be the property of the Secretary in his or her official capacity and shall be subject to disposition solely in accordance with this subsection.
+&emsp;Articles of furniture, fixtures, and decorative objects of the reception areas (and similararticles, fixtures, and objects acquired by the Secretary of State), when declared by the Secretary of State to be of historic or artistic interest, shall thereafter be considered to be the property of the Secretary in his or her official capacity and shall be subject to disposition solely in accordance with this subsection.
 
 #### (2) Sale or trade
 
@@ -32,7 +32,7 @@ For purposes of this section, the term "reception areas" means the areas of the 
 
 #### Codification
 
-In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for"the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

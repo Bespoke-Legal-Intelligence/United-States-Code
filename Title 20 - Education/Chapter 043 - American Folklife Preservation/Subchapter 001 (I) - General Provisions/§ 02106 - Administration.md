@@ -10,7 +10,7 @@ In addition to any authority vested in it by other provisions of this subchapter
 
 &emsp;(3) in the discretion of the Board of Trustees, receive (and use, sell, or otherwise dispose of, in accordance with clause (2)) money and other property donated, bequeathed, or devised to the Center with a condition or restriction, including a condition that the Center use other funds of the Center for the purpose of the gift;
 
-&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this subchapter in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that the Librarian of Congress may appoint and fix the compensation of a reasonable number of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates;
+&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this subchapter in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that the Librarian of Congress may appoint and fix the compensation of a reasonable number of personnel without regard to the provisions of chapter 51 and subchapter III ofchapter 53 of title 5 relating to classification and General Schedule pay rates;
 
 &emsp;(5) obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5;
 

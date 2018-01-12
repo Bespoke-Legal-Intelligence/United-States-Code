@@ -4,7 +4,7 @@ The Attorney General is authorized—
 
 &emsp;(1) to act on behalf of the United States as the authority referred to in a treaty;
 
-&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or on probation who are citizens or nationals of the United States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
+&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or on probation who are citizens or nationals of theUnited States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
 
 &emsp;(3) to transfer offenders under a sentence of imprisonment, on parole, or on probation to the foreign countries of which they are citizens or nationals;
 
@@ -12,7 +12,7 @@ The Attorney General is authorized—
 
 &emsp;(5) to render to foreign countries and to receive from them the certifications and reports required to be made under such treaties;
 
-&emsp;(6) to make arrangements by agreement with the States for the transfer of offenders in their custody who are citizens or nationals of foreign countries to the foreign countries of which they are citizens or nationals and for the confinement, where appropriate, in Stateinstitutions of offenders transferred to the United States;
+&emsp;(6) to make arrangements by agreement with the States for the transfer of offenders in their custody who are citizens or nationals of foreign countries to the foreign countries of which they are citizens or nationals and for the confinement, where appropriate, in State institutions of offenders transferred to the United States;
 
 &emsp;(7) to make agreements and establish regulations for the transportation through the territory of the United States of offenders convicted in a foreign country who are being transported to a third country for the execution of their sentences, the expenses of which shall be paid by the country requesting the transportation;
 

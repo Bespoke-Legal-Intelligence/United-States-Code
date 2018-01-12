@@ -10,7 +10,7 @@ The Secretary is authorized to employ, upon tribal request, multiyear funding ag
 
 #### (c) Amount of funding
 
-The Secretary shall provide funds under a funding agreement under this subchapter in an amount equal to the amount that the Indian tribe would have been entitled to receive underself-determination contracts under this chapter, including amounts for direct program costs specified under section 5325(a)(1) of this title and amounts for contract support costs specified under section 5325(a)(2), (3), (5), and (6) of this title, including any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the Indian tribe or its members, all without regard to the organizational level within the Department where such functions are carried out.
+The Secretary shall provide funds under a funding agreement under this subchapter in an amount equal to the amount that the Indian tribe would have been entitled to receive under self-determination contracts under this chapter, including amounts for direct program costs specified under section 5325(a)(1) of this title and amounts for contract support costs specified under section 5325(a)(2), (3), (5), and (6) of this title, including any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the Indian tribe or its members, all without regard to the organizational level within the Department where such functions are carried out.
 
 #### (d) Prohibitions
 
@@ -48,7 +48,7 @@ The Secretary shall provide funds under a funding agreement under this subchapte
 
 #### (e) Other resources
 
-In the event an Indian tribe elects to carry out a compact or funding agreement with the use of Federal personnel, Federal supplies (including supplies available from Federal warehouse facilities), Federal supply sources (including lodging, airline transportation, and other means of transportation including the use of interagency motor pool vehicles) or other Federal resources (including supplies, services, and resources available to the Secretary under any procurement contracts in which the Department is eligible to participate), the Secretary shall acquire and transfer such personnel, supplies, or resources to the Indian tribe.
+In the event an Indian tribe elects to carry out a compact or funding agreement with the use of Federal personnel, Federal supplies (including supplies available from Federal warehouse facilities), Federal supply sources (including lodging, airline transportation, and other means of transportation including the use of interagency motor pool vehicles) or other Federal resources (including supplies, services, and resources available to the Secretary under any procurement contracts in which the Department is eligible to participate), the Secretary shall acquireand transfer such personnel, supplies, or resources to the Indian tribe.
 
 #### (f) Reimbursement to Indian Health Service
 
@@ -72,7 +72,7 @@ All Medicare, Medicaid, or other program income earned by an Indian tribe shall 
 
 #### (k) Limitation of costs
 
-An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspendperformance of the activity until such time as additional funds are transferred.
+An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspend performance of the activity until such time as additional funds are transferred.
 
 (Pub. L. 93–638, title V, §508, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 722.)
 

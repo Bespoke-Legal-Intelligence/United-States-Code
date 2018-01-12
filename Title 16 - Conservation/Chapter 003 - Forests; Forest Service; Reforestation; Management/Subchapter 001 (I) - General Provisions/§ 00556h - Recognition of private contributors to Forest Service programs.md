@@ -1,6 +1,6 @@
 ### §556h. Recognition of private contributors to Forest Service programs
 
-Notwithstanding any other provision of law, on and after October 21, 1998, any appropriations or funds available to the Forest Service may be used to disseminate program information to private and public individuals and organizationsthrough the use of nonmonetary items of nominal value and to provide nonmonetary awards of nominal value and to incur necessary expenses for the nonmonetary recognition of private individuals and organizations that make contributions to Forest Service programs.
+Notwithstanding any other provision of law, on and after October 21, 1998, any appropriations or funds available to the Forest Service may be used to disseminate program information to private and public individuals and organizations through the use of nonmonetary items of nominal value and to provide nonmonetary awards of nominal value and to incur necessary expenses for the nonmonetary recognition of private individuals and organizations that make contributions to Forest Service programs.
 
 (Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272.)
 

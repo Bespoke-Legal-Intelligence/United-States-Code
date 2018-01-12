@@ -24,7 +24,7 @@ Pub. L. 99–592, §5, Oct. 31, 1986, 100 Stat. 3343, provided that:
 
 "(a)
 
-Study.—Not later than 4 years after the date of enactment of this Act \[Oct. 31, 1986\], the Secretary ofLabor and the Equal Employment Opportunity Commission, jointly, shall—
+Study.—Not later than 4 years after the date of enactment of this Act \[Oct. 31, 1986\], the Secretary of Labor and the Equal Employment Opportunity Commission, jointly, shall—
 
 &emsp;"(1) conduct a study—
 

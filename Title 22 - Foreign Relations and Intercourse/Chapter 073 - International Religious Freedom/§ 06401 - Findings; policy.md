@@ -30,7 +30,7 @@ Congress makes the following findings:
 
 &emsp;The following shall be the policy of the United States:
 
-&emsp;&emsp;(A) To condemn violations of religious freedom, and to promote, and to assist othergovernments in the promotion of, the fundamental right to freedom of religion.
+&emsp;&emsp;(A) To condemn violations of religious freedom, and to promote, and to assist other governments in the promotion of, the fundamental right to freedom of religion.
 
 &emsp;&emsp;(B) To seek to channel United States security and development assistance to governments other than those found to be engaged in gross violations of the right to freedom of religion, as set forth in the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], in the International Financial Institutions Act of 1977, and in other formulations of United States human rights policy.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) are coordinated across and carried out by the entire range of Federal agencies.
 
-(Pub. L. 105–292, §2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, §2, Aug. 8, 2014, 128 Stat. 1827; Pub. L. 114–281, §2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
+(Pub. L. 105–292, §2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, §2, Aug. 8, 2014, 128 Stat. 1827;Pub. L. 114–281, §2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
 
 #### References in Text
 

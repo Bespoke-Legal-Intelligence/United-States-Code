@@ -10,7 +10,7 @@
 
 Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
-&emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive informationrelating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
+&emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 
 &emsp;(2) would disclose the names or identities of living persons who provided confidential information to the United States and would pose a substantial risk of harm to such persons;
 

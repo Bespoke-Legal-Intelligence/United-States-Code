@@ -12,7 +12,7 @@ In this part and part B:
 
 #### (3) Average feed cost
 
-&emsp;The term "average feed cost" means the average cost of feed used by a dairy operation toproduce a hundredweight of milk, determined under section 9052 of this title using the sum of the following:
+&emsp;The term "average feed cost" means the average cost of feed used by a dairy operation to produce a hundredweight of milk, determined under section 9052 of this title using the sum of the following:
 
 &emsp;&emsp;(A) The product determined by multiplying 1.0728 by the price of corn per bushel.
 

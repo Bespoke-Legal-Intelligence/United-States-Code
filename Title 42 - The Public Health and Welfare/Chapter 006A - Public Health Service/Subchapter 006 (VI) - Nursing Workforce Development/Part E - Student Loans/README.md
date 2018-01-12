@@ -1,10 +1,10 @@
 Part E—Student Loans
 
-#### Amendments
+#### Codification
 
-<b>1998</b>—Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562, redesignated subpart II of part B as part E.
+Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562, redesignated subpart II of part B as part E.
 
-<b>1975</b>—Pub. L. 94–63, title IX, §941(g)(3), July 29, 1975, 89 Stat. 365, inserted subpart II heading.
+Pub. L. 94–63, title IX, §941(g)(3), July 29, 1975, 89 Stat. 365, inserted subpart II heading.
 
 
 ---

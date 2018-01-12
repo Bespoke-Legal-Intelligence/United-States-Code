@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Except as otherwise provided in paragraph (2), subsection (d), subsection (f), and subsection (j), gross income does not include amounts received (whether in a single sum or otherwise) under a life insurance contract, if such amounts are paid by reason of the death of the insured.
+&emsp;Except as otherwise provided in paragraphs (2) and (3), subsection (d), subsection (f), and subsection (j), gross income does not include amounts received (whether in a single sum or otherwise) under a life insurance contract, if such amounts are paid by reason of the death of the insured.
 
 #### (2) Transfer for valuable consideration
 
@@ -14,7 +14,17 @@
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
-> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
+> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtednesswith respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
+
+#### (3) Exception to valuable consideration rules for commercial transfers
+
+#### (A) In general
+
+&emsp;&emsp;The second sentence of paragraph (2) shall not apply in the case of a transfer of a life insurance contract, or any interest therein, which is a reportable policy sale.
+
+#### (B) Reportable policy sale
+
+&emsp;&emsp;For purposes of this paragraph, the term "reportable policy sale" means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurance contract. For purposes of the preceding sentence, the term "indirectly" applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
 
 #### \[(b) Repealed. Pub. L. 104–188, title I, §1402(a), Aug. 20, 1996, 110 Stat. 1789\]
 
@@ -400,17 +410,21 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;The term "insured" means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L.87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–97, title I, §13522(a), (b), Dec. 22, 2017, 131 Stat. 2151, 2152.)
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1204 of the Act is classified to section 3796b of Title 42, The Public Health and Welfare. Section 1204 of the Act, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, means section 1204 prior to its amendment by Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of Title 42 and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1204 of the Act is classified to section 10284 of Title 34, Crime Control and Law Enforcement. Section 1204 of the Act, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, means section 1204 prior to its amendment by Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Codification
 
 Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–97, §13522(b), substituted "paragraphs (2) and (3)" for "paragraph (2)".
+
+Subsec. (a)(3). Pub. L. 115–97, §13522(a), added par. (3).
 
 <b>2013</b>—Subsec. (h)(1). Pub. L. 112–239 inserted ", as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013" after "1968" in introductory provisions.
 
@@ -434,7 +448,7 @@ Subsec. (c). Pub. L. 104–188, §1402(b)(1), substituted "subsection (a)" for "
 
 Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the grossincome of such beneficiary in the taxable year received—
 
 &emsp;"(A) any amount determined by such proration, and
 
@@ -476,11 +490,15 @@ Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted "if the member or
 
 Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
-<b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted "This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—" for"(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)", and added cls. (i), (ii), and (iii).
+<b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted "This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—" for "(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)", and added cls. (i), (ii), and (iii).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13522(c), Dec. 22, 2017, 131 Stat. 2152, provided that: "The amendments made by this section \[amending this section\] shall apply to transfers after December 31, 2017."
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of Title 34, Crime Control and Law Enforcement.
 
 #### Effective Date of 2006 Amendment
 
@@ -504,7 +522,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
+Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes ofthe preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
 
 Pub. L. 105–34, title XV, §1528(b), Aug. 5, 1997, 111 Stat. 1075, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996."
 
@@ -574,7 +592,7 @@ Pub. L. 97–248, title II, §266(c)(2), (3), Sept. 3, 1982, 96 Stat. 550, as am
 
 "(2)
 
-Special rule for contracts entered into before january 1, 1983.—Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section for any period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
+Special rule for contracts entered into before january 1, 1983.—Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section forany period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
 
 "(3)
 

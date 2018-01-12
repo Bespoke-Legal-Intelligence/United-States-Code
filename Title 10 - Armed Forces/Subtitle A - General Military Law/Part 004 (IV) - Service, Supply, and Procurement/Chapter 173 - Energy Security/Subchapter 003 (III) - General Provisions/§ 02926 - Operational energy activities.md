@@ -16,7 +16,7 @@ Alternative Fuel Activities.—The Assistant Secretary of Defense for Energy, In
 
 (b)
 
-Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
+Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals,performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
 
 (2) The Secretary of each military department shall designate a senior official within each armed force under the jurisdiction of the Secretary who shall be responsible for operational energy plans and programs for that armed force. The officials so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to that official's armed force.
 
@@ -34,7 +34,7 @@ Budgetary and Financial Matters.—(1) The Assistant Secretary of Defense for En
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
-(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31,the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that were reviewed by the Assistant Secretary under paragraph (3).
+(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that were reviewed by the Assistant Secretary under paragraph (3).
 
 (5) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is not adequate for implementation of the strategy, the report shall include the following:
 
@@ -66,7 +66,7 @@ Access to Initiative Results and Records.—(1) The Secretary of a military depa
 
 #### Codification
 
-Subsec. (c)(3) of section 138c of this title, which was transferred to subsec. (a) of this section by Pub. L. 113–291, §901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of section 138c of this title, which were transferred to subsecs. (b) to (d), respectively, of this section by Pub. L. 113–291, §901(g)(1)(D), were based on Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, §901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728.
+Subsec. (c)(3) of section 138c of this title, which was transferred to subsec. (a) of this section by Pub. L. 113–291, §901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs.\(d) to (f) of section 138c of this title, which were transferred to subsecs. (b) to (d), respectively, of this section by Pub. L. 113–291, §901(g)(1)(D), were based on Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, §901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728.
 
 #### Amendments
 

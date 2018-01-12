@@ -42,7 +42,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (C)(i) Except as provided in subparagraph (E), the amount of each annual payment shall be the product of—
 
-&emsp;(I) the average annual number of contribution base units for the period of 3 consecutive plan years, during the period of 10 consecutive plan years ending before the plan year in which the withdrawal occurs, in which thenumber of contribution base units for which the employer had an obligation to contribute under the plan is the highest, and
+&emsp;(I) the average annual number of contribution base units for the period of 3 consecutive plan years, during the period of 10 consecutive plan years ending before the plan year in which the withdrawal occurs, in which the number of contribution base units for which the employer had an obligation to contribute under the plan is the highest, and
 
 &emsp;(II) the highest contribution rate at which the employer had an obligation to contribute under the plan during the 10 plan years ending with the plan year in which the withdrawal occurs.
 

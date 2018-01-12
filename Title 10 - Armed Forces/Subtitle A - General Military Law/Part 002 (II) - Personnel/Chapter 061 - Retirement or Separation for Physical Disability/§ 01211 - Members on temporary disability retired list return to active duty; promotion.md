@@ -10,7 +10,7 @@
 
 &emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component in the reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
 
-&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when hisname was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
+&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when his name was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
 
 &emsp;(6) if a member of the Army, or the Air Force, who has no regular or reserve grade, be reappointed or reenlisted in the Army, or the Air Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) if he held a permanent enlisted grade in a regular component when his name was placed on the temporary disability retired list, be reenlisted in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade;
 
-&emsp;(4) if he was a member of the Fleet Reserve or the Fleet Marine Corps Reserve when his name was placed on the temporary disability retired list, resume his status in the Fleet Reserve or the Fleet Marine Corps Reserve in the grade held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade; and
+&emsp;(4) if he was a member of the Fleet Reserve or the Fleet Marine Corps Reserve when his name was placed on the temporary disabilityretired list, resume his status in the Fleet Reserve or the Fleet Marine Corps Reserve in the grade held by him when his name was placed on the temporary disability retired list, or in the next higher enlisted grade; and
 
 &emsp;(5) if a member of a reserve component be reappointed or reenlisted in his reserve component in the grade permanently held by him when his name was placed on the temporary disability retired list or, if that permanent grade is not chief petty officer or master sergeant, in the next higher grade in that reserve component.
 

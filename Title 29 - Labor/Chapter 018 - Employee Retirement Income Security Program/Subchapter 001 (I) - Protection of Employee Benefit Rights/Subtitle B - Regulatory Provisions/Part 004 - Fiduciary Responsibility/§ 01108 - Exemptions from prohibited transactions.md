@@ -118,7 +118,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue.
 
-&emsp;(17)(A) Transactions described in subparagraphs (A), (B), and (D) of section 1106(a)(1) of this title between a plan and a person that is a party in interest other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of section 1002(21)(A)(ii) of this title) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of section 1002(14) of this title, or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration.
+&emsp;(17)(A) Transactions described in subparagraphs (A), (B), and (D) of section 1106(a)(1) ofthis title between a plan and a person that is a party in interest other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of section 1002(21)(A)(ii) of this title) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of section 1002(14) of this title, or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration.
 
 &emsp;(B) For purposes of this paragraph, the term "adequate consideration" means—
 
@@ -138,7 +138,7 @@ Foreign exchange transactions.—Any foreign exchange transactions, between a ba
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time ofthe transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
@@ -178,7 +178,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(i) The term "security" has the meaning given such term by section 475(c)(2) of title 26 (without regard to subparagraph (F)(iii) and the last sentence thereof).
 
-&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) oftitle 26 (without regard to subparagraph (D)(iii) thereof).
+&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) of title 26 (without regard to subparagraph (D)(iii) thereof).
 
 &emsp;&emsp;(iii) The term "correct" means, with respect to a transaction—
 
@@ -386,7 +386,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(i) the advice is provided by a fiduciary adviser pursuant to an eligible investment advice arrangement between the plan sponsor or other fiduciary and the fiduciary adviser for the provision by the fiduciary adviser of investment advice referred to in such section,
 
-&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance bythe fiduciary adviser with the requirements of this subsection, and
+&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance by the fiduciary adviser with the requirements of this subsection, and
 
 &emsp;&emsp;&emsp;(iii) the terms of the eligible investment advice arrangement include a written acknowledgment by the fiduciary adviser that the fiduciary adviser is a fiduciary of the plan with respect to the provision of the advice.
 
@@ -434,7 +434,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch.686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
@@ -482,7 +482,7 @@ Pub. L. 108–218 substituted "January 1, 2014" for "January 1, 2006" and "April
 
 Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted "section 401(c)(3) of the Internal Revenue Code of 1986" for "section 401(c)(3) of the Internal Revenue Code of 1954", which for purposes of codification was translated as "section 401(c)(3) of title 26" thus requiring no change in text.
 
-Pub. L. 101–239, §7891(a)(2), in last sentence, substituted "section 408 of the Internal Revenue Code of 1986" for "section 408 of the Internal Revenue Code of 1954" and "section 408(c) of the Internal Revenue Code of 1986" for "section 408(c) of such Code" which for purposes of codification were translated as "section 408 of title 26" and "section 408(c) of title 26", respectively, thus requiring no change in text.
+Pub. L. 101–239, §7891(a)(2), in last sentence, substituted "section 408 of the Internal Revenue Code of1986" for "section 408 of the Internal Revenue Code of 1954" and "section 408(c) of the Internal Revenue Code of 1986" for "section 408(c) of such Code" which for purposes of codification were translated as "section 408 of title 26" and "section 408(c) of title 26", respectively, thus requiring no change in text.
 
 Pub. L. 101–239, §7894(e)(4)(A), in last sentence, substituted "individual retirement account or individual retirement annuity described in section 408 of title 26 or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984)" for "individual retirement account, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409 of title 26)" and "section 408(c) of such Code" for "section 408(c) of such code", which for purposes of codification was translated as "section 408(c) of title 26" thus requiring no change in text.
 
@@ -520,7 +520,7 @@ Amendment by Pub. L. 106–170 applicable to qualified transfers occurring after
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) ofPub. L. 105–34, set out as a note under section 409 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) of Pub. L. 105–34, set out as a note under section 409 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 
@@ -562,7 +562,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of 2006 Amendment With Existing Exemptions
 

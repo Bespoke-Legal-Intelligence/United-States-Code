@@ -4,7 +4,7 @@
 
 The Chief Executive Officer shall have the following authorities:
 
-&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting toCuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
 
 &emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -42,7 +42,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Chief Executive Officer, or the Chief Executive Officer <sup>2</sup> before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
-&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately forthe education of the dependents of such personnel.
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
 
 &emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
@@ -62,7 +62,7 @@ The Secretary of State and the Chief Executive Officer, in carrying out their fu
 
 This chapter, referred to in subsec. (a)(1), (9), (17), (18), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title.For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
@@ -188,7 +188,7 @@ Administration.—The Fund shall be administered by the Secretary of State.
 
 "(c)
 
-Objective.—The objective of the Fund shall be to support the development of technologies, includingInternet Web sites, that will aid the ability of the Iranian people to—
+Objective.—The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—
 
 &emsp;"(1) gain access to and share information;
 

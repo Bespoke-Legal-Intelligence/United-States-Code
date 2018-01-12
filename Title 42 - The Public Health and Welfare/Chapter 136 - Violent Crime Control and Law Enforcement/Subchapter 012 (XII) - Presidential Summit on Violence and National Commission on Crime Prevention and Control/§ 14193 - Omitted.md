@@ -1,0 +1,6 @@
+### §14193. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–322, title XXVII, §270003, Sept. 13, 1994, 108 Stat. 2091, which related to purposes of the Commission, was omitted as obsolete.
+

@@ -122,9 +122,9 @@ Sec. 2. The Secretary of State is hereby authorized and directed to exercise the
 
 "(b) The authority vested in the President by section 8(a)(1) of the Defense Department Overseas and Teachers Pay and Personnel Practices Act (73 Stat. 216; 5 U.S.C. 2356(a)(1)) \[section 906(a)(1) of Title 20, Education\] to prescribe regulations relating to cost-of-living allowances.
 
-"(c) The authority vested in the President by section 235(a) \[now 707(a)(5)\] of title 38 of the United States Code to prescribe rules and regulations with respect to allowances and benefits similar to those provided for insection 941 of the Foreign Service Act of 1946, as amended (22 U.S.C. 1156)."
+"(c) The authority vested in the President by section 235(a) \[now 707(a)(5)\] of title 38 of the United States Code to prescribe rules and regulations with respect to allowances and benefits similar to those provided for in section 941 of the Foreign Service Act of 1946, as amended (22 U.S.C. 1156)."
 
-(b) The reference in section 1 of Executive Order No. 10853 of November 27, 1959, to the regulations contained in Executive Order No. 10000 of September 16, 1948, shall be deemed to include a reference to the corresponding regulations prescribed in pursuance of the provisions of this order.
+(b) The reference in section 1 of Executive Order No. 10853 of November 27, 1959, to the regulations containedin Executive Order No. 10000 of September 16, 1948, shall be deemed to include a reference to the corresponding regulations prescribed in pursuance of the provisions of this order.
 
 Sec. 5. (a) The following-described Executive order and parts thereof are hereby revoked, subject to the provisions of section 5(b) of this order:
 

@@ -32,5 +32,33 @@
 
 &emsp;&emsp;(B) set forth criteria for waivers of and exemptions from the requirements of this subsection.
 
-(June 25, 1938, ch. 675, §745A, as added Pub. L. 112–144, title XI, §1136, July 9, 2012, 126 Stat. 1123.)
+#### (3) Presubmissions and submissions solely in electronic format
+
+#### (A) In general
+
+&emsp;&emsp;Beginning on such date as the Secretary specifies in final guidance issued under subparagraph (C), presubmissions and submissions for devices described in paragraph (1) (and any appeals of action taken by the Secretary with respect to such presubmissions or submissions) shall be submitted solely in such electronic format as specified by the Secretary in such guidance.
+
+#### (B) Draft guidance
+
+&emsp;&emsp;The Secretary shall, not later than October 1, 2019, issue draft guidance providing for—
+
+&emsp;&emsp;&emsp;(i) any further standards for the submission by electronic format required under subparagraph (A);
+
+&emsp;&emsp;&emsp;(ii) a timetable for the establishment by the Secretary of such further standards; and
+
+&emsp;&emsp;&emsp;(iii) criteria for waivers of and exemptions from the requirements of this subsection.
+
+#### (C) Final guidance
+
+&emsp;&emsp;The Secretary shall, not later than 1 year after the close of the public comment period on the draft guidance issued under subparagraph (B), issue final guidance.
+
+(June 25, 1938, ch. 675, §745A, as added Pub. L. 112–144, title XI, §1136, July 9, 2012, 126 Stat. 1123; amended Pub. L. 115–52, title II, §207, Aug. 18, 2017, 131 Stat. 1019.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (b)(3). Pub. L. 115–52 added par. (3).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by title II of Pub. L. 115–52, effective Oct. 1, 2017, except that fees under subpart 3 of part C of this subchapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 

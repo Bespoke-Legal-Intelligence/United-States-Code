@@ -88,7 +88,7 @@ In this chapter:
 
 #### (12) Target country
 
-&emsp;The term "target country" means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described in section 9304(a)(2) of this title, including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
+&emsp;The term "target country" means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described insection 9304(a)(2) of this title, including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
 
 (Pub. L. 114–195, §4, July 20, 2016, 130 Stat. 676.)
 

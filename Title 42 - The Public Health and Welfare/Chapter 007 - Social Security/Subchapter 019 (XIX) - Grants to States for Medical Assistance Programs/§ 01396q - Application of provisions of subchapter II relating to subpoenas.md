@@ -14,5 +14,5 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date
 
-Pub. L. 98–369, div. B, title III, §2370(b), July 18, 1984, 98 Stat. 1110, provided that: "The amendment made bythis section \[enacting this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. B, title III, §2370(b), July 18, 1984, 98 Stat. 1110, provided that: "The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\]."
 

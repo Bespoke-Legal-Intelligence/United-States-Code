@@ -16,7 +16,7 @@
 
 (c) All national and other veterans' cemeteries under the control of the National Cemetery Administration shall be considered national shrines as a tribute to our gallant dead and, notwithstanding the provisions of any other law, the Secretary is hereby authorized to permit appropriate officials to fly the flag of the United States of America at such cemeteries twenty-four hours each day.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1003; amended Pub. L. 97–66, title VI, §603(b),Oct. 17, 1981, 95 Stat. 1034; Pub. L. 97–295, §4(34), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2403, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §§401(c), 403(c)(6), Nov. 11, 1998, 112 Stat. 3335, 3339.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1003; amended Pub. L. 97–66, title VI, §603(b), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 97–295, §4(34), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2403, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §§401(c), 403(c)(6), Nov. 11, 1998, 112 Stat. 3335, 3339.)
 
 #### References in Text
 
@@ -24,7 +24,7 @@ For cemeteries under the control of the National Cemetery Administration, referr
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–368, §401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section."
+<b>1998</b>—Subsec. (b). Pub. L. 105–368, §401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: "Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section."
 
 Subsec. (c). Pub. L. 105–368, §403(c)(6), substituted "under the control of the National Cemetery Administration" for "in the National Cemetery System created by this chapter".
 

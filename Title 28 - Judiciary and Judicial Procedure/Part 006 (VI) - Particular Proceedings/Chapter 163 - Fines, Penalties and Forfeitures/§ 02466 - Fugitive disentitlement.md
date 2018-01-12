@@ -14,7 +14,7 @@
 
 (b) Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.
 
-(Added Pub. L. 106–185, §14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, titleXI, §1171(c), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title IV, §406(a)(1), Mar. 9, 2006, 120 Stat. 244.)
+(Added Pub. L. 106–185, §14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, title XI, §1171(c), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title IV, §406(a)(1), Mar. 9, 2006, 120 Stat. 244.)
 
 #### Amendments
 

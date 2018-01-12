@@ -1,0 +1,6 @@
+### §14199. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–322, title XXVII, §270009, Sept. 13, 1994, 108 Stat. 2095, which authorized appropriations for fiscal year 1996, was omitted as obsolete.
+

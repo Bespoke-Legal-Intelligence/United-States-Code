@@ -16,7 +16,7 @@
 
 &emsp;(ii)(I) the relief granted in the decision provides that such employee or applicant shall return or be present at the place of employment during the period pending the outcome of any petition for review under subsection (e); and
 
-&emsp;(II) the employing agency, subject to the provisions of subparagraph (B), determines that the return or presence of such employeeor applicant is unduly disruptive to the work environment.
+&emsp;(II) the employing agency, subject to the provisions of subparagraph (B), determines that the return or presence of such employee or applicant is unduly disruptive to the work environment.
 
 (B) If an agency makes a determination under subparagraph (A)(ii)(II) that prevents the return or presence of an employee at the place of employment, such employee shall receive pay, compensation, and all other benefits as terms and conditions of employment during the period pending the outcome of any petition for review under subsection (e).
 
@@ -72,13 +72,13 @@
 
 (h) The Board may, by regulation, provide for one or more alternative methods for settling matters subject to the appellate jurisdiction of the Board which shall be applicable at the election of an applicant for employment or of an employee who is not in a unit for which a labor organization is accorded exclusive recognition, and shall be in lieu of other procedures provided for under this section. A decision under such a method shall be final, unless the Board reopens and reconsiders a case at the request of the Office of Personnel Management under subsection (e) of this section.
 
-(i)(1) Upon the submission of any appeal to the Board under this section, the Board, throughreference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
+(i)(1) Upon the submission of any appeal to the Board under this section, the Board, through reference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
 
 (2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 
 (3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
 
-(4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
+(4) It shall be the duty of the Board, an administrative law judge, or employee designated bythe Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
 (j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 
@@ -168,5 +168,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(
 
 #### Executive Order No. 11787
 
-Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided that the appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided thatthe appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

@@ -50,7 +50,7 @@
 
 #### (B) Certain commodities
 
-&emsp;&emsp;In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
+&emsp;&emsp;In the case of wheat, barley, and oats, the availability period shall be consistent withthe availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
 
 #### (d) Prohibition on crop insurance indemnity or noninsured crop assistance
 

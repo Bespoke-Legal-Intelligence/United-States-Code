@@ -226,7 +226,7 @@ In an action described in subsection (c)(7)—
 
 #### (3) Funds
 
-&emsp;For the first fiscal year after the effective date of this subsection, and for each fiscal year thereafter, for the purpose of carrying out such recruiting and public awareness functions, the Chief Executive Officer shall obligate not less than 1.5 percent of the amounts appropriated for the fiscal year under section 501(a) of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081(a)\].
+&emsp;For the first fiscal year after the effective date of this subsection, and for each fiscal year thereafter, for the purpose of carrying out such recruiting and public awareness functions, the Chief Executive Officer shall obligate not less than 1.5 percent of the amounts appropriated for the fiscal year under section501(a) of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081(a)\].
 
 #### (h) Authority to contract with businesses
 

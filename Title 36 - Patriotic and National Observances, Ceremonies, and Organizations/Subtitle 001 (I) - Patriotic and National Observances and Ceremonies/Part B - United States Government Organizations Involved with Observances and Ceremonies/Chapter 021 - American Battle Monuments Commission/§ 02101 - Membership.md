@@ -16,7 +16,7 @@ Pay and Expenses.—The members of the Commission serve without compensation. Ho
 
 (c)
 
-Expenses of Officers of Armed Forces Serving on Commission.—An officer of the Armed Forces serving as a member or as secretary of the Commission may be reimbursed for expenses when traveling on business of the Commission in the same way as civilian members of the Commission.
+Expenses of Officers of Armed Forces Serving on Commission.—An officer of the Armed Forces serving as a member or as secretary of the Commission may be reimbursed forexpenses when traveling on business of the Commission in the same way as civilian members of the Commission.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 106–117, title VI, §604(1), Nov. 30, 1999, 113 Stat. 1580; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
@@ -58,7 +58,7 @@ In subsection (a), the words "from time to time" are omitted as unnecessary.
 
 In subsection (b), before clause (1), the text of 36:121 (last par.) is omitted as executed. In clauses (2) and (3), the word "same" is omitted as unnecessary. In clause (2), the words "authorized to be paid" are substituted for "prescribed" for consistency with clause (3) and 37:405.
 
-Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading "AmericanBattle Monuments Commission" in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words "in the same way as" are substituted for "as provided for" for clarity and consistency in the revised title.
+Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading "American Battle Monuments Commission" in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words "in the same way as" are substituted for "as provided for" for clarity and consistency in the revised title.
 
 #### Amendments
 

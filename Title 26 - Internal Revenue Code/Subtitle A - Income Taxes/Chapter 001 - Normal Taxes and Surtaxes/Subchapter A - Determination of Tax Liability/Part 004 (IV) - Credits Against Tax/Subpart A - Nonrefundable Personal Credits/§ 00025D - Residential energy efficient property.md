@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Labor costs
 
-&emsp;Expenditures for labor costs properly allocable to the onsite preparation, assembly, ororiginal installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
+&emsp;Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
 
 #### (2) Solar panels
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (f) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditurewith respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (g) Applicable percentage
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1103(b)(2)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1103(c)(2) of Pub. L. 111–5, set out as a note under section 25C of this title.
 
-Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2008 Amendment
 

@@ -50,6 +50,10 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 &emsp;&emsp;&emsp;(ii) $10,000,000.
 
+#### (C) Special rule for taxpayers claiming section 199A deduction
+
+&emsp;&emsp;In the case of any taxpayer who claims the deduction allowed under section 199A for the taxable year, subparagraph (A) shall be applied by substituting "5 percent" for "10 percent".
+
 #### (2) Understatement
 
 #### (A) In general
@@ -234,7 +238,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 For purposes of this section, there is an "inconsistent estate basis" if the basis of property claimed on a return exceeds the basis as determined under section 1014(f).
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L.109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456.)
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §11011(c), Dec. 22, 2017, 131 Stat. 2070.)
 
 #### References in Text
 
@@ -251,6 +255,8 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(1)(C). Pub. L. 115–97 added subpar. (C).
 
 <b>2015</b>—Subsec. (b)(8). Pub. L. 114–41, §2004(c)(1), added par. (8).
 
@@ -320,7 +326,7 @@ Subsec. (e)(3)(B). Pub. L. 103–66, §13236(b), amended heading and text of sub
 
 &emsp;"(i) any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if it is shown that there was a reasonable cause for the taxpayer's determination of such price and that the taxpayer acted in good faith with respect to such price, and
 
-&emsp;"(ii) any portion of such net increase which is attributable to any transaction solely between foreigncorporations unless, in the case of any of such corporations, the treatment of such transaction affects the determination of income from sources within the United States or taxable income effectively connected with the conduct of a trade or business within the United States."
+&emsp;"(ii) any portion of such net increase which is attributable to any transaction solely between foreign corporations unless, in the case of any of such corporations, the treatment of such transaction affects the determination of income from sources within the United States or taxable income effectively connected with the conduct of a trade or business within the United States."
 
 Subsec. (e)(3)(D). Pub. L. 103–66, §13236(c), added subpar. (D).
 
@@ -339,6 +345,10 @@ In general.—For purposes of this section, there is a substantial valuation ove
 Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542))."
 
 Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting '400 percent' for '200 percent',".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under section 62 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -388,7 +398,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Disqualified opinions.—Section 6664(d)(3)(B) of the Internal Revenue Code of 1986 \[now section 6664(d)(4)(B)\] (as added by subsection (c)) shall not apply to the opinion of a tax advisor if—
+Disqualified opinions.—Section 6664(d)(3)(B) of the Internal Revenue Code of 1986 \[now section6664(d)(4)(B)\] (as added by subsection (c)) shall not apply to the opinion of a tax advisor if—
 
 &emsp;"(A) the opinion was provided to the taxpayer before the date of the enactment of this Act,
 
@@ -418,7 +428,7 @@ Pub. L. 101–508, title XI, §11312(c), Nov. 5, 1990, 104 Stat. 1388–455, pro
 
 #### Effective Date
 
-Part applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31,1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
+Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,3 +58,7 @@ Continuing availability of amounts.—Amounts in the Fund shall be available wit
 
 (Added Pub. L. 114–328, div. B, title XXVIII, §2831(a), Dec. 23, 2016, 130 Stat. 2738.)
 
+#### Codification
+
+Another section 4781, added Pub. L. 115–31, div. N, title VI, §602(a), May 5, 2017, 131 Stat. 828, was substantially identical to this section, and related to Cyber Center for Education and Innovation-Home of the National Cryptologic Museum, prior to repeal by Pub. L. 115–91, div. A, title X, §1081(a)(49)(A), Dec. 12, 2017, 131 Stat. 1597.
+

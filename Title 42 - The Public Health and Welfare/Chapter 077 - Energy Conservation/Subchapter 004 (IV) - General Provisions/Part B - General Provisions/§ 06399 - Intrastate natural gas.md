@@ -1,6 +1,6 @@
 ### §6399. Intrastate natural gas
 
-No provision of this chapter shall permit the imposition of any price controls on, or require any allocation of, natural gas not subject to the jurisdiction of the Secretary or the Federal Energy Regulatory Commission.
+No provision of this chapter shall permit the imposition of any price controls on, or requireany allocation of, natural gas not subject to the jurisdiction of the Secretary or the Federal Energy Regulatory Commission.
 
 (Pub. L. 94–163, title V, §529, Dec. 22, 1975, 89 Stat. 964; Pub. L. 95–91, title III, §301(a), title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607.)
 

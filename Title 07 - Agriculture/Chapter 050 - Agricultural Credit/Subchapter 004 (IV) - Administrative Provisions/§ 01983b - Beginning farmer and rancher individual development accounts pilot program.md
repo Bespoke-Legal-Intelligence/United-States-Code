@@ -94,7 +94,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A qualified entity receiving a grant under this section shall establish and administer individual development accounts for eligible participants.
+&emsp;&emsp;A qualified entity receiving a grant under this section shall establish and administerindividual development accounts for eligible participants.
 
 #### (B) Contract requirements
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (5) Term of authority
 
-&emsp;If the Secretary approves an application to carry out a demonstration program, the Secretary shall authorize the applicant to carry out the project for a period of 5 years, plus an additional 2 years to make eligible expenditures in accordance with subsection (b)(5)(B).
+&emsp;If the Secretary approves an application to carry out a demonstration program, the Secretary shall authorize the applicant to carry out the project for a period of 5 years, plus anadditional 2 years to make eligible expenditures in accordance with subsection (b)(5)(B).
 
 #### (d) Grant authority
 

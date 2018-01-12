@@ -22,15 +22,15 @@ The amount of contractor employee compensation under this part for the survivor 
 
 #### (b) One amount only
 
-The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) of this section applies shall receive only the highest such amount.
+The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) applies shall receive only the highest such amount.
 
 #### (c) Determination and allocation of shares
 
-The amount under subsection (a) of this section shall be paid only as follows:
+The amount under subsection (a) shall be paid only as follows:
 
 &emsp;(1) If a covered spouse is alive at the time of payment, such payment shall be made to such surviving spouse.
 
-&emsp;(2) If there is no covered spouse described in paragraph (1), such payment shall be made inequal shares to all covered children who are alive at the time of payment.
+&emsp;(2) If there is no covered spouse described in paragraph (1), such payment shall be made in equal shares to all covered children who are alive at the time of payment.
 
 &emsp;(3) Notwithstanding the other provisions of this subsection, if there is—
 

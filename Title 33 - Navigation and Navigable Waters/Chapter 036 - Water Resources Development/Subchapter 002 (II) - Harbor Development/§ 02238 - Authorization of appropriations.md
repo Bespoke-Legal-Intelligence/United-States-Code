@@ -2,7 +2,7 @@
 
 #### (a) Trust fund
 
-There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, establishedby section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
+There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
 
 &emsp;(1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Saint Lawrence Seaway Development Corporation for such fiscal year; and
 
@@ -88,7 +88,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (C) Prioritization
 
-&emsp;&emsp;In allocating funds under this paragraph, the Secretary shall give priority to projects at eligible harbors or inland harbors forwhich the difference, calculated in dollars, is greatest between—
+&emsp;&emsp;In allocating funds under this paragraph, the Secretary shall give priority to projects at eligible harbors or inland harbors for which the difference, calculated in dollars, is greatest between—
 
 &emsp;&emsp;&emsp;(i) the total amount of funding made available for projects at that eligible harbor or inland harbor from the Harbor Maintenance Trust Fund in the immediately preceding 3 fiscal years; and
 
@@ -98,7 +98,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under those paragraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs of any harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
+&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under those paragraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs ofany harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
 
 #### (B) Criteria
 

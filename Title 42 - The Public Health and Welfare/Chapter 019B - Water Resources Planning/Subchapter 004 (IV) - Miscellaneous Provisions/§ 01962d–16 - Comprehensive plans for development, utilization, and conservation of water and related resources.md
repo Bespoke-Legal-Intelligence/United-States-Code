@@ -4,7 +4,7 @@
 
 #### (1) Comprehensive plans
 
-&emsp;The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State or group of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
+&emsp;The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State orgroup of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
 
 #### (2) Technical assistance
 
@@ -42,7 +42,7 @@
 
 #### (2) Technical assistance
 
-&emsp;There is authorized to be appropriated $15,000,000 annually to carry out subsection\(a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
+&emsp;There is authorized to be appropriated $15,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
 
 #### (d) Annual submission of proposed activities
 

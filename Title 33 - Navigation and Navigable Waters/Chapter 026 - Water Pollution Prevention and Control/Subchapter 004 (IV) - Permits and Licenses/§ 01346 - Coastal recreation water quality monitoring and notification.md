@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) the program is consistent with the performance criteria published by the Administrator under subsection (a);
 
-&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particular coastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
+&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particularcoastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
 
 &emsp;&emsp;&emsp;(iii) the State or local government makes available to the Administrator the factors used to prioritize the use of funds under clause (ii);
 
@@ -102,7 +102,7 @@ As a condition of receipt of a grant under subsection (b), a State or local gove
 
 #### (d) Federal agency programs
 
-Not later than 3 years after October 10, 2000, each Federal agency that has jurisdiction over coastal recreation waters adjacent to beaches or similar points of access that are used by the public shall develop and implement, through a process that provides for public notice and an opportunity for comment, a monitoring and notification program for the coastal recreation waters that—
+Not later than 3 years after October 10, 2000, each Federal agency that has jurisdiction overcoastal recreation waters adjacent to beaches or similar points of access that are used by the public shall develop and implement, through a process that provides for public notice and an opportunity for comment, a monitoring and notification program for the coastal recreation waters that—
 
 &emsp;(1) protects the public health and safety;
 

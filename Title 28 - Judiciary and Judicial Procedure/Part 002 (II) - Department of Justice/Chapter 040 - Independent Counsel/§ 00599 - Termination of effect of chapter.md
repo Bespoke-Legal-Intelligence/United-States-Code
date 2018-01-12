@@ -1,6 +1,6 @@
 ### §599. Termination of effect of chapter
 
-This chapter shall cease to be effective five years after the date of the enactment of the Independent Counsel Reauthorization Act of1994, except that this chapter shall continue in effect with respect to then pending matters before an independent counsel that in the judgment of such counsel require such continuation until that independent counsel determines such matters have been completed.
+This chapter shall cease to be effective five years after the date of the enactment of the Independent Counsel Reauthorization Act of 1994, except that this chapter shall continue in effect with respect to then pending matters before an independent counsel that in the judgment of such counsel require such continuation until that independent counsel determines such matters have been completed.
 
 (Added Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1306; amended Pub. L. 103–270, §2, June 30, 1994, 108 Stat. 732.)
 

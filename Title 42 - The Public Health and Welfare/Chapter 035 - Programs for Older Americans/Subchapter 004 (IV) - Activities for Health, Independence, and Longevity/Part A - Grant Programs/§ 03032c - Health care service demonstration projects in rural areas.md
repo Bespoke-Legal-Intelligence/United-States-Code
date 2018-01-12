@@ -2,11 +2,11 @@
 
 #### (a) Authority
 
-The Assistant Secretary, after consultation with the State agency of the State involved, shall make grants to eligible public agencies and nonprofit private organizations to pay part or all of the cost of developing or operating model health care service projects (including related home health care services, adult day health care, mental health services, outreach, and transportation) through multipurpose senior centers that are located in rural areas and that provide nutrition services under section 3030e of this title, to meet the health care needs of medically underserved older individuals residing in such areas.
+The Assistant Secretary, after consultation with the State agency of the State involved, shall make grants to eligible public agencies and nonprofit private organizations to pay part or all of the cost of developing or operating modelhealth care service projects (including related home health care services, adult day health care, mental health services, outreach, and transportation) through multipurpose senior centers that are located in rural areas and that provide nutrition services under section 3030e of this title, to meet the health care needs of medically underserved older individuals residing in such areas.
 
 #### (b) Eligibility
 
-To be eligible to receive a grant under subsection (a) of this section, a public agency or nonprofit private organization shall submit tothe Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
+To be eligible to receive a grant under subsection (a), a public agency or nonprofit private organization shall submit to the Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
 
 &emsp;(1) information describing the nature and extent of the applicant's—
 
@@ -36,7 +36,7 @@ To be eligible to receive a grant under subsection (a) of this section, a public
 
 #### (c) Reports
 
-The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b) of this section.
+The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b).
 
 (Pub. L. 89–73, title IV, §414, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2259; amended Pub. L. 109–365, title IV, §404, Oct. 17, 2006, 120 Stat. 2553.)
 

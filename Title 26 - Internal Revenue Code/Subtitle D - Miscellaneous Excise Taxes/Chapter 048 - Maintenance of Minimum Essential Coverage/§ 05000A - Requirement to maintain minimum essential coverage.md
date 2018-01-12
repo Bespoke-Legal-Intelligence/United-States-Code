@@ -22,7 +22,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;(B) files a joint return for the taxable year including such month, such individual and the spouse of such individual shall be jointly liable for such penalty.
 
-#### (c) Amount of penalty
+#### (c) <sup>1</sup> Amount of penalty
 
 #### (1) In general
 
@@ -68,7 +68,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (C) Special rule for individuals under age 18
 
-&emsp;&emsp;If an applicable individual has not attained the age of 18 as of the beginning of amonth, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
+&emsp;&emsp;If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
 
 #### (D) Indexing of amount
 
@@ -76,7 +76,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;&emsp;(i) $695, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2015" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2015" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
@@ -174,7 +174,7 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 #### (C) Special rules for individuals related to employees
 
-&emsp;&emsp;For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to <sup>1</sup> required contribution of the employee.
+&emsp;&emsp;For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to <sup>2</sup> required contribution of the employee.
 
 #### (D) Indexing
 
@@ -228,11 +228,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the CHIP program under title XXI of the Social Security Act,
 
-&emsp;&emsp;&emsp;(iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; <sup>2</sup>
+&emsp;&emsp;&emsp;(iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; <sup>3</sup>
 
 &emsp;&emsp;&emsp;(v) a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
 
-&emsp;&emsp;&emsp;(vi) a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>2</sup> or
+&emsp;&emsp;&emsp;(vi) a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>3</sup> or
 
 &emsp;&emsp;&emsp;(vii) the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1587 note).
 
@@ -304,7 +304,61 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) levy on any such property with respect to such failure.
 
-(Added and amended Pub. L. 111–148, title I, §1501(b), title X, §10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, §2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, §1(a), May 27, 2010, 124 Stat. 1215.)
+(Added and amended Pub. L. 111–148, title I, §1501(b), title X, §10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, §2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, §1(a), May 27, 2010, 124 Stat. 1215; Pub. L. 115–97, title I, §§11002(d)(1)(GG), 11081(a), Dec. 22, 2017, 131 Stat. 2060, 2092.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 115–97, title I, §11081, Dec. 22, 2017, 131 Stat. 2092, amended subsection (c) of this section, applicable to months beginning after Dec. 31, 2018. After amendment, subsection (c) reads as follows:</i>
+
+#### <i>(c) Amount of penalty</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The amount of the penalty imposed by this section on any taxpayer for any taxable year with respect to failures described in subsection (b)(1) shall be equal to the lesser of—</i>
+
+&emsp;&emsp;<i>(A) the sum of the monthly penalty amounts determined under paragraph (2) for months in the taxable year during which 1 or more such failures occurred, or</i>
+
+&emsp;&emsp;<i>(B) an amount equal to the national average premium for qualified health plans which have a bronze level of coverage, provide coverage for the applicable family size involved, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.</i>
+
+#### <i>(2) Monthly penalty amounts</i>
+
+&emsp;<i>For purposes of paragraph (1)(A), the monthly penalty amount with respect to any taxpayer for any month during which any failure described in subsection (b)(1) occurred is an amount equal to 1/12 of the greater of the following amounts:</i>
+
+#### <i>(A) Flat dollar amount</i>
+
+&emsp;&emsp;<i>An amount equal to the lesser of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the sum of the applicable dollar amounts for all individuals with respect to whom such failure occurred during such month, or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) 300 percent of the applicable dollar amount (determined without regard to paragraph (3)(C)) for the calendar year with or within which the taxable year ends.</i>
+
+#### <i>(B) Percentage of income</i>
+
+&emsp;&emsp;<i>An amount equal to the following percentage of the excess of the taxpayer's household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:</i>
+
+&emsp;&emsp;&emsp;<i>(i) 1.0 percent for taxable years beginning in 2014.</i>
+
+&emsp;&emsp;&emsp;<i>(ii) 2.0 percent for taxable years beginning in 2015.</i>
+
+&emsp;&emsp;&emsp;<i>(iii) Zero percent for taxable years beginning after 2015.</i>
+
+#### <i>(3) Applicable dollar amount</i>
+
+&emsp;<i>For purposes of paragraph (1)—</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.</i>
+
+#### <i>(B) Phase in</i>
+
+&emsp;&emsp;<i>The applicable dollar amount is $95 for 2014 and $325 for 2015.</i>
+
+#### <i>(C) Special rule for individuals under age 18</i>
+
+&emsp;&emsp;<i>If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.</i>
+
+<i>See 2017 Amendment notes below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -320,11 +374,23 @@ Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A),
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(2)(B)(iii). Pub. L. 115–97, §11081(a)(1), substituted "Zero percent" for "2.5 percent".
+
+Subsec. (c)(3)(A). Pub. L. 115–97, §11081(a)(2)(A), substituted "$0" for "$695".
+
+Subsec. (c)(3)(D). Pub. L. 115–97, §11081(a)(2)(B), struck out subpar. (D). Text read as follows: "In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
+
+&emsp;"(i) $695, multiplied by
+
+&emsp;"(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting 'calendar year 2015' for 'calendar year 2016' in subparagraph (A)(ii) thereof."
+
+Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(GG), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–148, §10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: "If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c)."
 
 Subsec. (c)(1), (2). Pub. L. 111–148, §10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount ofgross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
 
 Subsec. (c)(2)(B)(i). Pub. L. 111–152, §1002(a)(1)(B), substituted "1.0" for "0.5".
 
@@ -372,6 +438,12 @@ Subsec. (f)(1)(A)(v). Pub. L. 111–173, §1(a), amended cl. (v) generally. Prio
 
 Subsec. (f)(1)(A)(vii). Pub. L. 111–159, §2(a)(2)–(4), added cl. (vii).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(GG) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §11081(b), Dec. 22, 2017, 131 Stat. 2092, provided that: "The amendments made by this section \[amending this section\] shall apply to months beginning after December 31, 2018."
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–173, §1(b), May 27, 2010, 124 Stat. 1215, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."
@@ -382,7 +454,9 @@ Pub. L. 111–159, §2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: "The am
 
 Pub. L. 111–148, title I, §1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: "The amendments made by this section \[enacting this section and section 18091 of Title 42, The Public Health and Welfare\] shall apply to taxable years ending after December 31, 2013."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
+<i><sup>1</sup></i><i> See Amendment of Subsection (c) note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
+
+<i><sup>3</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

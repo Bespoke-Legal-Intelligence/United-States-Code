@@ -20,7 +20,7 @@ Individual Described.—An individual described in this subsection is an individ
 
 (c)
 
-Premium.—(1) The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b).
+Premium.—(1) The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b). Such premium shall apply instead of any enrollment fees required under section 1075 or 1075a of this title, as appropriate.
 
 (2) The monthly amount of the premium in effect for a month for coverage under the TRICARE program pursuant to this section shall be the amount equal to the cost of such coverage that the Secretary determines on an appropriate actuarial basis.
 
@@ -28,11 +28,7 @@ Premium.—(1) The Secretary shall prescribe by regulation a premium (or premium
 
 (4) Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
-(Added Pub. L. 111–383, div. A, title VII, §702(a)(1), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 114–328, div. A, title VII, §701(j)(1)(F), Dec. 23, 2016, 130 Stat. 2192.)
-
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 114–328, div. A, title VII, §701(j)(1)(F), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, subsection (c)(1) is amended by inserting after "(b)." the following: "Such premium shall apply instead of any enrollment fees required under section 1075 of this section.". See 2016 Amendment note below.</i>
+(Added Pub. L. 111–383, div. A, title VII, §702(a)(1), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 114–328, div. A, title VII, §701(j)(1)(F), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §739(f), Dec. 12, 2017, 131 Stat. 1447.)
 
 #### References in Text
 
@@ -41,6 +37,8 @@ Section 5000A of the Internal Revenue Code of 1986, referred to in subsec. (b)(3
 Section 2714 of the Public Health Service Act, referred to in subsec. (b)(5), is classified to section 300gg–14 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–91 substituted "section 1075 or 1075a of this title, as appropriate" for "section 1075 of this section".
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328 inserted at end "Such premium shall apply instead of any enrollment fees required under section 1075 of this section."
 

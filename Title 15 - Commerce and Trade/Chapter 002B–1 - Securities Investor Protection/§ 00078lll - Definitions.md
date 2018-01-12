@@ -28,11 +28,11 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;&emsp;(i) the claim of such person arises out of transactions with a foreign subsidiary of a member of SIPC; or
 
-&emsp;&emsp;&emsp;(ii) such person has a claim for cash or securities which by contract, agreement, or understanding, or by operation of law, is part of the capital of the debtor, or is subordinated to the claims of any or all creditors of the debtor, notwithstanding that some ground exists for declaring such contract, agreement, or understanding void or voidable in a suit between the claimant and the debtor.
+&emsp;&emsp;&emsp;(ii) such person has a claim for cash or securities which by contract, agreement,or understanding, or by operation of law, is part of the capital of the debtor, or is subordinated to the claims of any or all creditors of the debtor, notwithstanding that some ground exists for declaring such contract, agreement, or understanding void or voidable in a suit between the claimant and the debtor.
 
 #### (3) Customer name securities
 
-&emsp;The term "customer name securities" means securities which were held for the account ofa customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
+&emsp;The term "customer name securities" means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
 
 #### (4) Customer property
 
@@ -132,11 +132,11 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term "Security" means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term "security" does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
+(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410;Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
 
 #### References in Text
 
-This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636.For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 

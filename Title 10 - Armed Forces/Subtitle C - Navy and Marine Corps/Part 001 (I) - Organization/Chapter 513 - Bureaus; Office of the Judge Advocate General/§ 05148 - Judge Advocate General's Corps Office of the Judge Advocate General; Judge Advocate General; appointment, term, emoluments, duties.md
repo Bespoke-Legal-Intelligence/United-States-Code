@@ -100,7 +100,7 @@ Pub. L. 90–179, §8, Dec. 8, 1967, 81 Stat. 549, provided that:
 
 "(a) In this section 'law specialist' means a line officer on the active or retired list of the Regular Navy or of the Naval Reserve designated for special duty (law) or a line officer of the Naval Reserve \[now Navy Reserve\] assigned a numerical designator indicating a special duty officer (law).
 
-"(b) All law specialists in the Navy are redesignated as judge advocates in the Judge Advocate General's Corps of the Navy. Each law specialist of the Navy whois on a promotion list on the day before the effective date of this Act \[Dec. 8, 1967\] shall be placed on the appropriate promotion list for the Judge Advocate General's Corps and shall be eligible for promotion when the officer who is to be his running mate in the next higher grade becomes eligible for promotion in that grade."
+"(b) All law specialists in the Navy are redesignated as judge advocates in the Judge Advocate General's Corps of the Navy. Each law specialist of the Navy who is on a promotion list on the day before the effective date of this Act \[Dec. 8, 1967\] shall be placed on the appropriate promotion list for the Judge Advocate General's Corps and shall be eligible for promotion when the officer who is to be his running mate in the next higher grade becomes eligible for promotion in that grade."
 
 #### Savings Provision
 

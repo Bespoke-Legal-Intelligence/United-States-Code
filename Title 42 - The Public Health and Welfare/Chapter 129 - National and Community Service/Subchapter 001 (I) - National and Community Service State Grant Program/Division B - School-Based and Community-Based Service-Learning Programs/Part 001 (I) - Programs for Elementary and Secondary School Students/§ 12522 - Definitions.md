@@ -26,5 +26,9 @@ A prior section 12522, Pub. L. 101–610, title I, §111A, as added Pub. L. 103�
 
 Another prior section 12522, Pub. L. 101–610, title I, §112, Nov. 16, 1990, 104 Stat. 3133; Pub. L. 102–10, §4(3), Mar. 12, 1991, 105 Stat. 30; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to allotments, prior to repeal by Pub. L. 103–82, §103(a)(2).
 
+#### Effective Date
+
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

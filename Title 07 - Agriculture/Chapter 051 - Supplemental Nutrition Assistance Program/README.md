@@ -7,6 +7,7 @@
 | [2012a.](%C2%A7%2002012a%20-%20Publicly%20operated%20community%20health%20centers.md) | Publicly operated community health centers. |
 | [2013\.](%C2%A7%2002013%20-%20Establishment%20of%20supplemental%20nutrition%20assistance%20program.md) | Establishment of supplemental nutrition assistance program. |
 | [2014\.](%C2%A7%2002014%20-%20Eligible%20households.md) | Eligible households. |
+| [2014a.](%C2%A7%2002014a%20-%20Notice%20of%20change%20in%20State%20of%20residence%20of%20certified%20household.md) | Notice of change in State of residence of certified household. |
 | [2015\.](%C2%A7%2002015%20-%20Eligibility%20disqualifications.md) | Eligibility disqualifications. |
 | [2016\.](%C2%A7%2002016%20-%20Issuance%20and%20use%20of%20program%20benefits.md) | Issuance and use of program benefits. |
 | [2017\.](%C2%A7%2002017%20-%20Value%20of%20allotment.md) | Value of allotment. |
@@ -45,6 +46,7 @@
 - [&sect; 02012a - Publicly operated community health centers](%C2%A7%2002012a%20-%20Publicly%20operated%20community%20health%20centers.md)
 - [&sect; 02013 - Establishment of supplemental nutrition assistance program](%C2%A7%2002013%20-%20Establishment%20of%20supplemental%20nutrition%20assistance%20program.md)
 - [&sect; 02014 - Eligible households](%C2%A7%2002014%20-%20Eligible%20households.md)
+- [&sect; 02014a - Notice of change in State of residence of certified household](%C2%A7%2002014a%20-%20Notice%20of%20change%20in%20State%20of%20residence%20of%20certified%20household.md)
 - [&sect; 02015 - Eligibility disqualifications](%C2%A7%2002015%20-%20Eligibility%20disqualifications.md)
 - [&sect; 02016 - Issuance and use of program benefits](%C2%A7%2002016%20-%20Issuance%20and%20use%20of%20program%20benefits.md)
 - [&sect; 02017 - Value of allotment](%C2%A7%2002017%20-%20Value%20of%20allotment.md)

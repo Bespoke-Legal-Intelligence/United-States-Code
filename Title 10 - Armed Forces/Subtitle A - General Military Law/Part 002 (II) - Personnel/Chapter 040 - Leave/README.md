@@ -56,7 +56,7 @@ Period of Inactivation From Active Duty; Effect of Inactivation.—
 
 &emsp;"(1)
 
-Limitation.—The period of inactivation from active duty under a pilot program under this section of a member participating in the pilot program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
+Limitation.—The period of inactivation from active duty under a pilot program under this sectionof a member participating in the pilot program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
 
 &emsp;"(2)
 
@@ -118,7 +118,7 @@ Revival required.—Subject to subparagraph (B), upon the return of a member to 
 
 &emsp;&emsp;&emsp;"(i) any agreement entered into by the member under chapter 5 of title 37, United States Code, for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the pilot program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the pilot program; and
 
-&emsp;&emsp;&emsp;"(ii) any special or incentive pay or bonus shall be payable to the member in accordance with theterms of the agreement concerned for the term specified in clause (i).
+&emsp;&emsp;&emsp;"(ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
 
 &emsp;&emsp;"(B)
 
@@ -238,7 +238,7 @@ Additional elements for final report.—In addition to the elements required by 
 
 &emsp;&emsp;"(C) A description of the members who did not return to active duty at the conclusion of their inactivation from active duty under the pilot programs, and a statement of the reasons why the members did not return to active duty.
 
-&emsp;&emsp;"(D) A statement whether members were required to perform inactive duty training as part of theirparticipation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
+&emsp;&emsp;"(D) A statement whether members were required to perform inactive duty training as part of their participation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
 
 "(j)
 

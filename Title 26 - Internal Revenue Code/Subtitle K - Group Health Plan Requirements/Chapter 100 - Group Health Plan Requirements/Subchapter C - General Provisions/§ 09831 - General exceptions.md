@@ -60,7 +60,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 &emsp;&emsp;&emsp;(i) such arrangement is funded solely by an eligible employer and no salary reduction contributions may be made under such arrangement,
 
-&emsp;&emsp;&emsp;(ii) such arrangement provides, after the employee provides proof of coverage, for the payment of, or reimbursement of, aneligible employee for expenses for medical care (as defined in section 213(d)) incurred by the eligible employee or the eligible employee's family members (as determined under the terms of the arrangement), and
+&emsp;&emsp;&emsp;(ii) such arrangement provides, after the employee provides proof of coverage, for the payment of, or reimbursement of, an eligible employee for expenses for medical care (as defined in section 213(d)) incurred by the eligible employee or the eligible employee's family members (as determined under the terms of the arrangement), and
 
 &emsp;&emsp;&emsp;(iii) the amount of payments and reimbursements described in clause (ii) for any year do not exceed $4,950 ($10,000 in the case of an arrangement that also provides for payments or reimbursements for family members of the employee).
 
@@ -86,7 +86,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2015" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2015" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 &emsp;&emsp;&nbsp;If any dollar amount increased under the preceding sentence is not a multiple of $50, such dollar amount shall be rounded to the next lowest multiple of $50.
 
@@ -126,13 +126,23 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 &emsp;&emsp;&emsp;(iii) A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9804; renumbered §9831 and amended Pub. L. 105–34, title XV, §1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, §18001(a)(1), Dec. 13, 2016, 130 Stat. 1338.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9804; renumbered §9831 and amended Pub. L. 105–34, title XV, §1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, §18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, §11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(2)(D)(ii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–255 added subsec. (d).
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 9804 of this title as this section and substituted reference to section 9832 of this title for reference to section 9805 of this title in subsecs. (b) and (c)(1) to (3).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2016 Amendment
 
@@ -140,5 +150,9 @@ Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
+Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on orafter Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
+
+#### Effective Date
+
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 

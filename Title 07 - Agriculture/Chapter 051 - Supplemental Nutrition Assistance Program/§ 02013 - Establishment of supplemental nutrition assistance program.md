@@ -184,7 +184,7 @@ Traditional and local foods demonstration project.—
 
 &emsp;"(A)
 
-In general.—Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 (7U.S.C. 2013(b)) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program.
+In general.—Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(b)) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program.
 
 &emsp;"(B)
 

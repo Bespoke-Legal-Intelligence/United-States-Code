@@ -1,6 +1,6 @@
 ### §271. Infringement of patent
 
-(a) Except as otherwise provided in this title, whoever without authority makes, uses, offers to sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
+(a) Except as otherwise provided in this title, whoever without authority makes, uses, offersto sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
 
 (b) Whoever actively induces infringement of a patent shall be liable as an infringer.
 
@@ -36,7 +36,7 @@
 
 > The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
-(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
 
 (6)(A) Subparagraph (B) applies, in lieu of paragraph (4), in the case of a patent—
 
@@ -54,7 +54,7 @@
 
 (f)(1) Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
-(2) Whoever without authority supplies or causes to be supplied in or from the UnitedStates any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
+(2) Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
 (g) Whoever without authority imports into the United States or offers to sell, sells, or uses within the United States a product which is made by a process patented in the United States shall be liable as an infringer, if the importation, offer to sell, sale, or use of the product occurs during the term of such process patent. In an action for infringement of a process patent, no remedy may be granted for infringement on account of the noncommercial use or retail sale of a product unless there is no adequate remedy under this title for infringement on account of the importation or other use, offer to sell, or sale of that product. A product which is made by a patented process will, for purposes of this title, not be considered to be so made after—
 
@@ -76,7 +76,7 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9\(§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -118,7 +118,7 @@ Subsec. (i). Pub. L. 103–465, §533(a)(5), added subsec. (i).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–703 added cls. (4) and (5).
 
-Subsec. (e)(1). Pub. L. 100–670, §201(i)(1), inserted "which is primarily manufactured using recombinantDNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques" after "March 4, 1913)" and "or veterinary biological products" after "sale of drugs".
+Subsec. (e)(1). Pub. L. 100–670, §201(i)(1), inserted "which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques" after "March 4, 1913)" and "or veterinary biological products" after "sale of drugs".
 
 Subsec. (e)(2). Pub. L. 100–670, §201(i)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "It shall be an act of infringement to submit an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug claimed in a patent or the use of which is claimed in a patent before the expiration of such patent."
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be
 
 #### Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988
 
-Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
+Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was tomake annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 

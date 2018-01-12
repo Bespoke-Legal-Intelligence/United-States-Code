@@ -108,7 +108,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (d) Redemptions treated as distributions of property
 
-Except as otherwise provided in this subchapter, if a corporation redeems its stock\(within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
+Except as otherwise provided in this subchapter, if a corporation redeems its stock (within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
 
 #### (e) Partial liquidation defined
 
@@ -208,7 +208,7 @@ Ruling requests.—The amendments made by this section shall not apply to distri
 
 &emsp;&emsp;"(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
 
-&emsp;&emsp;"(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982\(or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
+&emsp;&emsp;"(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
 &emsp;"(B)
 
@@ -240,7 +240,7 @@ Special rule where offer subject to approval by foreign regulatory body.—In an
 
 &emsp;&emsp;&emsp;"(I) such public announcement shall be treated as a tender offer, and
 
-&emsp;&emsp;&emsp;"(II) clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which such regulatory body approves a public offer to acquire stock in such corporation.
+&emsp;&emsp;&emsp;"(II) clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which such regulatory body approvesa public offer to acquire stock in such corporation.
 
 &emsp;&emsp;"(iv)
 

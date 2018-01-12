@@ -6,7 +6,7 @@ To the greatest extent practicable, the Secretary shall encourage and incorporat
 
 #### (b) Activities
 
-In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensurethat contractors performing work for water resources development projects—
+In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensure that contractors performing work for water resources development projects—
 
 &emsp;(1) use best practices to carry out corrosion prevention activities in the field;
 

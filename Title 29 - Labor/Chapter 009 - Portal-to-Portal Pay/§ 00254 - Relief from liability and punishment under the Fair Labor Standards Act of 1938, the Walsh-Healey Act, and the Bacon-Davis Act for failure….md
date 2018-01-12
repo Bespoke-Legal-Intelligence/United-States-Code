@@ -2,7 +2,7 @@
 
 #### (a) Activities not compensable
 
-Except as provided in subsection (b), no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], theWalsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
+Except as provided in subsection (b), no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
 
 &emsp;(1) walking, riding, or traveling to and from the actual place of performance of the principal activity or activities which such employee is employed to perform, and
 

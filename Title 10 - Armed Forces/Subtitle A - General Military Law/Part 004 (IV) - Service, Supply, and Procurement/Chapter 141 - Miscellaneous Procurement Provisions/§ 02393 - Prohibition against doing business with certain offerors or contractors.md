@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b). Pub. L. 113–66 substituted "on a publicly accessible website to the maximum extent practicable" for "in a file available for public inspection".
+<b>2013</b>—Subsec. (b). Pub. L. 113–66 substituted "on a publicly accessible website to the maximum extentpracticable" for "in a file available for public inspection".
 
 <b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted "section 134 of title 41)" for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))" and "section 103 of title 41)" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))".
 

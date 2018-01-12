@@ -30,6 +30,150 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title II, §202, July 29, 1958, 72 Stat. 429; Pub. L. 88–426, title III, §305(12), Aug. 14, 1964, 78 Stat. 423.
 
+#### Agency Information Technology and Cybersecurity
+
+Pub. L. 115–10, title VIII, §§811–813, Mar. 21, 2017, 131 Stat. 58–60, provided that:
+
+#### "SEC. 811. INFORMATION TECHNOLOGY GOVERNANCE.
+
+"(a)
+
+In General.—The Administrator \[of the National Aeronautics and Space Administration\] shall, in a manner that reflects the unique nature of NASA \[National Aeronautics and Space Administration\]'s mission and expertise—
+
+&emsp;"(1) ensure the NASA Chief Information Officer, Mission Directorates, and Centers have appropriate roles in the management, governance, and oversight processes related to information technology operations and investments and information security programs for the protection of NASA systems;
+
+&emsp;"(2) ensure the NASA Chief Information Officer has the appropriate resources and insight to oversee NASA information technology and information security operations and investments;
+
+&emsp;"(3) provide an information technology program management framework to increase the efficiency and effectiveness of information technology investments, including relying on metrics for identifying and reducing potential duplication, waste, and cost;
+
+&emsp;"(4) improve the operational linkage between the NASA Chief Information Officer and each NASA mission directorate, center, and mission support office to ensure both agency and mission needs are considered in agency-wide information technology and information security management and oversight;
+
+&emsp;"(5) review the portfolio of information technology investments and spending, including information technology-related investments included as part of activities within NASA mission directorates that may not be considered information technology, to ensure investments are recognized and reported appropriately based on guidance from the Office of Management and Budget;
+
+&emsp;"(6) consider appropriate revisions to the charters of information technology boards and councils that inform information technology investment and operation decisions; and
+
+&emsp;"(7) consider whether the NASA Chief Information Officer should have a seat on any boards or councils described in paragraph (6).
+
+"(b)
+
+GAO Study.—
+
+&emsp;"(1)
+
+Study.—The Comptroller General of the United States shall conduct a study of the effectiveness of the Administration's Information Technology Governance in ensuring information technology resources are aligned with agency missions and are cost effective and secure.
+
+&emsp;"(2)
+
+Contents.—The study shall include an assessment of—
+
+&emsp;&emsp;"(A) the resources available for overseeing Administration-wide information technology operations, investments, and security measures and the NASA Chief Information Officer's visibility and involvement into information technology oversight and access to those resources;
+
+&emsp;&emsp;"(B) the effectiveness and challenges of the Administration's information technology structure, decision making processes and authorities, including impacts on its ability to implement information security; and
+
+&emsp;&emsp;"(C) the impact of NASA Chief Information Officer approval authority over information technology investments that exceed a defined monetary threshold, including any potential impacts of such authority on the Administration's missions, flights programs and projects, research activities, and Center operations.
+
+&emsp;"(3)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Mar. 21, 2017\], the Comptroller General shall submit to the appropriate committees of Congress \[Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate\] a report detailing the results of the study under paragraph (1), including any recommendations.
+
+#### "SEC. 812. INFORMATION TECHNOLOGY STRATEGIC PLAN.
+
+"(a)
+
+In General.—Subject to subsection (b), the Administrator \[of the National Aeronautics and Space Administration\] shall develop an information technology strategic plan to guide NASA \[National Aeronautics and Space Administration\] information technology management and strategic objectives.
+
+"(b)
+
+Requirements.—In developing the strategic plan, the Administrator shall ensure that the strategic plan addresses—
+
+&emsp;"(1) the deadline under section 306(a) of title 5, United States Code; and
+
+&emsp;"(2) the requirements under section 3506 of title 44, United States Code.
+
+"(c)
+
+Contents.—The strategic plan shall address, in a manner that reflects the unique nature of NASA's mission and expertise—
+
+&emsp;"(1) near and long-term goals and objectives for leveraging information technology;
+
+&emsp;"(2) a plan for how NASA will submit to Congress of \[sic\] a list of information technology projects, including completion dates and risk level in accordance with guidance from the Office of Management and Budget;
+
+&emsp;"(3) an implementation overview for an agency-wide approach to information technology investments and operations, including reducing barriers to cross-center collaboration;
+
+&emsp;"(4) coordination by the NASA Chief Information Officer with centers and mission directorates to ensure that information technology policies are effectively and efficiently implemented across the agency;
+
+&emsp;"(5) a plan to increase the efficiency and effectiveness of information technology investments, including a description of how unnecessarily duplicative, wasteful, legacy, or outdated information technology across NASA will be identified and eliminated, and a schedule for the identification and elimination of such information technology;
+
+&emsp;"(6) a plan for improving the information security of agency information and agency information systems, including improving security control assessments and role-based security training of employees; and
+
+&emsp;"(7) submission by NASA to Congress of information regarding high risk projects and cybersecurity risks.
+
+"(d)
+
+Congressional Oversight.—The Administrator shall submit to the appropriate committees of Congress \[Committee on Science, Space, and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate\] the strategic plan under subsection (a) and any updates thereto.
+
+#### "SEC. 813. CYBERSECURITY.
+
+"(a)
+
+Finding.—Congress finds that the security of NASA \[National Aeronautics and Space Administration\] information and information systems is vital to the success of the mission of the agency.
+
+"(b)
+
+Information Security Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Mar. 21, 2017\], the Administrator \[of the National Aeronautics and Space Administration\] shall implement the information security plan developed under paragraph (2) and take such further actions as the Administrator considers necessary to improve the information security system in accordance with this section.
+
+&emsp;"(2)
+
+Information security plan.—Subject to paragraphs (3) and (4), the Administrator shall develop an agency-wide information security plan to enhance information security for NASA information and information infrastructure.
+
+&emsp;"(3)
+
+Requirements.—In developing the plan under paragraph (2), the Administrator shall ensure that the plan—
+
+&emsp;&emsp;"(A) reflects the unique nature of NASA's mission and expertise;
+
+&emsp;&emsp;"(B) is informed by policies, standards, guidelines, and directives on information security required for Federal agencies;
+
+&emsp;&emsp;"(C) is consistent with the standards and guidelines under section 11331 of title 40, United States Code; and
+
+&emsp;&emsp;"(D) meets applicable National Institute of Standards and Technology information security standards and guidelines.
+
+&emsp;"(4)
+
+Contents.—The plan shall address—
+
+&emsp;&emsp;"(A) an overview of the requirements of the information security system;
+
+&emsp;&emsp;"(B) an agency-wide risk management framework for information security;
+
+&emsp;&emsp;"(C) a description of the information security system management controls and common controls that are necessary to ensure compliance with information security-related requirements;
+
+&emsp;&emsp;"(D) an identification and assignment of roles, responsibilities, and management commitment for information security at the agency;
+
+&emsp;&emsp;"(E) coordination among organizational entities, including between each center, facility, mission directorate, and mission support office, and among agency entities responsible for different aspects of information security;
+
+&emsp;&emsp;"(F) the need to protect the information security of mission-critical systems and activities and high-impact and moderate-impact information systems; and
+
+&emsp;&emsp;"(G) a schedule of frequent reviews and updates, as necessary, of the plan."
+
+#### Collaboration Among Mission Directorates
+
+Pub. L. 115–10, title VIII, §821, Mar. 21, 2017, 131 Stat. 61, provided that:
+
+The Administrator \[of the National Aeronautics and Space Administration\] shall encourage an interdisciplinary approach among all NASA \[National Aeronautics and Space Administration\] mission directorates and divisions, whenever appropriate, for projects or missions—
+
+&emsp;(1) to improve coordination, and encourage collaboration and early planning on scope;
+
+&emsp;(2) to determine areas of overlap or alignment;
+
+&emsp;(3) to find ways to leverage across divisional perspectives to maximize outcomes; and
+
+&emsp;(4) to be more efficient with resources and funds.
+
 #### Users' Advisory Group
 
 Pub. L. 101–611, title I, §121, Nov. 16, 1990, 104 Stat. 3204, provided that:
@@ -42,7 +186,7 @@ Establishment.—(1) The National Space Council shall establish a Users' Advisor
 
 "(3) The National Space Council shall from time to time, but not less than once a year, meet with the Users' Advisory Group.
 
-"(4) The function of the Users' Advisory Group shall be to ensure that the interests of industries and othernon-Federal entities involved in space activities, including in particular commercial entities, are adequately represented in the National Space Council.
+"(4) The function of the Users' Advisory Group shall be to ensure that the interests of industries and other non-Federal entities involved in space activities, including in particular commercial entities, are adequately represented in the National Space Council.
 
 "(5) The Users' Advisory Group may be assisted by personnel detailed to the National Space Council.
 
@@ -56,7 +200,7 @@ Pub. L. 101–328, §3(a), July 8, 1990, 104 Stat. 308, provided that: "Not more
 
 Pub. L. 101–328, §4, July 8, 1990, 104 Stat. 308, provided that: "The National Space Council may, for purposes of carrying out its functions, employ experts and consultants in accordance with section 3109 of title 5, United States Code, and may compensate individuals so employed for each day they are involved in a business of the National Space Council (including traveltime) at rates not in excess of the daily equivalent of the maximum rate of pay for grade GS–18 as provided pursuant to section 5332 of title 5, United States Code."
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 Pub. L. 100–685, title V, §501, Nov. 17, 1988, 102 Stat. 4102, provided that:
 
@@ -80,89 +224,121 @@ AND WHEREAS it appears that such seal is of suitable design and appropriate for 
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, I hereby approve such seal as the official seal of the National Aeronautics and Space Administration.
 
-#### Ex. Ord. No. 12675. Establishing the National Space Council
+#### Ex. Ord. No. 12675
 
-Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 12712, Apr. 26, 1990, 55 F.R. 18095; Ex. Ord. No. 12869, §4(f), Sept. 30, 1993, 58 F.R. 51752, provided:
+Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 12712, Apr. 26, 1990, 55 F.R. 18095; Ex. Ord. No. 12869, §4(f), Sept. 30, 1993, 58 F.R. 51752, which established the National Space Council, was superseded by Ex. Ord. No. 13803, §9(a), June 30, 2017, 82 F.R. 31431, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to provide a coordinated process for developing a national space policy and strategy and for monitoring its implementation, it is hereby ordered as follows:
+#### Ex. Ord. No. 13803. Reviving the National Space Council
 
-Section 1. <i>Establishment and Composition of the National Space Council.</i>
+Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, provided:
 
-(a) There is established the National Space Council ("the Council").
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing and monitoring the implementation of national space policy and strategy, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The National Space Council (Council) was established by Title V of Public Law 100–685 and Executive Order 12675 of April 20, 1989 (Establishing the National Space Council). The Council was tasked with advising and assisting the President regarding national space policy and strategy. The Council was never formally disestablished, but it effectively ceased operation in 1993. This order revives the Council and provides additional details regarding its duties and responsibilities.
+
+Sec. 2. <i>Revival and Composition of the National Space Council</i>. (a) The Council is hereby revived and shall resume operations.
 
 (b) The Council shall be composed of the following members:
 
-(1) The Vice President, who shall be Chairman of the Council;
+(i) The Vice President, who shall be Chair of the Council;
 
-(2) The Secretary of State;
+(ii) The Secretary of State;
 
-(3) The Secretary of the Treasury;
+(iii) The Secretary of Defense;
 
-(4) The Secretary of Defense;
+(iv) The Secretary of Commerce;
 
-(5) The Secretary of Commerce;
+(v) The Secretary of Transportation;
 
-(6) The Secretary of Transportation;
+(vi) The Secretary of Homeland Security;
 
-(7) The Secretary of Energy;
+(vii) The Director of National Intelligence;
 
-(8) The Director of the Office of Management and Budget;
+(viii) The Director of the Office of Management and Budget;
 
-(9) The Chief of Staff to the President;
+(ix) The Assistant to the President for National Security Affairs;
 
-(10) The Assistant to the President for National Security Affairs;
+(x) The Administrator of the National Aeronautics and Space Administration;
 
-(11) The Assistant to the President for Science and Technology;
+(xi) The Director of the Office of Science and Technology Policy;
 
-(12) The Director of Central Intelligence; and
+(xii) The Assistant to the President for Homeland Security and Counterterrorism;
 
-(13) The Administrator of the National Aeronautics and Space Administration.
+(xiii) The Chairman of the Joint Chiefs of Staff; and
 
-(c) The Chairman shall, from time to time, invite the following to participate in meetings of the Council:
+(xiv) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
 
-(1) The Chairman of the Joint Chiefs of Staff; and
+Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President regarding national space policy and strategy, and perform such other duties as the President may, from time to time, prescribe.
 
-(2) The heads of other executive departments and agencies and other senior officials in the Executive Office of the President.
+(b) In particular, the Council is directed to:
 
-Sec. 2. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President on national space policy and strategy, and perform such other duties as the President may from time to time prescribe.
+(i) review United States Government space policy, including long-range goals, and develop a strategy for national space activities;
 
-(b) In addition, the Council is directed to:
+(ii) develop recommendations for the President on space policy and space-related issues;
 
-(1) review United States Government space policy, including long-range goals, and develop a strategy for national space activities;
+(iii) monitor and coordinate implementation of the objectives of the President's national space policy and strategy;
 
-(2) develop recommendations for the President on space policy and space-related issues;
+(iv) foster close coordination, cooperation, and technology and information exchange among the civil, national security, and commercial space sectors;
 
-(3) monitor and coordinate implementation of the objectives of the President's national space policy by executive departments and agencies; and
+(v) advise on participation in international space activities conducted by the United States Government; and
 
-(4) foster close coordination, cooperation, and technology and information exchange among the civil, national security, and commercial space sectors, and facilitate resolution of differences concerning major space and space-related policy issues.
+(vi) facilitate the resolution of differences concerning major space and space-related policy matters.
 
-(c) The creation and operation of the Council shall not interfere with existing lines of authority and responsibilities in the departments and agencies.
+(c) The Council shall meet at least annually.
 
-Sec. 3. <i>Responsibilities of the Chairman</i>. (a) The Chairman shall serve as the President's principal advisor on national space policy and strategy.
+(d) The revival and operation of the Council shall not interfere with the existing lines of authority in or responsibilities of any agencies.
 
-(b) The Chairman shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
+(e) The Council shall have a staff, headed by a civilian Executive Secretary appointed by the President.
 
-(c) The Chairman shall report to the President on the activities and recommendations of the Council. The Chairman shall advise the Council as appropriate regarding the President's directions with respect to the Council's activities and national space policy generally.
+Sec. 4. <i>Responsibilities of the Chair</i>. (a) The Chair shall serve as the President's principal advisor on national space policy and strategy.
 
-(d) The Chairman shall authorize the establishment of such committees of the Council, including an executive committee, and of such working groups, composed of senior designees of the Council members and of other officials invited to participate in Council meetings, as he deems necessary or appropriate for the efficient conduct of Council functions.
+(b) The Chair shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
 
-Sec. 4. <i>National Space Policy Planning Process</i>. (a) The Council will establish a process for developing and monitoring the implementation of national space policy and strategy.
+(c) The Chair shall report to the President quarterly on the Council's activities and recommendations. The Chair shall advise the Council, as appropriate, regarding the President's directions with respect to the Council's activities and national space policy and strategy.
 
-(b) To implement this process, each agency represented on the Council shall provide such information regarding its current and planned space activities as the Chairman shall request.
+(d) The Chair may recommend to the President candidates for the position of Executive Secretary.
 
-(c) The head of each executive department and agency shall ensure that its space-related activities conform to national space policy and strategy.
+(e) The Chair, or upon the Chair's direction, the Executive Secretary, may invite the heads of other agencies, other senior officials in the Executive Office of the President, or other Federal employees to participate in Council meetings.
 
-Sec. 5. \[Revoked by Ex. Ord. No. 12869, §4(f), Sept. 30, 1993, 58 F.R. 51752.\]
+(f) The Chair shall authorize the establishment of committees of the Council, including an executive committee, and of working groups, composed of senior designees of the Council members and of other Federal officials invited to participate in Council meetings, as he deems necessary or appropriate for the efficient conduct of Council functions.
 
-Sec. 6. <i>Microgravity Research Board</i>. Section 1(c) of Executive Order No. 12660 is amended by deleting "Economic Policy Council" and inserting in lieu thereof "National Space Council."
+Sec. 5. <i>National Space Policy and Strategy Planning Process</i>. (a) Each agency represented on the Council shall provide such information to the Chair regarding its current and planned space activities as the Chair shall request.
 
-Sec. 7. <i>Administrative Provisions</i>. (a) The Office of Administration in the Executive Office of the President shall provide the Council with such administrative support on a reimbursable basis as may be necessary for the performance of the functions of the Council.
+(b) The head of each agency that conducts space-related activities shall, to the extent permitted by law, conform such activities to the President's national space policy and strategy.
 
-(b) The President shall appoint an Executive Secretary who shall appoint such staff as may be necessary to assist in the performance of the Council's functions.
+(c) On space policy and strategy matters relating primarily to national security, the Council shall coordinate with the National Security Council (NSC) to create policies and procedures for the Council that respect the responsibilities and authorities of the NSC under existing law.
 
-(c) All Federal departments, agencies, and interagency councils and committees having an impact on space policy shall extend, as appropriate, such cooperation and assistance to the Council as is necessary to carry out its responsibilities under this order.
+Sec. 6. <i>Users' Advisory Group</i>. (a) The Council shall convene a Users' Advisory Group (Group) pursuant to Public Law 101–611, section 121, composed of non-Federal representatives of industries and other persons involved in aeronautical and space activities.
 
-(d) The head of each agency serving on the Council or represented on any working group or committee of the Council shall provide such administrative support as may be necessary, in accordance with law and subject to the availability of appropriations, to enable the agency head or its representative to carry out his responsibilities.
+(b) Members of the Group shall serve without any compensation for their work for the Group. Members of the Group, while engaged in the work of the Group, may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
 
-Sec. 8. <i>Report</i>. The Council shall submit an annual report setting forth its assessment of and recommendations for the space policy and strategy of the United States Government.
+(c) The Group shall report directly to the Council and shall provide advice or work product solely to the Council.
+
+Sec. 7. <i>Administrative Provisions</i>. (a) To aid in the performance of the functions of the Council:
+
+(i) The Office of Administration in the Executive Office of the President shall provide the Council with administrative support on a reimbursable basis; and
+
+(ii) Legal advice to the Council itself with respect to its work and functions shall be provided exclusively by the Office of the Counsel to the President.
+
+(b) To the extent practicable and permitted by law, including the Economy Act, and within existing appropriations, agencies serving on the Council and interagency councils and committees that affect space policy or strategy shall make resources, including, but not limited to, personnel, office support, and printing, available to the Council as reasonably requested by the Chair or, upon the Chair's direction, the Executive Secretary.
+
+(c) Agencies shall cooperate with the Council and provide such information and advice to the Council as it may reasonably request, to the extent permitted by law.
+
+Sec. 8. <i>Report</i>. Within 1 year of the date of this order, and annually thereafter, the Council shall submit a report to the President setting forth its assessment of, and recommendations for, the space policy and strategy of the United States Government.
+
+Sec. 9. <i>General Provisions</i>. (a) This order supersedes Executive Order 12675 of April 20, 1989 (Establishing the National Space Council). To the extent this order is inconsistent with any provision of any earlier Executive Order or Presidential Memorandum, this order shall control.
+
+(b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -44,7 +44,7 @@ Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend
 
 &emsp;(B) is eligible for appointment, designation, or assignment as a medical officer or dental officer in the Reserve of the armed force concerned or has been appointed as a medical or dental officer in the Reserve of the armed force concerned; and
 
-&emsp;(C) is enrolled or has been accepted for enrollment in a residency program for physicians or dentists in a medical or dental specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
+&emsp;(C) is enrolled or has been accepted for enrollment in a residency program for physicians or dentists in a medical or dental specialty designated by the Secretary concernedas a specialty critically needed by that military department in wartime.
 
 (2) Under the agreement—
 
@@ -70,7 +70,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (g), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
 
-&emsp;(B) the participant shall not be eligible to receive such stipend before being appointed asa Reserve officer for service in the Ready Reserve in a Nurse Corps or as a nurse;
+&emsp;(B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve in a Nurse Corps or as a nurse;
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
@@ -216,7 +216,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Payments for Period Prior to December 4, 1987
 

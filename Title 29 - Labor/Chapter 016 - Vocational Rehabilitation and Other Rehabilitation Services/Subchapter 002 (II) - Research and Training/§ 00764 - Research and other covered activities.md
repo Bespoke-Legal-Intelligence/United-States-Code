@@ -2,7 +2,7 @@
 
 #### (a) Federal grants and contracts for certain research projects and related activities
 
-(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
+(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, familysupport, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
 (2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
@@ -26,7 +26,7 @@
 
 (3) In carrying out this section, the Director shall emphasize covered activities that include plans for—
 
-&emsp;(A) dissemination of high-quality materials, of scientifically valid research results, or offindings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
+&emsp;(A) dissemination of high-quality materials, of scientifically valid research results, or of findings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
 
 &emsp;(B) the commercialization of marketable products, research results, or findings, resulting from the covered activities.
 
@@ -80,7 +80,7 @@
 
 &emsp;(ii) other courses offered by the Centers, either directly or through another entity.
 
-(H) The research and training activities conducted by such a Center shall be conducted in amanner that is accessible to and usable by individuals with disabilities.
+(H) The research and training activities conducted by such a Center shall be conducted in a manner that is accessible to and usable by individuals with disabilities.
 
 (I) In awarding grants under this paragraph, the Director shall take into consideration the location of any proposed Center and the appropriate geographic and regional allocation of such Centers.
 
@@ -108,7 +108,7 @@
 
 &emsp;(i) developing and disseminating innovative methods of applying advanced technology, scientific achievement, and psychological and social knowledge to—
 
-&emsp;&emsp;(I) solve independent living and rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative research with public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
+&emsp;&emsp;(I) solve independent living and rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative researchwith public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
 
 &emsp;&emsp;(II) study new or emerging technologies, products, or environments, and the effectiveness and benefits of such technologies, products, or environments;
 
@@ -352,7 +352,7 @@ Subsec. (b)(2)(B)(iv). Pub. L. 113–128, §435(2)(B)(ii)(V), inserted "independ
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
+Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read asfollows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
 

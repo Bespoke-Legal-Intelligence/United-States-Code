@@ -2,7 +2,7 @@
 
 #### (a) Development of system
 
-In developing the integrated entry and exit data system for the ports of entry, as required by the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall—
+In developing the integrated entry and exit data system for the ports of entry, as requiredby the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall—
 
 &emsp;(1) implement, fund, and use a technology standard under section 1379 of this title at United States ports of entry and at consular posts abroad;
 

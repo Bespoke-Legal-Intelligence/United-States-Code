@@ -10,7 +10,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(A) to producers of wheat, feed grains, cotton, and rice who agree to participate in the program announced for the commodity on an amount of the commodity equal to one-half of the farm program yield for the commodity multiplied by the farm program acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary;
 
-&emsp;&emsp;(B) to producers of peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of the farm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
+&emsp;&emsp;(B) to producers of peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of thefarm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
 
 &emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commodity multiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
 
@@ -36,7 +36,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 #### (b) Use of Commodity Credit Corporation, Agricultural Stabilization and Conservation Service, and county committees
 
-The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation,using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1), and determinations as to the sufficiency of security under subsection (a)(6). The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
+The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation, using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1), and determinations as to the sufficiency of security under subsection (a)(6). The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
 
 #### (c) Regulations
 

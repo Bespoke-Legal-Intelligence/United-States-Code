@@ -62,7 +62,7 @@ The provisions of subsection (a) shall be applicable to loss of distilled spirit
 
 &emsp;(5) the customs bonded warehouse in the case of withdrawal under sections 5066 and 5214(a)(9).
 
-> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn from bonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
+> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn frombonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
 
 #### (e) Other laws applicable
 
@@ -78,7 +78,7 @@ All provisions of law, including penalties, applicable in respect of the interna
 
 A prior section 5008, act Aug. 16, 1954, ch. 736, 68A Stat. 602, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5205(a), (g) and 5604(a)(1) of this title.
 
-Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b),act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b), act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -160,5 +160,5 @@ Pub. L. 89–44, title VIII, §805(g)(1), June 21, 1965, 79 Stat. 162, provided 
 
 #### Distilled Spirits Returned to Bonded Premises of Distilled Spirits Plant During 1980
 
-Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respectto distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
+Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
 

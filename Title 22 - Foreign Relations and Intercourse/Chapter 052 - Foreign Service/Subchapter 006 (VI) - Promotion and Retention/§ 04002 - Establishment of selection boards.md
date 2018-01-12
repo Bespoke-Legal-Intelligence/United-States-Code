@@ -22,7 +22,7 @@ All selection boards established under this section shall include public members
 
 No public members appointed pursuant to this section may be, at the time of their appointment or during their appointment, an agent of a foreign principal (as defined by section 611(b) of this title) or a lobbyist for a foreign entity (as defined in section 1602(6) of title 2) or receive income from a government of a foreign country.
 
-(Pub. L. 96–465, title I, §602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, §142, Feb. 16, 1990,104 Stat. 36; Pub. L. 104–65, §12(c), Dec. 19, 1995, 109 Stat. 701.)
+(Pub. L. 96–465, title I, §602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, §142, Feb. 16, 1990, 104 Stat. 36; Pub. L. 104–65, §12(c), Dec. 19, 1995, 109 Stat. 701.)
 
 #### Amendments
 

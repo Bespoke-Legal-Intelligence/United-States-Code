@@ -104,7 +104,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 | 17,000&nbsp;&nbsp; | 18,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; |
 | 18,000&nbsp;&nbsp; | 19,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; |
 | 19,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; |
-| 20,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 23,000   |
+| 20,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; |
 | 21,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; |
 | 22,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; |
 | 23,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; |

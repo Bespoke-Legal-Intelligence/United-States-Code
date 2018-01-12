@@ -4,13 +4,13 @@
 
 #### (1) Guidance
 
-&emsp;Within 12 months after August 6, 1996, after notice and comment, the Administrator shall publish guidance for States exercising primary enforcement responsibility for public water systems to carry out directly or through delegation (for the protection and benefit of public water systems and for the support of monitoring flexibility) a source water assessment program within the State's boundaries. Each State adopting modifications to monitoring requirements pursuant to section 300g–7(b) of this title shall, prior to adopting such modifications, have an approved source water assessment program under this section and shall carry out the program either directly or through delegation.
+&emsp;Within 12 months after August 6, 1996, after notice and comment, the Administrator shall publish guidance for States exercising primary enforcement responsibility for public water systems to carry out directly or through delegation (for the protection and benefit of publicwater systems and for the support of monitoring flexibility) a source water assessment program within the State's boundaries. Each State adopting modifications to monitoring requirements pursuant to section 300g–7(b) of this title shall, prior to adopting such modifications, have an approved source water assessment program under this section and shall carry out the program either directly or through delegation.
 
 #### (2) Program requirements
 
 &emsp;A source water assessment program under this subsection shall—
 
-&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one ormore public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliable information as the State deems necessary to adequately determine such areas; and
+&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one or more public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliable information as the State deems necessary to adequately determine such areas; and
 
 &emsp;&emsp;(B) identify for contaminants regulated under this subchapter for which monitoring is required under this subchapter (or any unregulated contaminants selected by the State, in its discretion, which the State, for the purposes of this subsection, has determined may present a threat to public health), to the extent practical, the origins within each delineated area of such contaminants to determine the susceptibility of the public water systems in the delineated area to such contaminants.
 

@@ -30,11 +30,15 @@ As used in this part:
 
 &emsp;&emsp;(C) regarding plant health, developed under the auspices of the Secretariat of the International Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
 
-&emsp;&emsp;(D) established by or developed under any other international organization agreed to by the NAFTA countries (as defined in section 3301(4) of this title) or by the WTOmembers (as defined in section 3501(10) of this title).
+&emsp;&emsp;(D) established by or developed under any other international organization agreed to by the NAFTA countries (as defined in section 3301(4) of this title) or by the WTO members (as defined in section 3501(10) of this title).
 
 #### (b) Other definitions
 
 The definitions set forth in section 2575b of this title apply for purposes of this part except that in applying paragraph (7) of section 2575b of this title with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
 
 (Pub. L. 96–39, title IV, §493, as added Pub. L. 103–465, title IV, §432, Dec. 8, 1994, 108 Stat. 4972.)
+
+#### Effective Date
+
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
 

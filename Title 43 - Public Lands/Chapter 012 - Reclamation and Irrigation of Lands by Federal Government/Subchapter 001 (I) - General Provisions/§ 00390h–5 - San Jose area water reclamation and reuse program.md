@@ -1,6 +1,6 @@
 ### §390h–5. San Jose area water reclamation and reuse program
 
-(a) The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Jose metropolitan service area.
+(a) The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanentfacilities to reclaim and reuse water in the San Jose metropolitan service area.
 
 (b) The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
@@ -24,7 +24,7 @@ Purposes of Assistance.—Assistance may be provided under this section—
 
 &emsp;"(3) for implementation of a comprehensive health effects study of the performance of the potable waste water reuse pilot plant; and
 
-&emsp;"(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existingnonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
+&emsp;"(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
 
 "(c)
 

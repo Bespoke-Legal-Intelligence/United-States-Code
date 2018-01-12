@@ -7,6 +7,7 @@
 | [1553\.](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md) | Review of discharge or dismissal. |
 | [1554\.](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md) | Review of retirement or separation without pay for physical disability. |
 | [1554a.](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md) | Review of separation with disability rating of 20 percent disabled or less. |
+| [1554b.](%C2%A7%2001554b%20-%20Confidential%20review%20of%20characterization%20of%20terms%20of%20discharge%20of%20members%20of%20the%20armed%20forces%20who%20are%20victims%20of%20sex-related%20offenses.md) | Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses. |
 | [1555\.](%C2%A7%2001555%20-%20Professional%20staff.md) | Professional staff. |
 | [1556\.](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md) | Ex parte communications prohibited. |
 | [1557\.](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md) | Timeliness standards for disposition of applications before Corrections Boards. |
@@ -16,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title V, §522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title XVI, §1643(a)(2), Jan. 28, 2008, 122 Stat. 467, added item 1554a.
 
@@ -39,6 +42,7 @@
 - [&sect; 01553 - Review of discharge or dismissal](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md)
 - [&sect; 01554 - Review of retirement or separation without pay for physical disability](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md)
 - [&sect; 01554a - Review of separation with disability rating of 20 percent disabled or less](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md)
+- [&sect; 01554b - Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses](%C2%A7%2001554b%20-%20Confidential%20review%20of%20characterization%20of%20terms%20of%20discharge%20of%20members%20of%20the%20armed%20forces%20who%20are%20victims%20of%20sex-related%20offenses.md)
 - [&sect; 01555 - Professional staff](%C2%A7%2001555%20-%20Professional%20staff.md)
 - [&sect; 01556 - Ex parte communications prohibited](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md)
 - [&sect; 01557 - Timeliness standards for disposition of applications before Corrections Boards](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md)

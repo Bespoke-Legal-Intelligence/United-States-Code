@@ -38,7 +38,7 @@
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of this title," after "application under section 360e of this title,".
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of thistitle," after "application under section 360e of this title,".
 
 Subsec. (a)(3). Pub. L. 114–255, §3058(c), added par. (3).
 

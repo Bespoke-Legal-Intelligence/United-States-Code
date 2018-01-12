@@ -1,0 +1,6 @@
+### §1241. Transferred
+
+#### Codification
+
+Section 1241 was editorially reclassified as section 2701 of this title.
+

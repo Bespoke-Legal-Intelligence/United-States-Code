@@ -32,17 +32,21 @@ The Foundation is authorized to—
 
 &emsp;(9) make grants to women eligible under paragraph (8) to assist such women in planning and developing a research project eligible for support under such paragraph;
 
-&emsp;(10) provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering; and
+&emsp;(10) provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering;
 
-&emsp;(11) support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering.
+&emsp;(11) support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering; and
 
-(Pub. L. 96–516, §33, Dec. 12, 1980, 94 Stat. 3011; Pub. L. 99–159, title I, §111(b)(6), Nov. 22, 1985, 99 Stat. 892.)
+&emsp;(12) encourage its entrepreneurial programs to recruit and support women to extend their focus beyond the laboratory and into the commercial world.
+
+(Pub. L. 96–516, §33, Dec. 12, 1980, 94 Stat. 3011; Pub. L. 99–159, title I, §111(b)(6), Nov. 22, 1985, 99 Stat. 892; Pub. L. 115–6, §3, Feb. 28, 2017, 131 Stat. 11.)
 
 #### Codification
 
 Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Par. (12). Pub. L. 115–6 added par. (12).
 
 <b>1985</b>—Par. (1). Pub. L. 99–159, §111(b)(6)(A), substituted "engineering" for "technology" and "technical" wherever appearing.
 
@@ -61,6 +65,22 @@ Par. (8). Pub. L. 99–159, §111(b)(6)(C), inserted applicability to engineers.
 Par. (10). Pub. L. 99–159, §111(b)(6)(D), inserted applicability to engineering.
 
 Par. (11). Pub. L. 99–159, §111(b)(6)(E), substituted "science and engineering" for "science, engineering, and technology".
+
+#### Findings
+
+Pub. L. 115–6, §2, Feb. 28, 2017, 131 Stat. 11, provided that: "The Congress finds that—
+
+&emsp;"(1) women make up almost 50 percent of the workforce, but less than 25 percent of the workforce in science, technology, engineering, and mathematics (STEM) professions;
+
+&emsp;"(2) women are less likely to focus on the STEM disciplines in undergraduate and graduate study;
+
+&emsp;"(3) only 26 percent of women who do attain degrees in STEM fields work in STEM jobs;
+
+&emsp;"(4) there is an increasing demand for individuals with STEM degrees to extend their focus beyond the laboratory so they can be leaders in discovery commercialization;
+
+&emsp;"(5) studies have shown that technology and commercialization ventures are successful when women are in top management positions; and
+
+&emsp;"(6) the National Science Foundation's mission includes supporting women in STEM disciplines."
 
 #### Commission on the Advancement of Women and Minorities in Science, Engineering, and Technology Development
 
@@ -144,7 +164,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;"(10) assess the extent to which the recommendations of the Task Force on Women, Minorities, and the Handicapped in Science and Technology established under section 8 of the National Science Foundation Authorization Act for Fiscal Year 1987 (Public Law 99–383; 42 U.S.C. 1885a note) have been implemented;
 
-&emsp;"(11) compile a list of all federally funded reports on the subjects of encouraging women, minorities,and individuals with disabilities to enter the fields of science and engineering and retaining women, minorities, and individuals with disabilities in the science and engineering workforce that have been issued since the date that the Task Force described in paragraph (10) submitted its report to Congress;
+&emsp;"(11) compile a list of all federally funded reports on the subjects of encouraging women, minorities, and individuals with disabilities to enter the fields of science and engineering and retaining women, minorities, and individuals with disabilities in the science and engineering workforce that have been issued since the date that the Task Force described in paragraph (10) submitted its report to Congress;
 
 &emsp;"(12) assess the extent to which the recommendations contained in the reports described in paragraph (11) have been implemented; and
 
@@ -298,7 +318,7 @@ Provision of Information.—At the request of the Commission, the National Scien
 
 "(b)
 
-Review of Information.—The Commission shall review any information provided under subsection (a) and shall include in the report required under section 8—
+Review of Information.—The Commission shall review any information provided under subsection (a)and shall include in the report required under section 8—
 
 &emsp;"(1) recommendations on how to correct any deficiencies in the collection of the types of information described in that subsection, and in the analysis of such data, which might impede the characterization of the factors which affect the attraction and retention of women, minorities, and individuals with disabilities in the fields of science, engineering, and technology development; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Convey.—The Secretary of a military department may convey to an eligible entity described in subsection (b) any surplus real property that—
+Authority to Convey.—The Secretary of a military department may convey to an eligibleentity described in subsection (b) any surplus real property that—
 
 &emsp;(1) is under the administrative control of the Secretary;
 
@@ -38,7 +38,7 @@ Release of Covenants.—With the concurrence of the Secretary of Interior, the S
 
 (e)
 
-Congressional Notification.—The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+Notice and Wait Requirements.—The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the proposed reconveyance or release.
 
 (f)
 
@@ -64,13 +64,15 @@ Definitions.—In this section:
 
 &emsp;(3) The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, §2803(a), Jan. 7, 2011, 124 Stat. 4458.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, §2803(a), Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, §2811(h), Dec. 12, 2017, 131 Stat. 1849.)
 
 #### References in Text
 
 Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2), is set out as a note under section 521 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e). Pub. L. 115–91 added subsec. (e) and struck out former subsec. (e). Prior to amendment, textread as follows: "The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title."
 
 <b>2011</b>—Subsec. (e). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 

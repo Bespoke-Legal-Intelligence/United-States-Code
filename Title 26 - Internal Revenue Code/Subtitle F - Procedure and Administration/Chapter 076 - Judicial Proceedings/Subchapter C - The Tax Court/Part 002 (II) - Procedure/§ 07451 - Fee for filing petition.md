@@ -1,6 +1,6 @@
 ### §7451. Fee for filing petition
 
-The tax court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
+The Tax Court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 93–406, title II, §1041(b)(1), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, §1306(b)(1), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 97–34, title VII, §751(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–248, title IV, §402(c)(12), Sept. 3, 1982, 96 Stat. 668; Pub. L. 109–280, title VIII, §859(a), Aug. 17, 2006, 120 Stat. 1020.)
 
@@ -22,7 +22,7 @@ Pub. L. 109–280, title VIII, §859(b), Aug. 17, 2006, 120 Stat. 1020, provided
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
 
 #### Effective Date of 1981 Amendment
 

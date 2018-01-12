@@ -16,3 +16,7 @@ Assistance shall not be provided by the Secretary under this chapter to any busi
 
 A prior section 3216, Pub. L. 89–136, title VII, §706, Aug. 26, 1965, 79 Stat. 573, defined terms as used in this chapter, prior to repeal by Pub. L. 105–393, §102(b)(3).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

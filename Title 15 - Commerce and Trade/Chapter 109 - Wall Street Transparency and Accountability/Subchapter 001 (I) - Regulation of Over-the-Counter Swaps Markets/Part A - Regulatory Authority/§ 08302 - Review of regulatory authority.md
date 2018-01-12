@@ -4,7 +4,7 @@
 
 #### (1) Commodity Futures Trading Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consultand coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (2) Securities and Exchange Commission
 
@@ -140,7 +140,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this title <sup>1</sup> and subsections (b) and (c), the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall further define the terms "swap", "security-based swap", "swap dealer", "security-based swap dealer", "major swap participant", "major security-based swap participant", "eligible contract participant", and "security-based swap agreement" in section 1a(47)(A)(v) of the Commodity Exchange Act (7 U.S.C. 1a(47)(A)(v)) and section 78c(a)(78) of this title.
+&emsp;Notwithstanding any other provision of this title <sup>1</sup> and subsections (b) and (c), the Commodity Futures Trading Commission and theSecurities and Exchange Commission, in consultation with the Board of Governors, shall further define the terms "swap", "security-based swap", "swap dealer", "security-based swap dealer", "major swap participant", "major security-based swap participant", "eligible contract participant", and "security-based swap agreement" in section 1a(47)(A)(v) of the Commodity Exchange Act (7 U.S.C. 1a(47)(A)(v)) and section 78c(a)(78) of this title.
 
 #### (2) Authority of the Commissions
 
@@ -158,7 +158,7 @@
 
 #### (D) Comparable rules
 
-&emsp;&emsp;Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity FuturesTrading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
+&emsp;&emsp;Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity Futures Trading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
 
 #### (E) Tracking uncleared transactions
 
@@ -204,7 +204,7 @@ Beginning on July 21, 2010, and notwithstanding the effective date of any provis
 
 #### References in Text
 
-This subtitle, referred to in subsec. (a)(1), (7)(B), is subtitle A (§§711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78o, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in subsec. (a)(1), (7)(B), is subtitle A (§§711–754) of title VII of Pub. L. 111–203, July21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78o, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
 
 Subtitle B, referred to in subsec. (a)(2), is subtitle B (§§761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted subchapter II of this chapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78o–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78o, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Persons in Air Transportation.—An air carrier or foreign air carrier may not subject a person in air transportation to discrimination on the basis of race, color, national origin, religion, sex, or ancestry.
+Persons in Air Transportation.—An air carrier or foreign air carrier may not subject aperson in air transportation to discrimination on the basis of race, color, national origin, religion, sex, or ancestry.
 
 (b)
 

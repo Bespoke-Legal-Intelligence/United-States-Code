@@ -38,3 +38,7 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
+#### Effective Date
+
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under section 2000ff of this title.
+

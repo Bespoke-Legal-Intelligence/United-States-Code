@@ -16,7 +16,7 @@ Revocations.—(1) The Administrator of the Federal Aviation Administration shal
 
 (c)
 
-Advice to Holders and Opportunity To Answer.—Before the Administrator revokes a certificate under subsection (b) of this section, the Administrator shall—
+Advice to Holders and Opportunity To Answer.—Before the Administrator revokes acertificate under subsection (b) of this section, the Administrator shall—
 
 &emsp;(1) advise the holder of the certificate of the charges or reasons on which the Administrator bases the proposed action; and
 

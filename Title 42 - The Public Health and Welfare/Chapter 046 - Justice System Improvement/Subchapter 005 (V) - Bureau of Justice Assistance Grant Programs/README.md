@@ -40,6 +40,8 @@ Section 3754, Pub. L. 90–351, title I, §504, June 19, 1968, 82 Stat. 205; Pub
 
 A prior section 505 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205, amended section 5315 of Title 5, Government Organization and Employees.
 
+A prior section 506 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205, amended section 5316 of Title 5, Government Organization and Employees.
+
 Section 3755, Pub. L. 90–351, title I, §507, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §§119(b), 121, Oct. 15, 1976, 90 Stat. 2417, 2418, related to officers, employees, and hearing examiners.
 
 Section 3756, Pub. L. 90–351, title I, §508, June 19, 1968, 82 Stat. 205; Pub. L. 91–644, title I, §7(3), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211, related to use of services, equipment, personnel, and facilities of other Federal agencies.
@@ -66,13 +68,17 @@ Section 3766, Pub. L. 90–351, title I, §518, June 19, 1968, 82 Stat. 208; Pub
 
 Section 3767, Pub. L. 90–351, title I, §519, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(7), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–273, §5(5), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–503, title I, §125, Oct. 15, 1976, 90 Stat. 2422; Pub. L. 95–115, §9(a), Oct. 3, 1977, 91 Stat. 1060, related to annual reports to President and Congress.
 
-Section 3768, Pub. L. 90–351, title I, §520, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, §1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, §7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L.93–415, title V, §544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, §3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, §126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations.
+Section 3768, Pub. L. 90–351, title I, §520, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, §1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, §7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 93–415, title V, §544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, §3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, §126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations.
 
 Section 3769, Pub. L. 90–351, title I, §521, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements.
+
+A prior section 522 of title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 208, amended section 3334 of this title.
 
 Section 3770, Pub. L. 90–351, title I, §523, as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215, provided for use of unobligated Federal funds for 90 percent of costs.
 
 Section 3771 of this title, Pub. L. 90–351, title I, §524, as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215, related to availability of information for prescribed purposes.
+
+A prior section 525 of title I of Pub. L. 90–351 amended section 484 of former Title 40, Public Buildings, Property, and Works.
 
 Section 3772 of this title, Pub. L. 90–351, title I, §526, as added Pub. L. 93–415, title V, §545, Sept. 7, 1974, 88 Stat. 1143, related to acceptance of volunteer services.
 

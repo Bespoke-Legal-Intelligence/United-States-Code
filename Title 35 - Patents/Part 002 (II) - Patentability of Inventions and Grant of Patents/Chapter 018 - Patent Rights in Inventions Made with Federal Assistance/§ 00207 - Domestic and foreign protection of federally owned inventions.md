@@ -34,6 +34,10 @@ Subsec. (a)(3). Pub. L. 106–404, §6(2)(B), inserted ", including acquiring r
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
+#### Effective Date
+
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+
 #### Ex. Ord. No. 9424. Establishment of a Register of Government Interests in Patents
 
 Ex. Ord. No. 9424, Feb. 18, 1944, 9 F.R. 1959, provided:
@@ -52,7 +56,7 @@ Ex. Ord. No. 9865, June 14, 1947, 12 F.R. 3907, as amended by Ex. Ord. No. 10096
 
 1\. All Government departments and agencies shall, whenever practicable, acquire the right to file foreign patent applications on inventions resulting from research conducted or financed by the Government.
 
-2\. All Government departments and agencies which have or may hereafter acquire title to inventions or the right to file patent applications abroad thereon, shall fully and continuously inform the Chairman of Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] concerning such inventions, except as provided in section 6 hereof, and shall make recommendations to the Chairman of Government Patents Board as to which of such inventions should receive patent protection by the United States abroad and the foreign jurisdictions in which such patent protection should be sought. The recommendations of such departments and agencies shall indicate the immediate or future industrial, commercial or other value of the invention concerned, including its value to public health.
+2\. All Government departments and agencies which have or may hereafter acquire title to inventions or theright to file patent applications abroad thereon, shall fully and continuously inform the Chairman of Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] concerning such inventions, except as provided in section 6 hereof, and shall make recommendations to the Chairman of Government Patents Board as to which of such inventions should receive patent protection by the United States abroad and the foreign jurisdictions in which such patent protection should be sought. The recommendations of such departments and agencies shall indicate the immediate or future industrial, commercial or other value of the invention concerned, including its value to public health.
 
 3\. The Chairman of Government Patents Board shall determine whether, and in what foreign jurisdictions, the United States should seek patents for such inventions, and, to the extent of appropriations available therefor, shall procure patent protection for such inventions, taking all action, consistent with existing law, necessary to acquire and maintain patent rights abroad. Such determinations of the said Department shall be made after full consultation with United States industry and commerce, with the Department of State, and with other Government agencies familiar with the technical, scientific, industrial, commercial or other economic or social factors affecting the invention involved, and after consideration of the availability of valid patent protection in the countries determined to be immediate or potential markets for, or producers of, products, processes, or services covered by or relating to the invention.
 
@@ -82,7 +86,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 (e) Actions taken, and rights acquired, under the foregoing provisions of this section, shall be reported to the Chairman in accordance with procedures established by him.
 
-2\. Subject to considerations of national security, or public health, safety, or welfare, the following basic policy is established for the collection, and dissemination to the public, of information concerning inventions resulting from Government research and development activities:
+2\. Subject to considerations of national security, or public health, safety, or welfare, the following basicpolicy is established for the collection, and dissemination to the public, of information concerning inventions resulting from Government research and development activities:
 
 (a) When an invention is made under circumstances defined in paragraph 1(a) of this order giving the United States the right to title thereto, the Government agency concerned shall either prepare and file an application for patent therefor in the United States Patent Office \[now Patent and Trademark Office\] or make a full disclosure of the invention promptly to the Chairman, who may, if he determines the Government interest so requires, cause application for patent to be filed or cause the invention to be fully disclosed by publication thereof: <i>Provided, however</i>, That, consistent with present practice of the Department of Agriculture, no application for patent shall, without the approval of the Secretary of Agriculture, be filed in respect of any variety of plant invented by any employee of that Department.
 

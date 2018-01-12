@@ -42,7 +42,7 @@ Subsec. (c). Act Aug. 13, 1954, added subsec. (c).
 
 #### Change of Name
 
-Words "magistrate judges" and "magistrate judge" substituted for "magistrates" and "magistrate", respectively, in section catchline and, except for historical references, wherever appearing in subsecs. (a)(2), (3),and (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, "United States magistrates" substituted for "United States commissioners" in subsec. (a)(2) pursuant to Pub. L. 90–578.
+Words "magistrate judges" and "magistrate judge" substituted for "magistrates" and "magistrate", respectively, in section catchline and, except for historical references, wherever appearing in subsecs. (a)(2), (3), and (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, "United States magistrates" substituted for "United States commissioners" in subsec. (a)(2) pursuant to Pub. L. 90–578.
 
 #### Effective Date of 1986 Amendment
 

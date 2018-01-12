@@ -1,6 +1,6 @@
 ### §2756. Foreign intimidation and harassment of individuals in United States
 
-No letters of offer may be issued, no credits or guarantees may be extended, and no export licenses may be issued under this chapter with respect to any country determined by the President to be engaged in a consistent pattern of acts of intimidation or harassment directed against individuals in the United States. The President shall report any such determination promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to thechairman of the Committee on Foreign Relations of the Senate.
+No letters of offer may be issued, no credits or guarantees may be extended, and no export licenses may be issued under this chapter with respect to any country determined by the President to be engaged in a consistent pattern of acts of intimidation or harassment directed against individuals in the United States. The President shall report any such determination promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 90–629, ch. 1, §6, as added Pub. L. 97–113, title I, §115, Dec. 29, 1981, 95 Stat. 1528; amended Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 

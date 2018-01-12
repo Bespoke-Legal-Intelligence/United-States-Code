@@ -22,7 +22,7 @@ Rights of Crime Victims.—A crime victim has the following rights:
 
 &emsp;(9) The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
 
-&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) and provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice.
+&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) <sup>1</sup> and provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice.
 
 (b)
 
@@ -134,7 +134,7 @@ In general.—The term "crime victim" means a person directly and proximately ha
 
 &emsp;&emsp;(B)
 
-Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
+Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crimevictim's estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
 
 &emsp;(3)
 
@@ -163,6 +163,8 @@ Contents.—The regulations promulgated under paragraph (1) shall—
 (Added Pub. L. 108–405, title I, §102(a), Oct. 30, 2004, 118 Stat. 2261; amended Pub. L. 109–248, title II, §212, July 27, 2006, 120 Stat. 616; Pub. L. 111–16, §3(12), May 7, 2009, 123 Stat. 1608; Pub. L. 114–22, title I, §113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241.)
 
 #### References in Text
+
+Section 503(c) of the Victims' Rights and Restitution Act of 1990, referred to in subsec. (a)(10), is section 503(c) of title V of Pub. L. 101–647, which was classified to section 10607(c) of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20141(c) of Title 34, Crime Control and Law Enforcement.
 
 The Federal Rules of Appellate Procedure, referred to in subsec. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -201,4 +203,6 @@ Pub. L. 108–405, title I, §101, Oct. 30, 2004, 118 Stat. 2261, provided that:
 #### Reports on Assertion of Crime Victims' Rights in Criminal Cases
 
 Pub. L. 108–405, title I, §104(a), Oct. 30, 2004, 118 Stat. 2265, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 30, 2004\] and annually thereafter, the Administrative Office of the United States Courts, for each Federal court, shall report to Congress the number of times that a right established in chapter 237 of title 18, United States Code, is asserted in a criminal case and the relief requested is denied and, with respect to each such denial, the reason for such denial, as well as the number of times a mandamus action is brought pursuant to chapter 237 of title 18, and the result reached."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

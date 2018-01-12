@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability offood in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -100,7 +100,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(i) support for the activities of the Government of Afghanistan to implement its constitution, to develop modern legal codes and court rules, to provide for the creation of legal assistance programs, and other initiatives to promote the rule of law in Afghanistan;
 
-&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration ofjustice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
+&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration of justice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(vii) support for international organizations that provide civil advisers to the Government of Afghanistan; and
 
-&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
+&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate humanrights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
 
 #### (C) Civil society and democracy
 

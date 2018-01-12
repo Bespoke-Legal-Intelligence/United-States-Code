@@ -52,7 +52,16 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [6050X.](%C2%A7%2006050X%20-%20Information%20with%20respect%20to%20certain%20fines%2C%20penalties%2C%20and%20other%20amounts.md) | Information with respect to certain fines, penalties, and other amounts. |
+| [6050Y.](%C2%A7%2006050Y%20-%20Returns%20relating%20to%20certain%20life%20insurance%20contract%20transactions.md) | Returns relating to certain life insurance contract transactions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§13306(b)(2), 13520(b), Dec. 22, 2017, 131 Stat. 2129, 2150, added items 6050X and 6050Y.
 
 <b>2008</b>—Pub. L. 110–343, div. B, title IV, §403(c)(3), (d)(3), Oct. 3, 2008, 122 Stat. 3858, 3860, added items 6045A and 6045B.
 
@@ -62,7 +71,7 @@ Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, 
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting "Returns relating to certain donated property" for "Returns relating to certain dispositions of donated property" in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
+<b>2004</b>—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of theanalysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting "Returns relating to certain donated property" for "Returns relating to certain dispositions of donated property" in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, title VIII, §805(c), Oct. 22, 2004, 118 Stat. 1574, added item 6043A.
 
@@ -164,3 +173,5 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06050U - Charges or payments for qualified long-term care insurance contracts under combined arrangements](%C2%A7%2006050U%20-%20Charges%20or%20payments%20for%20qualified%20long-term%20care%20insurance%20contracts%20under%20combined%20arrangements.md)
 - [&sect; 06050V - Returns relating to applicable insurance contracts in which certain exempt organizations hold interests](%C2%A7%2006050V%20-%20Returns%20relating%20to%20applicable%20insurance%20contracts%20in%20which%20certain%20exempt%20organizations%20hold%20interests.md)
 - [&sect; 06050W - Returns relating to payments made in settlement of payment card and third party network transactions](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md)
+- [&sect; 06050X - Information with respect to certain fines, penalties, and other amounts](%C2%A7%2006050X%20-%20Information%20with%20respect%20to%20certain%20fines%2C%20penalties%2C%20and%20other%20amounts.md)
+- [&sect; 06050Y - Returns relating to certain life insurance contract transactions](%C2%A7%2006050Y%20-%20Returns%20relating%20to%20certain%20life%20insurance%20contract%20transactions.md)

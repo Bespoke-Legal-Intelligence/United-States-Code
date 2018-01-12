@@ -28,7 +28,7 @@ For purposes of this subtitle,<sup>1</sup> the term "covered federally assisted 
 
 #### (e) Services for low-income elderly or disabled families residing in vicinity of certain projects
 
-To the extent only that this section applies to service coordinators for covered federally assisted housing described in subparagraphs (B), (C), (D), (E), (F), and (G) of section 13641(2) ofthis title, any reference in this section to elderly or disabled residents of a project shall be construed to include low-income elderly or disabled families living in the vicinity of such project.
+To the extent only that this section applies to service coordinators for covered federally assisted housing described in subparagraphs (B), (C), (D), (E), (F), and (G) of section 13641(2) of this title, any reference in this section to elderly or disabled residents of a project shall be construed to include low-income elderly or disabled families living in the vicinity of such project.
 
 #### (f) Protection against telemarketing fraud
 

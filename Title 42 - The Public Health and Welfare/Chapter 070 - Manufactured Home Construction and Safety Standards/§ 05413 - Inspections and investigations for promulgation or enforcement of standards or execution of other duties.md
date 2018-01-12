@@ -10,7 +10,7 @@ The Secretary is authorized to conduct such inspections and investigations as ma
 
 &emsp;(A) to enter, at reasonable times and without advance notice, any factory, warehouse, or establishment in which manufactured homes are manufactured, stored, or held, for sale; and
 
-&emsp;(B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c) of this section. Each such inspection shall be commenced and completed with reasonable promptness.
+&emsp;(B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c). Each such inspection shall be commenced and completed with reasonable promptness.
 
 (2) The Secretary is authorized to contract with State and local governments and private inspection organizations to carry out his functions under this subsection.
 
@@ -38,7 +38,7 @@ Each manufacturer of manufactured homes shall submit the building plans for ever
 
 #### (f) Records, reports and information from manufacturers, distributors and retailers of manufactured homes; inspection and examination of relevant books, papers, records and documents by designated person
 
-Each manufacturer, distributor, and retailer of manufactured homes shall establish andmaintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
+Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 
@@ -50,7 +50,7 @@ Each manufacturer of manufactured homes shall provide to the Secretary such perf
 
 #### (h) Disclosure of confidential information and trade secrets
 
-All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
 (Pub. L. 93–383, title VI, §614, Aug. 22, 1974, 88 Stat. 707; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(2), Dec. 27, 2000, 114 Stat. 2999.)
 
@@ -67,4 +67,8 @@ References to "mobile homes", wherever appearing in text, changed to "manufactur
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

@@ -358,7 +358,7 @@ Each of the following programs shall be exempt from any order under this subchap
 
 #### (k) Identification of programs
 
-For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
+For purposes of subsections (b), (g), and (h), each account is identified by the designatedbudget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
 (Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, §121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3007.)
 
@@ -500,7 +500,7 @@ Subsec. (h). Pub. L. 105–33, §10207(f), struck out heading and text of subsec
 
 "(1) The President may, with respect to any military personnel account, exempt that account from sequestration or provide for a lower uniform percentage reduction than would otherwise apply.
 
-"(2) The President may not use the authority provided by paragraph (1) unless he notifies the Congress of the manner in which such authority will be exercised on or before the initial snapshot date for the budget year."
+"(2) The President may not use the authority provided by paragraph (1) unless he notifies the Congressof the manner in which such authority will be exercised on or before the initial snapshot date for the budget year."
 
 Pub. L. 105–33, §10207(d)(4), inserted item relating to family support payments to States.
 
@@ -552,7 +552,7 @@ Subsec. (g)(1). Pub. L. 100–119, §104(a)(2), (b)(2), (3), designated existing
 
 Pub. L. 100–86 inserted items relating to Comptroller of the Currency; Federal Deposit Insurance Corporation; Federal Home Loan Bank Board; Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation; National Credit Union Administration; National Credit Union Administration, central liquidity facility; and National Credit Union Administration, credit union share insurance fund.
 
-Subsec. (g)(2). Pub. L. 100–119, §104(c)(1), struck out following items relating to Veterans Administration:national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
+Subsec. (g)(2). Pub. L. 100–119, §104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
 
 Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity supplemental food program.
 

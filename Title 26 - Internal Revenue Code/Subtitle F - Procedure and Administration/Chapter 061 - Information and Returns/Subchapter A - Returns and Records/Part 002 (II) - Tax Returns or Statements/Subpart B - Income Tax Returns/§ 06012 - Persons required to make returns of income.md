@@ -88,13 +88,31 @@ Every person required to file a return under this section for the taxable year s
 
 &emsp;&emsp;<b>For provisions relating to consolidated returns by affiliated corporations, see chapter 6.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403.)
+#### (f) Special rule for taxable years 2018 through 2025
+
+In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026, subsection (a)(1) shall not apply, and every individual who has gross income for the taxable year shall be required to make returns with respect to income taxes under subtitle A, except that a return shall not be required of—
+
+&emsp;(1) an individual who is not married (determined by applying section 7703) and who has gross income for the taxable year which does not exceed the standard deduction applicable to such individual for such taxable year under section 63, or
+
+&emsp;(2) an individual entitled to make a joint return if—
+
+&emsp;&emsp;(A) the gross income of such individual, when combined with the gross income of such individual's spouse, for the taxable year does not exceed the standard deduction which would be applicable to the taxpayer for such taxable year under section 63 if such individual and such individual's spouse made a joint return,
+
+&emsp;&emsp;(B) such individual and such individual's spouse have the same household as their home at the close of the taxable year,
+
+&emsp;&emsp;(C) such individual's spouse does not make a separate return, and
+
+&emsp;&emsp;(D) neither such individual nor such individual's spouse is an individual described in section 63(c)(5) who has income (other than earned income) in excess of the amount in effect under section 63(c)(5)(A).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 115–97, title I, §11041(e), Dec. 22, 2017, 131 Stat. 2085.)
 
 #### References in Text
 
 Section 63(c)(2)(D), referred to in subsec. (a)(8), was repealed by Pub. L. 107–16, title III, §301(a)(4), June 7, 2001, 115 Stat. 53. Subsequently, section 63(c)(2)(C) was redesignated as section 63(c)(2)(D) by Pub. L. 107–147, title IV, §411(e)(1)(C), Mar. 9, 2002, 116 Stat. 46.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f). Pub. L. 115–97 added subsec. (f).
 
 <b>2010</b>—Subsec. (a)(8), (9). Pub. L. 111–226 redesignated par. (9) as (8) and struck out former par. (8) which read as follows: "Every individual who receives payments during the calendar year in which the taxable year begins under section 3507 (relating to advance payment of earned income credit)."
 
@@ -156,7 +174,7 @@ Subsec. (b)(3). Pub. L. 96–589, §6(i)(5), substituted "trustee in a case unde
 
 Subsec. (b)(4). Pub. L. 96–589, §3(b)(2), inserted reference to estate of an individual under chapter 7 or 11 of title 11 of the United States Code.
 
-<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and"$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and "$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
 
 Subsec. (a)(8). Pub. L. 95–600, §105(d), added par. (8).
 
@@ -180,7 +198,7 @@ Subsec. (b)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1975</b>—Subsec. (a)(1)(A). Pub. L. 94–164 substituted "$2,450" for "$2,350" in cl. (i), "$2,850" for "$2,650" in cl. (ii), and "$3,600" for "$3,400" in cl. (iii).
 
-Pub. L. 94–12 substituted "(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than $2,350" for "determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or" in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignated substituted "$3,400" for "$2,800", and in provisions following cl. (iii) substituted "Clause (iii)" for "Clause (ii)".
+Pub. L. 94–12 substituted "(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross incomeof less than $2,350" for "determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or" in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignated substituted "$3,400" for "$2,800", and in provisions following cl. (iii) substituted "Clause (iii)" for "Clause (ii)".
 
 Subsec. (a)(1)(B). Pub. L. 94–12 substituted "The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by $750" for "The $2,050 amount specified in subparagraph (A)(i) shall be increased to $2,800" and "the amount specified in clause (iii) of subparagraph (A) shall be increased by $750" for "the $2,800 amount specified in subparagraph (A)(ii) shall be increased by $750".
 
@@ -195,6 +213,10 @@ Subsec. (a)(6). Pub. L. 93–625 added par. (6) and struck out provision that Se
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 inserted provisions relating to sale of residence.
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under section 151 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -236,7 +258,7 @@ Amendment by section 111(b)(3) of Pub. L. 97–34 applicable with respect to tax
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedingsunder title 11 commenced before Oct. 1, 1979, and amendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under title 11 commenced before Oct. 1, 1979, and amendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -258,7 +280,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, see section 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
+Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, seesection 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
 
 #### Effective and Termination Dates of 1975 Amendments
 

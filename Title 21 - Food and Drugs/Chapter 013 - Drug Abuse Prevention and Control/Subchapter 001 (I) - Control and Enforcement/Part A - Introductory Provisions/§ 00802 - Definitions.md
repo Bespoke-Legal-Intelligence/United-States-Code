@@ -20,7 +20,7 @@ As used in this subchapter:
 
 (6) The term "controlled substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.
 
-(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
+(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bearsthe trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
 (8) The terms "deliver" or "delivery" mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
@@ -96,7 +96,7 @@ As used in this subchapter:
 
 (28) The term "United States", when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States.
 
-(29) The term "maintenance treatment" means the dispensing, for a period in excess oftwenty-one days, of a narcotic drug in the treatment of an individual for dependence upon heroin or other morphine-like drugs.
+(29) The term "maintenance treatment" means the dispensing, for a period in excess of twenty-one days, of a narcotic drug in the treatment of an individual for dependence upon heroin or other morphine-like drugs.
 
 (30) The term "detoxification treatment" means the dispensing, for a period not in excess of one hundred and eighty days, of a narcotic drug in decreasing doses to an individual in order to alleviate adverse physiological or psychological effects incident to withdrawal from the continuous or sustained use of a narcotic drug and as a method of bringing the individual to a narcotic drug-free state within such period.
 
@@ -202,7 +202,7 @@ As used in this subchapter:
 
 (37) The term "regular importer" means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
-(38) The term "regulated person" means a person who manufactures, distributes, imports, or exports a listed chemical, a tableting machine, or an encapsulating machine or who acts as abroker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine.
+(38) The term "regulated person" means a person who manufactures, distributes, imports, or exports a listed chemical, a tableting machine, or an encapsulating machine or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine.
 
 (39) The term "regulated transaction" means—
 
@@ -470,7 +470,7 @@ As used in this subchapter:
 
 (48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
-(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activitiesas a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
 (B) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
 
@@ -494,7 +494,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
 
-&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the UnitedStates (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
+&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
 
 &emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\];
 
@@ -602,7 +602,7 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II,§507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722.)
 
 #### References in Text
 
@@ -666,7 +666,7 @@ Par. (35)(G). Pub. L. 104–237, §209(2), amended subpar. (G) generally, insert
 
 Par. (35)(I), (J). Pub. L. 104–237, §204(a), added subpars. (I) and (J).
 
-Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted ", pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);" for "as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;".
+Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted ", pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulatedtransaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);" for "as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;".
 
 Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted ", pseudoephedrine, phenylpropanolamine," after "ephedrine" and inserted before semicolon ", except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction".
 
@@ -844,7 +844,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
+Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act orthe amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
 
 Pub. L. 98–509, title III, §301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: "The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a)."
 

@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use their respective resources to adequately staff and operate any such facility.
+A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use theirrespective resources to adequately staff and operate any such facility.
 
 #### (b) Referrals
 
-(1) In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
+(1) In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 \[34 U.S.C. 11101 et seq.\], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
 
 (2) In any case where there is a space available in an appropriately licensed and supervised emergency shelter or half-way house, the Bureau of Indian Affairs and tribal courts are encouraged to refer Indian youth convicted of offenses directly or indirectly related to alcohol and substance abuse to such facilities in lieu of sentencing to incarceration in a secured juvenile facility.
 
@@ -42,11 +42,11 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII,§703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -56,7 +56,7 @@ This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100
 
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–211, §241(c)(1), substituted "each of fiscal years 2011 through 2015." for "fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
 
-Subsec. (e)(2). Pub. L. 111–211, §241(c)(2), substituted "each of fiscal years 2011 through 2015." for "each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
+Subsec. (e)(2). Pub. L. 111–211, §241(c)(2), substituted "each of fiscal years 2011 through 2015." for "each ofthe fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
 
 Subsec. (e)(4), (5). Pub. L. 111–211, §241(c)(3), realigned margins.
 

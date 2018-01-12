@@ -6,7 +6,7 @@ For purposes of part V of subchapter B of chapter 1 and those provisions of this
 
 &emsp;(1) the determination of whether an individual is married shall be made as of the close of his taxable year; except that if his spouse dies during his taxable year such determination shall be made as of the time of such death; and
 
-&emsp;(2) an individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.
+&emsp;(2) an individual legally separated from his spouse under a decree of divorce or of separatemaintenance shall not be considered as married.
 
 #### (b) Certain married individuals living apart
 

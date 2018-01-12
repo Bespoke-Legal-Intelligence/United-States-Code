@@ -2,7 +2,7 @@
 
 (a)
 
-Ministry of Defense Advisor Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
+Ministry of Defense Advisor Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
 &emsp;(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or
 
@@ -14,7 +14,7 @@ Training of Personnel of Foreign Ministries With Security Missions.—
 
 &emsp;(1)
 
-In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
+In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
 
 &emsp;&emsp;(A) for the purpose of—
 
@@ -34,23 +34,23 @@ Notice to congress.—Each fiscal year quarter, the Secretary of Defense shall s
 
 &emsp;&emsp;(A) A list of activities under the program.
 
-&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary assigned employees under the program, including the number of such employees so assigned, the duration of each assignment, a brief description of each assigned employee's activities, and a statement of the cost of each assignment.
+&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary assigned advisors or trainers under the program, including the number of such advisors or trainers so assigned, the duration of each assignment, a brief description of the activities of each assigned advisor or trainer, and a statement of the cost of each assignment.
 
 &emsp;&emsp;(C) A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
 
 (c)
 
-Congressional Notice.—Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
+Congressional Notice.—Not later than 15 days before assigning a civilian employee of the Department of Defense or a member of the armed forces as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
 
-&emsp;(1) A statement of the intent of the Secretary to assign the employee as an advisor to the regional organization.
+&emsp;(1) A statement of the intent of the Secretary to assign the advisor or trainer to the regional organization.
 
 &emsp;(2) The name of the regional organization and the location and duration of the assignment.
 
-&emsp;(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the employee can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
+&emsp;(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the advisor or trainer can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
 
 &emsp;(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, §1204(a), Dec. 12, 2017, 131 Stat. 1642.)
 
 #### Codification
 
@@ -61,6 +61,18 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 A prior section 332 was renumbered section 252 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 115–91, §1204(a)(1), inserted "and members of the armed forces" after "civilian employees of the Department of Defense" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–91, §1204(a)(2)(A), inserted "to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers" after "carry out a program" in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 115–91, §1204(a)(2)(B), substituted "advisors or trainers" for "employees" in two places and "the activities of each assigned advisor or trainer" for "each assigned employee's activities".
+
+Subsec. (c). Pub. L. 115–91, §1204(a)(3)(A), inserted "or a member of the armed forces" after "a civilian employee of the Department of Defense" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 115–91, §1204(a)(3)(B), substituted "advisor or trainer" for "employee as an advisor".
+
+Subsec. (c)(3). Pub. L. 115–91, §1204(a)(3)(C), substituted "advisor or trainer" for "employee".
 
 <b>2016</b>—Subsecs. (c), (d). Pub. L. 114–328, §1241(c)(2), redesignated subsec. (d) as (c).
 

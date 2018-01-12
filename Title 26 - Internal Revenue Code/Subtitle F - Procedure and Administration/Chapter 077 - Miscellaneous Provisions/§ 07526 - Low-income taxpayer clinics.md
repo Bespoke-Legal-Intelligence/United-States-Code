@@ -38,13 +38,13 @@ For purposes of this section—
 
 #### (3) Qualified representative
 
-&emsp;The term "qualified representative" means any individual (whether or not an attorney) who is authorized to practice before the Internal Revenue Service or the applicable court.
+&emsp;The term "qualified representative" means any individual (whether or not an attorney)who is authorized to practice before the Internal Revenue Service or the applicable court.
 
 #### (c) Special rules and limitations
 
 #### (1) Aggregate limitation
 
-&emsp;Unless otherwise provided by specific appropriation, the Secretary shall not allocate morethan $6,000,000 per year (exclusive of costs of administering the program) to grants under this section.
+&emsp;Unless otherwise provided by specific appropriation, the Secretary shall not allocate more than $6,000,000 per year (exclusive of costs of administering the program) to grants under this section.
 
 #### (2) Limitation on annual grants to a clinic
 

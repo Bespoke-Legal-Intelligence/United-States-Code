@@ -12,7 +12,7 @@ When used in this chapter—
 
 &emsp;(3) A city, county, or other local government health authority, or, in the case of any city, county, or other local government in which there is an agency other than the health authority charged with responsibility for enforcing ordinances or laws relating to the prevention and control of air pollution, such other agency.
 
-&emsp;(4) An agency of two or more municipalities located in the same State or in different States and having substantial powers or duties pertaining to the prevention and control of air pollution.
+&emsp;(4) An agency of two or more municipalities located in the same State or in different States and having substantial powers or dutiespertaining to the prevention and control of air pollution.
 
 &emsp;(5) An agency of an Indian tribe.
 
@@ -72,7 +72,7 @@ Small Source.—The term "small source" means a source that emits less than 100 
 
 (y)
 
-Federal Implementation Plan.—The term "Federal implementation plan" means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap or otherwise correct all or a portion of an inadequacy in a State implementation plan, and which includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
+Federal Implementation Plan.—The term "Federal implementation plan" means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap orotherwise correct all or a portion of an inadequacy in a State implementation plan, and which includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
 
 (z)
 

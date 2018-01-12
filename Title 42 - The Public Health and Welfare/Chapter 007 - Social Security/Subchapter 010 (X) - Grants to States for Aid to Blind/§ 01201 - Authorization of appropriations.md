@@ -10,7 +10,7 @@ For the purpose of enabling each State to furnish financial assistance, as far a
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 struck out "and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to helpsuch individuals attain or retain capability for self-support and self-care" after "who are blind".
+<b>1981</b>—Pub. L. 97–35 struck out "and of encouraging each State, as far as practicable under such conditions, to furnish rehabilitation and other services to help such individuals attain or retain capability for self-support and self-care" after "who are blind".
 
 <b>1962</b>—Pub. L. 87–543 inserted "to furnish rehabilitation and other services" before "to help such individuals" and "or retain capability for" after "attain".
 

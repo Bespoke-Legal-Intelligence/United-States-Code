@@ -1,6 +1,6 @@
 ### §1555. Federal Power Act inapplicable to Colorado River between Hoover Dam and Glen Canyon Dam
 
-Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not be applicable to the reaches of the main stream of the Colorado River betweenHoover Dam and Glen Canyon Dam until and unless otherwise provided by Congress.
+Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not be applicable to the reaches of the main stream of the Colorado River between Hoover Dam and Glen Canyon Dam until and unless otherwise provided by Congress.
 
 (Pub. L. 90–537, title VI, §605, Sept. 30, 1968, 82 Stat. 901.)
 

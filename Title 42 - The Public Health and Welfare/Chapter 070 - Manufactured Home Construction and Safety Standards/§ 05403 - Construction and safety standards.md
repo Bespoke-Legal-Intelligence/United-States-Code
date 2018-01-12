@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(iii) be performance-based and objectively stated, unless clearly inappropriate; and
 
-&emsp;&emsp;(B) except as provided in subsection (b) of this section, shall be established in accordance with the consensus standards development process.
+&emsp;&emsp;(B) except as provided in subsection (b), shall be established in accordance with the consensus standards development process.
 
 #### (2) Consensus standards and regulatory development process
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) provide periodic recommendations to the Secretary to adopt, revise, and interpret the Federal manufactured housing construction and safety standards in accordance with this subsection;
 
-&emsp;&emsp;&emsp;(ii) provide periodic recommendations to the Secretary to adopt, revise, and interpret the procedural and enforcement regulations, including regulations specifying the permissible scope and conduct of monitoring in accordance with subsection (b) of this section;
+&emsp;&emsp;&emsp;(ii) provide periodic recommendations to the Secretary to adopt, revise, and interpret the procedural and enforcement regulations, including regulations specifying the permissible scope and conduct of monitoring in accordance with subsection (b);
 
 &emsp;&emsp;&emsp;(iii) be organized and carry out its business in a manner that guarantees a fair opportunity for the expression and consideration of various positions and for public participation; and
 
@@ -216,7 +216,7 @@
 
 #### (D) Final order
 
-&emsp;&emsp;Any final standard under this paragraph shall become effective pursuant to subsection (c) of this section.
+&emsp;&emsp;Any final standard under this paragraph shall become effective pursuant to subsection (c).
 
 #### (6) Failure to act
 
@@ -268,7 +268,7 @@
 
 #### (5) Authority to act and emergency
 
-&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
+&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) or in this subsection, if the Secretary—
 
 &emsp;&emsp;(A) provides to the consensus committee a written description and sets forth the reasons why action is necessary and all supporting documentation; and
 
@@ -276,11 +276,11 @@
 
 #### (6) Changes
 
-&emsp;Any statement of policies, practices, or procedures relating to construction and safety standards, regulations, inspections, monitoring, or other enforcement activities that constitutes a statement of general or particular applicability to implement, interpret, or prescribe law or policy by the Secretary is subject to subsection (a) of this section or this subsection. Any change adopted in violation of subsection (a) of this section or this subsection is void.
+&emsp;Any statement of policies, practices, or procedures relating to construction and safety standards, regulations, inspections, monitoring, or other enforcement activities that constitutes a statement of general or particular applicability to implement, interpret, or prescribe law or policy by the Secretary is subject to subsection (a) or this subsection. Any change adopted in violation of subsection (a) or this subsection is void.
 
 #### (7) Transition
 
-&emsp;Until the date on which the consensus committee is appointed pursuant to subsection (a)(3) of this section, the Secretary may issue proposed orders, pursuant to notice and comment in accordance with section 553 of title 5 that are not developed under the procedures set forth in this section for new and revised standards.
+&emsp;Until the date on which the consensus committee is appointed pursuant to subsection (a)(3), the Secretary may issue proposed orders, pursuant to notice and comment in accordance with section 553 of title 5 that are not developed under the procedures set forth in this section for new and revised standards.
 
 #### (c) Effective date of orders establishing standards
 
@@ -326,7 +326,7 @@ The Secretary shall exclude from the coverage of this chapter any structure whic
 
 #### (h) New performance standards for hardboard siding
 
-The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer's costs for maintenance and any other relevant information pursuant to subsection (e) of this section. The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
+The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer's costs for maintenance and any other relevant information pursuant to subsection (e). The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
 
 (Pub. L. 93–383, title VI, §604, Aug. 22, 1974, 88 Stat. 701; Pub. L. 95–128, title IX, §902(a), Oct. 12, 1977, 91 Stat. 1149; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 98–479, title II, §204(l), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title V, §568, Feb. 5, 1988, 101 Stat. 1948; Pub. L. 102–550, title IX, §907, Oct. 28, 1992, 106 Stat. 3873; Pub. L. 106–569, title VI, §604, Dec. 27, 2000, 114 Stat. 2999.)
 
@@ -346,7 +346,7 @@ Subsec. (b). Pub. L. 106–569, §604(1), added subsec. (b) and struck out forme
 
 Subsec. (d). Pub. L. 106–569, §604(2), inserted at end "Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer."
 
-Subsec. (e). Pub. L. 106–569, §604(3), (4), redesignated subsec. (f) as (e), inserted heading, substituted "The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—" for "In establishing standards under this section, the Secretary shall—" in introductory provisions, and struck out former subsec. (e) which read as follows: "The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shallnot be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, that an earlier or later date is in the public interest, and publishes his reasons for such finding."
+Subsec. (e). Pub. L. 106–569, §604(3), (4), redesignated subsec. (f) as (e), inserted heading, substituted "The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—" for "In establishing standards under this section, the Secretary shall—" in introductory provisions, and struck out former subsec. (e) which read as follows: "The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shall not be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, that an earlier or later date is in the public interest, and publishes his reasons for such finding."
 
 Subsec. (f). Pub. L. 106–569, §604(7), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
 
@@ -356,7 +356,7 @@ Subsec. (h). Pub. L. 106–569, §604(7), redesignated subsec. (j) as (h). Forme
 
 Subsec. (i). Pub. L. 106–569, §604(7), redesignated subsec. (i) as (g).
 
-Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted "subsection (e) of this section" for "subsection (f) of this section" and redesignated subsec. (j) as (h).
+Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted "subsection (e)" for "subsection (f)" and redesignated subsec. (j) as (h).
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–550 added subsec. (j).
 
@@ -372,7 +372,11 @@ Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted "subsection (e) of th
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
+
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing andUrban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
 

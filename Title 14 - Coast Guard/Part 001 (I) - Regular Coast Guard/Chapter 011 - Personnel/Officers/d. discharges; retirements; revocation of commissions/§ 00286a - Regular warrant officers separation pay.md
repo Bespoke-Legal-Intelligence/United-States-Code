@@ -30,7 +30,7 @@ Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, seesection 541(h) of Pub. L. 103–337, set out as a note under section 571 of Title 10, Armed Forces.
 
 #### Effective Date of 1991 Amendment
 

@@ -26,7 +26,7 @@ In this section, the following definitions shall apply:
 
 #### (6) Sponsoring agency
 
-&emsp;The term "sponsoring agency" means a State or local government that is the sponsor of a task force designated by the Administrator to participate in the System.
+&emsp;The term "sponsoring agency" means a State or local government that is the sponsorof a task force designated by the Administrator to participate in the System.
 
 #### (7) System
 
@@ -144,7 +144,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (4) Public safety officer claims
 
-&emsp;Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b), for any benefits authorized under part L of title I of that Act (42 U.S.C. 3796 et seq.).
+&emsp;Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[34 U.S.C. 10284\], for any benefits authorized under part L of title I of that Act (42 U.S.C. 3796 et seq.).<sup>1</sup>
 
 #### (i) Liability
 
@@ -160,7 +160,7 @@ With respect to a System member who is not a regular full-time employee of a spo
 
 #### (2) Preclusion
 
-&emsp;Preclusion of giving notice of service by necessity of appointment under this section shall be considered to be preclusion by "military necessity" for purposes of section 4312(b)of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to judicial review.
+&emsp;Preclusion of giving notice of service by necessity of appointment under this section shall be considered to be preclusion by "military necessity" for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to judicial review.
 
 #### (k) Licenses and permits
 
@@ -178,7 +178,7 @@ Subject to the availability of appropriations for such purpose, the Administrato
 
 #### (m) Response cooperative agreements
 
-The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoring agency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
+The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoringagency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
 
 #### (n) Obligations
 
@@ -194,5 +194,7 @@ Not later than 180 days after December 16, 2016, the Administrator shall submit 
 
 This chapter, referred to in subsec. (f)(3), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act was classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XI (§10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ As part of the annual performance plan required in the budget submission of the 
 
 &emsp;The Commissioner shall, on an ongoing basis, analyze the movement of methamphetamine and methamphetamine precursor chemicals into the United States. In conducting the analysis, the Commissioner shall—
 
-&emsp;&emsp;(A) consider the entry of methamphetamine and methamphetamine precursorchemicals through ports of entry, between ports of entry, through international mails, and through international courier services;
+&emsp;&emsp;(A) consider the entry of methamphetamine and methamphetamine precursor chemicals through ports of entry, between ports of entry, through international mails, and through international courier services;
 
 &emsp;&emsp;(B) examine the export procedures of each foreign country where the shipments of methamphetamine and methamphetamine precursor chemicals originate and determine if changes in the country's customs over time provisions would alleviate the export of methamphetamine and methamphetamine precursor chemicals; and
 

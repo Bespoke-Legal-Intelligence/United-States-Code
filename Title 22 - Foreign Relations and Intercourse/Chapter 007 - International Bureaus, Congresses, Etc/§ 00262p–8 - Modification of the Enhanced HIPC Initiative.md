@@ -66,7 +66,7 @@ In this section:
 
 #### (1) Country suffering a public health crisis
 
-&emsp;The term "country suffering a public health crisis" means a country in which the HIV/AIDS infection rate, as reported in the most recent epidemiological data for that country compiled by the Joint United Nations Program on HIV/AIDS, is at least 5 percent among women attending prenatal clinics or more than 20 percent among individuals in groups with high-risk behavior.
+&emsp;The term "country suffering a public health crisis" means a country in which the HIV/AIDS infection rate, as reported in the mostrecent epidemiological data for that country compiled by the Joint United Nations Program on HIV/AIDS, is at least 5 percent among women attending prenatal clinics or more than 20 percent among individuals in groups with high-risk behavior.
 
 #### (2) Decision Point
 

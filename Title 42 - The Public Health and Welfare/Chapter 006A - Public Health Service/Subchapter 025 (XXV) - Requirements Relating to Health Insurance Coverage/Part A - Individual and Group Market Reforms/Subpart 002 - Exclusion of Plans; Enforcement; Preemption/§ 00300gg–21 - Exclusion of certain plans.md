@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) subject to paragraph (2), in the case of a plan that is a nonfederal governmental plan, and
 
-&emsp;&emsp;(B) with respect to health insurance coverage offered in connection with a grouphealth plan (including such a plan that is a church plan or a governmental plan).
+&emsp;&emsp;(B) with respect to health insurance coverage offered in connection with a group health plan (including such a plan that is a church plan or a governmental plan).
 
 #### (2) Treatment of non-Federal governmental plans
 

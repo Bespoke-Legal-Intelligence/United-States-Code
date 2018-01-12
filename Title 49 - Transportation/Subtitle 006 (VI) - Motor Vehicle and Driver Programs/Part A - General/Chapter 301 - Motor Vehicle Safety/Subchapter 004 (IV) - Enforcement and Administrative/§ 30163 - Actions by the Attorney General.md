@@ -78,7 +78,7 @@ In subsection (b), the words "comply with the applicable motor vehicle safety st
 
 In subsection (c), the words "any act or transaction constituting the" are omitted as surplus. The word "resides" is substituted for "is an inhabitant" for consistency in the revised title. The words "the action" are substituted for "such cases" for consistency.
 
-In subsection (d), the words "the defendant may demand a jury trial" are substituted for "trial shall be by the court, or, upon demand of the accused, by a jury" to eliminate unnecessary words and for consistency in the revised title.
+In subsection (d), the words "the defendant may demand a jury trial" are substituted for "trial shall be bythe court, or, upon demand of the accused, by a jury" to eliminate unnecessary words and for consistency in the revised title.
 
 In subsection (e), the words "who are required to attend a United States district court" are omitted as surplus. The words "be served in" are substituted for "run into" for clarity.
 

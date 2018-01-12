@@ -30,7 +30,7 @@ Suspension for Misrepresentation in Fundraising.—The Secretary of the Interior
 
 (d)
 
-Annual Report.—The person authorized to construct a commemorative work under thischapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
+Annual Report.—The person authorized to construct a commemorative work under this chapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1230; Pub. L. 108–126, title II, §203(f), Nov. 17, 2003, 117 Stat. 1351.)
 

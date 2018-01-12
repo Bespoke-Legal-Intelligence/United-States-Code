@@ -10,7 +10,7 @@ The use of such waters, land, or interests therein for wildlife conservation pur
 
 #### (c) Acquisition of land, waters, and interests therein; report to Congress
 
-When consistent with the purposes of sections 661 to 666c of this title and the reports and findings of the Secretary of the Interior prepared in accordance with section 662 of this title, land, waters, and interests therein may be acquired by Federal construction agencies for the wildlife conservation and development purposes of sections 661 to 666c of this title in connection with a project as reasonably needed to preserve and assure for the public benefit the wildlife potentials of the particular project area: <i>Provided</i>, That before properties are acquired for this purpose, the probable extent of such acquisitionshall be set forth, along with other data necessary for project authorization, in a report submitted to the Congress, or in the case of a project previously authorized, no such properties shall be acquired unless specifically authorized by Congress, if specific authority for such acquisition is recommended by the construction agency.
+When consistent with the purposes of sections 661 to 666c of this title and the reports and findings of the Secretary of the Interior prepared in accordance with section 662 of this title, land, waters, and interests therein may be acquired by Federal construction agencies for the wildlife conservation and development purposes of sections 661 to 666c of this title in connection with a project as reasonably needed to preserve and assure for the public benefit the wildlife potentials of the particular project area: <i>Provided</i>, That before properties are acquired for this purpose, the probable extent of such acquisition shall be set forth, along with other data necessary for project authorization, in a report submitted to the Congress, or in the case of a project previously authorized, no such properties shall be acquired unless specifically authorized by Congress, if specific authority for such acquisition is recommended by the construction agency.
 
 #### (d) Use of acquired properties
 
@@ -28,7 +28,7 @@ Any lands acquired pursuant to this section by any Federal agency within the ext
 
 #### References in Text
 
-Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+Act of March 1, 1911, referred to in subsec. (f), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 #### Amendments
 

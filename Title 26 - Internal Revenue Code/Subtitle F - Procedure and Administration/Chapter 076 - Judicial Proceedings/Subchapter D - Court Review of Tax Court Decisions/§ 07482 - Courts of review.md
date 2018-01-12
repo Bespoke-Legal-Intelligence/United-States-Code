@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;When any judge of the Tax Court includes in an interlocutory order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals may, in its discretion, permit an appeal to be taken from such order, if application is made to it within 10 days after the entry of such order. Neither the application for nor the granting of an appeal under this paragraph shall stay proceedings in the Tax Court, unless a stay is ordered by a judge of the Tax Court or by the United States Court of Appeals which has jurisdiction of the appeal or a judge of that court.
+&emsp;&emsp;When any judge of the Tax Court includes in an interlocutory order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals may, in its discretion, permit an appeal to be taken from such order, if application is made to it within 10 days after the entry of such order. Neither the application for nor the granting of an appeal under this paragraph shall stay proceedings in the Tax Court, unless a stay is ordered by a judge ofthe Tax Court or by the United States Court of Appeals which has jurisdiction of the appeal or a judge of that court.
 
 #### (B) Order treated as Tax Court decision
 
@@ -32,21 +32,23 @@
 
 &emsp;&emsp;(A) in the case of a petitioner seeking redetermination of tax liability other than a corporation, the legal residence of the petitioner,
 
-&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principalplace of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
+&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principal place of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
 
 &emsp;&emsp;(C) in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
 
 &emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
 
-&emsp;&emsp;(E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
+&emsp;&emsp;(E) in the case of a petition under section 6234, the principal place of business of the partnership,
 
-&emsp;&emsp;(F) <sup>1</sup> in the case of a petition under section 6234(c)—
+&emsp;&emsp;(F) in the case of a petition under section 6015(e), the legal residence of the petitioner, or
 
-&emsp;&emsp;&emsp;(i) the legal residence of the petitioner if the petitioner is not a corporation, and
+&emsp;&emsp;(G) in the case of a petition under section 6320 or 6330—
 
-&emsp;&emsp;&emsp;(ii) the place or office applicable under subparagraph (B) if the petitioner is a corporation.
+&emsp;&emsp;&emsp;(i) the legal residence of the petitioner if the petitioner is an individual, and
 
-> &emsp;If for any reason no subparagraph of the preceding sentence applies, then such decisions may be reviewed by the Court of Appeals for the District of Columbia. For purposes of this paragraph, the legal residence, principal place of business, or principal office or agency referred to herein shall be determined as of the time the petition seeking redetermination of tax liability was filed with the Tax Court or as of the time the petition seeking a declaratory decision under section 7428 or 7476 or the petition under section 6226, 6228(a), or 6234(c), was filed with the Tax Court.
+&emsp;&emsp;&emsp;(ii) the principal place of business or principal office or agency if the petitioner is an entity other than an individual.
+
+> &emsp;If for any reason no subparagraph of the preceding sentence applies, then such decisions may be reviewed by the Court of Appeals for the District of Columbia. For purposes of this paragraph, the legal residence, principal place of business, or principal office or agency referred to herein shall be determined as of the time the petition seeking redetermination of tax liability was filed with the Tax Court or as of the time the petition seeking a declaratory decision under section 7428 or 7476, or the petition under section 6234, was filed with the Tax Court.
 
 #### (2) By agreement
 
@@ -74,45 +76,13 @@
 
 &emsp;The United States Court of Appeals and the Supreme Court shall have the power to require the taxpayer to pay to the United States a penalty in any case where the decision of the Tax Court is affirmed and it appears that the appeal was instituted or maintained primarily for delay or that the taxpayer's position in the appeal is frivolous or groundless.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, §3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 91–172, title IX, §960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, §1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, §1042(d)(2)(A), (B), title XIII, §1306(b)(4), (5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, §336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, §154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, §131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, §1558(a), (b), title XVIII, §§1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, §6243(b), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, §7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, §1101(f)(13), Nov. 2, 2015, 129 Stat. 638; Pub. L. 114–113, div. Q, title IV, §423(a), Dec. 18, 2015, 129 Stat. 3123.)
-
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 114–74, title XI, §1101(f)(13), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(1) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (E), by striking "section 6226, 6228, 6247, or 6252" and inserting "section 6234";</i>
-
-<i>(2) by striking subparagraph (F), by striking "or" at the end of subparagraph (E) and inserting a period, and by inserting "or" at the end of subparagraph (D); and</i>
-
-<i>(3) in the last sentence, by striking "section 6226, 6228(a), or 6234(c)" and inserting "section 6234".</i>
-
-<i>Pub. L. 114–113, div. Q, title IV, §423, Dec. 18, 2015, 129 Stat. 3123, provided that, applicable to petitions filed after Dec. 18, 2015, subsection (b)(1) of this section (as amended by Pub. L. 114–74, see note above) is amended as follows:</i>
-
-<i>(1) by striking "or" at the end of subparagraph (D);</i>
-
-<i>(2) by striking the period at the end of subparagraph (E); and</i>
-
-<i>(3) by inserting after subparagraph (E) the following new subparagraphs:</i>
-
-&emsp;&emsp;<i>(F) in the case of a petition under section 6015(e), the legal residence of the petitioner, or</i>
-
-&emsp;&emsp;<i>(G) in the case of a petition under section 6320 or 6330—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the legal residence of the petitioner if the petitioner is an individual, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the principal place of business or principal office or agency if the petitioner is an entity other than an individual.</i>
-
-<i>See 2015 Amendment notes below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, §3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 91–172, title IX, §960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, §1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, §1042(d)(2)(A), (B), title XIII, §1306(b)(4), (5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, §336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, §154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, §131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, §1558(a), (b), title XVIII, §§1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, §6243(b), Nov. 10, 1988, 102 Stat. 3750;Pub. L. 101–239, title VII, §7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, §1101(f)(13), Nov. 2, 2015, 129 Stat. 638; Pub. L. 114–113, div. Q, title IV, §423(a), Dec. 18, 2015, 129 Stat. 3123.)
 
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–74, §1101(f)(13)(C), substituted "section 6234" for "section 6226, 6228(a), or 6234(c)" in concluding provisions.
 
-Subsec. (b)(1)(D). Pub. L. 114–74, §1101(f)(13)(B), inserted "or" at end.
-
-Subsec. (b)(1)(E). Pub. L. 114–74, §1101(f)(13)(B), substituted period for "or" after "partnership,".
-
-Pub. L. 114–74, §1101(f)(13)(A), which directed amendment of subpar. (E) by substituting "section 6234" for "section 6226, 6228, 6247, or 6252", was executed by making the substitution for "section 6226, 6228(a), 6247, or 6252" to reflect the probable intent of Congress.
+Subsec. (b)(1)(E). Pub. L. 114–74, §1101(f)(13)(A), which directed amendment of subpar. (E) by substituting "section 6234" for "section 6226, 6228, 6247, or 6252", was executed by making the substitution for "section 6226, 6228(a), 6247, or 6252" to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(F). Pub. L. 114–113, §423(a), added subpar. (F).
 
@@ -176,13 +146,13 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 Effect on existing proceedings.—Nothing in this section shall be construed to create any inference with respect to the application of section 7482 of the Internal Revenue Code of 1986 with respect to court proceedings filed on or before the date of the enactment of this Act."
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1222(b)(3) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
-Amendment by section 1239(d) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6225 of this title.
+Amendment by section 1239(d) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6501 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -196,15 +166,15 @@ Amendment by Pub. L. 100–647 applicable to orders entered after Nov. 10, 1988,
 
 Pub. L. 99–514, title XV, §1558(c), Oct. 22, 1986, 100 Stat. 2758, provided that: "The amendments made by this section \[amending this section\] shall apply to any order of the Tax Court entered after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Amendment by section 1810(g)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1810(g)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under section 367 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
@@ -229,6 +199,4 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–713 applicable to all decisions of the Tax Court entered after Nov. 2, 1966, see section 3(d) of Pub. L. 89–713, set out as a note under section 7422 of this title.
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (b)(1) notes below.</i>
 

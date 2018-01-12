@@ -1,6 +1,6 @@
 ### §5501A. Beneficiaries' rights in mental competence determinations
 
-The Secretary may not make an adverse determination concerning the mental capacity of a beneficiary to manage monetary benefits paid toor for the beneficiary by the Secretary under this title unless such beneficiary has been provided all of the following, subject to the procedures and timelines prescribed by the Secretary for determinations of incompetency:
+The Secretary may not make an adverse determination concerning the mental capacity of a beneficiary to manage monetary benefits paid to or for the beneficiary by the Secretary under this title unless such beneficiary has been provided all of the following, subject to the procedures and timelines prescribed by the Secretary for determinations of incompetency:
 
 &emsp;(1) Notice of the proposed adverse determination and the supporting evidence.
 

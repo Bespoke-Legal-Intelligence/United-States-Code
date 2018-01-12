@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) such intrastate pipeline acquires any volume of natural gas under such contract in excess of that which such pipeline would otherwise have acquired; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the price paid for such additional volume of natural gas acquired under such contract is greater than such pipeline's weighted average acquisition cost of natural gas, computed without regardto the acquisition of such additional volume of natural gas.
+&emsp;&emsp;&emsp;&emsp;(II) the price paid for such additional volume of natural gas acquired under such contract is greater than such pipeline's weighted average acquisition cost of natural gas, computed without regard to the acquisition of such additional volume of natural gas.
 
 #### (ii) Commission adjustment
 
@@ -116,7 +116,7 @@
 
 #### (B) Verification of compliance
 
-&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
+&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastatepipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
 
 #### (6) Termination of sales
 

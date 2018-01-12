@@ -18,7 +18,7 @@ For purposes of this section:
 
 #### (b) Examination requirements
 
-Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], the Board shall examine the activities of a nondepository institution subsidiary (other than a functionally regulated subsidiary or a subsidiary of a depository institution) of a depositoryinstitution holding company that are permissible for the insured depository institution subsidiaries of the depository institution holding company in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted in the lead insured depository institution of the depository institution holding company.
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], the Board shall examine the activities of a nondepository institution subsidiary (other than a functionally regulated subsidiary or a subsidiary of a depository institution) of a depository institution holding company that are permissible for the insured depository institution subsidiaries of the depository institution holding company in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted in the lead insured depository institution of the depository institution holding company.
 
 #### (c) State coordination
 
@@ -70,7 +70,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (2) Back-up authority of the appropriate Federal banking agency
 
-&emsp;If, within the 60-day period beginning on the date on which the Board receives a recommendation under paragraph (1), the Board does not take enforcement action against the nondepository institution subsidiary or provide aplan for supervisory or enforcement action that is acceptable to the appropriate Federal banking agency that made the recommendation pursuant to paragraph (1), such agency may take the recommended enforcement action against the nondepository institution subsidiary, in the same manner as if the nondepository institution subsidiary were an insured depository institution for which the agency was the appropriate Federal banking agency.
+&emsp;If, within the 60-day period beginning on the date on which the Board receives a recommendation under paragraph (1), the Board does not take enforcement action against the nondepository institution subsidiary or provide a plan for supervisory or enforcement action that is acceptable to the appropriate Federal banking agency that made the recommendation pursuant to paragraph (1), such agency may take the recommended enforcement action against the nondepository institution subsidiary, in the same manner as if the nondepository institution subsidiary were an insured depository institution for which the agency was the appropriate Federal banking agency.
 
 #### (f) Coordination among appropriate Federal banking agencies
 
@@ -102,7 +102,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (
 
 #### Prior Provisions
 
-A prior section 1831c, act Sept. 21, 1950, ch. 967, §2\[26\], as added Nov. 10, 1978, Pub. L. 95–630, title XII, §1205, 92 Stat. 3711; amended Oct. 15, 1982, Pub. L. 97–320, title I, §113(p), 96 Stat. 1474; Jan. 12, 1983, Pub. L. 97–457, §3, 96 Stat. 2507, which related to conversion, merger, or consolidation of mutual savings banks into Federal savings banks or savings banks which are insured institutions within meaning of former section 1724 of this title, was repealed by Pub. L. 103–325, title VI, §602(f)(1), Sept. 23, 1994, 108 Stat. 2292.
+A prior section 1831c, act Sept. 21, 1950, ch. 967, §2\[26\], as added Nov. 10, 1978, Pub. L. 95–630, title XII, §1205, 92Stat. 3711; amended Oct. 15, 1982, Pub. L. 97–320, title I, §113(p), 96 Stat. 1474; Jan. 12, 1983, Pub. L. 97–457, §3, 96 Stat. 2507, which related to conversion, merger, or consolidation of mutual savings banks into Federal savings banks or savings banks which are insured institutions within meaning of former section 1724 of this title, was repealed by Pub. L. 103–325, title VI, §602(f)(1), Sept. 23, 1994, 108 Stat. 2292.
 
 #### Effective Date
 

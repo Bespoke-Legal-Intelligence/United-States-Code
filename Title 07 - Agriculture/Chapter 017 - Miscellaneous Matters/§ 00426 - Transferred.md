@@ -1,0 +1,6 @@
+### §426. Transferred
+
+#### Codification
+
+Section 426 was editorially reclassified as section 8351 of this title.
+

@@ -62,7 +62,7 @@ There is established within the Institute a board to be known as the "National M
 
 #### (2) Authority to adjust terms
 
-&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
+&emsp;The terms of the members appointed to the Museum and Library Service Board shall beadjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
 #### (3) Vacancies
 
@@ -108,7 +108,7 @@ A majority of the voting members of the Museum and Library Services Board shall 
 
 #### (1) Compensation
 
-&emsp;Each member of the Museum and Library Services Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum annual rate of pay authorizedfor a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum and Library Services Board. Members of the Museum and Libraries Services Board who are full-time officers or employees of the Federal Government may not receive additional pay, allowances, or benefits by reason of their service on the Museum and Library Services Board.
+&emsp;Each member of the Museum and Library Services Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum annual rate of pay authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum and Library Services Board. Members of the Museum and Libraries Services Board who are full-time officers or employees of the Federal Government may not receive additional pay, allowances, or benefits by reason of their service on the Museum and Library Services Board.
 
 #### (2) Travel expenses
 

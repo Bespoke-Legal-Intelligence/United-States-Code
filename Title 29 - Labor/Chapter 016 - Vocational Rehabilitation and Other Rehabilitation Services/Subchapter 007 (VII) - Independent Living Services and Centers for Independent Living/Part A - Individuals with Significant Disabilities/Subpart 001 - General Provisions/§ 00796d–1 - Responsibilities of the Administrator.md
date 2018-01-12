@@ -76,7 +76,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 113–128, §475A(2)(B)(ii)(I), inserted "or the C
 
 Subsec. (a)(2)(B)(ii), (iii). Pub. L. 113–128, §475A(2)(B)(ii)(II), (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (b). Pub. L. 113–128, §475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title."
+Subsec. (b). Pub. L. 113–128, §475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment,text read as follows: "Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title."
 
 Subsec. (c)(1). Pub. L. 113–128, §475A(4)(A), substituted "Administrator" for "Commissioner" wherever appearing and struck out last sentence which read as follows: "The Administrator shall select the centers and State units described in this paragraph for review on a random basis."
 

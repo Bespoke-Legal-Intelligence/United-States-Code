@@ -22,5 +22,9 @@ Section 106(5) of Public Law 106–229, referred to in par. (5), is classified t
 
 <b>2000</b>—Pars. (4), (5). Pub. L. 106–346 added pars. (4) and (5).
 
+#### Effective Date
+
+Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under section 2721 of this title.
+
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

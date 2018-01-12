@@ -16,9 +16,7 @@
 | [10412\.](%C2%A7%2010412%20-%20Specialized%20services%20for%20abused%20parents%20and%20their%20children.md) | Specialized services for abused parents and their children. |
 | [10413\.](%C2%A7%2010413%20-%20National%20domestic%20violence%20hotline%20grant.md) | National domestic violence hotline grant. |
 | [10414\.](%C2%A7%2010414%20-%20Domestic%20Violence%20Prevention%20Enhancement%20and%20Leadership%20Through%20Alliances%20%28DELTA%29.md) | Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA). |
-| 10415 to 10419. Repealed or Omitted. |  |
-| [10420\.](%C2%A7%2010420%20-%20Grants%20to%20support%20families%20in%20the%20justice%20system.md) | Grants to support families in the justice system. |
-| [10421\.](%C2%A7%2010421%20-%20Omitted.md) | Omitted. |
+| 10415 to 10421. Repealed, Tranferred, or Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,5 +47,5 @@ The Family Violence Prevention and Services Act, comprising this chapter, was or
 - [&sect; 10416 - Omitted](%C2%A7%2010416%20-%20Omitted.md)
 - [&sect; 10417 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;412, June 25, 2003, 117 Stat. 829](%C2%A7%2010417%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7412%2C%20June%2025%2C%202003%2C%20117%20Stat.%20829.md)
 - [&sect; 10418, 10419 - Omitted](%C2%A7%2010418%2C%2010419%20-%20Omitted.md)
-- [&sect; 10420 - Grants to support families in the justice system](%C2%A7%2010420%20-%20Grants%20to%20support%20families%20in%20the%20justice%20system.md)
+- [&sect; 10420 - Transferred](%C2%A7%2010420%20-%20Transferred.md)
 - [&sect; 10421 - Omitted](%C2%A7%2010421%20-%20Omitted.md)

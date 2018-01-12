@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall enter into an arrangement with the National Academy of Sciences to undertake a study that—
 
-&emsp;&emsp;(A) defines an interdisciplinary program in geology, engineering, hydrology, environmental science, and related disciplines thatwill support the Nation's capability to capture and sequester carbon dioxide from anthropogenic sources;
+&emsp;&emsp;(A) defines an interdisciplinary program in geology, engineering, hydrology, environmental science, and related disciplines that will support the Nation's capability to capture and sequester carbon dioxide from anthropogenic sources;
 
 &emsp;&emsp;(B) addresses undergraduate and graduate education, especially to help develop graduate level programs of research and instruction that lead to advanced degrees with emphasis on geologic sequestration science;
 
@@ -45,4 +45,8 @@
 &emsp;There are authorized to be appropriated to the Secretary for carrying out this subsection such sums as may be necessary.
 
 (Pub. L. 110–140, title VII, §705, Dec. 19, 2007, 121 Stat. 1709.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

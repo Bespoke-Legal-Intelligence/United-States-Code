@@ -1,0 +1,6 @@
+### §1212. Transferred
+
+#### Codification
+
+Section 1212 was editorially reclassified as section 1476a of this title.
+

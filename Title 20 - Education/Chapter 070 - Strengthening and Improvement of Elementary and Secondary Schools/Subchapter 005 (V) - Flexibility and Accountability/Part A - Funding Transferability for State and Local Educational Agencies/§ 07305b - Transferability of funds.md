@@ -100,7 +100,7 @@ A State or local educational agency may not transfer under this part to any othe
 
 #### (2) Consultation
 
-&emsp;Each State educational agency or local educational agency that transfers funds under this section shall conduct consultations in accordance with section 7881 of this title, if such transfer transfers funds from a program that provides for the participation of students,teachers, or other educational personnel, from private schools.
+&emsp;Each State educational agency or local educational agency that transfers funds under this section shall conduct consultations in accordance with section 7881 of this title, if such transfer transfers funds from a program that provides for the participation of students, teachers, or other educational personnel, from private schools.
 
 (Pub. L. 89–10, title V, §5103, formerly title VI, §6123, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1876; renumbered title V, §5103, and amended Pub. L. 114–95, title V, §§5001(a)(1), 5002(3), (5), Dec. 10, 2015, 129 Stat. 2039, 2040.)
 
@@ -112,7 +112,7 @@ Another prior section 5103 of Pub. L. 89–10 was classified to section 3173 of 
 
 Prior sections 7311 to 7311b, 7315 to 7315c, 7321 to 7321e, and 7325 to 7325c were repealed by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-Section 7311, Pub. L. 89–10, title V, §6131, formerly title VI, §6131, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1878; renumbered title V, §6131, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, provided that former subpart 3 of this part could be cited as the "State and Local Flexibility Demonstration Act".
+Section 7311, Pub. L. 89–10, title V, §6131, formerly title VI, §6131, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1878; renumbered title V, §6131, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat.2039, provided that former subpart 3 of this part could be cited as the "State and Local Flexibility Demonstration Act".
 
 A prior section 7311, Pub. L. 89–10, title VI, §6101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3708, related to allotment to States, prior to the general amendment of former subchapter VI of this chapter by Pub. L. 107–110.
 

@@ -92,7 +92,7 @@ In general.—At the times specified in paragraph (2), the Director of the Admin
 
 &emsp;&emsp;"(B) an analysis of the extent to which the program has improved the efficiency of the courts involved by reason of such expertise;
 
-&emsp;&emsp;"(C) with respect to patent cases handled by the judges designated pursuant to subsection (a)(1)(A) and judges not so designated, a comparison between the 2 groups of judges with respect to—
+&emsp;&emsp;"(C) with respect to patent cases handled by the judges designated pursuant to subsection (a)(1)(A)and judges not so designated, a comparison between the 2 groups of judges with respect to—
 
 &emsp;&emsp;&emsp;"(i) the rate of reversal by the Court of Appeals for the Federal Circuit, of such cases on the issues of claim construction and substantive patent law; and
 

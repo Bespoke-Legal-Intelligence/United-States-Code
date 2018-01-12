@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To commence a proceeding, a covered employee alleging a violation of a law made applicable under part A of subchapter II shall request counseling by the Office. The Office shall provide the employee with all relevant information with respect to the rights of the employee. A request for counseling shall be made not later than 180 days after the date of the alleged violation.
+To commence a proceeding, a covered employee alleging a violation of a law made applicable under part A of subchapter II shall requestcounseling by the Office. The Office shall provide the employee with all relevant information with respect to the rights of the employee. A request for counseling shall be made not later than 180 days after the date of the alleged violation.
 
 #### (b) Period of counseling
 

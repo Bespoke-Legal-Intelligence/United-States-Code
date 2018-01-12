@@ -70,7 +70,7 @@ Exceptions.â€”The Secretary may make a payment to Amtrak of appropriated fundsâ€
 
 &emsp;&emsp;(A) more frequently than the schedule under paragraph (2) if Amtrak, for good cause, requests more frequent payment before the end of a payment period; or
 
-&emsp;&emsp;(B) with a different frequency or in different percentage allocations in the event of a continuing resolution or in the absence ofan appropriations Act for the duration of a fiscal year.
+&emsp;&emsp;(B) with a different frequency or in different percentage allocations in the event of a continuing resolution or in the absence of an appropriations Act for the duration of a fiscal year.
 
 (f)
 

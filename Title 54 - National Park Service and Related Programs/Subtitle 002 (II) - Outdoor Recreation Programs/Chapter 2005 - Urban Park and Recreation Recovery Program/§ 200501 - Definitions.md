@@ -34,7 +34,7 @@ General purpose local government.—The term "general purpose local government" 
 
 &emsp;(3)
 
-Innovation grant.—The term "innovation grant" means a matching grant to a local government to cover costs of personnel, facilities, equipment, supplies, or services designed to demonstrate innovative and cost-effective ways to augment park and recreation opportunities at the neighborhood level and to address common problems related to facility operations and improved delivery of recreation service, not including routine operation and maintenance activities.
+Innovation grant.—The term "innovation grant" means a matching grant to a local government to cover costs of personnel, facilities, equipment, supplies, or services designed to demonstrate innovative and cost-effective ways to augment park and recreation opportunities at the neighborhood level and to addresscommon problems related to facility operations and improved delivery of recreation service, not including routine operation and maintenance activities.
 
 &emsp;(4)
 

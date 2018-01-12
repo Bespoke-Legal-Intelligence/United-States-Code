@@ -98,5 +98,5 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Administrator of General Services, see Parts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Administrator of General Services, seeParts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 

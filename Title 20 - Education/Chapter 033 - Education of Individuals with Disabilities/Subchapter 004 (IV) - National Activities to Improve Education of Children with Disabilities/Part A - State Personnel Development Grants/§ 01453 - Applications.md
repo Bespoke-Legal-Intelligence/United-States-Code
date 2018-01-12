@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) is designed to enable the State to meet the requirements of section 1412(a)(14) of this title and section 1435(a)(8) and (9) of this title;
 
-&emsp;&emsp;(B) is based on an assessment of State and local needs that identifies critical aspectsand areas in need of improvement related to the preparation, ongoing training, and professional development of personnel who serve infants, toddlers, preschoolers, and children with disabilities within the State, including—
+&emsp;&emsp;(B) is based on an assessment of State and local needs that identifies critical aspects and areas in need of improvement related to the preparation, ongoing training, and professional development of personnel who serve infants, toddlers, preschoolers, and children with disabilities within the State, including—
 
 &emsp;&emsp;&emsp;(i) current and anticipated personnel vacancies and shortages; and
 
@@ -42,7 +42,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;&emsp;(A) a description of the programs and activities to be supported under this part that will provide personnel with the knowledge and skills to meet the needs of, and improve the performance and achievement of, infants, toddlers, preschoolers, and children with disabilities; and
 
-&emsp;&emsp;(B) how such strategies will be integrated, to the maximum extent possible, with other activities supported by grants funded under section 1462 of this title;
+&emsp;&emsp;(B) how such strategies will be integrated, to the maximum extent possible, with otheractivities supported by grants funded under section 1462 of this title;
 
 &emsp;(5) provide an assurance that the State educational agency will provide technical assistance to local educational agencies to improve the quality of professional development available to meet the needs of personnel who serve children with disabilities;
 
@@ -78,7 +78,7 @@ Each State educational agency that receives a grant under this part shall submit
 
 &emsp;(3) identify changes in the strategies used by the State educational agency and described in subsection (b)(4), if any, to improve the State educational agency's performance.
 
-(Pub. L. 91–230, title VI, §653, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2768;amended Pub. L. 114–95, title IX, §§9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
+(Pub. L. 91–230, title VI, §653, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2768; amended Pub. L. 114–95, title IX, §§9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 #### References in Text
 

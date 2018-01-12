@@ -78,7 +78,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;&emsp;(II) the net capital gain determined by only taking into account gains and losses from dispositions of property held for investment, plus
 
-&emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
+&emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as thetaxpayer elects to take into account under this clause.
 
 > &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
 
@@ -138,7 +138,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (C) Short-term obligations
 
-&emsp;&emsp;In the case of an obligor of a short-term obligation (as defined in section1283(a)(1)(A)) who uses the cash receipts and disbursements method of accounting, the original issue discount (and any other interest payable) on such obligation shall be deductible only when paid.
+&emsp;&emsp;In the case of an obligor of a short-term obligation (as defined in section 1283(a)(1)(A)) who uses the cash receipts and disbursements method of accounting, the original issue discount (and any other interest payable) on such obligation shall be deductible only when paid.
 
 #### (3) Special rule for original issue discount on obligation held by related foreign person
 
@@ -232,7 +232,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (iii) Secretarial authority to suspend application
 
-&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued in periods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
+&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued inperiods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
 
 #### (G) Cross reference
 
@@ -298,7 +298,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;(D) any qualified residence interest (within the meaning of paragraph (3)),
 
-&emsp;&emsp;(E) any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which anextension of time for payment of such tax is in effect under section 6163, and
+&emsp;&emsp;(E) any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which an extension of time for payment of such tax is in effect under section 6163, and
 
 &emsp;&emsp;(F) any interest allowable as a deduction under section 221 (relating to interest on educational loans).
 
@@ -397,6 +397,46 @@ The amount of the deduction under this section for interest paid or accrued duri
 &emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2016, or
 
 &emsp;&emsp;&emsp;&emsp;(II) properly allocable to any period after such date.
+
+#### (F) Special rules for taxable years 2018 through 2025
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, and before January 1, 2026—
+
+#### (I) Disallowance of home equity indebtedness interest
+
+&emsp;&emsp;&emsp;&emsp;Subparagraph (A)(ii) shall not apply.
+
+#### (II) Limitation on acquisition indebtedness
+
+&emsp;&emsp;&emsp;&emsp;Subparagraph (B)(ii) shall be applied by substituting "$750,000 ($375,000" for "$1,000,000 ($500,000".
+
+#### (III) Treatment of indebtedness incurred on or before December 15, 2017
+
+&emsp;&emsp;&emsp;&emsp;Subclause (II) shall not apply to any indebtedness incurred on or before December 15, 2017, and, in applying such subclause to any indebtedness incurred after such date, the limitation under such subclause shall be reduced (but not below zero) by the amount of any indebtedness incurred on or before December 15, 2017, which is treated as acquisition indebtedness for purposes of this subsection for the taxable year.
+
+#### (IV) Binding contract exception
+
+&emsp;&emsp;&emsp;&emsp;In the case of a taxpayer who enters into a written binding contract before December 15, 2017, to close on the purchase of a principal residence before January 1, 2018, and who purchases such residence before April 1, 2018, subclause (III) shall be applied by substituting "April 1, 2018" for "December 15, 2017".
+
+#### (ii) Treatment of limitation in taxable years after December 31, 2025
+
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2025, the limitationunder subparagraph (B)(ii) shall be applied to the aggregate amount of indebtedness of the taxpayer described in subparagraph (B)(i) without regard to the taxable year in which the indebtedness was incurred.
+
+#### (iii) Treatment of refinancings of indebtedness
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;In the case of any indebtedness which is incurred to refinance indebtedness, such refinanced indebtedness shall be treated for purposes of clause (i)(III) as incurred on the date that the original indebtedness was incurred to the extent the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness.
+
+#### (II) Limitation on period of refinancing
+
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any indebtedness after the expiration of the term of the original indebtedness or, if the principal of such original indebtedness is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
+
+#### (iv) Coordination with exclusion of income from discharge of indebtedness
+
+&emsp;&emsp;&emsp;Section 108(h)(2) shall be applied without regard to this subparagraph.
 
 #### (4) Other definitions and special rules
 
@@ -500,199 +540,185 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;(B) regulations to prevent avoidance of the purposes of this subsection and subsection (e)(5) through the use of issuers other than C corporations, agreements to borrow amounts due under the debt instrument, or other arrangements.
 
-#### (j) Limitation on deduction for interest on certain indebtedness
+#### (j) Limitation on business interest
 
-#### (1) Limitation
+#### (1) In general
+
+&emsp;The amount allowed as a deduction under this chapter for any taxable year for business interest shall not exceed the sum of—
+
+&emsp;&emsp;(A) the business interest income of such taxpayer for such taxable year,
+
+&emsp;&emsp;(B) 30 percent of the adjusted taxable income of such taxpayer for such taxable year, plus
+
+&emsp;&emsp;(C) the floor plan financing interest of such taxpayer for such taxable year.
+
+> &emsp;The amount determined under subparagraph (B) shall not be less than zero.
+
+#### (2) Carryforward of disallowed business interest
+
+&emsp;The amount of any business interest not allowed as a deduction for any taxable year by reason of paragraph (1) shall be treated as business interest paid or accrued in the succeeding taxable year.
+
+#### (3) Exemption for certain small businesses
+
+&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, paragraph (1) shall not apply to such taxpayer for such taxable year. In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if such taxpayer were a corporation or partnership.
+
+#### (4) Application to partnerships, etc.
 
 #### (A) In general
 
-&emsp;&emsp;If this subsection applies to any corporation for any taxable year, no deduction shall be allowed under this chapter for disqualified interest paid or accrued by such corporation during such taxable year. The amount disallowed under the preceding sentence shall not exceed the corporation's excess interest expense for the taxable year.
+&emsp;&emsp;In the case of any partnership—
 
-#### (B) Disallowed amount carried to succeeding taxable year
+&emsp;&emsp;&emsp;(i) this subsection shall be applied at the partnership level and any deduction for business interest shall be taken into account in determining the non-separately stated taxable income or loss of the partnership, and
 
-&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
+&emsp;&emsp;&emsp;(ii) the adjusted taxable income of each partner of such partnership—
 
-#### (2) Corporations to which subsection applies
+&emsp;&emsp;&emsp;&emsp;(I) shall be determined without regard to such partner's distributive share of any items of income, gain, deduction, or loss of such partnership, and
 
-#### (A) In general
+&emsp;&emsp;&emsp;&emsp;(II) shall be increased by such partner's distributive share of such partnership's excess taxable income.
 
-&emsp;&emsp;This subsection shall apply to any corporation for any taxable year if—
+&emsp;&emsp;&nbsp;For purposes of clause (ii)(II), a partner's distributive share of partnership excesstaxable income shall be determined in the same manner as the partner's distributive share of nonseparately stated taxable income or loss of the partnership.
 
-&emsp;&emsp;&emsp;(i) such corporation has excess interest expense for such taxable year, and
-
-&emsp;&emsp;&emsp;(ii) the ratio of debt to equity of such corporation as of the close of such taxable year (or on any other day during the taxable year as the Secretary may by regulations prescribe) exceeds 1.5 to 1.
-
-#### (B) Excess interest expense
+#### (B) Special rules for carryforwards
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term "excess interest expense" means the excess (if any) of—
+&emsp;&emsp;&emsp;The amount of any business interest not allowed as a deduction to a partnership for any taxable year by reason of paragraph (1) for any taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) the corporation's net interest expense, over
+&emsp;&emsp;&emsp;&emsp;(I) shall not be treated under paragraph (2) as business interest paid or accrued by the partnership in the succeeding taxable year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the sum of 50 percent of the adjusted taxable income of the corporation plus any excess limitation carryforward under clause (ii).
+&emsp;&emsp;&emsp;&emsp;(II) shall, subject to clause (ii), be treated as excess business interest which is allocated to each partner in the same manner as the non-separately stated taxable income or loss of the partnership.
 
-#### (ii) Excess limitation carryforward
+#### (ii) Treatment of excess business interest allocated to partners
 
-&emsp;&emsp;&emsp;If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeeding taxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
+&emsp;&emsp;&emsp;If a partner is allocated any excess business interest from a partnership under clause (i) for any taxable year—
 
-#### (iii) Excess limitation
+&emsp;&emsp;&emsp;&emsp;(I) such excess business interest shall be treated as business interest paid or accrued by the partner in the next succeeding taxable year in which the partner is allocated excess taxable income from such partnership, but only to the extent of such excess taxable income, and
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "excess limitation" means the excess (if any) of—
+&emsp;&emsp;&emsp;&emsp;(II) any portion of such excess business interest remaining after the application of subclause (I) shall, subject to the limitations of subclause (I), be treated as business interest paid or accrued in succeeding taxable years.
 
-&emsp;&emsp;&emsp;&emsp;(I) 50 percent of the adjusted taxable income of the corporation, over
+&emsp;&emsp;&nbsp;For purposes of applying this paragraph, excess taxable income allocated to a partner from a partnership for any taxable year shall not be taken into account under paragraph (1)(A) with respect to any business interest other than excess business interest from the partnership until all such excess business interest for such taxable year and all preceding taxable years has been treated as paid or accrued under clause (ii).
 
-&emsp;&emsp;&emsp;&emsp;(II) the corporation's net interest expense.
+#### (iii) Basis adjustments
 
-#### (C) Ratio of debt to equity
+#### (I) In general
 
-&emsp;&emsp;For purposes of this paragraph, the term "ratio of debt to equity" means the ratio which the total indebtedness of the corporation bears to the sum of its money and all other assets reduced (but not below zero) by such total indebtedness. For purposes of the preceding sentence—
+&emsp;&emsp;&emsp;&emsp;The adjusted basis of a partner in a partnership interest shall be reduced (but not below zero) by the amount of excess business interest allocated to the partner under clause (i)(II).
 
-&emsp;&emsp;&emsp;(i) the amount taken into account with respect to any asset shall be the adjusted basis thereof for purposes of determining gain,
+#### (II) Special rule for dispositions
 
-&emsp;&emsp;&emsp;(ii) the amount taken into account with respect to any indebtedness with original issue discount shall be its issue price plus the portion of the original issue discount previously accrued as determined under the rules of section 1272 (determined without regard to subsection (a)(7) or (b)(4) thereof), and
+&emsp;&emsp;&emsp;&emsp;If a partner disposes of a partnership interest, the adjusted basis of the partner in the partnership interest shall be increased immediately before the disposition by the amount of the excess (if any) of the amount of the basis reduction under subclause (I) over the portion of any excess business interest allocated to the partner under clause (i)(II) which has previously been treated under clause (ii) as business interest paid or accrued by the partner. The preceding sentence shall also apply to transfers of the partnership interest (including by reason of death) in a transaction in which gain is not recognized in whole or in part. No deduction shall be allowed to the transferor or transferee under this chapter for any excess business interest resulting in a basis increase under this subclause.
 
-&emsp;&emsp;&emsp;(iii) there shall be such other adjustments as the Secretary may by regulations prescribe.
+#### (C) Excess taxable income
 
-#### (3) Disqualified interest
+&emsp;&emsp;The term "excess taxable income" means, with respect to any partnership, the amount which bears the same ratio to the partnership's adjusted taxable income as—
 
-&emsp;For purposes of this subsection, the term "disqualified interest" means—
+&emsp;&emsp;&emsp;(i) the excess (if any) of—
 
-&emsp;&emsp;(A) any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest,
+&emsp;&emsp;&emsp;&emsp;(I) the amount determined for the partnership under paragraph (1)(B), over
 
-&emsp;&emsp;(B) any interest paid or accrued by the taxpayer with respect to any indebtedness to a person who is not a related person if—
+&emsp;&emsp;&emsp;&emsp;(II) the amount (if any) by which the business interest of the partnership, reduced by the floor plan financing interest, exceeds the business interest income of the partnership, bears to
 
-&emsp;&emsp;&emsp;(i) there is a disqualified guarantee of such indebtedness, and
+&emsp;&emsp;&emsp;(ii) the amount determined for the partnership under paragraph (1)(B).
 
-&emsp;&emsp;&emsp;(ii) no gross basis tax is imposed by this subtitle with respect to such interest, and
+#### (D) Application to S corporations
 
-&emsp;&emsp;(C) any interest paid or accrued (directly or indirectly) by a taxable REIT subsidiary (as defined in section 856(l)) of a real estate investment trust to such trust.
+&emsp;&emsp;Rules similar to the rules of subparagraphs (A) and (C) shall apply with respect to any S corporation and its shareholders.
 
-#### (4) Related person
+#### (5) Business interest
+
+&emsp;For purposes of this subsection, the term "business interest" means any interest paid or accrued on indebtedness properly allocable to a trade or business. Such term shall not include investment interest (within the meaning of subsection (d)).
+
+#### (6) Business interest income
+
+&emsp;For purposes of this subsection, the term "business interest income" means the amount of interest includible in the gross income of the taxpayer for the taxable year which is properly allocable to a trade or business. Such term shall not include investment income (within the meaning of subsection (d)).
+
+#### (7) Trade or business
 
 &emsp;For purposes of this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "related person" means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;The term "trade or business" shall not include—
 
-#### (B) Special rule for certain partnerships
+&emsp;&emsp;&emsp;(i) the trade or business of performing services as an employee,
 
-#### (i) In general
+&emsp;&emsp;&emsp;(ii) any electing real property trade or business,
 
-&emsp;&emsp;&emsp;Any interest paid or accrued to a partnership which (without regard to this subparagraph) is a related person shall not be treated as paid or accrued to a related person if less than 10 percent of the profits and capital interests in such partnership are held by persons with respect to whom no tax is imposed by this subtitle on such interest. The preceding sentence shall not apply to any interest allocable to any partner in such partnership who is a related person to the taxpayer.
+&emsp;&emsp;&emsp;(iii) any electing farming business, or
 
-#### (ii) Special rule where treaty reduction
+&emsp;&emsp;&emsp;(iv) the trade or business of the furnishing or sale of—
 
-&emsp;&emsp;&emsp;If any treaty between the United States and any foreign country reduces the rate of tax imposed by this subtitle on a partner's share of any interest paid or accrued to a partnership, such partner's interests in such partnership shall, for purposes of clause (i), be treated as held in part by a tax-exempt person and in part by a taxable person under rules similar to the rules of paragraph (5)(B).
+&emsp;&emsp;&emsp;&emsp;(I) electrical energy, water, or sewage disposal services,
 
-#### (5) Special rules for determining whether interest is subject to tax
+&emsp;&emsp;&emsp;&emsp;(II) gas or steam through a local distribution system, or
 
-#### (A) Treatment of pass-thru entities
+&emsp;&emsp;&emsp;&emsp;(III) transportation of gas or steam by pipeline,
 
-&emsp;&emsp;In the case of any interest paid or accrued to a partnership, the determination of whether any tax is imposed by this subtitle on such interest shall be made at the partner level. Rules similar to the rules of the preceding sentence shall apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+&emsp;&emsp;&nbsp;if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by any agency or instrumentality of the United States, by a public service or public utility commission or other similar body of any State or political subdivision thereof, or by the governing or ratemaking body of an electric cooperative.
 
-#### (B) Interest treated as tax-exempt to extent of treaty reduction
+#### (B) Electing real property trade or business
 
-&emsp;&emsp;If any treaty between the United States and any foreign country reduces the rate of tax imposed by this subtitle on any interest paid or accrued by the taxpayer, such interest shall be treated as interest on which no tax is imposed by this subtitle to the extent of the same proportion of such interest as—
+&emsp;&emsp;For purposes of this paragraph, the term "electing real property trade or business" means any trade or business which is described in section 469(c)(7)(C) and which makes an election under this subparagraph. Any such election shall be made at such time and in such manner as the Secretary shall prescribe, and, once made, shall be irrevocable.
 
-&emsp;&emsp;&emsp;(i) the rate of tax imposed without regard to such treaty, reduced by the rate of tax imposed under the treaty, bears to
+#### (C) Electing farming business
 
-&emsp;&emsp;&emsp;(ii) the rate of tax imposed without regard to the treaty.
+&emsp;&emsp;For purposes of this paragraph, the term "electing farming business" means—
 
-#### (6) Other definitions and special rules
+&emsp;&emsp;&emsp;(i) a farming business (as defined in section 263A(e)(4)) which makes an election under this subparagraph, or
+
+&emsp;&emsp;&emsp;(ii) any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2) <sup>3</sup> ) with respect to which the cooperative makes an election under this subparagraph.
+
+> &emsp;&emsp;Any such election shall be made at such time and in such manner as the Secretary shall prescribe, and, once made, shall be irrevocable.
+
+#### (8) Adjusted taxable income
+
+&emsp;For purposes of this subsection, the term "adjusted taxable income" means the taxable income of the taxpayer—
+
+&emsp;&emsp;(A) computed without regard to—
+
+&emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss which is not properly allocable to a trade or business,
+
+&emsp;&emsp;&emsp;(ii) any business interest or business interest income,
+
+&emsp;&emsp;&emsp;(iii) the amount of any net operating loss deduction under section 172,
+
+&emsp;&emsp;&emsp;(iv) the amount of any deduction allowed under section 199A, and
+
+&emsp;&emsp;&emsp;(v) in the case of taxable years beginning before January 1, 2022, any deduction allowable for depreciation, amortization, or depletion, and
+
+&emsp;&emsp;(B) computed with such other adjustments as provided by the Secretary.
+
+#### (9) Floor plan financing interest defined
 
 &emsp;For purposes of this subsection—
 
-#### (A) Adjusted taxable income
+#### (A) In general
 
-&emsp;&emsp;The term "adjusted taxable income" means the taxable income of the taxpayer—
+&emsp;&emsp;The term "floor plan financing interest" means interest paid or accrued on floor plan financing indebtedness.
 
-&emsp;&emsp;&emsp;(i) computed without regard to—
+#### (B) Floor plan financing indebtedness
 
-&emsp;&emsp;&emsp;&emsp;(I) any deduction allowable under this chapter for the net interest expense,
+&emsp;&emsp;The term "floor plan financing indebtedness" means indebtedness—
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of any net operating loss deduction under section 172,
+&emsp;&emsp;&emsp;(i) used to finance the acquisition of motor vehicles held for sale or lease, and
 
-&emsp;&emsp;&emsp;&emsp;(III) any deduction allowable under section 199, and
+&emsp;&emsp;&emsp;(ii) secured by the inventory so acquired.
 
-&emsp;&emsp;&emsp;&emsp;(IV) any deduction allowable for depreciation, amortization, or depletion, and
+#### (C) Motor vehicle
 
-&emsp;&emsp;&emsp;(ii) computed with such other adjustments as the Secretary may by regulations prescribe.
+&emsp;&emsp;The term "motor vehicle" means a motor vehicle that is any of the following:
 
-#### (B) Net interest expense
+&emsp;&emsp;&emsp;(i) Any self-propelled vehicle designed for transporting persons or property on a public street, highway, or road.
 
-&emsp;&emsp;The term "net interest expense" means the excess (if any) of—
+&emsp;&emsp;&emsp;(ii) A boat.
 
-&emsp;&emsp;&emsp;(i) the interest paid or accrued by the taxpayer during the taxable year, over
+&emsp;&emsp;&emsp;(iii) Farm machinery or equipment.
 
-&emsp;&emsp;&emsp;(ii) the amount of interest includible in the gross income of such taxpayer for such taxable year.
+#### (10) Cross references
 
-> &emsp;&emsp;The Secretary may by regulations provide for adjustments in determining the amount of net interest expense.
+&emsp;(A) For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
 
-#### (C) Treatment of affiliated group
-
-&emsp;&emsp;All members of the same affiliated group (within the meaning of section 1504(a)) shall be treated as 1 taxpayer.
-
-#### (D) Disqualified guarantee
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "disqualified guarantee" means any guarantee by a related person which is—
-
-&emsp;&emsp;&emsp;&emsp;(I) an organization exempt from taxation under this subtitle, or
-
-&emsp;&emsp;&emsp;&emsp;(II) a foreign person.
-
-#### (ii) Exceptions
-
-&emsp;&emsp;&emsp;The term "disqualified guarantee" shall not include a guarantee—
-
-&emsp;&emsp;&emsp;&emsp;(I) in any circumstances identified by the Secretary by regulation, where the interest on the indebtedness would have been subject to a net basis tax if the interest had been paid to the guarantor, or
-
-&emsp;&emsp;&emsp;&emsp;(II) if the taxpayer owns a controlling interest in the guarantor.
-
-&emsp;&emsp;&nbsp;For purposes of subclause (II), except as provided in regulations, the term "a controlling interest" means direct or indirect ownership of at least 80 percent of the total voting power and value of all classes of stock of a corporation, or 80 percent of the profit and capital interests in any other entity. For purposes of the preceding sentence, the rules of paragraphs (1) and (5) of section 267(c) shall apply; except that such rules shall also apply to interest in entities other than corporations.
-
-#### (iii) Guarantee
-
-&emsp;&emsp;&emsp;Except as provided in regulations, the term "guarantee" includes any arrangement under which a person (directly or indirectly through an entity or otherwise) assures, on a conditional or unconditional basis, the payment of another person's obligation under any indebtedness.
-
-#### (E) Gross basis and net basis taxation
-
-#### (i) Gross basis tax
-
-&emsp;&emsp;&emsp;The term "gross basis tax" means any tax imposed by this subtitle which is determined by reference to the gross amount of any item of income without any reduction for any deduction allowed by this subtitle.
-
-#### (ii) Net basis tax
-
-&emsp;&emsp;&emsp;The term "net basis tax" means any tax imposed by this subtitle which is not a gross basis tax.
-
-#### (7) Coordination with passive loss rules, etc.
-
-&emsp;This subsection shall be applied before sections 465 and 469.
-
-#### (8) Treatment of corporate partners
-
-&emsp;Except to the extent provided by regulations, in applying this subsection to a corporation which owns (directly or indirectly) an interest in a partnership—
-
-&emsp;&emsp;(A) such corporation's distributive share of interest income paid or accrued to such partnership shall be treated as interest income paid or accrued to such corporation,
-
-&emsp;&emsp;(B) such corporation's distributive share of interest paid or accrued by such partnership shall be treated as interest paid or accrued by such corporation, and
-
-&emsp;&emsp;(C) such corporation's share of the liabilities of such partnership shall be treated as liabilities of such corporation.
-
-#### (9) Regulations
-
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including—
-
-&emsp;&emsp;(A) such regulations as may be appropriate to prevent the avoidance of the purposes of this subsection,
-
-&emsp;&emsp;(B) regulations providing such adjustments in the case of corporations which are members of an affiliated group as may be appropriate to carry out the purposes of this subsection,
-
-&emsp;&emsp;(C) regulations for the coordination of this subsection with section 884, and
-
-&emsp;&emsp;(D) regulations providing for the reallocation of shares of partnership indebtedness, or distributive shares of the partnership's interest income or interest expense.
+&emsp;(B) For requirement that an electing farming business use the alternative depreciation system, see section 168(g)(1)(G).
 
 #### (k) Section 6166 interest
 
@@ -752,7 +778,7 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §§11043(a), 13301(a), Dec. 22, 2017, 131 Stat. 2086, 2117.)
 
 #### References in Text
 
@@ -763,6 +789,10 @@ The date of the enactment of this subparagraph, referred to in subsec. (h)(4)(E)
 Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h)(3)(F). Pub. L. 115–97, §11043(a), added subpar. (F).
+
+Subsec. (j). Pub. L. 115–97, §13301(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to a limitation on deduction for interest on certain indebtedness of a corporation.
 
 <b>2015</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 114–113 substituted "December 31, 2016" for "December 31, 2014".
 
@@ -778,7 +808,7 @@ Subsec. (h)(5). Pub. L. 113–295, §221(a)(25)(A)(ii), struck out par. (5). Tex
 
 Subsec. (h)(4)(E)(i). Pub. L. 112–240, §204(b), substituted "Department of Veterans Affairs" for "Veterans Administration" and "Rural Housing Service" for "Rural Housing Administration".
 
-<b>2010</b>—Subsec. (f)(2)(A)(ii) to (iv). Pub. L. 111–147, §502(a)(2)(B), inserted "or" at end of cl. (ii), substitutedperiod for ", or" in cl. (iii), and struck out cl. (iv), which read as follows: "is described in subparagraph (B)."
+<b>2010</b>—Subsec. (f)(2)(A)(ii) to (iv). Pub. L. 111–147, §502(a)(2)(B), inserted "or" at end of cl. (ii), substituted period for ", or" in cl. (iii), and struck out cl. (iv), which read as follows: "is described in subparagraph (B)."
 
 Subsec. (f)(2)(B). Pub. L. 111–147, §502(a)(1), (2)(C)(i), redesignated subpar. (C) as (B), struck out ", and subparagraph (B)," after "subparagraph (A)" in introductory provisions, and struck out former subpar. (B) which related to certain obligations not included as registration-required obligations.
 
@@ -1062,6 +1092,12 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 <b>1963</b>—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §11043(b), Dec. 22, 2017, 131 Stat. 2087, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §13301(c), Dec. 22, 2017, 131 Stat. 2121, provided that: "The amendments made by this section \[amending this section and sections 381 and 382of this title\] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §152(b), Dec. 18, 2015, 129 Stat. 3066, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2014."
@@ -1074,7 +1110,7 @@ Amendment by section 221(a)(25)(A) of Pub. L. 113–295 effective Dec. 19, 2014,
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title II, §204(c), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by thissection \[amending this section\] shall apply to amounts paid or accrued after December 31, 2011."
+Pub. L. 112–240, title II, §204(c), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2011."
 
 #### Effective Date of 2010 Amendment
 
@@ -1162,7 +1198,7 @@ Transition rule.—The amendment made by this section shall not apply to any ins
 
 Amendment by section 1703(n)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-Pub. L. 104–188, title I, §1704(f)(2)(C), Aug. 20, 1996, 110 Stat. 1879, provided that: "The amendments made by this paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\]."
+Pub. L. 104–188, title I, §1704(f)(2)(C), Aug. 20, 1996, 110 Stat. 1879, provided that: "The amendments made bythis paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -1172,7 +1208,7 @@ Pub. L. 103–66, title XIII, §13228(d), Aug. 10, 1993, 107 Stat. 495, provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -1254,7 +1290,7 @@ Amendment by section 902(e)(1) of Pub. L. 99–514 applicable to taxable years e
 
 Amendment by section 1301(j)(3) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by sections 1803(a)(4) and 1810(e)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1803(a)(4) and 1810(e)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendmentrelates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -1363,4 +1399,6 @@ For provision that, for purposes of amendments by section 231(b) of Pub. L. 97�
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "section 199A(g)(3)".</i>
 

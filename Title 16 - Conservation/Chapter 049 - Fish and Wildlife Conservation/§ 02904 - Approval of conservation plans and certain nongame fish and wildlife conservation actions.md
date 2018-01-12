@@ -38,7 +38,7 @@ If the Secretary approves the conservation plan of any State under subsection (a
 
 In the absence of an approved conservation plan, and on a showing of need by the State, the Secretary may deem certain conservation actions to be nongame fish and wildlife projects for which reimbursement is available under section 2905(a)(3) of this title if they—
 
-&emsp;(1) are consistent with such of the requirements set forth in section 2903 of this title asmay be appropriate, including, but not limited to, the requirements in paragraphs (3), (4), (5), and (7) of such section; and
+&emsp;(1) are consistent with such of the requirements set forth in section 2903 of this title as may be appropriate, including, but not limited to, the requirements in paragraphs (3), (4), (5), and (7) of such section; and
 
 &emsp;(2) are substantial in character and design.
 

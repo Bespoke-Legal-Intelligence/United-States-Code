@@ -114,7 +114,7 @@
 
 (1) Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
 
-&emsp;(A) identifies each element of its networking and information technology activities which contributes directly to the Program Component Areas or benefits from the Program; and
+&emsp;(A) identifies each element of its networking and information technology activities whichcontributes directly to the Program Component Areas or benefits from the Program; and
 
 &emsp;(B) states the portion of its request for appropriations that is allocated to each such element.
 
@@ -188,7 +188,7 @@ The heads of the participating agencies, working through the National Science an
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -268,7 +268,7 @@ Pub. L. 110–69, §7024(a)(1)(B)(ii), redesignated par. (4) as (3). Former par.
 
 Subsec. (a)(3)(A). Pub. L. 110–69, §7024(a)(1)(B)(iv)(II), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "include a detailed description of the goals and priorities established by the President for the Program;".
 
-Subsec. (a)(3)(C). Pub. L. 110–69, §7024(a)(1)(B)(iv)(III), substituted "each Program Component Area" for "specific activities, including education, research, hardware and software development, and support for the establishment of the Network".
+Subsec. (a)(3)(C). Pub. L. 110–69, §7024(a)(1)(B)(iv)(III), substituted "each Program Component Area" for "specific activities, including education, research, hardwareand software development, and support for the establishment of the Network".
 
 Subsec. (a)(3)(D). Pub. L. 110–69, §7024(a)(1)(B)(iv)(IV), (V), inserted ", and for each Program Component Area," after "participating in the Program" and "and" after "applies;".
 

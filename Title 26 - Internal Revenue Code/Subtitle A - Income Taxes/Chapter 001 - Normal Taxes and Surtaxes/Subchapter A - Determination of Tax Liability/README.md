@@ -11,13 +11,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-|  |
-| :--- |
-| \[VII, VIII. Repealed.\] |
+|  |  |
+| :--- | ---: |
+| [VII.](Part%20007%20%28VII%29%20-%20Base%20Erosion%20and%20Anti-Abuse%20Tax/README.md) | Base erosion and anti-abuse tax <sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| \[VIII. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §14401(d)(1), Dec. 22, 2017, 131 Stat. 2233, added part VII.
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038, struck out part VII "Environmental tax".
 
@@ -35,6 +43,8 @@
 
 <i><sup>1</sup></i><i> Part heading amended by Pub. L. 99–514 without corresponding amendment of analysis.</i>
 
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -46,5 +56,5 @@
 - [Part 004 (IV) - Credits Against Tax](Part%20004%20%28IV%29%20-%20Credits%20Against%20Tax/README.md)
 - [Part 005 (V) - Repealed](Part%20005%20%28V%29%20-%20Repealed/README.md)
 - [Part 006 (VI) - Alternative Minimum Tax](Part%20006%20%28VI%29%20-%20Alternative%20Minimum%20Tax/README.md)
-- [Part 007 (VII) - Repealed](Part%20007%20%28VII%29%20-%20Repealed/README.md)
+- [Part 007 (VII) - Base Erosion and Anti-Abuse Tax](Part%20007%20%28VII%29%20-%20Base%20Erosion%20and%20Anti-Abuse%20Tax/README.md)
 - [Part 008 (VIII) - Repealed](Part%20008%20%28VIII%29%20-%20Repealed/README.md)

@@ -116,7 +116,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (G) The Commission investigator shall furnish a copy of the transcript (upon payment of reasonable charges for the transcription) to the witness only, except that the Commission may for good cause limit such witness to inspection of the official transcript of his testimony.
 
-(H) Any witness appearing for the taking of oral testimony pursuant to a civil investigativedemand shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
+(H) Any witness appearing for the taking of oral testimony pursuant to a civil investigative demand shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
 #### (d) Procedures for demand material
 
@@ -172,7 +172,7 @@ Subsec. (a)(3). Pub. L. 103–312, §7(a)(2), inserted before period at end "or 
 
 Subsec. (a)(7). Pub. L. 103–312, §7(a)(3), inserted before period at end "or any antitrust violation".
 
-Subsec. (a)(8). Pub. L. 103–438 amended par. (8) generally. Prior to amendment, par. (8) read as follows: "Theterm 'antitrust violation' means any unfair method of competition (within the meaning of section 45(a)(1) of this title), any violation of the Clayton Act, any violation of any other Federal statute that prohibits, or makes available to the Commission a civil remedy with respect to, any restraint upon or monopolization of interstate or foreign trade or commerce, or any activity in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in such an unfair method of competition or violation."
+Subsec. (a)(8). Pub. L. 103–438 amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The term 'antitrust violation' means any unfair method of competition (within the meaning of section 45(a)(1) of this title), any violation of the Clayton Act, any violation of any other Federal statute that prohibits, or makes available to the Commission a civil remedy with respect to, any restraint upon or monopolization of interstate or foreign trade or commerce, or any activity in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in such an unfair method of competition or violation."
 
 Pub. L. 103–312, §7(a)(4), added par. (8).
 

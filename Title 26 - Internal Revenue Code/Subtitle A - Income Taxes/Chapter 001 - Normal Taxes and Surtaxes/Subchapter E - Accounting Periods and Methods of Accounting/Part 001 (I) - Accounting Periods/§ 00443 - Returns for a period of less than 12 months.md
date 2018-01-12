@@ -16,7 +16,7 @@ A return for a period of less than 12 months (referred to in this section as "sh
 
 #### (1) General rule
 
-&emsp;If a return is made under paragraph (1) of subsection (a), the taxable income for the short period shall be placed on an annual basis by multiplying the modified taxable income for such short period by 12, dividing the result by the number of months in the short period. The tax shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months.
+&emsp;If a return is made under paragraph (1) of subsection (a), the taxable income for the short period shall be placed on an annual basisby multiplying the modified taxable income for such short period by 12, dividing the result by the number of months in the short period. The tax shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months.
 
 #### (2) Exception
 
@@ -124,7 +124,7 @@ Subsec. (e)(5). Pub. L. 94–455, §1607(b)(1)(C), substituted "section 857(b)(2
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholderswith or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -170,5 +170,5 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(3) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

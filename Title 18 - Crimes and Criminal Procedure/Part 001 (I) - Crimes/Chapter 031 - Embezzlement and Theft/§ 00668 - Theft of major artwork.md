@@ -30,7 +30,7 @@ Offenses.—A person who—
 
 > shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(Added Pub. L. 103–322, title XXXII, §320902(a), Sept. 13, 1994, 108 Stat. 2123; amended Pub. L. 104–294, title VI, §604(b)(18), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 103–322, title XXXII, §320902(a), Sept. 13, 1994, 108 Stat. 2123; amended Pub. L.104–294, title VI, §604(b)(18), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Amendments
 

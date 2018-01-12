@@ -8,13 +8,15 @@ The President is authorized, by order in writing, to transfer at any time the wh
 
 Section was formerly classified to section 602 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+Section is based on section 12 of act Feb. 14, 1903, as originally enacted. Section 12 of the act was amended generally by Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549, and forms the basis of section 1511 of this title.
+
 #### Change of Name
 
 "United States Postal Service" substituted for "Post Office Department" in text pursuant to Pub. L. 91–375, §§4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 Department of Defense substituted for Departments of the Army and Navy by act July 26, 1947, as amended Aug. 10, 1949.
 
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 #### Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited
 
@@ -26,7 +28,7 @@ Pub. L. 98–166, title I, §101, Nov. 28, 1983, 97 Stat. 1076, provided that: "
 
 #### Civil Land Remote Sensing Satellite System; Termination
 
-Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, §5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that: "Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 \[Pub. L. 97–324, set out as a note below\], the Secretary of Commerce shall not transfer the ownership or management of any civil land, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
+Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, §5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that: "Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 \[Pub. L. 97–324, set out as a note below\], the Secretary of Commerce shall not transfer the ownership or management of any civilland, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
 
 &emsp;"(1) the Secretary of Commerce or his designee has presented, in writing, to the Speaker of the House of Representatives and the President of the Senate, and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a comprehensive statement of recommended policies, procedures, conditions, and limitations to which any transfer should be subject; and
 
@@ -42,7 +44,7 @@ Pub. L. 97–324, title II, §201, Oct. 15, 1982, 96 Stat. 1601, as amended by P
 
 &emsp;"(B) Determine and describe the equipment, software, and data inventory that could be transferred to the private sector.
 
-&emsp;"(C) Compare various feasible financial and organizational approaches for such a transfer. Criteria for the comparison should include considerations such as: maintenance of data continuity; maintenance ofUnited States leadership; national security; international obligations; potential for market growth; marketing ability; sunk and projected cost to the Government; independence of subsidy or financial guarantee from the Government; potential of financial return to the Government; and price of data to users. The following institutional alternatives should be compared: (i) wholly private ownership and operation of the system by an entity competitively selected; (ii) phased-in Government/private ownership and operation; (iii) a legislatively chartered privately owned corporation; and (iv) continued ownership and operation by the Federal Government.
+&emsp;"(C) Compare various feasible financial and organizational approaches for such a transfer. Criteria for the comparison should include considerations such as: maintenance of data continuity; maintenance of United States leadership; national security; international obligations; potential for market growth; marketing ability; sunk and projected cost to the Government; independence of subsidy or financial guarantee from the Government; potential of financial return to the Government; and price of data to users. The following institutional alternatives should be compared: (i) wholly private ownership and operation of the system by an entity competitively selected; (ii) phased-in Government/private ownership and operation; (iii) a legislatively chartered privately owned corporation; and (iv) continued ownership and operation by the Federal Government.
 
 > The Secretary shall complete these studies and report on them to the Congress by February 1, 1983.
 

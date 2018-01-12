@@ -10,7 +10,7 @@ Except as provided in subsection (d)(2), the risk-based premium to be assessed u
 
 #### (1) Low-risk rate
 
-&emsp;With respect to an eligible borrower seeking to obtain a loan for attendance at an eligibleinstitution that has a default rate of not to exceed five percent, such borrower shall be assessed a risk-based premium in an amount equal to 6 percent of the principal amount of the loan.
+&emsp;With respect to an eligible borrower seeking to obtain a loan for attendance at an eligible institution that has a default rate of not to exceed five percent, such borrower shall be assessed a risk-based premium in an amount equal to 6 percent of the principal amount of the loan.
 
 #### (2) Medium-risk rate
 

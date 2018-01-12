@@ -166,7 +166,7 @@ In general.—Subject to paragraph (2), the amendments made by this section \[am
 
 "(2)
 
-Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds)is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 1997 Amendment
 

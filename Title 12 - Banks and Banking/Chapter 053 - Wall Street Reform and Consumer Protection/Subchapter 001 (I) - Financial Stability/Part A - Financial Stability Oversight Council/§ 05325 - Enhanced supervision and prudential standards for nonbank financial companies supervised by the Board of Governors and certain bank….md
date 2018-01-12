@@ -126,7 +126,7 @@
 
 #### (e) Concentration limits
 
-In order to limit the risks that the failure of any individual company could pose to nonbank financial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in section 5365 of this title.
+In order to limit the risks that the failure of any individual company could pose to nonbankfinancial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in section 5365 of this title.
 
 #### (f) Enhanced public disclosures
 
@@ -134,7 +134,7 @@ The Council may make recommendations to the Board of Governors to require period
 
 #### (g) Short-term debt limits
 
-The Council may make recommendations to the Board of Governors to require short-termdebt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
+The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
 (Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403.)
 

@@ -86,7 +86,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 #### (i) Formula
 
-&emsp;&emsp;&emsp;Such estimated grant amounts shall be determined by a formula, which shall be developed by the Secretary, by regulation, not later than the expiration of the 2-year period beginning upon May 20, 2009, that is based upon factors that are appropriate to allocate funds to meet the goals and objectives of this part.
+&emsp;&emsp;&emsp;Such estimated grant amounts shall be determined by a formula, which shall bedeveloped by the Secretary, by regulation, not later than the expiration of the 2-year period beginning upon May 20, 2009, that is based upon factors that are appropriate to allocate funds to meet the goals and objectives of this part.
 
 #### (ii) Combinations or consortia
 

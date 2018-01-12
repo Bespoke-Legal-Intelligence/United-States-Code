@@ -198,7 +198,7 @@ Collection of Amounts Owed.—
 
 &emsp;"(1)
 
-In general.—Under regulations issued by the Administrator of General Services and upon written request of a Federal contractor, the head of any Federal agency or a disbursing official of the UnitedStates may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
+In general.—Under regulations issued by the Administrator of General Services and upon written request of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
 
 &emsp;"(2)
 
@@ -224,7 +224,7 @@ Member; uniformed service.—Each of the terms 'member' and 'uniformed service' 
 
 Regulations.—Within 270 days after the date of the enactment of this Act \[Oct. 19, 1998\], the Administrator of General Services shall promulgate regulations implementing this section, that—
 
-&emsp;"(1) make the use of the travel charge card established pursuant to the United States Travel and Transportation System and Expense Control System, or any Federal contractor-issued travel charge card, mandatory for all payments of expenses of official Government travel pursuant to this section;
+&emsp;"(1) make the use of the travel charge card established pursuant to the United States Travel and Transportation System and Expense Control System,or any Federal contractor-issued travel charge card, mandatory for all payments of expenses of official Government travel pursuant to this section;
 
 &emsp;"(2) specify the procedures for effecting under subsection (d) a deduction from pay owed to an employee, and ensure that the due process protections provided to employees under such procedures are no less than the protections provided to employees pursuant to section 3716 of title 31, United States Code;
 
@@ -302,7 +302,7 @@ Executive agency.—The term 'executive agency' means an agency as that term is 
 
 Travel charge card.—The term 'travel charge card' means any Federal contractor-issued travel charge card that is individually billed to each card holder."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Definitions
 

@@ -12,7 +12,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(B) is limited by an approved application under section 355 of this title to use under the professional supervision of a practitioner licensed by law to administer such drug;
 
-> shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription or by oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
+> shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription orby oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
 (2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (l), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
 
@@ -92,7 +92,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(B) Drug manufacturers or authorized distributors of record shall store drug samples under conditions that will maintain their stability, integrity, and effectiveness and will assure that the drug samples will be free of contamination, deterioration, and adulteration.
 
-&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address ofeach of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
+&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
 
 &emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
 
@@ -168,7 +168,7 @@ Authorized fees of secretary.—If a State does not establish a licensing progra
 
 State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
 
-(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution"means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution" means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
 
 &emsp;(A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
 
@@ -204,7 +204,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 &emsp;&emsp;&emsp;(I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
 
-&emsp;&emsp;&emsp;(II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+&emsp;&emsp;&emsp;(II) does not alter the primary container or label of the product as purchased fromthe manufacturer or wholesale distributor; and
 
 &emsp;&emsp;(iv) in the case of a medical convenience kit that includes a product, the product is—
 
@@ -280,7 +280,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b, 360ccc, or 360ccc–1 of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
 
-(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement "Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.". A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
+(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement "Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.". A drug to which paragraph (1) doesnot apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
 
 #### (g) Regulation of combination products
 
@@ -332,7 +332,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (4) For purposes of paragraph (3), an approved constituent part is—
 
-&emsp;(A) a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordance with paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
+&emsp;(A) a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordancewith paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
 
 &emsp;(B) a device constituent part approved under section 360e of this title that is referenced by the sponsor and that is available for use by the Secretary under section 360j(h)(4) of this title; or
 
@@ -366,7 +366,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(v) Section 360cc(a) of this title.
 
-(D) Notwithstanding any other provision of this subsection, an application or request forclassification for a combination product described in subparagraph (A) shall be considered an application submitted under section 355(b)(2) of this title for purposes of section 271(e)(2)(A) of title 35.
+(D) Notwithstanding any other provision of this subsection, an application or request for classification for a combination product described in subparagraph (A) shall be considered an application submitted under section 355(b)(2) of this title for purposes of section 271(e)(2)(A) of title 35.
 
 (6) Nothing in this subsection shall be construed as prohibiting a sponsor from submitting separate applications for the constituent parts of a combination product, unless the Secretary determines that a single application is necessary.
 
@@ -386,7 +386,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(I) ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
 
-&emsp;(II) ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
+&emsp;(II) ensure that each consulting agency center has completed its premarket review andprovided the results of such review to the primary agency center in a timely manner; and
 
 &emsp;(III) ensure that each consulting center follows the guidance described in clause (vi) and advises, as appropriate, on other relevant regulations, guidances, and policies.
 
@@ -410,7 +410,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
-(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent withthe requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
+(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
 (G) Not later than one year after October 26, 2002 (except with respect to clause (iv), beginning not later than one year after December 13, 2016), and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
 
@@ -442,7 +442,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(D) The terms "premarket review" and "reviews" include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act \[42 U.S.C. 262\], including with respect to investigational use of the product.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat.3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
 
 #### References in Text
 

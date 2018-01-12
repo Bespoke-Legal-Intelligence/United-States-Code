@@ -42,9 +42,9 @@
 
 (3) For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
 
-(4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
+(4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in theTreasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547.)
 
 Historical and Revision Notes
 
@@ -138,9 +138,9 @@ Pub. L. 105–206, title I, §1103(d), July 22, 1998, 112 Stat. 709, provided th
 
 #### Waiver of Requirements
 
-Pub. L. 101–576, title III, §304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: "The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991."
+Pub. L. 101–576, title III, §304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: "The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financialstatement submitted by an agency for fiscal years 1990 and 1991."
 
 #### Time Limit for Resolving Pending and New Audits
 
-Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: "All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved notlater than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months."
+Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: "All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months."
 

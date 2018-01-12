@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) many problems and opportunities for development in modern diplomacy lie in scientific and technological fields;
 
-&emsp;(3) in the formulation, implementation, and evaluation of the technological aspects of United States foreign policy, the United States Government should seek out and consult with both public and private industrial, academic, and research institutions concerned with modern technology; and
+&emsp;(3) in the formulation, implementation, and evaluation of the technological aspects of United States foreign policy, the UnitedStates Government should seek out and consult with both public and private industrial, academic, and research institutions concerned with modern technology; and
 
 &emsp;(4) the effective use of science and technology in international relations for the mutual benefit of all countries requires the development and use of the skills and methods of long-range planning.
 

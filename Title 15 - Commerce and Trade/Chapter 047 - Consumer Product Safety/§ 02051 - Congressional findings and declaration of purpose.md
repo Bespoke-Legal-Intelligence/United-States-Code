@@ -4,7 +4,7 @@
 
 &emsp;(1) an unacceptable number of consumer products which present unreasonable risks of injury are distributed in commerce;
 
-&emsp;(2) complexities of consumer products and the diverse nature and abilities of consumers using them frequently result in an inability of users to anticipate risks and to safeguard themselves adequately;
+&emsp;(2) complexities of consumer products and the diverse nature and abilities of consumers using them frequently result in an inability ofusers to anticipate risks and to safeguard themselves adequately;
 
 &emsp;(3) the public should be protected against unreasonable risks of injury associated with consumer products;
 
@@ -36,7 +36,7 @@ In general.—Except as otherwise specifically provided in this Act \[see Short 
 
 "(2)
 
-Certain delayed effective dates.—The amendments made by sections 103(c) \[amending section 2063 of this title\] and 214(a)(2) \[amending section 2064 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act. Subsection (c) of section 42 of the Consumer Product Safety Act \[section 2089(c) of this title\], as added by section 232 of this Act, and the amendments made by sections 216 \[amendingsections 2066 and 2068 of this title\] and 223(b) \[amending section 2066 of this title\] shall take effect on the date that is 30 days after the date of enactment of this Act."
+Certain delayed effective dates.—The amendments made by sections 103(c) \[amending section 2063 of this title\] and 214(a)(2) \[amending section 2064 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act. Subsection (c) of section 42 of the Consumer Product Safety Act \[section 2089(c) of this title\], as added by section 232 of this Act, and the amendments made by sections 216 \[amending sections 2066 and 2068 of this title\] and 223(b) \[amending section 2066 of this title\] shall take effect on the date that is 30 days after the date of enactment of this Act."
 
 #### Effective Date
 
@@ -104,7 +104,7 @@ Pub. L. 110–314, §2(a), Aug. 14, 2008, 122 Stat. 3017, provided that:
 
 Defined Terms.—As used in this Act \[see Short Title of 2008 Amendment note above\]—
 
-&emsp;"(1) the term 'appropriate Congressional committees' means the Committee on Energy and Commerce of the House of Representatives and the Committeeon Commerce, Science, and Transportation of the Senate; and
+&emsp;"(1) the term 'appropriate Congressional committees' means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
 
 &emsp;"(2) the term 'Commission' means the Consumer Product Safety Commission."
 

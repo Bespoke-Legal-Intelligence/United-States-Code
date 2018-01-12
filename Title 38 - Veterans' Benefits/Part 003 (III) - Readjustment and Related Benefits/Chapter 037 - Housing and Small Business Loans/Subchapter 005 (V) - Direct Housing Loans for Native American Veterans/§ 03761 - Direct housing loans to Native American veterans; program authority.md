@@ -2,7 +2,7 @@
 
 (a) The Secretary shall make direct housing loans to Native American veterans. The purpose of such loans is to permit such veterans to purchase, construct, or improve dwellings on trust land. The Secretary shall make such loans in accordance with the provisions of this subchapter.
 
-(b) The Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
+(b) The Secretary shall, to the extent practicable, make direct housing loans to NativeAmerican veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
 
 (Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, §402(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–454, title IV, §407, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 109–233, title I, §103(a), (f)(2), June 15, 2006, 120 Stat. 399, 400.)
 

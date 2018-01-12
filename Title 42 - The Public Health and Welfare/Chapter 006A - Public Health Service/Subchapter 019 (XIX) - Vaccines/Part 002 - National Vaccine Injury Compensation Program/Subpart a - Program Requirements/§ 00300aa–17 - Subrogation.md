@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Upon payment of compensation to any petitioner under the Program, the trust fund which has been established to provide such compensation shall be subrograted <sup>1</sup> to all rights of the petitioner with respect to the vaccine-related injury or death for which compensation was paid, except that the trust fund may not recover under such rights an amount greater than the amount of compensation paid to the petitioner.
+Upon payment of compensation to any petitioner under the Program, the trust fund which has been established to provide such compensation shall be subrograted <sup>1</sup> to all rights of the petitioner with respect to the vaccine-related injury or death for which compensation was paid, except that the trust fund may not recoverunder such rights an amount greater than the amount of compensation paid to the petitioner.
 
 #### (b) Disposition of amounts recovered
 

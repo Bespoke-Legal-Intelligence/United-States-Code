@@ -44,7 +44,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "an individual to whom" for "an individual to which".
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to coordination of United States and certain possession individual income taxes for provisions relating to coordination of United States and Guam individual income taxes.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to coordination of United States and certain possession individual income taxesfor provisions relating to coordination of United States and Guam individual income taxes.
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 

@@ -62,7 +62,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (3) Administration
 
-&emsp;The Secretary may not impose or enforce any prenotification requirement, or similar administrative requirement not otherwise in effect on May 13, 2002, that has the effect of preventing a processor from electing to forfeit the loan collateral (of an acceptable grade and quality) on the maturity of the loan.
+&emsp;The Secretary may not impose or enforce any prenotification requirement, or similaradministrative requirement not otherwise in effect on May 13, 2002, that has the effect of preventing a processor from electing to forfeit the loan collateral (of an acceptable grade and quality) on the maturity of the loan.
 
 #### (e) Loans for in-process sugar
 
@@ -106,7 +106,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (6) Term of loan
 
-&emsp;The term of a loan made under this subsection for a quantity of in-process sugars andsyrups, when combined with the term of a loan made with respect to the raw cane sugar or refined beet sugar derived from the in-process sugars and syrups, may not exceed 9 months, consistent with subsection (c).
+&emsp;The term of a loan made under this subsection for a quantity of in-process sugars and syrups, when combined with the term of a loan made with respect to the raw cane sugar or refined beet sugar derived from the in-process sugars and syrups, may not exceed 9 months, consistent with subsection (c).
 
 #### (f) Avoiding forfeitures; Corporation inventory disposition
 
@@ -142,7 +142,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Other States
 
-&emsp;&emsp;The Secretary may require each producer of sugarcane or sugar beets not covered by subparagraph (A) to report, in a manner prescribed by the Secretary, the yields of, and acres planted to, sugarcane or sugar beets, respectively, of the producer.
+&emsp;&emsp;The Secretary may require each producer of sugarcane or sugar beets not covered bysubparagraph (A) to report, in a manner prescribed by the Secretary, the yields of, and acres planted to, sugarcane or sugar beets, respectively, of the producer.
 
 #### (3) Duty of importers to report
 
@@ -184,7 +184,7 @@ For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Sc
 
 This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.
 
-(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L.107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687.)
+(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L. 107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687.)
 
 #### References in Text
 

@@ -16,7 +16,7 @@ Exception.—This section shall not apply in the case of any Presidential record
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code 1964 ed., §397(e) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; July 12, 1952, ch. 703, §1(p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
+Based on 44 U.S. Code 1964 ed., §397(e) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; July 12, 1952, ch. 703, §1(p), 66 Stat.594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
 
 #### Prior Provisions
 
@@ -98,7 +98,7 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 &emsp;"(7) the need to give to Richard M. Nixon, or his heirs, for his sole custody and use, tape recordings and other materials which are not likely to be related to the need described in paragraph (1) and are not otherwise of general historical significance.
 
-"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
+"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effectuntil the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
 
 "(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7).
 
@@ -108,7 +108,7 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 "
 
-Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdictionto hear challenges to the legal or constitutional validity of this title or of any regulation issued under the authority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases.
+Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdiction to hear challenges to the legal or constitutional validity of this title or of any regulation issued under the authority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases.
 
 "(b) If, under the procedures established by subsection (a), a judicial decision is rendered that a particular provision of this title, or a particular regulation issued under the authority granted by this title, is unconstitutional or otherwise invalid, such decision shall not affect in any way the validity or enforcement of any other provision of this title or any regulation issued under the authority granted by this title.
 

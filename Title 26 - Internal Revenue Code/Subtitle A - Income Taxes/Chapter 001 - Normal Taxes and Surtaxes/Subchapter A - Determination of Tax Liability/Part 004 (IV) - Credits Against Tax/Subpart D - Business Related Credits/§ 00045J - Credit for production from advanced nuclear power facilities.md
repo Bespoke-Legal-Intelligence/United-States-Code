@@ -16,7 +16,7 @@ For purposes of section 38, the advanced nuclear power facility production credi
 
 #### (1) In general
 
-&emsp;The amount of credit which would (but for this subsection and subsection (c)) be allowedwith respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as—
+&emsp;The amount of credit which would (but for this subsection and subsection (c)) be allowed with respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as—
 
 &emsp;&emsp;(A) the national megawatt capacity limitation allocated to the facility, bears to
 
@@ -88,7 +88,7 @@ The date of the enactment of this section and the date of the enactment of this 
 
 <b>2007</b>—Subsec. (b)(2). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The national megawatt capacity limitation shall be 6,000 megawatts."
 
-<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section."
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior toamendment, text read as follows: "Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section."
 
 Subsec. (e). Pub. L. 109–135, §402(d)(2), struck out "(2)," after "(1),".
 

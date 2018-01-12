@@ -236,6 +236,10 @@ Pub. L. 94–265, title IV, §404(b), Apr. 13, 1976, 90 Stat. 361, provided that
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
 
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
+
 #### Construction of Amendment by Pub. L. 102–587
 
 Pub. L. 103–238, §24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: "The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587, amending this section\]—
@@ -250,7 +254,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70,title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Termination of Advisory Committees
 

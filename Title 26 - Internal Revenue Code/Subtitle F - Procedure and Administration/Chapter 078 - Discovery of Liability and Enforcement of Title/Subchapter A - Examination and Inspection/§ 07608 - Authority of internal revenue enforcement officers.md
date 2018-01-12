@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms
 
-Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible may—
+Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
 
 &emsp;(1) carry firearms;
 
@@ -20,7 +20,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;(A) to execute and serve search warrants and arrest warrants, and serve subpoenas and summonses issued under authority of the United States;
 
-&emsp;(B) to make arrests without warrant for any offense against the United States relating to the internal revenue laws committed in his presence, or for any felony cognizable under such laws if he has reasonable grounds to believe that the person to be arrested has committed or is committing any such felony; and
+&emsp;(B) to make arrests without warrant for any offense against the United States relating tothe internal revenue laws committed in his presence, or for any felony cognizable under such laws if he has reasonable grounds to believe that the person to be arrested has committed or is committing any such felony; and
 
 &emsp;(C) to make seizures of property subject to forfeiture under the internal revenue laws.
 
@@ -32,7 +32,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(A) sums authorized to be appropriated for the Service may be used—
 
-&emsp;&emsp;&emsp;(i) to purchase property, buildings, and other facilities, and to lease space, withinthe United States, the District of Columbia, and the territories and possessions of the United States without regard to—
+&emsp;&emsp;&emsp;(i) to purchase property, buildings, and other facilities, and to lease space, within the United States, the District of Columbia, and the territories and possessions of the United States without regard to—
 
 &emsp;&emsp;&emsp;&emsp;(I) sections 1341 and 3324 of title 31, United States Code,
 
@@ -106,7 +106,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;The term "undercover investigative operation" means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
 
-(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30,1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, §401(a), Oct. 3, 2008, 122 Stat. 3875; Pub. L. 111–350, §5(f), Jan. 4, 2011, 124 Stat. 3848.)
+(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, §401(a), Oct. 3, 2008, 122 Stat. 3875; Pub. L. 111–350, §5(f), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Prior Provisions
 
@@ -186,7 +186,7 @@ Pub. L. 104–168, title XII, §1205(c)(3), July 30, 1996, 110 Stat. 1472, provi
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–690, title VII, §7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\]."
+Pub. L. 100–690, title VII, §7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, providedthat: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\]."
 
 #### Effective Date of 1962 Amendment
 

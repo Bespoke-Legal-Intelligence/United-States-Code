@@ -22,7 +22,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 &emsp;In carrying out the assessment program, the Secretary shall conduct any appropriate activity to carry out an ongoing assessment of water use in hydrologic accounting units and major aquifer systems located in the United States, including—
 
-&emsp;&emsp;(A) the maintenance of a comprehensive national water use inventory to enhance thelevel of understanding with respect to the effects of spatial and temporal patterns of water use on the availability and sustainable use of water resources;
+&emsp;&emsp;(A) the maintenance of a comprehensive national water use inventory to enhance the level of understanding with respect to the effects of spatial and temporal patterns of water use on the availability and sustainable use of water resources;
 
 &emsp;&emsp;(B) the incorporation of water use science principles, with an emphasis on applied research and statistical estimation techniques in the assessment of water use;
 

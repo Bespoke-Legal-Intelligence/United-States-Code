@@ -100,7 +100,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 #### (ii) Donations
 
-&emsp;&emsp;&emsp;A determination by the Director of whether an entity referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
+&emsp;&emsp;&emsp;A determination by the Director of whether an entity referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard towhether the entity accepts voluntary donations regarding the provision of services to the public.
 
 #### (C) Nonapplication of certain requirements
 
@@ -164,7 +164,7 @@ The Director may make an award under subsection (a) only if an application for t
 
 #### (m) Allocation of awards
 
-In making awards under subsection (a), the Director shall give priority to an applicant thatagrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
+In making awards under subsection (a), the Director shall give priority to an applicant that agrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
 
 #### (n) Duration of award
 
@@ -254,7 +254,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) retention in the appropriate level and duration of services;
 
-&emsp;&emsp;&emsp;(iv) increased access to the use of medications approved by the Food and Drug Administration for the treatment of substance use disorders in combination with counseling; and
+&emsp;&emsp;&emsp;(iv) increased access to the use of medications approved by the Food and DrugAdministration for the treatment of substance use disorders in combination with counseling; and
 
 &emsp;&emsp;&emsp;(v) other appropriate measures.
 

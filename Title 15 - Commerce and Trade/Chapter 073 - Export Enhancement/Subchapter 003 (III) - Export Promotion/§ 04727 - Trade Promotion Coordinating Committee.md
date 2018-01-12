@@ -98,13 +98,13 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
 
-&emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for exportpromotion activities and the interagency working groups on energy of the TPCC.
+&emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
 (Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180.)
 
 #### References in Text
 
-Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
+Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies andOpen Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 
 (a) establish a set of priorities for Federal activities in support of U.S. exports and explain the rationale for the priorities;
 
-(b) review current Federal programs designed to promote the sale of U.S. exports in light of the prioritiesestablished under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
+(b) review current Federal programs designed to promote the sale of U.S. exports in light of the priorities established under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
 
 (c) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
@@ -446,7 +446,41 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Council on Doing Business in Africa
 
-Term of President's Advisory Council on Doing Business in Africa extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Council on Doing Business in Africa extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of President's Advisory Council on Doing Business in Africa was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
+
+#### Ex. Ord. No. 13797. Establishment of Office of Trade and Manufacturing Policy
+
+Ex. Ord. No. 13797, Apr. 29, 2017, 82 F.R. 20821, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. The Office of Trade and Manufacturing Policy (OTMP) is hereby established within the White House Office. The OTMP shall consist of a Director selected by the President and such staff as deemed necessary by the Assistant to the President and Chief of Staff.
+
+Sec. 2. <i>Mission</i>. The mission of the OTMP is to defend and serve American workers and domestic manufacturers while advising the President on policies to increase economic growth, decrease the trade deficit, and strengthen the United States manufacturing and defense industrial bases.
+
+Sec. 3. <i>Responsibilities</i>. The OTMP shall:
+
+(a) advise the President on innovative strategies and promote trade policies consistent with the President's stated goals;
+
+(b) serve as a liaison between the White House and the Department of Commerce and undertake trade-related special projects as requested by the President; and
+
+(c) help improve the performance of the executive branch's domestic procurement and hiring policies, including through the implementation of the policies described in Executive Order 13788 of April 18, 2017 (Buy American and Hire American).
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment
 
@@ -454,7 +488,7 @@ Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Winning the future and creating an economy that's built to last will require the Federal Government towisely allocate scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. Creating good, high-paying jobs in the United States and ensuring sustainable economic growth are the top priorities of my Administration. To accomplish these goals, we must ensure that U.S. businesses increase their exports of goods, services, and agricultural products, and that foreign companies recognize the United States as an attractive place to invest and to open businesses. While this growth will be fueled by the private sector, the Federal Government must do its part to facilitate trade and investment.
+Winning the future and creating an economy that's built to last will require the Federal Government to wisely allocate scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. Creating good, high-paying jobs in the United States and ensuring sustainable economic growth are the top priorities of my Administration. To accomplish these goals, we must ensure that U.S. businesses increase their exports of goods, services, and agricultural products, and that foreign companies recognize the United States as an attractive place to invest and to open businesses. While this growth will be fueled by the private sector, the Federal Government must do its part to facilitate trade and investment.
 
 Executive Order 13534 of March 11, 2010, established the Export Promotion Cabinet to coordinate the development and implementation of the National Export Initiative (NEI) to improve conditions that directly affect the private sector's ability to export and to help meet my Administration's goal of doubling exports over 5 years. Pursuant to the terms of the Executive Order, the Export Promotion Cabinet conducts its work in coordination with the Trade Promotion Coordinating Committee (TPCC). The TPCC, chaired by the Secretary of Commerce, was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993. The NEI has used Government resources and policies to increase exports at a pace consistent with the goal of doubling exports by the end of 2014. The NEI has accomplished this by opening up foreign markets for U.S. exports, enhancing enforcement of our trade laws, providing needed export financing, advocating on behalf of U.S. firms, and otherwise facilitating U.S. exports. But we must do more.
 

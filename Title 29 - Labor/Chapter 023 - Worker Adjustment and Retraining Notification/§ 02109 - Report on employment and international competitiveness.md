@@ -12,3 +12,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date
+
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
+

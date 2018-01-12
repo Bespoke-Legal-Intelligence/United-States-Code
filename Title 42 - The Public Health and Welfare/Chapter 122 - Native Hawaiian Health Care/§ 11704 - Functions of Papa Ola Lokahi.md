@@ -42,7 +42,7 @@ Papa Ola Lokahi shall act as a statewide infrastructure to provide technical sup
 
 Papa Ola Lokahi is authorized to enter into agreements or memoranda of understanding with relevant agencies or organizations that are capable of providing resources or services to the Native Hawaiian health care systems.
 
-(Pub. L. 100–579, §5, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2305, Nov. 18, 1988, 102Stat. 4225; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §5, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2305, Nov. 18, 1988, 102 Stat. 4225; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
 #### Codification
 

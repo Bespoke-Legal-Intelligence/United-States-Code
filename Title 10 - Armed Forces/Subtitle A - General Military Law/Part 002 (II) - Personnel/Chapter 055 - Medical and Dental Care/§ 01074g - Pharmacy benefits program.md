@@ -22,7 +22,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (F)(i) The Secretary may implement procedures to place selected over-the-counter drugs on the uniform formulary and to make such drugs available to eligible covered beneficiaries. An over-the-counter drug may be included on the uniform formulary only if the Pharmacy and Therapeutics Committee established under subsection (b) finds that the over-the-counter drug is cost effective and clinically effective. If the Pharmacy and Therapeutics Committee recommends an over-the-counter drug for inclusion on the uniform formulary, the drug shall be considered to be in the same therapeutic class of pharmaceutical agents, as determined by the Committee, as similar prescription drugs.
 
-(ii) Regulations prescribed by the Secretary to carry out clause (i) shall include the followingwith respect to over-the-counter drugs included on the uniform formulary:
+(ii) Regulations prescribed by the Secretary to carry out clause (i) shall include the following with respect to over-the-counter drugs included on the uniform formulary:
 
 &emsp;(I) A determination of the means and conditions under paragraphs (5) and (6) through which over-the-counter drugs will be available to eligible covered beneficiaries and the amount of cost sharing that such beneficiaries will be required to pay for over-the-counter drugs, if any, except that no such cost sharing may be required for a member of a uniformed service on active duty.
 
@@ -34,33 +34,33 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (5) The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through the national mail-order pharmacy program under terms and conditions that shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).
 
-(6)(A) The Secretary, in the regulations prescribed under subsection (h), shall establish cost-sharing requirements under the pharmacy benefits program. In accordance with subparagraph (C), such cost-sharing requirements shall consist of the following:
+(6)(A) In the case of any of the years 2018 through 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be determined in accordance with the following table:
 
-&emsp;(i) With respect to each supply of a prescription covering not more than 30 days that is obtained by a covered beneficiary under the TRICARE retail pharmacy program—
+| For: | The cost-sharing amount for a 30-day supply of a retail generic is: | The cost-sharing amount for a 30-day supply of a retail formulary is: | The cost-sharing amount for a 90-day supply of a mail order generic is: | The cost-sharing amount for a 90-day supply of a mail order formulary is: | The cost-sharing amount for a 90-day supply of a mail order non-formulary is: |
+| --- | --- | --- | --- | --- | --- |
+| 2018 | $11 | $28 | $7 | $24 | $53 |
+|  |  |  |  |  |  |
+| 2019 | $11 | $28 | $7 | $24 | $53 |
+|  |  |  |  |  |  |
+| 2020 | $13 | $33 | $10 | $29 | $60 |
+|  |  |  |  |  |  |
+| 2021 | $13 | $33 | $10 | $29 | $60 |
+|  |  |  |  |  |  |
+| 2022 | $14 | $38 | $12 | $34 | $68 |
+|  |  |  |  |  |  |
+| 2023 | $14 | $38 | $12 | $34 | $68 |
+|  |  |  |  |  |  |
+| 2024 | $16 | $43 | $13 | $38 | $76 |
+|  |  |  |  |  |  |
+| 2025 | $16 | $43 | $13 | $38 | $76 |
+|  |  |  |  |  |  |
+| 2026 | $16 | $48 | $14 | $44 | $85 |
+|  |  |  |  |  |  |
+| 2027 | $16 | $48 | $14 | $44 | $85 |
 
-&emsp;&emsp;(I) in the case of generic agents, $10; <sup>1</sup>
+(B) For any year after 2027, the cost-sharing amounts under this subsection for eligible covered beneficiaries shall be equal to the cost-sharing amounts for the previous year adjusted by an amount, if any, determined by the Secretary to reflect changes in the costs of pharmaceutical agents and prescription dispensing, rounded to the nearest dollar.
 
-&emsp;&emsp;(II) in the case of formulary agents, $24.
-
-&emsp;(ii) With respect to each supply of a prescription covering not more than 90 days that is obtained by a covered beneficiary under the national mail-order pharmacy program—
-
-&emsp;&emsp;(I) in the case of generic agents, $0;
-
-&emsp;&emsp;(II) in the case of formulary agents, $20; and
-
-&emsp;&emsp;(III) in the case of nonformulary agents, $49.
-
-(B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
-
-(C)(i) Beginning October 1, 2016, the amount of any increase in a cost-sharing amount specified in subparagraph (A) in a year may not exceed the amount equal to the percentage of such cost-sharing amount at the time of such increase equal to the percentage by which retired pay is increased under section 1401a of this title in that year.
-
-(ii) The amount of the increase otherwise provided for a year by clause (i) shall be computed as follows:
-
-&emsp;(I) If the amount of the increase is equal to or greater than 50 cents, the amount of the increase shall be rounded to the nearest multiple of $1.
-
-&emsp;(II) If the amount of the increase is less than 50 cents, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases under this clause for a year is equal to or greater than 50 cents.
-
-(iii) The provisions of this subparagraph shall not apply to any increase in cost-sharing amounts described in clause (i) that is made by the Secretary of Defense on or after October 1, 2022. The Secretary may increase copayments, as considered appropriate by the Secretary, beginning on October 1, 2022.
+(C) Notwithstanding subparagraphs (A) and (B), the cost-sharing amounts under this subsection for a dependent of a member of the uniformed services who dies while on active duty, a member retired under chapter 61 of this title, or a dependent of a member retired under such chapter shall be equal to the cost-sharing amounts, if any, for 2017.
 
 (7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
@@ -79,6 +79,12 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 &emsp;(i) Medications that are for acute care needs.
 
 &emsp;(ii) Such other medications as the Secretary determines appropriate.
+
+(10) Notwithstanding paragraphs (2), (5), and (6), in order to encourage the use by covered beneficiaries of pharmaceutical agents that provide the best clinical effectiveness to covered beneficiaries and the Department of Defense (as determined by the Secretary, including considerations of better care, healthier people, and smarter spending), the Secretary may, upon the recommendation of the Pharmacy and Therapeutics Committee established under subsection (b) and review by the Uniform Formulary Beneficiary Advisory Panel established under subsection (c)—
+
+&emsp;(A) exclude from the pharmacy benefits program any pharmaceutical agent that the Secretary determines provides very little or no clinical effectiveness to covered beneficiaries and the Department under the program; and
+
+&emsp;(B) give preferential status to any non-generic pharmaceutical agent on the uniform formulary by treating it, for purposes of cost-sharing under paragraph (6), as a generic product under the TRICARE retail pharmacy program and mail order pharmacy program.
 
 (b)
 
@@ -106,6 +112,8 @@ Procedures.—(1) In the operation of the pharmacy benefits program under subsec
 
 (2) The Secretary shall use a modification to the bid price adjustment methodology in the managed care support contracts current as of October 5, 1999, to ensure equitable and timely reimbursement to the TRICARE managed care support contractors for pharmaceutical products delivered in the nonmilitary environments. The methodology shall take into account the "at-risk" nature of the contracts as well as managed care support contractor pharmacy costs attributable to changes to pharmacy service or formulary management at military medical treatment facilities, and other military activities and policies that affect costs of pharmacy benefits provided through the Civilian Health and Medical Program of the Uniformed Services. The methodology shall also account for military treatment facility costs attributable to the delivery of pharmaceutical products in the military facility environment which were prescribed by a network provider.
 
+(3) With respect to the TRICARE retail pharmacy program described in subsection (a)(2)(E)(ii), the Secretary shall ensure that a contract entered into with a TRICARE pharmacy program contractor includes requirements described in section 1860D–12(b)(6) of the Social Security Act (42 U.S.C. 1395w–112(b)(6)) to ensure the provision of information regarding the pricing standard for prescription drugs.
+
 (e)
 
 Pharmacy Data Transaction Service.—The Secretary of Defense shall implement the use of the Pharmacy Data Transaction Service in all fixed facilities of the uniformed services under the jurisdiction of the Secretary, in the TRICARE retail pharmacy program, and in the national mail-order pharmacy program.
@@ -130,13 +138,21 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X,§1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L.106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§702(a), (b)(1), 714, title X, §1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595.)
 
 #### References in Text
 
 Section 715 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is section 715 of Pub. L. 114–92, which is set out as a note under this section.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(6). Pub. L. 115–91, §702(a), amended par. (6) generally, substituting provisions relating to cost-sharing amounts for the years 2018 through 2027 and for any year after 2027 for provisions relating to cost-sharing amounts, limitation on requirements for medicare-eligible beneficiaries, and increases beginning on Oct. 1, 2016.
+
+Subsec. (a)(9)(B), (C). Pub. L. 115–91, §1081(a)(24), realigned margins.
+
+Subsec. (a)(10). Pub. L. 115–91, §702(b)(1), added par. (10).
+
+Subsec. (d)(3). Pub. L. 115–91, §714, added par. (3).
 
 <b>2015</b>—Subsec. (a)(2)(A). Pub. L. 114–92, §715(f), inserted at end "With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016."
 
@@ -224,6 +240,12 @@ Federal register.—The Secretary shall publish notice of the effective date of 
 
 #### Regulations
 
+Pub. L. 115–91, div. A, title VII, §702(b)(3), Dec. 12, 2017, 131 Stat. 1434, provided that: "In order to implement expeditiously the reforms authorized by the amendments made by paragraphs (1) and (2) \[amending this section and section 1079 of this title\], the Secretary of Defense may prescribe such changes to the regulations implementing the TRICARE program (as defined in section 1072 of title 10, United States Code) as the Secretary considers appropriate—
+
+&emsp;"(A) by prescribing an interim final rule; and
+
+&emsp;"(B) not later than one year after prescribing such interim final rule and considering public comments with respect to such interim final rule, by prescribing a final rule."
+
 Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: "The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007."
 
 \[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.\]
@@ -232,9 +254,9 @@ Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Authorization of Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries
+#### Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries
 
-Pub. L. 114–328, div. A, title VII, §719, Dec. 23, 2016, 130 Stat. 2226, provided that:
+Pub. L. 114–328, div. A, title VII, §719, Dec. 23, 2016, 130 Stat. 2226, as amended by Pub. L. 115–91, div. A, title VII, §718, Dec. 12, 2017, 131 Stat. 1440, provided that:
 
 "(a)
 
@@ -242,7 +264,7 @@ Reimbursement.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense may reimburse an amount determined under paragraph (2) to an entity carrying out a State vaccination program for the cost of vaccines provided to covered beneficiaries through such program.
+In general.—The Secretary of Defense shall reimburse an amount determined under paragraph (2) to an entity carrying out a State vaccination program for the cost of vaccines provided to covered beneficiaries through such program.
 
 &emsp;"(2)
 
@@ -438,7 +460,7 @@ Definitions.—In this section:
 
 #### Pilot Program for Refills of Maintenance Medications for TRICARE for Life Beneficiaries Through the TRICARE Mail-Order Pharmacy Program
 
-Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, §702(c)(2), Dec. 19, 2014, 128 Stat. 3411, provided that:
+Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, §702(c)(2), Dec. 19, 2014, 128 Stat. 3411; Pub. L. 115–91, div. A, title X, §1051(r)(2), Dec. 12, 2017, 131 Stat. 1565, provided that:
 
 "(a)
 
@@ -498,13 +520,9 @@ Regulations.—The Secretary shall prescribe regulations to carry out the pilot 
 
 "(e)
 
-Reports.—Not later than March 31 of each year beginning in 2014 and ending in 2018, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program under subsection (a), including the effects of offering incentives for the use of mail order pharmacies by TRICARE beneficiaries and the effect on retail pharmacies.
-
-"(f)
-
 Sunset.—The Secretary may not carry out the pilot program under subsection (a) after September 30, 2015.
 
-"(g)
+"(f)
 
 TRICARE for Life Beneficiary Defined.—In this section, the term 'TRICARE for Life beneficiary' means a TRICARE beneficiary enrolled in the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of title 10, United States Code."
 
@@ -574,7 +592,7 @@ Elements of Demonstration Project.—
 
 &emsp;"(1)
 
-Inclusion of certain over-the-counter drugs.—(A) As part of the demonstration project, the Secretary shall modify uniform formulary specifications under section 1074g(a) of such title to include an over-the-counter drug (referred to in this section as an 'OTC drug') on the uniform formulary if the Pharmacy and Therapeutics Committee finds that the OTC drug is cost-effective and therapeutically equivalent to a prescription drug. If the Pharmacy and Therapeutics Committee makes such a finding, the OTC drug shall be considered to be in the same therapeutic class of pharmaceutical agents as the prescription drug.
+Inclusion of certain over-the-counter drugs.—(A) As part of the demonstration project, the Secretary shall modify uniform formulary specifications under section 1074g(a) of such title to include an over-the-counter drug (referred to in this section asan 'OTC drug') on the uniform formulary if the Pharmacy and Therapeutics Committee finds that the OTC drug is cost-effective and therapeutically equivalent to a prescription drug. If the Pharmacy and Therapeutics Committee makes such a finding, the OTC drug shall be considered to be in the same therapeutic class of pharmaceutical agents as the prescription drug.
 
 &emsp;"(B) An OTC drug shall be made available to a beneficiary through the demonstration project, but only if—
 
@@ -592,7 +610,7 @@ Conduct through military facilities, retail pharmacies, or mail order program.�
 
 &emsp;"(3)
 
-Period of demonstration.—The Secretary shall provide for conducting the demonstration project for a period of time necessary to evaluate the feasibility and cost effectiveness of the demonstration. Such period shall be at least as long as the period covered by pharmacy contracts in existence onthe date of the enactment of this Act \[Oct. 17, 2006\] (including any extensions of the contracts), or five years, whichever is shorter.
+Period of demonstration.—The Secretary shall provide for conducting the demonstration project for a period of time necessary to evaluate the feasibility and cost effectiveness of the demonstration. Such period shall be at least as long as the period covered by pharmacy contracts in existence on the date of the enactment of this Act \[Oct. 17, 2006\] (including any extensions of the contracts), or five years, whichever is shorter.
 
 &emsp;"(4)
 
@@ -661,6 +679,4 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, dire
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 
 Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

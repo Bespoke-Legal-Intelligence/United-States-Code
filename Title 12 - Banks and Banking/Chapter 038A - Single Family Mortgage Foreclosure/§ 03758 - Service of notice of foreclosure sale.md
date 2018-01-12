@@ -40,7 +40,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (iii) Notice under clause (iv)
 
-&emsp;&emsp;&emsp;Notice under clause (iv) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale, and shall be mailed to each such lienholder's address of record or, at the discretion of the foreclosure commissioner, to any other address believed to be that of such lienholder.
+&emsp;&emsp;&emsp;Notice under clause (iv) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale, and shall be mailed to each such lienholder's address of record or, at the discretion ofthe foreclosure commissioner, to any other address believed to be that of such lienholder.
 
 #### (C) Effectiveness of notice
 

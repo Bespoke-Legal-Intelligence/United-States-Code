@@ -4,7 +4,7 @@
 
 In computing taxable gifts for preceding calendar periods for purposes of computing the tax for any calendar year—
 
-&emsp;(1) there shall be treated as gifts such transfers as were considered to be gifts under the gift tax laws applicable to the calendar period in which the transfers were made,
+&emsp;(1) there shall be treated as gifts such transfers as were considered to be gifts under thegift tax laws applicable to the calendar period in which the transfers were made,
 
 &emsp;(2) there shall be allowed such deductions as were provided for under such laws, and
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 97–34, §442(a)(4)(C), substituted in heading "calendar p
 
 Subsec. (a). Pub. L. 91–614 substituted "In computing taxable gifts for the preceding calendar years or calendar quarters for the purpose of computing the tax for any calendar quarter," for "In computing taxable gifts for the calendar year 1954 and preceding calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter," provided that the laws applicable in the calendar quarters as well as the years in which the transfers in question were made shall apply, and substituted "previous calendar years or calendar quarters for the purpose of computing the tax for any calendar year or calendar quarter" for "the calendar year 1954 and previous calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter".
 
-Subsec. (b). Pub. L. 91–614 inserted reference to calendar quarters in heading, substituted "during preceding calendar years and calendar quarters," for "duringthe calendar year 1954 and preceding calendar years," made reference to the amount excluded by gift tax laws applicable to the calendar quarters as well as years in which the gifts were made, and substituted "during such years and calendar quarters" for "during such year".
+Subsec. (b). Pub. L. 91–614 inserted reference to calendar quarters in heading, substituted "during preceding calendar years and calendar quarters," for "during the calendar year 1954 and preceding calendar years," made reference to the amount excluded by gift tax laws applicable to the calendar quarters as well as years in which the gifts were made, and substituted "during such years and calendar quarters" for "during such year".
 
 Subsec. (c). Pub. L. 91–614 inserted reference to calendar quarters in heading, inserted "or calendar quarter" after "calendar year" in four places, and substituted "for any calendar quarter," for "for the calendar year 1955 and subsequent calendar years,".
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to gifts made after Aug. 5, 1997, see section 506(e)(1) of Pub. L. 105–34, as amended, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 105–34 applicable to gifts made after Aug. 5, 1997, see section 506(e)(1) of Pub. L. 105–34,as amended, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -30,7 +30,7 @@ In this section:
 
 &emsp;The purposes of the Child Locator Center are to—
 
-&emsp;&emsp;(A) enable individuals to provide to the Child Locator Center the name of and otheridentifying information about a displaced child or a displaced adult who may have information about the location of a displaced child;
+&emsp;&emsp;(A) enable individuals to provide to the Child Locator Center the name of and other identifying information about a displaced child or a displaced adult who may have information about the location of a displaced child;
 
 &emsp;&emsp;(B) enable individuals to receive information about other sources of information about displaced children and displaced adults; and
 
@@ -78,5 +78,5 @@ Not later than 270 days after October 4, 2006, the Administrator shall submit to
 
 #### Codification
 
-Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of section 689b of Pub. L. 109–295 amended section 5772 of Title 42, The Public Health and Welfare.
+Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of section 689b of Pub. L. 109–295 amended section 11292 of Title 34, Crime Control and Law Enforcement.
 

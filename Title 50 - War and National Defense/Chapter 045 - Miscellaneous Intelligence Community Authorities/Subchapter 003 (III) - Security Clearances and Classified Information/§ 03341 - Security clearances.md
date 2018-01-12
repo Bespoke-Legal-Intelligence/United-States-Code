@@ -78,7 +78,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access to classified information and to retain their government employment status while such challenge is pending; and
 
-&emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
+&emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspensionof a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
 #### (c) Performance of security clearance investigations
 
@@ -90,7 +90,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e); and
 
-&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements establishedunder subsection (b), including uniform security questionnaires and financial disclosure requirements.
+&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements established under subsection (b), including uniform security questionnaires and financial disclosure requirements.
 
 #### (d) Reciprocity of security clearance and access determinations
 
@@ -144,7 +144,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 #### (g) Reduction in length of personnel security clearance process
 
-(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultationwith the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)(A) To the extent practical the plan under paragraph (1) shall require that each authorized adjudicative agency make a determination on at least 90 percent of all applications for a personnel security clearance within an average of 60 days after the date of receipt of the completed application for a security clearance by an authorized investigative agency. Such 60-day average period shall include—
 
@@ -214,7 +214,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (2) Rule of construction
 
-&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of anypersonnel action against an employee who lawfully discloses information to Congress.
+&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
 
 #### (3) Disclosures
 

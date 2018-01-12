@@ -178,7 +178,7 @@ Vehicle Safety Technology Defined.—In this section, the term 'vehicle safety t
 
 "(c)
 
-Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level ofsafety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
+Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
 
 #### Operators of Hi-Rail Vehicles
 
@@ -298,7 +298,7 @@ Commercial motor vehicle.—Except as otherwise specified, the term 'commercial 
 
 &emsp;"(4)
 
-Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system'means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
+Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system' means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
 
 &emsp;"(5)
 
@@ -426,7 +426,7 @@ Report.—The Secretary shall submit a report on the assessment to the Committee
 
 "(a)
 
-Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression,prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
+Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
 
 "(b)
 
@@ -696,7 +696,7 @@ Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -808,7 +808,7 @@ Propane or pipeline emergency.—A regulation prescribed under section 31136 or 
 
 &emsp;"(2)
 
-Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An 'emergency condition requiring an immediate response' does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture."
+Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, thedetection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An 'emergency condition requiring an immediate response' does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture."
 
 #### Protection of Existing Exemptions
 

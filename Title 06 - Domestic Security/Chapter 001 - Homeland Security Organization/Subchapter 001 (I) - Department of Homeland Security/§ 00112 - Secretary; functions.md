@@ -20,7 +20,7 @@ The Secretary—
 
 &emsp;(1) except as otherwise provided by this chapter, may delegate any of the Secretary's functions to any officer, employee, or organizational unit of the Department;
 
-&emsp;(2) shall have the authority to make contracts, grants, and cooperative agreements, and to enter into agreements with other executive agencies, as may be necessary and proper to carry out the Secretary's responsibilities under this chapter or otherwise provided by law; and
+&emsp;(2) shall have the authority to make contracts, grants, and cooperative agreements, and to enter into agreements with other executive agencies, as may be necessary and proper to carry out the Secretary's responsibilitiesunder this chapter or otherwise provided by law; and
 
 &emsp;(3) shall take reasonable steps to ensure that information systems and databases of the Department are compatible with each other and with appropriate databases of other Departments.
 
@@ -102,7 +102,7 @@ Subsec. (f)(8) to (11). Pub. L. 110–53, §902(a), added par. (8) and redesigna
 
 #### Required Coordination
 
-Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: "The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for,and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness."
+Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: "The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for, and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness."
 
 #### Protections for Human Research Subjects of the Department of Homeland Security
 

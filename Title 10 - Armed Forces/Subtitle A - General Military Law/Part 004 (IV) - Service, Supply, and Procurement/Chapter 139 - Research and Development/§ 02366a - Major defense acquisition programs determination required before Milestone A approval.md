@@ -2,7 +2,7 @@
 
 (a)
 
-Responsibilities.—Before granting Milestone A approval for a major defense acquisitionprogram or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
+Responsibilities.—Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
 &emsp;(1) information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the risk reduction phase;
 
@@ -38,7 +38,7 @@ Submissions to Congress on Milestone A.—
 
 &emsp;(1)
 
-Brief summary report.—Not later than 15 days after granting Milestone A approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+Brief summary report.—Not later than 15 days after granting Milestone A approvalfor a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
 
 &emsp;&emsp;(A) The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title.
 
@@ -64,7 +64,7 @@ Brief summary report.—Not later than 15 days after granting Milestone A approv
 
 &emsp;(2)
 
-Additional information.—(A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect toa major defense acquisition program, together with a copy of the written determination, or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
+Additional information.—(A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination, or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
 
 &emsp;(B) The explanation or information shall be submitted in unclassified form, but may include a classified annex.
 
@@ -184,7 +184,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date
 
-Pub. L. 110–181, div. A, title IX, §943(c), Jan. 28, 2008, 122 Stat. 289, as amended by Pub. L. 110–417, \[div. A\], title VIII, §813(e)(2)(B), Oct. 14, 2008, 122 Stat. 4528, provided that: "Section 2366b \[now 2366a\] of title 10, United States Code, as added by subsection (a), shall apply to major defense acquisition programs on and after March 1, 2008. In the case of the certification required by \[former\] paragraph (2) of subsection (a) of such section, during the period prior to the completion of the first quadrennial roles and missions review required by \[former\] section 118b of title 10, United States Code, the certification required by that paragraph shall be that the system is being executed by an entity with a relevant core competency as identified by the Secretary of Defense."
+Pub. L. 110–181, div. A, title IX, §943(c), Jan. 28, 2008, 122 Stat. 289, as amended by Pub. L. 110–417, \[div. A\], title VIII, §813(e)(2)(B), Oct. 14, 2008, 122 Stat. 4528, provided that: "Section 2366b \[now 2366a\] of title 10, United States Code, as added by subsection (a), shall apply to major defense acquisition programs on and after March 1, 2008. In the case of the certification required by \[former\] paragraph (2) of subsection (a) of such section, during the period prior to the completion of the first quadrennial roles and missions review required by\[former\] section 118b of title 10, United States Code, the certification required by that paragraph shall be that the system is being executed by an entity with a relevant core competency as identified by the Secretary of Defense."
 
 #### Milestone A Decisions
 

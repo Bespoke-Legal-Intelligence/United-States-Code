@@ -62,7 +62,7 @@ Amendment by Pub. L. 105–34 applicable to property contributed to a partnershi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to distributions after Dec. 8, 1994, and not applicable to certaindistributions before Jan. 1, 1995, distributions in liquidation of partner's interest, or distributions in complete liquidation of publicly traded partnerships, see section 741(c) of Pub. L. 103–465, set out as a note under section 731 of this title.
+Amendment by Pub. L. 103–465 applicable to distributions after Dec. 8, 1994, and not applicable to certain distributions before Jan. 1, 1995, distributions in liquidation of partner's interest, or distributions in complete liquidation of publicly traded partnerships, see section 741(c) of Pub. L. 103–465, set out as a note under section 731 of this title.
 
 #### Effective Date
 

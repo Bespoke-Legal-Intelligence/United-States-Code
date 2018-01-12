@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions; determination of amount; authorized uses
 
-(1) A grant to a hospital under the program shall be subject to such terms and conditions asthe Secretary may by regulation prescribe to assure that the grant is used for the purpose for which it was made.
+(1) A grant to a hospital under the program shall be subject to such terms and conditions as the Secretary may by regulation prescribe to assure that the grant is used for the purpose for which it was made.
 
 (2) The amount of any such grant shall be determined by the Secretary. The recipient of such a grant may use the grant—
 

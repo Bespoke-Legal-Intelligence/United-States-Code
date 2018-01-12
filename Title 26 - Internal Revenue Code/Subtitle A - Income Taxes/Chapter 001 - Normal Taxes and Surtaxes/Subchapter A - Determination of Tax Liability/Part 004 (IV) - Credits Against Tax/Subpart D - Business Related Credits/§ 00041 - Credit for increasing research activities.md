@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;The term "qualified research" means research—
 
-&emsp;&emsp;(A) with respect to which expenditures may be treated as expenses under section 174,
+&emsp;&emsp;(A) <sup>1</sup> with respect to which expenditures may be treated as expenses under section 174,
 
 &emsp;&emsp;(B) which is undertaken for the purpose of discovering information—
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any contract research expenses, or
 
-&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period by reason of this subsection (as in effect during the base period).
+&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period byreason of this subsection (as in effect during the base period).
 
 #### (B) Floor amount
 
@@ -454,11 +454,11 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting "calendar year 1987" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting "calendar year 1987" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Special rule where base period ends in a calendar year other than 1983 or 1984
 
-&emsp;&emsp;&emsp;If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
+&emsp;&emsp;&emsp;If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(A)(ii) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 2016. Such substitution shall be in lieu of the substitution under clause (i).
 
 #### (6) Qualified organization
 
@@ -530,7 +530,7 @@ For purposes of this section—
 
 #### (B) Base period
 
-&emsp;&emsp;The term "base period" means the 3-taxable-year period ending with the taxable year immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
+&emsp;&emsp;The term "base period" means the 3-taxable-year period ending with the taxableyear immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
 
 #### (C) Exclusion from incremental credit calculation
 
@@ -616,7 +616,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified research expenses paid or incurred by the predecessor with respect to the acquired business during the measurement period, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of the acquisition and ending on the last day of the taxable year in which the acquisition is made,
+&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of the acquisitionand ending on the last day of the taxable year in which the acquisition is made,
 
 &emsp;&emsp;&nbsp;divided by the number of days in the acquiring person's taxable year.
 
@@ -644,7 +644,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified research expenses paid or incurred by, or gross receipts of, the predecessor with respect to the acquired business during the measurement period (as so defined and so determined), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of acquisition (as determined for purposes of subparagraph\(A)(iv)(II)) and ending on the last day of the taxable year of the predecessor in which the disposition is made,
+&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of acquisition (as determined for purposes of subparagraph (A)(iv)(II)) and ending on the last day of the taxable year of the predecessor in which the disposition is made,
 
 &emsp;&emsp;&nbsp;divided by the number of days in the taxable year of the predecessor, and
 
@@ -814,7 +814,15 @@ In the case of an individual who—
 
 &emsp;&emsp;(C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec.19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112.)
+
+#### Amendment of Subsection (d)(1)(A)
+
+<i>Pub. L. 115–97, title I, §13206(d)(1), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, amended subsection (d)(1)(A) of this section, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021. After amendment, subsection (d)(1)(A) reads as follows:</i>
+
+&emsp;&emsp;<i>(A) with respect to which expenditures may be treated as specified research or experimental expenditures under section 174,</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### References in Text
 
@@ -827,6 +835,12 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(1)(A). Pub. L. 115–97, §13206(d)(1), substituted "specified research or experimental expenditures under section 174" for "expenses under section 174".
+
+Subsec. (e)(5)(C)(i). Pub. L. 115–97, §11002(d)(1)(F), substituted "for 'calendar year 2016' in subparagraph\(A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (e)(5)(C)(ii). Pub. L. 115–97, §11002(d)(2), substituted "1(f)(3)(A)(ii)" for "1(f)(3)(B)" and "2016" for "1992".
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–113, §121(c)(1), added subsec. (h).
 
@@ -906,7 +920,7 @@ Subsec. (c)(4)(A)(iii). Pub. L. 106–170, §502(b)(1)(C), substituted "3.75 per
 
 Subsecs. (c)(6), (d)(4)(F). Pub. L. 106–170, §502(c)(1), inserted ", the Commonwealth of Puerto Rico, or any possession of the United States" before period at end.
 
-Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
+Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and beforethe first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
 
 Subsec. (h)(1)(B). Pub. L. 106–170, §502(a)(1)(A), substituted "June 30, 2004" for "June 30, 1999".
 
@@ -960,7 +974,7 @@ Subsec. (c). Pub. L. 101–239, §7110(b)(1), substituted "Base amount" for "Bas
 
 Subsec. (e)(7)(C)(ii). Pub. L. 101–239, §7110(b)(2)(B), substituted "base amount" for "base period research expenses".
 
-Subsec. (f)(1). Pub. L. 101–239, §7110(b)(2)(C), substituted "proportionate shares of the qualified researchexpenses and basic research payments" for "proportionate share of the increase in qualified research expenses" in subpars. (A)(ii) and (B)(ii).
+Subsec. (f)(1). Pub. L. 101–239, §7110(b)(2)(C), substituted "proportionate shares of the qualified research expenses and basic research payments" for "proportionate share of the increase in qualified research expenses" in subpars. (A)(ii) and (B)(ii).
 
 Subsec. (f)(3)(A). Pub. L. 101–239, §7110(b)(2)(D), substituted "December 31, 1983" for "June 30, 1980" and inserted before period at end ", and the gross receipts of the taxpayer for such periods shall be increased by so much of the gross receipts of such predecessor with respect to the acquired trade or business as is attributable to such portion".
 
@@ -1032,9 +1046,15 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "s
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(1)(F), (2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13206(e), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendments made by this section \[amending this section and sections 174 and 280C of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2021."
+
 #### Effective Date of 2015 Amendment
 
-Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014,see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
+Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014, see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
 Amendment by section 121(c)(1) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
@@ -1064,7 +1084,7 @@ Pub. L. 110–343, div. C, title III, §301(e), Oct. 3, 2008, 122 Stat. 3866, pr
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 45C of this title\] shall apply to taxable years beginning after December 31, 2007.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 45C of this title\] shall apply to taxable years beginning after December 31, 2007.
 
 "(2)
 
@@ -1176,7 +1196,7 @@ Pub. L. 105–277, div. J, title I, §1001(c), Oct. 21, 1998, 112 Stat. 2681–8
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title VI, §601(c), Aug. 5, 1997, 111 Stat. 862, provided that: "The amendments made by this section \[amending this section and section 45C of this title\] shall apply to amounts paid or incurred after May 31, 1997."
+Pub. L. 105–34, title VI, §601(c), Aug. 5, 1997, 111 Stat. 862, provided that: "The amendments made by this section \[amending this section and section 45C of thistitle\] shall apply to amounts paid or incurred after May 31, 1997."
 
 #### Effective Date of 1996 Amendment
 
@@ -1278,7 +1298,7 @@ In general.—If, with respect to the first taxable year to which the amendments
 
 &emsp;"(B)
 
-Definitions.—For purposes of the preceding sentence, the terms 'qualified research expenses' and 'base period' have the meanings given to such terms by section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)."
+Definitions.—For purposes of the preceding sentence, the terms 'qualified research expenses' and 'base period' have the meanings given to such termsby section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)."
 
 #### Special Rule for Elections Under Expired Provisions
 
@@ -1286,7 +1306,7 @@ Pub. L. 109–432, div. A, title I, §123, Dec. 20, 2006, 120 Stat. 2944, provid
 
 "(a)
 
-Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
+Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act \[Dec. 20, 2006\], any election under section 41(c)(4) or section 280C(c)(3)(C) \[now 280C(c)(2)(C)\] of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
 
 "(b)
 
@@ -1366,7 +1386,7 @@ Pub. L. 101–239, title VII, §7110(a)(2), Dec. 19, 1989, 103 Stat. 2323, which
 
 #### Study and Report on Credit Provided by This Section
 
-Pub. L. 100–647, title IV, §4007(b), Nov. 10, 1988, 102 Stat. 3652, directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means ofHouse of Representatives and Committee on Finance of Senate.
+Pub. L. 100–647, title IV, §4007(b), Nov. 10, 1988, 102 Stat. 3652, directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1381,4 +1401,6 @@ Pub. L. 98–369, div. A, title IV, §474(i)(2), July 18, 1984, 98 Stat. 832, pr
 &emsp;"(B) the period during which new section 30 \[now 41\] is in effect,
 
 > new section 30 \[now 41\] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied)."
+
+<i><sup>1</sup></i><i> See Amendment of Subsection (d)(1)(A) note below.</i>
 

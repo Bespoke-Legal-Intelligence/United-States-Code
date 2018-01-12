@@ -150,7 +150,7 @@ Definition.—For purposes of this subsection, the term "high intensity motorbus
 
 &emsp;(2)
 
-Apportionment.—Of the amount authorized or made available under section 5338(a)(2)(K), 2.85 percent shall be apportionedto urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
+Apportionment.—Of the amount authorized or made available under section 5338(a)(2)(K), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
 
 &emsp;(3)
 
@@ -194,7 +194,7 @@ Remaining costs.—The remainder of the net project cost shall be provided—
 
 &emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985; Pub. L. 114–94, div. A, title III, §3015, Dec. 4, 2015, 129 Stat. 1478.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985; Pub. L. 114–94, div. A, title III, §3015, Dec. 4, 2015, 129 Stat. 1478.)
 
 Historical and Revision Notes
 
@@ -302,7 +302,7 @@ Subsec. (e). Pub. L. 102–240, §3049(b)(2), as added by Pub. L. 105–130, add
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective and Termination Dates of 2012 Amendment
 

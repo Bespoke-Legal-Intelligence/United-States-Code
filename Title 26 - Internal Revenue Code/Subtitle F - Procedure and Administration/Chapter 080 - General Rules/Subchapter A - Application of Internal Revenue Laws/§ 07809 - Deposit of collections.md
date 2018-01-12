@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
+Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, thegross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
 
 #### (b) Deposit funds
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 87–870, §3(b)(2), added subsec. (c).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988,see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
 
 #### Effective Date of 1976 Amendments
 

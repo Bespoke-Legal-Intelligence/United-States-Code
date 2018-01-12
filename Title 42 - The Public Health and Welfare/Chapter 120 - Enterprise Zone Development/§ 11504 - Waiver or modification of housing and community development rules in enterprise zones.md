@@ -6,7 +6,7 @@ Upon the written request of the governments that designated and approved an area
 
 #### (b) Limitation
 
-No provision of this section may be construed to authorize the Secretary to waive or modifyany rule adopted to carry out a statute or Executive order that prohibits, or the purpose of which is to protect persons against, discrimination on the basis of race, color, religion, sex, marital status, national origin, age, or handicap.
+No provision of this section may be construed to authorize the Secretary to waive or modify any rule adopted to carry out a statute or Executive order that prohibits, or the purpose of which is to protect persons against, discrimination on the basis of race, color, religion, sex, marital status, national origin, age, or handicap.
 
 #### (c) Submission of requests
 

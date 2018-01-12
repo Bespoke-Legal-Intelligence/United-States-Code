@@ -12,7 +12,7 @@ Any person who—
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
-<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain</i><i>exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### Codification
 
@@ -32,7 +32,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
-For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, withcertain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2011 Revival
 

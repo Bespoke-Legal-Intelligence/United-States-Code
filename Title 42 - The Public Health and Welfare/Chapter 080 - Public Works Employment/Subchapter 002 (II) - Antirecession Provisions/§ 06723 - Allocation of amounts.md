@@ -2,13 +2,13 @@
 
 #### (a) Reservations for eligible States and units of local government
 
-(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b) of this section.
+(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorizationunder section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b).
 
-(2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c) of this section.
+(2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c).
 
 #### (b) State allocation; percentage; definitions
 
-(1) The Secretary shall allocate from amounts reserved under subsection (a)(1) of this section an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) of this section for the calendar quarter multiplied by the applicable State percentage.
+(1) The Secretary shall allocate from amounts reserved under subsection (a)(1) an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) for the calendar quarter multiplied by the applicable State percentage.
 
 (2) For purposes of this subsection, the applicable State percentage is equal to the quotient resulting from the division of the product of—
 
@@ -28,7 +28,7 @@
 
 #### (c) Local government allocation; percentage; definitions; special limitation
 
-(1) The Secretary shall allocate from amounts reserved under subsection (a)(2) of this section an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
+(1) The Secretary shall allocate from amounts reserved under subsection (a)(2) an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
 
 (2) For purposes of this subsection, the local government percentage is equal to the quotient resulting from the division of the product of—
 
@@ -66,7 +66,7 @@ Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in
 
 #### Codification
 
-In subsecs. (b)(3)(D) and (c)(3)(C), "sections 6705–6707(a) of title 31" substituted for "section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]", "sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31" substituted for "section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and "section 6701(a)(1) of title 31" substituted for "section 141(b) of such Act \[31 U.S.C. 1261(b)\]", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+In subsecs. (b)(3)(D) and (c)(3)(C), "sections 6705–6707(a) of title 31" substituted for "section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]", "sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31" substituted for "section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and "section 6701(a)(1) of title 31" substituted for "section 141(b) of such Act \[31 U.S.C. 1261(b)\]", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13,1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
 
 #### Amendments
 

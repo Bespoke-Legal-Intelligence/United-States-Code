@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
 
-&emsp;&emsp;(E) file an appeal with the Equal Employment Opportunity Commission under part 1614 of title 29 of the Code of Federal Regulations,
+&emsp;&emsp;(E) file an appeal with the Equal Employment Opportunity Commission under part1614 of title 29 of the Code of Federal Regulations,
 
 > &emsp;shall continue to be entitled to file such appeal or make such an allegation so long as the individual remains an employee of the Tax Court.
 

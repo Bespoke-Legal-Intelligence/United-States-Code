@@ -52,13 +52,13 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (A) Credit rate
 
-&emsp;&emsp;In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
+&emsp;&emsp;In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), theamount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
 
 #### (B) Credit period
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7)of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
 
 #### (ii) Certain open-loop biomass facilities
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) which—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a liquid, gaseous, or solid fuel produced from coal (including lignite) or high carbon fly ash, including such fuel used as a feedstock,
+&emsp;&emsp;&emsp;&emsp;(I) is a liquid, gaseous, or solid fuel produced from coal (including lignite) orhigh carbon fly ash, including such fuel used as a feedstock,
 
 &emsp;&emsp;&emsp;&emsp;(II) is sold by the taxpayer with the reasonable expectation that it will be used for purpose <sup>2</sup> of producing steam, and
 
@@ -388,7 +388,7 @@ For purposes of this section—
 
 #### (C) Reference price
 
-&emsp;&emsp;The term "reference price" means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into after December 31, 1989, shall be taken into account.
+&emsp;&emsp;The term "reference price" means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in theUnited States. For purposes of the preceding sentence, only contracts entered into after December 31, 1989, shall be taken into account.
 
 #### (3) Production attributable to the taxpayer
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 #### (4) Related persons
 
-&emsp;Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated groupof corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
+&emsp;Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
 
 #### (5) Pass-thru in the case of estates and trusts
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 #### (II) Credit period
 
-&emsp;&emsp;&emsp;&emsp;In lieu of the 10-year period referred to in clauses (i) and (ii)(II) of subparagraph (A), the credit period shall be the period beginning on the later of the date such facility was originally placed in service, the date the modifications described in clause (iii) were placed in service, or October 1, 2008, and ending on the later of December 31, 2009, or the date which is 1 year after the date such facility or the modifications described in clause (iii) were placed in service.
+&emsp;&emsp;&emsp;&emsp;In lieu of the 10-year period referred to in clauses (i) and (ii)(II) of subparagraph (A), the credit period shall be the period beginning on the later of the date suchfacility was originally placed in service, the date the modifications described in clause (iii) were placed in service, or October 1, 2008, and ending on the later of December 31, 2009, or the date which is 1 year after the date such facility or the modifications described in clause (iii) were placed in service.
 
 #### (III) No phaseout
 
@@ -850,7 +850,7 @@ Pub. L. 113–295, div. A, title I, §154(b), Dec. 19, 2014, 128 Stat. 4021, pro
 
 Pub. L. 113–295, div. A, title I, §155(c), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendments made by this section \[amending this section and section 48 of this title\] shall take effect on January 1, 2014."
 
-Pub. L. 113–295, div. A, title II, §210(h), Dec. 19, 2014, 128 Stat. 4032, provided that: "The amendments made by this section \[amending this section and sections 45K, 168, 907, 1012, and 6045 of this title and provisions set out as a note under section 9501 of this title\] shall take effect as if included in the provisions of the Energy Improvement and Extension Act of 2008 \[Pub. L. 110–343, div. B\] to which they relate."
+Pub. L. 113–295, div. A, title II, §210(h), Dec. 19, 2014, 128 Stat. 4032, provided that: "The amendments made by this section \[amending this section and sections 45K,168, 907, 1012, and 6045 of this title and provisions set out as a note under section 9501 of this title\] shall take effect as if included in the provisions of the Energy Improvement and Extension Act of 2008 \[Pub. L. 110–343, div. B\] to which they relate."
 
 #### Effective Date of 2013 Amendment
 
@@ -952,7 +952,7 @@ Certain biomass facilities.—With respect to any facility described in section 
 
 "(3)
 
-Credit rate and period for new facilities.—The amendments made by subsection (c) \[amending this section\] shall apply to electricity produced and sold after December 31, 2004, in taxable years ending after such date.
+Credit rate and period for new facilities.—The amendments made by subsection (c) \[amending this section\] shall apply to electricity produced andsold after December 31, 2004, in taxable years ending after such date.
 
 "(4)
 
@@ -979,6 +979,10 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2017</b>—Internal Revenue Notice 2017–33.
+
+<b>2016</b>—Internal Revenue Notice 2016–34.
 
 <b>2015</b>—Internal Revenue Notice 2015–32.
 

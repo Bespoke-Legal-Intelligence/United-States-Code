@@ -56,7 +56,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to the offices of the marshal and clerk of the Supreme Court of the United States, each, two copies of the daily and one semimonthly copy;
 
-&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Director of the Government Publishing Office, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
+&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon requestto a member of Congress and notification by the Member to the Director of the Government Publishing Office, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
 
 &emsp;to the offices of the Vice President and the Speaker of the House of Representatives, each, six copies of the daily and one semimonthly copy;
 
@@ -190,5 +190,5 @@ Pub. L. 95–391, title I, Sept. 30, 1978, 92 Stat. 783, provided that: "Hereaft
 
 #### Limitation on Copies of Bound Permanent Edition for Vice President and Members of Senate and House of Representatives
 
-Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 546, provided that: "Hereafter, appropriations for authorized printing and binding for Congress shall not be available under the authority of the Act of October 22, 1968 (44 U.S.C. 906)for the printing, publication, and distribution of more than one copy of the bound permanent editions of the Congressional Record for the Vice President and each Member of the Senate and House of Representatives."
+Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 546, provided that: "Hereafter, appropriations for authorized printing and binding for Congress shall not be available under the authority of the Act of October 22, 1968 (44 U.S.C. 906) for the printing, publication, and distribution of more than one copy of the bound permanent editions of the Congressional Record for the Vice President and each Member of the Senate and House of Representatives."
 

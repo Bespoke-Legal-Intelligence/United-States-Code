@@ -2,11 +2,11 @@
 
 #### (a) Authority of Secretary
 
-If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If theSecretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
 
 #### (b) Seizure and sale of property
 
-The term "levy" as used in this title includes the power of distraint and seizure by any means. Except as otherwise provided in subsection (e), a levy shall extend only to property possessed and obligations existing at the time thereof. In anycase in which the Secretary may levy upon property or rights to property, he may seize and sell such property or rights to property (whether real or personal, tangible or intangible).
+The term "levy" as used in this title includes the power of distraint and seizure by any means. Except as otherwise provided in subsection (e), a levy shall extend only to property possessed and obligations existing at the time thereof. In any case in which the Secretary may levy upon property or rights to property, he may seize and sell such property or rights to property (whether real or personal, tangible or intangible).
 
 #### (c) Successive seizures
 
@@ -292,7 +292,7 @@ Pub. L. 114–10, title IV, §413(b), Apr. 16, 2015, 129 Stat. 162, provided tha
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. B, title II, §209(b), Dec. 19, 2014, 128 Stat. 4074, provided that: "The amendment made bythis section \[amending this section\] shall apply to payments made after 180 days after the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–295, div. B, title II, §209(b), Dec. 19, 2014, 128 Stat. 4074, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after 180 days after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Effective Date of 2011 Amendment
 

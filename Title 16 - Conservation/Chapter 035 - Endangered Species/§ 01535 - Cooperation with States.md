@@ -10,7 +10,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (c) Cooperative agreements
 
-(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
+(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, thatthe State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
 
 &emsp;(A) authority resides in the State agency to conserve resident species of fish or wildlife determined by the State agency or the Secretary to be endangered or threatened;
 
@@ -34,7 +34,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(B) the State agency has established acceptable conservation programs, consistent with the purposes and policies of this chapter, for all resident species of plants in the State which are deemed by the Secretary to be endangered or threatened, and has furnished a copy of such plan and program together with all pertinent details, information, and data requested to the Secretary;
 
-&emsp;(C) the State agency is authorized to conduct investigations to determine the statusand requirements for survival of resident species of plants; and
+&emsp;(C) the State agency is authorized to conduct investigations to determine the status and requirements for survival of resident species of plants; and
 
 &emsp;(D) provision is made for public participation in designating resident species of plants as endangered or threatened; or
 
@@ -82,7 +82,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 #### (g) Transition
 
-(1) For purposes of this subsection, the term "establishment period" means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28,1973, or (B) the date of the close of the 15-month period following December 28, 1973.
+(1) For purposes of this subsection, the term "establishment period" means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28, 1973, or (B) the date of the close of the 15-month period following December 28, 1973.
 
 (2) The prohibitions set forth in or authorized pursuant to sections 1533(d) and 1538(a)(1)(B) of this title shall not apply with respect to the taking of any resident endangered species or threatened species (other than species listed in Appendix I to the Convention or otherwise specifically covered by any other treaty or Federal law) within any State—
 

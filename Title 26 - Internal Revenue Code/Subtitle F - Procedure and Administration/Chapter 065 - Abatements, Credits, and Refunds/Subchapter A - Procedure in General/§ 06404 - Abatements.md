@@ -132,7 +132,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;<b>For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. A, title II, §221(a)(111), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 114–113, div. Q, title IV, §421(a), Dec. 18, 2015, 129 Stat. 3123.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I,§1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. A, title II, §221(a)(111), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 114–113, div. Q, title IV, §421(a), Dec. 18, 2015, 129 Stat. 3123.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ In general.—Except as provided in clauses (ii), (iii), and (iv), the amendment
 
 Participants in settlement initiatives.—Clause (i) shall not apply to any transaction if, as of January 23, 2006—
 
-&emsp;&emsp;&emsp;"(I) the taxpayer is participating in a settlement initiative described in Internal Revenue Service Announcement 2005–80 with respect to such transaction, or
+&emsp;&emsp;&emsp;"(I) the taxpayer is participating in a settlement initiative described in Internal RevenueService Announcement 2005–80 with respect to such transaction, or
 
 &emsp;&emsp;&emsp;"(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
 

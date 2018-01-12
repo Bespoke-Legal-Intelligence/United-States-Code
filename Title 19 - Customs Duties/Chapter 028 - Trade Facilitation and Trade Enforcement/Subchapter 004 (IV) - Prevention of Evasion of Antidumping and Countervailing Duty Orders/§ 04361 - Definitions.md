@@ -34,7 +34,7 @@ In this subchapter:
 
 #### (5) Evade; evasion
 
-&emsp;The terms "evade" and "evasion" refer to entering covered merchandise into the customs territory of the United States by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results in any cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the merchandise.
+&emsp;The terms "evade" and "evasion" refer to entering covered merchandise into the customs territory of the United States by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results inany cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the merchandise.
 
 #### (6) Secretary
 

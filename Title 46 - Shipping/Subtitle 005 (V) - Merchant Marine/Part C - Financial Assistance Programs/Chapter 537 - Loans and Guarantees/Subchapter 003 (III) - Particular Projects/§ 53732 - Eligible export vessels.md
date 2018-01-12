@@ -68,7 +68,7 @@ Priority of documented vessels.—The Administrator may not make a commitment to
 
 (d)
 
-Restriction on Transfer of Vessel.—The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
+Restriction on Transfer of Vessel.—The Administrator may not guarantee or make acommitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
 
 (e)
 

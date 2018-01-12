@@ -24,7 +24,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 &emsp;&emsp;&emsp;(ii) commencement of proceedings for bankruptcy of the servicer; or
 
-&emsp;&emsp;&emsp;(iii) commencement of proceedings by the Federal Deposit Insurance Corporationor the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
+&emsp;&emsp;&emsp;(iii) commencement of proceedings by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
 
 #### (C) Exception for notice provided at closing
 
@@ -162,7 +162,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (h) Preemption of conflicting State laws
 
-Notwithstanding any provision of any law or regulation of any State, a person who makes a federally related mortgage loan or a servicershall be considered to have complied with the provisions of any such State law or regulation requiring notice to a borrower at the time of application for a loan or transfer of the servicing of a loan if such person or servicer complies with the requirements under this section regarding timing, content, and procedures for notification of the borrower.
+Notwithstanding any provision of any law or regulation of any State, a person who makes a federally related mortgage loan or a servicer shall be considered to have complied with the provisions of any such State law or regulation requiring notice to a borrower at the time of application for a loan or transfer of the servicing of a loan if such person or servicer complies with the requirements under this section regarding timing, content, and procedures for notification of the borrower.
 
 #### (i) Definitions
 
@@ -234,7 +234,7 @@ A servicer of a federally related mortgage shall not be construed as having a re
 
 &emsp;&emsp;(A) the servicer has sent, by first-class mail, a written notice to the borrower containing—
 
-&emsp;&emsp;&emsp;(i) a reminder of the borrower's obligation to maintain hazard insurance on theproperty securing the federally related mortgage;
+&emsp;&emsp;&emsp;(i) a reminder of the borrower's obligation to maintain hazard insurance on the property securing the federally related mortgage;
 
 &emsp;&emsp;&emsp;(ii) a statement that the servicer does not have evidence of insurance coverage of such property;
 
@@ -266,7 +266,7 @@ A servicer of a federally related mortgage shall not be construed as having a re
 
 All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
 
-(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
+(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
 
 #### Prior Provisions
 

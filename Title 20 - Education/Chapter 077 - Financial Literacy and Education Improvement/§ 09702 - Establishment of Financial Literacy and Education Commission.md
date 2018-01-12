@@ -24,7 +24,7 @@ The Commission shall serve to improve the financial literacy and education of pe
 
 #### (2) Alternates
 
-&emsp;Each member of the Commission may designate an alternate if the member is unable to attend a meeting of the Commission. Such alternate shall be an individual who exercises significant decisionmaking authority.
+&emsp;Each member of the Commission may designate an alternate if the member is unable toattend a meeting of the Commission. Such alternate shall be an individual who exercises significant decisionmaking authority.
 
 #### (d) Chairperson
 
@@ -49,4 +49,8 @@ The Commission shall hold its first meeting not later than 60 days after Decembe
 <b>2010</b>—Subsec. (c)(1)(C), (D). Pub. L. 111–203, §1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
 
 Subsec. (d). Pub. L. 111–203, §1013(d)(6), inserted at end "The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman."
+
+#### Effective Date
+
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 

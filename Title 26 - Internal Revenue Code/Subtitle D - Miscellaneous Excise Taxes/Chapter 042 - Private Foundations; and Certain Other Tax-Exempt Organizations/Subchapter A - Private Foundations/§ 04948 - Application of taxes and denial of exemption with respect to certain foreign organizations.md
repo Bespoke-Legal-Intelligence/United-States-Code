@@ -2,7 +2,7 @@
 
 #### (a) Tax on income of certain foreign organizations
 
-In lieu of the tax imposed by section 4940, there is hereby imposed for each taxable year onthe gross investment income (within the meaning of section 4940(c)(2)) derived from sources within the United States (within the meaning of section 861) by every foreign organization which is a private foundation for the taxable year a tax equal to 4 percent of such income.
+In lieu of the tax imposed by section 4940, there is hereby imposed for each taxable year on the gross investment income (within the meaning of section 4940(c)(2)) derived from sources within the United States (within the meaning of section 861) by every foreign organization which is a private foundation for the taxable year a tax equal to 4 percent of such income.
 
 #### (b) Certain sections inapplicable
 
@@ -22,7 +22,7 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 &emsp;(A) Except as provided in subparagraph (B), a foreign organization described in subsection (b) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) for all taxable years beginning with the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction. The Secretary shall publish such notice in the Federal Register on the day on which he so notifies such foreign organization.
 
-&emsp;(B) Under regulations prescribed by the Secretary any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
+&emsp;(B) Under regulations prescribed by the Secretary, any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
 
 #### (4) Disallowance of certain charitable deductions
 

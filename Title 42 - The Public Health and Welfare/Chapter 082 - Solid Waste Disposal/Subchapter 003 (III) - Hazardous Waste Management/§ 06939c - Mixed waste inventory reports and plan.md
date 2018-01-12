@@ -52,7 +52,7 @@
 
 #### (4) Comments and revisions
 
-&emsp;Not later than 90 days after the date of the submission of the reports by the Secretary ofEnergy under paragraph (1), the Administrator and each State which received the reports shall submit any comments they may have concerning the reports to the Department of Energy. The Secretary of Energy shall consider and publish the comments prior to publication of the final report.
+&emsp;Not later than 90 days after the date of the submission of the reports by the Secretary of Energy under paragraph (1), the Administrator and each State which received the reports shall submit any comments they may have concerning the reports to the Department of Energy. The Secretary of Energy shall consider and publish the comments prior to publication of the final report.
 
 #### (5) Requests for additional information
 
@@ -94,7 +94,7 @@
 
 #### (5) Waiver of plan requirement
 
-&emsp;(A) A State may waive the requirement for the Secretary of Energy to develop and submit a plan under this subsection for a facility located in the State if the State (i) enters into an agreement with the Secretary of Energy that addresses compliance at that facility with section 6924(j) of this title with respect to mixed waste, and (ii) issues an order requiringcompliance with such agreement and which is in effect.
+&emsp;(A) A State may waive the requirement for the Secretary of Energy to develop and submit a plan under this subsection for a facility located in the State if the State (i) enters into an agreement with the Secretary of Energy that addresses compliance at that facility with section 6924(j) of this title with respect to mixed waste, and (ii) issues an order requiring compliance with such agreement and which is in effect.
 
 &emsp;(B) Any violation of an agreement or order referred to in subparagraph (A) is subject to the waiver of sovereign immunity contained in section 6961(a) of this title.
 
@@ -102,19 +102,19 @@
 
 #### (1) Schedule
 
-&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b) of this section.
+&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b).
 
 #### (2) Progress reports
 
 &emsp;(A) Not later than the deadlines specified in subparagraph (B), the Secretary of Energy shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a progress report containing the following:
 
-&emsp;&emsp;(i) An identification, by facility, of the plans that have been submitted to States or the Administrator of the Environmental Protection Agency pursuant to subsection (b) of this section.
+&emsp;&emsp;(i) An identification, by facility, of the plans that have been submitted to States or the Administrator of the Environmental Protection Agency pursuant to subsection (b).
 
 &emsp;&emsp;(ii) The status of State and Environmental Protection Agency review and approval of each such plan.
 
 &emsp;&emsp;(iii) The number of orders requiring compliance with such plans that are in effect.
 
-&emsp;&emsp;(iv) For the first 2 reports required under this paragraph, an identification of the plans required under such subsection (b) of this section that the Secretary expects to submit in the 12-month period following submission of the report.
+&emsp;&emsp;(iv) For the first 2 reports required under this paragraph, an identification of the plans required under such subsection (b) that the Secretary expects to submit in the 12-month period following submission of the report.
 
 &emsp;(B) The Secretary of Energy shall submit a report under subparagraph (A) not later than 12 months after October 6, 1992, 24 months after October 6, 1992, and 36 months after October 6, 1992.
 
@@ -122,7 +122,7 @@
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### GAO Report
 

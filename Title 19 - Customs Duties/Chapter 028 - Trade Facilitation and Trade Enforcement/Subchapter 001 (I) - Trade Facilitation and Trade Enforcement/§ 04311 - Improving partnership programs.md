@@ -54,7 +54,7 @@ Not later than the date that is 180 days after February 24, 2016, and not later 
 
 &emsp;(8) describes measures taken by U.S. Customs and Border Protection to make private sector entities aware of the trade benefits available to participants in such partnership programs; and
 
-&emsp;(9) summarizes the plans, targets, and goals of U.S. Customs and Border Protection withrespect to such partnership programs for the 2 years following the submission of the report.
+&emsp;(9) summarizes the plans, targets, and goals of U.S. Customs and Border Protection with respect to such partnership programs for the 2 years following the submission of the report.
 
 (Pub. L. 114–125, title I, §101, Feb. 24, 2016, 130 Stat. 127.)
 

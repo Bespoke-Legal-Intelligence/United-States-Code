@@ -4,7 +4,7 @@
 
 #### (b) Amendment to the Sentencing Guidelines
 
-(1) Pursuant to its authority under section 994 of title 28 and in accordance with this section, the United States Sentencing Commission shall review and, if appropriate, amend the sentencing guidelines and policy statements applicable to persons convicted of offenses involving the trafficking of persons including component or related crimes of peonage, involuntary servitude, slave trade offenses, and possession, transfer or sale of false immigration documents in furtherance of trafficking, and the Fair Labor Standards Act \[29 U.S.C. 201 et seq.\] and the Migrant and Seasonal Agricultural Worker Protection Act \[29 U.S.C. 1801 et seq.\].
+(1) Pursuant to its authority under section 994 of title 28 and in accordance with this section,the United States Sentencing Commission shall review and, if appropriate, amend the sentencing guidelines and policy statements applicable to persons convicted of offenses involving the trafficking of persons including component or related crimes of peonage, involuntary servitude, slave trade offenses, and possession, transfer or sale of false immigration documents in furtherance of trafficking, and the Fair Labor Standards Act \[29 U.S.C. 201 et seq.\] and the Migrant and Seasonal Agricultural Worker Protection Act \[29 U.S.C. 1801 et seq.\].
 
 (2) In carrying out this subsection, the Sentencing Commission shall—
 
@@ -30,7 +30,7 @@
 
 The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
+The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
 The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182, Dec. 7, 1987, 101 Stat. 1266. Section 21(a) of the Act is set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 

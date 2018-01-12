@@ -6,7 +6,7 @@ Policy.—The Administrator shall take all necessary steps to ensure that the In
 
 (b)
 
-NASA Actions.—In furtherance of the policy under subsection (a), the Administratorshall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
+NASA Actions.—In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
 
 &emsp;(1) remains viable as an element of overall exploration and partnership strategies and approaches;
 

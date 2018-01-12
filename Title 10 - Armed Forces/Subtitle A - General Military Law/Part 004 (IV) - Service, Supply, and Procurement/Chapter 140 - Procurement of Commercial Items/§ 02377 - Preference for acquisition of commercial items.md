@@ -72,7 +72,7 @@ Market Research Training Required.—The Secretary of Defense shall provide mand
 
 &emsp;(3) provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
 
-(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a),Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307.)
+(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307.)
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Guidance Required.—Not later than 90 days after the date of the enactment of t
 
 "(b)
 
-Review Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], theChairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in section 2377(c) of title 10, United States Code, and section 10.001 of the Federal Acquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements.
+Review Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Chairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in section 2377(c) of title 10, United States Code, and section 10.001 of the FederalAcquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements.
 
 "(c)
 

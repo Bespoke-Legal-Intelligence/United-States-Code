@@ -30,7 +30,7 @@
 
 (3) The Office of Personnel Management may prescribe regulations, with respect to firefighters subject to this section, that would permit an agency to reduce or eliminate the variation in the amount of firefighters' biweekly pay caused by work scheduling cycles that result in varying hours in the regular tours of duty from pay period to pay period. Under such regulations, the pay that a firefighter would otherwise receive for regular tours of duty over the work scheduling cycle shall, to the extent practicable, remain unaffected.
 
-(4) Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this section for hours in a regular tour of duty shall be included in any computation of pay under section 8114.
+(4) Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this sectionfor hours in a regular tour of duty shall be included in any computation of pay under section 8114.
 
 (Added Pub. L. 105–277, div. A, §101(h) \[title VI, §628(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–519; amended Pub. L. 106–554, §1(a)(3) \[title VI, §641(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
 

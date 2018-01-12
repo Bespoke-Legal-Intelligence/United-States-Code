@@ -102,7 +102,7 @@ Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992."
+Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992."
 
 #### Short Title
 
@@ -114,7 +114,7 @@ Pub. L. 88–647, title I, §102, Oct. 13, 1964, 78 Stat. 1064, directed that re
 
 #### Savings Clause
 
-Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
+Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see ShortTitle note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
 
 #### Increase in Number of Units of Junior Reserve Officers' Training Corps
 

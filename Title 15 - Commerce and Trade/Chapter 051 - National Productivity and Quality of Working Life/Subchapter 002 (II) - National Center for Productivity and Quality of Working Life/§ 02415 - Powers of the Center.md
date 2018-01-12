@@ -4,7 +4,7 @@ In carrying out its functions, the Center is authorized—
 
 &emsp;(1) to enter into contracts or other funding arrangements, or modifications thereof, in order to carry out the provisions of this chapter;
 
-&emsp;(2) to organize and conduct, directly by contract or other funding arrangements with other public agencies or private organizations, conferences, meetings, seminars, workshops, or other forums for the presentation and dissemination of relevant information generated or collected pursuant to the provisions of this chapter;
+&emsp;(2) to organize and conduct, directly by contract or other funding arrangements with other public agencies or private organizations,conferences, meetings, seminars, workshops, or other forums for the presentation and dissemination of relevant information generated or collected pursuant to the provisions of this chapter;
 
 &emsp;(3) to make such studies and recommendations to the President and to Congress as may be necessary to carry out the functions of the Center;
 

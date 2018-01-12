@@ -78,7 +78,7 @@ Restitution of specific victims.—Amounts collected by the Director under this 
 
 Allocation of other amounts.—Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
 
-&emsp;&emsp;(A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); and
+&emsp;&emsp;(A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); <sup>1</sup> and
 
 &emsp;&emsp;(B) 25 percent shall be available to the Attorney General for administrative expenses incurred in carrying out this section.
 
@@ -92,7 +92,7 @@ Notice to Prisoners of Law.—Each person who is or becomes a prisoner shall be 
 
 (i)
 
-Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments,as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (or amendments, as the case may be) for services provided before the expiration of such period.
+Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (or amendments, as the case may be) for services provided before the expiration of such period.
 
 (j)
 
@@ -120,5 +120,9 @@ Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall provide 
 
 #### References in Text
 
+Section 1402 of the Victims of Crime Act of 1984, referred to in subsec. (g)(2)(A), is section 1402 of chapter XIV of title II of Pub. L. 98–473, which was classified to section 10601 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20101 of Title 34, Crime Control and Law Enforcement.
+
 The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, referred to in subsec. (k), is the date of enactment of Pub. L. 106–294, which was approved Oct. 12, 2000.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Purpose.—Wright Brothers Day commemorates the first successful flights in a he
 
 (c)
 
-Proclamation.—The President is requested to issue each year a proclamation inviting the people of the United States to observe Wright Brothers Day with appropriate ceremonies and activities.
+Proclamation.—The President is requested to issue each year a proclamation inviting the people of the United States to observe WrightBrothers Day with appropriate ceremonies and activities.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1262.)
 

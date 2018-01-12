@@ -36,3 +36,7 @@ A person that is connected in any capacity with the Secretary in the administrat
 
 A prior section 3215, Pub. L. 89–136, title VII, §705, Aug. 26, 1965, 79 Stat. 573, related to separability of provisions, prior to repeal by Pub. L. 105–393, §102(b)(3).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

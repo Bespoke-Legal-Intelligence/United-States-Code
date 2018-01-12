@@ -12,7 +12,7 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 
 #### (2) Authority to administer oaths; subpoena power
 
-&emsp;In the course of, or in connection with, an application, examination, investigation, or other proceeding under this chapter, the Board, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation, as the case may be, any member of the Board or of the Board of Directors of the Corporation, and any designated representative of the Board, Comptroller, or Corporation (including any person designated to conduct any hearing under this chapter) may—
+&emsp;In the course of, or in connection with, an application, examination, investigation, orother proceeding under this chapter, the Board, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation, as the case may be, any member of the Board or of the Board of Directors of the Corporation, and any designated representative of the Board, Comptroller, or Corporation (including any person designated to conduct any hearing under this chapter) may—
 
 &emsp;&emsp;(A) administer oaths and affirmations and take or cause to be taken depositions; and
 

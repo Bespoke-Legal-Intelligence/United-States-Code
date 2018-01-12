@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) it is in the interest of public health and safety to minimize unnecessary exposure topotentially hazardous radiation due to medical and dental radiologic procedures;
+&emsp;(1) it is in the interest of public health and safety to minimize unnecessary exposure to potentially hazardous radiation due to medical and dental radiologic procedures;
 
 &emsp;(2) it is in the interest of public health and safety to have a continuing supply of adequately educated persons and appropriate accreditation and certification programs administered by State governments;
 

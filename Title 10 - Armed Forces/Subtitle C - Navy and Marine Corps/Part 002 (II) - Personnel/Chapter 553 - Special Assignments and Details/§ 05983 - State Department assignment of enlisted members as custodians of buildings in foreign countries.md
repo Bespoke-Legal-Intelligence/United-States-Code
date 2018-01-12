@@ -52,7 +52,7 @@ Report on 'New Normal' and General Mission Requirements of United States Africa 
 
 &emsp;"(1)
 
-In general.—Not later than March 1, 2015, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on what changes, if any, have been made to the force posture and structure of the United States Africa Command or adjacent combatant commands to respond, if requested, to a diplomatic facility's security requirements (so-called 'new normal' requirements) and general mission of United States Africa Command.
+In general.—Not later than March 1, 2015, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on what changes, ifany, have been made to the force posture and structure of the United States Africa Command or adjacent combatant commands to respond, if requested, to a diplomatic facility's security requirements (so-called 'new normal' requirements) and general mission of United States Africa Command.
 
 &emsp;"(2)
 
@@ -102,7 +102,7 @@ Consultation.—The Secretary of Defense shall develop and implement the plan re
 
 Supporting Information for Budget Requests.—The material submitted in support of the budget of the President for each fiscal year after fiscal year 2013, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, shall include the following with regard to the Marine Corps Security Guard Program:
 
-&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards tothe Department of State during that fiscal year, including—
+&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards to the Department of State during that fiscal year, including—
 
 &emsp;&emsp;"(A) any increased internal security to be provided at United States embassies, consulates, and other diplomatic facilities;
 

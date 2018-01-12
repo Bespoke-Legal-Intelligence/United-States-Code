@@ -146,7 +146,7 @@ Amendment by Pub. L. 91–231 effective Apr. 15, 1970, see section 9(b) of Pub. 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–556 effective on first day of first pay period beginning on or after thirtieth dayafter Oct. 10, 1968, see section 3 of Pub. L. 90–556, set out as a note under section 5542 of this title.
+Amendment by Pub. L. 90–556 effective on first day of first pay period beginning on or after thirtieth day after Oct. 10, 1968, see section 3 of Pub. L. 90–556, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1967 Amendment
 

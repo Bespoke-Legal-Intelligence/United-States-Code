@@ -14,7 +14,7 @@ In addition to the purposes described in subsection (a), a poison center or prof
 
 &emsp;(3) to improve national toxic exposure surveillance by enhancing cooperative activities between poison control centers in the United States and the Centers for Disease Control and Prevention;
 
-&emsp;(4) to research, improve, and enhance the communications and response capability and capacity of the nation's network of poison control centers to facilitate increased access to the centers through the integration andmodernization of the current poison control centers communications and data system, including enhancing the network's telephony, Internet, data and social networking technologies;
+&emsp;(4) to research, improve, and enhance the communications and response capability and capacity of the nation's network of poison control centers to facilitate increased access to the centers through the integration and modernization of the current poison control centers communications and data system, including enhancing the network's telephony, Internet, data and social networking technologies;
 
 &emsp;(5) to develop, support, and enhance technology and capabilities of professional organizations in the field of poison control to collect national poisoning, toxic occurrence, and related public health data;
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 113–77, §4(a)(6), added subsec. (g) and struck out forme
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–77, §4(b), Jan. 24, 2014, 128 Stat. 646, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 24, 2014\] and shall apply to grants made on or after October 1, 2014."
+Pub. L. 113–77, §4(b), Jan. 24, 2014, 128 Stat. 646, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 24, 2014\] and shall apply to grants made on or after October 1, 2014."
 
 #### Effective Date of 2008 Amendment
 

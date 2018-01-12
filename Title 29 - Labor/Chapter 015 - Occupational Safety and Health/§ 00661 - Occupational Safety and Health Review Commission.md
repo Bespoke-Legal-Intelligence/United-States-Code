@@ -28,7 +28,7 @@ Every official act of the Commission shall be entered of record, and its hearing
 
 #### (h) Depositions and production of documentary evidence; fees
 
-The Commission may order testimony to be taken by deposition in any proceeding pending before it at any state of such proceeding. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission. Witnesses whose depositions are taken under this subsection, and the persons taking such depositions, shall be entitled to the same fees as arepaid for like services in the courts of the United States.
+The Commission may order testimony to be taken by deposition in any proceeding pending before it at any state of such proceeding. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission. Witnesses whose depositions are taken under this subsection, and the persons taking such depositions, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (i) Investigatory powers
 
@@ -62,7 +62,7 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "An".</i>
 

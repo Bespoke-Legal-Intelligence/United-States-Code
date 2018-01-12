@@ -7,16 +7,24 @@
 | [243\.](%C2%A7%2000243%20-%20Dividends%20received%20by%20corporations.md) | Dividends received by corporations. |
 | \[244. | Repealed.\] |
 | [245\.](%C2%A7%2000245%20-%20Dividends%20received%20from%20certain%20foreign%20corporations.md) | Dividends received from certain foreign corporations. |
+| [245A.](%C2%A7%2000245A%20-%20Deduction%20for%20foreign%20source-portion%20of%20dividends%20received%20by%20domestic%20corporations%20from%20specified%2010-percent%20owned%20foreign%20corporations.md) | Deduction for foreign source-portion of dividends received by domestic corporations from certain 10-percent owned foreign corporations.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [246\.](%C2%A7%2000246%20-%20Rules%20applying%20to%20deductions%20for%20dividends%20received.md) | Rules applying to deductions for dividends received. |
 | [246A.](%C2%A7%2000246A%20-%20Dividends%20received%20deduction%20reduced%20where%20portfolio%20stock%20is%20debt%20financed.md) | Dividends received deduction reduced where portfolio stock is debt financed. |
-| \[247. | Repealed.\] |
+| [247\.](%C2%A7%2000247%20-%20Contributions%20to%20Alaska%20Native%20Settlement%20Trusts.md) | Contributions to Alaska Native Settlement Trusts. |
 | [248\.](%C2%A7%2000248%20-%20Organizational%20expenditures.md) | Organizational expenditures. |
 | [249\.](%C2%A7%2000249%20-%20Limitation%20on%20deduction%20of%20bond%20premium%20on%20repurchase.md) | Limitation on deduction of bond premium on repurchase. |
-| \[250. | Repealed.\] |
+| [250\.](%C2%A7%2000250%20-%20Foreign-derived%20intangible%20income%20and%20global%20intangible%20low-taxed%20income.md) | Foreign-derived intangible income and global intangible low-taxed income. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§13821(b)(2), 14101(e)(3), 14202(b)(4), Dec. 22, 2017, 131 Stat. 2181, 2192, 2216, added items 245A, 247, and 250.
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(41)(A), Dec. 19, 2014, 128 Stat. 4043, struck out item 244 "Dividends received on certain preferred stock" and item 247 "Dividends paid on certain preferred stock of public utilities".
 
@@ -30,6 +38,8 @@
 
 <b>1969</b>—Pub. L. 91–172, title IV, §414(b), Dec. 30, 1969, 83 Stat. 613, added item 249.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -40,9 +50,10 @@
 - [&sect; 00243 - Dividends received by corporations](%C2%A7%2000243%20-%20Dividends%20received%20by%20corporations.md)
 - [&sect; 00244 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(41)(A), Dec. 19, 2014, 128 Stat. 4043](%C2%A7%2000244%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2841%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204043.md)
 - [&sect; 00245 - Dividends received from certain foreign corporations](%C2%A7%2000245%20-%20Dividends%20received%20from%20certain%20foreign%20corporations.md)
+- [&sect; 00245A - Deduction for foreign source-portion of dividends received by domestic corporations from specified 10-percent owned foreign corporations](%C2%A7%2000245A%20-%20Deduction%20for%20foreign%20source-portion%20of%20dividends%20received%20by%20domestic%20corporations%20from%20specified%2010-percent%20owned%20foreign%20corporations.md)
 - [&sect; 00246 - Rules applying to deductions for dividends received](%C2%A7%2000246%20-%20Rules%20applying%20to%20deductions%20for%20dividends%20received.md)
 - [&sect; 00246A - Dividends received deduction reduced where portfolio stock is debt financed](%C2%A7%2000246A%20-%20Dividends%20received%20deduction%20reduced%20where%20portfolio%20stock%20is%20debt%20financed.md)
-- [&sect; 00247 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(41)(A), Dec. 19, 2014, 128 Stat. 4043](%C2%A7%2000247%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%2841%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204043.md)
+- [&sect; 00247 - Contributions to Alaska Native Settlement Trusts](%C2%A7%2000247%20-%20Contributions%20to%20Alaska%20Native%20Settlement%20Trusts.md)
 - [&sect; 00248 - Organizational expenditures](%C2%A7%2000248%20-%20Organizational%20expenditures.md)
 - [&sect; 00249 - Limitation on deduction of bond premium on repurchase](%C2%A7%2000249%20-%20Limitation%20on%20deduction%20of%20bond%20premium%20on%20repurchase.md)
-- [&sect; 00250 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(15), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000250%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2815%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
+- [&sect; 00250 - Foreign-derived intangible income and global intangible low-taxed income](%C2%A7%2000250%20-%20Foreign-derived%20intangible%20income%20and%20global%20intangible%20low-taxed%20income.md)

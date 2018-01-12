@@ -16,7 +16,7 @@ The amount referred to in subsection (a)(2) is the product of—
 
 &emsp;(2) a percentage equal to the quotient of—
 
-&emsp;&emsp;(A) an amount equal to the population living in urbanized areas of the State involved,as indicated by the most recent data collected by the Bureau of the Census; and
+&emsp;&emsp;(A) an amount equal to the population living in urbanized areas of the State involved, as indicated by the most recent data collected by the Bureau of the Census; and
 
 &emsp;&emsp;(B) an amount equal to the population living in urbanized areas of the United States, as indicated by the sum of the respective amounts determined for the States under subparagraph (A).
 
@@ -28,5 +28,5 @@ A prior section 524 of act July 1, 1944, was renumbered section 545 by section 6
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to determination of amount of allotment for provisions relating to requiring provision of certain mental health services.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to determination ofamount of allotment for provisions relating to requiring provision of certain mental health services.
 

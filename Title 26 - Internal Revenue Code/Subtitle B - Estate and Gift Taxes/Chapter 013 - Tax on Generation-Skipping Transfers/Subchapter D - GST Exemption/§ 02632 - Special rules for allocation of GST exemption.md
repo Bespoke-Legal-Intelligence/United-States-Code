@@ -72,7 +72,7 @@
 
 #### (4) Automatic allocations to certain GST trusts
 
-&emsp;For purposes of this subsection, an indirect skip to which section 2642(f) applies shall be deemed to have been made only at the close of the estate tax inclusion period. The fair market value of such transfer shall be the fair market value of the trust property at the close of the estate tax inclusion period.
+&emsp;For purposes of this subsection, an indirect skip to which section 2642(f) applies shall be deemed to have been made only at the close of the estate tax inclusion period. The fair market value of such transfer shall be the fairmarket value of the trust property at the close of the estate tax inclusion period.
 
 #### (5) Applicability and effect
 
@@ -174,7 +174,7 @@ Retroactive allocations.—Section 2632(d) of the Internal Revenue Code of 1986 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

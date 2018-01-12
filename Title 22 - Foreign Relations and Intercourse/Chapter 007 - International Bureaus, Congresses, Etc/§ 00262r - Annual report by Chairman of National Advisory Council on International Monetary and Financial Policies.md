@@ -8,7 +8,7 @@ The Chairman shall report annually to the Speaker of the House of Representative
 
 Each annual report required by subsection (a) shall contain—
 
-&emsp;(1) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate;
+&emsp;(1) such data and explanations concerning the effectiveness, operations, and policies ofthe international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate;
 
 &emsp;(2) the reports on each specific issue and topic which is required by any other provision of law to be included in the report of the National Advisory Council on International Monetary and Financial Policies required by section 286b(b)(5) of this title, as in effect immediately before December 19, 1989;
 
@@ -38,7 +38,7 @@ Each annual report required by subsection (a) shall contain—
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
-&emsp;&emsp;(C) the contributions of development finance companies toward strengthening theprivate sector in member borrowing countries.
+&emsp;&emsp;(C) the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
 
 #### (c) Definitions
 
@@ -80,7 +80,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
 
-This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–8 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
 
 Section 262d(c) of this title, referred to in subsec. (b)(9), was repealed by Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.
 
@@ -102,7 +102,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §583\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–202, provided that:
 
-"(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of theInternational Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
+"(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
 
 &emsp;"(1) an assessment of the effectiveness of the major policies and operations of the international financial institutions;
 
@@ -166,7 +166,7 @@ Period of Appointment; Vacancies.—Members shall be appointed for the life of t
 
 "(e)
 
-Duties of the Commission.—The Commission shall advise and report to the Congress on the future role and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
+Duties of the Commission.—The Commission shall advise and report to the Congress on the futurerole and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
 
 &emsp;"(1) the effect of globalization, increased trade, capital flows, and other relevant factors on such institutions;
 
@@ -216,7 +216,7 @@ Reports by the Executive Branch.—
 
 &emsp;"(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implementsuch recommendations as are deemed feasible and desirable under paragraph (1)."
+&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1)."
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 

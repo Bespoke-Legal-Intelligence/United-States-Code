@@ -64,7 +64,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (e) Rule of construction
 
-Nothing in section 1681u of this title shall be construed to limit the authority of the Director of the Federal Bureau of Investigation under this section.
+Nothing in section 1681u of this title shall be construed to limit the authority of the Directorof the Federal Bureau of Investigation under this section.
 
 #### (f) Safe harbor
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–23, §501(d), substituted "analysis and that includes a term that specificallyidentifies a consumer or account to be used as the basis for the production of such information." for "analysis."
+<b>2015</b>—Subsec. (a). Pub. L. 114–23, §501(d), substituted "analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information." for "analysis."
 
 Subsec. (c). Pub. L. 114–23, §502(d), added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
 

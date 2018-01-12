@@ -74,7 +74,7 @@ Regulations to carry out this subchapter may not require local programs to follo
 
 #### (e) Rule of construction
 
-Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the "Administrative Procedure Act") or chapter 8 of title 5 (commonly known as the "Congressional Review Act").
+Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7,of title 5 (commonly known as the "Administrative Procedure Act") or chapter 8 of title 5 (commonly known as the "Congressional Review Act").
 
 (Pub. L. 89–10, title I, §1601, formerly §1901, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1617; renumbered §1601 and amended Pub. L. 114–95, title I, §§1501(a)(4), 1601(a), Dec. 10, 2015, 129 Stat. 1906, 1910.)
 

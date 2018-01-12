@@ -108,7 +108,7 @@ The Institute shall not itself undertake to influence the passage or defeat of a
 
 #### (o) Administrative services from General Services Administration
 
-The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
+The Institute may obtain administrative support services from the Administrator of GeneralServices and use all sources of supply and services of the General Services Administration on a reimbursable basis.
 
 (Pub. L. 98–525, title XVII, §1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, §25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, §6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, §319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, §1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, §931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, §921(a), Aug. 14, 2008, 122 Stat. 3456.)
 

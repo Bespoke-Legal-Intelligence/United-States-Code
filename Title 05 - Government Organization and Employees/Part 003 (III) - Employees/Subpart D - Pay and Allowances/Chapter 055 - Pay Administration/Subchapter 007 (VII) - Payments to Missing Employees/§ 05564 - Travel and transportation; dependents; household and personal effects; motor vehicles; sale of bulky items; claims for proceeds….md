@@ -20,7 +20,7 @@
 
 &emsp;(2) a monetary allowance, instead of transportation, as authorized by statute for the whole or that part of the travel for which transportation in kind was not furnished.
 
-(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personaleffects shall be charged against appropriations currently available.
+(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personal effects shall be charged against appropriations currently available.
 
 (g) When the head of the agency concerned determines that an emergency exists and that a sale would be in the best interests of the United States, he may provide for the public or private sale of motor vehicles and other bulky items of the household and personal effects of an employee described in subsection (b) of this section. Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of interested persons. The net proceeds from the sale shall be sent to the owner or other person entitled thereto under regulations prescribed by the head of the agency concerned. If there is no owner or other person entitled thereto, or if the owner or other person or their addresses are not ascertained within 1 year from the date of sale, the net proceeds may be covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -34,7 +34,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1966
 

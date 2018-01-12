@@ -32,7 +32,7 @@ In the case of Restricted Data which the Commission and the Department of Defens
 
 (2) The Commission may restore to the Restricted Data category any information concerning atomic energy programs of other nations removed under paragraph (1) if the Commission and the Director of National Intelligence jointly determine that—
 
-&emsp;(A) the programmatic requirements that caused the information to be removed fromthe Restricted Data category are no longer applicable or have diminished;
+&emsp;(A) the programmatic requirements that caused the information to be removed from the Restricted Data category are no longer applicable or have diminished;
 
 &emsp;(B) the information would be more appropriately protected as Restricted Data; and
 
@@ -84,7 +84,7 @@ Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring t
 
 Ex. Ord. No. 11057, eff. Oct. 18, 1962, 27 F.R. 10289, provided:
 
-By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 et seq.), and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referredto as the Act; 42 U.S.C. 2011 et seq.), and as President of the United States, it is ordered as follows:
 
 The Department of State is hereby authorized to communicate, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsection 144b of the act (42 U.S.C. 2164(b)), such restricted data and data removed from the restricted data category under subsection 142d of the act (42 U.S.C. 2162(d)) as is determined
 
@@ -96,7 +96,7 @@ John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 11057
 
-Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

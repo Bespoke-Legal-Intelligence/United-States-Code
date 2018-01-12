@@ -19,12 +19,7 @@
 | [2564a.](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md) | Provision of assistance for adaptive sports programs for members of the armed forces. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
-| [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices. |
 | [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,6 +29,8 @@
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(a)(42), Dec. 12, 2017, 131 Stat. 1596, inserted period at end of item 2567.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(C), div. B, title XXVIII, §2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 "Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs" and added item 2567.
 
@@ -80,8 +77,6 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 <b>1972</b>—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 <b>1958</b>—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

@@ -14,7 +14,7 @@ Days After Notice Period.—If at the end of the notice period under subsection 
 
 Continuation of Service for Additional 30-
 
-Day Periods.—If at the end of the 30-day period under subsection (b) of this section the Secretary decides another air carrier will not provide basic essential air service to the place on a continuing basis, the Secretary shall require the carrier providing service to continue to provide service for additional 30-day periods until another carrier begins providing service on a continuing basis. At the end of each 30-day period, the Secretary shall decide if another carrier will provide service on a continuing basis.
+Day Periods.—If at the end of the 30-day period under subsection (b) of this section the Secretary decides another air carrier will not provide basic essential air service to the place on a continuing basis, the Secretary shall require the carrier providing service to continue to provide service for additional 30-day periods until another carrier begins providing service on a continuing basis. At the end of each 30-day period,the Secretary shall decide if another carrier will provide service on a continuing basis.
 
 (d)
 
@@ -100,7 +100,7 @@ In subsection (c), the words "either with or without compensation" are omitted a
 
 In subsections (d)(1) and (e)(1), the word "fair" is omitted as being included in "reasonable".
 
-In subsection (d), before clause (1), the words "basic essential air service" are substituted for "air transportation" and "such transportation" for consistency with the source provisions restated in this section. The words "to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section" are substituted for "to continue service to such point beyond the date on which such carrier would, but for paragraph (5), be able to suspend, terminate, or reduce such service below the level of basic essential air service to such point" to eliminate unnecessary words.
+In subsection (d), before clause (1), the words "basic essential air service" are substituted for "air transportation" and "such transportation" for consistency with the source provisions restated in this section. The words "to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section" are substituted for "to continue service to such point beyond the date onwhich such carrier would, but for paragraph (5), be able to suspend, terminate, or reduce such service below the level of basic essential air service to such point" to eliminate unnecessary words.
 
 In subsection (e), before clause (1), the words "basic essential air service" are substituted for "air transportation" for consistency with the source provisions restated in this section. The words "after the end of the 90-day notice period that is" are substituted for "then" for clarity.
 

@@ -24,3 +24,7 @@ Section 31308 allows the Secretary of Commerce or Transportation to foreclose on
 
 <b>1990</b>—Pub. L. 101–595 substituted "(46 App. U.S.C. 1271 et seq.)" for "(46 App. U.S.C. 1241 et seq.)".
 
+#### Effective Date
+
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title.
+

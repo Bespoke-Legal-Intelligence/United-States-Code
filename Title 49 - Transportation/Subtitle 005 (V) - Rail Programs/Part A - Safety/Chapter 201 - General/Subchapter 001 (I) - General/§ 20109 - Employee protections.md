@@ -14,7 +14,7 @@ In General.—A railroad carrier engaged in interstate or foreign commerce, a co
 
 &emsp;(2) to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security;
 
-&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroadsafety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
+&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
 
 &emsp;(4) to notify, or attempt to notify, the railroad carrier or the Secretary of Transportation of a work-related personal injury or work-related illness of an employee;
 
@@ -138,7 +138,7 @@ Rights Retained by Employee.—Nothing in this section shall be deemed to dimini
 
 Disclosure of Identity.—
 
-&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions.
+&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent ofthe employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions.
 
 &emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosures shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 
@@ -266,7 +266,7 @@ Plan Requirements.—Each such plan shall include provisions for—
 
 &emsp;"(1) relieving an employee who was involved in a critical incident of his or her duties for the balance of the duty tour, following any actions necessary for the safety of persons and contemporaneous documentation of the incident;
 
-&emsp;"(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or her duties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
+&emsp;"(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or herduties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
 
 &emsp;"(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
 

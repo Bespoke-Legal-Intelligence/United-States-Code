@@ -16,5 +16,5 @@ Section was formerly classified to section 905 of this title.
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. No. 1 of 1953, set out as a note under section 202 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. No. 1 of 1953, set out as a note under section 202 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg.Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

@@ -32,13 +32,13 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 #### (3) Consideration
 
-&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including theincidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
+&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including the incidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
 
 #### (c) Preference
 
 In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with schoolsystems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
@@ -104,7 +104,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 #### (f) Rule of construction; religious and moral accommodation
 
-Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
+Nothing in this section shall be construed to require suicide assessment, early intervention,or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
 
 #### (g) Evaluations and report
 
@@ -174,7 +174,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively,of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
@@ -182,7 +182,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, seeShort Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
@@ -242,7 +242,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
 
-&emsp;"(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that 'serious mentalillness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.'.
+&emsp;"(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that 'serious mental illness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.'.
 
 &emsp;"(16) A 2003 Gallagher's Survey of Counseling Center Directors found that 81 percent were concerned about the increasing number of students with more serious psychological problems, 67 percent reported a need for more psychiatric services, and 63 percent reported problems with growing demand for services without an appropriate increase in resources.
 

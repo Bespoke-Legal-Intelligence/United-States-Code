@@ -22,7 +22,7 @@ No natural-gas company shall abandon all or any portion of its facilities subjec
 
 #### (d) Application for certificate of public convenience and necessity
 
-Application for certificates shall be made in writing to the Commission, be verified underoath, and shall be in such form, contain such information, and notice thereof shall be served upon such interested parties and in such manner as the Commission shall, by regulation, require.
+Application for certificates shall be made in writing to the Commission, be verified under oath, and shall be in such form, contain such information, and notice thereof shall be served upon such interested parties and in such manner as the Commission shall, by regulation, require.
 
 #### (e) Granting of certificate of public convenience and necessity
 

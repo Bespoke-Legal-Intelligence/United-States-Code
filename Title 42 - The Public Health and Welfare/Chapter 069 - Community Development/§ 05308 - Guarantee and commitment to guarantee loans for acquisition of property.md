@@ -6,7 +6,7 @@ The Secretary is authorized, upon such terms and conditions as the Secretary may
 
 #### (b) Prerequisites
 
-No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the issuer's total outstanding notes or obligations guaranteed under this section (excluding any amount defeased under the contract entered into under subsection (d)(1)(A) of this section) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to section 5306 or 5307 of this title.
+No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the issuer's total outstanding notes or obligations guaranteed under this section (excluding any amount defeased under the contract entered into under subsection (d)(1)(A)) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to section 5306 or 5307 of this title.
 
 #### (c) Payment of principal, interest and costs
 
@@ -26,11 +26,11 @@ Notwithstanding any other provision of this chapter, grants allocated to an issu
 
 #### (e) Pledged grants for repayments
 
-The Secretary is authorized, notwithstanding any other provision of this chapter, to apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (d) of this section to any repayments due the United States as a result of such guarantees.
+The Secretary is authorized, notwithstanding any other provision of this chapter, to apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (d) to any repayments due the United States as a result of such guarantees.
 
 #### (f) Full faith and credit of United States pledged for payment; conclusiveness and validity of guarantee
 
-The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guaranteemade by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
+The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
 
 #### (g) Issuance of obligations by Secretary to Secretary of the Treasury to satisfy authorized guarantee obligations; establishment of maturities and rates of interest and purchase of obligations by Secretary of the Treasury
 
@@ -38,7 +38,7 @@ The Secretary may issue obligations to the Secretary of the Treasury in an amoun
 
 #### (h) Federal taxation of guaranteed obligations; grants to borrowing entity or agency of taxable obligations for net interest costs, etc.; limitation on amount of grant; assistance to issuer in hardship cases
 
-Obligations guaranteed under this section shall be subject to Federal taxation as provided in subsection (j) of this section. The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of the issuing eligible public entity or public agency to cover not to exceed 30 per centum of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
+Obligations guaranteed under this section shall be subject to Federal taxation as provided in subsection (j). The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of the issuing eligible public entity or public agency to cover not to exceed 30 per centum of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
 
 #### (i) Omitted
 
@@ -48,7 +48,7 @@ With respect to any obligation issued by a <sup>2</sup> eligible public entity 
 
 #### (k) Outstanding obligations; limitation; monitoring use of guarantees under this section
 
-(1) The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (a) of this section shall not at any time exceed $4,500,000,000 or such higher amount as may be authorized to be appropriated for sections 5306 and 5307 of this title for any fiscal year.
+(1) The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (a) shall not at any time exceed $4,500,000,000 or such higher amount as may be authorized to be appropriated for sections 5306 and 5307 of this title for any fiscal year.
 
 (2) The Secretary shall monitor the use of guarantees under this section by eligible public entities. If the Secretary finds that 50 percent of the aggregate guarantee authority has been committed, the Secretary may—
 
@@ -86,11 +86,11 @@ For purposes of this section, the term "eligible public entity" means any unit o
 
 #### (2) Eligible activities
 
-&emsp;Assistance under this subsection may be used only for the purposes of and in conjunction with projects and activities assisted under subsection (a) of this section.
+&emsp;Assistance under this subsection may be used only for the purposes of and in conjunction with projects and activities assisted under subsection (a).
 
 #### (3) Applications
 
-&emsp;Applications for assistance under this subsection may be submitted only by eligible public entities, and shall be in the form and in accordance with the procedures established by the Secretary. Eligible public entities may apply for grants only in conjunction with requests for guarantees under subsection (a) of this section.
+&emsp;Applications for assistance under this subsection may be submitted only by eligible public entities, and shall be in the form and in accordance with the procedures established by the Secretary. Eligible public entities may apply for grants only in conjunction with requests for guarantees under subsection (a).
 
 #### (4) Selection criteria
 
@@ -116,7 +116,7 @@ For purposes of this section, the term "eligible public entity" means any unit o
 
 #### (2) Full faith and credit
 
-&emsp;To the same extent as provided in subsection (f) of this section, the full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee made by the Secretary under this subsection.
+&emsp;To the same extent as provided in subsection (f), the full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee made by the Secretary under this subsection.
 
 #### (3) Subrogation
 
@@ -172,7 +172,7 @@ Pub. L. 101–625, §910(b)(1)(A), substituted "eligible public entity" and "eli
 
 Pub. L. 101–625, §901(b), amended last sentence generally. Prior to amendment, last sentence read as follows: "Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities, to the authority provided in this section, and to any funding limitation approved in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $150,000,000 during fiscal year 1988, and $153,000,000 during fiscal year 1989."
 
-Subsec. (b). Pub. L. 101–625, §910(d), inserted "(excluding any amount defeased under the contract entered into under subsection (d)(1)(A) of this section)" after "this section", substituted "5" for "three", and inserted reference to section 5307 of this title.
+Subsec. (b). Pub. L. 101–625, §910(d), inserted "(excluding any amount defeased under the contract entered into under subsection (d)(1)(A))" after "this section", substituted "5" for "three", and inserted reference to section 5307 of this title.
 
 Subsec. (d). Pub. L. 101–625, §910(b)(4)(A), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 

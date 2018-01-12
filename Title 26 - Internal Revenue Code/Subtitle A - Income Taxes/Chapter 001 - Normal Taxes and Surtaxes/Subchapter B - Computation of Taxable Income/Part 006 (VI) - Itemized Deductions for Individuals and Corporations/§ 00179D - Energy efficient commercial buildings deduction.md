@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the building envelope, and
 
-&emsp;&emsp;(D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
+&emsp;&emsp;(D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of thebuilding by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
 
 #### (2) Standard 90.1–2007
 
@@ -152,7 +152,7 @@ The Secretary shall promulgate such regulations as necessary—
 
 This section shall not apply with respect to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub.L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113.)
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113.)
 
 #### Amendments
 

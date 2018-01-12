@@ -40,3 +40,7 @@ Amendment by section 402(e), (f) of Pub. L. 98–622 effective six months after 
 
 Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
 
+#### Effective Date
+
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+

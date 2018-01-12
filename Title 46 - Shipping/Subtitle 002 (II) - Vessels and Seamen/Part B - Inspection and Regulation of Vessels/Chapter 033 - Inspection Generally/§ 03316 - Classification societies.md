@@ -1,6 +1,6 @@
 ### §3316. Classification societies
 
-(a) Each department, agency, and instrumentality of the United States Government shall recognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and paying no dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
+(a) Each department, agency, and instrumentality of the United States Government shallrecognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and paying no dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
 
 (b)(1) The Secretary may delegate to the American Bureau of Shipping or another classification society recognized by the Secretary as meeting acceptable standards for such a society, for a vessel documented or to be documented under chapter 121 of this title, the authority to—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in theUnited States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
 
 (2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
 
@@ -66,7 +66,7 @@
 
 (3) If an inspection or examination is conducted under authority delegated under this subsection, the person to which the authority was delegated—
 
-&emsp;(A) shall maintain in the United States complete files of all information derived from or necessarily connected with the inspection or examination for at least 2 years after the United States offshore facility ceases to be certified; and
+&emsp;(A) shall maintain in the United States complete files of all information derived from ornecessarily connected with the inspection or examination for at least 2 years after the United States offshore facility ceases to be certified; and
 
 &emsp;(B) shall permit access to those files at all reasonable times to any officer, employee, or member of the Coast Guard designated—
 
@@ -164,7 +164,11 @@ Subsec. (d). Pub. L. 104–324, §607(a)(1), struck out subsec. (d) which read a
 
 Pub. L. 108–293, title IV, §413(b), Aug. 9, 2004, 118 Stat. 1046, provided that: "Section 3316(c)(1) of title 46, United States Code, shall apply with respect to operation as a classification society on or after January 1, 2005."
 
+#### Effective Date
+
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

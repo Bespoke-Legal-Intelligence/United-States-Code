@@ -32,7 +32,7 @@ Pub. L. 114–94, div. G, title LXXXI, §81001, Dec. 4, 2015, 129 Stat. 1792, pr
 
 "(a)
 
-Establishment.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall establish a demonstration program under which the Secretary may execute budget-neutral, performance-based agreements in fiscal years 2016through 2019 that result in a reduction in energy or water costs with such entities as the Secretary determines to be appropriate under which the entities shall carry out projects for energy or water conservation improvements at not more than 20,000 residential units in multifamily buildings participating in—
+Establishment.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall establish a demonstration program under which the Secretary may execute budget-neutral, performance-based agreements in fiscal years 2016 through 2019 that result in a reduction in energy or water costs with such entities as the Secretary determines to be appropriate under which the entities shall carry out projects for energy or water conservation improvements at not more than 20,000 residential units in multifamily buildings participating in—
 
 &emsp;"(1) the project-based rental assistance program under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f), other than assistance provided under section 8(o) of that Act;
 
@@ -152,7 +152,7 @@ Pub. L. 101–625, title IX, §946, Nov. 28, 1990, 104 Stat. 4416, as amended by
 
 "(a)
 
-Uniform Plan.—The Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall promulgate a uniform plan to make housing more affordable through energy efficient mortgages (as such term is defined in section 104 of this Act \[42 U.S.C. 12704\]). The plan shall be promulgated not later than 2 years after the date of the enactment ofthe Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].
+Uniform Plan.—The Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall promulgate a uniform plan to make housing more affordable through energy efficient mortgages (as such term is defined in section 104 of this Act \[42 U.S.C. 12704\]). The plan shall be promulgated not later than 2 years after the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].
 
 "(b)
 

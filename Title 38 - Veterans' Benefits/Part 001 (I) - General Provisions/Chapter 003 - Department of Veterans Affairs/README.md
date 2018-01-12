@@ -25,6 +25,7 @@
 | [320\.](%C2%A7%2000320%20-%20Department%20of%20Veterans%20Affairs-Department%20of%20Defense%20Joint%20Executive%20Committee.md) | Department of Veterans Affairs-Department of Defense Joint Executive Committee. |
 | [321\.](%C2%A7%2000321%20-%20Office%20of%20Survivors%20Assistance.md) | Office of Survivors Assistance. |
 | [322\.](%C2%A7%2000322%20-%20Office%20of%20National%20Veterans%20Sports%20Programs%20and%20Special%20Events.md) | Office of National Veterans Sports Programs and Special Events. |
+| [323\.](%C2%A7%2000323%20-%20Office%20of%20Accountability%20and%20Whistleblower%20Protection.md) | Office of Accountability and Whistleblower Protection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -100,6 +101,8 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 #### Amendments
 
+<b>2017</b>—Pub. L. 115–41, title I, §101(c), June 23, 2017, 131 Stat. 865, added item 323.
+
 <b>2008</b>—Pub. L. 110–389, title II, §222(b), title VII, §703(b), Oct. 10, 2008, 122 Stat. 4156, 4184, added items 321 and 322.
 
 <b>2006</b>—Pub. L. 109–461, title VIII, §811(b), Dec. 22, 2006, 120 Stat. 3447, added item 312A.
@@ -146,3 +149,4 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00320 - Department of Veterans Affairs-Department of Defense Joint Executive Committee](%C2%A7%2000320%20-%20Department%20of%20Veterans%20Affairs-Department%20of%20Defense%20Joint%20Executive%20Committee.md)
 - [&sect; 00321 - Office of Survivors Assistance](%C2%A7%2000321%20-%20Office%20of%20Survivors%20Assistance.md)
 - [&sect; 00322 - Office of National Veterans Sports Programs and Special Events](%C2%A7%2000322%20-%20Office%20of%20National%20Veterans%20Sports%20Programs%20and%20Special%20Events.md)
+- [&sect; 00323 - Office of Accountability and Whistleblower Protection](%C2%A7%2000323%20-%20Office%20of%20Accountability%20and%20Whistleblower%20Protection.md)

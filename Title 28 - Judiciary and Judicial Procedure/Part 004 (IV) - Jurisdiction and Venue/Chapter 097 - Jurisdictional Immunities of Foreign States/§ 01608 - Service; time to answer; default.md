@@ -18,7 +18,7 @@
 
 &emsp;(2) if no special arrangement exists, by delivery of a copy of the summons and complaint either to an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process in the United States; or in accordance with an applicable international convention on service of judicial documents; or
 
-&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculated to give actual notice, by delivery of a copy of the summons and complaint, together with atranslation of each into the official language of the foreign state—
+&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculated to give actual notice, by delivery of a copy of the summons and complaint, together with a translation of each into the official language of the foreign state—
 
 &emsp;&emsp;(A) as directed by an authority of the foreign state or political subdivision in response to a letter rogatory or request or
 
@@ -37,4 +37,8 @@
 (e) No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2894.)
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 

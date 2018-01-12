@@ -50,7 +50,7 @@ Historical and Revision Notes
 
 46:1479
 
-Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shallbe used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
+Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shall be used for State facilities improvement programs. Andas provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
 
 #### Prior Provisions
 

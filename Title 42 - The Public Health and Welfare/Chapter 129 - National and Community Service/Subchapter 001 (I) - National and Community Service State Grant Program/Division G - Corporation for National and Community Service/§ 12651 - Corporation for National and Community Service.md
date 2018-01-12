@@ -168,7 +168,7 @@ Planning Study.—The Corporation shall conduct a study to identify—
 
 &emsp;"(1) specific areas of need for displaced workers;
 
-&emsp;"(2) how existing programs and activities (as of the time of the study) carried out under the national service laws could better serve displaced workers andcommunities that have been adversely affected by plant closings and job losses;
+&emsp;"(2) how existing programs and activities (as of the time of the study) carried out under the national service laws could better serve displaced workers and communities that have been adversely affected by plant closings and job losses;
 
 &emsp;"(3) prospects for better utilization of displaced workers as resources and volunteers; and
 
@@ -376,7 +376,7 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 (e) The Council, with the approval of the Chief Executive Officer of the CNCS, may establish subcommittees of the Council, consisting exclusively of members of the Council, as appropriate to aid the Council in carrying out its mission under this order.
 
-Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under theAct, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) Unless further extended by the President, this order shall expire on June 30, 2009.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 1 year after January 8, 2002, the Secretary shall establish within the Office of Indian Education Programs a Division of Budget Analysis (hereafter in this section referred to as the "Division"). Such Division shall be under the direct supervision and control of the Director of the Office.
+Not later than 1 year after January 8, 2002, the Secretary shall establish within the Office of Indian Education Programs a Division of BudgetAnalysis (hereafter in this section referred to as the "Division"). Such Division shall be under the direct supervision and control of the Director of the Office.
 
 #### (b) Functions
 
@@ -26,7 +26,11 @@ The Director of the Office and the Assistant Secretary for Indian Affairs shall 
 
 #### Prior Provisions
 
-A prior section 2009, Pub. L. 95–561, title XI, §1129, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2009, Pub. L. 95–561, title XI, §1129, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2009, Pub. L. 95–561, title XI, §1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V, §§506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, §6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, §4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 

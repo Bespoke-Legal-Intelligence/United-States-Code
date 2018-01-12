@@ -6,7 +6,7 @@ Assistance may be provided under this chapter to the Hamas-controlled Palestinia
 
 #### (b) Certification
 
-A certification described in subsection (a) is a certification transmitted by the President to Congress that contains a determination of the President that—
+A certification described in subsection (a) is a certification transmitted by the President toCongress that contains a determination of the President that—
 
 &emsp;(1) no ministry, agency, or instrumentality of the Palestinian Authority is effectively controlled by Hamas, unless the Hamas-controlled Palestinian Authority has—
 
@@ -84,7 +84,7 @@ In this section:
 
 #### (2) Foreign terrorist organization
 
-&emsp;The term "foreign terrorist organization" means an organization designated as a foreign terrorist organization by the Secretary of State in accordance with section 1189(a) of title 8.
+&emsp;The term "foreign terrorist organization" means an organization designated as a foreignterrorist organization by the Secretary of State in accordance with section 1189(a) of title 8.
 
 #### (3) Palestinian Authority
 
@@ -300,7 +300,7 @@ With respect to the provision of assistance for the administrative and personal 
 
 Accordingly, I hereby waive section 550(a) of the FOAA, as amended, and section 620K(a) of the Foreign Assistance Act, as amended, with respect to such assistance, and authorize such assistance for the above purposes.
 
-Furthermore, I hereby determine that, with respect to assistance to nongovernmental organizations for the West Bank and Gaza other than assistance covered by paragraphs (b)(1), (2), and (3) of section 620L of the Foreign Assistance Act, as amended, it is in the nationalsecurity interest of the United States to provide such assistance as the Secretary of State deems appropriate, and assign to the Secretary of State the functions under section 620L(b)(4)(B) regarding the specific programs, projects, and activities to be carried out using such assistance.
+Furthermore, I hereby determine that, with respect to assistance to nongovernmental organizations for the West Bank and Gaza other than assistance covered by paragraphs (b)(1), (2), and (3) of section 620L of the Foreign Assistance Act, as amended, it is in the national security interest of the United States to provide such assistance as the Secretary of State deems appropriate, and assign to the Secretary of State the functions under section 620L(b)(4)(B) regarding the specific programs, projects, and activities to be carried out using such assistance.
 
 I also hereby assign the functions of the President under section 550(b) and (c) of the FOAA, as amended and as carried forward under the Revised Continuing Appropriations Resolution, 2007 (Public Law 110–5), to the Secretary of State.
 

@@ -98,7 +98,7 @@ In this chapter:
 
 &emsp;The term "victim of trafficking" means a person subjected to an act or practice described in paragraph (9) or (10).
 
-(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003,117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239.)
+(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ The Foreign Assistance Act of 1961, referred to in par. (8)(A), is Pub. L. 87–
 
 Chapters 1 and 10 of that Act, referred to in par. (8)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
 
-The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, whichis classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

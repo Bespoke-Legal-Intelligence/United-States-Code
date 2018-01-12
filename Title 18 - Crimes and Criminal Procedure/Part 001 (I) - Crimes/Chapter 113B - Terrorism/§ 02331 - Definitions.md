@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) the term "international terrorism" means activities that—
 
-&emsp;&emsp;(A) involve violent acts or acts dangerous to human life that are a violation of the criminal laws of the United States or of anyState, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State;
+&emsp;&emsp;(A) involve violent acts or acts dangerous to human life that are a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State;
 
 &emsp;&emsp;(B) appear to be intended—
 

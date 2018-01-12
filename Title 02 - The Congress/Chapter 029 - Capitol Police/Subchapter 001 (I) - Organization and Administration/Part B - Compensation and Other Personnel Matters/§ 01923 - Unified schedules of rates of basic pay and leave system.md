@@ -28,7 +28,7 @@
 
 &emsp;(G) the order in which categories of leave shall be used;
 
-&emsp;(H) use, accrual, and carryover rules and limitations, including rules and limitations for any period of active duty in the Armed Forces;
+&emsp;(H) use, accrual, and carryover rules and limitations, including rules and limitationsfor any period of active duty in the Armed Forces;
 
 &emsp;(I) advance of annual leave or sick leave after a member or civilian employee has used all such accrued leave;
 

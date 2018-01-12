@@ -326,7 +326,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(2)
 
-Commercial operations advisory committee.—The term 'Commercial Operations Advisory Committee' means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\] (19 U.S.C. 2071 note) or any successor committee.
+Commercial operations advisory committee.—The term 'Commercial Operations Advisory Committee' means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\] (\[former\] 19 U.S.C. 2071 note) or any successor committee \[see 19 U.S.C. 4316(a)\].
 
 &emsp;"(3)
 

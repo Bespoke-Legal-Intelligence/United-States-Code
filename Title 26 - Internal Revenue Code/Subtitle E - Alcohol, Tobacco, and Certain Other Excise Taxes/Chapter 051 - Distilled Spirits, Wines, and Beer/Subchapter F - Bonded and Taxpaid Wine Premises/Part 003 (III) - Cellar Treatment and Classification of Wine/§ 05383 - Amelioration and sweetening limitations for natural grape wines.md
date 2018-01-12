@@ -8,7 +8,7 @@ Any natural grape wine may be sweetened after fermentation and before taxpayment
 
 #### (1) Amelioration
 
-&emsp;Before, during, and after fermentation, ameliorating materials consisting of pure dry sugar or liquid sugar, water, or a combination of sugar and water, may be added to natural grape wines of a winemaker's own production when such wines are made from juice having a natural fixed acid content of more than five parts per thousand (calculated before fermentation and as tartaric acid). Ameliorating material so added shall not reduce the natural fixed acid content of the juice to less than five parts per thousand, nor exceed 35 percent of the volume of juice (calculated exclusive of pulp) and ameliorating material combined.
+&emsp;Before, during, and after fermentation, ameliorating materials consisting of pure drysugar or liquid sugar, water, or a combination of sugar and water, may be added to natural grape wines of a winemaker's own production when such wines are made from juice having a natural fixed acid content of more than five parts per thousand (calculated before fermentation and as tartaric acid). Ameliorating material so added shall not reduce the natural fixed acid content of the juice to less than five parts per thousand, nor exceed 35 percent of the volume of juice (calculated exclusive of pulp) and ameliorating material combined.
 
 #### (2) Sweetening
 

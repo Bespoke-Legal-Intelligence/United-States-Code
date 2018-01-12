@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under section 16935f of title 42, the Secretary of State shall take appropriate action under subsection (b).
+Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under section 21507 of title 34, the Secretary of State shall take appropriate action under subsection (b).
 
 #### (b) Authority to use unique passport identifiers
 
@@ -12,7 +12,7 @@ Immediately after receiving a written determination from the Angel Watch Center 
 
 #### (2) Authority to reissue
 
-&emsp;Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 16935f of title 42, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+&emsp;Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 21507 of title 34, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
 
 #### (c) Defined terms
 
@@ -20,7 +20,7 @@ In this section—
 
 &emsp;(1) the term "covered sex offender" means an individual who—
 
-&emsp;&emsp;(A) is a sex offender, as defined in section 16935b(f) of title 42; and
+&emsp;&emsp;(A) is a sex offender, as defined in section 21503(f) of title 34; and
 
 &emsp;&emsp;(B) is currently required to register under the sex offender registration program of any jurisdiction;
 
@@ -38,7 +38,7 @@ In furtherance of this section, the Secretary of State may require a passport ap
 
 #### (f) Effective date
 
-This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under section 16935f of title 42 has been successfully implemented.
+This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under section 21507 of title 34 has been successfully implemented.
 
 (Pub. L. 110–457, title II, §240, as added Pub. L. 114–119, §8, Feb. 8, 2016, 130 Stat. 24.)
 

@@ -38,7 +38,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(B) the cash balance of the Fund on the books of the Treasury;
 
-&emsp;(8) "lump-sum credit" means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976, and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after thedate of separation which forms the basis for annuity);
+&emsp;(8) "lump-sum credit" means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976, and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after the date of separation which forms the basis for annuity);
 
 &emsp;(9) "military and naval service" means honorable active service—
 
@@ -50,7 +50,7 @@ As used in this part, unless otherwise specified, the term—
 
 > &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
+&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which isequal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
 
 &emsp;(11) "spousal agreement" means any written agreement between—
 

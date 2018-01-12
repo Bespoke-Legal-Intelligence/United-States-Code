@@ -8,9 +8,9 @@ There is established in the Department of Labor an office to be known as the "Of
 
 The head of the Office shall be the Ombudsman. The individual serving as Ombudsman shall be either of the following:
 
-&emsp;(1) An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
+&emsp;(1) An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 
-&emsp;(2) An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
+&emsp;(2) An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 
 #### (c) Duties
 
@@ -52,7 +52,7 @@ The Secretary of Labor and the Secretary of Health and Human Services shall each
 
 #### (g) National Institute for Occupational Safety and Health Ombudsman
 
-In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
+In carrying out the duties of the Ombudsman under this section, the Ombudsman shall workwith the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
 
 #### (h) Sunset
 

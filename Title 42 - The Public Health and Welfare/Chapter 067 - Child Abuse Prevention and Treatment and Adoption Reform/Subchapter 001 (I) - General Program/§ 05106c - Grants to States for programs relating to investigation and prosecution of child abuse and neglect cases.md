@@ -18,17 +18,17 @@ In order for a State to qualify for assistance under this section, such State sh
 
 &emsp;(1) fulfill the requirements of section 5106a(b) of this title;
 
-&emsp;(2) establish a task force as provided in subsection (c) of this section;
+&emsp;(2) establish a task force as provided in subsection (c);
 
-&emsp;(3) fulfill the requirements of subsection (d) of this section;
+&emsp;(3) fulfill the requirements of subsection (d);
 
 &emsp;(4) submit annually an application to the Secretary at such time and containing such information and assurances as the Secretary considers necessary, including an assurance that the State will—
 
 &emsp;&emsp;(A) make such reports to the Secretary as may reasonably be required; and
 
-&emsp;&emsp;(B) maintain and provide access to records relating to activities under subsections (a) and (b) of this section; and
+&emsp;&emsp;(B) maintain and provide access to records relating to activities under subsections (a) and (b); and
 
-&emsp;(5) submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a) of this section.
+&emsp;(5) submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a).
 
 #### (c) State task forces
 
@@ -58,7 +58,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (2) Existing task force
 
-&emsp;As determined by the Secretary, a State commission or task force established after January 1, 1983, with substantially comparable membership and functions, may be considered the State task force for purposes of this subsection.
+&emsp;As determined by the Secretary, a State commission or task force established after January 1, 1983, with substantially comparable membership and functions, may be consideredthe State task force for purposes of this subsection.
 
 #### (d) State task force study
 
@@ -66,7 +66,7 @@ Before a State receives assistance under this section, and at three year interva
 
 &emsp;(1) review and evaluate State investigative, administrative and both civil and criminal judicial handling of cases of child abuse and neglect, including child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal; and
 
-&emsp;(2) make policy and training recommendations in each of the categories described in subsection (e) of this section.
+&emsp;(2) make policy and training recommendations in each of the categories described in subsection (e).
 
 > The task force may make such other comments and recommendations as are considered relevant and useful.
 
@@ -92,7 +92,7 @@ Before a State receives assistance under this section, and at three year interva
 
 #### (f) Funds available
 
-For grants under this section, the Secretary shall use the amount authorized by section 10603a of this title.
+For grants under this section, the Secretary shall use the amount authorized by section 20104 of title 34.
 
 (Pub. L. 93–247, title I, §107, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195; renumbered §107 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (2), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §115, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §116, Dec. 20, 2010, 124 Stat. 3474.)
 
@@ -122,9 +122,9 @@ Subsec. (e)(1)(A). Pub. L. 111–320, §116(5)(A), substituted "including" for "
 
 Subsec. (e)(1)(B). Pub. L. 111–320, §116(5)(B), inserted a comma after "model" and substituted "improve the prompt and successful resolution of civil and criminal court proceedings or enhance the effectiveness of judicial and administrative action in child abuse and neglect cases, particularly child sexual abuse and exploitation cases, including the enhancement of performance of court-appointed attorneys and guardians ad litem for children" for "improve the rate of successful prosecution or enhance the effectiveness of judicial and administrative action in child abuse cases, particularly child sexual abuse cases".
 
-Subsec. (e)(1)(C). Pub. L. 111–320, §116(5)(C), inserted a comma after "protocols" and ", which may include those children involved in reports of child abuse or neglect with a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal," after "protection for children" and substituted "from child abuse and neglect" for "from abuse" and "including" for "particularly".
+Subsec. (e)(1)(C). Pub. L. 111–320, §116(5)(C), inserted a comma after "protocols" and ", which may include those children involved in reports of child abuse or neglect with a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, andState-Tribal," after "protection for children" and substituted "from child abuse and neglect" for "from abuse" and "including" for "particularly".
 
-Subsec. (f). Pub. L. 111–320, §116(6), made technical amendment to reference in original act which appears in text as reference to section 10603a of this title.
+Subsec. (f). Pub. L. 111–320, §116(6), made technical amendment to reference in original act which appears in text as reference to section 20104 of title 34.
 
 <b>2003</b>—Subsec. (a)(4). Pub. L. 108–36 added par. (4).
 

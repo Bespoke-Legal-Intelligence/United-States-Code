@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall make grants to airport sponsors—
+Grant Authority.—Subject to the requirements of this section, the Under Secretary forBorder and Transportation Security of the Department of Homeland Security shall make grants to airport sponsors—
 
 &emsp;(1) for projects to replace baggage conveyer systems related to aviation security;
 
@@ -14,7 +14,7 @@ Grant Authority.—Subject to the requirements of this section, the Under Secret
 
 (b)
 
-Applications.—A sponsor seeking a grant under this section shall submit to the UnderSecretary an application in such form and containing such information as the Under Secretary prescribes.
+Applications.—A sponsor seeking a grant under this section shall submit to the Under Secretary an application in such form and containing such information as the Under Secretary prescribes.
 
 (c)
 
@@ -100,7 +100,7 @@ In general.—In addition to amounts made available under subsection (h), there 
 
 Allocations.—50 percent of amounts appropriated pursuant to this subsection for a fiscal year shall be used for making allocations under subsection (h)(2) and 50 percent of such amounts shall be used for making discretionary grants under subsection (h)(3).
 
-(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, title IV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722; Pub. L. 110–53, title XVI, §§1603(a), 1604(a), Aug. 3, 2007, 121 Stat. 480.)
+(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, titleIV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722; Pub. L. 110–53, title XVI, §§1603(a), 1604(a), Aug. 3, 2007, 121 Stat. 480.)
 
 #### References in Text
 

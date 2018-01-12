@@ -12,7 +12,7 @@
 
 &emsp;(5) involvement by any employee in any prohibited discrimination found by any court or appropriate administrative authority to have occurred in the course of any personnel action.
 
-(b) The Special Counsel shall make no investigation of any allegation of any prohibited activity referred to in subsection (a)(5), if the Special Counsel determines that the allegation maybe resolved more appropriately under an administrative appeals procedure.
+(b) The Special Counsel shall make no investigation of any allegation of any prohibited activity referred to in subsection (a)(5), if the Special Counsel determines that the allegation may be resolved more appropriately under an administrative appeals procedure.
 
 (c) If the Special Counsel receives an allegation concerning any matter under paragraph (1), (3), (4), or (5) of subsection (a), the Special Counsel may investigate and seek corrective action under section 1214 and disciplinary action under section 1215 in the same way as if a prohibited personnel practice were involved.
 

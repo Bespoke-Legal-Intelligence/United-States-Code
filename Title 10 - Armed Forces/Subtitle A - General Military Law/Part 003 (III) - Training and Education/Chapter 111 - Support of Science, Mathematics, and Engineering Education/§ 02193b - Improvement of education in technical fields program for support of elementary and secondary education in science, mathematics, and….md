@@ -38,7 +38,7 @@ Annual Report.—Not later than March 31 of each year, the Secretary of Defense 
 
 (h)
 
-State Defined.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
+State Defined.—In this section, the term "State" includes the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, and Guam.
 
 (Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, §596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, §519, title X, §1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062; Pub. L. 110–181, div. A, title V, §592, Jan. 28, 2008, 122 Stat. 138; Pub. L. 111–383, div. A, title V, §595, Jan. 7, 2011, 124 Stat. 4234.)
 

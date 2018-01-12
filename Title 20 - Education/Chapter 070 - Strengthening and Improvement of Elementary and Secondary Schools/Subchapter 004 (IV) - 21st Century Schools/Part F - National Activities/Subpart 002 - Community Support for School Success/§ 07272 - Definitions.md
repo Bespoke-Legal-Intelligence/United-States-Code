@@ -52,7 +52,7 @@ In this subpart:
 
 &emsp;&emsp;(E) Activities that support postsecondary and workforce readiness, which may include job training, internship opportunities, and career counseling.
 
-&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who aremembers of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
+&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who are members of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
 
 &emsp;&emsp;(G) Social, health, nutrition, and mental health services and supports.
 

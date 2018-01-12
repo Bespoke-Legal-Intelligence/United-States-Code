@@ -8,7 +8,7 @@
 
 &emsp;(1) the original issue price of the obligation, plus
 
-&emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the InternalRevenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
+&emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
 
@@ -96,13 +96,39 @@ Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
 
 #### Temporary Debt Limit Extension
 
+Pub. L. 115–56, div. C, §101, Sept. 8, 2017, 131 Stat. 1139, provided that:
+
+"(a)
+
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of enactment of this Act \[Sept. 8, 2017\] and ending on December 8, 2017.
+
+"(b)
+
+Special Rule Relating to Obligations Issued During Extension Period.—Effective on December 9, 2017, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+
+&emsp;"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on December 9, 2017, exceeds
+
+&emsp;"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+"(c)
+
+Restoring Congressional Authority Over the National Debt.—
+
+&emsp;"(1)
+
+Extension limited to necessary obligations.—An obligation shall not be taken into account under section 101(b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before December 9, 2017.
+
+&emsp;"(2)
+
+Prohibition on creation of cash reserve during extension period.—The Secretary of the Treasury shall not issue obligations during the period specified in section 101(a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period."
+
 Pub. L. 114–74, title IX, §§901, 902, Nov. 2, 2015, 129 Stat. 620, 621, provided that:
 
 #### "SEC. 901. TEMPORARY EXTENSION OF PUBLIC DEBT LIMIT.
 
 "(a)
 
-In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning onthe date of the enactment of this Act \[Nov. 2, 2015\] and ending on March 15, 2017.
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Nov. 2, 2015\] and ending on March 15, 2017.
 
 "(b)
 
@@ -234,7 +260,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;&emsp;"(C)
 
-Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order againstthe joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 &emsp;"(3)
 
@@ -308,7 +334,7 @@ Debate on a veto message.—Debate on a veto message in the Senate under this su
 
 Rules of house of representatives and senate.—This subsection is enacted by Congress—
 
-&emsp;&emsp;"(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in thatHouse in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+&emsp;&emsp;"(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
 &emsp;&emsp;"(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House."
 
@@ -336,7 +362,7 @@ Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secret
 
 #### Timely Payment of March 1996 Social Security Benefits Guaranteed
 
-Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
+Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825,authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
 
 #### Repeal of Permanent Increase in Public Debt Limit
 
@@ -388,7 +414,7 @@ Pub. L. 95–333, §1, Aug. 3, 1978, 92 Stat. 419, providing for a temporary inc
 
 Pub. L. 95–120, §1, Oct. 4, 1977, 91 Stat. 1090, as amended, providing for a temporary increase of $352,000,000,000 in the public debt limit for the period Oct. 4, 1977, to July 31, 1978, was also repealed by Pub. L. 95–333, §2, Aug. 3, 1978, 92 Stat. 419.
 
-Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977,was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
+Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977, was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 

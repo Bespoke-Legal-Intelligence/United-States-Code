@@ -14,7 +14,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(1)(A) have a degree in medicine, osteopathic medicine, dentistry, or another health profession, or an appropriate degree from a graduate program of behavioral and mental health, or be certified as a nurse midwife, nurse practitioner, or physician assistant;
 
-&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, behavioral and mental health, or other health profession; or
+&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathicmedicine, dentistry, behavioral and mental health, or other health profession; or
 
 &emsp;(C) be enrolled as a full-time student—
 
@@ -148,7 +148,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L.101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
 
 #### Prior Provisions
 

@@ -12,7 +12,7 @@ Notwithstanding any other provision of this chapter, the recommendations submitt
 
 &emsp;(iii) The rates of pay recommended for a Senator, a Member of the House of Representatives, the Resident Commissioner from Puerto Rico, a Delegate to the House of Representatives, a judge of a district court of the United States, a judge of the United States Court of International Trade, and each office or position under section 5313 of title 5 (relating to level II of the Executive Schedule), respectively, shall be equal.
 
-&emsp;(B) Nothing in this section shall be considered to require that the rate recommended for any office or position by the President under section 358 of this title be the same as the rate recommended for such office or position by the Commission under section 357 of this title.
+&emsp;(B) Nothing in this section shall be considered to require that the rate recommended for any office or position by the President under section 358 of this title be the same as the raterecommended for such office or position by the Commission under section 357 of this title.
 
 (Pub. L. 90–206, title II, §225(l), as added Pub. L. 101–194, title VII, §701(i), Nov. 30, 1989, 103 Stat. 1766.)
 

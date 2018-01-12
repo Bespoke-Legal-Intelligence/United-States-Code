@@ -36,7 +36,7 @@ The Farm Credit Administration shall prescribe rules requiring the institutions 
 
 Subsec. (a)(1)(A). Pub. L. 103–354, §282(b)(1), (3), inserted "or agency" after "such program", struck out "agricultural loan" after "any State", and inserted "certified under section 5101 of this title" after "mediation program".
 
-Subsec. (a)(1)(B). Pub. L. 103–354, §282(b)(1), (4), struck out ", effective beginning on January 6, 1988," after"shall", and "agricultural loan" after "participate in", and inserted "certified under section 5101 of this title" after "mediation programs".
+Subsec. (a)(1)(B). Pub. L. 103–354, §282(b)(1), (4), struck out ", effective beginning on January 6, 1988," after "shall", and "agricultural loan" after "participate in", and inserted "certified under section 5101 of this title" after "mediation programs".
 
 Subsec. (a)(1)(C)(i). Pub. L. 103–354, §282(b)(1), (5)(A), struck out "agricultural loan" before "mediation program" and substituted "certified under" for "described in".
 

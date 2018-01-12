@@ -142,13 +142,13 @@ In carrying out the functions under subsection (c), the Center shall ensure—
 
 #### (2) Certain assistance or information
 
-&emsp;The provision of certain assistance or information to, or inclusion in the Center of, one governmental or private entity pursuant to this section shall not create a right or benefit, substantive or procedural, to similar assistance or information for any other governmental or private entity.
+&emsp;The provision of certain assistance or information to, or inclusion in the Center of, onegovernmental or private entity pursuant to this section shall not create a right or benefit, substantive or procedural, to similar assistance or information for any other governmental or private entity.
 
 #### (g) Automated information sharing
 
 #### (1) In general
 
-&emsp;The Under Secretary appointed under section 113(a)(1)(H) of this title, in coordinationwith industry and other stakeholders, shall develop capabilities making use of existing information technology industry standards and best practices, as appropriate, that support and rapidly advance the development, adoption, and implementation of automated mechanisms for the sharing of cyber threat indicators and defensive measures in accordance with title I of the Cybersecurity Act of 2015 \[6 U.S.C. 1501 et seq.\].
+&emsp;The Under Secretary appointed under section 113(a)(1)(H) of this title, in coordination with industry and other stakeholders, shall develop capabilities making use of existing information technology industry standards and best practices, as appropriate, that support and rapidly advance the development, adoption, and implementation of automated mechanisms for the sharing of cyber threat indicators and defensive measures in accordance with title I of the Cybersecurity Act of 2015 \[6 U.S.C. 1501 et seq.\].
 
 #### (2) Annual report
 
@@ -202,11 +202,11 @@ Not later than 60 days after December 18, 2015, the Secretary, acting through th
 
 #### (1) In general
 
-&emsp;The Secretary may leverage small business development centers to provide assistance to small business concerns by disseminating information on cyber threat indicators, defense measures, cybersecurity risks, incidents, analyses, and warnings to help small business concerns in developing or enhancing cybersecurity infrastructure, awareness of cyber threat indicators, and cyber training programs for employees.
+&emsp;The Secretary may leverage small business development centers to provide assistance tosmall business concerns by disseminating information on cyber threat indicators, defense measures, cybersecurity risks, incidents, analyses, and warnings to help small business concerns in developing or enhancing cybersecurity infrastructure, awareness of cyber threat indicators, and cyber training programs for employees.
 
 #### (2) Definitions
 
-&emsp;For purposes of this subsection, the terms "small business concern" and "small businessdevelopment center" have the meaning given such terms, respectively, under section 632 of title 15.
+&emsp;For purposes of this subsection, the terms "small business concern" and "small business development center" have the meaning given such terms, respectively, under section 632 of title 15.
 
 #### (m) Coordinated vulnerability disclosure
 

@@ -34,3 +34,7 @@ Judicial Scrutiny of Coupon Settlements.—In a proposed settlement under which 
 
 (Added Pub. L. 109–2, §3(a), Feb. 18, 2005, 119 Stat. 6.)
 
+#### Effective Date
+
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
+

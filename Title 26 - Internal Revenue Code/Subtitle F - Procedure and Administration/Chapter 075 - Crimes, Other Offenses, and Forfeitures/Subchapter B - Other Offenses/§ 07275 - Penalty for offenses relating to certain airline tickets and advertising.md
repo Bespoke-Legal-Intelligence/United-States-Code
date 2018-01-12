@@ -14,7 +14,7 @@ In the case of transportation by air all of which is taxable transportation (as 
 
 &emsp;(1) state such cost as the total of (A) the amount to be paid for such transportation, and (B) the taxes imposed by sections 4261(a), (b), and (c), and
 
-&emsp;(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, shall <sup>1</sup> state such total at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: "user taxes to pay for airport construction and airway safety and operations."
+&emsp;(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, shall <sup>1</sup> state suchtotal at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: "user taxes to pay for airport construction and airway safety and operations".
 
 #### (c) Non-tax charges
 

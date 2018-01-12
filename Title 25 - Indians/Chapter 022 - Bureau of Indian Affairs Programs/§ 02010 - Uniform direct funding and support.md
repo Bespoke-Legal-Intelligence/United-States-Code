@@ -148,7 +148,7 @@ In carrying out this section, a local school board may request technical assista
 
 &emsp;&emsp;(A) provide technical assistance and coordination for any program described in paragraph (1); and
 
-&emsp;&emsp;(B) to the extent practicable, encourage the coordination of such programs with any other summer programs that might benefit Indian youth, regardless of the fundingsource or administrative entity of any such program.
+&emsp;&emsp;(B) to the extent practicable, encourage the coordination of such programs with any other summer programs that might benefit Indian youth, regardless of the funding source or administrative entity of any such program.
 
 #### (f) Cooperative agreements
 
@@ -200,7 +200,7 @@ Notwithstanding any other provision of law, in a case in which there is agreemen
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 ofTitle 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -213,6 +213,10 @@ This chapter, referred to in subsec. (h)(1), was in the original "this title", m
 A prior section 2010, Pub. L. 95–561, title XI, §1130, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, §5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

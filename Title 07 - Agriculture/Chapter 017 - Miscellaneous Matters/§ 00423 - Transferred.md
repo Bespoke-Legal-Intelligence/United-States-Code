@@ -1,0 +1,6 @@
+### §423. Transferred
+
+#### Codification
+
+Section 423 was editorially reclassified as section 2120 of this title.
+

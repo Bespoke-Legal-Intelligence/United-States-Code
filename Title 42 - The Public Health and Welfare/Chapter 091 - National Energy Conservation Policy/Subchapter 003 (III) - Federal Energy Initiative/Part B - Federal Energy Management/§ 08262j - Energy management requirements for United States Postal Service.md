@@ -8,7 +8,7 @@
 
 #### (b) Implementation steps
 
-In carrying <sup>1</sup> subsection (a) of this section, the Postmaster General shall—
+In carrying <sup>1</sup> subsection (a), the Postmaster General shall—
 
 &emsp;(1) not later than 1 year after October 24, 1992, prepare or update, as appropriate, a plan (which may be submitted as part of the first report submitted under section 8262i of this title)—
 

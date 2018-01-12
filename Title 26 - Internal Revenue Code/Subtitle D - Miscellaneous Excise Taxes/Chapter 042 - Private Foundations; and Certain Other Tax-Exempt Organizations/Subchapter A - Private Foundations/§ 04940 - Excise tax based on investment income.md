@@ -2,7 +2,7 @@
 
 #### (a) Tax-exempt foundations
 
-There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
+There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
 
 #### (b) Taxable foundations
 
@@ -46,7 +46,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;&emsp;(C) Losses from sales or other dispositions of property shall be allowed only to the extent of gains from such sales or other dispositions, and there shall be no capital loss carryovers or carrybacks.
 
-&emsp;&emsp;(D) Except to the extent provided by regulation, under rules similar to the rules of section 1031 (including the exception under subsection (a)(2) thereof), no gain or lossshall be taken into account with respect to any portion of property used for a period of not less than 1 year for a purpose or function constituting the basis of the private foundation's exemption if the entire property is exchanged immediately following such period solely for property of like kind which is to be used primarily for a purpose or function constituting the basis for such foundation's exemption.
+&emsp;&emsp;(D) Except to the extent provided by regulation, under rules similar to the rules of section 1031 (including the exception under subsection (a)(2) thereof), no gain or loss shall be taken into account with respect to any portion of property used for a period of not less than 1 year for a purpose or function constituting the basis of the private foundation's exemption if the entire property is exchanged immediately following such period solely for property of like kind which is to be used primarily for a purpose or function constituting the basis for such foundation's exemption.
 
 #### (5) Tax-exempt income
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(j)(6) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(j)(6) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1832 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -300,7 +300,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 Section 4942.—In the case of organizations organized before May 27, 1969, section 4942 shall—
 
-&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
+&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974,apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
 
 &emsp;"(B) not apply to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on May 26, 1969, and at all times thereafter) of an instrument executed before May 27, 1969, with respect to the transfer of income producing property to such organization, except that section 4942 shall apply to such organization if the organization would have been denied exemption if section 504(a) had not been repealed by this Act, or would have had its deductions under section 642(c) limited if section 681(c) had not been repealed by this Act. In applying the preceding sentence, in addition to the limitations contained in section 504(a) or 681(c) before its repeal, section 504(a)(1) or 681(c)(1) shall be treated as not applying to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on January 1, 1951, and at all times thereafter) of an instrument executed before January 1, 1951, with respect to the transfer of income producing property to such organization before such date, if such transfer was irrevocable on such date;
 
@@ -374,5 +374,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Public Support Requirement Not Applicable to Certain Existing Foundations
 
-Pub. L. 98–369, div. A, title III, §302(c)(3), July 18, 1984, 98 Stat. 781, provided that: "A foundation which was anoperating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a))."
+Pub. L. 98–369, div. A, title III, §302(c)(3), July 18, 1984, 98 Stat. 781, provided that: "A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a))."
 

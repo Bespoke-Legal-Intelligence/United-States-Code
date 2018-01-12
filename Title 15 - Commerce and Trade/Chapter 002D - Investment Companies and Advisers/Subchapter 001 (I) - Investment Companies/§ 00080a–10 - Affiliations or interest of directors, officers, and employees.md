@@ -16,7 +16,7 @@ No registered investment company shall—
 
 #### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
-No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority ofits directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
+No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12) or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12),,<sup>1</sup> except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
 #### (d) Exception to limitation of number of interested persons who may serve on board of directors
 
@@ -64,7 +64,7 @@ In the case of a registered management company which is an unincorporated compan
 
 &emsp;(2) the provisions of subsections (b) and (c), as modified by subsection (e), shall apply to the board of directors of the depositor and of every investment adviser of such company; and
 
-&emsp;(3) the provisions of subsection (f) shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
+&emsp;(3) the provisions of subsection (f) shall apply to purchases and other acquisitions forthe account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
 (Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113 Stat. 1398; Pub. L. 109–351, title IV, §401(c), Oct. 13, 2006, 120 Stat. 1973.)
 

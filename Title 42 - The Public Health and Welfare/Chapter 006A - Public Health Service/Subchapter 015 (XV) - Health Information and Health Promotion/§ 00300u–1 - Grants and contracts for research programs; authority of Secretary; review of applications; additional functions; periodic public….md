@@ -12,7 +12,7 @@
 
 &emsp;(5) develop a method for assessing the cost and effectiveness of specific medical services and procedures under various conditions of use, including the assessment of the sensitivity and specificity of screening and diagnostic procedures; and
 
-&emsp;(6) enumerate and assess, using methods developed under paragraph (5), preventive health measures and services with respect to their cost and effectiveness under various conditions of use (which measures and services may include blood pressure screening, cholesterol screening and control, smoking cessation programs, substance abuse programs, cancer screening, dietary and nutritional counseling, diabetes screening and education, intraocular pressure screening, and stress management).
+&emsp;(6) enumerate and assess, using methods developed under paragraph (5), preventive health measures and services with respect to their cost and effectiveness under various conditions of use (which measures and services may include blood pressure screening, cholesterol screening and control, smoking cessation programs, substance abuse programs, cancer screening, dietary and nutritional counseling,diabetes screening and education, intraocular pressure screening, and stress management).
 
 (b) The Secretary shall make a periodic survey of the needs, interest, attitudes, knowledge, and behavior of the American public regarding health and health care. The Secretary shall take into consideration the findings of such surveys and the findings of similar surveys conducted by national and community health education organizations, and other organizations and agencies for formulating policy respecting health information and health promotion, preventive health services, and education in the appropriate use of health care.
 

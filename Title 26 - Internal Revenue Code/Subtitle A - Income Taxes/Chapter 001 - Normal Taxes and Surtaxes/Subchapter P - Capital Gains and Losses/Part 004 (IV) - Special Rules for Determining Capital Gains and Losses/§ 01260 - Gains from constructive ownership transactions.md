@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (e) Net underlying long-term capital gain
 
-For purposes of this section, in the case of any constructive ownership transaction with respect to any financial asset, the term "net underlying long-term capital gain" means the aggregate net capital gain that the taxpayer would have had if—
+For purposes of this section, in the case of any constructive ownership transaction with respectto any financial asset, the term "net underlying long-term capital gain" means the aggregate net capital gain that the taxpayer would have had if—
 
 &emsp;(1) the financial asset had been acquired for fair market value on the date such transaction was opened and sold for fair market value on the date such transaction was closed, and
 

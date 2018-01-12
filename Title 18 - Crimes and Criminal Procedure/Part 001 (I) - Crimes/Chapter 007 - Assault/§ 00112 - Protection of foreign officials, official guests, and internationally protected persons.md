@@ -30,7 +30,7 @@
 
 (f) In the course of enforcement of subsection (a) and any other sections prohibiting a conspiracy or attempt to violate subsection (a), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary, notwithstanding.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, §1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, §301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, §6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII,§320101(b), title XXXIII, §330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, §721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, §1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, §301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, §6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII, §320101(b), title XXXIII, §330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, §721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -106,7 +106,7 @@ Pub. L. 92–539, §2, Oct. 24, 1972, 86 Stat. 1070, provided that:
 
 #### Federal Preemption
 
-Pub. L. 92–539, §3, Oct. 24, 1972, 86 Stat. 1073, provided that: "Nothing contained in this Act \[see Short Title of1972 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia."
+Pub. L. 92–539, §3, Oct. 24, 1972, 86 Stat. 1073, provided that: "Nothing contained in this Act \[see Short Title of 1972 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia."
 
 #### Immunity From Criminal Prosecution
 

@@ -22,7 +22,7 @@ Assignment of Temporary Ratings.—(1) For the purpose of providing disability c
 
 &emsp;(B) To a veteran who, as a result of a highly stressful in-service event, has a mental disorder that is severe enough to bring about the veteran's discharge or release from active duty.
 
-&emsp;(C) To a veteran who has a service-connected disability that requires hospital treatment orobservation in a Department of Veterans Affairs or approved hospital for a period in excess of 21 days.
+&emsp;(C) To a veteran who has a service-connected disability that requires hospital treatment or observation in a Department of Veterans Affairs or approved hospital for a period in excess of 21 days.
 
 &emsp;(D) To a veteran who has a service-connected disability that has required convalescent care or treatment at hospital discharge (regular discharge or release to non-bed care) or outpatient release that meets the requirements of regulations prescribed by the Secretary.
 

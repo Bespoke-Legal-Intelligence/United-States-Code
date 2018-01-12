@@ -54,7 +54,7 @@ Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that am
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–454, title V, §504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(h) of Pub.L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, §504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by section 503(h) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

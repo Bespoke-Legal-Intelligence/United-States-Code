@@ -16,3 +16,7 @@ Subsec. (b). Pub. L. 103–238, §13(b), inserted "(except as provided in sectio
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–58 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date
+
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
+

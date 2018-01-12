@@ -42,11 +42,11 @@
 
 &emsp;&emsp;&emsp;(III) request that the International Trade Commission prepare an assessment of the probable economic effects of any such tariff reduction on the United States industry producing the product concerned and on the United States economy as a whole; and
 
-&emsp;&emsp;&emsp;(IV) upon complying with subclauses (I), (II), and (III), notify the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate of those products identified under subclause (I) for which the Trade Representative intends to seek tariff liberalization in the negotiations and the reasons for seeking such tariff liberalization.
+&emsp;&emsp;&emsp;(IV) upon complying with subclauses (I), (II), and (III), notify the Committee on Ways and Means and the Committee onAgriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate of those products identified under subclause (I) for which the Trade Representative intends to seek tariff liberalization in the negotiations and the reasons for seeking such tariff liberalization.
 
 &emsp;&emsp;(ii) If, after negotiations described in clause (i) are commenced—
 
-&emsp;&emsp;&emsp;(I) the United States Trade Representative identifies any additional agriculturalproduct described in clause (i)(I) for tariff reductions which were not the subject of a notification under clause (i)(IV), or
+&emsp;&emsp;&emsp;(I) the United States Trade Representative identifies any additional agricultural product described in clause (i)(I) for tariff reductions which were not the subject of a notification under clause (i)(IV), or
 
 &emsp;&emsp;&emsp;(II) any additional agricultural product described in clause (i)(I) is the subject of a request for tariff reductions by a party to the negotiations,
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
 
-&emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 4205(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
+&emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 4205(b) of this title introduced with respect to a trade agreemententered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 
 &emsp;&emsp;(ii) For purposes of this subparagraph, the term "resolution" means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_\_\_ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on \_\_\_\_\_\_\_\_ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to \_\_\_\_\_\_\_\_, are inconsistent with the negotiating objectives described in section 102(b)(17) of that Act.", with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
 
@@ -240,13 +240,13 @@
 
 #### (g) Additional coordination with Members
 
-Any Member of the House of Representatives may submit to the Committee on Ways and Means of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
+Any Member of the House of Representatives may submit to the Committee on Ways andMeans of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
 
 (Pub. L. 114–26, title I, §105, June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title IX, §914(f)(1), Feb. 24, 2016, 130 Stat. 275.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2)(B) and (f)(1), was in the original "this title", meaning title Iof Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2)(B) and (f)(1), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 The Tariff Act of 1930, referred to in subsec. (b)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 

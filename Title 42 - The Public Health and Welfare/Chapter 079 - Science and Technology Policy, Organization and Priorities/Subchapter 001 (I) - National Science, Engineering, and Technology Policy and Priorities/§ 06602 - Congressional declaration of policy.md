@@ -26,7 +26,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
-&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
+&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests areshared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
 
 &emsp;(5) The Federal Government should support and utilize engineering and its various disciplines and make maximum use of the engineering community, whenever appropriate, as an essential element in the Federal policymaking process.
 

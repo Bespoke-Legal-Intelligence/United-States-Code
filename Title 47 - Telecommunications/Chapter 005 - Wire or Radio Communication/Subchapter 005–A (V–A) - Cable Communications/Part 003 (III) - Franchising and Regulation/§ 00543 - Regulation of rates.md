@@ -28,7 +28,7 @@
 
 &emsp;A certification filed by a franchising authority under paragraph (3) shall be effective 30 days after the date on which it is filed unless the Commission finds, after notice to the authority and a reasonable opportunity for the authority to comment, that—
 
-&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under this section that are not consistent with the regulations prescribed by the Commission under subsection (b);
+&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under thissection that are not consistent with the regulations prescribed by the Commission under subsection (b);
 
 &emsp;&emsp;(B) the franchising authority does not have the legal authority to adopt, or the personnel to administer, such regulations; or
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3), to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardlessof the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
+&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3), to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardless of the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
 
 #### (B) Revision to Commission rules; forms
 
@@ -152,7 +152,7 @@
 
 &emsp;Within 180 days after October 5, 1992, the Commission shall, by regulation, establish the following:
 
-&emsp;&emsp;(A) criteria prescribed in accordance with paragraph (2) for identifying, in individual cases, rates for cable programming services that are unreasonable;
+&emsp;&emsp;(A) criteria prescribed in accordance with paragraph (2) for identifying, in individualcases, rates for cable programming services that are unreasonable;
 
 &emsp;&emsp;(B) fair and expeditious procedures for the receipt, consideration, and resolution of complaints from any franchising authority (in accordance with paragraph (3)) alleging that a rate for cable programming services charged by a cable operator violates the criteria prescribed under subparagraph (A), which procedures shall include the minimum showing that shall be required for a complaint to obtain Commission consideration and resolution of whether the rate in question is unreasonable; and
 

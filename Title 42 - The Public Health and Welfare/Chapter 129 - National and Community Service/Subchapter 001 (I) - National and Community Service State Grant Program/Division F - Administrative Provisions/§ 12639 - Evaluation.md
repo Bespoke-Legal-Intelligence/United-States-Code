@@ -4,7 +4,7 @@
 
 The Corporation shall provide, directly or through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
-&emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance basedon the performance levels established under subsection (k); and
+&emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance based on the performance levels established under subsection (k); and
 
 &emsp;(2) the effectiveness of the structure and mechanisms for delivery of services, such as the effective utilization of the participants' time, the management of the participants, and the ease with which recipients were able to receive services, to maximize the cost effectiveness and the impact of such programs.
 
@@ -32,7 +32,7 @@ The Corporation shall evaluate and compare the effectiveness of different progra
 
 The Corporation shall ensure that programs that receive assistance under division C are evaluated to determine their effectiveness in—
 
-&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
+&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title,based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
 &emsp;(2) promoting the educational achievement of each participant in such programs, based on earning a high school diploma or the equivalent of such diploma and the future enrollment and completion of increasingly higher levels of education;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, in addition to amounts appropriated 
 
 #### (k) Performance levels
 
-The Corporation shall, in consultation with each recipient of assistance under the national service laws, establish performance levels for such recipient to meet during the term of the assistance. The performance levels may include, for each national service program carried out by the recipient, performance levels based on the following performance measures:
+The Corporation shall, in consultation with each recipient of assistance under the nationalservice laws, establish performance levels for such recipient to meet during the term of the assistance. The performance levels may include, for each national service program carried out by the recipient, performance levels based on the following performance measures:
 
 &emsp;(1) Number of participants enrolled in the program and completing terms of service, as compared to the stated participation and retention goals of the program.
 
@@ -166,7 +166,7 @@ If, after a period for correction as approved by the Corporation in accordance w
 
 #### (n) Reports
 
-The Corporation shall submit to the authorizing committees not later than 2 years afterApril 21, 2009, and annually thereafter, a report containing information on the number of—
+The Corporation shall submit to the authorizing committees not later than 2 years after April 21, 2009, and annually thereafter, a report containing information on the number of—
 
 &emsp;(1) recipients of assistance under the national service laws implementing corrective action plans under subsection (l)(1);
 

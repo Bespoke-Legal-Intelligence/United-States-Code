@@ -50,7 +50,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;(E) made in connection with an offering by, or relating to the operations of, a partnership, limited liability company, or a direct participation investment program; or
 
-&emsp;&emsp;(F) made in a disclosure of beneficial ownership in a report required to be filed withthe Commission pursuant to section 78m(d) of this title.
+&emsp;&emsp;(F) made in a disclosure of beneficial ownership in a report required to be filed with the Commission pursuant to section 78m(d) of this title.
 
 #### (c) Safe harbor
 

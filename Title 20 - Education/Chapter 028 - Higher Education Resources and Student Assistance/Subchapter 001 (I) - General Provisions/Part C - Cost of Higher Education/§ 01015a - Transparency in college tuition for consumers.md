@@ -128,7 +128,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;(2) the percentage change in tuition and fees for such students for all public institutions of higher education in such State for each of the five most recent preceding academic years; and
 
-&emsp;(3) the percentage change in the total amount of need-based aid and merit-based aidprovided by such State to full-time students enrolled in the public institutions of higher education in the State for each of the five most recent preceding academic years.
+&emsp;(3) the percentage change in the total amount of need-based aid and merit-based aid provided by such State to full-time students enrolled in the public institutions of higher education in the State for each of the five most recent preceding academic years.
 
 #### (h) Net price calculator
 
@@ -174,7 +174,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(B) The total number of undergraduate students who applied to, were admitted by, and enrolled in the institution.
 
-&emsp;&emsp;(C) For institutions that require SAT or ACT scores to be submitted, the reading, writing, mathematics, and combined scores on the SAT or ACT, as applicable, for the middle 50 percent range of the institution's freshman class.
+&emsp;&emsp;(C) For institutions that require SAT or ACT scores to be submitted, the reading,writing, mathematics, and combined scores on the SAT or ACT, as applicable, for the middle 50 percent range of the institution's freshman class.
 
 &emsp;&emsp;(D) The number of first-time, full-time, and part-time students enrolled at the institution, at the undergraduate and (if applicable) graduate levels.
 
@@ -356,7 +356,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (1) Survey required
 
-&emsp;The Secretary, acting through the Commissioner for Education Statistics, shall conduct,on a State-by-State basis, a survey of recipients of Federal student financial aid under subchapter IV—
+&emsp;The Secretary, acting through the Commissioner for Education Statistics, shall conduct, on a State-by-State basis, a survey of recipients of Federal student financial aid under subchapter IV—
 
 &emsp;&emsp;(A) to identify the population of students receiving such Federal student financial aid;
 

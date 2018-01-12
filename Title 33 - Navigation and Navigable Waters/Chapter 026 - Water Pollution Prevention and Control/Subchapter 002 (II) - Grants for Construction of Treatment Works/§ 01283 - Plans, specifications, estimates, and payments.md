@@ -72,7 +72,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### (6) Limitation on obligations
 
-&emsp;The Administrator shall not obligate more than 20 percent of the amount allotted to aState for a fiscal year under section 1285 of this title for grants pursuant to this subsection.
+&emsp;The Administrator shall not obligate more than 20 percent of the amount allotted to a State for a fiscal year under section 1285 of this title for grants pursuant to this subsection.
 
 #### (7) Allowance
 

@@ -18,7 +18,7 @@ The Secretary of Energy shall take appropriate actions to ensure that—
 
 &emsp;&emsp;(D) the development of clear performance standards to be used in assessing the adequacy of the programs referred to in subparagraph (C)(ii);
 
-&emsp;(3) the Department has a system for bringing issues relating to nuclear safety at defense nuclear facilities to the attention of the officials of the Department (including the Secretary of Energy) who have authority to resolve such issues in an adequate and timely manner; and
+&emsp;(3) the Department has a system for bringing issues relating to nuclear safety at defense nuclear facilities to the attention of the officials of the Department (including the Secretary ofEnergy) who have authority to resolve such issues in an adequate and timely manner; and
 
 &emsp;(4) an adequate number of qualified personnel of the Department are assigned to oversee matters relating to nuclear safety at defense nuclear facilities and enforce nuclear safety standards at such facilities.
 

@@ -8,7 +8,7 @@ Regular Officers.—(1) A regular officer who is discharged under chapter 36 of 
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
+(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under anyprovision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
 
 (b)
 
@@ -64,7 +64,7 @@ Counting Fractional Years of Service.—In determining a member's years of activ
 
 (g)
 
-Coordination With Other Separation or Severance Pay Benefits.—A period for which a member has previously received separation pay under this section or severance pay or readjustment pay under any other provision of law based on service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
+Coordination With Other Separation or Severance Pay Benefits.—A period for which a member has previously received separation pay under this section or severance pay or readjustment pay under any other provision of law basedon service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
 
 (h)
 
@@ -176,7 +176,7 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted "Except as provided in paragraphs (2) and (3), a member" for "A member" and "fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay" for "less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay", and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting "each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months ormore is counted as a whole year and a part of a year that is less than six months is disregarded".
+Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting "each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded".
 
 Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted ", other than section 1212 of this title," after "any other provision of law".
 

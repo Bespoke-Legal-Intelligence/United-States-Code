@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automationon the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -30,7 +30,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves full performance level air traffic controller status, as decided by the Administrator.
 
-(B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal Aviation Administration may extend the authority for one or more successive one-year periods.
+(B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal AviationAdministration may extend the authority for one or more successive one-year periods.
 
 (d)
 
@@ -68,7 +68,7 @@ In general.—Subject to subparagraph (B), the Administrator may accept reimburs
 
 Treatment of reimbursements.—Notwithstanding section 3302 of title 31, any reimbursement authorized to be collected under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) be credited as offsetting collections to the account that finances the activitiesand services for which the reimbursement is accepted;
+&emsp;&emsp;&emsp;(i) be credited as offsetting collections to the account that finances the activities and services for which the reimbursement is accepted;
 
 &emsp;&emsp;&emsp;(ii) be available for expenditure only to pay the costs of activities and services for which the reimbursement is accepted, including all costs associated with collecting such reimbursement; and
 
@@ -226,7 +226,7 @@ Pub. L. 112–95, title II, §224, Feb. 14, 2012, 126 Stat. 55, provided that: "
 
 #### Facility Training Program
 
-Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided that: "Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
+Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided that: "Not later than 1 year after the dateof enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
 
 &emsp;"(1) clarify responsibility for oversight and direction of the Academy's facility training program at the national level;
 
@@ -246,9 +246,11 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
 Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 

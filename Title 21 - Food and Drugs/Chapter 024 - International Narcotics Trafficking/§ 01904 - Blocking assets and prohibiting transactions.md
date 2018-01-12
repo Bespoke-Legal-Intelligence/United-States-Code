@@ -20,7 +20,7 @@ Except to the extent provided in regulations, orders, instructions, licenses, or
 
 Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 of this title, the following transactions are prohibited:
 
-&emsp;(1) Any transaction or dealing by a United States person, or within the United States, in property or interests in property of any significant foreign narcotics trafficker so identified in the report required pursuant to subsection (b) or (h)(1) of section 1903 of this title,and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section.
+&emsp;(1) Any transaction or dealing by a United States person, or within the United States, in property or interests in property of any significant foreign narcotics trafficker so identified in the report required pursuant to subsection (b) or (h)(1) of section 1903 of this title, and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section.
 
 &emsp;(2) Any transaction or dealing by a United States person, or within the United States, that evades or avoids, or has the effect of evading or avoiding, and any endeavor, attempt, or conspiracy to violate, any of the prohibitions contained in this chapter.
 
@@ -50,5 +50,5 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 

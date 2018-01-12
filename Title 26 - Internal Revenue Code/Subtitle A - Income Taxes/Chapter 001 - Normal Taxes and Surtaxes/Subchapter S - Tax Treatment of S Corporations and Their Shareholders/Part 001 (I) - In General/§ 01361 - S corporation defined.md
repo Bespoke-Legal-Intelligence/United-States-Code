@@ -58,7 +58,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately beforesuch cessation from the S corporation in exchange for its stock.
 
 #### (ii) Termination by reason of sale of stock
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;(iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
 
-&emsp;&emsp;&emsp;(v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period.
+&emsp;&emsp;&emsp;(v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period. This clause shall not apply for purposes of subsection (b)(1)(C).
 
 &emsp;&emsp;&emsp;(vi) In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as a shareholder.
 
@@ -326,7 +326,7 @@
 
 In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, §13541(a), Dec. 22, 2017, 131 Stat. 2154.)
 
 #### References in Text
 
@@ -337,6 +337,8 @@ The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), 
 A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(2)(B)(v). Pub. L. 115–97 inserted at end "This clause shall not apply for purposes of subsection (b)(1)(C)."
 
 <b>2007</b>—Subsec. (b)(3)(C). Pub. L. 110–28, §8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
 
@@ -438,6 +440,10 @@ Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, r
 
 Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted "Failure to meet requirements of paragraph (3)(A)" as subpar. (A) heading, substituted "of paragraph (3)(A)" for "under paragraph (3)", and added subpar. (B).
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13541(b), Dec. 22, 2017, 131 Stat. 2154, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 2018."
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–28, title VIII, §8232(c), May 25, 2007, 121 Stat. 198, provided that:
@@ -492,7 +498,7 @@ Amendment by sections 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), and 1315
 
 Amendment by sections 1316(a), (e) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
 
-Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1989 Amendment
 

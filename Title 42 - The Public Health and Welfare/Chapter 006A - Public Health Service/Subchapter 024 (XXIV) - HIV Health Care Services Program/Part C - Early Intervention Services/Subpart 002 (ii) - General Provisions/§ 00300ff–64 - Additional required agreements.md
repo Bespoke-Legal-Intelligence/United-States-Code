@@ -68,7 +68,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amountexceeding 10 percent of the annual gross income of the individual involved.
+&emsp;&emsp;(C) in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
 
 #### (3) Assessment of charge
 
@@ -90,7 +90,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
+&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early interventionservices, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (except for a program administered by or providing the services of the Indian Health Service); or
 

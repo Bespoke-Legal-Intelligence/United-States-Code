@@ -78,7 +78,7 @@ General.—In this chapter—
 
 &emsp;(14) "manufacturer" means—
 
-&emsp;&emsp;(A) a person engaged in the business of manufacturing automobiles, including a predecessor or successor of the person to the extent provided under regulations prescribed by the Secretary; and
+&emsp;&emsp;(A) a person engaged in the business of manufacturing automobiles, including apredecessor or successor of the person to the extent provided under regulations prescribed by the Secretary; and
 
 &emsp;&emsp;(B) if more than one person is the manufacturer of an automobile, the person specified under regulations prescribed by the Secretary.
 
@@ -414,7 +414,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;"(1) provide for a means of registering dealers for participation in the Program;
 
-&emsp;"(2) establish procedures for the reimbursement of dealers participating in the Program to be made through electronic transfer of funds for the amount of the vouchers as soon as practicable but no longer than 10 days after the submission of information supporting the eligible transaction, as deemed appropriate by the Secretary;
+&emsp;"(2) establish procedures for the reimbursement of dealers participating in the Program to be madethrough electronic transfer of funds for the amount of the vouchers as soon as practicable but no longer than 10 days after the submission of information supporting the eligible transaction, as deemed appropriate by the Secretary;
 
 &emsp;"(3) require the dealer to use the voucher in addition to any other rebate or discount advertised by the dealer or offered by the manufacturer for the new fuel efficient automobile and prohibit the dealer from using the voucher to offset any such other rebate or discount;
 
@@ -424,7 +424,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;&emsp;"(A) requirements for the removal and appropriate disposition of refrigerants, antifreeze, lead products, mercury switches, and such other toxic or hazardous vehicle components prior to the crushing or shredding of an eligible trade-in vehicle, in accordance with rules established by the Secretary in consultation with the Administrator of the Environmental Protection Agency, and in accordance with other applicable Federal or State requirements;
 
-&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will betransferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
+&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will be transferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
 
 &emsp;&emsp;"(C) a mechanism for obtaining such other certifications as deemed necessary by the Secretary from entities engaged in vehicle disposal; and
 

@@ -16,7 +16,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (3) Eligibility
 
-&emsp;(A) Except as provided in paragraph (10), a jurisdiction receiving a formula allocation under section 12747 of this title shall be eligible to become a participating jurisdiction if its formula allocation is $750,000 or greater, or if the Secretary finds that—
+&emsp;(A) Except as provided in paragraph (10), a jurisdiction receiving a formula allocationunder section 12747 of this title shall be eligible to become a participating jurisdiction if its formula allocation is $750,000 or greater, or if the Secretary finds that—
 
 &emsp;&emsp;(i) the jurisdiction has a local housing authority and has demonstrated a capacity to carry out provisions of this part, and
 
@@ -74,7 +74,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;&emsp;(A) the Secretary finds, after reasonable notice and opportunity for hearing, that the jurisdiction is unwilling or unable to carry out the provisions of this subchapter, or
 
-&emsp;&emsp;(B) the jurisdiction's allocation falls below $750,000 for 3 consecutive years, below $625,000 for 2 consecutive years, or the jurisdiction does not receive a formula allocation of $500,000 or more in any 1 year, except as provided in paragraph (10).
+&emsp;&emsp;(B) the jurisdiction's allocation falls below $750,000 for 3 consecutive years, below $625,000 for 2 consecutive years, or the jurisdiction does not receive a formula allocationof $500,000 or more in any 1 year, except as provided in paragraph (10).
 
 > &emsp;If a jurisdiction's designation as a participating jurisdiction is revoked, any remaining line of credit in the jurisdiction's HOME Investment Trust Fund established under section 12748 of this title shall be reallocated in accordance with paragraph (6) of this section.
 

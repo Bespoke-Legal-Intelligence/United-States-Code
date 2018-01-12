@@ -8,7 +8,7 @@
 
 #### (2) Common carriage of video traffic
 
-&emsp;To the extent that a common carrier is providing transmission of video programming on a common carrier basis, such carrier shall be subject to the requirements of subchapter II and section 572 of this title, but shall nototherwise be subject to the requirements of this subchapter. This paragraph shall not affect the treatment under section 522(7)(C) of this title of a facility of a common carrier as a cable system.
+&emsp;To the extent that a common carrier is providing transmission of video programming on a common carrier basis, such carrier shall be subject to the requirements of subchapter II and section 572 of this title, but shall not otherwise be subject to the requirements of this subchapter. This paragraph shall not affect the treatment under section 522(7)(C) of this title of a facility of a common carrier as a cable system.
 
 #### (3) Cable systems and open video systems
 

@@ -1,0 +1,6 @@
+### §3712e. Transferred
+
+#### Codification
+
+Section 3712e was editorially reclassified as section 10106 of Title 34, Crime Control and Law Enforcement.
+

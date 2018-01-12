@@ -64,7 +64,7 @@ Beginning 1 year after November 27, 2013, a facility of a third-party logistics 
 
 &emsp;&emsp;&emsp;&emsp;(IV) provide support for manufacturer recalls;
 
-&emsp;&emsp;&emsp;&emsp;(V) prepare for, protect against, and address any reasonably foreseeable crisis that affects security or operation at the facility, such as a strike, fire, or flood;
+&emsp;&emsp;&emsp;&emsp;(V) prepare for, protect against, and address any reasonably foreseeable crisisthat affects security or operation at the facility, such as a strike, fire, or flood;
 
 &emsp;&emsp;&emsp;&emsp;(VI) ensure that any expired product is segregated from other products and returned to the manufacturer or repackager or destroyed;
 

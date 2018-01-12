@@ -56,7 +56,7 @@ The President shall coordinate, through a whole-of-government approach, the effo
 
 #### (2) Agency-specific plans
 
-&emsp;The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
+&emsp;The Global Food Security Strategy shall include specific implementation plans from eachrelevant Federal department and agency that describes—
 
 &emsp;&emsp;(A) the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
 

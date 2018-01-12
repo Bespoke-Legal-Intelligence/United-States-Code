@@ -22,7 +22,7 @@ Specified official.—The official referred to in paragraph (1) is—
 
 &emsp;&emsp;(C) the Secretary of the Interior, for property transferred under subsection (e) for public park or recreation area use;
 
-&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred under subsection (f) to provide housing or housing assistance for low-income individuals or families; and
+&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred undersubsection (f) to provide housing or housing assistance for low-income individuals or families; and
 
 &emsp;&emsp;(E) the Secretary of the Interior, for property transferred under subsection (h) for use as a historic monument for the benefit of the public.
 
@@ -48,7 +48,7 @@ Property for Use in the Protection of Public Health, Including Research.—
 
 &emsp;(1)
 
-Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe,may assign to the Secretary of Health and Human Services for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use in the protection of public health, including research.
+Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of Health and Human Services for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use in the protection of public health, including research.
 
 &emsp;(2)
 
@@ -120,7 +120,7 @@ In general.—In fixing the sale or lease value of property disposed of under pa
 
 &emsp;&emsp;(B)
 
-Amount of discount.—The amount of the discount under subparagraph (A) is 75 percent of the market value of the property,except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
+Amount of discount.—The amount of the discount under subparagraph (A) is 75 percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
 
 (g)
 

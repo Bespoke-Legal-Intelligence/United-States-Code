@@ -16,7 +16,7 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58 substituted "second Sunday of March" for "first Sunday of April" and "first Sunday of November" for "last Sunday of October".
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 substituted "second Sunday of March" for "first Sunday of April" and"first Sunday of November" for "last Sunday of October".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–359 substituted "first Sunday of April" for "last Sunday of April".
 

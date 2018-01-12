@@ -1,0 +1,38 @@
+### §12571. Definitions
+
+In this part—
+
+&emsp;"Director" means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 12553 <sup>1</sup> of this title.
+
+&emsp;"educational expenses" means expenses that are directly attributable to—
+
+&emsp;&emsp;(A) a course of education leading to the award of an associate degree;
+
+&emsp;&emsp;(B) a course of education leading to the award of a baccalaureate degree; or
+
+&emsp;&emsp;(C) a course of graduate study following award of a baccalaureate degree,
+
+> &emsp;including the cost of tuition, fees, books, supplies, and related expenses.
+
+&emsp;"institution of higher education" has the meaning stated in the first sentence of section 1001 of title 20.
+
+&emsp;"law enforcement position" means employment as an officer in a State or local police force, or correctional institution.
+
+&emsp;"State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+
+(Pub. L. 103–322, title XX, §200202, Sept. 13, 1994, 108 Stat. 2057; Pub. L. 105–244, title I, §102(a)(13)(P), Oct. 7, 1998, 112 Stat. 1621.)
+
+#### Codification
+
+Section was formerly classified to section 14111 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>1998</b>—Pub. L. 105–244 substituted "section 1001" for "section 1141(a)" in par. defining "institution of higher education".
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+<i><sup>1</sup></i><i> So in original. Section 12553 of this title does not provide for the appointment of a Director.</i>
+

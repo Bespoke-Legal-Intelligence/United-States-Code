@@ -74,7 +74,7 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (a)(2)(A), (C)
 
 #### Prior Provisions
 
-A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agency from requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agencyfrom requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Section 3242, Pub. L. 89–136, title IX, §902, as added Pub. L. 93–423, §12
 
 Section 3243, Pub. L. 89–136, title IX, §903, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164; amended Pub. L. 94–487, title I, §121(b), (c), Oct. 12, 1976, 90 Stat. 2336, authorized grants to eligible recipients.
 
-Section 3244, Pub. L. 89–136, title IX, §904, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1165; amendedPub. L. 96–470, title II, §201(c), Oct. 19, 1980, 94 Stat. 2241, required annual reports by recipients and Secretary.
+Section 3244, Pub. L. 89–136, title IX, §904, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1165; amended Pub. L. 96–470, title II, §201(c), Oct. 19, 1980, 94 Stat. 2241, required annual reports by recipients and Secretary.
 
 Section 3245, Pub. L. 89–136, title IX, §905, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1166; amended Pub. L. 94–487, title I, §121(d), Oct. 12, 1976, 90 Stat. 2336; Pub. L. 96–506, §1(10), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, §1821(a)(11), Aug. 13, 1981, 95 Stat. 766, authorized appropriations.
 

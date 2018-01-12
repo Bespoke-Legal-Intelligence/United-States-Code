@@ -38,7 +38,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 99–272 applicable to smokeless tobacco removed after June
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 2128(b) of Pub. L. 94–455 effective on first month which begins more than 90 daysafter Oct. 4, 1976, see section 2128(e) of Pub. L. 94–455, set out as a note under section 5701 of this title.
+Amendment by section 2128(b) of Pub. L. 94–455 effective on first month which begins more than 90 days after Oct. 4, 1976, see section 2128(e) of Pub. L. 94–455, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1965 Amendment
 

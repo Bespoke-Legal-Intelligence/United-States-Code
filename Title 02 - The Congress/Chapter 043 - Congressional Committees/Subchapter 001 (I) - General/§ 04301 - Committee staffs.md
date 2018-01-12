@@ -2,7 +2,7 @@
 
 #### (a) Appointment of professional members; number; qualifications; termination of employment
 
-Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
+Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis offitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
 
 #### (b) Professional members for Committee on Appropriations; examinations of executive agencies' operation
 
@@ -44,7 +44,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 #### (j) Specialized training for professional staffs of Senate and House standing committees, Senate Appropriations Committee, Senate Majority and Minority Policy Committees, and joint committees whose funding is disbursed by Secretary of Senate or Chief Administrative Officer of House; assistance: pay, tuition, etc. while training; continued employment agreement; service credit: retirement, life insurance and health insurance
 
-(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, and the committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to provide assistance for members of itsprofessional staff in obtaining specialized training, whenever that committee determines that such training will aid the committee in the discharge of its responsibilities. Any joint committee of the Congress whose expenses are paid out of funds disbursed by the Secretary of the Senate or by the Chief Administrative Officer of the House of Representatives, the Committee on Appropriations of the Senate, and the Majority Policy Committee and Minority Policy Committee of the Senate are each authorized to expend, for the purpose of providing assistance in accordance with paragraphs (2), (3), and (4) of this subsection for members of its staff in obtaining such training, any part of amounts appropriated to that committee.
+(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, and the committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to provide assistance for members of its professional staff in obtaining specialized training, whenever that committee determines that such training will aid the committee in the discharge of its responsibilities. Any joint committee of the Congress whose expenses are paid out of funds disbursed by the Secretary of the Senate or by the Chief Administrative Officer of the House of Representatives, the Committee on Appropriations of the Senate, and the Majority Policy Committee and Minority Policy Committee of the Senate are each authorized to expend, for the purpose of providing assistance in accordance with paragraphs (2), (3), and (4) of this subsection for members of its staff in obtaining such training, any part of amounts appropriated to that committee.
 
 (2) Such assistance may be in the form of continuance of pay during periods of training or grants of funds to pay tuition, fees, or such other expenses of training, or both, as may be approved by the Committee on Rules and Administration or the Committee on House Administration, as the case may be.
 
@@ -59,14 +59,6 @@ Staff members appointed pursuant to a request by minority members of a committee
 &emsp;(C) chapter 89 (relating to Federal employees group health insurance) of title 5.
 
 (Aug. 2, 1946, ch. 753, title II, §202, 60 Stat. 834; July 30, 1947, ch. 361, title I, §101, 61 Stat. 611; Feb. 24, 1949, ch. 8, 63 Stat. 6; Aug. 5, 1955, ch. 568, §12, 69 Stat. 509; Pub. L. 85–462, §4(o), June 20, 1958, 72 Stat. 209; Pub. L. 88–426, title II, §202(j), Aug. 14, 1964, 78 Stat. 414; Pub. L. 91–510, title III, §§301(a)–(c), 303, 304, title IV, §477(a)(3), Oct. 26, 1970, 84 Stat. 1175, 1176, 1179, 1180, 1195; Pub. L. 92–136, §5, Oct. 11, 1971, 85 Stat. 378; Pub. L. 100–458, title III, §312, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 104–186, title II, §204(10), (11), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–55, title I, §105(a), Oct. 7, 1997, 111 Stat. 1184.)
-
-#### Partial Repeal
-
-<i>Section 2(a) of S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that, until otherwise provided by law or resolution of the Senate, the provisions of subsections (a) through (h) of this section shall not apply to committees of the Senate.</i>
-
-#### Abolition of Additional Clerical Staff Positions
-
-<i>Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the additional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.</i>
 
 #### Codification
 
@@ -110,7 +102,7 @@ Subsec. (c). Pub. L. 91–510, §301(b), inserted "of the Senate (other than the
 
 Subsec. (e). Pub. L. 91–510, §477(a)(3), repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
 
-Subsec. (g). Pub. L. 91–510, §301(c), added subsec. (g). Former provisions, declaring any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in executive branch of Government for period of one year after he shall have ceased to be such a member, were repealed by act Feb. 24, 1949, ch. 8, 63 Stat. 6.
+Subsec. (g). Pub. L. 91–510, §301(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 91–510, §301(c), added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, act July 1, 1946, ch. 530, 60 Stat. 386.
 
@@ -124,7 +116,7 @@ Subsec. (j). Pub. L. 91–510, §304, added subsec. (j).
 
 <b>1955</b>—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
 
-<b>1949</b>—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
+<b>1949</b>—Subsec. (g). Act Feb. 24, 1949, struck out subsec. (g) which declared any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in the executive branch for a period of one year after ceasing to be such a member.
 
 <b>1947</b>—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
 
@@ -150,7 +142,7 @@ Pub. L. 91–510, title VI, §601, Oct. 26, 1970, 84 Stat. 1204, provided that:
 
 "(2) Part 2 of title II shall be effective with respect to fiscal years beginning on or after July 1, 1972.
 
-"(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of thisAct, shall become effective at the close of the first session of the Ninety-second Congress.
+"(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act, shall become effective at the close of the first session of the Ninety-second Congress.
 
 "(4) Section 203(i) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act, shall be effective with respect to fiscal years beginning on or after July 1, 1970.
 
@@ -180,6 +172,14 @@ Pub. L. 91–510, §1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–
 
 Act Aug. 2, 1946, ch. 753, §1(a), 60 Stat. 812, provided that such Act \[see Tables for classification\] may be cited as the "Legislative Reorganization Act of 1946."
 
+#### Partial Repeal
+
+Section 2(a) of S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that, until otherwise provided by law or resolution of the Senate, the provisions of subsections (a) through (h) of this section shall not apply to committees of the Senate.
+
+#### Abolition of Additional Clerical Staff Positions
+
+Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the additional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.
+
 #### Travel for Studies and Examinations of Executive Agencies
 
 Pub. L. 104–53, title I, §105, Nov. 19, 1995, 109 Stat. 521, provided that:
@@ -202,7 +202,7 @@ Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided th
 
 #### Professional Staffs; Increase in Number
 
-Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
+Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to anyother additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
 
 #### Increases in Compensation
 
@@ -222,7 +222,7 @@ S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is 
 
 "
 
-Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary tocarry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
+Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
 
 "(b) The Majority and Minority Leaders of the Senate may each designate a Majority staff assistant and a Minority staff assistant to serve as their liaisons to the Office. Upon such designation, the Secretary shall appoint and fix the compensation of the Majority and Minority liaison assistants.
 
@@ -268,5 +268,5 @@ S. Res. 229, One Hundredth Congress, June 5, 1987, established within the Office
 
 #### Authorization of Appropriations
 
-Act Aug. 2, 1946, ch. 753, title II, §244, 60 Stat. 839, provided in part: "All necessary funds required to carry out the provisions of this Act \[see Tables for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated."
+Act Aug. 2, 1946, ch. 753, title II, §244, 60 Stat. 839, provided in part: "All necessary funds required to carryout the provisions of this Act \[see Tables for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated."
 

@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting "$12,000" for "$6,000" in introductory provisions.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and "$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and"$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
 
 <b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 struck out ", United States Code" after "title 37" in two places.
 

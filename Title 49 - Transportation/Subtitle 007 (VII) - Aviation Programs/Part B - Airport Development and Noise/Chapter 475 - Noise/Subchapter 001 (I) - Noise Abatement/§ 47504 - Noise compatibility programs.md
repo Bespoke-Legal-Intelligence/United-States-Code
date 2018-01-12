@@ -64,9 +64,9 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations wereprescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
+&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
 
-&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise; and
+&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educationalor medical purposes and that the Secretary decides is adversely affected by airport noise; and
 
 &emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations.
 
@@ -166,7 +166,7 @@ Subsection (b)(2) is substituted for 49 App.:2104(b) (3d sentence) to eliminate 
 
 In subsection (c)(1)(B) and (2), the words "for which grant applications are made in accordance with such noise compatibility programs" are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words "incur obligations to" and "further . . . under this section" are omitted as surplus. In clause (C), the words "to carry out any part of a program" are substituted for "any project to carry out a noise compatibility program", and the words "or before implementing regulations were prescribed" are substituted for "or the promulgation of its implementing regulations", for clarity and consistency. The words "the purposes of" before "reducing" are omitted as surplus. The word "noncompatible" is added after "existing" for clarity and consistency. In clause (D), the words "for any project" and "determined to be" are omitted as surplus.
+In subsection (c)(1), before clause (A), the words "incur obligations to" and "further . . . under this section" are omitted as surplus. In clause (C), the words "to carry out any part of a program" are substituted for "any project to carry out a noise compatibility program", and the words "or before implementing regulations were prescribed" are substituted for "or the promulgation of its implementing regulations", for clarityand consistency. The words "the purposes of" before "reducing" are omitted as surplus. The word "noncompatible" is added after "existing" for clarity and consistency. In clause (D), the words "for any project" and "determined to be" are omitted as surplus.
 
 In subsection (c)(2), the words "in turn" are omitted as surplus.
 

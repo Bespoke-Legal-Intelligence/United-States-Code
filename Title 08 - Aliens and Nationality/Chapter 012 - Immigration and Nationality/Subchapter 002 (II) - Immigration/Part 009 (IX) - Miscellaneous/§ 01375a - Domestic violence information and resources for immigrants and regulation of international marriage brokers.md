@@ -96,7 +96,7 @@
 
 #### (2) Family-based applicants
 
-&emsp;The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitionsat all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
+&emsp;The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
 
 #### (c) Confidentiality
 
@@ -136,7 +136,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (B) Background information
 
-&emsp;&emsp;The international marriage broker shall collect a certification signed (in written, electronic, or other form) by the United States client accompanied by documentation or an attestation of the following background information about the United States client:
+&emsp;&emsp;The international marriage broker shall collect a certification signed (in written,electronic, or other form) by the United States client accompanied by documentation or an attestation of the following background information about the United States client:
 
 &emsp;&emsp;&emsp;(i) Any temporary or permanent civil protection order or restraining order issued against the United States client.
 
@@ -170,7 +170,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(iii) provided to the foreign national client—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the foreign national client's primary language, a copy of any records retrieved from the search required under paragraph (2)(A)(i) or documentationconfirming that such search retrieved no records;
+&emsp;&emsp;&emsp;&emsp;(I) in the foreign national client's primary language, a copy of any records retrieved from the search required under paragraph (2)(A)(i) or documentation confirming that such search retrieved no records;
 
 &emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B); and
 
@@ -380,11 +380,11 @@ In this section:
 
 #### References in Text
 
-Section 3 of this Act, referred to in subsec. (e)(2), is section 3 of Pub. L. 109–162, which enacted sections 3796gg–2 and 13925 of Title 42, The Public Health and Welfare, amended sections 3796gg–3, 3796hh–4, 10420, 13975, and 14039 of Title 42, repealed former section 3796gg–2 of Title 42, and amended provisions set out as a note under section 3796gg–2 of Title 42.
+Section 3 of this Act, referred to in subsec. (e)(2), is section 3 of Pub. L. 109–162, which enacted sections 10447 and 12291 of Title 34, Crime Control and Law Enforcement, amended sections 10448, 10465, 12464, 12351, and 12409 of Title 34, repealed former section 3796gg–2 of Title 42, The Public Health and Welfare, and amended provisions set out as a note under section 10447 of Title 34.
 
 Section 832, referred to in subsec. (f)(1)(A), (C), is section 832 of Pub. L. 109–162, which amended section 1184 of this title and enacted provisions set out as notes under section 1184 of this title.
 
-This Act, referred to in subsec. (f)(1)(A)(ii), (v), and (viii), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, known as the Violence Against Women and Department of Justice Reauthorization Act of 2005. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 13701 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (f)(1)(A)(ii), (v), and (viii), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, known as the Violence Against Women and Department of Justice Reauthorization Act of 2005. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
 #### Codification
 
@@ -416,7 +416,7 @@ Subsec. (d)(3)(C). Pub. L. 113–4, §808(c)(3)(B), struck out subpar. (C). Text
 
 Subsec. (d)(5)(A)(ii). Pub. L. 113–4, §808(c)(4)(A), substituted "At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General" for "A penalty may be imposed under clause (i) by the Attorney General only".
 
-Subsec. (d)(5)(B). Pub. L. 113–4, §808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: "In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both."
+Subsec. (d)(5)(B). Pub. L. 113–4, §808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read asfollows: "In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both."
 
 Subsec. (d)(5)(C). Pub. L. 113–4, §808(c)(4)(C), substituted "including equitable remedies." for period at end.
 

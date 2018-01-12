@@ -90,7 +90,7 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: "The amendment made bythis section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: "The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2003 Amendment
 

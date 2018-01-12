@@ -6,7 +6,7 @@ Memorials.—The American Battle Monuments Commission shall prepare plans and es
 
 (b)
 
-Architecture and Art.—The Commission shall build and maintain works of architectureand art in United States cemeteries located outside the United States and the territories and possessions of the United States that are permanent cemeteries. The Secretary of Veterans Affairs shall maintain works of architecture and art built by the Commission in the National Cemetery Administration, as described in section 2400(b) of title 38.
+Architecture and Art.—The Commission shall build and maintain works of architecture and art in United States cemeteries located outside the United States and the territories and possessions of the United States that are permanent cemeteries. The Secretary of Veterans Affairs shall maintain works of architecture and art built by the Commission in the National Cemetery Administration, as described in section 2400(b) of title 38.
 
 (c)
 

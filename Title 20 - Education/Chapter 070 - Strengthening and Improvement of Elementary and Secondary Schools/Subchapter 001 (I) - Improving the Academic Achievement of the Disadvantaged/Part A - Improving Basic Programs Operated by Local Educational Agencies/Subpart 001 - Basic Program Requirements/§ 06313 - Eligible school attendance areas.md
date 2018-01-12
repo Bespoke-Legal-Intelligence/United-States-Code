@@ -70,7 +70,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c), and permit such agency to treat as eligible, and serve, any school that children attendwith a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c), and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
 
 &emsp;&emsp;(A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(B) use funds received under this part in a school that is not in an eligible school attendance area, if the percentage of children from low-income families enrolled in the school is equal to or greater than the percentage of such children in a participating school attendance area of such agency;
 
-&emsp;&emsp;(C) designate and serve a school attendance area or school that is not eligible under this section, but that was eligible and that was served in the preceding fiscal year, but only for 1 additional fiscal year; and
+&emsp;&emsp;(C) designate and serve a school attendance area or school that is not eligible underthis section, but that was eligible and that was served in the preceding fiscal year, but only for 1 additional fiscal year; and
 
 &emsp;&emsp;(D) elect not to serve an eligible school attendance area or eligible school that has a higher percentage of children from low-income families if—
 
@@ -160,7 +160,7 @@
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(5)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(5)(A), is act June 4, 1946, ch.281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (a)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

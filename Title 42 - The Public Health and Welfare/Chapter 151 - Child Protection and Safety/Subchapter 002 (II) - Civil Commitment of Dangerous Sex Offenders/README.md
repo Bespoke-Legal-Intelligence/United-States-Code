@@ -5,4 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 16971 - Jimmy Ryce State civil commitment programs for sexually dangerous persons](%C2%A7%2016971%20-%20Jimmy%20Ryce%20State%20civil%20commitment%20programs%20for%20sexually%20dangerous%20persons.md)
+- [&sect; 16971 - Transferred](%C2%A7%2016971%20-%20Transferred.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-Assignment of Forces.—(1) As directed by the Secretary of Defense, the Secretaries of the military departments shall assign specified forces under their jurisdiction to unified and specified combatant commands or to the UnitedStates element of the North American Aerospace Defense Command to perform missions assigned to those commands. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
+Assignment of Forces.—(1) As directed by the Secretary of Defense, the Secretaries of the military departments shall assign specified forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
 (2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 3013, 5013, or 8013 of this title, as applicable.
 
@@ -12,7 +12,7 @@ Assignment of Forces.—(1) As directed by the Secretary of Defense, the Secreta
 
 &emsp;(B) under procedures prescribed by the Secretary and approved by the President.
 
-(4) Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of,<sup>1</sup> the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
+(4) Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
 
 (b)
 
@@ -22,9 +22,11 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 &emsp;(2) from the Secretary of Defense to the commander of the combatant command.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div. A, title XIII, §1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, §711, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 104–201, div. A, title X, §1073(a), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 114–328, div. A, title IX, §924, Dec. 23, 2016, 130 Stat. 2358.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div.A, title XIII, §1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, §711, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 104–201, div. A, title X, §1073(a), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 114–328, div. A, title IX, §924, Dec. 23, 2016, 130 Stat. 2358; Pub. L. 115–91, div. A, title X, §1081(a)(9), Dec. 12, 2017, 131 Stat. 1594.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(4). Pub. L. 115–91 struck out comma after "command of".
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §924(1), substituted "As directed by the Secretary of Defense" for "Except as provided in paragraph (2)" and "specified forces" for "all forces" and struck out "Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned." before "The Secretary of Defense".
 
@@ -43,6 +45,4 @@ Pub. L. 114–328, §924(3)(A), which directed striking out "operating with the 
 #### Implementation of Assignment of Forces to Combatant Commands
 
 Pub. L. 99–433, title II, §214(a), Oct. 1, 1986, 100 Stat. 1018, provided that section 162(a) of this title shall be implemented not later than 90 days after Oct. 1, 1986.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

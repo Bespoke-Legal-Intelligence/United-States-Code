@@ -26,7 +26,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (A) Natural gas sold under a fixed contract
 
-&emsp;&emsp;The term "natural gas sold under a fixed contract" means domestic natural gas soldby the producer under a contract, in effect on February 1, 1975, and at all times thereafter before such sale, under which the price for such gas cannot be adjusted to reflect to any extent the increase in liabilities of the seller for tax under this chapter by reason of the repeal of percentage depletion for gas. Price increases after February 1, 1975, shall be presumed to take increases in tax liabilities into account unless the taxpayer demonstrates to the contrary by clear and convincing evidence.
+&emsp;&emsp;The term "natural gas sold under a fixed contract" means domestic natural gas sold by the producer under a contract, in effect on February 1, 1975, and at all times thereafter before such sale, under which the price for such gas cannot be adjusted to reflect to any extent the increase in liabilities of the seller for tax under this chapter by reason of the repeal of percentage depletion for gas. Price increases after February 1, 1975, shall be presumed to take increases in tax liabilities into account unless the taxpayer demonstrates to the contrary by clear and convincing evidence.
 
 #### (B) Regulated natural gas
 
@@ -132,7 +132,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;For purposes of this subsection—
 
-&emsp;&emsp;&emsp;(i) the taxpayer's average daily marginal production of domestic crude oil or natural gas for any taxable year shall be determined by dividing the taxpayer's aggregate marginal production of domestic crude oil or natural gas, as the case may be, during the taxable year by the number of days in such taxable year, and
+&emsp;&emsp;&emsp;(i) the taxpayer's average daily marginal production of domestic crude oil or natural gas for any taxable year shall be determined by dividing the taxpayer's aggregate marginal production of domesticcrude oil or natural gas, as the case may be, during the taxable year by the number of days in such taxable year, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a taxpayer holding a partial interest in the production from any property (including any interest held in any partnership), such taxpayer's production shall be considered to be that amount of such production determined by multiplying the total production of such property by the taxpayer's percentage participation in the revenues from such property.
 
@@ -160,7 +160,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (D) Partnerships
 
-&emsp;&emsp;In the case of a partnership, the depletion allowance shall be computed separately by the partners and not by the partnership. Thepartnership shall allocate to each partner his proportionate share of the adjusted basis of each partnership oil or gas property. The allocation is to be made as of the later of the date of acquisition of the oil or gas property by the partnership, or January 1, 1975. A partner's proportionate share of the adjusted basis of partnership property shall be determined in accordance with his interest in partnership capital or income and, in the case of property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share. Each partner shall separately keep records of his share of the adjusted basis in each oil and gas property of the partnership, adjust such share of the adjusted basis for any depletion taken on such property, and use such adjusted basis each year in the computation of his cost depletion or in the computation of his gain or loss on the disposition of such property by the partnership. For purposes of section 732 (relating to basis of distributed property other than money), the partnership's adjusted basis in mineral property shall be an amount equal to the sum of the partners' adjusted basis in such property as determined under this paragraph.
+&emsp;&emsp;In the case of a partnership, the depletion allowance shall be computed separately by the partners and not by the partnership. The partnership shall allocate to each partner his proportionate share of the adjusted basis of each partnership oil or gas property. The allocation is to be made as of the later of the date of acquisition of the oil or gas property by the partnership, or January 1, 1975. A partner's proportionate share of the adjusted basis of partnership property shall be determined in accordance with his interest in partnership capital or income and, in the case of property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share. Each partner shall separately keep records of his share of the adjusted basis in each oil and gas property of the partnership, adjust such share of the adjusted basis for any depletion taken on such property, and use such adjusted basis each year in the computation of his cost depletion or in the computation of his gain or loss on the disposition of such property by the partnership. For purposes of section 732 (relating to basis of distributed property other than money), the partnership's adjusted basis in mineral property shall be an amount equal to the sum of the partners' adjusted basis in such property as determined under this paragraph.
 
 #### (8) Business under common control; members of the same family
 
@@ -214,7 +214,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;(A) any depletion on production from an oil or gas property which is subject to the provisions of subsection (c),
 
-&emsp;&emsp;(B) any deduction allowable under section 199,
+&emsp;&emsp;(B) any deduction allowable under section 199A,
 
 &emsp;&emsp;(C) any net operating loss carryback to the taxable year under section 172,
 
@@ -234,7 +234,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(i) obligated under an agreement or contract with the taxpayer or a related person to use a trademark, trade name, or service mark or name owned by such taxpayer or a related person, in marketing or distributing oil or natural gas or any product derived from oil or natural gas, or
 
-&emsp;&emsp;&emsp;(ii) given authority, pursuant to an agreement or contract with the taxpayer or a related person, to occupy any retail outlet owned, leased, or in any way controlled by the taxpayer or a related person.
+&emsp;&emsp;&emsp;(ii) given authority, pursuant to an agreement or contract with the taxpayeror a related person, to occupy any retail outlet owned, leased, or in any way controlled by the taxpayer or a related person.
 
 > &emsp;Notwithstanding the preceding sentence this paragraph shall not apply in any case where the combined gross receipts from the sale of such oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account for purposes of this paragraph do not exceed $5,000,000. For purposes of this paragraph, sales of oil, natural gas, or any product derived from oil or natural gas shall not include sales made of such items outside the United States, if no domestic production of the taxpayer or a related person is exported during the taxable year or the immediately preceding taxable year.
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 &emsp;The term "barrel" means 42 United States gallons.
 
-(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, §504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, §403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, §118(a), Dec. 20, 2006, 120 Stat. 2942; Pub. L. 110–343, div. B, title II, §210, Oct. 3, 2008, 122 Stat. 3840; Pub. L. 111–312, title VII, §706(a), Dec. 17, 2010, 124 Stat. 3311.)
+(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, §504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, §403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, §118(a), Dec. 20, 2006, 120 Stat. 2942; Pub. L. 110–343, div. B, title II, §210, Oct. 3, 2008, 122 Stat. 3840; Pub. L. 111–312, title VII, §706(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 115–97, title I, §§11011(d)(4), 13305(b)(5), Dec. 22, 2017, 131 Stat. 2071, 2126.)
 
 #### References in Text
 
@@ -287,6 +287,10 @@ Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)
 The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(1). Pub. L. 115–97, §13305(b)(5), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: "any deduction allowable under section 199,".
+
+Pub. L. 115–97, §11011(d)(4), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
 <b>2010</b>—Subsec. (c)(6)(H)(ii). Pub. L. 111–312 substituted "January 1, 2012" for "January 1, 2010".
 
@@ -382,11 +386,17 @@ Subsec. (c)(7)(E). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (c)(9)(B). Pub. L. 94–455, §2115(b)(1), (e), added cls. (iii) to (vi) and provision following cl. (vi).
 
-Subsec. (d)(1). Pub. L. 94–455, §2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
+Subsec. (d)(1). Pub. L. 94–455, §2115(b)(2), substituted in subpar. (A) reference to any depletion on productionfrom an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
 
 Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted "(excluding bulk sales of such items to commercial or industrial users)" before ", or any product derived" and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
 
 Subsec. (d)(3). Pub. L. 94–455, §2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11011(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under section 62 of this title.
+
+Amendment by section 13305(b)(5) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -436,7 +446,7 @@ Pub. L. 101–508, title XI, §11523(c), Nov. 5, 1990, 104 Stat. 1388–487, pro
 
 Amendment by section 104(b)(9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 412(a)(1) of Pub. L. 99–514 applicable to amounts received or accrued after Aug. 16,1986, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 99–514, set out as a note under section 613 of this title.
+Amendment by section 412(a)(1) of Pub. L. 99–514 applicable to amounts received or accrued after Aug. 16, 1986, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 99–514, set out as a note under section 613 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -462,7 +472,7 @@ Amendment by Pub. L. 95–618 effective on Oct. 1, 1978, and applicable to taxab
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

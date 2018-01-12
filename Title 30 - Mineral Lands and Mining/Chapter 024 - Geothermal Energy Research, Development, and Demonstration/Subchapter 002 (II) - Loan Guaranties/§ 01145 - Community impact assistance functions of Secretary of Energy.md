@@ -6,7 +6,7 @@ The Secretary of Energy, for any project which has a guarantee under this subcha
 
 #### (b) Discretionary activities for communities with projects not subject to coverage
 
-The Secretary of Energy, for projects not included under subsection (a), may in his discretion consider the community impacts which may result from such projects, and may take such actions, under authority directly available to him under other statutes or in coordinationwith other Federal agencies or the State, as he considers necessary and appropriate to insure timely and effective planning and financing for such community impacts.
+The Secretary of Energy, for projects not included under subsection (a), may in his discretion consider the community impacts which may result from such projects, and may take such actions, under authority directly available to him under other statutes or in coordination with other Federal agencies or the State, as he considers necessary and appropriate to insure timely and effective planning and financing for such community impacts.
 
 #### (c) Guarantees, commitments to guarantee, direct loans, and grants; scope, terms and conditions, amount, etc.
 
@@ -46,7 +46,7 @@ The Secretary of Energy, for projects not included under subsection (a), may in 
 
 #### References in Text
 
-Section 9(a) of the Mineral Leasing Act Amendments of 1976 (Public Law 94–377), referred to in subsecs. (a)and (c)(11), probably means the Federal Coal Leasing Amendments Act of 1976, Pub. L. 94–377, §9(a), Aug. 4, 1976, 90 Stat. 1090, as amended, which amended section 191 of this title.
+Section 9(a) of the Mineral Leasing Act Amendments of 1976 (Public Law 94–377), referred to in subsecs. (a) and (c)(11), probably means the Federal Coal Leasing Amendments Act of 1976, Pub. L. 94–377, §9(a), Aug. 4, 1976, 90 Stat. 1090, as amended, which amended section 191 of this title.
 
 #### Transfer of Functions
 

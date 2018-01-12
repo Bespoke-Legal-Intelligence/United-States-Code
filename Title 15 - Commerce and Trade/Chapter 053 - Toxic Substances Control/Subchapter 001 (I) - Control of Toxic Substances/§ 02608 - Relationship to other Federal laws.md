@@ -46,7 +46,7 @@
 
 #### (c) Occupational safety and health
 
-In exercising any authority under this chapter, the Administrator shall not, for purposes of section 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
+In exercising any authority under this chapter, the Administrator shall not, for purposes ofsection 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
 
 #### (d) Coordination
 

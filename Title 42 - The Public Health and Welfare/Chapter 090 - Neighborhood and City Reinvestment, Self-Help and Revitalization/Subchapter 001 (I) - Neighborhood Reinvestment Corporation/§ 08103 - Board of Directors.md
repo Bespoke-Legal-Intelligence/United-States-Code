@@ -38,7 +38,7 @@ A director who is necessarily absent from a meeting of the board, or of a commit
 
 #### (g) Quorum
 
-The presence of a majority of the board members, or their representatives as provided in subsection (f) of this section, shall constitute a quorum.
+The presence of a majority of the board members, or their representatives as provided in subsection (f), shall constitute a quorum.
 
 #### (h) Application of other laws
 
@@ -48,7 +48,7 @@ The corporation shall be subject to the provisions of section 552 of title 5.
 
 All meetings of the board of directors will be conducted in accordance with the provisions of section 552b of title 5.
 
-(Pub. L. 95–557, title VI, §604, Oct. 31, 1978, 92 Stat. 2115; Pub. L. 97–320, title VII, §710(a), Oct.15, 1982, 96 Stat. 1544; Pub. L. 100–242, title V, §520(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 100–628, title X, §1085, Nov. 7, 1988, 102 Stat. 3278.)
+(Pub. L. 95–557, title VI, §604, Oct. 31, 1978, 92 Stat. 2115; Pub. L. 97–320, title VII, §710(a), Oct. 15, 1982, 96 Stat. 1544; Pub. L. 100–242, title V, §520(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 100–628, title X, §1085, Nov. 7, 1988, 102 Stat. 3278.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (a)(6). Pub. L. 100–628 struck out second of the two periods at end.
 
 Pub. L. 100–242, §520(a)(4), substituted "Chairman" for "Administrator" and inserted "or a member of the Board of the National Credit Union Administration to be designated by the Chairman." before period.
 
-<b>1982</b>—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted ", or their representatives as provided in subsection (f) of this section,".
+<b>1982</b>—Subsecs. (f) to (i). Pub. L. 97–320 added subsec. (f), redesignated former subsecs. (f) to (h) as (g) to (i), respectively, and in subsec. (g) inserted ", or their representatives as provided in subsection (f),".
 
 #### Transfer of Functions
 

@@ -14,5 +14,5 @@ Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L.100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 

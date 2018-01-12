@@ -14,7 +14,7 @@ Whenever, in the judgment of the Administrator or as identified under section 13
 
 #### (A) No reasonable relationship
 
-&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for pollutants other than toxic pollutants if the applicantdemonstrates at such hearing that (whether or not technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter) from achieving such limitation.
+&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for pollutants other than toxic pollutants if the applicant demonstrates at such hearing that (whether or not technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter) from achieving such limitation.
 
 #### (B) Reasonable progress
 

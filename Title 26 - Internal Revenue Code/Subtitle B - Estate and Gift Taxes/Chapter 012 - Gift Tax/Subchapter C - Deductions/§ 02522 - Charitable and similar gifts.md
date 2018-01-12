@@ -60,7 +60,7 @@ In the case of a nonresident not a citizen of the United States, there shall be 
 
 &emsp;&emsp;&emsp;(ii) a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
 
-&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
+&emsp;&emsp;(B) the taxpayer obtains a contemporaneous written acknowledgment (determinedunder rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
 
 #### (d) Special rule for irrevocable transfers of easements in real property
 

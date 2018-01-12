@@ -14,7 +14,7 @@ The Commission shall, as soon as practicable after each matching payment period,
 
 #### (b) Regulations, etc.
 
-The Commission is authorized to prescribe rules and regulations in accordance with the provisions of subsection (c), to conduct examinations and audits (in addition to the examinations and audits required by section 9038(a)), to conduct investigations, and to require the keeping and submission of any books, records, and information, which it determines to be necessary to carry out its responsibilities under this chapter.
+The Commission is authorized to prescribe rules and regulations in accordance with theprovisions of subsection (c), to conduct examinations and audits (in addition to the examinations and audits required by section 9038(a)), to conduct investigations, and to require the keeping and submission of any books, records, and information, which it determines to be necessary to carry out its responsibilities under this chapter.
 
 #### (c) Review of regulations
 

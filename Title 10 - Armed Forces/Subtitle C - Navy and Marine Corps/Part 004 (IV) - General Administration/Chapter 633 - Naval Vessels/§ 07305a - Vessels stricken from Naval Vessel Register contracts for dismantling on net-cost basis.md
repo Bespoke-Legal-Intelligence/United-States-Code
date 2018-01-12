@@ -6,7 +6,7 @@ Authority for Net-Cost Basis Contracts.—When the Secretary of the Navy awards 
 
 (b)
 
-Retention by Contractor of Proceeds of Sale of Scrap and Reusable Items.—When the Secretary awards a contract on a net-cost basis under subsection (a), the Secretary shall provide in the contract that the contractor may retain the proceeds from the sale of scrap and reusable items removed from the vessel dismantled under the contract.
+Retention by Contractor of Proceeds of Sale of Scrap and Reusable Items.—When theSecretary awards a contract on a net-cost basis under subsection (a), the Secretary shall provide in the contract that the contractor may retain the proceeds from the sale of scrap and reusable items removed from the vessel dismantled under the contract.
 
 (c)
 
@@ -16,7 +16,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "scrap" means personal property that has no value except for its basic material content.
 
-&emsp;(3) The term "reusable item" means a demilitarized component or a removable portionof a vessel or equipment that the Secretary of the Navy has identified as excess to the needs of the Navy but which has potential resale value on the open market.
+&emsp;(3) The term "reusable item" means a demilitarized component or a removable portion of a vessel or equipment that the Secretary of the Navy has identified as excess to the needs of the Navy but which has potential resale value on the open market.
 
 (Added Pub. L. 108–375, div. A, title X, §1011(a), Oct. 28, 2004, 118 Stat. 2038.)
 

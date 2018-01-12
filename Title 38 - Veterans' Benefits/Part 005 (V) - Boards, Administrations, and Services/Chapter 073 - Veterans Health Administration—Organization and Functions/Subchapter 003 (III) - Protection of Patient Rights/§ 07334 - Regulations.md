@@ -4,7 +4,7 @@
 
 (b) The regulations referred to in subsection (a) are—
 
-&emsp;(1) regulations governing human experimentation and informed consent prescribed by the Secretary of Health and Human Services, based on the recommendations of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, established by section 201 of the National Research Act (Public Law 93–348; 88 Stat. 348); and
+&emsp;(1) regulations governing human experimentation and informed consent prescribed by theSecretary of Health and Human Services, based on the recommendations of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, established by section 201 of the National Research Act (Public Law 93–348; 88 Stat. 348); and
 
 &emsp;(2) regulations governing (A) the confidentiality of drug and alcohol abuse medical records, and (B) the admission of drug and alcohol abusers to private and public hospitals, prescribed pursuant to the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.) and the Drug Abuse Office and Treatment Act of 1972 (21 U.S.C. 1101 et seq.).
 
@@ -20,7 +20,7 @@ Section 201 of the National Research Act, referred to in subsec. (b)(1), is sect
 
 The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
 
-The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, as amended, which is classified principally to chapter 16 (§1101 et seq.) of Title 21, Food and Drugs. For completeclassification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
+The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, as amended, which is classified principally to chapter 16 (§1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
 
 Section 7332(b)(2)(C) of this title, referred to in subsec. (c), was formerly a reference to section 4132(b)(2)(C) of this title which was redesignated section 4132(b)(2)(D) by Pub. L. 100–322, title I, §121(b)(2)(A), May 20, 1988, 102 Stat. 502, and subsequently renumbered section 7332(b)(2)(D) by Pub. L. 102–40, title IV, §401(a)(4)(A), May 7, 1991, 105 Stat. 221. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by Pub. L. 102–40 but not the redesignation by Pub. L. 100–322.
 

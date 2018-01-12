@@ -190,7 +190,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are s
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted "chapter 705 of title 46" for "the MaritimeDrug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)".
+<b>2006</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted "chapter 705 of title 46" for "the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)".
 
 Subsec. (w)(1). Pub. L. 109–177, §735(1)(A), (C), inserted ", in a format approved and required by the Commission," after "submits to the Commission" in introductory provisions and inserted concluding provisions.
 
@@ -249,6 +249,10 @@ Subsecs. (v) to (x). Pub. L. 99–570, §1008(2), redesignated former subsecs. (
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date
+
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Termination of Reporting Requirements
 

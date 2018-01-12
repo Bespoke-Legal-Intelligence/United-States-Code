@@ -56,7 +56,7 @@ Contracts, grants, and agreements.—The Library may initiate and support specif
 
 &emsp;(3)
 
-Amounts.—Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation's general fund account, and remain available until expended.
+Amounts.—Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Office of the Assistant Secretary for Research and Technology of theDepartment of Transportation's general fund account, and remain available until expended.
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 890; amended Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574.)
 

@@ -48,7 +48,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(A) a stepchild of the member (except that such term does not include a stepchild after the divorce of the member from the stepchild's parent by blood);
 
-&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of themember by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
+&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of the member by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
 
 &emsp;&emsp;(C) an illegitimate child of the member if the member's parentage of the child is established in accordance with criteria prescribed in regulations by the Secretary concerned.
 
@@ -98,7 +98,7 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 &emsp;&emsp;"(B) is incapable of self-support because of a mental or physical incapacity, and in fact dependent on the member for over one-half of his support; and
 
-&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-half of his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
+&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-half of his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence requiredunder regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
 
 &emsp;&emsp;"(A) the member has provided over one-half of his support for the period prescribed by the Secretary concerned; or
 

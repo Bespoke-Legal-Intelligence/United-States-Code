@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
 
 #### (4) Amendment to special rule
 
@@ -26,7 +26,7 @@
 
 #### (2) Other students
 
-&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than 30 days prior to the beginning of the period of enrollment for which the loan is made.
+&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made toany student other than a student described in paragraph (1) shall not be disbursed more than 30 days prior to the beginning of the period of enrollment for which the loan is made.
 
 #### (3) Amendment to cohort default rate exemption
 
@@ -72,7 +72,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 #### References in Text
 
-Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
+Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section 422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 

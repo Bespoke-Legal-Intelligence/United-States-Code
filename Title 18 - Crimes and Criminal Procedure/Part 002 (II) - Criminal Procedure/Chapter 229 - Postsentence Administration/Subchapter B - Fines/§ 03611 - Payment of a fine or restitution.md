@@ -36,7 +36,7 @@ Pub. L. 100–185, §9, Dec. 11, 1987, 101 Stat. 1282, provided that:
 
 November 1, 1987,
 
-to April 30, 1988.—Notwithstanding section 3611 of title 18, United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
+to April 30, 1988.—Notwithstanding section 3611 of title 18, United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment\(including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
 
 "(b)
 

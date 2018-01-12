@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The Secretary of Health and Human Services acting through the National Center for InjuryPrevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
+The Secretary of Health and Human Services acting through the National Center for Injury Prevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
 
 #### (b) Use of funds
 
@@ -32,7 +32,7 @@ Section 280b–5, act July 1, 1944, ch. 373, title III, §394, formerly §395, a
 
 Section 280b–6, act July 1, 1944, ch. 373, title III, §396, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063, was redesignated as subsecs. (b) and (c) of section 280b–5 of this title by Pub. L. 91–212, §10(c)(2), Mar. 13, 1970, 84 Stat. 66.
 
-Section 280b–7, act July 1, 1944, ch. 373, title III, §395, formerly §397, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063; renumbered §396 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(e), 6(a)(1), (2), 10(c)(3), (d)(2)(A), 84 Stat. 63, 64, 67; June 18, 1973, Pub. L. 93–45, title I, §107(d), 87 Stat. 92; renumbered §395 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(c), 204, 88 Stat. 372, 373, related to grants for establishing, expanding, and improving basic medical library or related resources.
+Section 280b–7, act July 1, 1944, ch. 373, title III, §395, formerly §397, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063; renumbered §396 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(e), 6(a)(1), (2), 10(c)(3), (d)(2)(A),84 Stat. 63, 64, 67; June 18, 1973, Pub. L. 93–45, title I, §107(d), 87 Stat. 92; renumbered §395 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(c), 204, 88 Stat. 372, 373, related to grants for establishing, expanding, and improving basic medical library or related resources.
 
 Section 280b–8, act July 1, 1944, ch. 373, title III, §396, formerly §398, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1065; renumbered §397 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(f), 7, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(e), 87 Stat. 92; renumbered §396 and amended July 23, 1974, Pub. L. 93–353, title II, §§202(e), (f), 203(d), 204, 88 Stat. 372, 373, related to grants for establishment of regional medical libraries.
 

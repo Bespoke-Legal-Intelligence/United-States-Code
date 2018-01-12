@@ -18,7 +18,7 @@
 
 #### (B) Interest owned by tribe
 
-&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
+&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
 #### (b) Conditions applicable to purchase
 
@@ -122,7 +122,7 @@ Subsection (a) applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice bycertified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -138,7 +138,7 @@ Subsection (a) applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted by any owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
+&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted byany owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
 
 &emsp;&emsp;&emsp;&emsp;(I) order a new appraisal; or
 
@@ -280,7 +280,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1),Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Severability
 
-Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except thateach of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
+Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph "(2)(C),".</i>
 

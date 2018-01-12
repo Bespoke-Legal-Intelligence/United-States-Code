@@ -22,7 +22,7 @@ Insufficient funding.—
 
 &emsp;&emsp;(A)
 
-Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Actfor Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
+Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
 
 &emsp;&emsp;&emsp;(i) a plan to address the resource shortfall;
 
@@ -80,7 +80,7 @@ Report required.—Not later than March 1, 2012, and annually thereafter, the Se
 
 &emsp;&emsp;(A) An accounting of the weapons in the stockpile as of the end of the fiscal year preceding the submission of the report that includes all weapons in the active and inactive stockpiles, both deployed and non-deployed, and all categories and readiness states of such weapons.
 
-&emsp;&emsp;(B) The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under section 221 of title 10 for the fiscal year following the fiscal year in which the report is submitted.
+&emsp;&emsp;(B) The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under section 221 of this title for the fiscal year following the fiscal year in which the report is submitted.
 
 (c)
 
@@ -140,7 +140,7 @@ Exception.—The notification in paragraph (2) shall not apply to—
 
 Additional views.—On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, §1081(a)(19), Dec. 12, 2017, 131 Stat. 1595.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, §1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, §1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, §1033(b)(1)(A)–(C).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–91 substituted "of this title" for "of title 10".
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3003(4))" for "(50 U.S.C. 401a(4))".
 
@@ -210,7 +212,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(2)
 
-CFE treaty.—The term 'CFE Treaty' means the Treaty on Conventional Armed Forces in Europe, signed at Paris November 19, 1990, and entered into force July 17, 1992.
+CFE treaty.—The term 'CFE Treaty' means the Treaty on Conventional Armed Forces in Europe,signed at Paris November 19, 1990, and entered into force July 17, 1992.
 
 &emsp;"(3)
 

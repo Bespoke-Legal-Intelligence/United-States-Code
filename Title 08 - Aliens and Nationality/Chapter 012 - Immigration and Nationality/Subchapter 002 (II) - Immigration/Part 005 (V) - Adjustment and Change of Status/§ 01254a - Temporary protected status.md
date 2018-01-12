@@ -226,7 +226,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 #### (1) Annual report
 
-&emsp;Not later than March 1 of each year (beginning with 1992), the Attorney General, after consultation with the appropriate agencies of the Government, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the operation of this section during the previous year. Each report shall include—
+&emsp;Not later than March 1 of each year (beginning with 1992), the Attorney General, after consultation with the appropriate agencies of the Government, shall submit a report to the Committees on the Judiciary of the House ofRepresentatives and of the Senate on the operation of this section during the previous year. Each report shall include—
 
 &emsp;&emsp;(A) a listing of the foreign states or parts thereof designated under this section,
 
@@ -308,7 +308,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Limitation on Suspension of Deportation
 
-The Attorney General may not suspend deportation and adjust status under this section of more than 4,000 aliens in any fiscal year, beginning after Sept. 30, 1996, regardless of when aliens applied for such suspension and adjustment, see section 309(c)(7) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+The Attorney General may not suspend deportation and adjust status under this section of more than 4,000 aliens in any fiscal year, beginning after Sept. 30, 1996, regardless of when aliens applied for such suspensionand adjustment, see section 309(c)(7) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Aliens Authorized To Travel Abroad Temporarily
 
@@ -398,5 +398,5 @@ Show cause order at time of final registration.—At the registration occurring 
 
 &emsp;"(2)
 
-Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section."
+Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deportedin absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section."
 

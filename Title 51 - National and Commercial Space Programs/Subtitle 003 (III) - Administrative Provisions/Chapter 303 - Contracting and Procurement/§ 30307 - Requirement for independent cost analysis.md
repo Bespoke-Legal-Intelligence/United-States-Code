@@ -30,3 +30,23 @@ In subsection (b), in the first sentence, the words "the Administrator shall con
 
 In subsection (b), in the last sentence, the word "experts" is substituted for "expertise" for clarity.
 
+#### Cost Estimation
+
+Pub. L. 115–10, title VIII, §836, Mar. 21, 2017, 131 Stat. 69, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) realistic cost estimating is critically important to the ultimate success of major space development projects; and
+
+&emsp;"(2) the \[National Aeronautics and Space\] Administration has devoted significant efforts over the past 5 years to improving its cost estimating capabilities, but it is important that the Administration continue its efforts to develop and implement guidance in establishing realistic cost estimates.
+
+"(b)
+
+Guidance and Criteria.—The Administrator \[of the National Aeronautics and Space Administration\] shall provide to its acquisition programs and projects, in a manner consistent with the Administration's Space Flight Program and Project Management Requirements—
+
+&emsp;"(1) guidance on when to use an Independent Cost Estimate and Independent Cost Assessment; and
+
+&emsp;"(2) criteria to use to make a determination under paragraph (1)."
+

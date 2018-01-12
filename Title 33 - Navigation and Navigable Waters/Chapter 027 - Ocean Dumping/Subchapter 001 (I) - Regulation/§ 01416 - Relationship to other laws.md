@@ -20,7 +20,7 @@ Prior to issuing any permit under this subchapter, if it appears to the Administ
 
 #### (2) Federal projects
 
-&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that ismore stringent than a requirement under this subchapter if the Administrator finds that such requirement—
+&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that is more stringent than a requirement under this subchapter if the Administrator finds that such requirement—
 
 &emsp;&emsp;(A) is not supported by relevant scientific evidence showing the requirement to be protective of human health, aquatic resources, or the environment;
 
@@ -52,7 +52,7 @@ Nothing in this Act shall restrict, affect or modify the rights of any person (1
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title I of Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under section 1411 of this title.
+The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title Iof Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under section 1411 of this title.
 
 The Rivers and Harbors Act of 1899, referred to in subsec. (b), probably means the Act popularly known as the Rivers and Harbors Appropriation Act of 1899, act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -69,6 +69,10 @@ This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classifie
 <b>1986</b>—Subsec. (g). Pub. L. 99–499 added subsec. (g).
 
 <b>1980</b>—Subsec. (f). Pub. L. 96–572 added subsec. (f).
+
+#### Effective Date
+
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
 #### Territorial Sea of United States
 

@@ -2,7 +2,7 @@
 
 #### (a) Foreign insurer or reinsurer
 
-For purposes of section 4371, the term "foreign insurer or reinsurer" means an insurer or reinsurer who is a nonresident alien individual, or a foreign partnership, or a foreign corporation. The term includes a nonresident alien individual, foreign partnership, or foreign corporation which shall become bound by an obligation of the nature of an indemnity bond. The term does not include a foreign government, or municipal or other corporation exercising the taxing power.
+For purposes of section 4371, the term "foreign insurer or reinsurer" means an insurer or reinsurer who is a nonresident alien individual, or a foreign partnership, or a foreign corporation. The term includes a nonresident alien individual, foreign partnership, or foreign corporationwhich shall become bound by an obligation of the nature of an indemnity bond. The term does not include a foreign government, or municipal or other corporation exercising the taxing power.
 
 #### (b) Policy of casualty insurance
 
@@ -10,7 +10,7 @@ For purposes of section 4371(1), the term "policy of casualty insurance" means a
 
 #### (c) Indemnity bond
 
-For purposes of this chapter the term "indemnity bond" means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includesany bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
+For purposes of this chapter, the term "indemnity bond" means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includes any bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
 
 #### (d) Insured
 
@@ -18,7 +18,7 @@ For purposes of section 4371(1), the term "insured" means—
 
 &emsp;(1) a domestic corporation or partnership, or an individual resident of the United States, against, or with respect to, hazards, risks, losses, or liabilities wholly or partly within the United States, or
 
-&emsp;(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in a trade or business within the United States, against, or with respect to hazards, risks, or liabilities within the United States.
+&emsp;(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in a trade or business within the United States, against, or with respect to, hazards, risks, losses, or liabilities within the United States.
 
 #### (e) Policy of life, sickness, or accident insurance, or annuity contract
 
@@ -36,7 +36,7 @@ For the purpose of section 4371(3), the term "policy of reinsurance" means any p
 
 Subsec. (c). Pub. L. 94–455 substituted "this chapter" for "this subchapter".
 
-<b>1958</b>—Subsec. (d)(2). Pub. L. 85–859 inserted "against, or" before "with respect to".
+<b>1958</b>—Subsec. (d)(2). Pub. L. 85–859 substituted "against, or with respect to, hazards, risks, losses, or liabilities" for "with respect to hazards, risks, or liabilities".
 
 #### Effective Date of 1976 Amendment
 

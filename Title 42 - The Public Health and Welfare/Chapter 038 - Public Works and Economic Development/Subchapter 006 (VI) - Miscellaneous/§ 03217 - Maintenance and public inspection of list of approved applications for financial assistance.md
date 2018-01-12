@@ -10,7 +10,7 @@ The Secretary shall—
 
 #### (b) Additions to list
 
-The following information shall be added to the list maintained under subsection (a) of this section as soon as an application described in subsection (a)(1) of this section is approved:
+The following information shall be added to the list maintained under subsection (a) as soon as an application described in subsection (a)(1) is approved:
 
 &emsp;(1) The name of the applicant and, in the case of a corporate application, the name of each officer and director of the corporation.
 
@@ -23,4 +23,8 @@ The following information shall be added to the list maintained under subsection
 #### Prior Provisions
 
 A prior section 3217, Pub. L. 89–136, title VII, §707, Aug. 26, 1965, 79 Stat. 573; Pub. L. 94–273, §26, Apr. 21, 1976, 90 Stat. 380, required annual report to Congress on operations under this chapter, prior to repeal by Pub. L. 105–393, §102(b)(3).
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

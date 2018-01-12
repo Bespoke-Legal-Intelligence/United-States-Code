@@ -24,7 +24,7 @@ Commitments to guarantee under subsection (a) are authorized only to the extent 
 
 #### (f) Credits to reserve fund
 
-To the extent that any of the funds made available pursuant to subsection (d) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b), shall be merged with the funds in such reserve, and shall be availablefor the purpose of payments by the Agency to the Bank for guarantees under subsection (a).
+To the extent that any of the funds made available pursuant to subsection (d) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a).
 
 #### (g) Omitted
 
@@ -32,7 +32,7 @@ To the extent that any of the funds made available pursuant to subsection (d) ar
 
 The Export-Import Bank shall provide without reimbursement such administrative and technical assistance to the Agency as the Bank and the Agency deem appropriate to assist the Agency in carrying out this section.
 
-(Pub. L. 87–195, pt. I, §224, as added Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; amended Pub. L. 99–83, title III, §314, Aug. 8, 1985, 99 Stat. 217; Pub. L. 101–167, title IV, Nov. 21, 1989, 103 Stat. 1216; Pub. L. 101–179, title III, §304(b), Nov. 28, 1989, 103 Stat. 1313; Pub. L. 101–513, title IV, Nov. 5, 1990, 104 Stat. 2001.)
+(Pub. L. 87–195, pt. I, §224, as added Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12,1984, 98 Stat. 1884, 1903; amended Pub. L. 99–83, title III, §314, Aug. 8, 1985, 99 Stat. 217; Pub. L. 101–167, title IV, Nov. 21, 1989, 103 Stat. 1216; Pub. L. 101–179, title III, §304(b), Nov. 28, 1989, 103 Stat. 1313; Pub. L. 101–513, title IV, Nov. 5, 1990, 104 Stat. 2001.)
 
 #### References in Text
 

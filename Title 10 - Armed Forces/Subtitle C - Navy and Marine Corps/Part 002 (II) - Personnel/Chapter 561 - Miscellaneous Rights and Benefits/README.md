@@ -26,7 +26,7 @@ Pub. L. 109–163, div. A, title VI, §683(b)(2), Jan. 6, 2006, 119 Stat. 3323, 
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(iii), Nov. 14, 1986, 100 Stat. 3877, struck out item 6148 "Disability and death benefits: Naval Reserve and Marine Corps Reserve".
 
-<b>1980</b>—Pub. L. 96–513, title V, §513(13), Dec. 12, 1980, 94 Stat. 2932, struck out items 6141 "Pay: officers; date of commencement", 6142 "Pay: assignments", 6143 "Pay: sale to be discouraged by commanding officer", 6144 "Pay accounts: settlement when lost with vessel", 6145 "Pay accounts: settlement; fixing date of loss of vessel", 6146 "Allotments: officers", and 6147 "Allowances: prisoners".
+<b>1980</b>—Pub. L. 96–513, title V, §513(13), Dec. 12, 1980, 94 Stat. 2932, struck out items 6141 "Pay: officers; date ofcommencement", 6142 "Pay: assignments", 6143 "Pay: sale to be discouraged by commanding officer", 6144 "Pay accounts: settlement when lost with vessel", 6145 "Pay accounts: settlement; fixing date of loss of vessel", 6146 "Allotments: officers", and 6147 "Allowances: prisoners".
 
 <b>1970</b>—Pub. L. 91–482, §2D, Oct. 21, 1970, 84 Stat. 1082, struck out item 6159 "Half rating to disabled naval enlisted personnel serving twenty years".
 

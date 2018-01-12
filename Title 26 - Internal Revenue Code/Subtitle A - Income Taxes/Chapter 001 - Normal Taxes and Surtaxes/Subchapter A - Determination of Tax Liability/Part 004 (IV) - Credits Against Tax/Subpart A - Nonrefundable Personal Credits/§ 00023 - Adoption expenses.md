@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.
+&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.
 
 #### (2) Year credit allowed
 
@@ -98,7 +98,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 &emsp;(1) subsection (a) shall not apply to any qualified adoption expense with respect to such adoption unless such adoption becomes final, and
 
-&emsp;(2) any such expense which is paid or incurred before the taxable year in which suchadoption becomes final shall be taken into account under this section as if such expense were paid or incurred during such year.
+&emsp;(2) any such expense which is paid or incurred before the taxable year in which such adoption becomes final shall be taken into account under this section as if such expense were paid or incurred during such year.
 
 #### (f) Filing requirements
 
@@ -126,7 +126,7 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 &emsp;(1) such dollar amount, multiplied by
 
-&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2001" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2001" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
@@ -134,7 +134,7 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
-(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321.)
+(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -145,6 +145,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 Stat. 3175, §44C; amended Pub. L. 96–223, title II, §§201, 202(a)–(d), 203(a), Apr. 2, 1980, 94 Stat. 256, 258; renumbered §23 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(e), title VI, §612(e)(2), July 18, 1984, 98 Stat. 826, 831, 912, related to residential energy credit, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(1), Nov. 5, 1990, 104 Stat. 1388–520.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h)(2). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §104(c)(2)(A)(i), struck out par. (4). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -236,6 +238,10 @@ Subsec. (b)(2)(B). Pub. L. 105–34, §1601(h)(2)(B), substituted "determined wi
 
 &emsp;"(ii) after the application of sections 86, 135, 137, 219, and 469."
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendments made by this section \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011."
@@ -264,7 +270,7 @@ Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B)
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: "The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the EconomicGrowth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates."
+Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: "The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates."
 
 Pub. L. 109–135, title IV, §402(i)(4), Dec. 21, 2005, 119 Stat. 2615, struck out Pub. L. 109–58, §1335(b)(1)–(3), and provided in part that: "The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made \[by\] such paragraphs \[amending this section and sections 25 and 1400C of this title\] had never been enacted."
 

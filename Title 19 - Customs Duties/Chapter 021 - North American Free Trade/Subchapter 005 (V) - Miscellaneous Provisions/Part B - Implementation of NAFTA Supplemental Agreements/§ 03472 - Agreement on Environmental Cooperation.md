@@ -54,7 +54,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 (1) To the greatest extent practicable, pursuant to Articles 15(1) and 15(2), where the Secretariat of the Commission for Environmental Cooperation ("Secretariat") informs the Council that a factual record is warranted, the United States shall support the preparation of such factual record.
 
-(2) To the greatest extent practicable, the United States shall support public disclosure of all nonconfidential and nonproprietary elements of reports, factual records, decisions, recommendations, and other information gathered or prepared by the Commission for Environmental Cooperation ("Commission"). Where requested information is not made available, the United States shall endeavor to have the Commission state in writing to the public its reasons for denial of the request.
+(2) To the greatest extent practicable, the United States shall support public disclosure of all nonconfidential and nonproprietary elements of reports, factual records, decisions, recommendations, and other information gathered or prepared by the Commission forEnvironmental Cooperation ("Commission"). Where requested information is not made available, the United States shall endeavor to have the Commission state in writing to the public its reasons for denial of the request.
 
 (3) The United States shall provide public notice of the opportunity to apply for inclusion on a roster of qualified individuals available to serve on arbitral panels under the Environmental Cooperation Agreement.
 
@@ -86,9 +86,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of the Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 #### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of the National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

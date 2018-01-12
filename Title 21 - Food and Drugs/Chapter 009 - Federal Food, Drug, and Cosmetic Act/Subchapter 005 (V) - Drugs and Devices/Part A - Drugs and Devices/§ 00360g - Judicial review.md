@@ -12,7 +12,7 @@ Not later than thirty days after—
 
 &emsp;(4) the promulgation of a regulation under paragraph (3) of section 360e(b) of this title requiring a device to have an approval of a premarket application, a regulation under paragraph (4) of that section amending or revoking a regulation under paragraph (3), or an order pursuant to section 360e(g)(1) or 360e(g)(2)(C) of this title,
 
-&emsp;(5) the promulgation of a regulation under section 360f of this title (other than a proposedregulation made effective under subsection (b) of such section upon the regulation's publication) making a device a banned device,
+&emsp;(5) the promulgation of a regulation under section 360f of this title (other than a proposed regulation made effective under subsection (b) of such section upon the regulation's publication) making a device a banned device,
 
 &emsp;(6) the issuance of an order under section 360j(f)(2) of this title,
 

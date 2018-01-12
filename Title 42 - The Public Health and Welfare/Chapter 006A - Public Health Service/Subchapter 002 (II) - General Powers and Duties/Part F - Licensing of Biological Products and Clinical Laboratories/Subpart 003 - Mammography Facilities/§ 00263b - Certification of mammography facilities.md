@@ -20,7 +20,7 @@ As used in this section:
 
 #### (B) Activities
 
-&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f).
+&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewingconditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f).
 
 #### (4) Inspection
 
@@ -96,7 +96,7 @@ As used in this section:
 
 #### (4) Provisional certificate
 
-&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1), except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A). A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1).
+&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1), except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A). A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1).
 
 #### (d) Application for certificate
 
@@ -344,7 +344,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Sucha State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -376,7 +376,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f). The Secretary may at any time provide that a facility will no longer be included in the program.
 
-&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significantsample, subject to compliance with clause (ii).
+&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
 
 &emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 

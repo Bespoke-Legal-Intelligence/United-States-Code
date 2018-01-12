@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (4) Employment must be trade or business employment
 
-&emsp;An employee shall be treated as a qualified employee for any taxable year of the employeronly if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
+&emsp;An employee shall be treated as a qualified employee for any taxable year of the employer only if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
 
 #### (5) Certain employees not eligible
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (2) Controlled groups
 
-&emsp;(A) All employers treated as a single employer under section (a) or (b) of section 52 shall be treated as a single employer for purposes of this section.
+&emsp;(A) All employers treated as a single employer under section (a) or (b) of section 52shall be treated as a single employer for purposes of this section.
 
 &emsp;(B) The credit (if any) determined under this section with respect to each such employer shall be its proportionate share of the wages and qualified employee health insurance costs giving rise to such credit.
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (5) Special rule for short taxable years
 
-&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of daysin the taxable year and the denominator of which is 365.
+&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
 
 #### (f) Termination
 
@@ -226,7 +226,7 @@ Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided th
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30,1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date
 

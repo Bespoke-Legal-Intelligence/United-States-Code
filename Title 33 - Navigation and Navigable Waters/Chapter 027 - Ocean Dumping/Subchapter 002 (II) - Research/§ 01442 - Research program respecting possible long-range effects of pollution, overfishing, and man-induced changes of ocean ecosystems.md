@@ -2,7 +2,7 @@
 
 #### (a) Secretary of Commerce
 
-(1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
+(1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-rangeeffects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
 
 (2) The Secretary of Commerce shall ensure that the program under this section complements, when appropriate, the activities undertaken by other Federal agencies pursuant to subchapter I and section 1443 of this title. That program shall include but not be limited to—
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and s
 
 Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary thescientific assessment of damages to natural resources from spills of petroleum or petroleum products.
+<b>1980</b>—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
 
 Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report the report on activities of the Department of Commerce under section 665 of title 16.
 

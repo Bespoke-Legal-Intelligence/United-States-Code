@@ -10,7 +10,7 @@
 
 #### (B) Term
 
-&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginningwith a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
+&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginning with a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
 
 #### (C) Vacancy
 
@@ -70,7 +70,7 @@
 
 #### (2) Duties
 
-&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—
+&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shallperform such duties as may be prescribed by the Secretary, including the duty—
 
 &emsp;&emsp;(A) to be legal advisor to the Commissioner and the Commissioner's officers and employees;
 
@@ -150,7 +150,7 @@
 
 #### (i) Objectives
 
-&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantiveanalysis, in addition to statistical information.
 
 #### (ii) Activities
 
@@ -336,7 +336,7 @@ Pub. L. 114–113, div. Q, title IV, §401(b), Dec. 18, 2015, 129 Stat. 3117, pr
 
 Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
 
-Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section\[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
+Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 
 #### Effective Date of 1998 Amendment
 

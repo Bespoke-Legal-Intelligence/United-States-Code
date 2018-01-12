@@ -74,7 +74,7 @@ There is hereby established an independent establishment in the executive branch
 
 Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat.2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217.)
+(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217.)
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(B) An explanation of the determinations made under subparagraph (A).
 
-&emsp;"(10) For any existing facilities that should, in the opinion of the Board, come under the jurisdiction of an outside regulatory authority, the date when this move would occur and the period of time necessary for the transition.
+&emsp;"(10) For any existing facilities that should, in the opinion of the Board, come under the jurisdiction of an outside regulatory authority, the date when thismove would occur and the period of time necessary for the transition.
 
 &emsp;"(11) A list of any proposed Department of Energy defense nuclear facilities that should come under the Board's jurisdiction.
 

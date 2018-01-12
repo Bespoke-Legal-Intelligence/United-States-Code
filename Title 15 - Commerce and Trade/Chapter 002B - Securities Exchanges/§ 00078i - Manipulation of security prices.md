@@ -22,7 +22,7 @@ It shall be unlawful for any person to effect, in contravention of such rules an
 
 &emsp;(1) any transaction in connection with any security whereby any party to such transaction acquires—
 
-&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from orselling the security to another without being bound to do so;
+&emsp;&emsp;(A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so;
 
 &emsp;&emsp;(B) any security futures product on the security; or
 
@@ -58,7 +58,7 @@ The terms "put", "call", "straddle", "option", or "privilege" as used in this se
 
 #### (f) Persons liable; suits at law or in equity
 
-Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
+Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In anysuch suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
 
 #### (g) Subsection (a) not applicable to exempted securities
 

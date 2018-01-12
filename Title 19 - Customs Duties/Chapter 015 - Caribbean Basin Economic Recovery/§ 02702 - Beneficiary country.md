@@ -16,7 +16,7 @@
 
 &emsp;(F) The term "former beneficiary country" means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of thischapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 

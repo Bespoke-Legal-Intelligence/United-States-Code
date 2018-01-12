@@ -24,7 +24,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;&emsp;(C) in the Individual Ready Reserve;
 
-&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated bythe Secretary of Defense and the head of such program for purposes of this section; or
+&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
 
 &emsp;&emsp;(E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
@@ -76,7 +76,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (i)
 
-Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total periodof service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
+Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefittedfrom an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (j)
 
@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Secretary of a military department" includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### References in Text
 
@@ -109,6 +109,8 @@ The National and Community Service Act of 1990, referred to in subsec. (l)(1), i
 A prior section 510 was renumbered section 12102 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i). Pub. L. 115–91 inserted "or 373" before "of title 37".
 
 <b>2006</b>—Subsec. (c)(3)(D). Pub. L. 109–163, §545(a), substituted "in Americorps or another domestic national service program" for "in the Peace Corps, Americorps, or another national service program".
 
@@ -142,7 +144,7 @@ Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, dire
 
 #### Implementation Report
 
-Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submitto committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
+Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
 
 #### Effectiveness Reports
 

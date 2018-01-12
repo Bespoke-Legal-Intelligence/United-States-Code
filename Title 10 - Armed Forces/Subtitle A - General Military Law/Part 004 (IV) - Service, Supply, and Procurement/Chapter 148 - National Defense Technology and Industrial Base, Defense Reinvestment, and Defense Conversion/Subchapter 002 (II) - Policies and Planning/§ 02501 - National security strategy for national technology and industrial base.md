@@ -16,7 +16,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, andsupport supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+&emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
@@ -40,7 +40,7 @@ Civil-Military Integration Policy.—The Secretary of Defense shall ensure that 
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat.1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316.)
 
 #### Prior Provisions
 
@@ -85,6 +85,84 @@ Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec.
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing the public sector demand for capital, increases the amount of capital available" for "and thereby free up capital".
+
+#### Enhanced Analytical and Monitoring Capability of the Defense Industrial Base
+
+Pub. L. 115–91, div. A, title X, §1071, Dec. 12, 2017, 131 Stat. 1582, provided that:
+
+"(a)
+
+Process.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall establish a process, or designate an existing process, for enhancing the ability of the Department of Defense to analyze, assess, and monitor the vulnerabilities of, and concentration of purchases in, the defense industrial base.
+
+&emsp;"(2)
+
+Elements.—The process required by subsection (a) shall include the following elements:
+
+&emsp;&emsp;"(A) Designation of a senior official responsible for overseeing the development and implementation of the process.
+
+&emsp;&emsp;"(B) Development or integration of tools to support commercial due diligence and business intelligence or to otherwise analyze and monitor commercial activity to understand business relationships affecting the defense industrial base.
+
+&emsp;&emsp;"(C) Development of risk profiles of products, services, or entities based on business intelligence, commercial due diligence tools and data services.
+
+&emsp;&emsp;"(D) As the Secretary determines necessary, integration with intelligence sources to develop threat profiles of entities attempting transactions with a defense industrial base companies \[sic\].
+
+&emsp;&emsp;"(E) Other matters as the Secretary deems necessary.
+
+&emsp;"(3)
+
+Notification.—Not later than 90 days after establishing or designating the process required by subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives notice in writing that such process has been established or otherwise designated. Such notification shall include the following:
+
+&emsp;&emsp;"(A) Identification of the official required to be designated under paragraph (2)(A).
+
+&emsp;&emsp;"(B) Identification of the tools described in paragraph (2)(B) that are currently available to \[the\] Department of Defense and any other tools available commercially or otherwise that might contribute to enhancing the analytic capability of the process.
+
+&emsp;&emsp;"(C) Identification of, or recommendations for, any statutory changes needed to improve the effectiveness of the process.
+
+&emsp;&emsp;"(D) Projected resources necessary to purchase any commercially available tools identified under subparagraph (B) and to carry out any statutory changes identified under subparagraph (C).
+
+"(b)
+
+Reporting.—
+
+&emsp;"(1)
+
+Consolidated report on vulnerabilities of, and concentration of purchases in, the defense industrial base.—
+
+&emsp;&emsp;"(A)
+
+Report required.—For each of fiscal years 2018 through 2023, the Secretary of Defense shall submit to the appropriate congressional committees a consolidated report that combines all of the reports required to be provided to Congress for that fiscal year on the adequacy of, vulnerabilities of, and concentration of purchases in the defense industrial sector. Such consolidated report shall include each of the following:
+
+&emsp;&emsp;&emsp;"(i) The report required under section 721(m) of the Defense Production Act of 1950 (50 U.S.C. 4565(m)) (relating to concentrations of purchases of the defense industrial base).
+
+&emsp;&emsp;&emsp;"(ii) The report required under section 723(a) of the Defense Production Act of 1950 (50 U.S.C. 4568(a)) (relating to offsets in defense production).
+
+&emsp;&emsp;&emsp;"(iii) The report required under section 2504 of title 10, United States Code (relating to annual industrial capabilities).
+
+&emsp;&emsp;&emsp;"(iv) Any other reports the Secretary determines appropriate.
+
+&emsp;&emsp;"(B)
+
+Deadline.—A consolidated report under subparagraph (A) shall be submitted by not later thanMarch 31 of the fiscal year following the fiscal year for which the report is submitted.
+
+&emsp;"(2)
+
+Review of technology protection policy.—Not later than 270 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall submit to the appropriate congressional committees a report describing any need for reforms of policies governing the export of technology or related intellectual property, along with any proposed legislative changes the Secretary believes are necessary.
+
+&emsp;"(3)
+
+Form of reports.—Each report submitted under this subsection shall be in unclassified form, but may contain a classified annex.
+
+&emsp;"(4)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate."
 
 #### Greater Integration of the National Technology and Industrial Base
 
@@ -270,7 +348,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat.2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
 
 #### "SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -372,7 +450,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of the Air F
 
 &emsp;"(2) Complete and adopt a policy directive that provides for changes in how the Air Force makes budgetary and nonbudgetary decisions with respect to its science and technology development programs and how it carries out those programs.
 
-&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
+&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into lawby Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
 
 &emsp;"(4) Ensure that development and science and technology planning and investment activities are carried out for future space warfighting systems and for future nonspace warfighting systems in an integrated manner.
 
@@ -396,7 +474,7 @@ Reinstatement of Development Planning.—(1) The Secretary of the Air Force shal
 
 &emsp;"(G) Utilizing existing analysis capabilities within the Air Force product centers in a collaborative and integrated manner.
 
-"(2) Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of theAir Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1).
+"(2) Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of the Air Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1).
 
 #### "SEC. 253. STUDY AND REPORT ON EFFECTIVENESS OF AIR FORCE SCIENCE AND TECHNOLOGY PROGRAM CHANGES.
 
@@ -470,7 +548,7 @@ Long-Term Challenges.—(1) The Secretary of the Air Force shall establish an in
 
 &emsp;"(B) should not select a linear extension of any ongoing Air Force science and technology program for consideration as a science and technology challenge under subparagraph (A).
 
-"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technical coordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
+"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technicalcoordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
 
 "(5) In carrying out subsection (a), the Secretary of the Air Force shall review the science and technology challenges identified pursuant to this subsection and, for each such challenge, at a minimum—
 
@@ -708,7 +786,7 @@ Pub. L. 102–484, div. D, title XLII, §4218, Oct. 23, 1992, 106 Stat. 2671, re
 
 #### Industrial Diversification Planning for Defense Contractors
 
-Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning."
+Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations toencourage defense contractors to engage in industrial diversification planning."
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
 

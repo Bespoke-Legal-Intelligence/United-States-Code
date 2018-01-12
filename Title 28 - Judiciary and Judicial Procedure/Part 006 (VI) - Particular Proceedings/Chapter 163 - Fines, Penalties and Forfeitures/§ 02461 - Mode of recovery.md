@@ -4,7 +4,7 @@
 
 (b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
-(c) If a person is charged in a criminal case with a violation of an Act of Congress for whichthe civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to <sup>1</sup> the Federal Rules of Criminal Procedure and section 3554 of title 18, United States Code. The procedures in section 413 of the Controlled Substances Act (21 U.S.C. 853) apply to all stages of a criminal forfeiture proceeding, except that subsection (d) of such section applies only in cases in which the defendant is convicted of a violation of such Act.
+(c) If a person is charged in a criminal case with a violation of an Act of Congress for which the civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to <sup>1</sup> the Federal Rules of Criminal Procedure and section 3554 of title 18, United States Code. The procedures in section 413 of the Controlled Substances Act (21 U.S.C. 853) apply to all stages of a criminal forfeiture proceeding, except that subsection (d) of such section applies only in cases in which the defendant is convicted of a violation of such Act.
 
 (June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, §16, Apr. 25, 2000, 114 Stat. 221; Pub. L. 109–177, title IV, §410, Mar. 9, 2006, 120 Stat. 246.)
 
@@ -158,7 +158,7 @@ Initial adjustment.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraph (C), for the first inflation adjustment under section 4 made by an agency after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\], the term 'cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year during which the amount of such civil monetary penalty was established or adjusted under a provision of law other than this Act.
+In general.—Subject to subparagraph (C), for the first inflation adjustment under section 4 made by an agency after the date of enactment of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 \[Nov. 2, 2015\], the term 'cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year duringwhich the amount of such civil monetary penalty was established or adjusted under a provision of law other than this Act.
 
 &emsp;&emsp;"(B)
 
@@ -170,7 +170,9 @@ Maximum adjustment.—The amount of the increase in a civil monetary penalty und
 
 "Sec. 6. Any increase under this Act in a civil monetary penalty shall apply only to civil monetary penalties, including those whose associated violation predated such increase, which are assessed after the date the increase takes effect.
 
-"SEC. 7. Implementation and oversight enhancements
+"SEC. 7.
+
+Implementation and oversight enhancements
 
 "(a)
 

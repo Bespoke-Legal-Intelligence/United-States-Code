@@ -40,7 +40,7 @@ Not later than 30 days after October 26, 1996, the Task Force shall request a We
 
 &emsp;(5) provide advice to public and private individuals and entities concerning methods of preventing and controlling aquatic nuisance species infestations; and
 
-&emsp;(6) submit annually a report to the Task Force describing activities within the Westernregion related to aquatic nuisance species prevention, research, and control.
+&emsp;(6) submit annually a report to the Task Force describing activities within the Western region related to aquatic nuisance species prevention, research, and control.
 
 #### (c) Additional regional panels
 

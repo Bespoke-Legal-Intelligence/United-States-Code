@@ -122,7 +122,7 @@ In general.—Subject to paragraph (2) and notwithstanding any other provision o
 
 &emsp;(2)
 
-Exception.—With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lesser sentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to section 994(p) of title 28, or for other good cause.
+Exception.—With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lessersentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to section 994(p) of title 28, or for other good cause.
 
 (e)
 

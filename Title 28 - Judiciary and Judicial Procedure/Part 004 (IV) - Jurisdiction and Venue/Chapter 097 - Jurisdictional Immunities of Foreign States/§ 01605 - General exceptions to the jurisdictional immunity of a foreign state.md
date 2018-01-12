@@ -4,7 +4,7 @@
 
 &emsp;(1) in which the foreign state has waived its immunity either explicitly or by implication, notwithstanding any withdrawal of the waiver which the foreign state may purport to effect except in accordance with the terms of the waiver;
 
-&emsp;(2) in which the action is based upon a commercial activity carried on in the UnitedStates by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
+&emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
 &emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) notice to the foreign state of the commencement of suit as provided in section 1608 of this title is initiated within ten days either of the delivery of notice as provided in paragraph (1) of this subsection or, in the case of a party who was unaware that the vessel or cargo of a foreign state was involved, of the date such party determined the existence of the foreign state's interest.
 
-(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
+(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privatelyowned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
 (d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
@@ -36,7 +36,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A or section 1605B, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until suchtime as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A or section 1605B, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -98,7 +98,7 @@ Nazi-era claims.—Paragraph (1) shall not apply in any case asserting jurisdict
 
 &emsp;&emsp;(B)
 
-Other culturally significant works.—In addition to cases exempted under subparagraph (A), paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
+Other culturally significant works.—In addition to cases exempted undersubparagraph (A), paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
 
 &emsp;&emsp;&emsp;(i) the property at issue is the work described in paragraph (1);
 
@@ -174,7 +174,7 @@ Subsecs. (c), (d). Pub. L. 100–702, §1(3), added subsecs. (c) and (d).
 
 Pub. L. 114–319, §2(b), Dec. 16, 2016, 130 Stat. 1619, provided that: "The amendment made by this section \[amending this section\] shall apply to any civil action commenced on or after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
-Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 of Pub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 ofPub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2008 Amendment
 
@@ -192,6 +192,10 @@ Pub. L. 104–132, title II, §221(c), Apr. 24, 1996, 110 Stat. 1243, provided t
 
 Pub. L. 100–640, §3, Nov. 9, 1988, 102 Stat. 3334, provided that: "The amendments made by this Act \[amending this section and section 1610 of this title\] shall apply to actions commenced on or after the date of the enactment of this Act \[Nov. 9, 1988\]."
 
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
+
 #### Notification
 
 Pub. L. 114–319, §3, Dec. 16, 2016, 130 Stat. 1620, provided that: "The Secretary of State shall ensure that foreign states that apply for immunity under Public Law 89–259 (22 U.S.C. 2459) are appropriately notified of the text of this Act \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\]."
@@ -200,7 +204,7 @@ Pub. L. 114–319, §3, Dec. 16, 2016, 130 Stat. 1620, provided that: "The Secre
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
-"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agencyshall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
+"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
 "(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
 

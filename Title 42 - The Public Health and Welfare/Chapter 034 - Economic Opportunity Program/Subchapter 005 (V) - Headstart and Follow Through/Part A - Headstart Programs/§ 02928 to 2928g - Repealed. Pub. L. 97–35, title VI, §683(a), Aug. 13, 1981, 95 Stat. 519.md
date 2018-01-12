@@ -6,7 +6,7 @@ Section 2928a, Pub. L. 88–452, title V, §512, as added Pub. L. 93–644, §8(
 
 Section 2928b, Pub. L. 88–452, title V, §513, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2301; amended Pub. L. 95–568, §§10(b), 17(a)(17), Nov. 2, 1978, 92 Stat. 2430, 2441, related to allotments, reservations, etc., for program funds.
 
-Section 2928c, Pub. L. 88–452, title V, §514, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2302; amended Pub. L. 94–341, §2(a)(18), July 6, 1976, 90 Stat. 804; Pub. L. 95–568, §10(c), Nov. 2, 1978, 92 Stat. 2432, related to designation of Headstart agencies.
+Section 2928c, Pub. L. 88–452, title V, §514, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2302; amendedPub. L. 94–341, §2(a)(18), July 6, 1976, 90 Stat. 804; Pub. L. 95–568, §10(c), Nov. 2, 1978, 92 Stat. 2432, related to designation of Headstart agencies.
 
 Section 2928d, Pub. L. 88–452, title V, §515, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2302; amended Pub. L. 95–568, §10(d), Nov. 2, 1978, 92 Stat. 2432, set forth powers and functions of Headstart agencies.
 

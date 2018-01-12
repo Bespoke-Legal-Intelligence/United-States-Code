@@ -10,7 +10,7 @@
 
 (b) No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable. A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.
 
-(c) Subsection (a) shall apply to a person who is absent from a position of employment by reason of service in the uniformed services if suchperson's cumulative period of service in the uniformed services, with respect to the employer relationship for which a person seeks reemployment, does not exceed five years, except that any such period of service shall not include any service—
+(c) Subsection (a) shall apply to a person who is absent from a position of employment by reason of service in the uniformed services if such person's cumulative period of service in the uniformed services, with respect to the employer relationship for which a person seeks reemployment, does not exceed five years, except that any such period of service shall not include any service—
 
 &emsp;(1) that is required, beyond five years, to complete an initial period of obligated service;
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) any accommodation, training, or effort referred to in subsection (a)(3), (a)(4), or (b)(2)(B) of section 4313 would impose an undue hardship on the employer, or
 
-&emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period,
+&emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that suchemployment will continue indefinitely or for a significant period,
 
 > the employer shall have the burden of proving the impossibility or unreasonableness, undue hardship, or the brief or nonrecurrent nature of the employment without a reasonable expectation of continuing indefinitely or for a significant period.
 
@@ -64,7 +64,7 @@
 
 &emsp;(D) In the case of a person whose period of service in the uniformed services was for more than 180 days, by submitting an application for reemployment with the employer not later than 90 days after the completion of the period of service.
 
-(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in,or aggravated during, the performance of service in the uniformed services shall, at the end of the period that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
+(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, the performance of service in the uniformed services shall, at the end of the period that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
 
 (B) Such two-year period shall be extended by the minimum time required to accommodate the circumstances beyond such person's control which make reporting within the period specified in subparagraph (A) impossible or unreasonable.
 
@@ -88,7 +88,7 @@
 
 (g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under the provisions of title 5, United States Code, relating to veterans and other preference eligibles.
 
-(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
+(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis fordenying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829.)
 

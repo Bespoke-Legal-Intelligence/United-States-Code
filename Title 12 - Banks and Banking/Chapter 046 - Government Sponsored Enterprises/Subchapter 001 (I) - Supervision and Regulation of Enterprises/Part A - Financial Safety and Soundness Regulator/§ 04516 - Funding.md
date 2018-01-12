@@ -40,7 +40,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (1) Increase for inadequate capitalization
 
-&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that isnot classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
+&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
 
 #### (2) Adjustment for enforcement activities
 

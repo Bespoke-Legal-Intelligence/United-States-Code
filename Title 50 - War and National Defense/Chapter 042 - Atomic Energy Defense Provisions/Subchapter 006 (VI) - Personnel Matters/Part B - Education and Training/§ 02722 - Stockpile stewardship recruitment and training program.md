@@ -14,7 +14,7 @@ As part of the recruitment and training program, the directors of the national s
 
 As part of the training and recruitment program, the Secretary, in coordination with the directors of the national security laboratories, shall establish for the laboratories a retiree corps of retired scientists who have expertise in research and development of nuclear weapons. The directors may employ the retired scientists on a part-time basis to provide appropriate assistance on nuclear weapons issues, to contribute relevant information to be archived, and to help to provide training to other scientists.
 
-(Pub. L. 107–314, div. D, title XLVI, §4622, formerly Pub. L. 103–337, div. C, title XXXI, §3131,Oct. 5, 1994, 108 Stat. 3085; renumbered Pub. L. 107–314, div. D, title XLVI, §4622, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(9), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 112–239, div. C, title XXXI, §3131(r), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(g)(7), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4622, formerly Pub. L. 103–337, div. C, title XXXI, §3131, Oct. 5, 1994, 108 Stat. 3085; renumbered Pub. L. 107–314, div. D, title XLVI, §4622, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(9), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 112–239, div. C, title XXXI, §3131(r), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(g)(7), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### Amendments
 
@@ -22,7 +22,7 @@ As part of the training and recruitment program, the Secretary, in coordination 
 
 Subsec. (b). Pub. L. 113–66, §3146(g)(7)(B), substituted "national security laboratories" for "laboratories referred to in subsection (a)(1)".
 
-Pub. L. 112–239, §3131(r)(1), struck out par. (1) designation and struck out par. (2) which read as follows: "Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337) for weapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1)."
+Pub. L. 112–239, §3131(r)(1), struck out par. (1) designation and struck out par. (2) which read as follows: "Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the NationalDefense Authorization Act for Fiscal Year 1995 (Public Law 103–337) for weapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1)."
 
 Subsec. (c). Pub. L. 113–66, §3146(g)(7)(B), substituted "national security laboratories" for "laboratories referred to in subsection (a)(1)".
 

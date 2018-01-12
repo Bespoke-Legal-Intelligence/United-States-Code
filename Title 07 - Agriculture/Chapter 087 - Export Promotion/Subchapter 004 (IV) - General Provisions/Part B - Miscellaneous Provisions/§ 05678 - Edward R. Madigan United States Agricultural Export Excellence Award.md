@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) in recent years, United States agricultural exports have steadily increased, surpassing $54,000,000,000 in value in 1995;
 
-&emsp;(4) as United States agricultural producers move toward a market-oriented system in which planting and other decisions by producers are driven by national and internationalmarket signals, developing new and expanding agricultural export markets is vital to maintaining a vibrant and healthy agricultural sector and rural economy; and
+&emsp;(4) as United States agricultural producers move toward a market-oriented system in which planting and other decisions by producers are driven by national and international market signals, developing new and expanding agricultural export markets is vital to maintaining a vibrant and healthy agricultural sector and rural economy; and
 
 &emsp;(5) a United States agricultural export excellence award will increase United States agricultural exports by—
 

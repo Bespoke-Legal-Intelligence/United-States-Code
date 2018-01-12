@@ -16,11 +16,11 @@ With respect to loans made by a school under this subpart after June 30, 1986, e
 
 &emsp;(6) any options the borrower may have for deferral, cancellation, prepayment, consolidation, or other refinancing of the loan;
 
-&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangementswhich may be made with credit bureau organizations;
+&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangements which may be made with credit bureau organizations;
 
 &emsp;(8) to the extent practicable, the effect of accepting the loan on the eligibility of the borrower for other forms of student assistance; and
 
-&emsp;(9) a description of the actions that may be taken by the Federal Government to collect the loan, including a description of the type of information concerning the borrower that the Federal Government may disclose to (A) officers, employees, or agents of the Department of Health and Human Services, (B) officers, employees, or agents of schools with which the Secretary has an agreement under this subpart, or (C) any other person involved in the collection of a loan under this subpart.
+&emsp;(9) a description of the actions that may be taken by the Federal Government to collectthe loan, including a description of the type of information concerning the borrower that the Federal Government may disclose to (A) officers, employees, or agents of the Department of Health and Human Services, (B) officers, employees, or agents of schools with which the Secretary has an agreement under this subpart, or (C) any other person involved in the collection of a loan under this subpart.
 
 #### (b) Statement regarding loan
 

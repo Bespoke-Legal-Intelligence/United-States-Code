@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The order shall provide for the imposition and collection of assessments with regard tothe production and importation of kiwifruit in accordance with this subsection.
+&emsp;The order shall provide for the imposition and collection of assessments with regard to the production and importation of kiwifruit in accordance with this subsection.
 
 #### (2) Rate
 
@@ -120,7 +120,7 @@ The order shall provide that funds collected by the Board under this subchapter 
 
 #### (1) In general
 
-&emsp;The order shall require that all information obtained pursuant to subsection (f)(2) be keptconfidential by all officers, employees, and agents of the Department of Agriculture and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+&emsp;The order shall require that all information obtained pursuant to subsection (f)(2) be kept confidential by all officers, employees, and agents of the Department of Agriculture and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
 
 #### (2) Limitations
 

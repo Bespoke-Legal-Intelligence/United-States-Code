@@ -1,4 +1,4 @@
-### <b>CHAPTER 1</b><b><sup>1</sup></b>—GENERAL PROVISIONS
+### <b>CHAPTER 1 </b><b><sup>1</sup></b>—GENERAL PROVISIONS
 
 | Sec. |  |
 | :--- | ---: |

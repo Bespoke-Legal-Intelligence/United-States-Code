@@ -8,7 +8,7 @@
 
 #### (2) State law generally applicable
 
-&emsp;Except as provided in paragraph (1), the statute of limitations established under State law shall apply in all actions brought under State law for personal injury, or property damages, which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility.
+&emsp;Except as provided in paragraph (1), the statute of limitations established under State law shall apply in all actions brought under State law for personal injury, or property damages,which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility.
 
 #### (3) Actions under section 9607
 

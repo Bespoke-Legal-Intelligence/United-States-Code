@@ -20,7 +20,7 @@
 | [<b>23.</b>](Chapter%20023%20-%20National%20Archives%20Trust%20Fund%20Board/README.md) | <b>National Archives Trust Fund Board</b> | <b>2301</b> |
 | [<b>25.</b>](Chapter%20025%20-%20National%20Historical%20Publications%20and%20Records%20Commission/README.md) | <b>National Historical Publications and Records Commission</b> | <b>2501</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Advisory%20Committee%20on%20the%20Records%20of%20Congress/README.md) | <b>Advisory Committee on the Records of Congress</b> | <b>2701</b> |
-| [<b>29.</b>](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States/README.md) | <b>Records Management by the Archivist of the United States</b> | <b>2901</b> |
+| [<b>29.</b>](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States%20and%20by%20the%20Administrator%20of%20General%20Services/README.md) | <b>Records Management by the Archivist of the United States and by the Administrator of General Services</b> | <b>2901</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md) | <b>Records Management by Federal Agencies</b> | <b>3101</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Disposal%20of%20Records/README.md) | <b>Disposal of Records</b> | <b>3301</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md) | <b>Coordination of Federal Information Policy</b> | <b>3501</b> |
@@ -33,7 +33,9 @@
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–187, §9(f)(2), Nov. 26, 2014, 128 Stat. 2014, struck out "and by the Administrator of General Services" after "United States" in item 29.
+<b>2017</b>—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(2). See 2014 Amendment note below.
+
+<b>2014</b>—Pub. L. 113–187, §9(f)(2), Nov. 26, 2014, 128 Stat. 2014, which directed striking out "and by the Administrator of General Services" in item 29, was repealed by Pub. L. 115–85, §2(a)(4), (b), Nov. 21, 2017, 131 Stat. 1275, effective as if included in Pub. L. 113–187.
 
 <b>2002</b>—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
 
@@ -1473,7 +1475,7 @@ Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sectio
 - [Chapter 023 - National Archives Trust Fund Board](Chapter%20023%20-%20National%20Archives%20Trust%20Fund%20Board/README.md)
 - [Chapter 025 - National Historical Publications and Records Commission](Chapter%20025%20-%20National%20Historical%20Publications%20and%20Records%20Commission/README.md)
 - [Chapter 027 - Advisory Committee on the Records of Congress](Chapter%20027%20-%20Advisory%20Committee%20on%20the%20Records%20of%20Congress/README.md)
-- [Chapter 029 - Records Management by the Archivist of the United States](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States/README.md)
+- [Chapter 029 - Records Management by the Archivist of the United States and by the Administrator of General Services](Chapter%20029%20-%20Records%20Management%20by%20the%20Archivist%20of%20the%20United%20States%20and%20by%20the%20Administrator%20of%20General%20Services/README.md)
 - [Chapter 031 - Records Management by Federal Agencies](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md)
 - [Chapter 033 - Disposal of Records](Chapter%20033%20-%20Disposal%20of%20Records/README.md)
 - [Chapter 035 - Coordination of Federal Information Policy](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md)

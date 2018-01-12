@@ -130,7 +130,7 @@ In this section:
 
 &emsp;The term "United States person" means—
 
-&emsp;&emsp;(A) any individual who is a resident, national, or citizen of the United States (otherthan an individual residing outside of the United States and employed by a person who is not a United States person); and
+&emsp;&emsp;(A) any individual who is a resident, national, or citizen of the United States (other than an individual residing outside of the United States and employed by a person who is not a United States person); and
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint stock company, business trust, unincorporated organization, or sole proprietorship that is organized under the laws of the United States.
 
@@ -355,4 +355,8 @@ This section shall take effect on December 19, 2007.
 Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under section 1331 of Title 43, Public Lands.
 
 Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

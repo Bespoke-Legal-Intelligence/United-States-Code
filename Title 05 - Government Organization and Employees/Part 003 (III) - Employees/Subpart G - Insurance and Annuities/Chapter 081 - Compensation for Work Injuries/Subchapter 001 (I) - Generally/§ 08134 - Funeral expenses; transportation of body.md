@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the injury while away from his home or official station or outside the United States; or
 
-&emsp;&emsp;(B) from other causes while away from his home or official station for the purpose ofreceiving medical or other services, appliances, supplies, or examination under this subchapter; and
+&emsp;&emsp;(B) from other causes while away from his home or official station for the purpose of receiving medical or other services, appliances, supplies, or examination under this subchapter; and
 
 &emsp;(2) the relatives of the employee request the return of his body.
 

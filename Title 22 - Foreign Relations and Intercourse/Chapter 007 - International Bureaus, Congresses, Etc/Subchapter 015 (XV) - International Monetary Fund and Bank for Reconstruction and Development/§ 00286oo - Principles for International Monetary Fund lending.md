@@ -24,7 +24,7 @@ It is the policy of the United States to work to implement reforms in the Intern
 
 &emsp;The Fund should have in place and apply systematically a strong framework of safeguards and measures to respond to, correct, and discourage cases of misreporting of information in the context of a Fund program, including—
 
-&emsp;&emsp;(A) suspending Fund disbursements and ensuring that Fund lending is not resumed to members that engage in serious misreporting of material information until such time as remedial actions and sanctions, as appropriate, have been applied;
+&emsp;&emsp;(A) suspending Fund disbursements and ensuring that Fund lending is not resumedto members that engage in serious misreporting of material information until such time as remedial actions and sanctions, as appropriate, have been applied;
 
 &emsp;&emsp;(B) ensuring that members make early repayments, where appropriate, of Fund resources disbursed on the basis of misreported information;
 

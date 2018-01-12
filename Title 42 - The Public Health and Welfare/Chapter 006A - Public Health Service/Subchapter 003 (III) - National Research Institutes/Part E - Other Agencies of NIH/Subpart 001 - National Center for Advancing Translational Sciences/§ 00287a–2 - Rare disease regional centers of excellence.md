@@ -28,7 +28,7 @@ Federal payments made under a cooperative agreement or grant under subsection (a
 
 Support of a center under subsection (a) may be for a period of not to exceed 5 years. Such period may be extended by the Director for additional periods of not more than 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §481A, formerly §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990; amended Pub. L. 109–482, title I,§103(b)(6), Jan. 15, 2007, 120 Stat. 3687; renumbered §481A, Pub. L. 112–74, div. F, title II, §221(c)(3), Dec. 23, 2011, 125 Stat. 1089.)
+(July 1, 1944, ch. 373, title IV, §481A, formerly §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990; amended Pub. L. 109–482, title I, §103(b)(6), Jan. 15, 2007, 120 Stat. 3687; renumbered §481A, Pub. L. 112–74, div. F, title II, §221(c)(3), Dec. 23, 2011, 125 Stat. 1089.)
 
 #### Codification
 

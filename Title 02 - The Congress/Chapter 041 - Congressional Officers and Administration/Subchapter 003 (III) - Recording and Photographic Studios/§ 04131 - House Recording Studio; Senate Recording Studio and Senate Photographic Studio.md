@@ -36,7 +36,7 @@ All moneys received by the House Recording Studio from Members of the House of R
 
 #### (i) Distribution of equity of Joint Senate and House Recording Facility Revolving Fund; assignment of existing studio facilities, equipment, materials and supplies; transfer of accounts; reserve fund; distribution of balance
 
-(1) As soon as practicable after June 27, 1956, but no later than September 30, 1956, the equity of the Joint Senate and House Recording Facility Revolving Fund shall be distributed equallyto the Senate and House of Representatives on the basis of an audit to be made by the General Accounting Office.
+(1) As soon as practicable after June 27, 1956, but no later than September 30, 1956, the equity of the Joint Senate and House Recording Facility Revolving Fund shall be distributed equally to the Senate and House of Representatives on the basis of an audit to be made by the General Accounting Office.
 
 (2) The Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall, subject to the approval of the committees mentioned in subsection (c) hereof, determine the assignment of existing studio facilities to the Senate and the House of Representatives, and also the existing equipment, materials and supplies to be transferred to the respective studios. The evaluation of equipment, materials and supplies transferred to each studio shall be on the basis of market value. Any other equipment, materials and supplies determined to be obsolete or not needed for the operation of the respective studio shall be disposed of to the best interest of the Government and the proceeds thereof deposited in the Joint Senate and House Recording Facility Revolving Fund.
 
@@ -60,7 +60,7 @@ The Joint Recording Facility positions and salaries established pursuant to the 
 
 #### (m) Repeals
 
-Effective with the completion of the transfer provided for by subsection (i) hereof the joint resolution entitled "Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives", approved August 7, 1953, is repealed.
+Effective with the completion of the transfer provided for by subsection (i) hereof the jointresolution entitled "Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives", approved August 7, 1953, is repealed.
 
 #### (n) Repealed. Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205
 

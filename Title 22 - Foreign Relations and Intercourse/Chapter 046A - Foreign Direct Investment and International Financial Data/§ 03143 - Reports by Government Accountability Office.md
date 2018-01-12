@@ -44,7 +44,7 @@ The access by the Comptroller General to information under this Act shall be in 
 
 #### References in Text
 
-This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
+This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 3141 of this title and Tables.
 
 #### Amendments
 

@@ -92,7 +92,7 @@
 
 #### (III) Increased adjustment for certain States previously using code-based reporting
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, theSecretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
+&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) there is an area in such State that satisfies all of the conditions described in items (aa) through (cc) of section 300ff–13(a)(3)(C)(vi)(III) of this title; or
 
@@ -108,7 +108,7 @@
 
 #### (II) Relevant States
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi, North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, New York, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi, North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, NewYork, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
 
 #### (viii) Rules of construction regarding acceptance of reports
 
@@ -166,7 +166,7 @@
 
 #### (IV) Use and coordination
 
-&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used by the State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
+&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used bythe State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
 
 #### (V) Funding
 
@@ -216,7 +216,7 @@
 
 #### (1) Allowances
 
-&emsp;Prior to allocating assistance under this subsection, a State shall consider the unmetneeds of those areas that have not received financial assistance under part A.
+&emsp;Prior to allocating assistance under this subsection, a State shall consider the unmet needs of those areas that have not received financial assistance under part A.
 
 #### (2) Planning and evaluations
 
@@ -462,7 +462,7 @@ Subsec. (b)(3)(B). Pub. L. 105–392, §417(2), struck out "the Virgin Islands, 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(g)(2), struck out subsec. (a) which related to special projects of national significance.
 
-Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting"section 300ff–77" for "section 300ff–30", could not be executed because of the repeal of subsec. (a) by Pub. L. 104–146, §3(g)(2). See above.
+Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting "section 300ff–77" for "section 300ff–30", could not be executed because of the repeal of subsec. (a) by Pub. L. 104–146, §3(g)(2). See above.
 
 Subsec. (b)(1). Pub. L. 104–146, §6(c)(3)(B), which directed amendment of subsec. (b)(1) by substituting "section 300ff–77 of this title" for "section 300ff–30 of this title", could not be executed because the words "section 300ff–30 of this title" did not appear subsequent to the general amendment of subsec. (b)(1) by Pub. L. 104–146, §5. See below.
 

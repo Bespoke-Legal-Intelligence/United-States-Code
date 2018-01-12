@@ -62,7 +62,7 @@ It is the policy of the United States that—
 
 &emsp;(7) to ensure that essential national defense requirements are met, consideration should be given to stockpiling strategic materials, to the extent that such stockpiling is economical and feasible; and
 
-&emsp;(8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of theFederal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
+&emsp;(8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of the Federal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
 
 (Sept. 8, 1950, ch. 932, §2, 64 Stat. 798; June 30, 1953, ch. 171, §2, 67 Stat. 129; Aug. 9, 1955, ch. 655, §2, 69 Stat. 580; June 29, 1956, ch. 474, §4, 70 Stat. 408; Pub. L. 96–294, title I, §102, June 30, 1980, 94 Stat. 617; Pub. L. 102–558, title I, §101, Oct. 28, 1992, 106 Stat. 4199; Pub. L. 111–67, §3(a), Sept. 30, 2009, 123 Stat. 2007.)
 
@@ -76,7 +76,7 @@ Section was formerly classified to section 2062 of the former Appendix to this t
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–67 amended section generally, substituting provisions relating to findings and statement of policy with respect to the domestic industrial base for former findings and statement of policy concerning development of national security industrial and technology base.
+<b>2009</b>—Pub. L. 111–67 amended section generally, substituting provisions relating to findings and statement of policy with respect to the domestic industrial basefor former findings and statement of policy concerning development of national security industrial and technology base.
 
 <b>1992</b>—Pub. L. 102–558 amended section generally, substituting provisions relating to findings and statement of policy, for provisions stating that mobilization effort continued to require diversion of materials and facilities from civilian to military use, and to require development of preparedness programs and expansion of productive capacity and supply, in order to reduce time required for full mobilization in case of attack on the United States or to respond to actions occurring outside the United States resulting in termination or reduction of availability of strategic materials, including energy, and provisions stating policy of Congress was to encourage geographical dispersal of industrial facilities, and requiring executive branch departments and agencies to apply principle of geographical dispersal in construction of such facilities.
 

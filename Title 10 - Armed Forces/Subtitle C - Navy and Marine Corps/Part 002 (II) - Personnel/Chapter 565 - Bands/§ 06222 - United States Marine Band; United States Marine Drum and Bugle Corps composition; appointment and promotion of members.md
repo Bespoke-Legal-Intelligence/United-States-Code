@@ -110,7 +110,7 @@ In subsection (f), the words "a member who holds, or has held" are substituted f
 
 Subsec. (a). Pub. L. 85–861 authorized one director and two assistant directors instead of one leader and one second leader.
 
-Subsec. (b). Pub. L. 85–861 substituted provisions relating to designation of director and assistant directorsfor provisions which prescribed the pay and allowances of the leader and second leader.
+Subsec. (b). Pub. L. 85–861 substituted provisions relating to designation of director and assistant directors for provisions which prescribed the pay and allowances of the leader and second leader.
 
 Subsecs. (c) to (g). Pub. L. 85–861 added subsecs. (c) to (g).
 

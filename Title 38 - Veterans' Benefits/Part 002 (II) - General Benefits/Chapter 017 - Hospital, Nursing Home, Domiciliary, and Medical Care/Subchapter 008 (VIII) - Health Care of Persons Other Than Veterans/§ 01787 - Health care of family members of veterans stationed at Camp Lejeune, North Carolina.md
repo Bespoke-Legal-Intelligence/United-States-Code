@@ -6,7 +6,7 @@ In General.—Subject to subsection (b), a family member of a veteran described 
 
 (b)
 
-Limitations.—(1) The Secretary may only furnish hospital care and medical services under subsection (a) to the extent and in the amount provided in advance in appropriations Acts for such purpose.
+Limitations.—(1) The Secretary may only furnish hospital care and medical services undersubsection (a) to the extent and in the amount provided in advance in appropriations Acts for such purpose.
 
 (2) Hospital care and medical services may not be furnished under subsection (a) for an illness or condition of a family member that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the residence of the family member described in that subsection.
 

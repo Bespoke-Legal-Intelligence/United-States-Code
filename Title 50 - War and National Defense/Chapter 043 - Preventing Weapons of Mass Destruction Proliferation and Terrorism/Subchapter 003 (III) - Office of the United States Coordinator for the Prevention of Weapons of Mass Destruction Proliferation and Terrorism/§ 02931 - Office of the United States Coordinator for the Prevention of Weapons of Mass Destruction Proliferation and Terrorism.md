@@ -92,7 +92,7 @@ For fiscal year 2009 and each fiscal year thereafter, the Coordinator shall subm
 
 Subtitle E of this title, referred to in subsecs. (c)(2)(H) and (e), is subtitle E (§§1851–1859) of title XVIII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 501, which is not classified to the Code.
 
-This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title XVIII of Pub. L. 110–53, which enacted this chapter, amended section 3021 of this title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title XVIII of Pub. L.110–53, which enacted this chapter, amended section 3021 of this title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
 #### Codification
 

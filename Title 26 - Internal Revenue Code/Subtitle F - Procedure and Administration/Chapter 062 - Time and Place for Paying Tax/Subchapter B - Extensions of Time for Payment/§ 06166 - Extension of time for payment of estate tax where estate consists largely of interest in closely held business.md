@@ -16,7 +16,7 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is notmore than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
@@ -66,7 +66,7 @@
 
 #### (3) Farmhouses and certain other structures taken into account
 
-&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closelyheld business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
+&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closely held business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
 
 #### (4) Value
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -230,7 +230,7 @@ Any election under subsection (a) shall be made not later than the time prescrib
 
 #### (e) Proration of deficiency to installments
 
-If an election is made under subsection (a) to pay any part of the tax imposed by section 2001in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a) to pay any part of the tax imposed by section 2001 in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (f) Time for payment of interest
 
@@ -508,7 +508,7 @@ Pub. L. 97–34, title IV, §422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A ofthis title\] shall apply to the estates of decedents dying after December 31, 1981.
 
 "(2)
 

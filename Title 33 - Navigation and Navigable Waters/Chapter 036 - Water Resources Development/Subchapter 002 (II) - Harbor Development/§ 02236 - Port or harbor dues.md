@@ -20,7 +20,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (3) General limitations
 
-&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
+&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the projectat mean low water before construction. In the case of project features which solely—
 
 &emsp;&emsp;(i) widen channels or harbors,
 
@@ -82,7 +82,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (b) Jurisdiction
 
-(1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdictionover any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
+(1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdiction over any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
 
 (2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection (a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
 

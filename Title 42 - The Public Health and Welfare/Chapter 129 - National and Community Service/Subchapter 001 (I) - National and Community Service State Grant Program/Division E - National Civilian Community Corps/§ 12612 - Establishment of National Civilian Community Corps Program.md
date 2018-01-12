@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 111–13, §1502(2), substituted "National Civilian Communi
 
 Subsec. (b). Pub. L. 111–13, §1502(3), in introductory provisions, substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "a National Civilian Community Corps" for "a Civilian Community Corps".
 
-Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corpsin Corps housing during the periods of the members' agreed service."
+Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members' agreed service."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 

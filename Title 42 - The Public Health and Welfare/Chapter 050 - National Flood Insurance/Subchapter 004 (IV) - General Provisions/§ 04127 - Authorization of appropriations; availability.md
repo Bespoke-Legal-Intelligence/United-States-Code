@@ -44,7 +44,7 @@ Pub. L. 108–3 substituted "December 31, 2003" for "December 31, 2002".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–204, which directed amendment of first sentence by substituting "such sums as may be necessary through September 30, 1997 for studies under this chapter." for "this subsection" and all that follows, could not be executed because phrase "this subsection" does not appear in first sentence.
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–137 substituted provisions authorizing appropriations of not to exceed $36,283,000 for fiscal year 1990 and such sums as may be necessary for fiscal year 1991 for provisions authorizing appropriations of $37,000,000 for fiscal year 1988, and $37,000,000 for fiscal year 1989.
+<b>1989</b>—Subsec. (c). Pub. L. 101–137 substituted provisions authorizing appropriations of not to exceed $36,283,000 for fiscal year 1990 and such sums as may be necessary for fiscal year 1991 for provisions authorizingappropriations of $37,000,000 for fiscal year 1988, and $37,000,000 for fiscal year 1989.
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "There are authorized to be appropriated for studies under this chapter not to exceed $100,000,000 for the fiscal year 1977, not to exceed $108,000,000 for the fiscal year 1978, not to exceed $114,000,000 for the fiscal year 1979, not to exceed $74,000,000 for the fiscal year 1980, not to exceed $61,600,000 for the fiscal year 1981, not to exceed $42,600,000 for the fiscal year 1982, not to exceed $49,752,000 for the fiscal year 1984, and such sums as may be necessary for fiscal year 1985."
 
@@ -75,4 +75,8 @@ Amendment by Pub. L. 108–3 effective Dec. 31, 2002, see section 2(b) of Pub. L
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 

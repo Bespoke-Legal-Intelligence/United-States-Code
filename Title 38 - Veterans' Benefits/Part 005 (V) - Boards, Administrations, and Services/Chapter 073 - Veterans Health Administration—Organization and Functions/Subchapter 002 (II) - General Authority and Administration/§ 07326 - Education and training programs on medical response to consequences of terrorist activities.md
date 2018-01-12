@@ -2,7 +2,7 @@
 
 (a)
 
-Education Program.—The Secretary shall carry out a program to develop and disseminate a series of model education and training programs on the medical responses to the consequences of terrorist activities.
+Education Program.—The Secretary shall carry out a program to develop and disseminatea series of model education and training programs on the medical responses to the consequences of terrorist activities.
 
 (b)
 
@@ -32,7 +32,7 @@ Potential Trainees.—In designing the education and training programs under thi
 
 (e)
 
-Consultation.—In establishing education and training programs under this section, theSecretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
+Consultation.—In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
 (Added Pub. L. 107–287, §3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
 

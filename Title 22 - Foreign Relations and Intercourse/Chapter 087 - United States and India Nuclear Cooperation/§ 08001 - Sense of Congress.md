@@ -2,11 +2,11 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) preventing the proliferation of nuclear weapons, other weapons of mass destruction, the means to produce them, and the means todeliver them are critical objectives for United States foreign policy;
+&emsp;(1) preventing the proliferation of nuclear weapons, other weapons of mass destruction, the means to produce them, and the means to deliver them are critical objectives for United States foreign policy;
 
 &emsp;(2) sustaining the Nuclear Non-Proliferation Treaty (NPT) and strengthening its implementation, particularly its verification and compliance, is the keystone of United States nonproliferation policy;
 
-&emsp;(3) the NPT has been a significant success in preventing the acquisition of nuclear weapons capabilities and maintaining a stable international security situation;
+&emsp;(3) the NPT has been a significant success in preventing the acquisition of nuclear weaponscapabilities and maintaining a stable international security situation;
 
 &emsp;(4) countries that have never become a party to the NPT and remain outside that treaty's legal regime pose a potential challenge to the achievement of the overall goals of global nonproliferation, because those countries have not undertaken the NPT obligation to prohibit the spread of nuclear weapons capabilities;
 
@@ -80,7 +80,7 @@ In General.—Notwithstanding the provisions for congressional consideration and
 
 Applicability of Atomic Energy Act of 1954,
 
-Hyde Act, and Other Provisions of Law.—The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8001 et. seq; Public Law 109–401), and any other applicable United States law as if the Agreement had been approved pursuant to theprovisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
+Hyde Act, and Other Provisions of Law.—The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8001 et. seq; Public Law 109–401), and any other applicable United States law as if the Agreement had been approved pursuant to the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
 
 "(c)
 
@@ -90,7 +90,7 @@ Sunset of Exemption Authority Under Hyde Act.—\[Amended section 8003 of this t
 
 "(a)
 
-Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Congress declares that it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
+Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Congress declaresthat it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
 
 "(b)
 

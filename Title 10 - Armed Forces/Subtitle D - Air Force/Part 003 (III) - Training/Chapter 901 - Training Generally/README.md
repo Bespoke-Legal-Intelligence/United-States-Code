@@ -9,7 +9,7 @@
 | [9305\.](%C2%A7%2009305%20-%20Civilian%20flying%20school%20instructors%20instruction%20at%20Air%20Force%20training%20commands.md) | Civilian flying school instructors: instruction at Air Force training commands. |
 | [9306\.](%C2%A7%2009306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md) | Service schools: leaves of absence for instructors. |
 | [9314\.](%C2%A7%2009314%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md) | Degree granting authority for United States Air Force Institute of Technology. |
-| [9314a.](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20defense%20industry%20civilians.md) | United States Air Force Institute of Technology: admission of defense industry civilians. |
+| [9314a.](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20certain%20private%20sector%20civilians.md) | United States Air Force Institute of Technology: admission of certain private sector civilians. |
 | [9314b.](%C2%A7%2009314b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md) | United States Air Force Institute of Technology: administration. |
 | [9315\.](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md) | Community College of the Air Force: associate degrees. |
 | \[9316. | Repealed.\] |
@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title V, §581(d)(2), Dec. 12, 2017, 131 Stat. 1415, added item 9314a and struck out former item 9314a "United States Air Force Institute of Technology: admission of defense industry civilians".
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §554(b), Dec. 31, 2011, 125 Stat. 1415, added item 9314b.
 
@@ -55,7 +57,7 @@ Pub. L. 111–383, div. A, title V, §593(b), Jan. 7, 2011, 124 Stat. 4234, adde
 - [&sect; 09305 - Civilian flying school instructors instruction at Air Force training commands](%C2%A7%2009305%20-%20Civilian%20flying%20school%20instructors%20instruction%20at%20Air%20Force%20training%20commands.md)
 - [&sect; 09306 - Service schools leaves of absence for instructors](%C2%A7%2009306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md)
 - [&sect; 09314 - Degree granting authority for United States Air Force Institute of Technology](%C2%A7%2009314%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md)
-- [&sect; 09314a - United States Air Force Institute of Technology admission of defense industry civilians](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20defense%20industry%20civilians.md)
+- [&sect; 09314a - United States Air Force Institute of Technology admission of certain private sector civilians](%C2%A7%2009314a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20certain%20private%20sector%20civilians.md)
 - [&sect; 09314b - United States Air Force Institute of Technology administration](%C2%A7%2009314b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md)
 - [&sect; 09315 - Community College of the Air Force associate degrees](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md)
 - [&sect; 09316 - Repealed. Pub. L. 110&#8211;417, \[div. A\], title III, &sect;353(a), Oct. 14, 2008, 122 Stat. 4425](%C2%A7%2009316%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93417%2C%20%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7353%28a%29%2C%20Oct.%2014%2C%202008%2C%20122%20Stat.%204425.md)

@@ -76,7 +76,7 @@ For purposes of this part—
 
 Section 1166(4) of this title, referred to in subsec. (a)(1)(C)(ii), was redesignated as section 1166(a)(4) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
-Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), was classified to section 300gg of Title 42, The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of Title 42. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of Title 42.
+Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), was classified to section 300ggof Title 42, The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of Title 42. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of Title 42.
 
 #### Amendments
 

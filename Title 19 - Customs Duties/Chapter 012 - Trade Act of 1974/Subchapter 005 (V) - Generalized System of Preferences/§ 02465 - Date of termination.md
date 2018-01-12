@@ -188,6 +188,10 @@ Requests.—Liquidation or reliquidation may be made under paragraph (2) with re
 
 &emsp;"(B) to reconstruct the entry if it cannot be located."
 
+#### Effective Date
+
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under section 2461 of this title.
+
 #### Retroactive Application for Certain Liquidations and Reliquidations
 
 Pub. L. 107–210, div. D, title XLI, §4101(b), Aug. 6, 2002, 116 Stat. 1040, as amended by Pub. L. 108–429, title II, §2004(a)(20), Dec. 3, 2004, 118 Stat. 2591, provided that:
@@ -206,7 +210,7 @@ In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 
 
 &emsp;"(2)
 
-Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the CustomsService, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
+Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 
 &emsp;&emsp;"(A) to locate the entry; or
 

@@ -34,7 +34,7 @@ Pub. L. 108–136, div. C, title XXXVI, §3631, Nov. 24, 2003, 117 Stat. 1825, p
 
 Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD.—It is the sense of Congress that—
 
-&emsp;"(1) the United States should seek to initiate discussions between the International Atomic Energy Agency and the Organization for Economic Cooperation and Development for the purpose of exploring issues of nuclear and radiological security and safety, including the creation of new sources of revenue (including debt reduction) for states to provide nuclear security; and
+&emsp;"(1) the United States should seek to initiate discussions between the International Atomic EnergyAgency and the Organization for Economic Cooperation and Development for the purpose of exploring issues of nuclear and radiological security and safety, including the creation of new sources of revenue (including debt reduction) for states to provide nuclear security; and
 
 &emsp;"(2) the discussions referred to in paragraph (1) should also provide a forum to explore possible sources of funds in support of the G–8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction.
 

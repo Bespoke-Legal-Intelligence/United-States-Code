@@ -10,7 +10,7 @@
 
 &emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district free lunches and free breakfasts under the school lunch program and the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) during any period of 4 successive school years; and
 
-&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
+&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches orbreakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
 > special assistance payments shall be paid to the State educational agency with respect to the school or school district during the period on the basis of the number of lunches or breakfasts determined under clause (ii) or (iii).
 
@@ -30,7 +30,7 @@
 
 &emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district free lunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
 
-&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches orbreakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
+&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
 > total Federal cash reimbursements and total commodity assistance shall be provided to the State educational agency with respect to the school or school district at a level that is equal to the total Federal cash reimbursements and total commodity assistance received by the school or school district in the last school year for which the school or school district accepted applications under the school lunch or school breakfast program, adjusted annually for inflation in accordance with paragraph (3)(B) and for changes in enrollment, to carry out the school lunch or school breakfast program.
 
@@ -52,7 +52,7 @@ Election of special assistance payments.—
 
 In general.—A local educational agency may, for all schools in the district or on behalf of certain schools in the district, elect to receive special assistance payments under this subparagraph in lieu of special assistance payments otherwise made available under this paragraph based on applications for free and reduced price lunches if—
 
-&emsp;&emsp;&emsp;(aa) during a period of 4 successive school years, the local educational agency elects to serve all children in the applicable schools free lunches and breakfasts under the school lunch program under this chapter and the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
+&emsp;&emsp;&emsp;(aa) during a period of 4 successive school years, the local educational agency elects to serve all children in the applicable schools free lunches and breakfasts under the school lunch program under this chapter and the school breakfast programestablished under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
 
 &emsp;&emsp;&emsp;(bb) the local educational agency pays, from sources other than Federal funds, the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
@@ -186,7 +186,7 @@ State agency notification.—Not later than May 1 of each school year beginning 
 
 &emsp;&emsp;(III)
 
-Public notification of local educational agencies.—Not later than May 1 ofeach school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
+Public notification of local educational agencies.—Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
 
 &emsp;&emsp;(IV)
 
@@ -306,7 +306,7 @@ Special assistance payments to any State under this section shall be made as pro
 
 #### (d) Report of school to State educational agency, contents; report of State educational agency to Secretary, contents
 
-(1) The Secretary, when appropriate, may request each school participating in the school lunch program under this chapter to report monthly to the State educational agency the average number of children in the school who received free lunches and the average number of children who received reduced price lunches during the immediately preceding month.
+(1) The Secretary, when appropriate, may request each school participating in the school lunch program under this chapter to reportmonthly to the State educational agency the average number of children in the school who received free lunches and the average number of children who received reduced price lunches during the immediately preceding month.
 
 (2) On request of the Secretary, the State educational agency of each State shall report to the Secretary the average number of children in the State who received free lunches and the average number of children in the State who received reduced price lunches during the immediately preceding month.
 
@@ -388,7 +388,7 @@ Commodity only schools shall also be eligible for special assistance payments un
 
 #### (v) Requirement
 
-&emsp;&emsp;&emsp;In carrying out evaluations under clause (iv), the Secretary shall evaluate, using comparisons with local educational agencies with similar demographic characteristics—
+&emsp;&emsp;&emsp;In carrying out evaluations under clause (iv), the Secretary shall evaluate, usingcomparisons with local educational agencies with similar demographic characteristics—
 
 &emsp;&emsp;&emsp;&emsp;(I) the accuracy of the 1 or more methodologies adopted as compared to the daily counting by category of meals provided by school meal programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and the use of annual applications as the basis for eligibility to receive free or reduced price meals under those Acts;
 
@@ -476,7 +476,7 @@ Subsec. (f). Pub. L. 97–35, §813(b), added subsec. (f).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–499 struck out provision that if in any State all schools charged students a uniform price for reduced-price lunches, and such price was less than twenty cents, the special assistance factor prescribed for reduced-price lunches in such State was to be equal to the special assistance factor for free lunches reduced by either ten cents or the price charged for reduced-price lunches in such State, whichever was greater.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–627 substituted "20 cents" for "10 cents" after "which shall be", inserted "for All Urban Consumers" after "Consumer PriceIndex", and inserted provision relating to the special assistance factor prescribed for reduced-price lunches in any State in which all schools charge students a uniform price for lunches.
+<b>1978</b>—Subsec. (a). Pub. L. 95–627 substituted "20 cents" for "10 cents" after "which shall be", inserted "for All Urban Consumers" after "Consumer Price Index", and inserted provision relating to the special assistance factor prescribed for reduced-price lunches in any State in which all schools charge students a uniform price for lunches.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–166 provided for special-assistance payments to the State educational agency where 80 percent of children in attendance during the school year are eligible for free lunches or reduced-price lunches and for determination of number of lunches served to children eligible for free lunches and reduced-price lunches where the school serves all students, eligible and noneligible, and funds for noneligible students are from other than Federal funds.
 
@@ -502,7 +502,7 @@ Subsecs. (g), (h). Pub. L. 93–150 redesignated subsecs. (g) and (h) as (d) and
 
 Subsec. (b). Pub. L. 91–248 substituted formula for apportionment of funds among Puerto Rico, the Virgin Islands, Guam, and American Samoa based on the ratio of the number of children aged three to seventeen, inclusive, in such State as compared to the total number of such children in all such States, for a ratio based on the number of free or reduced price lunches served in the preceding fiscal year in such State as compared to the number of such lunches served in all such States in the preceding fiscal year.
 
-Subsec. (c). Pub. L. 91–248 struck out provision requiring that not less than 50 percent of the remaining sums appropriated be apportioned among the States other than Puerto Rico, the Virgin Islands, Guam, and American Samoa, substituted formula for apportionment of special assistance funds among the States based on the total number of children aged three to seventeen, inclusive, in households with incomes of less than $4,000 per annum, for a formula based on the number of free or reduced price lunches served in the preceding fiscal year and the assistance need rate, and provided that further apportionment be made on the same basis as the initial apportionment to any State which justifies the need for additional funds.
+Subsec. (c). Pub. L. 91–248 struck out provision requiring that not less than 50 percent of the remaining sums appropriated be apportioned among the States other than Puerto Rico, the Virgin Islands, Guam, and American Samoa, substituted formula for apportionment of special assistance funds among the States based on the total number of children aged three to seventeen, inclusive, in households with incomes of lessthan $4,000 per annum, for a formula based on the number of free or reduced price lunches served in the preceding fiscal year and the assistance need rate, and provided that further apportionment be made on the same basis as the initial apportionment to any State which justifies the need for additional funds.
 
 Subsec. (e). Pub. L. 91–248 substituted provision requiring that funds disbursed by the State be used to assist schools in financing all or part of the operating costs of the school lunch program, for requirement that disbursed funds be used to assist schools in the purchase of agricultural commodities and other foods, struck out provision relating to the selection of schools to receive funds, and substituted as a basis for determination of the amount of funds to go to each school the need of that school for assistance in meeting the requirements of section 1758 of this title, for such factors as economic condition of area from which school draws attendance, the percentages of free and reduced price lunches being served in such schools, the price of lunches in such schools compared with the average prevailing price of lunches served in the State under this chapter and the need of such schools for assistance as reflected by the financial position of the school's lunch programs.
 

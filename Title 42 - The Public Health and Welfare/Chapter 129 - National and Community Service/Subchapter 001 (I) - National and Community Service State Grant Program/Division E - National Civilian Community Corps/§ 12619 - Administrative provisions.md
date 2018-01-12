@@ -76,7 +76,7 @@ The Chief Executive Officer shall—
 
 #### (3) Inapplicability of certain civil service laws
 
-&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled to retired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
+&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled toretired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
 
 #### (4) Voluntary services
 
@@ -122,7 +122,7 @@ Subsec. (c)(3). Pub. L. 111–13, §1509(3)(C), substituted "other members" for 
 
 <b>1994</b>—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted "section 12622(a)(2)" for "section section 12622(a)(2)".
 
-Subsec. (c)(3). Pub. L. 103–337 inserted at end "In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired orretainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre."
+Subsec. (c)(3). Pub. L. 103–337 inserted at end "In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted "Supervision" for "Board" in heading and "The Chief Executive Officer shall monitor" for "The Board shall monitor" and "the Chief Executive Officer shall—" for "the Board shall—" in introductory provisions.
 

@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (i) TAA pre-certification period rule
 
-&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days afterthe date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (ii) Definitions
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 #### (1) Exclusion not applicable to certain newborns
 
-&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
+&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with thedate of birth, is covered under creditable coverage.
 
 #### (2) Exclusion not applicable to certain adopted children
 
@@ -156,7 +156,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -224,7 +224,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under theterms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -402,7 +402,7 @@ Medicaid, chip, and employer-sponsored coverage coordination working group.—
 
 &emsp;"(I)
 
-In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the 'Working Group'). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
+In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred toas the 'Working Group'). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
 
 &emsp;"(II)
 
@@ -456,7 +456,7 @@ Report by working group to the secretaries.—Not later than 18 months after the
 
 &emsp;"(II)
 
-Report by secretaries to the congress.—Not later than 2 months after receipt of the reportpursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
+Report by secretaries to the congress.—Not later than 2 months after receipt of the report pursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
 
 "(vi)
 

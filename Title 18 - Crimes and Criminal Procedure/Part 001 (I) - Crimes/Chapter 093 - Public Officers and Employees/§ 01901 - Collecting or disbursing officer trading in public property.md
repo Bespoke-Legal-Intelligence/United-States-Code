@@ -1,6 +1,6 @@
 ### §1901. Collecting or disbursing officer trading in public property
 
-Whoever, being an officer of the United States concerned in the collection or the disbursement of the revenues thereof, carries on any trade or business in the funds or debts of the United States, or of any State, or in any public property of either, shall be fined under this title or imprisoned not more than one year, or both; and shall be removed from office, and be incapable of holding any office under the United States.
+Whoever, being an officer of the United States concerned in the collection or the disbursement of the revenues thereof, carries on any trade orbusiness in the funds or debts of the United States, or of any State, or in any public property of either, shall be fined under this title or imprisoned not more than one year, or both; and shall be removed from office, and be incapable of holding any office under the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 

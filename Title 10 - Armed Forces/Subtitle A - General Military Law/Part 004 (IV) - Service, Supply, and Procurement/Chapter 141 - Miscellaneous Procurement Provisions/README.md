@@ -48,10 +48,13 @@
 | [2410p.](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md) | Contracts: limitations on lead system integrators. |
 | [2410q.](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md) | Multiyear contracts: purchase of electricity from renewable energy sources. |
 | [2410r.](%C2%A7%2002410r%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md) | Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life. |
+| [2410s.](%C2%A7%2002410s%20-%20Security%20clearances%20for%20facilities%20of%20certain%20companies.md) | Security clearances for facilities of certain companies <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1621(b), Dec. 12, 2017, 131 Stat. 1732, added item 2410s.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title III, §342(a)(2), title VIII, §833(b)(4)(B), Dec. 23, 2016, 130 Stat. 2082, 2285, added item 2410r and struck out item 2387 "Procurement of table and kitchen equipment for officers' quarters: limitation on".
 
@@ -77,7 +80,7 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 <b>1997</b>—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted "public utility services," after "tuition," in item 2396, struck out items 2403 "Major weapon systems: contractor guarantees" and 2405 "Limitation on adjustment of shipbuilding contracts", substituted "Severable service contracts for periods crossing fiscal years" for "Appropriated funds: availability for certain contracts for 12 months" in item 2410a, and added item 2410m.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defenseprocurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
+<b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defense procurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
 
 <b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controls during emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
 
@@ -145,6 +148,8 @@ Prohibition.—The Secretary of Defense shall ensure that the Department of Defe
 
 Certification.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification that the Secretary is in compliance with the prohibition under subsection (a)."
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -203,3 +208,4 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02410p - Contracts limitations on lead system integrators](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md)
 - [&sect; 02410q - Multiyear contracts purchase of electricity from renewable energy sources](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md)
 - [&sect; 02410r - Contract working dogs requirement to transfer animals to 341st Training Squadron after service life](%C2%A7%2002410r%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md)
+- [&sect; 02410s - Security clearances for facilities of certain companies](%C2%A7%2002410s%20-%20Security%20clearances%20for%20facilities%20of%20certain%20companies.md)

@@ -16,5 +16,9 @@ Acts performed by authorized employees of the Institute under this section shall
 
 (Pub. L. 96–8, §7, Apr. 10, 1979, 93 Stat. 17.)
 
+#### Effective Date
+
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -60,7 +60,7 @@ Subsection (a) applies to the WTO Agreement and to the following agreements anne
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of thisAct to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
 #### Uruguay Round Agreements: Entry Into Force
 
@@ -70,7 +70,7 @@ Executive Documents set out below, provide generally for the implementation of t
 
 Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15849; Proc. No. 6857, Dec. 11, 1995, 60 F.R. 64817; Proc. No. 6948, Oct. 29, 1996, 61 F.R. 56387, provided:
 
-1\. On April 15, 1994, the President entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations ("the Uruguay Round Agreements"). In section 101(a) of the Uruguay Round Agreements Act ("the URAA") (Public Law 103–465; 108 Stat. 4809) \[19 U.S.C. 3511(a)\], the Congress approved theUruguay Round Agreements listed in section 101(d) of that Act.
+1\. On April 15, 1994, the President entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations ("the Uruguay Round Agreements"). In section 101(a) of the Uruguay Round Agreements Act ("the URAA") (Public Law 103–465; 108 Stat. 4809) \[19 U.S.C. 3511(a)\], the Congress approved the Uruguay Round Agreements listed in section 101(d) of that Act.
 
 2\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988 Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreements entered into under those sections.
 
@@ -104,7 +104,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 10\. Presidential Proclamation No. 5759 of December 24, 1987 \[102 Stat. 4942\], imposed increased rates of duty on certain products of the European Community ("EC"), in response to the EC's implementation of the Council Directive Prohibiting the Use in Livestock Farming of Certain Substances Having a Hormonal Action. Austria, Finland, and Sweden have indicated that they will become member states of the EC on January 1, 1995. Accordingly, to clarify that the increased rates of duty imposed by Proclamation No. 5759 continue to apply to the EC in its capacity as a foreign instrumentality, it is necessary to amend the HTS to indicate that the duties are to be imposed on products of the EC, including products of all new and future member states, and not just on products of countries that were members of the EC in 1987 and that were listed in the HTS for illustrative purposes.
 
-11\. Additional U.S. note 24 to chapter 4 of Schedule XX provides for a delay in the effective date, or prorating, of the expansion of tariff-rate quotas for cheeses above the existing quota quantities provided for in subchapter IV of chapter 99 of the HTS that will resultfrom the implementation of United States commitments under the Uruguay Round Agreements, in the case of countries or areas that implement their market access commitments on a date later than the effective date of Schedule XX. The current members of the European Community (Belgium, Denmark, France, the Federal Republic of Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Spain, and the United Kingdom), Austria, Poland, Sweden, and Switzerland all have indicated their intention not to implement their market access commitments until July 1, 1995. Accordingly, I have determined, pursuant to my authority under sections 111(a) and (b) of the URAA \[19 U.S.C. 3521(a), (b)\] and section 1102 of the 1988 Act (19 U.S.C. 2902), that it is appropriate not to make available the amounts specified in section K of the Annex to this proclamation until July 1, 1995.
+11\. Additional U.S. note 24 to chapter 4 of Schedule XX provides for a delay in the effective date, or prorating, of the expansion of tariff-rate quotas for cheeses above the existing quota quantities provided for in subchapter IV of chapter 99 of the HTS that will result from the implementation of United States commitments under the Uruguay Round Agreements, in the case of countries or areas that implement their market access commitments on a date later than the effective date of Schedule XX. The current members of the European Community (Belgium, Denmark, France, the Federal Republic of Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Spain, and the United Kingdom), Austria, Poland, Sweden, and Switzerland all have indicated their intention not to implement their market access commitments until July 1, 1995. Accordingly, I have determined, pursuant to my authority under sections 111(a) and (b) of the URAA \[19 U.S.C. 3521(a), (b)\] and section 1102 of the 1988 Act (19 U.S.C. 2902), that it is appropriate not to make available the amounts specified in section K of the Annex to this proclamation until July 1, 1995.
 
 12\. Section 604 of the 1974 Act (19 U.S.C. 2483) authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
@@ -150,7 +150,7 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 1\. On April 15, 1994, I entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations ("the Uruguay Round Agreements"). In section 101(a) of the Uruguay Round Agreements Act ("the URAA") (Public Law 103–465; 108 Stat. 4814) (19 U.S.C. 3511(a)), the Congress approved the Uruguay Round Trade Agreements listed in section 101(d) of that Act.
 
-2\. Pursuant to section 101(b) of the URAA \[19 U.S.C. 3511(b)\], I decided to accept the Agreement Establishingthe World Trade Organization ("the WTO Agreement") on behalf of the United States, and I determined that the WTO Agreement entered into force for the United States on January 1, 1995.
+2\. Pursuant to section 101(b) of the URAA \[19 U.S.C. 3511(b)\], I decided to accept the Agreement Establishing the World Trade Organization ("the WTO Agreement") on behalf of the United States, and I determined that the WTO Agreement entered into force for the United States on January 1, 1995.
 
 3\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988 Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreement entered into under these sections.
 
@@ -182,13 +182,13 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 (b) Proclamation 6763 \[set out above\] proclaimed the Schedule XX tariff rate quotas for peanuts and peanut butter and peanut paste. However, that proclamation did not specify which agency should implement the MOU.
 
-(c) Section 404 of the URAA (19 U.S.C. 3601) requires the President to take such action as may be necessary to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
+(c) Section 404 of the URAA (19 U.S.C. 3601) requires the President to take such action as may be necessaryto ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
 
 (d) Accordingly, I have decided to delegate to the United States Trade Representative ("the USTR") my authority under section 404 of the URAA to implement the MOU, through such regulations as the USTR, or, at the direction of the USTR, other appropriate agencies, may issue.
 
 9\. Section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483) ("the 1974 Act"), authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, of other Acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to section 301 of title 3, United States Code, section 902(a)(1) and (2) of title 17, United States Code, section 604 of the 1974 Act, as amended (19 U.S.C. 2483), section 491 of the 1979 Act, as amended (19 U.S.C. 2578), section1102 of the 1988 Act, as amended (19 U.S.C. 2902), title I of the URAA (19 U.S.C. 3511–3551), and section 404 of the URAA (19 U.S.C. 3601), do hereby proclaim that:
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to section 301 of title 3, United States Code, section 902(a)(1) and (2) of title 17, United States Code, section 604 of the 1974 Act, as amended (19 U.S.C. 2483), section 491 of the 1979 Act, as amended (19 U.S.C. 2578), section 1102 of the 1988 Act, as amended (19 U.S.C. 2902), title I of the URAA (19 U.S.C. 3511–3551), and section 404 of the URAA (19 U.S.C. 3601), do hereby proclaim that:
 
 (1) To more completely implement the tariff treatment accorded under the Uruguay Round Agreements, the HTS is modified as set forth in the Annex to this proclamation.
 

@@ -1,0 +1,6 @@
+### §10607. Transferred
+
+#### Codification
+
+Section 10607 was editorially reclassified as section 20141 of Title 34, Crime Control and Law Enforcement.
+

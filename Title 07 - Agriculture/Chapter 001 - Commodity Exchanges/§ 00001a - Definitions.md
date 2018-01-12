@@ -122,7 +122,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(IV) any leverage transaction authorized under section 23 of this title;
 
-&emsp;&emsp;&emsp;(ii) for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i).
+&emsp;&emsp;&emsp;(ii) for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i);
 
 &emsp;&emsp;&emsp;(iii) is registered with the Commission as a commodity trading advisor; or
 
@@ -134,7 +134,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) any bank or trust company or any person acting as an employee thereof;
 
-&emsp;&emsp;&emsp;(ii) any news reporter, news columnist, or news editor of the print or electronic media, or any lawyer, accountant, or teacher;
+&emsp;&emsp;&emsp;(ii) any news reporter, news columnist, or news editor of the print or electronicmedia, or any lawyer, accountant, or teacher;
 
 &emsp;&emsp;&emsp;(iii) any floor broker or futures commission merchant;
 
@@ -234,7 +234,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) an insurance company that is regulated by a State, or that is regulated by a foreign government and is subject to comparable regulation as determined by the Commission, including a regulated subsidiary or affiliate of such an insurance company;
 
-&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investorin the investment company or the foreign person is itself an eligible contract participant);
+&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investor in the investment company or the foreign person is itself an eligible contract participant);
 
 &emsp;&emsp;&emsp;(iv) a commodity pool that—
 
@@ -378,7 +378,7 @@ As used in this chapter:
 
 #### (B) Further definition
 
-&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, theterm "floor trader" any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades solely for such person's own account if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
+&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "floor trader" any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades solely for such person's own account if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
 
 #### (24) Foreign exchange forward
 
@@ -432,7 +432,7 @@ As used in this chapter:
 
 #### (B) Further definition
 
-&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "futures commission merchant" any person who engages in soliciting or accepting orders for, or acting as a counterparty in, any agreement, contract, or transaction subject to this chapter, and who accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom, if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
+&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "futures commission merchant" any person who engages in soliciting or accepting orders for, or acting as a counterparty in, any agreement, contract, or transaction subject to this chapter, and who accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that resultor may result therefrom, if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
 
 #### (29) Hybrid instrument
 
@@ -610,7 +610,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(v) any bank holding company (as defined in section 2 of the Bank Holding Company Act of 1965 <sup>4</sup> (12 U.S.C. 1841)), any foreign bank (as defined in section 3101(7) of title 12) that is treated as a bank holding company under section 3106(a) of title 12, and any subsidiary of such a company or foreign bank (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered with the Commission as a swap dealer or major swap participant under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant);
 
-&emsp;&emsp;&emsp;(vi) after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12U.S.C. 5411\]), any savings and loan holding company (as defined in section 1467a of title 12) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
+&emsp;&emsp;&emsp;(vi) after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5411\]), any savings and loan holding company (as defined in section 1467a of title 12) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
 
 &emsp;&emsp;&emsp;(vii) any organization operating under section 25A of the Federal Reserve Act (12 U.S.C. 611 et seq.) or having an agreement with the Board under section 25 of the Federal Reserve Act (12 U.S.C. 601 et seq.);
 
@@ -662,7 +662,7 @@ As used in this chapter:
 
 #### (44) Security future
 
-&emsp;The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] as in effect on January 11, 1983). The term "security future" does not include any agreement, contract, or transaction excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title (as in effect on December 21, 2000) or sections 27 to 27f of this title.
+&emsp;The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] as in effect on January 11, 1983). The term "security future" does not include anyagreement, contract, or transaction excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title (as in effect on December 21, 2000) or sections 27 to 27f of this title.
 
 #### (45) Security futures product
 
@@ -682,7 +682,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) that provides for any purchase, sale, payment, or delivery (other than a dividend on an equity security) that is dependent on the occurrence, nonoccurrence, or the extent of the occurrence of an event or contingency associated with a potential financial, economic, or commercial consequence;
 
-&emsp;&emsp;&emsp;(iii) that provides on an executory basis for the exchange, on a fixed or contingent basis, of 1 or more payments based on the value or level of 1 or more interest or other rates, currencies, commodities, securities, instruments of indebtedness, indices, quantitative measures, or other financial or economic interests or property of any kind, or any interest therein or basedon the value thereof, and that transfers, as between the parties to the transaction, in whole or in part, the financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset (including any enterprise or investment pool) or liability that incorporates the financial risk so transferred, including any agreement, contract, or transaction commonly known as—
+&emsp;&emsp;&emsp;(iii) that provides on an executory basis for the exchange, on a fixed or contingent basis, of 1 or more payments based on the value or level of 1 or more interest or other rates, currencies, commodities, securities, instruments of indebtedness, indices, quantitative measures, or other financial or economic interests or property of any kind, or any interest therein or based on the value thereof, and that transfers, as between the parties to the transaction, in whole or in part, the financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset (including any enterprise or investment pool) or liability that incorporates the financial risk so transferred, including any agreement, contract, or transaction commonly known as—
 
 &emsp;&emsp;&emsp;&emsp;(I) an interest rate swap;
 
@@ -814,7 +814,7 @@ As used in this chapter:
 
 #### (i) Registered entities
 
-&emsp;&emsp;&emsp;Any foreign exchange swap and any foreign exchange forward that is listed and traded on or subject to the rules of a designated contract market or a swap execution facility, or that is cleared by a derivatives clearing organization, shall not be exempt from any provision of this chapter or amendments made by the Wall Street Transparency and Accountability Act of 2010 prohibiting fraud or manipulation.
+&emsp;&emsp;&emsp;Any foreign exchange swap and any foreign exchange forward that is listed and traded on or subject to the rules of a designated contract market or a swap execution facility, or that is cleared by a derivatives clearing organization, shall not be exempt from any provision of this chapter or amendments made by the Wall StreetTransparency and Accountability Act of 2010 prohibiting fraud or manipulation.
 
 #### (ii) Retail transactions
 
@@ -886,7 +886,7 @@ As used in this chapter:
 
 &emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
 
-(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
+(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I,§§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
 
 #### References in Text
 
@@ -1058,7 +1058,7 @@ Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective 
 
 #### Effective Date
 
-Pub. L. 102–546, title IV, §403, Oct. 28, 1992, 106 Stat. 3625, provided that: "Except as otherwise specificallyprovided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\]."
+Pub. L. 102–546, title IV, §403, Oct. 28, 1992, 106 Stat. 3625, provided that: "Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\]."
 
 #### Other Authority
 

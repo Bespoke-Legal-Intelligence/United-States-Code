@@ -12,7 +12,7 @@
 
 #### (b) Retention and use of funds
 
-Notwithstanding section 3302 of title 31 and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend funds contributed pursuant to subsection (a) for purposes of the Program. Funds so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
+Notwithstanding section 3302 of title 31 and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend funds contributed pursuant to subsection (a) for purposes of the Program. Funds so contributedshall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
 
 #### (c) Return of funds not obligated or expended within three years
 
@@ -32,17 +32,7 @@ If the Secretary does not obligate or expend funds contributed pursuant to subse
 
 &emsp;The Secretary may not obligate funds contributed pursuant to subsection (a) until a period of 15 days elapses following the date on which the Secretary submits the notice under paragraph (1).
 
-#### (e) Annual report
-
-Not later than the first Monday in February of each year, the Secretary shall submit to the appropriate congressional committees a report on amounts contributed pursuant to subsection (a) during the preceding fiscal year. Each such report shall include, for the fiscal year covered by the report, the following:
-
-&emsp;(1) A statement of any funds contributed pursuant to subsection (a), including, for each such contribution, the value of the contribution and the identity of the person who made the contribution.
-
-&emsp;(2) A statement of any funds so contributed that were obligated or expended by the Secretary, including, for each such contribution, the purposes for which the funds were obligated or expended.
-
-&emsp;(3) A statement of any funds so contributed that were retained but not obligated or expended, including, for each such contribution, the purposes (if known) for which the Secretary intends to obligate or expend the amount.
-
-#### (f) Implementation plan
+#### (e) Implementation plan
 
 The Secretary shall submit to the congressional defense committees—
 
@@ -50,7 +40,7 @@ The Secretary shall submit to the congressional defense committees—
 
 &emsp;(2) any updates to such plan that the Secretary considers appropriate.
 
-#### (g) Appropriate congressional committees defined
+#### (f) Appropriate congressional committees defined
 
 In this section, the term "appropriate congressional committees" means the following:
 
@@ -58,5 +48,9 @@ In this section, the term "appropriate congressional committees" means the follo
 
 &emsp;(2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 113–291, div. A, title XIII, §1325, Dec. 19, 2014, 128 Stat. 3600.)
+(Pub. L. 113–291, div. A, title XIII, §1325, Dec. 19, 2014, 128 Stat. 3600; Pub. L. 115–91, div. A, title X, §1051(t)(6), Dec. 12, 2017, 131 Stat. 1566.)
+
+#### Amendments
+
+<b>2017</b>—Subsecs. (e) to (g). Pub. L. 115–91 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which required annual reports on contributions.
 

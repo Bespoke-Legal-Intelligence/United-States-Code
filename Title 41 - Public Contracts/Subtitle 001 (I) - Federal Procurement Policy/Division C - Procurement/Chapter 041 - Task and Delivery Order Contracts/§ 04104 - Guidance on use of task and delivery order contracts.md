@@ -10,7 +10,7 @@ Content of Regulations.—The regulations issued pursuant to subsection (a) at a
 
 &emsp;(1) the appropriate use of Government-wide and other multiagency contracts entered into in accordance with this chapter and sections 2304a to 2304d of title 10; and
 
-&emsp;(2) steps that agencies should take in entering into and administering multiple awardtask and delivery order contracts to ensure compliance with the requirement in—
+&emsp;(2) steps that agencies should take in entering into and administering multiple award task and delivery order contracts to ensure compliance with the requirement in—
 
 &emsp;&emsp;(A) section 11312 of title 40 for capital planning and investment control in purchases of information technology products and services;
 

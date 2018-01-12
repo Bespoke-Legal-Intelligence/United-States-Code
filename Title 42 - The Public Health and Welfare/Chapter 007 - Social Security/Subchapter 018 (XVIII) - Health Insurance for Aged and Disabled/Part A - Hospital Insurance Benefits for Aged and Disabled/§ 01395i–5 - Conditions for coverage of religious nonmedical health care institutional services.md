@@ -76,7 +76,7 @@ Subject to subsections (c) and (d), payment under this part may be made for inpa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the "trigger level" for a year is the unadjusted trigger level described in clause (ii).
+&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the "trigger level" for a year is theunadjusted trigger level described in clause (ii).
 
 #### (ii) Unadjusted trigger level
 
@@ -116,7 +116,7 @@ If the Secretary determines that the level of expenditures described in subsecti
 
 #### (e) Annual report
 
-At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submitto the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under State plans under subchapter XIX. Such report shall include—
+At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under State plans under subchapter XIX. Such report shall include—
 
 &emsp;(1) level of expenditures described in subsection (c)(1) for the previous fiscal year and estimated for the fiscal year involved;
 

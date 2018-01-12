@@ -60,7 +60,7 @@
 
 #### (D) Subsidiaries and affiliates
 
-&emsp;&emsp;For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank ofits services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
+&emsp;&emsp;For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank of its services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
 
 #### (5) Effective date
 

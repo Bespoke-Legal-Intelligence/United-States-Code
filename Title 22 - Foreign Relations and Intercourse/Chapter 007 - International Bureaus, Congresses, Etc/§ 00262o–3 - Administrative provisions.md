@@ -36,7 +36,7 @@ The Secretary of the Treasury or the designee of the Secretary should brief the 
 
 #### (e) Publication of "no" votes and abstentions by the United States
 
-Each month, the Secretary of the Treasury should provide for posting on the website of the Department of the Treasury of a record of all "no" votes and abstentions made by the United States Executive Director at any multilateral development institution on any matter before the Board of Directors of the institution.
+Each month, the Secretary of the Treasury should provide for posting on the website of the Department of the Treasury of a record of all "no" votes and abstentions made by the UnitedStates Executive Director at any multilateral development institution on any matter before the Board of Directors of the institution.
 
 #### (f) Multilateral development institution defined
 

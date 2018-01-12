@@ -38,7 +38,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Construction
 
-&emsp;&emsp;Nothing in this chapter requires that children be classified by their disability so long as each child who has a disability listed in section 1401 of this title and who, by reason of that disability, needs special education and related services is regarded as a child with a disability under this subchapter.
+&emsp;&emsp;Nothing in this chapter requires that children be classified by their disability so long as each child who has a disability listed in section 1401 of this title and who, by reasonof that disability, needs special education and related services is regarded as a child with a disability under this subchapter.
 
 #### (4) Individualized education program
 
@@ -130,7 +130,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(II) the determination of the proportionate amount of Federal funds available to serve parentally placed private school children with disabilities under this subparagraph, including the determination of how the amount was calculated;
 
-&emsp;&emsp;&emsp;&emsp;(III) the consultation process among the local educational agency, private school officials, and representatives ofparents of parentally placed private school children with disabilities, including how such process will operate throughout the school year to ensure that parentally placed private school children with disabilities identified through the child find process can meaningfully participate in special education and related services;
+&emsp;&emsp;&emsp;&emsp;(III) the consultation process among the local educational agency, private school officials, and representatives of parents of parentally placed private school children with disabilities, including how such process will operate throughout the school year to ensure that parentally placed private school children with disabilities identified through the child find process can meaningfully participate in special education and related services;
 
 &emsp;&emsp;&emsp;&emsp;(IV) how, where, and by whom special education and related services will be provided for parentally placed private school children with disabilities, including a discussion of types of services, including direct services and alternate service delivery mechanisms, how such services will be apportioned if funds are insufficient to serve all children, and how and when these decisions will be made; and
 
@@ -148,7 +148,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (II) Procedure
 
-&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
+&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agencyshall forward the appropriate documentation to the Secretary.
 
 #### (vi) Provision of equitable services
 
@@ -252,7 +252,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) Agency financial responsibility
 
-&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described insubparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
+&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described in subparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
 
 #### (ii) Conditions and terms of reimbursement
 
@@ -274,7 +274,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Reimbursement for services by public agency
 
-&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency is authorized to claim reimbursement for the services from the public agency that failed to provide or pay for such services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
+&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency is authorized to claim reimbursement for the services from the public agency that failed to provide or pay forsuch services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
 
 #### (C) Special rule
 
@@ -338,7 +338,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title; and
+&emsp;&emsp;(B) has established performance indicators the State will use to assess progress towardachieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title; and
 
 &emsp;&emsp;(C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under section 6311(h) of this title.
 
@@ -374,7 +374,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
-&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments,and the number of those children who were provided accommodations in order to participate in those assessments.
+&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
 
 &emsp;&emsp;&emsp;(ii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(I).
 
@@ -558,7 +558,7 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (1) In general
 
-&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
+&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Actof 2004, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
 
 #### (2) Modifications made by State
 
@@ -596,7 +596,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (A) Determination of amounts
 
-&emsp;&emsp;If the Secretary arranges for services pursuant to this subsection, the Secretary, afterconsultation with the appropriate public and private school officials, shall pay to the provider of such services for a fiscal year an amount per child that does not exceed the amount determined by dividing—
+&emsp;&emsp;If the Secretary arranges for services pursuant to this subsection, the Secretary, after consultation with the appropriate public and private school officials, shall pay to the provider of such services for a fiscal year an amount per child that does not exceed the amount determined by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount received by the State under this subchapter for such fiscal year; by
 

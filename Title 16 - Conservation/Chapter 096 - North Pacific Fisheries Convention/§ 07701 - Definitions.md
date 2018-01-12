@@ -16,7 +16,7 @@ In this chapter:
 
 #### (4) Council
 
-&emsp;The term "Council" means the North Pacific Fishery Management Council, the PacificFishery Management Council, or the Western Pacific Fishery Management Council established under section 1852 of this title, as the context requires.
+&emsp;The term "Council" means the North Pacific Fishery Management Council, the Pacific Fishery Management Council, or the Western Pacific Fishery Management Council established under section 1852 of this title, as the context requires.
 
 #### (5) Exclusive economic zone
 
@@ -110,5 +110,5 @@ In this chapter:
 
 #### Short Title
 
-Pub. L. 114–327, §1, Dec. 16, 2016, 130 Stat. 1974, provided that: "This Act \[enacting this chapter, chapter 97, and section 6909a of this title, amending sections 1826g, 1826h, 1826j, 1826k, 5003, 5004, 5601 to 5604, 5606, 5607, 5609, 5610, 6902, and 6910 of this title, section 1541 of Title 15, Commerce and Trade, and section 3103 of Title 33, Navigation and Navigable Waters, repealingsection 5612 of this title, enacting provisions set out as a note under section 5601 of this title, and amending provisions set out as a note under section 1823 of this title\] may be cited as the 'Ensuring Access to Pacific Fisheries Act'."
+Pub. L. 114–327, §1, Dec. 16, 2016, 130 Stat. 1974, provided that: "This Act \[enacting this chapter, chapter 97, and section 6909a of this title, amending sections 1826g, 1826h, 1826j, 1826k, 5003, 5004, 5601 to 5604, 5606, 5607, 5609, 5610, 6902, and 6910 of this title, section 1541 of Title 15, Commerce and Trade, and section 3103 of Title 33, Navigation and Navigable Waters, repealing section 5612 of this title, enacting provisions set out as a note under section 5601 of this title, and amending provisions set out as a note under section 1823 of this title\] may be cited as the 'Ensuring Access to Pacific Fisheries Act'."
 

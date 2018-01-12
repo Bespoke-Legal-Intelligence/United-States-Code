@@ -8,7 +8,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (1) Fee payment required
 
-&emsp;At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
+&emsp;At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 <sup>1</sup> per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
 
 #### (2) Annual adjustment
 
@@ -75,7 +75,7 @@ The information contained in or filed with any registration statement shall be m
 
 #### (1) In general
 
-&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to publicfiling, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
+&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
 
 #### (2) Confidentiality
 
@@ -105,7 +105,7 @@ Subsec. (b)(5). Pub. L. 111–203, §991(b)(1)(K), substituted "August 31" for "
 
 Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted "each fiscal year" for "each of the fiscal years 2002 through 2011" in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
 
-<b>2002</b>—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
+<b>2002</b>—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro ratarates for amounts and balances equal to less than $1,000,000.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–290 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "At the time of filing a registration statement the applicant shall pay to the Commission a fee of one-fiftieth of 1 per centum of the maximum aggregate price at which such securities are proposed to be offered, but in no case shall such fee be less than $100."
 
@@ -131,7 +131,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Increase in Registration Fees and Deposit Into Treasury
 
-Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rateand offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
+Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
@@ -156,6 +156,24 @@ Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 798.
 Pub. L. 101–515, title V, Nov. 5, 1990, 104 Stat. 2139.
 
 Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
+
+#### Adjustment of Registration Fee Rate
+
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
+
+By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.
+
+By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824.
+
+By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771.
+
+By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934.
+
+By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
+
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+<i><sup>1</sup></i><i> See Adjustment of Registration Fee Rate notes below.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 (1) The State agency charged with the administration of the State law—
 
-&emsp;(A) shall disclose, upon request and on a reimbursable basis, to officers and employees of the Department of Agriculture and to officers or employees of any State supplemental nutrition assistance program benefits agencyany of the following information contained in the records of such State agency—
+&emsp;(A) shall disclose, upon request and on a reimbursable basis, to officers and employees of the Department of Agriculture and to officers or employees of any State supplemental nutrition assistance program benefits agency any of the following information contained in the records of such State agency—
 
 &emsp;&emsp;(i) wage information,
 
@@ -132,7 +132,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 (4) For purposes of this subsection, the term "State or local child support enforcement agency" means any agency of a State or political subdivision thereof operating pursuant to a plan described in the last sentence of paragraph (1).
 
-(5) A State or local child support enforcement agency may disclose to any agent of the agency that is under contract with the agency to carry out the purposes described in paragraph (1)(B) wage information that is disclosed to an officer or employee of the agency under paragraph (1)(A). Any agent of a State or local child support agency that receives wage information under this paragraph shall comply with the safeguards established pursuant to paragraph (1)(B).
+(5) A State or local child support enforcement agency may disclose to any agent of the agency that is under contract with the agency to carry out the purposes described in paragraph (1)(B) wage information that is disclosed to an officer or employee of the agency under paragraph\(1)(A). Any agent of a State or local child support agency that receives wage information under this paragraph shall comply with the safeguards established pursuant to paragraph (1)(B).
 
 #### (f) Income and eligibility verification system
 
@@ -246,7 +246,7 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;&emsp;(ii) is an individual for whom suitable work (as defined under the State law) is only available in an occupation that regularly conducts drug testing (as determined under regulations issued by the Secretary of Labor); or
 
-&emsp;(B) denying such compensation to such applicant on the basis of the result of the testing conducted by the State under legislation described in subparagraph (A).
+&emsp;(B) denying such compensation to such applicant on the basis of the result of the testingconducted by the State under legislation described in subparagraph (A).
 
 (2) For purposes of this subsection—
 
@@ -262,7 +262,7 @@ In the case of a covered unemployment compensation debt (as defined under sectio
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68AStat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(5), (k)(2)(D), (F), and (m), is classified generally to Title 26, Internal Revenue Code.
 
@@ -500,7 +500,7 @@ Pub. L. 112–40, title II, §251(b), Oct. 21, 2011, 125 Stat. 421, provided tha
 
 "(1)
 
-In general.—As a condition for administering any unemployment compensation program of the United States (as defined in paragraph (2)) as an agent of the United States, if the State determines that an erroneous payment was made by the State to an individual under any such program due to fraud committed by such individual, the State shall assess a penalty on such individual and deposit any such penalty received in the same manner as the State assesses and deposits such penalties under provisions of State law implementing section 303(a)(11) of the Social Security Act \[42 U.S.C. 503(a)(11)\], as added by subsection (a).
+In general.—As a condition for administering any unemployment compensation program of the United States (as defined in paragraph (2)) as an agent of the United States, if the State determines that anerroneous payment was made by the State to an individual under any such program due to fraud committed by such individual, the State shall assess a penalty on such individual and deposit any such penalty received in the same manner as the State assesses and deposits such penalties under provisions of State law implementing section 303(a)(11) of the Social Security Act \[42 U.S.C. 503(a)(11)\], as added by subsection (a).
 
 "(2)
 

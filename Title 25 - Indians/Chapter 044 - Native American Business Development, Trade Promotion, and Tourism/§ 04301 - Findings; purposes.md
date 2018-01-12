@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) consistent with the principles of inherent tribal sovereignty and the special relationship between Indian tribes and the United States, Indian tribes retain the right to enter into contracts and agreements to trade freely, and seek enforcement of treaty and trade rights;
 
-&emsp;(5) Congress has carried out the responsibility of the United States for the protection andpreservation of Indian tribes and the resources of Indian tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
+&emsp;(5) Congress has carried out the responsibility of the United States for the protection and preservation of Indian tribes and the resources of Indian tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
 
 &emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency among Indian tribes;
 
@@ -268,7 +268,7 @@ In general.—The chairperson of the Authority may, without regard to the civil 
 
 &emsp;"(2)
 
-Procurement of temporary and intermittent services.—The chairperson of the Authority may procure temporary and intermittent services undersection 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed under GS–13 of the General Schedule established under section 5332 of title 5, United States Code.
+Procurement of temporary and intermittent services.—The chairperson of the Authority may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed under GS–13 of the General Schedule established under section 5332 of title 5, United States Code.
 
 #### "SEC. 8. TERMINATION OF THE AUTHORITY.
 

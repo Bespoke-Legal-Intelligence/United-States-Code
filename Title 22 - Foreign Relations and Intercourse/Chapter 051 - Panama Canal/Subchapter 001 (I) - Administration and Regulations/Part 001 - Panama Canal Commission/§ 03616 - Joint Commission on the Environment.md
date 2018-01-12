@@ -18,7 +18,7 @@ The United States representatives on the Joint Commission may, to such extent or
 
 #### (e) Rules of procedure; establishment; approval
 
-The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval of such rules by the Governments of the United States and the Republic of Panama.
+The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval ofsuch rules by the Governments of the United States and the Republic of Panama.
 
 (Pub. L. 96–70, title I, §1106, Sept. 27, 1979, 93 Stat. 457.)
 

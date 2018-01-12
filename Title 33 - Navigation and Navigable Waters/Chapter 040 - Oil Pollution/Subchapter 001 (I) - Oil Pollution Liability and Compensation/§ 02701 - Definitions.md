@@ -58,9 +58,9 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;(i) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
 
-&emsp;&emsp;&emsp;(ii) in the case of an onshore or offshore facility, any person owning or operating such facility;
+&emsp;&emsp;&emsp;(ii) in the case of an onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity owning or operating such facility;
 
-&emsp;&emsp;&emsp;(iii) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
+&emsp;&emsp;&emsp;(iii) in the case of any abandoned offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that owned or operated such facility immediately prior to such abandonment;
 
 &emsp;&emsp;&emsp;(iv) in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
 
@@ -106,9 +106,9 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;&emsp;(I) forecloses on the vessel or facility; and
 
-&emsp;&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction),or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
+&emsp;&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
 
-&emsp;&emsp;&nbsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
+&emsp;&emsp;&nbsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), orotherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
 
 &emsp;(27) "person" means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
 
@@ -136,15 +136,19 @@ Offshore facilities.—In the case of an offshore facility (other than a pipelin
 
 &emsp;&emsp;(D)
 
-Deepwater ports.—In the case of a deepwater port licensed under the Deepwater Port Act of 1974 (33 U.S.C. 1501–1524), the licensee.
+Foreign facilities.—In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
 
 &emsp;&emsp;(E)
 
-Pipelines.—In the case of a pipeline, any person owning or operating the pipeline.
+Deepwater ports.—In the case of a deepwater port licensed under the Deepwater Port Act of 1974 (33 U.S.C. 1501–1524), the licensee.
 
 &emsp;&emsp;(F)
 
-Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+Pipelines.—In the case of a pipeline, any person owning or operating the pipeline.
+
+&emsp;&emsp;(G)
+
+Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,<sup>1</sup> offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 &emsp;(33) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
@@ -174,7 +178,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;&emsp;&emsp;(ii) holding a security interest or abandoning or releasing a security interest;
 
-&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or securityagreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
+&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, acovenant, warranty, or other term or condition that relates to environmental compliance;
 
 &emsp;&emsp;&emsp;(iv) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
 
@@ -204,7 +208,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(44) "security interest" has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, §3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915.)
 
 #### References in Text
 
@@ -219,6 +223,12 @@ The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity" for "onshore or offshore facility, any person".
+
+Par. (26)(A)(iii). Pub. L. 115–91, §3508(b)(1)(A)(i)(II), substituted "offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that" for "offshore facility, the person who".
+
+Par. (32)(D) to (G). Pub. L. 115–91, §3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted ", offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that" for "or offshore facility, the persons who".
 
 <b>2010</b>—Par. (32)(A). Pub. L. 111–281 inserted "In the case of a vessel, the term 'responsible party' also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46)." after "chartering the vessel."
 
@@ -251,4 +261,6 @@ Pub. L. 101–380, §1, Aug. 18, 1990, 104 Stat. 484, provided that: "This Act \
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Second comma probably should not appear.</i>
 

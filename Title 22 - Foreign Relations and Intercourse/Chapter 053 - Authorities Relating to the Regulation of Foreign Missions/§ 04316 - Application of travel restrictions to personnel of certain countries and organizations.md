@@ -2,7 +2,7 @@
 
 #### (a) Requirement for restrictions
 
-The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this chapterto the members of the missions of the Soviet Union in the United States.
+The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
 
 #### (b) Individuals subject to restrictions
 

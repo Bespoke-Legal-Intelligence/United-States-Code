@@ -30,7 +30,7 @@ In the case of a failure which is due to reasonable cause and not to willful neg
 
 #### (B) Part-year employees
 
-&emsp;&emsp;In the case of an employee who is employed by the employer for only a portion of the calendar year, a contribution to the Archer MSA of such employee shall be treated as comparable if it is an amount which bears the same ratio to the comparable amount (determined without regard to this subparagraph) as such portion bears to the entire calendar year.
+&emsp;&emsp;In the case of an employee who is employed by the employer for only a portion ofthe calendar year, a contribution to the Archer MSA of such employee shall be treated as comparable if it is an amount which bears the same ratio to the comparable amount (determined without regard to this subparagraph) as such portion bears to the entire calendar year.
 
 #### (3) Comparable participating employees
 
@@ -74,5 +74,5 @@ Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], subst
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set outas an Effective Date of 1996 Amendment note under section 62 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under section 62 of this title.
 

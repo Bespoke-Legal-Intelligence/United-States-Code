@@ -42,7 +42,7 @@
 
 &emsp;(A) public transportation provided by a local government authority; or
 
-&emsp;(B) a solid waste rail transfer facility as defined in section 10908 of this title, except as provided under sections 10908 and 10909 of this title.
+&emsp;(B) a solid waste rail transfer facility as defined in section 10908 of this title, except asprovided under sections 10908 and 10909 of this title.
 
 (3)(A) Notwithstanding paragraph (2) of this subsection, a local governmental authority, described in paragraph (2), is subject to applicable laws of the United States related to—
 

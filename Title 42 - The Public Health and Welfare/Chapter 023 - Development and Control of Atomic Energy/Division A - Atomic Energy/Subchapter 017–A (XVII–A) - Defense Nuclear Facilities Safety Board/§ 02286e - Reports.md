@@ -14,13 +14,17 @@
 
 #### (b) DOE report
 
-The Secretary of Energy shall submit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
+The Secretary of Energy shall submit to the Committees on Armed Services, Appropriations,and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
 
 (Aug. 1, 1946, ch. 724, title I, §316, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2082; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(d), Jan. 2, 2013, 126 Stat. 2220.)
 
 #### Amendments
 
 <b>2013</b>—Subsecs. (a)(1), (b). Pub. L. 112–239 substituted "Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate" for "Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives".
+
+#### Certification of Budget Sufficiency
+
+Pub. L. 115–91, div. C, title XXXII, §3201(b), Dec. 12, 2017, 131 Stat. 1908, provided that: "Not later than 10 days after the date on which the budget of the President for fiscal year 2019 or any fiscal year thereafter is submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the Defense Nuclear Facilities Safety Board shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a letter certifying that the requested budget is sufficient to carry out the mission of the Defense Nuclear Facilities Safety Board during the fiscal year covered by the budget request."
 
 #### Reporting Requirements
 
@@ -30,7 +34,7 @@ Pub. L. 100–456, div. A, title XIV, §1441(c), (d), Sept. 29, 1988, 102 Stat. 
 
 Requirements for First Annual Report.—(1) Before submission of the first annual report by the Defense Nuclear Facilities Safety Board under section 316(a) of the Atomic Energy Act of 1954 \[subsec. (a) of this section\] (as added by subsection (a)), the Board shall conduct a study on whether nuclear facilities of the Department of Energy that are excluded from the definition of 'Department of Energy defense nuclear facility' in section 318(1)(C) of such Act \[section 2286g(1)(C) of this title\] (hereafter in this subsection referred to as 'non-defense nuclear facilities') should be subject to independent external oversight. The Board shall include in such first annual report the results of such study and the recommendation of the Board on whether non-defense nuclear facilities should be subject to independent external oversight.
 
-"(2) If the Board recommends in the report that non-defense nuclear facilities should be subject to such oversight, the report shall include a discussion of alternative mechanisms for implementing such oversight,including mechanisms such as a separate executive agency and oversight as a part of the Board's responsibilities. The discussion of alternative mechanisms of oversight also shall include considerations of budgetary costs, protection of the security of sensitive nuclear weapons information, and the similarities and differences in the design, construction, operation, and decommissioning of defense and non-defense nuclear facilities of the Department of Energy.
+"(2) If the Board recommends in the report that non-defense nuclear facilities should be subject to such oversight, the report shall include a discussion of alternative mechanisms for implementing such oversight, including mechanisms such as a separate executive agency and oversight as a part of the Board's responsibilities. The discussion of alternative mechanisms of oversight also shall include considerations of budgetary costs, protection of the security of sensitive nuclear weapons information, and the similarities and differences in the design, construction, operation, and decommissioning of defense and non-defense nuclear facilities of the Department of Energy.
 
 "(d)
 

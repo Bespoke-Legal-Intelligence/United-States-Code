@@ -48,7 +48,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (i) Critical use
 
-&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which a specific condition of use is subject to an exemption pursuant to section 2605(g) of this title, if the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to any conditions of use of the chemical substance or mixture to which the exemption does not apply.
+&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which a specific condition ofuse is subject to an exemption pursuant to section 2605(g) of this title, if the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to any conditions of use of the chemical substance or mixture to which the exemption does not apply.
 
 #### (ii) Export
 
@@ -78,7 +78,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (A) In general
 
-&emsp;&emsp;A person seeking to protect from disclosure any information that person submitsunder this chapter (including information described in paragraph (2)) shall assert to the Administrator a claim for protection from disclosure concurrent with submission of the information, in accordance with such rules regarding a claim for protection from disclosure as the Administrator has promulgated or may promulgate pursuant to this subchapter.
+&emsp;&emsp;A person seeking to protect from disclosure any information that person submits under this chapter (including information described in paragraph (2)) shall assert to the Administrator a claim for protection from disclosure concurrent with submission of the information, in accordance with such rules regarding a claim for protection from disclosure as the Administrator has promulgated or may promulgate pursuant to this subchapter.
 
 #### (B) Inclusion
 
@@ -156,7 +156,7 @@ Information described in subsection (a)—
 
 &emsp;(3) shall be disclosed if the Administrator determines that disclosure is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use;
 
-&emsp;(4) shall be disclosed to a State, political subdivision of a State, or tribal government, on written request, for the purpose of administration or enforcement of a law, if such entityhas 1 or more applicable agreements with the Administrator that are consistent with the guidance developed under subsection (c)(4)(B) and ensure that the entity will take appropriate measures, and has adequate authority, to maintain the confidentiality of the information in accordance with procedures comparable to the procedures used by the Administrator to safeguard the information;
+&emsp;(4) shall be disclosed to a State, political subdivision of a State, or tribal government, on written request, for the purpose of administration or enforcement of a law, if such entity has 1 or more applicable agreements with the Administrator that are consistent with the guidance developed under subsection (c)(4)(B) and ensure that the entity will take appropriate measures, and has adequate authority, to maintain the confidentiality of the information in accordance with procedures comparable to the procedures used by the Administrator to safeguard the information;
 
 &emsp;(5) shall be disclosed to a health or environmental professional employed by a Federal or State agency or tribal government or a treating physician or nurse in a nonemergency situation if such person provides a written statement of need and agrees to sign a written confidentiality agreement with the Administrator, subject to the conditions that—
 
@@ -222,7 +222,7 @@ Information described in subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of information other than information described in subsection (c)(2), notlater than the date that is 60 days before the expiration of the period described in paragraph (1)(B)(i), the Administrator shall provide to the person that asserted the claim a notice of the impending expiration of the period.
+&emsp;&emsp;In the case of information other than information described in subsection (c)(2), not later than the date that is 60 days before the expiration of the period described in paragraph (1)(B)(i), the Administrator shall provide to the person that asserted the claim a notice of the impending expiration of the period.
 
 #### (B) Request
 
@@ -264,7 +264,7 @@ Information described in subsection (a)—
 
 #### (2) Review required
 
-&emsp;The Administrator shall review a claim for protection of information from disclosure under this section and require any person that has claimed protection for that information, whether before, on, or after June 22, 2016, to reassert and substantiate or resubstantiate the claim in accordance with this section—
+&emsp;The Administrator shall review a claim for protection of information from disclosureunder this section and require any person that has claimed protection for that information, whether before, on, or after June 22, 2016, to reassert and substantiate or resubstantiate the claim in accordance with this section—
 
 &emsp;&emsp;(A) as necessary to determine whether the information qualifies for an exemption from disclosure in connection with a request for information received by the Administrator under section 552 of title 5;
 
@@ -302,7 +302,7 @@ Information described in subsection (a)—
 
 #### (E) Determination of requests under subsection (b)(4)(C)
 
-&emsp;&emsp;With respect to a request submitted under subsection (b)(4)(C), the Administrator shall,with the objective of ensuring that information relevant to the protection of health and the environment is disclosed to the extent practicable, determine whether the documentation provided by the person rebuts what shall be the presumption of the Administrator that the public interest in the disclosure of the information outweighs the public or proprietary interest in maintaining the protection for all or a portion of the information that the person has requested not be disclosed or for which disclosure be delayed.
+&emsp;&emsp;With respect to a request submitted under subsection (b)(4)(C), the Administrator shall, with the objective of ensuring that information relevant to the protection of health and the environment is disclosed to the extent practicable, determine whether the documentation provided by the person rebuts what shall be the presumption of the Administrator that the public interest in the disclosure of the information outweighs the public or proprietary interest in maintaining the protection for all or a portion of the information that the person has requested not be disclosed or for which disclosure be delayed.
 
 #### (2) Notification
 

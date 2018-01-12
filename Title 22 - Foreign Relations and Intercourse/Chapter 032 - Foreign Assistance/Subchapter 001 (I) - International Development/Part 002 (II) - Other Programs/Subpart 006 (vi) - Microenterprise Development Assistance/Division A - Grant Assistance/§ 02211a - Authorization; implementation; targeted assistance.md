@@ -64,7 +64,7 @@ In carrying out sustainable poverty-focused programs under subsection (a), 50 pe
 
 &emsp;&emsp;(B) can cover their costs in a reasonable time period; or
 
-&emsp;(2) demand-driven business development programs that achieve reasonable cost recovery that are provided to clients holding poverty loans (as defined by the regional poverty loan limitations in paragraph (1)(A)), whether they are provided by microfinance institutions or by specialized business development services providers.
+&emsp;(2) demand-driven business development programs that achieve reasonable cost recovery that are provided to clients holding poverty loans (as defined by the regional poverty loan limitations in paragraph (1)(A)), whether theyare provided by microfinance institutions or by specialized business development services providers.
 
 (Pub. L. 87–195, pt. I, §252, as added Pub. L. 108–484, §3, Dec. 23, 2004, 118 Stat. 3924.)
 

@@ -22,7 +22,7 @@ A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pu
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172, §11(a)(4)(A), struck out "with respect to gasoline used during thetaxable year on a farm for farming purposes" before "(determined without regard to section 6420(g))".
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172, §11(a)(4)(A), struck out "with respect to gasoline used during the taxable year on a farm for farming purposes" before "(determined without regard to section 6420(g))".
 
 Subsec. (a)(2). Pub. L. 110–172, §11(a)(4)(B), which directed striking out "with respect to gasoline used during the taxable year: (A) otherwise than as a fuel in a highway vehicle; or (B) in vehicles while engaged in furnishing certain public passenger land transportation service", was executed by striking out "with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service" before "(determined without regard to section 6421(i))", to reflect the probable intent of Congress.
 
@@ -96,7 +96,7 @@ Pub. L. 104–188, title I, §1606(c), Aug. 20, 1996, 110 Stat. 1839, provided t
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 96–223 effective on Jan. 1, 1979, see section 232(h)(2) o
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–618, title II, §233(d), Nov. 9, 1978, 92 Stat. 3192, provided that: "The amendments made by thissection \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\]."
+Pub. L. 95–618, title II, §233(d), Nov. 9, 1978, 92 Stat. 3192, provided that: "The amendments made by this section \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\]."
 
 Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub. L. 95–599, set out as a note under section 6427 of this title.
 

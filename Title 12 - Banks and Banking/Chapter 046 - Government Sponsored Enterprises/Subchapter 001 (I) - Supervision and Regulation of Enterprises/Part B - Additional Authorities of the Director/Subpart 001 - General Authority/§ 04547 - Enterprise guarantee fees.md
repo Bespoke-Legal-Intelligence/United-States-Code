@@ -42,7 +42,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Deposit in Treasury
 
-&emsp;Amounts received from fee increases imposed under this section shall be deposited directly into the United States Treasury, and shall be available only to the extent provided in subsequent appropriations Acts. The fees charged pursuant to this section shall not beconsidered a reimbursement to the Federal Government for the costs or subsidy provided to an enterprise.
+&emsp;Amounts received from fee increases imposed under this section shall be deposited directly into the United States Treasury, and shall be available only to the extent provided in subsequent appropriations Acts. The fees charged pursuant to this section shall not be considered a reimbursement to the Federal Government for the costs or subsidy provided to an enterprise.
 
 #### (c) Phase-in
 

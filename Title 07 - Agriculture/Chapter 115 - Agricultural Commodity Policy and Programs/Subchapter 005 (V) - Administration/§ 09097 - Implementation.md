@@ -2,13 +2,13 @@
 
 #### (a) Maintenance of base acres and payment yields
 
-The Secretary shall maintain, for each covered commodity and upland cotton, base acresand payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013.
+The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013.
 
 #### (b) Streamlining
 
 In implementing this chapter, the Secretary shall—
 
-&emsp;(1) reduce administrative burdens and costs to producers by streamlining and reducing paperwork, forms, and other administrative requirements, including through the implementation of the Acreage Crop Reporting and Streamlining Initiative that, in part, shall ensure that—
+&emsp;(1) reduce administrative burdens and costs to producers by streamlining and reducing paperwork, forms, and other administrative requirements, including through the implementation of the Acreage Crop Reporting andStreamlining Initiative that, in part, shall ensure that—
 
 &emsp;&emsp;(A) a producer (or an agent of a producer) may report information, electronically (including geospatial data) or conventionally, to the Department; and
 
@@ -62,7 +62,7 @@ In implementing this chapter, the Secretary shall—
 
 #### (2) Repayment
 
-&emsp;In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles <sup>2</sup> B or C that the repayment amount shall include the portion ofthe loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles <sup>2</sup> B or C and as supplemented in accordance with paragraph (1).
+&emsp;In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles <sup>2</sup> B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles <sup>2</sup> B or C and as supplemented in accordance with paragraph (1).
 
 (Pub. L. 113–79, title I, §1614, Feb. 7, 2014, 128 Stat. 711.)
 

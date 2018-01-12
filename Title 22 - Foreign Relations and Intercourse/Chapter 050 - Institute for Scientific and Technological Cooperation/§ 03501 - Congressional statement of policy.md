@@ -4,7 +4,7 @@ As declared by Congress in the Foreign Assistant <sup>1</sup> Act of 1961 \[22 
 
 In furtherance of that objective, the Congress recognizes that developing countries require extensive scientific and technological capacity in order to deal effectively with their development problems, relate to the industrialized nations, and constructively participate in the shaping of a stable world order.
 
-It is therefore in the mutual interest of the United States and the developing countries to increase scientific and technological cooperation and jointly to support long-term research on critical problems that impede development and limit the efficient use of the world's human, natural, and capital resources.
+It is therefore in the mutual interest of the United States and the developing countries toincrease scientific and technological cooperation and jointly to support long-term research on critical problems that impede development and limit the efficient use of the world's human, natural, and capital resources.
 
 (Pub. L. 96–53, title IV, §401, Aug. 14, 1979, 93 Stat. 371.)
 
@@ -14,7 +14,7 @@ The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Se
 
 #### Effective Date
 
-Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Assistance".</i>
 

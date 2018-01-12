@@ -68,7 +68,7 @@ Voluntary Separation Incentive Payments.—(1) In this subsection, the term 'emp
 
 "(2) Notwithstanding any other provision of law, in order to avoid or minimize the need for involuntary separations due to a reduction in force, reorganization, transfer of function, or other similar action affecting the agency, the Director of the Government Publishing Office shall establish a program under which voluntary separation incentive payments may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation) during the period beginning on the date of the enactment of this Act \[Oct. 21, 1998\] through September 30, 2004.
 
-"(3) Such voluntary separation incentive payments shall be paid in accordance with the provisions of section 5597(d) of title 5, United States Code. Any suchpayment shall not be a basis of payment, and shall not be included in the computation, of any other type of Government benefit.
+"(3) Such voluntary separation incentive payments shall be paid in accordance with the provisions of section 5597(d) of title 5, United States Code. Any such payment shall not be a basis of payment, and shall not be included in the computation, of any other type of Government benefit.
 
 "(4)(A) Not later than January 15, 1999, the Director of the Government Publishing Office shall submit a plan described under subparagraph (C) to the Joint Committee on Printing (or any applicable successor committees).
 

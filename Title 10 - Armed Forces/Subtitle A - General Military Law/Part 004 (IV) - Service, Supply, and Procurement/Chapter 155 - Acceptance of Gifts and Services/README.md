@@ -47,7 +47,7 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 
 <b>1994</b>—Pub. L. 103–337, div. A, title III, §353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted "schools" for "education system" in item 2605.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title II, §242(f)(2), title XI, §1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted "; Defense Cooperation Account" in item 2608 and added item 2609.
+<b>1993</b>—Pub. L. 103–160, div. A, title II, §242(f)(2), title XI, §1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted"; Defense Cooperation Account" in item 2608 and added item 2609.
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(15), Dec. 5, 1991, 105 Stat. 1473, struck out "and services" after "contributions" in item 2608.
 

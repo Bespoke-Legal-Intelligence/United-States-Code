@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
 
-&emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of theUnited States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
+&emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of the United States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
 
 &emsp;&emsp;(E) the nation in whose armed forces the sender is a member has agreed to assume all international postal transportation charges incurred.
 
@@ -36,7 +36,7 @@
 
 &emsp;(2) parcels not exceeding 70 pounds in weight and the maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), which are mailed at any such Armed Forces post office; and
 
-&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding the maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
+&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceedingthe maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
 
 (c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air.
 
@@ -60,7 +60,7 @@
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted "or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title" for "at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49", struck out "at rates not to exceed those so fixed and determined for scheduled United States air carriers" after "military aircraft", and substituted "certificated" for "scheduled" wherever appearing.
 
-Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end "If adequate service by certificated United Statesair carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.".
+Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end "If adequate service by certificated United States air carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.".
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted "or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title" for "at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49", struck out "at rates not to exceed those so fixed and determined for scheduled United States air carriers" after "military aircraft", and substituted "certificated" for "scheduled" wherever appearing.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date
 
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Operation Desert Shield
 

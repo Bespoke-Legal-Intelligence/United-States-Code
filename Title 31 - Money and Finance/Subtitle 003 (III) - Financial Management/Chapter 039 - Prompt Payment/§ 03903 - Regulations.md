@@ -104,7 +104,7 @@ Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated s
 
 Subsec. (a)(2). Pub. L. 100–496, §13(a), included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
 
-Subsec. (a)(4). Pub. L. 100–496, §4, amended par. (4) generally. Prior to amendment, par. (4) read as follows: "provide separate required payment dates for a contract under which property or service is provided in a series of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and".
+Subsec. (a)(4). Pub. L. 100–496, §4, amended par. (4) generally. Prior to amendment, par. (4) read as follows: "provide separate required payment dates for a contract under which property or service is provided in aseries of partial executions or deliveries to the extent the contract provides for separate payments for partial execution or delivery; and".
 
 Subsec. (a)(5). Pub. L. 100–496, §5(2), added par. (5). Former par. (5) redesignated (7).
 

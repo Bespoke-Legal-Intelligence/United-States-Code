@@ -30,5 +30,5 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Guidelines for Acceptance of Audits by State and Local Governments Receiving Federal Assistance
 
-Pub. L. 104–201, div. A, title VIII, §808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: "The Director of the Office of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs."
+Pub. L. 104–201, div. A, title VIII, §808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: "The Director of theOffice of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs."
 

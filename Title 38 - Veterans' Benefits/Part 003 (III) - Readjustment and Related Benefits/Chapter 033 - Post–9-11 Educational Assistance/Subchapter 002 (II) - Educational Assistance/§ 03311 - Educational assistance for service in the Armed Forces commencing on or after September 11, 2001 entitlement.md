@@ -32,7 +32,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(i) continues on active duty for an aggregate of less than 36 months; or
 
-&emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 36 months, isdischarged or released from active duty as described in subsection (c).
+&emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 36 months, is discharged or released from active duty as described in subsection (c).
 
 &emsp;(4) An individual who—
 
@@ -122,7 +122,7 @@ Prohibition on Treatment of Certain Service as Period of Active Duty.—The foll
 
 (e)
 
-Treatment of Individuals Entitled Under Multiple Provisions.—In the event anindividual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
+Treatment of Individuals Entitled Under Multiple Provisions.—In the event an individual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
 
 (f)
 
@@ -142,7 +142,7 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), asurviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
@@ -164,13 +164,51 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–48, title I, §102(a), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (b) of this section is amended by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c)."</i>
+
+<i>Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—</i>
+
+<i>(1) in subsection (b)—</i>
+
+<i>(A) in paragraph (6)(A), by striking "12 months" and inserting "6 months";</i>
+
+<i>(B) by striking paragraph (7); and</i>
+
+<i>(C) by redesignating paragraphs (8), (9), and (10) as paragraphs (7), (8), and (9), respectively; and</i>
+
+<i>(2) in subsection (f), by striking "paragraph (9)" each place it appears and inserting "paragraph (8)".</i>
+
+<i>See 2017 Amendment notes below.</i>
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(6)(A). Pub. L. 115–48, §105(a)(1), substituted "6 months" for "12 months".
+
+Subsec. (b)(7) to (9). Pub. L. 115–48, §105(a)(2), (3), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: "An individual who—
+
+&emsp;"(A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 12 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+
+&emsp;"(B) after completion of service described in subparagraph (A)—
+
+&emsp;&emsp;"(i) continues on active duty for an aggregate of less than 12 months; or
+
+&emsp;&emsp;"(ii) before completion of service on active duty of an aggregate of 12 months, is discharged or released from active duty as described in subsection (c)."
+
+Subsec. (b)(10). Pub. L. 115–48, §105(a)(3), redesignated par. (10) as (9).
+
+Pub. L. 115–48, §102(a), added par. (10).
+
+Subsec. (f). Pub. L. 115–48, §105(c)(1), substituted "paragraph (8)" for "paragraph (9)" wherever appearing.
 
 <b>2016</b>—Subsec. (f)(3). Pub. L. 114–315, §401(b)(1), substituted "Except as provided in paragraph (4), a surviving spouse" for "A surviving spouse".
 
@@ -189,6 +227,12 @@ Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted "or section 182 of title 1
 <b>2009</b>—Subsec. (b)(9). Pub. L. 111–32, §1002(a)(1), added par. (9).
 
 Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
+
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–48, title I, §102(c), Aug. 16, 2017, 131 Stat. 975, provided that: "The amendments made by this section \[amending this section and section 3313 of this title\] shall take effect on August 1, 2018."
+
+Pub. L. 115–48, title I, §105(d), Aug. 16, 2017, 131 Stat. 977, provided that: "The amendments made by this section \[amending this section and sections 3313, 3316, 3317, 3321, 3322, and 3679 of this title\] shall take effect on August 1, 2020."
 
 #### Effective Date of 2014 Amendment
 
@@ -225,4 +269,12 @@ Effective date.—The amendments made by this section \[amending this section an
 "(2)
 
 Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of section 3311(b) of title 38, United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010."
+
+#### Effective Date
+
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+
+#### Construction of Covered Individuals
+
+Pub. L. 115–48, title I, §106(c), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3311(b)(6) of title 38, United States Code, shall be construed to include an individual who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(b) of such title, but lost such eligibility pursuant to section 16167(b) of such title."
 

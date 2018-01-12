@@ -10,7 +10,7 @@ The compensation fund shall consist of the following amounts:
 
 &emsp;(1) Amounts appropriated to the compensation fund pursuant to the authorization of appropriations in section 7384g(b) of this title.
 
-&emsp;(2) Amounts transferred to the compensation fund under subsection (c) of this section.
+&emsp;(2) Amounts transferred to the compensation fund under subsection (c).
 
 #### (c) Financing of compensation fund
 
@@ -18,7 +18,7 @@ Upon the exhaustion of amounts in the compensation fund attributable to the auth
 
 #### (d) Use of compensation fund
 
-Subject to subsection (e) of this section, amounts in the compensation fund shall be used to carry out the compensation program.
+Subject to subsection (e), amounts in the compensation fund shall be used to carry out the compensation program.
 
 #### (e) Administrative costs not paid from compensation fund
 
@@ -26,7 +26,7 @@ No cost incurred in carrying out the compensation program, or in administering t
 
 #### (f) Investment of amounts in compensation fund
 
-Amounts in the compensation fund shall be invested in accordance with section 9702 of title 31,and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
+Amounts in the compensation fund shall be invested in accordance with section 9702 of title 31, and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3612\], Oct. 30, 2000, 114 Stat. 1654, 1654A–497.)
 

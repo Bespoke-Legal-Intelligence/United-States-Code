@@ -8,7 +8,7 @@
 
 (d) In reviewing a fee agreement under subsection (c) of this section or under section 5904(c)(2) of this title, the Court may affirm the finding or order of the Board and may order a reduction in the fee called for in the agreement if it finds that the fee is excessive or unreasonable. An order of the Court under this subsection is final and may not be reviewed in any other court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4063; renumbered §7263 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4063; renumbered §7263 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239;Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ In addition to other requirements imposed in this title and in this chapter upon
 
 &emsp;(2) conduct the biennial election of a Committee of Blind Vendors who shall be fully representative of all blind licensees in the State program,<sup>1</sup> and
 
-&emsp;(3) insure that such committee's responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receiving grievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation, with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
+&emsp;(3) insure that such committee's responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receiving grievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation,with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
 
 (Pub. L. 93–516, title II, §209, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, §209, Nov. 21, 1974, 89 Stat. 2–15.)
 
@@ -20,7 +20,7 @@ Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and
 
 The content of Pub. L. 93–516, including provisions of section 209 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed tohave become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §209, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §209, Nov. 21, 1974, 89 Stat. 2–15, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

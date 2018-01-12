@@ -32,7 +32,7 @@ Use of Donated Travel Benefits.—A travel benefit accepted under this section m
 
 Administration.—(1) The Secretary shall designate a single office in the Department of Defense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
 
-(2) For the use of travel benefits under subsection (d)(2) by family members of a member of the armed forces, the Secretary may, as the Secretary determines appropriate, limit—
+(2) For the use of travel benefits under subsection (d)(2) by family members of a member ofthe armed forces, the Secretary may, as the Secretary determines appropriate, limit—
 
 &emsp;(A) eligibility to family members who, by reason of affinity, degree of consanguinity, or otherwise, are sufficiently close in relationship to the member of the armed forces to justify the travel assistance;
 

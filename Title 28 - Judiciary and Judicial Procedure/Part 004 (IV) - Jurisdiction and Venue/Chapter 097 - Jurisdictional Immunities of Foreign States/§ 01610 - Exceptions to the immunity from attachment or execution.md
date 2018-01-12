@@ -1,6 +1,6 @@
 ### §1610. Exceptions to the immunity from attachment or execution
 
-(a) The property in the United States of a foreign state, as defined in section 1603(a) of this chapter, used for a commercial activity in the United States, shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
+(a) The property in the United States of a foreign state, as defined in section 1603(a) of thischapter, used for a commercial activity in the United States, shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
 &emsp;(1) the foreign state has waived its immunity from attachment in aid of execution or from execution either explicitly or by implication, notwithstanding any withdrawal of the waiver the foreign state may purport to effect except in accordance with the terms of the waiver, or
 
@@ -42,7 +42,7 @@
 
 (B) Subparagraph (A) shall not apply if, at the time the property is expropriated or seized by the foreign state, the property has been held in title by a natural person or, if held in trust, has been held for the benefit of a natural person or persons.
 
-(2)(A) At the request of any party in whose favor a judgment has been issued with respect to a claim for which the foreign state is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A, the Secretary of the Treasury and the Secretary of State should make every effort to fully, promptly, and effectively assist any judgment creditor or any court that has issued any such judgment in identifying, locating, and executing against the property of that foreign state or any agency or instrumentality of such state.
+(2)(A) At the request of any party in whose favor a judgment has been issued with respect to a claim for which the foreign state is not immune under section 1605(a)(7) (as in effect beforethe enactment of section 1605A) or section 1605A, the Secretary of the Treasury and the Secretary of State should make every effort to fully, promptly, and effectively assist any judgment creditor or any court that has issued any such judgment in identifying, locating, and executing against the property of that foreign state or any agency or instrumentality of such state.
 
 (B) In providing such assistance, the Secretaries—
 
@@ -130,7 +130,7 @@ For applicability of amendments by Pub. L. 110–181 to pending cases, see secti
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(h) \[title I, §117(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1606 of this title\] shall apply to any claim for which a foreign state is not immune under section 1605(a)(7) of title 28, United States Code, arising before, on, or after the date of enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–277, div. A, §101(h) \[title I, §117(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491, provided that: "Theamendments made by subsections (a) and (b) \[amending this section and section 1606 of this title\] shall apply to any claim for which a foreign state is not immune under section 1605(a)(7) of title 28, United States Code, arising before, on, or after the date of enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -139,6 +139,10 @@ Amendment by Pub. L. 104–132 applicable to any cause of action arising before,
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–640 applicable to actions commenced on or after Nov. 9, 1988, see section 3 of Pub. L. 100–640, set out as a note under section 1605 of this title.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
 #### Satisfaction of Judgments From Blocked Assets of Terrorists, Terrorist Organizations, and State Sponsors of Terrorism
 
@@ -184,7 +188,7 @@ Blocked asset.—The term 'blocked asset' means—
 
 &emsp;&emsp;"(B) does not include property that—
 
-&emsp;&emsp;&emsp;"(i) is subject to a license issued by the United States Government for final payment, transfer, or disposition by or to a person subject to the jurisdiction of the United States in connection with a transaction for which the issuance of such license has been specifically required by statute other than the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the UnitedNations Participation Act of 1945 (22 U.S.C. 287 et seq.); or
+&emsp;&emsp;&emsp;"(i) is subject to a license issued by the United States Government for final payment, transfer, or disposition by or to a person subject to the jurisdiction of the United States in connection with a transaction for which the issuance of such license has been specifically required by statute other than the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the United Nations Participation Act of 1945 (22 U.S.C. 287 et seq.); or
 
 &emsp;&emsp;&emsp;"(ii) in the case of property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoys equivalent privileges and immunities under the law of the United States, is being used exclusively for diplomatic or consular purposes.
 
@@ -208,7 +212,7 @@ Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, "Victims of Trafficking and Violence Protection Act of 2000," (approved October 28, 2000) \[section 2002(g) of Pub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a note above\], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\] \[now 50 U.S.C. 4305(b)\], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the "Victim's of Trafficking and Violence Protection Act of 2000," I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, amending section 1606 of this title\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and section 1606 of this title\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, "Victims of Trafficking and Violence Protection Act of 2000," (approved October 28, 2000) \[section 2002(g) of Pub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a noteabove\], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\] \[now 50 U.S.C. 4305(b)\], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the "Victim's of Trafficking and Violence Protection Act of 2000," I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, amending section 1606 of this title\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and section 1606 of this title\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
 
 The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 

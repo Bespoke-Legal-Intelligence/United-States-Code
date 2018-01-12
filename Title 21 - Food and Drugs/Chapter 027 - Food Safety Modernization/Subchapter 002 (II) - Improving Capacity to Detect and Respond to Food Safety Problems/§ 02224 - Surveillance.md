@@ -90,7 +90,7 @@ The Secretary, referred to in subsecs. (b) and (c)(1), (2)(D), probably means th
 
 #### Codification
 
-Section is comprised of section 205 of Pub. L. 111–353. Subsec. (d) of section 205 of Pub. L. 111–353 amended section 247b–20 of Title 42, The Public Health and Welfare.
+Section is comprised of section 205 of Pub. L. 111–353. Subsec. (d) of section 205 of Pub. L. 111–353 amendedsection 247b–20 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

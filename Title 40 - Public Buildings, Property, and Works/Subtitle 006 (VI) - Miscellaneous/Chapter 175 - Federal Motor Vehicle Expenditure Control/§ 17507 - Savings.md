@@ -6,7 +6,7 @@ Actions by President Required.—The President shall establish, for each executi
 
 (b)
 
-Monitoring of Compliance.—The Director of the Office of Management and Budget shall monitor compliance by executive agencies withthe goals established by the President under subsection (a) and shall include, in each summary and analysis required under section 17505 of this title, a statement specifying the reductions in expenditures by executive agencies, including the Department of Defense, achieved under those goals.
+Monitoring of Compliance.—The Director of the Office of Management and Budget shall monitor compliance by executive agencies with the goals established by the President under subsection (a) and shall include, in each summary and analysis required under section 17505 of this title, a statement specifying the reductions in expenditures by executive agencies, including the Department of Defense, achieved under those goals.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1285.)
 

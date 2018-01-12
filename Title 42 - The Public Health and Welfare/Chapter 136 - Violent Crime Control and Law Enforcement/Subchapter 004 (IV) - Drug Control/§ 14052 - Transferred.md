@@ -1,0 +1,6 @@
+### §14052. Transferred
+
+#### Codification
+
+Section 14052 was editorially reclassified as section 12522 of Title 34, Crime Control and Law Enforcement.
+

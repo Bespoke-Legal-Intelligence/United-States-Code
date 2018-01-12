@@ -1,6 +1,6 @@
 ### §§2371a to 2371f. Repealed. Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411
 
-Section 2371a, Pub. L. 93–618, title II, §272, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123Stat. 401, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, related to establishment of trade adjustment assistance for communities program.
+Section 2371a, Pub. L. 93–618, title II, §272, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, related to establishment of trade adjustment assistance for communities program.
 
 Section 2371b, Pub. L. 93–618, title II, §273, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, related to eligibility for assistance and required notifications.
 

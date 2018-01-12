@@ -20,7 +20,7 @@ Any natural resource management authority of a State or other government authori
 
 #### (d) Geographic and biological diversity
 
-The Administrator shall ensure that funding for grants awarded under subsection (b) during afiscal year are distributed in the following manner:
+The Administrator shall ensure that funding for grants awarded under subsection (b) during a fiscal year are distributed in the following manner:
 
 &emsp;(1) No less than 40 percent of funds available shall be awarded for coral conservation projects in the Pacific Ocean within the maritime areas and zones subject to the jurisdiction or control of the United States.
 

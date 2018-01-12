@@ -16,7 +16,7 @@ The Commission shall issue regulations to prohibit the privilege of dual trading
 
 #### (b) "Dual trading" defined
 
-As used in this section, the term "dual trading" means the execution of customer orders bya floor broker during the same trading session in which the floor broker executes any trade in the same contract market or registered derivatives transaction execution facility for—
+As used in this section, the term "dual trading" means the execution of customer orders by a floor broker during the same trading session in which the floor broker executes any trade in the same contract market or registered derivatives transaction execution facility for—
 
 &emsp;(1) the account of such floor broker;
 

@@ -4,7 +4,7 @@
 
 #### (1) Initial alerts
 
-&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personalrepresentative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
+&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
 
 &emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 90 days, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
 
@@ -92,7 +92,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (A) Notification
 
-&emsp;&emsp;Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
+&emsp;&emsp;Each extended alert under this section shall include information that provides allprospective users of a consumer report relating to a consumer with—
 
 &emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 

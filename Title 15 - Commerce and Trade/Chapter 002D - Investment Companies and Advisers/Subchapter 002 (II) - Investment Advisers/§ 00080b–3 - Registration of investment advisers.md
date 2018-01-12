@@ -32,7 +32,7 @@ The provisions of subsection (a) shall not apply to—
 
 &emsp;(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.<sup>1</sup>
 
-&emsp;(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
+&emsp;(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development companypursuant to section 80a–53 of this title, who solely advises—
 
 &emsp;&emsp;(A) small business investment companies that are licensees under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
@@ -42,7 +42,7 @@ The provisions of subsection (a) shall not apply to—
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration
 
-(1) An investment adviser, or any person who presently contemplates becoming an investmentadviser, may be registered by filing with the Commission an application for registration in such form and containing such of the following information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors:
+(1) An investment adviser, or any person who presently contemplates becoming an investment adviser, may be registered by filing with the Commission an application for registration in such form and containing such of the following information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors:
 
 &emsp;(A) the name and form of organization under which the investment adviser engages or intends to engage in business; the name of the State or other sovereign power under which such investment adviser is organized; the location of his or its principal office, principal place of business, and branch offices, if any; the names and addresses of his or its partners, officers, directors, and persons performing similar functions or, if such an investment adviser be an individual, of such individual; and the number of his or its employees;
 
@@ -76,13 +76,13 @@ Any provision of this subchapter (other than subsection (a) of this section) whi
 
 The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of any investment adviser if it finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or revocation is in the public interest and that such investment adviser, or any person associated with such investment adviser, whether prior to or subsequent to becoming so associated—
 
-&emsp;(1) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein.
+&emsp;(1) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was at the time and in the light of the circumstances under which it was made false or misleadingwith respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein.
 
 &emsp;(2) has been convicted within ten years preceding the filing of any application for registration or at any time thereafter of any felony or misdemeanor or of a substantially equivalent crime by a foreign court of competent jurisdiction which the Commission finds—
 
 &emsp;&emsp;(A) involves the purchase or sale of any security, the taking of a false oath, the making of a false report, bribery, perjury, burglary, any substantially equivalent activity however denominated by the laws of the relevant foreign government, or conspiracy to commit any such offense;
 
-&emsp;&emsp;(B) arises out of the conduct of the business of a broker, dealer, municipal securities dealer, investment adviser, bank, insurance company, government securities broker, government securities dealer, fiduciary, transfer agent, credit rating agency, foreign person performing a function substantiallyequivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or any substantially equivalent statute or regulation;
+&emsp;&emsp;(B) arises out of the conduct of the business of a broker, dealer, municipal securities dealer, investment adviser, bank, insurance company, government securities broker, government securities dealer, fiduciary, transfer agent, credit rating agency, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or any substantially equivalent statute or regulation;
 
 &emsp;&emsp;(C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
@@ -112,7 +112,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>3</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to therules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>3</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
 &emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
@@ -164,7 +164,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (B) Second tier
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if theact or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;&emsp;Notwithstanding subparagraph (A), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (C) Third tier
 
@@ -212,7 +212,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstandingsection 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (B) Applicability
 
@@ -268,7 +268,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (3) Advisers of SBICS
 
-&emsp;For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulatedas a business development company pursuant to section 80a–53 of this title) shall be excluded from the limit set forth in paragraph (1).
+&emsp;For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title) shall be excluded from the limit set forth in paragraph (1).
 
 #### (n) Registration and examination of mid-sized private fund advisers
 

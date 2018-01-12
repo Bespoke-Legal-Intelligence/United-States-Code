@@ -44,7 +44,7 @@
 
 &emsp;(A) the Board shall render its decision within 30 days;
 
-&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, except that in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
+&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, exceptthat in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
 
 &emsp;(C) for proposed subsidies, the Board shall establish the compensation as the difference between the revenues attributable to that part of the railroad line and the avoidable cost of providing rail freight transportation on the line, plus a reasonable return on the value of the line.
 

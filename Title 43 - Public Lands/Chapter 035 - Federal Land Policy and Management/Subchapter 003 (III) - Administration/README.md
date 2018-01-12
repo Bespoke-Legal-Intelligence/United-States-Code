@@ -27,3 +27,4 @@
 - [&sect; 01748 - Funding requirements](%C2%A7%2001748%20-%20Funding%20requirements.md)
 - [&sect; 01748a - FLAME Wildfire Suppression Reserve Funds](%C2%A7%2001748a%20-%20FLAME%20Wildfire%20Suppression%20Reserve%20Funds.md)
 - [&sect; 01748b - Cohesive wildfire management strategy](%C2%A7%2001748b%20-%20Cohesive%20wildfire%20management%20strategy.md)
+- [&sect; 01748c - Bureau of Land Management Foundation](%C2%A7%2001748c%20-%20Bureau%20of%20Land%20Management%20Foundation.md)

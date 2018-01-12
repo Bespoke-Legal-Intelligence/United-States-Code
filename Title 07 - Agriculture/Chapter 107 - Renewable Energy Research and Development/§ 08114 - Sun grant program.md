@@ -80,7 +80,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 &emsp;&emsp;A sun grant center or subcenter shall use 75 percent of the funds described in subsection (b) to provide competitive grants to entities that are—
 
-&emsp;&emsp;&emsp;(i) eligible to receive grants under subsection (b)(7) of section 450i of this title; and
+&emsp;&emsp;&emsp;(i) eligible to receive grants under subsection (b)(7) of section 3157 of this title; and
 
 &emsp;&emsp;&emsp;(ii) located in the region covered by the sun grant center or subcenter.
 
@@ -140,7 +140,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (3) Research, extension and educational activities
 
-&emsp;The sun grant centers and subcenter shall use the remainder of the funds described insubsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
+&emsp;The sun grant centers and subcenter shall use the remainder of the funds described in subsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
 
 &emsp;&emsp;(A) research, extension, and educational programs on technology development; and
 

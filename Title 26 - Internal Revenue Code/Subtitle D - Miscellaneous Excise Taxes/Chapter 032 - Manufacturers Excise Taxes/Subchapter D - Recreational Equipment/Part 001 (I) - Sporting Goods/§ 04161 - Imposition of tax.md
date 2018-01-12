@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting "2004" for "1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting "2004" for "2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Rounding
 
@@ -80,13 +80,15 @@
 
 &emsp;No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, §503(a), Oct. 3, 2008, 122 Stat. 3877.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub.L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, §503(a), Oct. 3, 2008, 122 Stat. 3877; Pub. L. 115–97, title I, §11002(d)(11), Dec. 22, 2017, 131 Stat. 2062.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(C)(i)(II). Pub. L. 115–97 substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
 <b>2008</b>—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -136,6 +138,10 @@ Subsec. (b). Pub. L. 92–558, §201(a)(2), added subsec. (b).
 
 <b>1965</b>—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–343, div. C, title V, §503(b), Oct. 3, 2008, 122 Stat. 3877, provided that: "The amendments made by this section \[amending this section\] shall apply to shafts first sold after the date of enactment of this Act \[Oct. 3, 2008\]."
@@ -160,7 +166,7 @@ Pub. L. 105–34, title XIV, §1433(b), Aug. 5, 1997, 111 Stat. 1052, provided t
 
 Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
-Pub. L. 98–369, div. A, title X, §1017(c), July 18, 1984, 98 Stat. 1021, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984."
+Pub. L. 98–369, div. A, title X, §1017(c), July 18, 1984, 98 Stat. 1021, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984."
 
 #### Effective Date of 1972 Amendment
 

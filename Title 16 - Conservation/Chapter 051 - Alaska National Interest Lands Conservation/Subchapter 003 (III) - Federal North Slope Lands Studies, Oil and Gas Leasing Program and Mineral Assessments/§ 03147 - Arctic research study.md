@@ -12,7 +12,7 @@ The Secretaries shall assess the future use of NARL in—
 
 &emsp;(2) assessing the impact of oil and gas exploration, development, and transportation on the Arctic environment, including impact on fish, marine and land mammals, and migratory waterfowl;
 
-&emsp;(3) developing advanced design technologies, operational practices, and transportation systems to improve the environmental safety and efficiency of oil and gas exploration and production in the Arctic, including offshore activities;
+&emsp;(3) developing advanced design technologies, operational practices, and transportation systems to improve the environmental safety andefficiency of oil and gas exploration and production in the Arctic, including offshore activities;
 
 &emsp;(4) enlarging the body of knowledge on Arctic ice conditions and developing practical and efficient means of dealing with potential oil spills and other hazards associated with resource development in Alaska's Arctic; and
 

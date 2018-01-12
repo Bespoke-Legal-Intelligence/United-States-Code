@@ -8,7 +8,7 @@ Ordering Restrictions and Prohibitions.—(1) If, through testing, inspection, i
 
 (b)
 
-Review of Orders.—After issuing an order under this section, the Secretary shall providean opportunity for review of the order under section 554 of title 5. If a petition for review is filed and the review is not completed by the end of the 30-day period beginning on the date the order was issued, the order stops being effective at the end of that period unless the Secretary decides in writing that the emergency situation still exists.
+Review of Orders.—After issuing an order under this section, the Secretary shall provide an opportunity for review of the order under section 554 of title 5. If a petition for review is filed and the review is not completed by the end of the 30-day period beginning on the date the order was issued, the order stops being effective at the end of that period unless the Secretary decides in writing that the emergency situation still exists.
 
 (c)
 

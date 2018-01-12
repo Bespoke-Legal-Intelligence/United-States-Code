@@ -96,7 +96,7 @@ Subsec. (b)(1)(A). Pub. L. 107–14, §4(c)(3), inserted "(to insure against dea
 
 Subsec. (b)(3). Pub. L. 107–14, §4(f), added par. (3).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted "subparagraph (B) or (C) of section 1965(5) of this title" for "section 1965(5)(B) of this title" in introductory provisions and par. (4).
+<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted "subparagraph (B) or (C) of section 1965(5) of this title" for"section 1965(5)(B) of this title" in introductory provisions and par. (4).
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, §647(b). See 1996 Amendment note below.
 

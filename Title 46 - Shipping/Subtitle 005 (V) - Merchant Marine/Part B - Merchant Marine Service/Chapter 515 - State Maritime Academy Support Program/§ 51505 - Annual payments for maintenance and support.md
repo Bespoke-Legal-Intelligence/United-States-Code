@@ -24,7 +24,7 @@ Maximum.—The amount under paragraph (1) may not be more than $25,000. However,
 
 &emsp;&emsp;(B) $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1578; Pub. L. 109–163, div. C, title XXXV, §3502(a), Jan. 6, 2006, 119 Stat. 3547; Pub. L. 110–181, div. C, title XXXV, §3523(a)(3), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1578; Pub. L. 109–163, div. C, title XXXV, §3502(a), Jan.6, 2006, 119 Stat. 3547; Pub. L. 110–181, div. C, title XXXV, §3523(a)(3), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,9 @@
 
 (a)
 
-Requirement for Plan.—The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
+Requirement for Plan.—(1) The Secretary of Defense shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
+
+(2) The Secretary may satisfy the requirement under paragraph (1) by entering into an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (b) to enroll in an insurance plan under chapter 89A of title 5 that provides benefits similar to those benefits required to be provided under subsection (d).
 
 (b)
 
@@ -100,17 +102,9 @@ Definitions.—In this section:
 
 (Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, §1 \[\[div. A\], title VII, §726, title X, §1087(a)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290; Pub. L. 114–328, div. A, title VII, §715(b)(3), Dec. 23, 2016, 130 Stat. 2222.)
 
-#### Amendment of Subsection (a)
+#### Applicability of Amendment
 
-<i>Pub. L. 114–328, div. A, title VII, §715(b)(3), (c), Dec. 23, 2016, 130 Stat. 2222, 2223, provided that, applicable with respect to the first contract year for chapter 89A or 89B of Title 5, Government Organization and Employees, as applicable, that begins on or after Jan. 1, 2018, subsection (a) is amended to read as follows:</i>
-
-<i>(a)</i>
-
-<i>Requirement for Plan.—(1) The Secretary of Defense shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.</i>
-
-<i>(2) The Secretary may satisfy the requirement under paragraph (1) by entering into an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (b) to enroll in an insurance plan under chapter 89A of title 5 that provides benefits similar to those benefits required to be provided under subsection (d).</i>
-
-<i>See 2016 Amendment note below.</i>
+<i>Amendment of section by section 715(b)(3) of Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of Title 5, Government Organization and Employees, as applicable, that begins on or after Jan. 1, 2018. See 2016 Amendment note below.</i>
 
 #### Amendments
 
@@ -142,7 +136,7 @@ Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted "other administering Sec
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of Title 5, Government Organization and Employees, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of Title 5.
 
 #### Limitation on Implementation of Alternative Collection Procedures
 

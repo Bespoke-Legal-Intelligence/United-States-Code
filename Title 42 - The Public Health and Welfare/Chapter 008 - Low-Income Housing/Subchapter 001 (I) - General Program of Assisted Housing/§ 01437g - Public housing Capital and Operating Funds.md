@@ -24,7 +24,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (A) Capital Fund
 
-&emsp;&emsp;For allocations of assistance from the Capital Fund, $3,000,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+&emsp;&emsp;For allocations of assistance from the Capital Fund, $3,000,000,000 for fiscal year 1999,and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
 
 #### (B) Operating Fund
 
@@ -112,7 +112,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(H) the costs of administering a public housing work program under section 1437j of this title, including the costs of any related insurance needs;
 
-&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to suchreasonable requirements as the Secretary may establish;
+&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to such reasonable requirements as the Secretary may establish;
 
 &emsp;&emsp;(J) the costs associated with the operation and management of mixed finance projects, to the extent appropriate; and
 
@@ -158,7 +158,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (iv) Existing contracts
 
-&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
+&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not morethan 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
 
 #### (3) Condition on use
 
@@ -178,7 +178,7 @@ The formulas under subsections (d)(2) and (e)(2) shall be developed according to
 
 #### (B) Flexibility for Operating Fund amounts
 
-&emsp;&emsp;Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter thatare allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
+&emsp;&emsp;Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter that are allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
 
 #### (2) Full flexibility for small PHAs
 
@@ -304,7 +304,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (B) Enforcement
 
-&emsp;&emsp;The Secretary shall enforce the requirement of subparagraph (A) through default remedies up to and including withdrawal of the funding.
+&emsp;&emsp;The Secretary shall enforce the requirement of subparagraph (A) through defaultremedies up to and including withdrawal of the funding.
 
 #### (6) Right of recapture
 
@@ -378,7 +378,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, titleII, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866; Pub. L. 114–201, title I, §§109, 111, July 29, 2016, 130 Stat. 801, 803.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866; Pub. L. 114–201, title I, §§109, 111, July 29, 2016, 130 Stat. 801, 803.)
 
 #### References in Text
 
@@ -426,7 +426,7 @@ Subsec. (a)(3)(B)(i). Pub. L. 104–134 struck out "for a period not to exceed 6
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–233 added par. (4).
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted "this clause" for "this subparagraph", inserted reference to section 8011 of this title and a period after "section 8013 of this title", and added cl. (ii).
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignatedformer cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted "this clause" for "this subparagraph", inserted reference to section 8011 of this title and a period after "section 8013 of this title", and added cl. (ii).
 
 Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end "Notwithstanding sections 583(a) and 585(a) of title 5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations."
 
@@ -504,7 +504,7 @@ Transitional Provision of Assistance.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437l\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
+In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437l\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sectionsshall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
 
 &emsp;"(2)
 
@@ -514,7 +514,7 @@ Qualifications.—Before the implementation of formulas pursuant to sections 9(d
 
 &emsp;&emsp;"(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not take into account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
 
-&emsp;&emsp;"(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributionsfor the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
+&emsp;&emsp;"(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
 
 "(f)
 
@@ -556,9 +556,11 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in par
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 114–113, div. L, title II, §219, Dec. 18, 2015, 129 Stat. 2893, provided that: "With respect to the use of amounts provided in this Act \[div. L of Pub. L. 114–113, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
+Pub. L. 115–31, div. K, title II, §218, May 5, 2017, 131 Stat. 784, provided that: "With respect to the use of amounts provided in this Act \[div. K of Pub. L. 115–31, see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d) and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2)."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. L, title II, §219, Dec. 18, 2015, 129 Stat. 2893.
 
 Pub. L. 113–235, div. K, title II, §219, Dec. 16, 2014, 128 Stat. 2753.
 
@@ -598,7 +600,7 @@ Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided
 
 #### Applicability of Penalties for Slow Expenditure of Capital Funds
 
-Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretaryof Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
 
 public housing capital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
 

@@ -24,7 +24,7 @@ Exception.—The Secretary of the Army may use funds appropriated to the Departm
 
 (c)
 
-Coproduction Agreements.—An agreement under this subsection shall be in the form of a Government-to-Government Memorandum of Understanding and shall include provisions that—
+Coproduction Agreements.—An agreement under this subsection shall be in the formof a Government-to-Government Memorandum of Understanding and shall include provisions that—
 
 &emsp;(1) prescribe the content of the technical data package or assistance to be transferred to the foreign country participating in the agreement;
 
@@ -106,7 +106,7 @@ Subsecs. (g), (h). Pub. L. 101–189, §806(b)(1), redesignated subsecs. (e) and
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title IX, §9036(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, §101(c) \[title IX, §9036(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, §1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: "Section 4542 of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986."
+Pub. L. 99–500, §101(c) \[title IX, §9036(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, §101(c) \[title IX, §9036(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, §1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: "Section 4542 of title 10, United States Code, as added by subsection (a), shallapply with respect to funds appropriated for fiscal years after fiscal year 1986."
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 

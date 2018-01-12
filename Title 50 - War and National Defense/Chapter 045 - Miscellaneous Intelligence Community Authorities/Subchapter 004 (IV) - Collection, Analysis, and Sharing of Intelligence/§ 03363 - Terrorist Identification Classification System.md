@@ -26,7 +26,7 @@ Subject to section 3024(i) of this title, relating to the protection of intellig
 
 (1) Not later then <sup>1</sup> March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
 
-(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) would be inappropriate due to the concerns addressed by section 403–3(c)(7) <sup>2</sup> of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
+(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) would be inappropriate due to the concerns addressed by section 403–3(c)(7) <sup>2</sup> of this title, relating to the protection of sources and methods, and any instance in which the sharing of information onthe list has been inappropriate in light of such concerns.
 
 #### (e) System administration requirements
 
@@ -64,7 +64,7 @@ Section 403–3 of this title, referred to in subsec. (d)(2), was repealed and a
 
 #### Codification
 
-Section was formerly classified to section 404n–2 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect theclassification of such sections prior to their editorial reclassification.
+Section was formerly classified to section 404n–2 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 

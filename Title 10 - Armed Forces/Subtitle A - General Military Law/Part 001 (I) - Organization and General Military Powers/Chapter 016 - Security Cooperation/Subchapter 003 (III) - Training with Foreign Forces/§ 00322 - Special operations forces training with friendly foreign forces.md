@@ -42,7 +42,7 @@ Reports.—Not later than April 1 of each year, the Secretary of Defense shall s
 
 &emsp;(6) A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
 
-(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470, §2011; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, §1062, Oct. 17, 1998, 112 Stat. 2129; Pub. L. 112–81, div. A, title X, §1086(2), Dec. 31, 2011, 125 Stat. 1603; renumbered §322, Pub. L. 114–328, div. A, title XII, §1244(b), Dec. 23, 2016, 130 Stat. 2518.)
+(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470, §2011;amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, §1062, Oct. 17, 1998, 112 Stat. 2129; Pub. L. 112–81, div. A, title X, §1086(2), Dec. 31, 2011, 125 Stat. 1603; renumbered §322, Pub. L. 114–328, div. A, title XII, §1244(b), Dec. 23, 2016, 130 Stat. 2518.)
 
 #### Amendments
 

@@ -1,0 +1,6 @@
+### §3797cc–21. Transferred
+
+#### Codification
+
+Section 3797cc–21 was editorially reclassified as section 10671 of Title 34, Crime Control and Law Enforcement.
+

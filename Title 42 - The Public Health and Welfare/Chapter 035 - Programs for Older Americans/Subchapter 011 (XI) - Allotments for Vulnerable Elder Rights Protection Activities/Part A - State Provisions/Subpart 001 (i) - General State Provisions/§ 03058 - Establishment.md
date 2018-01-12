@@ -1,6 +1,6 @@
 ### §3058. Establishment
 
-The Assistant Secretary, acting through the Administration, shall establish and carry out aprogram for making allotments to States to pay for the cost of carrying out vulnerable elder rights protection activities.
+The Assistant Secretary, acting through the Administration, shall establish and carry out a program for making allotments to States to pay for the cost of carrying out vulnerable elder rights protection activities.
 
 (Pub. L. 89–73, title VII, §701, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
@@ -18,7 +18,7 @@ Another prior section 701 of Pub. L. 89–73 was classified to section 3045 of t
 
 #### Effective Date
 
-Subchapter inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 
-Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 

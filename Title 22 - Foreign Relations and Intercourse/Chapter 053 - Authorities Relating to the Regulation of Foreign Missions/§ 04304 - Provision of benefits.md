@@ -46,11 +46,11 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 (4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
+(5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shallbe credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
 
 (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat.284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(o)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, §605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
+(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(o)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, §605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
 
 #### References in Text
 
@@ -85,6 +85,10 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 #### Effective Date of 1985 Amendment
 
 Amendment by section 126(b) of Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an Effective Date note under section 4314 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
 #### Transfer of Functions
 

@@ -20,7 +20,7 @@
 
 (d)(1) In prescribing regulations to carry out this subchapter, the Secretary shall provide that in the case of a State that seeks assistance under this subchapter for a project described in subsection (a)(3)(B), the determination of the unmet need for beds for State homes in that State shall be reduced by the number of beds in all previous applications submitted by that State under this subchapter, including beds which have not been recognized by the Secretary under section 1741 of this title.
 
-(2)(A) Financial assistance under this subchapter for a renovation project may only be provided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
+(2)(A) Financial assistance under this subchapter for a renovation project may only beprovided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
 
 (B) For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
 

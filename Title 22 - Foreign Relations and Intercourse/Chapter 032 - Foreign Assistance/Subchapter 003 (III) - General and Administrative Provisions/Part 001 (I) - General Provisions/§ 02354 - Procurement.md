@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(I) to meet unforeseen circumstances, such as emergency situations, where it is important to permit procurement in a country not specified in subparagraph (A); or
 
-&emsp;&emsp;&emsp;(II) to promote efficiency in the use of United States foreign assistance resources, including to avoid impairment of foreign assistance objectives.
+&emsp;&emsp;&emsp;(II) to promote efficiency in the use of United States foreign assistance resources,including to avoid impairment of foreign assistance objectives.
 
 (2) For purposes of this subsection, the term "developing countries" shall not include advanced developing countries.
 
@@ -32,7 +32,7 @@ In providing assistance in the procurement of commodities in the United States, 
 
 #### (e) Parity for domestic commodities prior to use of funds outside United States
 
-No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside theUnited States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
+No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside the United States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
 
 #### (f) Commodity eligibility
 

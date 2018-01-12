@@ -6,7 +6,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, shal
 
 #### (b) Restrictions on deposits
 
-No deposits shall be made to the Global Climate Change Response Fund until the UnitedStates has ratified the United Nations Framework Convention on Climate Change.
+No deposits shall be made to the Global Climate Change Response Fund until the United States has ratified the United Nations Framework Convention on Climate Change.
 
 #### (c) Use of Fund
 
@@ -14,7 +14,7 @@ Moneys deposited into the Fund shall be used by the President, to the extent aut
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated for deposit in the Fund to carry out the purposes of this section, $50,000,000 for fiscal year 1994 and such sums as may be necessary for fiscal years 1995 and 1996.
+There are authorized to be appropriated for deposit in the Fund to carry out the purposes ofthis section, $50,000,000 for fiscal year 1994 and such sums as may be necessary for fiscal years 1995 and 1996.
 
 (Pub. L. 102–486, title XVI, §1609, Oct. 24, 1992, 106 Stat. 3007.)
 

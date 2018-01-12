@@ -34,7 +34,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (ii) Special continuation and transition rule
 
-&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscal year 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shall make an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
+&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscal year 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shallmake an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
 
 #### (iii) Priority
 
@@ -98,7 +98,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(i) A description of the State's plan for using the allotted funds.
 
-&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shallspecify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
+&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
 &emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter.
 
@@ -110,7 +110,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(vii) An assurance that the State has a method in place, such as acceptance of the automatic zero expected family contribution determination described in section 1087ss(c) of this title, to identify eligible low-income students and award State grant aid to such students.
 
-&emsp;&emsp;&emsp;(viii) An assurance that the State will provide notification to eligible low-income students that grants under this section are—
+&emsp;&emsp;&emsp;(viii) An assurance that the State will provide notification to eligible low-incomestudents that grants under this section are—
 
 &emsp;&emsp;&emsp;&emsp;(I) Leveraging Educational Assistance Partnership Grants; and
 
@@ -182,7 +182,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Establishment of partnership
 
-&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establisha partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
+&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establish a partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
 
 #### (B) Amount of grants
 
@@ -274,7 +274,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (e) Administrative cost allowance
 
-A State that receives an allotment under this section may reserve not more than two percent of the funds made available annually through the allotment for State administrative functions required to carry out this section.
+A State that receives an allotment under this section may reserve not more than two percentof the funds made available annually through the allotment for State administrative functions required to carry out this section.
 
 #### (f) Statutory and regulatory relief for institutions of higher education
 
@@ -324,5 +324,5 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

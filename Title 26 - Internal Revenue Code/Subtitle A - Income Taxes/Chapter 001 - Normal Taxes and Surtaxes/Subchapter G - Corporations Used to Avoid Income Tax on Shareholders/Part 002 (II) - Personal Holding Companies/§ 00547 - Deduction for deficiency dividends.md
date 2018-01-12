@@ -38,7 +38,7 @@ For purposes of this section, the term "determination" means—
 
 #### (B) For prior taxable year
 
-&emsp;&emsp;Deficiency dividends paid in any taxable year (to the extent of the portion thereoftaken into account under subsection (a) in determining personal holding company tax) shall not be allowed for purposes of section 563(b) in the computation of the dividends paid deduction for the taxable year preceding the taxable year in which paid.
+&emsp;&emsp;Deficiency dividends paid in any taxable year (to the extent of the portion thereof taken into account under subsection (a) in determining personal holding company tax) shall not be allowed for purposes of section 563(b) in the computation of the dividends paid deduction for the taxable year preceding the taxable year in which paid.
 
 #### (e) Claim required
 

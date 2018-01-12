@@ -8,7 +8,7 @@
 
 > An employee assigned either on detail or on leave without pay remains an employee of his agency. The Federal Tort Claims Act and any other Federal tort liability statute apply to an employee so assigned. The supervision of the duties of an employee on detail may be governed by agreement between the Federal agency and the State or local government concerned.
 
-(b) The assignment of an employee of a Federal agency either on detail or on leave withoutpay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government for the travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
+(b) The assignment of an employee of a Federal agency either on detail or on leave without pay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government for the travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
 
 (c) For any employee so assigned and on leave without pay—
 
@@ -36,11 +36,11 @@
 
 &emsp;(C) deny any concurrent benefit to him from the State or local government on account of the death of another individual.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 95–454, title VI, §603(b), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1190, 1224; Pub. L. 102–378, §2(14), Oct. 2, 1992, 106 Stat. 1347.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 95–454, title VI, §603(b), title IX, §906(a)(2), Oct. 13, 1978, 92Stat. 1190, 1224; Pub. L. 102–378, §2(14), Oct. 2, 1992, 106 Stat. 1347.)
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (a), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, seeTables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (a), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 

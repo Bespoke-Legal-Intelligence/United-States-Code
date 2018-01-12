@@ -88,7 +88,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;"(4) legislation is necessary because congressional records related to the assassination of President John F. Kennedy would not otherwise be subject to public disclosure until at least the year 2029;
 
-&emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely publicdisclosure of records relating to the assassination of President John F. Kennedy;
+&emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
 &emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
@@ -172,7 +172,7 @@ Purposes.—The purposes of this Act are—
 
 "(a)
 
-In General.—(1) Not later than 60 days after the date of enactment of this Act \[Oct. 26, 1992\], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection. In so doing, the Archivist shall ensure the physical integrity and original provenance of all records. The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code. The Archivist shall prepare and publish a subject guidebook and index to the collection.
+In General.—(1) Not later than 60 days after the date of enactment of this Act \[Oct. 26, 1992\], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection. In so doing, the Archivist shall ensure the physical integrity and original provenance of all records. The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordancewith section 2107 of title 44, United States Code. The Archivist shall prepare and publish a subject guidebook and index to the collection.
 
 "(2) The Collection shall include—
 
@@ -278,7 +278,7 @@ Identification Aids.—(1)(A) Not later than 45 days after the date of enactment
 
 &emsp;"(C) attach a printed copy to each assassination record it describes when it is transmitted to the Archivist.
 
-"(3) Assassination records which are in the possession of the National Archives on the date of enactment of this Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
+"(3) Assassination records which are in the possession of the National Archives on the date of enactment ofthis Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
 
 "(e)
 
@@ -474,7 +474,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 "(a)
 
-Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard topolitical affiliation, to the position of Executive Director.
+Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
 "(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
@@ -564,13 +564,13 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 &emsp;&emsp;"(iii) A summary of an assassination record.
 
-"(3) With respect to each assassination record or particular information in assassination records the public disclosure of which is postponed pursuant to section 6, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
+"(3) With respect to each assassination record or particular information in assassination records the publicdisclosure of which is postponed pursuant to section 6, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
 
 &emsp;"(A) a description of actions by the Review Board, the originating body, the President, or any Government office (including a justification of any such action to postpone disclosure of any record or part of any record) and of any official proceedings conducted by the Review Board with regard to specific assassination records; and
 
 &emsp;"(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
 
-"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed inthe Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
+"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
 "(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
@@ -638,7 +638,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;"(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, and contact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
 
-&emsp;"(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of all information relevant to the assassination of President John F. Kennedy consistent with the public interest.
+&emsp;"(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of allinformation relevant to the assassination of President John F. Kennedy consistent with the public interest.
 
 #### "SEC. 11. RULES OF CONSTRUCTION.
 
@@ -652,7 +652,7 @@ Freedom of Information Act.—Nothing in this Act shall be construed to eliminat
 
 "(c)
 
-Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7of title 5, United States Code, of final actions taken or required to be taken under this Act.
+Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7 of title 5, United States Code, of final actions taken or required to be taken under this Act.
 
 "(d)
 

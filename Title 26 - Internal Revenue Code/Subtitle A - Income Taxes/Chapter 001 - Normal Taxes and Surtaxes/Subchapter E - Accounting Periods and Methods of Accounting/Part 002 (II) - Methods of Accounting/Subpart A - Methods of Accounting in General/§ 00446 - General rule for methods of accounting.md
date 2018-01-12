@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Taxable income shall be computed under the method of accounting on the basis of which thetaxpayer regularly computes his income in keeping his books.
+Taxable income shall be computed under the method of accounting on the basis of which the taxpayer regularly computes his income in keeping his books.
 
 #### (b) Exceptions
 

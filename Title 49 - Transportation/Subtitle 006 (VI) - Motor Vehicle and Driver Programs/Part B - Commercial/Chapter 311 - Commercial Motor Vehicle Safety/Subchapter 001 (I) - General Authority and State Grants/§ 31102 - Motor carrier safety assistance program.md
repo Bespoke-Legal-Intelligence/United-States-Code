@@ -36,7 +36,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(D) contains satisfactory assurances that the State will devote adequate resources to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-&emsp;&emsp;(E) provides a right of entry (or other method a State may use that the Secretary determines is adequate to obtain necessary information) and inspection to carry out the plan;
+&emsp;&emsp;(E) provides a right of entry (or other method a State may use that the Secretarydetermines is adequate to obtain necessary information) and inspection to carry out the plan;
 
 &emsp;&emsp;(F) provides that all reports required under this section be available to the Secretary on request;
 
@@ -62,7 +62,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
 
-&emsp;&emsp;&emsp;(iii) when conducted with an appropriate commercial motor vehicle inspection, criminal interdiction activities, and appropriate strategies for carrying out those interdiction activities, including interdiction activities that affect the transportation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) and listed in part 1308 oftitle 21, Code of Federal Regulations, as updated and republished from time to time) by any occupant of a commercial motor vehicle;
+&emsp;&emsp;&emsp;(iii) when conducted with an appropriate commercial motor vehicle inspection, criminal interdiction activities, and appropriate strategies for carrying out those interdiction activities, including interdiction activities that affect the transportation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) and listed in part 1308 of title 21, Code of Federal Regulations, as updated and republished from time to time) by any occupant of a commercial motor vehicle;
 
 &emsp;&emsp;(P) provides that the State has established and dedicated sufficient resources to a program to ensure that—
 
@@ -124,7 +124,7 @@ Exclusion of U.S. Territories.—The requirement that a State conduct safety aud
 
 (e)
 
-Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws, including regulations, with Federal motor carrier safety regulations to be enforced under subsections (b) and (c). To the extent practicable, the guidelines and standards shallallow for maximum flexibility while ensuring a degree of uniformity that will not diminish motor vehicle safety.
+Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws, including regulations, with Federal motor carrier safety regulations to be enforced under subsections (b) and (c). To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring a degree of uniformity that will not diminish motor vehicle safety.
 
 (f)
 
@@ -164,7 +164,7 @@ Use of Unified Carrier Registration Fees Agreement.—Amounts generated under se
 
 Use of Grants To Enforce Other Laws.—When approved as part of a State's plan under subsection (c), the State may use motor carrier safety assistance program funds received under this section—
 
-&emsp;(1) if the activities are carried out in conjunction with an appropriate inspection of a commercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
+&emsp;(1) if the activities are carried out in conjunction with an appropriate inspection of acommercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
 
 &emsp;&emsp;(A) enforcement of commercial motor vehicle size and weight limitations at locations, excluding fixed-weight facilities, such as near steep grades or mountainous terrains, where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
 
@@ -202,7 +202,7 @@ Annual allocations.—On October 1 of each fiscal year, or as soon as practicabl
 
 &emsp;(3)
 
-Elective adjustments.—Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary to calculate the annual allocation amounts, after the creation of a new allocation formula under section 5106 of the FASTAct, the Secretary may not make elective adjustments to the allocation formula that decrease a State's Federal funding levels by more than 3 percent in a fiscal year. The 3 percent limit shall not apply to the withholding provisions of subsection (k).
+Elective adjustments.—Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary to calculate the annual allocation amounts, after the creation of a new allocation formula under section 5106 of the FAST Act, the Secretary may not make elective adjustments to the allocation formula that decrease a State's Federal funding levels by more than 3 percent in a fiscal year. The 3 percent limit shall not apply to the withholding provisions of subsection (k).
 
 (k)
 
@@ -326,7 +326,7 @@ Use of funds.—Grant funds received under this paragraph may be used—
 
 Secretary authorization.—The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
 
 Historical and Revision Notes
 
@@ -684,5 +684,5 @@ Pub. L. 106–159, title I, §103(e), Dec. 9, 1999, 113 Stat. 1754, which relate
 
 #### Effects of MCSAP Grant Reductions
 
-Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than twoyears after June 9, 1998, on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under section 31103 of this title based on the study.
+Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than two years after June 9, 1998, on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under section 31103 of this title based on the study.
 

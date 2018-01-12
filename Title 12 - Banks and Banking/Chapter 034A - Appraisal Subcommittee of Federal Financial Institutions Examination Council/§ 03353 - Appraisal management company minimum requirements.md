@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection shall jointly, by rule, establish minimum requirements to be applied by a State in the registration of appraisal management companies. Such requirements shall include a requirement that such companies—
+The Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection shalljointly, by rule, establish minimum requirements to be applied by a State in the registration of appraisal management companies. Such requirements shall include a requirement that such companies—
 
 &emsp;(1) register with and be subject to supervision by a State appraiser certifying and licensing agency in each State in which such company operates;
 
@@ -32,7 +32,7 @@ The Board of Governors of the Federal Reserve System, the Comptroller of the Cur
 
 #### (1) In general
 
-&emsp;No appraisal management company may perform services related to a federally relatedtransaction in a State after the date that is 36 months after the date on which the regulations required to be prescribed under subsection (a) are prescribed in final form unless such company is registered with such State or subject to oversight by a Federal financial institutions regulatory agency.
+&emsp;No appraisal management company may perform services related to a federally related transaction in a State after the date that is 36 months after the date on which the regulations required to be prescribed under subsection (a) are prescribed in final form unless such company is registered with such State or subject to oversight by a Federal financial institutions regulatory agency.
 
 #### (2) Extension of effective date
 

@@ -12,7 +12,7 @@ Authority.—A Federal agency may grant an exclusive or partially exclusive lice
 
 &emsp;(2) the Federal agency finds that the public will be served by the granting of the license, as indicated by the applicant's intentions, plans, and ability to bring the invention to practical application or otherwise promote the invention's utilization by the public, and that the proposed scope of exclusivity is not greater than reasonably necessary to provide the incentive for bringing the invention to practical application, as proposed by the applicant, or otherwise to promote the invention's utilization by the public;
 
-&emsp;(3) the applicant makes a commitment to achieve practical application of the invention within a reasonable time, which time may be extended by the agency upon the applicant'srequest and the applicant's demonstration that the refusal of such extension would be unreasonable;
+&emsp;(3) the applicant makes a commitment to achieve practical application of the invention within a reasonable time, which time may be extended by the agency upon the applicant's request and the applicant's demonstration that the refusal of such extension would be unreasonable;
 
 &emsp;(4) granting the license will not tend to substantially lessen competition or create or maintain a violation of the Federal antitrust laws; and
 
@@ -52,7 +52,7 @@ Public Notice.—No exclusive or partially exclusive license may be granted unde
 
 Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1,2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
 
 #### Amendments
 
@@ -65,4 +65,8 @@ Plan.—No Federal agency shall grant any license under a patent or patent appli
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
+#### Effective Date
+
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 

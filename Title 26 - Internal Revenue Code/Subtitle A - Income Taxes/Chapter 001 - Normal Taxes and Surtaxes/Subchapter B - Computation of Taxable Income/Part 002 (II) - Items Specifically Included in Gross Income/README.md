@@ -9,13 +9,18 @@
 | [75\.](%C2%A7%2000075%20-%20Dealers%20in%20tax-exempt%20securities.md) | Dealers in tax-exempt securities. |
 | \[76. | Repealed.\] |
 | [77\.](%C2%A7%2000077%20-%20Commodity%20credit%20loans.md) | Commodity credit loans. |
-| [78\.](%C2%A7%2000078%20-%20Dividends%20received%20from%20certain%20foreign%20corporations%20by%20domestic%20corporations%20choosing%20foreign%20tax%20credit.md) | Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit. |
+| [78\.](%C2%A7%2000078%20-%20Gross%20up%20for%20deemed%20paid%20foreign%20tax%20credit.md) | Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [79\.](%C2%A7%2000079%20-%20Group-term%20life%20insurance%20purchased%20for%20employees.md) | Group-term life insurance purchased for employees. |
 | [80\.](%C2%A7%2000080%20-%20Restoration%20of%20value%20of%20certain%20securities.md) | Restoration of value of certain securities. |
 | \[81. | Repealed.\] |
-| [82\.](%C2%A7%2000082%20-%20Reimbursement%20for%20expenses%20of%20moving.md) | Reimbursement of moving expenses.<sup>1</sup> |
+| [82\.](%C2%A7%2000082%20-%20Reimbursement%20for%20expenses%20of%20moving.md) | Reimbursement of moving expenses.<sup>2</sup> |
 | [83\.](%C2%A7%2000083%20-%20Property%20transferred%20in%20connection%20with%20performance%20of%20services.md) | Property transferred in connection with performance of services. |
-| [84\.](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organization.md) | Transfer of appreciated property to political organizations.<sup>1</sup> |
+| [84\.](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organization.md) | Transfer of appreciated property to political organizations.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -27,10 +32,17 @@
 | [88\.](%C2%A7%2000088%20-%20Certain%20amounts%20with%20respect%20to%20nuclear%20decommissioning%20costs.md) | Certain amounts with respect to nuclear decommissioning costs. |
 | \[89. | Repealed.\] |
 | [90\.](%C2%A7%2000090%20-%20Illegal%20Federal%20irrigation%20subsidies.md) | Illegal Federal irrigation subsidies. |
+| [91\.](%C2%A7%2000091%20-%20Certain%20foreign%20branch%20losses%20transferred%20to%20specified%2010-percent%20owned%20foreign%20corporations.md) | Certain foreign branch losses transferred to specified 10-percent owned foreign corporations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 115–97, title I, §11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that,</i><i>applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 71. See 2017 Amendment note below.</i>
+
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–97, title I, §§11051(b)(1)(B), 14102(d)(2), Dec. 22, 2017, 131 Stat. 2089, 2194, struck out item 71 "Alimony and separate maintenance payments" and added item 91.
 
 <b>2004</b>—Pub. L. 108–357, title III, §302(c)(1)(B), Oct. 22, 2004, 118 Stat. 1465, substituted "and biodiesel fuels credits" for "fuel credit" in item 87.
 
@@ -64,7 +76,9 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 
 <b>1962</b>—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–79 without corresponding amendment of analysis.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -78,7 +92,7 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 - [&sect; 00075 - Dealers in tax-exempt securities](%C2%A7%2000075%20-%20Dealers%20in%20tax-exempt%20securities.md)
 - [&sect; 00076 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1901(a)(14), Oct. 4, 1976, 90 Stat. 1765](%C2%A7%2000076%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71901%28a%29%2814%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201765.md)
 - [&sect; 00077 - Commodity credit loans](%C2%A7%2000077%20-%20Commodity%20credit%20loans.md)
-- [&sect; 00078 - Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit](%C2%A7%2000078%20-%20Dividends%20received%20from%20certain%20foreign%20corporations%20by%20domestic%20corporations%20choosing%20foreign%20tax%20credit.md)
+- [&sect; 00078 - Gross up for deemed paid foreign tax credit](%C2%A7%2000078%20-%20Gross%20up%20for%20deemed%20paid%20foreign%20tax%20credit.md)
 - [&sect; 00079 - Group-term life insurance purchased for employees](%C2%A7%2000079%20-%20Group-term%20life%20insurance%20purchased%20for%20employees.md)
 - [&sect; 00080 - Restoration of value of certain securities](%C2%A7%2000080%20-%20Restoration%20of%20value%20of%20certain%20securities.md)
 - [&sect; 00081 - Repealed. Pub. L. 100&#8211;203, title X, &sect;10201(b)(1), Dec. 22, 1987, 101 Stat. 1330&#8211;387](%C2%A7%2000081%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93203%2C%20title%20X%2C%20%C2%A710201%28b%29%281%29%2C%20Dec.%2022%2C%201987%2C%20101%20Stat.%201330%E2%80%93387.md)
@@ -91,3 +105,4 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 - [&sect; 00088 - Certain amounts with respect to nuclear decommissioning costs](%C2%A7%2000088%20-%20Certain%20amounts%20with%20respect%20to%20nuclear%20decommissioning%20costs.md)
 - [&sect; 00089 - Repealed. Pub. L. 101&#8211;140, title II, &sect;202(a), Nov. 8, 1989, 103 Stat. 830](%C2%A7%2000089%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93140%2C%20title%20II%2C%20%C2%A7202%28a%29%2C%20Nov.%208%2C%201989%2C%20103%20Stat.%20830.md)
 - [&sect; 00090 - Illegal Federal irrigation subsidies](%C2%A7%2000090%20-%20Illegal%20Federal%20irrigation%20subsidies.md)
+- [&sect; 00091 - Certain foreign branch losses transferred to specified 10-percent owned foreign corporations](%C2%A7%2000091%20-%20Certain%20foreign%20branch%20losses%20transferred%20to%20specified%2010-percent%20owned%20foreign%20corporations.md)

@@ -18,7 +18,7 @@
 
 <b>1970</b>—Pub. L. 91–452, title XI, §1106(b)(2), Oct. 15, 1970, 84 Stat. 960, struck out item 837.
 
-<b>1960</b>—Pub. L. 86–710, Sept. 6, 1960, 74 Stat. 808, substituted "OTHER DANGEROUS ARTICLES" for "COMBUSTIBLES" in chapter heading, "explosives, radioactive materials, etiologic agents, and other dangerous articles" for "dynamite, powder and fuses" in item 832, "Marking packages containing explosives and otherdangerous articles" for "Transportation of nitroglycerin" in item 833, "Regulation by Interstate Commerce Commission" for "Marking packages containing explosives" in item 834, and "Administration" for "Regulations by Interstate Commerce Commission" in item 835.
+<b>1960</b>—Pub. L. 86–710, Sept. 6, 1960, 74 Stat. 808, substituted "OTHER DANGEROUS ARTICLES" for "COMBUSTIBLES" in chapter heading, "explosives, radioactive materials, etiologic agents, and other dangerous articles" for "dynamite, powder and fuses" in item 832, "Marking packages containing explosives and other dangerous articles" for "Transportation of nitroglycerin" in item 833, "Regulation by Interstate Commerce Commission" for "Marking packages containing explosives" in item 834, and "Administration" for "Regulations by Interstate Commerce Commission" in item 835.
 
 Pub. L. 86–449, title II, §204, May 6, 1960, 74 Stat. 88, added item 837.
 

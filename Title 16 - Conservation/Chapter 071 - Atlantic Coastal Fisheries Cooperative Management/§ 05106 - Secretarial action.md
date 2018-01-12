@@ -6,7 +6,7 @@ Within 30 days after receiving a notification from the Commission under section 
 
 &emsp;(1) whether the State in question has failed to carry out its responsibility under section 5104 of this title; and
 
-&emsp;(2) if so, whether the measures that the State has failed to implement and enforce arenecessary for the conservation of the fishery in question.
+&emsp;(2) if so, whether the measures that the State has failed to implement and enforce are necessary for the conservation of the fishery in question.
 
 #### (b) Consideration of comments
 

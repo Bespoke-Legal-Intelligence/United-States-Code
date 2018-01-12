@@ -56,7 +56,7 @@ For purposes of this section, the term "renewable fuel blend" means a gasoline b
 
 #### (c) Retail technical and marketing assistance
 
-The Secretary shall enter into contracts with entities with demonstrated experience in assisting retail fueling stations in installing refueling systems and marketing renewable fuel blends nationally, for the provision of technical andmarketing assistance to recipients of grants under this section. Such assistance shall include—
+The Secretary shall enter into contracts with entities with demonstrated experience in assisting retail fueling stations in installing refueling systems and marketing renewable fuel blends nationally, for the provision of technical and marketing assistance to recipients of grants under this section. Such assistance shall include—
 
 &emsp;(1) technical advice for compliance with applicable Federal and State environmental requirements;
 
@@ -211,4 +211,8 @@ No grant shall be provided under subsection (b) or (c) to a large, vertically in
 There are authorized to be appropriated to the Secretary for carrying out this section $200,000,000 for each of the fiscal years 2008 through 2014.
 
 (Pub. L. 110–140, title II, §244, Dec. 19, 2007, 121 Stat. 1541.)
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

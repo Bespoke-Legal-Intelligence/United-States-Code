@@ -78,7 +78,7 @@ Par. (3)(B). Pub. L. 104–88, §305(d)(7), redesignated cls. (ii), (iv), and (v
 
 "(iii) section 2, 3, 4, or 5 of the Intercoastal Shipping Act, 1933 (46 U.S.C. App. 844, 845, 845a, or 845b);".
 
-Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: "all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;".
+Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: "all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;".
 
 <b>1994</b>—Par. (7). Pub. L. 103–272 substituted "section 20114(c) of title 49" for "section 202(f) of the Federal Railroad Safety Act of 1970".
 

@@ -8,7 +8,7 @@ Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may
 
 Cost Reimbursement Rules.—The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
 
-&emsp;(1) The Secretary of the Navy shall, in determining the reimbursement due a shipbuilder for its indirect costs of performing a contract for the construction of a ship for the Navy,allow the shipbuilder to allocate indirect costs to its private sector work only to the extent of the shipbuilder's allocable indirect private sector costs, subject to paragraph (3).
+&emsp;(1) The Secretary of the Navy shall, in determining the reimbursement due a shipbuilder for its indirect costs of performing a contract for the construction of a ship for the Navy, allow the shipbuilder to allocate indirect costs to its private sector work only to the extent of the shipbuilder's allocable indirect private sector costs, subject to paragraph (3).
 
 &emsp;(2) For purposes of paragraph (1), the allocable indirect private sector costs of a shipbuilder are those costs of the shipbuilder that are equal to the sum of the following:
 

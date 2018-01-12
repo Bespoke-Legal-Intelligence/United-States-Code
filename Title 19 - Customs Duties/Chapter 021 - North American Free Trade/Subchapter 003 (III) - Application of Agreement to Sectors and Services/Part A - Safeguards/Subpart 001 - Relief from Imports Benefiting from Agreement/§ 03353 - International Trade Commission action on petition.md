@@ -14,7 +14,7 @@ If the determination made by the International Trade Commission under subsection
 
 #### (c) Report to President
 
-No later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the International Trade Commission shall submit to the President a report that shall include—
+No later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation,the International Trade Commission shall submit to the President a report that shall include—
 
 &emsp;(1) a statement of the basis for the determination;
 

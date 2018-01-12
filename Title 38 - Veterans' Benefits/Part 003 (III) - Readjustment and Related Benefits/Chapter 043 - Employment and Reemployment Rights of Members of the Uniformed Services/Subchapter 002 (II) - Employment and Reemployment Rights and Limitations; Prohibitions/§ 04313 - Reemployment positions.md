@@ -46,5 +46,5 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 #### Effective Date
 
-Section effective with respect to reemployments initiated on or after the first day after the 60-day periodbeginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 

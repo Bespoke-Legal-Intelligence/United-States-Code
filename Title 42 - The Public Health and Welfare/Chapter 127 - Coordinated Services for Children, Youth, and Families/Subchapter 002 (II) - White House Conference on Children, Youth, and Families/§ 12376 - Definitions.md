@@ -8,5 +8,9 @@ For purposes of this subchapter—
 
 (Pub. L. 101–501, title IX, §987, Nov. 3, 1990, 104 Stat. 1283.)
 
+#### Effective Date
+
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "mean".</i>
 

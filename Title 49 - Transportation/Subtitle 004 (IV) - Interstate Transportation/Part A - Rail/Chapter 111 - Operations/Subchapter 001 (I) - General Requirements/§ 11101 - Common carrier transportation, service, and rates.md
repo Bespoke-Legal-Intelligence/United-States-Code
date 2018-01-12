@@ -14,7 +14,7 @@
 
 &emsp;(2) has made arrangements with the carrier for a shipment that would be subject to such increased rates or changed terms.
 
-(d) With respect to transportation of agricultural products, in addition to the requirements of subsections (a), (b), and (c), a rail carrier shall publish, make available, and retain for public inspection its common carrier rates, schedules of rates, and other service terms, and any proposed and actual changes to such rates and service terms. For purposes of this subsection, agricultural products shall include grain as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and all products thereof, and fertilizer.
+(d) With respect to transportation of agricultural products, in addition to the requirements of subsections (a), (b), and (c), a rail carrier shall publish, make available, and retain for public inspection its common carrier rates, schedulesof rates, and other service terms, and any proposed and actual changes to such rates and service terms. For purposes of this subsection, agricultural products shall include grain as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and all products thereof, and fertilizer.
 
 (e) A rail carrier shall provide transportation or service in accordance with the rates and service terms, and any changes thereto, as published or otherwise made available under subsection (b), (c), or (d).
 

@@ -96,7 +96,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(A) asserts a specific, definite, and quantified obligation claimed to be due, and
 
-&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
+&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetaryamount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
 
 &emsp;(27) "overpayment" means any payment by a lessee or its designee in excess of an amount legally required to be paid on an obligation and includes the portion of any estimated payment for a production month that is in excess of the royalties due for that month;
 
@@ -122,7 +122,7 @@ Section 3 of the Act of June 28, 1906 (34 Stat. 539), referred to in par. (3), i
 
 #### Amendments
 
-<b>1996</b>—Par. (7). Pub. L. 104–185, §2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'lessee' means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, orany person who has been assigned an obligation to make royalty or other payments required by the lease;".
+<b>1996</b>—Par. (7). Pub. L. 104–185, §2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'lessee' means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;".
 
 Pars. (17) to (25). Pub. L. 104–185, §2(2), added pars. (17) to (25).
 

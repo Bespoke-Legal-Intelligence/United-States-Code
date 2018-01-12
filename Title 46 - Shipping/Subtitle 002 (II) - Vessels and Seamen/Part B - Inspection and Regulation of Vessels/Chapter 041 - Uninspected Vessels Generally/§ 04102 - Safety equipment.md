@@ -50,7 +50,7 @@ Section 4102 requires uninspected vessels to comply with certain provisions that
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–540 amended subsec. (e) generally without regard to the prior repeal of subsec. (e) by Pub. L. 100–424.
 
-Pub. L. 100–424 struck out subsec. (e) which read as follows: "Each uninspected fishing, fish processing, orfish tender vessel operating on the high seas shall be equipped with the number and type of emergency position indicating radio beacons prescribed by regulation." See section 4502(a)(7) of this title.
+Pub. L. 100–424 struck out subsec. (e) which read as follows: "Each uninspected fishing, fish processing, or fish tender vessel operating on the high seas shall be equipped with the number and type of emergency position indicating radio beacons prescribed by regulation." See section 4502(a)(7) of this title.
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–640 added subsec. (e).
 

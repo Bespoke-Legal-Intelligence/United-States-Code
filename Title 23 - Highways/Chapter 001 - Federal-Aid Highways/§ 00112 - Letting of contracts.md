@@ -70,7 +70,7 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;(E)
 
-Design-build contract defined.—In this paragraph, the term "design-build contract" means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+Design-build contract defined.—In this paragraph, the term "design-build contract" means an agreement that provides for design and construction of a project by acontractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
 
 &emsp;(4)
 

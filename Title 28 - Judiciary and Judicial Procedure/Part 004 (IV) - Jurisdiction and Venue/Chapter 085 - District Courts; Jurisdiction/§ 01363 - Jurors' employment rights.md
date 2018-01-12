@@ -12,7 +12,7 @@ A prior section 1363 was renumbered section 1366 of this title.
 
 Pub. L. 95–572, §7, Nov. 2, 1978, 92 Stat. 2457, provided that:
 
-"(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[enacting this section and section 1875, renumbering section 1363, relating to construction of references to laws of the United States or Acts of Congress, as section 1364, and amending sections 1863, 1865, 1866, 1869, and 1871 of this title\] shall apply with respect to any grand or petit juror summoned for service or actually serving on or after the date of enactment of this Act \[Nov. 2, 1978\].
+"(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[enacting this section and section 1875, renumbering section 1363, relating to construction of references to laws of the United States or Acts of Congress, as section 1364, andamending sections 1863, 1865, 1866, 1869, and 1871 of this title\] shall apply with respect to any grand or petit juror summoned for service or actually serving on or after the date of enactment of this Act \[Nov. 2, 1978\].
 
 "(b) The amendment made by section 5 of this Act \[amending section 1871 of this title\] shall apply with respect to any grand or petit juror serving on or after the sixtieth day following the date of enactment of this Act \[Nov. 2, 1978\]."
 

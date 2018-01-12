@@ -2,7 +2,7 @@
 
 #### (a) Disclosure requirements
 
-The Commission shall, by rule, require any person proposing to enter into a contract, agreement, or other arrangement, whether by competitive bid or negotiation, under this chapter or any other law administered by it for the conduct of research, development, evaluation activities, or for technical and management support services, to provide the Commission, prior to entering into any such contract, agreement,or arrangement, with all relevant information, as determined by the Commission, bearing on whether that person has a possible conflict of interest with respect to—
+The Commission shall, by rule, require any person proposing to enter into a contract, agreement, or other arrangement, whether by competitive bid or negotiation, under this chapter or any other law administered by it for the conduct of research, development, evaluation activities, or for technical and management support services, to provide the Commission, prior to entering into any such contract, agreement, or arrangement, with all relevant information, as determined by the Commission, bearing on whether that person has a possible conflict of interest with respect to—
 
 &emsp;(1) being able to render impartial, technically sound, or objective assistance or advice in light of other activities or relationships with other persons, or
 

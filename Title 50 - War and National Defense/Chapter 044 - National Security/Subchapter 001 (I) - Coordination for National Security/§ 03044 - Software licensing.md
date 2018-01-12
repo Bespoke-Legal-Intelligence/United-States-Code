@@ -16,7 +16,7 @@ The chief information officer of each element of the intelligence community, in 
 
 &emsp;&emsp;(D) providing appropriate personnel with sufficient software licenses management training; and
 
-&emsp;(3) submit to the Chief Information Officer of the Intelligence Community each inventoryrequired by paragraph (1) and each assessment required by paragraph (2).
+&emsp;(3) submit to the Chief Information Officer of the Intelligence Community each inventory required by paragraph (1) and each assessment required by paragraph (2).
 
 #### (b) Inventories by the Chief Information Officer of the Intelligence Community
 

@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-(1) The Administrator, in conjunction with the National Park Service and other appropriate Federal agencies, shall conduct research to identify and evaluate sources and source regions of both visibility impairment and regions that provide predominantly clean air in class I areas. A total of $8,000,000 per year for 5 years is authorized to be appropriated for the Environmental Protection Agency and the other Federal agencies to conduct this research. The research shall include—
+(1) The Administrator, in conjunction with the National Park Service and other appropriate Federal agencies, shall conduct research to identify and evaluate sources and source regions ofboth visibility impairment and regions that provide predominantly clean air in class I areas. A total of $8,000,000 per year for 5 years is authorized to be appropriated for the Environmental Protection Agency and the other Federal agencies to conduct this research. The research shall include—
 
 &emsp;(A) expansion of current visibility related monitoring in class I areas;
 
@@ -12,7 +12,7 @@
 
 &emsp;(D) studies of atmospheric chemistry and physics of visibility.
 
-(2) Based on the findings available from the research required in subsection (a)(1) of this section as well as other available scientific and technical data, studies, and other available information pertaining to visibility source-receptor relationships, the Administrator shall conduct an assessment and evaluation that identifies, to the extent possible, sources and source regions of visibility impairment including natural sources as well as source regions of clear air for class I areas. The Administrator shall produce interim findings from this study within 3 years after November 15, 1990.
+(2) Based on the findings available from the research required in subsection (a)(1) as well as other available scientific and technical data, studies, and other available information pertaining to visibility source-receptor relationships, the Administrator shall conduct an assessment and evaluation that identifies, to the extent possible, sources and source regions of visibility impairment including natural sources as well as source regions of clear air for class I areas. The Administrator shall produce interim findings from this study within 3 years after November 15, 1990.
 
 #### (b) Impacts of other provisions
 
@@ -22,7 +22,7 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 #### (1) Authority to establish visibility transport regions
 
-&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly tovisibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations of a transport commission established under subsection (b) of this section <sup>1</sup> may—
+&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly to visibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations of a transport commission established under subsection (b) of this section <sup>1</sup> may—
 
 &emsp;&emsp;(A) add any State or portion of a State to a visibility transport region when the Administrator determines that the interstate transport of air pollutants from such State significantly contributes to visibility impairment in a class I area located within the transport region, or
 
@@ -30,7 +30,7 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 #### (2) Visibility transport commissions
 
-&emsp;Whenever the Administrator establishes a transport region under subsection (c)(1) of this section, the Administrator shall establish a transport commission comprised of (as a minimum) each of the following members:
+&emsp;Whenever the Administrator establishes a transport region under subsection (c)(1), the Administrator shall establish a transport commission comprised of (as a minimum) each of the following members:
 
 &emsp;&emsp;(A) the Governor of each State in the Visibility Transport Region, or the Governor's designee;
 
@@ -50,7 +50,7 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 A Visibility Transport Commission—
 
-&emsp;(1) shall assess the scientific and technical data, studies, and other currently available information, including studies conducted pursuant to subsection (a)(1) of this section, pertaining to adverse impacts on visibility from potential or projected growth in emissions from sources located in the Visibility Transport Region; and
+&emsp;(1) shall assess the scientific and technical data, studies, and other currently available information, including studies conducted pursuant to subsection (a)(1), pertaining to adverse impacts on visibility from potential or projected growth in emissions from sources located in the Visibility Transport Region; and
 
 &emsp;(2) shall, within 4 years of establishment, issue a report to the Administrator recommending what measures, if any, should be taken under this chapter to remedy such adverse impacts. The report required by this subsection shall address at least the following measures:
 
@@ -62,13 +62,13 @@ A Visibility Transport Commission—
 
 #### (e) Duties of Administrator
 
-(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring "reasonable progress" toward the national goal.
+(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1)and the reports pursuant to subsection (d)(2) and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring "reasonable progress" toward the national goal.
 
 (2) Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 
 #### (f) Grand Canyon visibility transport commission
 
-The Administrator pursuant to subsection (c)(1) of this section shall, within 12 months, establish a visibility transport commission for the region affecting the visibility of the Grand Canyon National Park.
+The Administrator pursuant to subsection (c)(1) shall, within 12 months, establish a visibility transport commission for the region affecting the visibility of the Grand Canyon National Park.
 
 (July 14, 1955, ch. 360, title I, §169B, as added Pub. L. 101–549, title VIII, §816, Nov. 15, 1990, 104 Stat. 2695.)
 

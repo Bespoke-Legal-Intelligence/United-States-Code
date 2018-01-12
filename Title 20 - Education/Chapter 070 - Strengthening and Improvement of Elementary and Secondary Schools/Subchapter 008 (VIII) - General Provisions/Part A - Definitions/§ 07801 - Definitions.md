@@ -14,7 +14,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Conversion
 
-&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States that provide State aid to local educational agencies on the basis of average daily membership (or other similar data).
+&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States thatprovide State aid to local educational agencies on the basis of average daily membership (or other similar data).
 
 #### (C) Special rule
 
@@ -174,7 +174,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) promising evidence from at least 1 well-designed and well-implemented correlational study with statistical controls for selection bias; or
 
-&emsp;&emsp;&emsp;(ii)(I) demonstrates a rationale based on high-quality research findings or positive evaluation that such activity, strategy, orintervention is likely to improve student outcomes or other relevant outcomes; and
+&emsp;&emsp;&emsp;(ii)(I) demonstrates a rationale based on high-quality research findings or positive evaluation that such activity, strategy, or intervention is likely to improve student outcomes or other relevant outcomes; and
 
 &emsp;&emsp;&emsp;(II) includes ongoing efforts to examine the effects of such activity, strategy, or intervention.
 
@@ -278,7 +278,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) a summer session immediately following the fourth year of high school; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in thecohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) standards-based;
 
@@ -358,7 +358,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term "local educational agency" means a public board of education or otherpublic authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Administrative control and direction
 
@@ -402,7 +402,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands;
 
-&emsp;&emsp;(B) means the Republic of Palau, to the extent permitted under section 1921d(f)(1)(B)(ix) of title 48 and until anagreement for the extension of United States education assistance under the Compact of Free Association becomes effective for the Republic of Palau; and
+&emsp;&emsp;(B) means the Republic of Palau, to the extent permitted under section 1921d(f)(1)(B)(ix) of title 48 and until an agreement for the extension of United States education assistance under the Compact of Free Association becomes effective for the Republic of Palau; and
 
 &emsp;&emsp;(C) for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands and the Federated States of Micronesia, to the extent permitted under section 1921d(f)(1)(B)(viii) of title 48.
 
@@ -632,7 +632,7 @@ Par. (37). Pub. L. 114–95, §8002(1), (13), added par. (37) and struck out for
 
 Par. (38). Pub. L. 114–95, §8002(2), redesignated par. (31) as (38). Former par. (38) redesignated (45).
 
-Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at end of subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) asreference to section 6318 of this title. Former par. (39) redesignated (46).
+Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at end of subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) as reference to section 6318 of this title. Former par. (39) redesignated (46).
 
 Par. (40). Pub. L. 114–95, §8002(15), added par. (40).
 

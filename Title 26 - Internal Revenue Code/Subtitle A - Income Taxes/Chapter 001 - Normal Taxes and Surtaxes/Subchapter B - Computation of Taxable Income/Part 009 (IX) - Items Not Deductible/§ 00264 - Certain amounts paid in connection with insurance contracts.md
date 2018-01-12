@@ -36,13 +36,13 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;(1) if no part of 4 of the annual premiums due during the 7-year period (beginning with the date the first premium on the contract to which such plan relates was paid) is paid under such plan by means of indebtedness,
 
-&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
+&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100,
 
 &emsp;(3) if such amount was paid or accrued on indebtedness incurred because of an unforeseen substantial loss of income or unforeseen substantial increase in his financial obligations, or
 
 &emsp;(4) if such indebtedness was incurred in connection with his trade or business.
 
-> For purposes of applying paragraph (1), if there is a substantial increase in the premiums on a contract, a new 7-year period described in such paragraph with respect to such contract shall commence on the date of first such increased premium is paid.
+> For purposes of applying paragraph (1), if there is a substantial increase in the premiums on a contract, a new 7-year period described in such paragraph with respect to such contract shall commence on the date the first such increased premium is paid.
 
 #### (e) Special rules for application of subsection (a)(4)
 
@@ -72,7 +72,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;&emsp;&emsp;(II) which is a contract providing a variable rate of interest, the applicable rate of interest for any month in an applicable period shall be such Moody's rate for the third month preceding the first month in such period.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-monthperiod beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Key person
 
@@ -180,7 +180,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (II) Limitation on unborrowed cash value
 
-&emsp;&emsp;&emsp;&emsp;The amount of the unborrowed cash value of any policy or contract which is taken into account by reason of clause (ii) shall not exceed the benefit to whichthe trade or business is directly or indirectly entitled under the policy or contract.
+&emsp;&emsp;&emsp;&emsp;The amount of the unborrowed cash value of any policy or contract which is taken into account by reason of clause (ii) shall not exceed the benefit to which the trade or business is directly or indirectly entitled under the policy or contract.
 
 #### (iv) Reporting
 

@@ -16,7 +16,7 @@ Section is comprised of part of section 3 of act June 17, 1902. Remainder of suc
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–579 struck out provisions that the Secretary of the Interior withdraw from public entry lands required for irrigation works contemplated under the Act of June 17, 1902, prior to the giving of the public notice provided for in section 419 of this title, that he restore such withdrawn lands to public entry when he deemed such lands unnecessary for the purposes of such Act, and that he withdraw from entry, except under the homestead laws, any public lands believed to be susceptible of irrigation from said works prior to the beginning of surveys for any contemplated irrigation works.
+<b>1976</b>—Pub. L. 94–579 struck out provisions that the Secretary of the Interior withdraw from public entrylands required for irrigation works contemplated under the Act of June 17, 1902, prior to the giving of the public notice provided for in section 419 of this title, that he restore such withdrawn lands to public entry when he deemed such lands unnecessary for the purposes of such Act, and that he withdraw from entry, except under the homestead laws, any public lands believed to be susceptible of irrigation from said works prior to the beginning of surveys for any contemplated irrigation works.
 
 #### Effective Date of 1976 Amendment
 

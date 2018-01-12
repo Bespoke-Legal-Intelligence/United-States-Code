@@ -36,7 +36,7 @@ Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Pass
 
 &emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway vehicle revenue or directional route miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not bereduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
 
 &emsp;(E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
 
@@ -60,7 +60,7 @@ Based on Bus Vehicle Revenue Miles and Passenger Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the most recent decennial census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on populationweighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
 
 &emsp;(2) 9.2 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
@@ -156,7 +156,7 @@ Apportionment formula.—The amount to be apportioned under subsection (h)(3) sh
 
 &emsp;&emsp;(B)
 
-Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
+Data used in formula.—The Secretary shall calculate apportionments under thissubsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
 (j)
 

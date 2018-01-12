@@ -10,3 +10,7 @@ The Postal Service may authorize any officer or employee of the Postal Service t
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727.)
 
+#### Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+

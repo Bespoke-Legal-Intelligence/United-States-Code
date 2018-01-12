@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer from old plan to new plan pursuant to employee participation in another multiemployer plan after certified change of representative
 
-In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred toas the "old plan") as a result of a certified change of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the "new plan"), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
+In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the "old plan") as a result of a certified change of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the "new plan"), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
 
 #### (b) Notification by employer of plan sponsor of old plan; notification by plan sponsor of old plan of employer and plan sponsor of new plan; appeal by new plan to prevent transfer; further proceedings
 
@@ -34,7 +34,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 #### (c) Reduction of amount of withdrawal liability of employer upon transfer of appropriate amount of assets and liabilities by plan sponsor of old plan to new plan
 
-If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section) with respect to the old plan shall be reduced by the amount by which—
+If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section)with respect to the old plan shall be reduced by the amount by which—
 
 &emsp;(1) the value of the unfunded vested benefits allocable to the employer which were transferred by the plan sponsor of the old plan to the new plan, exceeds
 
@@ -70,7 +70,7 @@ In any case in which there is a complete or partial withdrawal described in subs
 
 #### (f) Agreement between plan sponsors of old plan and new plan to transfer in compliance with other statutory provisions; reduction of withdrawal liability of employer from old plan; amount of withdrawal liability of employer to new plan
 
-(1) Notwithstanding subsections (b) and (e), the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except thatthe employer's liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) as if assets and liabilities had been transferred in accordance with this section.
+(1) Notwithstanding subsections (b) and (e), the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer's liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) as if assets and liabilities had been transferred in accordance with this section.
 
 (2) If the employer withdraws from the new plan within 240 months after the effective date of a transfer of assets and liabilities described in this section, the amount of the employer's withdrawal liability to the new plan shall be the greater of—
 

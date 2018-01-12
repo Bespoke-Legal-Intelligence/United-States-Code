@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the special subsidy payment amount under this paragraph for a qualifying covered retiree for a coverage year enrolled with the sponsor of a qualified retiree prescription drug plan is, for the portion of the retiree's gross covered retiree plan-related prescription drug costs (as defined in subparagraph (C)(ii)) for such year that exceeds the cost threshold amount specified in subparagraph (B) and does not exceed the cost limit under such subparagraph, an amount equal to 28 percent of the allowable retiree costs (as defined in subparagraph (C)(i)) attributable to such gross covered prescription drug costs.
+&emsp;&emsp;For purposes of this subsection, the special subsidy payment amount under this paragraph for a qualifying covered retiree for a coverage year enrolled with the sponsor of a qualified retiree prescription drug plan is,for the portion of the retiree's gross covered retiree plan-related prescription drug costs (as defined in subparagraph (C)(ii)) for such year that exceeds the cost threshold amount specified in subparagraph (B) and does not exceed the cost limit under such subparagraph, an amount equal to 28 percent of the allowable retiree costs (as defined in subparagraph (C)(i)) attributable to such gross covered prescription drug costs.
 
 #### (B) Cost threshold and cost limit applicable
 
@@ -96,7 +96,7 @@ For purposes of this section:
 
 #### (2) Sponsor
 
-&emsp;The term "sponsor" means a plan sponsor, as defined in section 1002(16)(B) of title 29, in relation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.
+&emsp;The term "sponsor" means a plan sponsor, as defined in section 1002(16)(B) of title 29, inrelation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.
 
 #### (3) Group health plan
 

@@ -4,7 +4,7 @@
 
 From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
 
-&emsp;(1) the approximate real property taxes and assessments for local improvements whichwould be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
+&emsp;(1) the approximate real property taxes and assessments for local improvements which would be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
 
 &emsp;(2) the maintaining of municipal services at a level which will not impede the recruitment or retention of personnel essential to the Energy Research and Development Administration programs;
 
@@ -28,11 +28,11 @@ Payments made under this section shall be payments made for special burdens impo
 
 #### (d) Recommendation for further assistance payments
 
-With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) of this section (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
+With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
 
 #### (e) Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency
 
-In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
+In exercising the authority of subsection (a) the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
 (Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 95–238, §205(a)(2), inserted provisions for applicabilit
 
 Subsec. (a)(2). Pub. L. 94–187, §601(2), substituted "Energy Research and Development Administration" for "atomic energy".
 
-Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted "Administrator" for "Commission", struck out "its"before "recommendations", and inserted "; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee" after "Richland School District" in parenthetical text.
+Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted "Administrator" for "Commission", struck out "its" before "recommendations", and inserted "; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee" after "Richland School District" in parenthetical text.
 
 Subsec. (e). Pub. L. 94–187, §601(1), (4), substituted "Administrator" for "Commission" in two places and struck out "itself" after "shall assure".
 
@@ -130,7 +130,7 @@ Agreement for Allocation of Parcels.—As soon as practicable after completing t
 
 "(f)
 
-Plan for Conveyance and Transfer.—(1) Not later than 90 days after the date of the submittal to theSecretary of Energy of the agreement under subsection (e), the Secretary shall submit to the congressional defense committees a plan for conveying or transferring parcels of land under this section in accordance with the allocation specified in the agreement.
+Plan for Conveyance and Transfer.—(1) Not later than 90 days after the date of the submittal to the Secretary of Energy of the agreement under subsection (e), the Secretary shall submit to the congressional defense committees a plan for conveying or transferring parcels of land under this section in accordance with the allocation specified in the agreement.
 
 "(2) The plan under paragraph (1) shall provide for the completion of the conveyance or transfer of parcels under this section not later than 9 months after the date of the submittal of the plan under that paragraph.
 

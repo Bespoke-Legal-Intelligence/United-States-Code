@@ -14,7 +14,7 @@ The amount of any grant made under subsection (a) may not exceed an amount equal
 
 #### (d) Audit
 
-Each recipient of a grant or contract under this section shall make available to the Secretary concerned and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, or record that is pertinent to the funds received under such grant or contract.
+Each recipient of a grant or contract under this section shall make available to the Secretary concerned and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, orrecord that is pertinent to the funds received under such grant or contract.
 
 (Pub. L. 96–362, §7, Sept. 26, 1980, 94 Stat. 1204.)
 

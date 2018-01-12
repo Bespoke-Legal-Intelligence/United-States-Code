@@ -12,6 +12,7 @@ Part E—General Provisions Relating to Drugs and Devices
 - [&sect; 00360bbb&#8211;3 - Authorization for medical products for use in emergencies](%C2%A7%2000360bbb%E2%80%933%20-%20Authorization%20for%20medical%20products%20for%20use%20in%20emergencies.md)
 - [&sect; 00360bbb&#8211;3a - Emergency use of medical products](%C2%A7%2000360bbb%E2%80%933a%20-%20Emergency%20use%20of%20medical%20products.md)
 - [&sect; 00360bbb&#8211;3b - Products held for emergency use](%C2%A7%2000360bbb%E2%80%933b%20-%20Products%20held%20for%20emergency%20use.md)
+- [&sect; 00360bbb&#8211;3c - Expedited development and review of medical products for emergency uses](%C2%A7%2000360bbb%E2%80%933c%20-%20Expedited%20development%20and%20review%20of%20medical%20products%20for%20emergency%20uses.md)
 - [&sect; 00360bbb&#8211;4 - Countermeasure development, review, and technical assistance](%C2%A7%2000360bbb%E2%80%934%20-%20Countermeasure%20development%2C%20review%2C%20and%20technical%20assistance.md)
 - [&sect; 00360bbb&#8211;4a - Priority review to encourage treatments for agents that present national security threats](%C2%A7%2000360bbb%E2%80%934a%20-%20Priority%20review%20to%20encourage%20treatments%20for%20agents%20that%20present%20national%20security%20threats.md)
 - [&sect; 00360bbb&#8211;5 - Critical Path Public-Private Partnerships](%C2%A7%2000360bbb%E2%80%935%20-%20Critical%20Path%20Public-Private%20Partnerships.md)

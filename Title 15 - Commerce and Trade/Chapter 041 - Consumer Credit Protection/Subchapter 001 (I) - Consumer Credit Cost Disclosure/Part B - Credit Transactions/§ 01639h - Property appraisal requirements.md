@@ -44,7 +44,7 @@ A creditor shall provide 1 copy of each appraisal conducted in accordance with t
 
 #### (d) Consumer notification
 
-At the time of the initial mortgage application, the applicant shall be provided with astatement by the creditor that any appraisal prepared for the mortgage is for the sole use of the creditor, and that the applicant may choose to have a separate appraisal conducted at the expense of the applicant.
+At the time of the initial mortgage application, the applicant shall be provided with a statement by the creditor that any appraisal prepared for the mortgage is for the sole use of the creditor, and that the applicant may choose to have a separate appraisal conducted at the expense of the applicant.
 
 #### (e) Violations
 

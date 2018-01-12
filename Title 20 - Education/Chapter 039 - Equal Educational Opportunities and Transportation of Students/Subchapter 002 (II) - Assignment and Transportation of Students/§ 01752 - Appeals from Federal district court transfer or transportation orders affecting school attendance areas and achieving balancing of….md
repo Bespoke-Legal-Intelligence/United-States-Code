@@ -4,3 +4,7 @@ Notwithstanding any other law or provision of law, in the case of any order on t
 
 (Pub. L. 93–380, title II, §253, Aug. 21, 1974, 88 Stat. 519.)
 
+#### Effective Date
+
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under section 1221–1 of this title.
+

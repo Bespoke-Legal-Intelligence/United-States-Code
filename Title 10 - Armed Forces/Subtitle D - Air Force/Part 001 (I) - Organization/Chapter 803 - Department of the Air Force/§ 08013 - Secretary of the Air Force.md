@@ -4,7 +4,7 @@
 
 (2) A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, theSecretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
+(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
 
 &emsp;(1) Recruiting.
 
@@ -48,7 +48,7 @@
 
 (d) The Secretary of the Air Force is also responsible for such other activities as may be prescribed by law or by the President or Secretary of Defense.
 
-(e) After first informing the Secretary of Defense, the Secretary of the Air Force may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
+(e) After first informing the Secretary of Defense, the Secretary of the Air Force may makesuch recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
 (f) The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 

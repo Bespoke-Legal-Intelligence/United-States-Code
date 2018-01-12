@@ -2,9 +2,13 @@
 
 (a) For purposes of this section—
 
-&emsp;(1) the term "member" has the meaning given such term by section 211 of title 37; and
+&emsp;(1) the term "basic pay" means basic pay payable under section 204 of title 37;
 
-&emsp;(2) the term "basic pay" means basic pay payable under section 204 of title 37.
+&emsp;(2) the term "full TSP member" means a member described in subsection (e)(1);
+
+&emsp;(3) the term "member" has the meaning given the term in section 211 of title 37; and
+
+&emsp;(4) the term "Secretary concerned" has the meaning given the term in section 101 of title 37.
 
 (b)(1) Any member eligible to participate in the Thrift Savings Plan by virtue of section 211(b) of title 37 may contribute to the Thrift Savings Fund.
 
@@ -24,81 +28,61 @@
 
 (3) Nothing in this section or section 211 of title 37 shall be considered to waive any dollar limitation under the Internal Revenue Code of 1986 which otherwise applies with respect to the Thrift Savings Fund.
 
-(e) Except as provided in section 211(d) of title 37, no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.
+(e)
+
+Modernized Retirement System.—
+
+&emsp;(1)
+
+TSP contributions.—Notwithstanding any other provision of law, the Secretary concerned shall make contributions to the Thrift Savings Fund, in accordance with section 8432 (except to the extent the requirements under such section are modified by this subsection), for the benefit of a member—
+
+&emsp;&emsp;(A) who first enters a uniformed service on or after January 1, 2018; or
+
+&emsp;&emsp;(B) who—
+
+&emsp;&emsp;&emsp;(i) first entered a uniformed service before January 1, 2018;
+
+&emsp;&emsp;&emsp;(ii) has completed fewer than 12 years of service in the uniformed services as of December 31, 2017; and
+
+&emsp;&emsp;&emsp;(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.
+
+&emsp;(2)
+
+Maximum amount.—The amount contributed under this subsection by the Secretary concerned for the benefit of a full TSP member for any pay period shall not be more than 5 percent of the member's basic pay for such pay period. Any such contribution under this subsection, though in accordance with section 8432 as provided in paragraph (1), is instead of, and not in addition to, amounts contributable under section 8432 as provided in section 8432(c).
+
+&emsp;(3)
+
+Timing and duration of contributions.—
+
+&emsp;&emsp;(A)
+
+Automatic contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(1) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
+
+&emsp;&emsp;&emsp;(i) begins—
+
+&emsp;&emsp;&emsp;&emsp;(I) on or after the day that is 60 days afer the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
+
+&emsp;&emsp;&emsp;&emsp;(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
+
+&emsp;&emsp;&emsp;(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.
+
+&emsp;&emsp;(B)
+
+Matching contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(2) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
+
+&emsp;&emsp;&emsp;(i) begins—
+
+&emsp;&emsp;&emsp;&emsp;(I) on or after the day that is 2 years and 1 day after the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
+
+&emsp;&emsp;&emsp;&emsp;(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
+
+&emsp;&emsp;&emsp;(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.
+
+&emsp;(4)
+
+Protections for spouses and former spouses.—Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.
 
 (Added Pub. L. 106–65, div. A, title VI, §661(a)(2)(A), Oct. 5, 1999, 113 Stat. 670; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(8), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 114–92, div. A, title VI, §632(a), Nov. 25, 2015, 129 Stat. 845.)
-
-#### Amendment of Subsections (a) and (e)
-
-<i>Pub. L. 114–92, div. A, title VI, §§632(a), 635, Nov. 25, 2015, 129 Stat. 845, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking paragraphs (1) and (2) and inserting the following new paragraphs:</i>
-
-&emsp;<i>"(1) the term 'basic pay' means basic pay payable under section 204 of title 37;</i>
-
-&emsp;<i>"(2) the term 'full TSP member' means a member described in subsection (e)(1);</i>
-
-&emsp;<i>"(3) the term 'member' has the meaning given the term in section 211 of title 37; and</i>
-
-&emsp;<i>"(4) the term 'Secretary concerned' has the meaning given the term in section 101 of title 37."; and</i>
-
-<i>(2) by amending subsection (e) to read as follows:</i>
-
-<i>(e)</i>
-
-<i>Modernized Retirement System.—</i>
-
-&emsp;<i>(1)</i>
-
-<i>TSP contributions.—Notwithstanding any other provision of law, the Secretary concerned shall make contributions to the Thrift Savings Fund, in accordance with section 8432 (except to the extent the requirements under such section are modified by this subsection), for the benefit of a member—</i>
-
-&emsp;&emsp;<i>(A) who first enters a uniformed service on or after January 1, 2018; or</i>
-
-&emsp;&emsp;<i>(B) who—</i>
-
-&emsp;&emsp;&emsp;<i>(i) first entered a uniformed service before January 1, 2018;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) has completed fewer than 12 years of service in the uniformed services as of December 31, 2017; and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.</i>
-
-&emsp;<i>(2)</i>
-
-<i>Maximum amount.—The amount contributed under this subsection by the Secretary concerned for the benefit of a full TSP member for any pay period shall not be more than 5 percent of the member's basic pay for such pay period. Any such contribution under this subsection, though in accordance with section 8432 as provided in paragraph (1), is instead of, and not in addition to, amounts contributable under section 8432 as provided in section 8432(c).</i>
-
-&emsp;<i>(3)</i>
-
-<i>Timing and duration of contributions.—</i>
-
-&emsp;&emsp;<i>(A)</i>
-
-<i>Automatic contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(1) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) begins—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the day that is 60 days afer the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.</i>
-
-&emsp;&emsp;<i>(B)</i>
-
-<i>Matching contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(2) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—</i>
-
-&emsp;&emsp;&emsp;<i>(i) begins—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the day that is 2 years and 1 day after the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.</i>
-
-&emsp;<i>(4)</i>
-
-<i>Protections for spouses and former spouses.—Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 

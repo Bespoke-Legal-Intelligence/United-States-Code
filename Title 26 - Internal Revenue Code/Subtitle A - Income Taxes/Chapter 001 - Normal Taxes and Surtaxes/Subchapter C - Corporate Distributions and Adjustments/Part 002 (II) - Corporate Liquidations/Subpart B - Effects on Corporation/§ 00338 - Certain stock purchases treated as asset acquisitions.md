@@ -270,7 +270,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(1) regulations to ensure that the purpose of this section to require consistency of treatment of stock and asset sales and purchases may not be circumvented through the use of any provision of law or regulations (including the consolidated return regulations) and
 
-&emsp;(2) regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
+&emsp;(2) regulations providing for the coordination of the provisions of this section with theprovision of this title relating to foreign corporations and their shareholders.
 
 (Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597.)
 
@@ -394,7 +394,7 @@ Amendment by sections 1006(e)(20) and 1018(d)(9) of Pub. L. 100–647 effective,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(b), (e)(5) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(b), (e)(5) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 1275(c)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -420,7 +420,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Pub. L. 97–248, title II, §224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, §306(a)(8)(B), Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, §306(a)(8)(B),Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -502,7 +502,7 @@ Pub. L. 98–369, div. A, title VII, §712(k)(10), July 18, 1984, 98 Stat. 953, 
 
 #### Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group
 
-Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, titleVII, §722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
+Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, title VII, §722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
 
 &emsp;"(I) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after September 1, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], and
 

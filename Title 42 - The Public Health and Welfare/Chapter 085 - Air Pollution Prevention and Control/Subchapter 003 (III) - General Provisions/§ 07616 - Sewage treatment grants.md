@@ -2,11 +2,11 @@
 
 #### (a) Construction
 
-No grant which the Administrator is authorized to make to any applicant for construction of sewage treatment works in any area in any State may be withheld, conditioned, or restricted by the Administrator on the basis of any requirement of this chapter except as provided in subsection (b) of this section.
+No grant which the Administrator is authorized to make to any applicant for construction of sewage treatment works in any area in any State may be withheld, conditioned, or restricted by the Administrator on the basis of any requirement of this chapter except as provided in subsection (b).
 
 #### (b) Withholding, conditioning, or restriction of construction grants
 
-The Administrator may withhold, condition, or restrict the making of any grant for construction referred to in subsection (a) of this section only if he determines that—
+The Administrator may withhold, condition, or restrict the making of any grant for construction referred to in subsection (a) only if he determines that—
 
 &emsp;(1) such treatment works will not comply with applicable standards under section 7411 or 7412 of this title,
 
@@ -14,7 +14,7 @@ The Administrator may withhold, condition, or restrict the making of any grant f
 
 &emsp;(3) the construction of such treatment works would create new sewage treatment capacity which—
 
-&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase provided for under the provisions referred to in paragraph (2) for any such area, or
+&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase providedfor under the provisions referred to in paragraph (2) for any such area, or
 
 &emsp;&emsp;(B) would otherwise not be in conformity with the applicable implementation plan, or
 

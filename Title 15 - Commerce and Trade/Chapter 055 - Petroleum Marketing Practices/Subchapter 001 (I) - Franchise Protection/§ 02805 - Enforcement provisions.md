@@ -30,7 +30,7 @@ If a franchisor fails to comply with the requirements of section 2802, 2803, or 
 
 &emsp;(B) more than 180 days after the date on which notification pursuant to section 2804(b)(2) of this title was posted or personally delivered to the franchisee; or
 
-&emsp;(C) more than 30 days after the date on which the termination of such franchise or the nonrenewal of such franchise relationship takes effect if less than 90 days notification was provided pursuant to section 2804(b)(1) of this title.
+&emsp;(C) more than 30 days after the date on which the termination of such franchise or the nonrenewal of such franchise relationshiptakes effect if less than 90 days notification was provided pursuant to section 2804(b)(1) of this title.
 
 #### (c) Burden of proof; burden of going forward with evidence
 

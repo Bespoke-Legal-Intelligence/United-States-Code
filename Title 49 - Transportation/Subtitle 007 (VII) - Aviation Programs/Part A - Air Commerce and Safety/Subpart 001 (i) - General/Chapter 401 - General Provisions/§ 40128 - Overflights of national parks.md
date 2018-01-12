@@ -66,7 +66,7 @@ Exception.—Notwithstanding paragraph (1), commercial air tour operators may co
 
 &emsp;(4)
 
-Special rule for safety requirements.—Notwithstanding subsection (c), an existing commercial air tour operator shall apply, not later than 90 days after the date of the enactment of this section, for operating authority under part 119, 121, or 135 of title 14, Code of Federal Regulations. A new entrant commercial air tour operator shall apply for such authority before conducting commercial air tour operations over a national park or tribal lands. The Administrator shall make every effort to act on any such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
+Special rule for safety requirements.—Notwithstanding subsection (c), an existing commercial air tour operator shall apply, not later than 90 days after the date of the enactment of this section, for operating authority under part 119, 121, or 135 of title 14, Code of Federal Regulations. A new entrant commercial air tour operator shall apply for such authority before conducting commercialair tour operations over a national park or tribal lands. The Administrator shall make every effort to act on any such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
 
 &emsp;(5)
 
@@ -94,7 +94,7 @@ Notification of withdrawal of exemption.—The Director shall inform the Adminis
 
 &emsp;&emsp;(D)
 
-Annual report.—A commercial air tour operator conducting commercial air tour operations over a national park that is exempt from the requirements of this section shall submit to the Administrator and the Director a report each year that includesthe number of commercial air tour operations the operator conducted during the preceding 1-year period over such park.
+Annual report.—A commercial air tour operator conducting commercial air tour operations over a national park that is exempt from the requirements of this section shall submit to the Administrator and the Director a report each year that includes the number of commercial air tour operations the operator conducted during the preceding 1-year period over such park.
 
 (b)
 
@@ -354,7 +354,7 @@ Director.—The term "Director" means the Director of the National Park Service.
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (g)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
-The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is thedate of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
 
@@ -472,7 +472,7 @@ In general.—Not later than 15 years after the date of enactment of this Act, a
 
 &emsp;"(2)
 
-Conversion incentives.—Not later than 60 days after the date of enactment of this Act, the Secretary and the Administrator of the Federal AviationAdministration shall provide incentives for commercial air tour operators that convert to quiet aircraft technology (as determined in accordance with the regulations in effect on the day before the date of enactment of this Act) before the date specified in paragraph (1), such as increasing the flight allocations for such operators on a net basis consistent with section 804(c) of the National Park\[s\] Air Tours \[Tour\] Management Act of 2000 (title VIII of Public Law 106–181) \[set out below\], provided that the cumulative impact of such operations does not increase noise at Grand Canyon National Park."
+Conversion incentives.—Not later than 60 days after the date of enactment of this Act, the Secretary and the Administrator of the Federal Aviation Administration shall provide incentives for commercial air tour operators that convert to quiet aircraft technology (as determined in accordance with the regulations in effect on the day before the date of enactment of this Act) before the date specified in paragraph (1), such as increasing the flight allocations for such operators on a net basis consistent with section 804(c) of the National Park\[s\] Air Tours \[Tour\] Management Act of 2000 (title VIII of Public Law 106–181) \[set out below\], provided that the cumulative impact of such operations does not increase noise at Grand Canyon National Park."
 
 #### Grand Canyon Overflight Rules
 
@@ -564,7 +564,7 @@ Mandate To Restore Natural Quiet.—Nothing in this Act \[should be "this title"
 
 &emsp;"(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of the Federal Aviation Administration under Public Law 100–91 (\[former\] 16 U.S.C. 1a–1 note \[now set out below\]) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
 
-&emsp;"(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the naturalquiet and experience at the Grand Canyon National Park.
+&emsp;"(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park.
 
 #### "SEC. 805. ADVISORY GROUP.
 
@@ -740,7 +740,7 @@ Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], 
 
 &emsp;"(2)
 
-Implementation.—Not later than 90 days after receipt of the recommendations under paragraph (1) and after notice and opportunity for hearing, the Administrator shall prepare and issue a final plan for the management of air traffic in the air space above the Grand Canyon. The plan shall, by appropriate regulation, implement the recommendations of the Secretary without change unless the Administrator determines that implementing the recommendations would adversely affect aviation safety. If the Administrator determines that implementing the recommendations would adversely affect aviation safety, he shall, not later than 60 days after making such determination, in consultation with the Secretary and after notice and opportunity for hearing, review the recommendations consistent with the requirements of paragraph (1) to eliminate the adverse effects on aviation safety and issue regulations implementing the revised recommendations in the plan. In addition to the Administrator's authority to implement such regulations under the Federal Aviation Act of 1958\[see 49 U.S.C. 40101 et seq.\], the Secretary may enforce the appropriate requirements of the plan under such rules and regulations applicable to the units of the National Park System as he deems appropriate.
+Implementation.—Not later than 90 days after receipt of the recommendations under paragraph (1) and after notice and opportunity for hearing, the Administrator shall prepare and issue a final plan for the management of air traffic in the air space above the Grand Canyon. The plan shall, by appropriate regulation, implement the recommendations of the Secretary without change unless the Administrator determines that implementing the recommendations would adversely affect aviation safety. If the Administrator determines that implementing the recommendations would adversely affect aviation safety, he shall, not later than 60 days after making such determination, in consultation with the Secretary and after notice and opportunity for hearing, review the recommendations consistent with the requirements of paragraph (1) to eliminate the adverse effects on aviation safety and issue regulations implementing the revised recommendations in the plan. In addition to the Administrator's authority to implement such regulations under the Federal Aviation Act of 1958 \[see 49 U.S.C. 40101 et seq.\], the Secretary may enforce the appropriate requirements of the plan under such rules and regulations applicable to the units of the National Park System as he deems appropriate.
 
 &emsp;"(3)
 

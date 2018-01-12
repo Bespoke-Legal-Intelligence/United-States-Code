@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency,community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -66,7 +66,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (b) Discretionary grants
 
-In addition to grants or contracts made under subsection (a) of this section, grants or contracts under this section may be used for the following:
+In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
 
 &emsp;(1) Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
 
@@ -130,7 +130,7 @@ In addition to grants or contracts made under subsection (a) of this section, gr
 
 #### (c) Evaluation
 
-In making grants for projects under this section, the Secretary shall require all suchprojects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
+In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
 (Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
 

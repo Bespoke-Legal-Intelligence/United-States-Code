@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (b) Coordination
 
-The activities required to be performed by the Director under this chapter shall be coordinatedwith activities related to solid waste and sanitation facilities funded pursuant to other authorizations.
+The activities required to be performed by the Director under this chapter shall be coordinated with activities related to solid waste and sanitation facilities funded pursuant to other authorizations.
 
 (Pub. L. 103–399, §8, Oct. 22, 1994, 108 Stat. 4168.)
 

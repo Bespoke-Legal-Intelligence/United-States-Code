@@ -14,7 +14,7 @@ Except as provided in subsection (c), with respect to a new construction project
 
 #### (c) Exception to limitations on use of funds
 
-The limitation in subsection (b) on the obligation of funds for a construction project otherwise covered by such subsection shall not applywith respect to the obligation of funds for a particular project if the Secretary—
+The limitation in subsection (b) on the obligation of funds for a construction project otherwise covered by such subsection shall not apply with respect to the obligation of funds for a particular project if the Secretary—
 
 &emsp;(1) determines that it is necessary in the national interest to obligate funds for such project; and
 

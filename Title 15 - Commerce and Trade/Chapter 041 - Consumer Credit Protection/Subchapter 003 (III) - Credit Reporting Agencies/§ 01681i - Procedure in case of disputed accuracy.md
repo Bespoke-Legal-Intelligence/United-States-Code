@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A),the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -126,7 +126,7 @@ If the reinvestigation does not resolve the dispute, the consumer may file a bri
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
-Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe thatit is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
+Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
 
 #### (d) Notification of deletion of disputed information
 
@@ -270,7 +270,7 @@ Recommendations.—The report required under paragraph (2) shall include such re
 
 &emsp;"(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer's file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
 
-&emsp;"(B) furnishers of information to consumer reporting agencies maintain full and prompt compliancewith the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
+&emsp;"(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
 
 &emsp;"(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified."
 

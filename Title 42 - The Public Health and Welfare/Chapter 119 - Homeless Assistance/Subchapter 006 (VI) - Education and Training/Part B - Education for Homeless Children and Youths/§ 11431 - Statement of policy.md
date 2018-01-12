@@ -28,9 +28,9 @@ Par. (4). Pub. L. 114–95, §9101(3), substituted "challenging State academic s
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–95, title IX, §9107, Dec. 10, 2015, 129 Stat. 2137, provided that: "Except as provided in section 9105(b) \[set out as a note under section 11434a of this title\] or as otherwise provided in this Act \[see Tables for classification\], this title \[probably means "this part", meaning part A (§§9101–9107) of title IX of Pub. L. 114–95, amending this section and sections 11432 to 11435 of this title and enacting provisions set out asnotes under section 11434a of this title\] and the amendments made by this title take effect on October 1, 2016."
+Pub. L. 114–95, title IX, §9107, Dec. 10, 2015, 129 Stat. 2137, provided that: "Except as provided in section 9105(b) \[set out as a note under section 11434a of this title\] or as otherwise provided in this Act \[see Tables for classification\], this title \[probably means "this part", meaning part A (§§9101–9107) of title IX of Pub. L. 114–95, amending this section and sections 11432 to 11435 of this title and enacting provisions set out as notes under section 11434a of this title\] and the amendments made by this title take effect on October 1, 2016."
 
 #### Effective Date
 
-Part effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 

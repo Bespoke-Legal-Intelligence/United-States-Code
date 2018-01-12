@@ -14,7 +14,7 @@
 
 (3) The Commission, by a vote of not less than two of its members, shall annually adopt the rate of the fees authorized by this section which shall be payable to the Commission on a quarterly basis.
 
-(4) Failure to pay the fees imposed under the schedule established under paragraph (1) shall, subject to the regulations of the Commission, be grounds for revocation of the approval of the Chairman of any license, ordinance, or resolution required under this chapter for the operation of gaming.
+(4) Failure to pay the fees imposed under the schedule established under paragraph (1) shall,subject to the regulations of the Commission, be grounds for revocation of the approval of the Chairman of any license, ordinance, or resolution required under this chapter for the operation of gaming.
 
 (5) To the extent that revenue derived from fees imposed under the schedule established under paragraph (1) are not expended or committed at the close of any fiscal year, such surplus funds shall be credited to each gaming activity on a pro rata basis against such fees imposed for the succeeding year.
 

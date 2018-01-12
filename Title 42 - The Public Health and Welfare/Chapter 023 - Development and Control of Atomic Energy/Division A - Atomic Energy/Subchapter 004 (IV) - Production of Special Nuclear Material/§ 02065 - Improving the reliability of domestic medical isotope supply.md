@@ -58,7 +58,7 @@ The Secretary shall carry out a program to provide assistance for—
 
 #### (2) Title
 
-&emsp;The lease contracts shall provide for the producers of the molybdenum-99 to take title toand be responsible for the molybdenum-99 created by the irradiation, processing, or purification of uranium leased under this section.
+&emsp;The lease contracts shall provide for the producers of the molybdenum-99 to take title to and be responsible for the molybdenum-99 created by the irradiation, processing, or purification of uranium leased under this section.
 
 #### (3) Duties
 

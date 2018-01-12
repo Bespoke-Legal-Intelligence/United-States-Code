@@ -1,6 +1,6 @@
 ### §36c. Acceptance of contributions from public and private sources; cooperation with other agencies in prosecution of projects
 
-In fiscal year 1987 and thereafter the United States Geological Survey is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private.
+In fiscal year 1987 and thereafter the United States Geological Survey is authorized to acceptlands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private.
 
 (Pub. L. 99–500, §101(h) \[title I\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–252, and Pub. L. 99–591, §101(h) \[title I\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–252; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 

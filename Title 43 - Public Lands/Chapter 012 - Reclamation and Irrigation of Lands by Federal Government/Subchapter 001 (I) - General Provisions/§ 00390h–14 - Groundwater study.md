@@ -16,7 +16,7 @@ In conducting the investigation and analysis, and in preparation of the report r
 
 #### (c) Report
 
-The report shall be submitted to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate within three years of the appropriation of funds authorized by section 390h–15 of this title.
+The report shall be submitted to the Committees on Appropriations and Natural Resources ofthe House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate within three years of the appropriation of funds authorized by section 390h–15 of this title.
 
 (Pub. L. 102–575, title XVI, §1632, formerly §1616, Oct. 30, 1992, 106 Stat. 4668; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594; renumbered §1632 and amended Pub. L. 104–266, §2(a)(1), (b)(2), Oct. 9, 1996, 110 Stat. 3290, 3294.)
 

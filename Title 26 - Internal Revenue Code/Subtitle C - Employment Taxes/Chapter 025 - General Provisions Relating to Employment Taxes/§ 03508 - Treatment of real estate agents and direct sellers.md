@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the services performed by the person are performed pursuant to a written contract between such person and the person for whom the services are performed and such contract provides that the person will not be treated as an employee with respect to such services for Federal tax purposes.
 
-#### (3) Coordination with retirement plans for selfemployed
+#### (3) Coordination with retirement plans for self-employed
 
 &emsp;This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
 

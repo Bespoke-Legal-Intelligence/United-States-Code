@@ -40,7 +40,7 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;&emsp;&emsp;(iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
 
-> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
 
 #### (c) Rules applicable to subsection (b)(3)
 
@@ -48,7 +48,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;(1) In ascertaining the value of the taxpayer's investment in the securities of an issuer, for the purposes of subparagraph (B), there shall be included its proper proportion of the investment of any other corporation, a member of a controlled group, in the securities of such issuer, as determined under regulations prescribed by the Secretary.
 
-&emsp;(2) The term "controls" means the ownership in a corporation of 20 percent or more ofthe total combined voting power of all classes of stock entitled to vote.
+&emsp;(2) The term "controls" means the ownership in a corporation of 20 percent or more of the total combined voting power of all classes of stock entitled to vote.
 
 &emsp;(3) The term "controlled group" means one or more chains of corporations connected through stock ownership with the taxpayer if—
 
@@ -156,7 +156,7 @@ For purposes of this title—
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
-> This subsection shall not apply in the case of a unit investment trust which is a segregatedasset account under the insurance laws or regulations of a State.
+> This subsection shall not apply in the case of a unit investment trust which is a segregated asset account under the insurance laws or regulations of a State.
 
 #### (g) Special rule for series funds
 
@@ -190,13 +190,15 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 &emsp;&emsp;(B) 1/9 of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–97, title I, §14212(b)(1)(B), Dec. 22, 2017, 131 Stat. 2217.)
 
 #### References in Text
 
 The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 substituted "section 951(a)(1)(A)" for "section 951(a)(1)(A)(i)" in concluding provisions.
 
 <b>2014</b>—Subsec. (d)(2)(A). Pub. L. 113–295 inserted "of this paragraph" after "subparagraph (B)(i)" in introductory provisions.
 
@@ -294,6 +296,10 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (e)(2). Pub. L. 85–866, §38(b), substituted "issuer" for "issues".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §14212(c), Dec. 22, 2017, 131 Stat. 2217, provided that: "The amendments made by this section \[amending this section and sections 951, 952, 953, 964, and 970 of this title and repealing section 955 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, Pub. L. 111–325, to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under section 852(b)(8) of this title, see section 205(f) of Pub. L. 113–295, set out as a note under section 852 of this title.
@@ -308,7 +314,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1271(c) ofPub. L. 105–34, set out as a note under section 817 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1271(c) of Pub. L. 105–34, set out as a note under section 817 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -330,7 +336,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Treatment of certain existing series funds.—In the case of a regulated investment company which has more than one fund on the date of the enactment of this act, and has before such date been treated for Federal income tax purposes as a single corporation—
+Treatment of certain existing series funds.—In the case of a regulated investment company which has more than one fund on the date of the enactmentof this act, and has before such date been treated for Federal income tax purposes as a single corporation—
 
 &emsp;"(A) the amendment made by subsection (a), and the resulting treatment of each fund as a separate corporation, shall not give rise to the realization or recognition of income or loss by such regulated investment company, its funds, or its shareholders, and
 
@@ -354,7 +360,7 @@ Amendment by section 1901(a)(109) of Pub. L. 94–455 effective for taxable year
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 954 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -50,7 +50,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(2) the battle was significant because the Confederate defeat at Glorieta Pass resulted in the collapse of the Confederacy's plan to capture the riches and support of the West, thus largely ending the Civil War in the West; and
 
-&emsp;"(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currentlywithin the boundary of Pecos National Historical Park.
+&emsp;"(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currently within the boundary of Pecos National Historical Park.
 
 "(b)
 

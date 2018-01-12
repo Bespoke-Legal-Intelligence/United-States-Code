@@ -126,7 +126,7 @@ In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 a
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3502(b). See 2006 Amendment note below.
 
-Subsec. (f). Pub. L. 110–181, §3523(a)(2), incorporated the substance of the amendment by Pub. L. 109–163, §3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under thissection while used for training." See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (f). Pub. L. 110–181, §3523(a)(2), incorporated the substance of the amendment by Pub. L. 109–163, §3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training." See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3502(b), which directed the amendment of section 1295c(c)(2) of the former Appendix to this title from which subsec. (f) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (f) and Historical and Revision notes above.
 

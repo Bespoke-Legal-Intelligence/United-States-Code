@@ -48,7 +48,7 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 <b>1980</b>—Subsecs. (b), (c). Pub. L. 96–221, §309(a)(4), substituted "Board" for "Administrator" wherever appearing, such change having been made previously by Pub. L. 95–630.
 
-Subsecs. (d), (e). Pub. L. 96–221, §309(a)(4), (b)(2), substituted "Board" for "Administrator" wherever appearing, such change having been made previously by Pub.L. 95–630, and "title" for "subchapter" wherever appearing, which for purposes of codification has been editorially translated as "subchapter", thereby requiring no further change in text.
+Subsecs. (d), (e). Pub. L. 96–221, §309(a)(4), (b)(2), substituted "Board" for "Administrator" wherever appearing, such change having been made previously by Pub. L. 95–630, and "title" for "subchapter" wherever appearing, which for purposes of codification has been editorially translated as "subchapter", thereby requiring no further change in text.
 
 <b>1978</b>—Pub. L. 95–630, §502(b), substituted "Board" for "Administrator" wherever appearing.
 

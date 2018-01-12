@@ -40,7 +40,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (1) Existing rights, duties, and obligations not affected
 
-&emsp;Section 5581(b)(6) of this title does not affect the validity of any right, duty, or obligation ofthe United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
+&emsp;Section 5581(b)(6) of this title does not affect the validity of any right, duty, or obligation of the United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
 
 &emsp;&emsp;(A) arises under any provision of law relating to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title; <sup>1</sup> and
 
@@ -96,7 +96,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protectionfunctions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
+&emsp;Except as provided in paragraph (2) and under subsection (i), all orders, resolutions,determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
 
 #### (2) Exception for orders applicable to persons described in section 5515(a) of this title
 
@@ -130,7 +130,7 @@ This Act, referred to in subsecs. (a)(2), (b)(2), (d)(2), (e)(2), and (f)(2), is
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 

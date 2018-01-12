@@ -16,7 +16,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) consist of a specified portion of the interest payments on qualified mortgages and such portion does not vary during the period such interest is outstanding.
 
-> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
+> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principalpayments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
 
 #### (2) Residual interest
 
@@ -90,7 +90,7 @@ For purposes of this part—
 
 #### (C) Special rule
 
-&emsp;&emsp;A reserve shall not be treated as a qualified reserve for any taxable year (and all subsequent taxable years) if more than 30 percent of the gross income from the assets in such fund for the taxable year is derived from the sale or other disposition of property held for less than 3 months. For purposes of the preceding sentence, gain on the disposition of a qualified reserve asset shall not be taken into account if the disposition giving rise to such gain is required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.
+&emsp;&emsp;A reserve shall not be treated as a qualified reserve for any taxable year (and all subsequent taxable years) if more than 30 percent of the gross income from the assets in such fund for the taxable year is derived from the sale or other disposition of property held for less than 3 months. For purposes of the preceding sentence, gain on the disposition of a qualified reserve asset shallnot be taken into account if the disposition giving rise to such gain is required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.
 
 #### (8) Foreclosure property
 
@@ -108,7 +108,7 @@ For purposes of this part—
 
 #### (10) Issue price
 
-&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if suchinterest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
+&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if such interest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
 
 #### (b) Treatment of nonresident aliens and foreign corporations
 
@@ -168,13 +168,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: "For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: "For purposes of subparagraph (A), any obligation secured bystock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
 
 Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted "a reverse mortgage loan or other obligation" for "the obligation".
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §835(b)(5)(A), inserted at end of concluding provisions "An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC."
 
-Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions "For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligationtransferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
+Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions "For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
 
 Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding provisions ", and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property".
 

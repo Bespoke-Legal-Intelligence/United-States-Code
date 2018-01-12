@@ -99,12 +99,9 @@
 
 #### SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS
 
-|  |  |
-| :--- | ---: |
-| [5119\.](Subchapter%20006%20%28VI%29%20-%20Child%20Abuse%20Crime%20Information%20and%20Background%20Checks/%C2%A7%2005119%20-%20Reporting%20child%20abuse%20crime%20information.md) | Reporting child abuse crime information. |
-| [5119a.](Subchapter%20006%20%28VI%29%20-%20Child%20Abuse%20Crime%20Information%20and%20Background%20Checks/%C2%A7%2005119a%20-%20Background%20checks.md) | Background checks. |
-| [5119b.](Subchapter%20006%20%28VI%29%20-%20Child%20Abuse%20Crime%20Information%20and%20Background%20Checks/%C2%A7%2005119b%20-%20Funding%20for%20improvement%20of%20child%20abuse%20crime%20information.md) | Funding for improvement of child abuse crime information. |
-| [5119c.](Subchapter%20006%20%28VI%29%20-%20Child%20Abuse%20Crime%20Information%20and%20Background%20Checks/%C2%A7%2005119c%20-%20Definitions.md) | Definitions. |
+|  |
+| :--- |
+| 5119 to 5119c. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

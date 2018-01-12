@@ -6,7 +6,7 @@ The provisions of sections 406 and 416(j) of this title, and of subsections (a),
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–296 inserted before period at end ", except that, in applying such provisions with respectto this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively".
+<b>1994</b>—Pub. L. 103–296 inserted before period at end ", except that, in applying such provisions with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively".
 
 <b>1984</b>—Pub. L. 98–369 struck out the comma after "406" and struck out reference to subsec. (f) of section 405 of this title.
 

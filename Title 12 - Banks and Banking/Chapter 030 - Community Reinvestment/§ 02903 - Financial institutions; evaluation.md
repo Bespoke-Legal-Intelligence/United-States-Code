@@ -18,7 +18,7 @@ In assessing and taking into account, under subsection (a), the record of a nonm
 
 &emsp;An election by a bank holding company to become a financial holding company under section 1843 of this title shall not be effective if—
 
-&emsp;&emsp;(A) the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(l)(1)(C) <sup>1</sup> of this title, notall of the subsidiary insured depository institutions of the bank holding company had achieved a rating of "satisfactory record of meeting community credit needs", or better, at the most recent examination of each such institution; and
+&emsp;&emsp;(A) the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(l)(1)(C) <sup>1</sup> of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of "satisfactory record of meeting community credit needs", or better, at the most recent examination of each such institution; and
 
 &emsp;&emsp;(B) the Board notifies the company of such finding before the end of the 30-day period beginning on such date.
 

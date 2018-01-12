@@ -222,7 +222,7 @@
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservationand to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
+&emsp;The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
 
 #### (2) Cooperative agreements
 
@@ -302,7 +302,7 @@ Subsec. (a)(4)(C). Pub. L. 110–246, §14004(a)(3)(B), added subpar. (C).
 
 Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting "work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period" for "work with socially disadvantaged farmers or ranchers during the 2-year period", was executed by making the substitution for "work with socially disadvantaged farmers and ranchers during the 2-year period", to reflect the probable intent of Congress.
 
-Subsec. (g)(1). Pub. L. 110–246, §14001, substituted "Farm Service Agency and Natural Resources Conservation Service" for "Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices", inserted "where there has been a need demonstrated" after "include", and struck out at end "The tribe shall be required to provide the necessary office space if it wishes to participate in this program."
+Subsec. (g)(1). Pub. L. 110–246, §14001, substituted "Farm Service Agency and Natural Resources Conservation Service" for "Agricultural Stabilization and Conservation Service, Soil Conservation Service, andFarmers Home Administration offices", inserted "where there has been a need demonstrated" after "include", and struck out at end "The tribe shall be required to provide the necessary office space if it wishes to participate in this program."
 
 Subsec. (h). Pub. L. 110–246, §14005, added subsec. (h).
 

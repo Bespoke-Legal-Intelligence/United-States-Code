@@ -44,5 +44,9 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
 
+#### Effective Date
+
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "Attorney General's".</i>
 

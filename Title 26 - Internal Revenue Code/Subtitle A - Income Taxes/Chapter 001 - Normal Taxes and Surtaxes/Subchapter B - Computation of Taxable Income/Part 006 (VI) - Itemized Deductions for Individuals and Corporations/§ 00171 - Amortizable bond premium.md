@@ -134,7 +134,7 @@ Subsec. (a)(4). Pub. L. 94–455, §1901(b)(1)(E)(iii), redesignated par. (4) as
 
 Subsec. (b)(1)(B)(i). Pub. L. 94–455, §1951(b)(5)(A)(ii), substituted "clause (ii) applies, or" for "clause (ii) or (iii) applies" after "bond to which" and inserted "and" at the end.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted "subsection (a)(1)" for "subsection (c)(1)(B)" after "bond described in" and "and" for "or" after "1957".
+Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted "subsection (a)(1)" for"subsection (c)(1)(B)" after "bond described in" and "and" for "or" after "1957".
 
 Subsec. (b)(1)(B)(iii). Pub. L. 94–455, §1951(b)(5)(A)(i), struck out cl. (iii) relating to certain bonds acquired before 1958.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1006(j)(1)(C), Nov. 10, 1988, 102 Stat. 3411, provided that: "The amendments made bythis paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986."
+Pub. L. 100–647, title I, §1006(j)(1)(C), Nov. 10, 1988, 102 Stat. 3411, provided that: "The amendments made by this paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986."
 
 #### Effective Date of 1986 Amendment
 

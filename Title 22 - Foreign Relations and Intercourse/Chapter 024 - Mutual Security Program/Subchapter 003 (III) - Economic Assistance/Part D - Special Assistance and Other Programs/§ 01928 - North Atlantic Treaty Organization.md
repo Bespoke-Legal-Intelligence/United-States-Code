@@ -144,7 +144,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;"(20) At the NATO-Ukraine Commission Foreign Ministerial meeting in Vilnius in April 2005, NATO and Ukraine launched an Intensified Dialogue on the potential membership of Ukraine in NATO.
 
-&emsp;"(21) At the Riga Summit of the North Atlantic Treaty Organization in November 2006, the Heads of State and Government of the member countries of NATO issued a declaration reaffirming that NATO's door remains open to new members, declaring that 'all European democratic countries may be considered for MAP (Membership Action Plan) or admission, subject to decision by the NAC (North Atlantic Council) at each stage, based on the performance of these countries towards meeting the objectives of the North Atlantic Treaty. We direct that NATO Foreign Ministers keep that process under continual review and report to us. We welcome the efforts of Albania, Croatia, and the former Yugoslav Republic of Macedonia to prepare themselves for the responsibilities and obligations of membership. We reaffirm that the Alliance will continue with Georgia and Ukraine its Intensified Dialogues which cover the full range of political, military, financial and security issues relating to those countries' aspirations to membership, without prejudice to any eventual Alliance decision. We reaffirm the importance of the NATO-Ukraine Distinctive Partnership, which has its 10th anniversary next year and welcome the progress that has been made in the framework of our Intensified Dialogue. We appreciate Ukraine's substantial contributions to our common security, including through participation in NATO-led operations and efforts to promote regional cooperation. We encourage Ukraine to continue to contribute to regional security. We are determined to continue to assist, through practical cooperation, in the implementation of far-reaching reform efforts, notably in the fields of national security, defence, reform of the defence-industrial sector and fighting corruption. We welcome the commencement of an Intensified Dialogue with Georgia as well as Georgia's contribution to international peacekeeping and security operations. We will continue to engage actively with Georgia in support of its reformprocess. We encourage Georgia to continue progress on political, economic and military reforms, including strengthening judicial reform, as well as the peaceful resolution of outstanding conflicts on its territory. We reaffirm that it is of great importance that all parties in the region should engage constructively to promote regional peace and stability.'.
+&emsp;"(21) At the Riga Summit of the North Atlantic Treaty Organization in November 2006, the Heads of State and Government of the member countries of NATO issued a declaration reaffirming that NATO's door remains open to new members, declaring that 'all European democratic countries may be considered for MAP (Membership Action Plan) or admission, subject to decision by the NAC (North Atlantic Council) at each stage, based on the performance of these countries towards meeting the objectives of the North Atlantic Treaty. We direct that NATO Foreign Ministers keep that process under continual review and report to us. We welcome the efforts of Albania, Croatia, and the former Yugoslav Republic of Macedonia to prepare themselves for the responsibilities and obligations of membership. We reaffirm that the Alliance will continue with Georgia and Ukraine its Intensified Dialogues which cover the full range of political, military, financial and security issues relating to those countries' aspirations to membership, without prejudice to any eventual Alliance decision. We reaffirm the importance of the NATO-Ukraine Distinctive Partnership, which has its 10th anniversary next year and welcome the progress that has been made in the framework of our Intensified Dialogue. We appreciate Ukraine's substantial contributions to our common security, including through participation in NATO-led operations and efforts to promote regional cooperation. We encourage Ukraine to continue to contribute to regional security. We are determined to continue to assist, through practical cooperation, in the implementation of far-reaching reform efforts, notably in the fields of national security, defence, reform of the defence-industrial sector and fighting corruption. We welcome the commencement of an Intensified Dialogue with Georgia as well as Georgia's contribution to international peacekeeping and security operations. We will continue to engage actively with Georgia in support of its reform process. We encourage Georgia to continue progress on political, economic and military reforms, including strengthening judicial reform, as well as the peaceful resolution of outstanding conflicts on its territory. We reaffirm that it is of great importance that all parties in the region should engage constructively to promote regional peace and stability.'.
 
 &emsp;"(22) Contingent upon their continued implementation of democratic, defense, and economic reform, and their willingness and ability to meet the responsibilities of membership in the North Atlantic Treaty Organization and a clear expression of national intent to do so, Congress calls for the timely admission of Albania, Croatia, Georgia, Macedonia (FYROM), and Ukraine to the North Atlantic Treaty Organization to promote security and stability in Europe.
 
@@ -224,7 +224,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(H) deployable combat support and combat service support units.
 
-&emsp;"(3) The NATO Response Force is envisioned to be a technologically advanced, flexible, deployable, interoperable, and sustainable force that includes land, sea, and air elements ready to move quickly towherever needed, as determined by the North Atlantic Council. The NATO Response Force is also intended to be a catalyst for focusing and promoting improvements in NATO's military capabilities. It is expected to have initial operational capability by October 2004, and full operational capability by October 2006.
+&emsp;"(3) The NATO Response Force is envisioned to be a technologically advanced, flexible, deployable, interoperable, and sustainable force that includes land, sea, and air elements ready to move quickly to wherever needed, as determined by the North Atlantic Council. The NATO Response Force is also intended to be a catalyst for focusing and promoting improvements in NATO's military capabilities. It is expected to have initial operational capability by October 2004, and full operational capability by October 2006.
 
 "(b)
 
@@ -302,7 +302,7 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 &emsp;"(5) At the Washington Summit of the NATO Alliance in April 1999, the NATO heads of state and government issued a communique declaring '\[w\]e pledge that NATO will continue to welcome new members in a position to further the principles of the \[North Atlantic\] Treaty and contribute to peace and security in the Euro-Atlantic area . . . \[t\]he three new members will not be the last . . . \[n\]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location . . .'.
 
-&emsp;"(6) In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decide which additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
+&emsp;"(6) In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decidewhich additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
 
 &emsp;"(7) In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that their countries will cooperate in jointly seeking NATO membership in the next round of NATO enlargement, that the realization of NATO membership by one or more of these countries would be a success for all, and that eventual NATO membership for all of these countries would be a success for Europe and NATO.
 
@@ -390,7 +390,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681
 
 "(a)
 
-Policy With Respect to NATO Enlargement.—Congress urges the President to outline a clear and complete strategic rationale for the enlargement of the North Atlantic Treaty Organization (NATO), and declares that—
+Policy With Respect to NATO Enlargement.—Congress urges the President to outline a clear and complete strategic rationale for the enlargement of theNorth Atlantic Treaty Organization (NATO), and declares that—
 
 &emsp;"(1) Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO;
 
@@ -462,7 +462,7 @@ Discussions with nato allies.—The United States should initiate discussions wi
 
 &emsp;"(3)
 
-Constitutional prerogatives.—Even as the Congress seeks to promote ballistic missile defense cooperation with Russia, it must insist on its constitutional prerogatives regarding consideration ofarms control agreements with Russia that bear on ballistic missile defense.
+Constitutional prerogatives.—Even as the Congress seeks to promote ballistic missile defense cooperation with Russia, it must insist on its constitutional prerogatives regarding consideration of arms control agreements with Russia that bear on ballistic missile defense.
 
 #### "SEC. 2703. AUTHORITIES RELATING TO NATO ENLARGEMENT.
 
@@ -712,7 +712,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 "(a)
 
-In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and shall be deemed to have been so designatedpursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
+In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
 
 "(b)
 
@@ -808,7 +808,7 @@ Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as a
 
 Efforts To Increase Allied Burdensharing.—The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
-&emsp;"(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving bySeptember 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
+&emsp;"(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
 &emsp;"(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1999.
 
@@ -914,7 +914,7 @@ Conduct of Program.—The program established under subsection (a) shall facilit
 
 "(c)
 
-Type of Assistance.—In carrying out the program established under subsection (a), the President may provide to the countries designated under subsection (d) the following types of security assistance:
+Type of Assistance.—In carrying out the program established under subsection (a), the Presidentmay provide to the countries designated under subsection (d) the following types of security assistance:
 
 &emsp;"(1) The transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j\].
 
@@ -986,7 +986,7 @@ Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the el
 
 "(a)
 
-Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
+Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and 65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
 
 "(b)
 
@@ -1036,7 +1036,7 @@ Authority of the President.—The President is authorized to confer, pursuant to
 
 #### Defense Cost-Sharing
 
-Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895, provided that:
+Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895; Pub. L. 115–91, div. A, title X, §1051(e), Dec. 12, 2017, 131 Stat. 1563, provided that:
 
 "(a)
 
@@ -1074,22 +1074,6 @@ Allies Mutual Defense Payments Account.—The Secretary of Defense shall maintai
 
 &emsp;"(6) costs to the United States that arise solely from the implementation of the provisions of the bilateral or multilateral defense agreement with the nation.
 
-"(e)
-
-Reporting Requirements.—The Secretary of Defense shall include in each Report on Allied Contributions to the Common Defense prepared under section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) information, in classified and unclassified form—
-
-&emsp;"(1) describing the efforts undertaken and the progress made by the President in carrying out subsections (a) and (c) during the period covered by the report;
-
-&emsp;"(2) specifying the accounting of defense cost-sharing contributions maintained under subsection (d) during that period;
-
-&emsp;"(3) assessing how equitably foreign nations not described in subsection (a) or excepted under subsection (b) are sharing the costs and burdens of implementing defense agreements with the United States and how those defense agreements serve the national security interests of the United States; and
-
-&emsp;"(4) specifying the incremental costs to the United States associated with the permanent stationing ashore of United States forces in foreign nations.
-
-"(f)
-
-Incremental Costs Defined.—In this section, the term 'incremental costs', with respect to permanent stationing ashore of United States forces in foreign nations, means the difference between the costs associated with maintaining United States military forces in assignments to permanent duty ashore in the foreign nations and the costs associated with maintaining those same military forces at military bases in the United States."
-
 #### Active-Duty Forces in Europe of Member Nations of NATO
 
 Pub. L. 101–189, div. A, title IX, §912, Nov. 29, 1989, 103 Stat. 1523, directed Secretary of Defense to ensure that, for the next three years, the current ratio (expressed as a percentage) of U.S. active duty forces in Europe to allied active duty forces in Europe does not increase by more than a specified amount.
@@ -1126,7 +1110,7 @@ Sense of Congress.—In light of the findings in subsection (a), it is the sense
 
 #### Report on Official Development Assistance Program of Japan
 
-Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, provided that: "The Secretary of Defense shall include with the annual report submitted pursuant to section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits."
+Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, which required annual reports on the Official Development Assistance program of the Government of Japan, was repealed by Pub. L. 115–91, div. A, title X, §1051(c), Dec. 12, 2017, 131 Stat. 1562.
 
 #### Japan-United States Security Relationship and Efforts by Japan To Fulfill Self-Defense Responsibilities
 
@@ -1148,7 +1132,7 @@ Findings.—The Congress hereby finds—
 
 &emsp;"(6) the United States Government appreciates the contribution already made by Japan through the Host Nation Support Program and its recent efforts to increase its defense spending; and
 
-&emsp;"(7) Japan, however, in recent years consistently has not provided sufficient funding and resources tomeet its self-defense needs and to meet common United States-Japan defense objectives and alliance responsibilities.
+&emsp;"(7) Japan, however, in recent years consistently has not provided sufficient funding and resources to meet its self-defense needs and to meet common United States-Japan defense objectives and alliance responsibilities.
 
 "(b)
 
@@ -1214,7 +1198,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 #### Report on Allied Contributions to the Common Defense
 
-Pub. L. 98–525, title X, §1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, §1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, §1084(e), Sept. 23, 1996, 110 Stat. 2675; Pub. L. 108–136, div. A, title X, §1045(e), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 110–417, \[div. A\], title XII, §1238(a), Oct. 14, 2008, 122 Stat. 4644, provided that:
+Pub. L. 98–525, title X, §1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, §1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, §1084(e), Sept. 23, 1996, 110 Stat. 2675; Pub. L. 108–136, div. A, title X, §1045(e), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 110–417, \[div. A\], title XII, §1238(a), Oct. 14, 2008, 122 Stat. 4644; Pub. L. 115–91, div. A, title X, §1051(b), Dec. 12, 2017, 131 Stat. 1562, provided that:
 
 "(a) In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
 
@@ -1229,18 +1213,6 @@ Pub. L. 98–525, title X, §1003, Oct. 19, 1984, 98 Stat. 2576, as amended by P
 &emsp;"(5) the continued unwillingness of such countries to increase their contributions to the common defense to more appropriate levels will endanger the vitality, effectiveness, and cohesion of the alliances between those countries and the United States.
 
 "(b) It is further the sense of the Congress that the President should seek from each signatory country (other than the United States) of the two treaties referred to in subsection (a) acceptance of international security responsibilities and an agreement to make contributions to the common defense which are commensurate with the economic resources of such country, including, when appropriate, an increase in host nation support.
-
-"(c) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives each year, not later than March 1, a report containing a description of—
-
-&emsp;"(1) annual defense spending by each member nation of NATO, by each member nation of the Euro-Atlantic Partnership Council (EAPC), and by Japan, including available nominal budget figures and defense spending as a percentage of the respective nation's gross domestic product for the fiscal year immediately preceding the fiscal year in which the report is submitted;
-
-&emsp;"(2) activities of each NATO member nation, each EAPC member nation, and Japan to contribute to military or stability operations in which the United States Armed Forces are a participant;
-
-&emsp;"(3) any limitations that such nations place on the use of their national contributions described in paragraph (2); and
-
-&emsp;"(4) any actions undertaken by the United States Government to minimize those limitations described in paragraph (3).
-
-"(d) The report required under subsection (c) shall be submitted in unclassified form, but may include a classified annex."
 
 \[Pub. L. 108–136, div. A, title X, §1045(e), Nov. 24, 2003, 117 Stat. 1613, provided in part that: "The amendment made by the preceding sentence \[amending section 1084(e) of 104–201, set out in the credit of the note above\] shall take effect as if included in Public Law 104–201."\]
 

@@ -4,7 +4,7 @@
 
 (1) The Administrator may conduct research, studies, and demonstrations relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and other impairments of man resulting directly or indirectly from contaminants in water, or to the provision of a dependably safe supply of drinking water, including—
 
-&emsp;(A) improved methods (i) to identify and measure the existence of contaminants in drinking water (including methods which may be used by State and local health and water officials), and (ii) to identify the source of such contaminants;
+&emsp;(A) improved methods (i) to identify and measure the existence of contaminants in drinking water (including methods which maybe used by State and local health and water officials), and (ii) to identify the source of such contaminants;
 
 &emsp;(B) improved methods to identify and measure the health effects of contaminants in drinking water;
 
@@ -132,7 +132,7 @@ Subsec. (e)(8). Pub. L. 114–98, §4(3), added par. (8).
 
 Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: "(2)(A) The Administratorshall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title)."
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: "(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title)."
 
 Subsec. (a)(2)(B). Pub. L. 104–182, §121(3), redesignated subpar. (B) as subsec. (b) and transferred that subsec. to appear after subsec. (a).
 

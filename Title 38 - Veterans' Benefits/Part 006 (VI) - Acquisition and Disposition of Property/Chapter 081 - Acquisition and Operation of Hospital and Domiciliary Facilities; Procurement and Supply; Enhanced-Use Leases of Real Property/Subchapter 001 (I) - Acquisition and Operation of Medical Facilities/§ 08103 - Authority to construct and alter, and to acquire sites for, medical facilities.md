@@ -12,7 +12,7 @@
 
 (c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for another site to be used for that purpose or may sell such site.
 
-(d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursinghome care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
+(d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursing home care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
 
 (2)(A) In carrying out this subsection and notwithstanding any other provision of law, the Secretary may lease, with or without compensation and for a period of not to exceed 35 years, to another party any of the real property described in paragraph (1) of this subsection.
 
@@ -34,7 +34,7 @@
 
 &emsp;(i) the rental rate paid by the Secretary for such space under paragraph (3) of this subsection; plus
 
-&emsp;(ii) the amount the Secretary pays for the costs of administering such facility (including operation, maintenance, utility, and rehabilitation costs) which are attributable to such space.
+&emsp;(ii) the amount the Secretary pays for the costs of administering such facility (includingoperation, maintenance, utility, and rehabilitation costs) which are attributable to such space.
 
 (B) In any such sublease, the Secretary shall include such terms relating to default and nonperformance as the Secretary considers appropriate to protect the interests of the United States.
 
@@ -83,6 +83,10 @@ Pub. L. 114–58, title V, §502(b), Sept. 30, 2015, 129 Stat. 538, provided tha
 &emsp;"(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act (Public Law 114–19; 129 Stat. 215).
 
 &emsp;"(2) Any super construction project (as defined in section 8103(e)(3) of title 38, United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act \[Sept. 30, 2015\]."
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
 #### Communities Helping Invest Through Property and Improvements Needed for Veterans
 
@@ -214,7 +218,7 @@ Elements.—Information submitted under paragraph (1) shall provide a detailed s
 
 "(h)
 
-Biennial Report of Comptroller General of the United States.—Not less frequently than onceevery 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
 
 "(i)
 

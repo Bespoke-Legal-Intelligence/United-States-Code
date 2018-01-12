@@ -38,6 +38,32 @@ Pub. L. 96–8, §18, Apr. 10, 1979, 93 Stat. 21, provided that: "This Act \[ena
 
 Pub. L. 96–8, §1, Apr. 10, 1979, 93 Stat. 14, provided that: "This Act \[enacting this chapter\] may be cited as the 'Taiwan Relations Act'."
 
+#### Strengthening the Defense Partnership Between the United States and Taiwan
+
+Pub. L. 115–91, div. A, title XII, §1259, Dec. 12, 2017, 131 Stat. 1685, provided that:
+
+"(a)
+
+Statement of Policy.—It is the policy of the United States to reinforce its commitments to Taiwan under the Taiwan Relations Act \[Pub. L. 96–8, 22 U.S.C. 3301 et seq.\] and consistent with the 'Six Assurances' as both governments work to improve Taiwan's self-defense capability.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that the United States should—
+
+&emsp;"(1) strengthen and enhance its longstanding partnership and cooperation with Taiwan;
+
+&emsp;"(2) conduct regular transfers of defense articles and defense services necessary to enable Taiwan to maintain a sufficient self-defense capability, based solely on the needs of Taiwan;
+
+&emsp;"(3) invite the military forces of Taiwan to participate in military exercises, such as the 'Red Flag' exercises;
+
+&emsp;"(4) carry out a program of exchanges of senior military officers and senior officials with Taiwan to improve military-to-military relations, as expressed in section 1284 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2544);
+
+&emsp;"(5) support expanded exchanges focused on practical training for Taiwan personnel by and with United States military units, including exchanges among services;
+
+&emsp;"(6) conduct bilateral naval exercises, to include pre-sail conferences, in the western Pacific Ocean with the Taiwan navy; and
+
+&emsp;"(7) consider the advisability and feasibility of reestablishing port of call exchanges between the United States navy and the Taiwan navy."
+
 #### Executive Order No. 12143
 
 Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, which provided for facilitation of the maintenance of commercial, cultural, and other relations between the peoples of the United States and Taiwan, was superseded by Ex. Ord. No. 13014, Aug. 15, 1996, 61 F.R. 42963, set out below.
@@ -80,7 +106,7 @@ Sec. 2. <i>Specification of Laws and Determinations.</i>
 
 2–202. (a) With respect to cost-type contracts with the Institute under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights that may have accrued under the contractor \[contract\] the amendments or modifications thereof.
 
-(b) With respect to contracts heretofore or hereafter made under the Act, other than those described in subsection (a) of this section, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract,and irrespective of rights that may have accrued under the contract or the amendments or modifications thereof, if the Secretary determines in each case that such action is necessary to protect the foreign policy interests of the United States.
+(b) With respect to contracts heretofore or hereafter made under the Act, other than those described in subsection (a) of this section, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights that may have accrued under the contract or the amendments or modifications thereof, if the Secretary determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 
 2–203. Pursuant to section 10(a) of the Act \[22 U.S.C. 3309(a)\], the Taipei Economic and Cultural Representative Office in the United States ("TECRO"), formerly the Coordination Council for North America Affairs ("CCNAA"), is determined to be the instrumentality established by the people on Taiwan having the necessary authority under the laws applied by the people on Taiwan to provide assurances and take other actions on behalf of Taiwan in accordance with the Act. Nothing contained in this determination or order shall affect, or be construed to affect, the continued validity of agreements, contracts, or other undertakings, of whatever kind or nature, entered into previously by CCNAA.
 

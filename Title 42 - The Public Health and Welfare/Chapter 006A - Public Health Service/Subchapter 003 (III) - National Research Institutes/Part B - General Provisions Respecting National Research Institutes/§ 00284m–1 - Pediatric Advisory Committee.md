@@ -46,7 +46,7 @@ Section was enacted as part of the Best Pharmaceuticals for Children Act, and no
 
 <b>2013</b>—Subsec. (b)(2)(D). Pub. L. 113–5 added subpar. (D).
 
-<b>2012</b>—Subsec. (d). Pub. L. 112–144 substituted "to carry out the advisory committee's responsibilitiesunder sections 355a, 355c, and 360j(m) of title 21" for "during the five-year period beginning on September 27, 2007".
+<b>2012</b>—Subsec. (d). Pub. L. 112–144 substituted "to carry out the advisory committee's responsibilities under sections 355a, 355c, and 360j(m) of title 21" for "during the five-year period beginning on September 27, 2007".
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–85, §306(b)(1), inserted "(including drugs and biological products) and medical devices" after "therapeutics".
 

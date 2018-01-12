@@ -76,7 +76,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 &emsp;&emsp;&emsp;(ii) any other similar information determined by the Secretary to be necessary to promote food safety in school meals;
 
-&emsp;&emsp;(E) irradiated food products distributed to the Federal school meals program under thischapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) are labeled with a symbol or other printed notice that—
+&emsp;&emsp;(E) irradiated food products distributed to the Federal school meals program under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) are labeled with a symbol or other printed notice that—
 
 &emsp;&emsp;&emsp;(i) indicates that the product was irradiated; and
 
@@ -102,7 +102,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–296 struck out concluding provisions which read as follows: "Within eighteen months after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account."
+<b>2010</b>—Subsec. (d). Pub. L. 111–296 struck out concluding provisions which read as follows: "Within eighteenmonths after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account."
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–265, §117, struck out ", during the period beginning July 1, 1974, and ending June 30, 2004," before "shall—" in introductory provisions.
 

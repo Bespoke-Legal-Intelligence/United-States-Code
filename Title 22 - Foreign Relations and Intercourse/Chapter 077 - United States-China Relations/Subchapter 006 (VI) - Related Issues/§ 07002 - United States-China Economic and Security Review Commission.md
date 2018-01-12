@@ -6,7 +6,7 @@ The purposes of this section are as follows:
 
 &emsp;(1) To establish the United States-China Economic and Security Review Commission to review the national security implications of trade and economic ties between the United States and the People's Republic of China.
 
-&emsp;(2) To facilitate the assumption by the United States-China Economic and Security Review Commission of its duties regarding the review referred to in paragraph (1) by providing for the transfer to that Commission of staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission that are appropriate for the review upon the submittal of the final report of the Trade Deficit Review Commission.
+&emsp;(2) To facilitate the assumption by the United States-China Economic and SecurityReview Commission of its duties regarding the review referred to in paragraph (1) by providing for the transfer to that Commission of staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission that are appropriate for the review upon the submittal of the final report of the Trade Deficit Review Commission.
 
 #### (b) Establishment of United States-China Economic and Security Review Commission
 
@@ -78,7 +78,7 @@ The purposes of this section are as follows:
 
 #### (1) Annual report
 
-&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
+&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified andclassified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
 
 #### (2) Contents of report
 
@@ -176,7 +176,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285;Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578.)
 
 #### References in Text
 
@@ -258,7 +258,7 @@ Energy.—The Commission shall evaluate and assess how China's large and growing
 
 &emsp;"(D)
 
-United states capital markets.—The Commission shall evaluate the extent of Chinese access to, and use of United States capital markets, andwhether the existing disclosure and transparency rules are adequate to identify Chinese companies which are active in United States markets and are also engaged in proliferation activities or other activities harmful to United States security interests.
+United states capital markets.—The Commission shall evaluate the extent of Chinese access to, and use of United States capital markets, and whether the existing disclosure and transparency rules are adequate to identify Chinese companies which are active in United States markets and are also engaged in proliferation activities or other activities harmful to United States security interests.
 
 &emsp;"(E)
 
@@ -270,7 +270,7 @@ Regional economic and security impacts.—The Commission shall assess the extent
 
 &emsp;"(G)
 
-United states-china bilateral programs.—The Commission shall assess science and technology programs to evaluate if the United States is developing an adequate coordinating mechanism with appropriate review by the intelligence community with Congress; assess the degree of non-compliance by China and United States-China agreements on prison labor imports and intellectual property rights; evaluate United States enforcement policies; and recommend what new measures the United States Government might take to strengthen our laws and enforcement activities and to encourage compliance by the Chinese.
+United states-china bilateral programs.—The Commission shall assess science and technologyprograms to evaluate if the United States is developing an adequate coordinating mechanism with appropriate review by the intelligence community with Congress; assess the degree of non-compliance by China and United States-China agreements on prison labor imports and intellectual property rights; evaluate United States enforcement policies; and recommend what new measures the United States Government might take to strengthen our laws and enforcement activities and to encourage compliance by the Chinese.
 
 &emsp;"(H)
 

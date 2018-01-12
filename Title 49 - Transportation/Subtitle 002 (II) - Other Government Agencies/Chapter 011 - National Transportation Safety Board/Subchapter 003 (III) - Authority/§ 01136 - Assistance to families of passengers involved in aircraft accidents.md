@@ -48,7 +48,7 @@ Use of information.—The director of family support services and the organizati
 
 (e)
 
-Continuing Responsibilities of the Board.—In the course of its investigation of anaccident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
+Continuing Responsibilities of the Board.—In the course of its investigation of an accident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
 
 &emsp;(1) are briefed, prior to any public briefing, about the accident, its causes, and any other findings from the investigation; and
 

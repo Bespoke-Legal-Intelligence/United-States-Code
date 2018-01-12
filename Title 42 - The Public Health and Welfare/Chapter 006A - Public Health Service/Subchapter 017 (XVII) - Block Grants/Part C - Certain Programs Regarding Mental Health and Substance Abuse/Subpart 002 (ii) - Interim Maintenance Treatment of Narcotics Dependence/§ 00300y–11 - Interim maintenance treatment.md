@@ -8,7 +8,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 &emsp;&emsp;(A) meet the conditions for admission to such programs that dispense methadone as part of comprehensive treatment for such dependence; and
 
-&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as a result of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
+&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as aresult of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
 
 &emsp;(2) in dispensing methadone to such individuals, to provide only minimum ancillary services during the period in which the individuals are waiting for admission to programs of comprehensive treatment.
 

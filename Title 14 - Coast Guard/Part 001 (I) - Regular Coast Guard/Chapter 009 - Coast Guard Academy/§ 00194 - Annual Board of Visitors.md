@@ -48,7 +48,7 @@ Annual visit.—The Board shall visit the Academy annually to review the operati
 
 &emsp;(2)
 
-Additional visits.—With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+Additional visits.—With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of theBoard or to consult with the Superintendent of the Academy.
 
 (d)
 

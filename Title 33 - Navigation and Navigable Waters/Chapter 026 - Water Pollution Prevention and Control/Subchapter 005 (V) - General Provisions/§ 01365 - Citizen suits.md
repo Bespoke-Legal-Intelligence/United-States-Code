@@ -22,7 +22,7 @@ No action may be commenced—
 
 &emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice of such action to the Administrator,
 
-> except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of sections 1316 and 1317(a) of this title. Notice under this subsection shall be given in suchmanner as the Administrator shall prescribe by regulation.
+> except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of sections 1316 and 1317(a) of this title. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation.
 
 #### (c) Venue; intervention by Administrator; United States interests protected
 
@@ -52,7 +52,7 @@ For the purposes of this section the term "citizen" means a person or persons ha
 
 #### (h) Civil action by State Governors
 
-A Governor of a State may commence a civil action under subsection (a), without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
+A Governor of a State may commence a civil action under subsection (a), without regard tothe limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
 
 (June 30, 1948, ch. 758, title V, §505, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 100–4, title III, §314(c), title IV, §406(d)(2), title V, §§504, 505(c), Feb. 4, 1987, 101 Stat. 49, 73, 75, 76.)
 

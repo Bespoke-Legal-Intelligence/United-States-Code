@@ -50,7 +50,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (A) Calculation
 
-&emsp;&emsp;The Director shall calculate, for each of the types of families described in subsection\(a), the percentage, for each of the three years that most recently precede such year and for which information under the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] is publicly available—
+&emsp;&emsp;The Director shall calculate, for each of the types of families described in subsection (a), the percentage, for each of the three years that most recently precede such year and for which information under the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] is publicly available—
 
 &emsp;&emsp;&emsp;(i) of the number of conventional, conforming, single-family, owner-occupied purchase money mortgages originated in such year that serve such type of family, or
 
@@ -86,7 +86,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (5) Conforming mortgages
 
-&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the original principal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
+&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the originalprincipal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
 
 #### (f) Notice of determination and enterprise comment
 

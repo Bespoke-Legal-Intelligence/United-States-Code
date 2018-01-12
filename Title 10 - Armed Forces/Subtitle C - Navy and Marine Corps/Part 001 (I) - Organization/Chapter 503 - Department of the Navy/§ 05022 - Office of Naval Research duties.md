@@ -76,7 +76,7 @@ Project Elements.—In carrying out the demonstration project, the Secretary sha
 
 &emsp;"(1) establish and operate a Navy Technology Extension Center at a location to be selected by the Secretary;
 
-&emsp;"(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and chargesuch participants for such access and use at the same established rates that Department of Defense customers are charged; and
+&emsp;"(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and charge such participants for such access and use at the same established rates that Department of Defense customers are charged; and
 
 &emsp;"(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates.
 

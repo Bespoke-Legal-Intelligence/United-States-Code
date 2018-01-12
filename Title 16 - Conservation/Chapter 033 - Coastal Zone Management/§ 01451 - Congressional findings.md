@@ -12,7 +12,7 @@ The Congress finds that—
 
 (e) Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
 
-(f) New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters; <sup>1</sup>
+(f) New and expanding demands for food, energy, minerals, defense needs, recreation, wastedisposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters; <sup>1</sup>
 
 (g) Special natural and scenic characteristics are being damaged by ill-planned development that threatens these values.
 
@@ -78,7 +78,7 @@ Pub. L. 89–454, title III, §301, as added by Pub. L. 92–583, Oct. 27, 1972,
 
 #### Hypoxia Assessment
 
-Pub. L. 110–114, title V, §5022, Nov. 8, 2007, 121 Stat. 1203, provided that: "The Secretary \[of the Army\] may participate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico."
+Pub. L. 110–114, title V, §5022, Nov. 8, 2007, 121 Stat. 1203, provided that: "The Secretary \[of the Army\] mayparticipate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico."
 
 #### Harmful Algal Blooms and Hypoxia Research and Control
 

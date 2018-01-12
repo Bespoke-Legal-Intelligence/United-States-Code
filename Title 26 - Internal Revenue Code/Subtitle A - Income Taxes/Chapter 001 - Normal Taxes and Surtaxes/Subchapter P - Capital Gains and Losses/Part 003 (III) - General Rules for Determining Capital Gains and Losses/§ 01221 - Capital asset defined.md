@@ -8,7 +8,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;(2) property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
 
-&emsp;(3) a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by—
+&emsp;(3) a patent, invention, model or design (whether or not patented), a secret formula or process, a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by—
 
 &emsp;&emsp;(A) a taxpayer whose personal efforts created such property,
 
@@ -30,7 +30,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;(B) such instrument is clearly identified in such dealer's records as being described in subparagraph (A) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe);
 
-&emsp;(7) any hedging transaction which is clearly identified as such before the close of the dayon which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
+&emsp;(7) any hedging transaction which is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
 
 &emsp;(8) supplies of a type regularly used or consumed by the taxpayer in the ordinary course of a trade or business of the taxpayer.
 
@@ -88,9 +88,11 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §13314(a), Dec. 22, 2017, 131 Stat. 2133.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–97 inserted "a patent, invention, model or design (whether or not patented), a secret formula or process," before "a copyright" in introductory provisions.
 
 <b>2010</b>—Subsec. (a)(3)(C). Pub. L. 111–312 amended subsec. (a)(3)(C) to read as if amendment by Pub. L. 107–16, §542(e)(2)(A), had never been enacted. See 2001 Amendment note below.
 
@@ -114,9 +116,13 @@ Par. (6). Pub. L. 94–455, §2132(a), added par. (6).
 
 <b>1969</b>—Par. (3). Pub. L. 91–172 inserted reference to a letter or memorandum, added subpar. (B) dealing with a letter or memorandum, and redesignated former subpar. (B) as (C).
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–97, title I, §13314(c), Dec. 22, 2017, 131 Stat. 2133, provided that: "The amendments made by this section \[amending this section and section 1231 of this title\] shall apply to dispositions after December 31, 2017."
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31,2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -134,7 +140,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayerafter June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
 
 #### Effective Date of 1976 Amendment
 

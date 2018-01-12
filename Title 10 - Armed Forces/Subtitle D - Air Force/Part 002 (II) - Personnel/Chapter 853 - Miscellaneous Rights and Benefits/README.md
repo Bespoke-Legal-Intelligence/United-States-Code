@@ -25,7 +25,7 @@
 
 <b>1971</b>—Pub. L. 92–168, §3(2), Nov. 24, 1971, 85 Stat. 489, struck out item 8692 "Pilot rating in time of peace: qualifications".
 
-<b>1968</b>—Pub. L. 90–235, §§6(a)(5), 7(a)(6), (b)(6), Jan. 2, 1968, 81 Stat. 762, 763, struck out items 8682 "Service credit: officers; service as cadet not counted", 8685 "Regular Air Force; Air Force Reserve: female members; definition of 'dependents' ", 8690 "Exemption fromarrest for debt: enlisted members", and 8693 "Replacement of certificates of discharge".
+<b>1968</b>—Pub. L. 90–235, §§6(a)(5), 7(a)(6), (b)(6), Jan. 2, 1968, 81 Stat. 762, 763, struck out items 8682 "Service credit: officers; service as cadet not counted", 8685 "Regular Air Force; Air Force Reserve: female members; definition of 'dependents' ", 8690 "Exemption from arrest for debt: enlisted members", and 8693 "Replacement of certificates of discharge".
 
 <b>1958</b>—Pub. L. 85–861, §1(189), Sept. 2, 1958, 72 Stat. 1534, struck out items 8681 "Air Force Register: Regular Air Force officers; service to be listed" and 8688 "Death gratuity".
 

@@ -4,7 +4,7 @@
 
 (b) Notwithstanding subsection (a) of this section, a court may not appoint a receiver in a case under this title.
 
-(c) The ability of any district judge or other officer or employee of a district court to exercise any of the authority or responsibilities conferred upon the court under this title shall be determined by reference to the provisions relating to such judge, officer, or employee set forthin title 28. This subsection shall not be interpreted to exclude bankruptcy judges and other officers or employees appointed pursuant to chapter 6 of title 28 from its operation.
+(c) The ability of any district judge or other officer or employee of a district court to exercise any of the authority or responsibilities conferred upon the court under this title shall be determined by reference to the provisions relating to such judge, officer, or employee set forth in title 28. This subsection shall not be interpreted to exclude bankruptcy judges and other officers or employees appointed pursuant to chapter 6 of title 28 from its operation.
 
 (d) The court, on its own motion or on the request of a party in interest—
 

@@ -22,7 +22,7 @@ Pub. L. 88–444, Aug. 19, 1964, 78 Stat. 462, established the National Commissi
 
 #### Executive Order No. 10918
 
-Ex. Ord. No. 10918, Feb. 16, 1961, 26 F.R. 1427, which established the President's Advisory Committee on Labor-Management Policy, was revoked by Ex. Ord. No. 11710, Apr. 4, 1973, 38 F.R. 9071, formerly set out below.
+Ex. Ord. No. 10918, Feb. 16, 1961, 26 F.R. 1427, which established the President's Advisory Committee onLabor-Management Policy, was revoked by Ex. Ord. No. 11710, Apr. 4, 1973, 38 F.R. 9071, formerly set out below.
 
 #### Executive Order No. 11710
 

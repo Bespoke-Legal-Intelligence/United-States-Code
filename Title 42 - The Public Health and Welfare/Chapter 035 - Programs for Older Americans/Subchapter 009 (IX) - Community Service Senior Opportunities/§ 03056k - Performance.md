@@ -124,7 +124,7 @@ The Secretary shall annually evaluate, and publish and make available for public
 
 #### (iii) Competition
 
-&emsp;&emsp;&emsp;If the Secretary determines that the State fails to meet the expected levels ofperformance described in subparagraph (A) for 3 consecutive program years, the Secretary shall provide for the conduct by the State of a competition to award the funds allotted to the State under section 3056d(e) of this title for the first full program year following the Secretary's determination.
+&emsp;&emsp;&emsp;If the Secretary determines that the State fails to meet the expected levels of performance described in subparagraph (A) for 3 consecutive program years, the Secretary shall provide for the conduct by the State of a competition to award the funds allotted to the State under section 3056d(e) of this title for the first full program year following the Secretary's determination.
 
 #### (4) Special rule for implementation
 

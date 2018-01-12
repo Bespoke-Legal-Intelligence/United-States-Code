@@ -12,7 +12,7 @@ The purpose of this section, through the approach provided for in subsection (b)
 
 The Secretary may, consistent with applicable standards for approval under this chapter or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\], allow the sponsor of an application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act for a genetically targeted drug or a variant protein targeted drug to rely upon data and information—
 
-&emsp;(1) previously developed by the same sponsor (or another sponsor that has provided the sponsor with a contractual right of reference to such data and information); and
+&emsp;(1) previously developed by the same sponsor (or another sponsor that has provided thesponsor with a contractual right of reference to such data and information); and
 
 &emsp;(2) submitted by a sponsor described in paragraph (1) in support of one or more previously approved applications that were submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act,
 

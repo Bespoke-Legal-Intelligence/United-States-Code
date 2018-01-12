@@ -64,7 +64,7 @@ Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck ou
 
 Subsec. (b). Pub. L. 105–33, §10116(a)(2)(A), inserted "new" before "entitlement" in heading.
 
-Subsec. (b)(1). Pub. L. 105–33, §10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: "It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported."
+Subsec. (b)(1). Pub. L. 105–33, §10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: "It shall not be in order in either the House of Representatives or the Senate to consider any bill,joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported."
 
 Subsec. (b)(2). Pub. L. 105–33, §10116(a)(2)(C), substituted "new entitlement authority" for "new spending authority described in subsection (c)(2)(C) of this section" and "of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be," for "of that House".
 

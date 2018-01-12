@@ -14,7 +14,7 @@ Compliance with this chapter shall be enforced—
 
 &emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, organizations operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601 and 611), and bank holding companies, by the Board;
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insuredState branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
 
 &emsp;&emsp;(D) savings associations the deposits of which are insured by the Federal Deposit Insurance Corporation, by the Director of the Office of Thrift Supervision;
 
@@ -134,7 +134,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (8) Limitation on State action while Federal action is pending
 
-&emsp;If the Commission, or other appropriate Federal agency under subsection (b), has instituted a civil action or an administrative action for violation of this chapter, no State attorney general, or official or agency of a State, may bring an action under this subsection during the pendency of that action against any defendant named in the complaint of the Commission or the other agency for any violation of this chapter alleged in the complaint.
+&emsp;If the Commission, or other appropriate Federal agency under subsection (b), has instituted a civil action or an administrative action for violation of this chapter, no State attorney general, or official or agency of a State, may bring an action under this subsection during the pendency of that action against any defendant named in the complaintof the Commission or the other agency for any violation of this chapter alleged in the complaint.
 
 #### (9) Requisite scienter for certain civil actions
 
@@ -208,7 +208,7 @@ The Investment Company Act of 1940, referred to in subsec. (b)(4), is title I of
 
 The Investment Advisers Act of 1940, referred to in subsec. (b)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, asamended, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified principally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 

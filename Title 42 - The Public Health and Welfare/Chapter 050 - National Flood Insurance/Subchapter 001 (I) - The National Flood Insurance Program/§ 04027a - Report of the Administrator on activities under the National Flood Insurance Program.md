@@ -54,7 +54,7 @@ This Act, referred to in par. (3)(E), is Pub. L. 112–141, July 6, 2012, 126 St
 
 #### Codification
 
-Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part ofthe Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Definitions
 

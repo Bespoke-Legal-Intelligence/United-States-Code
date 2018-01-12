@@ -12,7 +12,7 @@
 
 (c) The names of warrant officers selected for promotion under this section shall be arranged in the board's report in order of the seniority on the warrant officer active-duty list.
 
-(d) Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, forretirement or separation under section 1166 of this title.
+(d) Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, for retirement or separation under section 1166 of this title.
 
 (e) The report of the selection board shall be submitted to the Secretary concerned. The Secretary may approve or disapprove all or part of the report.
 

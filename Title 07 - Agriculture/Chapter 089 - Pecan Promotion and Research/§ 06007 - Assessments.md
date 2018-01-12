@@ -86,7 +86,7 @@ No more than one assessment may be assessed under subsection (a) on a grower (as
 
 #### (2) Placement of funds in account
 
-&emsp;The Board shall place in such account, from assessments collected during the period referred to in paragraph (1), an amount equal tothe product obtained by multiplying the total amount of assessments collected during such period by 10 percent.
+&emsp;The Board shall place in such account, from assessments collected during the period referred to in paragraph (1), an amount equal to the product obtained by multiplying the total amount of assessments collected during such period by 10 percent.
 
 #### (3) Right to receive refund
 

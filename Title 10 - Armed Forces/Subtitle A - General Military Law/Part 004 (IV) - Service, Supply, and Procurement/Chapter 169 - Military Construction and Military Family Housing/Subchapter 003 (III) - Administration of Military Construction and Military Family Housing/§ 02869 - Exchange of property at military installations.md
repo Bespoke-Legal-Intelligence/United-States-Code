@@ -4,19 +4,25 @@
 
 Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
 
-(2) Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
+(2) Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned—
 
-&emsp;(A) is located on a military installation that is closed or realigned under a base closure law; or
+&emsp;(A) that is located on a military installation that is closed or realigned under a base closure law; or
 
-&emsp;(B) is located on a military installation not covered by subparagraph (A) and is determined to be excess to the needs of the Department of Defense.
+&emsp;(B) that is located on a military installation not covered by subparagraph (A) and for which the Secretary concerned makes a determination that the conveyance under paragraph (1) is advantageous to the United States.
 
 (b)
 
-Conditions on Conveyance Authority.—The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
+Conditions on Conveyance Authority.—(1) The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
+
+(2) In the case of a conveyance of real property to a political subdivision of a State, the value of the real property to be conveyed by the Secretary concerned under subsection (a) may exceed the fair market value of the land to be obtained, as determined under paragraph (1), by an amount not to exceed the reduction in value of the land which is attributable to voluntary zoning actions taken by such political subdivision to limit encroachment on a military installation, but only if the notice required by subsection (d)(2) contains—
+
+&emsp;(A) a certification by the Secretary concerned that the military value to the United States of the land to be acquired justifies a payment in excess of the fair market value; and
+
+&emsp;(B) a description of the military value to be obtained.
 
 (c)
 
-Limitation on Use of Conveyance Authority at Installations Closed Under Base Closure Laws.—The authority under subsection (a)(2)(A) to convey property located on a military installation may only be used to the extent the conveyance is consistent with an approved redevelopment plan for such installation.
+Limitation on Use of Conveyance Authority at Installations Closed Under Base Closure Laws.—The authority under subsection\(a)(2)(A) to convey property located on a military installation may only be used to the extent the conveyance is consistent with an approved redevelopment plan for such installation.
 
 (d)
 
@@ -34,7 +40,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 &emsp;(B) the waiting period applicable to that notice under paragraph (3) expires.
 
-(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance ofthe property after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided.
+(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.
 
 (e)
 
@@ -48,9 +54,19 @@ Description of Property.—The exact acreage and legal description of real prope
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150.)
+(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(2). Pub. L. 115–91, §2815, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
+
+&emsp;"(A) is located on a military installation that is closed or realigned under a base closure law; or
+
+&emsp;"(B) is located on a military installation not covered by subparagraph (A) and is determined to be excess to the needs of the Department of Defense."
+
+Subsec. (b). Pub. L. 115–91, §2816, amended subsec. (b) generally. Prior to amendment, text read as follows: "The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values."
+
+Subsec. (d)(3). Pub. L. 115–91, §2801(c)(6), substituted "after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title." for "after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title." and "only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title." for "only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided."
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted "any person" for "any eligible entity", "the person" for "the entity", and "the person's control" for "their control".
 
@@ -58,7 +74,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 Subsec. (a). Pub. L. 112–81, §2815(a)(2)(A), substituted "Exchange Authorized" for "Conveyance Authorized; Consideration" in heading.
 
-Subsec. (a)(1). Pub. L. 112–81, §2815(a)(2)(B), substituted "to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to a parcel of real property, including any improvements thereon under their control, or to carry out a land acquisition" for "to any person who agrees, in exchange for the real property, to carry out a land acquisition".
+Subsec. (a)(1). Pub. L. 112–81, §2815(a)(2)(B), substituted "to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to aparcel of real property, including any improvements thereon under their control, or to carry out a land acquisition" for "to any person who agrees, in exchange for the real property, to carry out a land acquisition".
 
 Subsecs. (f) to (h). Pub. L. 112–81, §2815(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which provided that authority to enter into an agreement under this section would expire on September 30, 2013.
 
@@ -88,7 +104,7 @@ Subsec. (a). Pub. L. 109–364, §2811(a), (b), designated existing provisions a
 
 Subsec. (d)(1). Pub. L. 109–364, §2811(c)(1), substituted "is proposed for conveyance" for "closed or realigned under the base closure laws is to be conveyed".
 
-Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) and struck out former par. (2) whichread as follows: "The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
+Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
 
 &emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military construction activities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
 

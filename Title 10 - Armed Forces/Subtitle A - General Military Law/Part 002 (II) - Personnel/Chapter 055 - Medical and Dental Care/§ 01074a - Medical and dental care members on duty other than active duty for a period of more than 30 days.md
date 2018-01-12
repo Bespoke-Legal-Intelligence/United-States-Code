@@ -64,7 +64,7 @@
 
 (i) Amounts available for operation and maintenance of a reserve component of the armed forces may be available for purposes of this section to ensure the medical, dental, and behavioral health readiness of members of such reserve component.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, \[div.A\], title VII, §735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, §703(a), Dec. 31, 2011, 125 Stat. 1471.)
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, \[div. A\], title VII, §735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, §703(a), Dec. 31, 2011, 125 Stat. 1471.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (a)(4). Pub. L. 106–65, §578(i)(1)(B), added par. (4).
 
 Subsec. (e). Pub. L. 106–65, §705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title."
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted "while remaining overnight immediately before the commencement of inactive-duty training, or" after "in the line of duty".
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted "while remaining overnight immediately before thecommencement of inactive-duty training, or" after "in the line of duty".
 
 Subsec. (e). Pub. L. 105–85, §513(a)(2), added subsec. (e).
 

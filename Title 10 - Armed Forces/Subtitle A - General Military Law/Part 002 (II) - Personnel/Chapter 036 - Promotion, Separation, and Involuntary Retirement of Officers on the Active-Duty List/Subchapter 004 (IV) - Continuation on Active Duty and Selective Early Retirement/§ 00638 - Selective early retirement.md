@@ -24,7 +24,7 @@
 
 (2) An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
 
-(3)(A) The Secretary concerned may defer for not more than three months the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+(3)(A) The Secretary concerned may defer for not more than three months the retirement ofan officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
 (B) An officer recommended for early retirement under paragraph (1)(A) or section 638a of this title, if approved for deferral under subparagraph (A), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
@@ -40,7 +40,7 @@
 
 (2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
 
-(B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during thefiscal year in which the selection board is convened or during the following fiscal year.
+(B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
 
 (C) An officer not considered by a selection board convened under section 611(b) of this title by reason of subparagraph (B) shall be retired on the date approved for the retirement of that officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
@@ -70,7 +70,7 @@ Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted "or section 638a of 
 
 &emsp;"(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
 
-&emsp;"(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
+&emsp;"(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and hasserved at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
 
 &emsp;"(3) who holds the regular grade of brigadier general or rear admiral (lower half) and has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion; or
 

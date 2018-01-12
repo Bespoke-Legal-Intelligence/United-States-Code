@@ -28,7 +28,7 @@
 
 &emsp;(2) one of the following conditions is met:
 
-&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceedingand the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
+&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
 
 &emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
 
@@ -98,7 +98,7 @@ Sufficiency of Defenses.—In carrying out subsection (a) with respect to the Pa
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001."
 
-\[For definitions of "domestic violence" and "sexual assault" as used in section 1303(a)–(c) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of Title 42, The Public Health and Welfare.\]
+\[For definitions of "domestic violence" and "sexual assault" as used in section 1303(a)–(c) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of Title 34, Crime Control and Law Enforcement.\]
 
 #### Congressional Findings and Declaration of Purpose
 
@@ -114,7 +114,7 @@ Pub. L. 96–611, §7, Dec. 28, 1980, 94 Stat. 3568, provided that:
 
 &emsp;"(4) among the results of those conditions and activities are the failure of the courts of such jurisdictions to give full faith and credit to the judicial proceedings of the other jurisdictions, the deprivation of rights of liberty and property without due process of law, burdens on commerce among such jurisdictions and with foreign nations, and harm to the welfare of children and their parents and other custodians.
 
-"(b) For those reasons it is necessary to establish a national system for locating parents and children who travel from one such jurisdiction to another and are concealed in connection with such disputes, and to establish national standards under which the courts of such jurisdictions will determine their jurisdiction to decide such disputes and the effect to be given by each such jurisdiction to such decisions by the courts of other such jurisdictions.
+"(b) For those reasons it is necessary to establish a national system for locating parents and children who travel from one such jurisdiction to another and are concealed in connection with such disputes, and to establish national standards under which the courts ofsuch jurisdictions will determine their jurisdiction to decide such disputes and the effect to be given by each such jurisdiction to such decisions by the courts of other such jurisdictions.
 
 "(c) The general purposes of sections 6 to 10 of this Act \[enacting this section and section 663 of Title 42, The Public Health and Welfare, amending sections 654 and 655 Title 42, and enacting provisions set out as notes under this section, sections 663 and 1305 of Title 42, and section 1073 of Title 18, Crimes and Criminal Procedure\] are to—
 

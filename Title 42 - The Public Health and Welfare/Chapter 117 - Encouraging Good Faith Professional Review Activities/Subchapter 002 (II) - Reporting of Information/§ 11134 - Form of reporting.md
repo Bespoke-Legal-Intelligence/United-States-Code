@@ -16,7 +16,7 @@ The information required to be reported under sections 11131, 11132(a), and 1113
 
 #### (2) Reporting to other licensing boards
 
-&emsp;Information required to be reported under section 11133(b) of this title shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b).
+&emsp;Information required to be reported under section 11133(b) of this title shall also be reported to the appropriate State licensingboard in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b).
 
 (Pub. L. 99–660, title IV, §424, Nov. 14, 1986, 100 Stat. 3790.)
 

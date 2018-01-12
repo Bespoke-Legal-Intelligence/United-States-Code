@@ -30,7 +30,7 @@ A Certificate of Citizenship or other Federal document issued or requested to be
 
 &emsp;"(1) such naturalization takes place while such child is unmarried and under the age of eighteen years; and
 
-&emsp;"(2) such child is residing in the United States pursuant to a lawful admission for permanent residence at the time of naturalization or thereafter and beginsto reside permanently in the United States while under the age of eighteen years.
+&emsp;"(2) such child is residing in the United States pursuant to a lawful admission for permanent residence at the time of naturalization or thereafter and begins to reside permanently in the United States while under the age of eighteen years.
 
 "(b) Subsection (a) of this section shall apply to an adopted child only if the child is residing in the United States at the time of naturalization of such adoptive parent, in the custody of his adoptive parents, pursuant to a lawful admission for permanent residence."
 

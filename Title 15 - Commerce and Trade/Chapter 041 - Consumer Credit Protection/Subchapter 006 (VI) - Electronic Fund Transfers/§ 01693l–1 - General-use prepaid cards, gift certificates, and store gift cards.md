@@ -16,7 +16,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) redeemable at multiple, unaffiliated merchants or service providers, or automated teller machines;
 
-&emsp;&emsp;&emsp;(ii) issued in a requested amount, whether or not that amount may, at the optionof the issuer, be increased in value or reloaded if requested by the holder;
+&emsp;&emsp;&emsp;(ii) issued in a requested amount, whether or not that amount may, at the option of the issuer, be increased in value or reloaded if requested by the holder;
 
 &emsp;&emsp;&emsp;(iii) purchased or loaded on a prepaid basis; and
 
@@ -202,7 +202,7 @@ Disclosure requirements.—The disclosure requirements of this subsection are me
 
 Period for disclosure requirements.—The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013."
 
-Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
+Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 wasto become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "General-use".</i>
 

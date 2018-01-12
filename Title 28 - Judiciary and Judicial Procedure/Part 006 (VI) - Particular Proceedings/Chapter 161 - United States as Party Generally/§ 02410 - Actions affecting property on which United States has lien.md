@@ -34,7 +34,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§901, 902, 904, 905 (Mar. 4, 1931, ch. 515, §§1, 2, 4, 5, 46 Stat. 1528, 1529; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49Stat. 1921; June 6, 1940, ch. 242, 54 Stat. 234; Dec. 2, 1942, ch. 656, §§1–3, 56 Stat. 1026).
+Based on title 28, U.S.C., 1940 ed., §§901, 902, 904, 905 (Mar. 4, 1931, ch. 515, §§1, 2, 4, 5, 46 Stat. 1528, 1529; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; June 6, 1940, ch. 242, 54 Stat. 234; Dec. 2, 1942, ch. 656, §§1–3, 56 Stat. 1026).
 
 Provisions including the districts of Hawaii and Puerto Rico, and the District Court of the United States for the District of Columbia, in section 901 of title 28, U.S.C., 1940 ed., were omitted as covered by "any district court." See section 451 of this title.
 

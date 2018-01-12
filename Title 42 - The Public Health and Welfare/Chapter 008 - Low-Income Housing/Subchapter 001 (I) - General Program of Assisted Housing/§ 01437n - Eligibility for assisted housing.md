@@ -108,7 +108,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (1) In general
 
-&emsp;Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be extremely low-income families.
+&emsp;Of the families initially provided tenant-based assistance under section 1437f of thistitle by a public housing agency in any fiscal year, not less than 75 percent shall be extremely low-income families.
 
 #### (2) Jurisdictions served by multiple PHAs
 
@@ -178,7 +178,7 @@ Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a pub
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "net family assets" means, for all members of the household, the net cash value of all assets after deducting reasonable costs that would be incurred in disposing of real property, savings, stocks, bonds, and other forms of capital investment. Such term does not include interests in Indian trust land, equity in property for which the family is receiving assistance under subsection (y) or (o)(12) of section 1437f of this title, equity accounts in homeownership programs of the Department of Housing and Urban Development, or Family Self Sufficiency accounts.
+&emsp;&emsp;For purposes of this subsection, the term "net family assets" means, for all members of the household, the net cash value of all assets after deducting reasonable costs that would be incurred in disposing of real property, savings, stocks, bonds, and other forms of capital investment. Such term does notinclude interests in Indian trust land, equity in property for which the family is receiving assistance under subsection (y) or (o)(12) of section 1437f of this title, equity accounts in homeownership programs of the Department of Housing and Urban Development, or Family Self Sufficiency accounts.
 
 #### (B) Exclusions
 
@@ -288,7 +288,7 @@ Subsec. (c)(3). Pub. L. 113–76, §238(b)(3), substituted "extremely low-income
 
 <b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end "; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
-<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on orafter Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
 Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease tobe effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date
 

@@ -18,5 +18,5 @@ Section 2459h, Pub. L. 106–391, title III, §304, Oct. 30, 2000, 114 Stat. 159
 
 Section 2459i, Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 520, related to working capital fund. See section 30102 of Title 51.
 
-Section 2459j, Pub. L. 85–568, title III, §315, as added Pub. L. 108–7, div. K, title IV, §418, Feb. 20, 2003, 117 Stat. 525; amended Pub. L. 110–161, div. B, title V, §533(a)–(e), Dec. 26, 2007, 121 Stat. 1931, 1932; Pub. L. 110–422, title XI, §1117(c), (d), Oct. 15, 2008, 122 Stat. 4814,related to lease of non-excess property. See section 20145 of Title 51.
+Section 2459j, Pub. L. 85–568, title III, §315, as added Pub. L. 108–7, div. K, title IV, §418, Feb. 20, 2003, 117 Stat. 525; amended Pub. L. 110–161, div. B, title V, §533(a)–(e), Dec. 26, 2007, 121 Stat. 1931, 1932; Pub. L. 110–422, title XI, §1117(c), (d), Oct. 15, 2008, 122 Stat. 4814, related to lease of non-excess property. See section 20145 of Title 51.
 

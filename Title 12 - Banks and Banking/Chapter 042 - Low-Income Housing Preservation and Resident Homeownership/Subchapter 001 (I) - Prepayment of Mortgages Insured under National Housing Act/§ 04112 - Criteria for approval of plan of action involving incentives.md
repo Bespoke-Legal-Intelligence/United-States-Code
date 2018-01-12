@@ -14,7 +14,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(C) current tenants will not be involuntarily displaced (except for good cause);
 
-&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying thehousing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
+&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
 
 &emsp;&emsp;(E)(i) any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
 
@@ -34,7 +34,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;&emsp;(ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
 
-&emsp;&emsp;(H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
+&emsp;&emsp;(H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent theSecretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
 
 &emsp;(3) no incentives under section 4109 of this title (other than to purchasers under section 4110 of this title) may be provided until the Secretary determines the project meets housing standards under subsection (d), except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
 
@@ -58,7 +58,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (4) Tenant and community comment and appeal
 
-&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. TheSecretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
+&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. The Secretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
 
 #### (d) Housing standards
 
@@ -86,7 +86,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(o) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>1</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
+&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>1</sup> of this title, declaresuch loan to be in default and accelerate the maturity date of the loan.
 
 &emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 

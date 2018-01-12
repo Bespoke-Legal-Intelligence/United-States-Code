@@ -8,7 +8,7 @@
 
 (2) The Chairman, in accordance with guidelines furnished to the Chairman by the Secretary of Defense, shall review the report for the purpose of determining if—
 
-&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers; and
+&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who areserving on, or have served on, the Joint Staff or are joint qualified officers; and
 
 &emsp;(B) the selection board otherwise gave appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
@@ -26,7 +26,7 @@
 
 (c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board to the President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
 
-(2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause forhis retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
+(2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
 
 (d)(1) Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
 
@@ -54,7 +54,7 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §522(c)(1), substituted "are serving on, or have served on, the Joint Staff or are joint qualified officers" for "are serving, or have served, in joint duty assignments".
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §522(c)(1), substituted "are serving on, or have served on, the JointStaff or are joint qualified officers" for "are serving, or have served, in joint duty assignments".
 
 Subsec. (b)(2). Pub. L. 111–383, §522(c)(2), substituted "of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers" for "in joint duty assignments of officers who are serving, or have served, in such assignments" in subpars. (A) and (B).
 
@@ -78,7 +78,7 @@ Subsec. (c)(1). Pub. L. 100–456, §501(d)(2), struck out ", modification," af
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–433, §402(c)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c) and in par. (1) inserted provisions directing the Secretary of Defense, before transmitting the report, to take appropriate action to resolve anydisagreement between the Secretary concerned and the Chairman. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c) and in par. (1) inserted provisions directing the Secretary of Defense, before transmitting the report, to take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman. Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (f). Pub. L. 99–433, §402(c)(1), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 

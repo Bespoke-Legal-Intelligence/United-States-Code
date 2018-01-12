@@ -18,7 +18,7 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 &emsp;(5) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
 
-&emsp;(6) consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
+&emsp;(6) consider the effects of the termination of major defense acquisition programs (as theterm is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a <sup>1</sup> of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 
 (c)
 
@@ -30,7 +30,7 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 (d)
 
-Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. Ifit is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
+Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. If it is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
 
 &emsp;(1) identify the sectors that are subject to such harm;
 
@@ -43,6 +43,10 @@ Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under sub
 Integrated Process.—The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
 (Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1602, Jan. 2, 2013, 126 Stat. 2062; Pub. L. 114–92, div. A, title VIII, §876, Nov. 25, 2015, 129 Stat. 941.)
+
+#### References in Text
+
+Section 2445a of this title, referred to in subsec. (b)(6), was repealed by Pub. L. 114–328, div. A, title VIII, §846(1), Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017.
 
 #### Prior Provisions
 
@@ -62,6 +66,50 @@ A prior section 2505 was renumbered section 2532 of this title.
 
 <b>1993</b>—Pub. L. 103–35 substituted "capability" for "capabilty" in section catchline.
 
+#### Pilot Program on Strengthening Manufacturing in the Defense Industrial Base
+
+Pub. L. 115–91, div. A, title XVII, §1711, Dec. 12, 2017, 131 Stat. 1811, provided that:
+
+"(a)
+
+Pilot Program Required.—The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of increasing the capability of the defense industrial base to support—
+
+&emsp;"(1) production needs to meet military requirements; and
+
+&emsp;"(2) manufacturing and production of emerging defense and commercial technologies.
+
+"(b)
+
+Authorities.—The Secretary shall carry out the pilot program under the following:
+
+&emsp;"(1) Chapters 137 and 139 and sections 2371, 2371b, and 2373 of title 10, United States Code.
+
+&emsp;"(2) Such other legal authorities as the Secretary considers applicable to carrying out the pilot program.
+
+"(c)
+
+Activities.—Activities under the pilot program may include the following:
+
+&emsp;"(1) Use of contracts, grants, or other transaction authorities to support manufacturing and production capabilities in small- and medium-sized manufacturers.
+
+&emsp;"(2) Purchases of goods or equipment for testing and certification purposes.
+
+&emsp;"(3) Incentives, including purchase commitments and cost sharing with nongovernmental sources, for the private sector to develop manufacturing and production capabilities in areas of national security interest.
+
+&emsp;"(4) Issuing loans or providing loan guarantees to small- and medium-sized manufacturers to support manufacturing and production capabilities in areas of national security interest.
+
+&emsp;"(5) Giving awards to third party entities to support investments in small- and medium-sized manufacturers working in areas of national security interest, including debt and equity investments that would benefit missions of the Department of Defense.
+
+&emsp;"(6) Such other activities as the Secretary determines necessary.
+
+"(d)
+
+Termination.—The pilot program shall terminate on the date that is four years after the date of the enactment of this Act \[Dec. 12, 2017\].
+
+"(e)
+
+Briefing Required.—No later than January 31, 2022, the Secretary of Defense shall provide a briefing to the Committees on Armed Services in the Senate and the House of Representatives on the results of the pilot program."
+
 #### Study of Beryllium Industrial Base
 
 Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
@@ -69,4 +117,6 @@ Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, req
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 
 Pub. L. 102–484, div. D, title XLII, §4219, Oct. 23, 1992, 106 Stat. 2671, as amended by Pub. L. 103–35, title II, §202(a)(14), May 31, 1993, 107 Stat. 101, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

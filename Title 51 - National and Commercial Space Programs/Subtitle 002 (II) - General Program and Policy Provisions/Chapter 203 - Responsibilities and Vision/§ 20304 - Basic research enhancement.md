@@ -6,7 +6,7 @@ Definition of Basic Research.—In this section, the term "basic research" has t
 
 (b)
 
-Coordination.—The Administrator, the Director of the National Science Foundation, theSecretary of Energy, the Secretary of Defense, and the Secretary of Commerce shall, to the extent practicable, coordinate basic research activities related to physical sciences, technology, engineering, and mathematics.
+Coordination.—The Administrator, the Director of the National Science Foundation, the Secretary of Energy, the Secretary of Defense, and the Secretary of Commerce shall, to the extent practicable, coordinate basic research activities related to physical sciences, technology, engineering, and mathematics.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357.)
 

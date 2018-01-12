@@ -178,7 +178,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 &emsp;&emsp;(B) provide technical support, when requested to facilitate efficient and timely processes for environmental reviews and authorizations for covered projects under the jurisdictional responsibility of the agency, including supporting timely identification and resolution of potential disputes within the agency or between the agency and other Federal agencies;
 
-&emsp;&emsp;(C) analyze agency environmental review and authorization processes, policies, and authorities and make recommendations to the respective agency councilmember for ways to standardize, simplify, and improve the efficiency of the processes, policies, and authorities, including by implementing guidance issued under paragraph (1)(D) and other best practices, including the use of information technology and geographic information system tools within the agency and across agencies, to the extent consistent with existing law; and
+&emsp;&emsp;(C) analyze agency environmental review and authorization processes, policies, and authorities and make recommendations tothe respective agency councilmember for ways to standardize, simplify, and improve the efficiency of the processes, policies, and authorities, including by implementing guidance issued under paragraph (1)(D) and other best practices, including the use of information technology and geographic information system tools within the agency and across agencies, to the extent consistent with existing law; and
 
 &emsp;&emsp;(D) review and develop training programs for agency staff that support and conduct environmental reviews or authorizations.
 

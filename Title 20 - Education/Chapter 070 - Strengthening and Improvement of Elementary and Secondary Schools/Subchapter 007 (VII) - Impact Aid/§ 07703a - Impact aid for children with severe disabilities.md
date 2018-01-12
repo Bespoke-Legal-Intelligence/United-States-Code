@@ -40,7 +40,7 @@ Each local educational agency desiring a payment under subsection (a) shall repo
 
 #### (f) Payments subject to appropriation
 
-Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
+Payments shall be made for any period in a fiscal year under this section only to the extentthat funds are appropriated specifically for making such payments for that fiscal year.
 
 #### (g) Local educational agency defined
 

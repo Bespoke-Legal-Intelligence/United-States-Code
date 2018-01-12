@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) two or more health care practitioners practice their professions at a common physical location;
 
-&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatment rooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
+&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatmentrooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
 
 &emsp;&emsp;(C) such practitioners have a person (who may himself be a practitioner)—
 
@@ -50,7 +50,7 @@
 
 (d) Nothing in this chapter shall be construed as authorizing any Federal official, agent, or representative, in carrying out any of the provisions of this chapter, to take charge of any child over the objection of either of the parents of such child, or of the person standing in loco parentis to such child.
 
-(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 1, 1956, ch. 836, title III, §333,70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (l)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 1, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (l)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. 
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §136(a), inserted "and American Samoa" after "includes the Northern Mariana Islands".
 
-Pub. L. 97–248, §160(c), substituted "Guam, and the Northern Mariana Islands" for "American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands".
+Pub. L. 97–248, §160(c), substituted "Guam, and the Northern Mariana Islands" for "American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands".
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted "American Samoa, the Northern Mariana Islands, and" for "American Samoa and" and inserted provisions that "State" when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
@@ -176,7 +176,7 @@ Hold Harmless Provision.—Notwithstanding subsection (b), for calendar quarters
 
 \[Pub. L. 99–509, title IX, §9102, Oct. 21, 1986, 100 Stat. 1972, provided that the amendment made by that section \[amending section 9528(c) of Pub. L. 99–272, set out above\] is effective as provided in section 9421(b) of Pub. L. 99–509. See below.\]
 
-\[Pub. L. 99–509, title IX, §9421(b), Oct. 21, 1986, 100 Stat. 2065, provided that: "The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L. 99–272, set out above\] shall be effective as though it had been included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment."\]
+\[Pub. L. 99–509, title IX, §9421(b), Oct. 21, 1986, 100 Stat. 2065, provided that: "The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L. 99–272, set out above\] shall be effective as though it hadbeen included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment."\]
 
 #### Effective Date of 1984 Amendment
 
@@ -218,7 +218,7 @@ Amendment by section 30(d) of Pub. L. 86–624 effective Aug. 21, 1959, see sect
 
 Amendment by section 30(a)(1) of Pub. L. 86–624 applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after Aug. 21, 1959, see Pub. L. 86–624, §47(a), July 12, 1960, 74 Stat. 423.
 
-Pub. L. 86–624, §47(b), July 12, 1960, 74 Stat. 423, provided that: "The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effectivewith the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[42 U.S.C. 1301(a)(8)(B)\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961."
+Pub. L. 86–624, §47(b), July 12, 1960, 74 Stat. 423, provided that: "The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[42 U.S.C. 1301(a)(8)(B)\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961."
 
 #### Effective Date of 1959 Amendment
 
@@ -278,7 +278,7 @@ Pub. L. 108–173, §1(c), Dec. 8, 2003, 117 Stat. 2066, provided that:
 
 "In this Act \[see Short Title of 2003 Amendments note set out under section 1305 of this title\]:
 
-&emsp;"(1) BIPA.—The term 'BIPA' means the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted into law by section1(a)(6) of Public Law 106–554 \[see Tables for classification\].
+&emsp;"(1) BIPA.—The term 'BIPA' means the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted into law by section 1(a)(6) of Public Law 106–554 \[see Tables for classification\].
 
 &emsp;"(2)
 

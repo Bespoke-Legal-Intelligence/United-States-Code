@@ -14,7 +14,7 @@ In general.—Within 180 days after the date of enactment of the Aviation and Tr
 
 &emsp;(2)
 
-Basics of action plan.—The action plan shall clarify the responsibilities of the Transportation Security Administration, the Federal Aviation Administration and any other agency or organization that may have a rolein ensuring the safety and security of the civil air transportation system.
+Basics of action plan.—The action plan shall clarify the responsibilities of the Transportation Security Administration, the Federal Aviation Administration and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 
 (b)
 

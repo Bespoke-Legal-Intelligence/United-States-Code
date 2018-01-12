@@ -6,7 +6,7 @@ Section 1785, acts Aug. 26, 1954, ch. 937, ch. IV, §525, 68 Stat. 856; July 8, 
 
 Section 1786, acts Aug. 26, 1954, ch. 937, ch. IV, §526, 68 Stat. 857; July 8, 1955, ch. 301, §10(c), 69 Stat. 289, authorized maintenance of special missions and staffs abroad. See section 2391 of this title.
 
-Section 1787, acts Aug. 26, 1954, ch. 937, ch. IV, §527, 68 Stat. 857; July 31, 1956, ch. 804, title I, §113, 70 Stat. 740; Aug. 14, 1957, Pub. L. 85–141, §10(e), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. IV, §401(e), 72 Stat. 269; July 24, 1959, Pub. L. 86–108, ch. IV, §401(g), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, §401(g), ch. V, §501(c), (d), 74 Stat. 139, 140, related to employment of personnel. See section 2385 of this title.
+Section 1787, acts Aug. 26, 1954, ch. 937, ch. IV, §527, 68 Stat. 857; July 31, 1956, ch. 804, title I, §113, 70 Stat.740; Aug. 14, 1957, Pub. L. 85–141, §10(e), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. IV, §401(e), 72 Stat. 269; July 24, 1959, Pub. L. 86–108, ch. IV, §401(g), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, §401(g), ch. V, §501(c), (d), 74 Stat. 139, 140, related to employment of personnel. See section 2385 of this title.
 
 Section 1788, act Aug. 26, 1954, ch. 937, ch. IV, §528, 68 Stat. 858, authorized detail of personnel to foreign governments. See section 2387 of this title.
 

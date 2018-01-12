@@ -128,7 +128,7 @@ Foreign classification society.—The Secretary may accept certification from a 
 
 (f)
 
-Authority To Waive Age Restriction for Eligibility of a Vessel To Be Included in Fleet.—The Secretary of Defense, in conjunction with the Secretary of Transportation, maywaive the application of an age restriction under subsection (b)(3) if the Secretaries jointly determine that the waiver—
+Authority To Waive Age Restriction for Eligibility of a Vessel To Be Included in Fleet.—The Secretary of Defense, in conjunction with the Secretary of Transportation, may waive the application of an age restriction under subsection (b)(3) if the Secretaries jointly determine that the waiver—
 
 &emsp;(1) is in the national interest;
 
@@ -158,7 +158,7 @@ Subsec. (g). Pub. L. 114–328, §3502(a)(1), added subsec. (g).
 
 Subsec. (d). Pub. L. 109–304, §13(a)(1)(C), substituted "section 501 of this title" for "the first section of Public Law 81–891 (64 Stat. 1120; 46 U.S.C. App. note prec. 3)".
 
-Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted "documented under chapter 121 of this title," for "a documented vessel (as that term is defined in section 12101 of this title)" in introductory provisions and "documented under chapter 121" for "a documented vessel (as defined in that section)" in subpar. (B).
+Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted "documented under chapter 121 of this title," for "adocumented vessel (as that term is defined in section 12101 of this title)" in introductory provisions and "documented under chapter 121" for "a documented vessel (as defined in that section)" in subpar. (B).
 
 #### Vessel Standards
 

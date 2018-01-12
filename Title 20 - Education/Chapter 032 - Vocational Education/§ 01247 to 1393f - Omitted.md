@@ -42,7 +42,7 @@ Section 1341, Pub. L. 88–210, title I, §161, as added Pub. L. 90–576, title
 
 Section 1351, Pub. L. 88–210, title I, §171, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1086, set forth Congressional findings and declaration of purpose for cooperative vocational education programs.
 
-Section 1352, Pub. L. 88–210, title I, §172, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1086; amended Pub. L. 92–318, title II, §206, June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(m), Oct. 12, 1976,90 Stat. 2169, set forth funding provisions for cooperative vocational education programs.
+Section 1352, Pub. L. 88–210, title I, §172, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1086; amended Pub. L. 92–318, title II, §206, June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(m), Oct. 12, 1976, 90 Stat. 2169, set forth funding provisions for cooperative vocational education programs.
 
 Section 1353, Pub. L. 88–210, title I, §173, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1087, set forth requirements of State plan for participation in cooperative vocational education program funding.
 

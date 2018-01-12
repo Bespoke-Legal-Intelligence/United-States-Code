@@ -34,7 +34,7 @@
 
 (f) The Attorney General shall not authorize, under subsection (d), the importation of any firearm the importation of which is prohibited by section 922(p).
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, §233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, §105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, §2203(b), (c), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 104–106, div. A, title XVI, §1624(b)(3), Feb. 10, 1996, 110 Stat. 522; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–294, title VI, §607(c), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–296, title XI, §1112(f)(6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–174, §1(3), Dec. 9, 2003, 117 Stat. 2481.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I,§102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, §233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, §105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, §2203(b), (c), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 104–106, div. A, title XVI, §1624(b)(3), Feb. 10, 1996, 110 Stat. 522; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–294, title VI, §607(c), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–296, title XI, §1112(f)(6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–174, §1(3), Dec. 9, 2003, 117 Stat. 2481.)
 
 #### Amendment of Section
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 90–618 added licensed collectors to the enumerated list o
 
 Subsec. (c). Pub. L. 90–618 substituted "imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, or possession of firearms and" for "under this chapter", "to act in a manner dangerous to public safety" for "to conduct his operations in an unlawful manner," and "licensed importer, licensed manufacturer, licensed dealer, or licensed collector" for "licensee".
 
-Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted "section 5845(b)" for "section 5848(2)" in par. (2), substituted "section 5845(a)" for "section 5848(1)" and "excluding surplus military firearms" for "and in the case of surplus military firearms is a rifle or shotgun" inpar. (3), inserted "or ammunition" after "the firearm" in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
+Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted "section 5845(b)" for "section 5848(2)" in par. (2), substituted "section 5845(a)" for "section 5848(1)" and "excluding surplus military firearms" for "and in the case of surplus military firearms is a rifle or shotgun" in par. (3), inserted "or ammunition" after "the firearm" in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
 
 #### Effective Date of 2002 Amendment
 
@@ -92,7 +92,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of \[former\] Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as a note under section 4316 of Title 10, Armed Forces.
+Pub. L. 104–106, div. A, title XVI, §1624(c), Feb. 10, 1996, 110 Stat. 522, provided that: "The amendments made by this section \[amending this section and sections 4313 and 4316 of Title 10, Armed Forces, and repealing sections 4307, 4308, 4310, and 4311 of Title 10\] shall take effect on the earlier of—
+
+&emsp;"(1) the date on which the Secretary of the Army submits a certification in accordance with section 1623 \[former 36 U.S.C. 5523\]; or
+
+&emsp;"(2) October 1, 1996."
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
@@ -109,4 +113,8 @@ Amendment by Pub. L. 98–573 effective 15th day after Oct. 30, 1984, see sectio
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+
+#### Effective Date
+
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 

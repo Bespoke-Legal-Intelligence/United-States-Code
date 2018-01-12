@@ -50,9 +50,9 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(9) has failed to comply with any other condition specified in regulations prescribed by the Secretary for purposes of this subsection.
 
-(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
+(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a claimant is provided notice of the agency of original jurisdiction's initial decision under section 5104 of this title with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
 
-(2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans' Appeals after a notice of disagreement is filed with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
+(2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans' Appeals after a claimant is provided notice of the agency of original jurisdiction's initial decision under section 5104 of this title with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
 
 (3)(A) The Secretary may, upon the Secretary's own motion or at the request of the claimant, review a fee agreement filed pursuant to paragraph (2) and may order a reduction in the fee called for in the agreement if the Secretary finds that the fee is excessive or unreasonable.
 
@@ -76,13 +76,19 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 (3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans' Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans' Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408; Pub. L. 115–55, §2(n), Aug. 23, 2017, 131 Stat. 1110.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2(n) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
 
 #### Amendments
 
+<b>2017</b>—Subsec. (c)(1), (2). Pub. L. 115–55 substituted "claimant is provided notice of the agency of original jurisdiction's initial decision under section 5104 of this title" for "notice of disagreement is filed".
+
 <b>2006</b>—Subsec. (a). Pub. L. 109–461, §101(a)(1)(A), inserted heading.
 
-Subsec. (a)(1). Pub. L. 109–461, §101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted "Except as provided in paragraph (4), the Secretary may recognize" for "The Secretary may recognize", and struck out last sentence which read as follows: "The Secretary may require that individuals, before beingrecognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims."
+Subsec. (a)(1). Pub. L. 109–461, §101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted "Except as provided in paragraph (4), the Secretary may recognize" for "The Secretary may recognize", and struck out last sentence which read as follows: "The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims."
 
 Subsec. (a)(2) to (6). Pub. L. 109–461, §101(a)(1)(D), added pars. (2) to (6).
 
@@ -147,6 +153,10 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secret
 &emsp;"(3) shall be deducted from monetary benefits claimed and allowed."
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted "the Administrator" for "he" in introductory text.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
 
 #### Effective Date of 2006 Amendment
 

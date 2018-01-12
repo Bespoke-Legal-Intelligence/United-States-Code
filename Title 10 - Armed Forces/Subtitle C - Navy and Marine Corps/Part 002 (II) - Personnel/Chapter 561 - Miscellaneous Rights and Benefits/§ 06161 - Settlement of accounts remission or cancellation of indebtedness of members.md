@@ -16,7 +16,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "as a member of the naval service, whether as a regular or areserve in active status" for "on active duty as a member of the naval service".
+<b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "as a member of the naval service, whether as a regular or a reserve in active status" for "on active duty as a member of the naval service".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(b)(1). See 2006 Amendment note below.
 

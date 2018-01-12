@@ -26,7 +26,7 @@ In this section:
 
 #### (A) Purchases and sales
 
-&emsp;&emsp;For each of the 2008 through 2018 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+&emsp;&emsp;For each of the 2008 through 2018 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for thepurpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
 
 #### (B) Competitive procedures
 
@@ -82,7 +82,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any commodities owned and held in inventory by the Commodity Credit Corporation\(accumulated pursuant to the program authorized under section 7272 of this title).
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any commodities owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title).
 
 #### (C) Option to prevent storage fees
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (5) Relation to other laws
 
-&emsp;If sugar that is subject to a marketing allotment under part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor's allocation of an allotment under such part, as applicable.
+&emsp;If sugar that is subject to a marketing allotment under part VII of subtitle B of title III ofthe Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor's allocation of an allotment under such part, as applicable.
 
 #### (6) Funding
 

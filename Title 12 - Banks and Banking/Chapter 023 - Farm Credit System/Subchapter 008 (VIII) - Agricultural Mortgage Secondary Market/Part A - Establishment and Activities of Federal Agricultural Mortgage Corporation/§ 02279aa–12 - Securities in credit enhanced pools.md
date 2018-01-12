@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Securities representing an interest in, or obligations backed by, pools of qualified loans with respect to which the Corporation has provided a guarantee shall be authorized investments of any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State to the same extent that the person, trust, corporation, partnership, association, business trust, or business entity is authorized under any applicable law to purchase, hold, or invest in obligations issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality of the United States. Such securities or obligations may be accepted as security for all fiduciary, trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any State or any officers of either.
+&emsp;Securities representing an interest in, or obligations backed by, pools of qualified loans with respect to which the Corporation has provided a guarantee shall be authorized investments of any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State to the same extent that the person, trust, corporation, partnership, association, business trust, or business entity is authorized under any applicable law to purchase, hold, or invest in obligations issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality of the United States. Such securities or obligations may be accepted as security for all fiduciary,trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any State or any officers of either.
 
 #### (2) State limitations on purchase, holding, or investment
 
@@ -52,7 +52,7 @@ A provision of the Constitution or law of any State shall not apply to an agricu
 
 &emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
 
-(Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703;amended Pub. L. 100–399, title VI, §601(k), (l), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
+(Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (l), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
 
 #### References in Text
 

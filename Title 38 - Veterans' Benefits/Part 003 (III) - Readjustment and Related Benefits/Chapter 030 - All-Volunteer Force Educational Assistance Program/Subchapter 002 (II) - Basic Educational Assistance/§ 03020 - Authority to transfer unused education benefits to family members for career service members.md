@@ -66,7 +66,7 @@ Commencement of Use.—A dependent to whom entitlement to basic educational assi
 
 (h)
 
-Additional Administrative Matters.—(1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
+Additional Administrative Matters.—(1) The use of any entitlement to basic educationalassistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
 (2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner as the individual from whom the entitlement was transferred.
 
@@ -134,7 +134,7 @@ A prior section 3020 was renumbered section 5120 of this title.
 
 <b>2008</b>—Pub. L. 110–252, §5006(a)(1), substituted "Authority to transfer unused education benefits to family members for career service members" for "Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills" in section catchline.
 
-Subsecs. (a), (b). Pub. L. 110–252, §5006(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which provided for transfers of entitlement to basic educational assistance from eligible members ofthe Armed Forces to certain dependents and described eligibility criteria for such members, respectively.
+Subsecs. (a), (b). Pub. L. 110–252, §5006(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which provided for transfers of entitlement to basic educational assistance from eligible members of the Armed Forces to certain dependents and described eligibility criteria for such members, respectively.
 
 Subsec. (d). Pub. L. 110–252, §5006(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The total number of months of entitlement transferred by an individual under this section may not exceed 18 months."
 

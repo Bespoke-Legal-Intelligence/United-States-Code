@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraftand vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -56,7 +56,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
-&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, asmade applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
+&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, as made applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
 
 &emsp;(F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a), or any similar agreement authorized by law.
 
@@ -240,7 +240,7 @@ Sec. 110. There is established in the Treasury a non-interest bearing fund to be
 
 "
 
-Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Sanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 

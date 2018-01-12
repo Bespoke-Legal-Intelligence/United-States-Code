@@ -46,7 +46,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
+&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
 
 #### (3) Decrease in or equal appropriations
 
@@ -116,7 +116,7 @@
 
 #### References in Text
 
-Section 5304 of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 5304 nolonger define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Prior Provisions
 

@@ -28,5 +28,5 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex.Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

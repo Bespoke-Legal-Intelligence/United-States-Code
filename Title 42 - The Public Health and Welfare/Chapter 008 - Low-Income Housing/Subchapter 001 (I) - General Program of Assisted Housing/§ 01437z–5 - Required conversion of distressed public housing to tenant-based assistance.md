@@ -42,7 +42,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (A) Failure to identify projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that apublic housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a), the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a), the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
 
 #### (B) Erroneous identification of projects
 
@@ -88,7 +88,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (e) Cessation of unnecessary spending
 
-Notwithstanding any other provision of law, if, in the determination of the Secretary, a project or projects of a public housing agency meet or are likely to meet the criteria set forth in subsection (a), the Secretary may direct the agency to cease additional spending in connection with such project or projects until the Secretary determines or approves an appropriate course of action with respect to such project or projects under this section, except to the extent that failure to expend such amounts would endanger the health or safety of residents in the project or projects.
+Notwithstanding any other provision of law, if, in the determination of the Secretary, a project or projects of a public housing agency meet or are likely to meet the criteria set forth in subsection (a), the Secretary may direct theagency to cease additional spending in connection with such project or projects until the Secretary determines or approves an appropriate course of action with respect to such project or projects under this section, except to the extent that failure to expend such amounts would endanger the health or safety of residents in the project or projects.
 
 #### (f) Use of budget authority
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, if a project or projects are identif
 
 #### (g) Removal by Secretary
 
-The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) from the inventory of a public housing agency, if the public housing agency fails to adequately develop a plan under subsection (c) with respect to thatproject, or fails to adequately implement such plan in accordance with the terms of the plan.
+The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) from the inventory of a public housing agency, if the public housing agency fails to adequately develop a plan under subsection (c) with respect to that project, or fails to adequately implement such plan in accordance with the terms of the plan.
 
 #### (h) Administration
 

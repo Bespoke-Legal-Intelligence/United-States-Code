@@ -4,7 +4,7 @@
 
 #### (1) Deduction for losses disallowed
 
-&emsp;No deduction shall be allowed in respect of any loss from the sale or exchange of property,directly or indirectly, between persons specified in any of the paragraphs of subsection (b). The preceding sentence shall not apply to any loss of the distributing corporation (or the distributee) in the case of a distribution in complete liquidation.
+&emsp;No deduction shall be allowed in respect of any loss from the sale or exchange of property, directly or indirectly, between persons specified in any of the paragraphs of subsection (b). The preceding sentence shall not apply to any loss of the distributing corporation (or the distributee) in the case of a distribution in complete liquidation.
 
 #### (2) Matching of deduction and payee income item in the case of expenses and interest
 
@@ -74,7 +74,7 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 &emsp;(2) An individual shall be considered as owning the stock owned, directly or indirectly, by or for his family;
 
-&emsp;(3) An individual owning (otherwise than by the application of paragraph (2)) any stock ina corporation shall be considered as owning the stock owned, directly or indirectly, by or for his partner;
+&emsp;(3) An individual owning (otherwise than by the application of paragraph (2)) any stock in a corporation shall be considered as owning the stock owned, directly or indirectly, by or for his partner;
 
 &emsp;(4) The family of an individual shall include only his brothers and sisters (whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
 
@@ -218,7 +218,7 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 #### (C) Certain foreign currency losses
 
-&emsp;&emsp;To the extent provided in regulations, subsection (a)(1) shall not apply to any loss sustained by a member of a controlled group on the repayment of a loan made to another member of such group if such loan is payable in a foreign currency or is denominated in such a currency and such loss is attributable to a reduction in value of such foreign currency.
+&emsp;&emsp;To the extent provided in regulations, subsection (a)(1) shall not apply to any loss sustained by a member of a controlled group on the repayment of a loan made to another member of such group if such loan is payablein a foreign currency or is denominated in such a currency and such loss is attributable to a reduction in value of such foreign currency.
 
 #### (D) Redemptions by fund-of-funds regulated investment companies
 
@@ -292,7 +292,7 @@ Subsec. (b)(12). Pub. L. 98–369, §174(b)(4), substituted "the same persons" f
 
 Subsec. (e). Pub. L. 98–369, §174(b)(1), added subsec. (e).
 
-Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
+Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday,Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
 
 Subsec. (f). Pub. L. 98–369, §174(b)(2)(B), added subsec. (f).
 

@@ -42,7 +42,7 @@ Cooperative Agreements.—The Secretary may negotiate and enter into cooperative
 
 Effect on Other Laws.—Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 
-(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amendedPub. L. 105–85, div. A, title X, §1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, §2814, Dec. 31, 2011, 125 Stat. 1688.)
+(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, §1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, §2814, Dec. 31, 2011, 125 Stat. 1688.)
 
 #### Amendments
 

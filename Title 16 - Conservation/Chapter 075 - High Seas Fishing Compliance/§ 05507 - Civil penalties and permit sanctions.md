@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties
 
-(1) Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 5505 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravityof the prohibited acts committed and, with respect to the violation, the degree of culpability, any history of prior offenses, and such other matters as justice may require.
+(1) Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 5505 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violation, the degree of culpability, any history of prior offenses, and such other matters as justice may require.
 
 (2) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty that is subject to imposition or that has been imposed under this section.
 
@@ -51,4 +51,8 @@ Any person against whom a civil penalty is assessed under subsection (a) or agai
 (2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 (Pub. L. 104–43, title I, §108, Nov. 3, 1995, 109 Stat. 373.)
+
+#### Effective Date
+
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 

@@ -4,19 +4,25 @@
 
 (b) An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 
-(c) An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued under section 38 of the Arms Export Control Act (22 U.S.C. 2778) and on compliance with those requirements.
+(c) An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
 
-(Added Pub. L. 102–484, div. D, title XLII, §4236(a)(1)(B), Oct. 23, 1992, 106 Stat. 2691; amended Pub. L. 113–291, div. A, title VIII, §823(b), Dec. 19, 2014, 128 Stat. 3436.)
+&emsp;(1) under section 38 of the Arms Export Control Act (22 U.S.C. 2778), and on compliance with those requirements; and
+
+&emsp;(2) under section 9 of the Small Business Act (15 U.S.C. 638), and on compliance with those requirements.
+
+(Added Pub. L. 102–484, div. D, title XLII, §4236(a)(1)(B), Oct. 23, 1992, 106 Stat. 2691; amended Pub. L. 113–291, div. A, title VIII, §823(b), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 115–91, div. A, title XVII, §1708, Dec. 12, 2017, 131 Stat. 1809.)
 
 #### References in Text
 
-The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is division D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of division D to the Code, see Short Title note set out under section 2500 of this title and Tables.
+The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is division D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of division D to the Code,see Short Title note set out under section 2500 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 2418 was renumbered section 2420 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "issued—" for "issued", inserted par. (1) designation before "under" and comma before "and on compliance", and added par. (2).
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 

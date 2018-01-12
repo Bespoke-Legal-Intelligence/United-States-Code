@@ -74,7 +74,7 @@ For purposes of this section, the term "Medicare Advantage MSA" means an Archer 
 
 #### (d) Special rules for treatment of account after death of account holder
 
-In applying section 220(f)(8)(A) to an account which was a Medicare Advantage MSA of a decedent, the rules of section 220(f) shall apply in lieu of the rules of subsection (c) of this section with respect to the spouse as the account holder of such Medicare Advantage MSA.
+In applying section 220(f)(8)(A) to an account which was a Medicare Advantage MSA of a decedent, the rules of section 220(f) shall apply in lieu of the rules of subsection (c) of this sectionwith respect to the spouse as the account holder of such Medicare Advantage MSA.
 
 #### (e) Reports
 

@@ -12,7 +12,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 &emsp;&emsp;(A) will substantially benefit Indian tribes; and
 
-&emsp;&emsp;(B) are located primarily within Indian country (as defined in section 1151 of title 18, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations) or in proximity to Alaska Native villages.
+&emsp;&emsp;(B) are located primarily within Indian country (as defined in section 1151 of title 18, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code ofFederal Regulations) or in proximity to Alaska Native villages.
 
 #### (2) Authorized activities
 
@@ -112,7 +112,7 @@ The Secretary is authorized to carry out activities under this section for fisca
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

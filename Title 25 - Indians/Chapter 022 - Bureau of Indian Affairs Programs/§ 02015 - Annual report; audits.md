@@ -28,5 +28,9 @@ A prior section 2015, Pub. L. 95–561, title XI, §1135, as added Pub. L. 103�
 
 Another prior section 2015, Pub. L. 95–561, title XI, §1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "2005(c)".</i>
 

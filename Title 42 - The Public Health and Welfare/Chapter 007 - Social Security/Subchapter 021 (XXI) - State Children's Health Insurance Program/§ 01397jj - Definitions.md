@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance
 
-For purposes of this subchapter, the term "child health assistance" means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term "child health assistance" means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of thistitle, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 &emsp;(1) Inpatient hospital services.
 
@@ -164,7 +164,7 @@ For purposes of this subchapter:
 
 #### (2) Creditable health coverage
 
-&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
+&emsp;The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section1397ee(c)(2)(B) of this title (relating to a direct service waiver).
 
 #### (3) Group health plan; health insurance coverage; etc.
 

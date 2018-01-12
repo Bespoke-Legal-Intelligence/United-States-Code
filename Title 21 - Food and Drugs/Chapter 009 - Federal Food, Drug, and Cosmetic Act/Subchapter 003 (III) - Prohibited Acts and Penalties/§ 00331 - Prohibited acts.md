@@ -24,7 +24,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 
-(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>2</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
+(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>2</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of suchcommittee or any joint committee of Congress or any subcommittee of such joint committee.
 
 (k) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, tobacco product, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
 
@@ -34,7 +34,7 @@ The following acts and the causing thereof are prohibited:
 
 (n) The using, in labeling, advertising or other sales promotion of any reference to any report or analysis furnished in compliance with section 374 of this title.
 
-(o) In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printedmatter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
+(o) In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printed matter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
 
 (p) The failure to register in accordance with section 360 or 387e of this title, the failure to provide any information required by section 360(j), 360(k), 387e(i), or 387e(j) of this title, or the failure to provide a notice required by section 360(j)(2) or 387e(i)(3) of this title.
 
@@ -74,7 +74,7 @@ The following acts and the causing thereof are prohibited:
 
 (aa) The importation of a prescription drug in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 
-(bb) The transfer of an article of food in violation of an order under section 334(h) of this title, or the removal or alteration of any mark or label required by the order to identify the article as detained.
+(bb) The transfer of an article of food in violation of an order under section 334(h) of this title,or the removal or alteration of any mark or label required by the order to identify the article as detained.
 
 (cc) The importing or offering for import into the United States of an article of food by, with the assistance of, or at the direction of, a person debarred under section 335a(b)(3) of this title.
 
@@ -86,7 +86,7 @@ The following acts and the causing thereof are prohibited:
 
 (gg) The knowing failure to comply with paragraph (7)(E) of section 374(g) of this title; the knowing inclusion by a person accredited under paragraph (2) of such section of false information in an inspection report under paragraph (7)(A) of such section; or the knowing failure of such a person to include material facts in such a report.
 
-(hh) The failure by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any otherperson engaged in the transportation of food to comply with the sanitary transportation practices prescribed by the Secretary under section 350e of this title.
+(hh) The failure by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food to comply with the sanitary transportation practices prescribed by the Secretary under section 350e of this title.
 
 (ii) The falsification of a report of a serious adverse event submitted to a responsible person (as defined under section 379aa or 379aa–1 of this title) or the falsification of a serious adverse event report (as defined under section 379aa or 379aa–1 of this title) submitted to the Secretary.
 
@@ -210,7 +210,7 @@ Par. (bbb). Pub. L. 112–144, §715(a), added par. (bbb).
 
 <b>2011</b>—Par. (d). Pub. L. 111–353, §102(d)(1), inserted "350d," after "344,".
 
-Par. (e). Pub. L. 111–353, §§204(j)(1), 211(c), substituted "350f(j)" for "350f(g)" and inserted before period at end"; or the violation of any recordkeeping requirement under section 2223 of this title (except when such violation is committed by a farm)".
+Par. (e). Pub. L. 111–353, §§204(j)(1), 211(c), substituted "350f(j)" for "350f(g)" and inserted before period at end "; or the violation of any recordkeeping requirement under section 2223 of this title (except when such violation is committed by a farm)".
 
 Par. (uu). Pub. L. 111–353, §103(e), added par. (uu).
 

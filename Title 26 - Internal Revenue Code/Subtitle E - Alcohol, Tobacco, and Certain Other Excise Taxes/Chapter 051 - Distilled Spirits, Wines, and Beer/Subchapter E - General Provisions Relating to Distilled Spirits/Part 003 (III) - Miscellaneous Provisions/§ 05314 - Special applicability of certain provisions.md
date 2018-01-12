@@ -22,7 +22,7 @@
 
 #### (3) Withdrawals authorized by Puerto Rico
 
-&emsp;Distilled spirits (including denatured distilled spirits) may be withdrawn from the bonded premises of a distilled spirits plant in Puerto Rico pursuant to authorization issued under the laws of the Commonwealth of Puerto Rico; such spirits so withdrawn, and products containing such spirits so withdrawn, may not be brought into the United States free of tax.
+&emsp;Distilled spirits (including denatured distilled spirits) may be withdrawn from the bonded premises of a distilled spirits plant in Puerto Rico pursuant to authorization issued under the laws of the Commonwealth of Puerto Rico; such spirits so withdrawn, and products containing such spirits so withdrawn,may not be brought into the United States free of tax.
 
 #### (4) Costs of administration
 

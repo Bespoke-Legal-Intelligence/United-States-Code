@@ -174,7 +174,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iv) Rules for reporting of data
 
-&emsp;&emsp;&emsp;The disaggregation of data under clause (ii) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
+&emsp;&emsp;&emsp;The disaggregation of data under clause (ii) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personallyidentifiable information about an individual student.
 
 #### (v) Availability
 
@@ -204,7 +204,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (4) Rules for reporting of data
 
-&emsp;The disaggregation of data under paragraph (2) shall not be required when the number ofstudents in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
+&emsp;The disaggregation of data under paragraph (2) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
 
 #### (5) Information dissemination
 

@@ -2,7 +2,7 @@
 
 #### (a) Provision of installation design and instructions
 
-A manufacturer shall provide with each manufactured home, design and instructions for the installation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2) of this section, a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
+A manufacturer shall provide with each manufactured home, design and instructions for the installation of the manufactured home that have been approved by a design approval primary inspection agency. After establishment of model standards under subsection (b)(2), a design approval primary inspection agency may not give such approval unless a design and instruction provides equal or greater protection than the protection provided under such model standards.
 
 #### (b) Model manufactured home installation standards
 
@@ -12,7 +12,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 &emsp;&emsp;(A) the manufactured home designs that have been approved by a design approval primary inspection agency; and
 
-&emsp;&emsp;(B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a) of this section.
+&emsp;&emsp;(B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a).
 
 #### (2) Establishment of model standards
 
@@ -20,7 +20,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 &emsp;&emsp;(A) the manufactured home designs that have been approved by a design approval primary inspection agency; and
 
-&emsp;&emsp;(B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a) of this section.
+&emsp;&emsp;(B) the designs and instructions for the installation of manufactured homes provided by manufacturers under subsection (a).
 
 #### (3) Factors for consideration
 
@@ -46,7 +46,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (A) Establishment of installation program
 
-&emsp;&emsp;Not later than the expiration of the 5-year period described in paragraph (1), the Secretary shall establish an installation program that meets the requirements of paragraph (3) for the enforcement of installationstandards in each State described in subparagraph (B) of this paragraph.
+&emsp;&emsp;Not later than the expiration of the 5-year period described in paragraph (1), the Secretary shall establish an installation program that meets the requirements of paragraph (3) for the enforcement of installation standards in each State described in subparagraph (B) of this paragraph.
 
 #### (B) Implementation of installation program
 
@@ -62,9 +62,9 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 &emsp;&emsp;(A) installation standards that, in the determination of the Secretary, provide protection to the residents of manufactured homes that equals or exceeds the protection provided to those residents by—
 
-&emsp;&emsp;&emsp;(i) the model manufactured home installation standards established by the Secretary under subsection (b)(2) of this section; or
+&emsp;&emsp;&emsp;(i) the model manufactured home installation standards established by the Secretary under subsection (b)(2); or
 
-&emsp;&emsp;&emsp;(ii) the designs and instructions provided by manufacturers under subsection (a) of this section, if the Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2) of this section;
+&emsp;&emsp;&emsp;(ii) the designs and instructions provided by manufacturers under subsection (a), ifthe Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2);
 
 &emsp;&emsp;(B) the training and licensing of manufactured home installers; and
 
@@ -81,4 +81,8 @@ A manufacturer shall provide with each manufactured home, design and instruction
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

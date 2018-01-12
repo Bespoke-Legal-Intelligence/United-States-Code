@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) required by a change made after the date of issue of the issue in question in a Federal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
 
-&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account underthis clause with respect to any issue shall not exceed $1,000,000), or
+&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
 
 &emsp;&emsp;&emsp;(iv) described in clause (i) or (ii) of section 41(b)(2)(A) for which a deduction was allowed under section 174(a),
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized face amount of such issue allocated to any test-period beneficiary (when increased by theoutstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
+&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized face amount of such issue allocated to any test-period beneficiary (when increased by the outstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
 
 #### (B) Outstanding tax-exempt facility-related bonds
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangiblepersonal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
 
 #### (ii) Certain facilities included
 
@@ -342,7 +342,7 @@ For purposes of this part—
 
 #### (B) Blighted area
 
-&emsp;&emsp;The term "blighted area" means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandard structures, vacancies, and delinquencies in payment of real property taxes.
+&emsp;&emsp;The term "blighted area" means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandardstructures, vacancies, and delinquencies in payment of real property taxes.
 
 #### (C) Designated areas may not exceed 20 percent of total assessed value of real property in government's jurisdiction
 
@@ -374,7 +374,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
-&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differfrom the assessment method or rate of real property taxes with respect to comparable property located outside such area.
+&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
 > &emsp;For purposes of the preceding sentence, the term "comparable property" means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
@@ -404,7 +404,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 The date of enactment of this clause, referred to in subsec. (a)(12)(C)(iii), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2(a) of Title 20, did not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section1078–2(a) of Title 20, did not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -444,7 +444,7 @@ Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
 Subsec. (a)(12)(A)(ii). Pub. L. 100–647, §1013(a)(4)(A), inserted "(or series of bonds)" before "issued to refund" in introductory text.
 
-Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: "the refunding bond has a maturity date not later than the maturity date of the refunded bond,".
+Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the refunding bond has a maturity date not later than the maturity date of the refunded bond,".
 
 Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesignated subcl. (IV) as (III) and struck out former subcl. (III) which provided that this subsection apply when the interest rate on the refunding bond is lower than the interest rate on the refunded bond.
 
@@ -490,7 +490,7 @@ Refundings.—The amendment made by subsection (a) shall not apply to any bond i
 
 #### Application of Subsection (a)(12)(A)(ii)(I) to Refunding Bonds Issued Before July 1, 1987
 
-Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\]."
+Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: "A refunding bond issuedbefore July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\]."
 
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 

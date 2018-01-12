@@ -1,6 +1,6 @@
 ### \[§§3392 to 3396. Repealed. Pub. L. 103–337, div. A, title XVI, §1629(a)(1), Oct. 5, 1994, 108 Stat. 2963\]
 
-Section 3392, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1479; amended Pub. L. 100–456, div. A, titleXII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to appointment of adjutants general or assistant adjutants general as reserve officers of Army. See section 12215(a) of this title.
+Section 3392, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1479; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to appointment of adjutants general or assistant adjutants general as reserve officers of Army. See section 12215(a) of this title.
 
 Section 3393, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1479, provided that sea or foreign service not be made condition for promotion of reserve commissioned officers in reserve grades.
 

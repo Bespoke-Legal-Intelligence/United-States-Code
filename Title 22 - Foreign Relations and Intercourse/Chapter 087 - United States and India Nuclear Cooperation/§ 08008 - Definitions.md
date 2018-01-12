@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "Additional Protocol" means a protocol additional to a safeguards agreement with the IAEA, as negotiated between a country and the IAEA based on a Model Additional Protocol as set forth in IAEA information circular (INFCIRC) 540.
+&emsp;(1) The term "Additional Protocol" means a protocol additional to a safeguards agreementwith the IAEA, as negotiated between a country and the IAEA based on a Model Additional Protocol as set forth in IAEA information circular (INFCIRC) 540.
 
 &emsp;(2) The term "appropriate congressional committees" means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
 

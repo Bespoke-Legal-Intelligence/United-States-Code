@@ -10,7 +10,7 @@ A lender, in connection with a federally related mortgage loan, may not require 
 
 #### (b) Notification of shortage in escrow account
 
-If the terms of any federally related mortgage loan require the borrower to make payments to the servicer (as the term is defined in section 2605(i) of this title) of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall notify the borrower not less than annually of any shortage of funds in the escrow account.
+If the terms of any federally related mortgage loan require the borrower to make payments to the servicer (as the term is defined in section 2605(i) of this title) of the loan for deposit into an escrow account for the purpose of assuringpayment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall notify the borrower not less than annually of any shortage of funds in the escrow account.
 
 #### (c) Escrow account statements
 
@@ -36,7 +36,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (B) Time of submission
 
-&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than30 days after the conclusion of each such 1-year period.
+&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
 
 #### (d) Penalties
 

@@ -24,7 +24,7 @@
 
 (2)(A) The requirements of subsection (b) shall not be treated as met in the case of the recovery of an OASDI overpayment from any individual under this section unless the notification under subsection (b)(1) describes the conditions under which the Commissioner of Social Security is required to waive recovery of an overpayment, as provided under section 204(b) of the Social Security Act.
 
-(B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection (b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
+(B) In any case in which an individual files for a waiver under section 204(b) of the Social Security Act within the 60-day period referred to in subsection (b)(2), the Commissioner of Social Security shall not certify to the Secretary of the Treasury that the debt is valid under subsection\(b)(4) before rendering a decision on the waiver request under such section 204(b). In lieu of payment, pursuant to subsection (c), to the Commissioner of Social Security of the amount of any reduction under this subsection based on an OASDI overpayment, the Secretary of the Treasury shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary of the Treasury as appropriate by the Commissioner of Social Security.
 
 (g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 102–589 effective as if enacted on Sept. 30, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refunds to which amendments by section 2653 of the Deficit Reduction Act of 1984, Pub. L. 98–369, do not apply, see section 5129(d) of Pub. L. 101–508, set out as a note under section 6402 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refunds to which amendments bysection 2653 of the Deficit Reduction Act of 1984, Pub. L. 98–369, do not apply, see section 5129(d) of Pub. L. 101–508, set out as a note under section 6402 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

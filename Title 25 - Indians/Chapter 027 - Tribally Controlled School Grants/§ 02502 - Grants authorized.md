@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, grants provided under this chapter shall be used to defray, at the discretion of the school board of the tribally controlled school with respect to which the grant is provided, any expenditures for education related activities for which any funds that compose the grant may be used under the laws described in section 2504(a) of this title, including expenditures for—
+&emsp;&emsp;Except as otherwise provided in this paragraph, grants provided under this chaptershall be used to defray, at the discretion of the school board of the tribally controlled school with respect to which the grant is provided, any expenditures for education related activities for which any funds that compose the grant may be used under the laws described in section 2504(a) of this title, including expenditures for—
 
 &emsp;&emsp;&emsp;(i) school operations, academic, educational, residential, guidance and counseling, and administrative purposes; and
 
@@ -76,7 +76,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 #### (1) In general
 
-&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, theSecretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
+&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
 
 #### (2) Status after retrocession
 

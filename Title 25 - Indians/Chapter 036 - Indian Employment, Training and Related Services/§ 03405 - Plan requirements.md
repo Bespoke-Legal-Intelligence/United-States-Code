@@ -1,22 +1,32 @@
 ### §3405. Plan requirements
 
-For a plan to be acceptable pursuant to section 3403 of this title, it shall—
+A plan submitted to the Secretary for approval under this chapter shall—
 
-&emsp;(1) identify the programs to be integrated;
+&emsp;(1) identify the programs to be integrated and consolidated;
 
-&emsp;(2) be consistent with the purposes of this chapter authorizing the services to be integrated in a demonstration project;
+&emsp;(2) be consistent with the purposes of this chapter;
 
-&emsp;(3) describe a comprehensive strategy which identifies the full range of potential employment opportunities on and near the tribal government's service area, and the education, training and related services to be provided to assist Indian workers to access those employment opportunities;
+&emsp;(3) describe—
 
-&emsp;(4) describe the way in which services are to be integrated and delivered and the results expected from the plan;
+&emsp;&emsp;(A) a comprehensive strategy identifying the full range of potential employment opportunities on and near the service area of the Indian tribe;
 
-&emsp;(5) identify the projected expenditures under the plan in a single budget;
+&emsp;&emsp;(B) the education, training, and related services to be provided to assist Indians to access those employment opportunities;
 
-&emsp;(6) identify the agency or agencies of the tribal government to be involved in the delivery of the services integrated under the plan;
+&emsp;&emsp;(C) the way in which services and program funds are to be integrated, consolidated, and delivered; and
 
-&emsp;(7) identify any statutory provisions, regulations, policies, or procedures that the tribal government believes need to be waived in order to implement its plan; and
+&emsp;&emsp;(D) the results expected, including the expected number of program participants in unsubsidized employment during the second quarter after exit from the program, from the plan;
 
-&emsp;(8) be approved by the governing body of the affected tribe.
+&emsp;(4) identify the projected expenditures under the plan in a single budget covering all consolidated funds;
 
-(Pub. L. 102–477, §6, Oct. 23, 1992, 106 Stat. 2303.)
+&emsp;(5) identify any agency of the Indian tribe to be involved in the delivery of the services integrated under the plan;
+
+&emsp;(6) identify any statutory provisions, regulations, policies, or procedures that the Indian tribe believes need to be waived to implement the plan; and
+
+&emsp;(7) be approved by the governing body of the Indian tribe.
+
+(Pub. L. 102–477, §6, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 115–93, §7, Dec. 18, 2017, 131 Stat. 2028.)
+
+#### Amendments
+
+<b>2017</b>—Pub. L. 115–93 amended section generally. Prior to amendment, section related to plan requirements, consisting of eight pars.
 

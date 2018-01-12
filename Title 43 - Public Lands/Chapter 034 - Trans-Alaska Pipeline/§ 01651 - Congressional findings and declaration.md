@@ -26,7 +26,7 @@ Pub. L. 93–153, title IV, §411, Nov. 16, 1973, 87 Stat. 594, provided that: "
 
 #### Presidential Task Force
 
-Pub. L. 101–380, title VIII, §8103, Aug. 18, 1990, 104 Stat. 567, established a Presidential Task Force on the Trans-Alaska Pipeline System, to conduct an audit of the Trans-Alaska Pipeline System and make recommendations to the President, Congress, and the Governor of Alaska, authorized appropriations for the Task Force, and required it to transmit its final report to the President, Congress, and the Governor no later than 2 years after the date on which funding was made available.
+Pub. L. 101–380, title VIII, §8103, Aug. 18, 1990, 104 Stat. 567, established a Presidential Task Force on theTrans-Alaska Pipeline System, to conduct an audit of the Trans-Alaska Pipeline System and make recommendations to the President, Congress, and the Governor of Alaska, authorized appropriations for the Task Force, and required it to transmit its final report to the President, Congress, and the Governor no later than 2 years after the date on which funding was made available.
 
 #### North Slope Crude Oil; Report on Equitable Allocation
 

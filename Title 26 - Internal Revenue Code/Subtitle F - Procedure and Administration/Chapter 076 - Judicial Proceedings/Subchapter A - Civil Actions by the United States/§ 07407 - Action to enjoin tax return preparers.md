@@ -2,7 +2,7 @@
 
 #### (a) Authority to seek injunction
 
-A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further action as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
+A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further acting as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
 
 #### (b) Adjudication and decrees
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 101–239, §7738(a), struck out subsec. (c) relating to bo
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub.L. 110–28, set out as a note under section 6060 of this title.
 
 #### Effective Date of 1989 Amendment
 

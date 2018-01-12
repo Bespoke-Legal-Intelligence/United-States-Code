@@ -50,7 +50,7 @@ In subsection (a), the words "In addition to the authority contained in any othe
 
 The text of 49:1343(d) (words after 1st comma) is omitted because of section 414(a)(1)(B) of the Civil Service Reform Act of 1978 (Pub. L. 95–454, 92 Stat. 1177). The text of 49:1343(f) is omitted because of section 414(a)(2)(A) of that Act.
 
-In subsection (b), the word "procure" is substituted for "obtain" to conform to 5:3109. The words "unless otherwise specified in an appropriation Act" after "individuals" in 49:1657(b) are omitted as surplus.
+In subsection (b), the word "procure" is substituted for "obtain" to conform to 5:3109. The words "unlessotherwise specified in an appropriation Act" after "individuals" in 49:1657(b) are omitted as surplus.
 
 #### Post-Employment Policy Study
 

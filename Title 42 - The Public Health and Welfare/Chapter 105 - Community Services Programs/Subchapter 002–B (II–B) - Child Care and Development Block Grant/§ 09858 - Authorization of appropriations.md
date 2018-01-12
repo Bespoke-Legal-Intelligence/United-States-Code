@@ -200,7 +200,7 @@ In general.—Except as provided in subsection (f)(1), and in paragraphs (2) and
 
 &emsp;"(2)
 
-Geographic references.—The term 'State' includes an Indian community in subsections (c) (thesecond and third place the term appears), (d)(1) (the second place the term appears), (d)(3)(A) (the second place the term appears), and (i)(1)(A)(i).
+Geographic references.—The term 'State' includes an Indian community in subsections (c) (the second and third place the term appears), (d)(1) (the second place the term appears), (d)(3)(A) (the second place the term appears), and (i)(1)(A)(i).
 
 &emsp;"(3)
 

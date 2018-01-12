@@ -42,7 +42,7 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 Employment of Program Participants.—The Secretary of Defense—
 
-&emsp;(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which ascholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
+&emsp;(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
 
 &emsp;(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
@@ -102,7 +102,7 @@ Subsecs. (g), (h). Pub. L. 114–92, §212(2), (3), added subsec. (g) and redesi
 
 <b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2)."
 
-<b>2013</b>—Subsec. (b)(2). Pub. L. 113–66 substituted "an amount determined by the Secretary of Defense" for "the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board".
+<b>2013</b>—Subsec. (b)(2). Pub. L. 113–66 substituted "an amount determined by the Secretary of Defense" for"the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board".
 
 <b>2009</b>—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted "The" for "Except as provided in subsection (d), the" in second sentence.
 

@@ -188,7 +188,7 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 
 (i)
 
-Other Limitations.—No Federal credit instrument shall be made by the Secretary underthis section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
+Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
 

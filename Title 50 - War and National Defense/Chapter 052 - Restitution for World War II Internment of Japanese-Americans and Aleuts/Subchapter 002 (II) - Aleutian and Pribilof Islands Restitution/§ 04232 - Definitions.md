@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(3) the term "Association" means the Aleutian/Pribilof Islands Association, Inc., a nonprofit regional corporation established for the benefit of the Aleut people and organized under the laws of the State of Alaska;
 
-&emsp;(4) the term "Corporation" means the Aleut Corporation, a for-profit regional corporation for the Aleut region organized under the laws of the State of Alaska and established under section 1606 of title 43;
+&emsp;(4) the term "Corporation" means the Aleut Corporation, a for-profit regional corporationfor the Aleut region organized under the laws of the State of Alaska and established under section 1606 of title 43;
 
 &emsp;(5) the term "eligible Aleut" means any Aleut living on August 10, 1988—
 

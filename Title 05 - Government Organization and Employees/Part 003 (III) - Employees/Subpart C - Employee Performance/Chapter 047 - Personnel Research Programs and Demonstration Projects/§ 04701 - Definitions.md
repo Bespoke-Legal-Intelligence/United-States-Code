@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) a Government corporation;
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by thePresident, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(C) the Government Accountability Office;
 
@@ -14,7 +14,7 @@
 
 &emsp;(3) "eligible" means an individual who has qualified for appointment in an agency and whose name has been entered on the appropriate register or list of eligibles;
 
-&emsp;(4) "demonstration project" means a project conducted by the Office of Personnel Management, or under its supervision, to determine whether a specified change in personnel management policies or procedures would result in improved Federal personnel management; and
+&emsp;(4) "demonstration project" means a project conducted by the Office of Personnel Management, or under its supervision, to determinewhether a specified change in personnel management policies or procedures would result in improved Federal personnel management; and
 
 &emsp;(5) "research program" means a planned study of the manner in which public management policies and systems are operating, the effects of those policies and systems, the possibilities for change, and comparisons among policies and systems.
 

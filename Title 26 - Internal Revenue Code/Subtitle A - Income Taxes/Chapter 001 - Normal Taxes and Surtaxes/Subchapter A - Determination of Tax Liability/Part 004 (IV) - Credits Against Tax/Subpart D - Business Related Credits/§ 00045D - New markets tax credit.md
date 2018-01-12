@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;The term "qualified community development entity" means any domestic corporation or partnership if—
 
-&emsp;&emsp;(A) the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,
+&emsp;&emsp;(A) the primary mission of the entity is serving, or providing investment capital for,low-income communities or low-income persons,
 
 &emsp;&emsp;(B) the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;The requirements of paragraph (1) shall be treated as met by—
 
-&emsp;&emsp;(A) any specialized small business investment company (as defined in section 1044(c)(3)), and
+&emsp;&emsp;(A) any specialized small business investment company (as defined in section 1044(c)(3)),<sup>1</sup> and
 
 &emsp;&emsp;(B) any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any capital or equity investment in, or loan to, any qualified active low-income community business,
 
-&emsp;&emsp;(B) the purchase from another qualified community development entity of any loanmade by such entity which is a qualified low-income community investment,
+&emsp;&emsp;(B) the purchase from another qualified community development entity of any loan made by such entity which is a qualified low-income community investment,
 
 &emsp;&emsp;(C) financial counseling and other services specified in regulations prescribed by the Secretary to businesses located in, and residents of, low-income communities, and
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (3) Areas not within census tracts
 
-&emsp;In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.
+&emsp;In the case of an area which is not tracted for population census tracts, the equivalentcounty divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.
 
 #### (4) Tracts with low population
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) $5,000,000,000 for 2008,
 
-&emsp;&emsp;(F) $5,000,000,000 for 2009 <sup>1</sup>
+&emsp;&emsp;(F) $5,000,000,000 for 2009 <sup>2</sup>
 
 &emsp;&emsp;(G) $3,500,000,000 for each of calendar years 2010 through 2019.
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (h) Basis reduction
 
-The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
+The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to suchinvestment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
 
 #### (i) Regulations
 
@@ -262,7 +262,11 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295,div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+
+#### References in Text
+
+Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, §13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 #### Amendments
 
@@ -360,5 +364,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 276
 
 Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by ", and".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by ", and".</i>
 

@@ -14,7 +14,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(3) encourage the export of United States renewable energy technologies, including services related thereto, to those countries that have a need for developmentally sound facilities to provide energy derived from renewable resources;
 
-&emsp;(4) develop markets for United States renewable energy technologies to be utilized in meeting the energy and environmental requirements of foreign countries;
+&emsp;(4) develop markets for United States renewable energy technologies to be utilized inmeeting the energy and environmental requirements of foreign countries;
 
 &emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
 
@@ -76,7 +76,7 @@ Pursuant to the agreements under subsection (a), the Secretary, through the Agen
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
-&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed bythe Development Assistance Committee of the Organization for Economic Cooperation and Development.
 
 #### (h) Selection of projects
 

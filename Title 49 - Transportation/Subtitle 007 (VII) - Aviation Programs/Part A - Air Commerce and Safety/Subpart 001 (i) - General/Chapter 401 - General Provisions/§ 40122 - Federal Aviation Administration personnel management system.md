@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Consultation and negotiation.—In developing and making changes to the personnelmanagement system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
+Consultation and negotiation.—In developing and making changes to the personnel management system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Annual budget discussions.—The Administration and the exclusive bargaining rep
 
 (b)
 
-Expert Evaluation.—On the date that is 3 years after the personnel management system is implemented, the Administration shall employ outside experts to provide an independent evaluation of the effectiveness of the system within 3 months after such date. For this purpose, the Administrator may utilize the services of experts and consultants under section 3109 of title5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary.
+Expert Evaluation.—On the date that is 3 years after the personnel management system is implemented, the Administration shall employ outside experts to provide an independent evaluation of the effectiveness of the system within 3 months after such date. For this purpose, the Administrator may utilize the services of experts and consultants under section 3109 of title 5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary.
 
 (c)
 
@@ -146,7 +146,7 @@ Appeals to merit systems protection board.—Under the new personnel management 
 
 &emsp;(4)
 
-Certification of disabled veteran leave.—In order to verify that leave credited to an employee pursuant to paragraph (2)(J) is used for treating a service-connected disability, that employee shall, notwithstanding section 6329(c) of title 5, submit to the Assistant Administrator for Human Resource Management of the Federal Aviation Administration certification, in such form and manner as the Administrator of the Federal Aviation Administration may prescribe, that the employeeused that leave for purposes of being furnished treatment for that disability by a health care provider.
+Certification of disabled veteran leave.—In order to verify that leave credited to an employee pursuant to paragraph (2)(J) is used for treating a service-connected disability, that employee shall, notwithstanding section 6329(c) of title 5, submit to the Assistant Administrator for Human Resource Management of the Federal Aviation Administration certification, in such form and manner as the Administrator of the Federal Aviation Administration may prescribe, that the employee used that leave for purposes of being furnished treatment for that disability by a health care provider.
 
 &emsp;(5)
 

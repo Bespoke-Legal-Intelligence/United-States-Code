@@ -2,7 +2,7 @@
 
 Section 5315, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1377, related to status of certain distilled spirits on July 1, 1959.
 
-A prior section 5316, act Aug. 16, 1954, ch. 736, 68A Stat. 660, related to form of affidavit, information orindictment, prior to the general revision of this chapter by Pub. L. 85–859. See Fed. Rules Cr. Proc., rules 7(c), (f), and 8(a), Title 18, Appendix, Crimes and Criminal Procedure.
+A prior section 5316, act Aug. 16, 1954, ch. 736, 68A Stat. 660, related to form of affidavit, information or indictment, prior to the general revision of this chapter by Pub. L. 85–859. See Fed. Rules Cr. Proc., rules 7(c), (f), and 8(a), Title 18, Appendix, Crimes and Criminal Procedure.
 
 A prior section 5317, act Aug. 16, 1954, ch. 736, 68A Stat. 660, related to applicability of other laws, prior to the general revision of this chapter by Pub. L. 85–859. See section 5274 of this title.
 

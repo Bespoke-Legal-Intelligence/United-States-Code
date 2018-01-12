@@ -6,7 +6,7 @@ The Immigration and Naturalization Service (in cooperation with the Department o
 
 &emsp;(1) Information on the severe harm to physical and psychological health caused by female genital mutilation which is compiled and presented in a manner which is limited to the practice itself and respectful to the cultural values of the societies in which such practice takes place.
 
-&emsp;(2) Information concerning potential legal consequences in the United States for (A) performing female genital mutilation, or (B) allowing a child under his or her care to be subjected to female genital mutilation, undercriminal or child protection statutes or as a form of child abuse.
+&emsp;(2) Information concerning potential legal consequences in the United States for (A) performing female genital mutilation, or (B) allowing a child under his or her care to be subjected to female genital mutilation, under criminal or child protection statutes or as a form of child abuse.
 
 #### (b) Limitation
 

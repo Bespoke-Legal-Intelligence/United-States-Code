@@ -18,7 +18,7 @@ There is hereby established within the Department of Commerce a Fire Research Ce
 
 &emsp;&emsp;(F) the unique fire hazards arising from the transportation and use, in industrial and professional practices, of combustible gases, fluids, and materials;
 
-&emsp;&emsp;(G) design concepts for providing increased fire safety consistent with habitability, comfort, and human impact in buildings and other structures;
+&emsp;&emsp;(G) design concepts for providing increased fire safety consistent with habitability,comfort, and human impact in buildings and other structures;
 
 &emsp;&emsp;(H) such other aspects of the fire process as may be deemed useful in pursuing the objectives of the fire research program; and
 
@@ -82,7 +82,7 @@ Pub. L. 102–245, title I, §104(g), Feb. 14, 1992, 106 Stat. 11, provided that
 
 #### National Commission on Fire Prevention and Control
 
-Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of fire throughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
+Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of firethroughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
 
 #### Executive Order No. 11654
 

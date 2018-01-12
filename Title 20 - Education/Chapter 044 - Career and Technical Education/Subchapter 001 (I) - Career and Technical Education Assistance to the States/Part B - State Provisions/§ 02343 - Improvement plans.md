@@ -38,7 +38,7 @@
 
 #### (2) Plan
 
-&emsp;If, after reviewing the evaluation in paragraph (1), the eligible agency determines that an eligible recipient failed to meet at least 90 percent of an agreed upon local adjusted level of performance for any of the core indicators of performance described in section 2323(b)(4) of this title, the eligible recipient shall develop and implement a program improvement plan (with special consideration to performance gaps identified under section 2323(b)(4)(C)(ii)(II) of this title) in consultation with the eligible agency, appropriate agencies, individuals, and organizations during the first program year succeeding the program year for which the eligible recipient failed to so meet any of the local adjusted levels of performance for any of the core indicators of performance.
+&emsp;If, after reviewing the evaluation in paragraph (1), the eligible agency determines that an eligible recipient failed to meet at least 90 percent of an agreed upon local adjusted level of performance for any of the core indicators of performance described in section 2323(b)(4) of this title, the eligible recipient shall develop and implement a program improvement plan (with special consideration to performance gaps identified under section 2323(b)(4)(C)(ii)(II) of this title) in consultation with the eligible agency, appropriate agencies, individuals, and organizations during the first program year succeeding the program year forwhich the eligible recipient failed to so meet any of the local adjusted levels of performance for any of the core indicators of performance.
 
 #### (3) Technical assistance
 
@@ -66,7 +66,7 @@
 
 #### (5) Funds resulting from reduced allotments
 
-&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipientto provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
+&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipient to provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
 
 (Pub. L. 88–210, title I, §123, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 721.)
 

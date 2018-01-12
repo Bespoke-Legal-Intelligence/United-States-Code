@@ -22,7 +22,7 @@ To carry out the purposes specified in subsection (a), there are authorized to b
 
 #### (c) Nonapplicability of other laws
 
-The funds appropriated under subsection (b) may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+The funds appropriated under subsection (b) may be made available to the Polish-AmericanEnterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
 
 #### (d) Designation of Enterprise Funds
 
@@ -86,7 +86,7 @@ In carrying out this section, each Enterprise Fund shall take into account such 
 
 #### (h) Retention of interest
 
-An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes anyinterest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
 #### (i) Use of United States private venture capital
 
@@ -118,7 +118,7 @@ The accounts of each Enterprise Fund shall be audited annually in accordance wit
 
 #### (n) GAO audits
 
-The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government AccountabilityOffice in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
 
 #### (o) Recordkeeping requirements
 

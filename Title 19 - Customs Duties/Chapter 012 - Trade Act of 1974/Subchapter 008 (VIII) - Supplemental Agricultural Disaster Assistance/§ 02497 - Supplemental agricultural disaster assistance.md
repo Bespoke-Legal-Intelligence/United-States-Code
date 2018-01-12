@@ -132,7 +132,7 @@ In this section:
 
 #### (16) Qualifying natural disaster declaration
 
-&emsp;The term "qualifying natural disaster declaration" means a natural disaster declared by the Secretary for production losses under section 1961(a) of title 7.
+&emsp;The term "qualifying natural disaster declaration" means a natural disaster declared bythe Secretary for production losses under section 1961(a) of title 7.
 
 #### (17) Secretary
 
@@ -364,7 +364,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would havebeen in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
@@ -408,7 +408,7 @@ In this section:
 
 #### (A) Eligible losses
 
-&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only forgrazing losses for covered livestock that occur on land that—
 
 &emsp;&emsp;&emsp;(i) is native or improved pastureland with permanent vegetative cover; or
 
@@ -620,7 +620,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -656,7 +656,7 @@ In this section:
 
 #### (A) 2008 crop year
 
-&emsp;&emsp;In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>4</sup>
+&emsp;&emsp;In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shallwaive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>4</sup>
 
 #### (B) 2009 crop year
 
@@ -782,7 +782,7 @@ Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referr
 
 Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles Band C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original "the date of enactment of this subtitle", and was translated as meaning the date of enactment of title IX of Pub. L. 93–618, as added by Pub. L. 110–246, which was approved June 18, 2008, to reflect the probable intent of Congress.
 
@@ -878,7 +878,7 @@ Subsec. (h)(5). Pub. L. 110–398, §2(b)(7), added par. (5).
 
 #### Effective Date
 
-Enactment of this subchapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 #### Transition Provisions
 

@@ -90,7 +90,7 @@ The Administrator is authorized, to the extent that he determines it necessary t
 
 #### (f) Assistance to State and local fire service training programs
 
-The Administrator is authorized to provide assistance to State and local fire service trainingprograms through grants, contracts, or otherwise. Such assistance shall not exceed 7.5 percent of the amount authorized to be appropriated in each fiscal year pursuant to section 2216 of this title.
+The Administrator is authorized to provide assistance to State and local fire service training programs through grants, contracts, or otherwise. Such assistance shall not exceed 7.5 percent of the amount authorized to be appropriated in each fiscal year pursuant to section 2216 of this title.
 
 #### (g) Site selection
 
@@ -208,7 +208,7 @@ Pub. L. 108–169, title II, §204(b), Dec. 6, 2003, 117 Stat. 2039, provided th
 
 #### Coordination With Other Programs To Avoid Duplication
 
-Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: "The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
+Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: "The Administrator of the United States Fire Administration shall coordinate trainingprovided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
 
 &emsp;"(1) to ensure that such training does not duplicate existing courses available to fire service personnel; and
 

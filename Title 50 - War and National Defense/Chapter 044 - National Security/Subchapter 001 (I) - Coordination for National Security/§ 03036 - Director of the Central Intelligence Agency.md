@@ -36,7 +36,7 @@ The Director of the Central Intelligence Agency shall—
 
 #### (f) Coordination with foreign governments
 
-Under the direction of the Director of National Intelligence and in a manner consistentwith section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
 #### (g) Foreign language proficiency for certain senior level positions in Central Intelligence Agency
 
@@ -54,7 +54,7 @@ Section was formerly classified to section 403–4a of this title prior to edito
 
 <b>2012</b>—Subsec. (g)(1). Pub. L. 112–87, §412(a)(1), inserted "in the Directorate of Intelligence career service or the National Clandestine Service career service" after "an individual" and "or promoted" after "appointed", substituted "individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate." for "individual—", and struck out subpars. (A) and (B) which related to required level of proficiency in a foreign language and ability to effectively communicate and exercise influence in that language, respectively.
 
-Subsec. (g)(2). Pub. L. 112–87, §412(a)(2), substituted "position, category of positions, or occupation" for " position or category of positions" in two places.
+Subsec. (g)(2). Pub. L. 112–87, §412(a)(2), substituted "position, category of positions, or occupation" for "position or category of positions" in two places.
 
 <b>2010</b>—Subsec. (g)(1). Pub. L. 111–259 substituted "National Clandestine Service" for "Directorate of Operations" in introductory provisions.
 

@@ -6,7 +6,7 @@ Any person who willfully violates any provision of this chapter or any rule, ord
 
 #### (b) Orders of compliance; Attorney General's civil action; jurisdiction and venue
 
-(1) Whenever on the basis of any information available to him the Secretary finds that any person is in violation of any provision of this chapter or any rule, regulation, order, license, or condition thereof, or other requirementsunder this chapter, he shall issue an order requiring such person to comply with such provision or requirement, or he shall bring a civil action in accordance with paragraph (3) of this subsection.
+(1) Whenever on the basis of any information available to him the Secretary finds that any person is in violation of any provision of this chapter or any rule, regulation, order, license, or condition thereof, or other requirements under this chapter, he shall issue an order requiring such person to comply with such provision or requirement, or he shall bring a civil action in accordance with paragraph (3) of this subsection.
 
 (2) Any order issued under this subsection shall state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Secretary determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 

@@ -78,7 +78,7 @@ Requirements.—A vessel subject to this subsection is not eligible for a fisher
 
 &emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
+&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) ofthe American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
 
 &emsp;&emsp;(C) the vessel—
 
@@ -130,7 +130,7 @@ Revocation of Endorsements.—The Secretary shall revoke the fishery endorsement
 
 (i)
 
-Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to theextent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
+Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 
 (Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495; Pub. L. 110–181, div. C, title XXXV, §3529(a)(2), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–281, title VI, §602(a), Oct. 15, 2010, 124 Stat. 2959; Pub. L. 112–213, title III, §307, Dec. 20, 2012, 126 Stat. 1565.)
 
@@ -202,7 +202,7 @@ Pub. L. 105–277, div. C, title II, §203(b), Oct. 21, 1998, 112 Stat. 2681–6
 
 In subsection (b)(1), the word "only" is omitted because section 12102(a), as revised by the bill, contains a general requirement for appropriate documentation to engage in any trade.
 
-In subsection (c)(1), the word "entity" is substituted for "corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity" to eliminate unnecessary words.
+In subsection (c)(1), the word "entity" is substituted for "corporation, partnership, association, trust, joint venture, limited liability company, limited liabilitypartnership, or any other entity" to eliminate unnecessary words.
 
 In subsection (e)(3), the words "After October 1, 2001" are omitted as obsolete.
 

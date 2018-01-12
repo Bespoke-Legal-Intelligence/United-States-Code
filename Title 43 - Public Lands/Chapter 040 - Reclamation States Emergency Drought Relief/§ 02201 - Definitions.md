@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### References in Text
 
-Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as theReclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
@@ -78,7 +78,7 @@ Sec. 4. <i>Drought Resilience Actions</i>. In furtherance of the policies and go
 
 &emsp;(A) support information gathering and analysis to assess the risk of drought to critical infrastructure; and
 
-&emsp;(B) use the assessment described in section 4(c)(ii) of this memorandum to inform agencies and to better communicate accurate, science-based information about drought, and the risks of drought to communities, critical infrastructure owners and operators, and other drought resilience stakeholders.
+&emsp;(B) use the assessment described in section 4(c)(ii) of this memorandum to inform agencies and to bettercommunicate accurate, science-based information about drought, and the risks of drought to communities, critical infrastructure owners and operators, and other drought resilience stakeholders.
 
 (ii) The Secretaries of Commerce and Homeland Security shall coordinate the implementation of the activities described in section 4(c)(i) of this memorandum and jointly publish an assessment describing the risk that drought poses to U.S. critical infrastructure.
 
@@ -158,13 +158,13 @@ Sec. 5. <i>National Drought Resilience Partnership</i>.
 
 (f) <i>Reporting Requirements and Action Plan</i>. Within 150 days of the date of this memorandum, the Co-Chairs of the NDRP shall submit a report to the Co-Chairs of the Council on Climate Preparedness and Resilience established by Executive Order 13653 of November 1, 2013. The report shall describe the activities undertaken and progress made concerning the implementation of this memorandum and shall include, to the extent necessary and applicable, information from all NDRP participants. Thereafter, the Co-Chairs of the NDRP shall provide updates on the implementation of the goals described in section 3 of this memorandum to the Council on Climate Preparedness and Resilience following the NDRP's quarterly meetings, and annually in the National Preparedness Report, established in Presidential Policy Directive–8 or other appropriate annual reports submitted to the President.
 
-(g) <i>Long-Term Drought Resilience Action Plan</i>. The NDRP Co-Chairs, with consensus of the NDRP agencies, shall maintain the Long-Term Drought Resilience Federal Action Plan (the "Action Plan") and update the Action Plan as necessary. The heads of agencies participating in the NDRP shall implement the Action Plan, or any successor plan or strategy promulgated by the NDRP to guide how agencies achieve the sixdrought resilience goals set forth in section 3 of this memorandum.
+(g) <i>Long-Term Drought Resilience Action Plan</i>. The NDRP Co-Chairs, with consensus of the NDRP agencies, shall maintain the Long-Term Drought Resilience Federal Action Plan (the "Action Plan") and update the Action Plan as necessary. The heads of agencies participating in the NDRP shall implement the Action Plan, or any successor plan or strategy promulgated by the NDRP to guide how agencies achieve the six drought resilience goals set forth in section 3 of this memorandum.
 
 Sec. 6. <i>Regional Coordination and Implementation</i>.
 
 (a) <i>Regional Capabilities</i>. The heads of agencies participating in the NDRP shall establish, and utilize through their regional and field offices, cross-agency methods to coordinate Federal assistance provided to States, regions, tribes, and localities facing drought challenges. These capabilities shall be integrated with existing regional planning and coordination initiatives, including with appropriate resiliency efforts conducted by State, regional, tribal, and local drought stakeholders.
 
-(b) <i>Regional Engagement Coordination</i>. In regions where complementary drought resilience activities are implemented by multiple Federal agencies, those agencies shall coordinate regional outreach strategies. Further, these agencies shall collectively coordinate regional outreach and engagement efforts with the goal of reducing duplication of effort for State, regional, tribal, and local stakeholders.
+(b) <i>Regional Engagement Coordination</i>. In regions where complementary drought resilience activities are implemented by multiple Federal agencies, those agencies shall coordinate regional outreach strategies. Further, these agencies shall collectively coordinate regional outreach and engagement efforts with the goalof reducing duplication of effort for State, regional, tribal, and local stakeholders.
 
 Sec. 7. <i>Definitions</i>. (a) "Agencies" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies.
 

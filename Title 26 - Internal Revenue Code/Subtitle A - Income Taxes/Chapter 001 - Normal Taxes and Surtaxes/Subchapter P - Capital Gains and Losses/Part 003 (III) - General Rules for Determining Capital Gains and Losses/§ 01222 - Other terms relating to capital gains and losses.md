@@ -50,7 +50,7 @@ For purposes of this subtitle—
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–295 struck out last sentence which read as follows: "For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402."
+<b>2014</b>—Pub. L. 113–295 struck out concluding provisions which read as follows: "For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402."
 
 <b>2010</b>—Par. (10). Pub. L. 111–325 substituted "section 1212(a)(1)" for "section 1212".
 
@@ -93,6 +93,8 @@ Pub. L. 94–455, title XIV, §1402(a)(2), Oct. 4, 1976, 90 Stat. 1731, provided
 Amendment by section 1901(a)(136) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1969 Amendment
+
+Amendment by section 511(a) of Pub. L. 91–172 applicable with respect to taxable years beginning after Dec. 31, 1969, see section 511(d) of Pub. L. 91–172, set out as an Effective Date note under section 852 of this title.
 
 Amendment by section 513(c) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 513(d) of Pub. L. 91–172, set out as a note under section 1211 of this title.
 

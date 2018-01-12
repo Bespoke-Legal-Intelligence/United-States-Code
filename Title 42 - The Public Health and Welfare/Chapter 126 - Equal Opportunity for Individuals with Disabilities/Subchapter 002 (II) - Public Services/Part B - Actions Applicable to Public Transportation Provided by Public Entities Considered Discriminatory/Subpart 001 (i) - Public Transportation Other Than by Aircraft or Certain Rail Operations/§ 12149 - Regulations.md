@@ -6,7 +6,7 @@ Not later than 1 year after July 26, 1990, the Secretary of Transportation shall
 
 #### (b) Standards
 
-The regulations issued under this section and section 12143 of this title shall include standards applicable to facilities and vehicles covered by this part. The standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
+The regulations issued under this section and section 12143 of this title shall include standardsapplicable to facilities and vehicles covered by this part. The standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
 
 (Pub. L. 101–336, title II, §229, July 26, 1990, 104 Stat. 345.)
 

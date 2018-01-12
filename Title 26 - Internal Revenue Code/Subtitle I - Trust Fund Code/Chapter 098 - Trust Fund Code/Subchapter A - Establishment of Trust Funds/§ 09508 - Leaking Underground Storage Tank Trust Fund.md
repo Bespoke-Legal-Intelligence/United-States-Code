@@ -62,7 +62,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no amount may be appropriated to the Leaking Underground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;Except as provided in paragraph (2), no amount may be appropriated to the LeakingUnderground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 

@@ -76,7 +76,7 @@ Deadline for promulgating regulations.—The Secretary of Energy shall promulgat
 
 "(2)
 
-Effective date.—The regulations promulgated under paragraph (1) shall take effect on the date thatis one year after the promulgation date of the regulations."
+Effective date.—The regulations promulgated under paragraph (1) shall take effect on the date that is one year after the promulgation date of the regulations."
 
 #### Prohibition
 

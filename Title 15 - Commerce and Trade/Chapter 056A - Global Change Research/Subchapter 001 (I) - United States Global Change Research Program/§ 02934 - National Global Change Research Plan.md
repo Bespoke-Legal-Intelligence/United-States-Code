@@ -52,7 +52,7 @@ The Plan shall provide recommendations for collaboration within the Federal Gove
 
 &emsp;(2) create globally accessible formats for data collected by various international sources; and
 
-&emsp;(3) combine and interpret data from various sources to produce information readily usable by policymakers attempting to formulate effective strategies for preventing, mitigating, and adapting to the effects of global change.
+&emsp;(3) combine and interpret data from various sources to produce information readily usableby policymakers attempting to formulate effective strategies for preventing, mitigating, and adapting to the effects of global change.
 
 #### (e) National Research Council evaluation
 

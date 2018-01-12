@@ -12,7 +12,7 @@
 
 (c) The Secretaries concerned shall determine what constitutes a travel status for the purposes of the sections of this title designated by subsection (a).
 
-(d) The Secretary concerned shall define the term "permanent station" for the purposes of the sections of this title designated by subsection (a). The definition shall include a shore station or the home yard or home port of a vessel to which a member of a uniformed service who is entitled to basic pay may be ordered. An authorized change in the home yard or home port of such a vessel is a change of permanent station.
+(d) The Secretary concerned shall define the term "permanent station" for the purposes ofthe sections of this title designated by subsection (a). The definition shall include a shore station or the home yard or home port of a vessel to which a member of a uniformed service who is entitled to basic pay may be ordered. An authorized change in the home yard or home port of such a vessel is a change of permanent station.
 
 (e) The regulations prescribed under this section shall cease to be in effect as of the travel authorities transition expiration date.
 

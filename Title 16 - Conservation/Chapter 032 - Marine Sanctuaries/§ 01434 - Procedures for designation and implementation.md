@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resource studies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
 
-&emsp;&emsp;&emsp;(iv) An evaluation of the advantages of cooperative State and Federal management if all or part of the proposed sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary of a State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.).
+&emsp;&emsp;&emsp;(iv) An evaluation of the advantages of cooperative State and Federal management if all or part of the proposed sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary ofa State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.).
 
 &emsp;&emsp;&emsp;(v) An estimate of the annual cost to the Federal Government of the proposed designation, including costs of personnel, equipment and facilities, enforcement, research, and public education.
 
@@ -110,7 +110,7 @@
 
 #### (4) Failure to follow alternative
 
-&emsp;If the head of a Federal agency takes an action other than an alternative recommended by the Secretary and such action results in the destruction of, loss of, or injury to a sanctuary resource, the head of the agency shallpromptly prevent and mitigate further damage and restore or replace the sanctuary resource in a manner approved by the Secretary.
+&emsp;If the head of a Federal agency takes an action other than an alternative recommended by the Secretary and such action results in the destruction of, loss of, or injury to a sanctuary resource, the head of the agency shall promptly prevent and mitigate further damage and restore or replace the sanctuary resource in a manner approved by the Secretary.
 
 #### (e) Review of management plans
 
@@ -142,7 +142,7 @@ Not more than five years after the date of designation of any national marine sa
 
 &emsp;&emsp;(B) a Northwestern Hawaiian Islands National Marine Sanctuary.
 
-(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, §9(h), Oct. 11, 1996, 110 Stat. 3368; Pub. L. 106–513, §§6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, 114 Stat. 2383–2385, 2392, 2393; Pub. L. 106–555, title II, §205(b), Dec. 21, 2000, 114 Stat. 2769; Pub. L. 106–562, title III, §307(a), Dec. 23, 2000, 114 Stat. 2807.)
+(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, §9(h), Oct. 11, 1996, 110Stat. 3368; Pub. L. 106–513, §§6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, 114 Stat. 2383–2385, 2392, 2393; Pub. L. 106–555, title II, §205(b), Dec. 21, 2000, 114 Stat. 2769; Pub. L. 106–562, title III, §307(a), Dec. 23, 2000, 114 Stat. 2807.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Subsec. (f)(2). Pub. L. 106–562 substituted "subparagraphs (A) and (B) of para
 
 "(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-"(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable onlywith respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
+"(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
 <b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–587, §2104(a)(2), substituted "documents, including an executive summary, consisting of—" for "a prospectus on the proposal which shall contain—".
 

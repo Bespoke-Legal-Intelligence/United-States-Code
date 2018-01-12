@@ -76,7 +76,7 @@ Before execution sale.—(A) Before execution sale, the United States marshal ma
 
 &emsp;&emsp;(ii) receipt from the judgment debtor of a bond—
 
-&emsp;&emsp;&emsp;(I) payable to the United States, with 2 or more good and sufficient sureties to be approved by the marshal, conditioned on the delivery of the property to the marshal at the time and place named in the bond to be sold under subsection (g); or
+&emsp;&emsp;&emsp;(I) payable to the United States, with 2 or more good and sufficient sureties to beapproved by the marshal, conditioned on the delivery of the property to the marshal at the time and place named in the bond to be sold under subsection (g); or
 
 &emsp;&emsp;&emsp;(II) for the payment to the marshal of a fair value thereof which shall be stated in the bond.
 
@@ -140,7 +140,7 @@ Sale of personal property.—(i) Personal property levied on shall be offered fo
 
 &emsp;&emsp;(II) The court may order the sale of any personal property before the expiration of such 30-day period if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during such 30-day period.
 
-&emsp;&emsp;(iii) Notice of the time and place of the sale of personal property shall be given by the United States marshal by posting notice thereof for not less than 10 days successively immediately before the day of sale at the courthouse of any county, parish, or city, and at the place where the sale is to be made.
+&emsp;&emsp;(iii) Notice of the time and place of the sale of personal property shall be given by the United States marshal by posting notice thereof for not less than 10 days successively immediately before the day of sale at thecourthouse of any county, parish, or city, and at the place where the sale is to be made.
 
 &emsp;&emsp;(iv) The United States marshal shall serve written notice of public sale by personal delivery, or registered or certified mail at their last known addresses, on the judgment debtor and other persons who the marshal has reasonable cause to believe, after diligent inquiry, have a substantial interest in the property.
 
@@ -172,7 +172,7 @@ Transfer of title after sale.—
 
 &emsp;&emsp;&emsp;(i) If property is sold under this subsection and the successful bidder complies with the terms of the sale, the United States marshal shall execute and deliver all documents necessary to transfer to the successful bidder, without warranty, all the rights, titles, interests, and claims of the judgment debtor in the property.
 
-&emsp;&emsp;&emsp;(ii) If the successful bidder dies before execution and delivery of the documents needed to transfer ownership, the United States marshal shall execute and deliver them to the successful bidder's estate.Such delivery to the estate shall have the same effect as if accomplished during the lifetime of the purchaser.
+&emsp;&emsp;&emsp;(ii) If the successful bidder dies before execution and delivery of the documents needed to transfer ownership, the United States marshal shall execute and deliver them to the successful bidder's estate. Such delivery to the estate shall have the same effect as if accomplished during the lifetime of the purchaser.
 
 &emsp;&emsp;(B)
 
@@ -201,6 +201,10 @@ Distribution of sale proceeds.—(A) The United States marshal shall first deliv
 Further levy if execution not satisfied.—If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4950.)
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word "property" probably should not appear.</i>
 

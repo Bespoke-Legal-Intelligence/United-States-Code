@@ -10,7 +10,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 #### (1) Prior to petition to Tax Court
 
-&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, thecollection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
+&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
 
 #### (2) Effect of Tax Court decision
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A person in the United States may not act as an ocean transportationintermediary unless the person holds an ocean transportation intermediary's license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
+In General.—A person in the United States may not act as an ocean transportation intermediary unless the person holds an ocean transportation intermediary's license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
 
 (b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the South County Regional Wastewater Authority and theSanta Clara Valley Water District, is authorized to participate in the design, planning, and construction of recycled water system distribution facilities.
+The Secretary, in cooperation with the South County Regional Wastewater Authority and the Santa Clara Valley Water District, is authorized to participate in the design, planning, and construction of recycled water system distribution facilities.
 
 #### (b) Cost share
 

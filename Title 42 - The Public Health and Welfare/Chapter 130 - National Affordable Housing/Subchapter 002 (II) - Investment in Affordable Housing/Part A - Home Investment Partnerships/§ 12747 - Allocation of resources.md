@@ -38,7 +38,7 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultationwith (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
@@ -60,7 +60,7 @@
 
 #### (c) Criteria for direct reallocation
 
-The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a directreallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
+The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
 
 &emsp;(1) the applicant's demonstrated commitment to expand the supply of affordable rental housing, including units developed by public housing agencies, as indicated by the additional number of units of affordable housing made available through production or rehabilitation within the previous 2 years, making adjustment for regional variations in construction and rehabilitation costs and giving special consideration to the number of additional units made available under this subchapter through production or rehabilitation, including units developed by public housing agencies, in relation to the amounts made available under this program;
 
@@ -110,7 +110,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: "For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment."
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: "After reserving amountsfor Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section."
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: "After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section."
 
 Pub. L. 102–389 made identical amendment to those made by Pub. L. 102–229 and Pub. L. 102–230, §1(1). See 1991 Amendment note below.
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §211(a)(2)(B), struck out par. (3), as added by Pub. L. 102�
 
 Subsec. (b)(1)(A). Pub. L. 102–550, §203(b)(1), (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
 
-Pub. L. 102–273 added cl. (iii) reading as follows: "Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed."
+Pub. L. 102–273 added cl. (iii) reading as follows: "Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs withinthe jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed."
 
 Subsec. (b)(1)(B), (C). Pub. L. 102–550, §203(b)(6), redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
 
@@ -180,7 +180,7 @@ Pub. L. 104–330, title V, §505(b), Oct. 26, 1996, 110 Stat. 4044, provided th
 
 Amendment by section 211(a)(2) of Pub. L. 102–550 applicable with respect to fiscal year 1993 and thereafter, see section 211(b) of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
-Amendment by sections 202(b) and 203(b) of Pub. L. 102–550 applicable to unexpended funds allocated undersubchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by sections 202(b) and 203(b) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Applicability of Grant Thresholds
 

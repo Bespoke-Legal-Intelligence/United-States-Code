@@ -28,7 +28,7 @@ In this chapter:
 
 #### (6) Kimberley Process Certification Scheme
 
-&emsp;The term "Kimberley Process Certification Scheme" means those standards, practices,and procedures of the international certification scheme for rough diamonds presented in the document entitled "Kimberley Process Certification Scheme" referred to in the Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002.
+&emsp;The term "Kimberley Process Certification Scheme" means those standards, practices, and procedures of the international certification scheme for rough diamonds presented in the document entitled "Kimberley Process Certification Scheme" referred to in the Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002.
 
 #### (7) Participant
 
@@ -65,4 +65,8 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (9), is
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date
+
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
 

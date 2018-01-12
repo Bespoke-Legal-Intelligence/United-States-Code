@@ -18,7 +18,7 @@ The Board shall consist of 17 individuals, as follows:
 
 &emsp;&emsp;(C) one to be selected from a list of qualified individuals recommended by the National Association of Manufacturers or its successor;
 
-&emsp;&emsp;(D) one to be selected from lists of qualified individuals recommended by the United States Chamber of Commerce, or its successor, retailers, and other commercial organizations;
+&emsp;&emsp;(D) one to be selected from lists of qualified individuals recommended by the UnitedStates Chamber of Commerce, or its successor, retailers, and other commercial organizations;
 
 &emsp;&emsp;(E) two to be selected from lists of qualified individuals recommended by the American Federation of Labor and Congress of Industrial Organizations or its successor, who are representative of workers directly affected by metric conversion, and by other organizations representing labor;
 

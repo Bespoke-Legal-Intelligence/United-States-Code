@@ -38,7 +38,7 @@ To the extent the activities under the Grassroots Collaboration Program describe
 
 Each annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies shall describe the status of the establishment and operation of the Grassroots Collaboration Program described in subsection (a), the activities under taken by the Program and the sum of the amounts expended by the Program.
 
-(Pub. L. 95–118, title XVI, §1602, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat.1329–131, 1329–134; amended Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.)
+(Pub. L. 95–118, title XVI, §1602, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; amended Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.)
 
 #### Codification
 

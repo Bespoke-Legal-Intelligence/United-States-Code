@@ -12,7 +12,7 @@ The Secretary shall coordinate the educational activities provided through medic
 
 #### (2) Use
 
-&emsp;The funds made available under paragraph (1) shall be used to increase the conduct by medicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.
+&emsp;The funds made available under paragraph (1) shall be used to increase the conduct bymedicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.
 
 #### (c) Tailoring education and training activities for small providers or suppliers
 
@@ -36,7 +36,7 @@ The Secretary, and each medicare contractor insofar as it provides services (inc
 
 &emsp;(2) includes other published materials of the contractor,
 
-> that relate to providers of services and suppliers under the programs under this subchapter (andsubchapter XI insofar as it relates to such programs).
+> that relate to providers of services and suppliers under the programs under this subchapter (and subchapter XI insofar as it relates to such programs).
 
 #### (e) Encouragement of participation in education program activities
 

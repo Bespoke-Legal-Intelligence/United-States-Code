@@ -11,6 +11,10 @@
 
 <b>1991</b>—Pub. L. 102–88, title V, §504(a)(1), Aug. 14, 1991, 105 Stat. 437, added items for subchapters I and II.
 
+#### Limitation on Use of Funds
+
+Pub. L. 115–31, div. C, title VIII, §8037, May 5, 2017, 131 Stat. 255, provided that: "Notwithstanding any other provision of law, funds made available in this Act \[div. C of Pub. L. 115–31, see Tables for classification\] and hereafter for the Defense Intelligence Agency may be used for the design, development, and deployment of General Defense Intelligence Program intelligence communications and intelligence information systems for the Services, the Unified and Specified Commands, and the component commands."
+
 #### Department of Defense Intelligence Priorities
 
 Pub. L. 113–66, div. A, title IX, §922, Dec. 26, 2013, 127 Stat. 828, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall—
@@ -23,7 +27,7 @@ Pub. L. 113–66, div. A, title IX, §922, Dec. 26, 2013, 127 Stat. 828, provide
 
 #### Defense Clandestine Service
 
-Pub. L. 113–66, div. A, title IX, §923, Dec. 26, 2013, 127 Stat. 828, provided that:
+Pub. L. 113–66, div. A, title IX, §923, Dec. 26, 2013, 127 Stat. 828, as amended by Pub. L. 115–91, div. A, title X, §1051(s)(2), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 "(a)
 
@@ -39,17 +43,13 @@ Certification Required.—Not more than 50 percent of the funds authorized to be
 
 "(b)
 
-Annual Assessments.—Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], and annually thereafter for five years, the Secretary of Defense shall submit to the covered congressional committees a detailed assessment of Defense Clandestine Service employment and performance based on the metrics referred to in subsection (a)(2).
+Notification of Future Changes to Design.—Following the submittal of the certification referred to in subsection (a), in the event that any significant change is made to the Defense Clandestine Service, the Secretary shall promptly notify the covered congressional committees of the nature of such change.
 
 "(c)
 
-Notification of Future Changes to Design.—Following the submittal of the certification referred to in subsection (a), in the event that any significant change is made to the Defense Clandestine Service, the Secretary shall promptly notify the covered congressional committees of the nature of such change.
-
-"(d)
-
 Quarterly Briefings.—The Secretary of Defense shall quarterly provide to the covered congressional committees a briefing on the deployments and collection activities of personnel of the Defense Clandestine Service.
 
-"(e)
+"(d)
 
 Covered Congressional Committees Defined.—In this section, the term 'covered congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate."
 

@@ -6,7 +6,7 @@ The head of each Federal agency that is making expenditures at a rate of more th
 
 &emsp;(2) exemplary activities that promote the domestic transfer of science and technology development within the Federal Government and result in utilization of such science and technology by American industry or business, universities, State or local governments, or other non-Federal parties.
 
-(Pub. L. 96–480, §13, as added and renumbered §12, Pub. L. 99–502, §§6, 9(e)(1), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §13, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §302, Oct. 24, 1988, 102 Stat. 2597.)
+(Pub. L. 96–480, §13, as added and renumbered §12, Pub. L. 99–502, §§6, 9(e)(1), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §13, Pub. L. 100–418,title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §302, Oct. 24, 1988, 102 Stat. 2597.)
 
 #### Amendments
 

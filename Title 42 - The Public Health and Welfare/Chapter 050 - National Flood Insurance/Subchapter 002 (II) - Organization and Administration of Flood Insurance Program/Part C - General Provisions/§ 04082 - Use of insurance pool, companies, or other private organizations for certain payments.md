@@ -16,11 +16,11 @@ In order to provide for maximum efficiency in the administration of the flood in
 
 #### (b) Terms and conditions of contract
 
-Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
+Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a), and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
 
 #### (c) Competitive bidding
 
-Any contract entered into under subsection (a) of this section may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competitive bidding.
+Any contract entered into under subsection (a) may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competitive bidding.
 
 #### (d) Findings of Administrator
 
@@ -28,7 +28,7 @@ No contract may be entered into under this section unless the Administrator find
 
 #### (e) Bond; liability of certifying officers and disbursing officers
 
-(1) Any such contract may require the pool, company, or organization or any of its officers or employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Administrator may deem appropriate.
+(1) Any such contract may require the pool, company, or organization or any of its officers or employees certifying payments or disbursing funds pursuant to the contract, or otherwiseparticipating in carrying out the contract, to give surety bond to the United States in such amount as the Administrator may deem appropriate.
 
 (2) No individual designated pursuant to a contract under this section to certify payments shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment certified by him under this section.
 
@@ -71,6 +71,10 @@ Subsec. (a)(5). Pub. L. 112–141, §100232(d)(4)(E), (F), redesignated par. (4)
 Subsecs. (b), (d), (e)(1), (f). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
 <b>1983</b>—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
+
+#### Effective Date
+
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

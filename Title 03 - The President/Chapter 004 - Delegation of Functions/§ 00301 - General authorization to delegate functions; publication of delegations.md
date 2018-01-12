@@ -858,29 +858,29 @@ Section 1. The functions of the President of submitting certain recurring report
 
 (b) The Secretary of the Treasury shall submit the following reports:
 
-1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[listed in a table under section 1701 of Title 50; revoked by Ex. Ord. No. 13357\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 2\. Report on the National Emergency With Respect to the Western Balkans, Executive Order 13219 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 3\. Report on the National Emergency With Respect to the Risk of Nuclear Proliferation Relating to the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons of the Government of the Russian Federation, Executive Order 13159 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-4\. Report on the National Emergency With Respect to Burma, Executive Order 13047 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+4\. Report on the National Emergency With Respect to Burma, Executive Order 13047 \[listed in a table under section 1701 of Title 50; revoked by Ex. Ord. No. 13742\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 5\. Report on the National Emergency With Respect to Middle East Terrorism, Executive Order 12947 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 6\. Report on the National Emergency With Respect to the 1979 Iranian Emergency and Assets Blocking, Executive Order 12170 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-7\. Report on the National Emergency With Respect to Iranian Petroleum Resources, Executive Order 12957 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+7\. Report on the National Emergency With Respect to Iranian Petroleum Resources, Executive Order 12957 \[listed in a table under section 1701 of Title 50; partially revoked by Ex. Ord. No. 12959\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 8\. Report on the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia, Executive Order 12978 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 9\. Report on the National Emergency With Respect to Persons Who Commit, Threaten to Commit, or Support Terrorism, Executive Order 13224 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[listed in a table under section 1701 of Title 50; revoked by Ex. Ord. No. 13324\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[listed in a table under section 1701 of Title 50; revoked by Ex. Ord. No. 13350\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 13\. Report on the National Emergency With Respect to the Development Fund for Iraq, Executive Order 13303 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
@@ -916,9 +916,9 @@ Sec. 2. Reports to the Congress described in certain Senate resolutions shall be
 
 2\. Report on Compliance With the Treaty on Conventional Armed Forces in Europe, consistent with Condition 5(C) of the Resolution of Advice and Consent to Ratification of the Document Agreed Among the States Parties to the Treaty on Conventional Armed Forces in Europe of November 19, 1990;
 
-3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolution of Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
+3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolutionof Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
 
-4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice andConsent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
+4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice and Consent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
 
 (b) The Secretary of Commerce shall submit the Report on the Status of the World Intellectual Property Organization Copyright Treaty and the Performance and Phonograms Treaty, consistent with the Senate's resolution of ratification of October 21, 1998.
 

@@ -6,7 +6,7 @@ The purpose of this section is to assure that Federal funds appropriated under s
 
 #### (b) Agreement between Secretary and State for submission of proposed capital expenditures related to health care facilities and procedures for appeal from recommendations
 
-The Secretary, after consultation with the Governor (or other chief executive officer) and with appropriate local public officials, shall make an agreement with any State which is able and willing to do so under which a designated planning agency (which shall be an agency described in clause (ii) of subsection (d)(1)(B) that has a governing body or advisory board at least half of whose members represent consumer interests) will—
+The Secretary, after consultation with the Governor (or other chief executive officer) andwith appropriate local public officials, shall make an agreement with any State which is able and willing to do so under which a designated planning agency (which shall be an agency described in clause (ii) of subsection (d)(1)(B) that has a governing body or advisory board at least half of whose members represent consumer interests) will—
 
 &emsp;(1) make, and submit to the Secretary together with such supporting materials as he may find necessary, findings and recommendations with respect to capital expenditures proposed by or on behalf of any health care facility in such State within the field of its responsibilities,
 
@@ -60,7 +60,7 @@ The provisions of this section shall not apply to a religious nonmedical health 
 
 (2) The Secretary shall make appropriate provision for consultation between and coordination of the work of the advisory council established or designated under paragraph (1) and the Federal Hospital Council, the National Advisory Health Council, the Health Insurance Benefits Advisory Council, and other appropriate national advisory councils with respect to matters bearing on the purposes and administration of this section and the coordination of activities under this section with related Federal health programs.
 
-(3) If an advisory council is established by the Secretary under paragraph (1), it shall be composed of members who are not otherwise in the regular full-time employ of the United States, and who shall be appointed by the Secretary without regard to the civil service laws from among leaders in the fields of the fundamental sciences, the medical sciences, and the organization, delivery, and financing of health care, and persons who are State or local officials or are active in community affairs or public or civic affairs or who are representative of minority groups. Members of such advisory council, while attending meetings of the council or otherwise serving on business of the council, shall be entitled to receive compensation at rates fixed bythe Secretary, but not exceeding the maximum rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while away from their homes or regular places of business they may also be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
+(3) If an advisory council is established by the Secretary under paragraph (1), it shall be composed of members who are not otherwise in the regular full-time employ of the United States, and who shall be appointed by the Secretary without regard to the civil service laws from among leaders in the fields of the fundamental sciences, the medical sciences, and the organization, delivery, and financing of health care, and persons who are State or local officials or are active in community affairs or public or civic affairs or who are representative of minority groups. Members of such advisory council, while attending meetings of the council or otherwise serving on business of the council, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the maximum rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while away from their homes or regular places of business they may also be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
 #### (j) Capital expenditure review exception for eligible organization health care facilities
 
@@ -76,7 +76,7 @@ A capital expenditure made by or on behalf of a health care facility shall not b
 
 &emsp;(5) the purchase of such services is more costly than if the organization provided the services directly.
 
-(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1), Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
+(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1),Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Pub. L. 98–369, div. B, title III, §2354(e), July 18, 1984, 98 Stat. 1102, pr
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 effective as if originally included as part of this section as this section wasamended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1981 Amendment, Savings, and Transitional Provisions
 

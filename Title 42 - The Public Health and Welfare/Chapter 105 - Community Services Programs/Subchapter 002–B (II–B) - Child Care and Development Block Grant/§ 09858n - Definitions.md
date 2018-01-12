@@ -112,7 +112,7 @@ Section 4909 of title 20, referred to in par. (15)(B), was repealed by Pub. L. 1
 
 Par. (5). Pub. L. 113–186, §10(3), added par. (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 113–186, §10(2), (4), redesignated par. (5) as (6) and substituted "9858c(c)(2)(F)" for "9858c(c)(2)(E)" in subpar. (A)(i) and "9858c(c)(2)(I)" for"9858c(c)(2)(F)" in subpar. (A)(ii). Former par. (6) redesignated (7).
+Par. (6). Pub. L. 113–186, §10(2), (4), redesignated par. (5) as (6) and substituted "9858c(c)(2)(F)" for "9858c(c)(2)(E)" in subpar. (A)(i) and "9858c(c)(2)(I)" for "9858c(c)(2)(F)" in subpar. (A)(ii). Former par. (6) redesignated (7).
 
 Pars. (7), (8). Pub. L. 113–186, §10(2), redesignated pars. (6) and (7) as (7) and (8), respectively. Former pars. (7) and (8) redesignated (8) and (9), respectively.
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) the quantity of the agricultural commodity that was produced by the producer in the marketing year with respect to which the petition is filed has decreased compared to the most recent marketing year preceding that marketing year for which data are available; or
 
-&emsp;&emsp;&emsp;(II)(aa) the price received for the agricultural commodity by the producer during the marketing year with respect to which the petition is filed has decreased compared to the average price for the commodity received by the producer in the 3 marketing years preceding that marketing year; or
+&emsp;&emsp;&emsp;(II)(aa) the price received for the agricultural commodity by the producer during the marketing year with respect to whichthe petition is filed has decreased compared to the average price for the commodity received by the producer in the 3 marketing years preceding that marketing year; or
 
 &emsp;&emsp;&emsp;(bb) the county level price maintained by the Secretary for the agricultural commodity on the date on which the petition is filed has decreased compared to the average county level price for the commodity in the 3 marketing years preceding the date on which the petition is filed; and
 
@@ -38,7 +38,7 @@
 
 #### (C) Counter-cyclical and acre payments
 
-&emsp;&emsp;The total amount of payments made to an agricultural commodity producer under thispart during any crop year may not exceed the limitations on payments set forth in subsections (b)(2), (b)(3), (c)(2), and (c)(3) of section 1308 of title 7.
+&emsp;&emsp;The total amount of payments made to an agricultural commodity producer under this part during any crop year may not exceed the limitations on payments set forth in subsections (b)(2), (b)(3), (c)(2), and (c)(3) of section 1308 of title 7.
 
 #### (b) Technical assistance
 
@@ -128,7 +128,7 @@ An agricultural commodity producer may receive not more than $12,000 under parag
 
 An agricultural commodity producer that receives benefits under this part (other than initial technical assistance under subsection (b)(1)) shall not be eligible for cash benefits under part 2 or 3.
 
-(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1883(a), Feb. 17, 2009, 123 Stat. 416; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1883(a), Feb. 17, 2009, 123 Stat. 416; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 

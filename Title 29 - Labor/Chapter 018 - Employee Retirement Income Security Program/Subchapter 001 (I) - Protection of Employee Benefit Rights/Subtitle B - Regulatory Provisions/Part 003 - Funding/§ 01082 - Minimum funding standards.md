@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a single-employer plan (other than a CSEC plan), the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title,
 
-&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title, and
+&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall beamortized as required under section 1084(b)(2)(C) of this title, and
 
 &emsp;&emsp;&emsp;(iii) in the case of a CSEC plan, the funding standard account shall be credited under section 1085a(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1085a(b)(2)(C) of this title.
 
@@ -90,7 +90,7 @@
 
 #### (B) Consultation with the Pension Benefit Guaranty Corporation
 
-&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, beforegranting or modifying a waiver under this subsection or an extension under 1085a(d) <sup>1</sup> of this title with respect to a plan described in subparagraph (A)(i)—
+&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection or an extension under 1085a(d) <sup>1</sup> of this title with respect to a plan described in subparagraph (A)(i)—
 
 &emsp;&emsp;&emsp;(i) provide the Pension Benefit Guaranty Corporation with—
 
@@ -130,7 +130,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "unpaid minimum required contribution" means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paid on or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
+&emsp;&emsp;&emsp;&emsp;The term "unpaid minimum required contribution" means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paidon or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
 
 #### (II) Ordering rule
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of anyincrease in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title or section 1085a(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title or section 1085a(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 1084(d) of this title or section 1085a(d) of this title) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary ofthe Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 1084(d) of this title or section 1085a(d) of this title) is unavailable or inadequate.
 
 #### (3) Controlled group
 

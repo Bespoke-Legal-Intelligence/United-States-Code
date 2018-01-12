@@ -46,7 +46,7 @@
 
 &emsp;&emsp;For purposes of this section, the term "qualified public housing agency" means a public housing agency that meets the following requirements:
 
-&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
+&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered bythe agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
 
 &emsp;&emsp;&emsp;(ii) The agency is not designated under section 1437d(j)(2) of this title as a troubled public housing agency, and does not have a failing score under the section 8 \[42 U.S.C. 1437f\] Management Assessment Program during the prior 12 months.
 
@@ -218,7 +218,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors orsimilar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -370,7 +370,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. TitleVI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -442,7 +442,7 @@ Report.—Not later than 2 years after the date on which public housing agency p
 
 &emsp;"(A) a description of the results of each audit and review under paragraph (1); and
 
-&emsp;"(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section)."
+&emsp;"(B) any recommendations for increasing compliance by public housing agencies with their publichousing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section)."
 
 <i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 

@@ -94,7 +94,7 @@ The head of any Federal department or agency may detail on a reimbursable basis,
 
 #### (B) Compensation
 
-&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payablefor GS–13 of the General Schedule under section 5332 of title 5.
+&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
 
 #### (g) Personal services contracts
 

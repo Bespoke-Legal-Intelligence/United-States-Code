@@ -34,7 +34,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;(4) conduct of studies and demonstrations to determine the resource and personnel needs of States and local governments required for the establishment and implementation of effective noise abatement and control programs; and
 
-&emsp;&emsp;(5) development of education and training materials and programs, including national and regional workshops, to support State and local noise abatement and control programs;
+&emsp;&emsp;(5) development of education and training materials and programs, including nationaland regional workshops, to support State and local noise abatement and control programs;
 
 > &emsp;except that no actions, plans or programs hereunder shall be inconsistent with existing Federal authority under this chapter to regulate sources of noise in interstate commerce;
 

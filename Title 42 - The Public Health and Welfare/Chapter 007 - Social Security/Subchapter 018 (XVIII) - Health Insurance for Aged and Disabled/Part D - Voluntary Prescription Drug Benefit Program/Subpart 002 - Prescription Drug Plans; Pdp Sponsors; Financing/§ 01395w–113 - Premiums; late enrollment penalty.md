@@ -124,7 +124,7 @@
 
 #### (C) Modified adjusted gross income
 
-&emsp;&emsp;For purposes of this paragraph, the term "modified adjusted gross income" has the meaning given such term in subparagraph (A) of section 1395r(i)(4) of this title, determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
+&emsp;&emsp;For purposes of this paragraph, the term "modified adjusted gross income" has themeaning given such term in subparagraph (A) of section 1395r(i)(4) of this title, determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
 
 #### (D) Determination by Commissioner of Social Security
 
@@ -220,7 +220,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) for the documentation of creditable prescriptiondrug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
+&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) for the documentation of creditable prescription drug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
 
 #### (B) Disclosure by entities offering creditable prescription drug coverage
 
@@ -266,7 +266,7 @@
 
 #### (A) Portion attributable to increased actuarial costs
 
-&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
+&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and nottaken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
 
 #### (B) Collection through withholding
 
@@ -278,7 +278,7 @@
 
 #### (3) Fallback plans
 
-&emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the mannerspecified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
+&emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
 
 #### (4) Collection of monthly adjustment amount
 

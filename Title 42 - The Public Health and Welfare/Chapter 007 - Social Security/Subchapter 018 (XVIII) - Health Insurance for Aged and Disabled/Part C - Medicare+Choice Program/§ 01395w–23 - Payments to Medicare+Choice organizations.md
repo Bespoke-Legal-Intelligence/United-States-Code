@@ -62,11 +62,11 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For 2011 and subsequent years, for purposes of the adjustment under clause (i) with respect to individuals described in subclause (II), the Secretary shall use a risk score that reflects the known underlying risk profile and chronic health status of similar individuals. Such risk score shall be used instead of the default risk score for new enrollees in Medicare Advantage plans that are not specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title).
+&emsp;&emsp;&emsp;&emsp;For 2011 and subsequent years, for purposes of the adjustment under clause (i) with respect to individuals described in subclause (II), the Secretary shall use a risk score that reflects the known underlying risk profile and chronic health status of similar individuals. Such risk score shall be used instead of the default risk score for new enrollees in Medicare Advantage plans that are not specializedMA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title).
 
 #### (II) Individuals described
 
-&emsp;&emsp;&emsp;&emsp;An individual described in this subclause is a special needs individual described in subsection (b)(6)(B)(iii) <sup>2</sup> whoenrolls in a specialized MA plan for special needs individuals on or after January 1, 2011.
+&emsp;&emsp;&emsp;&emsp;An individual described in this subclause is a special needs individual described in subsection (b)(6)(B)(iii) <sup>2</sup> who enrolls in a specialized MA plan for special needs individuals on or after January 1, 2011.
 
 #### (III) Evaluation
 
@@ -270,7 +270,7 @@
 
 #### (2) Advance notice of methodological changes
 
-&emsp;At least 45 days (or, in 2017 and each subsequent year, at least 60 days) before making the announcement under paragraph (1) for a year, the Secretary shall provide for notice to Medicare+Choice organizations of proposed changes to be made in the methodology from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity (in 2017 and each subsequent year, of no less than 30 days) to comment on such proposed changes.
+&emsp;At least 45 days (or, in 2017 and each subsequent year, at least 60 days) before making theannouncement under paragraph (1) for a year, the Secretary shall provide for notice to Medicare+Choice organizations of proposed changes to be made in the methodology from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity (in 2017 and each subsequent year, of no less than 30 days) to comment on such proposed changes.
 
 #### (3) Explanation of assumptions
 
@@ -474,7 +474,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this part, the "national per capita Medicare+Choice growth percentage" for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A and enrolled under part B, excluding expenditures attributable to subsections (a)(7) and (o) of section 1395w–4 of this title and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
+&emsp;&emsp;In this part, the "national per capita Medicare+Choice growth percentage" for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A and enrolled under part B, excluding expenditures attributable to subsections (a)(7) and (o) of section 1395w–4 of this title and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title, reduced by the number of percentage points specified insubparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
 
 #### (B) Adjustment
 
@@ -552,11 +552,11 @@
 
 #### (1) In general
 
-&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
+&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA planfor a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
 
 #### (2) Establishment and designation of Medicare+Choice medical savings account as requirement for payment of contribution
 
-&emsp;In the case of an individual who has elected coverage under an MSA plan, no paymentshall be made under paragraph (1) on behalf of an individual for a month unless the individual—
+&emsp;In the case of an individual who has elected coverage under an MSA plan, no payment shall be made under paragraph (1) on behalf of an individual for a month unless the individual—
 
 &emsp;&emsp;(A) has established before the beginning of the month (or by such other deadline as the Secretary may specify) a Medicare+Choice MSA (as defined in section 138(b)(2) of the Internal Revenue Code of 1986), and
 
@@ -672,7 +672,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 &emsp;&emsp;(B) for a subsequent year—
 
-&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year\(determined without regard to paragraphs (2), (4), and (5)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
+&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year (determined without regard to paragraphs (2), (4), and (5)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
 
 &emsp;&emsp;&emsp;(ii) if such year is specified under subsection (c)(1)(D)(ii), an amount equal to the greater of—
 
@@ -834,7 +834,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 #### (ii) Methods
 
-&emsp;&emsp;&emsp;In the case of an eligible professional described in paragraph (2) who is eligible for an incentive payment under section 1395w–4(o)(1)(A) of this title but is not described in clause (i) for the same payment period, the Secretary shall develop a process—
+&emsp;&emsp;&emsp;In the case of an eligible professional described in paragraph (2) who is eligible foran incentive payment under section 1395w–4(o)(1)(A) of this title but is not described in clause (i) for the same payment period, the Secretary shall develop a process—
 
 &emsp;&emsp;&emsp;&emsp;(I) to ensure that duplicate payments are not made with respect to an eligible professional both under this subsection and under section 1395w–4(o)(1)(A) of this title; and
 
@@ -948,13 +948,13 @@ Medicare hospital expenditure proportion.—The Medicare hospital expenditure pr
 
 &emsp;(D)
 
-Application of payment adjustment.—In the case that a qualifying MA organization attests that not all eligible hospitals are meaningful EHR users with respect to an applicable period, the Secretary shall apply the payment adjustment under this paragraph based on a methodology specified by the Secretary, taking into account the proportion of such eligible hospitals, or discharges from such hospitals, that are not meaningful EHR users for such period.
+Application of payment adjustment.—In the case that a qualifying MA organization attests that not all eligible hospitals are meaningful EHR users with respect to an applicable period, the Secretary shall apply the payment adjustment under this paragraph based on a methodology specified by the Secretary, taking into account the proportion of such eligible hospitals, or discharges fromsuch hospitals, that are not meaningful EHR users for such period.
 
 #### (5) Posting on website
 
 &emsp;The Secretary shall post on the Internet website of the Centers for Medicare \& Medicaid Services, in an easily understandable format—
 
-&emsp;&emsp;(A) a list of the names, business addresses, and business phone numbers of each qualifying MA organization receiving an incentivepayment under this subsection for eligible hospitals described in paragraph (2); and
+&emsp;&emsp;(A) a list of the names, business addresses, and business phone numbers of each qualifying MA organization receiving an incentive payment under this subsection for eligible hospitals described in paragraph (2); and
 
 &emsp;&emsp;(B) a list of the names of the eligible hospitals for which such incentive payment is based.
 
@@ -1146,7 +1146,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "qualifying plan" means, for a year and subject to paragraph (4), a plan that had a quality rating under paragraph (4) of 4 stars or higher based on the most recent data available for such year.
+&emsp;&emsp;&emsp;The term "qualifying plan" means, for a year and subject to paragraph (4), a planthat had a quality rating under paragraph (4) of 4 stars or higher based on the most recent data available for such year.
 
 #### (ii) Application of increases to low enrollment plans
 
@@ -1212,7 +1212,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 Subsection (b)(6)(B)(iii), referred to in subsec. (a)(1)(C)(iii)(II), probably means section 1395w–28(b)(6)(B)(iii) of this title. This section does not contain a subsec. (b)(6)(B)(iii).
 
-Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) ofthis title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 
 Section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (a)(1)(H), is section 2355 of Pub. L. 98–369, div. B, title III, July 18, 1984, 98 Stat. 1103, as amended by section 13567(b) of Pub. L. 103–66, title XIII, Aug. 10, 1993, 107 Stat. 608, which is not classified to the Code.
 
@@ -1300,7 +1300,7 @@ Urban areas.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii) and subparagraphs (C) and (D), the service area for an MAlocal plan in an urban area shall be the Core Based Statistical Area (in this paragraph referred to as a 'CBSA') or, if applicable, a conceptually similar alternative classification, as defined by the Director of the Office of Management and Budget.
+In general.—Subject to clause (ii) and subparagraphs (C) and (D), the service area for an MA local plan in an urban area shall be the Core Based Statistical Area (in this paragraph referred to as a 'CBSA') or, if applicable, a conceptually similar alternative classification, as defined by the Director of the Office of Management and Budget.
 
 &emsp;&emsp;"(ii)
 
@@ -1388,7 +1388,7 @@ Use of simple average among multiple plans if no plans offered in previous year.
 
 "(3)
 
-Cap on ma competitive benchmark amount.—In no case shall the MA competitive benchmark amount for an area for a month in a year be greater than the applicable amount that would (but for the application of this subsection) be determined under subsection (k)(1) for the area for the month in the year."
+Cap on ma competitive benchmark amount.—In no case shall the MA competitive benchmark amount for an area for a month in a year be greater than the applicable amount that would (but for the applicationof this subsection) be determined under subsection (k)(1) for the area for the month in the year."
 
 > See Effective Date of 2010 Amendment note below.
 
@@ -1502,7 +1502,7 @@ Quality bonus for new and low enrollment ma plans.—
 
 &emsp;"(A)
 
-New ma plans.—For years beginning with 2014, in the case of an MA plan that first submits a bid under section 1395w–24(a)(1)(A) of this title for 2012 or a subsequent year, only receives enrollments made during the coverage election periods described in section 1395w–21(e) of this title, and is not able to receive a bonus under subparagraph (A) or (B) of paragraph (2) for the year, the Secretary shall, in addition to any other payment provided under this part, make monthly payments, with respect to coverage of an individual under this part, to the MA plan in an amount equal to 2 percent of national monthly per capita cost for expenditures for individuals enrolled under the original medicare fee-for-service program for the year. In its fourth year of operation, the MA plan shall be paid in the same manner as other MA plans with comparable enrollment.
+New ma plans.—For years beginning with 2014, in the case of an MA plan that first submits a bidunder section 1395w–24(a)(1)(A) of this title for 2012 or a subsequent year, only receives enrollments made during the coverage election periods described in section 1395w–21(e) of this title, and is not able to receive a bonus under subparagraph (A) or (B) of paragraph (2) for the year, the Secretary shall, in addition to any other payment provided under this part, make monthly payments, with respect to coverage of an individual under this part, to the MA plan in an amount equal to 2 percent of national monthly per capita cost for expenditures for individuals enrolled under the original medicare fee-for-service program for the year. In its fourth year of operation, the MA plan shall be paid in the same manner as other MA plans with comparable enrollment.
 
 &emsp;"(B)
 
@@ -1684,7 +1684,7 @@ Subsec. (b)(1)(B)(iii). Pub. L. 108–173, §241(b)(1)(B), added cl. (iii).
 
 Subsec. (b)(3). Pub. L. 108–173, §222(f)(2), substituted "in such announcement" for "in the announcement in sufficient detail so that Medicare+Choice organizations can compute monthly adjusted Medicare+Choice capitation rates for individuals in each Medicare+Choice payment area which is in whole or in part within the service area of such an organization".
 
-Subsec. (b)(4). Pub. L. 108–173, §900(e)(1)(G)(i), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration" in introductory provisions.
+Subsec. (b)(4). Pub. L. 108–173, §900(e)(1)(G)(i), substituted "Centers for Medicare \& Medicaid Services"for "Health Care Financing Administration" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 108–173, §221(d)(4), inserted "that is an MA local area" after "for a Medicare+Choice payment area" in introductory provisions.
 
@@ -1844,7 +1844,7 @@ January and february.—Notwithstanding the amendments made by subsections (a) t
 
 &emsp;"(B)
 
-March through december.—Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for March through December 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section 1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B)) shall be determined, in such manner as the Secretary estimates will ensure that the total of such payments with respect to 2004 is the same as the amounts that would have been if subparagraph (A) had not been enacted.
+March through december.—Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for March through December 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B)) shall be determined, in such manner as the Secretary estimates will ensure that the total of such payments with respect to 2004 is the same as the amounts that would have been if subparagraph (A) had not been enacted.
 
 &emsp;"(C)
 
@@ -1852,7 +1852,7 @@ Construction.—Subparagraphs (A) and (B) shall not be taken into account in com
 
 "(4)
 
-Plans required to provide notice of changes in plan benefits.—In the case of an organization offeringa plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
+Plans required to provide notice of changes in plan benefits.—In the case of an organization offering a plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
 
 "(5)
 
@@ -2006,7 +2006,7 @@ Establishment of Project.—
 
 &emsp;"(1)
 
-In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A\(§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the 'Secretary') shall establish a demonstration project (in this subchapter referred to as the 'project') under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the 'Secretary') shall establish a demonstration project (in this subchapter referred to as the 'project') under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
 &emsp;"(2)
 
@@ -2094,7 +2094,7 @@ Monitoring impact.—Taking into consideration the recommendations of the Compet
 
 &emsp;"(2)
 
-Report.—Not later than December 31, 2002, the Secretary shall submit to Congress a report on the progress under the project under this subchapter, including a comparison of the matters monitored under paragraph (1) among the different designated areas. The report may include any legislative recommendations for extending the project to the entire medicare population.
+Report.—Not later than December 31, 2002, the Secretary shall submit to Congress a report on the progress under the project under this subchapter, including a comparison of the matters monitored under paragraph (1) among the different designated areas.The report may include any legislative recommendations for extending the project to the entire medicare population.
 
 "(e)
 
@@ -2102,7 +2102,7 @@ Waiver Authority.—The Secretary of Health and Human Services may waive such re
 
 "(f)
 
-Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choiceorganizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
+Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
 "(g)
 

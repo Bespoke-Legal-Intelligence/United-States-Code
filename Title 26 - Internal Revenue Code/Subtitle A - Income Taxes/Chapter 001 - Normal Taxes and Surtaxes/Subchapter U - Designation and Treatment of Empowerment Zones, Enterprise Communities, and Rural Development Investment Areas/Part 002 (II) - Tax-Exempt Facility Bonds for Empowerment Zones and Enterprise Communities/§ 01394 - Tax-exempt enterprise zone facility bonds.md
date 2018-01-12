@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Reduced requirements after testing period
 
-&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirementof subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
 #### (C) Qualified low-income community
 

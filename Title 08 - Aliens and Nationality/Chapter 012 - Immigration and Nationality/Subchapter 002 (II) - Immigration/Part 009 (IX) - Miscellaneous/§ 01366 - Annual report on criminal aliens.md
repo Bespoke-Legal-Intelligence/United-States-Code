@@ -4,7 +4,7 @@ Not later than 12 months after September 30, 1996, and annually thereafter, the 
 
 &emsp;(1) the number of illegal aliens incarcerated in Federal and State prisons for having committed felonies, stating the number incarcerated for each type of offense;
 
-&emsp;(2) the number of illegal aliens convicted of felonies in any Federal or State court, but not sentenced to incarceration, in the year beforethe report was submitted, stating the number convicted for each type of offense;
+&emsp;(2) the number of illegal aliens convicted of felonies in any Federal or State court, but not sentenced to incarceration, in the year before the report was submitted, stating the number convicted for each type of offense;
 
 &emsp;(3) programs and plans underway in the Department of Justice to ensure the prompt removal from the United States of criminal aliens subject to removal; and
 

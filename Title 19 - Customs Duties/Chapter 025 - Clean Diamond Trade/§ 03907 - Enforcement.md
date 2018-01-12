@@ -18,3 +18,7 @@ The United States Bureau of Customs and Border Protection and the United States 
 
 (Pub. L. 108–19, §8, Apr. 25, 2003, 117 Stat. 634.)
 
+#### Effective Date
+
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
+

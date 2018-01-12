@@ -40,3 +40,7 @@ A prior section 3131, Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 
 
 Subsec. (d)(1). Pub. L. 108–373, §103(2), struck out "adjoining" before "States" in two places.
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

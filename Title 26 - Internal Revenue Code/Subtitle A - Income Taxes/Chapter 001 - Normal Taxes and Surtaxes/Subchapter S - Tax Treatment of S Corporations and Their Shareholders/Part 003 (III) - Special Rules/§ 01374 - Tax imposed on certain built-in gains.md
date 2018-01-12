@@ -20,17 +20,9 @@ If for any taxable year beginning in the recognition period an S corporation has
 
 &emsp;&emsp;Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
 
-#### (B) Business credit carryforwards from C years allowed
+#### (B) <sup>1</sup> Business credit carryforwards from C years allowed
 
 &emsp;&emsp;Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
-
-#### (4) Coordination with section 1201(a)
-
-&emsp;For purposes of section 1201(a)—
-
-&emsp;&emsp;(A) the tax imposed by subsection (a) shall be treated as if it were imposed by section 11, and
-
-&emsp;&emsp;(B) the amount of the net recognized built-in gain shall be treated as the taxable income.
 
 #### (c) Limitations
 
@@ -38,7 +30,7 @@ If for any taxable year beginning in the recognition period an S corporation has
 
 &emsp;Subsection (a) shall not apply to any corporation if an election under section 1362(a) has been in effect with respect to such corporation for each of its taxable years. Except as provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of the preceding sentence.
 
-#### (2) Limitation on amount of recognized built-in gains
+#### (2) Limitation on amount of net recognized built-in gain
 
 &emsp;The amount of the net recognized built-in gain taken into account under this section for any taxable year shall not exceed the excess (if any) of—
 
@@ -70,7 +62,7 @@ For purposes of this section—
 
 #### (B) Carryover
 
-&emsp;&emsp;If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
+&emsp;&emsp;If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as arecognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
 
 #### (3) Recognized built-in gain
 
@@ -122,7 +114,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "recognition period" means the 5-year period beginning with the 1st day ofthe 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase "5-year".
+&emsp;&emsp;The term "recognition period" means the 5-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase "5-year".
 
 #### (B) Installment sales
 
@@ -154,19 +146,37 @@ For purposes of this section—
 
 #### (9) Reference to 1st taxable year
 
-&emsp;Any reference in this section to the 1st taxable year for which the corporation was an S corporation shall be treated as a reference to the 1st taxable year for which the corporation was an S corporation pursuant to its most recent election under section 1362.
+&emsp;Any reference in this section to the 1st taxable year for which the corporation was an Scorporation shall be treated as a reference to the 1st taxable year for which the corporation was an S corporation pursuant to its most recent election under section 1362.
 
 #### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, §138(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §127(a), Dec. 18, 2015, 129 Stat. 3054.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, §138(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §127(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–97, title I, §§12002(c), 13001(b)(2)(N), Dec. 22, 2017, 131 Stat. 2095, 2097.)
+
+#### Amendment of Subsection (b)(3)(B)
+
+<i>Pub. L. 115–97, title I, §12002(c), (d), Dec. 22, 2017, 131 Stat. 2095, amended subsection (b)(3)(B) of this section, applicable to taxable years beginning after Dec. 31, 2021. After amendment, subsection (b)(3)(B) reads as follows:</i>
+
+#### <i>(B) Business credit carryforwards from C years allowed</i>
+
+&emsp;&emsp;<i>Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.</i>
+
+<i>See 2017 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, §2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, §1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §12002(c), struck out at end "A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation."
+
+Subsec. (b)(4). Pub. L. 115–97, §13001(b)(2)(N), struck out par. (4). Text read as follows: "For purposes of section 1201(a)—
+
+&emsp;"(A) the tax imposed by subsection (a) shall be treated as if it were imposed by section 11, and
+
+&emsp;"(B) the amount of the net recognized built-in gain shall be treated as the taxable income."
 
 <b>2015</b>—Subsec. (d)(7). Pub. L. 114–113 amended par. (7) generally. Prior to amendment, par. (7) defined recognition period, with special rules for certain years and for distributions to shareholders.
 
@@ -202,9 +212,9 @@ Subsec. (b)(1). Pub. L. 100–647, §1006(f)(2), added par. (1) and struck out f
 
 Subsec. (b)(2). Pub. L. 100–647, §1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: "Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income."
 
-Subsec. (b)(4)(B). Pub. L. 100–647, §1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the lower of the amounts specified in subparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income."
+Subsec. (b)(4)(B). Pub. L. 100–647, §1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the lower of the amounts specified insubparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income."
 
-Subsec. (c)(2). Pub. L. 100–647, §1006(f)(4), substituted "net recognized built-in gain" for "recognized built-in gains" in introductory provisions and in subpar. (B).
+Subsec. (c)(2). Pub. L. 100–647, §1006(f)(4), which directed amendment of par. (2) by substituting "net recognized built-in gain" for "recognized built-in gains" wherever appearing, was executed by making the substitution in heading as well as in introductory provisions and in subpar. (B), to reflect the probable intent of Congress.
 
 Subsec. (d)(2) to (9). Pub. L. 100–647, §1006(f)(5)(A), added pars. (2) to (9) and struck out former pars. (2), (3), and (4), which related to recognized built-in gain, recognition period, and taxable income, respectively.
 
@@ -219,6 +229,12 @@ Subsec. (c)(2). Pub. L. 98–369, §721(u), struck out "(and any predecessor cor
 Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted "this section" for "subsections (a)(2) and (b)(2)".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 12002 of Pub. L. 115–97 applicable in general to taxable years beginning after Dec. 31, 2017, and amendment by section 12002(c) applicable to taxable years beginning after Dec. 31, 2021, see section 12002(d) of Pub. L. 115–97, set out as a note under section 53 of this title.
+
+Amendment by section 13001(b)(2)(N) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -271,4 +287,6 @@ Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Rev
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+
+<i><sup>1</sup></i><i> See Amendment of Subsection (b)(3)(B) note below.</i>
 

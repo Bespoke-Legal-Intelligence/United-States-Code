@@ -100,7 +100,7 @@ Pub. L. 94–273 substituted "April" for "January".
 
 Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to (i), respectively.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, forprovisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
+<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, for provisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairma
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) ofPub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 

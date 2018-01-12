@@ -64,7 +64,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;(i) future costs of Federal private sector mandates to the extent that such mandates differ significantly from or extend beyond the 5-year time period referred to in subparagraph (B)(iii)(I);
 
-&emsp;&emsp;(ii) any disproportionate financial effects of Federal private sector mandates and ofany Federal financial assistance in the bill or joint resolution upon any particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities; and
+&emsp;&emsp;(ii) any disproportionate financial effects of Federal private sector mandates and of any Federal financial assistance in the bill or joint resolution upon any particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities; and
 
 &emsp;&emsp;(iii) the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
 

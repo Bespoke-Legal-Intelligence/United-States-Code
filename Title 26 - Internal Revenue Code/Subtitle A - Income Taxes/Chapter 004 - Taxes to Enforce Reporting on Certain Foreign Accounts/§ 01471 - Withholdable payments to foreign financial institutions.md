@@ -206,7 +206,7 @@ Pub. L. 111–147, title V, §501(d), Mar. 18, 2010, 124 Stat. 106, provided tha
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
 
 "(2)
 

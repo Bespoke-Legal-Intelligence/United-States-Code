@@ -68,7 +68,7 @@ The President, when he deems such action necessary, may make provision for the p
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c), and (g), was in the original "this Act" or "the Act", meaningact Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c), and (g), was in the original "this Act" or "the Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
 
 Sections 101 and 107 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(B), are sections 101 and 107 of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
 

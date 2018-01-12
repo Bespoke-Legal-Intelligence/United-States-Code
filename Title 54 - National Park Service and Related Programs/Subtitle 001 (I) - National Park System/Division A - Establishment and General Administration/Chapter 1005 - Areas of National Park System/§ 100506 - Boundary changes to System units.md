@@ -52,7 +52,7 @@ Administration of acquisitions.—Land, water, and interests in land or water ac
 
 &emsp;(5)
 
-When authority applies.—For the purposes of paragraph (1)(A), in all cases except the case of technical boundary changes (resulting from such causes as survey error or changed road alignments), the authority ofthe Secretary under paragraph (1)(A) shall apply only if each of the following conditions is met:
+When authority applies.—For the purposes of paragraph (1)(A), in all cases except the case of technical boundary changes (resulting from such causes as survey error or changed road alignments), the authority of the Secretary under paragraph (1)(A) shall apply only if each of the following conditions is met:
 
 &emsp;&emsp;(A) The sum of the total acreage of the land, water, and interests in land or water to be added to the System unit and the total acreage of the land, water, and interests in land or water to be deleted from the System unit is not more than 5 percent of the total Federal acreage authorized to be included in the System unit and is less than 200 acres.
 

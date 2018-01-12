@@ -78,7 +78,7 @@ A community wood energy system acquired with grant funds provided under subsecti
 
 #### (2) Biomass consumer cooperatives
 
-&emsp;A biomass consumer cooperative that receives a grant under subsection (b)(1)(C) shall contribute an amount of non-Federal funds (which may include State, local, and nonprofit funds and membership dues) toward the establishment or expansion of a biomass consumer cooperative that is at least equal to 50 percent of the amount of Federal funds received for that purpose.
+&emsp;A biomass consumer cooperative that receives a grant under subsection (b)(1)(C) shall contribute an amount of non-Federal funds (which may include State, local, and nonprofit funds and membership dues) toward the establishment or expansion of a biomass consumer cooperative that is at least equal to 50 percentof the amount of Federal funds received for that purpose.
 
 #### (e) Authorization of appropriations
 

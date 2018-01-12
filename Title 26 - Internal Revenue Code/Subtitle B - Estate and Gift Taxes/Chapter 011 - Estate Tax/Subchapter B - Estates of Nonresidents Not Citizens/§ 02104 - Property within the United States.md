@@ -22,7 +22,7 @@ For purposes of this subchapter, debt obligations of—
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–295 substituted "Deposits" for "With respect to estates of decedents dyingafter December 31, 1969, deposits" in concluding provisions.
+<b>2014</b>—Subsec. (c). Pub. L. 113–295 substituted "Deposits" for "With respect to estates of decedents dying after December 31, 1969, deposits" in concluding provisions.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–226, in concluding provisions, struck out before period at end "or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States".
 

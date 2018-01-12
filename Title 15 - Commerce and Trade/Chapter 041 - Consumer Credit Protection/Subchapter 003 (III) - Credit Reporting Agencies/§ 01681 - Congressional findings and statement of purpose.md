@@ -66,7 +66,7 @@ In general.—Before the end of the 24-month period beginning on the date of ena
 
 &emsp;"(2)
 
-Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determine to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects."
+Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determineto be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects."
 
 #### FTC Study of Issues Relating to the Fair Credit Reporting Act
 

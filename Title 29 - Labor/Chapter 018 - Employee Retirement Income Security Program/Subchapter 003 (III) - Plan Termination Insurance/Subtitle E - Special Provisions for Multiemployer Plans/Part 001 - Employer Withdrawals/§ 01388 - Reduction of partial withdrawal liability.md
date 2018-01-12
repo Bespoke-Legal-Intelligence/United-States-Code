@@ -20,7 +20,7 @@
 
 If—
 
-&emsp;(1) for any 2 consecutive plan years following a partial withdrawal under section 1385(a)(1) of this title, the number of contribution base units with respect to which the employer has an obligation to contribute for each such year exceeds 30 percent of the total number of contribution base units with respect to which the employer had an obligation to contribute for the high base year (within the meaning of section 1385(b)(1)(B)(ii) of this title,<sup>1</sup> and
+&emsp;(1) for any 2 consecutive plan years following a partial withdrawal under section 1385(a)(1) of this title, the number of contribution base units with respect to which the employer has an obligation to contribute for each such year exceeds 30 percent of the total number of contribution base units with respect to which the employer had an obligation to contribute forthe high base year (within the meaning of section 1385(b)(1)(B)(ii) of this title,<sup>1</sup> and
 
 &emsp;(2) the total number of contribution base units with respect to which all employers under the plan have obligations to contribute in each of such 2 consecutive years is not less than 90 percent of the total number of contribution base units for which all employers had obligations to contribute in the partial withdrawal plan year;
 
@@ -40,7 +40,7 @@ In any case in which, in any plan year following a partial withdrawal under sect
 
 (1) The corporation may prescribe regulations providing for the reduction or elimination of partial withdrawal liability under any conditions with respect to which the corporation determines that reduction or elimination of partial withdrawal liability is consistent with the purposes of this chapter.
 
-(2) Under such regulations, reduction of withdrawal liability shall be provided only with respect to subsequent changes in the employer's contributions for the same operations, or under the same collective bargaining agreement, thatgave rise to the partial withdrawal, and changes in the employer's contribution base units with respect to other facilities or other collective bargaining agreements shall not be taken into account.
+(2) Under such regulations, reduction of withdrawal liability shall be provided only with respect to subsequent changes in the employer's contributions for the same operations, or under the same collective bargaining agreement, that gave rise to the partial withdrawal, and changes in the employer's contribution base units with respect to other facilities or other collective bargaining agreements shall not be taken into account.
 
 (3) The corporation shall prescribe by regulation a procedure by which a plan may by amendment adopt rules for the reduction or elimination of partial withdrawal liability under any other conditions, subject to the approval of the corporation based on its determination that adoption of such rules by the plan is consistent with the purposes of this chapter.
 

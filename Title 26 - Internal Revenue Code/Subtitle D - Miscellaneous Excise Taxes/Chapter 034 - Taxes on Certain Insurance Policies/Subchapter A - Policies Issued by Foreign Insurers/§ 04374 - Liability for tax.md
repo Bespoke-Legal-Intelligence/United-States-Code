@@ -1,6 +1,6 @@
 ### §4374. Liability for tax
 
-The tax imposed by this chapter shall be paid, on the basis of a return, by any person who makes, signs, issues, or sells any of the documents and instruments subject to the tax, or for whose use or benefit the same are made, signed, issued, or sold. The United States or any agency or instrumentality thereof shall not be liable for the tax.
+The tax imposed by this chapter shall be paid, on the basis of a return, by any person who makes, signs, issues, or sells any of the documents and instruments subject to the tax, or for whose use or benefit the same are made, signed, issued, or sold. The United States or any agencyor instrumentality thereof shall not be liable for the tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 89–44, title VIII, §804(a)(1), (2), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1813.)
 
@@ -10,7 +10,7 @@ For provisions of prior sections 4375, 4381 to 4384, see Prior Provisions note p
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted in section catchline "Liability for tax" for "Payment of tax" and in text provisions relating to payment of tax on basis of a return and to tax-exempt status of United States and its agencies and instrumentalities for provisions relating to placing of stamps on any policy, indemnity bond, orannuity contract referred to in section 4371 and to regulation by Secretary that tax be paid on basis of a return.
+<b>1976</b>—Pub. L. 94–455 substituted in section catchline "Liability for tax" for "Payment of tax" and in text provisions relating to payment of tax on basis of a return and to tax-exempt status of United States and its agencies and instrumentalities for provisions relating to placing of stamps on any policy, indemnity bond, or annuity contract referred to in section 4371 and to regulation by Secretary that tax be paid on basis of a return.
 
 <b>1965</b>—Pub. L. 89–44 substituted "Payment of tax" for "Affixing of stamps" in section catchline, and inserted sentence authorizing Secretary or his delegate to provide by regulation for payment on basis of a return of tax imposed by section 4371.
 

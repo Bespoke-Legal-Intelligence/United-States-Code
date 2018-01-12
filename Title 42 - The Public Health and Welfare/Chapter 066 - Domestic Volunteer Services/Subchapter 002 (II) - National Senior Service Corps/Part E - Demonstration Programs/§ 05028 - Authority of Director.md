@@ -6,7 +6,7 @@ The Director is authorized to make grants to or enter into contracts with public
 
 #### (b) Activities
 
-An organization that receives a grant or enters into a contract under subsection (a) of this section may use funds made available through the grant or contract for activities such as—
+An organization that receives a grant or enters into a contract under subsection (a) mayuse funds made available through the grant or contract for activities such as—
 
 &emsp;(1) linking youth groups and older American organizations in volunteer activities;
 
@@ -18,5 +18,5 @@ An organization that receives a grant or enters into a contract under subsection
 
 #### Effective Date
 
-Part effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 4951 of this title.
+Section effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 4951 of this title.
 

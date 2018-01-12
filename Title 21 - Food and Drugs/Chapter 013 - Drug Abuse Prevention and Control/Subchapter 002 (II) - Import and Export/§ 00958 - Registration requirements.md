@@ -28,7 +28,7 @@ Registration granted under this section shall not entitle a registrant to import
 
 (5) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this subsection, in cases where he finds that there is an imminent danger to the public health and safety. Such suspension shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
-(6) In the event that the Attorney General suspends or revokes a registration granted under this section, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be seized or placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded, except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of the sale thereof which have been deposited with the court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title.
+(6) In the event that the Attorney General suspends or revokes a registration granted underthis section, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be seized or placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded, except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of the sale thereof which have been deposited with the court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title.
 
 #### (e) Registration period
 
@@ -85,4 +85,8 @@ Subsecs. (d) to (i). Pub. L. 98–473, §525, added subsec. (d), redesignated fo
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 

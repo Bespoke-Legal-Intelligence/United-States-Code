@@ -74,7 +74,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
+(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII,§1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generall
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)" before ", or".
 
-Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted "at any time during the first 60 days of continuationcoverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
+Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
 
 <b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months."
 
@@ -136,7 +136,7 @@ Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remar
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, see section 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, seesection 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. This subchapter is not divided into parts.</i>
 

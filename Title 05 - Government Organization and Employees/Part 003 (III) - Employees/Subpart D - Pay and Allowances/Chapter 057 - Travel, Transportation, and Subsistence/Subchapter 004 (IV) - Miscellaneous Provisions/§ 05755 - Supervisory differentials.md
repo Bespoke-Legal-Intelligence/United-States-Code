@@ -18,13 +18,19 @@
 
 (d) The Office shall prescribe such regulations as it considers necessary for the administration of this section.
 
-(Added Pub. L. 101–509, title V, §529 \[title II, §211(a)\], Nov. 5, 1990, 104 Stat. 1427, 1461.)
+(Added Pub. L. 101–509, title V, §529 \[title II, §211(a)\], Nov. 5, 1990, 104 Stat. 1427, 1461; amended Pub. L. 115–73, title I, §107(a)(2)(B), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(B), Dec. 12, 2017, 131 Stat. 1617.)
 
 #### References in Text
 
 The General Schedule, referred to in subsecs. (a)(1), (2) and (c)(2), is set out under section 5332 of this title.
 
+#### Amendments
+
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–91 substituted "section 2302(d)" for "section 2302(c)".
+
+Pub. L. 115–73 substituted "section 2302(c)" for "section 2302(d)".
+
 #### Effective Date
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[titleIII, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 

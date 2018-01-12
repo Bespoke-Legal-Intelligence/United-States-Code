@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86of this title,<sup>1</sup> and other appropriate research programs of the Department.
+Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
 #### (b) Consultation and coordination
 

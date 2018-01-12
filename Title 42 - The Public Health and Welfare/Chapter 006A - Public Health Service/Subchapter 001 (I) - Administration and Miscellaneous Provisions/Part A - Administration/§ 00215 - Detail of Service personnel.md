@@ -18,7 +18,7 @@ Personnel detailed under subsections (b) and (c) shall be paid from applicable a
 
 #### (e) Commissioned Corps officers; urgent or emergency public health care needs
 
-Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deployany Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
+Except with respect to the United States Coast Guard and the Department of Defense, andexcept as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
 
 (July 1, 1944, ch. 373, title II, §214, 58 Stat. 690; July 3, 1946, ch. 538, §6, 60 Stat. 423; Oct. 12, 1949, ch. 681, title V, §521(e), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §309, Sept. 29, 1979, 93 Stat. 585; Pub. L. 109–417, title II, §206(c)(1), Dec. 19, 2006, 120 Stat. 2853.)
 
@@ -64,7 +64,7 @@ Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as a
 
 &emsp;"(ii) the amount of Federal income tax, as determined by estimate of the Secretary, which the transferring officer, had he remained a commissioned officer, would have been required to pay on his subsistence and quarters allowances for the taxable year then current if they had not been tax free;
 
-&emsp;"(iii) an amount equal to the biweekly average cost of the coverages designated 'high option, self and family' under the Government-wide Federal employeehealth benefits programs plans, multiplied by twenty-six; and
+&emsp;"(iii) an amount equal to the biweekly average cost of the coverages designated 'high option, self and family' under the Government-wide Federal employee health benefits programs plans, multiplied by twenty-six; and
 
 &emsp;"(iv) an amount equal to 7 per centum of the sum of the amounts determined under clauses (i) through (iii), inclusive.
 

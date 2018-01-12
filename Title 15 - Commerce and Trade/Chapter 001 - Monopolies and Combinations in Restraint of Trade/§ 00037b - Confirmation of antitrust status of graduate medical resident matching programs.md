@@ -58,7 +58,7 @@
 
 #### (2) Confirmation of antitrust status
 
-&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federal court to support any claim or action alleging a violation of the antitrust laws.
+&emsp;It shall not be unlawful under the antitrust laws to sponsor, conduct, or participate in a graduate medical education residency matching program, or to agree to sponsor, conduct, or participate in such a program. Evidence of any of the conduct described in the preceding sentence shall not be admissible in Federalcourt to support any claim or action alleging a violation of the antitrust laws.
 
 #### (3) Applicability
 
@@ -66,7 +66,7 @@
 
 #### (c) Effective date
 
-This section shall take effect on April 10, 2004, shall apply to conduct whether it occurs priorto, on, or after April 10, 2004, and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004.
+This section shall take effect on April 10, 2004, shall apply to conduct whether it occurs prior to, on, or after April 10, 2004, and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004.
 
 (Pub. L. 108–218, title II, §207, Apr. 10, 2004, 118 Stat. 611.)
 

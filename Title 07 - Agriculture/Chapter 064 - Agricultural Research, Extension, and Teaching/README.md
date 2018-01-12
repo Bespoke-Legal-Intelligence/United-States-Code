@@ -7,6 +7,8 @@
 | [3101\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003101%20-%20Purposes%20of%20agricultural%20research%2C%20extension%2C%20and%20education.md) | Purposes of agricultural research, extension, and education. |
 | [3102\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003102%20-%20Additional%20purposes%20of%20agricultural%20research%20and%20extension.md) | Additional purposes of agricultural research and extension. |
 | [3103\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003103%20-%20Definitions.md) | Definitions. |
+| [3104\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003104%20-%20Agriculture%20research%3B%20declaration%20of%20policy%3B%20duties%20of%20Secretary%20of%20Agriculture%3B%20use%20of%20existing%20facilities.md) | Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities. |
+| [3105\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003105%20-%20Agricultural%20research%3B%20authorization%20of%20additional%20appropriations%3B%20administrative%20expenses%3B%20availability%20of%20special%20research%20fund.md) | Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,6 +49,7 @@
 | [3154\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003154%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20VII%2C%20%C2%A77110%28a%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201218%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20VII%2C%20%C2%A77110%28a%29%2C%20June%E2%80%A6.md) | Repealed. |
 | [3155\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003155%20-%20Agricultural%20and%20food%20policy%20research%20centers.md) | Agricultural and food policy research centers. |
 | [3156\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003156%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md) | Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions. |
+| [3157\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003157%20-%20Competitive%2C%20special%2C%20and%20facilities%20research%20grants.md) | Competitive, special, and facilities research grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -153,6 +156,7 @@
 | [3316\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003316%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [3317\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003317%20-%20Program%20evaluation%20studies.md) | Program evaluation studies. |
 | [3318\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003318%20-%20Contract%2C%20grant%2C%20and%20cooperative%20agreement%20authorities.md) | Contract, grant, and cooperative agreement authorities. |
+| [3318a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003318a%20-%20Cooperative%20research%20projects%3B%20agreements%20with%20and%20receipt%20of%20funds%20from%20State%20and%20other%20agencies.md) | Cooperative research projects; agreements with and receipt of funds from State and other agencies. |
 | [3319\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319%20-%20Restriction%20on%20treatment%20of%20indirect%20costs%20and%20tuition%20remission.md) | Restriction on treatment of indirect costs and tuition remission. |
 | [3319a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319a%20-%20Cost-reimbursable%20agreements.md) | Cost-reimbursable agreements. |
 | [3319b.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319b%20-%20Joint%20requests%20for%20proposals.md) | Joint requests for proposals. |

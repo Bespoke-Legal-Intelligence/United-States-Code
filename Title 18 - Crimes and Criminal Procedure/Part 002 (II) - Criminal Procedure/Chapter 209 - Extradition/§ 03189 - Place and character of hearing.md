@@ -1,6 +1,6 @@
 ### §3189. Place and character of hearing
 
-Hearings in cases of extradition under treaty stipulation or convention shall be held on land, publicly, and in a room or office easily accessible to the public.
+Hearings in cases of extradition under treaty stipulation or convention shall be held on land,publicly, and in a room or office easily accessible to the public.
 
 (June 25, 1948, ch. 645, 62 Stat. 824.)
 

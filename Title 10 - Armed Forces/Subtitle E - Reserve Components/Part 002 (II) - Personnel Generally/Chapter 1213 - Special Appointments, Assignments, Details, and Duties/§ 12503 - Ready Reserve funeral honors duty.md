@@ -2,7 +2,7 @@
 
 (a)
 
-Order to Duty.—A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in section 1491 of this title. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+Order to Duty.—A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in section 1491 of this title. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respectto travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
 
 (b)
 
@@ -26,7 +26,7 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 (e)
 
-Members of the National Guard.—This section does not apply to members of the ArmyNational Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
+Members of the National Guard.—This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
 (Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 

@@ -2,13 +2,13 @@
 
 (a) The Secretary of Transportation, in consultation with the Secretaries of Commerce, Energy, and Defense, the Administrator of the Environmental Protection Agency, the Assistant Secretary of the Army for Public Works, and the heads of other interested agencies, shall lead and coordinate Federal efforts in the research and development of high-speed ground transportation technologies in order to foster the implementation of magnetic levitation and high-speed steel wheel on rail transportation systems as alternatives to existing transportation systems.
 
-(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
+(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrationsunder this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
 
 (2)(A) In connection with the authority provided under paragraph (1), there is established a national high-speed ground transportation technology demonstration program, which shall be separate from the national magnetic levitation prototype development program established under section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991 and shall be managed by the Secretary of Transportation.
 
 (B)(i) Any eligible applicant may submit to the Secretary a proposal for demonstration of any advancement in a high-speed ground transportation technology or technologies to be incorporated as a component, subsystem, or system in any revenue service high-speed ground transportation project or system under construction or in operation at the time the application is made.
 
-(ii) Grants or contracts shall be awarded only to eligible applicants showing demonstrable benefit to the research and development, design, construction, or ultimate operation of any maglev technology or high-speed steel wheel onrail technology. Criteria to be considered in evaluating the suitability of a proposal under this paragraph shall include—
+(ii) Grants or contracts shall be awarded only to eligible applicants showing demonstrable benefit to the research and development, design, construction, or ultimate operation of any maglev technology or high-speed steel wheel on rail technology. Criteria to be considered in evaluating the suitability of a proposal under this paragraph shall include—
 
 &emsp;(I) feasibility of guideway or track design and construction;
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i) the current transportation practices and trends in each market; and
 
-&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
+&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve thecurrent or anticipated congestion on other modes of transportation;
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -220,7 +220,7 @@ Proprietary rights.—No trade secrets or commercial or financial information th
 
 &emsp;"(B)
 
-Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royaltiesmay be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
+Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
 
 "(6)
 

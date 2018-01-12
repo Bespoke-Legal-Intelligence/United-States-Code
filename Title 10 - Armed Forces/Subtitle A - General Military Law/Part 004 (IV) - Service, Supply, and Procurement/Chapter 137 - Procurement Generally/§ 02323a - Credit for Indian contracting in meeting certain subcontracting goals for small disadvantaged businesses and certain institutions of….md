@@ -60,7 +60,7 @@ Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, d
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting "section 2323 of this title" for "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)", could not be executed because the language"section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" did not appear. See Codification note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting "section 2323 of this title" for "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)", could not be executed because the language "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" did not appear. See Codification note above.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

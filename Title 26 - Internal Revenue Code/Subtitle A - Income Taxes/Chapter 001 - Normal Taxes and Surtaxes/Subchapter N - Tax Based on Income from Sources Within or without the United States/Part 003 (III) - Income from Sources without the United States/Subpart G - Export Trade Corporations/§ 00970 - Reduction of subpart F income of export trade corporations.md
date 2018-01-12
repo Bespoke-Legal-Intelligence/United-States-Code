@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for the taxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
+&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for thetaxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
 
-&emsp;&emsp;(A) an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is probably allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
+&emsp;&emsp;(A) an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
 
-&emsp;&emsp;(B) an amount equal to 10 percent of so much of the gross receipts for such year (or, in the case of gross receipts arising from commissions, fees, or other compensation for its services, so much of the gross amount upon the basis of which such commissions, fees, or other compensation is computed) accruing to such export trade corporation fromthe sale, installation, operation, maintenance, or use of property in respect of which such corporation derives export trade income as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year.
+&emsp;&emsp;(B) an amount equal to 10 percent of so much of the gross receipts for such year (or, in the case of gross receipts arising from commissions, fees, or other compensation for its services, so much of the gross amount upon the basis of which such commissions, fees, or other compensation is computed) accruing to such export trade corporation from the sale, installation, operation, maintenance, or use of property in respect of which such corporation derives export trade income as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year.
 
 > &emsp;The allocations with respect to export trade income which constitutes foreign base company income under subparagraphs (A) and (B) shall be made under regulations prescribed by the Secretary.
 
@@ -16,13 +16,7 @@
 
 &emsp;The reduction under paragraph (1) for any taxable year shall not exceed an amount which bears the same ratio to the increase in the investments in export trade assets (as defined in section 971(c)) of such corporation for such year as the export trade income which constitutes foreign base company income of such corporation for such year bears to the entire export trade income of such corporation for such year.
 
-#### (b) Inclusion of certain previously excluded amounts
-
-Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
-
-&emsp;(1) his pro rata share of the sum of (A) the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under subsection (a), and (B) the amounts not included in subpart F income (determined without regard to this subpart) for all prior taxable years by reason of the treatment (under section 972 as in effect before the date of the enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled foreign corporation, reduced by
-
-&emsp;(2) the sum of the amounts which were included in his gross income under section 951(a)(1)(A)(ii) under the provisions of this subsection for all prior taxable years.
+#### \[(b) Repealed. Pub. L. 115–97, title I, §14212(b)(5), Dec. 22, 2017, 131 Stat. 2217\]
 
 #### (c) Investments in export trade assets
 
@@ -50,19 +44,25 @@ Each United States shareholder of a controlled foreign corporation which for any
 
 &emsp;A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1972, 76 Stat. 1027; amended Pub. L. 94–455, title XIX, §§1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1799, 1834.)
-
-#### References in Text
-
-The Tax Reform Act of 1976, referred to in subsec. (b)(1), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1250, as amended, which was enacted Oct. 4, 1976. Section 972 of this title was repealed by Pub. L. 94–455, title XIX, §1901(a)(120), Oct. 4, 1976, 90 Stat. 1784. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 94–455, title XIX, §§1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1799, 1834; Pub. L. 115–97, title I, §14212(b)(5), Dec. 22, 2017, 131 Stat. 2217.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 struck out subsec. (b). Text read as follows: "Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
+
+&emsp;"(1) his pro rata share of the sum of (A) the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under subsection (a), and (B) the amounts not included in subpart F income (determined without regard to this subpart) for all prior taxable years by reason of the treatment (under section 972 as in effect before the date of the enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled foreign corporation, reduced by
+
+&emsp;"(2) the sum of the amounts which were included in his gross income under section 951(a)(1)(A)(ii) under the provisions of this subsection for all prior taxable years."
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(27)(A), substituted "treatment (under section 972 as in effect before the date of enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled corporation" for "application of section 972" after "reason of the".
 
 Subsec. (c)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in three places.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14212(c) of Pub. L. 115–97, set out as a note under section 851 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -96,9 +96,9 @@ In general.—If a corporation (hereinafter in this section called 'parent') own
 
 &emsp;&emsp;"(F) the basis of the parent's stock in the DISC shall be increased by the amount of the reduction under subparagraph (E) of its basis in the stock of the export trade corporation;
 
-&emsp;&emsp;"(G) the property transferred to the DISC shall not be considered to reduce the investments of the export trade corporation in export trade assets for purposes of applying section 970(b); and
+&emsp;&emsp;"(G) the property transferred to the DISC shall not be considered to reduce the investments of the export trade corporation in export trade assets for purposes of applying \[former\] section 970(b); and
 
-&emsp;&emsp;"(H) any foreign income taxes which would have been deemed under section 902 to have been paid by the parent if the transfer had been made to the parent shall be treated as foreign income taxes paid by the DISC.
+&emsp;&emsp;"(H) any foreign income taxes which would have been deemed under \[former\] section 902 to have been paid by the parent if the transfer had been made to the parent shall be treated as foreign income taxes paid by the DISC.
 
 > &emsp;For purposes of this section, the amount transferred by the export trade corporation to the DISC shall be the aggregate of the adjusted basis of the properties transferred, with proper adjustment for any indebtedness secured by such property or assumed by the DISC in connection with the transfer. For purposes of this section, a foreign corporation which qualified as an export trade corporation for any 3 taxable years beginning before November 1, 1971, shall be treated as an export trade corporation.
 
@@ -108,7 +108,7 @@ Definition of untaxed subpart f income.—For purposes of this section, the term
 
 &emsp;&emsp;"(A) the sum of the amount by which the subpart F income of such corporation was reduced for the taxable year and all prior taxable years under section 970(a) and the amounts not included in subpart F income (determined without regard to subpart G of subchapter N of chapter 1) for all prior taxable years by reason of the application of section 972, exceeds
 
-&emsp;&emsp;"(B) the sum of the amounts which were included in the gross income of the shareholders of such corporation under section 951(a)(1)(A)(ii) and under the provision of section 970(b) for all prior taxable years,
+&emsp;&emsp;"(B) the sum of the amounts which were included in the gross income of the shareholders of such corporation under \[former\] section 951(a)(1)(A)(ii) and under the provision of \[former\] section 970(b) for all prior taxable years,
 
 > &emsp;determined without regard to the transfer of property described in paragraph (1) of this subsection.
 

@@ -38,7 +38,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(B) not issued for property,
 
-> &emsp;the issue price is the initial offering price to the public (excluding bond houses and brokers)at which price a substantial amount of such debt instruments was sold.
+> &emsp;the issue price is the initial offering price to the public (excluding bond houses and brokers) at which price a substantial amount of such debt instruments was sold.
 
 #### (2) Other debt instruments not issued for property
 

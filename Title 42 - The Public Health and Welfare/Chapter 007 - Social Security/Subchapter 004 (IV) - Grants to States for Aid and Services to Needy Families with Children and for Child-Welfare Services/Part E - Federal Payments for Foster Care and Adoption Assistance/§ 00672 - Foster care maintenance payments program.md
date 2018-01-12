@@ -96,7 +96,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;(1) in the case of a child who has been removed in accordance with subsection (a) of this section from the home of a relative specified in section 606(a) of this title (as in effect on July 16, 1996), only for expenditures—
 
-&emsp;&emsp;(A) with respect to a period of not more than the lesser of 12 months or the average length of time it takes for the State to license or approve a home as a foster home, in which the child is in the home of a relative and an application is pending for licensing or approval of the home as a foster family home; or
+&emsp;&emsp;(A) with respect to a period of not more than the lesser of 12 months or the average length of time it takes for the State to license or approve a home as a foster home, in which the child is in the home of a relative and an application is pending for licensingor approval of the home as a foster family home; or
 
 &emsp;&emsp;(B) with respect to a period of not more than 1 calendar month when a child moves from a facility not eligible for payments under this part into a foster family home or child care institution licensed or approved by the State; and
 
@@ -162,7 +162,7 @@ Subsec. (h). Pub. L. 100–203, §9133(b)(2), inserted sentence at end.
 
 Pub. L. 99–603, §302(b)(2), inserted in closing provisions reference to cases in which a child is an alien disqualified under section 1160(f) of title 8.
 
-Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: "In any case where the child is an alien disqualified under section 1255a(h) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements of paragraph (4) (and the corresponding requirements of section 673(a)(1)(B) of this title), with respect to that month, if he or she would have satisfied such requirements but for such disqualification."
+Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: "In any case where the child is an alien disqualified under section 1255a(h) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements ofparagraph (4) (and the corresponding requirements of section 673(a)(1)(B) of this title), with respect to that month, if he or she would have satisfied such requirements but for such disqualification."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–272, §102(a)(1), inserted provisions relating to voluntary placement agreements entered into by a child's parent or legal guardian.
 

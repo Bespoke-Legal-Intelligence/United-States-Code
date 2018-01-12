@@ -158,7 +158,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;"(2) Ensure that cruise vessels do not discharge untreated sewage within the waters of the Alexander Archipelago, the navigable waters of the United States in the State of Alaska, or within the Kachemak Bay National Estuarine Research Reserve.
 
-&emsp;"(3) Prevent the unregulated discharge of treated sewage and graywater while in ports in the State of Alaska or traveling near the shore in the Alexander Archipelago and the navigable waters of the UnitedStates in the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
+&emsp;"(3) Prevent the unregulated discharge of treated sewage and graywater while in ports in the State of Alaska or traveling near the shore in the Alexander Archipelago and the navigable waters of the United States in the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
 
 &emsp;"(4) Ensure that discharges of sewage and graywater from cruise vessels operating in the Alexander Archipelago and the navigable waters of the United States in the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve can be monitored for compliance with the requirements contained in this title.
 
@@ -290,7 +290,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;"(8)
 
-Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this subsection and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appearand give testimony before the Administrator or Secretary or to appear and produce documents before the Administrator or Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this subsection and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator or Secretary or to appear and produce documents before the Administrator or Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 "(b)
 
@@ -332,7 +332,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, toany individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;"(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
@@ -416,7 +416,7 @@ Sewage.—The term 'sewage' means human body wastes and the wastes from toilets 
 
 &emsp;"(9)
 
-Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended\[,\] and of this title, and regulations promulgated under either.
+Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 etseq.\], as amended\[,\] and of this title, and regulations promulgated under either.
 
 &emsp;"(10)
 

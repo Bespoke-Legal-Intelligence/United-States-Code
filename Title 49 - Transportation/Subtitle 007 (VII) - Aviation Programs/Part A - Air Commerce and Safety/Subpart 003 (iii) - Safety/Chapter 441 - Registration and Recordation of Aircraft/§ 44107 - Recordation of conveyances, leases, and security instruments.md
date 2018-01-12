@@ -48,7 +48,7 @@ International Registry.—
 
 &emsp;(1)
 
-Designation of united states entry point.—As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as the United States Entry Point to the International Registry relating to—
+Designation of united states entry point.—As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as theUnited States Entry Point to the International Registry relating to—
 
 &emsp;&emsp;(A) civil aircraft of the United States;
 

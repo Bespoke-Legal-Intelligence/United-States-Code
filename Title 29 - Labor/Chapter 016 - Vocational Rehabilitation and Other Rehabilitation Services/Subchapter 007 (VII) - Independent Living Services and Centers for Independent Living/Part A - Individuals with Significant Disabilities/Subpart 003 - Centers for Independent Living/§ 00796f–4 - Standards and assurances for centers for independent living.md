@@ -52,7 +52,7 @@ The eligible agency shall provide at such time and in such manner as the Adminis
 
 &emsp;(3) the applicant will comply with the standards set forth in subsection (b);
 
-&emsp;(4) the applicant will establish clear priorities through annual and 3-year program and financial planning objectives for the center, including overall goals or a mission for the center, a work plan for achieving the goals ormission, specific objectives, service priorities, and types of services to be provided, and a description that shall demonstrate how the proposed activities of the applicant are consistent with the most recent 3-year State plan under section 796c of this title;
+&emsp;(4) the applicant will establish clear priorities through annual and 3-year program and financial planning objectives for the center, including overall goals or a mission for the center, a work plan for achieving the goals or mission, specific objectives, service priorities, and types of services to be provided, and a description that shall demonstrate how the proposed activities of the applicant are consistent with the most recent 3-year State plan under section 796c of this title;
 
 &emsp;(5) the applicant will use sound organizational and personnel assignment practices, including taking affirmative action to employ and advance in employment qualified individuals with significant disabilities on the same terms and conditions required with respect to the employment of individuals with disabilities under section 793 of this title;
 

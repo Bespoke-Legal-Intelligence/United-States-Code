@@ -156,7 +156,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) Appeal to Secretary
 
-&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d),that the manufacturer or importer intends to contest the assessment.
+&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
 
 #### (2) Information
 
@@ -182,7 +182,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) In general
 
-&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer or importer resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
+&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer orimporter resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
 
 #### (2) Time limits
 

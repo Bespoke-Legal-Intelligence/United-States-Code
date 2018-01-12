@@ -26,7 +26,7 @@ Exam Review.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of the enactment of the Coast GuardAuthorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+In general.—Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
 
 &emsp;&emsp;(A) 1 subject matter expert from the Coast Guard;
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 #### Disclosure to Congress
 
-Pub. L. 114–120, title III, §315(c), Feb. 8, 2016, 130 Stat. 62, provided that: "Nothing in this section \[enacting this section and section 7116 of this title\] may be construed to authorize the withholding of informationfrom an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives."
+Pub. L. 114–120, title III, §315(c), Feb. 8, 2016, 130 Stat. 62, provided that: "Nothing in this section \[enacting this section and section 7116 of this title\] may be construed to authorize the withholding of information from an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives."
 

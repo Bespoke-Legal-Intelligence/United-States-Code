@@ -104,7 +104,7 @@ Pub. L. 110–233, title II, §213, May 21, 2008, 122 Stat. 920, provided that: 
 
 #### Short Title
 
-Pub. L. 110–233, §1(a), May 21, 2008, 122 Stat. 881, provided that: "This Act \[enacting this chapter, sections 300gg–53 and 1320d–9 of this title, and section 9834 of Title 26, Internal Revenue Code, amending sections 300gg–1, 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 216, 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 300gg–1, 1320d–9, and 1395ss of this title, section 9802 of Title 26, and sections 216 and 1132 of Title 29\] may be cited as the 'Genetic Information Nondiscrimination Act of 2008'."
+Pub. L. 110–233, §1(a), May 21, 2008, 122 Stat. 881, provided that: "This Act \[enacting this chapter, sections300gg–53 and 1320d–9 of this title, and section 9834 of Title 26, Internal Revenue Code, amending sections 300gg–1, 300gg–21, 300gg–22, 300gg–61, 300gg–91, and 1395ss of this title, sections 9802 and 9832 of Title 26, and sections 216, 1132, 1182, and 1191b of Title 29, Labor, and enacting provisions set out as notes under this section, sections 300gg–1, 1320d–9, and 1395ss of this title, section 9802 of Title 26, and sections 216 and 1132 of Title 29\] may be cited as the 'Genetic Information Nondiscrimination Act of 2008'."
 
 #### Severability
 

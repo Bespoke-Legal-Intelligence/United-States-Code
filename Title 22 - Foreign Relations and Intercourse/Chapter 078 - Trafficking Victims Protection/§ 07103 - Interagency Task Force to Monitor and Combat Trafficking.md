@@ -30,7 +30,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
-&emsp;&emsp;(A) the number of persons who received benefits or other services under subsections (b) and (f) <sup>1</sup> of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board ofDirectors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
+&emsp;&emsp;(A) the number of persons who received benefits or other services under subsections (b) and (f) <sup>1</sup> of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
 &emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year and the mean and median time taken to adjudicate applications submitted under such section, including the time from the receipt of an application by law enforcement to the issuance of continued presence, and a description of any efforts being taken to reduce the adjudication and processing time while ensuring the safe and competent processing of the applications;
 
@@ -40,7 +40,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(E) the amount of Federal funds expended in direct benefits paid to individuals described in subparagraph (D) in conjunction with T visa status;
 
-&emsp;&emsp;(F) the number of persons who have applied for, been granted, or been denied a visa or status under section 1101(a)(15)(U)(i) of title 8 during the preceding fiscal year;
+&emsp;&emsp;(F) the number of persons who have applied for, been granted, or been denied a visaor status under section 1101(a)(15)(U)(i) of title 8 during the preceding fiscal year;
 
 &emsp;&emsp;(G) the mean and median time in which it takes to adjudicate applications submitted under the provisions of law set forth in subparagraph (C), including the time between the receipt of an application and the issuance of a visa and work authorization;
 
@@ -52,7 +52,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(K) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year;
 
-&emsp;&emsp;(L) the amount, recipient, and purpose of each grant under sections 14044a and 14044c of title 42; <sup>1</sup>
+&emsp;&emsp;(L) the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; <sup>1</sup>
 
 &emsp;&emsp;(M) activities by the Department of Defense to combat trafficking in persons, including—
 
@@ -94,13 +94,13 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
 
-&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 14044a(a) of title 42, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
+&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
 
 #### (e) Office To Monitor and Combat Trafficking
 
 #### (1) In general
 
-&emsp;The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
+&emsp;The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying outthe purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
 #### (2) United States assistance
 
@@ -152,9 +152,9 @@ Each regional bureau in the Department of State shall contribute to the realizat
 
 This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original "this division" meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f)of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
+Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
-Sections 14044a and 14044c of title 42, referred to in subsec. (d)(7)(L), was in the original "sections 202 and 204 of the Trafficking Victims Protection Act of 2005", and was translated as reading "sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005", which enacted sections 14044a and 14044c of Title 42, The Public Health and Welfare, to reflect the probable intent of Congress.
+Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in the original "sections 202 and 204 of the Trafficking Victims Protection Act of 2005", and was translated as reading "sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005", which enacted sections 20702 and 20705 of Title 34, Crime Control and Law Enforcement, to reflect the probable intent of Congress.
 
 Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a note under section 601 of Title 5, Government Organization and Employees.
 
@@ -272,7 +272,7 @@ Sec. 3. <i>Administration</i>. (a) The Department of State shall provide funding
 
 (c) Task Force members may designate representatives from their respective agencies to represent them at Task Force meetings.
 
-(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C. 3021 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
+(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C.3021 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
 
 (e) The Task Force shall have no directive authority or other substantial independent authority.
 

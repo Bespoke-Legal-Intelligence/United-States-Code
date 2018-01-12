@@ -1,6 +1,6 @@
 ### §6987. Authorization of appropriations
 
-There are authorized to be appropriated not to exceed $35,000,000 for the fiscal year 1978 to carry out the purposes of this subchapter (except for section 6982 of this title).
+There are authorized to be appropriated not to exceed $35,000,000 for the fiscal year 1978 to carryout the purposes of this subchapter (except for section 6982 of this title).
 
 (Pub. L. 89–272, title II, §8007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2839.)
 

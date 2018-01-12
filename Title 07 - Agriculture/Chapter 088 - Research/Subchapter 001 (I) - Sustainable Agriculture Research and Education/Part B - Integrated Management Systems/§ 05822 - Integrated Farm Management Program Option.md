@@ -28,7 +28,7 @@ The Secretary of Agriculture (hereafter in this section referred to as the "Secr
 
 &emsp;&emsp;(C) The term "small grain" shall not include malting barley or wheat, except for wheat interplanted with other small grain crops for nonhuman consumption.
 
-&emsp;&emsp;(D) The term "alternative crops" means experimental and industrial crops grown in arid and semiarid regions that conserve soil and water.
+&emsp;&emsp;(D) The term "alternative crops" means experimental and industrial crops grown inarid and semiarid regions that conserve soil and water.
 
 #### (c) Eligibility
 
@@ -88,7 +88,7 @@ Each plan approved by the Secretary shall—
 
 #### (C) Flexibility
 
-&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility fora producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
+&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
 
 #### (D) Minimization of adverse effect
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting orgrazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 
@@ -158,7 +158,7 @@ Each plan approved by the Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for the purposes of this paragraph the term "traditionally underplanted acreage" means the difference in a particular year between the acreage that is part of a producer's crop acreage base that is not planted to the program crop and the part of the crop acreage base subject to an acreage limitation program or required to be set aside, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1). In no case shall such acreage be less than zero.
+&emsp;&emsp;&emsp;Subject to clause (ii), for the purposes of this paragraph the term "traditionally underplanted acreage" means the difference in a particular year between the acreage that is part of a producer's crop acreage base that is not planted to the program crop and the part of the crop acreage base subject to an acreage limitation program or required to be set aside, but only to the extent that such number exceedsthe number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1). In no case shall such acreage be less than zero.
 
 #### (ii) Exception
 

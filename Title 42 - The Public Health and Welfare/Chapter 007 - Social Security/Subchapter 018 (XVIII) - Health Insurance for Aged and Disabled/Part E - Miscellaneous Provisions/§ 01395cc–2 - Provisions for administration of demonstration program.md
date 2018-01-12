@@ -40,7 +40,7 @@
 
 #### (7) Secretary's review of marketing materials
 
-&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entity to guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
+&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entity to guarantee that it will not distribute materials that market items or services under theprogram without the Secretary's prior review and approval.
 
 #### (8) Payment in full
 
@@ -136,7 +136,7 @@
 
 #### (1) Records, reports, and audits
 
-&emsp;The Secretary is authorized to require entities with agreements to provide health care items or services under the demonstration program, and entities with program administration contracts under subsection (b), to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals' and entities' effectiveness in performance of such agreements or contracts.
+&emsp;The Secretary is authorized to require entities with agreements to provide health careitems or services under the demonstration program, and entities with program administration contracts under subsection (b), to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals' and entities' effectiveness in performance of such agreements or contracts.
 
 #### (2) Bonuses
 
@@ -154,7 +154,7 @@
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement inprocesses or outcomes of care, or such other factors as the Secretary determines to be appropriate.
+&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement in processes or outcomes of care, or such other factors as the Secretary determines to be appropriate.
 
 #### (3) Antidiscrimination limitation
 

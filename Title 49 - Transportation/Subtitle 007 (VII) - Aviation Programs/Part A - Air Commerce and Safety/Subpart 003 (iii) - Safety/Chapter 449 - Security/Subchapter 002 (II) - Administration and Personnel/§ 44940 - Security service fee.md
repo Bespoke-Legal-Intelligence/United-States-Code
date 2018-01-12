@@ -56,7 +56,7 @@ In general.—Notwithstanding section 9701 of title 31 and the procedural requir
 
 &emsp;(2)
 
-Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is notcollected from the passenger, the amount of the fee shall be paid by the carrier.
+Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
 &emsp;(3)
 
@@ -164,7 +164,7 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 
 #### Codification
 
-Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying theCode title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directe
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–67, §601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
-Subsec. (c). Pub. L. 113–67, §601(b), amended subsec. (c) generally. Prior to amendment, text read as follows:"Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip."
+Subsec. (c). Pub. L. 113–67, §601(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip."
 
 Subsec. (d)(1). Pub. L. 113–67, §601(a)(2), struck out ", and may impose a fee under subsection (a)(2)," after "under subsection (a)(1)".
 

@@ -4,7 +4,7 @@ The purposes of this subchapter are to—
 
 &emsp;(1) promote national energy policy and energy security, diversity, and economic competitiveness benefits that result from the increased use of coal;
 
-&emsp;(2) mitigate financial risks, reduce the cost of clean coal generation, and increase the marketplace acceptance of clean coal generationand pollution control equipment and processes; and
+&emsp;(2) mitigate financial risks, reduce the cost of clean coal generation, and increase the marketplace acceptance of clean coal generation and pollution control equipment and processes; and
 
 &emsp;(3) facilitate the environmental performance of clean coal generation.
 

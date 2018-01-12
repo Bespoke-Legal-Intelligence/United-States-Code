@@ -470,7 +470,7 @@ Pub. L. 106–159, title II, §224, Dec. 9, 1999, 113 Stat. 1770, provided that:
 
 "(a)
 
-Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercialmotor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States' ability to—
+Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercial motor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States' ability to—
 
 &emsp;"(1) evaluate future crashes involving commercial motor vehicles;
 

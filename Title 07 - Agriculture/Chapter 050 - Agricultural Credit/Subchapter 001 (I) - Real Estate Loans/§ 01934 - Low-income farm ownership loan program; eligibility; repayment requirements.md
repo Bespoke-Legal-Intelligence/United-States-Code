@@ -14,7 +14,7 @@
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–552 substituted "1924(a)(1)" for "1924(d)(1)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "paragraphs (1) through (5) of section 1923(a) of this title, or subparagraphs (A) through (E) of section 1924(d)(1) of this title," for "clauses (1) through (5) of section 1923(a) of this title", substituted "paragraphs" for "clauses" before "(2) through (4) of section", made technical amendment to reference to section 1922 of this title which required no change in text, and substituted "paragraphs" for "clauses" before "(2) through (6) of the".
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "paragraphs (1) through (5) of section 1923(a) of this title, orsubparagraphs (A) through (E) of section 1924(d)(1) of this title," for "clauses (1) through (5) of section 1923(a) of this title", substituted "paragraphs" for "clauses" before "(2) through (4) of section", made technical amendment to reference to section 1922 of this title which required no change in text, and substituted "paragraphs" for "clauses" before "(2) through (6) of the".
 
 #### Effective Date of 1992 Amendment
 

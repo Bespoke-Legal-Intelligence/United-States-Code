@@ -99,7 +99,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of any required installment, the annualized income installment is the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and alternative minimum taxable income—
+&emsp;&emsp;&emsp;(i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and modified taxable income—
 
 &emsp;&emsp;&emsp;&emsp;(I) for the first 3 months of the taxable year, in the case of the 1st required installment,
 
@@ -117,7 +117,7 @@ For purposes of this section—
 
 #### (i) Annualization
 
-&emsp;&emsp;&emsp;The taxable income and alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+&emsp;&emsp;&emsp;The taxable income and modified taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
 
 #### (ii) Applicable percentage
 
@@ -129,6 +129,10 @@ For purposes of this section—
 | &nbsp;2nd | 50&nbsp;&nbsp; |
 | &nbsp;3rd | 75&nbsp;&nbsp; |
 | &nbsp;4th | 100\. |
+
+#### (iii) Modified taxable income
+
+&emsp;&emsp;&emsp;The term "modified taxable income" has the meaning given such term by section 59A(c)(1).
 
 #### (C) Election for different annualization periods
 
@@ -242,9 +246,9 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 &emsp;&emsp;(A) the sum of—
 
-&emsp;&emsp;&emsp;(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever applies,
+&emsp;&emsp;&emsp;(i) the tax imposed by section 11 or subchapter L of chapter 1, whichever applies,
 
-&emsp;&emsp;&emsp;(ii) the tax imposed by section 55, plus
+&emsp;&emsp;&emsp;(ii) the tax imposed by section 59A, plus
 
 &emsp;&emsp;&emsp;(iii) the tax imposed by section 887, over
 
@@ -310,7 +314,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 &emsp;&emsp;(E) Subsection (b)(2)(A) shall be applied by substituting "3rd month" for "4th month".
 
-&emsp;&emsp;(F) Any reference in subsection (e) to taxable income shall be treated as including areference to the net recognized built-in gain or the excess passive income (as the case may be).
+&emsp;&emsp;(F) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
 
 #### (h) Excessive adjustment under section 6425
 
@@ -340,9 +344,33 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov. 10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 106–170, title V, §571(a), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 106–554, §1(a)(7) \[title III, §319(21)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 113–295, div. A, title II, §221(a)(12)(K), (114), Dec. 19, 2014, 128 Stat. 4039, 4054; Pub. L. 114–41, title II, §2006(a)(2)(F), (G), July 31, 2015, 129 Stat. 457.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov. 10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 106–170, title V, §571(a), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 106–554, §1(a)(7) \[title III, §319(21)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 113–295, div. A, title II, §221(a)(12)(K), (114), Dec. 19, 2014, 128 Stat. 4039, 4054; Pub. L. 114–41, title II, §2006(a)(2)(F), (G), July 31, 2015, 129 Stat. 457; Pub. L. 115–97, title I, §§12001(b)(18), (19), 13001(b)(2)(P), 14401(d)(4), Dec. 22, 2017, 131 Stat. 2094, 2097, 2233.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(2)(A)(i). Pub. L. 115–97, §14401(d)(4)(B), inserted "and modified taxable income" after "taxable income" in introductory provisions.
+
+Pub. L. 115–97, §12001(b)(18), struck out "and alternative minimum taxable income" after "taxable income" in introductory provisions.
+
+Subsec. (e)(2)(B)(i). Pub. L. 115–97, §14401(d)(4)(B), inserted "and modified taxable income" after "taxable income".
+
+Pub. L. 115–97, §12001(b)(18), struck out "and alternative minimum taxable income" after "taxable income".
+
+Subsec. (e)(2)(B)(iii). Pub. L. 115–97, §14401(d)(4)(C), added cl. (iii).
+
+Subsec. (g)(1)(A)(i). Pub. L. 115–97, §14401(d)(4)(A), struck out "plus" at end.
+
+Pub. L. 115–97, §13001(b)(2)(P), struck out "or 1201(a)," after "section 11".
+
+Pub. L. 115–97, §12001(b)(19), inserted "plus" at end.
+
+Subsec. (g)(1)(A)(ii). Pub. L. 115–97, §14401(d)(4)(A), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Pub. L. 115–97, §12001(b)(19), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: "the tax imposed by section 55, plus".
+
+Subsec. (g)(1)(A)(iii). Pub. L. 115–97, §14401(d)(4)(A), redesignated cl. (ii) as (iii).
+
+Pub. L. 115–97, §12001(b)(19), redesignated cl. (iii) as (ii).
 
 <b>2015</b>—Subsecs. (b)(2)(A), (g)(3). Pub. L. 114–41, §2006(a)(2)(F), substituted "4th month" for "3rd month".
 
@@ -460,7 +488,7 @@ Subsec. (h). Pub. L. 96–499, §1111(a), added subsec. (h).
 
 Subsec. (e)(2)(B). Pub. L. 94–455, §1906(b)(3)(B), substituted "clause (ii)" for "clauses (ii) and (iii)".
 
-Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which related to the computation of a corporation's transitional exemption, was struck out.
+Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which relatedto the computation of a corporation's transitional exemption, was struck out.
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -479,6 +507,14 @@ Subsec. (g). Pub. L. 90–364, §103(d)(2), added subsec. (g).
 <b>1964</b>—Subsec. (c)(2). Pub. L. 88–272, §122(c)(1), substituted "any installment date" and "such installment date" for "the 15th day of the 12th month".
 
 Subsec. (d)(3). Pub. L. 88–272, §122(c)(2), redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted "(3, 5, 6, 8, 9,)" for "(6 or 8, or 9)" in subpar. (B)(ii).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 12001(b)(18), (19) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Amendment by section 13001(b)(2)(P) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Amendment by section 14401(d)(4)(A) of Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -542,7 +578,7 @@ Amendment by section 701(d)(3) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1511(c)(15) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Amendment by Pub. L. 99–499 applicable to taxable years beginning after Dec. 31, 1986, see section 516(c) of Pub. L. 99–499, set out as a note under section 26 of this title.
+Amendment by Pub. L. 99–499 applicable to taxable years beginning after Dec. 31, 1986, see section 516(c) ofPub. L. 99–499, set out as a note under section 26 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -618,7 +654,7 @@ Notwithstanding this section, in the case of a corporation with assets of not le
 
 Notwithstanding this section, in the case of a corporation with assets of not less than $1,000,000,000, any required installment of corporate estimated tax due in July, August, or September of 2012 to be increased by 0.25 percent and any required installment due in July, August, or September of 2016 to be increased by 2.75 percent, and the amount of the next required installment thereafter to be appropriately reduced to reflect the amount of the increase, see section 505 of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
 
-Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490; Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: "Notwithstanding section 6655 of the Internal Revenue Code of 1986—
+Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat.264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490; Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: "Notwithstanding section 6655 of the Internal Revenue Code of 1986—
 
 &emsp;"(1) in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
 
@@ -694,7 +730,7 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 \[Pub. L. 110–287, §3, July 29, 2008, 122 Stat. 2649, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 29, 2008\] is increased by 0.25 percentage points."\]
 
-\[Pub. L. 110–234, title XV, §15202, May 22, 2008, 122 Stat. 1500, and Pub. L. 110–246, §4(a), title XV, §15202,June 18, 2008, 122 Stat. 1664, 2262, provided that: "The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[June 18, 2008\] is increased by 7.75 percentage points." Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234, title XV, §15202, May 22, 2008, 122 Stat. 1500, and Pub. L. 110–246, §4(a), title XV, §15202, June 18, 2008, 122 Stat. 1664, 2262, provided that: "The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[June 18, 2008\] is increased by 7.75 percentage points." Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 \[Pub. L. 110–191, §4, Feb. 29, 2008, 122 Stat. 647, provided that: "The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Feb. 29, 2008\] is increased by 0.25 percentage points."\]
 
@@ -738,7 +774,7 @@ For applicability of amendment by section 701(d)(3) of Pub. L. 99–514 notwiths
 
 #### Waiver of Estimated Penalties for 1988 Underpayments Attributable to Technical and Miscellaneous Revenue Act of 1988
 
-No addition to tax to be made under this section for any period before Mar. 16, 1989, with respect to any underpayment to the extent such underpayment was created or increased by any provision of title I (§§1001 to 1019) or II (§§2001 to 2006) of Pub. L. 100–647, see section 1019(b) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 1 of this title.
+No addition to tax to be made under this section for any period before Mar. 16, 1989, with respect to any underpayment to the extent such underpayment was created or increased by any provision of title I (§§1001 to 1019) or II (§§2001 to 2006) of Pub. L. 100–647, see section 1019(b) of Pub. L. 100–647, set out as an EffectiveDate of 1988 Amendment note under section 1 of this title.
 
 #### Corporations Also May Use 1986 Tax To Determine Amount of Certain Estimated Tax Installments Due On or Before June 15, 1987
 
@@ -758,7 +794,7 @@ Large corporation.—For purposes of this subsection, the term 'large corporatio
 
 #### Waiver of Estimated Penalties for 1986 Underpayments Attributable to Tax Reform Act of 1986
 
-No addition to tax to be made under this section for any period before Mar. 16, 1987, with respect to anyunderpayment, to the extent such underpayment was created or increased by any provision of Pub. L. 99–514, see section 1543 of Pub. L. 99–514, set out as a note under section 6654 of this title.
+No addition to tax to be made under this section for any period before Mar. 16, 1987, with respect to any underpayment, to the extent such underpayment was created or increased by any provision of Pub. L. 99–514, see section 1543 of Pub. L. 99–514, set out as a note under section 6654 of this title.
 
 #### Waiver of Estimated Tax Penalties
 

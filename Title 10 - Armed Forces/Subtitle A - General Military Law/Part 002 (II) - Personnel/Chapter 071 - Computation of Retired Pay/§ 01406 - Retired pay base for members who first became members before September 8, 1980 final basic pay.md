@@ -26,7 +26,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 | --- | --- |
 | 1201120212041205 | Monthly basic pay <sup>1</sup> of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. |
 |  |  |
-| &nbsp;580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
+|  580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
 |  |  |
 | &nbsp;633 634 635 636125112521253 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
 

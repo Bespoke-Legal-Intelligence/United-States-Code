@@ -40,7 +40,7 @@
 
 &emsp;(I) by applying the criteria used in determining initial eligibility for individuals who are age 18 or older; and
 
-&emsp;(II) either during the 1-year period beginning on the individual's 18th birthday or, in lieu of a continuing disability review, whenever the Commissioner determines that an individual's case is subject to a redetermination under this clause.
+&emsp;(II) either during the 1-year period beginning on the individual's 18th birthday or, in lieu of a continuing disability review, whenever the Commissioner determines that an individual'scase is subject to a redetermination under this clause.
 
 > With respect to any redetermination under this clause, paragraph (4) shall not apply.
 
@@ -194,7 +194,7 @@ Subsec. (a)(3)(H). Pub. L. 101–508 added subpar. (H).
 
 <b>1989</b>—Subsec. (a)(1)(B). Pub. L. 101–239, §8009(b), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted ", or" for period at end, and added cl. (ii).
 
-Subsec. (b). Pub. L. 101–239, §8012(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "For purposes of this subchapter, the term 'eligible spouse' means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual and who has not been living apart from such other aged, blind, or disabled individual for more than six months."
+Subsec. (b). Pub. L. 101–239, §8012(a), amended first sentence generally. Prior to amendment, first sentenceread as follows: "For purposes of this subchapter, the term 'eligible spouse' means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual and who has not been living apart from such other aged, blind, or disabled individual for more than six months."
 
 Subsec. (f)(2). Pub. L. 101–239, §8010(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -338,7 +338,7 @@ Benefits under title xvi.—For purposes of this subsection, the term 'benefits 
 
 Pub. L. 104–193, title II, §212(d), Aug. 22, 1996, 110 Stat. 2194, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note under section 1383 of this title\] shall apply to benefits for months beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments."
 
-Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits beforeMar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before Mar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1994 Amendment
 

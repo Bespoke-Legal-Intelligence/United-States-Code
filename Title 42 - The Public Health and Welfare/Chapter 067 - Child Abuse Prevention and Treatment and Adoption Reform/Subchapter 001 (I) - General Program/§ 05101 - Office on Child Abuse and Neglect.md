@@ -6,7 +6,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 #### (b) Purpose
 
-The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 (Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
@@ -54,23 +54,11 @@ Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that:
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: "This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2010'."
-
 Pub. L. 111–320, §1, Dec. 20, 2010, 124 Stat. 3459, provided that: "This Act \[enacting chapter 110 of this title, amending sections 3796gg, 5102, 5104 to 5106a, 5106c, 5106d, 5106f, 5106g to 5106i, 5111, 5113, 5115, 5116 to 5116b, 5116d to 5116i, 5117aa, 5117aa–21, 5117aa–22, 13925, and 14214 of this title, section 707 of Title 11, Bankruptcy, and section 1435 of Title 20, Education, enacting provisions set out as notes under this section, amending provisions set out as a note under this section, repealing provisions set out as a note under section 670 of this title, and omitting provisions set out as a note under section 10401 of this title\] may be cited as the 'CAPTA Reauthorization Act of 2010'."
-
-Pub. L. 111–143, §1, Mar. 1, 2010, 124 Stat. 41, provided that: "This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2009'."
-
-#### Short Title of 2008 Amendment
-
-Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, provided that: "This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2008'."
 
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: "This Act \[see Tables for classification\] may be cited as the 'Keeping Children and Families Safe Act of 2003'."
-
-#### Short Title of 1998 Amendment
-
-Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: "This subtitle \[subtitle B (§§221, 222) of title II of Pub. L. 105–251, amending sections 5119a and 5119b of this title\] may be cited as the 'Volunteers for Children Act'."
 
 #### Short Title of 1996 Amendment
 
@@ -78,7 +66,7 @@ Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the "Howard M. Metzenbaum Multiethnic Placement Act of 1994", see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
+For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, asthe "Howard M. Metzenbaum Multiethnic Placement Act of 1994", see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
 #### Short Title of 1992 Amendment
 
@@ -104,7 +92,7 @@ Pub. L. 99–401, title I, §101, Aug. 27, 1986, 100 Stat. 903, provided that: "
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–457, §1, Oct. 9, 1984, 98 Stat. 1749, provided: "That this Act \[enacting chapter 110 of this title, amending this section and sections 5102 to 5106, 5111 to5113, and 5115 of this title, and enacting provisions set out as notes under this section and sections 5102, 5103, and 10401 of this title\] may be cited as the 'Child Abuse Amendments of 1984'."
+Pub. L. 98–457, §1, Oct. 9, 1984, 98 Stat. 1749, provided: "That this Act \[enacting chapter 110 of this title, amending this section and sections 5102 to 5106, 5111 to 5113, and 5115 of this title, and enacting provisions set out as notes under this section and sections 5102, 5103, and 10401 of this title\] may be cited as the 'Child Abuse Amendments of 1984'."
 
 #### Short Title of 1978 Amendment
 
@@ -117,8 +105,6 @@ Pub. L. 93–247, §1(a), formerly §1, Jan. 31, 1974, 88 Stat. 4, as renumbered
 For short title of title II of Pub. L. 99–401, which enacted subchapter IV of this chapter, as the "Temporary Child Care for Handicapped Children and Crisis Nurseries Act of 1986", see section 201 of Pub. L. 99–401, formerly set out as a note under section 5117 of this title.
 
 Pub. L. 100–505, §1, Oct. 18, 1988, 102 Stat. 2533, provided that: "This Act \[enacting subchapter IV–A of this chapter and provisions formerly set out as a note under section 670 of this title\] may be cited as the 'Abandoned Infants Assistance Act of 1988'."
-
-Pub. L. 103–209, §1, Dec. 20, 1993, 107 Stat. 2490, provided that: "This Act \[enacting subchapter VI of this chapter and amending section 3759 of this title\] may be cited as the 'National Child Protection Act of 1993'."
 
 #### Regulations
 
@@ -146,27 +132,11 @@ Pub. L. 100–294, title I, §106, Apr. 25, 1988, 102 Stat. 119, established a N
 
 #### Acquisition of Statistical Data
 
-Pub. L. 99–401, title I, §105, Aug. 27, 1986, 100 Stat. 906, provided that:
-
-"(a)
-
-Data Acquisition for 1987
-
-and 1988.—The Attorney General shall acquire from criminal justice agencies statistical data, for the calendar years 1987 and 1988, about the incidence of child abuse, including child sexual abuse, and shall publish annually a summary of such data.
-
-"(b)
-
-Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the Federal Bureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
-
-"(2) The modification, once made, shall remain in effect until the later of—
-
-&emsp;"(A) 10 years after the date it is made; or
-
-&emsp;"(B) such ending date as may be set by the Attorney General."
+Pub. L. 99–401, title I, §105, Aug. 27, 1986, 100 Stat. 906, which related to data acquisition by the Attorney General for 1987 and 1988 and modification of the FBI's uniform crime reporting program, was editorially reclassified as section 41302 of Title 34, Crime Control and Law Enforcement.
 
 #### Congressional Findings
 
-Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
+Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub.L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
 
 &emsp;"(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect;
 
@@ -238,7 +208,7 @@ Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20
 
 &emsp;&emsp;"(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides;
 
-&emsp;"(2) the term 'child abuse and neglect' means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;
+&emsp;"(2) the term 'child abuse and neglect' means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation (including sexual abuse as determined under section 111 \[42 U.S.C. 5106g\]), or an act or failure to act which presents an imminent risk of serious harm;
 
 &emsp;"(3) the term 'child with a disability' means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401), or an infant or toddler with a disability as defined in section 632 of such Act (20 U.S.C. 1432);
 
@@ -251,6 +221,4 @@ Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20
 &emsp;"(7) except as provided in section 106(f) \[42 U.S.C. 5106a(f)\], the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
 
 &emsp;"(8) the term 'unaccompanied homeless youth' means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a)."
-
-<i>\[Pub. L. 114–22, title VIII, §802(a), (c)(2), May 29, 2015, 129 Stat. 263, 264, provided that, effective 2 years after May 29, 2015, section 3 of Pub. L. 93–247, set out above, is amended in par. (2) by inserting "(including sexual abuse as determined under section 111 \[42 U.S.C. 5106g\])" after "sexual abuse or exploitation".\]</i>
 

@@ -68,7 +68,7 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 &emsp;&emsp;(C) the proposed funding levels to be allocated to, and the expected publication date, scope, and allocation level for, each request for applications to be published under or associated with—
 
-&emsp;&emsp;&emsp;(i) each priority area specified in subsection (b)(2) of section 450i of this title;
+&emsp;&emsp;&emsp;(i) each priority area specified in subsection (b)(2) of section 3157 of this title;
 
 &emsp;&emsp;&emsp;(ii) each research and extension project carried out under section 5811(a) of this title;
 
@@ -88,7 +88,7 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 &emsp;Unless the President submits the information described in paragraph (2)(C) for a fiscal year, the President may not carry out any program during that fiscal year that is authorized under—
 
-&emsp;&emsp;(A) subsection (b) of section 450i of this title;
+&emsp;&emsp;(A) subsection (b) of section 3157 of this title;
 
 &emsp;&emsp;(B) section 5811 of this title;
 

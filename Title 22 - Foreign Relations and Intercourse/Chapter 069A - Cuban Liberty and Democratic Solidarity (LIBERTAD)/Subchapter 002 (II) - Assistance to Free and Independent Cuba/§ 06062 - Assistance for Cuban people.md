@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President shall develop a plan for providing economic assistance to Cuba at such time as the President determines that a transition government or a democratically electedgovernment in Cuba (as determined under section 6063(c) of this title) is in power.
+&emsp;The President shall develop a plan for providing economic assistance to Cuba at such time as the President determines that a transition government or a democratically elected government in Cuba (as determined under section 6063(c) of this title) is in power.
 
 #### (2) Effect on other laws
 
@@ -116,7 +116,7 @@ The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 19
 
 This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978,as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 

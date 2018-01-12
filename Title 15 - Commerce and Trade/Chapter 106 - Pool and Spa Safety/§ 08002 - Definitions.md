@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) Swimming pool; spa
 
-&emsp;The term "swimming pool" or "spa" means any outdoor or indoor structure intended for swimming or recreational bathing, including in-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
+&emsp;The term "swimming pool" or "spa" means any outdoor or indoor structure intended for swimming or recreational bathing, includingin-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
 
 #### (7) Unblockable drain
 

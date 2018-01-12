@@ -28,7 +28,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub.L. 101–508, set out as a note under section 4221 of this title.
+Amendment by Pub. L. 101–508 effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as a note under section 4221 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -44,7 +44,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall award a priority review voucher to the sponsor of a rare pediatric disease product application upon approval by the Secretary of such rare pediatric disease product application.
+&emsp;The Secretary shall award a priority review voucher to the sponsor of a rare pediatric disease product application upon approval by theSecretary of such rare pediatric disease product application.
 
 #### (2) Transferability
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (3) Annual fee setting
 
-&emsp;The Secretary shall establish, before the beginning of each fiscal year beginning afterSeptember 30, 2012, the amount of the priority review user fee for that fiscal year.
+&emsp;The Secretary shall establish, before the beginning of each fiscal year beginning after September 30, 2012, the amount of the priority review user fee for that fiscal year.
 
 #### (4) Payment
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (g) Eligibility for other programs
 
-Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any sectionof this chapter with respect to the drug for which the application is made..<sup>2</sup>
+Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..<sup>2</sup>
 
 #### (h) Relation to other provisions
 

@@ -36,7 +36,7 @@
 
 &emsp;(5) "fund" means the appropriate fund established under section 1305 of this title;
 
-&emsp;(6) "basic benefits" means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or under section 1322a of this title (other than under section 1322a(g) of this title);
+&emsp;(6) "basic benefits" means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or undersection 1322a of this title (other than under section 1322a(g) of this title);
 
 &emsp;(7) "non-basic benefits" means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
-(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.)
+(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.)
 
 #### References in Text
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974
 

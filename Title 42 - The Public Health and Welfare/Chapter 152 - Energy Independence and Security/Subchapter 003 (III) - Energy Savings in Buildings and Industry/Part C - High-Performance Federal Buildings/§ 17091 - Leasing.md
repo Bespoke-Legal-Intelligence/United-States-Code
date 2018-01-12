@@ -40,7 +40,7 @@ Except as provided in subsection (b), effective beginning on the date that is 3 
 
 #### (2) Consultation
 
-&emsp;The members of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+&emsp;The members of the Federal Acquisition Regulatory Council established under section1302(a) of title 41 shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
 (Pub. L. 110–140, title IV, §435, Dec. 19, 2007, 121 Stat. 1615; Pub. L. 114–11, title III, §301(a), Apr. 30, 2015, 129 Stat. 189.)
 
@@ -53,4 +53,8 @@ In subsec. (c)(2), "section 1302(a) of title 41" substituted for "section 25 of 
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(2). Pub. L. 114–11 substituted "paragraph (1) is met" for "paragraph (2) is met" and "signing the contract, the following requirements are met:" for "signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems." and added subpars. (A) and (B).
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

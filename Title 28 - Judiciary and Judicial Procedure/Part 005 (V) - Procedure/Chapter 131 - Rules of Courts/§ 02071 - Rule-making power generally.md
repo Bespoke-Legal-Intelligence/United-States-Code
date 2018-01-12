@@ -8,7 +8,7 @@
 
 (2) Any other rule prescribed by a court other than the Supreme Court under subsection (a) shall remain in effect unless modified or abrogated by the Judicial Conference.
 
-(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Courtunder subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
+(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
 
 (e) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
 
@@ -70,9 +70,9 @@ Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: "Nothing in th
 
 #### Tax Court Rulemaking Not Affected
 
-Pub. L. 100–702, title IV, §405, Nov. 19, 1988, 102 Stat. 4652, provided that: "The amendments made by thistitle \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\]."
+Pub. L. 100–702, title IV, §405, Nov. 19, 1988, 102 Stat. 4652, provided that: "The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\]."
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F,Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 

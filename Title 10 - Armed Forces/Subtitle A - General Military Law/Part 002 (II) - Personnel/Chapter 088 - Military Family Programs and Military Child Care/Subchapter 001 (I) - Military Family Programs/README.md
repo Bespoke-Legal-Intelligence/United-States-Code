@@ -14,12 +14,15 @@
 | [1786\.](%C2%A7%2001786%20-%20Dependent%20student%20travel%20within%20the%20United%20States.md) | Dependent student travel within the United States. |
 | [1787\.](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md) | Reporting of child abuse. |
 | [1788\.](%C2%A7%2001788%20-%20Additional%20family%20assistance.md) | Additional family assistance. |
+| [1788a.](%C2%A7%2001788a%20-%20Family%20support%20programs%20immediate%20family%20members%20of%20members%20of%20special%20operations%20forces.md) | Family support programs: immediate family members of members of special operations forces. |
 | [1789\.](%C2%A7%2001789%20-%20Chaplain-led%20programs%20authorized%20support.md) | Chaplain-led programs: authorized support. |
 | [1790\.](%C2%A7%2001790%20-%20Military%20personnel%20citizenship%20processing.md) | Military personnel citizenship processing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. A, title V, §555(e), Dec. 12, 2017, 131 Stat. 1403, added item 1788a.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title IX, §933(a)(4)(B), (b)(5)(B), Dec. 23, 2016, 130 Stat. 2364, 2365, substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" in item 1781 and "Office of Special Needs" for "Office of Community Support for Military Families With Special Needs" in item 1781c.
 
@@ -52,5 +55,6 @@ Pub. L. 110–181, div. A, title V, §581(d), Jan. 28, 2008, 122 Stat. 122, adde
 - [&sect; 01786 - Dependent student travel within the United States](%C2%A7%2001786%20-%20Dependent%20student%20travel%20within%20the%20United%20States.md)
 - [&sect; 01787 - Reporting of child abuse](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md)
 - [&sect; 01788 - Additional family assistance](%C2%A7%2001788%20-%20Additional%20family%20assistance.md)
+- [&sect; 01788a - Family support programs immediate family members of members of special operations forces](%C2%A7%2001788a%20-%20Family%20support%20programs%20immediate%20family%20members%20of%20members%20of%20special%20operations%20forces.md)
 - [&sect; 01789 - Chaplain-led programs authorized support](%C2%A7%2001789%20-%20Chaplain-led%20programs%20authorized%20support.md)
 - [&sect; 01790 - Military personnel citizenship processing](%C2%A7%2001790%20-%20Military%20personnel%20citizenship%20processing.md)

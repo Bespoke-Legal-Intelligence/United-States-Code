@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the President, at least 90 calendar days before the day on which the President enters into the trade agreement, notifies the House of Representatives and the Senate of the President's intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
-&emsp;&emsp;(B) within 60 days after entering into the agreement, the President submits to the Congress a description of those changes to existing laws that the President considers would be required in order to bring theUnited States into compliance with the agreement;
+&emsp;&emsp;(B) within 60 days after entering into the agreement, the President submits to the Congress a description of those changes to existing laws that the President considers would be required in order to bring the United States into compliance with the agreement;
 
 &emsp;&emsp;(C) after entering into the agreement, the President submits to the Congress, on a day on which both Houses of Congress are in session, a copy of the final legal text of the agreement, together with—
 
@@ -180,7 +180,7 @@ Textile or apparel good.—The term 'textile or apparel good' means a good liste
 
 "(a)
 
-Approval of Agreement and Statement of Administrative Action.—Pursuant to section 2105 of theBipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3805) and section 151 of the Trade Act of 1974 (19 U.S.C. 2191), Congress approves—
+Approval of Agreement and Statement of Administrative Action.—Pursuant to section 2105 of the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3805) and section 151 of the Trade Act of 1974 (19 U.S.C. 2191), Congress approves—
 
 &emsp;"(1) the United States–Panama Trade Promotion Agreement entered into on June 28, 2007, with the Government of Panama and submitted to Congress on October 3, 2011; and
 
@@ -216,7 +216,7 @@ Relationship of Agreement to State Law.—
 
 &emsp;"(1)
 
-Legal challenge.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+Legal challenge.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provisionor application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 &emsp;"(2)
 
@@ -446,7 +446,7 @@ Additional Duties on Safeguard Goods.—
 
 &emsp;"(1)
 
-In general.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, theSecretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good that is imported into the United States in that calendar year exceeds the trigger level for that good for that calendar year.
+In general.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good that is imported into the United States in that calendar year exceeds the trigger level for that good for that calendar year.
 
 &emsp;"(2)
 
@@ -739,7 +739,7 @@ Nonoriginating material.—The following expenses, if included in the value of a
 
 &emsp;&emsp;&emsp;"(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Panama, the United States, or both, to the location of the producer.
 
-&emsp;&emsp;&emsp;"(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Panama, the United States, or both, other than duties ortaxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+&emsp;&emsp;&emsp;"(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Panama, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
 
 &emsp;&emsp;&emsp;"(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
 
@@ -979,7 +979,7 @@ Good wholly obtained or produced entirely in the territory of panama, the united
 
 &emsp;&emsp;"(H)(i) Goods taken by Panama or a person of Panama from the seabed or subsoil outside the territorial waters of Panama, if Panama has rights to exploit such seabed or subsoil.
 
-&emsp;&emsp;"(ii) Goods taken by the United States or a person of the United States from the seabed or subsoiloutside the territorial waters of the United States, if the United States has rights to exploit such seabed or subsoil.
+&emsp;&emsp;"(ii) Goods taken by the United States or a person of the United States from the seabed or subsoil outside the territorial waters of the United States, if the United States has rights to exploit such seabed or subsoil.
 
 &emsp;&emsp;"(I) Goods taken from outer space, if the goods are obtained by Panama or the United States or a person of Panama or the United States and not processed in the territory of a country other than Panama or the United States.
 
@@ -1123,7 +1123,7 @@ Fabrics, yarns, or fibers not available in commercial quantities in panama and t
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding paragraph (3)(A), the list of fabrics, yarns, and fibers set forthin Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
+In general.—Notwithstanding paragraph (3)(A), the list of fabrics, yarns, and fibers set forth in Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
 
 &emsp;&emsp;"(B)
 
@@ -1501,7 +1501,7 @@ Exception.—If an article for which relief is provided under this subtitle is a
 
 #### "SEC. 315. COMPENSATION AUTHORITY.
 
-"For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 313 shall be treated as action taken under chapter 1 of title II of such Act (19 U.S.C. 2251 et seq.).
+"For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 313 shall be treated as action takenunder chapter 1 of title II of such Act (19 U.S.C. 2251 et seq.).
 
 #### "SEC. 316. CONFIDENTIAL BUSINESS INFORMATION.
 
@@ -1609,7 +1609,7 @@ Effect of Imports.—If, in any investigation initiated under chapter 1 of title
 
 "(b)
 
-Presidential Determination Regarding Imports of Panamanian Articles.—In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the President may exclude from the action Panamanian articles with respect to which the Commission has made a negative finding under subsection (a).
+Presidential Determination Regarding Imports of Panamanian Articles.—In determining thenature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the President may exclude from the action Panamanian articles with respect to which the Commission has made a negative finding under subsection (a).
 
 #### "TITLE IV—MISCELLANEOUS
 
@@ -1819,7 +1819,7 @@ Authorization of Appropriations.—There are authorized to be appropriated for e
 
 "(a)
 
-Effective Dates.—Except as provided in subsection (b) and title V, this Act and the amendments made by this Act take effect on the date on which the Agreement enters into force \[May 15, 2012\].
+Effective Dates.—Except as provided in subsection (b) and title V, this Act and the amendmentsmade by this Act take effect on the date on which the Agreement enters into force \[May 15, 2012\].
 
 "(b)
 
@@ -2122,7 +2122,7 @@ Automotive good.—The term 'automotive good' means a good provided for in any o
 
 &emsp;&emsp;&emsp;"(iii) NC.—The term 'NC' means the net cost of the automotive good.
 
-&emsp;&emsp;&emsp;"(iv) VNM.—The term 'VNM' means the value of nonoriginating materials that are acquired and used by the producer in the production of theautomotive good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;"(iv) VNM.—The term 'VNM' means the value of nonoriginating materials that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
 
 &emsp;&emsp;"(C)
 
@@ -2256,7 +2256,7 @@ In general.—Except as provided in paragraphs (2) and (3), a good that does not
 
 Exceptions.—Paragraph (1) does not apply to the following:
 
-&emsp;&emsp;"(A) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that is used in the production of a good provided for in chapter 4.
+&emsp;&emsp;"(A) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that isused in the production of a good provided for in chapter 4.
 
 &emsp;&emsp;"(B) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90, that is used in the production of any of the following goods:
 
@@ -2378,7 +2378,7 @@ Indirect Materials.—An indirect material shall be treated as an originating ma
 
 Transit and Transhipment.—A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good—
 
-&emsp;"(1) undergoes further production or any other operation outside the territory of Colombia or the United States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of Colombia or the United States; or
+&emsp;"(1) undergoes further production or any other operation outside the territory of Colombia or theUnited States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of Colombia or the United States; or
 
 &emsp;"(2) does not remain under the control of customs authorities in the territory of a country other than Colombia or the United States.
 
@@ -2614,7 +2614,7 @@ In general.—Subject to the consultation and layover provisions of section 104,
 
 &emsp;&emsp;"(B)
 
-Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, thePresident may proclaim before the end of the 1-year period beginning on the date on which the Agreement enters into force \[May 15, 2012\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 3-A of the Agreement).
+Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim before the end of the 1-year period beginning on the date on which the Agreement enters into force \[May 15, 2012\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 3-A of the Agreement).
 
 &emsp;"(4)
 
@@ -2654,7 +2654,7 @@ Determination.—After receiving a request under clause (i), the President may d
 
 &emsp;&emsp;&emsp;"(iii)
 
-Proclamation authority.—The President may, within the time periods specified in clause (iv), proclaim that the fabric, yarn, or fiber that is the subject of the request is added to the list in Annex 3-B of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President has determined under clause (ii) that—
+Proclamation authority.—The President may, within the time periods specified in clause\(iv), proclaim that the fabric, yarn, or fiber that is the subject of the request is added to the list in Annex 3-B of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President has determined under clause (ii) that—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in Colombia and the United States; or
 
@@ -2752,7 +2752,7 @@ In general.—If the Secretary of the Treasury requests the Government of Colomb
 
 Determination.—A determination under this paragraph is a determination of the Secretary that—
 
-&emsp;&emsp;"(A) an exporter or producer in Colombia is complying with applicable customs laws, regulations,and procedures regarding trade in textile or apparel goods, or
+&emsp;&emsp;"(A) an exporter or producer in Colombia is complying with applicable customs laws, regulations, and procedures regarding trade in textile or apparel goods, or
 
 &emsp;&emsp;"(B) a claim that a textile or apparel good exported or produced by such exporter or producer—
 
@@ -2998,7 +2998,7 @@ General Rule.—Subject to subsection (b), no import relief may be provided unde
 
 "(b)
 
-Exception.—If an article for which relief is provided under this subtitle is an article for which the period for tariff elimination, set forth in the Schedule of the United States to Annex 2.3 of the Agreement, is greater than 10 years, no relief under this subtitle may be provided for that article after the date on which that period ends.
+Exception.—If an article for which relief is provided under this subtitle is an article for which the period for tariff elimination, set forth in the Schedule of the United States to Annex 2.3 of the Agreement, is greater than 10 years, no relief under this subtitle maybe provided for that article after the date on which that period ends.
 
 #### "SEC. 315. COMPENSATION AUTHORITY.
 
@@ -3110,7 +3110,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 "(a)
 
-Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the Colombian article are a substantial cause of serious injury or threat thereof.
+Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)), the Commission shall also find (and report to the President at the time such injury determination is submitted to thePresident) whether imports of the Colombian article are a substantial cause of serious injury or threat thereof.
 
 "(b)
 
@@ -3202,11 +3202,11 @@ Effective Date.—This section and the amendments made by this section shall app
 
 \[Section 603 of Pub. L. 112–42, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note under section 6655 of Title 26, Internal Revenue Code.\]
 
-\[Proc. No. 8818, May 14, 2012, 77 F.R. 29519, provided in par. (6) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Colombia Trade Promotion Agreement Implementation Act (Implementation Act) (Pub. L. 112–42, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (7) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 203(o) of the Implementation Act to determine that a fabric, yarn, or fiber is or is not available in commercial quantities in a timely manner in Colombia and the United States, toestablish procedures governing the request for any such determination and ensuring appropriate public participation in any such determination, to add any fabric, yarn, or fiber determined to be not available in commercial quantities in a timely manner in Colombia and the United States to the list in Annex 3–B (not set out in the Code) of the Agreement, or to remove from the list in Annex 3–B of the Agreement any fabric, yarn, or fiber that the President has previously added to that list; in par. (8) that the CITA is authorized to exercise the authority of the President under section 208 of the Implementation Act to direct the exclusion of certain textile and apparel goods from the customs territory of the United States and to direct the denial of preferential tariff treatment to textile and apparel goods; in par. (9) that the CITA is authorized to exercise the functions of the President under subtitle B of title III of the Implementation Act to review requests, and to determine whether to commence consideration of such requests, after an appropriate determination, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Colombian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of an affirmative determination as to damage or threat; and in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the Implementation Act to obtain advice from the appropriate advisory committees and the Commission on the proposed implementation of an action by Presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
+\[Proc. No. 8818, May 14, 2012, 77 F.R. 29519, provided in par. (6) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Colombia Trade Promotion Agreement Implementation Act (Implementation Act) (Pub. L. 112–42, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (7) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 203(o) of the Implementation Act to determine that a fabric, yarn, or fiber is or is not available in commercial quantities in a timely manner in Colombia and the United States, to establish procedures governing the request for any such determination and ensuring appropriate public participation in any such determination, to add any fabric, yarn, or fiber determined to be not available in commercial quantities in a timely manner in Colombia and the United States to the list in Annex 3–B (not set out in the Code) of the Agreement, or to remove from the list in Annex 3–B of the Agreement any fabric, yarn, or fiber that the President has previously added to that list; in par. (8) that the CITA is authorized to exercise the authority of the President under section 208 of the Implementation Act to direct the exclusion of certain textile and apparel goods from the customs territory of the United States and to direct the denial of preferential tariff treatment to textile and apparel goods; in par. (9) that the CITA is authorized to exercise the functions of the President under subtitle B of title III of the Implementation Act to review requests, and to determine whether to commence consideration of such requests, after an appropriate determination, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Colombian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of an affirmative determination as to damage or threat; and in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the Implementation Act to obtain advice from the appropriate advisory committees and the Commission on the proposed implementation of an action by Presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
 
 #### United States–Korea Free Trade Agreement Implementation Act
 
-Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§801(b), 802(b), June 29, 2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, §920(b), Feb. 24, 2016, 130 Stat. 281, provided that:
+Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§801(b), 802(b), June 29,2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, §920(b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–31, div. M, title I, §105(b), May 5, 2017, 131 Stat. 804, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -3482,7 +3482,7 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;"(A) the term 'year 1 of the Agreement' means the period beginning on the date, in a calendar year, on which the Agreement enters into force \[Mar. 15, 2012\] and ending on December 31 of that calendar year; and
 
-&emsp;&emsp;"(B) the terms 'year 2 of the Agreement', 'year 3 of the Agreement', 'year 4 of the Agreement', 'year 5 of the Agreement', 'year 6 of the Agreement', 'year 7 of the Agreement', 'year 8 of the Agreement', and 'year 9 of the Agreement' mean the second, third, fourth, fifth, sixth, seventh, eighth, and ninth calendar years, respectively, in which the Agreement is in force.
+&emsp;&emsp;"(B) the terms 'year 2 of the Agreement', 'year 3 of the Agreement', 'year 4 of the Agreement', 'year5 of the Agreement', 'year 6 of the Agreement', 'year 7 of the Agreement', 'year 8 of the Agreement', and 'year 9 of the Agreement' mean the second, third, fourth, fifth, sixth, seventh, eighth, and ninth calendar years, respectively, in which the Agreement is in force.
 
 #### "SEC. 202. RULES OF ORIGIN.
 
@@ -3777,7 +3777,7 @@ Exceptions.—Paragraph (1) does not apply to the following:
 
 &emsp;&emsp;"(B) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that is used in the production of a good provided for in chapter 4.
 
-&emsp;&emsp;"(C) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90, that is used in the production of any of the following goods:
+&emsp;&emsp;"(C) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparationcontaining over 10 percent by weight of milk solids provided for in subheading 1901.90, that is used in the production of any of the following goods:
 
 &emsp;&emsp;&emsp;"(i) Infant preparations containing over 10 percent by weight of milk solids provided for in subheading 1901.10.
 
@@ -3895,7 +3895,7 @@ Indirect Materials.—An indirect material shall be disregarded in determining w
 
 Transit and Transhipment.—A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good—
 
-&emsp;"(1) undergoes further production or any other operation outside the territory of Korea or the United States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of Korea or the United States; or
+&emsp;"(1) undergoes further production or any other operation outside the territory of Korea or the United States, other than unloading, reloading, or any otheroperation necessary to preserve the good in good condition or to transport the good to the territory of Korea or the United States; or
 
 &emsp;"(2) does not remain under the control of customs authorities in the territory of a country other than Korea or the United States.
 
@@ -4131,7 +4131,7 @@ Additional proclamations.—Notwithstanding subparagraph (A), and subject to the
 
 &emsp;&emsp;&emsp;"(i) such modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with Korea pursuant to article 4.2.5 of the Agreement; and
 
-&emsp;&emsp;&emsp;"(ii) before the end of the 1-year period beginning on the date on which the Agreement enters into force \[Mar. 15, 2012\], modifications to correctany typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 4-A of the Agreement).
+&emsp;&emsp;&emsp;"(ii) before the end of the 1-year period beginning on the date on which the Agreement enters into force \[Mar. 15, 2012\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 4-A of the Agreement).
 
 &emsp;"(3)
 
@@ -4171,7 +4171,7 @@ Determination.—After receiving a request under clause (i), the President may d
 
 &emsp;&emsp;&emsp;"(iii)
 
-Proclamation authority.—The President may, within the time periods specified in clause (iv), proclaim that the fiber, yarn, or fabric that is the subject of the request is added to the list of the United States in Appendix 4-B-1 of the Agreement, if the President has determined under clause (ii) that—
+Proclamation authority.—The President may, within the time periods specified in clause (iv), proclaim that the fiber, yarn, or fabric that is the subject of the request is added to the list ofthe United States in Appendix 4-B-1 of the Agreement, if the President has determined under clause (ii) that—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the fiber, yarn, or fabric is not available in commercial quantities in a timely manner in the United States; or
 
@@ -4273,7 +4273,7 @@ Appropriate Action Described.—Appropriate action under subsection (a)(1) inclu
 
 "(c)
 
-Action When Information Is Insufficient.—If the Secretary of the Treasury determines that the information obtained within 12 months after making a request for a verification under subsection (a)(1) is insufficient to make a determination under subsection (a)(2), the President may direct the Secretary to takeappropriate action described in subsection (d) until such time as the Secretary receives information sufficient to make the determination under subsection (a)(2) or until such earlier date as the President may direct.
+Action When Information Is Insufficient.—If the Secretary of the Treasury determines that the information obtained within 12 months after making a request for a verification under subsection (a)(1) is insufficient to make a determination under subsection (a)(2), the President may direct the Secretary to take appropriate action described in subsection (d) until such time as the Secretary receives information sufficient to make the determination under subsection (a)(2) or until such earlier date as the President may direct.
 
 "(d)
 
@@ -4301,7 +4301,7 @@ Publication of Name of Person.—In accordance with article 4.3.11 of the Agreem
 
 "(f)
 
-Certificate of Eligibility.—The Commissioner responsible for U.S. Customs and Border Protection of the Department of Homeland Security may require an importer to submit at the time the importer files a claim for preferential tariff treatment under Annex 4-B of the Agreement a certificate of eligibility, properly completed and signed by an authorized official of the Government of Korea.
+Certificate of Eligibility.—The Commissioner responsible for U.S. Customs and Border Protection of the Department of Homeland Security may require an importer to submit at the time the importer files a claim for preferential tariff treatment under Annex 4-B of the Agreement a certificate of eligibility, properlycompleted and signed by an authorized official of the Government of Korea.
 
 "(g)
 
@@ -4399,7 +4399,7 @@ In general.—If the determination made by the Commission under subsection (a) w
 
 &emsp;"(2)
 
-Limitation on relief.—The import relief recommended by the Commission under this subsectionshall be limited to the relief described in section 313(c).
+Limitation on relief.—The import relief recommended by the Commission under this subsection shall be limited to the relief described in section 313(c).
 
 &emsp;"(3)
 
@@ -4423,7 +4423,7 @@ Public Notice.—Upon submitting a report to the President under subsection (d),
 
 "(a)
 
-In General.—Not later than the date that is 30 days after the date on which the President receives a report of the Commission in which the Commission's determination under section 312(a) is affirmative, or which contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
+In General.—Not later than the date that is 30 days after the date on which the President receives a report of the Commission in which the Commission's determination under section 312(a) is affirmative, orwhich contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
 
 "(b)
 
@@ -4641,7 +4641,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 #### "SEC. 335. RATE AFTER TERMINATION OF IMPORT RELIEF.
 
-"On the date on which import relief under this subtitle is terminated with respect to an article, the rateof duty on that article shall be the rate that would have been in effect but for the provision of such relief.
+"On the date on which import relief under this subtitle is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect but for the provision of such relief.
 
 #### "SEC. 336. TERMINATION OF RELIEF AUTHORITY.
 
@@ -4661,7 +4661,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 "(a)
 
-Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d))), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the Korean article are a substantial cause of serious injury or threat thereof.
+Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the Commission makes an affirmative determination (or a determination whichthe President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d))), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the Korean article are a substantial cause of serious injury or threat thereof.
 
 "(b)
 
@@ -4697,7 +4697,7 @@ Clerical Amendment.—\[Amended analysis of subchapter B of chapter 61 of Title 
 
 #### "SEC. 503. RATE FOR MERCHANDISE PROCESSING FEES.
 
-"For the period beginning on December 1, 2015, and ending on September 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—
+"For the period beginning on December 1, 2015, and ending on January 14, 2026, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered—
 
 &emsp;"(1) in subparagraph (A), by substituting '0.3464' for '0.21'; and
 
@@ -4853,7 +4853,7 @@ Waiver of 15-day restriction.—The 15-day restriction contained in paragraph (2
 
 "(b)
 
-Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions requiredby or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 #### "SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -4975,7 +4975,7 @@ Safeguard good.—The term 'safeguard good' means a good—
 
 &emsp;&emsp;"(A) that is included in the Schedule of the United States to Annex 2.18 of the Agreement;
 
-&emsp;&emsp;"(B) that qualifies as an originating good under section 203, except that operations performed in ormaterial obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, a country that is not a party to the Agreement; and
+&emsp;&emsp;"(B) that qualifies as an originating good under section 203, except that operations performed in or material obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, a country that is not a party to the Agreement; and
 
 &emsp;&emsp;"(C) for which a claim for preferential tariff treatment under the Agreement has been made.
 
@@ -5174,7 +5174,7 @@ Automotive good.—The term 'automotive good' means a good provided for in any o
 
 &emsp;&emsp;&emsp;"(iii) NC.—The term 'NC' means the net cost of the automotive good.
 
-&emsp;&emsp;&emsp;"(iv) VNM.—The term 'VNM' means the value of nonoriginating materials that are acquired and used by the producer in the production of theautomotive good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;"(iv) VNM.—The term 'VNM' means the value of nonoriginating materials that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
 
 &emsp;&emsp;"(C)
 
@@ -5200,7 +5200,7 @@ Categories.—A category is described in this clause if it—
 
 &emsp;&emsp;"(D)
 
-Other automotive goods.—For purposes of determining the regional value-content under subparagraph (A) for automotive materials provided for in any of subheadings 8407.31 through 8407.34, in subheading 8408.20, or in heading 8409, 8706, 8707, or 8708, that are produced in the same plant, an importer, exporter, or producer may—
+Other automotive goods.—For purposes of determining the regional value-content under subparagraph (A) for automotive materials providedfor in any of subheadings 8407.31 through 8407.34, in subheading 8408.20, or in heading 8409, 8706, 8707, or 8708, that are produced in the same plant, an importer, exporter, or producer may—
 
 &emsp;&emsp;&emsp;"(i) average the amounts calculated under the formula contained in subparagraph (A) over—
 
@@ -5276,7 +5276,7 @@ Accumulation.—
 
 &emsp;"(1)
 
-Originating materials used in production of goods of another country.—Originating materialsfrom the territory of Peru or the United States that are used in the production of a good in the territory of the other country shall be considered to originate in the territory of such other country.
+Originating materials used in production of goods of another country.—Originating materials from the territory of Peru or the United States that are used in the production of a good in the territory of the other country shall be considered to originate in the territory of such other country.
 
 &emsp;"(2)
 
@@ -5308,7 +5308,7 @@ In general.—Except as provided in paragraphs (2) and (3), a good that does not
 
 Exceptions.—Paragraph (1) does not apply to the following:
 
-&emsp;&emsp;"(A) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that is used in the production of a good provided for in chapter 4.
+&emsp;&emsp;"(A) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that isused in the production of a good provided for in chapter 4.
 
 &emsp;&emsp;"(B) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90, that is used in the production of any of the following goods:
 
@@ -5662,7 +5662,7 @@ In general.—Subject to the consultation and layover provisions of section 104,
 
 &emsp;&emsp;"(B)
 
-Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim before the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 14, 2007\], modifications to correct anytypographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 3–A of the Agreement).
+Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim before the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 14, 2007\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 3–A of the Agreement).
 
 &emsp;"(4)
 
@@ -5788,7 +5788,7 @@ Appropriate Action Described.—Appropriate action under subsection (a)(1) inclu
 
 &emsp;"(1) suspension of preferential tariff treatment under the Agreement with respect to—
 
-&emsp;&emsp;"(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliancedescribed in subsection (a)(2)(A), if the Secretary determines that there is insufficient information to support any claim for preferential tariff treatment that has been made with respect to any such good; or
+&emsp;&emsp;"(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A), if the Secretary determines that there is insufficient information to support any claim for preferential tariff treatment that has been made with respect to any such good; or
 
 &emsp;&emsp;"(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to support that claim;
 
@@ -5800,7 +5800,7 @@ Appropriate Action Described.—Appropriate action under subsection (a)(1) inclu
 
 &emsp;"(3) detention of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines that there is insufficient information to determine the country of origin of any such good; and
 
-&emsp;"(4) denial of entry into the United States of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines that the person has provided incorrect information as to the country of origin of any such good.
+&emsp;"(4) denial of entry into the United States of any textile or apparel good exported or produced by theperson that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines that the person has provided incorrect information as to the country of origin of any such good.
 
 "(c)
 
@@ -6122,7 +6122,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 #### "SEC. 328. CONFIDENTIAL BUSINESS INFORMATION.
 
-"The President may not release information received in connection with an investigation or determinationunder this subtitle which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the President, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information, the party shall also provide a nonconfidential version of the information in which the confidential business information is summarized or, if necessary, deleted.
+"The President may not release information received in connection with an investigation or determination under this subtitle which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the President, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information, the party shall also provide a nonconfidential version of the information in which the confidential business information is summarized or, if necessary, deleted.
 
 #### "Subtitle C—Cases Under Title II of the Trade Act of 1974
 
@@ -6224,7 +6224,7 @@ Termination of appropriate action.—Any action under paragraph (7)(B) shall ter
 
 &emsp;"(9)
 
-Failure to provide verification report.—If the Committee determines that the Government ofPeru has failed to provide a verification report, as required by paragraph 12 of Annex 18.3.4 of the Agreement, the Committee may take such action with respect to the relevant exporter's timber products as the Committee considers appropriate, including any action described in paragraph (7).
+Failure to provide verification report.—If the Committee determines that the Government of Peru has failed to provide a verification report, as required by paragraph 12 of Annex 18.3.4 of the Agreement, the Committee may take such action with respect to the relevant exporter's timber products as the Committee considers appropriate, including any action described in paragraph (7).
 
 "(d)
 
@@ -6248,7 +6248,7 @@ Other laws.—Nothing in this section supersedes or limits in any manner the fun
 
 &emsp;"(3)
 
-Effect of determination.—No determination under this section shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any law administered by the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Homeland Security, or the Secretary of the Treasury.
+Effect of determination.—No determination under this section shall preclude any proceeding or beconsidered determinative of any issue of fact or law in any proceeding under any law administered by the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Homeland Security, or the Secretary of the Treasury.
 
 "(g)
 
@@ -6290,7 +6290,7 @@ Timing of Report.—The United States Trade Representative shall report to the C
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
 
-\[Proc. No. 8341, Jan. 16, 2009, 74 F.R. 4105, provided in par. (4) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Peru Trade Promotion Agreement Implementation Act (Implementation Act) (Pub. L. 110–138, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the United States Trade Representative (USTR) is authorized to exercise the authority of the President under section 201(d) of the Implementation Act to take such action as may be necessary in implementing the tariff-rate quotas set forth in Appendix I to the Schedule of the United States to Annex 2.3 (not set out in the Code) of the United States-Peru Trade Promotion Agreement (Agreement) to ensure that imports of agricultural goods do not disrupt the orderly marketing of commodities in the United States, which action is set forth in Annex I of Publication 4058 (not set out in the Code); in par. (6) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 203(o) of the Implementation Act to determine that a fabric, yarn, or fiber is or is not available in commercial quantities in a timely manner in the United States and Peru, to establish procedures governing the request for any such determination and ensuring appropriate public participation in any such determination, to add any fabric, yarn, or fiber determined to be not available in commercial quantities in a timely manner in the United States and Peru to the list in Annex 3–B (not set out in the Code) of the Agreement in a restricted or unrestricted quantity, to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3–B in a restricted quantity, and to restrict the quantity of, or remove from the list in Annex 3–B, certain fabrics, yarns, or fibers; in par. (7) that the CITA is authorized to exercise the authority of the President under section 208 of the Implementation Act to exclude certain textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of, and capability to produce, goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; in par. (8) that the CITA is authorized to exercise the functions of the President under subtitle B of title III of the Implementation Act to review requests, and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Peruvian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination; and in par. (10) that the USTR is authorized to fulfill the obligations of the President under section 104 of the Implementation Act to obtain advice from the appropriate advisory committees and the United StatesInternational Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
+\[Proc. No. 8341, Jan. 16, 2009, 74 F.R. 4105, provided in par. (4) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Peru Trade Promotion Agreement Implementation Act (Implementation Act) (Pub. L. 110–138, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the United States Trade Representative (USTR) is authorized to exercise the authority of the President under section 201(d) of the Implementation Act to take such action as may be necessary in implementing the tariff-rate quotas set forth in Appendix I to the Schedule of the United States to Annex 2.3 (not set out in the Code) of the United States-Peru Trade Promotion Agreement (Agreement) to ensure that imports of agricultural goods do not disrupt the orderly marketing of commodities in the United States, which action is set forth in Annex I of Publication 4058 (not set out in the Code); in par. (6) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 203(o) of the Implementation Act to determine that a fabric, yarn, or fiber is or is not available in commercial quantities in a timely manner in the United States and Peru, to establish procedures governing the request for any such determination and ensuring appropriate public participation in any such determination, to add any fabric, yarn, or fiber determined to be not available in commercial quantities in a timely manner in the United States and Peru to the list in Annex 3–B (not set out in the Code) of the Agreement in a restricted or unrestricted quantity, to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3–B in a restricted quantity, and to restrict the quantity of, or remove from the list in Annex 3–B, certain fabrics, yarns, or fibers; in par. (7) that the CITA is authorized to exercise the authority of the President under section 208 of the Implementation Act to exclude certain textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of, and capability to produce, goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; in par. (8) that the CITA is authorized to exercise the functions of the President under subtitle B of title III of the Implementation Act to review requests, and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Peruvian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination; and in par. (10) that the USTR is authorized to fulfill the obligations of the President under section 104 of the Implementation Act to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
 
 \[Memorandum of President of the United States, May 1, 2009, 74 F.R. 20865, established the Interagency Committee on Trade in Timber Products from Peru pursuant to section 501 of Pub. L. 110–138, set out above, provided that the function of the President in section 501(h) of Pub. L. 110–138 is assigned to the United States Trade Representative, and directed the Secretaries of the Treasury, the Interior, Agriculture, and Homeland Security to issue, in consultation with the United States Trade Representative, such regulations and other measures as necessary or appropriate to implement section 501 of Pub. L. 110–138.\]
 
@@ -6420,7 +6420,7 @@ Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the t
 
 "(b)
 
-Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in thestatement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 #### "SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -6942,7 +6942,7 @@ Articles Exempt From Investigation.—No investigation may be initiated under th
 
 "(a)
 
-Determination.—Not later than 120 days after the date on which an investigation is initiated undersection 311(b) with respect to a petition, the Commission shall make the determination required under that section.
+Determination.—Not later than 120 days after the date on which an investigation is initiated under section 311(b) with respect to a petition, the Commission shall make the determination required under that section.
 
 "(b)
 
@@ -7076,7 +7076,7 @@ Presidential Determination.—Import relief may be provided under this subtitle 
 
 "(a)
 
-In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
+In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing ofa request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
 
 "(b)
 
@@ -7292,7 +7292,7 @@ Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the t
 
 "(b)
 
-Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force \[Aug. 1, 2006\]. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters intoforce \[Aug. 1, 2006\]. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 #### "SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -7784,7 +7784,7 @@ Filing of Petition.—A petition requesting action under this subtitle for the p
 
 "(b)
 
-Investigation and Determination.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided forunder the Agreement, a Bahraini article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Bahraini article constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
+Investigation and Determination.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Bahraini article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Bahraini article constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
 
 "(c)
 
@@ -7808,7 +7808,7 @@ Determination.—Not later than 120 days after the date on which an investigatio
 
 "(b)
 
-Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1), (2), and (3)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
+Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1), (2), and (3)) shall be applied with respect to determinations and findings made under this section asif such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
 
 "(c)
 
@@ -7896,7 +7896,7 @@ Action by commission.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Investigation.—Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to benecessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition and whether there is evidence that the industry is making a positive adjustment to import competition.
+Investigation.—Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition and whether there is evidence that the industry is making a positive adjustment to import competition.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -7918,7 +7918,7 @@ Articles Exempt From Relief.—No import relief may be provided under this secti
 
 "(a)
 
-General Rule.—Subject to subsection (b), no import relief may be provided under this subtitle after the date that is 10 years after the date on which the Agreement enters into force \[Aug. 1, 2006\].
+General Rule.—Subject to subsection (b), no import relief may be provided under this subtitle afterthe date that is 10 years after the date on which the Agreement enters into force \[Aug. 1, 2006\].
 
 "(b)
 
@@ -8006,7 +8006,7 @@ Extension.—If the initial period for any import relief provided under section 
 
 #### "SEC. 326. TERMINATION OF RELIEF AUTHORITY.
 
-"No import relief may be provided under this subtitle with respect to any article after the date that is 10years after the date on which duties on the article are eliminated pursuant to the Agreement.
+"No import relief may be provided under this subtitle with respect to any article after the date that is 10 years after the date on which duties on the article are eliminated pursuant to the Agreement.
 
 #### "SEC. 327. COMPENSATION AUTHORITY.
 
@@ -8024,7 +8024,7 @@ Extension.—If the initial period for any import relief provided under section 
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
 
-\[Proc. No. 8771, Dec. 29, 2011, 77 F.R. 418, provided in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the United States-Bahrain Free Trade Agreement Implementation Act (Pub. L. 109–169, set out above) to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
+\[Proc. No. 8771, Dec. 29, 2011, 77 F.R. 418, provided in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the Presidentunder section 104 of the United States-Bahrain Free Trade Agreement Implementation Act (Pub. L. 109–169, set out above) to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
 
 \[Proc. No. 8039, July 27, 2006, 71 F.R. 43636, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Bahrain Free Trade Agreement Implementation Act (USBFTA Act) (Pub. L. 109–169, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 204 of the USBFTA Act to exclude textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of and capability to produce goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; and in par. (6) that the CITA is authorized to exercise the authority of the President under subtitle B of Title III of the USBFTA Act to review requests and determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Bahraini textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination.\]
 
@@ -8082,7 +8082,7 @@ Approval of Agreement and Statement of Administrative Action.—Pursuant to sect
 
 "(b)
 
-Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Morocco has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[July 1, 2005\], the President is authorized to exchange notes with the Government of Morocco providing for the entry into force, on or after January 1, 2005, of the Agreement with respect to the United States.
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Morocco has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[Jan. 1, 2006\], the President is authorized to exchange notes with the Government of Morocco providing for the entry into force, on or after January 1, 2005, of the Agreement with respect to the United States.
 
 #### "SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
 
@@ -8142,7 +8142,7 @@ Proclamation authority.—After the date of the enactment of this Act \[Aug. 17,
 
 &emsp;&emsp;"(B) other appropriate officers of the United States Government may issue such regulations,
 
-> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[July 1, 2005\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takeseffect on the date the Agreement enters into force \[Jan. 1, 2006\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
 
 &emsp;"(2)
 
@@ -8150,11 +8150,11 @@ Effective date of certain proclaimed actions.—Any action proclaimed by the Pre
 
 &emsp;"(3)
 
-Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the taking effect of proclaimed actions is waived to the extent that the application of such restriction would prevent the taking effect on the date the Agreement enters into force \[July 1, 2005\] of any action proclaimed under this section.
+Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the taking effect of proclaimed actions is waived to the extent that the application of such restriction would prevent the taking effect on the date the Agreement enters into force \[Jan. 1, 2006\] of any action proclaimed under this section.
 
 "(b)
 
-Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force \[July 1, 2005\]. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force \[Jan. 1, 2006\]. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 #### "SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -8194,7 +8194,7 @@ Authorization of Appropriations.—There are authorized to be appropriated for e
 
 "(a)
 
-Effective Dates.—Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date the Agreement enters into force \[July 1, 2005\].
+Effective Dates.—Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date the Agreement enters into force \[Jan. 1, 2006\].
 
 "(b)
 
@@ -8226,7 +8226,7 @@ Proclamation authority.—The President may proclaim—
 
 &emsp;"(2)
 
-Effect on moroccan gsp status.—Notwithstanding section 502(a)(1) of the Trade Act of 1974 (19 U.S.C. 2462(a)(1)), the President shall terminate the designation of Morocco as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement \[July 1, 2005\].
+Effect on moroccan gsp status.—Notwithstanding section 502(a)(1) of the Trade Act of 1974 (19 U.S.C. 2462(a)(1)), the President shall terminate the designation of Morocco as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement \[Jan. 1, 2006\].
 
 "(b)
 
@@ -8479,7 +8479,7 @@ Exceptions.—The term 'direct costs of processing operations' does not include 
 
 &emsp;&emsp;&emsp;"(i) profit; and
 
-&emsp;&emsp;&emsp;"(ii) general expenses of doing business that are either not allocable to the good or are not related to the growth, production, or manufacture of the good, such as administrative salaries, casualtyand liability insurance, advertising, and sales staff salaries, commissions, or expenses.
+&emsp;&emsp;&emsp;"(ii) general expenses of doing business that are either not allocable to the good or are not related to the growth, production, or manufacture of the good, such as administrative salaries, casualty and liability insurance, advertising, and sales staff salaries, commissions, or expenses.
 
 &emsp;"(2)
 
@@ -8741,7 +8741,7 @@ Investigation and Determination.—Upon the filing of a petition under subsectio
 
 "(c)
 
-Applicable Provisions.—The following provisions of section 202 of the Trade Act of 1974 (19 U.S.C.2252) apply with respect to any investigation initiated under subsection (b):
+Applicable Provisions.—The following provisions of section 202 of the Trade Act of 1974 (19 U.S.C. 2252) apply with respect to any investigation initiated under subsection (b):
 
 &emsp;"(1) Paragraphs (1)(B) and (3) of subsection (b).
 
@@ -8753,7 +8753,7 @@ Applicable Provisions.—The following provisions of section 202 of the Trade Ac
 
 "(d)
 
-Articles Exempt From Investigation.—No investigation may be initiated under this section with respect to any Moroccan article if, after the date on which the Agreement enters into force \[July 1, 2005\], import relief has been provided with respect to that Moroccan article under this subtitle.
+Articles Exempt From Investigation.—No investigation may be initiated under this section with respect to any Moroccan article if, after the date on which the Agreement enters into force \[Jan. 1, 2006\], import relief has been provided with respect to that Moroccan article under this subtitle.
 
 #### "SEC. 312. COMMISSION ACTION ON PETITION.
 
@@ -8767,7 +8767,7 @@ Applicable Provisions.—For purposes of this subtitle, the provisions of paragr
 
 "(c)
 
-Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required undersubsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
 
 "(d)
 
@@ -8807,7 +8807,7 @@ In general.—The import relief (including provisional relief) that the Presiden
 
 &emsp;&emsp;&emsp;"(i) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 
-&emsp;&emsp;&emsp;"(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[July 1, 2005\].
+&emsp;&emsp;&emsp;"(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[Jan. 1, 2006\].
 
 &emsp;&emsp;"(C) In the case of a duty applied on a seasonal basis to such article, an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
 
@@ -8843,7 +8843,7 @@ In general.—Subject to subparagraph (C), the President, after receiving an aff
 
 Action by commission.—(i) Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition and whether there is evidence that the industry is making a positive adjustment to import competition.
 
-&emsp;&emsp;"(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, withina reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
+&emsp;&emsp;"(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
 &emsp;&emsp;"(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action under subsection (a) is to terminate, unless the President specifies a different date.
 
@@ -8861,7 +8861,7 @@ Articles Exempt From Relief.—No import relief may be provided under this secti
 
 &emsp;"(1) is subject to an assessment of additional duty under section 202(b); or
 
-&emsp;"(2) has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[July 1, 2005\].
+&emsp;"(2) has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[Jan. 1, 2006\].
 
 #### "SEC. 314. TERMINATION OF RELIEF AUTHORITY.
 
@@ -8925,7 +8925,7 @@ Nature of relief.—The relief that the President is authorized to provide under
 
 &emsp;&emsp;"(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 
-&emsp;&emsp;"(B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[July 1, 2005\].
+&emsp;&emsp;"(B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[Jan. 1, 2006\].
 
 #### "SEC. 323. PERIOD OF RELIEF.
 
@@ -8953,7 +8953,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 "The President may not provide import relief under this subtitle with respect to any article if—
 
-&emsp;"(1) the article has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[July 1, 2005\]; or
+&emsp;"(1) the article has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[Jan. 1, 2006\]; or
 
 &emsp;"(2) the article is subject to import relief under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
 
@@ -8975,7 +8975,7 @@ Limitation.—Any relief provided under this subtitle, including any extensions 
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
 
-\[Proc. No. 8771, Dec. 29, 2011, 77 F.R. 418, provided in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the United States-Morocco Free Trade Agreement Implementation Act (Pub. L. 108–302, set out above) to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
+\[Proc. No. 8771, Dec. 29, 2011, 77 F.R. 418, provided in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the United States-Morocco Free Trade Agreement Implementation Act (Pub. L. 108–302, set out above) to obtain advice from the appropriateadvisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
 
 \[Proc. No. 7971, Dec. 22, 2005, 70 F.R. 76652, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Morocco Free Trade Agreement Implementation Act (USMFTA Act) (Pub. L. 108–302, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 204 of the USMFTA Act to exclude textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of and capability to produce goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; and in par. (6) that the CITA is authorized to exercise the authority of the President under subtitle B of Title III of the USMFTA Act to review requests and determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of a Moroccan textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination.\]
 
@@ -9093,7 +9093,7 @@ Proclamation authority.—After the date of the enactment of this Act \[Aug. 3, 
 
 &emsp;&emsp;"(B) other appropriate officers of the United States Government may issue such regulations,
 
-> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 2005\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date on which the Agreement enters into force.
+> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takeseffect on the date the Agreement enters into force \[Jan. 1, 2005\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date on which the Agreement enters into force.
 
 &emsp;"(2)
 
@@ -9306,7 +9306,7 @@ Waiver.—
 
 &emsp;&emsp;"(A)
 
-In general.—The United States Trade Representative is authorized to waive the application of this subsection, if the Trade Representative determines that extraordinary market conditionsdemonstrate that the waiver would be in the national interest of the United States, after the requirements of subparagraph (B) are met.
+In general.—The United States Trade Representative is authorized to waive the application of this subsection, if the Trade Representative determines that extraordinary market conditions demonstrate that the waiver would be in the national interest of the United States, after the requirements of subparagraph (B) are met.
 
 &emsp;&emsp;"(B)
 
@@ -9450,7 +9450,7 @@ Reference to hts.—Whenever in this section there is a reference to a heading o
 
 &emsp;"(3)
 
-Cost or value.—Any cost or value referred to in this section shall be recorded and maintained inaccordance with the generally accepted accounting principles applicable in the territory of the country in which the good is produced (whether Australia or the United States).
+Cost or value.—Any cost or value referred to in this section shall be recorded and maintained in accordance with the generally accepted accounting principles applicable in the territory of the country in which the good is produced (whether Australia or the United States).
 
 "(b)
 
@@ -9749,7 +9749,7 @@ Originating material.—The following expenses, if not included in the value of 
 
 &emsp;&emsp;&emsp;"(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Australia, the United States, or both, to the location of the producer.
 
-&emsp;&emsp;&emsp;"(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Australia,the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+&emsp;&emsp;&emsp;"(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Australia, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
 
 &emsp;&emsp;&emsp;"(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
 
@@ -9773,7 +9773,7 @@ Accessories, Spare Parts, or Tools.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), accessories, spare parts, or tools delivered with a good that form part of the good's standard accessories, spare parts, or tools shall—
+In general.—Subject to paragraph (2), accessories, spare parts, or tools delivered with a good thatform part of the good's standard accessories, spare parts, or tools shall—
 
 &emsp;&emsp;"(A) be treated as originating goods if the good is an originating good; and
 
@@ -9861,7 +9861,7 @@ Class of motor vehicles.—The term 'class of motor vehicles' means any one of t
 
 &emsp;&emsp;"(B) Motor vehicles provided for in subheading 8701.10 or any of subheadings 8701.30 through 8701.90.
 
-&emsp;&emsp;"(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
+&emsp;&emsp;"(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or 8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
 
 &emsp;&emsp;"(D) Motor vehicles provided for in any of subheadings 8703.21 through 8703.90.
 
@@ -9885,7 +9885,7 @@ Good wholly obtained or produced entirely in the territory of Australia, the Uni
 
 &emsp;&emsp;"(D) a good obtained from hunting, trapping, fishing, or aquaculture conducted in the territory of Australia, the United States, or both;
 
-&emsp;&emsp;"(E) a good (fish, shellfish, and other marine life) taken from the sea by vessels registered or recorded with Australia or the United States and flying the flag of that country;
+&emsp;&emsp;"(E) a good (fish, shellfish, and other marine life) taken from the sea by vessels registered or recordedwith Australia or the United States and flying the flag of that country;
 
 &emsp;&emsp;"(F) a good produced exclusively from products referred to in subparagraph (E) on board factory ships registered or recorded with Australia or the United States and flying the flag of that country;
 
@@ -10165,7 +10165,7 @@ Applicable Provisions.—For purposes of this subtitle, the provisions of paragr
 
 "(c)
 
-Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) \[sic\] (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect toimports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) \[sic\] (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
 
 "(d)
 
@@ -10239,7 +10239,7 @@ In general.—Subject to subparagraph (C), the President, after receiving an aff
 
 &emsp;&emsp;"(B)
 
-Action by commission.—(i) Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the datewhich is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
+Action by commission.—(i) Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
 
 &emsp;&emsp;"(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
@@ -10371,7 +10371,7 @@ Extent of provisional relief.—If the determinations under subparagraphs (A) an
 
 &emsp;"(3)
 
-Suspension of liquidation.—If provisional relief is provided under paragraph (2), the President shall order the suspension of liquidation of all imported articles subject to the affirmative determinations under subparagraphs (A) and (B) of paragraph (1) that are entered, or withdrawn from warehouse for consumption, on or after the date of the determinations.
+Suspension of liquidation.—If provisional relief is provided under paragraph (2), the President shall order the suspension of liquidation of all imported articles subject to the affirmative determinations under subparagraphs (A) and (B) of paragraph (1) that are entered, or withdrawn from warehouse forconsumption, on or after the date of the determinations.
 
 &emsp;"(4)
 
@@ -10473,7 +10473,7 @@ Presidential Determination Regarding Australian Imports.—In determining the na
 
 \[Proc. No. 8771, Dec. 29, 2011, 77 F.R. 418, provided in par. (10) that the United States Trade Representative is authorized to fulfill the obligations of the President under section 104 of the United States-Australia Free Trade Agreement Implementation Act (Pub. L. 108–286, set out above) to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation, to submit a report on such proposed action to the appropriate congressional committees, and to consult with those congressional committees regarding the proposed action.\]
 
-\[Proc. No. 7857, Dec. 20, 2004, 69 F.R. 77136, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Australia Free Trade Agreement Implementation Act (USAFTA Act) (Pub. L. 108–286, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 206 of the USAFTA Act to exclude textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of and capability to produce goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; and in par. (6) that the CITA is authorized to exercise the authority of the President under sections 321–328 of the USAFTA Act to review requests, including allegations of critical circumstances, and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of an Australian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination, and if critical circumstances are alleged, to determine whether there is clear evidence that imports from Australia have increased as the result of the reduction or elimination of a customs duty under the United States-Australia Free Trade Agreement, whether there is clear evidence that such imports are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and whether delay in taking action would cause damage to that industry that would be difficult to repair, and to provide provisional relief with respect to imports that are subject to an affirmative determination of critical circumstances that is necessary to remedy or prevent the serious damage.\]
+\[Proc. No. 7857, Dec. 20, 2004, 69 F.R. 77136, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Australia Free Trade Agreement Implementation Act (USAFTA Act) (Pub. L. 108–286, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) thatthe Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 206 of the USAFTA Act to exclude textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of and capability to produce goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; and in par. (6) that the CITA is authorized to exercise the authority of the President under sections 321–328 of the USAFTA Act to review requests, including allegations of critical circumstances, and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of an Australian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination, and if critical circumstances are alleged, to determine whether there is clear evidence that imports from Australia have increased as the result of the reduction or elimination of a customs duty under the United States-Australia Free Trade Agreement, whether there is clear evidence that such imports are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and whether delay in taking action would cause damage to that industry that would be difficult to repair, and to provide provisional relief with respect to imports that are subject to an affirmative determination of critical circumstances that is necessary to remedy or prevent the serious damage.\]
 
 #### United States-Singapore Free Trade Agreement Implementation Act
 
@@ -10977,7 +10977,7 @@ Packing Materials and Containers for Shipment.—Packing materials and container
 
 "(j)
 
-Indirect Materials.—An indirect material shall be considered to be an originating material without regard to where it is produced, and its value shall be thecost registered in the accounting records of the producer of the good.
+Indirect Materials.—An indirect material shall be considered to be an originating material without regard to where it is produced, and its value shall be the cost registered in the accounting records of the producer of the good.
 
 "(k)
 
@@ -11099,7 +11099,7 @@ Preferential tariff treatment.—The term 'preferential tariff treatment' means 
 
 &emsp;"(11)
 
-Producer.—The term 'producer' means a person who grows, raises, mines, harvests, fishes, traps,hunts, manufactures, processes, assembles, or disassembles a good.
+Producer.—The term 'producer' means a person who grows, raises, mines, harvests, fishes, traps, hunts, manufactures, processes, assembles, or disassembles a good.
 
 &emsp;"(12)
 
@@ -11367,7 +11367,7 @@ Nature of Relief.—
 
 &emsp;"(1)
 
-In general.—The import relief (including provisional relief) that the President is authorized toprovide under this section with respect to imports of an article is as follows:
+In general.—The import relief (including provisional relief) that the President is authorized to provide under this section with respect to imports of an article is as follows:
 
 &emsp;&emsp;"(A) The suspension of any further reduction provided for under Annex 2B of the Agreement in the duty imposed on such article.
 
@@ -11483,7 +11483,7 @@ In general.—Pursuant to a request made by an interested party, the President s
 
 Serious damage.—In making a determination under paragraph (1), the President—
 
-&emsp;&emsp;"(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes insuch relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
+&emsp;&emsp;"(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
 
 &emsp;&emsp;"(B) shall not consider changes in technology or consumer preference as factors supporting a determination of serious damage or actual threat thereof.
 
@@ -11843,7 +11843,7 @@ Tariff-rate quotas.—If an agricultural safeguard good is subject to a tariff-r
 
 &emsp;"(6)
 
-Notice.—Not later than 60 days after the Secretary of the Treasury first assesses additional duties on an agricultural safeguard good under this subsection, the Secretary shall notify the Government of Chile in writing of such action and shall provide to the Government of Chile data supporting the assessment of additional duties.
+Notice.—Not later than 60 days after the Secretary of the Treasury first assesses additional dutieson an agricultural safeguard good under this subsection, the Secretary shall notify the Government of Chile in writing of such action and shall provide to the Government of Chile data supporting the assessment of additional duties.
 
 &emsp;"(7)
 
@@ -11957,7 +11957,7 @@ Goods provided for in chapters 50 through 63 of the hts.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), a good provided for in any of chapters 50 through 63 of the HTS that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+In general.—Except as provided in subparagraph (B), a good provided for in any of chapters 50 through 63 of the HTS that is not an originatinggood because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
 
 &emsp;&emsp;"(B)
 
@@ -12217,7 +12217,7 @@ Goods wholly obtained or produced entirely in the territory of chile, the united
 
 &emsp;&emsp;"(G) goods taken by Chile or the United States or a person of Chile or the United States from the seabed or beneath the seabed outside territorial waters, if Chile or the United States has rights to exploit such seabed;
 
-&emsp;&emsp;"(H) goods taken from outer space, if the goods are obtained by Chile or the United States or a person of Chile or the United States and not processedin the territory of a country other than Chile or the United States;
+&emsp;&emsp;"(H) goods taken from outer space, if the goods are obtained by Chile or the United States or a person of Chile or the United States and not processed in the territory of a country other than Chile or the United States;
 
 &emsp;&emsp;"(I) waste and scrap derived from—
 
@@ -12415,7 +12415,7 @@ Foreign trade zones.—\[Amended section 81c of this title.\]
 
 "(c)
 
-Inapplicability to Countervailing and Antidumping Duties.—Nothing in this section or the amendments made by this section shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.
+Inapplicability to Countervailing and Antidumping Duties.—Nothing in this section or theamendments made by this section shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.
 
 #### "SEC. 204. CUSTOMS USER FEES.
 
@@ -12553,7 +12553,7 @@ Applicable Provisions.—For purposes of this subtitle, the provisions of paragr
 
 "(c)
 
-Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to the relief described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to bean affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to the relief described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
 
 "(d)
 
@@ -12735,7 +12735,7 @@ Extension.—If the initial period for any import relief provided under this sec
 
 #### "SEC. 327. COMPENSATION AUTHORITY.
 
-"For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under this subtitle shall be treated as actiontaken under chapter 1 of title II of that Act \[19 U.S.C. 2251 et seq.\].
+"For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under this subtitle shall be treated as action taken under chapter 1 of title II of that Act \[19 U.S.C. 2251 et seq.\].
 
 #### "SEC. 328. BUSINESS CONFIDENTIAL INFORMATION.
 

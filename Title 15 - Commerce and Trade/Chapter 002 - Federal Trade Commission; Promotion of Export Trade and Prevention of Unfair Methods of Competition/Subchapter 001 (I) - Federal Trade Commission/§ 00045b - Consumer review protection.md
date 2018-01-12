@@ -58,7 +58,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) is clearly false or misleading; or
 
-&emsp;&emsp;(D) a party's right to establish terms and conditions with respect to the creation ofphotographs or video of such party's property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
+&emsp;&emsp;(D) a party's right to establish terms and conditions with respect to the creation of photographs or video of such party's property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
 
 #### (3) Exceptions
 

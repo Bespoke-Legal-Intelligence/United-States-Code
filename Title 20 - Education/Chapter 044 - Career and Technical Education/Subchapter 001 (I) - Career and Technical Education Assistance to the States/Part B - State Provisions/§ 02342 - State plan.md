@@ -68,7 +68,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academic standards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
 
-&emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programsor other ways to acquire postsecondary education credits; and
+&emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programs or other ways to acquire postsecondary education credits; and
 
 &emsp;&emsp;&emsp;(iv) lead to an industry-recognized credential or certificate at the postsecondary level, or an associate or baccalaureate degree;
 
@@ -106,7 +106,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorous content aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
 
-&emsp;(2) describes how comprehensive professional development (including initial teacher preparation and activities that support recruitment) for career and technical education teachers, faculty, administrators, and career guidance and academic counselors will be provided, especially professional development that—
+&emsp;(2) describes how comprehensive professional development (including initial teacher preparation and activities that support recruitment) for career and technical educationteachers, faculty, administrators, and career guidance and academic counselors will be provided, especially professional development that—
 
 &emsp;&emsp;(A) promotes the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for the appropriate academic and career and technical education teachers to jointly develop and implement curricula and pedagogical strategies, as appropriate;
 
@@ -232,7 +232,7 @@ A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–3
 
 Another prior section 2342, Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-Another prior section 2342, Pub. L. 88–210, title II, §252, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+Another prior section 2342, Pub. L. 88–210, title II, §252, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat.2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
 #### Amendments
 

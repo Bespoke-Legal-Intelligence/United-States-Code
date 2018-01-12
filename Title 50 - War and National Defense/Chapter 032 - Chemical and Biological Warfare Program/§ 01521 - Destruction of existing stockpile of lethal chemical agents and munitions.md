@@ -10,7 +10,7 @@ The Secretary of Defense shall, in accordance with the provisions of this sectio
 
 (2) If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
-(3) For purposes of this section, the term "stockpile elimination deadline" means thedeadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
+(3) For purposes of this section, the term "stockpile elimination deadline" means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
 
 #### (c) Initiation of demilitarization operations
 
@@ -130,7 +130,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 #### (j) Semiannual reports
 
-(1) Not later than March 1 and September 1 each year until the year in which the UnitedStates completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+(1) Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
 
 (2) Each report under paragraph (1) shall include the following:
 
@@ -160,7 +160,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 #### (k) Authorized use of toxic chemicals
 
-Consistent with United States obligations under the Chemical Weapons Convention, the Secretary of Defense may develop, produce, otherwise acquire, retain, transfer, and use toxic chemicals and their precursors for purposes not prohibited by the Chemical Weapons Convention if the types and quantities of such chemicals and precursors are consistent with such purposes, including for protective purposes such as protection against toxic chemicals and protection against chemical weapons.
+Consistent with United States obligations under the Chemical Weapons Convention, the Secretary of Defense may develop, produce, otherwise acquire, retain, transfer, and use toxic chemicals and their precursors for purposes not prohibited by the Chemical Weapons Conventionif the types and quantities of such chemicals and precursors are consistent with such purposes, including for protective purposes such as protection against toxic chemicals and protection against chemical weapons.
 
 #### (l) Surveillance and assessment program
 
@@ -188,7 +188,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (B) For purposes of this paragraph, affected areas are those areas located within a 50-mile radius of a chemical weapons storage site.
 
-(4) For a period of five years after the termination of any commission under this subsection, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of thatcommission has an ownership interest may be awarded—
+(4) For a period of five years after the termination of any commission under this subsection, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of that commission has an ownership interest may be awarded—
 
 &emsp;(A) a contract related to the disposal of lethal chemical agents or munitions in the stockpile referred to in subsection (a); or
 
@@ -240,7 +240,7 @@ In determining the technologies to supplement the neutralization destruction of 
 
 In this section:
 
-&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through itschemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
+&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
 &emsp;(2) The term "Chemical Weapons Convention" means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).
 
@@ -262,7 +262,7 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 #### Codification
 
-Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
+Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, andapplicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
@@ -346,7 +346,7 @@ Subsec. (k)(2). Pub. L. 104–106, §1502(c)(6), substituted "Committee on Armed
 
 <b>1993</b>—Subsec. (c)(3). Pub. L. 103–160 substituted "processing, approving, and overseeing" for "processing and approving".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before "Notwithstanding" and struck out par. (2) which read as follows: "Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces."
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before "Notwithstanding" andstruck out par. (2) which read as follows: "Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces."
 
 Subsec. (b)(5). Pub. L. 102–484, §171, substituted "December 31, 2004" for "July 31, 1999".
 
@@ -393,6 +393,26 @@ Pub. L. 109–163, div. A, title IX, §921(b), Jan. 6, 2006, 119 Stat. 3410, pro
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (i) and (j) of this section requiring submittal of annual and semiannual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
+
+#### Acquisition Reporting on Major Chemical Demilitarization Programs of the Department of Defense
+
+Pub. L. 115–91, div. A, title XIV, §1415, Dec. 12, 2017, 131 Stat. 1708, provided that:
+
+"(a)
+
+Reporting on Major Programs.—Acquisition reporting on each major program within the chemical demilitarization programs of the Department of Defense, including construction in connection with such program, shall—
+
+&emsp;"(1) comply with reporting guidelines for an Acquisition Category 1 (ACAT 1) system; and
+
+&emsp;"(2) be reported separately from acquisition reporting on the other major program within the chemical demilitarization programs of the Department of Defense.
+
+"(b)
+
+Major Program Within the Chemical Demilitarization Programs of the Department of Defense Defined.—In this section, the term 'major program within the chemical demilitarization programs of the Department of Defense' means each program as follows:
+
+&emsp;"(1) Pueblo Chemical Agent Destruction Pilot Plant program, Colorado.
+
+&emsp;"(2) Blue Grass Chemical Agent Destruction Pilot Plant program, Kentucky."
 
 #### Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile
 
@@ -464,7 +484,7 @@ Pub. L. 102–484, div. A, title I, §§174, 175, Oct. 23, 1992, 106 Stat. 2344,
 
 #### Sense of Congress Concerning International Consultation and Exchange Program
 
-Pub. L. 102–484, div. A, title I, §178, Oct. 23, 1992, 106 Stat. 2346, provided that: "It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons."
+Pub. L. 102–484, div. A, title I, §178, Oct. 23, 1992, 106 Stat. 2346, provided that: "It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technologycould be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons."
 
 #### "Low-Volume Site" Defined
 

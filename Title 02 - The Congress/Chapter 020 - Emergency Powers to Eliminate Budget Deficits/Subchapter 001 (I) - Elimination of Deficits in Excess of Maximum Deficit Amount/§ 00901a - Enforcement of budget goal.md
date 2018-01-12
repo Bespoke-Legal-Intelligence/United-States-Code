@@ -68,7 +68,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (B) Fiscal years 2014–2021
 
-&emsp;&emsp;Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+&emsp;&emsp;Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
 &emsp;&emsp;&emsp;(i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -194,17 +194,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 &emsp;&emsp;" '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2017 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+#### Sequestration Order for Fiscal Year 2018 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
 
-Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693, provided:
+Order of President of the United States, dated May 23, 2017, 82 F.R. 24209, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2016, direct spending budgetary resources for fiscal year 2017 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 9, 2016.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2017, direct spending budgetary resources for fiscal year 2018 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of May 23, 2017.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 9, 2016, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of May 23, 2017, prepared pursuant to section 251A(9) of the Act.
 
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+<b>2017</b>—Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693.
 
 <b>2016</b>—Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645.
 

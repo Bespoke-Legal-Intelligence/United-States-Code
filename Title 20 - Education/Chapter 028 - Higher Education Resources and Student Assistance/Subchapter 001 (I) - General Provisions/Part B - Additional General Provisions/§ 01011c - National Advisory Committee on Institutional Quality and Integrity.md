@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the "Committee") to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV.
+There is established in the Department a National Advisory Committee on InstitutionalQuality and Integrity (in this section referred to as the "Committee") to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV.
 
 #### (b) Membership
 
@@ -128,9 +128,9 @@ The Committee shall—
 
 #### (f) Termination
 
-The Committee shall terminate on September 30, 2016.
+The Committee shall terminate on September 30, 2017.
 
-(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638.)
+(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552.)
 
 #### References in Text
 
@@ -143,6 +143,8 @@ Provisions similar to this section were contained in section 1145 of this title 
 A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (f). Pub. L. 115–31 substituted "2017" for "2016".
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–113 substituted "2016" for "2015".
 

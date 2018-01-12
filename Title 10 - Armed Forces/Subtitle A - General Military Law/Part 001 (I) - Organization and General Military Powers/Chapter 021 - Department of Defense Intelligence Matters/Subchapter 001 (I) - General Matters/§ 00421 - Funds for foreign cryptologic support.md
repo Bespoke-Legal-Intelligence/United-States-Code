@@ -16,7 +16,7 @@
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. TitleV of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -34,5 +34,5 @@ The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1
 
 #### Comprehensive Independent Study of National Cryptography Policy
 
-Pub. L. 103–160, div. A, title II, §267, Nov. 30, 1993, 107 Stat. 1611, directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
+Pub. L. 103–160, div. A, title II, §267, Nov. 30, 1993, 107 Stat. 1611, directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House ofRepresentatives, not later than 120 days after the report is submitted to the Secretary.
 

@@ -150,13 +150,13 @@ This chapter, referred to in subsec. (b)(3)(A), was in the original "this Act", 
 
 #### Prior Provisions
 
-A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–10, §524(b)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 114–10, §524(b)(2)(A), inserted at end "If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015."
+Subsec. (b)(2)(A). Pub. L. 114–10, §524(b)(2)(A), inserted at end "If such two-fiscal year period included fiscalyear 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015."
 
 Subsec. (b)(2)(B). Pub. L. 114–10, §524(b)(2)(B), substituted "fiscal year 2015" for "fiscal year 2013".
 

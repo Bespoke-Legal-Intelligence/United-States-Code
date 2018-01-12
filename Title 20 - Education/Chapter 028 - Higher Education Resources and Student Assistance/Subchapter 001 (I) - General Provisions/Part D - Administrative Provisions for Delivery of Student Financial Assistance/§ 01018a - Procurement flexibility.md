@@ -132,7 +132,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (A) Single-source basis
 
-&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procuredfor the system under competitive procedures or procedures authorized under subparagraph (B).
+&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
 
 #### (B) Adequate competition
 

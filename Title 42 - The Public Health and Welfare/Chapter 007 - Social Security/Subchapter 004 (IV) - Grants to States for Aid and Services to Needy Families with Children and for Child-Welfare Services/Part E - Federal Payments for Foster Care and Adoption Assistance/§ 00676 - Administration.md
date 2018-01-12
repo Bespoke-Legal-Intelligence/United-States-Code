@@ -28,7 +28,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 &emsp;&emsp;&emsp;&emsp;(II) Indian tribes, tribal organizations, tribal consortia, and States seeking to develop cooperative agreements to provide for payments under this part or satisfy the requirements of section 622(b)(9), 671(a)(32), or 677(b)(3)(G) of this title; and
 
-&emsp;&emsp;&emsp;(iii) subject to subparagraph (B), make one-time grants, to tribes, tribal organizations, or tribal consortia that are seeking to develop, and intend, not later than 24months after receiving such a grant to submit to the Secretary a plan under section 671 of this title to implement a program under this part as authorized by section 679c of this title, that shall—
+&emsp;&emsp;&emsp;(iii) subject to subparagraph (B), make one-time grants, to tribes, tribal organizations, or tribal consortia that are seeking to develop, and intend, not later than 24 months after receiving such a grant to submit to the Secretary a plan under section 671 of this title to implement a program under this part as authorized by section 679c of this title, that shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) not exceed $300,000; and
 

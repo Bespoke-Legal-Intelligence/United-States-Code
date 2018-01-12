@@ -18,7 +18,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(E) Programs for housing or community development assistance or financial assistance administered by the Secretary of Housing and Urban Development, any program under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], or any assistance under section 1926c of title 7, to the extent that the alien is receiving such a benefit on August 22, 1996.
 
-(2) Subsection (a) shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determinedby the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
+(2) Subsection (a) shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
 
 (3) Subsection (a) shall not apply to any benefit payable under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
 
@@ -36,7 +36,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 (2) Such term shall not apply—
 
-&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
+&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employmentin the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
 &emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
 

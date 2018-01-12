@@ -58,7 +58,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 &emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
-&emsp;(B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
+&emsp;(B) that while the testing of nondevelopmental items and items in the late state of thedevelopment process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
@@ -66,7 +66,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 (h)
 
-Secretary To Encourage Similar Programs.—The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, andother friendly foreign countries to establish programs similar to the one provided for in this section.
+Secretary To Encourage Similar Programs.—The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 
 (i)
 
@@ -116,7 +116,7 @@ Pub. L. 111–383 substituted "Assistant Secretary of Defense for Research and E
 
 Subsec. (e)(2). Pub. L. 110–181, §1251(2), substituted "A cooperative opportunities document" for "An arms cooperation opportunities document" in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated."
+Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows:"The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated."
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 
@@ -210,11 +210,11 @@ Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, pro
 
 #### Termination Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II,§202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
+Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
 
 #### Administration of the American, British, Canadian, and Australian Armies' Program
 
-Pub. L. 112–239, div. A, title XII, §1274, Jan. 2, 2013, 126 Stat. 2026, provided that:
+Pub. L. 112–239, div. A, title XII, §1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, §1274, Dec. 12, 2017, 131 Stat. 1697, provided that:
 
 "(a)
 
@@ -284,5 +284,5 @@ Reports.—Not later than 60 days before the expiration date of any agreement un
 
 "(g)
 
-Sunset.—Any agreement entered into by the United States with another country under subsection (a), and United States participation in the joint agreement described in that subsection, shall expire not later than five years after the date of the enactment of this Act \[Jan. 2, 2013\]."
+Sunset.—Any agreement entered into by the United States with another country under subsection (a), and United States participation in the joint agreement described in that subsection, shall expire not later than ten years after the date of the enactment of this Act \[Jan. 2, 2013\]."
 

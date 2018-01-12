@@ -58,7 +58,7 @@ The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964
 
 #### Amendments
 
-<b>1997</b>—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: "The term 'Federal land' means lands the title to which is in the United States after December 2, 1980. 'Federal land' does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: "The term 'Federal land' means lands the title to which is in the United States after December 2, 1980.'Federal land' does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -88,7 +88,7 @@ Subsection (a)
 
 Repealed.—
 
-&emsp;"(1) The Secretary of the Interior shall certify before October 1, 1999, if a bill or resolution has been passed by the Alaska State Legislature to amend the Constitution of the State of Alaska that, if approved by the electorate, would enable the implementation of state laws of general applicability consistent with, and which provide for the definition, preference, andparticipation specified in sections 803, 804, and 805 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3113, 3114, 3115\].
+&emsp;"(1) The Secretary of the Interior shall certify before October 1, 1999, if a bill or resolution has been passed by the Alaska State Legislature to amend the Constitution of the State of Alaska that, if approved by the electorate, would enable the implementation of state laws of general applicability consistent with, and which provide for the definition, preference, and participation specified in sections 803, 804, and 805 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3113, 3114, 3115\].
 
 &emsp;"(2) Subsection (a) shall be repealed on October 1, 1999, unless prior to that date the Secretary of the Interior makes such a certification described in paragraph (1). \[A certification was not made prior to Oct. 1, 1999.\]
 

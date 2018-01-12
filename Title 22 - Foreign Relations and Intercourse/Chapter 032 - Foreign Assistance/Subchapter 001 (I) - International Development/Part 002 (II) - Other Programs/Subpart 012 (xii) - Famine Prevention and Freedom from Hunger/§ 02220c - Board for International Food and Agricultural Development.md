@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and expenses of members
 
-To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursementfor expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
+To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
 
 #### (b) General areas of responsibility
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 106–373, §4(b), amended subsec. (b) generally. Prior to 
 
 > the activities described in section 2220b of this title."
 
-Subsec. (c)(2)(A). Pub. L. 106–373, §4(c)(1)(A), substituted "improve agricultural production, trade, andnatural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;" for "increase food production in developing countries,".
+Subsec. (c)(2)(A). Pub. L. 106–373, §4(c)(1)(A), substituted "improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;" for "increase food production in developing countries,".
 
 Subsec. (c)(2)(B). Pub. L. 106–373, §4(c)(1)(B), inserted ", environmental, and related social" before "sciences".
 

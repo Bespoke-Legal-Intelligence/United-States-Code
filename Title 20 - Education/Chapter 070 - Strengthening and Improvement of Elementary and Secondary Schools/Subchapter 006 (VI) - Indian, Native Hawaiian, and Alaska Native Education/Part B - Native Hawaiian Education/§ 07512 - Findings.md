@@ -76,7 +76,7 @@ An Act to provide for the admission of the State of Hawaii into the Union, refer
 
 The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
-The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978,92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 The National Museum of the American Indian Act, referred to in par. (13)(C), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 80q of this title and Tables.
 
@@ -128,7 +128,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 &emsp;"(F) Native Hawaiians continue to be underrepresented in institutions of higher education and among adults who have completed four or more years of college;
 
-&emsp;"(G) Native Hawaiians continue to be disproportionately represented in many negative social andphysical statistics indicative of special educational needs, as demonstrated by the fact that—
+&emsp;"(G) Native Hawaiians continue to be disproportionately represented in many negative social and physical statistics indicative of special educational needs, as demonstrated by the fact that—
 
 &emsp;&emsp;"(i) Native Hawaiian students are more likely to be retained in grade level and to be excessively absent in secondary school;
 

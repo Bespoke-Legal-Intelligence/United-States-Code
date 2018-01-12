@@ -56,7 +56,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Depreciable personal property
 
-&emsp;&emsp;The term "depreciable personal property" means any personal property if the adjusted basis of such property includes depreciation adjustments.
+&emsp;&emsp;The term "depreciable personal property" means any personal property if the adjustedbasis of such property includes depreciation adjustments.
 
 #### (B) Depreciation adjustments
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (3) Special rule for certain stock sales by residents of Puerto Rico
 
-&emsp;Paragraph (2) shall not apply to the sale by an individual who was a bona fide resident ofPuerto Rico during the entire taxable year of stock in a corporation if—
+&emsp;Paragraph (2) shall not apply to the sale by an individual who was a bona fide resident of Puerto Rico during the entire taxable year of stock in a corporation if—
 
 &emsp;&emsp;(A) such corporation is engaged in the active conduct of a trade or business in Puerto Rico, and
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such gain shall be sourced outside the United States, but
 
-&emsp;&emsp;(B) subsections (a), (b), and (c) of section 904 and sections 902, 907, and 960 shall be applied separately with respect to such gain.
+&emsp;&emsp;(B) subsections (a), (b), and (c) of section 904 and sections 907 and 960 shall be applied separately with respect to such gain.
 
 #### (2) Gain to which subsection applies
 
@@ -242,9 +242,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(2) For sourcing of income from certain foreign currency transactions, see section 988.</b>
 
-(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930.)
+(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, titleV, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 115–97, title I, §14301(c)(6), Dec. 22, 2017, 131 Stat. 2222.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h)(1)(B). Pub. L. 115–97 substituted "907" for "902, 907,".
 
 <b>1999</b>—Subsec. (i)(1). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
 
@@ -262,7 +264,7 @@ Subsec. (e)(1)(A). Pub. L. 100–647, §1012(d)(2), (9), substituted "(d)(1)(B) 
 
 Subsec. (e)(2)(B). Pub. L. 100–647, §1012(d)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subparagraph (A) shall not apply to—
 
-&emsp;"(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business ofthe taxpayer outside the United States materially participated in the sale, or
+&emsp;"(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business of the taxpayer outside the United States materially participated in the sale, or
 
 &emsp;"(ii) any amount included in gross income under section 951(a)(1)(A)."
 
@@ -297,6 +299,10 @@ Subsec. (j). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (i) as
 Subsec. (j)(3). Pub. L. 100–647, §1012(d)(6)(B), added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
 
 Subsec. (k). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (j) as (k).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -334,7 +340,7 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

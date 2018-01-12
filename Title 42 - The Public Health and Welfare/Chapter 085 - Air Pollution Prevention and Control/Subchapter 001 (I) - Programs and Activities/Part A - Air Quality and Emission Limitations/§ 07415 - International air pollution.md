@@ -6,7 +6,7 @@ Whenever the Administrator, upon receipt of reports, surveys or studies from any
 
 #### (b) Prevention or elimination of endangerment
 
-The notice of the Administrator shall be deemed to be a finding under section 7410(a)(2)(H)(ii) of this title which requires a plan revision with respect to so much of the applicable implementation plan as is inadequate to prevent or eliminate the endangerment referred to in subsection (a) of this section. Any foreign country so affected by such emission of pollutant or pollutants shall be invited to appear at any public hearing associated with any revision of the appropriate portion of the applicable implementation plan.
+The notice of the Administrator shall be deemed to be a finding under section 7410(a)(2)(H)(ii) of this title which requires a plan revision with respect to so much of the applicable implementation plan as is inadequate to prevent or eliminate the endangerment referred to in subsection (a). Any foreign country so affected by such emission of pollutant or pollutants shall be invited to appear at any public hearing associated with any revision of the appropriate portion of the applicable implementation plan.
 
 #### (c) Reciprocity
 
@@ -14,7 +14,7 @@ This section shall apply only to a foreign country which the Administrator deter
 
 #### (d) Recommendations
 
-Recommendations issued following any abatement conference conducted prior to August 7, 1977, shall remain in effect with respect to any pollutant for which no national ambient air quality standard has been established under section 7409 of this title unless the Administrator, after consultation with all agencies which were party to the conference, rescinds any such recommendation on grounds of obsolescence.
+Recommendations issued following any abatement conference conducted prior to August 7,1977, shall remain in effect with respect to any pollutant for which no national ambient air quality standard has been established under section 7409 of this title unless the Administrator, after consultation with all agencies which were party to the conference, rescinds any such recommendation on grounds of obsolescence.
 
 (July 14, 1955, ch. 360, title I, §115, formerly §5, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 396; renumbered §105 and amended Pub. L. 89–272, title I, §§101(2), (3), 102, Oct. 20, 1965, 79 Stat. 992, 995, renumbered §108 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 491, renumbered §115 and amended Pub. L. 91–604, §§4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1688, 1689, 1713; Pub. L. 95–95, title I, §114, Aug. 7, 1977, 91 Stat. 710.)
 
@@ -26,7 +26,7 @@ Section was formerly classified to section 1857d of this title.
 
 <b>1977</b>—Pub. L. 95–95 completely revised section by substituting provisions establishing a mechanism for the Administrator to trigger a revision of a State implementation plan under section 7410(a)(2)(H) upon a petition of an international agency or the Secretary of State if he finds that emissions originating in a State endanger the health or welfare of persons in a foreign country for provisions calling for the abatement of air pollution by means of conference procedures.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted "and which is covered by subsection (b) or (c) of this section" after "persons".
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted "and which is covered by subsection (b) or (c)" after "persons".
 
 Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted "Administrator" for "Secretary" wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
 
@@ -46,7 +46,7 @@ Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating 
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from threeweeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 

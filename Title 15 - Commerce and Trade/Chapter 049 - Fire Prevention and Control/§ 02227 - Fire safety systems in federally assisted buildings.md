@@ -118,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibilityfor fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 

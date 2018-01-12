@@ -6,7 +6,7 @@ In connection with financial assistance authorized in this subchapter, the Secre
 
 #### (b) Research and technical studies for reduction of costs and adaptation and development of fixtures and appurtenances
 
-The Secretary is further authorized and directed to conduct research, technical studies,and demonstrations relating to the mission and programs of the Farmers Home Administration and the national housing goals defined in section 1441 of this title. In connection with such activities, the Secretary shall seek to promote the construction of adequate farm and other rural housing, with particular attention to the housing needs of the elderly, handicapped, migrant and seasonal farmworkers, Indians and other identifiable groups with special needs. The Secretary shall conduct such activities for the purposes of stimulating construction and improving the architectural design and utility of dwellings and buildings. In carrying out this subsection, the Secretary may permit demonstrations involving innovative housing units and systems which do not meet existing published standards, rules, regulations, or policies if the Secretary finds that in so doing, the health and safety of the population of the area in which the demonstration is carried out will not be adversely affected, except that the aggregate expenditures for such demonstrations may not exceed $10,000,000 in any fiscal year.
+The Secretary is further authorized and directed to conduct research, technical studies, and demonstrations relating to the mission and programs of the Farmers Home Administration and the national housing goals defined in section 1441 of this title. In connection with such activities, the Secretary shall seek to promote the construction of adequate farm and other rural housing, with particular attention to the housing needs of the elderly, handicapped, migrant and seasonal farmworkers, Indians and other identifiable groups with special needs. The Secretary shall conduct such activities for the purposes of stimulating construction and improving the architectural design and utility of dwellings and buildings. In carrying out this subsection, the Secretary may permit demonstrations involving innovative housing units and systems which do not meet existing published standards, rules, regulations, or policies if the Secretary finds that in so doing, the health and safety of the population of the area in which the demonstration is carried out will not be adversely affected, except that the aggregate expenditures for such demonstrations may not exceed $10,000,000 in any fiscal year.
 
 #### (c) Research, study, and analysis of farm housing
 
@@ -34,7 +34,7 @@ The Secretary of Agriculture shall prepare and submit to the President and to th
 
 (1) The Secretary shall conduct a study of housing which is available for migrant and settled farmworkers. In conducting such study, the Secretary shall—
 
-&emsp;(A) determine the location, number, quality, and condition of housing units which are available to such farmworkers and the cost assessed such farmworkers for occupying such units;
+&emsp;(A) determine the location, number, quality, and condition of housing units which areavailable to such farmworkers and the cost assessed such farmworkers for occupying such units;
 
 &emsp;(B) recommend legislative, administrative, and other action (including the need for new authority for such action) which may be taken for the purpose of improving both the availability and the condition of such housing units; and
 

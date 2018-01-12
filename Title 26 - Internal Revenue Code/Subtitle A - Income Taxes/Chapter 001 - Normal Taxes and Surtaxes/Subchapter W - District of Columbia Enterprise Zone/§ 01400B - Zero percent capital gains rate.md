@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (4) Intangibles and land not integral part of DC Zone business
 
-&emsp;The term "qualified capital gain" shall not include any gain which is attributable to real property, or an intangible asset, which is not an integral part of a DC Zone business.
+&emsp;The term "qualified capital gain" shall not include any gain which is attributable to realproperty, or an intangible asset, which is not an integral part of a DC Zone business.
 
 #### (5) Related party transactions
 

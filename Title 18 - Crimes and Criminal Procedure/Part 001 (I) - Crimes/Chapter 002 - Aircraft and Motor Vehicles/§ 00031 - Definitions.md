@@ -50,7 +50,7 @@ State.—The term "State" means a State of the United States, the District of Co
 
 &emsp;(10)
 
-Used for commercial purposes.—The term "used for commercial purposes" means the carriage of persons or property for any fare, fee, rate, charge or other consideration,or directly or indirectly in connection with any business, or other undertaking intended for profit.
+Used for commercial purposes.—The term "used for commercial purposes" means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
 
 (b)
 

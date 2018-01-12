@@ -2,7 +2,7 @@
 
 #### (a) Transactions involving controlling or closely affiliated persons
 
-It shall be unlawful for any person who is related to a business development company in amanner described in subsection (b) of this section, acting as principal—
+It shall be unlawful for any person who is related to a business development company in a manner described in subsection (b) of this section, acting as principal—
 
 &emsp;(1) knowingly to sell any security or other property to such business development company or to any company controlled by such business development company, unless such sale involves solely (A) securities of which the buyer is the issuer, or (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities;
 
@@ -38,7 +38,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(2) knowingly to purchase from such business development company or from any company controlled by such business development company, any security or other property (except securities of which the seller is the issuer);
 
-&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
+&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by suchbusiness development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
 
 &emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
@@ -116,9 +116,9 @@ The provisions of subsection (k) of this section shall apply to the following pe
 
 &emsp;(1) Any affiliated person of a business development company.
 
-&emsp;(2)(A) Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person or any director, officer, employee, or member of an advisory board of the business development company.
+&emsp;(2)(A) Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person of any director, officer, employee, or member of an advisory board of the business development company.
 
-&emsp;(B) Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
+&emsp;(B) Any person who is, within the meaning of section 80a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
 
 &emsp;(C) Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any person who is an affiliated person of the business development company within the meaning of section 80a–2(a)(3)(A) of this title.
 
@@ -134,7 +134,7 @@ For purposes of subsections (a) and (d), a person who is a director, officer, or
 
 &emsp;(ii) in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
 
-&emsp;(B) the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company's net income after taxes in any fiscal year.
+&emsp;(B) the aggregate amount of benefits which would be paid or accrued under such plan shallnot exceed 20 per centum of the business development company's net income after taxes in any fiscal year.
 
 (2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(3)(B) of this title, or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 

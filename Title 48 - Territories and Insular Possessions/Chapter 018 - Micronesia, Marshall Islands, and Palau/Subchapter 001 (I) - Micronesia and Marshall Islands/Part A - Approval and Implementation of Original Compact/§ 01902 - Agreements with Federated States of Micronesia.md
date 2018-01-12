@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Federated States of Micronesia which have an impact upon United States jurisdictions, and propose measures which the United States and the Federated States of Micronesia should take in order better to prevent and prosecute violations of the laws of the United States and the Federated States of Micronesia. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Federated States of Micronesia.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Federated States of Micronesia which have an impact upon United States jurisdictions, and propose measures which the United States and the Federated States of Micronesia should take in order better to prevent and prosecute violations of the laws of theUnited States and the Federated States of Micronesia. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Federated States of Micronesia.
 
 #### (b) Economic development plans review process
 
@@ -66,7 +66,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 > &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for in section 233 of the Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
 
-&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personneland to such records, documents, working papers, automated data and files, and other information relevant to such review.
+&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personnel and to such records, documents, working papers, automated data and files, and other information relevant to such review.
 
 #### (2) GAO access to records
 

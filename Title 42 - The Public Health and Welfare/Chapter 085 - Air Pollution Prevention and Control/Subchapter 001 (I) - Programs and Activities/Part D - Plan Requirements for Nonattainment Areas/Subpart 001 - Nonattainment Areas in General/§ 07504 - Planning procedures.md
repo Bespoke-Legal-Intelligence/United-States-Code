@@ -6,7 +6,7 @@ For any ozone, carbon monoxide, or PM–10 nonattainment area, the State contain
 
 #### (b) Coordination
 
-The preparation of implementation plan provisions and subsequent plan revisions under the continuing transportation-air quality planning process described in section 7408(e) of this title shall be coordinated with the continuing, cooperative and comprehensive transportation planning process required under section 134 of title23, and such planning processes shall take into account the requirements of this part.
+The preparation of implementation plan provisions and subsequent plan revisions under the continuing transportation-air quality planning process described in section 7408(e) of this title shall be coordinated with the continuing, cooperative and comprehensive transportation planning process required under section 134 of title 23, and such planning processes shall take into account the requirements of this part.
 
 #### (c) Joint planning
 

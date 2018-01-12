@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Pension counseling and information program
 
-&emsp;The term "pension counseling and information program" means a program described in subsection (b) of this section.
+&emsp;The term "pension counseling and information program" means a program described in subsection (b).
 
 #### (b) Program authorized
 
@@ -86,7 +86,7 @@ The Assistant Secretary shall consider the following criteria in awarding grants
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall award grants to eligible entities to establish training and technical assistance programs that shall provide information and technical assistance to the staffs of entities operating pension counseling and information programs described in subsection (b) of this section, and general assistance to such entities, including assistance in the design of program evaluation tools.
+&emsp;The Assistant Secretary shall award grants to eligible entities to establish training and technical assistance programs that shall provide information and technical assistance to the staffs of entities operating pension counseling and information programs described in subsection (b), and general assistance to such entities, including assistance in the design of program evaluation tools.
 
 #### (2) Eligible entities
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) subscribe to the oath set forth in section 304 of title 32; and
 
-&emsp;(3) be a member of a federally recognized unit or organization of the Army NationalGuard or the Air National Guard, as the case may be, in the grade in which he is to be enlisted as a Reserve.
+&emsp;(3) be a member of a federally recognized unit or organization of the Army National Guard or the Air National Guard, as the case may be, in the grade in which he is to be enlisted as a Reserve.
 
 (b)(1) Under regulations to be prescribed by the Secretary of the Army, a person who enlists in the Army National Guard, or whose term of enlistment in the Army National Guard is extended, shall be concurrently enlisted, or his term of enlistment shall be concurrently extended, as the case may be, as a Reserve of the Army for service in the Army National Guard of the United States.
 

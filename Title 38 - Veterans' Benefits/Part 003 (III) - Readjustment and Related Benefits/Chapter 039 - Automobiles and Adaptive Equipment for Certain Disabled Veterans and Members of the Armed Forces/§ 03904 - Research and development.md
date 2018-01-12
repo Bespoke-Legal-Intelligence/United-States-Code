@@ -22,7 +22,7 @@ Another prior section 4006 was renumbered section 4007 of this title.
 
 Prior section 4007 was renumbered section 7107 of this title.
 
-Another prior section 4007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, related to simultaneously contested claims, prior to repeal by Pub. L. 87–666. See section 7105A of this title.
+Another prior section 4007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, related to simultaneously contestedclaims, prior to repeal by Pub. L. 87–666. See section 7105A of this title.
 
 Prior sections 4008 to 4010, 4051 to 4056, 4061 to 4069, 4081 to 4085, 4091, 4092, and 4096 to 4098 were renumbered sections 7108 to 7110, 7251 to 7256, 7261 to 7269, 7281 to 7285, 7291, 7292, and 7296 to 7298 of this title, respectively.
 

@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b <sup>1</sup> of this title) takes precedence over cost.
+Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforcesufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost.
 
 (c)
 
@@ -24,13 +24,9 @@ Delegation of Responsibilities.—The Secretary shall delegate responsibility fo
 
 Use of Plan, Inventory, and List.—The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
 
-&emsp;(1) The civilian strategic workforce plan (required by section 115b <sup>1</sup> of this title).
+&emsp;(1) The inventory of contracts for services required by section 2330a(c) of this title.
 
-&emsp;(2) The civilian positions master plan (required by section 1597(c) of this title).
-
-&emsp;(3) The inventory of contracts for services required by section 2330a(c) of this title.
-
-&emsp;(4) The list of activities required by the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
+&emsp;(2) The list of activities required by the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
 
 (e)
 
@@ -68,19 +64,21 @@ Performance of Civilian Functions by Military Personnel.—(1) Functions perform
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350.)
-
-#### References in Text
-
-Section 118b of this title, referred to in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, §1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
-
-Section 115b of this title, referred to in subsec. (d)(1), was repealed by Pub. L. 114–328, div. A, title XI, §1102(a), Dec. 23, 2016, 130 Stat. 2444.
+(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 115–91, §1081(a)(5), struck out "(as identified pursuant to section 118b of this title)" after "armed forces".
+
+Subsec. (d). Pub. L. 115–91, §1051(a)(6)(B), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
+
+"(1) The civilian strategic workforce plan (required by section 115b of this title).
+
+"(2) The civilian positions master plan (required by section 1597(c) of this title)."
 
 <b>2016</b>—Subsec. (g). Pub. L. 114–328 added subsec. (g).
 
@@ -140,7 +138,7 @@ Updates.—Not later than one year after submitting the plan required under para
 
 "(c)
 
-Comptroller General Report.—Not later than 120 days after the date of the enactment of this Act, and annually after the submittal of each update to the implementation plan under subsection (b), the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the policy required by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and progress made toward meeting the goals of the plan and including anyadditional information relating to the policy and plan that the Comptroller General determines appropriate."
+Comptroller General Report.—Not later than 120 days after the date of the enactment of this Act, and annually after the submittal of each update to the implementation plan under subsection (b), the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the policy required by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and progress made toward meeting the goals of the plan and including any additional information relating to the policy and plan that the Comptroller General determines appropriate."
 
 #### Savings To Be Achieved in Civilian Personnel Workforce and Service Contractor Workforce of the Department of Defense
 
@@ -171,6 +169,4 @@ Pub. L. 101–165, title IX, §9085, Nov. 21, 1989, 103 Stat. 1147.
 Pub. L. 100–463, title VIII, §8079, Oct. 1, 1988, 102 Stat. 2270–30.
 
 Pub. L. 100–202, §101(b) \[title VIII, §8105\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

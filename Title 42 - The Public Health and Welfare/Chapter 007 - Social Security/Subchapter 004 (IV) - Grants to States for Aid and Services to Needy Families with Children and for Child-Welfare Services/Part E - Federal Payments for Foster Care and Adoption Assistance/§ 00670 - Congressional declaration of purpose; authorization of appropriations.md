@@ -42,7 +42,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;"(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
 
-&emsp;"(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
+&emsp;"(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate theeffectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
 &emsp;"(7) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would also be improved by the identification and implementation of projects designed to eliminate the backlog of abuse and neglect cases, including the temporary hiring of additional judges, extension of court hours, and other projects designed to reduce existing caseloads.
 
@@ -234,7 +234,7 @@ Considerations.—In evaluating an application for a grant under this section th
 
 &emsp;"(4)
 
-Diversity of awards.—The Attorney General shall award grants under this section in a manner that results in a reasonable balance among grants awarded to State courts and grants awarded to local courts, grants awarded to courts located in urban areas and courts located in rural areas, and grants awarded in diverse geographical locations.
+Diversity of awards.—The Attorney General shall award grants under this section in a manner that results in a reasonable balance among grantsawarded to State courts and grants awarded to local courts, grants awarded to courts located in urban areas and courts located in rural areas, and grants awarded in diverse geographical locations.
 
 "(d)
 

@@ -20,7 +20,7 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 &emsp;(E) An economic assessment of the life cycle costs of the contract, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, conveyance, or lease.
 
-(3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with aprivate party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+(3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
 
 &emsp;(i) the closure or realignment of the installation for which housing will be provided under the contract;
 
@@ -34,7 +34,7 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 &emsp;(ii) assess the extent and likelihood, if any, of the liability of the United States with respect to the guarantee.
 
-(4) The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+(4) The report shall be submitted in an electronic medium pursuant to section 480 of thistitle not later than 21 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
 
 (b)
 
@@ -72,9 +72,11 @@ Annual Report on Privatization Projects.—The Secretary of Defense shall submit
 
 &emsp;(6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(4). Pub. L. 115–91 added par. (4) and struck out former par. (4) which read as follows: "The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title."
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–291 substituted "an evaluation" for "on evaluation" in introductory provisions.
 
@@ -90,7 +92,7 @@ Subsec. (b)(1). Pub. L. 111–383, §1075(h)(6), made technical correction to di
 
 Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
-<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease".
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period ", including a description of thespecific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease".
 
 Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted "covering each of the Funds" for "covering the Funds" and inserted before period at end ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year".
 

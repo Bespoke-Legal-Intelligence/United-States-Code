@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A demonstration project conducted by an eligible entity awarded a grant under this section shall, if appropriate, provide eligible individuals participating in the project with financial aid, child care, casemanagement, and other supportive services.
+&emsp;&emsp;&emsp;A demonstration project conducted by an eligible entity awarded a grant under this section shall, if appropriate, provide eligible individuals participating in the project with financial aid, child care, case management, and other supportive services.
 
 #### (ii) Treatment
 
@@ -34,7 +34,7 @@
 
 #### (B) Evaluation
 
-&emsp;&emsp;The Secretary shall, by grant, contract, or interagency agreement, evaluate the demonstration projects conducted under this subsection. Such evaluation shall include identification of successful activities for creating opportunities for developing and sustaining, particularly with respect to low-income individuals and other entry-level workers, a health professions workforce that has accessible entry points, that meets high standards for education, training, certification, and professional development, and that provides increased wages and affordable benefits, including health care coverage, that are responsive to the workforce's needs.
+&emsp;&emsp;The Secretary shall, by grant, contract, or interagency agreement, evaluate the demonstration projects conducted under this subsection. Such evaluation shall include identification of successful activities for creating opportunities for developing and sustaining, particularly with respect to low-income individuals and other entry-level workers, a health professions workforce that has accessible entry points, that meets high standards for education, training, certification, and professional development, and that provides increased wages and affordablebenefits, including health care coverage, that are responsive to the workforce's needs.
 
 #### (C) Report to Congress
 
@@ -82,7 +82,7 @@
 
 #### (1) Authority to award grants
 
-&emsp;Not later than 18 months after March 23, 2010, the Secretary shall award grants to eligible entities that are States to conduct demonstration projects for purposes of developing core training competencies and certificationprograms for personal or home care aides. The Secretary shall—
+&emsp;Not later than 18 months after March 23, 2010, the Secretary shall award grants to eligible entities that are States to conduct demonstration projects for purposes of developing core training competencies and certification programs for personal or home care aides. The Secretary shall—
 
 &emsp;&emsp;(A) evaluate the efficacy of the core training competencies described in paragraph (3)(A) for newly hired personal or home care aides and the methods used by States to implement such core training competencies in accordance with the issues specified in paragraph (3)(B); and
 

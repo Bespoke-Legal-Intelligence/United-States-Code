@@ -18,7 +18,7 @@ Daily trading records shall be maintained in a form suitable to the Commission f
 
 #### (e) Disclosure of information
 
-Before the beginning of trading each day, the exchange shall, insofar as is practicable and under terms and conditions specified by the Commission, make public the volume of trading on each type of contract for the previous day and such other information as the Commission deems necessary in the public interest and prescribes by rule, order, or regulation.
+Before the beginning of trading each day, the exchange shall, insofar as is practicable and under terms and conditions specified by the Commission, make public the volume of trading on each type of contract for the previous day and such other information as the Commissiondeems necessary in the public interest and prescribes by rule, order, or regulation.
 
 #### (f) Authority of Commission to make separate determinations unimpaired
 

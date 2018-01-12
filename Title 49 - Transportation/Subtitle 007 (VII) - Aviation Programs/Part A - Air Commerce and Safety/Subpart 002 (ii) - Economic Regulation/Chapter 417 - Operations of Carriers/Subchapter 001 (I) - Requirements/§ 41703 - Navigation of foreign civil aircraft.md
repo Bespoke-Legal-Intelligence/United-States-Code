@@ -98,7 +98,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1108(b) (3d sentence), 72 Stat. 799; Feb. 15,
 
 49 App.:1508(b) (last sentence).
 
-In subsection (a), the word "country" is substituted for "nation" for consistency in the revised title and with other titles of the United States Code. In clause\(3), the words "permit, order, or regulation issued" are omitted as surplus. In clause (4), the words "conditions, and limitations" are omitted as being included in "terms".
+In subsection (a), the word "country" is substituted for "nation" for consistency in the revised title and with other titles of the United States Code. In clause (3), the words "permit, order, or regulation issued" are omitted as surplus. In clause (4), the words "conditions, and limitations" are omitted as being included in "terms".
 
 In subsection (b)(2), the word "agreement" is substituted for "treaty, convention, or agreement" for clarity and consistency in the revised title. The words "which may be in force" are omitted as surplus. The words "or countries" are omitted because of 1:1.
 

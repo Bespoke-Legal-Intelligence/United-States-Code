@@ -52,7 +52,7 @@ Research.—
 
 &emsp;(1)
 
-In general.—The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (b)(2) to carry out a public transportation research project that has as its ultimate goal the development and deployment of new and innovative ideas, practices, and approaches.
+In general.—The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (b)(2) to carry out a public transportation research project that has as its ultimate goalthe development and deployment of new and innovative ideas, practices, and approaches.
 
 &emsp;(2)
 
@@ -176,7 +176,7 @@ Definitions.—In this subsection—
 
 (g) <sup>1</sup>
 
-Annual Report on Research.—Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
+Annual Report on Research.—Not later than the first Monday in February of each year, the Secretary shall make available to the publicon the Web site of the Department of Transportation, a report that includes—
 
 &emsp;(1) a description of each project that received assistance under this section during the preceding fiscal year; and
 
@@ -412,7 +412,7 @@ Subsec. (f). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relatin
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
+Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee onScience, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (f) relating to government share of costs as (g).
 

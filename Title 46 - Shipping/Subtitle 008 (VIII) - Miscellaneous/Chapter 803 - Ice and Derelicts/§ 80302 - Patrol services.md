@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—Unless the agreements made under section 80301 of this title provide otherwise, an ice patrol shall be maintained during the entire ice season in guarding the southeastern, southern, and southwestern limits of the region of icebergs in the vicinity of the Grand Banks of Newfoundland. The patrol shall inform trans-Atlantic and other passing vessels by radio and other available means of the ice conditions and the extent of the dangerous region. During the ice season, there shall be maintained a service of study of ice and current conditions, a service of providing assistance to vessels and crews requiring assistance, and a service of removing and destroying derelicts. Any of these services may be maintained during the remainder of the year as may be advisable.
+General Requirements.—Unless the agreements made under section 80301 of this title provide otherwise, an ice patrol shall be maintained during the entire ice season in guarding the southeastern, southern, and southwestern limits of the region of icebergs in thevicinity of the Grand Banks of Newfoundland. The patrol shall inform trans-Atlantic and other passing vessels by radio and other available means of the ice conditions and the extent of the dangerous region. During the ice season, there shall be maintained a service of study of ice and current conditions, a service of providing assistance to vessels and crews requiring assistance, and a service of removing and destroying derelicts. Any of these services may be maintained during the remainder of the year as may be advisable.
 
 (b)
 
@@ -32,7 +32,7 @@ Administration.—The Commandant of the Coast Guard, under the direction of the 
 
 (e)
 
-Annual Report.—The Commandant shall publish an annual report of the activities of theservices provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
+Annual Report.—The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
 
 (Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, §314(a)(2), Dec. 18, 2014, 128 Stat. 3049.)
 

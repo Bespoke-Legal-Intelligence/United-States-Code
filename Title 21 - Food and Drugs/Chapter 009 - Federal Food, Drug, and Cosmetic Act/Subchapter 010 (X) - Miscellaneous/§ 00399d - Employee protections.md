@@ -16,7 +16,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (1) In general
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days afterthe date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation
 
@@ -26,7 +26,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (B) Reasonable cause found; preliminary order
 
-&emsp;&emsp;If the Secretary concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay anyreinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+&emsp;&emsp;If the Secretary concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 #### (C) Dismissal of complaint
 
@@ -90,7 +90,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (A) In general
 
-&emsp;&emsp;Unless the complainant brings an action under paragraph (4), any person adversely affected or aggrieved by a final order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filednot later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+&emsp;&emsp;Unless the complainant brings an action under paragraph (4), any person adversely affected or aggrieved by a final order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 #### (B) No judicial review
 

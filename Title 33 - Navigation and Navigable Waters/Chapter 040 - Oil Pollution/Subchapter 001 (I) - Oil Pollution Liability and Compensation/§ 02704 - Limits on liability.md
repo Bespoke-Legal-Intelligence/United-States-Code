@@ -36,7 +36,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (2) Treated as facility for excess liability
 
-&emsp;To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+&emsp;To the extent that removal costs and damages from any incident described in paragraph\(1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 
 #### (c) Exceptions
 
@@ -104,7 +104,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 

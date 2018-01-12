@@ -6,7 +6,7 @@
 
 &emsp;(2) Outpatient care.
 
-&emsp;(3) Drugs.
+&emsp;(3) Drugs, including, in accordance with subsection (h), medically necessary vitamins.
 
 &emsp;(4) Treatment of medical and surgical conditions.
 
@@ -36,6 +36,8 @@
 
 &emsp;(17) Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
 
+&emsp;(18) In accordance with subsection (h), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies).
+
 (b) The following types of health care may not be provided under section 1076 of this title:
 
 &emsp;(1) Domiciliary or custodial care.
@@ -48,7 +50,7 @@
 
 (2)(A) Dependents who are 12 years of age or younger and are covered by a dental plan established under section 1076a of this title may be treated by postgraduate dental residents in a dental treatment facility of the uniformed services under a graduate dental education program accredited by the American Dental Association if—
 
-&emsp;(i) treatment of pediatric dental patients is necessary in order to satisfy an accreditationstandard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
+&emsp;(i) treatment of pediatric dental patients is necessary in order to satisfy an accreditation standard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
 
 &emsp;(ii) the number of pediatric patients at such facility is insufficient to support satisfaction of the accreditation or professional requirements in pediatric dental care that apply to such program or students.
 
@@ -92,63 +94,47 @@
 
 &emsp;(C) otherwise assuring the proper functioning of the equipment.
 
-(g) In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents of former members of the uniformed services at cost to the United States.
+(g) In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents eligible for care under this section at cost to the United States.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220.)
+(h)(1) Vitamins that may be provided under subsection (a)(3) are vitamins used for the management of a covered disease or condition pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation.
 
-#### Amendment of Section
+(2) Medically necessary food that may be provided under subsection (a)(18)—
 
-<i>Pub. L. 114–328, div. A, title VII, §714, Dec. 23, 2016, 130 Stat. 2220, provided that, applicable to health care provided under this chapter on or after the date that is one year after Dec. 23, 2016, this section is amended:</i>
+&emsp;(A) is food, including a low protein modified food product or an amino acid preparation product, that is—
 
-<i>(1) in subsection (a)—</i>
+&emsp;&emsp;(i) furnished pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation, for the dietary management of a covered disease or condition;
 
-<i>(A) in paragraph (3), by inserting before the period at the end the following: ", including, in accordance with subsection (g), medically necessary vitamins"; and</i>
+&emsp;&emsp;(ii) a specially formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
 
-<i>(B) by adding at the end the following new paragraph:</i>
+&emsp;&emsp;(iii) intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;
 
-&emsp;<i>"(18) In accordance with subsection (g), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies)."; and</i>
+&emsp;&emsp;(iv) intended to be used under medical supervision, which may include in a home setting; and
 
-<i>(2) by adding at the end the following new subsection:</i>
+&emsp;&emsp;(v) intended only for an individual receiving active and ongoing medical supervision under which the individual requires medical care on a recurring basis for, among other things, instructions on the use of the food; and
 
-<i>"(h)(1) Vitamins that may be provided under subsection (a)(3) are vitamins used for the management of a covered disease or condition pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation.</i>
+&emsp;(B) may not include—
 
-<i>"(2) Medically necessary food that may be provided under subsection (a)(18)—</i>
+&emsp;&emsp;(i) food taken as part of an overall diet designed to reduce the risk of a disease or medical condition or as weight-loss products, even if the food is recommended by a physician or other health care professional;
 
-&emsp;<i>"(A) is food, including a low protein modified food product or an amino acid preparation product, that is—</i>
+&emsp;&emsp;(ii) food marketed as gluten-free for the management of celiac disease or non-celiac gluten sensitivity;
 
-&emsp;&emsp;<i>"(i) furnished pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation, for the dietary management of a covered disease or condition;</i>
+&emsp;&emsp;(iii) food marketed for the management of diabetes; or
 
-&emsp;&emsp;<i>"(ii) a specially formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;</i>
+&emsp;&emsp;(iv) such other products as the Secretary determines appropriate.
 
-&emsp;&emsp;<i>"(iii) intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;</i>
+(3) In this subsection, the term "covered disease or condition" means—
 
-&emsp;&emsp;<i>"(iv) intended to be used under medical supervision, which may include in a home setting; and</i>
+&emsp;(A) inborn errors of metabolism;
 
-&emsp;&emsp;<i>"(v) intended only for an individual receiving active and ongoing medical supervision under which the individual requires medical care on a recurring basis for, among other things, instructions on the use of the food; and</i>
+&emsp;(B) medical conditions of malabsorption;
 
-&emsp;<i>"(B) may not include—</i>
+&emsp;(C) pathologies of the alimentary tract or the gastrointestinal tract;
 
-&emsp;&emsp;<i>"(i) food taken as part of an overall diet designed to reduce the risk of a disease or medical condition or as weight-loss products, even if the food is recommended by a physician or other health care professional;</i>
+&emsp;(D) a neurological or physiological condition; and
 
-&emsp;&emsp;<i>"(ii) food marketed as gluten-free for the management of celiac disease or non-celiac gluten sensitivity;</i>
+&emsp;(E) such other diseases or conditions the Secretary determines appropriate.
 
-&emsp;&emsp;<i>"(iii) food marketed for the management of diabetes; or</i>
-
-&emsp;&emsp;<i>"(iv) such other products as the Secretary determines appropriate.</i>
-
-<i>"(3) In this subsection, the term 'covered disease or condition' means—</i>
-
-&emsp;<i>"(A) inborn errors of metabolism;</i>
-
-&emsp;<i>"(B) medical conditions of malabsorption;</i>
-
-&emsp;<i>"(C) pathologies of the alimentary tract or the gastrointestinal tract;</i>
-
-&emsp;<i>"(D) a neurological or physiological condition; and</i>
-
-&emsp;<i>"(E) such other diseases or conditions the Secretary determines appropriate."</i>
-
-<i>See 2016 Amendment notes below.</i>
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, §739(c), Dec. 12, 2017, 131 Stat. 1447.)
 
 Historical and Revision Notes
 
@@ -197,6 +183,10 @@ Pub. L. 96–154, title VII, §769, Dec. 21, 1979, 93 Stat. 1163.
 A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(3), (18). Pub. L. 115–91, §739(c)(1), substituted "subsection (h)" for "subsection (g)".
+
+Subsec. (g). Pub. L. 115–91, §739(c)(2), substituted "dependents eligible for care under this section" for "dependents of former members of the uniformed services".
 
 <b>2016</b>—Subsec. (a)(3). Pub. L. 114–328, §714(a)(1)(A), inserted before period at end ", including, in accordance with subsection (g), medically necessary vitamins".
 
@@ -384,7 +374,7 @@ Pilot Project on Post Traumatic Stress Disorder.—
 
 &emsp;"(1)
 
-Requirement.—The Secretary of Defense shall carry out a pilot project to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
+Requirement.—The Secretary of Defense shall carry out a pilot project to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provideearly diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
 
 &emsp;"(2)
 

@@ -9,9 +9,7 @@
 | [193\.](%C2%A7%2000193%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
 | [194\.](%C2%A7%2000194%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [195\.](%C2%A7%2000195%20-%20Definitions.md) | Definitions. |
-| [196\.](%C2%A7%2000196%20-%20Emergency%20foreign%20vessel%20acquisition%3B%20purchase%20or%20requisition%20of%20vessels%20lying%20idle%20in%20United%20States%20waters.md) | Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters. |
-| [197\.](%C2%A7%2000197%20-%20Voluntary%20purchase%20or%20charter%20agreements.md) | Voluntary purchase or charter agreements. |
-| [198\.](%C2%A7%2000198%20-%20Requisitioned%20vessels.md) | Requisitioned vessels. |
+| 196 to 198. Transferred. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +26,4 @@
 - [&sect; 00193 - Repealed. June 25, 1948, ch. 645, &sect;21, 62 Stat. 862](%C2%A7%2000193%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md)
 - [&sect; 00194 - Enforcement provisions](%C2%A7%2000194%20-%20Enforcement%20provisions.md)
 - [&sect; 00195 - Definitions](%C2%A7%2000195%20-%20Definitions.md)
-- [&sect; 00196 - Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters](%C2%A7%2000196%20-%20Emergency%20foreign%20vessel%20acquisition%3B%20purchase%20or%20requisition%20of%20vessels%20lying%20idle%20in%20United%20States%20waters.md)
-- [&sect; 00197 - Voluntary purchase or charter agreements](%C2%A7%2000197%20-%20Voluntary%20purchase%20or%20charter%20agreements.md)
-- [&sect; 00198 - Requisitioned vessels](%C2%A7%2000198%20-%20Requisitioned%20vessels.md)
+- [&sect; 00196 to 198 - Transferred](%C2%A7%2000196%20to%20198%20-%20Transferred.md)

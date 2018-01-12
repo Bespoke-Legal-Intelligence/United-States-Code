@@ -10,5 +10,5 @@ A prior section 796e–3, Pub. L. 93–112, title VII, §714, as added Pub. L. 1
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–128 substituted "$22,878,000 for fiscal year 2015, $24,645,000 for fiscal year 2016, $25,156,000 forfiscal year 2017, $25,714,000 for fiscal year 2018, $26,319,000 for fiscal year 2019, and $26,877,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
+<b>2014</b>—Pub. L. 113–128 substituted "$22,878,000 for fiscal year 2015, $24,645,000 for fiscal year 2016, $25,156,000 for fiscal year 2017, $25,714,000 for fiscal year 2018, $26,319,000 for fiscal year 2019, and $26,877,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 

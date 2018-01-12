@@ -4,7 +4,7 @@
 
 #### (1) Conclusiveness of certified claims
 
-&emsp;In any action brought under this subchapter, the court shall accept as conclusive proof of ownership of an interest in property a certification of a claim to ownership of that interestthat has been made by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 (22 U.S.C. 1643 and following).
+&emsp;In any action brought under this subchapter, the court shall accept as conclusive proof of ownership of an interest in property a certification of a claim to ownership of that interest that has been made by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 (22 U.S.C. 1643 and following).
 
 #### (2) Claims not certified
 

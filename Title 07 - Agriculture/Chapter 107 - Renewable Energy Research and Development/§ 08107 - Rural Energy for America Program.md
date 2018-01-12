@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energyfor America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—
+The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energy for America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—
 
 &emsp;(1) grants for energy audits and renewable energy development assistance; and
 
@@ -118,7 +118,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (B) Tier 1
 
-&emsp;&emsp;The Secretary shall establish a separate application process for projects for whichthe cost of the activity funded under this subsection is not more than $80,000.
+&emsp;&emsp;The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is not more than $80,000.
 
 #### (C) Tier 2
 
@@ -130,7 +130,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (E) Application process
 
-&emsp;&emsp;The Secretary shall establish an application, evaluation, and oversight process that is the most simplified for tier I projects and more comprehensive for each subsequent tier.
+&emsp;&emsp;The Secretary shall establish an application, evaluation, and oversight process thatis the most simplified for tier I projects and more comprehensive for each subsequent tier.
 
 #### (d) Outreach
 

@@ -184,7 +184,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an adult beef cow, 15.7 pounds of corn per day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any other type of weight of livestock, an amount determined by the Secretary that representsthe average number of pounds of corn per day necessary to feed the livestock.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any other type of weight of livestock, an amount determined by the Secretary that represents the average number of pounds of corn per day necessary to feed the livestock.
 
 #### (iii) Corn price per pound
 
@@ -262,7 +262,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use not more than $20,000,000 of the funds of the Commodity Credit Corporation to provide emergency reliefto eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
+&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use not more than $20,000,000 of the funds of the Commodity Credit Corporation to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
 
 #### (2) Use of funds
 
@@ -350,5 +350,5 @@ In this section:
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (c)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII is classified generally to subpart B (§3831 et seq.) of partI of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (c)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

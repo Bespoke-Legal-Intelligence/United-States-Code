@@ -1,6 +1,6 @@
 ### \[§168. Repealed. Pub. L. 114–328, div. A, title XII, §1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532\]
 
-Section, added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, §1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, \[div. A\], title XII, §1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
+Section, added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L.104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, §1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, \[div. A\], title XII, §1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
 
 #### Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations
 

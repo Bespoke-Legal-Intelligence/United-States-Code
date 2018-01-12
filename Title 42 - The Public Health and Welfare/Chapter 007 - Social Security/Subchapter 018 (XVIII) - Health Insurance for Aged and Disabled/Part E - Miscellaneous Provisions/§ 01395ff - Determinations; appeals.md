@@ -110,7 +110,7 @@
 
 #### (iv) Requirements for representatives of a beneficiary
 
-&emsp;&emsp;&emsp;The provisions of section 405(j) of this title and of section 406 of this title (otherthan subsection (a)(4) of such section) regarding representation of claimants shall apply to representation of an individual with respect to appeals under this section in the same manner as they apply to representation of an individual under those sections.
+&emsp;&emsp;&emsp;The provisions of section 405(j) of this title and of section 406 of this title (other than subsection (a)(4) of such section) regarding representation of claimants shall apply to representation of an individual with respect to appeals under this section in the same manner as they apply to representation of an individual under those sections.
 
 #### (C) Succession of rights in cases of assignment
 
@@ -172,7 +172,7 @@
 
 #### (B) Prompt determinations
 
-&emsp;&emsp;If, after or coincident with appropriately filing a request for an administrative hearing, the appellant requests a determination by the appropriate review entity that the Departmental Appeals Board does not have the authority to decide the question of law or regulations relevant to the matters in controversy and that there is no material issue of fact in dispute, and if such request is accompanied by the documents and materials as the appropriate review entity shall require for purposes of making such determination, such review entity shall make adetermination on the request in writing within 60 days after the date such review entity receives the request and such accompanying documents and materials. Such a determination by such review entity shall be considered a final decision and not subject to review by the Secretary.
+&emsp;&emsp;If, after or coincident with appropriately filing a request for an administrative hearing, the appellant requests a determination by the appropriate review entity that the Departmental Appeals Board does not have the authority to decide the question of law or regulations relevant to the matters in controversy and that there is no material issue of fact in dispute, and if such request is accompanied by the documents and materials as the appropriate review entity shall require for purposes of making such determination, such review entity shall make a determination on the request in writing within 60 days after the date such review entity receives the request and such accompanying documents and materials. Such a determination by such review entity shall be considered a final decision and not subject to review by the Secretary.
 
 #### (C) Access to judicial review
 
@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term "qualified independent contractor" means anentity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 
@@ -276,7 +276,7 @@
 
 #### (iv) Extension
 
-&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may be granted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
+&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may begranted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
 
 #### (D) Qualifications for reviewers
 
@@ -342,7 +342,7 @@
 
 #### (iii) Limitations on entity compensation
 
-&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor in connection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
+&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor inconnection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
 
 #### (4) Number of qualified independent contractors
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(i) Such a determination shall not be reviewed by any administrative law judge.
 
-&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
+&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5 or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
 
 &emsp;&emsp;&emsp;(iii) Upon the filing of a complaint by an aggrieved party, such a determination shall be reviewed by the Departmental Appeals Board of the Department of Health and Human Services. In conducting such a review, the Departmental Appeals Board—
 
@@ -564,7 +564,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the individual is not an employee of the intermediary, carrier, or contractor and does not provide services exclusively or primarily to or on behalf of such intermediary, carrier, or contractor;
 
-&emsp;&emsp;&emsp;(ii) prohibit an individual who has staff privileges at the institution where thetreatment involved takes place from serving as a reviewer merely on the basis of having such staff privileges if the existence of such privileges is disclosed to the Secretary and such individual (or authorized representative), and neither party objects; or
+&emsp;&emsp;&emsp;(ii) prohibit an individual who has staff privileges at the institution where the treatment involved takes place from serving as a reviewer merely on the basis of having such staff privileges if the existence of such privileges is disclosed to the Secretary and such individual (or authorized representative), and neither party objects; or
 
 &emsp;&emsp;&emsp;(iii) prohibit receipt of compensation by a reviewing professional from a contractor if the compensation is provided consistent with paragraph (3).
 
@@ -760,7 +760,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title V, §522(a)\], added subsec. (
 
 <b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–33 inserted "(or $100 in the case of home health services)" after "$500".
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively" after "section 405(g) of this title" in closing provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a referenceto the Secretary or the Department of Health and Human Services, respectively" after "section 405(g) of this title" in closing provisions.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted "or a claim for benefits with respect to home health services under part B of this subchapter" before "shall".
 
@@ -834,7 +834,7 @@ Amendment by section 1(a)(6) \[title V, §522(a)\] of Pub. L. 106–554 applicab
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, to be considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, tobe considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -864,7 +864,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Pub. L. 92–603, title II, §299O(b), Oct. 30, 1972, 86 Stat. 1465, provided that:
 
-"(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[42 U.S.C.1395ff(b)(1)(A), (B)\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
+"(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)(A), (B)\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
 
 "(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[42 U.S.C. 1395ff(b)(2), (b)(1)(C)\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\], filed—
 
@@ -982,7 +982,7 @@ Shared resources.—The Secretary shall enter into such arrangements with the Co
 
 "(c)
 
-Increased Financial Support.—In addition to any amounts otherwise appropriated, to ensure timely action on appeals before administrative law judges andthe Departmental Appeals Board consistent with section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act), there are authorized to be appropriated (in appropriate part from the Federal Hospital Insurance Trust Fund, established under section 1817 of the Social Security Act (42 U.S.C. 1395i), and the Federal Supplementary Medical Insurance Trust Fund, established under section 1841 of such Act (42 U.S.C. 1395t)) to the Secretary such sums as are necessary for fiscal year 2005 and each subsequent fiscal year to—
+Increased Financial Support.—In addition to any amounts otherwise appropriated, to ensure timely action on appeals before administrative law judges and the Departmental Appeals Board consistent with section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act), there are authorized to be appropriated (in appropriate part from the Federal Hospital Insurance Trust Fund, established under section 1817 of the Social Security Act (42 U.S.C. 1395i), and the Federal Supplementary Medical Insurance Trust Fund, established under section 1841 of such Act (42 U.S.C. 1395t)) to the Secretary such sums as are necessary for fiscal year 2005 and each subsequent fiscal year to—
 
 &emsp;"(1) increase the number of administrative law judges (and their staffs) under subsection (b)(4);
 

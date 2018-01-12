@@ -16,7 +16,7 @@ The purposes of this chapter are to—
 
 &emsp;(7) provide state <sup>1</sup> programs authorized under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) with information necessary to design land use plans and coastal zone regulations that will contribute to the protection of coastal ecosystems; and
 
-&emsp;(8) provide certain water pollution control programs authorized under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) with information necessary to design and implement effective coastal water pollution controls.
+&emsp;(8) provide certain water pollution control programs authorized under the Federal WaterPollution Control Act (33 U.S.C. 1251 et seq.) with information necessary to design and implement effective coastal water pollution controls.
 
 (Pub. L. 92–532, title V, §501, as added Pub. L. 102–567, title V, §501, Oct. 29, 1992, 106 Stat. 4293.)
 

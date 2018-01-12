@@ -42,7 +42,7 @@ If the sulfur content limit of a voluntary standard that met the conditions of s
 
 #### (f) Future rulemaking
 
-The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
+The Commission, at any time subsequent to publication of the consumer product safety rulerequired by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
 (Pub. L. 112–266, §4, Jan. 14, 2013, 126 Stat. 2438.)
 
@@ -60,7 +60,7 @@ Labeling Requirement.—Beginning 180 days after the date of the enactment of th
 
 "(b)
 
-Revision of Standard.—If the gypsum board labeling provisions of the standard referred to in subsection (a) are revised on or after the date of the enactment of this Act, ASTM International shall notify the Commission of such revision no later than 60 days after final approval of the revision by ASTM International. The revised provisions shall be treated as a rule promulgated by the Commission under section 14(c) of such Act (15 U.S.C. 2063(c)), in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the revised provisions do not adequately identify gypsumboard by manufacturer and month and year of manufacture, in which case the Commission shall continue to enforce the prior version."
+Revision of Standard.—If the gypsum board labeling provisions of the standard referred to in subsection (a) are revised on or after the date of the enactment of this Act, ASTM International shall notify the Commission of such revision no later than 60 days after final approval of the revision by ASTM International. The revised provisions shall be treated as a rule promulgated by the Commission under section 14(c) of such Act (15 U.S.C. 2063(c)), in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the revised provisions do not adequately identify gypsum board by manufacturer and month and year of manufacture, in which case the Commission shall continue to enforce the prior version."
 
 #### Revision of Remediation Guidance for Drywall Disposal Required
 

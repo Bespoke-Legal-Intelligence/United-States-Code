@@ -2,7 +2,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and the Secretary of State should purchase, package, and transport to secure locations weapons-grade nuclear materials from a stockpile of such materials if such officials determine that—
+&emsp;(1) the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, andthe Secretary of State should purchase, package, and transport to secure locations weapons-grade nuclear materials from a stockpile of such materials if such officials determine that—
 
 &emsp;&emsp;(A) there is a significant risk of theft of such materials; and
 

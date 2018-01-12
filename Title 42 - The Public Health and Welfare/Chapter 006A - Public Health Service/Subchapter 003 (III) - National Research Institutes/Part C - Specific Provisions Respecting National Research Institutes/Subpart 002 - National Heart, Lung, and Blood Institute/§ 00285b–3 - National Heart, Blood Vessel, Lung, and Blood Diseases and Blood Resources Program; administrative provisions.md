@@ -18,7 +18,7 @@
 
 &emsp;(H) public and professional education relating to all aspects of such diseases, including the prevention of such diseases, and the use of blood and blood products and the management of blood resources;
 
-&emsp;(I) establishment of programs for study and research into heart, blood vessel, lung, and blood diseases of children (including cystic fibrosis, hyaline membrane, hemolytic diseases such as sickle cell anemia and Cooley's anemia, and hemophilic diseases) and for the development and demonstration of diagnostic, treatment, and preventive approaches to such diseases; and
+&emsp;(I) establishment of programs for study and research into heart, blood vessel, lung, and blood diseases of children (including cystic fibrosis, hyaline membrane, hemolytic diseases such as sickle cell anemia and Cooley's anemia, and hemophilic diseases) and for the development and demonstration of diagnostic,treatment, and preventive approaches to such diseases; and
 
 &emsp;(J) establishment of programs for study, research, development, demonstrations and evaluation of emergency medical services for people who become critically ill in connection with heart, blood vessel, lung, or blood diseases.
 

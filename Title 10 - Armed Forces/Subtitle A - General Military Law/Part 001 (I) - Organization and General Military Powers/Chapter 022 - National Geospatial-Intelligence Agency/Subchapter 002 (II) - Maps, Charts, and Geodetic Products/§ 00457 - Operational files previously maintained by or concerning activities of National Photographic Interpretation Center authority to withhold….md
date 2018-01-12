@@ -16,7 +16,7 @@ Covered Operational Files.—The authority under subsection (a) applies to opera
 
 Operational Files Defined.—In this section, the term "operational files" has the meaning given that term in section 701(b) of the National Security Act of 1947 (50 U.S.C. 3141(b)).
 
-(Added Pub. L. 106–65, div. A, title X, §1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24,2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, §1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 106–65, div. A, title X, §1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, §1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Nothing in this subchapter—
 
 #### (c) Other
 
-A food may not be considered to be "not bioengineered", "non-GMO", or any other similarclaim describing the absence of bioengineering in the food solely because the food is not required to bear a disclosure that the food is bioengineered under this subchapter.
+A food may not be considered to be "not bioengineered", "non-GMO", or any other similar claim describing the absence of bioengineering in the food solely because the food is not required to bear a disclosure that the food is bioengineered under this subchapter.
 
 (Aug. 14, 1946, ch. 966, title II, §294, as added Pub. L. 114–216, §1, July 29, 2016, 130 Stat. 838.)
 

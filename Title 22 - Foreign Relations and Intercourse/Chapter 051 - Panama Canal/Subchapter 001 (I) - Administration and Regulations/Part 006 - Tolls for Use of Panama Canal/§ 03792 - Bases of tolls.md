@@ -14,7 +14,7 @@ Vessels operated by the United States, including vessels of war and auxiliary ve
 
 #### (d) Levy of tolls
 
-The levy of tolls is subject to the provisions of section 1 of Article III of the treaty between the United States of America and Great Britain signed November 18, 1901, of Article I of the treaty between the United States of America and the Republic of Colombia signed April 6, 1914, and of Articles II, III, and VI of the Treaty Concerning Permanent Neutrality and Operation of the Panama Canal, between the United States of America and the Republic of Panama, signed September 7, 1977.
+The levy of tolls is subject to the provisions of section 1 of Article III of the treaty between the United States of America and Great Britain signed November 18, 1901, of Article I of the treaty between the United States of America and the Republic of Colombia signed April 6, 1914, and of Articles II, III, and VI of the Treaty Concerning Permanent Neutrality and Operation ofthe Panama Canal, between the United States of America and the Republic of Panama, signed September 7, 1977.
 
 (Pub. L. 96–70, title I, §1602, Sept. 27, 1979, 93 Stat. 489; Pub. L. 100–203, title V, §5427, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 102–484, div. C, title XXXV, §§3513, 3521(b)(2), Oct. 23, 1992, 106 Stat. 2655, 2657; Pub. L. 105–85, div. C, title XXXV, §3544, Nov. 18, 1997, 111 Stat. 2072.)
 

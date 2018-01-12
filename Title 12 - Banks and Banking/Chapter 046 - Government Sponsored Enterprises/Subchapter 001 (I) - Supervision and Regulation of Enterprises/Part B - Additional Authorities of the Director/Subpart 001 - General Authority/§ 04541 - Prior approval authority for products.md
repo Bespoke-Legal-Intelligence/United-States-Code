@@ -34,7 +34,7 @@ In considering any request for approval of a product pursuant to subsection (a),
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the close of the public comment period described inparagraph (3), the Director shall approve or deny the product, specifying the grounds for such decision in writing.
+&emsp;&emsp;Not later than 30 days after the close of the public comment period described in paragraph (3), the Director shall approve or deny the product, specifying the grounds for such decision in writing.
 
 #### (B) Failure to act
 

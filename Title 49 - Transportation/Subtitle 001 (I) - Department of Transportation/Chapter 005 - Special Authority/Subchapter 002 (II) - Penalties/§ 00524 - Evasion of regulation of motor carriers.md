@@ -30,7 +30,7 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised section for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-The section does not apply to motor carriers of migrant workers and motor private carriers because 49:322(c) (related to evasion of regulation) only applies to motor carriers and 49:304(a)(3) and (3a) do not apply 49:322(c) (related to evasion of regulation) to motor carriers of migrant workers and motor private carriers.
+The section does not apply to motor carriers of migrant workers and motor private carriers because 49:322(c) (related to evasion of regulation) only appliesto motor carriers and 49:304(a)(3) and (3a) do not apply 49:322(c) (related to evasion of regulation) to motor carriers of migrant workers and motor private carriers.
 
 #### Amendments
 

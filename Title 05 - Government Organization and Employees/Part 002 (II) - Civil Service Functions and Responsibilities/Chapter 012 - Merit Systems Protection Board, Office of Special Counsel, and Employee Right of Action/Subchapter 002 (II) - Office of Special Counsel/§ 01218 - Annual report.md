@@ -1,10 +1,50 @@
 ### §1218. Annual report
 
-The Special Counsel shall submit an annual report to the Congress on the activities of the Special Counsel, including the number, types, and disposition of allegations of prohibited personnel practices filed with it, investigations conducted by it, cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i), and actions initiated by it before the Merit Systems Protection Board, as well as a description of the recommendations and reports made by it to other agencies pursuant to this subchapter, and the actions taken by the agencies as a result of the reports or recommendations. The report required by this section shall include whatever recommendations for legislation or other action by Congress the Special Counsel may consider appropriate.
+The Special Counsel shall submit to Congress, on an annual basis, a report regarding the activities of the Special Counsel, which shall include, for the year preceding the submission of the report—
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §3(e), Oct. 29, 1994, 108 Stat. 4363.)
+&emsp;(1) the number, types, and disposition of allegations of prohibited personnel practices filed with the Special Counsel and the costs of resolving such allegations;
+
+&emsp;(2) the number of investigations conducted by the Special Counsel;
+
+&emsp;(3) the number of stays and disciplinary actions negotiated with agencies by the Special Counsel;
+
+&emsp;(4) the number of subpoenas issued by the Special Counsel;
+
+&emsp;(5) the number of instances in which the Special Counsel reopened an investigation after the Special Counsel had made an initial determination with respect to the investigation;
+
+&emsp;(6) the actions that resulted from reopening investigations, as described in paragraph (5);
+
+&emsp;(7) the number of instances in which the Special Counsel did not make a determination before the end of the 240-day period described in section 1214(b)(2)(A)(i) regarding whether there were reasonable grounds to believe that a prohibited personnel practice had occurred, existed, or was to be taken;
+
+&emsp;(8) a description of the recommendations and reports made by the Special Counsel to other agencies under this subchapter and the actions taken by the agencies as a result of the recommendations or reports;
+
+&emsp;(9) the number of—
+
+&emsp;&emsp;(A) actions initiated before the Merit Systems Protection Board, including the number of corrective action petitions and disciplinary action complaints initiated; and
+
+&emsp;&emsp;(B) stays and extensions of stays obtained from the Merit Systems Protection Board;
+
+&emsp;(10) the number of prohibited personnel practice complaints that resulted in a favorable action for the complainant, other than a stay or an extension of a stay, organized by actions in—
+
+&emsp;&emsp;(A) complaints dealing with reprisals against whistleblowers; and
+
+&emsp;&emsp;(B) all other complaints;
+
+&emsp;(11) the number of prohibited personnel practice complaints that were resolved by an agreement between an agency and an individual, organized by agency and agency components in—
+
+&emsp;&emsp;(A) complaints dealing with reprisals against whistleblowers; and
+
+&emsp;&emsp;(B) all other complaints;
+
+&emsp;(12) the number of corrective actions that the Special Counsel required an agency to take after a finding by the Special Counsel of a prohibited personnel practice, as defined in section 2302(a)(1); and
+
+&emsp;(13) the results for the Office of Special Counsel of any employee viewpoint survey conducted by the Office of Personnel Management or any other agency.
+
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §3(e), Oct. 29, 1994, 108 Stat. 4363; Pub. L. 115–91, div. A, title X, §1097(h)(1), Dec. 12, 2017, 131 Stat. 1623.)
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91 amended section generally. Prior to amendment, text read as follows: "The Special Counsel shall submit an annual report to the Congress on the activities of the Special Counsel, including the number, types, and disposition of allegations of prohibited personnel practices filed with it, investigations conducted by it, cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i), and actions initiated by it before the Merit Systems Protection Board, as well as a description of the recommendations and reports made by it to other agencies pursuant to this subchapter, and the actions taken by the agencies as a result of the reports or recommendations. The report required by this section shall include whatever recommendations for legislation or other action by Congress the Special Counsel may consider appropriate."
 
 <b>1994</b>—Pub. L. 103–424 inserted "cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i)," after "investigations conducted by it,".
 

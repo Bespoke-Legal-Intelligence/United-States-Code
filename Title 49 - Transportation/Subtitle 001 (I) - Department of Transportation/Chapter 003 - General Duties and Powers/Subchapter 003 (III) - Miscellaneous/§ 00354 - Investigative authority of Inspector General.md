@@ -6,7 +6,7 @@ In General.—The statutory authority of the Inspector General of the Department
 
 (b)
 
-Regulated Entities.—The authority to conduct investigations referred to in subsection (a) extends to any person or entity subject to the laws and regulations of the Department or its operating administrations, whether or not they are recipients of funds from the Department or its operating administrations.
+Regulated Entities.—The authority to conduct investigations referred to in subsection (a) extends to any person or entity subject to the laws and regulations of the Department orits operating administrations, whether or not they are recipients of funds from the Department or its operating administrations.
 
 (Added and amended Pub. L. 108–168, §8(a), (b)(1), Dec. 6, 2003, 117 Stat. 2034.)
 

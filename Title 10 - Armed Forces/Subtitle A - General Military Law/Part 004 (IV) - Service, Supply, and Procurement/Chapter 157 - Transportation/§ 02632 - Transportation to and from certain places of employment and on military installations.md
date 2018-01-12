@@ -26,7 +26,7 @@
 
 (2) The Secretary of Defense shall require that, in determining whether to provide transportation described in subsection (a)(2)(A) at any military installation, the Secretary of the military department concerned shall give careful consideration to the potential for saving energy and reducing air pollution.
 
-(3) In providing transportation described in subsection (a)(2)(A) at any military installation, the Secretary concerned may not require a fare for the transportation of members of the armed forces if the transportation is incident to the performance of duty. In providing transportation described in subsection (a)(2)(C) to and from any military installation, the Secretary concerned (under regulations prescribed under subsection (a)(3)) may waive any requirement for a fare.
+(3) In providing transportation described in subsection (a)(2)(A) at any military installation, the Secretary concerned may not require a fare for the transportation of members of the armed forces if the transportation is incident to the performance of duty. In providing transportation described in subsection (a)(2)(C) to and from any military installation, the Secretaryconcerned (under regulations prescribed under subsection (a)(3)) may waive any requirement for a fare.
 
 (4) The authority under subsection (a) to enter into contracts under which the United States is obligated to make outlays shall be effective for any fiscal year only to the extent that the budget authority for such outlays is provided in advance by appropriation Acts.
 
@@ -150,7 +150,7 @@ Subsec. (c)(2)(A). Pub. L. 95–362, §1(3), inserted reference to the Coast Gua
 
 #### Regulations
 
-Pub. L. 100–180, div. A, title III, §318(d), Dec. 4, 1987, 101 Stat. 1077, required that regulations to implementamendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title III, §318(d), Dec. 4, 1987, 101 Stat. 1077, required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
 
 #### Transfer of Functions
 

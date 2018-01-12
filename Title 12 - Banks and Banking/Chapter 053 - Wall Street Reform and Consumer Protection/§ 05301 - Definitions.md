@@ -104,7 +104,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;&emsp;&emsp;(ix) any registered entity under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the registered entity that require the registered entity to be registered under that Act;
 
-&emsp;&emsp;(D) the State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision by the State insurance authority under State insurance law; and
+&emsp;&emsp;(D) the State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision bythe State insurance authority under State insurance law; and
 
 &emsp;&emsp;(E) the Federal Housing Finance Agency, with respect to Federal Home Loan Banks or the Federal Home Loan Bank System, and with respect to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
@@ -156,7 +156,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) oftitle III of Pub. L. 111–203 amended section 1813(q) of this title.
+Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended section 1813(q) of this title.
 
 Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
@@ -178,6 +178,10 @@ The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, 
 
 Pub. L. 111–203, §4, July 21, 2010, 124 Stat. 1390, provided that: "Except as otherwise specifically provided in this Act \[see Short Title note below\] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act \[July 21, 2010\]."
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–61, §1, Sept. 27, 2017, 131 Stat. 1158, provided that: "This Act \[amending section 5321 of this title\] may be cited as the 'Financial Stability Oversight Council Insurance Member Continuity Act'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–279, §1, Dec. 18, 2014, 128 Stat. 3017, provided that: "This Act \[amending section 5371 of this title\] may be cited as the 'Insurance Capital Standards Clarification Act of 2014'."
@@ -197,6 +201,42 @@ Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided th
 Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that: "This title \[see Tables for classification\] may be cited as the 'Consumer Financial Protection Act of 2010'."
 
 Pub. L. 111–203, title XII, §1201, July 21, 2010, 124 Stat. 2129, provided that: "This title \[enacting subchapter VII of this chapter and section 4719 of this title\] may be cited as the 'Improving Access to Mainstream Financial Institutions Act of 2010'."
+
+#### Ex. Ord. No. 13772. Core Principles for Regulating the United States Financial System
+
+Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, provided:
+
+By the power vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of my Administration to regulate the United States financial system in a manner consistent with the following principles of regulation, which shall be known as the Core Principles:
+
+(a) empower Americans to make independent financial decisions and informed choices in the marketplace, save for retirement, and build individual wealth;
+
+(b) prevent taxpayer-funded bailouts;
+
+(c) foster economic growth and vibrant financial markets through more rigorous regulatory impact analysis that addresses systemic risk and market failures, such as moral hazard and information asymmetry;
+
+(d) enable American companies to be competitive with foreign firms in domestic and foreign markets;
+
+(e) advance American interests in international financial regulatory negotiations and meetings;
+
+(f) make regulation efficient, effective, and appropriately tailored; and
+
+(g) restore public accountability within Federal financial regulatory agencies and rationalize the Federal financial regulatory framework.
+
+Sec. 2. <i>Directive to the Secretary of the Treasury</i>. The Secretary of the Treasury shall consult with the heads of the member agencies of the Financial Stability Oversight Council and shall report to the President within 120 days of the date of this order (and periodically thereafter) on the extent to which existing laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies promote the Core Principles and what actions have been taken, and are currently being taken, to promote and support the Core Principles. That report, and all subsequent reports, shall identify any laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies that inhibit Federal regulation of the United States financial system in a manner consistent with the Core Principles.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

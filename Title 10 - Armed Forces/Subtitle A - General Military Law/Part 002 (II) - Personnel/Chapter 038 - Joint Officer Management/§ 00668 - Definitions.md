@@ -126,7 +126,7 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title V, §534(c), Oct. 28, 2004, 118 Stat. 1901, provided that: "The amendment made bysubsection (b) \[amending this section\] shall not apply in the case of a joint duty assignment completed by an officer before the date of the enactment of this Act \[Oct. 28, 2004\], except in the case of an officer who has continued in joint duty assignments, without a break in service in such assignments, between the end of such assignment and the date of the enactment of this Act."
+Pub. L. 108–375, div. A, title V, §534(c), Oct. 28, 2004, 118 Stat. 1901, provided that: "The amendment made by subsection (b) \[amending this section\] shall not apply in the case of a joint duty assignment completed by an officer before the date of the enactment of this Act \[Oct. 28, 2004\], except in the case of an officer who has continued in joint duty assignments, without a break in service in such assignments, between the end of such assignment and the date of the enactment of this Act."
 
 #### Publication of Revised Joint Duty Assignment List
 

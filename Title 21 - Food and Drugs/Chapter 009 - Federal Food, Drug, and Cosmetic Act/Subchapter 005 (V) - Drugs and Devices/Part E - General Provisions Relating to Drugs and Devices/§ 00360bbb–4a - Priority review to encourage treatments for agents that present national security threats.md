@@ -50,7 +50,7 @@ In this section:
 
 #### (B) Transfer after notice
 
-&emsp;&emsp;The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
+&emsp;&emsp;The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph\(A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
 
 #### (c) Priority review user fee
 

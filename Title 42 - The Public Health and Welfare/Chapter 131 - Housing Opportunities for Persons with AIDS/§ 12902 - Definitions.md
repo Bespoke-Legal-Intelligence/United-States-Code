@@ -50,7 +50,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-This chapter, referred to in par. (7), was in the original "this title", and was translated as reading "thissubtitle", meaning subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
+This chapter, referred to in par. (7), was in the original "this title", and was translated as reading "this subtitle", meaning subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
 

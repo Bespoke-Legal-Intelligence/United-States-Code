@@ -26,7 +26,7 @@ Effective on December 23, 2016, the position of the Director of the Internationa
 
 Notwithstanding any other provision of law, all limitations on liability that apply to the Chief Executive Officer shall also apply to members of the boards of directors of RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, or any organization that consolidates such entities when such members are acting in their official capacities.
 
-(Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §§502, 504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451; Pub. L. 114–328, div. A, title XII, §1288(1), Dec. 23, 2016, 130 Stat. 2548.)
+(Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, titleXIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §§502, 504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451; Pub. L. 114–328, div. A, title XII, §1288(1), Dec. 23, 2016, 130 Stat. 2548.)
 
 #### References in Text
 

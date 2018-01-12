@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Gain or loss attributable to the sale, exchange, or termination of a securities futures contract shall be considered gain or loss from the sale or exchange of property which has thesame character as the property to which the contract relates has in the hands of the taxpayer (or would have in the hands of the taxpayer if acquired by the taxpayer).
+&emsp;Gain or loss attributable to the sale, exchange, or termination of a securities futures contract shall be considered gain or loss from the sale or exchange of property which has the same character as the property to which the contract relates has in the hands of the taxpayer (or would have in the hands of the taxpayer if acquired by the taxpayer).
 
 #### (2) Nonapplication of subsection
 
@@ -16,7 +16,7 @@
 
 #### (b) Short-term gains and losses
 
-Except as provided in the regulations under section 1092(b) or this section, or in section 1233, if gain or loss on the sale, exchange, or termination of a securities futures contract to sell property is considered as gain or loss from the sale or exchange of a capital asset, such gain or loss shall be treated as short-term capital gain or loss.
+Except as provided in the regulations under section 1092(b) or this section, or in section 1233,if gain or loss on the sale, exchange, or termination of a securities futures contract to sell property is considered as gain or loss from the sale or exchange of a capital asset, such gain or loss shall be treated as short-term capital gain or loss.
 
 #### (c) Securities futures contract
 

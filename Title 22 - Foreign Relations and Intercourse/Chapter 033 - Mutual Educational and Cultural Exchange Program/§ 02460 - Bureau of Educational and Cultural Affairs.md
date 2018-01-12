@@ -36,7 +36,7 @@ The President shall insure that all programs under the authority of the Bureau s
 
 (1) The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
 
-(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Actauthorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
+(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
 
 #### (e) Office of Citizen Exchanges
 
@@ -160,7 +160,7 @@ Pub. L. 101–246, title II, §222(b), Feb. 16, 1990, 104 Stat. 56, provided tha
 
 Pub. L. 98–164, title II, §207, Nov. 22, 1983, 97 Stat. 1032, as amended by Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398, provided that:
 
-"(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waivethis limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
+"(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
 
 "\[(b) Repealed. Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398.\]"
 

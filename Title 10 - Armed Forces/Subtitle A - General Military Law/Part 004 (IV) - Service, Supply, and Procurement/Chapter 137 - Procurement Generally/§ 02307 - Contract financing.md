@@ -64,7 +64,7 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 
 (h)
 
-Vesting of Title in the United States.—If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interest in the property that is asserted before or after the contract is entered into.
+Vesting of Title in the United States.—If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interestin the property that is asserted before or after the contract is entered into.
 
 (i)
 

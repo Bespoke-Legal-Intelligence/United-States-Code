@@ -20,7 +20,7 @@
 
 &emsp;(ii) provide information relating to the nature and character of psychological problems arising from service in the Armed Forces;
 
-&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizational structures, and services of the Department in assisting veterans in readjusting to civilian life; and
+&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizationalstructures, and services of the Department in assisting veterans in readjusting to civilian life; and
 
 &emsp;(iv) provide on-going advice on the most appropriate means of responding to the readjustment needs of veterans in the future.
 
@@ -236,7 +236,7 @@ Miscellaneous Administrative Support.—The Secretary of Defense, the Secretary 
 
 "(a)
 
-Compensation of Members.—Each member of the Commission may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
+Compensation of Members.—Each member of the Commission may be compensated at a rate equal tothe daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
 
 "(b)
 

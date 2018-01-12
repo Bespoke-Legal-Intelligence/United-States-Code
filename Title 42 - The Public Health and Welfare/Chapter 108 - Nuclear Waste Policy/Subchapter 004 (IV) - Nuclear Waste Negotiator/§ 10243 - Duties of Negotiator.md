@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) the governing body of any Indian tribe on whose reservation a potential site is located; and
 
-&emsp;(B) attempt to reach a proposed agreement between the United States and any such State or Indian tribe specifying the terms and conditions under which such State or tribe would agree to host a repository or monitored retrievable storage facility within such State or reservation.
+&emsp;(B) attempt to reach a proposed agreement between the United States and any such Stateor Indian tribe specifying the terms and conditions under which such State or tribe would agree to host a repository or monitored retrievable storage facility within such State or reservation.
 
 (2) In any case in which State law authorizes any person or entity other than the Governor to negotiate a proposed agreement under this section on behalf of the State, any reference in this subchapter to the Governor shall be considered to refer instead to such other person or entity.
 

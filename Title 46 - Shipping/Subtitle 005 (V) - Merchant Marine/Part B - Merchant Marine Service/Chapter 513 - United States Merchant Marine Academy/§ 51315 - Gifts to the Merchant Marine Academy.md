@@ -6,7 +6,7 @@ In General.—The Maritime Administrator may accept and use conditional or uncon
 
 (b)
 
-Establishment of Academy Gift Fund.—There is established in the Treasury a fund, to be known as the "Academy Gift Fund". Disbursements from the Fund shall be made on order of the Maritime Administrator. Unless otherwise specified by the terms of the gift, theMaritime Administrator may use monies in the Fund for appropriated or non-appropriated purposes at the Academy. The Fund consists of—
+Establishment of Academy Gift Fund.—There is established in the Treasury a fund, to be known as the "Academy Gift Fund". Disbursements from the Fund shall be made on order of the Maritime Administrator. Unless otherwise specified by the terms of the gift, the Maritime Administrator may use monies in the Fund for appropriated or non-appropriated purposes at the Academy. The Fund consists of—
 
 &emsp;(1) gifts of money;
 
@@ -28,9 +28,17 @@ Disbursement Authority.—There are hereby authorized to be disbursed from the F
 
 Deductibility of Gifts.—Gifts accepted under this section are a gift to or for the use of the Government under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 110–417, div. C, title XXXV, §3506(g)(1), Oct. 14, 2008, 122 Stat. 4764.)
+(f)
+
+Payment of Expenses.—The Maritime Administrator may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+
+(Added Pub. L. 110–417, div. C, title XXXV, §3506(g)(1), Oct. 14, 2008, 122 Stat. 4764; amended Pub. L. 115–91, div. C, title XXXV, §3511, Dec. 12, 2017, 131 Stat. 1918.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (f). Pub. L. 115–91 added subsec. (f).
 

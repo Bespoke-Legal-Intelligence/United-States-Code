@@ -98,7 +98,7 @@ Rule of Construction.—Nothing in this section shall be construed to supersede 
 
 #### Codification
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, §1246(e), Dec. 23, 2016, 130 Stat. 2500.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, §1246(e), Dec. 23, 2016, 130 Stat. 2521.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 114–328, §1246(c)(1), added subsec. (d) and struck out f
 
 Subsec. (f). Pub. L. 114–328, §1246(d)(2)(B), redesignated subsec. (g) as (f) and struck out former subsec. (f) which required annual reports for fiscal years 2016, 2017, and 2018.
 
-Pub. L. 114–328, §1246(d)(1)(A), substituted "Annual Reports" for "Reports and Notifications" in subsec. heading, added par. (1) and struck out former par. (1) which related to a review and report of programs underthe State Partnership Program as in effect on Dec. 26, 2013, redesignated par. (2)(B) as par. (2), substituted "Matters to be included" for "Annual report" in par. (2) heading, and struck out former par. (2)(A) which required reports on activities under programs established under subsec. (a).
+Pub. L. 114–328, §1246(d)(1)(A), substituted "Annual Reports" for "Reports and Notifications" in subsec. heading, added par. (1) and struck out former par. (1) which related to a review and report of programs under the State Partnership Program as in effect on Dec. 26, 2013, redesignated par. (2)(B) as par. (2), substituted "Matters to be included" for "Annual report" in par. (2) heading, and struck out former par. (2)(A) which required reports on activities under programs established under subsec. (a).
 
 Subsec. (f)(2). Pub. L. 114–328, §1246(d)(1)(B)(i), redesignated cls. (i) to (vi) of former par. (2)(B) as subpars. (A) to (F), respectively, of par. (2) and realigned margins.
 

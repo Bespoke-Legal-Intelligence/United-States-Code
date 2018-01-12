@@ -44,7 +44,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### (e) Timing of relief
 
-No order of any court granting declaratory or injunctive relief from the order of the President issued under section 904 of this title, including but not limited to relief permitting or requiringthe expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
+No order of any court granting declaratory or injunctive relief from the order of the President issued under section 904 of this title, including but not limited to relief permitting or requiring the expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
 
 #### (f) Preservation of other rights
 
@@ -52,7 +52,7 @@ The rights created by this section are in addition to the rights of any person u
 
 #### (g) Economic data and assumptions
 
-The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
+The economic data and economic assumptions used by the Director of OMB in computing thefigures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
 
 (Pub. L. 99–177, title II, §274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, §102(b)(9), (10), Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, §10211, Aug. 5, 1997, 111 Stat. 711.)
 

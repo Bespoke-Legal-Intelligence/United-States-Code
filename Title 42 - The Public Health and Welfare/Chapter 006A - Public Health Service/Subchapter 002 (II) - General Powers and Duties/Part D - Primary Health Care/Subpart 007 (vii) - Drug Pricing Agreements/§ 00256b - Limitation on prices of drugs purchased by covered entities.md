@@ -12,7 +12,7 @@
 
 &emsp;&emsp;For a covered outpatient drug purchased in a calendar quarter, the "rebate percentage" is the amount (expressed as a percentage) equal to—
 
-&emsp;&emsp;&emsp;(i) the average total rebate required under section 1927(c) of the Social Security Act \[42 U.S.C. 1396r–8(c)\] with respect to the drug (for a unit of the dosage form and strength involved) during the preceding calendar quarter; divided by
+&emsp;&emsp;&emsp;(i) the average total rebate required under section 1927(c) of the Social SecurityAct \[42 U.S.C. 1396r–8(c)\] with respect to the drug (for a unit of the dosage form and strength involved) during the preceding calendar quarter; divided by
 
 &emsp;&emsp;&emsp;(ii) the average manufacturer price for such a unit of the drug during such quarter.
 
@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and "manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and"manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (2) Covered drug
 
@@ -248,7 +248,7 @@
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
+&emsp;There are authorized to be appropriated to carry out this subsection, such sums as maybe necessary for fiscal year 2010 and each succeeding fiscal year.
 
 #### (e) Exclusion of orphan drugs for certain covered entities
 
@@ -258,7 +258,7 @@ For covered entities described in subparagraph (M) (other than a children's hosp
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1), (3), (4)(L)(i), (5)(A)(i), is act Aug. 14, 1935, ch. 531, 49Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1), (3), (4)(L)(i), (5)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 256a of this title, referred to in subsec. (a)(4)(B), was in the original a reference to section 340A of act July 1, 1944, which was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645. Subsequently, a new section 340A was added to the act of July 1, 1944, by Pub. L. 109–18, §2, June 29, 2005, 119 Stat. 340, which is also classified to section 256a of this title.
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)�
 
 "(iv)
 
-Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
+Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer,and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
 
 Pub. L. 111–148, §7101(c)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

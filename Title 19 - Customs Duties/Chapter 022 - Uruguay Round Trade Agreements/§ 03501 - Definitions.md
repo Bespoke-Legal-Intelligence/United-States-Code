@@ -22,7 +22,7 @@ For purposes of this Act:
 
 #### (4) Multilateral trade agreement
 
-&emsp;The term "multilateral trade agreement" means an agreement described in section 3511(d) of this title (other than an agreement described in paragraph (17) or (18) of such section).
+&emsp;The term "multilateral trade agreement" means an agreement described in section 3511(d) of this title (other than an agreementdescribed in paragraph (17) or (18) of such section).
 
 #### (5) Schedule XX
 

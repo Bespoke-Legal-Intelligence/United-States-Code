@@ -6,7 +6,7 @@ Eggs and egg products are an important source of the Nation's total supply of fo
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Change of Name
 

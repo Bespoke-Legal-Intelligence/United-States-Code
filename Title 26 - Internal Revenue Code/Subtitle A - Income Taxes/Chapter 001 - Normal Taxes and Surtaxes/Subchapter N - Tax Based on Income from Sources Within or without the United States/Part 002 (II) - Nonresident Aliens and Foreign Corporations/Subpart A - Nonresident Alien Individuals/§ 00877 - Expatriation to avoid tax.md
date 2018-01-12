@@ -116,7 +116,7 @@ For purposes of subsection (b)—
 
 #### (D) Secretary may extend period
 
-&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraphshall be recognized immediately after such loss of citizenship.
 
 #### (E) Secretary may require recognition of gain in certain cases
 
@@ -148,7 +148,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
 
-> &emsp;&emsp;any income or gain on such property (or any other property which has a basis determinedin whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
+> &emsp;&emsp;any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
 
 #### (B) Corporation described
 
@@ -216,7 +216,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual described in any of the following subparagraphs of thisparagraph, a day of physical presence in the United States shall be disregarded if the individual is performing services in the United States on such day for an employer. The preceding sentence shall not apply if—
+&emsp;&emsp;In the case of an individual described in any of the following subparagraphs of this paragraph, a day of physical presence in the United States shall be disregarded if the individual is performing services in the United States on such day for an employer. The preceding sentence shall not apply if—
 
 &emsp;&emsp;&emsp;(i) such employer is related (within the meaning of section 267 and 707) to such individual, or
 
@@ -264,7 +264,7 @@ A prior section 877 was renumbered section 878 of this title.
 
 <b>2014</b>—Subsec. (e)(2). Pub. L. 113–295 struck out "subparagraph (A) or (B) of" after "event described in".
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "Any long-term resident of the United States who—
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, textread as follows: "Any long-term resident of the United States who—
 
 &emsp;"(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
 

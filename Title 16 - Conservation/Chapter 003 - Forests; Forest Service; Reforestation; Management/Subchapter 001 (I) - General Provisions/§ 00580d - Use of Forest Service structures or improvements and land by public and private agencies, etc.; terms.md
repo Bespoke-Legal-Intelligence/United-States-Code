@@ -112,7 +112,7 @@ Congressional Notifications.—
 
 &emsp;"(1)
 
-Notice of anticipated use of authority.—As part of the annual budget justification documents provided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—
+Notice of anticipated use of authority.—As part of the annual budget justification documentsprovided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—
 
 &emsp;&emsp;"(A) a list of the anticipated conveyances to be made, including the anticipated revenue that may be obtained, using the authority provided by this title or other conveyance authorities available to the Secretary;
 
@@ -234,7 +234,7 @@ Rejection of Offers.—The Secretary shall reject any offer made for the acquisi
 
 "(f)
 
-Consultation and Public Notice.—As appropriate, the Secretary is encouraged to work with the Administrator of the General Services Administration with respect to the conveyance of administrative sites under this title. Before making an administrative site available for conveyance under this title, the Secretary shall consult with local governmental officials of the community in which the administrative site is located and provide public notice of the proposed conveyance.
+Consultation and Public Notice.—As appropriate, the Secretary is encouraged to work with theAdministrator of the General Services Administration with respect to the conveyance of administrative sites under this title. Before making an administrative site available for conveyance under this title, the Secretary shall consult with local governmental officials of the community in which the administrative site is located and provide public notice of the proposed conveyance.
 
 #### "SEC. 505. DISPOSITION OF PROCEEDS RECEIVED FROM ADMINISTRATIVE SITE CONVEYANCES.
 

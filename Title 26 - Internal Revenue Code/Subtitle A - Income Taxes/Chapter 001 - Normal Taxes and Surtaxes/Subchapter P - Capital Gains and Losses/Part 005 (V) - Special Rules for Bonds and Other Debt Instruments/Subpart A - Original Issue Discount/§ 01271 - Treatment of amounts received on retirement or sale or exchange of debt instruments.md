@@ -32,11 +32,11 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;On the sale or exchange of any short-term Government obligation, any gain realized which does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
+&emsp;&emsp;On the sale or exchange of any short-term Government obligation, any gain realizedwhich does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
 
 #### (B) Short-term Government obligation
 
-&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any politicalsubdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
 
 #### (C) Acquisition discount
 
@@ -128,7 +128,7 @@ For purposes of this title—
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I,§1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### Amendments
 
@@ -380,7 +380,7 @@ Residences.—Any sale or exchange of a residence by an individual, an estate, o
 
 Farms.—Any sale or exchange by a qualified person of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) real property which was used as a farm (within the meaning of section 6420(c)(2)) at all times during the 3-year period ending on the date of such sale or exchange, or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) real property which was used as a farm (within the meaning of section 6420(c)(2)) at alltimes during the 3-year period ending on the date of such sale or exchange, or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) tangible personal property which was used in the active conduct of the trade or business of farming on such farm and is sold in connection with the sale of such farm,
 
@@ -532,7 +532,7 @@ Accrual basis income.—For purposes of this paragraph, the term 'accrual basis 
 
 "(f)
 
-Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issuedafter September 3, 1982, and acquired after March 1, 1984.
+Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issued after September 3, 1982, and acquired after March 1, 1984.
 
 "(g)
 

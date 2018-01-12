@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) such corporation ceases to be a member of such group,
 
-> &emsp;&emsp;with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
+> &emsp;&emsp;with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group withthe same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
 
 #### (B) Secretary may waive application of subparagraph (A)
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 100–647, §1018(d)(10)(B), added subsec. (f).
 
 Subsec. (b)(2). Pub. L. 99–514, §1024(c)(15), struck out "or 821" after "section 802".
 
-Subsec. (b)(7). Pub. L. 99–514, §1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read asfollows: "A DISC or former DISC (as defined in section 992(a))."
+Subsec. (b)(7). Pub. L. 99–514, §1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "A DISC or former DISC (as defined in section 992(a))."
 
 Subsec. (c)(2)(A). Pub. L. 99–514, §1899A(35), struck out "or 821" after "section 801".
 
@@ -268,7 +268,7 @@ Treatment of certain corporations affiliated on June 22, 1984.—In the case of 
 
 "(7)
 
-Election to have amendments apply for years beginning after 1983.—If the common parent of any group makes an election under this paragraph, notwithstanding any other provision of this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to such group for taxable years beginning after December 31, 1983. Any such election, once made, shall be irrevocable.
+Election to have amendments apply for years beginning after 1983.—If the common parent of any group makes an election under this paragraph, notwithstanding any other provision of this subsection,the amendments made by subsection (a) \[amending this section\] shall apply to such group for taxable years beginning after December 31, 1983. Any such election, once made, shall be irrevocable.
 
 "(8)
 
@@ -304,7 +304,7 @@ Amendment by Pub. L. 95–600 effective with respect to qualified investment for
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974,see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974, see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 

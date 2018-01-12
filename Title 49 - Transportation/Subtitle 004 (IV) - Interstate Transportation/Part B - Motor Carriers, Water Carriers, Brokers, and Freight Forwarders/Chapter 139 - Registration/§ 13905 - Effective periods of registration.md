@@ -158,7 +158,7 @@ Subsec. (e). Pub. L. 112–141, §32103(a)(2), inserted "or if the Secretary det
 
 Subsec. (f)(1)(A). Pub. L. 112–141, §32933(a), substituted "section 13904(e)" for "section 13904(c)".
 
-Subsec. (f)(2). Pub. L. 112–141, §32109, amended par. (2) generally. Prior to amendment, text read as follows:"Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property."
+Subsec. (f)(2). Pub. L. 112–141, §32109, amended par. (2) generally. Prior to amendment, text read as follows: "Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property."
 
 <b>2008</b>—Subsec. (d)(1)(A). Pub. L. 110–291 inserted "(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)" after "Board".
 

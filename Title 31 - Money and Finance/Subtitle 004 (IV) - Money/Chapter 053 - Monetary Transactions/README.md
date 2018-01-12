@@ -31,7 +31,7 @@
 | [5323\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005323%20-%20Rewards%20for%20informants.md) | Rewards for informants. |
 | [5324\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005324%20-%20Structuring%20transactions%20to%20evade%20reporting%20requirement%20prohibited.md) | Structuring transactions to evade reporting requirement prohibited. |
 | [5325\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005325%20-%20Identification%20required%20to%20purchase%20certain%20monetary%20instruments.md) | Identification required to purchase certain monetary instruments. |
-| [5326\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20coin%20and%20currency%20transactions.md) | Records of certain domestic coin and currency transactions. |
+| [5326\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20transactions.md) | Records of certain domestic transactions. |
 | \[5327. | Repealed.\] |
 | [5328\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005328%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
 | [5329\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005329%20-%20Staff%20commentaries.md) | Staff commentaries. |
@@ -85,6 +85,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–44, title II, §275(b), Aug. 2, 2017, 131 Stat. 938, struck out "coin and currency" before "transactions" in item 5326.
 
 <b>2006</b>—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 

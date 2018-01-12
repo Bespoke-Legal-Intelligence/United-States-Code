@@ -6,7 +6,7 @@ Each district court of the United States shall have jurisdiction specifically to
 
 #### (b) Referral to Attorney General
 
-A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice orwarning to the person who committed the violation or by an administrative action under section 7106 of this title.
+A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to the person who committed the violation or by an administrative action under section 7106 of this title.
 
 #### (c) Civil penalties and orders
 
@@ -58,7 +58,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (e) Failure to obey orders
 
-A person who fails to obey a valid cease-and-desist order issued by the Secretary under this section, after an opportunity for a hearing, shall be subject to a civil penalty assessed by the Secretary of not more than $500 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the order.
+A person who fails to obey a valid cease-and-desist order issued by the Secretary under this section, after an opportunity for a hearing, shallbe subject to a civil penalty assessed by the Secretary of not more than $500 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the order.
 
 #### (f) Failure to pay penalties
 

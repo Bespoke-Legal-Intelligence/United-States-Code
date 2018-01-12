@@ -74,7 +74,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(B)(i) not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)),
 
-&emsp;&emsp;(ii) not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
+&emsp;&emsp;(ii) not more than 20 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
 
 &emsp;&emsp;(iii) not more than 25 percent of the value of its total assets is represented by nonqualified publicly offered REIT debt instruments, and
 
@@ -966,10 +966,6 @@ For purposes of this part—
 
 (Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, §4(a), title XV, §§15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097.)
 
-#### Amendment of Subsection (c)(4)(B)(ii)
-
-<i>Pub. L. 114–113, div. Q, title III, §312, Dec. 18, 2015, 129 Stat. 3091, provided that, applicable with respect to taxable years beginning after Dec. 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out "25 percent" and inserting "20 percent". See 2015 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -1026,7 +1022,7 @@ Subsec. (c)(4)(B)(ii). Pub. L. 110–289, §3041, substituted "than 25 percent" 
 
 Pub. L. 110–246, §15314(a), inserted "(in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust)" after "REIT subsidiaries".
 
-Subsec. (c)(5)(G). Pub. L. 110–289, §3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: "Except to the extent provided by regulations,any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets."
+Subsec. (c)(5)(G). Pub. L. 110–289, §3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: "Except to the extent provided by regulations, any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets."
 
 Subsec. (c)(5)(H). Pub. L. 110–246, §15312(a), added subpar. (H).
 
@@ -1368,7 +1364,7 @@ Subsection (f).—
 
 &emsp;"(C) The amendments made by paragraph (3) of subsection (f) \[amending this section\] shall apply to failures with respect to which the requirements of paragraph (5) of section 856(g) of the Internal Revenue Code of 1986 (as added by such paragraph) are satisfied after the date of the enactment of this Act.
 
-&emsp;"(D) The amendment made by paragraph (4) of subsection (f) \[amending section 857 of this title\] shallapply to taxable years ending after the date of the enactment of this Act.
+&emsp;"(D) The amendment made by paragraph (4) of subsection (f) \[amending section 857 of this title\] shall apply to taxable years ending after the date of the enactment of this Act.
 
 &emsp;"(E) The amendments made by paragraph (5) of subsection (f) \[amending section 860 of this title\] shall apply to statements filed after the date of the enactment of this Act."
 
@@ -1476,7 +1472,7 @@ Section 668.—The amendments made by section 668 \[amending sections 857, 858, 
 
 Retention of Existing Transitional Rule.—The amendment made by section 663(b)(2) \[amending this section\] shall not apply with respect to amounts received or accrued pursuant to loans made before May 28, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976."
 
-Amendment by section 671(b)(1) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
+Amendment by section 671(b)(1) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514,as amended, set out as an Effective Date note under section 860A of this title.
 
 Amendment by section 901(d)(4)(E) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
@@ -1528,9 +1524,9 @@ Pub. L. 86–779, §10(k), Sept. 14, 1960, 74 Stat. 1009, provided that: "The am
 
 #### Study Relating To Taxable REIT Subsidiaries
 
-Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: "The Secretary of the Treasury shall conduct a study to determine how many taxableREIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study."
+Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: "The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study."
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
-Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
+Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made bysection 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
 

@@ -30,7 +30,7 @@ The Water Resources Development Act of 1988, referred to in subsec. (a), is Pub.
 
 <b>2014</b>—Pub. L. 113–121 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1988</b>—Pub. L. 100–676, §3(b)(1), substituted "with respect to a project for water resources development andconservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project" for "in this Act, or an amendment made by this Act, for a project".
+<b>1988</b>—Pub. L. 100–676, §3(b)(1), substituted "with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project" for "in this Act, or an amendment made by this Act, for a project".
 
 Par. (1). Pub. L. 100–676, §3(b)(2), inserted ", in any later law," after "in this Act", and "or any later law" after "by this Act".
 

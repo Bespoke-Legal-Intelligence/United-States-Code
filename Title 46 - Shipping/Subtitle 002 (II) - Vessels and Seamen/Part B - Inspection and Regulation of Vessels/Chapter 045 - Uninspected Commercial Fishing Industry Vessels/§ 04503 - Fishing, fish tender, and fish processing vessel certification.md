@@ -38,7 +38,7 @@
 
 (3) Alternative safety compliance programs may be developed for purposes of paragraph (1) for specific regions and fisheries.
 
-(4) Notwithstanding paragraph (1), vessels owned by a person that owns more than 30 vessels subject to that paragraph are not required to meet the alternate safety compliance requirements of that paragraph until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that paragraph bythat date and the vessel owner is meeting that schedule.
+(4) Notwithstanding paragraph (1), vessels owned by a person that owns more than 30 vessels subject to that paragraph are not required to meet the alternate safety compliance requirements of that paragraph until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that paragraph by that date and the vessel owner is meeting that schedule.
 
 (5) A fishing vessel, fish processing vessel, or fish tender vessel to which section 4502(b) of this title applies that was classed before July 1, 2012, shall—
 
@@ -70,7 +70,7 @@
 
 &emsp;(8) For the life of the vessel, the owner of the vessel maintains records to demonstrate compliance with this subsection and makes such records readily available for inspection by an official authorized to enforce this chapter.
 
-(f)(1) Not later than 10 years after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (e) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
+(f)(1) Not later than 10 years after the date of the enactment of the Coast Guard AuthorizationAct of 2016, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (e) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
 
 (2) If the report required under this subsection includes a determination that the safety requirements under subsection (e) are not adequate or that additional safety measures are necessary, then the Secretary may establish an alternative safety compliance program for fishing vessels or fish tender vessels (or both) which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
 

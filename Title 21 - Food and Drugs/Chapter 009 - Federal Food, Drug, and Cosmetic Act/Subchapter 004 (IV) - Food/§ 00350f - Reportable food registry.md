@@ -94,7 +94,7 @@ In this section:
 
 #### (7) Subsequent reports and notifications
 
-&emsp;Except as provided in paragraph (8), the Secretary may require a responsible party to perform, as soon as practicable, but in no case later than a time specified by the Secretary, after the responsible party receives a notification under subparagraph (C) or paragraph (6)(B), 1 or more of the following:
+&emsp;Except as provided in paragraph (8), the Secretary may require a responsible party to perform, as soon as practicable, but in no case later than a time specified by the Secretary,after the responsible party receives a notification under subparagraph (C) or paragraph (6)(B), 1 or more of the following:
 
 &emsp;&emsp;(A) Submit a report to the Food and Drug Administration through the electronic portal established under subsection (b) that includes those data elements described in subsection (e) and other information that the Secretary deems necessary.
 
@@ -134,7 +134,7 @@ The data elements described in this subsection are the following:
 
 &emsp;(4) The extent and nature of the adulteration.
 
-&emsp;(5) If the adulteration of the article of food may have originated with the responsibleparty, the results of the investigation required under paragraph (1)(B) or (7)(B) of subsection (d), as applicable and when known.
+&emsp;(5) If the adulteration of the article of food may have originated with the responsible party, the results of the investigation required under paragraph (1)(B) or (7)(B) of subsection (d), as applicable and when known.
 
 &emsp;(6) The disposition of the article of food, when known.
 
@@ -182,7 +182,7 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (2) List of conspicuous locations
 
-&emsp;Not more than 1 year after January 4, 2011, the Secretary shall develop and publish a list of acceptable conspicuous locations and manners, from which grocery stores shall select at least one, for providing the notification required in paragraph (1). Such list shall include—
+&emsp;Not more than 1 year after January 4, 2011, the Secretary shall develop and publish a listof acceptable conspicuous locations and manners, from which grocery stores shall select at least one, for providing the notification required in paragraph (1). Such list shall include—
 
 &emsp;&emsp;(A) posting the notification at or near the register;
 
@@ -220,7 +220,7 @@ Except as provided by section 350d(a)(4) <sup>1</sup> of this title, section 55
 
 #### (l) Safety report
 
-A report or notification under subsection (d) shall be considered to be a safety report undersection 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
+A report or notification under subsection (d) shall be considered to be a safety report under section 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
 
 #### (m) Admission
 
@@ -262,7 +262,7 @@ Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided th
 
 #### Guidance
 
-Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
+Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after thedate of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

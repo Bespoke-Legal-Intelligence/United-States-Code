@@ -8,7 +8,7 @@
 
 #### (2) Order of priority
 
-&emsp;The Secretary may reduce the number of fellowships awarded under this subchapter forany fiscal year in which the amount appropriated for the Program is insufficient to support 12 fellowships. If the number of fellowships awarded under this subchapter is reduced for any fiscal year, then the Secretary shall award fellowships based on the following order of priority:
+&emsp;The Secretary may reduce the number of fellowships awarded under this subchapter for any fiscal year in which the amount appropriated for the Program is insufficient to support 12 fellowships. If the number of fellowships awarded under this subchapter is reduced for any fiscal year, then the Secretary shall award fellowships based on the following order of priority:
 
 &emsp;&emsp;(A) Three fellowships in the Department of Energy.
 
@@ -48,7 +48,7 @@
 
 The Secretary shall—
 
-&emsp;(1) provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
+&emsp;(1) provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c);
 
 &emsp;(2) provide for the publication of information on the Program in appropriate professional publications, including an invitation for applications from teachers listed in the directories of national and State recognition programs;
 

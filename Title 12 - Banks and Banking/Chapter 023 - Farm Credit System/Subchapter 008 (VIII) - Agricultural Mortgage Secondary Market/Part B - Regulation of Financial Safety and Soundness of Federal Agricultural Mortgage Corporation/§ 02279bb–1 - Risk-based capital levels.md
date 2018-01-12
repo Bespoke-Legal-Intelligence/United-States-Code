@@ -44,7 +44,7 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 #### (1) Credit and interest rate risk
 
-&emsp;The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
+&emsp;The amount of regulatory capital determined by applying the risk-based capital testunder subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
 
 #### (2) Management and operations risk
 
@@ -84,7 +84,7 @@ Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted "Director may" fo
 
 Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted "8-year" for "5-year" in first sentence.
 
-Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence ofexisting provisions as par. (2), inserted heading, and substituted "The regulations referred to in paragraph (1) shall" for "The regulations shall".
+Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted "The regulations referred to in paragraph (1) shall" for "The regulations shall".
 
 <b>1992</b>—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 1991" for "the date of the enactment of this section".
 

@@ -70,7 +70,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(vii) as appropriate, specify offenses, including convictions for violent crimes, for purposes of the nationwide program; and
 
-&emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of "rapback" capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
+&emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of "rap back" capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
 
 &emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or provider which employs the direct patient access employee of such conviction; and
 
@@ -82,7 +82,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to the costs to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or private entities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
+&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to the costs to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or privateentities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
 
 #### (ii) Federal match
 
@@ -144,7 +144,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(vii) A provider of adult day care.
 
-&emsp;&emsp;&emsp;(viii) A residential care provider that arranges for, or directly provides, long-termcare services, including an assisted living facility that provides a level of care established by the Secretary.
+&emsp;&emsp;&emsp;(viii) A residential care provider that arranges for, or directly provides, long-term care services, including an assisted living facility that provides a level of care established by the Secretary.
 
 &emsp;&emsp;&emsp;(ix) An intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act (42 U.S.C. 1396d(d))).
 
@@ -362,7 +362,7 @@ Payments.—Of the amounts made available under subsection (f) to conduct the pi
 
 Evaluation.—The Secretary, in consultation with the Attorney General, shall conduct by grant, contract, or interagency agreement an evaluation of the pilot program conducted under this section. Such evaluation shall—
 
-&emsp;"(1) review the various procedures implemented by participating States for long-term care facilities orproviders to conduct background checks of direct patient access employees and identify the most efficient, effective, and economical procedures for conducting such background checks;
+&emsp;"(1) review the various procedures implemented by participating States for long-term care facilities or providers to conduct background checks of direct patient access employees and identify the most efficient, effective, and economical procedures for conducting such background checks;
 
 &emsp;"(2) assess the costs of conducting such background checks (including start-up and administrative costs);
 

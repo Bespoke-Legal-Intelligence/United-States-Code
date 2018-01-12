@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Development.—The term "development" means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration's Procedural Requirements 7120.5c, dated March 22, 2005.
+Development.—The term "development" means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration's Procedural Requirements 7120.5E, dated August 14, 2012.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Major Program Annual Reports.—
 
 &emsp;(1)
 
-Requirement.—Annually, at the same time as the President's annual budget submission to Congress, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report thatincludes the information required by this section for each major program for which the Administration proposes to expend funds in the subsequent fiscal year. Reports under this paragraph shall be known as Major Program Annual Reports.
+Requirement.—Annually, at the same time as the President's annual budget submission to Congress, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes the information required by this section for each major program for which the Administration proposes to expend funds in the subsequent fiscal year. Reports under this paragraph shall be known as Major Program Annual Reports.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ Baseline report.—The first Major Program Annual Report for each major program 
 
 &emsp;&emsp;(A) the purposes of the program and key technical characteristics necessary to fulfill those purposes;
 
-&emsp;&emsp;(B) an estimate of the life-cycle cost for the program, with a detailed breakout of the development cost, program reserves, and an estimate of the annual costs until development is completed;
+&emsp;&emsp;(B) an estimate of the life-cycle cost for the program, with a detailed breakout of thedevelopment cost, program reserves, and an estimate of the annual costs until development is completed;
 
 &emsp;&emsp;(C) the schedule for development, including key program milestones;
 
@@ -120,7 +120,7 @@ Completion of analysis and transmittal to committees.—The Administration shall
 
 Thirty Percent Threshold.—If the Administrator determines under subsection (e) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (e)(1)(A), the Administrator shall not expend any additional funds on the program, other than termination costs, unless Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3360.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3360; Pub. L. 115–10, title VIII, §828, Mar. 21, 2017, 131 Stat. 66.)
 
 Historical and Revision Notes
 
@@ -139,6 +139,10 @@ Historical and Revision Notes
 Pub. L. 109–155, title I, §103, Dec. 30, 2005, 119 Stat. 2907.
 
 In subsections (b)(2), (c)(1), (d)(3), and (e)(1)(A), (2), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–10 substituted "Procedural Requirements 7120.5E, dated August 14, 2012" for "Procedural Requirements 7120.5c, dated March 22, 2005".
 
 #### Change of Name
 

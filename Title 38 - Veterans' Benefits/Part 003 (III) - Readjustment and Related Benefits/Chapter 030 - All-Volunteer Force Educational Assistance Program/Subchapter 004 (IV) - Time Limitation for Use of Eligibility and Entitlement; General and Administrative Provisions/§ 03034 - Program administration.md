@@ -62,7 +62,7 @@ Subsec. (a)(3). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "
 
 Pub. L. 101–237, §423(a)(5)(A), substituted "employment during and since the period of such veteran's active military service)" for "employment)".
 
-Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted."
+Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shallprescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted."
 
 Subsec. (c). Pub. L. 101–237, §423(a)(6)(B), added subsec. (c).
 
@@ -132,7 +132,7 @@ Pub. L. 101–237, title IV, §422(c), Dec. 18, 1989, 103 Stat. 2090, provided t
 
 "(2) Not later than January 31, 1994, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the evaluation required by paragraph (1). Such report shall include—
 
-&emsp;"(A) information, separately as to payments made under chapter 30 of title 38, United States Code, and payments made under chapter 106 of title 10, United States Code, regarding—
+&emsp;"(A) information, separately as to payments made under chapter 30 of title 38, United States Code, andpayments made under chapter 106 of title 10, United States Code, regarding—
 
 &emsp;&emsp;"(i) the number of recipients paid educational assistance allowances for flight training;
 

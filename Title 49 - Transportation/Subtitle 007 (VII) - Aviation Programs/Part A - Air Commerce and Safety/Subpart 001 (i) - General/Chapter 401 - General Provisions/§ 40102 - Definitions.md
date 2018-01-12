@@ -102,7 +102,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) when any part of the transportation or operation is by aircraft.
 
-&emsp;(25) "interstate air transportation" means the transportation of passengers or propertyby aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
+&emsp;(25) "interstate air transportation" means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
 
 &emsp;&emsp;(A) between a place in—
 

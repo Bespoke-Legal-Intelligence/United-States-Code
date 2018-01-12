@@ -66,7 +66,7 @@ The Federal Director, in consultation with the Commercial Director and the Advis
 
 #### (e) Incentives
 
-Within 90 days after December 19, 2007, the Federal Director shall identify incentives to encourage the expedited use of high-performance green buildings and related technology in the operations of the Federal Government, in accordance with the requirements of section 6834(a)(3)(D) of this title, including through—
+Within 90 days after December 19, 2007, the Federal Director shall identify incentives to encourage the expedited use of high-performancegreen buildings and related technology in the operations of the Federal Government, in accordance with the requirements of section 6834(a)(3)(D) of this title, including through—
 
 &emsp;(1) the provision of recognition awards; and
 
@@ -151,6 +151,10 @@ Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L
 #### Change of Name
 
 Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, §6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under section 4321 of this title.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

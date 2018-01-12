@@ -10,7 +10,7 @@ Appropriate federal official.—In this section, the term "appropriate Federal o
 
 &emsp;&emsp;(A) the Attorney General of the United States; or
 
-&emsp;&emsp;(B) in any case in which the defendant is a Federal depository institution, a State depository institution, a depository institution holding company, a foreign bank, or a nondepository institution subsidiary of the foregoing (as such terms are defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), the person who has the primaryFederal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+&emsp;&emsp;(B) in any case in which the defendant is a Federal depository institution, a State depository institution, a depository institution holding company, a foreign bank, or a nondepository institution subsidiary of the foregoing (as such terms are defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
 
 &emsp;(2)
 
@@ -20,7 +20,7 @@ Appropriate state official.—In this section, the term "appropriate State offic
 
 In General.—Not later than 10 days after a proposed settlement of a class action is filed in court, each defendant that is participating in the proposed settlement shall serve upon the appropriate State official of each State in which a class member resides and the appropriate Federal official, a notice of the proposed settlement consisting of—
 
-&emsp;(1) a copy of the complaint and any materials filed with the complaint and any amended complaints (except such materials shall not be required to be served if such materials are made electronically available through the Internet and such service includes notice of how to electronically access such material);
+&emsp;(1) a copy of the complaint and any materials filed with the complaint and any amended complaints (except such materials shall notbe required to be served if such materials are made electronically available through the Internet and such service includes notice of how to electronically access such material);
 
 &emsp;(2) notice of any scheduled judicial hearing in the class action;
 
@@ -81,4 +81,8 @@ Application of rights.—The rights created by this subsection shall apply only 
 Rule of Construction.—Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
 
 (Added Pub. L. 109–2, §3(a), Feb. 18, 2005, 119 Stat. 7.)
+
+#### Effective Date
+
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 

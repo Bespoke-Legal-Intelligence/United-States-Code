@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in this section, the President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the person knowingly, on or after the date that is 180 days after January 2, 2013, provides underwriting services or insurance or reinsurance—
 
-&emsp;&emsp;(A) for any activity with respect to Iran for which sanctions have been imposed under this chapter, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the Iran Sanctions Act of 1996, the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8701 et seq.), the Iran, North Korea, and Syria Nonproliferation Act (Public Law 106–178; 50 U.S.C. 1701 note), or any other provision of law relating to the imposition of sanctions with respect to Iran;
+&emsp;&emsp;(A) for any activity with respect to Iran for which sanctions have been imposed under this chapter, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the Iran Sanctions Act of 1996, the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8701 et seq.), the Iran, North Korea, and Syria Nonproliferation Act (Public Law 106–178; 50U.S.C. 1701 note), or any other provision of law relating to the imposition of sanctions with respect to Iran;
 
 &emsp;&emsp;(B) to or for any person—
 

@@ -18,7 +18,7 @@ Independent Auditor.—Subject to subsection (c)—
 
 &emsp;(1) for each agency with an Inspector General appointed under the Inspector General Act of 1978, the annual evaluation required by this section shall be performed by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
 
-&emsp;(2) for each agency to which paragraph (1) does not apply, the head of the agency shall engage an independent external auditor to perform the evaluation.
+&emsp;(2) for each agency to which paragraph (1) does not apply, the head of the agency shallengage an independent external auditor to perform the evaluation.
 
 (c)
 

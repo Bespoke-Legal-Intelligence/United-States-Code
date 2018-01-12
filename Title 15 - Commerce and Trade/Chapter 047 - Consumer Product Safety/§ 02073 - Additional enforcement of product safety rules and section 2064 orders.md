@@ -26,7 +26,7 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### (C) Actions involving substantial product hazard
 
-&emsp;&emsp;Notwithstanding subparagraph (B), a State may initiate a civil action under paragraph (1) by filing a complaint immediately after notifying the Commission of the State's determination that such immediate action is necessary to protect the residents of the State from a substantial product hazard (as defined in section 2064(a) of this title).
+&emsp;&emsp;Notwithstanding subparagraph (B), a State may initiate a civil action under paragraph (1) by filing a complaint immediately after notifying the Commission of the State's determination that such immediate action is necessary to protect the residents of theState from a substantial product hazard (as defined in section 2064(a) of this title).
 
 #### (D) Form of notice
 

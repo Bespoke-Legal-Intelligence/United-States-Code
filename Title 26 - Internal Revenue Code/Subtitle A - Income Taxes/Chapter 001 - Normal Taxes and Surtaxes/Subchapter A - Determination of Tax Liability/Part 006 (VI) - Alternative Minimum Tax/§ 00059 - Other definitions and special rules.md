@@ -12,15 +12,11 @@ For purposes of this part—
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.
 
 #### (2) Pre-credit tentative minimum tax
 
-&emsp;For purposes of this subsection, the term "pre-credit tentative minimum tax" means—
-
-&emsp;&emsp;(A) in the case of a taxpayer other than a corporation, the amount determined under the first sentence of section 55(b)(1)(A)(i), or
-
-&emsp;&emsp;(B) in the case of a corporation, the amount determined under section 55(b)(1)(B)(i).
+&emsp;For purposes of this subsection, the term "pre-credit tentative minimum tax" means the amount determined under the first sentence of section 55(b)(1)(A).
 
 #### (3) Election to use simplified section 904 limitation
 
@@ -46,9 +42,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;An election under this paragraph, once made, shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
 
-#### (b) Minimum tax not to apply to income eligible for credits under section 30A or 936
-
-In the case of any corporation for which a credit is allowable for the taxable year under section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936.
+#### \[(b) Repealed. Pub. L. 115–97, title I, §12001(b)(10), Dec. 22, 2017, 131 Stat. 2093\]
 
 #### (c) Treatment of estates and trusts
 
@@ -70,7 +64,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (2) Differently treated items
 
-&emsp;For purposes of this section, the term "differently treated item" means any item of tax preference or any other item which is treateddifferently for purposes of this part than for purposes of computing the regular tax.
+&emsp;For purposes of this section, the term "differently treated item" means any item of tax preference or any other item which is treated differently for purposes of this part than for purposes of computing the regular tax.
 
 #### (e) Optional 10-year writeoff of certain tax preferences
 
@@ -124,9 +118,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 &emsp;Any portion of any qualified expenditure to which an election under paragraph (1) applies shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
 
-#### (f) Coordination with section 291
-
-Except as otherwise provided in this part, section 291 (relating to cutback of corporate preferences) shall apply before the application of this part.
+#### \[(f) Repealed. Pub. L. 115–97, title I, §12001(b)(10), Dec. 22, 2017, 131 Stat. 2093\]
 
 #### (g) Tax benefit rule
 
@@ -156,17 +148,31 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 &emsp;&emsp;(A) such dollar amount, and
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "1997" for "1992" in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "1997" for "2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1)(C). Pub. L. 115–97, §12001(b)(3)(C)(i), substituted "section 55(b)(1) in lieu of the highest rate of tax specified in section 1" for "subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies)".
+
+Subsec. (a)(2). Pub. L. 115–97, §12001(b)(3)(C)(ii), substituted "means the amount determined under the first sentence of section 55(b)(1)(A)." for "means—
+
+&emsp;"(A) in the case of a taxpayer other than a corporation, the amount determined under the first sentence of section 55(b)(1)(A)(i), or
+
+&emsp;"(B) in the case of a corporation, the amount determined under section 55(b)(1)(B)(i)."
+
+Subsec. (b). Pub. L. 115–97, §12001(b)(10), struck out subsec. (b). Text read as follows: "In the case of any corporation for which a credit is allowable for the taxable year under section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936."
+
+Subsec. (f). Pub. L. 115–97, §12001(b)(10), struck out subsec. (f). Text read as follows: "Except as otherwise provided in this part, section 291 (relating to cutback of corporate preferences) shall apply before the application of this part."
+
+Subsec. (j)(2)(B). Pub. L. 115–97, §11002(d)(4), substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
 <b>2004</b>—Subsec. (a)(2) to (4). Pub. L. 108–357 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to limitation on alternative minimum tax foreign tax credit and carryback and carryforward of excess.
 
@@ -248,6 +254,12 @@ Subsec. (i). Pub. L. 100–647, §1007(e)(4), inserted "(other than this part)" 
 
 Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 12001(b)(3)(C), (10) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 421(b) of Pub. L. 108–357, set out as a note under section 53 of this title.
@@ -318,11 +330,11 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990,see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 
-Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid oraccrued in a taxable year beginning on or before December 31, 1986."
+Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

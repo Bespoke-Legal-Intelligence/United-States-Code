@@ -6,13 +6,13 @@ Authority To Contract.—The Secretary of Defense and the Secretary of a militar
 
 (b)
 
-Period of Contract.—The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 20 years.
+Period of Contract.—The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 30 years.
 
 (c)
 
 Option To Purchase Facility.—A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of section 3324 of title 31, and before approval of title to the underlying land by the Attorney General.
 
-(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457, §2388; amended Pub. L. 97–214, §10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337; renumbered §2922, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457, §2388; amended Pub. L. 97–214, §10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337; renumbered §2922, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. A, title VIII, §881(a), Dec. 12, 2017, 131 Stat. 1504.)
 
 Historical and Revision Notes<br>1956
 
@@ -52,6 +52,8 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "30 years" for "20 years".
+
 <b>2006</b>—Pub. L. 109–364 renumbered section 2388 of this title as this section.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–355 substituted "liquid fuels or natural gas" for "liquid fuels and natural gas".
@@ -76,6 +78,10 @@ Pub. L. 97–258, §3(b)(6), directed the substitution of "section 3324(a) and (
 
 Pub. L. 97–214, §10(a)(3), substituted "section 3648 of the Revised Statutes (31 U.S.C. 529)" for "section 4774(d) or 9774(d) of this title, section 529 of title 31, or section 259 or 267 of title 40,".
 
+#### Effective Date of 2017 Amendment
+
+Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into on or after the date of the enactment of this Act \[Dec. 12, 2017\], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment."
+
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
@@ -98,7 +104,7 @@ Definitions.—In this section \[this note\]:
 
 &emsp;"(3) The term 'operational purposes' means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations.
 
-&emsp;"(4) The term 'fully burdened cost' means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which thefuel is received from the commercial supplier to the point of use."
+&emsp;"(4) The term 'fully burdened cost' means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use."
 
 #### Purchases of Gasohol as Fuel for Motor Vehicles
 

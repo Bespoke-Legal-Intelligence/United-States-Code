@@ -18,7 +18,7 @@
 
 &emsp;(C) any fine, penalty, or reduction in credit relating to a tax of a kind specified in subparagraph (B) of this paragraph; and
 
-&emsp;(D) notwithstanding the requirements of subsection (a), a governmental unit shall not be required to file a request for the payment of an expense described in subparagraph (B) or (C), as a condition of its being an allowed administrative expense;
+&emsp;(D) notwithstanding the requirements of subsection (a), a governmental unit shall notbe required to file a request for the payment of an expense described in subparagraph (B) or (C), as a condition of its being an allowed administrative expense;
 
 &emsp;(2) compensation and reimbursement awarded under section 330(a) of this title;
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) the payment is part of a program that is generally applicable to all full-time employees; and
 
-&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of themean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
+&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of the mean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
 
 &emsp;(3) other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 

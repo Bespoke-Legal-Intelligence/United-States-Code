@@ -52,7 +52,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 &emsp;&emsp;&emsp;(i) total compensation paid to an individual under subsection (a) shall not exceed $50,000 for any year; and
 
-&emsp;&emsp;&emsp;(ii) the lifetime total of such compensation for the individual may not exceed anamount equal to the amount authorized to be paid under section 239e of this title.
+&emsp;&emsp;&emsp;(ii) the lifetime total of such compensation for the individual may not exceed an amount equal to the amount authorized to be paid under section 239e of this title.
 
 #### (B) Permanent and total disability
 

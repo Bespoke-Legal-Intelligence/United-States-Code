@@ -12,7 +12,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (2) Time of notification
 
-&emsp;The notice for a routine inspection shall be submitted to the owner and to the operator, occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
+&emsp;The notice for a routine inspection shall be submitted to the owner and to the operator,occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
 
 #### (3) Content of notice
 
@@ -74,7 +74,7 @@ Consistent with the provisions of the Convention, each inspection shall be comme
 
 #### (1) In general
 
-&emsp;The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention.The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be taken by representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.
+&emsp;The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention. The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be taken by representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.
 
 #### (2) Compliance with regulations
 

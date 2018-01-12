@@ -2,7 +2,7 @@
 
 #### (a) Establishment of grant program
 
-From funds appropriated under subsection (h), the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
+From funds appropriated under subsection (h), the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on theavailable services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
 
 #### (b) Existence of State program as requisite to receiving payments
 
@@ -28,7 +28,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 &emsp;(I) a designated State agency undergoes any change in the organizational structure of the agency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
 
-&emsp;(II) an agency (including an office or other unit) within the designated State agency wasconducting a client assistance program before the change under the last sentence of subparagraph (A),
+&emsp;(II) an agency (including an office or other unit) within the designated State agency was conducting a client assistance program before the change under the last sentence of subparagraph (A),
 
 > the Governor shall redesignate the agency conducting the program. In conducting the redesignation, the Governor shall designate to conduct the program an agency that is independent of any agency that provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
@@ -58,7 +58,7 @@ The agency designated under subsection (c) of this section may not bring any cla
 
 &emsp;(I) The term "American Indian Consortium" has the meaning given the term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002).
 
-&emsp;(II) The term "protection and advocacy system" means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
+&emsp;(II) The term "protection and advocacy system" means a protection and advocacy systemestablished under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).
 
 (F) For any fiscal year for which the amount appropriated under subsection (h) equals or exceeds $14,000,000, the Secretary may reserve not less than 1.8 percent and not more than 2.2 percent of such amount to provide a grant for training and technical assistance for the programs established under this section. Such training and technical assistance shall be coordinated with activities provided under section 794e(c)(1)(A) of this title.
 
@@ -80,7 +80,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(3)(A) Each program shall contain provisions designed to assure that to the maximum extent possible alternative means of dispute resolution are available for use at the discretion of an applicant or client of the program prior to resorting to litigation or formal adjudication to resolve a dispute arising under this section.
 
-&emsp;(B) In subparagraph (A), the term "alternative means of dispute resolution" means any procedure, including good faith negotiation, conciliation, facilitation, mediation,factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
+&emsp;(B) In subparagraph (A), the term "alternative means of dispute resolution" means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
 
 &emsp;(4) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
@@ -116,7 +116,7 @@ Section 732, Pub. L. 93–112, title I, §112, Sept. 26, 1973, 87 Stat. 371; Pub
 
 Section 740, Pub. L. 93–112, title I, §120, as added Pub. L. 102–569, title I, §134(a), Oct. 29, 1992, 106 Stat. 4392, related to State eligibility for grants.
 
-Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I, §§101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, §1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, §202(g), Nov. 7, 1988, 102 Stat. 3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
+Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I, §§101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, §1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, §202(g), Nov. 7, 1988, 102 Stat.3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
 
 #### Amendments
 

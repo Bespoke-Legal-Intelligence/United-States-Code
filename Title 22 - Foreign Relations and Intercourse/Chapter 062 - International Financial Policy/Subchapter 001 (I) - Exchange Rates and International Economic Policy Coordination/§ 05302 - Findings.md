@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) capital flows between nations have become very large compared to trade flows, respond at times quickly and dramatically to policy and economic changes, and, for these reasons, contribute significantly to uncertainty in financial markets, the volatility of exchange rates, and the development of exchange rates which produce imbalances in the flow of goods and services between nations;
 
-&emsp;(6) policy initiatives by some major trading nations that manipulate the value of their currencies in relation to the United States dollar to gain competitive advantage continue to create serious competitive problems for United States industries;
+&emsp;(6) policy initiatives by some major trading nations that manipulate the value of theircurrencies in relation to the United States dollar to gain competitive advantage continue to create serious competitive problems for United States industries;
 
 &emsp;(7) a more stable exchange rate for the dollar at a level consistent with a more appropriate and sustainable balance in the United States current account should be a major focus of national economic policy;
 

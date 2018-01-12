@@ -70,7 +70,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) is a law enforcement officer within the meaning of section 8331(20) or 8401(17);
 
-&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
+&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position andis subject to subchapter III of chapter 83, but who does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
 
 &emsp;&emsp;(C) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a law enforcement officer within the meaning of section 8401(17), would so qualify if such employee had transferred directly to such position after performing duties described in section 8401(17)(A) and (B) for at least 3 years; and
 
@@ -134,7 +134,7 @@ In paragraph (2)(xii), the reference to former section 946 is omitted as unneces
 
 In paragraph (2)(xiii), the words "as defined by section 901 of title 20" are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
-The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3)is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
+The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -228,7 +228,7 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 
 #### Transfer of Functions
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National WeatherService\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 #### Availability of Premium Pay for Attorneys Employed in Department of Justice
 
@@ -250,7 +250,7 @@ Pub. L. 102–378, §2(40)(D), Oct. 2, 1992, 106 Stat. 1351, provided that: "It 
 
 &emsp;&emsp;"(II) do not reflect any intent of the Congress to change retirement eligibility standards for law enforcement officers; and
 
-&emsp;"(ii) law enforcement officers in primary positions have different retirement eligibility standards than employees in supervisory or administrative positions because of the different requirements in their responsibilities."
+&emsp;"(ii) law enforcement officers in primary positions have different retirement eligibility standards thanemployees in supervisory or administrative positions because of the different requirements in their responsibilities."
 
 #### Payment of Bonuses for Foreign Language Capabilities
 

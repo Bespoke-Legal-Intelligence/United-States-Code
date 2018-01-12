@@ -64,7 +64,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;(7) the compensation and other payments made during the year to each individual described in paragraph (6),
 
-&emsp;(8) in the case of an organization with respect to which an election under section 501(h)is effective for the taxable year, the following amounts for such organization for such taxable year:
+&emsp;(8) in the case of an organization with respect to which an election under section 501(h) is effective for the taxable year, the following amounts for such organization for such taxable year:
 
 &emsp;&emsp;(A) the lobbying expenditures (as defined in section 4911(c)(1)),
 
@@ -156,7 +156,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Special rule for in-house expenditures
 
-&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
 
 #### (iii) Coordination with section 527(f)
 
@@ -216,7 +216,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 &emsp;Political organizations described in paragraph (1) shall file an annual return—
 
-&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretaryconsiders appropriate to require only information which is necessary for the purposes of carrying out section 527, and
+&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretary considers appropriate to require only information which is necessary for the purposes of carrying out section 527, and
 
 &emsp;&emsp;(B) containing such other information as the Secretary deems necessary to carry out the provisions of this subsection.
 
@@ -322,7 +322,7 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857; Pub. L. 114–113, div. Q, title IV, §405(b), Dec. 18, 2015, 129 Stat. 3119.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857; Pub. L. 114–113, div. Q, title IV, §405(b), Dec. 18, 2015, 129 Stat. 3119; Pub. L. 115–97, title I, §13308(b), Dec. 22, 2017, 131 Stat. 2129.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -339,6 +339,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (e)(1)(B)(ii). Pub. L. 115–97 substituted "section 162(e)(4)(B)(ii)" for "section 162(e)(5)(B)(ii)".
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–113 substituted "under subsection (a)—" for "under subsection (a)", inserted par. (1) designation before "the information", substituted "to such organization, and" for "to such organization.", and added par. (2).
 
@@ -438,6 +440,10 @@ Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to sectio
 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to amounts paid or incurred on or after Dec. 22, 2017, see section 13308(c) of Pub. L. 115–97, set out as a note under section 162 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–113 applicable to organizations which are described in section 501(c)(4) of this title and organized after Dec. 18, 2015, and to certain then-existing organizations, see section 405(f) of Pub. L. 114–113, set out as an Effective Date note under section 506 of this title.
@@ -514,7 +520,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec. 31, 1958, see section 75(c) of Pub. L. 85–866, set out as a note under section 6104 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec. 31, 1958, see section 75(c)of Pub. L. 85–866, set out as a note under section 6104 of this title.
 
 #### Secretarial Outreach Requirements
 

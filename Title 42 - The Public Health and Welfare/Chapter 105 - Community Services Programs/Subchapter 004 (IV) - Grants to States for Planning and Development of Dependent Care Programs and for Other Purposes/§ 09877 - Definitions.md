@@ -82,5 +82,3 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-

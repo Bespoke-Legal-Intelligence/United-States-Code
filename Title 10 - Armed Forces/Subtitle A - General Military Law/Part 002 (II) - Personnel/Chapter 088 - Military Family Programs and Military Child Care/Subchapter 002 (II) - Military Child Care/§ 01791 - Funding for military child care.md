@@ -8,6 +8,32 @@ It is the policy of Congress that the amount of appropriated funds available dur
 
 Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(2).
 
+#### Enhancing Military Childcare Programs and Activities of the Department of Defense
+
+Pub. L. 115–91, div. A, title V, §558, Dec. 12, 2017, 131 Stat. 1405, provided that:
+
+"(a)
+
+Hours of Operation of Military Childcare Development Centers.—Each Secretary of a military department shall ensure, to the extent practicable, that the hours of operation of each childcare development center under the jurisdiction of the Secretary are established and maintained in manner that takes into account the demands and circumstances of members of the Armed Forces, including members of the reserve components, who use such center in facilitation of the performance of their military duties.
+
+"(b)
+
+Matters to Be Taken Into Account.—The demands and circumstances to be taken into account under subsection (a) for purposes of setting and maintaining the hours of operation of a childcare development center shall include the following:
+
+&emsp;"(1) Mission requirements of units whose members use the childcare development center.
+
+&emsp;"(2) The unpredictability of work schedules, and fluctuations in day-to-day work hours, of such members.
+
+&emsp;"(3) The potential for frequent and prolonged absences of such members for training, operations, and deployments.
+
+&emsp;"(4) The location of the childcare development center on the military installation concerned, including the location in connection with duty locations of members and applicable military family housing.
+
+&emsp;"(5) Such other matters as the Secretary of the military department concerned considers appropriate for purposes of this section.
+
+"(c)
+
+Childcare Coordinators for Military Installations.—Each Secretary of a military department may provide for a childcare coordinator at each military installation under the jurisdiction of the Secretary at which are stationed significant numbers of members of the Armed Forces with accompanying dependent children, as determined by the Secretary. The childcare coordinator may work with the commander of the installation to ensure that childcare is available and responsive to the needs of members assigned to the installation."
+
 #### Reports on Child Development Centers and Financial Assistance for Child Care for Members of the Armed Forces
 
 Pub. L. 111–383, div. A, title V, §587, Jan. 7, 2011, 124 Stat. 4230, provided that:
@@ -38,5 +64,5 @@ Elements.—Each report required by subsection (a) shall include the following, 
 
 &emsp;"(9) The barriers to access, if any, to such financial assistance faced by members of the Armed Forces, including whether standards and criteria of the Department of Defense for child care off-installation may affect access to child care.
 
-&emsp;"(10) Any other matters the Secretary considers appropriate in connection with such report, including with respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces."
+&emsp;"(10) Any other matters the Secretary considers appropriate in connection with such report, includingwith respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces."
 

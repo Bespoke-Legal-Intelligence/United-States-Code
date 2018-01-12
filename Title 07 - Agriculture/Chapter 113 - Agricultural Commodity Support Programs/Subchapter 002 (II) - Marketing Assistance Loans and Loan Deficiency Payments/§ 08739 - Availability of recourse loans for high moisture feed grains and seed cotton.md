@@ -32,7 +32,7 @@
 
 #### (b) Recourse loans available for seed cotton
 
-For each of the 2008 through 2012 crops of upland cotton and extra long staple cotton, theSecretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
+For each of the 2008 through 2012 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
 
 #### (c) Repayment rates
 

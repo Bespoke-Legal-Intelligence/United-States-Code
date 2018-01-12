@@ -44,7 +44,7 @@ An eligible entity described in section 1070a–21(c)(2) of this title shall des
 
 #### (e) Supplement, not supplant
 
-Grant funds awarded under this division shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
+Grant funds awarded under this division shall be used to supplement, and not supplant, otherFederal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
 
 (Pub. L. 89–329, title IV, §404B, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1657; amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–315, title IV, §404(b), Aug. 14, 2008, 122 Stat. 3207.)
 

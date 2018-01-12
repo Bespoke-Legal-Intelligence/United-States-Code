@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the programfor (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 (3) In the case of a report under paragraph (1) submitted in a year during which the President's budget for the next fiscal year, because of multiyear budgeting for the Department of Defense, does not include a full budget request for the Department of Defense, the report required by paragraph (1) shall set forth—
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.
 
-(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(a)(2), Dec. 28, 2001, 115 Stat. 1222.)
+(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502; Pub. L. 106–65, div. A,title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(a)(2), Dec. 28, 2001, 115 Stat. 1222.)
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 104–106, §1502(a)(4), added pars. (1) and (2) and struck
 
 "(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives."
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Whenever a change is made in thestatus of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect."
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect."
 
 Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 

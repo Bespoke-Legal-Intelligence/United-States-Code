@@ -2,7 +2,7 @@
 
 No person engaged in the business of betting or wagering may knowingly accept, in connection with the participation of another person in unlawful Internet gambling—
 
-&emsp;(1) credit, or the proceeds of credit, extended to or on behalf of such other person (includingcredit extended through the use of a credit card);
+&emsp;(1) credit, or the proceeds of credit, extended to or on behalf of such other person (including credit extended through the use of a credit card);
 
 &emsp;(2) an electronic fund transfer, or funds transmitted by or through a money transmitting business, or the proceeds of an electronic fund transfer or money transmitting service, from or on behalf of such other person;
 

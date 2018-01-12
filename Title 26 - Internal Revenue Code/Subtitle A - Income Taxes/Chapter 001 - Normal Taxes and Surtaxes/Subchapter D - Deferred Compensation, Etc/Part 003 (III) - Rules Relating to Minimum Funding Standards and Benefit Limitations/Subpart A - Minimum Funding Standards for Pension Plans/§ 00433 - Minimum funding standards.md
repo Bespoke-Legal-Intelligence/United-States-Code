@@ -58,7 +58,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
-&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periodsfor all items entering into whichever of the two amounts being offset is the greater.
+&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
 
 #### (5) Interest
 
@@ -136,7 +136,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV <sup>1</sup> (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the currentplan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
+&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
 
 #### (6) Full funding
 
@@ -192,7 +192,7 @@ Assets.—For purposes of clause (i), assets shall not be reduced by any credit 
 
 #### (iii) Adjustments
 
-&emsp;&emsp;&emsp;Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
+&emsp;&emsp;&emsp;Information under clause (ii) shall, in accordance with regulations, be actuariallyadjusted to reflect significant differences in participants.
 
 #### (iv) Limitation
 
@@ -379,7 +379,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (A) Fiscal years
 
-&emsp;&emsp;In applying this subsection to a plan year beginning on any date other than January 1, there shall be substituted for the months specified in this subsection, the months which correspond thereto.
+&emsp;&emsp;In applying this subsection to a plan year beginning on any date other than January 1, there shall be substituted for the monthsspecified in this subsection, the months which correspond thereto.
 
 #### (B) Short plan year
 
@@ -551,7 +551,7 @@ Notwithstanding any other provisions of this section—
 
 #### (2) Plan amendments
 
-&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required to comply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in addition to any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
+&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required to comply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in additionto any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
 
 #### (3) Funding restoration plan
 

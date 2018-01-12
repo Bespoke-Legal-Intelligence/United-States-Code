@@ -34,7 +34,7 @@ In carrying out subsection (a), the Secretary of State may require licenses, whi
 
 #### (3) United States
 
-&emsp;As used in this section, the term "United States" includes any State, the District of Columbia, the Commonwealth of Puerto Rico,the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
+&emsp;As used in this section, the term "United States" includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
 #### (4) United States person
 

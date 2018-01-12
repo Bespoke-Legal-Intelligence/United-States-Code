@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The State plan for vocational rehabilitation services shall designate a State agency as the sole State agency to administer the plan, or to supervise the administration of the plan by a local agency, except that—
 
-&emsp;&emsp;&emsp;(i) where, under State law, the State agency for individuals who are blind or another agency that provides assistance or services to adults who are blind is authorized to provide vocational rehabilitation services to individuals who are blind, that agency may be designated as the sole State agency to administer the part of the plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and a separate State agency may be designated as the sole State agency to administer or supervise the administration of the rest of the State plan;
+&emsp;&emsp;&emsp;(i) where, under State law, the State agency for individuals who are blind or another agency that provides assistance or services to adults who are blind is authorized to provide vocational rehabilitation services to individuals who are blind, that agency may be designated as the sole State agency to administer the part of theplan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and a separate State agency may be designated as the sole State agency to administer or supervise the administration of the rest of the State plan;
 
 &emsp;&emsp;&emsp;(ii) the Commissioner, on the request of a State, may authorize the designated State agency to share funding and administrative responsibility with another agency of the State or with a local agency in order to permit the agencies to carry out a joint program to provide services to individuals with disabilities, and may waive compliance, with respect to vocational rehabilitation services furnished under the joint program, with the requirement of paragraph (4) that the plan be in effect in all political subdivisions of the State; and
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the vocational rehabilitation field, and other relevant factors;
 
-&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activitiesunder the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;(iii) a description of the development and maintenance of a system of determining, on an annual basis, information on the programs of institutions of higher education within the State that are preparing rehabilitation professionals, including—
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) the establishment and maintenance of standards that are consistent with any national or State approved or recognized certification, licensing, registration, or other comparable requirements that apply to the area in which such personnel are providing vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;(ii) the establishment and maintenance of education and experience requirements, to ensure that the personnel have a 21st century understanding of the evolving labor force and the needs of individuals with disabilities, including requirements for—
+&emsp;&emsp;&emsp;(ii) the establishment and maintenance of education and experience requirements,to ensure that the personnel have a 21st century understanding of the evolving labor force and the needs of individuals with disabilities, including requirements for—
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) attainment of a baccalaureate degree in a field of study reasonably related to vocational rehabilitation, to indicate a level of competency and skill demonstrating basic preparation in a field of study such as vocational rehabilitation counseling, social work, psychology, disability studies, business administration, human resources, special education, supported employment, customized employment, economics, or another field that reasonably prepares individuals to work with consumers and employers; and
 
@@ -148,7 +148,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing an accommodation or auxiliary aid or service or any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparableservices and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
+&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing an accommodation or auxiliary aid or service or any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
 
 &emsp;&emsp;&emsp;&emsp;(I) the progress of the individual toward achieving the employment outcome identified in the individualized plan for employment of the individual in accordance with section 722(b) of this title;
 
@@ -204,7 +204,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibilityof the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) of those recipients who are not individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with section 722(b) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
+&emsp;&emsp;&emsp;&emsp;(IV) the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and thetype of services the individuals are receiving (including supported employment);
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter: <sup>1</sup> and
 
@@ -292,7 +292,7 @@
 
 #### (F) Completeness and confidentiality
 
-&emsp;&emsp;The State plan shall include an assurance that the information submitted in the reports will include a complete count, except as provided in subparagraph (E), of the applicants and eligible individuals, in a manner permitting the greatest possible cross-classification of data and that the identity of each individual for which information is supplied under this paragraph will be kept confidential.
+&emsp;&emsp;The State plan shall include an assurance that the information submitted in the reports will include a complete count, except as provided in subparagraph (E), of the applicants and eligible individuals, in a manner permitting the greatest possible cross-classification of data and that the identity of eachindividual for which information is supplied under this paragraph will be kept confidential.
 
 #### (G) Rules for reporting of data
 
@@ -366,7 +366,7 @@
 
 #### (H) Cooperative agreement with recipients of grants for services to American Indians
 
-&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indianswho are individuals with disabilities, including—
+&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -446,7 +446,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State plan shall identify the goals and priorities of the State in carrying out the program. The goals and priorities shall be jointly developed, agreed to, and reviewed annually by the designated State unit and the State Rehabilitation Council, if the State has such a Council. Any revisions to the goals and priorities shall be jointly agreed to by the designated State unit and the State Rehabilitation Council, if the State has such a Council. The State plan shall provide that the State shall submit to the Commissioner a report containing information regarding revisions in the goals and priorities, for any year in which the State revises the goals and priorities.
+&emsp;&emsp;&emsp;The State plan shall identify the goals and priorities of the State in carrying out the program. The goals and priorities shall be jointly developed, agreed to, and reviewed annually by the designated State unit and the State Rehabilitation Council, if the State has such a Council. Any revisions to the goals and priorities shall be jointly agreed to by the designated State unit and the State Rehabilitation Council,if the State has such a Council. The State plan shall provide that the State shall submit to the Commissioner a report containing information regarding revisions in the goals and priorities, for any year in which the State revises the goals and priorities.
 
 #### (ii) Basis
 
@@ -542,7 +542,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, asappropriate, the applicants' representatives or individuals' representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants' representatives or individuals' representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -606,7 +606,7 @@
 
 #### (22) Supported employment State plan supplement
 
-&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement fundsmade available under part B of this subchapter to pay for the cost of services leading to supported employment.
+&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
 
 #### (23) Annual updates
 
@@ -666,7 +666,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v
 
 The Social Security Act, referred to in subsec. (a)(11)(G), (K), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, §443(2), July 22, 2014, 128 Stat. 1674.
+Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, §443(2), July 22, 2014, 128 Stat. 1674.
 
 #### Prior Provisions
 

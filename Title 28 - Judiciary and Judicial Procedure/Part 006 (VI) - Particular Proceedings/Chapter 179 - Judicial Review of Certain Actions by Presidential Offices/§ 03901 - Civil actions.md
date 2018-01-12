@@ -12,5 +12,5 @@ Jury Trial.—In an action described in subsection (a), any party may demand a j
 
 #### Effective Date
 
-Chapter effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under section 1296 of this title.
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under section 1296 of this title.
 

@@ -32,7 +32,7 @@ Section 280B shall not apply to amounts which are treated as expenses under this
 
 &emsp;&emsp;(B) one or more persons directly holding an ownership interest in the refiner are organizations to which part I of subchapter T apply,
 
-> &emsp;the refiner may elect to allocate all or a portion of the deduction allowable under subsection (a) to such persons. Such allocation shall be equal to the person's ratable share of the total amount allocated, determined on the basis of the person's ownership interest in the taxpayer. The taxable income of the refiner shall not be reduced under section 1382 by reason of any amount to which the preceding sentence applies.
+> &emsp;the refiner may elect to allocate all or a portion of the deduction allowable under subsection (a) to such persons. Such allocation shall be equal to the person's ratable share of the total amount allocated, determined on the basis of the person's ownership interest in the taxpayer. The taxable income of the refinershall not be reduced under section 1382 by reason of any amount to which the preceding sentence applies.
 
 #### (2) Form and effect of election
 

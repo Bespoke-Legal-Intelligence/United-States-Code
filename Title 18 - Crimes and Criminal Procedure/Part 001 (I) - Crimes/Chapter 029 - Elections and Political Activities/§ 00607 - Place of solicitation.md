@@ -6,7 +6,7 @@ Prohibition.—
 
 &emsp;(1)
 
-In general.—It shall be unlawful for any person to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election from a person who is located in a room or building occupied in the discharge of official duties by an officer or employee of the United States. It shall be unlawful for an individual who is an officer or employee of the Federal Government, including the President, Vice President, and Members of Congress, to solicit or receivea donation of money or other thing of value in connection with a Federal, State, or local election, while in any room or building occupied in the discharge of official duties by an officer or employee of the United States, from any person.
+In general.—It shall be unlawful for any person to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election from a person who is located in a room or building occupied in the discharge of official duties by an officer or employee of the United States. It shall be unlawful for an individual who is an officer or employee of the Federal Government, including the President, Vice President, and Members of Congress, to solicit or receive a donation of money or other thing of value in connection with a Federal, State, or local election, while in any room or building occupied in the discharge of official duties by an officer or employee of the United States, from any person.
 
 &emsp;(2)
 

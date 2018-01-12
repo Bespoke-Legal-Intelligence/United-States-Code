@@ -72,3 +72,7 @@ Subsec. (d)(3). Pub. L. 108–373, §201(2), added par. (3) and struck out headi
 
 Subsec. (d)(4)(D) to (F). Pub. L. 108–373, §201(3), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

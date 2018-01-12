@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this part $1,000,000,000 for fiscal year 2017 and $1,100,000,000 for each of fiscal years 2018 through 2020.
 
-(Pub. L. 89–10, title IV, §4206, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773;amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1993.)
+(Pub. L. 89–10, title IV, §4206, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1993.)
 
 #### Prior Provisions
 

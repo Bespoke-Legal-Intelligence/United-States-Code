@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the "Patient-Centered Outcomes Research Trust Fund" (hereafter in this section referred to as the "PCORTF"), consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section and section 9602(b).
+There is established in the Treasury of the United States a trust fund to be known as the "Patient-Centered Outcomes Research Trust Fund" (hereafter in this section referred to as the "PCORTF"), consisting of such amounts as may be appropriated or credited to such TrustFund as provided in this section and section 9602(b).
 
 #### (b) Transfers to Fund
 

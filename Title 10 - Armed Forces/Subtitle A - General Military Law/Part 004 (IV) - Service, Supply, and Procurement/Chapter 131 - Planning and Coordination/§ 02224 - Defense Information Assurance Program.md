@@ -34,7 +34,7 @@ Coordination.—In carrying out the program, the Secretary shall coordinate, as 
 
 Information Assurance Test Bed.—The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
 
-&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations,war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
+&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations, war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
 
 &emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
@@ -71,6 +71,180 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
+
+#### Integration of Strategic Information Operations and Cyber-Enabled Information Operations
+
+Pub. L. 115–91, div. A, title XVI, §1637, Dec. 12, 2017, 131 Stat. 1742, provided that:
+
+"(a)
+
+Processes and Procedures for Integration.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall—
+
+&emsp;&emsp;"(A) establish processes and procedures to integrate strategic information operations and cyber-enabled information operations across the elements of the Department of Defense responsible for such operations, including the elements of the Department responsible for military deception, public affairs, electronic warfare, and cyber operations; and
+
+&emsp;&emsp;"(B) ensure that such processes and procedures provide for integrated Defense-wide strategy, planning, and budgeting with respect to the conduct of such operations by the Department, including activities conducted to counter and deter such operations by malign actors.
+
+&emsp;"(2)
+
+Designated senior official.—The Secretary of Defense shall designate a senior official of the Department of Defense (in this section referred to as the 'designated senior official') who shall implement and oversee the processes and procedures established under paragraph (1). The designated senior official shall be selected by the Secretary from among individuals serving in the Department of Defense at or below the level of an Under Secretary of Defense.
+
+&emsp;"(3)
+
+Responsibilities.—The designated senior official shall have, with respect to the implementation and oversight of the processes and procedures established under paragraph (1), the following responsibilities:
+
+&emsp;&emsp;"(A) Oversight of strategic policy and guidance.
+
+&emsp;&emsp;"(B) Overall resource management for the integration of information operations and cyber-enabled information operations of the Department.
+
+&emsp;&emsp;"(C) Coordination with the head of the Global Engagement Center to support the purpose of the Center (as described \[in\] section 1287(a)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note)) and liaison with the Center and other relevant Federal Government entities to support such purpose.
+
+&emsp;&emsp;"(D) Development of a strategic framework for the conduct of information operations by the Department of Defense, including cyber-enabled information operations, coordinated across all relevant elements of the Department of Defense, including both near-term and long-term guidance for the conduct of such coordinated operations.
+
+&emsp;&emsp;"(E) Development and dissemination of a common operating paradigm across the elements of the Department of Defense specified in paragraph (1) to counter the influence, deception, and propaganda activities of key malign actors, including in cyberspace.
+
+&emsp;&emsp;"(F) Development of guidance for, and promotion of, the capability of the Department of Defense to liaison with the private sector, including social media, on matters relating to the influence activities of malign actors.
+
+"(b)
+
+Requirements and Plans for Information Operations.—
+
+&emsp;"(1)
+
+Combatant command planning and regional strategy.—(A) The Secretary shall require each commander of a combatant command to develop, in coordination with the relevant regional Assistant Secretary of State or Assistant Secretaries of State and with the assistance of the Coordinator of the Global Engagement Center and the designated senior official, a regional information strategy and interagency coordination plan for carrying out the strategy, where applicable.
+
+&emsp;"(B) The Secretary shall require each commander of a combatant command to develop such requirements and specific plans as may be necessary for the conduct of information operations in support of the strategy required under subparagraph (A), including plans for deterring information operations, including deterrence in the cyber domain, by malign actors against the United States, allies of the United States, and interests of the United States.
+
+&emsp;"(2)
+
+Implementation plan for dod strategy for operations in the information environment.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the designated senior official shall—
+
+&emsp;&emsp;&emsp;"(i) review the strategy of the Department of Defense titled 'Department of Defense Strategy for Operations in the Information Environment' and dated June 2016; and
+
+&emsp;&emsp;&emsp;"(ii) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of such strategy.
+
+&emsp;&emsp;"(B)
+
+Elements.—The plan required under subparagraph (A) shall include, at a minimum, the following:
+
+&emsp;&emsp;&emsp;"(i) An accounting of the efforts undertaken in support of the strategy described in subparagraph (A)(i) in the period since it was issued in June 2016.
+
+&emsp;&emsp;&emsp;"(ii) A description of any updates or changes to such strategy that have been made since it was first issued, as well as any expected updates or changes resulting from the designation of the designated senior official.
+
+&emsp;&emsp;&emsp;"(iii) A description of the role of the Department of Defense as part of a broader whole-of-Government strategy for strategic communications, including a description of any assumptions about the roles and contributions of other departments and agencies of the Federal Government with respect to such a strategy.
+
+&emsp;&emsp;&emsp;"(iv) Defined actions, performance metrics, and projected timelines for achieving each of the 15 tasks specified in the strategy described in subparagraph (A)(i).
+
+&emsp;&emsp;&emsp;"(v) An analysis of any personnel, resourcing, capability, authority, or other gaps that will need to be addressed to ensure effective implementation of the strategy described in subparagraph (A)(i) across all relevant elements of the Department of Defense.
+
+&emsp;&emsp;&emsp;"(vi) An investment framework and projected timeline for addressing any gaps identified under clause (v).
+
+&emsp;&emsp;&emsp;"(vii) Such other matters as the Secretary of Defense considers relevant.
+
+&emsp;&emsp;"(C)
+
+Periodic status reports.—Not less frequently than once every 90 days during the three-year period beginning on the date on which the implementation plan is submitted under subparagraph (A)(ii), the designated senior official shall submit to the congressional defense committees a report describing the status of the efforts of the Department of Defense in accomplishing the tasks specified under clauses (iv) and (vi) of subparagraph (B).
+
+"(c)
+
+Training and Education.—Consistent with the elements of the implementation plan under paragraph (2), the designated senior official shall recommend the establishment of programs to provide training and education to such members of the Armed Forces and civilian employees of the Department of Defense as the Secretary considers appropriate to ensure that such members and employees understand the role of information in warfare, the central goal of all military operations to affect the perceptions, views, and decision making of adversaries, and the effective management and conduct of operations in the information environment."
+
+#### Exercise on Assessing Cybersecurity Support to Election Systems of States
+
+Pub. L. 115–91, div. A, title XVI, §1638, Dec. 12, 2017, 131 Stat. 1744, provided that:
+
+"(a)
+
+Inclusion of Cyber Vulnerabilities in Election Systems in Cyber Guard Exercises.—Subject to subsection (b), the Secretary of Defense, in consultation with the Secretary of Homeland Security, may carry out exercises relating to the cybersecurity of election systems of States as part of the exercise commonly known as the 'Cyber Guard Exercise'.
+
+"(b)
+
+Agreement Required.—The Secretary of Defense may carry out an exercise relating to the cybersecurity of a State's election system under subsection (a) only if the State enters into a written agreement with the Secretary under which the State—
+
+&emsp;"(1) agrees to participate in such exercise; and
+
+&emsp;"(2) agrees to allow vulnerability testing of the components of the State's election system.
+
+"(c)
+
+Report.—Not later than 90 days after the completion of any Cyber Guard Exercise, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the ability of the National Guard to assist States, if called upon, in defending election systems from cyberattacks. Such report shall include a description of the capabilities, readiness levels, and best practices of the National Guard with respect to the prevention of cyber attacks on State election systems."
+
+#### Measurement of Compliance With Cybersecurity Requirements for Industrial Control Systems
+
+Pub. L. 115–91, div. A, title XVI, §1639, Dec. 12, 2017, 131 Stat. 1744, provided that:
+
+"(a)
+
+In General.—Not later than January 1, 2018, the Secretary of Defense shall make such changes to the cybersecurity scorecard as are necessary to ensure that the Secretary measures the progress of each element of the Department of Defense in securing the industrial control systems of the Department against cyber threats, including such industrial control systems as supervisory control and data acquisition systems, distributed control systems, programmable logic controllers, and platform information technology.
+
+"(b)
+
+Cybersecurity Scorecard Defined.—In this section, the term 'cybersecurity scorecard' means the Department of Defense Cybersecurity Scorecard used by the Department to measure compliance with cybersecurity requirements as described in the plan of the Department titled 'Department of Defense Cybersecurity Discipline Implementation Plan'."
+
+#### Strategic Cybersecurity Program
+
+Pub. L. 115–91, div. A, title XVI, §1640, Dec. 12, 2017, 131 Stat. 1745, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense, in consultation with the Director of the National Security Agency, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the establishment of a program to be known as the 'Strategic Cybersecurity Program' or 'SCP' (in this section referred to as the 'Program').
+
+"(b)
+
+Elements.—The Program shall be comprised of personnel assigned to the Program by the Secretary of Defense from among personnel, including regular and reserve members of the Armed Forces, civilian employees of the Department, and personnel of the research laboratories of the Department of Defense and the Department of Energy, who have particular expertise in the areas of responsibility described in subsection (c). Any personnel assigned to the Program from among personnel of the Department of Energy shall be so assigned with the concurrence of the Secretary of Energy.
+
+"(c)
+
+Responsibilities.—
+
+&emsp;"(1)
+
+In general.—Personnel assigned to the Program shall assist the Department of Defense in improving the cybersecurity of the following systems of the Federal Government:
+
+&emsp;&emsp;"(A) Offensive cyber systems.
+
+&emsp;&emsp;"(B) Long-range strike systems.
+
+&emsp;&emsp;"(C) Nuclear deterrent systems.
+
+&emsp;&emsp;"(D) National security systems.
+
+&emsp;&emsp;"(E) Critical infrastructure of the Department of Defense (as that term is defined in section 1650(f)(1) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2224 note)).
+
+&emsp;"(2)
+
+Reviews of systems and infrastructure.—In carrying out the activities described in paragraph (1), the personnel assigned to the Program shall conduct appropriate reviews of existing systems and infrastructure and acquisition plans for proposed systems and infrastructure. The review of an acquisition plan for any proposed system or infrastructure shall be carried out before Milestone B approval for such system or infrastructure.
+
+&emsp;"(3)
+
+Results of reviews.—The results of each review carried out under paragraph (2), including any remedial action recommended pursuant to such review, shall be made available to any agencies or organizations of the Department involved in the development, procurement, operation, or maintenance of the system or infrastructure concerned.
+
+"(d)
+
+Integration With Other Efforts.—The plan required under subsection (a) shall build upon, and shall not duplicate, other efforts of the Department of Defense relating to cybersecurity, including—
+
+&emsp;"(1) the evaluation of cyber vulnerabilities of major weapon systems of the Department of Defense required under section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (\[Public Law\] 114–92; 129 Stat. 1118 \[set out as a note below\]);
+
+&emsp;"(2) the evaluation of cyber vulnerabilities of Department of Defense critical infrastructure required under section 1650 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2224 note); and
+
+&emsp;"(3) the activities of the cyber protection teams of the Department of Defense.
+
+"(e)
+
+Report.—Not later than one year after the date on which the plan is submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under subsection (a), the Secretary of Defense shall submit to the congressional defense committees a report on any activities carried out pursuant to such plan. The report shall include the following:
+
+&emsp;"(1) A description of any activities of the Program carried out pursuant to the plan during the time period covered by the report.
+
+&emsp;"(2) A description of particular challenges encountered in the course of the activities of the Program, if any, and of actions taken to address such challenges.
+
+&emsp;"(3) A description of any plans for additional activities under the Program."
 
 #### Requirement To Enter Into Agreements Relating to Use of Cyber Opposition Forces
 
@@ -194,11 +368,11 @@ Certification.—A certification described in this subsection is a written certi
 
 &emsp;&emsp;"(B) the effectiveness, suitability, and survivability of the joint regional security stacks system of the military department or Defense Agency concerned has been demonstrated by methods other than the testing and evaluation activities required under subsection (a), accompanied by supporting data; or
 
-&emsp;&emsp;"(C) national security needs justify full deployment of the joint regional security stacks system of the military department or Defense Agency concerned before the test and evaluation activities required under subsection (a) can be completed, accompanied by an explanation of such justification and a risk management plan."
+&emsp;&emsp;"(C) national security needs justify full deployment of the joint regional security stacks system ofthe military department or Defense Agency concerned before the test and evaluation activities required under subsection (a) can be completed, accompanied by an explanation of such justification and a risk management plan."
 
 #### Evaluation of Cyber Vulnerabilities of Department of Defense Critical Infrastructure
 
-Pub. L. 114–328, div. A, title XVI, §1650, Dec. 23, 2016, 130 Stat. 2607, provided that:
+Pub. L. 114–328, div. A, title XVI, §1650, Dec. 23, 2016, 130 Stat. 2607, as amended by Pub. L. 115–91, div. A, title XVI, §1643, Dec. 12, 2017, 131 Stat. 1748, provided that:
 
 "(a)
 
@@ -240,9 +414,11 @@ In general.—Not later than 30 days after the date on which the Secretary submi
 
 &emsp;&emsp;"(B) to increase the resilience of military installations against cybersecurity threats;
 
-&emsp;&emsp;"(C) to prevent or mitigate the potential for high-consequence cyber attacks; and
+&emsp;&emsp;"(C) to prevent or mitigate the potential for high-consequence cyber attacks;
 
-&emsp;&emsp;"(D) to inform future requirements for the development of such control systems.
+&emsp;&emsp;"(D) to inform future requirements for the development of such control systems; and
+
+&emsp;&emsp;"(E) to assess the strategic benefits derived from, and the challenges associated with, isolating military infrastructure from the national electric grid and the use of microgrids.
 
 &emsp;"(2)
 
@@ -464,7 +640,7 @@ Rule of Construction Regarding Intelligence and Special Activities.—Nothing in
 
 "(g)
 
-Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of those authorities under subsection (a). The plan shall include the following:
+Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees \[Committees on Armed Services and Appropriations of theSenate and the House of Representatives\] a plan for implementation of those authorities under subsection (a). The plan shall include the following:
 
 &emsp;"(1) A Department of Defense definition of—
 
@@ -528,7 +704,7 @@ Priority in evaluations.—The plan under paragraph (1) shall accord a priority 
 
 &emsp;"(3)
 
-Integration with other efforts.—The plan under paragraph (1) shall build upon existing efforts regarding the identification and mitigation of cyber vulnerabilities of major weapon systems, and shallnot duplicate similar ongoing efforts such as Task Force Cyber Awakening of the Navy or Task Force Cyber Secure of the Air Force.
+Integration with other efforts.—The plan under paragraph (1) shall build upon existing efforts regarding the identification and mitigation of cyber vulnerabilities of major weapon systems, and shall not duplicate similar ongoing efforts such as Task Force Cyber Awakening of the Navy or Task Force Cyber Secure of the Air Force.
 
 "(c)
 
@@ -742,7 +918,7 @@ Software assurance.—The term 'software assurance' means the level of confidenc
 
 #### Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors
 
-Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors' networks or information systems, was transferred to chapter 19of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114.
+Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors' networks or information systems, was transferred to chapter 19 of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114.
 
 #### Insider Threat Detection
 
@@ -804,7 +980,7 @@ Operating Capability.—The Secretary shall ensure the program established under
 
 "(d)
 
-Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary shall submit to the congressional defense committees\[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
 
 &emsp;"(1) the implementation plan for the program established under subsection (a);
 

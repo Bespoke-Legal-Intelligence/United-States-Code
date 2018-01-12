@@ -28,7 +28,7 @@ Notwithstanding subsection (a), a person may, in the ordinary course of business
 
 #### (d) Joint or joint and several participation with company in transactions
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which suchregistered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Acceptance of compensation, commissions, fees, etc.
 
@@ -54,11 +54,11 @@ It shall be unlawful for any affiliated person of a registered investment compan
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
-The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
+The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through hisposition as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
-After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provisionwhich protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
+After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provision which protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
 
 #### (i) Provisions in contracts protecting against willful misfeasance, etc.
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

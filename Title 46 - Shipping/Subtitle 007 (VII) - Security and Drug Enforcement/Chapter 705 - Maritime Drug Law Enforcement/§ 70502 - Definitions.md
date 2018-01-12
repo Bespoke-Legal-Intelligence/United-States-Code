@@ -14,7 +14,7 @@ Vessel of the United States.—In this chapter, the term "vessel of the United S
 
 &emsp;&emsp;(A) the vessel has been granted the nationality of a foreign nation under article 5 of the 1958 Convention on the High Seas; and
 
-&emsp;&emsp;(B) a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States who is authorized to enforceapplicable provisions of United States law; and
+&emsp;&emsp;(B) a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States who is authorized to enforce applicable provisions of United States law; and
 
 &emsp;(3) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was sold to a person not a citizen of the United States, placed under foreign registry, or operated under the authority of a foreign nation, whether or not the vessel has been granted the nationality of a foreign nation.
 
@@ -92,7 +92,7 @@ Semi-submersible vessel.—The term "semi-submersible vessel" means any watercra
 
 Submersible vessel.—The term "submersible vessel" means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
 
 Historical and Revision Notes
 

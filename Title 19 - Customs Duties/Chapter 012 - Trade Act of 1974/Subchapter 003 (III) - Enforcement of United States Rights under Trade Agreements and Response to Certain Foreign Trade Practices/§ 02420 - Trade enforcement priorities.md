@@ -4,7 +4,7 @@
 
 #### (1) Trade enforcement priorities consultations
 
-&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this section referred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raiseconcerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
+&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this section referred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raise concerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
 
 #### (2) Identification of trade enforcement priorities
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or that otherwise create or maintain trade barriers.
+&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement towhich the United States is a party, or that otherwise create or maintain trade barriers.
 
 #### (2) Acts, policies, or practices of concern
 
@@ -70,7 +70,7 @@
 
 #### (4) Ongoing enforcement actions
 
-&emsp;The semiannual enforcement consultations required by paragraph (1) shall address all ongoing enforcement actions taken by or against the United States with respect to obligationsunder the WTO Agreements or any other trade agreement to which the United States is a party, including—
+&emsp;The semiannual enforcement consultations required by paragraph (1) shall address all ongoing enforcement actions taken by or against the United States with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, including—
 
 &emsp;&emsp;(A) any relevant timeline with respect to such actions;
 

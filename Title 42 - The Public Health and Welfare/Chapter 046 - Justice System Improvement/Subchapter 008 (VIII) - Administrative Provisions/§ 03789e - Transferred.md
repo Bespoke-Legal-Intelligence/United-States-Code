@@ -1,0 +1,6 @@
+### §3789e. Transferred
+
+#### Codification
+
+Section 3789e was editorially reclassified as section 10229 of Title 34, Crime Control and Law Enforcement.
+

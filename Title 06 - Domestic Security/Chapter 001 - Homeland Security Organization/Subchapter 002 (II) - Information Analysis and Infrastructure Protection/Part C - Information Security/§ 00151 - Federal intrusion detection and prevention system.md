@@ -36,7 +36,7 @@ In carrying out subsection (b), the Secretary—
 
 &emsp;(3) may retain, use, and disclose information obtained through the conduct of activities authorized under this section only to protect information and information systems from cybersecurity risks;
 
-&emsp;(4) shall regularly assess through operational test and evaluation in real world or simulated environments available advanced protective technologies to improve detection and prevention capabilities, including commercial and noncommercial technologies and detection technologies beyond signature-based detection, and acquire, test, and deploy such technologies when appropriate;
+&emsp;(4) shall regularly assess through operational test and evaluation in real world or simulated environments available advanced protective technologies to improve detectionand prevention capabilities, including commercial and noncommercial technologies and detection technologies beyond signature-based detection, and acquire, test, and deploy such technologies when appropriate;
 
 &emsp;(5) shall establish a pilot through which the Secretary may acquire, test, and deploy, as rapidly as possible, technologies described in paragraph (4); and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On or before September 1 of each year, the Secretary, acting through the Administrator of the Energy Information Agency, shall submit toCongress a Home Heating Readiness Report on the readiness of the natural gas, heating oil and propane industries to supply fuel under various weather conditions, including rapid decreases in temperature.
+On or before September 1 of each year, the Secretary, acting through the Administrator of the Energy Information Agency, shall submit to Congress a Home Heating Readiness Report on the readiness of the natural gas, heating oil and propane industries to supply fuel under various weather conditions, including rapid decreases in temperature.
 
 #### (b) Contents
 
@@ -32,7 +32,7 @@ The Home Heating Readiness Report shall include—
 
 #### (c) Information requests
 
-The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4) of this section.
+The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4).
 
 (Pub. L. 94–163, title I, §108, as added Pub. L. 106–469, title VI, §605(a), Nov. 9, 2000, 114 Stat. 2042.)
 

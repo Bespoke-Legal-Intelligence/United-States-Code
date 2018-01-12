@@ -8,7 +8,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 &emsp;(2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300l <sup>1</sup> of this title, and
 
-&emsp;(3) to provide education and training, which may include additional training to enabletreatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
+&emsp;(3) to provide education and training, which may include additional training to enable treatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
 
 > for the prevention and treatment of alcohol abuse and alcoholism and for the rehabilitation of alcohol abusers and alcoholics.
 
@@ -44,7 +44,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (ii) For purposes of this subparagraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 
-(6) Each applicant, upon filing its application with the Secretary for a grant or contract toprovide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
+(6) Each applicant, upon filing its application with the Secretary for a grant or contract to provide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
 
 (7) Nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, or rehabilitation of drug abuse as well as alcohol abuse and alcoholism.
 

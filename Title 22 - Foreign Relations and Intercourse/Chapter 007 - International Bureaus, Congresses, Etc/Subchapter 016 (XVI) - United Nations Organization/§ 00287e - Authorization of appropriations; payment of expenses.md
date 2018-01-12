@@ -26,7 +26,7 @@ In text, "section 6101 of title 41" substituted for "section 3709 of the Revised
 
 <b>1988</b>—Pub. L. 100–459 inserted "serving abroad" after "use of the representatives provided for in section 287 of this title", inserted "abroad" after "such living quarters" and struck out at end "Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose."
 
-<b>1982</b>—Pub. L. 97–241 substituted "use of the representatives provided for in section 287 of this title and of their appropriate staffs" for "use of the representativeof the United States to the United Nations referred to in subsection (a) of section 287 of this title" and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
+<b>1982</b>—Pub. L. 97–241 substituted "use of the representatives provided for in section 287 of this title and of their appropriate staffs" for "use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title" and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
 <b>1980</b>—Pub. L. 96–465 substituted reference to section 4085 of this title for reference to section 1131 of this title.
 
@@ -104,7 +104,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(4) On May 5, 1987, the Secretary-General reported to the Department of State that he was considering granting 156 exceptions to the hiring freeze.
 
-&emsp;"(5) Of these 156 probable exceptions, 104 would be Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—of 298 Soviet andSoviet-bloc nationals currently employed in the United Nations Secretariat—who would be replaced over the next 18 months.
+&emsp;"(5) Of these 156 probable exceptions, 104 would be Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—of 298 Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—who would be replaced over the next 18 months.
 
 &emsp;"(6) According to a report from the Select Committee on Intelligence of the Senate on 'Soviet Presence in the United Nations Secretariat' (Senate Print 99–52, May 1985), approximately one-fourth of the Soviets in the United Nations Secretariat are intelligence officers, many more are co-opted by the Soviet intelligence agencies, and all Soviets in the United Nations Secretariat must respond to KGB requests for assistance.
 
@@ -122,7 +122,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(13) Through the abuse of short, fixed-term contracts, the Soviet Union has maintained undue influence and control over major offices of the United Nations Secretariat, thereby effectively using the United Nations Secretariat in the conduct of its foreign relations, in clear violation of Articles 100 and 101 of the United Nations Charter.
 
-&emsp;"(14) The Secretary-General's proposed exceptions to the hiring freeze (as described in paragraphs (1) through (5)) would continue the gross violations of Articles 100 and 101 of the United Nations Charter described in paragraph (13).
+&emsp;"(14) The Secretary-General's proposed exceptions to the hiring freeze (as described in paragraphs (1)through (5)) would continue the gross violations of Articles 100 and 101 of the United Nations Charter described in paragraph (13).
 
 &emsp;"(15) The Secretary-General's proposed exceptions to such hiring freeze would be clearly inconsistent with the terms of the United Nation's self-imposed reform program.
 
@@ -202,7 +202,7 @@ Pub. L. 99–93, title I, §151, Aug. 16, 1985, 99 Stat. 428, provided that:
 
 "(a)
 
-Initial Report.—Not later than 90 days after the date of enactment of this Act \[Aug. 16, 1985\], the Secretary of State shall report to the Congress on whether, and the extent to which, international civil servants employed by the United Nations, including those seconded to the United Nations, are required to return all or part of their salaries to their respective governments. The Secretary shall also include in this report a description of the steps taken by the Department of State and by the United States Representative to the United Nations to correct this practice.
+Initial Report.—Not later than 90 days after the date of enactment of this Act \[Aug. 16, 1985\], the Secretary of State shall report to the Congress on whether, and the extent to which, international civil servantsemployed by the United Nations, including those seconded to the United Nations, are required to return all or part of their salaries to their respective governments. The Secretary shall also include in this report a description of the steps taken by the Department of State and by the United States Representative to the United Nations to correct this practice.
 
 "(b)
 
@@ -268,7 +268,7 @@ In general.—Except as provided in subparagraph (B), funds authorized to be app
 
 &emsp;"(B)
 
-Reduction in united states share of assessed contributions.—Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions for each United Nations peacekeeping operation during the following periods is authorized to be as follows:
+Reduction in united states share of assessed contributions.—Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions foreach United Nations peacekeeping operation during the following periods is authorized to be as follows:
 
 &emsp;&emsp;"(i) For assessments made during calendar year 2001, 28.15 percent.
 

@@ -72,7 +72,7 @@ Subsec. (b)(8). Pub. L. 100–399, §401(m)(4), struck out in introductory provi
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

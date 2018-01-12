@@ -2,7 +2,7 @@
 
 #### (a) Proposed regulations
 
-(1) The Administrator shall publish proposed regulations, meeting the requirements of subsection (c) of this section, for each product—
+(1) The Administrator shall publish proposed regulations, meeting the requirements of subsection (c), for each product—
 
 &emsp;(A) which is identified (or is part of a class identified) in any report published under section 4904(b)(1) of this title as a major source of noise,
 
@@ -22,7 +22,7 @@
 
 (B) In the case of any product described in paragraph (1) which is identified (or is part of a class identified) as a major source of noise in a report published under section 4904(b)(1) of this title after publication of the initial proposed regulations under subparagraph (A) of this paragraph, regulations under paragraph (1) for such product shall be proposed and published by the Administrator not later than eighteen months after such report is published.
 
-(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
+(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c), for such product—
 
 &emsp;(A) not earlier than six months after publication of such proposed regulations, and
 
@@ -34,11 +34,11 @@
 
 #### (b) Authority to publish regulations not otherwise required
 
-The Administrator may publish proposed regulations, meeting the requirements of subsection (c) of this section, for any product for which he is not required by subsection (a) of this section to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c) of this section, for such product.
+The Administrator may publish proposed regulations, meeting the requirements of subsection (c), for any product for which he is not required by subsection (a) to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c), for such product.
 
 #### (c) Contents of regulations; appropriate consideration of other standards; participation by interested persons; revision
 
-(1) Any regulation prescribed under subsection (a) or (b) of this section (and any revision thereof) respecting a product shall include a noise emission standard which shall set limits on noise emissions from such product and shall be a standard which in the Administrator's judgment, based on criteria published under section 4904 of this title, is requisite to protect the public health and welfare, taking into account the magnitude and conditions of use of such product (alone or in combination with other noise sources), the degree of noise reduction achievable through the application of the best available technology, and the cost of compliance. In establishing such a standard for any product, the Administrator shall give appropriate consideration to standards under other laws designed to safeguard the health and welfare of persons, including any standards under chapter 301 of title 49, the Clean Air Act \[42 U.S.C. 7401 et seq.\], and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\]. Any such noise emission standards shall be a performance standard. In addition, any regulation under subsection (a) or (b) of this section (and any revision thereof) may contain testing procedures necessary to assure compliance with the emission standard in such regulation, and may contain provisions respecting instructions of the manufacturer for the maintenance, use, or repair of the product.
+(1) Any regulation prescribed under subsection (a) or (b) of this section (and any revision thereof) respecting a product shall include a noise emission standard which shall set limits on noise emissions from such product and shall be a standard which in the Administrator's judgment, based on criteria published under section 4904 of this title, is requisite to protect the public health and welfare, taking into account the magnitude and conditions of use of such product (alone or in combination with other noise sources), the degree of noise reduction achievable through the application of the best available technology, and the cost of compliance. In establishing such a standard for any product, the Administrator shall give appropriate consideration to standards under other laws designed to safeguard the health and welfare of persons, including any standards under chapter 301 of title 49, the Clean Air Act \[42 U.S.C. 7401 et seq.\], and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\]. Any such noise emission standards shall be a performance standard. In addition, any regulation under subsection (a) or (b) (and any revision thereof) may contain testing procedures necessary to assure compliance with the emission standard in such regulation, and may contain provisions respecting instructions of the manufacturer for the maintenance, use, or repair of the product.
 
 (2) After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of section 553(c) of title 5.
 
@@ -56,7 +56,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (1) No State or political subdivision thereof may adopt or enforce—
 
-&emsp;(A) with respect to any new product for which a regulation has been prescribed by theAdministrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
+&emsp;(A) with respect to any new product for which a regulation has been prescribed by the Administrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
 
 &emsp;(B) with respect to any component incorporated into such new product by the manufacturer of such product, any law or regulation setting a limit on noise emissions from such component when so incorporated.
 

@@ -64,7 +64,7 @@ Goals.—Amtrak shall—
 
 (d)
 
-Minimizing Government Subsidies.—To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of thePassenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies.
+Minimizing Government Subsidies.—To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of the Passenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578; Pub. L. 110–432, div. B, title II, §§201(e)(1), 218(a)(1), Oct. 16, 2008, 122 Stat. 4910, 4930; Pub. L. 114–94, div. A, title XI, §11316(l), Dec. 4, 2015, 129 Stat. 1678.)
 
@@ -218,7 +218,7 @@ Principal on debt service.—Unless the Secretary of the Treasury makes sufficie
 
 &emsp;"(2)
 
-Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasury under subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized for Amtrak shall be reduced accordingly.
+Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasuryunder subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized for Amtrak shall be reduced accordingly.
 
 "(f)
 
@@ -258,7 +258,7 @@ Arbitration.—If the development of the metrics and standards is not completed 
 
 "(a)
 
-Methodology Development.—Not later than 180 days after the date of enactment of the Passenger RailReform and Investment Act of 2015 \[Dec. 4, 2015\], Amtrak shall obtain the services of an independent entity to develop and recommend objective methodologies for Amtrak to use in determining what intercity rail passenger transportation routes and services it should provide, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes.
+Methodology Development.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015 \[Dec. 4, 2015\], Amtrak shall obtain the services of an independent entity to develop and recommend objective methodologies for Amtrak to use in determining what intercity rail passenger transportation routes and services it should provide, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes.
 
 "(b)
 
@@ -346,7 +346,7 @@ Funding.—In addition to the authorizations provided in this section, capital p
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary \[of Transportation\] $5,000,000 for fiscal year 2010, to remain available until expended, for grants to Amtrak and States participating in the Next Generation Corridor Train Equipment Pool Committee established under this section for the purpose of designing, developing specifications for, and initiating the procurement of aninitial order of 1 or more types of standardized next-generation corridor train equipment."
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary \[of Transportation\] $5,000,000 for fiscal year 2010, to remain available until expended, for grants to Amtrak and States participating in the Next Generation Corridor Train Equipment Pool Committee established under this section for the purpose of designing, developing specifications for, and initiating the procurement of an initial order of 1 or more types of standardized next-generation corridor train equipment."
 
 #### Fair Competitive Bidding for State-Supported Intercity Rail Service
 

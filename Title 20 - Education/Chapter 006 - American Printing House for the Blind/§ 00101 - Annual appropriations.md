@@ -38,7 +38,7 @@ Pub. L. 100–630, title IV, §401, Nov. 7, 1988, 102 Stat. 3316, provided that:
 
 #### Transfer of Functions
 
-"Secretary of Education" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
+"Secretary of Education" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88,which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

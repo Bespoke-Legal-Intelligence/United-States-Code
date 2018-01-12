@@ -74,7 +74,7 @@ The Oversight Board shall ensure the purposes of this chapter are met, including
 
 &emsp;&emsp;(B) except as provided in subparagraph (C), if an applicable Fiscal Plan has not yet been certified, in a manner that provides, in the Oversight Board's sole discretion, for a sustainable level of debt for such covered territory or covered territorial instrumentality; or
 
-&emsp;&emsp;(C) notwithstanding subparagraphs (A) and (B), if an applicable Fiscal Plan has not yet been certified and the voluntary agreement is limited solely to an extension of applicable principal maturities and interest on Bonds issued by such covered territory or covered territorial instrumentality, as applicable, for a period of up to one year duringwhich time no interest will be paid on the Bond Claims affected by the voluntary agreement.
+&emsp;&emsp;(C) notwithstanding subparagraphs (A) and (B), if an applicable Fiscal Plan has not yet been certified and the voluntary agreement is limited solely to an extension of applicable principal maturities and interest on Bonds issued by such covered territory or covered territorial instrumentality, as applicable, for a period of up to one year during which time no interest will be paid on the Bond Claims affected by the voluntary agreement.
 
 #### (2) Effectiveness
 
@@ -104,7 +104,7 @@ The Oversight Board shall ensure the purposes of this chapter are met, including
 
 #### (3) Condition for plans of adjustment
 
-&emsp;The Oversight Board may certify a plan of adjustment only if it determines, in its sole discretion, that it is consistent with the applicable certified Fiscal Plan.
+&emsp;The Oversight Board may certify a plan of adjustment only if it determines, in its solediscretion, that it is consistent with the applicable certified Fiscal Plan.
 
 #### (k) Civil actions to enforce powers
 

@@ -94,7 +94,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 &emsp;(D) each country shall have the right to place observers on board vessels of the other country and to board and inspect such vessels.
 
-(2) Vessels operating under a fishery agreement negotiated and concluded pursuant to paragraph (1) shall be subject to regulations and permit requirements of the country in whose waters the fisheries are conducted only to the extent such regulations and permit requirements are specified in that agreement.
+(2) Vessels operating under a fishery agreement negotiated and concluded pursuant to paragraph (1) shall be subject to regulations and permit requirements of the country in whose waters the fisheries are conducted only to theextent such regulations and permit requirements are specified in that agreement.
 
 (3) The Secretary of Commerce may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the provisions of any fishery agreement negotiated and concluded pursuant to paragraph (1).
 
@@ -182,7 +182,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–47
 
 &emsp;"(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization's Committee on Fisheries, and appropriate regional fishery management bodies;
 
-&emsp;"(4) initiate the amendment of any existing international treaty for the protection and conservationof species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
+&emsp;"(4) initiate the amendment of any existing international treaty for the protection and conservation of species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
 
 &emsp;"(5) urge other governments involved in fishing for or importation of shark or shark products to fulfill their obligations to collect biological data, such as stock abundance and by-catch levels, as well as trade data, on shark species as called for in the 1995 Resolution on Cooperation with FAO with Regard to study on the Status of Sharks and By-Catch of Shark Species; and
 

@@ -30,7 +30,7 @@
 
 (c) Each agency shall include in its affirmative action plan for the hiring, placement, and advancement of handicapped individuals in such agency as required by section 501(b) of the Rehabilitation Act of 1973 (29 U.S.C. 791(b)), a separate specification of plans (in accordance with regulations which the Office of Personnel Management shall prescribe in consultation with the Secretary, the Secretary of Labor, and the Secretary of Health and Human Services, consistent with the purposes, provisions, and priorities of such Act) to promote and carry out such affirmative action with respect to disabled veterans in order to achieve the purpose of this section.
 
-(d) The Office of Personnel Management shall be responsible for the review and evaluation of the implementation of this section and the activities of each agency to carry out the purpose and provisions of this section. The Office shall periodically obtain (on at least an annual basis) information on the implementation of this section by each agency and on the activities of each agency to carry out the purpose and provisions of this section. The information obtained shall include specification of the use and extent of appointments made by each agency under subsection (b) of this section and the results of the plans required under subsection (c) of this section.
+(d) The Office of Personnel Management shall be responsible for the review and evaluation of the implementation of this section and the activities of each agency to carry out the purpose and provisions of this section. The Office shallperiodically obtain (on at least an annual basis) information on the implementation of this section by each agency and on the activities of each agency to carry out the purpose and provisions of this section. The information obtained shall include specification of the use and extent of appointments made by each agency under subsection (b) of this section and the results of the plans required under subsection (c) of this section.
 
 (e)(1) The Office of Personnel Management shall submit to the Congress annually a report on activities carried out under this section. Each such report shall include the following information with respect to each agency:
 
@@ -112,7 +112,7 @@ Subsec. (b)(1)(E), (F). Pub. L. 102–16, §9(b)(1)(C), (D), redesignated cl. (D
 
 "(F) in the case of a veteran who is not a disabled veteran, the veteran may not have completed more than 16 years of education at the time of the veteran's appointment."
 
-Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted "is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred oraggravated in line of duty." for "has a service-connected disability".
+Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted "is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty." for "has a service-connected disability".
 
 Subsec. (b)(2)(B). Pub. L. 102–16, §9(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "a veteran who served on active duty after the Vietnam era."
 

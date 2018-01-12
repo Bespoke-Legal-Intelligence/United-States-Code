@@ -66,5 +66,5 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 &emsp;"(5)
 
-Signature project or program.—The term 'signature project or program' means any project or program identified by the Secretary as one that will help prepare the national parks for another century of conservation, preservation, and visitor enjoyment."
+Signature project or program.—The term 'signature project or program' means any project orprogram identified by the Secretary as one that will help prepare the national parks for another century of conservation, preservation, and visitor enjoyment."
 

@@ -16,15 +16,15 @@ The Secretary is authorized to take the following actions:
 
 #### (1) Tenant-based assistance
 
-&emsp;To provide tenant-based rental assistance to eligible persons with disabilities, in accordance with subsection (d)(4) of this section.
+&emsp;To provide tenant-based rental assistance to eligible persons with disabilities, in accordance with subsection (d)(4).
 
 #### (2) Capital advances
 
 &emsp;To provide assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which shall be provided as—
 
-&emsp;&emsp;(A) capital advances in accordance with subsection (d)(1) of this section, and
+&emsp;&emsp;(A) capital advances in accordance with subsection (d)(1), and
 
-&emsp;&emsp;(B) contracts for project rental assistance in accordance with subsection (d)(2) of this section;
+&emsp;&emsp;(B) contracts for project rental assistance in accordance with subsection (d)(2);
 
 > &emsp;assistance under this paragraph may be used to finance the acquisition, acquisition and moderate rehabilitation, construction, reconstruction, or moderate or substantial rehabilitation of housing, including the acquisition from the Resolution Trust Corporation, to be used as supportive housing for persons with disabilities and may include real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for persons with disabilities.
 
@@ -32,7 +32,7 @@ The Secretary is authorized to take the following actions:
 
 #### (A) In general
 
-&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
+&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shallbe made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
 
 #### (B) Contract terms
 
@@ -112,13 +112,13 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (1) Capital advances
 
-&emsp;A capital advance provided pursuant to subsection (b)(1) shall bear no interest and its repayment shall not be required so long as the housing remains available for very-low-income persons with disabilities in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h) of this section.
+&emsp;A capital advance provided pursuant to subsection (b)(1) shall bear no interest and its repayment shall not be required so long as the housing remains available for very-low-income persons with disabilities in accordance with this section. Such advance shall be in an amount calculated in accordance with the development cost limitation established in subsection (h).
 
 #### (2) Project rental assistance
 
 #### (A) Initial project rental assistance contract
 
-&emsp;&emsp;Contracts for project rental assistance shall comply with subsection (e)(2) and shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income persons with disabilities that is not met from project income. The amount provided under the contract for each year covered by the contract for any project shall not exceed the sum of the initial annual project rentals for all units and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the amount provided under the contract for each year covered by the contract if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable projectcosts. In the case of an intermediate care facility which is the residence of persons assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], project income under this paragraph shall include the same amount as if such person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
+&emsp;&emsp;Contracts for project rental assistance shall comply with subsection (e)(2) and shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income persons with disabilities that is not met from project income. The amount provided under the contract for each year covered by the contract for any project shall not exceed the sum of the initial annual project rentals for all units and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the amount provided under the contract for each year covered by the contract if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs. In the case of an intermediate care facility which is the residence of persons assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], project income under this paragraph shall include the same amount as if such person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 #### (B) Renewal of and increases in contract amounts
 
@@ -132,7 +132,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (3) Rent contribution
 
-&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under subsection (b)(2) of this section the higher of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated; except that the gross income of a person occupying an intermediate care facility assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall be the same amount as if the person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
+&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under subsection (b)(2) the higher of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated; except that the gross income of a person occupying an intermediate care facility assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall be the same amount as if the person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 #### (4) Tenant-based rental assistance
 
@@ -162,7 +162,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (2) Contract terms
 
-&emsp;The initial term of a contract entered into under subsection (d)(2) of this section shall be 240 months, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of title 26 or with any tax-exempt housing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months. The Secretary shall, to the extent approved in appropriation Acts, upon expiration of a contract (or any renewed contract), renew such contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+&emsp;The initial term of a contract entered into under subsection (d)(2) shall be 240 months, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of title 26 or with any tax-exempt housing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months. The Secretary shall, to the extent approved in appropriation Acts, upon expiration of a contract (or any renewed contract), renew such contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
 
 #### (3) Limitation on use of funds
 
@@ -180,7 +180,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (f) Applications
 
-Funds made available under subsection (b)(2) of this section shall be allocated by the Secretary among approvable applications submitted by private nonprofit organizations. Applications for assistance under subsection (b)(2) of this section shall be submitted in such form and in accordance with such procedures as the Secretary shall establish. Such applications shall contain—
+Funds made available under subsection (b)(2) shall be allocated by the Secretary among approvable applications submitted by private nonprofit organizations. Applications for assistance under subsection (b)(2) shall be submitted in such form and in accordance with such procedures as the Secretary shall establish. Such applications shall contain—
 
 &emsp;(1) a description of the proposed housing;
 
@@ -214,7 +214,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (1) Selection criteria
 
-&emsp;The Secretary shall establish selection criteria for assistance under subsection (b)(2) of this section, which shall include—
+&emsp;The Secretary shall establish selection criteria for assistance under subsection (b)(2), which shall include—
 
 &emsp;&emsp;(A) the ability of the applicant to develop and operate the proposed housing;
 
@@ -230,7 +230,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 &emsp;&emsp;(G) the extent to which the applicant has control of the site of the proposed housing; and
 
-&emsp;&emsp;(H) such other factors as the Secretary determines to be appropriate to ensure that funds made available under subsection (b)(2) of this section are used effectively.
+&emsp;&emsp;(H) such other factors as the Secretary determines to be appropriate to ensure that funds made available under subsection (b)(2) are used effectively.
 
 #### (2) Delegated processing
 
@@ -288,7 +288,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) not less than once annually to reflect changes inthe general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
@@ -360,7 +360,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (C) Voluntary participation in services
 
-&emsp;&emsp;A supportive service plan for housing assisted under this section shall permit each resident to take responsibility for choosing and acquiring their own services, to receive any supportive services made available directly or indirectly by the owner of such housing, or to not receive any supportive services.
+&emsp;&emsp;A supportive service plan for housing assisted under this section shall permit eachresident to take responsibility for choosing and acquiring their own services, to receive any supportive services made available directly or indirectly by the owner of such housing, or to not receive any supportive services.
 
 #### (j) Miscellaneous provisions
 
@@ -374,7 +374,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Site control
 
-&emsp;An applicant may obtain ownership or control of a suitable site different from the site specified in the initial application. If an applicant fails to obtain ownership or control of the site within 1 year after notification of anaward for assistance, the assistance shall be recaptured and reallocated.
+&emsp;An applicant may obtain ownership or control of a suitable site different from the site specified in the initial application. If an applicant fails to obtain ownership or control of the site within 1 year after notification of an award for assistance, the assistance shall be recaptured and reallocated.
 
 #### (4) Notice of appeal
 
@@ -408,7 +408,7 @@ As used in this section—
 
 &emsp;(1) The term "group home" means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not more than 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
 
-&emsp;(2) The term "person with disabilities" means a household composed of one or more persons who is 18 years of age or older and less than 62 years of age, and who has a disability. A person shall be considered to have a disability if such person is determined, pursuant to regulations issued by the Secretary to have a physical, mental, or emotional impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his or her ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions. A person shall also be considered to have a disability if such person has a developmental disability as defined in section 15002 of this title. The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, the eligibility of families and persons for admission to and occupancy of housing assisted under this section. Notwithstanding the preceding provisions of this paragraph, the term "person with disabilities" includes two or more persons with disabilities living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be important to their care or well-being, and the surviving member or members of any household described in the first sentence of this paragraph who were living, in a unit assisted under this section, with the deceased member of the household at the time of his or her death.
+&emsp;(2) The term "person with disabilities" means a household composed of one or more persons who is 18 years of age or older and less than 62 years of age, and who has a disability. A person shall be considered to have a disability if such person is determined, pursuant to regulations issued by the Secretary to have a physical, mental, or emotional impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his or her ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions. A person shall also be considered to have a disability if such person has a developmental disability as defined in section 15002 of this title. The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, the eligibility of families and persons for admission to and occupancy of housing assisted under this section. Notwithstanding the preceding provisions of this paragraph, the term "person with disabilities" includes two or more persons with disabilities living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be important to their care or well-being, and the surviving member or members of any household described in the first sentence of this paragraph who were living, ina unit assisted under this section, with the deceased member of the household at the time of his or her death.
 
 &emsp;(3) The term "supportive housing for persons with disabilities" means dwelling units that—
 
@@ -446,11 +446,11 @@ As used in this section—
 
 #### (2) Capital advances
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (d)(1) of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>4</sup> shall constitute a revolving fund to be used by the Secretary in carrying out this section.
+&emsp;Of any amounts made available for assistance under subsection (b), such sums as may be necessary shall be available for funding capital advances in accordance with subsection (d)(1). Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>4</sup> shall constitute a revolving fund to be used by the Secretary in carrying out this section.
 
 #### (3) Project rental assistance
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (d)(2) of this section.
+&emsp;Of any amounts made available for assistance under subsection (b), such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (d)(2).
 
 #### (m) Authorization of appropriations
 
@@ -470,7 +470,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 &emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d),603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
 
 #### References in Text
 
@@ -484,7 +484,7 @@ Section 1441a of title 12, referred to in subsec. (h)(2), was repealed by Pub. L
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (h)(6)(A), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. TitleVI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -524,7 +524,7 @@ Subsec. (d)(4). Pub. L. 111–374, §2(a), amended par. (4) generally. Prior to 
 
 Subsec. (e). Pub. L. 111–374, §3(b)(1)(A), substituted "Program requirements" for "Term of commitment" in heading.
 
-Subsec. (e)(1). Pub. L. 111–374, §3(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "All units in housing assisted under subsection (b)(2) of this section shall be made available for occupancy by very low-income persons with disabilities for not less than 40 years."
+Subsec. (e)(1). Pub. L. 111–374, §3(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "All units in housing assisted under subsection (b)(2) shall be made available for occupancy by very low-income persons with disabilities for not less than 40 years."
 
 Subsec. (e)(2). Pub. L. 111–374, §3(a)(2), inserted ", except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of title 26 or with any tax-exempt housing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months" after "240 months" and substituted "upon expiration of a contract (or any renewed contract), renew such contract" for "extend any expiring contract".
 
@@ -544,7 +544,7 @@ Subsec. (g). Pub. L. 111–374, §3(c), substituted "Selection criteria and proc
 
 Subsec. (g)(1)(D). Pub. L. 111–374, §5(5)(A), substituted "appropriate supportive services will be made available" for "the necessary supportive services will be provided".
 
-Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design of the housing will accommodate the provision of such services;".
+Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design ofthe housing will accommodate the provision of such services;".
 
 Subsec. (g)(1)(F). Pub. L. 111–374, §3(d), added subpar. (F).
 
@@ -570,7 +570,7 @@ Subsec. (k)(3). Pub. L. 111–374, §5(7)(C), added par. (3) and struck out form
 
 &emsp;"(B) provides supportive services that address the individual health, mental health or other special needs of such persons."
 
-Subsec. (k)(4). Pub. L. 111–374, §3(g)(2), substituted "prescribe)" for "prescribe, subject to the limitation under subsection (h)(6) of this section)" and inserted at end "Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit."
+Subsec. (k)(4). Pub. L. 111–374, §3(g)(2), substituted "prescribe)" for "prescribe, subject to the limitation under subsection (h)(6))" and inserted at end "Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit."
 
 Subsec. (k)(5). Pub. L. 111–374, §5(7)(D), struck out "a project for" before "supportive housing".
 
@@ -578,17 +578,17 @@ Subsec. (k)(6). Pub. L. 111–374, §5(7)(E)(ii), which directed striking out "w
 
 Pub. L. 111–374, §5(7)(E)(i), inserted as concluding provisions the matter directed to be inserted as concluding provisions after section 811(k)(6)(D) of the Housing Act of 1959 by section 841 of Pub. L. 106–569. See 2000 Amendment note below.
 
-Subsec. (l)(1). Pub. L. 111–374, §3(h), amended par. (1) generally. Prior to amendment, text read as follows: "Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.".
+Subsec. (l)(1). Pub. L. 111–374, §3(h), amended par. (1) generally. Prior to amendment, text read as follows: "Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.".
 
 Subsec. (l)(2). Pub. L. 111–374, §5(8)(A), substituted "subsection (d)(1)" for "subsection (c)(1)".
 
 Subsec. (l)(3). Pub. L. 111–374, §5(8)(B), substituted "subsection (d)(2)" for "subsection (c)(2)".
 
-Subsec. (l)(4). Pub. L. 111–374, §3(b)(2), struck out par. (4). Text read as follows: "Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units."
+Subsec. (l)(4). Pub. L. 111–374, §3(b)(2), struck out par. (4). Text read as follows: "Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d), not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units."
 
 Subsec. (m). Pub. L. 111–374, §6, amended subsec. (m) generally, substituting authorization of appropriations for fiscal years 2011 through 2015 for authorization of appropriations for fiscal years 2001, 2002, and 2003.
 
-<b>2000</b>—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan."
+<b>2000</b>—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "Tenant-based rental assistance provided under subsection (b)(1) may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan."
 
 Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions "Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility."
 
@@ -600,11 +600,11 @@ Subsec. (k)(2). Pub. L. 106–402 substituted "as defined in section 15002 of th
 
 Subsec. (k)(6). Pub. L. 106–569, §841, which directed insertion of concluding provisions after section 811(k)(6)(D) of the Housing Act of 1959, could not be executed because there is no section 811 of the Housing Act of 1959.
 
-Subsec. (l)(1). Pub. L. 106–569, §843(2), substituted "subsection (b)(2) of this section" for "subsection (b) of this section" and struck out before period at end ", and the remainder shall be available for tenant-based assistance under subsection (n)".
+Subsec. (l)(1). Pub. L. 106–569, §843(2), substituted "subsection (b)(2)" for "subsection (b)" and struck out before period at end ", and the remainder shall be available for tenant-based assistance under subsection (n)".
 
 Subsec. (m). Pub. L. 106–569, §822, added subsec. (m) and struck out heading and text of former subsec. (m). Text read as follows: "There is authorized to be appropriated for providing assistance under this section $201,000,000 for fiscal year 2000."
 
-<b>1999</b>—Subsec. (k)(4). Pub. L. 106–74, §524(a)(1), inserted ", subject to the limitation under subsection (h)(6) of this section" after "prescribe".
+<b>1999</b>—Subsec. (k)(4). Pub. L. 106–74, §524(a)(1), inserted ", subject to the limitation under subsection (h)(6)" after "prescribe".
 
 Subsec. (l)(4). Pub. L. 106–74, §524(a)(2), added par. (4).
 
@@ -612,21 +612,21 @@ Subsecs. (m), (n). Pub. L. 106–74, §512, added subsec. (m) and redesignated f
 
 <b>1992</b>—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
-Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading "General authority", introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted "assistance under this paragraph" for "Such assistance".
+Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struckout former heading "General authority", introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted "assistance under this paragraph" for "Such assistance".
 
-Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of "subsection (b)(2) of this section" for "this section", was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of "subsection (b)(2)" for "this section", was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
 
-Subsec. (d)(3). Pub. L. 102–550, §623(a)(3)(A), substituted "subsection (b)(2) of this section" for "this section".
+Subsec. (d)(3). Pub. L. 102–550, §623(a)(3)(A), substituted "subsection (b)(2)" for "this section".
 
 Subsec. (d)(4). Pub. L. 102–550, §623(a)(3)(B), added par. (4).
 
-Subsec. (e)(1). Pub. L. 102–550, §623(a)(4), substituted "subsection (b)(2) of this section" for "this section".
+Subsec. (e)(1). Pub. L. 102–550, §623(a)(4), substituted "subsection (b)(2)" for "this section".
 
-Subsec. (f). Pub. L. 102–550, §623(a)(5), substituted "subsection (b)(2) of this section" for "this section" in first and second sentences.
+Subsec. (f). Pub. L. 102–550, §623(a)(5), substituted "subsection (b)(2)" for "this section" in first and second sentences.
 
-Subsec. (g). Pub. L. 102–550, §623(a)(6), which directed the substitution of "subsection (b)(2) of this section" for "this section", was executed by making the substitution in the introductory provisions and in par. (7), to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 102–550, §623(a)(6), which directed the substitution of "subsection (b)(2)" for "this section", was executed by making the substitution in the introductory provisions and in par. (7), to reflect the probable intent of Congress.
 
-Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted "with 12 or more units assisted under this section" for "assisted under this section and designed for dwelling use by 12 or more persons with disabilities", inserted "commonly known as" before "the Davis-Bacon Act", struck out before period at end "; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes oflowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction", and added subpar. (B).
+Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted "with 12 or more units assisted under this section" for "assisted under this section and designed for dwelling use by 12 or more persons with disabilities", inserted "commonly known as" before "the Davis-Bacon Act", struck out before period at end "; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes of lowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction", and added subpar. (B).
 
 Subsec. (k)(6). Pub. L. 102–550, §603, struck out "incorporated private" before "institution" in introductory provisions, added subpar. (A), and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 

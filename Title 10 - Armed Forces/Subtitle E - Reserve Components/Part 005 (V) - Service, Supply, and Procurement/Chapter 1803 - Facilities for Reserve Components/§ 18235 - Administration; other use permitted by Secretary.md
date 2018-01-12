@@ -14,7 +14,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Pub. L. 103–337,div. A, title XVI, §1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 

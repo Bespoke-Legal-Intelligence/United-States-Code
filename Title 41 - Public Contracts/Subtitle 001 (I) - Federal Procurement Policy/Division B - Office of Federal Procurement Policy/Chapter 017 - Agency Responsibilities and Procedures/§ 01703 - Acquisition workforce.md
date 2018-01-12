@@ -82,7 +82,7 @@ Critical duties and tasks.—For each career path, the head of each executive ag
 
 &emsp;&emsp;(C)
 
-Mandatory training and education.—For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency also shall encourage employees to maintain the currency of their acquisition knowledge andgenerally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
+Mandatory training and education.—For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency also shall encourage employees to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
 
 &emsp;(2)
 
@@ -172,7 +172,7 @@ Transfer and use of fees collected from department of defense.—The Administrat
 
 &emsp;(6)
 
-Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt <sup>1</sup> Policy, shall ensure thatamounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
+Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt <sup>1</sup> Policy, shall ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
 
 &emsp;(7)
 

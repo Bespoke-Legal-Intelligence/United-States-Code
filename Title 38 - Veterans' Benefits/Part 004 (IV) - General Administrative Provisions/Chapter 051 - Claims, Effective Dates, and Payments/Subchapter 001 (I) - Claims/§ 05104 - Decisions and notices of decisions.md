@@ -2,9 +2,27 @@
 
 (a) In the case of a decision by the Secretary under section 511 of this title affecting the provision of benefits to a claimant, the Secretary shall, on a timely basis, provide to the claimant (and to the claimant's representative) notice of such decision. The notice shall include an explanation of the procedure for obtaining review of the decision.
 
-(b) In any case where the Secretary denies a benefit sought, the notice required by subsection (a) shall also include (1) a statement of the reasons for the decision, and (2) a summary of the evidence considered by the Secretary.
+(b) Each notice provided under subsection (a) shall also include all of the following:
 
-(Added Pub. L. 101–237, title I, §115(a)(1), Dec. 18, 1989, 103 Stat. 2065, §3004; renumbered §5104, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, §1201(d)(15), Nov. 2, 1994, 108 Stat. 4684.)
+&emsp;(1) Identification of the issues adjudicated.
+
+&emsp;(2) A summary of the evidence considered by the Secretary.
+
+&emsp;(3) A summary of the applicable laws and regulations.
+
+&emsp;(4) Identification of findings favorable to the claimant.
+
+&emsp;(5) In the case of a denial, identification of elements not satisfied leading to the denial.
+
+&emsp;(6) An explanation of how to obtain or access evidence used in making the decision.
+
+&emsp;(7) If applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.
+
+(Added Pub. L. 101–237, title I, §115(a)(1), Dec. 18, 1989, 103 Stat. 2065, §3004; renumbered §5104, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, §1201(d)(15), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 115–55, §2(e), Aug. 23, 2017, 131 Stat. 1106.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2(e) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under this section on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -12,11 +30,17 @@ Prior section 5104 was renumbered section 8304 of this title.
 
 #### Amendments
 
+<b>2017</b>—Subsec. (b). Pub. L. 115–55 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In any case where the Secretary denies a benefit sought, the notice required by subsection (a) shall also include (1) a statement of the reasons for the decision, and (2) a summary of the evidence considered by the Secretary."
+
 <b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted "section 511" for "section 211(a)".
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 3004 of this title as this section.
 
 Pub. L. 102–54 amended section as in effect immediately before enactment of Pub. L. 102–40 by striking out "(1)" after "(a)" and substituting "(b)" for "(2)", "subsection (a)" for "paragraph (1) of this subsection", "(1)" for "(A)", and "(2)" for "(B)".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under this section on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
 
 #### Effective Date
 

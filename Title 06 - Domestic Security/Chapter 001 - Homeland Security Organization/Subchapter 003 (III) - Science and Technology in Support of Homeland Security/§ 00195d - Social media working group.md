@@ -6,7 +6,7 @@ The Secretary shall establish within the Department a social media working group
 
 #### (b) Purpose
 
-In order to enhance the dissemination of information through social media technologies between the Department and appropriate stakeholders and to improve use of social media technologies in support of preparedness, response, and recovery, the Group shall identify, and provide guidance and best practices to the emergency preparedness and response community on,the use of social media technologies before, during, and after a natural disaster or an act of terrorism or other man-made disaster.
+In order to enhance the dissemination of information through social media technologies between the Department and appropriate stakeholders and to improve use of social media technologies in support of preparedness, response, and recovery, the Group shall identify, and provide guidance and best practices to the emergency preparedness and response community on, the use of social media technologies before, during, and after a natural disaster or an act of terrorism or other man-made disaster.
 
 #### (c) Membership
 

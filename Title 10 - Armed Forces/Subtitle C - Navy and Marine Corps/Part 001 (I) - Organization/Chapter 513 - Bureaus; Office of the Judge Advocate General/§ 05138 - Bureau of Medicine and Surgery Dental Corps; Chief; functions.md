@@ -44,7 +44,7 @@ Section 5133 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §502(aa)(1), struck out "not below the grade of rear admiral (lower half)" after "officer of the Dental Corps".
 
-Subsec. (c). Pub. L. 114–328, §502(aa)(2), struck out first sentence which read as follows: "The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps."
+Subsec. (c). Pub. L. 114–328, §502(aa)(2), struck out first sentence which read as follows: "The dental functions of the Bureau of Medicine and Surgery shall bedefined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps."
 
 <b>2006</b>—Pub. L. 109–364, §593(d)(1), substituted "Dental Corps" for "Dental Division" in section catchline.
 

@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State may exempt a family from the application of subparagraph (A) by reason of hardship or if the family includes an individual who has been battered or subjected to extreme cruelty.
+&emsp;&emsp;&emsp;The State may exempt a family from the application of subparagraph (A) by reasonof hardship or if the family includes an individual who has been battered or subjected to extreme cruelty.
 
 #### (ii) Limitation
 
@@ -144,7 +144,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX, or the Food and Nutrition Act of 2008 \[7 U.S.C.2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -160,7 +160,7 @@
 
 #### (B) Exchange of information with law enforcement agencies
 
-&emsp;&emsp;If a State to which a grant is made under section 603 of this title establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing a Federal, State, or local law enforcement officer, upon the request of the officer, with the current address of any recipient if the officer furnishes the agency with the name of the recipient and notifies the agency that—
+&emsp;&emsp;If a State to which a grant is made under section 603 of this title establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing a Federal, State, or local law enforcement officer, upon the request of the officer, with the current addressof any recipient if the officer furnishes the agency with the name of the recipient and notifies the agency that—
 
 &emsp;&emsp;&emsp;(i) the recipient—
 
@@ -192,7 +192,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D and that was so treated as receiving such aid in at least 3 of the 6months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (12) State requirement to prevent unauthorized spending of benefits
 
@@ -298,7 +298,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (A) Income deeming rule
 
-&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that the total amount of the income exceeds the sum of—
+&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that thetotal amount of the income exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) the lesser of—
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (4) "Non-213A alien" defined
 
-&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support orsimilar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
 #### (5) Inapplicability to alien minor sponsored by a parent
 
@@ -360,7 +360,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4004(a), Feb. 22, 2012, 126 Stat. 197.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV,§4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4004(a), Feb. 22, 2012, 126 Stat. 197.)
 
 #### References in Text
 
@@ -440,7 +440,7 @@ Subsec. (g). Pub. L. 105–33, §5581(a), added subsec. (g).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L.110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 

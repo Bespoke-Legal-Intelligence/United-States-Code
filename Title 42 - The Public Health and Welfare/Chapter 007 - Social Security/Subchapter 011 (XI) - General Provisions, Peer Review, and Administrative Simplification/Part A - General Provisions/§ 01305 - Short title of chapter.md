@@ -4,6 +4,14 @@ This chapter may be cited as the "Social Security Act".
 
 (Aug. 14, 1935, ch. 531, title XI, §1105, 49 Stat. 648.)
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–57, §1, Sept. 12, 2017, 131 Stat. 1148, provided that: "This Act \[amending section 1313 of this title\] may be cited as the 'Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act'."
+
+Pub. L. 115–31, div. M, title I, §101, May 5, 2017, 131 Stat. 800, provided that: "This title \[amending sections 603, 612, 613, 618, and 1308 of this title, section 58c of Title 19, Customs Duties, and section 1232 of Title 30, Mineral Lands and Mining, enacting provisions set out as a note under section 1232 of Title 30, and amending provisions set out as a note under section 3805 of Title 19\] may be cited as 'Health Benefits for Miners Act of 2017'."
+
+Pub. L. 115–31, div. M, title II, §201, May 5, 2017, 131 Stat. 804, provided that: "This title \[amending section 1308 of this title\] may be cited as 'Puerto Rico Section 1108(g) Amendment of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–255, div. C, §15000, Dec. 13, 2016, 130 Stat. 1315, provided that: "This division \[see Tables for classification\] may be cited as the 'Increasing Choice, Access, and Quality in Health Care for Americans Act'."
@@ -20,7 +28,7 @@ Pub. L. 114–74, title VIII, §801, Nov. 2, 2015, 129 Stat. 601, provided that:
 
 Pub. L. 114–63, §1, Oct. 7, 2015, 129 Stat. 549, provided that: "This Act \[amending sections 1382a, 1382b, and 1396a of this title, enacting provisions set out as a note under section 1382a of this title, amending provisions set out as notes under this section and section 1382a of this title, and repealing provisions set out as a note under section 1382a of this title\] may be cited as the 'Ensuring Access to Clinical Trials Act of 2015'."
 
-Pub. L. 114–42, §1, Aug. 6, 2015, 129 Stat. 468, provided that: "This Act \[amending section 1395cc of this title\] may be cited as the 'Notice of Observation Treatmentand Implication for Care Eligibility Act' or the 'NOTICE Act'."
+Pub. L. 114–42, §1, Aug. 6, 2015, 129 Stat. 468, provided that: "This Act \[amending section 1395cc of this title\] may be cited as the 'Notice of Observation Treatment and Implication for Care Eligibility Act' or the 'NOTICE Act'."
 
 Pub. L. 114–40, §1, July 30, 2015, 129 Stat. 441, provided that: "This Act \[amending sections 1395m and 1395x of this title and enacting provisions set out as a note under section 1395x of this title\] may be cited as the 'Steve Gleason Act of 2015'."
 
@@ -78,7 +86,7 @@ Pub. L. 111–148, title VI, §6701, Mar. 23, 2010, 124 Stat. 782, provided that
 
 Pub. L. 111–142, §1, Feb. 27, 2010, 124 Stat. 38, provided that: "This Act \[amending sections 406 and 1383 of this title, enacting provisions set out as a note under section 406 of this title, and amending provisions set out as notes under sections 406 and 1383 of this title\] may be cited as the 'Social Security Disability Applicants' Access to Professional Representation Act of 2010'."
 
-Pub. L. 111–127, §1, Jan. 27, 2010, 124 Stat. 4, provided that: "This Act \[amending sections 1313, 1396u–3, and1396w–1 of this title\] may be cited as the 'Emergency Aid to American Survivors of the Haiti Earthquake Act'."
+Pub. L. 111–127, §1, Jan. 27, 2010, 124 Stat. 4, provided that: "This Act \[amending sections 1313, 1396u–3, and 1396w–1 of this title\] may be cited as the 'Emergency Aid to American Survivors of the Haiti Earthquake Act'."
 
 #### Short Title of 2009 Amendment
 
@@ -94,7 +102,7 @@ Pub. L. 110–379, §1, Oct. 8, 2008, 122 Stat. 4075, provided that: "This Act \
 
 Pub. L. 110–351, §1, Oct. 7, 2008, 122 Stat. 3949, provided that: "This Act \[enacting sections 627 and 679c of this title, amending sections 622, 625, 653, 671 to 673, 673b, and 674 to 677 of this title, sections 24 and 152 of Title 26, Internal Revenue Code, and section 323 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 671, 672, and 674 of this title and section 24 of Title 26\] may be cited as the 'Fostering Connections to Success and Increasing Adoptions Act of 2008'."
 
-Pub. L. 110–275, §1(a), July 15, 2008, 122 Stat. 2494, provided that: "This Act \[enacting sections 280g–6, 1395b–10, 1395ss–1, and 1395aaa of this title, amending sections 254c–2, 254c–3, 603, 674, 1316, 1320b–14, 1395i–4, 1395k to 1395n, 1395u, 1395w–3, 1395w–4, 1395w–21 to 1395w–23, 1395w–27 to 1395w–28, 1395w–102, 1395w–104, 1395w–112 to 1395w–114, 1395x, 1395y, 1395aa to 1395cc, 1395kk, 1395ll to 1395nn, 1395rr, 1395ss, 1395ww, 1395yy, 1395eee, 1395iii, 1396a, 1396d, 1396p, 1396r–4, 1396u–3, and 1396u–5 of this title and section 3716 of Title 31, Money and Finance, enacting provisions set out as notes under sections 674, 1305, 1316, 1320b–14, 1395b–3, 1395b–4, 1395i–4, 1395k, 1395l, 1395m, 1395w–4, 1395w–21, 1395w–22, 1395w–27, 1395w–28, 1395w–102, 1395w–113, 1395w–114, 1395y, 1395bb, 1395cc, 1395rr, 1395ss, 1396b, 1396d, 1396p, and 1396r–8 of this title and section 3716 of Title 31, amending provisions set out as notes under sections 254c–2, 1395b–1, 1395w–3, 1395w–4, 1395ww, and 1396b, and repealing provisions set out as a note under section 1395rr of this title\] may be cited as the 'Medicare Improvements for Patients and Providers Act of 2008'."
+Pub. L. 110–275, §1(a), July 15, 2008, 122 Stat. 2494, provided that: "This Act \[enacting sections 280g–6, 1395b–10, 1395ss–1, and 1395aaa of this title, amending sections 254c–2, 254c–3, 603, 674, 1316, 1320b–14, 1395i–4, 1395k to 1395n, 1395u, 1395w–3, 1395w–4, 1395w–21 to 1395w–23, 1395w–27 to 1395w–28, 1395w–102, 1395w–104, 1395w–112 to 1395w–114, 1395x, 1395y, 1395aa to 1395cc,1395kk, 1395ll to 1395nn, 1395rr, 1395ss, 1395ww, 1395yy, 1395eee, 1395iii, 1396a, 1396d, 1396p, 1396r–4, 1396u–3, and 1396u–5 of this title and section 3716 of Title 31, Money and Finance, enacting provisions set out as notes under sections 674, 1305, 1316, 1320b–14, 1395b–3, 1395b–4, 1395i–4, 1395k, 1395l, 1395m, 1395w–4, 1395w–21, 1395w–22, 1395w–27, 1395w–28, 1395w–102, 1395w–113, 1395w–114, 1395y, 1395bb, 1395cc, 1395rr, 1395ss, 1396b, 1396d, 1396p, and 1396r–8 of this title and section 3716 of Title 31, amending provisions set out as notes under sections 254c–2, 1395b–1, 1395w–3, 1395w–4, 1395ww, and 1396b, and repealing provisions set out as a note under section 1395rr of this title\] may be cited as the 'Medicare Improvements for Patients and Providers Act of 2008'."
 
 #### Short Title of 2007 Amendment
 
@@ -122,7 +130,7 @@ Pub. L. 109–113, §1, Nov. 22, 2005, 119 Stat. 2371, provided that: "This Act 
 
 Pub. L. 109–91, §1, Oct. 20, 2005, 119 Stat. 2091, provided that: "This Act \[amending sections 1103, 1395w–102, 1396a, 1396b, 1396r–8, 1396u–3, and 1396u–5 of this title and enacting provisions set out as notes under sections 1103, 1395w–102, 1396a, and 1396b of this title\] may be cited as the 'QI, TMA, and Abstinence Programs Extension and Hurricane Katrina Unemployment Relief Act of 2005'."
 
-Pub. L. 109–68, §1, Sept. 21, 2005, 119 Stat. 2003, provided that: "This Act \[amending sections 603 and 609 ofthis title\] may be cited as the 'TANF Emergency Response and Recovery Act of 2005'."
+Pub. L. 109–68, §1, Sept. 21, 2005, 119 Stat. 2003, provided that: "This Act \[amending sections 603 and 609 of this title\] may be cited as the 'TANF Emergency Response and Recovery Act of 2005'."
 
 Pub. L. 109–19, §1, July 1, 2005, 119 Stat. 344, provided that: "This Act \[amending section 603 of this title\] may be cited as the 'TANF Extension Act of 2005'."
 
@@ -150,7 +158,7 @@ Pub. L. 108–40, §1, June 30, 2003, 117 Stat. 836, provided that: "This Act \[
 
 #### Short Title of 2002 Amendments
 
-Pub. L. 107–133, §1, Jan. 17, 2002, 115 Stat. 2413, provided that: "This Act \[enacting sections 629f to 629i of this title, amending sections 629, 629a, 629c, 629d, 629e, 674, and 677 of this title, and enacting provisions set out as a note under section 677 of this title\] may be cited as the 'Promoting Safe and Stable Families Amendments of 2001'."
+Pub. L. 107–133, §1, Jan. 17, 2002, 115 Stat. 2413, provided that: "This Act \[enacting sections 629f to 629i ofthis title, amending sections 629, 629a, 629c, 629d, 629e, 674, and 677 of this title, and enacting provisions set out as a note under section 677 of this title\] may be cited as the 'Promoting Safe and Stable Families Amendments of 2001'."
 
 Pub. L. 107–121, §1, Jan. 15, 2002, 115 Stat. 2384, provided that: "This Act \[amending sections 1396a and 1396n of this title and enacting provisions set out as a note under section 1396a of this title\] may be cited as the 'Native American Breast and Cervical Cancer Treatment Technical Amendment Act of 2001'."
 
@@ -206,7 +214,7 @@ Pub. L. 103–296, §1(a), Aug. 15, 1994, 108 Stat. 1464, provided that: "This A
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–234, §1, Dec. 12, 1991, 105 Stat. 1793, provided that: "This Act \[amending sections 1396a, 1396b, and 1396r–4 of this title and enacting provisions set out as notes under sections 1396a, 1396b, and 1396r–4 of this title\] may be cited as the 'Medicaid Voluntary Contribution and Provider-Specific Tax Amendments of 1991'."
+Pub. L. 102–234, §1, Dec. 12, 1991, 105 Stat. 1793, provided that: "This Act \[amending sections 1396a, 1396b,and 1396r–4 of this title and enacting provisions set out as notes under sections 1396a, 1396b, and 1396r–4 of this title\] may be cited as the 'Medicaid Voluntary Contribution and Provider-Specific Tax Amendments of 1991'."
 
 #### Short Title of 1989 Amendments
 
@@ -228,7 +236,7 @@ Pub. L. 100–93, §1(a), Aug. 18, 1987, 101 Stat. 680, provided that: "This Act
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–643, §1, Nov. 10, 1986, 100 Stat. 3574, provided that: "This Act \[amending sections 1382, 1382c,1382h, 1383, 1383c, 1396a, and 1396s of this title, enacting provisions set out as notes under sections 1382, 1382h, 1383, 1383c, and 1396a of this title, and amending provisions set out as a note under section 1382h of this title\] may be cited as the 'Employment Opportunities for Disabled Americans Act'."
+Pub. L. 99–643, §1, Nov. 10, 1986, 100 Stat. 3574, provided that: "This Act \[amending sections 1382, 1382c, 1382h, 1383, 1383c, 1396a, and 1396s of this title, enacting provisions set out as notes under sections 1382, 1382h, 1383, 1383c, and 1396a of this title, and amending provisions set out as a note under section 1382h of this title\] may be cited as the 'Employment Opportunities for Disabled Americans Act'."
 
 Pub. L. 99–272, title IX, §9000, Apr. 7, 1986, 100 Stat. 151, provided that: "This title \[enacting sections 1320c–13, 1395w–1, 1395dd, 1396r, and 1396s of this title, amending sections 401, 701, 702, 704, 709, 1301, 1320a–2, 1320c–2, 1320c–3, 1395e, 1395f, 1395i, 1395i–2, 1395l, 1395p to 1395r, 1395t, 1395u, 1395x, 1395y, 1395cc, 1395mm, 1395ww, 1395yy, 1396a, 1396b, 1396d, 1396k, 1396n, and 1396o of this title and sections 623, 631, and 1144 of Title 29, Labor, enacting provisions set out as notes under sections 401, 1301, 1320a–2, 1320c–2, 1320c–3, 1320c–13, 1395b, 1395b–1, 1395e, 1395h, 1395i–2, 1395l, 1395p, 1395r, 1395u, 1395x, 1395y, 1395cc, 1395dd, 1395mm, 1395rr, 1395ww, 1395yy, 1396a, 1396b, 1396d, 1396n, and 1396r of this title and section 1144 of Title 29, and amending provisions set out as notes under sections 1395c, 1395h, 1395y, and 1395ww of this title\] may be cited as the 'Medicare and Medicaid Budget Reconciliation Amendments of 1985'."
 
@@ -270,7 +278,7 @@ Pub. L. 96–265, §1, June 9, 1980, 94 Stat. 441, provided: "That this Act \[en
 
 Pub. L. 95–216, §1, Dec. 20, 1977, 91 Stat. 1509, provided in part that Pub. L. 95–216 \[enacting sections 433, 611, 907a, and 909 of this title, amending sections 401, 402, 403, 405, 409, 410, 411 to 413, 415 to 418, 423, 424a, 426, 429, 430, 602, 603, 1315, 1395r, 1395u, and 1395x of this title, section 441i of Title 2, The Congress, sections 1401, 1402, 3101, 3102, 3111, 3121, 3304, 3306, and 6051 of Title 26, Internal Revenue Code, and section 231b of Title 45, Railroads, and enacting provisions set out as notes under sections 402, 403, 409, 411, 413, 418, 424a, 430, 602, 603, 902, 907, 909, 1383, and 1395x of this title, section 441i of Title 2, sections 1401, 1402, 3102, 3111, and 3121 of Title 26, and section 231b of Title 45\] may be cited as the "Social Security Amendments of 1977".
 
-Pub. L. 95–142, §1, Oct. 25, 1977, 91 Stat. 1175, provided that: "This Act \[enacting sections 1320a, 1320a–3 to 1320a–5, 1320c–20 to 1320c–22, and 1396k of this title, amending sections 254e, 1301, 1320c–1, 1320c–3, 1320c–4, 1320c–6, 1320c–7, 1320c–9, 1320c–12, 1320c–15 to 1320c–17, 1395b–1, 1395f, 1395g, 1395h, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395nn, 1396a, 1396b, 1396h, 1397a, 1397b, and 3524 of this title, and enacting provisions set out as notes under sections 254e, 1320a, 1320a–3, 1320a–5, 1320c–6, 1320c–7, 1395f, 1395g, 1395h, 1395l, 1395x, 1395cc, 1395ll, 1395nn, 1396a, and 1396b of this title\] may be cited as the 'Medicare-Medicaid Anti-Fraud and Abuse Amendments'."
+Pub. L. 95–142, §1, Oct. 25, 1977, 91 Stat. 1175, provided that: "This Act \[enacting sections 1320a, 1320a–3 to1320a–5, 1320c–20 to 1320c–22, and 1396k of this title, amending sections 254e, 1301, 1320c–1, 1320c–3, 1320c–4, 1320c–6, 1320c–7, 1320c–9, 1320c–12, 1320c–15 to 1320c–17, 1395b–1, 1395f, 1395g, 1395h, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395nn, 1396a, 1396b, 1396h, 1397a, 1397b, and 3524 of this title, and enacting provisions set out as notes under sections 254e, 1320a, 1320a–3, 1320a–5, 1320c–6, 1320c–7, 1395f, 1395g, 1395h, 1395l, 1395x, 1395cc, 1395ll, 1395nn, 1396a, and 1396b of this title\] may be cited as the 'Medicare-Medicaid Anti-Fraud and Abuse Amendments'."
 
 #### Short Title of 1976 Amendment
 
@@ -290,7 +298,7 @@ Pub. L. 91–172, title X, §1001, Dec. 30, 1969, 83 Stat. 737, provided that: "
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–248, §1, Jan. 2, 1968, 81 Stat. 821, provided that this Act \[enacting sections 429, 610, 620 to 626, 630 to 644, 908, 1319–1320a, 1395b–1, and 1396e to 1396g of this title, amending sections 302 to 304, 401 to 406, 409 to 411, 413, 415 to 418, 421 to 423, 424a, 425, 426, 426a, 427, 428, 601 to 604, 606 to 608, 622, 701 to 715, 729, 907, 1202 to 1204, 1306, 1308 to 1311, 1313 to 1318, 1352 to 1354, 1361, 1382, 1383, 1395d to 1395f, 1395i, 1395k, 1395l, 1395n, 1395p to 1395y, 1395aa, 1395cc, 1395dd, 1395gg, 1395ll, 1396a, 1396b, and 1396d of this title, sections 1401, 1402, 3101, 3111, 3121, 3122, 3125, 3306, 6051, and 6413 of Title 26, Internal Revenue Code, and sections 228e and 228s–2 of Title 45, Railroads, repealing sections 721 to 728, 1317, and 1395ee of this title, enacting provisions set out as notes under sections 242b, 302, 303, 402 to 405, 409, 410, 413, 415, 416, 418, 423, 424a, 427, 601 to 603, 607, 609, 620, 622, 626, 633, 701, 705, 1301, 1308, 1319, 1395c to 1395f, 1395j to 1395l, 1395n, 1395p, 1395u, 1395x, 1395aa, 1395dd, 1396a, 1396b, 1396d, and1396g of this title, and amending provisions set out as notes under sections 603 and 608 of this title and sections 1401, 1402, 3121, and 6051 of Title 26\] may be cited as the "Social Security Amendments of 1967."
+Pub. L. 90–248, §1, Jan. 2, 1968, 81 Stat. 821, provided that this Act \[enacting sections 429, 610, 620 to 626, 630 to 644, 908, 1319–1320a, 1395b–1, and 1396e to 1396g of this title, amending sections 302 to 304, 401 to 406, 409 to 411, 413, 415 to 418, 421 to 423, 424a, 425, 426, 426a, 427, 428, 601 to 604, 606 to 608, 622, 701 to 715, 729, 907, 1202 to 1204, 1306, 1308 to 1311, 1313 to 1318, 1352 to 1354, 1361, 1382, 1383, 1395d to 1395f, 1395i, 1395k, 1395l, 1395n, 1395p to 1395y, 1395aa, 1395cc, 1395dd, 1395gg, 1395ll, 1396a, 1396b, and 1396d of this title, sections 1401, 1402, 3101, 3111, 3121, 3122, 3125, 3306, 6051, and 6413 of Title 26, Internal Revenue Code, and sections 228e and 228s–2 of Title 45, Railroads, repealing sections 721 to 728, 1317, and 1395ee of this title, enacting provisions set out as notes under sections 242b, 302, 303, 402 to 405, 409, 410, 413, 415, 416, 418, 423, 424a, 427, 601 to 603, 607, 609, 620, 622, 626, 633, 701, 705, 1301, 1308, 1319, 1395c to 1395f, 1395j to 1395l, 1395n, 1395p, 1395u, 1395x, 1395aa, 1395dd, 1396a, 1396b, 1396d, and 1396g of this title, and amending provisions set out as notes under sections 603 and 608 of this title and sections 1401, 1402, 3121, and 6051 of Title 26\] may be cited as the "Social Security Amendments of 1967."
 
 Pub. L. 90–248, title III, §306, Jan. 2, 1968, 81 Stat. 930, provided that: "This title \[enacting subchapter V of this chapter, amending sections 705, 729, 1396a, and 1396d of this title, enacting provisions set out as notes under section 705 of this title, and amending provisions set out as notes under section 242b of this title\] may be cited as the 'Child Health Act of 1967'."
 
@@ -330,7 +338,7 @@ Act Aug. 1, 1956, ch. 836, §1, 70 Stat. 807, provided: "That this Act \[enactin
 
 #### Short Title of 1954 Amendment
 
-Act Aug. 5, 1954, ch. 657, §1, 68 Stat. 668, provided that: "This Act \[enacting sections 1101 to 1103, 1322, and1323 of this title and amending sections 503, 1104, and 1321 of this title and sections 1601, 1603, and 1607 of former Title 26, Internal Revenue Code of 1939\] may be cited as the 'Employment Security Administration Financing Act of 1954'."
+Act Aug. 5, 1954, ch. 657, §1, 68 Stat. 668, provided that: "This Act \[enacting sections 1101 to 1103, 1322, and 1323 of this title and amending sections 503, 1104, and 1321 of this title and sections 1601, 1603, and 1607 of former Title 26, Internal Revenue Code of 1939\] may be cited as the 'Employment Security Administration Financing Act of 1954'."
 
 #### Short Title of 1952 Amendment
 

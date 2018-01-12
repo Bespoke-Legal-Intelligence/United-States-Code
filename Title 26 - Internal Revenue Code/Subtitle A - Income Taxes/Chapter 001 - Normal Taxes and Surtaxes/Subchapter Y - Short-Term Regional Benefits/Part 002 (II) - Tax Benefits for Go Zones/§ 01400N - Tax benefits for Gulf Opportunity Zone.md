@@ -92,7 +92,7 @@
 
 &emsp;&emsp;For purposes of section 143 and this subsection, any qualified GO Zone repair or reconstruction shall be treated as a qualified rehabilitation.
 
-#### (B) Qualified Go Zone repair or reconstruction
+#### (B) Qualified GO Zone repair or reconstruction
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "qualified GO Zone repair or reconstruction" means any repair of damage caused by Hurricane Katrina, Hurricane Rita, or Hurricane Wilma to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone (or reconstruction of such building in the case of damage constituting destruction) if the expenditures for such repair or reconstruction are 25 percent or more of the mortgagor's adjusted basis in the residence. For purposes of the preceding sentence, the mortgagor's adjusted basis shall be determined as of the completion of the repair or reconstruction or, if later, the date on which the mortgagor acquires the residence.
 
@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a bond described in paragraph (3), one additional advance refunding after the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
+&emsp;With respect to a bond described in paragraph (3), one additional advance refundingafter the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
 
 &emsp;&emsp;(A) the Governor of the State designates the advance refunding bond for purposes of this subsection, and
 
@@ -354,7 +354,7 @@
 
 #### (1) In general
 
-&emsp;A taxpayer may elect to treat 50 percent of any qualified Gulf Opportunity Zone clean-up cost as an expense which is not chargeable tocapital account. Any cost so treated shall be allowed as a deduction for the taxable year in which such cost is paid or incurred.
+&emsp;A taxpayer may elect to treat 50 percent of any qualified Gulf Opportunity Zone clean-up cost as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which such cost is paid or incurred.
 
 #### (2) Qualified Gulf Opportunity Zone clean-up cost
 
@@ -368,7 +368,7 @@
 
 #### (g) Extension of expensing for environmental remediation costs
 
-With respect to any qualified environmental remediation expenditure (as defined in section 198(b)) paid or incurred on or after August 28, 2005, in connection with a qualified contaminated site located in the Gulf Opportunity Zone, section 198 (relating to expensing of environmental remediation costs) shall be applied—
+With respect to any qualified environmental remediation expenditure (as defined in section198(b)) paid or incurred on or after August 28, 2005, in connection with a qualified contaminated site located in the Gulf Opportunity Zone, section 198 (relating to expensing of environmental remediation costs) shall be applied—
 
 &emsp;(1) in the case of expenditures paid or incurred on or after August 28, 2005, and before January 1, 2008, by substituting "December 31, 2007" for the date contained in section 198(h), and
 
@@ -456,7 +456,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (1) In general
 
-&emsp;The amount described in section 172(f)(1)(A) for any taxable year shall be increased by the Gulf Opportunity Zone public utility casualty loss for such taxable year.
+&emsp;The amount described in section 172(f)(1)(A) <sup>1</sup> for any taxable year shall be increased by the Gulf Opportunity Zone public utility casualty loss for such taxable year.
 
 #### (2) Gulf Opportunity Zone public utility casualty loss
 
@@ -490,7 +490,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;Section 172(b)(1) shall be applied with respect to such portion—
 
-&emsp;&emsp;&emsp;(i) by substituting "5 taxable years" for "2 taxable years" in subparagraph (A)(i), and
+&emsp;&emsp;&emsp;(i) by substituting "5 taxable years" for "2 taxable years" in subparagraph (A)(i),<sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) by not taking such portion into account in determining any eligible loss of the taxpayer under subparagraph (F) thereof for the taxable year.
 
@@ -506,7 +506,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;&emsp;(i) the net operating loss for such taxable year, over
 
-&emsp;&emsp;&emsp;(ii) the specified liability loss for such taxable year to which a 10-year carryback applies under section 172(b)(1)(C), or
+&emsp;&emsp;&emsp;(ii) the specified liability loss for such taxable year to which a 10-year carryback applies under section 172(b)(1)(C),<sup>1</sup> or
 
 &emsp;&emsp;(B) the aggregate amount of the following deductions to the extent taken into account in computing the net operating loss for such taxable year:
 
@@ -522,7 +522,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;&nbsp;For purposes of this clause, the term "moving expenses" has the meaning given such term by section 217(b), except that the taxpayer's former residence and new residence may be the same residence if the initial vacating of the residence was as the result of Hurricane Katrina.
 
-&emsp;&emsp;&emsp;(iii) Any deduction allowable under this chapter for expenses paid or incurred after August 27, 2005, and before January 1, 2008, to temporarily house any employee of thetaxpayer whose principal place of employment is in the Gulf Opportunity Zone.
+&emsp;&emsp;&emsp;(iii) Any deduction allowable under this chapter for expenses paid or incurred after August 27, 2005, and before January 1, 2008, to temporarily house any employee of the taxpayer whose principal place of employment is in the Gulf Opportunity Zone.
 
 &emsp;&emsp;&emsp;(iv) Any deduction for depreciation (or amortization in lieu of depreciation) allowable under this chapter with respect to any qualified Gulf Opportunity Zone property (as defined in subsection (d)(2), but without regard to subparagraph (B)(iv) thereof)) <sup>2</sup> for the taxable year such property is placed in service.
 
@@ -678,7 +678,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (ii) No basis adjustment
 
-&emsp;&emsp;&emsp;In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E(l) shall apply.
+&emsp;&emsp;&emsp;In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E(l) <sup>1</sup> shall apply.
 
 #### (C) Bonds held by regulated investment companies
 
@@ -690,7 +690,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (E) Credit treated as nonrefundable bondholder credit
 
-&emsp;&emsp;For purposes of this title, the credit allowed by this subsection shall be treated as a credit allowable under subpart H of part IV of subchapter A of this chapter.
+&emsp;&emsp;For purposes of this title, the credit allowed by this subsection shall be treated as a credit allowable under subpart H <sup>1</sup> of part IV of subchapter A of this chapter.
 
 #### (m) Application of new markets tax credit to investments in community development entities serving Gulf Opportunity Zone
 
@@ -774,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036.)
 
 #### References in Text
 
@@ -794,7 +794,19 @@ The Emergency Supplemental Appropriations Act for Defense, the Global War on Ter
 
 Section 168(k)(2)(D)(i), referred to in subsec. (d)(2)(B)(i), was part of the general amendment of section 168(k)(2) by Pub. L. 114–113, div. Q, §143(b)(1), Dec. 18, 2015, 129 Stat. 3057. Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
 
-Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(ii), Dec. 19, 2014, 128 Stat. 4041.
+Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(ii), Dec. 19, 2014, 128 Stat. 4041, and subsequently repealed by Pub. L. 115–97, title I, §13302(c)(2)(A), Dec. 22, 2017, 131 Stat. 2122.
+
+Section 172(f), referred to in subsec. (j)(1), was repealed by Pub. L. 115–97, title I, §13302(c)(2)(A), Dec. 22, 2017, 131 Stat. 2122.
+
+Subpar. (A)(i) of section 172(b)(1), referred to in subsec. (k)(1)(A)(i), was amended by Pub. L. 115–97, title I, §13302(b)(1)(A), Dec. 22, 2017, 131 Stat. 2122, and, as so amended, no longer contains the language "2 taxable years".
+
+Subpar. (F) of section 172(b)(1), referred to in subsec. (k)(1)(A)(ii), was repealed by Pub. L. 115–97, title I, §13302(b)(2), Dec. 22, 2017, 131 Stat. 2122. See section 172(b)(1)(B) of this title.
+
+Section 172(b)(1)(C), referred to in subsec. (k)(2)(A)(ii), was repealed by Pub. L. 115–97, title I, §13302(b)(2), Dec. 22, 2017, 131 Stat. 2122.
+
+Section 1397E(l), referred to in subsec. (l)(7)(B)(ii), was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
+
+Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (l)(7)(E), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 #### Codification
 
@@ -882,13 +894,13 @@ Amendment by Pub. L. 111–240 applicable to property placed in service after De
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1201(a)(2)(E) of Pub. L. 111–5 applicable to property placed in service after Dec. 31,2008, in taxable years ending after such date, see section 1201(c)(1) of Pub. L. 111–5, set out as a note under section 168 of this title.
+Amendment by section 1201(a)(2)(E) of Pub. L. 111–5 applicable to property placed in service after Dec. 31, 2008, in taxable years ending after such date, see section 1201(c)(1) of Pub. L. 111–5, set out as a note under section 168 of this title.
 
-Amendment by section 1531(c)(3) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under section 54 of this title.
+Pub. L. 111–5, div. B, title I, §1531(e), Feb. 17, 2009, 123 Stat. 360, provided that: "The amendments made by this section \[enacting subpart J of part IV of subchapter A of this chapter and section 6431 of this title and amending this section, sections 54, 54A, 1397E, 6211, and 6401 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: "The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\]."
+Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: "The amendment made bythis section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 Pub. L. 110–289, div. C, title III, §3082(b)(2), July 30, 2008, 122 Stat. 2907, provided that: "The amendment made by this subsection \[amending this section\] shall apply to property placed in service after December 31, 2007."
 
@@ -896,13 +908,23 @@ Pub. L. 110–289, div. C, title III, §3082(c)(2), July 30, 2008, 122 Stat. 290
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 15316(c)(1) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of this title.
+Pub. L. 110–234, title XV, §15316(d), May 22, 2008, 122 Stat. 1512, and Pub. L. 110–246, §4(a), title XV, §15316(d), June 18, 2008, 122 Stat. 1664, 2274, provided that: "The amendments made by this section \[enacting subpart I (§54A et seq.) of part IV of subchapter A of this chapter and amending this section, sections 54, 1397E, 6049, and 6401 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to obligations issued after the date of the enactment of this Act \[June 18, 2008\]."
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 Amendment by Pub. L. 110–185 applicable to property placed in service after Dec. 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section 107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
+Pub. L. 109–432, div. A, title I, §107(c), Dec. 20, 2006, 120 Stat. 2939, provided that:
+
+"(1)
+
+Extension.—The amendment made by subsection (a) \[amending section 1397E of this title\] shall apply to obligations issued after December 31, 2005.
+
+"(2)
+
+Special rules.—The amendments made by subsection (b) \[amending this section and sections 54 and 1397E of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 20, 2006\] pursuant to allocations of the national zone academy bond limitation for calendar years after 2005."
 
 Pub. L. 109–432, div. A, title I, §120(c), Dec. 20, 2006, 120 Stat. 2943, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 101 of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\]."
 
@@ -919,8 +941,6 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years."
 
 <i><sup>1</sup></i><i> See References in text note below.</i>
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

@@ -62,7 +62,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (2) Geographical requirements
 
-&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon;Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
+&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
 
 #### (3) Reports
 
@@ -88,7 +88,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;&emsp;The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(b), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title VII, §§701, 702, Nov. 7, 2000, 114 Stat. 1976; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302,Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(b), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title VII, §§701, 702, Nov. 7, 2000, 114 Stat. 1976; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 100–4, §315(d)(1), substituted "subsection (a) of this s
 
 Subsec. (c)(1). Pub. L. 100–4, §315(d)(2), substituted "subsection (b) of this section" for first reference to "this section" and "subsection (a) of this section" for second reference to "this section".
 
-Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out "and" after "1981," and inserted ", such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years1986 through 1990" after "1982", and substituted "subsection (b) of this section" for first reference to "this section" and "subsection (a) of this section" for second reference to "this section".
+Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out "and" after "1981," and inserted ", such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990" after "1982", and substituted "subsection (b) of this section" for first reference to "this section" and "subsection (a) of this section" for second reference to "this section".
 
 Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 

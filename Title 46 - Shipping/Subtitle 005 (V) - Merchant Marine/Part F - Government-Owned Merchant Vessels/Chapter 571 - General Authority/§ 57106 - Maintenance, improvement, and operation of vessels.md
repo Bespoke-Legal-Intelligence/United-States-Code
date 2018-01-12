@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation may maintain, repair, recondition,
 
 (b)
 
-Documentation and Restrictions on Operation.—A vessel reconditioned, remodeled, or improved under subsection (a) shall be documented under the laws of the United States and remain so documented for at least 5 years after completion of the reconditioning, remodeling, or improvement. During that period, it shall be operated on voyages that are not exclusively coastwise.
+Documentation and Restrictions on Operation.—A vessel reconditioned, remodeled, or improved under subsection (a) shall be documented under the laws of the United States and remain so documented for at least 5 years after completion of the reconditioning, remodeling, orimprovement. During that period, it shall be operated on voyages that are not exclusively coastwise.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1661.)
 

@@ -20,7 +20,7 @@ No regulation relating to qualifications for appointment of medical officers or 
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a noteunder section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Transfer of Functions
 

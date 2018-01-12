@@ -62,7 +62,7 @@
 
 #### (10) Confidentiality of information
 
-&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory underthis subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
+&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory under this subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
 
 &emsp;&emsp;(A) as the Secretary determines to be necessary to carry out this section;
 
@@ -186,7 +186,7 @@
 
 #### (4) Recoupment if actual list charge exceeds market rate
 
-&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, the Secretary determines that the payment amount for an advanced diagnostic laboratory test under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
+&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, theSecretary determines that the payment amount for an advanced diagnostic laboratory test under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
 
 #### (5) Advanced diagnostic laboratory test defined
 
@@ -226,7 +226,7 @@
 
 #### (3) Establishment of unique identifier for certain tests
 
-&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratorytest that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
+&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
 
 #### (f) Input from clinicians and technical experts
 

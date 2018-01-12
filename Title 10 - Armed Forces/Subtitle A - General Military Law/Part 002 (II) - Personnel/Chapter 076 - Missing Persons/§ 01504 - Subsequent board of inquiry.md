@@ -50,7 +50,7 @@ Duties of Board.—A board appointed under this section to conduct an inquiry in
 
 &emsp;(3) draw conclusions as to the whereabouts and status of the person;
 
-&emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether the status of the person should be continued or changed; and
+&emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether thestatus of the person should be continued or changed; and
 
 &emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions of the board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
 
@@ -108,7 +108,7 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 Recommendation on Status.—(1) Upon completion of an inquiry under this section, a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
 
-(2) A board may not recommend under paragraph (1) that a person be declared dead unless in making the recommendation the board complies with section 1507 of this title.
+(2) A board may not recommend under paragraph (1) that a person be declared dead unlessin making the recommendation the board complies with section 1507 of this title.
 
 (j)
 

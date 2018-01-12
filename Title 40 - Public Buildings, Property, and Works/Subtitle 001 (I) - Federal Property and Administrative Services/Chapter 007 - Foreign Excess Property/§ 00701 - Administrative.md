@@ -52,7 +52,7 @@ Use of foreign currencies and credits.—The Secretary of State may use foreign 
 
 &emsp;(2)
 
-Renewal of certain agreements.—Except as otherwise directed by the President, the Secretary of State shall continue to perform functions under agreements in effect on July 1, 1949, related to the disposal of foreign excess property. The Secretary of State may amend, modify, and renew the agreements. Foreign currencies or credits the Secretary of State acquires under the agreements shall be administered in accordance with proceduresthat the Secretary of the Treasury may establish. Foreign currencies or credits reduced to United States currency must be deposited in the Treasury as miscellaneous receipts.
+Renewal of certain agreements.—Except as otherwise directed by the President, the Secretary of State shall continue to perform functions under agreements in effect on July 1, 1949, related to the disposal of foreign excess property. The Secretary of State may amend, modify, and renew the agreements. Foreign currencies or credits the Secretary of State acquires under the agreements shall be administered in accordance with procedures that the Secretary of the Treasury may establish. Foreign currencies or credits reduced to United States currency must be deposited in the Treasury as miscellaneous receipts.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1125.)
 

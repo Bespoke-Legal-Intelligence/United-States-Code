@@ -8,7 +8,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (1) There is hereby appropriated to the Unemployment Trust Fund for credit to the employment security administration account, out of any moneys in the Treasury not otherwise appropriated, for the fiscal year ending June 30, 1961, and for each fiscal year thereafter, an amount equal to 100 per centum of the tax (including interest, penalties, and additions to the tax) received during the fiscal year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] and covered into the Treasury.
 
-(2) The amount appropriated by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Unemployment Trust Fund and credited to the employment security administration account. Each such transfer shall be based on estimates made by the Secretary of the Treasury of the amounts received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred, to the extent prior estimates (including estimates for the fiscal year ending June 30, 1960) were in excess of or were less than the amounts required to be transferred.
+(2) The amount appropriated by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Unemployment Trust Fund and credited to the employment security administration account. Each such transfer shall be based on estimates made by the Secretary of the Treasury of the amounts received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred, to the extent prior estimates (including estimates for the fiscal year endingJune 30, 1960) were in excess of or were less than the amounts required to be transferred.
 
 (3) The Secretary of the Treasury is directed to pay from time to time from the employment security administration account into the Treasury, as repayments to the account for refunding internal revenue collections, amounts equal to all refunds made after June 30, 1960, of amounts received as tax under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] (including interest on such refunds).
 
@@ -92,7 +92,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (1) There is hereby established in the Treasury a revolving fund which shall be available to make the advances authorized by this subsection. There are hereby authorized to be appropriated, without fiscal year limitation, to such revolving fund such amounts as may be necessary for the purposes of this section.
 
-(2) The Secretary of the Treasury is directed to advance from time to time from the revolving fund to the employment security administration account such amounts as may be necessary for the purposes of this section. If the net balancein the employment security administration account as of the beginning of any fiscal year equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the preceding fiscal year, no advance may be made under this subsection during such fiscal year.
+(2) The Secretary of the Treasury is directed to advance from time to time from the revolving fund to the employment security administration account such amounts as may be necessary for the purposes of this section. If the net balance in the employment security administration account as of the beginning of any fiscal year equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the preceding fiscal year, no advance may be made under this subsection during such fiscal year.
 
 (3) Advances to the employment security administration account made under this subsection shall bear interest until repaid at a rate equal to the average rate of interest (computed as of the end of the calendar month next preceding the date of such advance) borne by all interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest shall be the multiple of one-eighth of 1 per centum next lower than such average rate.
 
@@ -124,7 +124,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which isclassified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -190,7 +190,7 @@ Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpa
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provision establishing the employment security administration account for former provision making an appropriation to the Unemployment Trust Fund for fiscal year ending June 30, 1954, and for each fiscal year thereafter, providing for transfer of funds from the general fund in the Treasury to the Unemployment Trust Fund at the close of the fiscal year, and adjustments in the transfers, and requiring the Secretary of the Treasury to consult with the Secretary of Labor with respect to estimates of employment security administrative expenditures.
 
-Subsec. (b). Pub. L. 86–778 substituted provisions crediting the employment security administration with funds, and requiring transfer of funds, adjustments andrepayment of internal revenue refunds for former provisions defining "employment security administrative expenditures", now incorporated in subsec. (c)(1)(A), (B), (2)(A) of this section.
+Subsec. (b). Pub. L. 86–778 substituted provisions crediting the employment security administration with funds, and requiring transfer of funds, adjustments and repayment of internal revenue refunds for former provisions defining "employment security administrative expenditures", now incorporated in subsec. (c)(1)(A), (B), (2)(A) of this section.
 
 Subsecs. (c) to (f). Pub. L. 86–778 added subsecs. (c) to (f).
 

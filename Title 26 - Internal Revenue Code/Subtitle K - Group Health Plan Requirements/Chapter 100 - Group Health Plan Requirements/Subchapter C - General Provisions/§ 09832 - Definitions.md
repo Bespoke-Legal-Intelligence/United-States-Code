@@ -100,7 +100,7 @@ For purposes of this chapter—
 
 #### (4) Network plan
 
-&emsp;The term "network plan" means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term "network plan" means health insurance coverage of a health insurance issuerunder which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (5) Placed for adoption defined
 
@@ -191,4 +191,8 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 103(f)(2) of Pub. L. 110–233, set out as a note under section 9802 of this title.
+
+#### Effective Date
+
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 

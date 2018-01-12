@@ -4,7 +4,7 @@ Section 3217, added Pub. L. 85–861, §1(69)(A), Sept. 2, 1958, 72 Stat. 1463, 
 
 Section 3218, added Pub. L. 85–861, §1(69)(A), Sept. 2, 1958, 72 Stat. 1463; amended Pub. L. 96–107, title III, §302(a), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, §1061(a)(20)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Army in reserve general officers in active status. See section 12004 of this title.
 
-Section 3219, added Pub. L. 85–861, §1(69)(A), Sept. 2, 1958, 72 Stat. 1464, related to authorized strength of Army in reserve commissioned officers in active status in grades below brigadier general. See section 12005(a) of this title.
+Section 3219, added Pub. L. 85–861, §1(69)(A), Sept. 2, 1958, 72 Stat. 1464, related to authorized strength of Army in reserve commissioned officers in active statusin grades below brigadier general. See section 12005(a) of this title.
 
 Section 3220, added Pub. L. 85–861, §1(69)(A), Sept. 2, 1958, 72 Stat. 1464; amended Pub. L. 95–485, title VIII, §820(c)(4), Oct. 20, 1978, 92 Stat. 1627, related to distribution of reserve commissioned officers by Secretary of the Army. See section 12007 of this title.
 

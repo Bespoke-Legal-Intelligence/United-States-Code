@@ -36,7 +36,7 @@ Improvements on leased properties.—The Administrator may make improvements to 
 
 (b)
 
-Certification of Necessity.—Except for Government money expended under this part orfor a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
+Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
 
 (c)
 
@@ -152,7 +152,7 @@ In subsection (a)(1), before clause (A), the words "within the limits of availab
 
 In subsection (a)(2), the words "by the Secretary" and "to the Secretary" are omitted as surplus. The last sentence is substituted for 49 App.:2205(a)(3) (last sentence) to eliminate unnecessary words.
 
-In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe"are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
+In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe" are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
 
 In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
 
@@ -212,9 +212,11 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
 
-Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
 Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
@@ -238,7 +240,7 @@ Cancellation.—A contract described in subsection (a) may include a cancellatio
 
 "(c)
 
-Contract Provisions.—If feasible and practicable for the pilot program, the Administrator maymake an advance contract provision to achieve economic-lot purchases and more efficient production rates.
+Contract Provisions.—If feasible and practicable for the pilot program, the Administrator may make an advance contract provision to achieve economic-lot purchases and more efficient production rates.
 
 "(d)
 
@@ -292,7 +294,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Pub. L. 103–305, title I, §120(b), Aug. 23, 1994, 108 Stat. 1581, provided that: "Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted."
+Pub. L. 103–305, title I, §120(b), Aug. 23, 1994, 108 Stat. 1581, provided that: "Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shallestablish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted."
 
 #### Grandfather Provision for FAA Demonstration Project
 
@@ -326,7 +328,7 @@ In general.—The amount of each quarterly retention allowance payment to which 
 
 &emsp;"(2)
 
-Section rule.—In the case of an employee on leave without pay or other similar status for any partof the quarter prior to June 17, 1994, based on which the amount of the allowance payments for such employee under subsection (a) are computed, the 'amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994' shall, for purposes of paragraph (1), be deemed to be the amount of the allowance which would have been payable to such employee for such quarter under such project had such employee been in pay status throughout such quarter.
+Section rule.—In the case of an employee on leave without pay or other similar status for any part of the quarter prior to June 17, 1994, based on which the amount of the allowance payments for such employee under subsection (a) are computed, the 'amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994' shall, for purposes of paragraph (1), be deemed to be the amount of the allowance which would have been payable to such employee for such quarter under such project had such employee been in pay status throughout such quarter.
 
 "(c)
 

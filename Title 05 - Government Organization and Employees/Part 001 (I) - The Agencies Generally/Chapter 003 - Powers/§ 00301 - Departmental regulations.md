@@ -344,7 +344,7 @@ Support for Youth Organizations.—
 
 &emsp;"(1)
 
-Continuation of support.—No Federal law (including any rule, regulation, directive, instruction, or order) shall be construed to limit any Federal agency from providing any form of support for a youth organization (including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America) that would result in that Federal agency providing less support to that youth organization (or any similar organization chartered under the chapter of title 36, United States Code, relating to that youth organization) than was provided during the preceding fiscal year to that youth organization. This paragraph shall be subject to the availability of appropriations.
+Continuation of support.—No Federal law (including any rule, regulation, directive, instruction, or order) shall be construed to limit any Federal agency from providing any form of support for ayouth organization (including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America) that would result in that Federal agency providing less support to that youth organization (or any similar organization chartered under the chapter of title 36, United States Code, relating to that youth organization) than was provided during the preceding fiscal year to that youth organization. This paragraph shall be subject to the availability of appropriations.
 
 &emsp;"(2)
 
@@ -498,7 +498,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Improvements in Identification-Related Documents
 
-Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed byPub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
+Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
 
 #### Modification or Cancellation of Certain License Agreements Granted to Government During World War II
 

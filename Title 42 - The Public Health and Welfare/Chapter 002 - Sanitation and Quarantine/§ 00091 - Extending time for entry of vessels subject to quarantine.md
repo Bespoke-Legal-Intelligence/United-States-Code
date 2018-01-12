@@ -1,6 +1,6 @@
 ### §91. Extending time for entry of vessels subject to quarantine
 
-The Secretary of Health and Human Services is authorized, whenever a conformity to such quarantines and health laws requires it, and in respect to vessels subject thereto, to prolong the terms limited for the entry of the same, and the report or entry of their cargoes, and to vary or dispense with any other regulations applicable to such reports or entries. No part of the cargo of any vessel shall, however, in any case, be taken out or unladen therefrom, otherwise than is allowed by law, or according to the regulations established by sections 88 and 90 of this title.
+The Secretary of Health and Human Services is authorized, whenever a conformity to suchquarantines and health laws requires it, and in respect to vessels subject thereto, to prolong the terms limited for the entry of the same, and the report or entry of their cargoes, and to vary or dispense with any other regulations applicable to such reports or entries. No part of the cargo of any vessel shall, however, in any case, be taken out or unladen therefrom, otherwise than is allowed by law, or according to the regulations established by sections 88 and 90 of this title.
 
 (R.S. §4796; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

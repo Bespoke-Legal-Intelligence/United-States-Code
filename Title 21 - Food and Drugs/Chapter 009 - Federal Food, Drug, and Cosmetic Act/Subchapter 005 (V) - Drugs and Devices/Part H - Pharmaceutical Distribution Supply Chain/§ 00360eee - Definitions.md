@@ -36,7 +36,7 @@ In this part:
 
 #### (5) Distribute or distribution
 
-&emsp;The term "distribute" or "distribution" means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a productpursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
+&emsp;The term "distribute" or "distribution" means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a product pursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
 
 #### (6) Exclusive distributor
 
@@ -44,7 +44,7 @@ In this part:
 
 #### (7) Homogeneous case
 
-&emsp;The term "homogeneous case" means a sealed case containing only product that has a single National Drug Code number belonging to a single lot.
+&emsp;The term "homogeneous case" means a sealed case containing only product that has asingle National Drug Code number belonging to a single lot.
 
 #### (8) Illegitimate product
 
@@ -118,11 +118,11 @@ In this part:
 
 #### (18) Returns processor or reverse logistics provider
 
-&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns oroperates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
+&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
 
 #### (19) Specific patient need
 
-&emsp;The term "specific patient need" refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
+&emsp;The term "specific patient need" refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy toanother for the purpose of increasing or replenishing stock in anticipation of a potential need.
 
 #### (20) Standardized numerical identifier
 

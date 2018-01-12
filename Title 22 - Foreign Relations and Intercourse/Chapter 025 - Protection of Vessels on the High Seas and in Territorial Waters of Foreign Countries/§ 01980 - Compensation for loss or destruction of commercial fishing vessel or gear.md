@@ -146,7 +146,7 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–376, §3(b), Sept. 18, 1978, 92 Stat. 718, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1979."
+Pub. L. 95–376, §3(b), Sept. 18, 1978, 92 Stat. 718, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect January 1, 1979."
 
 #### Savings Provision
 

@@ -36,7 +36,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (2) Selection and design of mitigation projects
 
-&emsp;The Secretary shall select and design mitigation projects using a watershed approach toreflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
+&emsp;The Secretary shall select and design mitigation projects using a watershed approach to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
 
 #### (3) Mitigation requirements
 
@@ -112,11 +112,11 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
-> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided bynon-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
+> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
-Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
+Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered toprovide benefits that are national for purposes of this section.
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 
@@ -184,7 +184,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 &emsp;&emsp;&emsp;(ii) consider any comments received from those agencies and the public on the draft plan; and
 
-&emsp;&emsp;(B) for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through\(6) and was made available for public comment.
+&emsp;&emsp;(B) for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through (6) and was made available for public comment.
 
 #### (8) Integration with other plans
 
@@ -192,7 +192,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 #### (9) Consideration in project development and permitting
 
-&emsp;If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency underthe National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (10) Preservation of existing authorities
 
@@ -262,7 +262,7 @@ The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L
 
 The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

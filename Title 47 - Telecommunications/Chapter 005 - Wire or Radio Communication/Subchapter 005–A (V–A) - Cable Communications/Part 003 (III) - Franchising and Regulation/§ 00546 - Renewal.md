@@ -30,7 +30,7 @@
 
 &emsp;(D) the operator's proposal is reasonable to meet the future cable-related community needs and interests, taking into account the cost of meeting such needs and interests.
 
-(2) In any proceeding under paragraph (1), the cable operator shall be afforded adequate notice and the cable operator and the franchise authority, or its designee, shall be afforded fair opportunity for full participation, including the right to introduce evidence (including evidence related to issues raised in the proceeding under subsection (a)), to require the production of evidence, and to question witnesses. A transcript shall be made of any such proceeding.
+(2) In any proceeding under paragraph (1), the cable operator shall be afforded adequate notice and the cable operator and the franchise authority, or its designee, shall be afforded fair opportunity for full participation, including the rightto introduce evidence (including evidence related to issues raised in the proceeding under subsection (a)), to require the production of evidence, and to question witnesses. A transcript shall be made of any such proceeding.
 
 (3) At the completion of a proceeding under this subsection, the franchising authority shall issue a written decision granting or denying the proposal for renewal based upon the record of such proceeding, and transmit a copy of such decision to the cable operator. Such decision shall state the reasons therefor.
 

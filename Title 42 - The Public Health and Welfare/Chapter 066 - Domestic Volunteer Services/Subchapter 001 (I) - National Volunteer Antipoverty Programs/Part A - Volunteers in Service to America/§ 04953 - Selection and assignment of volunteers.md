@@ -2,7 +2,7 @@
 
 #### (a) Covered projects and programs
 
-The Director, on the receipt of applications by public or nonprofit private organizations to receive volunteers under this part, may assign volunteers selected under subsection (b) of this section to work in appropriate projects and programs sponsored by such organizations, including work—
+The Director, on the receipt of applications by public or nonprofit private organizations to receive volunteers under this part, may assign volunteers selected under subsection (b) to work in appropriate projects and programs sponsored by such organizations, including work—
 
 &emsp;(1) in meeting the health, education, welfare, or related needs of Indians living on reservations or Federal trust lands, of migratory and seasonal farmworkers and their families, and of residents of the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands;
 
@@ -42,7 +42,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(ii) to approved projects or programs, with respect to the availability of individuals whose applications for service as a volunteer have been approved and who are awaiting an assignment with a specific project or program.
 
-(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment and management of volunteers.
+(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment and management of volunteers.
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
@@ -62,13 +62,13 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 #### (c) Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds
 
-(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C) of this section, shall engage in public awareness and recruitment activities. Such activities may include—
+(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C), shall engage in public awareness and recruitment activities. Such activities may include—
 
 &emsp;(A) public service announcements through the Internet and related technologies, radio, television, and the print media;
 
 &emsp;(B) advertising through the Internet and related technologies, print media, direct mail, and other means;
 
-&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professionalassociations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, State or local offices of economic development, State employment security agencies, employment offices, and other institutions and organizations from or through which potential volunteers may be recruited;
+&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, State or local offices of economic development, State employment security agencies, employment offices, and other institutions and organizations from or through which potential volunteers may be recruited;
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
@@ -94,7 +94,7 @@ The Director may provide or arrange for educational and vocational counseling of
 
 #### (f) Terms and conditions; restrictions on political activities; place of service
 
-Except as provided in subsection (e) of this section, the assignment of volunteers under this section shall be on such terms and conditions (including restrictions on political activities that appropriately recognize the special status of volunteers living among the persons or groups served by programs to which they have been assigned) as the Director may determine, including work assignments in their own or nearby communities.
+Except as provided in subsection (e), the assignment of volunteers under this section shall be on such terms and conditions (including restrictions on political activities that appropriately recognize the special status of volunteers living among the persons or groups served by programs to which they have been assigned) as the Director may determine, including work assignments in their own or nearby communities.
 
 #### (g) Program or project submittal to Governor; commencement and termination of service
 
@@ -112,7 +112,7 @@ The Director may enter into agreements under which public and private nonprofit 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(6), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973,87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsec. (a)(6), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -192,9 +192,9 @@ Subsec. (a)(7). Pub. L. 103–82, §323(a)(6), added par. (7).
 
 Subsec. (b)(2)(A). Pub. L. 103–82, §405(a)(2), substituted "the Corporation (or any" for "the ACTION Agency (or any".
 
-Pub. L. 103–82, §323(b)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) of this section and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part."
+Pub. L. 103–82, §323(b)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part."
 
-Subsec. (b)(2)(C), (D). Pub. L. 103–82, §323(b)(1)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c) of this section."
+Subsec. (b)(2)(C), (D). Pub. L. 103–82, §323(b)(1)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c)."
 
 Subsec. (b)(4). Pub. L. 103–82, §405(a)(3), substituted "the Corporation" for "the ACTION Agency" in two places.
 
@@ -212,7 +212,7 @@ Pub. L. 103–82, §323(b)(2), (3), redesignated par. (5) as (4) and struck out 
 
 &emsp;&emsp;"(ii) the particular project or program to which the applicant prefers to be assigned."
 
-Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
+Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTIONAgency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
 
 Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel described in subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 96–143, §2(b), inserted "in a program or project" after 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment
 

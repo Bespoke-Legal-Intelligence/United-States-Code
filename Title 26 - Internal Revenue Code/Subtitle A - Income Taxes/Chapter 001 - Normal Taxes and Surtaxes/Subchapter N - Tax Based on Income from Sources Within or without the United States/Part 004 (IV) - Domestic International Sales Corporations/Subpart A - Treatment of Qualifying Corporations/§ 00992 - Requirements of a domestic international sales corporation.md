@@ -32,7 +32,7 @@
 
 #### (2) Effect of election
 
-&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply to each person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
+&emsp;If a corporation makes an election under paragraph (1), then the provisions of this part shall apply to such corporation for the taxable year of the corporation for which made and for all succeeding taxable years and shall apply toeach person who at any time is a shareholder of such corporation for all periods on or after the first day of the first taxable year of the corporation for which the election is effective.
 
 #### (3) Termination of election
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) for the taxable year following the taxable year in which made, if made after the close of such 90 days,
 
-> &emsp;&emsp;and for all succeeding taxable years of the corporation. Such termination shall be madein such manner as the Secretary shall prescribe by regulations.
+> &emsp;&emsp;and for all succeeding taxable years of the corporation. Such termination shall be made in such manner as the Secretary shall prescribe by regulations.
 
 #### (B) Continued failure to be DISC
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failure to make such distribution prior to the date on which made, are due to reasonable cause; and
 
-&emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
+&emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th month after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
 
 #### (3) Certain distributions made within 8½ months after close of taxable year deemed for reasonable cause
 
@@ -104,7 +104,7 @@ If—
 
 &emsp;(2) a second corporation (hereinafter in this subsection referred to as "parent") throughout the taxable year owns directly at least 80 percent of the stock of the subsidiary,
 
-> then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account under section 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
+> then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account undersection 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 110–172, §11(g)(16), Dec. 29, 2007, 121 Stat. 2491.)
 
@@ -116,7 +116,7 @@ Section 941, referred to in subsec. (d)(6), was repealed by Pub. L. 94–455, ti
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted "and" at end of subpar. (C), substituted period for", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "such corporation is not a member of any controlled group of which a FSC is a member."
+<b>2007</b>—Subsec. (a)(1)(C) to (E). Pub. L. 110–172 inserted "and" at end of subpar. (C), substituted period for ", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "such corporation is not a member of any controlled group of which a FSC is a member."
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–188 struck out "or 593" after "section 581".
 

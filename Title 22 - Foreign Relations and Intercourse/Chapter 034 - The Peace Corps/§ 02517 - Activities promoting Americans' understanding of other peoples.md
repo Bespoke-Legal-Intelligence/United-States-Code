@@ -80,5 +80,5 @@ In general.—Effective on the date of the enactment of this Act \[Oct. 17, 2000
 
 &emsp;"(2)
 
-References.—Any reference before the date of the enactment of this Act \[Oct. 17, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program."
+References.—Any reference before the date of the enactment of this Act \[Oct. 17, 2000\] in any law,regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program."
 

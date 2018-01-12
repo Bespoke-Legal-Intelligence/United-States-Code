@@ -10,7 +10,7 @@ For the purposes of this subchapter—
 
 &emsp;(4) the term "electric motor vehicle" means a motor vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, photovoltaic arrays, or other sources of electric current and may include an electric-hybrid vehicle;
 
-&emsp;(5) the term "electric-hybrid vehicle" means a vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, or other source of electric current and also relies on a non-electric source of power;
+&emsp;(5) the term "electric-hybrid vehicle" means a vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, or other source ofelectric current and also relies on a non-electric source of power;
 
 &emsp;(6) the term "eligible metropolitan area" means any Metropolitan Area (as such term is defined by the Office of Management and Budget pursuant to section 3504 of title 44) with a 1980 population of 250,000 or more that has been designated by a proposer and the Secretary for a demonstration project under this subchapter, except that the Secretary may designate an area with a 1990 population of 50,000 or more as an eligible metropolitan area;
 

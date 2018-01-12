@@ -56,7 +56,7 @@ Vessel Sharing Agreements.—
 
 &emsp;(1)
 
-In general.—An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title may agree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
+In general.—An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title mayagree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
 
 &emsp;(2)
 

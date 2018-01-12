@@ -38,7 +38,7 @@ General.—It is the policy of the United States—
 
 (b)
 
-National Transportation Policy.—(1) It is a goal of the United States to develop a national intermodal transportation system that transports passengers and property in an efficient manner. The future economic direction of the United States depends on its ability to confront directly the enormous challenges of the global economy, declining productivity growth,energy vulnerability, air pollution, and the need to rebuild the infrastructure of the United States.
+National Transportation Policy.—(1) It is a goal of the United States to develop a national intermodal transportation system that transports passengers and property in an efficient manner. The future economic direction of the United States depends on its ability to confront directly the enormous challenges of the global economy, declining productivity growth, energy vulnerability, air pollution, and the need to rebuild the infrastructure of the United States.
 
 (2) United States leadership in the world economy, the expanding wealth of the United States, the competitiveness of the industry of the United States, the standard of living, and the quality of life are at stake.
 
@@ -102,11 +102,11 @@ Intermodal Planning.—To carry out the policy of subsection (a)(5) of this sect
 
 &emsp;(1)
 
-Coordination in development of airport plans and programs.—Cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
+Coordination in development of airport plans and programs.—Cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developingairport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
 
 &emsp;(2)
 
-Goals for airport master and system plans.—Encourage airport sponsors and Stateand local officials to develop airport master plans and airport system plans that—
+Goals for airport master and system plans.—Encourage airport sponsors and State and local officials to develop airport master plans and airport system plans that—
 
 &emsp;&emsp;(A) foster effective coordination between aviation planning and metropolitan planning;
 
@@ -360,11 +360,11 @@ Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that:
 
 #### Construction of Runways
 
-Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: "Notwithstanding any provision of law that specifically restricts the number of runways at a single international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed."
+Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: "Notwithstanding any provision of law that specifically restricts the number of runways at asingle international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed."
 
 #### Innovative Financing Techniques
 
-Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept.30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
+Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 

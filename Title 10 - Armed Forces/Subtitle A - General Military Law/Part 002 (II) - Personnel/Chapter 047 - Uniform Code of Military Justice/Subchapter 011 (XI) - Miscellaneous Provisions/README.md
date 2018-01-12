@@ -14,7 +14,9 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 114–328, div. E, title LXIII, §§5541(7)(A), 5542, Dec. 23, 2016, 130 Stat. 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking item 936 and inserting the following new item:</i>
+<i>Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(7)(A), set out below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.</i>
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(7)(A), 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking item 936 and inserting the following new item:</i>
 
 &nbsp;
 
@@ -26,7 +28,9 @@
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(7), Dec. 23, 2016, 130 Stat. 2967, added item 940a and substituted "Authority to administer oaths" for "Authority to administer oaths and to act as notary" in item 936.
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(7). See 2016 Amendment note below.
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(7), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 940a and substituted "Authority to administer oaths" for "Authority to administer oaths and to act as notary" in item 936.
 
 
 ---

@@ -6,7 +6,7 @@ Violations.—An individual operating a commercial motor vehicle, having a drive
 
 (b)
 
-Revocations, Suspensions, and Cancellations.—An employee who has a driver's licenserevoked, suspended, or canceled by a State, who loses the right to operate a commercial motor vehicle in a State for any period, or who is disqualified from operating a commercial motor vehicle for any period, shall notify the employee's employer of the action not later than 30 days after the date of the action.
+Revocations, Suspensions, and Cancellations.—An employee who has a driver's license revoked, suspended, or canceled by a State, who loses the right to operate a commercial motor vehicle in a State for any period, or who is disqualified from operating a commercial motor vehicle for any period, shall notify the employee's employer of the action not later than 30 days after the date of the action.
 
 (c)
 

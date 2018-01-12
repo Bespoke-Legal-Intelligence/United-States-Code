@@ -104,5 +104,5 @@ This chapter, referred to in subsec. (b)(4)(B)(v), was in the original "this Act
 
 #### Delegation of Functions
 
-For authority of Secretary of Commerce to obtain and execute certain warrants pursuant to this section,see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
+For authority of Secretary of Commerce to obtain and execute certain warrants pursuant to this section, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 

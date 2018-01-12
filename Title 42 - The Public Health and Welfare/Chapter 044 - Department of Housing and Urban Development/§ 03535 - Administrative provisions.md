@@ -2,7 +2,7 @@
 
 #### (a) Transfer of personnel, assets, etc.
 
-The personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, or other funds held, used, arising from, or available or to bemade available in connection with, the functions, powers, and duties transferred by section 3534 of this title are hereby transferred with such functions, powers, and duties, respectively.
+The personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, or other funds held, used, arising from, or available or to be made available in connection with, the functions, powers, and duties transferred by section 3534 of this title are hereby transferred with such functions, powers, and duties, respectively.
 
 #### (b) Repealed. Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544
 
@@ -34,7 +34,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, the Secretary is authorized to—
 
-&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwisedeal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 6101 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
+&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 6101 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
 
 &emsp;(2) enter into agreements to pay annual sums in lieu of taxes to any State or local taxing authority with respect to any real property so acquired or owned;
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary is authorized by contr
 
 (3) No rule or regulation may become effective until after the expiration of the 30-calendar day period beginning on the day after the day on which such rule or regulation is published as final. Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.
 
-(4) The provisions of paragraphs (2) and (3) may be waived upon the written request of the Secretary, if agreed to by the Chairmen and Ranking Minority Members of both Committees.
+(4) The provisions of paragraphs (2) and (3) may be waived upon the written request of theSecretary, if agreed to by the Chairmen and Ranking Minority Members of both Committees.
 
 (5), (6) Repealed. Pub. L. 101–235, title I, §123(4), Dec. 15, 1989, 103 Stat. 2021.
 
@@ -188,7 +188,7 @@ The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pu
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (o)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revisedgenerally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -200,7 +200,7 @@ The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), i
 
 Section 222 of the Housing and Urban-Rural Recovery Act of 1983, referred to in subsec. (r)(2)(H), is section 222 of Pub. L. 98–181, which is set out as a note under section 1701z–6 of Title 12, Banks and Banking.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 

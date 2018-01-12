@@ -10,13 +10,13 @@ As used in this part—
 
 &emsp;(2) the term "electronic product" means (A) any manufactured or assembled product which, when in operation, (i) contains or acts as part of an electronic circuit and (ii) emits (or in the absence of effective shielding or other controls would emit) electronic product radiation, or (B) any manufactured or assembled article which is intended for use as a component, part, or accessory of a product described in clause (A) and which when in operation emits (or in the absence of effective shielding or other controls would emit) such radiation;
 
-&emsp;(3) the term "manufacturer" means any person engaged in the business of manufacturing,assembling, or importing of electronic products;
+&emsp;(3) the term "manufacturer" means any person engaged in the business of manufacturing, assembling, or importing of electronic products;
 
 &emsp;(4) the term "commerce" means (A) commerce between any place in any State and any place outside thereof; and (B) commerce wholly within the District of Columbia; and
 
 &emsp;(5) the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, and American Samoa.
 
-(June 25, 1938, ch. 675, §531, formerly act July 1, 1944, ch. 373, title III, §531, formerly §355, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; renumbered §531 and amended Pub. L. 101–629, §19(a)(1)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+(June 25, 1938, ch. 675, §531, formerly act July 1, 1944, ch. 373, title III, §531, formerly §355, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; amended Pub. L. 94–484, title IX, §905(b)(1),Oct. 12, 1976, 90 Stat. 2325; renumbered §531 and amended Pub. L. 101–629, §19(a)(1)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
 #### Codification
 

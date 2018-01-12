@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
 
-&emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
+&emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by theSecretary in accordance with section 12709 of this title.
 
 #### (2) Adjustment of qualifying rent
 

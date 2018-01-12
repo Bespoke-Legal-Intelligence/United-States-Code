@@ -10,7 +10,7 @@
 
 (c)(1) In distributing application forms and agreement forms to individuals desiring to participate in the Educational Assistance Program, the Secretary shall include with such forms the following:
 
-&emsp;(A) A fair summary of the rights and liabilities of an individual whose application is approved (and whose agreement is accepted) by the Secretary, including a clear explanation of the damages to which the United States is entitled if the individual breaches the agreement.
+&emsp;(A) A fair summary of the rights and liabilities of an individual whose application is approved (and whose agreement is accepted) by the Secretary, including a clear explanation ofthe damages to which the United States is entitled if the individual breaches the agreement.
 
 &emsp;(B) A full description of the terms and conditions that apply to participation in the Educational Assistance Program and service in the Veterans Health Administration.
 

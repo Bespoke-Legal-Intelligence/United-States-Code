@@ -54,7 +54,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;"(3) to the maximum extent practicable, the United States should consult closely with international financial institutions, other donors, and South African entities on a coordinated strategy to support the transition to a nonracial democracy in South Africa;
 
-&emsp;"(4) in order to provide ownership and managerial opportunities, professional advancement, training, and employment for disadvantaged South Africans and to respond to the historical inequities created under apartheid, the United States should—
+&emsp;"(4) in order to provide ownership and managerial opportunities, professional advancement, training,and employment for disadvantaged South Africans and to respond to the historical inequities created under apartheid, the United States should—
 
 &emsp;&emsp;"(A) promote the expansion of private enterprise and free markets in South Africa,
 
@@ -110,7 +110,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;"(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 
-&emsp;"(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of thetermination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
+&emsp;"(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
 
 &emsp;"(9) The table in section 502(b) of the Trade Act of 1974 (19 U.S.C. 2462(b)) is amended by striking 'Republic of South Africa'.
 

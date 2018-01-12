@@ -34,7 +34,7 @@ As used in this chapter, the term—
 
 &emsp;(16) "consensus standards development process" means the process by which additions, revisions, and interpretations to the Federal manufactured home construction and safety standards and enforcement regulations shall be developed and recommended to the Secretary by the consensus committee;
 
-&emsp;(17) "primary inspection agency" means a State agency or private organization that has been approved by the Secretary to act as a design approval primary inspection agency or a production inspection primary inspection agency, or both;
+&emsp;(17) "primary inspection agency" means a State agency or private organization that has been approved by the Secretary to act as a design approval primary inspection agency or aproduction inspection primary inspection agency, or both;
 
 &emsp;(18) "design approval primary inspection agency" means a State agency or private organization that has been approved by the Secretary to evaluate and either approve or disapprove manufactured home designs and quality control procedures;
 
@@ -75,4 +75,8 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §599A(b), Oct. 21, 1998, 112 Stat. 2660, provided that: "The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

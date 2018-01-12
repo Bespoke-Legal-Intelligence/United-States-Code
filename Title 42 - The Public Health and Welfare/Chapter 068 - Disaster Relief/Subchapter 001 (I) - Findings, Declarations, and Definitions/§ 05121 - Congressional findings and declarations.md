@@ -36,6 +36,10 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 115–87, §1, Nov. 21, 2017, 131 Stat. 1277, provided that: "This Act \[enacting provisions set out as a note under this section\] may be cited as the 'FEMA Accountability, Modernization and Transparency Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–326, §1, Dec. 16, 2016, 130 Stat. 1968, provided that: "This Act \[enacting section 5165f of this title, amending section 8101 of Title 5, Government Organization and Employees, and section 4303 of Title 38, Veterans' Benefits, and enacting and amending provisions set out as notes under section 3791 of this title\] may be cited as the 'National Urban Search and Rescue Response System Act of 2016'."
@@ -70,7 +74,7 @@ Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: "This A
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: "This Act \[amending section 5170c of this titleand enacting provisions set out as notes under sections 4601 and 5170c of this title\] may be cited as the 'Hazard Mitigation and Relocation Assistance Act of 1993'."
+Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: "This Act \[amending section 5170c of this title and enacting provisions set out as notes under sections 4601 and 5170c of this title\] may be cited as the 'Hazard Mitigation and Relocation Assistance Act of 1993'."
 
 #### Short Title of 1988 Amendment
 
@@ -82,7 +86,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 93–288, §1, May 22, 1974, 88 Stat. 143, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: "That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the 'Robert T. Stafford Disaster Relief and Emergency Assistance Act'."
+Pub. L. 93–288, §1, May 22, 1974, 88 Stat. 143, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: "That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes underthis section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the 'Robert T. Stafford Disaster Relief and Emergency Assistance Act'."
 
 #### Transfer of Functions
 
@@ -101,6 +105,26 @@ Pub. L. 100–707, title I, §102(b), Nov. 23, 1988, 102 Stat. 4689, provided th
 #### References to Disaster Relief Act of 1970
 
 Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
+
+#### Requirements for Grant Systems Modernization
+
+Pub. L. 115–87, §2, Nov. 21, 2017, 131 Stat. 1277, provided that:
+
+"(a)
+
+In General.—The Administrator of the Federal Emergency Management Agency shall ensure the ongoing modernization of the grant systems for the administration of assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) includes the following:
+
+&emsp;"(1) An online interface, including online assistance, for applicants to complete application forms, submit materials, and access the status of applications.
+
+&emsp;"(2) Mechanisms to eliminate duplication of benefits.
+
+&emsp;"(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribal governments, to eliminate the need to file multiple applications and speed disaster recovery.
+
+&emsp;"(4) Any additional tools the Administrator determines will improve the implementation of this section.
+
+"(b)
+
+Implementation.—To the extent practicable, the Administrator shall deliver the system capabilities described in subsection (a) in increments or iterations as working components for applicant use."
 
 #### Report on State Management of Small Disasters Initiative
 
@@ -124,7 +148,7 @@ Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78,
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23,1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
+Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23, 1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
 
 #### Declared Disasters and Emergencies Not Affected
 

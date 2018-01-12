@@ -238,7 +238,7 @@ Penalty for mislabeling and misrepresentation.—A person is ineligible under su
 
 &emsp;(9)
 
-State requirements.—The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
+State requirements.—The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced,or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
 &emsp;(10)
 
@@ -278,7 +278,7 @@ Political activities of nonsupervisory employees.—The provision of assistance 
 
 (m)
 
-Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary shallprescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
+Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
 
 (n)
 
@@ -314,7 +314,7 @@ Environmental reviews.—Right-of-way acquired under this subsection may not be 
 
 (r)
 
-Reasonable Access to Public Transportation Facilities.—A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
+Reasonable Access to Public Transportation Facilities.—A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highwaylanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
 
 (s)
 
@@ -538,7 +538,7 @@ Subsec. (j)(5) to (11). Pub. L. 114–94, §3011(2)(B)–(D), added pars. (5) an
 
 Subsec. (j)(12), (13). Pub. L. 114–94, §3011(2)(E), added pars. (12) and (13).
 
-Subsec. (q)(1). Pub. L. 114–94, §3011(3), struck out at end "The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate."
+Subsec. (q)(1). Pub. L. 114–94, §3011(3), struck out at end "The Secretary may establish restrictions on suchan acquisition as the Secretary determines to be necessary and appropriate."
 
 Subsecs. (s), (t). Pub. L. 114–94, §3011(4), added subsecs. (s) and (t).
 

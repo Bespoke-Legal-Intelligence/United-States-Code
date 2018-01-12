@@ -116,7 +116,7 @@
 
 #### (4) Deduction by State
 
-&emsp;The Governor may deduct an amount equal to the misexpenditure described in paragraph\(3) from subsequent program year (subsequent to the program year for which the determination was made) allocations to the local area from funds reserved for the administrative costs of the local programs involved, as appropriate.
+&emsp;The Governor may deduct an amount equal to the misexpenditure described in paragraph (3) from subsequent program year (subsequent to the program year for which the determination was made) allocations to the local area from funds reserved for the administrative costs of the local programs involved, as appropriate.
 
 #### (5) Limitations
 

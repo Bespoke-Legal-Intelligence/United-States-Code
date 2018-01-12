@@ -24,21 +24,25 @@
 
 #### (b) Suits by United States for recovery of erroneous refunds
 
-Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit is begun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
+Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit isbegun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
 
 #### (c) Suits by persons other than taxpayers
 
 #### (1) General rule
 
-&emsp;Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 9 months from the date of the levy or agreement giving rise to such action.
+&emsp;Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 2 years from the date of the levy or agreement giving rise to such action.
 
 #### (2) Period when claim is filed
 
-&emsp;If a request is made for the return of property described in section 6343(b), the 9-month period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
+&emsp;If a request is made for the return of property described in section 6343(b), the 2-year period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 816; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–719, title I, §110(b), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §6(d)(4), Dec. 24, 1980, 94 Stat. 3408.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 816; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–719, title I, §110(b), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §6(d)(4), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 115–97, title I, §11071(b), Dec. 22, 2017, 131 Stat. 2091.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(1). Pub. L. 115–97, §11071(b)(1), substituted "2 years" for "9 months".
+
+Subsec. (c)(2). Pub. L. 115–97, §11071(b)(2), substituted "2-year" for "9-month".
 
 <b>1980</b>—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
 
@@ -47,6 +51,10 @@ Recovery of an erroneous refund by suit under section 7405 shall be allowed only
 <b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
 <b>1958</b>—Subsec. (a)(1), (4). Pub. L. 85–866 inserted "certified mail or" before "registered mail" wherever appearing.
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to levies made after Dec. 22, 2017, and levies made on or before Dec. 22, 2017, if the 9-month period has not expired under section 6343(b) of this title (without regard to section 11071 of Pub. L. 115–97) as of such date, see section 11071(c) of Pub. L. 115–97, set out as a note under section 6343 of this title.
 
 #### Effective Date of 1980 Amendment
 

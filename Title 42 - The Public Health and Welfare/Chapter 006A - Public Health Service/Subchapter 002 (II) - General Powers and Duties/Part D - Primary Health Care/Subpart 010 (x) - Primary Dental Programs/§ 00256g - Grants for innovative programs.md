@@ -44,7 +44,7 @@ A State receiving a grant under subsection (a) may use funds received under the 
 
 &emsp;(10) coordination with local educational agencies within the State to foster programs that promote children going into oral health or science professions;
 
-&emsp;(11) the establishment of faculty recruitment programs at accredited dental traininginstitutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
+&emsp;(11) the establishment of faculty recruitment programs at accredited dental training institutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
 
 &emsp;(12) the development of a State dental officer position or the augmentation of a State dental office to coordinate oral health and access issues in the State; and
 

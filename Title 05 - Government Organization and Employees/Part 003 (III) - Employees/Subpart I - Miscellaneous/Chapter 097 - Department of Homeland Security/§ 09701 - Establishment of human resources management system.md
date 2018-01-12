@@ -62,7 +62,7 @@ Provisions to Ensure Collaboration With Employee Representatives.—
 
 &emsp;(1)
 
-In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensuresthe participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
+In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
 
 &emsp;&emsp;(A)
 
@@ -90,7 +90,7 @@ Implementation.—
 
 &emsp;&emsp;&emsp;(i) Any part of the proposal as to which the representatives do not make a recommendation, or as to which their recommendations are accepted by the Secretary and the Director, may be implemented immediately.
 
-&emsp;&emsp;&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted by the Secretary and the Director, at any time after 30 calendar days have elapsed since the initiation of the congressional notification, consultation, and mediation procedures set forth in subparagraph (B), if the Secretary determines, in the Secretary's sole and unreviewable discretion, that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of such parts, including any modifications made in response to the recommendations as the Secretary determines advisable.
+&emsp;&emsp;&emsp;(ii) With respect to any parts of the proposal as to which recommendations havebeen made but not accepted by the Secretary and the Director, at any time after 30 calendar days have elapsed since the initiation of the congressional notification, consultation, and mediation procedures set forth in subparagraph (B), if the Secretary determines, in the Secretary's sole and unreviewable discretion, that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of such parts, including any modifications made in response to the recommendations as the Secretary determines advisable.
 
 &emsp;&emsp;&emsp;(iii) The Secretary shall promptly notify Congress of the implementation of any part of the proposal and shall furnish with such notice an explanation of the proposal, any changes made to the proposal as a result of recommendations from employee representatives, and of the reasons why implementation is appropriate under this subparagraph.
 
@@ -124,7 +124,7 @@ Sense of congress.—It is the sense of Congress that—
 
 &emsp;&emsp;(A) employees of the Department are entitled to fair treatment in any appeals that they bring in decisions relating to their employment; and
 
-&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and theDirector of the Office of Personnel Management—
+&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and the Director of the Office of Personnel Management—
 
 &emsp;&emsp;&emsp;(i) should ensure that employees of the Department are afforded the protections of due process; and
 

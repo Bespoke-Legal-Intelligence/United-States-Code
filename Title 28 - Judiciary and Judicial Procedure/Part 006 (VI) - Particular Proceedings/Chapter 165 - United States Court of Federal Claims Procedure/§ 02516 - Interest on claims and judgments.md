@@ -60,5 +60,5 @@ Pub. L. 97–258, §2(g)(5), Sept. 13, 1982, 96 Stat. 1061, provided that the am
 
 #### Repeals
 
-Pub. L. 97–164, title III, §302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed by Pub. L. 97–258, §2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
+Pub. L. 97–164, title III, §302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed byPub. L. 97–258, §2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
 

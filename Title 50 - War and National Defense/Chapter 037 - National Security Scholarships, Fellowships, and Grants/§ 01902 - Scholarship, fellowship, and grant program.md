@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) awarding scholarships to undergraduate students who—
 
-&emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
+&emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficienciesexist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
 &emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A), enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
 
@@ -48,7 +48,7 @@
 
 #### (3) Consultation with National Security Education Board
 
-&emsp;The program required under this chapter shall be carried out in consultation with theNational Security Education Board established under section 1903 of this title.
+&emsp;The program required under this chapter shall be carried out in consultation with the National Security Education Board established under section 1903 of this title.
 
 #### (4) Contract authority
 
@@ -92,7 +92,7 @@ The Secretary shall award scholarships, fellowships, and grants under the progra
 
 #### (f) Limitation on use of program participants
 
-No person who receives a grant, scholarship, or fellowship or any other type of assistanceunder this chapter shall, as a condition of receiving such assistance or under any other circumstances, be used by any department, agency, or entity of the United States Government engaged in intelligence activities to undertake any activity on its behalf during the period such person is pursuing a program of education for which funds are provided under the program carried out under this chapter.
+No person who receives a grant, scholarship, or fellowship or any other type of assistance under this chapter shall, as a condition of receiving such assistance or under any other circumstances, be used by any department, agency, or entity of the United States Government engaged in intelligence activities to undertake any activity on its behalf during the period such person is pursuing a program of education for which funds are provided under the program carried out under this chapter.
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
@@ -106,7 +106,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;The Secretary of Defense may—
 
-&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree,but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
 &emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
 
@@ -170,13 +170,17 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### (2) Treatment of certain service
 
-&emsp;In the case of an eligible program participant described in clause (ii) or (iii) of paragraph (3)(C) who receives an appointment under paragraph (1)(A), the head of a Department or Federal agency or office referred to in paragraph (1) may count any period that the individual served in a position with the Federal Government toward satisfaction of the service requirement under paragraph (1)(B) if that service—
+&emsp;In the case of an eligible program participant described in clause (ii) or (iii) of paragraph (4)(C) who receives an appointment under paragraph (1)(A), the head of a Department or Federal agency or office referred to in paragraph (1) may count any period that the individual served in a position with the Federal Government toward satisfaction of the service requirement under paragraph (1)(B) if that service—
 
 &emsp;&emsp;(A) in the case of an appointment under clause (i) of paragraph (1)(A), was in a position that is identified under clause (i) of subsection (b)(2)(A) as contributing to the national security of the United States; or
 
 &emsp;&emsp;(B) in the case of an appointment under clause (ii) of paragraph (1)(A), was in the Federal agency or office in which the appointment under that clause is made.
 
-#### (3) Eligible program participant defined
+#### (3) Career tenure
+
+&emsp;In the case of an individual whose appointment to a position in the excepted service is converted to a career or career-conditional appointment under paragraph (1)(B), the period of service described in such paragraph shall be treated, for purposes of the service requirements for career tenure under title 5, as if it were service in a position under a career or career-conditional appointment.
+
+#### (4) Eligible program participant defined
 
 &emsp;In this subsection, the term "eligible program participant" means an individual who—
 
@@ -192,13 +196,17 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;&emsp;&emsp;(iii) is a former civilian employee of the Federal Government who has less than a one-year break in service from the last period of Federal employment of such individual in a non-permanent appointment in the excepted service with national security responsibilities.
 
-(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899.)
+(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899; Pub. L. 115–91, div. A, title XVI, §1625, Dec. 12, 2017, 131 Stat. 1733.)
 
 #### Codification
 
-In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)"on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (k)(2). Pub. L. 115–91, §1625(2), substituted "paragraph (4)(C)" for "paragraph (3)(C)" in introductory provisions.
+
+Subsec. (k)(3), (4). Pub. L. 115–91, §1625(1), (3), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: "The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
@@ -254,7 +262,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 104–201, §1078(b)(2)(B), substituted "subsecti
 
 Subsec. (b). Pub. L. 104–201, §1078(c)(1), in introductory provisions, substituted "or any scholarship" for ", or of scholarships that provide assistance for periods that aggregate 12 months or more,".
 
-Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than thesame period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
+Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than the same period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
 
 Subsecs. (c) to (f). Pub. L. 104–201, §1078(d), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
@@ -266,7 +274,7 @@ Subsec. (a)(1)(B)(i). Pub. L. 103–178, §311(b)(2)(B), inserted before semicol
 
 <b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–496, §404(b)(1), inserted "or equivalent term," after "semester".
 
-Subsec. (a)(1)(B)(i). Pub. L. 102–496, §404(b)(2), substituted "as part of a graduate degree program of a United States institution of higher education" for "in the United States".
+Subsec. (a)(1)(B)(i). Pub. L. 102–496, §404(b)(2), substituted "as part of a graduate degree program of aUnited States institution of higher education" for "in the United States".
 
 Subsec. (a)(4). Pub. L. 102–496, §404(b)(3), inserted at end "In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time."
 

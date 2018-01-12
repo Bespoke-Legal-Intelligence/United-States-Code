@@ -22,7 +22,7 @@ To be eligible for a grant under subsection (b)(1), an entity shall be a State o
 
 #### (d) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2010 through 2014.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of fiscal years 2010 through 2014.
 
 (July 1, 1944, ch. 373, title III, §399V–3, as added Pub. L. 111–148, title X, §10501(g), Mar. 23, 2010, 124 Stat. 996.)
 

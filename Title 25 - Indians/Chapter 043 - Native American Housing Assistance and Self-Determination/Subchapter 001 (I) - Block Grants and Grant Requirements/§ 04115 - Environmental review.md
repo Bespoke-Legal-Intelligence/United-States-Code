@@ -42,7 +42,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(4) specify that the certifying officer—
 
-&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the NationalEnvironmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a); and
+&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a); and
 
 &emsp;&emsp;(B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
 

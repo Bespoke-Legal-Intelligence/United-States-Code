@@ -1,6 +1,6 @@
 ### §1044. Legal assistance
 
-(a) Subject to the availability of legal staff resources, the Secretary concerned may providelegal assistance in connection with their personal civil legal affairs to the following persons:
+(a) Subject to the availability of legal staff resources, the Secretary concerned may provide legal assistance in connection with their personal civil legal affairs to the following persons:
 
 &emsp;(1) Members of the armed forces who are on active duty.
 

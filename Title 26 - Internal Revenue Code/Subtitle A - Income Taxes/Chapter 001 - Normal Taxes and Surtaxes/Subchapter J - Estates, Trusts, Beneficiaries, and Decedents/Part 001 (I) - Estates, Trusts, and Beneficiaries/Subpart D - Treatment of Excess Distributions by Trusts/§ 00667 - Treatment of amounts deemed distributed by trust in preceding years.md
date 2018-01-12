@@ -4,7 +4,7 @@
 
 The total of the amounts which are treated under section 666 as having been distributed by a trust in a preceding taxable year shall be included in the income of a beneficiary of the trust when paid, credited, or required to be distributed to the extent that such total would have been included in the income of such beneficiary under section 662(a)(2) (and, with respect to any tax-exempt interest to which section 103 applies, under section 662(b)) if such total had been paid to such beneficiary on the last day of such preceding taxable year. The tax imposed by this subtitle on a beneficiary for a taxable year in which any such amount is included in his income shall be determined only as provided in this section and shall consist of the sum of—
 
-&emsp;(1) a partial tax computed on the taxable income reduced by an amount equal to the total of such amounts, at the rate and in the manner as if this section had not been enacted,
+&emsp;(1) a partial tax computed on the taxable income reduced by an amount equal to the totalof such amounts, at the rate and in the manner as if this section had not been enacted,
 
 &emsp;(2) a partial tax determined as provided in subsection (b) of this section, and
 
@@ -68,7 +68,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (2) Accumulation distributions from trust not taken into account unless they equal or exceed $1,000
 
-&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiary shall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same prior taxable year of the beneficiary, equals or exceeds $1,000.
+&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiary shall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same priortaxable year of the beneficiary, equals or exceeds $1,000.
 
 #### (d) Special rules for foreign trust
 
@@ -76,7 +76,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (A) In general
 
-&emsp;&emsp;In determining the increase in tax under subsection (b)(1)(D) for any computation year, the taxes described in section 665(d)(2)which are deemed distributed under section 666(b) or (c) and added under subsection (b)(1)(C) to the taxable income of the beneficiary for any computation year shall, except as provided in subparagraphs (B) and (C), be treated as a credit against the increase in tax for such computation year under subsection (b)(1)(D).
+&emsp;&emsp;In determining the increase in tax under subsection (b)(1)(D) for any computation year, the taxes described in section 665(d)(2) which are deemed distributed under section 666(b) or (c) and added under subsection (b)(1)(C) to the taxable income of the beneficiary for any computation year shall, except as provided in subparagraphs (B) and (C), be treated as a credit against the increase in tax for such computation year under subsection (b)(1)(D).
 
 #### (B) Deduction in lieu of credit
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
-Pub. L. 95–600, title VII, §702(o)(2), Nov. 6, 1978, 92 Stat. 2937, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply—
+Pub. L. 95–600, title VII, §702(o)(2), Nov. 6, 1978, 92 Stat. 2937, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply—
 
 &emsp;"(A) in the case of the tax imposed by chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 2001 et seq. of this title\], to the estates of decedents dying after December 31, 1979, and
 

@@ -38,7 +38,7 @@ Delay of Notification.—(1) A governmental entity acting under section 2703(b) 
 
 &emsp;&emsp;(iv) which provision of this chapter allowed such delay.
 
-(6) As used in this subsection, the term "supervisory official" means the investigative agent in charge or assistant investigative agent in charge or an equivalent of an investigating agency's headquarters or regional office, or the chief prosecuting attorney or the first assistant prosecuting attorney or an equivalent of a prosecuting attorney's headquarters or regional office.
+(6) As used in this subsection, the term "supervisory official" means the investigative agent incharge or assistant investigative agent in charge or an equivalent of an investigating agency's headquarters or regional office, or the chief prosecuting attorney or the first assistant prosecuting attorney or an equivalent of a prosecuting attorney's headquarters or regional office.
 
 (b)
 
@@ -55,4 +55,8 @@ Preclusion of Notice to Subject of Governmental Access.—A governmental entity 
 &emsp;(5) otherwise seriously jeopardizing an investigation or unduly delaying a trial.
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1864.)
+
+#### Effective Date
+
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

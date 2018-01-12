@@ -10,7 +10,7 @@ Whoever—
 
 &emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit, or (B) the initial or continued right to any such benefit of any other individual in whose behalf he has applied for or is receiving such benefit, conceals or fails to disclose such event with an intent fraudulently to secure such benefit either in a greater amount or quantity than is due or when no such benefit is authorized,
 
-&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereofto a use other than for the use and benefit of such other person, or
+&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereof to a use other than for the use and benefit of such other person, or
 
 &emsp;(5) conspires to commit any offense described in any of paragraphs (1) through (3),
 

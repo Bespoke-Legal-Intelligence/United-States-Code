@@ -46,7 +46,7 @@ Pub. L. 105–34, title XIII, §1301(b), Aug. 5, 1997, 111 Stat. 1039, provided 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see sections 403(e)(2) and 442(e) of Pub. L. 97–34, set out as a note under sections 2056 and 2501 of this title, respectively.
+Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see sections 403(e)(2) and 442(e) ofPub. L. 97–34, set out as a note under sections 2056 and 2501 of this title, respectively.
 
 #### Effective Date of 1970 Amendment
 

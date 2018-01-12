@@ -106,7 +106,7 @@ Deadline for operational capability.—The database established under subparagra
 
 (4) The Administration shall submit to the Committees on Appropriations, Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, as soon as possible after the beginning of each calendar quarter, a full and complete report on the status of each of the funds established by paragraph (1). Business-type budgets for each of the funds established by paragraph (1) shall be prepared, transmitted to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, and considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
 
-(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effectiveonly to such extent or in such amounts as are provided in advance in appropriation Acts.
+(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of theTreasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 (B)(i) Moneys in the funds established in paragraph (1) not needed for current operations may be paid into miscellaneous receipts of the Treasury.
 
@@ -142,47 +142,89 @@ Notwithstanding any other provision of law, the Administration is prohibited fro
 
 &emsp;Not later than 6 months after October 22, 1994, the Administration shall promulgate such regulations as may be necessary to enforce compliance with the requirements of this subsection.
 
-#### (g) Certification requirements for Business Opportunity Specialists
+#### (g) Business Opportunity Specialists
 
-#### (1) In general
+#### (1) Duties
 
-&emsp;Consistent with the requirements of paragraph (2), a Business Opportunity Specialist described under section 636(j)(10)(D) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist who was serving on or before January 3, 2013, may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on such date without such a certification.
+&emsp;The exclusive duties of a Business Opportunity Specialist employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title (or the designee of such official) shall be to implement sections 636, 637, and 657r of this title and to complete other duties related to contracting programs under this chapter. Such duties shall include—
 
-#### (2) Delay of certification requirement
+&emsp;&emsp;(A) with respect to small business concerns eligible to receive contracts and subcontracts pursuant to section 637(a) of this title—
 
-#### (A) Timing
+&emsp;&emsp;&emsp;(i) providing guidance, counseling, and referrals for assistance with technical, management, financial, or other matters that will improve the competitive viability of such concerns;
 
-&emsp;&emsp;The certification described in paragraph (1) is not required for any person serving as a Business Opportunity Specialist until the date that is one calendar year after the date such person is appointed as a Business Opportunity Specialist.
+&emsp;&emsp;&emsp;(ii) identifying causes of success or failure of such concerns;
 
-#### (B) Application
+&emsp;&emsp;&emsp;(iii) providing comprehensive assessments of such concerns, including identifying the strengths and weaknesses of such concerns;
 
-&emsp;&emsp;The requirements of subparagraph (A) shall—
+&emsp;&emsp;&emsp;(iv) monitoring and documenting compliance with the requirements of sections 636 and 637 of this title and any regulations implementing those sections;
 
-&emsp;&emsp;&emsp;(i) be included in any initial job posting for the position of a Business Opportunity Specialist; and
+&emsp;&emsp;&emsp;(v) explaining the requirements of sections 636, 637, 644, 657a, 657f, and 657r of this title; and
 
-&emsp;&emsp;&emsp;(ii) apply to any person appointed as a Business Opportunity Specialist after January 3, 2013.
+&emsp;&emsp;&emsp;(vi) advising on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of such a contract or subcontract;
 
-#### (h) Certification requirements for commercial market representatives
+&emsp;&emsp;(B) reviewing and monitoring compliance with mentor-protege agreements under section 657r of this title;
 
-#### (1) In general
+&emsp;&emsp;(C) representing the interests of the Administrator and small business concerns in the award, modification, and administration of contracts and subcontracts awarded pursuant to section 637(a) of this title; and
 
-&emsp;Consistent with the requirements of paragraph (2), a commercial market representative referred to in section 644(q)(3) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a commercial market representative who was serving on or before November 25, 2015, may continue to serve as a commercial market representative for a period of 5 years beginning on such date without such a certification.
+&emsp;&emsp;(D) reporting fraud or abuse under section 636, 637, 644, 657a, 657f, or 657r of this title or any regulations implementing such sections.
 
-#### (2) Delay of certification requirement
+#### (2) Certification requirements
 
-#### (A) Timing
+#### (A) In general
 
-&emsp;&emsp;The certification described in paragraph (1) is not required for any person serving as a commercial market representative until the date that is one calendar year after the date such person is appointed as a commercial market representative.
+&emsp;&emsp;Consistent with the requirements of subparagraph (B), a Business Opportunity Specialist described under section 636(j)(10)(D) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification.
 
-#### (B) Application
+#### (B) Delay of certification requirement
 
-&emsp;&emsp;The requirements of subparagraph (A) shall—
+&emsp;&emsp;The certification described in subparagraph (A) is not required—
 
-&emsp;&emsp;&emsp;(i) be included in any initial job posting for the position of a commercial market representative; and
+&emsp;&emsp;&emsp;(i) for any person serving as a Business Opportunity Specialist on December 12, 2017, until the date that is one calendar year after the date such person was appointed as a Business Opportunity Specialist; or
 
-&emsp;&emsp;&emsp;(ii) apply to any person appointed as a commercial market representative after November 25, 2015.
+&emsp;&emsp;&emsp;(ii) for any person serving as a Business Opportunity Specialist on or before January 3, 2013, until January 3, 2020.
 
-(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725; Pub. L. 106–50, title II, §201(a), Aug. 17, 1999, 113 Stat. 235; Pub. L. 108–447, div. K, title I, §132(a), (c), Dec. 8, 2004, 118 Stat. 3452, 3453; Pub. L. 110–234, title XII, §12068(b)(1), May 22, 2008, 122 Stat. 1410; Pub. L. 110–246, §4(a), title XII, §12068(b)(1), June 18, 2008, 122 Stat. 1664, 2172; Pub. L. 111–240, title I, §§1202(b)(2), 1203(b), Sept. 27, 2010, 124 Stat. 2521; Pub. L. 114–92, div. A, title VIII, §§865(a)(1), (b), 869(a)(2), Nov. 25, 2015, 129 Stat. 927, 928, 938.)
+#### (3) Job posting requirements
+
+&emsp;The duties and certification requirements described in this subsection shall be included in any initial job posting for the position of a Business Opportunity Specialist.
+
+#### (h) Commercial market representatives
+
+#### (1) Duties
+
+&emsp;The principal duties of a commercial market representative employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title (or the designee of the official) shall be to advance the policies established in section 637(d)(1) of this title relating to subcontracting, including—
+
+&emsp;&emsp;(A) helping prime contractors to find small business concerns that are capable of performing subcontracts;
+
+&emsp;&emsp;(B) for contractors awarded contracts containing the clause described in section 637(d)(3) of this title, providing—
+
+&emsp;&emsp;&emsp;(i) counseling on the responsibility of the contractor to maximize subcontracting opportunities for small business concerns;
+
+&emsp;&emsp;&emsp;(ii) instruction on methods and tools to identify potential subcontractors that are small business concerns; and
+
+&emsp;&emsp;&emsp;(iii) assistance to increase awards to subcontractors that are small business concerns through visits, training, and reviews of past performance;
+
+&emsp;&emsp;(C) providing counseling on how a small business concern may promote the capacity of the small business concern to contractors awarded contracts containing the clause described in section 637(d)(3) of this title; and
+
+&emsp;&emsp;(D) conducting periodic reviews of contractors awarded contracts containing the clause described in section 637(d)(3) of this title to assess compliance with subcontracting plans required under section 637(d)(6) of this title.
+
+#### (2) Certification requirements
+
+#### (A) In general
+
+&emsp;&emsp;Consistent with the requirements of subparagraph (B), a commercial market representative referred to in section 644(q)(3) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification.
+
+#### (B) Delay of certification requirement
+
+&emsp;&emsp;The certification described in subparagraph (A) is not required—
+
+&emsp;&emsp;&emsp;(i) for any person serving as a commercial market representative on December 12, 2017, until the date that is one calendar year after the date on which the person was appointed as a commercial market representative; or
+
+&emsp;&emsp;&emsp;(ii) for any person serving as a commercial market representative on or before November 25, 2015, until November 25, 2020.
+
+#### (3) Job posting requirements
+
+&emsp;The duties and certification requirements described in this subsection shall be included in any initial job posting for the position of a commercial market representative.
+
+(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1,3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725; Pub. L. 106–50, title II, §201(a), Aug. 17, 1999, 113 Stat. 235; Pub. L. 108–447, div. K, title I, §132(a), (c), Dec. 8, 2004, 118 Stat. 3452, 3453; Pub. L. 110–234, title XII, §12068(b)(1), May 22, 2008, 122 Stat. 1410; Pub. L. 110–246, §4(a), title XII, §12068(b)(1), June 18, 2008, 122 Stat. 1664, 2172; Pub. L. 111–240, title I, §§1202(b)(2), 1203(b), Sept. 27, 2010, 124 Stat. 2521; Pub. L. 114–92, div. A, title VIII, §§865(a)(1), (b), 869(a)(2), Nov. 25, 2015, 129 Stat. 927, 928, 938; Pub. L. 115–91, div. A, title XVII, §§1704, 1705, Dec. 12, 2017, 131 Stat. 1806, 1807.)
 
 #### References in Text
 
@@ -205,6 +247,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Prior similar provisions were contained in section 204 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, as amended by acts Aug. 9, 1955, ch. 628, §3, 69 Stat. 547; Feb. 2, 1956, ch. 29, §1, 70 Stat. 10; July 31, 1956, ch. 804, title I, §§106(a), 107(b), 70 Stat. 737; Pub. L. 85–4, Feb. 11, 1957, 71 Stat. 4; Pub. L. 85–120, §1, Aug. 3, 1957, 71 Stat. 341, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g). Pub. L. 115–91, §1704, amended subsec. (g) generally. Prior to amendment, subsec. (g) related to certification requirements for Business Opportunity Specialists.
+
+Subsec. (h). Pub. L. 115–91, §1705, amended subsec. (h) generally. Prior to amendment, subsec. (h) related to certification requirements for commercial market representatives.
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–92, §869(a)(2), inserted at end "One such Associate Administrator shall be the Chief Hearing Officer, who shall administer the Office of Hearings and Appeals established under section 634(i) of this title."
 
@@ -290,7 +336,7 @@ Subsec. (c)(2). Pub. L. 93–386, §2(a)(2), inserted references to sections 636
 
 Pub. L. 93–237, §3(b), substituted "636(h)" for "636(g)" in cl. (B).
 
-Subsec. (c)(4). Pub. L. 93–386, §2(a)(3), in cl. (A) substituted "636(i), and 637(a) of this title, shall not exceed $6,000,000,000" for "and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000", in cl. (B) substituted "$725,000,000" for "$556,250,000", and in cl. (D) substituted "section 636(i) of this title, shall not exceed $450,000,000" for "title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000".
+Subsec. (c)(4). Pub. L. 93–386, §2(a)(3), in cl. (A) substituted "636(i), and 637(a) of this title, shall not exceed$6,000,000,000" for "and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000", in cl. (B) substituted "$725,000,000" for "$556,250,000", and in cl. (D) substituted "section 636(i) of this title, shall not exceed $450,000,000" for "title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000".
 
 Pub. L. 93–237, §§1, 3(b), substituted "$4,875,000,000" for "$4,300,000,000" and "636(h)" for "636(g)" in cl. (A), "$556,250,000" for "$500,000,000" in cl. (B), "$525,000,000" for "$500,000,000" in cl. (C) and "$381,250,000" for "$350,000,000" in cl. (D).
 
@@ -336,7 +382,7 @@ Pub. L. 89–78 increased from $341,000,000 to $461,000,000 the limit on the agg
 
 Pub. L. 89–59 inserted references to section 636(c)(2) in first sentence and in fourth sentence, where first appearing and in cl. (2) thereof, and increased the authorized appropriations to the revolving fund from $1,666,000,000 to $1,716,000,000 and the aggregate amount outstanding at any one time for regular business loans, disaster loans, and prime contract authority from $1,325,000,000 to $1,375,000,000.
 
-<b>1962</b>—Subsec. (c). Pub. L. 87–550 increased the authorized appropriations to the revolving fund from $1,200,000,000 to $1,666,000,000, and the aggregate amount outstanding for purposes of sections 636(a), 636(b), and 637(a) of this title from $875,000,000 to $1,325,000,000, and for functions under the Small Business Investment Act of 1958 from $325,000,000 to $341,000,000 directed that appropriations to the revolving fund shall remain available until expended, required all repayments of loans and debentures, payments of interest, and other receipts arising out of transactions financed from thefund to be paid into the fund, and a report to Congressional committees whenever the aggregate amount outstanding for the purposes of sections 636(a) and 637(a) of this title exceeds $1,222,000,000, or for the purpose of section 636(b) of this title exceeds $103,000,000, changed the method of computing interest paid into miscellaneous receipts by substituting provisions requiring payment, following the close of each fiscal year, of interest on the outstanding cash disbursements from the fund, at rates determined by the Secretary of the Treasury, taking into consideration the current average yields on outstanding interest-bearing marketable public debt obligations of the United States of comparable maturities as calculated for the month of June preceding such fiscal year, for provisions which required payment of interest, at the close of each fiscal year, on the net amount of cash disbursements from advances at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding interest-bearing marketable public debt obligations of the United States of comparable maturities, and eliminated provisions which authorized advances from the revolving fund when requested by the Administration.
+<b>1962</b>—Subsec. (c). Pub. L. 87–550 increased the authorized appropriations to the revolving fund from $1,200,000,000 to $1,666,000,000, and the aggregate amount outstanding for purposes of sections 636(a), 636(b), and 637(a) of this title from $875,000,000 to $1,325,000,000, and for functions under the Small Business Investment Act of 1958 from $325,000,000 to $341,000,000 directed that appropriations to the revolving fund shall remain available until expended, required all repayments of loans and debentures, payments of interest, and other receipts arising out of transactions financed from the fund to be paid into the fund, and a report to Congressional committees whenever the aggregate amount outstanding for the purposes of sections 636(a) and 637(a) of this title exceeds $1,222,000,000, or for the purpose of section 636(b) of this title exceeds $103,000,000, changed the method of computing interest paid into miscellaneous receipts by substituting provisions requiring payment, following the close of each fiscal year, of interest on the outstanding cash disbursements from the fund, at rates determined by the Secretary of the Treasury, taking into consideration the current average yields on outstanding interest-bearing marketable public debt obligations of the United States of comparable maturities as calculated for the month of June preceding such fiscal year, for provisions which required payment of interest, at the close of each fiscal year, on the net amount of cash disbursements from advances at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding interest-bearing marketable public debt obligations of the United States of comparable maturities, and eliminated provisions which authorized advances from the revolving fund when requested by the Administration.
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–341, among other changes, substituted "$1,200,000,000" for "$1,125,000,000" wherever appearing, and "$325,000,000" for "$250,000,000".
 
@@ -422,7 +468,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(T) of Pub. L. 95–452 set out in the Appendix to Title 5.
 
-Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321, set out in the Appendix to Title 5.
+Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27,1965, 30 F.R. 9353, 79 Stat. 1321, set out in the Appendix to Title 5.
 
 #### Administrator's Order
 

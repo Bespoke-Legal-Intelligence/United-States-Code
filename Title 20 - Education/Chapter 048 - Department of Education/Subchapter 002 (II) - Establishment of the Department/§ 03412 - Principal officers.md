@@ -56,7 +56,7 @@ There shall be in the Department four additional officers who shall be appointed
 
 #### (f) Statements of functions of nominees
 
-Whenever the President submits the name of an individual to the Senate for confirmation as an officer of the Department under this section, the President shall state the particular functions of the Department such individual will exercise upon taking office.
+Whenever the President submits the name of an individual to the Senate for confirmation asan officer of the Department under this section, the President shall state the particular functions of the Department such individual will exercise upon taking office.
 
 #### (g) Supervision by Secretary
 
@@ -64,7 +64,7 @@ Each officer of the Department established under this section shall report direc
 
 #### (h) Coordination of literacy related functions by Assistant Secretary for Career, Technical, and Adult Education
 
-The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiativesin the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 
 #### (i) Liaison for Community and Junior Colleges
 
@@ -154,7 +154,7 @@ Pub. L. 102–103, title II, §203, Aug. 17, 1991, 105 Stat. 499, provided that:
 
 "(a)
 
-In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay periodthat begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
+In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
 
 "(b)
 

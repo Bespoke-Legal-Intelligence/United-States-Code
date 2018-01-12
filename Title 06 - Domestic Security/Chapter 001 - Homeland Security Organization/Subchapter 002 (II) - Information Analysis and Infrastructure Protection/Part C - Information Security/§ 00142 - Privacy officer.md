@@ -40,7 +40,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 #### (3) Effect of oaths
 
-&emsp;Any oath, affirmation, or affidavit administered or taken under paragraph (1)(D) by or before an employee of the Privacy Office designated for that purpose by the senior officialappointed under subsection (a) shall have the same force and effect as if administered or taken by or before an officer having a seal of office.
+&emsp;Any oath, affirmation, or affidavit administered or taken under paragraph (1)(D) by or before an employee of the Privacy Office designated for that purpose by the senior official appointed under subsection (a) shall have the same force and effect as if administered or taken by or before an officer having a seal of office.
 
 #### (c) Supervision and coordination
 

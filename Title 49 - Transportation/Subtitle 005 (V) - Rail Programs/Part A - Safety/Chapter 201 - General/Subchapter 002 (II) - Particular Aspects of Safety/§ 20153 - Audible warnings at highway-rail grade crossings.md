@@ -8,7 +8,7 @@ Definitions.—As used in this section—
 
 &emsp;(2) the term "locomotive horn" refers to a train-borne audible warning device meeting standards specified by the Secretary of Transportation; and
 
-&emsp;(3) the term "supplementary safety measure" refers to a safety system or procedure, provided by the appropriate traffic control authority or law enforcement authority responsible for safety at the highway-rail grade crossing, that is determined by the Secretary to be an effective substitute for the locomotive horn in the prevention of highway-rail casualties. A traffic control arrangement that prevents careless movement over the crossing (e.g., as where adequate median barriers prevent movement around crossing gates extending over the full width of the lanes in the particular direction of travel), and that conforms to standards prescribed by the Secretary under this subsection, shall be deemed to constitute a supplementary safety measure. The following do not, individually or in combination, constitute supplementary safety measures within the meaning of this subsection: standard traffic control devices or arrangements such as reflectorized crossbucks, stop signs, flashing lights, flashing lights with gates that do not completely block travel over the line of railroad, or traffic signals.
+&emsp;(3) the term "supplementary safety measure" refers to a safety system or procedure, provided by the appropriate traffic control authority or law enforcement authority responsible for safety at the highway-rail gradecrossing, that is determined by the Secretary to be an effective substitute for the locomotive horn in the prevention of highway-rail casualties. A traffic control arrangement that prevents careless movement over the crossing (e.g., as where adequate median barriers prevent movement around crossing gates extending over the full width of the lanes in the particular direction of travel), and that conforms to standards prescribed by the Secretary under this subsection, shall be deemed to constitute a supplementary safety measure. The following do not, individually or in combination, constitute supplementary safety measures within the meaning of this subsection: standard traffic control devices or arrangements such as reflectorized crossbucks, stop signs, flashing lights, flashing lights with gates that do not completely block travel over the line of railroad, or traffic signals.
 
 (b)
 
@@ -32,7 +32,7 @@ Application for Waiver or Exemption.—Notwithstanding any other provision of th
 
 (e)
 
-Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding oflocomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
+Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
 
 (2) The Secretary may include in regulations issued under this subsection special procedures for approval of new supplementary safety measures meeting the requirements of subsection (c)(1) of this section following successful demonstration of those measures.
 
@@ -74,7 +74,7 @@ Regulations.—In issuing regulations under this section, the Secretary—
 
 Effective Date of Regulations.—Any regulations under this section shall not take effect before the 365th day following the date of publication of the final rule.
 
-(Added Pub. L. 103–440, title III, §302(a), Nov. 2, 1994, 108 Stat. 4626; amended Pub. L. 104–264, title XII, §1218(a), Oct. 9, 1996, 110 Stat. 3285; Pub. L. 104–287, §5(51), Oct. 11, 1996, 110 Stat. 3393.)
+(Added Pub. L. 103–440, title III, §302(a), Nov. 2, 1994, 108 Stat. 4626; amended Pub. L. 104–264, titleXII, §1218(a), Oct. 9, 1996, 110 Stat. 3285; Pub. L. 104–287, §5(51), Oct. 11, 1996, 110 Stat. 3393.)
 
 #### Amendments
 

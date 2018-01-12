@@ -10,7 +10,7 @@
 
 > shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
 
-(2) As used in this subsection, the term "any person" includes any State, instrumentality of a State or employee of a State or instrumentalityof a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+(2) As used in this subsection, the term "any person" includes any State, instrumentality of a State or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (3) In a civil action for trade dress infringement under this chapter for trade dress not registered on the principal register, the person who asserts trade dress protection has the burden of proving that the matter sought to be protected is not functional.
 
@@ -82,7 +82,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;&emsp;(B) in a claim arising under this subsection—
 
-&emsp;&emsp;&emsp;(i) by reason of dilution by blurring, the person against whom the injunction issought willfully intended to trade on the recognition of the famous mark; or
+&emsp;&emsp;&emsp;(i) by reason of dilution by blurring, the person against whom the injunction is sought willfully intended to trade on the recognition of the famous mark; or
 
 &emsp;&emsp;&emsp;(ii) by reason of dilution by tarnishment, the person against whom the injunction is sought willfully intended to harm the reputation of the famous mark.
 
@@ -164,7 +164,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
 
-(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
+(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domainname or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
 
 &emsp;(I) expeditiously deposit with the court documents sufficient to establish the court's control and authority regarding the disposition of the registration and use of the domain name to the court; and
 
@@ -226,7 +226,7 @@ Pub. L. 104–98, §5, Jan. 16, 1996, 109 Stat. 987, provided that: "This Act \[
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, seesection 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1988 Amendment
 

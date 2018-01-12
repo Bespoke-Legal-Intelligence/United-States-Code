@@ -182,7 +182,7 @@ In subsection (c)(3), before clause (A), the text of section 30(b)(3)(A) of the 
 
 In subsection (e)(1), the words "The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section" are omitted as surplus. The text of section 30(e) of the Act (Public Law 96–296, 94 Stat. 822) is omitted as executed.
 
-In subsection (f)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
+In subsection (f)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penaltymay be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
 
 In subsection (f)(5), the words "when finally determined (or agreed upon in compromise)" are omitted as surplus.
 

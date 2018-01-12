@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) proper adjustments shall be made for stock splits and stock dividends,
 
-&emsp;&emsp;(C) if the taxpayer does not hold the stock during the entire taxable year, distributions received during such year shall be annualized,
+&emsp;&emsp;(C) if the taxpayer does not hold the stock during the entire taxable year, distributionsreceived during such year shall be annualized,
 
 &emsp;&emsp;(D) if the taxpayer's holding period includes periods during which the stock was held by another person, distributions received by such other person shall be taken into account as if received by the taxpayer,
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) such company is a controlled foreign corporation (as defined in section 957(a)),
 
-&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock in such company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distribution and shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
+&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock in such company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distributionand shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
 
 #### (ii) Post-1986 earnings and profits
 
@@ -208,13 +208,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 #### (A) Creditable foreign taxes
 
-&emsp;&emsp;The term "creditable foreign taxes" means, with respect to any distribution—
-
-&emsp;&emsp;&emsp;(i) any foreign taxes deemed paid under section 902 with respect to such distribution, and
-
-&emsp;&emsp;&emsp;(ii) any withholding tax imposed with respect to such distribution,
-
-> &emsp;&emsp;but only if the taxpayer chooses the benefits of section 901 and such taxes are creditable under section 901 (determined without regard to paragraph (1)(C)(ii)).
+&emsp;&emsp;The term "creditable foreign taxes" means, with respect to any distribution, any withholding tax imposed with respect to such distribution, but only if the taxpayer chooses the benefits of section 901 and such taxes are creditable under section 901 (determined without regard to paragraph (1)(C)(ii)).
 
 #### (B) Excess distribution taxes
 
@@ -224,13 +218,21 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(24), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–147, title V, §521(b), Mar. 18, 2010, 124 Stat. 112; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(24), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–147, title V, §521(b), Mar. 18, 2010, 124 Stat. 112; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §14301(c)(34), Dec. 22, 2017, 131 Stat. 2224.)
 
 #### References in Text
 
 The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (e), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (g)(2)(A). Pub. L. 115–97 substituted "any distribution, any withholding tax imposed withrespect to such distribution, but only if" for "any distribution—
+
+&emsp;"(i) any foreign taxes deemed paid under section 902 with respect to such distribution, and
+
+&emsp;"(ii) any withholding tax imposed with respect to such distribution,
+
+> but only if".
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–312, which directed that subsec. (e) be amended to read as if amendment by Pub. L. 107–16, §542(e)(5)(B), had never been enacted, was executed by inserting "(e)," after "subsections (c) and (d)" and substituting "; except that—" and pars. (1) and (2) for the period at end. See 2001 Amendment note below.
 
@@ -296,6 +298,10 @@ Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. 
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
@@ -326,7 +332,7 @@ Amendment by section 6127(b) of Pub. L. 100–647 effective as if included in th
 
 #### Effective Date
 
-Pub. L. 99–514, title XII, §1235(h), Oct. 22, 1986, 100 Stat. 2576, provided that: "The amendments made bythis section \[enacting this section and sections 1293 to 1297 of this title and amending sections 532, 542, 551, 851, 904, 951, 1246, and 6503 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986."
+Pub. L. 99–514, title XII, §1235(h), Oct. 22, 1986, 100 Stat. 2576, provided that: "The amendments made by this section \[enacting this section and sections 1293 to 1297 of this title and amending sections 532, 542, 551, 851, 904, 951, 1246, and 6503 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986."
 
 <i><sup>1</sup></i><i> So in original. See 2010 Amendment notes below.</i>
 

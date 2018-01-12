@@ -12,7 +12,7 @@ Upon the request of the Negotiator, the Secretary shall prepare an environmental
 
 #### (c) Judicial review
 
-The issuance of an environmental assessment under subsection (a) shall be considered to be a final agency action subject to judicial review inaccordance with the provisions of chapter 7 of title 5 and section 10139 of this title.
+The issuance of an environmental assessment under subsection (a) shall be considered to be a final agency action subject to judicial review in accordance with the provisions of chapter 7 of title 5 and section 10139 of this title.
 
 #### (d) Public hearings
 

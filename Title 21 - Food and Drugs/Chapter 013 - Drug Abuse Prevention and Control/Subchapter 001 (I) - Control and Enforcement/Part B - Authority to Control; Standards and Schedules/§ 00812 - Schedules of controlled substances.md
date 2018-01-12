@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.
+There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.<sup>1</sup>
 
 #### (b) Placement on schedules; findings required
 
@@ -60,7 +60,7 @@ Schedule V.—
 
 #### (c) Initial schedules of controlled substances
 
-Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title,<sup>1</sup> consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title, consist of the following drugs or other substances,<sup>1</sup> by whatever official name, common or usual name, chemical name, or brand name designated:
 
 Schedule I
 
@@ -266,7 +266,7 @@ Schedule I
 
 &emsp;&emsp;(iii) 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring, whether or not further substituted in the pyrrole ring to any extent, whether or not substituted on the naphthoyl ring to any extent.
 
-&emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring,whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
+&emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring, whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
 
 &emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of the indole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
 
@@ -454,11 +454,7 @@ Any compound, mixture, or preparation containing any of the following limited qu
 
 &emsp;(5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
 
-(Pub. L. 91–513, title II, §202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, §103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, §1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, §1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, §1152, July 9, 2012, 126 Stat. 1130.)
-
-#### Amendment of Schedules of Controlled Substances
-
-<i>For updated and republished schedules of controlled substances established by this section, see Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
+(Pub. L. 91–513, title II, §202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, §103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II,§§507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, §1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, §1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, §1152, July 9, 2012, 126 Stat. 1130.)
 
 #### Amendments
 
@@ -484,7 +480,11 @@ Amendment by Pub. L. 101–647 effective 90 days after Nov. 29, 1990, see sectio
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+
+#### Amendment of Schedules of Controlled Substances
+
+For updated and republished schedules of controlled substances established by this section, see Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.
 
 #### Congressional Finding; Emergency Scheduling of GHB in Controlled Substances Act
 
@@ -518,7 +518,7 @@ In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric 
 
 &emsp;&emsp;"(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
 
-&emsp;&emsp;"(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\] (whether the application involved is approved before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999.
+&emsp;&emsp;"(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\]\(whether the application involved is approved before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999.
 
 &emsp;"(2)
 

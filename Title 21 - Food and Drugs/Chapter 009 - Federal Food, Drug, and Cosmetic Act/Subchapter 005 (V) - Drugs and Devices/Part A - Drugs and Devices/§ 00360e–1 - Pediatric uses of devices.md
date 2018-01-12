@@ -20,11 +20,21 @@
 
 &emsp;&emsp;(A) the number of devices approved in the year preceding the year in which the report is submitted, for which there is a pediatric subpopulation that suffers from the disease or condition that the device is intended to treat, diagnose, or cure;
 
-&emsp;&emsp;(B) the number of devices approved in the year preceding the year in which the report is submitted, labeled for use in pediatric patients;
+&emsp;&emsp;(B) any information, based on a review of data available to the Secretary, regarding devices used in pediatric patients but not labeled for such use for which the Secretary determines that approved pediatric labeling could confer a benefit to pediatric patients;
 
-&emsp;&emsp;(C) the number of pediatric devices approved in the year preceding the year in which the report is submitted, exempted from a fee pursuant to section 379j(a)(2)(B)(v) of this title; and
+&emsp;&emsp;(C) the number of pediatric devices that receive a humanitarian use exemption under section 360j(m) of this title;
 
-&emsp;&emsp;(D) the review time for each device described in subparagraphs (A), (B), and (C).
+&emsp;&emsp;(D) the number of devices approved in the year preceding the year in which the report is submitted, labeled for use in pediatric patients;
+
+&emsp;&emsp;(E) the number of pediatric devices approved in the year preceding the year in which the report is submitted, exempted from a fee pursuant to section 379j(a)(2)(B)(v) of this title;
+
+&emsp;&emsp;(F) the review time for each device described in subparagraphs (A), (C), (D), and (E);
+
+&emsp;&emsp;(G) the number of devices for which the Secretary relied on data with respect to adults to support a determination of a reasonable assurance of safety and effectiveness in pediatric patients; and
+
+&emsp;&emsp;(H) the number of devices for which the Secretary relied on data from one pediatric subpopulation to support a determination of a reasonable assurance of safety and effectiveness in another pediatric subpopulation.
+
+> For the items described in this paragraph, such report shall disaggregate the number of devices by pediatric subpopulation.
 
 #### (b) Determination of pediatric effectiveness based on similar course of disease or condition or similar effect of device on adults
 
@@ -40,7 +50,11 @@
 
 For purposes of this section, the term "pediatric subpopulation" has the meaning given the term in section 360j(m)(6)(E)(ii) of this title.
 
-(June 25, 1938, ch. 675, §515A, as added Pub. L. 110–85, title III, §302, Sept. 27, 2007, 121 Stat. 859.)
+(June 25, 1938, ch. 675, §515A, as added Pub. L. 110–85, title III, §302, Sept. 27, 2007, 121 Stat. 859; amended Pub. L. 115–52, title V, §502(a), Aug. 18, 2017, 131 Stat. 1037.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–52 added subpars. (B), (C), (G), and (H), redesignated former subpars. (B) to (D) as (D) to (F), respectively, substituted "(C), (D), and (E);" for "(B), and (C)." in subpar. (F), and inserted concluding provisions.
 
 #### Final Rule Relating to Tracking of Pediatric Uses of Devices
 

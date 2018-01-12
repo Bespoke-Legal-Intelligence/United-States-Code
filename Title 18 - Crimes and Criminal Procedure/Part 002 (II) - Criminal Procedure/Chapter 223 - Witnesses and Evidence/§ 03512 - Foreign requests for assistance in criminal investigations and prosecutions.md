@@ -14,7 +14,7 @@ Scope of orders.—Any order issued by a Federal judge pursuant to paragraph (1)
 
 &emsp;&emsp;(A) a search warrant, as provided under Rule 41 of the Federal Rules of Criminal Procedure;
 
-&emsp;&emsp;(B) a warrant or order for contents of stored wire or electronic communications orfor records related thereto, as provided under section 2703 of this title;
+&emsp;&emsp;(B) a warrant or order for contents of stored wire or electronic communications or for records related thereto, as provided under section 2703 of this title;
 
 &emsp;&emsp;(C) an order for a pen register or trap and trace device as provided under section 3123 of this title; or
 

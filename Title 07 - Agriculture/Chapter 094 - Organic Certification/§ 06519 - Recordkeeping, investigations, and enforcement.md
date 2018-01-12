@@ -98,7 +98,7 @@
 
 #### (C) Waiver
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary may modify or waive a period of ineligibility under this paragraph if the Secretary determines that the modification or waiver is in the best interests of the applicable organic certification program established under this chapter.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary may modify or waive a period ofineligibility under this paragraph if the Secretary determines that the modification or waiver is in the best interests of the applicable organic certification program established under this chapter.
 
 #### (4) Reporting of violations
 

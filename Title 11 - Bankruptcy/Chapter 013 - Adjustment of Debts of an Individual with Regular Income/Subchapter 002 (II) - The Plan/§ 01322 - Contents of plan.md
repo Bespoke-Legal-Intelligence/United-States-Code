@@ -30,13 +30,13 @@
 
 &emsp;(9) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity;
 
-&emsp;(10) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1328(a), except that such interest may be paid only to the extent that the debtor has disposable income available to pay such interest after making provision for full payment of all allowed claims; and
+&emsp;(10) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1328(a), except that such interest may be paid only to the extent that the debtor has disposable incomeavailable to pay such interest after making provision for full payment of all allowed claims; and
 
 &emsp;(11) include any other appropriate provision not inconsistent with this title.
 
 (c) Notwithstanding subsection (b)(2) and applicable nonbankruptcy law—
 
-&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5)of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
+&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5) of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
 
 &emsp;(2) in a case in which the last payment on the original payment schedule for a claim secured only by a security interest in real property that is the debtor's principal residence is due before the date on which the final payment under the plan is due, the plan may provide for the payment of the claim as modified pursuant to section 1325(a)(5) of this title.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4,
 
 > the plan may not provide for payments over a period that is longer than 5 years.
 
@@ -56,7 +56,7 @@
 
 &emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4,
 
 > the plan may not provide for payments over a period that is longer than 3 years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than 5 years.
 
@@ -65,10 +65,6 @@
 (f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute "disposable income" under section 1325.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
-
-#### Adjustment of Dollar Amounts
-
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -147,4 +143,6 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1)(C), (2)(C), dollar amount "575" was adjusted to "625".
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d), dollar amount "525" was adjusted to "575" each time it appeared.
+
+<i><sup>1</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

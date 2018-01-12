@@ -66,7 +66,7 @@ Financial plan.—The financial plan under paragraph (2)(H) shall—
 
 &emsp;&emsp;(C) identify the projects and programs that the Commission expects will receive Federal financial assistance; and
 
-&emsp;&emsp;(D) identify the eligible entity or entities that the Commission expects will receive theFederal financial assistance described under subparagraph (C) and implement each capital project.
+&emsp;&emsp;(D) identify the eligible entity or entities that the Commission expects will receive the Federal financial assistance described under subparagraph (C) and implement each capital project.
 
 (b)
 

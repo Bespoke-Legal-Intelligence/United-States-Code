@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established the Diplomatic Telecommunications Service Governance Board to direct and oversee the activities and performance of the DTS–PO.
+&emsp;There is established the Diplomatic Telecommunications Service Governance Board todirect and oversee the activities and performance of the DTS–PO.
 
 #### (2) Executive Agent.—
 

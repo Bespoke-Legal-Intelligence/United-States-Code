@@ -60,7 +60,7 @@ A prior section 307 of act July 1, 1944, was classified to section 242e of this 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read asfollows: "For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter."
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter."
 
 Subsec. (b). Pub. L. 110–293, §205(2)(B), struck out concluding provisions which read as follows: "The Secretary may not, in the exercise of his authority under this section, provide financial assistance for the construction of any facility in any foreign country."
 

@@ -26,7 +26,7 @@ Not later than 60 days after the end of each fiscal year, the Secretary of the I
 
 &emsp;(1) the amounts, broken down by category, that were used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)); <sup>1</sup>
 
-&emsp;(2) the amounts apportioned to States for the fiscal year under section 4(a)(2) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(2)) and section 4(d)(2)(A) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(2)(A)); <sup>1</sup>
+&emsp;(2) the amounts apportioned to States for the fiscal year under section 4(a)(2) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(2)) and section 4(d)(2)(A) ofthe Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(2)(A)); <sup>1</sup>
 
 &emsp;(3) the results of the audits performed under section 9(d) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h(d) <sup>2</sup> and section 9(d) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777h(d));
 
@@ -40,7 +40,7 @@ Not later than 60 days after the end of each fiscal year, the Secretary of the I
 
 #### (1) In general
 
-&emsp;Not later than 60 days after the end of each fiscal year, each State that received amountsapportioned under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) or the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) for the fiscal year shall certify to the Secretary of the Interior in writing that the amounts were expended by the State in accordance with each of those Acts.
+&emsp;Not later than 60 days after the end of each fiscal year, each State that received amounts apportioned under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) or the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) for the fiscal year shall certify to the Secretary of the Interior in writing that the amounts were expended by the State in accordance with each of those Acts.
 
 #### (2) Transmission to Congress
 

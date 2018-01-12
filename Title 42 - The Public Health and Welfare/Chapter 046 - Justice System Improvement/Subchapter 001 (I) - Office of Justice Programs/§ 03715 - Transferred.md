@@ -1,0 +1,6 @@
+### §3715. Transferred
+
+#### Codification
+
+Section 3715, formerly classified as a note under section 3712 of this title, was editorially reclassified as section 10110 of Title 34, Crime Control and Law Enforcement.
+

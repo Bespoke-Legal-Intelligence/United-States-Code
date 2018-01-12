@@ -2,13 +2,13 @@
 
 #### (a) General authority
 
-In order to mitigate losses and damages resulting from drought conditions, the Secretarymay make available, by temporary contract, project and nonproject water, and may permit the use of facilities at Federal Reclamation projects for the storage or conveyance of project or nonproject water, for use both within and outside an authorized project service area.
+In order to mitigate losses and damages resulting from drought conditions, the Secretary may make available, by temporary contract, project and nonproject water, and may permit the use of facilities at Federal Reclamation projects for the storage or conveyance of project or nonproject water, for use both within and outside an authorized project service area.
 
 #### (b) Special provisions applicable to temporary water supplies provided under this section
 
 #### (1) Temporary supplies
 
-&emsp;Each temporary contract for the supply of water entered into pursuant to this section shall terminate no later than two years from the date of execution or upon a determination by the Secretary that water supply conditions no longer warrant that such contracts remain in effect, whichever occurs first. The costs associated with any such contract shall be repaid within the term of the contract.
+&emsp;Each temporary contract for the supply of water entered into pursuant to this section shall terminate no later than two years from the date of execution or upon a determinationby the Secretary that water supply conditions no longer warrant that such contracts remain in effect, whichever occurs first. The costs associated with any such contract shall be repaid within the term of the contract.
 
 #### (2) Ownership and acreage limitations
 

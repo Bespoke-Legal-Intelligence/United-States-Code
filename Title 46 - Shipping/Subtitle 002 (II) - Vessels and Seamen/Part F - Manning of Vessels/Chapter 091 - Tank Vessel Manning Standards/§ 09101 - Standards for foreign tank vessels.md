@@ -42,7 +42,7 @@ Section 9101 requires monitoring of manning standards for foreign tank vessels o
 
 Subsection (a) requires the Secretary of Transportation to evaluate the manning, training, qualification, and watchkeeping standards of foreign countries whose tank vessels operate on United States waters, or use transfer facilities, and to decide if the standards are equivalent or more stringent than United States standards.
 
-Subsection (b) authorizes the Secretary to specify the number of tankermen required on a foreign tank vessel and to have certified tankermen who can understand English when transferring oil or hazardous material inthe United States. This requirement is to be made part of the terminal operating procedures.
+Subsection (b) authorizes the Secretary to specify the number of tankermen required on a foreign tank vessel and to have certified tankermen who can understand English when transferring oil or hazardous material in the United States. This requirement is to be made part of the terminal operating procedures.
 
 #### Amendments
 

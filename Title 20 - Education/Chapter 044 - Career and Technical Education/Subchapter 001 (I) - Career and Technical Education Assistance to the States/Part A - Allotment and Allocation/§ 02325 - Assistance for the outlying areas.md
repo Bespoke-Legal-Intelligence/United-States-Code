@@ -24,7 +24,7 @@ From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secreta
 
 #### (2) Subsequent years
 
-&emsp;Subject to subsection (a), for the second fiscal year following August 12, 2006, and each subsequent year, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and subject to subsection (a), in equal proportion, to each of Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be used to provide direct career and technical educational services as described in subparagraphs (A) through (C) of paragraph (1).
+&emsp;Subject to subsection (a), for the second fiscal year following August 12, 2006, and each subsequent year, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and subject to subsection (a), in equal proportion, to each of Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be used to provide direct career and technical educational services as described insubparagraphs (A) through (C) of paragraph (1).
 
 #### (c) Limitation
 

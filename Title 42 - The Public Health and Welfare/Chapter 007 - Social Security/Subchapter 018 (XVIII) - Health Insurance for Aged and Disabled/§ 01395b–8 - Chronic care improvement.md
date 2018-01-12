@@ -20,7 +20,7 @@
 
 #### (C) Care management plan
 
-&emsp;&emsp;The term "care management plan" means a plan established under subsection (d) for a participant in a chronic care improvement program.
+&emsp;&emsp;The term "care management plan" means a plan established under subsection (d) for aparticipant in a chronic care improvement program.
 
 #### (D) Threshold condition
 
@@ -74,7 +74,7 @@
 
 #### (5) Independent evaluations of Phase I programs
 
-&emsp;The Secretary shall contract for an independent evaluation of the programs conductedunder this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
+&emsp;The Secretary shall contract for an independent evaluation of the programs conducted under this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
 
 &emsp;&emsp;(A) Quality improvement measures, such as adherence to evidence-based guidelines and rehospitalization rates.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) improve beneficiary satisfaction; and
 
-&emsp;&emsp;(C) achieve targets for savings to the program under this subchapter specified by the Secretary in the agreement within a range determined to be appropriate by the Secretary, subject to the application of budget neutrality with respect to the program and not taking into account any payments by the organization under the agreement under the program for risk under subsection (f)(3)(B).
+&emsp;&emsp;(C) achieve targets for savings to the program under this subchapter specified by the Secretary in the agreement within a range determined to be appropriate by the Secretary, subject to the application of budget neutrality with respect to the program and not taking into account any payments by the organization under the agreement underthe program for risk under subsection (f)(3)(B).
 
 #### (3) Independent evaluations of Phase II programs
 
@@ -186,7 +186,7 @@
 
 #### (B) Clinical, quality improvement, and financial requirements
 
-&emsp;&emsp;The Secretary may not enter into an agreement with such an organization under this section for the operation of a chronic care improvement program unless—
+&emsp;&emsp;The Secretary may not enter into an agreement with such an organization underthis section for the operation of a chronic care improvement program unless—
 
 &emsp;&emsp;&emsp;(i) the program and organization meet the requirements of subsection (e) and such clinical, quality improvement, financial, and other requirements as the Secretary deems to be appropriate for the targeted beneficiaries to be served; and
 

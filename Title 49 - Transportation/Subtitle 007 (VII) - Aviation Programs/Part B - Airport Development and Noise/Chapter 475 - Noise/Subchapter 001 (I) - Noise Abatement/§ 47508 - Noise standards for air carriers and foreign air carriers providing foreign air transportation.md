@@ -62,7 +62,7 @@ Development of New Standards.—The Secretary \[of Transportation\] shall contin
 
 "(b)
 
-Goals To Be Considered in Developing New Standards.—In negotiating standards under subsection\(a), the Secretary shall give high priority to developing standards that—
+Goals To Be Considered in Developing New Standards.—In negotiating standards under subsection (a), the Secretary shall give high priority to developing standards that—
 
 &emsp;"(1) are performance based and can be achieved by use of a full range of certifiable noise reduction technologies;
 

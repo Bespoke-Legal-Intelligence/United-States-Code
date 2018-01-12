@@ -68,7 +68,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) submit to the Secretary a loan application at such time, in such manner, and containing such information as the Secretary may require; and
 
-&emsp;&emsp;&emsp;(iii) agree to complete buildout of the broadband service described in the loan application by not later than 3 years after the initial date on which proceeds from the loan made or guaranteed under this section are made available.
+&emsp;&emsp;&emsp;(iii) agree to complete buildout of the broadband service described in the loan application by not later than 3 years after the initial date on which proceeds fromthe loan made or guaranteed under this section are made available.
 
 #### (B) Limitation
 
@@ -164,7 +164,7 @@ In this section:
 
 #### (6) Paperwork reduction
 
-&emsp;The Secretary shall take steps to reduce, to the maximum extent practicable, the cost and paperwork associated with applying for a loan or loan guarantee under this section by first-time applicants (particularly first-time applicants who are small and start-up broadband service providers), including by providing for a new application that maintains the ability of the Secretary to make an analysis of the risk associated with the loan involved.
+&emsp;The Secretary shall take steps to reduce, to the maximum extent practicable, the cost andpaperwork associated with applying for a loan or loan guarantee under this section by first-time applicants (particularly first-time applicants who are small and start-up broadband service providers), including by providing for a new application that maintains the ability of the Secretary to make an analysis of the risk associated with the loan involved.
 
 #### (7) Preapplication process
 
@@ -180,7 +180,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the progress towards fulfilling the objectives for which the assistance was granted, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number and location of residences and businesses that will receivenew broadband service, existing network service improvements, and facility upgrades resulting from the Federal assistance;
+&emsp;&emsp;&emsp;&emsp;(I) the number and location of residences and businesses that will receive new broadband service, existing network service improvements, and facility upgrades resulting from the Federal assistance;
 
 &emsp;&emsp;&emsp;&emsp;(II) the speed of broadband service;
 
@@ -270,7 +270,7 @@ For purposes of determining whether to make a loan or loan guarantee for a proje
 
 &emsp;&emsp;(A) consider whether the recipient is or would be serving an area that is unserved or has service levels below the minimum acceptable level of broadband service established under subsection (e); and
 
-&emsp;&emsp;(B) if the Secretary makes a determination in the affirmative under subparagraph (A), establish a limited initial deferral period or comparable terms necessary toachieve the financial feasibility and long-term sustainability of the project.
+&emsp;&emsp;(B) if the Secretary makes a determination in the affirmative under subparagraph (A), establish a limited initial deferral period or comparable terms necessary to achieve the financial feasibility and long-term sustainability of the project.
 
 #### (3) Recurring revenue
 
@@ -352,7 +352,7 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 No loan or loan guarantee may be made under this section after September 30, 2018.
 
-(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title VI, §6110(a), May 22, 2008, 122 Stat.1199; Pub. L. 110–246, §4(a), title VI, §6110(a), June 18, 2008, 122 Stat. 1664, 1960; Pub. L. 113–79, title VI, §6104(a), Feb. 7, 2014, 128 Stat. 851.)
+(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title VI, §6110(a), May 22, 2008, 122 Stat. 1199; Pub. L. 110–246, §4(a), title VI, §6110(a), June 18, 2008, 122 Stat. 1664, 1960; Pub. L. 113–79, title VI, §6104(a), Feb. 7, 2014, 128 Stat. 851.)
 
 #### References in Text
 

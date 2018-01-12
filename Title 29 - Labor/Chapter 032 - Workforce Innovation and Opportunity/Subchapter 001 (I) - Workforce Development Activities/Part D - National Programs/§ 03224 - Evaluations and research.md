@@ -92,7 +92,7 @@
 
 #### (B) Study on resources available to assist disconnected youth
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtaining the skills, credentials, and work experience necessary to become economically self-sufficient.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtainingthe skills, credentials, and work experience necessary to become economically self-sufficient.
 
 #### (C) Study of effectiveness of workforce development system in meeting business needs
 

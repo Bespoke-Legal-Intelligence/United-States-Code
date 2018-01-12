@@ -148,7 +148,7 @@
 
 #### (B) Report by International Trade Commission
 
-&emsp;&emsp;The President shall promptly inform the United States International Trade Commission of the decision of the President to submit a report to Congress under paragraph\(2). The International Trade Commission shall submit to Congress as soon as practicable, but not later than June 1, 2018, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between June 29, 2015, and the date on which the President decides to seek an extension requested under paragraph (2).
+&emsp;&emsp;The President shall promptly inform the United States International Trade Commission of the decision of the President to submit a report to Congress under paragraph (2). The International Trade Commission shall submit to Congress as soon as practicable, but not later than June 1, 2018, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between June 29, 2015, and the date on which the President decides to seek an extension requested under paragraph (2).
 
 #### (4) Status of reports
 

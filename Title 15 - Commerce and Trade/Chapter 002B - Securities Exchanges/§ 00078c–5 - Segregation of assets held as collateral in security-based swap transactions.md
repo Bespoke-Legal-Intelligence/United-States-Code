@@ -2,7 +2,7 @@
 
 #### (a) Registration requirement
 
-It shall be unlawful for any person to accept any money, securities, or property (or to extend any credit in lieu of money, securities, or property) from, for, or on behalf of a security-based swaps customer to margin, guarantee, or secure a security-based swap cleared by or through a clearing agency (including money, securities, or property accruing to the customer as the result of such a security-based swap), unless the person shall have registered under this chapter with the Commission as a broker, dealer, or security-based swap dealer, and the registration shall not have expired nor been suspended nor revoked.
+It shall be unlawful for any person to accept any money, securities, or property (or to extendany credit in lieu of money, securities, or property) from, for, or on behalf of a security-based swaps customer to margin, guarantee, or secure a security-based swap cleared by or through a clearing agency (including money, securities, or property accruing to the customer as the result of such a security-based swap), unless the person shall have registered under this chapter with the Commission as a broker, dealer, or security-based swap dealer, and the registration shall not have expired nor been suspended nor revoked.
 
 #### (b) Cleared security-based swaps
 
@@ -28,7 +28,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (2) Commission action
 
-&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property receivedby the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
+&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
 
 #### (d) Permitted investments
 

@@ -14,3 +14,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1981</b>—Pub. L. 97–113 substituted "sold or leased" for "sold" in first sentence.
 
+#### Effective Date
+
+Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
+

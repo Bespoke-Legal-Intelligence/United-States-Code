@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondary education and, as applicable, early childhood education programs and services.
+&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondaryeducation and, as applicable, early childhood education programs and services.
 
 #### (2) Restoring State support for education
 

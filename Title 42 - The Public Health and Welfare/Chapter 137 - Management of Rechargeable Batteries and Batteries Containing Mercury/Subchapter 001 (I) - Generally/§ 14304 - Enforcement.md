@@ -14,7 +14,7 @@ An order under subsection (a)(1) shall state with reasonable specificity the nat
 
 #### (c) Considerations
 
-In assessing a civil penalty under subsection (a)(1), the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+In assessing a civil penalty under subsection (a)(1), the Administrator shall take into accountthe seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 #### (d) Finality of order; request for hearing
 
@@ -26,7 +26,7 @@ On receiving a request under subsection (d), the Administrator shall promptly co
 
 #### (f) Subpoena power
 
-In connection with any hearing on the record under this section, the Administrator may issuesubpoenas for the attendance and testimony of witnesses and for the production of relevant papers, books, and documents.
+In connection with any hearing on the record under this section, the Administrator may issue subpoenas for the attendance and testimony of witnesses and for the production of relevant papers, books, and documents.
 
 #### (g) Continued violation after expiration of period for compliance
 

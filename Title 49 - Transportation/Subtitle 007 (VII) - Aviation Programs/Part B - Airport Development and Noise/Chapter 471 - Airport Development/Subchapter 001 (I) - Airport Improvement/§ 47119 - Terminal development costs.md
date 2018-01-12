@@ -34,7 +34,7 @@ Repaying Borrowed Money.—
 
 &emsp;(1)
 
-Terminal development costs incurred after june 30, 1970, and before july 12, 1976.—An amount apportioned under section 47114 and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
+Terminal development costs incurred after june 30, 1970, and before july 12, 1976.—An amount apportioned under section 47114and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Applicability of certain limitations.—A grant under this subsection shall be s
 
 Availability of Amounts.—In a fiscal year, the Secretary may make available—
 
-&emsp;(1) to a sponsor of a primary airport, any part of amounts apportioned to the sponsor forthe fiscal year under section 47114(c)(1) of this title to pay project costs allowable under subsection (a);
+&emsp;(1) to a sponsor of a primary airport, any part of amounts apportioned to the sponsor for the fiscal year under section 47114(c)(1) of this title to pay project costs allowable under subsection (a);
 
 &emsp;(2) on approval of the Secretary, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund established under section 47115 of this title—
 

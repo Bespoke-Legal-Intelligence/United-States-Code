@@ -56,7 +56,7 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
-&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and willcomply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
+&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
 &emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
@@ -76,7 +76,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) After December 29, 1981, Federal grants shall not be made for the purpose of providing assistance solely for facility plans, or plans, specifications, and estimates for any proposed project for the construction of treatment works. In the event that the proposed project receives a grant under this section for construction, the Administrator shall make an allowance in such grant for non-Federal funds expended during the facility planning and advanced engineering and design phase at the prevailing Federal share under section 1282(a) of this title, based on the percentage of total project costs which the Administrator determines is the general experience for such projects.
 
-(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
+(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under thissubchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
 
 (B) Such an advance shall be limited to the allowance for such costs which the Administrator establishes under paragraph (1) of this subsection, and shall be provided only to a potential grant applicant which is a small community and which in the judgment of the State would otherwise be unable to prepare a request for a grant for construction costs under this section.
 
@@ -94,7 +94,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
-(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combinedstorm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
+(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
 #### (o) Capital financing plan
 
@@ -242,7 +242,7 @@ Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
 Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
 
-Environmental Protection Agency" and "
+Environmental Protection Agency" and"
 
 state and tribal assistance grants"\], subject to such terms and conditions as the Administrator shall establish, to any State or federally recognized Indian tribe for multimedia or single media pollution prevention, control and abatement and related environmental activities at the request of the Governor or other appropriate State official or the tribe".
 
@@ -262,7 +262,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental Financing Authority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
 
-"(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out anyproject for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
+"(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
 "(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one of whom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
 
@@ -280,7 +280,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(f) \[Initial Capital\] To provide initial capital to the Authority the Secretary of the Treasury is authorized to advance the funds necessary for this purpose. Each such advance shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. Interest payments on such advances may be deferred, at the discretion of the Secretary, but any such deferred payments shall themselves bear interest at the rate specified in this section. There is authorized to be appropriated not to exceed $100,000,000, which shall be available for the purposes of this subsection.
 
-"(g) \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of the Treasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
+"(g) \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of theTreasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
 
 "(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 

@@ -18,7 +18,7 @@ Whoever—
 
 &emsp;(4) having knowledge of the occurrence of any event affecting (1) his initial or continued right to any payment under this subchapter, or (2) the initial or continued right to any payment of any other individual in whose behalf he has applied for or is receiving such payment, conceals or fails to disclose such event with an intent fraudulently to secure payment either in a greater amount than is due or when no payment is authorized; or
 
-&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully converts such a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
+&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully convertssuch a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
 
 &emsp;(6) willfully, knowingly, and with intent to deceive the Commissioner of Social Security as to his true identity (or the true identity of any other person) furnishes or causes to be furnished false information to the Commissioner of Social Security with respect to any information required by the Commissioner of Social Security in connection with the establishment and maintenance of the records provided for in section 405(c)(2) of this title; or
 
@@ -34,7 +34,7 @@ Whoever—
 
 &emsp;(9) conspires to commit any offense described in any of paragraphs (1) through (4),
 
-> shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including aclaimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
+> shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
 
 #### (b) Restitution
 
@@ -64,7 +64,7 @@ Any person or other entity who is convicted of a violation of any of the provisi
 
 #### (d) Effect upon certification as payee; definitions
 
-Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7), the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
+Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose ofsubsection (a)(7), the terms "social security number" and "social security account number" mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
 
 #### (e) Application of subsection (a)(6) and (7) to certain aliens
 
@@ -92,7 +92,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1),Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(a)(1), (b)(1), Nov. 2, 2015, 129 Stat. 602, 603.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(a)(1), (b)(1), Nov. 2, 2015, 129 Stat. 602, 603.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–123, §4(c), Dec. 29, 1981, 95 Stat. 1664, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\]."
+Pub. L. 97–123, §4(c), Dec. 29, 1981, 95 Stat. 1664, provided that: "The amendments made by subsections (a)and (b) \[amending this section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\]."
 
 #### Effective Date of 1972 Amendment
 

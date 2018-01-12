@@ -14,7 +14,7 @@
 
 > The Board may issue such regulations as are necessary to carry out this section, and, in consultation with the Comptroller of the Currency and the Federal Deposit Insurance Company, may by regulation or order permit such exceptions to the foregoing prohibition and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title as it considers will not be contrary to the purposes of this chapter.
 
-(2)(A) No bank which maintains a correspondent account in the name of another bank shallmake an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
+(2)(A) No bank which maintains a correspondent account in the name of another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
 (B) No bank shall open a correspondent account at another bank while such bank has outstanding an extension of credit to an executive officer or director of, or other person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, the bank desiring to open the account or to any related interest of such person, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
@@ -30,7 +30,7 @@ Civil money penalty.—
 
 &emsp;(i)
 
-First tier.—Any bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+First tier.—Any bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect tosuch bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
 &emsp;(ii)
 

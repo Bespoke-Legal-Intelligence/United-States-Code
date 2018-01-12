@@ -27,10 +27,14 @@
 | :--- | ---: |
 | [50131\.](Subchapter%20003%20%28III%29%20-%20Federal%20Acquisition%20of%20Space%20Transportation%20Services/%C2%A7%2050131%20-%20Requirement%20to%20procure%20commercial%20space%20transportation%20services.md) | Requirement to procure commercial space transportation services. |
 | [50132\.](Subchapter%20003%20%28III%29%20-%20Federal%20Acquisition%20of%20Space%20Transportation%20Services/%C2%A7%2050132%20-%20Acquisition%20of%20commercial%20space%20transportation%20services.md) | Acquisition of commercial space transportation services. |
-| [50133\.](Subchapter%20003%20%28III%29%20-%20Federal%20Acquisition%20of%20Space%20Transportation%20Services/%C2%A7%2050133%20-%20Shuttle%20privatization.md) | Shuttle privatization. |
+| \[50133. | Repealed.\] |
 | [50134\.](Subchapter%20003%20%28III%29%20-%20Federal%20Acquisition%20of%20Space%20Transportation%20Services/%C2%A7%2050134%20-%20Use%20of%20excess%20intercontinental%20ballistic%20missiles.md) | Use of excess intercontinental ballistic missiles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2017</b>—Pub. L. 115–10, title IV, §416(c), Mar. 21, 2017, 131 Stat. 35, struck out item 50133 "Shuttle privatization".
 
 
 ---

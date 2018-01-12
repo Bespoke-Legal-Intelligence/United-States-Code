@@ -142,7 +142,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary shall issue standards to assure consistent performance by laboratoriesissued a certificate under this section of valid and reliable laboratory examinations and other procedures. Such standards shall require each laboratory issued a certificate under this section—
+&emsp;The Secretary shall issue standards to assure consistent performance by laboratories issued a certificate under this section of valid and reliable laboratory examinations and other procedures. Such standards shall require each laboratory issued a certificate under this section—
 
 &emsp;&emsp;(A) to maintain a quality assurance and quality control program adequate and appropriate for the validity and reliability of the laboratory examinations and other procedures of the laboratory and to meet requirements relating to the proper collection, transportation, and storage of specimens and the reporting of results,
 
@@ -260,7 +260,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Procedures
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how eachof the intermediate sanctions is to be imposed under paragraph (1). Such procedures shall provide for notice to the laboratory and a reasonable opportunity to respond to the proposed sanction and appropriate procedures for appealing determinations relating to the imposition of intermediate sanctions <sup>4</sup>
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the intermediate sanctions is to be imposed under paragraph (1). Such procedures shall provide for notice to the laboratory and a reasonable opportunity to respond to the proposed sanction and appropriate procedures for appealing determinations relating to the imposition of intermediate sanctions <sup>4</sup>
 
 #### (i) Suspension, revocation, and limitation
 
@@ -300,7 +300,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
-&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
+&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under thissection, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
 
 #### (4) Improper referrals
 

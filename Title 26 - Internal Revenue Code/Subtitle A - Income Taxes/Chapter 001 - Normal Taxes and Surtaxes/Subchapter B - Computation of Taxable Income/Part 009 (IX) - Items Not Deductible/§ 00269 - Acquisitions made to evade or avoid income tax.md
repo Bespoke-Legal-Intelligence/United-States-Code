@@ -60,9 +60,9 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: "The amendmentsmade by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date."
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as a note under section 1551 of this title.
+Pub. L. 88–272, title II, §235(d), Feb. 26, 1964, 78 Stat. 127, provided that: "The amendments made by subsections (a) and (c) \[enacting sections 1561 to 1563 of this title and amending this section and sections 441 and 802 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[amending section 1551 of this title\] shall apply with respect to transfers made after June 12, 1963."
 

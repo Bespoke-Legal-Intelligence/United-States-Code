@@ -6,7 +6,7 @@ General Powers of Secretary.—The Secretary of the Treasury may (except under s
 
 &emsp;(1) except as provided in subsection (b)(2), delegate duties and powers under this subchapter to an appropriate supervising agency and the United States Postal Service;
 
-&emsp;(2) require a class of domestic financial institutions or nonfinancial trades or businesses to maintain appropriate procedures to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering;
+&emsp;(2) require a class of domestic financial institutions or nonfinancial trades or businessesto maintain appropriate procedures to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering;
 
 &emsp;(3) examine any books, papers, records, or other data of domestic financial institutions or nonfinancial trades or businesses relevant to the recordkeeping or reporting requirements of this subchapter;
 
@@ -116,7 +116,7 @@ In general.—If a financial institution or any director, officer, employee, or 
 
 &emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported; and
 
-&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the FederalGovernment or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +192,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the approp
 
 Concentration accounts.—The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
-&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions thatmove their funds into, out of, or through the concentration accounts of the financial institution;
+&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through the concentration accounts of the financial institution;
 
 &emsp;&emsp;(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
@@ -256,7 +256,7 @@ Private banking account.—The term "private banking account" means an account (
 
 &emsp;&emsp;&emsp;(ii) is established on behalf of 1 or more individuals who have a direct or beneficial ownership interest in the account; and
 
-&emsp;&emsp;&emsp;(iii) is assigned to, or is administered or managed by, in whole or in part, an officer, employee, or agent of a financial institution acting as a liaison between the financial institution and the direct or beneficial owner of the account.
+&emsp;&emsp;&emsp;(iii) is assigned to, or is administered or managed by, in whole or in part, an officer,employee, or agent of a financial institution acting as a liaison between the financial institution and the direct or beneficial owner of the account.
 
 (j)
 
@@ -268,7 +268,7 @@ In general.—A financial institution described in subparagraphs (A) through (G)
 
 &emsp;(2)
 
-Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the UnitedStates for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
+Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
 
 &emsp;(3)
 
@@ -428,7 +428,7 @@ Feasibility report.—
 
 &emsp;&emsp;(A)
 
-In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
+In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform andTerrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
 &emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
@@ -496,7 +496,7 @@ The date of enactment of the International Money Laundering Abatement and Financ
 
 The date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (n)(4)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
-The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(5)(A), probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
+The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(5)(A),probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
@@ -610,7 +610,7 @@ Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
-Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect atthe end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
+Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
 Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 
@@ -676,7 +676,7 @@ Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the
 
 "(b)
 
-Improved Reporting of Criminal Schemes by Law Enforcement Agencies.—The Secretary of the Treasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency's ability to examine for and identify money laundering activity.
+Improved Reporting of Criminal Schemes by Law Enforcement Agencies.—The Secretary of theTreasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency's ability to examine for and identify money laundering activity.
 
 "(c)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation shall provide assistance, by grant, contract, or cooperative agreement, to entities with expertise in the dissemination of information through clearinghouses to establish 1 or more clearinghouses for information regarding the national service laws, which shall include information on service-learning and onservice through other programs receiving assistance under the national service laws.
+The Corporation shall provide assistance, by grant, contract, or cooperative agreement, to entities with expertise in the dissemination of information through clearinghouses to establish 1 or more clearinghouses for information regarding the national service laws, which shall include information on service-learning and on service through other programs receiving assistance under the national service laws.
 
 #### (b) Function of clearinghouse
 
@@ -48,5 +48,5 @@ A prior section 12653o, Pub. L. 101–610, title I, §195O, as added Pub. L. 102
 
 #### Effective Date
 
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 

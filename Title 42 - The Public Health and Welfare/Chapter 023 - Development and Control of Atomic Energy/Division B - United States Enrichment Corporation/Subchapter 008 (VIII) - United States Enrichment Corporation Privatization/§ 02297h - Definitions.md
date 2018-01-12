@@ -6,7 +6,7 @@ Except as provided in section 2297h–10a of this title, for purposes of this su
 
 &emsp;(2) The term "Corporation" means the United States Enrichment Corporation and, unless the context otherwise requires, includes the private corporation and any successor thereto following privatization.
 
-&emsp;(3) The term "gaseous diffusion plants" means the Paducah Gaseous Diffusion Plant at Paducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
+&emsp;(3) The term "gaseous diffusion plants" means the Paducah Gaseous Diffusion Plant atPaducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
 
 &emsp;(4) The term "highly enriched uranium" means uranium enriched to 20 percent or more of the uranium-235 isotope.
 

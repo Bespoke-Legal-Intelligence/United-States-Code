@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification ofan officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
 
 #### (g) Classification of corporations; regulations
 
@@ -88,7 +88,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (1) In general
 
-&emsp;Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidenceto the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
+&emsp;Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidence to the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
 
 #### (2) International information
 
@@ -182,11 +182,11 @@ For applicability to rules promulgated or proposed under subsec. (g) of this sec
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
-Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive studyand evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission
 

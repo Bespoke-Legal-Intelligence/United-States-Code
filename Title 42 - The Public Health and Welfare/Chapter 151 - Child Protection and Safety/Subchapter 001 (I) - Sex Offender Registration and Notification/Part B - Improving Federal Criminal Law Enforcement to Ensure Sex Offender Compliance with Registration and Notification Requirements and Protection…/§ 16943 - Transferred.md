@@ -1,0 +1,6 @@
+### §16943. Transferred
+
+#### Codification
+
+Section 16943 was editorially reclassified as section 20943 of Title 34, Crime Control and Law Enforcement.
+

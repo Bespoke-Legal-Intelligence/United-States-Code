@@ -84,7 +84,7 @@ A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, rela
 
 #### Amendments
 
-<b>2005</b>—Par. (9). Pub. L. 109–58 designated existing provisions as subpar. (A), inserted heading, redesignatedformer subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+<b>2005</b>—Par. (9). Pub. L. 109–58 designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 #### Short Title of 1986 Amendment
 

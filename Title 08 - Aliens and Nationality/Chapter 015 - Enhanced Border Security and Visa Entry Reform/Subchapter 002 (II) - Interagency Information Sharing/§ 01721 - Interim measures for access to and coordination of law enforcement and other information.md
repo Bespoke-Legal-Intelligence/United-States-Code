@@ -16,7 +16,7 @@ Until the plan required by subsection (c) is implemented, Federal law enforcemen
 
 #### (1) Requirement for plan
 
-&emsp;Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) that requires Federal lawenforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
+&emsp;Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) that requires Federal law enforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
 
 #### (2) Consultation requirement
 

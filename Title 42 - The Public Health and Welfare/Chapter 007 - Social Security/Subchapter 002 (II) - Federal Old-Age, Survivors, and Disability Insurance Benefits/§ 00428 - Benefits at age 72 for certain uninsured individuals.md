@@ -20,7 +20,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 #### (c) Reduction for government pension system benefits
 
-(1) The benefit amount of any individual under this section for any month shall be reduced (butnot below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
+(1) The benefit amount of any individual under this section for any month shall be reduced (but not below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
 
 (2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 &emsp;(3) any loss in interest to such Trust Fund resulting from such payments and expenses,
 
-> in order to place such Trust Fund in the same position at the end of such fiscal year as itwould have been in if such payments had not been made.
+> in order to place such Trust Fund in the same position at the end of such fiscal year as it would have been in if such payments had not been made.
 
 #### (h) Definitions
 

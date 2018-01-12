@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) any dividend consisting only of shares of the institution or company or rights to purchase such shares; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agencydetermines is not a distribution for purposes of this section;
+&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agency determines is not a distribution for purposes of this section;
 
 &emsp;&emsp;&emsp;(ii) a payment by an insured depository institution or company to repurchase, redeem, retire, or otherwise acquire any of its shares or other ownership interests, including any extension of credit to finance an affiliated company's acquisition of those shares or interests; or
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) establish any additional relevant capital measures to carry out the purpose of this section; or
 
-&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that the measure is no longer an appropriate means for carrying out the purpose of this section.
+&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that themeasure is no longer an appropriate means for carrying out the purpose of this section.
 
 #### (2) Capital categories generally
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) if the insured depository institution is undercapitalized, each company having control of the institution has—
 
-&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized on average during each of 4 consecutive calendar quarters; and
+&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized onaverage during each of 4 consecutive calendar quarters; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provided appropriate assurances of performance.
 
@@ -292,7 +292,7 @@ For purposes of this section:
 
 #### (B) Restricting transactions with affiliates
 
-&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection (d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
+&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection\(d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
 
 &emsp;&emsp;(ii) Further restricting the institution's transactions with affiliates.
 
@@ -490,7 +490,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;(1) to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
 
-&emsp;(2) to a bridge depository institution, none of the voting securities of which are owned by aperson or agency other than the Corporation or the Resolution Trust Corporation.
+&emsp;(2) to a bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
 
 #### (k) Reviews required when Deposit Insurance Fund incurs losses
 
@@ -538,7 +538,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) $150,000,000, if the loss occurs during the period beginning on January 1, 2012, and ending on December 31, 2013; and
 
-&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
+&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee onBanking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
 
 #### (3) Deadline for report
 
@@ -572,7 +572,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;For the 6-month period ending on March 31, 2010, and each 6-month period thereafter, the Inspector General of each Federal banking agency shall—
 
-&emsp;&emsp;&emsp;(i) identify losses that the Inspector General estimates have been incurred by the Deposit Insurance Fund during that 6-month period, with respect to the insureddepository institutions supervised by the Federal banking agency;
+&emsp;&emsp;&emsp;(i) identify losses that the Inspector General estimates have been incurred by the Deposit Insurance Fund during that 6-month period, with respect to the insured depository institutions supervised by the Federal banking agency;
 
 &emsp;&emsp;&emsp;(ii) for each loss incurred by the Deposit Insurance Fund that is not a material loss, determine—
 
@@ -610,7 +610,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 #### (m) Other authority not affected
 
-This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in addition to (but not in derogation of) that required under this section.
+This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in additionto (but not in derogation of) that required under this section.
 
 #### (n) Administrative review of dismissal orders
 
@@ -668,7 +668,7 @@ Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any ins
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat.2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### References in Text
 

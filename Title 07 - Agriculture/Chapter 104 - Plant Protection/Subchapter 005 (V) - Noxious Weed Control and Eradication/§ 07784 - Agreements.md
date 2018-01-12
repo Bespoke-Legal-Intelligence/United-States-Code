@@ -50,7 +50,7 @@ At the request of the Governor of a State, the Secretary may enter into a cooper
 
 &emsp;(1) there is a demonstrated need for the assistance;
 
-&emsp;(2) the noxious weed is considered to be a significant threat to native fish, wildlife, or their habitats, as determined by the Secretary;
+&emsp;(2) the noxious weed is considered to be a significant threat to native fish, wildlife, ortheir habitats, as determined by the Secretary;
 
 &emsp;(3) the economic impact of delaying action is considered by the Secretary to be substantial; and
 

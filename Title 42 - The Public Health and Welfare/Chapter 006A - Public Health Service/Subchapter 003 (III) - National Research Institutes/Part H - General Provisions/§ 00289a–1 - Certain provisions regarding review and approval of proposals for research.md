@@ -38,7 +38,7 @@
 
 #### (4) Preliminary matters regarding use of procedures
 
-&emsp;(A) If the Secretary makes a determination that an advisory board should be convened forpurposes of paragraph (1), the Secretary shall, through a statement published in the Federal Register, announce the intention of the Secretary to convene such a board.
+&emsp;(A) If the Secretary makes a determination that an advisory board should be convened for purposes of paragraph (1), the Secretary shall, through a statement published in the Federal Register, announce the intention of the Secretary to convene such a board.
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
@@ -98,7 +98,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

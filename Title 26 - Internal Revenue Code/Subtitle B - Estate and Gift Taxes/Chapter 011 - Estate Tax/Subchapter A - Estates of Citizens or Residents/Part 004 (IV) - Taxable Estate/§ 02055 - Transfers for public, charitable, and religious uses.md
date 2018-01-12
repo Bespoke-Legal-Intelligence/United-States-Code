@@ -74,7 +74,7 @@ Reformable interest.—For purposes of this paragraph—
 
 &emsp;&emsp;(i)
 
-In general.—The term "reformable interest" means any interest for which a deduction would be allowable under subsection (a) at the time of the decedent's death but for paragraph (2).
+In general.—The term "reformable interest" means any interest for which a deduction would be allowable under subsection\(a) at the time of the decedent's death but for paragraph (2).
 
 &emsp;&emsp;(ii)
 
@@ -128,7 +128,7 @@ Void or reformed trust in cases of insufficient remainder interests.—In the ca
 
 &emsp;&emsp;(ii) changed by reformation, amendment, or otherwise to meet such requirement by reducing the payout rate or the duration (or both) of any noncharitable beneficiary's interest to the extent necessary to satisfy such requirement,
 
-> &emsp;pursuant to a proceeding that is commenced within the period required in subparagraph\(C)(iii). In a case described in clause (i), no deduction shall be allowed under this title for any transfer to the trust and any transactions entered into by the trust prior to being declared void shall be treated as entered into by the transferor.
+> &emsp;pursuant to a proceeding that is commenced within the period required in subparagraph (C)(iii). In a case described in clause (i), no deduction shall be allowed under this title for any transfer to the trust and any transactions entered into by the trust prior to being declared void shall be treated as entered into by the transferor.
 
 (4)
 
@@ -148,7 +148,7 @@ Qualified contribution defined.—For purposes of this paragraph, the term "qual
 
 &emsp;(D)
 
-Qualified organization defined.—For purposes of this paragraph, the term "qualified organization" means any organization described in section 501(c)(3) other than a private foundation (as defined in section 509). For purposes of the preceding sentence, a private operating foundation (as defined in section 4942(j)(3)) shall not be treated as a private foundation.
+Qualified organization defined.—For purposes of this paragraph, the term "qualified organization" means any organization described in section 501(c)(3) other than a private foundation (as defined in section 509). For purposes of the preceding sentence, a private operating foundation (as defined in section4942(j)(3)) shall not be treated as a private foundation.
 
 (5)
 
@@ -196,7 +196,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 #### References in Text
 
-Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (g)(6), is classified tosection 2697 of Title 22, Foreign Relations and Intercourse.
+Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (g)(6), is classified to section 2697 of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 
@@ -264,13 +264,13 @@ Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to th
 
 <b>1978</b>—Subsec. (e)(3). Pub. L. 95–600 inserted "or (B)" before "of paragraph (2)", substituted "on or before December 31, 1978" for "on or before December 31, 1977" wherever appearing and "which meets the requirements of such subparagraph (a) or (B) (as the case may be)," for "which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out "(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)" after "or transfers" in provisions preceding par. (1), struck out "Territory," after "State," in par. (1), inserted ", or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)," after "encouragement of art" and substituted "which is notdisqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation," for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation," in par. (2), substituted "such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation," for "no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation," in par. (3), and, in provisions following par. (4), substituted "a qualified disclaimer" for "an irrevocable disclaimer" and "such qualified disclaimer" for "such irrevocable disclaimer".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out "(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)" after "or transfers" in provisions preceding par. (1), struck out "Territory," after "State," in par. (1), inserted ", or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment)," after "encouragement of art" and substituted "which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation," for "no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation," in par. (2), substituted "such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation," for "no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation," in par. (3), and, in provisions following par. (4), substituted "a qualified disclaimer" for "an irrevocable disclaimer" and "such qualified disclaimer" for "such irrevocable disclaimer".
 
 Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under which a bequest in trust, if the surviving spouse of the decedent was entitled for life to all of the net income from the trust and the surviving spouse had a power of appointment over the corpus of that trust exercisable by will in favor of, among others, organizations described in subsec. (a)(2), could be deemed a transfer to the organization by the decedent under certain conditions.
 
 Subsec. (e)(2). Pub. L. 94–455, §2124(e)(2), substituted "(other than an interest described in section 170(f)(3)(B))" for "(other than a remainder interest in a personal residence or farm or an undivided portion of the decedent's entire interest in property)" in provisions preceding subpar. (A).
 
-Subsec. (e)(3). Pub. L. 94–455, §1304(a), §1906(b)(13)(A), substituted "will executed before December 31, 1977," for "will executed before September 21, 1974," and "amended or conformed on or before December 31, 1977, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1977" for "amended or conformed on or before December 31, 1975, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1975" and struck out "or his delegate" after "Secretary".
+Subsec. (e)(3). Pub. L. 94–455, §1304(a), §1906(b)(13)(A), substituted "will executed before December 31, 1977," for "will executed before September 21, 1974," and "amended or conformed on or before December 31, 1977, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1977" for "amended or conformed on or beforeDecember 31, 1975, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1975" and struck out "or his delegate" after "Secretary".
 
 Subsec. (f). Pub. L. 94–455, §1902(a)(4)(B), extended par. (2) by inserting reference to gifts, struck out par. (3) which made a cross reference to section 2 of the Act of Aug. 8, 1946 (60 Stat. 924; 5 U.S.C. 393) for construction of bequests for benefit of the library of the Post Office Department as bequests to or for the use of the United States, redesignated pars. (4)–(11) as (3)–(10), respectively, substituted "For treatment of gifts and bequests for the benefit of the Office of Naval Records and History as gifts or bequests to or for the use of the United States, see section 7222 of title 10, United States Code" for "For exemption of bequests for benefit of Office of Naval Records and Library, Navy Department, see section 2 of the Act of March 4, 1937 (50 Stat. 25; 5 U.S.C. 419b)" in par. (3) as so redesignated, substituted "For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191)" for "For exemption of bequests to or for benefit of National Park Service, see section 5 of the Act of July 10, 1935 (49 Stat. 478; 16 U.S.C. 19c)" in par. (4) as so redesignated, and corrected obsolete and inaccurate references in pars. (5)–(10) as so redesignated.
 
@@ -422,7 +422,7 @@ United States International Development Cooperation Agency (other than Agency fo
 
 #### Special Donations
 
-Pub. L. 99–514, title XIV, §1422(d), Oct. 22, 1986, 100 Stat. 2717, provided that: "If the Secretary of the Interior acquires by donation after December 31, 1986, aconservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) \[see Pub. L. 99–420, Sept. 25, 1986, §102(h), 99 Stat. 955, 957\], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 \[now 1986\], as added by this section."
+Pub. L. 99–514, title XIV, §1422(d), Oct. 22, 1986, 100 Stat. 2717, provided that: "If the Secretary of the Interior acquires by donation after December 31, 1986, a conservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) \[see Pub. L. 99–420, Sept. 25, 1986, §102(h), 99 Stat. 955, 957\], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 \[now 1986\], as added by this section."
 
 #### Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 

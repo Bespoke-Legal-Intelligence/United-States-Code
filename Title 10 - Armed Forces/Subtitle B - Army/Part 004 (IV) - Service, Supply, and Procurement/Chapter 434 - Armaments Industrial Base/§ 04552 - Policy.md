@@ -2,7 +2,7 @@
 
 It is the policy of the United States—
 
-&emsp;(1) to encourage, to the maximum extent practicable, commercial firms to use Government-owned, contractor-operated ammunition manufacturing, storage, maintenance, renovation, and demilitarization facilities of the Department of the Army;
+&emsp;(1) to encourage, to the maximum extent practicable, commercial firms to use Government-owned, contractor-operated ammunitionmanufacturing, storage, maintenance, renovation, and demilitarization facilities of the Department of the Army;
 
 &emsp;(2) to use such facilities for supporting programs, projects, policies, and initiatives that promote competition in the private sector of the United States economy and that advance United States interests in the global marketplace;
 

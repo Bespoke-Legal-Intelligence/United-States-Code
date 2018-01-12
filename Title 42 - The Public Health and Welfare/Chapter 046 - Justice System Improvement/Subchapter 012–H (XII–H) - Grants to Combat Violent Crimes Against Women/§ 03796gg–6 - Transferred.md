@@ -1,0 +1,6 @@
+### §3796gg–6. Transferred
+
+#### Codification
+
+Section 3796gg–6 was editorially reclassified as section 20121 of Title 34, Crime Control and Law Enforcement.
+

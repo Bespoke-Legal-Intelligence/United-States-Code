@@ -30,6 +30,10 @@ Not later than 3 years after December 4, 2003, the Comptroller General of the Un
 
 (Pub. L. 108–159, title V, §517, Dec. 4, 2003, 117 Stat. 2008.)
 
+#### Effective Date
+
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
+
 #### Definitions
 
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.

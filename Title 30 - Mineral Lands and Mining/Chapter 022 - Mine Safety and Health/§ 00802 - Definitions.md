@@ -26,7 +26,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(k) "accident" includes a mine explosion, mine ignition, mine fire, or mine inundation, or injury to, or death of, any person;
 
-&emsp;(l) "mandatory health or safety standard" means the interim mandatory health or safety standards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
+&emsp;(l) "mandatory health or safety standard" means the interim mandatory health or safetystandards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
 
 &emsp;(m) "Panel" means the Interim Compliance Panel established by this chapter; and
 

@@ -16,7 +16,7 @@ Notice.—On the commencement by the United States of an action or proceeding un
 
 &emsp;"\[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a) and a statement that different property may be so exempted with respect to the State in which the debtor resides.\]
 
-"If you are \[name of judgment debtor\], you have a right to ask the court to return yourproperty to you if you think the property the Government is taking qualifies under one of the above exemptions \[For a default judgment:\] or if you think you do not owe the money to the United States Government that it says you do.
+"If you are \[name of judgment debtor\], you have a right to ask the court to return your property to you if you think the property the Government is taking qualifies under one of the above exemptions \[For a default judgment:\] or if you think you do not owe the money to the United States Government that it says you do.
 
 "If you want a hearing, you must notify the court within 20 days after you receive this notice. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at \[address\]. If you wish, you may use this notice to request the hearing by checking the box below and mailing this notice to the court clerk. You must also send a copy of your request to the Government at \[address\], so the Government will know you want a hearing. The hearing will take place within 5 days after the clerk receives your request, if you ask for it to take place that quickly, or as soon after that as possible.
 
@@ -48,13 +48,17 @@ Hearing.—By requesting, within 20 days after receiving the notice described in
 
 (e)
 
-Sale of Property.—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
+Sale of Property.—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If ahearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4949.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "you".</i>
 

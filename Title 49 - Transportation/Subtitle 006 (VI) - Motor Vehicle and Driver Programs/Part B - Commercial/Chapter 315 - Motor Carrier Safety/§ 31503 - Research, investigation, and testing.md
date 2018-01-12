@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation may investigate and report 
 
 (b)
 
-Use of Services.—In carrying out this chapter, the Secretary may use the services of a department, agency, or instrumentality of the Government having special knowledge about safety, to conduct scientific and technical research, investigation, and testing when necessary to promote safety of operation and equipment of motor vehicles. The Secretary may reimburse the department, agency, or instrumentality for the services provided.
+Use of Services.—In carrying out this chapter, the Secretary may use the services of a department, agency, or instrumentality of theGovernment having special knowledge about safety, to conduct scientific and technical research, investigation, and testing when necessary to promote safety of operation and equipment of motor vehicles. The Secretary may reimburse the department, agency, or instrumentality for the services provided.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, §3103; renumbered §31503 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1030; Pub. L. 104–88, title III, §308(k)(4), Dec. 29, 1995, 109 Stat. 948.)
 

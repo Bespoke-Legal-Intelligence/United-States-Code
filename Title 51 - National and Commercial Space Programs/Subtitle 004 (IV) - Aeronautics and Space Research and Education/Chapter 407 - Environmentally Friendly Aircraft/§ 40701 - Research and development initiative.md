@@ -4,7 +4,7 @@ The Administrator may establish an initiative with the objective of developing, 
 
 &emsp;(1)
 
-Noise levels.—Noise levels on takeoff and on airport approach and landing that do not exceed ambient noise levels in the absence of flight operations in the vicinity of airports from which such commercial aircraft would normally operate.
+Noise levels.—Noise levels on takeoff and on airport approach and landing that donot exceed ambient noise levels in the absence of flight operations in the vicinity of airports from which such commercial aircraft would normally operate.
 
 &emsp;(2)
 

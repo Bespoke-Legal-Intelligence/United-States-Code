@@ -46,5 +46,5 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title IX, §913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: "The authority providedby section 9317(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science."
+Pub. L. 103–337, div. A, title IX, §913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: "The authority provided by section 9317(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science."
 

@@ -16,7 +16,7 @@ A public housing agency may own, operate, assist, or otherwise participate in 1 
 
 #### (c) Compliance with public housing requirements
 
-The units assisted with capital or operating assistance in a mixed-finance project shall be developed, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwisespecified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
+The units assisted with capital or operating assistance in a mixed-finance project shall be developed, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwise specified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
 
 #### (d) Mixed-finance projects
 
@@ -62,7 +62,7 @@ Each mixed-finance project shall be developed—
 
 #### (g) Use of savings
 
-Notwithstanding any other provision of this chapter, to the extent deemed appropriate by the Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may use such resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
+Notwithstanding any other provision of this chapter, to the extent deemed appropriate bythe Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may use such resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
 
 #### (h) Effect of certain contract terms
 

@@ -78,7 +78,7 @@ For purposes of this subchapter—
 
 #### (4) Tax imposed only once
 
-&emsp;No tax shall be imposed by section 4131 on the sale of any vaccine if tax was imposed bysection 4131 on any prior sale of such vaccine and such tax is not abated, credited, or refunded.
+&emsp;No tax shall be imposed by section 4131 on the sale of any vaccine if tax was imposed by section 4131 on any prior sale of such vaccine and such tax is not abated, credited, or refunded.
 
 #### (c) Other special rules
 

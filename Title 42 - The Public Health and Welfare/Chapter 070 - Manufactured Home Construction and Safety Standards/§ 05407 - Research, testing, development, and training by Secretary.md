@@ -16,7 +16,7 @@ The Secretary shall conduct research, testing, development, and training necessa
 
 #### (b) Contracts and grants with States, interstate agencies, and independent institutions
 
-The Secretary is authorized to conduct research, testing, development, and training as authorized to be carried out by subsection (a) of this section by contracting for or making grantsfor the conduct of such research, testing, development, and training to States, interstate agencies, and independent institutions.
+The Secretary is authorized to conduct research, testing, development, and training as authorized to be carried out by subsection (a) of this section by contracting for or making grants for the conduct of such research, testing, development, and training to States, interstate agencies, and independent institutions.
 
 #### (c) Definitions
 
@@ -55,4 +55,8 @@ Subsec. (c). Pub. L. 106–569, §607(b), added subsec. (c).
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under section 5401 of this title.
 

@@ -1,6 +1,6 @@
 ### §8155. Pilot programs; grants to medical schools
 
-(a) The Secretary may establish an Advisory Subcommittee on Programs for Exchange of Medical Information, of the Special Medical Advisory Group, established under section 7312 of this title, to advise the Secretary on matters regarding the administration of this section and to coordinate these functions with other research and education programs in the Department of Medicine and Surgery. The Assistant Under Secretary for Health charged with administration of the Department of Medicine and Surgery medical research program shall be an ex officio member of this Subcommittee.
+(a) The Secretary may establish an Advisory Subcommittee on Programs for Exchange ofMedical Information, of the Special Medical Advisory Group, established under section 7312 of this title, to advise the Secretary on matters regarding the administration of this section and to coordinate these functions with other research and education programs in the Department of Medicine and Surgery. The Assistant Under Secretary for Health charged with administration of the Department of Medicine and Surgery medical research program shall be an ex officio member of this Subcommittee.
 
 (b) The Secretary, upon the recommendation of the Subcommittee, is authorized to make grants to medical schools, hospitals, and research centers to assist such medical schools, hospitals, and research centers in planning and carrying out agreements authorized by section 8154 of this title. Such grants may be used for the employment of personnel, the construction of facilities, the purchasing of equipment when necessary to implement such programs, and for such other purposes as will facilitate the administration of this section.
 
@@ -10,7 +10,7 @@
 
 (d) The Secretary, after consultation with the Subcommittee shall prescribe regulations covering the terms and conditions for making grants under this section.
 
-(e) Each recipient of a grant under this section shall keep such records as the Secretary mayprescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such records as will facilitate an effective audit.
+(e) Each recipient of a grant under this section shall keep such records as the Secretary may prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such records as will facilitate an effective audit.
 
 (f) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient of any grant under this section which are pertinent to any such grant.
 

@@ -38,7 +38,7 @@ Numerous changes were made in phraseology and superfluous language was omitted.
 
 #### Senate Revision Amendment
 
-As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, which was classified to Title 28, U.S.C., 1946 ed., §530, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, which was classified to Title 28,U.S.C., 1946 ed., §530, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 Although section 1131 of Title 26, U.S.C. (Internal Revenue Code) is one of the sources of this section, it was struck out of the schedule of repeals by Senate amendment and accordingly remains in Title 26. See 80th Congress Senate Report No. 1559.
 

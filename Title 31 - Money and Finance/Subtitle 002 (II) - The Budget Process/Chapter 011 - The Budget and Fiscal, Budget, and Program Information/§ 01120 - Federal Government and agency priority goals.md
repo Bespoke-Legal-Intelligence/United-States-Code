@@ -38,7 +38,7 @@ Federal Government Priority Goals.—
 
 &emsp;&emsp;(G) any other committees as determined appropriate;
 
-&emsp;(4) The Director of the Office of Management and Budget shall consult with the appropriatecommittees of Congress at least once every 2 years.
+&emsp;(4) The Director of the Office of Management and Budget shall consult with the appropriate committees of Congress at least once every 2 years.
 
 &emsp;(5) The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on the website described under section 1122 of this title.
 
@@ -60,7 +60,7 @@ Agency Priority Goals.—
 
 &emsp;&emsp;(E) have clearly defined quarterly milestones.
 
-&emsp;(2) If an agency priority goal includes any program activity or information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
+&emsp;(2) If an agency priority goal includes any program activity or information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policyand is properly classified pursuant to such Executive order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
 
 (c) The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 

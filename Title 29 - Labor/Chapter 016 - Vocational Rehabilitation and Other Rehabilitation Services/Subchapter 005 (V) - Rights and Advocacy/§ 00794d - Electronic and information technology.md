@@ -54,7 +54,7 @@
 
 #### (B) Software and peripheral devices
 
-&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral device at a workstation of a Federal employee who is not an individual with a disability.
+&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral deviceat a workstation of a Federal employee who is not an individual with a disability.
 
 #### (b) Technical assistance
 

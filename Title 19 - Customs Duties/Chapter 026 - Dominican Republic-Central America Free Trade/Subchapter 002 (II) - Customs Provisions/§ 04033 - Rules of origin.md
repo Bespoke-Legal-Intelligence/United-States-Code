@@ -217,7 +217,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
 
-&emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by thatproducer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
+&emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
 &emsp;&emsp;&emsp;(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of all such costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
@@ -377,7 +377,7 @@ nc
 
 &emsp;&emsp;(A) be treated as originating goods if the good is an originating good; and
 
-&emsp;&emsp;(B) be disregarded in determining whether all the nonoriginating materials used in theproduction of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement.
+&emsp;&emsp;(B) be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement.
 
 #### (2) Conditions
 
@@ -453,7 +453,7 @@ In this section:
 
 #### (4) Fungible good or fungible material
 
-&emsp;The term "fungible good" or "fungible material" means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
+&emsp;The term "fungible good" or "fungible material" means a good or material, as the casemay be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
 
 #### (5) Generally accepted accounting principles
 
@@ -547,7 +547,7 @@ In this section:
 
 #### (15) Packing materials and containers for shipment
 
-&emsp;The term "packing materials and containers for shipment" means the goods used to protecta good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
+&emsp;The term "packing materials and containers for shipment" means the goods used to protect a good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
 
 #### (16) Preferential tariff treatment
 

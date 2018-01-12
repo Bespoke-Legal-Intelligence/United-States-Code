@@ -44,7 +44,7 @@ Pub. L. 105–183, §5, June 19, 1998, 112 Stat. 518, provided that: "This Act \
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Construction of 1998 Amendment
 

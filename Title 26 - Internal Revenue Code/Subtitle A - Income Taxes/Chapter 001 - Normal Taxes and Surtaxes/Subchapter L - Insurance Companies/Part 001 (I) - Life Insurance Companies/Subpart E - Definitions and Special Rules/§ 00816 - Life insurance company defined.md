@@ -58,7 +58,7 @@ For purposes only of determining under subsection (a) whether or not an insuranc
 
 #### (e) Guaranteed renewable contracts
 
-For purposes of this part, guaranteed renewable life, accident, and health insurance shall be treated in the same manner as noncancellable life, accident, and health insurance.
+For purposes of this part, guaranteed renewable life, accident, and health insurance shall betreated in the same manner as noncancellable life, accident, and health insurance.
 
 #### (f) Amounts not involving life, accident, or health contingencies
 
@@ -120,7 +120,7 @@ In general.—A mutual life insurance company may elect to treat all individual 
 
 "(2)
 
-Effect of election on subsidiaries of electing parent.—For purposes of determining the amount of the small life insurance company deduction of any controlled group which includes a mutual company which made an election under paragraph (1), the taxable income of such electing company shall be taken into account under section 806(b)(2) of the Internal Revenue Code of 1986 (relating to phaseout of small life insurance company deduction).
+Effect of election on subsidiaries of electing parent.—For purposes of determining the amount of the small life insurance company deduction of any controlled group which includes a mutual company which made an election under paragraph (1), the taxable income of such electing company shall be taken into account under \[former\] section 806(b)(2) of the Internal Revenue Code of 1986 (relating to phaseout of small life insurance company deduction).
 
 "(3)
 

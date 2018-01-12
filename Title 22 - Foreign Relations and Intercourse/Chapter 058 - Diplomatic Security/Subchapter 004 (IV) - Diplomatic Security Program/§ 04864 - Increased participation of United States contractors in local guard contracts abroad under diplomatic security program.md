@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 #### (b) Objective
 
-It is the objective of this section to improve the efficiency of the local guard programsabroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
+It is the objective of this section to improve the efficiency of the local guard programs abroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
 
 #### (c) Participation of United States contractors in local guard contracts abroad
 
@@ -92,7 +92,7 @@ In evaluating proposals for local guard contracts under this section, the Secret
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and notas part of the Diplomatic Security Act which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
 
@@ -111,6 +111,10 @@ Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as 
 Subsec. (d)(1)(D). Pub. L. 103–236, §141(2)(A), substituted "or" for "and".
 
 Subsec. (d)(4). Pub. L. 103–236, §141(2)(B)–(D), added par. (4).
+
+#### Strengthening Oversight
+
+Pub. L. 115–31, div. J, title VII, §7004(i), May 5, 2017, 131 Stat. 618, provided that: "Funds appropriated by this Act \[div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification\] and prior Acts making appropriations for the Department of State, foreign operations, and related programs under the heading 'Diplomatic and Consular Programs' for Worldwide Security Protection shall be made available to strengthen oversight of the local guard force at a critical post abroad through the use of United States Government employees or contractors who are United States citizens: <i>Provided</i>, That such funds are in addition to funds otherwise made available by such Acts for such purposes: <i>Provided further</i>, That the total annual operating costs associated with providing such oversight in fiscal year 2017 and subsequent fiscal years shall be shared among agencies through the International Cooperative Administrative Support Services program: <i>Provided further</i>, That not later than 45 days after enactment of this Act \[May 5, 2017\], and prior to the obligation of funds for such purposes, the Secretary of State shall consult with the Committees on Appropriations on plans to carry out the requirement of this subsection."
 
 #### Authority of Secretary of State
 

@@ -36,7 +36,7 @@
 
 &emsp;For purposes of paragraph (1), the term "express statement", with respect to information or records, means—
 
-&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: "This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure asprovided by the provisions of the Critical Infrastructure Information Act of 2002."; or
+&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: "This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002."; or
 
 &emsp;&emsp;(B) in the case of oral information, a similar written statement submitted within a reasonable period following the oral communication.
 
@@ -86,7 +86,7 @@ The Federal Government may provide advisories, alerts, and warnings to relevant 
 
 The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title, to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 4558 of title 50.
 
-(Pub. L. 107–296, title II, §214, Nov. 25, 2002, 116 Stat. 2152; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–199, title I, §111, Nov. 27, 2012, 126 Stat. 1472.)
+(Pub. L. 107–296, title II, §214, Nov. 25, 2002, 116 Stat. 2152; Pub. L. 108–271, §8(b), July 7, 2004, 118Stat. 814; Pub. L. 112–199, title I, §111, Nov. 27, 2012, 126 Stat. 1472.)
 
 #### References in Text
 

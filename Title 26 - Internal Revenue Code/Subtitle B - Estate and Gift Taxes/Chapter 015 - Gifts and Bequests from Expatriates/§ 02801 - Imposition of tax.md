@@ -70,7 +70,7 @@ The tax imposed by subsection (a) on any covered gift or bequest shall be reduce
 
 For purposes of this section, the term "covered expatriate" has the meaning given to such term by section 877A(g)(1).
 
-(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295, div. A, title II, §206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
+(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295,div. A, title II, §206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
 
 #### Amendments
 

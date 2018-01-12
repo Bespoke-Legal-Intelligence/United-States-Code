@@ -14,7 +14,7 @@ Waiver.—If the contracting officer for a contract covered by the requirement u
 
 Pub. L. 114–328, div. A, title X, §1022(b), Dec. 23, 2016, 130 Stat. 2388, provided that: "Section 7318 of title 10, United States Code, as added by subsection (a), shall take effect on the later of the following dates:
 
-&emsp;"(1) The date of the enactment of the National Defense Authorization for Fiscal Year 2018.
+&emsp;"(1) The date of the enactment of the National Defense Authorization for Fiscal Year 2018 \[Pub. L. 115–91, approved Dec. 12, 2017\].
 
 &emsp;"(2) September 30, 2017."
 

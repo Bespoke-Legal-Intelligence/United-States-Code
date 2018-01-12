@@ -18,7 +18,7 @@ The program shall address time sensitive and strategic market access projects ba
 
 #### (d) Annual report
 
-Not later than 180 days after June 18, 2008, and annually thereafter, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the period covered by the report, a description of each factor that affects the export of specialty crops, including each factor relating to any—
+Not later than 180 days after June 18, 2008, and annually thereafter, the Secretary shall submitto the appropriate committees of Congress a report that contains, for the period covered by the report, a description of each factor that affects the export of specialty crops, including each factor relating to any—
 
 &emsp;(1) significant sanitary or phytosanitary issue; or
 

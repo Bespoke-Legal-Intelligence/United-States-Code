@@ -54,5 +54,5 @@ Section was formerly classified to section 2016 of the former Appendix to this t
 
 #### Transfer of Functions
 
-For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+For provisions transferring Foreign Claims Settlement Commission of the United States to Departmentof Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 

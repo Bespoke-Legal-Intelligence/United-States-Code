@@ -94,5 +94,5 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(C) Section 73.3 or section 73.4 of title 42, Code of Federal Regulations."
 
-\[Pub. L. 114–328, div. A, title X, §1043(1), Dec. 23, 2016, 130 Stat. 2393, which directed amendment of subsec. (d) of section 1034 of Pub. L. 110–181, set out above, by striking out "report on the use of the authority under subsection (a)" and all that followed, was executed by striking "report on the use of the authority under subsection (a)" and all that followed only to the end of par. (1) of subsec. (d), to reflect the probable intent of Congress and the subsequent addition of par. (3) of subsec. (d).\]
+\[Pub. L. 114–328, div. A, title X, §1043(1), Dec. 23, 2016, 130 Stat. 2393, which directed amendment of subsec. (d)of section 1034 of Pub. L. 110–181, set out above, by striking out "report on the use of the authority under subsection (a)" and all that followed, was executed by striking "report on the use of the authority under subsection (a)" and all that followed only to the end of par. (1) of subsec. (d), to reflect the probable intent of Congress and the subsequent addition of par. (3) of subsec. (d).\]
 

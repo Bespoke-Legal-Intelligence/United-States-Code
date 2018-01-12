@@ -8,7 +8,7 @@ The Secretary is authorized to make such expenditures out of any money appropria
 
 The Secretary shall, in employing such additional personnel as may be necessary, give preference to blind persons who are capable of discharging the required duties.
 
-(June 20, 1936, ch. 638, §4, formerly §5, 49 Stat. 1560; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered §4 and amended Pub. L. 93–516, title II, §§206, 208(d), Dec. 7, 1974, 88 Stat. 1626, 1629; Pub. L. 93–651, title II, §§206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14.)
+(June 20, 1936, ch. 638, §4, formerly §5, 49 Stat. 1560; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946,11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered §4 and amended Pub. L. 93–516, title II, §§206, 208(d), Dec. 7, 1974, 88 Stat. 1626, 1629; Pub. L. 93–651, title II, §§206, 208(d), Nov. 21, 1974, 89 Stat. 2–11, 2–14.)
 
 #### Codification
 

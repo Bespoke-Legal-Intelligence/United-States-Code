@@ -12,7 +12,7 @@ Authority To Issue Order.—Subject to subsection (c), if it is shown that the j
 
 (b)
 
-Modification of Order.—On motion of the United States or the judgment debtor, and upon a showing that the judgment debtor's financial circumstances have changed or that assets not previously disclosed by the judgment debtor have been discovered, the court may modify the amount of payments, alter their frequency, or require full payment.
+Modification of Order.—On motion of the United States or the judgment debtor, and upona showing that the judgment debtor's financial circumstances have changed or that assets not previously disclosed by the judgment debtor have been discovered, the court may modify the amount of payments, alter their frequency, or require full payment.
 
 (c)
 
@@ -21,4 +21,8 @@ Limitation.—(1) An order may not be issued under subsection (a), and if so iss
 (2) An order may not be issued under subsection (a) with respect to any earnings of the debtor except nonexempt disposable earnings.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4955.)
+
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 

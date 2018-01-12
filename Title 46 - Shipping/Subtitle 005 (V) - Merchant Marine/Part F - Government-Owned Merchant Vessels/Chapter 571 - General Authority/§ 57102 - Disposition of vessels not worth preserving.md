@@ -6,7 +6,7 @@ In General.—If the Secretary of Transportation determines that a vessel owned 
 
 (b)
 
-Selling Procedure.—The sale of a vessel under subsection (a) shall be made on the basisof competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
+Selling Procedure.—The sale of a vessel under subsection (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1658.)
 
@@ -92,7 +92,7 @@ Contents of Plan.—The working group shall include in the plan submitted under 
 
 &emsp;"(3) recommendations for environmental best practices that meet or exceed, and harmonize, the requirements of Federal environmental laws and regulations applicable to the storage, disposal, and interim transportation of such vessels;
 
-&emsp;"(4) recommendations for environmental best practices that meet or exceed the requirements of State laws and regulations applicable to the storage, disposal, and interim transportation of such vessels;
+&emsp;"(4) recommendations for environmental best practices that meet or exceed the requirements of Statelaws and regulations applicable to the storage, disposal, and interim transportation of such vessels;
 
 &emsp;"(5) procedures for the identification and remediation of any environmental impacts caused by the storage, disposal, and interim transportation of such vessels; and
 
@@ -108,7 +108,7 @@ In general.—As soon as practicable after the date of enactment of the \[this\]
 
 &emsp;"(2)
 
-Armed services vessels.—The Secretary and the Secretary of Defense, in consultation with the Administrator of the Environmental ProtectionAgency, shall each ensure that environmental best practices are observed with respect to the storage, disposal, and interim transportation of obsolete vessels owned or operated by the Department of Defense.
+Armed services vessels.—The Secretary and the Secretary of Defense, in consultation with the Administrator of the Environmental Protection Agency, shall each ensure that environmental best practices are observed with respect to the storage, disposal, and interim transportation of obsolete vessels owned or operated by the Department of Defense.
 
 "(f)
 

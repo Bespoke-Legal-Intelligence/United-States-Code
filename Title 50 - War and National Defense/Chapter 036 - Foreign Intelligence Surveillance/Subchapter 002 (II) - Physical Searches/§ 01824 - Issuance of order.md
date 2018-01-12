@@ -8,7 +8,7 @@ Upon an application made pursuant to section 1823 of this title, the judge shall
 
 &emsp;(2) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by thefirst amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) the premises or property to be searched is or is about to be owned, used, possessed by, or is in transit to or from an agent of a foreign power or a foreign power;
 
@@ -32,7 +32,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(C) the type of information, material, or property to be seized, altered, or reproduced;
 
-&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and,whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
+&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and, whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
 
 &emsp;&emsp;(E) the period of time during which physical searches are approved; and
 
@@ -68,7 +68,7 @@ An order approving a physical search under this section shall—
 
 &emsp;(D) makes an application in accordance with this subchapter to a judge of the Foreign Intelligence Surveillance Court as soon as practicable, but not more than 7 days after the Attorney General authorizes such physical search.
 
-(2) If the Attorney General authorizes the emergency employment of a physical search under paragraph (1), the Attorney General shall require that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
+(2) If the Attorney General authorizes the emergency employment of a physical search under paragraph (1), the Attorney General shallrequire that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
 
 (3) In the absence of a judicial order approving such physical search, the physical search shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
 
@@ -80,7 +80,7 @@ An order approving a physical search under this section shall—
 
 #### (f) Retention of applications and orders
 
-Applications made and orders granted under this subchapter shall be retained for a period ofat least 10 years from the date of the application.
+Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
 (Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §105(b), Mar. 9, 2006, 120 Stat. 195; Pub. L. 110–261, title I, §§107(b), (c)(1), 110(c)(3), July 10, 2008, 122 Stat. 2463, 2464, 2467; Pub. L. 111–259, title VIII, §§801(5), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748.)
 

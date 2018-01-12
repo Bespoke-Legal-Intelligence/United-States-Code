@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) protect taxpayers and consumers and enhance financial stability by minimizing the risk that insured depository institutions and the affiliates of insured depository institutions will engage in unsafe and unsound activities;
 
-&emsp;&emsp;(C) limit the inappropriate transfer of Federal subsidies from institutions that benefit from deposit insurance and liquidity facilities of the Federal Government to unregulated entities;
+&emsp;&emsp;(C) limit the inappropriate transfer of Federal subsidies from institutions that benefitfrom deposit insurance and liquidity facilities of the Federal Government to unregulated entities;
 
 &emsp;&emsp;(D) reduce conflicts of interest between the self-interest of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(ii) the fund is organized and offered only in connection with the provision of bona fide trust, fiduciary, or investment advisory services and only to persons that are customers of such services of the banking entity;
 
-&emsp;&emsp;&emsp;(iii) the banking entity does not acquire or retain an equity interest, partnership interest, or other ownership interest in the funds except for a de minimis investment subject to and in compliance with paragraph (4);
+&emsp;&emsp;&emsp;(iii) the banking entity does not acquire or retain an equity interest, partnership interest, or other ownership interest in thefunds except for a de minimis investment subject to and in compliance with paragraph (4);
 
 &emsp;&emsp;&emsp;(iv) the banking entity complies with the restrictions under paragraphs (1) and (2) of subparagraph (f);
 
@@ -210,7 +210,7 @@
 
 #### (2) Termination of activities or investment
 
-&emsp;Notwithstanding any other provision of law, whenever an appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, has reasonable cause to believe that a banking entity or nonbank financial company supervised by the Board under the respective agency's jurisdiction has made an investment or engaged in an activity in a manner that functions as an evasion of the requirements of this section (including through an abuse of any permitted activity) or otherwise violates the restrictions under this section, the appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, shall order, after due notice and opportunity for hearing, the banking entity or nonbank financial company supervised by the Board to terminate the activityand, as relevant, dispose of the investment. Nothing in this paragraph shall be construed to limit the inherent authority of any Federal agency or State regulatory authority to further restrict any investments or activities under otherwise applicable provisions of law.
+&emsp;Notwithstanding any other provision of law, whenever an appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, has reasonable cause to believe that a banking entity or nonbank financial company supervised by the Board under the respective agency's jurisdiction has made an investment or engaged in an activity in a manner that functions as an evasion of the requirements of this section (including through an abuse of any permitted activity) or otherwise violates the restrictions under this section, the appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, shall order, after due notice and opportunity for hearing, the banking entity or nonbank financial company supervised by the Board to terminate the activity and, as relevant, dispose of the investment. Nothing in this paragraph shall be construed to limit the inherent authority of any Federal agency or State regulatory authority to further restrict any investments or activities under otherwise applicable provisions of law.
 
 #### (f) Limitations on relationships with hedge funds and private equity funds
 
@@ -236,7 +236,7 @@
 
 #### (B) Treatment of prime brokerage transactions
 
-&emsp;&emsp;For purposes of subparagraph (A), a prime brokerage transaction described in subparagraph (A) shall be subject to section 371c–1 of this title as if the counterparty were an affiliate of the banking entity.
+&emsp;&emsp;For purposes of subparagraph (A), a prime brokerage transaction described in subparagraph (A) shall be subject to section 371c–1 ofthis title as if the counterparty were an affiliate of the banking entity.
 
 #### (4) Application to nonbank financial companies supervised by the Board
 
@@ -272,7 +272,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(D) such institution does not—
 
-&emsp;&emsp;&emsp;(i) obtain payment or payment related services from any Federal Reserve bank,including any service referred to in section 248a of this title; or
+&emsp;&emsp;&emsp;(i) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 248a of this title; or
 
 &emsp;&emsp;&emsp;(ii) exercise discount or borrowing privileges pursuant to section 461(b)(7) of this title.
 

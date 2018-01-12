@@ -2,7 +2,7 @@
 
 #### (a) Allowance of marital deduction
 
-For purposes of the tax imposed by section 2001, the value of the taxable estate shall, except as limited by subsection (b), be determined by deducting from the value of the gross estate an amount equal to the value of any interest in property which passes or has passed from the decedent to his surviving spouse, but only to the extent that such interest is included in determining the value of the gross estate.
+For purposes of the tax imposed by section 2001, the value of the taxable estate shall, except as limited by subsection (b), be determined by deducting from the value of the gross estate anamount equal to the value of any interest in property which passes or has passed from the decedent to his surviving spouse, but only to the extent that such interest is included in determining the value of the gross estate.
 
 #### (b) Limitation in the case of life estate or other terminable interest
 
@@ -52,7 +52,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (6) Life insurance or annuity payments with power of appointment in surviving spouse
 
-&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to such spouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
+&emsp;In the case of an interest in property passing from the decedent consisting of proceeds under a life insurance, endowment, or annuity contract, if under the terms of the contract such proceeds are payable in installments or are held by the insurer subject to an agreement to pay interest thereon (whether the proceeds, on the termination of any interest payments, are payable in a lump sum or in annual or more frequent installments), and such installment or interest payments are payable annually or at more frequent intervals, commencing not later than 13 months after the decedent's death, and all amounts, or a specific portion of all such amounts, payable during the life of the surviving spouse are payable only to suchspouse, and such spouse has the power to appoint all amounts, or such specific portion, payable under such contract (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), with no power in any other person to appoint such amounts to any person other than the surviving spouse—
 
 &emsp;&emsp;(A) such amounts shall, for purposes of subsection (a), be considered as passing to the surviving spouse, and
 
@@ -214,7 +214,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable undersubsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
+&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable under subsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
 
 &emsp;&emsp;&emsp;(i) as of the date on which the return of the tax imposed by this chapter is made, or
 
@@ -224,7 +224,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(l)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L.97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(l)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
 
 #### Amendments
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out "Territory," a
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-<b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if theperson does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+<b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -382,7 +382,7 @@ Pub. L. 97–34, title IV, §403(e), Aug. 13, 1981, 95 Stat. 305, as amended by 
 
 &emsp;"(A) the decedent dies after December 31, 1981,
 
-&emsp;"(B) by reason of the death of the decedent property passes from the decedent or is acquired from thedecedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
+&emsp;"(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
 
 &emsp;"(C) the formula referred to in subparagraph (B) was not amended to refer specifically to an unlimited marital deduction at any time after the date which is 30 days after the date of enactment of this Act \[Aug. 13, 1981\], and before the death of the decedent, and
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (iii) Exception for letters or notices involving small amounts
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if the amount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
+&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if theamount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
 
 #### (3) Large corporate underpayment
 
@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(d)(1), substituted "Federal short-term
 
 Subsec. (b). Pub. L. 99–514, §1511(a), added subsec. (b) relating to determination of Federal short-term rate and struck out former subsec. (b) which related to interest rate adjustments and establishment of adjusted rates.
 
-Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out "annual"before "rate of interest" and substituted "the underpayment rate established under this section" for "the adjusted rate established under subsection (b)", and struck out former subsec. (c) definition of prime rate, which read as follows: "For purposes of subsection (b), the term 'adjusted prime rate charged by banks' means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System."
+Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out "annual" before "rate of interest" and substituted "the underpayment rate established under this section" for "the adjusted rate established under subsection (b)", and struck out former subsec. (c) definition of prime rate, which read as follows: "For purposes of subsection (b), the term 'adjusted prime rate charged by banks' means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System."
 
 Subsec. (c)(3)(A)(v). Pub. L. 99–514, §1535(a), added cl. (v).
 
@@ -144,7 +144,7 @@ Pub. L. 97–34, §711(c), substituted "January 1" for "February 1".
 
 Subsec. (c). Pub. L. 97–34, §711(b), struck out "90 percent of" before "the average predominant prime rate".
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
+<b>1979</b>—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602,6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

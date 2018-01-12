@@ -56,7 +56,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004" for "1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004" for "2016" in subparagraph (A)(ii) thereof.
 
 &emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph\(A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
+&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph (A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
 
 #### (ii) Limitation
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (6) Denial of double benefits
 
-&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable againstamounts excluded from gross income under subsection (a).
+&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
 
 #### (7) Aggregate benefit cannot exceed foreign earned income
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term "housing expenses" shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the tax which would be imposed by section 1 for such taxable year if the taxpayer's taxable income were equal to the amount excluded under subsection (a) for such taxable year, and
 
-&emsp;&emsp;(B) if such taxpayer has a taxable excess (as defined in section 55(b)(1)(A)(ii)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A)(i) for such taxable year shall be equal to the excess (if any) of—
+&emsp;&emsp;(B) if such taxpayer has a taxable excess (as defined in section 55(b)(1)(B)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A) for such taxable year shall be equal to the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount which would be determined under such sentence for such taxable year (subject to the limitation of section 55(b)(3)) if the taxpayer's taxable excess (as so defined) were increased by the amount excluded under subsection (a) for such taxable year, over
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
 
-&emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11))shall be reduced (but not below zero) by such capital gain excess,
+&emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
 
 &emsp;&emsp;&emsp;(ii) the taxpayer's qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer's net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
 
@@ -288,11 +288,11 @@ For purposes of this section—
 
 #### (B) Alternative minimum tax
 
-&emsp;&emsp;In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))—
+&emsp;&emsp;In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(B))—
 
-&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting "the taxable excess (as defined in section 55(b)(1)(A)(ii))" for "taxable income", and
+&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting "the taxable excess (as defined in section 55(b)(1)(B))" for "taxable income", and
 
-&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii)to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
 
 #### (C) Definitions
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §§202(b), 215(a), 221(a)(73), Dec. 19, 2014, 128 Stat. 4024, 4034, 4049.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §§202(b), 215(a), 221(a)(73), Dec. 19, 2014, 128 Stat. 4024, 4034, 4049; Pub. L. 115–97, title I, §§11002(d)(9), 12001(b)(3)(E), Dec. 22, 2017, 131 Stat. 2062, 2093.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -315,6 +315,12 @@ The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct.
 The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (b)(2)(D)(ii)(II). Pub. L. 115–97, §11002(d)(9), substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
+
+Subsec. (f)(1)(B). Pub. L. 115–97, §12001(b)(3)(E)(i), substituted "section 55(b)(1)(B)" for "section 55(b)(1)(A)(ii)" and "section 55(b)(1)(A)" for "section 55(b)(1)(A)(i)" in introductory provisions.
+
+Subsec. (f)(2)(B). Pub. L. 115–97, §12001(b)(3)(E)(ii), substituted "section 55(b)(1)(B)" for "section 55(b)(1)(A)(ii)" in introductory provisions and in cl. (i).
 
 <b>2014</b>—Subsec. (b)(2)(D)(i). Pub. L. 113–295, §221(a)(73), amended cl. (i) generally. Prior to amendment, cl. (i) listed exclusion amounts for calendar years beginning from 1998 to 2002 and thereafter.
 
@@ -375,7 +381,7 @@ Subsec. (c)(1)(A). Pub. L. 96–595, §4(b)(1), substituted "Dollar limitations"
 
 Subsec. (c)(1)(D), (E). Pub. L. 96–595, §4(b)(2), added subpars. (D) and (E).
 
-<b>1978</b>—Pub. L. 95–615, §202(f)(1), substituted "Income earned by individuals in certain camps" for "Earned income from sources without the United States" in section catchline.
+<b>1978</b>—Pub. L. 95–615, §202(g)(1), formerly §202(f)(1), substituted "Income earned by individuals in certain camps" for "Earned income from sources without the United States" in section catchline.
 
 Subsec. (a). Pub. L. 95–615, §202(a), in introductory provisions inserted reference to an individual described in section 913(a) who, because of his employment, resides in a camp located in a hardship area, in par. (1) substituted reference to amounts received from sources within a foreign country or countries for reference to amounts received from sources without the United States, in par. (2) substituted reference to amounts received from sources within qualified foreign countries for reference to amounts received from sources without the United States, and in provisions following par. (2) struck out "any deductions (other than those allowed by section 151, relating to personal exemptions)," after "deduction from his gross income" and inserted ", other than the deductions allowed by sections 217 (relating to moving expenses)" after "subsection".
 
@@ -419,11 +425,17 @@ Subsecs. (d) to (f). Pub. L. 94–455, §1011(b)(3), added subsecs. (d) and (e) 
 
 <b>1964</b>—Subsec. (c)(1)(B). Pub. L. 88–272 substituted "$25,000" for "$35,000".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "which constitute earned income attributable to services performed during such uninterrupted period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (1), and "which constitute earned income attributable to services performed during such 18-month period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "which constitute earned income attributable to services performed during such uninterrupted period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (1), and "which constitute earned income attributable to services performed during such 18-month period" for "if such amounts constitute earned income (as defined insubsection (b)) attributable to such period" in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
 
 Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by section 11002(d)(9) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 12001(b)(3)(E) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -471,7 +483,7 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
 
 Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\]."
 
@@ -493,7 +505,7 @@ Wage Withholding.—The amendment made by section 207(a) \[amending section 3401
 
 Election of Prior Law.—
 
-&emsp;"(1) A taxpayer may elect not to have the amendments made by this title \[see section 201(a) of Pub. L. 95–615, set out as a Short Title of 1978 Amendment note under section 1 of this title\] apply with respectto any taxable year beginning after December 31, 1977, and before January 1, 1979.
+&emsp;"(1) A taxpayer may elect not to have the amendments made by this title \[see section 201(a) of Pub. L. 95–615, set out as a Short Title of 1978 Amendment note under section 1 of this title\] apply with respect to any taxable year beginning after December 31, 1977, and before January 1, 1979.
 
 &emsp;"(2) An election under this subsection shall be filed with a taxpayer's timely filed return for the first taxable year beginning after December 31, 1977."
 

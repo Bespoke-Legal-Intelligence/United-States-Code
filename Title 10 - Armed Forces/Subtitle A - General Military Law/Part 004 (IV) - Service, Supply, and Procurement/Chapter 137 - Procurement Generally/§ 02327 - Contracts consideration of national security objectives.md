@@ -92,7 +92,7 @@ Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, providedthat: "Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transfer of Functions
 

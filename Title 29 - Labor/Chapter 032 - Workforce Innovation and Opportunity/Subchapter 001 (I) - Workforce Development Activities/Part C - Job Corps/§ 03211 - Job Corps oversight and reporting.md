@@ -14,7 +14,7 @@
 
 #### (2) Timing of reports
 
-&emsp;The Secretary shall submit a financial report under paragraph (1) once every 6 months beginning on July 22, 2014, for a 3-year period. After the completion of such 3-year period, the Secretary shall submit a financial report under such paragraph once a year for the next 2 years, unless additional reports are required under paragraph (3)(B).
+&emsp;The Secretary shall submit a financial report under paragraph (1) once every 6 monthsbeginning on July 22, 2014, for a 3-year period. After the completion of such 3-year period, the Secretary shall submit a financial report under such paragraph once a year for the next 2 years, unless additional reports are required under paragraph (3)(B).
 
 #### (3) Reporting requirements in cases of budgetary shortfalls
 

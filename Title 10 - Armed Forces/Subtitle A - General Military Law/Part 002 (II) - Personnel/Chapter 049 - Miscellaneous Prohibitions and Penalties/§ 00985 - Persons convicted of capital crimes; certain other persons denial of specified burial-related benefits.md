@@ -22,7 +22,7 @@ Disqualification From Burial in Military Cemeteries.—A person who is ineligibl
 
 Definition.—In this section, the term "burial" includes inurnment.
 
-(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315.)
+(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315.)
 
 #### Amendments
 

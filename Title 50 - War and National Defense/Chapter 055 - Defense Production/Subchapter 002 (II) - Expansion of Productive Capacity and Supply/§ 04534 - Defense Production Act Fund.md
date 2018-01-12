@@ -58,7 +58,7 @@ Prior sections 304 to 310 of act Sept. 8, 1950, ch. 932, were omitted in the gen
 
 Section 304, act Sept. 8, 1950, ch. 932, title III, 64 Stat. 802; June 2, 1951, ch. 121, Ch. XI, 65 Stat. 61; July 31, 1951, ch. 275, title I, §103(b), (c), 65 Stat. 134; Pub. L. 86–560, §2, June 30, 1960, 74 Stat. 282; Pub. L. 88–343, §3, June 30, 1964, 78 Stat. 235; Pub. L. 93–426, §2, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 102–558, title I, §122, Oct. 28, 1992, 106 Stat. 4206; Pub. L. 107–47, §4(4), Oct. 5, 2001, 115 Stat. 260, related to Defense Production Act Fund.
 
-Section 305, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, title I, §104(e), June 30, 1980, 94 Stat. 619; amended Pub. L. 107–314, div. A, title X,§1062(o)(3), Dec. 2, 2002, 116 Stat. 2653, related to synthetic fuel production.
+Section 305, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, title I, §104(e), June 30, 1980, 94 Stat. 619; amended Pub. L. 107–314, div. A, title X, §1062(o)(3), Dec. 2, 2002, 116 Stat. 2653, related to synthetic fuel production.
 
 Section 306, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, title I, §104(e), June 30, 1980, 94 Stat. 623; amended Pub. L. 107–314, div. A, title X, §1062(o)(3), Dec. 2, 2002, 116 Stat. 2653, related to synthetic fuel production subsequent to determinations respecting a national energy supply shortage of defense fuels.
 
@@ -72,7 +72,7 @@ Section 310, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 102–558, 
 
 #### Defense Production Act Fund Manager
 
-Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under section 4553 of this title.
+Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of thissection, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under section 4553 of this title.
 
 #### Executive Order No. 12346
 

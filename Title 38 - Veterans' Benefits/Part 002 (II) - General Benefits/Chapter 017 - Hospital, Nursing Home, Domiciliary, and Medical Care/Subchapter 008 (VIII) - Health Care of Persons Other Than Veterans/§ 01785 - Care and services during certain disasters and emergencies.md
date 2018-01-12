@@ -14,7 +14,7 @@ Covered Disasters and Emergencies.—A disaster or emergency referred to in this
 
 (c)
 
-Applicability to Eligible Individuals Who Are Veterans.—The Secretary may furnish care and services under this section to an individual described in subsection (a) who is a veteran without regard to whether that individual is enrolled in the system of patient enrollment under section 1705 of this title.
+Applicability to Eligible Individuals Who Are Veterans.—The Secretary may furnish care and services under this section to anindividual described in subsection (a) who is a veteran without regard to whether that individual is enrolled in the system of patient enrollment under section 1705 of this title.
 
 (d)
 

@@ -66,7 +66,7 @@ Amounts in the Agricultural Disaster Relief Trust Fund shall be available for th
 
 &emsp;&emsp;Interest on advances made pursuant to this subsection shall be—
 
-&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
+&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturitycomparable to the anticipated period during which the advance will be outstanding, and
 
 &emsp;&emsp;&emsp;(ii) compounded annually.
 
@@ -81,4 +81,8 @@ The date of the enactment of the Food, Conservation, and Energy Act of 2008, ref
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 

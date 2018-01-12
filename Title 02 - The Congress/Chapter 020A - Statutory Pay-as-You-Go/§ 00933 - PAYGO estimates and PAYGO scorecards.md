@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designatedunder subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
+&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
 
 #### (2) Adjustments
 
@@ -122,7 +122,7 @@
 
 #### (e) Look-back to capture current-year effects
 
-For purposes of this section, OMB shall treat the budgetary effects of PAYGO legislation enacted during a session of Congress that occurduring the current year as though they occurred in the budget year.
+For purposes of this section, OMB shall treat the budgetary effects of PAYGO legislation enacted during a session of Congress that occur during the current year as though they occurred in the budget year.
 
 #### (f) Averaging used to measure compliance over 5-year and 10-year periods
 

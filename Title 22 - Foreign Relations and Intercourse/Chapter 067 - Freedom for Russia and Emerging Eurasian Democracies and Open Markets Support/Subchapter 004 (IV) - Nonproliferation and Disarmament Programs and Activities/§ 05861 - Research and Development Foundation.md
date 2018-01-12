@@ -14,7 +14,7 @@ The purposes of the Foundation shall be the following:
 
 &emsp;(3) To assist in the establishment of a market economy in the independent states of the former Soviet Union by promoting, identifying, and partially funding joint research, development, and demonstration ventures between United States businesses and scientists, engineers, and entrepreneurs in those independent states.
 
-&emsp;(4) To provide a mechanism for scientists, engineers, and entrepreneurs in the independent states of the former Soviet Union to develop an understanding of commercial business practices by establishing linkages to United States scientists, engineers, and businesses.
+&emsp;(4) To provide a mechanism for scientists, engineers, and entrepreneurs in the independent states of the former Soviet Union to develop an understanding of commercial business practices by establishing linkages toUnited States scientists, engineers, and businesses.
 
 &emsp;(5) To provide access for United States businesses to sophisticated new technologies, talented researchers, and potential new markets within the independent states of the former Soviet Union.
 

@@ -78,7 +78,7 @@ Treatment of fees.—Funds collected under subsection (c) shall not be taken int
 
 &emsp;&emsp;"(C) Section 33 of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1012).
 
-&emsp;&emsp;"(D) The Act of August 8 \[28\], 1937, and the Act of May 24, 1939 (43 U.S.C. 1181a et seq.).
+&emsp;&emsp;"(D) The Act of August 8 \[28\], 1937 \[now 43 U.S.C. 2601 et seq.\], and the Act of May 24, 1939 (43 U.S.C. 1181a et seq.) \[now 43 U.S.C. 2621 et seq.\].
 
 &emsp;&emsp;"(E) Section 6 of the Act of June 14, 1926 (commonly known as the Recreation and Public Purposes Act; 43 U.S.C. 869–4).
 

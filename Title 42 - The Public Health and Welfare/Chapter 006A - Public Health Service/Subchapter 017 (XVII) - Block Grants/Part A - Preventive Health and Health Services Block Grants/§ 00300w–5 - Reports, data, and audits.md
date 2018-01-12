@@ -44,7 +44,7 @@ Title XVII of the Omnibus Budget Reconciliation Act of 1981 shall not apply with
 
 #### References in Text
 
-The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (c), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. Title XVII of the Omnibus Budget Reconciliation Act of 1981 enacted sections 3595, and 4511 to 4514 of Title 5, Government Organization and Employees, amended sections 3393, 3593, 3596, 4501, 4502, 4505, 4506, 7542, 7543, 8340, and 8345 of Title 5, and sections 2003 and 2401 of Title 39, Postal Service, and enacted provisions set out as notes under sections 3595, 4501, 5303, 5343, 8340, and 8345 of Title 5, section 1243 of former Title 31, Money and Finance, and sections 403, 2003, 2004, and 2401 of Title 39. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (c), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. Title XVII of the Omnibus Budget Reconciliation Act of 1981 enacted sections 3595, and 4511 to 4514 of Title 5, Government Organization andEmployees, amended sections 3393, 3593, 3596, 4501, 4502, 4505, 4506, 7542, 7543, 8340, and 8345 of Title 5, and sections 2003 and 2401 of Title 39, Postal Service, and enacted provisions set out as notes under sections 3595, 4501, 5303, 5343, 8340, and 8345 of Title 5, section 1243 of former Title 31, Money and Finance, and sections 403, 2003, 2004, and 2401 of Title 39. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -61,4 +61,8 @@ Subsec. (b)(6). Pub. L. 100–607, §301(d)(2), substituted "1990" for "1983".
 <b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–555, §5(b), substituted "preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services" for "activities of the State under this part".
 
 Subsec. (d). Pub. L. 98–555, §5(c), added subsec. (d).
+
+#### Effective Date
+
+Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in part as a note under section 300w of this title.
 

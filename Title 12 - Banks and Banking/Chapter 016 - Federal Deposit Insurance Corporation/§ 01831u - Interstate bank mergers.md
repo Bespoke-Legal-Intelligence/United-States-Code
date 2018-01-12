@@ -94,7 +94,7 @@
 
 &emsp;&emsp;The responsible agency may not approve an application for an interstate merger transaction if—
 
-&emsp;&emsp;&emsp;(i) any bank involved in the transaction (including all insured depository institutions which are affiliates of any suchbank) has a branch in any State in which any other bank involved in the transaction has a branch; and
+&emsp;&emsp;&emsp;(i) any bank involved in the transaction (including all insured depository institutions which are affiliates of any such bank) has a branch in any State in which any other bank involved in the transaction has a branch; and
 
 &emsp;&emsp;&emsp;(ii) the resulting bank (including all insured depository institutions which would be affiliates of the resulting bank), upon consummation of the transaction, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(A) comply with the responsibilities of the agency regarding such application under section 2903 of this title;
 
-&emsp;&emsp;(B) take into account the most recent written evaluation under section 2903 of this title of any bank which would be an affiliate of the resulting bank; and
+&emsp;&emsp;(B) take into account the most recent written evaluation under section 2903 of thistitle of any bank which would be an affiliate of the resulting bank; and
 
 &emsp;&emsp;(C) take into account the record of compliance of any applicant bank with applicable State community reinvestment laws.
 

@@ -24,7 +24,7 @@ In this section:
 
 #### (4) Real conflict of interest
 
-&emsp;The term "real conflict of interest" means any instance where a member of the Board,the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
+&emsp;The term "real conflict of interest" means any instance where a member of the Board, the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
 
 &emsp;&emsp;(A) A direct financial benefit of any amount deriving from the result or findings of a study conducted under this section.
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (c) Purpose
 
-The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
+The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated,monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
 
 #### (d) Duties
 
@@ -108,7 +108,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (iii) Coverage of copayments or coinsurance
 
-&emsp;&emsp;&emsp;A contract entered into under this subparagraph may allow for the coverage of copayments or coinsurance, or allow for other appropriate measures, to the extent that such coverage or other measures are necessary to preserve the validity of a research project, such as in the case where the research project must be blinded.
+&emsp;&emsp;&emsp;A contract entered into under this subparagraph may allow for the coverage ofcopayments or coinsurance, or allow for other appropriate measures, to the extent that such coverage or other measures are necessary to preserve the validity of a research project, such as in the case where the research project must be blinded.
 
 #### (iv) Subsequent use of the data
 
@@ -168,7 +168,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Appointment and composition
 
-&emsp;&emsp;The methodology committee established under subparagraph (A) shall be composed of not more than 15 members appointed by the Comptroller General of the United States. Members appointed to the methodology committee shall be experts in their scientific field, such as health services research, clinical research, comparative clinical effectiveness research, biostatistics, genomics, and research methodologies. Stakeholders with such expertise may be appointed to the methodology committee. In addition to the members appointed under the first sentence, the Directors of the National Institutes of Health and the Agency for Healthcare Research and Quality (or their designees) shall each be included as members of the methodology committee.
+&emsp;&emsp;The methodology committee established under subparagraph (A) shall be composed of not more than 15 members appointed by the Comptroller General of the United States. Members appointed to the methodology committee shall be experts in their scientific field, such as health services research, clinical research, comparative clinical effectiveness research, biostatistics, genomics, and research methodologies. Stakeholders with such expertise may be appointed to the methodology committee. In addition to the members appointed underthe first sentence, the Directors of the National Institutes of Health and the Agency for Healthcare Research and Quality (or their designees) shall each be included as members of the methodology committee.
 
 #### (C) Functions
 
@@ -198,7 +198,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Composition
 
-&emsp;&emsp;Such peer-review process shall be designed in a manner so as to avoid bias and conflictsof interest on the part of the reviewers and shall be composed of experts in the scientific field relevant to the research under review.
+&emsp;&emsp;Such peer-review process shall be designed in a manner so as to avoid bias and conflicts of interest on the part of the reviewers and shall be composed of experts in the scientific field relevant to the research under review.
 
 #### (C) Use of existing processes
 
@@ -296,7 +296,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (5) Compensation
 
-&emsp;Each member of the Board who is not an officer or employee of the Federal Government shall be entitled to compensation (equivalent to the rate provided for level IV of the Executive Schedule under section 5315 of title 5) and expenses incurred while performing the duties of the Board. An officer or employee of the Federal government who is a member of the Board shall be exempt from compensation.
+&emsp;Each member of the Board who is not an officer or employee of the Federal Government shall be entitled to compensation (equivalent to the rate provided for level IV of the Executive Schedule under section 5315 of title 5) and expenses incurred while performing the dutiesof the Board. An officer or employee of the Federal government who is a member of the Board shall be exempt from compensation.
 
 #### (6) Director and staff; experts and consultants
 
@@ -350,7 +350,7 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 &emsp;&emsp;(A) Information contained in research findings as specified in subsection (d)(9).
 
-&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>7</sup> concurrent with the release of research findings.
+&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect linksthe entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>7</sup> concurrent with the release of research findings.
 
 &emsp;&emsp;(C) Notice of public comment periods under paragraph (1), including deadlines for public comments.
 
@@ -402,7 +402,7 @@ Section 399H of the Public Health Service Act, referred to in subsec. (d)(1)(A),
 
 <b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted ", as described in subparagraph (A)(ii)," after "original research" and ", as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate" after "publication".
 
-Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, textread as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
+Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
 
 Subsec. (d)(8)(A)(iv). Pub. L. 111–148, §10602(2), substituted "do not include" for "not be construed as mandates for".
 

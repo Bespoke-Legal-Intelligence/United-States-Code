@@ -2,19 +2,21 @@
 
 (a)
 
-Required Information and Evidence.—(1) The Secretary shall provide to the claimant and the claimant's representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
+Required Information and Evidence.—(1) Except as provided in paragraph (3), the Secretary shall provide to the claimant and the claimant's representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
 
 (2)(A) The Secretary shall prescribe in regulations requirements relating to the contents of notice to be provided under this subsection.
 
 (B) The regulations required by this paragraph—
 
-&emsp;(i) shall specify different contents for notice based on whether the claim concerned is an original claim, a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;
+&emsp;(i) shall specify different contents for notice based on whether the claim concerned is an original claim or a supplemental claim;
 
 &emsp;(ii) shall provide that the contents for such notice be appropriate to the type of benefits or services sought under the claim;
 
 &emsp;(iii) shall specify for each type of claim for benefits the general information and evidence required to substantiate the basic elements of such type of claim; and
 
 &emsp;(iv) shall specify the time period limitations required pursuant to subsection (b).
+
+(3) The requirement to provide notice under paragraph (1) shall not apply with respect to a supplemental claim that is filed within the timeframe set forth in subparagraphs (B) and (D) of section 5110(a)(2) of this title.
 
 (b)
 
@@ -34,7 +36,11 @@ Time Limitation.—(1) In the case of information or evidence that the claimant 
 
 (B) For purposes of this paragraph, the term "maximum benefit" means the highest evaluation assignable in accordance with the evidence of record, as long as such evidence is adequate for rating purposes and sufficient to grant the earliest possible effective date in accordance with section 5110 of this title.
 
-(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L.110–389, title I, §101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, §504(a), Aug. 6, 2012, 126 Stat. 1191.)
+(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L. 110–389, title I, §101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, §504(a), Aug. 6, 2012, 126 Stat. 1191; Pub. L. 115–55, §2(b), Aug. 23, 2017, 131 Stat. 1105.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2(b) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -43,6 +49,12 @@ A prior section 5103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3003; Pu
 Another prior section 5103 was renumbered section 8303 of this title.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–55, §2(b)(1), substituted "Except as provided in paragraph (3), the" for "The".
+
+Subsec. (a)(2)(B)(i). Pub. L. 115–55, §2(b)(2), substituted "or a supplemental claim;" for ", a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;".
+
+Subsec. (a)(3). Pub. L. 115–55, §2(b)(3), added par. (3).
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §504(a)(1), substituted "The" for "Upon receipt of a complete or substantially complete application, the" and "provide to" for "notify" and inserted "by the most effective means available, including electronic communication or notification in writing, notice" before "of any information".
 
@@ -55,6 +67,10 @@ Subsec. (b)(4), (5). Pub. L. 112–154, §504(a)(2), added pars. (4) and (5).
 Subsec. (b)(3). Pub. L. 108–183, §701(b)(2), added par. (3).
 
 <b>2001</b>—Subsec. (b)(1). Pub. L. 107–14 substituted "one year" for "1 year".
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
 
 #### Effective Date of 2012 Amendment
 

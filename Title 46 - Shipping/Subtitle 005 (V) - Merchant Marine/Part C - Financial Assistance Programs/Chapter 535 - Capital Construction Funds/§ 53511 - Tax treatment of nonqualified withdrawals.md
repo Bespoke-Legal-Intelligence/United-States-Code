@@ -86,7 +86,7 @@ In general.—For a taxable year for which there is a nonqualified withdrawal (i
 
 &emsp;(2)
 
-Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
+Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) <sup>1</sup> of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
 
 &emsp;(3)
 
@@ -94,7 +94,7 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;&emsp;(A) that portion shall not be taken into account under paragraph (1); and
 
-&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172 of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
+&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
 
 &emsp;(4)
 
@@ -122,6 +122,10 @@ In subsection (c)(3)(C), the words "or in the case of any nonqualified withdrawa
 
 In subsection (d), the words "made in a taxable year beginning in 1970 or 1971 is 8 percent" are omitted as obsolete.
 
+#### References in Text
+
+Section 1201 of such Code, referred to in subsec. (f)(2), means section 1201 of the Internal Revenue Code of 1986, act Aug. 16, 1954, ch. 736, 68A Stat. 320, which was repealed by Pub. L. 115–97, title I, §13001(b)(2)(A), Dec. 22, 2017, 131 Stat. 2096, applicable to taxable years beginning after Dec. 31, 2017.
+
 #### Amendments
 
 <b>2013</b>—Subsec. (f)(2). Pub. L. 112–240 substituted "20 percent" for "15 percent".
@@ -135,4 +139,6 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: "For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, \[former\] 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting "15 percent" for "20 percent"\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code."
 
 \[Section 303 of Pub. L. 108–27 was repealed by Pub. L. 112–240, title I, §102(a), Jan. 2, 2013, 126 Stat. 2318.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

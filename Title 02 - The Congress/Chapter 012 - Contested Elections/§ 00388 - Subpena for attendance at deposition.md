@@ -16,7 +16,7 @@ Service of the subpena shall be made upon the witness no later than three days b
 
 #### (c) Place of examination
 
-A witness may be required to attend an examination only in the county wherein he resides or is employed, or transacts his business in person, or is served with a subpena, or within forty miles of the place of service.
+A witness may be required to attend an examination only in the county wherein he resides or is employed, or transacts his business in person,or is served with a subpena, or within forty miles of the place of service.
 
 #### (d) Form
 

@@ -44,7 +44,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (4) Dividends
 
-&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
+&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganizationeffective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
 
 #### (5) Certification prior to dividend
 
@@ -90,7 +90,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the HoldingCompany or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
+&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the Holding Company or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
 
 #### (ii) Books and records
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 daysof the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -268,7 +268,7 @@ For purposes of this section:
 
 #### References in Text
 
-Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208,div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
+Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 
 #### Prior Provisions
 

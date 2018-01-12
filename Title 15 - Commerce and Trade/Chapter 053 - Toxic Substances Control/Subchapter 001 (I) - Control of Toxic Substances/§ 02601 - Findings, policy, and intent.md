@@ -62,7 +62,7 @@ Pub. L. 94–469, §1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L.
 
 #### No Retroactivity of Pub. L. 114–182 Amendments
 
-Pub. L. 114–182, title I, §20, June 22, 2016, 130 Stat. 510, provided that: "Nothing in sections 1 through 19\[amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and section 6939f of Title 42, The Public Health and Welfare, repealing section 2624 of this title, and enacting provisions set out as a note under this section\], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act \[June 22, 2016\]."
+Pub. L. 114–182, title I, §20, June 22, 2016, 130 Stat. 510, provided that: "Nothing in sections 1 through 19 \[amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and section 6939f of Title 42, The Public Health and Welfare, repealing section 2624 of this title, and enacting provisions set out as a note under this section\], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act \[June 22, 2016\]."
 
 #### Federal Compliance With Pollution Control Standards
 

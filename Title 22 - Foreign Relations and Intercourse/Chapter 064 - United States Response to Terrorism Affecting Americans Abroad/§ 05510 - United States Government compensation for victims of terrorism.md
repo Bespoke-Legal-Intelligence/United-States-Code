@@ -12,7 +12,7 @@ The President may establish a board to develop criteria for compensation and to 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in the case of any individual whose death was a direct result of the Pan American Airways Flight 103 terrorist disaster over Lockerbie, Scotland, on December 21, 1988, any tax imposed by subtitle A of title 26 shall not apply—
+&emsp;Subject to paragraph (2), in the case of any individual whose death was a direct result ofthe Pan American Airways Flight 103 terrorist disaster over Lockerbie, Scotland, on December 21, 1988, any tax imposed by subtitle A of title 26 shall not apply—
 
 &emsp;&emsp;(A) with respect to the taxable year which includes December 21, 1988, and
 

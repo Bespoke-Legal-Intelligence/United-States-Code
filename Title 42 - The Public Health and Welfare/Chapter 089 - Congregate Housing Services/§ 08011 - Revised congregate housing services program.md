@@ -54,9 +54,9 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n)—
 
-&emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
+&emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independencewithin a home environment for such residents capable of self-care with appropriate supportive services; or
 
 &emsp;&emsp;(B) to adapt housing to better accommodate the physical requirements and service needs of eligible residents.
 
@@ -72,7 +72,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (1) In general
 
-&emsp;A congregate services program under this section shall provide meal and other services for eligible project residents (and other residents and nonresidents, as provided in subsection (e) of this section), as provided in this section, that are coordinated on site.
+&emsp;A congregate services program under this section shall provide meal and other services for eligible project residents (and other residents and nonresidents, as provided in subsection (e)), as provided in this section, that are coordinated on site.
 
 #### (2) Meal services
 
@@ -128,11 +128,11 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
 
-&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
+&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> on an ongoing basis to assess the service needs of eligible residents;
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
-&emsp;&emsp;(C) mobilizing public and private resources to ensure that the qualifying supportive services identified pursuant to subsection (d) of this section can be funded over the time period identified under such subsection;
+&emsp;&emsp;(C) mobilizing public and private resources to ensure that the qualifying supportive services identified pursuant to subsection (d)can be funded over the time period identified under such subsection;
 
 &emsp;&emsp;(D) monitoring and evaluating the impact and effectiveness of any supportive service program receiving capital or operating assistance under this section; and
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e). Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -192,7 +192,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Eligibility of other residents
 
-&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negatively affect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d) of this section.
+&emsp;The elderly and persons with disabilities who reside in an eligible housing project other than eligible project residents under paragraph (1) may receive services from a congregate services program under this section if the housing managers, congregate service coordinators, and the professional assessment committee jointly determine that the participation of such individuals will not negatively affect the provision of services to eligible project residents. Residents eligible for services under this paragraph shall pay fees as provided under subsection (d).
 
 #### (5) Eligibility of nonresidents
 
@@ -200,7 +200,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (f) Eligible contract recipients and distribution of assistance
 
-The Secretary concerned may provide assistance under this section and enter into contracts under subsection (b) of this section with—
+The Secretary concerned may provide assistance under this section and enter into contracts under subsection (b) with—
 
 &emsp;(1) owners of eligible housing;
 
@@ -218,7 +218,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;(3) a description of qualifying supportive services that can reasonably be expected to be made available to eligible residents over a 5-year period;
 
-&emsp;(4) a firm commitment from one or more sources of assistance ensuring that some or all of the qualifying supportive services identified under paragraph (3) will be provided for not less than 1 year following the completion of activities assisted under subsection (d) of this section;
+&emsp;(4) a firm commitment from one or more sources of assistance ensuring that some or all of the qualifying supportive services identified under paragraph (3) will be provided for not less than 1 year following the completion of activities assisted under subsection (d);
 
 &emsp;(5) a description of public or private sources of assistance that are likely to fund or provide qualifying supportive services, including evidence of any intention to provide assistance expressed by State and local governments, private foundations, and other organizations (including for-profit and nonprofit organizations);
 
@@ -230,7 +230,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;&emsp;(C) the agency and the applicant will, during the term of the contract, actively seek assistance for such services from other sources;
 
-&emsp;(7) a description of any fees that would be established pursuant to subsection (d) of this section; and
+&emsp;(7) a description of any fees that would be established pursuant to subsection (d); and
 
 &emsp;(8) such other information or certifications that the Secretary determines to be necessary or appropriate to achieve the purposes of this section.
 
@@ -242,7 +242,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;Each Secretary concerned shall establish criteria for selecting States, Indian tribes, units of general local government, and local nonprofit housing sponsors to receive assistance under this section, and shall select such entities to receive assistance. The criteria for selection shall include consideration of—
 
-&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) of this section will foster independent living and the provision of such services;
+&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) will foster independent living and the provision of such services;
 
 &emsp;&emsp;(B) the types and priorities of the basic services proposed to be provided, the appropriateness of the targeting of services, the methods of providing for deinstitutionalized older individuals and individuals with disabilities, and the relationship of the proposal to the needs and characteristics of the eligible residents of the projects where the services are to be provided;
 
@@ -260,7 +260,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (2) Evaluation of provision of congregate services programs
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n) <sup>4</sup> of this section, establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n),<sup>4</sup> establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
 
 &emsp;&emsp;(A) to review and evaluate the performance of the congregate services programs of eligible housing projects receiving assistance under this section in such State; and
 
@@ -272,19 +272,19 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (A) Contribution requirement
 
-&emsp;&emsp;In providing contracts under subsection (b) of this section, each Secretary concerned shall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
+&emsp;&emsp;In providing contracts under subsection (b), each Secretary concerned shall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
 
-&emsp;&emsp;&emsp;(i) Each State, Indian tribe, unit of general <sup>5</sup> government, or nonprofit housing sponsor that receives amounts under a contract under subsection (b) of this section shall supplement any such amount with amounts sufficient to provide 50 percent of the cost of providing the congregate services program. Any monetary or in-kind contributions received by a congregate services program under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] may be considered for purposes of fulfilling the requirement under this clause. The Secretary concerned shall encourage owners to use excess residual receipts to the extent available to supplement funds for retrofit and supportive services under this section.
+&emsp;&emsp;&emsp;(i) Each State, Indian tribe, unit of general <sup>5</sup> government, or nonprofit housing sponsor that receives amounts under a contract under subsection (b) shall supplement any such amount with amounts sufficient to provide 50 percent of the cost of providing the congregate services program. Any monetary or in-kind contributions received by a congregate services program under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] may be considered for purposes of fulfilling the requirement under this clause. The Secretary concerned shall encourage owners to use excess residual receipts to the extent available to supplement funds for retrofit and supportive services under this section.
 
-&emsp;&emsp;&emsp;(ii) The Secretary concerned shall provide 40 percent of the cost, with amountsunder contracts under subsection (b) of this section.
+&emsp;&emsp;&emsp;(ii) The Secretary concerned shall provide 40 percent of the cost, with amounts under contracts under subsection (b).
 
-&emsp;&emsp;&emsp;(iii) Fees under subsection (d)(7) of this section shall provide 10 percent of the cost.
+&emsp;&emsp;&emsp;(iii) Fees under subsection (d)(7) shall provide 10 percent of the cost.
 
 #### (B) Exceptions
 
 &emsp;&emsp;(i) For any congregate services program that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 28, 1990,<sup>6</sup> the unit of general local government or nonprofit housing sponsor, in coordination with a local government with respect to such program shall not be subject to the requirement to provide supplemental contributions under subparagraph (A)(i) (for such program) for the 6-year period beginning on the expiration of the contract for such assistance. The Secretary concerned shall require each such program to maintain, for such 6-year period, the same dollar amount of annual contributions in support of the services eligible for assistance under this section as were contributed to such program during the year preceding November 28, 1990.<sup>6</sup>
 
-&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) of this section regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costs shall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
+&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costs shall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
 
 #### (C) Eligible supplemental contributions
 
@@ -320,11 +320,11 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
-&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amountsunder the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
+&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
 
 #### (4) Administrative cost limitation
 
-&emsp;A recipient of assistance under this section may not use more than 10 percent of the sum of such assistance and the contribution amounts required under subsection (i)(1)(A)(i) of this section for administrative costs and shall ensure that any entity to which the recipient distributes amounts from such sum may not expend more than a reasonable amount from such distributed amounts for administrative costs. Administrative costs may not include any capital expenses.
+&emsp;A recipient of assistance under this section may not use more than 10 percent of the sum of such assistance and the contribution amounts required under subsection (i)(1)(A)(i) for administrative costs and shall ensure that any entity to which the recipient distributes amounts from such sum may not expend more than a reasonable amount from such distributed amounts for administrative costs. Administrative costs may not include any capital expenses.
 
 #### (k) Definitions
 
@@ -370,7 +370,7 @@ For purposes of this section:
 
 &emsp;(14) The term "person with disabilities" has the meaning given the term by section 8013 of this title.
 
-&emsp;(15) The term "professional assessment committee" means a committee established under subsection (e)(3)(B) of this section.
+&emsp;(15) The term "professional assessment committee" means a committee established under subsection (e)(3)(B).
 
 &emsp;(16) The term "qualifying supportive services" means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
 
@@ -392,7 +392,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
-&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) <sup>11</sup> of this section.
+&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).<sup>11</sup>
 
 #### (l) Reports to Congress
 
@@ -408,7 +408,7 @@ For purposes of this section:
 
 #### (2) Submission of data to Secretary concerned
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m) of this section, for the submission of data by recipients of assistance under this section to be used in the repeat <sup>12</sup> required by paragraph (1).
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m), for the submission of data by recipients of assistance under this section to be used in the repeat <sup>12</sup> required by paragraph (1).
 
 #### (m) Regulations
 
@@ -514,7 +514,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>3</sup></i><i> So in original. Probably should be "certification".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection "(m)".</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection "(m),".</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be "general local".</i>
 
@@ -528,7 +528,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>10</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 
-<i><sup>11</sup></i><i> So in original. Probably should be subsection "(h)(1)(B)".</i>
+<i><sup>11</sup></i><i> So in original. Probably should be subsection "(h)(1)(B)."</i>
 
 <i><sup>12</sup></i><i> So in original. Probably should be "report".</i>
 

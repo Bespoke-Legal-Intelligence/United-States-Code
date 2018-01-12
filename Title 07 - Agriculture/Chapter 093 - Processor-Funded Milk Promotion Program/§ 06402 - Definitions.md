@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (6) Research
 
-&emsp;The term "research" means market research to support advertising and promotion efforts,including educational activities, research directed to product characteristics, product development, including new products or improved technology in production, manufacturing or processing of milk and the products of milk.
+&emsp;The term "research" means market research to support advertising and promotion efforts, including educational activities, research directed to product characteristics, product development, including new products or improved technology in production, manufacturing or processing of milk and the products of milk.
 
 #### (7) Secretary
 

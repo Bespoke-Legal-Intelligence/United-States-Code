@@ -88,7 +88,7 @@ For purposes of this chapter—
 
 (t) The term "shipping container" means any container used or intended for use in packaging the product packed in an immediate container.
 
-(u) The term "immediate container" includes any consumer package; or any other containerin which poultry products, not consumer packaged, are packed.
+(u) The term "immediate container" includes any consumer package; or any other container in which poultry products, not consumer packaged, are packed.
 
 (v) The term "capable of use as human food" shall apply to any carcass, or part or product of a carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 

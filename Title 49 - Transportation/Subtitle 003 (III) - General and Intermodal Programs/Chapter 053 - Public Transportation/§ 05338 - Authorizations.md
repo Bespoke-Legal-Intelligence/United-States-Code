@@ -52,7 +52,7 @@ Allocation of funds.—Of the amounts made available under paragraph (1)—
 
 &emsp;&emsp;(K) $2,507,000,000 for fiscal year 2016, $2,549,670,000 for fiscal year 2017, $2,593,703,558 for fiscal year 2018, $2,638,366,859 for fiscal year 2019, and $2,683,798,369 for fiscal year 2020 shall be available to carry out section 5337;
 
-&emsp;&emsp;(L) $427,800,000 for fiscal year 2016, $436,356,000 for fiscal year 2017, $445,519,476 for fiscal year 2018, $454,964,489 for fiscal year 2019, and $464,609,736 for fiscal year 2020 shall be available for the bus and buses facilities program under section 5339(a);
+&emsp;&emsp;(L) $427,800,000 for fiscal year 2016, $436,356,000 for fiscal year 2017, $445,519,476 for fiscal year 2018, $454,964,489 for fiscal year 2019, and $464,609,736 for fiscal year 2020 shallbe available for the bus and buses facilities program under section 5339(a);
 
 &emsp;&emsp;(M) $268,000,000 for fiscal year 2016, $283,600,000 for fiscal year 2017, $301,514,000 for fiscal year 2018, $322,059,980 for fiscal year 2019, and $344,044,179 for fiscal year 2020 shall be available for buses and bus facilities competitive grants under section 5339(b) and no or low emission grants under section 5339(c), of which $55,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5339(c); and
 
@@ -148,7 +148,7 @@ Grants financed from general fund.—A grant or contract that is approved by the
 
 Availability of Amounts.—Amounts made available by or appropriated under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985; Pub. L. 113–159, title I, §1203, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1203, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1203, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1203, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1203, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3016, Dec. 4, 2015, 129 Stat. 1479.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c),\(e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985; Pub. L. 113–159, title I, §1203, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1203, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1203, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1203, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1203, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3016, Dec. 4, 2015, 129 Stat. 1479.)
 
 Historical and Revision Notes
 
@@ -322,7 +322,7 @@ Pub. L. 114–73, §1203(a)(2)(B), substituted "and $1,393,443 for the period be
 
 Pub. L. 114–41, §1203(a)(2)(B), substituted "for each of fiscal years 2013 through 2015 and $792,350 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each of fiscal years 2013 and 2014 and $8,328,767 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
-Pub. L. 114–21, §1203(a)(2)(B), substituted "and $8,328,767 for the period beginning on October 1, 2014,and ending on July 31, 2015," for "and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+Pub. L. 114–21, §1203(a)(2)(B), substituted "and $8,328,767 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
 Subsec. (a)(2)(C). Pub. L. 114–87, §1203(a)(2)(C), substituted "and $791,836,749 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $621,287,295 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
 
@@ -374,7 +374,7 @@ Pub. L. 114–21, §1203(a)(2)(H), substituted "and $3,206,575 for the period be
 
 Subsec. (a)(2)(I). Pub. L. 114–87, §1203(a)(2)(I), substituted "and $384,654,372 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $301,805,738 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
 
-Pub. L. 114–73, §1203(a)(2)(I), substituted "and $301,805,738 for the period beginning on October 1, 2015,and ending on November 20, 2015," for "and $171,615,027 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+Pub. L. 114–73, §1203(a)(2)(I), substituted "and $301,805,738 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $171,615,027 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
 
 Pub. L. 114–41, §1203(a)(2)(I), substituted "$2,165,900,000 for fiscal year 2015, and $171,615,027 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $1,803,927,671 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
@@ -440,7 +440,7 @@ Subsec. (h)(1). Pub. L. 114–87, §1203(g)(1), substituted "and $18,469,945 for
 
 Pub. L. 114–73, §1203(g)(1), substituted "and $14,491,803 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $8,240,437 for the period beginning on October 1, 2015, and ending on October 29, 2015".
 
-Pub. L. 114–41, §1203(g)(1), substituted "$104,000,000 for fiscal year 2015, and $8,240,437 for the period beginningon October 1, 2015, and ending on October 29, 2015" for "and $86,619,178 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+Pub. L. 114–41, §1203(g)(1), substituted "$104,000,000 for fiscal year 2015, and $8,240,437 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $86,619,178 for the period beginning on October 1, 2014, and ending on July 31, 2015".
 
 Pub. L. 114–21, §1203(g)(1), substituted "and $86,619,178 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $69,238,356 for the period beginning on October 1, 2014, and ending on May 31, 2015".
 
@@ -470,7 +470,7 @@ Subsec. (a)(2)(C). Pub. L. 113–159, §1203(a)(2)(C), substituted ", $4,458,65
 
 Subsec. (a)(2)(D). Pub. L. 113–159, §1203(a)(2)(D), substituted ", $258,300,000 for fiscal year 2014, and $171,964,110 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $258,300,000 for fiscal year 2014".
 
-Subsec. (a)(2)(E). Pub. L. 113–159, §1203(a)(2)(E), substituted ", $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $607,800,000 for fiscal year 2014", ", $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $30,000,000 for fiscal year 2014", and ", $20,000,000 for fiscal year 2014, and $13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $20,000,000 for fiscal year 2014".
+Subsec. (a)(2)(E). Pub. L. 113–159, §1203(a)(2)(E), substituted ", $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $607,800,000 for fiscal year 2014", ", $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $30,000,000 for fiscal year 2014", and ", $20,000,000 for fiscal year 2014, and$13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015," for "and $20,000,000 for fiscal year 2014".
 
 Subsec. (a)(2)(F). Pub. L. 113–159, §1203(a)(2)(F), inserted "and $1,997,260 for the period beginning on October 1, 2014, and ending on May 31, 2015," after "2014".
 
@@ -508,7 +508,7 @@ Pub. L. 112–140, §§1(c), 306(a)(1), temporarily added subpar. (G), which mad
 
 Pub. L. 112–102, §306(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: "$4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012."
 
-Subsec. (b)(2)(A). Pub. L. 112–141, §113006(a)(2)(A), substituted "and $113,500,000 for each of fiscal years 2009through 2012" for "$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(A). Pub. L. 112–141, §113006(a)(2)(A), substituted "and $113,500,000 for each of fiscal years 2009 through 2012" for "$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(A), temporarily substituted "$86,260,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -562,7 +562,7 @@ Pub. L. 112–140, §§1(c), 306(a)(2)(I), temporarily substituted "$70,300,000 
 
 Pub. L. 112–102, §306(a)(2)(I), substituted "$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "$92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009through 2012" for "$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009 through 2012" for "$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(J), temporarily substituted "$20,444,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -588,7 +588,7 @@ Pub. L. 112–102, §306(a)(2)(M), substituted "$465,000,000 for each of fiscal 
 
 Subsec. (b)(2)(N). Pub. L. 112–141, §113006(a)(2)(N), substituted "and $8,800,000 for each of fiscal years 2009 through 2012" for "$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
-Pub. L. 112–140, §§1(c), 306(a)(2)(N), temporarily substituted "$6,688,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 306(a)(2)(N), temporarily substituted "$6,688,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$6,600,000 forthe period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §306(a)(2)(N), substituted "$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "$8,800,000 for each of fiscal years 2009 and 2010, $8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
@@ -744,7 +744,7 @@ Pub. L. 111–147, §436(a)(2)(I), substituted "$92,500,000 for each of fiscal y
 
 Subsec. (b)(2)(J). Pub. L. 111–322, §2306(a)(2)(J), substituted "$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011" for "$6,725,000 for the period beginning October 1, 2010 and ending December 31, 2010".
 
-Pub. L. 111–147, §436(a)(2)(J), substituted "$26,900,000 for each of fiscal years 2009 and 2010, and $6,725,000 for the period beginning October 1, 2010 and ending December 31, 2010," for "and $26,900,000 for fiscal year 2009".
+Pub. L. 111–147, §436(a)(2)(J), substituted "$26,900,000 for each of fiscal years 2009 and 2010, and $6,725,000 forthe period beginning October 1, 2010 and ending December 31, 2010," for "and $26,900,000 for fiscal year 2009".
 
 Subsec. (b)(2)(K). Pub. L. 111–322, §2306(a)(2)(K), substituted "$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011" for "$875,000 for the period beginning October 1, 2010 and ending December 31, 2010".
 

@@ -1,6 +1,6 @@
 ### §2127. Scholarships and financial assistance: payments
 
-(a) The Secretary of Defense may provide for the payment of all educational expenses incurred by a member of the program, including tuition, fees, books, and laboratory expenses. Such payments, however, shall be limited to those educational expenses normally incurred by students at the institution and in the health profession concerned who are not members of the program.
+(a) The Secretary of Defense may provide for the payment of all educational expenses incurred by a member of the program, including tuition, fees, books, and laboratory expenses. Such payments, however, shall be limited to those educational expenses normally incurred by students at the institution and in the healthprofession concerned who are not members of the program.
 
 (b) The Secretary of Defense may contract with an accredited civilian educational institution for the payment of tuition and other educational expenses of members of the program authorized by this subchapter. Payment to such institutions may be made without regard to subsections (a) and (b) of section 3324 of title 31.
 

@@ -34,8 +34,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3741\.](Subchapter%20003%20%28III%29%20-%20Recurring%20Certifications%20and%20Reports/%C2%A7%2003741%20-%20Annual%20certifications%20on%20use%20of%20facilities%20being%20constructed%20for%20Department%20of%20Defense%20Cooperative%20Threat%20Reduction%20projects%20or%20activities.md) | Annual certifications on use of facilities being constructed for Department of Defense Cooperative Threat Reduction projects or activities. |
-| [3742\.](Subchapter%20003%20%28III%29%20-%20Recurring%20Certifications%20and%20Reports/%C2%A7%2003742%20-%20Requirement%20to%20submit%20summary%20of%20amounts%20requested%20by%20project%20category.md) | Requirement to submit summary of amounts requested by project category. |
+| 3741, 3742. Repealed. |  |
 | [3743\.](Subchapter%20003%20%28III%29%20-%20Recurring%20Certifications%20and%20Reports/%C2%A7%2003743%20-%20Reports%20on%20activities%20and%20assistance%20under%20Department%20of%20Defense%20Cooperative%20Threat%20Reduction%20Program.md) | Reports on activities and assistance under Department of Defense Cooperative Threat Reduction Program. |
 | [3744\.](Subchapter%20003%20%28III%29%20-%20Recurring%20Certifications%20and%20Reports/%C2%A7%2003744%20-%20Metrics%20for%20Department%20of%20Defense%20Cooperative%20Threat%20Reduction%20Program.md) | Metrics for Department of Defense Cooperative Threat Reduction Program. |
 

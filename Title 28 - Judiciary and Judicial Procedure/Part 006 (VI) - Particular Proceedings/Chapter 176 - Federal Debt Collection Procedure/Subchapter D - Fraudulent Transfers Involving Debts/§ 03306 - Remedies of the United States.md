@@ -26,3 +26,7 @@ Limitation.—A claim for relief with respect to a fraudulent transfer or obliga
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
 
+#### Effective Date
+
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
+

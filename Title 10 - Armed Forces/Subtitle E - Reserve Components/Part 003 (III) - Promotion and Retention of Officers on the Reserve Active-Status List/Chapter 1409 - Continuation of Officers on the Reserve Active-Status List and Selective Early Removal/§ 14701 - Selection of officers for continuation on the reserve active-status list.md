@@ -16,7 +16,7 @@ Consideration for Continuation.—(1)(A) A reserve officer of the Army, Navy, Ai
 
 (3) A reserve officer who holds the grade of major or lieutenant commander and who is subject to separation under section 14513 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 24 years of commissioned service.
 
-(4) A reserve officer who holds the grade of lieutenant colonel or commander and who is subject to separation under section 14514 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 33 years of commissioned service.
+(4) A reserve officer who holds the grade of lieutenant colonel or commander and who issubject to separation under section 14514 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 33 years of commissioned service.
 
 (5) A reserve officer who holds the grade of colonel in the Army, Air Force, or Marine Corps or the grade of captain in the Navy and who is subject to separation under section 14514 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 35 years of commissioned service.
 

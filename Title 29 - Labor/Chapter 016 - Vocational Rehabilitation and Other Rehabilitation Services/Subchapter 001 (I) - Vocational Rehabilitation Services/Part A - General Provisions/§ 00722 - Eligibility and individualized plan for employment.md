@@ -20,7 +20,7 @@
 
 #### (B) Responsibilities
 
-&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph\(A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) of this title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
+&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) of this title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
 
 #### (3) Presumption of eligibility
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c);
 
-&emsp;&emsp;(D) the individual shall be provided with a description of services available from theclient assistance program under section 732 of this title and information on how to contact that program; and
+&emsp;&emsp;(D) the individual shall be provided with a description of services available from the client assistance program under section 732 of this title and information on how to contact that program; and
 
 &emsp;&emsp;(E) any ineligibility determination that is based on a finding that the individual is incapable of benefiting in terms of an employment outcome shall be reviewed—
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the eligible individual or, as appropriate, the individual's representative;
 
-&emsp;&emsp;&emsp;(ii) amended, as necessary, by the individual or, as appropriate, the individual's representative, in collaboration with a representative of the designated State agency or a qualified vocational rehabilitation counselor (to the extent determined to be appropriate by the individual), ifthere are substantive changes in the employment outcome, the vocational rehabilitation services to be provided, or the service providers of the services (which amendments shall not take effect until agreed to and signed by the eligible individual or, as appropriate, the individual's representative, and by a qualified vocational rehabilitation counselor employed by the designated State unit); and
+&emsp;&emsp;&emsp;(ii) amended, as necessary, by the individual or, as appropriate, the individual's representative, in collaboration with a representative of the designated State agency or a qualified vocational rehabilitation counselor (to the extent determined to be appropriate by the individual), if there are substantive changes in the employment outcome, the vocational rehabilitation services to be provided, or the service providers of the services (which amendments shall not take effect until agreed to and signed by the eligible individual or, as appropriate, the individual's representative, and by a qualified vocational rehabilitation counselor employed by the designated State unit); and
 
 &emsp;&emsp;&emsp;(iii) amended, as necessary, to include the postemployment services and service providers that are necessary for the individual to maintain or regain employment, consistent with the individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
 
@@ -240,7 +240,7 @@
 
 #### (A) Procedures
 
-&emsp;&emsp;Each State shall ensure that procedures are established and implemented under this subsection to allow parties described in paragraph (1) to disputes involving any determination described in paragraph (1) to resolve such disputes through a mediation process that, at a minimum, shall be available whenever a hearing is requested under this subsection.
+&emsp;&emsp;Each State shall ensure that procedures are established and implemented under thissubsection to allow parties described in paragraph (1) to disputes involving any determination described in paragraph (1) to resolve such disputes through a mediation process that, at a minimum, shall be available whenever a hearing is requested under this subsection.
 
 #### (B) Requirements
 
@@ -280,7 +280,7 @@
 
 #### (A) Officer
 
-&emsp;&emsp;A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who, on reviewing the evidence presented, shall issue a written decision based on the provisions of the approved State plan, requirements specified in thischapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the written decision to the applicant or eligible individual, or, as appropriate, the applicant's representative or individual's representative, and to the designated State unit. The impartial hearing officer shall have the authority to render a decision and require actions regarding the applicant's or eligible individual's vocational rehabilitation services under this subchapter.
+&emsp;&emsp;A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who, on reviewing the evidence presented, shall issue a written decision based on the provisions of the approved State plan, requirements specified in this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the written decision to the applicant or eligible individual, or, as appropriate, the applicant's representative or individual's representative, and to the designated State unit. The impartial hearing officer shall have the authority to render a decision and require actions regarding the applicant's or eligible individual's vocational rehabilitation services under this subchapter.
 
 #### (B) List
 

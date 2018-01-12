@@ -30,7 +30,7 @@ Section 605b, acts July 21, 1932, ch. 520, §201, 47 Stat. 711; Mar. 23, 1933, c
 
 Subsec. (e) related to the creation of regional agricultural credit corporations by the Reconstruction Finance Corporation, the functions of which Corporation were transferred by act June 30, 1947, ch. 166, title II, §206, 61 Stat. 208 (12 U.S.C. 1148) to the Farm Credit Administration and which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 605c, act July 21, 1932, ch. 520, §206, 47 Stat. 714, authorized loans to borrowers organized under lawsof Alaska, District of Columbia, Hawaii and Puerto Rico. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
+Section 605c, act July 21, 1932, ch. 520, §206, 47 Stat. 714, authorized loans to borrowers organized under laws of Alaska, District of Columbia, Hawaii and Puerto Rico. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
 Section 605d, act July 21, 1932, ch. 520, §207, 47 Stat. 715, prohibited loans to financial institutions whose officers or directors are also directors of Reconstruction Finance Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 

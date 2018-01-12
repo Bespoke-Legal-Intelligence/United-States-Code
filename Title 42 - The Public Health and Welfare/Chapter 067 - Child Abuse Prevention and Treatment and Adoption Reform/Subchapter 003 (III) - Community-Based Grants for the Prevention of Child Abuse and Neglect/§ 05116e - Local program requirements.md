@@ -52,7 +52,7 @@ In awarding local grants under this subchapter, a lead entity shall give priorit
 
 #### Prior Provisions
 
-A prior section 5116e, Pub. L. 93–247, title II, §206, formerly Pub. L. 98–473, title IV, §407, Oct. 12, 1984, 98 Stat. 2199; renumbered §206 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, 103 Stat. 764, 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116e, Pub. L. 93–247, title II, §206, formerly Pub. L. 98–473, title IV, §407, Oct. 12, 1984, 98 Stat.2199; renumbered §206 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(f), Oct. 25, 1989, 103 Stat. 764, 766, 768, related to withholding of grant payments upon failure to comply with provisions of this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 A prior section 205 of Pub. L. 93–247 was renumbered section 204 and is classified to section 5116d of this title.
 
@@ -64,7 +64,7 @@ Another prior section 205 of Pub. L. 93–247 was classified to section 5116d of
 
 Subsec. (a)(1). Pub. L. 111–320, §136(a)(2), substituted "parents," for "parents and" and inserted "in meaningful roles" before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 111–320, §136(a)(3), substituted "a comprehensive strategy to provide" for "a strategy to provide, over time,", "family-centered" for "familycentered", and ", to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect," for "and parents with young children,".
+Subsec. (a)(2). Pub. L. 111–320, §136(a)(3), substituted "a comprehensive strategy to provide" for "a strategy to provide, over time,", "family-centered" for "family centered", and ", to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect," for "and parents with young children,".
 
 Subsec. (a)(3). Pub. L. 111–320, §136(a)(4)(A), struck out introductory provisions which read as follows: "provide—".
 

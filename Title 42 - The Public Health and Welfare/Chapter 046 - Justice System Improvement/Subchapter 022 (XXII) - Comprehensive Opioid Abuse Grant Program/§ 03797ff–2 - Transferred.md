@@ -1,0 +1,6 @@
+### §3797ff–2. Transferred
+
+#### Codification
+
+Section 3797ff–2 was editorially reclassified as section 10703 of Title 34, Crime Control and Law Enforcement.
+

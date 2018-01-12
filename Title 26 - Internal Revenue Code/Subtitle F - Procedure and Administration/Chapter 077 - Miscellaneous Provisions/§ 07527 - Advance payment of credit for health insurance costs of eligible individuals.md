@@ -112,7 +112,7 @@ Pub. L. 111–344, title I, §118(b), Dec. 29, 2010, 124 Stat. 3616, provided th
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
-Amendment by section 1899A(a)(2) of Pub. L. 111–5 applicable to coverage months beginning on or after the first day of the first month beginning 60 days after Feb.17, 2009, see section 1899A(b) of Pub. L. 111–5, set out as a note under section 35 of this title.
+Amendment by section 1899A(a)(2) of Pub. L. 111–5 applicable to coverage months beginning on or after the first day of the first month beginning 60 days after Feb. 17, 2009, see section 1899A(b) of Pub. L. 111–5, set out as a note under section 35 of this title.
 
 Pub. L. 111–5, div. B, title I, §1899B(b), Feb. 17, 2009, 123 Stat. 424, provided that: "The amendments made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2008."
 

@@ -16,7 +16,7 @@ In this section:
 
 &emsp;For the purposes of this section only, the term "repackage", with respect to a drug, means to divide the volume of a drug into smaller amounts in order to—
 
-&emsp;&emsp;(A) extend the supply of a drug in response to the placement of the drug on a drugshortage list under section 356e of this title; and
+&emsp;&emsp;(A) extend the supply of a drug in response to the placement of the drug on a drug shortage list under section 356e of this title; and
 
 &emsp;&emsp;(B) facilitate access to the drug by hospitals within the same health system.
 
@@ -34,7 +34,7 @@ Subsection (b) shall only apply to a hospital, with respect to the repackaging o
 
 #### (1) Drug for intrasystem use only
 
-&emsp;In no case may a drug that has been repackaged in accordance with this section be sold or otherwise distributed by the health system or a hospital within the system to an entity or individual that is not a hospital within such health system.
+&emsp;In no case may a drug that has been repackaged in accordance with this section be sold orotherwise distributed by the health system or a hospital within the system to an entity or individual that is not a hospital within such health system.
 
 #### (2) Compliance with State rules
 

@@ -30,7 +30,7 @@ After consultation with the heating oil industry, the Secretary shall determine 
 
 &emsp;&emsp;(B) enter into exchange agreements for the petroleum distillate that results <sup>1</sup> in the Secretary receiving a greater volume of petroleum distillate as repayment than the volume provided to the acquirer;
 
-&emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalentin petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting in a loss of revenue or value to the United States; and
+&emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalent in petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting in a loss of revenue or value to the United States; and
 
 &emsp;(3) the Secretary shall only sell or dispose of the oil in the Reserve to entities customarily engaged in the sale and distribution of petroleum distillate.
 
@@ -54,7 +54,7 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted "by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average)" for "by more tan 60 percent over its 5 year rolling average for the months of mid-October through March".
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted "by more than 60 percent over its 5-year rolling average forthe months of mid-October through March (considered as a heating season average)" for "by more tan 60 percent over its 5 year rolling average for the months of mid-October through March".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "result".</i>
 

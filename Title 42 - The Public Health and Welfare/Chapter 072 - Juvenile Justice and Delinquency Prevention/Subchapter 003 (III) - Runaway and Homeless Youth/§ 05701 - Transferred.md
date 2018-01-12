@@ -1,0 +1,10 @@
+### §5701. Transferred
+
+#### Codification
+
+Section 5701 was editorially reclassified as section 11201 of Title 34, Crime Control and Law Enforcement.
+
+#### Report on Promising Strategies to End Youth Homelessness
+
+Pub. L. 108–96, title I, §118, Oct. 10, 2003, 117 Stat. 1170, provided that, not later than 2 years after Oct. 10, 2003, the Secretary of Health and Human Services, in consultation with the United States Interagency Council on Homelessness, was to submit to the Congress a report on promising strategies to end youth homelessness.
+

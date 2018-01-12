@@ -50,7 +50,7 @@ For purposes of this section, the term "trade or business" includes any activity
 
 #### (C) Qualifying organization
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualifying organization" means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, an agricultural and educational fair or exposition.
+&emsp;&emsp;For purposes of this paragraph, the term "qualifying organization" means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, anagricultural and educational fair or exposition.
 
 #### (3) Qualified convention and trade show activities
 
@@ -140,7 +140,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 &emsp;&emsp;&emsp;(i) $5, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1987" for "calendar year 1992" in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1987" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (3) Distribution which is incidental to the solicitation of charitable contributions described
 
@@ -192,13 +192,15 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 The term "unrelated trade or business" includes the provision of debt management plan services (as defined in section 501(q)(4)(B)) by any organization other than an organization which meets the requirements of section 501(q).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L. 95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893; Pub. L. 109–280, title XII, §1220(b), Aug. 17, 2006, 120 Stat. 1088.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L. 95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893; Pub. L. 109–280, title XII, §1220(b), Aug. 17, 2006, 120 Stat. 1088; Pub. L. 115–97, title I, §11002(d)(1)(Z), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2017</b>—Subsec. (h)(2)(C)(ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 <b>2006</b>—Subsec. (j). Pub. L. 109–280, which directed the addition of subsec. (j) to section 513, without specifying the act to be amended, was executed by making the addition to this section, which is section 513 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
@@ -227,6 +229,10 @@ Subsec. (e). Pub. L. 94–455, §1311(a), added subsec. (e).
 Subsec. (c). Pub. L. 91–172, §121(c), substituted "Advertising, etc., activities" for "Special rule for certain publishing businesses", in heading, and, in text, substituted provisions extending definition of trade or business to include any activity carried on for the production of income from the sale of goods or the performance of services, for provisions referring to publishing businesses carried on by an organization during a taxable year beginning before Jan. 1, 1953.
 
 <b>1960</b>—Subsec. (b)(2). Pub. L. 86–667 included trusts described in section 501(c)(17).
+
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -132,7 +132,7 @@
 
 &emsp;&emsp;(C) the unemployment rate, as determined by the appropriate available data, was not less than 1.5 times the national unemployment rate for that period;
 
-&emsp;&emsp;(D) the poverty rate (as determined by the most recent census data available) for eachpopulous census tract (or where not tracted, the equivalent county division as defined by the Bureau of the Census for the purpose of defining poverty areas) within the area was not less than 20 percent for the period to which such data relate; and
+&emsp;&emsp;(D) the poverty rate (as determined by the most recent census data available) for each populous census tract (or where not tracted, the equivalent county division as defined by the Bureau of the Census for the purpose of defining poverty areas) within the area was not less than 20 percent for the period to which such data relate; and
 
 &emsp;&emsp;(E) the area meets at least one of the following criteria:
 
@@ -186,7 +186,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
+&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibitassistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
 
 &emsp;&emsp;&emsp;(i) finds that the establishment of the new branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where the existing business entity conducts business operations; and
 

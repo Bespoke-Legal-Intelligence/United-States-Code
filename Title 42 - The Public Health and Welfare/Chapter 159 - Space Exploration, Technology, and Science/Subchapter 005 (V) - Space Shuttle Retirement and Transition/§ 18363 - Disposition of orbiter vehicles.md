@@ -16,7 +16,7 @@ There are authorized to be appropriated to NASA such sums as may be necessary to
 
 #### References in Text
 
-Section 613(a) of the National Aeronautics and Space Administration Authorization Act of 2008, referred toin subsecs. (a) and (b), is section 613(a) of Pub. L. 110–422, formerly classified to section 17761(a) of this title, which was transferred and is set out as a note under section 70501 of Title 51, National and Commercial Space Programs.
+Section 613(a) of the National Aeronautics and Space Administration Authorization Act of 2008, referred to in subsecs. (a) and (b), is section 613(a) of Pub. L. 110–422, formerly classified to section 17761(a) of this title, which was transferred and is set out as a note under section 70501 of Title 51, National and Commercial Space Programs.
 
 Title I, referred to in subsec. (c), is title I of Pub. L. 111–267, Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.
 

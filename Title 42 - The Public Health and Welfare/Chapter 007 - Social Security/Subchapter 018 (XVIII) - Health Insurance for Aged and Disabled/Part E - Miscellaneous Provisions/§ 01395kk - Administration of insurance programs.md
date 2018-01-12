@@ -44,7 +44,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 #### (3) Data described
 
-&emsp;The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessaryto protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters <sup>2</sup> XIX or XXI.
+&emsp;The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters <sup>2</sup> XIX or XXI.
 
 #### (4) Requirements
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subseque
 
 #### Report
 
-Pub. L. 114–10, title V, §502(b), Apr. 16, 2015, 129 Stat. 165, provided that: "Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act (42 U.S.C. 1395kk), as added by subsection (a), that have been conducted since such date of enactment."
+Pub. L. 114–10, title V, §502(b), Apr. 16, 2015, 129 Stat. 165, provided that: "Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act (42 U.S.C.1395kk), as added by subsection (a), that have been conducted since such date of enactment."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

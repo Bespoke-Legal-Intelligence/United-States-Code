@@ -28,7 +28,7 @@
 
 (2) Each member appointed under paragraph (1)(B) shall have knowledge or expertise in United States history, archival management, publishing, library science, or use of legislative records.
 
-(b) The Secretary of the Senate shall serve as Chairman during the two-year period beginningon January 1, 1991, and the Clerk of the House of Representatives shall serve as Chairman during the two-year period beginning on January 1, 1993. Thereafter, such members shall alternate serving as Chairman for a term of two years.
+(b) The Secretary of the Senate shall serve as Chairman during the two-year period beginning on January 1, 1991, and the Clerk of the House of Representatives shall serve as Chairman during the two-year period beginning on January 1, 1993. Thereafter, such members shall alternate serving as Chairman for a term of two years.
 
 (c)(1) Members of the Committee referred to in subsection (a)(1)(A) shall serve only while holding such offices. Members appointed to the Committee under subsection (a)(1)(B) shall serve for a term of two years, and may be reappointed without limitation. The initial appointments for such terms shall begin on January 1, 1991.
 

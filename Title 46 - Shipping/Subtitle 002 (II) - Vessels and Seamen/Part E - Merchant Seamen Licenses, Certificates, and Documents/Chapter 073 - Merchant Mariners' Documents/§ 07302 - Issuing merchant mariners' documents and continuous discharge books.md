@@ -24,7 +24,7 @@ Advance renewals.—A renewed merchant mariner's document may be issued under th
 
 (g)(1) The Secretary may, pending receipt and review of information required under subsections (c) and (d), immediately issue an interim merchant mariner's document valid for a period not to exceed 120 days, to—
 
-&emsp;(A) an individual to be employed as gaming personnel, entertainment personnel, wait staff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel orthe safety of the vessel, its crew, cargo or passengers; or
+&emsp;(A) an individual to be employed as gaming personnel, entertainment personnel, wait staff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel or the safety of the vessel, its crew, cargo or passengers; or
 
 &emsp;(B) an individual seeking renewal of, or qualifying for a supplemental endorsement to, a valid merchant mariner's document issued under this section.
 
@@ -60,7 +60,7 @@ Subsection (b) allows the Secretary to issue a continuous discharge book to an i
 
 Pub. L. 109–241, §901(h)(2), inserted "section" before "30305(b)(5)" and before "30304(a)(3)(A)".
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted "30305(b)(5) of title 49" for "section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)" and "30304(a)(3)(A) or (B) of title 49" for "section 205(a)(3)(A) or (B) of that Act".
+<b>2004</b>—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted "30305(b)(5) of title 49" for "section 206(b)(7) of the National DriverRegister Act of 1982 (23 U.S.C. 401 note)" and "30304(a)(3)(A) or (B) of title 49" for "section 205(a)(3)(A) or (B) of that Act".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–295, §324(a)(1), substituted "Except as provided in subsection (g), a" for "A".
 

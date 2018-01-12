@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f)
 
 <b>1992</b>—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1980</b>—Par. (5). Pub. L. 96–574 substituted " 'Unauthorized Propagation Prohibited' or 'Unauthorized SeedMultiplication Prohibited' " for " 'propagation prohibited' ".
+<b>1980</b>—Par. (5). Pub. L. 96–574 substituted " 'Unauthorized Propagation Prohibited' or 'Unauthorized Seed Multiplication Prohibited' " for " 'propagation prohibited' ".
 
 #### Effective Date of 1994 Amendment
 

@@ -38,11 +38,15 @@ Subsec. (c). Pub. L. 99–83, §120(2), added subsec. (c).
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–92 added subsec. (c).
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–92 substituted provisions relating to criteria for recovery of charges for administrative expenses calculated under section 2761(e)(1)(A) of this title, for provisions relating to reimbursement from amounts received for sales under sections 2761 and 2762 of this title of administrative expenses incurred by a United States government department or agency in carrying out functions under this chapter for the benefit of any foreign country.
+<b>1977</b>—Subsec. (b). Pub. L. 95–92 substituted provisions relating to criteria for recovery of charges for administrative expenses calculated under section 2761(e)(1)(A)of this title, for provisions relating to reimbursement from amounts received for sales under sections 2761 and 2762 of this title of administrative expenses incurred by a United States government department or agency in carrying out functions under this chapter for the benefit of any foreign country.
 
 <b>1976</b>—Pub. L. 94–329 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Effective Date
+
+Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 

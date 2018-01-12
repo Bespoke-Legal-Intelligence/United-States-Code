@@ -1,6 +1,6 @@
 ### §1665e. Consideration of ability to repay
 
-A card issuer may not open any credit card account for any consumer under an open end consumer credit plan, or increase any credit limitapplicable to such account, unless the card issuer considers the ability of the consumer to make the required payments under the terms of such account.
+A card issuer may not open any credit card account for any consumer under an open end consumer credit plan, or increase any credit limit applicable to such account, unless the card issuer considers the ability of the consumer to make the required payments under the terms of such account.
 
 (Pub. L. 90–321, title I, §150, as added Pub. L. 111–24, title I, §109(a), May 22, 2009, 123 Stat. 1743.)
 

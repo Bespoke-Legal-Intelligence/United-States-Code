@@ -20,7 +20,7 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 &emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10 percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
 
-&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housing agency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
+&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housingagency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
 
 #### (2) Provision of services for entire demonstration
 
@@ -38,7 +38,7 @@ An application under this section shall be submitted by a public housing agency 
 
 &emsp;(2) a description of the size and characteristics of the population of frail elderly persons and of their housing and supportive services needs;
 
-&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additionaleligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
+&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additional eligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
 
 &emsp;(4) a statement that the public housing agency will create a professional assessment committee or will work with another entity which will assist the public housing agency in identifying and providing only services that each frail elderly person needs to remain living independently;
 
@@ -46,7 +46,7 @@ An application under this section shall be submitted by a public housing agency 
 
 &emsp;(6) the identity of the proposed service providers and a statement of qualifications;
 
-&emsp;(7) a description of the supportive services the public housing agency proposes to make available for the frail elderly persons to be served, the estimated costs of such services, a description of the resources that are expected to be made available to cover the portion of the costs required by subsection (c)(1) of this section;
+&emsp;(7) a description of the supportive services the public housing agency proposes to make available for the frail elderly persons to be served, the estimated costs of such services, a description of the resources that are expected to be made available to cover the portion of the costs required by subsection (c)(1);
 
 &emsp;(8) assurances satisfactory to the Secretary that the supportive services will be provided for the demonstration period;
 
@@ -100,7 +100,7 @@ The Secretary may not approve any assistance for any program under this section 
 
 For purposes of this section:
 
-&emsp;(1) The term "demonstration period" means the 5-year period referred to in subsection (a) of this section.
+&emsp;(1) The term "demonstration period" means the 5-year period referred to in subsection (a).
 
 &emsp;(2) The term "elderly person" means a person who is at least 62 years of age.
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (2) Section 1437f allocation
 
-&emsp;From amounts provided pursuant to subsection (j) of this section and subject to availability in appropriation Acts, the Secretary shall enter into a contract with a public housing agency to provide housing assistance under section 1437f(b) of this title to assist elderly persons in at least 75 percent of the units in a single housing project with more than 100 units.
+&emsp;From amounts provided pursuant to subsection (j) and subject to availability in appropriation Acts, the Secretary shall enter into a contract with a public housing agency to provide housing assistance under section 1437f(b) of this title to assist elderly persons in at least 75 percent of the units in a single housing project with more than 100 units.
 
 #### (3) Section 1437f terms
 
@@ -138,7 +138,7 @@ For purposes of this section:
 
 #### (4) Supportive services
 
-&emsp;The Secretary shall allocate, for the project assisted pursuant to this subsection, a reasonable portion of the amounts appropriated pursuant to the authorization for funds for supportive services in subsection (k) of this section, based on the estimated number of project residents who will be frail elderly individuals during the 5-year period beginning on the date of initial occupancy of the project. Grants for supportive services may be used to assist any occupant in the demonstration project who is a frail elderly individual. Grants for supportive services under this subsection shall be subject to the other terms and conditions specified in this section.
+&emsp;The Secretary shall allocate, for the project assisted pursuant to this subsection, a reasonable portion of the amounts appropriated pursuant to the authorization for funds for supportive services in subsection (k), based on the estimated number of project residents who will be frail elderly individuals during the 5-year period beginning on the date of initial occupancy of the project. Grants for supportive services may be used to assist any occupant in the demonstration project who is a frail elderly individual. Grants for supportive services under this subsection shall be subject to the other terms and conditions specified in this section.
 
 #### (5) Applications
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (i) Report
 
-The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
+The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The reportshall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
 
 #### (j) Section 1437f funding
 
@@ -190,7 +190,7 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §605(c)(1), substituted "determined by the Secretary" for "beginning on November 28, 1990".
 
-Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: "The term 'demonstration period' means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section."
+Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: "The term 'demonstration period' means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a)."
 
 Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title."
 

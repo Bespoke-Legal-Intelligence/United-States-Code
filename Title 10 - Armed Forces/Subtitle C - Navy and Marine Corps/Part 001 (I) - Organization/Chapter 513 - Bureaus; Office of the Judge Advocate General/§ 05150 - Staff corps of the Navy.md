@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 114–328, §502(hh)(2), struck out subsec. (c) which read 
 
 <b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out at end "For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade."
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted "for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps" for "for promotion to the grade of rear admiral (lower half)" in first sentence.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted "for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half),in the case of an officer in the Medical Service Corps" for "for promotion to the grade of rear admiral (lower half)" in first sentence.
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–190 substituted "section 526" for "section 5444".
 

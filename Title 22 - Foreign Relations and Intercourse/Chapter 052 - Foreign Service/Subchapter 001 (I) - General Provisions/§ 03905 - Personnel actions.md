@@ -26,7 +26,7 @@ The Secretary shall administer the provisions of this chapter and shall prescrib
 
 > &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
-&emsp;&emsp;(B) a disclosure to the Special Counsel of the Merit Systems Protection Board, or to the Inspector General of an agency (including the Inspector General of the Departmentof State and the Foreign Service) or another employee designated by the head of the agency to receive such disclosures, of information which the member or applicant reasonably believes evidences—
+&emsp;&emsp;(B) a disclosure to the Special Counsel of the Merit Systems Protection Board, or to the Inspector General of an agency (including the Inspector General of the Department of State and the Foreign Service) or another employee designated by the head of the agency to receive such disclosures, of information which the member or applicant reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
 

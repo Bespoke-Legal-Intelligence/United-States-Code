@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title23",
- "package": "USCODE-2016-title23",
+ "package": "USCODE-2017-title23",
  "pieces": [
   {
    "id": "23_",
@@ -518,13 +518,13 @@
     ],
     [
      "L",
-     1392,
+     1390,
      "[Page 57]",
      true
     ],
     [
      "L",
-     1524,
+     1522,
      "[Page 58]",
      true
     ],
@@ -533,7 +533,7 @@
      1622,
      [
       [
-       226,
+       216,
        "[Page 59]"
       ]
      ]
@@ -550,7 +550,7 @@
    "marks": [
     [
      "L",
-     96,
+     90,
      "[Page 60]",
      true
     ]
@@ -565,57 +565,64 @@
    "id": "23_106",
    "marks": [
     [
-     "L",
-     86,
-     "[Page 61]",
-     true
-    ],
-    [
-     "L",
-     214,
-     "[Page 62]",
-     true
+     "I",
+     80,
+     [
+      [
+       207,
+       "[Page 61]"
+      ]
+     ]
     ],
     [
      "I",
-     312,
+     208,
      [
       [
-       116,
-       "[Page 63]"
+       77,
+       "[Page 62]"
       ]
      ]
     ],
     [
      "L",
-     400,
-     "[Page 64]",
+     308,
+     "[Page 63]",
      true
-    ]
-   ],
-   "path": "Chapter 001 - Federal-Aid Highways/§ 00106 - Project approval and oversight.md",
-   "printed_pages": [
-    60,
-    64
-   ]
-  },
-  {
-   "id": "23_107",
-   "marks": [
+    ],
     [
      "I",
-     2,
+     394,
      [
       [
-       188,
+       109,
+       "[Page 64]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     540,
+     [
+      [
+       322,
        "[Page 65]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 001 - Federal-Aid Highways/§ 00106 - Project approval and oversight.md",
+   "printed_pages": [
+    60,
+    65
+   ]
+  },
+  {
+   "id": "23_107",
+   "marks": [],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00107 - Acquisition of rights-of-way—Interstate System.md",
    "printed_pages": [
-    64,
+    65,
     65
    ]
   },
@@ -624,39 +631,39 @@
    "marks": [
     [
      "I",
-     22,
+     12,
      [
       [
-       85,
+       311,
        "[Page 66]"
       ]
      ]
     ],
     [
-     "I",
-     104,
-     [
-      [
-       100,
-       "[Page 67]"
-      ]
-     ]
+     "L",
+     96,
+     "[Page 67]",
+     true
     ],
     [
      "I",
      184,
      [
       [
-       954,
+       380,
        "[Page 68]"
       ]
      ]
     ],
     [
-     "L",
-     262,
-     "[Page 69]",
-     true
+     "I",
+     260,
+     [
+      [
+       317,
+       "[Page 69]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00108 - Advance acquisition of real property.md",
@@ -670,69 +677,73 @@
    "marks": [
     [
      "I",
-     58,
+     56,
      [
       [
-       188,
+       216,
        "[Page 70]"
       ]
      ]
     ],
     [
      "I",
-     102,
+     96,
      [
       [
-       77,
+       227,
        "[Page 71]"
       ]
      ]
     ],
     [
-     "L",
-     172,
-     "[Page 72]",
-     true
-    ],
-    [
-     "L",
-     260,
-     "[Page 73]",
-     true
+     "I",
+     164,
+     [
+      [
+       549,
+       "[Page 72]"
+      ]
+     ]
     ],
     [
      "I",
-     354,
+     248,
      [
       [
-       379,
-       "[Page 74]"
+       281,
+       "[Page 73]"
       ]
      ]
+    ],
+    [
+     "L",
+     350,
+     "[Page 74]",
+     true
     ],
     [
      "I",
      444,
      [
       [
-       559,
+       114,
        "[Page 75]"
       ]
      ]
     ],
     [
      "I",
-     566,
+     558,
      [
       [
-       102,
+       100,
        "[Page 76]"
       ]
      ]
     ],
     [
      "L",
-     668,
+     660,
      "[Page 77]",
      true
     ]
@@ -748,7 +759,7 @@
    "marks": [
     [
      "L",
-     12,
+     8,
      "[Page 78]",
      true
     ]
@@ -767,16 +778,22 @@
      78,
      [
       [
-       211,
+       83,
        "[Page 79]"
       ]
      ]
+    ],
+    [
+     "L",
+     168,
+     "[Page 80]",
+     true
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00111 - Agreements relating to use of and access to rights-of-way—Interstate System.md",
    "printed_pages": [
     78,
-    79
+    80
    ]
   },
   {
@@ -784,42 +801,44 @@
    "marks": [
     [
      "I",
-     2,
+     72,
      [
       [
-       93,
-       "[Page 80]"
+       161,
+       "[Page 81]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     170,
+     [
+      [
+       123,
+       "[Page 82]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     242,
+     [
+      [
+       390,
+       "[Page 83]"
       ]
      ]
     ],
     [
      "L",
-     74,
-     "[Page 81]",
-     true
-    ],
-    [
-     "L",
-     172,
-     "[Page 82]",
-     true
-    ],
-    [
-     "L",
-     246,
-     "[Page 83]",
-     true
-    ],
-    [
-     "L",
-     344,
+     340,
      "[Page 84]",
      true
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00112 - Letting of contracts.md",
    "printed_pages": [
-    79,
+    80,
     84
    ]
   },
@@ -828,7 +847,7 @@
    "marks": [
     [
      "L",
-     16,
+     14,
      "[Page 85]",
      true
     ]
@@ -843,28 +862,20 @@
    "id": "23_114",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       161,
-       "[Page 86]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     156,
-     [
-      [
-       151,
-       "[Page 87]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 86]",
+     true
     ],
     [
      "L",
-     274,
+     154,
+     "[Page 87]",
+     true
+    ],
+    [
+     "L",
+     272,
      "[Page 88]",
      true
     ]
@@ -880,7 +891,7 @@
    "marks": [
     [
      "L",
-     70,
+     68,
      "[Page 89]",
      true
     ],
@@ -3328,7 +3339,7 @@
      4,
      [
       [
-       334,
+       191,
        "[Page 277]"
       ]
      ]
@@ -3357,7 +3368,7 @@
      40,
      [
       [
-       711,
+       558,
        "[Page 278]"
       ]
      ]
@@ -4758,6 +4769,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2016-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2017-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 23 - Highways"
 }

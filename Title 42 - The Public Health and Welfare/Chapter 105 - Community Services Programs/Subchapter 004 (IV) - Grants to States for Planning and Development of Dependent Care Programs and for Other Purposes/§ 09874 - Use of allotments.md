@@ -112,11 +112,11 @@ Subsec. (d). Pub. L. 101–501, §303(b), redesignated pars. (2), (4), and (5) a
 
 Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of "subsections (a) and (b) of this section" for "subsection (a) of this section", could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
 
-Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted "operate," after "expand," and substituted"which are provided before October 30, 1984," for ", which prior to October 30, 1984, are provided".
+Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted "operate," after "expand," and substituted "which are provided before October 30, 1984," for ", which prior to October 30, 1984, are provided".
 
 Subsec. (g). Pub. L. 101–501, §305(a)(6), substituted "carrying out activities" for "operating activities to be carried out".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted "system may include" for "system shall include", redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: "In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided", and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted "system mayinclude" for "system shall include", redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: "In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided", and added par. (2).
 
 Subsec. (b)(1). Pub. L. 99–425, §302(b)(1), struck out "where school facilities are not available" after "centers in communities".
 

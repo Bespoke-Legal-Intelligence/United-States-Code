@@ -1,0 +1,42 @@
+### §1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime
+
+(a)
+
+Referrals.—(1) Except as provided by paragraph (2), a beneficiary enrolled in TRICARE Prime shall be required to obtain a referral for care through a designated primary care manager (or other care coordinator) prior to obtaining care under the TRICARE program.
+
+(2) The Secretary may waive the referral requirement in paragraph (1) in such circumstances as the Secretary may establish for purposes of this subsection.
+
+(3) The cost-sharing amounts for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care under paragraph (1) (or a waiver pursuant to paragraph (2) for such care) shall be determined under section 1075a(c) of this title.
+
+(b)
+
+Preauthorization.—A beneficiary enrolled in TRICARE Prime shall be required to obtain preauthorization only with respect to a referral for the following:
+
+&emsp;(1) Inpatient hospitalization.
+
+&emsp;(2) Inpatient care at a skilled nursing facility.
+
+&emsp;(3) Inpatient care at a rehabilitation facility.
+
+&emsp;(4) Inpatient care at a residential treatment center.
+
+(c)
+
+Prohibition Regarding Prior Authorization for Certain Referrals.—The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §728(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–189; amended Pub. L. 114–328, div. A, title VII, §701(c), Dec. 23, 2016, 130 Stat. 2186; Pub. L. 115–91, div. A, title VII, §739(e)(1), Dec. 12, 2017, 131 Stat. 1447.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (b)(4). Pub. L. 115–91 added par. (4).
+
+<b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: "The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor."
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as a note under section 1072 of this title.
+
+#### Effective Date
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §728(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, provided that: "Section1095f of title 10, United States Code, as added by subsection (a), shall apply with respect to a TRICARE managed care support contract entered into by the Department of Defense after the date of the enactment of this Act \[Oct. 30, 2000\]."
+

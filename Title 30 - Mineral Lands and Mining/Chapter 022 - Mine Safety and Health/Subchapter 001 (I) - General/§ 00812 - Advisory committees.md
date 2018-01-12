@@ -32,7 +32,7 @@
 
 > The Secretary of Health and Human Services shall designate the chairman of the committee.
 
-(2) The advisory committee shall consult with, and make recommendations to, the Secretary ofHealth and Human Services on matters involving or relating to coal or other mine health research. The Secretary of Health and Human Services shall consult with, and consider the recommendations of, such committee in the conduct of such research, the making of any grants, and the entering into of contracts for such research.
+(2) The advisory committee shall consult with, and make recommendations to, the Secretary of Health and Human Services on matters involving or relating to coal or other mine health research. The Secretary of Health and Human Services shall consult with, and consider the recommendations of, such committee in the conduct of such research, the making of any grants, and the entering into of contracts for such research.
 
 (3) The chairman of the committee and a majority of the persons appointed by the Secretary of Health and Human Services pursuant to paragraph (1)(D) shall be individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
 
@@ -72,6 +72,10 @@ Subsec. (d). Pub. L. 95–164 reenacted subsec. (d) without change.
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
+#### Effective Date
+
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
+
 #### Transfer of Functions
 
 Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
@@ -82,5 +86,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

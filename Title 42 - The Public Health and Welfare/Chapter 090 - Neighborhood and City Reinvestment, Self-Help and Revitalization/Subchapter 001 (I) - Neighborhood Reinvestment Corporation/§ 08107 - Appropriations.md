@@ -28,7 +28,7 @@ Non-Federal funds received by the corporation, and funds received by any recipie
 
 The corporation shall prepare annually a business-type budget which shall be submitted to the Office of Management and Budget, under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented. The budget of the corporation as modified, amended, or revised by the President shall be transmitted to the Congress as a part of the annual budget required by chapter 11 of title 31. Amendments to the annual budget program may be submitted from time to time.
 
-(Pub. L. 95–557, title VI, §608, Oct. 31, 1978, 92 Stat. 2119; Pub. L. 96–153, title III, §307, Dec. 21, 1979, 93 Stat. 1113; Pub. L. 96–399, title III, §315(3), Oct. 8, 1980, 94 Stat. 1645; Pub. L. 97–35, title III, §314, Aug. 13, 1981, 95 Stat. 398; Pub. L. 98–181, title I \[title I, §125\], Nov. 30, 1983, 97 Stat. 1175; Pub. L. 98–479, title II, §203(m), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 100–242, title V, §520(b),Feb. 5, 1988, 101 Stat. 1938; Pub. L. 101–625, title IX, §917(c), Nov. 28, 1990, 104 Stat. 4398; Pub. L. 102–550, title VIII, §831, Oct. 28, 1992, 106 Stat. 3851.)
+(Pub. L. 95–557, title VI, §608, Oct. 31, 1978, 92 Stat. 2119; Pub. L. 96–153, title III, §307, Dec. 21, 1979, 93 Stat. 1113; Pub. L. 96–399, title III, §315(3), Oct. 8, 1980, 94 Stat. 1645; Pub. L. 97–35, title III, §314, Aug. 13, 1981, 95 Stat. 398; Pub. L. 98–181, title I \[title I, §125\], Nov. 30, 1983, 97 Stat. 1175; Pub. L. 98–479, title II, §203(m), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 100–242, title V, §520(b), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 101–625, title IX, §917(c), Nov. 28, 1990, 104 Stat. 4398; Pub. L. 102–550, title VIII, §831, Oct. 28, 1992, 106 Stat. 3851.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;"(4) to expand the loan purchase capacity of the national neighborhood housing services secondary market, operated by Neighborhood Housing Services of America, for loans made by neighborhood housing services to residents who are unable to meet conventional lending standards, and other loans for community development purposes;
 
-&emsp;"(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- and moderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
+&emsp;"(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- andmoderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
 
 &emsp;"(6) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership \[Homeownership\] Act of 1990 \[12 U.S.C. 4101 et seq.\];
 

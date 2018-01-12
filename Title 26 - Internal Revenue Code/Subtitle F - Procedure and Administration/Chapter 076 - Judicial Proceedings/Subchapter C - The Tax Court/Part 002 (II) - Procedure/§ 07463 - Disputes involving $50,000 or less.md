@@ -24,7 +24,7 @@ In any case in which the proceedings are conducted under this section, notwithst
 
 #### (d) Discontinuance of proceedings
 
-At any time before a decision entered in a case in which the proceedings are conducted under this section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
+At any time before a decision entered in a case in which the proceedings are conducted underthis section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
 
 #### (e) Amount of deficiency in dispute
 
@@ -40,7 +40,7 @@ At the option of the taxpayer concurred in by the Tax Court or a division thereo
 
 &emsp;(3) a petition to the Tax Court under section 6404(h) in which the amount of the abatement sought does not exceed $50,000.
 
-(Added Pub. L. 91–172, title IX, §957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, titleII, §203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, §105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, §106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, §11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, §3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 114–113, div. Q, title IV, §422(a), Dec. 18, 2015, 129 Stat. 3123.)
+(Added Pub. L. 91–172, title IX, §957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, title II, §203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, §105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, §106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, §11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, §3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 114–113, div. Q, title IV, §422(a), Dec. 18, 2015, 129 Stat. 3123.)
 
 #### Prior Provisions
 
@@ -114,7 +114,7 @@ and (c).—The amendments made by subsection (b) \[amending this section\] and (
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct.4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a)
 

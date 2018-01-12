@@ -64,15 +64,23 @@ The Council shall consist of the following members:
 
 &emsp;In the event of a vacancy in the office of the head of a member agency or department, and pending the appointment of a successor, or during the absence or disability of the head of a member agency or department, the acting head of the member agency or department shall serve as a member of the Council in the place of that agency or department head.
 
+#### (4) Term of independent member
+
+&emsp;Notwithstanding paragraph (1), if a successor to the independent member of the Council serving under subsection (b)(1)(J) is not appointed and confirmed by the end of the term of service of such member, such member may continue to serve until the earlier of—
+
+&emsp;&emsp;(A) 18 months after the date on which the term of service ends; or
+
+&emsp;&emsp;(B) the date on which a successor to such member is appointed and confirmed.
+
 #### (d) Technical and professional advisory committees
 
-The Council may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
+The Council may appoint such special advisory, technical, or professional committees asmay be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
 
 #### (e) Meetings
 
 #### (1) Timing
 
-&emsp;The Council shall meet at the call of the Chairperson or a majority of the membersthen serving, but not less frequently than quarterly.
+&emsp;The Council shall meet at the call of the Chairperson or a majority of the members then serving, but not less frequently than quarterly.
 
 #### (2) Rules for conducting business
 
@@ -102,7 +110,7 @@ Any department or agency of the United States may provide to the Council and any
 
 Any employee of the Federal Government may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. An employee of the Federal Government detailed to the Council shall report to and be subject to oversight by the Council during the assignment to the Council, and shall be compensated by the department or agency from which the employee was detailed.
 
-(Pub. L. 111–203, title I, §111, July 21, 2010, 124 Stat. 1392.)
+(Pub. L. 111–203, title I, §111, July 21, 2010, 124 Stat. 1392; Pub. L. 115–61, §2, Sept. 27, 2017, 131 Stat. 1158.)
 
 #### References in Text
 
@@ -111,4 +119,8 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 #### Codification
 
 Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of section 111 of Pub. L. 111–203 amended section 5314 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (c)(4). Pub. L. 115–61 added par. (4).
 

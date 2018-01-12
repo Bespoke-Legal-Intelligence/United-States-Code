@@ -56,7 +56,7 @@ In this chapter:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by theUnited States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (8) Regional Commissions
 
@@ -107,4 +107,8 @@ A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat.
 <b>2004</b>—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted ", including a special purpose unit of a State or local government engaged in economic or infrastructure development activities," after "State" in cl. (iv), and struck out cl. (i) which read as follows: "an area described in section 3161(a) of this title;".
 
 Pars. (8) to (12). Pub. L. 108–373, §102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 

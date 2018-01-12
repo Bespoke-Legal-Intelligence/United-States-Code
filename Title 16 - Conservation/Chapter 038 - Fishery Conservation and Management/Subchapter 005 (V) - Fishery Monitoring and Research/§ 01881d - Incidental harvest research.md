@@ -30,7 +30,7 @@ Not later than 12 months after October 11, 1996, the Secretary shall, in coopera
 
 #### (e) Report to Congress
 
-The Secretary shall, within one year of completing the programs required by this section, submit a detailed report on the results of such programs to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+The Secretary shall, within one year of completing the programs required by this section, submit a detailed report on the results of such programs to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
 #### (f) Implementation criteria
 
@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (f), was in the original "this Act", meanin
 
 #### Prior Provisions
 
-A prior section 405 of Pub. L. 94–265, amended section 971 of this title and enacted provisions formerly set outas a note under section 971 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 405 of Pub. L. 94–265, amended section 971 of this title and enacted provisions formerly set out as a note under section 971 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Change of Name
 

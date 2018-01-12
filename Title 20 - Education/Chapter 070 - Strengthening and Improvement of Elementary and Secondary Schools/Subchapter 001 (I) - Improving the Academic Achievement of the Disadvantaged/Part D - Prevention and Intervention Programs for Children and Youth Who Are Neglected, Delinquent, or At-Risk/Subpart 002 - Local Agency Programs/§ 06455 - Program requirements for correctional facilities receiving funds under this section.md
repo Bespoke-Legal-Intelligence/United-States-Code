@@ -1,6 +1,6 @@
 ### §6455. Program requirements for correctional facilities receiving funds under this section
 
-Each correctional facility entering into an agreement with a local educational agencyunder section 6453(2) of this title to provide services to children and youth under this subpart shall—
+Each correctional facility entering into an agreement with a local educational agency under section 6453(2) of this title to provide services to children and youth under this subpart shall—
 
 &emsp;(1) where feasible, ensure that educational programs in the correctional facility are coordinated with the student's home school, particularly with respect to a student with an individualized education program under part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\];
 
@@ -20,7 +20,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], and career and technical education funds;
 
-&emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable;
+&emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[34 U.S.C. 11101 et seq.\] and other comparable programs, if applicable;
 
 &emsp;(11) if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth;
 
@@ -36,7 +36,7 @@ The Individuals with Disabilities Education Act, referred to in par. (1), is tit
 
 The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Prior Provisions
 

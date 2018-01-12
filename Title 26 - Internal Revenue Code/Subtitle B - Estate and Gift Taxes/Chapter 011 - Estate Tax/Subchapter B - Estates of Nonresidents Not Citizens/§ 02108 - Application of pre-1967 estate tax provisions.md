@@ -10,7 +10,7 @@ Whenever the President finds that—
 
 &emsp;(3) it is in the public interest to apply pre-1967 tax provisions in accordance with this section to the transfer of estates of decedents who were residents of such foreign country,
 
-> the President shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to amendments made to sections 2101 (relating to tax imposed), 2102 (relating to credits against tax), 2106 (relating to taxable estate), and 6018 (relating to estate tax returns) on or after November 13, 1966.
+> the President shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to amendments made to sections 2101 (relating to tax imposed), 2102 (relating to credits against tax), 2106 (relating to taxable estate), and 6018\(relating to estate tax returns) on or after November 13, 1966.
 
 #### (b) Alleviation of more burdensome tax
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the delivering rail carrier; or
 
-&emsp;(3) another rail carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading.
+&emsp;(3) another rail carrier over whose line or route the property is transported in theUnited States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading.
 
 > Failure to issue a receipt or bill of lading does not affect the liability of a rail carrier. A delivering rail carrier is deemed to be the rail carrier performing the line-haul transportation nearest the destination but does not include a rail carrier providing only a switching service at the destination.
 

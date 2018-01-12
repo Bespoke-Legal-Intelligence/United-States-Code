@@ -1,0 +1,6 @@
+### §433. Transferred
+
+#### Codification
+
+Section 433 was editorially reclassified as section 399 of this title.
+

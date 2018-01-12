@@ -2,7 +2,7 @@
 
 Any medical officer of the Regular Corps of the Public Health Service who—
 
-&emsp;(1)(A) was appointed to the assistant grade in the Regular Corps and whose service in such Corps has been continuous from the date of appointment or (B) may hereafter be appointed to the assistant grade in the Regular Corps, and
+&emsp;(1)(A) was appointed to the assistant grade in the Regular Corps and whose service in suchCorps has been continuous from the date of appointment or (B) may hereafter be appointed to the assistant grade in the Regular Corps, and
 
 &emsp;(2) had or will have completed a medical internship on the date of such appointment,
 
@@ -12,7 +12,7 @@ Any medical officer of the Regular Corps of the Public Health Service who—
 
 #### References in Text
 
-For "the effective date of this section", referred to in text, see section 7 of act Apr. 30, 1956, which providedin part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
+For "the effective date of this section", referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
 
 #### Transfer of Functions
 

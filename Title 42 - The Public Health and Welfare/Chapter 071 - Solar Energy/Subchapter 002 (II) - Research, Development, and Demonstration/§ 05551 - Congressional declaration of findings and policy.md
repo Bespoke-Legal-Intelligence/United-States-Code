@@ -8,7 +8,7 @@
 
 &emsp;(3) dependence on nonrenewable energy resources cannot be continued indefinitely, particularly at current rates of consumption;
 
-&emsp;(4) it is in the Nation's interest to expedite the long-term development of renewable andnonpolluting energy resources, such as solar energy;
+&emsp;(4) it is in the Nation's interest to expedite the long-term development of renewable and nonpolluting energy resources, such as solar energy;
 
 &emsp;(5) the various solar energy technologies are today at widely differing stages of development, with some already near the stage of commercial application and others still requiring basic research;
 

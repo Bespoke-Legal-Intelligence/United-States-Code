@@ -34,7 +34,7 @@ Elements.—Each report required by subsection (a) shall include each of the fol
 
 (c)
 
-Definitions.—In this section, the terms "hospital care", "medical services", "nursinghome care", "facilities of the Department", and "non-Department facilities" have the meanings given those terms in section 1701 of this title.
+Definitions.—In this section, the terms "hospital care", "medical services", "nursing home care", "facilities of the Department", and "non-Department facilities" have the meanings given those terms in section 1701 of this title.
 
 (Added Pub. L. 114–315, title VI, §612(a), Dec. 16, 2016, 130 Stat. 1575.)
 

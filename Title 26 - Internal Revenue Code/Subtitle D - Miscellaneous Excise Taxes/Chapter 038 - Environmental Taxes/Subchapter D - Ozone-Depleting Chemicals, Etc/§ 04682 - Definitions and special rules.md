@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 #### (1) Recycling
 
-&emsp;No tax shall be imposed by section 4681 on any ozone-depleting chemical which is diverted or recovered in the United States as part of a recycling process (and not as part of the original manufacturing or production process), or on any recycled Halon-1301 or recycled Halon-2402 imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer.
+&emsp;No tax shall be imposed by section 4681 on any ozone-depleting chemical which is diverted or recovered in the United States as part of a recycling process (and not as part of the original manufacturing or production process), or on any recycled Halon-1301 or recycled Halon-2402 imported from any countrywhich is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer.
 
 #### (2) Use in further manufacture
 
@@ -246,7 +246,7 @@ Subsec. (g). Pub. L. 105–34, §1432(c)(2), amended subsec. (g) generally. Prio
 
 Subsec. (g)(4). Pub. L. 104–188, §1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 
-<b>1992</b>—Subsec. (g)(2)(A). Pub. L. 102–486, §1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
+<b>1992</b>—Subsec. (g)(2)(A). Pub. L. 102–486, §1932(a), in table, for sales or use during 1993, decreased applicablepercentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
 
 Subsec. (g)(2)(B). Pub. L. 102–486, §1931(b), in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
 

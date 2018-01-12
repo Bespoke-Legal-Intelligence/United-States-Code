@@ -197,7 +197,7 @@ Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 #### No Payment of Services to Individual in Acting or Temporary Capacity After Second Nomination for That Individual is Withdrawn or Returned to President
 
-Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: "Effective January 20, 2009,and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President."
+Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: "Effective January 20, 2009, and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President."
 
 #### No Payment to Person Filling Position After Vote by Senate Not To Approve Person's Nomination
 

@@ -178,7 +178,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term "noncompliant behavior" includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the groundthat the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term "noncompliant behavior" includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -296,7 +296,7 @@
 
 &emsp;&emsp;&emsp;(i) the Secretary or a State administering agency may terminate a PACE program agreement for cause, and
 
-&emsp;&emsp;&emsp;(ii) a PACE provider may terminate such an agreement after appropriate notice tothe Secretary, the State administering agency, and enrollees.
+&emsp;&emsp;&emsp;(ii) a PACE provider may terminate such an agreement after appropriate notice to the Secretary, the State administering agency, and enrollees.
 
 #### (B) Causes for termination
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -432,7 +432,7 @@ Nothing in this section or section 1395eee of this title shall be construed as p
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
 
-The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5), is Pub. L. 105–33, Aug. 5,1997, 111 Stat. 251. Section 4804(b) of the Act is set out as a note under section 1395eee of this title. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. Section 4804(b) of the Act is set out as a note under section 1395eee of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is section 603(c) of Pub. L. 98–21, title VI, Apr. 20, 1983, 97 Stat. 168, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 

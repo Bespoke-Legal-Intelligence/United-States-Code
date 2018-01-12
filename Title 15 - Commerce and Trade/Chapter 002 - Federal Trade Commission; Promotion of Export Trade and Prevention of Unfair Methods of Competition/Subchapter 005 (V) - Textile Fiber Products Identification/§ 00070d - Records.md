@@ -2,11 +2,11 @@
 
 #### (a) Maintenance and preservation by manufacturer
 
-Every manufacturer of textile fiber products subject to this subchapter shall maintain proper records showing the fiber content as required by this subchapter of all such products made by him, and shall preserve such records for at least three years.
+Every manufacturer of textile fiber products subject to this subchapter shall maintain properrecords showing the fiber content as required by this subchapter of all such products made by him, and shall preserve such records for at least three years.
 
 #### (b) Maintenance and preservation by person substituting stamp, tag, etc.
 
-Any person substituting a stamp, tag, label, or other identification pursuant to section 70c(b) ofthis title shall keep such records as will show the information set forth on the stamp, tag, label, or other identification that he removed and the name or names of the person or persons from whom such textile fiber product was received, and shall preserve such records for at least three years.
+Any person substituting a stamp, tag, label, or other identification pursuant to section 70c(b) of this title shall keep such records as will show the information set forth on the stamp, tag, label, or other identification that he removed and the name or names of the person or persons from whom such textile fiber product was received, and shall preserve such records for at least three years.
 
 #### (c) Neglect or refusal to maintain or preserve records
 

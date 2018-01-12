@@ -6,7 +6,7 @@ In General.—Except to the extent expressly prohibited by another provision of 
 
 (b)
 
-Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section 2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
+Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered bythis chapter by each agency named in section 2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 
@@ -16,7 +16,7 @@ Procurements For or With Other Agencies.—Subject to subsection (a), to facilit
 
 (c)
 
-Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approvedby the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
+Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
 
 (2) The regulations shall include the following provisions:
 

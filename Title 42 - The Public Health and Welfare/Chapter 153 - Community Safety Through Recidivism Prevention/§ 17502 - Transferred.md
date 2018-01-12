@@ -1,0 +1,6 @@
+### §17502. Transferred
+
+#### Codification
+
+Section 17502 was editorially reclassified as section 60502 of Title 34, Crime Control and Law Enforcement.
+

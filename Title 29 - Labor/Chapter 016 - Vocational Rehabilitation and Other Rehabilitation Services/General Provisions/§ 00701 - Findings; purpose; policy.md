@@ -56,7 +56,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to maximize opportunities for individuals with disabilities, including individuals with significant disabilities, for competitive integrated employment;
 
-&emsp;(3) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living;
+&emsp;(3) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities,and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living;
 
 &emsp;(4) to increase employment opportunities and employment outcomes for individuals with disabilities, including through encouraging meaningful input by employers and vocational rehabilitation service providers on successful and prospective employment and placement strategies; and
 
@@ -92,7 +92,7 @@ A prior section 701, Pub. L. 93–112, §2, Sept. 26, 1973, 87 Stat. 357; Pub. L
 
 Subsec. (a)(7). Pub. L. 113–128, §402(a)(2)–(4), added par. (7).
 
-Subsec. (b)(1)(A). Pub. L. 113–128, §402(b)(1)(A), substituted "workforce development systems defined insection 3102 of this title" for "workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998".
+Subsec. (b)(1)(A). Pub. L. 113–128, §402(b)(1)(A), substituted "workforce development systems defined in section 3102 of this title" for "workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998".
 
 Subsec. (b)(2) to (5). Pub. L. 113–128, §402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
@@ -124,7 +124,7 @@ Pub. L. 99–506, §1(a), Oct. 21, 1986, 100 Stat. 1807, provided that: "This Ac
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–221, §1, Feb. 22, 1984, 98 Stat. 17, provided: "That this Act \[enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713 of this title\] may be cited as the 'Rehabilitation Amendments of 1984'."
+Pub. L. 98–221, §1, Feb. 22, 1984, 98 Stat. 17, provided: "That this Act \[enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing section 777c of this title, enacting provisions set out as a note under section 1901 of this title and amending provisions set out as a note under section 713of this title\] may be cited as the 'Rehabilitation Amendments of 1984'."
 
 #### Short Title of 1978 Amendment
 
@@ -176,7 +176,7 @@ Section 1. Establishment of National Task Force on Employment of Adults with Dis
 
 (b) The Secretary of Labor shall be the Chair of the Task Force; the Chairperson of the President's Disability Employment Partnership Board. \[sic\] shall be the Vice Chair of the Task Force.
 
-(c) The purpose of the Task Force is to create a coordinated and aggressive national policy to bring adults with disabilities into gainful employment at a rate that is as close as possible to that of the general adult population. The Task Force shall develop and recommend to the President, through the Chair of the Task Force, a coordinated Federal policy to reduce employment barriers for persons with disabilities. Policy recommendations may cover such areas as discrimination, reasonable accommodations, inadequate access to health care, lack of consumer-driven, long-term supports and services, transportation, accessible and integrated housing, telecommunications, assistive technology, community services, child care, education, vocational rehabilitation, training services, job retention, on-the-job supports, and economic incentives to work. Specifically, the Task Force shall:
+(c) The purpose of the Task Force is to create a coordinated and aggressive national policy to bring adultswith disabilities into gainful employment at a rate that is as close as possible to that of the general adult population. The Task Force shall develop and recommend to the President, through the Chair of the Task Force, a coordinated Federal policy to reduce employment barriers for persons with disabilities. Policy recommendations may cover such areas as discrimination, reasonable accommodations, inadequate access to health care, lack of consumer-driven, long-term supports and services, transportation, accessible and integrated housing, telecommunications, assistive technology, community services, child care, education, vocational rehabilitation, training services, job retention, on-the-job supports, and economic incentives to work. Specifically, the Task Force shall:
 
 &emsp;(1) analyze the existing programs and policies of Task Force member agencies to determine what changes, modifications, and innovations may be necessary to remove barriers to work faced by people with disabilities;
 
@@ -218,7 +218,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (f) The Bureau of Labor Statistics of the Department of Labor and the Census Bureau of the Department of Commerce, in cooperation with the Departments of Education and Health and Human Services, the National Council on Disability, and the President's Committee on Employment of People with Disabilities shall design and implement a statistically reliable and accurate method to measure the employment rate of adults with disabilities as soon as possible, but no later than the date of termination of the Task Force. Data derived from this methodology shall be published on as frequent a basis as possible.
 
-(g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
+(g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shallfile a report with the Task Force on the results of its review on November 15, 1998.
 
 (h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
@@ -266,7 +266,7 @@ Sec. 3. <i>Administration</i>. (a) The Board shall meet when called by the Chair
 
 (e) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Board such information as it may need for purposes of carrying out the functions described in section 2 of this order.
 
-Sec. 4. <i>Prior Orders and Transition</i>. (a) Executive Order 12640 of May 10, 1988, as amended, relating to the establishment of the President's Committee on Employment of People with Disabilities, is hereby revoked. The employees, records, property, and funds of the Committee shall become the employees, records, property, and funds of the Department of Labor.
+Sec. 4. <i>Prior Orders and Transition</i>. (a) Executive Order 12640 of May 10, 1988, as amended, relating to the establishment of the President's Committee on Employment of People with Disabilities, is hereby revoked. The employees, records, property, and funds ofthe Committee shall become the employees, records, property, and funds of the Department of Labor.
 
 (b) Executive Order 13078 of March 13, 1998 \[set out above\], is amended in sections 1(a) and (b) by striking "Chair of the President's Committee on Employment of People with Disabilities" and inserting "Chairperson of the President's Disability Employment Partnership Board."
 

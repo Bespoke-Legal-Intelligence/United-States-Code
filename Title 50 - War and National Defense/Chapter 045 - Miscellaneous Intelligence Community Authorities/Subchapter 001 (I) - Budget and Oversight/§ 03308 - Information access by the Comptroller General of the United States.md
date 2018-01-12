@@ -12,7 +12,7 @@
 
 #### (3) Relationship to other laws
 
-&emsp;The directive issued under paragraph (1) and any amendment to such directive issued under paragraph (2) shall be consistent with the provisions of—
+&emsp;The directive issued under paragraph (1) and any amendment to such directive issued underparagraph (2) shall be consistent with the provisions of—
 
 &emsp;&emsp;(A) chapter 7 of title 31; and
 

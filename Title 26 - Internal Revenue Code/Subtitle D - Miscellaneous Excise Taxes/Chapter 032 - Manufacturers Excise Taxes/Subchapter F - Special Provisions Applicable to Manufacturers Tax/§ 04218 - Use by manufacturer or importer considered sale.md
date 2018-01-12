@@ -46,7 +46,7 @@ Subsecs. (d), (e). Pub. L. 86–418, §2(a)(3), added subsec. (d) and redesignat
 
 <b>1955</b>—Subsec. (a)(1). Act Aug. 11, 1955, §1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
 
-Subsec. (b). Act Aug. 11, 1955, §1(b), excepted from application of section automobile parts or accessories, refrigerator, radio, or television components, and camera lenses, taxable under sections 4061(b), 4111, 4141, and 4171, respectively, of this title, when for use by the purchaser in the manufacture or production of, or as a component part of, any article.
+Subsec. (b). Act Aug. 11, 1955, §1(b), excepted from application of section automobile parts or accessories, refrigerator, radio, or television components, and camera lenses, taxable under sections 4061(b), 4111, 4141, and4171, respectively, of this title, when for use by the purchaser in the manufacture or production of, or as a component part of, any article.
 
 #### Effective Date of 1984 Amendment
 

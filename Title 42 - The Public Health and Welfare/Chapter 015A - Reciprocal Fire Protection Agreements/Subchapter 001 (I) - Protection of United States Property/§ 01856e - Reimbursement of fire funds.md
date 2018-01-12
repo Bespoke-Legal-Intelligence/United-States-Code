@@ -10,7 +10,7 @@ In this section, the term "State" means—
 
 #### (b) In general
 
-If a State seeks reimbursement for amounts expended for resources and services provided to another State for the management and suppression of a wildfire, the Secretary, subject to subsections (c) and (d)—
+If a State seeks reimbursement for amounts expended for resources and services provided toanother State for the management and suppression of a wildfire, the Secretary, subject to subsections (c) and (d)—
 
 &emsp;(1) may accept the reimbursement amounts from the other State; and
 

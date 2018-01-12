@@ -60,7 +60,7 @@ Eligible Countries.—A country that is performing satisfactorily under an econo
 
 &emsp;"(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or
 
-&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section,is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
+&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
 
 "(e)
 
@@ -98,7 +98,7 @@ Additional Requirement.—A country which is otherwise eligible to receive cance
 
 "(h)
 
-Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation of debt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(r)\], or any similar provision of law.
+Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation ofdebt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(r)\], or any similar provision of law.
 
 "(i)
 

@@ -28,7 +28,7 @@ A sensitive transaction or activity described in this subsection is—
 
 &emsp;(2) a transaction to facilitate the manufacture, importation, exportation, or transfer of items needed for the development by Iran of nuclear, chemical, biological, or advanced conventional weapons, including ballistic missiles;
 
-&emsp;(3) a transaction relating to the manufacture, procurement, or sale of goods, services, and technology relating to Iran's energy sector, including a transaction relating to the development of the energy resources of Iran, the exportation of petroleum products from Iran, the importation of refined petroleum to Iran, or the development of refining capacity available to Iran;
+&emsp;(3) a transaction relating to the manufacture, procurement, or sale of goods, services, and technology relating to Iran's energy sector, including a transaction relating to the development of the energy resources of Iran, theexportation of petroleum products from Iran, the importation of refined petroleum to Iran, or the development of refining capacity available to Iran;
 
 &emsp;(4) a transaction relating to the manufacture, procurement, or sale of goods, services, and technology relating to Iran's petrochemical sector; or
 

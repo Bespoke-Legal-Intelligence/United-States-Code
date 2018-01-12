@@ -2,7 +2,7 @@
 
 #### (a) Continuing participation
 
-Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project at the Department of the Interior under title III <sup>1</sup> on October 25, 1994, shall thereafter participate in Self-Governance under this subchapter and cease participation in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> with respect to the Department of the Interior.
+Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Projectat the Department of the Interior under title III <sup>1</sup> on October 25, 1994, shall thereafter participate in Self-Governance under this subchapter and cease participation in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> with respect to the Department of the Interior.
 
 #### (b) Additional participants
 
@@ -40,7 +40,7 @@ Section was formerly classified to section 458bb of this title prior to editoria
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes peryear from the applicant pool described in subsection (c) of this section to participate in Self-Governance."
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

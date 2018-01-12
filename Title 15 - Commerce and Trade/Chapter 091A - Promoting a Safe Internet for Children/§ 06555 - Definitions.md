@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Internet
 
-&emsp;The term "Internet" means collectively the myriad of computer and telecommunicationsfacilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor successor <sup>1</sup> protocols to such protocol, to communicate information of all kinds by wire or radio.
+&emsp;The term "Internet" means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor successor <sup>1</sup> protocols to such protocol, to communicate information of all kinds by wire or radio.
 
 (Pub. L. 110–385, title II, §216, Oct. 10, 2008, 122 Stat. 4104.)
 

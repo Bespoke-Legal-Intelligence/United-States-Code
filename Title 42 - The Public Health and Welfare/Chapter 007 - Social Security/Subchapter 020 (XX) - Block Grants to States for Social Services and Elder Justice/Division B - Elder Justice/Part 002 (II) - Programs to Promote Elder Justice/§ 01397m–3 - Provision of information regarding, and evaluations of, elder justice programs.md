@@ -28,11 +28,11 @@ To be eligible to receive a grant under this part, an applicant shall agree—
 
 #### (4) Applications
 
-&emsp;To be eligible to receive assistance under paragraph (1)(B), an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a proposal for the evaluation.
+&emsp;To be eligible to receive assistance under paragraph (1)(B), an entity shall submit an application to the Secretary at such time, in such manner, and containing such informationas the Secretary may require, including a proposal for the evaluation.
 
 #### (5) Reports
 
-&emsp;Not later than a date specified by the Secretary, an eligible entity receiving assistanceunder paragraph (1)(B) shall submit to the Secretary, the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Finance of the Senate a report containing the results of the evaluation conducted using such assistance together with such recommendations as the entity determines to be appropriate.
+&emsp;Not later than a date specified by the Secretary, an eligible entity receiving assistance under paragraph (1)(B) shall submit to the Secretary, the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Finance of the Senate a report containing the results of the evaluation conducted using such assistance together with such recommendations as the entity determines to be appropriate.
 
 #### (c) Evaluations and audits of certified EHR technology grant program by the Secretary
 

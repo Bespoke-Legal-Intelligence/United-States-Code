@@ -6,7 +6,7 @@ It shall be an unlawful employment practice for an employer—
 
 &emsp;(1) to fail or refuse to hire, or to discharge, any employee, or otherwise to discriminate against any employee with respect to the compensation, terms, conditions, or privileges of employment of the employee, because of genetic information with respect to the employee; or
 
-&emsp;(2) to limit, segregate, or classify the employees of the employer in any way that woulddeprive or tend to deprive any employee of employment opportunities or otherwise adversely affect the status of the employee as an employee, because of genetic information with respect to the employee.
+&emsp;(2) to limit, segregate, or classify the employees of the employer in any way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect the status of the employee as an employee, because of genetic information with respect to the employee.
 
 #### (b) Acquisition of genetic information
 
@@ -22,7 +22,7 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;&emsp;(C) only the employee (or family member if the family member is receiving genetic services) and the licensed health care professional or board certified genetic counselor involved in providing such services receive individually identifiable information concerning the results of such services; and
 
-&emsp;&emsp;(D) any individually identifiable genetic information provided under subparagraph (C) in connection with the services provided under subparagraph (A) is only available for purposes of such services and shall not be disclosed to the employer except in aggregate terms that do not disclose the identity of specific employees;
+&emsp;&emsp;(D) any individually identifiable genetic information provided under subparagraph\(C) in connection with the services provided under subparagraph (A) is only available for purposes of such services and shall not be disclosed to the employer except in aggregate terms that do not disclose the identity of specific employees;
 
 &emsp;(3) where an employer requests or requires family medical history from the employee to comply with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws;
 
@@ -61,4 +61,8 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(5)(D)
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### Effective Date
+
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under section 2000ff of this title.
 

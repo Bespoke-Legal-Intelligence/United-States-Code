@@ -28,7 +28,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule
 
-&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort toreach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
+&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
 
 #### (3) Alternative arrangements
 
@@ -82,7 +82,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraphs (3) and (4), if there is a substantial cessation of operations at a facility in any location, the employer shall be treated with respect to any single employer plan established and maintained by the employer covering participants at such facility as if the employer were a substantial employer under a plan under which more thanone employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
+&emsp;Except as provided in paragraphs (3) and (4), if there is a substantial cessation of operations at a facility in any location, the employer shall be treated with respect to any single employer plan established and maintained by the employer covering participants at such facility as if the employer were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
 
 #### (2) Substantial cessation of operations
 
@@ -144,7 +144,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 &emsp;&emsp;&emsp;Except as provided in clause (iii), the amount determined under this subparagraph with respect to each plan year in the 7-plan-year period is the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 1/7 of the unfunded vested benefits determined under section 1306(a)(3)(E) of this title as of the valuation date of the plan (as determined under section1083(g)(2) of this title) for the plan year preceding the plan year in which the cessation occurred; and
+&emsp;&emsp;&emsp;&emsp;(I) 1/7 of the unfunded vested benefits determined under section 1306(a)(3)(E) of this title as of the valuation date of the plan (as determined under section 1083(g)(2) of this title) for the plan year preceding the plan year in which the cessation occurred; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the reduction fraction.
 
@@ -186,7 +186,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (i) Notice
 
-&emsp;&emsp;&emsp;An employer making the election under this paragraph shall provide notice to the Corporation, in accordance with rules prescribed by the Corporation, of—
+&emsp;&emsp;&emsp;An employer making the election under this paragraph shall provide notice to theCorporation, in accordance with rules prescribed by the Corporation, of—
 
 &emsp;&emsp;&emsp;&emsp;(I) such election, not later than 30 days after the earlier of the date the employer notifies the Corporation of the substantial cessation of operations or the date the Corporation determines a substantial cessation of operations has occurred;
 
@@ -220,7 +220,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (C) Market value
 
-&emsp;&emsp;The market value of the assets of a plan shall be determined in the same manner asfor purposes of section 1306(a)(3)(E) of this title.
+&emsp;&emsp;The market value of the assets of a plan shall be determined in the same manner as for purposes of section 1306(a)(3)(E) of this title.
 
 #### (6) Special rules
 
@@ -248,7 +248,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 <b>2006</b>—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
-"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensionsof the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
 "(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
 
@@ -330,7 +330,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of thistitle after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

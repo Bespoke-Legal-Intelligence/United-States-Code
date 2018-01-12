@@ -36,7 +36,7 @@
 
 &emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1982, and September 30, 1983, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
-> The funds authorized under section 278f of this title shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
+> The funds authorized under section 278f of this title shall be in addition to funds authorized inany other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
 (e) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated—
 
@@ -74,7 +74,7 @@
 
 &emsp;(L) $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out section 2207(f) of this title; and
 
-&emsp;(M) $76,490,890 for fiscal year 2017, of which $2,753,672 shall be used to carry out section 2207(f) of this title.
+&emsp;(M) $76,490,890 for for <sup>2</sup> each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out section 2207(f) of this title.
 
 (2) Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 
@@ -88,7 +88,7 @@
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, §102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, §103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, §3, Oct. 8, 2008, 122 Stat. 4057; Pub. L. 112–239, div. A, title XVIII, §1814, Jan. 2, 2013, 126 Stat. 2118.)
+(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, §102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, §103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, §3, Oct. 8, 2008, 122 Stat. 4057; Pub. L. 112–239, div. A, title XVIII, §1814, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 115–98, §2, Jan. 3, 2018, 131 Stat. 2239.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out i
 The National Bureau of Standards Authorization Act for fiscal years 1981 and 1982, referred to in subsec. (d)(1)(A), is Pub. L. 96–461, Oct. 15, 1980, 94 Stat. 2049, which enacted section 278g of this title, amended sections 278d and 278h of this title, and enacted provisions set out as notes under section 278g of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(1)(M). Pub. L. 115–98 substituted "for each of fiscal years 2017 through 2023" for "fiscal year 2017" and inserted "for each such fiscal year" after "$2,753,672".
 
 <b>2013</b>—Subsec. (g)(1)(E) to (M). Pub. L. 112–239 added subpars. (I) to (M) and realigned margins in subpars. (E) to (H).
 
@@ -155,4 +157,6 @@ Functions of National Fire Prevention and Control Administration \[now United St
 Pub. L. 103–254, §8, May 19, 1994, 108 Stat. 683, provided that: "Notwithstanding any other provision of this Act \[see Short Title of 1994 Amendment note set out under section 2201 of this title\], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

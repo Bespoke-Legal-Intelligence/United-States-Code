@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the casemay be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
+&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the case may be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
 
 #### (2) Time, manner, and scope
 
@@ -48,7 +48,7 @@ That part of the amount of a recovery of a foreign expropriation loss to which t
 
 #### (f) Basis of recovered property
 
-The basis of property (other than money) received as a recovery of a foreign expropriation loss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
+The basis of property (other than money) received as a recovery of a foreign expropriationloss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
 
 #### (g) Restoration of value of investments
 
@@ -62,7 +62,7 @@ For purposes of this section, if the value of any interest in, or with respect t
 
 #### (h) Special rule for evidences of indebtedness
 
-Bonds or other evidences of indebtedness received as a recovery of a foreign expropriationloss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
+Bonds or other evidences of indebtedness received as a recovery of a foreign expropriation loss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
 
 #### (i) Adjustments for succeeding years
 
@@ -72,7 +72,7 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 &emsp;(2) the credit under section 38 (relating to general business credit),
 
-&emsp;(3) the net operating loss deduction under section 172, or the operations loss deduction under section 810,
+&emsp;(3) the net operating loss deduction under section 172,
 
 &emsp;(4) the capital loss carryover under section 1212(a), and
 
@@ -80,9 +80,11 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 > for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
-(Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833.)
+(Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, §13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (i)(3). Pub. L. 115–97 struck out at end "or the operations loss deduction under section 810,".
 
 <b>1986</b>—Subsec. (d)(2). Pub. L. 99–514 substituted "relating to recovery of tax benefit items" for "relating to recovery of bad debts, etc.".
 
@@ -106,6 +108,10 @@ Subsec. (d)(3). Pub. L. 94–455, §1031(b)(3), struck out provisions relating t
 
 Subsec. (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2017 Amendment
+
+Amendment by Pub. L. 115–97 applicable to losses arising in taxable years beginning after Dec. 31, 2017, see section 13511(c) of Pub. L. 115–97, set out as a note under section 381 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
@@ -128,7 +134,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958."
+Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]added by section 1(a)) sustained after December 31, 1958."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

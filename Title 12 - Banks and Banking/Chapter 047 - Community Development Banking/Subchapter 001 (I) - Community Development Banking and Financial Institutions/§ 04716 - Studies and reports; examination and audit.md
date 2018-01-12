@@ -20,7 +20,7 @@ The Fund may conduct such studies as the Fund determines necessary to further th
 
 #### (2) Report
 
-&emsp;Not later than 12 months after the date on which the Administrator is appointed, theFund shall submit a report to the President and the Congress that—
+&emsp;Not later than 12 months after the date on which the Administrator is appointed, the Fund shall submit a report to the President and the Congress that—
 
 &emsp;&emsp;(A) contains the findings of the study conducted under paragraph (1);
 

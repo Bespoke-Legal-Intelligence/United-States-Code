@@ -12,3 +12,7 @@ A prior section 3142–1, Pub. L. 91–596, §28(d), Dec. 29, 1970, 84 Stat. 161
 
 A prior section 3142a, Pub. L. 89–298, title II, §217, Oct. 27, 1965, 79 Stat. 1088, which authorized purchase of indebtedness and loans for waterways projects, was transferred to section 2220 of Title 33, Navigation and Navigable Waters.
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

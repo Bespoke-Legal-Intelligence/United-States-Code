@@ -12,11 +12,11 @@ Annual Certification.—Beginning in fiscal year 2013, the President shall annua
 
 &emsp;(4) a ballistic missile submarine; and
 
-&emsp;(5) maintaining the nuclear command and control system (as first reported under section1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
+&emsp;(5) maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
 
 (b)
 
-Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies undersubsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
 
 &emsp;(1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 
@@ -102,7 +102,7 @@ Pub. L. 113–66, div. A, title X, §1062(a), Dec. 26, 2013, 127 Stat. 866, prov
 
 &emsp;"(2) proceed with a robust stockpile stewardship program;
 
-&emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety,security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
+&emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
 
 &emsp;"(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States."
 

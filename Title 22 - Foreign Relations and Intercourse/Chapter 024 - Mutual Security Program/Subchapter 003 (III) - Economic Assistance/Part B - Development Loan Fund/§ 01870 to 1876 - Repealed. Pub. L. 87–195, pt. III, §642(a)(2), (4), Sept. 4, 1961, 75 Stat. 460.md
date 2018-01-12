@@ -8,7 +8,7 @@ Section 1872, act Aug. 26, 1954, ch. 937, ch. II, §202, as added Aug. 14, 1957,
 
 Section 1873, act Aug. 26, 1954, ch. 937, ch. II, §203, as added Aug. 14, 1957, Pub. L. 85–141, §6, 71 Stat. 358; amended July 24, 1959, Pub. L. 86–108, ch. II, §203(b), 73 Stat. 248, authorized appropriations for capitalization of Fund.
 
-Section 1874, act Aug. 26, 1954, ch. 937, ch. II, §204, as added Aug. 14, 1957, Pub. L. 85–141, §6, 71 Stat. 358;amended June 30, 1958, Pub. L. 86–477, ch. II, §203(b), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, §203(c), 73 Stat. 249, related to fiscal provisions for Fund.
+Section 1874, act Aug. 26, 1954, ch. 937, ch. II, §204, as added Aug. 14, 1957, Pub. L. 85–141, §6, 71 Stat. 358; amended June 30, 1958, Pub. L. 86–477, ch. II, §203(b), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, §203(c), 73 Stat. 249, related to fiscal provisions for Fund.
 
 Section 1875, act Aug. 26, 1954, ch. 937, ch. II, §205, as added Aug. 14, 1957, Pub. L. 85–141, §6, 71 Stat. 358; amended June 30, 1958, Pub. L. 85–477, ch. II, §203(c), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, §203(d), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, §202(c), ch. V, §501(a), 74 Stat. 135, 140, related to management of Fund, and powers and authority of Board of Directors.
 

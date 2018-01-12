@@ -22,7 +22,7 @@ For a State capital access program to be approved under this section, that progr
 
 &emsp;(1) provides portfolio insurance for business loans based on a separate loan-loss reserve fund for each financial institution;
 
-&emsp;(2) requires insurance premiums to be paid by the financial institution lenders and by the business borrowers to the reserve fund to have their loans enrolled in the reserve fund;
+&emsp;(2) requires insurance premiums to be paid by the financial institution lenders and by thebusiness borrowers to the reserve fund to have their loans enrolled in the reserve fund;
 
 &emsp;(3) provides for contributions to be made by the State to the reserve fund in amounts at least equal to the sum of the amount of the insurance premium charges paid by the borrower and the financial institution to the reserve fund for any newly enrolled loan; and
 
@@ -86,13 +86,13 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 &emsp;&emsp;&emsp;(ii) shall provide assurances to the participating State that the loan has not been made in order to place under the protection of the approved State capital access program prior debt that is not covered under the approved State capital access program and that is or was owed by the borrower to the financial institution lender or to an affiliate of the financial institution lender;
 
-&emsp;&emsp;&emsp;(iii) shall not allow the enrollment of a loan to a borrower that is a refinancing of a loan previously made to that borrower by the financial institution lender or an affiliate of the financial institution lender; and
+&emsp;&emsp;&emsp;(iii) shall not allow the enrollment of a loan to a borrower that is a refinancing ofa loan previously made to that borrower by the financial institution lender or an affiliate of the financial institution lender; and
 
 &emsp;&emsp;&emsp;(iv) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this chapter, including compliance with all applicable Federal and State laws, regulations, ordinances, and Executive orders.
 
 #### (B) Definitions
 
-&emsp;&emsp;In this paragraph, the terms "executive officer", "director", "principal shareholder","immediate family", and "related interest" refer to the same relationship to a financial institution lender as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
+&emsp;&emsp;In this paragraph, the terms "executive officer", "director", "principal shareholder", "immediate family", and "related interest" refer to the same relationship to a financial institution lender as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
 
 #### (8) Capital access for small businesses in underserved communities
 

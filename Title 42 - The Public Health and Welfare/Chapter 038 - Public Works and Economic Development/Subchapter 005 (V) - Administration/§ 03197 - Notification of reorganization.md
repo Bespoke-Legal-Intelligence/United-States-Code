@@ -18,3 +18,7 @@ Section 3203, Pub. L. 89–136, title VI, §603, Aug. 26, 1965, 79 Stat. 570, au
 
 Section 3204, Pub. L. 89–136, title VI, §604, as added Pub. L. 90–103, title II, §204, Oct. 11, 1967, 81 Stat. 268, conditioned assistance upon proper administration, operation, and maintenance of project.
 
+#### Effective Date
+
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+

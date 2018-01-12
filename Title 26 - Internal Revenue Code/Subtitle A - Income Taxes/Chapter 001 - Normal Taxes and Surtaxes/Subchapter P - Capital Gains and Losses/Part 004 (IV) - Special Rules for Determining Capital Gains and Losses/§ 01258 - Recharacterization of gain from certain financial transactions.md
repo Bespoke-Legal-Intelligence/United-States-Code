@@ -32,7 +32,7 @@ For purposes of this section, the term "conversion transaction" means any transa
 
 &emsp;&emsp;(B) an applicable straddle,
 
-&emsp;&emsp;(C) any other transaction which is marketed or sold as producing capital gainsfrom a transaction described in paragraph (1), or
+&emsp;&emsp;(C) any other transaction which is marketed or sold as producing capital gains from a transaction described in paragraph (1), or
 
 &emsp;&emsp;(D) any other transaction specified in regulations prescribed by the Secretary.
 
@@ -114,7 +114,7 @@ Section 464(e)(2), referred to in subsec. (d)(5)(C), was repealed by Pub. L. 113
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) of Pub. L. 108–357, set out as a note under section 246 of this title.
+Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) ofPub. L. 108–357, set out as a note under section 246 of this title.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(3) provides that the plan shall be in effect in all political subdivisions of the State, and, if administered by them, be mandatory upon them;
 
-&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assisted under parts A and B of this subchapter, under division A <sup>1</sup> of subchapter XX of this chapter,and under any other appropriate provision of Federal law;
+&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assisted under parts A and B of this subchapter, under division A <sup>1</sup> of subchapter XX of this chapter, and under any other appropriate provision of Federal law;
 
 &emsp;(5) provides that the State will, in the administration of its programs under this part, use such methods relating to the establishment and maintenance of personnel standards on a merit basis as are found by the Secretary to be necessary for the proper and efficient operation of the programs, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods;
 
@@ -90,7 +90,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(F) reasonable efforts to place a child for adoption or with a legal guardian, including identifying appropriate in-State and out-of-State placements <sup>2</sup> may be made concurrently with reasonable efforts of the type described in subparagraph (B);
 
-&emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this titleand in accordance with the requirements of section 675a of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in sections 675(5) and 675a of this title with respect to each such child;
+&emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title and in accordance with the requirements of section 675a of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in sections 675(5) and 675a of this title with respect to each such child;
 
 &emsp;(17) provides that, where appropriate, all steps will be taken, including cooperative efforts with the State agencies administering the program funded under part A and plan approved under part D, to secure an assignment to the State of any rights to support on behalf of each child receiving foster care maintenance payments under this part;
 
@@ -124,7 +124,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) the State, in providing such coverage, shall ensure that the medical benefits, including mental health benefits, provided are of the same type and kind as those that would be provided for children by the State under subchapter XIX;
 
-&emsp;&emsp;(C) in the event that the State provides such coverage through a State medical assistance program other than the program under subchapter XIX, and the State exceeds its funding for services under such other program, any such child shall be deemed to bereceiving aid or assistance under the State plan under this part for purposes of section 1396a(a)(10)(A)(i)(I) of this title; and
+&emsp;&emsp;(C) in the event that the State provides such coverage through a State medical assistance program other than the program under subchapter XIX, and the State exceeds its funding for services under such other program, any such child shall be deemed to be receiving aid or assistance under the State plan under this part for purposes of section 1396a(a)(10)(A)(i)(I) of this title; and
 
 &emsp;&emsp;(D) in determining cost-sharing requirements, the State shall take into consideration the circumstances of the adopting parent or parents and the needs of the child being adopted consistent, to the extent coverage is provided through a State medical assistance program, with the rules under such program;
 
@@ -142,7 +142,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(26) provides that—
 
-&emsp;&emsp;(A)(i) within 60 days after the State receives from another State a request to conduct a study of a home environment for purposes of assessing the safety and suitability of placing a child in the home, the State shall, directly or by contract—
+&emsp;&emsp;(A)(i) within 60 days after the State receives from another State a request to conduct a study of a home environment for purposes of assessing the safety and suitabilityof placing a child in the home, the State shall, directly or by contract—
 
 &emsp;&emsp;&emsp;(I) conduct and complete the study; and
 
@@ -208,7 +208,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(iv) reporting such related information as required by the Secretary; and
 
-&emsp;&emsp;(B) not later than 2 years after September 29, 2014, for each child and youth described in paragraph (9)(C)(i)(I) of this subsection, the State agency shall report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children or youth to the law enforcement authorities for entry into the National Crime Information Center (NCIC) database of theFederal Bureau of Investigation, established pursuant to section 534 of title 28, and to the National Center for Missing and Exploited Children.
+&emsp;&emsp;(B) not later than 2 years after September 29, 2014, for each child and youth described in paragraph (9)(C)(i)(I) of this subsection, the State agency shall report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children or youth to the law enforcement authorities for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, established pursuant to section 534 of title 28, and to the National Center for Missing and Exploited Children.
 
 #### (b) Approval of plan by Secretary
 
@@ -226,7 +226,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 #### References in Text
 
-Division A of subchapter XX, referred to in subsec. (a)(4), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
+Division A of subchapter XX, referred to in subsec. (a)(4), was in the original a reference to subtitle 1 oftitle XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 Section 534(e)(3)(A) of title 28, referred to in subsec. (a)(20)(A), (C), was redesignated section 534(f)(3)(A) of title 28 by Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611.
 
@@ -256,7 +256,7 @@ Subsec. (d). Pub. L. 113–183, §102(b), added subsec. (d).
 
 <b>2010</b>—Subsec. (a)(4). Pub. L. 111–148 inserted "division A of" before "subchapter XX".
 
-<b>2008</b>—Subsec. (a)(10). Pub. L. 110–351, §104(a), substituted "civil rights, provides" for "civil rights, and provides" and inserted ", and provides that a waiver ofany such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care" before semicolon at end.
+<b>2008</b>—Subsec. (a)(10). Pub. L. 110–351, §104(a), substituted "civil rights, provides" for "civil rights, and provides" and inserted ", and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care" before semicolon at end.
 
 Subsec. (a)(20)(B). Pub. L. 110–351, §101(c)(2)(A)(i), which directed insertion of "and" at end of subpar. (C), was executed by making the insertion at end of subpar. (B), to reflect the probable intent of Congress and the redesignation of subpar. (C) as (B) by Pub. L. 109–248, §152(b)(2). See 2006 Amendment note below.
 
@@ -354,7 +354,7 @@ Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Pri
 
 <b>1982</b>—Subsec. (a)(10). Pub. L. 97–248 amended Pub. L. 97–35, §2353(r), generally. See 1981 Amendment note below.
 
-<b>1981</b>—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions thatin order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
+<b>1981</b>—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -402,7 +402,7 @@ Pro rata adjustment if insufficient funds available.—If the total amount other
 
 &emsp;&emsp;&emsp;"(i) the amount that would otherwise be payable to the State under subparagraph (A) for fiscal year 2014; multiplied by
 
-&emsp;&emsp;&emsp;"(ii) the percentage represented by the amount so appropriated for fiscal year 2014, divided by the total amount otherwise payable under subparagraph (A) to all States for that fiscal year.
+&emsp;&emsp;&emsp;"(ii) the percentage represented by the amount so appropriated for fiscal year 2014, divided by thetotal amount otherwise payable under subparagraph (A) to all States for that fiscal year.
 
 "(c)
 
@@ -410,7 +410,7 @@ Use of Incentive Payments; Eligibility for Kinship Guardianship Assistance Payme
 
 "(d)
 
-Calculation and Use of Savings Resulting From the Phase-Out of Eligibility Requirements for Adoption Assistance.—The amendment made by section 206 \[amendng section 673 of this title\] shall take effect on October 1, 2014.
+Calculation and Use of Savings Resulting From the Phase-Out of Eligibility Requirements for Adoption Assistance.—The amendment made by section 206 \[amending section 673 of this title\] shall take effect on October 1, 2014.
 
 "(e)
 
@@ -438,7 +438,7 @@ In General.—Except as otherwise provided in this Act \[see Short Title of 2008
 
 "(b)
 
-Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a Statethat has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2006 Amendment
 
@@ -474,7 +474,7 @@ Pub. L. 105–200, title III, §301(d), July 16, 1998, 112 Stat. 658, provided t
 
 #### Effective Date of 1997 Amendments
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5593 of Pub. L. 105–33, set out as a note under section 622 of this title.
 

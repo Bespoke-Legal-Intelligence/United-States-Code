@@ -5,7 +5,12 @@
 | [2411\.](%C2%A7%2002411%20-%20Definitions.md) | Definitions. |
 | [2412\.](%C2%A7%2002412%20-%20Purposes.md) | Purposes. |
 | [2413\.](%C2%A7%2002413%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
-| [2414\.](%C2%A7%2002414%20-%20Limitation.md) | Limitation. |
+| [2414\.](%C2%A7%2002414%20-%20Funding.md) | Limitation.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2415\.](%C2%A7%2002415%20-%20Distribution.md) | Distribution. |
 | [2416\.](%C2%A7%2002416%20-%20Subcontractor%20information.md) | Subcontractor information. |
 | [2417\.](%C2%A7%2002417%20-%20Administrative%20costs.md) | Administrative costs. |
@@ -27,6 +32,20 @@
 
 <b>1986</b>—Pub. L. 99–500, §101(c) \[title X, §957(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §957(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §957(a)(2), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 2416 and redesignating former item 2416 as 2417.
 
+#### Notice of Cost-Free Federal Procurement Technical Assistance in Connection With Registration of Small Business Concerns on Procurement Websites of the Department of Defense
+
+Pub. L. 115–91, div. A, title XVII, §1707, Dec. 12, 2017, 131 Stat. 1809, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish procedures to ensure that any notice or direct communication regarding the registration of a smallbusiness concern on a website maintained by the Department of Defense relating to contracting opportunities contains information about cost-free Federal procurement technical assistance services that are available through a procurement technical assistance program established under chapter 142 of title 10, United States Code.
+
+"(b)
+
+Small Business Concern Defined.—The term 'small business concern' has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632)."
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–91 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -35,7 +54,7 @@
 - [&sect; 02411 - Definitions](%C2%A7%2002411%20-%20Definitions.md)
 - [&sect; 02412 - Purposes](%C2%A7%2002412%20-%20Purposes.md)
 - [&sect; 02413 - Cooperative agreements](%C2%A7%2002413%20-%20Cooperative%20agreements.md)
-- [&sect; 02414 - Limitation](%C2%A7%2002414%20-%20Limitation.md)
+- [&sect; 02414 - Funding](%C2%A7%2002414%20-%20Funding.md)
 - [&sect; 02415 - Distribution](%C2%A7%2002415%20-%20Distribution.md)
 - [&sect; 02416 - Subcontractor information](%C2%A7%2002416%20-%20Subcontractor%20information.md)
 - [&sect; 02417 - Administrative costs](%C2%A7%2002417%20-%20Administrative%20costs.md)

@@ -1,0 +1,6 @@
+### §3713a. Transferred
+
+#### Codification
+
+Section 3713a was editorially reclassified as section 30103 of Title 34, Crime Control and Law Enforcement.
+

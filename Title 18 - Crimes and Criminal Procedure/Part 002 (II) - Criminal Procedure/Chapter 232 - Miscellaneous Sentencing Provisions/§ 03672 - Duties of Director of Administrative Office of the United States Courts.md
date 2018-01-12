@@ -12,7 +12,7 @@ He shall, under the supervision and direction of the Judicial Conference of the 
 
 He shall incorporate in his annual report a statement concerning the operation of the probation system in such courts.
 
-He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict or a drug-dependent person, or a person suffering from a psychiatric disorder within the meaning of section 2 of the Public Health Service Act. This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological and vocational services; corrective and preventative guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict or drug-dependent person, or aperson suffering from a psychiatric disorder by eliminating his dependence on alcohol or addicting drugs, by controlling his dependence and his susceptibility to addiction, or by treating his psychiatric disorder. He may negotiate and award contracts identified in this paragraph without regard to section 6101(b) to (d) of title 41. He also shall have the authority to expend funds or to contract with any appropriate public or private agency or person to monitor and provide services to any offender in the community authorized by this Act, including treatment, equipment and emergency housing, corrective and preventative guidance and training, and other rehabilitative services designed to protect the public and promote the successful reentry of the offender into the community.
+He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict or a drug-dependent person, or a person suffering from a psychiatric disorder within the meaning of section 2 of the Public Health Service Act. This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological and vocational services; corrective and preventative guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict or drug-dependent person, or a person suffering from a psychiatric disorder by eliminating his dependence on alcohol or addicting drugs, by controlling his dependence and his susceptibility to addiction, or by treating his psychiatric disorder. He may negotiate and award contracts identified in this paragraph without regard to section 6101(b) to (d) of title 41. He also shall have the authority to expend funds or to contract with any appropriate public or private agency or person to monitor and provide services to any offender in the community authorized by this Act, including treatment, equipment and emergency housing, corrective and preventative guidance and training, and other rehabilitative services designed to protect the public and promote the successful reentry of the offender into the community.
 
 He shall pay for presentence studies and reports by qualified consultants and presentence examinations and reports by psychiatric or psychological examiners ordered by the court under subsection (b) or (c) of section 3552, except for studies conducted by the Bureau of Prisons.
 
@@ -36,7 +36,7 @@ This amendment \[see section 57\] conforms the language of section 3656 of title
 
 Section 2 of the Public Health Service Act, referred to in the seventh undesignated par., is classified to section 201 of Title 42, The Public Health and Welfare.
 
-This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out under section 17501 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Pub. L. 99–570, title I, §1861(b)(2), Oct. 27, 1986, 100 Stat. 3207–53, pro
 
 #### Construction of 2008 Amendment
 
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
 
 #### Authorization of Appropriations
 

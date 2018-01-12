@@ -106,7 +106,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) to include an additional group and become a credit union described in subsection (b)(2)), unless the Board determines, in writing, that—
 
-&emsp;&emsp;(A) the credit union has not engaged in any unsafe or unsound practice (as defined in section 1786(b) of this title) that is material during the 1-year period preceding the date of filing of the application;
+&emsp;&emsp;(A) the credit union has not engaged in any unsafe or unsound practice (as definedin section 1786(b) of this title) that is material during the 1-year period preceding the date of filing of the application;
 
 &emsp;&emsp;(B) the credit union is adequately capitalized;
 

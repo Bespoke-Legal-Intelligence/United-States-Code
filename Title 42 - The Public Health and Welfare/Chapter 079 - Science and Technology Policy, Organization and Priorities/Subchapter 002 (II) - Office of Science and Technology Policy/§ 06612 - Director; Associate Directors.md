@@ -6,7 +6,7 @@ There shall be at the head of the Office a Director who shall be appointed by th
 
 #### (b) Associate Directors
 
-The President is authorized to appoint not more than four Associate Directors, by and with the advice and consent of the Senate, who shallbe compensated at a rate not to exceed that provided for level III of the Executive Schedule in section 5314 of such title. Associate Directors shall perform such functions as the Director may prescribe.
+The President is authorized to appoint not more than four Associate Directors, by and with the advice and consent of the Senate, who shall be compensated at a rate not to exceed that provided for level III of the Executive Schedule in section 5314 of such title. Associate Directors shall perform such functions as the Director may prescribe.
 
 #### (c) Chief Technology Officer
 
@@ -16,7 +16,7 @@ Subject to subsection (b), the President is authorized to designate 1 of the Ass
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 114–329, §604(b)(1), (2), designated first sentence of existing provisions as subsec. (a) and second and third sentences of existing provisions as subsec. (b) and inserted headings.
+<b>2017</b>—Pub. L. 114–329, §604(b)(1), (2), designated first sentence of existing provisions as subsec. (a) and secondand third sentences of existing provisions as subsec. (b) and inserted headings.
 
 Subsec. (c). Pub. L. 114–329, §604(b)(3), added subsec. (c).
 

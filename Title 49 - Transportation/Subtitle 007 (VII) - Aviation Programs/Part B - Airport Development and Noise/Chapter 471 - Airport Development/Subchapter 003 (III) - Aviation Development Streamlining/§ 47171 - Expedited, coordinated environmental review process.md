@@ -2,7 +2,7 @@
 
 (a)
 
-Aviation Project Review Process.—The Secretary of Transportation shall develop and implement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
+Aviation Project Review Process.—The Secretary of Transportation shall develop andimplement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
 
 &emsp;(1) provides for better coordination among the Federal, regional, State, and local agencies concerned with the preparation of environmental impact statements or environmental assessments under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
@@ -74,7 +74,7 @@ In general.—The Secretary may utilize an interagency environmental impact stat
 
 &emsp;(2)
 
-Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, the interagency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
+Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, theinteragency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
 
 (h)
 
@@ -136,7 +136,7 @@ Pub. L. 108–176, title III, §302, Dec. 12, 2003, 117 Stat. 2533, provided tha
 
 #### Limitations
 
-Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided that: "Nothing in this subtitle \[subtitle A (§§301–309) of title III of Pub. L. 108–176, enacting this subchapter, amending sections 40104, 47106, and 47504 of this title, and enacting provisions set out as notes under this section\], including any amendment made by this title \[enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title\], shall preempt or interfere with—
+Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided that: "Nothing in this subtitle \[subtitle A (§§301–309) of title III of Pub. L. 108–176, enacting this subchapter, amending sections 40104, 47106, and 47504 ofthis title, and enacting provisions set out as notes under this section\], including any amendment made by this title \[enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title\], shall preempt or interfere with—
 
 &emsp;"(1) any practice of seeking public comment;
 

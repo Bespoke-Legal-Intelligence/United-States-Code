@@ -22,7 +22,7 @@
 
 #### (b) Adoption by Board
 
-The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with theprinciples and procedures set forth in section 553 of title 5 and as provided in the following provisions of this subsection:
+The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with the principles and procedures set forth in section 553 of title 5 and as provided in the following provisions of this subsection:
 
 #### (1) Proposal
 

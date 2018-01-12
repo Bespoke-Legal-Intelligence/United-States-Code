@@ -40,7 +40,7 @@ A grant awarded under this subpart shall be for a period of not more than 5 year
 
 &emsp;&emsp;(B) A description of how the State educational agency, in collaboration with the State literacy team, if applicable, will develop a State comprehensive literacy instruction plan or will revise and update an already existing State comprehensive literacy instruction plan.
 
-&emsp;&emsp;(C) An implementation plan that includes a description of how the State educationalagency will carry out the State activities described in subsection (f).
+&emsp;&emsp;(C) An implementation plan that includes a description of how the State educational agency will carry out the State activities described in subsection (f).
 
 &emsp;&emsp;(D) An assurance that the State educational agency will use implementation grant funds described in subsection (f)(1) for comprehensive literacy instruction programs as follows:
 
@@ -64,7 +64,7 @@ In awarding grants under this section, the Secretary shall give priority to Stat
 
 #### (1) In general
 
-&emsp;A State educational agency receiving a grant under this section shall use not less than 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
+&emsp;A State educational agency receiving a grant under this section shall use not lessthan 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
 
 #### (2) Reservation
 

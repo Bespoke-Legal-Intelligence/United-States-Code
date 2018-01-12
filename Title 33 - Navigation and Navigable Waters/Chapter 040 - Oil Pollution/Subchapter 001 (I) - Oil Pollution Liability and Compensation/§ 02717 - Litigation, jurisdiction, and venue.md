@@ -14,7 +14,7 @@ A State trial court of competent jurisdiction over claims for removal costs or d
 
 #### (d) Assessment and collection of tax
 
-The provisions of subsections (a), (b), and (c) shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
+The provisions of subsections (a), (b), and (c) shall not apply to any controversy or other matter resulting from the assessment or collectionof any tax, or to the review of any regulation promulgated under title 26.
 
 #### (e) Savings provision
 
@@ -32,7 +32,7 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 #### (2) Removal costs
 
-&emsp;An action for recovery of removal costs referred to in section 2702(b)(1) of this title must be commenced within 3 years after completionof the removal action. In any such action described in this subsection, the court shall enter a declaratory judgment on liability for removal costs or damages that will be binding on any subsequent action or actions to recover further removal costs or damages. Except as otherwise provided in this paragraph, an action may be commenced under this subchapter for recovery of removal costs at any time after such costs have been incurred.
+&emsp;An action for recovery of removal costs referred to in section 2702(b)(1) of this title must be commenced within 3 years after completion of the removal action. In any such action described in this subsection, the court shall enter a declaratory judgment on liability for removal costs or damages that will be binding on any subsequent action or actions to recover further removal costs or damages. Except as otherwise provided in this paragraph, an action may be commenced under this subchapter for recovery of removal costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 

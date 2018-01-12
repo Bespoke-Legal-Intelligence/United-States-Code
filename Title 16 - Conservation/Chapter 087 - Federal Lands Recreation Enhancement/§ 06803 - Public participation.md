@@ -154,7 +154,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (2) Notice of recreation fee projects
 
-&emsp;To the extent practicable, the Secretary shall post clear notice of locations where workis performed using recreation fee or recreation pass revenues collected under this chapter.
+&emsp;To the extent practicable, the Secretary shall post clear notice of locations where work is performed using recreation fee or recreation pass revenues collected under this chapter.
 
 (Pub. L. 108–447, div. J, title VIII, §804, Dec. 8, 2004, 118 Stat. 3382.)
 
@@ -166,5 +166,5 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 9
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Director as principal officer
 
-(1) There is established within the Administration for Community Living of the Department ofHealth and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
+(1) There is established within the Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
 
 &emsp;(A) promote, coordinate, and provide for—
 
@@ -164,7 +164,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 #### (j) Comprehensive and coordinated research program; interagency cooperation; research and training center
 
-(1) The Director shall take appropriate actions to provide for a comprehensive and coordinated research program under this subchapter. In providing such a program, the Director may undertake joint activities with other Federal entities engaged in research and with appropriate private entities. Any Federal entity proposing to establish any research project related to the purposes of this chapter shall consult, through the Interagency Committee established by section 763 of this title, with the Director as Chairperson of such Committee and provide the Director with sufficient prior opportunity to comment on such project.
+(1) The Director shall take appropriate actions to provide for a comprehensive and coordinatedresearch program under this subchapter. In providing such a program, the Director may undertake joint activities with other Federal entities engaged in research and with appropriate private entities. Any Federal entity proposing to establish any research project related to the purposes of this chapter shall consult, through the Interagency Committee established by section 763 of this title, with the Director as Chairperson of such Committee and provide the Director with sufficient prior opportunity to comment on such project.
 
 (2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
@@ -246,7 +246,7 @@ Subsec. (f)(1). Pub. L. 113–128, §433(5), substituted "The scientific peer re
 
 Subsec. (h)(1)(A). Pub. L. 113–128, §433(6)(A), substituted "priorities for disability, independent living, and rehabilitation research," for "priorities for rehabilitation research," and inserted "dissemination," after "training,".
 
-Subsec. (h)(2)(A). Pub. L. 113–128, §433(6)(B)(i), substituted "especially in the areas of employment andindependent living" for "especially in the area of employment".
+Subsec. (h)(2)(A). Pub. L. 113–128, §433(6)(B)(i), substituted "especially in the areas of employment and independent living" for "especially in the area of employment".
 
 Subsec. (h)(2)(D). Pub. L. 113–128, §433(6)(B)(ii)(I), substituted "coordinated with the strategic plan required under section 763(c) of this title" for "developed by the Director" in introductory provisions.
 

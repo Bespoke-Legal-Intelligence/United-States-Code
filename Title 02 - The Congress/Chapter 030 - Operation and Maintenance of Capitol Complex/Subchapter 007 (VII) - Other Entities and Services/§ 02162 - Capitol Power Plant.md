@@ -36,7 +36,7 @@ The Architect of the Capitol shall conduct a feasibility study evaluating the av
 
 &emsp;&emsp;(D) whether the proposed project is able to use carbon dioxide emissions;
 
-&emsp;&emsp;(E) whether the proposed project could be expanded to significantly increase the amount of Capitol Power Plant carbon dioxide emissions to be captured and stored or used;
+&emsp;&emsp;(E) whether the proposed project could be expanded to significantly increase theamount of Capitol Power Plant carbon dioxide emissions to be captured and stored or used;
 
 &emsp;&emsp;(F) the potential environmental, energy, and educational benefits of demonstrating the capture and storage or use of carbon dioxide at the U.S. Capitol; and
 
@@ -64,7 +64,7 @@ Section is based on act Mar. 4, 1911, popularly known as the "Sundry Civil Appro
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–140 added text of section and struck out former text which read as follows: "The heating, lighting, and power plant constructed under the termsof the Act approved April 28, 1904, shall be known as the 'Capitol power plant'; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title."
+<b>2007</b>—Pub. L. 110–140 added text of section and struck out former text which read as follows: "The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the 'Capitol power plant'; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title."
 
 #### Change of Name
 

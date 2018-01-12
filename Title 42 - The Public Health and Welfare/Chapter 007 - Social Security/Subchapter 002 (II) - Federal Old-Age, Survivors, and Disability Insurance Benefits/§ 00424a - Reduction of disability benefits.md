@@ -24,7 +24,7 @@ If for any month prior to the month in which an individual attains retirement ag
 
 &emsp;(6) the total of such individual's disability insurance benefits under section 423 of this title for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
 
-> In no case shall the reduction in the total of such benefits under sections 423 and 402 of thistitle for a month (in a continuous period of months) reduce such total below the sum of—
+> In no case shall the reduction in the total of such benefits under sections 423 and 402 of this title for a month (in a continuous period of months) reduce such total below the sum of—
 
 &emsp;(7) the total of the benefits under sections 423 and 402 of this title, after reduction under this section, with respect to all persons entitled to benefits on the basis of such individual's wages and self-employment income for such month which were determined for such individual and such persons for the first month for which reduction under this section was made (or which would have been so determined if all of them had been so entitled in such first month), and
 
@@ -42,7 +42,7 @@ Reduction of benefits under this section shall be made after any reduction under
 
 #### (d) Exception
 
-The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
+The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wagesand self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
 
 #### (e) Conditions for payment
 
@@ -88,7 +88,7 @@ A prior section 224 of act Aug. 14, 1935, was classified to section 424 of this 
 
 Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted "and" at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
+"(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in whichthe reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
 
 "(C) in any case in which the reduction was first computed before 1978, the ratio of (i) the average of the taxable wages reported to the Secretary for the first calendar quarter of 1977 to (ii) the average of the taxable wages reported to the Secretary for the first calendar quarter of the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability)."
 
@@ -114,7 +114,7 @@ Subsec. (a)(2)(B). Pub. L. 99–509 substituted "section 418(g)" for "section 41
 
 Pub. L. 99–272, §12109(a)(2), substituted "all or substantially all of which" for "all or part of which" in cl. (iv).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted "age of 65" for "age of 62", in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, ofthe entitlement for such month, and in par. (4) substituted "such laws or plans" for "the workmen's compensation law or plan".
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted "age of 65" for "age of 62", in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted "such laws or plans" for "the workmen's compensation law or plan".
 
 Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted "for a total or partial disability under a law or plan described in subsection (a)(2)" for "under a workmen's compensation law or plan".
 
@@ -136,7 +136,7 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. B, title II, §201(b), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any individual who attains 65 years of age on or after the date that is 12 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–295, div. B, title II, §201(b), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply withrespect to any individual who attains 65 years of age on or after the date that is 12 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -170,7 +170,7 @@ Amendment by section 353(c)(2) of Pub. L. 95–216 effective Jan. 1, 1979, see s
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–603, title I, §119(c), Oct. 30, 1972, 86 Stat. 1352, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of theSocial Security Act \[42 U.S.C. 401 et seq.\] for months after December 1972."
+Pub. L. 92–603, title I, §119(c), Oct. 30, 1972, 86 Stat. 1352, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for months after December 1972."
 
 #### Effective Date of 1968 Amendments; Determination of Average Current Earnings Upon Redetermination of Benefits Subject to Reduction
 

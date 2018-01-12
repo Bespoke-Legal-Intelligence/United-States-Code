@@ -51,7 +51,7 @@
 
 (3) The chief judge shall transmit to the Director of the Office of Personnel Management a copy of each notice filed with the chief judge under this subsection.
 
-(e) If an individual for whom an election to receive retired pay under subsection (c) is in effect accepts compensation for employment with the United States, the individual shall, to the extent of the amount of that compensation, forfeitall rights to retired pay under subsection (c) of this section for the period for which the compensation is received.
+(e) If an individual for whom an election to receive retired pay under subsection (c) is in effect accepts compensation for employment with the United States, the individual shall, to the extent of the amount of that compensation, forfeit all rights to retired pay under subsection (c) of this section for the period for which the compensation is received.
 
 (f)(1) Except as otherwise provided in this subsection, the provisions of the civil service retirement laws (including the provisions relating to the deduction and withholding of amounts from basic pay, salary, and compensation) shall apply with respect to service as a judge as if this section had not been enacted.
 
@@ -95,7 +95,7 @@
 
 (2) Each judge who makes an election under subsection (d) of this section shall be considered to agree to the deductions from salary which are made under paragraph (1) of this subsection.
 
-(j) A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the electionfor which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
+(j) A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
 
 (k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
@@ -149,7 +149,7 @@ Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590,
 
 "(a)
 
-Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
+Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or2001, and one additional eligible judge may retire in accordance with this section in 2001.
 
 "(b)
 
@@ -197,7 +197,7 @@ Rate of Retired Pay.—The rate of retired pay for a judge retiring in accordanc
 
 "(i)
 
-Adjustments in Retired Pay for Judges Available for Recall.—Subject to section 7296(f)(3)(B) of title 38, United States Code, an adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section in thecase of a judge who is a recall-eligible retired judge under section 7257 of such title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability.
+Adjustments in Retired Pay for Judges Available for Recall.—Subject to section 7296(f)(3)(B) of title 38, United States Code, an adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section in the case of a judge who is a recall-eligible retired judge under section 7257 of such title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability.
 
 "(j)
 

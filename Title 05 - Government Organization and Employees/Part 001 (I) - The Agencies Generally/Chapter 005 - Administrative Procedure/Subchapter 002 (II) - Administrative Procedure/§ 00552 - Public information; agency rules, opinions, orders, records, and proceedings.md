@@ -6,7 +6,7 @@
 
 &emsp;(A) descriptions of its central and field organization and the established places at which, the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
 
-&emsp;(B) statements of the general course and method by which its functions are channeledand determined, including the nature and requirements of all formal and informal procedures available;
+&emsp;(B) statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;
 
 &emsp;(C) rules of procedure, descriptions of forms available or the places at which forms may be obtained, and instructions as to the scope and contents of all papers, reports, or examinations;
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) the party has actual and timely notice of the terms thereof.
 
-(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, and except as provided in subparagraph (E), each agency, upon any request for records which (i) reasonably describes such records and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
+(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, and except as provided in subparagraph (E), each agency, upon any request for records which (i) reasonably describes suchrecords and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
 
 (B) In making any record available to a person under this paragraph, an agency shall provide the record in any form or format requested by the person if the record is readily reproducible by the agency in that form or format. Each agency shall make reasonable efforts to maintain its records in forms or formats that are reproducible for purposes of this section.
 
@@ -50,7 +50,7 @@
 
 (E) An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) <sup>1</sup> shall not make any record available under this paragraph to—
 
-&emsp;(i) any government entity, other than a State, territory, commonwealth, or district ofthe United States, or any subdivision thereof; or
+&emsp;(i) any government entity, other than a State, territory, commonwealth, or district of the United States, or any subdivision thereof; or
 
 &emsp;(ii) a representative of a government entity described in clause (i).
 
@@ -80,7 +80,7 @@
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
-(viii)(I) Except as provided in subclause (II), an agency shall not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency has failed to comply with any time limit under paragraph (6).
+(viii)(I) Except as provided in subclause (II), an agency shall not assess any search fees (or in thecase of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency has failed to comply with any time limit under paragraph (6).
 
 (II)(aa) If an agency has determined that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provided a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
 
@@ -138,7 +138,7 @@
 
 &emsp;(II) if necessary to clarify with the requester issues regarding fee assessment. In either case, the agency's receipt of the requester's response to the agency's request for information or clarification ends the tolling period.
 
-(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed ineither clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
+(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
 (ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
@@ -178,7 +178,7 @@
 
 (iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
-(iv) A district court of the United States shall not have jurisdiction to review an agency denialof expedited processing of a request for records after the agency has provided a complete response to the request.
+(iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
 
 (v) For purposes of this subparagraph, the term "compelling need" means—
 
@@ -234,7 +234,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C)could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -292,7 +292,7 @@
 
 &emsp;(L) the number of expedited review requests that are granted and denied, the average and median number of days for adjudicating expedited review requests, and the number adjudicated within the required 10 days;
 
-&emsp;(M) the number of fee waiver requests that are granted and denied, and the average andmedian number of days for adjudicating fee waiver determinations;
+&emsp;(M) the number of fee waiver requests that are granted and denied, and the average and median number of days for adjudicating fee waiver determinations;
 
 &emsp;(N) the total amount of fees collected by the agency for processing requests;
 
@@ -704,7 +704,7 @@ Pub. L. 110–175, §6(b)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: "The
 
 Pub. L. 110–175, §7(b), Dec. 31, 2007, 121 Stat. 2527, provided that: "The amendment made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date."
 
-Pub. L. 110–175, §10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2007\]."
+Pub. L. 110–175, §10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2007\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -898,7 +898,7 @@ Disclosure to Congress.—Nothing in this section shall be construed to authoriz
 
 #### Disclosure of Arson, Explosive, or Firearm Records
 
-Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: "No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\]."
+Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: "No funds appropriated under this Act or any other Act with respect to any fiscalyear shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\]."
 
 #### Disclosure of Information on Japanese Imperial Government
 
@@ -924,7 +924,7 @@ Interagency group.—The term 'Interagency Group' means the Nazi War Crimes and 
 
 &emsp;"(3)
 
-Japanese imperial government records.—The term 'Japanese Imperial Government records' means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, hasgrounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+Japanese imperial government records.—The term 'Japanese Imperial Government records' means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
 &emsp;&emsp;"(A) the Japanese Imperial Government;
 
@@ -1038,7 +1038,7 @@ Definitions.—In this section the term—
 
 &emsp;"(1) 'agency' has the meaning given such term under section 551 of title 5, United States Code;
 
-&emsp;"(2) 'Interagency Group' means the Nazi War Criminal Records Interagency Working Group \[redesignated Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group, seesection 802(b)(1) of Pub. L. 106–567, set out above\] established under subsection (b);
+&emsp;"(2) 'Interagency Group' means the Nazi War Criminal Records Interagency Working Group \[redesignated Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group, see section 802(b)(1) of Pub. L. 106–567, set out above\] established under subsection (b);
 
 &emsp;"(3) 'Nazi war criminal records' has the meaning given such term under section 3 of this Act; and
 
@@ -1122,7 +1122,7 @@ Exception for privacy, etc.—An agency head may exempt from release under parag
 
 &emsp;&emsp;"(G) reveal information that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
 
-&emsp;&emsp;"(H) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services, in the interest of national security, are authorized;
+&emsp;&emsp;"(H) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whomprotection services, in the interest of national security, are authorized;
 
 &emsp;&emsp;"(I) reveal information that would seriously and demonstrably impair current national security emergency preparedness plans; or
 
@@ -1294,7 +1294,7 @@ Ex. Ord. No. 13110, Jan. 11, 1999, 64 F.R. 2419, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Nazi War Crimes Disclosure Act (Public Law 105–246) (the "Act") \[5 U.S.C. 552 note\], it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal Records Interagency Working Group \[now Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group\] (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
+Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal RecordsInteragency Working Group \[now Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group\] (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
 
 Sec. 2. <i>Schedule</i>. The Working Group should complete its work to the greatest extent possible and report to the Congress within 1 year.
 
@@ -1318,7 +1318,7 @@ Sec. 3. <i>Membership</i>. (a) The Working Group shall be composed of the follow
 
 (b) The Senior Director for Records and Access Management of the National Security Council will serve as the liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
 
-Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the National Archives and Records Administrationshall provide the Working Group with funding, administrative services, facilities, staff, and other support services necessary for the performance of the functions of the Working Group.
+Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the National Archives and Records Administration shall provide the Working Group with funding, administrative services, facilities, staff, and other support services necessary for the performance of the functions of the Working Group.
 
 (b) The Working Group shall terminate 3 years from the date of this Executive order.
 
@@ -1372,7 +1372,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 Sec. 3. <i>Review, Plan, and Report.</i>
 
-(a) <i>Review</i>. Each agency's Chief FOIA Officer shall conduct a review of the agency's FOIA operations todetermine whether agency practices are consistent with the policies set forth in section 1 of this order. In conducting this review, the Chief FOIA Officer shall:
+(a) <i>Review</i>. Each agency's Chief FOIA Officer shall conduct a review of the agency's FOIA operations to determine whether agency practices are consistent with the policies set forth in section 1 of this order. In conducting this review, the Chief FOIA Officer shall:
 
 (i) evaluate, with reference to numerical and statistical benchmarks where appropriate, the agency's administration of the FOIA, including the agency's expenditure of resources on FOIA compliance and the extent to which, if any, requests for records have not been responded to within the statutory time limit (backlog);
 
@@ -1496,7 +1496,7 @@ A democracy requires accountability, and accountability requires transparency. A
 
 The Freedom of Information Act should be administered with a clear presumption: In the face of doubt, openness prevails. The Government should not keep information confidential merely because public officials might be embarrassed by disclosure, because errors and failures might be revealed, or because of speculative or abstract fears. Nondisclosure should never be based on an effort to protect the personal interests of Government officials at the expense of those they are supposed to serve. In responding to requests under the FOIA, executive branch agencies (agencies) should act promptly and in a spirit of cooperation, recognizing that such agencies are servants of the public.
 
-All agencies should adopt a presumption in favor of disclosure, in order to renew their commitment to theprinciples embodied in FOIA, and to usher in a new era of open Government. The presumption of disclosure should be applied to all decisions involving FOIA.
+All agencies should adopt a presumption in favor of disclosure, in order to renew their commitment to the principles embodied in FOIA, and to usher in a new era of open Government. The presumption of disclosure should be applied to all decisions involving FOIA.
 
 The presumption of disclosure also means that agencies should take affirmative steps to make information public. They should not wait for specific requests from the public. All agencies should use modern technology to inform citizens about what is known and done by their Government. Disclosure should be timely.
 

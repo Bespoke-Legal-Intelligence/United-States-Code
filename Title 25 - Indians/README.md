@@ -17,7 +17,7 @@
 | [<b>10.</b>](Chapter%20010%20-%20Descent%20and%20Distribution%3B%20Heirs%20of%20Allottee/README.md) | <b>Descent and Distribution; Heirs of Allottee</b> | <b>371</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Irrigation%20of%20Allotted%20Lands/README.md) | <b>Irrigation of Allotted Lands</b> | <b>381</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Lease%2C%20Sale%2C%20or%20Surrender%20of%20Allotted%20or%20Unallotted%20Lands/README.md) | <b>Lease, Sale, or Surrender of Allotted or Unallotted Lands</b> | <b>391</b> |
-| [<b>13.</b>](Chapter%20013%20-%20Ceded%20Indian%20Lands/README.md) | <b>Ceded Indian Lands \[Transferred\]</b> | <b>421</b> |
+| [<b>13.</b>](Chapter%20013%20-%20Ceded%20Indian%20Lands/README.md) | <b>Ceded Indian Lands</b> | <b>421</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Miscellaneous/README.md) | <b>Miscellaneous \[Repealed, Omitted, or Transferred\]</b> | <b>441</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Constitutional%20Rights%20of%20Indians/README.md) | <b>Constitutional Rights of Indians</b> | <b>1301</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Distribution%20of%20Judgment%20Funds/README.md) | <b>Distribution of Judgment Funds</b> | <b>1401</b> |

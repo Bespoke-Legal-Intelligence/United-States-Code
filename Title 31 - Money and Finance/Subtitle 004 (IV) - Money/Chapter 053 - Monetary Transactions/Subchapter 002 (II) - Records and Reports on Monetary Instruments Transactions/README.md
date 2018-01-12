@@ -21,7 +21,7 @@
 - [&sect; 05323 - Rewards for informants](%C2%A7%2005323%20-%20Rewards%20for%20informants.md)
 - [&sect; 05324 - Structuring transactions to evade reporting requirement prohibited](%C2%A7%2005324%20-%20Structuring%20transactions%20to%20evade%20reporting%20requirement%20prohibited.md)
 - [&sect; 05325 - Identification required to purchase certain monetary instruments](%C2%A7%2005325%20-%20Identification%20required%20to%20purchase%20certain%20monetary%20instruments.md)
-- [&sect; 05326 - Records of certain domestic coin and currency transactions](%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20coin%20and%20currency%20transactions.md)
+- [&sect; 05326 - Records of certain domestic transactions](%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20transactions.md)
 - [&sect; 05327 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2223(1), Sept. 30, 1996, 110 Stat. 3009&#8211;415](%C2%A7%2005327%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72223%281%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md)
 - [&sect; 05328 - Whistleblower protections](%C2%A7%2005328%20-%20Whistleblower%20protections.md)
 - [&sect; 05329 - Staff commentaries](%C2%A7%2005329%20-%20Staff%20commentaries.md)

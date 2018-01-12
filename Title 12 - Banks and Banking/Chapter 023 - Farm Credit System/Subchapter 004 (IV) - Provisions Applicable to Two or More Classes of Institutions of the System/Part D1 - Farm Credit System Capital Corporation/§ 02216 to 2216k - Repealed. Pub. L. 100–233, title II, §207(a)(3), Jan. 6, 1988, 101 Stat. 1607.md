@@ -22,7 +22,7 @@ Section 2216i, Pub. L. 92–181, title IV, §4.28J, as added Pub. L. 99–205, t
 
 Section 2216j, Pub. L. 92–181, title IV, §4.28K, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1687, provided for initial capitalization of Capital Corporation.
 
-Section 2216k, Pub. L. 92–181, title IV, §4.28L, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1687,provided for tax status of consolidated obligations. See sections 2278a–11 and 2278b–10 of this title.
+Section 2216k, Pub. L. 92–181, title IV, §4.28L, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1687, provided for tax status of consolidated obligations. See sections 2278a–11 and 2278b–10 of this title.
 
 #### Effective Date of Repeal
 

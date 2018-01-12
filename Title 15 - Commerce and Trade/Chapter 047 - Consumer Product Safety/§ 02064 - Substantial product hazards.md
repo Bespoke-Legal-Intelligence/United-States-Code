@@ -32,7 +32,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(C) To notify appropriate State and local public health officials.
 
-&emsp;(D) To give public notice of the defect or failure to comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internetwebsite on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.
+&emsp;(D) To give public notice of the defect or failure to comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.
 
 &emsp;(E) To mail notice to each person who is a manufacturer, distributor, or retailer of such product.
 
@@ -136,7 +136,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### (1) In general
 
-&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial product hazard under subsection (a)(2), if the Commission determines that—
+&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial producthazard under subsection (a)(2), if the Commission determines that—
 
 &emsp;&emsp;(A) such characteristics are readily observable and have been addressed by voluntary standards; and
 
@@ -222,7 +222,7 @@ Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008,see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 #### Effective Date of 1988 Amendment
 

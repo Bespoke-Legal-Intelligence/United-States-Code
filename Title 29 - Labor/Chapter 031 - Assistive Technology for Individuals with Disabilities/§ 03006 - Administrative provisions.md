@@ -8,7 +8,7 @@
 
 #### (2) Collaboration
 
-&emsp;The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department ofEducation, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
+&emsp;The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
 
 #### (3) Administration
 

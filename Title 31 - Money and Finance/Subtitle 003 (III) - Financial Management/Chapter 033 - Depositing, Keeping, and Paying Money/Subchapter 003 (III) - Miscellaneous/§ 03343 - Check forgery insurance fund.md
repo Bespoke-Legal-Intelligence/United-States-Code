@@ -8,7 +8,7 @@
 
 (b) The Secretary of the Treasury shall pay from the Fund to a payee or special endorsee of a check drawn on the Treasury or a depositary designated by the Secretary the amount of the check without interest if in the determination of the Secretary the payee or special endorse <sup>1</sup> establishes that—
 
-&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a special endorsee and whose endorsement is necessary for further negotiation;
+&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a specialendorsee and whose endorsement is necessary for further negotiation;
 
 &emsp;(2) the check was negotiated later and paid by the Secretary or a depositary on a forged endorsement of the payee's or special endorsee's name; and
 

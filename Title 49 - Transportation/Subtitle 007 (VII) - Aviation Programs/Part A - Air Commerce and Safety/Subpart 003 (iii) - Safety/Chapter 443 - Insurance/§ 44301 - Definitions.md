@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) "aircraft manufacturer" means any company or other business entity, the majorityownership and control of which is by United States citizens, that manufactures aircraft or aircraft engines.
+&emsp;(1) "aircraft manufacturer" means any company or other business entity, the majority ownership and control of which is by United States citizens, that manufactures aircraft or aircraft engines.
 
 &emsp;(2) "American aircraft" means—
 

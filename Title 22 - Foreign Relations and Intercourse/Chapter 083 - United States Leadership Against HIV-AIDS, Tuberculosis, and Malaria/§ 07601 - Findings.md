@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(5) An estimated 2,000,000 individuals in Latin America and the Caribbean and another 7,100,000 individuals in Asia and the Pacific region are infected with HIV or living with AIDS. Infection rates are rising alarmingly in Eastern Europe (especially in the Russian Federation), Central Asia, and China.
 
-&emsp;(6) HIV/AIDS threatens personal security by affecting the health, lifespan, and productive capacity of the individual and the social cohesion and economic well-being of the family.
+&emsp;(6) HIV/AIDS threatens personal security by affecting the health, lifespan, and productivecapacity of the individual and the social cohesion and economic well-being of the family.
 
 &emsp;(7) HIV/AIDS undermines the economic security of a country and individual businesses in that country by weakening the productivity and longevity of the labor force across a broad array of economic sectors and by reducing the potential for economic growth over the long term.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
-&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
+&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have includedlocal churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
 &emsp;(20)(A) Uganda has experienced the most significant decline in HIV rates of any country in Africa, including a decrease among pregnant women from 20.6 percent in 1991 to 7.9 percent in 2000.
 
@@ -128,7 +128,7 @@ Congress makes the following findings:
 
 &emsp;(37) Children who have lost a parent to HIV/AIDS, who are otherwise directly affected by the disease, or who live in areas of high HIV prevalence may be vulnerable to the disease or its socioeconomic effects.
 
-&emsp;(38) Lack of health capacity, including insufficient personnel and inadequate infrastructure, in sub-Saharan Africa and other regionsof the world is a critical barrier that limits the effectiveness of efforts to combat HIV/AIDS, tuberculosis, and malaria, and to achieve other global health goals.
+&emsp;(38) Lack of health capacity, including insufficient personnel and inadequate infrastructure, in sub-Saharan Africa and other regions of the world is a critical barrier that limits the effectiveness of efforts to combat HIV/AIDS, tuberculosis, and malaria, and to achieve other global health goals.
 
 &emsp;(39) On March 30, 2007, the Institute of Medicine of the National Academies released a report entitled "PEPFAR Implementation: Progress and Promise", which found that budget allocations setting percentage levels for spending on prevention, care, and treatment and for certain subsets of activities within the prevention category—
 

@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) a congenital anomaly or birth defect; or
 
-&emsp;&emsp;(B) requires, based on reasonable medical judgment, a medical or surgical interventionto prevent an outcome described under subparagraph (A).
+&emsp;&emsp;(B) requires, based on reasonable medical judgment, a medical or surgical intervention to prevent an outcome described under subparagraph (A).
 
 #### (4) Serious adverse event report
 
@@ -76,7 +76,7 @@ In this section:
 
 #### (d) Contents of reports
 
-Each serious adverse event report under this section shall be submitted to the Secretary using the MedWatch form, which may be modified by the Secretary for nonprescription drugs, and may be accompanied by additional information.
+Each serious adverse event report under this section shall be submitted to the Secretaryusing the MedWatch form, which may be modified by the Secretary for nonprescription drugs, and may be accompanied by additional information.
 
 #### (e) Maintenance and inspection of records
 
@@ -120,7 +120,7 @@ The submission of any adverse event report in compliance with this section shall
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall affect the authority of the Secretary to provide adverseevent reports and information to any health, food, or drug officer or employee of any State, territory, or political subdivision of a State or territory, under a memorandum of understanding between the Secretary and such State, territory, or political subdivision.
+&emsp;&emsp;Nothing in this section shall affect the authority of the Secretary to provide adverse event reports and information to any health, food, or drug officer or employee of any State, territory, or political subdivision of a State or territory, under a memorandum of understanding between the Secretary and such State, territory, or political subdivision.
 
 #### (B) Personally-identifiable information
 
@@ -152,5 +152,5 @@ Pub. L. 109–462, §2(b), Dec. 22, 2006, 120 Stat. 3472, provided that: "The Se
 
 Pub. L. 109–462, §2(e)(3), Dec. 22, 2006, 120 Stat. 3472, provided that: "Not later than 270 days after the date of enactment of this Act \[Dec. 22, 2006\], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act \[see Short Title of 2006 Amendment note set out under section 301 of this title\]."
 
-Pub. L. 109–462, §3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, §2(b), set out above.
+Pub. L. 109–462, §3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, §2(e)(3), set out above.
 

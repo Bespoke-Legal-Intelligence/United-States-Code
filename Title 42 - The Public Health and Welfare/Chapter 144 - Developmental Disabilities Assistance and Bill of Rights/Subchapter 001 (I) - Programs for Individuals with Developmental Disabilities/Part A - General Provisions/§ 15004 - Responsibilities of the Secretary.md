@@ -52,7 +52,7 @@ Except as otherwise expressly provided in this subchapter, the Secretary, not la
 
 #### (1) In general
 
-&emsp;The Secretary shall maintain the interagency committee authorized in section 6007 of this title as in effect on the day before October 30, 2000, except as otherwise provided in this subsection.
+&emsp;The Secretary shall maintain the interagency committee authorized in section 6007of this title as in effect on the day before October 30, 2000, except as otherwise provided in this subsection.
 
 #### (2) Composition
 

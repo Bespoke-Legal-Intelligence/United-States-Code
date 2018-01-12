@@ -12,7 +12,7 @@
 
 (3) The Secretary may designate additional fields of education or training as qualifying fields of education or training if the education or training leads to employment in a position which would qualify the individual for increased basic pay under subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section.
 
-(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course ofeducation or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
+(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
 
 (5) In selecting applicants for the Scholarship Program, the Secretary—
 
@@ -32,7 +32,7 @@
 
 (3) In the case of a participant who is a part-time student—
 
-&emsp;(A) the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
+&emsp;(A) the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried bysuch participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
 
 &emsp;(B) the agreement shall include the participant's agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
 

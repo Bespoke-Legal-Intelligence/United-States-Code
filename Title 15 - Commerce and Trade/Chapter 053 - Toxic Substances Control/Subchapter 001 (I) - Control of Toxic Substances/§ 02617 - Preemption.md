@@ -20,7 +20,7 @@
 
 &emsp;&emsp;A statute, criminal penalty, or administrative action to prohibit or otherwise restrict the manufacture, processing, or distribution in commerce or use of a chemical substance—
 
-&emsp;&emsp;&emsp;(i) for which the determination described in section 2605(i)(1) of this title is made,consistent with the scope of the risk evaluation under section 2605(b)(4)(D) <sup>1</sup> of this title; or
+&emsp;&emsp;&emsp;(i) for which the determination described in section 2605(i)(1) of this title is made, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) <sup>1</sup> of this title; or
 
 &emsp;&emsp;&emsp;(ii) for which a final rule is promulgated under section 2605(a) of this title, after the effective date of the rule issued under section 2605(a) of this title for the chemical substance, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) <sup>1</sup> of this title.
 
@@ -98,7 +98,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (B) Certain chemical substances and mixtures
 
-&emsp;&emsp;With respect to a chemical substance or mixture for which any rule or order was promulgated or issued under section 2605 of this title prior to the effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act with respect to manufacturing, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, nothing in this section shall be construed as modifying the preemptive effect of this section as in effect prior to the enactment of the Frank R. Lautenberg Chemical Safety for the 21st Century Act of any rule or order that is promulgated or issued with respect to such chemical substance or mixture under section 2605 of this title after that effective date, unless the latter rule or order is with respect to a chemical substance or mixture containing a chemical substance and follows a designation of that chemical substance as a high-priority substance under section 2605(b)(1)(B)(i) of this title, the identification of that chemical substance under section 2605(b)(2)(A) of this title, or the selection of that chemical substance for risk evaluation under section 2605(b)(4)(E)(iv)(II) of this title.
+&emsp;&emsp;With respect to a chemical substance or mixture for which any rule or order was promulgated or issued under section 2605 of this title prior to the effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act with respect to manufacturing, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, nothing in this section shall be construed as modifying the preemptive effect of this section as in effect prior to the enactment of the Frank R. Lautenberg Chemical Safety for the 21st Century Act of any rule or order that is promulgated or issued with respect to such chemical substance or mixture under section 2605 of this title after that effective date, unless the latter rule or order is with respect to a chemical substance or mixture containing a chemical substance and follows a designation of thatchemical substance as a high-priority substance under section 2605(b)(1)(B)(i) of this title, the identification of that chemical substance under section 2605(b)(2)(A) of this title, or the selection of that chemical substance for risk evaluation under section 2605(b)(4)(E)(iv)(II) of this title.
 
 #### (e) Preservation of certain laws
 
@@ -136,7 +136,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (2) Required exemptions
 
-&emsp;Upon application of a State or political subdivision of a State, the Administrator shall exempt from subsection (b) a statute or administrative action of a State or political subdivision of a State that relates to the effects of exposure to a chemical substance under theconditions of use if the Administrator determines that—
+&emsp;Upon application of a State or political subdivision of a State, the Administrator shall exempt from subsection (b) a statute or administrative action of a State or political subdivision of a State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
 
 &emsp;&emsp;(A)(i) compliance with the proposed requirement of the State or political subdivision of the State would not unduly burden interstate commerce in the manufacture, processing, distribution in commerce, or use of a chemical substance;
 
@@ -204,7 +204,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this chapter, nor any amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act, nor any rules, regulations, requirements, risk evaluations, scientific assessments, or orders issued pursuant to this chapter shallbe interpreted as, in either the plaintiff's or defendant's favor, dispositive in any civil action.
+&emsp;&emsp;Nothing in this chapter, nor any amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act, nor any rules, regulations, requirements, risk evaluations, scientific assessments, or orders issued pursuant to this chapter shall be interpreted as, in either the plaintiff's or defendant's favor, dispositive in any civil action.
 
 #### (B) Authority of courts
 

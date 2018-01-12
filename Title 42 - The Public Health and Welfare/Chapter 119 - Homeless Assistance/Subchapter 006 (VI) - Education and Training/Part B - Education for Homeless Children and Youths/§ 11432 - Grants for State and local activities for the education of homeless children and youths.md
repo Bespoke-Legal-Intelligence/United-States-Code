@@ -56,7 +56,7 @@ Grants under this section shall be used for the following:
 
 #### (1) Minimum disbursements by States
 
-&emsp;From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded at the minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
+&emsp;From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded atthe minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
 
 #### (2) Use by State educational agency
 
@@ -206,9 +206,9 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
 
-&emsp;&emsp;(A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
+&emsp;&emsp;(A) educators, including teachers, special education personnel, administrators, andchild development and preschool program personnel;
 
-&emsp;&emsp;(B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.);
+&emsp;&emsp;(B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); <sup>1</sup>
 
 &emsp;&emsp;(C) providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;
 
@@ -396,7 +396,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and
+&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.
 
@@ -452,7 +452,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (B) Notice
 
-&emsp;&emsp;State Coordinators established under subsection (d)(3) and local educational agencies shall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.
+&emsp;&emsp;State Coordinators established under subsection (d)(3) and local educational agenciesshall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.
 
 #### (C) Local and State coordination
 
@@ -482,7 +482,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which was classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title, prior to editorial reclassification and renumbering as subchapter III (§11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -504,7 +504,7 @@ Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 
 
 Subsec. (d)(2). Pub. L. 114–95, §9102(2)(A), substituted "To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable" for "To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable" and "including, if" for "or, if".
 
-Subsec. (d)(3). Pub. L. 114–95, §9102(2)(B), substituted "designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f)." for "designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section."
+Subsec. (d)(3). Pub. L. 114–95, §9102(2)(B), substituted "designate in the State educational agency an Office ofthe Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f)." for "designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section."
 
 Subsec. (d)(5). Pub. L. 114–95, §9102(2)(C), added par. (5) and struck out former par. (5) which read as follows: "To develop and implement professional development programs for school personnel to heighten their awareness of, and capacity to respond to, specific problems in the education of homeless children and youths."
 
@@ -531,6 +531,10 @@ Subsec. (h). Pub. L. 114–95, §9102(6), struck out subsec. (h) which related t
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
+
+#### Effective Date
+
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

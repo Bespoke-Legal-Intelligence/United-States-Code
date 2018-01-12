@@ -182,7 +182,7 @@ Compatibility Program.—The Secretary of the Army shall develop and implement a
 
 "(b)
 
-Report.—Not later than September 30, 1993, the Secretary shall submit to the Committees on ArmedServices of the Senate and House of Representatives a report describing the program under subsection (a) and setting forth a plan for implementation of the program by the end of fiscal year 1997.
+Report.—Not later than September 30, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program under subsection (a) and setting forth a plan for implementation of the program by the end of fiscal year 1997.
 
 #### "SEC. 1134. EQUIPMENT COMPATIBILITY.
 

@@ -6,7 +6,7 @@ Any institution in the System that violates or any officer, director, employee, 
 
 #### (b) Factors determining amount
 
-Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty. In determining the amount of the penalty, the Farm Credit Administration shall take into account the appropriateness of the penalty with respectto the size of financial resources and good faith of the System institution or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
+Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty. In determining the amount of the penalty, the Farm Credit Administration shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the System institution or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
 #### (c) Notice and hearing; final orders
 
@@ -32,7 +32,7 @@ All penalties collected under authority of this section shall be covered into th
 
 For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(i) of this title shall be treated as an order that has become final and was issued under section 2261 of this title.
 
-(Pub. L. 92–181, title V, §5.32, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1700; amended Pub. L. 100–233, title IV, §423, title VIII, §§804(a)(2), 805(dd), Jan. 6, 1988, 101 Stat. 1656, 1714, 1717.)
+(Pub. L. 92–181, title V, §5.32, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1700;amended Pub. L. 100–233, title IV, §423, title VIII, §§804(a)(2), 805(dd), Jan. 6, 1988, 101 Stat. 1656, 1714, 1717.)
 
 #### Amendments
 

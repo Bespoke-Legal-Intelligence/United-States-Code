@@ -320,7 +320,7 @@ Exemptions from the requirements of this section to clear a security-based swap 
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
+&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officershall annually prepare and sign a report that contains a description of—
 
 &emsp;&emsp;&emsp;(i) the compliance of the registered clearing agency or security-based swap execution facility of the compliance officer with respect to this chapter (including regulations under this chapter); and
 

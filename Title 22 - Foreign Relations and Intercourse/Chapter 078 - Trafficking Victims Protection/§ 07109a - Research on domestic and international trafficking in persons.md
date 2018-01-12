@@ -26,7 +26,7 @@ The President, acting through the Council of Economic Advisors, the National Res
 
 &emsp;The database described in subsection (a)(5) shall be established by combining all applicable data collected by each Federal department and agency represented on the Interagency Task Force to Monitor and Combat Trafficking, consistent with the protection of sources and methods, and, to the maximum extent practicable, applicable data from relevant international organizations, to—
 
-&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in persons by each agency of the United States Government that collects such data;
+&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in personsby each agency of the United States Government that collects such data;
 
 &emsp;&emsp;(B) promote uniformity of such data collection and standards and systems related to such collection;
 

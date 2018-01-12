@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds made available under paragraph (5), the Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct a study ofthe feasibility of improving the certification process used for the school lunch program established under this chapter.
+&emsp;Subject to the availability of funds made available under paragraph (5), the Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct a study of the feasibility of improving the certification process used for the school lunch program established under this chapter.
 
 #### (2) Pilot projects
 
@@ -72,5 +72,5 @@ Those Acts, referred to in subsec. (c), mean the Richard B. Russell National Sch
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 

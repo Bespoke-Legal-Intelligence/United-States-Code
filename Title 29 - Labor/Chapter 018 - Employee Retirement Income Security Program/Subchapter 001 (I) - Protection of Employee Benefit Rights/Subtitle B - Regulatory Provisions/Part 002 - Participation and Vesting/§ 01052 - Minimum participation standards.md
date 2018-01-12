@@ -1,6 +1,6 @@
 ### §1052. Minimum participation standards
 
-(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that an employee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
+(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that anemployee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
 
 &emsp;(i) the date on which the employee attains the age of 21; or
 
@@ -106,7 +106,7 @@ Subsec. (a)(2). Pub. L. 99–509 substituted a period for "unless—
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–397, §102(a), substituted "21" for "25" in subpar. (A)(i) and " '26' for '21' " for " '30' for '25' " in subpar. (B)(ii).
 
-Subsec. (b)(4). Pub. L. 98–397, §102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before abreak in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service."
+Subsec. (b)(4). Pub. L. 98–397, §102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service."
 
 Subsec. (b)(5). Pub. L. 98–397, §102(e)(1), added par. (5).
 

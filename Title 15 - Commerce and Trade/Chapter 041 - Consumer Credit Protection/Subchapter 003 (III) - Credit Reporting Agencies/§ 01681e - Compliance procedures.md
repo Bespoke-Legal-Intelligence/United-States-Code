@@ -26,7 +26,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 #### (2) Content of notice
 
-&emsp;The Bureau shall prescribe the content of notices under paragraph (1), and a consumer reporting agency shall be in compliance with this subsection if it provides a notice under paragraph (1) that is substantially similar to the Bureau prescription under this paragraph.
+&emsp;The Bureau shall prescribe the content of notices under paragraph (1), and a consumerreporting agency shall be in compliance with this subsection if it provides a notice under paragraph (1) that is substantially similar to the Bureau prescription under this paragraph.
 
 #### (e) Procurement of consumer report for resale
 

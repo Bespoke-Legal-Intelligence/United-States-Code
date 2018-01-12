@@ -18,7 +18,7 @@ Every alien applying for a nonimmigrant visa and alien registration shall furnis
 
 #### (e) Signing and verification of application
 
-Except as may be otherwise prescribed by regulations, each application for an immigrant visa shall be signed by the applicant in the presence of the consular officer, and verified by the oath of the applicant administered by the consular officer. The application for an immigrant visa, when visaed by the consular officer, shall become the immigrant visa. The application for a nonimmigrant visa or other documentation as a nonimmigrant shall be disposed of as may be by regulations prescribed. The issuance of a nonimmigrant visa shall, except as may be otherwise by regulations prescribed, be evidenced by a stamp, or other <sup>1</sup> placed in the alien's passport.
+Except as may be otherwise prescribed by regulations, each application for an immigrant visa shall be signed by the applicant in the presence of the consular officer, and verified by the oath of the applicant administered by the consular officer. The application for an immigrant visa,when visaed by the consular officer, shall become the immigrant visa. The application for a nonimmigrant visa or other documentation as a nonimmigrant shall be disposed of as may be by regulations prescribed. The issuance of a nonimmigrant visa shall, except as may be otherwise by regulations prescribed, be evidenced by a stamp, or other <sup>1</sup> placed in the alien's passport.
 
 #### (f) Confidential nature of records
 

@@ -8,11 +8,11 @@ In this chapter:
 
 #### (2) Agreement
 
-&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Lawof the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
+&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
 
 #### (3) Commission
 
-&emsp;The term "Commission" means the Commission for the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean established in accordance with this Convention.
+&emsp;The term "Commission" means the Commission for the Conservation and Management of Highly Migratory Fish Stocks in the Westernand Central Pacific Ocean established in accordance with this Convention.
 
 #### (4) Convention area
 

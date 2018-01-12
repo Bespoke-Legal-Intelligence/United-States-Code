@@ -36,9 +36,13 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
 
-(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, §107(a)(2)(D), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (d)(3). Pub. L. 115–91 substituted "section 2302(d)" for "section 2302(c)".
+
+Pub. L. 115–73 substituted "section 2302(c)" for "section 2302(d)".
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: "In addition to basic pay, additional compensation may be paid, in such amounts as the head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
 
@@ -58,7 +62,7 @@ Subsec. (e). Pub. L. 105–85, §3525(a)(1), (2), redesignated subsec. (c) as (e
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment madeby section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
 
 #### Savings Provision for Basic Pay
 

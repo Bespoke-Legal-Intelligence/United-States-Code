@@ -46,7 +46,7 @@ In this section:
 
 &emsp;&emsp;(A) shall apply to each project study that is initiated after June 10, 2014, and for which an environmental impact statement is prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
 
-&emsp;&emsp;(B) may be applied, to the extent determined appropriate by the Secretary, to other project studies initiated after June 10, 2014, and for which an environmental review process document is prepared under that Act.
+&emsp;&emsp;(B) may be applied, to the extent determined appropriate by the Secretary, toother project studies initiated after June 10, 2014, and for which an environmental review process document is prepared under that Act.
 
 #### (2) Flexibility
 
@@ -130,7 +130,7 @@ In this section:
 
 &emsp;&emsp;(A) to take such actions as are necessary and proper and within the authority of the Federal lead agency to facilitate the expeditious resolution of the environmental review process for the project study; and
 
-&emsp;&emsp;(B) to prepare or ensure that any required environmental impact statement or other environmental review document for a project study required to be completed under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) is completed in accordance with this section and applicable Federal law.
+&emsp;&emsp;(B) to prepare or ensure that any required environmental impact statement or other environmental review document for aproject study required to be completed under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) is completed in accordance with this section and applicable Federal law.
 
 #### (e) Participating and cooperating agencies
 
@@ -226,7 +226,7 @@ In this section:
 
 &emsp;&emsp;(A) as the first step in drafting guidance under that paragraph, consult with relevant Federal, State, and local governmental agencies, Indian tribes, and the public on the appropriate use and scope of the programmatic approaches;
 
-&emsp;&emsp;(B) emphasize the importance of collaboration among relevant Federal, State, and local governmental agencies, and Indian tribes in undertaking programmatic reviews, especially with respect to including reviews with a broad geographical scope;
+&emsp;&emsp;(B) emphasize the importance of collaboration among relevant Federal, State, and local governmental agencies, and Indian tribes in undertaking programmatic reviews,especially with respect to including reviews with a broad geographical scope;
 
 &emsp;&emsp;(C) ensure that the programmatic reviews—
 
@@ -316,7 +316,7 @@ In this section:
 
 &emsp;&emsp;For all other comment periods established by the Federal lead agency for agency or public comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
 
-&emsp;&emsp;&emsp;(i) a different deadline is established by agreement of the Federal lead agency, the project sponsor, or joint lead agency, as applicable, and all participating and cooperating agencies; or
+&emsp;&emsp;&emsp;(i) a different deadline is established by agreement of the Federal lead agency, the project sponsor, or joint lead agency, asapplicable, and all participating and cooperating agencies; or
 
 &emsp;&emsp;&emsp;(ii) the deadline is extended by the Federal lead agency for good cause.
 
@@ -392,7 +392,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Federal jurisdictional agency shall complete any required approval or decision for the environmental review process on an expeditious basis using the shortest existing applicable process.
+&emsp;&emsp;A Federal jurisdictional agency shall complete any required approval or decision forthe environmental review process on an expeditious basis using the shortest existing applicable process.
 
 #### (B) Failure to decide
 
@@ -448,7 +448,7 @@ In this section:
 
 #### (E) Limitation
 
-&emsp;&emsp;The Federal agency from which funds are transferred pursuant to this paragraph shallnot reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
+&emsp;&emsp;The Federal agency from which funds are transferred pursuant to this paragraph shall not reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
 
 #### (F) Effect of paragraph
 

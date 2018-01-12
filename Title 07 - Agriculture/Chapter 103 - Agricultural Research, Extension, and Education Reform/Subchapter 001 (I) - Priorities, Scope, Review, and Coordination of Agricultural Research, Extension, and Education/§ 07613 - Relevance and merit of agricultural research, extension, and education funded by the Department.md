@@ -36,7 +36,7 @@ On an annual basis, the Advisory Board shall review—
 
 #### (2) Input
 
-&emsp;In formulating a request for proposals described in paragraph (1) for a fiscal year, theSecretary shall solicit and consider input from persons who conduct or use agricultural research, extension, or education regarding the prior year's request for proposals.
+&emsp;In formulating a request for proposals described in paragraph (1) for a fiscal year, the Secretary shall solicit and consider input from persons who conduct or use agricultural research, extension, or education regarding the prior year's request for proposals.
 
 #### (d) Scientific peer review of agricultural research
 

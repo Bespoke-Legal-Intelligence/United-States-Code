@@ -11,7 +11,7 @@
 | [2876\.](%C2%A7%2002876%20-%20Rental%20guarantees.md) | Rental guarantees. |
 | [2877\.](%C2%A7%2002877%20-%20Differential%20lease%20payments.md) | Differential lease payments. |
 | [2878\.](%C2%A7%2002878%20-%20Conveyance%20or%20lease%20of%20existing%20property%20and%20facilities.md) | Conveyance or lease of existing property and facilities. |
-| \[2879. | Repealed.\] |
+| [2879\.](%C2%A7%2002879%20-%20Window%20fall%20prevention%20devices%20in%20military%20family%20housing%20units.md) | Window fall prevention devices in military family housing units. |
 | [2880\.](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md) | Unit size and type. |
 | [2881\.](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md) | Ancillary supporting facilities. |
 | [2881a.](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md) | Pilot projects for acquisition or construction of military unaccompanied housing. |
@@ -20,10 +20,15 @@
 | [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
 | [2884\.](%C2%A7%2002884%20-%20Reports.md) | Reports. |
 | [2885\.](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md) | Oversight and accountability for privatization projects. |
+| [2886\.](%C2%A7%2002886%20-%20Prohibiting%20collection%20of%20amounts%20in%20addition%20to%20rent%20from%20members%20assigned%20to%20units.md) | Prohibiting collection of amounts in addition to rent from members assigned to units. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, which directed amendment of the analysis at the beginning of this chapter by adding item 2879, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+
+Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
 
 <b>2008</b>—Pub. L. 110–417, div. B, title XXVIII, §2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 "Assignment of members of the armed forces to housing units".
 
@@ -51,7 +56,7 @@
 - [&sect; 02876 - Rental guarantees](%C2%A7%2002876%20-%20Rental%20guarantees.md)
 - [&sect; 02877 - Differential lease payments](%C2%A7%2002877%20-%20Differential%20lease%20payments.md)
 - [&sect; 02878 - Conveyance or lease of existing property and facilities](%C2%A7%2002878%20-%20Conveyance%20or%20lease%20of%20existing%20property%20and%20facilities.md)
-- [&sect; 02879 - Repealed. Pub. L. 107&#8211;314, div. B, title XXVIII, &sect;2802(c)(1), Dec. 2, 2002, 116 Stat. 2703](%C2%A7%2002879%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72802%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202703.md)
+- [&sect; 02879 - Window fall prevention devices in military family housing units](%C2%A7%2002879%20-%20Window%20fall%20prevention%20devices%20in%20military%20family%20housing%20units.md)
 - [&sect; 02880 - Unit size and type](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md)
 - [&sect; 02881 - Ancillary supporting facilities](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md)
 - [&sect; 02881a - Pilot projects for acquisition or construction of military unaccompanied housing](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md)
@@ -60,3 +65,4 @@
 - [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)
 - [&sect; 02884 - Reports](%C2%A7%2002884%20-%20Reports.md)
 - [&sect; 02885 - Oversight and accountability for privatization projects](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md)
+- [&sect; 02886 - Prohibiting collection of amounts in addition to rent from members assigned to units](%C2%A7%2002886%20-%20Prohibiting%20collection%20of%20amounts%20in%20addition%20to%20rent%20from%20members%20assigned%20to%20units.md)

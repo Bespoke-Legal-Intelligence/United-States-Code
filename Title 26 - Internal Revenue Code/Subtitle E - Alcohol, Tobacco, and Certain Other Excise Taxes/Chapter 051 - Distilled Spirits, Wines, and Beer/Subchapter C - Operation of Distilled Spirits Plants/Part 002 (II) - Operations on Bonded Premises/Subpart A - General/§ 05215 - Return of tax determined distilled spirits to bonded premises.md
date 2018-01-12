@@ -20,7 +20,7 @@ Under such regulations as the Secretary shall prescribe, bottled distilled spiri
 
 #### Prior Provisions
 
-A prior section 5215, act Aug. 16, 1954, ch. 736, 68A Stat. 640, related to exemption of distillers of fruitbrandy from certain requirements, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5201(c), 5312(a), (c), 5373(a) and 5562 of this title.
+A prior section 5215, act Aug. 16, 1954, ch. 736, 68A Stat. 640, related to exemption of distillers of fruit brandy from certain requirements, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5201(c), 5312(a), (c), 5373(a) and 5562 of this title.
 
 #### Amendments
 
